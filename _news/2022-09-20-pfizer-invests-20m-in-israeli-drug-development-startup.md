@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-20T12:40:00Z
 originalUrl: "https://nocamels.com/2022/09/pfizer-invests-20m-israeli-drug-development/"
 webUrl: "https://nocamels.com/2022/09/pfizer-invests-20m-israeli-drug-development/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: NoCamels - Israeli Innovation News

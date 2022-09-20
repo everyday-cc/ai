@@ -24,17 +24,6 @@ images:
     height: 676
     isCached: true
 
-related:
-  - title: "YouTube machine learning automates landscape videos into vertical ads"
-    excerpt: "Google’s new machine learning automates horizontal ads formatted for standard YouTube videos into vertical ads optimised for YouTube Shorts. In a blog post the company says YouTube is “experimenting with a new machine learning technology that reformats landscape video ads into square or vertical formats based on how someone is watching."
-    publishedDateTime: 2022-09-15T23:12:00Z
-    webUrl: "https://www.adnews.com.au/news/youtube-machine-learning-automates-landscape-videos-into-vertical-ads"
-    type: article
-    provider:
-      name: AdNews
-      domain: adnews.com.au
-    quality: 19
-
 secured: "YmM1GHT6KFh2zML8OuwNP51mXPtzmjRZpjeq4cgY+J7nCGK1etJUHrHsBuWllq9SvzbedaIl6JSsvhpkXSHuD6mgwNE+kiADs4fmZI5i+9iQHZEW6TUi8RJuC58/MwX+ByUM/fVCftXGuEmLvAd7/vOfRamDf28f/y0jeuPTRrHp/La9sfNcAq8AXDMhPzuuUsy2zzum+hq6I50HijZ0lFnEAWp/7twKO6b2fsj27xpfpJA+bEtSvELcuCxISExYxNm26zcYhTi4/N3+bUz89zD0hvxgiwCcZFCqTXjgNzYNJL8nN3W/3pp+Zw/uBGyH+t9E02/LNA2Qc40+nzRV2nD9YKkijunA3rifEkK+FRM/Ri5LXw2y2Hfq7epKVDhH+7epRvxT/62S2itaaTkfx+a/IkHcJ5/0+DaAlozY/BWIq1do6jRux4ntm1AyCWwcTsKwoXHie8mr46KZxJoSysyBeXEFcmYAsKp6GDLwKd/JUeaaWg++UvP7lu4zm6hYlKU1gTUoK2+nUvOaNM8OHw==;rKAwIDjnPgXlSu8hfzNJxA=="
 ---
 

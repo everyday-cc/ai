@@ -2,6 +2,222 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-06-27-artificial-intelligence-ai-robots-market-is-booming-globally-with-top-key-players-nvdiasoftbankintelxilinxabbfanuc.md",
+      "title": "Artificial Intelligence (AI) Robots Market is booming Globally with Top key players – NVDIA,SoftBank,Intel,Xilinx,ABB,Fanuc",
+      "excerpt": "This report studies the Artificial Intelligence (AI) Robots Market with many aspects of the industry like the market size, market status, market trends and forecast, the report also provides ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-robots-market-is-booming-globally-with-top-key-players-nvdiasoftbankintelxilinxabbfanuc",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-robots-market-is-booming-globally-with-top-key-players-nvdiasoftbankintelxilinxabbfanuc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/9d10d8d3314df424ef41caaa66d71f8209d22a35-1-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-27T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-27-widely-used-ai-model-makes-robots-racist-and-sexist.md",
+      "title": "Widely Used AI Model Makes Robots Racist and Sexist",
+      "excerpt": "A robot operating with a popular internet-based artificial intelligence system consistently gravitates to men over women, white people over people of color, and jumps to conclusions about peoples' jobs after a glance at their face.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/tn/news/widely-used-ai-model-makes-robots-racist-and-sexist-363042",
+      "originalUrl": "https://www.technologynetworks.com/tn/news/widely-used-ai-model-makes-robots-racist-and-sexist-363042",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/363042/widely-used-ai-model-makes-robots-racist-and-sexist-363042-640x360.jpg?cb=20220627",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-27T01:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-27-ai-ai-o-the-first-driverless-robot-tractor-unveiled-to-farmers-at-show.md",
+      "title": "AI-AI-O: The first driverless robot tractor unveiled to farmers at show",
+      "excerpt": "Capable of a multitude of farm tasks using normal farm implement attachments, the AgBot 5.115T2 is a 156hp dual tracked driverless tractor which is now available to buy from Angus-based precision ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scotsman.com/country-and-farming/ai-ai-o-the-first-driverless-robot-tractor-unveiled-to-farmers-at-show-3745900",
+      "originalUrl": "https://www.scotsman.com/country-and-farming/ai-ai-o-the-first-driverless-robot-tractor-unveiled-to-farmers-at-show-3745900",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.scotsman.com/webimg/b25lY21zOmExMDliNTViLTAzMzMtNDRhYi04MTQ2LTI0ZjVkMGI3YmQ1MzplZmMyNDY0Yi01N2JiLTQwOTMtYmNlOS0yZjFkYjlhYzlmYzQ=.jpg?width=1200&enable=upscale",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-26T22:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Scotsman",
+        "domain": "scotsman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-27-area-high-school-students-learn-about-robotics-at-summer-camp.md",
+      "title": "Area high school students learn about robotics at summer camp",
+      "excerpt": "Isa Alstrom and Brody Guajardo worked together Tuesday to build a robot and create a program that will allow the robot to detect colors using sensors during the University of",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/news/area-high-school-students-learn-about-robotics-at-summer-camp/article_7846e020-f264-11ec-8346-2f09bd6ec0c0.html",
+      "originalUrl": "https://www.victoriaadvocate.com/news/area-high-school-students-learn-about-robotics-at-summer-camp/article_7846e020-f264-11ec-8346-2f09bd6ec0c0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/c/02/c02058d6-f264-11ec-b8b3-3f74528f226c/62b3730067bfb.image.jpg?resize=400%2C302",
+          "width": 400,
+          "height": 302,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-26T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-purchased-by-flagship-harbor-advisors-llc.md",
+      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Shares Purchased by Flagship Harbor Advisors LLC",
+      "excerpt": "Flagship Harbor Advisors LLC raised its holdings in shares of First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) by 5.2% in the first quarter, according to the company in its most recent filing with the Securities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.etfdailynews.com/2022/06/25/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-purchased-by-flagship-harbor-advisors-llc/",
+      "originalUrl": "https://www.etfdailynews.com/2022/06/25/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-purchased-by-flagship-harbor-advisors-llc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks7.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.etfdailynews.com/2022/06/25/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-purchased-by-flagship-harbor-advisors-llc/amp/",
+      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/25/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-purchased-by-flagship-harbor-advisors-llc/amp/",
+      "publishedDateTime": "2022-06-25T02:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETF Daily News",
+        "domain": "etfdailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-06-25-nigerias-oil-sector-looks-on-as-robotics-adoption-picks-up.md",
       "title": "Nigeria’s oil sector looks on as robotics adoption picks up",
       "excerpt": "The world is prepping for an oil and gas industry where completely unmanned assets are operated, inspected and maintained with digitisation and artificial",
@@ -1133,232 +1349,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-artificial-intelligence-robotics-market-size-share-study-overview-dynamics-manufacturing-cost-analysis-and-forecast-outlook-2026.md",
-      "title": "Artificial Intelligence Robotics Market Size, Share, Study Overview, Dynamics, Manufacturing Cost Analysis and Forecast Outlook 2026",
-      "excerpt": "Artificial Intelligence Robotics Market research study provides an in-depth analysis of current industry scenarios like Size, Share, Revenue, Leading Competitors, Risk, and Growth factors that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robotics-market-size-share-study-overview-dynamics-manufacturing-cost-analysis-and-forecast-outlook-2026",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robotics-market-size-share-study-overview-dynamics-manufacturing-cost-analysis-and-forecast-outlook-2026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/07/749967692b9d1f63cada0512a324a03291f1b519-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-17T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-ai-and-robotics-in-healthcare-a-phone-could-hear-if-you-have-tb.md",
-      "title": "AI and Robotics in healthcare: A phone could hear if you have TB",
-      "excerpt": "AI and robotics are leading to significant healthcare advances in South Africa. Robots in a hospital in Cape Town are helping surgeons operate more precisely and allowing patients to speak to distant relatives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/av/world-africa-61834753",
-      "originalUrl": "https://www.bbc.com/news/av/world-africa-61834753",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/1639B/production/_125453019_p0cffz8h.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-17T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-florida-man-becomes-first-person-to-live-with-advanced-mind-controlled-robotic-arm.md",
-      "title": "Florida Man Becomes First Person to Live With Advanced Mind-Controlled Robotic Arm",
-      "excerpt": "Matheny, who lost his arm to cancer in 2005, has recently become the first person to live with an advanced mind-controlled robotic arm. He received the arm in December and will be spending the ...",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/mind-controlled-robotic-arm-johnny-matheny",
-      "originalUrl": "https://futurism.com/mind-controlled-robotic-arm-johnny-matheny",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2018/02/limb-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/mind-controlled-robotic-arm-johnny-matheny/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/mind-controlled-robotic-arm-johnny-matheny/amp",
-      "publishedDateTime": "2022-06-16T23:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-new-ai-limbs-let-amputees-control-robotic-arms-with-just-the-power-of-their-mind.md",
-      "title": "New AI limbs let amputees control robotic arms with just the power of their mind",
-      "excerpt": "AMPUTEES could use the power of their minds to control new AI robotic arms, research shows. A team of scientists has created prosthetic technology that enables people to control robot arms by",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.co.uk/tech/18915787/amputees-control-artificial-intelligence-limbs-mind-power/",
-      "originalUrl": "https://www.thesun.co.uk/tech/18915787/amputees-control-artificial-intelligence-limbs-mind-power/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/06/RL-offplat-brain-power.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.co.uk/tech/18915787/amputees-control-artificial-intelligence-limbs-mind-power/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/18915787/amputees-control-artificial-intelligence-limbs-mind-power/amp/",
-      "publishedDateTime": "2022-06-16T18:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "thesun.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance.md",
-      "title": "Robot artist Ai-Da paints Glastonbury headliners ahead of festival attendance",
-      "excerpt": "Ai-Da Robot has created four portraits of the Somerset festival’s headline acts: Billie Eilish, Diana Ross, Kendrick Lamar and Sir Paul McCartney. To start, Ai-Da Robot uses cameras in its eyes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.ie/entertainment/music/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-41761862.html",
-      "originalUrl": "https://www.independent.ie/entertainment/music/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-41761862.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.independent.ie/entertainment/music/da2ce/41761859.ece/AUTOCROP/w1240h700/ipanews_35e76834-6e7c-4944-b8c4-e926f0e92322_1",
-          "width": 1240,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.independent.ie/entertainment/music/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-41761862.html",
-      "cdnAmpWebUrl": "https://www-independent-ie.cdn.ampproject.org/c/s/www.independent.ie/entertainment/music/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-41761862.html",
-      "publishedDateTime": "2022-06-16T17:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Independent.ie",
-        "domain": "independent.ie",
-        "images": null,
         "publishers": null,
         "authors": null
       },

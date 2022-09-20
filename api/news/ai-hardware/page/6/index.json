@@ -2,6 +2,135 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-07-11-gpu-as-a-service-market-to-value-usd-65-billion-by-2030-says-global-market-insights-inc.md",
+      "title": "GPU As A Service Market To Value USD 65 Billion By 2030, Says Global Market Insights Inc.'",
+      "excerpt": "GPU as a Service (GPUaaS ... as a service market share by 2030 led by growing adoption of cloud computing and AI technologies across various industries. Various enterprises are adopting cloud ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104510645/GPU-As-A-Service-Market-To-Value-USD-65-Billion-By-2030-Says-Global-Market-Insights-Inc",
+      "originalUrl": "https://menafn.com/1104510645/GPU-As-A-Service-Market-To-Value-USD-65-Billion-By-2030-Says-Global-Market-Insights-Inc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-07/11/PN_3cced203-6_Image_In_Body.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-11T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-11-chip-subsidies-are-popular-in-congress-they-still-might-fail.md",
+      "title": "Chip subsidies are popular in Congress. They still might fail.",
+      "excerpt": "The Democrats have an ambitious legislative agenda following the July recess. Chip subsidies hang in the balance, and Sen. Mitch McConnell wants Democrats to stay focused on them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.protocol.com/policy/congress-usica-deal",
+      "originalUrl": "https://www.protocol.com/policy/congress-usica-deal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.protocol.com/media-library/chips.jpg?id=27984646&width=1500&coordinates=1136%2C0%2C1136%2C0&height=2000",
+          "width": 1500,
+          "height": 1999,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.protocol.com/amp/congress-usica-deal-2657637793",
+      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/congress-usica-deal-2657637793",
+      "publishedDateTime": "2022-07-11T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Protocol",
+        "domain": "protocol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-11-that-everyday-ai-in-your-pocket.md",
+      "title": "That everyday AI in your pocket",
+      "excerpt": "Apple’s Photos and Google Photos use AI in several ways — facial recognition, scene detection, image analysis — to sort pictures of people, places and things into albums. This saves you from manually tagging everything and makes it easier to find specific photos.",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/science-tech/some-ai-driven-apps-and-how-to-use-them/cid/1874107",
+      "originalUrl": "https://www.telegraphindia.com/science-tech/some-ai-driven-apps-and-how-to-use-them/cid/1874107",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telegraphindia.com/telegraph/2022/Jul/1657492588_new-project-2022-07-11t040527-511.jpg",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraphindia.com/amp/science-tech/some-ai-driven-apps-and-how-to-use-them/cid/1874107",
+      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/science-tech/some-ai-driven-apps-and-how-to-use-them/cid/1874107",
+      "publishedDateTime": "2022-07-10T15:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-08-researchers-develop-self-calibrated-photonic-chip.md",
       "title": "Researchers Develop Self-calibrated Photonic Chip",
       "excerpt": "The connectivity of current optical chips has been revolutionised, and a wafer thin slice of silicon has replaced cumbersome 3D-optics! In research led by Monash and RMIT Universities in Melbourne, a sophisticated photonic integrated circuit establishes bridges between data superhighways.",
@@ -1280,153 +1409,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-how-to-make-ai-art-dall-e-mini-ai-dungeon-and-more.md",
-      "title": "How to make AI art: DALL-E mini, AI Dungeon, and more",
-      "excerpt": "AI art encompasses everything from text adventures to AI-generated images produced by DALL-E Mini and Latitude Vantage, as well as text-to-speech apps that will \"speak\" in the voice of your favorite characters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/788422/how-to-get-started-with-ai-art-dall-e-mini-ai-dungeon-and-more.html",
-      "originalUrl": "https://www.pcworld.com/article/788422/how-to-get-started-with-ai-art-dall-e-mini-ai-dungeon-and-more.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://b2c-contenthub.com/wp-content/uploads/2022/06/craiyon_2022-6-21_9-42-40.png?w=981",
-          "width": 980,
-          "height": 1199,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/788422/how-to-get-started-with-ai-art-dall-e-mini-ai-dungeon-and-more.html/amp",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/788422/how-to-get-started-with-ai-art-dall-e-mini-ai-dungeon-and-more.html/amp",
-      "publishedDateTime": "2022-06-29T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-govt-unveils-w1tr-spending-package-for-ai-chip-dominance.md",
-      "title": "Govt. unveils W1tr spending package for AI chip dominance",
-      "excerpt": "The government will also support feasibility studies for AI chips and endorse collaborative research projects with counterparts in the United States. The Science Ministry said the nation‘s focus ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreaherald.com/view.php?ud=20220627000640&np=7&mp=1",
-      "originalUrl": "https://www.koreaherald.com/view.php?ud=20220627000640&np=7&mp=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2022%2F06%2F27%2F20220627000640_0.jpg",
-          "width": 630,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20220627000640",
-      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20220627000640",
-      "publishedDateTime": "2022-06-27T22:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Herald",
-        "domain": "koreaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-nvidia-partners-with-runai-and-weights-biases-for-mlops-stack.md",
-      "title": "Nvidia partners with Run:ai and Weights & Biases for MLops Stack",
-      "excerpt": "In a bid to help make machine learning workflow lifecycles easier for data scientists, AI compute orchestration vendor Run:ai and MLops platform vendor Weights & Biases (W&B), are partnering with Nvidia.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/27/nvidia-partners-with-runai-and-weights-biases-for-mlops-stack/",
-      "originalUrl": "https://venturebeat.com/2022/06/27/nvidia-partners-with-runai-and-weights-biases-for-mlops-stack/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_751715872.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/27/nvidia-partners-with-runai-and-weights-biases-for-mlops-stack/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/27/nvidia-partners-with-runai-and-weights-biases-for-mlops-stack/amp/",
-      "publishedDateTime": "2022-06-27T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,137 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-06-16-massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip.md",
+      "title": "Massachusetts Institute of Technology: Engineers build LEGO-like artificial intelligence chip",
+      "excerpt": "Imagine a more sustainable future, where cellphones, smartwatches, and other wearable devices don’t have to be shelved or discarded for a newer model. Instead, they could be upgraded with the latest s",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/",
+      "originalUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/",
+      "publishedDateTime": "2022-06-15T23:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-intel-arc-alchemist-a380-is-finally-here-to-rival-amds-entry-level-gpu.md",
+      "title": "Intel Arc Alchemist A380 is finally here to rival AMD’s entry-level GPU",
+      "excerpt": "The entry-level GPU is positioned to be the rival to AMD’s Radeon RX 6400. The bad news is that you likely won’t be able to get your hands on Intel’s first graphics card for a while yet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/intel-announces-arc-alchemist-a380-desktop-gpu/",
+      "originalUrl": "https://www.digitaltrends.com/computing/intel-announces-arc-alchemist-a380-desktop-gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/06/INTEL-ARC-A380-3.jpg?p=1",
+          "width": 1858,
+          "height": 979,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/intel-announces-arc-alchemist-a380-desktop-gpu/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/intel-announces-arc-alchemist-a380-desktop-gpu/?amp",
+      "publishedDateTime": "2022-06-15T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-think-silicon-to-unveil-industrys-first-risc-v-3d-gpu-at-embedded-world-2022.md",
+      "title": "Think Silicon to Unveil Industry’s First RISC-V 3D GPU at Embedded World 2022",
+      "excerpt": "Think Silicon®, a leader in ultra-low power graphics IP, will showcase the industry’s first RISC-V-based GPU – the NEOX™ G-Series & A-Series – at Embedded World 2022. The company will also introduce the NEMA®|pico-VG,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-greece-athens-fda81fdd2c7f9daa492ec82dc36455e5",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-greece-athens-fda81fdd2c7f9daa492ec82dc36455e5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-15T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-mit-has-made-a-lego-like-ai-chip-that-stacks-to-upgrade-your-device.md",
       "title": "MIT Has Made A Lego-Like AI Chip That Stacks To Upgrade Your Device",
       "excerpt": "MIT engineers have now developed an AI chip resembling LEGO as they intend to create modular and sustainable electronics.",
@@ -1210,144 +1341,6 @@
       "provider": {
         "name": "Design News",
         "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-cloud-ai-chip-market-size-and-share-2022-global-industry-dynamics-growth-analysis-solution-and-services-report-by-forecast-2028.md",
-      "title": "Cloud AI Chip Market Size and Share 2022: Global Industry Dynamics, Growth Analysis, Solution and Services Report by Forecast 2028",
-      "excerpt": "Jun 01, 2022 (Heraldkeepers) -- The Cloud AI Chip market report gives a complete analysis of the market’s pandemic. This information contains, among other things, the present influence on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-ai-chip-market-size-and-share-2022-global-industry-dynamics-growth-analysis-solution-and-services-report-by-forecast-2028-2022-06-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/cloud-ai-chip-market-size-and-share-2022-global-industry-dynamics-growth-analysis-solution-and-services-report-by-forecast-2028-2022-06-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T15:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-intel-arc-mobile-graphics-performance-preview-a-new-player-enters-the-gpu-game.md",
-      "title": "Intel Arc Mobile Graphics Performance Preview: A New Player Enters The GPU Game",
-      "excerpt": "I was able to not only go under the hood of an Intel Arc Graphics reference platform laptop from one of its OEM partners, but I can also now share with you an extensive array of performance metrics as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2022/06/01/intel-arc-mobile-graphics-performance-preview-a-new-player-enters-the-gpu-game/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2022/06/01/intel-arc-mobile-graphics-performance-preview-a-new-player-enters-the-gpu-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62965cf3efbd9026d0d94143/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universitat-erlangen-nurnberg.md",
-      "title": "Inspur Information and MEGWARE Build a Leading GPU Cluster for the Friedrich-Alexander-Universität Erlangen-Nürnberg",
-      "excerpt": "Performance targets were exceeded in machine learning and molecular dynamics, which are essential to advancing scientific research and discovery STUTTGART, Germany–(BUSINESS WIRE)–Inspur information, a leading IT infrastructure solutions provider, and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universitat-erlangen-nurnberg/",
-      "originalUrl": "https://www.01net.it/inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universitat-erlangen-nurnberg/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.01net.it/inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universitat-erlangen-nurnberg/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universitat-erlangen-nurnberg/amp/",
-      "publishedDateTime": "2022-06-01T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
         "images": null,
         "publishers": null,
         "authors": null

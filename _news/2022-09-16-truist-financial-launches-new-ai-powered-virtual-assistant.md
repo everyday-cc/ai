@@ -25,63 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Truist launches AI-enhanced Truist Assist"
-    excerpt: "Truist Financial today launched its artificial intelligence (AI)-enhanced virtual assistant Truist Assist, which introduces a self-service element to the bank’s customer experience offerings. The virtual assistant leverages natural language processing and natural language understanding that helps answer client questions in a digital channel,"
-    publishedDateTime: 2022-09-15T21:34:00Z
-    webUrl: "https://www.autofinancenews.net/allposts/innovation-technology/truist-launches-ai-enhanced-truist-assist/"
-    ampWebUrl: "https://www.autofinancenews.net/allposts/innovation-technology/truist-launches-ai-enhanced-truist-assist/amp/"
-    cdnAmpWebUrl: "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/innovation-technology/truist-launches-ai-enhanced-truist-assist/amp/"
+  - title: "Augment’s personal AI assistant could help you keep track of a scattered digital life"
+    excerpt: "Ever totally forget the person, email or document you're supposed to talk about in the next call? Augment's personal AI assistant might help."
+    publishedDateTime: 2022-09-20T17:09:00Z
+    webUrl: "https://techcrunch.com/2022/09/20/augments-personalized-ai-assistant-could-help-you-keep-track-of-a-scattered-digital-life/"
+    ampWebUrl: "https://techcrunch.com/2022/09/20/augments-personalized-ai-assistant-could-help-you-keep-track-of-a-scattered-digital-life/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/20/augments-personalized-ai-assistant-could-help-you-keep-track-of-a-scattered-digital-life/amp/"
     type: article
     provider:
-      name: autofinancenews
-      domain: autofinancenews.net
-    quality: 59
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 80
     images:
-      - url: "https://www.autofinancenews.net/wp-content/uploads/2019/10/canstockphoto14662879.jpg"
-        width: 3000
-        height: 2126
-        isCached: true
-  - title: "Truist launches AI-enhanced virtual assistant"
-    excerpt: "Truist Financial Corporation ( NYSE: TFC), today announced the launch of Truist Assist in its mobile banking app and online banking platform for personal banking (retail and wealth) clients."
-    publishedDateTime: 2022-09-16T16:10:00Z
-    webUrl: "https://www.finextra.com/pressarticle/94089/truist-launches-ai-enhanced-virtual-assistant"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "Truist Assist platform launched for personal banking"
-    excerpt: "Truist Financial Corp. launched Thursday its Truist Assist mobile banking app and online banking platform for personal banking (retail and wealth) customers."
-    publishedDateTime: 2022-09-15T20:05:00Z
-    webUrl: "https://journalnow.com/business/local/truist-assist-platform-launched-for-personal-banking/article_25cf6676-3514-11ed-9a74-73946cc45000.html"
-    type: article
-    provider:
-      name: Winston-Salem Journal
-      domain: journalnow.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/9/d0/9d09f603-fa7d-53b1-9ad8-343dac794b2b/5f652cc4d1953.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://techcrunch.com/wp-content/uploads/2022/09/augment-header.jpg?resize=1200,738"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Truist launches virtual assistant after a year of development"
-    excerpt: "On Thursday the Charlotte, North Carolina, bank announced the launch of Truist Assist, a digital assistant that uses natural-language processing and natural-language understanding to interpret customer questions."
-    publishedDateTime: 2022-09-15T20:30:00Z
-    webUrl: "https://www.americanbanker.com/news/truist-launches-virtual-assistant-after-a-year-of-development"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 24
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/fecd017/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fc4%2F47%2Fc94caa6b4c7cb5bbc5683f65df5c%2Ftruist-logo.jpg"
-        width: 1200
-        height: 630
+        height: 738
         isCached: true
 
 secured: "laoptGN8GKpxJdFZoUtOXCyZz86yW8wgybWXeOnyuJz178UW9IlEpBPrDtY+VR5oLSBJFlbm/0MqhVrtkldyl1PeoxkT/HGoEAbPOn4W+MHwxcVLoqEgeUHHUAiZ7bMei3/G4x08ZPFPyQvCIUD/PvoVFGHza2IwmvOZUK8+FsjfPhe5sJOAKPMqmM9EA6G45tnoJ1SQ7gjjek8YivjlzV7gDDSzQngOmKa4xzBuJD6xTUfG7ZOrag+OlWiEpoQpgF0e1/3eqJgSJWIXe/83cP/iu+9nRhbdwKR8hQF+6gH1LW8nbjR3ri0KKlYz3E1u4+PVuK0NjGO8qfnvibQ9/XXC7HeO3fd2KpgneqHPD1HMUev89Bath+NLg/TvLRp6XxeEH3K/Mg3YaTqg3F0axcdZcXUxjjvVpHzM5NYU8FAmFGs2At8SpXCFmMhiEInAN0RGfZ/ET+gplOhtKmqmNg985RSyMoMIqQFDE0C+jJj7xoJhS0/6GyEEdCoAgneBcedOw4wGJg+KFhm4aM3+8w==;ttddAs7S9da3DzpJb4bD9A=="

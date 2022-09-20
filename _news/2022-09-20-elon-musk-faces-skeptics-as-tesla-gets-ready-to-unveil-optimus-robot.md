@@ -1,21 +1,52 @@
 ---
 category: news
-title: "Elon Musk faces skeptics as Tesla gets ready to unveil ‘Optimus’ robot"
-excerpt: "The robot business eventually may be worth more than Tesla’s car revenue, according to Musk, who is now touting a vision for the company that goes well beyond making self-driving electric vehicles."
-publishedDateTime: 2022-09-20T13:15:00Z
-originalUrl: "https://www.nbcnews.com/tech/tech-news/elon-musk-faces-skeptics-tesla-gets-ready-unveil-optimus-robot-rcna48504"
-webUrl: "https://www.nbcnews.com/tech/tech-news/elon-musk-faces-skeptics-tesla-gets-ready-unveil-optimus-robot-rcna48504"
+title: "Elon Musk faces skeptics as Tesla gets ready to unveil 'Optimus' robot"
+excerpt: "Tesla chief executive Elon Musk blamed overreliance on factory robots for sending the electric carmaker to \"production hell\" four years ago, saying humans were better at certain jobs. My, how times have changed."
+publishedDateTime: 2022-09-20T16:16:00Z
+originalUrl: "https://economictimes.indiatimes.com/tech/technology/elon-musk-faces-skeptics-as-tesla-gets-ready-to-unveil-optimus-robot/articleshow/94334528.cms"
+webUrl: "https://economictimes.indiatimes.com/tech/technology/elon-musk-faces-skeptics-as-tesla-gets-ready-to-unveil-optimus-robot/articleshow/94334528.cms"
+ampWebUrl: "https://m.economictimes.com/tech/technology/elon-musk-faces-skeptics-as-tesla-gets-ready-to-unveil-optimus-robot/amp_articleshow/94334528.cms"
+cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/elon-musk-faces-skeptics-as-tesla-gets-ready-to-unveil-optimus-robot/amp_articleshow/94334528.cms"
 type: article
+quality: 76
+heat: 96
+published: true
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: Indiatimes
+  domain: indiatimes.com
 
 topics:
   - AI in Robotics
   - AI
   - AI in Autos
 
-secured: "paE+LkeMhPyJhuAeiEtR8Pc+mbuwyJ8hw/gkINUVhIWOcOZrguo4gY4qbgWdhNlCILCoY698rbOwKhFIjOFOLMY0FqsNth8By1+qce093+bFRw9emq6ryriWUGDtVbKCn3hv1jrRVo8JE+4TSfqh9gDIDpMNIG88dEqge9K8GgEfMl/kdfVX06ZWLXAE7ebYGCxzDMbL5pDr4GN2kUj2exsoISI3D4+541jp1m8ZrOCF9cTisf17cUwIErtrq9dsMffctrSw+h1b1DEBsuu3Fc7QGc79/4pZ6CNWwZq92Rcn4RPi3aNgEvodAg4aY3URdUgKdM9lrG8y1+ax4nxOjBxcE/FNn/d4hno3XIw8ICtSA9F0rNLR7gC3ak1svkHdCDSO+lv8XdhmrafnPwZGJ9gGpDeXZM/5Dtq+AR7XXq4yle4w592r05pxq/DNLSCatzaJp9jcY9+YOSip6HFkh6/yY9oCUiFfgUIciZUUT8d/Jd/txhH++L22t0PKrceuP1t9MmpIvNWi0CdXgTyt4g==;w4LJ8ABvXVxFors41OYAJA=="
+images:
+  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-12986,msid-94334519/elon-musk-tesla.jpg"
+    width: 600
+    height: 450
+    isCached: true
+
+related:
+  - title: "Musk faces sceptics as Tesla gets ready to unveil 'Optimus' robot"
+    excerpt: "Tesla CEO Elon Musk blamed overreliance on factory robots for sending the electric carmaker to \"production hell\" four years ago, saying humans were better at certain jobs."
+    publishedDateTime: 2022-09-20T13:43:00Z
+    webUrl: "https://www.timeslive.co.za/motoring/news/2022-09-20-musk-faces-sceptics-as-tesla-gets-ready-to-unveil-optimus-robot/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 36
+  - title: "Elon Musk says Tesla will unveil a project Optimus prototype robot on September 30"
+    excerpt: "In addition to working in factories, Musk said at a TED Talk robots could be in homes, make dinner, mow lawns, care for the elderly people, and even become a \"buddy\" or a \"catgirl\" sex partner."
+    publishedDateTime: 2022-09-20T12:53:00Z
+    webUrl: "https://www.autoblog.com/2022/09/20/tesla-robot-elon-musk-reveal/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 30
+
+secured: "s7GS9Dlglb733touIkIhE/iuJEb7AmVENfmbSdwR6vmz4FWUfLROOMyaLJ66rYb0x+Jd6M1A5/dj45wax5UjYQrXhfsEwSwdKWXTskbFhU8ubLjWE4+Y0LN0PlgFB2IoisKqi9sVummt6NZ+C/Bzz5fOMcesxUyk/io0zusuU8lPwofDufncwgpEPqL+GMwyrT3CdiRjUxdNOsDpP0ol1/BkW6NSXspf3hyk6Z0NB/xp+pSjPR8Dx83RGwnyI1IxhU7DZg8WXJooPTRvSUHp6weyGkH0Bf24rfEMuV7e9xuFNv88r1H4C6VuDNXx4u/6/An5VEUrtt8Fgrdy7yBUgZ7LSpJGcTrOHsvC81JlcWE=;bkNzfB1RDQiqh7TNqzcX7Q=="
 ---
 

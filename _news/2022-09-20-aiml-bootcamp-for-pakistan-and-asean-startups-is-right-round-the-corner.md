@@ -9,7 +9,7 @@ ampWebUrl: "https://propakistani.pk/2022/09/20/ai-ml-bootcamp-for-pakistan-and-a
 cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2022/09/20/ai-ml-bootcamp-for-pakistan-and-asean-startups-is-right-round-the-corner/amp/"
 type: article
 quality: 75
-heat: 75
+heat: 77
 published: true
 
 provider:

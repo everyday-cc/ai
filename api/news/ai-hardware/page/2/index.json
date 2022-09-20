@@ -2,6 +2,157 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-08-qualcomm-is-still-the-most-efficient-ai-accelerator-for-image-processing.md",
+      "title": "Qualcomm Is Still The Most Efficient AI Accelerator For Image Processing",
+      "excerpt": "Company’s recent design wins with leading server vendors indicates strong customer demand, especially in edge image processing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/09/08/qualcomm-is-still-the-most-efficient-ai-accelerator-for-image-processing/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/09/08/qualcomm-is-still-the-most-efficient-ai-accelerator-for-image-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6319090efc2d7f948d213eba/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/09/08/qualcomm-is-still-the-most-efficient-ai-accelerator-for-image-processing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/09/08/qualcomm-is-still-the-most-efficient-ai-accelerator-for-image-processing/amp/",
+      "publishedDateTime": "2022-09-08T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-09-08-apples-latest-a16-bionic-chip-comes-with-5-core-gpu-16-core-neural-engine.md",
+      "title": "Apple's latest A16 Bionic chip comes with 5-core GPU, 16-core neural engine",
+      "excerpt": "At Wednesday's Apple event in Cupertino, California, the company finally revealed its iPhone 14 Pro lineup, which is powered by the latest A16 chip, the successor of last year's A15 chip",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/technology/apple-s-latest-a16-bionic-chip-comes-with-5-core-gpu-16-core-neural-engine-122090800084_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/apple-s-latest-a16-bionic-chip-comes-with-5-core-gpu-16-core-neural-engine-122090800084_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/10/full/1631297645-9379.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/apple-s-latest-a16-bionic-chip-comes-with-5-core-gpu-16-core-neural-engine-122090800084_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/apple-s-latest-a16-bionic-chip-comes-with-5-core-gpu-16-core-neural-engine-122090800084_1.html",
+      "publishedDateTime": "2022-09-07T18:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-is-intel-labs-brain-inspired-ai-approach-the-future-of-robot-learning.md",
+      "title": "Is Intel Labs’ brain-inspired AI approach the future of robot learning?",
+      "excerpt": "Intel Labs’ new neuromorphic computing approach is aimed primarily at future applications such as robotic assistants.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/is-intel-labs-brain-inspired-ai-approach-the-future-of-robot-learning/",
+      "originalUrl": "https://venturebeat.com/ai/is-intel-labs-brain-inspired-ai-approach-the-future-of-robot-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/Intel.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/is-intel-labs-brain-inspired-ai-approach-the-future-of-robot-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/is-intel-labs-brain-inspired-ai-approach-the-future-of-robot-learning/amp/",
+      "publishedDateTime": "2022-09-07T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-09-06-qualcomms-snapdragon-6-and-4-gen-1-chips-are-big-deals-for-cheap-phones.md",
       "title": "Qualcomm’s Snapdragon 6 and 4 Gen 1 chips are big deals for cheap phones",
       "excerpt": "Qualcomm's latest Snapdragon 6 Gen 1 and Snapdragon 4 Gen 1 chips promise impressive camera, gaming, and connectivity upgrades for budget Android smartphones.",
@@ -1249,156 +1400,6 @@
       "provider": {
         "name": "Digital Journal",
         "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-will-untether-ais-speedai240-boqueria-inferencing-chip-be-the-one.md",
-      "title": "Will Untether AI’s SpeedAI240 “Boqueria” Inferencing Chip Be “The One”?",
-      "excerpt": "One of the latest AI/ML chips to appear was revealed at last week’s Hot Chips 34 conference. Untether AI’s founder Martin Snelgrove and VP of Product Bob Beachler rolled out their company’s speedAI chip family,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/630c2f17dc25910550390ffe/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/amp/",
-      "publishedDateTime": "2022-08-29T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-global-artifical-intelligence-chip-market-size-by-major-players-trends-key-regions-and-growth-forecast-to-2022-2031.md",
-      "title": "Global Artifical Intelligence Chip Market Size by Major Players, Trends, Key Regions and Growth Forecast to 2022-2031",
-      "excerpt": "The worldwide artificial intelligence chip market size is esteemed to mark revenue of USD 9 billion in 2021 and is",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artifical-intelligence-chip-market-size-by-major-players-trends-key-regions-and-growth-forecast-to-2022-2031-2022-08-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artifical-intelligence-chip-market-size-by-major-players-trends-key-regions-and-growth-forecast-to-2022-2031-2022-08-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-robe-array-could-let-small-companies-access-popular-form-of-ai.md",
-      "title": "ROBE Array could let small companies access popular form of AI",
-      "excerpt": "ROBE Array, a breakthrough low-memory training technique for deep-learning recommendation models, could put one of the most resource-intensive forms of artificial intelligence within reach of small companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/963202",
-      "originalUrl": "https://www.eurekalert.org/news-releases/963202",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a757d684-37b6-4c90-a038-84ff922567e5/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eurekalert.org/news-releases/963202",
-      "cdnAmpWebUrl": "https://www-eurekalert-org.cdn.ampproject.org/c/s/www.eurekalert.org/news-releases/963202",
-      "publishedDateTime": "2022-08-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null

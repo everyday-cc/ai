@@ -2,6 +2,155 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-20-elon-musk-faces-skeptics-as-tesla-gets-ready-to-unveil-optimus-robot.md",
+      "title": "Elon Musk faces skeptics as Tesla gets ready to unveil 'Optimus' robot",
+      "excerpt": "Tesla chief executive Elon Musk blamed overreliance on factory robots for sending the electric carmaker to \"production hell\" four years ago, saying humans were better at certain jobs. My, how times have changed.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/elon-musk-faces-skeptics-as-tesla-gets-ready-to-unveil-optimus-robot/articleshow/94334528.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/elon-musk-faces-skeptics-as-tesla-gets-ready-to-unveil-optimus-robot/articleshow/94334528.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-12986,msid-94334519/elon-musk-tesla.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/elon-musk-faces-skeptics-as-tesla-gets-ready-to-unveil-optimus-robot/amp_articleshow/94334528.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/elon-musk-faces-skeptics-as-tesla-gets-ready-to-unveil-optimus-robot/amp_articleshow/94334528.cms",
+      "publishedDateTime": "2022-09-20T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-nvidia-wants-to-be-the-brains-of-your-self-driving-car.md",
+      "title": "Nvidia Wants to Be the Brains of Your Self-Driving Car",
+      "excerpt": "Chip designer Nvidia on Tuesday revealed a new processor called Drive Thor it expects will power the autonomous vehicle revolution. Thor processors should arrive in 2024 for cars hitting the roads in 2025,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/nvidia-wants-to-be-the-brains-of-your-self-driving-car/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/nvidia-wants-to-be-the-brains-of-your-self-driving-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/02e686580812771a6c1f41008fd6a55334121716/hub/2022/09/20/2b060158-f211-48cf-8c58-79f54886c3e0/zeekr-001-ev.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidia-wants-to-be-the-brains-of-your-self-driving-car/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-wants-to-be-the-brains-of-your-self-driving-car/",
+      "publishedDateTime": "2022-09-20T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-factbox-the-challenges-automakers-and-now-tesla-face-with-humanoid-robots.md",
+      "title": "Factbox: The challenges automakers, and now Tesla, face with humanoid robots",
+      "excerpt": "Tesla's CEO Elon Musk is set to unveil its prototype humanoid robots at an event on Sept. 30, hoping to expand beyond self-driving cars that have not yet become reality despite his repeated promises.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/challenges-automakers-now-tesla-face-with-humanoid-robots-2022-09-20/",
+      "originalUrl": "https://www.reuters.com/technology/challenges-automakers-now-tesla-face-with-humanoid-robots-2022-09-20/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/UIBi6hsuoRG96_8hgRaAlbj-InE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HK3GFOZNRJJNHFHO4TNPIOP7WM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-asias-first-driverless-cimc-made-boarding-bridge-comes-into-operation-in-china.md",
       "title": "Asia's first driverless CIMC-made boarding bridge comes into operation in China",
       "excerpt": "The first driverless boarding bridge in Asia has been officially put into operation at Chengdu Tianfu International Airport in southwest China, marking a milestone in the intelligent upgrade of Chinese civil aviation industry.",
@@ -51,55 +200,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud.md",
-      "title": "Putting artificial intelligence and machine learning workloads in the cloud",
-      "excerpt": "We look at the pros and cons of putting artificial intelligence (AI) and machine learning (ML) applications in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud",
-      "originalUrl": "https://www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/rms/onlineimages/ai_a352095729.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud?amp=1",
-      "publishedDateTime": "2022-09-18T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare",
-        "Natural Language Processing",
-        "Microsoft AI",
-        "AI in Finance",
-        "AI in Autos",
-        "IBM AI"
       ]
     },
     {
@@ -188,6 +288,101 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-will-artificial-intelligence-chatbots-become-our-new-best-friends.md",
+      "title": "Will artificial intelligence chatbots become our new best friends?",
+      "excerpt": "There was a time when the idea of artificial intelligence was confined to the world of distant research labs and little-known technology whizzes. That time has gone. AI-based concepts have slipped ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/independentpremium/long-reads/chat-box-artificial-intelligence-sentience-b2162576.html",
+      "originalUrl": "https://www.independent.co.uk/independentpremium/long-reads/chat-box-artificial-intelligence-sentience-b2162576.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2022/09/09/09/GettyImages-1211994930.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T16:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-elon-musk-believes-self-driving-cars-are-the-future-but-most-americans-are-wary-new-survey-shows.md",
+      "title": "Elon Musk believes self-driving cars are the future, but most Americans are wary, new survey shows",
+      "excerpt": "Tech entrepreneurs like Elon Musk have said that self-driving cars will make regular vehicles obsolete, but most Americans are wary. A new survey found that three out of every four Americans feel ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/americans-feel-unsafe-around-self-driving-cars-survey-2022-9",
+      "originalUrl": "https://www.businessinsider.com/americans-feel-unsafe-around-self-driving-cars-survey-2022-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63235b62d5916b0019abe86f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/americans-feel-unsafe-around-self-driving-cars-survey-2022-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/americans-feel-unsafe-around-self-driving-cars-survey-2022-9?amp",
+      "publishedDateTime": "2022-09-15T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1191,160 +1386,6 @@
       "provider": {
         "name": "Tom's Guide",
         "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-driverless-vehicle-maker-aurrigo-to-float.md",
-      "title": "Driverless vehicle maker Aurrigo to float",
-      "excerpt": "A maker of driverless vehicles that could solve delays at airports is to list on Aim on Thursday, braving a stock market where there has been a dearth of company floats. Coventry-based Aurrigo ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/article/driverless-vehicle-maker-aurrigo-to-float-pxshf9fk7",
-      "originalUrl": "https://www.thetimes.co.uk/article/driverless-vehicle-maker-aurrigo-to-float-pxshf9fk7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-11T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-11-driverless-food-delivery-nuro-teams-up-with-uber-eats-to-deploy-autonomous-vehicles-in-mountain-view.md",
-      "title": "Driverless food delivery: Nuro teams up with Uber Eats to deploy autonomous vehicles in Mountain View",
-      "excerpt": "Mountain View-based Nuro and Uber are embarking on a new multiyear partnership to use Nuro's autonomous, electric vehicles for food deliveries in the United States, the companies announced ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.paloaltoonline.com/news/2022/09/11/driverless-food-delivery-nuro-teams-up-with-uber-eats-to-deploy-autonomous-vehicles-in-mountain-view",
-      "originalUrl": "https://www.paloaltoonline.com/news/2022/09/11/driverless-food-delivery-nuro-teams-up-with-uber-eats-to-deploy-autonomous-vehicles-in-mountain-view",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-11T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Palo Alto Weekly",
-        "domain": "paloaltoonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-10-meta-developing-artificial-intelligence-that-can-hear-brainwaves.md",
-      "title": "Meta developing artificial intelligence that can 'hear' brainwaves",
-      "excerpt": "While Meta's research is in the early stages, the company is funding research into artificial intelligence to help people with brain injuries communicate by recording their brain activity without ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonexaminer.com/news/meta-brainwaves-hearing-artificial-intelligence",
-      "originalUrl": "https://www.washingtonexaminer.com/news/meta-brainwaves-hearing-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediadc.brightspotcdn.com/dims4/default/16b88ad/2147483647/strip/true/crop/2290x1202+0+62/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fcf%2F2e%2Fe7108d0f4f608cc5529ae7adeab2%2Fai.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-10T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Examiner",
-        "domain": "washingtonexaminer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-10-survey-majority-of-pennsylvanians-not-comfortable-sharing-road-with-driverless-cars.md",
-      "title": "Survey: Majority of Pennsylvanians not comfortable sharing road with driverless cars",
-      "excerpt": "PITTSBURGH (KDKA) — A new survey shows a majority of Pennsylvanians are not comfortable sharing the road with driverless cars. A bipartisan polling firm found more than half of respondents said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/pittsburgh/news/survey-majority-of-pennsylvanians-not-comfortable-sharing-road-driverless-cars/",
-      "originalUrl": "https://www.cbsnews.com/pittsburgh/news/survey-majority-of-pennsylvanians-not-comfortable-sharing-road-driverless-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2018/11/13/2090d1a1-84ad-4e28-a6b6-955429a72c73/thumbnail/1200x630/8d226a809d4524bfc474efea5f88a7f8/self-driving.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/pittsburgh/news/survey-majority-of-pennsylvanians-not-comfortable-sharing-road-driverless-cars/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/pittsburgh/news/survey-majority-of-pennsylvanians-not-comfortable-sharing-road-driverless-cars/",
-      "publishedDateTime": "2022-09-09T21:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-19T17:00:00Z
 originalUrl: "https://www.therecord.com/ts/news/canada/2022/09/19/did-canada-use-facial-recognition-software-to-strip-two-refugees-of-their-status-a-court-wants-better-answers.html"
 webUrl: "https://www.therecord.com/ts/news/canada/2022/09/19/did-canada-use-facial-recognition-software-to-strip-two-refugees-of-their-status-a-court-wants-better-answers.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Waterloo Region Record

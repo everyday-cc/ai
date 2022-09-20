@@ -2,6 +2,877 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-09-06-bitcode-method-driving-financial-stability-by-maximizing-your-crypto-profits.md",
+      "title": "Bitcode Method: Driving Financial Stability by Maximizing Your Crypto Profits",
+      "excerpt": "Driving Financial Stability by Maximizing Your Crypto Profits - The expansion of distributed ledger technology and increased digital venture capital investments are",
+      "sourceUrl": null,
+      "webUrl": "https://www.siliconindia.com/news/general/bitcode-method-driving-financial-stability-by-maximizing-your-crypto-profits-nid-219926-cid-1.html",
+      "originalUrl": "https://www.siliconindia.com/news/general/bitcode-method-driving-financial-stability-by-maximizing-your-crypto-profits-nid-219926-cid-1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.siliconindia.com/news/newsimages/special/ix9d6217.png",
+          "width": 502,
+          "height": 324,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconIndia",
+        "domain": "siliconindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-ai-in-fintech-market-inclinations-and-development-status-highlighted-during-forecast-period-2022-to-2027.md",
+      "title": "AI in Fintech Market Inclinations and Development Status Highlighted During Forecast Period 2022 to 2027",
+      "excerpt": "Report Ocean recently added a research report on the AI in Fintech market. The report includes an extensive analysis of the market's characteristics, COVID-19 impact, size and growth, segmentation, regional and country breakdowns,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-inclinations-and-development-status-highlighted-during-forecast-period-2022-to-2027-2022-09-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-inclinations-and-development-status-highlighted-during-forecast-period-2022-to-2027-2022-09-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-05T23:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-federal-bank-backs-kerala-based-robotics-and-automation-startup-asimov-robotics.md",
+      "title": "Federal Bank Backs Kerala-based Robotics and Automation Startup ASIMOV Robotics",
+      "excerpt": "Federal Bank Backs Kerala-based Robotics and Automation Startup ASIMOV Robotics Pvt Ltd, a firm innovating in the robotics space",
+      "sourceUrl": null,
+      "webUrl": "https://www.indianweb2.com/2022/09/federal-bank-backs-kerala-based.html",
+      "originalUrl": "https://www.indianweb2.com/2022/09/federal-bank-backs-kerala-based.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAiOWqN7HglghM6w5t0XUtEeaUT6ncFiKamfkVfCHu0I_CouDLquzSsjgQzFBY5HfifUJqrlVbonMkJwVvDt-4C6hqgErJwYjPrLofHdDKjg_QYXD0mCkLKYBE8EZF6xAAEjb9wxTMEnHn7cChpuRlWAooa6RVTASj43V35iITV-soA-LkpIEeEOea/s16000/asimov-robotics.jpg",
+          "width": 900,
+          "height": 643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-05T22:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "indianweb2.com",
+        "domain": "indianweb2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-should-you-worry-about-the-new-face-recognition-system-at-airports.md",
+      "title": "Should you worry about the new face recognition system at airports?",
+      "excerpt": "Organisations like the Internet Freedom Foundation and many other activists have slammed the project stating that the system could be misused in a country where there is no data protection or privacy laws.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rediff.com/business/report/tech-should-you-worry-about-the-new-face-recognition-system-at-airports/20220906.htm",
+      "originalUrl": "https://www.rediff.com/business/report/tech-should-you-worry-about-the-new-face-recognition-system-at-airports/20220906.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://im.rediff.com/345-230/news/2022/jun/ransomware-o.jpg",
+          "width": 345,
+          "height": 230,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.rediff.com/amp/business/report/tech-should-you-worry-about-the-new-face-recognition-system-at-airports/20220906.htm",
+      "cdnAmpWebUrl": "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/tech-should-you-worry-about-the-new-face-recognition-system-at-airports/20220906.htm",
+      "publishedDateTime": "2022-09-05T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "rediff.com",
+        "domain": "rediff.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-ai-ethics-why-you-should-care.md",
+      "title": "AI Ethics: Why You Should Care",
+      "excerpt": "The confluence of sensor technology, the internet, massive computational resources, and AI - have led to a world where companies may know more about you than your family and friends (and maybe even more than you know about yourself!",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nishatalagala/2022/09/05/ai-ethics-why-you-should-care/",
+      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2022/09/05/ai-ethics-why-you-should-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6316952483979c27434fdbec/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2022/09/05/ai-ethics-why-you-should-care/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2022/09/05/ai-ethics-why-you-should-care/amp/",
+      "publishedDateTime": "2022-09-05T19:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-five-aussie-startups-and-firms-receiving-major-cash-injections-despite-the-tech-downfall.md",
+      "title": "Five Aussie startups and firms receiving major cash injections despite the tech downfall",
+      "excerpt": "Despite the many unfortunate cases of layoffs and closures, it turns out there are still cash injections about in the tech investment scene.",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartcompany.com.au/startupsmart/advice/startupsmart-funding/aussie-startups-cash-injections-tech-downfall/",
+      "originalUrl": "https://www.smartcompany.com.au/startupsmart/advice/startupsmart-funding/aussie-startups-cash-injections-tech-downfall/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartcompany.com.au/wp-content/uploads/2022/09/the-pitch-winner-Zipr-startup-funding.jpg",
+          "width": 733,
+          "height": 358,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-05T19:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartCompany",
+        "domain": "smartcompany.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-workato-expands-integration-led-automation-availability-in-singapore-deepens-asia-pacific-commitment.md",
+      "title": "Workato expands integration-led automation availability in Singapore, deepens Asia Pacific commitment",
+      "excerpt": "Workato launching its solutions on Amazon Web Services will empower customers to carry out mission-critical business process integrations SINGAPORE - Media OutReach - 6 September 2022 - Workato , a global leader in enterprise automation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/workato-expands-integration-led-automation-availability-singapore-deepens-asia-pacific",
+      "originalUrl": "https://www.asiaone.com/business/workato-expands-integration-led-automation-availability-singapore-deepens-asia-pacific",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Sep2022/WORKato.jpg?h=bde28bee&itok=yD9olfjl",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-05T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-in-conversation-with-ai-building-better-language-models.md",
+      "title": "In conversation with AI: building better language models",
+      "excerpt": "Our new paper, In conversation with AI: aligning language models with human values, explores a different approach, asking what successful communication between humans and an artificial conversational agent might look like and what values should guide conversation in these contexts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/in-conversation-with-ai-building-better-language-models",
+      "originalUrl": "https://www.deepmind.com/blog/in-conversation-with-ai-building-better-language-models",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-what-deep-learning-algorithms-can-teach-us-about-snow.md",
+      "title": "What Deep Learning Algorithms Can Teach Us About Snow",
+      "excerpt": "The DeepPrecip neural network developed by Fraser King and colleagues at the University of Waterloo models weather in order to measure annual snowfall and snowmelt in the context of climate change.",
+      "sourceUrl": null,
+      "webUrl": "https://cacm.acm.org/news/264341-what-deep-learning-algorithms-can-teach-us-about-snow",
+      "originalUrl": "https://cacm.acm.org/news/264341-what-deep-learning-algorithms-can-teach-us-about-snow",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "acm.org",
+        "domain": "acm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-if-you-think-your-preparation-will-help-you-later-you-will-probably-be-right-a-new-study-says.md",
+      "title": "If you think your preparation will help you later, you will probably be right, a new study says",
+      "excerpt": "It just might, according to a new study. People did better on a task relying on their working memory when they underwent cognitive training and learned it would help with their performance ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/09/05/health/positive-expectations-cognitive-training-wellness/index.html",
+      "originalUrl": "https://www.cnn.com/2022/09/05/health/positive-expectations-cognitive-training-wellness/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220902160438-climbing-up-stock-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/09/05/health/positive-expectations-cognitive-training-wellness/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/05/health/positive-expectations-cognitive-training-wellness/index.html",
+      "publishedDateTime": "2022-09-05T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-emerging-technologies-in-automobile-industry-to-push-in-vehicle-ai-robot-demand-states-factmr.md",
+      "title": "Emerging Technologies In Automobile Industry To Push In-Vehicle AI Robot Demand, States Fact.MR",
+      "excerpt": "According to the recent published report at Fact.MR, the global in-vehicle AI robot market is estimated at US$ 38.8 million in 2022. The market is predicted to reach a valuation of US$ 190.7 million by 2032,",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104814406/Emerging-Technologies-In-Automobile-Industry-To-Push-In-Vehicle-AI-Robot-Demand-States-FactMR",
+      "originalUrl": "https://menafn.com/1104814406/Emerging-Technologies-In-Automobile-Industry-To-Push-In-Vehicle-AI-Robot-Demand-States-FactMR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-05T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-labour-forces-robots-ai-gaining-more-traction-in-the-workforce.md",
+      "title": "Labour forces: Robots, AI gaining more traction in the workforce",
+      "excerpt": "Since mid-2021, when Happy Lamb Hot Pot became the first restaurant in the province to start using GreenCo Robots ... heat and rain. As robots evolve and scientists use artificial intelligence (AI) to make them more sophisticated, their ability to work ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.burnabynow.com/highlights/labour-forces-robots-ai-gaining-more-traction-in-the-workforce-5775641??amp;amp",
+      "originalUrl": "https://www.burnabynow.com/highlights/labour-forces-robots-ai-gaining-more-traction-in-the-workforce-5775641??amp;amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-05T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Burnaby Now",
+        "domain": "burnabynow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-05-ai-detects-rare-birth-defects-in-fetal-ultrasound.md",
+      "title": "AI Detects Rare Birth Defects in Fetal Ultrasound",
+      "excerpt": "A new study demonstrates how AI deep learning can be used to diagnose a rare embryonic developmental disorder called cystic hygroma within the first trimester of pregnancy from fetal ultrasound images.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound",
+      "originalUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-09/pic27777.gif.jpg?itok=UL6r1b41",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound?amp",
+      "publishedDateTime": "2022-09-05T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-05-ai-generated-artwork-wins-prize-in-art-competition-in-us-find-out-how.md",
+      "title": "AI-generated artwork wins prize in art competition in US! Find out how",
+      "excerpt": "Allen is the president of Incarnate Games, a tabletop gaming company in Colorado. His work is called \"Space Opera Theater\".",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/news/international/us/ai-generated-artwork-wins-prize-in-art-competition-in-us-find-out-how/articleshow/94010529.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/news/international/us/ai-generated-artwork-wins-prize-in-art-competition-in-us-find-out-how/articleshow/94010529.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-254162,msid-94010587/ai-generated-artworkwins-prize-in-art-competition-in-us.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/news/international/us/ai-generated-artwork-wins-prize-in-art-competition-in-us-find-out-how/amp_articleshow/94010529.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/us/ai-generated-artwork-wins-prize-in-art-competition-in-us-find-out-how/amp_articleshow/94010529.cms",
+      "publishedDateTime": "2022-09-05T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-05-best-robot-vacuums-for-pet-hair-in-2022.md",
+      "title": "Best robot vacuums for pet hair in 2022",
+      "excerpt": "Remote control If your robot vacuum cleaner doesn’t connect ... and clean it regularly as specified in your manual. Bear in mind that the filter will also need to be replaced occasionally ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/best-picks/best-robot-vacuums-for-pet-hair",
+      "originalUrl": "https://www.tomsguide.com/best-picks/best-robot-vacuums-for-pet-hair",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/EhA9BQe9x9vyV97ypphW5C-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-05T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-05-ev-roundup-nklas-equity-offering-teslas-plan-for-driverless-cars-more.md",
+      "title": "EV Roundup: NKLA's Equity Offering, Tesla's Plan for Driverless Cars & More",
+      "excerpt": "Last week, China-based electric vehicle (EV) stars NIO Inc. NIO, Li Auto LI and XPeng Inc. XPEV announced their delivery updates for August. While NIO recorded a rise in deliveries from July ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ev-roundup%3A-nklas-equity-offering-teslas-plan-for-driverless-cars-more",
+      "originalUrl": "https://www.nasdaq.com/articles/ev-roundup%3A-nklas-equity-offering-teslas-plan-for-driverless-cars-more",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ev-roundup:-nklas-equity-offering-teslas-plan-for-driverless-cars-more?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ev-roundup:-nklas-equity-offering-teslas-plan-for-driverless-cars-more?amp",
+      "publishedDateTime": "2022-09-05T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-05-tesla-raises-full-self-driving-price-to-15000-is-it-worth-it.md",
+      "title": "Tesla raises Full Self-Driving price to $15,000 – is it worth it?",
+      "excerpt": "Tesla has officially raised the price of its Full Self-Driving (FSD) package to $15,000, as CEO Elon Musk promised. For years now, Musk has stated that Tesla would keep gradually increasing the price of its Full Self-Driving (FSD) package as functionality ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/09/05/tesla-raises-full-self-driving-price-to-15000-is-it-worth-it/",
+      "originalUrl": "https://electrek.co/2022/09/05/tesla-raises-full-self-driving-price-to-15000-is-it-worth-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/09/05/tesla-raises-full-self-driving-price-to-15000-is-it-worth-it/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/05/tesla-raises-full-self-driving-price-to-15000-is-it-worth-it/amp/",
+      "publishedDateTime": "2022-09-05T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-05-xboxs-matt-booty-asked-microsoft-to-invent-ai-bot-qa-testers-for-games.md",
+      "title": "Xbox’s Matt Booty Asked Microsoft To Invent AI Bot QA Testers For Games",
+      "excerpt": "‘Help me figure out how to use an AI bot to go test a game.’ “Because I would love to be able to start up 10,000 instances of a game in the cloud, so there’s 10,000 copies of the game running, deploy an AI bot to spend all night testing that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/paultassi/2022/09/05/xboxs-matt-booty-asked-microsoft-to-invent-ai-bot-qa-testers-for-games/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2022/09/05/xboxs-matt-booty-asked-microsoft-to-invent-ai-bot-qa-testers-for-games/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-05T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-05-five-experts-address-trends-in-artificial-intelligence-and-machine-learning.md",
+      "title": "Five Experts Address Trends in Artificial Intelligence and Machine Learning",
+      "excerpt": "Trends and risks in a Golden Age of Artificial Intelligence and Machine Learning By David Churbuck, Founder & former Editor-in chief of Forbes.com NEW YORK, Sept. 5, 2022 /PRNewswire/ -- Over the summer of 2022,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/five-experts-address-trends-in-artificial-intelligence-and-machine-learning-2022-09-05-9203048",
+      "originalUrl": "https://www.marketwatch.com/press-release/five-experts-address-trends-in-artificial-intelligence-and-machine-learning-2022-09-05-9203048",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-05T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-05-preparing-for-future-coronavirus-variants-using-artificial-intelligence.md",
+      "title": "Preparing for future coronavirus variants using artificial intelligence",
+      "excerpt": "SARS-CoV-2 is constantly mutating and each new variant often catches the world by surprise. Take for example the highly mutated omicron variant that emerged last November and required health authorities to develop a rapid response strategy even though,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-09-future-coronavirus-variants-artificial-intelligence.html",
+      "originalUrl": "https://phys.org/news/2022-09-future-coronavirus-variants-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/preparing-for-future-c.jpg",
+          "width": 996,
+          "height": 996,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-09-future-coronavirus-variants-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-future-coronavirus-variants-artificial-intelligence.amp",
+      "publishedDateTime": "2022-09-05T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-05-wipro-ge-healthcare-launches-made-in-india-ai-enabled-cath-lab.md",
       "title": "Wipro GE Healthcare launches ‘Made in India’ AI-enabled Cath lab",
       "excerpt": "GE Healthcare, a medical technology, diagnostics, and digital solutions company, launched its ‘Made in India’, ‘AI-powered’ Cath lab-Optima IGS 320 to advance cardiac care in India. It is built at Wipro GE Healthcare’s new Bengaluru factory and leverages the GE proprietary AutoRight technology.",
@@ -195,950 +1066,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-deep-learning-software-market-size-from-2022-to-2028-and-key-findings-and-segments-by-end-use-industry.md",
-      "title": "Deep Learning Software Market Size From 2022 To 2028 And Key Findings and Segments by End Use Industry",
-      "excerpt": "The \" Deep Learning Software market research report \" delivers a complete overview of key components like drivers, limitations, historic and current trends, technical development, and future growth. The Deep Learning Software market research report contains company analysis,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-software-market-size-from-2022-to-2028-and-key-findings-and-segments-by-end-use-industry-2022-09-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-software-market-size-from-2022-to-2028-and-key-findings-and-segments-by-end-use-industry-2022-09-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-05T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-iranian-authorities-plan-to-use-facial-recognition-to-enforce-new-hijab-law.md",
-      "title": "Iranian authorities plan to use facial recognition to enforce new hijab law",
-      "excerpt": "Government says it will use technology on public transport in crackdown on women’s dress The Iranian government is planning to use facial recognition technology on public transport to identify ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/global-development/2022/sep/05/iran-government-facial-recognition-technology-hijab-law-crackdown",
-      "originalUrl": "https://www.theguardian.com/global-development/2022/sep/05/iran-government-facial-recognition-technology-hijab-law-crackdown",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/0e5362e30c4fa3e8e292390007a270942c7c9273/0_0_5578_4000/master/5578.jpg?width=620&quality=85&auto=format&fit=max&s=66f0b55770711a01c83060ad768c4ef6",
-          "width": 620,
-          "height": 445,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/global-development/2022/sep/05/iran-government-facial-recognition-technology-hijab-law-crackdown",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/global-development/2022/sep/05/iran-government-facial-recognition-technology-hijab-law-crackdown",
-      "publishedDateTime": "2022-09-04T23:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-warehouse-robotics-market-to-reach-value-of-us-157-billion-by-2031-states-tmr-analysis.md",
-      "title": "Warehouse Robotics Market to Reach Value of US$ 15.7 Billion by 2031, States TMR Analysis",
-      "excerpt": "The warehouse robotics market is projected to expand at a CAGR of 13.3% during 2022-2031Surge in adoption of warehouse automation in the e-commerce industry is fueling the sales growth in the marketTh",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/n28746108/warehouse-robotics-market-to-reach-value-of-us-15-7-billion-by-2031-states-tmr-analysis",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/n28746108/warehouse-robotics-market-to-reach-value-of-us-15-7-billion-by-2031-states-tmr-analysis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1682871/TMR_Logo_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28746108",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28746108",
-      "publishedDateTime": "2022-09-04T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-intel-ups-its-game-in-artificial-intelligence-takes-it-to-indian-schools.md",
-      "title": "Intel ups its game in Artificial Intelligence; takes it to Indian schools",
-      "excerpt": "computer vision and natural language processes as well as social skills focused on AI ethics and biases and AI solutions-building. For this, Intel has collaborated with the Central Board of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/education-2/intel-ups-its-game-in-artificial-intelligence-takes-it-to-indian-schools/2655284/",
-      "originalUrl": "https://www.financialexpress.com/education-2/intel-ups-its-game-in-artificial-intelligence-takes-it-to-indian-schools/2655284/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-04T23:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour.md",
-      "title": "Researchers discover how artificial intelligence can be trained to detect tumour",
-      "excerpt": "\"Thanks to the interdisciplinary structures at PRODI, we have the best prerequisites for incorporating the hypothesis-based approach into the developm..",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/business-analytics/researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour/93993860",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/business-analytics/researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour/93993860",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-93993860,imgsize-25480,width-1200,height-628,overlay-etcio/researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/business-analytics/researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour/93993860",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/business-analytics/researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour/93993860",
-      "publishedDateTime": "2022-09-04T20:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-its-time-to-embrace-the-tech-that-could-confront-the-crisis-in-aging.md",
-      "title": "It’s time to embrace the tech that could confront the crisis in aging",
-      "excerpt": "For the elderly, AI can enable independence and mobility, reduce need for caregivers, and detect important changes in health and activity.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/its-time-to-embrace-the-tech-that-could-confront-the-crisis-in-aging/",
-      "originalUrl": "https://venturebeat.com/ai/its-time-to-embrace-the-tech-that-could-confront-the-crisis-in-aging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1251551899-e1661531292108.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/its-time-to-embrace-the-tech-that-could-confront-the-crisis-in-aging/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/its-time-to-embrace-the-tech-that-could-confront-the-crisis-in-aging/amp/",
-      "publishedDateTime": "2022-09-04T20:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-amazon-promo-codes-september-2022.md",
-      "title": "Amazon Promo Codes September 2022",
-      "excerpt": "Receive a $100 statement credit after you spend $3,000 on your Amazon Business Card within the first 3 months of opening your account. Don't miss out on this Prime Student special and use this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/coupons/amazon.com/",
-      "originalUrl": "https://www.forbes.com/coupons/amazon.com/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbes.com/coupons/vfiles/81499/merchant_image-merchant_open_graph.png/",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-04T18:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-is-big-brother-britain-about-to-become-the-worlds-ultimate-surveillance-state.md",
-      "title": "Is Big Brother Britain about to become the world's ultimate surveillance state?",
-      "excerpt": "Made by Dahua, a Chinese state-affiliated company, they are equipped with controversial facial recognition software — a means of monitoring and controlling populations much favoured by Beijing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-11179641/Is-Big-Brother-Britain-worlds-ultimate-surveillance-state.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-11179641/Is-Big-Brother-Britain-worlds-ultimate-surveillance-state.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/09/05/00/62053565-0-image-a-21_1662334745315.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-11179641/amp/Is-Big-Brother-Britain-worlds-ultimate-surveillance-state.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11179641/amp/Is-Big-Brother-Britain-worlds-ultimate-surveillance-state.html",
-      "publishedDateTime": "2022-09-04T17:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-how-can-emerging-technologies-boost-the-fintech-and-payments-ecosystem.md",
-      "title": "How Can Emerging Technologies Boost The Fintech And Payments Ecosystem?",
-      "excerpt": "FinTech has emerged as one of the biggest beneficiaries ... technologies like Artificial Intelligence (AI) and Machine Learning (ML) have become a household name. It was only a matter of time ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessworld.in/article/How-Can-Emerging-Technologies-Boost-The-Fintech-And-Payments-Ecosystem-/05-09-2022-445195/",
-      "originalUrl": "https://www.businessworld.in/article/How-Can-Emerging-Technologies-Boost-The-Fintech-And-Payments-Ecosystem-/05-09-2022-445195/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.businessworld.in/article/article_extra_large_image/1662370112_tIlbqV_tech_fintech.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Businessworld",
-        "domain": "businessworld.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-us-startup-simaai-starts-shipping-machine-learning-chip-and-system.md",
-      "title": "US startup SiMa.ai starts shipping machine learning chip and system",
-      "excerpt": "SiMa.ai/Handout via REUTERS Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/business/us-startup-simaai-starts-shipping-machine-learning-chip-and-system-2909851",
-      "originalUrl": "https://www.channelnewsasia.com/business/us-startup-simaai-starts-shipping-machine-learning-chip-and-system-2909851",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://onecms-res.cloudinary.com/image/upload/s--SCNbkIjv--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-08-30t130839z_1_lynxmpei7t0is_rtroptp_3_chips-sima.jpg?itok=B6EN0Egl",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-04T14:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-ai-asked-to-show-what-real-life-cartoon-characters-look-like.md",
-      "title": "AI asked to show what real life cartoon characters look like",
-      "excerpt": "An artificial intelligence system that has recently caught the spotlight for numerous reasons has been asked to produce images of real-life iconic cartoon characters. The artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/88274/ai-asked-to-show-what-real-life-cartoon-characters-look-like/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/88274/ai-asked-to-show-what-real-life-cartoon-characters-look-like/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/8/8/88274_06_ai-asked-to-show-what-real-life-cartoon-characters-look-like.jpg",
-          "width": 620,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-04T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-04-why-embedding-ai-ethics-and-principles-into-your-organization-is-critical.md",
-      "title": "Why embedding AI ethics and principles into your organization is critical",
-      "excerpt": "There is likely no future without AI. Ethical development and use of AI should not be contentious — it is a social responsibility.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-embedding-ai-ethics-and-principles-into-your-organization-is-critical/",
-      "originalUrl": "https://venturebeat.com/ai/why-embedding-ai-ethics-and-principles-into-your-organization-is-critical/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1251037767.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-embedding-ai-ethics-and-principles-into-your-organization-is-critical/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-embedding-ai-ethics-and-principles-into-your-organization-is-critical/amp/",
-      "publishedDateTime": "2022-09-04T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-04-how-lord-of-the-rings-used-ai-to-change-big-screen-battles-forever.md",
-      "title": "How 'Lord of the Rings' Used AI to Change Big-Screen Battles Forever",
-      "excerpt": "Massive software has spawned armies of artificially intelligent crowds, from Lord of the Rings to Avengers: Endgame.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/culture/entertainment/features/how-lord-of-the-rings-used-ai-to-change-big-screen-battles-forever/",
-      "originalUrl": "https://www.cnet.com/culture/entertainment/features/how-lord-of-the-rings-used-ai-to-change-big-screen-battles-forever/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/55e5d94df81ac6baa25b60737dccd3e8b7165511/hub/2021/08/27/30dbd364-143e-493e-8371-445fa1de441c/screen-shot-2021-08-27-at-10-31-45-am.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-04T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-04-how-artificial-intelligence-can-be-trained-to-detect-tumour-research.md",
-      "title": "How artificial intelligence can be trained to detect tumour: Research",
-      "excerpt": "The Bochum team's explainable AI is therefore based on the only kind of meaningful statements known to science: on falsifiable hypotheses. If a hypothesis is false, this fact must be demonstrable through an experiment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/lifestyle/health/how-artificial-intelligence-can-be-trained-to-detect-tumour-research-101662275513848.html",
-      "originalUrl": "https://www.hindustantimes.com/lifestyle/health/how-artificial-intelligence-can-be-trained-to-detect-tumour-research-101662275513848.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/09/04/1600x900/_b58a8de0-332a-11e8-9916-7e63ef9446cf_1662275576577_1662275576577.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/lifestyle/health/how-artificial-intelligence-can-be-trained-to-detect-tumour-research-101662275513848-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/how-artificial-intelligence-can-be-trained-to-detect-tumour-research-101662275513848-amp.html",
-      "publishedDateTime": "2022-09-04T00:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-04-3-model-monitoring-tips-for-reliable-results-when-deploying-ai.md",
-      "title": "3 model monitoring tips for reliable results when deploying AI",
-      "excerpt": "Truly transformative AI deployments involve careful monitoring and testing, resulting in continuous improvement.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/3-model-monitoring-tips-for-reliable-results-when-deploying-ai/",
-      "originalUrl": "https://venturebeat.com/ai/3-model-monitoring-tips-for-reliable-results-when-deploying-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1313178434.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 689,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/3-model-monitoring-tips-for-reliable-results-when-deploying-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-model-monitoring-tips-for-reliable-results-when-deploying-ai/amp/",
-      "publishedDateTime": "2022-09-03T17:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-04-usa-white-house-president-joe-biden-advances-regional-innovation-in-cleantech-energy-and-ai.md",
-      "title": "USA WHITE HOUSE PRESIDENT JOE BIDEN ADVANCES REGIONAL INNOVATION IN CLEANTECH, ENERGY AND AI.",
-      "excerpt": "The USA White House with President Biden announced on Friday the winners of a $1B economic development competition and announced the recipients for projects in areas like clean energy, tech, and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/09/03/usa-white-house-president-joe-biden-advances-regional-innovation-in-cleantech-energy-and-ai/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/09/03/usa-white-house-president-joe-biden-advances-regional-innovation-in-cleantech-energy-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6313c79ffa048ac26eb3f6a1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/09/03/usa-white-house-president-joe-biden-advances-regional-innovation-in-cleantech-energy-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/09/03/usa-white-house-president-joe-biden-advances-regional-innovation-in-cleantech-energy-and-ai/amp/",
-      "publishedDateTime": "2022-09-03T14:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-04-smart-driving-innovations-debut-at-the-waic.md",
-      "title": "Smart driving innovations debut at the WAIC",
-      "excerpt": "The innovations are essential to achieve bigger targets such as fully autonomous driving and new-energy vehicle high efficiency for a low-carbon society. Most importantly, the technology shown at WAIC 2022 is available and accessible now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.shine.cn/news/in-focus/2209030031/",
-      "originalUrl": "https://www.shine.cn/news/in-focus/2209030031/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://obj.shine.cn/files/2022/09/03/71a44ea6-9869-4265-a710-e430ef096202_0.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-03T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SHINE",
-        "domain": "shine.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-04-researchers-develop-computer-chip-to-carry-out-variety-of-artificial-intelligence-functions.md",
-      "title": "Researchers Develop Computer Chip to Carry Out Variety of Artificial Intelligence Functions",
-      "excerpt": "In a recent study published in Nature, an international research team have created a computer chip, called the NeuRRAM neuromorphic chip, that performs com | Technology",
-      "sourceUrl": null,
-      "webUrl": "https://www.labroots.com/trending/technology/23475/researchers-develop-computer-chip-carry-variety-artificial-intelligence-functions-2",
-      "originalUrl": "https://www.labroots.com/trending/technology/23475/researchers-develop-computer-chip-carry-variety-artificial-intelligence-functions-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.labroots.com/_public/_files/system/ck/trending/artificial-intelligence-gd8c21572c_1280_a8f5b10e23fba74f635210edb7370eb2.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.labroots.com/trending/technology/23475/researchers-develop-computer-chip-carry-variety-artificial-intelligence-functions-2/amp",
-      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/23475/researchers-develop-computer-chip-carry-variety-artificial-intelligence-functions-2/amp",
-      "publishedDateTime": "2022-09-03T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Labroots",
-        "domain": "labroots.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-ai-powered-personalization-the-key-to-unlocking-ecommerce-growth.md",
-      "title": "AI-powered personalization: The key to unlocking ecommerce growth",
-      "excerpt": "AI-powered personalization allows businesses to predict their customers’ requirements and be proactive with solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-powered-personalization-the-key-to-unlocking-ecommerce-growth/",
-      "originalUrl": "https://venturebeat.com/ai/ai-powered-personalization-the-key-to-unlocking-ecommerce-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1337253139-Dilok-Klaisataporn.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-powered-personalization-the-key-to-unlocking-ecommerce-growth/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-powered-personalization-the-key-to-unlocking-ecommerce-growth/amp/",
-      "publishedDateTime": "2022-09-03T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-colorado-state-fair-competition-names-an-unlikely-winner-ai-made-artwork.md",
-      "title": "Colorado State Fair Competition Names An Unlikely Winner: AI-Made Artwork",
-      "excerpt": "The piece saw a storm of criticism this week as onlookers debated the use of artificial intelligence in the arts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4e4b063d5e621ef1a",
-      "originalUrl": "https://www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4e4b063d5e621ef1a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/6312c3a32300001c00b7ea48.jpg?cache=Ya4ddTpBVY&ops=1200_630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4e4b063d5e621ef1a/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4e4b063d5e621ef1a/amp",
-      "publishedDateTime": "2022-09-03T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

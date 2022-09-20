@@ -2,6 +2,136 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-06-15-microsoft-patched-azure-bugs-without-notifying-users-tenable-claims.md",
+      "title": "Microsoft patched Azure bugs without notifying users, Tenable claims",
+      "excerpt": "Tenable Security has disclosed two bugs in analytics software Microsoft provides Azure users, and has complained that cloud providers don’t follow industry-standard security disclosure practices. In its Tenable TechBlog,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnews.com.au/news/microsoft-patched-azure-bugs-without-notifying-users-tenable-claims-581351",
+      "originalUrl": "https://www.itnews.com.au/news/microsoft-patched-azure-bugs-without-notifying-users-tenable-claims-581351",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/microsoft-azure-sign-2.jpg",
+          "width": 499,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T17:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News For Australia Business",
+        "domain": "itnews.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse.md",
+      "title": "CaixaBank, Microsoft Establish Innovation Lab for AI, Metaverse",
+      "excerpt": "CaixaBank and Microsoft (NASDAQ: MSFT) have established a joint innovation agreement with the aim of \"promoting the application of AI.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2017/08/Science-Chemistry-Lab-Experiment.jpg",
+          "width": 1280,
+          "height": 998,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/amp/",
+      "publishedDateTime": "2022-06-14T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-governance-planning-intranets-and-microsoft-365.md",
+      "title": "Governance Planning, Intranets, and Microsoft 365",
+      "excerpt": "At KMWorld 2021, Microsoft MVP Susan Hanley discussed how she develops effective governance plans for her clients. A key part of planning is to consider these questions, she said: What are we going to allow? What are we not going to allow? How are we going ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=153458",
+      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=153458",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif",
+          "width": 772,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-arkestro-brings-ai-to-erp.md",
       "title": "Arkestro brings AI to ERP",
       "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
@@ -1182,128 +1312,6 @@
       "provider": {
         "name": "Cambridge University Press",
         "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-shakira-says-her-father-is-home-following-hospital-stay-practices-cognitive-stimulation-with-him.md",
-      "title": "Shakira Says Her Father Is Home Following Hospital Stay, Practices 'Cognitive Stimulation' with Him",
-      "excerpt": "The three-time Grammy Award winner showed the pair practicing some \"cognitive stimulation\" at home as she stood opposite him with large note cards with words in Spanish for him to read aloud.",
-      "sourceUrl": null,
-      "webUrl": "https://people.com/music/shakira-says-her-father-is-home-following-hospital-stay-practices-cognitive-stimulation-with-him/",
-      "originalUrl": "https://people.com/music/shakira-says-her-father-is-home-following-hospital-stay-practices-cognitive-stimulation-with-him/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&poi=%5B1290%2C46%5D&w=1500&h=750&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2022%2F06%2F08%2FShakira.jpg",
-          "width": 1500,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://people.com/music/shakira-says-her-father-is-home-following-hospital-stay-practices-cognitive-stimulation-with-him/?amp=true",
-      "cdnAmpWebUrl": "https://people-com.cdn.ampproject.org/c/s/people.com/music/shakira-says-her-father-is-home-following-hospital-stay-practices-cognitive-stimulation-with-him/?amp=true",
-      "publishedDateTime": "2022-06-08T16:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "People",
-        "domain": "people.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-why-healthcare-organizations-select-amazon-web-services-over-google-microsoft.md",
-      "title": "Why healthcare organizations select Amazon Web Services over Google, Microsoft",
-      "excerpt": "Healthcare organizations chose Amazon Web Services over rival cloud computing companies Google and Microsoft for artificial intelligence and machine learning because it was the most mature platform, had good name and brand recognition and came with high reliability,",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/disruptors/why-healthcare-organizations-select-amazon-web-services-over-google-microsoft.html",
-      "originalUrl": "https://www.beckershospitalreview.com/disruptors/why-healthcare-organizations-select-amazon-web-services-over-google-microsoft.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png",
-          "width": 460,
-          "height": 460,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T15:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Healthcare",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-5-ways-to-help-reduce-risk-of-cognitive-decline.md",
-      "title": "5 ways to help reduce risk of cognitive decline",
-      "excerpt": "During Alzheimer’s & Brain Awareness Month in June, the Alzheimer’s Association is encouraging all Americans to adopt healthy lifestyle behaviors that may help reduce the risk of cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fortmorgantimes.com/2022/06/08/5-ways-to-help-reduce-risk-of-cognitive-decline/",
-      "originalUrl": "https://www.fortmorgantimes.com/2022/06/08/5-ways-to-help-reduce-risk-of-cognitive-decline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fortmorgantimes.com/2022/06/08/5-ways-to-help-reduce-risk-of-cognitive-decline/amp/",
-      "cdnAmpWebUrl": "https://www-fortmorgantimes-com.cdn.ampproject.org/c/s/www.fortmorgantimes.com/2022/06/08/5-ways-to-help-reduce-risk-of-cognitive-decline/amp/",
-      "publishedDateTime": "2022-06-08T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fort Morgan Times",
-        "domain": "fortmorgantimes.com",
         "images": null,
         "publishers": null,
         "authors": null

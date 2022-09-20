@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-13-ai-ethics-flummoxed-by-those-salting-ai-ethicists-that-instigate-ethical-ai-practices.md",
+      "title": "AI Ethics Flummoxed By Those Salting AI Ethicists That “Instigate” Ethical AI Practices",
+      "excerpt": "Is it okay or is it questionable for those salting AI Ethicists that seek to get hired by firms just to from-within stoke Ethical AI adherence? Here's the look at impacts on AI autonomous systems by such practices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/08/13/ai-ethics-flummoxed-by-those-salting-ai-ethicists-that-instigate-ethical-ai-practices/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/08/13/ai-ethics-flummoxed-by-those-salting-ai-ethicists-that-instigate-ethical-ai-practices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-13T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-08-13-why-data-ethics-leadership-needs-to-become-the-new-normal-in-finance.md",
       "title": "Why data ethics leadership needs to become the new normal in finance",
       "excerpt": "By David Sweenor, Senior Director of Product Marketing at Alteryx. In June, one of the largest banking groups in the world – Lloyds Bank – announced it was joining the ranks of Google, KPMG and Uber with the creation of a new",
@@ -1407,50 +1450,6 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-prosegur-security-launches-worlds-first-responsible-artificial-intelligence-framework-globally.md",
-      "title": "Prosegur Security Launches World's First Responsible Artificial Intelligence Framework Globally",
-      "excerpt": "An industry first, the Responsible AI Policy sets lawful, ethical and robust compliance for employees and partners utilizing Prosegur's AI",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/prosegur-security-launches-world-s-first-responsible-artificial-intelligence-framework-globally-1031604890",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/prosegur-security-launches-world-s-first-responsible-artificial-intelligence-framework-globally-1031604890",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

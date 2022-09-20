@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-20T08:38:00Z
 originalUrl: "https://www.computerweekly.com/news/252525129/Dutch-student-team-aims-to-enable-uninterrupted-drone-cargo-delivery"
 webUrl: "https://www.computerweekly.com/news/252525129/Dutch-student-team-aims-to-enable-uninterrupted-drone-cargo-delivery"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Computer Weekly

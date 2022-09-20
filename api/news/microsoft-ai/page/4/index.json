@@ -2,6 +2,136 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-25-can-nist-move-trustworthy-ai-forward-with-new-draft-of-ai-risk-management-framework.md",
+      "title": "Can NIST move ‘trustworthy AI’ forward with new draft of AI risk management framework?",
+      "excerpt": "NIST releases an expanded draft of the AI Risk Management Framework but the impact on trustworthy AI remains unclear.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-risk-management-framework/",
+      "originalUrl": "https://venturebeat.com/ai/ai-risk-management-framework/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-robot_machine_learning_AI_1323774184-e1659571276418.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-risk-management-framework/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-risk-management-framework/amp/",
+      "publishedDateTime": "2022-08-24T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-mark-cuban-foundation-ai-bootcamps-application-closing-soon.md",
+      "title": "Mark Cuban Foundation AI Bootcamps- Application Closing Soon!",
+      "excerpt": "The Mark Cuban Foundation will host Artificial Intelligence (AI) Bootcamps for high school students in the Fall of 2022. The No Cost AI Bootcamp will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-mark-cuban-foundation-ai-bootcamps-application-closing-soon-/2022/08/23/9661107.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-mark-cuban-foundation-ai-bootcamps-application-closing-soon-/2022/08/23/9661107.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-mark-cuban-foundation-ai-bootcamps-application-closing-soon.md",
+      "title": "Mark Cuban Foundation AI Bootcamps- Application Closing Soon!",
+      "excerpt": "The Mark Cuban Foundation will host Artificial Intelligence (AI) Bootcamps for high school students in the Fall of 2022. The No Cost AI Bootcamp will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/mark-cuban-foundation-ai-bootcamps--application-closing-soon-2022-08-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/mark-cuban-foundation-ai-bootcamps--application-closing-soon-2022-08-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-23-professional-cloud-services-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis.md",
       "title": "Professional Cloud Services Market Size Is Likely to Experience a Tremendous Growth by 2031 Covid-19 Analysis",
       "excerpt": "The professional cloud services market was valued at USD 21.51billion in 2022 and is expected to reach a value of USD 57.54 billion by 2031, at a CAGR of 17.76 %, during the forecast period. The increase in the use of Artificial Intelligence (AI) with a growing focus on digital transformation initiatives are expected to provide growth opportunities for cloud services market - Moreover,",
@@ -1175,136 +1305,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-community-financial-institutions-gain-access-to-ai-powered-personalization-through-combined-deeptarget-cognitivescale-technologies.md",
-      "title": "Community Financial Institutions Gain Access to AI-Powered Personalization Through Combined DeepTarget & CognitiveScale Technologies",
-      "excerpt": "For the first time, CFIs will be able to identify predictable revenue opportunities across all 15+ lending and fee based products and services ... M12 (Microsoft Ventures), Anthem and USAA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56821950-community-financial-institutions-gain-access-to-ai-powered-personalization-through-combined-deeptarget-cognitivescale-technologies-200.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56821950-community-financial-institutions-gain-access-to-ai-powered-personalization-through-combined-deeptarget-cognitivescale-technologies-200.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-16T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-15-black-hat-2022-reveals-enterprise-security-trends.md",
-      "title": "Black Hat 2022 reveals enterprise security trends",
-      "excerpt": "Black Hat's presentations for enterprise security provided a look at how enterprises' tech stacks are at risk of devastating cyberattacks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/black-hat-2022-reveals-enterprise-security-trends/",
-      "originalUrl": "https://venturebeat.com/security/black-hat-2022-reveals-enterprise-security-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1-Cybersecurity-threat-illustration-1-e1660581757211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/black-hat-2022-reveals-enterprise-security-trends/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/black-hat-2022-reveals-enterprise-security-trends/amp/",
-      "publishedDateTime": "2022-08-15T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-08-14-cognitive-biases-and-brain-biology-help-explain-why-facts-dont-change-minds.md",
-      "title": "Cognitive biases and brain biology help explain why facts don’t change minds",
-      "excerpt": "Cognitive psychology and neuroscience studies have found that the exact opposite is often true when it comes to politics: People form opinions based on emotions, such as fear, contempt and anger ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.salon.com/2022/08/14/cognitive-biases-and-brain-biology-help-explain-why-facts-dont-changeminds_partner/",
-      "originalUrl": "https://www.salon.com/2022/08/14/cognitive-biases-and-brain-biology-help-explain-why-facts-dont-changeminds_partner/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2021/03/qanon-0312211.jpg",
-          "width": 1200,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-14T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Salon",
-        "domain": "salon.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

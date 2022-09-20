@@ -8,8 +8,8 @@ webUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-growth-stocks
 ampWebUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-growth-stocks-shaping-the-future-of-technology?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-artificial-intelligence-growth-stocks-shaping-the-future-of-technology?amp"
 type: article
-quality: 53
-heat: 53
+quality: 55
+heat: 55
 published: false
 
 provider:

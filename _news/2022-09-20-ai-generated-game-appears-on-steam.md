@@ -38,22 +38,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "This artist is dominating AI-generated art. And he’s not happy about it."
-    excerpt: "Those cool AI-generated images you’ve seen across the internet? There’s a good chance they are based on the works of. Rutkowski is a Polish digital artist who uses classical painting styles to create dreamy fantasy landscapes."
-    publishedDateTime: 2022-09-16T15:09:00Z
-    webUrl: "https://www.technologyreview.com/2022/09/16/1059598/this-artist-is-dominating-ai-generated-art-and-hes-not-happy-about-it/"
-    ampWebUrl: "https://www.technologyreview.com/2022/09/16/1059598/this-artist-is-dominating-ai-generated-art-and-hes-not-happy-about-it/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/16/1059598/this-artist-is-dominating-ai-generated-art-and-hes-not-happy-about-it/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 58
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/09/seed_971244_00004-edited.jpg"
-        width: 768
-        height: 432
-        isCached: true
   - title: "AI-Generated Games Are Starting To Appear On Steam (And It's Not Going Well)"
     excerpt: "Enter This Girl Does Not Exist Making a game with AI-generated assets comes with its own unique challenges, as she tells it. Not having to make art from the ground up does mean things move quicker, but since This Girl Does Not Exist was a dating game,"
     publishedDateTime: 2022-09-19T18:31:00Z

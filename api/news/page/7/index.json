@@ -2,6 +2,884 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-09-13-why-the-explainable-ai-market-is-growing-rapidly.md",
+      "title": "Why the explainable AI market is growing rapidly",
+      "excerpt": "The explainable AI market is booming due to regulations requiring visibility into the hows and whys of AI model predictions.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-the-explainable-ai-market-is-growing-rapidly/",
+      "originalUrl": "https://venturebeat.com/ai/why-the-explainable-ai-market-is-growing-rapidly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1257975820-e1663004031979.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/why-the-explainable-ai-market-is-growing-rapidly/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-the-explainable-ai-market-is-growing-rapidly/amp/",
+      "publishedDateTime": "2022-09-12T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-tighter-vc-capital-forces-ai-startups-to-face-the-music.md",
+      "title": "Tighter VC capital forces AI startups to face the music",
+      "excerpt": "A new Pitchbook report shows that funding for AI startups isn't plentiful as it once was, with some struggling more than others.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/12/tighter-vc-capital-forces-ai-startups-to-face-the-music/",
+      "originalUrl": "https://techcrunch.com/2022/09/12/tighter-vc-capital-forces-ai-startups-to-face-the-music/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1314979456.jpg",
+          "width": 2309,
+          "height": 1299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-tech-war-why-the-us-nvidia-chip-ban-is-a-direct-threat-to-beijings-artificial-intelligence-ambitions.md",
+      "title": "Tech war: Why the US Nvidia chip ban is a direct threat to Beijing’s artificial intelligence ambitions",
+      "excerpt": "Nvidia has said that it can continue to ship AI chips from its Hong Kong facility through September 2023. “Most cloud service providers in China use Nvidia chips in their GPU-based products ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3192213/tech-war-why-us-nvidia-chip-ban-direct-threat-beijings-artificial",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3192213/tech-war-why-us-nvidia-chip-ban-direct-threat-beijings-artificial",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-driverless-cars-may-be-impossible-without-drivers-claim-intelligent-serious-people.md",
+      "title": "'Driverless Cars May Be Impossible Without Drivers' Claim Intelligent, Serious People",
+      "excerpt": "Photo: Dietmar Rabich / Wikimedia Commons / “San Francisco (CA, USA), Point Lobos Avenue, Autonomes Auto — 2022 — 3049” / CC BY-SA 4.0 Reuters spoke with Kyle Vogt, CEO of GM’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://jalopnik.com/driverless-cars-may-be-impossible-without-drivers-claim-1849524087",
+      "originalUrl": "https://jalopnik.com/driverless-cars-may-be-impossible-without-drivers-claim-1849524087",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jalopnik",
+        "domain": "jalopnik.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-how-diveplane-uses-explainable-ai-to-bolster-ai-adoption.md",
+      "title": "How Diveplane uses explainable AI to bolster AI adoption",
+      "excerpt": "Diveplane has raised $25M in series A funding for its explainable AI solutions supporting transparent decision-making and data privacy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-diveplane-uses-explainable-ai-to-bolster-ai-adoption/",
+      "originalUrl": "https://venturebeat.com/ai/how-diveplane-uses-explainable-ai-to-bolster-ai-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-black_box_AI_explainable_AI_1324510115-e1662994691115.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-diveplane-uses-explainable-ai-to-bolster-ai-adoption/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-diveplane-uses-explainable-ai-to-bolster-ai-adoption/amp/",
+      "publishedDateTime": "2022-09-12T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-third-paris-metro-line-introduces-driverless-trains.md",
+      "title": "Third Paris Metro line introduces driverless trains",
+      "excerpt": "Almost half (20) of the trains on the line will be driverless by the end of 2022 and the entire line is expected to be fully automated by the end of 2023, as the RATP promises a “70 percent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thelocal.fr/20220912/third-paris-metro-line-introduces-driverless-trains/",
+      "originalUrl": "https://www.thelocal.fr/20220912/third-paris-metro-line-introduces-driverless-trains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Local",
+        "domain": "thelocal.fr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-how-technologies-such-as-ai-ml-and-deep-learning-are-paving-the-way-for-the-digitalization-of-the-construction-industry.md",
+      "title": "How technologies such as AI, ML, and deep learning are paving the way for the digitalization of the construction industry?",
+      "excerpt": "The construction industry has been long reliant on tedious manual work, obsolete practices, legacy systems and exhausting paperwork. Moreover, the global construction industry has been relatively slow to adopt the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-technologies-such-as-ai-ml-and-deep-learning-are-paving-the-way-for-the-digitalization-of-the-construction-industry/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-technologies-such-as-ai-ml-and-deep-learning-are-paving-the-way-for-the-digitalization-of-the-construction-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/09/Pic-4.png",
+          "width": 383,
+          "height": 331,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-technologies-such-as-ai-ml-and-deep-learning-are-paving-the-way-for-the-digitalization-of-the-construction-industry/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-technologies-such-as-ai-ml-and-deep-learning-are-paving-the-way-for-the-digitalization-of-the-construction-industry/",
+      "publishedDateTime": "2022-09-12T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-london-has-raised-more-fintech-investment-than-any-other-global-hub.md",
+      "title": "London Has Raised More Fintech Investment Than Any Other Global Hub",
+      "excerpt": "MoneyTransfers.com reports that London has successfully attracted the most fintech investment, reaching $3.1 billion in 2022. Jonathan Merry, CEO of MoneyTransfers.com, commented on the report: \"The U.",
+      "sourceUrl": null,
+      "webUrl": "https://techround.co.uk/finance/london-raises-more-fintech-investment/",
+      "originalUrl": "https://techround.co.uk/finance/london-raises-more-fintech-investment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techround.co.uk/wp-content/uploads/2021/04/investment-2021.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techround.co.uk/finance/london-raises-more-fintech-investment/amp/",
+      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/finance/london-raises-more-fintech-investment/amp/",
+      "publishedDateTime": "2022-09-12T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRound",
+        "domain": "techround.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-healthcare-artificial-intelligence-market-research-report-analysis-by-competition-sales-revenue-market-size-2022-to-2028.md",
+      "title": "Healthcare Artificial Intelligence Market Research Report Analysis by Competition, Sales, Revenue, Market Size 2022 to 2028",
+      "excerpt": "The \" Healthcare Artificial Intelligence Market Industry Research Report \" considers a thorough scenario of the market's size and market dynamics for the time period from 2022 to 2028. The purpose of the study is to assist stakeholders,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-research-report-analysis-by-competition-sales-revenue-market-size-2022-to-2028-2022-09-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-research-report-analysis-by-competition-sales-revenue-market-size-2022-to-2028-2022-09-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-global-graphic-processing-unit-gpu-market-share-current-and-future-industry-trends-2028.md",
+      "title": "Global Graphic Processing Unit (GPU) Market Share, Current and Future Industry Trends 2028",
+      "excerpt": "Reliable sources cite that the rising investments in AI and VR platform R&D, as well as ongoing GPU advancements are propelling the growth of global graphics processing unit (GPU) market.  Furthermore,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-graphic-processing-unit-gpu-market-share-current-and-future-industry-trends-2028-2022-09-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-graphic-processing-unit-gpu-market-share-current-and-future-industry-trends-2028-2022-09-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-computer-vision-application-cases.md",
+      "title": "Computer Vision Application Cases",
+      "excerpt": "Recently, there have been increasing attempts to create a facial recognition application for various characters using OpenCV tools. However, despite the high speed, the quality of these tools turned out to be insufficient. In search of automation, a bit of ...",
+      "sourceUrl": null,
+      "webUrl": "https://gisuser.com/2022/09/computer-vision-application-cases/",
+      "originalUrl": "https://gisuser.com/2022/09/computer-vision-application-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gisuser.com/2022/09/computer-vision-application-cases/amp/",
+      "cdnAmpWebUrl": "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2022/09/computer-vision-application-cases/amp/",
+      "publishedDateTime": "2022-09-12T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gisuser",
+        "domain": "gisuser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-artificial-intelligence-in-retail-market-size-2025-the-e-commerce-segment-captured-779-of-the-market-share-by-2025.md",
+      "title": "Artificial Intelligence in Retail Market Size 2025: The e-commerce segment captured 77.9% of the market share by 2025",
+      "excerpt": "According to The Insight Partners' research, the global artificial intelligence in the retail market accounted for US$ 712.6 million in 2016 and is expected to grow at a CAGR of 51.2% during the forecast period of 2017-2025 to account for US$ 27,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-2025-the-e-commerce-segment-captured-779-of-the-market-share-by-2025-2022-09-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-2025-the-e-commerce-segment-captured-779-of-the-market-share-by-2025-2022-09-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T05:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-hepion-pharmaceuticals-announces-initiation-of-dosing-in-phase-2-altitude-nash-liver-function-trial.md",
+      "title": "Hepion Pharmaceuticals Announces Initiation of Dosing in Phase 2 ‘ALTITUDE-NASH’ Liver Function Trial",
+      "excerpt": "Hepion Pharmaceuticals, Inc. (NASDAQ:HEPA), a clinical stage biopharmaceutical company focused on Artificial Intelligence (“AI”)-driven therapeutic drug development for the treatment of non-alcoholic steatohepatitis (“NASH”),",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-health-covid-clinical-trials-d579b7a19ef521b4b3feda405fd1746d",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-health-covid-clinical-trials-d579b7a19ef521b4b3feda405fd1746d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-inventor-behind-amazons-alexa-raises-20-mn-for-new-ai-startup.md",
+      "title": "Inventor behind Amazon's Alexa raises $20 mn for new AI startup",
+      "excerpt": "The inventor of various technologies used by Amazon Inc's Alexa, William Tunstall-Pedoe, has raised $20 million for a new Artificial Intelligence (AI) startup called Unlikely AI. Amadeus Capital Partners,",
+      "sourceUrl": null,
+      "webUrl": "https://inshorts.com/en/news/inventor-behind-amazons-alexa-raises-$20-mn-for-new-ai-startup-1662983488265",
+      "originalUrl": "https://inshorts.com/en/news/inventor-behind-amazons-alexa-raises-$20-mn-for-new-ai-startup-1662983488265",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/09_sep/12_mon/img_1662977814621_824.jpg?",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inshorts.com/m/en/amp_news/inventor-behind-amazons-alexa-raises-$20-mn-for-new-ai-startup-1662983488265",
+      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/inventor-behind-amazons-alexa-raises-$20-mn-for-new-ai-startup-1662983488265",
+      "publishedDateTime": "2022-09-12T04:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inshorts",
+        "domain": "inshorts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-with-424-cagr-artificial-intelligence-in.md",
+      "title": "With 42.4 % CAGR, Artificial Intelligence in...",
+      "excerpt": "Use of artificial intelligence and robotics in diagnosing and treating pharmacological disorders is estimated to drive the Artificial Intelligence (AI) in healthcare market growth. Use of virtual ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/g28826236/with-42-4-cagr-artificial-intelligence-in-healthcare-market-size-worth-usd-164-10-billion-by-2029",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/g28826236/with-42-4-cagr-artificial-intelligence-in-healthcare-market-size-worth-usd-164-10-billion-by-2029",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg",
+          "width": 700,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28826236",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28826236",
+      "publishedDateTime": "2022-09-12T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-leadership-in-times-of-ai-driven-automation.md",
+      "title": "Leadership In Times Of AI-Driven Automation",
+      "excerpt": "Sayantan Dasgupta is a Sr. Director of Demand Generation at Gramener | Ex VC Partner | 2x VP Marketing | 15+ years of leadership experience. The global AI market in 2021 reached a staggering value of $327.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/09/12/leadership-in-times-of-ai-driven-automation/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/09/12/leadership-in-times-of-ai-driven-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/611197e7a1fc8d3b4e5a536a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/09/12/leadership-in-times-of-ai-driven-automation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/09/12/leadership-in-times-of-ai-driven-automation/amp/",
+      "publishedDateTime": "2022-09-12T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-when-the-rise-of-ai-meets-the-ease-of-no-code.md",
+      "title": "When The Rise Of AI Meets The Ease Of No-Code",
+      "excerpt": "We’re in the third generation: predictive analytics. People can use AI to find patterns in their data and predict what’s coming next. This latest step in AI analytics has brought new challenges. We’ve seen a new category of tools to help data analysts use machine learning without writing code.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/09/12/when-the-rise-of-ai-meets-the-ease-of-no-code/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/09/12/when-the-rise-of-ai-meets-the-ease-of-no-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61cb2397df4f158c91554661/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/09/12/when-the-rise-of-ai-meets-the-ease-of-no-code/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/09/12/when-the-rise-of-ai-meets-the-ease-of-no-code/amp/",
+      "publishedDateTime": "2022-09-12T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-artificial-intelligence-in-accounting-market-segments-and-forecast-from-2022-2028-xero-appzen-kpmg-botkeeper.md",
+      "title": "Artificial Intelligence in Accounting Market Segments and Forecast from 2022-2028 | Xero, AppZen, KPMG, Botkeeper",
+      "excerpt": "The Global Artificial Intelligence in Accounting Market is expected to grow at a booming CAGR of 2022-2028, rising from USD billion in 2022 to USD billion in 2028. Download Free Sample Artificial Intelligence in Accounting Market report  Global Artificial Intelligence in Accounting includes market research report have their own Top Companies: Xero,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-segments-and-forecast-from-2022-2028-xero-appzen-kpmg-botkeeper-2022-09-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-segments-and-forecast-from-2022-2028-xero-appzen-kpmg-botkeeper-2022-09-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-europe-natural-language-processing-nlp-market-industry-updates-new-opportunities-major-strategies-and-forecast-2031.md",
+      "title": "Europe Natural Language Processing Nlp Market Industry Updates, New Opportunities, Major Strategies, And Forecast 2031",
+      "excerpt": "CRIFAX added a report on 'Europe Natural Language Processing Nlp Market , 2022-2031' to its database of market",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/europe-natural-language-processing-nlp-market-industry-updates-new-opportunities-major-strategies-and-forecast-2031-2022-09-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/europe-natural-language-processing-nlp-market-industry-updates-new-opportunities-major-strategies-and-forecast-2031-2022-09-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-12-the-ftc-is-closing-in-on-runaway-ai.md",
       "title": "The FTC Is Closing In on Runaway AI",
       "excerpt": "The US regulator is eager to end unfair use of artificial intelligence and commercial surveillance, but experts remain skeptical.",
@@ -266,826 +1144,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-ai-fights-money-laundering-at-japanese-regional-bank.md",
-      "title": "AI fights money laundering at Japanese regional bank",
-      "excerpt": "A regional bank in Japan is turning to artificial intelligence in its fight against money laundering. The Bank of Yokohama rolled out its AI system in June. It was developed in cooperation with a computer-system development company.",
-      "sourceUrl": null,
-      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20220912_14/",
-      "originalUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20220912_14/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20220912_14_1159287_L.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20220912_14/amp.html",
-      "cdnAmpWebUrl": "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20220912_14/amp.html",
-      "publishedDateTime": "2022-09-11T19:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NHK",
-        "domain": "nhk.or.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-4-hot-takes-about-the-wild-new-world-of-generative-ai.md",
-      "title": "4 Hot Takes About The Wild New World Of Generative AI",
-      "excerpt": "Text-to-image AI models generate original images based solely on simple written inputs. Users can input any text prompt they like—say, “a cute corgi lives in a house made out of sushi”—and, as if by magic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2022/09/11/4-hot-takes-about-the-wild-new-world-of-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/09/11/4-hot-takes-about-the-wild-new-world-of-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/631cc1be4103d0cf19fe5860/0x0.jpg?format=jpg&crop=1024,576,x0,y283,safe&width=1200",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/09/11/4-hot-takes-about-the-wild-new-world-of-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/09/11/4-hot-takes-about-the-wild-new-world-of-generative-ai/amp/",
-      "publishedDateTime": "2022-09-11T17:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-3-challenges-collaborative-robots-need-to-overcome.md",
-      "title": "3 Challenges Collaborative Robots Need to Overcome",
-      "excerpt": "It addresses issues such as making sure the base knows where the robot arm is at all times. Rob Spiegel has covered automation and control for 19 years, 17 of them for Design News. Other topics he has covered include supply chain technology, alternative ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/3-challenges-collaborative-robots-need-overcome",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/3-challenges-collaborative-robots-need-overcome",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Kollaborierende_Roboter_0.jpg",
-          "width": 6082,
-          "height": 4054,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-a-start-ups-evolution-from-ai-lab-to-ai-business.md",
-      "title": "A Start-up’s Evolution from AI Lab to AI Business",
-      "excerpt": "This Tokyo-based start-up has been incrementally realising the potential of AI to reshape the internet of things (IoT) – ever since shifting focus from search engines to deep learning (and dropping its original moniker, Preferred Infrastructure) ...",
-      "sourceUrl": null,
-      "webUrl": "https://knowledge.insead.edu/entrepreneurship/start-ups-evolution-ai-lab-ai-business",
-      "originalUrl": "https://knowledge.insead.edu/entrepreneurship/start-ups-evolution-ai-lab-ai-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/images/2019/11/from_ai_lab_to_ai_business.jpg?itok=RHEzbS9N",
-          "width": 1999,
-          "height": 1499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "knowledge.insead.edu",
-        "domain": "insead.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-sir-ian-mckellen-hints-memory-really-does-get-worse-with-age-mild-cognitive-decline.md",
-      "title": "Sir Ian McKellen hints 'memory really does get worse' with age – mild cognitive decline",
-      "excerpt": "Could McKellen be hinting towards mild cognitive impairment (MCI) or dementia? Both conditions are more likely to occur in older age. McKellen told Radio Times: \"If you were to get to the stage ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/life-style/health/1667246/sir-ian-mckellen-health-memory-mild-cognitive-impairment-symptoms-dementia",
-      "originalUrl": "https://www.express.co.uk/life-style/health/1667246/sir-ian-mckellen-health-memory-mild-cognitive-impairment-symptoms-dementia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/11/590x/Sir-McKellen-is-at-risk-of-mild-cognitive-impairment-1667246.jpg?r=1662748553803",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/life-style/health/1667246/sir-ian-mckellen-health-memory-mild-cognitive-impairment-symptoms-dementia/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/health/1667246/sir-ian-mckellen-health-memory-mild-cognitive-impairment-symptoms-dementia/amp",
-      "publishedDateTime": "2022-09-11T15:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-how-do-self-driving-cars-work-everything-you-need-to-know.md",
-      "title": "How do self-driving cars work? Everything you need to know",
-      "excerpt": "The idea of the self-driving car feels like something that comes straight out of science fiction, but it’s a future that the automotive industry is actively striving towards. One day ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/reference/how-do-self-driving-cars-work-everything-you-need-to-know",
-      "originalUrl": "https://www.tomsguide.com/reference/how-do-self-driving-cars-work-everything-you-need-to-know",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-11T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-driverless-vehicle-maker-aurrigo-to-float.md",
-      "title": "Driverless vehicle maker Aurrigo to float",
-      "excerpt": "A maker of driverless vehicles that could solve delays at airports is to list on Aim on Thursday, braving a stock market where there has been a dearth of company floats. Coventry-based Aurrigo ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/article/driverless-vehicle-maker-aurrigo-to-float-pxshf9fk7",
-      "originalUrl": "https://www.thetimes.co.uk/article/driverless-vehicle-maker-aurrigo-to-float-pxshf9fk7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-11T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-11-driverless-food-delivery-nuro-teams-up-with-uber-eats-to-deploy-autonomous-vehicles-in-mountain-view.md",
-      "title": "Driverless food delivery: Nuro teams up with Uber Eats to deploy autonomous vehicles in Mountain View",
-      "excerpt": "Mountain View-based Nuro and Uber are embarking on a new multiyear partnership to use Nuro's autonomous, electric vehicles for food deliveries in the United States, the companies announced ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.paloaltoonline.com/news/2022/09/11/driverless-food-delivery-nuro-teams-up-with-uber-eats-to-deploy-autonomous-vehicles-in-mountain-view",
-      "originalUrl": "https://www.paloaltoonline.com/news/2022/09/11/driverless-food-delivery-nuro-teams-up-with-uber-eats-to-deploy-autonomous-vehicles-in-mountain-view",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-11T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Palo Alto Weekly",
-        "domain": "paloaltoonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-11-artificial-neural-network-market-research-by-global-size-share-growth-technological-innovation-current-trends-opportunities-and-challenges.md",
-      "title": "Artificial Neural Network Market Research By Global Size, Share, Growth, Technological Innovation, Current Trends, Opportunities And Challenges",
-      "excerpt": "An artificial neural network resembles the function and structure of the human’s brain neuron system which facilitates improved analytical output. Artificial neural network finds application in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2019/09/artificial-neural-network-market-research-by-global-size-share-growth-technological-innovation-current-trends-opportunities-and-challenges.html",
-      "originalUrl": "https://www.medgadget.com/2019/09/artificial-neural-network-market-research-by-global-size-share-growth-technological-innovation-current-trends-opportunities-and-challenges.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-11-meta-is-building-ai-that-reads-brainwaves-the-reality-so-far-is-messy.md",
-      "title": "Meta Is Building AI That Reads Brainwaves. The Reality, So Far, Is Messy",
-      "excerpt": "Researchers at Meta, the parent company of Facebook, are working on a new way to understand what’s happening in people’s minds. On August 31, the company announced that research scientists in ...",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6210261/meta-ai-brains-speech/",
-      "originalUrl": "https://time.com/6210261/meta-ai-brains-speech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-10T12:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-10-meta-developing-artificial-intelligence-that-can-hear-brainwaves.md",
-      "title": "Meta developing artificial intelligence that can 'hear' brainwaves",
-      "excerpt": "While Meta's research is in the early stages, the company is funding research into artificial intelligence to help people with brain injuries communicate by recording their brain activity without ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonexaminer.com/news/meta-brainwaves-hearing-artificial-intelligence",
-      "originalUrl": "https://www.washingtonexaminer.com/news/meta-brainwaves-hearing-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediadc.brightspotcdn.com/dims4/default/16b88ad/2147483647/strip/true/crop/2290x1202+0+62/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fcf%2F2e%2Fe7108d0f4f608cc5529ae7adeab2%2Fai.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-10T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Examiner",
-        "domain": "washingtonexaminer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-10-10-hot-new-aws-services-for-microsoft-vmware-kubernetes.md",
-      "title": "10 Hot New AWS Services For Microsoft, VMware, Kubernetes",
-      "excerpt": "From new Microsoft Windows support and VMware Cloud on AWS for NetApp to AWS Outposts and Amazon Managed Blockchain, here’s 10 hot AWS launches in August and September that channel partners ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/cloud/10-hot-new-aws-services-for-microsoft-vmware-kubernetes",
-      "originalUrl": "https://www.crn.com/news/cloud/10-hot-new-aws-services-for-microsoft-vmware-kubernetes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-10T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-10-farewell-speech-school-board-to-consider-changes-in-graduate-recognition.md",
-      "title": "Farewell speech? School board to consider changes in graduate recognition",
-      "excerpt": "Four years from now, a valedictory speech delivered at one of the county’s public high school graduation ceremonies may serve as a farewell address in more ways than one.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reflector.com/news/local/farewell-speech-school-board-to-consider-changes-in-graduate-recognition/article_130c4e98-bfda-5a7a-ac56-c83091cafdf3.html",
-      "originalUrl": "https://www.reflector.com/news/local/farewell-speech-school-board-to-consider-changes-in-graduate-recognition/article_130c4e98-bfda-5a7a-ac56-c83091cafdf3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/reflector.com/content/tncms/assets/v3/editorial/0/2c/02c8d870-c619-5f69-a85b-4fef87e5ea36/631bc5ec34047.image.jpg?crop=1720%2C903%2C0%2C151&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-10T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Reflector",
-        "domain": "reflector.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-10-brain-computer-interface-at-toronto-childrens-hospital-tests-the-potential-for-mind-melds-with-machines.md",
-      "title": "Brain-computer interface at Toronto children’s hospital tests the potential for mind melds with machines",
-      "excerpt": "Using a sensor headset, children are helping researchers fine-tune technology for turning signals in the brain into actions in the real world",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/canada/article-brain-computer-interface-at-toronto-childrens-hospital-tests-the/",
-      "originalUrl": "https://www.theglobeandmail.com/canada/article-brain-computer-interface-at-toronto-childrens-hospital-tests-the/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theglobeandmail.com/resizer/NXq2cN-yDjyhe7MmB6kFaV1Ai3k=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/2VAOGFNDIZFLJNVS2OSTC5HMY4.JPG",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-10T01:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-10-artificial-intelligence-stocks-to-look-out-for-grand-pacific-trade-reports.md",
-      "title": "Artificial Intelligence stocks to look out for - Grand Pacific Trade Reports",
-      "excerpt": "Artificial intelligence is one of the hottest investing themes right now, and for a good reason. With companies like Amazon, Google, and Facebook leading the charge, AI is poised to revolutionize nearly every industry,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-stocks-to-look-out-for---grand-pacific-trade-reports-2022-09-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-stocks-to-look-out-for---grand-pacific-trade-reports-2022-09-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-09T22:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-10-survey-majority-of-pennsylvanians-not-comfortable-sharing-road-with-driverless-cars.md",
-      "title": "Survey: Majority of Pennsylvanians not comfortable sharing road with driverless cars",
-      "excerpt": "PITTSBURGH (KDKA) — A new survey shows a majority of Pennsylvanians are not comfortable sharing the road with driverless cars. A bipartisan polling firm found more than half of respondents said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/pittsburgh/news/survey-majority-of-pennsylvanians-not-comfortable-sharing-road-driverless-cars/",
-      "originalUrl": "https://www.cbsnews.com/pittsburgh/news/survey-majority-of-pennsylvanians-not-comfortable-sharing-road-driverless-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2018/11/13/2090d1a1-84ad-4e28-a6b6-955429a72c73/thumbnail/1200x630/8d226a809d4524bfc474efea5f88a7f8/self-driving.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/pittsburgh/news/survey-majority-of-pennsylvanians-not-comfortable-sharing-road-driverless-cars/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/pittsburgh/news/survey-majority-of-pennsylvanians-not-comfortable-sharing-road-driverless-cars/",
-      "publishedDateTime": "2022-09-09T21:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-10-deloittes-beena-ammanath-on-ethics-in-artificial-intelligence.md",
-      "title": "Deloitte’s Beena Ammanath on Ethics in Artificial Intelligence",
-      "excerpt": "Does the torrid pace of investment in AI create challenges for the development of an ethical practice in this emerging technology?",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/video/deloitte-ethics-in-artificial-intelligence/",
-      "originalUrl": "https://www.eweek.com/video/deloitte-ethics-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/09/eSPEAKS-thumbnail-2.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-09T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-10-nvidias-flagship-ai-chip-reportedly-up-to-45x-faster-than-the-previous-champ.md",
-      "title": "Nvidia’s flagship AI chip reportedly up to 4.5x faster than the previous champ",
-      "excerpt": "No GPUs for you: US blocks sales of AI chips to China and Russia Nvidia positions the H100 as a high-end data center GPU chip designed for AI and supercomputer applications such as image ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/09/nvidias-flagship-ai-chip-reportedly-4-5x-faster-than-the-previous-champ/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/09/nvidias-flagship-ai-chip-reportedly-4-5x-faster-than-the-previous-champ/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/nvidia_h100_hero_3-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-09T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-10-eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate.md",
-      "title": "EU AI Act’s possible open-source regulation sparks Twitter debate",
-      "excerpt": "Alex Engler never expected his Brookings article about the EU’s attempt to regulate open-source AI to stir up Twitter debate.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate/",
-      "originalUrl": "https://venturebeat.com/ai/eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1213704893.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate/amp/",
-      "publishedDateTime": "2022-09-09T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

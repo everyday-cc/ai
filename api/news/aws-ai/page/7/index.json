@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-24-artificial-intelligence-in-accounting-market-size-analysis-current-status-and-forecast-2022-2028-ibm-google-deloitte.md",
+      "title": "Artificial Intelligence in Accounting Market Size Analysis, Current Status and Forecast 2022-2028 : IBM, Google, Deloitte",
+      "excerpt": "Click to get Artificial Intelligence in Accounting Market Research ... or manufacturers included in the study are Microsoft (US), AWS (US), Xero (New Zealand), Intuit (US), Sage (England), OSP ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-accounting-market-size-analysis-current-status-and-forecast-2022-2028-ibm-google-deloitte",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-accounting-market-size-analysis-current-status-and-forecast-2022-2028-ibm-google-deloitte",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-24-zscaler-zs-adds-aiml-capabilities-to-zero-trust-exchange.md",
       "title": "Zscaler (ZS) Adds AI/ML Capabilities to Zero Trust Exchange",
       "excerpt": "Zscaler ZS recently announced the addition of new artificial intelligence (AI) and machine learning (ML) capabilities to its zero-trust security solution — Zscaler Zero Trust Exchange (“ZTE”). With this update,",
@@ -1385,59 +1419,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-06-09T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-azure-eats-into-aws-lead-as-cloud-market-continues-to-grow.md",
-      "title": "Azure eats into AWS lead as cloud market continues to grow",
-      "excerpt": "Amazon Web Services may be a global powerhouse in the cloud hosting world, but its share of the infrastructure as a service (IaaS) market could be one area it is falling behind somewhat. The tech giant’s share of the IaaS marketplace fell 40.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/azure-eats-into-aws-lead-as-cloud-market-continues-to-grow",
-      "originalUrl": "https://www.techradar.com/in/news/azure-eats-into-aws-lead-as-cloud-market-continues-to-grow",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T09:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRadar",

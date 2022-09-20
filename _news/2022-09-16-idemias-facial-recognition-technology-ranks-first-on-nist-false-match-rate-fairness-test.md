@@ -24,17 +24,6 @@ images:
     height: 1500
     isCached: true
 
-related:
-  - title: "Idemia claims fairest facial verification among most accurate algorithms in latest NIST test"
-    excerpt: "Idemia says its algorithm was shown to be more than twice as fair as the 20 most-accurate competitor algorithms, as of the August 30 report."
-    publishedDateTime: 2022-09-15T19:38:00Z
-    webUrl: "https://www.biometricupdate.com/202209/idemia-claims-fairest-facial-verification-among-most-accurate-algorithms-in-latest-nist-test"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 8
-
 secured: "zqU6Q/8BiR5Mb6P8yQdHxUJyKMsen/aBbNc5rf+At76WOQydmUR98EF2tgELmmBh8LrHbPWzpgocWjQFWOcCBc4Y9nZL/stGdk2zZXdHom5DL7oWlng3qnV9ETo5BBTkEbTDyf9dJdwslWf3XXxoYm3msNLnv5Yx84d5jV1LUPICK/SfZUDmKt1Uv5MN8weAsG3s/4kfLgc9k5Ugl3PtGBetlOy+zXNWI734o+eTrOo5K7BgHWgq+lp8Sg79xLOgV/Ew1GWew+QxlVNpK2TBewjmm3QTt3uE4bsDchQ+Tfj20NeVhCmYok1epAV4ufKeEEEmyfpebiJnxVXNypczxNgQQ1pCYqSzvFIMSD+5dh4GgKuyS4ASNwNhHHizzC4CK+QHVLdIURCSLIU/8OZ7guxXm3XN+IUhZUwrR9ue7hlT33z0rT4H2Id/wON8YFn1ulUZPBqYrWZVO/gy9SyXc2teruE3EK/SZEgt0XC+IfA0b+QdHQRG1lPT3vg5wduC3ox3QSbSrMhqP1rzeAuZXg==;N7RDxiRhRsIwA70HHhZqBQ=="
 ---
 

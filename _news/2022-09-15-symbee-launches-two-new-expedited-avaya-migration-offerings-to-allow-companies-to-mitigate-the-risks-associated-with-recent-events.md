@@ -1,20 +1,28 @@
 ---
 category: news
 title: "Symbee Launches Two New Expedited Avaya Migration Offerings to Allow Companies to Mitigate the Risks Associated With Recent Events."
-excerpt: "Customers needing to mitigate the risk of Avaya Solution (s) by migrating rapidly to the Amazon Customer Experience (CX) ecosystem based on recent company events. Today, Symbee, a Global AWS Amazon Connect Service Delivery Partner (SDP),"
-publishedDateTime: 2022-09-14T23:54:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/09/14/9674013.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/09/14/9674013.htm"
+excerpt: "Customers needing to mitigate the risk of Avaya Solution(s) by migrating rapidly to the Amazon Customer Experience (CX) ecosystem based on recent"
+publishedDateTime: 2022-09-14T22:26:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/09/g28874153/symbee-launches-two-new-expedited-avaya-migration-offerings-to-allow-companies-to-mitigate-the-ris"
+webUrl: "https://www.benzinga.com/pressreleases/22/09/g28874153/symbee-launches-two-new-expedited-avaya-migration-offerings-to-allow-companies-to-mitigate-the-ris"
+ampWebUrl: "https://www.benzinga.com/amp/content/28874153"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28874153"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "fVZ8XvOK5HUT4q1gl/DWzpf7NpVcwRxfqLr0DnCxFMYBQ8ODRLuO765OoKWtVuYoYYc23btrQ1F0Mqfpd9Qy+y6pqsxEBu/rB/MlvaaoIeKCSOfPTRF4ZAfIAvEFYg3OdLcJwaN2bIJL10Hmi7YQipCrtxG5djE0ciE1Vq+GipK9a2PfwfC7DY0UmpEwlgFFVN7yyTY3jgdX5XhD/0KUabfgl2qucNTmvT6U3EkaaomvDmy1DSxXwW/3xqeLR7BWCFwqbjjo5lmzVAJW+XWkBQ2Engz/nBCXD/k+KK5iBMUN9fUxtLHz83CcXId+eBLURtOPDtNExvAm6/aoC+/4p4KIFpDtz2tZCs2mR3gxyxc=;c1xVmTNDxdVbudVivej2bQ=="
+images:
+  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg"
+    width: 700
+    height: 300
+    isCached: true
+
+secured: "GOtAY8QNV1N08DgTwqMPMbJYsGC0lz9t+6qpwwrCDGEQUmzt2PuTzGLU4Uthj/wgwx7NXnL0sH22Du5QIm29Za9FTOnKf08zLOJUVFSw+RUOCAa7QzvbKcZH57W8YV6ukZD/+vtOxVcd6RmP2G4yBDDiWZnfAf3ERpwMSH9MGzZe1u4msfsOXNGY4X2MmeIl5mxNU5RahL1SYg1TuCcRURdyO8ybotq6PNmUe3qkcoAKctpPG5bWqFxbn+K/QtOcyoSb66YxHtb3GD86yZ+T5qUREWp/Kj3pql9fd32yXuV2akxlP/eByKQCeADvP8ehQh83hW9gAAKMyioIMrYaL3fymmoRkhuz5yIwQzs0EmI=;bYmoxIsnZvcjliQ3DiB77Q=="
 ---
 

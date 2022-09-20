@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/09/18/technology/facial-recognition-cle
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/09/18/technology/facial-recognition-clearview-ai.amp.html"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Clearview AI Launches JusticeClearview, First Facial Recognition Product for Public Defenders Seeking Justice"
+    excerpt: "Clearview AI, the leading facial recognition technology company that provides photo identification technology to help solve crimes has announced the launch of JusticeClearview, a first-of-its-kind product designed specifically for public defenders seeking justice for the wrongfully accused."
+    publishedDateTime: 2022-09-20T10:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-clearview-ai-launches-justiceclearview-first-facial-recognition-product-for-public-defenders-seeking-justice"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 15
   - title: "Clearview facial recognition used to exonerate suspect on trial over traffic fatality"
     excerpt: "Clearview AI gave defense attorneys in a vehicular homicide case access to its technology—and helped the defendant, who was innocent, avoid the slammer."
     publishedDateTime: 2022-09-19T19:14:00Z

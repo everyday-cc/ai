@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-21-prosegur-security-launches-worlds-first-responsible-artificial-intelligence-framework-globally.md",
+      "title": "Prosegur Security Launches World's First Responsible Artificial Intelligence Framework Globally",
+      "excerpt": "An industry first, the Responsible AI Policy sets lawful, ethical and robust compliance for employees and partners utilizing Prosegur's AI",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/prosegur-security-launches-world-s-first-responsible-artificial-intelligence-framework-globally-1031604890",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/prosegur-security-launches-world-s-first-responsible-artificial-intelligence-framework-globally-1031604890",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-21T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-ai-generated-faces-are-taking-over-the-internet.md",
       "title": "AI-generated faces are taking over the internet",
       "excerpt": "When Google fired an AI ethics researcher, Timnit Gebru, in 2020 for publishing a paper that highlighted bias in the company’s algorithms, a network of bots with AI-generated faces, who claimed ...",
@@ -1382,58 +1426,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-one-day-ai-will-seem-as-human-as-anyone-what-then.md",
-      "title": "One Day, AI Will Seem as Human as Anyone. What Then?",
-      "excerpt": "From here on out, the safe use of artificial intelligence requires demystifying the human condition. If we can’t recognize and understand how AI works—if even expert engineers can fool themselves into detecting agency in a “stochastic parrot ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/lamda-sentience-psychology-ethics-policy/",
-      "originalUrl": "https://www.wired.com/story/lamda-sentience-psychology-ethics-policy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/62b632dd403df153e6760345/master/pass/ideas-ai-intelligence.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/lamda-sentience-psychology-ethics-policy/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/lamda-sentience-psychology-ethics-policy/amp",
-      "publishedDateTime": "2022-06-26T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

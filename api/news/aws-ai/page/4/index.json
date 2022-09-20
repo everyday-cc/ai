@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-05-veritone-extends-partnership-with-aws.md",
+      "title": "Veritone Extends Partnership with AWS",
+      "excerpt": "Veritone, creator of aiWARE, a hyper-expansive enterprise artificial intelligence (AI) platform, has extended its work with Amazon and Amazon Web Services (AWS) to support its media and entertainment customers. Last year, Veritone joined the AWS for Media ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154274",
+      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154274",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/147142-0822_SCS_UJET_480x610-ORG.png",
+          "width": 480,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-05T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Destination CRM",
+        "domain": "destinationcrm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-05-nextgen-and-aws-launch-second-security-foundations-program.md",
       "title": "Nextgen and AWS launch second Security Foundations program",
       "excerpt": "Nextgen Distribution and Amazon Web Services (AWS) are jointly launching the second series of their Security Foundations program, which is part of the AWS Partner Academy. Nextgen developed the ...",
@@ -1256,58 +1299,6 @@
         "name": "CIO",
         "domain": "cio.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-aws-heres-how-our-cloud-computing-infrastructure-dealt-with-amazon-prime-day.md",
-      "title": "AWS: Here's how our cloud-computing infrastructure dealt with Amazon Prime day",
-      "excerpt": "Amazon's Prime Day is an online-buying frenzy for consumers. Here's how Amazon Web Services dealt with it. AWS has detailed how its cloud-computing infrastructure supported Amazon's huge Prime Day sales event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/aws-heres-how-our-cloud-computing-infrastructure-dealt-with-amazon-prime-day/",
-      "originalUrl": "https://www.zdnet.com/article/aws-heres-how-our-cloud-computing-infrastructure-dealt-with-amazon-prime-day/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/6b8c0b7217d81a01ae0b961e7ac3437108bc0df3/2022/05/06/9e61669f-d64d-4a65-841d-04500f54a339/zd-cloud-computing.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-heres-how-our-cloud-computing-infrastructure-dealt-with-amazon-prime-day/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-heres-how-our-cloud-computing-infrastructure-dealt-with-amazon-prime-day/",
-      "publishedDateTime": "2022-07-27T01:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

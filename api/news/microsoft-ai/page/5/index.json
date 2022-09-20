@@ -2,6 +2,136 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-16-community-financial-institutions-gain-access-to-ai-powered-personalization-through-combined-deeptarget-cognitivescale-technologies.md",
+      "title": "Community Financial Institutions Gain Access to AI-Powered Personalization Through Combined DeepTarget & CognitiveScale Technologies",
+      "excerpt": "For the first time, CFIs will be able to identify predictable revenue opportunities across all 15+ lending and fee based products and services ... M12 (Microsoft Ventures), Anthem and USAA.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56821950-community-financial-institutions-gain-access-to-ai-powered-personalization-through-combined-deeptarget-cognitivescale-technologies-200.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56821950-community-financial-institutions-gain-access-to-ai-powered-personalization-through-combined-deeptarget-cognitivescale-technologies-200.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-15-black-hat-2022-reveals-enterprise-security-trends.md",
+      "title": "Black Hat 2022 reveals enterprise security trends",
+      "excerpt": "Black Hat's presentations for enterprise security provided a look at how enterprises' tech stacks are at risk of devastating cyberattacks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/black-hat-2022-reveals-enterprise-security-trends/",
+      "originalUrl": "https://venturebeat.com/security/black-hat-2022-reveals-enterprise-security-trends/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1-Cybersecurity-threat-illustration-1-e1660581757211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/black-hat-2022-reveals-enterprise-security-trends/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/black-hat-2022-reveals-enterprise-security-trends/amp/",
+      "publishedDateTime": "2022-08-15T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-08-14-cognitive-biases-and-brain-biology-help-explain-why-facts-dont-change-minds.md",
+      "title": "Cognitive biases and brain biology help explain why facts don’t change minds",
+      "excerpt": "Cognitive psychology and neuroscience studies have found that the exact opposite is often true when it comes to politics: People form opinions based on emotions, such as fear, contempt and anger ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.salon.com/2022/08/14/cognitive-biases-and-brain-biology-help-explain-why-facts-dont-changeminds_partner/",
+      "originalUrl": "https://www.salon.com/2022/08/14/cognitive-biases-and-brain-biology-help-explain-why-facts-dont-changeminds_partner/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2021/03/qanon-0312211.jpg",
+          "width": 1200,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-14T07:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Salon",
+        "domain": "salon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-14-the-one-practice-that-is-separating-the-ai-successes-from-the-failures.md",
       "title": "The One Practice That Is Separating The AI Successes From The Failures",
       "excerpt": "What are the 20% of successful AI organizations doing that are setting themselves apart from the failures, leading their projects to success?",
@@ -1262,155 +1392,6 @@
       "provider": {
         "name": "Healthline",
         "domain": "healthline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse.md",
-      "title": "Artists Are Helping To Keep Humans At The Center In EY’s Metaverse",
-      "excerpt": "The next generation of virtual worlds must focus on our shared humanity. That’s why EY’s Cognitive Human Enterprise and the New Museum’s NEW INC are bringing together artists and engineers to imagine a different kind of metaverse.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/",
-      "originalUrl": "https://www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62eb15dea5389ec014373b0b/0x0.jpg?format=jpg&crop=1298,730,x14,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/amp/",
-      "publishedDateTime": "2022-08-04T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-ghost-security-reinvents-app-security-with-unsupervised-machine-learning.md",
-      "title": "Ghost Security reinvents app security with unsupervised machine learning",
-      "excerpt": "Ghost Security is using an unsupervised machine learning approach in an industry where most app security products use supervised ML.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/08/04/ghost-security-reinvents-app-security-with-unsupervised-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2022/08/04/ghost-security-reinvents-app-security-with-unsupervised-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-robot_machine_learning_AI_1323774184-e1659571276418.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/08/04/ghost-security-reinvents-app-security-with-unsupervised-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/04/ghost-security-reinvents-app-security-with-unsupervised-machine-learning/amp/",
-      "publishedDateTime": "2022-08-04T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-cognitive-solution-market-by-latest-trend-growing-demand-and-technology-advancement-2022-2031.md",
-      "title": "Cognitive Solution Market By Latest Trend, Growing Demand And Technology Advancement 2022-2031",
-      "excerpt": "Restraints and opportunity analysis is a tool used in assessing the potential for new products and services ... World's Biggest Cognitive Solution Market Specific manufacturing Microsoft ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104645277/Cognitive-Solution-Market-By-Latest-Trend-Growing-Demand-And-Technology-Advancement-2022-2031",
-      "originalUrl": "https://menafn.com/1104645277/Cognitive-Solution-Market-By-Latest-Trend-Growing-Demand-And-Technology-Advancement-2022-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-08/04/EP_0a768image_story.jpeg",
-          "width": 286,
-          "height": 286,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null

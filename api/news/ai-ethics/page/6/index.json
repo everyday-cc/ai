@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-05-20-6-business-risks-of-shortchanging-ai-ethics-and-governance.md",
+      "title": "6 business risks of shortchanging AI ethics and governance",
+      "excerpt": "Even if the AI apocalypse doesn’t come to pass, shortchanging AI ethics poses big risks to society — and to the enterprises that deploy those AI systems. Central to these risks are factors ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/350290/6-business-risks-of-shortchanging-ai-ethics-and-governance.html",
+      "originalUrl": "https://www.cio.com/article/350290/6-business-risks-of-shortchanging-ai-ethics-and-governance.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-20T02:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-20-ai-weekly-is-ai-alien-invasion-imminent.md",
       "title": "AI Weekly: Is AI alien invasion imminent?",
       "excerpt": "Is the potential for artificial general intelligence a sign of an alien invasion on the horizon? Or is there even such a thing as true AGI?",

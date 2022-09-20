@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-20T13:16:00Z
 originalUrl: "https://www.business2community.com/stock-news/xpeng-motors-debuts-autonomous-driving-system-as-ev-race-heats-up-02551148"
 webUrl: "https://www.business2community.com/stock-news/xpeng-motors-debuts-autonomous-driving-system-as-ev-race-heats-up-02551148"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Business 2 Community

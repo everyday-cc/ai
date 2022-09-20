@@ -2,6 +2,612 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-16-machine-learning-gives-glimpse-of-how-a-dogs-brain-represents-what-it-sees.md",
+      "title": "Machine learning gives glimpse of how a dog's brain represents what it sees",
+      "excerpt": "Scientists have decoded visual images from a dog's brain, offering a first look at how the canine mind reconstructs what it sees.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220915123716.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220915123716.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T17:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-oracle-brings-heatwave-to-aws.md",
+      "title": "Oracle Brings HeatWave To AWS",
+      "excerpt": "Senior Analyst, Servers, Matt Kimball, dives as MySQL HeatWave is a cloud database service that has enabled Oracle to create differentiation in the open-source MySQL market. MySQL HeatWave is available natively on AWS,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/09/15/oracle-brings-heatwave-to-aws/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/09/15/oracle-brings-heatwave-to-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6323c5bfd0627c92277a03a5/0x0.png?format=png&width=1200",
+          "width": 936,
+          "height": 444,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/09/15/oracle-brings-heatwave-to-aws/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/09/15/oracle-brings-heatwave-to-aws/amp/",
+      "publishedDateTime": "2022-09-15T17:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-will-artificial-intelligence-chatbots-become-our-new-best-friends.md",
+      "title": "Will artificial intelligence chatbots become our new best friends?",
+      "excerpt": "There was a time when the idea of artificial intelligence was confined to the world of distant research labs and little-known technology whizzes. That time has gone. AI-based concepts have slipped ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/independentpremium/long-reads/chat-box-artificial-intelligence-sentience-b2162576.html",
+      "originalUrl": "https://www.independent.co.uk/independentpremium/long-reads/chat-box-artificial-intelligence-sentience-b2162576.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2022/09/09/09/GettyImages-1211994930.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T16:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-soroco-scouttm-now-available-in-microsoft-azure-marketplace.md",
+      "title": "Soroco ScoutTM Now Available in Microsoft Azure Marketplace",
+      "excerpt": "Soroco, the world’s first work graph company, today announced the availability of Soroco ScoutTM, the flagship product powered by work graph in Microsoft Azure Marketplace, an online store providing a",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/soroco-scouttm-now-available-in-microsoft-azure-marketplace/",
+      "originalUrl": "https://indiaeducationdiary.in/soroco-scouttm-now-available-in-microsoft-azure-marketplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1",
+          "width": 534,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/soroco-scouttm-now-available-in-microsoft-azure-marketplace/amp/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/soroco-scouttm-now-available-in-microsoft-azure-marketplace/amp/",
+      "publishedDateTime": "2022-09-15T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-truist-launches-ai-enhanced-truist-assist.md",
+      "title": "Truist launches AI-enhanced Truist Assist",
+      "excerpt": "Truist Financial today launched its artificial intelligence (AI)-enhanced virtual assistant Truist Assist, which introduces a self-service element to the bank’s customer experience offerings. The virtual assistant leverages natural language processing and natural language understanding that helps answer client questions in a digital channel,",
+      "sourceUrl": null,
+      "webUrl": "https://www.autofinancenews.net/allposts/innovation-technology/truist-launches-ai-enhanced-truist-assist/",
+      "originalUrl": "https://www.autofinancenews.net/allposts/innovation-technology/truist-launches-ai-enhanced-truist-assist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.autofinancenews.net/wp-content/uploads/2019/10/canstockphoto14662879.jpg",
+          "width": 3000,
+          "height": 2126,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autofinancenews.net/allposts/innovation-technology/truist-launches-ai-enhanced-truist-assist/amp/",
+      "cdnAmpWebUrl": "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/innovation-technology/truist-launches-ai-enhanced-truist-assist/amp/",
+      "publishedDateTime": "2022-09-15T14:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "autofinancenews",
+        "domain": "autofinancenews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-nala-robotics-and-saudi-excellence-co-to-establish-first-ai-based-robotic-cloud-kitchen-and-rd-center-in-saudi-arabia.md",
+      "title": "Nala Robotics and Saudi Excellence Co. to Establish First AI-Based Robotic Cloud Kitchen and R&D Center in Saudi Arabia",
+      "excerpt": "NAPERVILLE, Ill. and RIYADH, Saudi Arabia, Sept. 15, 2022 /PRNewswire/ -- Nala Robotics, a U.S.-based AI robotics company disrupting the culinary",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nala-robotics-and-saudi-excellence-co-to-establish-first-ai-based-robotic-cloud-kitchen-and-r-d-center-in-saudi-arabia-1031746917",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nala-robotics-and-saudi-excellence-co-to-establish-first-ai-based-robotic-cloud-kitchen-and-r-d-center-in-saudi-arabia-1031746917",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1900242/20220915_112904.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-upstart-claims-its-chips-beat-nvidias-a100-on-ai-oomph.md",
+      "title": "Upstart claims its chips beat Nvidia's A100 on AI oomph",
+      "excerpt": "SambaNova says its latest chips can best Nvidia's A100 silicon by a wide margin, at least when it comes to machine learning workloads. The Palo Alto-based AI startup this week revealed its DataScale systems and Cardinal SN30 accelerator,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/09/15/sambanova_ai_chip_nvidia/",
+      "originalUrl": "https://www.theregister.com/2022/09/15/sambanova_ai_chip_nvidia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2018/09/05/shutterstock_187864790.jpg",
+          "width": 648,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/09/15/sambanova_ai_chip_nvidia/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/09/15/sambanova_ai_chip_nvidia/",
+      "publishedDateTime": "2022-09-15T13:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-elon-musk-believes-self-driving-cars-are-the-future-but-most-americans-are-wary-new-survey-shows.md",
+      "title": "Elon Musk believes self-driving cars are the future, but most Americans are wary, new survey shows",
+      "excerpt": "Tech entrepreneurs like Elon Musk have said that self-driving cars will make regular vehicles obsolete, but most Americans are wary. A new survey found that three out of every four Americans feel ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/americans-feel-unsafe-around-self-driving-cars-survey-2022-9",
+      "originalUrl": "https://www.businessinsider.com/americans-feel-unsafe-around-self-driving-cars-survey-2022-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63235b62d5916b0019abe86f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/americans-feel-unsafe-around-self-driving-cars-survey-2022-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/americans-feel-unsafe-around-self-driving-cars-survey-2022-9?amp",
+      "publishedDateTime": "2022-09-15T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-winnai-launches-out-of-stealth-with-an-ai-assistant-for-sales-calls.md",
+      "title": "Winn.AI launches out of stealth with an AI assistant for sales calls",
+      "excerpt": "Winn.AI, a startup developing a real-time assistant for sales calls, has raised $17 million in funding as it launches out of stealth.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/15/winn-ai-launches-out-of-stealth-with-an-ai-assistant-for-sales-calls/",
+      "originalUrl": "https://techcrunch.com/2022/09/15/winn-ai-launches-out-of-stealth-with-an-ai-assistant-for-sales-calls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-use-amazon-sagemaker-data-wrangler-for-data-preparation-and-studio-labs-to-learn-and-experiment-with-ml.md",
+      "title": "Use Amazon SageMaker Data Wrangler for data preparation and Studio Labs to learn and experiment with ML",
+      "excerpt": "Amazon SageMaker Studio Lab is a free machine learning (ML) development environment based on open-source JupyterLab for anyone to learn and experiment with ML using AWS ML compute resources. It’s based on the same architecture and user interface as Amazon SageMaker Studio, but with a subset of Studio",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-data-wrangler-for-data-preparation-and-studio-labs-to-learn-and-experiment-with-ml/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-data-wrangler-for-data-preparation-and-studio-labs-to-learn-and-experiment-with-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/15/data-wrangler-studio-labs.jpg",
+          "width": 1549,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T09:14:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-alexa-developer-raises-17m-for-unlikely-ai-startup.md",
+      "title": "Alexa developer raises £17m for Unlikely AI startup",
+      "excerpt": "A developer who previously worked on Alexa has raised £17m ($19.5m) for an Unlikely AI startup. The artificial intelligence startup company is in London and headed up by former Alexa boss William ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/alexa-developer-raises-17m-for-unlikely-ai-startup/article_74a4913e-6167-5aeb-afe7-590e53db2d5a.html",
+      "originalUrl": "https://www.victoriaadvocate.com/alexa-developer-raises-17m-for-unlikely-ai-startup/article_74a4913e-6167-5aeb-afe7-590e53db2d5a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals.md",
+      "title": "Our commitment on using AI to accelerate progress on global development goals",
+      "excerpt": "I joined Google earlier this year to lead a new function: Technology &amp; Society. Our aim is to help connect research, people and ideas across Google to shape the future of our technology innovations and their impact on society for the better. A key area of focus is AI, a field I have studied and immersed",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/google-org/our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals/",
+      "originalUrl": "https://blog.google/outreach-initiatives/google-org/our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog.Google_image2096_x_1182_01.max-1300x1300.png",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals/amp/",
+      "publishedDateTime": "2022-09-15T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-rephraseai-lands-fresh-investment-to-grow-its-synthetic-media-platform.md",
+      "title": "Rephrase.ai lands fresh investment to grow its synthetic media platform",
+      "excerpt": "Rephrase.ai, a company developing a platform to create synthetic media, including personalized video ads, has raised over $10 million in a Series A venture round.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/15/rephrase-ai-lands-fresh-investment-to-grow-its-synthetic-media-platform/",
+      "originalUrl": "https://techcrunch.com/2022/09/15/rephrase-ai-lands-fresh-investment-to-grow-its-synthetic-media-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Nice-A1-Key-Alt-4.jpeg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/15/rephrase-ai-lands-fresh-investment-to-grow-its-synthetic-media-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/15/rephrase-ai-lands-fresh-investment-to-grow-its-synthetic-media-platform/amp/",
+      "publishedDateTime": "2022-09-15T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-09-15-tomahawk-robotics-awarded-65m-contract-with-united-states-marine-corps.md",
       "title": "Tomahawk Robotics Awarded $6.5M Contract with United States Marine Corps",
       "excerpt": "Tomahawk Robotics is thrilled to announce the award of the Autonomy and Robotics Enhanced Multi-Domain Infantry Squad (ARTEMIS) program through the Marine Corps Warfighting Laboratory (MCWL). The $6.5M award spans activities and deliveries scheduled from 2022 through 2024.",
@@ -296,6 +902,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-15-from-a-robotic-nurse-to-an-ai-actress-meet-the-worlds-most-realistic-humanoid-robots-that-can-mimic-human-speech-and-facial-expressions-with.md",
+      "title": "From a robotic nurse to an AI actress: Meet the world's most realistic humanoid ROBOTS that can mimic human speech and facial expressions with eerie precision",
+      "excerpt": "With AI at its core and a full-size humanoid ... stores across North America and the Middle East. 'A robot with a new appearance will start its activities in 2023, and a selected person's face ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11211887/Meet-worlds-realistic-humanoid-ROBOTS.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11211887/Meet-worlds-realistic-humanoid-ROBOTS.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/09/14/16/62406355-0-image-a-143_1663169221048.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-11211887/amp/Meet-worlds-realistic-humanoid-ROBOTS.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11211887/amp/Meet-worlds-realistic-humanoid-ROBOTS.html",
+      "publishedDateTime": "2022-09-15T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-15-latin-america-machine-learning-market-2022-comprehensive-industry-and-vendor-landscape-2030.md",
       "title": "Latin America Machine Learning Market 2022 Comprehensive Industry and Vendor Landscape 2030",
       "excerpt": "The value of the Machine Learning market in Latin America is expected to reach USD 0.93 Bn by 2023, expanding at a compound annual growth rate (CAGR) of 24.8% during 2018-2023. Request To Download Free Sample of This Strategic Report: -  Key Companies Covered in the Latin America Machine Learning Market Research are Microsoft,",
@@ -490,253 +1139,21 @@
       ]
     },
     {
-      "path": "_news/2022-09-15-chinas-most-advanced-ai-image-generator-already-blocks-political-content.md",
-      "title": "China’s most advanced AI image generator already blocks political content",
-      "excerpt": "ViLG, censors political text such as \"Tiananmen Square\" or names of political leaders, reports Zeyi Yang for MIT Technology Review. Image synthesis has proven popular (and controversial) recently on social media and in online art communities.",
+      "path": "_news/2022-09-15-daily-multivitamin-may-slow-cognitive-decline-in-older-adults-study-shows.md",
+      "title": "Daily multivitamin may slow cognitive decline in older adults, study shows",
+      "excerpt": "Yulia Reznikov/Getty Images Older adults experiencing cognitive decline are at risk for Alzheimer’s disease (AD) and other forms of dementia. Experts are still working to understand what factors ...",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/09/chinas-leading-ai-image-generator-nixes-political-content-surprising-no-one/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/09/chinas-leading-ai-image-generator-nixes-political-content-surprising-no-one/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/chinese_image_syntesis-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-watch-a-robot-excavator-controlled-like-a-videogame.md",
-      "title": "Watch a robot excavator controlled like a videogame",
-      "excerpt": "I could watch this robot excavator dig all day. Remote control could also make excavation safer and more economical.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/watch-robot-excavator-controlled-like-a-videogame/",
-      "originalUrl": "https://www.zdnet.com/article/watch-robot-excavator-controlled-like-a-videogame/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/808d01e132edafd391e87b12a42e3a8bd3f8815a/2022/09/14/b144d8e0-d4e7-420a-bbff-447305662975/sri-excavator.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/watch-robot-excavator-controlled-like-a-videogame/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/watch-robot-excavator-controlled-like-a-videogame/",
-      "publishedDateTime": "2022-09-14T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-deep-learning-from-a-dynamical-viewpoint.md",
-      "title": "Deep learning from a dynamical viewpoint",
-      "excerpt": "NUS mathematicians have developed a new theoretical framework based on dynamical systems to understand when and how a deep neural network can learn arbitrary relationships. Despite achieving ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-09-deep-dynamical-viewpoint.html",
-      "originalUrl": "https://phys.org/news/2022-09-deep-dynamical-viewpoint.html",
+      "webUrl": "https://www.medicalnewstoday.com/articles/daily-multivitamin-may-slow-cognitive-decline-in-older-adults-study-shows",
+      "originalUrl": "https://www.medicalnewstoday.com/articles/daily-multivitamin-may-slow-cognitive-decline-in-older-adults-study-shows",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/deep-learning-from-a-d.jpg",
-          "width": 1155,
-          "height": 522,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-09-deep-dynamical-viewpoint.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-deep-dynamical-viewpoint.amp",
-      "publishedDateTime": "2022-09-14T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-endoluxe-and-synopic-form-partnership-to-develop-industry-leading-endoscopic-visualization-technology-with-embedded-artificial-intelligence.md",
-      "title": "Endoluxe and Synopic Form Partnership to Develop Industry Leading Endoscopic Visualization Technology With Embedded Artificial Intelligence",
-      "excerpt": "Endoluxe is proud to announce that it has entered into a development agreement with Synopic to realize the advanced technology synergies of both organizations. With Synopic’s focus on merging image sensing,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/endoluxe-and-synopic-form-partnership-to-develop-industry-leading-endoscopic-visualization-technology-with-embedded-artificial-intelligence-2022-09-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/endoluxe-and-synopic-form-partnership-to-develop-industry-leading-endoscopic-visualization-technology-with-embedded-artificial-intelligence-2022-09-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-sensormatic-solutions-by-johnson-controls-expands-computer-vision-offering-to-address-retails-most-pressing-challenges.md",
-      "title": "Sensormatic Solutions by Johnson Controls Expands Computer Vision Offering to Address Retail’s Most Pressing Challenges",
-      "excerpt": "Johnson Controls brand Sensormatic Solutions’ innovative technology architecture offers flexible, computer-vision-powered analytics to facilitate next-generation loss-prevention solutions, traffic monitoring,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/sensormatic-solutions-by-johnson-controls-expands-computer-vision-offering-to-address-retails-most-pressing-challenges-2022-09-14-16159428",
-      "originalUrl": "https://www.marketwatch.com/press-release/sensormatic-solutions-by-johnson-controls-expands-computer-vision-offering-to-address-retails-most-pressing-challenges-2022-09-14-16159428",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-announcing-visual-conversation-builder-for-amazon-lex.md",
-      "title": "Announcing Visual Conversation Builder for Amazon Lex",
-      "excerpt": "Amazon Lex is a service for building conversational interfaces using voice and text. Amazon Lex provides high-quality speech recognition and language understanding capabilities. With Amazon Lex, you can add sophisticated, natural language bots to new and existing applications. Amazon Lex reduces multi-platform",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-visual-conversation-builder-for-amazon-lex/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-visual-conversation-builder-for-amazon-lex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/14/visual-conversation-builder.jpg",
-          "width": 1548,
-          "height": 776,
+          "url": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2022/09/Daily_vitamins_GettyImages1220060359_Thumb.jpg",
+          "width": 732,
+          "height": 549,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -746,149 +1163,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T13:38:27-07:00",
+      "publishedDateTime": "2022-09-14T16:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-new-method-for-comparing-neural-networks-exposes-how-artificial-intelligence-works.md",
-      "title": "New method for comparing neural networks exposes how artificial intelligence works",
-      "excerpt": "A team has developed a novel approach for comparing neural networks that looks within the 'black box' of artificial intelligence to help researchers understand neural network behavior. Neural networks recognize patterns in datasets;",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220914102256.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220914102256.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-intel-arm-and-nvidia-propose-new-standard-to-make-ai-processing-more-efficient.md",
-      "title": "Intel, Arm and Nvidia propose new standard to make AI processing more efficient",
-      "excerpt": "Intel, Arm and Nvidia have proposed a standard that they say can reduce the amount of memory and processing power required for AI workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/14/intel-amd-and-nvidia-propose-new-standard-to-make-ai-processing-more-efficient/",
-      "originalUrl": "https://techcrunch.com/2022/09/14/intel-amd-and-nvidia-propose-new-standard-to-make-ai-processing-more-efficient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1080288278.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/14/intel-amd-and-nvidia-propose-new-standard-to-make-ai-processing-more-efficient/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/14/intel-amd-and-nvidia-propose-new-standard-to-make-ai-processing-more-efficient/amp/",
-      "publishedDateTime": "2022-09-14T12:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-study-indicates-a-daily-multivitamin-slows-cognitive-decline.md",
-      "title": "Study indicates a daily multivitamin slows cognitive decline",
-      "excerpt": "Findings recently published in the Alzheimer’s & Dementia: The Journal of the Alzheimer’s Association found that a daily multivitamin could improve cognitive function and physical health for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcpo.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline",
-      "originalUrl": "https://www.wcpo.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCPO Cincinnati",
-        "domain": "wcpo.com",
+        "name": "Medical News Today",
+        "domain": "medicalnewstoday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -899,272 +1178,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-svkms-nmims-bengaluru-campus-opens-nmat-registration-for-admissions-in-mba-core-program-for-the-ay-2023-25.md",
-      "title": "SVKM's NMIMS Bengaluru Campus opens NMAT registration for admissions in MBA Core Program for the AY 2023-25",
-      "excerpt": "BIE (Bachelor of Industrial Engineering), machine learning, financial services and many more, both modern and traditional forms of electives. Faculty have impeccable credentials both coming from ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1275396&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1275396&cat=PR News Wire",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T11:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-nike-sneaker-cleaning-robot-looks-like-a-car-wash-for-shoes.md",
-      "title": "Nike Sneaker-Cleaning Robot Looks Like a Car Wash for Shoes",
-      "excerpt": "At first glance, Big BILL looks like the ultimate Rube Goldberg machine (a contraption intentionally designed to complicate a simple task). Nike, however, insists BILL not only cleans shoes, but deep cleans and fixes them,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/culture/fashion/nike-sneaker-cleaning-robot-looks-like-a-car-wash-for-shoes/",
-      "originalUrl": "https://www.cnet.com/culture/fashion/nike-sneaker-cleaning-robot-looks-like-a-car-wash-for-shoes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/8919002038ce59db805af029082728dec9276515/2022/09/13/c78420d1-c75d-46be-a0b3-ab6d56f5b794/bill2-1.jpg?auto=webp",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/nike-sneaker-cleaning-robot-looks-like-a-car-wash-for-shoes/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nike-sneaker-cleaning-robot-looks-like-a-car-wash-for-shoes/",
-      "publishedDateTime": "2022-09-14T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-video-ai-startup-awiros-raises-7-million-in-series-a-funding.md",
-      "title": "Video AI startup Awiros raises $7 million in Series A funding",
-      "excerpt": "The startup offers a marketplace of video AI called Apps, that aims to help customers discover and adopt technology solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/business/startups/news/video-ai-startup-awiros-raises-7-million-in-series-a-funding/articleshow/94199580.cms",
-      "originalUrl": "https://www.businessinsider.in/business/startups/news/video-ai-startup-awiros-raises-7-million-in-series-a-funding/articleshow/94199580.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-zendesk-integrates-ai-with-intelligent-triage-to-speed-up-cx-responses.md",
-      "title": "Zendesk integrates AI with intelligent triage to speed up CX responses",
-      "excerpt": "Customer experience vendor Zendesk is making good use of AI technology it gained via the acquisition of Cleverly AI in 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/zendesk-integrates-ai-with-intelligent-triage-to-speed-up-cx-responses/",
-      "originalUrl": "https://venturebeat.com/ai/zendesk-integrates-ai-with-intelligent-triage-to-speed-up-cx-responses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-zendesk_building_1408739677.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 721,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/zendesk-integrates-ai-with-intelligent-triage-to-speed-up-cx-responses/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/zendesk-integrates-ai-with-intelligent-triage-to-speed-up-cx-responses/amp/",
-      "publishedDateTime": "2022-09-14T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records.md",
-      "title": "NVIDIA’s New H100 GPU Smashes Artificial Intelligence Benchmarking Records",
-      "excerpt": "Goodson, dives in as the technical community has been looking forward to seeing how NVIDIA’s monster Hopper H100 Tensor Core GPU would perform ever since its March announcement at GTC2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6321ed3e42854ded081b8dca/0x0.jpg?format=jpg&width=1200",
-          "width": 624,
-          "height": 352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/amp/",
-      "publishedDateTime": "2022-09-14T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-ai-may-destroy-humanity-deepmind-scientists-claim-in-co-authored-paper.md",
-      "title": "AI may destroy humanity, DeepMind scientists claim in co-authored paper",
-      "excerpt": "A paper co-authored with the University of Oxford argues that advanced AI may want to implement a reward system that would harm humanity.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/innovation/ai-may-destroy-humanity-deepmind",
-      "originalUrl": "https://interestingengineering.com/innovation/ai-may-destroy-humanity-deepmind",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/2022/09/14/image/jpeg/nHhLLZVLZFuzjzQfMz3AQhayfDcqXyn0x6n1ZUX6.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_132826187.jpg"

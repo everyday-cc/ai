@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Truefoundry, Company Founded by Meta Alumni, Raises USD 2.3 Million to Accelerate ML Deployments"
+    excerpt: "A team of former Meta engineers is developing a platform to assist businesses in deploying machine learning models as quickly"
+    publishedDateTime: 2022-09-20T12:52:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/truefoundry-company-founded-by-meta-alumni-raises-usd-2-3-million-to-accelerate-ml-deployments/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 23
 
 secured: "6HgCO/Kw7X5ehL3GGdYi6xS+uYt0O0mM1wRpSvggQA1S6XVIxMq86Nm4wbSw8breGyGKOzvk1C+Olf53lb72IZFZraSf4XQrF9VEqKijVfGlOJNl/j94Qhjzm6LVzGoom3BImyMePb2hcID5uDf0RTJVy7hxC/KV2wATTINdwf9AN2/rAaYeQ+a0B/VEyBUezOTf3FoCjTYHy6LnWDspn3MTP8pdt31cho5rduxY6+ecMKe/UtDp9Zi+uoEsI8rzh8kL9uj5q2ms0oEemdkKsGBCD0wFClR2SfsVAhzkp5umKRn6lggMuyXno/UIqAywkAeH44m1RyOGr8IO40Y9Tdn70GwAzcg6DX5ZzDnY8FjrCNTL1PE3H9/p42+MM4Slu6JAuuMF4Y4JlcmM3BHzPV1QaikqlfBz/4nLURe/PraUACfZoTWegMDxytzZKjCFBlgkHLKLEaWWW53vAx3XswDyTP15afRfOjNptKRex03yTEz7tFG7MYBtWnqvFt+MbMOn5Tpjf+5vzZLBS3zuBA==;Q5H5jk9yDAn8aVO8wVtXPw=="
 ---

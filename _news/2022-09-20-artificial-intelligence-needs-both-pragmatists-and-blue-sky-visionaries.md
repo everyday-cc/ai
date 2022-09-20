@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-20T12:41:00Z
 originalUrl: "https://www.scientificamerican.com/article/artificial-intelligence-needs-both-pragmatists-and-blue-sky-visionaries/"
 webUrl: "https://www.scientificamerican.com/article/artificial-intelligence-needs-both-pragmatists-and-blue-sky-visionaries/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Scientific American

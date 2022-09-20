@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/09/19/meta-alumni-startup-truefoundry-se
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/19/meta-alumni-startup-truefoundry-seed-funding-sequoia-surge-machine-learning/amp/"
 type: article
 quality: 100
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Truefoundry, Company Founded by Meta Alumni, Raises USD 2.3 Million to Accelerate ML Deployments"
+    excerpt: "A team of former Meta engineers is developing a platform to assist businesses in deploying machine learning models as quickly"
+    publishedDateTime: 2022-09-20T12:52:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/truefoundry-company-founded-by-meta-alumni-raises-usd-2-3-million-to-accelerate-ml-deployments/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 23
 
 secured: "VrjvsSbqv63zbges+T0CI9cqvOsfhCMHsW0JEIURCMLmxtONUnPD4jQYlOHq4DgRtjhOw/hsPLSHQgrnDaVebvR1a4S6wsPvVsdmeLp4klGQlCK2XvQdstOnImClrv0bpjalkclIxttjYRu8C/jO4+WAM4vGmk3nthWL7jMTidxPG8OOeDNEAkBJ3N5Ez4l4ZWQA3DYur6wjsr7flCuqC8b247adznenIzvdr0jH9pRdoDh2m8vP3KBABlo2AMdxqtFpmIsh2VDZ34IZ1o+VgZ2EpOMMqLcqEUMlXTYTsObT3/iSzcJQuhSbsXviS/etDoec09om8gGFRq8l234Xe3PiTPyYpm0TDKIRJ6KOeDwehtS2sJA4LGNsqd4KBXTJHlqjzpwuTAxT9+G5+kCmcRYdsASMxix/xeHKprJw9UWFz8uXVMnzZmEuTSdJoeZR10o6RB/WZE6onzlTax7xVs5GSoXX9ZpaddxbmYgZ5Byp+T+TAtGtvU7D6TwUjNOntQXEJPoQ5vkvB3gNyGbw/w==;52cgociR2itK0D5UIeXzqg=="
 ---

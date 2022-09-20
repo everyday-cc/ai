@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/09/19/d-id-the-company-behind-deep-nosta
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/19/d-id-the-company-behind-deep-nostalgia-lets-you-create-ai-generated-videos-from-a-single-image/amp/"
 type: article
 quality: 78
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1200
     height: 750
     isCached: true
-
-related:
-  - title: "Have AI image generators assimilated your art? New tool lets you check"
-    excerpt: "\" taps into the LAION-5B training data used to train Stable Diffusion and Google's Imagen AI models, among others. To build LAION-5B, bots directed by a group of AI researchers crawled billions of websites,"
-    publishedDateTime: 2022-09-15T21:04:00Z
-    webUrl: "https://arstechnica.com/information-technology/2022/09/have-ai-image-generators-assimilated-your-art-new-tool-lets-you-check/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/haveibeentrained_search_results-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
 
 secured: "5DyAYqZwtAZYkjKxU3xLZR/si+cQiuij0PlGiyMwWoTch7B1MUyCi+bcN4Tf1gafQ+HFzFTruIzumuJXRuyBiCiLG4YqAq/Subzxwq3i+UPjEF+aWqR2qinFLa6B7230ifYWizesjcgxYK3UPyQSbUZoeDxJWT1U5lktMdPVNhzaVx9QQhxn84iJtKctdkD4QpzGYexbKDrY0XFFDkIKVwpMpCl2bBtswnVQHXiUBVhGmFwDC7xgRW0fjCJGsVY6GkVOC4D60hlqmj00vW+uhXSOKMhiUfzE82HVT1AFirrDwgCD3g+9/6U9drfzh1UKV5zALxuMA2zNCtuqgHaJls5ClaNcPMKIXRn/QgnEc261qu1sD0z7V5y39uhmqF2KjO3JNH2kWToNh/UamhAcvpwyYXfg0MRCeF63O5zfafb8jOqp6e5+wz8dOqDWWuHTCFbeMlf64VLGEciEPAdtnrM05vNW1sg4vONneWQvrIWSuz8fTysoqqH8mbj4DHyJpOW3gq3Ev84LXAhT+ehDXg==;tZbP5awFNyrp22aSlXtA2g=="
 ---

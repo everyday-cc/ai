@@ -2,6 +2,222 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-08-uber-eats-and-nuro-sign-a-10-year-deal-to-do-robot-food-delivery-in-california-and-texas.md",
+      "title": "Uber Eats and Nuro sign a 10-year deal to do robot food delivery in California and Texas",
+      "excerpt": "Uber Eats customers in California and Texas may soon have their takeout delivered by a driverless delivery pod after the company signed a 10-year deal with autonomous driving startup Nuro.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/9/8/23339830/uber-eats-nuro-robot-delivery-ten-year-deal-california-texas",
+      "originalUrl": "https://www.theverge.com/2022/9/8/23339830/uber-eats-nuro-robot-delivery-ten-year-deal-california-texas",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/nep91_Q5GehtWtA_U2f1dgxLzNk=/0x0:2000x1125/1200x628/filters:focal(1000x563:1001x564)/cdn.vox-cdn.com/uploads/chorus_asset/file/24002511/Uber_Nuro_image_1.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-08-robot-software-market-research-insights-with-upcoming-trends-opportunities-competitive-analysis-forecast-to-2022-2031.md",
+      "title": "Robot Software Market Research Insights with Upcoming Trends, Opportunities, Competitive Analysis, Forecast to 2022-2031",
+      "excerpt": "Increasing adoption of Internet of Things (IoT) and Artificial Intelligence (AI) is the key driver for the growth of the robot software market The robot software market size is expected to grow from USD 1,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/robot-software-market-research-insights-with-upcoming-trends-opportunities-competitive-analysis-forecast-to-2022-2031-2022-09-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/robot-software-market-research-insights-with-upcoming-trends-opportunities-competitive-analysis-forecast-to-2022-2031-2022-09-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T03:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-08-overview-of-the-classic-and-advanced-technologies-of-continuum-robots.md",
+      "title": "Overview of the classic and advanced technologies of continuum robots",
+      "excerpt": "A review paper by scientists at the Zhejiang University summarized the development of continuum robots from the aspects of design, actuation, modeling and control field. The new review paper ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220908/Overview-of-the-classic-and-advanced-technologies-of-continuum-robots.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220908/Overview-of-the-classic-and-advanced-technologies-of-continuum-robots.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/6/Chem_Lab_c618f8c3be2845828afd242b15eaaa94-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-08-review-paper-tiny-biohybrid-robots-for-intelligent-drug-delivery.md",
+      "title": "Review paper: Tiny biohybrid robots for intelligent drug delivery",
+      "excerpt": "A review paper by scientists at Zhejiang University summarized the development of continuum robots from the aspects of design, actuation, modeling and control. The new review paper, published on ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-09-paper-tiny-biohybrid-robots-intelligent.html",
+      "originalUrl": "https://phys.org/news/2022-09-paper-tiny-biohybrid-robots-intelligent.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-08-robotic-assistance-devices-to-unveil-the-long-awaited-rio-project-at-gsx.md",
+      "title": "Robotic Assistance Devices to unveil the long-awaited RIO project at GSX",
+      "excerpt": "Artificial Intelligence Technology Solutions announced that its wholly owned subsidiary Robotic Assistance Devices will formally unveil the long-awaited RIO project at GSX this month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityinfowatch.com/gsx/article/21280006/robotic-assistance-devices-rad-robotic-assistance-devices-to-unveil-the-longawaited-rio-project-at-gsx",
+      "originalUrl": "https://www.securityinfowatch.com/gsx/article/21280006/robotic-assistance-devices-rad-robotic-assistance-devices-to-unveil-the-longawaited-rio-project-at-gsx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/09/RIO_Gsx_2022.63190ab78f766.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-07T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security",
+        "domain": "securityinfowatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-07-is-intel-labs-brain-inspired-ai-approach-the-future-of-robot-learning.md",
       "title": "Is Intel Labs’ brain-inspired AI approach the future of robot learning?",
       "excerpt": "Intel Labs’ new neuromorphic computing approach is aimed primarily at future applications such as robotic assistants.",
@@ -1125,239 +1341,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-artificial-intelligence-ai-robots-market-projected-to-reach-worth-353-billion-by-2026-exclusive-report-by-marketsandmarketstm.md",
-      "title": "Artificial Intelligence (AI) Robots Market Projected to Reach worth $35.3 billion by 2026 - Exclusive Report by MarketsandMarkets(TM)",
-      "excerpt": "At a CAGR - 38.6% Geographic regions covered - North America, APAC, Europe, and RoW Ask for PDF Brochure:  Browse in-depth TOC on \" Artificial Intelligence (AI) Robots Market \" 178 - Tables 81- Figures 253 - Pages NVIDIA develops GPUs and delivers value to its consumers through PC,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-projected-to-reach-worth-353-billion-by-2026---exclusive-report-by-marketsandmarketstm-2022-09-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-projected-to-reach-worth-353-billion-by-2026---exclusive-report-by-marketsandmarketstm-2022-09-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-robot-that-stocks-drinks-is-newest-thing-at-the-corner-store.md",
-      "title": "Robot that stocks drinks is newest thing at the corner store",
-      "excerpt": "then the robot slithered to the right spot and placed the drink on the shelf — in a place chosen after its artificial intelligence and tiny cameras matched the kind of beverage to what’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/09/01/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/",
-      "originalUrl": "https://nypost.com/2022/09/01/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/09/japan-convenience-store-robot-drinks-comp-1.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2022/09/01/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/09/01/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/amp/",
-      "publishedDateTime": "2022-09-01T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-i-pitched-my-ridiculous-startup-idea-to-a-robot-vc.md",
-      "title": "I pitched my ridiculous startup idea to a robot VC",
-      "excerpt": "It was the pitch for my new startup, a company that promised to deliver ... specific VC expertise and advice by way of the powerful AI language model GPT-3. Originally released by OpenAI in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/pitched-startup-to-robot-vc/",
-      "originalUrl": "https://www.digitaltrends.com/computing/pitched-startup-to-robot-vc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/08/WaterDrone.png?p=1",
-          "width": 1456,
-          "height": 1002,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/pitched-startup-to-robot-vc/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/pitched-startup-to-robot-vc/?amp",
-      "publishedDateTime": "2022-08-31T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "digitaltrends.com",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-up-bridge-the-gap-robot-development-kits.md",
-      "title": "UP Bridge the Gap robot development kits",
-      "excerpt": "Designed to provide developers with the complete package the robotic development kits come supplied with a computing and vision unit, a motion unit consisting of motor control board, motors and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/robot-development-kits-01-09-2022/",
-      "originalUrl": "https://www.geeky-gadgets.com/robot-development-kits-01-09-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2022/09/UP-Bridge-the-Gap-robotic-development-kits.jpg",
-          "width": 700,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-unilag-trains-youths-on-coding-robotics-programming.md",
-      "title": "UNILAG Trains Youths on Coding, Robotics Programming",
-      "excerpt": "Yinka-Banjo disclosed this at the Undergraduate Robotics Challenge, powered by Coderina and the closing ceremony of the 2022 one month summer coding and robotics programme. The programme is aimed at introducing young beginners to the field of robotics and progressively leadin them from basic concepts to actual work with robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisdaylive.com/index.php/2022/08/31/unilag-trains-youths-on-coding-robotics-programming/",
-      "originalUrl": "https://www.thisdaylive.com/index.php/2022/08/31/unilag-trains-youths-on-coding-robotics-programming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thisday-846548948316-wp-data.storage.googleapis.com/wp-media/d070e8aa-unilag.jpg?mrf-size=m",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thisdaylive.com/index.php/2022/08/31/unilag-trains-youths-on-coding-robotics-programming/amp/",
-      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2022/08/31/unilag-trains-youths-on-coding-robotics-programming/amp/",
-      "publishedDateTime": "2022-08-30T16:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This Day",
-        "domain": "thisdaylive.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

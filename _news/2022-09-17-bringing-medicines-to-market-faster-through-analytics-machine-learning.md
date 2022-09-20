@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "See the exclusive 22-slide pitch deck that AI company 4M Analytics used to raise $45 million in Series A funding"
+    excerpt: "The startup raised over $45 million from investors including Insight Partners, ITI Venture Capital Partners, Viola Ventures and F2 Venture Capital."
+    publishedDateTime: 2022-09-20T13:40:00Z
+    webUrl: "https://www.businessinsider.com/4m-analytics-pitch-deck-artificial-intelligence-funding-2022-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 26
   - title: "Charlotte AI data analytics startup Stratifyd raises another $10M"
     excerpt: "Eric Healy is the Charlotte-headquartered startup’s new chief executive officer ... The company was founded in 2015 and operates what it calls the Smart AI™ experience and insights platform. The company’s first Fortune 500 customer was Lenovo ..."
     publishedDateTime: 2022-09-19T13:57:00Z

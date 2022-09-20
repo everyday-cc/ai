@@ -2,6 +2,512 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-21-nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners.md",
+      "title": "Nvidia debuts new high-end RTX 4090 GPU after previous generation gobbled up by crypto miners",
+      "excerpt": "which should allow the new GPUs to perform both AI-powered graphics operations and pure neural network stuff (like running Stable Diffusion) faster and better. The GPU has graduated from being a tool for keeping your games running at high framerates to a ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/",
+      "originalUrl": "https://techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/nvidia-ceo-jensen-huang-with-geforce-rtx-4090.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/amp/",
+      "publishedDateTime": "2022-09-20T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-augments-personal-ai-assistant-could-help-you-keep-track-of-a-scattered-digital-life.md",
+      "title": "Augment’s personal AI assistant could help you keep track of a scattered digital life",
+      "excerpt": "Ever totally forget the person, email or document you're supposed to talk about in the next call? Augment's personal AI assistant might help.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/20/augments-personalized-ai-assistant-could-help-you-keep-track-of-a-scattered-digital-life/",
+      "originalUrl": "https://techcrunch.com/2022/09/20/augments-personalized-ai-assistant-could-help-you-keep-track-of-a-scattered-digital-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/augment-header.jpg?resize=1200,738",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/20/augments-personalized-ai-assistant-could-help-you-keep-track-of-a-scattered-digital-life/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/20/augments-personalized-ai-assistant-could-help-you-keep-track-of-a-scattered-digital-life/amp/",
+      "publishedDateTime": "2022-09-20T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-nvidia-and-booz-allen-develop-morpheus-platform-to-supercharge-security-ai.md",
+      "title": "Nvidia and Booz Allen develop Morpheus platform to supercharge security AI",
+      "excerpt": "Nvidia and Booz Allen announce the launch of Morpheus, a security AI solution designed to offer greater data processing capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/nvidia-and-booz-allen-develop-morpheus-platform-to-supercharge-security-ai/",
+      "originalUrl": "https://venturebeat.com/security/nvidia-and-booz-allen-develop-morpheus-platform-to-supercharge-security-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1334595508-popba.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/nvidia-and-booz-allen-develop-morpheus-platform-to-supercharge-security-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/nvidia-and-booz-allen-develop-morpheus-platform-to-supercharge-security-ai/amp/",
+      "publishedDateTime": "2022-09-20T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-nvidia-expands-edge-ai-tech-for-healthcare-and-robotics.md",
+      "title": "Nvidia expands edge AI tech for healthcare and robotics",
+      "excerpt": "Nvidia announced its new IGX platform for industrial and medical edge AI use cases, as well as a new version of the Jetson Nano for robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nvidia-expands-edge-ai-tech-for-healthcare-and-robotics/",
+      "originalUrl": "https://venturebeat.com/ai/nvidia-expands-edge-ai-tech-for-healthcare-and-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 236,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/image1-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nvidia-expands-edge-ai-tech-for-healthcare-and-robotics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-expands-edge-ai-tech-for-healthcare-and-robotics/amp/",
+      "publishedDateTime": "2022-09-20T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-hopper-time-nvidias-most-powerful-ai-chip-yet-ships-in-october.md",
+      "title": "Hopper time: Nvidia’s most powerful AI chip yet ships in October",
+      "excerpt": "The H100, part of the \"Hopper\" architecture, is the most powerful AI-focused GPU Nvidia has ever made, surpassing its previous high-end chip, the A100. The H100 includes 80 billion transistors and a special \"Transformer Engine\" to accelerate machine learning tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/09/hopper-time-nvidias-most-powerful-ai-chip-yet-ships-in-october/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/09/hopper-time-nvidias-most-powerful-ai-chip-yet-ships-in-october/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/NVIDIA-Hopper-GTC-Fall-22_1000-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-elon-musk-faces-skeptics-as-tesla-gets-ready-to-unveil-optimus-robot.md",
+      "title": "Elon Musk faces skeptics as Tesla gets ready to unveil 'Optimus' robot",
+      "excerpt": "Tesla chief executive Elon Musk blamed overreliance on factory robots for sending the electric carmaker to \"production hell\" four years ago, saying humans were better at certain jobs. My, how times have changed.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/elon-musk-faces-skeptics-as-tesla-gets-ready-to-unveil-optimus-robot/articleshow/94334528.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/elon-musk-faces-skeptics-as-tesla-gets-ready-to-unveil-optimus-robot/articleshow/94334528.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-12986,msid-94334519/elon-musk-tesla.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/elon-musk-faces-skeptics-as-tesla-gets-ready-to-unveil-optimus-robot/amp_articleshow/94334528.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/elon-musk-faces-skeptics-as-tesla-gets-ready-to-unveil-optimus-robot/amp_articleshow/94334528.cms",
+      "publishedDateTime": "2022-09-20T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-the-algorithm-ai-generated-art-raises-tricky-questions-about-ethics-copyright-and-security.md",
+      "title": "The Algorithm: AI-generated art raises tricky questions about ethics, copyright, and security",
+      "excerpt": "Thanks to his distinctive style, Rutkowski is now one of the most commonly used prompts in the new open-source AI art generator Stable Diffusion, which was launched late last month—far more popular than some of the world's most famous artists,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2022/09/20/1059792/the-algorithm-ai-generated-art-raises-tricky-questions-about-ethics-copyright-and-security/",
+      "originalUrl": "https://www.technologyreview.com/2022/09/20/1059792/the-algorithm-ai-generated-art-raises-tricky-questions-about-ethics-copyright-and-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/09/greg-rutkowski-dragon-cave-square.jpg?w=928",
+          "width": 928,
+          "height": 928,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2022/09/20/1059792/the-algorithm-ai-generated-art-raises-tricky-questions-about-ethics-copyright-and-security/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/20/1059792/the-algorithm-ai-generated-art-raises-tricky-questions-about-ethics-copyright-and-security/amp/",
+      "publishedDateTime": "2022-09-20T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Security",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-nvidia-wants-to-be-the-brains-of-your-self-driving-car.md",
+      "title": "Nvidia Wants to Be the Brains of Your Self-Driving Car",
+      "excerpt": "Chip designer Nvidia on Tuesday revealed a new processor called Drive Thor it expects will power the autonomous vehicle revolution. Thor processors should arrive in 2024 for cars hitting the roads in 2025,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/nvidia-wants-to-be-the-brains-of-your-self-driving-car/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/nvidia-wants-to-be-the-brains-of-your-self-driving-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/02e686580812771a6c1f41008fd6a55334121716/hub/2022/09/20/2b060158-f211-48cf-8c58-79f54886c3e0/zeekr-001-ev.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidia-wants-to-be-the-brains-of-your-self-driving-car/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-wants-to-be-the-brains-of-your-self-driving-car/",
+      "publishedDateTime": "2022-09-20T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-how-ai-is-changing-the-way-students-learn.md",
+      "title": "How AI Is Changing The Way Students Learn",
+      "excerpt": "In our increasingly fast-moving world, many schools are still facing the challenge of integrating the latest digital technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-changing-the-way-students-learn/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-changing-the-way-students-learn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/608b1e8f685217f6a56050b2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-changing-the-way-students-learn/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-changing-the-way-students-learn/amp/",
+      "publishedDateTime": "2022-09-20T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-factbox-the-challenges-automakers-and-now-tesla-face-with-humanoid-robots.md",
+      "title": "Factbox: The challenges automakers, and now Tesla, face with humanoid robots",
+      "excerpt": "Tesla's CEO Elon Musk is set to unveil its prototype humanoid robots at an event on Sept. 30, hoping to expand beyond self-driving cars that have not yet become reality despite his repeated promises.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/challenges-automakers-now-tesla-face-with-humanoid-robots-2022-09-20/",
+      "originalUrl": "https://www.reuters.com/technology/challenges-automakers-now-tesla-face-with-humanoid-robots-2022-09-20/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/UIBi6hsuoRG96_8hgRaAlbj-InE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HK3GFOZNRJJNHFHO4TNPIOP7WM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-hrs-role-in-people-analytics-and-ai.md",
       "title": "HR's Role In People Analytics And AI",
       "excerpt": "Using people analytics in HR functions can bring about positive change—but only if employers cultivate the right approach for their organization.",
@@ -10,7 +516,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -201,7 +707,7 @@
       "originalUrl": "https://propakistani.pk/2022/09/20/ai-ml-bootcamp-for-pakistan-and-asean-startups-is-right-round-the-corner/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -245,7 +751,7 @@
       "originalUrl": "https://techcrunch.com/2022/09/19/meta-alumni-startup-truefoundry-seed-funding-sequoia-surge-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -445,7 +951,7 @@
       "originalUrl": "https://techcrunch.com/2022/09/19/d-id-the-company-behind-deep-nostalgia-lets-you-create-ai-generated-videos-from-a-single-image/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -498,7 +1004,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/parallel-data-processing-with-rstudio-on-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -601,7 +1107,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/19/how-to-leverage-aiml-for-predictive-incident-management/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -705,7 +1211,7 @@
       "originalUrl": "https://www.gizmochina.com/2022/09/19/xiaomi-face-recognition-smart-door-lock-3d-structured-light-tech-launched/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -745,479 +1251,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details.md",
-      "title": "Muxi To Give China Its First Fully-Dedicated Gaming GPU In 2025; Check Details",
-      "excerpt": "Muxi’s 7nm chipset, billed as the companys most powerful GPU to date, is primarily intended to meet the needs of high-end gaming PCs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizbot.com/news/muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details-082672.html",
-      "originalUrl": "https://www.gizbot.com/news/muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details-082672.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizbot.com/img/1200x60x675/img/2022/09/muxi-gpu-card-2025-1663574244.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizbot.com/amphtml/news/muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details-082672.html",
-      "cdnAmpWebUrl": "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/news/muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details-082672.html",
-      "publishedDateTime": "2022-09-19T00:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GIZBOT",
-        "domain": "gizbot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-even-smartest-ai-models-dont-match-human-visual-processing-study.md",
-      "title": "Even smartest AI models don't match human visual processing: Study",
-      "excerpt": "Deep convolutional neural networks (DCNNs) do not see objects the way humans do -- using configural shape perception -- and that could be dangerous in real-world",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/articleshow/94293780.cms",
-      "originalUrl": "https://www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/articleshow/94293780.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/94294619.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/amp_articleshow/94293780.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/amp_articleshow/94293780.cms",
-      "publishedDateTime": "2022-09-18T21:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud.md",
-      "title": "Putting artificial intelligence and machine learning workloads in the cloud",
-      "excerpt": "We look at the pros and cons of putting artificial intelligence (AI) and machine learning (ML) applications in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud",
-      "originalUrl": "https://www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/rms/onlineimages/ai_a352095729.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud?amp=1",
-      "publishedDateTime": "2022-09-18T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare",
-        "Natural Language Processing",
-        "Microsoft AI",
-        "AI in Finance",
-        "AI in Autos",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-18-clearview-ai-used-by-police-to-find-criminals-now-in-public-defenders-hands.md",
-      "title": "Clearview AI, Used by Police to Find Criminals, Now in Public Defenders’ Hands",
-      "excerpt": "After a Florida man was accused of vehicular homicide, his lawyer used Clearview AI’s facial recognition software to prove his innocence. But other defense lawyers say Clearview’s offer rings hollow.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/09/18/technology/facial-recognition-clearview-ai.html",
-      "originalUrl": "https://www.nytimes.com/2022/09/18/technology/facial-recognition-clearview-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/09/18/business/18clearview/merlin_213002715_2c63bec8-2f01-4ec2-bfa5-2a48a70905d9-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/09/18/technology/facial-recognition-clearview-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/09/18/technology/facial-recognition-clearview-ai.amp.html",
-      "publishedDateTime": "2022-09-18T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-global-artificial-intelligence-market-to-reach-450-billion-in-2022.md",
-      "title": "Global artificial intelligence market to reach $450 billion in 2022",
-      "excerpt": "The Artificial Intelligence (AI) market value is expected to reach nearly $450 billion this year and maintain a year-over-year growth rate in the next five years, a new report has forecast. In 2021, the global revenues for the AI market,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/global-artificial-intelligence-market-to-reach-450-billion-in-2022/articleshow/94268554.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/global-artificial-intelligence-market-to-reach-450-billion-in-2022/articleshow/94268554.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-89644,msid-94268528/ai.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/global-artificial-intelligence-market-to-reach-450-billion-in-2022/amp_articleshow/94268554.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/global-artificial-intelligence-market-to-reach-450-billion-in-2022/amp_articleshow/94268554.cms",
-      "publishedDateTime": "2022-09-17T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-economists-view-of-artificial-intelligence-beyond-cheaper-prediction-power.md",
-      "title": "Economist’s View Of Artificial Intelligence: Beyond Cheaper Prediction Power",
-      "excerpt": "We’re starting to outsource a large share of human decision-making to machines, which may have unforeseen implications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/17/economists-view-of-artificial-intelligence-beyond-cheaper-prediction-power/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/17/economists-view-of-artificial-intelligence-beyond-cheaper-prediction-power/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63254ca3e6ea262af77a03a7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/17/economists-view-of-artificial-intelligence-beyond-cheaper-prediction-power/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/09/17/economists-view-of-artificial-intelligence-beyond-cheaper-prediction-power/amp/",
-      "publishedDateTime": "2022-09-17T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-the-creepy-problem-killing-ai-projects.md",
-      "title": "The Creepy Problem Killing AI Projects",
-      "excerpt": "But once you get into animatronics or the Sophia robot where they are trying to look and act human, they start to fall into the uncanny valley where many people find them to be creepy and are uncomfortable around them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/17/the-creepy-problem-killing-ai-projects/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/17/the-creepy-problem-killing-ai-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/631f82356d7f993699fe5860/0x0.jpg?format=jpg&crop=1782,1003,x338,y72,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/17/the-creepy-problem-killing-ai-projects/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/09/17/the-creepy-problem-killing-ai-projects/amp/",
-      "publishedDateTime": "2022-09-17T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-sambanova-doubles-up-chips-to-chase-ai-foundation-models.md",
-      "title": "SambaNova Doubles Up Chips To Chase AI Foundation Models",
-      "excerpt": "One of the first tenets of machine learning, which is a very precise kind of data analytics and statistical analysis, is that more data beats a better",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2022/09/17/sambanova-doubles-up-chips-to-chase-ai-foundation-models/",
-      "originalUrl": "https://www.nextplatform.com/2022/09/17/sambanova-doubles-up-chips-to-chase-ai-foundation-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/09/sambanova-cardinal-sn30-logo.jpg",
-          "width": 1227,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2022/09/17/sambanova-doubles-up-chips-to-chase-ai-foundation-models/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/09/17/sambanova-doubles-up-chips-to-chase-ai-foundation-models/amp/",
-      "publishedDateTime": "2022-09-16T22:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-arm-fills-in-some-gaps-and-details-in-server-chip-roadmaps.md",
-      "title": "Arm Fills In Some Gaps – And Details – In Server Chip Roadmaps",
-      "excerpt": "Let’s just say it right here at the beginning. The first wave of attempts at creating Arm server chips –Calxeda, Applied Micro, AMD, Marvell, Nvidia, and",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2022/09/14/arm-fills-in-some-gaps-and-details-in-server-chip-roadmaps/",
-      "originalUrl": "https://www.nextplatform.com/2022/09/14/arm-fills-in-some-gaps-and-details-in-server-chip-roadmaps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/09/arm-neoverse-server-logo-scaled.jpg",
-          "width": 2560,
-          "height": 1421,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2022/09/14/arm-fills-in-some-gaps-and-details-in-server-chip-roadmaps/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/09/14/arm-fills-in-some-gaps-and-details-in-server-chip-roadmaps/amp/",
-      "publishedDateTime": "2022-09-16T19:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-fierce-competition-who-could-win-the-intelligent-automation-arms-race.md",
-      "title": "Fierce competition: Who could win the intelligent automation arms race",
-      "excerpt": "Microsoft and Automation Anywhere are emerging as the main contenders for dominance of the business process automation market.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/automation/fierce-competition-who-could-win-the-intelligent-automation-arms-race/",
-      "originalUrl": "https://venturebeat.com/automation/fierce-competition-who-could-win-the-intelligent-automation-arms-race/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1285575560.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/automation/fierce-competition-who-could-win-the-intelligent-automation-arms-race/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/automation/fierce-competition-who-could-win-the-intelligent-automation-arms-race/amp/",
-      "publishedDateTime": "2022-09-16T18:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

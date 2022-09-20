@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/tech/tech-trends/article/3192500/tech-war-chi
 webUrl: "https://www.scmp.com/tech/tech-trends/article/3192500/tech-war-china-chip-veteran-says-nvidia-hard-replace-artificial"
 type: article
 quality: 62
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Upstart claims its chips beat Nvidia's A100 on AI oomph"
-    excerpt: "SambaNova says its latest chips can best Nvidia's A100 silicon by a wide margin, at least when it comes to machine learning workloads. The Palo Alto-based AI startup this week revealed its DataScale systems and Cardinal SN30 accelerator,"
-    publishedDateTime: 2022-09-15T20:33:00Z
-    webUrl: "https://www.theregister.com/2022/09/15/sambanova_ai_chip_nvidia/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/09/15/sambanova_ai_chip_nvidia/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/09/15/sambanova_ai_chip_nvidia/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 74
-    images:
-      - url: "https://regmedia.co.uk/2018/09/05/shutterstock_187864790.jpg"
-        width: 648
-        height: 448
-        isCached: true
 
 secured: "w0rsqvmTwfRMbuQCofiVUq83vb3veQb56RCHqKDguN83CIPL3TzwJsT9gbqX3z6b7DTGpy0RQ9YvgmojwFo5DtoPRztX1NlGnOfiqiOkdp0c4VFMe9HImMUbB79NimgctB6SW8iOkRIg9fXdKY0CQYKpVuzgjwUqxiU9YkiII+TAY2ayUjg9Gjyh41tY/KIZHHqngLUyVb/GHqaPlUhvg2ywrIlmMj/cz60e8Jmikl4mZnpgcny/0IvZDcpb/eStKUTrx+Rkq2ifV7FbeOm7FRPBZamjDkwuAFCcKhGj8rWmxIsD8F1PQDyFYWKpgwwpVwgUdzjyzw/xAOnebKlaVkAs+Y/R5SGiWwRnlbiXs68=;0GIk7WjfAJLbtWL3gsC3hQ=="
 ---

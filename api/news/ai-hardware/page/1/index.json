@@ -2,6 +2,163 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-21-nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners.md",
+      "title": "Nvidia debuts new high-end RTX 4090 GPU after previous generation gobbled up by crypto miners",
+      "excerpt": "which should allow the new GPUs to perform both AI-powered graphics operations and pure neural network stuff (like running Stable Diffusion) faster and better. The GPU has graduated from being a tool for keeping your games running at high framerates to a ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/",
+      "originalUrl": "https://techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/nvidia-ceo-jensen-huang-with-geforce-rtx-4090.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/amp/",
+      "publishedDateTime": "2022-09-20T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-nvidia-and-booz-allen-develop-morpheus-platform-to-supercharge-security-ai.md",
+      "title": "Nvidia and Booz Allen develop Morpheus platform to supercharge security AI",
+      "excerpt": "Nvidia and Booz Allen announce the launch of Morpheus, a security AI solution designed to offer greater data processing capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/nvidia-and-booz-allen-develop-morpheus-platform-to-supercharge-security-ai/",
+      "originalUrl": "https://venturebeat.com/security/nvidia-and-booz-allen-develop-morpheus-platform-to-supercharge-security-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1334595508-popba.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/nvidia-and-booz-allen-develop-morpheus-platform-to-supercharge-security-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/nvidia-and-booz-allen-develop-morpheus-platform-to-supercharge-security-ai/amp/",
+      "publishedDateTime": "2022-09-20T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-hopper-time-nvidias-most-powerful-ai-chip-yet-ships-in-october.md",
+      "title": "Hopper time: Nvidia’s most powerful AI chip yet ships in October",
+      "excerpt": "The H100, part of the \"Hopper\" architecture, is the most powerful AI-focused GPU Nvidia has ever made, surpassing its previous high-end chip, the A100. The H100 includes 80 billion transistors and a special \"Transformer Engine\" to accelerate machine learning tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/09/hopper-time-nvidias-most-powerful-ai-chip-yet-ships-in-october/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/09/hopper-time-nvidias-most-powerful-ai-chip-yet-ships-in-october/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/NVIDIA-Hopper-GTC-Fall-22_1000-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-19-muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details.md",
       "title": "Muxi To Give China Its First Fully-Dedicated Gaming GPU In 2025; Check Details",
       "excerpt": "Muxi’s 7nm chipset, billed as the companys most powerful GPU to date, is primarily intended to meet the needs of high-end gaming PCs.",
@@ -1370,157 +1527,6 @@
       ],
       "topics": [
         "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-qualcomm-is-still-the-most-efficient-ai-accelerator-for-image-processing.md",
-      "title": "Qualcomm Is Still The Most Efficient AI Accelerator For Image Processing",
-      "excerpt": "Company’s recent design wins with leading server vendors indicates strong customer demand, especially in edge image processing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/09/08/qualcomm-is-still-the-most-efficient-ai-accelerator-for-image-processing/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/09/08/qualcomm-is-still-the-most-efficient-ai-accelerator-for-image-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6319090efc2d7f948d213eba/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 614,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/09/08/qualcomm-is-still-the-most-efficient-ai-accelerator-for-image-processing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/09/08/qualcomm-is-still-the-most-efficient-ai-accelerator-for-image-processing/amp/",
-      "publishedDateTime": "2022-09-08T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-apples-latest-a16-bionic-chip-comes-with-5-core-gpu-16-core-neural-engine.md",
-      "title": "Apple's latest A16 Bionic chip comes with 5-core GPU, 16-core neural engine",
-      "excerpt": "At Wednesday's Apple event in Cupertino, California, the company finally revealed its iPhone 14 Pro lineup, which is powered by the latest A16 chip, the successor of last year's A15 chip",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/technology/apple-s-latest-a16-bionic-chip-comes-with-5-core-gpu-16-core-neural-engine-122090800084_1.html",
-      "originalUrl": "https://www.business-standard.com/article/technology/apple-s-latest-a16-bionic-chip-comes-with-5-core-gpu-16-core-neural-engine-122090800084_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/10/full/1631297645-9379.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/apple-s-latest-a16-bionic-chip-comes-with-5-core-gpu-16-core-neural-engine-122090800084_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/apple-s-latest-a16-bionic-chip-comes-with-5-core-gpu-16-core-neural-engine-122090800084_1.html",
-      "publishedDateTime": "2022-09-07T18:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-is-intel-labs-brain-inspired-ai-approach-the-future-of-robot-learning.md",
-      "title": "Is Intel Labs’ brain-inspired AI approach the future of robot learning?",
-      "excerpt": "Intel Labs’ new neuromorphic computing approach is aimed primarily at future applications such as robotic assistants.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/is-intel-labs-brain-inspired-ai-approach-the-future-of-robot-learning/",
-      "originalUrl": "https://venturebeat.com/ai/is-intel-labs-brain-inspired-ai-approach-the-future-of-robot-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/Intel.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/is-intel-labs-brain-inspired-ai-approach-the-future-of-robot-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/is-intel-labs-brain-inspired-ai-approach-the-future-of-robot-learning/amp/",
-      "publishedDateTime": "2022-09-07T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics",
-        "Machine Learning",
         "AI Hardware"
       ]
     }

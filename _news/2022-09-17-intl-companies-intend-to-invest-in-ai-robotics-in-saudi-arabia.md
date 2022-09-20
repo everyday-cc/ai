@@ -7,7 +7,7 @@ originalUrl: "https://english.aawsat.com/home/article/3879416/intl-companies-int
 webUrl: "https://english.aawsat.com/home/article/3879416/intl-companies-intend-invest-ai-robotics-saudi-arabia"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Nala Robotics and Saudi Excellence Co. to Establish First AI-Based Robotic Cloud Kitchen and R&D Center in Saudi Arabia"
-    excerpt: "NAPERVILLE, Ill. and RIYADH, Saudi Arabia, Sept. 15, 2022 /PRNewswire/ -- Nala Robotics, a U.S.-based AI robotics company disrupting the culinary"
-    publishedDateTime: 2022-09-15T21:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nala-robotics-and-saudi-excellence-co-to-establish-first-ai-based-robotic-cloud-kitchen-and-r-d-center-in-saudi-arabia-1031746917"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://mma.prnewswire.com/media/1900242/20220915_112904.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "WeRide launches the first self-driving Robobus Test Ride in Saudi Arabia at 2022 Global AI Summit"
     excerpt: "This is the first fully driverless test ride of robobus in the Middle East country and it will take place from Sep. 19th to 22nd"
     publishedDateTime: 2022-09-19T07:41:00Z

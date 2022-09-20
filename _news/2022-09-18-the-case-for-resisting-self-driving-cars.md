@@ -25,18 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving cars need new laws, regulations: report"
-    excerpt: "Legislative Yuan researchers have recommended revisions to traffic laws to ensure legal clarity on accidents involving self-driving vehicles. A report published by the Legislative Research Bureau on Sept."
-    publishedDateTime: 2022-09-18T16:00:00Z
-    webUrl: "https://www.taipeitimes.com/News/taiwan/archives/2022/09/19/2003785569"
+  - title: "Nvidia Wants to Be the Brains of Your Self-Driving Car"
+    excerpt: "Chip designer Nvidia on Tuesday revealed a new processor called Drive Thor it expects will power the autonomous vehicle revolution. Thor processors should arrive in 2024 for cars hitting the roads in 2025,"
+    publishedDateTime: 2022-09-20T15:52:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/nvidia-wants-to-be-the-brains-of-your-self-driving-car/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-wants-to-be-the-brains-of-your-self-driving-car/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-wants-to-be-the-brains-of-your-self-driving-car/"
     type: article
     provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 24
+      name: CNET
+      domain: cnet.com
+    quality: 89
     images:
-      - url: "https://www.taipeitimes.com/images/2022/09/19/P03-220919-309.jpg"
-        width: 945
+      - url: "https://www.cnet.com/a/img/resize/02e686580812771a6c1f41008fd6a55334121716/hub/2022/09/20/2b060158-f211-48cf-8c58-79f54886c3e0/zeekr-001-ev.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
         height: 630
         isCached: true
 

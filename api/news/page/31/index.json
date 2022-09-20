@@ -2,6 +2,931 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2022-08-24-faa-oks-reliable-robotics-certification-basis-for-autoflight.md",
+      "title": "FAA OKs Reliable Robotics’ Certification Basis For Autoflight",
+      "excerpt": "The FAA has agreed to a certification basis for Reliable Robotics’ autoflight and navigation ... that would avoid fatal crashes caused by controlled flight into terrain and loss of control. “",
+      "sourceUrl": null,
+      "webUrl": "https://aviationweek.com/aerospace/advanced-air-mobility/faa-oks-reliable-robotics-certification-basis-autoflight",
+      "originalUrl": "https://aviationweek.com/aerospace/advanced-air-mobility/faa-oks-reliable-robotics-certification-basis-autoflight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T12:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Aviation Week",
+        "domain": "aviationweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-mark-cuban-foundation-ai-bootcamps-application-closing-soon.md",
+      "title": "Mark Cuban Foundation AI Bootcamps- Application Closing Soon!",
+      "excerpt": "The Mark Cuban Foundation will host Artificial Intelligence (AI) Bootcamps for high school students in the Fall of 2022. The No Cost AI Bootcamp will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-mark-cuban-foundation-ai-bootcamps-application-closing-soon-/2022/08/23/9661107.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-mark-cuban-foundation-ai-bootcamps-application-closing-soon-/2022/08/23/9661107.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-the-benefits-of-artificial-intelligence.md",
+      "title": "The Benefits of Artificial Intelligence",
+      "excerpt": "Artificial intelligence benefits are realized across many sectors, from robotic process automation to self-driving cars to AI-powered data analytics platforms. Across the world of enterprise and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/enterprise-apps/benefits-of-artificial-intelligence/",
+      "originalUrl": "https://www.eweek.com/enterprise-apps/benefits-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-Database-05-1088x725-1.jpg",
+          "width": 1088,
+          "height": 725,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-assembly-ai-offers-ai-as-a-service-api-to-ease-model-development.md",
+      "title": "Assembly AI offers AI-as-a-service API to ease model development",
+      "excerpt": "Offered as an AI-as-a-service model, Assembly AI's latest APIs can perform various tasks ranging from summarization and content moderation to topic detection.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/assembly-ai-offers-ai-as-a-service-api-to-ease-model-development/",
+      "originalUrl": "https://venturebeat.com/ai/assembly-ai-offers-ai-as-a-service-api-to-ease-model-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/Assembly-AI.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/assembly-ai-offers-ai-as-a-service-api-to-ease-model-development/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/assembly-ai-offers-ai-as-a-service-api-to-ease-model-development/amp/",
+      "publishedDateTime": "2022-08-23T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-why-ai-leaders-need-a-backbone-of-large-language-models.md",
+      "title": "Why AI leaders need a ‘backbone’ of large language models",
+      "excerpt": "AI innovators are laying down a foundational AI ‘backbone’ of large language models for natural language processing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-ai-leaders-need-a-backbone-of-large-language-models/",
+      "originalUrl": "https://venturebeat.com/ai/why-ai-leaders-need-a-backbone-of-large-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1370095638.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/why-ai-leaders-need-a-backbone-of-large-language-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-ai-leaders-need-a-backbone-of-large-language-models/amp/",
+      "publishedDateTime": "2022-08-23T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-cloud-computing-degree-programs-help-fill-workforce-gaps.md",
+      "title": "Cloud Computing Degree Programs Help Fill Workforce Gaps",
+      "excerpt": "The demand for cloud computing skills is sky-high, and colleges and universities are helping their students attain them.",
+      "sourceUrl": null,
+      "webUrl": "https://edtechmagazine.com/higher/article/2022/08/cloud-computing-degree-programs-help-fill-workforce-gaps",
+      "originalUrl": "https://edtechmagazine.com/higher/article/2022/08/cloud-computing-degree-programs-help-fill-workforce-gaps",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EdTech",
+        "domain": "edtechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-google-research-ai-image-noise-reduction-is-out-of-this-world.md",
+      "title": "Google research AI image noise reduction is out of this world",
+      "excerpt": "If you have great lighting, a good photographer can take decent photos even with the crappiest camera imaginable. In low light, though, all bets are off. Sure, some cameras can shoot haunting video lit only by the light of the moon,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/23/nerf-in-the-dark/",
+      "originalUrl": "https://techcrunch.com/2022/08/23/nerf-in-the-dark/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JtBS4KBcKVc/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/23/nerf-in-the-dark/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/23/nerf-in-the-dark/amp/",
+      "publishedDateTime": "2022-08-23T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-conduct-what-if-analyses-with-amazon-forecast-up-to-80-faster-than-before.md",
+      "title": "Conduct what-if analyses with Amazon Forecast, up to 80% faster than before",
+      "excerpt": "Now with Amazon Forecast, you can seamlessly conduct what-if analyses up to 80% faster to analyze and quantify the potential impact of business levers on your demand forecasts. Forecast is a service that uses machine learning (ML) to generate accurate demand forecasts, without requiring any ML experience.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/conduct-what-if-analyses-with-amazon-forecast-up-to-80-faster-than-before/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/conduct-what-if-analyses-with-amazon-forecast-up-to-80-faster-than-before/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/15/1-1.jpg",
+          "width": 1841,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T10:05:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-mark-cuban-foundation-ai-bootcamps-application-closing-soon.md",
+      "title": "Mark Cuban Foundation AI Bootcamps- Application Closing Soon!",
+      "excerpt": "The Mark Cuban Foundation will host Artificial Intelligence (AI) Bootcamps for high school students in the Fall of 2022. The No Cost AI Bootcamp will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/mark-cuban-foundation-ai-bootcamps--application-closing-soon-2022-08-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/mark-cuban-foundation-ai-bootcamps--application-closing-soon-2022-08-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-bihar-urban-body-polls-2022-voters-to-be-screened-through-face-recognition-system-details-here.md",
+      "title": "Bihar Urban Body Polls 2022: Voters To Be Screened Through Face Recognition System | Details Here",
+      "excerpt": "In first of its kind, the voters in Bihar will be screened through a face recognition software to verify their identity and check electoral malpractices during the upcoming elections for urban local bodies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.india.com/bihar/bihar-urban-body-polls-2022-voters-to-be-screened-through-face-recognition-system-details-here-5589719/",
+      "originalUrl": "https://www.india.com/bihar/bihar-urban-body-polls-2022-voters-to-be-screened-through-face-recognition-system-details-here-5589719/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.india.com/wp-content/uploads/2022/07/hb-2.png",
+          "width": 1285,
+          "height": 766,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.india.com/bihar/bihar-urban-body-polls-2022-voters-to-be-screened-through-face-recognition-system-details-here-5589719/amp/",
+      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/bihar/bihar-urban-body-polls-2022-voters-to-be-screened-through-face-recognition-system-details-here-5589719/amp/",
+      "publishedDateTime": "2022-08-23T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India.com",
+        "domain": "india.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-professional-cloud-services-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis.md",
+      "title": "Professional Cloud Services Market Size Is Likely to Experience a Tremendous Growth by 2031 Covid-19 Analysis",
+      "excerpt": "The professional cloud services market was valued at USD 21.51billion in 2022 and is expected to reach a value of USD 57.54 billion by 2031, at a CAGR of 17.76 %, during the forecast period. The increase in the use of Artificial Intelligence (AI) with a growing focus on digital transformation initiatives are expected to provide growth opportunities for cloud services market - Moreover,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/professional-cloud-services-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis-2022-08-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/professional-cloud-services-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis-2022-08-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-oppo-unveils-its-latest-ai-technology-for-creating-animated-digital-avatar.md",
+      "title": "OPPO unveils its latest AI technology for creating Animated Digital Avatar",
+      "excerpt": "This marks a breakthrough in OPPO AI technology. It is an AI-driven technology that can create animated digital avatars using a few phones. The new OPPO AI technology is adept at loose clothes appearance learning and skeleton motion modeling. The new OPPO ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/08/23/oppo-ai-technology-creating-animated-digital-avatar/",
+      "originalUrl": "https://www.gizmochina.com/2022/08/23/oppo-ai-technology-creating-animated-digital-avatar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2022/08/OPPO-Digital-Avatar-Technology-2.jpg",
+          "width": 1024,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/08/23/oppo-ai-technology-creating-animated-digital-avatar/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/23/oppo-ai-technology-creating-animated-digital-avatar/?amp=1",
+      "publishedDateTime": "2022-08-23T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-machine-learning-algorithm-predicts-how-to-get-the-most-out-of-electric-vehicle-batteries.md",
+      "title": "Machine learning algorithm predicts how to get the most out of electric vehicle batteries",
+      "excerpt": "Researchers have developed a machine learning algorithm that could help reduce charging times and prolong battery life in electric vehicles by predicting how different driving patterns affect battery performance,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-08-machine-algorithm-electric-vehicle-batteries.html",
+      "originalUrl": "https://techxplore.com/news/2022-08-machine-algorithm-electric-vehicle-batteries.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/electric-car.jpg",
+          "width": 1920,
+          "height": 1275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-08-machine-algorithm-electric-vehicle-batteries.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-machine-algorithm-electric-vehicle-batteries.amp",
+      "publishedDateTime": "2022-08-23T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-how-is-machine-learning-affecting-advertising-and-marketing.md",
+      "title": "How is Machine Learning Affecting Advertising and Marketing?",
+      "excerpt": "Machine learning is transforming the dynamics of the advertising and marketing industry by segmenting and targeting specific audiences with relevant messages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/technology/how-is-machine-learning-affecting-advertising-and-marketing",
+      "originalUrl": "https://www.bbntimes.com/technology/how-is-machine-learning-affecting-advertising-and-marketing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/articles/global-economy/How_is_Machine_Learning_Affecting_Advertising_and_Marketing_.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-untether-ai-unveils-its-second-generation-at-memory-compute-architecture-at-hot-chips-2022.md",
+      "title": "Untether AI Unveils Its Second-Generation At-Memory Compute Architecture at HOT CHIPS 2022",
+      "excerpt": "Untether AITM, the leader in at-memory computation for artificial intelligence (AI) workloads, today announced at the HOT CHIPS 2022 conference its next-generation architecture for accelerating AI inference workloads called speedAI devices,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-palo-alto-climate-and-environment-5798dcbf47da4517b54a0db9143c109c",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-palo-alto-climate-and-environment-5798dcbf47da4517b54a0db9143c109c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-florida-holds-primary-elections-that-will-decide-who-will-face-off-against-superstar-gop-gov-ron-desantis-in-november.md",
+      "title": "Florida holds primary elections that will decide who will face off against superstar GOP Gov. Ron DeSantis in November",
+      "excerpt": "The Democratic nomination for US Senate is expected to go to Rep. Val Demings, a former Orlando police chief who'd face off against GOP Sen. Marco Rubio.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8",
+      "originalUrl": "https://www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6303e6c2c9a2da00180920c2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8?amp",
+      "publishedDateTime": "2022-08-23T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word.md",
+      "title": "Capitol Records blasted for promoting AI rapper FN Meka using n word",
+      "excerpt": "Capitol Records blasted for promoting an AI rapper named FN Meka that was created by a white man and uses the n word",
+      "sourceUrl": null,
+      "webUrl": "https://bossip.com/2154626/capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word/",
+      "originalUrl": "https://bossip.com/2154626/capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bossip.com/wp-content/uploads/sites/28/2022/08/16612612898745.jpg?w=560&h=320&crop=1&strip=all&quality=80",
+          "width": 560,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bossip.com/2154626/capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word/amp/",
+      "cdnAmpWebUrl": "https://bossip-com.cdn.ampproject.org/c/s/bossip.com/2154626/capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word/amp/",
+      "publishedDateTime": "2022-08-23T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bossip",
+        "domain": "bossip.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-ai-assessment-of-breathing-pattern-aids-in-parkinsons-diagnosis.md",
+      "title": "AI Assessment of Breathing Pattern Aids in Parkinson’s Diagnosis",
+      "excerpt": "Relying mainly on the advent of motor symptoms like stiffness, slowness, and tremors, Parkinson’s disease is extremely challenging to detect. However, these symptoms usually occur after many years of disease onset.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=13174",
+      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=13174",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_13174_1661249402144469.jpg",
+          "width": 554,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=13174",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=13174",
+      "publishedDateTime": "2022-08-23T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-ai-cant-be-fooled-by-gamestops-pivot-to-nfts-and-blockchain.md",
+      "title": "AI Can’t Be Fooled By GameStop’s Pivot To NFTs And Blockchain",
+      "excerpt": "The company has been struggling for profitability, and is now looking to pivot to a digital first strategy, built on blockchain and web 3.0 gaming and an NFT marketplace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/08/23/ai-cant-be-fooled-by-gamestops-pivot-to-nfts-and-blockchain/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/08/23/ai-cant-be-fooled-by-gamestops-pivot-to-nfts-and-blockchain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6304e73098803cc60c9de1d7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/08/23/ai-cant-be-fooled-by-gamestops-pivot-to-nfts-and-blockchain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/08/23/ai-cant-be-fooled-by-gamestops-pivot-to-nfts-and-blockchain/amp/",
+      "publishedDateTime": "2022-08-23T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-why-some-ai-companies-are-securing-massive-funding-despite-economic-downturn.md",
+      "title": "Why some AI companies are securing massive funding despite economic downturn",
+      "excerpt": "Despite the economic downturn, some AI startups have had no trouble raising huge investment rounds, hinting at the AI market's future.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-some-ai-companies-are-securing-massive-funding-despite-economic-downturn/",
+      "originalUrl": "https://venturebeat.com/ai/why-some-ai-companies-are-securing-massive-funding-despite-economic-downturn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2014/12/FundingFit.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 1057,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/why-some-ai-companies-are-securing-massive-funding-despite-economic-downturn/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-some-ai-companies-are-securing-massive-funding-despite-economic-downturn/amp/",
+      "publishedDateTime": "2022-08-23T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-23-hot-it-skills-to-develop-now.md",
       "title": "Hot IT Skills To Develop Now",
       "excerpt": "Technology continually evolves, and our skills need to evolve with it to remain relevant and keep our careers on track. As the global CIO at NPD, I’ve met many amazing CIO/CTO colleagues and watched as the key issues we collectively face have evolved from pre-pandemic planning to supporting our business through the pandemic,",
@@ -259,919 +1184,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-industry-leader-adopts-cim-platform-as-its-enterprise-integrity-management-solution-for-global-pipeline-operations.md",
-      "title": "Industry Leader Adopts CIM Platform as its Enterprise Integrity Management Solution for Global Pipeline Operations",
-      "excerpt": "(“OneBridge”) to adopt Cognitive Integrity Management™ (“CIM”) platform and software-as-a-service products for management of its pipeline assets. Headquartered in the U.S.A., the Client is one of the global oil and gas industry leaders and conducts business in the U.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/technology-science-software-oil-and-gas-industry-c5ac845ab4efb487bfcff16249f70339",
-      "originalUrl": "https://apnews.com/press-release/accesswire/technology-science-software-oil-and-gas-industry-c5ac845ab4efb487bfcff16249f70339",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-robotics-artificial-intelligence-competition-to-spur-production-underway.md",
-      "title": "Robotics, Artificial Intelligence : Competition to Spur Production Underway",
-      "excerpt": "Some 60 students, start-upers, researchers from across the country that were preselected have begun competing for prizes.",
-      "sourceUrl": null,
-      "webUrl": "https://cameroon-tribune.cm/article.html/50569/en.html/robotics-artificial-intelligence-competition-spur-production",
-      "originalUrl": "https://cameroon-tribune.cm/article.html/50569/en.html/robotics-artificial-intelligence-competition-spur-production",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cameroon-tribune.cm//administrateur/photo/normal_7b6e847.jpg",
-          "width": 960,
-          "height": 460,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cameroon",
-        "domain": "cameroon-tribune.cm",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-raising-startup-funding-used-to-be-easynot-anymore.md",
-      "title": "Raising Startup Funding Used to Be Easy—Not Anymore",
-      "excerpt": "In recent years investors greeted founders with generous checks and warm smiles, but now CEOs seeking cash encounter cold shoulders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/raising-startup-funding-used-to-be-easy-not-anymore/",
-      "originalUrl": "https://www.wired.com/story/raising-startup-funding-used-to-be-easy-not-anymore/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63041d38b07577beee1be839/master/pass/Raising-Startup-Funding-Used-To-Be-Easy-Business-111035742.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/raising-startup-funding-used-to-be-easy-not-anymore/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/raising-startup-funding-used-to-be-easy-not-anymore/amp",
-      "publishedDateTime": "2022-08-23T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-ai-and-ml-reliability-and-security-blenderbot-and-other-cases.md",
-      "title": "AI and ML reliability and security: BlenderBot and other cases",
-      "excerpt": "Blenderbot is a conversational bot, and its statements about people, companies or politics appear to be unexpected and sometimes radical",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/ai-and-ml-reliability-and-security-blenderbot-and-other-cases-wfgyxiac",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/ai-and-ml-reliability-and-security-blenderbot-and-other-cases-wfgyxiac",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/version/c:NjM1MjYzMTQtNGQ5OC00:MWQxOTFl/23-8-22-jpg.jpg?f=3%3A2",
-          "width": 693,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-language-translation-device-market-to-hit-usd-25-bn-by-2030-says-global-market-insights-inc.md",
-      "title": "Language Translation Device Market to hit USD 2.5 Bn by 2030, Says Global Market Insights Inc.",
-      "excerpt": "Major language translation device market participants include Sourcenext Inc., Jarvisen (iFLYTEK), Cheetah Mobile, Inc., Vasco Electronics LLC, Waverly Labs Inc., and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/08/n28596363/language-translation-device-market-to-hit-usd-2-5-bn-by-2030-says-global-market-insights-inc",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/n28596363/language-translation-device-market-to-hit-usd-2-5-bn-by-2030-says-global-market-insights-inc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1883515/Language_Translation_Device_Market.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28596363",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28596363",
-      "publishedDateTime": "2022-08-23T03:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round.md",
-      "title": "AI Startup Anyscale Adds $99 Million to Andressen Horowitz-Led Funding Round",
-      "excerpt": "The company initially announced a $100 million Series C venture investment round led by Andressen Horowitz in December.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?mod=latest_headlines",
-      "originalUrl": "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?mod=latest_headlines",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-608499?width=860&height=573",
-          "width": 860,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200",
-      "publishedDateTime": "2022-08-23T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-ai-robots-power-hungry-or-empowering.md",
-      "title": "AI Robots: Power Hungry Or Empowering?",
-      "excerpt": "IT leaders in consumer-facing organizations who have not yet made the plunge into AI but wish to remain competitive are scrambling to figure out how to incorporate AI technology into their contact centers and customer engagement hubs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/ai-robots-power-hungry-or-empowering/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/ai-robots-power-hungry-or-empowering/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61f030570018a072dc46d1ec/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/ai-robots-power-hungry-or-empowering/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/23/ai-robots-power-hungry-or-empowering/amp/",
-      "publishedDateTime": "2022-08-23T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-artificial-intelligence-in-bfsi-market-top-competitors-drivers-trends-restraints-and-key-players-by-2028.md",
-      "title": "Artificial Intelligence In BFSI Market Top Competitors , Drivers, Trends ,Restraints And Key Players By 2028",
-      "excerpt": "Emergen Research Logo Increasing usage of Artificial Intelligence in BFSI for fraud prevention is driving growth of the market  Ar",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104742130/Artificial-Intelligence-In-BFSI-Market-Top-Competitors-Drivers-Trends-Restraints-And-Key-Players-By-2028",
-      "originalUrl": "https://menafn.com/1104742130/Artificial-Intelligence-In-BFSI-Market-Top-Competitors-Drivers-Trends-Restraints-And-Key-Players-By-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?724716",
-          "width": 349,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T02:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-deep-learning-market-2022-2027-industry-growth-report-top-companies-share-size-and-forecast.md",
-      "title": "Deep Learning Market 2022-2027: Industry Growth Report, Top Companies Share, Size, and Forecast",
-      "excerpt": "According to the latest report by IMARC Group, titled \"Deep Learning Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022- 2027,\" the global deep learning market reached a value of US$ 12 Billion in 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2022-2027-industry-growth-report-top-companies-share-size-and-forecast-2022-08-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2022-2027-industry-growth-report-top-companies-share-size-and-forecast-2022-08-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T02:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-bosch-backed-self-driving-startup-weride-weighing-ipo-sources-say.md",
-      "title": "Bosch-backed self-driving startup WeRide weighing IPO, sources say",
-      "excerpt": "The self-driving vehicle industry has long been divided over the best ... taking a similar approach to peers including Baidu, Huawei Technologies, and General Motors-backed Momenta.ai. BLOOMBERG",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesstimes.com.sg/garage/bosch-backed-self-driving-startup-weride-weighing-ipo-sources-say",
-      "originalUrl": "https://www.businesstimes.com.sg/garage/bosch-backed-self-driving-startup-weride-weighing-ipo-sources-say",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T01:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Times",
-        "domain": "businesstimes.com.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-best-speech-to-text-apps-in-2022-free-paid-and-online-voice-recognition-apps-and-services.md",
-      "title": "Best speech-to-text apps in 2022: Free, paid and online voice recognition apps and services",
-      "excerpt": "Here then are the best in speech-to-text recognition programs, which should be more than capable for most situations and circumstances. Dragon Anywhere is the Nuance mobile product for Android and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/best-speech-to-text-app",
-      "originalUrl": "https://www.techradar.com/news/best-speech-to-text-app",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T22:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans.md",
-      "title": "Google Gave Its Helper Robots AI Language Skills to Better Work With Humans",
-      "excerpt": "it could be one way to start grounding AI’s language skills in the real world. So whether or not this line of research ever leads to robotic butlers becoming a reality, it seems likely to push the fields of both robotics and AI towards new and powerful ...",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/?amp=1",
-      "originalUrl": "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/?amp=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2022/08/Google-everyday-robots.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/?amp=1",
-      "publishedDateTime": "2022-08-22T20:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact.md",
-      "title": "Singapore looks to drive AI research, capabilities with Google Cloud pact",
-      "excerpt": "Touted as the Singapore government's first private-sector partnership in artificial intelligence, the collaboration will see both sides jointly develop and testbed applications as well as work on issues pertaining to AI governance and ethics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
-      "originalUrl": "https://www.zdnet.com/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
-      "publishedDateTime": "2022-08-22T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-robots-could-help-reduce-chemical-use-in-farming.md",
-      "title": "Robots could help reduce chemical use in farming",
-      "excerpt": "A robotics manufacturer is looking at the possibility of developing machines that will remove weeds and tend farmland without the need for so many chemicals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcpo.com/news/national/robots-could-help-reduce-chemical-use-in-farming",
-      "originalUrl": "https://www.wcpo.com/news/national/robots-could-help-reduce-chemical-use-in-farming",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/cb84d0e/2147483647/strip/true/crop/3666x2062+61+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F07%2F00%2Fe618017b4f60acd3ac6f7b3020e4%2Fscreen-shot-2022-08-22-at-10.50.57%20PM.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wcpo.com/news/national/robots-could-help-reduce-chemical-use-in-farming?_amp=true",
-      "cdnAmpWebUrl": "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/robots-could-help-reduce-chemical-use-in-farming?_amp=true",
-      "publishedDateTime": "2022-08-22T18:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCPO Cincinnati",
-        "domain": "wcpo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-bci-brain-controlled-robot-market-report-in-depth-market-analysis-and-forecast-2022-to-2028-of-market-insights.md",
-      "title": "BCI Brain-controlled Robot Market Report, In-Depth Market Analysis and FORECAST 2022 To 2028 of market insights.",
-      "excerpt": "In this research report, \"2022 to 2028,\" the current situation and potential future developments of the \"BCI Brain-controlled Robot Market\" are presented. The research offers a thorough ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/bci-brain-controlled-robot-market-report-in-depth-market-analysis-and-forecast-2022-to-2028-of-market-insights-2022-08-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/bci-brain-controlled-robot-market-report-in-depth-market-analysis-and-forecast-2022-to-2028-of-market-insights-2022-08-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-how-to-use-artificial-intelligence-to-predict-cryptocurrency-price-trends.md",
-      "title": "How To Use Artificial Intelligence To Predict Cryptocurrency Price Trends",
-      "excerpt": "Artificial intelligence (AI) has become an essential tool for cryptocurrency traders looking to remain one step ahead of their competition. By integrating various data sources and advanced ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2022/08/how-to-use-artificial-intelligence-to-predict-cryptocurrency-price-trends.html",
-      "originalUrl": "https://www.androidheadlines.com/2022/08/how-to-use-artificial-intelligence-to-predict-cryptocurrency-price-trends.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "androidheadlines.com",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-how-visual-search-technology-is-redefining-the-future-of-online-search-experience.md",
-      "title": "How Visual Search Technology is redefining the future of online search experience",
-      "excerpt": "Innovative technologies work to simplify the user experience. Learn how Visual Search Technology is shaping the online search methods of the future.",
-      "sourceUrl": null,
-      "webUrl": "https://think360studio.com/blog/visual-search-technology-online-search-experience",
-      "originalUrl": "https://think360studio.com/blog/visual-search-technology-online-search-experience",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://think360studio-media.s3.ap-south-1.amazonaws.com/photo/plugin/article/2022/visual-search-technology-vision-ai-search-10092022.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Think360 Studio",
-        "domain": "think360studio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-ai-detects-parkinsons-disease-by-tracking-your-breathing-patterns.md",
-      "title": "AI detects Parkinson’s disease by tracking your breathing patterns",
-      "excerpt": "A compelling new study indicates Parkinson’s disease (PD) could be diagnosed by remotely tracking a person’s breathing patterns. Led by researchers from MIT, the study presents an AI system that uses radio waves to monitor breathing while a person sleeps.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/health-wellbeing/ai-parkinsons-disease-sleep-breathing-patterns-mit",
-      "originalUrl": "https://newatlas.com/health-wellbeing/ai-parkinsons-disease-sleep-breathing-patterns-mit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/1f864fd/2147483647/strip/true/crop/800x420+0+90/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F61%2F90%2F1e3d4dc9497c909b9aeb6bf860f0%2Fparkinson-ai-breath-detector-mit-00-0.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T16:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-nexla-to-provide-pre-packaged-ready-to-use-datasets-with-latest-acquisition.md",
-      "title": "Nexla to provide pre-packaged ready-to-use datasets with latest acquisition",
-      "excerpt": "California-based Nexla has announced the acquisition of Fidap to provide enterprises with pre-packaged, ready-to-use datasets.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/nexla-to-provide-pre-packaged-ready-to-use-datasets-with-latest-acquisition/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/nexla-to-provide-pre-packaged-ready-to-use-datasets-with-latest-acquisition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1330516352.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 611,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/data-infrastructure/nexla-to-provide-pre-packaged-ready-to-use-datasets-with-latest-acquisition/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/nexla-to-provide-pre-packaged-ready-to-use-datasets-with-latest-acquisition/amp/",
-      "publishedDateTime": "2022-08-22T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-new-gartner-survey-only-half-of-ai-models-make-it-into-production.md",
-      "title": "New Gartner survey: Only half of AI models make it into production",
-      "excerpt": "A new artificial intelligence survey from Gartner reported that, on average, only 54% of AI models move from pilot to production.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/new-gartner-survey-only-half-of-ai-models-make-it-into-production/",
-      "originalUrl": "https://venturebeat.com/ai/new-gartner-survey-only-half-of-ai-models-make-it-into-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1134028859-e1653340548357.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/new-gartner-survey-only-half-of-ai-models-make-it-into-production/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/new-gartner-survey-only-half-of-ai-models-make-it-into-production/amp/",
-      "publishedDateTime": "2022-08-22T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

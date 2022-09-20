@@ -10,7 +10,7 @@
       "originalUrl": "https://techcrunch.com/2022/09/19/meta-alumni-startup-truefoundry-seed-funding-sequoia-surge-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -63,7 +63,7 @@
       "originalUrl": "https://techcrunch.com/2022/09/19/d-id-the-company-behind-deep-nostalgia-lets-you-create-ai-generated-videos-from-a-single-image/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -105,55 +105,6 @@
         "Microsoft AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud.md",
-      "title": "Putting artificial intelligence and machine learning workloads in the cloud",
-      "excerpt": "We look at the pros and cons of putting artificial intelligence (AI) and machine learning (ML) applications in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud",
-      "originalUrl": "https://www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/rms/onlineimages/ai_a352095729.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud?amp=1",
-      "publishedDateTime": "2022-09-18T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare",
-        "Natural Language Processing",
-        "Microsoft AI",
-        "AI in Finance",
-        "AI in Autos",
-        "IBM AI"
       ]
     },
     {
@@ -305,6 +256,92 @@
       ]
     },
     {
+      "path": "_news/2022-09-15-daily-multivitamin-may-slow-cognitive-decline-in-older-adults-study-shows.md",
+      "title": "Daily multivitamin may slow cognitive decline in older adults, study shows",
+      "excerpt": "Yulia Reznikov/Getty Images Older adults experiencing cognitive decline are at risk for Alzheimer’s disease (AD) and other forms of dementia. Experts are still working to understand what factors ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medicalnewstoday.com/articles/daily-multivitamin-may-slow-cognitive-decline-in-older-adults-study-shows",
+      "originalUrl": "https://www.medicalnewstoday.com/articles/daily-multivitamin-may-slow-cognitive-decline-in-older-adults-study-shows",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2022/09/Daily_vitamins_GettyImages1220060359_Thumb.jpg",
+          "width": 732,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T16:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical News Today",
+        "domain": "medicalnewstoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-multivitamins-may-slow-cognitive-decline-in-older-adults-study-says.md",
+      "title": "Multivitamins May Slow Cognitive Decline in Older Adults, Study Says",
+      "excerpt": "Share on Pinterest Researchers say taking a multivitamin daily can help slow cognitive aging. Fly View Productions/Getty Images Researchers say a new study indicates that taking a multivitamin ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthline.com/health-news/multivitamins-may-slow-cognitive-decline-in-older-adults-study-says",
+      "originalUrl": "https://www.healthline.com/health-news/multivitamins-may-slow-cognitive-decline-in-older-adults-study-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://post.healthline.com/wp-content/uploads/2022/09/female-couch-pills-1200x628-facebook-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T15:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healthline",
+        "domain": "healthline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-15-study-indicates-a-daily-multivitamin-slows-cognitive-decline.md",
       "title": "Study indicates a daily multivitamin slows cognitive decline",
       "excerpt": "Findings recently published in the Alzheimer’s & Dementia: The Journal of the Alzheimer’s Association found that a daily multivitamin could improve cognitive function and physical health for ...",
@@ -422,6 +459,58 @@
       "topics": [
         "Microsoft AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-best-things-you-can-do-to-slow-cognitive-decline-revealed.md",
+      "title": "Best Things You Can Do to Slow Cognitive Decline Revealed",
+      "excerpt": "The decline in cognitive abilities as we get older is thought to be to do with changes to our brain structures that take place over time. It is estimated that one in nine adults in the U.S. has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/brain-aging-dementia-alzheimers-multivitamin-study-prevention-1742762",
+      "originalUrl": "https://www.newsweek.com/brain-aging-dementia-alzheimers-multivitamin-study-prevention-1742762",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2115680/brain-drawing.jpg",
+          "width": 1800,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/brain-aging-dementia-alzheimers-multivitamin-study-prevention-1742762?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brain-aging-dementia-alzheimers-multivitamin-study-prevention-1742762?amp=1",
+      "publishedDateTime": "2022-09-14T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1259,92 +1348,6 @@
       "provider": {
         "name": "ABCNews",
         "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-moving-the-goal-posts-cognitive-dissonance-and-preferences.md",
-      "title": "Moving the Goal Posts: Cognitive Dissonance and Preferences",
-      "excerpt": "Got cognitive dissonance? Simply move the goal posts of what you see as fair and reasonable. Source: Neil Daftary/Unsplash Cognitive dissonance theory posits that individuals experience mental ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/intersections/202209/moving-the-goal-posts-cognitive-dissonance-and-preferences",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/intersections/202209/moving-the-goal-posts-cognitive-dissonance-and-preferences",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-09/neil-daftary-4uamk7_8t5s-unsplash.jpg?itok=-VXuqVqw",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/intersections/202209/moving-the-goal-posts-cognitive-dissonance-and-preferences?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/intersections/202209/moving-the-goal-posts-cognitive-dissonance-and-preferences?amp",
-      "publishedDateTime": "2022-09-08T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-can-good-dental-health-help-protect-against-cognitive-decline-and-dementia.md",
-      "title": "Can good dental health help protect against cognitive decline and dementia?",
-      "excerpt": "More information: \"Periodontal Health, Cognitive Decline, and Dementia—A Systematic Review and Meta-analysis of Longitudinal Studies\", Journal of the American Geriatrics Society (2022). DOI: 10. ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-09-good-dental-health-cognitive-decline.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-09-good-dental-health-cognitive-decline.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/dementia.jpg",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-09-good-dental-health-cognitive-decline.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-good-dental-health-cognitive-decline.amp",
-      "publishedDateTime": "2022-09-08T00:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-20T12:21:00Z
 originalUrl: "https://www.thefastmode.com/expert-opinion/27604-why-autonomous-trucking-will-soon-become-a-reality"
 webUrl: "https://www.thefastmode.com/expert-opinion/27604-why-autonomous-trucking-will-soon-become-a-reality"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Deep

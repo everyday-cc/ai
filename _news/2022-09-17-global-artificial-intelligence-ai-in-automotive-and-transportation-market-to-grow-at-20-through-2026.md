@@ -49,6 +49,33 @@ related:
         width: 1000
         height: 800
         isCached: true
+  - title: "Artificial Intelligence (AI) In Retail Market to Hit $40.74 Billion by 2030: Grand View Research, Inc."
+    excerpt: "The global AI in retail market size is anticipated to reach USD 40.74 billion by 2030, expanding at a CAGR of 23.9% from 2022 to 2030, according to a new study by Grand View Research, Inc. The rising prominence of advanced technologies,"
+    publishedDateTime: 2022-09-20T16:43:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/09/20/9677284.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
+  - title: "Global Artificial Neural Network Market to Reach $258.45 Million by 2027 - ResearchAndMarkets.com"
+    excerpt: "The Global Artificial Neural Network Market is estimated to be worth USD 171.88 million in 2022, and is expected to reach USD 258.45 million by 2027, growing at a CAGR of 8.5%. The Global Artificial Neural Network Market is segmented based on Component,"
+    publishedDateTime: 2022-09-20T16:27:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-global-artificial-neural-network-market-to-reach-25845-million-by-2027-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 6
+  - title: "Global Data Collection and Labeling Market Report 2022: Rapid Penetration Of AI And Machine Learning Drives Sector - ResearchAndMarkets.com"
+    excerpt: "The global data collection and labeling market size is expected to reach USD 12.75 billion by 2030, according to this report. The market is anticipated to expand at a CAGR of 25.1% from 2022 to 2030."
+    publishedDateTime: 2022-09-20T12:50:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-global-data-collection-and-labeling-market-report-2022-rapid-penetration-of-ai-and-machine-learning-drives-sector-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 2
 
 secured: "9dyAZn10vytdV4bdvF9LqpJARKXEroyf1Oj6xIUVfcc0v1Qp5H8t16gmOVyXNdm1QBFpCYOO/uj3NYYvwtWpcHMdKD7Q61wXJzpsEg5+ezKizTyvc6AbWT4PMSCOmrJ81Eo+afV2EkLGC6tNvvGOJvvBqLP6F9fEM5yKsYbkstwyqnuvgzlmGPxNYSiOkwl/gEmDWzyO3NmJaHDjfbo3dqWpH4V7DWDwaL0uZWfRGtlPAcpm6LFLP3EIFEjNizQPWkX8fC6zxhuRk7KOsIYFi/cUIVEl/efoqLiXofUEeNZRqzjb3X8NGR5rV0vhfC0wJoAWHRYx49rOmZN4w91qRRttSiRNVOGaH2kfEdDsVaI=;v2gCSJjZGEAPi3GwJt3L2g=="
 ---

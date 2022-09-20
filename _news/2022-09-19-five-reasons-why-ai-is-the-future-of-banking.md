@@ -18,21 +18,79 @@ topics:
   - AI
 
 related:
-  - title: "AI: The Future of Healthcare"
-    excerpt: "By Dr Christophe Bianchi, Chief Technologist HealthCare, Ansys The covid pandemic touched almost every aspect of our lives and its legacy can still be seen throughout society and the economy. During that time there was a laser-pointed focus placed on the healthcare industry – leading doctors and scientists instantly became household names"
-    publishedDateTime: 2022-09-16T12:50:00Z
-    webUrl: "https://www.globalbankingandfinance.com/ai-the-future-of-healthcare/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/ai-the-future-of-healthcare/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/ai-the-future-of-healthcare/"
+  - title: "How AI Is Changing The Way Students Learn"
+    excerpt: "In our increasingly fast-moving world, many schools are still facing the challenge of integrating the latest digital technologies."
+    publishedDateTime: 2022-09-20T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-changing-the-way-students-learn/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-changing-the-way-students-learn/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-changing-the-way-students-learn/amp/"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/07/iStock-1397174654.jpg"
-        width: 750
-        height: 384
+      - url: "https://imageio.forbes.com/specials-images/imageserve/608b1e8f685217f6a56050b2/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 775
+        isCached: true
+  - title: "Putting artificial intelligence and machine learning workloads in the cloud"
+    excerpt: "We look at the pros and cons of putting artificial intelligence (AI) and machine learning (ML) applications in the cloud."
+    publishedDateTime: 2022-09-19T03:00:00Z
+    webUrl: "https://www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud"
+    ampWebUrl: "https://www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 84
+    images:
+      - url: "https://www.computerweekly.com/rms/onlineimages/ai_a352095729.jpg"
+        width: 1200
+        height: 400
+        isCached: true
+  - title: "Putting artificial intelligence and machine learning workloads in the cloud"
+    excerpt: "PA Consulting’s Lee Howells, head of AI, comments on the benefits of implementing artificial intelligence and machine learning workloads in the cloud."
+    publishedDateTime: 2022-09-20T11:11:00Z
+    webUrl: "https://www.paconsulting.com/newsroom/expert-quotes/computer-weekly-putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud-19-september-2022/"
+    type: article
+    provider:
+      name: PA Consulting Group
+      domain: paconsulting.com
+    quality: 56
+    images:
+      - url: "https://www.paconsulting.com/globalassets/images/importedimage/114631-cloud-data-900-x-450jpg"
+        width: 900
+        height: 450
+        isCached: true
+  - title: "A game changing power of AI"
+    excerpt: "AR glasses by PEGATRON come with an AI algorithm with interactive applications that are specialized for industrial, medical, and commercial use"
+    publishedDateTime: 2022-09-19T09:12:00Z
+    webUrl: "https://www.fortuneindia.com/enterprise/a-game-changing-power-of-ai/109717"
+    type: article
+    provider:
+      name: Fortune India
+      domain: fortuneindia.com
+    quality: 39
+    images:
+      - url: "https://gumlet.assettype.com/fortuneindia/2022-09/e63e507b-4359-46c0-9b53-c1447fcccaec/2_Fortune.png?w=700"
+        width: 700
+        height: 448
+        isCached: true
+  - title: "Artificial Intelligence in the Operating Room"
+    excerpt: "While the challenges in the healthcare industry are constantly increasing, hospitals adopting new technologies have helped to alleviate some of those struggles"
+    publishedDateTime: 2022-09-20T14:46:00Z
+    webUrl: "https://marketscale.com/industries/healthcare/artificial-intelligence-in-the-operating-room/"
+    type: article
+    provider:
+      name: marketscale
+      domain: marketscale.com
+    quality: 39
+    images:
+      - url: "https://marketscale.com/wp-content/uploads/2022/09/Intel_AlexEricDennis_Podcast.png"
+        width: 2489
+        height: 1400
         isCached: true
 
 secured: "BbII4pkCY7ZG8i7Tc8Aw9pAtw3MEXtjSyKhZbYoZd1FcNv7dUzOZnilbdUEV4yJoa9FwBQrT2ixF/hMUkpSfRjj3q8XNRK00BMfZTpu95FZa6CcGHAdzPHfSe2mBvPFZzPC8AodKyxGLClhhWl7CnuCba3TKBZaBGnYebjKSTTa1t6/TW5nE6t789/kh9B65e/kIaJQ1Q8KxDELwCTYHt4Cy3qJzW3iYwS4a1+/4ai85kyDtZm1LDvSN7BvG0oLFkLidUCKkzeUxU1QhZhyks7INb41RD0pKoxwDHtX56KT0d89zJGrEhKfEVi8dwyG0hfXP+HKroU77gqbcJjhTeSiKu4F0iEIWDtju7oydb6BcKCZM31z6z+HZpitKGQvd6T4Oki6URNBps2VmbQF255zygZ8D53UxokOolzBSldfn85v9KW2jrBwWKMw+oEJECoRlVK/5W1R8evg2mCWYDW+Dt0YzclmzE/9o1CuvcHda/TF5Ut0IIr2ifjQY3Es7c1p+/IS1k5aHtlnCwTnY4A==;IVX7BZUjAZkqJ6lp70vYiA=="

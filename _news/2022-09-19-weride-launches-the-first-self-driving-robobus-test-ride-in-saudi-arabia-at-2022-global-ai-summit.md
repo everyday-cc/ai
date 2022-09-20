@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nala Robotics and Saudi Excellence Co. to Establish First AI-Based Robotic Cloud Kitchen and R&D Center in Saudi Arabia"
-    excerpt: "NAPERVILLE, Ill. and RIYADH, Saudi Arabia, Sept. 15, 2022 /PRNewswire/ -- Nala Robotics, a U.S.-based AI robotics company disrupting the culinary"
-    publishedDateTime: 2022-09-15T21:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nala-robotics-and-saudi-excellence-co-to-establish-first-ai-based-robotic-cloud-kitchen-and-r-d-center-in-saudi-arabia-1031746917"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://mma.prnewswire.com/media/1900242/20220915_112904.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Intl. Companies Intend to Invest in AI, Robotics in Saudi Arabia"
     excerpt: "Major international companies intend to invest in artificial intelligence and robotics in Saudi Arabia, senior investors told Asharq Al-Awsat. AI Investor Abdullah bin Zaid Al-Meleihi said that Saudi"
     publishedDateTime: 2022-09-17T10:57:00Z

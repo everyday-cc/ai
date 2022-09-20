@@ -41,20 +41,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Rephrase.ai Secures $10.6 Million in Series A Funding Led by Red Ventures"
-    excerpt: "Silver Lake also participated in the round, in addition to 8VC and other investorsNew round of funding will enhance Rephrase.ai's capabilities by"
-    publishedDateTime: 2022-09-15T19:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/rephrase-ai-secures-10-6-million-in-series-a-funding-led-by-red-ventures-1031746554"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-    images:
-      - url: "https://mma.prnewswire.com/media/1900126/Rephrase_Founders.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Generative AI startup Rephrase.ai raises $10.6 million in funding led by Red Ventures"
     excerpt: "Rephrase.ai will use the funds to enhance its capabilities by integrating product experiences; scaling hiring across the business, including within the engineering, AI, product, sales, and marketing teams;"
     publishedDateTime: 2022-09-16T08:27:00Z

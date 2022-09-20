@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-20T12:28:00Z
 originalUrl: "https://www.pcgamer.com/pat-gelsinger-intel-ceo-arc-a770-gpu/"
 webUrl: "https://www.pcgamer.com/pat-gelsinger-intel-ceo-arc-a770-gpu/"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: PC Gamer

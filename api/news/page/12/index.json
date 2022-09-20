@@ -2,6 +2,912 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-09-07-teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it.md",
+      "title": "Tesla’s ‘full self-driving’ isn’t worth $15,000, say many who bought it",
+      "excerpt": "Tesla's price for the feature it calls \"full self-driving\" has increased again. This time to $15,000, making it an unusually expensive option for a car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/09/07/business/tesla-fsd-price-increase/index.html",
+      "originalUrl": "https://www.cnn.com/2022/09/07/business/tesla-fsd-price-increase/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220906152126-02-tesla-interior-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/09/07/business/tesla-fsd-price-increase/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/07/business/tesla-fsd-price-increase/index.html",
+      "publishedDateTime": "2022-09-07T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-how-artificial-intelligence-is-helping-to-restore-works-of-art.md",
+      "title": "How artificial intelligence is helping to restore works of art",
+      "excerpt": "And it is benefitting more and more from the latest technological advances, especially in terms of artificial intelligence. The start-up Oxia Palus is training one such AI to accurately ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbesindia.com/article/lifes/how-artificial-intelligence-is-helping-to-restore-works-of-art/79579/1",
+      "originalUrl": "https://www.forbesindia.com/article/lifes/how-artificial-intelligence-is-helping-to-restore-works-of-art/79579/1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbesindia.com/media/images/2022/Sep/img_193503_artandaibg.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-is-helping-to-restore-works-of-art/79579/1",
+      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-is-helping-to-restore-works-of-art/79579/1",
+      "publishedDateTime": "2022-09-07T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes India",
+        "domain": "forbesindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-insomnia-increases-the-likelihood-of-memory-decline-in-older-adults-according-to-new-research.md",
+      "title": "Insomnia increases the likelihood of memory decline in older adults, according to new research",
+      "excerpt": "A new study has found that older people with insomnia are at greater risk of developing memory decline and long-term cognitive impairment such as dementia. The study, published in the journal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220906134013.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220906134013.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-07T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-spice-ai-raises-135-million-seed-funding-to-enable-web3-developers-to-build-data-and-ai-driven-applications.md",
+      "title": "Spice AI Raises $13.5 Million Seed Funding to Enable Web3 Developers to Build Data and AI-driven Applications",
+      "excerpt": "Spice AI today announced a seed round of $13.5 million for its platform that enables developers to build data driven applications for Web3. Madrona led the round with Australia based Blackbird Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/spice-ai-raises-13-5-million-seed-funding-to-enable-web3-developers-to-build-data/article_67d62eeb-45a3-5d64-befc-60246479ca04.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/spice-ai-raises-13-5-million-seed-funding-to-enable-web3-developers-to-build-data/article_67d62eeb-45a3-5d64-befc-60246479ca04.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg",
+          "width": 350,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-07T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-why-household-robot-servants-are-a-lot-harder-to-build-than-robotic-vacuums.md",
+      "title": "Why Household Robot Servants are a Lot Harder to Build than Robotic Vacuums",
+      "excerpt": "Ayonga Hereid, The Ohio State University With recent advances in artificial intelligence and robotics technology, there is growing interest in developing",
+      "sourceUrl": null,
+      "webUrl": "https://innotechtoday.com/why-household-robot-servants-are-a-lot-harder-to-build-than-robotic-vacuums/",
+      "originalUrl": "https://innotechtoday.com/why-household-robot-servants-are-a-lot-harder-to-build-than-robotic-vacuums/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://innotechtoday.com/wp-content/uploads/2022/09/katarzyna-pe-Twe3VxJlDiY-unsplash.jpg",
+          "width": 1920,
+          "height": 1285,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://innotechtoday.com/why-household-robot-servants-are-a-lot-harder-to-build-than-robotic-vacuums/amp/",
+      "cdnAmpWebUrl": "https://innotechtoday-com.cdn.ampproject.org/c/s/innotechtoday.com/why-household-robot-servants-are-a-lot-harder-to-build-than-robotic-vacuums/amp/",
+      "publishedDateTime": "2022-09-07T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Innovation & Tech Today",
+        "domain": "innotechtoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-aster-hospitals-adopts-ai-powered-speech-recognition-solution-across-its-uae-facilities.md",
+      "title": "Aster Hospitals adopts AI-powered speech recognition solution across its UAE facilities",
+      "excerpt": "Aster Hospitals in a strategic collaboration with 3M has successfully adopted 3M M*Modal Fluency Direct, the latest speech and AI-powered technology. The technology went live across Aster’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfbusiness.com/aster-hospitals-adopts-ai-powered-speech-recognition-solution-across-its-uae-facilities/",
+      "originalUrl": "https://gulfbusiness.com/aster-hospitals-adopts-ai-powered-speech-recognition-solution-across-its-uae-facilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gulfbusiness.com/wp-content/uploads/2022/09/3M-M-Modal-Fluency_Clinician-with-Speech-Mic.jpg",
+          "width": 930,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-07T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf Business",
+        "domain": "gulfbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-how-self-service-business-intelligence-is-changing-the-retail-industry.md",
+      "title": "How self-service business intelligence is changing the retail industry",
+      "excerpt": "THE ARTICLES ON THESE PAGES ARE PRODUCED BY BUSINESS REPORTER, WHICH TAKES SOLE RESPONSIBILITY FOR THE CONTENTS",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/news/business/business-reporter/business-intelligence-changing-retail-industry-b2161843.html",
+      "originalUrl": "https://www.independent.co.uk/news/business/business-reporter/business-intelligence-changing-retail-industry-b2161843.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2022/09/07/14/Main%20image%20-%20Blueprint%20Software%20Systems%20-%20iStock-1358835459.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.co.uk/news/business/business-reporter/business-intelligence-changing-retail-industry-b2161843.html",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/news/business/business-reporter/business-intelligence-changing-retail-industry-b2161843.html",
+      "publishedDateTime": "2022-09-07T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-global-contact-center-to-reach-496-billion-us-dollars-by-2027-creating-an-opportunity-for-ai-real-time-audio-translation-onemeta-ai.md",
+      "title": "Global Contact Center to Reach 496 billion U.S. dollars by 2027, Creating an Opportunity for AI Real-Time Audio Translation – OneMeta AI",
+      "excerpt": "Imagine every contact center becoming fluent in 82 languages with high level of accuracy. OneMeta AI’s technology allows contact centers to communicate in multi-lingual environments,” said ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/global-contact-center-to-reach-496-billion-u-s-dollars-by-2027-creating-an-opportunity-for-ai-real-time-audio-translation-onemeta-ai",
+      "originalUrl": "https://www.digitaljournal.com/pr/global-contact-center-to-reach-496-billion-u-s-dollars-by-2027-creating-an-opportunity-for-ai-real-time-audio-translation-onemeta-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-07T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-remote-controlled-robots-will-be-used-to-clean-up-edgewater-beach-lake-erie.md",
+      "title": "Remote-controlled robots will be used to clean up Edgewater Beach, Lake Erie",
+      "excerpt": "The “BeBot” is a remote-controlled robot that can rake and collect plastic litter, cans, food wrappers, or cigarettes at a pace of 32,000 square feet per hour, according to Meijer. The solar ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cleveland19.com/2022/09/07/remote-controlled-robots-will-be-used-clean-up-edgewater-beach-lake-erie/",
+      "originalUrl": "https://www.cleveland19.com/2022/09/07/remote-controlled-robots-will-be-used-clean-up-edgewater-beach-lake-erie/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-woio-prod.cdn.arcpublishing.com/resizer/-cYrEMxF1p1vu-vYmDFSNfKkI-U=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/44EDH5H7PJCITDDC4C45RXVWF4.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cleveland19.com/2022/09/07/remote-controlled-robots-will-be-used-clean-up-edgewater-beach-lake-erie/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-cleveland19-com.cdn.ampproject.org/c/s/www.cleveland19.com/2022/09/07/remote-controlled-robots-will-be-used-clean-up-edgewater-beach-lake-erie/?outputType=amp",
+      "publishedDateTime": "2022-09-07T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "19 Action News",
+        "domain": "cleveland19.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-from-farm-to-fork-thanks-to-ai-and-robots.md",
+      "title": "From farm to fork, thanks to … AI and robots?",
+      "excerpt": "Smart tech helps farmers optimally use water and fertilizer — especially important during severe drought. It might also reduce the need for workers in the fields.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketplace.org/shows/marketplace-tech/from-farm-to-fork-thanks-to-ai-and-robots/",
+      "originalUrl": "https://www.marketplace.org/shows/marketplace-tech/from-farm-to-fork-thanks-to-ai-and-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketplace.org/wp-content/uploads/2022/09/GettyImages-1306713348.jpg?fit=740%2C495",
+          "width": 740,
+          "height": 495,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketplace.org/shows/marketplace-tech/from-farm-to-fork-thanks-to-ai-and-robots/amp/",
+      "cdnAmpWebUrl": "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/from-farm-to-fork-thanks-to-ai-and-robots/amp/",
+      "publishedDateTime": "2022-09-07T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marketplace",
+        "domain": "marketplace.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-china-using-cognitive-warfare-to-intimidate-taiwan-says-president-tsai.md",
+      "title": "China using ‘cognitive warfare’ to intimidate Taiwan, says president Tsai",
+      "excerpt": "Tsai says in addition to intrusions by drones and aircraft, Beijing uses ‘false information to create disturbance in minds of people’ China’s military is increasingly using drones to put ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2022/sep/07/china-using-cognitive-warfare-to-intimidate-taiwan-says-president-tsai",
+      "originalUrl": "https://www.theguardian.com/world/2022/sep/07/china-using-cognitive-warfare-to-intimidate-taiwan-says-president-tsai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-07T02:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-facial-recognition-may-reveal-maine-harbor-seal-lifestyles.md",
+      "title": "Facial recognition may reveal Maine harbor seal lifestyles",
+      "excerpt": "Despite their ubiquity, the life of the harbor seal isn't well understood. While seal numbers have been dropping, the concern still is whether there are too many.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Science_News/2022/09/07/maine-harbor-seals-facial-recognition/5461659020007/",
+      "originalUrl": "https://www.upi.com/Science_News/2022/09/07/maine-harbor-seals-facial-recognition/5461659020007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/5461659020007/2022/1/23f1f939864c36e98c6d7e79d0162a50/v1.5/Facial-recognition-may-reveal-Maine-harbor-seal-lifestyles.jpg",
+          "width": 1200,
+          "height": 794,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Science_News/2022/09/07/maine-harbor-seals-facial-recognition/5461659020007/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2022/09/07/maine-harbor-seals-facial-recognition/5461659020007/",
+      "publishedDateTime": "2022-09-07T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-sony-unveils-worlds-first-robotic-pan-tilt-zoom-full-frame-mirrorless-camera.md",
+      "title": "Sony unveils 'world's first' robotic pan-tilt-zoom full-frame mirrorless camera",
+      "excerpt": "Sony has unveiled an unusual mirrorless camera that essentially marries the FX6 cinema camera's tech with remote-controlled robotics. Called the FR7, it's the \"world's first\" pan-tilt-zoom full ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/sony-fr7-robotic-pan-tilt-zoom-camera-074952775.html",
+      "originalUrl": "https://www.engadget.com/sony-fr7-robotic-pan-tilt-zoom-camera-074952775.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-09/d9396050-2e79-11ed-b7df-40872a5e2306",
+          "width": 2481,
+          "height": 1584,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-07T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-artificial-intelligence-ai-robots-market-size-2022-3402-cagr-latest-trend-share-growth-competitors-and-forecast.md",
+      "title": "Artificial Intelligence (AI) Robots Market Size 2022: 34.02% CAGR | Latest Trend, Share, Growth, Competitors and Forecast",
+      "excerpt": "Robots Market \" 2022-2027 Report involve deep research on global Artificial Intelligence (AI) Robots industry which enables the customer to look at the possible requirement as well as prediction. The restrains and drivers are assembled after a major study of the worldwide Artificial Intelligence (AI) Robots marketâs proficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-2022-3402-cagr-latest-trend-share-growth-competitors-and-forecast-2022-09-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-2022-3402-cagr-latest-trend-share-growth-competitors-and-forecast-2022-09-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T22:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-kmworld-trend-setting-products-of-2022.md",
+      "title": "KMWorld Trend-Setting Products of 2022",
+      "excerpt": "To help showcase advanced products and services, each year KMWorld magazine looks for innovative offerings that are helping organizations derive greater benefit from their information, share knowledge more efficiently,",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=153883",
+      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=153883",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/147922-tsp2022.jpg-ORG.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-facebook-is-trying-to-be-more-like-tiktok-whistleblower-says-its-a-bad-idea.md",
+      "title": "Facebook Is Trying To Be More Like TikTok. Whistleblower Says It's A 'Bad Idea'",
+      "excerpt": "Facebook whistleblower Frances Haugen isn't a fan of the social media giant's efforts to become more like short-form video app TikTok. \"The world that they're choosing to go towards is one where you have to do censorship to be safe and I think that's a bad idea,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/social-media/facebook-is-trying-to-be-more-like-tiktok-whistleblower-says-its-a-bad-idea/",
+      "originalUrl": "https://www.cnet.com/news/social-media/facebook-is-trying-to-be-more-like-tiktok-whistleblower-says-its-a-bad-idea/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/1f7cddf05679dedd0eea42a26f7000c836eea984/2022/09/07/9f360aee-6f7f-498a-a7a1-20cf0aee5ad4/screen-shot-2022-09-06-at-5-35-41-pm.png?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-is-trying-to-be-more-like-tiktok-whistleblower-says-its-a-bad-idea/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-trying-to-be-more-like-tiktok-whistleblower-says-its-a-bad-idea/",
+      "publishedDateTime": "2022-09-06T19:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law.md",
+      "title": "Iran might use facial recognition to identify women who violate hijab law",
+      "excerpt": "Iran might use facial recognition to identify women who violate hijab law. The regime continues a crackdown on women's dressing.",
+      "sourceUrl": null,
+      "webUrl": "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/",
+      "originalUrl": "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dailytimes.com.pk/assets/uploads/2018/06/15/US-restaurant-chain-in-hijab-row-orders-diversity-training.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/amp/",
+      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/amp/",
+      "publishedDateTime": "2022-09-06T17:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Times",
+        "domain": "dailytimes.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-nektarai-exits-stealth-mode-to-plug-crm-data-leakages.md",
+      "title": "Nektar.ai exits stealth mode to plug CRM data leakages",
+      "excerpt": "A lot of important data gets lost along the sales pipeline because sales teams use multiple tools, including email, Zoom and WhatsApp, to talk with buyers. Nektar.ai wants to solve the problem of data leakage with its sales productivity platform,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/06/nektar-ai-exits-stealth-mode-to-plug-crm-data-leakages/",
+      "originalUrl": "https://techcrunch.com/2022/09/06/nektar-ai-exits-stealth-mode-to-plug-crm-data-leakages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1059088668.jpg",
+          "width": 2119,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/06/nektar-ai-exits-stealth-mode-to-plug-crm-data-leakages/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/06/nektar-ai-exits-stealth-mode-to-plug-crm-data-leakages/amp/",
+      "publishedDateTime": "2022-09-06T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-developing-artificial-intelligence-for-medical-devices.md",
+      "title": "Developing Artificial Intelligence for Medical Devices",
+      "excerpt": "However, a Canadian company specializing in artificial intelligence (AI)-based monitoring of the spread of infectious diseases had already warned its customers of the risk of an epidemic in China as early as December 2019. 1 The warning had been derived ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/artificial-intelligence/developing-artificial-intelligence-medical-devices",
+      "originalUrl": "https://www.mddionline.com/artificial-intelligence/developing-artificial-intelligence-medical-devices",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/artificial-intelligence-5291510_640_web.jpg",
+          "width": 770,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-germany-is-buying-robots-that-look-like-russian-tanks-to-practice-fighting-the-real-thing.md",
+      "title": "Germany is buying robots that look like Russian tanks to practice fighting the real thing",
+      "excerpt": "The robot vehicles can be operated by remote control or function autonomously. Indeed, they can move in formation to simulate enemy tactics. \"Twenty-plus 'enemy' vehicles can be programmed and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/germany-buys-robots-that-look-like-russian-tanks-for-training-2022-9",
+      "originalUrl": "https://www.businessinsider.com/germany-buys-robots-that-look-like-russian-tanks-for-training-2022-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6317a8ec5c870800189eda8c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/germany-buys-robots-that-look-like-russian-tanks-for-training-2022-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/germany-buys-robots-that-look-like-russian-tanks-for-training-2022-9?amp",
+      "publishedDateTime": "2022-09-06T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-07-mcdonalds-breakfasts-driverless-buses-among-innovations-launched-in-newcastle.md",
       "title": "McDonald's breakfasts, driverless buses among innovations launched in Newcastle",
       "excerpt": "The polymer bank note? Newcastle tested and passed. The driverless bus? Trialled in Newy. Sydney's infamous lockout laws? Taken up after a \"successful\" installation in Newcastle. The Hunter has ...",
@@ -213,885 +1119,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-adam-nanjee-departs-microsoft-for-startups-to-lead-venture-capital-in-canada-for-amazon-web-services.md",
-      "title": "Adam Nanjee departs Microsoft for Startups to lead venture capital in Canada for Amazon Web Services",
-      "excerpt": "Adam Nanjee has joined Amazon Web Services (AWS) to help grow its venture capital efforts in Canada. Nanjee took on the role after nearly four years as the Canadian managing director of Microsoft for Startups. Nanjee announced his new role via LinkedIn on ...",
-      "sourceUrl": null,
-      "webUrl": "https://betakit.com/adam-nanjee-departs-microsoft-for-startups-to-lead-venture-capital-in-canada-for-amazon-web-services/",
-      "originalUrl": "https://betakit.com/adam-nanjee-departs-microsoft-for-startups-to-lead-venture-capital-in-canada-for-amazon-web-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.betakit.com/wp-content/uploads/2022/09/Adam_Profile_1-1.jpeg",
-          "width": 1050,
-          "height": 699,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BetaKit",
-        "domain": "betakit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-taiwanese-president-cites-threat-of-chinese-cognitive-warfare.md",
-      "title": "Taiwanese President cites threat of Chinese ‘cognitive warfare’",
-      "excerpt": "Taiwanese President Tsai Ing-wen said on September 6 that China is conducting “cognitive warfare” by spreading misinformation in addition to its regular incursions into nearby waters and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/international/taiwanese-president-cites-threat-of-chinese-cognitive-warfare/article65857145.ece",
-      "originalUrl": "https://www.thehindu.com/news/international/taiwanese-president-cites-threat-of-chinese-cognitive-warfare/article65857145.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-detect-audio-events-with-amazon-rekognition.md",
-      "title": "Detect audio events with Amazon Rekognition",
-      "excerpt": "When most people think of using machine learning (ML) with audio data, the use case that usually comes to mind is transcription, also known as speech-to-text. However, there are other useful applications, including using ML to detect sounds. Using software to detect a sound is called audio event detection,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-audio-events-with-amazon-rekognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-audio-events-with-amazon-rekognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/30/ML-8724-image003-1249x630.png",
-          "width": 1249,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T10:44:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-can-ai-help-oracle-take-on-salesforce-to-boost-b2b-sales.md",
-      "title": "Can AI help Oracle take on Salesforce to boost B2B sales?",
-      "excerpt": "It's clear that Oracle is looking to use AI to compete with Salesforce, as well as fend off startups such as Gong and Salesloft.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/can-ai-help-oracle-take-on-salesforce-to-boost-b2b-sales/",
-      "originalUrl": "https://venturebeat.com/ai/can-ai-help-oracle-take-on-salesforce-to-boost-b2b-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/02/274958137_a67abab71b_o.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/can-ai-help-oracle-take-on-salesforce-to-boost-b2b-sales/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/can-ai-help-oracle-take-on-salesforce-to-boost-b2b-sales/amp/",
-      "publishedDateTime": "2022-09-06T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-15-smart-ways-retail-businesses-should-be-using-ai.md",
-      "title": "15 Smart Ways Retail Businesses Should Be Using AI",
-      "excerpt": "From better predicting their inventory needs to managing and supporting their employees, retail businesses can leverage AI to improve their operations and their customers’ experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/06/15-smart-ways-retail-businesses-should-be-using-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/06/15-smart-ways-retail-businesses-should-be-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/631753214643d7543ec89c1a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/06/15-smart-ways-retail-businesses-should-be-using-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/06/15-smart-ways-retail-businesses-should-be-using-ai/amp/",
-      "publishedDateTime": "2022-09-06T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-springml-renews-its-machine-learning-specialization-in-the-google-cloud-partner-advantage-program.md",
-      "title": "SpringML Renews its Machine Learning Specialization in the Google Cloud Partner Advantage Program",
-      "excerpt": "Partners achieving this specialization have demonstrated success with data exploration, preprocessing, model training, model evaluation, model deployment, online prediction, and Google pretrained Machine Learning APIs.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/springml-renews-its-machine-learning-specialization-in-the-google-cloud-partner-advantage-program-1031727055",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/springml-renews-its-machine-learning-specialization-in-the-google-cloud-partner-advantage-program-1031727055",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1892506/SpringML_Renews_Machine_Learning_Specialization.jpg",
-          "width": 400,
-          "height": 227,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-al-meera-consumer-goods-embarks-on-digital-transformation-journey.md",
-      "title": "Al Meera Consumer Goods embarks on digital transformation journey",
-      "excerpt": "Qatar’s largest retail network, Al Meera Consumer Goods, has signed a partnership agreement with global technology company SAP SE (NYSE: SAP) and implementation partner Tata Consultancy Services (TCS) to deliver cloud computing solutions that will facilitate its expansion plans,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/al-meera-consumer-goods-embarks-on-digital-transformation-journey-b4x1y2yr",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/al-meera-consumer-goods-embarks-on-digital-transformation-journey-b4x1y2yr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/version/c:ZWM0YzU3N2YtY2Q5MC00:YjEwOGFi/img_0026-jpg.JPG?f=3%3A2",
-          "width": 898,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-heres-why-you-should-retain-change-healthcare-chng-stock.md",
-      "title": "Here's Why You Should Retain Change Healthcare (CHNG) Stock",
-      "excerpt": "Change Healthcare — with a market capitalization of $8.14 billion — is an independent healthcare technology platform offering data and analytics-driven solutions to boost clinical financial and patient engagement outcomes in the United States.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock-3",
-      "originalUrl": "https://www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-best-practices-for-handling-special-files-in-e-discovery-foreign-language-documents.md",
-      "title": "Best Practices for Handling Special Files in E-discovery: Foreign Language Documents",
-      "excerpt": "Legal professionals have long struggled with the problem of translating documents in foreign languages when they are encountered during e-discovery.",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/legaltechnews/2022/09/06/best-practices-for-handling-special-files-in-e-discovery-foreign-language-documents/",
-      "originalUrl": "https://www.law.com/legaltechnews/2022/09/06/best-practices-for-handling-special-files-in-e-discovery-foreign-language-documents/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.law.com/contrib/content/uploads/sites/397/2021/07/Electronic-Discovery-17-767x633-2.jpg",
-          "width": 767,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-qualcomms-snapdragon-6-and-4-gen-1-chips-are-big-deals-for-cheap-phones.md",
-      "title": "Qualcomm’s Snapdragon 6 and 4 Gen 1 chips are big deals for cheap phones",
-      "excerpt": "Qualcomm's latest Snapdragon 6 Gen 1 and Snapdragon 4 Gen 1 chips promise impressive camera, gaming, and connectivity upgrades for budget Android smartphones.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/mobile/qualcomm-snapdragon-6-gen-1-4-gen-1-news/",
-      "originalUrl": "https://www.digitaltrends.com/mobile/qualcomm-snapdragon-6-gen-1-4-gen-1-news/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/09/qualcomm-snapdragon-6-4-gen-new-chips.jpg?p=1",
-          "width": 2100,
-          "height": 1400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/mobile/qualcomm-snapdragon-6-gen-1-4-gen-1-news/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/qualcomm-snapdragon-6-gen-1-4-gen-1-news/?amp",
-      "publishedDateTime": "2022-09-06T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-researchers-use-machine-learning-to-unlock-the-genomic-code-in-clinical-cancer-samples.md",
-      "title": "Researchers use machine learning to unlock the genomic code in clinical cancer samples",
-      "excerpt": "A new paper from University of Helsinki, published today in Nature Communications, suggests a method for accurately analyzing genomics data in cancer archival biopsies. This tool uses machine learning methods to correct damaged DNA and unveil the true mutation processes in tumor samples.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-09-machine-genomic-code-clinical-cancer.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-09-machine-genomic-code-clinical-cancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/researchers-use-machin-3.jpg",
-          "width": 2003,
-          "height": 1784,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-09-machine-genomic-code-clinical-cancer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-machine-genomic-code-clinical-cancer.amp",
-      "publishedDateTime": "2022-09-06T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-natural-language-processing-nlp-market-worth-494-billion-by-2029-exclusive-report-by-reports-publisher.md",
-      "title": "Natural Language Processing (NLP) Market Worth $49.4 Billion by 2029 – Exclusive Report by REPORTS PUBLISHER",
-      "excerpt": "Natural Language Processing (NLP) Market by Component (Solutions & Services), Application (Sentiment Analysis, Social Media Monitoring), Technology (IVR, OCR, Auto Coding), Vertical (BFSI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-market-worth-49-4-billion-by-2029-exclusive-report-by-reports-publisher",
-      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-market-worth-49-4-billion-by-2029-exclusive-report-by-reports-publisher",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/Kevin-Michael-Miller-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-analysis-banned-us-ai-chips-in-high-demand-at-chinese-state-institutes.md",
-      "title": "Analysis-Banned U.S. AI Chips In High Demand At Chinese State Institutes",
-      "excerpt": "High-profile universities and state-run research institutes in China have been relying on a U.S. computing chip to power their artificial intelligence (AI) technology but whose export to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/analysis-banned-us-ai-chips-high-demand-chinese-state-institutes-3609766",
-      "originalUrl": "https://www.ibtimes.com/analysis-banned-us-ai-chips-high-demand-chinese-state-institutes-3609766",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.com/en/full/3813247/logo-nvidia-corporation-seen-during-annual-computex-computer-exhibition-taipei.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/analysis-banned-us-ai-chips-high-demand-chinese-state-institutes-3609766?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/analysis-banned-us-ai-chips-high-demand-chinese-state-institutes-3609766?amp=1",
-      "publishedDateTime": "2022-09-06T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-sleep-warning-snorers-at-increased-risk-of-cancer-and-cognitive-decline-warns-study.md",
-      "title": "Sleep warning: Snorers at increased risk of cancer and cognitive decline, warns study",
-      "excerpt": "Study author Dr Nicola Marchi said: “We found that obstructive sleep apnoea, and in particular low oxygen levels during sleep, was associated with a greater decline in cognitive function ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mirror.co.uk/news/health/sleep-warning-snorers-increased-risk-27918136",
-      "originalUrl": "https://www.mirror.co.uk/news/health/sleep-warning-snorers-increased-risk-27918136",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.mirror.co.uk/incoming/article27742269.ece/ALTERNATES/s1200/2_GettyImages-184393692.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mirror.co.uk/news/health/sleep-warning-snorers-increased-risk-27918136.amp",
-      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/health/sleep-warning-snorers-increased-risk-27918136.amp",
-      "publishedDateTime": "2022-09-06T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Mirror",
-        "domain": "mirror.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-taiwan-leader-cites-threat-of-chinese-cognitive-warfare.md",
-      "title": "Taiwan leader cites threat of Chinese ‘cognitive warfare’",
-      "excerpt": "HENGCHUN, Taiwan (AP) — Taiwanese President Tsai Ing-wen said Tuesday that China is conducting “cognitive warfare” by spreading misinformation in addition to its regular incursions into ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/nation-world/taiwan-leader-cites-threat-of-chinese-cognitive-warfare/",
-      "originalUrl": "https://www.seattletimes.com/nation-world/taiwan-leader-cites-threat-of-chinese-cognitive-warfare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/nation-world/taiwan-leader-cites-threat-of-chinese-cognitive-warfare/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/taiwan-leader-cites-threat-of-chinese-cognitive-warfare/?amp=1",
-      "publishedDateTime": "2022-09-06T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-ripjar-launches-risk-screening-profile.md",
-      "title": "Ripjar launches risk screening profile",
-      "excerpt": "Ripjar, the trusted provider for tackling financial crime, today announces the launch of its updated Labyrinth Screening Platform with the addition of AI Risk Profiles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/pressarticle/93945/ripjar-launches-risk-screening-profile",
-      "originalUrl": "https://www.finextra.com/pressarticle/93945/ripjar-launches-risk-screening-profile",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/about/finextra-logo.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-artificial-intelligence-ai-robots-size-to-worth-around-usd-543-bn-by-2030.md",
-      "title": "Artificial Intelligence (AI) Robots Size To Worth Around USD 54.3 Bn By 2030",
-      "excerpt": "Los Angeles, Sept. 06, 2022 (GLOBE NEWSWIRE) -- The global artificial intelligence (AI) robots market size was valued at USD 9.2 billion in 2021. AI and robotics are different and are used for ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104818084/Artificial-Intelligence-AI-Robots-Size-To-Worth-Around-USD-543-Bn-By-2030",
-      "originalUrl": "https://menafn.com/1104818084/Artificial-Intelligence-AI-Robots-Size-To-Worth-Around-USD-543-Bn-By-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?262276",
-          "width": 355,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MENAFN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-scientists-are-making-remote-controlled-cyborg-cockroaches-heres-what-you-should-know.md",
-      "title": "Scientists are making remote-controlled cyborg cockroaches. Here’s what you should know",
-      "excerpt": "Cockroaches are pesky insects that nobody in their right mind likes. They are good at survival, after all, they have outlived dinosaurs and maybe one day they will outlive humans. But now, humans are trying to turn these sturdy insects into half-machines or cyborgs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailyo.in/technology/scientists-are-making-remote-controlled-cyborg-cockroaches-heres-what-you-should-know-37230",
-      "originalUrl": "https://www.dailyo.in/technology/scientists-are-making-remote-controlled-cyborg-cockroaches-heres-what-you-should-know-37230",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/sites/dailyo//resources/202209/roach-2060922041442.gif",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailyo.in/amp/technology/scientists-are-making-remote-controlled-cyborg-cockroaches-heres-what-you-should-know-37230",
-      "cdnAmpWebUrl": "https://www-dailyo-in.cdn.ampproject.org/c/s/www.dailyo.in/amp/technology/scientists-are-making-remote-controlled-cyborg-cockroaches-heres-what-you-should-know-37230",
-      "publishedDateTime": "2022-09-06T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DailyO",
-        "domain": "dailyo.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-symphonyai-industrial-launches-batch-360-and-vision-360-for-high-quality-manufacturing-production.md",
-      "title": "SymphonyAI Industrial Launches Batch 360™ and Vision 360™ for high-quality manufacturing production",
-      "excerpt": "SymphonyAI Industrial announced today the launch of two new AI-based processes and performance software solutions to improve manufacturing output and quality. Batch 360, a process performance and optimization solution,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-39e28ba3c88d87f2d54617868d703867",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-39e28ba3c88d87f2d54617868d703867",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T03:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-blume-backed-fintech-platform-ippopay-acquires-tutelar.md",
-      "title": "Blume-backed fintech platform IppoPay acquires Tutelar",
-      "excerpt": "Tutelar enables AI-based risk-free onboarding, dispute resolutions, KYC fraud detection, transaction fraud detection, mis-selling prevention etc, benefiting not only the principals such as merchants and banks but also the intermediaries such as PAPGs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vccircle.com/blumebacked-fintech-platform-ippopay-acquires-tutelar",
-      "originalUrl": "https://www.vccircle.com/blumebacked-fintech-platform-ippopay-acquires-tutelar",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.vccircle.com/uploads/2022/09/fintechrfxl.jpg",
-          "width": 716,
-          "height": 402,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VCCircle",
-        "domain": "vccircle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

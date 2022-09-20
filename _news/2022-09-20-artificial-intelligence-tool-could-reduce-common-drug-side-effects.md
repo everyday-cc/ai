@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-20T13:17:00Z
 originalUrl: "https://www.uea.ac.uk/news/-/article/artificial-intelligence-tool-could-reduce-common-drug-side-effects"
 webUrl: "https://www.uea.ac.uk/news/-/article/artificial-intelligence-tool-could-reduce-common-drug-side-effects"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: University of East Anglia

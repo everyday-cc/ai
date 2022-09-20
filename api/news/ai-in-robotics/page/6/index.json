@@ -2,6 +2,240 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-08-13-robotic-surgery-minimises-risks-and-recovery-time.md",
+      "title": "Robotic surgery minimises risks and recovery time",
+      "excerpt": "robotic surgery doesn’t mean a robot will operate on the patient. In a RAS, expert surgeons control mechanical arms placed over the patient on the operating table. The surgeon controls these ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/robotic-surgery-minimises-risks-and-recovery-time/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/robotic-surgery-minimises-risks-and-recovery-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75433510.cms",
+          "width": 330,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/robotic-surgery-minimises-risks-and-recovery-time/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/robotic-surgery-minimises-risks-and-recovery-time/",
+      "publishedDateTime": "2022-08-12T10:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-12-diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er.md",
+      "title": "Diagnostic Robotics has AI catching health problems before they take you to the ER",
+      "excerpt": "A stitch in time saves nine, they say — and a blood thinner in time saves a trip to the emergency room for a heart attack, as Diagnostic Robotics hopes to show. The company’s machine learning-powered preventative care aims to predict and avoid dangerous (and costly) medical crises,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/12/diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er/",
+      "originalUrl": "https://techcrunch.com/2022/08/12/diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/diagnostic-robotics-2.png?w=1024",
+          "width": 1024,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/12/diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/12/diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er/amp/",
+      "publishedDateTime": "2022-08-12T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-12-global-educational-robot-market-to-hit-3-billion-by-2030.md",
+      "title": "Global Educational Robot Market to Hit $3 Billion by 2030",
+      "excerpt": "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/08/n28475655/global-educational-robot-market-to-hit-3-billion-by-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/n28475655/global-educational-robot-market-to-hit-3-billion-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.giphy.com/media/bxg7wC26fV2ISV1F7D/giphy.gif?cid=790b7611467e0ec94bfa730c90c0a9101f7549875da4ca3a&rid=giphy.gif&ct=g",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28475655",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28475655",
+      "publishedDateTime": "2022-08-12T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-12-restocking-robots-deployed-in-300-japanese-convenience-stores.md",
+      "title": "Restocking robots deployed in 300 Japanese convenience stores",
+      "excerpt": "The robots work around-the-clock, restocking shelves at a rate of up to 1,000 bottles and cans per day, and depending almost entirely on its artificial intelligence (AI) system, known as “GORDON,” to determine when and where products should be stocked.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/restocking-robots-deployed-in-300-japanese-convenience-stores/",
+      "originalUrl": "https://www.therobotreport.com/restocking-robots-deployed-in-300-japanese-convenience-stores/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/08/Telexistence-convenience-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-12T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-12-hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics.md",
+      "title": "Hyundai announces $400M AI, robotics institute powered by Boston Dynamics",
+      "excerpt": "When Hyundai acquired Boston Dynamics at the end of 2020, there were plenty of open questions. Chief among them was why we should assume this acquisition would be any different than the past few? The 30-year-old bleeding edge robotics form had been an uncomfortable fit for its last two owners,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics/",
+      "originalUrl": "https://techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 198,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2016/09/disrupt_sf16_boston_dynamics-4300.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics/amp/",
+      "publishedDateTime": "2022-08-12T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-08-12-robotic-refueling-system-market-to-hit-us-1940-million-globally-by-2027-at-391-cagr-the-insight-partners.md",
       "title": "Robotic Refueling System Market to hit US$ 194.0 Million, Globally, by 2027 at 39.1% CAGR: The Insight Partners",
       "excerpt": "According to The Insight Partners' research, the Robotic Refueling System Market – Global Analysis and Forecast to 2027\",",
@@ -1182,223 +1416,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-07-you-need-to-stop-doing-this-on-your-ai-projects.md",
-      "title": "You Need To Stop Doing This On Your AI Projects",
-      "excerpt": "One of the biggest reasons for AI project failure is that companies don’t justify the use of AI from an return on investment (ROI) perspective. Simply put, they’re not worth the time and expense given the cost,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/07/you-need-to-stop-doing-this-on-your-ai-projects/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/07/you-need-to-stop-doing-this-on-your-ai-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62ef228fda71be391f4eacad/0x0.jpg?format=jpg&crop=2372,1335,x0,y39,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/07/you-need-to-stop-doing-this-on-your-ai-projects/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/08/07/you-need-to-stop-doing-this-on-your-ai-projects/amp/",
-      "publishedDateTime": "2022-08-07T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-tesla-teases-optimus-humanoid-robot-prototype-for-septembers-ai-day.md",
-      "title": "Tesla Teases “Optimus” Humanoid Robot Prototype For September’s AI Day",
-      "excerpt": "Annual Meeting of Stockholders, the company showed a new teaser image of the humanoid robot that was first shown off at AI Day in 2021. The image, part of a promotional campaign for AI Day: Part II that’s set to be held on September 30,",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2022/08/tesla-teases-optimus-humanoid-robot-prototype-for-septembers-ai-day/",
-      "originalUrl": "https://www.carscoops.com/2022/08/tesla-teases-optimus-humanoid-robot-prototype-for-septembers-ai-day/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2022/08/tesla-teases-optimus-humanoid-robot-prototype-for-septembers-ai-day/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/tesla-teases-optimus-humanoid-robot-prototype-for-septembers-ai-day/amp/",
-      "publishedDateTime": "2022-08-05T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-cybersecurity-cloud-and-ai-robotics-the-new-digital-utilities.md",
-      "title": "Cybersecurity, Cloud and AI & Robotics: The New Digital Utilities",
-      "excerpt": "With a greater digital surface area for most enterprises and consumers alike, the cyberspace vulnerability landscape has expanded significantly in the last few years alongside an evolution in the type,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities",
-      "originalUrl": "https://www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities?amp",
-      "publishedDateTime": "2022-08-05T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-meet-russias-new-killer-robot.md",
-      "title": "Meet Russia’s New Killer Robot",
-      "excerpt": "The robot’s targeting mechanism works automatically ... Moscow is also planning to introduce mind-controlled dual-use exoskeletons within the next five years (see: “Will Russia Field Robo ...",
-      "sourceUrl": null,
-      "webUrl": "https://thediplomat.com/2015/07/meet-russias-new-killer-robot/",
-      "originalUrl": "https://thediplomat.com/2015/07/meet-russias-new-killer-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thediplomat.com/wp-content/uploads/2015/07/sizes/td-story-s-2/thediplomat_2015-07-20_15-05-18.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Diplomat",
-        "domain": "thediplomat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-tesla-teases-optimus-humanoid-robot-prototype-with-new-image.md",
-      "title": "Tesla teases Optimus humanoid robot prototype with new image",
-      "excerpt": "Tesla has teased its Optimus humanoid robot prototype with a new image ahead of a full unveiling planned for September 30th. Earlier this year, CEO Elon Musk announced “Tesla AI Day #2” with “many cool updates” on August 19.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/",
-      "originalUrl": "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-Optimus-prototype-teaser.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/amp/",
-      "publishedDateTime": "2022-08-04T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

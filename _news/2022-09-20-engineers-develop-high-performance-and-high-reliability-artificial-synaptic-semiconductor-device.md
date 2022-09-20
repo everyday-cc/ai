@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-20T12:30:00Z
 originalUrl: "https://techxplore.com/news/2022-09-high-performance-high-reliability-artificial-synaptic-semiconductor.html"
 webUrl: "https://techxplore.com/news/2022-09-high-performance-high-reliability-artificial-synaptic-semiconductor.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: techxplore

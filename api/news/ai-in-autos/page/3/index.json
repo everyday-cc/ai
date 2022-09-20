@@ -2,6 +2,158 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-03-taking-a-ride-in-a-driverless-taxi-in-chinas-chongqing.md",
+      "title": "Taking a ride in a driverless taxi in China's Chongqing",
+      "excerpt": "There are five fully driverless Apollo Go robotaxis plying this district in the south-west of Chongqing. Nine others have a human safety driver on board, bringing the total number of the company's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.straitstimes.com/asia/east-asia/taking-a-ride-in-a-driverless-taxi-in-chinas-chongqing",
+      "originalUrl": "https://www.straitstimes.com/asia/east-asia/taking-a-ride-in-a-driverless-taxi-in-chinas-chongqing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/oembed_thumbnails/lz20A5t8HDcTfOpXoiLkFGma6pwXXHM7EbfMgDFx4a0.jpg?VersionId=FQCly_6wttWsRxugHbmmLTAoMs6P.mqX",
+          "width": 860,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-03T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Straits Times",
+        "domain": "straitstimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-03-unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking.md",
+      "title": "Unpacking The Best Top Ten Quotes About Artificial Intelligence Leveraging Modern-Day AI Ethics Thinking",
+      "excerpt": "This is a carefully devised set of Top Ten quotes about AI, providing an explanation about each quote and illuminating key insights about the future of AI, doing so with a keen eye toward the latest in AI Ethics thinking.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/09/03/unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/09/03/unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62d7369da6293b308a7896a2/0x0.jpg?format=jpg&crop=2297,1531,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/09/03/unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/09/03/unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking/amp/",
+      "publishedDateTime": "2022-09-03T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-03-why-do-we-keep-repeating-the-same-mistakes-on-ai.md",
+      "title": "Why Do We Keep Repeating The Same Mistakes On AI?",
+      "excerpt": "Artificial intelligence has been on the horizon for over seventy years. Why does it seem so close but also so unattainable? Are we repeating the same mistakes over and over?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/03/why-do-we-keep-repeating-the-same-mistakes-on-ai/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/03/why-do-we-keep-repeating-the-same-mistakes-on-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6312667f63bf3c4af5475054/0x0.jpg?format=jpg&crop=2531,1423,x158,y207,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/03/why-do-we-keep-repeating-the-same-mistakes-on-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/09/03/why-do-we-keep-repeating-the-same-mistakes-on-ai/amp/",
+      "publishedDateTime": "2022-09-03T01:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "Machine Learning",
+        "Natural Language Processing",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-09-03-the-failed-monorail-idea-that-would-have-seen-driverless-cabs-carrying-passengers-around-cardiff.md",
       "title": "The failed monorail idea that would have seen driverless cabs carrying passengers around Cardiff",
       "excerpt": "Could you imagine a public transport system where driverless cabs would be taken you and your friends and family around Cardiff? Well, back in 2002, the capital was looking to the future in a bid ...",
@@ -1180,126 +1332,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-waymo-opens-driverless-robotaxi-service-in-phoenix-to-locals-who-cant-share-experiences-online.md",
-      "title": "Waymo opens driverless robotaxi service in Phoenix to locals who can't share experiences online",
-      "excerpt": "Waymo is rolling out its driverless robotaxi service in Phoenix for members of the Alphabet-owned company's 'trusted tester' program - but users can't share their experience on social media and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11161047/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11161047/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/08/30/17/61875391-0-image-a-10_1661876995094.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-11161047/amp/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11161047/amp/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html",
-      "publishedDateTime": "2022-08-30T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-baidu-stock-slumps-as-us-audit-risk-offsets-q2-earnings-beat.md",
-      "title": "Baidu Stock Slumps As U.S. Audit Risk Offsets Q2 Earnings Beat",
-      "excerpt": "Baidu delivered a smaller-than-expected drop in second quarter sales despite what CEO Robin Li described as \"a challenging macro environment caused by Covid-19.\" Baidu (BIDU) shares slumped ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/markets/baidu-stock-jumps-after-q2-sales-top-forecasts-on-cloud-strength",
-      "originalUrl": "https://www.thestreet.com/markets/baidu-stock-jumps-after-q2-sales-top-forecasts-on-cloud-strength",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTg2MTEzMDEzMzM2NTE1NzEz/cerner-oracle.jpg",
-          "width": 620,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/markets/baidu-stock-jumps-after-q2-sales-top-forecasts-on-cloud-strength",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/markets/baidu-stock-jumps-after-q2-sales-top-forecasts-on-cloud-strength",
-      "publishedDateTime": "2022-08-30T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-industrys-first-autonomous-spreader-debuts-at-farm-progress-show.md",
-      "title": "Industry's first autonomous spreader debuts at Farm Progress Show",
-      "excerpt": "Case IH and Raven Industries introduce the agriculture industry's first autonomous spreader: the Case IH Trident ™ 5550 applicator with Raven Autonomy ™. Unveiled at Farm Progress Show 2022, this innovative solution delivers on customers' demands for autonomous equipment to help solve labor challenges and increase productivity on their operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-industrys-first-autonomous-spreader-debuts-farm-progress-show-/2022/08/30/9664454.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-industrys-first-autonomous-spreader-debuts-farm-progress-show-/2022/08/30/9664454.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

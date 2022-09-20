@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-20T12:12:00Z
 originalUrl: "https://nltimes.nl/2022/09/20/full-text-king-willem-alexanders-prinsjesdag-2022-speech-english"
 webUrl: "https://nltimes.nl/2022/09/20/full-text-king-willem-alexanders-prinsjesdag-2022-speech-english"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: NL Times

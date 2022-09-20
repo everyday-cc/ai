@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-20T11:30:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-nextech-ar-receives-large-3d-model-purchase-order-from-blue-chip-enterprise-customer"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-nextech-ar-receives-large-3d-model-purchase-order-from-blue-chip-enterprise-customer"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Daily Herald

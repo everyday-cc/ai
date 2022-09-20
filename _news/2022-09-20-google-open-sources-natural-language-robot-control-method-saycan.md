@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-20T13:47:00Z
 originalUrl: "https://www.infoq.com/news/2022/09/google-robot-saycan/"
 webUrl: "https://www.infoq.com/news/2022/09/google-robot-saycan/"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: InfoQ

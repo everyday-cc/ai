@@ -2,21 +2,21 @@
   "page": 169,
   "value": [
     {
-      "path": "_news/2022-01-19-customers-know-how-to-solve-data-privacy-and-ai-trust-issues-brands-should-listen-to-them.md",
-      "title": "Customers Know How To Solve Data, Privacy And AI Trust Issues. Brands Should Listen To Them",
-      "excerpt": "New research provides clues as to how brands should respond to customers feelings about data, privacy and the use of artificial intelligence (AI).",
+      "path": "_news/2022-05-11-sec-enforcement-actions-support-critical-skills-based-ethics-training.md",
+      "title": "SEC Enforcement Actions Support Critical Skills-based Ethics Training",
+      "excerpt": "The question of how to teach ethics has plagued academics for generations, with some even wondering whether it can be taught at all. Steven Mintz, an",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianswinscoe/2022/01/19/customers-know-how-to-solve-data-privacy-and-ai-trust-issues-brands-should-listen-to-them/",
-      "originalUrl": "https://www.forbes.com/sites/adrianswinscoe/2022/01/19/customers-know-how-to-solve-data-privacy-and-ai-trust-issues-brands-should-listen-to-them/",
+      "webUrl": "https://www.cpajournal.com/2022/05/10/sec-enforcement-actions-support-critical-skills-based-ethics-training/",
+      "originalUrl": "https://www.cpajournal.com/2022/05/10/sec-enforcement-actions-support-critical-skills-based-ethics-training/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61e7e398ac8b56a6149642ce/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 600,
+          "url": "https://www.cpajournal.com/wp-content/uploads/2022/05/CPA.2022.92.3.036_uf0011-730x330.jpg",
+          "width": 730,
+          "height": 330,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianswinscoe/2022/01/19/customers-know-how-to-solve-data-privacy-and-ai-trust-issues-brands-should-listen-to-them/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianswinscoe/2022/01/19/customers-know-how-to-solve-data-privacy-and-ai-trust-issues-brands-should-listen-to-them/amp/",
-      "publishedDateTime": "2022-01-19T01:19:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-10T14:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "cpajournal",
+        "domain": "cpajournal.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,25 +40,26 @@
         "news"
       ],
       "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-01-19-what-are-the-benefits-of-microsoft-dynamics-365.md",
-      "title": "What are the benefits of Microsoft Dynamics 365?",
-      "excerpt": "Azure Machine Learning, Cortana Intelligence and Power BI are all embedded in the software. Cortana and Azure and their algorithms take descriptive statistics and can use them for predictions on ...",
+      "path": "_news/2022-05-11-machine-learning-improves-hawaii-rainfall-mapping.md",
+      "title": "Machine learning improves Hawai'i rainfall mapping",
+      "excerpt": "University of Hawaiʻi and East-West Center researchers have developed more accurate monthly rainfall maps by using machine learning. They used a machine learning technique to detect erroneous ...",
       "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/5yONP7EgXpwqXWrb",
-      "originalUrl": "https://www.itweb.co.za/content/5yONP7EgXpwqXWrb",
+      "webUrl": "https://phys.org/news/2022-05-machine-hawaii-rainfall.html",
+      "originalUrl": "https://phys.org/news/2022-05-machine-hawaii-rainfall.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://lh3.googleusercontent.com/pRBw37A0Jn0pQCuJ6glXQI9Qf8m78qSi5_zih36ihmfl12UpT7QSHNlf3P1JGqlO6ZDN1urpf7d7n6pNxKx-wtJ3qnr2TWW4E7o=w816-h428",
-          "width": 761,
-          "height": 428,
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/machine-learning-impro-1.jpg",
+          "width": 676,
+          "height": 461,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -75,13 +67,47 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/5yONP7EgXpwqXWrb",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/5yONP7EgXpwqXWrb",
-      "publishedDateTime": "2022-01-18T23:18:00-08:00",
+      "ampWebUrl": "https://phys.org/news/2022-05-machine-hawaii-rainfall.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-machine-hawaii-rainfall.amp",
+      "publishedDateTime": "2022-05-10T13:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-ai-leveraged-by-smbs-to-reshape-their-businesses.md",
+      "title": "AI Leveraged by SMBs to Reshape Their Businesses",
+      "excerpt": "AI-based software applications, such as Microsoft Azure, have made cloud-based information available to the entire organization, which means spontaneous innovation can happen faster. When a company can work more effectively, the speed of innovation ...",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/prlog-2022-5-10-ai-leveraged-by-smbs-to-reshape-their-businesses",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/prlog-2022-5-10-ai-leveraged-by-smbs-to-reshape-their-businesses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-10T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -96,22 +122,75 @@
       ]
     },
     {
-      "path": "_news/2022-01-19-a2-bio-to-present-at-asco-gi-2022-on-use-of-next-generation-sequencing-ngs-to-identify-gi-cancer-patients-for-future-tmod-car-t-therapy.md",
-      "title": "A2 Bio to Present at ASCO-GI 2022 on Use of Next Generation Sequencing (NGS) to Identify GI Cancer Patients for Future Tmod™ CAR T Therapy",
-      "excerpt": "Press Release A2 Biotherapeutics, Inc. (\"A2 Bio\") is a biotechnology company focused on the development of a first-in-class, logic-gated Tmod™ CAR T cell therapy platform to tackle the fundamental challenge in solid tumor treatment-the ability of cancer",
+      "path": "_news/2022-05-11-intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus.md",
+      "title": "Intel Pits New Gaudi2 AI Training Engine Against Nvidia GPUs",
+      "excerpt": "Nvidia is not the only company that has created specialized compute units that are good at the matrix math and tensor processing that underpins AI",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/18/a2-bio-to-present-at-asco-gi-2022-on-use-of-next-generation-sequencing-ngs-to-identify-gi-cancer-patients-for-future-tmod-car-t-therapy/",
-      "originalUrl": "https://venturebeat.com/2022/01/18/a2-bio-to-present-at-asco-gi-2022-on-use-of-next-generation-sequencing-ngs-to-identify-gi-cancer-patients-for-future-tmod-car-t-therapy/",
+      "webUrl": "https://www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/",
+      "originalUrl": "https://www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 136,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/05/intel-habana-gaudi2-logo.jpg",
+          "width": 709,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/18/a2-bio-to-present-at-asco-gi-2022-on-use-of-next-generation-sequencing-ngs-to-identify-gi-cancer-patients-for-future-tmod-car-t-therapy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/18/a2-bio-to-present-at-asco-gi-2022-on-use-of-next-generation-sequencing-ngs-to-identify-gi-cancer-patients-for-future-tmod-car-t-therapy/amp/",
-      "publishedDateTime": "2022-01-18T21:25:00-08:00",
+      "ampWebUrl": "https://www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/amp/",
+      "publishedDateTime": "2022-05-10T12:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-certn-nabs-50m-to-accelerate-background-checks-with-ai.md",
+      "title": "Certn nabs $50M to accelerate background checks with AI",
+      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/",
+      "originalUrl": "https://venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/hiring-e1631919874329.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/amp/",
+      "publishedDateTime": "2022-05-10T12:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -134,26 +213,25 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-01-19-softbank-leads-cash-infusion-into-ai-infrastructure-company-pyxis-one-as-it-starts-year-with-new-name.md",
-      "title": "SoftBank leads cash infusion into AI infrastructure company Pyxis One as it starts year with new name",
-      "excerpt": "Prior to starting Pixis, the co-founders spoke to potential marketing customers about how to scale SaaS companies quickly in a “cookie less” world.",
+      "path": "_news/2022-05-11-sofi-stock-falls-after-fintech-firm-accidentally-releases-first-quarter-report-early.md",
+      "title": "SoFi stock falls after fintech firm accidentally releases first-quarter report early",
+      "excerpt": "Shares of SoFi fell sharply on Tuesday and were halted for nearly three hours after the company accidentally released its first-quarter results early. The company said the report was released early due to human error.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/18/softbank-ai-infrastructure-pyxis-one-pixis/",
-      "originalUrl": "https://techcrunch.com/2022/01/18/softbank-ai-infrastructure-pyxis-one-pixis/",
+      "webUrl": "https://www.cnbc.com/2022/05/10/sofi-stock-falls-trading-halted-after-fintech-firm-accidentally-releases-q1-report.html",
+      "originalUrl": "https://www.cnbc.com/2022/05/10/sofi-stock-falls-trading-halted-after-fintech-firm-accidentally-releases-q1-report.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/Pixis-Founders.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
+          "url": "https://image.cnbcfm.com/api/v1/image/107018575-1645558180917-gettyimages-1372185735-0j5a7034_07649f06-aee4-4713-b71b-eb5bcd0da8bb.jpeg?v=1645558270",
+          "width": 2803,
+          "height": 1936,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -161,9 +239,61 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/18/softbank-ai-infrastructure-pyxis-one-pixis/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/18/softbank-ai-infrastructure-pyxis-one-pixis/amp/",
-      "publishedDateTime": "2022-01-18T21:00:00-08:00",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/05/10/sofi-stock-falls-trading-halted-after-fintech-firm-accidentally-releases-q1-report.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/05/10/sofi-stock-falls-trading-halted-after-fintech-firm-accidentally-releases-q1-report.html",
+      "publishedDateTime": "2022-05-10T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-slai-makes-intelligent-choices-around-machine-learning-setups-for-developers.md",
+      "title": "Slai makes intelligent choices around machine learning setups for developers",
+      "excerpt": "Slai is building a developer-first platform for machine learning. It equips developers with the tools to quickly ship machine-learning applications.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/10/slai-seed-round/",
+      "originalUrl": "https://techcrunch.com/2022/05/10/slai-seed-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/slai-founders.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/10/slai-seed-round/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/10/slai-seed-round/amp/",
+      "publishedDateTime": "2022-05-10T10:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -186,1062 +316,10 @@
         "news"
       ],
       "topics": [
+        "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-why-games-may-not-be-the-best-benchmark-for-ai.md",
-      "title": "Why games may not be the best benchmark for AI",
-      "excerpt": "Games have long been used as a benchmark in AI, but not all experts are convinced that they're the right goalposts for research.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/18/why-games-may-not-be-the-best-benchmark-for-ai/",
-      "originalUrl": "https://venturebeat.com/2022/01/18/why-games-may-not-be-the-best-benchmark-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/06/195A8963_cropped.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 616,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/18/why-games-may-not-be-the-best-benchmark-for-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/18/why-games-may-not-be-the-best-benchmark-for-ai/amp/",
-      "publishedDateTime": "2022-01-18T19:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Facebook AI",
-        "Natural Language Processing",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-softbanks-china-bets-gear-up-for-hong-kong-ipos.md",
-      "title": "SoftBank's China bets gear up for Hong Kong IPOs",
-      "excerpt": "A string of Chinese technology companies backed by SoftBank Group are gearing up for initial public offerings in Hong Kong, testing the Japanese technology group's path to recovery after racking up losses last year.",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/Business/SoftBank2/SoftBank-s-China-bets-gear-up-for-Hong-Kong-IPOs",
-      "originalUrl": "https://asia.nikkei.com/Business/SoftBank2/SoftBank-s-China-bets-gear-up-for-Hong-Kong-IPOs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F9%252F7%252F8%252F3%252F38423879-4-eng-GB%252F2019110son.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T17:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NIKKEI",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization.md",
-      "title": "Celebal Technologies has earned the Al and Machine Learning on Microsoft Azure Advanced Specialization",
-      "excerpt": "Celebal Technologies, today announced it has earned the AI and Machine Learning on Microsoft Azure advanced specialization, a validation of a services partner’s deep knowledge, extensive experience an",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/",
-      "originalUrl": "https://indiaeducationdiary.in/celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/",
-      "publishedDateTime": "2022-01-18T17:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-fintech-firm-truebill-explains-how-you-can-reset-your-finances-for-2022.md",
-      "title": "Fintech Firm Truebill Explains How You Can “Reset Your Finances” for 2022",
-      "excerpt": "The team at TrueBill notes that the new year can be a good time to \"reset your finances,\" and they would like to help you out with that.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/01/185652-fintech-firm-truebill-explains-how-you-can-reset-your-finances-for-2022/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/01/185652-fintech-firm-truebill-explains-how-you-can-reset-your-finances-for-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2022/01/2022-600x537.jpeg",
-          "width": 600,
-          "height": 537,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/01/185652-fintech-firm-truebill-explains-how-you-can-reset-your-finances-for-2022/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/01/185652-fintech-firm-truebill-explains-how-you-can-reset-your-finances-for-2022/amp/",
-      "publishedDateTime": "2022-01-18T17:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-microsofts-splurge-on-activision-blizzard-could-mainstream-the-metaverse.md",
-      "title": "Microsoft’s splurge on Activision Blizzard could mainstream the metaverse",
-      "excerpt": "Microsoft's bet on Activision Blizzard shows gaming's preeminence in the metaverse. The competition with Meta is heating up",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/microsoft-activision-blizzard-deal-could-mainstream-the-metaverse",
-      "originalUrl": "https://thenextweb.com/news/microsoft-activision-blizzard-deal-could-mainstream-the-metaverse",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2FUntitled-design-6.jpg&signature=49ef55fd584b0e2dea7f14ce1d2d3327",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T17:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-confused-replika-ai-users-are-standing-up-for-bots-and-trying-to-bang-the-algorithm.md",
-      "title": "Confused Replika AI users are standing up for bots and trying to bang the algorithm",
-      "excerpt": "It should go without saying, but you can't have sex with an algorithm. That doesn't stop some people from trying.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/confused-replika-ai-users-are-standing-up-for-bots-trying-bang-the-algorithm",
-      "originalUrl": "https://thenextweb.com/news/confused-replika-ai-users-are-standing-up-for-bots-trying-bang-the-algorithm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Freplikaskull.jpg&signature=926f0f4500827c7456dd328ad9e35e92",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T17:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-report-how-ai-and-ml-optimize-the-diagnosis-process-in-health-care.md",
-      "title": "Report: How AI and ML optimize the diagnosis process in health care",
-      "excerpt": "Medical diagnostics using AI and ML are expanding, and automation is helping to detect life-threatening conditions in their earliest stages.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/18/report-how-ai-and-ml-optimize-diagnosis-process-in-health-care/",
-      "originalUrl": "https://venturebeat.com/2022/01/18/report-how-ai-and-ml-optimize-diagnosis-process-in-health-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1251551899-e1642523643912.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/18/report-how-ai-and-ml-optimize-diagnosis-process-in-health-care/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/18/report-how-ai-and-ml-optimize-diagnosis-process-in-health-care/amp/",
-      "publishedDateTime": "2022-01-18T16:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-ai-medicine-software-market-is-likely-to-experience-a-tremendous-growth-in-near-future-enlitic-atomwise-deepmind-babylon-health.md",
-      "title": "AI Medicine Software Market Is Likely to Experience a Tremendous Growth in Near Future | Enlitic, Atomwise, DeepMind, Babylon Health",
-      "excerpt": "The ‘ AI Medicine Software market’ research report added by Report Ocean, is an in-depth analysis of the latest developments, market size, status, upcoming technologies, industry drivers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-medicine-software-market-is-likely-to-experience-a-tremendous-growth-in-near-future-enlitic-atomwise-deepmind-babylon-health",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-medicine-software-market-is-likely-to-experience-a-tremendous-growth-in-near-future-enlitic-atomwise-deepmind-babylon-health",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/01/DDD-2-1-600x337.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-basic-classification-classify-images-of-clothing.md",
-      "title": "Basic classification: Classify images of clothing",
-      "excerpt": "This guide trains a neural network model to classify images of clothing, like sneakers and shirts. It's okay if you don't understand all the details; this is a fast-paced overview of a complete TensorFlow program with the details explained as you go.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/keras/classification?hl=hu",
-      "originalUrl": "https://www.tensorflow.org/tutorials/keras/classification?hl=hu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=hu",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-better-performance-with-the-tfdata-api.md",
-      "title": "Better performance with the tf.data API",
-      "excerpt": "GPUs and TPUs can radically reduce the time required to execute a single training step. Achieving peak performance requires an efficient input pipeline that delivers data for the next step before the current step has finished. The tf.data API helps to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/guide/data_performance?hl=zh-cn",
-      "originalUrl": "https://www.tensorflow.org/guide/data_performance?hl=zh-cn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=zh-cn",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-boosted-trees-using-estimators.md",
-      "title": "Boosted trees using Estimators",
-      "excerpt": "Note: Modern Keras based implementations of many state of the art decision forest algorithms are available in TensorFlow Decision Forests. This tutorial is an end-to-end walkthrough of training a Gradient Boosting model using decision trees with the tf ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/estimator/boosted_trees?hl=nb",
-      "originalUrl": "https://www.tensorflow.org/tutorials/estimator/boosted_trees?hl=nb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=nb",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-customization-basics-tensors-and-operations.md",
-      "title": "Customization basics: tensors and operations",
-      "excerpt": "To get started, import the tensorflow module. As of TensorFlow 2, eager execution is turned on by default. This enables a more interactive frontend to TensorFlow, the details of which we will discuss much later. import numpy as np ndarray = np.ones([3, 3 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/customization/basics?hl=nb",
-      "originalUrl": "https://www.tensorflow.org/tutorials/customization/basics?hl=nb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=nb",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-how-to-invest-in-artificial-intelligence-3-companies-to-watch.md",
-      "title": "How to Invest in Artificial Intelligence -- 3 Companies to Watch",
-      "excerpt": "Artificial Intelligence has long been a staple of ... From the sudden reality of driverless cars to Siri's clever retorts on the iPhone, AI is a bigger part of our lives than ever.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
-      "originalUrl": "https://www.thestreet.com/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTY4NjM5Njk3NDkxNDA0NDIz/how-to-invest-in-artificial-intelligence----3-companies-to-watch.jpg",
-          "width": 619,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
-      "publishedDateTime": "2022-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-image-captioning-with-visual-attention.md",
-      "title": "Image captioning with visual attention",
-      "excerpt": "Given an image like the example below, your goal is to generate a caption such as \"a surfer riding on a wave\". Image Source; License: Public Domain To accomplish this, you'll use an attention-based model, which enables us to see what parts of the image the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/text/image_captioning?hl=zh_cn",
-      "originalUrl": "https://www.tensorflow.org/tutorials/text/image_captioning?hl=zh_cn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=zh_cn",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-introduction-to-tensor-slicing.md",
-      "title": "Introduction to tensor slicing",
-      "excerpt": "When working on ML applications such as object detection and NLP, it is sometimes necessary to work with sub-sections (slices) of tensors. For example, if your model architecture includes routing, where one layer might control which training example gets ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/guide/tensor_slicing?hl=zh_CN",
-      "originalUrl": "https://www.tensorflow.org/guide/tensor_slicing?hl=zh_CN",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=zh_CN",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-numpy-api-on-tensorflow.md",
-      "title": "NumPy API on TensorFlow",
-      "excerpt": "TensorFlow implements a subset of the NumPy API, available as tf.experimental.numpy. This allows running NumPy code, accelerated by TensorFlow, while also allowing access to all of TensorFlow's APIs. This call enables type promotion in TensorFlow and also ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/guide/tf_numpy?hl=fi",
-      "originalUrl": "https://www.tensorflow.org/guide/tf_numpy?hl=fi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=fi",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-pix2pix-image-to-image-translation-with-a-conditional-gan.md",
-      "title": "pix2pix: Image-to-image translation with a conditional GAN",
-      "excerpt": "This tutorial demonstrates how to build and train a conditional generative adversarial network (cGAN) called pix2pix that learns a mapping from input images to output images, as described in Image-to-image translation with conditional adversarial networks ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/generative/pix2pix?hl=no",
-      "originalUrl": "https://www.tensorflow.org/tutorials/generative/pix2pix?hl=no",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=no",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-playing-cartpole-with-the-actor-critic-method.md",
-      "title": "Playing CartPole with the Actor-Critic Method",
-      "excerpt": "Actor-Critic methods are temporal difference (TD) learning methods that represent the policy function independent of the value function. A policy function (or policy) returns a probability distribution over actions that the agent can take based on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/reinforcement_learning/actor_critic?hl=sr",
-      "originalUrl": "https://www.tensorflow.org/tutorials/reinforcement_learning/actor_critic?hl=sr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=sr",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-simple-audio-recognition-recognizing-keywords.md",
-      "title": "Simple audio recognition: Recognizing keywords",
-      "excerpt": "This tutorial demonstrates how to preprocess audio files in the WAV format and build and train a basic automatic speech recognition (ASR) model for recognizing ten different words. You will use a portion of the Speech Commands dataset (Warden, 2018), which ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/audio/simple_audio?hl=lv",
-      "originalUrl": "https://www.tensorflow.org/tutorials/audio/simple_audio?hl=lv",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=lv",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-tensorflow-2-quickstart-for-beginners.md",
-      "title": "TensorFlow 2 quickstart for beginners",
-      "excerpt": "Load a prebuilt dataset. Build a neural network machine learning model that classifies images. Train this neural network. Evaluate the accuracy of the model. This tutorial is a Google Colaboratory notebook. Python programs are run directly in the browser ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/quickstart/beginner?hl=bg",
-      "originalUrl": "https://www.tensorflow.org/tutorials/quickstart/beginner?hl=bg",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=bg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-text-classification-with-tensorflow-hub-movie-reviews.md",
-      "title": "Text classification with TensorFlow Hub: Movie reviews",
-      "excerpt": "This notebook classifies movie reviews as positive or negative using the text of the review. This is an example of binary—or two-class—classification, an important and widely applicable kind of machine learning problem. The tutorial demonstrates the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/keras/text_classification_with_hub?hl=ur",
-      "originalUrl": "https://www.tensorflow.org/tutorials/keras/text_classification_with_hub?hl=ur",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=ur",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
       ]
     }
   ],
-  "nextPage": 170
+  "nextPage": null
 }

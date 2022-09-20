@@ -2,6 +2,155 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-08-05-artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse.md",
+      "title": "Artists Are Helping To Keep Humans At The Center In EY’s Metaverse",
+      "excerpt": "The next generation of virtual worlds must focus on our shared humanity. That’s why EY’s Cognitive Human Enterprise and the New Museum’s NEW INC are bringing together artists and engineers to imagine a different kind of metaverse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/",
+      "originalUrl": "https://www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62eb15dea5389ec014373b0b/0x0.jpg?format=jpg&crop=1298,730,x14,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/amp/",
+      "publishedDateTime": "2022-08-04T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-ghost-security-reinvents-app-security-with-unsupervised-machine-learning.md",
+      "title": "Ghost Security reinvents app security with unsupervised machine learning",
+      "excerpt": "Ghost Security is using an unsupervised machine learning approach in an industry where most app security products use supervised ML.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/08/04/ghost-security-reinvents-app-security-with-unsupervised-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2022/08/04/ghost-security-reinvents-app-security-with-unsupervised-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-robot_machine_learning_AI_1323774184-e1659571276418.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/08/04/ghost-security-reinvents-app-security-with-unsupervised-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/04/ghost-security-reinvents-app-security-with-unsupervised-machine-learning/amp/",
+      "publishedDateTime": "2022-08-04T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-cognitive-solution-market-by-latest-trend-growing-demand-and-technology-advancement-2022-2031.md",
+      "title": "Cognitive Solution Market By Latest Trend, Growing Demand And Technology Advancement 2022-2031",
+      "excerpt": "Restraints and opportunity analysis is a tool used in assessing the potential for new products and services ... World's Biggest Cognitive Solution Market Specific manufacturing Microsoft ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104645277/Cognitive-Solution-Market-By-Latest-Trend-Growing-Demand-And-Technology-Advancement-2022-2031",
+      "originalUrl": "https://menafn.com/1104645277/Cognitive-Solution-Market-By-Latest-Trend-Growing-Demand-And-Technology-Advancement-2022-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-08/04/EP_0a768image_story.jpeg",
+          "width": 286,
+          "height": 286,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-04-microsoft-becomes-australian-space-hubs-first-constellation-partner.md",
       "title": "Microsoft becomes Australian space hub's first 'Constellation Partner'",
       "excerpt": "As part of the agreement, the tech giant will provide hub members with Microsoft Azure Space engineers as they build products for commercial use",
@@ -1223,126 +1372,6 @@
       "provider": {
         "name": "Cambridge University Press",
         "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-how-long-can-cognitive-impairment-persist-after-hospitalization-due-to-covid-19.md",
-      "title": "How long can cognitive impairment persist after hospitalization due to COVID-19?",
-      "excerpt": "In a recent study published in the Open Forum Infectious Diseases journal, researchers examined the aspects of cognitive impairment after hospitalization due to coronavirus disease 2019 (COVID-19).",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220801/How-long-can-cognitive-impairment-persist-after-hospitalization-due-to-COVID-19.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220801/How-long-can-cognitive-impairment-persist-after-hospitalization-due-to-COVID-19.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_720977_16593511993243041.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-31-23-collaboration-and-open-science-initiatives-in-primate-research.md",
-      "title": "23 - Collaboration and Open Science Initiatives in Primate Research",
-      "excerpt": "In this chapter, we discuss how large-scale collaboration, a research model successfully implemented in other fields, makes it possible to obtain the large and diverse datasets needed to conduct robust comparative analysis of primate cognitive abilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/books/primate-cognitive-studies/collaboration-and-open-science-initiatives-in-primate-research/BE9785FF2E4D84F7EE3F30B171EF8536",
-      "originalUrl": "https://www.cambridge.org/core/books/primate-cognitive-studies/collaboration-and-open-science-initiatives-in-primate-research/BE9785FF2E4D84F7EE3F30B171EF8536",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cambridge.org/core/cambridge-core/public/images/logo_core_page_share_600x600.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-31T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-31-persistent-loss-of-smell-due-to-covid-19-closely-connected-to-long-lasting-cognitive-problems.md",
-      "title": "PERSISTENT LOSS OF SMELL DUE TO COVID-19 CLOSELY CONNECTED TO LONG-LASTING COGNITIVE PROBLEMS",
-      "excerpt": "\"As this virus will likely be with us for a long time, identifying the risk and protective factors for cognitive symptoms can assist with the treatment and prevention of 'long COVID' moving forward.\"",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1268576&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1268576&cat=PR News Wire",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
         "images": null,
         "publishers": null,
         "authors": null

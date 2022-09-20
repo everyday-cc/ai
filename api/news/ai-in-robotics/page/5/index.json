@@ -2,6 +2,252 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-19-robotics-and-automation-are-the-future-of-healthcare.md",
+      "title": "Robotics and automation are the future of healthcare",
+      "excerpt": "Advanced technologies, such as AI-guided robotics and automation, offer a potential solution to the provider shortage by freeing healthcare professionals from repetitive and time-consuming tasks and allow clinicians to focus on tasks that require a specialized touch.",
+      "sourceUrl": null,
+      "webUrl": "https://medcitynews.com/2022/08/robotics-and-automation-are-the-future-of-healthcare/",
+      "originalUrl": "https://medcitynews.com/2022/08/robotics-and-automation-are-the-future-of-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medcitynews.com/uploads/2020/12/GettyImages-1158546914.jpg",
+          "width": 703,
+          "height": 497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-19T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-can-we-replicate-humanness-in-a-robots-behavior.md",
+      "title": "Can We Replicate Humanness In A Robot’s Behavior?",
+      "excerpt": "Researchers at Istituto Italiano di Tecnologia are looking at why its possible to create humanness in robotic behavior.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2022/08/18/is-it-possible-to-replicate-humanness-in-a-robots-behavior/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2022/08/18/is-it-possible-to-replicate-humanness-in-a-robots-behavior/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62f3efa554d746cc809bd91b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2022/08/18/is-it-possible-to-replicate-humanness-in-a-robots-behavior/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2022/08/18/is-it-possible-to-replicate-humanness-in-a-robots-behavior/amp/",
+      "publishedDateTime": "2022-08-18T15:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-the-three-true-robotic-startup-outcomes.md",
+      "title": "The three true robotic startup outcomes",
+      "excerpt": "Allow me to borrow a phrase from baseball for a moment. If you follow the sport, you’re likely aware of the concept of the “three true outcomes.” They are, specifically, a home run, a strikeout, and a walk.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/18/the-three-true-robotic-outcomes/",
+      "originalUrl": "https://techcrunch.com/2022/08/18/the-three-true-robotic-outcomes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/pYcC1goDf3wvfku_.2022-08-11-12_31_38.gif",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/18/the-three-true-robotic-outcomes/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/18/the-three-true-robotic-outcomes/amp/",
+      "publishedDateTime": "2022-08-18T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-what-will-humanoid-robots-be-used-for-in-the-future.md",
+      "title": "What will humanoid robots be used for in the future?",
+      "excerpt": "The humanoid robot war is already raging between the United States' Tesla and China's Xiaomi. The Chinese company unveiled their AI robots",
+      "sourceUrl": null,
+      "webUrl": "https://www.citizen.co.za/lifestyle/3175680/humanoid-robots-xiamoi-cyberone/",
+      "originalUrl": "https://www.citizen.co.za/lifestyle/3175680/humanoid-robots-xiamoi-cyberone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.citizen.co.za/wp-content/uploads/2022/08/xiaomi-AI.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.citizen.co.za/lifestyle/3175680/humanoid-robots-xiamoi-cyberone/",
+      "cdnAmpWebUrl": "https://amp-citizen-co-za.cdn.ampproject.org/c/s/amp.citizen.co.za/lifestyle/3175680/humanoid-robots-xiamoi-cyberone/",
+      "publishedDateTime": "2022-08-18T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Citizen",
+        "domain": "citizen.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-artificial-intelligence-chip-market-size-worth-usd-832527-mn-by-2027-the-insight-partners.md",
+      "title": "Artificial Intelligence Chip Market Size Worth USD 83,252.7 Mn By 2027 | The Insight Partners",
+      "excerpt": "According to The Insight Partners' research, the Artificial Intelligence Chip Market to 2027 – Global Analysis and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-worth-usd-832527-mn-by-2027-the-insight-partners-2022-08-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-worth-usd-832527-mn-by-2027-the-insight-partners-2022-08-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-08-18-ai-vs-ml-artificial-intelligence-and-machine-learning-overview.md",
       "title": "AI vs. ML: Artificial Intelligence and Machine Learning Overview",
       "excerpt": "In 1982, John Hopfield showed that a neural network could process information in far more advanced ways. Various forms of AI began to take shape, and the first artificial neural network (ANN ...",
@@ -1167,240 +1413,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-13-robotic-surgery-minimises-risks-and-recovery-time.md",
-      "title": "Robotic surgery minimises risks and recovery time",
-      "excerpt": "robotic surgery doesn’t mean a robot will operate on the patient. In a RAS, expert surgeons control mechanical arms placed over the patient on the operating table. The surgeon controls these ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/robotic-surgery-minimises-risks-and-recovery-time/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/robotic-surgery-minimises-risks-and-recovery-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/robotic-surgery-minimises-risks-and-recovery-time/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/robotic-surgery-minimises-risks-and-recovery-time/",
-      "publishedDateTime": "2022-08-12T10:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er.md",
-      "title": "Diagnostic Robotics has AI catching health problems before they take you to the ER",
-      "excerpt": "A stitch in time saves nine, they say — and a blood thinner in time saves a trip to the emergency room for a heart attack, as Diagnostic Robotics hopes to show. The company’s machine learning-powered preventative care aims to predict and avoid dangerous (and costly) medical crises,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/12/diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er/",
-      "originalUrl": "https://techcrunch.com/2022/08/12/diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/diagnostic-robotics-2.png?w=1024",
-          "width": 1024,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/12/diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/12/diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er/amp/",
-      "publishedDateTime": "2022-08-12T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-global-educational-robot-market-to-hit-3-billion-by-2030.md",
-      "title": "Global Educational Robot Market to Hit $3 Billion by 2030",
-      "excerpt": "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/08/n28475655/global-educational-robot-market-to-hit-3-billion-by-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/n28475655/global-educational-robot-market-to-hit-3-billion-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.giphy.com/media/bxg7wC26fV2ISV1F7D/giphy.gif?cid=790b7611467e0ec94bfa730c90c0a9101f7549875da4ca3a&rid=giphy.gif&ct=g",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28475655",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28475655",
-      "publishedDateTime": "2022-08-12T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-restocking-robots-deployed-in-300-japanese-convenience-stores.md",
-      "title": "Restocking robots deployed in 300 Japanese convenience stores",
-      "excerpt": "The robots work around-the-clock, restocking shelves at a rate of up to 1,000 bottles and cans per day, and depending almost entirely on its artificial intelligence (AI) system, known as “GORDON,” to determine when and where products should be stocked.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/restocking-robots-deployed-in-300-japanese-convenience-stores/",
-      "originalUrl": "https://www.therobotreport.com/restocking-robots-deployed-in-300-japanese-convenience-stores/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/08/Telexistence-convenience-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-12T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics.md",
-      "title": "Hyundai announces $400M AI, robotics institute powered by Boston Dynamics",
-      "excerpt": "When Hyundai acquired Boston Dynamics at the end of 2020, there were plenty of open questions. Chief among them was why we should assume this acquisition would be any different than the past few? The 30-year-old bleeding edge robotics form had been an uncomfortable fit for its last two owners,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics/",
-      "originalUrl": "https://techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 198,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2016/09/disrupt_sf16_boston_dynamics-4300.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics/amp/",
-      "publishedDateTime": "2022-08-12T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],
