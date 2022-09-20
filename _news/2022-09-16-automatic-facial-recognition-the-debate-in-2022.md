@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://s33644.pcdn.co/wp-content/uploads/2019/10/fr.gif"
