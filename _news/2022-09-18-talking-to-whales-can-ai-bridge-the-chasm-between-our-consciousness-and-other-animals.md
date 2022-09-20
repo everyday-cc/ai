@@ -5,12 +5,7 @@ excerpt: "Speaking to animals has long been a fantasy. But now a dizzyingly ambi
 publishedDateTime: 2022-09-18T08:00:00Z
 originalUrl: "https://www.theguardian.com/environment/2022/sep/18/talking-to-whales-with-artificial-enterprise-it-may-soon-be-possible"
 webUrl: "https://www.theguardian.com/environment/2022/sep/18/talking-to-whales-with-artificial-enterprise-it-may-soon-be-possible"
-ampWebUrl: "https://amp.theguardian.com/environment/2022/sep/18/talking-to-whales-with-artificial-enterprise-it-may-soon-be-possible"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2022/sep/18/talking-to-whales-with-artificial-enterprise-it-may-soon-be-possible"
 type: article
-quality: 49
-heat: 49
-published: false
 
 provider:
   name: The Guardian
@@ -23,12 +18,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://i.guim.co.uk/img/media/6faca857c01debd20fc769617f3c9a15031f2877/0_128_6423_3854/master/6423.jpg?width=620&quality=85&auto=format&fit=max&s=f3d2228236838a3ac62e14c56fad7d0f"
-    width: 620
-    height: 372
-    isCached: true
-
-secured: "WEt8mG4mziq08yTaAgdDVewbd9BXlvHTBKyTtN0P5est/CDU7vEUY7jKbaHQymyy2Y/obNRvKUMOTBwWZPWr1DKp4EsgTV11ZrJ+TiezA3/FMmH2q3Whh7KcmgBmZm4pyC+kfjwQ6UWi4fqYOa+/gs+WG1wUWzEvtge7aW4I7sthUKJCSNY4Hplde6p+gKBxcOAUJKcGp56sqXcs9gys3gWTTcXeh+wO2d6I5dmcf3cYoBEFgFwwOnHXX9CQoP1MXmKFQs1VbD2cpqWeQNiM/59505n5f+6TySmpNBKCX6a635IrVr9GTK7WL/z7VmYLErXNZIPs50uV7Dqe8gqklHU3UWHc23QYuFXSXYwwp18=;YDVc+waT4magM+NtNT3/dw=="
+secured: "T4hvJE2CyA/e8GAjxyzhwmWuW0y4a36D2pIVbbYUSS/zjvdrdKIYuApyIF8xlRAoWzBEoPQJjaE51dKupTRnOCbxX6Dm51/FUaGwWBPBP66Ilpue4qZwzrR6iL6NTPWvP0DWJzVM9rsFlO9vnqkFYSK5bAko6CGmAK6x9UePSjpqcKuHPVWA/ry5zjIZulhP3mSHkdFDnY6N6U+aNjQNxFaMEGM+t31DB3NjNqPM0Hy1s6/MVPE+zfTsVnIK4JAoG1S4LxNNF0j8InkVnuP4sACgl/94WnKThs7S5nQ9ymWdOFiZ2iOhvgb74aKY4T4ALk3NaQMG7ASG1buT61p47fsQFfBFpQhb7f3mbIlmDGN1Y15Bj1oD8AgMilFSiJzBQl/muU0dUjJVWLaKmj7/HufSnX4PWbyw3HF1dOz+XMlw6LlZj8qzCY+BbgQBPpaY6CxzaIb97Hmq/POiMLCv665Va5JHdRnY2X/Q/R/07j0bDb2JvO2L/UpT6eCNu++Los/52JQtcn6ATNtlpOLSQQ==;X6mwVrazwRbwhgwOEhkHXA=="
 ---
 

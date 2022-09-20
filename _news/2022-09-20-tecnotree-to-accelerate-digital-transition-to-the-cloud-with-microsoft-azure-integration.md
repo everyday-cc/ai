@@ -2,13 +2,10 @@
 category: news
 title: "Tecnotree to Accelerate Digital Transition to the Cloud with Microsoft Azure Integration"
 excerpt: "Tecnotree's Digital Suite-5 for consumers and business monetization is built natively to run on Kubernetes and is aligned with the Microsoft Azure cloud to drive multi-tenant, multi-region transformations that allow enterprises to lower total-cost-of-ownership (TCO) by eliminating significant upfront investments."
-publishedDateTime: 2022-09-20T11:55:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-tecnotree-accelerate-digital-transition-the-cloud-with-microsoft-/2022/09/20/9676461.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-tecnotree-accelerate-digital-transition-the-cloud-with-microsoft-/2022/09/20/9676461.htm"
+publishedDateTime: 2022-09-20T12:50:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/09/20/9676461.htm"
+webUrl: "https://it.tmcnet.com/news/2022/09/20/9676461.htm"
 type: article
-quality: 25
-heat: 25
-published: false
 
 provider:
   name: TMCnet
@@ -18,6 +15,6 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "M17nDYVcGqJhCdigz4ArFyncx4AIXFiin1wc7qYxcNFr+U7hg4fIWfjGUPey964hJTYxJhl+6GNs2gbfM3Il/2SFQZO9BzRlHFX6C3Fdisdo0Wscuyy5RbUf61Kl/nDU5z1Qz7RkxJZtEeEaNJ3/vLG14Pgzj2HntZ70clRPgIOreRW5LjgmkyrYQ8ye8PHpU1qUrXGP8Lhgk4rjjLMPODUCRrZRK6wdgFn7Gd56kyAxBW6R0dC/mGTjyEvHzmEJP9+/QZP/JQd5BNEY67iGJLDAFGBGjxHwb59GMhvACnZw7T+6XiAJgdqvrhRZvIOpT1j2yXDN/Xqd8nL/+/+KjJoPg6RuFvmO45US8WjFawbDi7jeeD8uyu/EuUbqunh7uJdNQS0Fj+eHAviIcloJt3X5IzK1eeAPCGmuyNIOEqDKrJ3qRiyzG2tCxQrF4TvrhkNEYijIbwWZIsH+GcO3ueVbk33gmmlYgj+WP/w/vtpEuweotG3mxKEmAmTTSm6O0u/r/HeJbnKALh//nJiEEQ==;Go5R2/xQrU8FO0w5BI3D/w=="
+secured: "Fo9asbq0tXkkAHRZ7j+LiViiwItm06hioCxuDj4pX39gc1MIu37iLtnbb04ZawJ0yhR+qy7Ld9L9Z9l2yGRNducaf46Vnp03MCEPoBUWucf4a7YSr6z/Cgtd1UpQJlS5ccQnH4pCqY5Gpp3622fa9Bm4ygDu6+4LOpoKG7zmhLvgJlEMAO9RjGqXh8pirEdSMMNuv+606sfwmuVPrFiVm4X3uIFOnv94X/mGpNIgmr4davEnhALuFPS+h54TrO3w8cD57X7cmSwK6jPiR6+WZbzq2OzPhcKcWhVsFCvrkGZwBG2lrevOseRYMPxXXdeWE/bKmjDDrkJLPlmrHkkpMUNEkotcNaUIpA/37JCc1NrnwWonECd7k5jMi/DEQmaZLxCS1Sz6BBdG3oPAFINgA0rg4pmjNJy/iJoy/EtahuQqRwGBLKxC4A2XflTEoPtXvXq797t80xgo87RkQLWbbDj0GOibRwrZTGu9nkRnaYK3OVSDBEwxh3n9qHDbJED77nj5eA1uheEITUwWB/bXeQ==;bElSwCf6Q9Jhdh3hAYFxqg=="
 ---
 

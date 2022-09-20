@@ -17,6 +17,8 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
+  - AI in Healthcare
 
 images:
   - url: "https://www.paconsulting.com/globalassets/images/importedimage/114631-cloud-data-900-x-450jpg"
@@ -42,6 +44,6 @@ related:
         height: 400
         isCached: true
 
-secured: "WLTrc97WJfMIP0C17Nt6O6P9OwIgtTM19tRNZeItGSt6lvOTMoIVF79taHqotV0RtbgHzGTObEKtlvwcEx+qSbY8vlKX0KWkqxMUR74kdiU3mt3vAPig3R5FUl6/1a/z2kT3p04qlBo5e8S4KFvR+7bRPMYHi69WEjAQ6Zt1BRWk7iepZiMXcbg7d+JuLjNGI+ZJ9cDDU7+YypWLV6lBcgAuxQKqxBLpSYC3CbjMzUXUqxENtDapjKSjWe3yraydDCxlTXCpbltUdc16YSKZLoAaqPyhIfPD5KT9bvIAx9zlCyMqFSsvnmrLSBcOba1mRbTpZhYpxpNYrXnoUav1PBj0Nci+9AHFK1wxPCgRWKw=;7Y27SBAOhipQopYqcxgKrw=="
+secured: "yoWf0OZRkLVZg1izZNih3oyoIrAVgvfItIyJvFa4xVXp04AMqJTXTsNe2nnaByvG9QToDCsDYW15fNKIj+c8pJ3LUwJVK/WM9dPlVi/Hu+CFPulTzpLmIiWtc2TPvGi2jygYYwLJC7OfayrpytRMLgyFPJSHjrXUyde1VxZstF3K7jCS8BtvLJ9Y2vGKgYurMo8R6IQbpFb8Si4QzWUkvCt099h5qssOQPpQkEIoTlPAKvY8ivNZdJJM6+Kk94E6Gipz0tLOdATnSzlOXSIJrRSR0EyIuVN+U9D8ItKDcn1tPCTg3H1G2LtpvzBArmqy28iEyTkqTsDE4PCIdlaYXuuI+VwKr0GTzLoqdorxqPqKa5Qxb6CFLCySmC304FX6AOQiqHlzVs+AaoPam5bmneeCYcZKdQu+pJ5YhZz2OtbbgnoMZk2Y4vf0XtJqXtTzxyqkfx179rt+2PRsLmHyalOBPIBaceRYtvzLE6QrA9tA3CBmWTzrkh1zh+0E5N/PiEvHu/0aXB5+wpTiKt+dLg==;BsVinsF57Lt8Ra+4gqw7KA=="
 ---
 
