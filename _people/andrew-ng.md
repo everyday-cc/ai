@@ -28,7 +28,7 @@ linkedin:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=mG4imMEAAAAJ
-  citations: 209620
+  citations: 209845
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Andrew_Ng
