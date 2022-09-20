@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-driverless-
 webUrl: "https://www.marketwatch.com/press-release/self-driving-driverless-cars-market-application-householdcommercial-sales-revenue-manufacturers-suppliers-key-players-2022-to-2028-2022-09-16"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: MarketWatch
@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Self Propelled Feed Mixers Market 2022 Driving Factor Analysis with Trend and Forecast to 2028"
+    excerpt: "The report first establishes the Self Propelled Feed Mixers market by glancing at the descriptions, types, and market overview. It also understands the different details of the item, production network,"
+    publishedDateTime: 2022-09-19T02:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-propelled-feed-mixers-market-2022-driving-factor-analysis-with-trend-and-forecast-to-2028-2022-09-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
 
 secured: "9wsQ/X6okRp+OEIYLHzrrDze/N66a27bYOqzZCCugDU/+6+UUXob7QSgxfD3db2B+6ERanKsvrUUnSbPdxXcEsai0wqQeWOupyLTzMz6oyMQ3jtzH0VSi2uQQy4ZRqI7YPuq70z02rB9lHsn2YZq28q5+r3F6Vr8lbH3tGbV+nWEZ7GXywYIncit7HzjT2wLbCdWTxqbBku4e201AjZGCHGXp76Twv2Ya340RLDsVn7bhYR+zLLz5wBZiEQGn90ACH/V3iSBLLpVVG7EuRrvOgEck9mq7NZTUQ126JN+AgfxMB4gHOvlKv05maTPAKoAG0hQAWHaOQpWVjJ4hGW12sdTgoBJHMWsYKkm4H6Atgk=;PP8m5FR6nOMcgvkcNBaEGQ=="
 ---

@@ -2,6 +2,39 @@
   "page": 147,
   "value": [
     {
+      "path": "_news/2022-05-26-intrado-offers-mosaicx-conversational-artificial-intelligence-on-google-cloud-marketplace.md",
+      "title": "Intrado Offers Mosaicx Conversational Artificial Intelligence on Google Cloud Marketplace",
+      "excerpt": "Intrado Corporation, a global leader in technology-enabled services, today announced Mosaicx, its conversational artificial intelligence (“AI”) solution, is now available on Google Cloud Marketplace.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-57554ef7b9c1eb51e45f1967359ce9d5",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-57554ef7b9c1eb51e45f1967359ce9d5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-26-baidu-beats-revenue-estimates-helped-by-ai-cloud-services.md",
       "title": "Baidu beats revenue estimates helped by AI, cloud services",
       "excerpt": "Last month Baidu received permits to deploy robotaxis without humans in the driving seat on open Chinese roads for the first time. read more Apollo Go, Baidu's robotaxi service, currently ...",
@@ -1034,49 +1067,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-satya-nadela-announces-microsofts-new-technologies-at-build-conference-2022.md",
-      "title": "Satya Nadela Announces Microsoft’s New Technologies at Build Conference 2022",
-      "excerpt": "Kindly share this postMicrosoft Build Conference 2022 kicked off on Tuesday May 24 with Microsoft CEO Satya Nadela talking about ten new technologies that are “coming together as a powerful platform” to help developers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nigeriacommunicationsweek.com.ng/satya-nadela-announces-microsofts-new-technologies-at-build-conference-2022/",
-      "originalUrl": "https://www.nigeriacommunicationsweek.com.ng/satya-nadela-announces-microsofts-new-technologies-at-build-conference-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nigeriacommunicationsweek.com.ng/wp-content/uploads/2022/05/Microsoft-Build-2022-CEO-speecgh-2-1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T16:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "nigeriacommunicationsweek",
-        "domain": "nigeriacommunicationsweek.com.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

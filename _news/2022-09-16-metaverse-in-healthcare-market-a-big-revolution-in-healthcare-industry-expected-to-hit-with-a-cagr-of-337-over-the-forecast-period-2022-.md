@@ -33,6 +33,15 @@ related:
         width: 1186
         height: 641
         isCached: true
+  - title: "Artificial Intelligence in Radiology Market Size is Projected to Reach USD 461.1 Million and Grow at CAGR 35.9% Over Forecasts Period 2022-2028"
+    excerpt: "Artificial Intelligence in Radiology Market is valued at USD 53.9 Million in 2021 and expected to reach USD 461.1 Million by 2028 with a CAGR of 35.9% over the forecast period. Sc"
+    publishedDateTime: 2022-09-19T09:48:00Z
+    webUrl: "https://www.medgadget.com/2022/09/artificial-intelligence-in-radiology-market-size-is-projected-to-reach-usd-461-1-million-and-grow-at-cagr-35-9-over-forecasts-period-2022-2028.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
   - title: "Automotive Artificial Intelligence Market Report 2022: Rising Industrial Automation to Drive Growth - ResearchAndMarkets.com"
     excerpt: "The global automotive artificial intelligence market size is projected to grow from USD 2.3 Billion in 2022 to USD 7.0 Billion by 2027, it is expected to grow at a CAGR of 24.1% from 2022 to 2027. The key factors contributing to the growth of the automotive artificial intelligence market include the growing adoption of ADAS technology by OEMs and the increasing use of AI to make buying decisions."
     publishedDateTime: 2022-09-19T09:33:00Z

@@ -39,15 +39,6 @@ related:
         width: 440
         height: 264
         isCached: true
-  - title: "BT and Atos join forces on new Digital Vision offering as part of multi-million pound partnership"
-    excerpt: "As part of a multi-million pound partnership, BT and Atos today launch Digital Vision — a new computer vision solution that will help revolutionise industries, including manufacturing and logistics among others."
-    publishedDateTime: 2022-09-15T13:44:00Z
-    webUrl: "https://www.telecomtv.com/content/ai-analytics-automation/bt-and-atos-join-forces-on-new-digital-vision-offering-as-part-of-multi-million-pound-partnership-45438/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 0
 
 secured: "6cvVdTQamg6l+tlYw29JT5d/Iv9S+s1kOqsghkpSv7MZB1XEnDl8Qf2XHeS0PS2LjURNV99HeGS0O7IuorzytWYuBdQkgv3i4J4kgH4D+3TG/anlWMw2Yi7e6KmP4YPeVAR3lCy1kSNAWqrKUNXQXmoCwhB2SwGsVJjJKZz9RQBNqPYiM7Sxfl2iuArxLiSsv55ZIOmnM9KJ6NDjdnGEo+kQ5mDEYekLcgnxP/X9iei/1OVjT1aw3ilZCF6VQ6KEybWlI9PTaVyiBAoJXIUf/GRXswySzGLqZ6cyjYx8Y2FFgyprkVC+RPE5v2TqKE5Dt760woU7mbwt/nq5v3nsgWyPc2y3z4SeNZr3RA4oYompnOyOvi2dMLNmGBpfuYndB58zoZeOBRkAd2x/cOe2NLSJHW9WhPSvzBdKV3kEKNXMV6/kRwgykLSgZbb3cpag16m2tAYpewmrmJVqXvzEBXX/um4MCkaaz5xO4xyJWEBAqlNNqKl2llHESGq5ggxLgtRt+57qmaL66ofrWcvhFg==;EFNgXkE9iy3+oOa2zhjtDQ=="
 ---

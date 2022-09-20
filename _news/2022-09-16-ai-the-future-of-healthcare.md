@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalbankingandfinance.com/ai-the-future-of-healthcare/
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/ai-the-future-of-healthcare/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision and the Future of Retail"
-    excerpt: "Computer Vision isn’t necessarily new, but its value to retailers is rapidly increasing. The overall value of the Computer Vision market is expected to reach $33 billion by 2025, up from just $2.9 billion in 2018."
-    publishedDateTime: 2022-09-15T14:00:00Z
-    webUrl: "https://www.retailtouchpoints.com/resources/computer-vision-and-the-future-of-retail"
-    type: article
-    provider:
-      name: Retail TouchPoints
-      domain: retailtouchpoints.com
-    quality: 54
-    images:
-      - url: "http://www.retailtouchpoints.com/wp-content/uploads/2022/09/RTP_Asset_Mockup_Sensormatic.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Five reasons why AI is the future of banking"
     excerpt: "As Artificial Intelligence in Finance is expected to transform the way people interact with money, ITP.net along with NetApp dwells into the how AI is the future of banking and keys to spark innovation and drive revenue."
     publishedDateTime: 2022-09-19T11:04:00Z

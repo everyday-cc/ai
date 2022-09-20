@@ -2,6 +2,50 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2022-08-30-use-of-facial-recognition-as-security-tool-on-parliament-hill-would-pose-risks-study.md",
+      "title": "Use of facial recognition as security tool on Parliament Hill would pose risks: study",
+      "excerpt": "The use of facial recognition technology as a security tool on Parliament Hill would pose substantial legal, privacy and human rights risks -- and might even be unlawful, says a study prepared for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ctvnews.ca/politics/use-of-facial-recognition-as-security-tool-on-parliament-hill-would-pose-risks-study-1.6047069",
+      "originalUrl": "https://www.ctvnews.ca/politics/use-of-facial-recognition-as-security-tool-on-parliament-hill-would-pose-risks-study-1.6047069",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/national/politics/2022/8/29/1_6047069/_jcr_content/root/responsivegrid/image.coreimg.jpg",
+          "width": 1020,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/national/politics/2022/8/29/1_6047069.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/politics/2022/8/29/1_6047069.amp.html",
+      "publishedDateTime": "2022-08-29T13:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-coauthor-stanford-experiments-with-human-ai-collaborative-writing.md",
       "title": "CoAuthor: Stanford experiments with human-AI collaborative writing",
       "excerpt": "Researchers at Stanford have been studying how humans and AI can write together by designing large interaction datasets.",
@@ -1118,58 +1162,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-artificial-intelligence-in-iot-market-worldwide-demand-development-growth-and-business-attractions-2028-uptake-c3-iot-hitachi-ptc-aws.md",
-      "title": "Artificial Intelligence in IoT Market Worldwide Demand, Development Growth and Business Attractions 2028 | Uptake, C3 IoT, Hitachi, PTC, AWS",
-      "excerpt": "The Artificial Intelligence in IoT report offers in-depth assessment of the growth and other aspects of the Artificial Intelligence in IoT market in important regions. Key regions covered in the report are North America,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-worldwide-demand-development-growth-and-business-attractions-2028-uptake-c3-iot-hitachi-ptc-aws-2022-08-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-worldwide-demand-development-growth-and-business-attractions-2028-uptake-c3-iot-hitachi-ptc-aws-2022-08-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T01:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

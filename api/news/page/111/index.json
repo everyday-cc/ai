@@ -2,6 +2,49 @@
   "page": 111,
   "value": [
     {
+      "path": "_news/2022-06-21-sea-machines-debuts-ai-ris-computer-vision-for-commercial-vessels.md",
+      "title": "Sea Machines Debuts AI-ris Computer Vision for Commercial Vessels",
+      "excerpt": "Marine perception sensor aims to provide high-def situational awareness to eliminate at-sea collisions and allisionsSea",
+      "sourceUrl": null,
+      "webUrl": "https://www.marinetechnologynews.com/news/machines-debuts-computer-vision-620557",
+      "originalUrl": "https://www.marinetechnologynews.com/news/machines-debuts-computer-vision-620557",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.marinetechnologynews.com/images/maritime/w800/image-courtesy-machines-133099.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "marinetechnologynews.com",
+        "domain": "marinetechnologynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-slimai-introduces-beta-software-supply-chain-container-security-as-a-service.md",
       "title": "Slim.AI introduces beta software supply chain container security as a service",
       "excerpt": "Want to make sure your code is safe? Slim.AI helps you secure your containerized programs with its \"Four S Approach\" -- Software Bill of Materials (SBOM), signing, slimming, and sharing.",
@@ -1085,40 +1128,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-childhood-obesity-may-affect-cognitive-function-in-midlife-study-finds.md",
-      "title": "Childhood obesity may affect cognitive function in midlife, study finds",
-      "excerpt": "Photo (c) Md Saiful Islam Khan - Getty Images A new study conducted by researchers from Monash University explored how childhood obesity may impact consumers’ cognitive function as they go into ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.consumeraffairs.com/news/childhood-obesity-may-affect-cognitive-function-in-midlife-study-finds-062122.html",
-      "originalUrl": "https://www.consumeraffairs.com/news/childhood-obesity-may-affect-cognitive-function-in-midlife-study-finds-062122.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ConsumerAffairs",
-        "domain": "consumeraffairs.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

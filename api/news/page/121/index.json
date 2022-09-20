@@ -2,6 +2,50 @@
   "page": 121,
   "value": [
     {
+      "path": "_news/2022-06-14-jidu-auto-to-begin-sales-of-l4-robocar-this-year.md",
+      "title": "Jidu Auto to begin sales of L4 robocar this year",
+      "excerpt": "CEO Xia Yiping said the production model shares 90% of its content with the Robo-01 concept car and would be equipped with a Level-4 autonomous driving system developed by Baidu which does not ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.just-auto.com/news/jidu-auto-to-begin-sales-of-l4-robocar-this-year/",
+      "originalUrl": "https://www.just-auto.com/news/jidu-auto-to-begin-sales-of-l4-robocar-this-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2021/07/2017-06-20-13-21-continentalautonomousdriving2_cropped_90.jpg",
+          "width": 424,
+          "height": 282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Just Auto",
+        "domain": "just-auto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-jidu-auto-steps-up-to-roll-out-mass-produced-robocars.md",
       "title": "Jidu Auto steps up to roll out mass-produced robocars",
       "excerpt": "Smart electric vehicle company Jidu Auto, a joint venture established by Chinese tech giant Baidu Inc and carmaker Geely Holding Group, plans to launch its first mass-produced robocar model in the coming autumn and open the first self-owned store in the fourth quarter of this year.",
@@ -1078,40 +1122,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-stanford-engineers-develop-tiny-robots-to-bring-health-care-closer-to-precisely-targeted-drug-delivery.md",
-      "title": "Stanford engineers develop tiny robots to bring health care closer to precisely targeted drug delivery",
-      "excerpt": "... also provides untethered control for non-invasive operation and separates the control unit from the device to allow for miniaturization. Zhao said their most recent robot, featured this month in Nature Communications, is “the most robust and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/955421",
-      "originalUrl": "https://www.eurekalert.org/news-releases/955421",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

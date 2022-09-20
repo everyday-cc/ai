@@ -2,6 +2,59 @@
   "page": 115,
   "value": [
     {
+      "path": "_news/2022-06-17-how-ai-powered-pricing-improves-margins-and-protects-consumers.md",
+      "title": "How AI-powered pricing improves margins and protects consumers",
+      "excerpt": "AI-powered pricing done right means consumers will enjoy personalized offers and prices set squarely in their comfort zone.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/20/how-ai-powered-pricing-improves-margins-and-protects-consumers/",
+      "originalUrl": "https://venturebeat.com/2022/06/20/how-ai-powered-pricing-improves-margins-and-protects-consumers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-928173784.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/20/how-ai-powered-pricing-improves-margins-and-protects-consumers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/20/how-ai-powered-pricing-improves-margins-and-protects-consumers/amp/",
+      "publishedDateTime": "2022-06-16T20:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-06-17-ai-in-computer-vision-market-2022-global-industry-share-growth-drivers-emerging-technologies-and-forecast-2028.md",
       "title": "AI in Computer Vision Market 2022 Global Industry Share, Growth, Drivers, Emerging Technologies, and Forecast 2028",
       "excerpt": "The AI in Computer Vision market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape ...",
@@ -1078,49 +1131,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families.md",
-      "title": "Ukraine is using controversial facial recognition tech to identify the dead and reunite families",
-      "excerpt": "To build a case for war crimes, the country has been using software by Clearview AI, a firm fined in the UK for collecting images of social media users.",
-      "sourceUrl": null,
-      "webUrl": "https://scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families",
-      "originalUrl": "https://scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s01.sgp1.cdn.digitaloceanspaces.com/book/175818-upjeejhxrg-1655298615.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families",
-      "cdnAmpWebUrl": "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families",
-      "publishedDateTime": "2022-06-16T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scroll",
-        "domain": "scroll.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

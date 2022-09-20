@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/09/19/meta-alumni-startup-truefoundry-se
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/19/meta-alumni-startup-truefoundry-seed-funding-sequoia-surge-machine-learning/amp/"
 type: article
 quality: 100
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -31,6 +31,24 @@ images:
     height: 800
     isCached: true
 
-secured: "NQxvdjSlpdYzTk3VO+Wi+XXMpAtjKc0LQ1qhmX0Uj3E4uIfTdSaNBKDlSYHZe0aVzKvPVoDxPBuIkJRBJD5/LYblhoghce2OpPpv9OkmPvvUgRBymQD9gRuroy0LP5JrnrftzvfNkJ265qhLYjkpHjHVWfNWZlQxWXgbqlKg4IkMxKJpUCIkHrvvgd3e5Ny1Vpq0s36iXbXhX3xfeQBlGX785zMsbFE9RqaZKXwMMbuYxBE2tw0/YetUauSfmautIFTAcJVisGVD3XTWn3qhwZOY/CvHlAjGq7rYZlpzQvNsNtLrcFgmRyGdqqEMnBVy5X4nSp8LjhIm4Y07JAKyvgVmk9I8hil7/RcFUwnqhOc=;ipkWMGRKJ8jF+EgBcgR2/A=="
+related:
+  - title: "Machine learning developer TrueFoundry raises $2.3 mn in seed funding"
+    excerpt: "TrueFoundry, a machine learning (ML) developer, has raised $2.3 million in seed funding led by Sequoia India and Southeast Asia's Surge. Other investors in the round included Eniac Ventures and Naval Ravikant,"
+    publishedDateTime: 2022-09-20T06:09:00Z
+    webUrl: "https://www.business-standard.com/article/companies/machine-learning-developer-truefoundry-raises-2-3-mn-in-seed-funding-122092000343_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/machine-learning-developer-truefoundry-raises-2-3-mn-in-seed-funding-122092000343_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/machine-learning-developer-truefoundry-raises-2-3-mn-in-seed-funding-122092000343_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 74
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-03/16/full/1615837220-0307.jpg"
+        width: 620
+        height: 464
+        isCached: true
+
+secured: "VrjvsSbqv63zbges+T0CI9cqvOsfhCMHsW0JEIURCMLmxtONUnPD4jQYlOHq4DgRtjhOw/hsPLSHQgrnDaVebvR1a4S6wsPvVsdmeLp4klGQlCK2XvQdstOnImClrv0bpjalkclIxttjYRu8C/jO4+WAM4vGmk3nthWL7jMTidxPG8OOeDNEAkBJ3N5Ez4l4ZWQA3DYur6wjsr7flCuqC8b247adznenIzvdr0jH9pRdoDh2m8vP3KBABlo2AMdxqtFpmIsh2VDZ34IZ1o+VgZ2EpOMMqLcqEUMlXTYTsObT3/iSzcJQuhSbsXviS/etDoec09om8gGFRq8l234Xe3PiTPyYpm0TDKIRJ6KOeDwehtS2sJA4LGNsqd4KBXTJHlqjzpwuTAxT9+G5+kCmcRYdsASMxix/xeHKprJw9UWFz8uXVMnzZmEuTSdJoeZR10o6RB/WZE6onzlTax7xVs5GSoXX9ZpaddxbmYgZ5Byp+T+TAtGtvU7D6TwUjNOntQXEJPoQ5vkvB3gNyGbw/w==;52cgociR2itK0D5UIeXzqg=="
 ---
 

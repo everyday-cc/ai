@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla Sued Over Alleged False Autopilot, Full Self Driving Claims"
-    excerpt: "Tesla is facing a class-action lawsuit that accuses the electric car maker of misleading the public by falsely advertising its Autopilot and Full Self-Driving (FSD) features. The complaint, filed Wednesday in the US District Court Northern District of California,"
-    publishedDateTime: 2022-09-15T14:27:00Z
-    webUrl: "https://www.pcmag.com/news/tesla-sued-over-alleged-false-autopilot-full-self-driving-claims"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 99
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/02rZlMJXru91gBwYbJqXocl-1.fit_lim.size_1200x630.v1663239854.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Tesla expands its Full Self-Driving Beta to 60,000 more owners"
     excerpt: "Beta program for the first time in a long time. After adding 60,000 additional owners, Tesla’s FSD Beta will have over 160,000 people in the program. The FSD Beta program enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,"
     publishedDateTime: 2022-09-19T22:03:00Z
@@ -109,22 +95,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Tesla drivers sue over alleged false Autopilot, Full Self-Driving claims"
-    excerpt: "Class-action suit says tech \"just around the corner\" doesn't actually exist, and was just used to drum up sales Tesla was sued on Wednesday in a proposed class action accusing Elon Musk’s electric car company of misleading the public by falsely advertising its Autopilot and Full Self-Driving features."
-    publishedDateTime: 2022-09-15T14:58:00Z
-    webUrl: "https://driving.ca/auto-news/news/tesla-drivers-sue-over-alleged-false-autopilot-full-self-driving-claims"
-    ampWebUrl: "https://driving.ca/auto-news/news/tesla-drivers-sue-over-alleged-false-autopilot-full-self-driving-claims/wcm/52990a28-2d52-4a43-9df4-8161f4872480/amp/"
-    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/news/tesla-drivers-sue-over-alleged-false-autopilot-full-self-driving-claims/wcm/52990a28-2d52-4a43-9df4-8161f4872480/amp/"
-    type: article
-    provider:
-      name: blogs.driving.ca
-      domain: driving.ca
-    quality: 73
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/driving/wp-content/uploads/2022/02/Tesla-wall-connector-EV-charger-plug-cable-home-garage.png"
-        width: 1800
-        height: 1200
-        isCached: true
   - title: "Tesla 'Full Self-Driving' Beta opens to another 60,000 testers"
     excerpt: "Tesla is expanding the number of testers of its Full Self-Driving beta program in North America. There's now a total of 160,000 in the trial."
     publishedDateTime: 2022-09-20T03:13:00Z
@@ -171,15 +141,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Tesla has now been sued over Musk’s Full Self-Driving claims"
-    excerpt: "Tesla has found itself the target of a recent lawsuit filed in San Francisco. The suit comes from a Tesla owner claiming that Elon Musk has acted “deceptively and misleadingly w"
-    publishedDateTime: 2022-09-15T13:16:00Z
-    webUrl: "https://knowtechie.com/tesla-has-now-been-sued-over-musks-full-self-driving-claims/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 34
   - title: "Self-driving cars put HB2813 to the test"
     excerpt: "With more self-driving cars on our roads, we are in new territory when it comes to determining fault during accidents and properly protecting ourselves."
     publishedDateTime: 2022-09-16T16:46:00Z

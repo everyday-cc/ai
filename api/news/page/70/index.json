@@ -2,6 +2,48 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2022-07-24-new-discovery-on-mental-illness-indicators-using-the-ai.md",
+      "title": "New Discovery on Mental Illness Indicators Using the AI",
+      "excerpt": "Georgia State researchers develop artificial intelligence models that learn as they go to discover novel brain patterns linked to mental illness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/new-discovery-on-mental-illness-indicators-using-the-ai-208032-1.htm",
+      "originalUrl": "https://www.medindia.net/news/new-discovery-on-mental-illness-indicators-using-the-ai-208032-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/artificial-intelligence-can-detect-stroke-and-dementia-risk.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/new-discovery-on-mental-illness-indicators-using-the-ai-208032-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-discovery-on-mental-illness-indicators-using-the-ai-208032-1.htm",
+      "publishedDateTime": "2022-07-23T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-23-azure-synapse-vs-databricks-data-platform-comparison.md",
       "title": "Azure Synapse vs. Databricks: Data Platform Comparison",
       "excerpt": "For those wanting a top-class data warehouse for analytics, Azure Synapse wins. But for those needing more robust ELT (extract, load, transform), data science, and machine learning features ...",
@@ -1084,41 +1126,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-cybersecurity-ceo-enlisting-machine-learning-to-combat-fraud.md",
-      "title": "Cybersecurity CEO: Enlisting Machine Learning to Combat Fraud",
-      "excerpt": "With regards to using artificial intelligence, we use machine learning very heavily, and that's just because of the sheer volume of traffic we're looking for adversaries and their trends can be quite low volume compared to the aggregate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud",
-      "originalUrl": "https://www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud?amp",
-      "publishedDateTime": "2022-07-22T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -41,20 +41,6 @@ related:
         width: 3000
         height: 2126
         isCached: true
-  - title: "Truist launches Truist Assist"
-    excerpt: "Truist Financial Corporation (NYSE: TFC), today announced the launch of Truist Assist in its mobile banking app and online banking platform for personal banking (retail and wealth) clients. This AI-enhanced virtual assistant is the bank’s latest example of its T3,"
-    publishedDateTime: 2022-09-15T13:02:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-charlotte-artificial-intelligence-3c47d97e388335e62d93c2ea7d7acd5d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Truist Assist platform launched for personal banking"
     excerpt: "Truist Financial Corp. launched Thursday its Truist Assist mobile banking app and online banking platform for personal banking (retail and wealth) customers."
     publishedDateTime: 2022-09-15T20:05:00Z

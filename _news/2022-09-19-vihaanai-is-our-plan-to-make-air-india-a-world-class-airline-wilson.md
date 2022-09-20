@@ -9,7 +9,7 @@ ampWebUrl: "https://www.traveldailymedia.com/vihaan-ai-is-our-plan-to-make-air-i
 cdnAmpWebUrl: "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/vihaan-ai-is-our-plan-to-make-air-india-a-world-class-airline-wilson/amp/"
 type: article
 quality: 57
-heat: 69
+heat: 68
 published: false
 
 provider:

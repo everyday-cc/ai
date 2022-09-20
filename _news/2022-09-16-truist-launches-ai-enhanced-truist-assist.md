@@ -9,7 +9,7 @@ ampWebUrl: "https://www.autofinancenews.net/allposts/innovation-technology/truis
 cdnAmpWebUrl: "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/innovation-technology/truist-launches-ai-enhanced-truist-assist/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://www.retailbankerinternational.com/wp-content/uploads/sites/2/2022/09/chatbot-ga1312f040_1920-1038x778.jpg"
         width: 1038
         height: 778
-        isCached: true
-  - title: "Truist launches Truist Assist"
-    excerpt: "Truist Financial Corporation (NYSE: TFC), today announced the launch of Truist Assist in its mobile banking app and online banking platform for personal banking (retail and wealth) clients. This AI-enhanced virtual assistant is the bank’s latest example of its T3,"
-    publishedDateTime: 2022-09-15T13:02:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-charlotte-artificial-intelligence-3c47d97e388335e62d93c2ea7d7acd5d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Truist Assist platform launched for personal banking"
     excerpt: "Truist Financial Corp. launched Thursday its Truist Assist mobile banking app and online banking platform for personal banking (retail and wealth) customers."

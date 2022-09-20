@@ -2,6 +2,58 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2022-07-13-lime-has-built-its-own-camera-based-sidewalk-detection-technology.md",
+      "title": "Lime has built its own camera-based sidewalk detection technology",
+      "excerpt": "At a Lime event in Paris, the startup shared plans to pilot an in-house built computer vision platform that will leverage cameras to detect when users are riding on the sidewalk. While it will be ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/13/lime-has-built-its-own-camera-based-sidewalk-detection-technology/",
+      "originalUrl": "https://techcrunch.com/2022/07/13/lime-has-built-its-own-camera-based-sidewalk-detection-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/image_6483441-e1657681037469.jpg?w=1024",
+          "width": 1024,
+          "height": 665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/13/lime-has-built-its-own-camera-based-sidewalk-detection-technology/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/13/lime-has-built-its-own-camera-based-sidewalk-detection-technology/amp/",
+      "publishedDateTime": "2022-07-13T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-13-owlets-cam-2-video-monitor-uses-ai-to-predict-if-a-baby-is-truly-crying.md",
       "title": "Owlet's Cam 2 video monitor uses AI to predict if a baby is truly crying",
       "excerpt": "Owlet is giving tired parents new tools they can use to (hopefully) get little bit more sleep than what they're getting with a baby in the house. The company has launched the Owlet Cam 2, which uses AI and machine learning to decipher sounds from the nursery and determine whether the baby is truly crying.",
@@ -996,49 +1048,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-brad-pitt-believes-he-has-rare-face-blindness-disorder-what-is-it.md",
-      "title": "Brad Pitt Believes He Has Rare 'Face Blindness' Disorder -- What Is It?",
-      "excerpt": "It can be caused at birth from damage in a part of the brain called the fusiform gyrus, which is considered a key structure for high-level visual interpretation like facial and object recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/health-news/articles/2022-07-12/brad-pitt-believes-he-has-rare-face-blindness-disorder-what-is-it",
-      "originalUrl": "https://www.usnews.com/news/health-news/articles/2022-07-12/brad-pitt-believes-he-has-rare-face-blindness-disorder-what-is-it",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-12T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

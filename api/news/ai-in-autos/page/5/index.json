@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-25-lyft-and-motionals-new-electric-robotaxis-now-offering-rides-in-las-vegas.md",
+      "title": "Lyft and Motional's New Electric Robotaxis Now Offering Rides in Las Vegas",
+      "excerpt": "The updated ride comes ahead of Lyft and Motional's plans to offer a fully driverless service in the city in 2023. The Hyundai Ioniq 5-based car (Motional is a joint venture company between ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/lyft-and-motionals-new-electric-robotaxis-now-offering-rides-in-las-vegas/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/lyft-and-motionals-new-electric-robotaxis-now-offering-rides-in-las-vegas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/c752f13170ff1355ede91cf58e7cf5dd48a85687/2022/08/22/4b3e9a87-fb25-46cb-a631-6d8b8641422b/ioniq-motional-lyft-branded.jpg?auto=webp&fit=crop&height=630&precrop=1824,1025,x126,y99&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/lyft-and-motionals-new-electric-robotaxis-now-offering-rides-in-las-vegas/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lyft-and-motionals-new-electric-robotaxis-now-offering-rides-in-las-vegas/",
+      "publishedDateTime": "2022-08-24T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-25-lyft-and-motional-unveil-driverless-robotaxi-in-vegas.md",
       "title": "Lyft And Motional Unveil Driverless Robotaxi In Vegas",
       "excerpt": "Lyft and Motional have partnered to launch Motional's new all-electric IONIQ 5-based robotaxi, an autonomous vehicle designed for fully driverless ride-hail operation, on the Lyft network in Las ...",
@@ -1345,58 +1397,6 @@
         "AI in Healthcare",
         "AI in Autos",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-global-agricultural-robots-market-to-generate-usd-3593-billion-by-2030-outlines-a-new-report-by-next-move-strategy-consulting.md",
-      "title": "Global Agricultural Robots Market to Generate USD 35.93 Billion by 2030, Outlines a New Report by Next Move Strategy Consulting",
-      "excerpt": "The research provides the Covid-19 analysis along with the impact on the global agricultural robots market size. Equipping the thorough analysis about every aspect of the market in 256 pages accompanied by 141 tables and 111 figures,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-agricultural-robots-market-to-generate-usd-3593-billion-by-2030-outlines-a-new-report-by-next-move-strategy-consulting-2022-08-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-agricultural-robots-market-to-generate-usd-3593-billion-by-2030-outlines-a-new-report-by-next-move-strategy-consulting-2022-08-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

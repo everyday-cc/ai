@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-in/news-and-trends/rephraseai-rais
 webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/rephraseai-raises-106-million-in-series-a-funding/435460"
 type: article
 quality: 67
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -89,20 +89,6 @@ related:
       - url: "http://res.cloudinary.com/dmgi9movl/image/upload/v1663254202/press_release/assets/header_images/Untitled_1500_700_px_2_l1zeun.png"
         width: 1500
         height: 700
-        isCached: true
-  - title: "AI startup Sigmoid raises $12 million from Sequoia Capital"
-    excerpt: "AI solutions provider Sigmoid has raised $12 million funding from Sequoia Capital India today. With the current round being a mix of primary and secondary funding, Sequoia has invested $19.3 million in Sigmoid till date."
-    publishedDateTime: 2022-09-15T13:48:00Z
-    webUrl: "https://analyticsindiamag.com/ai-startup-sigmoid-raises-12-million-from-sequoia-capital/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/09/HCL-Banner-3-1-1300x650.png"
-        width: 1300
-        height: 650
         isCached: true
   - title: "Video AI Startup Rephrase.ai Raises $10.6 mn in Series A Round by Red Ventures"
     excerpt: "According to a statement, the funding round was led by Red Ventures; witnessed participation from investors like 8VC among several others, including Silver Lake, one of the leading technology investors with stakes in Red Ventures."

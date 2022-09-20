@@ -41,6 +41,15 @@ related:
       name: Medgadget
       domain: medgadget.com
     quality: 0
+  - title: "Artificial Intelligence in Radiology Market Size is Projected to Reach USD 461.1 Million and Grow at CAGR 35.9% Over Forecasts Period 2022-2028"
+    excerpt: "Artificial Intelligence in Radiology Market is valued at USD 53.9 Million in 2021 and expected to reach USD 461.1 Million by 2028 with a CAGR of 35.9% over the forecast period. Sc"
+    publishedDateTime: 2022-09-19T09:48:00Z
+    webUrl: "https://www.medgadget.com/2022/09/artificial-intelligence-in-radiology-market-size-is-projected-to-reach-usd-461-1-million-and-grow-at-cagr-35-9-over-forecasts-period-2022-2028.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
 
 secured: "X1UOz4A6NMqSN4nGI95G0vnbxa80euL5rKwLqBebwRW+zYYiHLZniuYb95I4q75o+jfpDiimaN1yf5OK3dOvLeOtcFcQUoZq+ba5OZr7ABY/DSWx7dlqyDCKvsjeKJghtT5rnD4FtyJIEz2mNVo2KC3LJl41vG1+T0hFsrNo0ingROiswxam4tcbt1I3bEBuPXBLTdICgXa2PCqfFogQC04oBYODxVKil6rDxL2LQ5/ed6367JwfgQtLXH7+kcHnq2J6MTJvFODybzeD7URVyEPJtZHtuFcw1nj8822OHygelyx0Tl5rwzVi7M2vKmuhD8H7kMkbTfgpvyU/C0wyKFYPUH0P8fiTuHGvCbMuEjU=;ZwBiuATxuKtJN5JNpGNnwQ=="
 ---

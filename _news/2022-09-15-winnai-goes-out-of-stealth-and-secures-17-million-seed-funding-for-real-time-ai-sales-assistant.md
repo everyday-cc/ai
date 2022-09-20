@@ -87,20 +87,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "AI startup Sigmoid raises $12 million from Sequoia Capital"
-    excerpt: "AI solutions provider Sigmoid has raised $12 million funding from Sequoia Capital India today. With the current round being a mix of primary and secondary funding, Sequoia has invested $19.3 million in Sigmoid till date."
-    publishedDateTime: 2022-09-15T13:48:00Z
-    webUrl: "https://analyticsindiamag.com/ai-startup-sigmoid-raises-12-million-from-sequoia-capital/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/09/HCL-Banner-3-1-1300x650.png"
-        width: 1300
-        height: 650
-        isCached: true
   - title: "Video AI Startup Rephrase.ai Raises $10.6 mn in Series A Round by Red Ventures"
     excerpt: "According to a statement, the funding round was led by Red Ventures; witnessed participation from investors like 8VC among several others, including Silver Lake, one of the leading technology investors with stakes in Red Ventures."
     publishedDateTime: 2022-09-16T07:14:00Z
