@@ -125,6 +125,22 @@ related:
         width: 1800
         height: 1200
         isCached: true
+  - title: "Tesla 'Full Self-Driving' Beta opens to another 60,000 testers"
+    excerpt: "Tesla is expanding the number of testers of its Full Self-Driving beta program in North America. There's now a total of 160,000 in the trial."
+    publishedDateTime: 2022-09-20T03:13:00Z
+    webUrl: "https://thewest.com.au/lifestyle/motoring/tesla-full-self-driving-beta-opens-to-another-60000-testers-c-8298561"
+    ampWebUrl: "https://thewest.com.au/lifestyle/motoring/tesla-full-self-driving-beta-opens-to-another-60000-testers-c-8298561.amp"
+    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/lifestyle/motoring/tesla-full-self-driving-beta-opens-to-another-60000-testers-c-8298561.amp"
+    type: article
+    provider:
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 59
+    images:
+      - url: "https://images.thewest.com.au/publication/C-8298561/33ab8ab90c437f19f3113d454c3fed1f7d1f65af-16x9-x0y209w4000h2250.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Drivers Sue Tesla Because Full Self-Driving Isn't Actually Full Self-Driving"
     excerpt: "Tesla is being sued for misleading the public by calling its controversial driver assistance features \"Autopilot\" and \"Full Self-Driving,\" Reuters reports."
     publishedDateTime: 2022-09-16T17:08:00Z
@@ -140,20 +156,6 @@ related:
       - url: "https://wp-assets.futurism.com/2022/09/drivers-sue-tesla-full-self-driving-600x315.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Tesla sued by drivers over alleged false Autopilot, Full Self-Driving claims"
-    excerpt: "Tesla Inc was sued on Wednesday in a proposed class action accusing Elon Musk's electric car company of misleading the public by falsely advertising its Autopilot and Full Self-Driving features. The complaint accused Tesla and Musk of having since 2016 deceptively advertised the technology as fully functioning or 'just around the corner' despite knowing that the technology did not work or was nonexistent,"
-    publishedDateTime: 2022-09-15T09:21:00Z
-    webUrl: "https://www.carsifu.my/news/tesla-sued-by-drivers-over-alleged-false-autopilot-full-self-driving-claims"
-    type: article
-    provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 51
-    images:
-      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/09/autopilot.jpg"
-        width: 1024
-        height: 916
         isCached: true
   - title: "Tesla Faces Class-Action Suit Over “Deceptive” Claims About Autopilot and Full Self-Driving Tech"
     excerpt: "Tesla and its CEO Elon Musk have been hit by a class-action lawsuit filed in federal court claiming they “deceptively and misleadingly” overstated the capabilities of the automaker’s Autopilot and Full Self-Driving vehicle technologies."

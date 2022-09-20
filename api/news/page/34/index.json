@@ -2,126 +2,6 @@
   "page": 34,
   "value": [
     {
-      "path": "_news/2022-08-20-senior-living-cognitive-rehab-may-help-older-adults-clear-coivd-related-brain-fog.md",
-      "title": "Senior living: Cognitive rehab may help older adults clear COIVD-related brain fog",
-      "excerpt": "It’s a suite of interventions designed to help people recover from brain injuries, if possible, and adapt to ongoing cognitive impairment. Services are typically provided by speech and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailybreeze.com/2022/08/19/senior-living-cognitive-rehab-may-help-older-adults-clear-coivd-related-brain-fog/",
-      "originalUrl": "https://www.dailybreeze.com/2022/08/19/senior-living-cognitive-rehab-may-help-older-adults-clear-coivd-related-brain-fog/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T14:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Breeze",
-        "domain": "dailybreeze.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-20-iplcontent-presents-voiceimage-recognition-technologies-for-in-car-apps.md",
-      "title": "IpLContent Presents Voice/Image Recognition Technologies for In-Car Apps",
-      "excerpt": "but the challenge of this resides in the complexity of voice recognition. You may wish to look up directions with Google Maps, play a playlist from Spotify, or call your friend from your car all during a single driving session. So how does a driver safely ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/iplcontent-presents-voice-image-recognition-technologies-for-in-car-apps/",
-      "originalUrl": "https://www.01net.it/iplcontent-presents-voice-image-recognition-technologies-for-in-car-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.01net.it/iplcontent-presents-voice-image-recognition-technologies-for-in-car-apps/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/iplcontent-presents-voice-image-recognition-technologies-for-in-car-apps/amp/",
-      "publishedDateTime": "2022-08-19T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-20-microsoft-teams-will-turn-you-into-a-language-whizz-with-zero-effort.md",
-      "title": "Microsoft Teams will turn you into a language whizz with zero effort",
-      "excerpt": "Ploughing through Microsoft Teams using your school-level foreign languages may soon be a thing of the past thanks to a new update. The video conferencing tool has announced another upgrade to its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/microsoft-teams-will-turn-you-into-a-language-whizz-with-zero-effort",
-      "originalUrl": "https://www.techradar.com/news/microsoft-teams-will-turn-you-into-a-language-whizz-with-zero-effort",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-20-inflation-flat-for-the-first-time-in-decades-forbes-ai-newsletter-august-13th.md",
       "title": "Inflation Flat For The First Time In Decades: Forbes AI Newsletter - August 13th",
       "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
@@ -1146,6 +1026,125 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-otterai-slashes-free-monthly-transcription-minutes-to-300-but-opens-recorder-bot-to-all.md",
+      "title": "Otter.ai slashes free monthly transcription minutes to 300, but opens recorder bot to all",
+      "excerpt": "There’s good news and bad news for users of the Otter.ai transcription service. The good news is that Otter Assistant — a bot that can be configured to record meetings automatically — will now be available to everyone,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/19/otter-ai-slashes-free-monthly-transcription-minutes-to-300-but-opens-recorder-bot-to-all/",
+      "originalUrl": "https://techcrunch.com/2022/08/19/otter-ai-slashes-free-monthly-transcription-minutes-to-300-but-opens-recorder-bot-to-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/Otter-changes.jpg?w=680",
+          "width": 680,
+          "height": 566,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/19/otter-ai-slashes-free-monthly-transcription-minutes-to-300-but-opens-recorder-bot-to-all/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/19/otter-ai-slashes-free-monthly-transcription-minutes-to-300-but-opens-recorder-bot-to-all/amp/",
+      "publishedDateTime": "2022-08-19T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-5-best-self-driving-stocks-to-invest-in.md",
+      "title": "5 Best Self-Driving Stocks To Invest In",
+      "excerpt": "The company’s DRIVE Chauffeur platform is an artificial intelligence assisted driving ... Not only is Orin the world’s fastest self-driving computer, but NVIDIA Corporation (NASDAQ:NVDA ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-self-driving-stocks-to-invest-in-1058088/4/",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-self-driving-stocks-to-invest-in-1058088/4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-19T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-natural-language-processing-market-nlp-demands-key-players-size-growth-trends-technology-and-forecasts-to-2027-reportsnreports.md",
+      "title": "Natural Language Processing Market (NLP) Demands, Key Players, Size, Growth, Trends, Technology and Forecasts to 2027 - ReportsnReports",
+      "excerpt": "PUNE, India, Aug. 19, 2022 /PRNewswire/ -- ReportsnReports added Global Natural Language Processing (NLP) Market Report to its research database with its 336 no. of research pages report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/natural-language-processing-market-nlp-demands-key-players-size-growth-trends-technology-and-forecasts-to-2027-reportsnreports-807719247.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/natural-language-processing-market-nlp-demands-key-players-size-growth-trends-technology-and-forecasts-to-2027-reportsnreports-807719247.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-19T01:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

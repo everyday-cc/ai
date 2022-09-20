@@ -2,135 +2,6 @@
   "page": 24,
   "value": [
     {
-      "path": "_news/2022-08-28-sticker-makes-police-aware-of-those-with-cognitive-disabilities.md",
-      "title": "Sticker makes police AWARE of those with cognitive disabilities",
-      "excerpt": "Families may help police and protect their loved ones with cognitive disabilities just by placing a sticker on their front door. The AWARE stickers alert police, firefighters, and medics that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.goshennews.com/indiana/news/sticker-makes-police-aware-of-those-with-cognitive-disabilities/article_c0625cad-48e1-5f0d-a762-ebe41060c600.html",
-      "originalUrl": "https://www.goshennews.com/indiana/news/sticker-makes-police-aware-of-those-with-cognitive-disabilities/article_c0625cad-48e1-5f0d-a762-ebe41060c600.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/goshennews.com/content/tncms/assets/v3/editorial/0/ee/0ee27cdd-003e-5b66-bcf8-7d2345a7d5a7/63097b12bb12a.image.jpg",
-          "width": 268,
-          "height": 227,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-28T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Goshen News",
-        "domain": "goshennews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-28-1-machine-learning-stock-down-56-to-buy-hand-over-fist.md",
-      "title": "1 Machine Learning Stock Down 56% to Buy Hand Over Fist",
-      "excerpt": "Machine learning is a subfield of artificial intelligence, and it's primarily used to make sense of mountains of data to deliver valuable insights to the end user. Thanks to companies like Splunk ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist",
-      "originalUrl": "https://www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-28T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-28-the-labor-shortage-is-killing-american-manufacturing-heres-how-ai-can-bring-it-back-to-life.md",
-      "title": "The Labor Shortage Is Killing American Manufacturing. Here’s How AI Can Bring It Back To Life.",
-      "excerpt": "The manufacturing labor shortage has paved the way for widespread deployment of some very exciting innovations in Artificial Intelligence for manufacturing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glenngow/2022/08/28/the-labor-shortage-is-killing-american-manufacturing-heres-how-ai-can-bring-it-back-to-life/",
-      "originalUrl": "https://www.forbes.com/sites/glenngow/2022/08/28/the-labor-shortage-is-killing-american-manufacturing-heres-how-ai-can-bring-it-back-to-life/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/630a2dd5ded4dcda937d1fd9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2022/08/28/the-labor-shortage-is-killing-american-manufacturing-heres-how-ai-can-bring-it-back-to-life/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2022/08/28/the-labor-shortage-is-killing-american-manufacturing-heres-how-ai-can-bring-it-back-to-life/amp/",
-      "publishedDateTime": "2022-08-28T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-28-one-mans-dream-of-fusing-ai-with-common-sense.md",
       "title": "One Man’s Dream of Fusing A.I. With Common Sense",
       "excerpt": "Artificial intelligence systems can process vast amounts of data in seconds, but they can’t make sense of the world or explain their decisions. David Ferrucci wants to change that.",
@@ -1123,6 +994,136 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-27-fintech-and-msmes-are-together-changing-the-face-of-digitalisation.md",
+      "title": "Fintech and MSMEs are together changing the face of digitalisation",
+      "excerpt": "Fintech companies are betting on the power of AI, machine learning, and big data to drive growth and innovation in the MSME sector. The fintech space has witnessed enormous success in the Asia ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/smbstory/fintech-startups-msme-sector-small-businesses-changing-face-of-digitalisation-india/amp",
+      "originalUrl": "https://yourstory.com/smbstory/fintech-startups-msme-sector-small-businesses-changing-face-of-digitalisation-india/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/21/0a385fc03e6011e999df3d1594bbde2c/Imageybe01574423681172jpg ",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/smbstory/fintech-startups-msme-sector-small-businesses-changing-face-of-digitalisation-india/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/smbstory/fintech-startups-msme-sector-small-businesses-changing-face-of-digitalisation-india/amp",
+      "publishedDateTime": "2022-08-26T19:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YourStory",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-27-how-artificial-intelligence-is-finding-critical-heart-failure-patients.md",
+      "title": "How artificial intelligence is finding critical heart failure patients",
+      "excerpt": "Over 6 million American adults suffer from heart failure. But now, doctors are harnessing AI technology to catch the problem before it's fatal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wqad.com/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
+      "originalUrl": "https://www.wqad.com/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.tegna-media.com/assets/WQAD/images/995c409e-08a4-4d28-9233-f96e3239ae90/995c409e-08a4-4d28-9233-f96e3239ae90_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wqad.com/amp/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
+      "cdnAmpWebUrl": "https://www-wqad-com.cdn.ampproject.org/c/s/www.wqad.com/amp/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
+      "publishedDateTime": "2022-08-26T16:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WQAD",
+        "domain": "wqad.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-27-warren-buffett-bullish-on-driverless-trucks-after-purchasing-stake-in-kodiak-robotics.md",
+      "title": "Warren Buffett bullish on driverless trucks after purchasing stake in Kodiak Robotics",
+      "excerpt": "This investment is a significant validation by Berkshire Hathaway, through Pilot, that driverless trucks are on the cusp of being a reality. It may be hard and even scary to imagine an 18-wheeler ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/mobility-report/why-warren-buffett-bullish-driverless-trucks",
+      "originalUrl": "https://www.autonews.com/mobility-report/why-warren-buffett-bullish-driverless-trucks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/buffett_0.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-26T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

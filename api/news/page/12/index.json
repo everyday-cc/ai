@@ -2,162 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2022-09-06-detect-audio-events-with-amazon-rekognition.md",
-      "title": "Detect audio events with Amazon Rekognition",
-      "excerpt": "When most people think of using machine learning (ML) with audio data, the use case that usually comes to mind is transcription, also known as speech-to-text. However, there are other useful applications, including using ML to detect sounds. Using software to detect a sound is called audio event detection,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-audio-events-with-amazon-rekognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-audio-events-with-amazon-rekognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/30/ML-8724-image003-1249x630.png",
-          "width": 1249,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T10:44:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-can-ai-help-oracle-take-on-salesforce-to-boost-b2b-sales.md",
-      "title": "Can AI help Oracle take on Salesforce to boost B2B sales?",
-      "excerpt": "It's clear that Oracle is looking to use AI to compete with Salesforce, as well as fend off startups such as Gong and Salesloft.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/can-ai-help-oracle-take-on-salesforce-to-boost-b2b-sales/",
-      "originalUrl": "https://venturebeat.com/ai/can-ai-help-oracle-take-on-salesforce-to-boost-b2b-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/02/274958137_a67abab71b_o.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/can-ai-help-oracle-take-on-salesforce-to-boost-b2b-sales/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/can-ai-help-oracle-take-on-salesforce-to-boost-b2b-sales/amp/",
-      "publishedDateTime": "2022-09-06T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-15-smart-ways-retail-businesses-should-be-using-ai.md",
-      "title": "15 Smart Ways Retail Businesses Should Be Using AI",
-      "excerpt": "From better predicting their inventory needs to managing and supporting their employees, retail businesses can leverage AI to improve their operations and their customers’ experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/06/15-smart-ways-retail-businesses-should-be-using-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/06/15-smart-ways-retail-businesses-should-be-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/631753214643d7543ec89c1a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/06/15-smart-ways-retail-businesses-should-be-using-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/06/15-smart-ways-retail-businesses-should-be-using-ai/amp/",
-      "publishedDateTime": "2022-09-06T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-07-springml-renews-its-machine-learning-specialization-in-the-google-cloud-partner-advantage-program.md",
       "title": "SpringML Renews its Machine Learning Specialization in the Google Cloud Partner Advantage Program",
       "excerpt": "Partners achieving this specialization have demonstrated success with data exploration, preprocessing, model training, model evaluation, model deployment, online prediction, and Google pretrained Machine Learning APIs.",
@@ -1129,6 +973,145 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-federal-bank-backs-kerala-based-robotics-and-automation-startup-asimov-robotics.md",
+      "title": "Federal Bank Backs Kerala-based Robotics and Automation Startup ASIMOV Robotics",
+      "excerpt": "Federal Bank Backs Kerala-based Robotics and Automation Startup ASIMOV Robotics Pvt Ltd, a firm innovating in the robotics space",
+      "sourceUrl": null,
+      "webUrl": "https://www.indianweb2.com/2022/09/federal-bank-backs-kerala-based.html",
+      "originalUrl": "https://www.indianweb2.com/2022/09/federal-bank-backs-kerala-based.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAiOWqN7HglghM6w5t0XUtEeaUT6ncFiKamfkVfCHu0I_CouDLquzSsjgQzFBY5HfifUJqrlVbonMkJwVvDt-4C6hqgErJwYjPrLofHdDKjg_QYXD0mCkLKYBE8EZF6xAAEjb9wxTMEnHn7cChpuRlWAooa6RVTASj43V35iITV-soA-LkpIEeEOea/s16000/asimov-robotics.jpg",
+          "width": 900,
+          "height": 643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-05T22:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "indianweb2.com",
+        "domain": "indianweb2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-should-you-worry-about-the-new-face-recognition-system-at-airports.md",
+      "title": "Should you worry about the new face recognition system at airports?",
+      "excerpt": "Organisations like the Internet Freedom Foundation and many other activists have slammed the project stating that the system could be misused in a country where there is no data protection or privacy laws.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rediff.com/business/report/tech-should-you-worry-about-the-new-face-recognition-system-at-airports/20220906.htm",
+      "originalUrl": "https://www.rediff.com/business/report/tech-should-you-worry-about-the-new-face-recognition-system-at-airports/20220906.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://im.rediff.com/345-230/news/2022/jun/ransomware-o.jpg",
+          "width": 345,
+          "height": 230,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.rediff.com/amp/business/report/tech-should-you-worry-about-the-new-face-recognition-system-at-airports/20220906.htm",
+      "cdnAmpWebUrl": "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/tech-should-you-worry-about-the-new-face-recognition-system-at-airports/20220906.htm",
+      "publishedDateTime": "2022-09-05T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "rediff.com",
+        "domain": "rediff.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-ai-ethics-why-you-should-care.md",
+      "title": "AI Ethics: Why You Should Care",
+      "excerpt": "The confluence of sensor technology, the internet, massive computational resources, and AI - have led to a world where companies may know more about you than your family and friends (and maybe even more than you know about yourself!",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nishatalagala/2022/09/05/ai-ethics-why-you-should-care/",
+      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2022/09/05/ai-ethics-why-you-should-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6316952483979c27434fdbec/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2022/09/05/ai-ethics-why-you-should-care/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2022/09/05/ai-ethics-why-you-should-care/amp/",
+      "publishedDateTime": "2022-09-05T19:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     }

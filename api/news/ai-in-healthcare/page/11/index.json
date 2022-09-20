@@ -2,58 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2022-05-14-paradox-artificial-intelligence-helps-solve-but-suffers-from-skills-shortages.md",
-      "title": "Paradox: Artificial Intelligence Helps Solve, But Suffers From Skills Shortages",
-      "excerpt": "We don’t have enough people to build the AI systems that can automate business areas that don’t have enough people, latest IBM survey shows.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/05/14/paradox-artificial-intelligence-helps-solve-but-suffers-from-skills-shortages/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/05/14/paradox-artificial-intelligence-helps-solve-but-suffers-from-skills-shortages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//5fe0e38e220093c48951892b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/05/14/paradox-artificial-intelligence-helps-solve-but-suffers-from-skills-shortages/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/05/14/paradox-artificial-intelligence-helps-solve-but-suffers-from-skills-shortages/amp/",
-      "publishedDateTime": "2022-05-14T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-05-14-ai-trends-to-watch-out-for-in-digital-healthcare.md",
       "title": "AI trends to watch out for in digital healthcare",
       "excerpt": "The advent of new age technologies has influenced and affected several sectors and healthcare has also received its share of transformation. Today, the healthcare sector looks much different than it did just a decade",

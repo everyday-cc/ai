@@ -42,15 +42,6 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 19
-  - title: "Ecobank Partners with AMA Academy to Launch First Pan-African Fintech Training and Awards for Journalists"
-    excerpt: "Ecobank Partners with AMA Academy to Launch First Pan-African Fintech Training and Awards for Journalists  - The Maravi Post"
-    publishedDateTime: 2022-09-15T10:59:00Z
-    webUrl: "https://www.maravipost.com/ecobank-partners-with-ama-academy-to-launch-first-pan-african-fintech-training-and-awards-for-journalists/"
-    type: article
-    provider:
-      name: The Maravi Post
-      domain: maravipost.com
-    quality: 17
 
 secured: "0y9ZbNVHRdsRZbvkrPlyfLqQXm2uerVNKfxFfL4xncarhWcBDmYGyC7U49eeI8n3PWWFuUBHCUlEDllig326ov+XpDYHwkQvMs0vQF0HmEUPPrwHjr6BUINDTXbjmJNcMHaS6Svbozika+Gz+k9svWoI/KuJHUUtiadtv1gGPjoSNad2lSecQTdM9np5mieYrqEwC14eEwnyNRbAgWG1yMIwkH6v8fg0AuTBvYJw4fWckG6MGhMvVJ0Ir91DUNHT9nxC8H8P6sKErFijYZWrPaQLJRMj0vRVAxdCQT0OunZch0oa3Iy0LLaTu8KelY1ma1rkHs6UAXCLqUne7emR3NHnX1vSGU4EJ8+kQK5tCnWcCWgb42KxkC44rBwscv6AIhX0VRoSRzJ8Sp26S00cirDKdCfsk1L1/nAgb2WGhXeW94N/KE40U3qD3u6EGb+2Lx+edXgszda0lPUztdBCgbi1HjuBLB4q/aMizteV3dDgyheYWkqdLOpJzVeKzlJR4UG/PnjZRuKW166+VLjl+w==;M5Y8aG2WZaHYYN63Dsv2fg=="
 ---

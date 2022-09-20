@@ -2,6 +2,51 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-05-19-machine-learning-framework-pytorch-enabling-gpu-accelerated-training-on-apple-silicon-macs.md",
+      "title": "Machine Learning Framework PyTorch Enabling GPU-Accelerated Training on Apple Silicon Macs",
+      "excerpt": "In collaboration with the Metal engineering team at Apple, PyTorch today announced that its open source machine learning framework will soon support GPU-accelerated model training on Apple silicon Macs powered by M1, M1 Pro, or M1 Max chips. Until now ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.macrumors.com/2022/05/18/pytorch-gpu-accelerated-training-apple-silicon/",
+      "originalUrl": "https://www.macrumors.com/2022/05/18/pytorch-gpu-accelerated-training-apple-silicon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.macrumors.com/t/j1xq0VbOUNTowCRcKQkyv9DRnM0=/2000x/article-new/2022/05/pytorch.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MacRumors",
+        "domain": "macrumors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-18-crystal-group-brings-ai-to-power-grid-with-first-gpu-accelerated-substation-servers.md",
       "title": "Crystal Group Brings AI to Power Grid With First GPU-Accelerated Substation Servers",
       "excerpt": "Crystal Group, Inc., a leading designer and manufacturer of rugged computer and electronic hardware, announced today its release of the first GPU-accelerated substation servers designed to bring cutting-edge artificial intelligence (AI) capabilities to the utilities market.",

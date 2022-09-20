@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-08-17-remote-communities-in-sask-get-advanced-healthcare-thanks-to-ai-project.md",
-      "title": "Remote communities in Sask. get advanced healthcare thanks to AI project",
-      "excerpt": "An artificial intelligence (AI) project is expanding healthcare for remote communities in Saskatchewan. Synthesis Health has delivered portable x-ray machines to Peter Ballantyne Cree Nation. According to the company’s chief medical officer,",
-      "sourceUrl": null,
-      "webUrl": "https://saskatoon.ctvnews.ca/mobile/remote-communities-in-sask-get-advanced-healthcare-thanks-to-ai-project-1.6029570",
-      "originalUrl": "https://saskatoon.ctvnews.ca/mobile/remote-communities-in-sask-get-advanced-healthcare-thanks-to-ai-project-1.6029570",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/local/saskatoon/2022/8/16/1_6029570/_jcr_content/root/responsivegrid/image.coreimg.png",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/local/saskatoon/2022/8/16/1_6029570.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/saskatoon/2022/8/16/1_6029570.amp.html",
-      "publishedDateTime": "2022-08-16T15:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-16-natural-language-processing-nlp-in-healthcare-market-is-expected-to-boom-3m-cerner-ibm.md",
       "title": "Natural Language Processing (NLP) in Healthcare Market Is Expected to Boom- 3M, CERNER, IBM",
       "excerpt": "New Jersey, N.J., Aug 16, 2022 The Natural Language Processing (NLP) in Healthcare Market research report provides all the information related to the industry. It gives the outlook of the market ...",
@@ -1383,6 +1340,40 @@
       "provider": {
         "name": "emjreviews.com",
         "domain": "emjreviews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-artificial-intelligence-shows-promise-in-diagnosing-strokes.md",
+      "title": "Artificial Intelligence Shows Promise in Diagnosing Strokes",
+      "excerpt": "This type of stroke is typically treated by endovascular therapy (EVT). During this procedure ... 19th Annual Meeting proposes using artificial intelligence (AI) technology to identify the cause of a stroke more quickly. The patient would undergo a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.labroots.com/trending/clinical-and-molecular-dx/23276/artificial-intelligence-promise-diagnosing-strokes",
+      "originalUrl": "https://www.labroots.com/trending/clinical-and-molecular-dx/23276/artificial-intelligence-promise-diagnosing-strokes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.labroots.com/trending/clinical-and-molecular-dx/23276/artificial-intelligence-promise-diagnosing-strokes/amp",
+      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/clinical-and-molecular-dx/23276/artificial-intelligence-promise-diagnosing-strokes/amp",
+      "publishedDateTime": "2022-08-04T11:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Labroots",
+        "domain": "labroots.com",
         "images": null,
         "publishers": null,
         "authors": null

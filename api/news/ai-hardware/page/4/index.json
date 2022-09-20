@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-16-artificial-intelligenceaichips-market-share-size-growth-global-growth-analysis-trends-industry-analysis-key-players-and-forecast-to-2027.md",
+      "title": "Artificial Intelligence(AI)Chips Market Share, Size, Growth Global Growth Analysis, Trends, Industry Analysis, Key Players and Forecast to 2027",
+      "excerpt": "Aug 16, 2022 (The Expresswire) -- Global Artificial Intelligence(AI)Chips Market research report 2022 provides comprehensive information about market overview, modern trends, demand, and recent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligenceaichips-market-share-size-growth-global-growth-analysis-trends-industry-analysis-key-players-and-forecast-to-2027-2022-08-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligenceaichips-market-share-size-growth-global-growth-analysis-trends-industry-analysis-key-players-and-forecast-to-2027-2022-08-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T01:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-china-sees-spike-in-ai-chipmakers-amid-surging-demand-for-nevs.md",
       "title": "China sees spike in AI chipmakers amid surging demand for NEVs",
       "excerpt": "With the growing market for new energy vehicles (NEVs) in China, many enterprises have stepped into the sector to produce chips urgently needed for NEVs.",
@@ -1380,58 +1423,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-nemo-megatron-reinforces-nvidia-ai-leadership-in-large-language-models.md",
-      "title": "NeMo Megatron Reinforces NVIDIA AI Leadership In Large Language Models",
-      "excerpt": "Transformer-based large language models (LLMs) are reshaping the AI landscape today. Since OpenAI established the now generally accepted scaling laws of transformers with GPT-3 in 2020, AI companies have been exerting extreme effort to stay at the vanguard ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/07/28/nemo-megatron-reinforces-nvidia-ai-leadership-in-large-language-models/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/07/28/nemo-megatron-reinforces-nvidia-ai-leadership-in-large-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62e2c812fa6527c5a904717f/0x0.png?format=png&width=1200",
-          "width": 638,
-          "height": 310,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/07/28/nemo-megatron-reinforces-nvidia-ai-leadership-in-large-language-models/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/07/28/nemo-megatron-reinforces-nvidia-ai-leadership-in-large-language-models/amp/",
-      "publishedDateTime": "2022-07-28T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

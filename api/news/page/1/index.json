@@ -400,48 +400,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-19-vihaanai-is-our-plan-to-make-air-india-a-world-class-airline-wilson.md",
-      "title": "Vihaan.AI is our plan to make Air India a world class airline: Wilson",
-      "excerpt": "Air India has unveiled its comprehensive transformation plan, to establish itself, as a world-class global airline.",
-      "sourceUrl": null,
-      "webUrl": "https://www.traveldailymedia.com/vihaan-ai-is-our-plan-to-make-air-india-a-world-class-airline-wilson/",
-      "originalUrl": "https://www.traveldailymedia.com/vihaan-ai-is-our-plan-to-make-air-india-a-world-class-airline-wilson/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.traveldailymedia.com/assets/2022/09/shutterstock_308709242-scaled.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.traveldailymedia.com/vihaan-ai-is-our-plan-to-make-air-india-a-world-class-airline-wilson/amp/",
-      "cdnAmpWebUrl": "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/vihaan-ai-is-our-plan-to-make-air-india-a-world-class-airline-wilson/amp/",
-      "publishedDateTime": "2022-09-18T22:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Travel Daily Media",
-        "domain": "traveldailymedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-19-even-smartest-ai-models-dont-match-human-visual-processing-study.md",
       "title": "Even smartest AI models don't match human visual processing: Study",
       "excerpt": "Deep convolutional neural networks (DCNNs) do not see objects the way humans do -- using configural shape perception -- and that could be dangerous in real-world",
@@ -923,59 +881,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-17-self-driving-driverless-cars-market-application-householdcommercial-sales-revenue-manufacturers-suppliers-key-players-2022-to-2028.md",
-      "title": "Self-Driving & Driverless Cars Market Application Household,Commercial Sales, Revenue, Manufacturers, Suppliers, Key Players 2022 to 2028",
-      "excerpt": "One of the industries with the greatest growth is the \" Self-Driving & Driverless Cars Market .\" It is extremely important for Self-Driving & Driverless Cars Market players to first carry out a comprehensive Self-Driving & Driverless Cars Market analysis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-driverless-cars-market-application-householdcommercial-sales-revenue-manufacturers-suppliers-key-players-2022-to-2028-2022-09-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-driverless-cars-market-application-householdcommercial-sales-revenue-manufacturers-suppliers-key-players-2022-to-2028-2022-09-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T13:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
       "path": "_news/2022-09-17-artists-begin-selling-ai-generated-artwork-on-stock-photography-websites.md",
       "title": "Artists begin selling AI-generated artwork on stock photography websites",
       "excerpt": "Seeking ways to \"monetize\" AI-generated art, some artists have already begun submitting their AI-generated pieces to stock photography websites like Shutterstock.com. Searches for \"AI generated\" or \"Midjourney\" (a popular image synthesis service) produce thousands of results on the site.",
@@ -1224,6 +1129,110 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-read-webpages-and-highlight-content-using-amazon-polly.md",
+      "title": "Read webpages and highlight content using Amazon Polly",
+      "excerpt": "In this post, we demonstrate how to use Amazon Polly—a leading cloud service that converts text into lifelike speech—to read the content of a webpage and highlight the content as it’s being read. Adding audio playback to a webpage improves the accessibility and visitor experience of the page. Audio-enhanced",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/read-webpages-and-highlight-content-using-amazon-polly/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/read-webpages-and-highlight-content-using-amazon-polly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/31/image001-8-917x630.png",
+          "width": 917,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-16T08:23:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-how-to-use-ai-to-maximize-your-inflation-relief-payments.md",
+      "title": "How To Use AI To Maximize Your Inflation Relief Payments",
+      "excerpt": "Over a dozen states have or will send inflation relief payments to citizens to lessen the burden of inflation. Here's how to use that money.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/09/16/how-to-use-ai-to-maximize-your-inflation-relief-payments/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/09/16/how-to-use-ai-to-maximize-your-inflation-relief-payments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6324907cc8e44a5738b00cbd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 753,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/09/16/how-to-use-ai-to-maximize-your-inflation-relief-payments/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/09/16/how-to-use-ai-to-maximize-your-inflation-relief-payments/amp/",
+      "publishedDateTime": "2022-09-16T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

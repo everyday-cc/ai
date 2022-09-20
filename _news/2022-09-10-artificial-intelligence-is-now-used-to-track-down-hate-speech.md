@@ -16,7 +16,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-  - Facebook AI
 
 images:
   - url: "https://cdn.newsy.com/images/videos/m/1660250991_F4WYcV.jpg"
@@ -24,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "3Azu5IMtZ82/0800pIULjV6nQAbDzUFie1MMeVGGUbFk1Jcmt9fF4vabfdGbe+ZJcTpI/T2+4UfgBZNqsnZqjR28F+ORQW7GIX4RZ/ClH9Yr6BctCE9iBZMut4llIo4tfC6bPe4y8iohtu7v55KQ1gTalQ8wznZtHUMovUTKCpbFnyOIQMvUKeV9kJZ3HV7jyTNcrz308eFdKylRO2X6rtZVccclGWSF57vLSfYZ6KwpcRChEm2aHom4MfG6LS5BB8nZnMC5iPLVMzQtT9ybHrM9mAepKKvxLznP9ilC2rpfjhSh9y98I2qwxs07xMD+2BmPR/WinmJv6uxL1Um7KvD5QpYQoWh+FM+2nUfOVtr8tNk5xACNUs9ZTNzeU3fjpPlJLvrfjrfIMD+zEWGt01X3kP8DY3p+nw6AraZbJ6F9hWNMfvaAr2JLGXWgA/yLN3BQsX/IiWrSuHJLrH5GWZ1D0sJxFZx88R0FZuXY2UD6GjAvuZfX3JTQcF8Z6sYyrlbkqVdeUza69V1ctmChKw==;2WCToerPuqPu08cPa6/4MQ=="
+secured: "gfLp+sEPMGZY2ci0QA2DdB8FfXjKwvTwhDpFbrv8/L/qFtGSR6CzoHxnacVY+OuyXa1hFLPR7QBn7XO/uCdicmIVWKCxFHKQB5UDpaMrT2NOmRnL2T4qjOEa+uw709dg0QSlCpy4JT5m+Db3bS00LNDOtM4omBxDVLJ7vVlq9aiAKBShZM8Vh6+WjpFVaabO8F4XVUdLWrAqCHjfL/qJnfFY8VGRHXH3C9IrvJRCdEN6Bskpg3D6rUVs9RXU+GJLYLs6SiqyClKtT7zlgbyOp80nKOI3ZQRQCcQAqwNvmgDDw7rTxhsYULQQkOyyJUMo6E1ddwN7m0iNGqlftPBB/gEr5cEesP+4PjqCtKEFW1A=;EmDg/7ge5CBWeLaPyEqqXg=="
 ---
 

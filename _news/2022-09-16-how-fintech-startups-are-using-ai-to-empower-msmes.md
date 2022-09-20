@@ -9,8 +9,8 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-startup
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-fintech-startups-are-using-ai-to-empower-msmes/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Indiatimes
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "FinTech Power teases details of card issuance platform"
-    excerpt: "Power, the FinTech startup with ambitions to “reshape global commerce”, has teased early progress as they emerge from stealth. <br /> <br /> The move follows $16.1 million in seed funding and a $300 million credit facility."
-    publishedDateTime: 2022-09-15T10:22:00Z
-    webUrl: "https://www.fstech.co.uk/fst/FinTech_Power_teases_details_of_card_issuance_platform.php"
-    type: article
-    provider:
-      name: fstech
-      domain: fstech.co.uk
-    quality: 39
-    images:
-      - url: "https://www.fstech.co.uk/fst/images/credit-card-close-shot-m.jpg"
-        width: 5301
-        height: 2982
-        isCached: true
   - title: "Fintech Kyriba Launches Cash Management AI"
     excerpt: "Kyriba, which claims to be a global leader of Cloud-powered finance and IT solutions, recently announced the launch of Cash Management AI."
     publishedDateTime: 2022-09-16T23:31:00Z

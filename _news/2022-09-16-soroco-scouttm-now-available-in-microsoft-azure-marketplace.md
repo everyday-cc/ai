@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/soroco-scouttm-now-available-in-micro
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/soroco-scouttm-now-available-in-microsoft-azure-marketplace/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 534
     height: 462
     isCached: true
-
-related:
-  - title: "Microsoft unleashes Azure Orbital Ground Station"
-    excerpt: "New as a service offering will leverage Microsoft’s partner network, including KSAT, to help satellite operators operate at a lower cost and latency"
-    publishedDateTime: 2022-09-15T10:36:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/369080/microsoft-unleashes-azure-orbital-ground-station"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 84
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1630055536/itpro/Microsoft_azure_shutterstock.jpg"
-        width: 1260
-        height: 710
-        isCached: true
 
 secured: "ln7BKowszoZctf8JojMALnkT6sS5VDT5un6u3j73Rscjo2ANsh5EAyAMaft+UnvCJ9/8QCycI5DxwiAperR2QtW/mXWnxFlQDAK2fOVLkqAiWDVZ/XKNaRdVCb21u2hgUy0yzcDUVqxnlCSQ643apJp0LCFQxORBRoNvDb09PYtitIxvG68rYWFjxbsps4WUf8zE67YOByifTBbhTpm8Om+jCfd9kJjO04W4iuwIuNx+SQKXEQZzXBjzZVr/B5TmOrUMQtXC59pl0/vhGa0Zz00ANRu932b5Sg5B5w4vXwWupifRTyji4oHWFHcxxeTtFMZ7+BQbzG+YQb4fy0+9ckTDp99keQ5FpuY4Mwo/CJs=;wzuYNj/aWkAZMkusRmVHqw=="
 ---

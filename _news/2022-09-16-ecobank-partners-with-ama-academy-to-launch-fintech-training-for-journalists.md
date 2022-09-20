@@ -7,7 +7,7 @@ originalUrl: "https://hapakenya.com/2022/09/16/ecobank-partners-with-ama-academy
 webUrl: "https://hapakenya.com/2022/09/16/ecobank-partners-with-ama-academy-to-launch-fintech-training-for-journalists/"
 type: article
 quality: 51
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 19
-  - title: "Ecobank Partners with AMA Academy to Launch First Pan-African Fintech Training and Awards for Journalists"
-    excerpt: "Ecobank Partners with AMA Academy to Launch First Pan-African Fintech Training and Awards for Journalists  - The Maravi Post"
-    publishedDateTime: 2022-09-15T10:59:00Z
-    webUrl: "https://www.maravipost.com/ecobank-partners-with-ama-academy-to-launch-first-pan-african-fintech-training-and-awards-for-journalists/"
-    type: article
-    provider:
-      name: The Maravi Post
-      domain: maravipost.com
-    quality: 17
 
 secured: "l9oB62caKR0LWFBux45vhJ1ePz9jnz0WlwXRxvcLDCyl31p15yzwngFHsvRcvJqMDZk/bShkN/o4gW2zPbVxtmHNoPVdqprmxCpYcbFi2vNZP8mI0chLXffiDz6CbIsu5OaSQ1bJrXQYCLRSpUBCRuLmZxdKOCsb5RKqwVyBUscl15ImJ8Tuu5vNeFYMSBgQ1R9ChJGQbWuBYpcZKP+inrzzh8cal/NoWzIgzry5Nd5obHQYBPqRGYtO67gze77XGDSK0vFMNrkBgnf2Wj1/e30CVdeRI4n2R3JUfY+LaMhkCcg0JtEXQa1XrKTmN6IDwBBXcbuvwQSk3+elyhvUNocoAl33R3nGBG8vZsU9SY2aH6XxAEiAv8VtJApCFOXlF+MEDROK9bDZQPMtZYDpTOGCqz8PV3ce01zHGpxst9jRmzRy+MLIbc3R3H/EGQVQD4TmpEIJX0xfFP8tRoif+F+LDK8XiR8bnzdff3fqSNiDITSs0fDiwJr40aoV9ObOmEfhYW5zkYSbbNxMD3D0Bw==;d2gOnS3Ct3UhkQ5U3cUi0w=="
 ---

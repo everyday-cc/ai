@@ -42,15 +42,6 @@ related:
       name: newbusinessethiopia.com
       domain: newbusinessethiopia.com
     quality: 34
-  - title: "Ecobank Partners with AMA Academy to Launch First Pan-African Fintech Training and Awards for Journalists"
-    excerpt: "Ecobank Partners with AMA Academy to Launch First Pan-African Fintech Training and Awards for Journalists  - The Maravi Post"
-    publishedDateTime: 2022-09-15T10:59:00Z
-    webUrl: "https://www.maravipost.com/ecobank-partners-with-ama-academy-to-launch-first-pan-african-fintech-training-and-awards-for-journalists/"
-    type: article
-    provider:
-      name: The Maravi Post
-      domain: maravipost.com
-    quality: 17
 
 secured: "bAEeKyw0dMvhqGTUj+fy+QtecEDuPrGxShr3J51hAY2fxSSGfiVmdBnaR6/rn6frB+pjp7C/5oVgpbyJ8x7S3oFkDnm245fvTAcUvt3sxhy/RpTHwYPSSe97EI09hJVND61ms5y6lgeOlp1zy/HdM9Ze/XaxzGmWeV7KpYg/r3Hlf0ie4l0t7Vu5mZ2CrNrzycX0IbM2qCElshGOeE8g7KiOTKHvjh2fXp3mLs8TJ7/0E0Dmu5khcJZjSahPulnG5Wkq7pSX/tL5vXKNTjMqL1jcycomtchDhhJ21W/Ynfsya2MnUj0GRi17Yx5UDpoyQhim9Krs0D0eWMWlCUPPwIfc9C2MtFDx7TT/pYRyFnc=;M/nL+CLJP6LdOKcUEuC9XA=="
 ---
