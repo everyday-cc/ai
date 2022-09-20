@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/feature/Putting-artificial-intelligen
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud?amp=1"
 type: article
 quality: 84
-heat: 85
+heat: 86
 published: true
 
 provider:

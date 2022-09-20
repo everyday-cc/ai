@@ -72,22 +72,6 @@ related:
         width: 1080
         height: 724
         isCached: true
-  - title: "AI solutions startup Sigmoid raises $12 million in funding from Sequoia Capital India"
-    excerpt: "Sigmoid will use the capital to evolve its market offerings, expand delivery centers and cater to new industries."
-    publishedDateTime: 2022-09-15T06:23:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/ai-solutions-startup-sigmoid-raises-12-million-in-funding-from-sequoia-capital-india/articleshow/94216111.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/ai-solutions-startup-sigmoid-raises-12-million-in-funding-from-sequoia-capital-india/amp_articleshow/94216111.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/ai-solutions-startup-sigmoid-raises-12-million-in-funding-from-sequoia-capital-india/amp_articleshow/94216111.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 50
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-718914,msid-94216119/ai-solutions-startup-sigmoid-raises-12-million-in-funding-from-sequoia-capital-india.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Winn.AI Goes Out Of Stealth and secures $17 Million Seed Funding for Real-Time AI Sales Assistant"
     excerpt: "The Winn.AI real-time assistant acts as an extra pair of hands during meetings, giving salespeople the freedom to focus their attention entirely on the customer. Conventionally, salespeople are responsible for juggling a multitude of tasks during sales calls: following a precise playbook,"
     publishedDateTime: 2022-09-15T15:11:00Z

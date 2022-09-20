@@ -74,6 +74,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla expands its Full Self-Driving Beta to 60,000 more owners"
+    excerpt: "Beta program for the first time in a long time. After adding 60,000 additional owners, Tesla’s FSD Beta will have over 160,000 people in the program. The FSD Beta program enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,"
+    publishedDateTime: 2022-09-19T22:03:00Z
+    webUrl: "https://electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-owners/"
+    ampWebUrl: "https://electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-owners/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-owners/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 89
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-FSD-Beta-pedestrian-Blue-Ridge-Mountains.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "New Lawsuit Questions Tesla’s Autopilot, Self-Driving Claims"
     excerpt: "Tesla, under federal investigation and facing a California DMV complaint over driver-assistance technology, is accused of deceiving buyers and the public with claims about its \"Autopilot\" and \"self-driving\" systems."
     publishedDateTime: 2022-09-15T15:54:00Z

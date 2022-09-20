@@ -42,15 +42,6 @@ related:
       name: newbusinessethiopia.com
       domain: newbusinessethiopia.com
     quality: 34
-  - title: "Ecobank partners with AMA Academy to launch fintech training and awards for journalists"
-    excerpt: "Ecobank Group, the leading pan-African banking group, has announced its partnership with AMA Academy, which is the only free-to-use pan-African online learning platform that is dedicated to upskilling journalists in Africa."
-    publishedDateTime: 2022-09-15T06:30:00Z
-    webUrl: "https://mediaupdate.co.za/media/152645/ecobank-partners-with-ama-academy-to-launch-fintech-training-and-awards-for-journalists"
-    type: article
-    provider:
-      name: Media Update
-      domain: mediaupdate.co.za
-    quality: 26
   - title: "Ecobank Partners with AMA Academy to Launch First Pan-African Fintech Training and Awards for Journalists"
     excerpt: "Ecobank Partners with AMA Academy to Launch First Pan-African Fintech Training and Awards for Journalists  - The Maravi Post"
     publishedDateTime: 2022-09-15T10:59:00Z

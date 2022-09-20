@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Self-driving cars put HB2813 to the test"
-excerpt: "With more self-driving cars on our roads, we are in new territory when it comes to determining fault during accidents and properly protecting ourselves."
-publishedDateTime: 2022-09-16T16:46:00Z
-originalUrl: "https://azcapitoltimes.com/news/2022/09/16/self-driving-cars-put-hb2813-to-the-test/"
-webUrl: "https://azcapitoltimes.com/news/2022/09/16/self-driving-cars-put-hb2813-to-the-test/"
+title: "Tesla expands its Full Self-Driving Beta to 60,000 more owners"
+excerpt: "Beta program for the first time in a long time. After adding 60,000 additional owners, Tesla’s FSD Beta will have over 160,000 people in the program. The FSD Beta program enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,"
+publishedDateTime: 2022-09-19T22:03:00Z
+originalUrl: "https://electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-owners/"
+webUrl: "https://electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-owners/"
+ampWebUrl: "https://electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-owners/amp/"
+cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-owners/amp/"
 type: article
-quality: 24
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Arizona Capitol Times
-  domain: azcapitoltimes.com
+  name: Electrek
+  domain: electrek.co
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://azcapitoltimes.com/files/2018/02/Waymo-car-620.jpg"
-    width: 620
-    height: 330
+  - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-FSD-Beta-pedestrian-Blue-Ridge-Mountains.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -68,22 +74,6 @@ related:
     quality: 96
     images:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/12/Tesla-Full-Self-Driving-passing-garnage-truck.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Tesla expands its Full Self-Driving Beta to 60,000 more owners"
-    excerpt: "Beta program for the first time in a long time. After adding 60,000 additional owners, Tesla’s FSD Beta will have over 160,000 people in the program. The FSD Beta program enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,"
-    publishedDateTime: 2022-09-19T22:03:00Z
-    webUrl: "https://electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-owners/"
-    ampWebUrl: "https://electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-owners/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-owners/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 89
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-FSD-Beta-pedestrian-Blue-Ridge-Mountains.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
         isCached: true
@@ -188,6 +178,20 @@ related:
       name: KnowTechie
       domain: knowtechie.com
     quality: 34
+  - title: "Self-driving cars put HB2813 to the test"
+    excerpt: "With more self-driving cars on our roads, we are in new territory when it comes to determining fault during accidents and properly protecting ourselves."
+    publishedDateTime: 2022-09-16T16:46:00Z
+    webUrl: "https://azcapitoltimes.com/news/2022/09/16/self-driving-cars-put-hb2813-to-the-test/"
+    type: article
+    provider:
+      name: Arizona Capitol Times
+      domain: azcapitoltimes.com
+    quality: 24
+    images:
+      - url: "https://azcapitoltimes.com/files/2018/02/Waymo-car-620.jpg"
+        width: 620
+        height: 330
+        isCached: true
   - title: "Tesla deceiving public with claims on ‘self-driving’ and ‘Autopilot’ systems, lawsuit alleges"
     excerpt: "The lawsuit, seeking class-action status to bring in hundreds of thousands of Tesla owners, targets claims by the electric car maker and its CEO, Elon Musk, that its $15,000 “Full Self-Driving” package means buyers will soon get a fully-autonomous car,"
     publishedDateTime: 2022-09-15T12:40:00Z
@@ -198,6 +202,6 @@ related:
       domain: dailypress.com
     quality: 23
 
-secured: "6+plsCipbWbPNbEEzjKwPDj6LNkBY46Lj0pITPTbP8wsPNT6KUy1hdnfgw1OUFP/aTqvtnkMmD3OQofVt/gxHah9WFOh/UR1aJHWXWv2ni2vyWzbG4Ki4eaeNgUALaUgW5NjSG+gUddL9Jmkm+glsAFY+hvU/y6TO+UsXn5Tx7HPuw8bbLt+XpmTo3KkgaHA1vHQdfKZQxMDgvzNCbxm0nJH3okpc2ueNmWEATyzegM6+NiMiI5f0TUUf+wdArdDt7BQD6eSOx61Bs7rEbJxyu0Xkc8GKghbhGY3FdsZujTwGIWgNzbuieNFCPUgKFXwQJ2kpbh6gPGHuu/DgggE0FwrSlM8POHQeDPS/yfod58=;T73JLQSMUqSM9QCQ/fNxyA=="
+secured: "GDs7WiS8jwj++nzTeO+6iel1eYHj8DT4TT9nOKJ1vL1QDRvZK6Kr+lYI1qOmRS1q/cBc44xLAklSl8/J/BxpNcIXIZhDC4q67zMOEoyylfrOei5tGULVXs/tSUP6XWthzdAXIbXu77ri4iwAi5jtDC64j7HsjKySVpvL2cycTQxJU8Ubh8xDRld34C5z8nSBPQDFbfBV8ZgJGn35StKyjoHjISrnbQgXkuQ1ZzQ1P3Djq/6k+SK/ibMg8cRkWKAEB2OjoVqqOKmy7Cy/7SPU3SkN4paUI0ausFJEZfbW8N/Smq9NCoPwaPW9Ik9Rh7BROCp0TTT/pd7Uy7mIbXn0jJfEnUacLH6Zz0lB62/wyac=;+6MS57HhE0JBDcnyX2Mrcw=="
 ---
 

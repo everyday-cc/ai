@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-in/news-and-trends/rephraseai-rais
 webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/rephraseai-raises-106-million-in-series-a-funding/435460"
 type: article
 quality: 67
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -59,22 +59,6 @@ related:
       - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/09_sep/15_thu/img_1663260823085_979.jpg?"
         width: 1080
         height: 724
-        isCached: true
-  - title: "AI solutions startup Sigmoid raises $12 million in funding from Sequoia Capital India"
-    excerpt: "Sigmoid will use the capital to evolve its market offerings, expand delivery centers and cater to new industries."
-    publishedDateTime: 2022-09-15T06:23:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/ai-solutions-startup-sigmoid-raises-12-million-in-funding-from-sequoia-capital-india/articleshow/94216111.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/ai-solutions-startup-sigmoid-raises-12-million-in-funding-from-sequoia-capital-india/amp_articleshow/94216111.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/ai-solutions-startup-sigmoid-raises-12-million-in-funding-from-sequoia-capital-india/amp_articleshow/94216111.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 50
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-718914,msid-94216119/ai-solutions-startup-sigmoid-raises-12-million-in-funding-from-sequoia-capital-india.jpg"
-        width: 600
-        height: 450
         isCached: true
   - title: "Generative AI startup Rephrase.ai raises $10.6 million in funding led by Red Ventures"
     excerpt: "Rephrase.ai will use the funds to enhance its capabilities by integrating product experiences; scaling hiring across the business, including within the engineering, AI, product, sales, and marketing teams;"

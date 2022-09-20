@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Biden calls South Africa a vital voice despite Russia stance"
-excerpt: "Biden is praising South Africa as a vital voice on the global stage as he hosts President Cyril Ramaphosa for talks expected to touch on Ukraine and more."
-publishedDateTime: 2022-09-16T22:25:00Z
-originalUrl: "https://www.seattletimes.com/nation-world/nation-politics/biden-s-african-leader-to-discuss-ukraine-trade-climate/"
-webUrl: "https://www.seattletimes.com/nation-world/nation-politics/biden-s-african-leader-to-discuss-ukraine-trade-climate/"
+excerpt: "President Joe Biden praised South Africa as a vital voice on the global stage as he hosted President Cyril Ramaphosa on Friday at the White House for talks that touched on"
+publishedDateTime: 2022-09-16T23:35:00Z
+originalUrl: "https://www.bostonherald.com/2022/09/16/biden-calls-south-africa-a-vital-voice-despite-russia-stance/"
+webUrl: "https://www.bostonherald.com/2022/09/16/biden-calls-south-africa-a-vital-voice-despite-russia-stance/"
+ampWebUrl: "https://www.bostonherald.com/2022/09/16/biden-calls-south-africa-a-vital-voice-despite-russia-stance/amp/"
+cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2022/09/16/biden-calls-south-africa-a-vital-voice-despite-russia-stance/amp/"
 type: article
-quality: 4
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Boston Herald
+  domain: bostonherald.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://www.bostonherald.com/wp-content/uploads/2022/09/US_South_Africa_83884.jpg?w=1024&h=682"
+    width: 1024
+    height: 682
+    isCached: true
 
 related:
   - title: "Biden praises South Africa a vital voice despite neutral stance on Russia"
@@ -36,6 +44,6 @@ related:
         height: 721
         isCached: true
 
-secured: "cyms7Lu43fYilRlmStv3Sx0E0OqNkrk7SEOP2OIc4M6luKXDbLDdHhECGJEvkxjf6lXgStsn+fqBmyikw7/MscaRR0p2y5K9XD8TSI9ArGIDJbfBjEP0ziOGa0vs+YtmKeu51juWdXdsHZp60v8K4TKSitVGZezfbSoI9IGgUDiMKeKQRTxDL1XnrilDXh1I26pDPB6Jm5iOzOJUVNFpAlTNJC/RkFAoQ9v/uASkxcsCM65pvsJp4MEa4Czj+6bvZrmZD1OvsdEVH5unRrfbK/AIRciaHDGdLC3X5WF1nOCX/RpY9Bp00Jy/L12j36kcS2IKYr5vQ6xcjlEAGyOonoqevcn2bbKo41Qb5jX1w69dt7D+sTqIpRT5n9dVFPEbWlMJYCCgChG2nBmBBZ/C0MSsvI/vidGjI7v5E7UZlhD2DUTvM7EbZ2yEBuoYQmiVJ9gZrBkAuSZxYnddp+Z5oOqbrQttSXLQeiiBixat0nxLjlb8HkAZP5zjcEFuuvUFBkXblq7hOvktlaqyX4eBTw==;23IHE8WOwxPWZrpI519jKA=="
+secured: "qecH2BkTZha3lEMaD6Nk6fgchjlTVn8p2VESVecO8CCYSHaHS5cOHWKHdymK2lHNa3jR2XuJ4+vQhIkt/lmdmy2GNDq/REuhl7tcwHJ4r1k3weDqhiQ4AH2GOvC3NGtaTrlKr3+T99HUfyPL6h28v0Suu8w48xBDlK/xleihLHBxCX0YYgajX2IYize/hXl/xM5uwKo8TXzrVK+tUgAZQd6aZSx0clUtRox6ZFAayS7Ue2zXQHDsCSYmxDPqYXk8FuZmST1X1xz84Rn9pplGZ5PbCzr2AECe+7XlC6oD8qCVb4mi9aApGoSN7jOlsUEIm3A4qrffr9b3p8NKMfvy+2MtMF0xBll6RBJbvLB+5IE=;UC+8HpPouCt4+/gaKNapDg=="
 ---
 

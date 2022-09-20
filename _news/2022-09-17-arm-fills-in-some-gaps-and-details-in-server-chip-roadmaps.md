@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2022/09/14/arm-fills-in-some-gaps-and-d
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/09/14/arm-fills-in-some-gaps-and-details-in-server-chip-roadmaps/amp/"
 type: article
 quality: 74
-heat: 76
+heat: 74
 published: true
 
 provider:
