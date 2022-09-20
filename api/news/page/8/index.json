@@ -2,6 +2,154 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-09-09-deep-dive-how-ai-content-generators-work.md",
+      "title": "Deep Dive: How AI content generators work",
+      "excerpt": "AI content generators cannot be subjective, no matter how great the ML training using structured data is, but their uses can be additive to marketing teams.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/deep-dive-how-ai-content-generators-work/",
+      "originalUrl": "https://venturebeat.com/ai/deep-dive-how-ai-content-generators-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/02/ai-marketing-shutterstock_741922060.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/deep-dive-how-ai-content-generators-work/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deep-dive-how-ai-content-generators-work/amp/",
+      "publishedDateTime": "2022-09-09T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests.md",
+      "title": "Beyond Mere Efficiency: Artificial Intelligence is Transforming Culture, Study Suggests",
+      "excerpt": "Executives who saw significant financial benefits from their AI initiatives were 10x more likely to change how they measure success than those who saw no such benefits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/631b608de551689b89d7038c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/amp/",
+      "publishedDateTime": "2022-09-09T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-indika-ai-bets-on-synthetic-data-to-overcome-challenges-of-real-world-data.md",
+      "title": "Indika AI bets on synthetic data to overcome challenges of real-world data",
+      "excerpt": "It is also improving fraud detection in the fintech industry and training language systems. High-quality datasets are required to train artificial intelligence (AI) solutions, so that the ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2022/09/indika-ai-synthetic-data-platform-artificial-intelligence/amp",
+      "originalUrl": "https://yourstory.com/2022/09/indika-ai-synthetic-data-platform-artificial-intelligence/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/d99b1110116911ed9e63f54395117598/shutterstock1279483576-1662557345744.jpeg ",
+          "width": 5500,
+          "height": 4125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2022/09/indika-ai-synthetic-data-platform-artificial-intelligence/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/09/indika-ai-synthetic-data-platform-artificial-intelligence/amp",
+      "publishedDateTime": "2022-09-09T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YourStory",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-09-tech-war-shanghai-ai-chip-maker-with-disgraced-chairman-is-now-chinas-new-hope-in-race-to-catch-up-with-nvidia.md",
       "title": "Tech war: Shanghai AI chip maker with disgraced chairman is now China’s new hope in race to catch up with Nvidia",
       "excerpt": "Nvidia, the leading global supplier of advanced GPUs, was told by the US to stop exporting two of its high-end artificial intelligence (AI) chips to China, prompting Chinese start-ups to fast ...",
@@ -991,144 +1139,6 @@
         "AI",
         "Machine Learning",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-12-ways-ai-is-transforming-how-businesses-interact-with-customers.md",
-      "title": "12 Ways AI Is Transforming How Businesses Interact With Customers",
-      "excerpt": "Many businesses leverage AI’s learning abilities to try to make interactions and transactions faster and easier for the customers they serve.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/08/12-ways-ai-is-transforming-how-businesses-interact-with-customers/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/08/12-ways-ai-is-transforming-how-businesses-interact-with-customers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5fb2a32abeab195130fc0917/0x0.jpg?format=jpg&crop=6000,3375,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/08/12-ways-ai-is-transforming-how-businesses-interact-with-customers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/08/12-ways-ai-is-transforming-how-businesses-interact-with-customers/amp/",
-      "publishedDateTime": "2022-09-08T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-mlcommons-latest-mlperf-ai-benchmark-results-show-machine-learning-inference-advances.md",
-      "title": "MLCommons: Latest MLPerf AI Benchmark Results Show Machine Learning Inference Advances",
-      "excerpt": "The MLPerf Inference benchmarks are focused on datacenter and edge systems, and Alibaba, ASUSTeK, Azure, Biren, Dell ... MLPerf benchmarks are comprehensive system tests that stress machine learning models, software, and hardware, and optionally monitor ...",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2022/09/mlcommoncs-latest-mlperf-ai-benchmark-results-show-machine-learning-inference-advances/",
-      "originalUrl": "https://insidehpc.com/2022/09/mlcommoncs-latest-mlperf-ai-benchmark-results-show-machine-learning-inference-advances/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2021/04/MLCommons-logo.jpg",
-          "width": 500,
-          "height": 261,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-realtime-robotics-raises-144m-for-motion-planning-software.md",
-      "title": "Realtime Robotics raises $14.4M for motion planning software",
-      "excerpt": "Realtime Robotics' RapidPlan software creates and choreographs robot movements without the need for brand-specific robot programming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/realtime-robotics-funding-motion-planning-software/",
-      "originalUrl": "https://www.therobotreport.com/realtime-robotics-funding-motion-planning-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/06/realtime-robotics-kawasaki-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

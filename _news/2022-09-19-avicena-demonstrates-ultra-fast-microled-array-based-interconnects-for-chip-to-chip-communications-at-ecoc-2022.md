@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Avicena demonstrates ultra-fast microLED-array based interconnects for chip-to-chip communications at ECOC 2022"
-excerpt: "Avicena, a privately held company in Mountain View, CA, is demonstrating its LightBundle TM multi-Tbps chip-to-chip interconnect technology at the European Conference for Optical Communications (ECOC) 2022 in Basel,"
-publishedDateTime: 2022-09-19T06:14:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/09/19/9675563.htm"
-webUrl: "https://it.tmcnet.com/news/2022/09/19/9675563.htm"
+excerpt: "Avicena is showing ultra-fast microLED links operating at 14Gbps per lane as part of its LightBundleTM multi-Terabit interconnect technology Avicena, a privately held company in Mountain View, CA, is"
+publishedDateTime: 2022-09-19T04:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/09/b28909046/avicena-demonstrates-ultra-fast-microled-array-based-interconnects-for-chip-to-chip-communications"
+webUrl: "https://www.benzinga.com/pressreleases/22/09/b28909046/avicena-demonstrates-ultra-fast-microled-array-based-interconnects-for-chip-to-chip-communications"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "2TETIztbVpB/j/v2NWvqBy/OpCrzaFexzoB7Bt1bSN1WO5rs02x1V9mIcpLCLnyl+5zTZ6fPwUgnAMr6N2jIb1q7vLj3HeNKrOC4PRImRXOXbv9DfVKMIAsNKbRNdLE0DnPPEBYhpWyVUPG2Hy2qpararcCN9k9h5spa5lpSdI4RbtgQiD5MEXgDc24dPD+0vvVRLAzYZuJ9YscTF/9Ope2naT8ZLtxGTnRHPCF5gmqE7v94Rp9GDAYjjL6IaaxJZmJK6AgxwfwkfuDK07xjGUW2CMkWm8ifViXBhTdvsf+VBdWPHsBLLZhd96djUmbrUJPR2QnFj4lXFC8wtbqcYF+t6DQ/BnmD0v++K2TpjThoMfQ9OimwgPTdeF1C1oKqRg/zCWLd68HKdO9YcrqZ1dzNnND1Djg5wEacMRXQf4Yf0uOR4rNJecIIWBFYNnSHwcDgO8ej8FXVdn/ksCxt/FPgPg1F5BXYMPt3GAMCUxTgJeJQ9Qsc2HDbQzZ3zK21Qxs4C+3vlwEZfQvWLsqyLg==;E/6oPSELG/fsC52W1ZLCgg=="
+secured: "oMpcFZHRhPA+VIRAe/roVtlPQ+fhGwOsu6Jahuw9OdVrWzHpCBdMnGJRwBlNgWnX2xPjrciSDN/EPj+VCWH/oRDSrqNAYgUMAm7+PknW2SoA4w/ZUw9nWd4cVJorqaLM91d+gqJLt0sKGQMkC6pA91Q4Ch/y7Z6gsYDFi+3GgEKqGsQJF6uuYk9wOfEiv002ug76GPpn+YX1RoNpY25tQXNF24uwlQYguEJxlVK3mQzDSKBzsyXC3q91GDTzkjN6s3ob/S1Vd+EHJ3n5yEUUYIqlwcxuuL5t/DNvHT3ES4n25BCRVw2HLwWKXS4AN0NaLUK8oJXyR1s4z8RYfQR9cVoZKI7Vzbt/JquY8AMhdU2ctxdfD83o33dlA8Jgmk5Kwakg0HkdLrbtd+LePywUKkhQsjpSXaKqlGAiDngMqMWd37TITntqoo1z/5OAgBo4cr2LceJYVkW1L5kvOmNEp9CiFKbUEU6nnkBJFJNAoo0N8waoismLSPKjLL4lwxY3xaJ93Ifjvu91NmsChP5TWQ==;RN3JGb1HRaqg0CoY4fF64w=="
 ---
 

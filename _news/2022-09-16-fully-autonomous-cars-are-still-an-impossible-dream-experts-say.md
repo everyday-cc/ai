@@ -47,20 +47,6 @@ related:
         width: 2057
         height: 1200
         isCached: true
-  - title: "Truly autonomous cars may be impossible without helpful human touch"
-    excerpt: "MILTON KEYNES, England (Reuters) -Autonomous vehicle (AV) startups have raised tens of billions of dollars based on promises to develop truly self-driving cars, but industry executives and experts say remote human supervisors may be needed permanently to help robot drivers in trouble."
-    publishedDateTime: 2022-09-19T16:31:00Z
-    webUrl: "https://www.investing.com/news/world-news/truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-2894928"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 24
-    images:
-      - url: "https://i-invdn-com.investing.com/news/LYNXNPEC9O0PR_L.jpg"
-        width: 800
-        height: 499
-        isCached: true
 
 secured: "VTEQKCjjNR+3fEXWp7g7/Mjf+FEPkDKstPWcMnpgBk1Q3RB8VnoW2czG1WtB45gw7GITFS8+KI0YIvSFKEzgAs6BUPosxCPy1V1WLGiH63LnUzkRtCX0feVzKqLZWDfONpp6tDioaIcQvbaC6qHowheW4Bi+jjhpzl/fI3oeuo6v2mmAazem4pYxR8TfM5Wn9zDrfFP7quU16y53svCfRlDXM4bCkdw7u3VGwJA03vkDYZgsub5465feCYTrykkvuuDhcgLBhSDYsynMRTH6G12INoIfekYmW42p5m57VsJvu2o0yh9mRUjdNU2on4Z5lrBxSoEJ1xcBC20B6+4ksJ5cJ4fMDPkLYutu5WnhSN6YgLtJ/KmQETtHwlvUDM3MiQCFU2KVWrmVBNUq5hoTCE5DboLZSlFdZ6lZmH2wBNa1bO5ZMLzSP6g+LvbTrYw63quKBpKbTMgaGqjxro17KIRVrC9jWKqViYxFnizwiEFCDNFRuEJU7xfcns9sSmmXXJxOgWtXclDoDIc4uq1ZqA==;bbtwJf+etFpkvpKyTFjZLw=="
 ---

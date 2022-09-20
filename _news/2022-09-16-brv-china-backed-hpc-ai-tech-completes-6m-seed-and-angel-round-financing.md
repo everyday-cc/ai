@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2022/09/brv-china-backed-hpc-ai-tech-complet
 webUrl: "https://insidehpc.com/2022/09/brv-china-backed-hpc-ai-tech-completes-6m-seed-and-angel-round-financing/"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "HPC-AI Tech Closes $6M in Seed and Angel Financing"
-    excerpt: "HPC-AI Tech, a Beijing, China-based provider of an artificial intelligence optimization platform, raised $6M in Seed and Angels funding"
-    publishedDateTime: 2022-09-15T07:36:00Z
-    webUrl: "https://www.finsmes.com/2022/09/hpc-ai-tech-closes-6m-in-seed-and-angel-financing.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 19
 
 secured: "0SakVmu98FTMlzwvnPF+xfVCLp118FlYQirGi7mrjQMe6LQadROP8V6EkoRfZuswAJS4HiX0jBYllcjx27JqodXu2hEB9rmtCuJ5cqacjLp+QVxWAq4rQpPXy2s2IznrMDdTbNR9RGHQJAaIKrIvwndtyPk/aIFmWHw/3Cn3bzRIROhXe0qZCHTAgNt6jJHVcsYAJzoTy1RXNoVPfpsTS21pNGwu5R7Y4U++hurg0UQdMZP9T2y+u6d/MEJppvjfg61dHcdRilSpz9C+klZMSu5NYWcHsp7qME8hnuT0Ydd8J6zFSgwuNwhUk7w0wwZLqZ21auce025J3WT6nejRFLWyUlXstFmZ++rCksQY8IGElSB4BjEtxnYaoLZZzplCXyupBuHDH29miNMWtUHb3uIsvcgYx0qBBfAhCXsao390aDrGB2PtHInTaVOO0Jj3/Mmp5dPiMVUgPvB9MLIZ3k+XGhOw/iLiAZe3L265yWl2QMIYIE+aW1TVuz3jKqy+1REhF4stQvlrKTvVI0uk2g==;ibpVyZTZKbnrrJuTI8JLLA=="
 ---

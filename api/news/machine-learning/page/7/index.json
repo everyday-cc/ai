@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-07-22-aws-ml-engineering-manager-evaluates-the-social-impact-of-ai.md",
+      "title": "AWS ML engineering manager evaluates the social impact of AI",
+      "excerpt": "In an exclusive interview with VentureBeat, Ankit Sirmorya discusses how AI is changing the way we interact with technology.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/applied-ai/aws-ml-engineering-manager-evaluates-the-social-impact-of-ai/",
+      "originalUrl": "https://venturebeat.com/applied-ai/aws-ml-engineering-manager-evaluates-the-social-impact-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/aws-ml-engineering-manager-evaluates-the-social-impact-of-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/aws-ml-engineering-manager-evaluates-the-social-impact-of-ai/amp/",
+      "publishedDateTime": "2022-07-22T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-22-cybersecurity-ceo-enlisting-machine-learning-to-combat-fraud.md",
       "title": "Cybersecurity CEO: Enlisting Machine Learning to Combat Fraud",
       "excerpt": "With regards to using artificial intelligence, we use machine learning very heavily, and that's just because of the sheer volume of traffic we're looking for adversaries and their trends can be quite low volume compared to the aggregate.",
@@ -1344,49 +1388,6 @@
         "AI",
         "Machine Learning",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide.md",
-      "title": "How machine learning can identify gun buyers at risk of suicide",
-      "excerpt": "Story at a glance Suicide remains the leading cause of gun-related deaths in the United States. Identifying those at risk is a challenge for mental health providers, but can lead to effective",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/changing-america/well-being/mental-health/3559186-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide/",
-      "originalUrl": "https://thehill.com/changing-america/well-being/mental-health/3559186-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/07/CA_suicide_07142022AP.jpg?w=1280",
-          "width": 1280,
-          "height": 782,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/changing-america/well-being/mental-health/3559186-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/mental-health/3559186-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide/amp/",
-      "publishedDateTime": "2022-07-14T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

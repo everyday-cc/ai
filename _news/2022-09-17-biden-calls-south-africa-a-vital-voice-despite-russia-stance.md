@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Biden calls South Africa a vital voice despite Russia stance"
-excerpt: "President Joe Biden praised South Africa as a vital voice on the global stage as he hosted President Cyril Ramaphosa on Friday at the White House for talks that touched on"
-publishedDateTime: 2022-09-16T23:35:00Z
-originalUrl: "https://www.bostonherald.com/2022/09/16/biden-calls-south-africa-a-vital-voice-despite-russia-stance/"
-webUrl: "https://www.bostonherald.com/2022/09/16/biden-calls-south-africa-a-vital-voice-despite-russia-stance/"
-ampWebUrl: "https://www.bostonherald.com/2022/09/16/biden-calls-south-africa-a-vital-voice-despite-russia-stance/amp/"
-cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2022/09/16/biden-calls-south-africa-a-vital-voice-despite-russia-stance/amp/"
+excerpt: "President Joe Biden praised South Africa as a vital voice on the global stage as he hosted President Cyril Ramaphosa on Friday at the White House for talks that touched on the two nations’ differences on Russia’s war in Ukraine and more."
+publishedDateTime: 2022-09-16T17:52:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-s-african-leader-to-discuss-ukraine-trade-climate/2022/09/16/2851db2e-3576-11ed-a0d6-415299bfebd5_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-s-african-leader-to-discuss-ukraine-trade-climate/2022/09/16/2851db2e-3576-11ed-a0d6-415299bfebd5_story.html"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Boston Herald
-  domain: bostonherald.com
+  name: The Washington Post
+  domain: washingtonpost.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.bostonherald.com/wp-content/uploads/2022/09/US_South_Africa_83884.jpg?w=1024&h=682"
-    width: 1024
-    height: 682
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SVJLBVBV6AI63IGWIFJJTP7L2U.jpg&w=1440"
+    width: 1440
+    height: 923
     isCached: true
 
 related:
@@ -44,6 +42,6 @@ related:
         height: 721
         isCached: true
 
-secured: "qecH2BkTZha3lEMaD6Nk6fgchjlTVn8p2VESVecO8CCYSHaHS5cOHWKHdymK2lHNa3jR2XuJ4+vQhIkt/lmdmy2GNDq/REuhl7tcwHJ4r1k3weDqhiQ4AH2GOvC3NGtaTrlKr3+T99HUfyPL6h28v0Suu8w48xBDlK/xleihLHBxCX0YYgajX2IYize/hXl/xM5uwKo8TXzrVK+tUgAZQd6aZSx0clUtRox6ZFAayS7Ue2zXQHDsCSYmxDPqYXk8FuZmST1X1xz84Rn9pplGZ5PbCzr2AECe+7XlC6oD8qCVb4mi9aApGoSN7jOlsUEIm3A4qrffr9b3p8NKMfvy+2MtMF0xBll6RBJbvLB+5IE=;UC+8HpPouCt4+/gaKNapDg=="
+secured: "ZBvcFRLRuaI7F+2pN+H2eWwz73dw3tHahEiajRYXpinxbEzaEyY7fOHCt1xS5zUgeZC1pJZcFRGUQExGSZjedSK3T+Hh2diIVBjvDCM6esE5kRsNv2X7q2dAk7+Y8M4dVg3LvVgf25AEfCXmLyDl7vRHSK9Umjgl57U2Dn5+WHLq/WWbjvZaEuerYAEM7ZBKwqFulNK1GclKhIu86mqds6UaWKnHBMflNkVUcJJ7h/d7fRKbWKC7e8fXSMVnl8v2qTlMT/W8Q/wtTR8HRyC7i6F44j8YFeZhMopaWXKzqoAvh0fvKnDZGD8BWlfKpcYQku7ZcmMQAmd/28/JuoSnRi7HNtOJ7y+sux6NlFK5gFw=;unHrGgfOLeFKNPOZsfWyhw=="
 ---
 

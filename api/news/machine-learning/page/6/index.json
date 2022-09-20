@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-08-03-using-machine-learning-for-bushfire-prevention-in-australia.md",
+      "title": "Using machine learning for bushfire prevention in australia",
+      "excerpt": "Machine learning approaches are proactively mitigating the risk of bushfires caused by powerlines, ensuring the safe and regular supply of power to",
+      "sourceUrl": null,
+      "webUrl": "https://utilitymagazine.com.au/using-machine-learning-for-bushfire-prevention-in-australia/",
+      "originalUrl": "https://utilitymagazine.com.au/using-machine-learning-for-bushfire-prevention-in-australia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://utilitymagazine.com.au/wp-content/uploads/2022/07/Utility-5.png",
+          "width": 714,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "utilitymagazine.com.au",
+        "domain": "utilitymagazine.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-08-03-neural-networks-and-ghost-electrons-accurately-reconstruct-behavior-of-quantum-systems.md",
       "title": "Neural networks and ‘ghost’ electrons accurately reconstruct behavior of quantum systems",
       "excerpt": "In the new approach, the behavior of the added electrons is controlled by an artificial intelligence technique called a neural network. The network makes tweaks until it finds an accurate solution ...",
@@ -1378,50 +1422,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-aws-ml-engineering-manager-evaluates-the-social-impact-of-ai.md",
-      "title": "AWS ML engineering manager evaluates the social impact of AI",
-      "excerpt": "In an exclusive interview with VentureBeat, Ankit Sirmorya discusses how AI is changing the way we interact with technology.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/applied-ai/aws-ml-engineering-manager-evaluates-the-social-impact-of-ai/",
-      "originalUrl": "https://venturebeat.com/applied-ai/aws-ml-engineering-manager-evaluates-the-social-impact-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/aws-ml-engineering-manager-evaluates-the-social-impact-of-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/aws-ml-engineering-manager-evaluates-the-social-impact-of-ai/amp/",
-      "publishedDateTime": "2022-07-22T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI",
         "Machine Learning"
       ]

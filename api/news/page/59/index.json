@@ -2,6 +2,145 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2022-08-02-who-drives-a-driverless-train.md",
+      "title": "Who Drives A Driverless Train?",
+      "excerpt": "Driverless systems like the one in Sydney represent the future of urban clean and efficient transport. In this article, train manufacturer Alstom answers some key questions about driverless trains ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104627148/Who-Drives-A-Driverless-Train",
+      "originalUrl": "https://menafn.com/1104627148/Who-Drives-A-Driverless-Train",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-08/01/R&AN_1fcbbimage_story.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-ann-arbors-new-samurai-sorting-robot-is-a-plastics-recycling-game-changer.md",
+      "title": "Ann Arbor’s new ‘SamurAI sorting robot’ is a plastics recycling game-changer",
+      "excerpt": "Michigan is now one of the nation’s three best states for recycling plastics, according to a recent <a href=\" Voter study.",
+      "sourceUrl": null,
+      "webUrl": "https://www.clickondetroit.com/sponsored/2022/08/01/ann-arbors-new-samurai-sorting-robot-is-a-plastics-recycling-game-changer/",
+      "originalUrl": "https://www.clickondetroit.com/sponsored/2022/08/01/ann-arbors-new-samurai-sorting-robot-is-a-plastics-recycling-game-changer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/DYROQW7ZBBCEFAMS4ASYQDGH2Q.jpg?_a=ATAK9d60",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.clickondetroit.com/sponsored/2022/08/01/ann-arbors-new-samurai-sorting-robot-is-a-plastics-recycling-game-changer/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/sponsored/2022/08/01/ann-arbors-new-samurai-sorting-robot-is-a-plastics-recycling-game-changer/?outputType=amp",
+      "publishedDateTime": "2022-08-01T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "clickondetroit.com",
+        "domain": "clickondetroit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-01-simplify-iterative-machine-learning-model-development-by-adding-features-to-existing-feature-groups-in-amazon-sagemaker-feature-store.md",
+      "title": "Simplify iterative machine learning model development by adding features to existing feature groups in Amazon SageMaker Feature Store",
+      "excerpt": "Feature engineering is one of the most challenging aspects of the machine learning (ML) lifecycle and a phase where the most amount of time is spent—data scientists and ML engineers spend 60–70% of their time on feature engineering. AWS introduced Amazon SageMaker Feature Store during AWS re:Invent 2020,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-iterative-machine-learning-model-development-by-adding-features-to-existing-feature-groups-in-amazon-sagemaker-feature-store/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-iterative-machine-learning-model-development-by-adding-features-to-existing-feature-groups-in-amazon-sagemaker-feature-store/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/25/architecture-new-1199x630.png",
+          "width": 1199,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T10:58:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-how-deepminds-use-of-ai-is-fast-changing-biology.md",
       "title": "How Deepmind’s use of AI is fast changing biology",
       "excerpt": "Alphabet’s Deepmind Technologies recently released 3D predicted structures of over 200 million proteins. Generated by its AI system AlphaFold, it aims to help researchers enhance their understanding of how proteins — the building blocks of life — may fold.",
@@ -992,153 +1131,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-self-driving-cars-market-size-worth-636-billion-usd-by-2022-2025-cagr-203.md",
-      "title": "Self-Driving Cars Market Size Worth 6.36 billion USD by 2022-2025 | CAGR: 20.3%",
-      "excerpt": "Aug 01, 2022 (Market Insight Reports) -- The study highlights important advancements in organic and inorganic growth strategies in the worldwide Self-Driving Cars market. A lot of corporations are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-cars-market-size-worth-636-billion-usd-by-2022-2025-cagr-203-2022-08-01?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-cars-market-size-worth-636-billion-usd-by-2022-2025-cagr-203-2022-08-01?tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-31T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-the-future-of-supply-chains-with-artificial-intelligence.md",
-      "title": "The Future of Supply Chains with Artificial Intelligence",
-      "excerpt": "It is undeniable that AI & machine learning is revolutionizing several sectors, particularly supply chain and logistics. Fremont, CA: Given",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioapplications.com/news/the-future-of-supply-chains-with-artificial-intelligence-nid-10080.html",
-      "originalUrl": "https://www.cioapplications.com/news/the-future-of-supply-chains-with-artificial-intelligence-nid-10080.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioapplications.com/newstransfer/upload/shv96cio-appli450308.jpg",
-          "width": 450,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO Applications",
-        "domain": "cioapplications.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-5-of-5.md",
-      "title": "Why Corporate Purpose And AI Ethics Must Be A Leadership And Risk Management Priority (Blog 5 Of 5)",
-      "excerpt": "This is the final blog in a 5 part blog series looking at corporate purpose, AI, ML and data management foundations. Practical questions are identified to guide board directors and CEOs to improve their governance leadership practices regarding AI/ML.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-5-of-5/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-5-of-5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d4657ccc8d05991df35bd4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 851,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-5-of-5/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-5-of-5/amp/",
-      "publishedDateTime": "2022-07-31T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-13-why-data-ethics-leadership-needs-to-become-the-new-normal-in-finance.md",
+      "title": "Why data ethics leadership needs to become the new normal in finance",
+      "excerpt": "By David Sweenor, Senior Director of Product Marketing at Alteryx. In June, one of the largest banking groups in the world – Lloyds Bank – announced it was joining the ranks of Google, KPMG and Uber with the creation of a new",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/why-data-ethics-leadership-needs-to-become-the-new-normal-in-finance/",
+      "originalUrl": "https://www.globalbankingandfinance.com/why-data-ethics-leadership-needs-to-become-the-new-normal-in-finance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/08/iStock-1212832689.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalbankingandfinance.com/why-data-ethics-leadership-needs-to-become-the-new-normal-in-finance/",
+      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/why-data-ethics-leadership-needs-to-become-the-new-normal-in-finance/",
+      "publishedDateTime": "2022-08-12T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-08-12-degrees-of-the-future-2022-artificial-intelligence.md",
       "title": "Degrees of the Future 2022: Artificial Intelligence",
       "excerpt": "The Degrees of the Future 2022 top Artificial Intelligence programs are: How did Gizmodo determine this year’s honorees? Check out the methodology or return to the full Degrees of the Future 2022 list.",
@@ -1407,58 +1451,6 @@
         "AI Ethics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-ai-generated-faces-are-taking-over-the-internet.md",
-      "title": "AI-generated faces are taking over the internet",
-      "excerpt": "When Google fired an AI ethics researcher, Timnit Gebru, in 2020 for publishing a paper that highlighted bias in the company’s algorithms, a network of bots with AI-generated faces, who claimed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/social-media/ai-generated-faces-misinformation/",
-      "originalUrl": "https://www.digitaltrends.com/social-media/ai-generated-faces-misinformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/06/Illustrations-of-natural-FFHQ-and-StyleGAN2-generated-images-that-are-hardly.jpg?p=1",
-          "width": 664,
-          "height": 442,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/social-media/ai-generated-faces-misinformation/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/ai-generated-faces-misinformation/?amp",
-      "publishedDateTime": "2022-07-20T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

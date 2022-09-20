@@ -1,81 +1,30 @@
 ---
 category: news
 title: "MSP360 Partners with Deep Instinct to Fully Integrate the World's First Deep Learning Cybersecurity Framework Solution"
-excerpt: "MSP360, a provider of simple and reliable backup and IT management solutions for managed services providers (MSPs) and IT departments worldwide, is now fully integrated with Deep Instinct, a prevention-first approach to stopping ransomware and other malware using the world's first deep learning cybersecurity framework."
-publishedDateTime: 2022-09-13T14:05:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/09/13/9672196.htm"
-webUrl: "https://it.tmcnet.com/news/2022/09/13/9672196.htm"
+excerpt: "MSP360 Partners with Deep Instinct to Fully Integrate the World's First Deep Learning Cybersecurity Framework Solution Sep 13, 2022 (PRNewswire via"
+publishedDateTime: 2022-09-13T12:34:00Z
+originalUrl: "https://www.marketwatch.com/press-release/msp360-partners-with-deep-instinct-to-fully-integrate-the-worlds-first-deep-learning-cybersecurity-framework-solution-2022-09-13"
+webUrl: "https://www.marketwatch.com/press-release/msp360-partners-with-deep-instinct-to-fully-integrate-the-worlds-first-deep-learning-cybersecurity-framework-solution-2022-09-13"
 type: article
-quality: 0
-heat: -1
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "How AI is Being Developed at OPM for Cybersecurity Threats"
-    excerpt: "AI in Government event with featured guest speaker Melvin Brown II, Deputy Chief Information Officer in the U.S. Office of Personnel Management and his presentation ‘How… Read More"
-    publishedDateTime: 2022-09-13T22:31:00Z
-    webUrl: "https://www.geekwire.com/calendar-event/how-ai-is-being-developed-at-opm-for-cybersecurity-threats/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 67
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2022/09/October-2022-AI-in-Gov-Promo-Graphic.png"
-        width: 1198
-        height: 674
-        isCached: true
-  - title: "Why Artificial Intelligence is Must for Cybersecurity"
-    excerpt: "How can artificial intelligence protect us from devastating cyber attacks? Some cybersecurity companies are already taking advantage of AI for good. Cybersecurity is the practice of protecting electronic information by mitigating information risks and vulnerabilities."
-    publishedDateTime: 2022-09-14T23:29:00Z
-    webUrl: "https://www.hackread.com/why-artificial-intelligence-must-cybersecurity/"
-    type: article
-    provider:
-      name: hackread
-      domain: hackread.com
-    quality: 39
-    images:
-      - url: "https://www.hackread.com/wp-content/uploads/2022/09/why-artificial-intelligence-must-cybersecurity.jpg"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "The Artificial Intelligence and Cybersecurity Nexus: Taking Stock of the European Union’s Approach"
-    excerpt: "The EU’s AI-cybersecurity ecosystem remains highly fragmented. To realize its technological leadership ambitions, the bloc must connect the dots between its myriad initiatives, processes, and stakeholders."
-    publishedDateTime: 2022-09-15T09:05:00Z
-    webUrl: "https://carnegieeurope.eu/2022/09/15/artificial-intelligence-and-cybersecurity-nexus-taking-stock-of-european-union-s-approach-pub-87886"
-    type: article
-    provider:
-      name: Carnegie Europe
-      domain: carnegieeurope.eu
-    quality: 27
-    images:
-      - url: "https://images.carnegieendowment.org/images/article_images/1420x770_Europe_s_Digital_Future_Vestager_Breton_-_GettyImages-1201843775.jpg"
-        width: 1420
-        height: 770
-        isCached: true
-  - title: "Alphabet spinoff SandboxAQ acquires cybersecurity and encryption startup Cryptosense"
-    excerpt: "Cryptosense offers cryptography management software designed to protect sensitive data against data breaches. Pitched as cryptography management at the speed of DevOps, the Cryptosense platform provides full visibility into cryptography during development and a full inventory in production."
-    publishedDateTime: 2022-09-14T23:41:00Z
-    webUrl: "https://siliconangle.com/2022/09/14/alphabet-spinoff-sandboxaq-acquires-cybersecurity-encryption-startup-cryptosense/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 15
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/sandboxaq.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
-secured: "B72KYKbJPho5knoCm048fb+Pss1Cd+CpkQj5LrOkP1wRj+KhH594QTeneo/scLIvjRNwowigpnwHQlANOFyViRxPY74WtjqjxZZrj8KU583lTVgpQknIxcdkh/DkOHAaeb1VJMEmE3SiPvd5GFtFdz3YwhVdNyquSosmxJC5uAFPekoElXBEBq8rv4z8S4ZNZY4kmEL7vvwzX6eZXx9QiTdydirUoPgNvEMY3A+bvoV6MOVOOZQ9IUKahBEb0AEWm3sL3okIE7aeGEO83hoR4z6QxZdCRo34pJv58oSkwG6px89z3UpEXDB3Jn91g1FyZv0pSUV6yKxtWRYTE3VLfxFWFv01SRmL+HBId1KnXcc=;w0/BAeUfaVHLoCeyen+AEg=="
+secured: "H1zD2NnS21DCoQSSOyw2F8qnxFZuO+xVP84uDlW7uZ2CNX2CZoS3dCrvcBpB42XYHvL5i++AjkaKxtrgmiLfxiFrlmyYaUksntoOV0Jk8ancS8f0EUc6qi6h/gtRVSIz5HJ7T87QvDLDobZnYzoaiko5FDWFnfOHq5G7Bdle6kWis7hpLZAaNgw7BXdGTzaPIv7wmRL5KHytSNarTZ8g+b/5tH5EMDiqur4RR0uAIiWpd7MJjDYbkXF7w02XOBJN+QlaAVJFbGB605E1WMypB0sM8oq0pLgElfCO1ZdHaBfBskRsKsJglZFG8ghXUq6sQ2Gwc1AhDry2DbqnqeBVuZZ5iCpPHVPEWhWo4IO90Jo=;d6yBZyI4cTx1Mf1WWbIJEA=="
 ---
 
