@@ -38,6 +38,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Rephrase.ai Secures $10.6 Million in Series A Funding Led by Red Ventures"
+    excerpt: "Silver Lake also participated in the round, in addition to 8VC and other investorsNew round of funding will enhance Rephrase.ai's capabilities by"
+    publishedDateTime: 2022-09-15T19:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/rephrase-ai-secures-10-6-million-in-series-a-funding-led-by-red-ventures-1031746554"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+    images:
+      - url: "https://mma.prnewswire.com/media/1900126/Rephrase_Founders.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Winn.AI Goes Out Of Stealth and secures $17 Million Seed Funding for Real-Time AI Sales Assistant"
     excerpt: "The real-time AI assistant is touted to help sales teams save time on busywork and win more deals.  August 27, 2022 –  Israeli sales tech start-up, Winn.AI, announced that it has raised $17 million in seed funding from global software investor Insight Partners and Israeli venture capital firm S-Capital."
     publishedDateTime: 2022-09-16T01:38:00Z
@@ -85,20 +99,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-284920,msid-94243001/generative-ai-startup-rephrase-ai-raises-10-6-million-in-funding-led-by-red-ventures.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "Winn.AI Goes Out Of Stealth and secures $17 Million Seed Funding for Real-Time AI Sales Assistant"
-    excerpt: "The Winn.AI real-time assistant acts as an extra pair of hands during meetings, giving salespeople the freedom to focus their attention entirely on the customer. Conventionally, salespeople are responsible for juggling a multitude of tasks during sales calls: following a precise playbook,"
-    publishedDateTime: 2022-09-15T15:11:00Z
-    webUrl: "https://www.marketingdive.com/press-release/20220915-winnai-goes-out-of-stealth-and-secures-17-million-seed-funding-for-real-t/"
-    type: article
-    provider:
-      name: Marketing Dive
-      domain: marketingdive.com
-    quality: 41
-    images:
-      - url: "http://res.cloudinary.com/dmgi9movl/image/upload/v1663254202/press_release/assets/header_images/Untitled_1500_700_px_2_l1zeun.png"
-        width: 1500
-        height: 700
         isCached: true
   - title: "Rephrase.ai Raises $10.6M in Series A Funding"
     excerpt: "Rephrase.ai, a San Francisco, CA-based generative AI startup that aims to humanize communication through synthetic media, raised $10.6m in Series A financing"

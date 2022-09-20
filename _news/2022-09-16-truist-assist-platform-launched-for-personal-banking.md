@@ -55,6 +55,20 @@ related:
         width: 1038
         height: 778
         isCached: true
+  - title: "Truist launches AI-enhanced virtual assistant"
+    excerpt: "Truist Financial Corporation ( NYSE: TFC), today announced the launch of Truist Assist in its mobile banking app and online banking platform for personal banking (retail and wealth) clients."
+    publishedDateTime: 2022-09-16T16:10:00Z
+    webUrl: "https://www.finextra.com/pressarticle/94089/truist-launches-ai-enhanced-virtual-assistant"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Truist launches virtual assistant after a year of development"
     excerpt: "On Thursday the Charlotte, North Carolina, bank announced the launch of Truist Assist, a digital assistant that uses natural-language processing and natural-language understanding to interpret customer questions."
     publishedDateTime: 2022-09-15T20:30:00Z

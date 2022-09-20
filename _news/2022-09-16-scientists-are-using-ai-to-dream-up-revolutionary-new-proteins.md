@@ -18,17 +18,6 @@ topics:
   - AI
   - Google AI
 
-related:
-  - title: "An AI that can design new proteins could help unlock new cures and materials"
-    excerpt: "A new AI tool could help researchers discover previously unknown proteins and design entirely new ones. When harnessed, it could help unlock the development of more efficient vaccines, speed up research for the cure to cancer,"
-    publishedDateTime: 2022-09-15T18:00:00Z
-    webUrl: "https://www.technologyreview.com/2022/09/15/1059550/an-ai-that-can-design-new-proteins-could-help-unlock-new-cures-and-materials/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 16
-
 secured: "xq0mVHFS8vGKq9nZdMfxtbq6Dg1F1OJGwQtJAY92eo8oqOzAbsZkd4FU64GN5Jnm1tJdwhR4u4u81WQeW+X5ASVHXL37yNVbrLI71EooVNW2Sl7iQXQIWHItM4rVllmQ98gZ8Af7Xz4cErvtYGbWIdTtuBLRBue7Z9otGb4VzUTwT/t2fD0X7qhbV5cmqY+Qpbtj4ltjFHUP/qTSkJDcDv82kTDMOART82YZHNSgo/LchBYAvgmQb4Hp/UMNJwMqtZ9D3Q8lLHwAJ4bi4KXmwwk/dE+T5wI4vKzmVDUau+YQ8J9GMgvEyRei6LaZajPBF7v76ViKWda3L6errFgWdb1vLnpKwxlleEygaGsosa0FX7IxwxpQNTzoqUZJt2BZqtwVfLYRuK/AwaLjAsk9cm5YMhbapWoQJXGz91H7AKMvB3mp9RMyZiZ8BSbFzZioj/zE5MkBzkBpk5M8ZC/go45O/ZOsrAFhl+C2aLEj4fVnL2dNBfYUEz2rTWIDLI6SDwoKIN6fK55R33ZsUvfl4w==;RGxw4oaEyw5Q7rhSTudECA=="
 ---
 

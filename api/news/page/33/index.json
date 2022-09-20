@@ -2,6 +2,161 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2022-08-22-survive-layoffs-succeed-with-upskilling-through-ai.md",
+      "title": "Survive layoffs, succeed with upskilling through AI",
+      "excerpt": "Despite the looming recession, orgs must invest in upskilling existing employees — lest they lose talent. AI can help.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/survive-layoffs-succeed-with-upskilling-through-ai/",
+      "originalUrl": "https://venturebeat.com/ai/survive-layoffs-succeed-with-upskilling-through-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/NLP.GettyImages-1199031078.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/survive-layoffs-succeed-with-upskilling-through-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/survive-layoffs-succeed-with-upskilling-through-ai/amp/",
+      "publishedDateTime": "2022-08-21T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-22-tesla-raising-price-of-full-self-driving-feature-to-15000-next-month.md",
+      "title": "Tesla raising price of ‘Full Self-Driving’ feature to $15,000 next month",
+      "excerpt": "Elon Musk on Sunday announced the price of Tesla Inc.'s \"Full Self-Driving\" feature will rise by 25% next month, to from $12,000 to $15,000.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442?mod=mw_latestnews",
+      "originalUrl": "https://www.marketwatch.com/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442?mod=mw_latestnews",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 393,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-528682/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442",
+      "publishedDateTime": "2022-08-21T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-22-why-ai-is-the-differentiator-in-todays-experience-market.md",
+      "title": "Why AI is the differentiator in today’s experience market",
+      "excerpt": "Experience is everything. From what we buy to where we work, everyone is seeking a more intuitive, personalized experience surrounding all that we do. The best user experiences feel effortless, offering instant recommendations that give us what we want without requiring us to spend valuable time providing our preferences.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-ai-is-the-differentiator-in-todays-experience-market/",
+      "originalUrl": "https://venturebeat.com/ai/why-ai-is-the-differentiator-in-todays-experience-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1264510281.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/why-ai-is-the-differentiator-in-todays-experience-market/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-ai-is-the-differentiator-in-todays-experience-market/amp/",
+      "publishedDateTime": "2022-08-21T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-22-explained-delhi-polices-use-of-facial-recognition-technology.md",
       "title": "Explained | Delhi Police’s use of facial recognition technology",
       "excerpt": "The story so far: Right to Information (RTI) responses received by the Internet Freedom Foundation, a New-Delhi based digital rights organisation, reveal that the Delhi Police treats matches of above 80% similarity generated by its facial recognition ...",
@@ -1054,117 +1209,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-20-bitooda-partners-with-coreweave-to-deliver-high-performance-compute-solutions-for-financial-markets.md",
-      "title": "BitOoda Partners with CoreWeave to Deliver High Performance Compute Solutions for Financial Markets",
-      "excerpt": "BitOoda, a pioneering Digital Asset investment Bank, announced a partnership with CoreWeave, the leading specialized cloud provider of high-performance compute solutions. The partnership will accelerate the penetration of CoreWeave's services for compute-heavy workloads in financial applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/08/19/9659533.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/08/19/9659533.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T15:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-20-senior-living-cognitive-rehab-may-help-older-adults-clear-coivd-related-brain-fog.md",
-      "title": "Senior living: Cognitive rehab may help older adults clear COIVD-related brain fog",
-      "excerpt": "It’s a suite of interventions designed to help people recover from brain injuries, if possible, and adapt to ongoing cognitive impairment. Services are typically provided by speech and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailybreeze.com/2022/08/19/senior-living-cognitive-rehab-may-help-older-adults-clear-coivd-related-brain-fog/",
-      "originalUrl": "https://www.dailybreeze.com/2022/08/19/senior-living-cognitive-rehab-may-help-older-adults-clear-coivd-related-brain-fog/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T14:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Breeze",
-        "domain": "dailybreeze.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-20-iplcontent-presents-voiceimage-recognition-technologies-for-in-car-apps.md",
-      "title": "IpLContent Presents Voice/Image Recognition Technologies for In-Car Apps",
-      "excerpt": "but the challenge of this resides in the complexity of voice recognition. You may wish to look up directions with Google Maps, play a playlist from Spotify, or call your friend from your car all during a single driving session. So how does a driver safely ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/iplcontent-presents-voice-image-recognition-technologies-for-in-car-apps/",
-      "originalUrl": "https://www.01net.it/iplcontent-presents-voice-image-recognition-technologies-for-in-car-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.01net.it/iplcontent-presents-voice-image-recognition-technologies-for-in-car-apps/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/iplcontent-presents-voice-image-recognition-technologies-for-in-car-apps/amp/",
-      "publishedDateTime": "2022-08-19T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

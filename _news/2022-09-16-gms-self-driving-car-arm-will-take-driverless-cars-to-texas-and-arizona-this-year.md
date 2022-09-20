@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Asia's first driverless CIMC-made boarding bridge comes into operation in China"
+    excerpt: "The first driverless boarding bridge in Asia has been officially put into operation at Chengdu Tianfu International Airport in southwest China, marking a milestone in the intelligent upgrade of Chinese civil aviation industry."
+    publishedDateTime: 2022-09-20T09:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/asia-s-first-driverless-cimc-made-boarding-bridge-comes-into-operation-in-china-1031752676"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://mma.prnewswire.com/media/1902841/image_1.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Self-Driving & Driverless Cars Market Application Household,Commercial Sales, Revenue, Manufacturers, Suppliers, Key Players 2022 to 2028"
     excerpt: "One of the industries with the greatest growth is the \" Self-Driving & Driverless Cars Market .\" It is extremely important for Self-Driving & Driverless Cars Market players to first carry out a comprehensive Self-Driving & Driverless Cars Market analysis."
     publishedDateTime: 2022-09-16T20:31:00Z
@@ -39,15 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self Propelled Feed Mixers Market 2022 Driving Factor Analysis with Trend and Forecast to 2028"
-    excerpt: "The report first establishes the Self Propelled Feed Mixers market by glancing at the descriptions, types, and market overview. It also understands the different details of the item, production network,"
-    publishedDateTime: 2022-09-19T02:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-propelled-feed-mixers-market-2022-driving-factor-analysis-with-trend-and-forecast-to-2028-2022-09-18"
+  - title: "WeRide launches first fully driverless ride of robobus in Mideast"
+    excerpt: "The launch of the driverless robobus in Riyadh becomes another important milestone in WeRide's global footprint, attributed to its best-in-class autonomous driving technology and its rich commercial e"
+    publishedDateTime: 2022-09-20T04:48:00Z
+    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/weride-launches-first-fully-driverless-ride-of-robobus-in-mideast-ui5w8bi8"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
+      name: Zawya
+      domain: zawya.com
+    quality: 39
+    images:
+      - url: "https://static.zawya.com/version/c:MzBhMTkzMTYtYzI1Ny00:YjhmZTE5/956353340.jpg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "H9bnc8a+aBsz47NyhoQujTYxIGGJQCjXeHX0P9PTqt4awbS81J1FKzBOJiXxYFVy97yeQJfQ9ijmG0voNTpjswwYxksi6FEsGlc/YhYdup0bLew1sz+emqcu4y4hcPw9LwbK1zA0sFheS9qFmAjwwzRqlXb7I2tZ9AJhQ038+U1o+6u9OYPkTKSV2GqWw9M0/1nTYimGUpNI6IXH27UhfNPCkVcyA6koLfR6zrHu1RaEr0AqZj8HwB83hu9Z+8iKrZWrBv1+WM3iA6O+PUbc8tvxGhAVsg7iHIiLFkvrKlvUzcmGu9A/d2R2lDjs+hEIW5aswSxuhuV51Ew3mh5BtuSa07AdghCsr90XztUFysg=;oT9UWxkstpy9D4T6DBKDog=="
 ---

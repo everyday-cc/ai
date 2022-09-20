@@ -7,7 +7,7 @@ originalUrl: "https://www.thefastmode.com/technology-solutions/27540-bt-atos-joi
 webUrl: "https://www.thefastmode.com/technology-solutions/27540-bt-atos-join-forces-on-new-digital-vision-offering"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 752
     height: 408
     isCached: true
-
-related:
-  - title: "BT and ATOS strike computer vision partnership"
-    excerpt: "News The joint proposition will provide customers with a powerful AI-based analytics tool to extract value from their digital images and videos As part of a multi-million pound partnership, BT and Atos today launch Digital Vision — a new computer vision solution that will help revolutionise industries,"
-    publishedDateTime: 2022-09-15T15:44:00Z
-    webUrl: "https://totaltele.com/bt-and-atos-strike-computer-vision-partnership/"
-    type: article
-    provider:
-      name: Total Telecom
-      domain: totaltele.com
-    quality: 39
-    images:
-      - url: "https://totaltele.com/wp-content/uploads/2022/08/MicrosoftTeams-image-6-2-440x264.png?crop=1"
-        width: 440
-        height: 264
-        isCached: true
 
 secured: "6cvVdTQamg6l+tlYw29JT5d/Iv9S+s1kOqsghkpSv7MZB1XEnDl8Qf2XHeS0PS2LjURNV99HeGS0O7IuorzytWYuBdQkgv3i4J4kgH4D+3TG/anlWMw2Yi7e6KmP4YPeVAR3lCy1kSNAWqrKUNXQXmoCwhB2SwGsVJjJKZz9RQBNqPYiM7Sxfl2iuArxLiSsv55ZIOmnM9KJ6NDjdnGEo+kQ5mDEYekLcgnxP/X9iei/1OVjT1aw3ilZCF6VQ6KEybWlI9PTaVyiBAoJXIUf/GRXswySzGLqZ6cyjYx8Y2FFgyprkVC+RPE5v2TqKE5Dt760woU7mbwt/nq5v3nsgWyPc2y3z4SeNZr3RA4oYompnOyOvi2dMLNmGBpfuYndB58zoZeOBRkAd2x/cOe2NLSJHW9WhPSvzBdKV3kEKNXMV6/kRwgykLSgZbb3cpag16m2tAYpewmrmJVqXvzEBXX/um4MCkaaz5xO4xyJWEBAqlNNqKl2llHESGq5ggxLgtRt+57qmaL66ofrWcvhFg==;EFNgXkE9iy3+oOa2zhjtDQ=="
 ---

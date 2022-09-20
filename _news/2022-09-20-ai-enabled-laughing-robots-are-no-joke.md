@@ -8,7 +8,7 @@ webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202209/ai-en
 ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202209/ai-enabled-laughing-robots-are-no-joke?amp"
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202209/ai-enabled-laughing-robots-are-no-joke?amp"
 type: article
-quality: 57
+quality: 74
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-09/pic0921111.gif.jpg?itok=QnCgHwxS"
@@ -43,6 +44,6 @@ related:
         height: 250
         isCached: true
 
-secured: "Px56772q2LBJ5CXLlLUQ36WDwH6yzNsEMU+MjXDR7pVoSzBSdOFeryPi3vyxdPxv2DVxvqwgZ7Gl0q3VLDJFetTmkCxnHLteD5SSdh004P+bRp05LFH9cyCnh8WTKA21H4sfxx4kTSuxzb8sM/6fYmYcHPvscgZMF99efnil35ivvddoB8RymDqnuOCFJU3Fr7WZtwA//7OG0J1AgroNYBB25fALGBOIa4vxyI4akR/fhk8Q+kNfBb1EtCXUf/I/ZRSfR+RdrDVk1/4p9jScTLgm0vKB6xggAcEiRut8PUFZT27ogi2H81XYA6BxJcKqiuLDibZzysf7/OgPEvWP6EPfF1jhvxsDJEbuPmBhUG8=;WGaOiXybrDfhZvahzoB/xQ=="
+secured: "myBfvibuUsD7ltXZrAn16qJoNHhFUlIf55WdxSwplAvxsJyEh/FMvoBOFTJB3DARwk//3f1D1jR8YLeijxQKDrVAMQnf4etGs47JYsyarH1XmoJ2JOCZu8GNoPwl0M4a5hwKB4k7nk2JgxJky7gj9EcdOEvoDvqzMEku6LxpXqbaFHch4w6Su/qW+KDEVL9E5B14VH9E32PaaN9VXHdZLVkfRaeHn611l+il+4FS87Dk3B34y4i/u9AJqUSbVl4Q+ZVjI6yHctDiTgFxmkMBhqjB0o1p+K/Ra4bqU0yg+s66B+nHfxIGyOgzeMQddP8mjbTR9HPlJmKhi6RQbQrwLSsbVTyYIEYAgUKvjcbNIzzqAZZtJR9gW3R/ah1Je7adB71nirJXXqz4Z+8BnRCO2qooaXarPChzf7mrckiGvgax6+ZzFhVxNa2/iZYAuJpEY/0zdS05GJ+4+42lTQ3JCXqCh7pF7Nb+sKp53JAjwauCPhTnCBzwV9C+C3TiKzspb42K1ESmrvL93tKcAWacJg==;cL9iCNpE7CocVJp8BcvCNQ=="
 ---
 

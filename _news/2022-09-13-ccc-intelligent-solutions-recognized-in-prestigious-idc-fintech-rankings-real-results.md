@@ -1,55 +1,26 @@
 ---
 category: news
 title: "CCC Intelligent Solutions Recognized in Prestigious IDC FinTech Rankings Real Results"
-excerpt: "Debuting at #47 out of 100 financial technology providers, CCC joins the prestigious IDC FinTech Rankings Real Results list, which categorizes and evaluates the top global providers of financial technology based on calendar year revenues from financial institutions for hardware,"
-publishedDateTime: 2022-09-13T16:25:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-ccc-intelligent-solutions-recognized-prestigious-idc-fintech-rankings-/2022/09/13/9672697.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-ccc-intelligent-solutions-recognized-prestigious-idc-fintech-rankings-/2022/09/13/9672697.htm"
+excerpt: "CCC Intelligent Solutions Inc. (CCC), a leading SaaS platform powering the P&C insurance economy, has been named a top 100 financial technology provider by market intelligence firm IDC as part of their 19th annual IDC FinTech Ranking Real Results program."
+publishedDateTime: 2022-09-13T15:02:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/ccc-intelligent-solutions-recognized-in-prestigious-idc-fintech-rankings-real-results/article_051a4f87-8b00-5e38-8bad-4b2e6fa0b3be.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/ccc-intelligent-solutions-recognized-in-prestigious-idc-fintech-rankings-real-results/article_051a4f87-8b00-5e38-8bad-4b2e6fa0b3be.html"
 type: article
-quality: 0
-heat: -1
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "Interested in the Fintech Industry? Here is a Guide to Secure Your First Job"
-    excerpt: "Gone are the day when you queue for long hours to send or receive money at the bank. Currently, almost every bank has gone digital. With the use of a smartphone or laptop, you can save, send, receive,"
-    publishedDateTime: 2022-09-13T15:28:00Z
-    webUrl: "https://techbullion.com/interested-in-the-fintech-industry-here-is-a-guide-to-secure-your-first-job/"
-    ampWebUrl: "https://techbullion.com/interested-in-the-fintech-industry-here-is-a-guide-to-secure-your-first-job/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/interested-in-the-fintech-industry-here-is-a-guide-to-secure-your-first-job/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 41
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/09/Fintech-Industry.jpg"
-        width: 1920
-        height: 1284
-        isCached: true
-  - title: "YUSE.io Procures New Funding From Notable FinTech Investor Herbert Sim"
-    excerpt: "India has emerged into one of the largest financial technology (FinTech) ecosystems in the world, owing to surging funding activity, rapid adoption of digital financial services and supportive government initiatives."
-    publishedDateTime: 2022-09-13T15:05:00Z
-    webUrl: "https://www.india.com/brand-solution/business/yuse-io-procures-new-funding-from-notable-fintech-investor-herbert-sim/"
-    type: article
-    provider:
-      name: India
-      domain: india.com
-    quality: 24
-    images:
-      - url: "https://static.india.com/wp-content/uploads/2022/09/13-19.jpg"
-        width: 1200
-        height: 800
-        isCached: true
+images:
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg"
+    width: 350
+    height: 456
+    isCached: true
 
-secured: "GvElkiyidqk4nuUQNskUxZzNLkbzl7p+swnmn/F1bSrHFXCHelE26Rxr2GP+rgPGyCcZ5mo2408Lq3wEeg7PwVeSu8Z6MinNykpzavuKyUNp2PL3uzZWHECl/tA9KyVR35MN+speLZhoqVfatBbKPV4ICn8H8F0h82pV8xg8oVCD8pZZqfFPADuzUsC9V+lMQyMD60DoFR8k9PqfvmXEcj1/zGMPI1o/RK456guICbXKOEn/9N5DCQGicNgR7WdataZaZoQiUSWksDS5DDaEm0dnI9Mak1Lx8i8usMuYvJoLhnE+w9FMCS3gTMYdO9C1EkbyxXuudrQEP/jUjS9B5wr3VCZNbKEEcNTsqL/CCxc=;z5Z4WSZC6MZSfuFWHgDkOA=="
+secured: "1/vsNYn0KIWjPrrtwdQbRvP7RSIQYsUFJK27PAm/CN7RBDbVOsHLWt+B/6E1819LBx1/DEm4lcBnAApvWB3tE3m/5dEB7g3ZvAvs6l9D337nZOPuDoSBIJTZcClJapdr+077uLZH6TmRU2lHaRnsVBsqQYh9aPMskuER0p3O3Bf4yNRapHti08hW3fSaGtJ5k6Omy6rvHddt3a19Gohfb7KpP9Stv8+wqmAlkl76/GXwkmQuN5ywQQA6eMEIQWCgbynHaBOu41Cx8c5F0Vxzg7vFfu1VapmQ+BmSUpIRf6tDcT7+d24y2FC546u6gMuB9In0HMri2wxNvkCX4nrzn30sVIIXPrCITuSONuAzxQw=;3um9d1lStbzUuxDFfoGqKw=="
 ---
 

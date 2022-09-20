@@ -2,6 +2,144 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2022-08-01-voice-to-parliament-detail-demands-only-mask-rejection-of-entire-recognition-project.md",
+      "title": "Voice to Parliament: ‘detail’ demands only mask rejection of entire recognition project",
+      "excerpt": "Rest assured, if Anthony Albanese had unveiled a detailed model for an Indigenous Voice to Parliament on the weekend -- say, the local and regional/national Voice model outlined in last year's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.crikey.com.au/2022/08/01/indigenous-voice-to-parliament-details-demand/",
+      "originalUrl": "https://www.crikey.com.au/2022/08/01/indigenous-voice-to-parliament-details-demand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crikey.com.au/wp-content/uploads/2022/08/Voice_740x400.jpg",
+          "width": 740,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-31T18:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crikey",
+        "domain": "crikey.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-01-self-driving-cars-market-size-worth-636-billion-usd-by-2022-2025-cagr-203.md",
+      "title": "Self-Driving Cars Market Size Worth 6.36 billion USD by 2022-2025 | CAGR: 20.3%",
+      "excerpt": "Aug 01, 2022 (Market Insight Reports) -- The study highlights important advancements in organic and inorganic growth strategies in the worldwide Self-Driving Cars market. A lot of corporations are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-cars-market-size-worth-636-billion-usd-by-2022-2025-cagr-203-2022-08-01?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-cars-market-size-worth-636-billion-usd-by-2022-2025-cagr-203-2022-08-01?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-31T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-01-the-future-of-supply-chains-with-artificial-intelligence.md",
+      "title": "The Future of Supply Chains with Artificial Intelligence",
+      "excerpt": "It is undeniable that AI & machine learning is revolutionizing several sectors, particularly supply chain and logistics. Fremont, CA: Given",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioapplications.com/news/the-future-of-supply-chains-with-artificial-intelligence-nid-10080.html",
+      "originalUrl": "https://www.cioapplications.com/news/the-future-of-supply-chains-with-artificial-intelligence-nid-10080.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioapplications.com/newstransfer/upload/shv96cio-appli450308.jpg",
+          "width": 450,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO Applications",
+        "domain": "cioapplications.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-01-why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-5-of-5.md",
       "title": "Why Corporate Purpose And AI Ethics Must Be A Leadership And Risk Management Priority (Blog 5 Of 5)",
       "excerpt": "This is the final blog in a 5 part blog series looking at corporate purpose, AI, ML and data management foundations. Practical questions are identified to guide board directors and CEOs to improve their governance leadership practices regarding AI/ML.",
@@ -1025,153 +1163,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-indigenous-voice-campaigners-say-ample-detail-already-available-in-wake-of-pms-stirring-speech.md",
-      "title": "Indigenous voice campaigners say ample detail already available in wake of PM’s stirring speech",
-      "excerpt": "Albanese reveals wording of referendum question on Indigenous voice – video Leeser ... the 2018 joint select committee on constitutional recognition with the Western Australian Labor senator ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/australia-news/2022/jul/30/indigenous-voice-campaigners-say-ample-detail-already-available-in-wake-of-pms-stirring-speech",
-      "originalUrl": "https://www.theguardian.com/australia-news/2022/jul/30/indigenous-voice-campaigners-say-ample-detail-already-available-in-wake-of-pms-stirring-speech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/f21b8344f39eaac44f8627ff2468da44eef23473/0_0_3877_2580/master/3877.jpg?width=620&quality=85&auto=format&fit=max&s=161191fdb468d9b343e97f9a356678d5",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/australia-news/2022/jul/30/indigenous-voice-campaigners-say-ample-detail-already-available-in-wake-of-pms-stirring-speech",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/jul/30/indigenous-voice-campaigners-say-ample-detail-already-available-in-wake-of-pms-stirring-speech",
-      "publishedDateTime": "2022-07-30T01:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-robots-and-machines-making-work-inclusive.md",
-      "title": "Robots And Machines Making Work Inclusive",
-      "excerpt": "Machines and robots in the workplace are often described as harbingers of automation. However, machines can also improve accessibility into the workplace for those with disabilities. This article prov",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomokoyokoi/2022/07/30/some-machines-are-making-work-more-accessible/",
-      "originalUrl": "https://www.forbes.com/sites/tomokoyokoi/2022/07/30/some-machines-are-making-work-more-accessible/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62e4bf99d052bd56be5398d2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomokoyokoi/2022/07/30/some-machines-are-making-work-more-accessible/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomokoyokoi/2022/07/30/some-machines-are-making-work-more-accessible/amp/",
-      "publishedDateTime": "2022-07-29T22:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-how-artificial-intelligence-is-changing-the-way-we-write.md",
-      "title": "How Artificial Intelligence is Changing the Way We Write",
-      "excerpt": "Is AI changing the way we write? This post looks at some of the ways AI can affect how we communicate with others.",
-      "sourceUrl": null,
-      "webUrl": "https://huddle.eurostarsoftwaretesting.com/how-artificial-intelligence-is-changing-the-way-we-write/",
-      "originalUrl": "https://huddle.eurostarsoftwaretesting.com/how-artificial-intelligence-is-changing-the-way-we-write/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2022/06/Huddle-blog-AI-for-writing.png",
-          "width": 1170,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-29T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Test Environment",
-        "domain": "eurostarsoftwaretesting.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -36,20 +36,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 62
-  - title: "Machine learning gives glimpse of how a dog's brain represents what it sees"
-    excerpt: "Scientists have decoded visual images from a dog’s brain, offering a first look at how the canine mind reconstructs what it sees."
-    publishedDateTime: 2022-09-15T15:36:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/964886"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 52
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/66ef4c38-bc3b-4ac6-a394-ad1361e01851/Rendition/thumbnail/Content/Public"
-        width: 1477
-        height: 985
-        isCached: true
   - title: "Machine learning gives glimpse of how a dog's brain sees - study"
     excerpt: "Recent advancements in the fields of machine learning and functional magnetic resonance imaging (fMRI) have helped to decipher visual stimuli in human and nonhuman brains. However, this research, which provides new understandings of the nature of visual perception,"
     publishedDateTime: 2022-09-19T10:25:00Z

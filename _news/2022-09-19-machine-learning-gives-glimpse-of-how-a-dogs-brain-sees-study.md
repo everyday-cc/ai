@@ -44,20 +44,6 @@ related:
         width: 2880
         height: 1080
         isCached: true
-  - title: "Machine learning gives glimpse of how a dog's brain represents what it sees"
-    excerpt: "Scientists have decoded visual images from a dog’s brain, offering a first look at how the canine mind reconstructs what it sees."
-    publishedDateTime: 2022-09-15T15:36:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/964886"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 52
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/66ef4c38-bc3b-4ac6-a394-ad1361e01851/Rendition/thumbnail/Content/Public"
-        width: 1477
-        height: 985
-        isCached: true
 
 secured: "gWOMT4gIe9Jb5UU7a5sC/eUlXQ0KEwFWb7Te/HIdBTulH0M6FHgAi8/FaVCm5/vVqZke78B7oZutMQGBplVUEOBchY4hEAcv8BfYGw0KNZmFvUP6Usv2dgI9u8YHKD9rhGAgBSoGWL/Gp81gTssJ8yyeUhrcmSrykWxHWHlTmLTuhgVyQ2uzj02irOt1R3NDl1ikVDwhib/s4btGITGe30LMdWQIG2Zern+ifTWgipgzXWuyIr4ONQerwOjtCzzcRVVwORVCb/Q0baoVGQ+l1BXW5ypQRk3vUEgopVwUKoPbFVHhIAI70SWmvKCV/584Xg1Vrwi6Q14l2RNS8VbSrhfPnQaD/Byxol5atcHSou6HFLA1FHr7nZ2jsmEVY28MLHf5XykSnvYs7BTE1X1/mR44OGbFUUAQVY04JudBaiMelm7+KWl68/benT+Y3fuylGLBcEeO9C10+tzBle7yQHXR0USxJy/27oWleuvU+IhfVwDA+TxJKOW7h8etz3n6+gguYRRVpouWrLy0t/3HfQ==;Gx6V/UJdvEgSb7xcPcYGFA=="
 ---
