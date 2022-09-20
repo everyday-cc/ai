@@ -18,6 +18,7 @@ topics:
   - Microsoft AI
   - AI
   - Natural Language Processing
+  - IBM AI
 
 related:
   - title: "Global Smart Shelves Market Report 2022: Growth in Demand for AI-Powered Dynamic Pricing Solutions Presents Opportunities - ResearchAndMarkets.com"

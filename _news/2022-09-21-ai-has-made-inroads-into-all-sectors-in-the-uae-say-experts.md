@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-20T19:19:00Z
 originalUrl: "https://menafn.com/1104896917/AI-Has-Made-Inroads-Into-All-Sectors-In-The-UAE-Say-Experts"
 webUrl: "https://menafn.com/1104896917/AI-Has-Made-Inroads-Into-All-Sectors-In-The-UAE-Say-Experts"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Mena FN

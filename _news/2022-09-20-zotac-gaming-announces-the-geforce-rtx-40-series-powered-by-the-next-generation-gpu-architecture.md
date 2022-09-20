@@ -39,15 +39,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "NVIDIA Announces OVX Computing Systems - the Graphics and Simulation Foundation for the Metaverse - Powered by Ada Lovelace GPU"
-    excerpt: "NVIDIA today announced the second generation of NVIDIA OVX™, powered by the NVIDIA Ada Lovelace GPU architecture and enhanced networking technology, to deliver groundbreaking real-time graphics, AI and digital twin simulation capabilities."
-    publishedDateTime: 2022-09-20T17:55:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-nvidia-announces-ovx-computing-systems-graphics-simulation-foundation-/2022/09/20/9677407.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "YMfPVckshK4lJ1jlya0tOQ+umbvtj35+rP9B4tcVlm7RBNCJdKHBzl1dioebF14yNujG060mV0jHYpAuKVKydYfTnaq3VnR7WfmlvGcyWZ39EK5dscEnMpTYZqdJ6jQqLLLhy1qp7LYjsc1w6skAkpkZShgI5FoN4vLLhVh3q9NjE+iAPJYoHf2PjJMJOP9xnyfyaJl8tc3CgmdVWsaVs/dPCaQAsH60f9Q/aXpvYlTwVK51pzM7yP7fTw7DD2md2V1TjVaxfrId0E9mgkUpgp7zXuR3+p5cQ9wkW8Gar3hC8z7j5rQxc0Rj6TkTn1DQCZRgUFrSms+g/5PIe7IubdN5leQJLGu01w70AuCP0LA=;9rMPLvZv1n0tTfwqaRFaHA=="
 ---

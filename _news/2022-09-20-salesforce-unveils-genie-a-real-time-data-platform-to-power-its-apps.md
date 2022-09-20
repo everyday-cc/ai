@@ -46,6 +46,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 27
+  - title: "Salesforce and AWS Announce Expansion of Strategic Partnership"
+    excerpt: "Salesforce and AWS today announced new integrations between the Salesforce Platform and Amazon SageMaker. The integrations will enable"
+    publishedDateTime: 2022-09-20T20:17:00Z
+    webUrl: "https://www.datanami.com/this-just-in/salesforce-and-aws-announce-expansion-of-strategic-partnership/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
 
 secured: "DlsqYJFfvRXgjMs7CDeVYyeVOON4vs3WXwVZQniKoV1FuYUN1kYruXkiGJPrhq6wDj8W+KTeKzf31nrWIn7ZFgql21iqzeyH4kTHYfzI4K8+1teU0sj4oIC2p2hS39d71g/TuJpp/dSE/dXa4NdESDEWdm1WYSwotO/oxs2VOn36isJ09sNBjXZTPU/GM9S4x504jx6FPSYSCboVtXqL7tns2XQqACoOhogPIdusDrOfmNfcDk2U/j2MqAcfiOeRhY15FQBGagOoCsUMtqDdck8th1ZYc01/knae0zPf4htcGKvJuDHpk/TIgHCv2R/2cQn2ztoUCX5IT88NKq6G+YY5grMmno/OpMkT9lnlRgZqAmqvFzVawVx4cmZlJ9m3K3/9OKFjAnj7FCwTW9zM+IaAjShj/gYx358T3T40xgu5DjafmlPRMOAKVKxGNqiLHtjqzBDWcCcPpIf23AI3c1LhlTpU7Enwq14wrVIXhIfb8vZYN+IalxWLvCAqD3jD3ATPRM9ncuJh3lJ4Hk5OLw==;lPRkK8o61max8Zyns3WsJQ=="
 ---

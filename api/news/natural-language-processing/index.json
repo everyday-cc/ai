@@ -108,6 +108,50 @@
       ]
     },
     {
+      "path": "_news/2022-09-16-automatic-facial-recognition-the-debate-in-2022.md",
+      "title": "Automatic Facial Recognition – The debate in 2022",
+      "excerpt": "In particular, public and private sectors are exploring the use of solutions utilising Automated Facial Recognition (AFR) to prevent crime and improve the safety of their facilities – but where are we now in the AFR debate? In IFSEC Global’s Video ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ifsecglobal.com/surveillance/automatic-facial-recognition-the-debate-in-2022/",
+      "originalUrl": "https://www.ifsecglobal.com/surveillance/automatic-facial-recognition-the-debate-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s33644.pcdn.co/wp-content/uploads/2019/10/fr.gif",
+          "width": 1000,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ifsecglobal.com/surveillance/automatic-facial-recognition-the-debate-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-ifsecglobal-com.cdn.ampproject.org/c/s/www.ifsecglobal.com/surveillance/automatic-facial-recognition-the-debate-in-2022/amp/",
+      "publishedDateTime": "2022-09-16T01:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ifsecglobal.com",
+        "domain": "ifsecglobal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-09-16-truist-launches-ai-enhanced-truist-assist.md",
       "title": "Truist launches AI-enhanced Truist Assist",
       "excerpt": "Truist Financial today launched its artificial intelligence (AI)-enhanced virtual assistant Truist Assist, which introduces a self-service element to the bank’s customer experience offerings. The virtual assistant leverages natural language processing and natural language understanding that helps answer client questions in a digital channel,",
@@ -1363,58 +1407,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-why-bidens-speech-was-among-the-most-disgusting-speeches-ever-ron-desantis.md",
-      "title": "Why Biden's speech was among 'the most disgusting speeches' ever: Ron DeSantis",
-      "excerpt": "Florida Gov. Ron DeSantis explained why President Biden's Thursday speech was \"one of the most disgusting speeches an American president has ever given\" Friday on \"The Ingraham Angle.\" GOV.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/bidens-speech-most-disgusting-speeches-given-ron-desantis",
-      "originalUrl": "https://www.foxnews.com/media/bidens-speech-most-disgusting-speeches-given-ron-desantis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2022/02/DeSantis-biden.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/bidens-speech-most-disgusting-speeches-given-ron-desantis",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/bidens-speech-most-disgusting-speeches-given-ron-desantis",
-      "publishedDateTime": "2022-09-03T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -22,6 +22,17 @@ topics:
   - AI in Autos
   - AI
 
+related:
+  - title: "World Healthcare BI Market Trends, Covid-19 Impact, and Forecasts Report 2022-2027"
+    excerpt: "The \"Healthcare BI Market- Growth, Trends, Covid-19 Impact, And Forecasts (2022 - 2027)\" report has been added to ResearchAndMarkets.com's offering.The healthcare"
+    publishedDateTime: 2022-09-20T14:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28932883/world-healthcare-bi-market-trends-covid-19-impact-and-forecasts-report-2022-2027"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 13
+
 secured: "hv7i//FUGYvzFk3gtAoX5ILEkXPCyc+W1m3RwLK/g0671+ORaTZV0mt8e4zxK9WrG5mPFue2qDoJB9pdZQ5+SS/hM9hjPD+47OcK8H3vsealV4OA3blHBwpR6CMgsihFvqEzuTsz6ysDfqEJtJ43G2b1pXUrotEB3Zo9Srtl7MgwMuF65LzdsdtXxnWJZA+JxhVjk5wVg6uWXt2orPyHJ783yCpb8KUQVVo/b/x1fU+JA2tG1Eo+/F21BK+cbKmLPXe94e5UIP4tsRPhmO1x5RUnj3HdlMENf0PbwpIJTARxthV9R1rO3jlckhyirTAjAsiR3md07LuFXjFEd8cCV8/BmEgDz9hLSX3kb5Y7MaE=;pt9cgmu9AJ40yNVNJ86H7g=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/parallel-data-proces
 webUrl: "https://aws.amazon.com/blogs/machine-learning/parallel-data-processing-with-rstudio-on-amazon-sagemaker/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Amazon SageMaker Provides New Built-in TensorFlow Image Classification Algorithms"
+    excerpt: "The Amazon SageMaker TensorFlow image classification algorithm is a supervised learning algorithm that supports transfer learning with many pretrained models from the TensorFlow Hub. The image ..."
+    publishedDateTime: 2022-09-16T16:27:00Z
+    webUrl: "https://www.infoq.com/news/2022/09/sagemaker-tensorflow-image/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 48
 
 secured: "CmpNyZ8pEmKSjVztOTrouatxjdpQwiXnXNAQ1w5+5nmMoRpwnyW2LPeXTFxki7hzjCPbSGY+4xHEiX3B+Z03pHXPLfYICTwq3L9i/Jvdt/y+Vp7YOY5ElgIcyGZbINewSYaa3X5QbrJ0RAdnx4GbuXs0Q55XNBwPuQZeP0fSIrXRcAoaQEY+LE2BoVFGWkWGDxTXgwpZKMObuVoMTJ59H4Osjy6QKnk8AiFy3agP5DiI3SMYTYeV9lB+snHUcx4CfIAoY3+d0RqB2io0wDSl3FyUQ0xGbMlaCsI7oBEZto+IJ/TAlUSxeBGmR/XvV0EwHBnxGqNNbOOEicAlzXryoEVK27tESiDkNsDaVR/k9sI=;HuEzXmwx/0I0oMzXRIkQYA=="
 ---

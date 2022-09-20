@@ -40,22 +40,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Winn.AI Goes Out Of Stealth and secures $17 Million Seed Funding for Real-Time AI Sales Assistant"
-    excerpt: "The real-time AI assistant is touted to help sales teams save time on busywork and win more deals.  August 27, 2022 –  Israeli sales tech start-up, Winn.AI, announced that it has raised $17 million in seed funding from global software investor Insight Partners and Israeli venture capital firm S-Capital."
-    publishedDateTime: 2022-09-16T01:38:00Z
-    webUrl: "https://techbullion.com/winn-ai-goes-out-of-stealth-and-secures-17-million-seed-funding-for-real-time-ai-sales-assistant/"
-    ampWebUrl: "https://techbullion.com/winn-ai-goes-out-of-stealth-and-secures-17-million-seed-funding-for-real-time-ai-sales-assistant/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/winn-ai-goes-out-of-stealth-and-secures-17-million-seed-funding-for-real-time-ai-sales-assistant/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 61
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/09/Winn.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "Video AI Startup Rephrase.ai Raises $10.6 mn in Series A Round by Red Ventures"
     excerpt: "According to a statement, the funding round was led by Red Ventures; witnessed participation from investors like 8VC among several others, including Silver Lake, one of the leading technology investors with stakes in Red Ventures."
     publishedDateTime: 2022-09-16T07:14:00Z
@@ -79,6 +63,15 @@ related:
       name: finsmes
       domain: finsmes.com
     quality: 17
+  - title: "Pano AI raises $20 million Series A to use AI imaging to combat wildfires"
+    excerpt: "Pano AI, a startup that builds imaging systems to detect and prevent wildfires, has raised a $20 million Series A led by Initialized Capital and included Congruent Ventures, Convective Capital, DCVC,"
+    publishedDateTime: 2022-09-20T15:34:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2022/09/20/pano-forest-fire.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 16
 
 secured: "Yo9WdopKlUmWSFNhI9933mmo8HSujn3/DS1gXdp6lXg8EsrEwlciYImomnZCotM+SuVm5UdRrRp40kexUeXjv3+tSakDF1DSRamTECHeGqoGW/QSUxdhI8Todraq9/c9b3SnBa+t/mUJhSsvsfEKEs36/bSpWpvau026cIcpuwjQbXfYME/Zu8Tu1Ttc88AAFCsDfh123H6mDO85KuzwNx4+hNBxlNKEmZVrocvonhK2s378dbeou4uwAZ0cEQgxGXPt+l/4fjnySJsYWAwlkb2t95h672D15sxccN0P6TB7XEUW5IQS0YnOQUyfm/kIdrqOLQ3Sg4kVEPWk2CnUmrAZv8LYsWCHHyn2/w0HTGCmBkTZPIkLfl2KWNHiJChKWH81BRtM3SrPVlvRU+29vWY4GrmY/w2hGbHltr/A+oaSwyRbvGcXBKMWX+YAR+fDUlfN2dXwkJFMZK5x1FMmclBNxVLuxX3V0VYDrc4vuf/DCsXKbAwbyNcO60I3fs3g3Ob3njHqFPuOeuhfLnEgVA==;C3I6xXehcOCdCOg4cxdzkg=="
 ---

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-03-why-bidens-speech-was-among-the-most-disgusting-speeches-ever-ron-desantis.md",
+      "title": "Why Biden's speech was among 'the most disgusting speeches' ever: Ron DeSantis",
+      "excerpt": "Florida Gov. Ron DeSantis explained why President Biden's Thursday speech was \"one of the most disgusting speeches an American president has ever given\" Friday on \"The Ingraham Angle.\" GOV.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/bidens-speech-most-disgusting-speeches-given-ron-desantis",
+      "originalUrl": "https://www.foxnews.com/media/bidens-speech-most-disgusting-speeches-given-ron-desantis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2022/02/DeSantis-biden.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/bidens-speech-most-disgusting-speeches-given-ron-desantis",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/bidens-speech-most-disgusting-speeches-given-ron-desantis",
+      "publishedDateTime": "2022-09-03T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-03-why-do-we-keep-repeating-the-same-mistakes-on-ai.md",
       "title": "Why Do We Keep Repeating The Same Mistakes On AI?",
       "excerpt": "Artificial intelligence has been on the horizon for over seventy years. Why does it seem so close but also so unattainable? Are we repeating the same mistakes over and over?",
@@ -1358,58 +1410,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-packaging-corporation-of-america-selects-orion-to-provide-real-time-language-translation-for-logistics-operations.md",
-      "title": "Packaging Corporation of America Selects Orion to Provide Real-Time Language Translation for Logistics Operations",
-      "excerpt": "Packaging Corporation of America Selects Orion to Provide Real-Time Language Translation for Logistics Operations Aug 23, 2022 (PRNewswire via COMTEX) --",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/packaging-corporation-of-america-selects-orion-to-provide-real-time-language-translation-for-logistics-operations-2022-08-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/packaging-corporation-of-america-selects-orion-to-provide-real-time-language-translation-for-logistics-operations-2022-08-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

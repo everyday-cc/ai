@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-20T18:07:00Z
 originalUrl: "https://www.vgr.com/neurobiology-intels-new-arc-a770-gaming-gpu-neuromorphic-chip-and-mental-health/"
 webUrl: "https://www.vgr.com/neurobiology-intels-new-arc-a770-gaming-gpu-neuromorphic-chip-and-mental-health/"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: VGR.com

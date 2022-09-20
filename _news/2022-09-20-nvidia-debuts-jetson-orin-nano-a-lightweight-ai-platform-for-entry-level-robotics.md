@@ -138,6 +138,31 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "NVIDIA Jetson Orin Nano Sets New Standard for Entry-Level Edge AI and Robotics With 80x Performance Leap"
+    excerpt: "Canon, John Deere, Microsoft Azure, Teradyne, TK Elevator Join Over 1,000 Customers Adopting Jetson Orin Family Within Six Months of Launch SANTA CLARA, Calif., Sept. 20, 2022 (GLOBE NEWSWIRE) -- GTC"
+    publishedDateTime: 2022-09-20T15:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28935030/nvidia-jetson-orin-nano-sets-new-standard-for-entry-level-edge-ai-and-robotics-with-80x-performanc"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28935030"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28935030"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg"
+        width: 700
+        height: 300
+        isCached: true
+  - title: "Nvidia moves Hopper GPUs for AI into full production"
+    excerpt: "Welcome Hopper. Nvidia announced today that the Nvidia H100 Tensor Core graphics processing unit (GPU) is in full production."
+    publishedDateTime: 2022-09-20T19:41:00Z
+    webUrl: "https://venturebeat.com/games/nvidia-moves-hopper-gpus-for-ai-into-full-production/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
   - title: "Run:ai Certified to Run NVIDIA AI Enterprise Software Suite"
     excerpt: "Run:ai, the leader in compute orchestration for AI workloads, today announced that its Atlas Platform is certified to run NVIDIA AI Enterprise, an end-to-end, cloud-native"
     publishedDateTime: 2022-09-20T16:45:00Z
@@ -154,6 +179,34 @@ related:
         width: 700
         height: 300
         isCached: true
+  - title: "Nvidia debuts new AI tools for biomolecular research and text processing"
+    excerpt: "The first product, BioNeMo, is a framework for developing natural language processing models that can assist scientists with biology and chemistry research. Alongside the framework, Nvidia today also debuted two cloud-based artificial intelligence services."
+    publishedDateTime: 2022-09-20T17:34:00Z
+    webUrl: "https://siliconangle.com/2022/09/20/nvidia-debuts-new-ai-tools-biomolecular-research-text-processing/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 42
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/nvidia.png"
+        width: 718
+        height: 400
+        isCached: true
+  - title: "NVIDIA RTX Remix Features Hefty AI-Assisted Modding Tool"
+    excerpt: "NVIDIA RTX Remix takes modding to a whole new level and allows players to take beautiful in-game screenshots with the press of a hotkey."
+    publishedDateTime: 2022-09-20T20:31:00Z
+    webUrl: "https://techraptor.net/gaming/news/nvidia-rtx-remix-features-hefty-ai-assisted-modding-tool"
+    type: article
+    provider:
+      name: TechRaptor
+      domain: techraptor.net
+    quality: 39
+    images:
+      - url: "https://techraptor.net/sites/default/files/styles/image_header/public/2022-09/Screenshot%20%28432%29.jpg?itok=ee9WuLaA"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "NVIDIA Jetson Orin Nano Sets New Standard for Entry-Level Edge AI and Robotics With 80x Performance Leap"
     excerpt: "NVIDIA today expanded the NVIDIA® Jetson™ lineup with the launch of new Jetson Orin Nano™ system-on-modules that deliver up to 80x the performance over the prior generation, setting a new standard for entry-level edge AI and robotics."
     publishedDateTime: 2022-09-20T17:44:00Z
@@ -163,6 +216,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 36
+  - title: "Run:ai Certified to Run NVIDIA AI Enterprise Software Suite"
+    excerpt: "AI Atlas for NVIDIA AI Enterprise will help data scientists run their AI workloads most efficiently,\" said Omri Geller, CEO and co-founder of Run:ai. \"Our mission is to speed up AI and get more models into production,"
+    publishedDateTime: 2022-09-20T18:18:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/09/20/9677425.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "NVIDIA Hopper in Full Production"
     excerpt: "NVIDIA today announced that the NVIDIA H100 Tensor Core GPU is in full production, with global tech partners planning in October to roll out the first wave of products and services based on the groundbreaking NVIDIA Hopper™ architecture."
     publishedDateTime: 2022-09-20T16:45:00Z

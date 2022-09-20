@@ -44,6 +44,26 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Cruise Plans to Expand Driverless Ride Service: Lower Prices Key to Driving Demand"
+    excerpt: "Cruise plans to expand its driverless ride service to Austin and Phoenix before the end of the year, the company’s chief executive Kyle Vogt said last week. The San Francisco, California-headquartered self-driving car company is a largely autonomous subsidiary of General Motors."
+    publishedDateTime: 2022-09-20T15:23:00Z
+    webUrl: "https://www.nasdaq.com/articles/cruise-plans-to-expand-driverless-ride-service%3A-lower-prices-key-to-driving-demand"
+    ampWebUrl: "https://www.nasdaq.com/articles/cruise-plans-to-expand-driverless-ride-service:-lower-prices-key-to-driving-demand?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cruise-plans-to-expand-driverless-ride-service:-lower-prices-key-to-driving-demand?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 63
+  - title: "As Driverless Cars Falter, Are ‘Driver Assistance’ Systems in Closer Reach?"
+    excerpt: "With investigations and lawsuits over accidents adding skepticism toward fully driverless technology, car companies are betting on systems that take some, but not all, control. Send any friend a ..."
+    publishedDateTime: 2022-09-16T18:58:00Z
+    webUrl: "https://www.nytimes.com/2022/09/16/business/driverless-cars-assistance-systems.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 47
   - title: "WeRide launches first fully driverless ride of robobus in Mideast"
     excerpt: "The launch of the driverless robobus in Riyadh becomes another important milestone in WeRide's global footprint, attributed to its best-in-class autonomous driving technology and its rich commercial e"
     publishedDateTime: 2022-09-20T04:48:00Z

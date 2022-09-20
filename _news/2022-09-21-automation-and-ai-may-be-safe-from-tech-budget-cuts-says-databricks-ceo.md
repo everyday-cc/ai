@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-20T17:50:00Z
 originalUrl: "https://www.wsj.com/articles/automation-and-ai-may-be-safe-from-tech-budget-cuts-says-databricks-ceo-11663699806"
 webUrl: "https://www.wsj.com/articles/automation-and-ai-may-be-safe-from-tech-budget-cuts-says-databricks-ceo-11663699806"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: Wall Street Journal

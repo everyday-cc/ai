@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "20+ Leading technology organisations orchestrated the loudest fintech show in the Philippines"
-    excerpt: "Leading technology organisations orchestrated the loudest fintech show in the Philippines - Southeast Asia’s most renowned FSI event, World Financial Innovation Series (WFIS) disrupted"
-    publishedDateTime: 2022-09-20T11:08:00Z
-    webUrl: "https://www.siliconindia.com/news/general/20-leading-technology-organisations-orchestrated-the-loudest-fintech-show-in-the-philippines-nid-220027-cid-1.html"
+  - title: "20+ Leading Technology Organisations Orchestrated the Loudest Fintech Show in the Philippines"
+    excerpt: "Southeast Asia’s most renowned FSI event, World Financial Innovation Series (WFIS) disrupted the Philippines’ fintech market with its inaugural edition in the country on 16 – 17 August 2022 at the Sofitel Philippine Plaza in Manila."
+    publishedDateTime: 2022-09-20T11:17:00Z
+    webUrl: "https://financialit.net/news/infrastructure/20-leading-technology-organisations-orchestrated-loudest-fintech-show"
     type: article
     provider:
-      name: SiliconIndia
-      domain: siliconindia.com
+      name: Financial IT
+      domain: financialit.net
     quality: 13
     images:
-      - url: "https://www.siliconindia.com/news/newsimages/A3M4fVv0.jpg"
-        width: 570
-        height: 367
+      - url: "https://financialit.net/sites/default/files/img_6454.png"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "ecGRq/wj3AuZajNxhpQK7puGafv+7q6RCKR06Bvn1bY3JIcVisjbsXT8es19dMfcG8zX5fye2eWW2oLVp3gudPZTObQkL8W5ZagfEHZFq46ZMH/jdAnaMydjowZVJx/Iiry69PdjjbxDvKhEkt9OHyUjHdsAZGvytE8bB4Fm/ps/xKHMNuh2O37p3moFxO8oT98x5eTrTFXQF/bzwFpKLZzmWblNNIF4TGSYDp1wCcP+3FAqrh8dJCoXKrUSPPg2+20cQCgBbuiGM7aKpo0zYccEadybcSkVHeh8zF3cciYbck9yPCbphBqXRjzMbzgfsDwQZ6JFkRLES7lelhESP1hLqy342HRPkLvLN4qMPp4=;69gaBnC/F1gG9km5Q3xi7w=="

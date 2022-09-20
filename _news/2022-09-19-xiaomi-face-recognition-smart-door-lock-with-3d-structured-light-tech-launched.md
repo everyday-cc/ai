@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2022/09/19/xiaomi-face-recognition-smart-
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/09/19/xiaomi-face-recognition-smart-door-lock-3d-structured-light-tech-launched/?amp=1"
 type: article
 quality: 85
-heat: 87
+heat: 86
 published: true
 
 provider:

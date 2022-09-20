@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Let's Investigate a Way to Invest in Artificial Intelligence and Robotics"
+    excerpt: "A Real Money subscriber wants to be involved with robotics and artificial intelligence in the years to come but doesn't believe he is a good stock picker. So what should he do? Let's check out the charts of the Global X Robotics & Artificial Intelligence ETF (BOTZ) ."
+    publishedDateTime: 2022-09-20T18:11:00Z
+    webUrl: "https://realmoney.thestreet.com/investing/ets/artificial-intelligence-and-robotics-etf-botz-16102690"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 48
   - title: "Bringing Medicines to Market Faster Through Analytics & Machine Learning"
     excerpt: "Traditional medicine isn’t generally taken very seriously in the United States. However, Dr. Andrea Small-Howard, President and CSO at GB Sciences e"
     publishedDateTime: 2022-09-16T19:30:00Z

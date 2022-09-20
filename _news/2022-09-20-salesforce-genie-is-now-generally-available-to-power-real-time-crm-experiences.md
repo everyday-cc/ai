@@ -38,6 +38,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 27
+  - title: "Salesforce and AWS Announce Expansion of Strategic Partnership"
+    excerpt: "Salesforce and AWS today announced new integrations between the Salesforce Platform and Amazon SageMaker. The integrations will enable"
+    publishedDateTime: 2022-09-20T20:17:00Z
+    webUrl: "https://www.datanami.com/this-just-in/salesforce-and-aws-announce-expansion-of-strategic-partnership/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
   - title: "Salesforce unveils Genie, a real-time data platform to power its apps"
     excerpt: "Rahul Auradkar, head of customer data platform at Salesforce, told SiliconANGLE that Genie was built to create a single platform to unify and personalize data that could be accessed in real-time and power the entirety of Salesforce’s platform."
     publishedDateTime: 2022-09-20T12:00:00Z

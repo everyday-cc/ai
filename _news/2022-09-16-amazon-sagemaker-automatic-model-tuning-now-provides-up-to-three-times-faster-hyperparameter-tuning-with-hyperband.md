@@ -57,6 +57,15 @@ related:
         width: 1549
         height: 773
         isCached: true
+  - title: "Amazon SageMaker Provides New Built-in TensorFlow Image Classification Algorithms"
+    excerpt: "The Amazon SageMaker TensorFlow image classification algorithm is a supervised learning algorithm that supports transfer learning with many pretrained models from the TensorFlow Hub. The image ..."
+    publishedDateTime: 2022-09-16T16:27:00Z
+    webUrl: "https://www.infoq.com/news/2022/09/sagemaker-tensorflow-image/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 48
 
 secured: "LBXdgLdn0qLRklTMG/gCQVo5/vUiAIfqwoL8mFEFeqtjR/V1v/Wvlw/1VRMuGSX43TvcERKXIUeebVOfekSoSBWK2P3bnyaXOkCjWNDNpXVcsK6wq9dz+ReiAx5zl19c2RdI0+QUZOi1OB/2e/bl1ae28IkIDK/Ydw7kg9EV7h1DkkV68SHB9q6XjKNlkm6WvVPDAKkJyoQYhhmFMj5E0qlwkjx9bifR1D7uYHTMJa3e4j6HUizQyH/3Q6KrcHai7zDOInkYV2te6K1rhsLB4BQJhPX7WgTKAMOqnuMM/MHOu5mldYNW7n8wMq/b/JUgUwTHrlruwk5rVI8durir91VpuAfeM4cgmBX8Z71rk/A=;mXl+XK9RSDUzUDvdYN4xgQ=="
 ---

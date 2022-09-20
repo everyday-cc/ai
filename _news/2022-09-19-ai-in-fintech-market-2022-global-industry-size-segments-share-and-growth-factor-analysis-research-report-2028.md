@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-19T05:14:00Z
 originalUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-2022-global-industry-size-segments-share-and-growth-factor-analysis-research-report-2028-2022-09-19"
 webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-2022-global-industry-size-segments-share-and-growth-factor-analysis-research-report-2028-2022-09-19"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: MarketWatch
@@ -18,6 +21,17 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Artificial Intelligence (AI) in Fintech Market Set to Boom Reaching USD 28.11 Billion by 2028 | BlueWeave Consulting"
+    excerpt: "Global Artificial Intelligence (AI) in Fintech Market size is expanding at an impressive growth rate during the forecast period, mainly due to increasing application of the"
+    publishedDateTime: 2022-09-16T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28898304/artificial-intelligence-ai-in-fintech-market-set-to-boom-reaching-usd-28-11-billion-by-2028-bluewe"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 11
 
 secured: "GrivPkwMaciDnvcIjepvYOu16DoNHXOHqNg3Q21pEosUOUQeZ5MUxZRphr+FF16imV+Rzfn0VfhkjSxXQ0Ohurnvs+c53KGegofAmulYS7IrPb+e0Gk/w3oNMs0RIiGgsnAT+ZrKk5qpnuoiUkrjcKE5/95VixoYZ5GhxMeJY1RIc164KarZiCE0jmeHBksz8p0p9F3Vocfl/N6aHZ1rdO/sG8kEECG48Pa0WhEBuz5VUyR0w7nfmOcU6Q8P5SRpVVKjZvrLJ4NmoYKSmo4SIFn1Uswhio1mtFf2oj1zrxHO1pRhbKl/M3IhBMDRBRGnvLZUxOWMzZV6AqxES2rQX7p9OGfCYCwUN3ahkEh1aWI=;lRAgMqak5+vCDtEJVNPr3w=="
 ---

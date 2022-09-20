@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-20T18:20:00Z
 originalUrl: "https://www.darkreading.com/dr-tech/cast-ai-introduces-cloud-security-insights-for-kubernetes"
 webUrl: "https://www.darkreading.com/dr-tech/cast-ai-introduces-cloud-security-insights-for-kubernetes"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Dark Reading

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-20T18:16:00Z
 originalUrl: "https://it.tmcnet.com/news/2022/09/20/9677405.htm"
 webUrl: "https://it.tmcnet.com/news/2022/09/20/9677405.htm"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: TMCnet
@@ -14,6 +17,33 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Nvidia and Booz Allen develop Morpheus platform to supercharge security AI"
+    excerpt: "Nvidia and Booz Allen announce the launch of Morpheus, a security AI solution designed to offer greater data processing capabilities."
+    publishedDateTime: 2022-09-20T16:45:00Z
+    webUrl: "https://venturebeat.com/security/nvidia-and-booz-allen-develop-morpheus-platform-to-supercharge-security-ai/"
+    ampWebUrl: "https://venturebeat.com/security/nvidia-and-booz-allen-develop-morpheus-platform-to-supercharge-security-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/nvidia-and-booz-allen-develop-morpheus-platform-to-supercharge-security-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1334595508-popba.jpg?w=1200&strip=all"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Nvidia and Booz Allen team up on AI-powered, GPU-accelerated cybersecurity"
+    excerpt: "Nvidia Corp. said today it’s partnering with Booz Allen Hamilton Inc. to bring an artificial intelligence-enabled, graphics processing unit-accelerated cybersecurity platform to customers looking to safeguard deployments at the network edge."
+    publishedDateTime: 2022-09-20T16:45:00Z
+    webUrl: "https://siliconangle.com/2022/09/20/nvidia-booz-allen-team-ai-powered-gpu-accelerated-cybersecurity/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
 
 secured: "DwsFMNBEC/5mqzN9K3/zcuwnRwPBur4UhE54Y6v/1tg+9Bqp9O4zEqZIzSf/YXQGznKcJ1vAIyLvqxh1pjNZ0hLnfsjTuhexF0/5DcX/0Q+L0iGrB6tuZInr23oVLkPzr7NokmF/hiwVHKIKVnyLHq2rS/RlSMlIik52rjXV1cKvp8A8MU9gTVQJVU9CpgoBw6RiNG3XZrnUQNTDOqcFaNhtZXX5oNqdjgvTF0EZroXKZ1U+44UC7fubnmPMvc0EwhFImq9sfIwArkhiC9KJnf/3cRpD5LZQO7DfRJwXR6q3/mV1XUOJadBQ4kP/pfOYBgDjnpQwZW6xBS2xh1ScuRQ3RBMRCZH1ih8lte+fxfQ=;gBkC/rOChpDXzXJ18hDiMg=="
 ---

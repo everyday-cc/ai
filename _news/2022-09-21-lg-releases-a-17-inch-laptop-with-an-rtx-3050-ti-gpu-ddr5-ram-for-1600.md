@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-20T18:39:00Z
 originalUrl: "https://arstechnica.com/gadgets/2022/09/lgs-17-inch-ultra-laptop-has-rtx-3050-ti-graphics-for-1600/"
 webUrl: "https://arstechnica.com/gadgets/2022/09/lgs-17-inch-ultra-laptop-has-rtx-3050-ti-graphics-for-1600/"
 type: article
+quality: 48
+heat: 48
+published: false
 
 provider:
   name: Ars Technica

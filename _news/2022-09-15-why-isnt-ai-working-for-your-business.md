@@ -5,6 +5,8 @@ excerpt: "Accenture reports that only 12% of AI adopters are currently using AI 
 publishedDateTime: 2022-09-14T18:50:00Z
 originalUrl: "https://techbeacon.com/enterprise-it/why-isnt-ai-working-your-business"
 webUrl: "https://techbeacon.com/enterprise-it/why-isnt-ai-working-your-business"
+ampWebUrl: "https://techbeacon.com/enterprise-it/why-isnt-ai-working-your-business?amp"
+cdnAmpWebUrl: "https://techbeacon-com.cdn.ampproject.org/c/s/techbeacon.com/enterprise-it/why-isnt-ai-working-your-business?amp"
 type: article
 quality: 17
 heat: -1
@@ -16,6 +18,13 @@ provider:
 
 topics:
   - AI
+  - IBM AI
+
+images:
+  - url: "https://techbeacon.com/sites/default/files/styles/social/public/field/image/kevin-ku-w7zyugynprq-unsplash.jpg?itok=gZoW4PpU"
+    width: 1024
+    height: 768
+    isCached: true
 
 related:
   - title: "Ironclad’s new contract platform embeds AI to improve business workflows"
@@ -49,6 +58,6 @@ related:
         height: 450
         isCached: true
 
-secured: "sIADZ3xI3YY76Qlto80QUQW3sN/gzwXDlYmyPuRjkvMmyRmE72by/qGjeSXB+RzJ79YAVrJ/7SPskOJJsvUl3jFrfGi4pY0lw7AvaflIdP5amX/LmlREw+8XKl9uelS8ZzDMSYK6tLNWuEQeOTVV6qBENoIofRp/+gkVfFR/XkG4Bac8IeDLaCQN4OOYci2WzIntqkSYindTV+hrOuFK7i+7wgDE/Eayz0Dw/I6vdk7mqolgMc9/RpibCsYcTgiPxbbR50sCuWJDTRhkgsYGzahJsZHH+xRpDuoTxsHuoHicylOQn2hjbzqUydgVuR8laEL8Y/LgCB0ZIknU/zLWuCKGWCdGrf1d7g+0GI7cytYvop/UOp2iwXN7GP04jk1ssYiaACPJULXC8G7KJkoc07SSSR9ILXy9HNpQODPz/T69vLeYRZo7DbIklNWnH6Y1pkXHAc7wJiFGrUTfNac7uf0QQb7v/BX/OXUSGHe/Gch2AM/M7ezqP9zTKLWxM66fG+UvLAsCSciqRSuElIWJ4A==;FLvF04hzWRzxIWTrmmeQew=="
+secured: "HYl+FvUFwTLDceIzzPInRH3vQx5YssaIlhwAHset81OZdDULlsn5SM3qBaBkN26OWT6N8XrRqHVIW4FO+83ompyWhwMCWJmYiEQCcMkViM8uTXXf04FSaEH43ur0lCZdcc1EB7DwbxjmncBiWtWpa2qhs6IziVWHpMOPNmTkDoz6pJHlJuRFL3WaqCSMfGtBw2k+QH3DuIgfr7gwE0WmGCUUfTNvl7jIBPXO5uMPGFvJHVfsYHyUd+u+wTj11u0cinOcADz6UQnoMTwgHuEHiwBDvnBgR6OmcAaz+7+TzVFXIzpukj1NP8tpLdHwWCH/TBAJSooLl9VzRx2YdxXK+bjRA5jvxQF8pTxIMEbxUIY=;bP3StUdvXmhJHcCvghYVTQ=="
 ---
 

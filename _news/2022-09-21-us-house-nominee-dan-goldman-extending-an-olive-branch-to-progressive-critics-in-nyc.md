@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-20T19:05:00Z
 originalUrl: "https://www.huffpost.com/entry/dan-goldman-outreach-progressive-democrats-us-house-race-new-york-city_n_63292457e4b0cd3ec260ad34?ncid=engmodushpmg00000004"
 webUrl: "https://www.huffpost.com/entry/dan-goldman-outreach-progressive-democrats-us-house-race-new-york-city_n_63292457e4b0cd3ec260ad34?ncid=engmodushpmg00000004"
 type: article
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: HuffPost
