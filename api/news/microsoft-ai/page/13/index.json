@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-06-08-video-better-screening-for-cognitive-issues-needed.md",
+      "title": "VIDEO: Better screening for cognitive issues needed",
+      "excerpt": "Forester BP, et al. Enhancing clinical care and collaboration with aging patients: Geriatric psychiatry and new models of care. Presented at: American Psychiatric Association annual meeting; May ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.healio.com/news/psychiatry/20220608/video-better-screening-for-cognitive-issues-needed",
+      "originalUrl": "https://www.healio.com/news/psychiatry/20220608/video-better-screening-for-cognitive-issues-needed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.healio.com/~/media/images/fscss/i3wyanokecdncom/healio_safe_image.png",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-08T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healio",
+        "domain": "healio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-08-neurologist-discusses-mild-cognitive-impairment.md",
       "title": "Neurologist discusses mild cognitive impairment",
       "excerpt": "These are normal signs of aging. But, if such events begin to happen more frequently or escalate, then it could be something called mild cognitive impairment, often called MCI. Mild cognitive ...",
@@ -1247,50 +1290,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-henson-group-and-ingram-micro-cloud-align-to-target-record-breaking-azure-sales.md",
-      "title": "Henson Group and Ingram Micro Cloud Align to Target Record-Breaking Azure Sales",
-      "excerpt": "The Henson Group, an elite Azure Expert MSP, and Ingram Micro Cloud, operator of one of the world's largest cloud marketplaces for the channel, have announced a multi-year agreement designed",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/henson-group-and-ingram-micro-cloud-align-to-target-record-breaking-azure-sales/article_e04529a6-5caf-5a1f-8d6a-c751005e5149.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/henson-group-and-ingram-micro-cloud-align-to-target-record-breaking-azure-sales/article_e04529a6-5caf-5a1f-8d6a-c751005e5149.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

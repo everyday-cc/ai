@@ -33,15 +33,6 @@ related:
         width: 640
         height: 278
         isCached: true
-  - title: "Ecobank launches pan-African fintech training, awards for journalists"
-    excerpt: "Ecobank Group, the leading Pan-African banking Group, today announced a partnership with AMA Academy, which is the only free-to-use pan-African online learning platform dedicated to upskilling journalists in Africa."
-    publishedDateTime: 2022-09-15T12:14:00Z
-    webUrl: "https://newbusinessethiopia.com/finance/ecobank-launches-pan-african-fintech-training-awards-for-journalists/"
-    type: article
-    provider:
-      name: newbusinessethiopia.com
-      domain: newbusinessethiopia.com
-    quality: 34
 
 secured: "bAEeKyw0dMvhqGTUj+fy+QtecEDuPrGxShr3J51hAY2fxSSGfiVmdBnaR6/rn6frB+pjp7C/5oVgpbyJ8x7S3oFkDnm245fvTAcUvt3sxhy/RpTHwYPSSe97EI09hJVND61ms5y6lgeOlp1zy/HdM9Ze/XaxzGmWeV7KpYg/r3Hlf0ie4l0t7Vu5mZ2CrNrzycX0IbM2qCElshGOeE8g7KiOTKHvjh2fXp3mLs8TJ7/0E0Dmu5khcJZjSahPulnG5Wkq7pSX/tL5vXKNTjMqL1jcycomtchDhhJ21W/Ynfsya2MnUj0GRi17Yx5UDpoyQhim9Krs0D0eWMWlCUPPwIfc9C2MtFDx7TT/pYRyFnc=;M/nL+CLJP6LdOKcUEuC9XA=="
 ---

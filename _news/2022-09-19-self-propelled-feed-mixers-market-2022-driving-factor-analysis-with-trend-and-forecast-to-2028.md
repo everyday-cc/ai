@@ -37,15 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Healthcare Market Size From 2022 To 2028 And Key Findings and Segments by End Use Industry"
-    excerpt: "The \"Artificial Intelligence (AI) in Healthcare Market\" provides a holistic analysis, market size and forecast from year to year, trends, growth drivers, and challenges, as well a"
-    publishedDateTime: 2022-09-15T11:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-from-2022-to-2028-and-key-findings-and-segments-by-end-use-industry-2022-09-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
   - title: "Artificial Intelligence in Radiology Market Size is Projected to Reach USD 461.1 Million and Grow at CAGR 35.9% Over Forecasts Period 2022-2028"
     excerpt: "Artificial Intelligence in Radiology Market is valued at USD 53.9 Million in 2021 and expected to reach USD 461.1 Million by 2028 with a CAGR of 35.9% over the forecast period. Sc"
     publishedDateTime: 2022-09-19T09:48:00Z

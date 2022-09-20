@@ -37,6 +37,20 @@ related:
         width: 620
         height: 355
         isCached: true
+  - title: "New AI Tool May Help Find Unknown Proteins And Design New Ones"
+    excerpt: "Artificial Intelligence (AI), machine learning and deep learning have become ubiquitous terms in business, commerce and technology. While AI is t"
+    publishedDateTime: 2022-09-20T05:51:00Z
+    webUrl: "https://menafn.com/1104891000/New-AI-Tool-May-Help-Find-Unknown-Proteins-And-Design-New-Ones"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?272859"
+        width: 333
+        height: 250
+        isCached: true
 
 secured: "pEAC7Qh56UGRnXBnvOZrSJgUprrHE3NDhSRg/Tuqa6aM33yhg8psPTVO3apyQQtGWxFY4R+VszH+erkjyVVLNxFF1NX0bbuFOeS4sfANRGVRue1KN1lFzfPrQjWnf+gmmYS4pgiwM1USDllao50fRhAWxHPDC9On9VMdHwaL11CLtds10b8OX8NfuCsLHAL/sZwi6s3iTfL2yD47g0460+y5BZJkqmmX/E8W1wMRTPPaeiotsS80g9rI+R5Zxi45SDDVgcAW9VJQINtHaf7R9Uu9K69jIr51L8p6VPdBdC9ubz3FN/KRl7g9idy6ZfmTx5SvBCYQpbo1JqGXvOJPpjiRaPAaMEmksNgkAw6aQ5o=;+vr7mPoyIn0BeZSavdy1Xw=="
 ---

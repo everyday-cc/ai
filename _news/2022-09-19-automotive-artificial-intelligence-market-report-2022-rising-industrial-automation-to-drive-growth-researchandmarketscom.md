@@ -18,34 +18,29 @@ topics:
   - AI
 
 related:
-  - title: "Robot Parts Market New Coming Industry To Witness Great Growth Opportunities In Coming Years From 2022 To 2031"
-    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication and consumer electronic componen"
-    publishedDateTime: 2022-09-19T07:50:00Z
-    webUrl: "https://menafn.com/1104886162/Robot-Parts-Market-New-Coming-Industry-To-Witness-Great-Growth-Opportunities-In-Coming-Years-From-2022-To-2031"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?677017"
-        width: 375
-        height: 250
-        isCached: true
-  - title: "Cognitive Systems Spending Market – Dominance of the Leading Companies Over the Industry 2026"
-    excerpt: "The global cognitive systems spending market is experiencing numerous technological advancements permitted with exceptional features for several industries, especially in the banking sector. Cognitive systems with high-definition technology can help in determining the world’s most composite data analysis difficulties by entering into the complexity of exploiting the power of big data,"
-    publishedDateTime: 2022-09-19T08:23:00Z
-    webUrl: "https://www.fmiblog.com/2022/09/19/cognitive-systems-spending-market-dominance-of-the-leading-companies-over-the-industry-2026/"
+  - title: "Motion Control Software in Robotics Market Predicted to grow at an Impressive CAGR of 19.6% Between 2022 and 2029"
+    excerpt: "The Motion Control Software in Robotics Market is anticipated to grow at an impressive CAGR of 19.6% between 2022 and 2029, surpassing a valuation of US$ 10.81 Bn in 2022 and US$ 37.86 Bn by 2029. With automation and robotics gradually taking over industries,"
+    publishedDateTime: 2022-09-20T05:57:00Z
+    webUrl: "https://www.fmiblog.com/2022/09/20/motion-control-software-in-robotics-market-predicted-to-grow-at-an-impressive-cagr-of-19-6-between-2022-and-2029/"
     type: article
     provider:
       name: Future Market Insights
       domain: fmiblog.com
-    quality: 13
+    quality: 33
     images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2022/09/Receiving-Scales-Market-420x300.jpg"
-        width: 420
-        height: 300
+      - url: "https://www.fmiblog.com/wp-content/uploads/2022/09/Motion-Control-Software-in-Robotics.jpg"
+        width: 1186
+        height: 641
         isCached: true
+  - title: "Metaverse In Healthcare Market- A Big Revolution In Healthcare Industry Expected To Hit with a CAGR of 33.7% over the forecast period 2022 – 2028"
+    excerpt: "The Global Metaverse in Healthcare Market is valued at USD 5056.4 Million in 2021 and is expected to reach USD 7453.6 Million by 2028 with a CAGR of 33.7% over the forecast period. Innovations in AR and VR technologies and huge investments in artificial intelligence are some of the major factors driving the growth of the Global Metaverse in Healthcare Market."
+    publishedDateTime: 2022-09-16T07:01:00Z
+    webUrl: "https://www.medgadget.com/2022/09/metaverse-in-healthcare-market-a-big-revolution-in-healthcare-industry-expected-to-hit-with-a-cagr-of-33-7-over-the-forecast-period-2022-2028.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
 
 secured: "X1UOz4A6NMqSN4nGI95G0vnbxa80euL5rKwLqBebwRW+zYYiHLZniuYb95I4q75o+jfpDiimaN1yf5OK3dOvLeOtcFcQUoZq+ba5OZr7ABY/DSWx7dlqyDCKvsjeKJghtT5rnD4FtyJIEz2mNVo2KC3LJl41vG1+T0hFsrNo0ingROiswxam4tcbt1I3bEBuPXBLTdICgXa2PCqfFogQC04oBYODxVKil6rDxL2LQ5/ed6367JwfgQtLXH7+kcHnq2J6MTJvFODybzeD7URVyEPJtZHtuFcw1nj8822OHygelyx0Tl5rwzVi7M2vKmuhD8H7kMkbTfgpvyU/C0wyKFYPUH0P8fiTuHGvCbMuEjU=;ZwBiuATxuKtJN5JNpGNnwQ=="
 ---

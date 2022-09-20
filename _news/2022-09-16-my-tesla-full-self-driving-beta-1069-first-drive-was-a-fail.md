@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/09/16/tesla-full-self-driving-beta-10-69-fi
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/16/tesla-full-self-driving-beta-10-69-first-drive-fail/amp/"
 type: article
 quality: 104
-heat: 224
+heat: 214
 published: true
 
 provider:
@@ -194,15 +194,6 @@ related:
         width: 620
         height: 330
         isCached: true
-  - title: "Tesla deceiving public with claims on ‘self-driving’ and ‘Autopilot’ systems, lawsuit alleges"
-    excerpt: "The lawsuit, seeking class-action status to bring in hundreds of thousands of Tesla owners, targets claims by the electric car maker and its CEO, Elon Musk, that its $15,000 “Full Self-Driving” package means buyers will soon get a fully-autonomous car,"
-    publishedDateTime: 2022-09-15T12:40:00Z
-    webUrl: "https://www.dailypress.com/business/vp-nw-tesla-lawsuit-20220915-zenjxfv34janxgpf2jsl6etoga-story.html"
-    type: article
-    provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 23
 
 secured: "Ea34+foxvUSlAU/I8GkMlQYhopEub/4CsC8rS5giyz5cAEeYrGyScmKckoZyjDXYAY5c1kbYsSJeo1ZAo5ui2qHetbVqMyqm/YKyB98vLZ0ZWKLcvzuaF0bBijkkb09p1yjr6OP0UrMJuknbm9POKi1BLzC4e6kfpx6ls4GqU6XgCDvLlteOd/TMSAmgTTnPms+1ytBM995OclBs7If5IPUvcgvNSwXYS/bT+hPJFqttXeD4u6keBC/4JGF9lh7LWApxykcsR31qxezoRf2BUtxbDHLJ7uViDFOCMoFzVIEEieW7dhp4DdtWKge4uu4qOHj6UvSk60JAI8KcsfZE5H4wR81BjP0lQxexY2XI3MhW2LXFtAFlo5T/u+cnRcx8HMi8CWFdCmnkGsM4CRrNz2hAdNJCsbv9TRfHzvai7w+pgBAaANaKEX4jFo/IcGFsOtJiqcdS3O0Ch8swUq8TQJ097URdNlYn36GfxjaTRmnt43p1Iu/0/fAJFLLzB4GWAF/2q8uYBxrWfjqgABosNA==;GO3GKWmKaWugfDxvTwi79A=="
 ---

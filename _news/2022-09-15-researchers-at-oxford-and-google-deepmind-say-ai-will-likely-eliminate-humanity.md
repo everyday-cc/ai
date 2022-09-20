@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI will soon Predict End of Humanity and will Control Mankind: Research"
-    excerpt: "Researchers have carried out research regarding AI and have concluded that in the near future, AI will reveal the end of humanity"
-    publishedDateTime: 2022-09-15T12:26:00Z
-    webUrl: "https://www.phoneworld.com.pk/ai-will-soon-predict-end-of-humanity-and-will-control-mankind-research/"
-    type: article
-    provider:
-      name: phoneworld.com.pk
-      domain: phoneworld.com.pk
-    quality: 19
 
 secured: "YupBxOW7+1/zGImW5Wi17Mb44YsP2V4xK3rNHPQ0czSIkPtyOmCNJNRopdHLX/lFEBX+Bj2RzKErtB8aLaz8NNANTq1wGRyOxSplbHl8fNqrosRKeujOk53vvB1MSMDZoOfQlv94xjErvyQtJ5VQWM9uMnoeKnp35T0gszDU756OxP/W+cjxKuca/2uPTtIB0KLXIgVt0m4qQiHDqxXMyO0I4eLqlhLj8Ah8JL6iHmLkgXsVjkw/psTNA4kYDeCQwYVkFteIkxqNJlgONZUMYZHuV9JyL6/UbBAEGoeaLZs2O/pLVVi1NzT9x51sA/VTkiUwzQOg8r2UG8UAoE8lw6bzKpPvQdoIRdUU9pjqynU=;vL8nc2htAbhDj6zUfWj68g=="
 ---

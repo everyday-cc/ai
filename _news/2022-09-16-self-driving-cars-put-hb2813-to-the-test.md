@@ -190,15 +190,6 @@ related:
       name: KnowTechie
       domain: knowtechie.com
     quality: 34
-  - title: "Tesla deceiving public with claims on ‘self-driving’ and ‘Autopilot’ systems, lawsuit alleges"
-    excerpt: "The lawsuit, seeking class-action status to bring in hundreds of thousands of Tesla owners, targets claims by the electric car maker and its CEO, Elon Musk, that its $15,000 “Full Self-Driving” package means buyers will soon get a fully-autonomous car,"
-    publishedDateTime: 2022-09-15T12:40:00Z
-    webUrl: "https://www.dailypress.com/business/vp-nw-tesla-lawsuit-20220915-zenjxfv34janxgpf2jsl6etoga-story.html"
-    type: article
-    provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 23
 
 secured: "6+plsCipbWbPNbEEzjKwPDj6LNkBY46Lj0pITPTbP8wsPNT6KUy1hdnfgw1OUFP/aTqvtnkMmD3OQofVt/gxHah9WFOh/UR1aJHWXWv2ni2vyWzbG4Ki4eaeNgUALaUgW5NjSG+gUddL9Jmkm+glsAFY+hvU/y6TO+UsXn5Tx7HPuw8bbLt+XpmTo3KkgaHA1vHQdfKZQxMDgvzNCbxm0nJH3okpc2ueNmWEATyzegM6+NiMiI5f0TUUf+wdArdDt7BQD6eSOx61Bs7rEbJxyu0Xkc8GKghbhGY3FdsZujTwGIWgNzbuieNFCPUgKFXwQJ2kpbh6gPGHuu/DgggE0FwrSlM8POHQeDPS/yfod58=;T73JLQSMUqSM9QCQ/fNxyA=="
 ---

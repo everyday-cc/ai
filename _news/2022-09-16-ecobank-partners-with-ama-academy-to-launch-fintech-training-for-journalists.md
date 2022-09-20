@@ -7,8 +7,8 @@ originalUrl: "https://hapakenya.com/2022/09/16/ecobank-partners-with-ama-academy
 webUrl: "https://hapakenya.com/2022/09/16/ecobank-partners-with-ama-academy-to-launch-fintech-training-for-journalists/"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: hapakenya.com
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ecobank launches pan-African fintech training, awards for journalists"
-    excerpt: "Ecobank Group, the leading Pan-African banking Group, today announced a partnership with AMA Academy, which is the only free-to-use pan-African online learning platform dedicated to upskilling journalists in Africa."
-    publishedDateTime: 2022-09-15T12:14:00Z
-    webUrl: "https://newbusinessethiopia.com/finance/ecobank-launches-pan-african-fintech-training-awards-for-journalists/"
-    type: article
-    provider:
-      name: newbusinessethiopia.com
-      domain: newbusinessethiopia.com
-    quality: 34
   - title: "AML Solutions Concerns for Challenger Banks and Fintech Firms"
     excerpt: "Financial crime is a problem so oppressive, and global, that regulators are really cracking down, even on newer businesses such as challenger banks and fintech firms. Monzo, for example, is currently being investigated by the FCA for AML breaches and last year N26,"
     publishedDateTime: 2022-09-15T15:58:00Z

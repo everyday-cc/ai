@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gizbot.com/amphtml/internet/news/google-oxford-scientist
 cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/news/google-oxford-scientist-say-ai-will-likely-take-over-mankind-082634.html"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: GIZBOT
@@ -41,15 +41,6 @@ related:
         width: 1222
         height: 688
         isCached: true
-  - title: "AI will soon Predict End of Humanity and will Control Mankind: Research"
-    excerpt: "Researchers have carried out research regarding AI and have concluded that in the near future, AI will reveal the end of humanity"
-    publishedDateTime: 2022-09-15T12:26:00Z
-    webUrl: "https://www.phoneworld.com.pk/ai-will-soon-predict-end-of-humanity-and-will-control-mankind-research/"
-    type: article
-    provider:
-      name: phoneworld.com.pk
-      domain: phoneworld.com.pk
-    quality: 19
 
 secured: "ctyERcxGzqsqC/nvXVvQUc0F9mo2jXzwSPABeLCZaWA1kkQAVw4OsEbpl6MwgPUuueJ5tit84FXOQrG6yJGkv4XmuaNImDil/dmjju6oPCYoj1Ou5HzQ0gsiADQb0hblrz+5SBHZWkhMxHfcqPhBCtAwwbnjDFCgpFp2VjPPITEdkatTiS6OqTOG+Ezjzwuts+CCTdyomqNcO28k1Wip6Bp44r+Gqs0bYuhoM8390iOHGAqNQbyI+1JIgdRNNImPdbQeEmsGzcp07hkk5+z5MhOp/reMsZb9UCey6oP6B5NjuNC+RWMJxlYecTzSW/5e3boXNUn6F2ARXCwB1EZUMjr6VXyuogvfE9SP0vZ7zkvwOlHKgk8wGxRic9/D/gYhgpTB7njMD6Kp3/aS/y0z6IAun4KaPJpOmHdCJ7ZeoVG8dBY8Wqc0bnlD1s4ioZpthIrD+QJjVotUIVz3edlsVGp0c454q8oEAaBRPgu+JCHfzUJ/6M0aZz2vO1y8JtZA0zR7D9ESZ+deoC8E+lYiYg==;7NCGkZE/zp6y/jw/V6arbA=="
 ---

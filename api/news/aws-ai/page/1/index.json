@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-20-aiml-bootcamp-for-pakistan-and-asean-startups-is-right-round-the-corner.md",
+      "title": "AI/ML Bootcamp for Pakistan and ASEAN Startups Is Right Round the Corner",
+      "excerpt": "In the course of businesses' digital transformation, organizations are swamped with vast amounts of data that are both incredibly valuable and",
+      "sourceUrl": null,
+      "webUrl": "https://propakistani.pk/2022/09/20/ai-ml-bootcamp-for-pakistan-and-asean-startups-is-right-round-the-corner/",
+      "originalUrl": "https://propakistani.pk/2022/09/20/ai-ml-bootcamp-for-pakistan-and-asean-startups-is-right-round-the-corner/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://propakistani.pk/wp-content/uploads/2022/09/AIML-Bootcamp-for-Pakistan-and-ASEAN-Startups-Is-Right-Round-the-Corner.jpg",
+          "width": 1000,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://propakistani.pk/2022/09/20/ai-ml-bootcamp-for-pakistan-and-asean-startups-is-right-round-the-corner/amp/",
+      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2022/09/20/ai-ml-bootcamp-for-pakistan-and-asean-startups-is-right-round-the-corner/amp/",
+      "publishedDateTime": "2022-09-19T22:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ProPakistani",
+        "domain": "propakistani.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-09-16-read-webpages-and-highlight-content-using-amazon-polly.md",
       "title": "Read webpages and highlight content using Amazon Polly",
       "excerpt": "In this post, we demonstrate how to use Amazon Polly—a leading cloud service that converts text into lifelike speech—to read the content of a webpage and highlight the content as it’s being read. Adding audio playback to a webpage improves the accessibility and visitor experience of the page. Audio-enhanced",
@@ -1465,49 +1509,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-opti9-listed-as-a-representative-vendor-in-2022-gartner-market-guide-for-disaster-recovery-as-a-service.md",
-      "title": "Opti9 Listed as a Representative Vendor in 2022 Gartner Market Guide for Disaster Recovery as a Service",
-      "excerpt": "Opti9 Technologies LLC (Opti9), a trusted North American managed cloud services provider for hybrid cloud, security, and application modernization announces that it has been identified as a Representative Vendor in the Gartner Market Guide for Disaster Recovery as a Service (DRaaS) report.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-north-america-garden-city-6a3920f7cbf59e9825d0c42edc6159cf",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-north-america-garden-city-6a3920f7cbf59e9825d0c42edc6159cf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T05:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

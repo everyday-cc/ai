@@ -7,7 +7,7 @@ originalUrl: "https://it.tmcnet.com/news/2022/09/15/9674474.htm"
 webUrl: "https://it.tmcnet.com/news/2022/09/15/9674474.htm"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -21,15 +21,6 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Artificial Intelligence (AI) In Education Market Size Is Expected to Hit $80 Billion By 2030"
-    excerpt: "Palm Beach, FL – September 15, 2022 – FinancialNewsMedia.com News Commentary – Artificial Intelligence (AI) is crossing over to new markets and brings additional revenues along with it. Increasing demand for Intelligent Tutoring Systems (ITSs) is fueling the AI in education industry growth."
-    publishedDateTime: 2022-09-15T12:30:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/financialnewsmedia-2022-9-15-artificial-intelligence-ai-in-education-market-size-is-expected-to-hit-80-billion-by-2030"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 42
   - title: "Artificial Intelligence (AI) In Education Market Size Is Expected To Hit $80 Billion By 2030 - Financial News Media"
     excerpt: "( MENAFN - Financial News Media) data-id='165ecfe1' data-element_type='widget' data-widget_type='theme-post-content.default'> Palm Beach, FL – September 15, 2022 – FinancialNewsMedia.com News Commentary – Artificial Intelligence (AI) is crossing over to new markets and brings additional revenues along with it."
     publishedDateTime: 2022-09-15T18:35:00Z

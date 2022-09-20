@@ -24,17 +24,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "Metaverse In Healthcare Market- A Big Revolution In Healthcare Industry Expected To Hit with a CAGR of 33.7% over the forecast period 2022 – 2028"
-    excerpt: "The Global Metaverse in Healthcare Market is valued at USD 5056.4 Million in 2021 and is expected to reach USD 7453.6 Million by 2028 with a CAGR of 33.7% over the forecast period. Innovations in AR and VR technologies and huge investments in artificial intelligence are some of the major factors driving the growth of the Global Metaverse in Healthcare Market."
-    publishedDateTime: 2022-09-16T07:01:00Z
-    webUrl: "https://www.medgadget.com/2022/09/metaverse-in-healthcare-market-a-big-revolution-in-healthcare-industry-expected-to-hit-with-a-cagr-of-33-7-over-the-forecast-period-2022-2028.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
-
 secured: "9R1KD0FZWWC69vJlAVYozHX8F9271YY9y9vBuOXj38x0bSZTFxbGOzspoc6bthp3beap7QPLdVKwpzFBzC4Ql2QwDufOTYH5MY4RsVyn9f/fsUgPXFHTAyifC11zLeWa4eorJNN09DVHSw17idy97Kr28YEQvtBnkwPsniD3snfGCsQqtRdb30ZBN9TST7zrpzRElU0UMY84/oUSGaVuY3tiwjHc7ZBRbJA98PpygJY4dgyZ6N4Dmm7RsHVSjVWbp5C6Apfkq9YxoNuhbZK2YiCBNH9gA1RlVNQ2fcZmRO+5qkKVna5nV7VrDFOFdnkEy8jqm9O+VO9dCCoVt6SqBcOd9xW9vmvwk67gmT+Z8Zs=;/arx9KdqfQgfmRAx5zqUOQ=="
 ---
 

@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Healthcare Market Size From 2022 To 2028 And Key Findings and Segments by End Use Industry"
-    excerpt: "The \"Artificial Intelligence (AI) in Healthcare Market\" provides a holistic analysis, market size and forecast from year to year, trends, growth drivers, and challenges, as well a"
-    publishedDateTime: 2022-09-15T11:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-from-2022-to-2028-and-key-findings-and-segments-by-end-use-industry-2022-09-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
   - title: "Self Propelled Feed Mixers Market 2022 Driving Factor Analysis with Trend and Forecast to 2028"
     excerpt: "The report first establishes the Self Propelled Feed Mixers market by glancing at the descriptions, types, and market overview. It also understands the different details of the item, production network,"
     publishedDateTime: 2022-09-19T02:01:00Z

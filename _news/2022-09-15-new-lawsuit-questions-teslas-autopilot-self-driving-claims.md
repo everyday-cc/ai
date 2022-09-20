@@ -190,15 +190,6 @@ related:
         width: 620
         height: 330
         isCached: true
-  - title: "Tesla deceiving public with claims on ‘self-driving’ and ‘Autopilot’ systems, lawsuit alleges"
-    excerpt: "The lawsuit, seeking class-action status to bring in hundreds of thousands of Tesla owners, targets claims by the electric car maker and its CEO, Elon Musk, that its $15,000 “Full Self-Driving” package means buyers will soon get a fully-autonomous car,"
-    publishedDateTime: 2022-09-15T12:40:00Z
-    webUrl: "https://www.dailypress.com/business/vp-nw-tesla-lawsuit-20220915-zenjxfv34janxgpf2jsl6etoga-story.html"
-    type: article
-    provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 23
 
 secured: "79U+7T/YkEyPIrBIdaczF4XGLAUDVn5fFgvuZ4jon7il8dueAFt0XKuCeXW4wm02lHlWCJfiQgdxszKYiwD2yd/TV5DJs5fdwQfWz9C4nmBtIJ3cFTUf2HIjg3JQPWQHvNb3iszYQCsBpoJtfO1II4G9auCms0AP6P99ImLROmZAw8hwdUUVMj7dgYW4rtrPRJIGoY808IG2yZX4+hSSXb8ON/CqyA+XVHfzdubCaoyebondUHMWQah1ZGfoh/pLxavoDNFaxtmzBa1U75OMmpHvxckDwcURRnjtcNzxZmZdAbQ5JFOs407qFa4MDsz3EuwRItoIM70xJVWzO4NlVITrD7HgA0rdUSbaV+sngKQt9xWG1V7wY8ipbf7KdIVYbfsYkBqK4fyBOXWsni3+DnjZsmlr9U7hb8GtcmWrGqa9v0rMrWKHSF0M9FiniVXRkJ4RKNI769qUcyMz4M21BXCVFqPP+B9BvlbhFiGVX8LbRHRdlRTRBGv6FmoJCNOIbNg7THVZ5jyD3RP5iWD6cQ==;cLxWEMgWKSltsnSId4VwRw=="
 ---

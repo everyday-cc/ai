@@ -33,6 +33,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "New AI Tool May Help Find Unknown Proteins And Design New Ones"
+    excerpt: "Artificial Intelligence (AI), machine learning and deep learning have become ubiquitous terms in business, commerce and technology. While AI is t"
+    publishedDateTime: 2022-09-20T05:51:00Z
+    webUrl: "https://menafn.com/1104891000/New-AI-Tool-May-Help-Find-Unknown-Proteins-And-Design-New-Ones"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?272859"
+        width: 333
+        height: 250
+        isCached: true
 
 secured: "DDKMNnC39OFD8zFfGlV15iV2gIoAtdr6tKvyeXsiueECtRmAhB/Kro2oB8b456LOvtrUslVbfW1nWIQiAJux2yRgdUiAbMU6cWeqxLpFOwWhOZVTYRvKLkJBOKN7/mndubl3pg5+LndJnOSmrwTicKyZXAaEyJGFgYYdyOidyWGhHbSFC7tMjY0WWZNqhE+NoQNPhejSAcyH55L9QToSDTGpfMe12aYChaiKIVycpFnFAc5eIl7cWCAbymYQMXIk/m49JPiy+iKTVEJn5uBSV5t2COKwzG6Ieg8yIrSW7v6s5u1WwEZYTYfORcwyycL4HT7nTknhYZrTzWsyuzA1/DLdNPlCFvEVdYinSxKq1m4=;lLG1uzUFgUVHScYfJgTIvA=="
 ---
