@@ -2,6 +2,155 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-09-13-why-humanity-is-needed-to-propel-conversational-ai.md",
+      "title": "Why humanity is needed to propel conversational AI",
+      "excerpt": "Conversational AI still has some way to go before all users feel accurately represented. Accounting for subtleties of dialect, the time taken for speakers to think, as well as the active nature of a conversation,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-humanity-is-needed-to-propel-conversational-ai/",
+      "originalUrl": "https://venturebeat.com/ai/why-humanity-is-needed-to-propel-conversational-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-593338488-Just_Super.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 634,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/why-humanity-is-needed-to-propel-conversational-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-humanity-is-needed-to-propel-conversational-ai/amp/",
+      "publishedDateTime": "2022-09-12T21:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-ibm-upgrades-linux-mainframe-boosting-availability-and-ai-performance.md",
+      "title": "IBM upgrades Linux mainframe, boosting availability and AI performance",
+      "excerpt": "Latest IBM mainframe update for Linux provides more power and resilience for mission-critical enterprise workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/ibm-upgrades-linux-mainframe-boosting-availability-and-ai-performance/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/ibm-upgrades-linux-mainframe-boosting-availability-and-ai-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/IBM_linuxone_emperor_4_data_center_091222-e1663022887839.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/data-infrastructure/ibm-upgrades-linux-mainframe-boosting-availability-and-ai-performance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/ibm-upgrades-linux-mainframe-boosting-availability-and-ai-performance/amp/",
+      "publishedDateTime": "2022-09-12T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-natural-language-processing-nlp-market-report-2022-industry-insights-share-size-market-growth-trends-and-forecast-2029-97-report-pages.md",
+      "title": "Natural Language Processing (NLP) Market Report 2022 | Industry Insights, Share, Size, Market Growth, Trends and Forecast 2029 | 97 Report Pages",
+      "excerpt": "Sep 13, 2022 (The Expresswire) -- Global “Natural Language Processing (NLP)Market”2022 Research report is an in-depth study of the market Analysis. Along with the most recent patterns and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-report-2022-industry-insights-share-size-market-growth-trends-and-forecast-2029-97-report-pages-2022-09-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-report-2022-industry-insights-share-size-market-growth-trends-and-forecast-2029-97-report-pages-2022-09-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T19:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-13-new-method-for-comparing-neural-networks-exposes-how-artificial-intelligence-works.md",
       "title": "New method for comparing neural networks exposes how artificial intelligence works",
       "excerpt": "Neural networks are high performance, but fragile. For example, self-driving cars use neural networks to detect signs. When conditions are ideal, they do this quite well. However, the smallest ...",
@@ -989,143 +1138,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-inventor-behind-amazons-alexa-raises-20-mn-for-new-ai-startup.md",
-      "title": "Inventor behind Amazon's Alexa raises $20 mn for new AI startup",
-      "excerpt": "The inventor of various technologies used by Amazon Inc's Alexa, William Tunstall-Pedoe, has raised $20 million for a new Artificial Intelligence (AI) startup called Unlikely AI. Amadeus Capital Partners,",
-      "sourceUrl": null,
-      "webUrl": "https://inshorts.com/en/news/inventor-behind-amazons-alexa-raises-$20-mn-for-new-ai-startup-1662983488265",
-      "originalUrl": "https://inshorts.com/en/news/inventor-behind-amazons-alexa-raises-$20-mn-for-new-ai-startup-1662983488265",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/09_sep/12_mon/img_1662977814621_824.jpg?",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inshorts.com/m/en/amp_news/inventor-behind-amazons-alexa-raises-$20-mn-for-new-ai-startup-1662983488265",
-      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/inventor-behind-amazons-alexa-raises-$20-mn-for-new-ai-startup-1662983488265",
-      "publishedDateTime": "2022-09-12T04:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inshorts",
-        "domain": "inshorts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-with-424-cagr-artificial-intelligence-in.md",
-      "title": "With 42.4 % CAGR, Artificial Intelligence in...",
-      "excerpt": "Use of artificial intelligence and robotics in diagnosing and treating pharmacological disorders is estimated to drive the Artificial Intelligence (AI) in healthcare market growth. Use of virtual ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/g28826236/with-42-4-cagr-artificial-intelligence-in-healthcare-market-size-worth-usd-164-10-billion-by-2029",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/g28826236/with-42-4-cagr-artificial-intelligence-in-healthcare-market-size-worth-usd-164-10-billion-by-2029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg",
-          "width": 700,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28826236",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28826236",
-      "publishedDateTime": "2022-09-12T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-leadership-in-times-of-ai-driven-automation.md",
-      "title": "Leadership In Times Of AI-Driven Automation",
-      "excerpt": "Sayantan Dasgupta is a Sr. Director of Demand Generation at Gramener | Ex VC Partner | 2x VP Marketing | 15+ years of leadership experience. The global AI market in 2021 reached a staggering value of $327.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/09/12/leadership-in-times-of-ai-driven-automation/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/09/12/leadership-in-times-of-ai-driven-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/611197e7a1fc8d3b4e5a536a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/09/12/leadership-in-times-of-ai-driven-automation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/09/12/leadership-in-times-of-ai-driven-automation/amp/",
-      "publishedDateTime": "2022-09-12T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

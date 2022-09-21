@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2022/09/16/how-to-use-ai-to-maximiz
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/09/16/how-to-use-ai-to-maximize-your-inflation-relief-payments/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "UNESCO calls for regulations to use AI in education"
+    excerpt: "The artificial intelligence (AI) market in India has the potential to touch $7.8 billion by 2025 at a compound annual growth rate (CAGR) of 20.2%."
+    publishedDateTime: 2022-09-21T02:16:00Z
+    webUrl: "https://www.fortuneindia.com/macro/unesco-calls-for-regulations-to-use-ai-in-education/109738"
+    type: article
+    provider:
+      name: Fortune India
+      domain: fortuneindia.com
+    quality: 56
+    images:
+      - url: "https://gumlet.assettype.com/fortuneindia/2019-12/6a1fb6dd-7fd2-4c75-a581-e23ccc91ac17/M1R63G.jpg?w=700"
+        width: 700
+        height: 472
+        isCached: true
   - title: "EU prepares to give AI rules"
     excerpt: "Robots expected to demand an oven ready exit plan The European Commission is preparing to make sure that people who suffer from damage due to AI stuff ups will be more likely to win in court. The AI Liability Directive will be published on 28 September,"
     publishedDateTime: 2022-09-19T09:19:00Z

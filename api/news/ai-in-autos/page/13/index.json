@@ -2,6 +2,50 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-07-02-elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus.md",
+      "title": "Elon Musk gives official reveal date for Tesla’s humanoid AI robot, ‘Optimus’",
+      "excerpt": "LOS ANGELES - Elon Musk said Tesla’s long-awaited AI humanoid robot \"Optimus\" which has both wowed and terrified consumers, will be officially unveiled in just a few months. Speaking at the Qatar Economic Forum on June 21,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus",
+      "originalUrl": "https://www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2021/08/932/470/Tesla-bot.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus.amp",
+      "cdnAmpWebUrl": "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus.amp",
+      "publishedDateTime": "2022-07-01T13:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox 13",
+        "domain": "fox13news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-07-01-futuristic-driverless-taxis-are-already-causing-major-issues.md",
       "title": "Futuristic Driverless Taxis Are Already Causing Major Issues",
       "excerpt": "The GM-backed driverless car company has been operating a commercial robotaxi service in the city since securing a permit back in early June 2022, but a Cruise traffic jam gnarled up one street ...",
@@ -1191,58 +1235,6 @@
         "name": "The Drive",
         "domain": "thedrive.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-cruises-driverless-autonomous-cars-start-giving-rides-to-paying-passengers.md",
-      "title": "Cruise’s driverless autonomous cars start giving rides to paying passengers",
-      "excerpt": "The milestone comes after Cruise received official approval from the California Public Utilities Commission in early June to operate driverless in a commercial capacity. Initially, Cruise’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/24/cruises-driverless-autonomous-cars-start-giving-rides-to-paying-passengers/",
-      "originalUrl": "https://techcrunch.com/2022/06/24/cruises-driverless-autonomous-cars-start-giving-rides-to-paying-passengers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/Cruise-car-in-San-Francisco-streets.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/24/cruises-driverless-autonomous-cars-start-giving-rides-to-paying-passengers/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/24/cruises-driverless-autonomous-cars-start-giving-rides-to-paying-passengers/amp/",
-      "publishedDateTime": "2022-06-24T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

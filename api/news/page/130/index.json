@@ -2,6 +2,195 @@
   "page": 130,
   "value": [
     {
+      "path": "_news/2022-06-09-general-purpose-ai-vs-vertical-specific-ai-whats-the-best-way-to-alleviate-our-supply-chain-woes.md",
+      "title": "General-Purpose AI Vs. Vertical-Specific AI: What’s The Best Way To Alleviate Our Supply Chain Woes?",
+      "excerpt": "Here are the key characteristics that we believe allow for the development of maritime AI as a clear, functional branch of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/general-purpose-ai-vs-vertical-specific-ai-whats-the-best-way-to-alleviate-our-supply-chain-woes/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/general-purpose-ai-vs-vertical-specific-ai-whats-the-best-way-to-alleviate-our-supply-chain-woes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//61aa209ac1e69020fec92b71/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/general-purpose-ai-vs-vertical-specific-ai-whats-the-best-way-to-alleviate-our-supply-chain-woes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/09/general-purpose-ai-vs-vertical-specific-ai-whats-the-best-way-to-alleviate-our-supply-chain-woes/amp/",
+      "publishedDateTime": "2022-06-09T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-achieve-seamless-observability-with-dynatrace-for-azure.md",
+      "title": "Achieve seamless observability with Dynatrace for Azure",
+      "excerpt": "Microsoft Azure enables customers to host their apps on the globally trusted cloud platform and use the services of their choice by closely partnering with popular SaaS offerings. Dynatrace is one such partner that provides deep cloud observability, advanced AIOps, and continuous runtime application",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/achieve-seamless-observability-with-dynatrace-for-azure/",
+      "originalUrl": "https://azure.microsoft.com/blog/achieve-seamless-observability-with-dynatrace-for-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/fc185ce4-1b45-494d-9d04-1e533be6bc49.png",
+          "width": 1028,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T03:00:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-cognitive-impairment-and-function-in-sars-cov-2-positive-patients.md",
+      "title": "Cognitive impairment and function in SARS-CoV-2 positive patients",
+      "excerpt": "In a recent study posted to the medRxiv* preprint server, researchers assessed the association between post-acute coronavirus disease 2019 (COVID-19) cognitive impairment and kynurenine pathway ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220609/Cognitive-impairment-and-function-in-SARS-CoV-2-positive-patients.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220609/Cognitive-impairment-and-function-in-SARS-CoV-2-positive-patients.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_716186_16547636093458226.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20220609/Cognitive-impairment-and-function-in-SARS-CoV-2-positive-patients.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220609/Cognitive-impairment-and-function-in-SARS-CoV-2-positive-patients.aspx",
+      "publishedDateTime": "2022-06-09T01:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-ai-as-a-cyber-security-enabler.md",
+      "title": "AI as a cyber security enabler",
+      "excerpt": "AI makes it possible for businesses to handle significantly higher volumes of incidents than was previously possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/wbrpO7g2zWKvDLZn",
+      "originalUrl": "https://www.itweb.co.za/content/wbrpO7g2zWKvDLZn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/vTByOfnu0MpUBJcpeD4A9yShoqR5sVw5vKs25Jpm6QrSQyoxuPOic_XyD5no2_rK_ALmHaM8AaNCn0lEr66IvxOxUvYNFzJgJhQk=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/wbrpO7g2zWKvDLZn",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/wbrpO7g2zWKvDLZn",
+      "publishedDateTime": "2022-06-09T00:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-timnit-gebru-and-the-fight-to-make-artificial-intelligence-work-for-africa.md",
       "title": "Timnit Gebru and the fight to make artificial intelligence work for Africa",
       "excerpt": "This encompasses everything from self-driving cars to automatic translation and facial recognition programs. The ultimate prize is a concept known as Artificial General Intelligence — a computer ...",
@@ -908,187 +1097,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-aws-announces-general-availability-of-aws-mainframe-modernization.md",
-      "title": "AWS Announces General Availability of AWS Mainframe Modernization",
-      "excerpt": "(NASDAQ: AMZN), today announced the general availability of AWS Mainframe Modernization, a new service that makes it faster and easier for customers to modernize mainframe-based workloads by moving them to the cloud to enjoy AWS’s superior agility,",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-aws-mainframe-modernization/article_4ab7df71-759c-598b-8c35-e47a2aca7b59.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-aws-mainframe-modernization/article_4ab7df71-759c-598b-8c35-e47a2aca7b59.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg",
-          "width": 415,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-ai-experts-to-discuss-how-artificial-intelligence-is-powering-manufacturing-at-automate-2022.md",
-      "title": "AI Experts to Discuss How Artificial Intelligence is Powering Manufacturing at Automate 2022",
-      "excerpt": "Today at the Automate 2022 Show and Conference in Detroit, leading experts in artificial intelligence (AI) will discuss how to put AI to use in manufacturing facilities in the keynote panel, “AI & Manufacturing - How Artificial Intelligence is Powering the Next Wave of Manufacturing.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-detroit-ann-arbor-artificial-intelligence-6e4b3ec7a0654148a394931b713f4448",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-detroit-ann-arbor-artificial-intelligence-6e4b3ec7a0654148a394931b713f4448",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-ibm-ceo-explains-why-he-offloaded-watson-health-not-enough-domain-expertise.md",
-      "title": "IBM CEO explains why he offloaded Watson Health: Not enough domain expertise",
-      "excerpt": "IBM chairman and CEO Arvind Krishna says it offloaded Watson Health this year because it doesn't have the requisite vertical expertise in the healthcare sector. Talking at stock market analyst Bernstein's 38th Annual Strategic Decisions Conference,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/06/08/ibm_ceo_arvind_krishna_explains/",
-      "originalUrl": "https://www.theregister.com/2022/06/08/ibm_ceo_arvind_krishna_explains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2020/04/07/ibm_ceo_arvind_krishna.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/06/08/ibm_ceo_arvind_krishna_explains/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/08/ibm_ceo_arvind_krishna_explains/",
-      "publishedDateTime": "2022-06-08T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-ai-speras-criminal-ip-makes-a-debut-at-rsa-conference-2022.md",
-      "title": "AI Spera's Criminal IP Makes a Debut at RSA Conference 2022",
-      "excerpt": "On June 6, AI Spera, the provider of AI-driven Cyber Threat Intelligence platform, introduced its VPN IP threat detection solutions at the world's largest cyber security conference, RSA Conference 2022 in San Francisco.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-spera-s-criminal-ip-makes-a-debut-at-rsa-conference-2022-1031517024",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-spera-s-criminal-ip-makes-a-debut-at-rsa-conference-2022-1031517024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1834303/1.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

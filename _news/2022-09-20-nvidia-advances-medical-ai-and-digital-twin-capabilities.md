@@ -221,17 +221,17 @@ related:
     quality: 36
   - title: "Aetina Announces Upcoming Edge AI Computers Powered by New NVIDIA Jetson Orin Nano for Use in Computer Vision Applications"
     excerpt: "Aetina today introduced its upcoming NVIDIA® Jetson-based edge AI computers powered by Jetson Orin™ Nano system-on-modules (SOM) that have set a new baseline for entry-level edge AI and robotics, as announced during NVIDIA GTC."
-    publishedDateTime: 2022-09-20T18:22:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-aetina-announces-upcoming-edge-ai-computers-powered-new-/2022/09/20/9677437.htm"
+    publishedDateTime: 2022-09-21T03:00:00Z
+    webUrl: "https://www.asiaone.com/business/aetina-announces-upcoming-edge-ai-computers-powered-new-nvidia-jetson-orin-nano-use"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Asia One
+      domain: asiaone.com
     quality: 28
     images:
-      - url: "https://mma.prnewswire.com/media/1899916/Aetina_Announces_Upcoming_Edge_AI_Computers_Powered_New_NVIDIA_Jetson.jpg"
-        width: 400
-        height: 209
+      - url: "https://mma.prnasia.com/media2/1777543/Aetina_Corporation_Logo_Logo.jpg?p=medium600"
+        width: 599
+        height: 424
         isCached: true
   - title: "Run:ai Certified to Run NVIDIA AI Enterprise Software Suite"
     excerpt: "AI Atlas for NVIDIA AI Enterprise will help data scientists run their AI workloads most efficiently,\" said Omri Geller, CEO and co-founder of Run:ai. \"Our mission is to speed up AI and get more models into production,"

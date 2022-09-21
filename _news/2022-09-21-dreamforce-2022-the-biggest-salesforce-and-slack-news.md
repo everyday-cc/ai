@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Salesforce built a data lake to transform how customer data moves on the platform"
+    excerpt: "Genie is a new data integration model that underlies the Salesforce platform with the aim of moving data wherever it’s needed most -- and doing it fast."
+    publishedDateTime: 2022-09-20T22:09:00Z
+    webUrl: "https://techcrunch.com/2022/09/20/salesforce-genie-completely-transforms-the-way-data-moves-on-the-platform/"
+    ampWebUrl: "https://techcrunch.com/2022/09/20/salesforce-genie-completely-transforms-the-way-data-moves-on-the-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/20/salesforce-genie-completely-transforms-the-way-data-moves-on-the-platform/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 69
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-965917342.jpg?resize=1200,779"
+        width: 1200
+        height: 779
+        isCached: true
   - title: "Salesforce goes real-time in CRM upgrade"
     excerpt: "Salesforce has taken a leap into the world of real-time data management with the integration of customer data platform (CDP) capabilities into its flagship Customer 360 CRM platform."
     publishedDateTime: 2022-09-20T22:49:00Z

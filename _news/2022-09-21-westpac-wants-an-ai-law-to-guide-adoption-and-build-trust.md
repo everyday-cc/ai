@@ -27,7 +27,7 @@ related:
     provider:
       name: The Australian Financial Review
       domain: afr.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://static.ffx.io/images/$zoom_0.272%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_255%2C$y_97/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/0c1801c5dc98f9d1a8acf16164a3aec20ba06b14"
         width: 1200

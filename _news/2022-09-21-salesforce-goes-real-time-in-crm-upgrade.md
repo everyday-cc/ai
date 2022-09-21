@@ -7,8 +7,8 @@ originalUrl: "https://www.cmo.com.au/article/701714/salesforce-goes-real-time-cr
 webUrl: "https://www.cmo.com.au/article/701714/salesforce-goes-real-time-crm-upgrade/"
 type: article
 quality: 56
-heat: 116
-published: true
+heat: -1
+published: false
 
 provider:
   name: cmo.com.au
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Salesforce built a data lake to transform how customer data moves on the platform"
+    excerpt: "Genie is a new data integration model that underlies the Salesforce platform with the aim of moving data wherever it’s needed most -- and doing it fast."
+    publishedDateTime: 2022-09-20T22:09:00Z
+    webUrl: "https://techcrunch.com/2022/09/20/salesforce-genie-completely-transforms-the-way-data-moves-on-the-platform/"
+    ampWebUrl: "https://techcrunch.com/2022/09/20/salesforce-genie-completely-transforms-the-way-data-moves-on-the-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/20/salesforce-genie-completely-transforms-the-way-data-moves-on-the-platform/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 69
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-965917342.jpg?resize=1200,779"
+        width: 1200
+        height: 779
+        isCached: true
   - title: "Salesforce Genie is now generally available to power real-time CRM experiences"
     excerpt: "Salesforce today announced the general availability of the Genie customer data platform (CDP), a high-speed, hyperscalar data lake infrastructure to bring real-time insights from different systems to the Salesforce Customer 360 platform."
     publishedDateTime: 2022-09-20T12:01:00Z

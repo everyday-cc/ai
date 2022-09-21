@@ -2,6 +2,143 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-09-14-ai-may-destroy-humanity-deepmind-scientists-claim-in-co-authored-paper.md",
+      "title": "AI may destroy humanity, DeepMind scientists claim in co-authored paper",
+      "excerpt": "A paper co-authored with the University of Oxford argues that advanced AI may want to implement a reward system that would harm humanity.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/innovation/ai-may-destroy-humanity-deepmind",
+      "originalUrl": "https://interestingengineering.com/innovation/ai-may-destroy-humanity-deepmind",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/2022/09/14/image/jpeg/nHhLLZVLZFuzjzQfMz3AQhayfDcqXyn0x6n1ZUX6.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-weight-loss-and-ai-how-this-startup-is-accelerating-glucose-monitoring-for-all.md",
+      "title": "Weight Loss And AI: How This Startup Is Accelerating Glucose Monitoring For All",
+      "excerpt": "Having access to the proper tools that support a healthier life is fundamental for overall well-being. Signos is aiming to tackle the obesity epidemic by offering a new way for people to act on their body’s unique response to what and when they eat to lose weight and kickstart a healthier life.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2022/09/14/weight-loss-and-ai-how-this-startup-is-accelerating-glucose-monitoring-for-all/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/09/14/weight-loss-and-ai-how-this-startup-is-accelerating-glucose-monitoring-for-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630d32979a8a3c7794bf73b5/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2022/09/14/weight-loss-and-ai-how-this-startup-is-accelerating-glucose-monitoring-for-all/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/09/14/weight-loss-and-ai-how-this-startup-is-accelerating-glucose-monitoring-for-all/amp/",
+      "publishedDateTime": "2022-09-14T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-existential-catastrophe-caused-by-ai-is-likely-unavoidable-deepmind-researcher-warns.md",
+      "title": "‘Existential catastrophe’ caused by AI is likely unavoidable, DeepMind researcher warns",
+      "excerpt": "Researchers from the University of Oxford and Google’s artificial intelligence division DeepMind have claimed that there is a high probability of advanced forms of AI becoming “existentially ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/tech/artificial-intelligence-deepmind-ai-catastrophe-b2166954.html",
+      "originalUrl": "https://www.independent.co.uk/tech/artificial-intelligence-deepmind-ai-catastrophe-b2166954.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2022/09/14/11/deepmind%20AI%20threat.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-researchers-combine-data-science-and-machine-learning-techniques-to-improve-traditional-mri-image-reconstruction.md",
       "title": "Researchers combine data science and machine learning techniques to improve traditional MRI image reconstruction",
       "excerpt": "University of Minnesota Twin Cities scientists and engineers have found a way to improve the performance of traditional Magnetic Resonance Imaging (MRI) reconstruction techniques, allowing for faster MRIs to improve health care.",
@@ -1044,147 +1181,6 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-new-method-for-comparing-neural-networks-exposes-how-artificial-intelligence-works.md",
-      "title": "New method for comparing neural networks exposes how artificial intelligence works",
-      "excerpt": "A team at Los Alamos National Laboratory has developed a novel approach for comparing neural networks that looks within the \"black box\" of artificial intelligence to help researchers understand neural network behavior.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-09-method-neural-networks-exposes-artificial.html",
-      "originalUrl": "https://techxplore.com/news/2022-09-method-neural-networks-exposes-artificial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/new-method-for-compari.jpg",
-          "width": 896,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-09-method-neural-networks-exposes-artificial.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-method-neural-networks-exposes-artificial.amp",
-      "publishedDateTime": "2022-09-13T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-university-of-maryland-prof-urges-pause-on-facial-recognition.md",
-      "title": "University of Maryland Prof Urges Pause on Facial Recognition",
-      "excerpt": "Lauren Rhue, an assistant professor of information systems at the University of Maryland, says human intervention is necessary to mitigate bias in technologies from Amazon Rekognition, Face++ and Microsoft.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/higher-ed/university-of-maryland-prof-urges-pause-on-facial-recognition",
-      "originalUrl": "https://www.govtech.com/education/higher-ed/university-of-maryland-prof-urges-pause-on-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/fbebee5/2147483647/strip/true/crop/2100x1095+0+6/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F19%2F60%2F04d269dc468bba43ff8fcf021bc0%2Flauren-rhue.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/education/higher-ed/university-of-maryland-prof-urges-pause-on-facial-recognition?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/university-of-maryland-prof-urges-pause-on-facial-recognition?_amp=true",
-      "publishedDateTime": "2022-09-13T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-synopsys-to-seed-startup-innovation-with-ai-powered-chip-design-tools-in-the-cloud.md",
-      "title": "Synopsys To Seed Startup Innovation With AI-Powered Chip Design Tools In The Cloud",
-      "excerpt": "This new chip design tool seed program for startups could help accelerate the pace of innovation in many markets and industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2022/09/13/synopsys-to-seed-startup-innovation-with-ai-powered-chip-design-tools-in-the-cloud/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2022/09/13/synopsys-to-seed-startup-innovation-with-ai-powered-chip-design-tools-in-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6320d84574a794428be9950b/0x0.jpg?format=jpg&width=1200",
-          "width": 1024,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2022/09/13/synopsys-to-seed-startup-innovation-with-ai-powered-chip-design-tools-in-the-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/09/13/synopsys-to-seed-startup-innovation-with-ai-powered-chip-design-tools-in-the-cloud/amp/",
-      "publishedDateTime": "2022-09-13T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
       ]
     }
   ],

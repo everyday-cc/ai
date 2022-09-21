@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-09-21-salesforce-goes-real-time-in-crm-upgrade.md",
-      "title": "Salesforce goes real-time in CRM upgrade",
-      "excerpt": "Salesforce has taken a leap into the world of real-time data management with the integration of customer data platform (CDP) capabilities into its flagship Customer 360 CRM platform.",
+      "path": "_news/2022-09-21-salesforce-built-a-data-lake-to-transform-how-customer-data-moves-on-the-platform.md",
+      "title": "Salesforce built a data lake to transform how customer data moves on the platform",
+      "excerpt": "Genie is a new data integration model that underlies the Salesforce platform with the aim of moving data wherever it’s needed most -- and doing it fast.",
       "sourceUrl": null,
-      "webUrl": "https://www.cmo.com.au/article/701714/salesforce-goes-real-time-crm-upgrade/",
-      "originalUrl": "https://www.cmo.com.au/article/701714/salesforce-goes-real-time-crm-upgrade/",
+      "webUrl": "https://techcrunch.com/2022/09/20/salesforce-genie-completely-transforms-the-way-data-moves-on-the-platform/",
+      "originalUrl": "https://techcrunch.com/2022/09/20/salesforce-genie-completely-transforms-the-way-data-moves-on-the-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 139,
       "tags": null,
       "images": [
         {
-          "url": "https://d1902livswy8rb.cloudfront.net/dimg/800x800/dimg/customer-graph.png",
-          "width": 800,
-          "height": 450,
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-965917342.jpg?resize=1200,779",
+          "width": 1200,
+          "height": 779,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T15:49:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2022/09/20/salesforce-genie-completely-transforms-the-way-data-moves-on-the-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/20/salesforce-genie-completely-transforms-the-way-data-moves-on-the-platform/amp/",
+      "publishedDateTime": "2022-09-20T15:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "cmo.com.au",
-        "domain": "cmo.com.au",
-        "images": null,
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -41,8 +50,7 @@
       ],
       "topics": [
         "AWS AI",
-        "AI",
-        "AI in Sales"
+        "AI"
       ]
     },
     {

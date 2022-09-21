@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-09-21-salesforce-goes-real-time-in-crm-upgrade.md",
-      "title": "Salesforce goes real-time in CRM upgrade",
-      "excerpt": "Salesforce has taken a leap into the world of real-time data management with the integration of customer data platform (CDP) capabilities into its flagship Customer 360 CRM platform.",
+      "path": "_news/2022-09-21-boulder-county-using-artificial-intelligence-to-spot-wildfires.md",
+      "title": "Boulder County using artificial intelligence to spot wildfires",
+      "excerpt": "Boulder County brought two new wildfire lookout cameras online Tuesday. They will use AI to detect wildfire smoke.",
       "sourceUrl": null,
-      "webUrl": "https://www.cmo.com.au/article/701714/salesforce-goes-real-time-crm-upgrade/",
-      "originalUrl": "https://www.cmo.com.au/article/701714/salesforce-goes-real-time-crm-upgrade/",
+      "webUrl": "https://www.9news.com/article/news/local/wildfire/boulder-county-artificial-intellegence-wildfires/73-9879cbf9-ad68-443c-8721-c8d5cf4b11a8",
+      "originalUrl": "https://www.9news.com/article/news/local/wildfire/boulder-county-artificial-intellegence-wildfires/73-9879cbf9-ad68-443c-8721-c8d5cf4b11a8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://d1902livswy8rb.cloudfront.net/dimg/800x800/dimg/customer-graph.png",
-          "width": 800,
-          "height": 450,
+          "url": "https://media.9news.com/assets/KUSA/images/d0f26c04-3cb3-466f-b8e7-ad15cce1c1ec/d0f26c04-3cb3-466f-b8e7-ad15cce1c1ec_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T15:49:00-07:00",
+      "ampWebUrl": "https://www.9news.com/amp/article/news/local/wildfire/boulder-county-artificial-intellegence-wildfires/73-9879cbf9-ad68-443c-8721-c8d5cf4b11a8",
+      "cdnAmpWebUrl": "https://www-9news-com.cdn.ampproject.org/c/s/www.9news.com/amp/article/news/local/wildfire/boulder-county-artificial-intellegence-wildfires/73-9879cbf9-ad68-443c-8721-c8d5cf4b11a8",
+      "publishedDateTime": "2022-09-20T20:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "cmo.com.au",
-        "domain": "cmo.com.au",
+        "name": "9NEWS",
+        "domain": "9news.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,9 +40,111 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-nvidia-introduces-dlss3-to-generate-ai-powered-frames-with-4x-performance.md",
+      "title": "Nvidia introduces DLSS3 to generate AI-powered frames with 4X performance",
+      "excerpt": "Nvidia's DLSS 3 will use AI to estimate the best way to fill out images in the company's latest graphics cards.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/nvidia-introduces-dlss3-to-generate-ai-powered-frames-with-4x-performance/",
+      "originalUrl": "https://venturebeat.com/games/nvidia-introduces-dlss3-to-generate-ai-powered-frames-with-4x-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/racer-x-3.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/nvidia-introduces-dlss3-to-generate-ai-powered-frames-with-4x-performance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/nvidia-introduces-dlss3-to-generate-ai-powered-frames-with-4x-performance/amp/",
+      "publishedDateTime": "2022-09-20T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-salesforce-built-a-data-lake-to-transform-how-customer-data-moves-on-the-platform.md",
+      "title": "Salesforce built a data lake to transform how customer data moves on the platform",
+      "excerpt": "Genie is a new data integration model that underlies the Salesforce platform with the aim of moving data wherever it’s needed most -- and doing it fast.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/20/salesforce-genie-completely-transforms-the-way-data-moves-on-the-platform/",
+      "originalUrl": "https://techcrunch.com/2022/09/20/salesforce-genie-completely-transforms-the-way-data-moves-on-the-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-965917342.jpg?resize=1200,779",
+          "width": 1200,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/20/salesforce-genie-completely-transforms-the-way-data-moves-on-the-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/20/salesforce-genie-completely-transforms-the-way-data-moves-on-the-platform/amp/",
+      "publishedDateTime": "2022-09-20T15:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AWS AI",
-        "AI",
-        "AI in Sales"
+        "AI"
       ]
     },
     {
@@ -54,7 +156,7 @@
       "originalUrl": "https://techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 188,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -106,7 +208,7 @@
       "originalUrl": "https://www.reuters.com/business/autos-transportation/elon-musk-faces-skeptics-tesla-gets-ready-unveil-optimus-robot-2022-09-20/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -159,7 +261,7 @@
       "originalUrl": "https://techcrunch.com/2022/09/20/augments-personalized-ai-assistant-could-help-you-keep-track-of-a-scattered-digital-life/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -945,6 +1047,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-20-ai-enabled-laughing-robots-are-no-joke.md",
+      "title": "AI-Enabled Laughing Robots are No Joke",
+      "excerpt": "We propose that our system can be used for situated robot interaction and also emphasize the need for integrating proper empathetic laughs into conversational robots and agents",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202209/ai-enabled-laughing-robots-are-no-joke",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202209/ai-enabled-laughing-robots-are-no-joke",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-09/pic0921111.gif.jpg?itok=QnCgHwxS",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202209/ai-enabled-laughing-robots-are-no-joke?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202209/ai-enabled-laughing-robots-are-no-joke?amp",
+      "publishedDateTime": "2022-09-19T15:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-ai-software-helps-bust-image-fraud-in-academic-papers.md",
       "title": "AI software helps bust image fraud in academic papers",
       "excerpt": "Scientific publishers such as the American Association for Cancer Research (AACR) and Taylor & Francis have begun attempting to detect fraud in academic paper submissions with an AI image-checking program called Proofig,",
@@ -1089,161 +1234,6 @@
         "Microsoft AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-parallel-data-processing-with-rstudio-on-amazon-sagemaker.md",
-      "title": "Parallel data processing with RStudio on Amazon SageMaker",
-      "excerpt": "Last year, we announced the general availability of RStudio on Amazon SageMaker, the industry’s first fully managed RStudio Workbench integrated development environment (IDE) in the cloud. You can quickly launch the familiar RStudio IDE, and dial up and down the underlying compute resources without interrupting",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/parallel-data-processing-with-rstudio-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/parallel-data-processing-with-rstudio-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/19/parallel-data-processing-rstudio-sagemaker.jpg",
-          "width": 1552,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T09:39:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-inflation-problems-persist-and-ai-makes-headlines-forbes-ai-newsletter-september-17th.md",
-      "title": "Inflation Problems Persist And AI Makes Headlines: Forbes AI Newsletter - September 17th",
-      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/09/19/inflation-problems-persist-and-ai-makes-headlines-forbes-ai-newsletterseptember-17th/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/09/19/inflation-problems-persist-and-ai-makes-headlines-forbes-ai-newsletterseptember-17th/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6328702c4f81b1ab9e7a03a5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/09/19/inflation-problems-persist-and-ai-makes-headlines-forbes-ai-newsletterseptember-17th/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/09/19/inflation-problems-persist-and-ai-makes-headlines-forbes-ai-newsletterseptember-17th/amp/",
-      "publishedDateTime": "2022-09-19T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-how-to-leverage-aiml-for-predictive-incident-management.md",
-      "title": "How To Leverage AI/ML For Predictive Incident Management",
-      "excerpt": "Proactive risk mitigation must be embedded into your enterprise tech strategy to ensure disruption-free operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/19/how-to-leverage-aiml-for-predictive-incident-management/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/19/how-to-leverage-aiml-for-predictive-incident-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60e86b76e1d8ab6b511b4a15/0x0.jpg?format=jpg&crop=3341,1879,x0,y140,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/19/how-to-leverage-aiml-for-predictive-incident-management/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/19/how-to-leverage-aiml-for-predictive-incident-management/amp/",
-      "publishedDateTime": "2022-09-19T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

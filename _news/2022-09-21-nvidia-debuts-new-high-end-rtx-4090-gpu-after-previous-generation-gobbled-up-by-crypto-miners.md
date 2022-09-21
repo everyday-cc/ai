@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-409
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/amp/"
 type: article
 quality: 78
-heat: 188
+heat: 168
 published: true
 
 provider:
@@ -89,20 +89,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "NVIDIA Unveils RTX 4000 GPU Line, Includes DLSS 3"
-    excerpt: "NVIDIA had a keynote that showed off the next step in the evolution of its graphical prowess. Leading this off was the announcement of the newest"
-    publishedDateTime: 2022-09-20T16:08:00Z
-    webUrl: "https://hardcoregamer.com/news/nvidia-unveils-rtx-4000-gpu-line-includes-dlss-3/427788/"
-    type: article
-    provider:
-      name: Hardcore Gamer
-      domain: hardcoregamer.com
-    quality: 39
-    images:
-      - url: "https://hardcore-gamer.s3.amazonaws.com/uploads/2022/09/nvidia-rtx-4090.jpg"
-        width: 698
-        height: 289
-        isCached: true
   - title: "NVIDIA requests TSMC speed up AI GPU production to avoid China sanctions"
     excerpt: "Company fears political decisions will end lucrative deals it has with Chinese clients. New export restrictions on AI chips could cost company $400 million in potential sales to China. If NVIDIA is"
     publishedDateTime: 2022-09-20T07:27:00Z
@@ -158,16 +144,7 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "NVIDIA Introduces DLSS 3 With Breakthrough AI-Powered Frame Generation for up to 4x Performance"
-    excerpt: "NVIDIA today announced NVIDIA ® DLSS 3, an AI-powered performance multiplier that kicks off a new era of NVIDIA RTX™ neural rendering for games and applications. DLSS 3 builds on the company’s lead in AI-accelerated super-resolution techniques to deliver outstanding image quality and up to 4x the performance of brute-force rendering,"
-    publishedDateTime: 2022-09-20T16:48:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/20/9677329.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
 
-secured: "/ts+xiFMQki59iSlX+IMq0OaF0iv+Pd4Rn0g6fGKvpjtHP8QD9XHSLiVhxnAw3WsaujUUhuLRWCDG1e5dIt+aqOnIwdOa28cbMXpgJEL4pXcPchOwCQ3+yL/IaPOmFlSMfjQi2vKnVtdajaoXdques5AxU2MMpDDVcYJxKNSk3EzBVQU/d6kuEtagTxgWincTAMSWISSmv3o4tE+qKFipTlWgzUqD/TfUNUouty+iaERTClm8alxO6edVQBRHxrhdBJTUP75Czc5ZHpZX6ZQz+J1X0hVINgHS6JgwFszt+d1mf70baKV/lATrPXykfmONo/MlGEszXw56LjAv5fAjPb7E+oWMg+dELcVSrVsRoc=;fp+WEJflW5cfgotPULkVkA=="
+secured: "sFxHR8FrtITsqVHOf/Bo8wjkyFaR2LwsuQpisdApRIYizLNH5fUAsuR+vOpk2A4q/5RGZ2MEdPBi2RLV/o1j8THMMAj334BphfDrqbz7F7/BOuBuF2ReZHVehcBCkOe6wuHLrzTb7L8izugE7NR0ZYVYGVSG66D8emjh5vad6kstOhZnZx/QBO7CTUhXoomAPZ0dSeNUbNvlRRP1q6K1p2f2tafTlLDwMIVOO1wl+wpb2eXIM7IsoaJjLIz8ff61x0MaUl3Qf+/QrKT1pbtIxojfVN9FuxJiWgXQ12POEYEUevc3lkgqJ7nsfGgfXTt3mmPMXtdcGDbWf+eSnZvGi70ihEUhYt3EKlrYEVCdWqED9zPdBXFtMrFUdpLZSsOqvNt/LNg+2mggJAkdVbkwdHXAudRcTQBr2nj3lOF3uPMcCOcz6GcFcioXxv9qJ9X7HgfRw/niyM0/0tYdEC24nnCKf9KpSEHoVwio1hFTYyi16SOGzNmGZ8AX904LT0BCySL1eFv1bLubobGNmWGKSQ==;5o14+XvYES/XfNk2FdFIIQ=="
 ---
 

@@ -37,20 +37,6 @@ related:
         width: 768
         height: 1024
         isCached: true
-  - title: "AI in Fintech Market Growth and Share 2022 Analysis by Recent Developments, New Technologies, Key Dynamics, Regions and Segments Forecast to 2028"
-    excerpt: "The “AI in Fintech Market Growth Research 2022 offers detailed study on industry revenue estimations, regional"
-    publishedDateTime: 2022-09-20T07:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-growth-and-share-2022-analysis-by-recent-developments-new-technologies-key-dynamics-regions-and-segments-forecast-to-2028-2022-09-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "GrivPkwMaciDnvcIjepvYOu16DoNHXOHqNg3Q21pEosUOUQeZ5MUxZRphr+FF16imV+Rzfn0VfhkjSxXQ0Ohurnvs+c53KGegofAmulYS7IrPb+e0Gk/w3oNMs0RIiGgsnAT+ZrKk5qpnuoiUkrjcKE5/95VixoYZ5GhxMeJY1RIc164KarZiCE0jmeHBksz8p0p9F3Vocfl/N6aHZ1rdO/sG8kEECG48Pa0WhEBuz5VUyR0w7nfmOcU6Q8P5SRpVVKjZvrLJ4NmoYKSmo4SIFn1Uswhio1mtFf2oj1zrxHO1pRhbKl/M3IhBMDRBRGnvLZUxOWMzZV6AqxES2rQX7p9OGfCYCwUN3ahkEh1aWI=;lRAgMqak5+vCDtEJVNPr3w=="
 ---

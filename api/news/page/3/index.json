@@ -2,6 +2,152 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-16-hawke-ai-ceo-discusses-marketing-advancements-that-drive-sustainability.md",
+      "title": "Hawke AI CEO Discusses Marketing Advancements That Drive Sustainability",
+      "excerpt": "As artificial intelligence can optimize processes, marketers are able to better prioritize their time and energy, leading to more sustainable marketing practices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jefffromm/2022/09/16/hawke-ai-ceo-discusses-marketing-advancements-that-drive-sustainability/",
+      "originalUrl": "https://www.forbes.com/sites/jefffromm/2022/09/16/hawke-ai-ceo-discusses-marketing-advancements-that-drive-sustainability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6320a59e6e56708735fe585a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jefffromm/2022/09/16/hawke-ai-ceo-discusses-marketing-advancements-that-drive-sustainability/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jefffromm/2022/09/16/hawke-ai-ceo-discusses-marketing-advancements-that-drive-sustainability/amp/",
+      "publishedDateTime": "2022-09-16T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-this-ai-system-will-completely-change-your-experience-at-sporting-events.md",
+      "title": "This AI system will completely change your experience at sporting events",
+      "excerpt": "It is officially football season, which means you may be attending an NFL game soon. If you are, the long, tedious and not always accurate metal detectors may be a thing of the past, thanks to Evolv body scanners.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/this-ai-system-will-completely-change-your-experience-at-sporting-events/",
+      "originalUrl": "https://www.zdnet.com/article/this-ai-system-will-completely-change-your-experience-at-sporting-events/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/06fd892c6c209e50e5c69a9809dfd5772ce9c4e0/2022/09/14/937f1e8c-fbe9-4b0d-b883-e0342b894341/columbus-2.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-ai-system-will-completely-change-your-experience-at-sporting-events/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-ai-system-will-completely-change-your-experience-at-sporting-events/",
+      "publishedDateTime": "2022-09-16T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-can-ai-powered-robots-laugh-for-human-jokes.md",
+      "title": "Can AI-Powered Robots Laugh for Human Jokes?",
+      "excerpt": "Artificial intelligence-powered robot Erica is now trained to laugh for human jokes. Since at least the time of inquiring minds like Plato, philosophers and scientists have puzzled over the question,",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/can-ai-powered-robots-laugh-for-human-jokes-208618-1.htm",
+      "originalUrl": "https://www.medindia.net/news/can-ai-powered-robots-laugh-for-human-jokes-208618-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/smile1.jpg.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/can-ai-powered-robots-laugh-for-human-jokes-208618-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-ai-powered-robots-laugh-for-human-jokes-208618-1.htm",
+      "publishedDateTime": "2022-09-16T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-16-the-mysterious-mathematics-of-ai-could-be-decoded-using-the-neural-network-method.md",
       "title": "The Mysterious Mathematics of AI Could be Decoded Using the Neural Network Method",
       "excerpt": "Artificial Intelligence relies on Neural Networks making it think or process information like a human. There is both input and output but it mostly remains unknown what transpires in the processing unit of the Neural Networks.",
@@ -1029,143 +1175,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-expanding-access-to-technology-by-democratizing-access-to-ai-powered-software.md",
-      "title": "Expanding Access To Technology By Democratizing Access To AI-Powered Software",
-      "excerpt": "AI is now transforming the software development space itself and making it easier for businesses of all sizes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/15/expanding-access-to-technology-by-democratizing-access-to-ai-powered-software/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/15/expanding-access-to-technology-by-democratizing-access-to-ai-powered-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63207effe02c83fcd4d70386/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/15/expanding-access-to-technology-by-democratizing-access-to-ai-powered-software/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/15/expanding-access-to-technology-by-democratizing-access-to-ai-powered-software/amp/",
-      "publishedDateTime": "2022-09-15T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-from-a-robotic-nurse-to-an-ai-actress-meet-the-worlds-most-realistic-humanoid-robots-that-can-mimic-human-speech-and-facial-expressions-with.md",
-      "title": "From a robotic nurse to an AI actress: Meet the world's most realistic humanoid ROBOTS that can mimic human speech and facial expressions with eerie precision",
-      "excerpt": "With AI at its core and a full-size humanoid ... stores across North America and the Middle East. 'A robot with a new appearance will start its activities in 2023, and a selected person's face ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11211887/Meet-worlds-realistic-humanoid-ROBOTS.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11211887/Meet-worlds-realistic-humanoid-ROBOTS.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/09/14/16/62406355-0-image-a-143_1663169221048.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-11211887/amp/Meet-worlds-realistic-humanoid-ROBOTS.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11211887/amp/Meet-worlds-realistic-humanoid-ROBOTS.html",
-      "publishedDateTime": "2022-09-15T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-trinity-and-ibm-deal-to-advance-research-in-areas-such-as-quantum-and-ai.md",
-      "title": "Trinity and IBM deal to advance research in areas such as quantum and AI",
-      "excerpt": "TCD and IBM are collaborating on research activities and extending their pre-PhD programme to train next-gen talent in quantum, AI and security. Trinity College Dublin (TCD) has signed a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconrepublic.com/innovation/trinity-tcd-ibm-deal-research-advancement",
-      "originalUrl": "https://www.siliconrepublic.com/innovation/trinity-tcd-ibm-deal-research-advancement",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconrepublic.com/wp-content/uploads/2022/09/IBM-MoU-signing.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

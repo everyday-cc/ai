@@ -9,7 +9,7 @@ ampWebUrl: "https://theprint.in/india/kochi-based-fintech-startup-traice-wins-na
 cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/india/kochi-based-fintech-startup-traice-wins-nasscom-nipp-gcc-award/1131959/?amp"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -19,24 +19,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "Kochi-based fintech start-up TRaiCE wins NASSCOM-NIPP GCC award"
-    excerpt: "TRaiCE wins award for using predictive AI to help lenders improve operational efficiencies for faster, safer financing"
-    publishedDateTime: 2022-09-16T10:05:00Z
-    webUrl: "https://www.thehindubusinessline.com/money-and-banking/kochi-based-fintech-start-up-traice-wins-nasscom-nipp-gcc-award/article65898526.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/money-and-banking/kochi-based-fintech-start-up-traice-wins-nasscom-nipp-gcc-award/article65898526.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/kochi-based-fintech-start-up-traice-wins-nasscom-nipp-gcc-award/article65898526.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
-    images:
-      - url: "https://bl-i.thgim.com/public/news/erm09d/article65898618.ece/alternates/LANDSCAPE_615/TRaiCE.JPG"
-        width: 615
-        height: 383
-        isCached: true
 
 secured: "npTcdAiHdbLvg0gRA/houruWv/DYjBri/CqEcyqxSJDMfmS+9bILMM9Y1H7t173r2srem9SqjttxMWYJggKvofo2BXEoAFPGN9QO0yf9X/kXyafAmuQ8g1i8YTzZIYjtKtTpMtFsq+eBg1LHo5BDoQRmW/DtBpqu8sRcVbeA0OtfRTItSrBXVxHPHFPNehruPg0UBCDf5igGLOxDXlFvfvz5IaoPrHD/YYANsTGkXIPbe3fz9BPXnL4My59/W9qVelt1xn5lL9heNe6HKjCx6BFctdPFtZtUXoiqk1IxEbqVdxmtQVYJI0LzSMPrgEVObFtkFMWmCGdUZRiXrBtGugemRcu6YqcUoJSFCDFRzTg=;+byVAy6zUfH5FTMh1ZyXpA=="
 ---

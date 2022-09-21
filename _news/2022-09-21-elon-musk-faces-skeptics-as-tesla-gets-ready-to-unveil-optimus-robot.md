@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/elon-musk-fa
 webUrl: "https://www.reuters.com/business/autos-transportation/elon-musk-faces-skeptics-tesla-gets-ready-unveil-optimus-robot-2022-09-20/"
 type: article
 quality: 86
-heat: 166
+heat: 176
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk faces sceptics as Tesla gets ready to unveil 'Optimus' robot"
+    excerpt: "Elon Musk is planning to deploy thousands of humanoid robots in Tesla factory. However, there is scepticism as about his 'Optimus' robot"
+    publishedDateTime: 2022-09-21T03:19:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/elon-musk-faces-sceptics-as-tesla-gets-ready-to-unveil-optimus-robot-11663725763133.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/elon-musk-faces-sceptics-as-tesla-gets-ready-to-unveil-optimus-robot/amp-11663725763133.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/elon-musk-faces-sceptics-as-tesla-gets-ready-to-unveil-optimus-robot/amp-11663725763133.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 76
+    images:
+      - url: "https://images.livemint.com/img/2022/09/21/600x338/Tesla_Elon_Musk_1663728702949_1663728703184_1663728703184.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Optimus Robot Is Coming At Tesla’s AI Day 2 – But It’ll Have To Do More Than Dancing To Silence Critics"
     excerpt: "Tesla will hold its AI Day 2 on September 30 and in the leadup, Elon Musk has prioritized both Optimus and an updated smart summon feature. According to the tech billionaire, both projects have an end-of-month deadline."
     publishedDateTime: 2022-09-20T23:37:00Z

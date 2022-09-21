@@ -38,6 +38,22 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Art of business in AI-generated art"
+    excerpt: "For the software entrepreneurs, there is a business in AI generated art though artists are very upset about AI art. But artists themselves are in the business of art for many years since the renaissance."
+    publishedDateTime: 2022-09-21T03:49:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/nayakgiri-a-leader-within-an-individual/art-of-business-in-ai-generated-art/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/nayakgiri-a-leader-within-an-individual/art-of-business-in-ai-generated-art/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/nayakgiri-a-leader-within-an-individual/art-of-business-in-ai-generated-art/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/03/Gautam-Naik.png"
+        width: 434
+        height: 441
+        isCached: true
   - title: "AI-Generated Games Are Starting To Appear On Steam (And It's Not Going Well)"
     excerpt: "Enter This Girl Does Not Exist Making a game with AI-generated assets comes with its own unique challenges, as she tells it. Not having to make art from the ground up does mean things move quicker, but since This Girl Does Not Exist was a dating game,"
     publishedDateTime: 2022-09-19T18:31:00Z

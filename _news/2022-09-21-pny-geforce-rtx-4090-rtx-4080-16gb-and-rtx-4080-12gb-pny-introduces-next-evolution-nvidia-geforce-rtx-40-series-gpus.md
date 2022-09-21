@@ -99,20 +99,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "NVIDIA Unveils RTX 4000 GPU Line, Includes DLSS 3"
-    excerpt: "NVIDIA had a keynote that showed off the next step in the evolution of its graphical prowess. Leading this off was the announcement of the newest"
-    publishedDateTime: 2022-09-20T16:08:00Z
-    webUrl: "https://hardcoregamer.com/news/nvidia-unveils-rtx-4000-gpu-line-includes-dlss-3/427788/"
-    type: article
-    provider:
-      name: Hardcore Gamer
-      domain: hardcoregamer.com
-    quality: 39
-    images:
-      - url: "https://hardcore-gamer.s3.amazonaws.com/uploads/2022/09/nvidia-rtx-4090.jpg"
-        width: 698
-        height: 289
-        isCached: true
   - title: "NVIDIA requests TSMC speed up AI GPU production to avoid China sanctions"
     excerpt: "Company fears political decisions will end lucrative deals it has with Chinese clients. New export restrictions on AI chips could cost company $400 million in potential sales to China. If NVIDIA is"
     publishedDateTime: 2022-09-20T07:27:00Z
@@ -154,15 +140,6 @@ related:
       name: Guru3D.com
       domain: guru3d.com
     quality: 18
-  - title: "NVIDIA Introduces DLSS 3 With Breakthrough AI-Powered Frame Generation for up to 4x Performance"
-    excerpt: "NVIDIA today announced NVIDIA ® DLSS 3, an AI-powered performance multiplier that kicks off a new era of NVIDIA RTX™ neural rendering for games and applications. DLSS 3 builds on the company’s lead in AI-accelerated super-resolution techniques to deliver outstanding image quality and up to 4x the performance of brute-force rendering,"
-    publishedDateTime: 2022-09-20T16:48:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/20/9677329.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
 
 secured: "MyPcT4EA6vHQvffnJkzlgmbNG9vhvEpz6A1nqXneQhRz6ApOpvY/z4U5gplpss76tpMKDj3kIbFssE1eWG36GC/SrYS4ZEdZQdLyDACJZk0e/ob0FJgEGAo+8BUaqKNtJYAKT0N+51DwT/Q79At0t/0R+US1uU6/0g+7ke3RJ7B6uERVziYlrBUEiwtqPgt/hXUc8v8bFhpIpj5eZTRgvTDYSLPtcBI3DIjw4vAl5Hu5EzCUZThAb1KrCrLoAGvqxdl3W42nYkvGxVCol4spVWEn35TsVI148+uh+VD7K0JiVVVy3G1xgpMcdVDEbbH9is6y+cvJPDvJyxxcT3dNBTcq9Qtu0o9sL4pJL2zqGsY=;zkg8iEtBwYSfH0ItVVSU6w=="
 ---

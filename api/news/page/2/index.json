@@ -2,6 +2,161 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-19-parallel-data-processing-with-rstudio-on-amazon-sagemaker.md",
+      "title": "Parallel data processing with RStudio on Amazon SageMaker",
+      "excerpt": "Last year, we announced the general availability of RStudio on Amazon SageMaker, the industry’s first fully managed RStudio Workbench integrated development environment (IDE) in the cloud. You can quickly launch the familiar RStudio IDE, and dial up and down the underlying compute resources without interrupting",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/parallel-data-processing-with-rstudio-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/parallel-data-processing-with-rstudio-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/19/parallel-data-processing-rstudio-sagemaker.jpg",
+          "width": 1552,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T09:39:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-19-inflation-problems-persist-and-ai-makes-headlines-forbes-ai-newsletter-september-17th.md",
+      "title": "Inflation Problems Persist And AI Makes Headlines: Forbes AI Newsletter - September 17th",
+      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/09/19/inflation-problems-persist-and-ai-makes-headlines-forbes-ai-newsletterseptember-17th/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/09/19/inflation-problems-persist-and-ai-makes-headlines-forbes-ai-newsletterseptember-17th/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6328702c4f81b1ab9e7a03a5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/09/19/inflation-problems-persist-and-ai-makes-headlines-forbes-ai-newsletterseptember-17th/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/09/19/inflation-problems-persist-and-ai-makes-headlines-forbes-ai-newsletterseptember-17th/amp/",
+      "publishedDateTime": "2022-09-19T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-19-how-to-leverage-aiml-for-predictive-incident-management.md",
+      "title": "How To Leverage AI/ML For Predictive Incident Management",
+      "excerpt": "Proactive risk mitigation must be embedded into your enterprise tech strategy to ensure disruption-free operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/19/how-to-leverage-aiml-for-predictive-incident-management/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/19/how-to-leverage-aiml-for-predictive-incident-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60e86b76e1d8ab6b511b4a15/0x0.jpg?format=jpg&crop=3341,1879,x0,y140,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/19/how-to-leverage-aiml-for-predictive-incident-management/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/19/how-to-leverage-aiml-for-predictive-incident-management/amp/",
+      "publishedDateTime": "2022-09-19T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-09-19-machine-learning-as-a-service-mlaas-market-size-to-grow-at-3288-cagr-during-the-forecast-period-of-2022-2027-118-report-pages.md",
       "title": "Machine Learning as a Service (MLaaS) Market Size to Grow at 32.88% CAGR During the Forecast Period of 2022-2027 | 118 Report Pages",
       "excerpt": "The global Machine Learning as a Service (MLaaS) market size is expected to expand at a CAGR of 32.88% during the",
@@ -589,7 +744,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2022/09/artists-begin-selling-ai-generated-artwork-on-stock-photography-websites/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -936,7 +1091,7 @@
       "originalUrl": "https://www.forbes.com/sites/qai/2022/09/16/how-to-use-ai-to-maximize-your-inflation-relief-payments/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1070,152 +1225,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-hawke-ai-ceo-discusses-marketing-advancements-that-drive-sustainability.md",
-      "title": "Hawke AI CEO Discusses Marketing Advancements That Drive Sustainability",
-      "excerpt": "As artificial intelligence can optimize processes, marketers are able to better prioritize their time and energy, leading to more sustainable marketing practices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jefffromm/2022/09/16/hawke-ai-ceo-discusses-marketing-advancements-that-drive-sustainability/",
-      "originalUrl": "https://www.forbes.com/sites/jefffromm/2022/09/16/hawke-ai-ceo-discusses-marketing-advancements-that-drive-sustainability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6320a59e6e56708735fe585a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 782,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jefffromm/2022/09/16/hawke-ai-ceo-discusses-marketing-advancements-that-drive-sustainability/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jefffromm/2022/09/16/hawke-ai-ceo-discusses-marketing-advancements-that-drive-sustainability/amp/",
-      "publishedDateTime": "2022-09-16T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-this-ai-system-will-completely-change-your-experience-at-sporting-events.md",
-      "title": "This AI system will completely change your experience at sporting events",
-      "excerpt": "It is officially football season, which means you may be attending an NFL game soon. If you are, the long, tedious and not always accurate metal detectors may be a thing of the past, thanks to Evolv body scanners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-ai-system-will-completely-change-your-experience-at-sporting-events/",
-      "originalUrl": "https://www.zdnet.com/article/this-ai-system-will-completely-change-your-experience-at-sporting-events/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/06fd892c6c209e50e5c69a9809dfd5772ce9c4e0/2022/09/14/937f1e8c-fbe9-4b0d-b883-e0342b894341/columbus-2.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-ai-system-will-completely-change-your-experience-at-sporting-events/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-ai-system-will-completely-change-your-experience-at-sporting-events/",
-      "publishedDateTime": "2022-09-16T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-can-ai-powered-robots-laugh-for-human-jokes.md",
-      "title": "Can AI-Powered Robots Laugh for Human Jokes?",
-      "excerpt": "Artificial intelligence-powered robot Erica is now trained to laugh for human jokes. Since at least the time of inquiring minds like Plato, philosophers and scientists have puzzled over the question,",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/can-ai-powered-robots-laugh-for-human-jokes-208618-1.htm",
-      "originalUrl": "https://www.medindia.net/news/can-ai-powered-robots-laugh-for-human-jokes-208618-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/smile1.jpg.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/can-ai-powered-robots-laugh-for-human-jokes-208618-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-ai-powered-robots-laugh-for-human-jokes-208618-1.htm",
-      "publishedDateTime": "2022-09-16T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,189 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2022-08-30-ageing-can-impact-the-security-of-facial-recognition.md",
+      "title": "Ageing can impact the security of facial recognition",
+      "excerpt": "Facial recognition algorithms can struggle to recognise individuals as the same person after as little as five years. This means that systems that rely on facial recognition may need to obtain new photographs of users on a regular basis or risk being unable to identify them,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/RgeVDvPRYPbMKJN3",
+      "originalUrl": "https://www.itweb.co.za/content/RgeVDvPRYPbMKJN3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/xWYSG2AbERBRwLqbiTZHMrOsueCLWsKZI3GAFCZaiAPRn1qBny7jW-n-U5EL6Sgiw-xz6RkxBVVnwjxpVEDvh4cVcImCrkmRJ3M=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/RgeVDvPRYPbMKJN3",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/RgeVDvPRYPbMKJN3",
+      "publishedDateTime": "2022-08-30T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-artificial-intelligence-market-is-expected-to-grow-at-a-cagr-of-26-percent-during-forecast-period-2022-2027.md",
+      "title": "Artificial Intelligence Market is expected to grow at a CAGR of 26 percent during forecast period 2022-2027",
+      "excerpt": "The artificial intelligence market is anticipated to display an elevated CAGR of 26% over the forecast period (2021-2027). The global Artificial intelligence market is expected to witness robust growth mainly due to the rising funding levels and a wide variety of applicability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-is-expected-to-grow-at-a-cagr-of-26-percent-during-forecast-period-2022-2027-2022-08-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-is-expected-to-grow-at-a-cagr-of-26-percent-during-forecast-period-2022-2027-2022-08-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T02:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-baidu-beats-quarterly-revenue-estimates-on-cloud-business-boom.md",
+      "title": "Baidu beats quarterly revenue estimates on cloud business boom",
+      "excerpt": "China's search engine giant Baidu beat quarterly revenue estimates on Tuesday (Aug 30), underpinned by demand for its cloud and artificial intelligence-powered offerings. US-listed shares of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-cloud-business-boom-2909281",
+      "originalUrl": "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-cloud-business-boom-2909281",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--biXDvPGs--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-08-30t090706z_2_lynxmpei7t09t_rtroptp_3_usa-china-audit-investors.jpg?itok=0Es-SEjN",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-baidu-announces-second-quarter-2022-results.md",
+      "title": "Baidu Announces Second Quarter 2022 Results",
+      "excerpt": "Second Quarter 2022 Financial Highlights [1] Operational Highlights Corporate AI Cloud Intelligent Driving Apollo Go, Baidu's autonomous ride-hailing service, continued its solid progress in ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/baidu-announces-second-quarter-2022-results-1031712667",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidu-announces-second-quarter-2022-results-1031712667",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T02:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-i-have-face-blindness-this-is-how-i-recognize-you.md",
       "title": "I Have Face Blindness. This Is How I Recognize You.",
       "excerpt": "new video loaded: I Have Face Blindness. This Is How I Recognize You. Advertisement Opinion Video features innovative video journalism commentary — argued essays, Op-Ed videos, documentaries ...",
@@ -975,179 +1158,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-robot-sales-hit-record-high-in-north-america-for-third-straight-quarter.md",
-      "title": "Robot Sales Hit Record High in North America for Third-Straight Quarter",
-      "excerpt": "Association for Advancing Automation latest stats show the most robots sold in any quarter; automotive industry returns to historic norms, while food & consumer goods continues interest in automation to handle e-commerce logistics boom.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/august-2022/robot-sales-hit-record-high-north-america",
-      "originalUrl": "https://www.automation.com/en-us/articles/august-2022/robot-sales-hit-record-high-north-america",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/78715b12-b6e5-4559-9d38-61e4938d9b6f/Robots-news-Aug-29-2022-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-ethics-in-the-time-of-artificial-intelligence-and-their-sentient-attorneys.md",
-      "title": "Ethics In The Time of Artificial Intelligence (and their sentient attorneys)",
-      "excerpt": "By Matt Heisie, co-founder and head of product marketing of Ferret, an AI platform that provides critical intelligence to empower companies and individuals. A Google engineer stated earlier this year that the company’s AI bot known as LaMDA not only had achieved sentience but perhaps in the most obvious sign of modern human intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/ethics-in-the-time-of-artificial-intelligence-and-their-sentient-attorneys/",
-      "originalUrl": "https://www.globalbankingandfinance.com/ethics-in-the-time-of-artificial-intelligence-and-their-sentient-attorneys/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/08/iStock-1049226620.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/ethics-in-the-time-of-artificial-intelligence-and-their-sentient-attorneys/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/ethics-in-the-time-of-artificial-intelligence-and-their-sentient-attorneys/",
-      "publishedDateTime": "2022-08-29T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-bridgestone-and-aws-announce-strategic-relationship-focused-on-platform-development-and-launch-of-new-customer-solutions.md",
-      "title": "Bridgestone and AWS Announce Strategic Relationship Focused on Platform Development and Launch of New Customer Solutions",
-      "excerpt": "Bridgestone will utilize AWS capabilities to accelerate its digital platform development and launch new customer solutions such as a services marketplace to support last-mile delivery and fleet customers.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/technology-web-services-bridgestone-corp-climate-and-environment-d974b8718c8110466e2eb7c1c35891d8",
-      "originalUrl": "https://apnews.com/article/technology-web-services-bridgestone-corp-climate-and-environment-d974b8718c8110466e2eb7c1c35891d8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-university-of-florida-partners-with-sas-to-tackle-water-quality-challenges-with-analytics.md",
-      "title": "University of Florida partners with SAS to tackle water quality challenges with analytics",
-      "excerpt": "The project will evaluate the connections between water quality and key economic sectors in the region. As part of the yearlong project, SAS and CCS will use SAS® Viya® on Microsoft Azure to develop a web-based water analytics platform to integrate a diversity of data streams to facilitate scientific research,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/science-technology-water-quality-artificial-intelligence-university-of-florida-3b539368a328bb6eda66e6a3fe625976",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/science-technology-water-quality-artificial-intelligence-university-of-florida-3b539368a328bb6eda66e6a3fe625976",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

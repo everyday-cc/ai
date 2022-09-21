@@ -93,20 +93,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "NVIDIA Unveils RTX 4000 GPU Line, Includes DLSS 3"
-    excerpt: "NVIDIA had a keynote that showed off the next step in the evolution of its graphical prowess. Leading this off was the announcement of the newest"
-    publishedDateTime: 2022-09-20T16:08:00Z
-    webUrl: "https://hardcoregamer.com/news/nvidia-unveils-rtx-4000-gpu-line-includes-dlss-3/427788/"
-    type: article
-    provider:
-      name: Hardcore Gamer
-      domain: hardcoregamer.com
-    quality: 39
-    images:
-      - url: "https://hardcore-gamer.s3.amazonaws.com/uploads/2022/09/nvidia-rtx-4090.jpg"
-        width: 698
-        height: 289
-        isCached: true
   - title: "ZOTAC GAMING Announces the GeForce RTX 40 Series PowerED BY the next generation GPU ARCHITECTURE"
     excerpt: "ZOTAC Technology Limited, a global manufacturer of innovation, ushers in a new era of PC gaming with the unveiling of its next-generation ZOTAC GAMING graphics card line-up built on the breakthrough NVIDIA Ada Lovelace architecture and the 3rd generation of RTX."
     publishedDateTime: 2022-09-20T18:12:00Z
@@ -153,15 +139,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "NVIDIA Introduces DLSS 3 With Breakthrough AI-Powered Frame Generation for up to 4x Performance"
-    excerpt: "NVIDIA today announced NVIDIA ® DLSS 3, an AI-powered performance multiplier that kicks off a new era of NVIDIA RTX™ neural rendering for games and applications. DLSS 3 builds on the company’s lead in AI-accelerated super-resolution techniques to deliver outstanding image quality and up to 4x the performance of brute-force rendering,"
-    publishedDateTime: 2022-09-20T16:48:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/20/9677329.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
 
 secured: "wro99ybr63zJdt/8QlIz1bisP/FXgQPnCAWc8zvp+Z8RhKN9qq1AvFtEiqeVdofjZz8EM0kzRtrZ2RibaaVVccXAmvOEOQTYmg8+0voz8nZdRXMHPPmTJeeEHAkofpyWmjbWijQ+2GtMv+g47Kw+TYpEnRcZrk8g2mxr8B7dUYlffxHxDW3ed86fDPXUoSWR36oTTwNvMDEUmQRKTTrutNE3fYj9ndpVNS4QkSj4nHWYTxqomRCTlfSFzZxRTgt9z5oCYxs2OmqMsXkhuwSO7zNH/jr+QtFtHffzvtRHCTnt4cpJd3tBtfBPiz38qxFl3Z36j5ugkdJaIt4TCoSNO9/m6TyRj3PblBG09v3Kq8A=;g2dWHY/5zlBmOy0AnwtYRg=="
 ---

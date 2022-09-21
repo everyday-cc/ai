@@ -85,20 +85,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "NVIDIA Unveils RTX 4000 GPU Line, Includes DLSS 3"
-    excerpt: "NVIDIA had a keynote that showed off the next step in the evolution of its graphical prowess. Leading this off was the announcement of the newest"
-    publishedDateTime: 2022-09-20T16:08:00Z
-    webUrl: "https://hardcoregamer.com/news/nvidia-unveils-rtx-4000-gpu-line-includes-dlss-3/427788/"
-    type: article
-    provider:
-      name: Hardcore Gamer
-      domain: hardcoregamer.com
-    quality: 39
-    images:
-      - url: "https://hardcore-gamer.s3.amazonaws.com/uploads/2022/09/nvidia-rtx-4090.jpg"
-        width: 698
-        height: 289
-        isCached: true
   - title: "NVIDIA requests TSMC speed up AI GPU production to avoid China sanctions"
     excerpt: "Company fears political decisions will end lucrative deals it has with Chinese clients. New export restrictions on AI chips could cost company $400 million in potential sales to China. If NVIDIA is"
     publishedDateTime: 2022-09-20T07:27:00Z
@@ -154,15 +140,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "NVIDIA Introduces DLSS 3 With Breakthrough AI-Powered Frame Generation for up to 4x Performance"
-    excerpt: "NVIDIA today announced NVIDIA ® DLSS 3, an AI-powered performance multiplier that kicks off a new era of NVIDIA RTX™ neural rendering for games and applications. DLSS 3 builds on the company’s lead in AI-accelerated super-resolution techniques to deliver outstanding image quality and up to 4x the performance of brute-force rendering,"
-    publishedDateTime: 2022-09-20T16:48:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/20/9677329.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
 
 secured: "bAB0UKdkesCeXmi7GZLFGVr5m3uwmH1AvQbTbdYAZK+PqKeJclvrxyJMoau0oQtw3ri0HdXQ3b85u2oP5zVDFLRiAgaEU/cepLjkW438vzATifwQsEwmKuP2iFA7PARfKc6PB6t64VpIxV81c4SYQVw9aXMtsmo0K8GyE6XsDe7aeRtksS4CdaWO26mqiVdHAfEJhrNGRjHGufs9lAipwzhlskBBBVRSOAhXH2K5Zxz2nZL2XYl5dTwBZ/FKa76kdcQy9YonCtYpnkraDeCDjrUkk2PEWOb+Fd7lgNEoFUYIkVf5QsHS9O5n0sVEq/KASpTAufiJKw6FuzcJZwCCJFfOpeAzz+QbPwMCbqwLVKizySzGUo4tot7kg1HAadUmsWWEPKWM9LzW0mkhQ+zpE2z4rP8dqSjeyBajJXQ6h9HA8Ebvf3HbJmnzStCyqY9g3sUZbhfdZv+IYKOKY3FqDMkrihwkGBijRH9CVZTLTpS7X76rh6Ark3+GSSAAkbSeSJfBofcbV+s/P8FT8zETvw==;57BRA6G/VdbOONFwfAXdYQ=="
 ---

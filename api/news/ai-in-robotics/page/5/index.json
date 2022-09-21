@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-20-hyosung-donates-ai-care-robots-to-older-veterans.md",
+      "title": "Hyosung donates AI care robots to older veterans",
+      "excerpt": "Pibo, an AI care robot developed by a South Korean startup, Circulus, offers information such as news and weather while also monitoring the user’s body temperature and heart rate. It also ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreaherald.com/view.php?ud=20220819000554",
+      "originalUrl": "https://www.koreaherald.com/view.php?ud=20220819000554",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-19T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Herald",
+        "domain": "koreaherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-19-robotics-and-automation-are-the-future-of-healthcare.md",
       "title": "Robotics and automation are the future of healthcare",
       "excerpt": "Advanced technologies, such as AI-guided robotics and automation, offer a potential solution to the provider shortage by freeing healthcare professionals from repetitive and time-consuming tasks and allow clinicians to focus on tasks that require a specialized touch.",
@@ -1359,49 +1393,6 @@
       "provider": {
         "name": "Design News",
         "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-13-hello-human-do-you-want-to-talk-to-me.md",
-      "title": "Hello human, do you want to talk to me?",
-      "excerpt": "related to various disciplines including human-computer interaction (HCI), robotics, artificial intelligence, design, and philosophy. HRI is a unique discipline, concerned with building a concept ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.rte.ie/brainstorm/2022/0811/1315076-history-human-robot-interaction-ethics/",
-      "originalUrl": "https://www.rte.ie/brainstorm/2022/0811/1315076-history-human-robot-interaction-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.rasset.ie/001c3b72-1600.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-12T11:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RTE Online",
-        "domain": "www.rte.ie",
         "images": null,
         "publishers": null,
         "authors": null

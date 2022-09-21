@@ -2,26 +2,26 @@
 category: news
 title: "Aetina Announces Upcoming Edge AI Computers Powered by New NVIDIA Jetson Orin Nano for Use in Computer Vision Applications"
 excerpt: "Aetina today introduced its upcoming NVIDIA® Jetson-based edge AI computers powered by Jetson Orin™ Nano system-on-modules (SOM) that have set a new baseline for entry-level edge AI and robotics, as announced during NVIDIA GTC."
-publishedDateTime: 2022-09-20T18:22:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aetina-announces-upcoming-edge-ai-computers-powered-new-/2022/09/20/9677437.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aetina-announces-upcoming-edge-ai-computers-powered-new-/2022/09/20/9677437.htm"
+publishedDateTime: 2022-09-21T03:00:00Z
+originalUrl: "https://www.asiaone.com/business/aetina-announces-upcoming-edge-ai-computers-powered-new-nvidia-jetson-orin-nano-use"
+webUrl: "https://www.asiaone.com/business/aetina-announces-upcoming-edge-ai-computers-powered-new-nvidia-jetson-orin-nano-use"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1899916/Aetina_Announces_Upcoming_Edge_AI_Computers_Powered_New_NVIDIA_Jetson.jpg"
-    width: 400
-    height: 209
+  - url: "https://mma.prnasia.com/media2/1777543/Aetina_Corporation_Logo_Logo.jpg?p=medium600"
+    width: 599
+    height: 424
     isCached: true
 
 related:
@@ -248,6 +248,6 @@ related:
       domain: insidebigdata.com
     quality: 4
 
-secured: "pPEYPQgnDJnAmMcpeWJlKoXCHXFg3wjF299Ud5kLEsKQejr4CKNS19+6pL2Xt6c+9kpCkQTjFmBh/qhwguvGIPO4kUTriufDjjE7qqGzq1YmSRlOTGZ2dpse1ZRdbb9dSAptksfWs3t/yKheAdhW0Y+gOt6hxpNzgw2EKXv9j7N6bDkdRo+tn3SORJR9lNeqqyJdCtBWObc7TDP7X9y4S49DIdPmkH4cbByEBiIQiJqSFF9CSwwUKxyQaBEPNxi/dUY9UdBexe/eKJDouNHr+Sksj4+y35IcYamuo3bvmVzU+uSpN8FbGzwzaGeQdn83rj8Z4tebEUreuwjdKM3rtdTqe6ygAhhObqX1TPmzvtc=;kMMkL9uvlx6L93BKVX5XCg=="
+secured: "YGLpfRyOAkuSCZdUrqJMPObyVohRr1IKNTdPBRju0t/T1maeJVFBupoW+NmOsyUAtoeqpxQvL7Yqg2K5KfhOB+6aagkKXtdDGDEcyydB50+vgXCa4jKT4LKhfY9+dcQZctD8zQMyl8r8tZ9XWYF1un5O6PLGt2pvD8vn/nU0icr8HiSTXmhgTgqxi/xMgSUx56IIOlQr5iq6YK7cJtEVwlOmXhRfXlK/+Wfvd6TGlSTgIyiijZE2SLMt7IoBaVEFScan7Fx/exAs+A7mTNPNS3vCBMOgaqn9stfzWPYS731IDu/UmFqqTtuBZllOqhX2OBM72+W4WWOcasfHWhTnMuwIc9W2wKvzz/WabqJVYsc=;VCYdvGei4QCJVFDaUxEXYw=="
 ---
 

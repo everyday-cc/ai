@@ -2,6 +2,143 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-09-12-inventor-behind-amazons-alexa-raises-20-mn-for-new-ai-startup.md",
+      "title": "Inventor behind Amazon's Alexa raises $20 mn for new AI startup",
+      "excerpt": "The inventor of various technologies used by Amazon Inc's Alexa, William Tunstall-Pedoe, has raised $20 million for a new Artificial Intelligence (AI) startup called Unlikely AI. Amadeus Capital Partners,",
+      "sourceUrl": null,
+      "webUrl": "https://inshorts.com/en/news/inventor-behind-amazons-alexa-raises-$20-mn-for-new-ai-startup-1662983488265",
+      "originalUrl": "https://inshorts.com/en/news/inventor-behind-amazons-alexa-raises-$20-mn-for-new-ai-startup-1662983488265",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/09_sep/12_mon/img_1662977814621_824.jpg?",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inshorts.com/m/en/amp_news/inventor-behind-amazons-alexa-raises-$20-mn-for-new-ai-startup-1662983488265",
+      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/inventor-behind-amazons-alexa-raises-$20-mn-for-new-ai-startup-1662983488265",
+      "publishedDateTime": "2022-09-12T04:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inshorts",
+        "domain": "inshorts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-with-424-cagr-artificial-intelligence-in.md",
+      "title": "With 42.4 % CAGR, Artificial Intelligence in...",
+      "excerpt": "Use of artificial intelligence and robotics in diagnosing and treating pharmacological disorders is estimated to drive the Artificial Intelligence (AI) in healthcare market growth. Use of virtual ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/g28826236/with-42-4-cagr-artificial-intelligence-in-healthcare-market-size-worth-usd-164-10-billion-by-2029",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/g28826236/with-42-4-cagr-artificial-intelligence-in-healthcare-market-size-worth-usd-164-10-billion-by-2029",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg",
+          "width": 700,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28826236",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28826236",
+      "publishedDateTime": "2022-09-12T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-leadership-in-times-of-ai-driven-automation.md",
+      "title": "Leadership In Times Of AI-Driven Automation",
+      "excerpt": "Sayantan Dasgupta is a Sr. Director of Demand Generation at Gramener | Ex VC Partner | 2x VP Marketing | 15+ years of leadership experience. The global AI market in 2021 reached a staggering value of $327.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/09/12/leadership-in-times-of-ai-driven-automation/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/09/12/leadership-in-times-of-ai-driven-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/611197e7a1fc8d3b4e5a536a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/09/12/leadership-in-times-of-ai-driven-automation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/09/12/leadership-in-times-of-ai-driven-automation/amp/",
+      "publishedDateTime": "2022-09-12T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-12-when-the-rise-of-ai-meets-the-ease-of-no-code.md",
       "title": "When The Rise Of AI Meets The Ease Of No-Code",
       "excerpt": "We’re in the third generation: predictive analytics. People can use AI to find patterns in their data and predict what’s coming next. This latest step in AI analytics has brought new challenges. We’ve seen a new category of tools to help data analysts use machine learning without writing code.",
@@ -945,145 +1082,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-10-brain-computer-interface-at-toronto-childrens-hospital-tests-the-potential-for-mind-melds-with-machines.md",
-      "title": "Brain-computer interface at Toronto children’s hospital tests the potential for mind melds with machines",
-      "excerpt": "Using a sensor headset, children are helping researchers fine-tune technology for turning signals in the brain into actions in the real world",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/canada/article-brain-computer-interface-at-toronto-childrens-hospital-tests-the/",
-      "originalUrl": "https://www.theglobeandmail.com/canada/article-brain-computer-interface-at-toronto-childrens-hospital-tests-the/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theglobeandmail.com/resizer/NXq2cN-yDjyhe7MmB6kFaV1Ai3k=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/2VAOGFNDIZFLJNVS2OSTC5HMY4.JPG",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-10T01:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-10-artificial-intelligence-stocks-to-look-out-for-grand-pacific-trade-reports.md",
-      "title": "Artificial Intelligence stocks to look out for - Grand Pacific Trade Reports",
-      "excerpt": "Artificial intelligence is one of the hottest investing themes right now, and for a good reason. With companies like Amazon, Google, and Facebook leading the charge, AI is poised to revolutionize nearly every industry,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-stocks-to-look-out-for---grand-pacific-trade-reports-2022-09-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-stocks-to-look-out-for---grand-pacific-trade-reports-2022-09-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-09T22:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-10-survey-majority-of-pennsylvanians-not-comfortable-sharing-road-with-driverless-cars.md",
-      "title": "Survey: Majority of Pennsylvanians not comfortable sharing road with driverless cars",
-      "excerpt": "PITTSBURGH (KDKA) — A new survey shows a majority of Pennsylvanians are not comfortable sharing the road with driverless cars. A bipartisan polling firm found more than half of respondents said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/pittsburgh/news/survey-majority-of-pennsylvanians-not-comfortable-sharing-road-driverless-cars/",
-      "originalUrl": "https://www.cbsnews.com/pittsburgh/news/survey-majority-of-pennsylvanians-not-comfortable-sharing-road-driverless-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2018/11/13/2090d1a1-84ad-4e28-a6b6-955429a72c73/thumbnail/1200x630/8d226a809d4524bfc474efea5f88a7f8/self-driving.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/pittsburgh/news/survey-majority-of-pennsylvanians-not-comfortable-sharing-road-driverless-cars/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/pittsburgh/news/survey-majority-of-pennsylvanians-not-comfortable-sharing-road-driverless-cars/",
-      "publishedDateTime": "2022-09-09T21:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

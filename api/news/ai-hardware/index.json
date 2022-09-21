@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-21-nvidia-introduces-dlss3-to-generate-ai-powered-frames-with-4x-performance.md",
+      "title": "Nvidia introduces DLSS3 to generate AI-powered frames with 4X performance",
+      "excerpt": "Nvidia's DLSS 3 will use AI to estimate the best way to fill out images in the company's latest graphics cards.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/nvidia-introduces-dlss3-to-generate-ai-powered-frames-with-4x-performance/",
+      "originalUrl": "https://venturebeat.com/games/nvidia-introduces-dlss3-to-generate-ai-powered-frames-with-4x-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/racer-x-3.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/nvidia-introduces-dlss3-to-generate-ai-powered-frames-with-4x-performance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/nvidia-introduces-dlss3-to-generate-ai-powered-frames-with-4x-performance/amp/",
+      "publishedDateTime": "2022-09-20T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-21-nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners.md",
       "title": "Nvidia debuts new high-end RTX 4090 GPU after previous generation gobbled up by crypto miners",
       "excerpt": "which should allow the new GPUs to perform both AI-powered graphics operations and pure neural network stuff (like running Stable Diffusion) faster and better. The GPU has graduated from being a tool for keeping your games running at high framerates to a ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 188,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -1477,58 +1529,6 @@
         "Microsoft AI",
         "Machine Learning",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-nvidia-ai-chip-export-ban-expected-to-impact-us-china-ai-race.md",
-      "title": "Nvidia AI chip export ban expected to impact U.S.-China AI race",
-      "excerpt": "The ban on Nvidia AI GPUs to China has led to speculation about the impact on Chinese firms, as well as on Nvidia’s China business.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nvidia-ai-chip-export-ban-expected-to-impact-u-s-china-ai-race/",
-      "originalUrl": "https://venturebeat.com/ai/nvidia-ai-chip-export-ban-expected-to-impact-u-s-china-ai-race/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1350668583.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/nvidia-ai-chip-export-ban-expected-to-impact-u-s-china-ai-race/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-ai-chip-export-ban-expected-to-impact-u-s-china-ai-race/amp/",
-      "publishedDateTime": "2022-09-08T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

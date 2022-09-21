@@ -360,49 +360,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-10-artificial-intelligence-is-now-used-to-track-down-hate-speech.md",
-      "title": "Artificial intelligence is now used to track down hate speech",
-      "excerpt": "Meta took action on more than 15 million pieces of hate speech content on Facebook. Roughly 95% of that was detected proactively by Facebook with the help of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcpo.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
-      "originalUrl": "https://www.wcpo.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.newsy.com/images/videos/m/1660250991_F4WYcV.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wcpo.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true",
-      "cdnAmpWebUrl": "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true",
-      "publishedDateTime": "2022-09-09T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCPO-TV",
-        "domain": "wcpo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-08-lightning-ai-brings-on-pytorch-lead-to-expand-deep-learning-leadership.md",
       "title": "Lightning AI Brings on PyTorch Lead to Expand Deep Learning Leadership",
       "excerpt": "Mike Ruberry, core PyTorch technical lead, joins Lightning AI as chief engineer of the PyTorch teamNew hire signals beginning of PyTorch team at the New Yo",
@@ -477,6 +434,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-ai-is-making-it-easier-than-ever-for-students-to-cheat.md",
+      "title": "A.I. Is Making It Easier Than Ever for Students to Cheat",
+      "excerpt": "You’re about to confront a pernicious new challenge that is spreading, kudzu-like, into your student writing assignments: papers augmented with artificial intelligence. Using an A.I. program is ...",
+      "sourceUrl": null,
+      "webUrl": "https://slate.com/technology/2022/09/ai-students-writing-cheating-sudowrite.html",
+      "originalUrl": "https://slate.com/technology/2022/09/ai-students-writing-cheating-sudowrite.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://compote.slate.com/images/0cb47948-27d8-4a6a-9f5f-06df5ce72905.jpeg?width=1560",
+          "width": 1560,
+          "height": 1040,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slate",
+        "domain": "slate.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
