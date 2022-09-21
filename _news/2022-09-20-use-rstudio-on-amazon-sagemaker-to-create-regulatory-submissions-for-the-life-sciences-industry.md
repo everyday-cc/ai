@@ -57,6 +57,20 @@ related:
         width: 1534
         height: 765
         isCached: true
+  - title: "Enable intelligent decision-making with Amazon SageMaker Canvas and Amazon QuickSight"
+    excerpt: "Every company, regardless of its size, wants to deliver the best products and services to its customers. To achieve this, companies want to understand industry trends and customer behavior, and optimize internal processes and data analyses on a routine basis. This is a crucial component of a company’s"
+    publishedDateTime: 2022-09-21T16:15:50Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/enable-intelligent-decision-making-with-amazon-sagemaker-canvas-and-amazon-quicksight/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 82
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/09/ML-9988_Main_picture-1120x630.png"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Configure a custom Amazon S3 query output location and data retention policy for Amazon Athena data sources in Amazon SageMaker Data Wrangler"
     excerpt: "Amazon SageMaker Data Wrangler reduces the time that it takes to aggregate and prepare data for machine learning (ML) from weeks to minutes in Amazon SageMaker Studio, the first fully integrated development environment (IDE) for ML. With Data Wrangler, you can simplify the process of data preparation"
     publishedDateTime: 2022-09-20T22:41:25Z

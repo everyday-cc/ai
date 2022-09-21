@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/parallel-data-proces
 webUrl: "https://aws.amazon.com/blogs/machine-learning/parallel-data-processing-with-rstudio-on-amazon-sagemaker/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/12/sagemaker-autopilot-gluon.jpg"
         width: 1534
         height: 765
+        isCached: true
+  - title: "Enable intelligent decision-making with Amazon SageMaker Canvas and Amazon QuickSight"
+    excerpt: "Every company, regardless of its size, wants to deliver the best products and services to its customers. To achieve this, companies want to understand industry trends and customer behavior, and optimize internal processes and data analyses on a routine basis. This is a crucial component of a company’s"
+    publishedDateTime: 2022-09-21T16:15:50Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/enable-intelligent-decision-making-with-amazon-sagemaker-canvas-and-amazon-quicksight/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 82
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/09/ML-9988_Main_picture-1120x630.png"
+        width: 1120
+        height: 630
         isCached: true
   - title: "Use RStudio on Amazon SageMaker to create regulatory submissions for the life sciences industry"
     excerpt: "Pharmaceutical companies seeking approval from regulatory agencies such as the US Food &amp; Drug Administration (FDA) or Japanese Pharmaceuticals and Medical Devices Agency (PMDA) to sell their drugs on the market must submit evidence to prove that their drug is safe and effective for its intended use."

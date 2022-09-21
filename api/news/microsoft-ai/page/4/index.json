@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-25-artsberry-interviews-microsoft-designer-ms-su-he.md",
+      "title": "ArtsBerry Interviews Microsoft Designer Ms. Su He",
+      "excerpt": "ArtsBerry Interviews Microsoft Designer Ms. Su He Aug 25, 2022 (PRNewswire via COMTEX) -- PR Newswire NEW YORK, NEW YORK, Aug. 25,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artsberry-interviews-microsoft-designer-ms-su-he-2022-08-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/artsberry-interviews-microsoft-designer-ms-su-he-2022-08-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-25-telco-to-techco-the-future-of-connectivity-and-digital-services.md",
       "title": "Telco to Techco: The future of connectivity and digital services",
       "excerpt": "The UAE is among the world’s most welcoming business environments and its government has long encouraged digital transformation as a means for public entities to become more efficient and private enterprise to be more competitive.",
@@ -1234,40 +1286,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-novel-method-enables-early-detection-of-cognitive-decline.md",
-      "title": "Novel method enables early detection of cognitive decline",
-      "excerpt": "The researchers: \"Our method enables routine monitoring and early detection of cognitive decline in order to provide treatment and prevent rapid, severe deterioration. Prophylactic tests of this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220817/Novel-method-enables-early-detection-of-cognitive-decline.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220817/Novel-method-enables-early-detection-of-cognitive-decline.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
         "images": null,
         "publishers": null,
         "authors": null

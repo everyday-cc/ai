@@ -2,6 +2,334 @@
   "page": 115,
   "value": [
     {
+      "path": "_news/2022-06-21-responsible-ai-in-healthcare-addressing-biases-and-equitable-outcomes.md",
+      "title": "Responsible AI in healthcare: Addressing biases and equitable outcomes",
+      "excerpt": "So what does that look like? A call to fight bias with the help of algorithms Let’s start by talking about when AI fails and when AI succeeds at organizations overall. MIT and Boston ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/20/responsible-ai-in-healthcare-addressing-biases-and-equitable-outcomes/",
+      "originalUrl": "https://venturebeat.com/2022/06/20/responsible-ai-in-healthcare-addressing-biases-and-equitable-outcomes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1251551899-e1642523643912.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/20/responsible-ai-in-healthcare-addressing-biases-and-equitable-outcomes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/20/responsible-ai-in-healthcare-addressing-biases-and-equitable-outcomes/amp/",
+      "publishedDateTime": "2022-06-20T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-new-hybrid-machine-learning-forecasts-lake-ecosystem-responses-to-climate-change.md",
+      "title": "New hybrid machine learning forecasts lake ecosystem responses to climate change",
+      "excerpt": "EDM can help in this context as a form of supervised machine learning, a way for computers ... of ecosystems and they are also the reality of financial markets where prediction is so challenging ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/956268",
+      "originalUrl": "https://www.eurekalert.org/news-releases/956268",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/885cfaa6-617b-4f78-a506-d75325ad7c37/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-dreametech-d10-plus-robot-vacuum-and-mop-review.md",
+      "title": "Dreametech D10 Plus Robot Vacuum and Mop review",
+      "excerpt": "Once you’ve connected the Dreametech DreameBot D10 Plus to Wi-Fi (bearing in mind that it ... There’s even a remote control function if you want to send the robot vacuum in a different ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/reviews/dreametech-d10-plus-robot-vacuum-and-mop-review",
+      "originalUrl": "https://www.techradar.com/reviews/dreametech-d10-plus-robot-vacuum-and-mop-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/yMYWLfEJ6za3EGFG25w448-1200-80.jpg",
+          "width": 1200,
+          "height": 514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-jan-6-testimony-drives-cognitive-dissonance-for-trump-fans.md",
+      "title": "Jan. 6 testimony drives ‘cognitive dissonance’ for Trump fans",
+      "excerpt": "“It’s cognitive dissonance,” said Jennifer Stromer-Galley, a Syracuse University professor who has studied how Trump used social media and advertising to mobilize his base. “If you believe ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2022/06/20/jan-6-testimony-drives-cognitive-dissonance-for-trump-fans/",
+      "originalUrl": "https://www.eastbaytimes.com/2022/06/20/jan-6-testimony-drives-cognitive-dissonance-for-trump-fans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2022/06/sjm-Disinformation_98658590-1.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2022/06/20/jan-6-testimony-drives-cognitive-dissonance-for-trump-fans/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/06/20/jan-6-testimony-drives-cognitive-dissonance-for-trump-fans/amp/",
+      "publishedDateTime": "2022-06-20T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-coatue-adds-atlassian-cto-as-new-partner-investing-in-ai.md",
+      "title": "Coatue Adds Atlassian CTO As New Partner Investing In AI",
+      "excerpt": "Prior to his six year stint at Atlassian, Sri Viswanath accumulated operating experience at Groupon, ... [+] VMware and the Marc Andreessen-founded startup Ning. Coatue is growing its venture investing bench at a time when the market downturn has put ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kenrickcai/2022/06/19/coatue-hires-coatue-cto-sri-viswanath-ai-partner/",
+      "originalUrl": "https://www.forbes.com/sites/kenrickcai/2022/06/19/coatue-hires-coatue-cto-sri-viswanath-ai-partner/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62afbf15c4c5dc1c8449c824/0x0.jpg?format=jpg&crop=4029,2687,x0,y158,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kenrickcai/2022/06/19/coatue-hires-coatue-cto-sri-viswanath-ai-partner/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2022/06/19/coatue-hires-coatue-cto-sri-viswanath-ai-partner/amp/",
+      "publishedDateTime": "2022-06-20T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-20-self-proclaimed-sovereign-citizens-arrested-in-california-after-deputies-allegedly-find-explosives.md",
+      "title": "Self-proclaimed 'sovereign citizens' arrested in California after deputies allegedly find explosives",
+      "excerpt": "A traffic stop revealed live ammunition, gun powder, and an explosive device inside their car, according to authorities, who said more explosives were later found at a remote compound.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/us-news/sovereign-citizens-arrested-california-deputies-allegedly-find-explosi-rcna34380",
+      "originalUrl": "https://www.nbcnews.com/news/us-news/sovereign-citizens-arrested-california-deputies-allegedly-find-explosi-rcna34380",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220620-calif-morongo-basin-jail-snip-google-maps-ac-925a-454340.jpg",
+          "width": 1227,
+          "height": 818,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna34380",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna34380",
+      "publishedDateTime": "2022-06-20T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-20-ibm-delta-air-lines-wpp-4as-iab-ad-council-and-other-industry-leaders-act-to-mitigate-bias-in-advertising-technology.md",
+      "title": "IBM, DELTA AIR LINES WPP, 4A'S, IAB, AD COUNCIL AND OTHER INDUSTRY LEADERS ACT TO MITIGATE BIAS IN ADVERTISING TECHNOLOGY",
+      "excerpt": "To learn more about IBM Watson Advertising solutions and services ... About IBM IBM is a leading global hybrid cloud and AI, and business services provider, helping clients in more than 175 ...",
+      "sourceUrl": null,
+      "webUrl": "https://ktla.com/business/press-releases/cision/20220620NY93276/ibm-delta-air-lines-wpp-4as-iab-ad-council-and-other-industry-leaders-act-to-mitigate-bias-in-advertising-technology/",
+      "originalUrl": "https://ktla.com/business/press-releases/cision/20220620NY93276/ibm-delta-air-lines-wpp-4as-iab-ad-council-and-other-industry-leaders-act-to-mitigate-bias-in-advertising-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTLA",
+        "domain": "ktla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-20-build-an-appointment-scheduler-interface-integrated-with-meta-using-amazon-lex-and-amazon-connect.md",
       "title": "Build an appointment scheduler interface integrated with Meta using Amazon Lex and Amazon Connect",
       "excerpt": "This blog post is co-written with Nick Vargas and Anna Schreiber from Accenture. Scheduling customer appointments is often a manual and labor-intensive process. You can utilize advances in self-service technology to automate appointment scheduling. In this blog post, we show you how to build a self-service",
@@ -782,335 +1110,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-dall-e-mini-everything-to-know-about-the-strange-ai-art-creator.md",
-      "title": "Dall-E Mini: Everything to Know About the Strange AI Art Creator",
-      "excerpt": "Dall-E Mini, an AI tool capturing attention on social media thanks to the weird, funny and occasionally disturb",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/culture/dall-e-mini-everything-to-know-about-the-strange-ai-art-creator/",
-      "originalUrl": "https://www.cnet.com/culture/dall-e-mini-everything-to-know-about-the-strange-ai-art-creator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/9fa7f29c17d7567ce910aa00dd74dcd88ae8faaf/2022/06/14/5b9aa6e4-3e9e-4dc4-81f8-4685f7d0b64f/screen-shot-2022-06-14-at-10-41-06-am-cropped.png?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/dall-e-mini-everything-to-know-about-the-strange-ai-art-creator/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/dall-e-mini-everything-to-know-about-the-strange-ai-art-creator/",
-      "publishedDateTime": "2022-06-19T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-brainchip-partners-with-prophesee-optimizing-computer-vision-ai-performance-and-efficiency.md",
-      "title": "BrainChip Partners with Prophesee Optimizing Computer Vision AI Performance and Efficiency",
-      "excerpt": "LAGUNA HILLS, CA / ACCESSWIRE / June 19, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of neuromorphic AI IP, and Prophesee, the inventor of the world's most advanced neuromorphic vision systems,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/272591460/brainchip-partners-with-prophesee-optimizing-computer-vision-ai-performance-and-efficiency",
-      "originalUrl": "https://www.bignewsnetwork.com/news/272591460/brainchip-partners-with-prophesee-optimizing-computer-vision-ai-performance-and-efficiency",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1656315095168.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-19T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-bgsu-professor-qing-tian-working-on-improving-safety-of-self-driving-cars.md",
-      "title": "BGSU professor Qing Tian working on improving safety of self-driving cars",
-      "excerpt": "From BGSU OFFICE OF MARKETING & BRAND STRATEGY. As auto makers continue to explore the possibility of self-driving cars, a Bowling Green State University professor is conducting r",
-      "sourceUrl": null,
-      "webUrl": "https://bgindependentmedia.org/bgsu-professor-qing-tian-working-on-improving-safety-of-self-driving-cars/",
-      "originalUrl": "https://bgindependentmedia.org/bgsu-professor-qing-tian-working-on-improving-safety-of-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgindependentmedia.org/wp-content/uploads/2016/10/cropped-BGIN_logo_blue_square_300px-1.jpg",
-          "width": 300,
-          "height": 226,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-19T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BG Independent News",
-        "domain": "bgindependentmedia.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-ai-chip-market-size-application-demands-business-opportunity-and-growth-strategy-forecast-to-2030.md",
-      "title": "AI Chip Market Size Application, Demands, Business Opportunity, And Growth Strategy Forecast To 2030",
-      "excerpt": "The global AI chip market is expected to garner a large revenue by growing at a remarkable CAGR throughout the forecast period, i.e. 2021 – 2030, owing to the surging adoption of artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104398215/AI-Chip-Market-Size-Application-Demands-Business-Opportunity-And-Growth-Strategy-Forecast-To-2030",
-      "originalUrl": "https://menafn.com/1104398215/AI-Chip-Market-Size-Application-Demands-Business-Opportunity-And-Growth-Strategy-Forecast-To-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?257986",
-          "width": 377,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-19T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-india-bangladesh-explore-cooperation-in-ai-cyber-security-startups.md",
-      "title": "India, Bangladesh explore cooperation in AI, cyber security, startups",
-      "excerpt": "Border management was also a key item on the agenda of cooperation. \"...better management of our long border is also a key priority. Our Border Guarding Forces are committed to combating trans-border crimes.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-bangladesh-explore-cooperation-in-ai-cyber-security-startups/articleshow/92322921.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-bangladesh-explore-cooperation-in-ai-cyber-security-startups/articleshow/92322921.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-78488,msid-92322961/bangladesh-foreign-minister-to-visit-india-this-week.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/news/economy/foreign-trade/india-bangladesh-explore-cooperation-in-ai-cyber-security-startups/amp_articleshow/92322921.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/economy/foreign-trade/india-bangladesh-explore-cooperation-in-ai-cyber-security-startups/amp_articleshow/92322921.cms",
-      "publishedDateTime": "2022-06-19T11:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-why-businesses-take-a-month-or-more-to-deploy-ml-models-and-what-you-can-do.md",
-      "title": "Why businesses take a month or more to deploy ML models and what you can do",
-      "excerpt": "Choosing the right machine learning model can make a difference not only in the output quality, but also the development time and cost.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/19/why-businesses-take-a-month-or-more-to-deploy-ml-models-and-what-you-can-do/",
-      "originalUrl": "https://venturebeat.com/2022/06/19/why-businesses-take-a-month-or-more-to-deploy-ml-models-and-what-you-can-do/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1284049480.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/19/why-businesses-take-a-month-or-more-to-deploy-ml-models-and-what-you-can-do/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/19/why-businesses-take-a-month-or-more-to-deploy-ml-models-and-what-you-can-do/amp/",
-      "publishedDateTime": "2022-06-19T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-19-ai-ethics-confronting-the-insidious-one-like-mind-of-ai-algorithmic-monoculture-including-for-autonomous-self-driving-cars.md",
-      "title": "AI Ethics Confronting The Insidious One-Like-Mind Of AI Algorithmic Monoculture, Including For Autonomous Self-Driving Cars",
-      "excerpt": "One of the most evocative areas that vividly presents this ethical AI quandary is the advent of AI-based true self-driving cars. This will serve as a handy use case or exemplar for ample discussion on the topic. Here’s then a noteworthy question that is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/19/ai-ethics-confronting-the-insidious-one-like-mind-of-ai-algorithmic-monoculture-including-for-autonomous-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/19/ai-ethics-confronting-the-insidious-one-like-mind-of-ai-algorithmic-monoculture-including-for-autonomous-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62a3ec8d45601953acdb1ac4/0x0.jpg?format=jpg&crop=1458,971,x134,y0,safe&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/19/ai-ethics-confronting-the-insidious-one-like-mind-of-ai-algorithmic-monoculture-including-for-autonomous-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/19/ai-ethics-confronting-the-insidious-one-like-mind-of-ai-algorithmic-monoculture-including-for-autonomous-self-driving-cars/amp/",
-      "publishedDateTime": "2022-06-19T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

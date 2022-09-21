@@ -50,6 +50,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 63
+  - title: "Is the quest for driverless trucking in it for the long haul?"
+    excerpt: "Waymo, often seen as the leader in driverless technology ... In many ways, trucks are a more viable focal point for the development of the artificial intelligence needed for fully autonomous driving. Long-haul vehicles travel on long, monotonous highways ..."
+    publishedDateTime: 2022-09-21T16:54:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/09/is-the-quest-for-driverless-trucking-in-it-for-the-long-haul/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 39
+    images:
+      - url: "https://ietp-web-app-global-assets.azurewebsites.net:443/media/sw4jnnsc/wechat-icon.png"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "kKSPZZHovn3EG5H5XxvmdnCsV1IWtjmQ1ytqekzOoL/ADWxkc/9A476623X62g9qusW3Ji3SPAYoYqfCMpj+SLbVyAerQuds1uLXOUPhaa58xl9INM0gDnb6VW9r6QSUEi2Vsw0g+BXtywM81uQSWPQPaWwwO4WsDdgWi7zCep9m4v5FxiyxifuEWGBGBEb7zn0ZAc54d1XhpRLXLyfAwi5OCnU7Hf+3P9ok3N5ABhXiyWAOz6+6il/4buufLobkY58HBOuqhtKIyd7H8/Y7EiXw1th7UxYEkM/t0+vtdquzxT0x3LCIPCKuEilEMme8rJL3JvGMJ+2UZU3MAfnNinzL7pTqaxHm8ZT5ZynEcMrZBQYoNTwBOvcEoMgDx1vlc5jtSGW9qjAiRHuNGi6tFhq7IPiSjYNVLPA4twZRFjw+5GAhLOOHl3zOtKtgkBAnh3Lu6s7g+HuAN9V+G9G/vOYQIYgL0vPDjdHWXsIzxqLI31Yzyz1BvQ367Nm9Sz94ERTYeAPoOPOog7YHMVUulA==;Vqzk9+FyMERMo/h75ONgrA=="
 ---

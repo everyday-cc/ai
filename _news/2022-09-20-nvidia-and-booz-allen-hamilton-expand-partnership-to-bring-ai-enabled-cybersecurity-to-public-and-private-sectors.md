@@ -54,8 +54,8 @@ related:
     quality: 32
   - title: "NVIDIA and Booz Allen Hamilton Expand Partnership to Bring AI-Enabled Cybersecurity to Public and Private Sectors"
     excerpt: "NVIDIA and Booz Allen Hamilton (NYSE: BAH) today announced an expanded collaboration to bring an AI-enabled, GPU-accelerated cybersecurity platform to customers in the public and private sectors. The platform enables next-generation incident response systems that help customers pinpoint cybersecurity threats."
-    publishedDateTime: 2022-09-20T17:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-nvidia-booz-allen-hamilton-expand-partnership-bring-ai-/2022/09/20/9677405.htm"
+    publishedDateTime: 2022-09-20T18:16:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/09/20/9677405.htm"
     type: article
     provider:
       name: TMCnet

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/09/21/brightflow-small-business-capital/
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/21/brightflow-small-business-capital/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 675
     isCached: true
 
-secured: "bz48ADByZVBlZkWd+0xWJAceLmfFAawtUiQU2FLAeogcAN4tPdHIJD+0zz48uvdZV6AQgsDYE3iPAdOuaYQ4dVm8oALoVTcYYELyKiUZ4ADMhOwJgiNYbkqgKhIiGmg469XVPPa59r11NXim3RtxUqVnXBt2t1D6ORQLiA0TQ7VCODYPsrPqmfwPV9LV/LXFvQQCHd2oZnUgRVz+np0Shigy7K09N5DLX0xDoRswS7zuwioum61vmYWO+OM3OzxP0wVqHHF1KPo3MPmghHmW/HH6YIjJPbHQDPhSSCvUTMK036vOOSZNUW3oIgNyP8/TTvAlmoqCMxr9dnrCrKXGky7FOgxSxDoG6qUVcFyYzjw=;Br4E/N7cYxsntyNE8uf4Aw=="
+secured: "UNgb8RipVOCSu2NJbqB+2DlHg5FnVXmVZHAV4y3ODOBoCSDXj+S/JoWPE7HrkpN7g9JPaOZewZT9BVTzz29SZfXz7QQjnnkETLFN4iL7WR/Bj1E+zeRNqP7czV13wu8e1pYTYEsyZ65eImpJgEvx2eDd7nsYJ08g56vVER0hkNdh+C1pGpeer6zKIxTptjmZfafPyHcI+2ri3yIOA6X9gsiDy50ExgvKzDc5wqpp8kHHn3m9cTKreGtyInbWHDB+GxMW2o0+D9OSI5O8mQ2FpOqok/qfAzoxHQdnGlSWwqG/JJ8vjpiYGsV8YA1gDsfoPYZMfEDH5nLb+c18BqLAUqfwjcnijAIYG9frWo6bdJCxUwQ5fDFiSyb7onod7axe6N9TA59w0aDhoUb/mTcsbwPCIBP4AbkyIhD7DUjwB9mbyCrTQts/IeZnr323LBRdIwmfvkgztbyb39w0yFg9jSy4U2R8ApieVox/QdA7BPDvjPd8LgdLdZsawC11eBxs0hIU00VuN8vj1ASnXTRJQA==;7CGxUokU1bGG54OoIFG16A=="
 ---
 
