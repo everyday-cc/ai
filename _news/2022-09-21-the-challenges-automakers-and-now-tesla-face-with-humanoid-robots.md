@@ -51,15 +51,6 @@ related:
       name: NDTV
       domain: ndtv.com
     quality: 36
-  - title: "The challenges automakers, and now Tesla, face with humanoid robots"
-    excerpt: "Tesla's CEO Elon Musk is set to unveil its prototype humanoid robots at an event on September 30, hoping to expand beyond self-driving cars that have not yet become reality despite his repeated promises."
-    publishedDateTime: 2022-09-20T13:07:00Z
-    webUrl: "https://www.cnbctv18.com/technology/the-challenges-automakers-and-now-tesla-face-with-humanoid-robots-14766161.htm"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 36
 
 secured: "1dmKKS4m2r3nIgwdMMWVppss/skpsPA+NobGIaLdQhgYh7F7gzRwMPJXWFNUoIyBrbhvWzosbpwMlwrfAe9CZtzipRMA2elvlIdHfjeVEWm8DBBez0zdYV/uTtABoT+MSh8BOTZ8MVy5en+4gbHXBwezvPgT8JiXRL3IHQx8001N60DD9eAXr88/L/Zc2NsKRQ6Ely7j9fhAtlDHE1P1KlzLyR8VnU8RPlqoE3LUaFl0rXhFSAFGM5wna2qEm7Ihz+OsJdcyNHrohUQLa3kCRlsqNwweSxvEj6V3goqeM6FHeWXSXUcPX1XpoofDLiom1l2Hfj0Az3tpqvHMyDwgMrv4vrSWOQfTgOUXeuc15gU=;QeipghRKSPWIXyCBLzbnzQ=="
 ---

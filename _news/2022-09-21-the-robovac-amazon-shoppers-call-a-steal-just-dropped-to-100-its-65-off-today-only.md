@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-21T09:36:00Z
 originalUrl: "https://www.aol.com/lifestyle/robovacs-amazon-shoppers-call-steal-093619559.html"
 webUrl: "https://www.aol.com/lifestyle/robovacs-amazon-shoppers-call-steal-093619559.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: AOL

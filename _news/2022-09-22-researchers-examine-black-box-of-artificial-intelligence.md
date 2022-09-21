@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-21T17:00:00Z
 originalUrl: "https://www.labroots.com/trending/technology/23628/researchers-examine-black-box-artificial-intelligence-2"
 webUrl: "https://www.labroots.com/trending/technology/23628/researchers-examine-black-box-artificial-intelligence-2"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.labroots.com/content_article_profile_image_809f0fcae5a1739ea077fcace4491fbe2abe6e24_6542.jpg"

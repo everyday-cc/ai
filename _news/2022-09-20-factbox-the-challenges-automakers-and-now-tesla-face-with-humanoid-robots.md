@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/challenges-automakers-now-tesla
 webUrl: "https://www.reuters.com/technology/challenges-automakers-now-tesla-face-with-humanoid-robots-2022-09-20/"
 type: article
 quality: 83
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
     provider:
       name: NDTV
       domain: ndtv.com
-    quality: 36
-  - title: "The challenges automakers, and now Tesla, face with humanoid robots"
-    excerpt: "Tesla's CEO Elon Musk is set to unveil its prototype humanoid robots at an event on September 30, hoping to expand beyond self-driving cars that have not yet become reality despite his repeated promises."
-    publishedDateTime: 2022-09-20T13:07:00Z
-    webUrl: "https://www.cnbctv18.com/technology/the-challenges-automakers-and-now-tesla-face-with-humanoid-robots-14766161.htm"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
     quality: 36
 
 secured: "QEH3LAqvLRvJf707cBOzUiI/RLmwA3Xwe4O5vftEXPDoWm+50Y5foQMaGMZGcWFrKlv2ofYrtbI63RWdMKIVPiVEi2rC25WUmxxjaeTdYrpCWFCkr9Bao/2nEdAHjnYpMPst4wpI6GZVuyacYbn6w7gNf/ci7swsyIpywTTTwKgrdman4BWV0Tx44lWS3M/wrl8wdXTxOp6U3Qo2wUmyMwScgU2LJH6jS6jCDLtYsra81Pw9NR2KrKx9VVu6NiJNkdBNKE+9Yp4lAjlweT5BeKsguC90x3/pltRlGCdjmefGfck1T27p/7nk5pNjKA9aGQk0k30Pg8REoqiwVFEERAg7gKmTAl+A+7/62XYdeTaW2fsZmk+GyAl1XEuWvY6zpJYYApvXkNV2LgIxHzWIjrTC+adYsmVwU0UPcJev3bc0CSqOMX38i/bKQWmGxvQfVKgg4xAoVQ7Orj1n+3hhrwYfQPSm4m+vOCSlxE4OPOAgmBfreBPKMYuDyrrdtZ7idygQlB+wL8hIICimByRdKw==;kwIRuy9+Yh6Hl4MOt92Y/w=="

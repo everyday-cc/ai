@@ -59,6 +59,20 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 0
+  - title: "Emotion Detection And Recognition Market Is Poised To Reach USD 53.2 Billion At A 39.20% CAGR By 2030 - Report By Market Research Future (MRFR)"
+    excerpt: "The increasing adoption of emotion detection and recognition in the automotive industry will boost market growth over the forecast period. Technologies for emotion recognition and detection are in high demand in the automotive sector."
+    publishedDateTime: 2022-09-21T20:05:00Z
+    webUrl: "https://menafn.com/1104902503/Emotion-Detection-And-Recognition-Market-Is-Poised-To-Reach-USD-532-Billion-At-A-3920-CAGR-By-2030-Report-By-Market-Research-Future-MRFR"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?401019"
+        width: 428
+        height: 250
+        isCached: true
 
 secured: "QjBAtaqCAgQCJRUrn04KSsb4TEmKsGDimXXpq0nKU2PVlXY+wUgKkkws0VRth2+Fc5Xg/g5GT0yaa0KQi6I5kCbQnoGhTD+jXJE7Xgecmg2crezOnA659q8CI1jOut5uPVOfybzXPyUnSP5ULg5U6JX9uw8RDx+3pYGMhU0OEcMbz1Afru4CdkLM4+uYeMMdv5w8zSc4BpJMG8Mv17zRnN9nhZPAV/SXZY4wwW8K7fvS3g9LHhx52ooGxYW/Qvwqnbkj7KAVW3t3Gqf7XSAoxzS4wivUnXlOd5PS+kn46Mm+5L2/SFu5SPCMwxtFyriwOWEho1Whz03A36Q/PA4U8U8yvQEGn7Q4zWrrohlkFws=;sCzxG58L4JqDNHx7Aw8jOg=="
 ---

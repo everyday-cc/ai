@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "2022 Buffalo Humanities Festival: Life (in the Age of Artificial Intelligence)"
+    excerpt: "A festival of ideas with an evening of gameplay and 2 days of community talks With each passing day, we are discovering how artificial intelligence (AI) is ever-present in our"
+    publishedDateTime: 2022-09-21T18:07:00Z
+    webUrl: "https://www.buffalorising.com/2022/09/2022-buffalo-humanities-festival-life-in-the-age-of-artificial-intelligence/"
+    ampWebUrl: "https://www.buffalorising.com/2022/09/2022-buffalo-humanities-festival-life-in-the-age-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-buffalorising-com.cdn.ampproject.org/c/s/www.buffalorising.com/2022/09/2022-buffalo-humanities-festival-life-in-the-age-of-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Buffalo Rising
+      domain: buffalorising.com
+    quality: 55
+    images:
+      - url: "https://www.buffalorising.com/wp-content/uploads/2022/09/ae6d1412-487a-76d8-5fc4-833b6dab284e.png"
+        width: 1200
+        height: 555
+        isCached: true
   - title: "UB Humanities Festival looks at ‘Life in the Age of Artificial Intelligence’"
     excerpt: "The annual festival presented by the UB Humanities Institute will look at both the benefits and detrimental effects of AI."
     publishedDateTime: 2022-09-21T12:13:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-21T19:39:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-21-sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-21-sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Daily Herald

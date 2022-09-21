@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-21T14:24:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/09/g28949658/researchers-across-canada-receive-major-investments-to-tackle-national-and-global-challenges"
 webUrl: "https://www.benzinga.com/pressreleases/22/09/g28949658/researchers-across-canada-receive-major-investments-to-tackle-national-and-global-challenges"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

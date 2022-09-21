@@ -7,7 +7,7 @@ originalUrl: "https://www.buffalo.edu/ubnow/campus.host.html/content/shared/univ
 webUrl: "https://www.buffalo.edu/ubnow/campus.host.html/content/shared/university/news/ub-reporter-articles/stories/2022/09/humanities-festival.detail.html"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "2022 Buffalo Humanities Festival: Life (in the Age of Artificial Intelligence)"
+    excerpt: "A festival of ideas with an evening of gameplay and 2 days of community talks With each passing day, we are discovering how artificial intelligence (AI) is ever-present in our"
+    publishedDateTime: 2022-09-21T18:07:00Z
+    webUrl: "https://www.buffalorising.com/2022/09/2022-buffalo-humanities-festival-life-in-the-age-of-artificial-intelligence/"
+    ampWebUrl: "https://www.buffalorising.com/2022/09/2022-buffalo-humanities-festival-life-in-the-age-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-buffalorising-com.cdn.ampproject.org/c/s/www.buffalorising.com/2022/09/2022-buffalo-humanities-festival-life-in-the-age-of-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Buffalo Rising
+      domain: buffalorising.com
+    quality: 55
+    images:
+      - url: "https://www.buffalorising.com/wp-content/uploads/2022/09/ae6d1412-487a-76d8-5fc4-833b6dab284e.png"
+        width: 1200
+        height: 555
+        isCached: true
   - title: "UB Humanities Institute’s annual festival looks at Life in the Age of Artificial Intelligence"
     excerpt: "The University at Buffalo Humanities Institute (HI) will present the 2022 Humanities Festival Sept. 23-25, a free event exploring the theme of “Life in the Age of Artificial Intelligence."
     publishedDateTime: 2022-09-19T14:14:00Z

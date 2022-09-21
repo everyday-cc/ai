@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-21T18:36:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/nvidia-s-higher-gaming-gpu-prices-raises-analyst-conviction-however-some-remain-concerned-over-demand-and-china-ban-1031757541"
 webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-s-higher-gaming-gpu-prices-raises-analyst-conviction-however-some-remain-concerned-over-demand-and-china-ban-1031757541"
 type: article
+quality: 41
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -18,6 +21,93 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "NVIDIA gives updates on new GPU technologies at GTC conference"
+    excerpt: "It announced the GeForce RTX 40 Series GPUs, which are powered by the company’s new Ada Lovelace architecture."
+    publishedDateTime: 2022-09-21T20:43:00Z
+    webUrl: "https://sdtimes.com/ai/nvidia-gives-updates-on-new-gpu-technologies-at-gtc-conference/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 69
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2022/09/gtc22-fall-web-keynote-blog-image-jhh-rtx4090-1280x680-r2-1.jpg"
+        width: 1280
+        height: 680
+        isCached: true
+  - title: "NVIDIA (NVDA) Launches Ada Lovelace-Powered Gaming Chips"
+    excerpt: "During a keynote at the NVIDIA GTC conference on Tuesday, the company’s CEO, Jensen Huang, stated that the new Ada Lovelace architecture would be used in an upcoming new GeForce RTX 40 series graphics card — RTX 4090."
+    publishedDateTime: 2022-09-21T11:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia-nvda-launches-ada-lovelace-powered-gaming-chips"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
+  - title: "Nvidia GTC: Hopper processor in full production"
+    excerpt: "The H100 Tensor Core GPU is in full production, and the first servers based on Nvidia's new Hopper architecture are due next month."
+    publishedDateTime: 2022-09-20T21:08:00Z
+    webUrl: "https://www.networkworld.com/article/3674061/nvidia-gtc-hopper-processor-in-full-production.html"
+    ampWebUrl: "https://www.networkworld.com/article/3674061/nvidia-gtc-hopper-processor-in-full-production.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3674061/nvidia-gtc-hopper-processor-in-full-production.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 44
+    images:
+      - url: "https://images.idgesg.net/images/article/2022/03/nvidia-hopper-gpu-100922543-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "NVIDIA unveils latest GPU based on Ada Lovelace architecture"
+    excerpt: "NVIDIA has announced the NVIDIA RTX 6000 workstation GPU, based on its new NVIDIA Ada Lovelace architecture. The RTX 6000 Ada Generation GPU can deliver real-time rendering, graphics and AI, enabling designers and engineers to build and validate more sophisticated designs."
+    publishedDateTime: 2022-09-21T09:15:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/nvidia-unveils-latest-gpu-based-on-ada-lovelace-architecture"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 39
+    images:
+      - url: "https://www.newelectronics.co.uk/media/syeigo2n/nvidia-rtx-6000.jpg?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Nvidia rises as chip giant unveils new high-end RTX, GeForce graphics cards at GTC event"
+    excerpt: "Nvidia (NVDA) shares rose on Tuesday as the semiconductor giant unveiled a new high-end RTX GPU and GeForce GPUs at its GTC conference.The Jensen Huang led-Nvidia (NVDA) unveiled"
+    publishedDateTime: 2022-09-20T16:52:00Z
+    webUrl: "https://seekingalpha.com/news/3884440-nvidia-rises-as-chip-giant-unveils-new-high-end-rtx-geforce-graphics-cards-at-gtc-event"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 30
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1399238913/image_1399238913.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Supermicro Announces NVIDIA H100 GPU Systems"
+    excerpt: "Super Micro Computer, Inc. (SMCI), a enterprise computing, GPUs, storage, networking solutions and green computing technology company, announced 20 NVIDIA-certified systems options with NVIDIA H100 PCI-E and NVIDIA H100 SXM GPUs,"
+    publishedDateTime: 2022-09-21T19:21:00Z
+    webUrl: "https://insidehpc.com/2022/09/supermicro-announces-nvidia-h100-gpu-systems/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
+  - title: "NVIDIA Announces OVX Computing Systems - the Graphics and Simulation Foundation for the Metaverse - Powered by Ada Lovelace GPU"
+    excerpt: "NVIDIA today announced the second generation of NVIDIA OVX™, powered by the NVIDIA Ada Lovelace GPU architecture and enhanced networking technology, to deliver groundbreaking real-time graphics, AI and digital twin simulation capabilities."
+    publishedDateTime: 2022-09-20T17:55:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-nvidia-announces-ovx-computing-systems-graphics-simulation-foundation-/2022/09/20/9677407.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "PQT1BQhQSaJ8DnjoIUehl+MYle3EXHbnXqZs/2KZpQGAMDJR9WeubtY2F+IgjVpUhlbwT5wrRfOi0HSkNmZtboMpZiYNZ94SM+skRt8gAmL8Hwwhdu7ef9lYlnlWroTzkdshkau3wp6BrW5RIT6r6+Ka+IC+vqF80+YOaXgAcBlGJMkBthxcLfW8wnwgdG6M1L9kTwI26QvxuGt3R587y7lCi09o02FR1rM0k/9gyit+gWsJSX2nK7GLrFYqapPbkbBFqp9wHTP22vHC+InPAUvqXbTJUz3O23y+ox6nDcNJqIjz8896pfUmLNG+3AkOaAfNrQyy7IFDj6YMRGqm6AMT124uClUCve52BzDsDWGi3O5Q5dsqYAHox7Vtl67ZyRqytMpTz9Mnfu2u3V1ERWodt0AwySwxVcWDwq2sYvKN4jQ6htQHBrJKmrSAIg6FOhWwK54F5Diz4k1sTC2KRCbtLLew03qVvBcP4TY5IdN8W6DxsMMRhLSAUH+NB9VQvcYEY5z2XEof11wmYBfnoA==;daQWlgY4RpNXYCCUWBV2Zw=="
 ---

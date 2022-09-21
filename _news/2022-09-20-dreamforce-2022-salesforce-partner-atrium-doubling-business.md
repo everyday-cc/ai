@@ -127,6 +127,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 19
+  - title: "Salesforce deepens partnership with AWS"
+    excerpt: "Salesforce has expanded its partnership with Amazon Web Services (AWS) to enable customers to build custom artificial intelligence (AI) models using Amazon SageMaker, AWS’s machine learning (ML) modeling service,"
+    publishedDateTime: 2022-09-21T18:32:00Z
+    webUrl: "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 19
   - title: "Salesforce unveils Genie, a real-time data platform to power its apps"
     excerpt: "Rahul Auradkar, head of customer data platform at Salesforce, told SiliconANGLE that Genie was built to create a single platform to unify and personalize data that could be accessed in real-time and power the entirety of Salesforce’s platform."
     publishedDateTime: 2022-09-20T12:00:00Z

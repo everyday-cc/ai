@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-21T18:24:00Z
 originalUrl: "https://phys.org/news/2022-09-four-legged-robots-explore-moon.html"
 webUrl: "https://phys.org/news/2022-09-four-legged-robots-explore-moon.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Phys.org

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-21T18:59:00Z
 originalUrl: "https://www.digitaljournal.com/business/qa-delving-into-no-code-ai-and-the-future-of-data-science/article"
 webUrl: "https://www.digitaljournal.com/business/qa-delving-into-no-code-ai-and-the-future-of-data-science/article"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Digital Journal

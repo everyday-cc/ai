@@ -3,18 +3,26 @@ category: news
 title: "Artificial intelligence is now used to track down hate speech"
 excerpt: "Meta took action on more than 15 million pieces of hate speech content on Facebook. Roughly 95% of that was detected proactively by Facebook with the help of AI."
 publishedDateTime: 2022-09-09T21:05:00Z
-originalUrl: "https://www.wcpo.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech"
-webUrl: "https://www.wcpo.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech"
+originalUrl: "https://www.wmar2news.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech"
+webUrl: "https://www.wmar2news.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech"
+ampWebUrl: "https://www.wmar2news.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true"
+cdnAmpWebUrl: "https://www-wmar2news-com.cdn.ampproject.org/c/s/www.wmar2news.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true"
 type: article
 
 provider:
-  name: WCPO-TV
-  domain: wcpo.com
+  name: wmar2news
+  domain: wmar2news.com
 
 topics:
-  - Facebook AI
+  - AI in Autos
   - AI
 
-secured: "UCFgOijyzgIGKozQPcmEoGiUtoVOLtTSMMvzolX++oZSWM/n6IAOxgxdKFL7bUNPCQRhqihnP6pgNNTqQ7PyKIdmDTlrFr9t7/fyh+kxluVAcC4TBsmhy4Am9RoSEoPWBu2MC+MSG6JO1QWIQyi2UBAJ2tQB8BeYmyvXemzrHbgcm0V/R3S/VFsdKVOiSXMr+8MjbyMCncoCWD+HRuBqKbvfGrcVpEwxWrWQ05XQdJYwMLmLy8VPc1c9XlxYgk6Av9xYtQSRYiXETEdo0F7wapoUUnnu7v+Kk63D20osXOqLXz1xMey4OXGfkelVqw5njsF3ycz9kOtrSxqhEP0ru1wiUJooQYZtNRnhy4USBb7IE1IxenLwRN0O/XxsYxp4icarjIiczkuusRN99Rl+30bq8Ly7Aznc3JU9DjK3yaxfLl3aW290HSl9giqb2LMl1XSL0mD00Nqa/CwfP3cthmeH2o9PwpOjLMiHm33Kk4ibacgDKd38uI6fj1eYs/rGv4659aTUr/QIijfsHbTj6w==;53xNVq1sr7b2f37s6JMnyQ=="
+images:
+  - url: "https://cdn.newsy.com/images/videos/m/1660250991_F4WYcV.jpg"
+    width: 640
+    height: 360
+    isCached: true
+
+secured: "W13bTl7vsDHwlEUIvpy7TlzKxtQT+30xK/Yzio4k+ctvdqhYWHXWWnOLva3YxFpCDqQldiWCx+UdzG38TMJfJe6pLOPLLXZ28tl0aSRxp5Z0bHxzPtm6UWyAAdUI60ocPb4QFUYZHcTuKnN7DEJEQtIceKf1i4zJZ9hCQwBaMMDS1pDiW35XysNd7o8S8bEeZqi46k17rjeZaz1q3WuSuXEVTQcCju943HP9u10mtIDSY+DJtTChRnuiMcB2zDtaln6UnL0eZQ/FP2zQ9ihI6vMEzF2itKNCv1380/qJOBhd5aZN/rpQ3MthNwkXlQ1aBausWK6tyeYX+zQLEv+W2V18S32w3zM8xaKWxXve6S0=;VPZmqdaIYzLRILxyPKi1wQ=="
 ---
 

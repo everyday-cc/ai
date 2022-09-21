@@ -20,45 +20,47 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Factbox: The challenges automakers, and now Tesla, face with humanoid robots"
-    excerpt: "Tesla's CEO Elon Musk is set to unveil its prototype humanoid robots at an event on Sept. 30, hoping to expand beyond self-driving cars that have not yet become reality despite his repeated promises."
-    publishedDateTime: 2022-09-20T11:44:00Z
-    webUrl: "https://www.reuters.com/technology/challenges-automakers-now-tesla-face-with-humanoid-robots-2022-09-20/"
+  - title: "What can you expect on Tesla AI Day?"
+    excerpt: "Tesla AI Day is Tesla's annual event in which the company reveals all of its upcoming projects and showcases its latest technology. The event will take place on September 30 and is expected to be live-streamed on both the Tesla website and on YouTube."
+    publishedDateTime: 2022-09-21T13:01:00Z
+    webUrl: "https://www.zdnet.com/article/what-to-expect-on-tesla-ai-day/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/what-to-expect-on-tesla-ai-day/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-to-expect-on-tesla-ai-day/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 83
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
     images:
-      - url: "https://www.reuters.com/resizer/UIBi6hsuoRG96_8hgRaAlbj-InE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HK3GFOZNRJJNHFHO4TNPIOP7WM.jpg"
+      - url: "https://www.zdnet.com/a/img/resize/bb82a1b68d61171587c5d41c6fe6f42425701dc2/2022/08/15/7fd1c0ef-9d2c-4ec0-8ba7-a72afdbd0d35/tesla-humanoid.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
-        height: 628
+        height: 675
         isCached: true
-  - title: "The challenges automakers, and now Tesla, face with humanoid robots"
-    excerpt: "Tesla's humanoid robots, Optimus, will be initially used in manufacturing and logistics for boring and repetitive work, thus addressing a labour shortage"
-    publishedDateTime: 2022-09-21T06:07:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/the-challenges-automakers-honda-tesla-general-motors-hyundai-nasa-face-humanoid-robots/article65917068.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/the-challenges-automakers-honda-tesla-general-motors-hyundai-nasa-face-humanoid-robots/article65917068.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/the-challenges-automakers-honda-tesla-general-motors-hyundai-nasa-face-humanoid-robots/article65917068.ece/amp/"
+  - title: "Optimus Robot Is Coming At Tesla’s AI Day 2 – But It’ll Have To Do More Than Dancing To Silence Critics"
+    excerpt: "Tesla will hold its AI Day 2 on September 30 and in the leadup, Elon Musk has prioritized both Optimus and an updated smart summon feature. According to the tech billionaire, both projects have an end-of-month deadline."
+    publishedDateTime: 2022-09-20T23:37:00Z
+    webUrl: "https://www.carscoops.com/2022/09/elon-musk-is-getting-ready-to-unveil-optimus-robot-at-teslas-ai-day-2/"
+    ampWebUrl: "https://www.carscoops.com/2022/09/elon-musk-is-getting-ready-to-unveil-optimus-robot-at-teslas-ai-day-2/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/09/elon-musk-is-getting-ready-to-unveil-optimus-robot-at-teslas-ai-day-2/amp/"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 76
+      name: Carscoops
+      domain: carscoops.com
+    quality: 75
     images:
-      - url: "https://th-i.thgim.com/public/incoming/dv0aw0/article65917069.ece/alternates/LANDSCAPE_615/2022-09-20T181456Z_1847150550_RC25LW9ZUUN6_RTRMADP_3_PG-E-FIRE-TESLA.JPG"
-        width: 615
-        height: 383
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/08/Tesla-Bot-5-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Challenges Automakers, And Now Tesla, Face With Humanoid Robots: Report"
-    excerpt: "Tesla's CEO Elon Musk is set to unveil its prototype humanoid robots at an event on Sept. 30, hoping to expand beyond self-driving cars that have not yet become reality despite his repeated promises."
-    publishedDateTime: 2022-09-20T10:31:00Z
-    webUrl: "https://www.ndtv.com/business/challenges-automakers-and-now-tesla-face-with-humanoid-robots-report-3360851"
+  - title: "Tesla's AI Day Is Coming Soon: What Was Announced Last Year? And What Should We Expect To See This Time?"
+    excerpt: "Tesla’s AI Day is on the horizon. Here’s a brief on the upcoming event including a recap of what happened at the inaugural event last year that also sets expectations for this year, and of course, what it all means for investors."
+    publishedDateTime: 2022-09-21T18:48:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2022/09/21/teslas-ai-day-is-coming-soon-what-was-announced-last-year-and-what-should-we-expect-to-see-this-time/"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 36
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "kSa+jMbJjVFKO/CRCJSJWqsaYcofm92guC0QJqv565YiyNaOcKSr0O7NFkKui9FCncqSP4oq2tbrQjXNTiUe4lnUjXOKXi7l+96klGo2h6uLv5IdKYvzrkviec/BThdpufLtXrl+aDOVJGQD1pISmrkyr8ohSxG3YhzA9/8Hz6Sh93qJ0N9tgCwnKik7OAJxB45+WbgFUj7/ls09XbCsb0SvVXH/JU31fyCIp2x5j8TNYV3gUEjAk+T6ZkUzXYeI6AGW8lz1fLEsHlRwUgxCNzPryHCfYDvuviIUPepbnwCvzXzTVIy7N8BsNoYybFONMSQXULwIQLT20PerX/AHDVRYQ7G2MWi9R0Zr4D8nJS1y4R8OVl9iw/ogm8ddE1AMRGLS0BsuBhJByiA2I6afQ7+xNiIUd8bQ6vlfYZV1A1/xOufGvGKe/Mz6MLKX2vOdps8sq1T+tPBGx9YjAvZ9vEXQZ3b9xBCsQUWciWwNwYrA8BQH3wGgLfACaIPqQGKnGkXW6+BiKlxlD0m2Kf7Obg==;cGwNIb+4RRwFIet5+F17AQ=="
 ---

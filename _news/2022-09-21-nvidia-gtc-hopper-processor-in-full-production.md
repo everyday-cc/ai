@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3674061/nvidia-gtc-hopper-proce
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3674061/nvidia-gtc-hopper-processor-in-full-production.amp.html"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,20 +27,84 @@ images:
     isCached: true
 
 related:
-  - title: "Northern Data Becomes Preferred Cloud Service Provider in NVIDIA Partner Network"
-    excerpt: "Northern Data Cloud Services to offer HPC cloud resources with NVIDIA A100 Tensor Core and RTX™ A6000 GPUs FRANKFURT/MAIN, Germany, Sept. 21, 2022 /PRNewswire/ -- Northern Data Cloud Services has joined the NVIDIA Partner Network as a Preferred Partner for Cloud Services in Europe."
-    publishedDateTime: 2022-09-21T06:42:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/21/9677648.htm"
+  - title: "NVIDIA gives updates on new GPU technologies at GTC conference"
+    excerpt: "It announced the GeForce RTX 40 Series GPUs, which are powered by the company’s new Ada Lovelace architecture."
+    publishedDateTime: 2022-09-21T20:43:00Z
+    webUrl: "https://sdtimes.com/ai/nvidia-gives-updates-on-new-gpu-technologies-at-gtc-conference/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 69
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2022/09/gtc22-fall-web-keynote-blog-image-jhh-rtx4090-1280x680-r2-1.jpg"
+        width: 1280
+        height: 680
+        isCached: true
+  - title: "NVIDIA (NVDA) Launches Ada Lovelace-Powered Gaming Chips"
+    excerpt: "During a keynote at the NVIDIA GTC conference on Tuesday, the company’s CEO, Jensen Huang, stated that the new Ada Lovelace architecture would be used in an upcoming new GeForce RTX 40 series graphics card — RTX 4090."
+    publishedDateTime: 2022-09-21T11:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia-nvda-launches-ada-lovelace-powered-gaming-chips"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
+  - title: "Nvidia's Higher Gaming GPU Prices Raises Analyst Conviction. However, Some Remain Concerned Over Demand And China Ban"
+    excerpt: "BMO Capital analyst Ambrish Srivastava cut the price target on Nvidia to $210 from $230 but kept an Outperform. At a high level, Srivastava thought Nvidia's Fall event was a lot more packed than expected."
+    publishedDateTime: 2022-09-21T18:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-s-higher-gaming-gpu-prices-raises-analyst-conviction-however-some-remain-concerned-over-demand-and-china-ban-1031757541"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
+  - title: "NVIDIA unveils latest GPU based on Ada Lovelace architecture"
+    excerpt: "NVIDIA has announced the NVIDIA RTX 6000 workstation GPU, based on its new NVIDIA Ada Lovelace architecture. The RTX 6000 Ada Generation GPU can deliver real-time rendering, graphics and AI, enabling designers and engineers to build and validate more sophisticated designs."
+    publishedDateTime: 2022-09-21T09:15:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/nvidia-unveils-latest-gpu-based-on-ada-lovelace-architecture"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 39
+    images:
+      - url: "https://www.newelectronics.co.uk/media/syeigo2n/nvidia-rtx-6000.jpg?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Nvidia rises as chip giant unveils new high-end RTX, GeForce graphics cards at GTC event"
+    excerpt: "Nvidia (NVDA) shares rose on Tuesday as the semiconductor giant unveiled a new high-end RTX GPU and GeForce GPUs at its GTC conference.The Jensen Huang led-Nvidia (NVDA) unveiled"
+    publishedDateTime: 2022-09-20T16:52:00Z
+    webUrl: "https://seekingalpha.com/news/3884440-nvidia-rises-as-chip-giant-unveils-new-high-end-rtx-geforce-graphics-cards-at-gtc-event"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 30
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1399238913/image_1399238913.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Supermicro Announces NVIDIA H100 GPU Systems"
+    excerpt: "Super Micro Computer, Inc. (SMCI), a enterprise computing, GPUs, storage, networking solutions and green computing technology company, announced 20 NVIDIA-certified systems options with NVIDIA H100 PCI-E and NVIDIA H100 SXM GPUs,"
+    publishedDateTime: 2022-09-21T19:21:00Z
+    webUrl: "https://insidehpc.com/2022/09/supermicro-announces-nvidia-h100-gpu-systems/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
+  - title: "NVIDIA Announces OVX Computing Systems - the Graphics and Simulation Foundation for the Metaverse - Powered by Ada Lovelace GPU"
+    excerpt: "NVIDIA today announced the second generation of NVIDIA OVX™, powered by the NVIDIA Ada Lovelace GPU architecture and enhanced networking technology, to deliver groundbreaking real-time graphics, AI and digital twin simulation capabilities."
+    publishedDateTime: 2022-09-20T17:55:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-nvidia-announces-ovx-computing-systems-graphics-simulation-foundation-/2022/09/20/9677407.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 19
-    images:
-      - url: "https://mma.prnewswire.com/media/1903799/Northern_Data.jpg"
-        width: 400
-        height: 225
-        isCached: true
+    quality: 0
 
 secured: "QBetVU4UwywkgsXlNs+r5l4KDUxalGNNCnG5qKQszWMcm7bi8vQ31NiBOZ6Yvr6UUjlOOJmHq725ncXjy0j31JgnYQpgRBoehoJ6ksublpqLI/jyonvuKlolR3P4ccjbRCAszIa0cZB/wXcDM5m73qC+3DheipdnACepPL00UAAtE8ne0/+Vpkr3v1GAHE4+y1h8uhvqQqiAGAVcDdOinlixr544VlmJaRLOCK8MSHqKa+UE2miIts2hBxm5ze95aHSk/2WbIZqEsbg6EvQMpY0gzHehZGeEAdtZFpVP7kpZO6+VT6UWoI0h7IvZgeFKC9h9dXv8WL3ePQDbxvtazghT6QT7lzWb11rGf5TNPUEQ1gCyZH2CY3gJCuCm9ttj/wm9i8u0sy8mA/2iYI25NfgcxFNbb+t2djJZrOMc/x+UuuhzrMLqB3HBT8BJDtJYOBDAxC9SEQ9mHymRazbqsLC4pL4t7qFAR4QZbvb0ySPABN8NIX52cFuep/a16Av1Re22NMMRH/pSeE+m2jPlyQ==;zV7I7csBekaj65BCHIyKFQ=="
 ---

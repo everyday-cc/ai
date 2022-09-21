@@ -25,6 +25,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "India's homegrown AI-enabled network intelligence startup Aprecomm signs a deal to go global"
+    excerpt: "Aprecomm, India's leading network intelligence company, today announced its partnership with Singapore-based organization Technology Distribution Specialists (TDS) for the distribution of its Network Intelligence technology."
+    publishedDateTime: 2022-09-21T19:02:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20220921/3985381.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 6
+
 secured: "yIfEJNcv3iKePXiOt/xqoOkJ6ixsV78AEdleSUnakeD0g1o4NEA1Cf+yeEZs/QffWDZi+z1KFvEPYHIS+UGI/9aeMXbqmjSiupeKFGCYpu0UNTI0FbkSvryt9k9ZUL6ZoVEtO6c9RGLMUYsUvMN7KTLXbbAM8ZvXQ+PVliwWlV0XGTCYrLhbm1ZgCBuY5+5wn9YOki+KuK6P9Rb6AyLfDuuFTg0GFEsUyLcfrsggFoCvUj/9jGDFjz9QWiihYe0J6YV9qt6MEwlLgJ/gphdHTAIGLLvpi7+O6qCIKMxCoDZeG8EOwrgg74U82w36KQ5+Ts3UrEyNocG/TVHjkjMuyG3ITZfr6QD5BMvPEeHfFD5VTGybdgVhpoE4k+cuQDNwDfbaFnSn2fAJplD+P1jmfX+3RkDoomOn0kIvR9rphgok2ArOTzYqxMEaJF57DO6TljpTho288fAtoOQFnQR2DBWZ8BAycfJwHbBCQ/G6/SKOwY8OOuxl7pRCAzY3Zvl1ynLe3NxxnujTFvULaShUcA==;afz1xUYOrr+Xscd89vS3tw=="
 ---
 

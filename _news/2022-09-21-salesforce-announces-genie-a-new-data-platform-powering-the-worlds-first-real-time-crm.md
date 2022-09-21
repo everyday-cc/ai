@@ -120,6 +120,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 19
+  - title: "Salesforce deepens partnership with AWS"
+    excerpt: "Salesforce has expanded its partnership with Amazon Web Services (AWS) to enable customers to build custom artificial intelligence (AI) models using Amazon SageMaker, AWS’s machine learning (ML) modeling service,"
+    publishedDateTime: 2022-09-21T18:32:00Z
+    webUrl: "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 19
   - title: "Dreamforce 2022: Salesforce Partner Atrium Doubling Business"
     excerpt: "Salesforce, Tableau, MuleSoft and Snowflake partner Atrium CEO Chris Heineken talks growth ahead of Dreamforce 2022."
     publishedDateTime: 2022-09-20T16:26:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-21T06:00:00Z
 originalUrl: "https://internationalbanker.com/technology/human-and-machine-join-as-kpo-sector-accelerates-digital-transformation/"
 webUrl: "https://internationalbanker.com/technology/human-and-machine-join-as-kpo-sector-accelerates-digital-transformation/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: International Banker

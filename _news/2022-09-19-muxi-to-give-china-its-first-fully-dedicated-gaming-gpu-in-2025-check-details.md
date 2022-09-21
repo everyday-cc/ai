@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizbot.com/amphtml/news/muxi-to-give-china-its-first-ful
 cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/news/muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details-082672.html"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 620
         height: 347
         isCached: true
+  - title: "China Could Release Its First Dedicated Gaming GPU in 2025 But Will It Be Competitive?"
+    excerpt: "Under the weight of those sanctions, the pressure to develop home-grown hardware is heavier than ever, but GPU design is a high hurdle to hop. There are already basic and productivity-focused GPUs from the likes of Zhaoxin and Innosilicon,"
+    publishedDateTime: 2022-09-19T18:52:00Z
+    webUrl: "https://hothardware.com/news/china-first-dedicated-gaming-gpu-in-2025"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 11
 
 secured: "S5tc0OjL+Lxz5KAp7YLvjTUyemEgYrglYd1tPKEKAka2vxdf6T6HyBDbQ0JAJ8R41aV2Q1rvmGtvd+W3+fZiC2Q/xG0kEtHDQPrIGQdHoop0Bh0Rs8Yv7pgGxWuBYYn5dor1uzPfZk9iswp84Pr5v2E4ixKe+i8brsKmxxlhXeFtjjeaDT0Prxbbbc02gOL5Afz4o6brh+8/Nm3hNhlvb+CTfXI054Qi2YLa2tO2/t7jaeMtnUaikX7XlofBH0eMYVR1WNQJUZOnazgECDynGdbzulldje5opU0rcpw9R9uz/JDPa7CDriimOMILkuYTQ6BNjjxeAh7zdkhRIAmI950+EZCbCl1eNvGcIFmXZOQ=;/oK8pf/I+5fmyEX/lGLe5g=="
 ---

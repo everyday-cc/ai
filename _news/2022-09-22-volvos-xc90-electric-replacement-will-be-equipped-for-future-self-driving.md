@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-21T19:00:00Z
 originalUrl: "https://jalopnik.com/volvos-xc90-electric-replacement-will-be-equipped-for-f-1849563308"
 webUrl: "https://jalopnik.com/volvos-xc90-electric-replacement-will-be-equipped-for-f-1849563308"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Jalopnik

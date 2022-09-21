@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-17T13:27:00Z
 originalUrl: "https://www.kcci.com/article/placebo-research-taking-a-daily-multivitamin-supplement-could-slow-cognitive-decline/41232375"
 webUrl: "https://www.kcci.com/article/placebo-research-taking-a-daily-multivitamin-supplement-could-slow-cognitive-decline/41232375"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: KCCI Des Moines

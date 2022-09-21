@@ -19,21 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "Fierce competition: Who could win the intelligent automation arms race"
-    excerpt: "Microsoft and Automation Anywhere are emerging as the main contenders for dominance of the business process automation market."
-    publishedDateTime: 2022-09-17T01:07:00Z
-    webUrl: "https://venturebeat.com/automation/fierce-competition-who-could-win-the-intelligent-automation-arms-race/"
-    ampWebUrl: "https://venturebeat.com/automation/fierce-competition-who-could-win-the-intelligent-automation-arms-race/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/automation/fierce-competition-who-could-win-the-intelligent-automation-arms-race/amp/"
+  - title: "Muxi To Give China Its First Fully-Dedicated Gaming GPU In 2025; Check Details"
+    excerpt: "Muxi’s 7nm chipset, billed as the companys most powerful GPU to date, is primarily intended to meet the needs of high-end gaming PCs."
+    publishedDateTime: 2022-09-19T07:58:00Z
+    webUrl: "https://www.gizbot.com/news/muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details-082672.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/news/muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details-082672.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/news/muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details-082672.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 70
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1285575560.jpg?w=1200&strip=all"
+      - url: "https://www.gizbot.com/img/1200x60x675/img/2022/09/muxi-gpu-card-2025-1663574244.jpg"
         width: 1200
-        height: 800
+        height: 675
+        isCached: true
+  - title: "China's first dedicated gaming GPU will launch in 2025 made by Muxi"
+    excerpt: "China's domestic GPU market is gearing up for a dedicated gaming-focused GPU launch in 2025 from Muxi, supporting all modern APIs ready for gamers."
+    publishedDateTime: 2022-09-19T01:52:00Z
+    webUrl: "https://www.tweaktown.com/news/88484/chinas-first-dedicated-gaming-gpu-will-launch-in-2025-made-by-muxi/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 39
+    images:
+      - url: "https://static.tweaktown.com/news/8/8/88484_10_chinas-first-dedicated-gaming-gpu-will-launch-in-2025-made-by-muxi.jpg"
+        width: 620
+        height: 347
         isCached: true
 
 secured: "G07sfVnK6yFYwQLONHkY+EHe1xgBdY6RmbMV0fggyd2PJ5uf6ivLY7mB2pSjFmG+k4PrnuGY/3Z3uB1YN6Lfg54m2p0uSoEVvjKCj6XPe+aX7YSJOH+tdb0L2GU/e+ysQEg7S3azhOd9hO+WFgjlDquK90obKUNosStI2ORCejgOLMHhU7H+t6DEPNZ0h0ePEvE7oQldQfOEYGnWZEMPeIEC2wkuh0Xn7OM1V7F7tORAEHRMnQsQwtfDvEI3kKTuo6N+2zgXWrdHgjaKln0Dk3ls98W+jlgAOc+Dqqzkuocj7bkOVFxHYJWZMAzVU6b1Vm75QIRLB9so0fdqdFBIof2L0WNPCFnx610DhiXqrQPj9Df2TWzNPvaXcmAO8M+k4CsLtI5YaDW62AtN0NIq530jjLvN+jCUBrLkRrsGjE47E3Vl0yaaOJ9svZX7xmbKx+bReaLWcBxpknGNFZCG19xZtPxBt8xDjULsJDOP3E0f3wuocxjcd5Sei8MUYLsi9p+tUk9JSKgEuNvxHsPyZw==;FGo22ss+xxNv2+OJORv2Fw=="

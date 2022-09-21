@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-21T16:19:00Z
 originalUrl: "https://citylimits.org/2022/09/21/opinion-americas-public-housing-as-told-by-those-who-live-there/"
 webUrl: "https://citylimits.org/2022/09/21/opinion-americas-public-housing-as-told-by-those-who-live-there/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: City Limits

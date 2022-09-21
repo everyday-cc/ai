@@ -25,6 +25,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Synthetic Speech Startup Murf AI Raises $10M in Series A"
+    excerpt: "Murf AI today announced a $10M Series A funding round led by Matrix Partners India with participation from existing investor Elevation"
+    publishedDateTime: 2022-09-21T20:26:00Z
+    webUrl: "https://www.datanami.com/this-just-in/synthetic-speech-startup-murf-ai-raises-10m-in-series-a/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 17
+
 secured: "RAYL82vxKss/K2JBrJqxTlX0c3C8t0hTpI5ilRoc6u7+uUYYpB6a6FxNkPdr69gtcWo+iL/ETE5OkQZ5DR8WmdhJ5y0CuLQRKDAedeoq6m8fEZ44xLuDKvw6yCc2sC/vgF8S//YlAzkKre+85LirZzRZTr4BYcL1xRJJDcoZD2vHrALqUOu6K70nG3hUfqiJUg1nrn0IijNEOP9C8znNkRNp+JXIBggrHCLejIMSpBUhBwAwem1JUfFSpGQjcWE+DA6gY9fVe+nB+dpawU+vwuVBwb1Mu4NtJE0q6LY9pIIK4tXeKe4T2vv9gc1t0aitffqWjPkiHyHjnxNGGRu9x0/doyO3NQPK/6PjqkmQ8twgyAOTEzph+tqmdZhumO8amL1Sil5BitSNvEaMTmdUBwMUuZ1BBX07ojsGGJtg/RDQXsocecSw4o3py5yx6NEg92ZQF54edLHSOt4EOrIoLSdhcJlpro+Yi1v7P64YqaREw/xFJV6ZbIfZumYjLq4WOqoJtB35DW76bHfBbBVB2A==;ISq6ga2R3SET/m+cmXDnaw=="
 ---
 

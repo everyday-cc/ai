@@ -1,20 +1,30 @@
 ---
 category: news
 title: "Dementia diagnosis could be fast-tracked using artificial intelligence"
-excerpt: "Dr Roman Bauer, senior author of the study from the University of Surrey, said: \"Our study shows that using artificial intelligence analysis of EEG data as a diagnostic tool to identify dementia could be life-changing for many people."
-publishedDateTime: 2022-09-21T09:29:00Z
-originalUrl: "https://www.surrey.ac.uk/news/dementia-diagnosis-could-be-fast-tracked-using-artificial-intelligence"
-webUrl: "https://www.surrey.ac.uk/news/dementia-diagnosis-could-be-fast-tracked-using-artificial-intelligence"
+excerpt: "Forms of dementia could be spotted sooner and more easily by analyzing recordings of patients' electrical brain activity using artificial intelligence (AI), according to new research."
+publishedDateTime: 2022-09-21T16:04:00Z
+originalUrl: "https://medicalxpress.com/news/2022-09-dementia-diagnosis-fast-tracked-artificial-intelligence.html"
+webUrl: "https://medicalxpress.com/news/2022-09-dementia-diagnosis-fast-tracked-artificial-intelligence.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-09-dementia-diagnosis-fast-tracked-artificial-intelligence.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-dementia-diagnosis-fast-tracked-artificial-intelligence.amp"
 type: article
+quality: 57
+heat: 57
+published: false
 
 provider:
-  name: University of Surrey
-  domain: surrey.ac.uk
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-secured: "P3A498IPerF4YjuUyTB4NUxNVaS04wid3RPwbXaXXhNhyLaV74L8IFKppxVZDfKYykIDndpb5Rl5gFGrcwdQV+f4vVoOIKEHSaiyjOTWvtKbH710QbQAEusNP4wo2tBmzl2mdViJoPDep4UAKXEAGu4n98Lt2D9igfATNAD91VJMs6RzdtT2+xQS2yIjn0W8N6R0w6f4tkLpEelCn1+jf1tpHNBSxcPHggmVW5+tGcG2+EzbjfpmCxMmV2jDIdoQg6kTbZCKuN12wwfqDYKnS7UFGlkN0s5vlowjmRixpq2Gs/rGP7Bv+21B+580+xD1zG+jum3AXOkbx2riv+MS9pO9X/GL2UFzsWzovtOQXkg=;a2CkSmesTzYligfcywRolQ=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/dementia-diagnosis-cou.jpg"
+    width: 1944
+    height: 1548
+    isCached: true
+
+secured: "HMeux5CbNVki47c7wTyW1HiNjz4dfMvciWaElBVA1fco6jVNpaev9GpcQWRxUCXE/NaXUJv1xnX9Ghb2kGn5RPyijVH+sIt87/FAmD2AT24uXsJOEd6Hpd9QJi6ZFruvkPC20c0HQiTolnvVBtfZsGv1Nd9aELQ1hH04AWPqCmlO+Mq5wFGpgjyVAe0XomdpsoDfiFLN7qpLy9tMFO6hDgRixRap68FNpCk6ZB7ParP4OdriAMlQNtiFy0JT3sc9b0Burjlj3Iw6MngvXhGJPzEQKCxWxzfCmd/VtfXswuSiPU6az53faFSCkfB8VEl5eRf7wsgMWODPHtzG9DPK7J0LcyVUgUEtogs/ZBujUGo=;HZ+LPJ/N+kwx3SNVGS3Kzw=="
 ---
 

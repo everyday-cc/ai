@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Can eyes on self-driving cars reduce accidents? Cues from moving eyes could help pedestrians anticipate vehicle’s intentions"
+    excerpt: "Robotic eyes on autonomous vehicles could improve pedestrian safety, according to a new study at the University of Tokyo. Participants played out"
+    publishedDateTime: 2022-09-20T00:00:00Z
+    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/224947"
+    type: article
+    provider:
+      name: AlphaGalileo
+      domain: alphagalileo.org
+    quality: 0
   - title: "Robotic eyes on self-driving vehicles could reduce road accidents, says research"
     excerpt: "The major difference with self-driving vehicles is that drivers may become more of a passenger. They may not be giving full attention on the road. This makes it tough for pedestrians to ascertain if a vehicle has registered their presence,"
     publishedDateTime: 2022-09-20T12:25:00Z

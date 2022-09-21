@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-21T19:20:00Z
 originalUrl: "https://indianexpress.com/article/cities/mumbai/now-artificial-intelligence-to-update-bmc-about-citys-blackspots-8165220/"
 webUrl: "https://indianexpress.com/article/cities/mumbai/now-artificial-intelligence-to-update-bmc-about-citys-blackspots-8165220/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Indian Express

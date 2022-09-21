@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-17T12:30:00Z
 originalUrl: "https://www.hindustantimes.com/technology/now-you-can-write-articles-using-artificial-intelligence-tool-like-this-101663244964673.html"
 webUrl: "https://www.hindustantimes.com/technology/now-you-can-write-articles-using-artificial-intelligence-tool-like-this-101663244964673.html"
 type: article
-quality: 16
-heat: 16
+quality: 18
+heat: 18
 published: false
 
 provider:

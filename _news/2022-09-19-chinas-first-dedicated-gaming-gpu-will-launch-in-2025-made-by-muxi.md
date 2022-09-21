@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "China Could Release Its First Dedicated Gaming GPU in 2025 But Will It Be Competitive?"
+    excerpt: "Under the weight of those sanctions, the pressure to develop home-grown hardware is heavier than ever, but GPU design is a high hurdle to hop. There are already basic and productivity-focused GPUs from the likes of Zhaoxin and Innosilicon,"
+    publishedDateTime: 2022-09-19T18:52:00Z
+    webUrl: "https://hothardware.com/news/china-first-dedicated-gaming-gpu-in-2025"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 11
 
 secured: "sXmaJxOOVojSI0g4Lor0UHRloM6vj/FwwDxz985C+nRD35jeQV8/XS4ZTWPuYne8jiXNBszao1Ts+DRczl2QAf8Ke+4FjKLz2VtoxQTOYv5REtnN3zJ2kmyM7qW1X2+hJwlRCyxSUakVJNBMSNjJR4GEw6rtPH1DRfWq+tnpxBbQVBFEvfQZApgsyFf8BFCBsqhDaELOeYZvKDjIvxCUNPuG7YwitJxhDRaNmgcOVA32oRHPkE7c4vhgBWxMoZq+F6w0gRXJBdXW9RSf+ZtntwNrsA9qJ/ub7Y064IBspuxoRi/8qdMhAXW24pZ9hawxtV7gccaN5uh3KjB6E0YMWtN5mNpd1bn1nvM78eSXlpQVzpxKBySJRSZ/EkOxxLHpW5FPpg8CSD3Ik8hDb9Fgd0PRTXv1+fWazl/hLv+tA/L9bFyOKezT/2oPJh2i6rfvDQ09rGoqzp3k4pAS+/1owmia73NlYU7rz+3PI51IXNwi8f2g52GwVGM83jw39lQLCwjeCNzgdzyF8xakBhwB6g==;njBkpyoPw4Egepe91VLePA=="
 ---

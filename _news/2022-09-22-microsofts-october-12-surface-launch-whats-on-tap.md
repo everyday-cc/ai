@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-october-12-surfa
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-october-12-surface-launch-whats-on-tap/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 682
     isCached: true
+
+related:
+  - title: "Bambu launches predictive planner for Microsoft Cloud for financial services"
+    excerpt: "This service will enable relationship managers, financial advisors, agents and firms in the financial sector to identify and prioritize their clients’ needs through predictive analytics to make informed financial decisions for the future."
+    publishedDateTime: 2022-09-20T17:40:00Z
+    webUrl: "https://www.livemint.com/companies/news/bambu-launches-predictive-planner-for-microsoft-cloud-for-financial-services-11663654234737.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 18
 
 secured: "umMXvZ/SRIyBt7HYXhcHoZxi8CmMznbvrvfqsvGU4+P/jLTcvfP5zRZ+wqqc/8rCJpezShZQhAcMnG+lDVbGtvBeI7aPmFa9MDE6YMbmBOt4gsHoaZYblOusAQixEIsSvMfh6AS7Fci3HsZz0VB97WM6S6JMiuE86/Zi+4XbVZhlu8SswIb6OUSZmyOBT7OSnFcdXaJFVXC4Km6ad/Rx54V3jUQbPi2A4MspXEK72ASpUImeGTn/cXIMgTExfGBgnrk2JlvLPsBRsAvjJZ+4vNAwEuJnahLtSM4H4U4VQA3XaD5cWF/gk30OjdMXYJ2jtzR5z61LDsK6YWNLL7amidRzpFpu9AN4IcLIFeubQuPA+vKr+Gko+PKC/ZXe/Z8hEuS0SZjeel8Ltb4tNUMFsq9qMW8SAg8yOmAnis+Q2huRdh+0JDeDY77pS7qE+vls6bD8d9zZIAMIgZeYZz12Vya95OJUWHGMSCcXKAvYas9SFEh+r0zmBpwE8Uqpz9/Cwbpj6lbbV6FbOGM6DtB5rA==;74epd6WMjv5iHItCdDAnqg=="
 ---

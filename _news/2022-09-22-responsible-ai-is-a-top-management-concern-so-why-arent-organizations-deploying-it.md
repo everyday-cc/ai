@@ -5,7 +5,12 @@ excerpt: "Factors working against the adoption of responsible AI include a lack 
 publishedDateTime: 2022-09-21T19:15:00Z
 originalUrl: "https://venturebeat.com/ai/responsible-ai-is-a-top-management-concern-so-why-arent-organizations-deploying-it/"
 webUrl: "https://venturebeat.com/ai/responsible-ai-is-a-top-management-concern-so-why-arent-organizations-deploying-it/"
+ampWebUrl: "https://venturebeat.com/ai/responsible-ai-is-a-top-management-concern-so-why-arent-organizations-deploying-it/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/responsible-ai-is-a-top-management-concern-so-why-arent-organizations-deploying-it/amp/"
 type: article
+quality: 82
+heat: 82
+published: true
 
 provider:
   name: VentureBeat
@@ -17,7 +22,14 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
-secured: "sPra4hEeIPtNX4muoPZPgYx0zMaPrx1MVnjOmrcDel/rZajeATNeBPGI4Kovlyr99R7zqO1T1swLnU8WFiyPYAZqWAkkjb9TwlJ3S8qjh/oShVzDrNbzONznths9VIMRKn91/Tecwn1EGfgaPbYcKJ7WDdmsqFO/WjH8vNQmUGJrox9pBSkXG+FyzD5layw/alakU5GGDEtsZrnNSE0/nhYQzWY7TUBUS5zZz30s6HLZVVSmjwiBH8+3ccUJ3RfCUFHFIx+7YXb+69U6XxgpWIAwgzzGIc8J5CG2qEjDtOWncjpFpu7ML5Cnp1VhEy++Tig4m0Yerm5T1mtgZZZmymStYO4a+FiRvaFF6W+cwGCwm2yOfD6Fi/mwp6zXfU2Kb2AUfmMyx+steNWsQFowS64Hi/C2iQEtFLKRsQKAwYpPz251EQNy6fA9sO1XgKWb4YuHXlC0f55oE943djWPkUqIcOdsSG22dr1AnkOmTOE/CihY/7kXsBlYgLEelqfgxa7ezg9zSjVJZWSTLQCeeQ==;gxGwCqRy4eYilOK4kUiGWg=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2021/02/How-the-responsible-use-of-AI-can-create-a-better-health-system-01.jpg?w=1200&strip=all"
+    width: 600
+    height: 299
+    isCached: true
+
+secured: "8dN8Kxm6C7WFYqb4NmZi9g1M8fzAcyj0eNgeW24un/acGA0eOhdKyEJSj+HMoAoXsBTTwG8bP1Oi9BZhwGk8O39RNb+WQI0H7Oy7aDDrzw5EJh/szW9XAU/K8wogw6EMEBBczlMe0tzQd9Zh97iqliLCwUqWAeCByPbr8BglhQyW2RtVHRUhfZDqHcCpp77OVtjP+whABqRDoCuGoAJEJA8DX6klQYrToQjTR+Tb8pN3mwF7WgdEC2KcL4WOUyyemJmwRzwsoVgwQhJg3+M10dBN4glOpeRJGPRMHLQuGGyDjMx569tpfmr8pf3ODNgctGc5xy1zMhPdWsZzreGgk0zTNBdPnvdEvvh+IZ2VCnY=;zW5raXQVNSdgc2G4vcyxmw=="
 ---
 
