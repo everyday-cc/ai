@@ -34,6 +34,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "The challenges automakers, and now Tesla, face with humanoid robots"
+    excerpt: "Tesla's CEO Elon Musk is set to unveil its prototype humanoid robots at an event on Sept. 30, hoping to expand beyond self-driving cars"
+    publishedDateTime: 2022-09-21T01:32:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/the-challenges-automakers-and-now-tesla-face-with-humanoid-robots-71663674010672.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/the-challenges-automakers-and-now-tesla-face-with-humanoid-robots-71663674010672.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/the-challenges-automakers-and-now-tesla-face-with-humanoid-robots-71663674010672.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 76
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2022/09/20/1600x900/GLOBAL-ECONOMY-COMPANIES-2_1663681081790_1663681081790_1663681094192_1663681094192.JPG"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Challenges Automakers, And Now Tesla, Face With Humanoid Robots: Report"
     excerpt: "Tesla's CEO Elon Musk is set to unveil its prototype humanoid robots at an event on Sept. 30, hoping to expand beyond self-driving cars that have not yet become reality despite his repeated promises."
     publishedDateTime: 2022-09-20T10:31:00Z

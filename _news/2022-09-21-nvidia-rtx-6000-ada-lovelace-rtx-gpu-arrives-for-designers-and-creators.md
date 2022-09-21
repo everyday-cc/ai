@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "NVIDIA's New Ada Lovelace RTX GPU Arrives for Designers and Creators"
+    excerpt: "RTX 6000 GPU Provides 2-4x Performance Improvement in Enterprise Workflows;Global Manufacturers to Ship Starting in Q4 SANTA CLARA, Calif., Sept. (GLOBE NEWSWIRE) -- GTC—Opening a new era of neural gr"
+    publishedDateTime: 2022-09-20T15:21:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28934515/nvidias-new-ada-lovelace-rtx-gpu-arrives-for-designers-and-creators"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28934515"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28934515"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg"
+        width: 700
+        height: 300
+        isCached: true
   - title: "Nvidia sends urgent orders to TSMC for banned GPU"
     excerpt: "Nvidia, a major GPU maker, has sent urgent orders to TSMC to make GPUs that will be banned from exporting to China next year, Taiwanese media outlet UDN"
     publishedDateTime: 2022-09-19T07:35:00Z
@@ -123,15 +139,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 23
-  - title: "NVIDIA's New Ada Lovelace RTX GPU Arrives for Designers and Creators"
-    excerpt: "Opening a new era of neural graphics that marries AI and simulation, NVIDIA today announced the NVIDIA RTX™ 6000 workstation GPU, based on its new NVIDIA Ada Lovelace architecture. With the new NVIDIA RTX 6000 Ada Generation GPU delivering real-time rendering,"
-    publishedDateTime: 2022-09-20T16:43:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/20/9677331.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "PNY GeForce RTX® 4090, RTX® 4080 16GB, and RTX® 4080 12GB; PNY Introduces Next Evolution NVIDIA GeForce RTX 40 Series GPU's"
     excerpt: "PNY announced today the expansion of its NVIDIA GeForce RTX® XLR8 Gaming family of GPUs with the addition of the new VERTO™ GeForce RTX 4090, GeForce RTX 4080 16GB and GeForce RTX 4080 12GB. Powered by the new ultra-efficient NVIDIA Ada Lovelace architecture,"
     publishedDateTime: 2022-09-20T17:37:00Z

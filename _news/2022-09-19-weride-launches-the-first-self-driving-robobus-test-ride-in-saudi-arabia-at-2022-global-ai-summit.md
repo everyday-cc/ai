@@ -34,15 +34,6 @@ related:
       name: الشرق الأوسط
       domain: aawsat.com
     quality: 49
-  - title: "US-based Nala Robotics, Saudi Excellence Company ink pact to bring robotics services to Saudi market"
-    excerpt: "The US company is to provide robotics AI-enabled equipment and software to help Saudi food companies achieve more efficiency and speed in production and higher levels of quality US-based Nala Robotics,"
-    publishedDateTime: 2022-09-16T08:20:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/technology/us-based-nala-robotics-saudi-excellence-company-ink-pact-to-bring-robotics-services-to-saudi-market"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 19
 
 secured: "Ae0DDdMLkH2mEUAmWAW1GjLamMZzxaojYh1B38T1tLOYVhb4XAuUCzWmpUJY8iHTwl6JRXmGWs9ue7pAhx6WWEq9VuJEHXHkaoqyYTYP7LkTG1foouLYmF+rqk4wWdjVu23jqm4Xgq/yh/V8ooiJj2YZDRH1h4oORJyvIwBqdomJ5UUUM6EUjvhyQQpYXYkpF0sQSqam/VzMw+bQ+JjuHvTE8qCaGbsns801nMkHS2boQ7ta/994Eo0gCssYm+oKdrwgHkg6aoTDlg21Q5PSst+PTSQYeBlQm3XD+XmZKHli2nTqmva5zXNwAUFa/Qt3v5zYKHegFkeV6NiubQ1Ce0S9QKKiTKUCNK8SMTJG4qY=;VxXnIfJJ9cPuAvB7U94aZw=="
 ---

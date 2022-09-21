@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia unveils Drive Thor, one chip to rule all software-defined vehicles"
+    excerpt: "Nvidia revealed a next-generation automotive-grade chip that will unify a wide-range of in-car technology and go into production in 2025."
+    publishedDateTime: 2022-09-20T23:39:00Z
+    webUrl: "https://techcrunch.com/2022/09/20/nvidia-unveils-drive-thor-one-chip-to-rule-all-software-defined-vehicles/"
+    ampWebUrl: "https://techcrunch.com/2022/09/20/nvidia-unveils-drive-thor-one-chip-to-rule-all-software-defined-vehicles/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/20/nvidia-unveils-drive-thor-one-chip-to-rule-all-software-defined-vehicles/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 88
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/09/DRIVE-Thor-GTC-Fall-22.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "5QaV1i5PVDfC1yD/GjgjUvs1RW0Dw9Y7Us3KD4Xxg/sVMgl1Mjp0K79BEY6dbEqF4ke/OjoVd3uC4J9u5l7lnbJJKaTI3tFz+RVgrK0jx/UrebL1zzLk532l4PezYrAD9HcFpvlXHn9VWFp4LBRIb8fGL082Gs5RLYASQt3k91gByq5v+uMKUY8jl0KbtKF1NPuCJVFoz5bLNYerOsA5wZeoIDGt9QNHuJ9Mn8wGXdbjSCUrYckRrMM+jda8HbsHNLvSjwHops1LUfBOOi+Fjgi8DmojjBa9jsOD7QSR3AS843OV7W8oTEspamzCSX33iD2cwJt4ECF3qr3U8MJQ8m/74CuXkMf/86oV1gCmY2g=;aKpAxzuw0gjJetTQdZgugA=="
 ---

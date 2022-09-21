@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/newsarticle/40982/sardine-raises-515m-for
 webUrl: "https://www.finextra.com/newsarticle/40982/sardine-raises-515m-for-fintech-fraud-platform"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,30 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Ecobank partners with AMA Academy to launch fintech training for journalists"
-    excerpt: "Ecobank Group has announced a partnership with AMA Academy, the only free-to-use pan-African online learning platform dedicated to upskilling journalists in Africa."
-    publishedDateTime: 2022-09-16T07:11:00Z
-    webUrl: "https://hapakenya.com/2022/09/16/ecobank-partners-with-ama-academy-to-launch-fintech-training-for-journalists/"
+  - title: "Fintech Platform for Millennials MoneyPlanned Raises Over 2.5 Cr. In a Seed Round Led by Inflection Point Ventures"
+    excerpt: "Fintech platform MoneyPlanned has raised over 2.5 Cr. in a Seed Round led by Inflection Point Ventures. The round also saw participation from Expert D"
+    publishedDateTime: 2022-09-19T06:43:00Z
+    webUrl: "https://www.indianweb2.com/2022/09/fintech-platform-for-millennials.html"
     type: article
     provider:
-      name: hapakenya.com
-      domain: hapakenya.com
-    quality: 51
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 17
     images:
-      - url: "https://hapakenya.com/wp-content/uploads/2014/04/Ecobank.jpg"
-        width: 640
-        height: 278
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOLIIVcjbQBdYBk5hjkauJf4fNm_X0WjvrCWDXmYa1XuF2zuxyEDE30WvvdN0EfSAJ_r4QO3aQlL2m0UCfilAkh4YhofH48QbhqhU3-Wyh3Bb9kIZHCKd7jjbmlgLJb4HfiQ_FBZqQGga9-wvygnDjP2g7nvFaZmq4DVRwvpHvy81zdPkrXw0DMB28/w734-h551/Sameer%20Shashank,%20Founder%20and%20CEO%20,Nikhila%20Putcha,%20Co-founder%20.......jpg"
+        width: 734
+        height: 550
         isCached: true
-  - title: "Boost Payment Solutions Partners with Australian FinTech Leader Robobai"
-    excerpt: "A leader in domestic and international B2B payment processing, Boost will provide its patented straight-through processing solution to Robobai customers. This collaboration will accelerate payment optimization for enterprise businesses and streamline end-to-end disbursement processes across the supply chain."
-    publishedDateTime: 2022-09-20T13:05:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/icrowdnewswire-2022-9-20-boost-payment-solutions-partners-with-australian-fintech-leader-robobai"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 19
 
-secured: "qLvJV7INicTGxNKY8IaqdzLU04MngbDNQkQly7VYEMisuhDzMd/v3H8y9+bS7cd0/GZyu/ntJIO76KWXzHatgI6KoHody1ADh5yA/IbGan6je3GSKUrL8DVAPPni+w03XFCctEtbZcOOKMjjH4/YJZEfCM2pguyyxIHoorK63io+Fz+38e2MfF21ohfN0juqjbcpNoHz4YCUN4bfZgd+AZA14wJlBGNqwohIIhnnWhf2tRKZiw8VKVYaZbE9237bRwDaKoaKsEwnQe0nX3hvFzgw93LeUTV6hMHgp2drJtrYRtyuhpbxaRnZ5V5mjSJzbCoIgVSwxiKFKFwu0oA2D9e21ZMWC03d3VdL4MAsuEs=;hoVAjnShC8DWOWAKqMc9LQ=="
+secured: "luLqICQSxG1vi/6ysnZIStuTRckpHfH1q462ha9axnmXV+wuUt+VtR3vrDswu6+zTzD3+yzabPThqPtGJrSxvovXB/6KStrYtDTJp6kpWDGxDPCrtiUaN+lHju4llaeFgmk/Mv+wetAcLHCO60n8I+AxsdxqCOW5pUwlANmMNS+7RThYvwVSHlBa3SVlNmffGTneysqnOclAhKxrErwGAq6h+zM3NSQyi7ngfy9jPiUmXLjenwr233u+9JPAoPhcLrdSe3LL8f21G3Yf4vv3mFy6HOuSQUHHu1O8ctp2Rpcn2nkcOlJzf8wRK08m2di8udSmVmRQnNeOSiMW6/ExfDohzNBLvassN4un/H42gowEoLPYI39HQWqm+dueEK8grtJ2xhKhG9Gd7WDzGAh2l4xTuUC6omDtJh4vAwaZOJFHpb5omoS9rfmMKhJl5pmPFws4jRgWUP87dBsOqk7faIm+Q5DclUjzwgE5j0lAkeTFdDQmnqAyO88rQ4LklrmQAn145LTlk57yJLrNl08Tcw==;mzYKzctzTyx1hekDO1+tpg=="
 ---
 

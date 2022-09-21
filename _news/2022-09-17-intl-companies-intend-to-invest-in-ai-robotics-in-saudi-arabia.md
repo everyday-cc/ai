@@ -33,15 +33,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "US-based Nala Robotics, Saudi Excellence Company ink pact to bring robotics services to Saudi market"
-    excerpt: "The US company is to provide robotics AI-enabled equipment and software to help Saudi food companies achieve more efficiency and speed in production and higher levels of quality US-based Nala Robotics,"
-    publishedDateTime: 2022-09-16T08:20:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/technology/us-based-nala-robotics-saudi-excellence-company-ink-pact-to-bring-robotics-services-to-saudi-market"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 19
 
 secured: "p2mQamNnQ3dM7dDKk8X0muZjCZicfF0/u+QVZaBgoYQw4QiDESDIBtX8Hz0ukQjzm4oGkPjVxmaAlpAO0KI4Y2P2EDr1tBWG/vPRwTRtsA4Pbj8cCMz7aPsXjW6Qxa58PPU39qm0f2+ajL+2pwkXbzGn/arO5QxtT7/B1rjNPEk0wrWchwU7dq8IJOC0y2Mjq6M/hBpZwuDQ+gRMVSYW/wy8IWK44y+kVorktMoSblYolHdikrhZjA7GUnenXnDLqTNKWht7pWukeYoNarxGqSiOlaDkZxV8+52g3JCRgWh9DLWuTeti1/OZoKGJl/OgM9/2PJS0ucdlGUVk+mEBUCHSa+aFTQwZdwgkeOp4OWo=;IhbiaE23QzxHbktZ+StW+A=="
 ---

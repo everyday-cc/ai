@@ -51,13 +51,13 @@ related:
         isCached: true
   - title: "Artificial Intelligence (AI) In Retail Market to Hit $40.74 Billion by 2030: Grand View Research, Inc."
     excerpt: "The global AI in retail market size is anticipated to reach USD 40.74 billion by 2030, expanding at a CAGR of 23.9% from 2022 to 2030, according to a new study by Grand View Research, Inc. The rising prominence of advanced technologies,"
-    publishedDateTime: 2022-09-20T16:45:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-retail-market-hit-4074-billion-/2022/09/20/9677284.htm"
+    publishedDateTime: 2022-09-20T16:43:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/09/20/9677284.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 16
+    quality: 18
   - title: "Global Artificial Neural Network Market to Reach $258.45 Million by 2027 - ResearchAndMarkets.com"
     excerpt: "The Global Artificial Neural Network Market is estimated to be worth USD 171.88 million in 2022, and is expected to reach USD 258.45 million by 2027, growing at a CAGR of 8.5%. The Global Artificial Neural Network Market is segmented based on Component,"
     publishedDateTime: 2022-09-20T16:27:00Z

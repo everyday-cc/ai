@@ -5,10 +5,12 @@ excerpt: "At the SAS Innovate Roadshow, held in Toronto on Sept. 9, 2022, Reggie
 publishedDateTime: 2022-09-19T19:21:00Z
 originalUrl: "https://www.itworldcanada.com/article/ai-and-wine-are-not-that-different-says-sass-director-of-ai-ethics/503456"
 webUrl: "https://www.itworldcanada.com/article/ai-and-wine-are-not-that-different-says-sass-director-of-ai-ethics/503456"
+ampWebUrl: "https://www.itworldcanada.com/article/ai-and-wine-are-not-that-different-says-sass-director-of-ai-ethics/503456?amp=1"
+cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/ai-and-wine-are-not-that-different-says-sass-director-of-ai-ethics/503456?amp=1"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 74
+heat: 84
+published: true
 
 provider:
   name: IT World Canada
@@ -17,6 +19,12 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://i.itworldcanada.com/wp-content/uploads/2022/09/sas-innovate-roadshow-feature-scaled.jpg"
+    width: 2560
+    height: 1707
+    isCached: true
 
 related:
   - title: "AI Art Is Here and the World Is Already Different"
@@ -29,6 +37,6 @@ related:
       domain: nymag.com
     quality: 19
 
-secured: "3qsphISAigHN5GNioSMOhl6KrWgUaJPPPUaqcbHUUTCn4N7+KvyADs4pAlYxPCci3VaRtbZUuChGCqY7WIxLcgce71/3xqwqHnTOQxvNufx9IlFV1pQrabW0uP3/P7nFVDL40TlV7vbSRgj0l07b8Ze+2UbinSeOQ0sqAQfPNftlDUG2x2pGNAEiAXzPy2uWvoyURl2GVQzI2Vj0y3GAqoXe+srTtvBE0XgCDOp9WrGXELW+rnC/wuuJLi92uC5TbHm8aMD8ktffzSLlT4XPvCAyRTGTTyKnsze7Cob7tmALuAvI3LS0zEzqao7Rxs3Slc0m6Pf7oGrMpWObibESHjX4/7omK1ThMFxUm6qFC3k=;O969J4IslTrk19OJH0FAiQ=="
+secured: "nWo7CwRO+13EAUKQevQWpb7DAhKxHRQT3zdmB1sWGqqxk9NT68fSe+eFqLpPSnQF5ejHVe46wcz3w7pbgEndzntU3k0v0roAucBM0W017XBqYQSFUaB/F8MChAAj4AcPPdyV//a58mETVTXoq7sZDziCWghCPlGpd5hPt0YzAIP5iVL8XulXuG5NsRxdjyi4g3fYvS+pdSFweC6W5xU91RqanYHrr3kx0rZkBsr2AFDYiR2uHC+U55VueowF4uGuNpJ7WAdHeHPOjguNYWaYcOrjdDvxMHAWkDFhCI77/zRxEaKVDekKrCBQ1Tj9KFYq9A7BFeSnx40bAbpjsONenMVuk2NCw7G1gfUUXSj0RYg=;bKHHGpuXa9d2wRpBBnL1Rw=="
 ---
 
