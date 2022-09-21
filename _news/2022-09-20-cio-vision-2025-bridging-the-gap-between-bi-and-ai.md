@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2022/09/20/1059630/cio-vision-2025-
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/20/1059630/cio-vision-2025-bridging-the-gap-between-bi-and-ai/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 2029
     height: 1310
     isCached: true
+
+related:
+  - title: "A Model Could Bridge The Gap Between Human Brain And AI"
+    excerpt: "A team of researchers at Mila and IVADO has developed a model of the human brain that could bridge the gap in understanding AI and the biological mechanisms underlying mental disorders The study of brain behavior based on cognition is still ongoing and researchers are trying to study the biological mechanisms that relate to neural"
+    publishedDateTime: 2022-09-21T11:11:00Z
+    webUrl: "https://www.electronicsforu.com/news/a-model-could-bridge-the-gap-between-human-brain-and-ai"
+    type: article
+    provider:
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 39
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2022/09/artificial-intelligence-g8d609af98_640-e1663757672716.jpg"
+        width: 500
+        height: 333
+        isCached: true
 
 secured: "Q2MEh5Hfyss6ilmzP+u5JOUAD8tSuTfeR+Vq5SubAYcq0zaWSM+FVi+IWPy+avUWlVA9D5gMfgD55xAYX9crkcKbWkUP7tHWtDPbb3Pc1fKRCVNpqkQ+AerKmW1tzEBdqDEV+v9jriwPRpwIScL9QHFFINHWF64X4jMnl9qVq3NhMCq2BkxasLJucjRXzO+yP+4UW4xjW+E0JJkuexYpL+wQgFDMjFsuSo03VRHJB+nwMgnEpnnC+dwPpB/3wIyiw+RgdUIzvl6WDMd8numSrWp/zkKMQT9+Eon/f5uLs1TB6k0P4sRzXOoGieAw2oMdDKK06MKiQW6RayKfE42NsWvoq1ZNU6KLWbBl8Zr1pLkVDMIE1NJg8ejiFRj54TyxdVBkCjOJjBqxujISqdizWVDKtguLKc5QSz7T+6QN0ID5BpRkxSId+j6t4O1YY97czFCwKk2+dIHzdVxqePRJnf0f6vwYVZzQgiYNHnIXXlh70zVX/vOTvzi4GSPIgalTx1vWWRDcJU9fIlwuM892pg==;SGehlfnn2Z6GfQC6L5WuRQ=="
 ---

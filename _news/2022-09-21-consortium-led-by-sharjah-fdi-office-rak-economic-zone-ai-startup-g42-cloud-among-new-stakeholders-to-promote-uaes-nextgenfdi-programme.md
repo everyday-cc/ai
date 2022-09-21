@@ -2,9 +2,9 @@
 category: news
 title: "Consortium led by Sharjah FDI Office, RAK Economic Zone, AI startup G42 Cloud among new stakeholders to promote UAE’s ‘NextGenFDI’ programme"
 excerpt: "The initiative is aimed at facilitating entry of global tech companies from all over the world Consortium led by Sharjah FDI Office, RAK Economic Zone, AI startup G42 Cloud among new stakeholders to promote UAE’s ‘NextGenFDI’ programme Citizens School Dubai,"
-publishedDateTime: 2022-09-21T09:27:00Z
-originalUrl: "https://www.arabianbusiness.com/abnews/consortium-led-by-sharjah-fdi-office-rak-economic-zone-ai-startup-g42-cloud-among-new-stakeholders-to-promote-uaes-nextgenfdi-programme"
-webUrl: "https://www.arabianbusiness.com/abnews/consortium-led-by-sharjah-fdi-office-rak-economic-zone-ai-startup-g42-cloud-among-new-stakeholders-to-promote-uaes-nextgenfdi-programme"
+publishedDateTime: 2022-09-21T11:39:00Z
+originalUrl: "https://www.arabianbusiness.com/politics-economics/consortium-led-by-sharjah-fdi-office-rak-economic-zone-ai-startup-g42-cloud-among-new-stakeholders-to-promote-uaes-nextgenfdi-programme"
+webUrl: "https://www.arabianbusiness.com/politics-economics/consortium-led-by-sharjah-fdi-office-rak-economic-zone-ai-startup-g42-cloud-among-new-stakeholders-to-promote-uaes-nextgenfdi-programme"
 type: article
 quality: 0
 heat: 0
@@ -17,6 +17,6 @@ provider:
 topics:
   - AI
 
-secured: "1g2hKskQwbq38kblkyXe1pg4+MEBKNmGgJwF6MmL258jZM6u2LQOlyhvVT8Ia3ld1Gir8/9YTzZl4bHowmM3JriAOaGcwnxTbouP7jIE1tNVCdx3xqKKqsG2SCgITa7pySqJkW1KSA3AyhloMnQbvbxMm1SVf2beo9pBzR+p/u8UIl/g3Iow5exH/Xg22eKqEUTNStutseF4g7D4hK0x5INdrP9g4gly8rArm1/uyLdj4Wx7EGepzKStvoWYnU/LjcU4M6ul2yDSk+9YfAVJyO79aRyQ+bhsaahnXq62Zy6759Uvo41JIxwcNpqSE6rrILiQg4mIkyfOXNFEhrL39645r8zOly4v3SZ0fLpWLcQvCZRdLVcrTe9qY/oFO2yrzdfcfJOl0GUIuGlsL9bHGD1YPEETTXPGlrmLLz5w9z5S/xZGnXRwBa+EVTlHR8Zkbz/itaSuZ2ccWMKKlPKQJrBC6CISLabUBtMR4kTbQ9rxoBkUxfZz3EZRa7tCckJxvYAJN+UVGHkoOnLU6y4QaA==;6Mpin2jSUQNg2Tiu8LNcEQ=="
+secured: "sVLzXP5Pwe9UjbYuSmcnTBBOZ/JMyRdQLS7/0opTvWpyjEgGjbYOAVbolDDinHkH0MaebXyVgpnYQx6QgAzyLwAfOJxPXUIKBUEK+/TW8B0cmAaofVUrWOoOOvtaxTB6+xn3bdPLsQNM3r0Qb6QMgopaHw2EgOVMIrjfb3AfpzjcShs7BTfwgxZuiGG1XsdceIdu5Rg3F2gcTmo+mSSm0tCUh0OLhZO634DRmId+RCMaVyI9eQEgk4YqV/sO9Dd1BhXfreN+j/w3HUe4l7lXUfNbI/e6CX51A7fRLX5GENPOLzV5C0rnfr2CZ9ja0kx+g1KzqYcZ4gUMFrHtpoi48xpUEiS3XZXWKTGDfY3tBoOFnEn7svr2cKa5TfvGRlLWA6MX8B6VAut2jKxZhL+0VWslIT//UBliWRZS3A7joeaHem/N09q8oMlNz52BS5/1Vb2V4l1A2ZRBuTTMpYsw/pdVgM9oiz2USYsNVCVJm26MCJ1CrrjrbbNGKb4ysWCRWpXfxvcnONe0WMzFat8sUg==;Xcte0lESsLOmBnnYihTsdA=="
 ---
 

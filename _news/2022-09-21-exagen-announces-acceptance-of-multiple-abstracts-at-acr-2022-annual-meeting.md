@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Exagen Announces Acceptance of Multiple Abstracts at ACR 2022 Annual Meeting"
-excerpt: "Selected as a Featured Poster and ACR's Ignite Talk is \"Targeted Synovial Tissue RNA-Seq Coupled with Artificial Intelligence Accurately Predicts ... of Patients Requiring Subsequent Biological Therapy,\" part of the core technology powering Exagen's ..."
+excerpt: "Exagen Inc. (Nasdaq: XGN), a leading provider of autoimmune testing solutions, announced today the acceptance of nine abstracts at the 2022 American College of Rheumatology’s (ACR) annual meeting, ACR Convergence 2022,"
 publishedDateTime: 2022-09-20T20:05:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/g28938946/exagen-announces-acceptance-of-multiple-abstracts-at-acr-2022-annual-meeting"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/g28938946/exagen-announces-acceptance-of-multiple-abstracts-at-acr-2022-annual-meeting"
-ampWebUrl: "https://www.benzinga.com/amp/content/28938946"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28938946"
+originalUrl: "https://apnews.com/article/technology-health-covid-artificial-intelligence-arthritis-1af570505072e2c36e19331934f2360f"
+webUrl: "https://apnews.com/article/technology-health-covid-artificial-intelligence-arthritis-1af570505072e2c36e19331934f2360f"
 type: article
-quality: 41
-heat: 41
+quality: 21
+heat: 21
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg"
+  - url: "https://storage.googleapis.com/afs-prod/media/afs:Medium:751921853724/700.png"
     width: 700
-    height: 300
+    height: 450
     isCached: true
 
-secured: "cQzdHhXn5hBwoyJ5NLF7qcehuxQsUIFgnTRHGu5iAs2FY8IhsDjaj1aKOvzqh+BHq8nlZ1eMxJ3a9fYwtwv7gcUkufv3D0kjeNvlmbIeaVAeC4Th3/1H3Dyfh2IbMLh5ao/n9iehKyWvFLIhW7QIGMLyK0+V0b1GgGXIJWkm8hZ0vYcLJaAVKnSbNFawd4kSO698oRalaz71SImulbClngzxNLyAdZlWkKzDOWkRXNmnWtJ2GLeihi4Au5dWQ3ykj5ZZi8bv7sb8ZDH5d1IVmhrmYNnIj1pYUNWCzUuTjtTGFxXBCMgskh7Z1WHu5Mm93cOu8r8S5DhJhBeA2YHQHOvaTNaXmPBpntJeSBjdoAA=;/sbi9CcOTNc/4Bs0dhzktg=="
+secured: "G9OU9TwMUEIvORiVYYqqXTsE0+6dvPSMet9ROnTwCH7iqjbvmx6KaT9XRLwkKX/8SIebs777RPRLxVzCRE4X46zMLbHWfnMUqdeGhaNeSDbTstBahSoWYY8fhzz9UOnVqujvpv2R+hmjQwVLODO4cPAgihZRfEgPrzfF52N9lLqOvZ9U/lxlQX41kFuHYccM8ybeSJQszT0sES0LYtaqNNHzhq9E3kFKPY+rfVRssei38HzgHNDyetAivn4GEsETJFtl3EX2I1hhWwlayuKi8AqVf6gKOPlznJGc6XHH8w9z66w51H9Qdc7NDHUpBSZCg/BMJNwSbZgNFkXJepamaqM4KNOe5M9mZ+6JRPJvUv4=;QXOE5AAmPflVzF47WJW9+A=="
 ---
 

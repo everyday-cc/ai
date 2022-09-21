@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-owners/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://images.thewest.com.au/publication/C-8298561/33ab8ab90c437f19f3113d454c3fed1f7d1f65af-16x9-x0y209w4000h2250.jpg?imwidth=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Drivers Sue Tesla Because Full Self-Driving Isn't Actually Full Self-Driving"
-    excerpt: "Tesla is being sued for misleading the public by calling its controversial driver assistance features \"Autopilot\" and \"Full Self-Driving,\" Reuters reports."
-    publishedDateTime: 2022-09-16T17:08:00Z
-    webUrl: "https://futurism.com/the-byte/drivers-sue-tesla-full-self-driving"
-    ampWebUrl: "https://futurism.com/drivers-sue-tesla-full-self-driving?amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/drivers-sue-tesla-full-self-driving?amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 56
-    images:
-      - url: "https://wp-assets.futurism.com/2022/09/drivers-sue-tesla-full-self-driving-600x315.jpg"
-        width: 600
-        height: 315
         isCached: true
 
 secured: "tdePFSnI3I9fj3P1+PNn9AtjGjQOftj3fZm6gkClCqCbGl10Bql0YT+k/ZxDsrSuhSchYNM2R7HiJkftdqJOZk5tPI/Iub2kYd8xN2AP7QiLEg33i3EufevXkUu7yOKkjON5VRGSpfW5qRJDFAIT4KAUpwfXvMGhC1U4qNb0XYhZo2xnQ4ph/pEsxfkEqm/CF6rTj3PW95vrKUjIyxil83C44H7th6NDG9WQu0vRHQaaX01uE0VwNlvqQe8sDCsFmoOLjmLAF4QnEtPkXvrnRZzxUh/Xqftk+e+bHYlnkrwphGnjCFA6gHC3AW4v3BIUTOR04pyt0wXRA0X/jNnoohJnxV+HnxRq/RGshFFVL+1Ypa28LGLUGtP8bqPEYvzfNj+jisgn056I3oed5XNnS+kXEnjPaaNdYWS4s19k1Hsb1vgft3TYYkDRFcud7aJyBrj1GpARSkbV5et/sR2v3nhL95+MarqFsp8LpZ94hpItcx94yV0LHE/JAbX7MeqHplBGcpyFta8olcmc8qOg1Q==;g3trAcf2mAynL3STDu9Qgw=="

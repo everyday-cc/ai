@@ -64,15 +64,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "As Driverless Cars Falter, Are ‘Driver Assistance’ Systems in Closer Reach?"
-    excerpt: "With investigations and lawsuits over accidents adding skepticism toward fully driverless technology, car companies are betting on systems that take some, but not all, control. Send any friend a ..."
-    publishedDateTime: 2022-09-16T18:58:00Z
-    webUrl: "https://www.nytimes.com/2022/09/16/business/driverless-cars-assistance-systems.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 47
 
 secured: "kKSPZZHovn3EG5H5XxvmdnCsV1IWtjmQ1ytqekzOoL/ADWxkc/9A476623X62g9qusW3Ji3SPAYoYqfCMpj+SLbVyAerQuds1uLXOUPhaa58xl9INM0gDnb6VW9r6QSUEi2Vsw0g+BXtywM81uQSWPQPaWwwO4WsDdgWi7zCep9m4v5FxiyxifuEWGBGBEb7zn0ZAc54d1XhpRLXLyfAwi5OCnU7Hf+3P9ok3N5ABhXiyWAOz6+6il/4buufLobkY58HBOuqhtKIyd7H8/Y7EiXw1th7UxYEkM/t0+vtdquzxT0x3LCIPCKuEilEMme8rJL3JvGMJ+2UZU3MAfnNinzL7pTqaxHm8ZT5ZynEcMrZBQYoNTwBOvcEoMgDx1vlc5jtSGW9qjAiRHuNGi6tFhq7IPiSjYNVLPA4twZRFjw+5GAhLOOHl3zOtKtgkBAnh3Lu6s7g+HuAN9V+G9G/vOYQIYgL0vPDjdHWXsIzxqLI31Yzyz1BvQ367Nm9Sz94ERTYeAPoOPOog7YHMVUulA==;Vqzk9+FyMERMo/h75ONgrA=="
 ---

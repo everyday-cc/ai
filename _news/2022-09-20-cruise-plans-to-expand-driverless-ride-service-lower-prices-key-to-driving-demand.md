@@ -49,15 +49,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "As Driverless Cars Falter, Are ‘Driver Assistance’ Systems in Closer Reach?"
-    excerpt: "With investigations and lawsuits over accidents adding skepticism toward fully driverless technology, car companies are betting on systems that take some, but not all, control. Send any friend a ..."
-    publishedDateTime: 2022-09-16T18:58:00Z
-    webUrl: "https://www.nytimes.com/2022/09/16/business/driverless-cars-assistance-systems.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 47
   - title: "WeRide launches first fully driverless ride of robobus in Mideast"
     excerpt: "The launch of the driverless robobus in Riyadh becomes another important milestone in WeRide's global footprint, attributed to its best-in-class autonomous driving technology and its rich commercial e"
     publishedDateTime: 2022-09-20T04:48:00Z

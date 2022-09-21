@@ -34,20 +34,6 @@ related:
       name: Biometric Companies
       domain: biometricupdate.com
     quality: 23
-  - title: "PixLab launches face biometrics authentication framework for web applications"
-    excerpt: "Machine vision company PixLab has launched its web-based facial authentication framework, FaceIO, which can be integrated on any website via JavaScript."
-    publishedDateTime: 2022-09-16T17:50:00Z
-    webUrl: "https://www.biometricupdate.com/202209/pixlab-launches-face-biometrics-authentication-framework-for-web-applications"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 21
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/10155802/tablet-scaled.jpg"
-        width: 2048
-        height: 1366
-        isCached: true
 
 secured: "FTvngmEY9g1AUKTFL4J4UpiQ4AvENreu8iGXJg5MNzccsA+izI/GEJnUzPTaceLcsiBMBDd+ib4JnkshRCMNGz/zZCvejD8BwHygh/WhziMg4QU/n+gQrQX7T++p/cz8daQHo6k5FYI5DPSPO3r5LwVZWu2hFiFmD3C6RHaEGbRDoAIIdl5n3IZi73fjdmfkr3bAQfN9oVZymYXZZXf+ludGZDUT159IpSMTMv2xVB3Ju6EcisgSFGSOj/kaU2pokaLQO8uWL/il3vLvdVDqj4LbGtzFZ4Vvk2d6NaqSC25Dvfo9KSjPLHg6FRl1JfBKB3/oI1kiZxXmLORTv1DW2Yo2WXuwhHLGr/J5/35i2/4=;gfKda+u+X8dH8kuD1/+c8A=="
 ---

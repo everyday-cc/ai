@@ -29,6 +29,6 @@ related:
       domain: aawsat.com
     quality: 49
 
-secured: "71+ScrHnaEmKS7jQXfZ4pPxrVQYuHemQcF+O9C1N7Yg3RjFmjlq1df+je+JKjJ6LZiwtQrxKGbGdwuR89GdllQcfzWAk4fszGulzlBX8satsT2kCYvJbEJAoyKY4fAbfuZ9YR+bQCK0ZFKQin/zPUlJBVnWr7RI754GSkt5AvssBhUcSq1KO2KMgxzHK5mhB33aIr8wXyAfabYrDkkaMwZ4cADo1ytAY5tgNX4CY0z08n6CaszzF9aFKemlU////IeuLHh/8XwPEWVKmxITnq42rLuwbraG+iiLV+mNMsdZGns6QMfxOqDYTK/ERyCY+bjonR6+5+8u9c1ZBKrjtJ6Prdh+D4/ErbNxLvX3oytY=;aiW0EslAldt6vdbn6P0Daw=="
+secured: "fLOcepzxpbbTFY0HSw+OSNbLMRfcNzllWFe5thFS/5+zqYXY3FJWyFYlivMl04HEnm7zXgok6aHOVUmXAlHzpirReKETiL83hi7tfAzef42Q5I/hP3IY74RbXpSiFrzhFdsofxEbRCByRJerEs/sT7mKjpvKIrORMMKyEHFFC9quW6O5/mvzQStD02/hg7my3jjsEuthmXey5rMuAXFTTHLDvrAkXfxtap4BBPxfg2nQeQ3Zmt7mFtImUWsdSY7/GjQbN1tkbfjnQfHhTgmBIAw+ais88QHxUunGQmljfKsNY8Cce65DqICVyGYJtGZmMxt3VYBrMOKa84zshoZh7kKj0CUK8sQV0nYzXiH2n6c=;d24aYOTechAdNIuEtOR9Jg=="
 ---
 

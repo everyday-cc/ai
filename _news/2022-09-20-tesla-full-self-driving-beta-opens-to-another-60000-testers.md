@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Drivers Sue Tesla Because Full Self-Driving Isn't Actually Full Self-Driving"
-    excerpt: "Tesla is being sued for misleading the public by calling its controversial driver assistance features \"Autopilot\" and \"Full Self-Driving,\" Reuters reports."
-    publishedDateTime: 2022-09-16T17:08:00Z
-    webUrl: "https://futurism.com/the-byte/drivers-sue-tesla-full-self-driving"
-    ampWebUrl: "https://futurism.com/drivers-sue-tesla-full-self-driving?amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/drivers-sue-tesla-full-self-driving?amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 56
-    images:
-      - url: "https://wp-assets.futurism.com/2022/09/drivers-sue-tesla-full-self-driving-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "8hnRvHk7Wh42ticDwyxLOeZ6HPejRCnDwVXHmAs7kEDRIHGnpob4IxI5j+jGU5Xt0uRV9lg2VK17vGpLmftKDSlDo70yG/EcMDm582K3FomGRgf0XRH/EQkap2mf+239+1E1SyDWlF9qMqwb7ZSZeVCVYPoKSQhHypDqc9f+sScU96vxJJZ6TCcPEoQJSuixu0dOSmUYFU+MrilCIKlxzW6bgz8j4lioN4KEGilCdApq27aNpwJR/Kfvzkq5WjUtxDR2/GLyoJ+QpzEZCns+Y4CTOK0Sz3qIx59qAGM8YPHt/DlmONrd+d+3UeYmJniAit9p+8V8PQcOT3zp45yzOvTkRXDOC6yRbTYs9kNWJ0mAnkt5YZXk4+7fvXpTkHTJtlcMU8aOLiQugPuXw0nIwZifNv1qXS7z86REBu1/M51z8a2WeyHS19AcV+qss8OZwLfItJmZFvYLGkW7635ORiryriNTvbUCEHpjoE0srR9bOl7kb27cadzBTz0YPW9iu+VrJbq0c+ZadZLp8g4row==;DMg7a53neaYQMhJROe+kcA=="
 ---

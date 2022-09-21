@@ -67,15 +67,6 @@ related:
         width: 696
         height: 436
         isCached: true
-  - title: "York University study: Even smartest AI models don’t match human visual processing"
-    excerpt: "Deep convolutional neural networks (DCNNs) don’t see objects the way humans do – using configural shape perception – and that could be dangerous in real-world AI applications, says Professor James Elder,"
-    publishedDateTime: 2022-09-16T18:32:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/965036"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 13
 
 secured: "FpLnl96REWA96sF/HU4BJ8VR+D+lPcNu9tz8ZCOlkeflhAMtb10NFlLIQyD47eyUVAqkDmlIfGpph/f+soiV71tMEN1aQNMVyogq7qX0f7tXbRtVkrxzZNIryeCKbgRiMvMo3J5/P0S4zELyM+076Seq4mdYUytnt3bjcJ+W3cl3DGXU5/qASpvoh+mVzkY0M13aYOdTK4oe3FdeSnccvVSrNUisZGiNuvoAYaD3p10CHHmtCl+96J69pYDXN26SxxrCWqtEf2r5PuBpM/yISX8BKG0XEQnu9DNO3toOKOac2tidhSB8rSzrkU51rx57k6WMLNilaAMPrZqQLRGOWA+Cgtdi5BzFYEX3NS6Oidc=;RygAMGSPMLB4/pK70e+SdQ=="
 ---

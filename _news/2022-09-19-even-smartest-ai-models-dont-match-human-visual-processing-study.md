@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.in/business/news/even-smartest-ai-models
 cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/amp_articleshow/94293780.cms"
 type: article
 quality: 61
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -67,15 +67,6 @@ related:
         width: 696
         height: 436
         isCached: true
-  - title: "York University study: Even smartest AI models don’t match human visual processing"
-    excerpt: "Deep convolutional neural networks (DCNNs) don’t see objects the way humans do – using configural shape perception – and that could be dangerous in real-world AI applications, says Professor James Elder,"
-    publishedDateTime: 2022-09-16T18:32:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/965036"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 13
 
 secured: "gZXRwCZCUGVeXnBUjXal6RcxhR+arewMFLAtuLzg/x3yyhOWugtqvHvhyItL0/+3Ui13l52ItiO3eBM4FpNjvo53TD2pSekHywG1YsnTITJewxMmLBU4dY08hwYRjg+SFX8/mN+nXy7B4jXRANLfJWfHhZ7YUvc3I5BOA5WAqK2aXIddvQRhb+5SriKDNkNczsD2Ut8BLnlW1WDXksmyXUYrrW4ONLkKkKggokfCS1ICO4PKzLj11CG/V6OCIzyIwmdEf5fYaimGcbRk7EMXoAGgxmVAxlvb8ykFxmbChvvAfHjaDtjQguPXMSWcEwmnba8SJ7pNt7kHdBcOW0NNe5H3pQ6NDbFYI0wh/LbK0H0PExWCgM401+0Xu8bLVhR9mH33f5NO4imRo1aHLCHOXLiL90h5lCduYqVHrXAqBpBuuQkcd79s5kXoOSa8O/CgviVfCLo4mGCqoTuaHYd90unJjQverzayp3GliaumfCeKCbC0cngcE81XdDOfxGTapodgDT8jNYWmmW0U4z4NhQ==;IJEIhDEK4vK0SyWDOl9/vQ=="
 ---

@@ -49,6 +49,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Salesforce unveils new real-time data platform Genie"
+    excerpt: "Salesforce has announced the arrival of Salesforce Genie, its new hyperscale data platform that creates real-time customer profiles to help businesses deliver personalized experiences. Detailing the platform at its Dreamforce ’22 event,"
+    publishedDateTime: 2022-09-21T10:17:00Z
+    webUrl: "https://www.itpro.co.uk/marketing-comms/marketing-automation/369113/salesforce-unveils-new-real-time-data-platform-genie"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 54
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1588676357/SalesforceOffice.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Salesforce Genie is now generally available to power real-time CRM experiences"
     excerpt: "Salesforce today announced the general availability of the Genie customer data platform (CDP), a high-speed, hyperscalar data lake infrastructure to bring real-time insights from different systems to the Salesforce Customer 360 platform."
     publishedDateTime: 2022-09-20T12:01:00Z
@@ -58,6 +72,20 @@ related:
       name: IT World Canada
       domain: itworldcanada.com
     quality: 47
+  - title: "Salesforce announces Genie – A new data platform powering the world’s first real-time CRM"
+    excerpt: "Genie makes every part of the Customer 360 real-time, so every business can deliver magical customer experiences"
+    publishedDateTime: 2022-09-21T10:25:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/salesforce-announces-genie-a-new-data-platform-powering-the-worlds-first-real-time-crm-rxi6xxub"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 47
+    images:
+      - url: "https://static.zawya.com/version/c:NDBjYTVlNmEtYTAwOS00:NmVkMTAw/59fabaf1-98aa-4b47-9be6-d5853d61645b-jfif.jfif?f=3%3A2"
+        width: 708
+        height: 472
+        isCached: true
   - title: "Salesforce Genie aims to release customer data from the marketing bottle"
     excerpt: "Salesforce is touting a real-time upgrade to the customer data platform underlying many of its products, a move it says will allow enterprises to better personalize interactions with customers."
     publishedDateTime: 2022-09-20T12:03:00Z
