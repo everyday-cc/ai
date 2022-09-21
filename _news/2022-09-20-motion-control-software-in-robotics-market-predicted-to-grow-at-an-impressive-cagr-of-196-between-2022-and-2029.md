@@ -25,6 +25,31 @@ images:
     isCached: true
 
 related:
+  - title: "Emotion Detection and Recognition Market is Poised to Reach USD 53.2 Billion at a 39.20% CAGR by 2030 - Report by Market Research Future (MRFR)"
+    excerpt: "According to a comprehensive research report by Market Research Future (MRFR), \"Emotion Detection and Recognition Market, By Technology, Software Tool, Service,"
+    publishedDateTime: 2022-09-21T14:11:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28949366/emotion-detection-and-recognition-market-is-poised-to-reach-usd-53-2-billion-at-a-39-20-cagr-by-20"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28949366"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28949366"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg"
+        width: 700
+        height: 300
+        isCached: true
+  - title: "Sales Intelligence Software Market is Expected to Escalate at a CAGR of 10.4% from 2022 to 2032 | FMI"
+    excerpt: "The sales intelligence software market is expected to grow at a CAGR of 10.4% between 2022 and 2032, from USD 3.1 billion to USD 8.4 billion. Because of increased investments by various companies in emerging technologies such as AI and machine learning,"
+    publishedDateTime: 2022-09-21T13:39:00Z
+    webUrl: "https://techbullion.com/sales-intelligence-software-market-is-expected-to-escalate-at-a-cagr-of-10-4-from-2022-to-2032-fmi/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 4
   - title: "Automotive Artificial Intelligence Market Report 2022: Rising Industrial Automation to Drive Growth - ResearchAndMarkets.com"
     excerpt: "The global automotive artificial intelligence market size is projected to grow from USD 2.3 Billion in 2022 to USD 7.0 Billion by 2027, it is expected to grow at a CAGR of 24.1% from 2022 to 2027. The key factors contributing to the growth of the automotive artificial intelligence market include the growing adoption of ADAS technology by OEMs and the increasing use of AI to make buying decisions."
     publishedDateTime: 2022-09-19T09:33:00Z

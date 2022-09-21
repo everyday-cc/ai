@@ -75,6 +75,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 13
+  - title: "Artificial Intelligence in Gaming Market Size | SWOT Analysis, Growth Factors, Top Key Players, Latest Trends, Industry Share and Forecast to 2028"
+    excerpt: "Global Artificial Intelligence in Gaming Market The global Artificial Intelligence in Gaming market size is projected to reach USD million by 2028, from USD million in 2021, at a CAGR of % during 2022-2028."
+    publishedDateTime: 2022-09-21T11:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-gaming-market-size-swot-analysis-growth-factors-top-key-players-latest-trends-industry-share-and-forecast-to-2028-2022-09-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 9
 
 secured: "YwdOfeEwReqKPply3eJffdLs2nYcA8ahSXXIxuCHNEexUM/klj8eJMqP/dBroiBBXIyL4XKDkqjivOYg8f+OTXLz7pPv8wHnx2f8V2+I5O/UZWrsE0rCQqpTuR39IgWqreGXkzUVN+LKWspYm/LGA+Yg2O1vHeDpMkGiCAMwrCj+nKHydO0G+lX/Snv1YuqUYu6CB9DF7G+z2G1ietjA6rtJrD4EEG+DVn6uGba/njA0HY/JUl62wJyf65OJAcd3pDCDGZRpVXdMqDhJDNz1a5vmVT51l1XAzHfsVazn4/aX+5RCmOP211Y8IXHrj2lqCZk+N/Xa/1UqOq5v0T+8230dtLErUznFYxrl2/RaV2k=;szbr5pLKZAgdfT1prw6LEA=="
 ---

@@ -1,19 +1,22 @@
 ---
 category: news
 title: "Sustainable and AI Concrete Startup AICrete Announces $4 Million Seed Funding"
-excerpt: "AICrete, the only recipe-as-a-service platform optimizing local materials for cleaner and more cost-efficient concrete, announced today that"
-publishedDateTime: 2022-09-21T13:55:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/sustainable-and-ai-concrete-startup-aicrete-announces-4-million-seed-funding-301629774.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/sustainable-and-ai-concrete-startup-aicrete-announces-4-million-seed-funding-301629774.html"
+excerpt: "Through use of AI, AICrete is poised to reduce concrete emissions by up to 35% and drastically increase industry profit margins. RICHMOND, Calif. , Sept. 21, 2022 /PRNewswire/ --"
+publishedDateTime: 2022-09-21T15:38:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/09/21/9678215.htm"
+webUrl: "https://it.tmcnet.com/news/2022/09/21/9678215.htm"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
-secured: "/EU4ZgLY4pRpTZmbLNNPnzs9ou3pSVz+oEaYm8u99S3dCpEovv1DGI/bnQots0NaWomaRbR4/hNvYj/lQMmj/upslxU/h45az4vFdWvB55lZZ8pnHlKyjHtmupyzkALLJuL3Ua3XIDjwfYC/C9YefISgGH5uI/AhCYlNAhb5oZLLmTtpqmNuVZU3IUJfcWKT+1ptXdSj4cQOJRs/McvbP/ANP4GWBJx1RCzZu+qF8YZvb3BCVYkxsB+BDfZtJDtnv1I57bZTeREpu9oH9J9E+BTFKhOrwI2hHfB5IUV1Ai3jPF3eYP1qZlNXeVh+NrdpsCpH2+XsQs+OXanpvvPBh2ZOWgZ2z5dxHA6SW3LfOeA=;8MFjaXF3PqSMn6Jzoguunw=="
+secured: "8bkvUzWDJPk1PDP4K8AfaRaqVnAcC2bw439uz1rEjUYOowhOFYRPraXHrBFvXsb7hGlP9AwFIpVlDP9vKkSieEBJ9BmDLHXRtNM0vV9RFSLuEOHSjEqvkj54TH6QFn+b1l5YNqLvrTH9zDmpWd6sq60U/Ft7RyqvvRPMUzD25XbKwaVKmXtIVPkYfSZNvcIuJ9Znkha9RrRtjoQJDAnMUbP8QwV3ScdUp5ey/w/JjpCZHVwSVlFzH9T5ZG9hKuo5twYZA+nSsPwe/Uox4SXZDYWhIL27FVByyLioTwKOEdSd+3DnZ8XhbH/TXFSz3L22SzftTBkBC97Wo0QQ4JIDgaunwEa07x2IZydyXurXWPo=;btg0RRfUBrTS9LP68esFXg=="
 ---
 

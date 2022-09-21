@@ -35,20 +35,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Self-Driving & Driverless Cars Market Application Household,Commercial Sales, Revenue, Manufacturers, Suppliers, Key Players 2022 to 2028"
-    excerpt: "One of the industries with the greatest growth is the \" Self-Driving & Driverless Cars Market .\" It is extremely important for Self-Driving & Driverless Cars Market players to first carry out a comprehensive Self-Driving & Driverless Cars Market analysis."
-    publishedDateTime: 2022-09-16T20:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-driverless-cars-market-application-householdcommercial-sales-revenue-manufacturers-suppliers-key-players-2022-to-2028-2022-09-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "WeRide launches first fully driverless ride of robobus in Mideast"
     excerpt: "The launch of the driverless robobus in Riyadh becomes another important milestone in WeRide's global footprint, attributed to its best-in-class autonomous driving technology and its rich commercial e"
     publishedDateTime: 2022-09-20T04:48:00Z

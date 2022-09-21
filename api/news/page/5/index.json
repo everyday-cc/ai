@@ -2,6 +2,135 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-09-15-deep-learning-from-a-dynamical-viewpoint.md",
+      "title": "Deep learning from a dynamical viewpoint",
+      "excerpt": "NUS mathematicians have developed a new theoretical framework based on dynamical systems to understand when and how a deep neural network can learn arbitrary relationships. Despite achieving ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-09-deep-dynamical-viewpoint.html",
+      "originalUrl": "https://phys.org/news/2022-09-deep-dynamical-viewpoint.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/deep-learning-from-a-d.jpg",
+          "width": 1155,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-09-deep-dynamical-viewpoint.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-deep-dynamical-viewpoint.amp",
+      "publishedDateTime": "2022-09-14T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-endoluxe-and-synopic-form-partnership-to-develop-industry-leading-endoscopic-visualization-technology-with-embedded-artificial-intelligence.md",
+      "title": "Endoluxe and Synopic Form Partnership to Develop Industry Leading Endoscopic Visualization Technology With Embedded Artificial Intelligence",
+      "excerpt": "Endoluxe is proud to announce that it has entered into a development agreement with Synopic to realize the advanced technology synergies of both organizations. With Synopic’s focus on merging image sensing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/endoluxe-and-synopic-form-partnership-to-develop-industry-leading-endoscopic-visualization-technology-with-embedded-artificial-intelligence-2022-09-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/endoluxe-and-synopic-form-partnership-to-develop-industry-leading-endoscopic-visualization-technology-with-embedded-artificial-intelligence-2022-09-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-sensormatic-solutions-by-johnson-controls-expands-computer-vision-offering-to-address-retails-most-pressing-challenges.md",
+      "title": "Sensormatic Solutions by Johnson Controls Expands Computer Vision Offering to Address Retail’s Most Pressing Challenges",
+      "excerpt": "Johnson Controls brand Sensormatic Solutions’ innovative technology architecture offers flexible, computer-vision-powered analytics to facilitate next-generation loss-prevention solutions, traffic monitoring,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/sensormatic-solutions-by-johnson-controls-expands-computer-vision-offering-to-address-retails-most-pressing-challenges-2022-09-14-16159428",
+      "originalUrl": "https://www.marketwatch.com/press-release/sensormatic-solutions-by-johnson-controls-expands-computer-vision-offering-to-address-retails-most-pressing-challenges-2022-09-14-16159428",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-announcing-visual-conversation-builder-for-amazon-lex.md",
       "title": "Announcing Visual Conversation Builder for Amazon Lex",
       "excerpt": "Amazon Lex is a service for building conversational interfaces using voice and text. Amazon Lex provides high-quality speech recognition and language understanding capabilities. With Amazon Lex, you can add sophisticated, natural language bots to new and existing applications. Amazon Lex reduces multi-platform",
@@ -397,6 +526,40 @@
       ]
     },
     {
+      "path": "_news/2022-09-14-existential-catastrophe-caused-by-ai-is-likely-unavoidable-deepmind-researcher-warns.md",
+      "title": "‘Existential catastrophe’ caused by AI is likely unavoidable, DeepMind researcher warns",
+      "excerpt": "Researchers from the University of Oxford and Google’s artificial intelligence division DeepMind have claimed that there is a high probability of advanced forms of AI becoming “existentially ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/independentpremium/uk-news/artificial-intelligence-deepmind-ai-catastrophe-b2168120.html",
+      "originalUrl": "https://www.independent.co.uk/independentpremium/uk-news/artificial-intelligence-deepmind-ai-catastrophe-b2168120.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records.md",
       "title": "NVIDIA’s New H100 GPU Smashes Artificial Intelligence Benchmarking Records",
       "excerpt": "Goodson, dives in as the technical community has been looking forward to seeing how NVIDIA’s monster Hopper H100 Tensor Core GPU would perform ever since its March announcement at GTC2022.",
@@ -544,49 +707,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-14-existential-catastrophe-caused-by-ai-is-likely-unavoidable-deepmind-researcher-warns.md",
-      "title": "‘Existential catastrophe’ caused by AI is likely unavoidable, DeepMind researcher warns",
-      "excerpt": "Researchers from the University of Oxford and Google’s artificial intelligence division DeepMind have claimed that there is a high probability of advanced forms of AI becoming “existentially ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/tech/artificial-intelligence-deepmind-ai-catastrophe-b2166954.html",
-      "originalUrl": "https://www.independent.co.uk/tech/artificial-intelligence-deepmind-ai-catastrophe-b2166954.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2022/09/14/11/deepmind%20AI%20threat.jpg?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-14-researchers-combine-data-science-and-machine-learning-techniques-to-improve-traditional-mri-image-reconstruction.md",
       "title": "Researchers combine data science and machine learning techniques to improve traditional MRI image reconstruction",
       "excerpt": "University of Minnesota Twin Cities scientists and engineers have found a way to improve the performance of traditional Magnetic Resonance Imaging (MRI) reconstruction techniques, allowing for faster MRIs to improve health care.",
@@ -618,6 +738,41 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-microsoft-aws-feud-over-1b-federal-geospatial-intelligence-contract.md",
+      "title": "Microsoft, AWS Feud Over $1B Federal Geospatial-Intelligence Contract",
+      "excerpt": "Microsoft is protesting a $1 billion five-year contract the National Geospatial-Intelligence Agency gave ... Seattle-based AWS and the Springfield, Va.-based NGA for comment but had not heard ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/cloud/microsoft-aws-feud-over-1b-federal-geospatial-intelligence-contract",
+      "originalUrl": "https://www.crn.com/news/cloud/microsoft-aws-feud-over-1b-federal-geospatial-intelligence-contract",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -841,6 +996,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-14-attacking-neural-networks-could-lead-to-a-better-understanding-of-ai.md",
+      "title": "Attacking Neural Networks Could Lead to a Better Understanding of AI",
+      "excerpt": "A team at Los Alamos National Laboratory has developed a novel approach for comparing neural networks that looks within the “black box” of artificial intelligence to help researchers understand neural network behavior. Neural networks recognize ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/informatics/news/attacking-neural-networks-could-lead-to-a-better-understanding-of-ai-365650",
+      "originalUrl": "https://www.technologynetworks.com/informatics/news/attacking-neural-networks-could-lead-to-a-better-understanding-of-ai-365650",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/365650/attacking-neural-networks-could-lead-to-a-better-understanding-of-ai-365650-640x360.jpg?cb=20220914",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-microsoft-shares-whats-next-in-machine-learning-at-nvidia-gtc.md",
       "title": "Microsoft shares what's next in machine learning at NVIDIA GTC",
       "excerpt": "Finding scalable solutions for today’s global challenges requires forward-thinking, transformative tools. As environmental, economic, and public health concerns mount, Microsoft Azure is addressing these challenges head on with high-performance computing (HPC), AI, and machine learning. ",
@@ -890,260 +1088,6 @@
       "topics": [
         "Microsoft AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-saudi-data-and-ai-authority-and-ministry-of-energy-partner-with-ibm.md",
-      "title": "Saudi Data and AI Authority and Ministry of Energy partner with IBM",
-      "excerpt": "This is the first use case as part of a strategic agreement with SDAIA & Ministry of Energy to partner with IBM to reduce carbon emissions across the country. The AI technology developed with IBM’s will enable the detection and management of Carbon ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/saudi-data-and-ai-authority-and-ministry-of-energy-partner-with-ibm-f53phycf",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/saudi-data-and-ai-authority-and-ministry-of-energy-partner-with-ibm-f53phycf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/version/c:MzRiYmNiMGMtZmEyMy00:NGM4NzMx/r6__8259-2-jpg.JPG?f=3%3A2",
-          "width": 860,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T01:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-deep-learning-chip-market-new-innovations-trends-market-size-research-global-share-and-growth-factor-and-forecast-2022-2031.md",
-      "title": "Deep Learning Chip Market New Innovations Trends, Market Size, Research, Global Share and Growth Factor and Forecast: 2022-2031",
-      "excerpt": "The total information and communication technology goods (including computers, peripheral devices, communication",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-new-innovations-trends-market-size-research-global-share-and-growth-factor-and-forecast-2022-2031-2022-09-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-new-innovations-trends-market-size-research-global-share-and-growth-factor-and-forecast-2022-2031-2022-09-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T00:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-best-things-you-can-do-to-slow-cognitive-decline-revealed.md",
-      "title": "Best Things You Can Do to Slow Cognitive Decline Revealed",
-      "excerpt": "The decline in cognitive abilities as we get older is thought to be to do with changes to our brain structures that take place over time. It is estimated that one in nine adults in the U.S. has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/brain-aging-dementia-alzheimers-multivitamin-study-prevention-1742762",
-      "originalUrl": "https://www.newsweek.com/brain-aging-dementia-alzheimers-multivitamin-study-prevention-1742762",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2115680/brain-drawing.jpg",
-          "width": 1800,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/brain-aging-dementia-alzheimers-multivitamin-study-prevention-1742762?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brain-aging-dementia-alzheimers-multivitamin-study-prevention-1742762?amp=1",
-      "publishedDateTime": "2022-09-14T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-healthcare-ai-market-outlook-2022-and-forecast-to-2030-by-apple-ge-healthcare-google-deepmind-health.md",
-      "title": "Healthcare AI Market Outlook 2022 and Forecast to 2030 | By -Apple, Ge Healthcare, Google Deepmind Health",
-      "excerpt": "We will analyze the huge rivalry in the Healthcare AI market by association and take a gander at its singular construction, business portrayal, item portfolio, basic financials, and so forth. Alongside market improvement frameworks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-outlook-2022-and-forecast-to-2030-by--apple-ge-healthcare-google-deepmind-health-2022-09-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-outlook-2022-and-forecast-to-2030-by--apple-ge-healthcare-google-deepmind-health-2022-09-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T23:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-how-ai-and-machine-learning-will-impact-the-future-of-healthcare.md",
-      "title": "How AI And Machine Learning Will Impact The Future Of Healthcare",
-      "excerpt": "Global healthcare is facing enormous challenges, but artificial intelligence and machine learning hold the secret to transforming our ailing health system into a more equitable, efficient way to care for patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/14/how-ai-and-machine-learning-will-impact-the-future-of-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/14/how-ai-and-machine-learning-will-impact-the-future-of-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/632164db23de9900defe585a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/14/how-ai-and-machine-learning-will-impact-the-future-of-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/09/14/how-ai-and-machine-learning-will-impact-the-future-of-healthcare/amp/",
-      "publishedDateTime": "2022-09-13T22:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

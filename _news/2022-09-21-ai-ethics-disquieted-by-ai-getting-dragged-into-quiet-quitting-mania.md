@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-21T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2022/09/21/ai-ethics-disquieted-by-ai-getting-dragged-into-quiet-quitting-mania/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2022/09/21/ai-ethics-disquieted-by-ai-getting-dragged-into-quiet-quitting-mania/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: Forbes

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-21T13:24:00Z
 originalUrl: "https://www.thefastmode.com/expert-opinion/27652-lifemote-at-dtw-2022-next20-startup-leverages-cloud-ai-for-instant-wi-fi-insights"
 webUrl: "https://www.thefastmode.com/expert-opinion/27652-lifemote-at-dtw-2022-next20-startup-leverages-cloud-ai-for-instant-wi-fi-insights"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Deep

@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "New tool overcomes major hurdle in clinical AI design"
-    excerpt: "Most clinical AI models rely on laborious human annotation to make accurate diagnoses. A new AI model overcomes this hurdle."
-    publishedDateTime: 2022-09-16T21:43:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/09/220915123653.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "New AI tool may help find unknown proteins and design new ones"
     excerpt: "Artificial Intelligence (AI), machine learning and deep learning have become ubiquitous terms in business, commerce and technology."
     publishedDateTime: 2022-09-18T21:11:00Z

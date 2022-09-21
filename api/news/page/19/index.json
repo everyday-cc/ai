@@ -2,6 +2,299 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-09-02-ai-software-the-bridge-from-data-to-insights.md",
+      "title": "AI software: The bridge from data to insights",
+      "excerpt": "These might include AI analytics toolkits, development and deployment toolkits, end-to-end distributed AI toolkits, reference toolkits and AutoML toolkits. Also: domain specific toolkits ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-software-the-bridge-from-data-to-insights/",
+      "originalUrl": "https://venturebeat.com/ai/ai-software-the-bridge-from-data-to-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1293487802-I-am-3D-animator-artist.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-software-the-bridge-from-data-to-insights/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-software-the-bridge-from-data-to-insights/amp/",
+      "publishedDateTime": "2022-09-01T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-02-radius-ai-brings-edge-ai-to-retail-wins-innovation-award.md",
+      "title": "Radius AI brings edge AI to retail, wins Innovation Award",
+      "excerpt": "Radius AI won the AI Innovation Awards' Edge AI category for its technology that equips retailers with real-time customer insights.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/radius-ai-brings-edge-ai-to-retail-wins-innovation-award/",
+      "originalUrl": "https://venturebeat.com/ai/radius-ai-brings-edge-ai-to-retail-wins-innovation-award/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-retail-store_customers_convenience-store_158313046-e1662051971156.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/radius-ai-brings-edge-ai-to-retail-wins-innovation-award/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/radius-ai-brings-edge-ai-to-retail-wins-innovation-award/amp/",
+      "publishedDateTime": "2022-09-01T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-02-motley-fool-meet-the-brains-of-the-self-driving-revolution.md",
+      "title": "Motley Fool: Meet the Brains of the Self-Driving Revolution",
+      "excerpt": "Meet the Brains of the Self-Driving Revolution Investing Humans, animals, and machines. We all require a brain",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com.au/free-stock-report/sa-meet-the-brains-of-the-self-driving-revolution/",
+      "originalUrl": "https://www.fool.com.au/free-stock-report/sa-meet-the-brains-of-the-self-driving-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fool.com.au/wp-content/uploads/2022/09/self-driving-revolution-brains-copy.png",
+          "width": 788,
+          "height": 590,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motley Fool Australia",
+        "domain": "fool.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-02-instacart-is-acquiring-ai-powered-pricing-and-promotions-platform-eversight.md",
+      "title": "Instacart is acquiring AI-powered pricing and promotions platform Eversight",
+      "excerpt": "Instacart is acquiring Eversight, an AI-powered pricing and promotions platform for Consumer Packaged Goods (CPG) brands and retailers, the company announced on Thursday. The financial terms of the deal were not disclosed.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/01/instacart-is-acquiring-ai-powered-pricing-and-promotions-platform-eversight/",
+      "originalUrl": "https://techcrunch.com/2022/09/01/instacart-is-acquiring-ai-powered-pricing-and-promotions-platform-eversight/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-496871326.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/01/instacart-is-acquiring-ai-powered-pricing-and-promotions-platform-eversight/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/01/instacart-is-acquiring-ai-powered-pricing-and-promotions-platform-eversight/amp/",
+      "publishedDateTime": "2022-09-01T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-us-bans-chipmakers-from-sending-ai-training-chips-to-china-and-russia.md",
+      "title": "U.S. Bans Chipmakers From Sending AI Training Chips to China and Russia",
+      "excerpt": "This restriction apparently includes any chip with capabilities on par with the A100 or A100X, and also impacts the company’s ability to develop its more advanced AI chips that were set for ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/ai-chips-russia-china-amd-nvidia-1849484950",
+      "originalUrl": "https://gizmodo.com/ai-chips-russia-china-amd-nvidia-1849484950",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-learn-how-amazon-sagemaker-clarify-helps-detect-bias.md",
+      "title": "Learn How Amazon SageMaker Clarify Helps Detect Bias",
+      "excerpt": "Bias detection in data and model outcomes is a fundamental requirement for building responsible artificial intelligence (AI) and machine learning (ML) models. Unfortunately, detecting bias isn’t an easy task for the vast majority of practitioners due to the large number of ways in which it can be measured",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/learn-how-amazon-sagemaker-clarify-helps-detect-bias/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/learn-how-amazon-sagemaker-clarify-helps-detect-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/01/Featured-images-for-ML-9368.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T09:06:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-newest-robotic-arm-on-iss-successfully-moves-payload-in-space.md",
       "title": "Newest robotic arm on ISS successfully moves payload in space",
       "excerpt": "The European Robotic Arm (ERA) successfully completed the first transfer following commands from cosmonauts inside the Space Station last week. Teams in Moscow, Russia and at ESA's control room in ...",
@@ -879,298 +1172,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-us-restricts-sale-of-ai-training-chips-to-china.md",
-      "title": "US restricts sale of AI training chips to China",
-      "excerpt": "The US government has imposed new export restrictions on high-end computers chips used to conduct AI research, citing possible military applications for the technology. Two leading manufacturers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/9/1/23332399/us-restricts-export-ai-training-chips-nvidia-amd-china",
-      "originalUrl": "https://www.theverge.com/2022/9/1/23332399/us-restricts-export-ai-training-chips-nvidia-amd-china",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/t7rBiOJ-78YBRqxP4rDW_qgy-yQ=/0x84:1920x1089/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23987780/dgx_station_sideoff_v1.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-report-conversational-ai-reduces-barriers-to-mental-health-treatment.md",
-      "title": "Report: Conversational AI reduces barriers to mental health treatment",
-      "excerpt": "In a study by Botco AI, 100% of respondents said they expanded virtual behavioral support, including conversational AI, during the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/report-conversational-ai-reduces-barriers-to-mental-health-treatment/",
-      "originalUrl": "https://venturebeat.com/ai/report-conversational-ai-reduces-barriers-to-mental-health-treatment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_734436697-e1510716853185.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/report-conversational-ai-reduces-barriers-to-mental-health-treatment/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/report-conversational-ai-reduces-barriers-to-mental-health-treatment/amp/",
-      "publishedDateTime": "2022-09-01T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever.md",
-      "title": "In The Face Of Recession, Investing In AI Is A Smarter Strategy Than Ever",
-      "excerpt": "By making a few smart investments today, businesses can emerge from any oncoming recession, more effective and efficient than they were before.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5fc7e538b6f0e3645ec8ff41/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever/amp/",
-      "publishedDateTime": "2022-09-01T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-do-conversational-ai-systems-understand-humor.md",
-      "title": "Do Conversational AI Systems Understand Humor?",
-      "excerpt": "Can you do something?” I asked a conversational AI system. “I’m happy to do what I can, in any way that I can,” replied the machine. Over the whole of human history, many researchers and scientists have been investigating humor as a human phenomenon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/do-conversational-ai-systems-understand-humor/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/do-conversational-ai-systems-understand-humor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/630f5fcdea3acb1b4f6f8744/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/do-conversational-ai-systems-understand-humor/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/01/do-conversational-ai-systems-understand-humor/amp/",
-      "publishedDateTime": "2022-09-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-cognitive-services-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-microsoft-google-aws.md",
-      "title": "Cognitive Services Market 2022 Disclosing Latest Trends and Advancement Outlook 2028 – Microsoft, Google, AWS",
-      "excerpt": "Top Companies in the global Cognitive Services market are IBM, Microsoft, Google, AWS, Baidu, Nuance Communications, Qualcomm Technologies, SAS, Apple, TCS, Nokia, Expert System, Verbio Technologies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-microsoft-google-aws-2022-09-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-microsoft-google-aws-2022-09-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-brain-cells-that-give-humans-higher-cognitive-abilities-over-other-animals-are-also-linked-to-neurological-disorders-like-schizophrenia-autism.md",
-      "title": "Brain cells that give humans higher cognitive abilities over other animals are also linked to neurological disorders like schizophrenia, autism and epilepsy, a new study finds",
-      "excerpt": "Scientists have identified an immune brain cell unique to humans that gives us higher cognitive abilities over other animals, but what makes us specials also leaves us vulnerable to neurological ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11166047/Brain-cells-humans-higher-cognitive-abilities-linked-neurological-disorders.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11166047/Brain-cells-humans-higher-cognitive-abilities-linked-neurological-disorders.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/08/31/20/61921267-0-image-a-23_1661973353654.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-11166047/amp/Brain-cells-humans-higher-cognitive-abilities-linked-neurological-disorders.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11166047/amp/Brain-cells-humans-higher-cognitive-abilities-linked-neurological-disorders.html",
-      "publishedDateTime": "2022-09-01T03:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

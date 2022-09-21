@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-21T12:00:00Z
 originalUrl: "https://www.crainsdetroit.com/investing/digital-privacy-startup-hush-raises-4-million-latest-funding-round"
 webUrl: "https://www.crainsdetroit.com/investing/digital-privacy-startup-hush-raises-4-million-latest-funding-round"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Crain's Detroit

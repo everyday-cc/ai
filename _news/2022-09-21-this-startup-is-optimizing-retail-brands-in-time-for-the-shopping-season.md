@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-21T13:38:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-9-21-this-startup-is-optimizing-retail-brands-in-time-for-the-shopping-season"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-9-21-this-startup-is-optimizing-retail-brands-in-time-for-the-shopping-season"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Daily Herald

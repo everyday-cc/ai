@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-owners/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla Expands “Full Self-Driving” Beta To 160,000 Owners In The U.S. And Canada"
+    excerpt: "There are already 100,000 Tesla owners included in the FSD beta program and more than ever will now be granted access to version 10.69.2.2. A plethora of updates has been made to the latest beta version of Tesla’s “Full-Self Driving” system."
+    publishedDateTime: 2022-09-21T12:33:00Z
+    webUrl: "https://www.carscoops.com/2022/09/tesla-expands-full-self-driving-beta-to-160000-owners-in-the-u-s-and-canada/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 15
 
 secured: "tdePFSnI3I9fj3P1+PNn9AtjGjQOftj3fZm6gkClCqCbGl10Bql0YT+k/ZxDsrSuhSchYNM2R7HiJkftdqJOZk5tPI/Iub2kYd8xN2AP7QiLEg33i3EufevXkUu7yOKkjON5VRGSpfW5qRJDFAIT4KAUpwfXvMGhC1U4qNb0XYhZo2xnQ4ph/pEsxfkEqm/CF6rTj3PW95vrKUjIyxil83C44H7th6NDG9WQu0vRHQaaX01uE0VwNlvqQe8sDCsFmoOLjmLAF4QnEtPkXvrnRZzxUh/Xqftk+e+bHYlnkrwphGnjCFA6gHC3AW4v3BIUTOR04pyt0wXRA0X/jNnoohJnxV+HnxRq/RGshFFVL+1Ypa28LGLUGtP8bqPEYvzfNj+jisgn056I3oed5XNnS+kXEnjPaaNdYWS4s19k1Hsb1vgft3TYYkDRFcud7aJyBrj1GpARSkbV5et/sR2v3nhL95+MarqFsp8LpZ94hpItcx94yV0LHE/JAbX7MeqHplBGcpyFta8olcmc8qOg1Q==;g3trAcf2mAynL3STDu9Qgw=="
 ---

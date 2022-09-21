@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artists begin selling AI-generated artwork on stock photography websites"
-    excerpt: "Seeking ways to \"monetize\" AI-generated art, some artists have already begun submitting their AI-generated pieces to stock photography websites like Shutterstock.com. Searches for \"AI generated\" or \"Midjourney\" (a popular image synthesis service) produce thousands of results on the site."
-    publishedDateTime: 2022-09-16T20:16:00Z
-    webUrl: "https://arstechnica.com/information-technology/2022/09/artists-begin-selling-ai-generated-artwork-on-stock-photography-websites/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 68
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/ai_art_on_shutterstock_hero-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Art of business in AI-generated art"
     excerpt: "For the software entrepreneurs, there is a business in AI generated art though artists are very upset about AI art. But artists themselves are in the business of art for many years since the renaissance."
     publishedDateTime: 2022-09-21T03:49:00Z
@@ -54,15 +40,6 @@ related:
         width: 434
         height: 441
         isCached: true
-  - title: "AI-Generated Games Are Starting To Appear On Steam (And It's Not Going Well)"
-    excerpt: "Enter This Girl Does Not Exist Making a game with AI-generated assets comes with its own unique challenges, as she tells it. Not having to make art from the ground up does mean things move quicker, but since This Girl Does Not Exist was a dating game,"
-    publishedDateTime: 2022-09-19T18:31:00Z
-    webUrl: "https://kotaku.com/steam-pc-ai-generated-art-midjourney-youtube-valve-1849531585"
-    type: article
-    provider:
-      name: Kotaku
-      domain: kotaku.com
-    quality: 14
 
 secured: "CVg9eZE4dgsw759hc+E0HyqWa54JeRZ0N4AozDNYFb2G0CuE3eJdtbx85hHcQr020yn0WfP22uWnzfwIq/DUwqoY9KwoVMW7Zq3lo36LLfiK0VDeh5Svo4AWcQrd+h3d04Mvy26naFYIehevk76Djq+SVuux6oIB3VwwDNmrWMU8mIQWNEf6qECRznfHWIwu0vuPcczhkRg55Wp9UgB26WuC9kN/UoC+pihr2o1xlav421v0u9x49C13N3CrFZPU8jpKzM9aJbi6FzxOCwAG6dkRWDX+TfPYBv+7xQBndNu09fuli/j3sDXlLEXKI24EV7YUkGJMDDQUaDVF+iqqFWmRyibmfM02KIurrYV9IzPOKb110ED4vK4WCQhKaS+pr+C9xgbmnp2mF+E90U4X/1a75gWl50GjepPyBUbMZfuxi5Nw2Lupz1FljTQIfTBNwVEJb2teq0tfZ0bGLwRvtSwWSc3rEiGcJkaZ87NO7rDrHzXUd7Ud4AsVExp6CLbI/miOql0MktK9/WHE4GmtYQ==;WJlm9eDLdGfVJlDapDuz3g=="
 ---

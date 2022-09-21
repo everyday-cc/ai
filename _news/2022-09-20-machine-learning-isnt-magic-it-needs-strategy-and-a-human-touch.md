@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-20T04:35:00Z
 originalUrl: "https://www.adexchanger.com/data-driven-thinking/machine-learning-isnt-magic-it-needs-strategy-and-a-human-touch/"
 webUrl: "https://www.adexchanger.com/data-driven-thinking/machine-learning-isnt-magic-it-needs-strategy-and-a-human-touch/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: adexchanger

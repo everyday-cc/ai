@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla Expands “Full Self-Driving” Beta To 160,000 Owners In The U.S. And Canada"
+    excerpt: "There are already 100,000 Tesla owners included in the FSD beta program and more than ever will now be granted access to version 10.69.2.2. A plethora of updates has been made to the latest beta version of Tesla’s “Full-Self Driving” system."
+    publishedDateTime: 2022-09-21T12:33:00Z
+    webUrl: "https://www.carscoops.com/2022/09/tesla-expands-full-self-driving-beta-to-160000-owners-in-the-u-s-and-canada/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 15
 
 secured: "8hnRvHk7Wh42ticDwyxLOeZ6HPejRCnDwVXHmAs7kEDRIHGnpob4IxI5j+jGU5Xt0uRV9lg2VK17vGpLmftKDSlDo70yG/EcMDm582K3FomGRgf0XRH/EQkap2mf+239+1E1SyDWlF9qMqwb7ZSZeVCVYPoKSQhHypDqc9f+sScU96vxJJZ6TCcPEoQJSuixu0dOSmUYFU+MrilCIKlxzW6bgz8j4lioN4KEGilCdApq27aNpwJR/Kfvzkq5WjUtxDR2/GLyoJ+QpzEZCns+Y4CTOK0Sz3qIx59qAGM8YPHt/DlmONrd+d+3UeYmJniAit9p+8V8PQcOT3zp45yzOvTkRXDOC6yRbTYs9kNWJ0mAnkt5YZXk4+7fvXpTkHTJtlcMU8aOLiQugPuXw0nIwZifNv1qXS7z86REBu1/M51z8a2WeyHS19AcV+qss8OZwLfItJmZFvYLGkW7635ORiryriNTvbUCEHpjoE0srR9bOl7kb27cadzBTz0YPW9iu+VrJbq0c+ZadZLp8g4row==;DMg7a53neaYQMhJROe+kcA=="
 ---

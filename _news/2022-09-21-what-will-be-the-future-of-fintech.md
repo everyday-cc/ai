@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-21T11:57:00Z
 originalUrl: "https://techbullion.com/what-will-be-the-future-of-fintech-2/"
 webUrl: "https://techbullion.com/what-will-be-the-future-of-fintech-2/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Impacts

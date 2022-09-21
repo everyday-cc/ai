@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-21T13:00:00Z
 originalUrl: "https://insidebigdata.com/2022/09/21/cerebras-wafer-scale-cluster-brings-push-button-ease-and-linear-performance-scaling-to-large-language-models/"
 webUrl: "https://insidebigdata.com/2022/09/21/cerebras-wafer-scale-cluster-brings-push-button-ease-and-linear-performance-scaling-to-large-language-models/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: insidebigdata.com

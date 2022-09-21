@@ -7,7 +7,7 @@ originalUrl: "https://www.gulf-times.com/story/724513/New-AI-tool-may-help-find-
 webUrl: "https://www.gulf-times.com/story/724513/New-AI-tool-may-help-find-unknown-proteins-and-des"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "New tool overcomes major hurdle in clinical AI design"
-    excerpt: "Most clinical AI models rely on laborious human annotation to make accurate diagnoses. A new AI model overcomes this hurdle."
-    publishedDateTime: 2022-09-16T21:43:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/09/220915123653.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "New AI Tool May Help Find Unknown Proteins And Design New Ones"
     excerpt: "Artificial Intelligence (AI), machine learning and deep learning have become ubiquitous terms in business, commerce and technology. While AI is t"
     publishedDateTime: 2022-09-20T05:51:00Z

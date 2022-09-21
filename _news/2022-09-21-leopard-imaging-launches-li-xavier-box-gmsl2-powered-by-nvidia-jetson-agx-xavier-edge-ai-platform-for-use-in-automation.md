@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/leopard-imaging-la
 webUrl: "https://markets.businessinsider.com/news/stocks/leopard-imaging-launches-li-xavier-box-gmsl2-powered-by-nvidia-jetson-agx-xavier-edge-ai-platform-for-use-in-automation-1031754554"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 400
     height: 300
     isCached: true
+
+related:
+  - title: "SmartCow Releases AI SuperCam and Box PC Powered by NVIDIA Jetson AGX Orin for Next-Generation Edge Applications"
+    excerpt: "Most powerful, compact and energy-efficient AI 'at the edge' for smart city with 5G functionalityST. JULIANS, Malta, Sept. 21, 2022 /PRNewswire/"
+    publishedDateTime: 2022-09-21T14:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/smartcow-releases-ai-supercam-and-box-pc-powered-by-nvidia-jetson-agx-orin-for-next-generation-edge-applications-1031756813"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
+    images:
+      - url: "https://mma.prnewswire.com/media/1903723/SmartCow_SuperCam.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "zB4epVEbKGfNcid3J6UVsHSoIE7ZXlVDYy+v9zCV+/L21Y53tzzcjlqmDEwHAuEapff/zeMV22u3eBlfDGM4/5H/lQVzWZN5Knw6x0cZe1fZomqi9Z/3iMwcKEsSGrfFq7MUh7cHdQHx0Z5hrtUOkEXBhlOmOioHRKiQykAJARNyybVoaT16y1F1fdFWp4NhuWKmILxuOkGowIDkulOC45fvNwbt1wIiXPJNN71Xm8WMEAc29S+pS6m+Er3DQBjWrJDykV65Oe3ir9zxaiaoUHj/m3hdfgB9mgPAbIR9HkRqqRxMqmh70mxHt6r+w5xX3p31dVDIHV+oQhwhjjtioxUCUh2qWsizujz2h78CcsQu74sgzb0uovTVem3dm5QbAGUSRE3iQPTZRQNvz9V3uDLjG7NMKHowtsqOzVNdw0o61VLHr6CY7Hvg6bazOmJ3BJ6/JTwv0lXNo3YUMv4FhZpw3vKqWgllaZlE1L6gWMcwC8jpmVA6GUHsOySXOK5cFv+5KCbiycghPsnomBfH2A==;SsxtrhEdAc7YkTJycLrebQ=="
 ---

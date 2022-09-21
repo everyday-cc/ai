@@ -39,6 +39,15 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 48
+  - title: "AI and Automation to Power Banking Sector Transformation: SPIN Analytics at DTW 2022"
+    excerpt: "In conjunction with the ongoing Digital Transformation World (DTW) 2022, Ariana Lynn, Senior Editor at The Fast Mode spoke to Panos Skliamis, CEO and Founder of SPIN Analytics."
+    publishedDateTime: 2022-09-21T13:04:00Z
+    webUrl: "https://www.thefastmode.com/videos/27651-ai-and-automation-to-power-banking-sector-transformation-spin-analytics-at-dtw-2022"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 27
   - title: "See the exclusive 22-slide pitch deck that AI company 4M Analytics used to raise $45 million in Series A funding"
     excerpt: "The startup raised over $45 million from investors including Insight Partners, ITI Venture Capital Partners, Viola Ventures and F2 Venture Capital."
     publishedDateTime: 2022-09-20T13:40:00Z
@@ -48,15 +57,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 26
-  - title: "Bringing Medicines to Market Faster Through Analytics & Machine Learning"
-    excerpt: "Traditional medicine isn’t generally taken very seriously in the United States. However, Dr. Andrea Small-Howard, President and CSO at GB Sciences e"
-    publishedDateTime: 2022-09-16T19:30:00Z
-    webUrl: "https://marketscale.com/industries/healthcare/bringing-medicines-to-market-faster-through-analytics-machine-learning/"
-    type: article
-    provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 18
   - title: "Charlotte AI data analytics startup Stratifyd raises another $10M"
     excerpt: "Eric Healy is the Charlotte-headquartered startup’s new chief executive officer ... The company was founded in 2015 and operates what it calls the Smart AI™ experience and insights platform. The company’s first Fortune 500 customer was Lenovo ..."
     publishedDateTime: 2022-09-19T13:57:00Z

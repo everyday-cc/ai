@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/security/nvidia-and-booz-allen-develop-morph
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/nvidia-and-booz-allen-develop-morpheus-platform-to-supercharge-security-ai/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDIA and Booz Allen Hamilton Expand Partnership to Bring AI-Enabled Cybersecurity to Public and Private Sectors"
+    excerpt: "Accelerated Cybersecurity Platform to Analyze Massive Amounts of Data, Pinpoint Threats Faster SANTA CLARA, Calif., Sept. (GLOBE NEWSWIRE) -- GTC—NVIDIA and Booz"
+    publishedDateTime: 2022-09-20T16:24:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28935743/nvidia-and-booz-allen-hamilton-expand-partnership-to-bring-ai-enabled-cybersecurity-to-public-and-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28935743"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28935743"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 38
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg"
+        width: 700
+        height: 300
+        isCached: true
   - title: "Nvidia and Booz Allen team up on AI-powered, GPU-accelerated cybersecurity"
     excerpt: "Nvidia Corp. said today it’s partnering with Booz Allen Hamilton Inc. to bring an artificial intelligence-enabled, graphics processing unit-accelerated cybersecurity platform to customers looking to safeguard deployments at the network edge."
     publishedDateTime: 2022-09-20T16:45:00Z

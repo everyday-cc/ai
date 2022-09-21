@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-21T12:54:00Z
 originalUrl: "https://radiotoday.co.uk/2022/09/sonic-boom-heres-what-happened-at-radiocentres-latest-conference/"
 webUrl: "https://radiotoday.co.uk/2022/09/sonic-boom-heres-what-happened-at-radiocentres-latest-conference/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: RadioToday

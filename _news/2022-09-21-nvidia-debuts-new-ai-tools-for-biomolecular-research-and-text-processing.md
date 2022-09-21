@@ -240,6 +240,15 @@ related:
         width: 599
         height: 424
         isCached: true
+  - title: "ASUS Servers Announce AI Developments at NVIDIA GTC"
+    excerpt: "ASUS, the leading IT company in server systems, server motherboards and workstations, today announced its presence at NVIDIA® GTC"
+    publishedDateTime: 2022-09-21T13:12:00Z
+    webUrl: "https://enterprisetalk.com/news/asus-servers-announce-ai-developments-at-nvidia-gtc/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 19
   - title: "Run:ai Certified to Run NVIDIA AI Enterprise Software Suite"
     excerpt: "AI Atlas for NVIDIA AI Enterprise will help data scientists run their AI workloads most efficiently,\" said Omri Geller, CEO and co-founder of Run:ai. \"Our mission is to speed up AI and get more models into production,"
     publishedDateTime: 2022-09-20T18:18:00Z

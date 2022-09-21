@@ -96,6 +96,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 27
+  - title: "Salesforce brings data magic to Customer 360 with Genie"
+    excerpt: "David Schmaier, Salesforce president and Chief Product Officer described the launch of Salesforce Genie as “The most significant change to the Salesforce"
+    publishedDateTime: 2022-09-21T14:59:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2022/09/21/salesforce-brings-data-magic-to-customer-360-with-genie/"
+    type: article
+    provider:
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
+    quality: 24
+    images:
+      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2022/03/genie-353268_1280.jpg"
+        width: 728
+        height: 410
+        isCached: true
   - title: "Salesforce and AWS Announce Expansion of Strategic Partnership"
     excerpt: "Salesforce and AWS today announced new integrations between the Salesforce Platform and Amazon SageMaker. The integrations will enable"
     publishedDateTime: 2022-09-20T20:17:00Z
@@ -105,6 +119,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 19
+  - title: "Dreamforce 2022: Salesforce Partner Atrium Doubling Business"
+    excerpt: "Salesforce, Tableau, MuleSoft and Snowflake partner Atrium CEO Chris Heineken talks growth ahead of Dreamforce 2022."
+    publishedDateTime: 2022-09-20T16:26:00Z
+    webUrl: "https://www.crn.com/news/cloud/dreamforce-2022-salesforce-partner-atrium-doubling-business"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 4
   - title: "Salesforce unveils Genie, a real-time data platform to power its apps"
     excerpt: "Rahul Auradkar, head of customer data platform at Salesforce, told SiliconANGLE that Genie was built to create a single platform to unify and personalize data that could be accessed in real-time and power the entirety of Salesforce’s platform."
     publishedDateTime: 2022-09-20T12:00:00Z

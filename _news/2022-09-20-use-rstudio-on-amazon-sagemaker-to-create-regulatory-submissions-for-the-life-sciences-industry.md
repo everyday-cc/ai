@@ -43,6 +43,20 @@ related:
         width: 1552
         height: 773
         isCached: true
+  - title: "Amazon SageMaker Autopilot is up to eight times faster with new ensemble training mode powered by AutoGluon"
+    excerpt: "Amazon SageMaker Autopilot has added a new training mode that supports model ensembling powered by AutoGluon. Ensemble training mode in Autopilot trains several base models and combines their predictions using model stacking. For datasets less than 100 MB, ensemble training mode builds machine learning"
+    publishedDateTime: 2022-09-21T15:04:37Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-autopilot-is-up-to-eight-times-faster-with-new-ensemble-training-mode-powered-by-autogluon/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/12/sagemaker-autopilot-gluon.jpg"
+        width: 1534
+        height: 765
+        isCached: true
   - title: "Configure a custom Amazon S3 query output location and data retention policy for Amazon Athena data sources in Amazon SageMaker Data Wrangler"
     excerpt: "Amazon SageMaker Data Wrangler reduces the time that it takes to aggregate and prepare data for machine learning (ML) from weeks to minutes in Amazon SageMaker Studio, the first fully integrated development environment (IDE) for ML. With Data Wrangler, you can simplify the process of data preparation"
     publishedDateTime: 2022-09-20T22:41:25Z

@@ -1,30 +1,22 @@
 ---
 category: news
 title: "NVIDIA's New Ada Lovelace RTX GPU Arrives for Designers and Creators"
-excerpt: "RTX 6000 GPU Provides 2-4x Performance Improvement in Enterprise Workflows;Global Manufacturers to Ship Starting in Q4 SANTA CLARA, Calif., Sept. (GLOBE NEWSWIRE) -- GTC—Opening a new era of neural gr"
-publishedDateTime: 2022-09-20T15:21:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/g28934515/nvidias-new-ada-lovelace-rtx-gpu-arrives-for-designers-and-creators"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/g28934515/nvidias-new-ada-lovelace-rtx-gpu-arrives-for-designers-and-creators"
-ampWebUrl: "https://www.benzinga.com/amp/content/28934515"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28934515"
+excerpt: "Opening a new era of neural graphics that marries AI and simulation, NVIDIA today announced the NVIDIA RTX™ 6000 workstation GPU, based on its new NVIDIA Ada Lovelace architecture. With the new NVIDIA RTX 6000 Ada Generation GPU delivering real-time rendering,"
+publishedDateTime: 2022-09-20T16:43:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/09/20/9677331.htm"
+webUrl: "https://it.tmcnet.com/news/2022/09/20/9677331.htm"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg"
-    width: 700
-    height: 300
-    isCached: true
 
 related:
   - title: "Nvidia debuts new high-end RTX 4090 GPU after previous generation gobbled up by crypto miners"
@@ -117,6 +109,24 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 23
+  - title: "Nvidia RTX 4080 12GB GPU performance falls behind the 16GB model"
+    excerpt: "The Nvidia RTX 4080 12GB can't push out as many frames per second as the 16GB model, due to some spec differences between the two GeForce GPUs"
+    publishedDateTime: 2022-09-21T13:47:00Z
+    webUrl: "https://www.pcgamesn.com/nvidia/rtx-4080-12gb-performance-vs-16gb"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 19
+  - title: "Nvidia RTX 6000 ‘Ada Lovelace’ GPU launches"
+    excerpt: "Nvidia RTX 6000 'Ada Lovelace' workstation GPU promises to boost performance by changing the way viewports and scenes are rendered."
+    publishedDateTime: 2022-09-21T12:47:00Z
+    webUrl: "https://aecmag.com/workstations/nvidia-rtx-6000-ada-lovelace-workstation-gpu-launches/"
+    type: article
+    provider:
+      name: AEC Magazine
+      domain: aecmag.com
+    quality: 19
   - title: "NVIDIA RTX 6000; Ada Lovelace RTX GPU Arrives for Designers and Creators"
     excerpt: "NVIDIA today announced the NVIDIA RTX 6000 workstation GPU, based on its new NVIDIA Ada Lovelace architecture. With the new NVIDIA RTX 6000 Ada Generation GPU delivering real-time rendering, graphics"
     publishedDateTime: 2022-09-20T18:33:00Z
@@ -141,6 +151,6 @@ related:
         height: 225
         isCached: true
 
-secured: "TD1nisb9Jl4garvhPd5xoNI7SJtoKvjRM0LUv4zJDGcu9yiN2tBtYBfxIIiKcuRLWfOWPn4LbIj88fVhY8C9V9bn53fY6SO6PYrxQjgfH6lNeLcq12bixs0hd0x/bEYvQM/mtygq43CQDzwjf0FFcrVnG6uWZmWPJvWfuFv5a2L7RYtiYTktMK9fFVYo8c2JVOf7jCwDkx8CMkysjJMjvtGmzywZMXh0oex8MdjzDgjzBpNQ7RxvuqJefLbZqoq5i05+zyvp8zKc+d0D+V0pu9Sq+58yiGeIKvwurkOtDDT2+iSVwGQ7a+UCbjYLy/GxKWOr7TG2QxMWQwcdW4WFc0ugx+Jhx6RGwd4Lsh/B2MQ=;fqIbK6oRS+NNxUjBHE0xRA=="
+secured: "+y0LoLXNQQGVImMc3fYRPvf3eC9Ht/YbnudfrtffP0FpFqzmedM9bGUW5wT06471U24+YIBpRgIoS/WAsxk97Ebr1lg/66y1ynjrY1iWkPCWdei+47CKC+yyc0rHxz4y1fJjhbm5L1atr1eZyosvcwHFC/Yhc5+MVKkaTeJAWZTadZT5WDMZJ7mHlbE1V+M2Y3DSJ0pPXOzKNvzI3DsHNFJWZrIEFQcatVmCHDMTsZ5NsFaixkhUZJH7d/oJwD5t241Jvdoh45/zkxbF4/EC2Z29MYh71rKHWpODhSs1bJyOzvNQmITRBOjBzo0mros+JBPhIknWcErCuzt+aYYW7zn0n0k0f3oNjI2FjaQbQP4=;ZAABUoDTMxfsKuiXZf0x/A=="
 ---
 

@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Northern Data Becomes Preferred Cloud Service Provider in NVIDIA Partner Network"
-excerpt: "Northern Data Cloud Services offers companies a solution for rapidly growing HPC cloud computing, hosted from Europe, with total cost transparency Climate-neutral, highly efficient NVIDIA GPU cluster in advanced data centers situated in Norway and Sweden FRANKFURT/MAIN,"
-publishedDateTime: 2022-09-21T05:09:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/northern-data-becomes-preferred-cloud-service-provider-in-nvidia-partner-network-1031755380"
-webUrl: "https://markets.businessinsider.com/news/stocks/northern-data-becomes-preferred-cloud-service-provider-in-nvidia-partner-network-1031755380"
+excerpt: "Northern Data Cloud Services to offer HPC cloud resources with NVIDIA A100 Tensor Core and RTX™ A6000 GPUs FRANKFURT/MAIN, Germany, Sept. 21, 2022 /PRNewswire/ -- Northern Data Cloud Services has joined the NVIDIA Partner Network as a Preferred Partner for Cloud Services in Europe."
+publishedDateTime: 2022-09-21T06:42:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/09/21/9677648.htm"
+webUrl: "https://it.tmcnet.com/news/2022/09/21/9677648.htm"
 type: article
-quality: 49
-heat: 49
+quality: 19
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
@@ -46,6 +42,6 @@ related:
         height: 675
         isCached: true
 
-secured: "0YxkjuMWrrhffrQJuC802k4iSCdpBivpMruJ9WbGL0tZXJWTRCQuPxr+Zop2vYz1vhWDjO9E5JQ+SCERpPyqeop7zmM/xcglo2gtyvCPXqbC1rlABM/2mhIb++Ai5j8ZArLTP8SlZtwly879dtNbiHOK/QPICB9McLvFqOAY9+i/erXHNLT4kWA7CyoVTITIcRJpaMZOyrxeZC1h9tKXY+pefHJyVRf6HpSlf04GmIlYkzt86BvYo7ecBWmUFGbPLO3WUlLB3Y5gA5S5GSLU/A4VhY+vewwXhns3HgwrqUlUPGYJCajnWzvHwKjXqzHeDQienmCwWhtTBvr4W7JfYBBTqYPlzoWpCYjmpo0Yy+WNM0wO6+Ih4PzCFPLKfoWhxn3/iC/EBDNqpqBNYQdZkPS1jqKHvhtTJuBnZ+j3INsRVvKvLnKzDS8t1Roop7UhsAv0RPmSEatafElqbLTvwjsIxq50/oc2rUR/kP9Z7PYqcsIMClC3q7D6coJ20zRe9dwAfphzurGrXjHDB2II6w==;hN3WuPHYPLuigxnBxAhYbw=="
+secured: "hh5n/HG8I7c40k8ldZh1I6KAaLOxtnmEUYNQS2NZ9BlM5At54YY8zh/RDejBsl3mP+GRXm6oT/qDFGy5Pqfz7IosZKU8Fvgay4DVY1uoGHNJjC61YS2WjRq/UsHY2TklkdI9Hw0HpMUxzVX3EUz+7LH+HfTJ9LBzXD42d2OdwbvfxlCWtA7ZKLqo1lDRRCSk+MOfS7MlHLR2PV8/o8GSLluceaK/D5LBARxDIDZBygopciS0Kf3l0RhwZr7WoXcQHk1f3qSByHBnnHiPpusogEBMzSWaqk7W43FbT6eNloem4MvJIGYEEzb7YLbZwCFepSGMZLJWj3h4cB8ZCrjd/P18CrPrFnA+Kdsedu1VYzk=;mFksaPT3hKmO9ocWArmOBw=="
 ---
 

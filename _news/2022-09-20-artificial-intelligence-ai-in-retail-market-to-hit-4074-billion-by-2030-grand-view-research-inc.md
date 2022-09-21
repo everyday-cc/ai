@@ -49,15 +49,6 @@ related:
         width: 1000
         height: 800
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Automotive and Transportation Market to Grow at 20% Through 2026"
-    excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. This market is likely to grow at a CAGR of around 20% during 2021-26."
-    publishedDateTime: 2022-09-16T21:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-automotive-transportation-market-grow-/2022/09/16/9675469.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
   - title: "Global Artificial Neural Network Market to Reach $258.45 Million by 2027 - ResearchAndMarkets.com"
     excerpt: "The Global Artificial Neural Network Market is estimated to be worth USD 171.88 million in 2022, and is expected to reach USD 258.45 million by 2027, growing at a CAGR of 8.5%. The Global Artificial Neural Network Market is segmented based on Component,"
     publishedDateTime: 2022-09-20T16:27:00Z

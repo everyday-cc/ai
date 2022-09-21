@@ -36,6 +36,22 @@ related:
         height: 630
         isCached: true
   - title: "NVIDIA and Booz Allen Hamilton Expand Partnership to Bring AI-Enabled Cybersecurity to Public and Private Sectors"
+    excerpt: "Accelerated Cybersecurity Platform to Analyze Massive Amounts of Data, Pinpoint Threats Faster SANTA CLARA, Calif., Sept. (GLOBE NEWSWIRE) -- GTC—NVIDIA and Booz"
+    publishedDateTime: 2022-09-20T16:24:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28935743/nvidia-and-booz-allen-hamilton-expand-partnership-to-bring-ai-enabled-cybersecurity-to-public-and-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28935743"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28935743"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 38
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg"
+        width: 700
+        height: 300
+        isCached: true
+  - title: "NVIDIA and Booz Allen Hamilton Expand Partnership to Bring AI-Enabled Cybersecurity to Public and Private Sectors"
     excerpt: "NVIDIA and Booz Allen Hamilton (NYSE: BAH) today announced an expanded collaboration to bring an AI-enabled, GPU-accelerated cybersecurity platform to customers in the public and private sectors. The platform enables next-generation incident response systems that help customers pinpoint cybersecurity threats."
     publishedDateTime: 2022-09-20T17:53:00Z
     webUrl: "https://www.tmcnet.com/usubmit/-nvidia-booz-allen-hamilton-expand-partnership-bring-ai-/2022/09/20/9677405.htm"

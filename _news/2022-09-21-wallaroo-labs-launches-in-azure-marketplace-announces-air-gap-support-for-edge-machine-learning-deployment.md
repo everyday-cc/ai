@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-21T13:22:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-wallaroo-labs-launches-azure-marketplace-announces-air-gap-/2022/09/21/9677902.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-wallaroo-labs-launches-azure-marketplace-announces-air-gap-/2022/09/21/9677902.htm"
 type: article
+quality: 33
+heat: 33
+published: false
 
 provider:
   name: TMCnet

@@ -246,6 +246,15 @@ related:
         width: 599
         height: 424
         isCached: true
+  - title: "ASUS Servers Announce AI Developments at NVIDIA GTC"
+    excerpt: "ASUS, the leading IT company in server systems, server motherboards and workstations, today announced its presence at NVIDIA® GTC"
+    publishedDateTime: 2022-09-21T13:12:00Z
+    webUrl: "https://enterprisetalk.com/news/asus-servers-announce-ai-developments-at-nvidia-gtc/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 19
   - title: "NVIDIA Hopper in Full Production"
     excerpt: "NVIDIA today announced that the NVIDIA H100 Tensor Core GPU is in full production, with global tech partners planning in October to roll out the first wave of products and services based on the groundbreaking NVIDIA Hopper™ architecture."
     publishedDateTime: 2022-09-20T16:45:00Z

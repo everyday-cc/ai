@@ -19,14 +19,14 @@ topics:
   - AI
 
 related:
-  - title: "WeRide Launches the First Self-driving Robobus Test Ride in Saudi Arabia at 2022 Global AI Summit"
-    excerpt: "WeRide launched the first driverless public Robotaxi service in the Middle East in Abu Dhabi, capital of the United Arab Emirates. The launch of the driverless robobus in Riyadh becomes another important milestone in WeRide's global footprint,"
-    publishedDateTime: 2022-09-19T06:05:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/09/19/9675581.htm"
+  - title: "WeRide launches the first self-driving Robobus Test Ride in Saudi Arabia at 2022 Global AI Summit"
+    excerpt: "This is the first fully driverless test ride of robobus in the Middle East country and it will take place from Sep. 19th to 22nd"
+    publishedDateTime: 2022-09-19T07:41:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/weride-launches-the-first-self-driving-robobus-test-ride-in-saudi-arabia-at-2022-global-ai-summit-d035ufgp"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Zawya
+      domain: zawya.com
     quality: 6
 
 secured: "p2mQamNnQ3dM7dDKk8X0muZjCZicfF0/u+QVZaBgoYQw4QiDESDIBtX8Hz0ukQjzm4oGkPjVxmaAlpAO0KI4Y2P2EDr1tBWG/vPRwTRtsA4Pbj8cCMz7aPsXjW6Qxa58PPU39qm0f2+ajL+2pwkXbzGn/arO5QxtT7/B1rjNPEk0wrWchwU7dq8IJOC0y2Mjq6M/hBpZwuDQ+gRMVSYW/wy8IWK44y+kVorktMoSblYolHdikrhZjA7GUnenXnDLqTNKWht7pWukeYoNarxGqSiOlaDkZxV8+52g3JCRgWh9DLWuTeti1/OZoKGJl/OgM9/2PJS0ucdlGUVk+mEBUCHSa+aFTQwZdwgkeOp4OWo=;IhbiaE23QzxHbktZ+StW+A=="

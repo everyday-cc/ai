@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-21T13:02:00Z
 originalUrl: "https://www.dbta.com/Editorial/News-Flashes/Oracle-MySQL-HeatWave-is-Available-on-AWS-154972.aspx"
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/Oracle-MySQL-HeatWave-is-Available-on-AWS-154972.aspx"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: dbta

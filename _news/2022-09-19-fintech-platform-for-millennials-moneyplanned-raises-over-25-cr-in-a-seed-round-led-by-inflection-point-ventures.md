@@ -7,7 +7,7 @@ originalUrl: "https://www.indianweb2.com/2022/09/fintech-platform-for-millennial
 webUrl: "https://www.indianweb2.com/2022/09/fintech-platform-for-millennials.html"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 734
     height: 550
     isCached: true
+
+related:
+  - title: "Sardine raises $51.5m for fintech fraud platform"
+    excerpt: "Sardine, a behaviour-based fraud and compliance platform for fintechs developed by Coinbase, Revolut and PayPal veterans, has raised $51.5 million in a Series B funding round led by Andreessen Horowitz's growth fund."
+    publishedDateTime: 2022-09-20T23:22:00Z
+    webUrl: "https://www.finextra.com/newsarticle/40982/sardine-raises-515m-for-fintech-fraud-platform"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/marcos-paulo-prado-okethwwiieu-unsplash.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "6lUsK6zE62/67b0bsQ3B5TiLz+a35pXW1UWy/fQkUf+oZySQ7lnIWqpxc0tNkWGuMQx3eTor8J8VHqWDCRCdxpJHsRB22NzloCqPt6LGTPnMvjodQ/QvtJtjqu6iRToBe3Mcm1oUtFti5AyVA6p9Cnk6Lk4n7oIQDWajSwjZ71F1IN89cPUeI3ULv6/IXkLYqLvoANd9BqHFy/pbm3nPyfplGozIegBmdIHtCJizfVJYOXtDdqcYQBsPNzlGaz0qhuZXNisstBpAjZdrNIwXhFpVzGjS/ocdj5hKx3kg52deaCKxoj5qCSvVtjmu4jmNQ9TFGjIOyBAJTSSDdeTlA0FUnFK3x5vhhVexQaNVx3o=;cSJl7xuOvfAjYpqtjkF1dw=="
 ---

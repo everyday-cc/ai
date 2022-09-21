@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3674061/nvidia-gtc-hopper-proce
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3674061/nvidia-gtc-hopper-processor-in-full-production.amp.html"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -28,14 +28,14 @@ images:
 
 related:
   - title: "Northern Data Becomes Preferred Cloud Service Provider in NVIDIA Partner Network"
-    excerpt: "Northern Data Cloud Services offers companies a solution for rapidly growing HPC cloud computing, hosted from Europe, with total cost transparency Climate-neutral, highly efficient NVIDIA GPU cluster in advanced data centers situated in Norway and Sweden FRANKFURT/MAIN,"
-    publishedDateTime: 2022-09-21T05:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/northern-data-becomes-preferred-cloud-service-provider-in-nvidia-partner-network-1031755380"
+    excerpt: "Northern Data Cloud Services to offer HPC cloud resources with NVIDIA A100 Tensor Core and RTX™ A6000 GPUs FRANKFURT/MAIN, Germany, Sept. 21, 2022 /PRNewswire/ -- Northern Data Cloud Services has joined the NVIDIA Partner Network as a Preferred Partner for Cloud Services in Europe."
+    publishedDateTime: 2022-09-21T06:42:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/09/21/9677648.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
     images:
       - url: "https://mma.prnewswire.com/media/1903799/Northern_Data.jpg"
         width: 400
