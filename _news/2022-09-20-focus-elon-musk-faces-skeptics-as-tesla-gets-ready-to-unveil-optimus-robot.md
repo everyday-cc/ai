@@ -50,6 +50,38 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Elon Musk’s Tesla to unveil humanoid robot next week"
+    excerpt: "Tesla is preparing to unveil a humanoid robot. Really. Plans are underway to launch a prototype of the mannequin-shaped droid — known as Tesla Bot or Optimus — at it’s ‘AI Day’ on 30 September, Reuters reports."
+    publishedDateTime: 2022-09-21T07:39:00Z
+    webUrl: "https://metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-robot-next-week-17419356/"
+    ampWebUrl: "https://metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-robot-next-week-17419356/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-robot-next-week-17419356/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 76
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2022/09/HK3GFOZNRJJNHFHO4TNPIOP7WM-ed19.jpeg?quality=90&strip=all&zoom=1&resize=600%2C400"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Tesla's 'Optimus' robot ready to be unveiled"
+    excerpt: "Tesla Chief Executive Elon Musk blamed overreliance on factory robots for sending the electric carmaker to \"production hell\" four years ago, saying humans were better at certain jobs."
+    publishedDateTime: 2022-09-20T17:54:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/teslas-optimus-robot-ready-be-unveiled-3124251"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/teslas-optimus-robot-ready-be-unveiled-3124251?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/teslas-optimus-robot-ready-be-unveiled-3124251?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 76
+    images:
+      - url: "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/09/20/optimus.jpg"
+        width: 750
+        height: 393
+        isCached: true
   - title: "Optimus Robot Is Coming At Tesla’s AI Day 2 – But It’ll Have To Do More Than Dancing To Silence Critics"
     excerpt: "Tesla will hold its AI Day 2 on September 30 and in the leadup, Elon Musk has prioritized both Optimus and an updated smart summon feature. According to the tech billionaire, both projects have an end-of-month deadline."
     publishedDateTime: 2022-09-20T23:37:00Z
@@ -113,15 +145,6 @@ related:
     provider:
       name: Times LIVE
       domain: timeslive.co.za
-    quality: 36
-  - title: "Tesla's 'Optimus' robot ready to be unveiled"
-    excerpt: "Tesla Chief Executive Elon Musk blamed overreliance on factory robots for sending the electric carmaker to \"production hell\" four years ago, saying humans were better at certain jobs."
-    publishedDateTime: 2022-09-20T17:54:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/teslas-optimus-robot-ready-be-unveiled-3124251"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
     quality: 36
   - title: "Elon Musk says Tesla will unveil a project Optimus prototype robot on September 30"
     excerpt: "In addition to working in factories, Musk said at a TED Talk robots could be in homes, make dinner, mow lawns, care for the elderly people, and even become a \"buddy\" or a \"catgirl\" sex partner."

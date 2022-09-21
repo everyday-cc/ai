@@ -23,20 +23,57 @@ topics:
   - AI
 
 related:
-  - title: "Fintech Kyriba Launches Cash Management AI"
-    excerpt: "Kyriba, which claims to be a global leader of Cloud-powered finance and IT solutions, recently announced the launch of Cash Management AI."
-    publishedDateTime: 2022-09-16T23:31:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/09/196043-fintech-kyriba-launches-cash-management-ai/"
+  - title: "Artificial Intelligence in Healthcare Market Trends, Size, Share, Growth Status, Key Segments and Forecast 2028"
+    excerpt: "The Global Artificial Intelligence in Healthcare Market is estimated to register a CAGR of over 38.1% during the"
+    publishedDateTime: 2022-09-20T12:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-trends-size-share-growth-status-key-segments-and-forecast-2028-2022-09-20"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/Dollars-Money-Cash-Pay-768x1024.jpeg"
-        width: 768
-        height: 1024
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Artificial Intelligence in Medical Diagnostics Market Upcoming Trends, Size, Key Players, Revenue and Forecast 2028"
+    excerpt: "The Global Artificial Intelligence in Medical Diagnostics Market is poised to register a CAGR of 50.2% during the"
+    publishedDateTime: 2022-09-20T14:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-diagnostics-market-upcoming-trends-size-key-players-revenue-and-forecast-2028-2022-09-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Fintech Market Growth and Share 2022 Analysis by Recent Developments, New Technologies, Key Dynamics, Regions and Segments Forecast to 2028"
+    excerpt: "The “AI in Fintech Market Growth Research 2022 offers detailed study on industry revenue estimations, regional"
+    publishedDateTime: 2022-09-20T07:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-growth-and-share-2022-analysis-by-recent-developments-new-technologies-key-dynamics-regions-and-segments-forecast-to-2028-2022-09-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "World Healthcare BI Market Trends, Covid-19 Impact, and Forecasts Report 2022-2027"
+    excerpt: "The \"Healthcare BI Market- Growth, Trends, Covid-19 Impact, And Forecasts (2022 - 2027)\" report has been added to ResearchAndMarkets.com's offering.The healthcare"
+    publishedDateTime: 2022-09-20T14:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28932883/world-healthcare-bi-market-trends-covid-19-impact-and-forecasts-report-2022-2027"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 13
 
 secured: "GrivPkwMaciDnvcIjepvYOu16DoNHXOHqNg3Q21pEosUOUQeZ5MUxZRphr+FF16imV+Rzfn0VfhkjSxXQ0Ohurnvs+c53KGegofAmulYS7IrPb+e0Gk/w3oNMs0RIiGgsnAT+ZrKk5qpnuoiUkrjcKE5/95VixoYZ5GhxMeJY1RIc164KarZiCE0jmeHBksz8p0p9F3Vocfl/N6aHZ1rdO/sG8kEECG48Pa0WhEBuz5VUyR0w7nfmOcU6Q8P5SRpVVKjZvrLJ4NmoYKSmo4SIFn1Uswhio1mtFf2oj1zrxHO1pRhbKl/M3IhBMDRBRGnvLZUxOWMzZV6AqxES2rQX7p9OGfCYCwUN3ahkEh1aWI=;lRAgMqak5+vCDtEJVNPr3w=="
 ---

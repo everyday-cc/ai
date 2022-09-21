@@ -5,8 +5,10 @@ excerpt: "Tesla Chief Executive Elon Musk blamed overreliance on factory robots 
 publishedDateTime: 2022-09-20T17:54:00Z
 originalUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/teslas-optimus-robot-ready-be-unveiled-3124251"
 webUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/teslas-optimus-robot-ready-be-unveiled-3124251"
+ampWebUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/teslas-optimus-robot-ready-be-unveiled-3124251?amp"
+cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/teslas-optimus-robot-ready-be-unveiled-3124251?amp"
 type: article
-quality: 36
+quality: 76
 heat: -1
 published: false
 
@@ -18,6 +20,12 @@ topics:
   - AI in Robotics
   - AI
   - AI in Autos
+
+images:
+  - url: "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/09/20/optimus.jpg"
+    width: 750
+    height: 393
+    isCached: true
 
 related:
   - title: "Elon Musk faces skeptics as Tesla gets ready to unveil 'Optimus' robot"
@@ -49,6 +57,22 @@ related:
       - url: "https://images.livemint.com/img/2022/09/21/600x338/Tesla_Elon_Musk_1663728702949_1663728703184_1663728703184.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Elon Musk’s Tesla to unveil humanoid robot next week"
+    excerpt: "Tesla is preparing to unveil a humanoid robot. Really. Plans are underway to launch a prototype of the mannequin-shaped droid — known as Tesla Bot or Optimus — at it’s ‘AI Day’ on 30 September, Reuters reports."
+    publishedDateTime: 2022-09-21T07:39:00Z
+    webUrl: "https://metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-robot-next-week-17419356/"
+    ampWebUrl: "https://metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-robot-next-week-17419356/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-robot-next-week-17419356/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 76
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2022/09/HK3GFOZNRJJNHFHO4TNPIOP7WM-ed19.jpeg?quality=90&strip=all&zoom=1&resize=600%2C400"
+        width: 600
+        height: 400
         isCached: true
   - title: "Optimus Robot Is Coming At Tesla’s AI Day 2 – But It’ll Have To Do More Than Dancing To Silence Critics"
     excerpt: "Tesla will hold its AI Day 2 on September 30 and in the leadup, Elon Musk has prioritized both Optimus and an updated smart summon feature. According to the tech billionaire, both projects have an end-of-month deadline."
@@ -133,6 +157,6 @@ related:
       domain: autoblog.com
     quality: 30
 
-secured: "ZF9xviQBIFR1Oc/FJYPjxrW4LvMPdozGUMt0LMayHvkiJRg5CjiG4VoqzQeTl2Rtqnw/sAyqyRmn9J2OwFZLyC8Q4gCvYhW8kPMXsmZg0fN2ycNSabJX+66HQ//BHgBO1VXlXj3Eyv/EZtAGup9pWHM5KXdB7BAUJ7OQkkaeGju6Sz4S+kZgC70PWMLeOB3iNBdu7pkafLfsCEUnObwRPHuLWVKhncjEV11T8rDfoBhGsDJY8xjfn7soHZ0a8BikduM4M+XCCEBtuuq+4Y5bcCIf3eY88ofKSlofIJ/l7xVrPtPCk0Ts8hpUJReSapvY405Zx2NICNr0R2JICcjqaCus610CxY10Pn/fWT3lORs=;+sn92AWoGoDElNQcHnX7Cw=="
+secured: "p3B23cxscOy6F7yvjOoXQ4VPqsZkHaFJJjskFmyh62DARwh+wFA4PQdhqtzAmEWux9SUqbLZDxt+v9S5CwFfjyUnmAz98/142O02etMRz4WoOEcM8jDbXGRNFAIeV0OluZyRMCgS3Ng71drg8pLrkHAN9ntxYxDe4HGxnKQ9dQ6r46abLfli8o6J8n+iqtJQMfiwwvBk5XPamCjjCiq4tTCVf45azWmHSFO8JrvO3CtgVRbEUGQIjj9nZ04xY5mF3TY0BhaT186b34y//2vt5dDAoN+q07Dia2svpFAvItKSuJwmWx5Ib88FVdBd7FL/5DIEkUfOkVzIMnIn1HlXZT9KBucAw2QCLL3gdJSrwX4=;4ZQ2yvfEhs0I88mP+RaXOQ=="
 ---
 

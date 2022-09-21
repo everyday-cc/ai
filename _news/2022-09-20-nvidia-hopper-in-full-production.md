@@ -223,6 +223,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 36
+  - title: "Nvidia taps TSMC to manufacture new AI-powered gaming chips"
+    excerpt: "Nvidia has gained attention in recent years with its booming data centre business, which sells chips used in artificial intelligence work such as natural language processing. But the company’s roots are in graphics chips,"
+    publishedDateTime: 2022-09-21T06:21:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2022/09/21/nvidia-taps-tsmc-to-manufacture-new-ai-powered-gaming-chips/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 34
   - title: "Aetina Announces Upcoming Edge AI Computers Powered by New NVIDIA Jetson Orin Nano for Use in Computer Vision Applications"
     excerpt: "Aetina today introduced its upcoming NVIDIA® Jetson-based edge AI computers powered by Jetson Orin™ Nano system-on-modules (SOM) that have set a new baseline for entry-level edge AI and robotics, as announced during NVIDIA GTC."
     publishedDateTime: 2022-09-21T03:00:00Z

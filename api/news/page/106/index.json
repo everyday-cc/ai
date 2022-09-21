@@ -2,6 +2,50 @@
   "page": 106,
   "value": [
     {
+      "path": "_news/2022-06-25-artificial-intelligence-ai-in-higher-education-market-may-see-a-big-move-major-giants-cerevrum-ibm-google.md",
+      "title": "Artificial Intelligence (AI) in Higher Education Market May See a Big Move | Major Giants Cerevrum, IBM, Google",
+      "excerpt": "Artificial Intelligence (AI) in Higher Education Market, Global Outlook and Forecast 2022-2028 is latest research study released by HTF MI evaluating the market risk side analysis, highlighting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-higher-education-market-may-see-a-big-move-major-giants-cerevrum-ibm-google",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-higher-education-market-may-see-a-big-move-major-giants-cerevrum-ibm-google",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/07/Supreme-Court-USA-SCOTUS-Kavanaugh-Roberts-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T12:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2022-06-25-research-finds-babies-can-help-unlock-next-generation-of-artificial-intelligence.md",
       "title": "Research finds babies can help unlock 'next generation' of artificial intelligence",
       "excerpt": "According to neuroscientists at the Trinity College Dublin babies can help unlock the next generation of artificial intelligence AI",
@@ -1078,58 +1122,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-tesla-relaunches-6000-enhanced-autopilot-gutting-full-self-driving-package-in-the-process.md",
-      "title": "Tesla relaunches $6,000 Enhanced Autopilot – gutting Full Self-Driving package in the process",
-      "excerpt": "Tesla has relaunched its Enhanced Autopilot option and pulled almost all the features from its Full Self-Driving (FSD) package in the process. Over the years, Tesla has changed its Autopilot options and pricing so many times,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/06/24/tesla-relaunches-enhanced-autopilot-gutting-full-self-driving-package/",
-      "originalUrl": "https://electrek.co/2022/06/24/tesla-relaunches-enhanced-autopilot-gutting-full-self-driving-package/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/07/Tesla-Autopilot-hero-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/06/24/tesla-relaunches-enhanced-autopilot-gutting-full-self-driving-package/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/06/24/tesla-relaunches-enhanced-autopilot-gutting-full-self-driving-package/amp/",
-      "publishedDateTime": "2022-06-24T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

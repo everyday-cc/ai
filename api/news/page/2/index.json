@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-20-ai-and-wine-are-not-that-different-says-sass-director-of-ai-ethics.md",
+      "title": "AI and wine are not that different, says SAS’s director of AI ethics",
+      "excerpt": "At the SAS Innovate Roadshow, held in Toronto on Sept. 9, 2022, Reggie Townsend, director of AI Ethics at SAS, compared artificial intelligence's (AI’s) risks and rewards to that of wine. And just like wine,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/ai-and-wine-are-not-that-different-says-sass-director-of-ai-ethics/503456",
+      "originalUrl": "https://www.itworldcanada.com/article/ai-and-wine-are-not-that-different-says-sass-director-of-ai-ethics/503456",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/09/sas-innovate-roadshow-feature-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/ai-and-wine-are-not-that-different-says-sass-director-of-ai-ethics/503456?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/ai-and-wine-are-not-that-different-says-sass-director-of-ai-ethics/503456?amp=1",
+      "publishedDateTime": "2022-09-19T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-d-id-the-company-behind-deep-nostalgia-lets-you-create-ai-generated-videos-from-a-single-image.md",
       "title": "D-ID, the company behind Deep Nostalgia, lets you create AI-generated videos from a single image",
       "excerpt": "D-ID does not want to limit itself to corporate training, communication and marketing videos - it has ambitions of facilitating real-time video call translation and clone presenters.",
@@ -1183,58 +1226,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-my-tesla-full-self-driving-beta-1069-first-drive-was-a-fail.md",
-      "title": "My Tesla Full Self-Driving Beta 10.69 first drive was a fail",
-      "excerpt": "I went on my first test drive of Tesla Full Self-Driving Beta 10.69.2, the latest big FSD software update, and unfortunately, it was a fail.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/09/16/tesla-full-self-driving-beta-10-69-first-drive-fail/",
-      "originalUrl": "https://electrek.co/2022/09/16/tesla-full-self-driving-beta-10-69-first-drive-fail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/09/16/tesla-full-self-driving-beta-10-69-first-drive-fail/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/16/tesla-full-self-driving-beta-10-69-first-drive-fail/amp/",
-      "publishedDateTime": "2022-09-16T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

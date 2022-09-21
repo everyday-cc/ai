@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/09/16/tesla-full-self-driving-beta-10-69-fi
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/16/tesla-full-self-driving-beta-10-69-first-drive-fail/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://wp-assets.futurism.com/2022/09/drivers-sue-tesla-full-self-driving-600x315.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Tesla Faces Class-Action Suit Over “Deceptive” Claims About Autopilot and Full Self-Driving Tech"
-    excerpt: "Tesla and its CEO Elon Musk have been hit by a class-action lawsuit filed in federal court claiming they “deceptively and misleadingly” overstated the capabilities of the automaker’s Autopilot and Full Self-Driving vehicle technologies."
-    publishedDateTime: 2022-09-16T14:49:00Z
-    webUrl: "https://www.thedetroitbureau.com/2022/09/tesla-faces-class-action-suit-over-deceptive-claims-about-autopilot-and-full-self-driving-tech/"
-    type: article
-    provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 41
-    images:
-      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2020/10/Tesla-full-self-driving-2020.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Self-driving cars put HB2813 to the test"
     excerpt: "With more self-driving cars on our roads, we are in new territory when it comes to determining fault during accidents and properly protecting ourselves."

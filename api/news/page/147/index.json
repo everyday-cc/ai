@@ -2,6 +2,40 @@
   "page": 147,
   "value": [
     {
+      "path": "_news/2022-05-27-nearly-50-percent-of-uae-residents-say-government-must-invest-in-self-driving-cars-ai-3d-printing-survey.md",
+      "title": "Nearly 50 percent of UAE residents say government must invest in self-driving cars, AI, 3D printing: survey",
+      "excerpt": "UAE residents believe that artificial intelligence, virtual reality, and self-driving cars will have a positive impact, with half of respondents in a YouGov survey saying the government should invest in AI. With its favourable business legislation and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.arabianbusiness.com/industries/technology/nearly-50-percent-of-uae-residents-say-government-must-invest-in-self-driving-cars-ai-3d-printing-survey",
+      "originalUrl": "https://www.arabianbusiness.com/industries/technology/nearly-50-percent-of-uae-residents-say-government-must-invest-in-self-driving-cars-ai-3d-printing-survey",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-27T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Arabian Business",
+        "domain": "arabianbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-artificial-intelligence-in-marketing-market-to.md",
       "title": "Artificial Intelligence in Marketing Market to...",
       "excerpt": "The artificial intelligence in marketing market share growth by the on-premise segment will be significant for revenue generation. Primarily, marketers can reach customers in real-time via on-premise marketing. It is about how companies utilize in-store ...",
@@ -1044,50 +1078,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-microsoft-azure-to-spin-up-amd-mi200-gpu-clusters-for-large-scale-ai-training.md",
-      "title": "Microsoft Azure to spin up AMD MI200 GPU clusters for 'large scale' AI training",
-      "excerpt": "Microsoft Build Microsoft Azure on Thursday revealed it will use AMD's top-tier MI200 Instinct GPUs to perform “large-scale” AI training in the cloud. “Azure will be the first public cloud to deploy clusters of AMD's flagship MI200 GPUs for large-scale AI training,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/05/26/amd_azure_microsoft/?td=amp-keepreading-btm",
-      "originalUrl": "https://www.theregister.com/2022/05/26/amd_azure_microsoft/?td=amp-keepreading-btm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2020/11/16/amdmi100.jpg",
-          "width": 894,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/",
-      "publishedDateTime": "2022-05-26T15:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

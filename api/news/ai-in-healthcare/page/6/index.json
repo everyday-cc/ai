@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-07-11-research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too.md",
+      "title": "Research: Artificial intelligence can fuel racial bias in health care, but can mitigate it, too",
+      "excerpt": "While some artificial intelligence algorithms do indeed exacerbate inequitable medical care, other algorithms can actually close such gaps.",
+      "sourceUrl": null,
+      "webUrl": "https://journalistsresource.org/home/research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too/",
+      "originalUrl": "https://journalistsresource.org/home/research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://journalistsresource.org/wp-content/uploads/2022/06/artificial-intelligence-g55ddc4275_1920.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-11T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Journalist's Resource",
+        "domain": "journalistsresource.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-11-computer-vision-in-healthcare-market-size-2022-2028-industry-share-and-demand-analysis-of-key-players.md",
       "title": "Computer Vision in Healthcare Market Size 2022-2028 Industry Share and Demand Analysis of Key Players",
       "excerpt": "Jul 11, 2022 (Market Insight Reports) -- New York, US, This Computer Vision in Healthcare Market Research Report gives the study a complete context and includes estimates based on in-house expert ...",
@@ -1282,40 +1325,6 @@
       "provider": {
         "name": "NBC News",
         "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-retrace-achieves-ehnac-healthcare-network-accreditation.md",
-      "title": "Retrace Achieves EHNAC Healthcare Network Accreditation",
-      "excerpt": "Retrace , a leader in dental artificial intelligence and the first native-built AI healthcare clearinghouse providing digital infrastructure for US health care, announced today it has achieved full accreditation with the Healthcare Network Accreditation Program (HNAP) for Electronic Health Networks (EHN) from the Electronic Healthcare Network Accreditation Commission.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-retrace-achieves-ehnac-healthcare-network-accreditation-/2022/06/30/9631748.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-retrace-achieves-ehnac-healthcare-network-accreditation-/2022/06/30/9631748.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -1,20 +1,20 @@
 ---
 category: news
 title: "The challenges automakers, and now Tesla, face with humanoid robots"
-excerpt: "Tesla's CEO Elon Musk is set to unveil its prototype humanoid robots at an event on Sept. 30, hoping to expand beyond self-driving cars"
-publishedDateTime: 2022-09-21T01:32:00Z
-originalUrl: "https://tech.hindustantimes.com/tech/news/the-challenges-automakers-and-now-tesla-face-with-humanoid-robots-71663674010672.html"
-webUrl: "https://tech.hindustantimes.com/tech/news/the-challenges-automakers-and-now-tesla-face-with-humanoid-robots-71663674010672.html"
-ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/the-challenges-automakers-and-now-tesla-face-with-humanoid-robots-71663674010672.html"
-cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/the-challenges-automakers-and-now-tesla-face-with-humanoid-robots-71663674010672.html"
+excerpt: "Tesla's humanoid robots, Optimus, will be initially used in manufacturing and logistics for boring and repetitive work, thus addressing a labour shortage"
+publishedDateTime: 2022-09-21T06:07:00Z
+originalUrl: "https://www.thehindu.com/sci-tech/technology/the-challenges-automakers-honda-tesla-general-motors-hyundai-nasa-face-humanoid-robots/article65917068.ece"
+webUrl: "https://www.thehindu.com/sci-tech/technology/the-challenges-automakers-honda-tesla-general-motors-hyundai-nasa-face-humanoid-robots/article65917068.ece"
+ampWebUrl: "https://www.thehindu.com/sci-tech/technology/the-challenges-automakers-honda-tesla-general-motors-hyundai-nasa-face-humanoid-robots/article65917068.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/the-challenges-automakers-honda-tesla-general-motors-hyundai-nasa-face-humanoid-robots/article65917068.ece/amp/"
 type: article
 quality: 76
 heat: -1
 published: false
 
 provider:
-  name: Hindustan Times Tech
-  domain: hindustantimes.com
+  name: The Hindu
+  domain: thehindu.com
 
 topics:
   - AI in Robotics
@@ -22,9 +22,9 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://images.hindustantimes.com/tech/img/2022/09/20/1600x900/GLOBAL-ECONOMY-COMPANIES-2_1663681081790_1663681081790_1663681094192_1663681094192.JPG"
-    width: 1600
-    height: 900
+  - url: "https://th-i.thgim.com/public/incoming/dv0aw0/article65917069.ece/alternates/LANDSCAPE_615/2022-09-20T181456Z_1847150550_RC25LW9ZUUN6_RTRMADP_3_PG-E-FIRE-TESLA.JPG"
+    width: 615
+    height: 383
     isCached: true
 
 related:
@@ -61,6 +61,6 @@ related:
       domain: cnbctv18.com
     quality: 36
 
-secured: "X7n02UbZBJlbwTfK9Ab1UwuNLQeC++nH6On5uj1rzbeV2XrMGLpB2eM0uhIbx2dVml526B/apt7UHPs6jr29TlwTpMZraLAkaxYOPH2j6lq0DWONAraxQdWT1kiV4FJ83Rrj243h+A6OVuOezs7yklq9FF6taRK0i49Cxb/2ZiboE74OauA5gYrh/NWjquvoX0v6ba1r4qrFLCSt7x9bIrWbk95l5ZhnvlXJ6ITrJ+RZhjUAuTzKUb6d5fOGAkO1Htf3BHG4AQKh4SMqzGNXlPjzTp2xgNIrA3rBIRfZxyVEmBr0HnhaBR5fjhqhOXld5T2GrhvYc2/MfrAm493bIFvwBYYXOZwyO9D2X5NuCm4=;HZfQv0IQcNckMfBSMTGgOA=="
+secured: "1dmKKS4m2r3nIgwdMMWVppss/skpsPA+NobGIaLdQhgYh7F7gzRwMPJXWFNUoIyBrbhvWzosbpwMlwrfAe9CZtzipRMA2elvlIdHfjeVEWm8DBBez0zdYV/uTtABoT+MSh8BOTZ8MVy5en+4gbHXBwezvPgT8JiXRL3IHQx8001N60DD9eAXr88/L/Zc2NsKRQ6Ely7j9fhAtlDHE1P1KlzLyR8VnU8RPlqoE3LUaFl0rXhFSAFGM5wna2qEm7Ihz+OsJdcyNHrohUQLa3kCRlsqNwweSxvEj6V3goqeM6FHeWXSXUcPX1XpoofDLiom1l2Hfj0Az3tpqvHMyDwgMrv4vrSWOQfTgOUXeuc15gU=;QeipghRKSPWIXyCBLzbnzQ=="
 ---
 

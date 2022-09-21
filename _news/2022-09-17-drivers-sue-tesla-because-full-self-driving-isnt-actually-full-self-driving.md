@@ -75,20 +75,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla Faces Class-Action Suit Over “Deceptive” Claims About Autopilot and Full Self-Driving Tech"
-    excerpt: "Tesla and its CEO Elon Musk have been hit by a class-action lawsuit filed in federal court claiming they “deceptively and misleadingly” overstated the capabilities of the automaker’s Autopilot and Full Self-Driving vehicle technologies."
-    publishedDateTime: 2022-09-16T14:49:00Z
-    webUrl: "https://www.thedetroitbureau.com/2022/09/tesla-faces-class-action-suit-over-deceptive-claims-about-autopilot-and-full-self-driving-tech/"
-    type: article
-    provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 41
-    images:
-      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2020/10/Tesla-full-self-driving-2020.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Self-driving cars put HB2813 to the test"
     excerpt: "With more self-driving cars on our roads, we are in new territory when it comes to determining fault during accidents and properly protecting ourselves."
     publishedDateTime: 2022-09-16T16:46:00Z

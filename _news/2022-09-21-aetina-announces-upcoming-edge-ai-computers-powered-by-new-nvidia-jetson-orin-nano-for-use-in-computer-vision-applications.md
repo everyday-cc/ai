@@ -229,6 +229,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 36
+  - title: "Nvidia taps TSMC to manufacture new AI-powered gaming chips"
+    excerpt: "Nvidia has gained attention in recent years with its booming data centre business, which sells chips used in artificial intelligence work such as natural language processing. But the company’s roots are in graphics chips,"
+    publishedDateTime: 2022-09-21T06:21:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2022/09/21/nvidia-taps-tsmc-to-manufacture-new-ai-powered-gaming-chips/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 34
   - title: "Run:ai Certified to Run NVIDIA AI Enterprise Software Suite"
     excerpt: "AI Atlas for NVIDIA AI Enterprise will help data scientists run their AI workloads most efficiently,\" said Omri Geller, CEO and co-founder of Run:ai. \"Our mission is to speed up AI and get more models into production,"
     publishedDateTime: 2022-09-20T18:18:00Z

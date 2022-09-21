@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-05-could-artificial-intelligence-assisted-colonoscopy-be-better-for-adenoma-detection.md",
+      "title": "Could Artificial Intelligence-Assisted Colonoscopy Be Better for Adenoma Detection?",
+      "excerpt": "ACCORDING to the results of a prospective randomised clinical trial, artificial intelligence (AI) colonoscopy has enhanced the detection rate of adenoma compared with standard colonoscopy. Remarkable efforts have been dedicated to improving adenoma ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.emjreviews.com/gastroenterology/news/could-artificial-intelligence-assisted-colonoscopy-be-better-for-adenoma-detection/",
+      "originalUrl": "https://www.emjreviews.com/gastroenterology/news/could-artificial-intelligence-assisted-colonoscopy-be-better-for-adenoma-detection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://emj.emg-health.com/wp-content/uploads/sites/2/2022/08/pexels-tara-winstead-8386369.jpg",
+          "width": 821,
+          "height": 547,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-05T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "emjreviews.com",
+        "domain": "emjreviews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-05-artificial-intelligence-shows-promise-in-diagnosing-strokes.md",
       "title": "Artificial Intelligence Shows Promise in Diagnosing Strokes",
       "excerpt": "This type of stroke is typically treated by endovascular therapy (EVT). During this procedure ... 19th Annual Meeting proposes using artificial intelligence (AI) technology to identify the cause of a stroke more quickly. The patient would undergo a ...",
@@ -1345,49 +1388,6 @@
         "AI in Healthcare",
         "AI in Autos",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-israeli-researchers-develop-ai-machine-learning-tool-for-cancer-therapy.md",
-      "title": "Israeli researchers develop AI machine-learning tool for cancer therapy",
-      "excerpt": "Machine learning – the application of artificial intelligence (AI) using computers – can be utilized to match a cancer patient with the best immunotherapy. This process – using mathematical models of data to help a computer learn without direct ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/health-and-wellness/article-712752",
-      "originalUrl": "https://www.jpost.com/health-and-wellness/article-712752",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/510684",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/health-and-wellness/article-712752/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/health-and-wellness/article-712752/amp",
-      "publishedDateTime": "2022-07-21T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],
