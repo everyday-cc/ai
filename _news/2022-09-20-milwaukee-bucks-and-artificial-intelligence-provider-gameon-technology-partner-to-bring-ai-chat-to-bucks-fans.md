@@ -1,26 +1,28 @@
 ---
 category: news
-title: "MILWAUKEE BUCKS AND ARTIFICIAL INTELLIGENCE PROVIDER GameOn TECHNOLOGY PARTNER TO BRING AI CHAT TO BUCKS FANS"
-excerpt: "The Milwaukee Bucks and artificial intelligence (AI) provider GameOn Technology are partnering to bring a conversational AI chat experience to Bucks fans. The new chat feature on the Bucks' website and mobile app will consolidate information about the Bucks and Fiserv Forum into one AI chat,"
-publishedDateTime: 2022-09-20T15:07:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/milwaukee-bucks-and-artificial-intelligence-provider-gameon-technology-partner-to-bring-ai-chat-to-bucks-fans-1031754169"
-webUrl: "https://markets.businessinsider.com/news/stocks/milwaukee-bucks-and-artificial-intelligence-provider-gameon-technology-partner-to-bring-ai-chat-to-bucks-fans-1031754169"
+title: "Milwaukee Bucks and Artificial Intelligence Provider GameOn Technology Partner to Bring AI Chat to Bucks Fans"
+excerpt: "The Milwaukee Bucks and artificial intelligence (AI) provider GameOn Technology are partnering to bring a conversational AI chat experience to Bucks fans. The new chat feature on the Bucks’ website and mobile app will consolidate information about the Bucks and Fiserv Forum into one AI chat,"
+publishedDateTime: 2022-09-20T10:21:00Z
+originalUrl: "https://www.nba.com/bucks/news/milwaukee-bucks-and-artificial-intelligence-provider-gameon-technology-partner-to-bring-ai-chat-to-bucks-fans"
+webUrl: "https://www.nba.com/bucks/news/milwaukee-bucks-and-artificial-intelligence-provider-gameon-technology-partner-to-bring-ai-chat-to-bucks-fans"
 type: article
-quality: 43
-heat: 43
+quality: 33
+heat: 33
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: National Basketball Association
+  domain: nba.com
 
 topics:
   - AI
 
-secured: "4zI1+4VLwSGeNWO9BKkNbLALNKqVlIgxRvcV+amCxToMSPHqeiOiaLyt2Icw/vVIuU7DBsE09oIK43YPQju5xAuN6XN4Ks3FITXEYcrJ20nlaBQe9XtXOVDaI10nabqoKpDopaFRqnsp5uO3AY0lGwHMoJhPLi15ZFfKxF7ZzKT5tnTgcxwv/etqeBHlnIpK2q0Bv2Yt3FSCA4hdKmK1+Lnt9HXCk0KLyvZFX6UD3tyu1H04xFPK+01c9jTAYp3cX0VOVgZNZeXqjRykOeinPJVvmguk5DCoVwI13RDuhD4hEQAsI63XmmyMGTezuC7i+c2r8UDLpbbd4SLI10bTkHQU2LQIGkDgSIZqW3Sn4Qk=;XfHtvWs5AcBIXqnfoH4yjg=="
+images:
+  - url: "https://cdn.nba.com/teams/uploads/sites/1610612749/2022/09/Screen-Shot-2022-09-20-at-10.03.29-AM.png"
+    width: 1172
+    height: 394
+    isCached: true
+
+secured: "hUDRVjPEuesO6NFtGpkSQ9YnnBslguGlQMBX8vNVVWHqkhOIU1nYatc5LF/77v0P5SAsBpm902M2X2CMoDpIsgmpq2hMNrjqcFomizRi0MQsDFHSbeEDgVMiYUAGtsaZ4L4tduqbPaN0M5rLZm4/qKcklh1A6zogperc7Y/lcg/Q57S/1lkAZTpRqEaZAYAsNHBU8ub9nrTN1jbffogrfh83g297KO9Hduw2Ekmx/ZVkRqlEREIdQcPKfVkdIri/W/cHYHDQ092vA+f/AddCSRVmYp1/B+krQfwsDfBFazC/tVJFKROYRfoWNxJ7QZFnjst6ZdFdMpLKSl18ZUW3jVH+9YXZNyRJPgH+CzpYyIQ=;TDKUOsEOjjxHMB1sDNMrVg=="
 ---
 

@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - IBM AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/09/IBM_linuxone_emperor_4_data_center_091222-e1663022887839.jpg?w=1200&strip=all"

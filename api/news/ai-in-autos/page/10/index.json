@@ -2,6 +2,40 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-07-29-united-wholesale-mortgage-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
+      "title": "United Wholesale Mortgage Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!",
+      "excerpt": "United Wholesale Mortgage will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Pontiac will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-united-wholesale-mortgage-selected-as-host-site-artificial-/2022/07/28/9647169.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-united-wholesale-mortgage-selected-as-host-site-artificial-/2022/07/28/9647169.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-29-wimi-hologram-academy-virtual-reality-based-remote-vehicle-driving-technology.md",
       "title": "WIMI Hologram Academy: Virtual Reality-based Remote Vehicle Driving Technology",
       "excerpt": "This article follows below: Driverless as well as artificial intelligence are the current research hotspots in the field of vehicles. Considering the cost of experiments, how to conduct unmanned ...",
@@ -1260,40 +1294,6 @@
       "provider": {
         "name": "Japan Today",
         "domain": "japantoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-heres-what-it-looks-like-to-ride-a-chinese-robotaxi-with-no-steering-wheel.md",
-      "title": "Here’s what it looks like to ride a Chinese robotaxi with no steering wheel",
-      "excerpt": "Baidu has unveiled plans for an electric self-driving car with a removable steering wheel, marking another step forward in the fast-moving robotaxi race in China. The Chinese tech giant, ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.channel3000.com/i/heres-what-it-looks-like-to-ride-a-chinese-robotaxi-with-no-steering-wheel/",
-      "originalUrl": "https://www.channel3000.com/i/heres-what-it-looks-like-to-ride-a-chinese-robotaxi-with-no-steering-wheel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel 3000",
-        "domain": "channel3000.com",
         "images": null,
         "publishers": null,
         "authors": null

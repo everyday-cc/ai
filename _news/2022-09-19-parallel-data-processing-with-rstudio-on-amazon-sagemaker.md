@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/parallel-data-proces
 webUrl: "https://aws.amazon.com/blogs/machine-learning/parallel-data-processing-with-rstudio-on-amazon-sagemaker/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/15/Featured-images-for-ML-11474.jpg"
         width: 800
         height: 400
+        isCached: true
+  - title: "Configure a custom Amazon S3 query output location and data retention policy for Amazon Athena data sources in Amazon SageMaker Data Wrangler"
+    excerpt: "Amazon SageMaker Data Wrangler reduces the time that it takes to aggregate and prepare data for machine learning (ML) from weeks to minutes in Amazon SageMaker Studio, the first fully integrated development environment (IDE) for ML. With Data Wrangler, you can simplify the process of data preparation"
+    publishedDateTime: 2022-09-20T22:41:25Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/configure-a-custom-amazon-s3-query-output-location-and-data-retention-policy-for-amazon-athena-data-sources-in-amazon-sagemaker-data-wrangler/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 54
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/20/custom-s3-query-output-location.jpg"
+        width: 1550
+        height: 772
         isCached: true
   - title: "Amazon SageMaker Provides New Built-in TensorFlow Image Classification Algorithms"
     excerpt: "The Amazon SageMaker TensorFlow image classification algorithm is a supervised learning algorithm that supports transfer learning with many pretrained models from the TensorFlow Hub. The image ..."

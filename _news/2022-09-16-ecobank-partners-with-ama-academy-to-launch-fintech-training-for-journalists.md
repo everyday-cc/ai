@@ -7,8 +7,8 @@ originalUrl: "https://hapakenya.com/2022/09/16/ecobank-partners-with-ama-academy
 webUrl: "https://hapakenya.com/2022/09/16/ecobank-partners-with-ama-academy-to-launch-fintech-training-for-journalists/"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: hapakenya.com
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Sardine raises $51.5m for fintech fraud platform"
+    excerpt: "Sardine, a behaviour-based fraud and compliance platform for fintechs developed by Coinbase, Revolut and PayPal veterans, has raised $51.5 million in a Series B funding round led by Andreessen Horowitz's growth fund."
+    publishedDateTime: 2022-09-20T23:22:00Z
+    webUrl: "https://www.finextra.com/newsarticle/40982/sardine-raises-515m-for-fintech-fraud-platform"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/marcos-paulo-prado-okethwwiieu-unsplash.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Boost Payment Solutions Partners with Australian FinTech Leader Robobai"
     excerpt: "A leader in domestic and international B2B payment processing, Boost will provide its patented straight-through processing solution to Robobai customers. This collaboration will accelerate payment optimization for enterprise businesses and streamline end-to-end disbursement processes across the supply chain."
     publishedDateTime: 2022-09-20T13:05:00Z

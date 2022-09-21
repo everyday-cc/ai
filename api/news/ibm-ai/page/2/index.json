@@ -2,6 +2,274 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-30-mythic-how-an-analog-processor-could-revolutionize-edge-ai.md",
+      "title": "Mythic: How An Analog Processor Could Revolutionize Edge AI",
+      "excerpt": "Mythic: How an Analog Processor Could Revolutionize Edge AI Alberto Romero, LLM Analyst Karl Freund, Founder and Principal Analyst Cambrian-AI Research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/07/30/mythic-how-an-analog-processor-could-revolutionize-edge-ai/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/07/30/mythic-how-an-analog-processor-could-revolutionize-edge-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e557a9abbf3ce8215398d2/0x0.png?format=png&width=1200",
+          "width": 674,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/07/30/mythic-how-an-analog-processor-could-revolutionize-edge-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/07/30/mythic-how-an-analog-processor-could-revolutionize-edge-ai/amp/",
+      "publishedDateTime": "2022-07-30T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-ai-for-customer-service-market-growth-2022-to-2028-future-trends-and-forecast-by-ibm-ant-group-chatra-clickdesk.md",
+      "title": "AI for Customer Service Market Growth 2022 to 2028, Future Trends and Forecast | By -IBM, Ant Group, Chatra, ClickDesk",
+      "excerpt": "The report also looks at AI for Customer Service players, important collaborations, mergers and acquisitions, trending innovations, and business policies. IBM, Ant Group, Chatra, ClickDesk ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ai-for-customer-service-market-growth-2022-to-2028-future-trends-and-forecast-by-ibm-ant-group-chatra-clickdesk",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-for-customer-service-market-growth-2022-to-2028-future-trends-and-forecast-by-ibm-ant-group-chatra-clickdesk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/778f53a99eda86447dc564a8a476d980f15706b8-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-ai-infrastructure-market-worth-us966-billion-by-2027-at-cagr-of-275.md",
+      "title": "AI Infrastructure Market worth US$96.6 billion by 2027, at CAGR of 27.5%",
+      "excerpt": "\"AI Infrastructure Market\"The AI Infrastructure Market is expected to reach USD 96.6 billion by 2027 from USD 28.7 billion in 2022 to grow at a CAGR of 27.5% from 2022 to 2027.According to a research",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/07/ab28237970/ai-infrastructure-market-worth-us-96-6-billion-by-2027-at-cagr-of-27-5",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/ab28237970/ai-infrastructure-market-worth-us-96-6-billion-by-2027-at-cagr-of-27-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketsandmarkets.com/Images/ai-infrastructure-market.jpg",
+          "width": 650,
+          "height": 373,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28237970",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28237970",
+      "publishedDateTime": "2022-07-27T18:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-cybersecurity-whats-the-real-cost-ask-ibm.md",
+      "title": "Cybersecurity - what’s the real cost? Ask IBM",
+      "excerpt": "IBM then makes the following bold claim : Participating organizations fully deploying security AI and automation incurred $3.05 million less on average in breach costs compared to studied organizations that have not deployed the technology – the biggest ...",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/cybersecurity-whats-real-cost-ask-ibm",
+      "originalUrl": "https://diginomica.com/cybersecurity-whats-real-cost-ask-ibm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2020-08/cybersecurity.jpg",
+          "width": 1644,
+          "height": 1052,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/cybersecurity-whats-real-cost-ask-ibm?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/cybersecurity-whats-real-cost-ask-ibm?amp",
+      "publishedDateTime": "2022-07-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-ibm-uses-power10-cpu-as-an-io-switch.md",
+      "title": "IBM Uses Power10 CPU As An I/O Switch",
+      "excerpt": "Back in early July, we covered the launch of IBM’s entry and midrange Power10 systems and mused ... customers who run transaction processing systems and are looking to add AI inference to their applications through matrix math units on the Power10 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2022/07/26/ibm-uses-power10-cpu-as-an-i-o-switch/",
+      "originalUrl": "https://www.nextplatform.com/2022/07/26/ibm-uses-power10-cpu-as-an-i-o-switch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/ibm-power10-die-shot.jpg",
+          "width": 1493,
+          "height": 1460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2022/07/26/ibm-uses-power10-cpu-as-an-i-o-switch/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/07/26/ibm-uses-power10-cpu-as-an-i-o-switch/amp/",
+      "publishedDateTime": "2022-07-26T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-backed-by-yoshua-bengio-ubenwa-is-using-ai-to-diagnose-neurological-issues-through-baby-cries.md",
+      "title": "Backed by Yoshua Bengio, Ubenwa is using AI to diagnose neurological issues through baby cries",
+      "excerpt": "Ubenwa said the goal is to create a world where baby cries are no longer viewed as “noisy sounds that we are trying to quiet,” but ways to understand health.",
+      "sourceUrl": null,
+      "webUrl": "https://betakit.com/backed-by-yoshua-bengio-ubenwa-is-using-ai-to-diagnose-neurological-issues-through-baby-cries/",
+      "originalUrl": "https://betakit.com/backed-by-yoshua-bengio-ubenwa-is-using-ai-to-diagnose-neurological-issues-through-baby-cries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.betakit.com/wp-content/uploads/2022/07/minnie-zhou-0hiUWSi7jvs-unsplash-1.jpg",
+          "width": 1050,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-25T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BetaKit",
+        "domain": "betakit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-22-ibm-watson-gets-a-factory-job.md",
       "title": "IBM Watson Gets a Factory Job",
       "excerpt": "The goal is to combine ABB’s domain knowledge and digital solutions with IBM’s artificial intelligence and machine-learning capabilities. The first two joint industry solutions powered by ABB Ability and Watson were designed to bring real-time ...",
@@ -985,251 +1253,6 @@
       "provider": {
         "name": "Zawya",
         "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-aws-azure-google-cloud-top-cloud-ai-developer-market.md",
-      "title": "AWS, Azure, Google Cloud top cloud AI developer market",
-      "excerpt": "Some of the largest and most innovative technology companies in the world are investing heavily in cloud artificial intelligence developer services, as the global AI software market is expected to reach a whopping US$135 billion by 2025,",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com.au/news/aws-azure-google-cloud-top-cloud-ai-developer-market-581913",
-      "originalUrl": "https://www.crn.com.au/news/aws-azure-google-cloud-top-cloud-ai-developer-market-581913",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/20220628072254_0_0_0_0_70__Features_20211207121924_cloud_1.jpg",
-          "width": 1183,
-          "height": 887,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN Australia",
-        "domain": "crn.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AWS AI",
-        "Microsoft AI",
-        "Machine Learning",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-25-artificial-intelligence-ai-in-higher-education-market-may-see-a-big-move-major-giants-cerevrum-ibm-google.md",
-      "title": "Artificial Intelligence (AI) in Higher Education Market May See a Big Move | Major Giants Cerevrum, IBM, Google",
-      "excerpt": "Artificial Intelligence (AI) in Higher Education Market, Global Outlook and Forecast 2022-2028 is latest research study released by HTF MI evaluating the market risk side analysis, highlighting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-higher-education-market-may-see-a-big-move-major-giants-cerevrum-ibm-google",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-higher-education-market-may-see-a-big-move-major-giants-cerevrum-ibm-google",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/07/Supreme-Court-USA-SCOTUS-Kavanaugh-Roberts-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T12:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-how-ibm-watson-is-set-to-serve-up-a-smart-fan-experience-at-wimbledon-2022.md",
-      "title": "How IBM Watson is set to serve up a smart fan experience at Wimbledon 2022",
-      "excerpt": "and improved match insights powered by IBM’s Watson AI system. “We're very excited about this year,” noted the AELTC’s Communications & Marketing Director Alexandra Willis, “But ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/au/news/how-ibm-watson-is-set-to-serve-up-a-smart-fan-experience-at-wimbledon-2022",
-      "originalUrl": "https://www.techradar.com/au/news/how-ibm-watson-is-set-to-serve-up-a-smart-fan-experience-at-wimbledon-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022.md",
-      "title": "IBM Reveals New AI and Cloud Powered Fan Experiences for Wimbledon 2022",
-      "excerpt": "It hosts and processes data from matches that is fed into AI models built using IBM Watson Studio and IBM Watson Discovery to produce insights for fans, commentators and media. Alexandra ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1262726&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1262726&cat=PR News Wire",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022.md",
-      "title": "IBM Reveals New AI and Cloud Powered Fan Experiences for Wimbledon 2022",
-      "excerpt": "IBM (NYSE: IBM) and the All England Lawn Tennis Club today unveil new ways for Wimbledon fans around the world to experience The Championships digitally, powered by artificial intelligence (AI) running on IBM Cloud and hybrid cloud technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/",
-      "originalUrl": "https://indiaeducationdiary.in/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-egat-drives-sustainable-operations-with-ibm-ai.md",
-      "title": "EGAT drives sustainable operations with IBM AI",
-      "excerpt": "In addition, the proven increased production efficiency also leads to the expanded use of IBM's AI-powered asset management system at our hydroelectric and solar power plants. This drive towards ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/egat-drives-sustainable-operations-ibm-ai",
-      "originalUrl": "https://www.asiaone.com/business/egat-drives-sustainable-operations-ibm-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2022/pr-newswire_500_4_1288.jpg?h=7de12b8a&itok=z2jGRmC9",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -76,20 +76,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "GM's self-driving car arm will take driverless cars to Texas and Arizona this year"
-    excerpt: "General Motors' self-driving car subsidiary Cruise is expanding beyond San Francisco as it drives toward a goal of $1 billion in revenue by 2025. In June, Cruise started operating its self-driving ..."
-    publishedDateTime: 2022-09-16T06:53:00Z
-    webUrl: "https://www.freep.com/story/money/cars/general-motors/2022/09/13/gms-self-driving-car-business-cruise-austin-texas-phoenix-arizona/69487948007/"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 33
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2018/07/14/PDTF/d35a29a8-b383-4046-ba71-873f788d40e8-GM_Cruise_AV-30.JPG?auto=webp&crop=2999,1687,x1,y143&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "8gSeYz8yO3jKRIamfYtAkg2s0hDYEBzmutffC3FQ/d+vxgWb1ooQmQS3dcAYDbWtasUz18OSYL8yxZu2roglfa6MRc48yaS5KbbJqc8gKG3q5OxE0CWcF4Rgaf4LvbZq89hnl7A4Y0mF/Wz3nzT/pNrcl4j+FELfZ95SQzABjBrrBRZhz21eGCWiCIAQxbGF535rNPDuthbrlxG4CzDfMh9VcmADQpa0Jkx03bwd4maOKIDOqT+eWAyTyMN2Cckamf+6eALt5GX6MQIOBuSP98I8jnhCrJUe04TDv3PSEo/Ld8u7GMRPieKrMrTZqBLtOT6QMwt4cvRcSXVqFxjKj23bYUcpqlMN2o/2wT4B9OU=;i1LHYNEd5szarqrsjv9hNg=="
 ---

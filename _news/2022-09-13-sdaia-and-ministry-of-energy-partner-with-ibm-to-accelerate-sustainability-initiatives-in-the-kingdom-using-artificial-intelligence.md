@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - IBM AI
 
 images:
   - url: "https://static.zawya.com/version/c:NzZiMTk0YTAtMzM0ZS00:M2I0N2Mw/r6__8259-2-jpg.JPG?f=3%3A2"

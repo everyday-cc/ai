@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-07-01-futuristic-driverless-taxis-are-already-causing-major-issues.md",
+      "title": "Futuristic Driverless Taxis Are Already Causing Major Issues",
+      "excerpt": "The GM-backed driverless car company has been operating a commercial robotaxi service in the city since securing a permit back in early June 2022, but a Cruise traffic jam gnarled up one street ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/914406/futuristic-driverless-taxis-are-already-causing-major-issues/",
+      "originalUrl": "https://www.slashgear.com/914406/futuristic-driverless-taxis-are-already-causing-major-issues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/futuristic-driverless-taxis-are-already-causing-major-issues/l-intro-1656689423.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-01T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-01-swarm-of-malfunctioning-driverless-taxis-brings-traffic-to-a-halt-for-hours.md",
       "title": "Swarm of malfunctioning driverless taxis brings traffic to a halt for hours",
       "excerpt": "More than a dozen taxis held up traffic for around two hours before employees made it to the scene Credit: Reddit A swarm of driverless taxis held up traffic for hours at a junction after one of ...",
@@ -1184,58 +1236,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-tesla-relaunches-6000-enhanced-autopilot-gutting-full-self-driving-package-in-the-process.md",
-      "title": "Tesla relaunches $6,000 Enhanced Autopilot – gutting Full Self-Driving package in the process",
-      "excerpt": "Tesla has relaunched its Enhanced Autopilot option and pulled almost all the features from its Full Self-Driving (FSD) package in the process. Over the years, Tesla has changed its Autopilot options and pricing so many times,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/06/24/tesla-relaunches-enhanced-autopilot-gutting-full-self-driving-package/",
-      "originalUrl": "https://electrek.co/2022/06/24/tesla-relaunches-enhanced-autopilot-gutting-full-self-driving-package/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/07/Tesla-Autopilot-hero-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/06/24/tesla-relaunches-enhanced-autopilot-gutting-full-self-driving-package/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/06/24/tesla-relaunches-enhanced-autopilot-gutting-full-self-driving-package/amp/",
-      "publishedDateTime": "2022-06-24T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

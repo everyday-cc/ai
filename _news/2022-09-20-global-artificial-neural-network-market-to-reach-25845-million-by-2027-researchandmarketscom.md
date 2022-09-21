@@ -60,13 +60,13 @@ related:
     quality: 18
   - title: "Artificial Intelligence (AI) In Retail Market to Hit $40.74 Billion by 2030: Grand View Research, Inc."
     excerpt: "The global AI in retail market size is anticipated to reach USD 40.74 billion by 2030, expanding at a CAGR of 23.9% from 2022 to 2030, according to a new study by Grand View Research, Inc. The rising prominence of advanced technologies,"
-    publishedDateTime: 2022-09-20T16:43:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/20/9677284.htm"
+    publishedDateTime: 2022-09-20T16:45:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-retail-market-hit-4074-billion-/2022/09/20/9677284.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 18
+    quality: 16
   - title: "Global Data Collection and Labeling Market Report 2022: Rapid Penetration Of AI And Machine Learning Drives Sector - ResearchAndMarkets.com"
     excerpt: "The global data collection and labeling market size is expected to reach USD 12.75 billion by 2030, according to this report. The market is anticipated to expand at a CAGR of 25.1% from 2022 to 2030."
     publishedDateTime: 2022-09-20T12:50:00Z

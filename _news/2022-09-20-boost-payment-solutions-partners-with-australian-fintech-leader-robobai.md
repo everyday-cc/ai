@@ -33,6 +33,20 @@ related:
         width: 640
         height: 278
         isCached: true
+  - title: "Sardine raises $51.5m for fintech fraud platform"
+    excerpt: "Sardine, a behaviour-based fraud and compliance platform for fintechs developed by Coinbase, Revolut and PayPal veterans, has raised $51.5 million in a Series B funding round led by Andreessen Horowitz's growth fund."
+    publishedDateTime: 2022-09-20T23:22:00Z
+    webUrl: "https://www.finextra.com/newsarticle/40982/sardine-raises-515m-for-fintech-fraud-platform"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/marcos-paulo-prado-okethwwiieu-unsplash.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "w1KmIZx8Wg37dyYhOWBgF4wey+elAjdgHnTnSKhnOeu/gj6RSOOT0bUmrUdTlXtRVmktAERt15es6sUtQd5xLv0n67Fr6+nnPuJgwrarjrpRxbt79XQpByxf6EbwfThP6+qHgP3rmkqbQsuEvkanyktCJLDD59T4M4gkYpsOVl5Oh9XQRiUd+E5eTnESWcLslEWToJIiJPm/QXEg7+qHXWK+G8ySEj+YKiEnZN00iIoSn8dJGWCi7LT3F9Z1ptMKZ+9uau86FRB1mwdFGO6BD1adkrIEwDuX0QWv0kS2fP62mVjtvYfTfzySX9vjdskKUUfU6z6GxNHJqZzQJTyiSZEd++T2voT0IGIcojN6RPtqvBa7yJ4yWHdkdZt+nYs/8ZPPjUMQmk3aS54Z8aqbWabR4kzAjHNs9SQ7ccKDWl4QmtYX8IpAoLm21NgSUlSNghCcMnBMoQiY0rYx9HEWEJZrdK9nyQ4/FOKhT6EoEme1fd3MwJtsQAi3+iC62QiEOk+DrgC2ozHcfntegK5ARw==;FSubgSdq/lFLh4LflYGwKg=="
 ---

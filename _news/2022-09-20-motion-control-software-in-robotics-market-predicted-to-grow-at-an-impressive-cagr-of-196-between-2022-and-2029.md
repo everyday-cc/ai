@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Metaverse In Healthcare Market- A Big Revolution In Healthcare Industry Expected To Hit with a CAGR of 33.7% over the forecast period 2022 – 2028"
-    excerpt: "The Global Metaverse in Healthcare Market is valued at USD 5056.4 Million in 2021 and is expected to reach USD 7453.6 Million by 2028 with a CAGR of 33.7% over the forecast period. Innovations in AR and VR technologies and huge investments in artificial intelligence are some of the major factors driving the growth of the Global Metaverse in Healthcare Market."
-    publishedDateTime: 2022-09-16T07:01:00Z
-    webUrl: "https://www.medgadget.com/2022/09/metaverse-in-healthcare-market-a-big-revolution-in-healthcare-industry-expected-to-hit-with-a-cagr-of-33-7-over-the-forecast-period-2022-2028.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
   - title: "Automotive Artificial Intelligence Market Report 2022: Rising Industrial Automation to Drive Growth - ResearchAndMarkets.com"
     excerpt: "The global automotive artificial intelligence market size is projected to grow from USD 2.3 Billion in 2022 to USD 7.0 Billion by 2027, it is expected to grow at a CAGR of 24.1% from 2022 to 2027. The key factors contributing to the growth of the automotive artificial intelligence market include the growing adoption of ADAS technology by OEMs and the increasing use of AI to make buying decisions."
     publishedDateTime: 2022-09-19T09:33:00Z

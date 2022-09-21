@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-21-elon-musk-faces-skeptics-as-tesla-gets-ready-to-unveil-optimus-robot.md",
+      "title": "Elon Musk faces skeptics as Tesla gets ready to unveil 'Optimus' robot",
+      "excerpt": "Tesla Chief Executive Elon Musk blamed overreliance on factory robots for sending the electric carmaker to \"production hell\" four years ago, saying humans were better at certain jobs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/elon-musk-faces-skeptics-tesla-gets-ready-unveil-optimus-robot-2022-09-20/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/elon-musk-faces-skeptics-tesla-gets-ready-unveil-optimus-robot-2022-09-20/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/gx_3f22a3kYh8h4YmjMhdjZEvNM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WWSNDUO46JPIHMZLGYLX5S6FKQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-nvidia-wants-to-be-the-brains-of-your-self-driving-car.md",
       "title": "Nvidia Wants to Be the Brains of Your Self-Driving Car",
       "excerpt": "Chip designer Nvidia on Tuesday revealed a new processor called Drive Thor it expects will power the autonomous vehicle revolution. Thor processors should arrive in 2024 for cars hitting the roads in 2025,",
@@ -62,7 +115,7 @@
       "originalUrl": "https://www.reuters.com/technology/challenges-automakers-now-tesla-face-with-humanoid-robots-2022-09-20/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -115,7 +168,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/asia-s-first-driverless-cimc-made-boarding-bridge-comes-into-operation-in-china-1031752676",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -1016,7 +1069,8 @@
       "topics": [
         "AI in Autos",
         "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "IBM AI"
       ]
     },
     {
@@ -1342,40 +1396,6 @@
       "provider": {
         "name": "Tom's Guide",
         "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-driverless-vehicle-maker-aurrigo-to-float.md",
-      "title": "Driverless vehicle maker Aurrigo to float",
-      "excerpt": "A maker of driverless vehicles that could solve delays at airports is to list on Aim on Thursday, braving a stock market where there has been a dearth of company floats. Coventry-based Aurrigo ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/article/driverless-vehicle-maker-aurrigo-to-float-pxshf9fk7",
-      "originalUrl": "https://www.thetimes.co.uk/article/driverless-vehicle-maker-aurrigo-to-float-pxshf9fk7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-11T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

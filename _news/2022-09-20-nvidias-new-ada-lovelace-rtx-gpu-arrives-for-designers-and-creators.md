@@ -1,30 +1,22 @@
 ---
 category: news
 title: "NVIDIA's New Ada Lovelace RTX GPU Arrives for Designers and Creators"
-excerpt: "RTX 6000 GPU Provides 2-4x Performance Improvement in Enterprise Workflows;Global Manufacturers to Ship Starting in Q4 SANTA CLARA, Calif., Sept. (GLOBE NEWSWIRE) -- GTC—Opening a new era of neural gr"
-publishedDateTime: 2022-09-20T15:21:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/g28934515/nvidias-new-ada-lovelace-rtx-gpu-arrives-for-designers-and-creators"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/g28934515/nvidias-new-ada-lovelace-rtx-gpu-arrives-for-designers-and-creators"
-ampWebUrl: "https://www.benzinga.com/amp/content/28934515"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28934515"
+excerpt: "Opening a new era of neural graphics that marries AI and simulation, NVIDIA today announced the NVIDIA RTX™ 6000 workstation GPU, based on its new NVIDIA Ada Lovelace architecture. With the new NVIDIA RTX 6000 Ada Generation GPU delivering real-time rendering,"
+publishedDateTime: 2022-09-20T16:43:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/09/20/9677331.htm"
+webUrl: "https://it.tmcnet.com/news/2022/09/20/9677331.htm"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg"
-    width: 700
-    height: 300
-    isCached: true
 
 related:
   - title: "Nvidia debuts new high-end RTX 4090 GPU after previous generation gobbled up by crypto miners"
@@ -164,6 +156,6 @@ related:
       domain: tmcnet.com
     quality: 7
 
-secured: "p9DucxwEOa1LQAigAzhrS2VCwjjBVFl0iM/2m1dEm9KCVPz21Utgf56depACJTvCbA23OvJuHXHjh8GACeftj4ClqHha5c/FxmhaWOyWDIq/WI4xxbhvLtQ8t32ey+g1/s/L9bJWXYdH43tjjMKpKMbP/eoHURQm9CNOavVmL6CDDSQik2sgQ4oTmCaJjVeh1gFDygJExKDu7lrsEY8kS68VK66LMwsd/H996vsYi5SdKNHQxMCVvf9psS9kKYUQtoEiFb6GElhpgGe2cQt9Ome9G11D9PxBg2VBKA3OeFuJf4jgC2vfp1l6Pfy1KBNRl1NDags4+khMh/EZmJ5MEP3fx0Twdo7HlMvaHO84YcQ=;/ubFoJvaFHT5YMA+64YlFw=="
+secured: "fhWDCkYtJ3cw1HN7OUQGXsYGqxtUuatjtNXaIHvFegGDHKCxaVgxGZsgLX+9EB7wl1zHYjKoUcMBa6g56SYjOh2h7uzgrWKiRrj7B2t0EpQRIxXolvITJ91tMs2z7UCkE9vFuKV+lAv6eD6Gr+eO57DBschmwRmhtiSZtJZLwM0FPxyLmmwZo97drTJgH3EKHa9zhxwYyBiyCl2yaio5l/pCnhD5alITttUYDDCKpSvPL/g/U9/qSqnjJ15Doh4T6kHemIAIvmQIc54D4p2MV8GS0hJYRrd9068FVGuXMjk192U1WcozONkshBw38HlBApjIuv6v0WSoDkhvfpgcXDab67wRkRBegGlKP595t0U=;u1m6oGq9IP9ic8KqENM6BA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.itworldcanada.com/article/salesforce-genie-is-now-gene
 webUrl: "https://www.itworldcanada.com/article/salesforce-genie-is-now-generally-available-to-power-real-time-crm-experiences/503780"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,20 @@ topics:
   - AI in Sales
 
 related:
+  - title: "Salesforce goes real-time in CRM upgrade"
+    excerpt: "Salesforce has taken a leap into the world of real-time data management with the integration of customer data platform (CDP) capabilities into its flagship Customer 360 CRM platform."
+    publishedDateTime: 2022-09-20T22:49:00Z
+    webUrl: "https://www.cmo.com.au/article/701714/salesforce-goes-real-time-crm-upgrade/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 56
+    images:
+      - url: "https://d1902livswy8rb.cloudfront.net/dimg/800x800/dimg/customer-graph.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Salesforce Genie aims to release customer data from the marketing bottle"
     excerpt: "Salesforce is touting a real-time upgrade to the customer data platform underlying many of its products, a move it says will allow enterprises to better personalize interactions with customers."
     publishedDateTime: 2022-09-20T12:03:00Z
@@ -55,6 +69,15 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
+    quality: 4
+  - title: "Dreamforce 2022: the biggest Salesforce and Slack news"
+    excerpt: "Salesforce’s Genie customer data platform, a preview of a canvas feature in Slack and an open beta of the rebuilt, more modular Slack are among the biggest announcements at Salesforce’s Dreamforce 2022 conference."
+    publishedDateTime: 2022-09-20T20:39:00Z
+    webUrl: "https://www.crn.com.au/news/dreamforce-2022-the-biggest-salesforce-and-slack-news-585505"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
     quality: 4
 
 secured: "CramZ14oN6uOi3gZ75oG7M1ZAvb01PJyfxS9FLS5oypg6MEjTFMtOmPoPgaxFDKnLSx8MQIokFIMoOXLFY59RFkuMsgYnscVAibCZ1b03IztYF93FuJdYkEF53gohPCYb+hQAJbrNJsewAG1vl0Z2XKPDlMM21rCxA0VY+L9GFcyyf/2VwdqnpyeEgkaUZrLyKVpTfYnlnJckDqU7UhKRQ6iNYuZN9/fuZ62ktaHPzJX4IM66QqtBJXVFx8ik009NuJBLBiCaX4On+YBjAiOuwYokYsjQ3dA0pQUYL8E6Pi8I0sEEXqhvCjhgUyleqohHPfoKAoQXgDKwCGqnuKNc4tLWt0PcbNRQFeWHj0zwQahOjWlXMHrFELMZYpPib1dP+EEqyYJ1ZovmlgFMWpQ2xKDaT19W2f4s2DEFJ80kn5noglYIDwPmse8CG/SNcfdsksumBnJqawmTTZ8LhfDQbGYwXLwnliGgapqJmvcUdTtXsBYUorl4QDucBAulHoInKpORLFVljvsaiph/Y//vQ==;HgqVpEZ/Gv6UNfitJLzXZw=="

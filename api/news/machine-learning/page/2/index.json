@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-09-deep-dive-how-ai-content-generators-work.md",
+      "title": "Deep Dive: How AI content generators work",
+      "excerpt": "AI content generators cannot be subjective, no matter how great the ML training using structured data is, but their uses can be additive to marketing teams.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/deep-dive-how-ai-content-generators-work/",
+      "originalUrl": "https://venturebeat.com/ai/deep-dive-how-ai-content-generators-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/02/ai-marketing-shutterstock_741922060.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/deep-dive-how-ai-content-generators-work/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deep-dive-how-ai-content-generators-work/amp/",
+      "publishedDateTime": "2022-09-09T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-09-09-neural-network-software-market-growth-forecast-2022-2028-research-report-by-gmdh-artificial-intelligence-techniques-oracle.md",
       "title": "Neural Network Software Market Growth Forecast 2022-2028 Research Report | By -GMDH, Artificial Intelligence Techniques, Oracle",
       "excerpt": "Download Free Sample Neural Network Software Market report  The worldwide Neural Network Software Market is expected to grow at a booming CAGR of 2022-2030, rising from USD billion in 2021 to USD billion in 2028.",
@@ -1362,60 +1415,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-intel-ai-chief-wei-li-someone-has-to-bring-todays-ai-supercomputing-to-the-masses.md",
-      "title": "Intel AI chief Wei Li: Someone has to bring today's AI supercomputing to the masses",
-      "excerpt": "Software is key to broadening the reach of AI, and much of it goes back to decades-old approaches in compiler technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/intel-ai-chief-wei-li-someone-has-to-bring-todays-ai-supercomputing-to-the-masses/",
-      "originalUrl": "https://www.zdnet.com/article/intel-ai-chief-wei-li-someone-has-to-bring-todays-ai-supercomputing-to-the-masses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/79dd0cf649ed1fe2683dcc04a0f678e42fe4fa96/2022/09/01/76e323ce-37d1-4bda-997f-c1a80a552302/wei-li-headshot.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/intel-ai-chief-wei-li-someone-has-to-bring-todays-ai-supercomputing-to-the-masses/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-ai-chief-wei-li-someone-has-to-bring-todays-ai-supercomputing-to-the-masses/",
-      "publishedDateTime": "2022-08-31T18:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
       ]
     }
   ],

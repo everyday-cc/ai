@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/asia-s-first-drive
 webUrl: "https://markets.businessinsider.com/news/stocks/asia-s-first-driverless-cimc-made-boarding-bridge-comes-into-operation-in-china-1031752676"
 type: article
 quality: 65
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://static.zawya.com/version/c:MzBhMTkzMTYtYzI1Ny00:YjhmZTE5/956353340.jpg?f=3%3A2"
         width: 900
         height: 600
-        isCached: true
-  - title: "GM's self-driving car arm will take driverless cars to Texas and Arizona this year"
-    excerpt: "General Motors' self-driving car subsidiary Cruise is expanding beyond San Francisco as it drives toward a goal of $1 billion in revenue by 2025. In June, Cruise started operating its self-driving ..."
-    publishedDateTime: 2022-09-16T06:53:00Z
-    webUrl: "https://www.freep.com/story/money/cars/general-motors/2022/09/13/gms-self-driving-car-business-cruise-austin-texas-phoenix-arizona/69487948007/"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 33
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2018/07/14/PDTF/d35a29a8-b383-4046-ba71-873f788d40e8-GM_Cruise_AV-30.JPG?auto=webp&crop=2999,1687,x1,y143&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "7sDUhmd41NUxtVnfbN/XY6S3L2vIyRxztRWZcsNJ6aoqFUrqYq27WOfhrKq5WYLQl/h/qH1BULePbz9eBOj5rMQH2fi7kPoPQPOuC0Yv910eP155I3FEEbAFgzjw5GhOC0VxBwobsUTNynXSmaFMJBYaGyZ8rOp3atjcpfe3bhVZayESKSs/edoY0wbQpSzJUEfZMFNah4tpPSLz2GOPJby304QP8ASONSc2aHnuPeVwJplYReD4r7Ca0mnkc3w1uIMpw7g569DN98SPe0zj9t3EKS9jBRZbyfhiGFa51GQrRoYcG27wWUuumKoAGzU5jJMa9zmQPPH4UE7YmPH//+Y20rsol313hICTMkbJTpt058mAVJU6ZRFCF7VBi/7vBr6RZkGotHDhgOQsNQ7hd3JxiLsDHmAW22FxwxcuN9sPPFfmpMtIiLNL8HfLm7ih9HKOD/SLu2e5ccMTmgP+Cz3Np0z2D8zQaJIvysq75R+5ZiI9yr5nZ2kVwF4HBUXMDfb9CTq2PPufsZsv1iHMjg==;hG65Fv5NzuSeDNsqvBqbqQ=="

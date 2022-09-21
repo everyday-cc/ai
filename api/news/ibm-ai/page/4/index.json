@@ -2,6 +2,274 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-05-20-skills-shortage-stalls-uks-adoption-of-artificial-intelligence-as-europe-continues-to-accelerate.md",
+      "title": "Skills shortage stalls UK’s adoption of artificial intelligence as Europe continues to accelerate",
+      "excerpt": "UK businesses are failing to progress their use of artificial intelligence (AI) at the same pace as other major European",
+      "sourceUrl": null,
+      "webUrl": "https://www.mancunianmatters.co.uk/news/20052022-skills-shortage-stalls-uks-adoption-of-artificial-intelligence-as-europe-continues-to-accelerate-2/",
+      "originalUrl": "https://www.mancunianmatters.co.uk/news/20052022-skills-shortage-stalls-uks-adoption-of-artificial-intelligence-as-europe-continues-to-accelerate-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mancunianmatters.co.uk/wp-content/uploads/2022/05/IBM-AI-Adoption-Index-2022_UK_Image.png.gallery.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-20T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mancunian Matters",
+        "domain": "mancunianmatters.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-ai-driven-support-system-assists.md",
+      "title": "AI-driven support system assists",
+      "excerpt": "VietNamNet Bridge – The Ministry of Health has chosen three hospitals to pilot the IBM Watson for Oncology, an artificial intelligence (AI)-driven clinical decision support system.",
+      "sourceUrl": null,
+      "webUrl": "https://vietnamnet.vn/en/ai-driven-support-system-assists-tag6612186237643902453.html",
+      "originalUrl": "https://vietnamnet.vn/en/ai-driven-support-system-assists-tag6612186237643902453.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.vnncdn.net/v1/icon/return.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vietnamnet",
+        "domain": "vietnamnet.vn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-skills-shortage-stalls-uks-adoption-of-artificial-intelligence-as-europe-continues-to-accelerate.md",
+      "title": "Skills shortage stalls UK’s adoption of artificial intelligence as Europe continues to accelerate",
+      "excerpt": "UK businesses are failing to progress their use of artificial intelligence (AI) at the same pace as other major European nations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mancunianmatters.co.uk/news/18052022-skills-shortage-stalls-uks-adoption-of-artificial-intelligence-as-europe-continues-to-accelerate/",
+      "originalUrl": "https://www.mancunianmatters.co.uk/news/18052022-skills-shortage-stalls-uks-adoption-of-artificial-intelligence-as-europe-continues-to-accelerate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mancunianmatters.co.uk/wp-content/uploads/2022/05/IBM-AI-Adoption-Index-2022_UK_Image-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mancunian Matters",
+        "domain": "mancunianmatters.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-healthcare-ai-market-size-share-industry-analysis-key-trends-growth-value-chain-business-opportunities-and-forecasts-2022-2028.md",
+      "title": "Healthcare AI Market Size & Share, Industry Analysis, Key Trends, Growth, Value Chain, Business Opportunities and Forecasts 2022-2028",
+      "excerpt": "Healthcare AI Market Dynamics 2022-2028 ... Imagen Technologies, IBM Watson Health, Health Fidelity, Google Deepmind Health, GE Healthcare, Apple London, UK — (SBWIRE) — 05/17/2022 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/healthcare-ai-market-size-share-industry-analysis-key-trends-growth-value-chain-business-opportunities-and-forecasts-2022-2028",
+      "originalUrl": "https://www.digitaljournal.com/pr/healthcare-ai-market-size-share-industry-analysis-key-trends-growth-value-chain-business-opportunities-and-forecasts-2022-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/8b228e947274b3e3adaea102613cde65635f5b3c-2-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-17T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-ibm-ceo-artificial-intelligence-is-nearing-a-key-tipping-point.md",
+      "title": "IBM CEO: Artificial intelligence is nearing a key tipping point",
+      "excerpt": "IBM had to sell off Watson Health-- once considered one of IBM's \"strategic imperatives.\" While IBM is still gunning for a leadership position in AI, the company won't be focusing on \"moonshots ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-ceo-ai-is-near-a-key-tipping-point-but-generalized-ai-is-still-decades-out/?taid=627bcbee41582d000199f899",
+      "originalUrl": "https://www.zdnet.com/article/ibm-ceo-ai-is-near-a-key-tipping-point-but-generalized-ai-is-still-decades-out/?taid=627bcbee41582d000199f899",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-ceo-ai-is-near-a-key-tipping-point-but-generalized-ai-is-still-decades-out/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-ceo-ai-is-near-a-key-tipping-point-but-generalized-ai-is-still-decades-out/",
+      "publishedDateTime": "2022-05-15T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-an-optimist-at-the-helm-of-ibm.md",
+      "title": "An Optimist at the Helm of IBM",
+      "excerpt": "Over the past 30 years, IBM has changed drastically, becoming a major player in cloud computing and artificial intelligence. And during those decades, Arvind Krishna was rising through the ranks of Big Blue,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/05/13/business/arvind-krishna-ibm-corner-office.html",
+      "originalUrl": "https://www.nytimes.com/2022/05/13/business/arvind-krishna-ibm-corner-office.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/15/business/30corneroffice/30corneroffice-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/05/13/business/arvind-krishna-ibm-corner-office.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/13/business/arvind-krishna-ibm-corner-office.amp.html",
+      "publishedDateTime": "2022-05-13T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-13-too-much-ai-may-not-be-good-for-your-health-or-the-nhs-google-and-ibm-exits-map-trend.md",
       "title": "Too Much AI May Not Be Good for Your Health or the NHS; Google and IBM exits map trend",
       "excerpt": "Grand promises that the technology could transform healthcare have struggled to bear fruit, with plenty of patient data collected in the meantime.",

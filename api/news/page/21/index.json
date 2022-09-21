@@ -2,6 +2,336 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2022-08-31-start-talking-the-true-potential-of-conversational-ai-in-the-enterprise.md",
+      "title": "Start talking: The true potential of conversational AI in the enterprise",
+      "excerpt": "A holistic approach, good governance, and internal lifecycle automation are key factors of success in implementing conversational AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/start-talking-the-true-potential-of-conversational-ai-in-the-enterprise/",
+      "originalUrl": "https://venturebeat.com/ai/start-talking-the-true-potential-of-conversational-ai-in-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1324517786-Andrey-Suslov.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/start-talking-the-true-potential-of-conversational-ai-in-the-enterprise/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/start-talking-the-true-potential-of-conversational-ai-in-the-enterprise/amp/",
+      "publishedDateTime": "2022-08-30T21:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-first-driverless-spreader-introduced-by-case-ih-and-raven-industries.md",
+      "title": "First Driverless Spreader Introduced by Case IH and Raven Industries",
+      "excerpt": "A new driverless spreader has been introduced this week by CNH Industrial. The Case IH Trident(TM) 5550 applicator with Raven Autonomy(TM) can be operated with or without a driver. CNH Industrial, which owns both Case IH and Raven Industries,",
+      "sourceUrl": null,
+      "webUrl": "https://1010wcsi.com/hoosier-ag-today/first-driverless-spreader-introduced-by-case-ih-and-raven-industries/",
+      "originalUrl": "https://1010wcsi.com/hoosier-ag-today/first-driverless-spreader-introduced-by-case-ih-and-raven-industries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T20:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCSI",
+        "domain": "1010wcsi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.md",
+      "title": "TensorFlow, PyTorch, and JAX: Choosing a deep learning framework",
+      "excerpt": "Deep learning is changing our lives in small and large ways every day. Whether it’s Siri or Alexa following our voice commands, the real-time translation apps on our phones, or the computer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/701064/tensorflow-pytorch-jax-choosing-deep-learning-framework/",
+      "originalUrl": "https://www.arnnet.com.au/article/701064/tensorflow-pytorch-jax-choosing-deep-learning-framework/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_107745072.jpg",
+          "width": 473,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T19:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "Facebook AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-artificial-intelligence-and-healthcare-the-business-the-law-and-the-ethics.md",
+      "title": "Artificial Intelligence and Healthcare – The Business, The Law and The Ethics",
+      "excerpt": "This is an in-person and online for this program that will explore data justice and cybersecurity in health care. Join us at the Chase Park Plaza for this one-day insightful conference regarding the ways personal data, artificial intelligence, justice and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slu.edu/medicine/bander-center/ai-conference.php",
+      "originalUrl": "https://www.slu.edu/medicine/bander-center/ai-conference.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Saint Louis University",
+        "domain": "slu.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-artificial-intelligence-model-outperforms-clinicians-in-diagnosing-pediatric-ear-infections.md",
+      "title": "Artificial intelligence model outperforms clinicians in diagnosing pediatric ear infections",
+      "excerpt": "An artificial-intelligence model was shown to be significantly more accurate than doctors at diagnosing pediatric ear infections in the first head-to-head evaluation of its kind. The tool ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/08/220831095009.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/08/220831095009.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-he-kaupapa-whakangungu-e-pai-ake-ai-te-apopo-o-te-rangatahi-me-te-whanau.md",
+      "title": "He kaupapa whakangungu e pai ake ai te āpōpō o te rangatahi me te whānau",
+      "excerpt": "Kua whakakotahi Te Rūnanga o Waihōpai me Southern Group Training Trust kia tokona te whaiwāhi atu a te rangatahi ki ngā ahumahi, waihoki kia whāia ai ngā rawa katoa kia tutuki ngā tohu.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stuff.co.nz/pou-tiaki/300675428/he-kaupapa-whakangungu-e-pai-ake-ai-te-pp-o-te-rangatahi-me-te-whnau",
+      "originalUrl": "https://www.stuff.co.nz/pou-tiaki/300675428/he-kaupapa-whakangungu-e-pai-ake-ai-te-pp-o-te-rangatahi-me-te-whnau",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resources.stuff.co.nz/content/dam/images/4/z/0/h/e/j/image.related.StuffLandscapeSixteenByNine.1420x800.4z0in8.png/1661904362946.jpg",
+          "width": 1420,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stuff.co.nz",
+        "domain": "stuff.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-mgh-mit-dive-deeper-to-better-determine-breast-cancer-risk-through-deep-learning.md",
+      "title": "MGH, MIT dive deeper to better determine breast cancer risk through deep learning",
+      "excerpt": "Researchers at Massachusetts General Hospital (MGH) and the Massachusetts Institute of Technology (MIT) have developed a deep learning computer model that expands on the ability to identify discrete data contained in breast imaging to better predict a woman’s chances of developing breast cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bioworld.com/articles/563526-mgh-mit-dive-deeper-to-better-determine-breast-cancer-risk-through-deep-learning",
+      "originalUrl": "https://www.bioworld.com/articles/563526-mgh-mit-dive-deeper-to-better-determine-breast-cancer-risk-through-deep-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bioworld.com/ext/resources/BMT-source/2022/08-31-MGH-breast-cancer.png?height=635&t=1661983683&width=1200",
+          "width": 848,
+          "height": 635,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BioWorld",
+        "domain": "bioworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-software-engineering-manager-machine-learning-.md",
+      "title": "Software Engineering Manager ( Machine Learning )",
+      "excerpt": "Your mission, should you choose to accept it: You will manage a team of Machine Learning Software Engineers & Data Scientists constantly striving for quality solutions that are delivered on time, within budget and scope, and drive a culture of quality and ...",
+      "sourceUrl": null,
+      "webUrl": "https://it-online.co.za/2022/08/31/software-engineering-manager-machine-learning-6/",
+      "originalUrl": "https://it-online.co.za/2022/08/31/software-engineering-manager-machine-learning-6/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT-Online",
+        "domain": "it-online.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-31-what-you-know-changes-how-you-see-things.md",
       "title": "What you know changes how you see things",
       "excerpt": "Researchers have gained important insight into how the human brain processes an object in the visual system and where in the brain this processing takes place. The study shows people perceive objects differently depending on their prior knowledge and experience with that object.",
@@ -765,388 +1095,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-baidus-bidu-apollo-go-service-strikes-1-million-ev-autonomous-ride-milestone-in-china.md",
-      "title": "Baidu’s (BIDU) Apollo Go service strikes 1 million EV autonomous ride milestone in China",
-      "excerpt": "Chinese tech giant Baidu (BIDU) beat Wall Street’s Q2 earnings estimates on Tuesday despite several headwinds in China’s economy. Baidu’s Apollo Go, its robotaxi business, unveiled its next-gen autonomous EV,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/08/30/baidus-apollo-go-service-strikes-1-million-ev-autonomous-rides/",
-      "originalUrl": "https://electrek.co/2022/08/30/baidus-apollo-go-service-strikes-1-million-ev-autonomous-rides/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Baidu-Apollo-Go.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/08/30/baidus-apollo-go-service-strikes-1-million-ev-autonomous-rides/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/30/baidus-apollo-go-service-strikes-1-million-ev-autonomous-rides/amp/",
-      "publishedDateTime": "2022-08-30T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-how-tech-can-accelerate-the-future-of-healthcare-and-social-good.md",
-      "title": "How tech can accelerate the future of healthcare and social good",
-      "excerpt": "Tech companies are teaming with independent innovators to solve pressing problems. A study released in the fall of 2020 suggested that the first nine months of the Covid-19 pandemic’s grip on the world spurred a decade’s worth of technological innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/sponsor/oppo/how-tech-can-accelerate-the-future-of-healthcare-and-social-good/",
-      "originalUrl": "https://techcrunch.com/sponsor/oppo/how-tech-can-accelerate-the-future-of-healthcare-and-social-good/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-543351810.jpg?w=599",
-          "width": 599,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-how-advanced-analytics-and-machine-learning-are-transforming-the-role-of-finance-controllers.md",
-      "title": "How advanced analytics and machine learning are transforming the role of ‘Finance Controllers’",
-      "excerpt": "Equipping Financial Controllers with predictive capabilities, advanced analytics and ML will help them elevate their role from providing back-office support to business partnering. The role of a finance controller is changing. It is expected that ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-advanced-analytics-and-machine-learning-are-transforming-the-role-of-finance-controllers/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-advanced-analytics-and-machine-learning-are-transforming-the-role-of-finance-controllers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/anshuman.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-advanced-analytics-and-machine-learning-are-transforming-the-role-of-finance-controllers/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-advanced-analytics-and-machine-learning-are-transforming-the-role-of-finance-controllers/",
-      "publishedDateTime": "2022-08-30T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-artificial-intelligence-based-algorithm-to-be-used-for-reporting-of-lymph-node-status-in-colon-cancer.md",
-      "title": "Artificial intelligence-based algorithm to be used for reporting of lymph node status in colon cancer",
-      "excerpt": "A collaboration between Indica Labs and iCAIRD is looking at the development of an AI-based digital tool to detect cancer within lymph nodes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.labiotech.eu/trends-news/indica-labs-partners-with-icaird-on-ai-based-digital-pathology-solution/",
-      "originalUrl": "https://www.labiotech.eu/trends-news/indica-labs-partners-with-icaird-on-ai-based-digital-pathology-solution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.labiotech.eu/wp-content/uploads/2022/06/shutterstock-artificial-intelligence-.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "the Top 10",
-        "domain": "labiotech.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-industrys-first-autonomous-spreader-debutsat-farm-progress-show.md",
-      "title": "Industry’s first autonomous spreader debutsat Farm Progress Show",
-      "excerpt": "Case IH and Raven Industries introduce the agriculture industry’s first autonomous spreader: the Case IH Trident™",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/industrys-first-autonomous-spreader-debutsat-farm-progress-show-2022-08-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/industrys-first-autonomous-spreader-debutsat-farm-progress-show-2022-08-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-i-have-face-blindness.md",
-      "title": "I Have Face Blindness.",
-      "excerpt": "I Have Face Blindness. This Is How I Recognize You. When you can’t rely on facial recognition, you look beyond the obvious. When you can’t rely on facial recognition, you look beyond the obvious.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/08/30/opinion/face-blindness-prosopagnosia.html",
-      "originalUrl": "https://www.nytimes.com/2022/08/30/opinion/face-blindness-prosopagnosia.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/10/28/autossell/FACE_BLINDNESS_16x9/FACE_BLINDNESS_16x9-facebookJumbo.png",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/08/30/opinion/face-blindness-prosopagnosia.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/08/30/opinion/face-blindness-prosopagnosia.amp.html",
-      "publishedDateTime": "2022-08-30T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-altavec-uses-aws-ml-for-bushfire-prevention.md",
-      "title": "Altavec uses AWS ML for bushfire prevention",
-      "excerpt": "Altavec has been the trusted partner of Australian utilities for over 20 years. Delivering excellence in geospatial services via advanced geoanalytics, our technology platform empowers best-practice asset management using complex data to provide informed and actionable insights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.spatialsource.com.au/altavec-uses-aws-ml-for-bushfire-prevention/",
-      "originalUrl": "https://www.spatialsource.com.au/altavec-uses-aws-ml-for-bushfire-prevention/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.spatialsource.com.au/wp-content/uploads/2022/08/Altavec_web.jpg",
-          "width": 624,
-          "height": 442,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Spatial Source",
-        "domain": "spatialsource.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-this-mighty-brain-chip-is-so-efficient-it-could-bring-advanced-ai-to-your-phone.md",
-      "title": "This Mighty Brain Chip Is So Efficient It Could Bring Advanced AI to Your Phone",
-      "excerpt": "The NeuRRAM chip is a powerful neuromorphic computing behemoth with 48 parallel cores and 3 million memory cells.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2022/08/30/this-brain-inspired-chip-ups-ai-computing-efficiency-while-using-less-energy/",
-      "originalUrl": "https://singularityhub.com/2022/08/30/this-brain-inspired-chip-ups-ai-computing-efficiency-while-using-less-energy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2022/08/UCSD-JacobsSchool-20220815-Cauwenberghs-NeuRRam-00571-e-8MP.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2022/08/30/this-brain-inspired-chip-ups-ai-computing-efficiency-while-using-less-energy/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/08/30/this-brain-inspired-chip-ups-ai-computing-efficiency-while-using-less-energy/?amp=1",
-      "publishedDateTime": "2022-08-30T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

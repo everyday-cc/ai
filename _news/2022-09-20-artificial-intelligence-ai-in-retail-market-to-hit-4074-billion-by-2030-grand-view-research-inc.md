@@ -2,11 +2,11 @@
 category: news
 title: "Artificial Intelligence (AI) In Retail Market to Hit $40.74 Billion by 2030: Grand View Research, Inc."
 excerpt: "The global AI in retail market size is anticipated to reach USD 40.74 billion by 2030, expanding at a CAGR of 23.9% from 2022 to 2030, according to a new study by Grand View Research, Inc. The rising prominence of advanced technologies,"
-publishedDateTime: 2022-09-20T16:43:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/09/20/9677284.htm"
-webUrl: "https://it.tmcnet.com/news/2022/09/20/9677284.htm"
+publishedDateTime: 2022-09-20T16:45:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-retail-market-hit-4074-billion-/2022/09/20/9677284.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-retail-market-hit-4074-billion-/2022/09/20/9677284.htm"
 type: article
-quality: 18
+quality: 16
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - Natural Language Processing
   - AI
 
 related:
@@ -77,6 +76,6 @@ related:
       domain: dailyherald.com
     quality: 2
 
-secured: "I2V3NbMqOH2z2u/gFsJbyE222ixtqOZaytX84y1oEA3kg0fygy/V+lYV8MbVnsVMpPNZKasg17qJF48fCAFRlaA3T7VnBjz6bJiUeGX1g0MyssDg4eTsTJ/9lTfkS0FcABes+VSyiVcxpTQPsN80u6U0jWQkpG4nUSGstIbo/jOHCsz95DnLi8nwXZT4OU+0ursKjrAulXPHLOBaOicnvexl9dB+33mmJviUY5wVYdO8Raso7DX5Y2m82ZZ/Ke5PtImmRrjNGmw4PMW5fAAXcvabjRi1fDBCJaGenLMoIfTurwse9miC/Bh9/QnBzdwdSq98zbDD/1Scd/pEKUzC85lhqa6jPRb7zfdl53GljaY=;O+VcaaMaRMd8TeO9k4JHCg=="
+secured: "6zCJjlUhm+nopMcuxCZX+MqM4cODTDWfDF2TBZxnueau37O5OK9v7sAJ4Cbn0a7ADjXtcZXmKfac0d+HQS1dfWnzNtarehchfKS6NY7rbPQ5wXDKrzxobU/lFyRI+AQvAc8UzPgp2r/xbSTe1bh2OawyyeTAB2r9rTjBn+QFI4vIAGD2mvOT8NIihJls+JB68yhswQ9McyuhJQ8JI4D2qw2JviOh7jyBSvMOiCL/5xLek1U4eKUHKJF1wjnO71Ve77ztvGmJZa99jUq2pXpgCqsmbfMD64VXGq4pa+nDBn5VeY41Qu9gTcvbSXRGr5MkqcnlEnsrP61wmb9tev9Nj99rSBeBm0HhSh4C+WfHGGI=;Cuck7ba5bn0giQ0NWG+tvw=="
 ---
 

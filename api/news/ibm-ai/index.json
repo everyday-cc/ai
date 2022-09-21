@@ -2,6 +2,135 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-15-trinity-and-ibm-deal-to-advance-research-in-areas-such-as-quantum-and-ai.md",
+      "title": "Trinity and IBM deal to advance research in areas such as quantum and AI",
+      "excerpt": "TCD and IBM are collaborating on research activities and extending their pre-PhD programme to train next-gen talent in quantum, AI and security. Trinity College Dublin (TCD) has signed a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.siliconrepublic.com/innovation/trinity-tcd-ibm-deal-research-advancement",
+      "originalUrl": "https://www.siliconrepublic.com/innovation/trinity-tcd-ibm-deal-research-advancement",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.siliconrepublic.com/wp-content/uploads/2022/09/IBM-MoU-signing.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconRepublic",
+        "domain": "siliconrepublic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-saudi-govt-authorities-ibm-join-forces-to-reduce-kingdoms-emissions.md",
+      "title": "Saudi govt authorities, IBM join forces to reduce kingdom’s emissions",
+      "excerpt": "Saudi Data and Artificial Intelligence Authority (SDAIA) and IBM announced the signing of a strategic agreement to drive adoption of artificial intelligence in the carbon capture and industrial ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfbusiness.com/saudi-govt-authorities-ibm-join-forces-to-reduce-kingdoms-emissions-through-ai/",
+      "originalUrl": "https://gulfbusiness.com/saudi-govt-authorities-ibm-join-forces-to-reduce-kingdoms-emissions-through-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gulfbusiness.com/wp-content/uploads/2022/09/ekrem-osmanoglu-Uor3RZNHZ9E-unsplash.jpg",
+          "width": 930,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf Business",
+        "domain": "gulfbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-saudi-data-and-ai-authority-and-ministry-of-energy-partner-with-ibm.md",
+      "title": "Saudi Data and AI Authority and Ministry of Energy partner with IBM",
+      "excerpt": "This is the first use case as part of a strategic agreement with SDAIA & Ministry of Energy to partner with IBM to reduce carbon emissions across the country. The AI technology developed with IBM’s will enable the detection and management of Carbon ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/saudi-data-and-ai-authority-and-ministry-of-energy-partner-with-ibm-f53phycf",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/saudi-data-and-ai-authority-and-ministry-of-energy-partner-with-ibm-f53phycf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/version/c:MzRiYmNiMGMtZmEyMy00:NGM4NzMx/r6__8259-2-jpg.JPG?f=3%3A2",
+          "width": 860,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T01:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-ibm-steps-up-to-showcase-unusual-security-competency.md",
       "title": "IBM Steps Up to Showcase Unusual Security Competency",
       "excerpt": "IBM had an analyst briefing on its security efforts and, unsurprisingly, it was one of the most comprehensive I have ever seen. For much of the 80s and 90s, upcoming companies like Apple, Microsoft and Sun Microsystems seemed",
@@ -43,6 +172,104 @@
         "IBM AI",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story.md",
+      "title": "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story",
+      "excerpt": "New Jersey, NJ -- (SBWIRE) -- 09/13/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ...",
+      "sourceUrl": null,
+      "webUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-54",
+      "originalUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-54",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insurancenewsnet.com",
+        "domain": "insurancenewsnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-ibm-upgrades-linux-mainframe-boosting-availability-and-ai-performance.md",
+      "title": "IBM upgrades Linux mainframe, boosting availability and AI performance",
+      "excerpt": "Latest IBM mainframe update for Linux provides more power and resilience for mission-critical enterprise workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/ibm-upgrades-linux-mainframe-boosting-availability-and-ai-performance/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/ibm-upgrades-linux-mainframe-boosting-availability-and-ai-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/IBM_linuxone_emperor_4_data_center_091222-e1663022887839.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/data-infrastructure/ibm-upgrades-linux-mainframe-boosting-availability-and-ai-performance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/ibm-upgrades-linux-mainframe-boosting-availability-and-ai-performance/amp/",
+      "publishedDateTime": "2022-09-12T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "IBM AI"
       ]
     },
     {
@@ -171,6 +398,49 @@
       "provider": {
         "name": "The Business Journals",
         "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-08-novel-ai-solutions-expected-from-new-hebrew-u-technion-partnership-with-ibm.md",
+      "title": "Novel AI solutions expected from new Hebrew U, Technion partnership with IBM",
+      "excerpt": "Last week, the Technion-Israel Institute of Technology and the Hebrew University of Jerusalem signed a partnership agreement with IBM Research to advance artificial-intelligence capabilities and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-716662",
+      "originalUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-716662",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/514347",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/business-and-innovation/tech-and-start-ups/article-716662/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/business-and-innovation/tech-and-start-ups/article-716662/amp",
+      "publishedDateTime": "2022-09-08T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1108,274 +1378,6 @@
       "provider": {
         "name": "WRAL TechWire",
         "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-mythic-how-an-analog-processor-could-revolutionize-edge-ai.md",
-      "title": "Mythic: How An Analog Processor Could Revolutionize Edge AI",
-      "excerpt": "Mythic: How an Analog Processor Could Revolutionize Edge AI Alberto Romero, LLM Analyst Karl Freund, Founder and Principal Analyst Cambrian-AI Research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/07/30/mythic-how-an-analog-processor-could-revolutionize-edge-ai/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/07/30/mythic-how-an-analog-processor-could-revolutionize-edge-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62e557a9abbf3ce8215398d2/0x0.png?format=png&width=1200",
-          "width": 674,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/07/30/mythic-how-an-analog-processor-could-revolutionize-edge-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/07/30/mythic-how-an-analog-processor-could-revolutionize-edge-ai/amp/",
-      "publishedDateTime": "2022-07-30T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-ai-for-customer-service-market-growth-2022-to-2028-future-trends-and-forecast-by-ibm-ant-group-chatra-clickdesk.md",
-      "title": "AI for Customer Service Market Growth 2022 to 2028, Future Trends and Forecast | By -IBM, Ant Group, Chatra, ClickDesk",
-      "excerpt": "The report also looks at AI for Customer Service players, important collaborations, mergers and acquisitions, trending innovations, and business policies. IBM, Ant Group, Chatra, ClickDesk ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-for-customer-service-market-growth-2022-to-2028-future-trends-and-forecast-by-ibm-ant-group-chatra-clickdesk",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-for-customer-service-market-growth-2022-to-2028-future-trends-and-forecast-by-ibm-ant-group-chatra-clickdesk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/778f53a99eda86447dc564a8a476d980f15706b8-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-ai-infrastructure-market-worth-us966-billion-by-2027-at-cagr-of-275.md",
-      "title": "AI Infrastructure Market worth US$96.6 billion by 2027, at CAGR of 27.5%",
-      "excerpt": "\"AI Infrastructure Market\"The AI Infrastructure Market is expected to reach USD 96.6 billion by 2027 from USD 28.7 billion in 2022 to grow at a CAGR of 27.5% from 2022 to 2027.According to a research",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/07/ab28237970/ai-infrastructure-market-worth-us-96-6-billion-by-2027-at-cagr-of-27-5",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/ab28237970/ai-infrastructure-market-worth-us-96-6-billion-by-2027-at-cagr-of-27-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketsandmarkets.com/Images/ai-infrastructure-market.jpg",
-          "width": 650,
-          "height": 373,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28237970",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28237970",
-      "publishedDateTime": "2022-07-27T18:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-cybersecurity-whats-the-real-cost-ask-ibm.md",
-      "title": "Cybersecurity - what’s the real cost? Ask IBM",
-      "excerpt": "IBM then makes the following bold claim : Participating organizations fully deploying security AI and automation incurred $3.05 million less on average in breach costs compared to studied organizations that have not deployed the technology – the biggest ...",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/cybersecurity-whats-real-cost-ask-ibm",
-      "originalUrl": "https://diginomica.com/cybersecurity-whats-real-cost-ask-ibm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2020-08/cybersecurity.jpg",
-          "width": 1644,
-          "height": 1052,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/cybersecurity-whats-real-cost-ask-ibm?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/cybersecurity-whats-real-cost-ask-ibm?amp",
-      "publishedDateTime": "2022-07-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-ibm-uses-power10-cpu-as-an-io-switch.md",
-      "title": "IBM Uses Power10 CPU As An I/O Switch",
-      "excerpt": "Back in early July, we covered the launch of IBM’s entry and midrange Power10 systems and mused ... customers who run transaction processing systems and are looking to add AI inference to their applications through matrix math units on the Power10 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2022/07/26/ibm-uses-power10-cpu-as-an-i-o-switch/",
-      "originalUrl": "https://www.nextplatform.com/2022/07/26/ibm-uses-power10-cpu-as-an-i-o-switch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/ibm-power10-die-shot.jpg",
-          "width": 1493,
-          "height": 1460,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2022/07/26/ibm-uses-power10-cpu-as-an-i-o-switch/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/07/26/ibm-uses-power10-cpu-as-an-i-o-switch/amp/",
-      "publishedDateTime": "2022-07-26T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-backed-by-yoshua-bengio-ubenwa-is-using-ai-to-diagnose-neurological-issues-through-baby-cries.md",
-      "title": "Backed by Yoshua Bengio, Ubenwa is using AI to diagnose neurological issues through baby cries",
-      "excerpt": "Ubenwa said the goal is to create a world where baby cries are no longer viewed as “noisy sounds that we are trying to quiet,” but ways to understand health.",
-      "sourceUrl": null,
-      "webUrl": "https://betakit.com/backed-by-yoshua-bengio-ubenwa-is-using-ai-to-diagnose-neurological-issues-through-baby-cries/",
-      "originalUrl": "https://betakit.com/backed-by-yoshua-bengio-ubenwa-is-using-ai-to-diagnose-neurological-issues-through-baby-cries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.betakit.com/wp-content/uploads/2022/07/minnie-zhou-0hiUWSi7jvs-unsplash-1.jpg",
-          "width": 1050,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-25T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BetaKit",
-        "domain": "betakit.com",
         "images": null,
         "publishers": null,
         "authors": null

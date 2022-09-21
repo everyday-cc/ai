@@ -1,22 +1,32 @@
 ---
 category: news
 title: "OmniML Launches Platform that Reimagines MLOps for Edge AI"
-excerpt: "AI is becoming ubiquitous, powering everything from self-driving cars to nearly every application on mobile devices. However, many ML models are not well-suited for edge devices because they were born in the cloud and do not fit those devices well."
+excerpt: "Omnimizer greatly reduces the time and cost of deploying AI to the edge by adapting models to fit diverse hardware platforms OmniML, a startup making artificial intelligence (AI) more accessible to all edge devices,"
 publishedDateTime: 2022-09-20T15:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-omniml-launches-platform-that-reimagines-mlops-for-edge-ai"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-omniml-launches-platform-that-reimagines-mlops-for-edge-ai"
+originalUrl: "https://www.benzinga.com/pressreleases/22/09/b28933915/omniml-launches-platform-that-reimagines-mlops-for-edge-ai"
+webUrl: "https://www.benzinga.com/pressreleases/22/09/b28933915/omniml-launches-platform-that-reimagines-mlops-for-edge-ai"
+ampWebUrl: "https://www.benzinga.com/amp/content/28933915"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28933915"
 type: article
-quality: 17
-heat: 17
+quality: 61
+heat: 61
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
+  - AI Hardware
   - AI
+  - AI in Robotics
 
-secured: "n0uX2NtQnfIohICwAqk+aU8q+DRx1ndQvIxlTJSShiY8hNWxz1rkacV30sZeStifd1NqCsuFWPbvKdek8cxzKpjr4Ux0OuYePBgmFIJgt/kP2KL5c0m9FTJywvm/F4+zT+efDGv1E4iQYQIrvzBcg7nrC2rDYhnQFmkmY2SW/ScFuNVC9msslirGtNEb/AqDsHQUA9QIhrbUApqdD+jPRYC5ngnd2S2EK7J8c/Qyp9Ps0Hp4E41Ol4G2YBsTBx98zijI51wzJRW69mr612zltdAGga/WSkaDildUy8LC7rLbrfP8YBhb2qa+rp5aI30Wm9d1YJiORC8To8oMWJxCqShMmzH5+dnbPMvGRuXoLio=;P2tvJVmgmZLX67p+mNCKbg=="
+images:
+  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg"
+    width: 700
+    height: 300
+    isCached: true
+
+secured: "WNUam+TIrKL5INNO5KNkRPPPc3UP79EltFmDhcLaEU0E0vUq/8tzBGd7GTBFQg0E74sRGe0e1CnsdQBR+Y4lOf2uru3PqVz55hNyqGcrRZnqFkWpf4TIWqbD7UHud/fXX9dZk/e0svU5q2bDuzqywBVSsXqHUsM8M+c8C6iz7RjDCgCbznySlEWUIiSBgYTVca9XnHdFT7H3wawSet7FQ+7jGsTO7s2DZhR6RBw5CssFvJrn9hkpmMc3dbP0/Bt4TeGXtDMBclgt/FNW4Lm5eOL21xs9vhUDkH9f8edeuMAwEf/Gp9WROFTpIkueJsJG8IPkju79YSTy2j3Q3VOFOp6IHihm8DNATd1ISmDnmsI=;wIxKStetWqDHEmaY0hE3kg=="
 ---
 

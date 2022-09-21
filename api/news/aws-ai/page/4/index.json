@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-06-riot-games-aws-reimagine-esports-with-stats-power-rankings-and-more.md",
+      "title": "Riot Games, AWS Reimagine Esports with Stats, Power Rankings, and More",
+      "excerpt": "Riot Games and Amazon Web Services (AWS) have teamed up to transform how Riot’s Esports content is created and distributed in the cloud. Riot is the first company to use AWS’s data analytics integration for Esports broadcasts to reimagine how fans experience League of Legends (LoL),",
+      "sourceUrl": null,
+      "webUrl": "https://www.avnetwork.com/news/riot-games-aws-reimagine-esports-with-stats-power-rankings-and-more",
+      "originalUrl": "https://www.avnetwork.com/news/riot-games-aws-reimagine-esports-with-stats-power-rankings-and-more",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/uHT3YVVHypGFFRubmjx3jT-1200-80.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-05T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AV Network",
+        "domain": "avnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-05-veritone-extends-partnership-with-aws.md",
       "title": "Veritone Extends Partnership with AWS",
       "excerpt": "Veritone, creator of aiWARE, a hyper-expansive enterprise artificial intelligence (AI) platform, has extended its work with Amazon and Amazon Web Services (AWS) to support its media and entertainment customers. Last year, Veritone joined the AWS for Media ...",
@@ -1255,49 +1298,6 @@
       "provider": {
         "name": "Morningstar%2c Inc.",
         "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-cio-100-us-9-award-winning-government-it-projects.md",
-      "title": "CIO 100 US: 9 award-winning government IT projects",
-      "excerpt": "Public-sector agencies and institutions are turning to tech to streamline processes, facilitate scale and innovation, and improve the lives of those they serve.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/403501/cio-100-us-9-award-winning-government-it-projects.html",
-      "originalUrl": "https://www.cio.com/article/403501/cio-100-us-9-award-winning-government-it-projects.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/07/cio100-usa-award1200-100898713-large-100899934-orig-5.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/403501/cio-100-us-9-award-winning-government-it-projects.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/403501/cio-100-us-9-award-winning-government-it-projects.html/amp",
-      "publishedDateTime": "2022-07-27T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -20,19 +20,35 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Factbox: The challenges automakers, and now Tesla, face with humanoid robots"
-    excerpt: "Tesla's CEO Elon Musk is set to unveil its prototype humanoid robots at an event on Sept. 30, hoping to expand beyond self-driving cars that have not yet become reality despite his repeated promises."
-    publishedDateTime: 2022-09-20T11:44:00Z
-    webUrl: "https://www.reuters.com/technology/challenges-automakers-now-tesla-face-with-humanoid-robots-2022-09-20/"
+  - title: "Elon Musk faces skeptics as Tesla gets ready to unveil 'Optimus' robot"
+    excerpt: "Tesla Chief Executive Elon Musk blamed overreliance on factory robots for sending the electric carmaker to \"production hell\" four years ago, saying humans were better at certain jobs."
+    publishedDateTime: 2022-09-20T17:13:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/elon-musk-faces-skeptics-tesla-gets-ready-unveil-optimus-robot-2022-09-20/"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 83
+    quality: 86
     images:
-      - url: "https://www.reuters.com/resizer/UIBi6hsuoRG96_8hgRaAlbj-InE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HK3GFOZNRJJNHFHO4TNPIOP7WM.jpg"
+      - url: "https://www.reuters.com/resizer/gx_3f22a3kYh8h4YmjMhdjZEvNM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WWSNDUO46JPIHMZLGYLX5S6FKQ.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Optimus Robot Is Coming At Tesla’s AI Day 2 – But It’ll Have To Do More Than Dancing To Silence Critics"
+    excerpt: "Tesla will hold its AI Day 2 on September 30 and in the leadup, Elon Musk has prioritized both Optimus and an updated smart summon feature. According to the tech billionaire, both projects have an end-of-month deadline."
+    publishedDateTime: 2022-09-20T23:37:00Z
+    webUrl: "https://www.carscoops.com/2022/09/elon-musk-is-getting-ready-to-unveil-optimus-robot-at-teslas-ai-day-2/"
+    ampWebUrl: "https://www.carscoops.com/2022/09/elon-musk-is-getting-ready-to-unveil-optimus-robot-at-teslas-ai-day-2/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/09/elon-musk-is-getting-ready-to-unveil-optimus-robot-at-teslas-ai-day-2/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 75
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/08/Tesla-Bot-5-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Elon Musk’s Tesla robot Optimus faces skeptics: ‘Investors are not excited’"
     excerpt: "Musk’s Texas company now is floating ambitious plans to deploy thousands of humanoid robots, known as Tesla Bot or Optimus, within its factories, expanding eventually to millions around the world, according to job postings."
@@ -59,24 +75,47 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 66
-  - title: "Challenges Automakers, And Now Tesla, Face With Humanoid Robots: Report"
-    excerpt: "Tesla's CEO Elon Musk is set to unveil its prototype humanoid robots at an event on Sept. 30, hoping to expand beyond self-driving cars that have not yet become reality despite his repeated promises."
-    publishedDateTime: 2022-09-20T10:31:00Z
-    webUrl: "https://www.ndtv.com/business/challenges-automakers-and-now-tesla-face-with-humanoid-robots-report-3360851"
+  - title: "Investors Are Not Psyched for Elon Musk’s ‘Optimus’ Humanoid Robot"
+    excerpt: "Creating Elon Musk's army of worker droids is “infinitely harder than self-driving cars” but he's trying to anyway"
+    publishedDateTime: 2022-09-20T21:22:00Z
+    webUrl: "https://www.lamag.com/culturefiles/elon-musk-deals-with-doubters-as-tesla-prepares-new-optimus-humanoid-robot/"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 36
-  - title: "The challenges automakers, and now Tesla, face with humanoid robots"
-    excerpt: "Tesla's CEO Elon Musk is set to unveil its prototype humanoid robots at an event on September 30, hoping to expand beyond self-driving cars that have not yet become reality despite his repeated promises."
-    publishedDateTime: 2022-09-20T13:07:00Z
-    webUrl: "https://www.cnbctv18.com/technology/the-challenges-automakers-and-now-tesla-face-with-humanoid-robots-14766161.htm"
+      name: Los Angeles Magazine
+      domain: lamag.com
+    quality: 39
+    images:
+      - url: "https://cdn2.lamag.com/wp-content/uploads/sites/6/2022/05/Elon-Musk-Met-Wings.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
+  - title: "Musk faces sceptics as Tesla gets ready to unveil 'Optimus' robot"
+    excerpt: "Tesla CEO Elon Musk blamed overreliance on factory robots for sending the electric carmaker to \"production hell\" four years ago, saying humans were better at certain jobs."
+    publishedDateTime: 2022-09-20T13:43:00Z
+    webUrl: "https://www.timeslive.co.za/motoring/news/2022-09-20-musk-faces-sceptics-as-tesla-gets-ready-to-unveil-optimus-robot/"
     type: article
     provider:
-      name: cnbctv18
-      domain: cnbctv18.com
+      name: Times LIVE
+      domain: timeslive.co.za
     quality: 36
+  - title: "Tesla's 'Optimus' robot ready to be unveiled"
+    excerpt: "Tesla Chief Executive Elon Musk blamed overreliance on factory robots for sending the electric carmaker to \"production hell\" four years ago, saying humans were better at certain jobs."
+    publishedDateTime: 2022-09-20T17:54:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/teslas-optimus-robot-ready-be-unveiled-3124251"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 36
+  - title: "Elon Musk says Tesla will unveil a project Optimus prototype robot on September 30"
+    excerpt: "In addition to working in factories, Musk said at a TED Talk robots could be in homes, make dinner, mow lawns, care for the elderly people, and even become a \"buddy\" or a \"catgirl\" sex partner."
+    publishedDateTime: 2022-09-20T12:53:00Z
+    webUrl: "https://www.autoblog.com/2022/09/20/tesla-robot-elon-musk-reveal/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 30
 
 secured: "zSeuC3pujMIJOQBttf5JWSZCfoa9HPGy9rerFd0OGwRDhtDXy8Swu/13MEsnu4NsXoTHZcdQxWmeBEwXJFA3zjGp6jLpeYeYIE/gO5gbNUbLttkBWLdz1uRqt1dqPqNDbfbdJvHeQfeGBo01djqttJ2RRFLDis2/qeljqoQcw+IBcrrymefoaowHx+ETODLLBGeW20cAqjhUc+7U2QBGljMwgSC7uSYd5gQJLAdvmdzbflu6W1tjMKiTYQgTlhKntNzkkz0L3kfKhuJCgoelzzl7eYhs7meS5f1UCh+5CBWPDQ0ni6li3UPg5WFmTsz3VnQqc6OSJJmzdu/Z68tfSt4UhSLRwVPltHY9Hp4h5ZbXK1vxPFleXbNXXyFoJ1a9O3naZajXzsK1FGqP61BRhAVM6Mrzuns0idEBaZHtygUzHTXwPiE0StMhP1PjxUFH1BEMoTt8Tqb3E37gpgPA9d8HRzy3/9YWq1qj045W9QnO2ltRk3KqMkKSP2LGAV3b/QAUQi0d7fZuuMV30L1DgQ==;6oT20Pl0TiIi+ZxQ+mTaIw=="
 ---

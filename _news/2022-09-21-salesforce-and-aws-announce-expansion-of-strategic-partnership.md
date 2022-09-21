@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Salesforce goes real-time in CRM upgrade"
+    excerpt: "Salesforce has taken a leap into the world of real-time data management with the integration of customer data platform (CDP) capabilities into its flagship Customer 360 CRM platform."
+    publishedDateTime: 2022-09-20T22:49:00Z
+    webUrl: "https://www.cmo.com.au/article/701714/salesforce-goes-real-time-crm-upgrade/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 56
+    images:
+      - url: "https://d1902livswy8rb.cloudfront.net/dimg/800x800/dimg/customer-graph.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Salesforce Genie is now generally available to power real-time CRM experiences"
     excerpt: "Salesforce today announced the general availability of the Genie customer data platform (CDP), a high-speed, hyperscalar data lake infrastructure to bring real-time insights from different systems to the Salesforce Customer 360 platform."
     publishedDateTime: 2022-09-20T12:01:00Z
@@ -54,6 +68,15 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
+    quality: 4
+  - title: "Dreamforce 2022: the biggest Salesforce and Slack news"
+    excerpt: "Salesforce’s Genie customer data platform, a preview of a canvas feature in Slack and an open beta of the rebuilt, more modular Slack are among the biggest announcements at Salesforce’s Dreamforce 2022 conference."
+    publishedDateTime: 2022-09-20T20:39:00Z
+    webUrl: "https://www.crn.com.au/news/dreamforce-2022-the-biggest-salesforce-and-slack-news-585505"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
     quality: 4
 
 secured: "4jV7YDaNNMOAWs3L/Hns71phcIKuiyz3htI7mMC1OSPfhMhnwYxTdJC10RZI76yCY2NOm5Nd8lH6J/c4G7HnndMwJv1nOoiBvESQm5fVqhChv9xszhoY8n1nq9SQL+X5xX/xI5vfCwhtXbfZxsvSOin7axAGcbTRhZTopniudClUJ4cDEzM/HKyfhAnjev13n/p9l6QGf9Hvs5aZozSK1avXmd5h0OtTIJwjxiB6cpVdzXAfBcgeDA9FWbMK9SfdY5m/IT91w5r0iuzZoKKrmzSBnmMosS2hAZXxZpOAohEqRfBdhXtjGor7OdzE/Iiznrs75HUDJQa/DUE5CsAt5FTClJxLDrug6KHiHfwNYhU=;fJqdqrYH9Q6X8FEaGynXdQ=="

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-25-deep-dive-why-3d-reconstruction-may-be-the-next-tech-disruptor.md",
+      "title": "Deep Dive: Why 3D reconstruction may be the next tech disruptor",
+      "excerpt": "D reconstruction, is a growing computer vision domain increasingly in demand from industries including augmented and virtual reality.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/deep-dive-why-3d-reconstruction-may-be-the-next-tech-disruptor/",
+      "originalUrl": "https://venturebeat.com/ai/deep-dive-why-3d-reconstruction-may-be-the-next-tech-disruptor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1358286748.jpg?fit=800%2C571&strip=all",
+          "width": 799,
+          "height": 571,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/deep-dive-why-3d-reconstruction-may-be-the-next-tech-disruptor/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deep-dive-why-3d-reconstruction-may-be-the-next-tech-disruptor/amp/",
+      "publishedDateTime": "2022-08-25T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-25-dell-technologies-deep-learning-model-to-help-protect-the-great-barrier-reef.md",
       "title": "Dell Technologies Deep Learning Model To Help Protect The Great Barrier Reef",
       "excerpt": "Dell Technologies has announced a new deep learning technology model, launched in partnership with Australia-based conservation organisation Citizens of The Great Barrier Reef. The model will ...",
@@ -1380,59 +1432,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-15-no-code-wrapped-our-ml-experiment-concludes-but-did-the-machine-win.md",
-      "title": "No code, wrapped: Our ML experiment concludes, but did the machine win?",
-      "excerpt": "And while I know my way around a Jupyter notebook and have written a good amount of Python code, I do not profess to be anything close to a machine learning expert. So when I performed the first part of our no-code/low-code machine learning experiment and got better than a 90 percent accuracy rate on a model,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/08/no-code-wrapped-our-ml-experiment-concludes-but-did-the-machine-win/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/08/no-code-wrapped-our-ml-experiment-concludes-but-did-the-machine-win/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/robot-holding-monitored-heart-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-15T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

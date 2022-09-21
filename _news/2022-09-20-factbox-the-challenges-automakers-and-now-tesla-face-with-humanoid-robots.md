@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/challenges-automakers-now-tesla
 webUrl: "https://www.reuters.com/technology/challenges-automakers-now-tesla-face-with-humanoid-robots-2022-09-20/"
 type: article
 quality: 83
-heat: 133
+heat: 103
 published: true
 
 provider:
@@ -30,40 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk’s Tesla robot Optimus faces skeptics: ‘Investors are not excited’"
-    excerpt: "Musk’s Texas company now is floating ambitious plans to deploy thousands of humanoid robots, known as Tesla Bot or Optimus, within its factories, expanding eventually to millions around the world, according to job postings."
-    publishedDateTime: 2022-09-20T16:49:00Z
-    webUrl: "https://nypost.com/2022/09/20/elon-musk-faces-skeptics-as-tesla-to-unveil-optimus-robot/"
-    ampWebUrl: "https://nypost.com/2022/09/20/elon-musk-faces-skeptics-as-tesla-to-unveil-optimus-robot/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/09/20/elon-musk-faces-skeptics-as-tesla-to-unveil-optimus-robot/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 74
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/09/newspress-collage-23932306-1663692328461.jpg?quality=75&strip=all&1663679371&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Elon Musk faces skeptics as Tesla gets ready to unveil ‘Optimus’ robot"
-    excerpt: "The robot business eventually may be worth more than Tesla’s car revenue, according to Musk, who is now touting a vision for the company that goes well beyond making self-driving electric vehicles."
-    publishedDateTime: 2022-09-20T13:15:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/elon-musk-faces-skeptics-tesla-gets-ready-unveil-optimus-robot-rcna48504"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 66
-  - title: "FOCUS-Elon Musk faces skeptics as Tesla gets ready to unveil 'Optimus' robot"
-    excerpt: "Tesla TSLA.O Chief Executive Elon Musk blamed overreliance on factory robots for sending the electric carmaker to \"production hell\" four years ago, saying humans were better at certain jobs. My, how times have changed."
-    publishedDateTime: 2022-09-20T15:57:00Z
-    webUrl: "https://www.nasdaq.com/articles/focus-elon-musk-faces-skeptics-as-tesla-gets-ready-to-unveil-optimus-robot-0"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 63
   - title: "Challenges Automakers, And Now Tesla, Face With Humanoid Robots: Report"
     excerpt: "Tesla's CEO Elon Musk is set to unveil its prototype humanoid robots at an event on Sept. 30, hoping to expand beyond self-driving cars that have not yet become reality despite his repeated promises."
     publishedDateTime: 2022-09-20T10:31:00Z

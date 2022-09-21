@@ -1,53 +1,27 @@
 ---
 category: news
 title: "Zendesk Launches New Customer Sentiment and Intent Functionality Powered by Machine Learning"
-excerpt: "Unique approach to AI is designed to better serve customers and businesses without long, costly implementation Zendesk, Inc. (NYSE:ZEN) today announced Intelligent Triage and Smart Assist, new AI solu"
-publishedDateTime: 2022-09-14T16:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/b28868692/zendesk-launches-new-customer-sentiment-and-intent-functionality-powered-by-machine-learning"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/b28868692/zendesk-launches-new-customer-sentiment-and-intent-functionality-powered-by-machine-learning"
-ampWebUrl: "https://www.benzinga.com/amp/content/28868692"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28868692"
+excerpt: "(NYSE: ZEN) today announced Intelligent Triage and Smart Assist, new AI solutions empowering businesses to triage customer support requests automatically and access valuable data at scale. By democratizing access to these solutions,"
+publishedDateTime: 2022-09-14T16:02:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/zendesk-launches-new-customer-sentiment-and-intent-functionality-powered-by-machine-learning/article_4d1caeba-943f-5ad7-bc4b-b2cab9720fb2.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/zendesk-launches-new-customer-sentiment-and-intent-functionality-powered-by-machine-learning/article_4d1caeba-943f-5ad7-bc4b-b2cab9720fb2.html"
 type: article
-quality: 30
-heat: -1
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-related:
-  - title: "Zendesk integrates AI with intelligent triage to speed up CX responses"
-    excerpt: "Customer experience vendor Zendesk is making good use of AI technology it gained via the acquisition of Cleverly AI in 2021."
-    publishedDateTime: 2022-09-14T16:00:00Z
-    webUrl: "https://venturebeat.com/ai/zendesk-integrates-ai-with-intelligent-triage-to-speed-up-cx-responses/"
-    ampWebUrl: "https://venturebeat.com/ai/zendesk-integrates-ai-with-intelligent-triage-to-speed-up-cx-responses/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/zendesk-integrates-ai-with-intelligent-triage-to-speed-up-cx-responses/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-zendesk_building_1408739677.jpg?w=1200&strip=all"
-        width: 1024
-        height: 721
-        isCached: true
-  - title: "Discover insights from Zendesk with Amazon Kendra intelligent search"
-    excerpt: "Customer relationship management (CRM) is a critical tool that organizations maintain to manage customer interactions and build business relationships. Zendesk is a CRM tool that makes it easy for customers and businesses to keep in sync. Zendesk captures a wealth of customer data, such as support tickets"
-    publishedDateTime: 2022-09-16T19:02:24Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/discover-insights-from-zendesk-with-amazon-kendra-intelligent-search/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 54
+images:
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg"
+    width: 350
+    height: 456
+    isCached: true
 
-secured: "p8ZyfjurLeOMPugrs1ho+I/mvghRdRIc8dyC6nvfhvDi2bu1Ts3l+Cwlw0izEu6+Ror9rtECW8PnrLS8eAciMItFbNAQlp825FnMT3XN4bTRm4hbY3EXwTfcxLtV8fae8CPjDgJ+dV4Zr27akIhgSrjajxnSQjDHo6JofO19AePWq1GTfK8wxyaZT92qvvDvxcUlh9fDWTVPrlpd/JE1H59vFNsXXNN/8kFtjZOdR4NzQ0TyIzbpSVOdH08WWvYsao2KwV6OWZL3AjxvYhPSnRdqXS+XqK8LO4+p+JHS4gXRu3/IVqj3zcbHPZUMBLnCfritSgZLdFinUQ3ZsAk7K++05g/HyKmt0jHAnMLIsVQ=;Wa+vck86/zLmCEfA1Ttz2w=="
+secured: "mIV9ygzNneHqK0OlGiKfDCkPaLOi5VvOPpoxLVxqLvXR/2OTm+nNiJfQ8Jbc50YuyY/z54Ga7Fa6DFt+vjnLVnIaEdTz9NSlQmkXmru9Brx8coZ3y0dGXeJiWCuT7q2NkWKVSpqSRX0UvrAYivGUqgi72Gbrcug4Qb2kcJef7cBekEfI7BbEsfCXMtDi/358Jn+74Ru20Wpkj3hTbsScWEe3t0JZahyZ8ytbcaP4FxSMz9Rgxd2Ehh+8l7PrQb7pT796A80zlSs5egyEV8FDx5KMGidElXx+I0u0UXudS4PIxkt4QfD9RVydIqCQ11JuAv6UavHScLm6GmMyFX6BhXXyw8APw+3a4LO5ya86/hs=;PNPgwHnuyA1SF1ZFfhaPcg=="
 ---
 
