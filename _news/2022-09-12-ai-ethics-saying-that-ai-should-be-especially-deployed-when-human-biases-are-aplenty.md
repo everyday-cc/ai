@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - AI in Autos
 
 secured: "LKve+3vB4dHGfNLUx9uY8se/MpnZQuK0mKXo7tNil5EyvGke2y5Q1mDYS2t8+HG3Zxy8IM8G8FPec8yi0GP3D0yl38TRXrZRHwnYUDqDbkfu9lw5sqWDT502PXRlOxf+KUUluUKoEuortAwgAGAgbUfFEVnQtkr4msjo2nuP8Sz+SkFd/Va4am6vJSbbfXw9ZlYXK3wu1qMwgf3kJymtcRejvTY+N/bpYDcDnpmx33qZrrE6EnOu3+USRLTgM1UbqP7KICmSipIycQWI89gOOLblGElrV5+EoSrZqfXgnGq0BP1JqGSkztc5MvEiGxz6gJNxfH5f75JeRGigmuMF8XHWP0LAkN6tWBZ/+8eFE//1UYsHFzER9mVT3EPlAiMDeDXMx+U1KyPV3JTR/J41vklVRYpmr4/SQv3lPgn66YVBrza3thTAwyC8vSvlye9Gxn5OYtadWl7fXqNI7d9zIx2sa9f5ihzPtInTllKGaPpIbFhNhH76KGndfWsgYM4se6o5Ov2xFNFHcLfC6Mac6A==;5T7q4hUUQfpGByBK7bVBDA=="
 ---
