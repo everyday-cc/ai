@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-03-ai-powered-personalization-the-key-to-unlocking-ecommerce-growth.md",
+      "title": "AI-powered personalization: The key to unlocking ecommerce growth",
+      "excerpt": "AI-powered personalization allows businesses to predict their customers’ requirements and be proactive with solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-powered-personalization-the-key-to-unlocking-ecommerce-growth/",
+      "originalUrl": "https://venturebeat.com/ai/ai-powered-personalization-the-key-to-unlocking-ecommerce-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1337253139-Dilok-Klaisataporn.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 618,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-powered-personalization-the-key-to-unlocking-ecommerce-growth/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-powered-personalization-the-key-to-unlocking-ecommerce-growth/amp/",
+      "publishedDateTime": "2022-09-03T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-09-03-why-bidens-speech-was-among-the-most-disgusting-speeches-ever-ron-desantis.md",
       "title": "Why Biden's speech was among 'the most disgusting speeches' ever: Ron DeSantis",
       "excerpt": "Florida Gov. Ron DeSantis explained why President Biden's Thursday speech was \"one of the most disgusting speeches an American president has ever given\" Friday on \"The Ingraham Angle.\" GOV.",
@@ -1365,58 +1417,6 @@
         "name": "Buffalo News",
         "domain": "buffalonews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-why-ai-leaders-need-a-backbone-of-large-language-models.md",
-      "title": "Why AI leaders need a ‘backbone’ of large language models",
-      "excerpt": "AI innovators are laying down a foundational AI ‘backbone’ of large language models for natural language processing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-ai-leaders-need-a-backbone-of-large-language-models/",
-      "originalUrl": "https://venturebeat.com/ai/why-ai-leaders-need-a-backbone-of-large-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1370095638.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-ai-leaders-need-a-backbone-of-large-language-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-ai-leaders-need-a-backbone-of-large-language-models/amp/",
-      "publishedDateTime": "2022-08-23T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

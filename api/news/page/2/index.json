@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-20-d-id-the-company-behind-deep-nostalgia-lets-you-create-ai-generated-videos-from-a-single-image.md",
+      "title": "D-ID, the company behind Deep Nostalgia, lets you create AI-generated videos from a single image",
+      "excerpt": "D-ID does not want to limit itself to corporate training, communication and marketing videos - it has ambitions of facilitating real-time video call translation and clone presenters.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/19/d-id-the-company-behind-deep-nostalgia-lets-you-create-ai-generated-videos-from-a-single-image/",
+      "originalUrl": "https://techcrunch.com/2022/09/19/d-id-the-company-behind-deep-nostalgia-lets-you-create-ai-generated-videos-from-a-single-image/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/D-ID-Creative-Reality-screenshot-16-Sept-2022.jpg?resize=1200,750",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/19/d-id-the-company-behind-deep-nostalgia-lets-you-create-ai-generated-videos-from-a-single-image/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/19/d-id-the-company-behind-deep-nostalgia-lets-you-create-ai-generated-videos-from-a-single-image/amp/",
+      "publishedDateTime": "2022-09-19T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-09-19-parallel-data-processing-with-rstudio-on-amazon-sagemaker.md",
       "title": "Parallel data processing with RStudio on Amazon SageMaker",
       "excerpt": "Last year, we announced the general availability of RStudio on Amazon SageMaker, the industry’s first fully managed RStudio Workbench integrated development environment (IDE) in the cloud. You can quickly launch the familiar RStudio IDE, and dial up and down the underlying compute resources without interrupting",
@@ -165,7 +218,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-to-grow-at-3288-cagr-during-the-forecast-period-of-2022-2027-118-report-pages-2022-09-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1182,49 +1235,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-ai-the-future-of-healthcare.md",
-      "title": "AI: The Future of Healthcare",
-      "excerpt": "By Dr Christophe Bianchi, Chief Technologist HealthCare, Ansys The covid pandemic touched almost every aspect of our lives and its legacy can still be seen throughout society and the economy. During that time there was a laser-pointed focus placed on the healthcare industry – leading doctors and scientists instantly became household names",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/ai-the-future-of-healthcare/",
-      "originalUrl": "https://www.globalbankingandfinance.com/ai-the-future-of-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/07/iStock-1397174654.jpg",
-          "width": 750,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/ai-the-future-of-healthcare/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/ai-the-future-of-healthcare/",
-      "publishedDateTime": "2022-09-16T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

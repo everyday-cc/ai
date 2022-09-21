@@ -2,58 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2022-05-13-safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say.md",
-      "title": "Safer Driver Assistance Tech Now More Important Than Self-Driving Cars, Consumers Say",
-      "excerpt": "Drivers want automakers to improve existing semi-autonomous driver support features before developing fully autonomous vehicles, as inconsistent performance remains a problem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/",
-      "originalUrl": "https://www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/627d8169661424cee95ca2c9/0x0.jpg?format=jpg&width=1200",
-          "width": 826,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/amp/",
-      "publishedDateTime": "2022-05-12T14:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-13-us-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates.md",
       "title": "U.S. warns of discrimination in using artificial intelligence to screen job candidates",
       "excerpt": "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ...",

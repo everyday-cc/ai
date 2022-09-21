@@ -2,6 +2,92 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2022-07-28-voice-recognition-software-market-share-2022-global-business-growth-industry-revenue-demand-and-applications-market-research-report-to-2029.md",
+      "title": "Voice Recognition Software Market Share 2022 Global Business Growth, Industry Revenue, Demand and Applications Market Research Report to 2029",
+      "excerpt": "Global Voice Recognition Software Market report enlists a variety of qualitative as well as quantitative research findings and remarkable insights associated with various segments of the industry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/voice-recognition-software-market-share-2022-global-business-growth-industry-revenue-demand-and-applications-market-research-report-to-2029",
+      "originalUrl": "https://www.digitaljournal.com/pr/voice-recognition-software-market-share-2022-global-business-growth-industry-revenue-demand-and-applications-market-research-report-to-2029",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/08/Sydney-outbreak-AFP-1K-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-smashing-security-podcast-285-ubers-hidden-hack-tips-for-travel-and-ai-accent-fixes.md",
+      "title": "Smashing Security podcast #285: Uber’s hidden hack, tips for travel, and AI accent fixes",
+      "excerpt": "Uber may not face prosecution over its handling of a 2016 data breach – but its former chief security head does; how to defend your digital devices' data while on vacation, and how to change",
+      "sourceUrl": null,
+      "webUrl": "https://grahamcluley.com/smashing-security-podcast-285/",
+      "originalUrl": "https://grahamcluley.com/smashing-security-podcast-285/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://grahamcluley.com/wp-content/uploads/2022/07/ss-episode-285.jpeg",
+          "width": 730,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://grahamcluley.com/smashing-security-podcast-285/",
+      "cdnAmpWebUrl": "https://grahamcluley-com.cdn.ampproject.org/c/s/grahamcluley.com/smashing-security-podcast-285/",
+      "publishedDateTime": "2022-07-27T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Graham Cluley",
+        "domain": "grahamcluley.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-inside-tiktoks-attempts-to-downplay-the-china-association.md",
       "title": "Inside TikTok's Attempts to ‘Downplay the China Association’",
       "excerpt": "Both are explanations of press talking points in English and include a version translated into a European language ... downplay AI.” All three bullet points are the second, third and fourth ...",
@@ -1007,100 +1093,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-how-ai-is-being-used-to-help-blind-students-visualize-graphs-and-charts.md",
-      "title": "How AI Is Being Used To Help Blind Students ‘Visualize’ Graphs And Charts",
-      "excerpt": "Benetech, together with Schmidt Futures, is working on a project using AI to overcome one of the most troublesome access barriers across mainstream education – the conversion of graphs and charts into an accessible format for students with sight loss and other print disabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gusalexiou/2022/07/27/how-ai-is-being-used-to-help-blind-students-visualize-graphs-and-charts/",
-      "originalUrl": "https://www.forbes.com/sites/gusalexiou/2022/07/27/how-ai-is-being-used-to-help-blind-students-visualize-graphs-and-charts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62e10352c0d189566a2ace28/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gusalexiou/2022/07/27/how-ai-is-being-used-to-help-blind-students-visualize-graphs-and-charts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gusalexiou/2022/07/27/how-ai-is-being-used-to-help-blind-students-visualize-graphs-and-charts/amp/",
-      "publishedDateTime": "2022-07-27T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-cio-100-us-9-award-winning-government-it-projects.md",
-      "title": "CIO 100 US: 9 award-winning government IT projects",
-      "excerpt": "Public-sector agencies and institutions are turning to tech to streamline processes, facilitate scale and innovation, and improve the lives of those they serve.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/403501/cio-100-us-9-award-winning-government-it-projects.html",
-      "originalUrl": "https://www.cio.com/article/403501/cio-100-us-9-award-winning-government-it-projects.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/07/cio100-usa-award1200-100898713-large-100899934-orig-5.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/403501/cio-100-us-9-award-winning-government-it-projects.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/403501/cio-100-us-9-award-winning-government-it-projects.html/amp",
-      "publishedDateTime": "2022-07-27T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

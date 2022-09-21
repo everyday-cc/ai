@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Deep Instinct Appoints Former Palo Alto CEO and Zscaler COO Lane Bess as CEO"
-excerpt: "BlackRock leads new $62.5M funding round as the company accelerates growth Deep Instinct, the first company to apply end-to-end deep learning to cybersecurity, today announced that Lane Bess, former P"
+excerpt: "Bess has more than 35 years of experience in cybersecurity and technology with a proven track record of leading rapidly growing cybersecurity companies. He was formerly CEO of Palo Alto Networks for several years before its IPO."
 publishedDateTime: 2022-09-20T16:48:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/b28936139/deep-instinct-appoints-former-palo-alto-ceo-and-zscaler-coo-lane-bess-as-ceo"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/b28936139/deep-instinct-appoints-former-palo-alto-ceo-and-zscaler-coo-lane-bess-as-ceo"
-ampWebUrl: "https://www.benzinga.com/amp/content/28936139"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28936139"
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-deep-instinct-appoints-former-palo-alto-ceo-and-zscaler-coo-lane-bess-as-ceo"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-deep-instinct-appoints-former-palo-alto-ceo-and-zscaler-coo-lane-bess-as-ceo"
 type: article
-quality: 41
-heat: 41
+quality: 1
+heat: 1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg"
-    width: 700
-    height: 300
-    isCached: true
 
 related:
   - title: "Deep Instinct Appoints Former Palo Alto CEO and Zscaler COO Lane Bess as CEO"
@@ -37,6 +29,6 @@ related:
       domain: 01net.it
     quality: 1
 
-secured: "YcE3lqrvgcHzgemS+Dfsk1tMoLwuxWV7bHn75iazgXJVXceHZlC3s3+WWcugIOy1KGb9JbfheyOD6PXGJEl2ewEzk5dkZeQTOzSHre1aDCEB/eYiap9GZ80CTmjOA4x+oB58kSYAe22jeb8Sn3/2HXG0QnDRGJui68sfm/QLLYrpinMe23kb33F9CYVUX4jqQYgc8LHUh+GRXUnPmgbM6d/Dyvv8hZ7sdRQwHpNLbEts0ozq6SvlePy9FMWTV5qsrWnL6nQ438I6Gnqh35vwlz8bnZ9CBKeLHiVNXD2Qo5W1J3RPb7AnLcHEdvrCU22/UO3NHNd9m2Xlef05oEg/OcMttvVyj7l8IhBqGYgRcQg=;awrmknHqnyiSqLYgfw6RBQ=="
+secured: "4k1hAmiNlddiwgmbbY2FQAhSrXe7hmUhvoh5VXKZ9zpvw2tSujNi26T4NMuyQ3tSG/DdcwhOgLxlrJj06hD48eM7l+KHy4QVc40NVqynyr5lHtII/p4e+Aitx1lP7w3W0Orwt9DXMWbaRxlcnap8Jl8ov6eKdwM6LV4+X4Qo6XFKNojaoz+Yfs20yVnNDC6QpkP0d+gyI68QuKVTH51CibZwVsOYLhB8VcXjJTH3Z1Zm6Zq1kUU0lp2W/VbCjKGY3d7n7u0cPMAGn1xJjrXAkVlWC7jgjOLiLWkLPHuHqPXOraONzx9fzCrqaiGPwC9ovC0zt/anc7XP+Q/LpLf4nQ650qoQUewuwYPPUpg7KKo=;lBke9yM4LiQCPmDTE4S1Zg=="
 ---
 

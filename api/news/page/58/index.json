@@ -2,6 +2,101 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2022-08-03-how-deep-instinct-uses-deep-learning-to-advance-malware-prevention.md",
+      "title": "How Deep Instinct uses deep-learning to advance malware prevention",
+      "excerpt": "cybersecurity provider Deep Instinct has announced the release of a deep learning-powered solution: Deep Instinct Prevention for Applications, a new on-demand antimalware solution. Deep Instinct ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/deep-instinct-deep-learning/",
+      "originalUrl": "https://venturebeat.com/security/deep-instinct-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1273354471.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 805,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/deep-instinct-deep-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/deep-instinct-deep-learning/amp/",
+      "publishedDateTime": "2022-08-02T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-whats-good-for-one-party-is-good-for-the-other.md",
+      "title": "What’s good for one party, is good for the other",
+      "excerpt": "This crowd was not an army of remote-controlled robots sent to raid the capitol by ... Trump governed with that assumption in mind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesunchronicle.com/opinion/letters_to_editor/whats-good-for-one-party-is-good-for-the-other/article_ceadd522-595c-559b-8aa5-e712f7a3bc3f.html",
+      "originalUrl": "https://www.thesunchronicle.com/opinion/letters_to_editor/whats-good-for-one-party-is-good-for-the-other/article_ceadd522-595c-559b-8aa5-e712f7a3bc3f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/thesunchronicle.com/content/tncms/assets/v3/eedition/c/c2/cc2b8ee7-2905-5be4-9d78-41e03d403772/62fee116b1fd7.preview-300.jpg?resize=300%2C579",
+          "width": 300,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T21:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun Chronicle",
+        "domain": "thesunchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-03-aerobics-isnt-the-only-exercise-that-can-slow-mild-cognitive-decline-study-finds.md",
       "title": "Aerobics isn't the only exercise that can slow mild cognitive decline, study finds",
       "excerpt": "Regular stretching and balance and range of motion exercises are as good as aerobic exercise in slowing the progression of mild cognitive decline, a new study has found. \"My worry in the beginning ...",
@@ -1044,100 +1139,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-insta360-link-is-an-ai-powered-4k-webcam-with-a-3-axis-gimbal.md",
-      "title": "Insta360 Link Is an AI-Powered 4K Webcam With a 3-Axis Gimbal",
-      "excerpt": "Insta360 today revealed its first dedicated webcam called the Link (Opens in a new window). Rather than simply producing a webcam capable of competing with the best Logitech or Ra",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/insta360-link-is-an-ai-powered-4k-webcam-with-a-3-axis-gimbal",
-      "originalUrl": "https://www.pcmag.com/news/insta360-link-is-an-ai-powered-4k-webcam-with-a-3-axis-gimbal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/01tyvzFA9n0CtmJireFbnRo-1.fit_lim.size_1200x630.v1659456459.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T09:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-rhino-health-joins-alliance-for-artificial-intelligence-in-healthcare.md",
-      "title": "Rhino Health Joins Alliance for Artificial Intelligence in Healthcare",
-      "excerpt": "For AI to have strong, equitable, replicable, and continuously improving performance in healthcare, access to data is key,” said Ittai Dayan, MD, co-founder and CEO of Rhino Health. “Federated data management,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/technology-health-patient-privacy-artificial-intelligence-22f99d64ecd48d6a95017845cbf4f778",
-      "originalUrl": "https://apnews.com/press-release/accesswire/technology-health-patient-privacy-artificial-intelligence-22f99d64ecd48d6a95017845cbf4f778",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,40 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-05-23-brainchip-joins-arm-ai-partner-program.md",
+      "title": "BrainChip Joins Arm AI Partner Program",
+      "excerpt": "LAGUNA HILLS, CA / ACCESSWIRE / May 22, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP, announced today it has been accepted into the Arm ® AI Partner Program,",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-5-22-brainchip-joins-arm-ai-partner-program",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-5-22-brainchip-joins-arm-ai-partner-program",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-22T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-20-scientists-develop-real-life-mind-controllable-robotic-hand-using-ai.md",
       "title": "Scientists develop real-life mind controllable robotic hand using AI",
       "excerpt": "A team of researchers at the University of Minnesota has created a robotic arm that can function according to your thoughts. In the future, such advance prosthetic body parts might allow humans to control computer-based devices with their minds.",

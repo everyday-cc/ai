@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "North America Fintech-as-a-Service Market to Grow at 16.3% Annually Through 2028 - ResearchAndMarkets.com"
-    excerpt: "The North America Fintech-as-a-Service Market is expected to witness market growth of 16.3% CAGR during the forecast period (2022-2028). Bank visits, standing in lines, and dealing with red tape are the stuff of the past."
-    publishedDateTime: 2022-09-16T12:32:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-16-north-america-fintech-as-a-service-market-to-grow-at-163-annually-through-2028-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
   - title: "Artificial Intelligence in Radiology Market Size is Projected to Reach USD 461.1 Million and Grow at CAGR 35.9% Over Forecasts Period 2022-2028"
     excerpt: "Artificial Intelligence in Radiology Market is valued at USD 53.9 Million in 2021 and expected to reach USD 461.1 Million by 2028 with a CAGR of 35.9% over the forecast period. Sc"
     publishedDateTime: 2022-09-19T09:48:00Z

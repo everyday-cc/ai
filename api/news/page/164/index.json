@@ -2,6 +2,92 @@
   "page": 164,
   "value": [
     {
+      "path": "_news/2022-05-15-south-hills-area-robotics-team-offers-varied-learning-experiences.md",
+      "title": "South Hills area robotics team offers varied learning experiences",
+      "excerpt": "Picture a 125-pound, nearly three-foot-tall mechanical creation climb unassisted onto a set of monkey bars, amid a throng of folks who are rooting for it to succeed. “It’s as exciting as a hockey game or a football game,",
+      "sourceUrl": null,
+      "webUrl": "https://triblive.com/local/varsity-sport-for-the-mind-south-hills-area-robotics-team-offers-varied-learning-experiences/",
+      "originalUrl": "https://triblive.com/local/varsity-sport-for-the-mind-south-hills-area-robotics-team-offers-varied-learning-experiences/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-varnish.triblive.com/2022/05/5052719_web1_cv-titaniumtitans-052622-1.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-14T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TribLIVE.com",
+        "domain": "triblive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-15-shareholder-amazons-astronomical-misuse-of-customer-data-could-ruin-company.md",
+      "title": "Shareholder: Amazon’s ‘astronomical’ misuse of customer data could ruin company",
+      "excerpt": "Amazon launched its facial recognition service, Rekognition, in 2016 for customers to build “powerful visual search and discovery” into applications, according to a blog post on its website.",
+      "sourceUrl": null,
+      "webUrl": "https://www.limaohio.com/news/508619/shareholder-amazons-astronomical-misuse-of-customer-data-could-ruin-company",
+      "originalUrl": "https://www.limaohio.com/news/508619/shareholder-amazons-astronomical-misuse-of-customer-data-could-ruin-company",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d31029zd06w0t6.cloudfront.net/wp-content/uploads/sites/54/2022/05/web1_BIZ-CPT-AMAZON-DATA-LAWSUIT-GET-1-.jpg",
+          "width": 1068,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-14T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Lima News",
+        "domain": "limaohio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-14-paradox-artificial-intelligence-helps-solve-but-suffers-from-skills-shortages.md",
       "title": "Paradox: Artificial Intelligence Helps Solve, But Suffers From Skills Shortages",
       "excerpt": "We don’t have enough people to build the AI systems that can automate business areas that don’t have enough people, latest IBM survey shows.",
@@ -1061,109 +1147,6 @@
         "AWS AI",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-no-joke-googles-ai-is-smart-enough-to-understand-your-humor.md",
-      "title": "No Joke: Google's AI is Smart Enough To Understand Your Humor",
-      "excerpt": "Amid a flurry of new hardware including the Pixel 7, the Pixel Buds Pro and a new Pixel Tablet, Google dropped one development at its I/O developer conference that went largely unnoticed: its AI can now understand jokes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/no-joke-googles-ai-is-smart-enough-to-understand-your-humor/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/no-joke-googles-ai-is-smart-enough-to-understand-your-humor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/036dd9834bc973e9ba35e4b99168d39526eb8267/2022/05/12/e325e935-0564-4a8a-a853-97a41a827de4/screen-shot-2022-05-12-at-4-10-19-pm.png?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/no-joke-googles-ai-is-smart-enough-to-understand-your-humor/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/no-joke-googles-ai-is-smart-enough-to-understand-your-humor/",
-      "publishedDateTime": "2022-05-13T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-leave-it-to-the-robots-what-the-jetsons-got-right-about-ai.md",
-      "title": "Leave It To The Robots: What The Jetsons Got Right About AI",
-      "excerpt": "While the show exaggerated futuristic technology, it can help us think about the real role AI can and should play in the workforce.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/leave-it-to-the-robots-what-the-jetsons-got-right-about-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/leave-it-to-the-robots-what-the-jetsons-got-right-about-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5ee90f75a2b06400077bbb41/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/leave-it-to-the-robots-what-the-jetsons-got-right-about-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/13/leave-it-to-the-robots-what-the-jetsons-got-right-about-ai/amp/",
-      "publishedDateTime": "2022-05-13T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

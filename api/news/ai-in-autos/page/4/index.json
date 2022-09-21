@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-08-31-will-transit-agencies-fight-or-yield-to-the-self-driving-revolution.md",
-      "title": "Will Transit Agencies Fight Or Yield To The Self-Driving Revolution?",
-      "excerpt": "Transit agencies resist solutions to transportation goals that are not transit. Should they have say over policy matters for their competition, and if not, how should policy be decided?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2022/08/30/will-transit-agencies-fight-or-yield-to-the-self-driving-revolution/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2022/08/30/will-transit-agencies-fight-or-yield-to-the-self-driving-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/630e6b2bb16ae3b08215ba24/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 898,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2022/08/30/will-transit-agencies-fight-or-yield-to-the-self-driving-revolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/08/30/will-transit-agencies-fight-or-yield-to-the-self-driving-revolution/amp/",
-      "publishedDateTime": "2022-08-30T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-31-waymo-opens-driverless-robotaxi-service-in-phoenix-to-locals-who-cant-share-experiences-online.md",
       "title": "Waymo opens driverless robotaxi service in Phoenix to locals who can't share experiences online",
       "excerpt": "Waymo is rolling out its driverless robotaxi service in Phoenix for members of the Alphabet-owned company's 'trusted tester' program - but users can't share their experience on social media and ...",
@@ -1391,6 +1339,40 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-26-impacts-of-artificial-intelligence-on-gambling.md",
+      "title": "Impacts of Artificial Intelligence on Gambling",
+      "excerpt": "There are many implications of artificial intelligence (AI) in the gambling industry, and this article will discuss some of these impacts. AI can be used to improve player experiences and identify problem gamblers. It can also help online casinos manage ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techzone360.com/topics/techzone/articles/2022/08/26/453315-impacts-artificial-intelligence-gambling.htm",
+      "originalUrl": "https://www.techzone360.com/topics/techzone/articles/2022/08/26/453315-impacts-artificial-intelligence-gambling.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tech Zone 360",
+        "domain": "techzone360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

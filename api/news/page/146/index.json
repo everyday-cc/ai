@@ -2,6 +2,111 @@
   "page": 146,
   "value": [
     {
+      "path": "_news/2022-05-28-ai-robotics-security-leader-aitxs-new-software-update-will-include-weapon-detection.md",
+      "title": "AI Robotics Security Leader AITX's New Software Update will Include Weapon Detection",
+      "excerpt": "AITX announced that its wholly owned subsidiary Robotic Assistance Devices, Inc. (RAD) will include gun detection",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-robotics-security-leader-aitxs-new-software-update-will-include-weapon-detection-2022-05-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-robotics-security-leader-aitxs-new-software-update-will-include-weapon-detection-2022-05-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-27T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-05-28-this-facial-recognition-site-is-creeping-everyone-out.md",
+      "title": "This Facial Recognition Site Is Creeping Everyone Out",
+      "excerpt": "A facial recognition tool called PimEyes has recently gone from unknown to infamous. PimEyes makes it easy to find pictures of people that are strewn across the internet. That isn't necessarily surprising—reverse image searches have been a thing for years—but it turns out PimEyes is astoundingly good at identifying people with naught but a single photograph.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/this-facial-recognition-site-is-creeping-everyone-out",
+      "originalUrl": "https://www.pcmag.com/news/this-facial-recognition-site-is-creeping-everyone-out",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/042tAv7BU4awCU1LoifhgMO-1.fit_lim.size_1200x630.v1653691896.jpg",
+          "width": 1121,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/this-facial-recognition-site-is-creeping-everyone-out?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/this-facial-recognition-site-is-creeping-everyone-out?amp=true",
+      "publishedDateTime": "2022-05-27T15:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-28-google-assistant-could-soon-get-even-better-at-recognizing-what-you-say.md",
       "title": "Google Assistant could soon get even better at recognizing what you say",
       "excerpt": "Voice recognition is one of those modern tech miracles we easily take for granted. It helps make the Google Assistant possible, and while that's pretty good at picking up what you say and giving ...",
@@ -980,101 +1085,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-artificial-intelligence-in-marketing-market-to.md",
-      "title": "Artificial Intelligence in Marketing Market to...",
-      "excerpt": "The artificial intelligence in marketing market share growth by the on-premise segment will be significant for revenue generation. Primarily, marketers can reach customers in real-time via on-premise marketing. It is about how companies utilize in-store ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/05/n27435408/artificial-intelligence-in-marketing-market-to-grow-at-a-cagr-of-26-84-by-2026-increasing-digitali",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/n27435408/artificial-intelligence-in-marketing-market-to-grow-at-a-cagr-of-26-84-by-2026-increasing-digitali",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1825868/Artificial_Intelligence.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27435408",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27435408",
-      "publishedDateTime": "2022-05-27T00:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-accused-of-cheating-by-an-algorithm-and-a-professor-she-had-never-met.md",
-      "title": "Accused of Cheating by an Algorithm, and a Professor She Had Never Met",
-      "excerpt": "She was, she said in an email to The New York Times, a Black woman who had been “wrongfully accused of academic dishonesty by an algorithm.” What happened, however, was more complicated than a simple algorithmic mistake.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.html",
-      "originalUrl": "https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/05/27/business/00cheating/00cheating-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.amp.html",
-      "publishedDateTime": "2022-05-27T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }
