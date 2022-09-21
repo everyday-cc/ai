@@ -5,8 +5,6 @@ excerpt: "Dietary choices and their consequences may certainly influence cogniti
 publishedDateTime: 2022-09-16T16:58:00Z
 originalUrl: "https://medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.html"
 webUrl: "https://medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.amp"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/diet-could-play-a-role.jpg"
-    width: 1280
-    height: 703
-    isCached: true
-
-secured: "AT5Xhbgm8SAv3RLfALTD/omgLEIUDzUCPx8LdnyOH+JUrrBMgTTIuDfY+x0uGDLF6fIG6huJccQ8UuhuT2UWf4muefFsMGo9q2FEbOXd/+fYesLNTeYzXs0IP55RdWKz4uDWk67WUvSkMvLJWd4FWYB7GfhhCaOXI1n4WcOCG22bekVFtEfZJ6gCT/HDq+z4DeWVRs4pfBQ35GKgmr/8gkWUlasPb/1396de9HZADRGL62VOR00It1ZPO5H+pUlM3ETSXnImaHe9ZyqZzkYTFSdKgFXnxvM6YvQVVmpL96EzpQ95wsAUC2gPlf7cRCueH/2clQHxoiGEO1T3LAXnNDbFC53bdwEDHyYQXUFm+x8=;XvGyQ8MAMc+TbzLjaWG5Qg=="
+secured: "yLRCX0ubHJR8mi6c7DHQVFannzott6GSfVRyO9fA9YtE52l2D9VBPQxWIL3mpW48SxFPBZ9Pv1G5IhyKWZickrRsX8mXbge8pzJURkaL/aj0IAA8010cSqxZuH4M/jd8SHRMA/hEpmteU43QyNm9nEwYp5rBTJmqlrAkeC7xD+HLcquc4K/BhE2V6SwPVM7hBLPicAHvx33xeXo78YhgbSwpZ28esfkxQx8jaz8INzMvEgtr/jRwewenLCdLTpgH1OLT56DJiFC5zPIsgsAGVw2AxvRmwIXduRqeXzFkjOwVTAaEKw75/qH9S6lG4YkmUjxp0C8xTHXGMhStG/oPzjWnFZH4CleWrHjdGM1ObqM=;hUdi/3VSaMni+uGkXbfiTw=="
 ---
 
