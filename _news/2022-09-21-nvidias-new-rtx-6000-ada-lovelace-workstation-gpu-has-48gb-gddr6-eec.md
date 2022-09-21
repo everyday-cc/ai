@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/88533/nvidias-new-rtx-6000-ada-love
 webUrl: "https://www.tweaktown.com/news/88533/nvidias-new-rtx-6000-ada-lovelace-workstation-gpu-has-48gb-gddr6-eec/index.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 620
     height: 410
     isCached: true
+
+related:
+  - title: "NVIDIA unveils latest GPU based on Ada Lovelace architecture"
+    excerpt: "NVIDIA has announced the NVIDIA RTX 6000 workstation GPU, based on its new NVIDIA Ada Lovelace architecture. The RTX 6000 Ada Generation GPU can deliver real-time rendering, graphics and AI, enabling designers and engineers to build and validate more sophisticated designs."
+    publishedDateTime: 2022-09-21T09:15:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/nvidia-unveils-latest-gpu-based-on-ada-lovelace-architecture"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 39
+    images:
+      - url: "https://www.newelectronics.co.uk/media/syeigo2n/nvidia-rtx-6000.jpg?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "lqYemyKA+Ee/LJ33pE486dfUvaWPgVfu5xaDNJWMKYewHzGcs1oSH+phthijzXSmAwIA7vuH+Tx9uvufMVg3Q2SBCo83by3o/oJWz0l8Zfg/T6oyv0fnf1+GTGyoiyFp0KmT7EFIjrOKFIKoDBmVhwcebyCGeNkt0QXd+54uZGOo9J3ZeKaXZP2Zz/m/cGmaJJ2nkWLeRaDHPBITM/bvbnlMcuMWehXayl0p2qwNn+jh0MgBryZabuCp8EHmYJ2n0JcUrGI/mmCQx7GKdZlHXsEtJgPSBQyb7s2OhOqNozbWwSNeemkm26dibHPQiza+D9V+HdRbH7YR+abj13jg4WdoESYE8NqjTzD1R9SpzfDCFOIMucCU5U/09duMviLHadRksWt30hG9jKS/OZSfwH3qgX+GG4Rd5gNtfS/oKwRKKi/BVI2dVSHL3euOExIAUqQ5O1k7w88ecIJtQvFGloc/OxwoVpRNGIyvqRQe8nz1HijyWbfRx7bIw2+SPnY/DW2rB3YdXzbDFFdbaYCrEg==;0eK6U4Jr9GHLYn6ilZRy5A=="
 ---

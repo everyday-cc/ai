@@ -9,8 +9,8 @@ ampWebUrl: "https://electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-owners/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: Electrek
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "My Tesla Full Self-Driving Beta 10.69 first drive was a fail"
-    excerpt: "I went on my first test drive of Tesla Full Self-Driving Beta 10.69.2, the latest big FSD software update, and unfortunately, it was a fail."
-    publishedDateTime: 2022-09-16T15:04:00Z
-    webUrl: "https://electrek.co/2022/09/16/tesla-full-self-driving-beta-10-69-first-drive-fail/"
-    ampWebUrl: "https://electrek.co/2022/09/16/tesla-full-self-driving-beta-10-69-first-drive-fail/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/16/tesla-full-self-driving-beta-10-69-first-drive-fail/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 104
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla 'Full Self-Driving' Beta opens to another 60,000 testers"
     excerpt: "Tesla is expanding the number of testers of its Full Self-Driving beta program in North America. There's now a total of 160,000 in the trial."
     publishedDateTime: 2022-09-20T03:13:00Z
@@ -78,20 +62,6 @@ related:
       - url: "https://wp-assets.futurism.com/2022/09/drivers-sue-tesla-full-self-driving-600x315.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Self-driving cars put HB2813 to the test"
-    excerpt: "With more self-driving cars on our roads, we are in new territory when it comes to determining fault during accidents and properly protecting ourselves."
-    publishedDateTime: 2022-09-16T16:46:00Z
-    webUrl: "https://azcapitoltimes.com/news/2022/09/16/self-driving-cars-put-hb2813-to-the-test/"
-    type: article
-    provider:
-      name: Arizona Capitol Times
-      domain: azcapitoltimes.com
-    quality: 24
-    images:
-      - url: "https://azcapitoltimes.com/files/2018/02/Waymo-car-620.jpg"
-        width: 620
-        height: 330
         isCached: true
 
 secured: "tdePFSnI3I9fj3P1+PNn9AtjGjQOftj3fZm6gkClCqCbGl10Bql0YT+k/ZxDsrSuhSchYNM2R7HiJkftdqJOZk5tPI/Iub2kYd8xN2AP7QiLEg33i3EufevXkUu7yOKkjON5VRGSpfW5qRJDFAIT4KAUpwfXvMGhC1U4qNb0XYhZo2xnQ4ph/pEsxfkEqm/CF6rTj3PW95vrKUjIyxil83C44H7th6NDG9WQu0vRHQaaX01uE0VwNlvqQe8sDCsFmoOLjmLAF4QnEtPkXvrnRZzxUh/Xqftk+e+bHYlnkrwphGnjCFA6gHC3AW4v3BIUTOR04pyt0wXRA0X/jNnoohJnxV+HnxRq/RGshFFVL+1Ypa28LGLUGtP8bqPEYvzfNj+jisgn056I3oed5XNnS+kXEnjPaaNdYWS4s19k1Hsb1vgft3TYYkDRFcud7aJyBrj1GpARSkbV5et/sR2v3nhL95+MarqFsp8LpZ94hpItcx94yV0LHE/JAbX7MeqHplBGcpyFta8olcmc8qOg1Q==;g3trAcf2mAynL3STDu9Qgw=="

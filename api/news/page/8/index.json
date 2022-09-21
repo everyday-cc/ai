@@ -2,6 +2,231 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-09-12-how-technologies-such-as-ai-ml-and-deep-learning-are-paving-the-way-for-the-digitalization-of-the-construction-industry.md",
+      "title": "How technologies such as AI, ML, and deep learning are paving the way for the digitalization of the construction industry?",
+      "excerpt": "The construction industry has been long reliant on tedious manual work, obsolete practices, legacy systems and exhausting paperwork. Moreover, the global construction industry has been relatively slow to adopt the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-technologies-such-as-ai-ml-and-deep-learning-are-paving-the-way-for-the-digitalization-of-the-construction-industry/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-technologies-such-as-ai-ml-and-deep-learning-are-paving-the-way-for-the-digitalization-of-the-construction-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/09/Pic-4.png",
+          "width": 383,
+          "height": 331,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-technologies-such-as-ai-ml-and-deep-learning-are-paving-the-way-for-the-digitalization-of-the-construction-industry/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-technologies-such-as-ai-ml-and-deep-learning-are-paving-the-way-for-the-digitalization-of-the-construction-industry/",
+      "publishedDateTime": "2022-09-12T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-london-has-raised-more-fintech-investment-than-any-other-global-hub.md",
+      "title": "London Has Raised More Fintech Investment Than Any Other Global Hub",
+      "excerpt": "MoneyTransfers.com reports that London has successfully attracted the most fintech investment, reaching $3.1 billion in 2022. Jonathan Merry, CEO of MoneyTransfers.com, commented on the report: \"The U.",
+      "sourceUrl": null,
+      "webUrl": "https://techround.co.uk/finance/london-raises-more-fintech-investment/",
+      "originalUrl": "https://techround.co.uk/finance/london-raises-more-fintech-investment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techround.co.uk/wp-content/uploads/2021/04/investment-2021.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techround.co.uk/finance/london-raises-more-fintech-investment/amp/",
+      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/finance/london-raises-more-fintech-investment/amp/",
+      "publishedDateTime": "2022-09-12T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRound",
+        "domain": "techround.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-healthcare-artificial-intelligence-market-research-report-analysis-by-competition-sales-revenue-market-size-2022-to-2028.md",
+      "title": "Healthcare Artificial Intelligence Market Research Report Analysis by Competition, Sales, Revenue, Market Size 2022 to 2028",
+      "excerpt": "The \" Healthcare Artificial Intelligence Market Industry Research Report \" considers a thorough scenario of the market's size and market dynamics for the time period from 2022 to 2028. The purpose of the study is to assist stakeholders,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-research-report-analysis-by-competition-sales-revenue-market-size-2022-to-2028-2022-09-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-research-report-analysis-by-competition-sales-revenue-market-size-2022-to-2028-2022-09-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-global-graphic-processing-unit-gpu-market-share-current-and-future-industry-trends-2028.md",
+      "title": "Global Graphic Processing Unit (GPU) Market Share, Current and Future Industry Trends 2028",
+      "excerpt": "Reliable sources cite that the rising investments in AI and VR platform R&D, as well as ongoing GPU advancements are propelling the growth of global graphics processing unit (GPU) market.  Furthermore,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-graphic-processing-unit-gpu-market-share-current-and-future-industry-trends-2028-2022-09-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-graphic-processing-unit-gpu-market-share-current-and-future-industry-trends-2028-2022-09-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-computer-vision-application-cases.md",
+      "title": "Computer Vision Application Cases",
+      "excerpt": "Recently, there have been increasing attempts to create a facial recognition application for various characters using OpenCV tools. However, despite the high speed, the quality of these tools turned out to be insufficient. In search of automation, a bit of ...",
+      "sourceUrl": null,
+      "webUrl": "https://gisuser.com/2022/09/computer-vision-application-cases/",
+      "originalUrl": "https://gisuser.com/2022/09/computer-vision-application-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gisuser.com/2022/09/computer-vision-application-cases/amp/",
+      "cdnAmpWebUrl": "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2022/09/computer-vision-application-cases/amp/",
+      "publishedDateTime": "2022-09-12T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gisuser",
+        "domain": "gisuser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-12-artificial-intelligence-in-retail-market-size-2025-the-e-commerce-segment-captured-779-of-the-market-share-by-2025.md",
       "title": "Artificial Intelligence in Retail Market Size 2025: The e-commerce segment captured 77.9% of the market share by 2025",
       "excerpt": "According to The Insight Partners' research, the global artificial intelligence in the retail market accounted for US$ 712.6 million in 2016 and is expected to grow at a CAGR of 51.2% during the forecast period of 2017-2025 to account for US$ 27,",
@@ -901,194 +1126,6 @@
       "provider": {
         "name": "Tom's Guide",
         "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-driverless-vehicle-maker-aurrigo-to-float.md",
-      "title": "Driverless vehicle maker Aurrigo to float",
-      "excerpt": "A maker of driverless vehicles that could solve delays at airports is to list on Aim on Thursday, braving a stock market where there has been a dearth of company floats. Coventry-based Aurrigo ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/article/driverless-vehicle-maker-aurrigo-to-float-pxshf9fk7",
-      "originalUrl": "https://www.thetimes.co.uk/article/driverless-vehicle-maker-aurrigo-to-float-pxshf9fk7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-11T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-11-driverless-food-delivery-nuro-teams-up-with-uber-eats-to-deploy-autonomous-vehicles-in-mountain-view.md",
-      "title": "Driverless food delivery: Nuro teams up with Uber Eats to deploy autonomous vehicles in Mountain View",
-      "excerpt": "Mountain View-based Nuro and Uber are embarking on a new multiyear partnership to use Nuro's autonomous, electric vehicles for food deliveries in the United States, the companies announced ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.paloaltoonline.com/news/2022/09/11/driverless-food-delivery-nuro-teams-up-with-uber-eats-to-deploy-autonomous-vehicles-in-mountain-view",
-      "originalUrl": "https://www.paloaltoonline.com/news/2022/09/11/driverless-food-delivery-nuro-teams-up-with-uber-eats-to-deploy-autonomous-vehicles-in-mountain-view",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-11T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Palo Alto Weekly",
-        "domain": "paloaltoonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-11-artificial-neural-network-market-research-by-global-size-share-growth-technological-innovation-current-trends-opportunities-and-challenges.md",
-      "title": "Artificial Neural Network Market Research By Global Size, Share, Growth, Technological Innovation, Current Trends, Opportunities And Challenges",
-      "excerpt": "An artificial neural network resembles the function and structure of the human’s brain neuron system which facilitates improved analytical output. Artificial neural network finds application in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2019/09/artificial-neural-network-market-research-by-global-size-share-growth-technological-innovation-current-trends-opportunities-and-challenges.html",
-      "originalUrl": "https://www.medgadget.com/2019/09/artificial-neural-network-market-research-by-global-size-share-growth-technological-innovation-current-trends-opportunities-and-challenges.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-11-meta-is-building-ai-that-reads-brainwaves-the-reality-so-far-is-messy.md",
-      "title": "Meta Is Building AI That Reads Brainwaves. The Reality, So Far, Is Messy",
-      "excerpt": "Researchers at Meta, the parent company of Facebook, are working on a new way to understand what’s happening in people’s minds. On August 31, the company announced that research scientists in ...",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6210261/meta-ai-brains-speech/",
-      "originalUrl": "https://time.com/6210261/meta-ai-brains-speech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-10T12:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-10-meta-developing-artificial-intelligence-that-can-hear-brainwaves.md",
-      "title": "Meta developing artificial intelligence that can 'hear' brainwaves",
-      "excerpt": "While Meta's research is in the early stages, the company is funding research into artificial intelligence to help people with brain injuries communicate by recording their brain activity without ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonexaminer.com/news/meta-brainwaves-hearing-artificial-intelligence",
-      "originalUrl": "https://www.washingtonexaminer.com/news/meta-brainwaves-hearing-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediadc.brightspotcdn.com/dims4/default/16b88ad/2147483647/strip/true/crop/2290x1202+0+62/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fcf%2F2e%2Fe7108d0f4f608cc5529ae7adeab2%2Fai.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-10T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Examiner",
-        "domain": "washingtonexaminer.com",
         "images": null,
         "publishers": null,
         "authors": null

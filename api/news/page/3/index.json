@@ -2,6 +2,257 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-16-diet-could-play-a-role-in-cognitive-function-across-diverse-races-and-ethnicities.md",
+      "title": "Diet could play a role in cognitive function across diverse races and ethnicities",
+      "excerpt": "Dietary choices and their consequences may certainly influence cognitive function. A new study led by investigators at Brigham and Women's Hospital, a founding member of the Mass General Brigham ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/diet-could-play-a-role.jpg",
+          "width": 1280,
+          "height": 703,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.amp",
+      "publishedDateTime": "2022-09-16T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-xpo-logistics-ceo-on-ai-jump-in.md",
+      "title": "XPO Logistics CEO on AI: \"Jump in\"",
+      "excerpt": "CEO Brad Jacobs says AI is \"the biggest thing going on in the business world\"",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/videos/watch/XPO-Logistics-CEO-on-AI-Jump-in/8512c21c-670c-43c4-8425-219e73977f1f",
+      "originalUrl": "https://fortune.com/videos/watch/XPO-Logistics-CEO-on-AI-Jump-in/8512c21c-670c-43c4-8425-219e73977f1f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2byebo1j9i40c.cloudfront.net/8512c21c-670c-43c4-8425-219e73977f1f/Images/posterImage-ver1-1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/videos/watch/xpo-logistics-ceo-on-ai%3A-%22jump-in%22/8512c21c-670c-43c4-8425-219e73977f1f/amp",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/xpo-logistics-ceo-on-ai%3A-%22jump-in%22/8512c21c-670c-43c4-8425-219e73977f1f/amp",
+      "publishedDateTime": "2022-09-16T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-top-5-tech-trends-we-should-all-know-ahead-of-tesla-ai-day.md",
+      "title": "Top 5 Tech Trends We Should All Know Ahead Of Tesla AI Day",
+      "excerpt": "Tesla’s AI Day is on the horizon. Here are some of the top trends emerging in the field of artificial intelligence that you should know about before the big event later this month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/09/16/top-5-tech-trends-we-should-all-know-ahead-of-tesla-ai-day/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/09/16/top-5-tech-trends-we-should-all-know-ahead-of-tesla-ai-day/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6324946af1e93a0874b00cbb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 890,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/09/16/top-5-tech-trends-we-should-all-know-ahead-of-tesla-ai-day/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/09/16/top-5-tech-trends-we-should-all-know-ahead-of-tesla-ai-day/amp/",
+      "publishedDateTime": "2022-09-16T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-read-webpages-and-highlight-content-using-amazon-polly.md",
+      "title": "Read webpages and highlight content using Amazon Polly",
+      "excerpt": "In this post, we demonstrate how to use Amazon Polly—a leading cloud service that converts text into lifelike speech—to read the content of a webpage and highlight the content as it’s being read. Adding audio playback to a webpage improves the accessibility and visitor experience of the page. Audio-enhanced",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/read-webpages-and-highlight-content-using-amazon-polly/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/read-webpages-and-highlight-content-using-amazon-polly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/31/image001-8-917x630.png",
+          "width": 917,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-16T08:23:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-how-to-use-ai-to-maximize-your-inflation-relief-payments.md",
+      "title": "How To Use AI To Maximize Your Inflation Relief Payments",
+      "excerpt": "Over a dozen states have or will send inflation relief payments to citizens to lessen the burden of inflation. Here's how to use that money.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/09/16/how-to-use-ai-to-maximize-your-inflation-relief-payments/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/09/16/how-to-use-ai-to-maximize-your-inflation-relief-payments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6324907cc8e44a5738b00cbd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 753,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/09/16/how-to-use-ai-to-maximize-your-inflation-relief-payments/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/09/16/how-to-use-ai-to-maximize-your-inflation-relief-payments/amp/",
+      "publishedDateTime": "2022-09-16T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-16-my-tesla-full-self-driving-beta-1069-first-drive-was-a-fail.md",
       "title": "My Tesla Full Self-Driving Beta 10.69 first drive was a fail",
       "excerpt": "I went on my first test drive of Tesla Full Self-Driving Beta 10.69.2, the latest big FSD software update, and unfortunately, it was a fail.",
@@ -915,266 +1166,6 @@
         "name": "The Victoria Advocate",
         "domain": "victoriaadvocate.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals.md",
-      "title": "Our commitment on using AI to accelerate progress on global development goals",
-      "excerpt": "I joined Google earlier this year to lead a new function: Technology &amp; Society. Our aim is to help connect research, people and ideas across Google to shape the future of our technology innovations and their impact on society for the better. A key area of focus is AI, a field I have studied and immersed",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/google-org/our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals/",
-      "originalUrl": "https://blog.google/outreach-initiatives/google-org/our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog.Google_image2096_x_1182_01.max-1300x1300.png",
-          "width": 1300,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals/amp/",
-      "publishedDateTime": "2022-09-15T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-rephraseai-lands-fresh-investment-to-grow-its-synthetic-media-platform.md",
-      "title": "Rephrase.ai lands fresh investment to grow its synthetic media platform",
-      "excerpt": "Rephrase.ai, a company developing a platform to create synthetic media, including personalized video ads, has raised over $10 million in a Series A venture round.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/15/rephrase-ai-lands-fresh-investment-to-grow-its-synthetic-media-platform/",
-      "originalUrl": "https://techcrunch.com/2022/09/15/rephrase-ai-lands-fresh-investment-to-grow-its-synthetic-media-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Nice-A1-Key-Alt-4.jpeg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/15/rephrase-ai-lands-fresh-investment-to-grow-its-synthetic-media-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/15/rephrase-ai-lands-fresh-investment-to-grow-its-synthetic-media-platform/amp/",
-      "publishedDateTime": "2022-09-15T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-tomahawk-robotics-awarded-65m-contract-with-united-states-marine-corps.md",
-      "title": "Tomahawk Robotics Awarded $6.5M Contract with United States Marine Corps",
-      "excerpt": "Tomahawk Robotics is thrilled to announce the award of the Autonomy and Robotics Enhanced Multi-Domain Infantry Squad (ARTEMIS) program through the Marine Corps Warfighting Laboratory (MCWL). The $6.5M award spans activities and deliveries scheduled from 2022 through 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-awarded-6-5m-contract-with-united-states-marine-corps-1031746080",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-awarded-6-5m-contract-with-united-states-marine-corps-1031746080",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1899890/Tomahawk_Robotics_Raid_Plate_System.jpg",
-          "width": 300,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-ai-act-what-does-general-purpose-ai-gpai-even-mean.md",
-      "title": "AI Act: What does general purpose AI (GPAI) even mean?",
-      "excerpt": "In a discussion about the EU's AI Act this week, panelists discussed the difficulty of defining GPAI and other new AI technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/",
-      "originalUrl": "https://venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/eu-elections-parliament-e1663194279910.jpg?fit=800%2C496&strip=all",
-          "width": 800,
-          "height": 496,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/amp/",
-      "publishedDateTime": "2022-09-15T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-artificial-intelligence-can-bring-real-solutions-to-the-power-grid-crisis.md",
-      "title": "Artificial Intelligence Can Bring Real Solutions To The Power Grid Crisis",
-      "excerpt": "The state utility registered a one-day summertime record for electricity usage, peaking at 21,086 megawatt-hours of electricity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sk/2022/09/15/artificial-intelligence-can-bring-real-solutions-to-the-power-grid-crisis/",
-      "originalUrl": "https://www.forbes.com/sites/sk/2022/09/15/artificial-intelligence-can-bring-real-solutions-to-the-power-grid-crisis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/631a5150de0822c428d70388/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sk/2022/09/15/artificial-intelligence-can-bring-real-solutions-to-the-power-grid-crisis/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sk/2022/09/15/artificial-intelligence-can-bring-real-solutions-to-the-power-grid-crisis/amp/",
-      "publishedDateTime": "2022-09-15T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

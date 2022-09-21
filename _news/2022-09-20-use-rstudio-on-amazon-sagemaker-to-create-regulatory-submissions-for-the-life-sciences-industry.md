@@ -43,20 +43,6 @@ related:
         width: 1552
         height: 773
         isCached: true
-  - title: "Amazon SageMaker Automatic Model Tuning now provides up to three times faster hyperparameter tuning with Hyperband"
-    excerpt: "Amazon SageMaker Automatic Model Tuning introduces Hyperband, a multi-fidelity technique to tune hyperparameters as a faster and more efficient way to find an optimal model. In this post, we show how automatic model tuning with Hyperband can provide faster hyperparameter tuning—up to three times as fast."
-    publishedDateTime: 2022-09-16T16:42:30Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-automatic-model-tuning-now-provides-up-to-three-times-faster-hyperparameter-tuning-with-hyperband/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 67
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/15/Featured-images-for-ML-11474.jpg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Configure a custom Amazon S3 query output location and data retention policy for Amazon Athena data sources in Amazon SageMaker Data Wrangler"
     excerpt: "Amazon SageMaker Data Wrangler reduces the time that it takes to aggregate and prepare data for machine learning (ML) from weeks to minutes in Amazon SageMaker Studio, the first fully integrated development environment (IDE) for ML. With Data Wrangler, you can simplify the process of data preparation"
     publishedDateTime: 2022-09-20T22:41:25Z
@@ -71,15 +57,6 @@ related:
         width: 1550
         height: 772
         isCached: true
-  - title: "Amazon SageMaker Provides New Built-in TensorFlow Image Classification Algorithms"
-    excerpt: "The Amazon SageMaker TensorFlow image classification algorithm is a supervised learning algorithm that supports transfer learning with many pretrained models from the TensorFlow Hub. The image ..."
-    publishedDateTime: 2022-09-16T16:27:00Z
-    webUrl: "https://www.infoq.com/news/2022/09/sagemaker-tensorflow-image/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 48
 
 secured: "bTGxzmz6POJx/Gijo/B09Su6pMESiIJ6P6KAdp6UWl59dJ7UAbMty/mNqFIHoHB4X15Oj0TsSlYVZEj/AKM+fCvaWZySp4O0qLgeIlk3OmC86hOxSPt4agoFcEAQVTFfRNR5LgmTBBlrMaY6xfyd1ZHXPuyuR2f4E2rimSG8kXbvp/CzMdPSpLgSf/890aX28tOtBF3hZaaCx+e0ixdH/vpOBtCt1SOj5/bXCHBkkaKFNteUCFw2ALP43eECly11k59TdkmsaJKftMEqNXs1XCep9ftQG7sQVnBDfs1q8j6KlEsgZq0SpScA7fHq5bs4ed2ljPqB/NP76Qr2ps4qfCgL9v9pxL7/u7g9ngj8JlA=;ml5Wqahf7Ml5xn4n1CmTCg=="
 ---

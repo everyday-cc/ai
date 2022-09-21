@@ -2,6 +2,266 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-15-our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals.md",
+      "title": "Our commitment on using AI to accelerate progress on global development goals",
+      "excerpt": "I joined Google earlier this year to lead a new function: Technology &amp; Society. Our aim is to help connect research, people and ideas across Google to shape the future of our technology innovations and their impact on society for the better. A key area of focus is AI, a field I have studied and immersed",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/google-org/our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals/",
+      "originalUrl": "https://blog.google/outreach-initiatives/google-org/our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog.Google_image2096_x_1182_01.max-1300x1300.png",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals/amp/",
+      "publishedDateTime": "2022-09-15T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-rephraseai-lands-fresh-investment-to-grow-its-synthetic-media-platform.md",
+      "title": "Rephrase.ai lands fresh investment to grow its synthetic media platform",
+      "excerpt": "Rephrase.ai, a company developing a platform to create synthetic media, including personalized video ads, has raised over $10 million in a Series A venture round.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/15/rephrase-ai-lands-fresh-investment-to-grow-its-synthetic-media-platform/",
+      "originalUrl": "https://techcrunch.com/2022/09/15/rephrase-ai-lands-fresh-investment-to-grow-its-synthetic-media-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Nice-A1-Key-Alt-4.jpeg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/15/rephrase-ai-lands-fresh-investment-to-grow-its-synthetic-media-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/15/rephrase-ai-lands-fresh-investment-to-grow-its-synthetic-media-platform/amp/",
+      "publishedDateTime": "2022-09-15T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-tomahawk-robotics-awarded-65m-contract-with-united-states-marine-corps.md",
+      "title": "Tomahawk Robotics Awarded $6.5M Contract with United States Marine Corps",
+      "excerpt": "Tomahawk Robotics is thrilled to announce the award of the Autonomy and Robotics Enhanced Multi-Domain Infantry Squad (ARTEMIS) program through the Marine Corps Warfighting Laboratory (MCWL). The $6.5M award spans activities and deliveries scheduled from 2022 through 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-awarded-6-5m-contract-with-united-states-marine-corps-1031746080",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-awarded-6-5m-contract-with-united-states-marine-corps-1031746080",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1899890/Tomahawk_Robotics_Raid_Plate_System.jpg",
+          "width": 300,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-ai-act-what-does-general-purpose-ai-gpai-even-mean.md",
+      "title": "AI Act: What does general purpose AI (GPAI) even mean?",
+      "excerpt": "In a discussion about the EU's AI Act this week, panelists discussed the difficulty of defining GPAI and other new AI technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/",
+      "originalUrl": "https://venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/eu-elections-parliament-e1663194279910.jpg?fit=800%2C496&strip=all",
+          "width": 800,
+          "height": 496,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/amp/",
+      "publishedDateTime": "2022-09-15T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-artificial-intelligence-can-bring-real-solutions-to-the-power-grid-crisis.md",
+      "title": "Artificial Intelligence Can Bring Real Solutions To The Power Grid Crisis",
+      "excerpt": "The state utility registered a one-day summertime record for electricity usage, peaking at 21,086 megawatt-hours of electricity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sk/2022/09/15/artificial-intelligence-can-bring-real-solutions-to-the-power-grid-crisis/",
+      "originalUrl": "https://www.forbes.com/sites/sk/2022/09/15/artificial-intelligence-can-bring-real-solutions-to-the-power-grid-crisis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/631a5150de0822c428d70388/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sk/2022/09/15/artificial-intelligence-can-bring-real-solutions-to-the-power-grid-crisis/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sk/2022/09/15/artificial-intelligence-can-bring-real-solutions-to-the-power-grid-crisis/amp/",
+      "publishedDateTime": "2022-09-15T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-15-artificial-intelligence-chip-market-size-2022-2027-share-trends-analysis-and-forecast.md",
       "title": "Artificial Intelligence Chip Market Size 2022-2027, Share, Trends, Analysis and Forecast",
       "excerpt": "The latest research study \" Artificial Intelligence Chip Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027 \" by IMARC Group, finds that the global artificial intelligence chip market size reached a value of US$ 9.",
@@ -925,203 +1185,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-study-indicates-a-daily-multivitamin-slows-cognitive-decline.md",
-      "title": "Study indicates a daily multivitamin slows cognitive decline",
-      "excerpt": "Findings recently published in the Alzheimer’s & Dementia: The Journal of the Alzheimer’s Association found that a daily multivitamin could improve cognitive function and physical health for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcpo.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline",
-      "originalUrl": "https://www.wcpo.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCPO Cincinnati",
-        "domain": "wcpo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-svkms-nmims-bengaluru-campus-opens-nmat-registration-for-admissions-in-mba-core-program-for-the-ay-2023-25.md",
-      "title": "SVKM's NMIMS Bengaluru Campus opens NMAT registration for admissions in MBA Core Program for the AY 2023-25",
-      "excerpt": "BIE (Bachelor of Industrial Engineering), machine learning, financial services and many more, both modern and traditional forms of electives. Faculty have impeccable credentials both coming from ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1275396&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1275396&cat=PR News Wire",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T11:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-nike-sneaker-cleaning-robot-looks-like-a-car-wash-for-shoes.md",
-      "title": "Nike Sneaker-Cleaning Robot Looks Like a Car Wash for Shoes",
-      "excerpt": "At first glance, Big BILL looks like the ultimate Rube Goldberg machine (a contraption intentionally designed to complicate a simple task). Nike, however, insists BILL not only cleans shoes, but deep cleans and fixes them,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/culture/fashion/nike-sneaker-cleaning-robot-looks-like-a-car-wash-for-shoes/",
-      "originalUrl": "https://www.cnet.com/culture/fashion/nike-sneaker-cleaning-robot-looks-like-a-car-wash-for-shoes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/8919002038ce59db805af029082728dec9276515/2022/09/13/c78420d1-c75d-46be-a0b3-ab6d56f5b794/bill2-1.jpg?auto=webp",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/nike-sneaker-cleaning-robot-looks-like-a-car-wash-for-shoes/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nike-sneaker-cleaning-robot-looks-like-a-car-wash-for-shoes/",
-      "publishedDateTime": "2022-09-14T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-video-ai-startup-awiros-raises-7-million-in-series-a-funding.md",
-      "title": "Video AI startup Awiros raises $7 million in Series A funding",
-      "excerpt": "The startup offers a marketplace of video AI called Apps, that aims to help customers discover and adopt technology solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/business/startups/news/video-ai-startup-awiros-raises-7-million-in-series-a-funding/articleshow/94199580.cms",
-      "originalUrl": "https://www.businessinsider.in/business/startups/news/video-ai-startup-awiros-raises-7-million-in-series-a-funding/articleshow/94199580.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-zendesk-launches-new-customer-sentiment-and-intent-functionality-powered-by-machine-learning.md",
-      "title": "Zendesk Launches New Customer Sentiment and Intent Functionality Powered by Machine Learning",
-      "excerpt": "(NYSE: ZEN) today announced Intelligent Triage and Smart Assist, new AI solutions empowering businesses to triage customer support requests automatically and access valuable data at scale. By democratizing access to these solutions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/zendesk-launches-new-customer-sentiment-and-intent-functionality-powered-by-machine-learning/article_4d1caeba-943f-5ad7-bc4b-b2cab9720fb2.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/zendesk-launches-new-customer-sentiment-and-intent-functionality-powered-by-machine-learning/article_4d1caeba-943f-5ad7-bc4b-b2cab9720fb2.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg",
-          "width": 350,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

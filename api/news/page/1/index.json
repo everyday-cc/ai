@@ -2,6 +2,153 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-21-unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority.md",
+      "title": "UNESCO urges government to consider ethics of AI in education as an absolute priority",
+      "excerpt": "The report analysed that the AI market in India has the potential to touch INR 780 crores by 2025 at a compound annual growth rate (CAGR) of 20.2% A report by the United Nations Educational, Scientific and Cultural Organisation (UNESCO) launched in Delhi on Tuesday encouraged an overall regulatory framework for use of artificial intelligence (AI) tools in education.",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/edugraph/news/unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority/cid/1887943",
+      "originalUrl": "https://www.telegraphindia.com/edugraph/news/unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority/cid/1887943",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telegraphindia.com/telegraph/2022/Sep/1663753381_unesco.png",
+          "width": 2560,
+          "height": 1907,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraphindia.com/amp/edugraph/news/unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority/cid/1887943",
+      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/news/unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority/cid/1887943",
+      "publishedDateTime": "2022-09-21T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-new-yorks-landmark-ai-bias-law-prompts-uncertainty.md",
+      "title": "New York’s Landmark AI Bias Law Prompts Uncertainty",
+      "excerpt": "Businesses and their service providers are grappling with how to comply with New York City’s mandate for audits of artificial intelligence systems used in hiring.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/new-yorks-landmark-ai-bias-law-prompts-uncertainty-11663752602",
+      "originalUrl": "https://www.wsj.com/articles/new-yorks-landmark-ai-bias-law-prompts-uncertainty-11663752602",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-627364/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/new-yorks-landmark-ai-bias-law-prompts-uncertainty-11663752602",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-yorks-landmark-ai-bias-law-prompts-uncertainty-11663752602",
+      "publishedDateTime": "2022-09-21T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-after-yang-review-what-to-do-when-your-ai-robot-child-goes-wrong.md",
+      "title": "After Yang review – what to do when your AI robot child goes wrong?",
+      "excerpt": "Kogonada’s enigmatic sci-fi drama channels Charlie Kaufman and Philip K Dick as Colin Farrell and Jodie Turner Smith try to fix the faulty AI bot they bought for their adopted daughter",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/film/2022/sep/21/after-yang-review-what-to-do-when-your-ai-robot-child-goes-wrong",
+      "originalUrl": "https://www.theguardian.com/film/2022/sep/21/after-yang-review-what-to-do-when-your-ai-robot-child-goes-wrong",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/9ed31e2d29800d0188e707bd59677a0dcbb1573d/188_146_1086_652/master/1086.jpg?width=620&quality=85&auto=format&fit=max&s=823fb882f191c3d9f046cb4ec7c686b9",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/film/2022/sep/21/after-yang-review-what-to-do-when-your-ai-robot-child-goes-wrong",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2022/sep/21/after-yang-review-what-to-do-when-your-ai-robot-child-goes-wrong",
+      "publishedDateTime": "2022-09-21T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-09-21-boulder-county-using-artificial-intelligence-to-spot-wildfires.md",
       "title": "Boulder County using artificial intelligence to spot wildfires",
       "excerpt": "Boulder County brought two new wildfire lookout cameras online Tuesday. They will use AI to detect wildfire smoke.",
@@ -522,7 +669,7 @@
       "originalUrl": "https://www.technologyreview.com/2022/09/20/1059792/the-algorithm-ai-generated-art-raises-tricky-questions-about-ethics-copyright-and-security/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -1103,144 +1250,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-editorial-even-robots-need-ethics-training.md",
-      "title": "Editorial: Even robots need ethics training",
-      "excerpt": "\"Bias must be eliminated from the data used in AI algorithms, beginning with a more representative group of artificial intelligence developers. Either artificial intelligence algorithms need to have corrective measures or the solutions to our growing world just got a lot more complicated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailytarheel.com/article/2022/09/opinion-ethics-and-diversity-in-ai-technology",
-      "originalUrl": "https://www.dailytarheel.com/article/2022/09/opinion-ethics-and-diversity-in-ai-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://snworksceo.imgix.net/dth/bd7f831e-3cb4-41b7-8819-91e143cc2931.sized-1000x1000.jpg?w=800&h=600",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T17:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Tar Heel",
-        "domain": "dailytarheel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-ai-enabled-laughing-robots-are-no-joke.md",
-      "title": "AI-Enabled Laughing Robots are No Joke",
-      "excerpt": "We propose that our system can be used for situated robot interaction and also emphasize the need for integrating proper empathetic laughs into conversational robots and agents",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202209/ai-enabled-laughing-robots-are-no-joke",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202209/ai-enabled-laughing-robots-are-no-joke",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-09/pic0921111.gif.jpg?itok=QnCgHwxS",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202209/ai-enabled-laughing-robots-are-no-joke?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202209/ai-enabled-laughing-robots-are-no-joke?amp",
-      "publishedDateTime": "2022-09-19T15:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-ai-software-helps-bust-image-fraud-in-academic-papers.md",
-      "title": "AI software helps bust image fraud in academic papers",
-      "excerpt": "Scientific publishers such as the American Association for Cancer Research (AACR) and Taylor & Francis have begun attempting to detect fraud in academic paper submissions with an AI image-checking program called Proofig,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/09/academic-journals-begin-using-ai-to-detect-image-duplication-fraud/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/09/academic-journals-begin-using-ai-to-detect-image-duplication-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/western_blot_3-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

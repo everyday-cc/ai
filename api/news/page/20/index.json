@@ -2,6 +2,229 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2022-09-01-voting-open-who-should-be-the-2022-most-influential-woman-in-uk-tech.md",
+      "title": "Voting open: Who should be the 2022 Most Influential Woman in UK Tech?",
+      "excerpt": "Each year, we ask our audience who should be named the most influential woman in UK technology. Tell us what you think.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252524478/Voting-open-Who-should-be-the-2022-Most-Influential-Woman-in-UK-Tech",
+      "originalUrl": "https://www.computerweekly.com/news/252524478/Voting-open-Who-should-be-the-2022-Most-Influential-Woman-in-UK-Tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252524478/Voting-open-Who-should-be-the-2022-Most-Influential-Woman-in-UK-Tech?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252524478/Voting-open-Who-should-be-the-2022-Most-Influential-Woman-in-UK-Tech?amp=1",
+      "publishedDateTime": "2022-09-01T00:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-ai-in-fintech-market-will-reach-more-than-61-billion-by-2031.md",
+      "title": "AI In Fintech Market Will Reach More Than $61 Billion, By 2031",
+      "excerpt": "Artificial Intelligence has been growing its influence in Fintech, and is projected to hit $61 billion in under 10 years. We tell you how.",
+      "sourceUrl": null,
+      "webUrl": "https://www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/",
+      "originalUrl": "https://www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.investingcube.com/wp-content/uploads/2022/06/Crypto-wallet.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/amp/",
+      "cdnAmpWebUrl": "https://www-investingcube-com.cdn.ampproject.org/c/s/www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/amp/",
+      "publishedDateTime": "2022-09-01T00:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestingCube",
+        "domain": "investingcube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-blockchain-ai-and-the-metaverse-tools-for-better-decision-making.md",
+      "title": "Blockchain, AI, and the metaverse — tools for better decision-making?",
+      "excerpt": "When it comes to working together, people need help — whether they're in a conference room or in the metaverse. Could technology such as blockchain and AI make a difference?",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3672428/blockchain-ai-and-the-metaverse-tools-for-better-decision-making.html",
+      "originalUrl": "https://www.computerworld.com/article/3672428/blockchain-ai-and-the-metaverse-tools-for-better-decision-making.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/11/22/busines_communication_network_partnership_collaboration_teams_hiring_by_metamorworks_gettyimages-1159740443_2400x1600-100852686-large-100921745-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3672428/blockchain-ai-and-the-metaverse-tools-for-better-decision-making.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3672428/blockchain-ai-and-the-metaverse-tools-for-better-decision-making.amp.html",
+      "publishedDateTime": "2022-09-01T00:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-i-pitched-my-ridiculous-startup-idea-to-a-robot-vc.md",
+      "title": "I pitched my ridiculous startup idea to a robot VC",
+      "excerpt": "It was the pitch for my new startup, a company that promised to deliver ... specific VC expertise and advice by way of the powerful AI language model GPT-3. Originally released by OpenAI in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/pitched-startup-to-robot-vc/",
+      "originalUrl": "https://www.digitaltrends.com/computing/pitched-startup-to-robot-vc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/08/WaterDrone.png?p=1",
+          "width": 1456,
+          "height": 1002,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/pitched-startup-to-robot-vc/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/pitched-startup-to-robot-vc/?amp",
+      "publishedDateTime": "2022-08-31T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "digitaltrends.com",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-how-ai-is-helping-anonymize-clinical-trial-submissions.md",
+      "title": "How AI Is Helping Anonymize Clinical Trial Submissions",
+      "excerpt": "Anonymization of clinical trial submissions is tricky and risks regulatory penalties. Here’s how AI can help protect patient data privacy while ensuring transparency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ganeskesari/2022/08/31/how-ai-is-helping-anonymize-clinical-trial-submissions/",
+      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2022/08/31/how-ai-is-helping-anonymize-clinical-trial-submissions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63102c3817aeb905d3213ebc/0x0.jpg?format=jpg&crop=2550,1435,x0,y131,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2022/08/31/how-ai-is-helping-anonymize-clinical-trial-submissions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2022/08/31/how-ai-is-helping-anonymize-clinical-trial-submissions/amp/",
+      "publishedDateTime": "2022-08-31T20:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-intel-ai-chief-wei-li-someone-has-to-bring-todays-ai-supercomputing-to-the-masses.md",
       "title": "Intel AI chief Wei Li: Someone has to bring today's AI supercomputing to the masses",
       "excerpt": "Software is key to broadening the reach of AI, and much of it goes back to decades-old approaches in compiler technology.",
@@ -880,230 +1103,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-a-look-back-at-gartners-data-and-analytics-summit-2022.md",
-      "title": "A Look Back at Gartner's Data and Analytics Summit 2022",
-      "excerpt": "Data and analytics are the lifeblood of modern companies and, like so many other things tech-based, they are evolving.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/analytics/a-look-back-at-gartners-data-and-analytics-summit-2022/",
-      "originalUrl": "https://www.cmswire.com/analytics/a-look-back-at-gartners-data-and-analytics-summit-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-cerebras-systems-enables-gpu-impossible-long-sequence-lengths-improving-accuracy-in-natural-language-processing-models.md",
-      "title": "Cerebras Systems Enables GPU-Impossible™ Long Sequence Lengths Improving Accuracy in Natural Language Processing Models",
-      "excerpt": "This type of GPU infrastructure requires specialized expertise and valuable ... We have come together to build a new class of computer system, designed for the singular purpose of accelerating AI and changing the future of AI work forever.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cerebras-systems-enables-gpu-impossibletm-long-sequence-lengths-improving-accuracy-in-natural-language-processing-models-2022-08-31",
-      "originalUrl": "https://www.marketwatch.com/press-release/cerebras-systems-enables-gpu-impossibletm-long-sequence-lengths-improving-accuracy-in-natural-language-processing-models-2022-08-31",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-expertai-launches-turn-language-into-action-a-natural-language-hackathon-for-good.md",
-      "title": "Expert.ai Launches \"Turn Language into Action\" a Natural Language Hackathon for Good",
-      "excerpt": "Expert.ai Launches \"Turn Language into Action\" a Natural Language Hackathon for Good Aug (PRNewswire via COMTEX) -- PR Newswire BOSTON, Aug.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/expertai-launches-turn-language-into-action-a-natural-language-hackathon-for-good-2022-08-31",
-      "originalUrl": "https://www.marketwatch.com/press-release/expertai-launches-turn-language-into-action-a-natural-language-hackathon-for-good-2022-08-31",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-revolutions-start-with-the-green-data-center.md",
-      "title": "Revolutions Start With The Green Data Center",
-      "excerpt": "Without the right amount of computing power and the proper investment in green data center technologies to achieve both greater power and efficiency, we won’t be able to harness the intelligence required.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/08/31/revolutions-start-with-the-green-data-center/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/08/31/revolutions-start-with-the-green-data-center/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/630e245943306ea78a04b7de/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/08/31/revolutions-start-with-the-green-data-center/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/08/31/revolutions-start-with-the-green-data-center/amp/",
-      "publishedDateTime": "2022-08-31T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-how-france-is-preparing-for-a-future-of-driverless-vehicles.md",
-      "title": "How France is preparing for a future of driverless vehicles",
-      "excerpt": "The update to the French legal framework will be important for future driverless cars, though. In case of an accident, if the autonomous driving system of the car is activated, the “driver ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thelocal.fr/20220831/how-france-is-preparing-for-a-future-of-driverless-vehicles/",
-      "originalUrl": "https://www.thelocal.fr/20220831/how-france-is-preparing-for-a-future-of-driverless-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Local",
-        "domain": "thelocal.fr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

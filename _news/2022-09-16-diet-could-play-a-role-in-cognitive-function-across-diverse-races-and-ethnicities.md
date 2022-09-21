@@ -8,9 +8,6 @@ webUrl: "https://medicalxpress.com/news/2022-09-diet-role-cognitive-function-div
 ampWebUrl: "https://medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.amp"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: Medical Xpress
@@ -26,6 +23,6 @@ images:
     height: 703
     isCached: true
 
-secured: "Nr1FageLi8DOdJbaPjld0I6yT+yvh5QSfXBczpn9fvfh35gtWQqzGF2ku/t23wHB+4FknLalZ/zVTceawXTDtja9O0yj36e5T/zkdK01GdzAkvGoYZ+52XFoml5SWQQNYDHyGWV4jewrU1+TxYbqRSrv+qt0gywAUmskIyXkQKSi5/d05QG33SeHh1CYAZJ/yVMwRNOvNNrQ8HDSJj/8muF9LSOWZBA5dVRbTYGD5lP7zmakq6aDrxkArm++vOkPTltDQ5FRrr5iCJ3N7/aFJrtn+otL/zpW4jBgR+dORr8yciiO1a6/fDvCWUJb75SE2hs/wWA6cSKRIcEWs1FC4Mob5CCNoCvpk+Jz2p3HX0g=;htIR1WeEvF2dN05fQ6rf6A=="
+secured: "tMkaZvJUMWMGPfwmxHsSG00B6ZtVCRW9+HHotUFZoOT+p+aV0xmjWQESLYmZNwAnw4P4kXHSbYTDcJJPk4w3fnldinIN5/SgdMExi0zEeQetuV626OUBp4716y3tNg0LTP6RDPxEvk8WtTtli2UjAAXQHvIQNUsSM/ZFK0q7FEOGv0L9siNJD0pS1Id80GeFnbD8SrG3yZrMd5A7quKVMJL1OLK3QSKQR2wncPhbApNP+oKbF3KWHe13CRCrjGI7O8fNQuexbsz8VWEiByrZspsLjzNPqmee2tNts1dsJOjmw7l9/bgRRPUYTvm3JnxIfgoxeu9QchefbgSonjGCSJFdh9TJNZAYPEZLcDaV9W4=;Yj4kW0JJzAFETjNp5Lap5g=="
 ---
 

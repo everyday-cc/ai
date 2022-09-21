@@ -160,6 +160,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-16-diet-could-play-a-role-in-cognitive-function-across-diverse-races-and-ethnicities.md",
+      "title": "Diet could play a role in cognitive function across diverse races and ethnicities",
+      "excerpt": "Dietary choices and their consequences may certainly influence cognitive function. A new study led by investigators at Brigham and Women's Hospital, a founding member of the Mass General Brigham ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/diet-could-play-a-role.jpg",
+          "width": 1280,
+          "height": 703,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.amp",
+      "publishedDateTime": "2022-09-16T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-16-oracle-brings-heatwave-to-aws.md",
       "title": "Oracle Brings HeatWave To AWS",
       "excerpt": "Senior Analyst, Servers, Matt Kimball, dives as MySQL HeatWave is a cloud database service that has enabled Oracle to create differentiation in the open-source MySQL market. MySQL HeatWave is available natively on AWS,",
@@ -1307,49 +1350,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-taiwan-leader-cites-threat-of-chinese-cognitive-warfare.md",
-      "title": "Taiwan leader cites threat of Chinese 'cognitive warfare'",
-      "excerpt": "HENGCHUN, Taiwan -- Taiwanese President Tsai Ing-wen said Tuesday that China is conducting “cognitive warfare” by spreading misinformation in addition to its regular military incursions into ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/International/wireStory/taiwan-leader-cites-threat-chinese-cognitive-warfare-89397850",
-      "originalUrl": "https://abcnews.go.com/International/wireStory/taiwan-leader-cites-threat-chinese-cognitive-warfare-89397850",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/International/WireAP_ac9eecbd8024490a896435952fb165bd_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/taiwan-leader-cites-threat-chinese-cognitive-warfare-89397850",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/taiwan-leader-cites-threat-chinese-cognitive-warfare-89397850",
-      "publishedDateTime": "2022-09-08T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

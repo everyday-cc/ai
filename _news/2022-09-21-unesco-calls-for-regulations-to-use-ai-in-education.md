@@ -26,31 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "How To Use AI To Maximize Your Inflation Relief Payments"
-    excerpt: "Over a dozen states have or will send inflation relief payments to citizens to lessen the burden of inflation. Here's how to use that money."
-    publishedDateTime: 2022-09-16T15:10:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2022/09/16/how-to-use-ai-to-maximize-your-inflation-relief-payments/"
-    ampWebUrl: "https://www.forbes.com/sites/qai/2022/09/16/how-to-use-ai-to-maximize-your-inflation-relief-payments/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/09/16/how-to-use-ai-to-maximize-your-inflation-relief-payments/amp/"
+  - title: "UNESCO urges government to consider ethics of AI in education as an absolute priority"
+    excerpt: "The report analysed that the AI market in India has the potential to touch INR 780 crores by 2025 at a compound annual growth rate (CAGR) of 20.2% A report by the United Nations Educational, Scientific and Cultural Organisation (UNESCO) launched in Delhi on Tuesday encouraged an overall regulatory framework for use of artificial intelligence (AI) tools in education."
+    publishedDateTime: 2022-09-21T09:48:00Z
+    webUrl: "https://www.telegraphindia.com/edugraph/news/unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority/cid/1887943"
+    ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/news/unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority/cid/1887943"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/news/unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority/cid/1887943"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 84
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6324907cc8e44a5738b00cbd/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 753
+      - url: "https://assets.telegraphindia.com/telegraph/2022/Sep/1663753381_unesco.png"
+        width: 2560
+        height: 1907
         isCached: true
-  - title: "EU prepares to give AI rules"
-    excerpt: "Robots expected to demand an oven ready exit plan The European Commission is preparing to make sure that people who suffer from damage due to AI stuff ups will be more likely to win in court. The AI Liability Directive will be published on 28 September,"
-    publishedDateTime: 2022-09-19T09:19:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/55503-eu-prepares-to-give-ai-rules"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 17
 
 secured: "MQyWWGfiSCauaKHhrIBx+c/SHXKveCDM24pKXBa7crzXiXCmr5HGZAt7E60xu5Ik1Iw+oXGSmXg5Wm0aQ+jQTQrpmW18nhwYtS6IXGchmst4Kh5bOM+tt7inPB/njUcZpeetfq0aww+9NHbKFC3vPC3lNmYZDN/29k3U27uhEnmsN8ZWf3FlVHPzozazlsdTy4etYJYzC/41vBcFzh9bqFu9KzUtsksdQTAgg8jsTimL+NY1llIsmUf2HsFT8TRKK6dRHRNR0cTVkwUkp0GTPooG5o2kg2pnTGG/eL5B30yTuRATi1QdrUdT1P80hHcm6tOMgAOw5ecwJkx+J3LHYN1z4jChb4Lk0iZjQGRToCY5ueL5TMEGn89Qldatky5G0R6BUmIQTSpyEsT2oQYRZq3jDSTd/4MRIEgPiL7BWmjs9oLdWGvGIhx4Utoect0HQFHrylDwdraswBtQkEOmDlfFjlSO4H9mEKbEVWHZ4/N4kMfHirMSdk9TINisFGzLabt7Q4M61A4Hf/HfL5hLgQ==;HgdiEGVq01isNv3Y2zJSOg=="
 ---
