@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Case for Resisting Self-Driving Cars"
-    excerpt: "No charge. Last week, NR played host to a lively debate about self-driving cars. It began with Luther Abel rejecting (with limited exceptions) Jordan McGillis’s praise of autonomous vehicles."
-    publishedDateTime: 2022-09-17T22:55:00Z
-    webUrl: "https://www.nationalreview.com/corner/the-case-for-resisting-self-driving-cars/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 24
-    images:
-      - url: "https://www.nationalreview.com/wp-content/uploads/2017/12/autonomous-vehicles-will-spark-government-efforts-ban-driving-uber-1.jpg?fit=2057%2C1200"
-        width: 2057
-        height: 1200
-        isCached: true
 
 secured: "m9ISnvrBhX0GYRvafMPolwKOXlDew8Eg1HyA+KxhZZfqSPnGRl6FDN6Y4fLi4GwFlhKNVvhmpMpO0AWTK4OnG69yxaIbWn03j1yR7xFeD6hmECF7DHm800j8cDwDqtazYS6hOmPDFFW3olPEzQf4/o18Ymd11b58Tk2FOC9rRHDC77/ByuTiViXoTPjOYZjjzo0U14Q0tDSE3wKe4gcxu4eyJsJruRrm4h7HR+Jb5I5ModGRIFaa5yJQsPlDN7EzgQMtgwgKetraLnLmqXgtUoBfKEaK/oXeWDTXYXKncIqg2nxzEntnqlpN0E+k9jJqIju4NBjKBytAxgWQXPTRvB4LS6MQFJezGHK1nYNAdMkq2PmzdjGHgUJW15FKs0yyPoSGC7tDlrGSmnNCEb8bhPTaf+nCNpq1IGHefGT6wGeuVtaAs3D1JIwH25dJ5FPzCt9CJpd/oUXGOZHhDOvMBNAYRIt4AUxjVbbAh0P9Cu0FpQR1IuD4tjUds6Ai/wzAcILRWhk3mCUUyk/bXh/MDQ==;cNLbrZeUvLq8EWLkzxu1Yw=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-22T13:00:00Z
 originalUrl: "https://channelbuzz.ca/2022/09/aws-exceptionally-bullish-on-canadian-partners-potential-39790/"
 webUrl: "https://channelbuzz.ca/2022/09/aws-exceptionally-bullish-on-canadian-partners-potential-39790/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Channel Buzz

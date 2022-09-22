@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-22T10:00:00Z
 originalUrl: "https://techround.co.uk/tech/5-ways-robotics-is-already-implemented-in-our-daily-lives/"
 webUrl: "https://techround.co.uk/tech/5-ways-robotics-is-already-implemented-in-our-daily-lives/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: TechRound

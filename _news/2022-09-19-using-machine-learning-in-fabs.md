@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-19T00:00:00Z
 originalUrl: "https://semiengineering.com/using-machine-learning-in-fabs/"
 webUrl: "https://semiengineering.com/using-machine-learning-in-fabs/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Semiconductor Engineering

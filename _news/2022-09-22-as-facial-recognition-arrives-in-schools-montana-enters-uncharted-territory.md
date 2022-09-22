@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-22T13:15:00Z
 originalUrl: "https://www.mtpr.org/montana-news/2022-09-22/as-facial-recognition-arrives-in-schools-montana-enters-uncharted-territory"
 webUrl: "https://www.mtpr.org/montana-news/2022-09-22/as-facial-recognition-arrives-in-schools-montana-enters-uncharted-territory"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: MTPR

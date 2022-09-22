@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "NHTSA Orders Tesla to Recall 1.1 million Vehicles"
+    excerpt: "The National Highway Traffic Safety Administration ordered Tesla to recall 1.1 million vehicles across the four model lines due to a problem with the automatic reversal system for the vehicles’ windows."
+    publishedDateTime: 2022-09-22T15:21:00Z
+    webUrl: "https://www.thedetroitbureau.com/2022/09/nhtsa-orders-tesla-to-recall-1-1-million-vehicles/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 41
+    images:
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2022/06/Tesla-Model-3.jpg"
+        width: 1600
+        height: 1219
+        isCached: true
   - title: "Tesla Expands “Full Self-Driving” Beta To 160,000 Owners In The U.S. And Canada"
     excerpt: "There are already 100,000 Tesla owners included in the FSD beta program and more than ever will now be granted access to version 10.69.2.2. A plethora of updates has been made to the latest beta version of Tesla’s “Full-Self Driving” system."
     publishedDateTime: 2022-09-21T12:33:00Z

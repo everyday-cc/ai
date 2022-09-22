@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-06-if-you-think-your-preparation-will-help-you-later-you-will-probably-be-right-a-new-study-says.md",
+      "title": "If you think your preparation will help you later, you will probably be right, a new study says",
+      "excerpt": "It just might, according to a new study. People did better on a task relying on their working memory when they underwent cognitive training and learned it would help with their performance ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/09/05/health/positive-expectations-cognitive-training-wellness/index.html",
+      "originalUrl": "https://www.cnn.com/2022/09/05/health/positive-expectations-cognitive-training-wellness/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220902160438-climbing-up-stock-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/09/05/health/positive-expectations-cognitive-training-wellness/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/05/health/positive-expectations-cognitive-training-wellness/index.html",
+      "publishedDateTime": "2022-09-05T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-05-xboxs-matt-booty-asked-microsoft-to-invent-ai-bot-qa-testers-for-games.md",
       "title": "Xbox’s Matt Booty Asked Microsoft To Invent AI Bot QA Testers For Games",
       "excerpt": "‘Help me figure out how to use an AI bot to go test a game.’ “Because I would love to be able to start up 10,000 instances of a game in the cloud, so there’s 10,000 copies of the game running, deploy an AI bot to spend all night testing that ...",
@@ -1265,49 +1317,6 @@
       "provider": {
         "name": "The Goshen News",
         "domain": "goshennews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-28-will-over-the-counter-hearing-aids-help-with-cognitive-impairment.md",
-      "title": "Will over-the-counter hearing aids help with cognitive impairment?",
-      "excerpt": "Many studies show people with hearing loss are more likely to develop cognitive problems than people ... loss will still need the professional services of audiologists and hearing aid specialists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailyherald.com/entlife/20220828/will-over-the-counter-hearing-aids-help-with-cognitive-impairment",
-      "originalUrl": "https://www.dailyherald.com/entlife/20220828/will-over-the-counter-hearing-aids-help-with-cognitive-impairment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailyherald.com/storyimage/DA/20220828/ENTLIFE/220829509/AR/0/AR-220829509.jpg&updated=202208261403&imageversion=Facebook&exactH=630&exactW=1200&exactfit=crop&noborder",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-28T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null

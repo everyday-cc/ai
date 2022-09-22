@@ -1,30 +1,23 @@
 ---
 category: news
 title: "Wallaroo Labs Launches in Azure Marketplace; Announces Air Gap Support for Edge Machine Learning Deployment"
-excerpt: "Wallaroo Labs today announced the availability of Wallaroo Enterprise Edition on Microsoft Azure Marketplace. Wallaroo’s model operations platform for deploying, observing, and managing machine learning in production enables customers to easily operationalize ML Models with our purpose-built inference engine,"
-publishedDateTime: 2022-09-21T12:03:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/wallaroo-labs-launches-in-azure-marketplace-announces-air-gap-support-for-edge-machine-learning-deployment/article_cb133d7e-bafc-500f-bfce-bf1b94fc6b45.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/wallaroo-labs-launches-in-azure-marketplace-announces-air-gap-support-for-edge-machine-learning-deployment/article_cb133d7e-bafc-500f-bfce-bf1b94fc6b45.html"
+excerpt: "Wallaroo Labs today announced the availability of Wallaroo Enterprise Edition on Microsoft Azure Marketplace. Wallaroo's model operations platform for deploying, observing, and managing machine learning in production enables customers to easily operationalize ML Models with our purpose-built inference engine,"
+publishedDateTime: 2022-09-21T13:22:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-wallaroo-labs-launches-azure-marketplace-announces-air-gap-/2022/09/21/9677902.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-wallaroo-labs-launches-azure-marketplace-announces-air-gap-/2022/09/21/9677902.htm"
 type: article
-quality: 55
-heat: 65
+quality: 33
+heat: -1
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Machine Learning
-  - AI
   - Microsoft AI
-  - AI in Finance
-
-images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg"
-    width: 350
-    height: 456
-    isCached: true
+  - AI
+  - Machine Learning
 
 related:
   - title: "Wallaroo Labs Launches in Azure Marketplace, Announces Air Gap Support for Edge ML Deployment"
@@ -37,6 +30,6 @@ related:
       domain: datanami.com
     quality: 40
 
-secured: "X9CdVONOL2S+U2ZqJeipE0Dwte1YXEOcrcmohNkGwEQIBCAJfTiM0vqwLFXpk49iRSgzcuztxrbHQyZ6v7ewTxDeMyP1NyVDwxEfvnCt6LHmGNYT/kzpQDev0mUsF2yuDxz6PG4J/+XwSR8RjD3AMv39D7p9oPQTo/I/En/JigWXojtDPNWXcB/P/+m0MIeMEa7fZb8uP8DdD1jfj8jj2O9V4gtUQwtKZaXOwWXwdcOZ+uet+glealj7Gmjmzn682JoHGzU6QhT4FOF3aki9PCUqekXkPb195xBSE2CAxOlW7RmY2VpULYKXNJ3tfgjMqQb2p9t4JbhY2n1BfDYD32ZeR7yYVYhdjbi1xZ07qmM=;IiSXD0jrd9LMtrOuvJz8SA=="
+secured: "Hg/jIIwgl6bY+UqLQHMqSALMb46SBkbyXxAUUMznG2ggnvg9iUbBgS5OZ7AIJwxN8Psq7wr5JIqNnsylInLpk97SHfy3XW6ZERTgh/7dqew2o31YUW5QPAMugyq3ckAVJjWW7txphHmpIPyOcruaiXSAfwC3SO7rVWoc2ZKa/nlXae4mIG5GuzGIHSE9emxcaCi13sTxsB/PeZawbA/YOVdd2oBfsdc8/IGjl5Tc9lYO94BsIbXSaH51ch8ujmInwRyjUzZ8mgYDVdvBuvgqwDP5KF7Iq6As1wBCeCIeJwiQd5Ftb9F/lGcqIHWbfbsi/IKGBowU1pzM5rFDDU4YDyJ/TJOPeMc1xOudQX8RliQ=;NTCbXZtx2W++jR8Ee2pxIw=="
 ---
 

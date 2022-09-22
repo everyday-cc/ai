@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-22T12:15:00Z
 originalUrl: "https://www.forbes.com/sites/sap/2022/09/22/australian-government-ethical-ai-will-unlock-20t-global-opportunity/"
 webUrl: "https://www.forbes.com/sites/sap/2022/09/22/australian-government-ethical-ai-will-unlock-20t-global-opportunity/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: Forbes

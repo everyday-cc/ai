@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-changing-the-way-students-learn/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -74,6 +74,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "10 Ways AI Is Transforming The Restaurant Industry"
+    excerpt: "The possibilities of AI adoption are endless, and restaurant owners wanting to stay ahead of the game and those wanting to master the market should embrace the benefits of AI."
+    publishedDateTime: 2022-09-22T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/22/10-ways-ai-is-transforming-the-restaurant-industry/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "A game changing power of AI"
     excerpt: "AR glasses by PEGATRON come with an AI algorithm with interactive applications that are specialized for industrial, medical, and commercial use"
     publishedDateTime: 2022-09-19T09:12:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-22T13:41:00Z
 originalUrl: "https://endpts.com/cdmo-makes-an-ai-and-drug-discovery-play-in-latest-small-time-acquisition/"
 webUrl: "https://endpts.com/cdmo-makes-an-ai-and-drug-discovery-play-in-latest-small-time-acquisition/"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: ENDPOINTS NEWS

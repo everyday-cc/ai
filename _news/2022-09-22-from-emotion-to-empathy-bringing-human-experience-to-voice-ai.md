@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-22T13:00:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/22/from-emotion-to-empathy-bringing-human-experience-to-voice-ai/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/22/from-emotion-to-empathy-bringing-human-experience-to-voice-ai/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes

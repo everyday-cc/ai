@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "NHTSA Orders Tesla to Recall 1.1 million Vehicles"
+    excerpt: "The National Highway Traffic Safety Administration ordered Tesla to recall 1.1 million vehicles across the four model lines due to a problem with the automatic reversal system for the vehicles’ windows."
+    publishedDateTime: 2022-09-22T15:21:00Z
+    webUrl: "https://www.thedetroitbureau.com/2022/09/nhtsa-orders-tesla-to-recall-1-1-million-vehicles/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 41
+    images:
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2022/06/Tesla-Model-3.jpg"
+        width: 1600
+        height: 1219
+        isCached: true
 
 secured: "owBlBo2SwVC33K2Ba9zd39ZyWpdQS4KTv/i4eXyumobZDZUxk1vAHtxNT8GlqRFeDzcF0/aosCsRJuWnXJZN4ac6zEoL0a8JTLrUf0DZ9flUJ/uEERb9C7kzkwCJS+J/CgZYr0oqmsg4ENXhPmrEgk1qiTmgc48xZiXgIfmM9u/HNPGAULxZbliact8qThcI4Xq/zQQpoYrjR1eY6skQYR8Tfb1/62BanyEirr4jk/Fm3D9vm7gsewkUHSn7dzcuYr6ytY1/aBxmEsrrEa1q/kM1UdXPERot82qUsyknsaYPvc6y9geQoCI0byHqP12loiazmqS04j039kdiR9e1yjsbsPZWK9bhApR3Hu0IpJO+HtI8toy9tmZz9XVNpteYGyb63ucDbln30QTuIVmIah3xBuAzFec7WizDElOBvDlt1QJI+dv39vAH4xi/uJaUVW2+CZugUwYVs3uSWxb6VQ0XPs4Q0XiY7iIgvK5VuDvhi7abEpQ730X1E1pMXbMbNPPQCQ10y63D+ZfYp1ljRQ==;52t73tQ83PClBH5Vl8amGA=="
 ---

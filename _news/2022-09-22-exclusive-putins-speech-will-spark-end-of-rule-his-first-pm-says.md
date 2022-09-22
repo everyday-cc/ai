@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-22T13:26:00Z
 originalUrl: "https://www.newsweek.com/russia-vladimir-putin-ouster-mobilization-mikhail-kasyanov-1745316"
 webUrl: "https://www.newsweek.com/russia-vladimir-putin-ouster-mobilization-mikhail-kasyanov-1745316"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Newsweek

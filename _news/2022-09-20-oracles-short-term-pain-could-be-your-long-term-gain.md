@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-20T05:45:00Z
 originalUrl: "https://www.entrepreneur.com/finance/oracles-short-term-pain-could-be-your-long-term-gain/435644"
 webUrl: "https://www.entrepreneur.com/finance/oracles-short-term-pain-could-be-your-long-term-gain/435644"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Entrepreneur

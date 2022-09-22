@@ -7,8 +7,8 @@ originalUrl: "https://menafn.com/1104892877/Artificial-Intelligence-Robots-Marke
 webUrl: "https://menafn.com/1104892877/Artificial-Intelligence-Robots-Market-Size-To-Record-213-CAGR-Through-2028"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Mena FN
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mobile Robotics Market Size to Surpass USD 25.3 Billion at a 21.40% CAGR by 2030 - Report by Market Research Future (MRFR)"
+    excerpt: "According to a comprehensive research report by Market Research Future (MRFR), \"Mobile Robotics Market Research Report, by Component, Navigation Type, Application,"
+    publishedDateTime: 2022-09-22T15:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28969105/mobile-robotics-market-size-to-surpass-usd-25-3-billion-at-a-21-40-cagr-by-2030-report-by-market-r"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28969105"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28969105"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 48
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg"
+        width: 700
+        height: 300
+        isCached: true
   - title: "Automatic Identification & Data Capture Market Size to Boost $35 Billion By 2027 | CAGR 12.3% – IndustryARC"
     excerpt: "\"Market Research Reports, Business Consulting Services & Analytics\"Growing Use of Automatic Identification and Data Capture Systems in Variety of End User Industries is Driving the Growth of Automatic"
     publishedDateTime: 2022-09-19T20:35:00Z

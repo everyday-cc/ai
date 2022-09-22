@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/film/2022/sep/21/after-yang-review-what-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2022/sep/21/after-yang-review-what-to-do-when-your-ai-robot-child-goes-wrong"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "After Yang film review — minor-key sci-fi brings AI and race relations down to human scale"
+    excerpt: "Colin Farrell and Jodie Turner-Smith star as a couple who acquire an android to help their adopted Chinese daughter adapt to life in the US"
+    publishedDateTime: 2022-09-22T15:00:00Z
+    webUrl: "https://www.ft.com/content/04815eef-174b-49a6-b2d2-d5f17a7a544d"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 27
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/lifestyle-weekend.jpg"
+        width: 619
+        height: 377
+        isCached: true
 
 secured: "0AEr2MhRLeFZNE1y50icXHLHFrErJpIlpY2Jw4WXw/ZjebXzPPyQkTKQsVoPowDE0YPJsJURGYgF8BROr/GLpctI1YoDgC+ajJqWWCuQIdMReWbGVEt7Kko5UXiaZBhdXfb+yzkm3pqcjAqHWa1q9ip6EtytX1JxnG/CEDqWRX9KgRgiv0X/7HpgMbX8IXITpUc/PUOaeMpAnyGThrENEuE3lXYH4i2w1BA+kV214cbXWtU6MoQN7H1imB+wnapi3cPwkeni/bEBapF/pUQp3wkAxrwLmNYakaLN/JgVbriT/NseGJ6kK2H1vRoJVb1hxMz8sMGCn/cFP7hslL6EEujERpWCbP+iS7r6XO6Th5frWDsufAPlBdIqp8uoo8TDrLOuuU9jLkDlbcFIb/NL07QiBSCGTDRAah/IPsNbQScPrM26Ptgz8KxDUxvgeA78/L1OadtHRTMoqL841V7hbQRxJ/Co74zlXwE5mVS56oc8wibJHH+zDvQJ2hO0L0FwGd4gerKzP1ePIv6GmntoYA==;b36u9LQ/M4ULFeAoY2UyZw=="
 ---

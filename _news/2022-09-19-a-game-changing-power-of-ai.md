@@ -85,6 +85,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "10 Ways AI Is Transforming The Restaurant Industry"
+    excerpt: "The possibilities of AI adoption are endless, and restaurant owners wanting to stay ahead of the game and those wanting to master the market should embrace the benefits of AI."
+    publishedDateTime: 2022-09-22T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/22/10-ways-ai-is-transforming-the-restaurant-industry/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Artificial Intelligence in the Operating Room"
     excerpt: "While the challenges in the healthcare industry are constantly increasing, hospitals adopting new technologies have helped to alleviate some of those struggles"
     publishedDateTime: 2022-09-20T14:46:00Z

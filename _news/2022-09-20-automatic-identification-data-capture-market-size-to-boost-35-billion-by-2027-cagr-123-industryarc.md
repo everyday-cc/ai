@@ -39,6 +39,22 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Mobile Robotics Market Size to Surpass USD 25.3 Billion at a 21.40% CAGR by 2030 - Report by Market Research Future (MRFR)"
+    excerpt: "According to a comprehensive research report by Market Research Future (MRFR), \"Mobile Robotics Market Research Report, by Component, Navigation Type, Application,"
+    publishedDateTime: 2022-09-22T15:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28969105/mobile-robotics-market-size-to-surpass-usd-25-3-billion-at-a-21-40-cagr-by-2030-report-by-market-r"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28969105"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28969105"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 48
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg"
+        width: 700
+        height: 300
+        isCached: true
 
 secured: "4eDrJyzqalSwGvQktu95C9IbBd+5AOY9vRFext9abP1oChPOODlM+LN/7U/Q75f2fCPbrV8j+ZT2OZsWupDr1MqNz7Y2rD8dxcyc7AoizntaqsCxY07kLDucMZzHNlqFXi1LRrj4fClv/TuOkntjxpCijLk+hngZ1btz7uUIg1+qDda6Fwbu/lYdJLyM7pVtYZCqkvrjHQvWNLL0vIAHZyj+fYRPyr87xYYX/7KznZpvUrdOox4DOLCuQTM10Ob554K4HbbndVrrXRhATTwMd/jGbgIJSv8pT4/S/j+Xcco5S8JwVWa+5RohZITWkRUVwc3HfKZRsunjVNAQm6bDtURy1pCiompMCWT22Uj/kqok8Yw4ABWkSAYaNhjnG4WXaKULfV9FohzoBb7ou/vtL75jw8d+cX6MOK4Z3QRcedqeduC2/4W0KFR+oraqpT2WMHvJ9shmU0mndyJHKcRw5DHAZ50tjc4TzQyUJAD9Gr6w4MPEcC/lpS8voDtLA7toG2ZhhcvJuVQmZq42OwPeMg==;CSW/fguhJ13hazGHSmfI3Q=="
 ---

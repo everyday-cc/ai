@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-wants-to-be-the-brains-o
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-wants-to-be-the-brains-of-your-self-driving-car/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2022/09/DRIVE-Thor-GTC-Fall-22.jpg?resize=1200,675"
         width: 1200
         height: 675
-        isCached: true
-  - title: "The Case for Resisting Self-Driving Cars"
-    excerpt: "No charge. Last week, NR played host to a lively debate about self-driving cars. It began with Luther Abel rejecting (with limited exceptions) Jordan McGillis’s praise of autonomous vehicles."
-    publishedDateTime: 2022-09-17T22:55:00Z
-    webUrl: "https://www.nationalreview.com/corner/the-case-for-resisting-self-driving-cars/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 24
-    images:
-      - url: "https://www.nationalreview.com/wp-content/uploads/2017/12/autonomous-vehicles-will-spark-government-efforts-ban-driving-uber-1.jpg?fit=2057%2C1200"
-        width: 2057
-        height: 1200
         isCached: true
 
 secured: "6U8nnpiF0cXmOdFBx2RGR6sjpU5bznpvGUACCL5SRfZ0oMsaon0OnViVjb1M/PisWWbnrdycE01kkhsmrUC8keaq34YJjpX8AJCj2N472R+82rTTs5CfV+RBdBXPbge7LZAkNuTljJTBnzXGGUfZSdoaiQKZNyR4z1O4BvQmrxAhxtRsdhFk4aOVonrJgWG/H+XLEmMCz5RoHmnLAbofEO/nxXfReU9kOADBL0zCdSfiNMkyNo1xbVyqBk18pEK6uJBcoG69moShTNxeiFKCeLJtBQpLW6W9xoN8effmII5W5tD92tV1oOEZNfjz5YYdXUmeaZGA3avNB6d0msNBQZ9p7rvGexr9zBG7HctbfIs=;el3/ZeZ9AfPbB1Xzd4ssLw=="

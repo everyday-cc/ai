@@ -7,7 +7,7 @@ originalUrl: "https://techxplore.com/news/2022-09-eyes-self-driving-cars-acciden
 webUrl: "https://techxplore.com/news/2022-09-eyes-self-driving-cars-accidents.html"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Can Robotic Eyes on Self-Driving Cars Reduce Accidents?"
+    excerpt: "Like a character from the Pixar movie Cars, a self-driving golf cart was fitted with two large, remote-controlled robotic eyes."
+    publishedDateTime: 2022-09-22T14:29:00Z
+    webUrl: "https://www.manufacturing.net/automotive/news/22458255/can-robotic-eyes-on-selfdriving-cars-reduce-accidents"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 24
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/09/Screen_Shot_2022_09_21_at_8.30.20_AM.632b125311c11.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C27%2C1156%2C650&w=1200"
+        width: 1156
+        height: 650
+        isCached: true
   - title: "Can eyes on self-driving cars reduce accidents? Cues from moving eyes could help pedestrians anticipate vehicle’s intentions"
     excerpt: "Robotic eyes on autonomous vehicles could improve pedestrian safety, according to a new study at the University of Tokyo. Participants played out"
     publishedDateTime: 2022-09-20T00:00:00Z

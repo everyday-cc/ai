@@ -5,7 +5,12 @@ excerpt: "Forms of dementia could be spotted sooner and more easily by analyzing
 publishedDateTime: 2022-09-21T16:04:00Z
 originalUrl: "https://medicalxpress.com/news/2022-09-dementia-diagnosis-fast-tracked-artificial-intelligence.html"
 webUrl: "https://medicalxpress.com/news/2022-09-dementia-diagnosis-fast-tracked-artificial-intelligence.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-09-dementia-diagnosis-fast-tracked-artificial-intelligence.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-dementia-diagnosis-fast-tracked-artificial-intelligence.amp"
 type: article
+quality: 57
+heat: 57
+published: false
 
 provider:
   name: Medical Xpress
@@ -14,6 +19,12 @@ provider:
 topics:
   - AI
 
-secured: "AQBLcBdIctOy+GPS8+dc5l2Mz1/9tK0VgHVkJBXe+xPxhAEokNTkHA0/UXdiEKFtEZlNE5UtIHYqaRVCxgiTWPJi2DFJh3j22iAQVsyyK+OWJdBkU+QF4pVBy+eFc4bGkDumhO+Ykgxh/nJi+ZBF7Ty29s/v0A0wvp64KtQRhHAll0YDBhth4xbz8nOiu5U5pj8WNNrdO4BIl/qvxyplxoWszpFh8Dot4I7rA3xZ9S5RWTj37FEWYcV8DGsT6VNvtbAcdL0NGCRAIgBvSaReNYId7tCT0fAXJ+IwSPMj6NW7X5ZXkCOZTMWXFrLIdHycoTx0h4CLZdvwVjx/GIX5GleXb1lRx1Lh+zADekvcUKaELCaq32DNg4wspx8dlGr0u8ZDBq15c7WthqOepzBC8yEaj9s3xGraqzVpdts7HAaPYYogf7WElcUc1nTGTDDxYe5JSmNJXmuB1zjgdFb1eYxkidaFRJPhwrSkHOdTqRbP1BHNpAS14zlAEX5rAXFc+gOdgAvL1txljhCwNJ15qg==;k2+UBvdG4mhw8u8yZH+bhQ=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/dementia-diagnosis-cou.jpg"
+    width: 1944
+    height: 1548
+    isCached: true
+
+secured: "6DqgfS8QzYbhJUsNo3xddwSFzjjoVZA9XzZss4M4+OvbDMcdYYRDIjCaZbHIlHz4C39hAdU0wYEMU02QDSVmJSD1J2dd1HEj2TsV2SMvlV4wDKKs2ApuF7FR5V8EjC7TOuY0AadNPqIgJRZH2PaK7eLCUUpc4b99l4caH67BlbEXBtQbtRrsDeJEmIr2v6fMzwAqEyDsMKFmoE91lhUQyFU53F7/GapGITo3GPPrYZ+BlVmV2nKbCs0dliBJy8+bJfo26Q6ZKcZXDaSTtvWHxYUm/my81/5WK6FexYyGJIwK6tRIyOjo7h+dAXoXE32/8O9GoVUOETFtrKuSQQBr1jDrsdKcDQ2qBfACrmGDkMA=;Fk9HSp8F0JM9Y4qhfAZ1Ww=="
 ---
 
