@@ -7,7 +7,7 @@ originalUrl: "https://bestgamingpro.com/whisper-an-open-source-multilingual-spee
 webUrl: "https://bestgamingpro.com/whisper-an-open-source-multilingual-speech-recognition-system-is-released-by-openai/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 600
     height: 365
     isCached: true
+
+related:
+  - title: "OpenAI open-sources Whisper, a multilingual speech recognition system"
+    excerpt: "OpenAI has released Whisper, a robust speech recognition model that can understand and transcribe multiple languages."
+    publishedDateTime: 2022-09-22T15:18:00Z
+    webUrl: "https://techcrunch.com/2022/09/21/openai-open-sources-whisper-a-multilingual-speech-recognition-system/"
+    ampWebUrl: "https://techcrunch.com/2022/09/21/openai-open-sources-whisper-a-multilingual-speech-recognition-system/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/21/openai-open-sources-whisper-a-multilingual-speech-recognition-system/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/03/lp-logo-3.jpg?resize=1200,812"
+        width: 1200
+        height: 812
+        isCached: true
+  - title: "New AI model from OpenAI automatically recognizes speech and translates to English"
+    excerpt: "OpenAI released a new open source AI model called Whisper that recognizes and translates audio at a level that approaches human recognition ability. It can transcribe interviews, podcasts, conversations,"
+    publishedDateTime: 2022-09-22T16:48:00Z
+    webUrl: "https://arstechnica.com/information-technology/2022/09/new-ai-model-from-openai-automatically-recognizes-speech-and-translates-to-english/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 78
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/waveform_hero_1-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
 
 secured: "kEQDHWsDnGc6fIhPL4T3r5DLVZ36Ssd9TI2wHYh1rmgEvPaf7Q+5H8yzQQ70kBXtYNR5gNaA+GvHjas9r37kMNv0RWhBnopY2w4HkaDEGPH3THDXq38fxJXQIljQ7gNPj6p41a/KE+jyCZugnaktwVy3VTWVt+FHNvY5a9cYOckq4BNhB87hxjHOkvv4BwPc/iNe14Pth9P9+GvXJE2/FTUj0qBIcwqqdy/zADdKyjv5ag31ZGSkw58EC58A6I7gKGCSsb9E6DJP9MgvVGLl4D0AW7q4byw4cB+wsgL6sE8bkna2hkXPpqfiAwi/cMeyUkvkf0zF6hdWVb4gSHz/R910rOZLlDnuR+kTssrKy9M=;9mCj4b8La+IZ+FRRPAK/hw=="
 ---

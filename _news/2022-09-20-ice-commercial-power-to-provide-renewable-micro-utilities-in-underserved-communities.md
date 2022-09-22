@@ -26,6 +26,22 @@ images:
     height: 612
     isCached: true
 
+related:
+  - title: "Recognizing Synovus for its Commitment to Teaching Financial Wellness in Communities It Serves"
+    excerpt: "Synovus banking services maintain the community banking approach the company adopted at its humble beginnings. The bank has branches in five states across the southeastern U.S. Employees provide input on the best methods to reach out to the community to offer better service and provide financial learning opportunities."
+    publishedDateTime: 2022-09-22T17:00:00Z
+    webUrl: "https://www.cardrates.com/news/recognizing-synovus-for-teaching-financial-wellness/"
+    type: article
+    provider:
+      name: CardRates
+      domain: cardrates.com
+    quality: 12
+    images:
+      - url: "https://www.cardrates.com/wp-content/uploads/2022/09/CR-Synovus.jpg"
+        width: 1250
+        height: 650
+        isCached: true
+
 secured: "1RiS3Jkb0+HXrcB2vvcEiykC5PNfbZLfgzol9UD0LcSliGSjT02adblHjamBHWV0ouV/slmj4pBaJ7JlAL0eEGoc9QTSZF/KKbPPKDDBOcvR0lI55luZ4pOSY0qJuAzVPiC2SznA3Puupe8HJ4087bETkHoMT/WLGPLaFJJQLzSxzHgp5+zEP5uzeUY3fFVPBa8zGlXMWkGx1EfAWdBzvARufl6PzQt3ckLmjUz3+y/NTvbpZNcEp3LiH2nycVOAZtMvKhbM97ypkHWSxRr6eJ33XX3hYezR/nPavDc/kNJacHfweg4SStYHn/51PsdhOCchuOmmQstttpfz3t8ULK+J6zbfJYI4T5TpwmMKut8lAf2W/lP7GP/J6UY3Ed107H4VIpSRSfkmJenlWtg3s8D3aSdhjwA6kI99v4WwMwWefChZgEFCU0O3pbYTGnQAvUTC7mK8MQvM9X+gymBUl7k3q37z1SPoR7+OahQKgfu1f/UaJoRwBwONEqzgONbcLRuPVjj6lwdM0Y7XWgr+iA==;tABpbCSkurD24reiJfh1HQ=="
 ---
 

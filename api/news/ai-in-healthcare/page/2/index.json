@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-31-ndsu-faculty-develops-artificial-intelligence-technology-to-predict-onset-of-diabetes.md",
+      "title": "NDSU faculty develops artificial intelligence technology to predict onset of diabetes",
+      "excerpt": "Students and faculty work on a breath test to detect blood sugar levels for diabetics at North Dakota State University. We are part of The Trust Project. FARGO, N.D. • Danling Wang, assistant ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.grandforksherald.com/prairie-business/ndsu-faculty-develops-artificial-intelligence-technology-to-predict-onset-of-diabetes",
+      "originalUrl": "https://www.grandforksherald.com/prairie-business/ndsu-faculty-develops-artificial-intelligence-technology-to-predict-onset-of-diabetes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.forumcomm.com/dims4/default/bb341af/2147483647/strip/true/crop/5267x2560+0+473/resize/1440x700!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.amazonaws.com%2Fbrightspot%2F2e%2F0e%2Fab7e9cd84a14a6491d7a7e28e641%2Fndsu-faculty-developing-cutting-edge-ai-technology.jpg",
+          "width": 1440,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Grand Forks Herald",
+        "domain": "grandforksherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-31-artificial-intelligence-and-healthcare-the-business-the-law-and-the-ethics.md",
       "title": "Artificial Intelligence and Healthcare – The Business, The Law and The Ethics",
       "excerpt": "This is an in-person and online for this program that will explore data justice and cybersecurity in health care. Join us at the Chase Park Plaza for this one-day insightful conference regarding the ways personal data, artificial intelligence, justice and ...",
@@ -1381,40 +1424,6 @@
         "Machine Learning",
         "AI in Healthcare",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-no-one-size-fits-all-artificial-intelligence-approach-works-for-prevention-diagnosis-or-treatment-using-precision-medicine.md",
-      "title": "No one-size-fits-all artificial intelligence approach works for prevention, diagnosis or treatment using precision medicine",
-      "excerpt": "A Rutgers analysis of dozens of artificial intelligence (AI) software programs used in precision, or personalized, medicine to prevent, diagnose and treat disease found that no program exists that can be used for all treatments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/962274",
-      "originalUrl": "https://www.eurekalert.org/news-releases/962274",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

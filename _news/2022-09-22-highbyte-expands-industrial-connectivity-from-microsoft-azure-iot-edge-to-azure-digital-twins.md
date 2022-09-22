@@ -1,27 +1,27 @@
 ---
 category: news
 title: "HighByte Expands Industrial Connectivity from Microsoft Azure IoT Edge to Azure Digital Twins"
-excerpt: "HighByte®, an industrial software company, today announced the release of HighByte Intelligence Hub version 2.5 that expands connectivity to Microsoft Azure services, including Azure IoT Edge and Azure IoT Central,"
-publishedDateTime: 2022-09-22T15:07:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-highbyte-expands-industrial-connectivity-from-microsoft-azure-iot-/2022/09/22/9679234.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-highbyte-expands-industrial-connectivity-from-microsoft-azure-iot-/2022/09/22/9679234.htm"
+excerpt: "The industrial software company has expanded cloud connectivity and improved enterprise IT management with HighByte Intelligence Hub version 2.5."
+publishedDateTime: 2022-09-22T16:31:00Z
+originalUrl: "https://www.automation.com/en-us/products/september-2022/highbyte-industrial-connectivity-microsoft-azure"
+webUrl: "https://www.automation.com/en-us/products/september-2022/highbyte-industrial-connectivity-microsoft-azure"
 type: article
 quality: 43
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Automation
+  domain: automation.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1904904/HighByte_Version_2_5_Press_Release_Image.jpg"
-    width: 400
-    height: 220
+  - url: "https://www.automation.com/getmedia/aa63c977-cdce-4db8-9dff-034bafe0dadc/Highbyte-prod-Sept-22-2022-web.png?width=500&height=313&ext=.png"
+    width: 500
+    height: 313
     isCached: true
 
 related:
@@ -53,6 +53,6 @@ related:
       domain: dailyherald.com
     quality: 25
 
-secured: "f6gNef6ArCwu5XXXfzT3NdcEl2ohDriXnwHyXoTodZe0JmD8U1rq36mdi8kj+3ZcGs3dUftDiRofzg8QINLvsJVmoF0wp2WHrH062V60larykCW1II/bu8XgT10G5XjGYZ9ASz2jGoiFlz1YQtsQsv6zm+Pepx6AQp2ZPyI4DrCkYHvl5kcHeMDBKOxAvLgKmqKbG88ct4XPNKSMg4zN8Xu4NwczP+zz14Uf+NGCbndOqq1mJ8YrvagfXlPJyRhnB0r6VFropRkhb701f+1Auh0yXYJLVZtR7vft/fGiZBNjK5hVeeMviAl0PCTy/6VuMsQ00CdupaymLOFQXG7vMwUnUBVZFOVyXDRRZsPPeGk=;p7ho6E9NxioSBKaLFN+jaQ=="
+secured: "t6YJAV5amWsuBaCoWr9sAHX3unDmK6vw/yuENyxT0ZReiVZ7p+pH1UTWCLprRxjqlwVlT4RJJGuMLXk17kLAW+1RH7EbTOz+ziU5k+c09b8fns6AFWh//Gz7k9prhh/5V5zbfi+vNgnc6AFi7Quf+WG8J7kdktbUr5qCNOM1WFARdAsnW5CsE7g8OAYU2ZpNtWsLyPHfZdsNycLoVqK8nRZofOw/4PbQMuuRLDHw5109raiuFJ4A5bm0wYQWrovW0dCu9xBYh3KmnJqFRnu6694rEEqya5EHV7XcyU0njABfpqoS54ukUwFlGJybS3Gitc9viQPMd+zb30O4LFdM4YmrED2/tMGzrCS457Mirm4=;ISC5r2vwqC5tHMbOd9yILw=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220922/Artificial-intelligen
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220922/Artificial-intelligence-tools-speed-up-the-process-of-identifying-people-who-inject-drugs.aspx"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: News Medical
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence tools quickly detect signs of injection drug use in patients' health records"
+    excerpt: "An automated process that combines natural language processing and machine learning identified people who inject drugs (PWID) in electronic health records more quickly and accurately than current methods that rely on manual record reviews."
+    publishedDateTime: 2022-09-22T17:27:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/09/220921210130.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
   - title: "Artificial intelligence tools quickly detect signs of injection drug use in patients' health records"
     excerpt: "An automated process that combines natural language processing and machine learning identified people who inject drugs (PWID) in electronic health records more quickly and accurately than current methods that rely on manual record reviews."
     publishedDateTime: 2022-09-22T13:27:00Z

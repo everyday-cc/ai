@@ -24,17 +24,6 @@ images:
     height: 1240
     isCached: true
 
-related:
-  - title: "Can artificial intelligence detect autism doctors miss? Duke study wants to find out."
-    excerpt: "A computer just gives you a beautiful readout of how many times the head moves back and forth,” said Geraldine Dawson, director of Duke University’s Center for Autism and Brain Development. Dawson and her colleagues are testing an app that Duke has patented to harness that power."
-    publishedDateTime: 2022-09-17T23:16:00Z
-    webUrl: "https://www.newsobserver.com/news/state/north-carolina/article265718501.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 12
-
 secured: "CTY6orM22irA31zYPBALcPPWG+2fQrsisTVUQWq1daX7xtNMETSiS24Dls7haOa/BYcnRezXTOcQ2g94LxJX2Kyd6MN9XY00QD/X6bpey9Jajutte/JCI1iQGjmg4l61CcSTzakYk9kjFANdBqUvLlkQQ2hfqxIFCdiaCnctTBNN0aZoZQ50ylGm4SVmRln9RHeRpLi9ThFicV95U1o2zRpU9wNKopf7jstZAkUF3lV00FPeXLCVFhNi0VpHPvHqSmoj4yVN2YeSKSizF0/g0BAsagFHTqrVDWMzqIeDm0SoZiVOd9Wpozk0mRcOiLYW+5VnPLM+srE/Z7VNXJ5Lxgttu1dTmQVJj7+Ib/qawtJylpxXMk9ycbVAtT7nY0lzoTFPtNy/+Deti+68AL0HzY0PRTqDIK803GsvBfx4h99Pu//iJvH5x/irIKCrthJ4vLKLt/jTeGi/1oIJf/CrBfDUjN7daqia9P3TCSPl7fb3Vk77c2Tz7gKkqE6h7TxE+gPYJskBkVZsd0y1InJljg==;+ZHcIg8eSzWWJ1OsHxBMKQ=="
 ---
 
