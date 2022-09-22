@@ -2,6 +2,153 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-08-20-britain-sets-out-roadmap-for-self-driving-vehicle-usage-by-2025.md",
+      "title": "Britain sets out roadmap for self driving vehicle usage by 2025",
+      "excerpt": "Britain said on Friday it wanted a widespread rollout of self-driving vehicles on roads by 2025, announcing plans for new laws and 100 million pounds ($119.09 million) of funding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/britain-sets-out-roadmap-self-driving-vehicle-usage-by-2025-2022-08-19/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/britain-sets-out-roadmap-self-driving-vehicle-usage-by-2025-2022-08-19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/-bD145K776yCk-35pfGOxAdMuxA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LAUS5LTOURJXXD3N5LFTSFEYMA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-19T15:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-self-driving-vehicles-on-uk-roads-by-2025-under-new-government-plans.md",
+      "title": "Self-driving vehicles ‘on UK roads by 2025’ under new government plans",
+      "excerpt": "These vehicles could be on sale within the next year, but would require a valid driving licence (Picture: Andrew Matthews/PA Wire) Self-driving vehicles could be on UK roads by 2025 under new ...",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2022/08/19/self-driving-vehicles-on-uk-roads-by-2025-under-new-government-plans-17213777/",
+      "originalUrl": "https://metro.co.uk/2022/08/19/self-driving-vehicles-on-uk-roads-by-2025-under-new-government-plans-17213777/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2022/08/SEI120084193-d8dc.jpg?quality=90&strip=all&zoom=1&resize=600%2C385",
+          "width": 600,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2022/08/19/self-driving-vehicles-on-uk-roads-by-2025-under-new-government-plans-17213777/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/08/19/self-driving-vehicles-on-uk-roads-by-2025-under-new-government-plans-17213777/amp/",
+      "publishedDateTime": "2022-08-19T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-automotive-operating-systems-market-to-see-strong-expansion-through-2027.md",
+      "title": "Automotive Operating Systems Market To See Strong Expansion Through 2027",
+      "excerpt": "Global automotive operating systems market revenue is anticipated to surpass USD 10 billion by 2027. An increase",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automotive-operating-systems-market-to-see-strong-expansion-through-2027-2022-08-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/automotive-operating-systems-market-to-see-strong-expansion-through-2027-2022-08-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-19T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-19-5-best-self-driving-stocks-to-invest-in.md",
       "title": "5 Best Self-Driving Stocks To Invest In",
       "excerpt": "The company’s DRIVE Chauffeur platform is an artificial intelligence assisted driving ... Not only is Orin the world’s fastest self-driving computer, but NVIDIA Corporation (NASDAQ:NVDA ...",
@@ -1190,126 +1337,6 @@
       "provider": {
         "name": "The Hill",
         "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-watch-out-tesla-and-waymo-lyft-debuts-self-driving-vehicle-in-las-vegas.md",
-      "title": "Watch Out Tesla And Waymo! Lyft Debuts Self-Driving Vehicle In Las Vegas",
-      "excerpt": "Ride-hailing service Lyft Inc. (NASDAQ: LYFT) has teamed up with Motional to bring self-driving taxis to cities around the nation, starting with Las Vegas.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/watch-out-tesla-and-waymo-lyft-debuts-self-driving-vehicle-in-las-vegas-1031688162",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/watch-out-tesla-and-waymo-lyft-debuts-self-driving-vehicle-in-las-vegas-1031688162",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-16T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-lyft-rolls-out-its-first-driverless-evs-in-the-united-states.md",
-      "title": "Lyft Rolls Out Its First Driverless EVs in the United States",
-      "excerpt": "The new robotaxi will be joining the company’s fleet of cars, marking its foray into driverless rides. The autonomous car will launch first in Las Vegas, Nevada in 2022, with plans to expand to ...",
-      "sourceUrl": null,
-      "webUrl": "https://hypebeast.com/2022/8/lyft-motional-driverless-car-launch-united-states",
-      "originalUrl": "https://hypebeast.com/2022/8/lyft-motional-driverless-car-launch-united-states",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F08%2FLyft-Rolls-Out-Its-First-Driverless-EVs-in-the-United-States-tw.jpg?w=960&cbr=1&q=90&fit=max",
-          "width": 960,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-16T11:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hypebeast",
-        "domain": "hypebeast.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-lyft-motional-continue-working-towards-fully-driverless-robotaxi-service-in-las-vegas.md",
-      "title": "Lyft, Motional continue working towards fully driverless robotaxi service in Las Vegas",
-      "excerpt": "LAS VEGAS, Nev. (FOX5) - Lyft and Motional are continuing their work towards launching a fully driverless robotaxi service in Las Vegas. According to a news release, starting Tuesday, as part of a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox5vegas.com/2022/08/16/riders-can-now-request-driverless-robotaxi-through-lyft-las-vegas/",
-      "originalUrl": "https://www.fox5vegas.com/2022/08/16/riders-can-now-request-driverless-robotaxi-through-lyft-las-vegas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-16T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX5 Las Vegas",
-        "domain": "fox5vegas.com",
         "images": null,
         "publishers": null,
         "authors": null

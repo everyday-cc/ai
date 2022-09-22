@@ -2,6 +2,83 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-19-build-up-your-cognitive-reserves-to-lower-your-risk-of-dementia.md",
+      "title": "Build Up Your Cognitive Reserves to Lower Your Risk of Dementia",
+      "excerpt": "Using data from a national survey of health and development that began in 1946, the researchers looked at the cognitive reserves of more than 1,000 study participants at 69 years of age.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/cravings/202208/build-your-cognitive-reserves-lower-your-risk-dementia",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/cravings/202208/build-your-cognitive-reserves-lower-your-risk-dementia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-08/pexels_pixabay.jpeg.jpg?itok=LiTSREAH",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/cravings/202208/build-your-cognitive-reserves-lower-your-risk-dementia?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/cravings/202208/build-your-cognitive-reserves-lower-your-risk-dementia?amp",
+      "publishedDateTime": "2022-08-18T16:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-feeling-burnt-out-scientists-now-know-whats-going-on-inside-your-brain-when-this-happens.md",
+      "title": "Feeling burnt out? Scientists now know what's going on inside your brain when this happens",
+      "excerpt": "Feeling burned out, mentally exhausted, or brain-fried are all colloquial ways of talking about what neurologists formally refer to as \"cognitive fatigue.\" It's a common feeling that nearly all of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.salon.com/2022/08/17/cognitive-fatigue/",
+      "originalUrl": "https://www.salon.com/2022/08/17/cognitive-fatigue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T15:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Salon",
+        "domain": "salon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-19-aging-doctors-also-at-risk-of-cognitive-decline.md",
       "title": "Aging Doctors also at risk of Cognitive Decline",
       "excerpt": "Age is the greatest risk factor for cognitive decline. So, watch out, even your experienced doctor may be at risk of having cognitive impairment. Older physicians benefit from their many years of ...",
@@ -1262,85 +1339,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story.md",
-      "title": "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story",
-      "excerpt": "New Jersey, NJ -- (SBWIRE) -- 08/10/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ...",
-      "sourceUrl": null,
-      "webUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-35",
-      "originalUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-35",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-10T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insurancenewsnet.com",
-        "domain": "insurancenewsnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-the-pandemic-revealed-technology-deficits-microsoft-azure-is-growing-to-fill-in-the-gaps.md",
-      "title": "The Pandemic Revealed Technology Deficits, Microsoft Azure is Growing to Fill in the Gaps",
-      "excerpt": "The recent pandemic revealed numerous shortcomings in relying on legacy on-premise applications and IT operations, strengthening arguments for a move to cloud computing across industries. With a greater number of employees transitioning to work remotely during the height of COVID-19,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/08/09/9653251.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/08/09/9653251.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T11:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

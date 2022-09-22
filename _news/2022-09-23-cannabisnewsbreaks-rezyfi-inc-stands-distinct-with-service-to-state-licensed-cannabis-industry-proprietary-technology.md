@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-22T18:59:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/nnwire-2022-9-22-cannabisnewsbreaks-rezyfi-inc-stands-distinct-with-service-to-state-licensed-cannabis-industry-proprietary-technology"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/nnwire-2022-9-22-cannabisnewsbreaks-rezyfi-inc-stands-distinct-with-service-to-state-licensed-cannabis-industry-proprietary-technology"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Daily Herald

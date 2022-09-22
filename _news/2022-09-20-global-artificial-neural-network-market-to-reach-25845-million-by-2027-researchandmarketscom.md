@@ -7,7 +7,7 @@ originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-global-artificial-neural-network-market-to-reach-25845-million-by-2027-researchandmarketscom"
 type: article
 quality: 6
-heat: -1
+heat: 6
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Artificial Intelligence (AI) In Retail Market to Hit $40.74 Billion by 2030: Grand View Research, Inc."
-    excerpt: "The global AI in retail market size is anticipated to reach USD 40.74 billion by 2030, expanding at a CAGR of 23.9% from 2022 to 2030, according to a new study by Grand View Research, Inc. The rising prominence of advanced technologies,"
-    publishedDateTime: 2022-09-20T16:43:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/20/9677284.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
 
 secured: "O+8HjgHgYbWlkBj8gFLAZpDeRr3RiJF4r11Pi0f2HVfts+DpjxcZ/5PMXuxmoOeQ76ZigSJqFetwYdNqv0p0sQiy5WwZz1ee8AhKnAOIal3jJOvn+VwpyTdUbJ+ZqTJM1PoTxoKDhE2kFRtFx2MJx1wESqdsMzL2k/EpzjQCAwyaMn1wMkSzmA7zb8XB2GWFFNv91MVoVEreU101LYFEMe2QRK5sYBklByDOZOQl6/N7SCfU1yDzyRlqs0ls39dek27HLoBn8gZaYHHDmJXQPtbxfdEiqT144wQRaCs63guK9MkjUZs31R3aeN8ofEsIy5ByrHPiRZM25rb9V/1sP58SwUGb/5eT7WUq/gI41No=;rbyyuTlM3a4I+xDOuNAyaQ=="
 ---

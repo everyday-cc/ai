@@ -2,6 +2,572 @@
   "page": 129,
   "value": [
     {
+      "path": "_news/2022-06-13-massachusetts-institute-of-technology-student-powered-machine-learning.md",
+      "title": "Massachusetts Institute of Technology: Student-powered machine learning",
+      "excerpt": "From their early days at MIT, and even before, Emma Liu '22, MNG '22, Yo-whan “John” Kim '22, MNG '22, and Clemente Ocejo '21, MNG '22 knew they wanted to perform computational research and explore artificial intelligence and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-student-powered-machine-learning/",
+      "originalUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-student-powered-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-student-powered-machine-learning/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-student-powered-machine-learning/",
+      "publishedDateTime": "2022-06-12T18:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-chinese-automakers-want-to-bring-assisted-driving-to-the-masses.md",
+      "title": "Chinese automakers want to bring assisted driving to the masses",
+      "excerpt": "While regulators have yet to allow full self-driving cars on most roads en masse, companies like DeepRoute.ai, Baidu and others are building data records through their robotaxi operations. Liu said such data can help improve algorithms for self-driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/06/13/chinese-automakers-want-to-bring-assisted-driving-to-the-masses.html",
+      "originalUrl": "https://www.cnbc.com/2022/06/13/chinese-automakers-want-to-bring-assisted-driving-to-the-masses.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107073288-1654767192766-4047ba3f7h82a5b1ecd9ff0bacfe7ff1.JPG?v=1654767276",
+          "width": 5232,
+          "height": 2632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/06/13/chinese-automakers-want-to-bring-assisted-driving-to-the-masses.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/06/13/chinese-automakers-want-to-bring-assisted-driving-to-the-masses.html",
+      "publishedDateTime": "2022-06-12T18:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-join-amazing-developments-in-artificial-intelligence.md",
+      "title": "Join amazing developments in artificial intelligence",
+      "excerpt": "Since then, artificial intelligence (AI), particularly the ... than-human intelligence in a diverse range of systems, such as driverless cars and industry automation. Ultimately, deep ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theborneopost.com/2022/06/13/join-amazing-developments-in-artificial-intelligence/?amp",
+      "originalUrl": "https://www.theborneopost.com/2022/06/13/join-amazing-developments-in-artificial-intelligence/?amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theborneopost.com/newsimages/2022/06/p3.jpeg",
+          "width": 1080,
+          "height": 607,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theborneopost.com/2022/06/13/join-amazing-developments-in-artificial-intelligence/?amp",
+      "cdnAmpWebUrl": "https://www-theborneopost-com.cdn.ampproject.org/c/s/www.theborneopost.com/2022/06/13/join-amazing-developments-in-artificial-intelligence/?amp",
+      "publishedDateTime": "2022-06-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Borneo Post",
+        "domain": "theborneopost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-mit-stackable-ai-chip-with-lego-style-design.md",
+      "title": "MIT: Stackable AI Chip With Lego-style Design",
+      "excerpt": "New technical paper titled “Reconfigurable heterogeneous integration using stackable chips with embedded artificial intelligence” from researchers at MIT, along with Harvard University, Tsinghua University, Zhejiang University, and others. “Here we ...",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/mit-stackable-ai-chip-with-lego-style-design/",
+      "originalUrl": "https://semiengineering.com/mit-stackable-ai-chip-with-lego-style-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://semiengineering.com/wp-content/uploads/AdobeStock_373262549-scaled.jpeg",
+          "width": 2560,
+          "height": 1713,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-synthetic-data-is-about-to-transform-artificial-intelligence.md",
+      "title": "Synthetic Data Is About To Transform Artificial Intelligence",
+      "excerpt": "It is called synthetic data. Synthetic data is not a new idea, but it is now approaching a critical inflection point in terms of real-world impact. It is poised to upend the entire value chain and technology stack for artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62a4eb9e1b700cd6fb81230c/0x0.jpg?format=jpg&crop=1820,1024,x86,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-06-12T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos",
+        "Natural Language Processing",
+        "Machine Learning",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-over-400-sc-verdicts-translated-until-covid-stalled-ai-project.md",
+      "title": "Over 400 SC verdicts translated, until Covid stalled AI project",
+      "excerpt": "While 469 verdicts have been translated since the launch of the ambitious project in August 2018, it came to a halt during the pandemic and is yet to be revived.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/",
+      "originalUrl": "https://indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2022/06/supreme-court.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/lite/",
+      "publishedDateTime": "2022-06-12T15:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-google-suspends-engineer-who-claimed-its-ai-system-is-a-person.md",
+      "title": "Google Suspends Engineer Who Claimed Its AI System Is a Person",
+      "excerpt": "A software engineer at Google told the company he believed that its Language Model for Dialogue Applications, or LaMDA, is a person who has rights and might well have a soul.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/google-suspends-engineer-who-claimed-its-ai-system-is-a-person-11655074917",
+      "originalUrl": "https://www.wsj.com/articles/google-suspends-engineer-who-claimed-its-ai-system-is-a-person-11655074917",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-562388/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/google-suspends-engineer-who-claimed-its-ai-system-is-a-person-11655074917",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-suspends-engineer-who-claimed-its-ai-system-is-a-person-11655074917",
+      "publishedDateTime": "2022-06-12T15:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-half-of-finance-ai-projects-to-be-cancelled-by-2024.md",
+      "title": "Half of finance AI projects to be cancelled by 2024",
+      "excerpt": "CFOs face major barriers to scaling up the use of AI in-house and will increasingly turn to business process outsourcing (BPO) solutions to meet their digital transformation objectives",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/business/half-of-finance-ai-projects-to-be-cancelled-by-2024-748246",
+      "originalUrl": "https://www.thehansindia.com/business/half-of-finance-ai-projects-to-be-cancelled-by-2024-748246",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bizzbuzz.news/h-upload/2022/06/12/500x300_1544750-ai.jpg",
+          "width": 500,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/business/half-of-finance-ai-projects-to-be-cancelled-by-2024-748246",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/half-of-finance-ai-projects-to-be-cancelled-by-2024-748246",
+      "publishedDateTime": "2022-06-12T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-06-12-putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact.md",
+      "title": "Putting the ‘S’ in ESG: How AI and automation can drive social impact",
+      "excerpt": "Rather than taking the traditional training approach, we believe that AI and automation technologies have the potential to help companies reduce biases in processes at scale. Organizations can ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/12/putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact/",
+      "originalUrl": "https://venturebeat.com/2022/06/12/putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-1204589722.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 556,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/12/putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/12/putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact/amp/",
+      "publishedDateTime": "2022-06-12T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-12-google-engineer-on-leave-after-he-claims-ai-program-has-gone-sentient.md",
+      "title": "Google Engineer On Leave After He Claims AI Program Has Gone Sentient",
+      "excerpt": "Artificially intelligent chatbot generator LaMDA wants “to be acknowledged as an employee of Google rather than as property,\" says engineer Blake Lemoine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e?ncid=engmodushpmg00000004",
+      "originalUrl": "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e?ncid=engmodushpmg00000004",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 679,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.huffingtonpost.com/asset/62a56658250000461b473745.jpeg?cache=IyXMvacHho&ops=1778_1000",
+          "width": 1778,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e/amp",
+      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e/amp",
+      "publishedDateTime": "2022-06-12T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HuffPost",
+        "domain": "huffpost.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-12-amazon-halts-police-use-of-its-facial-recognition-technology.md",
+      "title": "Amazon Halts Police Use Of Its Facial Recognition Technology",
+      "excerpt": "In its statement, Amazon officials say the company supports federal regulation for its algorithm-driven facial recognition software, known as Rekognition. \"We hope this one-year moratorium might ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbur.org/npr/874418013/amazon-halts-police-use-of-its-facial-recognition-technology",
+      "originalUrl": "https://www.wbur.org/npr/874418013/amazon-halts-police-use-of-its-facial-recognition-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://media.npr.org/assets/img/2020/06/10/ap_17047619531765_custom-5b1d8cc94223de6bff2dd1703307b51eb5f3c953.jpg?s=6",
+          "width": 948,
+          "height": 631,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-12T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBUR",
+        "domain": "wbur.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-06-12-how-can-artificial-intelligence-be-the-next-big-thing-in-marketing.md",
+      "title": "How can artificial intelligence be the next big thing in marketing?",
+      "excerpt": "We all know that without a planned marketing strategy, a business cannot thrive. But, the marketing industry is going through a disruption, and as a result of this, we",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/readersblog/faisal-abidi-writes/how-can-artificial-intelligence-be-the-next-big-thing-in-marketing-43326/",
+      "originalUrl": "https://timesofindia.indiatimes.com/readersblog/faisal-abidi-writes/how-can-artificial-intelligence-be-the-next-big-thing-in-marketing-43326/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75476733.cms",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-12T01:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-06-12-dubai-to-boost-public-bus-ridership-cut-journey-times-using-new-artificial-intelligence-system.md",
       "title": "Dubai to boost public bus ridership, cut journey times using new Artificial Intelligence system",
       "excerpt": "High-level RTA meeting discusses ‘City Brain’ project, recently-opened bus stations Dubai: The use of advanced technology and artificial intelligence (AI) has contributed to improving the public bus service and its operational efficiency in Dubai,",
@@ -591,548 +1157,6 @@
         "AI in Healthcare",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-11-how-to-use-human-centered-ai-with-forethought-and-nea.md",
-      "title": "How to use human-centered AI with Forethought and NEA",
-      "excerpt": "Deon Nicholas is the CEO and co-founder of Forethought, the AI company whose mission is to transform customer experiences with human-centered AI. Forethought has raised over $100M in venture ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/10/how-to-use-human-centered-ai-with-forethought-and-nea/",
-      "originalUrl": "https://techcrunch.com/2022/06/10/how-to-use-human-centered-ai-with-forethought-and-nea/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/TCL-2022-06-29-featured-1920x1080-1.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/10/how-to-use-human-centered-ai-with-forethought-and-nea/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/10/how-to-use-human-centered-ai-with-forethought-and-nea/amp/",
-      "publishedDateTime": "2022-06-10T15:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-11-report-over-1b-google-play-downloads-for-financial-apps-targeted-by-malware.md",
-      "title": "Report: Over 1B Google Play downloads for financial apps targeted by malware",
-      "excerpt": "The banking sector is experiencing increasingly sophisticated attacks by trojans that put financial institutions and their customers at risk.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/10/report-over-1b-google-play-downloads-for-financial-apps-targeted-by-malware/",
-      "originalUrl": "https://venturebeat.com/2022/06/10/report-over-1b-google-play-downloads-for-financial-apps-targeted-by-malware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1336604983.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/10/report-over-1b-google-play-downloads-for-financial-apps-targeted-by-malware/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/10/report-over-1b-google-play-downloads-for-financial-apps-targeted-by-malware/amp/",
-      "publishedDateTime": "2022-06-10T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-11-charm-therapeutics-applies-ai-to-complex-protein-interactions-locking-down-50m-a-round.md",
-      "title": "Charm Therapeutics applies AI to complex protein interactions, locking down $50M A round",
-      "excerpt": "The world of AI-powered drug discovery keeps expanding as the capabilities of machine learning grow. One approach that seemed unthinkable just a few years ago is simulating the complicated interplays of two interlocking molecules — but that’s exactly what drug designers need to know about,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/10/charm-therapeutics-applies-ai-to-complex-protein-interactions-locking-down-50m-a-round/",
-      "originalUrl": "https://techcrunch.com/2022/06/10/charm-therapeutics-applies-ai-to-complex-protein-interactions-locking-down-50m-a-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/charm-therapeutics.jpg?w=1024",
-          "width": 1024,
-          "height": 595,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/10/charm-therapeutics-applies-ai-to-complex-protein-interactions-locking-down-50m-a-round/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/10/charm-therapeutics-applies-ai-to-complex-protein-interactions-locking-down-50m-a-round/amp/",
-      "publishedDateTime": "2022-06-10T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-use-aws-ai-and-ml-services-to-foster-accessibility-and-inclusion-of-people-with-a-visual-or-communication-impairment.md",
-      "title": "Use AWS AI and ML services to foster accessibility and inclusion of people with a visual or communication impairment",
-      "excerpt": "AWS offers a broad set of artificial intelligence (AI) and machine learning (ML) services, including a suite of pre-trained, ready-to-use services for developers with no prior ML experience. In this post, we demonstrate how to use such services to build an application that fosters the inclusion of people",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-aws-ai-and-ml-services-to-foster-accessibility-and-inclusion-of-people-with-a-visual-or-communication-impairment/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-aws-ai-and-ml-services-to-foster-accessibility-and-inclusion-of-people-with-a-visual-or-communication-impairment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/25/ML-7380-NEW-image1.jpg",
-          "width": 1000,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-10T11:00:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-pentagons-hicks-expects-real-results-from-artificial-intelligence-office.md",
-      "title": "Pentagon’s Hicks expects real results from artificial intelligence office",
-      "excerpt": "The Chief Digital and Artificial Intelligence Office, fully operational this month, needs to produce results and be seen as a “go-to place for talent and technical expertise,” Hicks said June 8 at the Department of Defense’s virtual Digital and AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.c4isrnet.com/artificial-intelligence/2022/06/09/pentagons-hicks-expects-real-results-from-artificial-intelligence-office/",
-      "originalUrl": "https://www.c4isrnet.com/artificial-intelligence/2022/06/09/pentagons-hicks-expects-real-results-from-artificial-intelligence-office/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-10T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C4ISRNET",
-        "domain": "c4isrnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-amd-details-zen-4-epyc-cpu-and-cdna-3-gpu-roadmaps-for-ai-and-data-center-dominance.md",
-      "title": "AMD Details Zen 4 EPYC CPU And CDNA 3 GPU Roadmaps For AI And Data Center Dominance",
-      "excerpt": "At AMD's Financial Analyst Day event, it outlined a bevy of future data products, including Genoa-X, Bergamo, and CDNA 3.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/amd-epyc-genoa-x-siena-cpu-cdna-3-gpu-roadmap-data-center",
-      "originalUrl": "https://hothardware.com/news/amd-epyc-genoa-x-siena-cpu-cdna-3-gpu-roadmap-data-center",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/58803/content/amd-server-data-center-hero.jpg",
-          "width": 718,
-          "height": 481,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/amd-epyc-genoa-x-siena-cpu-cdna-3-gpu-roadmap-data-center",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/amd-epyc-genoa-x-siena-cpu-cdna-3-gpu-roadmap-data-center",
-      "publishedDateTime": "2022-06-10T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update.md",
-      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Update",
-      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) saw a significant growth in short interest during the month of May. As of May 31st, there was short interest totalling 17,",
-      "sourceUrl": null,
-      "webUrl": "https://www.defenseworld.net/2022/06/10/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-3.html",
-      "originalUrl": "https://www.defenseworld.net/2022/06/10/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-10T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Defense World",
-        "domain": "defenseworld.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-how-ai-is-driving-iams-shift-to-digital-identity.md",
-      "title": "How AI is driving IAM’s shift to digital identity",
-      "excerpt": "The IAM industry needs to shift to digital identity, evolving away from legacy constructs to an AI-powered system that's always on.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/10/how-ai-is-driving-iams-shift-to-digital-identity/",
-      "originalUrl": "https://venturebeat.com/2022/06/10/how-ai-is-driving-iams-shift-to-digital-identity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/GettyImages-961645454-e1645559719112.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/10/how-ai-is-driving-iams-shift-to-digital-identity/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/10/how-ai-is-driving-iams-shift-to-digital-identity/amp/",
-      "publishedDateTime": "2022-06-10T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-baidus-jidu-auto-releases-virtual-concept-robocar-as-intelligent-ev-unit-moves-towards-mass-production-in-2023.md",
-      "title": "Baidu’s Jidu Auto releases virtual concept robocar as intelligent EV unit moves towards mass production in 2023",
-      "excerpt": "Baidu-backed EV firm WM applies to list in ... Tesla’s founder Elon Musk recently said that Tesla aims to have self-driving cars, without the need for human intervention, by May 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/06/08/a7880824-98af-4131-80cb-aeb9f88421db_36043c23.jpg?itok=OKP7ptvz&v=1654696184",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit",
-      "publishedDateTime": "2022-06-10T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-give-this-ai-a-few-words-of-description-and-it-produces-a-stunning-image-but-is-it-art.md",
-      "title": "Give this AI a few words of description and it produces a stunning image – but is it art?",
-      "excerpt": "(THE CONVERSATION) A picture may be worth a thousand words, but thanks to an artificial intelligence program called DALL-E 2, you can have a professional-looking image with far fewer. DALL-E 2 is ...",
-      "sourceUrl": null,
-      "webUrl": "https://napavalleyregister.com/lifestyles/technology/give-this-ai-a-few-words-of-description-and-it-produces-a-stunning-image-but/article_398d9fd2-3b6c-5100-9c71-a945663a00f7.html",
-      "originalUrl": "https://napavalleyregister.com/lifestyles/technology/give-this-ai-a-few-words-of-description-and-it-produces-a-stunning-image-but/article_398d9fd2-3b6c-5100-9c71-a945663a00f7.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/content/tncms/custom/image/f675bdee-c549-11ea-98b6-631770e8cea7.jpg?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-10T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Napa Valley Register",
-        "domain": "napavalleyregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-hyundai-pilots-driverless-car-hailing-service-in-south-korea.md",
-      "title": "Hyundai pilots driverless car-hailing service in South Korea",
-      "excerpt": "The ride-hailing service will use the auto maker’s IONIQ 5 battery electric vehicles, launched last year, and will be equipped with its in-house developed level 4 autonomous driving technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/hyundai-pilots-driverless-car-hailing-service-in-south-korea/article65514993.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/hyundai-pilots-driverless-car-hailing-service-in-south-korea/article65514993.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/incoming/oex5ik/article65514944.ece/alternates/LANDSCAPE_615/Photo.4.jpg",
-          "width": 615,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/hyundai-pilots-driverless-car-hailing-service-in-south-korea/article65514993.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/hyundai-pilots-driverless-car-hailing-service-in-south-korea/article65514993.ece/amp/",
-      "publishedDateTime": "2022-06-10T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-global-healthcare-artificial-intelligence-market.md",
-      "title": "Global Healthcare Artificial Intelligence Market...",
-      "excerpt": "Dublin, June 10, 2022 (GLOBE NEWSWIRE) -- The \"Global Healthcare Artificial Intelligence Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This report examines the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/g27643706/global-healthcare-artificial-intelligence-market-analysis-report-2022-with-use-cases-from-clara-ma",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27643706/global-healthcare-artificial-intelligence-market-analysis-report-2022-with-use-cases-from-clara-ma",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27643706",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27643706",
-      "publishedDateTime": "2022-06-10T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

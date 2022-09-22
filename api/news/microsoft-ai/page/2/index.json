@@ -2,6 +2,85 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-13-these-9-gurus-all-bought-microsoft.md",
+      "title": "These 9 Gurus All Bought Microsoft",
+      "excerpt": "At Holdings Channel, we have reviewed 6,722 13F filings for the 06/30/2022 reporting period, and noticed that Microsoft Corporation (Symbol: MSFT) was held by 9 of the particular managers we have flagged as \"titans\" most widely followed by investors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/these-9-gurus-all-bought-microsoft",
+      "originalUrl": "https://www.nasdaq.com/articles/these-9-gurus-all-bought-microsoft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story.md",
+      "title": "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story",
+      "excerpt": "New Jersey, NJ -- (SBWIRE) -- 09/13/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ...",
+      "sourceUrl": null,
+      "webUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-54",
+      "originalUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-54",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insurancenewsnet.com",
+        "domain": "insurancenewsnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-13-older-adults-with-regular-activity-routines-are-happier-and-do-better-on-cognitive-tests-study-finds.md",
       "title": "Older adults with regular activity routines are happier and do better on cognitive tests, study finds",
       "excerpt": "PITTSBURGH, Sept. 13, 2022 — Older adults who consistently get up early and remain active throughout the day are happier and perform better on cognitive tests than those with irregular activity ...",
@@ -1223,83 +1302,6 @@
       "provider": {
         "name": "Zawya",
         "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-sleep-warning-snorers-at-increased-risk-of-cancer-and-cognitive-decline-warns-study.md",
-      "title": "Sleep warning: Snorers at increased risk of cancer and cognitive decline, warns study",
-      "excerpt": "Study author Dr Nicola Marchi said: “We found that obstructive sleep apnoea, and in particular low oxygen levels during sleep, was associated with a greater decline in cognitive function ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mirror.co.uk/news/health/sleep-warning-snorers-increased-risk-27918136",
-      "originalUrl": "https://www.mirror.co.uk/news/health/sleep-warning-snorers-increased-risk-27918136",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.mirror.co.uk/incoming/article27742269.ece/ALTERNATES/s1200/2_GettyImages-184393692.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mirror.co.uk/news/health/sleep-warning-snorers-increased-risk-27918136.amp",
-      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/health/sleep-warning-snorers-increased-risk-27918136.amp",
-      "publishedDateTime": "2022-09-06T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Mirror",
-        "domain": "mirror.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-taiwan-leader-cites-threat-of-chinese-cognitive-warfare.md",
-      "title": "Taiwan leader cites threat of Chinese ‘cognitive warfare’",
-      "excerpt": "HENGCHUN, Taiwan (AP) — Taiwanese President Tsai Ing-wen said Tuesday that China is conducting “cognitive warfare” by spreading misinformation in addition to its regular incursions into ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/nation-world/taiwan-leader-cites-threat-of-chinese-cognitive-warfare/",
-      "originalUrl": "https://www.seattletimes.com/nation-world/taiwan-leader-cites-threat-of-chinese-cognitive-warfare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/nation-world/taiwan-leader-cites-threat-of-chinese-cognitive-warfare/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/taiwan-leader-cites-threat-of-chinese-cognitive-warfare/?amp=1",
-      "publishedDateTime": "2022-09-06T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
         "images": null,
         "publishers": null,
         "authors": null

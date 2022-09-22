@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-22T18:54:00Z
 originalUrl: "https://www.massdevice.com/8-more-surgical-robotics-companies-2022/"
 webUrl: "https://www.massdevice.com/8-more-surgical-robotics-companies-2022/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: MassDevice

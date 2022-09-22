@@ -2,6 +2,92 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-06-06-bumrungrad-launches-radiology-ai-assisting-radiologists-in-analyzing-locating-abnormalities-in-the-lungs-and-detecting-breast-cancer.md",
+      "title": "Bumrungrad launches Radiology AI--assisting radiologists in analyzing & locating abnormalities in the lungs and detecting breast cancer.",
+      "excerpt": "At present, Artificial intelligence (AI) has attracted global interest because it can analyze large amounts of data to revolutionize businesses and industries, especially in the medical sciences. Further,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ryt9.com/en/prg/258881",
+      "originalUrl": "https://www.ryt9.com/en/prg/258881",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ryt9.com/img/files/20220606/iqd2f93359617c9fd89d7e6628834b8968.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-05T19:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RYT9",
+        "domain": "ryt9.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-gut-bacterial-metabolite-promotes-neural-cell-death-leading-to-cognitive-decline.md",
+      "title": "Gut bacterial metabolite promotes neural cell death leading to cognitive decline",
+      "excerpt": "In their paper published in the journal Cell Host & Microbe, the group describes their study of the metabolite isoamylamine (IAA) and its impact on cognitive decline. Prior research has suggested ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/gut-bacterial-metaboli.jpg",
+          "width": 996,
+          "height": 996,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.amp",
+      "publishedDateTime": "2022-06-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-06-plasma-nfl-linked-with-cognitive-processing-speed-in-relapsing-ms.md",
       "title": "Plasma NfL Linked With Cognitive Processing Speed in Relapsing MS",
       "excerpt": "Plasma neurofilament light (NfL) concentration was tied to cognitive scores in people with relapsing MS, data from the phase III SUNBEAM trial of ozanimod (Zeposia) suggested. A post hoc analysis ...",
@@ -1195,74 +1281,6 @@
         "Microsoft AI",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-signal-detection-theory-may-serve-as-a-novel-tool-to-understand-cognitive-fatigue-in-ms-patients.md",
-      "title": "Signal detection theory may serve as a novel tool to understand cognitive fatigue in MS patients",
-      "excerpt": "These findings were reported in Frontiers in Behavioral Neuroscience on March 16, 2022, in the open access article \"Signal Detection Theory as a Novel Tool to Understand Cognitive Fatigue in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220531/Signal-detection-theory-may-serve-as-a-novel-tool-to-understand-cognitive-fatigue-in-MS-patients.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220531/Signal-detection-theory-may-serve-as-a-novel-tool-to-understand-cognitive-fatigue-in-MS-patients.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-seniors-should-pick-a-financial-ally-before-cognitive-decline-hits-heres-how.md",
-      "title": "Seniors Should Pick a Financial Ally Before Cognitive Decline Hits. Here’s How.",
-      "excerpt": "Seniors often wait too long to simplify their finances, communicate financial goals, and eventually sign a power-of-attorney document that names someone to manage their money if they’re no ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/retirement-cognitive-decline-51653667597",
-      "originalUrl": "https://www.barrons.com/articles/retirement-cognitive-decline-51653667597",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-30T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

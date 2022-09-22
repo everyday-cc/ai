@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-27-artist-ai-weiwei-warns-against-hubris-in-troublesome-times.md",
+      "title": "Artist Ai Weiwei warns against hubris in 'troublesome times'",
+      "excerpt": "Chinese dissident and artist Ai Weiwei lampoons the surveillance state and social media with his first glass sculpture, made on the Venetian island of Murano.",
+      "sourceUrl": null,
+      "webUrl": "https://www.local10.com/entertainment/2022/08/26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times/",
+      "originalUrl": "https://www.local10.com/entertainment/2022/08/26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/QV54AUTTBVAWLF2YBJMD6IRINQ.jpg?_a=ATAK9fe0",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.local10.com/entertainment/2022/08/26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-local10-com.cdn.ampproject.org/c/s/www.local10.com/entertainment/2022/08/26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times/?outputType=amp",
+      "publishedDateTime": "2022-08-26T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WPLG",
+        "domain": "local10.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-26-microsoft-and-bytedance-are-collaborating-on-a-big-ai-project-even-as-us-china-rivalry-heats-up.md",
+      "title": "Microsoft and ByteDance are collaborating on a big AI project, even as US-China rivalry heats up",
+      "excerpt": "Microsoft and TikTok parent ByteDance are working together on a software project intended to help companies more efficiently run AI apps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/08/26/microsoft-tiktok-parent-bytedance-collaborate-on-ai-project-kuberay.html",
+      "originalUrl": "https://www.cnbc.com/2022/08/26/microsoft-tiktok-parent-bytedance-collaborate-on-ai-project-kuberay.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106712070-16007759162020-09-22t013536z_1430815479_rc2d3j9nics6_rtrmadp_0_usa-tiktok-china.jpeg?v=1600775963",
+          "width": 3500,
+          "height": 2333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/08/26/microsoft-tiktok-parent-bytedance-collaborate-on-ai-project-kuberay.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/08/26/microsoft-tiktok-parent-bytedance-collaborate-on-ai-project-kuberay.html",
+      "publishedDateTime": "2022-08-26T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-26-fn-meka-the-racist-ai-rapper-is-a-symptom-of-a-bigger-problem.md",
       "title": "FN Meka, the racist AI 'rapper,' is a symptom of a bigger problem",
       "excerpt": "Capitol Records ended its record deal with a stereotypical 'rapper' that rhymes in the digital world. The controversy showed a major pitfall of AI.",
@@ -1339,110 +1435,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot.md",
-      "title": "Facebook Parent Meta Wants You to Converse With Its New AI-Powered Chatbot",
-      "excerpt": "Sitting in front of a computer screen, I'm typing messages to a new chatbot created by Facebook's parent company Meta. We talk about pizza, politics and even social media. \"What do you think about Facebook?",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/social-media/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/",
-      "originalUrl": "https://www.cnet.com/news/social-media/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 277,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/3abc51f996503ec0faa83f567236fed169e31f5c/2022/05/16/06eca44f-31a2-4125-bb40-44bdda74f935/meta-with-facebook-emoji-reaction-faces-blue.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/",
-      "publishedDateTime": "2022-08-05T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-meta-is-putting-its-latest-ai-chatbot-on-the-web-for-the-public-to-talk-to.md",
-      "title": "Meta is putting its latest AI chatbot on the web for the public to talk to",
-      "excerpt": "Crucially, says Mary Williamson, a research engineering manager at Facebook AI Research (FAIR), while Tay was designed to learn in real time from user interactions, BlenderBot is a static model.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/8/5/23293281/meta-ai-chatbot-blenderbot-3-web-access-research-safety",
-      "originalUrl": "https://www.theverge.com/2022/8/5/23293281/meta-ai-chatbot-blenderbot-3-web-access-research-safety",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/_wZV6QhjvS43T94AxGKXf0cp5i4=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22977156/acastro_211101_1777_meta_0002.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-05T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

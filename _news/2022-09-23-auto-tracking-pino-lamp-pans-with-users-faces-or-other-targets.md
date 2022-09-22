@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-22T18:13:00Z
 originalUrl: "https://newatlas.com/around-the-home/pino-lamp-tracks-targets/"
 webUrl: "https://newatlas.com/around-the-home/pino-lamp-tracks-targets/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: New Atlas

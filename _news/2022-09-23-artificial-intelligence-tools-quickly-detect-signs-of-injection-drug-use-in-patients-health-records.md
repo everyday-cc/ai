@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-22T17:27:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/09/220921210130.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/09/220921210130.htm"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 

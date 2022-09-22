@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/parallel-data-proces
 webUrl: "https://aws.amazon.com/blogs/machine-learning/parallel-data-processing-with-rstudio-on-amazon-sagemaker/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -85,6 +85,15 @@ related:
         width: 1550
         height: 772
         isCached: true
+  - title: "Salesforce Genie brings data sharing to Amazon SageMaker and Einstein"
+    excerpt: "The Genie announcement will likely lead to similar partnerships, as other companies look to take advantage of Salesforce data in their workflows."
+    publishedDateTime: 2022-09-21T21:37:00Z
+    webUrl: "https://techcrunch.com/2022/09/21/salesforce-genie-brings-data-sharing-to-amazon-sagemaker-and-einstein/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 49
 
 secured: "CmpNyZ8pEmKSjVztOTrouatxjdpQwiXnXNAQ1w5+5nmMoRpwnyW2LPeXTFxki7hzjCPbSGY+4xHEiX3B+Z03pHXPLfYICTwq3L9i/Jvdt/y+Vp7YOY5ElgIcyGZbINewSYaa3X5QbrJ0RAdnx4GbuXs0Q55XNBwPuQZeP0fSIrXRcAoaQEY+LE2BoVFGWkWGDxTXgwpZKMObuVoMTJ59H4Osjy6QKnk8AiFy3agP5DiI3SMYTYeV9lB+snHUcx4CfIAoY3+d0RqB2io0wDSl3FyUQ0xGbMlaCsI7oBEZto+IJ/TAlUSxeBGmR/XvV0EwHBnxGqNNbOOEicAlzXryoEVK27tESiDkNsDaVR/k9sI=;HuEzXmwx/0I0oMzXRIkQYA=="
 ---

@@ -2,6 +2,136 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-07-12-ai-goes-multilingual-with-hugging-faces-bloom.md",
+      "title": "AI goes multilingual with Hugging Face’s BLOOM",
+      "excerpt": "Hugging Face's Teven Le Scao says the BLOOM large language model \"supports 46 human languages and 13 programming languages.\"",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/12/ai-goes-multilingual-with-hugging-faces-bloom-large-language-model/",
+      "originalUrl": "https://venturebeat.com/2022/07/12/ai-goes-multilingual-with-hugging-faces-bloom-large-language-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1226941220_multilingual_computer-e1657589130957.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/12/ai-goes-multilingual-with-hugging-faces-bloom-large-language-model/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/12/ai-goes-multilingual-with-hugging-faces-bloom-large-language-model/amp/",
+      "publishedDateTime": "2022-07-12T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-universal-electronics-to-launch-new-voice-remotes-for-rdk-platform-at-rdk-tech-summit.md",
+      "title": "Universal Electronics to Launch New Voice Remotes for RDK Platform at RDK Tech Summit",
+      "excerpt": "(UEI) (NASDAQ:UEIC), the world leader in universal control technology for entertainment and smart home, at the 2022 RDK Tech Summit has announced the release of two new voice remotes for RDK. RDK is one of the leading broadband and pay-tv platforms for the cable industry,",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/universal-electronics-to-launch-new-voice-remotes-for-rdk-platform-at-rdk-tech-summit/article_0d0a76c6-e072-5cf0-a3fa-a07ec3b22d3d.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/universal-electronics-to-launch-new-voice-remotes-for-rdk-platform-at-rdk-tech-summit/article_0d0a76c6-e072-5cf0-a3fa-a07ec3b22d3d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T00:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-s2w-presented-a-paper-on-dark-web-language-analysis-at-the-worlds-most-prestigious-natural-language-processing-nlp-conference-naacl.md",
+      "title": "S2W Presented a Paper on Dark Web Language Analysis at the World's Most Prestigious Natural Language Processing (NLP) Conference, NAACL",
+      "excerpt": "Collected and analyzed dark web data to analyze the language used on the dark web and compare it with the language used on the general web to identify linguistic differences Contributed to the promotion of dark web research by creating a model that classifies dark web documents into 10 categories and discloses the learning data used SEOUL,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/12/9637679.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/12/9637679.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1639661/Logo.jpg",
+          "width": 400,
+          "height": 283,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-11-soon-ai-based-mandarin-translation-devices-for-troops-on-lac.md",
       "title": "Soon AI-based mandarin translation devices for troops on LAC",
       "excerpt": "Indian soldiers patrolling on the Line of Actual Control (LAC), when they come face to face with Chinese soldiers, will soon be able to understand Mandarin and reply back instantly, with the help of a 600gm Artificial Intelligence-based device developed by an Indian start-up.",
@@ -1275,145 +1405,6 @@
       "provider": {
         "name": "Digital Journal",
         "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-voice-and-speech-recognition-software-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028.md",
-      "title": "Voice And Speech Recognition Software Market Manufacturers, Suppliers, Vendors Sales, Revenue, Market Share 2022 to 2028",
-      "excerpt": "The \" Voice And Speech Recognition Software Market Research Report \" and Industry Analysis examine the Voice And Speech Recognition Software industry across the globe for the period 2022 to 2028. Important metrics are identified and measured to examine market strategies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028-2022-07-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028-2022-07-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-04T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-afghan-clerics-assembly-urges-recognition-of-taliban-govt.md",
-      "title": "Afghan clerics' assembly urges recognition of Taliban govt",
-      "excerpt": "A three-day assembly of Islamic clerics and tribal elders in Kabul has concluded with pledges of support for the Taliban and calls on the international community to recognize Afghanistan's Taliban-led",
-      "sourceUrl": null,
-      "webUrl": "https://www.kiro7.com/news/world/afghan-clerics/MHDJCUQR4UOFBC6D6PHAE26RQM/",
-      "originalUrl": "https://www.kiro7.com/news/world/afghan-clerics/MHDJCUQR4UOFBC6D6PHAE26RQM/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/Wcx87xW8MAGf289iTJnXeZyWWxs=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/7NKFPNIO6R2AL5OARFNSYMYQVM.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kiro7.com/news/world/afghan-clerics/MHDJCUQR4UOFBC6D6PHAE26RQM/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/world/afghan-clerics/MHDJCUQR4UOFBC6D6PHAE26RQM/?outputType=amp",
-      "publishedDateTime": "2022-07-02T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KIRO-TV",
-        "domain": "kiro7.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-reddit-acquires-natural-language-processing-pioneer-meaningcloud.md",
-      "title": "Reddit Acquires Natural Language Processing Pioneer MeaningCloud",
-      "excerpt": "Reddit has acquired MeaningCloud, a natural language processing company. The acquisition will help Reddit support its machine learning products across its products. The MeaningCloud deal aligns ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessworld.in/article/Reddit-Acquires-Natural-Language-Processing-Pioneer-MeaningCloud/02-07-2022-435178/",
-      "originalUrl": "https://www.businessworld.in/article/Reddit-Acquires-Natural-Language-Processing-Pioneer-MeaningCloud/02-07-2022-435178/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.businessworld.in/article/article_extra_large_image/1656763038_1PqZyi_reddit.png",
-          "width": 512,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-02T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Businessworld",
-        "domain": "businessworld.in",
         "images": null,
         "publishers": null,
         "authors": null

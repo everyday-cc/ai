@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-29-aws-run-rate-hits-historic-79-billion.md",
+      "title": "AWS Run Rate Hits Historic $79 Billion",
+      "excerpt": "CRN breaks down the biggest highlights of AWS’ second quarter financial earnings results unveiled today. Amazon Web Services increased sales by 33 percent in its second quarter to $19.74 billion ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/cloud/aws-run-rate-hits-historic-79-billion",
+      "originalUrl": "https://www.crn.com/news/cloud/aws-run-rate-hits-historic-79-billion",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0272-145c469a1582-b2d7e3cde1bb-1000/aws-sign-2.jpg",
+          "width": 610,
+          "height": 458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-29T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-aws-reinforce-2022s-biggest-announcements.md",
+      "title": "AWS re:Inforce 2022's biggest announcements",
+      "excerpt": "The public cloud global market leader launched a slew of new security products and capabilities along with new partner program investments at AWS re:Inforce. Hundreds of cybersecurity experts ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com.au/news/aws-reinforce-2022s-biggest-announcements-583271",
+      "originalUrl": "https://www.crn.com.au/news/aws-reinforce-2022s-biggest-announcements-583271",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/20220728113211_0_0_0_0_70__News_20190409110209_CRN_14_AWS_stock.jpg",
+          "width": 690,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN Australia",
+        "domain": "crn.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-iron-mountain-insight-saas-platform-extends-capabilities-on-aws.md",
       "title": "Iron Mountain InSight® SaaS Platform Extends Capabilities On AWS",
       "excerpt": "Get 7 Days Free Sign In Sign In Topics",
@@ -1240,101 +1326,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-achieve-enterprise-grade-monitoring-for-your-amazon-sagemaker-models-using-fiddler.md",
-      "title": "Achieve enterprise-grade monitoring for your Amazon SageMaker models using Fiddler",
-      "excerpt": "This is a guest blog post by Danny Brock, Rajeev Govindan and Krishnaram Kenthapadi at Fiddler AI. Your Amazon SageMaker models are live. They’re handling millions of inferences each day and driving better business outcomes for your company. They’re performing exactly as well as the day they were launched.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-enterprise-grade-monitoring-for-your-amazon-sagemaker-models-using-fiddler/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-enterprise-grade-monitoring-for-your-amazon-sagemaker-models-using-fiddler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/06/ML-9510-image001-1222x630.png",
-          "width": 1222,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T14:23:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-build-a-predictive-maintenance-solution-with-amazon-kinesis-aws-glue-and-amazon-sagemaker.md",
-      "title": "Build a predictive maintenance solution with Amazon Kinesis, AWS Glue, and Amazon SageMaker",
-      "excerpt": "Organizations are increasingly building and using machine learning (ML)-powered solutions for a variety of use cases and problems, including predictive maintenance of machine parts, product recommendations based on customer preferences, credit profiling, content moderation, fraud detection, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-predictive-maintenance-solution-with-amazon-kinesis-aws-glue-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-predictive-maintenance-solution-with-amazon-kinesis-aws-glue-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T09:26:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-21T13:04:00Z
 originalUrl: "https://www.thefastmode.com/videos/27651-ai-and-automation-to-power-banking-sector-transformation-spin-analytics-at-dtw-2022"
 webUrl: "https://www.thefastmode.com/videos/27651-ai-and-automation-to-power-banking-sector-transformation-spin-analytics-at-dtw-2022"
 type: article
-quality: 27
+quality: 47
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://www.thefastmode.com/media/k2/items/src/043a9e295a2fd8ba758801a227aad0fd.jpg?t=20220921_124815"
+    width: 753
+    height: 408
+    isCached: true
 
 related:
   - title: "HR's Role In People Analytics And AI"
@@ -77,6 +83,6 @@ related:
       domain: wraltechwire.com
     quality: 17
 
-secured: "IGDb9vvY6aLeWvqyM3qTli3kFGf7b7h+GEYyMBAbl2zV8hYWLck7lipwAzxrgDpbvFu18DVQPKnU/KJpbwiFg7fK9fP6ikyQkMEXlC2mKcUnWgJuz3vFcnDHypl9uikzHlGSgsqbEC26nSOCR/niVfYybMUBaAlm8yBEUG8mNmo3X0hWSTFu3F71fEqh6oTaz+JVWyanslzo9/9Apu6bKB/RRZWpXyRj4fu+nQaFB5ZxyWy9isl071SqwUAYDFEnIX8+Si8j7Vj3SCrjeoc+NrWyT8Z0ixRK/2zHnlEkjy8FsvoFYdlP7WCOor8T+oxoKJD8m1Uvlw4DxPXwODMXh1D3PxZl7SIRo3GDnFhRma0=;vkUnm2ozA4t0887m7VgHXw=="
+secured: "bmURz4KDiaMrs7znjx3JJYPmv2i5l0y3jBq6otn37WL1Bxj56+YoRzl8d3A7UfzX0XBkMtDq3dZSpRD4j9L00fFf55A51t80osX37qyrKpJec6/sk2VeokvIXhk47tYif+MGdlCxk2kLZT4Sx9aS+ecTM+qw+QqoYjx7Flc2Tpfi377Ri6er1Qw8TymPWE/FqTkG+W5OXP6lFrFtfKL4rH53qVlIzlK4ZUeXuD+ndn/YBeKp5B0sBARgl0aZAsG5+P4yiRUlZzuMT2Vr3Zv7n/0G/ci3dpqQoJuHM5eSotMSt7fuqn2e1aqLW0+xXU+xYeLhY3q8u7zWVsk0p40kYNmJf81d3mFEbU5jtT02ASw=;JhKudjTa5YDHG4TEYtjJug=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-07-25-fighting-fires-with-wires-how-drones-robots-and-artificial-intelligence-are-helping-emergency-services-tackle-wildfires-around-the-world-.md",
+      "title": "Fighting fires with wires: How drones, robots and artificial intelligence are helping emergency services tackle wildfires around the world - as blazes continue to break out ...",
+      "excerpt": "Some companies are developing artificial intelligence (AI ... Along with drones, remote control robots are being deployed into burning wildlands to tackle the blaze from the ground.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11045543/How-drones-robots-artificial-intelligence-helping-emergency-services-tackle-wildfires.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11045543/How-drones-robots-artificial-intelligence-helping-emergency-services-tackle-wildfires.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/07/25/15/60670599-0-image-a-68_1658760465219.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-11045543/amp/How-drones-robots-artificial-intelligence-helping-emergency-services-tackle-wildfires.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11045543/amp/How-drones-robots-artificial-intelligence-helping-emergency-services-tackle-wildfires.html",
+      "publishedDateTime": "2022-07-25T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-25-chess-playing-robot-breaks-young-boys-finger-during-match-in-moscow.md",
       "title": "Chess-playing robot breaks young boy's finger during match in Moscow",
       "excerpt": "The incident happened after the 7-year-old hurried the artificial intelligence-powered robot, the president of the Moscow Chess Federation told the Russian state news agency Tass.",
@@ -1383,53 +1426,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-how-artificial-intelligence-ai-affects-business-executives.md",
-      "title": "How artificial intelligence (AI) affects business executives",
-      "excerpt": "As of this writing, AI has not fully taken over jobs just yet. Business leaders must comprehend the influence of artificial intelligence, such as machine",
-      "sourceUrl": null,
-      "webUrl": "https://businessday.ng/research-post/article/how-artificial-intelligence-ai-affects-business-executives/",
-      "originalUrl": "https://businessday.ng/research-post/article/how-artificial-intelligence-ai-affects-business-executives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2021/10/Untitled-design-2021-10-08T114926.978.png?resize=450%2C300&ssl=1",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://businessday.ng/amp/research-post/article/how-artificial-intelligence-ai-affects-business-executives/",
-      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/research-post/article/how-artificial-intelligence-ai-affects-business-executives/",
-      "publishedDateTime": "2022-07-15T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businessday",
-        "domain": "businessday.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "Natural Language Processing",
-        "AI in Healthcare",
-        "IBM AI",
-        "AI in Autos"
       ]
     }
   ],

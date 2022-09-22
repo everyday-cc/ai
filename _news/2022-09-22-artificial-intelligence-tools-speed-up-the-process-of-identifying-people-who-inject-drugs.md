@@ -36,7 +36,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 34
+    quality: 36
   - title: "Artificial intelligence tools quickly detect signs of injection drug use in patients' health records"
     excerpt: "An automated process that combines natural language processing and machine learning identified people who inject drugs (PWID) in electronic health records more quickly and accurately than current methods that rely on manual record reviews."
     publishedDateTime: 2022-09-22T13:27:00Z

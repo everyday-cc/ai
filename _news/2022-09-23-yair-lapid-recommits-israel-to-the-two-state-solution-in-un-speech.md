@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-22T19:05:00Z
 originalUrl: "https://www.jta.org/2022/09/22/israel/yair-lapid-recommits-israel-to-the-two-state-solution-in-un-speech"
 webUrl: "https://www.jta.org/2022/09/22/israel/yair-lapid-recommits-israel-to-the-two-state-solution-in-un-speech"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Jewish Telegraphic Agency

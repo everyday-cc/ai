@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-22T18:19:00Z
 originalUrl: "https://www.bizjournals.com/louisville/inno/stories/news/2022/09/22/robots-tandoori-fusion.html"
 webUrl: "https://www.bizjournals.com/louisville/inno/stories/news/2022/09/22/robots-tandoori-fusion.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Business Journals

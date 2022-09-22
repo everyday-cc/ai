@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-22T19:30:00Z
 originalUrl: "https://tucson.com/news/local/business/a-new-self-driving-car-developer-is-setting-up-shop-in-tucson/article_6e3c25fa-3a98-11ed-806e-f713fec8a6a3.html"
 webUrl: "https://tucson.com/news/local/business/a-new-self-driving-car-developer-is-setting-up-shop-in-tucson/article_6e3c25fa-3a98-11ed-806e-f713fec8a6a3.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Arizona Daily Star

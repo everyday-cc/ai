@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "AI and Automation to Power Banking Sector Transformation: SPIN Analytics at DTW 2022"
+    excerpt: "In conjunction with the ongoing Digital Transformation World (DTW) 2022, Ariana Lynn, Senior Editor at The Fast Mode spoke to Panos Skliamis, CEO and Founder of SPIN Analytics."
+    publishedDateTime: 2022-09-21T13:04:00Z
+    webUrl: "https://www.thefastmode.com/videos/27651-ai-and-automation-to-power-banking-sector-transformation-spin-analytics-at-dtw-2022"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 47
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/043a9e295a2fd8ba758801a227aad0fd.jpg?t=20220921_124815"
+        width: 753
+        height: 408
+        isCached: true
   - title: "Predictive Analytics Market – Future Plans and Industry Growth with Quantitative and Qualitative Analysis"
     excerpt: "The Predictive Analytics Market revenues were estimated at US$ 10.5 Bn in 2021 and is anticipated to grow at a CAGR"
     publishedDateTime: 2022-09-19T08:55:00Z
@@ -49,15 +63,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI and Automation to Power Banking Sector Transformation: SPIN Analytics at DTW 2022"
-    excerpt: "In conjunction with the ongoing Digital Transformation World (DTW) 2022, Ariana Lynn, Senior Editor at The Fast Mode spoke to Panos Skliamis, CEO and Founder of SPIN Analytics."
-    publishedDateTime: 2022-09-21T13:04:00Z
-    webUrl: "https://www.thefastmode.com/videos/27651-ai-and-automation-to-power-banking-sector-transformation-spin-analytics-at-dtw-2022"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 27
   - title: "See the exclusive 22-slide pitch deck that AI company 4M Analytics used to raise $45 million in Series A funding"
     excerpt: "The startup raised over $45 million from investors including Insight Partners, ITI Venture Capital Partners, Viola Ventures and F2 Venture Capital."
     publishedDateTime: 2022-09-20T13:40:00Z

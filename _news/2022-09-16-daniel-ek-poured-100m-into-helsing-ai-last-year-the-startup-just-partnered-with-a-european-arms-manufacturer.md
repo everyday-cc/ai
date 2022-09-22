@@ -3,12 +3,9 @@ category: news
 title: "Daniel Ek poured €100m into Helsing AI last year. The startup just partnered with a European arms manufacturer"
 excerpt: "Spotify Founder Daniel Ek pledged a personal commitment of €1 billion over the next decade to invest in European technology companies. Ek referred to these companies – operating in fields from machine learning to biotechnology,"
 publishedDateTime: 2022-09-16T14:25:00Z
-originalUrl: "https://www.musicbusinessworldwide.com/daniel-ek-poured-e100m-into-helsing-ai-last-year-the-startup-just-partnered-with-a-european-arms-manufacturer1/"
-webUrl: "https://www.musicbusinessworldwide.com/daniel-ek-poured-e100m-into-helsing-ai-last-year-the-startup-just-partnered-with-a-european-arms-manufacturer1/"
+originalUrl: "https://www.musicbusinessworldwide.com/daniel-ek-poured-e100m-into-helsing-ai-last-year-the-startup-just-partnered-with-a-european-arms-manufacturer12/"
+webUrl: "https://www.musicbusinessworldwide.com/daniel-ek-poured-e100m-into-helsing-ai-last-year-the-startup-just-partnered-with-a-european-arms-manufacturer12/"
 type: article
-quality: 17
-heat: -1
-published: false
 
 provider:
   name: Spotify
@@ -23,17 +20,6 @@ images:
     height: 650
     isCached: true
 
-related:
-  - title: "The European automobile industry is going quantum"
-    excerpt: "There are few better marriages in technology than the one between European car manufacturers and their local quantum computing startups."
-    publishedDateTime: 2022-09-19T19:40:00Z
-    webUrl: "https://thenextweb.com/news/european-automobile-industry-is-going-quantum"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 34
-
-secured: "WnJ9OewRfZTVh2aVtV/YoOyP78u9wzSWwmWqw8xfQe9Yiy5t69YHDYPi5ji0XLi06w51ZsEkQlN7Y2gzPyMJEsY+vpmRsJnGnAww34yh7mKkYVIIGNNvR+KBdzRK4Uw63Dpo1IDBUtFiLXt28hU36MGhWs9PLQqOoeAznkpBtBRmMfkVZrDT2IYU2PdR7vzmdlSKF1eO0hJ0m+COm81CW4PAkuT3kbf4NwBPiJbe6+Hg0qFj2spXogOyVV82/xQvSA3deONeRAkiBjV4MOqDw8A33SFY2WibcIndJjYBRsRWR2e1W0DguwwbkKMnUzXFlZ6GDMVlKx8IN6XsLHPZrMsbbZnHi7VNLDIsg5Tg3r9Z/uxN2cGuAlM9ot2JmnhRPpsC7PdI5Bb6KwxlxxTZb66rteJ2z/lZ+Z1dzK2pPkiDMXrTFG2YVFUth1pHzAxxGrmUChYdTvY2Sg+FdoiXdGYNKnLpLpz/eF/05eQEwGBFqYkzbeUnK7vkihkQxvtTHZP+dGFZcnXorE2GysM1aw==;uP/H7Qj/uqeMNXdhdTaxrg=="
+secured: "1TcwE5fOYA2RIzQmHucNr9RqRs3bIvEyP2wQrgy+A1NrpWUhoGWg0rmSmhyQZwErvfus7Hup0/ZHs2JYn2bcCfpRrnigo7dEqGzIENdBISZLcjYzm6h5sHTAtO8K2fOIL+WKLohm14LTXe7iN/Bmc+AuPGXk5zN6cYLlN760MoTlU/LuRX3h5+iDa1bSZ4KqMhQyj4KNGXbz3TIlRF+8RSqRNPEaUYNldMGsP8zC0Q8toxbt52zaY0J3+JrJprMhCn2aUD/tcsZ2SV1kPTpr3LgRo1OjTPmgw+xuopjZcsHL0I+erYB4JRSdZF+yWqv2hGCC543ZPi96nULdWm65OXkcvQ1kvjqu6Am0UvLqGVM=;Ja7kTSzHlgDEL3eCk/FQbw=="
 ---
 

@@ -56,6 +56,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 63
+  - title: "GM Is Doubling Down on Self-Driving Cars With LiDAR"
+    excerpt: "General Motors is making self-driving cars. It's investing heavily in LiDAR - the tech that could become a $15 billion industry within 10 years."
+    publishedDateTime: 2022-09-22T20:30:00Z
+    webUrl: "https://banyanhill.com/gm-doubling-down-self-driving-cars-lidar/"
+    ampWebUrl: "https://banyanhill.com/gm-doubling-down-self-driving-cars-lidar/amp/"
+    cdnAmpWebUrl: "https://banyanhill-com.cdn.ampproject.org/c/s/banyanhill.com/gm-doubling-down-self-driving-cars-lidar/amp/"
+    type: article
+    provider:
+      name: Banyan Hill Publishing
+      domain: banyanhill.com
+    quality: 44
+    images:
+      - url: "https://cdn.banyanhill.com/wp-content/uploads/2022/09/22153853/Self-Driving-Car-with-LiDAR-Tech-scaled.jpg"
+        width: 2560
+        height: 1920
+        isCached: true
   - title: "Is the quest for driverless trucking in it for the long haul?"
     excerpt: "Waymo, often seen as the leader in driverless technology ... In many ways, trucks are a more viable focal point for the development of the artificial intelligence needed for fully autonomous driving. Long-haul vehicles travel on long, monotonous highways ..."
     publishedDateTime: 2022-09-21T16:54:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-22T17:52:00Z
 originalUrl: "https://venturebeat.com/ai/will-ai-inspire-a-new-mm-how-artificial-intelligence-is-reshaping-mars/"
 webUrl: "https://venturebeat.com/ai/will-ai-inspire-a-new-mm-how-artificial-intelligence-is-reshaping-mars/"
 type: article
+quality: 63
+heat: 63
+published: false
 
 provider:
   name: VentureBeat

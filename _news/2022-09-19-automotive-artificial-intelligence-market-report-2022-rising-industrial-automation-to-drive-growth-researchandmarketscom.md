@@ -32,22 +32,6 @@ related:
         width: 1186
         height: 641
         isCached: true
-  - title: "Emotion Detection and Recognition Market is Poised to Reach USD 53.2 Billion at a 39.20% CAGR by 2030 - Report by Market Research Future (MRFR)"
-    excerpt: "According to a comprehensive research report by Market Research Future (MRFR), \"Emotion Detection and Recognition Market, By Technology, Software Tool, Service,"
-    publishedDateTime: 2022-09-21T14:11:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28949366/emotion-detection-and-recognition-market-is-poised-to-reach-usd-53-2-billion-at-a-39-20-cagr-by-20"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28949366"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28949366"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 8
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg"
-        width: 700
-        height: 300
-        isCached: true
   - title: "Sales Intelligence Software Market is Expected to Escalate at a CAGR of 10.4% from 2022 to 2032 | FMI"
     excerpt: "The sales intelligence software market is expected to grow at a CAGR of 10.4% between 2022 and 2032, from USD 3.1 billion to USD 8.4 billion. Because of increased investments by various companies in emerging technologies such as AI and machine learning,"
     publishedDateTime: 2022-09-21T13:39:00Z
@@ -57,20 +41,6 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 4
-  - title: "Emotion Detection And Recognition Market Is Poised To Reach USD 53.2 Billion At A 39.20% CAGR By 2030 - Report By Market Research Future (MRFR)"
-    excerpt: "The increasing adoption of emotion detection and recognition in the automotive industry will boost market growth over the forecast period. Technologies for emotion recognition and detection are in high demand in the automotive sector."
-    publishedDateTime: 2022-09-21T20:05:00Z
-    webUrl: "https://menafn.com/1104902503/Emotion-Detection-And-Recognition-Market-Is-Poised-To-Reach-USD-532-Billion-At-A-3920-CAGR-By-2030-Report-By-Market-Research-Future-MRFR"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?401019"
-        width: 428
-        height: 250
-        isCached: true
 
 secured: "X1UOz4A6NMqSN4nGI95G0vnbxa80euL5rKwLqBebwRW+zYYiHLZniuYb95I4q75o+jfpDiimaN1yf5OK3dOvLeOtcFcQUoZq+ba5OZr7ABY/DSWx7dlqyDCKvsjeKJghtT5rnD4FtyJIEz2mNVo2KC3LJl41vG1+T0hFsrNo0ingROiswxam4tcbt1I3bEBuPXBLTdICgXa2PCqfFogQC04oBYODxVKil6rDxL2LQ5/ed6367JwfgQtLXH7+kcHnq2J6MTJvFODybzeD7URVyEPJtZHtuFcw1nj8822OHygelyx0Tl5rwzVi7M2vKmuhD8H7kMkbTfgpvyU/C0wyKFYPUH0P8fiTuHGvCbMuEjU=;ZwBiuATxuKtJN5JNpGNnwQ=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-22T16:03:00Z
 originalUrl: "https://techcrunch.com/sponsor/aws/building-faster-bigger-smarter/"
 webUrl: "https://techcrunch.com/sponsor/aws/building-faster-bigger-smarter/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: TechCrunch

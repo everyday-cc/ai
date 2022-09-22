@@ -3,9 +3,12 @@ category: news
 title: "AlphaFold Developers Win $3-Million Breakthrough Prize in Life Sciences"
 excerpt: "DeepMind’s system for predicting the 3D structure of proteins is among five recipients of science’s most lucrative awards"
 publishedDateTime: 2022-09-22T17:18:00Z
-originalUrl: "https://www.scientificamerican.com/article/alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences/?ref=upstract.com&curator=upstract.com"
-webUrl: "https://www.scientificamerican.com/article/alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences/?ref=upstract.com&curator=upstract.com"
+originalUrl: "https://www.scientificamerican.com/article/alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences/"
+webUrl: "https://www.scientificamerican.com/article/alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences/"
 type: article
+quality: 24
+heat: -1
+published: false
 
 provider:
   name: Scientific American
@@ -15,6 +18,37 @@ topics:
   - Google AI
   - AI
 
-secured: "Tf4mmFWZVi6LtBnwEDrmAV2tKdN52Vopg4q2C6b6xLNiG6MrwYco27wLg0WRQpomTWHP6q0maZtsr5YYqXuajh3irKdZYLfXJAMbgbYLow+/SiwMA2PktZ/tqnPgb0ZFRDCu6RSalgDFH/e7FHf6rRJ7VRPclK7eOQuAFyhxL7UIpU9MZZbBbbCtR7SE6i9SL1gQ3B2gsJ9JjM/xfYzqHOeyPttD62BFlNlp+zWOs96SRtivRMCzz8QAcWcTIi1AsBNVJ93ABkAjCvu6Icc1bwc4uN/LGmuXPBcoIf2877gq7X1aQrQ2nnomkZ/CnV10LJJp1c5JdGAucEGEp1VYp7wt0jy08PWEEwdArG+p9wXm+Q6uaU2bGN6Iy/O6tPIhPbq5aAn3G9I1d7s4B63Raltgq8bk0jsPda3M3ULKU1sn6inLZoYswYy5IJGDARE5ej/BduGGiSsnsto6tvm0TQimMYXe75WvfwfHJc6xGsv+d4L7N0NAFNZQROsG5A5cM73sg/1gvcbHRMcTvjHKag==;PTQz/50R6QGX4+eJc3k0bQ=="
+images:
+  - url: "https://static.scientificamerican.com/sciam/cache/file/085A9374-BDE5-4A53-A29DFCB280352F20.png"
+    width: 790
+    height: 496
+    isCached: true
+
+related:
+  - title: "DeepMind scientists win $3 million 'Breakthrough Prize' for AI that predicts every protein's structure"
+    excerpt: "Scientists from Google DeepMind have been awarded a $3 million prize for developing an artificial intelligence (AI) system that has predicted how nearly every known protein folds into its 3D shape. One of this year's Breakthrough Prizes in Life Sciences went to Demis Hassabis,"
+    publishedDateTime: 2022-09-22T19:47:00Z
+    webUrl: "https://www.livescience.com/alphafold-wins-breakthrough-prize"
+    type: article
+    provider:
+      name: Live Science
+      domain: livescience.com
+    quality: 38
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ZgoKCp6Q6s2iZUd9PQNz5Z-1200-80.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "AlphaFold developers win US$3-million Breakthrough Prize"
+    excerpt: "DeepMind’s system for predicting the 3D structure of proteins is among five recipients of science’s most lucrative awards."
+    publishedDateTime: 2022-09-22T13:20:00Z
+    webUrl: "https://www.nature.com/articles/d41586-022-02999-9"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 4
+
+secured: "eT2dZVakQ/S1Ndyr4Pk84CvEE/2Cf4cyeJGGbriN95eXCUMb+V2MfbyMRRwznNB1VsdhArvvIfTomZwpYSnoZk310fkvK1WwBsSq7yWdyRu91XBaxtQRjYfejIencQsXdfn+ZMuSv2NhNIqz/LNVWN23L3ZIdFbLhM7H3jC7+egBQoMCESHJuYE0tx5SUtmX8O8PAIKqom2YT3GtXH3OVZJTGQlIMyq2DK1lN+00tWPZAyJqLZqraLVj+pLV1BKJsuC6CFvm1e+vBxRYK0LTCMsJ4Sy63OlGrISeDXjLSbgr9AX0XmzgZzhBOPsQs+Ucq+a4NWbPwwbL11Rc/K8pUyIydpt4oOlZydUsgzhYe/A=;9JWwVuxZBswFPw+mdijJJQ=="
 ---
 

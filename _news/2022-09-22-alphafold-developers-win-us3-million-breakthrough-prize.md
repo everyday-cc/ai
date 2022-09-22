@@ -19,9 +19,23 @@ topics:
   - AI
 
 related:
+  - title: "DeepMind scientists win $3 million 'Breakthrough Prize' for AI that predicts every protein's structure"
+    excerpt: "Scientists from Google DeepMind have been awarded a $3 million prize for developing an artificial intelligence (AI) system that has predicted how nearly every known protein folds into its 3D shape. One of this year's Breakthrough Prizes in Life Sciences went to Demis Hassabis,"
+    publishedDateTime: 2022-09-22T19:47:00Z
+    webUrl: "https://www.livescience.com/alphafold-wins-breakthrough-prize"
+    type: article
+    provider:
+      name: Live Science
+      domain: livescience.com
+    quality: 38
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ZgoKCp6Q6s2iZUd9PQNz5Z-1200-80.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "AlphaFold Developers Win $3-Million Breakthrough Prize in Life Sciences"
-    excerpt: "Demis Hassabis and John Jumper, both at DeepMind in London, were recognized for creating the tool that has predicted the 3D structures of almost every known protein on the planet. “Few discoveries so dramatically alter a field, so rapidly,” says ..."
-    publishedDateTime: 2022-09-22T17:03:00Z
+    excerpt: "DeepMind’s system for predicting the 3D structure of proteins is among five recipients of science’s most lucrative awards"
+    publishedDateTime: 2022-09-22T17:18:00Z
     webUrl: "https://www.scientificamerican.com/article/alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences/"
     type: article
     provider:

@@ -66,6 +66,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 63
+  - title: "GM Is Doubling Down on Self-Driving Cars With LiDAR"
+    excerpt: "General Motors is making self-driving cars. It's investing heavily in LiDAR - the tech that could become a $15 billion industry within 10 years."
+    publishedDateTime: 2022-09-22T20:30:00Z
+    webUrl: "https://banyanhill.com/gm-doubling-down-self-driving-cars-lidar/"
+    ampWebUrl: "https://banyanhill.com/gm-doubling-down-self-driving-cars-lidar/amp/"
+    cdnAmpWebUrl: "https://banyanhill-com.cdn.ampproject.org/c/s/banyanhill.com/gm-doubling-down-self-driving-cars-lidar/amp/"
+    type: article
+    provider:
+      name: Banyan Hill Publishing
+      domain: banyanhill.com
+    quality: 44
+    images:
+      - url: "https://cdn.banyanhill.com/wp-content/uploads/2022/09/22153853/Self-Driving-Car-with-LiDAR-Tech-scaled.jpg"
+        width: 2560
+        height: 1920
+        isCached: true
 
 secured: "csgUvwhSCSRziP3wIctdBxZhuJLx0MUEFe8TNnWtDp9XFVnhiyWU5oNJcCvEHrzRC6y3eXJ2BIZUCvXTfrodsmTVMwWZ9pIHdxXXeT+RrktFGd8PPjYfp+RzKr0Ke99V/zrRJP5UCKweVs937wHvOzVi6560H50ttb2UuQq9JbjMt3M+btKidM6bY4q/oDqGKSaiqChxc4g77fP2MCPFdiiJjwIavVk+AmKZdvuvlByw7hmjZityr6WE81842AeqG3RqHbvGqpTcSRshhHNXpWp5n2kNAA0+sQRTTCoRDIMQMcryFTPKg8Amn2+nlA62ce5GUpwoVhGOzGP3Ks6kO5vjRsTICVyzzXc0uSw9/Kk=;trgaWx4lBpc1mradCkNrPw=="
 ---

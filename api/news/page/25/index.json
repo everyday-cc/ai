@@ -2,6 +2,559 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2022-08-30-how-self-supervised-learning-may-boost-medical-ai-progress.md",
+      "title": "How self-supervised learning may boost medical AI progress",
+      "excerpt": "Self-supervised learning in healthcare and medicine is growing, thanks to the vast amount of unstructured data available in that industry.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-self-supervised-learning-may-boost-medical-ai-progress/",
+      "originalUrl": "https://venturebeat.com/ai/how-self-supervised-learning-may-boost-medical-ai-progress/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1156616255.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-self-supervised-learning-may-boost-medical-ai-progress/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-self-supervised-learning-may-boost-medical-ai-progress/amp/",
+      "publishedDateTime": "2022-08-30T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-industrys-first-autonomous-spreader-debuts-at-farm-progress-show.md",
+      "title": "Industry's first autonomous spreader debuts at Farm Progress Show",
+      "excerpt": "Case IH and Raven Industries introduce the agriculture industry's first autonomous spreader: the Case IH Trident ™ 5550 applicator with Raven Autonomy ™. Unveiled at Farm Progress Show 2022, this innovative solution delivers on customers' demands for autonomous equipment to help solve labor challenges and increase productivity on their operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-industrys-first-autonomous-spreader-debuts-farm-progress-show-/2022/08/30/9664454.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-industrys-first-autonomous-spreader-debuts-farm-progress-show-/2022/08/30/9664454.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-france-reveals-hidden-swimming-pools-with-ai-taxes-them.md",
+      "title": "France reveals hidden swimming pools with AI, taxes them",
+      "excerpt": "Using an artificial intelligence computer vision system developed by French IT firm Capgemini, the French tax office (often called \"Le Fisc\") has identified 20,356 residential swimming pools that had previously gone undeclared.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/08/france-reveals-hidden-swimming-pools-with-ai-taxes-them/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/08/france-reveals-hidden-swimming-pools-with-ai-taxes-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/french-pool-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-msrcosmos-recognized-as-a-finalist-of-2022-microsoft-sap-on-azure-partner-of-the-year.md",
+      "title": "MSRcosmos recognized as a finalist of 2022 Microsoft SAP on Azure Partner of the Year",
+      "excerpt": "MSRcosmos has been named a finalist of 2022 Microsoft Partner of the Year Awards in the SAP on Azure category. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-msrcosmos-recognized-as-finalist-2022-microsoft-sap-azure-/2022/08/30/9664456.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-msrcosmos-recognized-as-finalist-2022-microsoft-sap-azure-/2022/08/30/9664456.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-ai-robotics-startup-co-founded-by-buet-graduate-raises-20m-series-a-investment.md",
+      "title": "AI robotics startup co-founded by Buet graduate raises $20M series A investment",
+      "excerpt": "an AI-Robotics startup delivering smart robotic automation solutions for tedious and ergonomically challenging tasks, co-founded by Ariyan Kabir-a Buet graduate- has recently raised $20 million as series A investment. The Series A investment round was led ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dhakatribune.com/business/2022/08/30/ai-robotics-startup-co-founded-by-buet-graduate-raises-20m-series-a-investment",
+      "originalUrl": "https://www.dhakatribune.com/business/2022/08/30/ai-robotics-startup-co-founded-by-buet-graduate-raises-20m-series-a-investment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://new-media.dhakatribune.com/en/uploads/watermarked/1661870582278/ai-robotics-startup-co-founded-by-buet-graduate-raises-20m-series-a-investment-r137701.jpeg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dhaka Tribune",
+        "domain": "dhakatribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-baidus-bidu-apollo-go-service-strikes-1-million-ev-autonomous-ride-milestone-in-china.md",
+      "title": "Baidu’s (BIDU) Apollo Go service strikes 1 million EV autonomous ride milestone in China",
+      "excerpt": "Chinese tech giant Baidu (BIDU) beat Wall Street’s Q2 earnings estimates on Tuesday despite several headwinds in China’s economy. Baidu’s Apollo Go, its robotaxi business, unveiled its next-gen autonomous EV,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/08/30/baidus-apollo-go-service-strikes-1-million-ev-autonomous-rides/",
+      "originalUrl": "https://electrek.co/2022/08/30/baidus-apollo-go-service-strikes-1-million-ev-autonomous-rides/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Baidu-Apollo-Go.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/08/30/baidus-apollo-go-service-strikes-1-million-ev-autonomous-rides/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/30/baidus-apollo-go-service-strikes-1-million-ev-autonomous-rides/amp/",
+      "publishedDateTime": "2022-08-30T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-how-tech-can-accelerate-the-future-of-healthcare-and-social-good.md",
+      "title": "How tech can accelerate the future of healthcare and social good",
+      "excerpt": "Tech companies are teaming with independent innovators to solve pressing problems. A study released in the fall of 2020 suggested that the first nine months of the Covid-19 pandemic’s grip on the world spurred a decade’s worth of technological innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/sponsor/oppo/how-tech-can-accelerate-the-future-of-healthcare-and-social-good/",
+      "originalUrl": "https://techcrunch.com/sponsor/oppo/how-tech-can-accelerate-the-future-of-healthcare-and-social-good/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-543351810.jpg?w=599",
+          "width": 599,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-how-advanced-analytics-and-machine-learning-are-transforming-the-role-of-finance-controllers.md",
+      "title": "How advanced analytics and machine learning are transforming the role of ‘Finance Controllers’",
+      "excerpt": "Equipping Financial Controllers with predictive capabilities, advanced analytics and ML will help them elevate their role from providing back-office support to business partnering. The role of a finance controller is changing. It is expected that ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-advanced-analytics-and-machine-learning-are-transforming-the-role-of-finance-controllers/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-advanced-analytics-and-machine-learning-are-transforming-the-role-of-finance-controllers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/anshuman.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-advanced-analytics-and-machine-learning-are-transforming-the-role-of-finance-controllers/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-advanced-analytics-and-machine-learning-are-transforming-the-role-of-finance-controllers/",
+      "publishedDateTime": "2022-08-30T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-artificial-intelligence-based-algorithm-to-be-used-for-reporting-of-lymph-node-status-in-colon-cancer.md",
+      "title": "Artificial intelligence-based algorithm to be used for reporting of lymph node status in colon cancer",
+      "excerpt": "A collaboration between Indica Labs and iCAIRD is looking at the development of an AI-based digital tool to detect cancer within lymph nodes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.labiotech.eu/trends-news/indica-labs-partners-with-icaird-on-ai-based-digital-pathology-solution/",
+      "originalUrl": "https://www.labiotech.eu/trends-news/indica-labs-partners-with-icaird-on-ai-based-digital-pathology-solution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.labiotech.eu/wp-content/uploads/2022/06/shutterstock-artificial-intelligence-.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "the Top 10",
+        "domain": "labiotech.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-industrys-first-autonomous-spreader-debutsat-farm-progress-show.md",
+      "title": "Industry’s first autonomous spreader debutsat Farm Progress Show",
+      "excerpt": "Case IH and Raven Industries introduce the agriculture industry’s first autonomous spreader: the Case IH Trident™",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/industrys-first-autonomous-spreader-debutsat-farm-progress-show-2022-08-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/industrys-first-autonomous-spreader-debutsat-farm-progress-show-2022-08-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-i-have-face-blindness.md",
+      "title": "I Have Face Blindness.",
+      "excerpt": "I Have Face Blindness. This Is How I Recognize You. When you can’t rely on facial recognition, you look beyond the obvious. When you can’t rely on facial recognition, you look beyond the obvious.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/08/30/opinion/face-blindness-prosopagnosia.html",
+      "originalUrl": "https://www.nytimes.com/2022/08/30/opinion/face-blindness-prosopagnosia.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/28/autossell/FACE_BLINDNESS_16x9/FACE_BLINDNESS_16x9-facebookJumbo.png",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/08/30/opinion/face-blindness-prosopagnosia.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/08/30/opinion/face-blindness-prosopagnosia.amp.html",
+      "publishedDateTime": "2022-08-30T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-altavec-uses-aws-ml-for-bushfire-prevention.md",
+      "title": "Altavec uses AWS ML for bushfire prevention",
+      "excerpt": "Altavec has been the trusted partner of Australian utilities for over 20 years. Delivering excellence in geospatial services via advanced geoanalytics, our technology platform empowers best-practice asset management using complex data to provide informed and actionable insights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.spatialsource.com.au/altavec-uses-aws-ml-for-bushfire-prevention/",
+      "originalUrl": "https://www.spatialsource.com.au/altavec-uses-aws-ml-for-bushfire-prevention/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.spatialsource.com.au/wp-content/uploads/2022/08/Altavec_web.jpg",
+          "width": 624,
+          "height": 442,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Spatial Source",
+        "domain": "spatialsource.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-this-mighty-brain-chip-is-so-efficient-it-could-bring-advanced-ai-to-your-phone.md",
       "title": "This Mighty Brain Chip Is So Efficient It Could Bring Advanced AI to Your Phone",
       "excerpt": "The NeuRRAM chip is a powerful neuromorphic computing behemoth with 48 parallel cores and 3 million memory cells.",
@@ -608,542 +1161,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-ageing-can-impact-the-security-of-facial-recognition.md",
-      "title": "Ageing can impact the security of facial recognition",
-      "excerpt": "Facial recognition algorithms can struggle to recognise individuals as the same person after as little as five years. This means that systems that rely on facial recognition may need to obtain new photographs of users on a regular basis or risk being unable to identify them,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/RgeVDvPRYPbMKJN3",
-      "originalUrl": "https://www.itweb.co.za/content/RgeVDvPRYPbMKJN3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/xWYSG2AbERBRwLqbiTZHMrOsueCLWsKZI3GAFCZaiAPRn1qBny7jW-n-U5EL6Sgiw-xz6RkxBVVnwjxpVEDvh4cVcImCrkmRJ3M=w816-h428",
-          "width": 761,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/RgeVDvPRYPbMKJN3",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/RgeVDvPRYPbMKJN3",
-      "publishedDateTime": "2022-08-30T02:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-artificial-intelligence-market-is-expected-to-grow-at-a-cagr-of-26-percent-during-forecast-period-2022-2027.md",
-      "title": "Artificial Intelligence Market is expected to grow at a CAGR of 26 percent during forecast period 2022-2027",
-      "excerpt": "The artificial intelligence market is anticipated to display an elevated CAGR of 26% over the forecast period (2021-2027). The global Artificial intelligence market is expected to witness robust growth mainly due to the rising funding levels and a wide variety of applicability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-is-expected-to-grow-at-a-cagr-of-26-percent-during-forecast-period-2022-2027-2022-08-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-is-expected-to-grow-at-a-cagr-of-26-percent-during-forecast-period-2022-2027-2022-08-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T02:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-baidu-beats-quarterly-revenue-estimates-on-cloud-business-boom.md",
-      "title": "Baidu beats quarterly revenue estimates on cloud business boom",
-      "excerpt": "China's search engine giant Baidu beat quarterly revenue estimates on Tuesday (Aug 30), underpinned by demand for its cloud and artificial intelligence-powered offerings. US-listed shares of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-cloud-business-boom-2909281",
-      "originalUrl": "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-cloud-business-boom-2909281",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://onecms-res.cloudinary.com/image/upload/s--biXDvPGs--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-08-30t090706z_2_lynxmpei7t09t_rtroptp_3_usa-china-audit-investors.jpg?itok=0Es-SEjN",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-baidu-announces-second-quarter-2022-results.md",
-      "title": "Baidu Announces Second Quarter 2022 Results",
-      "excerpt": "Second Quarter 2022 Financial Highlights [1] Operational Highlights Corporate AI Cloud Intelligent Driving Apollo Go, Baidu's autonomous ride-hailing service, continued its solid progress in ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/baidu-announces-second-quarter-2022-results-1031712667",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidu-announces-second-quarter-2022-results-1031712667",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T02:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-i-have-face-blindness-this-is-how-i-recognize-you.md",
-      "title": "I Have Face Blindness. This Is How I Recognize You.",
-      "excerpt": "new video loaded: I Have Face Blindness. This Is How I Recognize You. Advertisement Opinion Video features innovative video journalism commentary — argued essays, Op-Ed videos, documentaries ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/video/opinion/100000008048548/face-blindness-prosopagnosia.html",
-      "originalUrl": "https://www.nytimes.com/video/opinion/100000008048548/face-blindness-prosopagnosia.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/10/28/autossell/FACE_BLINDNESS_16x9/FACE_BLINDNESS_16x9-facebookJumbo.png?video-overlay?video-overlay",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T01:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-elon-musk-aims-to-have-self-driving-teslas-ready-by-year-end-in-the-us.md",
-      "title": "Elon Musk: aims to have self-driving Teslas ready by year-end in the U.S",
-      "excerpt": "Tesla founder Elon Musk said on Monday he aimed to get self-driving Teslas ready by year-end and hopes they could be in wide release in the United States and possibly in Europe, depending on regulatory approval.",
-      "sourceUrl": null,
-      "webUrl": "https://business-reporter.co.uk/technology/elon-musk-aims-to-have-self-driving-teslas-ready-by-year-end-in-the-us-7072",
-      "originalUrl": "https://business-reporter.co.uk/technology/elon-musk-aims-to-have-self-driving-teslas-ready-by-year-end-in-the-us-7072",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/018/2022-08-29T114020Z_2_LYNXMPEI7S0AM_RTROPTP_4_NORWAY-ENERGY.JPG",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T00:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "business-reporter.co.uk",
-        "domain": "business-reporter.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-juniper-research-digital-identity-verification-spend-to-exceed-20-billion-globally-by-2027-as-top-vendors-revealed-in-competitor-leaderboard.md",
-      "title": "Juniper Research: Digital Identity Verification Spend to Exceed $20 Billion Globally by 2027, as Top Vendors Revealed in Competitor Leaderboard",
-      "excerpt": "A new study from Juniper Research has found spend on digital identity verification checks will reach $20.8 billion globally in 2027; up from $11.6 billion in 2022. It predicts this growth will be driven by both the increasing prevalence of digital services requiring digital onboarding journeys,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-juniper-research-digital-identity-verification-spend-exceed-20-/2022/08/30/9663806.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-juniper-research-digital-identity-verification-spend-exceed-20-/2022/08/30/9663806.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T00:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-can-a-metaverse-ai-win-americas-got-talent-and-what-that-means-for-the-industry.md",
-      "title": "Can A Metaverse AI Win America's Got Talent? (And What That Means For The Industry)",
-      "excerpt": "When “Simon Cowell” performed on the America’s Got Talent stage, no one was more shocked than the man himself. How did this happen? In their one-of-a-kind audition, leading AI company Metaphysic transformed singer Daniel Emmet into Cowell and earned a spot in the semifinals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/08/30/can-a-metaverse-ai-win-americas-got-talent-and-what-that-means-for-the-industry/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/08/30/can-a-metaverse-ai-win-americas-got-talent-and-what-that-means-for-the-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/630daea09d4909d48e04b7ea/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 926,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/08/30/can-a-metaverse-ai-win-americas-got-talent-and-what-that-means-for-the-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/08/30/can-a-metaverse-ai-win-americas-got-talent-and-what-that-means-for-the-industry/amp/",
-      "publishedDateTime": "2022-08-29T23:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-nec-recognised-as-one-of-the-top-10-champions-in-ai-ethics-governance-certification.md",
-      "title": "NEC recognised as one of the Top 10 Champions in AI Ethics & Governance Certification",
-      "excerpt": "The SCS is a leading tech society for industry professionals in Singapore, and in 2020, received support from IMDA to develop the world's first AI Ethics Body of Knowledge in anticipation of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/nec-recognised-one-top-10-champions-ai-ethics-governance-certification",
-      "originalUrl": "https://www.asiaone.com/business/nec-recognised-one-top-10-champions-ai-ethics-governance-certification",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T23:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-making-machine-learning-available-to-everyone-story-of-bigml.md",
-      "title": "Making Machine Learning Available to Everyone: Story of BigML",
-      "excerpt": "BigML allows you to build machine learning and deep learning models without the need for any coding. In an exclusive conversation with Analytics India Magazine, Atakan Cetinsoy, vice president, Predictive Applications at BigML, explained, “Our mission ...",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/making-machine-learning-available-to-everyone-story-of-bigml/",
-      "originalUrl": "https://analyticsindiamag.com/making-machine-learning-available-to-everyone-story-of-bigml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/export-BIGML_USERNAMEmy_name-export-BIGML_API_KEY123456789-export-BIGML_AUTHusernameBIGML_USERNAMEapi_keyBIGML_API_KEY.jpg",
-          "width": 2240,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T21:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-speech-and-voice-recognition-market-size-2022-2029-industry-trends-share-growth-swot-analysis-market-drivers.md",
-      "title": "Speech and Voice Recognition Market Size [2022-2029] Industry Trends, Share, Growth, SWOT Analysis, Market Drivers",
-      "excerpt": "The global speech and voice recognition market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 19.8% during the forecast period, to Reach USD 28.3 Billion by 2026, from USD 6.9 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-size-2022-2029-industry-trends-share-growth-swot-analysis-market-drivers",
-      "originalUrl": "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-size-2022-2029-industry-trends-share-growth-swot-analysis-market-drivers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/07/Hackers-Scammers-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-a-huge-chinese-database-of-faces-and-vehicle-license-plates-spilled-online.md",
-      "title": "A huge Chinese database of faces and vehicle license plates spilled online",
-      "excerpt": "While its contents might seem unremarkable for China, where facial recognition is routine and state surveillance is ubiquitous, the sheer size of the exposed database is staggering. At its peak ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/30/china-database-face-recognition/",
-      "originalUrl": "https://techcrunch.com/2022/08/30/china-database-face-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/china-xinai-license-database-expose.jpg?w=1024",
-          "width": 1024,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/30/china-database-face-recognition/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/30/china-database-face-recognition/amp/",
-      "publishedDateTime": "2022-08-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

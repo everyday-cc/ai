@@ -2,6 +2,555 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2022-07-06-sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres.md",
+      "title": "SP Robotics Maker Lab opens app for Franchises; plans to open 100+ centres",
+      "excerpt": "It currently has 50 Maker Labs in 20 cities in India and is looking at franchise Investment starting from INR 5 Lakhs upto 20 Lakhs to own a Maker Lab at your locality",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres-101657102405520.html",
+      "originalUrl": "https://www.hindustantimes.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres-101657102405520.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/07/06/1600x900/png_20220706_153448_0000_1657102775386_1657102784116.png",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres-101657102405520-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres-101657102405520-amp.html",
+      "publishedDateTime": "2022-07-06T03:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-three-ways-industrial-ai-can-unlock-instant-value.md",
+      "title": "Three Ways Industrial AI Can Unlock Instant Value",
+      "excerpt": "As field practitioners in the domain of industrial AI, we've discovered three key monetary constructs that will help show the value of industrial AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/06/three-ways-industrial-ai-can-unlock-instant-value/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/06/three-ways-industrial-ai-can-unlock-instant-value/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62c43e64efebb056e142918d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/06/three-ways-industrial-ai-can-unlock-instant-value/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/06/three-ways-industrial-ai-can-unlock-instant-value/amp/",
+      "publishedDateTime": "2022-07-06T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-2-reasons-you-should-be-extremely-cautious-about-this-hot-new-fintech-spac.md",
+      "title": "2 Reasons You Should Be Extremely Cautious About This Hot New Fintech SPAC",
+      "excerpt": "You may have recently heard of the latest hot new fintech to hit the market after it put its name on the map by partnering with SoFi Technologies in November 2021 and followed that up by partnering with Visa in February 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/2-reasons-you-should-be-extremely-cautious-about-this-hot-new-fintech-spac",
+      "originalUrl": "https://www.nasdaq.com/articles/2-reasons-you-should-be-extremely-cautious-about-this-hot-new-fintech-spac",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/2-reasons-you-should-be-extremely-cautious-about-this-hot-new-fintech-spac?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-reasons-you-should-be-extremely-cautious-about-this-hot-new-fintech-spac?amp",
+      "publishedDateTime": "2022-07-06T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-simon-randall-ceo-of-pimloc-how-could-ethical-ai-influence-data-laws.md",
+      "title": "Simon Randall, CEO of Pimloc: How Could Ethical AI Influence Data Laws?",
+      "excerpt": "To be clear: the term ‘ethical AI’ is used when referencing a very specific type of AI technology. One which has well-defined ethical guidelines and/or codes of conduct, and is based on a set of fundamental values that,",
+      "sourceUrl": null,
+      "webUrl": "https://techround.co.uk/news/simon-randall-ethical-ai/",
+      "originalUrl": "https://techround.co.uk/news/simon-randall-ethical-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techround.co.uk/wp-content/uploads/2022/06/data-collection-web-scraping.jpg",
+          "width": 1280,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techround.co.uk/news/simon-randall-ethical-ai/amp/",
+      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/simon-randall-ethical-ai/amp/",
+      "publishedDateTime": "2022-07-06T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRound",
+        "domain": "techround.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-ai-in-fintech-market-2022-size-share-updated-growth-rate-report.md",
+      "title": "AI in FinTech Market 2022 Size, Share updated Growth Rate Report",
+      "excerpt": "New Jersey, United States – AI in FinTech Market 2022 – 2028, Size, Share, and Trends Analysis Research Report Segmented with Type, Component, Application, Growth Rate, Region, and Forecast ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-2022-size-share-updated-growth-rate-report",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-2022-size-share-updated-growth-rate-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Ukraine-Tank-war-AFP-1K-600x337.jpeg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-xiaomi-12s-ultra-and-12-pro-come-with-elliptic-labs-ai-powered-proximity-sensors.md",
+      "title": "Xiaomi 12S Ultra and 12 Pro come with Elliptic Labs’ AI-powered proximity sensors",
+      "excerpt": "Elliptic Labs, a provider of artificial intelligence (AI) software and virtual smart sensors, debuted “INNER BEAUTY,” AI-powered proximity sensors, on Xiaomi‘s most recent flagship products, the Xiaomi 12S Ultra and Xiaomi 12 Pro.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/07/06/xiaomi-12s-ultra-and-12-pro-come-with-elliptic-labs-ai-powered-proximity-sensors/",
+      "originalUrl": "https://www.gizmochina.com/2022/07/06/xiaomi-12s-ultra-and-12-pro-come-with-elliptic-labs-ai-powered-proximity-sensors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2022/07/Elliptic-Labs-Xiaomi.jpeg",
+          "width": 439,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/07/06/xiaomi-12s-ultra-and-12-pro-come-with-elliptic-labs-ai-powered-proximity-sensors/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/07/06/xiaomi-12s-ultra-and-12-pro-come-with-elliptic-labs-ai-powered-proximity-sensors/?amp=1",
+      "publishedDateTime": "2022-07-05T21:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-ai-chipmaker-rebellions-gets-228m-series-a-extension-from-korean-telco-company-kt.md",
+      "title": "AI chipmaker Rebellions gets $22.8M Series A extension from Korean telco company KT",
+      "excerpt": "South Korean AI chip developer Rebellions has raised a $22.8 million ($30 million) extension to its Series A financing from a strategic investor KT, one of the largest telecom companies in South Korea.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/05/ai-chipmaker-rebellions-gets-22-8m-series-a-extension-from-korean-telco-company-kt/",
+      "originalUrl": "https://techcrunch.com/2022/07/05/ai-chipmaker-rebellions-gets-22-8m-series-a-extension-from-korean-telco-company-kt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2015/06/shutterstock_151456658.jpg?w=1000",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/05/ai-chipmaker-rebellions-gets-22-8m-series-a-extension-from-korean-telco-company-kt/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/05/ai-chipmaker-rebellions-gets-22-8m-series-a-extension-from-korean-telco-company-kt/amp/",
+      "publishedDateTime": "2022-07-05T19:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-ai-robo-doctor-speeds-up-sight-saving-technology.md",
+      "title": "AI Robo-Doctor Speeds Up Sight-Saving Technology",
+      "excerpt": "A humanoid robot has quickened sight-restoring research by finding the best conditions to grow replacement retina layers from human stem cells.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/ai-robo-doctor-speeds-sight-saving-technology-1721980",
+      "originalUrl": "https://www.newsweek.com/ai-robo-doctor-speeds-sight-saving-technology-1721980",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2072140/ai-robo-doctor.jpg",
+          "width": 2000,
+          "height": 1283,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/ai-robo-doctor-speeds-sight-saving-technology-1721980?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ai-robo-doctor-speeds-sight-saving-technology-1721980?amp=1",
+      "publishedDateTime": "2022-07-05T15:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-the-new-asus-rog-phone-6-series-everything-you-need-to-know-and-more.md",
+      "title": "The new ASUS ROG Phone 6 series: Everything you need to know, and more",
+      "excerpt": "To elaborate on some of these specs, the latest flagship Snapdragon 8+ Gen 1 is equipped with a full suite of Snapdragon Elite Gaming features plus an improved Qualcomm Adreno GPU. The camera housing ... an ESS Quad DAC and an AI noise-cancelling ...",
+      "sourceUrl": null,
+      "webUrl": "https://vulcanpost.com/794613/asus-rog-phone-6-series-gaming-price-specs-features-accessories/",
+      "originalUrl": "https://vulcanpost.com/794613/asus-rog-phone-6-series-gaming-price-specs-features-accessories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn01.vulcanpost.com/wp-uploads/2022/07/asus-rog-phone-6-series-001.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://vulcanpost.com/794613/asus-rog-phone-6-series-gaming-price-specs-features-accessories/amp/",
+      "cdnAmpWebUrl": "https://vulcanpost-com.cdn.ampproject.org/c/s/vulcanpost.com/794613/asus-rog-phone-6-series-gaming-price-specs-features-accessories/amp/",
+      "publishedDateTime": "2022-07-05T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vulcan Post",
+        "domain": "vulcanpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-ai-is-calling-the-shots-at-the-2022-fifa-world-cup.md",
+      "title": "AI Is Calling The Shots At The 2022 FIFA World Cup",
+      "excerpt": "FIFA hopes that adding AI can help to eliminate some of the controversial calls that have shaped World Cup matches in years past.",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/917093/ai-is-calling-the-shots-at-the-2022-fifa-world-cup/",
+      "originalUrl": "https://www.slashgear.com/917093/ai-is-calling-the-shots-at-the-2022-fifa-world-cup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/ai-is-calling-the-shots-at-the-2022-fifa-world-cup/l-intro-1657047046.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-05T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-expanding-artistic-frontiers-in-artificial-intelligence.md",
+      "title": "Expanding artistic frontiers in artificial intelligence",
+      "excerpt": "Dr. Mohammed Elhoseiny, assistant professor of computer science at KAUST, has carved a career out of teaching machines the art of creating art. After finishing his doctoral degree at Rutgers University in 2016,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.html",
+      "originalUrl": "https://techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/expanding-artistic-fro.jpg",
+          "width": 711,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.amp",
+      "publishedDateTime": "2022-07-05T12:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-05-fifa-will-use-ai-to-track-players-bodies-during-world-cup.md",
+      "title": "FIFA Will Use AI to Track Players' Bodies During World Cup",
+      "excerpt": "FIFA is leaving no room for debate over whether a goal was offside or onside during the upcoming World Cup. The international governing body of association football announced the use of semi-automated technology to help referees make more accurate offside decisions at the FIFA World Cup being held in Qatar in November.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399",
+      "originalUrl": "https://gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/fifa-world-cup-ai-qatar-soccer-futbol-1849142399/amp",
+      "publishedDateTime": "2022-07-05T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-05-access-healthcare-to-hire-18000-people-in-12-months.md",
       "title": "Access Healthcare to hire 18,000 people in 12 months",
       "excerpt": "Access Healthcare, a leading provider of end-to-end healthcare revenue cycle and IT services, plans to hire more than 18,000 people in the next 12 months. The company is currently hiring people across its locations in Chennai,",
@@ -587,549 +1136,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-05-remote-controlled-robotic-toys-market-research-report-analysis-by-competition-sales-revenue-market-size-2022-to-2028.md",
-      "title": "Remote Controlled Robotic Toys Market Research Report Analysis by Competition, Sales, Revenue, Market Size 2022 to 2028",
-      "excerpt": "In this report, the local evaluation phase reveals the substantial capability of every region in the \" Remote Controlled Robotic Toys market \" collectively with its period 2022 - 2028 and amount. The segmentation analysis includes a descriptive assessment of the segments,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/remote-controlled-robotic-toys-market-research-report-analysis-by-competition-sales-revenue-market-size-2022-to-2028-2022-07-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/remote-controlled-robotic-toys-market-research-report-analysis-by-competition-sales-revenue-market-size-2022-to-2028-2022-07-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-04T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-07-05-chinese-researchers-claim-they-have-ai-capable-of-reading-minds.md",
-      "title": "Chinese researchers claim they have AI capable of reading minds",
-      "excerpt": "A new report has claimed the Chinese government is now implementing cutting edge artificial intelligence to monitor the minds of dozens of Communist party officials.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/",
-      "originalUrl": "https://nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/07/mind-reading-02.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/amp/",
-      "publishedDateTime": "2022-07-04T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-voice-and-speech-recognition-software-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028.md",
-      "title": "Voice And Speech Recognition Software Market Manufacturers, Suppliers, Vendors Sales, Revenue, Market Share 2022 to 2028",
-      "excerpt": "The \" Voice And Speech Recognition Software Market Research Report \" and Industry Analysis examine the Voice And Speech Recognition Software industry across the globe for the period 2022 to 2028. Important metrics are identified and measured to examine market strategies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028-2022-07-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028-2022-07-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-04T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are.md",
-      "title": "Deepmind’s New AI May Be Better at Distributing Society’s Resources Than Humans Are",
-      "excerpt": "The problem of how humans should redistribute the wealth they create has plagued philosophers, economists, and political scientists for years.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2022/07/04/deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are/",
-      "originalUrl": "https://singularityhub.com/2022/07/04/deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2022/07/human-resources-g52f502e44_1280.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2022/07/04/deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/07/04/deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are/?amp=1",
-      "publishedDateTime": "2022-07-04T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-obsbot-tiny-4k-is-a-petite-uhd-webcam-with-ai-powered-tracking.md",
-      "title": "OBSBOT Tiny 4K is a petite UHD webcam with AI-powered tracking",
-      "excerpt": "Webcams aren't generally smart, but the OBSBOT Tiny 4K UHD webcam is, thanks to AI-powered tracking and autofocus support. Learn more about it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/obsbot-tiny-4k-webcam/",
-      "originalUrl": "https://www.digitaltrends.com/computing/obsbot-tiny-4k-webcam/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/06/OBSBOT-Tiny-PTZ-4K-UHD-Webcam-with-AI-and-gimbal.jpg?p=1",
-          "width": 1776,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/obsbot-tiny-4k-webcam/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/obsbot-tiny-4k-webcam/?amp",
-      "publishedDateTime": "2022-07-04T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-risc-v-development-laptop-introduced-by-deepcomputing-and-xcalibyte.md",
-      "title": "RISC-V development laptop introduced by DeepComputing and Xcalibyte",
-      "excerpt": "“A Web3-friendly platform with NFT creation and publication plus integrated MetaMask-style wallet, ROMA will create an even more integrated experience with future AR glasses and AI speakers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/risc-v-laptop-04-07-2022/",
-      "originalUrl": "https://www.geeky-gadgets.com/risc-v-laptop-04-07-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2022/07/RISC-V-laptop.jpg",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-04T05:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-china-turns-to-automation-and-robotics-to-solve-aging-problem.md",
-      "title": "China Turns to Automation and Robotics to Solve Aging Problem",
-      "excerpt": "Senior Product Manager The impact of an aging population has taken a toll on China’s economy. Industrial automation and robotics could be the solution. The largest existential threat facing China is its declining population – the impact of an aging population on the country’s economy has the potential to be highly unsavory and should not be ignored by global investors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/china-turns-to-automation-and-robotics-to-solve-aging-problem",
-      "originalUrl": "https://www.nasdaq.com/articles/china-turns-to-automation-and-robotics-to-solve-aging-problem",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/china-turns-to-automation-and-robotics-to-solve-aging-problem?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/china-turns-to-automation-and-robotics-to-solve-aging-problem?amp",
-      "publishedDateTime": "2022-07-04T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-the-global-edge-analytics-market-size-is-expected-to-reach-283-billion-by-2028-rising-at-a-market-growth-of-248-cagr-during-the-forecast.md",
-      "title": "The Global Edge Analytics Market size is expected to reach $28.3 billion by 2028, rising at a market growth of 24.8% CAGR during the forecast period",
-      "excerpt": "Reportlinker.com announces the release of the report \"Global Edge Analytics Market Size, Share & Industry Trends Analysis Report By Component, By Type, By",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/07/g27944178/the-global-edge-analytics-market-size-is-expected-to-reach-28-3-billion-by-2028-rising-at-a-market",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/g27944178/the-global-edge-analytics-market-size-is-expected-to-reach-28-3-billion-by-2028-rising-at-a-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27944178",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27944178",
-      "publishedDateTime": "2022-07-04T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-transitioning-from-smart-to-intelligent-cities-makes-good-business-sense.md",
-      "title": "Transitioning from smart to intelligent cities makes good business sense",
-      "excerpt": "So, smart is no longer clever enough – this new phase of development is what we call the intelligent or cognitive city. Every city is a unique network of integrated activities and services that may grow and develop organically over time as new use cases ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.arabianbusiness.com/industries/technology/transitioning-from-smart-to-intelligent-cities-makes-good-business-sense",
-      "originalUrl": "https://www.arabianbusiness.com/industries/technology/transitioning-from-smart-to-intelligent-cities-makes-good-business-sense",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-04T03:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Arabian Business",
-        "domain": "arabianbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-how-this-entrepreneur-has-revolutionised-everyday-trading-leveraging-ai-and-data-analytics.md",
-      "title": "How This Entrepreneur Has Revolutionised Everyday Trading, Leveraging AI And Data Analytics",
-      "excerpt": "Muhammad Haider, a serial entrepreneur with his AI enabled trading toolkit platform Tradytics, has strategically disrupted the market of amateur trading with the help of the innovative use of artifici",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/430735",
-      "originalUrl": "https://www.entrepreneur.com/article/430735",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1656927318-Haider1.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-04T02:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-htc-a101-tablet-launched-with-10-inch-display-unisoc-t618-chip.md",
-      "title": "HTC A101 tablet launched with 10-inch display, Unisoc T618 chip",
-      "excerpt": "HTC A101 tablet has gone official in South Africa and Russia. It is a mid-range tablet that offers key features such as a 10-inch display, a Unisoc chipset, dual rear cameras, and a big battery. Here is all the information on the specifications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/07/04/htc-a101-tablet-launched-with-10-inch-display-unisoc-t618-chip/",
-      "originalUrl": "https://www.gizmochina.com/2022/07/04/htc-a101-tablet-launched-with-10-inch-display-unisoc-t618-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/07/HTC-A101-Tablet.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/07/04/htc-a101-tablet-launched-with-10-inch-display-unisoc-t618-chip/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/07/04/htc-a101-tablet-launched-with-10-inch-display-unisoc-t618-chip/?amp=1",
-      "publishedDateTime": "2022-07-04T02:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-deep-learning-chip-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2025.md",
-      "title": "Deep Learning Chip Market Overview with Detailed Analysis, Competitive landscape, Forecast to 2025",
-      "excerpt": "Jul 04, 2022 (Market Insight Reports) -- The study on the ‘Deep Learning Chip market’, now available with Market Study Report introduces systematic details in terms of market valuation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2025-2022-07-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2025-2022-07-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-04T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

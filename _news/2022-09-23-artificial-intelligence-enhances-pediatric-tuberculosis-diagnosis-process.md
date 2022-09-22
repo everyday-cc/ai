@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-22T17:30:00Z
 originalUrl: "https://healthitanalytics.com/news/artificial-intelligence-enhances-pediatric-tuberculosis-diagnosis-process"
 webUrl: "https://healthitanalytics.com/news/artificial-intelligence-enhances-pediatric-tuberculosis-diagnosis-process"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Analytics

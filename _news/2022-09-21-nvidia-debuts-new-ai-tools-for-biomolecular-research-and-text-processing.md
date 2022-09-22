@@ -194,6 +194,20 @@ related:
         width: 700
         height: 300
         isCached: true
+  - title: "NVIDIA's Lovelace GPU Upgrades Graphics with AI"
+    excerpt: "A new flagship family of graphics chips developed by NVIDIA is powered by its next-generation Ada Lovelace architecture, which leverages artificial intelligence (AI) to create more realistic images in games."
+    publishedDateTime: 2022-09-22T21:32:00Z
+    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21251092/electronic-design-nvidias-lovelace-gpu-upgrades-graphics-with-ai"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 54
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/09/Capture.632cc268663cf.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "NVIDIA RTX Remix Features Hefty AI-Assisted Modding Tool"
     excerpt: "NVIDIA RTX Remix takes modding to a whole new level and allows players to take beautiful in-game screenshots with the press of a hotkey."
     publishedDateTime: 2022-09-20T20:31:00Z

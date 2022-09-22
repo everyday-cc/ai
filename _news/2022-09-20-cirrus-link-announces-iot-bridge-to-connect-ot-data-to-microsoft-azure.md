@@ -28,6 +28,15 @@ related:
       name: Dark Reading
       domain: darkreading.com
     quality: 49
+  - title: "Palo Alto Networks 5G-Native Security Now Available on Microsoft Azure Private Multi-Access Edge Compute"
+    excerpt: "Palo Alto Networks (NASDAQ: PANW), a Microsoft Azure private MEC ecosystem partner, today announced availability of VM-Series Virtual Next-Generation Firewall (NGFW) technology on the Azure Marketplace."
+    publishedDateTime: 2022-09-22T18:14:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/09/22/9678904.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 49
   - title: "HighByte Expands Industrial Connectivity from Microsoft Azure IoT Edge to Azure Digital Twins"
     excerpt: "The industrial software company has expanded cloud connectivity and improved enterprise IT management with HighByte Intelligence Hub version 2.5."
     publishedDateTime: 2022-09-22T16:31:00Z

@@ -14,6 +14,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/87aac4f7-8dbc-46a2-a15c-f5e5bf4d2be7/Rendition/thumbnail/Content/Public"
@@ -21,6 +22,6 @@ images:
     height: 300
     isCached: true
 
-secured: "I32VScv1id68ym0kz63Wk+R66EEnkfUSU3naGf0WepVi3q3Jd9stzGm0KAfa8/QAL9SjhIJkknNfcvyDLfwZRcIGAW0zha7DHRRwvk5BRpdSrFy0bkiiZKrdR6fyD9PL8F7UA3GEkxEXlqUEiko5i5mAzKPeTG4WM4/svX83j0VRw+gNn9FH0XF9s4WbuWiVORqAjOUc83yKEMHZQ4k7bDY1gSeX0cbzM5c5epR8T5RkcZcbrYmt+qZ0/e37HogTsX+CQ379ZoFtEMhHgA6kIHpNZf15YoUTm/3SiTuqkDa9JHgeybGyDmc7ydzH/SshXLhKBIN/LnxHJJnkB2A9sQ0hXdnyQQMJeMObfVC87Lk=;azWVBUQExe1YB3BIGgv0dA=="
+secured: "CNsm+7qcAfX0Y8WC7ejOLvjyDviSI6OlJj4cMagkPojd+zDYMmovnxqwmiBDdIuYi+X29LZfLF1OY/fTv1W+OTDVTisz80zQN7RpcBk9x8loehrguIF06m+xpdwk6vBlOypoVlnvQBeH03Jyvqrfaq68UM2UYE33y1yHoaPl9WjJbAV6CqBAIMUQ6J8qrNyGcx9gQjx6mfvm4ApRU0TpqqqHR/MdG/NThbCCWI5JhurGkHm6LVNJjecVTMDlgQVrLVQsVvX+d/SQJif4xDqTFudiV1wmsEZyrfGC1w6F7aAVEQ/e3SDM/XcSRqhiOiEPhyyrFE4jVCi4rhdvlMYAlLU037uZkKd63BIi87h+OhveLledUzPtj52oQ4gEaAv+bRwEGvai1a54jQTM4BKkQ5R1Bvnwj5nRiZ6vt0HwnWgxytTkbyXlkc4Qj9OpoNdK9Q5DdtI+ZVjiYIeHNOP0RqKcLShTPtcEOlL4h6WXyDYpbRYgb22X0BFI08Dtl1wmLS97zcrUX4crf/pc3hvxbA==;HO+U7iIMwsNTc8T9siV5JA=="
 ---
 

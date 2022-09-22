@@ -1,20 +1,30 @@
 ---
 category: news
 title: "Study looks at impact of artificial intelligence on primary health care"
-excerpt: "Whether we’re ready or not, artificial intelligence (AI) already plays a role in many healthcare settings. However, cautiously developing, deploying and even defining further AI advancements will determine its impact and efficacy in the years ahead,"
-publishedDateTime: 2022-09-22T18:43:00Z
-originalUrl: "https://news.westernu.ca/2022/09/artificial-intelligence-primary-health-care/"
-webUrl: "https://news.westernu.ca/2022/09/artificial-intelligence-primary-health-care/"
+excerpt: "Whether we're ready or not, artificial intelligence (AI) already plays a role in many health care settings. However, cautiously developing, deploying and even defining further AI advancements will determine its impact and efficacy in the years ahead,"
+publishedDateTime: 2022-09-22T21:07:00Z
+originalUrl: "https://medicalxpress.com/news/2022-09-impact-artificial-intelligence-primary-health.html"
+webUrl: "https://medicalxpress.com/news/2022-09-impact-artificial-intelligence-primary-health.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-09-impact-artificial-intelligence-primary-health.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-impact-artificial-intelligence-primary-health.amp"
 type: article
+quality: 57
+heat: 57
+published: false
 
 provider:
-  name: westernu.ca
-  domain: westernu.ca
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
-  - AI in Autos
   - AI
 
-secured: "dqN4+p7FMvGvP2kAiKWTj/I5U7mpKjSb9QxbhhS0YjHoaSxAzM/GLbXyarWSHaPVBHls5qGmes88GT+JoFULf+mbw/xdt1nwRhhSzLdLHT/E4tWSYWyZDqKLzKxsNAHrKGK2cpaGNqKx9qbZ+vf2vBucZW0on2yuBYXqmbB61Eas/z3Ywlj7bzM0tstJNPIXZmJ8nKjYPSBEMoADI4kAQU+04VUXEiLVED0abJ1gXtXjufXHJ/INzh4r6wkQUiccV3Cgc6N8c01izJqNN/1NPiEQU/mjO2SlLftlFxk9znIZiY70vUF969jG8oqnBO7S3czAFe7gRLtXknYDIBvd1EGuebvKylD3OTFoJC/6PGY=;tWmlDYc3MVEJ0/fV+ozzig=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/health-data.jpg"
+    width: 2426
+    height: 1728
+    isCached: true
+
+secured: "shizy9XJzqtTeKA93/m0S6sh3XzGrreQxXCIsR6pShdBM5qRQrhxGkeIkyO1pfVYEHybHKSExLbgDLb8O2gft6tf49xhlkGnXjmnrfa8RpgGM9gXTKVEfsl1OJXyuuUFCzNjTOm83/ktMGamVRzNMckcfjwOvWjuCs99lNTzbG0WBYZQLqoILLa2FnEjWGR+Soj3AtRIQXts/K7RfM5DD7CaXcSSbG7BMVei8ICwQXNFU/dKd3ZxiJKV6ZkRaYncI9SyWlXkLHkGY/w9TaPSnKrEB5VJQTOn/WE7mQfGajlfH37g3O1orm8COw2ILGY6UUDB/dthKGoI0v7b2nnycU7oPLGXAS1WL8WMt6AP4fE=;d18VDnJaR+8ryX27/Cehsg=="
 ---
 

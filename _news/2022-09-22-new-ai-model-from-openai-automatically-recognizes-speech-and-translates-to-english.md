@@ -59,6 +59,20 @@ related:
         width: 600
         height: 365
         isCached: true
+  - title: "Whisper is an open source automatic speech recognition on the fly"
+    excerpt: "Whisper is an automatic speech recognition system that OpenAI said will enable ‘robust” transcription in multiple languages. Whisper translates to English"
+    publishedDateTime: 2022-09-22T20:22:00Z
+    webUrl: "https://interestingengineering.com/innovation/whisper-is-an-open-source-automatic-speech-recognition-on-the-fly"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/2022/09/22/image/jpeg/Gb4WJ0giGjk6joH3dDCDQJTxy4GIbmlY7ffg4XvS.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "yAgQw/R21gtGt91hqgsbgbPeLDbe0oWv7+btDxPRW2kaWZRQm3hSNFcCmqejkNfWPIjtboXm4i2ny68z7Qbr7mSVCFoqd4o9oLFlWDC2iT0IRttvVPm/SgXFXDhEk7BnRNbGivNlpdEa1WG1CsBI4G0uOjIOAFYPDVZIt+XjvjNHyGO5rINagbc/PTsMMs32btKqSwDYwek0LTWGNtfRKHYyW6TeJurJE+GPRcm58nDp8r4dQ90y5Hdaa52gGGQb3lP79ZysfAfew2/tYAwfptX0MEOc7C4wJvlZeIUUQoxfukC5KPVb6BDumKXrhI4MTKgeh26FUAm1EUQphTvy2Gne6fBL9uFh87NJxZxY7PmH//W40cyN7MY1kLRmv+0IxF9NWRw5lHT2y/KP8/OyGN6f4hwn1sYZsr0X05uNC5DdVaefzDDA6XDH8YdG95gLr5J0+ftZXuFiFldWNowbz8VK67SCvarvsgvQgQ67iCGONcYip+T3NipRJNFdfxBcu2Bf+/2ouuqbk2Lj0a+M3A==;HUHTA8nKHPUYHdwBabPmjw=="
 ---

@@ -2,6 +2,92 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-06-30-using-azure-communication-services-for-email.md",
+      "title": "Using Azure Communication Services for email",
+      "excerpt": "use the Microsoft Graph APIs to monitor an Exchange Online mailbox set as the “reply to” address in your messages. This will allow you to use tools like Cognitive Services to generate dynamic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3664938/using-azure-communication-services-for-email.html",
+      "originalUrl": "https://www.infoworld.com/article/3664938/using-azure-communication-services-for-email.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/01/incoming_emails_by_thinkstock_dns_security_locked_server_parked_domain_by_imaginima_gettyimages_3x2_2122x1415-100825984-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3664938/using-azure-communication-services-for-email.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3664938/using-azure-communication-services-for-email.amp.html",
+      "publishedDateTime": "2022-06-29T19:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-birmingham-police-searching-for-missing-veteran-71-with-cognitive-disorder.md",
+      "title": "Birmingham police searching for missing veteran, 71, with cognitive disorder",
+      "excerpt": "Birmingham police asked for the public’s help Wednesday in finding a 71-year-old veteran with a cognitive disorder. Kerry Lee Walker was last seen at 7621 2nd Ave. South wearing a gray shirt ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.al.com/news/birmingham/2022/06/birmingham-police-searching-for-missing-veteran-71-with-cognitive-disorder.html",
+      "originalUrl": "https://www.al.com/news/birmingham/2022/06/birmingham-police-searching-for-missing-veteran-71-with-cognitive-disorder.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T19:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "al.com",
+        "domain": "al.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-30-inclusion-of-vr-technology-in-cognitive-rehabilitation-research-and-care-for-multiple-sclerosis.md",
       "title": "Inclusion of VR technology in cognitive rehabilitation research and care for multiple sclerosis",
       "excerpt": "In a recent article, Kessler Foundation scientists advocated for the incorporation of virtual reality (VR) technology in cognitive rehabilitation research in multiple sclerosis (MS). They ...",
@@ -1265,92 +1351,6 @@
         "Microsoft AI",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-entrepreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs.md",
-      "title": "Entrepreneurs, architects and artists: Why people with dyslexia could be drawn to certain jobs",
-      "excerpt": "Estimates suggest that up to 20% of the population have dyslexia - and the study's aim was to better understand their cognitive strengths. Lead author Dr Helen Taylor said \"the deficit-centred ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.sky.com/story/enterpreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs-12639682",
-      "originalUrl": "https://news.sky.com/story/enterpreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs-12639682",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://e3.365dm.com/22/06/1600x900/skynews-richard-branson-dyslexia_5813744.jpg?20220624114741",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.sky.com/story/amp/enterpreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs-12639682",
-      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/enterpreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs-12639682",
-      "publishedDateTime": "2022-06-24T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sky",
-        "domain": "sky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-some-people-do-better-on-cognitive-tasks-while-walking.md",
-      "title": "Some People Do Better on Cognitive Tasks while Walking",
-      "excerpt": "Some young and healthy people improve performance on cognitive tasks while walking by changing the use of neural resources, according to a new study. It has long been thought that when walking is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.govexec.com/workforce/2022/06/some-people-do-better-cognitive-tasks-while-walking/368508/",
-      "originalUrl": "https://www.govexec.com/workforce/2022/06/some-people-do-better-cognitive-tasks-while-walking/368508/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.govexec.com/media/img/cd/2022/06/23/062322walking/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Executive",
-        "domain": "govexec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

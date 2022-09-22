@@ -2,6 +2,145 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-07-ejected-man-dead-after-being-struck-by-driverless-car-with-passenger-inside.md",
+      "title": "Ejected man dead after being struck by driverless car, with passenger inside",
+      "excerpt": "A driver who was ejected in a crash was then run over by his own car, with a passenger inside, the California Highway Patrol said. The man died in the single-car crash, reported at 11:37 p.m ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2022/09/06/ejected-man-is-fatally-struck-by-driverless-car-with-passenger-inside/",
+      "originalUrl": "https://www.eastbaytimes.com/2022/09/06/ejected-man-is-fatally-struck-by-driverless-car-with-passenger-inside/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2022/09/turlockfatal.jpg?w=1000&h=600",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2022/09/06/ejected-man-is-fatally-struck-by-driverless-car-with-passenger-inside/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/09/06/ejected-man-is-fatally-struck-by-driverless-car-with-passenger-inside/amp/",
+      "publishedDateTime": "2022-09-06T11:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EastBayTimes.com",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-6-ai-companies-disrupting-healthcare-in-2022.md",
+      "title": "6 AI companies disrupting healthcare in 2022",
+      "excerpt": "These AI startups are disrupting a variety of healthcare areas, from drug discovery and operational efficiency to disease detection.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/6-ai-companies-disrupting-healthcare-in-2022/",
+      "originalUrl": "https://venturebeat.com/ai/6-ai-companies-disrupting-healthcare-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1158965842.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/6-ai-companies-disrupting-healthcare-in-2022/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/6-ai-companies-disrupting-healthcare-in-2022/amp/",
+      "publishedDateTime": "2022-09-06T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-bitcode-method-driving-financial-stability-by-maximizing-your-crypto-profits.md",
+      "title": "Bitcode Method: Driving Financial Stability by Maximizing Your Crypto Profits",
+      "excerpt": "Driving Financial Stability by Maximizing Your Crypto Profits - The expansion of distributed ledger technology and increased digital venture capital investments are",
+      "sourceUrl": null,
+      "webUrl": "https://www.siliconindia.com/news/general/bitcode-method-driving-financial-stability-by-maximizing-your-crypto-profits-nid-219926-cid-1.html",
+      "originalUrl": "https://www.siliconindia.com/news/general/bitcode-method-driving-financial-stability-by-maximizing-your-crypto-profits-nid-219926-cid-1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.siliconindia.com/news/newsimages/special/ix9d6217.png",
+          "width": 502,
+          "height": 324,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconIndia",
+        "domain": "siliconindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-05-ev-roundup-nklas-equity-offering-teslas-plan-for-driverless-cars-more.md",
       "title": "EV Roundup: NKLA's Equity Offering, Tesla's Plan for Driverless Cars & More",
       "excerpt": "Last week, China-based electric vehicle (EV) stars NIO Inc. NIO, Li Auto LI and XPeng Inc. XPEV announced their delivery updates for August. While NIO recorded a rise in deliveries from July ...",
@@ -1193,118 +1332,6 @@
       "provider": {
         "name": "Los Angeles Times",
         "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-artificial-intelligence-in-diagnosing-pediatric-ear-infections.md",
-      "title": "Artificial Intelligence in Diagnosing Pediatric Ear Infections",
-      "excerpt": "An artificial-intelligence (AI) model developed was significantly more accurate than doctors at diagnosing pediatric ear infections.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-in-diagnosing-pediatric-ear-infections-208463-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-in-diagnosing-pediatric-ear-infections-208463-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/hear-aid-baby1.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-in-diagnosing-pediatric-ear-infections-208463-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-in-diagnosing-pediatric-ear-infections-208463-1.htm",
-      "publishedDateTime": "2022-08-31T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-how-france-is-preparing-for-a-future-of-driverless-vehicles.md",
-      "title": "How France is preparing for a future of driverless vehicles",
-      "excerpt": "The update to the French legal framework will be important for future driverless cars, though. In case of an accident, if the autonomous driving system of the car is activated, the “driver ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thelocal.fr/20220831/how-france-is-preparing-for-a-future-of-driverless-vehicles/",
-      "originalUrl": "https://www.thelocal.fr/20220831/how-france-is-preparing-for-a-future-of-driverless-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Local",
-        "domain": "thelocal.fr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-baidu-revenue-hit-as-advertising-tumbles.md",
-      "title": "Baidu revenue hit as advertising tumbles",
-      "excerpt": "Chinese internet giant Baidu returned to profit in Q2 2022 on one-off gains ... to an “unfavourable macro environment”, but noted its AI cloud and intelligent driving businesses maintained rapid growth momentum. Looking to the second half, Li said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobileworldlive.com/asia/asia-news/baidu-revenue-hit-as-advertising-tumbles/",
-      "originalUrl": "https://www.mobileworldlive.com/asia/asia-news/baidu-revenue-hit-as-advertising-tumbles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T01:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile World Live",
-        "domain": "mobileworldlive.com",
         "images": null,
         "publishers": null,
         "authors": null

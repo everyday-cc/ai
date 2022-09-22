@@ -59,6 +59,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Salesforce Co-CEO Bret Taylor At Dreamforce 2022: Genie ‘Changes The Game For CRM’"
+    excerpt: "Salesforce co-CEO Bret Taylor introduced the marketing and sales software giant’s new Genie feature during Dreamforce 2022, calling it “the most significant shift to the Salesforce platform” in 20-plus years and detailing how the feature works with cloud platform partners including Amazon Web Services and Snowflake."
+    publishedDateTime: 2022-09-22T20:03:00Z
+    webUrl: "https://www.crn.com/news/cloud/salesforce-co-ceo-bret-taylor-at-dreamforce-2022-genie-changes-the-game-for-crm-"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 50
+    images:
+      - url: "https://www.crn.com/resources/0279-162c9096f261-c4770bd400cf-1000/bret-taylor-salesforce.jpg"
+        width: 610
+        height: 458
+        isCached: true
   - title: "Salesforce Genie is now generally available to power real-time CRM experiences"
     excerpt: "Salesforce today announced the general availability of the Genie customer data platform (CDP), a high-speed, hyperscalar data lake infrastructure to bring real-time insights from different systems to the Salesforce Customer 360 platform."
     publishedDateTime: 2022-09-20T12:01:00Z

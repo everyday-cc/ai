@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-22T18:12:00Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-reduced-ml-inference-costs-by-85-with-aws-inferentia/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-reduced-ml-inference-costs-by-85-with-aws-inferentia/"
 type: article
+quality: 86
+heat: 86
+published: true
 
 provider:
   name: AWS

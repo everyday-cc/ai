@@ -85,6 +85,15 @@ related:
         width: 1550
         height: 772
         isCached: true
+  - title: "Salesforce Genie brings data sharing to Amazon SageMaker and Einstein"
+    excerpt: "The Genie announcement will likely lead to similar partnerships, as other companies look to take advantage of Salesforce data in their workflows."
+    publishedDateTime: 2022-09-21T21:37:00Z
+    webUrl: "https://techcrunch.com/2022/09/21/salesforce-genie-brings-data-sharing-to-amazon-sagemaker-and-einstein/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 49
 
 secured: "bTGxzmz6POJx/Gijo/B09Su6pMESiIJ6P6KAdp6UWl59dJ7UAbMty/mNqFIHoHB4X15Oj0TsSlYVZEj/AKM+fCvaWZySp4O0qLgeIlk3OmC86hOxSPt4agoFcEAQVTFfRNR5LgmTBBlrMaY6xfyd1ZHXPuyuR2f4E2rimSG8kXbvp/CzMdPSpLgSf/890aX28tOtBF3hZaaCx+e0ixdH/vpOBtCt1SOj5/bXCHBkkaKFNteUCFw2ALP43eECly11k59TdkmsaJKftMEqNXs1XCep9ftQG7sQVnBDfs1q8j6KlEsgZq0SpScA7fHq5bs4ed2ljPqB/NP76Qr2ps4qfCgL9v9pxL7/u7g9ngj8JlA=;ml5Wqahf7Ml5xn4n1CmTCg=="
 ---

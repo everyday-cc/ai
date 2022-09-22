@@ -179,6 +179,20 @@ related:
         width: 700
         height: 300
         isCached: true
+  - title: "NVIDIA's Lovelace GPU Upgrades Graphics with AI"
+    excerpt: "A new flagship family of graphics chips developed by NVIDIA is powered by its next-generation Ada Lovelace architecture, which leverages artificial intelligence (AI) to create more realistic images in games."
+    publishedDateTime: 2022-09-22T21:32:00Z
+    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21251092/electronic-design-nvidias-lovelace-gpu-upgrades-graphics-with-ai"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 54
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/09/Capture.632cc268663cf.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Nvidia debuts new AI tools for biomolecular research and text processing"
     excerpt: "The first product, BioNeMo, is a framework for developing natural language processing models that can assist scientists with biology and chemistry research. Alongside the framework, Nvidia today also debuted two cloud-based artificial intelligence services."
     publishedDateTime: 2022-09-20T17:34:00Z

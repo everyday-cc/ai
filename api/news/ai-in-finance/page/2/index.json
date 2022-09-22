@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-01-ai-in-fintech-market-will-reach-more-than-61-billion-by-2031.md",
+      "title": "AI In Fintech Market Will Reach More Than $61 Billion, By 2031",
+      "excerpt": "Artificial Intelligence has been growing its influence in Fintech, and is projected to hit $61 billion in under 10 years. We tell you how.",
+      "sourceUrl": null,
+      "webUrl": "https://www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/",
+      "originalUrl": "https://www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.investingcube.com/wp-content/uploads/2022/06/Crypto-wallet.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/amp/",
+      "cdnAmpWebUrl": "https://www-investingcube-com.cdn.ampproject.org/c/s/www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/amp/",
+      "publishedDateTime": "2022-09-01T00:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestingCube",
+        "domain": "investingcube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-how-to-use-ml-and-ai-in-the-fintech-industry.md",
       "title": "How to Use ML and AI in the Fintech Industry?",
       "excerpt": "Driving innovations in certain industries, such as Fintech, AI, and ML, are particularly instrumental. Almost all industry statistics refer to the stupendous growth of AI-powered Fintech solutions ...",
@@ -1244,50 +1287,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-13-why-data-ethics-leadership-needs-to-become-the-new-normal-in-finance.md",
-      "title": "Why data ethics leadership needs to become the new normal in finance",
-      "excerpt": "By David Sweenor, Senior Director of Product Marketing at Alteryx. In June, one of the largest banking groups in the world – Lloyds Bank – announced it was joining the ranks of Google, KPMG and Uber with the creation of a new",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/why-data-ethics-leadership-needs-to-become-the-new-normal-in-finance/",
-      "originalUrl": "https://www.globalbankingandfinance.com/why-data-ethics-leadership-needs-to-become-the-new-normal-in-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/08/iStock-1212832689.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/why-data-ethics-leadership-needs-to-become-the-new-normal-in-finance/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/why-data-ethics-leadership-needs-to-become-the-new-normal-in-finance/",
-      "publishedDateTime": "2022-08-12T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/09/21/openai-open-sources-whisper-a-mult
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/21/openai-open-sources-whisper-a-multilingual-speech-recognition-system/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://bestgamingpro.com/wp-content/uploads/2022/09/OpenAI-open-sources-Whisper-a-multilingual-speech-recognition-system.png"
         width: 600
         height: 365
+        isCached: true
+  - title: "Whisper is an open source automatic speech recognition on the fly"
+    excerpt: "Whisper is an automatic speech recognition system that OpenAI said will enable ‘robust” transcription in multiple languages. Whisper translates to English"
+    publishedDateTime: 2022-09-22T20:22:00Z
+    webUrl: "https://interestingengineering.com/innovation/whisper-is-an-open-source-automatic-speech-recognition-on-the-fly"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/2022/09/22/image/jpeg/Gb4WJ0giGjk6joH3dDCDQJTxy4GIbmlY7ffg4XvS.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "DA5HS0beg8oxjGnG8yAA+t9H477q0HWdN2EXOrs/4PiUdmynekBZ6D7nQjq86NqjhERdHG7bEvNNk7lPKrQUopdPg4muGfMVQA5TSq+eiZznwgdZX/hU+dWreoutOh924Ce3GoeKgakYIX6Iknt/EP0L8IYs80DSu0+TbIaHIzarACV1qYXM3RBKWkaUlQnC+QAIBtau4AWnd3WpSYPhBIJYJBs1AxbuJ1BidaDL36/9nYa3CrD4P7iQyTUqyTeulsksp/7ffFcy8q9Md5c7h5RPqrQnbDi68oiCQXdCrUzI/wFugcvmHhW9AZXKS9JrpA/hMtS8ibSIyGqEzblrcueZT2JwBGHf7Lwk22LjI3WSaiCNphcZlyRFnHaXex6lSIKVnDgVpgetMqW2JpdJay6ydF3upceCiZ1EBhjxdpkzQZisETWwf29rEH0lIL5LDgbdLfPSPhASIVgLBTj6SVe31dmg5BLMWg/ce/Sx/anVhHvOErMthmnrgHWOcgUunV5J31kkORt38YOYV5/DdQ==;tVHO7ZcmtMtbQUpbdjMqDQ=="

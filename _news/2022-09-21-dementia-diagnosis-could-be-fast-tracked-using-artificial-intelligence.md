@@ -1,19 +1,29 @@
 ---
 category: news
 title: "Dementia diagnosis could be fast-tracked using artificial intelligence"
-excerpt: "Forms of dementia could be spotted sooner and more easily by analyzing recordings of patients' electrical brain activity using artificial intelligence (AI), according to new research."
-publishedDateTime: 2022-09-21T16:04:00Z
-originalUrl: "https://medicalxpress.com/news/2022-09-dementia-diagnosis-fast-tracked-artificial-intelligence.html"
-webUrl: "https://medicalxpress.com/news/2022-09-dementia-diagnosis-fast-tracked-artificial-intelligence.html"
+excerpt: "Dr Roman Bauer, senior author of the study from the University of Surrey, said: \"Our study shows that using artificial intelligence analysis of EEG data as a diagnostic tool to identify dementia could be life-changing for many people."
+publishedDateTime: 2022-09-21T09:29:00Z
+originalUrl: "https://www.surrey.ac.uk/news/dementia-diagnosis-could-be-fast-tracked-using-artificial-intelligence"
+webUrl: "https://www.surrey.ac.uk/news/dementia-diagnosis-could-be-fast-tracked-using-artificial-intelligence"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: University of Surrey
+  domain: surrey.ac.uk
 
 topics:
+  - AI in Healthcare
   - AI
 
-secured: "3iwiVfvtLgb8pgXrs9UaZYp9McqYuOemBew8EYLYsyhm9XU1WxSevJN5d52gf+0AAM/kcFtjToypl4E9yJ8EF0IiP3wNfn/Ln0onwYzw1pVKb1aB65Yh0uh1vZrrlFwLVLWaB8EfnN/ImCSbBbvZecLI6Kobz2A5tB54zXlc9d+PS9V1a6UC4ILglDGe/NQTATzUGFRbskA3FTscs8A1O9yBJsLYnEzWPCo67KZLbcnHr+dW2OrQb55Dw/mQg/YiCxfGp/BKudw9PQuYfayB/Cof5xWCCMYX8Tu07t6iOEREQmcLdfb5VSwA1bii7s0veqIja9U8YTHA4A6zfp+cwOOwdqrUXv7hrETKX5zwCO03VZXAUZydhIZmMSgCKQsEDE/RsbljzNBGweBzwc/JgJTLlJjU6ysi6AEitV5MBDWBiEh/AKrgNADu1O00+GJAopf29c71X7v7n1wHsB2yo31bscpkXxfmOLsbhzhgI6ZvyaUsVd7Us0RrpYF4OrHT6lCw0BNnGKesdIjNPXuEYg==;vDOUCVSAuIJpKlQbjylKXg=="
+images:
+  - url: "https://www.surrey.ac.uk/sites/default/files/styles/image_gallery/public/2022-09/GettyImages-1132352689.jpg?itok=slQvzZv_"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "kRm22jsWYC2li66V+q1BR97g/PKVowng5x6WRhnazpJSdq7zFTwpn8RwTB5kPyBpi/Wv8i/t91Qt6LiFUJIhfI24UsMeCAV9qVqM8AbR4o5Fi/piHZFk3I3OhXu96w60Mmc/4eRsv4C7iSakgmLGxqho6A1XN3i7/vpVnEAwj/hmvmOyDYG7htAqOZr/BewvE0M6Eay3swgJaGQe4YyaSfIWzoDxkWoz3aUuR0QZ7U9tIvV08EDI/AvbML7KKChPhbakPysBC09fOKyQKT6PIxn53+piNSde6AOrXmWTig6cuv8qfD3KNTwTaS7aSW+/v/tLLcEX42albQxpU2vpsZDFrjowK+XqVWcuWLyR9uY=;HMs8/tNTQZ0IJ1nU9eLrfw=="
 ---
 

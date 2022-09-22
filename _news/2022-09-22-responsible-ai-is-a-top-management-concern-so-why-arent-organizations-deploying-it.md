@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/responsible-ai-is-a-top-management-concer
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/responsible-ai-is-a-top-management-concern-so-why-arent-organizations-deploying-it/amp/"
 type: article
 quality: 82
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 600
     height: 299
     isCached: true
+
+related:
+  - title: "Where the benefits of responsible AI emerge"
+    excerpt: "Constraints for AI programs abound, but recent research found tangible business benefits when implemented responsibly, including improved products and brand differentiation."
+    publishedDateTime: 2022-09-22T21:14:00Z
+    webUrl: "https://www.ciodive.com/news/enterprise-responsible-AI-program/632497/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/imgproxy/_zCHwn-oIvdAiwFM-eGYtNYXbNuU0OfcXGsvv0ZnaVk/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEyOTczNjgxNTYuanBn.jpg"
+        width: 770
+        height: 364
+        isCached: true
 
 secured: "L29R4a0pEDf4CQD9M/hqKKTCXwdwt76epsHl9F+k/3mrMoT16ZVCvsImBc8+yDAE+w/T8DvSJNRBSYa2KGIfxQDDAdkiZH9be39X7O81D8PRPO5ZraGaEZwtmpZKUE8s1Ccib9iHucxG1ynqOnANb+jMi5O9/dLpI0U3jUl+IqwjdsopVqPZyhsn3zbXyBZiscC2fGkQMtuMIB5DcX0z87beZSPWn0XpkLCCsd7msHRHL0LH6B07VCelO8b9KYNYORfl/9y4HvYQcqVHgo5CvJF/ZZCl5MeKTOos+axJeF9klTXtjFd5wqWtsyQIO/dfJKxedGSm3lXmJ+byCfFIbx91ysFh1PufGFITNVQ+TYHpaiMIobxpqW3Fo4LEDsBY0NUrebfroomMNcMbWZGbKi8xGAOzFmn76XI2WA2lzlPKKSOu84o9eQdFNd4JsDXkf8+p3lCbQKgs7LbwY6pRSsVbX4e+Ys1qrByI6fETP+nhE15p2glIM7w6pC2qlXy8dbUqZUAhtBqA2VMrSn4lNA==;w9nJkdIEMgUeBH8NU5AHWA=="
 ---

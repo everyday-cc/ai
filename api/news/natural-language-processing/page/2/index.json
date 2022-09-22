@@ -2,6 +2,126 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-08-taliban-acknowledge-struggle-for-recognition-of-afghan-govt.md",
+      "title": "Taliban acknowledge struggle for recognition of Afghan govt",
+      "excerpt": "The international community, wary of the Taliban's harsh rule when they were last in power more than 20 years ago, has withheld official recognition and Afghanistan's assets abroad have been frozen.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/International/wireStory/taliban-acknowledge-struggle-recognition-afghan-govt-89466488",
+      "originalUrl": "https://abcnews.go.com/International/wireStory/taliban-acknowledge-struggle-recognition-afghan-govt-89466488",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/International/WireAP_07fdd74ae54a4ae68d36f20d7aee4526_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/taliban-acknowledge-struggle-recognition-afghan-govt-89466488",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/taliban-acknowledge-struggle-recognition-afghan-govt-89466488",
+      "publishedDateTime": "2022-09-07T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-aster-hospitals-adopts-ai-powered-speech-recognition-solution-across-its-uae-facilities.md",
+      "title": "Aster Hospitals adopts AI-powered speech recognition solution across its UAE facilities",
+      "excerpt": "Aster Hospitals in a strategic collaboration with 3M has successfully adopted 3M M*Modal Fluency Direct, the latest speech and AI-powered technology. The technology went live across Aster’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfbusiness.com/aster-hospitals-adopts-ai-powered-speech-recognition-solution-across-its-uae-facilities/",
+      "originalUrl": "https://gulfbusiness.com/aster-hospitals-adopts-ai-powered-speech-recognition-solution-across-its-uae-facilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gulfbusiness.com/wp-content/uploads/2022/09/3M-M-Modal-Fluency_Clinician-with-Speech-Mic.jpg",
+          "width": 930,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-07T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf Business",
+        "domain": "gulfbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-global-contact-center-to-reach-496-billion-us-dollars-by-2027-creating-an-opportunity-for-ai-real-time-audio-translation-onemeta-ai.md",
+      "title": "Global Contact Center to Reach 496 billion U.S. dollars by 2027, Creating an Opportunity for AI Real-Time Audio Translation – OneMeta AI",
+      "excerpt": "Imagine every contact center becoming fluent in 82 languages with high level of accuracy. OneMeta AI’s technology allows contact centers to communicate in multi-lingual environments,” said ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/global-contact-center-to-reach-496-billion-u-s-dollars-by-2027-creating-an-opportunity-for-ai-real-time-audio-translation-onemeta-ai",
+      "originalUrl": "https://www.digitaljournal.com/pr/global-contact-center-to-reach-496-billion-u-s-dollars-by-2027-creating-an-opportunity-for-ai-real-time-audio-translation-onemeta-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-07T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-07-facial-recognition-may-reveal-maine-harbor-seal-lifestyles.md",
       "title": "Facial recognition may reveal Maine harbor seal lifestyles",
       "excerpt": "Despite their ubiquity, the life of the harbor seal isn't well understood. While seal numbers have been dropping, the concern still is whether there are too many.",
@@ -1270,153 +1390,6 @@
         "name": "Sky News Australia",
         "domain": "skynews.com.au",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-the-next-technological-time-warp.md",
-      "title": "The Next Technological Time Warp",
-      "excerpt": "Even if you look at other modalities, like early image generation models and their ability to generate faces—not to mention today’s image generation capabilities with models such as DALL-E 2—telling the difference between human-generated and AI-generated content has been difficult for quite some time now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/servicenow/2022/08/24/the-next-technological-time-warp/",
-      "originalUrl": "https://www.forbes.com/sites/servicenow/2022/08/24/the-next-technological-time-warp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6306c01dd2c11b73cd7d1fdb/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/servicenow/2022/08/24/the-next-technological-time-warp/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2022/08/24/the-next-technological-time-warp/amp/",
-      "publishedDateTime": "2022-08-24T17:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-onemeta-ai-announces-release-of-its-first-product-verbum.md",
-      "title": "OneMeta AI Announces Release of its First Product: Verbum",
-      "excerpt": "Today OneMeta AI announced that it has released its first product, Verbum ( 'We are very pleased that we have released Verbum to the public. With Verbum, language is no longer a barrier to your meetings or communications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/272664698/onemeta-ai-announces-release-of-its-first-product-verbum",
-      "originalUrl": "https://www.bignewsnetwork.com/news/272664698/onemeta-ai-announces-release-of-its-first-product-verbum",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1662181680294.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-the-ai-startup-erasing-call-center-worker-accents-is-it-fighting-bias-or-perpetuating-it.md",
-      "title": "The AI startup erasing call center worker accents: is it fighting bias – or perpetuating it?",
-      "excerpt": "A Silicon Valley startup offers voice-altering tech to call center workers around the world: ‘Yes, this is wrong … but a lot of things exist in the world’",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american?source=Snapzu",
-      "originalUrl": "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american?source=Snapzu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/b78a80dcbe5e356a1d5b5cdcb8bec72fd38da9e8/453_682_6496_3898/master/6496.jpg?width=620&quality=85&auto=format&fit=max&s=506613242ac1f196cf1c3c70b0c77f6a",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american",
-      "publishedDateTime": "2022-08-24T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

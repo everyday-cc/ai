@@ -2,6 +2,153 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-06-02-biden-delivers-speech-on-gun-violence.md",
+      "title": "Biden delivers speech on gun violence",
+      "excerpt": "President Biden is delivering remarks from the White House on guns and the recent mass shootings in the country. Follow here for the latest news updates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/us/live-news/tulsa-oklahoma-hospital-shooting-06-02-22/h_133f06b43789f44e578d30709847d1f2",
+      "originalUrl": "https://www.cnn.com/us/live-news/tulsa-oklahoma-hospital-shooting-06-02-22/h_133f06b43789f44e578d30709847d1f2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_599/831bde8f-89f2-459f-a376-e73bcad44a7c.jpg",
+          "width": 900,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/us/live-news/tulsa-oklahoma-hospital-shooting-06-02-22/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/us/live-news/tulsa-oklahoma-hospital-shooting-06-02-22/index.html",
+      "publishedDateTime": "2022-06-02T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-ai-and-natural-language-processing-are-here-to-change-the-ielts-prep-game.md",
+      "title": "AI and natural language processing are here to change the IELTS prep game!",
+      "excerpt": "IELTS test aspirants, over the years, have been confounded by how to self-assess their writing and speaking skills. It is not as if you can have a certified tutor available at hand all the time. But thanks to natural language processing and artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.edexlive.com/news/2022/jun/01/ai-and-natural-language-processing-are-here-to-change-the-ielts-prep-game-29147.html",
+      "originalUrl": "https://www.edexlive.com/news/2022/jun/01/ai-and-natural-language-processing-are-here-to-change-the-ielts-prep-game-29147.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.edexlive.com/uploads/user/imagelibrary/2022/6/1/w600X390/DELSEP2021430_06062246.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.edexlive.com/news/2022/jun/01/ai-and-natural-language-processing-are-here-to-change-the-ielts-prep-game-29147.amp",
+      "cdnAmpWebUrl": "https://m-edexlive-com.cdn.ampproject.org/c/s/m.edexlive.com/news/2022/jun/01/ai-and-natural-language-processing-are-here-to-change-the-ielts-prep-game-29147.amp",
+      "publishedDateTime": "2022-06-01T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "edexlive",
+        "domain": "edexlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-the-race-to-hide-your-voice.md",
+      "title": "The Race to Hide Your Voice",
+      "excerpt": "Voice recognition—and data collection—have boomed in recent years. Researchers are figuring out how to protect your privacy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/voice-recognition-privacy-speech-changer/",
+      "originalUrl": "https://www.wired.com/story/voice-recognition-privacy-speech-changer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/62969e5ac54d2f0c8603ffab/master/pass/security-voice-ai.jpg",
+          "width": 2401,
+          "height": 1351,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/voice-recognition-privacy-speech-changer/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/voice-recognition-privacy-speech-changer/amp",
+      "publishedDateTime": "2022-06-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-googles-massive-language-translation-work-identifies-where-it-goofs-up.md",
       "title": "Google's massive language translation work identifies where it goofs up",
       "excerpt": "For low-resource languages such as kalaallisut and Fula, a big effort to find out what is lost in translation.",
@@ -1216,137 +1363,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-customize-pronunciation-using-lexicons-in-amazon-polly.md",
-      "title": "Customize pronunciation using lexicons in Amazon Polly",
-      "excerpt": "Amazon Polly is a text-to-speech service that uses advanced deep learning technologies to synthesize natural-sounding human speech. It is used in a variety of use cases, such as contact center systems, delivering conversational user experiences with human-like voices for automated real-time status check,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/customize-pronunciation-using-lexicons-in-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/customize-pronunciation-using-lexicons-in-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/17/customize-pronunciation-polly.jpg",
-          "width": 1000,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-17T08:36:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-singularity-systems-named-a-star-performer-in-everest-groups-intelligent-document-processing-idp-peak-matrix-assessment-2022.md",
-      "title": "Singularity Systems Named a Star Performer in Everest Group's Intelligent Document Processing (IDP) Peak Matrix® Assessment 2022",
-      "excerpt": "Singularity Systems, a leader in intelligent document processing (IDP), today announces it has been recognized as a Star Performer in the IDP market, one of only four vendors from a total field of 36,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mytwintiers.com/business/press-releases/cision/20220517NY56669/singularity-systems-named-a-star-performer-in-everest-groups-intelligent-document-processing-idp-peak-matrix-assessment-2022/",
-      "originalUrl": "https://www.mytwintiers.com/business/press-releases/cision/20220517NY56669/singularity-systems-named-a-star-performer-in-everest-groups-intelligent-document-processing-idp-peak-matrix-assessment-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1492218/Singularity_Systems_Logo.jpg?p=publish",
-          "width": 1056,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-17T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyTwinTiers.com",
-        "domain": "mytwintiers.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-relativity-explores-ethical-ai-and-unveils-new-product-capabilities-to-enhance-productivity-at-relativity-fest-london.md",
-      "title": "Relativity Explores Ethical AI and Unveils New Product Capabilities to Enhance Productivity at Relativity Fest London",
-      "excerpt": "... Translation Relativity will incorporate AI machine translation directly in RelativityOne. Out-of-the-box, users will be able to translate large batches of documents in more than 100 languages and 12,000 language combinations. Relativity is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsav.com/business/press-releases/cision/20220517SF58032/relativity-explores-ethical-ai-and-unveils-new-product-capabilities-to-enhance-productivity-at-relativity-fest-london/",
-      "originalUrl": "https://www.wsav.com/business/press-releases/cision/20220517SF58032/relativity-explores-ethical-ai-and-unveils-new-product-capabilities-to-enhance-productivity-at-relativity-fest-london/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-17T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSAV-TV",
-        "domain": "wsav.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

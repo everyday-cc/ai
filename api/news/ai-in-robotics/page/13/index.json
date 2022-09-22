@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-06-22-robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance.md",
+      "title": "Robot artist Ai-Da paints Glastonbury headliners ahead of festival attendance",
+      "excerpt": "Ai-DA Robot has painted portraits of this year’s Glastonbury headliners using AI technology (Shangri-La/PA) To start, Ai-Da Robot uses cameras in its eyes and its computer memory, before using a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/tech/billie-eilish-paul-mccartney-kendrick-lamar-diana-ross-shangrila-b2103099.html",
+      "originalUrl": "https://www.independent.co.uk/tech/billie-eilish-paul-mccartney-kendrick-lamar-diana-ross-shangrila-b2103099.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2022/06/17/00/16193841-8b53a400-1035-4ce2-acfc-f70bd059404f.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.co.uk/tech/billie-eilish-paul-mccartney-kendrick-lamar-diana-ross-shangrila-b2103099.html",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/billie-eilish-paul-mccartney-kendrick-lamar-diana-ross-shangrila-b2103099.html",
+      "publishedDateTime": "2022-06-21T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-botz-a-strong-cocktail-of-robotics-and-ai-for-the-long-term.md",
       "title": "BOTZ: A Strong Cocktail Of Robotics And AI For The Long Term",
       "excerpt": "With its exposure to high valuation IT and industrial stocks, BOTZ has suffered from considerable downside from the start of this year. Learn more here.",
@@ -1256,58 +1299,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-former-amazon-robotics-vp-brad-porter-goes-collaborative.md",
-      "title": "Former Amazon Robotics VP Brad Porter goes Collaborative",
-      "excerpt": "Collaborative Robotics aims to build a six-degree-of-freedom robotic art that’s collaborative, works with humans and can meet a wide variety of use cases.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/14/former-amazon-robotics-vp-brad-porter-goes-collaborative/",
-      "originalUrl": "https://techcrunch.com/2022/06/14/former-amazon-robotics-vp-brad-porter-goes-collaborative/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1273582733.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/14/former-amazon-robotics-vp-brad-porter-goes-collaborative/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/14/former-amazon-robotics-vp-brad-porter-goes-collaborative/amp/",
-      "publishedDateTime": "2022-06-14T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

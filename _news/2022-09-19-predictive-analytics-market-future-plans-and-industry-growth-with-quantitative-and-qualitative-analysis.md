@@ -62,7 +62,12 @@ related:
     provider:
       name: Deep
       domain: thefastmode.com
-    quality: 27
+    quality: 47
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/043a9e295a2fd8ba758801a227aad0fd.jpg?t=20220921_124815"
+        width: 753
+        height: 408
+        isCached: true
   - title: "See the exclusive 22-slide pitch deck that AI company 4M Analytics used to raise $45 million in Series A funding"
     excerpt: "The startup raised over $45 million from investors including Insight Partners, ITI Venture Capital Partners, Viola Ventures and F2 Venture Capital."
     publishedDateTime: 2022-09-20T13:40:00Z

@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "How AI-generated images can streamline your SEO game with DALL-E 2"
+    excerpt: "SEOs are always on the lookout for innovative technology that can help them amplify content creation effectively One such innovation that is on the cusp of being the next big thing in SEO and content creation is OpenAI’s DALL-E 2 What is it,"
+    publishedDateTime: 2022-09-22T17:57:00Z
+    webUrl: "https://www.searchenginewatch.com/2022/09/22/how-ai-generated-images-can-streamline-your-seo-game-with-dall-e-2/"
+    ampWebUrl: "https://www.searchenginewatch.com/2022/09/22/how-ai-generated-images-can-streamline-your-seo-game-with-dall-e-2/?amp=1"
+    cdnAmpWebUrl: "https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2022/09/22/how-ai-generated-images-can-streamline-your-seo-game-with-dall-e-2/?amp=1"
+    type: article
+    provider:
+      name: searchenginewatch
+      domain: searchenginewatch.com
+    quality: 76
+    images:
+      - url: "https://www.searchenginewatch.com/wp-content/uploads/2022/09/Examples-of-AI-generated-images-can-streamline-your-SEO-game-with-DALLE-2-Sad-beaver.jpg"
+        width: 680
+        height: 680
+        isCached: true
   - title: "Fearing copyright issues, Getty Images bans AI-generated artwork"
     excerpt: "AI generative artwork created using image synthesis models such as, DALL-E 2, and Midjourney through its service, The Verge reports. To clarify the new policy, The Verge spoke with  CEO Craig Peters."
     publishedDateTime: 2022-09-21T22:32:00Z
