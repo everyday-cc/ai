@@ -125,6 +125,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 23
+  - title: "Nvidia unveils next-gen RTX GPUs, AI workflows in the cloud"
+    excerpt: "New cloud services to support AI workflows and the launch of a new generation of GeForce RTX GPUs featured yesterday in Nvidia CEO Jensen Huang’s GTC keynote. “Computing is advancing at incredible speeds,"
+    publishedDateTime: 2022-09-22T09:48:00Z
+    webUrl: "https://it-online.co.za/2022/09/22/nvidia-unveils-next-gen-rtx-gpus-ai-workflows-in-the-cloud/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 21
   - title: "Nvidia RTX 6000 ‘Ada Lovelace’ GPU launches"
     excerpt: "Nvidia RTX 6000 'Ada Lovelace' workstation GPU promises to boost performance by changing the way viewports and scenes are rendered."
     publishedDateTime: 2022-09-21T12:47:00Z

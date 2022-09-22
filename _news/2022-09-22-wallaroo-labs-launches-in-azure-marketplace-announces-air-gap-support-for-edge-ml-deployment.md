@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/this-just-in/wallaroo-labs-launches-in-az
 webUrl: "https://www.datanami.com/this-just-in/wallaroo-labs-launches-in-azure-marketplace-announces-air-gap-support-for-edge-ml-deployment/"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -28,7 +28,12 @@ related:
     provider:
       name: Joplin Globe
       domain: joplinglobe.com
-    quality: 33
+    quality: 55
+    images:
+      - url: "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg"
+        width: 350
+        height: 456
+        isCached: true
 
 secured: "JvJIHqNj4oIYDks8p3TqBbrMnSZFZmvldhYpks0Fg1YCadjPf0nX8wxI60mSvdhcOcUGymNkKeKSLYk3rjO65g0sHRWUl+R9uzPn8OgzYyt/CF6JMjBGAI1sZaukETTSLL+T+zc1fI7h48DZdPx/EmMrGJKRQUYHQWm+6zPwx4pxv1/ExQC8Nf3Er/nBhe2MRNfBSGcCSIMwTwkTvvHGDu4WZUjE7jaGHEAqoPtWG+E8mFfmZHzzY8MfWtizsruuy6wDo/sIQIp3zccOzuq6fjW9EnIT8r5FSKeOfwIlzpvqNIy3Iey/EC7+6RwAFSoAAZrvAviMNFPOJPB0MhG63s3H5geMetPU4tgNIgcUajw=;Zq3iNr8xmdwOFP+X++80LQ=="
 ---

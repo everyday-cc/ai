@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-25-mckinsey-report-two-ai-trends-top-2022-outlook.md",
+      "title": "McKinsey report: Two AI trends top 2022 outlook",
+      "excerpt": "Newly-released McKinsey report named applied AI and industrializing machine learning as two significant technology trends unfolding today.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/mckinsey-report-two-ai-trends-top-2022-outlook/",
+      "originalUrl": "https://venturebeat.com/ai/mckinsey-report-two-ai-trends-top-2022-outlook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1239935010.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/mckinsey-report-two-ai-trends-top-2022-outlook/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/mckinsey-report-two-ai-trends-top-2022-outlook/amp/",
+      "publishedDateTime": "2022-08-25T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-25-google-has-opened-up-the-waitlist-to-talk-to-its-experimental-ai-chatbot.md",
       "title": "Google has opened up the waitlist to talk to its experimental AI chatbot",
       "excerpt": "AI researchers say testing chatbots in the wild is still very helpful As Mary Williamson, a research engineering manager at Facebook AI Research (FAIR), told me at the beginning of the month ...",
@@ -1392,60 +1444,6 @@
         "Facebook AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-itri-hosts-2022-international-workshop-on-trustworthy-ai-to-discuss-trust-and-ethics-in-ai.md",
-      "title": "ITRI Hosts 2022 International Workshop on Trustworthy AI to Discuss Trust and Ethics in AI",
-      "excerpt": "With the support of the Industrial Development Bureau (IDB) under the Minister of Economic Affairs, ITRI held the 2022 International Workshop on Trustworthy AI online on August 2. Over 400 experts gathered at the first-ever conference in Taiwan on this theme to discuss topics such as AI risk management and trustworthy AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/itri-hosts-2022-international-workshop-on-trustworthy-ai-to-discuss-trust-and-ethics-in-ai-1031638723",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/itri-hosts-2022-international-workshop-on-trustworthy-ai-to-discuss-trust-and-ethics-in-ai-1031638723",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1870688/Photo_1.jpg",
-          "width": 400,
-          "height": 266,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T01:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
       ]
     }
   ],

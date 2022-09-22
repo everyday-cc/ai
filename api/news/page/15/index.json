@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-09-07-aster-hospitals-adopts-ai-powered-speech-recognition-solution-across-its-uae-facilities.md",
+      "title": "Aster Hospitals adopts AI-powered speech recognition solution across its UAE facilities",
+      "excerpt": "Aster Hospitals in a strategic collaboration with 3M has successfully adopted 3M M*Modal Fluency Direct, the latest speech and AI-powered technology. The technology went live across Aster’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfbusiness.com/aster-hospitals-adopts-ai-powered-speech-recognition-solution-across-its-uae-facilities/",
+      "originalUrl": "https://gulfbusiness.com/aster-hospitals-adopts-ai-powered-speech-recognition-solution-across-its-uae-facilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gulfbusiness.com/wp-content/uploads/2022/09/3M-M-Modal-Fluency_Clinician-with-Speech-Mic.jpg",
+          "width": 930,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-07T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf Business",
+        "domain": "gulfbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-07-egain-corporation-egain-connects-with-ibm-watson-assistant-for-smarter-service.md",
       "title": "eGain Corporation: eGain Connects with IBM Watson Assistant for Smarter Service",
       "excerpt": "The connector leverages eGain's unique BYOB (Bring Your Own Bot) architecture, allowing business users to easily plug in the Watson Assistant ... eGain Infused with AI, our knowledge-powered ...",
@@ -1070,57 +1113,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-15-smart-ways-retail-businesses-should-be-using-ai.md",
-      "title": "15 Smart Ways Retail Businesses Should Be Using AI",
-      "excerpt": "From better predicting their inventory needs to managing and supporting their employees, retail businesses can leverage AI to improve their operations and their customers’ experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/06/15-smart-ways-retail-businesses-should-be-using-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/06/15-smart-ways-retail-businesses-should-be-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/631753214643d7543ec89c1a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/06/15-smart-ways-retail-businesses-should-be-using-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/06/15-smart-ways-retail-businesses-should-be-using-ai/amp/",
-      "publishedDateTime": "2022-09-06T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

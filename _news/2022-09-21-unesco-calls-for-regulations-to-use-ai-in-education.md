@@ -42,6 +42,22 @@ related:
         width: 2560
         height: 1907
         isCached: true
+  - title: "Resource, infrastructure crunch impact AI expansion in India's education sector: UNESCO report"
+    excerpt: "The report bizarrely claimed that the high pupil-teacher ratios and lack of professionally qualified teachers in the Indian education sector might be addressed by AI-powered tools."
+    publishedDateTime: 2022-09-22T09:44:00Z
+    webUrl: "https://www.newindianexpress.com/nation/2022/sep/22/resource-infrastructure-crunch-impactai-expansion-in-indias-education-sector-unesco-report-2500853.html"
+    ampWebUrl: "https://www.newindianexpress.com/nation/2022/sep/22/resource-infrastructure-crunch-impactai-expansion-in-indias-education-sector-unesco-report-2500853.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/nation/2022/sep/22/resource-infrastructure-crunch-impactai-expansion-in-indias-education-sector-unesco-report-2500853.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 64
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2019/10/26/w600X390/UNESCO.jpg"
+        width: 600
+        height: 390
+        isCached: true
 
 secured: "MQyWWGfiSCauaKHhrIBx+c/SHXKveCDM24pKXBa7crzXiXCmr5HGZAt7E60xu5Ik1Iw+oXGSmXg5Wm0aQ+jQTQrpmW18nhwYtS6IXGchmst4Kh5bOM+tt7inPB/njUcZpeetfq0aww+9NHbKFC3vPC3lNmYZDN/29k3U27uhEnmsN8ZWf3FlVHPzozazlsdTy4etYJYzC/41vBcFzh9bqFu9KzUtsksdQTAgg8jsTimL+NY1llIsmUf2HsFT8TRKK6dRHRNR0cTVkwUkp0GTPooG5o2kg2pnTGG/eL5B30yTuRATi1QdrUdT1P80hHcm6tOMgAOw5ecwJkx+J3LHYN1z4jChb4Lk0iZjQGRToCY5ueL5TMEGn89Qldatky5G0R6BUmIQTSpyEsT2oQYRZq3jDSTd/4MRIEgPiL7BWmjs9oLdWGvGIhx4Utoect0HQFHrylDwdraswBtQkEOmDlfFjlSO4H9mEKbEVWHZ4/N4kMfHirMSdk9TINisFGzLabt7Q4M61A4Hf/HfL5hLgQ==;HgdiEGVq01isNv3Y2zJSOg=="
 ---

@@ -1,30 +1,29 @@
 ---
 category: news
 title: "Dementia diagnosis could be fast-tracked using artificial intelligence"
-excerpt: "Forms of dementia could be spotted sooner and more easily by analyzing recordings of patients' electrical brain activity using artificial intelligence (AI), according to new research."
-publishedDateTime: 2022-09-21T16:04:00Z
-originalUrl: "https://medicalxpress.com/news/2022-09-dementia-diagnosis-fast-tracked-artificial-intelligence.html"
-webUrl: "https://medicalxpress.com/news/2022-09-dementia-diagnosis-fast-tracked-artificial-intelligence.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-09-dementia-diagnosis-fast-tracked-artificial-intelligence.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-dementia-diagnosis-fast-tracked-artificial-intelligence.amp"
+excerpt: "Dr Roman Bauer, senior author of the study from the University of Surrey, said: \"Our study shows that using artificial intelligence analysis of EEG data as a diagnostic tool to identify dementia could be life-changing for many people."
+publishedDateTime: 2022-09-21T09:29:00Z
+originalUrl: "https://www.surrey.ac.uk/news/dementia-diagnosis-could-be-fast-tracked-using-artificial-intelligence"
+webUrl: "https://www.surrey.ac.uk/news/dementia-diagnosis-could-be-fast-tracked-using-artificial-intelligence"
 type: article
-quality: 57
-heat: 57
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: University of Surrey
+  domain: surrey.ac.uk
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/dementia-diagnosis-cou.jpg"
-    width: 1944
-    height: 1548
+  - url: "https://www.surrey.ac.uk/sites/default/files/styles/image_gallery/public/2022-09/GettyImages-1132352689.jpg?itok=slQvzZv_"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "nXcLjJH9koz9IA6KgZcGsQx13rjJsNgq/JpmjDKcX7/tM2a63cHJTNZ416Iqjh5kDYhgv6alaHwajhrstPXYWOClJYgqPkV/+32mHvNDUjz5A/cVHv+GNLQgGKdXXKIdi4KSq5SLXpVD+OGnQqYEdqACtqzh06OqAZqj+hpxmY3DqC5/4nndIEfJe4A+OSUg2oR+h2YvguNce2I0S0txyih6B4VrAv1wmGOWSwWQlzJr6NCu5Ye+sA9u2Gj3yZGnsk4cjak50RGbtjN7b3Gjijk9MhEUeJ7rbjHrqlsUbRZHFhfLqF5taKhZPM/C8NvcuAGkT2s/0gDQPqP/16MgpFJzsMmNNZkvQmx8i6od4xM=;SrVGCy6WW4+THHn83BKUlQ=="
+secured: "VcmBWIIUSju9mkHxr4UKMShvYMlF8e4cqQypPM1aaA9c+pmTNIcLe4ZI/n2WSDrxuxngfaRTdCGy2SRhKxbvPtQylQn+Sn+eJm1VAbu6POxlPfGUF3BQhKP/74wwXAo4tmooN4VL0uM6KDZifhuXx+ZhvWTlWq47bin47EgyyP4dpC3GVS1RJckwjPw1gCmhAEc/4qE10yLduTritkXe9CoYhWx9idd8YFZRzVX2l3itg16/ajI9D5vnU/cmhP+jKqDmGO0Z/mBA4uAsKYqKaC1sbcpGPMLFJo2wGX8aqliEI9CQHnkMEoL4RCULkHzyZLSIGSZZg9EmrJTjQZNy2eOYzJZbwiEAmIhz8GuS1lQ=;gGBnYsaYm1NMpMIUo3L1WQ=="
 ---
 

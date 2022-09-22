@@ -2,6 +2,49 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2022-08-16-global-artificial-intelligence-ai-in-operating-room-market-analysis-and-forecast-technologies-demand-growth-research-and-development.md",
+      "title": "Global Artificial Intelligence (AI) in Operating Room Market Analysis And Forecast | Technologies, Demand, Growth, Research And Development",
+      "excerpt": "Key Companies Covered in the Global Artificial Intelligence (AI) in Operating Room Research are Activ Surgical Inc., Brainomix Limited, Caresyntax Corp, DeepOR S.A.S, ExplORer Surgical Corp., Hanson Meditec Co.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-operating-room-market-analysis-and-forecast-technologies-demand-growth-research-and-development-2022-08-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-operating-room-market-analysis-and-forecast-technologies-demand-growth-research-and-development-2022-08-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T01:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again.md",
       "title": "Delhi Police’s facial recognition tech at 80% accuracy, stokes privacy concerns again!",
       "excerpt": "The accuracy rates of facial-recognition software can go as high as 99.97% in ideal conditions. In 2019, Delhi Police had reported accuracy levels of 2%. While 80% may seem like a drastic improvement,",
@@ -1106,59 +1149,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-15-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-key-player-competition-weakness-and-strengths-from-2022-to-2028.md",
-      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Key Player, Competition Weakness and Strengths from 2022 to 2028",
-      "excerpt": "The \" Natural Language Processing (NLP) in Healthcare and Life Sciences Market Research Report \" for comprises important strategies and plans to control cost and improve efficiency. The report also focuses on demand and supply of the Natural Language Processing (NLP) in Healthcare and Life Sciences industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-08-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-08-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-15T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

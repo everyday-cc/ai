@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-21T12:03:00Z
 originalUrl: "https://www.joplinglobe.com/region/national_business/wallaroo-labs-launches-in-azure-marketplace-announces-air-gap-support-for-edge-machine-learning-deployment/article_cb133d7e-bafc-500f-bfce-bf1b94fc6b45.html"
 webUrl: "https://www.joplinglobe.com/region/national_business/wallaroo-labs-launches-in-azure-marketplace-announces-air-gap-support-for-edge-machine-learning-deployment/article_cb133d7e-bafc-500f-bfce-bf1b94fc6b45.html"
 type: article
-quality: 33
-heat: -1
+quality: 55
+heat: 65
 published: false
 
 provider:
@@ -18,6 +18,13 @@ topics:
   - Machine Learning
   - AI
   - Microsoft AI
+  - AI in Finance
+
+images:
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg"
+    width: 350
+    height: 456
+    isCached: true
 
 related:
   - title: "Wallaroo Labs Launches in Azure Marketplace, Announces Air Gap Support for Edge ML Deployment"

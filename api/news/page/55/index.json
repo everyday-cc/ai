@@ -2,6 +2,40 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2022-08-08-natural-language-processing-in-and-for-design-research.md",
+      "title": "Natural language processing in-and-for design research",
+      "excerpt": "Natural language processing in-and-for design research - Volume 8",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/design-science/article/natural-language-processing-inandfor-design-research/5EE5CF29BC6632A1280EA30574D54076",
+      "originalUrl": "https://www.cambridge.org/core/journals/design-science/article/natural-language-processing-inandfor-design-research/5EE5CF29BC6632A1280EA30574D54076",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-08-using-ai-chips-to-design-better-ai-chips.md",
       "title": "Using AI Chips To Design Better AI Chips",
       "excerpt": "Nvidia’s “Hopper” GPU architecture, introduced in March and expanding the company’s already expansive focus on AI, machine learning and neural networks, contains almost 13,000 instances of circuits designed using AI techniques. In a six-page ...",
@@ -1116,59 +1150,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-accelerating-azure-databricks-runtime-for-machine-learning.md",
-      "title": "Accelerating Azure Databricks Runtime for Machine Learning",
-      "excerpt": "Intel-optimized ML libraries on Azure Databricks Databricks Runtime for Machine Learning includes the stock versions of scikit-learn and TensorFlow. To boost performance, however, Intel engineers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3669311/accelerating-azure-databricks-runtime-for-machine-learning.html",
-      "originalUrl": "https://www.infoworld.com/article/3669311/accelerating-azure-databricks-runtime-for-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2022/08/istock-1135710814-article-3-100930991-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-05T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

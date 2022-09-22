@@ -2,6 +2,48 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-09-08-iran-claims-that-it-has-new-artificial-intelligence-capabilities.md",
+      "title": "Iran claims that it has new artificial intelligence capabilities",
+      "excerpt": "The new claim, which said Iran had \"defeated the enemy at a distance of more than 1,000 kilometers with AI,\" didn't specify exactly what \"artificial intelligence\" had been used or how.",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/middle-east/article-716606",
+      "originalUrl": "https://www.jpost.com/middle-east/article-716606",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/453729",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/middle-east/article-716606/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/middle-east/article-716606/amp",
+      "publishedDateTime": "2022-09-07T19:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-08-apples-latest-a16-bionic-chip-comes-with-5-core-gpu-16-core-neural-engine.md",
       "title": "Apple's latest A16 Bionic chip comes with 5-core GPU, 16-core neural engine",
       "excerpt": "At Wednesday's Apple event in Cupertino, California, the company finally revealed its iPhone 14 Pro lineup, which is powered by the latest A16 chip, the successor of last year's A15 chip",
@@ -1090,49 +1132,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-aster-hospitals-adopts-ai-powered-speech-recognition-solution-across-its-uae-facilities.md",
-      "title": "Aster Hospitals adopts AI-powered speech recognition solution across its UAE facilities",
-      "excerpt": "Aster Hospitals in a strategic collaboration with 3M has successfully adopted 3M M*Modal Fluency Direct, the latest speech and AI-powered technology. The technology went live across Aster’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfbusiness.com/aster-hospitals-adopts-ai-powered-speech-recognition-solution-across-its-uae-facilities/",
-      "originalUrl": "https://gulfbusiness.com/aster-hospitals-adopts-ai-powered-speech-recognition-solution-across-its-uae-facilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gulfbusiness.com/wp-content/uploads/2022/09/3M-M-Modal-Fluency_Clinician-with-Speech-Mic.jpg",
-          "width": 930,
-          "height": 620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-07T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf Business",
-        "domain": "gulfbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

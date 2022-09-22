@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/news/unesco-urges-govern
 cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/news/unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority/cid/1887943"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Resource, infrastructure crunch impact AI expansion in India's education sector: UNESCO report"
+    excerpt: "The report bizarrely claimed that the high pupil-teacher ratios and lack of professionally qualified teachers in the Indian education sector might be addressed by AI-powered tools."
+    publishedDateTime: 2022-09-22T09:44:00Z
+    webUrl: "https://www.newindianexpress.com/nation/2022/sep/22/resource-infrastructure-crunch-impactai-expansion-in-indias-education-sector-unesco-report-2500853.html"
+    ampWebUrl: "https://www.newindianexpress.com/nation/2022/sep/22/resource-infrastructure-crunch-impactai-expansion-in-indias-education-sector-unesco-report-2500853.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/nation/2022/sep/22/resource-infrastructure-crunch-impactai-expansion-in-indias-education-sector-unesco-report-2500853.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 64
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2019/10/26/w600X390/UNESCO.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "UNESCO calls for regulations to use AI in education"
     excerpt: "The artificial intelligence (AI) market in India has the potential to touch $7.8 billion by 2025 at a compound annual growth rate (CAGR) of 20.2%."
     publishedDateTime: 2022-09-21T02:16:00Z

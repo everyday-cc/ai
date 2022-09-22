@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Self-Driving Hyundai Spotted On PIE, Likely Part Of Test For Driverless Taxis"
+    excerpt: "A motorist spotted a self-driving car along the PIE on 16 Sep. The driverless vehicle may be out for a driverless taxi test."
+    publishedDateTime: 2022-09-22T10:04:00Z
+    webUrl: "https://mustsharenews.com/self-driving-car-pie/"
+    ampWebUrl: "https://mustsharenews.com/self-driving-car-pie/amp/"
+    cdnAmpWebUrl: "https://mustsharenews-com.cdn.ampproject.org/c/s/mustsharenews.com/self-driving-car-pie/amp/"
+    type: article
+    provider:
+      name: Lee
+      domain: mustsharenews.com
+    quality: 71
+    images:
+      - url: "https://mustsharenews.com/wp-content/uploads/2022/09/Self-Driving-Car-Spotted-On-PIE-May-Be-Part-Of-Test-For-Driverless-Taxis-1.jpg"
+        width: 1500
+        height: 750
+        isCached: true
   - title: "Asia's first driverless CIMC-made boarding bridge comes into operation in China"
     excerpt: "The first driverless boarding bridge in Asia has been officially put into operation at Chengdu Tianfu International Airport in southwest China, marking a milestone in the intelligent upgrade of Chinese civil aviation industry."
     publishedDateTime: 2022-09-20T09:00:00Z
@@ -35,20 +51,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "WeRide launches first fully driverless ride of robobus in Mideast"
-    excerpt: "The launch of the driverless robobus in Riyadh becomes another important milestone in WeRide's global footprint, attributed to its best-in-class autonomous driving technology and its rich commercial e"
-    publishedDateTime: 2022-09-20T04:48:00Z
-    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/weride-launches-first-fully-driverless-ride-of-robobus-in-mideast-ui5w8bi8"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
-    images:
-      - url: "https://static.zawya.com/version/c:MzBhMTkzMTYtYzI1Ny00:YjhmZTE5/956353340.jpg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Is the quest for driverless trucking in it for the long haul?"
     excerpt: "Waymo, often seen as the leader in driverless technology ... In many ways, trucks are a more viable focal point for the development of the artificial intelligence needed for fully autonomous driving. Long-haul vehicles travel on long, monotonous highways ..."
     publishedDateTime: 2022-09-21T16:54:00Z
@@ -62,20 +64,6 @@ related:
       - url: "https://ietp-web-app-global-assets.azurewebsites.net:443/media/sw4jnnsc/wechat-icon.png"
         width: 512
         height: 512
-        isCached: true
-  - title: "Belarusian MTZ's driverless tractor presented in Russia's Tatarstan"
-    excerpt: "The unmanned tractor KFU-MTZ-112 boasts a high degree of automation. It was developed by the excellence center for robot technology and artificial intelligence of the Computational Mathematics and Information Technologies Institute of the Kazan Federal University (KFU) in association with OOO TPK MTZ-Tatarstan."
-    publishedDateTime: 2022-09-22T09:36:00Z
-    webUrl: "https://eng.belta.by/economics/view/belarusian-mtzs-driverless-tractor-presented-in-russias-tatarstan-153286-2022/"
-    type: article
-    provider:
-      name: eng.belta
-      domain: belta.by
-    quality: 39
-    images:
-      - url: "https://eng.belta.by/images/storage/news/with_archive/2022/000021_1663839472_153286_big.jpg"
-        width: 870
-        height: 486
         isCached: true
 
 secured: "nV8x+vePbIVv/Vxvh/Nfh2e50+0Tb7yVqoE6Zdn6ih/GN/SfNmfw8XawFmQ5v2UY/f3y561ZFycVoVmWUxtcMfP/B7qbKDqfm/DfgQkc4TA7jvwXxqRZt6WhmYAkPgBBHYvs3tMicYhTV+TXeRtbWlC8pYeAJbDzqFH5P6CwBH04g3ZCtbhz38vw+ie3QuL4fq64yZV3rM2A+zil7PZnP7vp+wkh8KITI8IgNM7rD68iimCoF1BLXHVCf6Mbx3ylOB5ufFhzWiaa6zzmifA8DanyMgj1O3EW2apTpOrHi/eqyXqLXgTbl02/ylUI41y2XsDonIFUX/W1bYA24P9XzeXL1VotcEosIyP9mCGA1rc=;ng3WMdkNJFtSGJNC/bBb5g=="

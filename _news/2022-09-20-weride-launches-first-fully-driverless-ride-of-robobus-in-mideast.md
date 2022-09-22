@@ -7,7 +7,7 @@ originalUrl: "https://www.zawya.com/en/business/technology-and-telecom/weride-la
 webUrl: "https://www.zawya.com/en/business/technology-and-telecom/weride-launches-first-fully-driverless-ride-of-robobus-in-mideast-ui5w8bi8"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,59 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Asia's first driverless CIMC-made boarding bridge comes into operation in China"
-    excerpt: "The first driverless boarding bridge in Asia has been officially put into operation at Chengdu Tianfu International Airport in southwest China, marking a milestone in the intelligent upgrade of Chinese civil aviation industry."
-    publishedDateTime: 2022-09-20T09:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/asia-s-first-driverless-cimc-made-boarding-bridge-comes-into-operation-in-china-1031752676"
+  - title: "WeRide Launches the First Self-driving Robobus Test Ride in Saudi Arabia at 2022 Global AI Summit"
+    excerpt: "WeRide launched the first driverless public Robotaxi service in the Middle East in Abu Dhabi, capital of the United Arab Emirates. The launch of the driverless robobus in Riyadh becomes another important milestone in WeRide's global footprint,"
+    publishedDateTime: 2022-09-19T06:05:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/09/19/9675581.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-    images:
-      - url: "https://mma.prnewswire.com/media/1902841/image_1.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Cruise Plans to Expand Driverless Ride Service: Lower Prices Key to Driving Demand"
-    excerpt: "Cruise plans to expand its driverless ride service to Austin and Phoenix before the end of the year, the company’s chief executive Kyle Vogt said last week. The San Francisco, California-headquartered self-driving car company is a largely autonomous subsidiary of General Motors."
-    publishedDateTime: 2022-09-20T15:23:00Z
-    webUrl: "https://www.nasdaq.com/articles/cruise-plans-to-expand-driverless-ride-service%3A-lower-prices-key-to-driving-demand"
-    ampWebUrl: "https://www.nasdaq.com/articles/cruise-plans-to-expand-driverless-ride-service:-lower-prices-key-to-driving-demand?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cruise-plans-to-expand-driverless-ride-service:-lower-prices-key-to-driving-demand?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 63
-  - title: "Is the quest for driverless trucking in it for the long haul?"
-    excerpt: "Waymo, often seen as the leader in driverless technology ... In many ways, trucks are a more viable focal point for the development of the artificial intelligence needed for fully autonomous driving. Long-haul vehicles travel on long, monotonous highways ..."
-    publishedDateTime: 2022-09-21T16:54:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/09/is-the-quest-for-driverless-trucking-in-it-for-the-long-haul/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 39
-    images:
-      - url: "https://ietp-web-app-global-assets.azurewebsites.net:443/media/sw4jnnsc/wechat-icon.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "Belarusian MTZ's driverless tractor presented in Russia's Tatarstan"
-    excerpt: "The unmanned tractor KFU-MTZ-112 boasts a high degree of automation. It was developed by the excellence center for robot technology and artificial intelligence of the Computational Mathematics and Information Technologies Institute of the Kazan Federal University (KFU) in association with OOO TPK MTZ-Tatarstan."
-    publishedDateTime: 2022-09-22T09:36:00Z
-    webUrl: "https://eng.belta.by/economics/view/belarusian-mtzs-driverless-tractor-presented-in-russias-tatarstan-153286-2022/"
-    type: article
-    provider:
-      name: eng.belta
-      domain: belta.by
-    quality: 39
-    images:
-      - url: "https://eng.belta.by/images/storage/news/with_archive/2022/000021_1663839472_153286_big.jpg"
-        width: 870
-        height: 486
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
 secured: "kKSPZZHovn3EG5H5XxvmdnCsV1IWtjmQ1ytqekzOoL/ADWxkc/9A476623X62g9qusW3Ji3SPAYoYqfCMpj+SLbVyAerQuds1uLXOUPhaa58xl9INM0gDnb6VW9r6QSUEi2Vsw0g+BXtywM81uQSWPQPaWwwO4WsDdgWi7zCep9m4v5FxiyxifuEWGBGBEb7zn0ZAc54d1XhpRLXLyfAwi5OCnU7Hf+3P9ok3N5ABhXiyWAOz6+6il/4buufLobkY58HBOuqhtKIyd7H8/Y7EiXw1th7UxYEkM/t0+vtdquzxT0x3LCIPCKuEilEMme8rJL3JvGMJ+2UZU3MAfnNinzL7pTqaxHm8ZT5ZynEcMrZBQYoNTwBOvcEoMgDx1vlc5jtSGW9qjAiRHuNGi6tFhq7IPiSjYNVLPA4twZRFjw+5GAhLOOHl3zOtKtgkBAnh3Lu6s7g+HuAN9V+G9G/vOYQIYgL0vPDjdHWXsIzxqLI31Yzyz1BvQ367Nm9Sz94ERTYeAPoOPOog7YHMVUulA==;Vqzk9+FyMERMo/h75ONgrA=="
 ---

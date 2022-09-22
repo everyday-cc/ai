@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-Driving Hyundai Spotted On PIE, Likely Part Of Test For Driverless Taxis"
+    excerpt: "A motorist spotted a self-driving car along the PIE on 16 Sep. The driverless vehicle may be out for a driverless taxi test."
+    publishedDateTime: 2022-09-22T10:04:00Z
+    webUrl: "https://mustsharenews.com/self-driving-car-pie/"
+    ampWebUrl: "https://mustsharenews.com/self-driving-car-pie/amp/"
+    cdnAmpWebUrl: "https://mustsharenews-com.cdn.ampproject.org/c/s/mustsharenews.com/self-driving-car-pie/amp/"
+    type: article
+    provider:
+      name: Lee
+      domain: mustsharenews.com
+    quality: 71
+    images:
+      - url: "https://mustsharenews.com/wp-content/uploads/2022/09/Self-Driving-Car-Spotted-On-PIE-May-Be-Part-Of-Test-For-Driverless-Taxis-1.jpg"
+        width: 1500
+        height: 750
+        isCached: true
   - title: "Asia's first driverless CIMC-made boarding bridge comes into operation in China"
     excerpt: "The first driverless boarding bridge in Asia has been officially put into operation at Chengdu Tianfu International Airport in southwest China, marking a milestone in the intelligent upgrade of Chinese civil aviation industry."
     publishedDateTime: 2022-09-20T09:00:00Z
@@ -50,34 +66,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 63
-  - title: "WeRide launches first fully driverless ride of robobus in Mideast"
-    excerpt: "The launch of the driverless robobus in Riyadh becomes another important milestone in WeRide's global footprint, attributed to its best-in-class autonomous driving technology and its rich commercial e"
-    publishedDateTime: 2022-09-20T04:48:00Z
-    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/weride-launches-first-fully-driverless-ride-of-robobus-in-mideast-ui5w8bi8"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
-    images:
-      - url: "https://static.zawya.com/version/c:MzBhMTkzMTYtYzI1Ny00:YjhmZTE5/956353340.jpg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Belarusian MTZ's driverless tractor presented in Russia's Tatarstan"
-    excerpt: "The unmanned tractor KFU-MTZ-112 boasts a high degree of automation. It was developed by the excellence center for robot technology and artificial intelligence of the Computational Mathematics and Information Technologies Institute of the Kazan Federal University (KFU) in association with OOO TPK MTZ-Tatarstan."
-    publishedDateTime: 2022-09-22T09:36:00Z
-    webUrl: "https://eng.belta.by/economics/view/belarusian-mtzs-driverless-tractor-presented-in-russias-tatarstan-153286-2022/"
-    type: article
-    provider:
-      name: eng.belta
-      domain: belta.by
-    quality: 39
-    images:
-      - url: "https://eng.belta.by/images/storage/news/with_archive/2022/000021_1663839472_153286_big.jpg"
-        width: 870
-        height: 486
-        isCached: true
 
 secured: "csgUvwhSCSRziP3wIctdBxZhuJLx0MUEFe8TNnWtDp9XFVnhiyWU5oNJcCvEHrzRC6y3eXJ2BIZUCvXTfrodsmTVMwWZ9pIHdxXXeT+RrktFGd8PPjYfp+RzKr0Ke99V/zrRJP5UCKweVs937wHvOzVi6560H50ttb2UuQq9JbjMt3M+btKidM6bY4q/oDqGKSaiqChxc4g77fP2MCPFdiiJjwIavVk+AmKZdvuvlByw7hmjZityr6WE81842AeqG3RqHbvGqpTcSRshhHNXpWp5n2kNAA0+sQRTTCoRDIMQMcryFTPKg8Amn2+nlA62ce5GUpwoVhGOzGP3Ks6kO5vjRsTICVyzzXc0uSw9/Kk=;trgaWx4lBpc1mradCkNrPw=="
 ---

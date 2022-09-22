@@ -53,6 +53,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Aetina Corporation: Aetina Announces Upcoming Edge AI Computers Powered by New NVIDIA Jetson Orin Nano for Use in Computer Vision Applications"
+    excerpt: "Aetina today introduced its upcoming NVIDIA Jetson-based edge AI computers powered by Jetson Orin Nano system-on-modules (SOM) that have"
+    publishedDateTime: 2022-09-20T17:03:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-09/57103605-aetina-corporation-aetina-announces-upcoming-edge-ai-computers-powered-by-new-nvidia-jetson-orin-nano-for-use-in-computer-vision-applications-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 18
+    images:
+      - url: "https://mma.prnewswire.com/media/1899741/Aetina_Announces_Upcoming_Edge_AI_Computers_Powered_New_NVIDIA_Jetson.jpg"
+        width: 400
+        height: 209
+        isCached: true
 
 secured: "rD0I0gW8Pp9OXjAf+ufJ18Tnje5KO6QS7XhVyrDoWzfdwUDnqmav+8cqALOSHxz0CSGuJc1pkOI05PFwpyCo/ScZcFnA2C41nUPvLh272Cf6MpIeXjptDfoLnjxTLBQH1jLKN9rk50W02qEBU001i2QnaRPp5sV9CYzxJ+bfSaPfgQE9ilXEgl/jNDv5Eo5mm3XhcjsvXd7XL5gvrZUdVYxSw6f+scO4J/TL/4pE8ZVpts50hG44GhH2wFgiMYfNWj7gBbambQiIBAWSWaL0o/1HLnpSeVdNGqI2FVCW1rd4ZmjKFz5ldwr7Z8cECmG6wFshukwWAnFcrD9IWPiS9ygYjaDoFHsxfd19V/aXqlMAxa/x9Va/pePvRK7Ye8qJ0RRfX2Tib7GKVSGDftcfnjoE1e60YVkYotaocA5RzjADWuDs8jSYTEEGEmfqDKrhxqum1uJMygsFrd6PGjl0q1GVqsk0ulN5HBoEG6g8APQ9lg3PqiLcdK4Z3bRFRtCk4cr7bOMEGjqMOG0v0BU1oA==;VWvffR63w36UaY0u/E55Ww=="
 ---

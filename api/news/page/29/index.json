@@ -2,6 +2,49 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2022-08-27-how-artificial-intelligence-is-finding-critical-heart-failure-patients.md",
+      "title": "How artificial intelligence is finding critical heart failure patients",
+      "excerpt": "Over 6 million American adults suffer from heart failure. But now, doctors are harnessing AI technology to catch the problem before it's fatal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wqad.com/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
+      "originalUrl": "https://www.wqad.com/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.tegna-media.com/assets/WQAD/images/995c409e-08a4-4d28-9233-f96e3239ae90/995c409e-08a4-4d28-9233-f96e3239ae90_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wqad.com/amp/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
+      "cdnAmpWebUrl": "https://www-wqad-com.cdn.ampproject.org/c/s/www.wqad.com/amp/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
+      "publishedDateTime": "2022-08-26T16:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WQAD",
+        "domain": "wqad.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-27-warren-buffett-bullish-on-driverless-trucks-after-purchasing-stake-in-kodiak-robotics.md",
       "title": "Warren Buffett bullish on driverless trucks after purchasing stake in Kodiak Robotics",
       "excerpt": "This investment is a significant validation by Berkshire Hathaway, through Pilot, that driverless trucks are on the cusp of being a reality. It may be hard and even scary to imagine an 18-wheeler ...",
@@ -1150,48 +1193,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-artificial-intelligence-key-for-daisy.md",
-      "title": "Artificial intelligence key for Daisy",
-      "excerpt": "Daisy Hill take a break from league action tomorrow when they travel to Liverpool to face Lower Breck in the first qualifying round of the FA",
-      "sourceUrl": null,
-      "webUrl": "https://www.theboltonnews.co.uk/sport/20742576.artificial-intelligence-key-daisy/",
-      "originalUrl": "https://www.theboltonnews.co.uk/sport/20742576.artificial-intelligence-key-daisy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theboltonnews.co.uk/resources/images/13226640/?type=responsive-gallery",
-          "width": 650,
-          "height": 867,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theboltonnews.co.uk/sport/20742576.amp/",
-      "cdnAmpWebUrl": "https://www-theboltonnews-co-uk.cdn.ampproject.org/c/s/www.theboltonnews.co.uk/sport/20742576.amp/",
-      "publishedDateTime": "2022-08-25T22:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bolton News",
-        "domain": "theboltonnews.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

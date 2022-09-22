@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-07-metas-new-ai-research-may-boost-translations-on-facebook-instagram.md",
+      "title": "Meta’s new AI research may boost translations on Facebook, Instagram",
+      "excerpt": "Facebook's parent company Meta has announced a new AI model for language translation and its research could improve translation on Facebook and Instagram.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/social-media/metas-new-ai-research-may-boost-translations-on-facebook-instagram/",
+      "originalUrl": "https://www.digitaltrends.com/social-media/metas-new-ai-research-may-boost-translations-on-facebook-instagram/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/04/a-series-of-social-media-app-icons-on-a-colorful-smartphone-screen.jpg?p=1",
+          "width": 1500,
+          "height": 999,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/social-media/metas-new-ai-research-may-boost-translations-on-facebook-instagram/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/metas-new-ai-research-may-boost-translations-on-facebook-instagram/?amp",
+      "publishedDateTime": "2022-07-06T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-06-metas-no-language-left-behind-ai-can-now-translate-200-languages.md",
       "title": "Meta's 'No Language Left Behind' AI Can Now Translate 200 Languages",
       "excerpt": "The translation tool will be put to work on Facebook and Instagram and will also be open source for others to use.",
@@ -1338,49 +1391,6 @@
         "Facebook AI",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-snorkel-ai-named-a-2022-gartner-cool-vendor.md",
-      "title": "Snorkel AI Named a 2022 Gartner® Cool Vendor",
-      "excerpt": "Press Release Snorkel AI, the data-centric AI platform company, announced it has been named a 2022 Cool Vendor in Gartner's AI Core Technologies report. According to Gartner, \"Data challenges of accessibility,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/08/snorkel-ai-named-a-2022-gartner-cool-vendor/",
-      "originalUrl": "https://venturebeat.com/2022/06/08/snorkel-ai-named-a-2022-gartner-cool-vendor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/08/snorkel-ai-named-a-2022-gartner-cool-vendor/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/08/snorkel-ai-named-a-2022-gartner-cool-vendor/amp/",
-      "publishedDateTime": "2022-06-08T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

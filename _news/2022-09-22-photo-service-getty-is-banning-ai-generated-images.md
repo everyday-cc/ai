@@ -92,6 +92,20 @@ related:
         width: 434
         height: 441
         isCached: true
+  - title: "Getty Images bans AI-generated content amid copyright concerns"
+    excerpt: "Getty Images said there are ‘open questions’ on the copyright of AI-generated images, though it may prove difficult to enforce the ban."
+    publishedDateTime: 2022-09-22T10:24:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/getty-bans-ai-generated-images"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/09/AdobeStock_395141404_Editorial_Use_Only.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "AI generated game appears on Steam"
     excerpt: "But they are not that great  AI generated games are starting to appear on Steam, but any fears that coders might have to find new jobs filling bags in supermarkets might be a little premature. This Girl Does Not Exist,"
     publishedDateTime: 2022-09-20T09:12:00Z
@@ -130,6 +144,6 @@ related:
       domain: kotaku.com
     quality: 14
 
-secured: "W+EkRv0mk6vWHdXkrYHe51XXEjT27tivILIkOFnVyeh+JYaGxnwXeXyXJeU/FRad8amr7iMGqaCkaKuvOcRiCSTu0qTyZDcA7eLRB5qvifDnXx/FTrDE4VsXpPxazsqHVjmh6/FsV/H+L2WdvPERMlFwQiHsMzqr3pRP9RSdYbn+d/l2TDeVZolKyw0sNXUKFnegFkawxN/mr6m8AMrArSj27e5ogXGR4+UXbVrwXlhUJvwUDUBgCh6L6MLoHk3gmSxKI6Yry+IbLPyMAkRHb3SPjmFtrzKr12+jsAD25FP3Ivfqvl5XxHmBo3nwMvJQsvRma2Cks6TvgrvNXbEZNL+8xKWb5waFmVx6PgNOfDU=;sW7bwyKYBnpBFINc0ADfmg=="
+secured: "rWSgEdEIrF3bFI/HJUlES/lpW9zf92ijkgt2wf/EnZG+lW5Hk52wT6v8IcIl1hcW+FI4Jn+Jaxg1wf0TNrdFmd6mCrstS5YZQ0aOeH6SkDAQILsN//UDLxWUMZgZEozOqdGETF93XIxg224XbJrfmHaNfavHyI38KpBL00e3I/3qTP7ihBXsITcrNl9MDcKRTzCGP+1pP0ne2pIRgT6HmFNzU/6TSF7cm/8fsrJnAIrMpusOHrF7BbBR/1CyRZkRBB7vQUhHQmbVRq3tlCZPLsEWkklrDexA9MoAaErRB4no9cHeQD2us9wVaBXT5GoQF4bVKH5KH8FfhG54o8vVO0zbrc3Aucxd0VWCT6YUmUDQE8XpPO/9XpyxcSVc2B30HVs1Sx8845HitawDDaGFeDFG/BjViAN1fa/6sgjcTyLv2fzUC+b7kUAU/J1kJR+e+gY/cauQCdFmwwh8YrwGWpn69AgmDIXOFHd6PyHoly2HvaoCSjZlMe4XR+I5Np5TZALoFBSNlipw73CHg4PSRw==;vANepY8+JN1T8mnhwvL5Qg=="
 ---
 

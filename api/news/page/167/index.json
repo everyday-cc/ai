@@ -2,6 +2,58 @@
   "page": 167,
   "value": [
     {
+      "path": "_news/2022-05-13-formidable-human-ai-relations-can-accelerate-sustainability-efforts.md",
+      "title": "Formidable Human-AI Relations Can Accelerate Sustainability Efforts",
+      "excerpt": "When working in harmony with humans, AI and other automation systems have the potential to make huge impacts on economic growth across the globe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/formidable-human-ai-relations-can-accelerate-sustainability-efforts/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/formidable-human-ai-relations-can-accelerate-sustainability-efforts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f8ef32c53de1add7201f44a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/formidable-human-ai-relations-can-accelerate-sustainability-efforts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/13/formidable-human-ai-relations-can-accelerate-sustainability-efforts/amp/",
+      "publishedDateTime": "2022-05-13T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-05-13-megatrends-ceos-of-mttr-nexcf-oggff-and-upst-discuss-next-big-growth-waves-in-metaverse-ai-plant-based-foods-and-fintech.md",
       "title": "Megatrends: CEOs of MTTR, NEXCF, OGGFF, and UPST Discuss Next Big Growth Waves in Metaverse, AI, Plant-Based Foods, and Fintech",
       "excerpt": "We believe in our core that AI lending isn’t a one-category phenomenon ... before and hope to use what I learned there to build Upstart into the most impactful fintech in the world…” Upstart Holdings, Inc. (NASDAQ: UPST) Earnings Highlights: https ...",
@@ -1132,49 +1184,6 @@
         "AWS AI",
         "Computer Vision",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-3d-printer-companies-makerbot-and-ultimaker-to-merge.md",
-      "title": "3D printer companies MakerBot and Ultimaker to merge",
-      "excerpt": "MakerBot Industries LLC, a major supplier of desktop 3D printers, today announced plans to merge with rival Ultimaker BV. The transaction is expected to be completed by the end of the third quarter.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/05/12/3d-printer-companies-makerbot-ultimaker-merge/",
-      "originalUrl": "https://siliconangle.com/2022/05/12/3d-printer-companies-makerbot-ultimaker-merge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/MakerBot.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

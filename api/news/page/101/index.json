@@ -2,6 +2,50 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2022-06-30-ai-ethics-should-be-hardcoded-like-security-by-design.md",
+      "title": "AI ethics should be hardcoded like security by design",
+      "excerpt": "With security by design essential to ensure IT systems are built to be robust from development, the same approach should be applied to artificial intelligence tools so these can be deployed responsibly and without bias,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-ethics-should-be-hardcoded-like-security-by-design/",
+      "originalUrl": "https://www.zdnet.com/article/ai-ethics-should-be-hardcoded-like-security-by-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-ethics-should-be-hardcoded-like-security-by-design/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-ethics-should-be-hardcoded-like-security-by-design/",
+      "publishedDateTime": "2022-06-30T01:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-06-30-chinas-baidu-joins-race-to-develop-driverless-cars.md",
       "title": "China’s Baidu joins race to develop driverless cars",
       "excerpt": "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane.",
@@ -1083,58 +1127,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-hyperparameter-optimization-for-fine-tuning-pre-trained-transformer-models-from-hugging-face.md",
-      "title": "Hyperparameter optimization for fine-tuning pre-trained transformer models from Hugging Face",
-      "excerpt": "Large attention-based transformer models have obtained massive gains on natural language processing (NLP). However, training these gigantic networks from scratch requires a tremendous amount of data and compute. For smaller NLP datasets, a simple yet effective strategy is to use a pre-trained transformer,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/hyperparameter-optimization-for-fine-tuning-pre-trained-transformer-models-from-hugging-face/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/hyperparameter-optimization-for-fine-tuning-pre-trained-transformer-models-from-hugging-face/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/29/Featured-images-for-ML-9045.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T09:57:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

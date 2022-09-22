@@ -102,6 +102,20 @@ related:
         width: 434
         height: 441
         isCached: true
+  - title: "Getty Images bans AI-generated content amid copyright concerns"
+    excerpt: "Getty Images said there are ‘open questions’ on the copyright of AI-generated images, though it may prove difficult to enforce the ban."
+    publishedDateTime: 2022-09-22T10:24:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/getty-bans-ai-generated-images"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/09/AdobeStock_395141404_Editorial_Use_Only.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Getty Images Is Barring Illustrations Created by Artificial Intelligence"
     excerpt: "Getty Images won’t sell AI-generated art as photographers have called for more regulations on AI-content generators."
     publishedDateTime: 2022-09-21T16:25:00Z

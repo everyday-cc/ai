@@ -2,6 +2,58 @@
   "page": 161,
   "value": [
     {
+      "path": "_news/2022-05-19-chatbots-can-be-weaponized-how-to-defend-against-these-attacks.md",
+      "title": "Chatbots Can Be Weaponized — How To Defend Against These Attacks",
+      "excerpt": "The speed of chatbot adoption has outpaced the expansion of cybersecurity programs to protect against threats introduced by these technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/chatbots-can-be-weaponized---how-to-defend-against-these-attacks/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/chatbots-can-be-weaponized---how-to-defend-against-these-attacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//6284f6da3e3c95aefd5ef10d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/chatbots-can-be-weaponized---how-to-defend-against-these-attacks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/19/chatbots-can-be-weaponized---how-to-defend-against-these-attacks/amp/",
+      "publishedDateTime": "2022-05-19T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-19-tesla-releases-new-full-self-driving-beta-update-and-its-a-big-one.md",
       "title": "Tesla releases new Full Self-Driving Beta update and it’s a big one",
       "excerpt": "Beta software update with improvements based on over 250,000 training video clips from its fleet. Based on the release notes, it’s a big update. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,",
@@ -1099,57 +1151,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-artificial-intelligence-ai-hardware-market-size-in-depth-analysis-report-and-global-forecast-to-2027.md",
-      "title": "Artificial Intelligence (AI) Hardware Market Size, In-depth Analysis Report and Global Forecast to 2027",
-      "excerpt": "A recent report provides crucial insights along with application based and forecast information in the Global Artificial Intelligence (AI) Hardware Market. The report provides a comprehensive analysis of key factors that are expected to drive the growth of this market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-size-in-depth-analysis-report-and-global-forecast-to-2027-2022-05-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-size-in-depth-analysis-report-and-global-forecast-to-2027-2022-05-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 276,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
