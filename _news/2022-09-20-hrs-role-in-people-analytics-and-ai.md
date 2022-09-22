@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 48
+  - title: "Predictive Analytics Market – Future Plans and Industry Growth with Quantitative and Qualitative Analysis"
+    excerpt: "The Predictive Analytics Market revenues were estimated at US$ 10.5 Bn in 2021 and is anticipated to grow at a CAGR"
+    publishedDateTime: 2022-09-19T08:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/predictive-analytics-market-future-plans-and-industry-growth-with-quantitative-and-qualitative-analysis-2022-09-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI and Automation to Power Banking Sector Transformation: SPIN Analytics at DTW 2022"
     excerpt: "In conjunction with the ongoing Digital Transformation World (DTW) 2022, Ariana Lynn, Senior Editor at The Fast Mode spoke to Panos Skliamis, CEO and Founder of SPIN Analytics."
     publishedDateTime: 2022-09-21T13:04:00Z

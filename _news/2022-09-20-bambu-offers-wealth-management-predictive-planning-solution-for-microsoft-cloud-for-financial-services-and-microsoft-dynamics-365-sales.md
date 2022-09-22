@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/bambu-offers-wealt
 webUrl: "https://markets.businessinsider.com/news/stocks/bambu-offers-wealth-management-predictive-planning-solution-for-microsoft-cloud-for-financial-services-and-microsoft-dynamics-365-sales-1031754367"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,17 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Will ServiceNow Be Worth More Than Microsoft by 2030?"
+    excerpt: "Just like other richly valued tech stocks, ServiceNow lost some luster as interest rates rose over the past year. Image source: . Nevertheless, ServiceNow has still generated massive gains for its initial investors and will likely continue to generate double-digit sales growth for years to come."
+    publishedDateTime: 2022-09-20T09:10:00Z
+    webUrl: "https://www.nasdaq.com/articles/will-servicenow-be-worth-more-than-microsoft-by-2030"
+    ampWebUrl: "https://www.nasdaq.com/articles/will-servicenow-be-worth-more-than-microsoft-by-2030?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-servicenow-be-worth-more-than-microsoft-by-2030?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Bambu offers Wealth Management Predictive Planning Solution for Microsoft Cloud for Financial Services and Microsoft Dynamics 365 Sales"
     excerpt: "Global wealth technology provider launches predictive planner for Microsoft Cloud for Financial Services SINGAPORE, Sept. 21, 2022 /PRNewswire/ -- Bambu, a global wealth technology"
     publishedDateTime: 2022-09-20T17:00:00Z

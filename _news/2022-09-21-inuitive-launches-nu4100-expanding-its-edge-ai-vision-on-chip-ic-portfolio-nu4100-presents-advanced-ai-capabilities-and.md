@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Inuitive launches NU4100, expanding its Edge-AI Vision-on-Chip IC portfolio"
+    excerpt: "Based on Inuitive’s unique architecture and advanced 12nm process technology, the new NU4100 IC supports integrated dual-channel 4K ISP, enhanced AI processing, and depth sensing in a single-chip, low-power design,"
+    publishedDateTime: 2022-09-22T06:54:00Z
+    webUrl: "https://www.design-reuse.com/news/52699/inuitive-edge-ai-vision-on-chip-ic.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 54
+    images:
+      - url: "https://www.design-reuse.com/news_img2/homepage52699/intb.jpg"
+        width: 700
+        height: 369
+        isCached: true
   - title: "Inuitive launches NU4100, expanding its Edge AI Vision-on-Chip IC portfolio"
     excerpt: "Inuitive Ltd., a Vision-on-Chip processors company, announced today the launch of its new NU4100, an expansion of its Vision and AI IC portfolio. Based on Inuitive’s unique architecture and"
     publishedDateTime: 2022-09-21T15:38:00Z

@@ -39,6 +39,15 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Deep Instinct Raises $62.5M in Financing"
+    excerpt: "Deep Instinct, a New York-based threat-prevention technology company, raised $62.5M in funding. The round was led by BlackRock, with participation from Chrysalis Investments, Millennium, and Unbound."
+    publishedDateTime: 2022-09-22T06:08:00Z
+    webUrl: "https://www.finsmes.com/2022/09/deep-instinct-raises-62-5m-in-financing.html"
+    type: article
+    provider:
+      name: finsmes
+      domain: finsmes.com
+    quality: 19
 
 secured: "6lUsK6zE62/67b0bsQ3B5TiLz+a35pXW1UWy/fQkUf+oZySQ7lnIWqpxc0tNkWGuMQx3eTor8J8VHqWDCRCdxpJHsRB22NzloCqPt6LGTPnMvjodQ/QvtJtjqu6iRToBe3Mcm1oUtFti5AyVA6p9Cnk6Lk4n7oIQDWajSwjZ71F1IN89cPUeI3ULv6/IXkLYqLvoANd9BqHFy/pbm3nPyfplGozIegBmdIHtCJizfVJYOXtDdqcYQBsPNzlGaz0qhuZXNisstBpAjZdrNIwXhFpVzGjS/ocdj5hKx3kg52deaCKxoj5qCSvVtjmu4jmNQ9TFGjIOyBAJTSSDdeTlA0FUnFK3x5vhhVexQaNVx3o=;cSJl7xuOvfAjYpqtjkF1dw=="
 ---

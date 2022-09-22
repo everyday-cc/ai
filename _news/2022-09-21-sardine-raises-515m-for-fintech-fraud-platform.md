@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Instinct Raises $62.5M in Financing"
+    excerpt: "Deep Instinct, a New York-based threat-prevention technology company, raised $62.5M in funding. The round was led by BlackRock, with participation from Chrysalis Investments, Millennium, and Unbound."
+    publishedDateTime: 2022-09-22T06:08:00Z
+    webUrl: "https://www.finsmes.com/2022/09/deep-instinct-raises-62-5m-in-financing.html"
+    type: article
+    provider:
+      name: finsmes
+      domain: finsmes.com
+    quality: 19
   - title: "Fintech Platform for Millennials MoneyPlanned Raises Over 2.5 Cr. In a Seed Round Led by Inflection Point Ventures"
     excerpt: "Fintech platform MoneyPlanned has raised over 2.5 Cr. in a Seed Round led by Inflection Point Ventures. The round also saw participation from Expert D"
     publishedDateTime: 2022-09-19T06:43:00Z
