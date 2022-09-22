@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-19-machine-learning-as-a-service-mlaas-market-size-to-grow-at-3288-cagr-during-the-forecast-period-of-2022-2027-118-report-pages.md",
+      "title": "Machine Learning as a Service (MLaaS) Market Size to Grow at 32.88% CAGR During the Forecast Period of 2022-2027 | 118 Report Pages",
+      "excerpt": "The global Machine Learning as a Service (MLaaS) market size is expected to expand at a CAGR of 32.88% during the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-to-grow-at-3288-cagr-during-the-forecast-period-of-2022-2027-118-report-pages-2022-09-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-to-grow-at-3288-cagr-during-the-forecast-period-of-2022-2027-118-report-pages-2022-09-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-19-xiaomi-face-recognition-smart-door-lock-with-3d-structured-light-tech-launched.md",
       "title": "Xiaomi Face Recognition Smart Door Lock with 3D structured light tech launched",
       "excerpt": "Xiaomi’s latest smart door lock features 3D structured light facial recognition. The Xiaomi Face Recognition Smart Door Lock, as it is called, is an iteration of the 2021 Xiaomi Smart Door Lock X. Pre-sale of the new smart door lock opens on September 20,",
@@ -1148,58 +1200,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-hawke-ai-ceo-discusses-marketing-advancements-that-drive-sustainability.md",
-      "title": "Hawke AI CEO Discusses Marketing Advancements That Drive Sustainability",
-      "excerpt": "As artificial intelligence can optimize processes, marketers are able to better prioritize their time and energy, leading to more sustainable marketing practices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jefffromm/2022/09/16/hawke-ai-ceo-discusses-marketing-advancements-that-drive-sustainability/",
-      "originalUrl": "https://www.forbes.com/sites/jefffromm/2022/09/16/hawke-ai-ceo-discusses-marketing-advancements-that-drive-sustainability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6320a59e6e56708735fe585a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 782,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jefffromm/2022/09/16/hawke-ai-ceo-discusses-marketing-advancements-that-drive-sustainability/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jefffromm/2022/09/16/hawke-ai-ceo-discusses-marketing-advancements-that-drive-sustainability/amp/",
-      "publishedDateTime": "2022-09-16T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

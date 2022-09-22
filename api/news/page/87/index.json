@@ -2,6 +2,74 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2022-07-12-datarobot-named-a-leader-in-aiml-platforms-by-independent-research-firm.md",
+      "title": "DataRobot Named a Leader in AI/ML Platforms by Independent Research Firm",
+      "excerpt": "According to the report, “DataRobot’s customers appreciate the company’s rise from a niche automated machine learning (AutoML) player to a full-lifecycle AI platform in short order through a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20220711005931/datarobot-named-a-leader-in-aiml-platforms-by-independent-research-firm",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20220711005931/datarobot-named-a-leader-in-aiml-platforms-by-independent-research-firm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-aws-announces-general-availability-of-three-new-serverless-analytics-offerings.md",
+      "title": "AWS Announces General Availability of Three New Serverless Analytics Offerings",
+      "excerpt": "(NASDAQ: AMZN), today announced the general availability of three new serverless analytics offerings that make it even easier for customers to analyze vast amounts of data without having to configure,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nrtoday.com/ap/aws-announces-general-availability-of-three-new-serverless-analytics-offerings/article_5ab5d774-74c7-5fa8-acd2-f5b8f0456ec9.html",
+      "originalUrl": "https://www.nrtoday.com/ap/aws-announces-general-availability-of-three-new-serverless-analytics-offerings/article_5ab5d774-74c7-5fa8-acd2-f5b8f0456ec9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Review Today",
+        "domain": "nrtoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-kyndi-credited-for-helping-companies-capitalize-on-the-potential-of-ai.md",
       "title": "Kyndi Credited for Helping Companies Capitalize on the Potential of AI",
       "excerpt": "\"With organizations recognizing the great potential of AI, it is not surprising that the market size is also expected to increase dramatically. As part of our efforts to focus attention on the innovative knowledge management vendors that are imbuing their offerings with AI and automation,",
@@ -993,100 +1061,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-new-ai-tool-could-help-diagnose-alzheimers-disease-earlier.md",
-      "title": "New AI tool could help diagnose Alzheimer’s disease earlier",
-      "excerpt": "A new artificial intelligence language-processing tool could potentially help detect cognitive impairment and mental degenerative diseases like Alzheimer’s, researchers at Boston University say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ctvnews.ca/sci-tech/new-ai-tool-could-help-diagnose-alzheimer-s-disease-earlier-1.5983555",
-      "originalUrl": "https://www.ctvnews.ca/sci-tech/new-ai-tool-could-help-diagnose-alzheimer-s-disease-earlier-1.5983555",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2022/3/27/1_5835633.jpg",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/national/sci-tech/2022/7/11/1_5983555.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2022/7/11/1_5983555.amp.html",
-      "publishedDateTime": "2022-07-11T17:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-ai-in-computer-vision-market-report-production-capacity-and-consumption-analysis-trends-analysis-report-and-forecasts-2022-to-2030.md",
-      "title": "AI in Computer Vision Market Report: Production Capacity and Consumption Analysis, Trends Analysis Report and Forecasts, 2022 To 2030",
-      "excerpt": "Jul 11, 2022 (Alliance News via COMTEX) -- Key Companies Covered in the AI in Computer Vision Market Research areNVIDIA Corporation, Intel Corporation, Microsoft Corporation, IBM Corporation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-production-capacity-and-consumption-analysis-trends-analysis-report-and-forecasts-2022-to-2030-2022-07-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-production-capacity-and-consumption-analysis-trends-analysis-report-and-forecasts-2022-to-2030-2022-07-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T17:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

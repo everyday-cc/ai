@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/india-is-building-a-da
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/india-is-building-a-database-for-companies-to-train-ai-models-rajeev-chandrasekhar/amp-11663770780027.html"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Mint
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "India creating massive AI database to boost startup ecosystem: Rajeev Chandrasekhar"
+    excerpt: "Mumbai: Minister of State for Electronics and IT, Rajeev Chandrasekhar, Wednesday said that the country is creating one of the largest datasets programmes where anonymised non-personal data will be available for the entire AI ecosystem to boost the startup ecosystem."
+    publishedDateTime: 2022-09-22T01:50:00Z
+    webUrl: "https://www.orissapost.com/india-creating-massive-ai-database-to-boost-startup-ecosystem-rajeev-chandrasekhar/"
+    ampWebUrl: "https://www.orissapost.com/india-creating-massive-ai-database-to-boost-startup-ecosystem-rajeev-chandrasekhar/"
+    cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/india-creating-massive-ai-database-to-boost-startup-ecosystem-rajeev-chandrasekhar/"
+    type: article
+    provider:
+      name: orissapost
+      domain: orissapost.com
+    quality: 51
+    images:
+      - url: "https://www.orissapost.com/wp-content/uploads/2021/11/Rajeev-Chandrasekhar.png"
+        width: 894
+        height: 611
+        isCached: true
   - title: "India creating massive AI database to boost startup ecosystem: Rajeev Chandrasekhar"
     excerpt: "Minister of State for Electronics and IT, Rajeev Chandrasekhar, said on Wednesday that the country is creating one of the largest datasets programmes where anonymised non-personal data will be available for the entire AI ecosystem to boost the startup ecosystem."
     publishedDateTime: 2022-09-21T13:45:00Z

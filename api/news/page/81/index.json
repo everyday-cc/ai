@@ -2,6 +2,100 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2022-07-18-the-time-is-nigh-for-responsible-ai-and-data-ethics.md",
+      "title": "The time is nigh for responsible AI and data ethics",
+      "excerpt": "Many jurisdictions are following the EU’s proposed regulation of artificial intelligence. Firms that have not begun to develop their AI systems to comply with the new regulation are being advised to do so now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thebanker.com/Transactions-Technology/Technology/The-time-is-nigh-for-responsible-AI-and-data-ethics",
+      "originalUrl": "https://www.thebanker.com/Transactions-Technology/Technology/The-time-is-nigh-for-responsible-AI-and-data-ethics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thebanker.com/var/ezflow_site/storage/images/media/images/ai-regulation2/12062182-1-eng-GB/AI-regulation_reference.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T01:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Banker",
+        "domain": "thebanker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-18-ai-helps-the-powerful-but-harms-the-vulnerable-mozilla-warns.md",
+      "title": "AI Helps the Powerful but Harms the Vulnerable, Mozilla Warns",
+      "excerpt": "The artificial-intelligence revolution sweeping the computing industry is bringing plenty of problems along with the progress, the nonprofit concludes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/ai-helps-the-powerful-but-harms-the-vulnerable-mozilla-warns/",
+      "originalUrl": "https://www.cnet.com/tech/computing/ai-helps-the-powerful-but-harms-the-vulnerable-mozilla-warns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/89754831742f4465fdf08f42ea7e123d3c661b23/2022/05/18/3d52e72f-2066-4b95-83a3-8b784ccdd419/bots-spam-ai-011.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-helps-the-powerful-but-harms-the-vulnerable-mozilla-warns/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-helps-the-powerful-but-harms-the-vulnerable-mozilla-warns/",
+      "publishedDateTime": "2022-07-18T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-artificial-intelligence-in-cybersecurity-market-size-to-reach-usd-1338-billion-by-2030-driven-by-growing-number-of-cyber-attacks.md",
       "title": "Artificial Intelligence in Cybersecurity Market Size to Reach USD 133.8 Billion by 2030 Driven by Growing Number of Cyber Attacks",
       "excerpt": "The Global Artificial Intelligence (AI) in Cybersecurity Market size accounted for USD 14.9 Billion in 2021 and is estimated to reach the market value of USD 133.8 Billion by",
@@ -1068,92 +1162,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-16-azure-static-web-apps-introduces-api-backend-options.md",
-      "title": "Azure Static Web Apps Introduces API Backend Options",
-      "excerpt": "Machine Learning, WebAssembley, modern data pipelines, the emerging Staff-Plus engineer path, and more. In this episode, Marco Valtas, technical lead for cleantech and sustainability at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/07/azure-swa-backend-apis/",
-      "originalUrl": "https://www.infoq.com/news/2022/07/azure-swa-backend-apis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2022/07/azure-swa-backend-apis/en/headerimage/generatedHeaderImage-1657304420868.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-16T01:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-16-facebooks-universal-music-translator.md",
-      "title": "Facebook’s Universal Music Translator",
-      "excerpt": "Star Trek has its universal language translator and now researchers from ... was also used in the recently announced Google Duplex AI. The inspiration for it came from the human ability to ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/06/02/facebooks-universal-music-translator/",
-      "originalUrl": "https://hackaday.com/2018/06/02/facebooks-universal-music-translator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/05/universal_music_translation_fe1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,83 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-09-08-global-artificial-intelligence-market-report-to-2030-increasing-cross-industry-partnerships-and-collaborations-are-driving-growth.md",
+      "title": "Global Artificial Intelligence Market Report to 2030 - Increasing Cross-Industry Partnerships and Collaborations are Driving Growth",
+      "excerpt": "For more information about this report visit https://www.researchandmarkets.com/r/j7pdf5",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/g28788875/global-artificial-intelligence-market-report-to-2030-increasing-cross-industry-partnerships-and-co",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/g28788875/global-artificial-intelligence-market-report-to-2030-increasing-cross-industry-partnerships-and-co",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-08-can-good-dental-health-help-protect-against-cognitive-decline-and-dementia.md",
+      "title": "Can good dental health help protect against cognitive decline and dementia?",
+      "excerpt": "More information: \"Periodontal Health, Cognitive Decline, and Dementia—A Systematic Review and Meta-analysis of Longitudinal Studies\", Journal of the American Geriatrics Society (2022). DOI: 10. ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-09-good-dental-health-cognitive-decline.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-09-good-dental-health-cognitive-decline.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/dementia.jpg",
+          "width": 1600,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-09-good-dental-health-cognitive-decline.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-good-dental-health-cognitive-decline.amp",
+      "publishedDateTime": "2022-09-08T00:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-08-thetaray-ai-tech-to-monitor-african-payments-for-arca.md",
       "title": "ThetaRay AI Tech to Monitor African Payments for ARCA",
       "excerpt": "ARCA is the first Nigerian fintech to adopt ThetaRay’s advanced SONAR solution, industry renowned for its ability to detect the very first signs of sophisticated financial crime. ARCA provides advanced digital payments for an open banking ecosystem,",
@@ -1028,110 +1105,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-the-company-that-says-it-is-pioneering-the-golden-age-of-robotics.md",
-      "title": "The Company That Says It Is Pioneering the Golden Age of Robotics",
-      "excerpt": "That's why Ally Robotics has pioneered user-friendly, low-cost robotic arms to meet this demand and is seeking investors to help them expand. And with so many manufacturers, restaurants, and others yet to adopt automation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/leadership/the-company-that-says-it-is-pioneering-the-golden-age-of/434638",
-      "originalUrl": "https://www.entrepreneur.com/leadership/the-company-that-says-it-is-pioneering-the-golden-age-of/434638",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1662129913-Ally-Image2.png",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-07T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it.md",
-      "title": "Tesla’s ‘full self-driving’ isn’t worth $15,000, say many who bought it",
-      "excerpt": "Tesla's price for the feature it calls \"full self-driving\" has increased again. This time to $15,000, making it an unusually expensive option for a car.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/09/07/business/tesla-fsd-price-increase/index.html",
-      "originalUrl": "https://www.cnn.com/2022/09/07/business/tesla-fsd-price-increase/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220906152126-02-tesla-interior-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/09/07/business/tesla-fsd-price-increase/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/07/business/tesla-fsd-price-increase/index.html",
-      "publishedDateTime": "2022-09-07T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

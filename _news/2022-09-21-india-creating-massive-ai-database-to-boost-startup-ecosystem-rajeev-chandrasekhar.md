@@ -40,6 +40,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "India creating massive AI database to boost startup ecosystem: Rajeev Chandrasekhar"
+    excerpt: "Mumbai: Minister of State for Electronics and IT, Rajeev Chandrasekhar, Wednesday said that the country is creating one of the largest datasets programmes where anonymised non-personal data will be available for the entire AI ecosystem to boost the startup ecosystem."
+    publishedDateTime: 2022-09-22T01:50:00Z
+    webUrl: "https://www.orissapost.com/india-creating-massive-ai-database-to-boost-startup-ecosystem-rajeev-chandrasekhar/"
+    ampWebUrl: "https://www.orissapost.com/india-creating-massive-ai-database-to-boost-startup-ecosystem-rajeev-chandrasekhar/"
+    cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/india-creating-massive-ai-database-to-boost-startup-ecosystem-rajeev-chandrasekhar/"
+    type: article
+    provider:
+      name: orissapost
+      domain: orissapost.com
+    quality: 51
+    images:
+      - url: "https://www.orissapost.com/wp-content/uploads/2021/11/Rajeev-Chandrasekhar.png"
+        width: 894
+        height: 611
+        isCached: true
 
 secured: "QznHpYzkfms/8uauypH/3QaF922wIGa92k3KZO0HWtZlG5kJ98ycAsQEeTu7M7YBYiH/iIyBFIXl8ihuwafQgELUx0miRRS6rJOXnsr6FHVHihtg2gOr100sMEF3OlZ8eqhFTDzV0LGP09sOUpaCJUdlIhMm8V2K+6JQ/bJRLtIK7jgoSi+yoxhzqydB84sJjOgHDw6xrm4ftMfyHh7IhhL2G369TQgc5XmQjjPpAyX7CEj+Naocszu+TrvHtfYixc0bR0yMCQt/JuMhS3NUmp96sPKtW4Gqojrawask8iAedHTH8keX+vKPkQZDYPGAH5CPp+bK/Row/9vz66KiiTkLzKkLqtGl3QBlDH3JooU=;q0KROYEhj4oZ2+TU5LyCJA=="
 ---

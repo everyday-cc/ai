@@ -1,18 +1,18 @@
 ---
 category: news
-title: "WeRide launches the first self-driving Robobus Test Ride in Saudi Arabia at 2022 Global AI Summit"
-excerpt: "This is the first fully driverless test ride of robobus in the Middle East country and it will take place from Sep. 19th to 22nd"
-publishedDateTime: 2022-09-19T07:41:00Z
-originalUrl: "https://www.zawya.com/en/press-release/companies-news/weride-launches-the-first-self-driving-robobus-test-ride-in-saudi-arabia-at-2022-global-ai-summit-d035ufgp"
-webUrl: "https://www.zawya.com/en/press-release/companies-news/weride-launches-the-first-self-driving-robobus-test-ride-in-saudi-arabia-at-2022-global-ai-summit-d035ufgp"
+title: "WeRide Launches the First Self-driving Robobus Test Ride in Saudi Arabia at 2022 Global AI Summit"
+excerpt: "WeRide launched the first driverless public Robotaxi service in the Middle East in Abu Dhabi, capital of the United Arab Emirates. The launch of the driverless robobus in Riyadh becomes another important milestone in WeRide's global footprint,"
+publishedDateTime: 2022-09-19T06:05:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/09/19/9675581.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/09/19/9675581.htm"
 type: article
 quality: 6
 heat: -1
 published: false
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Autos
@@ -29,6 +29,6 @@ related:
       domain: aawsat.com
     quality: 49
 
-secured: "KkEjdP06VYBONf7aY6F17Jw9mZnG2Thsjwh1bKm2Id2wqLqwQycDuyLl12wphweohlGZRUuPHXXGtYazhW86hZKs+VeYBVzSzLft/JNLpf0OlE7YE553UAdgQEiCaDAV3QU+LK7LvPyzHJ5hMmMy2k/wB+xoD63p7oPNN+V85cwaM646DlCNXi2SQlh1gUNFnhGUfRc/AgPJheM4XLfeu28JAqxfamCGpM3esh+lRabmUYOXVhtnX/xPNqnOo4G5+NicdhihPUVw3b6J24aGZdG4QdNvGKljM2npjsd6n1Uj8Ec52+/DMGH5rJpmAW5955yok2oKXvz3zNOXaeODBst2Hn3Xy0E9kuqQLrbQJ2c=;/PaFS8Rp8F/mMiK1Mlxx7Q=="
+secured: "SVaZCvFtMnlZqDeuu+Vm6BfrOxPvPDINWVA0VavVzGsDAAzxN8maFWUxkRJ4z2iveYCT9IlT5YDNxAWh70mWCm/oIKPE/MifUqRb0YY6v05LCigonrfOyDpXnZLu5bOS92NXXPzHwPCRBQk2EzQ80fxMue/U2mv6dG3BBmLK7gE/zfb3HGISmJpDLTy+7xBnVZg+6i/BpTNqINe0flNxbi4HAAhl4FFweP3vbqkWP0YVyweYy6LelXvsLN1O79Pe/p80iPTgwGlq4qTE5wlk21UmIRM9lXRjkDp5eHrWw8aUZBHVlbf5jglynA8ckbJe1pwDwLBf20M1d4ZdcLB+yS6C5fv2c3ckaobbtLNiXtY=;75VqbT9+/F7gdjNHH7GWOg=="
 ---
 

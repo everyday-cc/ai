@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-09-15-get-global-exposure-to-japans-robotics-industry-with-this-etf.md",
+      "title": "Get Global Exposure to Japan’s Robotics Industry With This ETF",
+      "excerpt": "There's no doubt that robotics is going to experience unprecedented growth over the next decade as the world becomes more automated, but certain countries have been leading the charge towards that shift,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/get-global-exposure-to-japans-robotics-industry-with-this-etf",
+      "originalUrl": "https://www.nasdaq.com/articles/get-global-exposure-to-japans-robotics-industry-with-this-etf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/get-global-exposure-to-japans-robotics-industry-with-this-etf?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/get-global-exposure-to-japans-robotics-industry-with-this-etf?amp",
+      "publishedDateTime": "2022-09-15T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-15-expanding-access-to-technology-by-democratizing-access-to-ai-powered-software.md",
       "title": "Expanding Access To Technology By Democratizing Access To AI-Powered Software",
       "excerpt": "AI is now transforming the software development space itself and making it easier for businesses of all sizes.",
@@ -876,6 +910,57 @@
       ]
     },
     {
+      "path": "_news/2022-09-15-silicon-valley-startup-sambanova-offers-new-ai-system-triples-previous-system-speed.md",
+      "title": "Silicon Valley startup SambaNova offers new AI system, triples previous system speed",
+      "excerpt": "Sept 14 (Reuters) - SambaNova Systems, a SoftBank-backed Silicon Valley artificial intelligence chip and systems startup, said on Wednesday it has started offering its new AI system called ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/silicon-valley-startup-sambanova-offers-new-ai-system-triples-previous-system-2022-09-14/",
+      "originalUrl": "https://www.reuters.com/technology/silicon-valley-startup-sambanova-offers-new-ai-system-triples-previous-system-2022-09-14/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/X1FhAbpl2CFPcOFqhIJPqtP3Aqc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LB5THJQFTFPU7EPDZ7L5BMVSFM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-15-intel-arm-and-nvidia-propose-new-standard-to-make-ai-processing-more-efficient.md",
       "title": "Intel, Arm and Nvidia propose new standard to make AI processing more efficient",
       "excerpt": "Intel, Arm and Nvidia have proposed a standard that they say can reduce the amount of memory and processing power required for AI workloads.",
@@ -1044,83 +1129,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-video-ai-startup-awiros-raises-7-million-in-series-a-funding.md",
-      "title": "Video AI startup Awiros raises $7 million in Series A funding",
-      "excerpt": "The startup offers a marketplace of video AI called Apps, that aims to help customers discover and adopt technology solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/business/startups/news/video-ai-startup-awiros-raises-7-million-in-series-a-funding/articleshow/94199580.cms",
-      "originalUrl": "https://www.businessinsider.in/business/startups/news/video-ai-startup-awiros-raises-7-million-in-series-a-funding/articleshow/94199580.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-zendesk-launches-new-customer-sentiment-and-intent-functionality-powered-by-machine-learning.md",
-      "title": "Zendesk Launches New Customer Sentiment and Intent Functionality Powered by Machine Learning",
-      "excerpt": "(NYSE: ZEN) today announced Intelligent Triage and Smart Assist, new AI solutions empowering businesses to triage customer support requests automatically and access valuable data at scale. By democratizing access to these solutions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/zendesk-launches-new-customer-sentiment-and-intent-functionality-powered-by-machine-learning/article_4d1caeba-943f-5ad7-bc4b-b2cab9720fb2.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/zendesk-launches-new-customer-sentiment-and-intent-functionality-powered-by-machine-learning/article_4d1caeba-943f-5ad7-bc4b-b2cab9720fb2.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg",
-          "width": 350,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

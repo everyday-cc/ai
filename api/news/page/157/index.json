@@ -2,6 +2,92 @@
   "page": 157,
   "value": [
     {
+      "path": "_news/2022-05-23-blue-turtle-takes-wrapper-off-ai-driven-soc-offering-at-itweb-security-summit.md",
+      "title": "Blue Turtle takes wrapper off AI-driven SOC offering at ITWeb Security Summit",
+      "excerpt": "Blue Turtle will showcase its vendors and its AI-driven approach to the SOC from 31 May to 2 June at the Sandton Convention Centre.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/dgp45vaBLwx7X9l8",
+      "originalUrl": "https://www.itweb.co.za/content/dgp45vaBLwx7X9l8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/wGgGctulHEBVzx37jO0KxYB0BWjcQ-YFwWyRc4BHpSWZbl6qq5cUC2hkHjAmi92U_5jQ_JBJGscghGXF9jjfFOX_yl9oNSktqc1C=w816-h428",
+          "width": 816,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/dgp45vaBLwx7X9l8",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/dgp45vaBLwx7X9l8",
+      "publishedDateTime": "2022-05-23T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-hai-robotics-to-show-its-tallest-robot-for-the-1st-time-in-europe-at-logimat-2022.md",
+      "title": "HAI ROBOTICS to Show Its Tallest Robot for the 1st Time in Europe at LogiMAT 2022",
+      "excerpt": "HAI ROBOTICS, the pioneer in Autonomous Case-handling Robot (ACR) systems for warehouse logistics, will exhibit its cutting-edge automation technology at LogiMAT 2022, Europe's biggest annual intralogistics tradeshow,",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/hai-robotics-to-show-its-tallest-robot-for-the-1st-time-in-europe-at-logimat/article_4d4ecfe2-aeda-5347-b972-30f5d8366bf6.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/hai-robotics-to-show-its-tallest-robot-for-the-1st-time-in-europe-at-logimat/article_4d4ecfe2-aeda-5347-b972-30f5d8366bf6.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/6/7f/67fb44f3-c878-559c-a7b9-fd57d7ffd061/628b49d386acc.image.jpg?crop=1247%2C655%2C0%2C504&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T01:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-23-nextbillionai-raises-21-million-in-series-b-round.md",
       "title": "NextBillion.ai raises $21 million in Series B round",
       "excerpt": "The funding round was led by global investment firm Mirae Asset Capital. Existing investors Lightspeed, M12 (Microsoft’s Venture Fund), and Alphawave NextBillion.ai, a spatial data and mapping platform for enterprises, has raised $21 million in a Series ...",
@@ -1051,93 +1137,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-digital-biomarkers-are-healthcares-next-frontier.md",
-      "title": "Digital biomarkers are healthcare’s next frontier",
-      "excerpt": "Sunny Kumar, MD, MBA is a partner at GSR Ventures, an early-stage venture capital firm focused on healthcare technology ... the sensor data is analyzed with artificial intelligence (AI) and ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/20/digital-biomarkers-are-healthcares-next-frontier/",
-      "originalUrl": "https://techcrunch.com/2022/05/20/digital-biomarkers-are-healthcares-next-frontier/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-560115497.jpg?w=600",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-20T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-litigation-capital-to-finance-claim-against-google-deepmind-for-unlawful-use-of-medical-records.md",
-      "title": "Litigation Capital to finance claim against Google, DeepMind for unlawful use of medical records",
-      "excerpt": "said it has entered into a litigation finance agreement for a new High Court claim on behalf of up to 1.6mln individuals against Google and DeepMind Technologies for the unlawful use of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.proactiveinvestors.co.uk/companies/news/982280",
-      "originalUrl": "https://www.proactiveinvestors.co.uk/companies/news/982280",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-20T11:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Proactive Investors",
-        "domain": "proactiveinvestors.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -2,6 +2,109 @@
   "page": 168,
   "value": [
     {
+      "path": "_news/2022-05-12-the-man-who-controls-computers-with-his-mind.md",
+      "title": "The Man Who Controls Computers With His Mind",
+      "excerpt": "Staring at the computer screen, searching his mind for a way to begin ... interfaces have learned to play simple tunes on a digital keyboard, control exoskeletons and maneuver robotic limbs with enough dexterity to drink from a bottle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.html",
+      "originalUrl": "https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/15/magazine/15mag-BCI/15mag-BCI-facebookJumbo-v5.png",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/12/magazine/brain-computer-interface.amp.html",
+      "publishedDateTime": "2022-05-12T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-californias-ai-powered-wildfire-prevention-efforts-contend-with-data-challenge.md",
+      "title": "California’s AI-Powered Wildfire Prevention Efforts Contend With Data Challenge",
+      "excerpt": "The state’s utilities are racing to build AI models capable of identifying equipment problems that could cause wildfires.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/californias-ai-powered-wildfire-prevention-efforts-contend-with-data-challenge-11652347803",
+      "originalUrl": "https://www.wsj.com/articles/californias-ai-powered-wildfire-prevention-efforts-contend-with-data-challenge-11652347803",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-542314/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/californias-ai-powered-wildfire-prevention-efforts-contend-with-data-challenge-11652347803",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/californias-ai-powered-wildfire-prevention-efforts-contend-with-data-challenge-11652347803",
+      "publishedDateTime": "2022-05-12T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-at-jpmorgan-chase-upskilling-goes-hand-in-hand-with-innovation.md",
       "title": "At JPMorgan Chase, Upskilling Goes Hand-in-Hand With Innovation",
       "excerpt": "It sounds like a scene from your typical automotive race, but it’s not. It’s actually the championship round of the 2021 Amazon Web Services DeepRacer, the global competition in which technologists flex their machine learning savvy to guide autonomous ...",
@@ -1066,101 +1169,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-ibm-think-2022-broad-array-of-ibm-software-catalog-now-available-as-saas-offerings-on-aws.md",
-      "title": "IBM Think 2022 – Broad array of IBM software catalog now available as SaaS offerings on AWS",
-      "excerpt": "IBM today announced it has signed a strategic collaboration agreement with AWS, with plans to offer a broad array of its software catalog as SaaS on AWS.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/ibm-think-2022-broad-array-of-ibm-software-catalog-now-available-as-saas-offerings-on-aws/121646",
-      "originalUrl": "https://www.itbusiness.ca/news/ibm-think-2022-broad-array-of-ibm-software-catalog-now-available-as-saas-offerings-on-aws/121646",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2022/05/think-2022.jpg",
-          "width": 1372,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/ibm-think-2022-broad-array-of-ibm-software-catalog-now-available-as-saas-offerings-on-aws/121646?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/ibm-think-2022-broad-array-of-ibm-software-catalog-now-available-as-saas-offerings-on-aws/121646?amp=1",
-      "publishedDateTime": "2022-05-11T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-ai-50-methodology-how-we-selected-our-honorees.md",
-      "title": "AI 50 Methodology: How We Selected Our Honorees",
-      "excerpt": "he Forbes AI 50 list celebrates the most promising private companies in North America using artificial intelligence in impactful ways and demonstrating real business potential from doing so.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2022/05/06/ai-50-methodology-how-we-selected-our-honorees/",
-      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2022/05/06/ai-50-methodology-how-we-selected-our-honorees/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62758b1f41e73f41953ddefe/0x0.jpg?format=jpg&crop=1920,1079,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2022/05/06/ai-50-methodology-how-we-selected-our-honorees/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2022/05/06/ai-50-methodology-how-we-selected-our-honorees/",
-      "publishedDateTime": "2022-05-11T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

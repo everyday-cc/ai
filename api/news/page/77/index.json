@@ -2,6 +2,91 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2022-07-20-5-ways-ai-is-detecting-and-preventing-identity-fraud.md",
+      "title": "5 ways AI is detecting and preventing identity fraud",
+      "excerpt": "Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! The rise in identity fraud has set new records in 2022. This was put in motion by fraudulent SBA loan applications totaling nearly $80 billion being approved,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/20/5-ways-ai-is-detecting-and-preventing-identity-fraud/",
+      "originalUrl": "https://venturebeat.com/2022/07/20/5-ways-ai-is-detecting-and-preventing-identity-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-155354133.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/20/5-ways-ai-is-detecting-and-preventing-identity-fraud/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/20/5-ways-ai-is-detecting-and-preventing-identity-fraud/amp/",
+      "publishedDateTime": "2022-07-20T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-fusemachines-expands-ai-training-for-corporations-by-partnering-with-fintech-focused-financial-literacy-platform-viableedu.md",
+      "title": "Fusemachines Expands AI Training for Corporations by Partnering With Fintech-Focused Financial Literacy Platform ViableEdu",
+      "excerpt": "ViableEdu will leverage Fusemachines’ AI expertise to create a first-of-its-kind training offering for fintech professionals. The new partnership will empower the distinct audience group of financial services professionals to benefit from curated AI training opportunities.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/Newswire/technology-education-5111e7030c6ddae5c26610847ee7d626",
+      "originalUrl": "https://apnews.com/press-release/Newswire/technology-education-5111e7030c6ddae5c26610847ee7d626",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-machine-translation-market-is-expected-to-boom-alibaba-cloud-apptek-llc-amazoncom-inc.md",
       "title": "Machine Translation Market Is Expected to Boom- Alibaba Cloud, AppTek LLC, Amazon.com Inc.",
       "excerpt": "Machine translation uses artificial intelligence (AI) to automatically translate content between languages without the intervention of human linguists. Google Translate, Bing Translate ...",
@@ -1052,104 +1137,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-history-of-artificial-intelligence.md",
-      "title": "History of Artificial Intelligence",
-      "excerpt": "Through generations, the field of artificial intelligence has persevered and become a hugely significant part of modern life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/enterprise-apps/history-of-artificial-intelligence/",
-      "originalUrl": "https://www.eweek.com/enterprise-apps/history-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/05/enterprise-AI.jpg",
-          "width": 635,
-          "height": 517,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI",
-        "IBM AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-aiming-sky-high-iit-madras-professor-starts-his-own-air-taxi-service-company.md",
-      "title": "Aiming sky-high: IIT Madras professor starts his own air-taxi service company",
-      "excerpt": "Professor Satya Chakravarthy informed that his company — ePlane Company — would enable up to ten times faster passenger commutation and cargo transportation",
-      "sourceUrl": null,
-      "webUrl": "https://www.edexlive.com/news/2022/jul/19/aiming-sky-high-iit-madras-professor-starts-his-own-air-taxi-service-company-30011.html",
-      "originalUrl": "https://www.edexlive.com/news/2022/jul/19/aiming-sky-high-iit-madras-professor-starts-his-own-air-taxi-service-company-30011.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.edexlive.com/uploads/user/imagelibrary/2022/7/19/original/IE19SEPT121_07-11-2019_12_44_44_07467976.jpg",
-          "width": 5520,
-          "height": 3680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.edexlive.com/news/2022/jul/19/aiming-sky-high-iit-madras-professor-starts-his-own-air-taxi-service-company-30011.amp",
-      "cdnAmpWebUrl": "https://m-edexlive-com.cdn.ampproject.org/c/s/m.edexlive.com/news/2022/jul/19/aiming-sky-high-iit-madras-professor-starts-his-own-air-taxi-service-company-30011.amp",
-      "publishedDateTime": "2022-07-19T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "edexlive",
-        "domain": "edexlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

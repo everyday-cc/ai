@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-15-indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules.md",
+      "title": "Indian tech startups raise $6 billion in April-June quarter, Fintech rules",
+      "excerpt": "Sixteen large-ticket deals helped generate a total funding of $6 billion in the last quarter, as the number of deals dropped by 17 per cent quarter on quarter, according to the Quarterly Investment Factbook Tech Startups by Nasscon and PGA Labs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html",
+      "originalUrl": "https://www.business-standard.com/article/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/08/full/1644299309-0574.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html",
+      "publishedDateTime": "2022-07-15T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-15-global-automated-machine-learning-automl-market-analysis-and-forecasts-2022-2027-researchandmarketscom.md",
       "title": "Global Automated Machine Learning (AutoML) Market Analysis and Forecasts 2022-2027 - ResearchAndMarkets.com",
       "excerpt": "The Global Automated Machine Learning Market (henceforth referred to as the market studied) was valued at USD 665.63 Million in 2021, and it is expected to reach USD 5,406.75 Million by 2027, registering a CAGR of 42.",
@@ -1272,50 +1315,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation.md",
-      "title": "Panasas Joins MLCommons to Advance Machine Learning Storage Innovation",
-      "excerpt": "Panasas®, the data engine for innovation, today announced its collaboration with MLCommons ™, the consortium behind MLPerf™, to create industry-wide benchmarks for machine learning (ML) storage. Panasas will work with MLCommons to help steer these benchmarks by establishing best practices for measuring ML storage performance and ultimately helping to develop the next generation storage systems for AI/ML.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-e2b8f65083de4d67800a7ed5fd8dbc5e",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-e2b8f65083de4d67800a7ed5fd8dbc5e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

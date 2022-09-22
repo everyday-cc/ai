@@ -2,6 +2,93 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2022-08-16-nigeria-india-to-partner-in-fintech-ai-scientific-development-solar-energy-envoy.md",
+      "title": "Nigeria, India to partner in fintech, AI, scientific development, solar energy – Envoy",
+      "excerpt": "including fintech, artificial intelligence, scientific development and solar energy. Speaking during the 76th independence day of India in Abuja, Balasubramanian also said that they were new areas ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sunnewsonline.com/nigeria-india-to-partner-in-fintech-ai-scientific-development-solar-energy-envoy/",
+      "originalUrl": "https://www.sunnewsonline.com/nigeria-india-to-partner-in-fintech-ai-scientific-development-solar-energy-envoy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-15T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "sunnewsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-15-black-hat-2022-reveals-enterprise-security-trends.md",
+      "title": "Black Hat 2022 reveals enterprise security trends",
+      "excerpt": "Black Hat's presentations for enterprise security provided a look at how enterprises' tech stacks are at risk of devastating cyberattacks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/black-hat-2022-reveals-enterprise-security-trends/",
+      "originalUrl": "https://venturebeat.com/security/black-hat-2022-reveals-enterprise-security-trends/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1-Cybersecurity-threat-illustration-1-e1660581757211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/black-hat-2022-reveals-enterprise-security-trends/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/black-hat-2022-reveals-enterprise-security-trends/amp/",
+      "publishedDateTime": "2022-08-15T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-08-15-we-tested-tesla-full-self-driving-beta-in-the-blue-ridge-mountains-and-it-was-scary.md",
       "title": "We tested Tesla Full Self-Driving Beta in the Blue Ridge Mountains, and it was scary",
       "excerpt": "Beta in the Blue Ridge Mountains in North Carolina, and it was a scary experience. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system, but the driver needs to remain vigilant and ready to take control at all times.",
@@ -1087,83 +1174,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-14-chinese-start-up-boldly-claims-its-autonomous-car-tech-will-overtake-tesla.md",
-      "title": "Chinese start-up boldly claims its autonomous car tech will overtake Tesla",
-      "excerpt": "Backed by China's Google rival Baidu and car maker Geely, Jidu Auto believes the autonomous technology in its vehicles will be better than the systems developed by Tesla.",
-      "sourceUrl": null,
-      "webUrl": "https://www.drive.com.au/news/jidu-auto-autonomous-car-better-than-tesla/",
-      "originalUrl": "https://www.drive.com.au/news/jidu-auto-autonomous-car-better-than-tesla/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.drive.com.au/driveau/image/upload/c_fill,h_720,w_1280/q_auto:eco/f_auto/v1/cms/uploads/xxzhadsur1fjfmyeymgb",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-13T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Drive.com.au",
-        "domain": "drive.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-14-driver-slams-tunnel-toll-after-103-attempts-to-pay-via-voice-recognition-software.md",
-      "title": "Driver slams tunnel toll after '103 attempts to pay' via voice recognition software",
-      "excerpt": "A driver who tried to pay a road toll via voice recognition software has slammed the system after he says it took 103 attempts. Caravanner Ivor Rodgers says he will never use the route again.",
-      "sourceUrl": null,
-      "webUrl": "https://www.walesonline.co.uk/news/uk-news/driver-slams-tunnel-toll-after-24750305",
-      "originalUrl": "https://www.walesonline.co.uk/news/uk-news/driver-slams-tunnel-toll-after-24750305",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-13T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wales Online",
-        "domain": "walesonline.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],
