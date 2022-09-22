@@ -3,8 +3,8 @@ category: news
 title: "TechScape: AI’s dark arts come into their own"
 excerpt: "Advanced AI is moving from the lab into the mainstream – offering a glimpse of the dangers ahead. Plus, What3Words loses its direction"
 publishedDateTime: 2022-09-21T10:18:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/sep/21/ais-dark-arts-come-into-their-own?via=indexdotco"
-webUrl: "https://www.theguardian.com/technology/2022/sep/21/ais-dark-arts-come-into-their-own?via=indexdotco"
+originalUrl: "https://www.theguardian.com/technology/2022/sep/21/ais-dark-arts-come-into-their-own?amp;amp;amp;amp"
+webUrl: "https://www.theguardian.com/technology/2022/sep/21/ais-dark-arts-come-into-their-own?amp;amp;amp;amp"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/sep/21/ais-dark-arts-come-into-their-own"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/sep/21/ais-dark-arts-come-into-their-own"
 type: article
@@ -47,6 +47,6 @@ related:
         height: 372
         isCached: true
 
-secured: "wCsc5nmci20cc5GPs9XajtTtCDwOjfW13ZN03ZHabYoHnJ8ydm9wZkKN+d/Ycfn6j8X2yd8LhEt+xxMs2ziFF+wEIKTZyAIF5X1SSo6z+wsCbkT6g2jRYvxibcXcvfnaDo9me1OGYFjAYbvEyZDAsPjIsCKXA002igyByM55h/luxx2kCLix7Ll6E5saLiHUn+g7gLnwlxbl5dw1UvrCnQpT8HHFWYk8Ct7uQ2zenXxj/H7ig5VNdZRfrz+rsmVNG3zDx5o0oNIEL9Q5c9yHJ3m2MVBtPF5+m0PdjjaE3R2/oGqHBJxl28seh51ed7SQNz8WOadXXRcSEhNw9z1tGy/qZa7XUskSgnYsO+f5l0VL5L8B2yQF79surBtmzT68P5czQOBQlgPP2rGGn299SZ+J2hdBzr6FgqOnwcTI55Rhys3/ld9iR12bsVw0VwqpQ8uYTBBPBBf/XkTgJm2UAG+AbkawgOfwRjFQceC4QslMI6g2rkTORXTwBlwq0OfAc4YXHmGwSmILbqlFzGfi9w==;c7lwv1Sjhuwo+S6x0kiAoA=="
+secured: "AHkylW1L0KnK1w3AV/RFoLkVBSM2u2Le2HQ6qfRMQBYwDp8ZhWzdBHQ4IGLTXqbHb9Z2xCF5s3hFrijT0X6wuPtmdm+Bjw7zf9bsM+AZzzJ+Rihi+FT0HElIEoU7NSWIrpKj4MNrHicFWelyhGPCQzNjmDv1dMkzJE2jStOZO1S56brDPbFSAMFSrLB8bxZfIZVTlq8MPlv3it0E4gcFEA+10vTVzYxMXilosUkQ1Hl0Ln0ajyLcQv78x1a6ug75xDqG7ILi0JC+xcys6QtQftc5JSgEikraiAx52UBoZmigbRPjptNkT2rawE55Zx/j0Q6tXJJS10bvnRPsEfWn08ZShTLtLeFeCMlY5APN6cQ=;mhYromAgb4XwS4smepPmPg=="
 ---
 

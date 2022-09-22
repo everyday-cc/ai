@@ -107,59 +107,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-20-d-id-the-company-behind-deep-nostalgia-lets-you-create-ai-generated-videos-from-a-single-image.md",
-      "title": "D-ID, the company behind Deep Nostalgia, lets you create AI-generated videos from a single image",
-      "excerpt": "D-ID does not want to limit itself to corporate training, communication and marketing videos - it has ambitions of facilitating real-time video call translation and clone presenters.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/19/d-id-the-company-behind-deep-nostalgia-lets-you-create-ai-generated-videos-from-a-single-image/",
-      "originalUrl": "https://techcrunch.com/2022/09/19/d-id-the-company-behind-deep-nostalgia-lets-you-create-ai-generated-videos-from-a-single-image/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/09/D-ID-Creative-Reality-screenshot-16-Sept-2022.jpg?resize=1200,750",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/19/d-id-the-company-behind-deep-nostalgia-lets-you-create-ai-generated-videos-from-a-single-image/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/19/d-id-the-company-behind-deep-nostalgia-lets-you-create-ai-generated-videos-from-a-single-image/amp/",
-      "publishedDateTime": "2022-09-19T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2022-09-16-read-webpages-and-highlight-content-using-amazon-polly.md",
       "title": "Read webpages and highlight content using Amazon Polly",
       "excerpt": "In this post, we demonstrate how to use Amazon Polly—a leading cloud service that converts text into lifelike speech—to read the content of a webpage and highlight the content as it’s being read. Adding audio playback to a webpage improves the accessibility and visitor experience of the page. Audio-enhanced",
@@ -1417,6 +1364,49 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-best-practices-for-handling-special-files-in-e-discovery-foreign-language-documents.md",
+      "title": "Best Practices for Handling Special Files in E-discovery: Foreign Language Documents",
+      "excerpt": "Legal professionals have long struggled with the problem of translating documents in foreign languages when they are encountered during e-discovery.",
+      "sourceUrl": null,
+      "webUrl": "https://www.law.com/legaltechnews/2022/09/06/best-practices-for-handling-special-files-in-e-discovery-foreign-language-documents/",
+      "originalUrl": "https://www.law.com/legaltechnews/2022/09/06/best-practices-for-handling-special-files-in-e-discovery-foreign-language-documents/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.law.com/contrib/content/uploads/sites/397/2021/07/Electronic-Discovery-17-767x633-2.jpg",
+          "width": 767,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law",
+        "domain": "law.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

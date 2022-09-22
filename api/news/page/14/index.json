@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-09-07-how-artificial-intelligence-is-helping-to-restore-works-of-art.md",
+      "title": "How artificial intelligence is helping to restore works of art",
+      "excerpt": "And it is benefitting more and more from the latest technological advances, especially in terms of artificial intelligence. The start-up Oxia Palus is training one such AI to accurately ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbesindia.com/article/lifes/how-artificial-intelligence-is-helping-to-restore-works-of-art/79579/1",
+      "originalUrl": "https://www.forbesindia.com/article/lifes/how-artificial-intelligence-is-helping-to-restore-works-of-art/79579/1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbesindia.com/media/images/2022/Sep/img_193503_artandaibg.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-is-helping-to-restore-works-of-art/79579/1",
+      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-is-helping-to-restore-works-of-art/79579/1",
+      "publishedDateTime": "2022-09-07T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes India",
+        "domain": "forbesindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-07-insomnia-increases-the-likelihood-of-memory-decline-in-older-adults-according-to-new-research.md",
       "title": "Insomnia increases the likelihood of memory decline in older adults, according to new research",
       "excerpt": "A new study has found that older people with insomnia are at greater risk of developing memory decline and long-term cognitive impairment such as dementia. The study, published in the journal ...",
@@ -1050,50 +1093,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-adam-nanjee-departs-microsoft-for-startups-to-lead-venture-capital-in-canada-for-amazon-web-services.md",
-      "title": "Adam Nanjee departs Microsoft for Startups to lead venture capital in Canada for Amazon Web Services",
-      "excerpt": "Adam Nanjee has joined Amazon Web Services (AWS) to help grow its venture capital efforts in Canada. Nanjee took on the role after nearly four years as the Canadian managing director of Microsoft for Startups. Nanjee announced his new role via LinkedIn on ...",
-      "sourceUrl": null,
-      "webUrl": "https://betakit.com/adam-nanjee-departs-microsoft-for-startups-to-lead-venture-capital-in-canada-for-amazon-web-services/",
-      "originalUrl": "https://betakit.com/adam-nanjee-departs-microsoft-for-startups-to-lead-venture-capital-in-canada-for-amazon-web-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.betakit.com/wp-content/uploads/2022/09/Adam_Profile_1-1.jpeg",
-          "width": 1050,
-          "height": 699,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BetaKit",
-        "domain": "betakit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

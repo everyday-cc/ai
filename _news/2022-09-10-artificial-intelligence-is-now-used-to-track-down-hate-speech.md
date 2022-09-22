@@ -3,15 +3,15 @@ category: news
 title: "Artificial intelligence is now used to track down hate speech"
 excerpt: "Meta took action on more than 15 million pieces of hate speech content on Facebook. Roughly 95% of that was detected proactively by Facebook with the help of AI."
 publishedDateTime: 2022-09-09T21:05:00Z
-originalUrl: "https://www.wmar2news.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech"
-webUrl: "https://www.wmar2news.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech"
-ampWebUrl: "https://www.wmar2news.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true"
-cdnAmpWebUrl: "https://www-wmar2news-com.cdn.ampproject.org/c/s/www.wmar2news.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true"
+originalUrl: "https://www.ksby.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech"
+webUrl: "https://www.ksby.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech"
+ampWebUrl: "https://www.ksby.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true"
+cdnAmpWebUrl: "https://www-ksby-com.cdn.ampproject.org/c/s/www.ksby.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true"
 type: article
 
 provider:
-  name: wmar2news
-  domain: wmar2news.com
+  name: KSBY 6
+  domain: ksby.com
 
 topics:
   - AI in Autos
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "W13bTl7vsDHwlEUIvpy7TlzKxtQT+30xK/Yzio4k+ctvdqhYWHXWWnOLva3YxFpCDqQldiWCx+UdzG38TMJfJe6pLOPLLXZ28tl0aSRxp5Z0bHxzPtm6UWyAAdUI60ocPb4QFUYZHcTuKnN7DEJEQtIceKf1i4zJZ9hCQwBaMMDS1pDiW35XysNd7o8S8bEeZqi46k17rjeZaz1q3WuSuXEVTQcCju943HP9u10mtIDSY+DJtTChRnuiMcB2zDtaln6UnL0eZQ/FP2zQ9ihI6vMEzF2itKNCv1380/qJOBhd5aZN/rpQ3MthNwkXlQ1aBausWK6tyeYX+zQLEv+W2V18S32w3zM8xaKWxXve6S0=;VPZmqdaIYzLRILxyPKi1wQ=="
+secured: "qPx5btDiVoJkzk/dBMpN8NKJqcvkF9pg9QzufMHLgQEe4sSh1L/DOHWWMxHLtE19dup95h9XNPWQjiB8X+Xkgmq888J6IBsGPvFlabKiS00YVvN4WRNcPzJqNoaWudti9KW0+HikMA68A+j9/HNiN+cNho0YFVqi0VBfIQrq7A/difvRZFAnzcDQnJvJXtH4Qp9w4KKAg1R7DJw847hbL6p4kGDyYsJQAFJIqNrGc+fr+p01mMbfUBlQvcUpqXqwF8YJ7CVVTafiowkNoaa/EdIwYiMUSh3bzcJFKX/g49fKPvRV7LviqIcmFnhyM9ZkuVkSa+8BCVzslFKB7yf72GRQxkQP+xuk8gJPRXXslPA=;5PvPw0QmAWp9wbJAMxUOPg=="
 ---
 

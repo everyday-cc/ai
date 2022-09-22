@@ -118,6 +118,20 @@ related:
         width: 728
         height: 410
         isCached: true
+  - title: "At Dreamforce 2022, Salesforce Introduces Genie Across Its Customer 360 Line"
+    excerpt: "Salesforce Introduces Genie Across Its Customer 360 Line. During its 20th annual Dreamforce user conference in San Francisco this week, Salesforce today unveil"
+    publishedDateTime: 2022-09-20T18:15:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Salesforce-Introduces-Genie-Across-Its-Customer-360-Line-155011.aspx"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 21
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/AuthorImages/106293-Leonard-Klie--ORG.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Salesforce deepens partnership with AWS"
     excerpt: "Salesforce has expanded its partnership with Amazon Web Services (AWS) to enable customers to build custom artificial intelligence (AI) models using Amazon SageMaker, AWS’s machine learning (ML) modeling service,"
     publishedDateTime: 2022-09-21T18:32:00Z

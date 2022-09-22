@@ -33,7 +33,7 @@ related:
   - title: "TechScape: AI’s dark arts come into their own"
     excerpt: "Advanced AI is moving from the lab into the mainstream – offering a glimpse of the dangers ahead. Plus, What3Words loses its direction"
     publishedDateTime: 2022-09-21T10:18:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/sep/21/ais-dark-arts-come-into-their-own?via=indexdotco"
+    webUrl: "https://www.theguardian.com/technology/2022/sep/21/ais-dark-arts-come-into-their-own?amp;amp;amp;amp"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/sep/21/ais-dark-arts-come-into-their-own"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/sep/21/ais-dark-arts-come-into-their-own"
     type: article

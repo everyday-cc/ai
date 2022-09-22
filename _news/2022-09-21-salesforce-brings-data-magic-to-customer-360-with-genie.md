@@ -110,6 +110,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 27
+  - title: "At Dreamforce 2022, Salesforce Introduces Genie Across Its Customer 360 Line"
+    excerpt: "Salesforce Introduces Genie Across Its Customer 360 Line. During its 20th annual Dreamforce user conference in San Francisco this week, Salesforce today unveil"
+    publishedDateTime: 2022-09-20T18:15:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Salesforce-Introduces-Genie-Across-Its-Customer-360-Line-155011.aspx"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 21
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/AuthorImages/106293-Leonard-Klie--ORG.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Salesforce and AWS Announce Expansion of Strategic Partnership"
     excerpt: "Salesforce and AWS today announced new integrations between the Salesforce Platform and Amazon SageMaker. The integrations will enable"
     publishedDateTime: 2022-09-20T20:17:00Z

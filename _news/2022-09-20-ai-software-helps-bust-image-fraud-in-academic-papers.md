@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2022/09/academic-jo
 webUrl: "https://arstechnica.com/information-technology/2022/09/academic-journals-begin-using-ai-to-detect-image-duplication-fraud/"
 type: article
 quality: 67
-heat: 78
+heat: 77
 published: true
 
 provider:

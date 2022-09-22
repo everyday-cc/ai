@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/tech/tech-war/article/3193316/tech-war-nvidia
 webUrl: "https://www.scmp.com/tech/tech-war/article/3193316/tech-war-nvidia-ceo-jensen-huang-confident-china-market-despite-us-ai"
 type: article
 quality: 78
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Nvidia CEO Jensen Huang: AI language models as-a-service \"potentially one of the largest software opportunities ever\""
+    excerpt: "Nvidia co-founder and CEO Jensen Huang opened his company's fall GTC conference with numerous product and service announcements, including the introduction of two cloud computing services the company will operate."
+    publishedDateTime: 2022-09-21T21:43:00Z
+    webUrl: "https://www.zdnet.com/article/nvidia-ceo-jensen-huang-ai-language-models-as-a-service-potentially-one-of-the-largest-software-opportunities-ever/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-ceo-jensen-huang-ai-language-models-as-a-service-potentially-one-of-the-largest-software-opportunities-ever/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-ceo-jensen-huang-ai-language-models-as-a-service-potentially-one-of-the-largest-software-opportunities-ever/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 66
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/f2739fe30ad9f14692989d133ecac97705c65ada/2022/09/20/bce66508-0423-492b-bfd3-e70685a1a807/jensen-huang-gtc-2022-crop-for-twitter.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 802
+        isCached: true
 
 secured: "E7Ycvc+uwNVnrptCE/1JWFyPnzMhSeYDK09bQ8si8L59Ko7qyNnWS65Gn4nlKgYpfWdZHj3tB7Z/faaPs0LctbP3Ou1Taf+CoRr+LBJt0CxnCPP+7OKWO/d0J+uh+RCICB0jFdilHH/e++EX0yTGxnheJTncJVjV6okjQltrSfdCql3pl4fVu6Ts+DCFr/dFRc8ZR/kpHlPKAo1VXRYlmKE0BPzBWCFjXOXlDy0FXP2h2P+7fyJvM7abOzQRR9KQV1BzLzKPqlc0GIGEttTGLgrVlg7ZMnsorPoMMvjGBlSEfsitSGQtuG8WSY0Zi0efrKs9AhiG4/5SvHRuDLef84fdplgFSkQJMK4ojkL1W6R5KysZTU4pKOwRvVtEz0ZO27dwOHzuvtiTZdVrXSAshNRWDnpsyaK8v/48I4DdNFlJduxTGm5BAm1oqhNfXaMRY2H3zCCKB/kfZtBaVzbA+T9D0hIQmO3Zd46qFbDe/bcoGhWHCgp/BlCwixZR4POf7U3y5+QBBrvj1mQNwbJs/g==;AOCOT0TRuEs5jiBVsz2e/g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/nayakgiri-a-leader-within-
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/nayakgiri-a-leader-within-an-individual/art-of-business-in-ai-generated-art/"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,52 @@ images:
     isCached: true
 
 related:
+  - title: "Getty Is Banning AI-Generated Images"
+    excerpt: "AI-created works. Popular AI image generators such as Dall-E, Stable Diffusion and Midjourney will no longer be allowed on the site, PetaPixel reported. \"We've already started removing content, but this will be an ongoing effort from our teams,"
+    publishedDateTime: 2022-09-21T22:41:00Z
+    webUrl: "https://www.cnet.com/news/getty-is-banning-ai-generated-images/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/getty-is-banning-ai-generated-images/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/getty-is-banning-ai-generated-images/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/f835513ea991cea316e5bb8b23246e208ecfdc93/hub/2022/09/21/5ef652f0-14d6-484f-b947-13e6ecd9c8aa/gettyimages-1346301198.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "D-ID, the company behind Deep Nostalgia, lets you create AI-generated videos from a single image"
+    excerpt: "D-ID does not want to limit itself to corporate training, communication and marketing videos - it has ambitions of facilitating real-time video call translation and clone presenters."
+    publishedDateTime: 2022-09-19T18:08:00Z
+    webUrl: "https://techcrunch.com/2022/09/19/d-id-the-company-behind-deep-nostalgia-lets-you-create-ai-generated-videos-from-a-single-image/"
+    ampWebUrl: "https://techcrunch.com/2022/09/19/d-id-the-company-behind-deep-nostalgia-lets-you-create-ai-generated-videos-from-a-single-image/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/19/d-id-the-company-behind-deep-nostalgia-lets-you-create-ai-generated-videos-from-a-single-image/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 78
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/09/D-ID-Creative-Reality-screenshot-16-Sept-2022.jpg?resize=1200,750"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "Fearing copyright issues, Getty Images bans AI-generated artwork"
+    excerpt: "AI generative artwork created using image synthesis models such as, DALL-E 2, and Midjourney through its service, The Verge reports. To clarify the new policy, The Verge spoke with  CEO Craig Peters."
+    publishedDateTime: 2022-09-21T22:32:00Z
+    webUrl: "https://arstechnica.com/information-technology/2022/09/fearing-copyright-issues-getty-images-bans-ai-generated-artwork/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/ai_image_ban_1-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "AI generated game appears on Steam"
     excerpt: "But they are not that great  AI generated games are starting to appear on Steam, but any fears that coders might have to find new jobs filling bags in supermarkets might be a little premature. This Girl Does Not Exist,"
     publishedDateTime: 2022-09-20T09:12:00Z
@@ -41,6 +87,29 @@ related:
         width: 620
         height: 473
         isCached: true
+  - title: "Getty Images Is Barring Illustrations Created by Artificial Intelligence"
+    excerpt: "Getty Images won’t sell AI-generated art as photographers have called for more regulations on AI-content generators."
+    publishedDateTime: 2022-09-21T16:25:00Z
+    webUrl: "https://observer.com/2022/09/getty-images-is-barring-illustrations-created-by-artificial-intelligence/"
+    type: article
+    provider:
+      name: observer
+      domain: observer.com
+    quality: 36
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2022/09/GettyImages-1236811424.jpg?quality=80&#038;strip"
+        width: 4960
+        height: 3152
+        isCached: true
+  - title: "AI-Generated Games Are Starting To Appear On Steam (And It's Not Going Well)"
+    excerpt: "Enter This Girl Does Not Exist Making a game with AI-generated assets comes with its own unique challenges, as she tells it. Not having to make art from the ground up does mean things move quicker, but since This Girl Does Not Exist was a dating game,"
+    publishedDateTime: 2022-09-19T18:31:00Z
+    webUrl: "https://kotaku.com/steam-pc-ai-generated-art-midjourney-youtube-valve-1849531585"
+    type: article
+    provider:
+      name: Kotaku
+      domain: kotaku.com
+    quality: 14
 
 secured: "QgAFM+OI8RYeh6jL+ADwekROKGs84j04Sd8ZZM7CjMt7Xz0kg94vC+NFVrYCqhigqR3xSKfSyZ44TaUWrgqNZd4ry/2DQI+KvDw00ygLzyVfi2yGNuVjJs5gSPfNZtLhZ93MGfJJlxJZgLZFPuDagAg/DvY/8wletGaEVq7DR8ieI7UQw26ihVQC19UG8DdM8+AbR2mVVdHpkW9eChM56ACl85iyjOo07bZ/7Yg9TImGC9Ncg0v6IOQ1AbwvH9Hb1mBPAP8kTVgiy0VBACrxyIGlz9/CkmaBfV+bWv1BOr/UJvwmomlf5hR1yDce1j3HjhA0WNTr/GMMMTORBPqwpsfWvEpiTj/oEldrWzw5kvg=;IKMVDJrGv7XplMmXXJw49g=="
 ---
