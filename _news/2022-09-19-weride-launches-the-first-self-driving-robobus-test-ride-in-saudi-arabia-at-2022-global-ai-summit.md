@@ -7,7 +7,7 @@ originalUrl: "https://technews.tmcnet.com/news/2022/09/19/9675581.htm"
 webUrl: "https://technews.tmcnet.com/news/2022/09/19/9675581.htm"
 type: article
 quality: 6
-heat: -1
+heat: 6
 published: false
 
 provider:
@@ -18,17 +18,6 @@ topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "Intl. Companies Intend to Invest in AI, Robotics in Saudi Arabia"
-    excerpt: "Major international companies intend to invest in artificial intelligence and robotics in Saudi Arabia, senior investors told Asharq Al-Awsat. AI Investor Abdullah bin Zaid Al-Meleihi said that Saudi"
-    publishedDateTime: 2022-09-17T10:57:00Z
-    webUrl: "https://english.aawsat.com/home/article/3879416/intl-companies-intend-invest-ai-robotics-saudi-arabia"
-    type: article
-    provider:
-      name: الشرق الأوسط
-      domain: aawsat.com
-    quality: 49
-
-secured: "SVaZCvFtMnlZqDeuu+Vm6BfrOxPvPDINWVA0VavVzGsDAAzxN8maFWUxkRJ4z2iveYCT9IlT5YDNxAWh70mWCm/oIKPE/MifUqRb0YY6v05LCigonrfOyDpXnZLu5bOS92NXXPzHwPCRBQk2EzQ80fxMue/U2mv6dG3BBmLK7gE/zfb3HGISmJpDLTy+7xBnVZg+6i/BpTNqINe0flNxbi4HAAhl4FFweP3vbqkWP0YVyweYy6LelXvsLN1O79Pe/p80iPTgwGlq4qTE5wlk21UmIRM9lXRjkDp5eHrWw8aUZBHVlbf5jglynA8ckbJe1pwDwLBf20M1d4ZdcLB+yS6C5fv2c3ckaobbtLNiXtY=;75VqbT9+/F7gdjNHH7GWOg=="
+secured: "48rf68XTF4RRvQiLy3XQmWQGxTB+tK2kfqOYUk4DXdNUUIkS8QAImOthkOjM7IdqQrQ8ZTvBoDP2Y3RB3iYJwKs1PJjeIehLMuNttBJ7wrwjJSnEPU/qLuQYvXfUKqdTsnMSpdmD9jvDcudbKkGBGu0ZIDwkZxdm1HFhNZshd6kLe3Vopv6a774npzaRb2jfRWOrvFaBH5jDMbVkGwaEhfFlM/kkkRb2uxaKqn0Ck5YLb/tLDiwJ/UmRn8IoI6lbC924ybyNmAlAUyvGWkjscdzJlvB8sOQijKe0x4EUzbXp1RRsRN9hcUcbfK2EqQ4EhRy5qWj/0WgudDvMj3Gdq8F2GFGULd4PW/rAxs828Xo=;Bix5Sjo+CjGre3/yty4sxQ=="
 ---
 

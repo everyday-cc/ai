@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/getty-is-banning-ai-generated-i
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/getty-is-banning-ai-generated-images/"
 type: article
 quality: 87
-heat: 147
+heat: 148
 published: true
 
 provider:

@@ -42,6 +42,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "India creating massive AI database to enhance startup ecosystem: Rajeev Chandrasekhar"
+    excerpt: "India creating massive AI database to enhance startup ecosystem: Rajeev Chandrasekhar - Minister of State for Electronics and IT, Rajeev Chandrasekhar, said on Wednesday that the country is"
+    publishedDateTime: 2022-09-22T03:14:00Z
+    webUrl: "https://www.siliconindia.com/news/general/india-creating-massive-ai-database-to-enhance-startup-ecosystem-rajeev-chandrasekhar-nid-220040-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 32
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/3e5BMG2k.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "India creating massive AI database to boost startup ecosystem: Rajeev Chandrasekhar"
     excerpt: "Minister of State for Electronics and IT, Rajeev Chandrasekhar, said on Wednesday that the country is creating one of the largest datasets programmes where anonymised non-personal data will be available for the entire AI ecosystem to boost the startup ecosystem."
     publishedDateTime: 2022-09-21T13:45:00Z

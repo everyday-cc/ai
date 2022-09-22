@@ -7,7 +7,7 @@ originalUrl: "https://sdtimes.com/ai/nvidia-gives-updates-on-new-gpu-technologie
 webUrl: "https://sdtimes.com/ai/nvidia-gives-updates-on-new-gpu-technologies-at-gtc-conference/"
 type: article
 quality: 69
-heat: 139
+heat: 140
 published: true
 
 provider:

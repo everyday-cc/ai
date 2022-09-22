@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-ta
 webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-targeted-sentiment-adds-synchronous-support/"
 type: article
 quality: 106
-heat: 106
+heat: 108
 published: true
 
 provider:

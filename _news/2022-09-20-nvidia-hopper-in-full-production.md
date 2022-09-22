@@ -232,20 +232,6 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 34
-  - title: "Aetina Announces Upcoming Edge AI Computers Powered by New NVIDIA Jetson Orin Nano for Use in Computer Vision Applications"
-    excerpt: "Aetina today introduced its upcoming NVIDIA® Jetson-based edge AI computers powered by Jetson Orin™ Nano system-on-modules (SOM) that have set a new baseline for entry-level edge AI and robotics, as announced during NVIDIA GTC."
-    publishedDateTime: 2022-09-21T03:00:00Z
-    webUrl: "https://www.asiaone.com/business/aetina-announces-upcoming-edge-ai-computers-powered-new-nvidia-jetson-orin-nano-use"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 28
-    images:
-      - url: "https://mma.prnasia.com/media2/1777543/Aetina_Corporation_Logo_Logo.jpg?p=medium600"
-        width: 599
-        height: 424
-        isCached: true
   - title: "ASUS Servers Announce AI Developments at NVIDIA GTC"
     excerpt: "ASUS, the leading IT company in server systems, server motherboards and workstations, today announced its presence at NVIDIA® GTC"
     publishedDateTime: 2022-09-21T13:12:00Z

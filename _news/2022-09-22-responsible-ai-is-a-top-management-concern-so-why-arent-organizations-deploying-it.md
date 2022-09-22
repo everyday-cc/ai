@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/responsible-ai-is-a-top-management-concer
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/responsible-ai-is-a-top-management-concern-so-why-arent-organizations-deploying-it/amp/"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:

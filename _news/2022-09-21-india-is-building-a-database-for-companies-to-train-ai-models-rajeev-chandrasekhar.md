@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/india-is-building-a-da
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/india-is-building-a-database-for-companies-to-train-ai-models-rajeev-chandrasekhar/amp-11663770780027.html"
 type: article
 quality: 53
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
         width: 894
         height: 611
         isCached: true
+  - title: "India creating massive AI database to enhance startup ecosystem: Rajeev Chandrasekhar"
+    excerpt: "India creating massive AI database to enhance startup ecosystem: Rajeev Chandrasekhar - Minister of State for Electronics and IT, Rajeev Chandrasekhar, said on Wednesday that the country is"
+    publishedDateTime: 2022-09-22T03:14:00Z
+    webUrl: "https://www.siliconindia.com/news/general/india-creating-massive-ai-database-to-enhance-startup-ecosystem-rajeev-chandrasekhar-nid-220040-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 32
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/3e5BMG2k.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "India creating massive AI database to boost startup ecosystem: Rajeev Chandrasekhar"
     excerpt: "Minister of State for Electronics and IT, Rajeev Chandrasekhar, said on Wednesday that the country is creating one of the largest datasets programmes where anonymised non-personal data will be available for the entire AI ecosystem to boost the startup ecosystem."
     publishedDateTime: 2022-09-21T13:45:00Z
@@ -58,6 +72,6 @@ related:
         height: 282
         isCached: true
 
-secured: "2fLsOnmf8hqmEFFoGUwFitpb+cOIdLFyMOpfLklrEeVoilBH9iYRyVqUMbxdAzYtKZ77iGfPwZl1v4+wu5d6le15638QA0bTtJ2hmuZ1GuzwT8trgAQo1ffqRg0V0I1vS5rgZChe8KG/wy65KhLFn1NEO5q6S3wlWNYuuDi2pWGZju6LgKv1socEc/SQJVPVzmtxRuyoozX/ZZP/mvDHBLVnK2ypfNB4CTfaYQY7lzMPwa4ff6E2lYOWiNHMh8JwRnoC4Kh2pHOkgGwJLaq/L2KLOnpJ9gZVfu9bIh4v0+p7R7druMPyD4SH1Hq3s7M8MH5WOp0fzGU9igvQC4p51VJxLPuoW4I9a/W0kXpPyiE=;SRXs7Wz4ThDYC3df5K1bKA=="
+secured: "qXeie972Movnxlq+Olyx48+CJ2qkG9sR+3arEX8cOS0OQO4jWrqEzz9lKX3RFefrSfdaVlTJaXh0yxguMqaEpRjG4lMdPcaxSSnljzBvaDV4esfr+GKYORn7yrXaaZtn47Bs9idsp+mYSTG0QeNGRJQcbKZXK/4UEDOScr65wubgFbfvLzLTlV/guvzbQRurk0kIT6vPQcVUnzmJZJys4107OVpYzL9WxmenS13D4rZOBwCOmiqymONXRbtZx40LxCX8pVW4pwrcjYMK/3dKIVvpqRfBG73ZBFlQ4N7uyVTx2DuBTFwkcFZP2pZOp1DK18BJB2S2tcusO+3h2zcxp8l1ZGbY7Wyc3EwvrU9T8PKRH9vXiHDuC3WbxWUIMBCcEk4vKGFXKtvAt7CVCrYPv7jg5kS1UCQ7M9bK82u0htHgLr5PpgRQ1L0GDiYVYOzbVIhl5mtATyTBipAS/18jcxRPYCpPoLjKqXrQRzqcILVby8PsTBJw+XtEO2Qhkgc4FhGz3xnT9EIxD4gTGG7eow==;cbldCDpzsQj+2vDwkn57aA=="
 ---
 
