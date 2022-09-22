@@ -2,7 +2,7 @@
 name: "Bash.ai"
 overview: "Currently, majority of the software or technologies used in the HR function facilitate only non- employee facing activities (backend functions)."
 type: "profile"
-heat: 57
+heat: 42
 
 website: http://bash.ai/
 
@@ -37,6 +37,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=AtqYoCjw3gA"
 
-secured: "P3a72frJDyRNX9oDVuttyr3hojIiXtHliPTQlP/8i0sU+ylT5NhP47taa5htzdXViL9sgzrwCMDVQoJXdOwKeIAmHNeAEYpUIrd3yc1+dPTWjpyYZEbPPblrB8Jbuez3TptwNYaIRjM0n8onNnGD01jAZ0I+6hSQj3XQ1qWdyE/zc3Fk1pU0ILXzT98JkZIHwCJKqRrfu/5uLi9t3W8c/MkVJrjcmC931qSbqEE5PCIayzYzsjfvK2j36Gb4EZ+NnrsgAmiPwIosM/iHowhxvJTjUFST+m0qrQ/LIhX/xPS9L/fJ5ebfMNqeiZUg8M6NiujgnALLkly1eL71AFDm3O4W5Y9ET9hCPNrwNUXIbFfh2tX+VJdLYBXY8aryLJT5cZ/LHwyyNO8XuyaRpNVbUA==;D/sTzy4aHnXOoEYr6hAOMw=="
+secured: "so+uqN2rbEMXZxNfW3QskVAfvCpxvNDW5gwJxHL1juJJOyxhz4/Q2rF0acgF+gkG86J0CtABXRj4IMfBoZU7pZc3BkORxGQpGtbh+FBROL3A8hgAIoRNSBqtOpmsMgUT/w6HCVtRte8EyQlJovZ4rttUq091/BFmnVAsym11wqZa4Rk/4ZLlDY5L95xgO0rqnVdxPwYyPLl/nqt2kXw8mnmkHXP6LXMgl+PNnVVm7y29V6aSisUVTu9tvJfeg/WqqwF7VDAwyYj2lYP55dlGGj7+7F/CWv0aXr4LW2ktq30Xj8nNILIIOT93CHl4BWjWdyDRt7XSIFPl/XBQ2QC49Vawf+NqqfTywG67zoFUFpgoBkte+5o+f+fe02+74RWiwmmsbud/sVY3vkQT71hQHg==;sSPYr5tkWBa/CzhAnE1gLA=="
 ---
 
