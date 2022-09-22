@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Kestra Private Wealth Services LLC Trims Holdings in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT)"
+    excerpt: "Kestra Private Wealth Services LLC lowered its stake in shares of First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) by 15.4% in the first quarter, according to its most recent 13F filing with the SEC."
+    publishedDateTime: 2022-09-22T08:12:00Z
+    webUrl: "https://www.defenseworld.net/2022/09/22/kestra-private-wealth-services-llc-trims-holdings-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 21
   - title: "J.W. Cole Advisors Inc. Has $260,000 Stock Position in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT)"
     excerpt: "J.W. Cole Advisors Inc. reduced its stake in shares of First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) by 29.2% during the 1st quarter, according to its most recent 13F filing with the SEC."
     publishedDateTime: 2022-09-21T11:24:00Z

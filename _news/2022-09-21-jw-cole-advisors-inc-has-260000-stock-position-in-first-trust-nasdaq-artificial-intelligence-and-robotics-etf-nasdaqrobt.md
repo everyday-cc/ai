@@ -7,7 +7,7 @@ originalUrl: "https://www.defenseworld.net/2022/09/21/j-w-cole-advisors-inc-has-
 webUrl: "https://www.defenseworld.net/2022/09/21/j-w-cole-advisors-inc-has-260000-stock-position-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.html"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,15 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "Kestra Private Wealth Services LLC Trims Holdings in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT)"
+    excerpt: "Kestra Private Wealth Services LLC lowered its stake in shares of First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) by 15.4% in the first quarter, according to its most recent 13F filing with the SEC."
+    publishedDateTime: 2022-09-22T08:12:00Z
+    webUrl: "https://www.defenseworld.net/2022/09/22/kestra-private-wealth-services-llc-trims-holdings-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 21
   - title: "Reviewing So-Young International (NASDAQ:SY) & Veritone (NASDAQ:VERI)"
     excerpt: "So-Young International (NASDAQ:SY – Get Rating) and Veritone (NASDAQ:VERI – Get Rating) are both small-cap medical companies, but which is the superior business? We will compare the two businesses based on the strength of their valuation,"
     publishedDateTime: 2022-09-21T10:36:00Z

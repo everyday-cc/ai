@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/asia-s-first-drive
 webUrl: "https://markets.businessinsider.com/news/stocks/asia-s-first-driverless-cimc-made-boarding-bridge-comes-into-operation-in-china-1031752676"
 type: article
 quality: 65
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       - url: "https://ietp-web-app-global-assets.azurewebsites.net:443/media/sw4jnnsc/wechat-icon.png"
         width: 512
         height: 512
+        isCached: true
+  - title: "Belarusian MTZ's driverless tractor presented in Russia's Tatarstan"
+    excerpt: "The unmanned tractor KFU-MTZ-112 boasts a high degree of automation. It was developed by the excellence center for robot technology and artificial intelligence of the Computational Mathematics and Information Technologies Institute of the Kazan Federal University (KFU) in association with OOO TPK MTZ-Tatarstan."
+    publishedDateTime: 2022-09-22T09:36:00Z
+    webUrl: "https://eng.belta.by/economics/view/belarusian-mtzs-driverless-tractor-presented-in-russias-tatarstan-153286-2022/"
+    type: article
+    provider:
+      name: eng.belta
+      domain: belta.by
+    quality: 39
+    images:
+      - url: "https://eng.belta.by/images/storage/news/with_archive/2022/000021_1663839472_153286_big.jpg"
+        width: 870
+        height: 486
         isCached: true
 
 secured: "7sDUhmd41NUxtVnfbN/XY6S3L2vIyRxztRWZcsNJ6aoqFUrqYq27WOfhrKq5WYLQl/h/qH1BULePbz9eBOj5rMQH2fi7kPoPQPOuC0Yv910eP155I3FEEbAFgzjw5GhOC0VxBwobsUTNynXSmaFMJBYaGyZ8rOp3atjcpfe3bhVZayESKSs/edoY0wbQpSzJUEfZMFNah4tpPSLz2GOPJby304QP8ASONSc2aHnuPeVwJplYReD4r7Ca0mnkc3w1uIMpw7g569DN98SPe0zj9t3EKS9jBRZbyfhiGFa51GQrRoYcG27wWUuumKoAGzU5jJMa9zmQPPH4UE7YmPH//+Y20rsol313hICTMkbJTpt058mAVJU6ZRFCF7VBi/7vBr6RZkGotHDhgOQsNQ7hd3JxiLsDHmAW22FxwxcuN9sPPFfmpMtIiLNL8HfLm7ih9HKOD/SLu2e5ccMTmgP+Cz3Np0z2D8zQaJIvysq75R+5ZiI9yr5nZ2kVwF4HBUXMDfb9CTq2PPufsZsv1iHMjg==;hG65Fv5NzuSeDNsqvBqbqQ=="

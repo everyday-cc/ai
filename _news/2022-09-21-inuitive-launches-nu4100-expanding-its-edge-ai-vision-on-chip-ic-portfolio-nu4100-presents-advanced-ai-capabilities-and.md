@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Inuitive launches NU4100, expanding its Edge AI Vision-on-Chip IC portfolio; NU4100 presents advanced AI capabilities and"
-excerpt: "Inuitive Ltd., a Vision-on-Chip processors company, announced today the launch of its new NU4100, an expansion of its Vision and AI IC portfolio. Based on Inuitive's unique architecture and advanced 12nm process technology,"
+excerpt: "Geared for Robotics, the new NU4100 is setting a new industry standard by combining integrated dual-channel 4K ISP with enhanced AI performance coupled with depth-sensing and VSLAM capabilities RA'ANANA,"
 publishedDateTime: 2022-09-21T16:03:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/09/21/9678078.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/09/21/9678078.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2022/09/22/9678713.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/09/22/9678713.htm"
 type: article
-quality: 31
+quality: 29
 heat: -1
 published: false
 
@@ -15,9 +15,8 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - Computer Vision
-  - AI
   - AI Hardware
+  - AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1903068/One_Chip_Complete_Visual_Understanding.jpg"
@@ -54,7 +53,21 @@ related:
         width: 800
         height: 505
         isCached: true
+  - title: "Inuitive launches NU4100, expanding its Edge AI Vision-…"
+    excerpt: "Inuitive Ltd., a Vision-on-Chip processors company, announced today the launch of its new NU4100, an expansion of its Vision and AI IC portfolio. Based on Inuitive's unique architecture and advanced 12nm process technology,"
+    publishedDateTime: 2022-09-22T09:28:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-inuitive-launches-nu4100-expanding-its-edge-ai-vision-/2022/09/22/9678713.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 41
+    images:
+      - url: "https://mma.prnewswire.com/media/1903068/One_Chip_Complete_Visual_Understanding.jpg"
+        width: 400
+        height: 253
+        isCached: true
 
-secured: "IRqiRaCKpniTV1S/dLf4oW9tomlcWeqnkd7YE8aHIfxfJSotILVVK5RzDqKi+ExalVZtztBYKpCYcvQyly5dvGNfT3DIwUJ4zvuAUPgfK8atKAilHbe9fIKcasCyl096bK2KenJL8i9gM8qr+cF+3wEZVaRlC04PbrqZEWXfp6ALiHv5GzILnhoq+yC/H9tKAhd5tn0jjX524OIR99P66QvOxQ6IgKM9K2mORL/dSqjzQfjdXa2M89AUotS1UpmcNA1MOLUNjxEOnojwtlsrZ/6fWTGOd+WFmzpqWmpkNKXCKgqoWC7ZLJ9PjocXz1H0COv5sFsuX/09UINxQ7P1piy/HloI2C2efscvEfj0zCM6YgBUpy/p3SKhXqhRpumu3rT8Fdtu30TGMNYvjmw71J/ohfcMNbrBXVHemhDqpH5NJK/SgkzwDb7vTuKK73tH3EEDbHlxuislRfOqr0gErjlrmpQQvh6kKosgoIB96zHjiF8uywqmCrsw9oGNrGAIFZGl2V99g+uI4srVHrn49Q==;u+VTarLSAnhOPZw5hD7HDw=="
+secured: "z0msvYriY4M07kynGuQ2/OzCtYtU8M1fxaN4WPnI+ZWWgNsBqmGeBQ7QPUUNiZ8z6DtSu31FunF+cN0mG13j+OWW5A5OtDvBJWScFtIy/AaXKClFTm1oDgBUEg6iH33GAJLYnr1LwCBXRsXXq4FhKeQcwD0Gtq5Bnb38Mjy3otKgh2eIa7FWu3vNJzPpp3etCKkh6bACp1DbMsFbiK49+VvLxm8t4edgFg1ENQDkk2hT08xxrzwP/lfpEtuT0fEcYgBej/lDiKlX7ztCXNF2Pp2t5DnAVSgh/ZKKtx6p4xov522bEDygNGGG6YiUG2rVIVBadxa8XaukalMUwwNzAbe4UnHKPpZ7Hk8peBV0zD8=;gdaARJjhFqVVHDhdUA+o7A=="
 ---
 

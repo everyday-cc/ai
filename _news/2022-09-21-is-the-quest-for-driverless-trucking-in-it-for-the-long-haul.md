@@ -64,6 +64,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Belarusian MTZ's driverless tractor presented in Russia's Tatarstan"
+    excerpt: "The unmanned tractor KFU-MTZ-112 boasts a high degree of automation. It was developed by the excellence center for robot technology and artificial intelligence of the Computational Mathematics and Information Technologies Institute of the Kazan Federal University (KFU) in association with OOO TPK MTZ-Tatarstan."
+    publishedDateTime: 2022-09-22T09:36:00Z
+    webUrl: "https://eng.belta.by/economics/view/belarusian-mtzs-driverless-tractor-presented-in-russias-tatarstan-153286-2022/"
+    type: article
+    provider:
+      name: eng.belta
+      domain: belta.by
+    quality: 39
+    images:
+      - url: "https://eng.belta.by/images/storage/news/with_archive/2022/000021_1663839472_153286_big.jpg"
+        width: 870
+        height: 486
+        isCached: true
 
 secured: "csgUvwhSCSRziP3wIctdBxZhuJLx0MUEFe8TNnWtDp9XFVnhiyWU5oNJcCvEHrzRC6y3eXJ2BIZUCvXTfrodsmTVMwWZ9pIHdxXXeT+RrktFGd8PPjYfp+RzKr0Ke99V/zrRJP5UCKweVs937wHvOzVi6560H50ttb2UuQq9JbjMt3M+btKidM6bY4q/oDqGKSaiqChxc4g77fP2MCPFdiiJjwIavVk+AmKZdvuvlByw7hmjZityr6WE81842AeqG3RqHbvGqpTcSRshhHNXpWp5n2kNAA0+sQRTTCoRDIMQMcryFTPKg8Amn2+nlA62ce5GUpwoVhGOzGP3Ks6kO5vjRsTICVyzzXc0uSw9/Kk=;trgaWx4lBpc1mradCkNrPw=="
 ---

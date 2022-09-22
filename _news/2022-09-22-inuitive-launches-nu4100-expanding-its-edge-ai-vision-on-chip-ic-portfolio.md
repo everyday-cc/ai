@@ -7,7 +7,7 @@ originalUrl: "https://www.design-reuse.com/news/52699/inuitive-edge-ai-vision-on
 webUrl: "https://www.design-reuse.com/news/52699/inuitive-edge-ai-vision-on-chip-ic.html"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -40,21 +40,35 @@ related:
         width: 800
         height: 505
         isCached: true
-  - title: "Inuitive launches NU4100, expanding its Edge AI Vision-on-Chip IC portfolio; NU4100 presents advanced AI capabilities and"
+  - title: "Inuitive launches NU4100, expanding its Edge AI Vision-…"
     excerpt: "Inuitive Ltd., a Vision-on-Chip processors company, announced today the launch of its new NU4100, an expansion of its Vision and AI IC portfolio. Based on Inuitive's unique architecture and advanced 12nm process technology,"
-    publishedDateTime: 2022-09-21T16:03:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/09/21/9678078.htm"
+    publishedDateTime: 2022-09-22T09:28:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-inuitive-launches-nu4100-expanding-its-edge-ai-vision-/2022/09/22/9678713.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 31
+    quality: 41
+    images:
+      - url: "https://mma.prnewswire.com/media/1903068/One_Chip_Complete_Visual_Understanding.jpg"
+        width: 400
+        height: 253
+        isCached: true
+  - title: "Inuitive launches NU4100, expanding its Edge AI Vision-on-Chip IC portfolio; NU4100 presents advanced AI capabilities and"
+    excerpt: "Geared for Robotics, the new NU4100 is setting a new industry standard by combining integrated dual-channel 4K ISP with enhanced AI performance coupled with depth-sensing and VSLAM capabilities RA'ANANA,"
+    publishedDateTime: 2022-09-21T16:03:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/09/22/9678713.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 29
     images:
       - url: "https://mma.prnewswire.com/media/1903068/One_Chip_Complete_Visual_Understanding.jpg"
         width: 400
         height: 253
         isCached: true
 
-secured: "8k5Nhyb40RJuBvLhIs0PZwp+ujzzqi45FTOcsrfgjaZm14XTPMaE7W2dSaGDOK6kT9H0F9c+/GAeTnTArl7oiT/e0TEdWXcEn6QVeP08Q4ZL1XryWhStdLmKcIhmxAS1485VsVVE8Ro62zihubu29OIArj0GfcIyKDBnJD59s/a0FobVqQtko7F1CYyqLnj7zUUwh++JhFONBwhq68PsHDpxFkneS8QDGIClIr8N/xM6l7PVPfmJOZtZeqpMXVi9lFQDAZer/SGsFAu9kcX3zSSj2K1L2GdtEaUcDi+WpzOjRn/p2EAZXNbYrkk7ZynNBn9u/sjr9ma/1N4sRN/kb7Rz/awmdFmPKqJJU5Q6cHY=;Iq7O8oi79bGFcTgtoOOdHg=="
+secured: "mqR4omdIe9aes9p6ubvL+qiTc6xGIem1lqxL4kgAga02HEnx/GXJdYZ4N7NHLX4REoEt1JfxryvmrxHlRbk+eF5LhgAEW0dCfswtrGIiERzTOh8nCKlH85ZkSwjLYFp2yFy4WKiPYi7jWTqQWKKR0o6NtS2Ue73Uf/DCeh7bETAmp4ABMWTunr3dTWYK1nIwk/t6YD3/YfOE1X7Dzp+loChO0VavBm0TagIMvoRrnoAyukh3Yxg7tgStDnZudHKXhO58A6EZyU5d31E2jNYCI9VmJAgZU2eWEhcW4Ny4ElGkRHCpjL7WKVWBPslNMhm1k8iP7wZGmQI9OhQlR/tIbFT4tPDofu1XSWNEXpEmAb/Mhq6HDzlT5jRvVJ6Ycsv3j6IMEqmNznpgeC/u5oRg+R3G8lzdapozzbFgcYelFpBZDoKynODUPeYro9vjmfYVHJ+fr4fY/4eR80viX7ueF3SGsFcuBpq9lKtjlFs6yEeTvFbP2S9xx/wB73OpmuSpOgneTpOgIyl025V4eZI3Xw==;EBScOZeGT7ycCxQzXXVC+g=="
 ---
 

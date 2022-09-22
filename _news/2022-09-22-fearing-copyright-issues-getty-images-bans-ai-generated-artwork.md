@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Photo Service Getty Is Banning AI-Generated Images"
+    excerpt: "AI-created works. Popular AI image generators such as Dall-E, Stable Diffusion and Midjourney will no longer be allowed on the site, PetaPixel reported. \"We've already started removing content, but this will be an ongoing effort from our teams,"
+    publishedDateTime: 2022-09-21T22:41:00Z
+    webUrl: "https://www.cnet.com/news/getty-is-banning-ai-generated-images/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/getty-is-banning-ai-generated-images/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/getty-is-banning-ai-generated-images/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/f835513ea991cea316e5bb8b23246e208ecfdc93/hub/2022/09/21/5ef652f0-14d6-484f-b947-13e6ecd9c8aa/gettyimages-1346301198.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "D-ID, the company behind Deep Nostalgia, lets you create AI-generated videos from a single image"
     excerpt: "D-ID does not want to limit itself to corporate training, communication and marketing videos - it has ambitions of facilitating real-time video call translation and clone presenters."
     publishedDateTime: 2022-09-19T18:08:00Z

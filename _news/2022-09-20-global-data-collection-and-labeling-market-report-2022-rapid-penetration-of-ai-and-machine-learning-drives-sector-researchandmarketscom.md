@@ -20,19 +20,19 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Global artificial intelligence market to reach $450 bn in 2022"
-    excerpt: "The Artificial Intelligence (AI) market value is expected to reach nearly $450 billion this year and maintain a year-over-year growth rate in the next 5 years, a new report has forecast. In 2021, the global revenues for the AI market,"
-    publishedDateTime: 2022-09-17T15:39:00Z
-    webUrl: "https://www.dailypioneer.com/2022/technology/global-artificial-intelligence-market-to-reach--450-bn-in-2022.html"
+  - title: "Artificial Intelligence In Medical Imaging Market Technology advancement and Latest Research Report, Quality & Quantity Analysis 2022-2027"
+    excerpt: "Global \"Artificial Intelligence In Medical Imaging Market\" reports provide valuable product, industry knowledge,"
+    publishedDateTime: 2022-09-21T10:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-technology-advancement-and-latest-research-report-quality-quantity-analysis-2022-2027-2022-09-21"
     type: article
     provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 37
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
     images:
-      - url: "https://www.dailypioneer.com/uploads/2022/story/images/big/global-artificial-intelligence-market-to-reach--450-bn-in-2022-2022-09-17.jpg"
-        width: 1000
-        height: 800
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "V3Mb5O3NnsRHCaYfoaPavogQTxAj5zEOzB09uljpHE8Swmdgh+dBwdH35kEawY6yAsJr1dmjhIY06c7QICOO6w8GnYpshy8oW7oRod8txl8b1S4uy5qtfaDsa29mEfCu1qZEzxaL9k6NraHbb3sF7zGIXK1r225Y3FTgRSURnY3+KMh4KR54Bn3rYE8qJb9xZN9kKos1gBzjDaWoSBDpvzOCF9iqeyYzp298pw26YxsWmnU/YijI18hAWS5UfmQxTW7c5Nrayctqvw5WO+qCmsIgx+wVwbLXSYP/2kzcWuYQtwsLp/YEhUK58CNvCF9DBRSYysq7nE3xupliNn3Zh3JUKIf4liYZ5+aQpYDhIvM=;k5+l/2VBE0VhBqV4f4pvcg=="

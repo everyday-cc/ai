@@ -67,7 +67,7 @@ related:
     provider:
       name: Indiatimes
       domain: indiatimes.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://static.toiimg.com/photo/75476733.cms"
         width: 640

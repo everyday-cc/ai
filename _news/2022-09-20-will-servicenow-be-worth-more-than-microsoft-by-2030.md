@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/will-servicenow-be-worth-more-than-m
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-servicenow-be-worth-more-than-microsoft-by-2030?amp"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Bambu releases predictive planner for Microsoft Cloud for Financial Services"
+    excerpt: "Bambu, a global wealth technology provider, today announced the launch of their Wealth Management Predictive Planning solution for Microsoft Cloud for Financial Services and Microsoft Dynamics 365 Sales."
+    publishedDateTime: 2022-09-22T08:42:00Z
+    webUrl: "https://www.finextra.com/pressarticle/94159/bambu-releases-predictive-planner-for-microsoft-cloud-for-financial-services"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 38
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Bambu offers Wealth Management Predictive Planning Solution for Microsoft Cloud for Financial Services and Microsoft Dynamics 365 Sales"
     excerpt: "Global wealth technology provider launches predictive planner for Microsoft Cloud for Financial ServicesSINGAPORE, Sept. 20, 2022/PRNewswire/ --"
     publishedDateTime: 2022-09-20T16:14:00Z
