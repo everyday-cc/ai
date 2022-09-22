@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-19-how-to-leverage-aiml-for-predictive-incident-management.md",
+      "title": "How To Leverage AI/ML For Predictive Incident Management",
+      "excerpt": "Proactive risk mitigation must be embedded into your enterprise tech strategy to ensure disruption-free operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/19/how-to-leverage-aiml-for-predictive-incident-management/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/19/how-to-leverage-aiml-for-predictive-incident-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60e86b76e1d8ab6b511b4a15/0x0.jpg?format=jpg&crop=3341,1879,x0,y140,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/19/how-to-leverage-aiml-for-predictive-incident-management/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/19/how-to-leverage-aiml-for-predictive-incident-management/amp/",
+      "publishedDateTime": "2022-09-19T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-09-19-machine-learning-as-a-service-mlaas-market-size-to-grow-at-3288-cagr-during-the-forecast-period-of-2022-2027-118-report-pages.md",
       "title": "Machine Learning as a Service (MLaaS) Market Size to Grow at 32.88% CAGR During the Forecast Period of 2022-2027 | 118 Report Pages",
       "excerpt": "The global Machine Learning as a Service (MLaaS) market size is expected to expand at a CAGR of 32.88% during the",
@@ -1165,49 +1217,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-robotic-order-fulfillment-system.md",
-      "title": "Robotic Order Fulfillment System",
-      "excerpt": "In addition to design, installation, and validation by MHS, the system is powered by a warehouse control system (WCS) and warehouse execution system (WES) that integrates the various automated components and robotics technology together to work as a smart ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.automationworld.com/supplier-news/product/22445441/mhs-robotic-order-fulfillment-system",
-      "originalUrl": "https://www.automationworld.com/supplier-news/product/22445441/mhs-robotic-order-fulfillment-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.automationworld.com/files/base/pmmi/all/image/2022/09/MHS.63247b35b5d39.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation World",
-        "domain": "automationworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

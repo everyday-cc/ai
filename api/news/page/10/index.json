@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-09-12-on-kennedys-moonshot-speech-anniversary-biden-to-push-fight-against-cancer.md",
+      "title": "On Kennedy's moonshot speech anniversary, Biden to push fight against cancer",
+      "excerpt": "In 2022, the American Cancer Society estimates, 1.9 million new cancer cases will be diagnosed and 609,360 people will die of cancer diseases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/world-news/on-kennedy-s-moonshot-speech-anniversary-biden-to-push-fight-against-cancer-101662958934994.html",
+      "originalUrl": "https://www.hindustantimes.com/world-news/on-kennedy-s-moonshot-speech-anniversary-biden-to-push-fight-against-cancer-101662958934994.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/09/12/1600x900/Biden-Cancer-Moonshot-0_1662960013318_1662960013318_1662960065439_1662960065439.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/world-news/on-kennedy-s-moonshot-speech-anniversary-biden-to-push-fight-against-cancer-101662958934994-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/on-kennedy-s-moonshot-speech-anniversary-biden-to-push-fight-against-cancer-101662958934994-amp.html",
+      "publishedDateTime": "2022-09-11T22:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-12-ai-fights-money-laundering-at-japanese-regional-bank.md",
       "title": "AI fights money laundering at Japanese regional bank",
       "excerpt": "A regional bank in Japan is turning to artificial intelligence in its fight against money laundering. The Bank of Yokohama rolled out its AI system in June. It was developed in cooperation with a computer-system development company.",
@@ -670,8 +713,8 @@
       "title": "Artificial intelligence is now used to track down hate speech",
       "excerpt": "Meta took action on more than 15 million pieces of hate speech content on Facebook. Roughly 95% of that was detected proactively by Facebook with the help of AI.",
       "sourceUrl": null,
-      "webUrl": "https://www.ksby.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
-      "originalUrl": "https://www.ksby.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
+      "webUrl": "https://www.wcpo.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
+      "originalUrl": "https://www.wcpo.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -688,13 +731,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.ksby.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true",
-      "cdnAmpWebUrl": "https://www-ksby-com.cdn.ampproject.org/c/s/www.ksby.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true",
+      "ampWebUrl": "https://www.wcpo.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true",
+      "cdnAmpWebUrl": "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true",
       "publishedDateTime": "2022-09-09T14:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KSBY 6",
-        "domain": "ksby.com",
+        "name": "WCPO-TV",
+        "domain": "wcpo.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -704,7 +747,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Facebook AI",
         "AI"
       ]
     },
@@ -1053,59 +1096,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-build-repeatable-secure-and-extensible-end-to-end-machine-learning-workflows-using-kubeflow-on-aws.md",
-      "title": "Build repeatable, secure, and extensible end-to-end machine learning workflows using Kubeflow on AWS",
-      "excerpt": "This is a guest blog post cowritten with athenahealth. athenahealth&nbsp;a leading provider of network-enabled software and services for medical groups and health systems nationwide. Its electronic health records, revenue cycle management, and patient engagement tools allow anytime, anywhere access,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-repeatable-secure-and-extensible-end-to-end-machine-learning-workflows-using-kubeflow-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-repeatable-secure-and-extensible-end-to-end-machine-learning-workflows-using-kubeflow-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/09/repeatable-secure-kubeflow.jpg",
-          "width": 1534,
-          "height": 766,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-09T09:21:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

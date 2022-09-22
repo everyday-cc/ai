@@ -2,6 +2,58 @@
   "page": 169,
   "value": [
     {
+      "path": "_news/2022-05-12-how-10-skin-tones-will-reshape-googles-approach-to-ai.md",
+      "title": "How 10 Skin Tones Will Reshape Google’s Approach to AI",
+      "excerpt": "For years, the tech industry has relied on a six-shade scale to classify skin tones. The search giant’s open source alternative could change that.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/google-monk-skin-tone-scale-computer-vision-bias/",
+      "originalUrl": "https://www.wired.com/story/google-monk-skin-tone-scale-computer-vision-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/627bfb60a95c6a3c6c74ef4b/master/pass/Google-IO-Skin-Tone-Scale-Business-1258016046.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/google-monk-skin-tone-scale-computer-vision-bias/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-monk-skin-tone-scale-computer-vision-bias/amp",
+      "publishedDateTime": "2022-05-11T14:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-evisoft-embeds-ai-into-contract-management-software-raises-100m.md",
       "title": "Evisoft embeds AI into contract management software, raises $100M",
       "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
@@ -1139,58 +1191,6 @@
         "AI",
         "Google AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-never-scoop-poop-again-with-the-sleek-brilliantly-designed-litter-robot-4.md",
-      "title": "Never scoop poop again with the sleek, brilliantly designed Litter-Robot 4",
-      "excerpt": "Designed with community feedback in mind, the latest Litter-Robot is all about improving on all the pain points from previous models – notably it’s less noisy, bulky and smelly. Ahead, everything to know about the Litter-Robot 4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/cnn-underscored/reviews/litter-robot-4-review",
-      "originalUrl": "https://www.cnn.com/cnn-underscored/reviews/litter-robot-4-review",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/litter-robot-4-review-lead.jpg?q=h_899,w_1601,x_0,y_0",
-          "width": 1601,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/cnn-underscored/reviews/litter-robot-4-review",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/reviews/litter-robot-4-review",
-      "publishedDateTime": "2022-05-11T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

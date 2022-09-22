@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/nvidia-introduces-dlss3-to-generate-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/nvidia-introduces-dlss3-to-generate-ai-powered-frames-with-4x-performance/amp/"
 type: article
 quality: 88
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia revealed new AI-powered gaming chips to be manufactured by TSMC"
+    excerpt: "Nvidia Corp unveiled new flagship chips for video gamers that use artificial intelligence to enhance graphics."
+    publishedDateTime: 2022-09-22T04:00:00Z
+    webUrl: "https://techwireasia.com/2022/09/nvidia-revealed-new-ai-powered-gaming-chips-to-be-manufactured-by-tsmc/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 56
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2022/09/nvidia-geforce-rtx-4090-gpu-1024x576.png"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Nvidia taps TSMC to manufacture new gaming chips with AI features"
     excerpt: "Nvidia has gained attention in recent years with its booming data center business, which sells chips used in artificial intelligence work such as natural language processing. But the company's roots are in graphics chips,"
     publishedDateTime: 2022-09-20T16:33:00Z

@@ -2,6 +2,40 @@
   "page": 123,
   "value": [
     {
+      "path": "_news/2022-06-15-predictive-maintenance-can-benefit-all-manufacturers.md",
+      "title": "Predictive Maintenance Can Benefit All Manufacturers",
+      "excerpt": "Kayed Almasarweh, IBM’s Watson and cognitive solutions lead, contends that machine learning and artificial intelligence can minimize unplanned downtime, eliminate maintenance guesswork, optimize supply chain management, and reduce warranty costs in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/industrial-machinery/predictive-maintenance-can-benefit-all-manufacturers",
+      "originalUrl": "https://www.designnews.com/industrial-machinery/predictive-maintenance-can-benefit-all-manufacturers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-montana-legislative-committee-debates-proposed-restrictions-for-facial-recognition-technology.md",
       "title": "Montana legislative committee debates proposed restrictions for facial recognition technology",
       "excerpt": "On Tuesday, a Montana legislative committee said the state needs to do something to respond to the growth of facial recognition technology – but members aren’t yet on the same page about what that should be.",
@@ -1069,49 +1103,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-comet-expands-alliances-across-the-complete-machine-learning-lifecycle.md",
-      "title": "Comet Expands Alliances Across the Complete Machine Learning Lifecycle",
-      "excerpt": "Comet, provider of the leading development platform for machine learning (ML) teams from startup to enterprise, today announced several integrations – including Ray, Kubeflow, and Google Vertex AI – that will eliminate complexity,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-science-646d7111abae4cfdaa469e8645c618e6",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-science-646d7111abae4cfdaa469e8645c618e6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

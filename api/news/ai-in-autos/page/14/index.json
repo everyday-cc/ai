@@ -2,40 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2022-06-26-if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.md",
-      "title": "If we’re ever going to accepting driverless cars, a trusted brand matters",
-      "excerpt": "But the idea of a fully automated driving mode, where artificial intelligence takes control ... in the United States do not feel safe in a driverless car. Even though consumers are skeptical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thespec.com/ts/autos/opinion/2022/06/25/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.html",
-      "originalUrl": "https://www.thespec.com/ts/autos/opinion/2022/06/25/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-25T16:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hamilton Spectator",
-        "domain": "thespec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-26-is-artificial-intelligence-supported-caries-detection-cost-effective.md",
       "title": "Is Artificial Intelligence-supported Caries Detection Cost-effective?",
       "excerpt": "A new study assessed the cost-effectiveness of artificial intelligence-supported detection of proximal caries and its benefits in caries management.",
@@ -1355,6 +1321,61 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-using-artificial-intelligence-to-improve-business-decisions.md",
+      "title": "Using Artificial Intelligence To Improve Business Decisions",
+      "excerpt": "Artificial intelligence (AI) is to business what telescopes are to star gazing—an incredible technological boost that magnifies, clarifies and illuminates business decisions. AI-enabled technology drives everything from algorithms that filter spam emails to complex systems that can drive cars without human intervention.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//620a556214ce14ae732b0ac7/0x0.jpg?format=jpg&width=1200",
+          "width": 753,
+          "height": 502,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/amp/",
+      "publishedDateTime": "2022-06-21T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "Machine Learning",
+        "AI in Autos"
       ]
     }
   ],

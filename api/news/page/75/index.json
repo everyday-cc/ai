@@ -2,6 +2,49 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2022-07-22-uw-medicine-researchers-train-artificial-intelligence-to-build-vaccines-medications.md",
+      "title": "UW Medicine researchers 'train' artificial intelligence to build vaccines, medications",
+      "excerpt": "Researchers with UW Medicine and Harvard have developed AI software to build proteins used in health science. These can be used to make vaccines, cancer treatments or even pull carbon pollution out of the air,",
+      "sourceUrl": null,
+      "webUrl": "https://www.q13fox.com/news/uw-medicine-researchers-train-artificial-intelligence-to-build-proteins",
+      "originalUrl": "https://www.q13fox.com/news/uw-medicine-researchers-train-artificial-intelligence-to-build-proteins",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.q13fox.com/www.q13fox.com/content/uploads/2022/07/932/470/dall-e-2.png?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.q13fox.com/news/uw-medicine-researchers-train-artificial-intelligence-to-build-proteins.amp",
+      "cdnAmpWebUrl": "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/uw-medicine-researchers-train-artificial-intelligence-to-build-proteins.amp",
+      "publishedDateTime": "2022-07-21T16:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Q13 FOX News",
+        "domain": "q13fox.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-22-fico-and-israels-open-financeai-to-streamline-decision-making-in-credit-insurance.md",
       "title": "FICO and Israel’s Open-Finance.ai to Streamline Decision-Making in Credit, Insurance",
       "excerpt": "Global analytics software provider FICO (NYSE: FICO) announced a partnership agreement with Israel’s Open-Finance.ai.",
@@ -1092,49 +1135,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-oracle-partners-with-microsoft-to-offer-database-service-for-azure.md",
-      "title": "Oracle partners with Microsoft to offer database service for Azure",
-      "excerpt": "Oracle Database Service for Azure gives Microsoft Azure customers direct access to Oracle databases residing in Oracle Cloud Infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/700044/oracle-partners-microsoft-offer-database-service-azure/",
-      "originalUrl": "https://www.arnnet.com.au/article/700044/oracle-partners-microsoft-offer-database-service-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_108483497_1.jpg",
-          "width": 473,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T23:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

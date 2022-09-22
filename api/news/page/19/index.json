@@ -2,6 +2,59 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-09-02-four-ways-voice-recognition-will-improve-healthcare.md",
+      "title": "Four Ways Voice Recognition Will Improve Healthcare",
+      "excerpt": "The severe stress our health system endured restricted its capacity to respond as fully and quickly as it may have in the pre-pandemic era. Thus, consumers often looked elsewhere to find answers to their pressing questions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6310bd9b5bc94a00b06398ad/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/amp/",
+      "publishedDateTime": "2022-09-02T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-09-02-with-new-china-ai-chip-restrictions-us-takes-aim-at-a-critical-niche.md",
       "title": "With new China AI chip restrictions, US takes aim at a critical niche",
       "excerpt": "The restricted chips have the ability to carry out AI calculations quickly, at huge scale, and with high precision, necessary for tasks such as designing fighter jets The United States beefed up ...",
@@ -1073,57 +1126,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-radius-ai-brings-edge-ai-to-retail-wins-innovation-award.md",
-      "title": "Radius AI brings edge AI to retail, wins Innovation Award",
-      "excerpt": "Radius AI won the AI Innovation Awards' Edge AI category for its technology that equips retailers with real-time customer insights.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/radius-ai-brings-edge-ai-to-retail-wins-innovation-award/",
-      "originalUrl": "https://venturebeat.com/ai/radius-ai-brings-edge-ai-to-retail-wins-innovation-award/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-retail-store_customers_convenience-store_158313046-e1662051971156.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/radius-ai-brings-edge-ai-to-retail-wins-innovation-award/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/radius-ai-brings-edge-ai-to-retail-wins-innovation-award/amp/",
-      "publishedDateTime": "2022-09-01T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

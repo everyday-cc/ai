@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-09-14-nikes-sneaker-cleaning-robot-is-like-a-car-wash-for-shoes.md",
+      "title": "Nike's Sneaker-Cleaning Robot Is Like a Car Wash for Shoes",
+      "excerpt": "Nike's new robot-powered system for cleaning and repairing kicks. At first glance, Big BILL looks like the ultimate Rube Goldberg machine (a contraption intentionally designed to complicate a simple task).",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/culture/fashion/nikes-sneaker-cleaning-robot-is-like-a-car-wash-for-shoes/",
+      "originalUrl": "https://www.cnet.com/culture/fashion/nikes-sneaker-cleaning-robot-is-like-a-car-wash-for-shoes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/8919002038ce59db805af029082728dec9276515/2022/09/13/c78420d1-c75d-46be-a0b3-ab6d56f5b794/bill2-1.jpg?auto=webp",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nikes-sneaker-cleaning-robot-is-like-a-car-wash-for-shoes/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nikes-sneaker-cleaning-robot-is-like-a-car-wash-for-shoes/",
+      "publishedDateTime": "2022-09-13T17:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-aws-open-sources-event-ruler.md",
       "title": "AWS Open Sources Event Ruler",
       "excerpt": "AWS recently announced that Event Ruler, the component managing the routing rules of Amazon EventBridge, is now open source. The project is a new option for developers in need to match lots of ...",
@@ -1117,49 +1169,6 @@
       "provider": {
         "name": "Joplin Globe",
         "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-ccc-intelligent-solutions-wins-2022-idc-fintech-rankings-real-results-award-for-ccc-safekeep.md",
-      "title": "CCC Intelligent Solutions Wins 2022 IDC FinTech Rankings Real Results Award for CCC® Safekeep",
-      "excerpt": "The AI-Powered Subrogation Platform Recognized for its Work with Root Insurance CCC Intelligent Solutions Inc. (CCC), a leading SaaS platform powering the P&C insurance economy, announced today it is",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/b28850758/ccc-intelligent-solutions-wins-2022-idc-fintech-rankings-real-results-award-for-ccc-safekeep",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/b28850758/ccc-intelligent-solutions-wins-2022-idc-fintech-rankings-real-results-award-for-ccc-safekeep",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg",
-          "width": 700,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28850758",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28850758",
-      "publishedDateTime": "2022-09-13T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

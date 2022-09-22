@@ -2,6 +2,50 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2022-08-03-spb-2022-q2-artificial-intelligence-biometric-privacy-quarterly-review-newsletter.md",
+      "title": "SPB 2022 Q2 Artificial Intelligence & Biometric Privacy Quarterly Review Newsletter",
+      "excerpt": "Q2 did not disappoint in the AI and biometric privacy space, with a number of noteworthy litigation, legislative, and regulatory developments having taken place in these two rapidly developing areas o",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/spb-2022-q2-artificial-intelligence-biometric-privacy-quarterly-review-newsletter",
+      "originalUrl": "https://www.natlawreview.com/article/spb-2022-q2-artificial-intelligence-biometric-privacy-quarterly-review-newsletter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/spb-2022-q2-artificial-intelligence-biometric-privacy-quarterly-review-newsletter?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/spb-2022-q2-artificial-intelligence-biometric-privacy-quarterly-review-newsletter?amp",
+      "publishedDateTime": "2022-08-03T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-08-03-artificial-intelligence-in-drug-discovery-market-intelligence-report-global-forecast-to-2027-researchandmarketscom.md",
       "title": "Artificial Intelligence in Drug Discovery Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com",
       "excerpt": "The Global Artificial Intelligence in Drug Discovery Market is projected to reach USD 2,760.77 million by 2027 from USD 701.05 million in 2021, at a CAGR 25.66% during the forecast period. In this report,",
@@ -1125,49 +1169,6 @@
       "provider": {
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-neural-networks-youve-got-it-so-easy.md",
-      "title": "Neural Networks: You’ve Got It So Easy",
-      "excerpt": "And so it was Scientific American magazine’s September 1992 special issue on Mind and Brain that introduced me to neural networks, both the biological and artificial kinds. Back then you had the ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2017/04/24/neural-networks-youve-got-it-so-easy/",
-      "originalUrl": "https://hackaday.com/2017/04/24/neural-networks-youve-got-it-so-easy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2017/04/neural_network_books-featured.jpg",
-          "width": 1110,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
         "images": null,
         "publishers": null,
         "authors": null

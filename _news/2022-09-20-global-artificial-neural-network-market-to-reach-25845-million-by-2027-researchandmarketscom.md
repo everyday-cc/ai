@@ -19,36 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Global artificial intelligence market to reach $450 billion in 2022"
-    excerpt: "The Artificial Intelligence (AI) market value is expected to reach nearly $450 billion this year and maintain a year-over-year growth rate in the next five years, a new report has forecast. In 2021, the global revenues for the AI market,"
-    publishedDateTime: 2022-09-17T11:50:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/global-artificial-intelligence-market-to-reach-450-billion-in-2022/articleshow/94268554.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/global-artificial-intelligence-market-to-reach-450-billion-in-2022/amp_articleshow/94268554.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/global-artificial-intelligence-market-to-reach-450-billion-in-2022/amp_articleshow/94268554.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-89644,msid-94268528/ai.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Global artificial intelligence market to reach $450 bn in 2022"
-    excerpt: "The Artificial Intelligence (AI) market value is expected to reach nearly $450 billion this year and maintain a year-over-year growth rate in the next 5 years, a new report has forecast. In 2021, the global revenues for the AI market,"
-    publishedDateTime: 2022-09-17T15:39:00Z
-    webUrl: "https://www.dailypioneer.com/2022/technology/global-artificial-intelligence-market-to-reach--450-bn-in-2022.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 37
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2022/story/images/big/global-artificial-intelligence-market-to-reach--450-bn-in-2022-2022-09-17.jpg"
-        width: 1000
-        height: 800
-        isCached: true
   - title: "Artificial Intelligence (AI) In Retail Market to Hit $40.74 Billion by 2030: Grand View Research, Inc."
     excerpt: "The global AI in retail market size is anticipated to reach USD 40.74 billion by 2030, expanding at a CAGR of 23.9% from 2022 to 2030, according to a new study by Grand View Research, Inc. The rising prominence of advanced technologies,"
     publishedDateTime: 2022-09-20T16:43:00Z
@@ -58,15 +28,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 18
-  - title: "Global Data Collection and Labeling Market Report 2022: Rapid Penetration Of AI And Machine Learning Drives Sector - ResearchAndMarkets.com"
-    excerpt: "The global data collection and labeling market size is expected to reach USD 12.75 billion by 2030, according to this report. The market is anticipated to expand at a CAGR of 25.1% from 2022 to 2030."
-    publishedDateTime: 2022-09-20T12:50:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-global-data-collection-and-labeling-market-report-2022-rapid-penetration-of-ai-and-machine-learning-drives-sector-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 2
 
 secured: "O+8HjgHgYbWlkBj8gFLAZpDeRr3RiJF4r11Pi0f2HVfts+DpjxcZ/5PMXuxmoOeQ76ZigSJqFetwYdNqv0p0sQiy5WwZz1ee8AhKnAOIal3jJOvn+VwpyTdUbJ+ZqTJM1PoTxoKDhE2kFRtFx2MJx1wESqdsMzL2k/EpzjQCAwyaMn1wMkSzmA7zb8XB2GWFFNv91MVoVEreU101LYFEMe2QRK5sYBklByDOZOQl6/N7SCfU1yDzyRlqs0ls39dek27HLoBn8gZaYHHDmJXQPtbxfdEiqT144wQRaCs63guK9MkjUZs31R3aeN8ofEsIy5ByrHPiRZM25rb9V/1sP58SwUGb/5eT7WUq/gI41No=;rbyyuTlM3a4I+xDOuNAyaQ=="
 ---

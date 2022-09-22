@@ -2,6 +2,50 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2022-07-19-nanomagnets-can-discern-wine-and-could-slake-ais-thirst-for-energy.md",
+      "title": "Nanomagnets can discern wine, and could slake AI's thirst for energy",
+      "excerpt": "Human brains process loads of information. When wine aficionados taste a new wine, neural networks in their brains process an array of data from each sip. Synapses in their neurons fire, weighing the importance of each bit of data—acidity,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-07-nanomagnets-discern-wine-slake-ai.html",
+      "originalUrl": "https://techxplore.com/news/2022-07-nanomagnets-discern-wine-slake-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/nanomagnets-can-choose.jpg",
+          "width": 960,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-07-nanomagnets-discern-wine-slake-ai.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-nanomagnets-discern-wine-slake-ai.amp",
+      "publishedDateTime": "2022-07-18T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-the-future-of-artificial-intelligence.md",
       "title": "The Future of Artificial Intelligence",
       "excerpt": "Even apart from the enduring dream of human-like intelligence, the future of AI is expected to play a deeply significant role in consumer and business markets.",
@@ -1090,49 +1134,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-bc-if-your-child-isnt-learning-robotics-what-are-they-learning.md",
-      "title": "BC: If Your Child Isn’t Learning Robotics; What Are They Learning?",
-      "excerpt": "Robotics is the conception, design, construction and control of robots to assist humans ... How it helps the proper development of the brain and mind, fosters healthy competition, and instils ...",
-      "sourceUrl": null,
-      "webUrl": "https://punchng.com/bc-if-your-child-isnt-learning-robotics-what-are-they-learning/",
-      "originalUrl": "https://punchng.com/bc-if-your-child-isnt-learning-robotics-what-are-they-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.punchng.com/wp-content/uploads/2022/07/18091906/learning-child.jpg",
-          "width": 740,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://punchng.com/bc-if-your-child-isnt-learning-robotics-what-are-they-learning/?amp",
-      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/bc-if-your-child-isnt-learning-robotics-what-are-they-learning/?amp",
-      "publishedDateTime": "2022-07-18T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Punch Newspapers",
-        "domain": "punchng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

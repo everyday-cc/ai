@@ -2,6 +2,60 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-06-metas-no-language-left-behind-ai-can-now-translate-200-languages.md",
+      "title": "Meta's 'No Language Left Behind' AI Can Now Translate 200 Languages",
+      "excerpt": "The translation tool will be put to work on Facebook and Instagram and will also be open source for others to use.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/social-media/metas-no-language-left-behind-ai-can-now-translate-200-languages/",
+      "originalUrl": "https://www.cnet.com/news/social-media/metas-no-language-left-behind-ai-can-now-translate-200-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 398,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/08db5935e4bf42296493609feca5ab5c73e1ad95/2022/06/29/38883dfb-6d93-41cb-88e1-0fbe4233f4b9/nllb-1.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/metas-no-language-left-behind-ai-can-now-translate-200-languages/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/metas-no-language-left-behind-ai-can-now-translate-200-languages/",
+      "publishedDateTime": "2022-07-06T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Natural Language Processing",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-06-expanding-artistic-frontiers-in-artificial-intelligence.md",
       "title": "Expanding artistic frontiers in artificial intelligence",
       "excerpt": "Dr. Mohammed Elhoseiny, assistant professor of computer science at KAUST, has carved a career out of teaching machines the art of creating art. After finishing his doctoral degree at Rutgers University in 2016,",
@@ -1327,58 +1381,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-ai-speras-criminal-ip-makes-a-debut-at-rsa-conference-2022.md",
-      "title": "AI Spera's Criminal IP Makes a Debut at RSA Conference 2022",
-      "excerpt": "On June 6, AI Spera, the provider of AI-driven Cyber Threat Intelligence platform, introduced its VPN IP threat detection solutions at the world's largest cyber security conference, RSA Conference 2022 in San Francisco.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-spera-s-criminal-ip-makes-a-debut-at-rsa-conference-2022-1031517024",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-spera-s-criminal-ip-makes-a-debut-at-rsa-conference-2022-1031517024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1834303/1.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

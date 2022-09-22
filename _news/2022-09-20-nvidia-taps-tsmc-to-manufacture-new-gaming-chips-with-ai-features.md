@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 686
         isCached: true
+  - title: "Nvidia revealed new AI-powered gaming chips to be manufactured by TSMC"
+    excerpt: "Nvidia Corp unveiled new flagship chips for video gamers that use artificial intelligence to enhance graphics."
+    publishedDateTime: 2022-09-22T04:00:00Z
+    webUrl: "https://techwireasia.com/2022/09/nvidia-revealed-new-ai-powered-gaming-chips-to-be-manufactured-by-tsmc/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 56
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2022/09/nvidia-geforce-rtx-4090-gpu-1024x576.png"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "NVIDIA Unveils RTX 4000 GPU Line, Includes DLSS 3"
     excerpt: "NVIDIA had a keynote that showed off the next step in the evolution of its graphical prowess. Leading this off was the announcement of the newest"
     publishedDateTime: 2022-09-20T16:08:00Z

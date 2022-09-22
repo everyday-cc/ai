@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-09-13-ccc-intelligent-solutions-wins-2022-idc-fintech-rankings-real-results-award-for-ccc-safekeep.md",
+      "title": "CCC Intelligent Solutions Wins 2022 IDC FinTech Rankings Real Results Award for CCC® Safekeep",
+      "excerpt": "The AI-Powered Subrogation Platform Recognized for its Work with Root Insurance CCC Intelligent Solutions Inc. (CCC), a leading SaaS platform powering the P&C insurance economy, announced today it is",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/b28850758/ccc-intelligent-solutions-wins-2022-idc-fintech-rankings-real-results-award-for-ccc-safekeep",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/b28850758/ccc-intelligent-solutions-wins-2022-idc-fintech-rankings-real-results-award-for-ccc-safekeep",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg",
+          "width": 700,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28850758",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28850758",
+      "publishedDateTime": "2022-09-13T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-13-large-language-models-new-industry-use-cases-and-responsible-ai-round-out-the-main-themes-for.md",
       "title": "Large Language Models, New Industry Use Cases, and Responsible AI Round Out the Main Themes for ...",
       "excerpt": "John Snow Labs, the healthcare AI and NLP company and developer of the Spark NLP library, today announced the agenda for its",
@@ -1071,49 +1114,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-biden-to-hit-china-with-broader-curbs-on-us-chip-and-tool-exports.md",
-      "title": "Biden to hit China with broader curbs on US chip and tool exports",
-      "excerpt": "The Biden administration plans next month to broaden curbs on U.S shipments to China of semiconductors used for artificial intelligence and chipmaking tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/biden-hit-china-broader-curbs-us-chip-tool-exports",
-      "originalUrl": "https://www.foxbusiness.com/technology/biden-hit-china-broader-curbs-us-chip-tool-exports",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/384e1113-3270-4bae-b62e-e27212b6cd05/8edd5d67-6702-4141-a355-04c14d7d9b45/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/technology/biden-hit-china-broader-curbs-us-chip-tool-exports.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/biden-hit-china-broader-curbs-us-chip-tool-exports.amp",
-      "publishedDateTime": "2022-09-12T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-02-australian-ai-star-appen-flags-first-half-loss-shares-plunge.md",
+      "title": "Australian AI star Appen flags first-half loss, shares plunge",
+      "excerpt": "Aug 2 (Reuters) - Australia's Appen Ltd (APX.AX), which runs artificial intelligence training for Facebook ... analyst John Campbell wrote in a research note. RBC Capital Markets analyst Garry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/australian-ai-star-appen-flags-first-half-loss-shares-plunge-2022-08-02/",
+      "originalUrl": "https://www.reuters.com/technology/australian-ai-star-appen-flags-first-half-loss-shares-plunge-2022-08-02/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=108",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T21:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-01-facebooks-former-cto-mike-schroepfer-explains-why-hes-turning-his-attention-to-climate-change.md",
       "title": "Facebook's former CTO Mike Schroepfer explains why he's turning his attention to climate change",
       "excerpt": "When longtime Facebook executive Mike Schroepfer announced ... I've overseen lots of things from building data centers, to building an AI Lab to, scaling products to billions of people.",
@@ -1402,60 +1454,6 @@
       "topics": [
         "Natural Language Processing",
         "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-metas-no-language-left-behind-ai-can-now-translate-200-languages.md",
-      "title": "Meta's 'No Language Left Behind' AI Can Now Translate 200 Languages",
-      "excerpt": "The translation tool will be put to work on Facebook and Instagram and will also be open source for others to use.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/social-media/metas-no-language-left-behind-ai-can-now-translate-200-languages/",
-      "originalUrl": "https://www.cnet.com/news/social-media/metas-no-language-left-behind-ai-can-now-translate-200-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 398,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/08db5935e4bf42296493609feca5ab5c73e1ad95/2022/06/29/38883dfb-6d93-41cb-88e1-0fbe4233f4b9/nllb-1.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/metas-no-language-left-behind-ai-can-now-translate-200-languages/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/metas-no-language-left-behind-ai-can-now-translate-200-languages/",
-      "publishedDateTime": "2022-07-06T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Natural Language Processing",
         "Facebook AI"
       ]
     }
