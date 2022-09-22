@@ -1,14 +1,11 @@
 ---
 category: news
 title: "AlphaFold Developers Win $3-Million Breakthrough Prize in Life Sciences"
-excerpt: "Demis Hassabis and John Jumper, both at DeepMind in London, were recognized for creating the tool that has predicted the 3D structures of almost every known protein on the planet. “Few discoveries so dramatically alter a field, so rapidly,” says ..."
-publishedDateTime: 2022-09-22T17:03:00Z
-originalUrl: "https://www.scientificamerican.com/article/alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences/"
-webUrl: "https://www.scientificamerican.com/article/alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences/"
+excerpt: "DeepMind’s system for predicting the 3D structure of proteins is among five recipients of science’s most lucrative awards"
+publishedDateTime: 2022-09-22T17:18:00Z
+originalUrl: "https://www.scientificamerican.com/article/alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences/?ref=upstract.com&curator=upstract.com"
+webUrl: "https://www.scientificamerican.com/article/alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences/?ref=upstract.com&curator=upstract.com"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
   name: Scientific American
@@ -18,23 +15,6 @@ topics:
   - Google AI
   - AI
 
-images:
-  - url: "https://static.scientificamerican.com/sciam/cache/file/085A9374-BDE5-4A53-A29DFCB280352F20.png"
-    width: 790
-    height: 496
-    isCached: true
-
-related:
-  - title: "AlphaFold developers win US$3-million Breakthrough Prize"
-    excerpt: "DeepMind’s system for predicting the 3D structure of proteins is among five recipients of science’s most lucrative awards."
-    publishedDateTime: 2022-09-22T13:20:00Z
-    webUrl: "https://www.nature.com/articles/d41586-022-02999-9"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 4
-
-secured: "X4GNAnG2KFm8KuIRmaYsHckskm58p/44BkMJAsABI0BrxChw6GqrXBbWyEaz4HAhv1Zed9JydFVGy9P1nSSCmBWqLxHQ2cIUndlAplvNZC3j56ROcxjBPugNtkxiDxYNhJLTQp2n0RarBAkiBoAyw06wrfGh2gjUhWJycX99XVJwIGjJE8vvJCqi+JFLxg+cAuobRE53auJCoZ92+7Tj7haEf3MgHpcIEKpjAr9vbehfe4aylsrk8m6322T2zC8cpdysb5GceCYs0/yZu0XBXo83hQ07ZNw8e5480grCrSsSrBHd8m1c2oong8wcMOf7iubLPuDXCCHkjdp+dHadxr+vCRwHGx8qpPvQCYMA9JI=;VaCS/LMn9aUcRHT1EhNf5w=="
+secured: "Tf4mmFWZVi6LtBnwEDrmAV2tKdN52Vopg4q2C6b6xLNiG6MrwYco27wLg0WRQpomTWHP6q0maZtsr5YYqXuajh3irKdZYLfXJAMbgbYLow+/SiwMA2PktZ/tqnPgb0ZFRDCu6RSalgDFH/e7FHf6rRJ7VRPclK7eOQuAFyhxL7UIpU9MZZbBbbCtR7SE6i9SL1gQ3B2gsJ9JjM/xfYzqHOeyPttD62BFlNlp+zWOs96SRtivRMCzz8QAcWcTIi1AsBNVJ93ABkAjCvu6Icc1bwc4uN/LGmuXPBcoIf2877gq7X1aQrQ2nnomkZ/CnV10LJJp1c5JdGAucEGEp1VYp7wt0jy08PWEEwdArG+p9wXm+Q6uaU2bGN6Iy/O6tPIhPbq5aAn3G9I1d7s4B63Raltgq8bk0jsPda3M3ULKU1sn6inLZoYswYy5IJGDARE5ej/BduGGiSsnsto6tvm0TQimMYXe75WvfwfHJc6xGsv+d4L7N0NAFNZQROsG5A5cM73sg/1gvcbHRMcTvjHKag==;PTQz/50R6QGX4+eJc3k0bQ=="
 ---
 

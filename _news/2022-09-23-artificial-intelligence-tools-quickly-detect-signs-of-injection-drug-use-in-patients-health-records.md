@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Natural Language Processing
 
 related:
   - title: "Artificial intelligence tools speed up the process of identifying people who inject drugs"

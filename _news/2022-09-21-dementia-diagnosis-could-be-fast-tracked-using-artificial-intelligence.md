@@ -1,29 +1,19 @@
 ---
 category: news
 title: "Dementia diagnosis could be fast-tracked using artificial intelligence"
-excerpt: "Dr Roman Bauer, senior author of the study from the University of Surrey, said: \"Our study shows that using artificial intelligence analysis of EEG data as a diagnostic tool to identify dementia could be life-changing for many people."
-publishedDateTime: 2022-09-21T09:29:00Z
-originalUrl: "https://www.surrey.ac.uk/news/dementia-diagnosis-could-be-fast-tracked-using-artificial-intelligence"
-webUrl: "https://www.surrey.ac.uk/news/dementia-diagnosis-could-be-fast-tracked-using-artificial-intelligence"
+excerpt: "Forms of dementia could be spotted sooner and more easily by analyzing recordings of patients' electrical brain activity using artificial intelligence (AI), according to new research."
+publishedDateTime: 2022-09-21T16:04:00Z
+originalUrl: "https://medicalxpress.com/news/2022-09-dementia-diagnosis-fast-tracked-artificial-intelligence.html"
+webUrl: "https://medicalxpress.com/news/2022-09-dementia-diagnosis-fast-tracked-artificial-intelligence.html"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: University of Surrey
-  domain: surrey.ac.uk
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.surrey.ac.uk/sites/default/files/styles/image_gallery/public/2022-09/GettyImages-1132352689.jpg?itok=slQvzZv_"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "T1BLASfI7ja7OvKR0mDX9C5WWFquWxhn/fmQe6sx1OdMHmblsIxG9r/DIQmX9Px7wG4Dh79n1unR0A93j+LBBh4fg3skHBt+jdeNWPgrxVyOZSvBX3/UnohtcL5deuWgrrqs5EaMQEXdKqp8raXr902unOfF0vMkmX7qosLFwoHU8pXtoYZMifKrgpvEIByfPHXFtNk9jnXmEqq8Sk1L8C9E1Idg79kqcobiB2gD/1B1o/zvLBYOgBMOitmKnHx8X/bVvCfPIzuat8o2WGShfaMl868DkpnM6ngb2bCOF7c0ORxxbTz+NgmyonlIE2qkMp0XkBBZaMK0yl1r5dfpf+MNF+elVb15fxHy+Ce9oZg=;iwE3BDjBV6iq+h96Ipy2rQ=="
+secured: "3iwiVfvtLgb8pgXrs9UaZYp9McqYuOemBew8EYLYsyhm9XU1WxSevJN5d52gf+0AAM/kcFtjToypl4E9yJ8EF0IiP3wNfn/Ln0onwYzw1pVKb1aB65Yh0uh1vZrrlFwLVLWaB8EfnN/ImCSbBbvZecLI6Kobz2A5tB54zXlc9d+PS9V1a6UC4ILglDGe/NQTATzUGFRbskA3FTscs8A1O9yBJsLYnEzWPCo67KZLbcnHr+dW2OrQb55Dw/mQg/YiCxfGp/BKudw9PQuYfayB/Cof5xWCCMYX8Tu07t6iOEREQmcLdfb5VSwA1bii7s0veqIja9U8YTHA4A6zfp+cwOOwdqrUXv7hrETKX5zwCO03VZXAUZydhIZmMSgCKQsEDE/RsbljzNBGweBzwc/JgJTLlJjU6ysi6AEitV5MBDWBiEh/AKrgNADu1O00+GJAopf29c71X7v7n1wHsB2yo31bscpkXxfmOLsbhzhgI6ZvyaUsVd7Us0RrpYF4OrHT6lCw0BNnGKesdIjNPXuEYg==;vDOUCVSAuIJpKlQbjylKXg=="
 ---
 
