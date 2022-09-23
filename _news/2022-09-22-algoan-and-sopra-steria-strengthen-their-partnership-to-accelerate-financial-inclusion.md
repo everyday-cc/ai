@@ -26,16 +26,19 @@ images:
 
 related:
   - title: "Sopra Steria and Algoan Strengthen Their Partnership to Accelerate Financial Inclusion"
-    excerpt: "Sopra Steria, via Sopra Steria Ventures, has invested in Algoan, the leading French fintech in API-based credit scoring. Sopra Banking Software (SBS), a key technology partner to more than 1,500 finan"
+    excerpt: "Sopra Steria, via Sopra Steria Ventures, has invested in Algoan, the leading French fintech in API-based credit scoring. Sopra Banking Software (SBS), a key technology partner to more than 1,500 financial institutions worldwide,"
     publishedDateTime: 2022-09-21T19:39:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/b28955676/sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28955676"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28955676"
+    webUrl: "https://www.joplinglobe.com/region/national_business/sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion/article_ca936379-bf3b-5884-a8d3-a28733d33f12.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Joplin Globe
+      domain: joplinglobe.com
     quality: 16
+    images:
+      - url: "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg"
+        width: 350
+        height: 456
+        isCached: true
 
 secured: "xR3VwQEH71M3+OO0pPzdQeRN0nuMxuuvapugCbfeX8jCyTBL6etktLsM1Ybq4rpV19C+KiXOBcylbpvGvm24BOU0oGlaNQwNJPHFXZ/cfXallQP/Yv8QwCmmqmvJEVfdrYsV/+wBLKMdEg/AEl9u79lQKY3kmTvqK6fLdwEC/Zy95b2+V89luwmA128ziX7l2AebM+6rsi9AZ6q0blU2elqd2Gj7P5iFynB4/Ky1+Tdq4AmBkABv7+ar18r1NbHGTcgFUb8jcyVz5zbcfkkj9RWSrzo6kigSi6kOfeAze7pg0aWsroVw3vxxOAhbmEgrxKUhDMVs6GIYJ7gbLwIMrr+OVKRAcDsjq9yhuSK7Fgg=;Bgyyjh+g7smUdc625arZhw=="
 ---

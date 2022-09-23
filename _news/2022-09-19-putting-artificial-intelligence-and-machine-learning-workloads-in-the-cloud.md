@@ -8,7 +8,7 @@ webUrl: "https://www.computerweekly.com/feature/Putting-artificial-intelligence-
 ampWebUrl: "https://www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud?amp=1"
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud?amp=1"
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
@@ -25,6 +25,7 @@ topics:
   - AI in Finance
   - AI in Autos
   - IBM AI
+  - AWS AI
 
 images:
   - url: "https://www.computerweekly.com/rms/onlineimages/ai_a352095729.jpg"

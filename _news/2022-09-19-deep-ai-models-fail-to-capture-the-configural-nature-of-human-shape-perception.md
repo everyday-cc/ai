@@ -44,20 +44,6 @@ related:
         width: 412
         height: 275
         isCached: true
-  - title: "Even smartest AI models don’t match human visual processing: Study"
-    excerpt: "Deep convolutional neural networks (DCNNs) do not see objects the way humans do — using configural shape perception — and that could be dangerous in real-world artificial intelligence (Al) applications,"
-    publishedDateTime: 2022-09-18T15:20:00Z
-    webUrl: "https://www.canindia.com/even-smartest-ai-models-dont-match-human-visual-processing-study/"
-    type: article
-    provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 41
-    images:
-      - url: "https://www.canindia.com/wp-content/uploads/2022/03/imageCireplace.png"
-        width: 696
-        height: 436
-        isCached: true
 
 secured: "FpLnl96REWA96sF/HU4BJ8VR+D+lPcNu9tz8ZCOlkeflhAMtb10NFlLIQyD47eyUVAqkDmlIfGpph/f+soiV71tMEN1aQNMVyogq7qX0f7tXbRtVkrxzZNIryeCKbgRiMvMo3J5/P0S4zELyM+076Seq4mdYUytnt3bjcJ+W3cl3DGXU5/qASpvoh+mVzkY0M13aYOdTK4oe3FdeSnccvVSrNUisZGiNuvoAYaD3p10CHHmtCl+96J69pYDXN26SxxrCWqtEf2r5PuBpM/yISX8BKG0XEQnu9DNO3toOKOac2tidhSB8rSzrkU51rx57k6WMLNilaAMPrZqQLRGOWA+Cgtdi5BzFYEX3NS6Oidc=;RygAMGSPMLB4/pK70e+SdQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.in/business/news/even-smartest-ai-models
 cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/amp_articleshow/94293780.cms"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg"
         width: 620
         height: 480
-        isCached: true
-  - title: "Even smartest AI models don’t match human visual processing: Study"
-    excerpt: "Deep convolutional neural networks (DCNNs) do not see objects the way humans do — using configural shape perception — and that could be dangerous in real-world artificial intelligence (Al) applications,"
-    publishedDateTime: 2022-09-18T15:20:00Z
-    webUrl: "https://www.canindia.com/even-smartest-ai-models-dont-match-human-visual-processing-study/"
-    type: article
-    provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 41
-    images:
-      - url: "https://www.canindia.com/wp-content/uploads/2022/03/imageCireplace.png"
-        width: 696
-        height: 436
         isCached: true
 
 secured: "gZXRwCZCUGVeXnBUjXal6RcxhR+arewMFLAtuLzg/x3yyhOWugtqvHvhyItL0/+3Ui13l52ItiO3eBM4FpNjvo53TD2pSekHywG1YsnTITJewxMmLBU4dY08hwYRjg+SFX8/mN+nXy7B4jXRANLfJWfHhZ7YUvc3I5BOA5WAqK2aXIddvQRhb+5SriKDNkNczsD2Ut8BLnlW1WDXksmyXUYrrW4ONLkKkKggokfCS1ICO4PKzLj11CG/V6OCIzyIwmdEf5fYaimGcbRk7EMXoAGgxmVAxlvb8ykFxmbChvvAfHjaDtjQguPXMSWcEwmnba8SJ7pNt7kHdBcOW0NNe5H3pQ6NDbFYI0wh/LbK0H0PExWCgM401+0Xu8bLVhR9mH33f5NO4imRo1aHLCHOXLiL90h5lCduYqVHrXAqBpBuuQkcd79s5kXoOSa8O/CgviVfCLo4mGCqoTuaHYd90unJjQverzayp3GliaumfCeKCbC0cngcE81XdDOfxGTapodgDT8jNYWmmW0U4z4NhQ==;IJEIhDEK4vK0SyWDOl9/vQ=="

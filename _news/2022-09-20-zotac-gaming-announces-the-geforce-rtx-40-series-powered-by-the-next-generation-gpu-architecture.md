@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.co.uk/news-releases/zotac-gaming-announces-
 webUrl: "https://www.prnewswire.co.uk/news-releases/zotac-gaming-announces-the-geforce-rtx-40-series-powered-by-the-next-generation-gpu-architecture-301628728.html"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Zotac Gaming announces the GeForce RTX 40 series powered by the next generation GPU architechture"
+    excerpt: "ZOTAC Technology Limited, a global manufacturer of innovation, ushers in a new era of PC gaming with the unveiling of our next- ZOTA"
+    publishedDateTime: 2022-09-23T08:46:00Z
+    webUrl: "https://www.digit.in/press-release/pc-components/zotac-gaming-announes-the-geforce-rtx-40-series-powered-by-the-next-generation-gpu-architechture-65358.html"
+    ampWebUrl: "https://www.digit.in/article/amp/pc-components/65358/zotac-gaming-announes-the-geforce-rtx-40-series-powered-by-the-next-generation-gpu-architechture"
+    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/pc-components/65358/zotac-gaming-announes-the-geforce-rtx-40-series-powered-by-the-next-generation-gpu-architechture"
+    type: article
+    provider:
+      name: Digit
+      domain: digit.in
+    quality: 46
+    images:
+      - url: "https://static.digit.in/default/b1275933cebcc95d7e40198c047d9e99e89657f9.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "ZOTAC Technology Limited: ZOTAC GAMING Announces the GeForce RTX 40 Series PowerED BY the next generation GPU ARCHITECTURE"
     excerpt: "ZOTAC Technology Limited, a global manufacturer of innovation, ushers in a new era of PC gaming with the unveiling of its next-generation ZOTAC GAMING"
     publishedDateTime: 2022-09-20T17:03:00Z

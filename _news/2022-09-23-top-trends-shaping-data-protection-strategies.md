@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-22T21:18:00Z
 originalUrl: "https://www.wwt.com/article/top-trends-shaping-data-protection-strategies"
 webUrl: "https://www.wwt.com/article/top-trends-shaping-data-protection-strategies"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.wwt.com/api/attachments/6328b84f44e27a00936f07aa/thumbnail?width=1200"

@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Sopra Steria and Algoan Strengthen Their Partnership to Accelerate Financial Inclusion"
-excerpt: "Sopra Steria, via Sopra Steria Ventures, has invested in Algoan, the leading French fintech in API-based credit scoring. Sopra Banking Software (SBS), a key technology partner to more than 1,500 finan"
+excerpt: "Sopra Steria, via Sopra Steria Ventures, has invested in Algoan, the leading French fintech in API-based credit scoring. Sopra Banking Software (SBS), a key technology partner to more than 1,500 financial institutions worldwide,"
 publishedDateTime: 2022-09-21T19:39:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/b28955676/sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/b28955676/sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion"
-ampWebUrl: "https://www.benzinga.com/amp/content/28955676"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28955676"
+originalUrl: "https://www.joplinglobe.com/region/national_business/sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion/article_ca936379-bf3b-5884-a8d3-a28733d33f12.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion/article_ca936379-bf3b-5884-a8d3-a28733d33f12.html"
 type: article
 quality: 16
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg"
+    width: 350
+    height: 456
+    isCached: true
 
 related:
   - title: "Algoan and Sopra Steria strengthen their partnership to accelerate financial inclusion"
@@ -36,6 +40,6 @@ related:
         height: 250
         isCached: true
 
-secured: "zlY+lhaC5KYfAOTcWGHTrkbdIFqEyV6Nr6bMC8FoGi898imoTo+IvmdhfdZjuWfw9qsueILDM1wz0PVNBFLtOm5S1ANlugAFci8q8xtFzVvoK1jwsulHCKr7llB4cgoIonL9Xx4HsKtj6+kVJ09hpY8vNn0LW/3s94oQgtdU8+t65OfDPQJa1w6Fd7gm0fkRfykJgTlNq5kYWrVmeUTG9tRamPi17yDaeXBCqdmqC5U25HgJuXFJRpZAKorZJ/x6pO8lZJiG7iFW9VKR1+C7fcRPF6ndolk5XwGDvzaAgw0gicYfCbM14pZfDk8PipqpwxMdt96jA/fBj5MeMf/o7do8ln8dYiKmBXx6cTLN7sY=;G8xVhG9m7Pqp5nvWn44e/w=="
+secured: "M3sRcAPz72rcrX819xrCUs+oQ+kwiM0x3JNGMNWSU81Fiet/eVcw7/vEKFD5WBbgbM+QeB+zByi+IcBS3g0HtqEErdwu1CbegTXJ62agjBL4CgONbyaZdBwLVWKrPIVaCQXtwG+7vvqBkM0GDx/wtfQvRQnkQ1Mth8ZbTxJTfiohss6fCOPPlAPZu1G+BN4ML/MOtw6xwOAM90vjAYPE9jTuG3Tl6MlxD/4eLlfIbYkV5hOw2Xp2736B9xSp0WKhW+yOG0rz4eTnN9HebBAiTmWdT+on96N+ZOZw8GjjEUnoEooGBejet0K9alFrYmy65pJX0kYQEc9LE9rIIkpTYSuEyFbLQRQtBpde0FQPLEo=;rQj1cycvgsobRqul4xSRoQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.smartcitiesdive.com/news/self-driving-cars-benefits-pe
 webUrl: "https://www.smartcitiesdive.com/news/self-driving-cars-benefits-perils-outlined-in-new-report/632388/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 770
     height: 364
     isCached: true
-
-related:
-  - title: "Self-driving cars need new laws, regulations: report"
-    excerpt: "Legislative Yuan researchers have recommended revisions to traffic laws to ensure legal clarity on accidents involving self-driving vehicles. A report published by the Legislative Research Bureau on Sept."
-    publishedDateTime: 2022-09-18T16:00:00Z
-    webUrl: "https://www.taipeitimes.com/News/taiwan/archives/2022/09/19/2003785569"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 24
-    images:
-      - url: "https://www.taipeitimes.com/images/2022/09/19/P03-220919-309.jpg"
-        width: 945
-        height: 630
-        isCached: true
 
 secured: "u6H+XrWHuwjudwyURvak9HVSKrW8pflrinX3ySAolDMg5GKMprFYKH2eq0H4pVonuWBH1vNHNfC+soxbgXLdFoFZHwln6fsHZvC1tFDpIThzST1fr+yO6KEwBlP2gqK9MyOf+ATlFD9U/vG7pMpk8KdU+XJ1mjqJWBrErSsUiDfmW6w7YOJyuCi4RdVnamLy7DDQLeNoN1ltaYcprP7s3ddp7nKyKDWPS+j8KQkHEZjcfDVJN48By2XQDiqHF9cCrivVU5mWGVC0RNlN/sAYwo30+losYYVwRQY/nENz11DlOLk5q9eLcTzv98EawQcrwMaY59ZR73oXTUPinFSJ3ZnFD0dfs5RTaBHVWTOmDYmgPWqHpegshOhSu5j7GEFPOj7XKWSJpokXO6yZyBIU5Ebi0fGJF+XknCVpzncK2CMZQhZnXzkvvAkzzgf2URXLTc7EbeDKh2qRvkfFNx+EV3h8aea0pGN2Jv4FC10H2AwfPb+jQ3+buQH2doBYRphhJLGWRaGfE45ruI2f9afuxA==;z2XsQD/UEB55jYx2uhet4Q=="
 ---
