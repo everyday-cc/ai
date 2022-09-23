@@ -2,6 +2,101 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2022-08-09-u-of-a-integrating-artificial-intelligence-into-exoskeleton-technology.md",
+      "title": "U of A integrating artificial intelligence into exoskeleton technology",
+      "excerpt": "A group of University of Alberta researchers are trying to redefine medical assistance for those with mobility issues by combing artificial intelligence with exoskeleton technology.",
+      "sourceUrl": null,
+      "webUrl": "https://edmonton.ctvnews.ca/u-of-a-integrating-artificial-intelligence-into-exoskeleton-technology-1.6019787",
+      "originalUrl": "https://edmonton.ctvnews.ca/u-of-a-integrating-artificial-intelligence-into-exoskeleton-technology-1.6019787",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2022/8/8/2498165/_jcr_content/renditions/videothumbnail.1660054959435.jpg",
+          "width": 1020,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/edmonton/2022/8/9/1_6019787.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2022/8/9/1_6019787.amp.html",
+      "publishedDateTime": "2022-08-09T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-yc-backed-kaedim-helps-game-developers-generate-3d-models-using-ai.md",
+      "title": "YC-Backed Kaedim Helps Game Developers Generate 3D Models Using AI",
+      "excerpt": "For video game artists, converting 2D sketches into 3D assets takes thousands of hours across a standard-sized video game. Kaedim provides game developers with modeling software that can rapidly convert 2D images into 3D models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/frederickdaso/2022/08/09/yc-backed-kaedim-helps-game-developers-generate-3d-models-using-ai/",
+      "originalUrl": "https://www.forbes.com/sites/frederickdaso/2022/08/09/yc-backed-kaedim-helps-game-developers-generate-3d-models-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62eb4b0553e2902591373b0b/0x0.jpg?format=jpg&crop=886,498,x0,y0,safe&width=1200",
+          "width": 886,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2022/08/09/yc-backed-kaedim-helps-game-developers-generate-3d-models-using-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2022/08/09/yc-backed-kaedim-helps-game-developers-generate-3d-models-using-ai/amp/",
+      "publishedDateTime": "2022-08-09T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-09-traceable-ai-addresses-api-based-data-security-and-fraud-attacks-in-latest-platform-update.md",
       "title": "Traceable AI Addresses API-based Data Security and Fraud Attacks in Latest Platform Update",
       "excerpt": "Flexible deployment options: Fully out-of-band collection via network log analysis of AWS, Google Cloud Platform (GCP), and Azure clouds - specifically for ... About Traceable AI Traceable is the industry's leading API security platform that identifies ...",
@@ -1084,93 +1179,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-missouri-based-fintech-to-acquire-glastonburys-payrailz.md",
-      "title": "Missouri-based fintech to acquire Glastonbury’s Payrailz",
-      "excerpt": "A Missouri-based publicly traded financial technology firm announced Thursday it has reached an agreement to acquire Glastonbury-based digital payment company, Payrailz. Jack Henry & Associates Inc. said the purchase will expand its digital payment capabilities,",
-      "sourceUrl": null,
-      "webUrl": "https://www.hartfordbusiness.com/article/missouri-based-fintech-to-acquire-glastonburys-payrailz",
-      "originalUrl": "https://www.hartfordbusiness.com/article/missouri-based-fintech-to-acquire-glastonburys-payrailz",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hartfordbusiness.com/sites/default/files/2021-04/payrailz2_opt.jpg",
-          "width": 770,
-          "height": 494,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hartford Business",
-        "domain": "hartfordbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-datacenter-props-up-nvidia-as-gaming-sales-collapse.md",
-      "title": "Datacenter Props Up Nvidia As Gaming Sales Collapse",
-      "excerpt": "These discrete GPU sales aimed at gamers and cryptocurrency miners took ... By contrast, sales in Nvidia’s datacenter division, which is driven largely by AI workloads but also by a fair amount of HPC simulation and modeling and data analytics workloads ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2022/08/08/datacenter-props-up-nvidia-as-gaming-sales-collapse/",
-      "originalUrl": "https://www.nextplatform.com/2022/08/08/datacenter-props-up-nvidia-as-gaming-sales-collapse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/nvidia-hq-logo.jpg",
-          "width": 937,
-          "height": 592,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2022/08/08/datacenter-props-up-nvidia-as-gaming-sales-collapse/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/08/08/datacenter-props-up-nvidia-as-gaming-sales-collapse/amp/",
-      "publishedDateTime": "2022-08-08T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

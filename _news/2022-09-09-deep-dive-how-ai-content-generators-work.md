@@ -24,6 +24,7 @@ topics:
   - Natural Language Processing
   - AI
   - Machine Learning
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/02/ai-marketing-shutterstock_741922060.jpg?w=1200&strip=all"

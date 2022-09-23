@@ -34,6 +34,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Agricultural Robots Market Report 2022: Rising Penetration of Indoor Farming Driving Sector Growth - ResearchAndMarkets.com"
+    excerpt: "The \"Agricultural Robots Market by Type, By Applications, By Component, By Farming Type, and By End Use: Global Opportunity Analysis and Industry Forecast, 2022 - 2030\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-09-23T11:01:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-23-global-agricultural-robots-market-report-2022-rising-penetration-of-indoor-farming-driving-sector-growth-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "V3Mb5O3NnsRHCaYfoaPavogQTxAj5zEOzB09uljpHE8Swmdgh+dBwdH35kEawY6yAsJr1dmjhIY06c7QICOO6w8GnYpshy8oW7oRod8txl8b1S4uy5qtfaDsa29mEfCu1qZEzxaL9k6NraHbb3sF7zGIXK1r225Y3FTgRSURnY3+KMh4KR54Bn3rYE8qJb9xZN9kKos1gBzjDaWoSBDpvzOCF9iqeyYzp298pw26YxsWmnU/YijI18hAWS5UfmQxTW7c5Nrayctqvw5WO+qCmsIgx+wVwbLXSYP/2kzcWuYQtwsLp/YEhUK58CNvCF9DBRSYysq7nE3xupliNn3Zh3JUKIf4liYZ5+aQpYDhIvM=;k5+l/2VBE0VhBqV4f4pvcg=="
 ---

@@ -2,6 +2,74 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-09-13-ge-digital-achieves-aws-industrial-software-competency-status-and-adds-new-aws-marketplace-offerings-in-operational-intelligence-and-mes-morningstar.md",
+      "title": "GE Digital Achieves AWS Industrial Software Competency Status and Adds New AWS Marketplace Offerings in Operational Intelligence and MES | Morningstar",
+      "excerpt": "Get 7 Days Free Sign In Sign In Topics",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20220913005127/ge-digital-achieves-aws-industrial-software-competency-status-and-adds-new-aws-marketplace-offerings-in-operational-intelligence-and-mes",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20220913005127/ge-digital-achieves-aws-industrial-software-competency-status-and-adds-new-aws-marketplace-offerings-in-operational-intelligence-and-mes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-kyndis-natural-language-search-solution-recognized-as-a-kmworld-top-trend-setting-product-of-2022.md",
+      "title": "Kyndi's Natural Language Search Solution Recognized as a KMWorld Top Trend-Setting Product of 2022",
+      "excerpt": "SAN MATEO, Calif., Sept. 13, 2022 /PRNewswire/ -- Kyndi, the leading natural language processing (NLP) company, today announced that KMWorld, the premier knowledge management publication ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/n28847758/kyndis-natural-language-search-solution-recognized-as-a-kmworld-top-trend-setting-product-of-2022",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/n28847758/kyndis-natural-language-search-solution-recognized-as-a-kmworld-top-trend-setting-product-of-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-13-these-9-gurus-all-bought-microsoft.md",
       "title": "These 9 Gurus All Bought Microsoft",
       "excerpt": "At Holdings Channel, we have reviewed 6,722 13F filings for the 06/30/2022 reporting period, and noticed that Microsoft Corporation (Symbol: MSFT) was held by 9 of the particular managers we have flagged as \"titans\" most widely followed by investors.",
@@ -1057,101 +1125,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-tighter-vc-capital-forces-ai-startups-to-face-the-music.md",
-      "title": "Tighter VC capital forces AI startups to face the music",
-      "excerpt": "A new Pitchbook report shows that funding for AI startups isn't plentiful as it once was, with some struggling more than others.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/12/tighter-vc-capital-forces-ai-startups-to-face-the-music/",
-      "originalUrl": "https://techcrunch.com/2022/09/12/tighter-vc-capital-forces-ai-startups-to-face-the-music/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1314979456.jpg",
-          "width": 2309,
-          "height": 1299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T09:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-tech-war-why-the-us-nvidia-chip-ban-is-a-direct-threat-to-beijings-artificial-intelligence-ambitions.md",
-      "title": "Tech war: Why the US Nvidia chip ban is a direct threat to Beijing’s artificial intelligence ambitions",
-      "excerpt": "Nvidia has said that it can continue to ship AI chips from its Hong Kong facility through September 2023. “Most cloud service providers in China use Nvidia chips in their GPU-based products ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3192213/tech-war-why-us-nvidia-chip-ban-direct-threat-beijings-artificial",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3192213/tech-war-why-us-nvidia-chip-ban-direct-threat-beijings-artificial",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

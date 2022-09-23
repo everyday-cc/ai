@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scroll.in/article/1033424/iran-is-using-facial-recogniti
 cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1033424/iran-is-using-facial-recognition-technology-to-target-women-breaking-hijab-law"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -28,21 +28,39 @@ images:
     isCached: true
 
 related:
-  - title: "Mahsa Amini: facial recognition to hunt down hijab rebels in Iran"
-    excerpt: "Use of facial recognition technology to identify women breaking hijab law puts them at greater risk of abuse, activists say"
-    publishedDateTime: 2022-09-21T14:20:00Z
-    webUrl: "https://news.trust.org/item/20220921162019-568vk"
+  - title: "Samsung May Be Working On Dual-UDC Facial Recognition Tech"
+    excerpt: "Samsung may be working on a dual-UDC facial recognition system for smartphones using two hidden under-display cameras."
+    publishedDateTime: 2022-09-23T11:21:00Z
+    webUrl: "https://www.androidheadlines.com/2022/09/samsung-dual-udc-facial-recognition-tech.html"
+    ampWebUrl: "https://www.androidheadlines.com/2022/09/samsung-dual-udc-facial-recognition-tech.html?amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/09/samsung-dual-udc-facial-recognition-tech.html?amp"
     type: article
     provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 41
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
     images:
-      - url: "https://news.trust.org/contentAsset/image/7173746d-ef4a-4570-bb57-d129f9285a0d/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
-        width: 1100
-        height: 733
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2022/08/Samsung-Galaxy-Z-Fold-4-Review-AM-AH-16.jpg"
+        width: 1600
+        height: 1200
+        isCached: true
+  - title: "Original Samsung Galaxy Z Flip gets One UI 4.1.1 update"
+    excerpt: "Samsung started rolling out the update to One UI 4.1.1 to the Galaxy Z Flip3 and Z Fold3, promising that even older foldables than those would eventually get it too. The Galaxy Z Fold2 was next in line,"
+    publishedDateTime: 2022-09-21T23:07:00Z
+    webUrl: "https://www.gsmarena.com/original_samsung_galaxy_z_flip_gets_one_ui_411_update-news-55893.php"
+    ampWebUrl: "https://m.gsmarena.com/original_samsung_galaxy_z_flip_gets_one_ui_411_update-amp-55893.php"
+    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/original_samsung_galaxy_z_flip_gets_one_ui_411_update-amp-55893.php"
+    type: article
+    provider:
+      name: GSM Arena
+      domain: gsmarena.com
+    quality: 44
+    images:
+      - url: "https://fdn.gsmarena.com/imgroot/news/22/09/galaxy-flip-one-ui-411/-1220x526/gsmarena_000.jpg"
+        width: 1220
+        height: 526
         isCached: true
 
-secured: "UfLBfOkaAJyjNBP4ee5pHpTxHDe2M+izItZTyRjLjH90cEeTlqBAnDKIRF0du3NiVbcrLcRpWXmV5Jasi5oEF2moTu90/da3ca3crm0yIncx9ZgzrmT9tNhg8FhBgiTsdWw7BtycGrJ4dcyi+EF++bWo9L0lveqxZpA4jvaOdPhwK609agj2pgrBe1Cg8T1D4NZTzDZX+tOOPKrf7bTDPSwO5q9kkLeRwahgC9H+/8an7XsiAv1AXqO0DAGdTjcixAS9q20VP4H0LN6ICulP8tDAUNJ1BT+k6LIff/D1m0Jf+2laWsVkuKu2bMC4g0Gy2S5v9zWdeIm2Z1Oa8IZfGAlQZCGocfQRvZI/RXjk4+o=;ElgV1pEUJCB03gcIbpwRtQ=="
+secured: "pOYubGOILV5/Mc6LD9nEZBGkUM2TlWyZC3IcnxF3NV3pvcTJ5fBiTMYW1RPzuZDTUjLEBztH/+aQmC3/4CReHgcfXNqMP0dPlp67J1IdQsTUqaEgdiD00afTsfA+rRj6meH9ruGNDy64yKR2416zSg9NDdwpva6G19R/dytrf1VJW0uZdXobFzpyuhbqdPTEhTERUjCV8Z/V7YHO6FA/QoCGTzrlYtl4cjZ3JAQEK3Ku4OIzWY6dwoxNQCgNExMOI3BPEkESCdwXArgB7QCp8Nx/y4uf7p+dmvA9zi6pXnPP18/124SDaJzsZ0YdvWGHVdiw9eXi1Dq0xW1QmrPI3onGWcUMFejy48Q+0At1V+QovdB0CCSbC7r71mwr74x2bGfv68MbodInDE9WaCTUFf2RZMUmF7MAAtAz90o4mLF9CWlL7gGMQIMu+xZTlYxi75hzC7ajF1vQZm7UmTei/cFHLCdHWOBZBPgWmOD6rW2vRfZkySMFcsms1r7pGuRyLHC01h07ANFFBz/cV7lCbw==;y9yz2vm46sEovg//klPyig=="
 ---
 

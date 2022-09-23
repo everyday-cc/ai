@@ -2,40 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-09-01-california-has-a-bill-to-go-after-teslas-self-driving-claims.md",
-      "title": "California Has a Bill to Go After Tesla’s Self-Driving Claims",
-      "excerpt": "Lawmakers in California are targeting Tesla’s self-driving claims with a new false advertising bill, VW’s next boss says the firm must speed up its switch to electric vehicles, and GM recalls its autonomous Cruise cars.",
-      "sourceUrl": null,
-      "webUrl": "https://jalopnik.com/california-has-a-bill-to-go-after-tesla-s-self-driving-1849484108",
-      "originalUrl": "https://jalopnik.com/california-has-a-bill-to-go-after-tesla-s-self-driving-1849484108",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://jalopnik.com/california-has-a-bill-to-go-after-tesla-s-self-driving-1849484108/amp",
-      "cdnAmpWebUrl": "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/california-has-a-bill-to-go-after-tesla-s-self-driving-1849484108/amp",
-      "publishedDateTime": "2022-09-01T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jalopnik",
-        "domain": "jalopnik.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-01-gms-driverless-car-unit-recalls-software-used-in-some-robotaxis.md",
       "title": "GM’s Driverless-Car Unit Recalls Software Used in Some Robotaxis",
       "excerpt": "General Motors driverless-car unit has issued a recall related to the software in some of its robotaxis, after a crash earlier this year resulted in minor injuries. Cruise LLC, in a notice ...",
@@ -1386,6 +1352,50 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story.md",
+      "title": "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story",
+      "excerpt": "New Jersey, NJ -- (SBWIRE) -- 08/29/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ...",
+      "sourceUrl": null,
+      "webUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-46",
+      "originalUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-46",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-28T23:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insurancenewsnet.com",
+        "domain": "insurancenewsnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

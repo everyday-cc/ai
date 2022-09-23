@@ -26,47 +26,34 @@ images:
     isCached: true
 
 related:
-  - title: "Triangle AI startup InsightFinder brings in $10M in Series A fundraise"
-    excerpt: "A startup founded and led by an NCSU professor has raised nearly $10 million in its latest fundraising round, and plans to continue its growth trajectory."
-    publishedDateTime: 2022-09-22T15:20:00Z
-    webUrl: "https://wraltechwire.com/2022/09/22/triangle-ai-startup-insightfinder-brings-in-10m-in-series-a-fundraise/"
-    ampWebUrl: "https://wraltechwire.com/2022/09/22/triangle-ai-startup-insightfinder-brings-in-10m-in-series-a-fundraise/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/09/22/triangle-ai-startup-insightfinder-brings-in-10m-in-series-a-fundraise/?amp=1"
+  - title: "The pitch deck AI startup Paretos used to raise $10 million"
+    excerpt: "Paretos offers a decision-intelligence platform that helps companies solve complex problems without having to hire data scientists."
+    publishedDateTime: 2022-09-23T10:41:00Z
+    webUrl: "https://www.businessinsider.com/see-the-pitch-deck-ai-startup-paretos-raise-10-million-2022-9"
     type: article
     provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
     images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2018/07/money-cash-venture-capital-e1564657723363.jpg"
-        width: 960
-        height: 540
+      - url: "https://i.insider.com/632d8e4db431eb0019815c5f?width=1200&format=jpeg"
+        width: 800
+        height: 400
         isCached: true
-  - title: "Funding Rundown: MapmyIndia invests in Kogo, Avanse Financial Services raises Rs 390 crore & Murf AI raises $10M in Series A funding"
-    excerpt: "Rakesh Verma, Chairman and Managing Director, MapmyIndia said that the partnership with KOGO will \"boost and enable the next-generation of travel, outdoors, hyper-local and on-the-go experiences and use cases for everyone\"."
-    publishedDateTime: 2022-09-21T15:25:00Z
-    webUrl: "https://www.cnbctv18.com/startup/funding-rundown-mapmyindia-invests-in-kogo-avanse-financial-services-murf-ai-14776511.htm"
-    ampWebUrl: "https://www.cnbctv18.com/startup/funding-rundown-mapmyindia-invests-in-kogo-avanse-financial-services-murf-ai-14776511.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/startup/funding-rundown-mapmyindia-invests-in-kogo-avanse-financial-services-murf-ai-14776511.htm/amp"
+  - title: "We got an exclusive look at the 9-slide pitch deck Innovafeed, an insect protein startup, used to raise $250 million"
+    excerpt: "The Series D funding round will be invested in technology, new sites in the US, and will be used to grow Innovafeed's 400-strong headcount."
+    publishedDateTime: 2022-09-22T07:00:00Z
+    webUrl: "https://www.businessinsider.com/innovafeed-250-million-production-insects-for-food-pitch-deck-2022-9"
     type: article
     provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 28
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
     images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2018/03/Startup-40.jpg"
-        width: 1280
-        height: 720
+      - url: "https://i.insider.com/632af456edbe7f00190f2bb5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Synthetic Speech Startup Murf AI Raises $10M in Series A"
-    excerpt: "Murf AI today announced a $10M Series A funding round led by Matrix Partners India with participation from existing investor Elevation"
-    publishedDateTime: 2022-09-21T20:26:00Z
-    webUrl: "https://www.datanami.com/this-just-in/synthetic-speech-startup-murf-ai-raises-10m-in-series-a/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 17
 
 secured: "RAYL82vxKss/K2JBrJqxTlX0c3C8t0hTpI5ilRoc6u7+uUYYpB6a6FxNkPdr69gtcWo+iL/ETE5OkQZ5DR8WmdhJ5y0CuLQRKDAedeoq6m8fEZ44xLuDKvw6yCc2sC/vgF8S//YlAzkKre+85LirZzRZTr4BYcL1xRJJDcoZD2vHrALqUOu6K70nG3hUfqiJUg1nrn0IijNEOP9C8znNkRNp+JXIBggrHCLejIMSpBUhBwAwem1JUfFSpGQjcWE+DA6gY9fVe+nB+dpawU+vwuVBwb1Mu4NtJE0q6LY9pIIK4tXeKe4T2vv9gc1t0aitffqWjPkiHyHjnxNGGRu9x0/doyO3NQPK/6PjqkmQ8twgyAOTEzph+tqmdZhumO8amL1Sil5BitSNvEaMTmdUBwMUuZ1BBX07ojsGGJtg/RDQXsocecSw4o3py5yx6NEg92ZQF54edLHSOt4EOrIoLSdhcJlpro+Yi1v7P64YqaREw/xFJV6ZbIfZumYjLq4WOqoJtB35DW76bHfBbBVB2A==;ISq6ga2R3SET/m+cmXDnaw=="
 ---

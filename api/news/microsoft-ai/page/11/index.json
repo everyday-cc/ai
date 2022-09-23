@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-06-25-entrepreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs.md",
+      "title": "Entrepreneurs, architects and artists: Why people with dyslexia could be drawn to certain jobs",
+      "excerpt": "Estimates suggest that up to 20% of the population have dyslexia - and the study's aim was to better understand their cognitive strengths. Lead author Dr Helen Taylor said \"the deficit-centred ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.sky.com/story/entrepreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs-12639682",
+      "originalUrl": "https://news.sky.com/story/entrepreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs-12639682",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e3.365dm.com/22/06/1600x900/skynews-richard-branson-dyslexia_5813744.jpg?20220624114741",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.sky.com/story/amp/entrepreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs-12639682",
+      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/entrepreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs-12639682",
+      "publishedDateTime": "2022-06-24T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky",
+        "domain": "sky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-25-on-crm-viva-adds-to-microsofts-organized-chaos-of-apps.md",
       "title": "On CRM: Viva Adds To Microsoft's Organized Chaos Of Apps",
       "excerpt": "In Microsoft's case, yes. The software giant makes…well…software. Lots and lots of it. Too much of it, actually. Just think of the company's primary business application offerings, many of which are under the brand of Microsoft 365.",
@@ -1295,49 +1338,6 @@
       "provider": {
         "name": "ConsumerAffairs",
         "domain": "consumeraffairs.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-jan-6-testimony-drives-cognitive-dissonance-for-trump-fans.md",
-      "title": "Jan. 6 testimony drives ‘cognitive dissonance’ for Trump fans",
-      "excerpt": "“It’s cognitive dissonance,” said Jennifer Stromer-Galley, a Syracuse University professor who has studied how Trump used social media and advertising to mobilize his base. “If you believe ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2022/06/20/jan-6-testimony-drives-cognitive-dissonance-for-trump-fans/",
-      "originalUrl": "https://www.eastbaytimes.com/2022/06/20/jan-6-testimony-drives-cognitive-dissonance-for-trump-fans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2022/06/sjm-Disinformation_98658590-1.jpg?w=1024&h=683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2022/06/20/jan-6-testimony-drives-cognitive-dissonance-for-trump-fans/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/06/20/jan-6-testimony-drives-cognitive-dissonance-for-trump-fans/amp/",
-      "publishedDateTime": "2022-06-20T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
         "images": null,
         "publishers": null,
         "authors": null

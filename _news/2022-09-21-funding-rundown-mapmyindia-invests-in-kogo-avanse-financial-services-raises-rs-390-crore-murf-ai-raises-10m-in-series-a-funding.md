@@ -43,22 +43,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Speech technology startup Murf AI raises $10 million in funding led by Matrix Partners"
-    excerpt: "The startup will use the funds to drive further product innovation, accelerate research and development, as well as scale its presence in focused geographies."
-    publishedDateTime: 2022-09-21T06:18:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/speech-technology-startup-murf-ai-raises-10-million-in-funding-led-by-matrix-partners/articleshow/94344021.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/speech-technology-startup-murf-ai-raises-10-million-in-funding-led-by-matrix-partners/amp_articleshow/94344021.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/speech-technology-startup-murf-ai-raises-10-million-in-funding-led-by-matrix-partners/amp_articleshow/94344021.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 49
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-88766,msid-94344110/murf-founders.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Synthetic Speech Startup Murf AI Raises $10M in Series A"
     excerpt: "Murf AI today announced a $10M Series A funding round led by Matrix Partners India with participation from existing investor Elevation"
     publishedDateTime: 2022-09-21T20:26:00Z

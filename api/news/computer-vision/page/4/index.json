@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-13-pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research.md",
+      "title": "Pearl Named 2022 \"Hot Vendor\" in Computer Vision by Aragon Research",
+      "excerpt": "Pearl, the global leader in dental AI solutions, announced today that it has been included on the 2022 list of \"Hot Vendors\" in Computer Vision i by Aragon Research, Inc. The firm's report ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/08/b28477798/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/b28477798/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28477798",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28477798",
+      "publishedDateTime": "2022-08-12T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-12-deepfakes-expose-vulnerabilities-in-certain-facial-recognition-technology.md",
       "title": "Deepfakes expose vulnerabilities in certain facial recognition technology",
       "excerpt": "Mobile devices use facial recognition technology to help users quickly and securely unlock their phones, make a financial transaction or access medical records. But facial recognition technologies that employ a specific user-detection method are highly vulnerable to deepfake-based attacks that could lead to significant security concerns for users and applications,",
@@ -1343,49 +1377,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-the-cost-of-living-crisis-is-pricing-people-out-of-breathing.md",
-      "title": "The cost-of-living crisis is pricing people out of breathing",
-      "excerpt": "The food store chain Southern Co-op faces a legal case over its use of surveillance technology. By Sarah Dawood Facial recognition technology is used willingly by millions of us every day as a form of authentication, to unlock our phones, generate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newstatesman.com/spotlight/cyber/2022/07/facial-recognition-tech-biometric-data",
-      "originalUrl": "https://www.newstatesman.com/spotlight/cyber/2022/07/facial-recognition-tech-biometric-data",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/07/shutterstock_1699088953-1038x778.jpg",
-          "width": 1038,
-          "height": 778,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-29T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Statesman",
-        "domain": "newstatesman.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

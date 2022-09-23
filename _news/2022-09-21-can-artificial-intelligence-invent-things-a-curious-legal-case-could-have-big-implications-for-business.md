@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-21T09:30:00Z
 originalUrl: "https://observer.com/2022/09/can-artificial-intelligence-invent-things-a-curious-legal-case-could-have-big-implications-for-business/"
 webUrl: "https://observer.com/2022/09/can-artificial-intelligence-invent-things-a-curious-legal-case-could-have-big-implications-for-business/"
 type: article
-quality: 20
-heat: 20
+quality: 22
+heat: 22
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://observer.com/wp-content/uploads/sites/2/2022/09/Novartis-.jpg?quality=80&#038;strip"

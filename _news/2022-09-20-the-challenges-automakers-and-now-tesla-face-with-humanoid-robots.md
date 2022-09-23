@@ -36,6 +36,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla sends out invites for AI Day 2, teases Full Self-Driving, Tesla Bot, Dojo, and more"
+    excerpt: "Tesla started sending out invites for AI Day 2022. The automaker is teasing more information on Full Self-Driving, Tesla Bot, Dojo, and more."
+    publishedDateTime: 2022-09-23T10:14:00Z
+    webUrl: "https://electrek.co/2022/09/23/tesla-sends-invites-ai-day-2-teases-full-self-driving-tesla-bot-dojo/"
+    ampWebUrl: "https://electrek.co/2022/09/23/tesla-sends-invites-ai-day-2-teases-full-self-driving-tesla-bot-dojo/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/23/tesla-sends-invites-ai-day-2-teases-full-self-driving-tesla-bot-dojo/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 97
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-AI-Day-2022-invite.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Optimus Robot Is Coming At Tesla’s AI Day 2 – But It’ll Have To Do More Than Dancing To Silence Critics"
     excerpt: "Tesla will hold its AI Day 2 on September 30 and in the leadup, Elon Musk has prioritized both Optimus and an updated smart summon feature. According to the tech billionaire, both projects have an end-of-month deadline."
     publishedDateTime: 2022-09-20T23:37:00Z

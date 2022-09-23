@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-08-10-ai-and-computer-vision-powers-growing-shop-and-go-platform.md",
+      "title": "AI and computer vision powers growing shop-and-go platform",
+      "excerpt": "AiFi, which is powered only by cameras and computer vision, announced today that it now boasts a total of 80 checkout-free stores worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-and-computer-vision-shop-and-go-retail-platform-expands/",
+      "originalUrl": "https://venturebeat.com/ai/ai-and-computer-vision-shop-and-go-retail-platform-expands/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/Loop-Union-City-3-min-1024x683-1.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-and-computer-vision-shop-and-go-retail-platform-expands/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-and-computer-vision-shop-and-go-retail-platform-expands/amp/",
+      "publishedDateTime": "2022-08-10T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-a-security-pros-primer-on-azure-identity-and-access-management.md",
       "title": "A security pro’s primer on Azure identity and access management",
       "excerpt": "Azure Attack Paths are more difficult to secure ... There's a lot of worry about \"fakes\" especially in a world rapidly adopting AI/ML, so it's time for solutions. \"Solid\" is the W3C open standard ...",
@@ -1359,49 +1412,6 @@
         "Microsoft AI",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-cognitive-decline-can-be-avoided-with-simple-everyday-exercises-new-study-suggests.md",
-      "title": "Cognitive decline can be avoided with simple everyday exercises, new study suggests",
-      "excerpt": "Researchers at the Wake Forest University School of Medicine recruited 300 adults with mild cognitive decline to do aerobic and stretching-and-balance exercises. The groups were split up based ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/08/03/cognitive-decline-can-be-avoided-with-simple-everyday-exercises-new-study-suggests/",
-      "originalUrl": "https://nypost.com/2022/08/03/cognitive-decline-can-be-avoided-with-simple-everyday-exercises-new-study-suggests/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/08/newspress-collage-23318110-1659557295793.jpg?quality=75&strip=all&1659543113&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2022/08/03/cognitive-decline-can-be-avoided-with-simple-everyday-exercises-new-study-suggests/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/08/03/cognitive-decline-can-be-avoided-with-simple-everyday-exercises-new-study-suggests/amp/",
-      "publishedDateTime": "2022-08-03T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

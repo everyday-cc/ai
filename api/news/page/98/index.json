@@ -2,6 +2,100 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2022-07-04-obsbot-tiny-4k-is-a-petite-uhd-webcam-with-ai-powered-tracking.md",
+      "title": "OBSBOT Tiny 4K is a petite UHD webcam with AI-powered tracking",
+      "excerpt": "Webcams aren't generally smart, but the OBSBOT Tiny 4K UHD webcam is, thanks to AI-powered tracking and autofocus support. Learn more about it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/obsbot-tiny-4k-webcam/",
+      "originalUrl": "https://www.digitaltrends.com/computing/obsbot-tiny-4k-webcam/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/06/OBSBOT-Tiny-PTZ-4K-UHD-Webcam-with-AI-and-gimbal.jpg?p=1",
+          "width": 1776,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/obsbot-tiny-4k-webcam/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/obsbot-tiny-4k-webcam/?amp",
+      "publishedDateTime": "2022-07-04T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-04-risc-v-development-laptop-introduced-by-deepcomputing-and-xcalibyte.md",
+      "title": "RISC-V development laptop introduced by DeepComputing and Xcalibyte",
+      "excerpt": "“A Web3-friendly platform with NFT creation and publication plus integrated MetaMask-style wallet, ROMA will create an even more integrated experience with future AR glasses and AI speakers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/risc-v-laptop-04-07-2022/",
+      "originalUrl": "https://www.geeky-gadgets.com/risc-v-laptop-04-07-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2022/07/RISC-V-laptop.jpg",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-04T05:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-04-china-turns-to-automation-and-robotics-to-solve-aging-problem.md",
       "title": "China Turns to Automation and Robotics to Solve Aging Problem",
       "excerpt": "Senior Product Manager The impact of an aging population has taken a toll on China’s economy. Industrial automation and robotics could be the solution. The largest existential threat facing China is its declining population – the impact of an aging population on the country’s economy has the potential to be highly unsavory and should not be ignored by global investors.",
@@ -993,100 +1087,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-the-key-to-quantum-computing-ai-applications-flexible-programming-languages.md",
-      "title": "The key to quantum computing AI applications: Flexible programming languages",
-      "excerpt": "When enabled by flexible AI programming languages, quantum computing performs AI calculations much faster, and at a greater scale.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/02/the-key-to-quantum-computing-ai-applications-flexible-programming-languages/",
-      "originalUrl": "https://venturebeat.com/2022/07/02/the-key-to-quantum-computing-ai-applications-flexible-programming-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-175422126-angelhell.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/02/the-key-to-quantum-computing-ai-applications-flexible-programming-languages/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/02/the-key-to-quantum-computing-ai-applications-flexible-programming-languages/amp/",
-      "publishedDateTime": "2022-07-02T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-could-artificial-intelligence-replace-therapists.md",
-      "title": "Could Artificial Intelligence Replace Therapists?",
-      "excerpt": "Artificial Intelligence (AI) in the Role of a Psychologist ... technology can be used as an effective tool for psychological therapy. Further, if people who interact with LaMDA believe it is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2022-07/blue_planet_studio_shutterstock.jpg?itok=vp9Js1ws",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists?amp",
-      "publishedDateTime": "2022-07-02T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-21T13:24:00Z
 originalUrl: "https://www.thefastmode.com/expert-opinion/27652-lifemote-at-dtw-2022-next20-startup-leverages-cloud-ai-for-instant-wi-fi-insights"
 webUrl: "https://www.thefastmode.com/expert-opinion/27652-lifemote-at-dtw-2022-next20-startup-leverages-cloud-ai-for-instant-wi-fi-insights"
 type: article
-quality: 11
-heat: 11
+quality: 31
+heat: 31
 published: false
 
 provider:
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI
 
-secured: "w14tHgB4piq4dpoQQsbnx1fGc8uu4L1/y5NchuP35EWiexMdisYNvCquXxugFqIXPu0bQJ9lp+rkSf+7+asTIXXPFa6nIRhxDCZCSdCcRd/rHAiVJA13q4MyRrEOqrSkvwIzGper2/HPeB/sipPGr4aWT9PudFjtCmCCK9dkJFoTp9zsD8dsEU3aZNYTZ1nDpTa7CfKOVfaIYfwMHzc8PdFpt8WlD+RsIq2j4V2DcQGUW6v/ZCMfx4iKA/YPCtaA8xTHeA+2BaJrUi/gIeSjuMsVzK+XIvEBrBT3IiVGbngNA8GMoIclAXly4LoHp2oMlET4aEn7wWv4OiQdjuf81WC0BKjTgeuX3OktOwCXjC8=;J5lyNzOAAqtlNLPjvdn6uQ=="
+images:
+  - url: "https://www.thefastmode.com/media/k2/items/src/79a268183143daac9dee336a67d01dd5.jpg?t=20220921_131257"
+    width: 753
+    height: 408
+    isCached: true
+
+secured: "nsNFYz7JnJymMycLeokte3Bzu4Awb1i9Meuugt/kz2SZoHDKA3+T/NPSzneB5MdVecVVJJ6XR9YGgTDGTO2jbpOnPnDg0pSSTd0Be+vADvUUonhixVi8Mt1Kv6/AI/3HUuvvZlM0g2UJsVg3+IsvGNWrKQr+Lx8Y8jztoIVQL5LMtVRrS5EO28/LJAYGmqu4k3GXr6lE3i8UpneNSVBEgHGRWrpmVNj/Py6KoYn8Y5Jzz6zAIw567yUwQ5TymhtNLdTjuk2Ara9FZFMQZFxY6WwQGJrkaLtreHXA4iavt+nObPiXZoJxIF3bkcgSUayFLhqSL+PxSSCUERjwlUsNqsSVb/u0RruVDS86hykE68M=;I7WE9+e8Hwo7Ni9gzFIrbg=="
 ---
 

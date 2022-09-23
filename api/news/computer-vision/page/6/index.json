@@ -2,6 +2,41 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-07-19-kami-vision-grows-by-350-percent-as-demand-for-ai-services-in-security-safety-industry-surges.md",
+      "title": "Kami Vision Grows by 350 Percent as Demand for AI Services in Security & Safety Industry Surges",
+      "excerpt": "Kami Vision, the computer vision company that provides artificial intelligence (AI) solutions to SMBs and consumers, announced today the company has grown 350 percent since its launch in August 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/19/9640967.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/19/9640967.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-good-finance-chooses-cyberlinks-faceme-facial-recognition-technology-to-perform-identity-verification-for-its-online-banking-services.md",
       "title": "Good Finance Chooses CyberLink’s FaceMe® Facial Recognition Technology to Perform Identity Verification for Its Online Banking Services",
       "excerpt": "Good Finance implemented CyberLink’s FaceMe AI facial recognition engine into its mobile app and portal to eliminate the need for new online banking customers to visit a physical branch when performing certain operations such as opening an account.",
@@ -1332,58 +1367,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-like-brad-pitt-do-you-have-trouble-recognizing-people-it-may-be-prosopagnosia-or-face-blindness.md",
-      "title": "Like Brad Pitt, do you have trouble recognizing people? It may be prosopagnosia or 'face blindness'",
-      "excerpt": "Actor Brad Pitt recently shared that he believes he has prosopagnosia, or \"face blindness.\" Fox News Digital interviewed an expert about this troubling neurological condition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/lifestyle/brad-pitt-trouble-people-face-blindness",
-      "originalUrl": "https://www.foxnews.com/lifestyle/brad-pitt-trouble-people-face-blindness",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/253c7156-c626-439a-aec0-49160966ee42/0ba5dff5-9160-466c-94b3-967d1ba42b12/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/lifestyle/brad-pitt-trouble-people-face-blindness.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/brad-pitt-trouble-people-face-blindness.amp",
-      "publishedDateTime": "2022-07-06T15:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],
