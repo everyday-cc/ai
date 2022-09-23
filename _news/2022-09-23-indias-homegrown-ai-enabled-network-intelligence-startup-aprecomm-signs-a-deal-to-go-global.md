@@ -2,26 +2,20 @@
 category: news
 title: "India’s Homegrown AI-Enabled Network Intelligence Startup Aprecomm Signs a Deal to Go Global"
 excerpt: "With this engagement, Aprecomm will be tapping the user base across South-East Asia and Australia-New Zealand regions. Aprecomm AI-enabled products will be revolutionizing network delivery by network service providers including fiber networks,"
-publishedDateTime: 2022-09-22T21:41:00Z
-originalUrl: "https://www.bernama.com/en/press/news.php?id=2122563"
-webUrl: "https://www.bernama.com/en/press/news.php?id=2122563"
+publishedDateTime: 2022-09-22T22:28:00Z
+originalUrl: "https://www.afp.com/en/news/1315/indias-homegrown-ai-enabled-network-intelligence-startup-aprecomm-signs-deal-go-global-202209210057041"
+webUrl: "https://www.afp.com/en/news/1315/indias-homegrown-ai-enabled-network-intelligence-startup-aprecomm-signs-deal-go-global-202209210057041"
 type: article
-quality: 26
+quality: 6
 heat: -1
 published: false
 
 provider:
-  name: bernama
-  domain: bernama.com
+  name: AFP
+  domain: afp.com
 
 topics:
   - AI
-
-images:
-  - url: "https://www.bernama.com/storage/photos/675516d4dc142a2139436e3486861a10632bd66906739"
-    width: 1080
-    height: 675
-    isCached: true
 
 related:
   - title: "India's homegrown AI-enabled network intelligence startup Aprecomm signs a deal to go global"
@@ -55,6 +49,6 @@ related:
         height: 630
         isCached: true
 
-secured: "z1rhG7iLbnQxVMA0n86iLPyonyLKsrVbA2AWhGUeOvoJiN7eKPGJtatcIgjmzRoUi/ooHvaYUlzTD1iBVsrd/XjW3tb9l2E5XKntO95FPsHsEJaeXz7NMrmtFv16e/05plDL9qaUwFrq+yvRdtJ4Ydj8N/NvAVmHhEWXMCgiBM4OTjJGr3OU2uzTeunjs/DxunJfInoUHExMHl5sqMdRk23r5pqPCwL2iKnHqS2dwydB3k/CR0Yn7noic6gBUEWxeEw1IwQDt6+X2M0ImGz8PJY3uBggV8xIlpgAh6GJNmJ3ORy/yxft2NWxHi0xZOvmh8Iw6tWh6tdT6mZkG0grLxQlhXeODeXCv3iEAEBnDa8=;5cVaZzg6eTpKwLJBj/hEJg=="
+secured: "b57D7CdCe/iMcC1vWrwrHCBHP/Ozi4WyW1EBBeEjc1RO0JK36AZhbUA5qBv2DWOXquS0OxH0xZt/pW2EQKmiGT4XAMCs3PaFhBdf0Bq5DhGYNzr67Py/INWpclyymMs4M7kWGYGCu9kqEFlxHSGIyHfvo1wTE2QLhgliVoal0xP8CrEZWr6DtZtEuZN7bhGwc+ar9djZW/IWefuiez4Iv3ywbIO4+f9GtK7VSV7DdxS979qbEDQg220YFpVPYsDPok/0KU1lVSwAo9GSVrOQEZl/jB8bydz0msqVTNbdu9dGXs+rSDGGB+XT3CoaAzcFgKPgUKt60lQW2QFaElbN84sAFBYnFTGEJfYUmpequHdlQVPBTK4FmcqituzSqWINCjJc5DUhuOrjOaxONYT1z0AuXgw50OPpha6aYv7wNIy5kvP7UPf0xcT1c1CxaMSS5AwkhgBGmF9wEKRKuuXsPJQA4PJIuBlnLPYiR5hK9LBd6ctW2DeHRI3I6nh15YQdZKuaXSFXP4bThWTyMaQzug==;tLKIPnQV2msySe50+1wKpA=="
 ---
 

@@ -104,6 +104,20 @@ related:
         width: 708
         height: 472
         isCached: true
+  - title: "At Dreamforce, Salesforce Updates Marketing Cloud with Genie Innovations"
+    excerpt: "One day after introducing its Genie real-time data platform, Salesforce today at its Dreamforce user conference in San Francisco introduced new innovations for Marketing Cloud that are powered by Salesforce Genie to deliver real-time personalized moments,"
+    publishedDateTime: 2022-09-21T18:31:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/At-Dreamforce-Salesforce-Updates-Marketing-Cloud-with-Genie-Innovations-155045.aspx"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 40
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/AuthorImages/106293-Leonard-Klie--ORG.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Salesforce Genie aims to release customer data from the marketing bottle"
     excerpt: "Salesforce is touting a real-time upgrade to the customer data platform underlying many of its products, a move it says will allow enterprises to better personalize interactions with customers."
     publishedDateTime: 2022-09-20T12:03:00Z

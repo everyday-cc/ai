@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/09/21/brightflow-small-business-capital/
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/21/brightflow-small-business-capital/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/tech/tech-war/article/3193316/tech-war-nvidia
 webUrl: "https://www.scmp.com/tech/tech-war/article/3193316/tech-war-nvidia-ceo-jensen-huang-confident-china-market-despite-us-ai"
 type: article
 quality: 78
-heat: 89
+heat: 88
 published: true
 
 provider:

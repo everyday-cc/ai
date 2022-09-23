@@ -93,6 +93,20 @@ related:
         width: 708
         height: 472
         isCached: true
+  - title: "At Dreamforce, Salesforce Updates Marketing Cloud with Genie Innovations"
+    excerpt: "One day after introducing its Genie real-time data platform, Salesforce today at its Dreamforce user conference in San Francisco introduced new innovations for Marketing Cloud that are powered by Salesforce Genie to deliver real-time personalized moments,"
+    publishedDateTime: 2022-09-21T18:31:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/At-Dreamforce-Salesforce-Updates-Marketing-Cloud-with-Genie-Innovations-155045.aspx"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 40
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/AuthorImages/106293-Leonard-Klie--ORG.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Salesforce Genie aims to release customer data from the marketing bottle"
     excerpt: "Salesforce is touting a real-time upgrade to the customer data platform underlying many of its products, a move it says will allow enterprises to better personalize interactions with customers."
     publishedDateTime: 2022-09-20T12:03:00Z
@@ -199,6 +213,6 @@ related:
       domain: crn.com.au
     quality: 4
 
-secured: "eTYiqF14v0786aRytZkalw1IFBQBeP8cQMCGARAWmb+IJmJu7wIxANEuIIqjNu3LHxHpjUa9PnduaPmmUGPkSafIYk7q3iiOtd7JKElD+rdMQTaTKkZ2IKhra+l5630hkL92f0XOqmSAcDDBJLQcchjr9+8NpBINzanQbD10f7JsCCBYKhG+DW4/vMDIk5nYbVz4IuzaNj9PaX7/L4bitKPcrbFw8jinKVSj2Ipb3j+Cl3pUjWQgGCs0jqnFflLCfV36RRp8leIiDttJRJxjj4PKea4via6BVqRyDEuuYgwnoDTJKcj0Npofsel36fnXLYR9dcmsnVgshEggpizfXnJOJojMxwNekHRaWbQQSDs=;ONbKVgCoULbdcvmMlsx4VA=="
+secured: "x97OXYjWSuvBHw8g5mUL2grH4wxiBAwHgbXnIdNlgmoTdsj8kTPvimZmVP6LORV2Uh3BcTYl6QycqSr6FPpOxZgGgeKtKjz5ESehnVQTtrHW44JeSeGCKLKOZ1/kupV93l1SoFPu/XXERHnOkmpbcjkMn7VOWu9bRJK9g2V107CIG1+IGQnrJnk+CVuw+HufGio/iQ6oh7nnTTlNQ5p5XrRsEIZaGP3WUIJ6zf/j4zTyvyUtfezUJX1KNstVWNKXNvwBYUsBSabYodxewezcYj3xakNd/jow+BzVvTlsYwsPdYpG5TPW7alWgy9+Bbm0v5SlwHYEBrhAXs+DsemdwPn76FJ8bD/QIgFdKoQqxrKoLTG0jpxlE9AOkHL0xBSshyS5wlHOdYHRhJApOg6LuARfdxnQXuHUqJ4+SrXjH6dsEVK6UE9Z6M1jcRaQG5KFJB4T6e/o+GEkccSTetnfcrcQ8ClPThRGBkAjEzw1YssMq8yDpS6xV2NhFTJzp/h8pizSx47BSSWufX1aVzfo3Q==;U8WtIItCO6PMyfA3Nz6ySw=="
 ---
 

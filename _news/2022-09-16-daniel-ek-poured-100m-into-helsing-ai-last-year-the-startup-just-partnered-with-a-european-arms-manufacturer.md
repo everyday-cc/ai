@@ -3,8 +3,8 @@ category: news
 title: "Daniel Ek poured €100m into Helsing AI last year. The startup just partnered with a European arms manufacturer"
 excerpt: "Spotify Founder Daniel Ek pledged a personal commitment of €1 billion over the next decade to invest in European technology companies. Ek referred to these companies – operating in fields from machine learning to biotechnology,"
 publishedDateTime: 2022-09-16T14:25:00Z
-originalUrl: "https://www.musicbusinessworldwide.com/daniel-ek-poured-e100m-into-helsing-ai-last-year-the-startup-just-partnered-with-a-european-arms-manufacturer12/"
-webUrl: "https://www.musicbusinessworldwide.com/daniel-ek-poured-e100m-into-helsing-ai-last-year-the-startup-just-partnered-with-a-european-arms-manufacturer12/"
+originalUrl: "https://www.musicbusinessworldwide.com/daniel-ek-poured-e100m-into-helsing-ai-last-year-the-startup-just-partnered-with-a-european-arms-manufacturer1/"
+webUrl: "https://www.musicbusinessworldwide.com/daniel-ek-poured-e100m-into-helsing-ai-last-year-the-startup-just-partnered-with-a-european-arms-manufacturer1/"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 650
     isCached: true
 
-secured: "1TcwE5fOYA2RIzQmHucNr9RqRs3bIvEyP2wQrgy+A1NrpWUhoGWg0rmSmhyQZwErvfus7Hup0/ZHs2JYn2bcCfpRrnigo7dEqGzIENdBISZLcjYzm6h5sHTAtO8K2fOIL+WKLohm14LTXe7iN/Bmc+AuPGXk5zN6cYLlN760MoTlU/LuRX3h5+iDa1bSZ4KqMhQyj4KNGXbz3TIlRF+8RSqRNPEaUYNldMGsP8zC0Q8toxbt52zaY0J3+JrJprMhCn2aUD/tcsZ2SV1kPTpr3LgRo1OjTPmgw+xuopjZcsHL0I+erYB4JRSdZF+yWqv2hGCC543ZPi96nULdWm65OXkcvQ1kvjqu6Am0UvLqGVM=;Ja7kTSzHlgDEL3eCk/FQbw=="
+secured: "wywJeEkzdn1YoCZktGfMBep+24AIwnRcBxvBNRruRjhKtl2BUbWtJxOfrnQmVdvyaXvM4FzoerAGL4K+P5rJroHAad5mJ7yBT32l129en9V3kH78VVl2/zK58OjA3voSSnkNEI3XhDN9rOvYdhTtT1N3bkj1+1cNqTFlSF0/EvktV9cjuOQWqnFkz6qwhwkGvtOLoVKnSMYTz+DKKYrbvD4M+1l7O8vtZOXU0m48I323YZj6f1vzq31ySex4Yt/do96/A1yURM9gILGWzLcditz3BkWtbH8HWrlTHlxmYe3puxFYYPxRL0jijYDnHiN93nd0CWs64FepBl8+DN7jPv3ny15mZUlvkBP310ECuJQ=;0ffApLP3lxCnHbBn/mbXKQ=="
 ---
 

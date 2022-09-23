@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/09/21/us-city-wants
 webUrl: "https://www.thestar.com.my/tech/tech-news/2022/09/21/us-city-wants-to-use-artificial-intelligence-to-fight-illegal-dumping"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1240
     height: 826
     isCached: true
+
+related:
+  - title: "Cleveland wants to use artificial intelligence to fight illegal dumping"
+    excerpt: "Ohio – The city of Cleveland will work with Case Western Reserve University and Cleveland State University on a solution for illegal dumping that’s powered by artificial intelligence."
+    publishedDateTime: 2022-09-20T02:42:00Z
+    webUrl: "https://www.cleveland.com/news/2022/09/cleveland-wants-to-use-artificial-intelligence-to-fight-illegal-dumping.html"
+    ampWebUrl: "https://www.cleveland.com/news/2022/09/cleveland-wants-to-use-artificial-intelligence-to-fight-illegal-dumping.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/news/2022/09/cleveland-wants-to-use-artificial-intelligence-to-fight-illegal-dumping.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 59
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2USTNUDFTBGFNAIG5EC3JMBPRQ.JPG"
+        width: 3888
+        height: 2592
+        isCached: true
 
 secured: "bRbUorFA64LoOC0Ek1HHgnd7B8pjuxe5P3kYKAtJ3/UfgGFW1bhNsnU/nliZY9e4+6+KtbEoMBMb96wtmJ8ZEyE11A8OM1Tm9NkTA9OBb4gg7S72NjX9zvkGuN/CY6TBR5lsNx4QCV7obYiIlYW2n4KbrgqmtvyzgFBgHk6ZUEswd9To0DU3rlAEFe3w1XJ/R2xt+JXmZS5LT5XgsZSMgy+mHkuG5atvkQ7U+cbpqZH5uvdUUFMo/R8lOesbczqlNttT1Ro/RihxNGlOvagRN1GL9qX2cVozVxhn+EJQWnURK54Wy1YhPCCyTI4lJmkJ32WvhFD9Fe96NzaAb5jY2DjOUa+25MUesLAyHI3q+PpK1dAjF/l80jBswO3h+uiqLbx5a/P8MozItXYArIUKwhRBg+AQr0c615E+FICTVfsnsrXOJEEfHQ+D4MaQ2cQdXNHdDP8sAieKyrsLhyGFCe7H65XkGEY/oixdpdUYY1oO4ffPvyElRm6XqLLBPa26WhGZEhXvPCw6sbRnKiLSLA==;p5k/c4NgZUB+XWiurrg6Tw=="
 ---

@@ -3,14 +3,11 @@ category: news
 title: "IBM Korea introduces new 'data fabric' technology"
 excerpt: "IBM Korea has introduced a new data utilization method, simplifying access to a vast amount of information based on artificial intelligence (AI). The global IT solution provider held a press conference Thursday on Yeouido,"
 publishedDateTime: 2022-09-15T07:49:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/nation/2022/09/419_336108.html"
-webUrl: "https://www.koreatimes.co.kr/www/nation/2022/09/419_336108.html"
+originalUrl: "https://www.koreatimes.co.kr/www/tech/2022/09/419_336108.html"
+webUrl: "https://www.koreatimes.co.kr/www/tech/2022/09/419_336108.html"
 ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=336108"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=336108"
 type: article
-quality: 44
-heat: 44
-published: false
 
 provider:
   name: The Korea Times
@@ -26,6 +23,6 @@ images:
     height: 653
     isCached: true
 
-secured: "oV+lZDNL/Ub7lQ2AYXTH09vSGKRduzRVPczn8EYwr/HdEgIZ5sMhx3srGWD9ikdbt8JfdOMKmGNpzmgVuVN8UEYnXiFx3H87stCNas0q5+FBMveHGBSkX0lKrxWeP8+AakUbn3qKuMOmzDloINYLGasIP63puknks67APyaxVulNGbFPZZ/H9UFcP998tc1sakCwqjxfAzfDJrUrVc16x1u0Ohf07knIFG8+9DLX0HgPlhP4HtnZsEJ5+pgR3XIE4pp/GUTOxW7mYkf7PEIf2zF4YIdXBEngAtDt+XKXB73KYgMyBemc1BT7pkknECaAGFFjF7XwjeoWff8ZiqlQqBU3AdDUYGdQwXYGnAFxO0H8Wmd/A/01vroUMQnWKcZYThRGQlpgAu5MVqji8kHQNbRPTB1didRI5pUNp1u8J9VLK7Ulyk8WPR82RjyV2jA0RXDLviBVN8zt4b5qjIjd6tcYVKmlYXOxOfHAorJuGwsyIESQqkOq44IpQw0+oMSRUehFuVNnNNwxwQJ2+Zvs5Q==;Bf4gJymaFiOzM8PQQ8QE/Q=="
+secured: "SMXUb9szUcVp/K/cijnGnu896VH5mW/iDMzAVCaJ977x0P3WJrWxqjJd+FGIQ/pQc9M6OwlmkZr3sTRU/f8obpneFazpaWMNBuqVX9Uw59pLWHtm4wFdsVkmPafke0vjoIVMjSOwKIYDLV/TBMC/gyBc6kqoiP3l4gPmew0DUc9ug5Gfitd6/O4ndwldkV0Uh2ReqeG474SwYXOXTQrpQxoMl9ig1JEx91FEN0JFs/BsZGfTz/CA0RFSHYqxKpLe9SUq5EH2WmEr3ftoKeCp33XaGuxUnUBCYJvoPxWLmzAWaCblCkqhdEzsFcAcW0/O9mH67BXUWy/sWEzyGIK7Ea+sdz9YfrbI+u7QzyR3hSY=;vpoRPDHe6uzoVOF1m0LkJA=="
 ---
 

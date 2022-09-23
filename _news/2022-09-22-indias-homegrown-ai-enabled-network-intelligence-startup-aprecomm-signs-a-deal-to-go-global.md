@@ -42,18 +42,13 @@ related:
         isCached: true
   - title: "India’s Homegrown AI-Enabled Network Intelligence Startup Aprecomm Signs a Deal to Go Global"
     excerpt: "With this engagement, Aprecomm will be tapping the user base across South-East Asia and Australia-New Zealand regions. Aprecomm AI-enabled products will be revolutionizing network delivery by network service providers including fiber networks,"
-    publishedDateTime: 2022-09-22T21:41:00Z
-    webUrl: "https://www.bernama.com/en/press/news.php?id=2122563"
+    publishedDateTime: 2022-09-22T22:28:00Z
+    webUrl: "https://www.afp.com/en/news/1315/indias-homegrown-ai-enabled-network-intelligence-startup-aprecomm-signs-deal-go-global-202209210057041"
     type: article
     provider:
-      name: bernama
-      domain: bernama.com
-    quality: 26
-    images:
-      - url: "https://www.bernama.com/storage/photos/675516d4dc142a2139436e3486861a10632bd66906739"
-        width: 1080
-        height: 675
-        isCached: true
+      name: AFP
+      domain: afp.com
+    quality: 6
 
 secured: "t409KYRFSxZKzZ8tM6AVj9iGA7/CTKB2RO2jNiSiSfujn+IWxU8+TKokiNKXVo0cOs7flA6Z0K6XQqtikSoSAlfAWNqbYa+DHmHqUDzD+4fOFKXITWqYvo7LeBXR/9Y9xXbfKVR/iJB8i/IDNWwt+6IcoLZRqefnUvjUTQdqW1gOm+GWY2YblCl/cgW2gdB5lpCMqII1DwwhE7YsEKieTariXYtPEJlsX9H5iYCE/QuFtvNDYE4FerVmzlepkakV9t7BDq/JJXT4OdtC4PfH6vQ4aDnLNvXmnpy+JZIq4LGpHbc7OP/Q67HYAvL5D/Y7WoHk2JmcwM1op9Hqwz0o3P/9ILgW+RxzB/MicOz+kP3iMj4qT2zSttxelCbVoqWt6yepl90DI4zsh8pr6/WKuxH3w5sF+cXV9xkTrT0iButTqlzBSeRnUM4Ub/gX+ZmwK87IomEIMtu2CVjbRSY3W20Pf2mh4tRxvHfiXCuTuQCXws0uKByHVQB0WfDEWFl/mxDVL3gDM2sWC5VUroHk+g==;PnYBmrq3l9XawVhHQnrSMQ=="
 ---

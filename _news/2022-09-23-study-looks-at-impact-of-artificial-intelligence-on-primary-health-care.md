@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2022-09-impact-artificial-intelligence-p
 ampWebUrl: "https://medicalxpress.com/news/2022-09-impact-artificial-intelligence-primary-health.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-impact-artificial-intelligence-primary-health.amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/health-data.jpg"
@@ -25,6 +26,6 @@ images:
     height: 1728
     isCached: true
 
-secured: "shizy9XJzqtTeKA93/m0S6sh3XzGrreQxXCIsR6pShdBM5qRQrhxGkeIkyO1pfVYEHybHKSExLbgDLb8O2gft6tf49xhlkGnXjmnrfa8RpgGM9gXTKVEfsl1OJXyuuUFCzNjTOm83/ktMGamVRzNMckcfjwOvWjuCs99lNTzbG0WBYZQLqoILLa2FnEjWGR+Soj3AtRIQXts/K7RfM5DD7CaXcSSbG7BMVei8ICwQXNFU/dKd3ZxiJKV6ZkRaYncI9SyWlXkLHkGY/w9TaPSnKrEB5VJQTOn/WE7mQfGajlfH37g3O1orm8COw2ILGY6UUDB/dthKGoI0v7b2nnycU7oPLGXAS1WL8WMt6AP4fE=;d18VDnJaR+8ryX27/Cehsg=="
+secured: "r8cj7EhwmgusGkctQpATwAMwWV29Fwz8Vo9VRcLlOpAxJlRRnghPnO9WdM/rQYa2oev9jFFizkzC/jtVopTCTnK7i319BbKzw2E7EKtoSwxqBSX7zf5w8IWPZbOzauDyyJRAV4JQJjyZxO3VE9WB01tuQ27GU2xwKRmxrw+s0qLEDNn3RpWV6QyfTVRVYisprrJbLXlwOyAfHX6xF+zrmPfeuzCkj5f9TFdP2Bum6JEiHSYVqHKTNt7KrMVGl2ePVBLapgo+pgXBDcbWADc/kwvbhMJBudXfbrlMNXUDAJf114n01YSwTHz5T8CjL6ipU2Kvw9byekgxnVGd+zI+m4LmjtgPxj62cc1/Hd0ViKEwzWSSjJnA8pItSgHXCNatRR9lqAw39Xpr0/AZt/iMBguhj1H7agnpmKLKER1OfOjwVv4VuGQk+HCIxqffG5kitmkGKOU57+TJJ3OFicsGFakLSUDIzHOKTQLOqIwk9HRXou8BtKKS6AXTzzcTgx3LuI0GUmY3VpOC5HrFjg8VRg==;uVgiQ7iPuEA2FnLNTuOJTA=="
 ---
 
