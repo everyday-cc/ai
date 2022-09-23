@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-23T18:05:00Z
 originalUrl: "https://phys.org/news/2022-09-ai-message-decoder-based-bacterial.html"
 webUrl: "https://phys.org/news/2022-09-ai-message-decoder-based-bacterial.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Phys.org

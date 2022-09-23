@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2022-09-powered-artificial-intelligence-tec
 ampWebUrl: "https://techxplore.com/news/2022-09-powered-artificial-intelligence-technology-tracks.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-powered-artificial-intelligence-technology-tracks.amp"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/powered-by-artificial.jpg"

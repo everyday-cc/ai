@@ -64,6 +64,15 @@ related:
         width: 600
         height: 316
         isCached: true
+  - title: "Bambu Offers Wealth Management Predictive Planning Solution for Microsoft Cloud for Financial Services"
+    excerpt: "Bambu announced the launch of their Wealth Management Predictive Planning solution for Microsoft Cloud for Financial Services."
+    publishedDateTime: 2022-09-23T19:11:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/09/196407-bambu-offers-wealth-management-predictive-planning-solution-for-microsoft-cloud-for-financial-services/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 5
 
 secured: "XvR+KA4VODodXASnZj1Dr/hGc5oYQtCnVOya6uGJAiFsSw5K7FeGCMxtUsC1czFhZa0GW4S5310AWqaMWHAaqdQMbmUTSpMwbvzPFS2PXUkp7Yfs3pvINXMIo8yfo3qh9aauqspAhOD/2Ht0e0raqEVkP+nXcm9YOOSK2BErKzx8kA6OG7Ub4PImBhvT51zsQR6S7++s9jkuKUwSeQsYCyx8F13DoEVrcW4E9w65j/xmyfHtfphyZaRognQePSeEKhUEu9Si+szp5Hl8kQXsYtiIjdaOJc04yEUdaRGPo37sg/0RSPxEDOi6EJnhMVydeuTI98m4L2PUSE4BXNJgT2ZXw61K+XxtfMP2EuQHbuY=;85in7q0h3sRUTx15eHHnLw=="
 ---

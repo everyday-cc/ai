@@ -271,6 +271,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 36
+  - title: "Nvidia launches flagship chip with AI capabilities"
+    excerpt: "Nvidia Corp launched new flagship chips called Ada Lovelace for video gamers that use artificial intelligence (AI) to improve graphics."
+    publishedDateTime: 2022-09-21T08:14:00Z
+    webUrl: "https://www.itworldcanada.com/post/nvidia-launches-flagship-chip-with-ai-capabilities"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 34
   - title: "Nvidia taps TSMC to manufacture new AI-powered gaming chips"
     excerpt: "Nvidia has gained attention in recent years with its booming data centre business, which sells chips used in artificial intelligence work such as natural language processing. But the company’s roots are in graphics chips,"
     publishedDateTime: 2022-09-21T06:21:00Z
@@ -294,17 +303,6 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "NVIDIA Hopper in Full Production"
-    excerpt: "World's Leading Computer Makers Dell Technologies, HPE, Lenovo, Supermicro, Plus Cloud Service Providers AWS, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure Building H100-Based Offerings;"
-    publishedDateTime: 2022-09-20T16:18:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28935573/nvidia-hopper-in-full-production"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28935573"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28935573"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
   - title: "ASUS Servers Announce AI Developments at NVIDIA GTC"
     excerpt: "ASUS, the leading IT company in server systems, server motherboards and workstations, today announced its presence at NVIDIA® GTC"
     publishedDateTime: 2022-09-21T13:12:00Z
@@ -323,6 +321,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "NVIDIA Hopper in Full Production"
+    excerpt: "NVIDIA today announced that the NVIDIA H100 Tensor Core GPU is in full production, with global tech partners planning in October to roll out the first wave of products and services based on the groundbreaking NVIDIA Hopper™ architecture."
+    publishedDateTime: 2022-09-20T16:45:00Z
+    webUrl: "https://insidebigdata.com/2022/09/20/nvidia-hopper-in-full-production/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 4
 
 secured: "x3gIxF2XZEHQbQurbARcyhCNzcCUujH7ZnGhDRMfZ1giKYLbjShV4e6CNMzjDQXIx6DBwBlohuDwuArOS7OolWdXs2OFezg9iqfBRTkD+Pp1+jgDwhN45s4pYv1V3/c77B1Ud9fv0RPR449Pg21xEMkuU6YNBvIC1kM31LF/eppLLUXmMExjHDCAYuDoVJn3lRV889kAMSPCcyZ0jF2wZNiQO9VhW4IXvhk9CFYJ8Mi6Pe/IVByPVbEMirEwxwqYLL0DQebUnnK9Tca2IVC6/tSDG0KKauEnNiXCC8VNNL60QL7uBsMFLTSgsLGK0K1wiI8OLO5cyivfuskGPWtfoIsmzQJLKm2G0SxAVaOiH4W844Tssa7OSP6dCBW8w39UyFpMQ79umEraygcUy1rks+atW//k0lO0Fz8Nb24uXnaknA5RqucVxeY9f2ZzPGF2CgaIv6nhfo+bQvU0s1CNPPYE4iO0m0HIfxDa+TnzP1FUvC9mHIni97nKo3dRaBMpEna9PUbpEOoxB5ZG2FnTtA==;axJ1RbmyuCnXosWRAvsM7w=="
 ---

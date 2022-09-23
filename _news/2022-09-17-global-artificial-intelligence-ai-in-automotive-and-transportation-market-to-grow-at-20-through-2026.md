@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Global Artificial Intelligence (AI) in Automotive and Transportation Market to Grow at 20% Through 2026"
-excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. This market is likely to grow at a CAGR of around 20% during 2021-26."
-publishedDateTime: 2022-09-16T21:17:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-automotive-transportation-market-grow-/2022/09/16/9675469.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-automotive-transportation-market-grow-/2022/09/16/9675469.htm"
+excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to"
+publishedDateTime: 2022-09-16T19:45:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/09/n28901830/global-artificial-intelligence-ai-in-automotive-and-transportation-market-to-grow-at-20-through-20"
+webUrl: "https://www.benzinga.com/pressreleases/22/09/n28901830/global-artificial-intelligence-ai-in-automotive-and-transportation-market-to-grow-at-20-through-20"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "gkm+KYjO85Dz8eygJi0N6LlX3elpF5K2hEEFMsjXGzwm0Ui/RNrxXqVWSiVWR1HgZN/EOB7EfDAB0kFtp9BVTodfDMh7mlE7++izzUuYG8kB8SwzK1MYnt5Ki1IjswQLZI4pkxip6/l6VyTgutgfvi3/kERwoGAzVDIt2vtCiZ/ROk9+QDfPOgBOVXpj7sfjpIRwixHYK/HSYvYKhEcyciRpYBHQd6b3xTvdm5Qxf4I/vvuf05X4UlHooe3y57XXXMdTfURC/p4GQ35GRV0RAbTSpW1xjm6Y0/JcHObXjvm9S4bOax4Zb0iAVmJ6JsByCZwmpVwsqd/US2yBJx3JCemVp9ZlMzhpRptDiW0q3jw=;n40W0AV1EEzJeeOf/UYiog=="
+secured: "6B+L0BoK+VVMVqI5s/acyA1rYE0YxYVbcsdbO79cyJSfYOeoJB6MGPSYMwuSXVeZCcHf660Vx5Cw8HXdys3Q7wbbFixTvoWVT3NizZ4bloRKV7FN4w2LkBQPzMGJMg25rdmxeZ5nFfqlLyfLzyhTGd/j18G7w4yL5W+eQwtw7fH1cRYcySUgGTh11FXgFY+3kZxbGnqke7+iPjMyBKC0q+9fi30WN7Lqzn5kjmhAVSezLTcMFNJTMvD2W/0Hbb30f/PU/HRnVLefsxodAHO5w3ShrKONabzdWcvwpHvTu51ih/85PB9ajm6MMvGvS2Vfd4g0HnnxU0HyZB/Q2woxcX24uWCxB5kJmtmKyPWTjVo=;z818N6WMD/PEi82wodeglA=="
 ---
 

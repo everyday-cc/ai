@@ -3,9 +3,12 @@ category: news
 title: "Inuitive launches NU4100, expanding its Edge AI Vision-…"
 excerpt: "Inuitive Ltd., a Vision-on-Chip processors company, announced today the launch of its new NU4100, an expansion of its Vision and AI IC portfolio. Based on Inuitive's unique architecture and advanced 12nm process technology,"
 publishedDateTime: 2022-09-22T09:28:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-inuitive-launches-nu4100-expanding-its-edge-ai-vision-/2022/09/22/9679626.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-inuitive-launches-nu4100-expanding-its-edge-ai-vision-/2022/09/22/9679626.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-inuitive-launches-nu4100-expanding-its-edge-ai-vision-/2022/09/22/9678713.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-inuitive-launches-nu4100-expanding-its-edge-ai-vision-/2022/09/22/9678713.htm"
 type: article
+quality: 39
+heat: -1
+published: false
 
 provider:
   name: TMCnet
@@ -15,6 +18,56 @@ topics:
   - AI Hardware
   - AI
 
-secured: "jdPS312SVI+FmRTq8NqwnIXyTdS3240FF9J9QjpvJOAeJ1FcKSwX6RlQFcBVJ44AxEULD5Ia3uk1sV2XVYmAMeF6Aty4bjlyeb4IygjAptJTCAA3YNOAXyHtW5CVzLjfCw2HACpyWWoODcenA0vXCxf+2xjrIp/aUxEdFgUoLhptu6TvB8pyybyLqgkLa5nJrxmtubWFJtz/RGA2scBkStB4UiOFcoo+gNQs3HBglH1vKyfnMujzlxZ6V6gdAV+Df89BUfUgddVmVldyMXQR1V0vTQryvCOnupoqHUNWRRRsd14b5DZ2PSzRfE0uKrLoQb8lha+kdueujDafzweagwVMH0AsqaWuP7XKylNJrQj4PNOmcTopcyu7OJQ9SZ4Otna0KjUteiF0j7qa8JMN0V1GbB6C4K1AafjKQEZIehdcJID4VfEh28VIX4lzTIqyqnapZmIi11In5Z1qdr9Wdu5h5613QKPze5kTuff8I0bHbR0AiAuLTsTqYfdyhuVoMKUEJejSinuvVQ5gTj39Rg==;mUkJBdVrzb6x9CHspRu77A=="
+images:
+  - url: "https://mma.prnewswire.com/media/1903068/One_Chip_Complete_Visual_Understanding.jpg"
+    width: 400
+    height: 253
+    isCached: true
+
+related:
+  - title: "Inuitive launches NU4100, expanding its Edge-AI Vision-on-Chip IC portfolio"
+    excerpt: "Based on Inuitive’s unique architecture and advanced 12nm process technology, the new NU4100 IC supports integrated dual-channel 4K ISP, enhanced AI processing, and depth sensing in a single-chip, low-power design,"
+    publishedDateTime: 2022-09-22T06:54:00Z
+    webUrl: "https://www.design-reuse.com/news/52699/inuitive-edge-ai-vision-on-chip-ic.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 54
+    images:
+      - url: "https://www.design-reuse.com/news_img2/homepage52699/intb.jpg"
+        width: 700
+        height: 369
+        isCached: true
+  - title: "Inuitive launches NU4100, expanding its Edge AI Vision-on-Chip IC portfolio"
+    excerpt: "Inuitive Ltd., a Vision-on-Chip processors company, announced today the launch of its new NU4100, an expansion of its Vision and AI IC portfolio. Based on Inuitive’s unique architecture and"
+    publishedDateTime: 2022-09-21T15:38:00Z
+    webUrl: "https://www.suasnews.com/2022/09/inuitive-launches-nu4100-expanding-its-edge-ai-vision-on-chip-ic-portfolio/"
+    type: article
+    provider:
+      name: SUAS News
+      domain: suasnews.com
+    quality: 52
+    images:
+      - url: "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2022/09/One_Chip_Complete_Visual_Understanding.jpg?fit=800%2C505&#038;ssl=1"
+        width: 800
+        height: 505
+        isCached: true
+  - title: "Inuitive launches NU4100, expanding its Edge AI Vision-on-Chip IC portfolio; NU4100 presents advanced AI capabilities and"
+    excerpt: "Inuitive Ltd., a Vision-on-Chip processors company, announced today the launch of its new NU4100, an expansion of its Vision and AI IC portfolio. Based on Inuitive's unique architecture and advanced 12nm process technology,"
+    publishedDateTime: 2022-09-21T16:03:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/09/22/9679626.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 29
+    images:
+      - url: "https://mma.prnewswire.com/media/1903068/One_Chip_Complete_Visual_Understanding.jpg"
+        width: 400
+        height: 253
+        isCached: true
+
+secured: "7BuQ29+tRajcNgBGNwUWDvn3mxYXNl/DwDtHPKi0f8Ddt2PMTbrJqKILkkF+WkARuD3DgKaSiJaiGsXxKnt8leqtc0+GASBtUzTDVTA7sSLjr3wKSvsvml8NREudFMG6A25CeHljUtVC8wgMcIAq18gt/8x373roTOjGZkVXmrQ9uk4TnxfteSFCqw45nBUUbfXujBwV7D1lUbUHkRke+fw3ScIIkrLIAL5Sjm7mpwtInkXfioSSK/fXFMhlaAmaG3CEsPtWUQb/Qd+8vROGr1W6Tq9UYKZhJ/eEUVDFhwj9e3+HfhcP4cpWCQTz+3RwzWHu4RKNbu3P5CBG2xQcoRqYUvxozvAs9m6KutRSrzc=;qeD7bdolv5AhYPbx/L0l+A=="
 ---
 

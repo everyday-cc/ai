@@ -26,6 +26,17 @@ images:
     height: 648
     isCached: true
 
+related:
+  - title: "Colorado Springs' Hispanic Chamber earns national recognition"
+    excerpt: "The chamber announced this week that the United States Hispanic Chamber of Commerce Awards Committee selected the local organization to be the 2022 Chamber of the Year among small chambers across the nation."
+    publishedDateTime: 2022-09-23T17:45:00Z
+    webUrl: "https://gazette.com/business/colorado-springs-hispanic-chamber-earns-national-recognition/article_7e74fd0c-3ab1-11ed-9f44-b782deb55a62.html"
+    type: article
+    provider:
+      name: The Gazette
+      domain: gazette.com
+    quality: 4
+
 secured: "t5K0Q0kOe20d+NdxiYig+2pjYAknPPS7lCoaobLKS90MV11ZVkyFz7IOChmguqkVyYDKTJAm94NKrF6aoDeJgWMO2qmZzgbEydaYc4ckWC5HKtZGjcU8HxkhTuO/tbZePYzuTICRfHI9cE4N5yvGZ/QOdexoYjrNd/sxyRiVDxbSkD3GNtbBYJi8gx9/3vlcj0qFbbWKXVW8nXTmejAfdFmzUgaSz6rHjkp8nqwMS1r0Nld5S6vwbvhu2YUZvEKk7U4Iw0+dNrE+hdIwCEwBbk88NE/Z8GcTUBTngunK/tRBjcdGHkrt6bGURH+15edgwXdgDVbB3jrKcO+45VeGRBE+pi1rl2bE2xSamgA6p24AznkzFOpl4Cia3zRG+jj5qkXWmB25ucdgZqbNxZpn0RRr7OH2ApnxECsOYs+owvCyS51USfLVZFQhDoyzhuJECutQfqVykrI23UaZOF20KNrlVbmgRx805fSthJHAobOjY8gvQjNO0nnJIBlUz6vQWJ5L1AStSplfDR9Dz3qp+w==;psatX5ZibeCVoTTzqUzRCQ=="
 ---
 

@@ -48,7 +48,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 41
+    quality: 39
     images:
       - url: "https://mma.prnewswire.com/media/1903068/One_Chip_Complete_Visual_Understanding.jpg"
         width: 400
@@ -62,7 +62,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 31
+    quality: 29
     images:
       - url: "https://mma.prnewswire.com/media/1903068/One_Chip_Complete_Visual_Understanding.jpg"
         width: 400

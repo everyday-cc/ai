@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-23T18:10:00Z
 originalUrl: "https://www.digitaltrends.com/gaming/ninja-theory-ai-tech/"
 webUrl: "https://www.digitaltrends.com/gaming/ninja-theory-ai-tech/"
 type: article
+quality: 43
+heat: 43
+published: false
 
 provider:
   name: Digital Trends

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/will-servicenow-be-worth-more-than-m
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-servicenow-be-worth-more-than-microsoft-by-2030?amp"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 600
         height: 316
         isCached: true
+  - title: "Bambu Offers Wealth Management Predictive Planning Solution for Microsoft Cloud for Financial Services"
+    excerpt: "Bambu announced the launch of their Wealth Management Predictive Planning solution for Microsoft Cloud for Financial Services."
+    publishedDateTime: 2022-09-23T19:11:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/09/196407-bambu-offers-wealth-management-predictive-planning-solution-for-microsoft-cloud-for-financial-services/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 5
 
 secured: "3W7a/no/pRGtT+tRjP0ZizEOYSuaCS2ry25jPdGqeW4jTM8K/Mzlwu5rDwQwjbiYmhpSOBiGuNJ9jUdfbxhTn66juPdJbj2L9tbjDF/iOKfIO2aGbdCxhQvJet3/rVBr34gHAHUkLDttd1u9kDCw74Dbq2ZZY+AVEXiQbpKsD4g/wAJEZ/YSQL6YmlanfwVQEGvNQzcCKBhGNjKwuJKaSp/XezMj9hsNs+VOuA8uKPVPumX4Li38NwTHrCL5aiOYbknW4xahpP4byE4hqo6rde/4b0S0+JvPaiu9R97xJqtQ0qb8Ypx0ec9eBmhDpzOK5NGAWBHqEpz9d7tZiQ0gkh7RxPRxCQ/75vFvasUqTz0=;EIyJezwd4AIYMqO4ApoFZw=="
 ---

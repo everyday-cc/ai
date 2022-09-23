@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-23T18:29:00Z
 originalUrl: "https://www.bizjournals.com/kansascity/news/2022/09/23/kcrise-fund-boddle-learning-investment-round.html"
 webUrl: "https://www.bizjournals.com/kansascity/news/2022/09/23/kcrise-fund-boddle-learning-investment-round.html"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: The Business Journals

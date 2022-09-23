@@ -28,6 +28,15 @@ related:
       name: MM&M
       domain: mmm-online.com
     quality: 53
+  - title: "Lasso, CMI Media run successful pilot with IMB Watson ad accelerator"
+    excerpt: "IBM Watson's Advertising Accelerator uses artificial intelligence to predict and create advertising. CMI Media Group ran a pilot campaign with IBM Watson from the fourth quarter of 2021 to the first quarter of 2022,"
+    publishedDateTime: 2022-09-23T17:46:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-marketing/lasso-cmi-media-run-successful-pilot-with-imb-watson-ad-accelerator.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
 
 secured: "L67ImXKG55gPu2zYj+aSq7xLe1KcO1wqyNWqil6P71toQXHaqeFEfg43KdYo3svnKooa7pkiuDB9YRjbn6R4KJo87yu4x/TKzLsmWl6/rB4sJ+VxkEh7qo3cs8oMaKseyx0d6JDQtaQkc/CownBUfWv52cpFERpT3pgZsaddgPb/cVp2hIBEs50/M+Oy70/QzU1dtGa7DBtj1e8Yia1q0zxuaBgCXKsCKgRrxjcQQvDV3VDl49ztg16i2WEWXueZJngAXmpZSBl9NIRMeRXwojwq7R83R8aK24gvEbsjRT9uKqugTaKVkZJxmq9AZdfX66u6EnmZRhgU9b/8iatLxbXI9CLXchw6qpkMcCYicWc=;nI00g5tAPAk6FfKLofFviw=="
 ---

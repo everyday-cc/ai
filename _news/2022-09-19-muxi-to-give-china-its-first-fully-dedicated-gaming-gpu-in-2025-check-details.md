@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizbot.com/amphtml/news/muxi-to-give-china-its-first-ful
 cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/news/muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details-082672.html"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "China's first dedicated gaming GPU will launch in 2025 made by Muxi"
-    excerpt: "China's domestic GPU market is gearing up for a dedicated gaming-focused GPU launch in 2025 from Muxi, supporting all modern APIs ready for gamers."
-    publishedDateTime: 2022-09-19T01:52:00Z
-    webUrl: "https://www.tweaktown.com/news/88484/chinas-first-dedicated-gaming-gpu-will-launch-in-2025-made-by-muxi/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 39
-    images:
-      - url: "https://static.tweaktown.com/news/8/8/88484_10_chinas-first-dedicated-gaming-gpu-will-launch-in-2025-made-by-muxi.jpg"
-        width: 620
-        height: 347
-        isCached: true
   - title: "China Could Release Its First Dedicated Gaming GPU in 2025 But Will It Be Competitive?"
     excerpt: "Under the weight of those sanctions, the pressure to develop home-grown hardware is heavier than ever, but GPU design is a high hurdle to hop. There are already basic and productivity-focused GPUs from the likes of Zhaoxin and Innosilicon,"
     publishedDateTime: 2022-09-19T18:52:00Z

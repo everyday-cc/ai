@@ -1,20 +1,18 @@
 ---
 category: news
 title: "NVIDIA Hopper in Full Production"
-excerpt: "World's Leading Computer Makers Dell Technologies, HPE, Lenovo, Supermicro, Plus Cloud Service Providers AWS, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure Building H100-Based Offerings;"
-publishedDateTime: 2022-09-20T16:18:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/g28935573/nvidia-hopper-in-full-production"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/g28935573/nvidia-hopper-in-full-production"
-ampWebUrl: "https://www.benzinga.com/amp/content/28935573"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28935573"
+excerpt: "NVIDIA today announced that the NVIDIA H100 Tensor Core GPU is in full production, with global tech partners planning in October to roll out the first wave of products and services based on the groundbreaking NVIDIA Hopper™ architecture."
+publishedDateTime: 2022-09-20T16:45:00Z
+originalUrl: "https://insidebigdata.com/2022/09/20/nvidia-hopper-in-full-production/"
+webUrl: "https://insidebigdata.com/2022/09/20/nvidia-hopper-in-full-production/"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: insidebigdata.com
+  domain: insidebigdata.com
 
 topics:
   - Microsoft AI
@@ -280,6 +278,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 36
+  - title: "Nvidia launches flagship chip with AI capabilities"
+    excerpt: "Nvidia Corp launched new flagship chips called Ada Lovelace for video gamers that use artificial intelligence (AI) to improve graphics."
+    publishedDateTime: 2022-09-21T08:14:00Z
+    webUrl: "https://www.itworldcanada.com/post/nvidia-launches-flagship-chip-with-ai-capabilities"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 34
   - title: "Nvidia taps TSMC to manufacture new AI-powered gaming chips"
     excerpt: "Nvidia has gained attention in recent years with its booming data centre business, which sells chips used in artificial intelligence work such as natural language processing. But the company’s roots are in graphics chips,"
     publishedDateTime: 2022-09-21T06:21:00Z
@@ -322,6 +329,6 @@ related:
       domain: tmcnet.com
     quality: 19
 
-secured: "Q/yVEoGWBkCnBO6tQABz4cbEWj0+e5lI7E3tK/WwGVZQnbXHqjJ4yM6AsRKy98hq82obCYaCHnqKWNgLD9VfYlPRt/T70OAgP9hrIStEXhGc9zDqFuW+/XMHlaHNMp/XhjdsDnIA33dpiux2ohRiWVqZT4a+2MZz67BK2BMDoDzonhEtLPx/hWwx0w0H8ww5XBXrcT4WxNDwq8t4THGwT2M1TImc8DR3HjNYXs7vyJ+Qi2ma6jj80agdNTjkbcnl/dHjQ4hHQkHXkNngr8p1qqxl+KQrKDMm2vWZPZBJqyoTN/w0tX6ZTKNnhtRSm5aSb3IlBfxfjOH6natLy2YykdnGo4hg+4lElPrwuyU/3DU=;mJPWj7e6RFmxHdZeOMARyQ=="
+secured: "wIGDxDya5luMk6x0AqQ39mkvdAXwe74lFsdarucp1ZQYlkKfWLdyMxy8Y1tlD5bx+S8/JOVW2mm/K9WQ8BVbXtE006DmnB/83a53JxakhDXRQVQv6r67ExL06m6YFpVgySWaEKVEpvrRx468xesGid5XwwzREsZKQv7TNSCLHTEhCSg1ERVvyzHaOxeeG/x1JB0SupiZdYWkrO4HLTQj1UgFi8bS277QmAKdeM8IxDb4Nn/a2KZ1TwWlGFHEjLjpyfoC76n5FpmL6muhHWYxUf3gPvSwfYiE4q361W3qw8Im/J+DPgjl6dZMl69NN6rMxGsSF47mN4WlgHLUYxCeUtJRDwVlYNycHvfHNDfyeyiCVTH9xJt7fRK4o1CIACsIIMiypczwz6t1v4qjKyWs7uRUaWLRu4ViMgWMoJFUBWP/yWCHe49bB9dLUcr5I99xn5Vh3EceJ7UT+rP5q8iIFtUNByFUo7IBT9AhEWtcQvkzFIVE48Gd3GP7XCVLVMyQ2LmC7A98tLMNck/1hF8XAg==;nYaN+AEUwjm/RJOeRiRNMA=="
 ---
 

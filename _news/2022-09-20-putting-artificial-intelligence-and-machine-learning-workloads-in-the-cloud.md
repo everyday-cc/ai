@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 775
         isCached: true
-  - title: "Putting artificial intelligence and machine learning workloads in the cloud"
-    excerpt: "We look at the pros and cons of putting artificial intelligence (AI) and machine learning (ML) applications in the cloud."
-    publishedDateTime: 2022-09-19T03:00:00Z
-    webUrl: "https://www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud"
-    ampWebUrl: "https://www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 86
-    images:
-      - url: "https://www.computerweekly.com/rms/onlineimages/ai_a352095729.jpg"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "HOW ARTIFICIAL INTELLIGENCE BOOSTS THE DIGITAL MARKETING SPHERE"
     excerpt: "This article try to portray artificial intelligence's influence in digital marketing sphere. Importance of AI and the need to adopt it discussed."
     publishedDateTime: 2022-09-22T06:05:00Z

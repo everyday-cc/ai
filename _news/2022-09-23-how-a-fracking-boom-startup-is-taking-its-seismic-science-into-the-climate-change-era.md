@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-23T13:37:00Z
 originalUrl: "https://www.cnbc.com/2022/09/23/how-a-fracking-boom-startup-is-planning-to-survive-climate-change-era.html"
 webUrl: "https://www.cnbc.com/2022/09/23/how-a-fracking-boom-startup-is-planning-to-survive-climate-change-era.html"
 type: article
+quality: 25
+heat: 25
+published: false
 
 provider:
   name: CNBC

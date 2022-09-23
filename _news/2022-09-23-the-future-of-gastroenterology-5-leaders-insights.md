@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-23T16:14:00Z
 originalUrl: "https://www.beckersasc.com/gastroenterology-and-endoscopy/the-future-of-gastroenterology-5-leaders-insights.html"
 webUrl: "https://www.beckersasc.com/gastroenterology-and-endoscopy/the-future-of-gastroenterology-5-leaders-insights.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Becker's ASC

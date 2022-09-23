@@ -86,20 +86,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Volkswagen concept previews tomorrow's driverless rental pods"
-    excerpt: "When (if?) cars become properly driverless, why not make them glassy pods with beds, desks and AR entertainment for the kids?"
-    publishedDateTime: 2022-09-23T05:37:00Z
-    webUrl: "https://www.carexpert.com.au/car-news/volkswagen-concept-previews-tomorrows-driverless-rental-pods"
-    type: article
-    provider:
-      name: CarExpert
-      domain: carexpert.com.au
-    quality: 39
-    images:
-      - url: "https://images.carexpert.com.au/crop/1200/630/app/uploads/2022/09/Volkswagen-Gen-TravelNR00051_large.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Volkswagen shows driverless future"
     excerpt: "Volkswagen Group's Gen.Travel concept previews a truly autonomous future. Volkswagen shows driverless future - CompleteCar.ie car news"
     publishedDateTime: 2022-09-23T04:03:00Z
@@ -114,6 +100,15 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "Volkswagen concept previews tomorrow's driverless rental pods"
+    excerpt: "When (if?) cars become properly driverless, why not make them glassy pods with beds, desks and AR entertainment for the kids?"
+    publishedDateTime: 2022-09-22T18:26:00Z
+    webUrl: "https://7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195"
+    type: article
+    provider:
+      name: 7NEWS
+      domain: 7news.com.au
+    quality: 19
 
 secured: "7sDUhmd41NUxtVnfbN/XY6S3L2vIyRxztRWZcsNJ6aoqFUrqYq27WOfhrKq5WYLQl/h/qH1BULePbz9eBOj5rMQH2fi7kPoPQPOuC0Yv910eP155I3FEEbAFgzjw5GhOC0VxBwobsUTNynXSmaFMJBYaGyZ8rOp3atjcpfe3bhVZayESKSs/edoY0wbQpSzJUEfZMFNah4tpPSLz2GOPJby304QP8ASONSc2aHnuPeVwJplYReD4r7Ca0mnkc3w1uIMpw7g569DN98SPe0zj9t3EKS9jBRZbyfhiGFa51GQrRoYcG27wWUuumKoAGzU5jJMa9zmQPPH4UE7YmPH//+Y20rsol313hICTMkbJTpt058mAVJU6ZRFCF7VBi/7vBr6RZkGotHDhgOQsNQ7hd3JxiLsDHmAW22FxwxcuN9sPPFfmpMtIiLNL8HfLm7ih9HKOD/SLu2e5ccMTmgP+Cz3Np0z2D8zQaJIvysq75R+5ZiI9yr5nZ2kVwF4HBUXMDfb9CTq2PPufsZsv1iHMjg==;hG65Fv5NzuSeDNsqvBqbqQ=="
 ---

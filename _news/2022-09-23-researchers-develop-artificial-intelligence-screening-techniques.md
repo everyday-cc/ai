@@ -9,7 +9,7 @@ ampWebUrl: "https://m.jagranjosh.com/current-affairs/amp/researchers-develop-art
 cdnAmpWebUrl: "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/current-affairs/amp/researchers-develop-artificial-intelligence-screening-techniques-1663941325-1"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Scientists Develop Artificial Intelligence Screening Techniques To Quicken Drug Discovery"
+    excerpt: "Researchers have developed artificial intelligence screening techniques to speed up the process of drug discovery. Read on."
+    publishedDateTime: 2022-09-23T18:05:00Z
+    webUrl: "https://www.onlymyhealth.com/artificial-intelligence-screening-techniques-to-quicken-drug-discovery-1663955114"
+    type: article
+    provider:
+      name: Onlymyhealth
+      domain: onlymyhealth.com
+    quality: 8
 
 secured: "AFXRTZmlAg8OXl0v0PtDoZTOpVHpZ2FJOMSZhJrwnzThtP0DUgovxy8iVIH17Iz749kSMygarBZoKSSEcaXBEwtX4/USFWqIBRsvkYqhDcXV6oG3Qi+ibgH6/LDPqbKtQKVrlD3S4q+AhaAAtOTxllBgIm7HpiBi9EqmHGp+zcHu7qeH0xDexC1WKKHx0faBTategGp+i+QrWahS/VK2Wamg5NehHe41EKtv8GkQ76FTKoxg6mpCp0LrbDxICz7iulW9olZPR8ugwO83aw2Ay5T/7glEdkvJj3Z/Mmf7qfZIQF3Kk0qvDdgiqPY/6m0CMBX0DjmkbGctJOruP+3oaSUOGPlqMzUDDeE3D1VRl+8=;bs5T+Qm/2zW7mgA7PlFdeQ=="
 ---

@@ -43,22 +43,6 @@ related:
         height: 775
         isCached: true
   - title: "Putting artificial intelligence and machine learning workloads in the cloud"
-    excerpt: "We look at the pros and cons of putting artificial intelligence (AI) and machine learning (ML) applications in the cloud."
-    publishedDateTime: 2022-09-19T03:00:00Z
-    webUrl: "https://www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud"
-    ampWebUrl: "https://www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 86
-    images:
-      - url: "https://www.computerweekly.com/rms/onlineimages/ai_a352095729.jpg"
-        width: 1200
-        height: 400
-        isCached: true
-  - title: "Putting artificial intelligence and machine learning workloads in the cloud"
     excerpt: "PA Consulting’s Lee Howells, head of AI, comments on the benefits of implementing artificial intelligence and machine learning workloads in the cloud."
     publishedDateTime: 2022-09-20T11:11:00Z
     webUrl: "https://www.paconsulting.com/newsroom/expert-quotes/computer-weekly-putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud-19-september-2022/"

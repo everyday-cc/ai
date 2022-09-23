@@ -41,6 +41,17 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Machine Vision Market Size To Reach USD 11380 Million By 2028 At A CAGR of 4.0% - Valuates Reports"
+    excerpt: "Major Factors Driving The Growth Of The Machine Vision Market are. The Machine Vision market is projected to be driven by the rising need for automation and quality inspection acr"
+    publishedDateTime: 2022-09-23T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/n28988369/machine-vision-market-size-to-reach-usd-11380-million-by-2028-at-a-cagr-of-4-0-valuates-reports"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28988369"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28988369"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 10
   - title: "Automatic Identification & Data Capture Market Size to Boost $35 Billion By 2027 | CAGR 12.3% – IndustryARC"
     excerpt: "\"Market Research Reports, Business Consulting Services & Analytics\"Growing Use of Automatic Identification and Data Capture Systems in Variety of End User Industries is Driving the Growth of Automatic"
     publishedDateTime: 2022-09-19T20:35:00Z

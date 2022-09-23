@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/big-data-and-analytics/ai-chatbots/"
 webUrl: "https://www.eweek.com/big-data-and-analytics/ai-chatbots/"
 type: article
 quality: 71
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Why DeepMind isn’t deploying its new AI chatbot"
+    excerpt: "DeepMind’s new AI chatbot, Sparrow, is being hailed as an important step towards creating safer, less-biased machine learning systems, thanks to its application of reinforcement learning based on input from human research participants for training."
+    publishedDateTime: 2022-09-23T19:34:00Z
+    webUrl: "https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
   - title: "DeepMind advances AI safety with new Sparrow chatbot"
     excerpt: "According to DeepMind, Sparrow can produce plausible answers to user questions more frequently than earlier neural networks. Furthermore, the chatbot includes features that significantly reduce the risk of biased and toxic answers."
     publishedDateTime: 2022-09-22T18:31:00Z

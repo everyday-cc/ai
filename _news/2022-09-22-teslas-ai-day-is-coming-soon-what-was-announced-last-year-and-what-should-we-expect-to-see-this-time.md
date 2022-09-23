@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla AI Day Brings Optimus Robot, Self-Driving Car Updates: Here's How to Watch"
+    excerpt: "Tesla is hiring engineers to build a walking, talking robot called Optimus. Expect Elon Musk to update us on steps toward self-driving cars, too."
+    publishedDateTime: 2022-09-23T18:49:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 76
   - title: "Optimus Robot Is Coming At Tesla’s AI Day 2 – But It’ll Have To Do More Than Dancing To Silence Critics"
     excerpt: "Tesla will hold its AI Day 2 on September 30 and in the leadup, Elon Musk has prioritized both Optimus and an updated smart summon feature. According to the tech billionaire, both projects have an end-of-month deadline."
     publishedDateTime: 2022-09-20T23:37:00Z

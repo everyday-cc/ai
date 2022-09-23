@@ -55,6 +55,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Scientists Develop Artificial Intelligence Screening Techniques To Quicken Drug Discovery"
+    excerpt: "Researchers have developed artificial intelligence screening techniques to speed up the process of drug discovery. Read on."
+    publishedDateTime: 2022-09-23T18:05:00Z
+    webUrl: "https://www.onlymyhealth.com/artificial-intelligence-screening-techniques-to-quicken-drug-discovery-1663955114"
+    type: article
+    provider:
+      name: Onlymyhealth
+      domain: onlymyhealth.com
+    quality: 8
 
 secured: "pEYP0rvx9TW+X8fpq6XOOkAhq2mJwTXs0DtFknuUhDeJacrbQqob7+V8kWi2RcFmLUxw08MBIpfX5i5HGnRTBSI9gCQsFOZ6cpgAAWKDApq61MAKJM9sKy1UuUYtrwMc6p2n3Yka9HXHE7WqpHibT5GxUYzec189Szs1m/cCf5l4kBFLHLFJtUMKWW7FhNFNVG+EvOx42GX3gY30ndXpAxpW1oreCC2P69I1B9p03DGFRXZAsxzqVI3ElZMt3J7XcQrHiupRgji+CKvViuSWui+bxQlnlRDzbkx9c6MdI6zWJREVtawXnyXrD/uQGz8nadpldK9SkSPOh9U3ZB24fQbfxHsIztTYcaKwG3qXIM4=;frj7tSb5jFhXT62OZAnZqg=="
 ---

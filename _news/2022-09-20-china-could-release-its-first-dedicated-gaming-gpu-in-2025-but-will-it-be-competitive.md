@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "China's first dedicated gaming GPU will launch in 2025 made by Muxi"
-    excerpt: "China's domestic GPU market is gearing up for a dedicated gaming-focused GPU launch in 2025 from Muxi, supporting all modern APIs ready for gamers."
-    publishedDateTime: 2022-09-19T01:52:00Z
-    webUrl: "https://www.tweaktown.com/news/88484/chinas-first-dedicated-gaming-gpu-will-launch-in-2025-made-by-muxi/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 39
-    images:
-      - url: "https://static.tweaktown.com/news/8/8/88484_10_chinas-first-dedicated-gaming-gpu-will-launch-in-2025-made-by-muxi.jpg"
-        width: 620
-        height: 347
-        isCached: true
 
 secured: "G07sfVnK6yFYwQLONHkY+EHe1xgBdY6RmbMV0fggyd2PJ5uf6ivLY7mB2pSjFmG+k4PrnuGY/3Z3uB1YN6Lfg54m2p0uSoEVvjKCj6XPe+aX7YSJOH+tdb0L2GU/e+ysQEg7S3azhOd9hO+WFgjlDquK90obKUNosStI2ORCejgOLMHhU7H+t6DEPNZ0h0ePEvE7oQldQfOEYGnWZEMPeIEC2wkuh0Xn7OM1V7F7tORAEHRMnQsQwtfDvEI3kKTuo6N+2zgXWrdHgjaKln0Dk3ls98W+jlgAOc+Dqqzkuocj7bkOVFxHYJWZMAzVU6b1Vm75QIRLB9so0fdqdFBIof2L0WNPCFnx610DhiXqrQPj9Df2TWzNPvaXcmAO8M+k4CsLtI5YaDW62AtN0NIq530jjLvN+jCUBrLkRrsGjE47E3Vl0yaaOJ9svZX7xmbKx+bReaLWcBxpknGNFZCG19xZtPxBt8xDjULsJDOP3E0f3wuocxjcd5Sei8MUYLsi9p+tUk9JSKgEuNvxHsPyZw==;FGo22ss+xxNv2+OJORv2Fw=="
 ---

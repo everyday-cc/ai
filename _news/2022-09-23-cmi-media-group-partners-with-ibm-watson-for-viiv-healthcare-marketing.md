@@ -7,8 +7,8 @@ originalUrl: "https://www.mmm-online.com/home/channel/cmi-media-group-partners-w
 webUrl: "https://www.mmm-online.com/home/channel/cmi-media-group-partners-with-ibm-watson-for-viiv-healthcare-marketing/"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: MM&M
@@ -21,6 +21,15 @@ topics:
   - AI in Marketing
 
 related:
+  - title: "Lasso, CMI Media run successful pilot with IMB Watson ad accelerator"
+    excerpt: "IBM Watson's Advertising Accelerator uses artificial intelligence to predict and create advertising. CMI Media Group ran a pilot campaign with IBM Watson from the fourth quarter of 2021 to the first quarter of 2022,"
+    publishedDateTime: 2022-09-23T17:46:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-marketing/lasso-cmi-media-run-successful-pilot-with-imb-watson-ad-accelerator.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
   - title: "Lasso and CMI Media Group Announce First-To-Market Partnership with IBM Watson"
     excerpt: "Lasso and CMI Media Group are the first to successfully leverage IBM Watson's dynamic creative capabilities for healthcare marketing, driving media performance 40% above benchmark."
     publishedDateTime: 2022-09-21T17:44:00Z

@@ -41,20 +41,6 @@ related:
         width: 661
         height: 341
         isCached: true
-  - title: "Sovereignty, Treaty, Recognition: Voices From Community"
-    excerpt: "We have spoken to a range of Aboriginal people, including those representing the government, to hear what models for Indigenous recognition are on the table, why they should be supported and pursued,"
-    publishedDateTime: 2022-09-19T05:01:00Z
-    webUrl: "https://www.sbs.com.au/nitv/creative/sovereignty-treaty-recognition-voices-from-community/koeyqwjx9"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 24
-    images:
-      - url: "https://images.sbs.com.au/dims4/default/dee4824/2147483647/strip/true/crop/5184x2916+0+273/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fdrupal%2Fnitv%2Fpublic%2Fshorthand_images%2Fuluru.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Emotion Detection And Recognition Market Is Poised To Reach USD 53.2 Billion At A 39.20% CAGR By 2030 - Report By Market Research Future (MRFR)"
     excerpt: "The increasing adoption of emotion detection and recognition in the automotive industry will boost market growth over the forecast period. Technologies for emotion recognition and detection are in high demand in the automotive sector."
     publishedDateTime: 2022-09-21T20:05:00Z

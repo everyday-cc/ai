@@ -34,6 +34,15 @@ related:
         width: 696
         height: 696
         isCached: true
+  - title: "Why DeepMind isn’t deploying its new AI chatbot"
+    excerpt: "DeepMind’s new AI chatbot, Sparrow, is being hailed as an important step towards creating safer, less-biased machine learning systems, thanks to its application of reinforcement learning based on input from human research participants for training."
+    publishedDateTime: 2022-09-23T19:34:00Z
+    webUrl: "https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
 
 secured: "0OMnPMJWwKE8PZaZbogPMN3aEaomihzNXh2FGDDe8OjMOr2d+aZgjvttgmi8lwn2Che8c1XRPACi2tfsDOXTDG6XPZynmH0l/4+71VRjdsKmWUtnEsGWFAPAHPb939N056vqfFNetF7yFfxUutG9fl2bCG1ljeqG37KORYb8H6twOSIrNbaXCGC1vFO56QzttEOF4Tbuqq6ACTl75iBBVIwBsX0U+lhVaUGCvESj4OY0wcwKvdEpSNB6lEm9d1djiwfhHxTTSywxLnjWvYajqqenn3EGlGEvty3ChF0uRgYfMlZi47Mq3zYoH+yFnHqquQpniRaMVvqmvH9w1rDUDzfExDZiQ/Xx4RrRGz3pIAjZT1VH61q/y3IgdALsSPIg/foqNTkwAzZ1aEU25TBk/bxPaoL8RKId1NhpKFuYPUuxPcpqK4zFmyyponIXLXSrTIjozCkVriZgr9/Hv1Ip7908O9nDEt+t3b1ogOn0Op3luE0EEo3h/TlVnq3SFqrDE83jAOoVMuIMpQIqXj0WuA==;sVYDG/XPFP5C5VEA1rM40w=="
 ---

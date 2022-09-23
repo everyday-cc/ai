@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-20T13:33:00Z
 originalUrl: "https://www.psychologytoday.com/us/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently"
 webUrl: "https://www.psychologytoday.com/us/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Psychology Today

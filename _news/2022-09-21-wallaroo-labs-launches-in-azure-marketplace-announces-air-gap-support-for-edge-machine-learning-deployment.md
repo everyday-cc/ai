@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-21T13:22:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/2022/09/21/9677902.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2022/09/21/9677902.htm"
 type: article
-quality: 33
+quality: 35
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - Microsoft AI
+  - AI in Finance
 
 related:
   - title: "Wallaroo Labs Launches in Azure Marketplace, Announces Air Gap Support for Edge ML Deployment"
