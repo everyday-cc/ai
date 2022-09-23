@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-20-the-algorithm-ai-generated-art-raises-tricky-questions-about-ethics-copyright-and-security.md",
+      "title": "The Algorithm: AI-generated art raises tricky questions about ethics, copyright, and security",
+      "excerpt": "Thanks to his distinctive style, Rutkowski is now one of the most commonly used prompts in the new open-source AI art generator Stable Diffusion, which was launched late last month—far more popular than some of the world's most famous artists,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2022/09/20/1059792/the-algorithm-ai-generated-art-raises-tricky-questions-about-ethics-copyright-and-security/",
+      "originalUrl": "https://www.technologyreview.com/2022/09/20/1059792/the-algorithm-ai-generated-art-raises-tricky-questions-about-ethics-copyright-and-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/09/greg-rutkowski-dragon-cave-square.jpg?w=928",
+          "width": 928,
+          "height": 928,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2022/09/20/1059792/the-algorithm-ai-generated-art-raises-tricky-questions-about-ethics-copyright-and-security/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/20/1059792/the-algorithm-ai-generated-art-raises-tricky-questions-about-ethics-copyright-and-security/amp/",
+      "publishedDateTime": "2022-09-20T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Security",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-how-ai-is-changing-the-way-students-learn.md",
       "title": "How AI Is Changing The Way Students Learn",
       "excerpt": "In our increasingly fast-moving world, many schools are still facing the challenge of integrating the latest digital technologies.",
@@ -520,6 +565,58 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-the-human-brain-is-far-more-complex-than-ai-researchers-imagine.md",
+      "title": "The human brain is far more complex than AI researchers imagine",
+      "excerpt": "leads some AI chip designers towards hybrid digital/analog architectures. The physical properties of a circuit, like current and resistance, perform the additions and multiplications on data in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/369061/the-human-brain-is-far-more-complex-than-ai",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/369061/the-human-brain-is-far-more-complex-than-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816534/itpro/2018/11/shutterstock_25991188.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T18:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -1117,93 +1214,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details.md",
-      "title": "Muxi To Give China Its First Fully-Dedicated Gaming GPU In 2025; Check Details",
-      "excerpt": "Muxi’s 7nm chipset, billed as the companys most powerful GPU to date, is primarily intended to meet the needs of high-end gaming PCs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizbot.com/news/muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details-082672.html",
-      "originalUrl": "https://www.gizbot.com/news/muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details-082672.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizbot.com/img/1200x60x675/img/2022/09/muxi-gpu-card-2025-1663574244.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizbot.com/amphtml/news/muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details-082672.html",
-      "cdnAmpWebUrl": "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/news/muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details-082672.html",
-      "publishedDateTime": "2022-09-19T00:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GIZBOT",
-        "domain": "gizbot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-even-smartest-ai-models-dont-match-human-visual-processing-study.md",
-      "title": "Even smartest AI models don't match human visual processing: Study",
-      "excerpt": "Deep convolutional neural networks (DCNNs) do not see objects the way humans do -- using configural shape perception -- and that could be dangerous in real-world",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/articleshow/94293780.cms",
-      "originalUrl": "https://www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/articleshow/94293780.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/94294619.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/amp_articleshow/94293780.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/amp_articleshow/94293780.cms",
-      "publishedDateTime": "2022-09-18T21:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

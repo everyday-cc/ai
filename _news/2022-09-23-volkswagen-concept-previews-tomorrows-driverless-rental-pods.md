@@ -2,26 +2,28 @@
 category: news
 title: "Volkswagen concept previews tomorrow's driverless rental pods"
 excerpt: "When (if?) cars become properly driverless, why not make them glassy pods with beds, desks and AR entertainment for the kids?"
-publishedDateTime: 2022-09-23T05:37:00Z
-originalUrl: "https://www.carexpert.com.au/car-news/volkswagen-concept-previews-tomorrows-driverless-rental-pods"
-webUrl: "https://www.carexpert.com.au/car-news/volkswagen-concept-previews-tomorrows-driverless-rental-pods"
+publishedDateTime: 2022-09-22T18:26:00Z
+originalUrl: "https://7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195"
+webUrl: "https://7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195"
+ampWebUrl: "https://7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195.amp"
+cdnAmpWebUrl: "https://7news-com-au.cdn.ampproject.org/c/s/7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195.amp"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: CarExpert
-  domain: carexpert.com.au
+  name: 7NEWS
+  domain: 7news.com.au
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.carexpert.com.au/crop/1200/630/app/uploads/2022/09/Volkswagen-Gen-TravelNR00051_large.png"
+  - url: "https://images.7news.com.au/publication/C-8334195/8b834ff686026c4ce8d0ecc99ee023286661aef2-16x9-x0y173w3805h2140.png?imwidth=1200"
     width: 1200
-    height: 630
+    height: 675
     isCached: true
 
 related:
@@ -111,6 +113,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "3ambeE/txB3WiZhgbqmwU7s+nKzxLFHChJ7DpK86c2xnFIZ8LlM/p5tqFnHxwx5OCN9vhDDigFep+CTIF438YDsm+EluLHzqw9hIqeIiZocq0+qwrDPtcItPMxvA8ffSatRZV29xFr61smUXB63ywnh4WMldLnkbCkumlpH02ga1tpxD1sozgSsEYHWzphzkxRJqvlu2wMzjWJqf6kucQ0T1jwL9NGUq2r9vqrksltYLqmRye4cf/9oSH305KPGZ8P85swYG1BHr/cNd/oA/pohDO+Hm7cWuaZittw0LB6DC33BZtpDQWAAtwm0u6fgSdckGJdOC9DfAVMn0eMV2wOwFL3FcJI9tsGMrBuCRAvo=;HGf0g8kcUE8TG7tQewuUdA=="
+secured: "8L9Uu2Y/xDPxAP5rD6sQ15YB7i26SgWoZ216ykZfqJ8KI5mqVTytJeo7ulQ+taNjI83BC6zALh5R3tNadgE2CZBoWPiqEFm2YGJjHPJbgNO/uaq/22gSv10R7bd1WbE1muN7wpaY1j0NErsEH0CY43hyJRy0iwuo2SHXlOKSnoIwacCFAqEiegXSnL4wbvweXLpGbpRwYKjo68hRtcLJAx+8bvnJ3TND0FB7XBmq8Ra+g7ljJAE2OU6CobWPzKDVIoBDZB/a+kOHG5PH6LA0ASGYr8QR1y2S9GRfS64z4BVvIIcey1tifOFgxx4T2ehgqBiLQPNiTpElqBJyoR2Jn8g2iDW0Fbm8vZOQacoUG0c=;/8lE/+Hw/UGGL4tp+mlZWQ=="
 ---
 

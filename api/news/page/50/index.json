@@ -2,6 +2,348 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2022-08-12-facebook-robot-brands-mark-zuckerberg-as-creepy-and-manipulative.md",
+      "title": "Facebook robot brands Mark Zuckerberg as ‘creepy and manipulative’",
+      "excerpt": "FACEBOOK supremo Mark Zuckerberg is “creepy and manipulative” — according to one of his own chatbots. The AI program, trained to have conversations like humans, also encouraged users to ditch",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/",
+      "originalUrl": "https://www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/08/NINTCHDBPICT000732452672-1.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/amp/",
+      "publishedDateTime": "2022-08-11T15:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-12-degrees-of-the-future-2022-artificial-intelligence.md",
+      "title": "Degrees of the Future 2022: Artificial Intelligence",
+      "excerpt": "The Degrees of the Future 2022 top Artificial Intelligence programs are: How did Gizmodo determine this year’s honorees? Check out the methodology or return to the full Degrees of the Future 2022 list.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/artificial-intelligence-college-program-degree-1849354946",
+      "originalUrl": "https://gizmodo.com/artificial-intelligence-college-program-degree-1849354946",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dc30f627e6d8c6a9a28ee89504a69ebe.jpg",
+          "width": 800,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/artificial-intelligence-college-program-degree-1849354946/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/artificial-intelligence-college-program-degree-1849354946/amp",
+      "publishedDateTime": "2022-08-11T15:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-12-office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year.md",
+      "title": "Office 2016 and 2019 users won't be cut off from Microsoft 365 back-end services next year",
+      "excerpt": "Even though Microsoft is all-in on the cloud, it still is continuing to roll out \"perpetual\" (non-subscription) versions of Office every few years. Recently, some of those users -- namely those ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year/",
+      "originalUrl": "https://www.zdnet.com/article/office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/c090dc1c928cf8099bdf98d8ffc98fcea278e518/2022/08/08/e1d0e5a7-27e5-4c6d-b669-9a0ed1789a98/officebackendconnectivity.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year/",
+      "publishedDateTime": "2022-08-11T15:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-12-introduction-to-the-tensorflow-models-nlp-library.md",
+      "title": "Introduction to the TensorFlow Models NLP library",
+      "excerpt": "In this Colab notebook, you will learn how to build transformer-based models for common NLP tasks including pretraining, span labelling and classification using the building blocks from NLP modeling library. # Uninstall colab's opencv-python, it conflicts ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/tfmodels/nlp",
+      "originalUrl": "https://www.tensorflow.org/tfmodels/nlp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-11T15:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-08-12-johnson-controls-ai-enhanced-openblue-platform-cuts-microsofts-beijing-campus-energy-footprint.md",
+      "title": "Johnson Controls AI-enhanced OpenBlue Platform Cuts Microsoft's Beijing Campus Energy Footprint",
+      "excerpt": "OpenBlue suite of connected solutions plays a key role in achieving lean campus management with higher energy efficiency and better user experience Professional service brings more than 98% uptime of key equipment and increase the level of operational automation SHANGHAI,",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1270988&cat=PR News Wire",
+      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1270988&cat=PR News Wire",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-11T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-11-build-an-air-quality-anomaly-detector-using-amazon-lookout-for-metrics.md",
+      "title": "Build an air quality anomaly detector using Amazon Lookout for Metrics",
+      "excerpt": "Today, air pollution is a familiar environmental issue that creates severe respiratory and heart conditions, which pose serious health threats. Acid rain, depletion of the ozone layer, and global warming are also adverse consequences of air pollution. There is a need for intelligent monitoring and automation",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-air-quality-anomaly-detector-using-amazon-lookout-for-metrics/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-air-quality-anomaly-detector-using-amazon-lookout-for-metrics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/27/ML-7925-image001-1225x630.png",
+          "width": 1225,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-11T13:46:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-12-why-diversity-should-have-a-critical-impact-on-data-privacy.md",
+      "title": "Why diversity should have a critical impact on data privacy",
+      "excerpt": "Exploring why diversity must play a critical role in data privacy and how companies can create more inclusive and ethical technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/why-diversity-should-have-a-critical-impact-on-data-privacy/",
+      "originalUrl": "https://venturebeat.com/security/why-diversity-should-have-a-critical-impact-on-data-privacy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/business-meeting.GettyImages-607477465.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/why-diversity-should-have-a-critical-impact-on-data-privacy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/why-diversity-should-have-a-critical-impact-on-data-privacy/amp/",
+      "publishedDateTime": "2022-08-11T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-12-how-artificial-intelligence-could-lower-nuclear-energy-costs.md",
       "title": "How artificial intelligence could lower nuclear energy costs",
       "excerpt": "Nuclear power plants provide large amounts of electricity without releasing planet-warming pollution. But the expense of running these plants has made it difficult for them to stay open. If nuclear is to play a role in the U.",
@@ -836,326 +1178,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-clearview-consent-launches-presentation-attack-detection.md",
-      "title": "Clearview Consent Launches Presentation Attack Detection",
-      "excerpt": "That, Clearview AI’s CEO said, “The launch of our Presentation Attack Detection, also known as ‘liveness detection,’ will help governmental and commercial entities stay one step ahead of crime and fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-11-clearview-consent-launches-presentation-attack-detection",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-11-clearview-consent-launches-presentation-attack-detection",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-11T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-executive-qa-southwest-research-institute-leader-on-the-future-of-robotics.md",
-      "title": "Executive Q&A: Southwest Research Institute leader on the future of robotics",
-      "excerpt": "I thought of it as a robot arm, which means a few motors working together in close, computer-controlled coordination to accomplish a task. Fast-forward to today, I think of a lot of different ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.expressnews.com/sa-inc/article/San-Antonio-science-research-17364647.php",
-      "originalUrl": "https://www.expressnews.com/sa-inc/article/San-Antonio-science-research-17364647.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/26/74/34/22791998/3/rawImage.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-11T02:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Antonio Express-News",
-        "domain": "expressnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-for-fun-not-phishing-is-why-most-users-change-their-voice-identity-online.md",
-      "title": "For Fun, Not Phishing, Is Why Most Users Change Their Voice Identity Online",
-      "excerpt": "In a world where the transparency of online communications is touted as a virtue, you might question the motives of people using voice-changing technology tools. Is it for mischief or malice? While cynics may assume that voice tech is only associated with basement hackers and scam artists,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-spain-phishing-c89293d42bf144cd969a7479ed1166e0",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-spain-phishing-c89293d42bf144cd969a7479ed1166e0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-11T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row.md",
-      "title": "Tesla's self-driving tech's 'failure' to detect kids on road sparks row",
-      "excerpt": "The Guardian reported that a professional test driver found that the FSD software \"failed to detect the child-sized figure at an average speed of 25mph and the car then hit the mannequin\". Now, Electrek reports that there was a real problem with the test,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/industry/renewables/teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row/articleshow/93497474.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/industry/renewables/teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row/articleshow/93497474.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-34974,msid-93497493/teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/industry/renewables/teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row/amp_articleshow/93497474.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/renewables/teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row/amp_articleshow/93497474.cms",
-      "publishedDateTime": "2022-08-11T01:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-aramcos-prosperity7-powers-ai-drug-firm-insilicos-95m-round.md",
-      "title": "Aramco’s Prosperity7 powers AI drug firm Insilico’s $95M round",
-      "excerpt": "Hong Kong-based drug discovery and development company Insilico has secured fresh capital at a time that its CEO described as a “biotech winter.” The firm has raised $35 million on the heels of its last tranche in June,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/10/aramcos-prosperity7-ai-drug-insilicos/",
-      "originalUrl": "https://techcrunch.com/2022/08/10/aramcos-prosperity7-ai-drug-insilicos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/Screenshot-2022-08-11-at-10.41.19-AM.png?w=1024",
-          "width": 1022,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/10/aramcos-prosperity7-ai-drug-insilicos/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/10/aramcos-prosperity7-ai-drug-insilicos/amp/",
-      "publishedDateTime": "2022-08-10T19:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-intel-foundry-services-announces-mediatek-as-first-wafer-customer.md",
-      "title": "Intel Foundry Services Announces MediaTek As First Wafer Customer",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives into Intel's announcement of its first official wafer fabrication customer with MediaTek.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/08/10/intel-foundry-services-announces-mediatek-as-first-wafer-customer/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/08/10/intel-foundry-services-announces-mediatek-as-first-wafer-customer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f4654c546802fe027ff4e0/0x0.png?format=png&width=1200",
-          "width": 1100,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/08/10/intel-foundry-services-announces-mediatek-as-first-wafer-customer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/08/10/intel-foundry-services-announces-mediatek-as-first-wafer-customer/amp/",
-      "publishedDateTime": "2022-08-10T19:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-a-beginners-guide-to-the-ai-apocalypse-the-democratization-of-expertise.md",
-      "title": "A beginner’s guide to the AI apocalypse: The democratization of ‘expertise’",
-      "excerpt": "They say \"garbage in, garbage out,\" but what happens when our data's the garbage and big tech starts feeding it back to us in a nice wrapper?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/beginners-guide-ai-apocalypse-the-democratization-of-expertise",
-      "originalUrl": "https://thenextweb.com/news/beginners-guide-ai-apocalypse-the-democratization-of-expertise",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2Frobot-1.jpg&signature=0f5c63425d8da190315e4e4944783307",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-10T18:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI",
-        "AI in Robotics"
       ]
     }
   ],

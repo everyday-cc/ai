@@ -1,18 +1,20 @@
 ---
 category: news
 title: "NVIDIA Hopper in Full Production"
-excerpt: "NVIDIA today announced that the NVIDIA H100 Tensor Core GPU is in full production, with global tech partners planning in October to roll out the first wave of products and services based on the groundbreaking NVIDIA Hopper™ architecture."
-publishedDateTime: 2022-09-20T16:45:00Z
-originalUrl: "https://insidebigdata.com/2022/09/20/nvidia-hopper-in-full-production/"
-webUrl: "https://insidebigdata.com/2022/09/20/nvidia-hopper-in-full-production/"
+excerpt: "World's Leading Computer Makers Dell Technologies, HPE, Lenovo, Supermicro, Plus Cloud Service Providers AWS, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure Building H100-Based Offerings;"
+publishedDateTime: 2022-09-20T16:18:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/09/g28935573/nvidia-hopper-in-full-production"
+webUrl: "https://www.benzinga.com/pressreleases/22/09/g28935573/nvidia-hopper-in-full-production"
+ampWebUrl: "https://www.benzinga.com/amp/content/28935573"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28935573"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: insidebigdata.com
-  domain: insidebigdata.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
@@ -246,6 +248,20 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 34
+  - title: "Aetina Announces Upcoming Edge AI Computers Powered by New NVIDIA Jetson Orin Nano for Use in Computer Vision Applications"
+    excerpt: "Aetina today introduced its upcoming NVIDIA® Jetson-based edge AI computers powered by Jetson Orin™ Nano system-on-modules (SOM) that have set a new baseline for entry-level edge AI and robotics, as announced during NVIDIA GTC."
+    publishedDateTime: 2022-09-20T18:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-aetina-announces-upcoming-edge-ai-computers-powered-new-/2022/09/20/9677437.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 28
+    images:
+      - url: "https://mma.prnewswire.com/media/1899916/Aetina_Announces_Upcoming_Edge_AI_Computers_Powered_New_NVIDIA_Jetson.jpg"
+        width: 400
+        height: 209
+        isCached: true
   - title: "ASUS Servers Announce AI Developments at NVIDIA GTC"
     excerpt: "ASUS, the leading IT company in server systems, server motherboards and workstations, today announced its presence at NVIDIA® GTC"
     publishedDateTime: 2022-09-21T13:12:00Z
@@ -265,6 +281,6 @@ related:
       domain: tmcnet.com
     quality: 19
 
-secured: "m8PzwdfUuP7wnZGyE/12jI3lWGdFc22gT0H6dnkZaKwKGDJdjqgl3zd63hiROcbv+ufa/TyGdDErvawIgYgRusV0IS7mLk4g0HhORdrvKbN1KMlNrKe7YGk4atWttwO0aDzqa2ofP6zjpTvho6h4sLRU8VbuxyeGNv38Yh9ndq3PK9rmMpPcYaMGnfNx5dXHyTm5vSQCZKcH8deLlpP4NXR94oWQfubnotG2n9n75R5yjlCnskzedLFrOWQ61MJeGZMgo2n7ZXh3D6IOmX1citbUhBXmqOnC55qL1dA4Yyjk2rP7oqErccdE9p7e6PKxXEOEYI4tQR1BSJxaQdWZ16PCn67ZJ+22iF5DwRInNHirHMTgVjNQJedZzLCxj1eeshhNLNS9HWLJCK7SzzZhLO/cvD/UeoO5siOApD6a+6n87UvJ+QZ+163UhemEm1qzTamFdZn5lWySgzSOSPRJv5LkofT8aBEEC51BbLNbkciuaTuDRKdbLWfQrTRMJkUDHT20EIlhQxmW3zyeVvQkMw==;oL80bCpu8FMqLgHCD1G5NA=="
+secured: "0xEoteCllulebHrPIW/0tK56trkA3swEqpsCF7CkSs0BBHMPy8SmEgKQYJRnEuUpRZHdRpmgiLSKbWtpWsDukY0uKuz/dIWFJx/CR7iA/AEPYPgIbadTXRom0DdMgO/6aTJDdfZmk8Adp17tlsJ0vqnH2UOq+rabVfa/JqnXPEX7xKyH2odVRtjhrWY4yfSXOxJOC/irLWRsb3xUyvPmOSXnF4K2ogp0ZTE2Wzs9v/HuBj6COz0Z6MWsqgJgF0FokgLHo7frOWSHWa+Bk9tCt1sD3lgmhlaer2miisG4RrSgQNtibgUMv0wOT662TRhaZG8I8V0Fi0wm1w5hnO+FP3c8ixtHJdqVimbNPRWMLWY=;80jWP5NaP/buL7yC7afBjg=="
 ---
 

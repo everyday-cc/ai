@@ -241,6 +241,31 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 34
+  - title: "Aetina Announces Upcoming Edge AI Computers Powered by New NVIDIA Jetson Orin Nano for Use in Computer Vision Applications"
+    excerpt: "Aetina today introduced its upcoming NVIDIA® Jetson-based edge AI computers powered by Jetson Orin™ Nano system-on-modules (SOM) that have set a new baseline for entry-level edge AI and robotics, as announced during NVIDIA GTC."
+    publishedDateTime: 2022-09-20T18:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-aetina-announces-upcoming-edge-ai-computers-powered-new-/2022/09/20/9677437.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 28
+    images:
+      - url: "https://mma.prnewswire.com/media/1899916/Aetina_Announces_Upcoming_Edge_AI_Computers_Powered_New_NVIDIA_Jetson.jpg"
+        width: 400
+        height: 209
+        isCached: true
+  - title: "NVIDIA Hopper in Full Production"
+    excerpt: "World's Leading Computer Makers Dell Technologies, HPE, Lenovo, Supermicro, Plus Cloud Service Providers AWS, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure Building H100-Based Offerings;"
+    publishedDateTime: 2022-09-20T16:18:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28935573/nvidia-hopper-in-full-production"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28935573"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28935573"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
   - title: "ASUS Servers Announce AI Developments at NVIDIA GTC"
     excerpt: "ASUS, the leading IT company in server systems, server motherboards and workstations, today announced its presence at NVIDIA® GTC"
     publishedDateTime: 2022-09-21T13:12:00Z
@@ -259,15 +284,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "NVIDIA Hopper in Full Production"
-    excerpt: "NVIDIA today announced that the NVIDIA H100 Tensor Core GPU is in full production, with global tech partners planning in October to roll out the first wave of products and services based on the groundbreaking NVIDIA Hopper™ architecture."
-    publishedDateTime: 2022-09-20T16:45:00Z
-    webUrl: "https://insidebigdata.com/2022/09/20/nvidia-hopper-in-full-production/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 4
 
 secured: "zlJZDI2900I7hCJV6gtvGBSmVb2hbMaPVQw01XSVRLyQ17zoNdlZFgmpRPrqKVbziYp+MZnayIl49HsbWTi2oyDy6e7i50JaQIM7CIB4D50/Ko4TdVxubfV+u/dEy4jJXsk916cDaN5YHweWO9HtbGXIRgcU/fehsd2glAOZk4rAFUqPch5q6nI/BFuqkGCaSsI5UkV2osyVQHgGkwz3eIcCkfb/w7HDdXKTGbH4MtOZpW8xBJtVRCYv2uvzMwyUU4J+dX0b3C4RzaxCmHcqvmwwowzf5q3RSYjOqsbBzCBYD9PLUTyvvvhQY238d0Cmg0TZUSKSz6C4IYxdhYtFUT/hmoTk3nRaRgOx71b5Hvs5DUozbAKCu5AZPyIrSv5qqDLyhG0J6ZN4DWVa8dezUHIRdNVyy5v4KcSB7VaB1aQABBzepokiHvr/PAERbN03rbuKBfefW9lTAGG+qR+FvEqtm1NoirD4iLkXsNEjIONAWzmBvDjiCLmfTevuHa3pNa3oteA1uwaPy8SfnJUI0A==;Gnu01hvOp6ocDBSL1GPTaQ=="
 ---

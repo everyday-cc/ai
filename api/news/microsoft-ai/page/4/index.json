@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-29-edge-computing-market-size-worth-13211-billion-by-2028-at-216-cagr-the-insight-partners.md",
+      "title": "Edge Computing Market Size Worth $132.11 Billion by 2028 at 21.6% CAGR | The Insight Partners",
+      "excerpt": "The Insight Partners published latest research study on \"Edge Computing Market Forecast to 2028 - COVID-19 Impact and Global Analysis",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/edge-computing-market-size-worth-132-11-billion-by-2028-at-21-6-cagr-the-insight-partners-839343495.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/edge-computing-market-size-worth-132-11-billion-by-2028-at-21-6-cagr-the-insight-partners-839343495.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1586348/The_Insight_Partners_Logo.jpg?p=facebook",
+          "width": 598,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story.md",
       "title": "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story",
       "excerpt": "New Jersey, NJ -- (SBWIRE) -- 08/29/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ...",
@@ -1289,40 +1332,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-cognitive-rehab-may-help-older-adults-clear-covid-related-brain-fog.md",
-      "title": "Cognitive rehab may help older adults clear COVID-related brain fog",
-      "excerpt": "It’s a suite of interventions designed to help people recover from brain injuries, if possible, and adapt to ongoing cognitive impairment. Services are typically provided by speech and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailynewsonline.com/news/publicservicenews/cognitive-rehab-may-help-older-adults-clear-covid-related-brain-fog/article_f58172b2-2819-5695-8081-6d6aef4f3104.html",
-      "originalUrl": "https://www.thedailynewsonline.com/news/publicservicenews/cognitive-rehab-may-help-older-adults-clear-covid-related-brain-fog/article_f58172b2-2819-5695-8081-6d6aef4f3104.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T01:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily News Online",
-        "domain": "thedailynewsonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 related:
   - title: "Machine Learning as a Service (MLaaS) Market Size to Grow at 32.88% CAGR During the Forecast Period of 2022-2027 | 118 Report Pages"

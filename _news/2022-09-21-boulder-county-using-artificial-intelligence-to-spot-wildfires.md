@@ -9,7 +9,7 @@ ampWebUrl: "https://www.9news.com/amp/article/news/local/wildfire/boulder-county
 cdnAmpWebUrl: "https://www-9news-com.cdn.ampproject.org/c/s/www.9news.com/amp/article/news/local/wildfire/boulder-county-artificial-intellegence-wildfires/73-9879cbf9-ad68-443c-8721-c8d5cf4b11a8"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -49,15 +49,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 16
-  - title: "Protein-designing AI could discover new cures and materials unknown to science"
-    excerpt: "University of Washington scientists have invented an AI tool called ProteinMPNN that allows them to design any proteins they can conceive of. The tool could lead to new cures and new materials."
-    publishedDateTime: 2022-09-18T13:42:00Z
-    webUrl: "https://interestingengineering.com/innovation/protein-ai-could-produce-new-cures-materials"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 13
 
 secured: "/KC2Dp3jcUtx0JQfORy40YJqi90ljUQoH5wgwr9KjfQL5W2eh5j3Hh0w6c82W4EEDq922N+E6h0dbKGgjO7l8l3wZAfyPcvBxHAHj5piDovjr2RMl7IUxIZIQUX/Sco3KOtJM/uPxVToJRevtYtcqv5oSaStnZUO3FjzodreU0tk1iOOatxJvNQyA5tZOvctaF9vxjar+E5uR60Ti4DwKQwpc/aayyPQWayMyruodRq25Bp8dYBMz2swVxmaJyuEWibbCwN65QXF4fNErNKMR7BHKBvXe3o9x5jAtKSZS4kOiIqsyMrlS9DaOYgwXsYW1mfud/1AB3p4N+C0/Q9sEAcINRPIO79CPjNvck40zxwxDl6KI7S/ObFes8V7EGE5GLquc3G+XP2TVYQA7oAGZcIQHR+aXrX+zQhC69oRMDY+BvoJskGeg78uC9XefBcpjdINeFbc4M0PwrnSZKywEapdSniw8KbR1CrnjY7Rny9z6lg3tBs98ZsxvoL9gFkxNBnD6MoB3BVhN4yYUA0Wpg==;hMJrKIWHOvsqf2RFKDJXcg=="
 ---

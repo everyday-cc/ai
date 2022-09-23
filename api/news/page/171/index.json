@@ -2,6 +2,351 @@
   "page": 171,
   "value": [
     {
+      "path": "_news/2022-05-12-how-10-skin-tones-will-reshape-googles-approach-to-ai.md",
+      "title": "How 10 Skin Tones Will Reshape Google’s Approach to AI",
+      "excerpt": "For years, the tech industry has relied on a six-shade scale to classify skin tones. The search giant’s open source alternative could change that.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/google-monk-skin-tone-scale-computer-vision-bias/",
+      "originalUrl": "https://www.wired.com/story/google-monk-skin-tone-scale-computer-vision-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/627bfb60a95c6a3c6c74ef4b/master/pass/Google-IO-Skin-Tone-Scale-Business-1258016046.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/google-monk-skin-tone-scale-computer-vision-bias/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-monk-skin-tone-scale-computer-vision-bias/amp",
+      "publishedDateTime": "2022-05-11T14:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-evisoft-embeds-ai-into-contract-management-software-raises-100m.md",
+      "title": "Evisoft embeds AI into contract management software, raises $100M",
+      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/11/evisoft-embeds-ai-into-contract-management-software-raises-100m/",
+      "originalUrl": "https://venturebeat.com/2022/05/11/evisoft-embeds-ai-into-contract-management-software-raises-100m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1185188027-e1651849778407.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/11/evisoft-embeds-ai-into-contract-management-software-raises-100m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/evisoft-embeds-ai-into-contract-management-software-raises-100m/amp/",
+      "publishedDateTime": "2022-05-11T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-google-io-to-build-better-ai-google-invites-others-to-join-its-ai-test-kitchen.md",
+      "title": "Google I/O: To build better AI, Google invites others to join its AI Test Kitchen",
+      "excerpt": "On Wednesday at Google I/O, the company showcased LaMDA 2. During the I/O keynote, Google CEO Sundar Pichai called it Google's \"most advanced conversational AI yet.\" The tech giant is working on LaMDA and other models to improve Search, Google Assistant ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-io-to-build-better-ai-google-invites-others-to-join-it-in-the-ai-test-kitchen/",
+      "originalUrl": "https://www.zdnet.com/article/google-io-to-build-better-ai-google-invites-others-to-join-it-in-the-ai-test-kitchen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ab8bcde7ffed4e3a8a481d1c210a436f8e1cc4fc/2022/05/11/30026320-f49f-45f7-95fb-5a5c47bb63d4/imagine-it.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1429,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-io-to-build-better-ai-google-invites-others-to-join-it-in-the-ai-test-kitchen/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-io-to-build-better-ai-google-invites-others-to-join-it-in-the-ai-test-kitchen/",
+      "publishedDateTime": "2022-05-11T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-trumps-voice-is-still-very-much-being-heard.md",
+      "title": "Trump’s voice is still very much being heard",
+      "excerpt": "Former President Donald Trump's influence is currently having a resurgence. Candidates he has endorsed are winning key GOP primaries. Candidates he had not endorsed are still swearing fealty to him. And he may soon get an important bullhorn back: The mute button placed on him by Twitter may be lifted.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/05/11/politics/trump-gop-influence-primary-elections-what-matters/index.html",
+      "originalUrl": "https://www.cnn.com/2022/05/11/politics/trump-gop-influence-primary-elections-what-matters/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220511101100-oz-trump-rally-pennsylvania-0506-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/05/11/politics/trump-gop-influence-primary-elections-what-matters/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/05/11/politics/trump-gop-influence-primary-elections-what-matters/index.html",
+      "publishedDateTime": "2022-05-11T13:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-ibm-think-2022-broad-array-of-ibm-software-catalog-now-available-as-saas-offerings-on-aws.md",
+      "title": "IBM Think 2022 – Broad array of IBM software catalog now available as SaaS offerings on AWS",
+      "excerpt": "IBM today announced it has signed a strategic collaboration agreement with AWS, with plans to offer a broad array of its software catalog as SaaS on AWS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/news/ibm-think-2022-broad-array-of-ibm-software-catalog-now-available-as-saas-offerings-on-aws/121646",
+      "originalUrl": "https://www.itbusiness.ca/news/ibm-think-2022-broad-array-of-ibm-software-catalog-now-available-as-saas-offerings-on-aws/121646",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2022/05/think-2022.jpg",
+          "width": 1372,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/news/ibm-think-2022-broad-array-of-ibm-software-catalog-now-available-as-saas-offerings-on-aws/121646?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/ibm-think-2022-broad-array-of-ibm-software-catalog-now-available-as-saas-offerings-on-aws/121646?amp=1",
+      "publishedDateTime": "2022-05-11T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-ai-50-methodology-how-we-selected-our-honorees.md",
+      "title": "AI 50 Methodology: How We Selected Our Honorees",
+      "excerpt": "he Forbes AI 50 list celebrates the most promising private companies in North America using artificial intelligence in impactful ways and demonstrating real business potential from doing so.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alanohnsman/2022/05/06/ai-50-methodology-how-we-selected-our-honorees/",
+      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2022/05/06/ai-50-methodology-how-we-selected-our-honorees/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62758b1f41e73f41953ddefe/0x0.jpg?format=jpg&crop=1920,1079,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2022/05/06/ai-50-methodology-how-we-selected-our-honorees/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2022/05/06/ai-50-methodology-how-we-selected-our-honorees/",
+      "publishedDateTime": "2022-05-11T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-therapy-with-a-robot-how-ai-could-help-those-struggling-with-mental-health.md",
+      "title": "Therapy with a robot? How AI could help those struggling with mental health",
+      "excerpt": "Mental health start-ups attracted $5.5 billion ... Health and Addictions Service Line. Could a robot, equipped with artificial intelligence, be far behind? Boyle still has obstacles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.app.com/story/news/health/2022/05/11/therapy-robot-mental-health-tech-nj-startup/9648028002/",
+      "originalUrl": "https://www.app.com/story/news/health/2022/05/11/therapy-robot-mental-health-tech-nj-startup/9648028002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2022/05/06/PAPP/059d41c7-2411-4867-bed2-d8dd3ba24205-050622-MarcoMentalHealthRobot02.JPG?auto=webp&crop=4813,2708,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-11T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "app.com",
+        "domain": "app.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-google-workspace-suite-to-gain-7-new-ai-tools-for-usability-security.md",
       "title": "Google Workspace Suite To Gain 7 New AI Tools For Usability & Security",
       "excerpt": "Google is expanding its use of AI in Workspace in a bid to improve the usability and security of its services. That's based on a recent announcement from",
@@ -846,326 +1191,6 @@
         "AI",
         "Google AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-never-scoop-poop-again-with-the-sleek-brilliantly-designed-litter-robot-4.md",
-      "title": "Never scoop poop again with the sleek, brilliantly designed Litter-Robot 4",
-      "excerpt": "Designed with community feedback in mind, the latest Litter-Robot is all about improving on all the pain points from previous models – notably it’s less noisy, bulky and smelly. Ahead, everything to know about the Litter-Robot 4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/cnn-underscored/reviews/litter-robot-4-review",
-      "originalUrl": "https://www.cnn.com/cnn-underscored/reviews/litter-robot-4-review",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/litter-robot-4-review-lead.jpg?q=h_899,w_1601,x_0,y_0",
-          "width": 1601,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/cnn-underscored/reviews/litter-robot-4-review",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/reviews/litter-robot-4-review",
-      "publishedDateTime": "2022-05-11T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws.md",
-      "title": "IBM signs collaboration agreement with Amazon, SaaS offerings soon available on AWS",
-      "excerpt": "Inc. (AWS). According to a statement from IBM, this latest partnership will provide IBM clients access to automation, security, artificial intelligence, and data capabilities through IBM Cloud ...",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws/",
-      "originalUrl": "https://wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2021/09/happyfourth-1-5.jpg",
-          "width": 6000,
-          "height": 4000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws/?amp=1",
-      "publishedDateTime": "2022-05-11T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-rise-of-the-machine-learning-engineer-elizabeth-hutton-cisco.md",
-      "title": "Rise Of The Machine Learning Engineer: Elizabeth Hutton, Cisco",
-      "excerpt": "Elizabeth Hutton is the lead machine learning engineer at the Cisco Webex Contact Center AI team, where she leads building in-house AI solutions from research and development to production. In this wide-ranging interview,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/11/rise-of-the-machine-learning-engineer-elizabeth-hutton-cisco/",
-      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/11/rise-of-the-machine-learning-engineer-elizabeth-hutton-cisco/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/627ad6b441bf5cd8d22d9aca/0x0.jpg?format=jpg&width=1200",
-          "width": 500,
-          "height": 343,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/11/rise-of-the-machine-learning-engineer-elizabeth-hutton-cisco/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/05/11/rise-of-the-machine-learning-engineer-elizabeth-hutton-cisco/amp/",
-      "publishedDateTime": "2022-05-11T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-intel-upgrades-for-ai-wars-with-habana-designed-server-chip.md",
-      "title": "Intel Upgrades for AI Wars with Habana-Designed Server Chip",
-      "excerpt": "The 7-nm Habana-designed Gaudi2 is twice as fast as its first-generation predecessor, according to the company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21241150/electronic-design-intel-upgrades-for-ai-wars-with-habanadesigned-server-chip",
-      "originalUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21241150/electronic-design-intel-upgrades-for-ai-wars-with-habanadesigned-server-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/05/Habana_Gaudi2_Card.627aa84f05a13.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-11T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronic Design",
-        "domain": "electronicdesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-driverless-cars-will-need-l-plates-or-flashing-lights-to-combat-widespread-fear-and-distrust-report-finds.md",
-      "title": "Driverless cars will need ‘L-plates or flashing lights’ to combat widespread fear and distrust, report finds",
-      "excerpt": "Scientists find public appetite for self-driving vehicle trails far behind that of the technology companies and steps need to be taken to make them a success",
-      "sourceUrl": null,
-      "webUrl": "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=more_from_this_author",
-      "originalUrl": "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=more_from_this_author",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.inews.co.uk/content/uploads/2022/05/SEI_103377065-1200x630-pl-exclusive.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=more_from_this_author",
-      "cdnAmpWebUrl": "https://inews-co-uk.cdn.ampproject.org/c/s/inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=more_from_this_author",
-      "publishedDateTime": "2022-05-11T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "i",
-        "domain": "inews.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study.md",
-      "title": "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study",
-      "excerpt": "These continued benefits of the partnership were also highlighted by the TEI study interviewees who shared positive feedback about feature integrations, including SAS Model Manager and Azure Machine Learning, SAS Intelligent Decisioning and Power Apps and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-x0av2kla",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-x0av2kla",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-11T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-deci-deep-learning-platform-aims-to-ease-ai-application-development.md",
-      "title": "Deci deep-learning platform aims to ease AI application development",
-      "excerpt": "Using Deci, the company says, AI developers can achieve improved inference performance and efficiency to enable effective deployments on resource-constrained edge devices, maximize hardware use and reduce training and inference cost.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/11/deci-deep-learning-platform-aims-to-ease-ai-application-development/",
-      "originalUrl": "https://venturebeat.com/2022/05/11/deci-deep-learning-platform-aims-to-ease-ai-application-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/ai_development.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/11/deci-deep-learning-platform-aims-to-ease-ai-application-development/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/deci-deep-learning-platform-aims-to-ease-ai-application-development/amp/",
-      "publishedDateTime": "2022-05-11T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Computer Vision"
       ]
     }
   ],

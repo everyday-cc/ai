@@ -95,6 +95,20 @@ related:
         width: 1500
         height: 800
         isCached: true
+  - title: "Supermicro Announces NVIDIA H100 GPU Systems"
+    excerpt: "Super Micro Computer, Inc. (SMCI), a enterprise computing, GPUs, storage, networking solutions and green computing technology company, announced 20 NVIDIA-certified systems options with NVIDIA H100 PCI-E and NVIDIA H100 SXM GPUs,"
+    publishedDateTime: 2022-09-21T19:21:00Z
+    webUrl: "https://insidehpc.com/2022/09/supermicro-announces-nvidia-h100-gpu-systems/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2022/08/generic-machine-learning-AI-deep-learning-data-shutterstock-583242211.jpg"
+        width: 690
+        height: 460
+        isCached: true
   - title: "Nvidia rises as chip giant unveils new high-end RTX, GeForce graphics cards at GTC event"
     excerpt: "Nvidia (NVDA) shares rose on Tuesday as the semiconductor giant unveiled a new high-end RTX GPU and GeForce GPUs at its GTC conference.The Jensen Huang led-Nvidia (NVDA) unveiled"
     publishedDateTime: 2022-09-20T16:52:00Z
@@ -109,15 +123,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Supermicro Announces NVIDIA H100 GPU Systems"
-    excerpt: "Super Micro Computer, Inc. (SMCI), a enterprise computing, GPUs, storage, networking solutions and green computing technology company, announced 20 NVIDIA-certified systems options with NVIDIA H100 PCI-E and NVIDIA H100 SXM GPUs,"
-    publishedDateTime: 2022-09-21T19:21:00Z
-    webUrl: "https://insidehpc.com/2022/09/supermicro-announces-nvidia-h100-gpu-systems/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 19
 
 secured: "63iej9BQes9/8DDC6xZ975h2Cvh02lLPv9puCubmj4hdglwQYK/3xpIHDiuVqLTDRdshmDFtXDBGdgh+nwBJMK9DoTTBRInrRPp+yw5XqONnnP9LBD83JIjQql0WI2KDfoCSc3SDh0qqoVhwLCmftZh8YtTA4dr/wfHANB2K22PVf5/pD5PbBZslZfe+rBnKbBhdkmgqi4OhnH9IxYWHIjEXh5Z8TNMCyb5whjviEuGDth1vqxrALUNPtP7h55Wh96pwe1bhhHFFYbnvGdOUMxyf0xKTqCT+DgwvMdhDQ3RGOuN7Nuuk5DaVrBg2wPoGfFphxWJAYNsBIph2IKPvNp/WCTB7Pghj+WnbsKBN3VU=;Qd1tGUT+adV0VeuuIJ8KDg=="
 ---

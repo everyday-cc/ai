@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-05-is-big-brother-britain-about-to-become-the-worlds-ultimate-surveillance-state.md",
+      "title": "Is Big Brother Britain about to become the world's ultimate surveillance state?",
+      "excerpt": "Made by Dahua, a Chinese state-affiliated company, they are equipped with controversial facial recognition software — a means of monitoring and controlling populations much favoured by Beijing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-11179641/Is-Big-Brother-Britain-worlds-ultimate-surveillance-state.html",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-11179641/Is-Big-Brother-Britain-worlds-ultimate-surveillance-state.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/09/05/00/62053565-0-image-a-21_1662334745315.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-11179641/amp/Is-Big-Brother-Britain-worlds-ultimate-surveillance-state.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11179641/amp/Is-Big-Brother-Britain-worlds-ultimate-surveillance-state.html",
+      "publishedDateTime": "2022-09-04T17:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-04-how-lord-of-the-rings-used-ai-to-change-big-screen-battles-forever.md",
       "title": "How 'Lord of the Rings' Used AI to Change Big-Screen Battles Forever",
       "excerpt": "Massive software has spawned armies of artificially intelligent crowds, from Lord of the Rings to Avengers: Endgame.",
@@ -1389,40 +1432,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-automotive-artificial-intelligence-market-worth-70-billion-by-2027-exclusive-report-by-marketsandmarkets.md",
-      "title": "Automotive Artificial Intelligence Market worth $7.0 Billion by 2027 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "Automotive Artificial Intelligence market size is projected to grow from USD 2.3 Billion in 2022 to USD 7.0 Billion by 2027; it is expected to grow at a CAGR of 24.1% from 2022 to 2027, according to a new report by MarketsandMarkets™.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/08/24/9661661.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/08/24/9661661.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

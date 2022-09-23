@@ -378,6 +378,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-16-raleigh-startup-diveplane-aims-to-make-ai-ethical-we-asked-its-ceo-what-that-means.md",
+      "title": "Raleigh startup Diveplane aims to make AI ethical. We asked its CEO what that means.",
+      "excerpt": "Raleigh startup Diveplane aims to make AI ethical. We asked its CEO what that means. Diveplane In today’s world, artificial intelligence is used to make some big decisions. Colleges rely on it ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/raleigh-startup-diveplane-wants-ai-094500003.html",
+      "originalUrl": "https://www.aol.com/raleigh-startup-diveplane-wants-ai-094500003.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/.qzOPpJteHDwkFA_4xTX.Q--~B/aD04NTU7dz0xMTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/aol_raleigh_news_and_observer_mcclatchy_356/c29d40aa413655cd1596c0262937ea86",
+          "width": 1140,
+          "height": 855,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-16T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-10-years-later-deep-learning-revolution-rages-on-say-ai-pioneers-hinton-lecun-and-li.md",
       "title": "10 years later, deep learning ‘revolution’ rages on, say AI pioneers Hinton, LeCun and Li",
       "excerpt": "On the 10th anniversary of key research that led to deep learning breakthroughs, AI luminaries say the 'revolution' will continue.",
@@ -1319,49 +1362,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact.md",
-      "title": "Singapore looks to drive AI research, capabilities with Google Cloud pact",
-      "excerpt": "Touted as the Singapore government's first private-sector partnership in artificial intelligence, the collaboration will see both sides jointly develop and testbed applications as well as work on issues pertaining to AI governance and ethics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
-      "originalUrl": "https://www.zdnet.com/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
-      "publishedDateTime": "2022-08-22T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

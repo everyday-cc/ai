@@ -2,6 +2,51 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-08-09-is-artificial-intelligence-better-than-human-brain.md",
+      "title": "Is Artificial Intelligence better than human brain?",
+      "excerpt": "Machines are digital, but human brain is analogous and cannot be replaced by technology Digitisation, automation, high-performance robots … everyday, advertisements in media anticipate the great disruption and replacement of humans by Artificial Intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/opinion/op-eds/is-artificial-intelligence-better-than-human-brain-1.89796556",
+      "originalUrl": "https://gulfnews.com/opinion/op-eds/is-artificial-intelligence-better-than-human-brain-1.89796556",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2022/06/15/OPN-Artificial-Intelligence_18166c197a7_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/opinion/op-eds/is-artificial-intelligence-better-than-human-brain-1.89796556",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/opinion/op-eds/is-artificial-intelligence-better-than-human-brain-1.89796556",
+      "publishedDateTime": "2022-08-08T23:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-08-09-sam-weitzman-makes-pools-safer-and-easier-to-maintain-using-advanced-artificial-intelligence.md",
       "title": "Sam Weitzman Makes Pools Safer and Easier To Maintain Using Advanced Artificial Intelligence",
       "excerpt": "In this episode, we are joined by Sam Weitzman, the Founder, and CEO of Deep Innovations, which develops cutting-edge cloud-based technology, artificial intelligence, and computer vision to create various value-add applications.",
@@ -1325,49 +1370,6 @@
       "provider": {
         "name": "Hackaday",
         "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-diagnostic-robotics-raises-45m-series-b.md",
-      "title": "Diagnostic Robotics raises $45M Series B",
-      "excerpt": "Israel-based Diagnostic Robotics announced recently that it has closed a $45 million Series B financing round.",
-      "sourceUrl": null,
-      "webUrl": "https://www.massdevice.com/diagnostic-robotics-raises-45m-series-b/",
-      "originalUrl": "https://www.massdevice.com/diagnostic-robotics-raises-45m-series-b/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.massdevice.com/wp-content/uploads/2022/08/Diagnostic-Robotics-Logo.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MassDevice",
-        "domain": "massdevice.com",
         "images": null,
         "publishers": null,
         "authors": null

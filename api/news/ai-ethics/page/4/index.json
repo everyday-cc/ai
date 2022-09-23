@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-30-ai-made-these-stunning-images-heres-why-experts-are-worried.md",
+      "title": "AI made these stunning images. Here's why experts are worried",
+      "excerpt": "A million bears walking on the streets of Hong Kong. A strawberry frog. A cat made out of spaghetti and meatballs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/06/30/tech/openai-google-realistic-images-bias/index.html",
+      "originalUrl": "https://www.cnn.com/2022/06/30/tech/openai-google-realistic-images-bias/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220607143256-google-imagen-corgi-house-of-sushi-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/06/30/tech/openai-google-realistic-images-bias/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/30/tech/openai-google-realistic-images-bias/index.html",
+      "publishedDateTime": "2022-06-30T05:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-30-ai-ethics-should-be-hardcoded-like-security-by-design.md",
       "title": "AI ethics should be hardcoded like security by design",
       "excerpt": "With security by design essential to ensure IT systems are built to be robust from development, the same approach should be applied to artificial intelligence tools so these can be deployed responsibly and without bias,",
@@ -1388,58 +1440,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-what-ai-developers-need-to-know-about-artificial-intelligence-ethics.md",
-      "title": "What AI developers need to know about artificial intelligence ethics",
-      "excerpt": "but tools and platforms alone won't deliver ethical AI solutions. If only there were tools that could build ethics into artificial intelligence applications. Developers and IT teams are under a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/?taid=62a84e1a7385bc0001a68c26&amp;amp;amp",
-      "originalUrl": "https://www.zdnet.com/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/?taid=62a84e1a7385bc0001a68c26&amp;amp;amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/825e0a5977002cfb4804f00cf03be8ad201e1374/2022/06/11/92a5fa08-c082-4171-99ba-bf4646d6f597/buildings-with-rose-new-york-city-march-2021-photo-by-joe-mckendrick.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Sopra Steria and Algoan Strengthen Their Partnership to Accelerate Financial Inclusion"
-excerpt: "Sopra Steria, via Sopra Steria Ventures, has invested in Algoan, the leading French fintech in API-based credit scoring. Sopra Banking Software (SBS), a key technology partner to more than 1,500 financial institutions worldwide,"
+excerpt: "Sopra Steria, via Sopra Steria Ventures, has invested in Algoan, the leading French fintech in API-based credit scoring. Sopra Banking Software (SBS), a key technology partner to more than 1,500 finan"
 publishedDateTime: 2022-09-21T19:39:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-21-sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-21-sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion"
+originalUrl: "https://www.benzinga.com/pressreleases/22/09/b28955676/sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion"
+webUrl: "https://www.benzinga.com/pressreleases/22/09/b28955676/sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion"
+ampWebUrl: "https://www.benzinga.com/amp/content/28955676"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28955676"
 type: article
-quality: 0
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
@@ -34,6 +36,6 @@ related:
         height: 250
         isCached: true
 
-secured: "WrBJmt8NXSdnKCQCjKmPiiGODaBo42t2Hbn7yLjQAIS+0WLPZULnrFPBXwqqfzqpwAK2Orx3a0uUIQ2ou/g4unBXvMsu5jOM4NdTD+rwc8FfhyxpZZJ0LxDyDjbxVB8kOWWPbKKk+CunvM8B4ov5++ceYkv6d44F8uoA8G9I3acwGBK2ghtxr9mkxOT7zXk2xfs4hcS29nI526AFvPxeanAmUb0RqBz3YGMVsXNz/ZSpDncn0kPYmEaXPUasxCveqYhajNbj/PKZF98AIzGStTgmMNMF5YFuEb+aW5NapOKbxhKqe+rkY6OfQDApUrmQOcwh+/xUNIE4lvCpO5mNagCJzGDjSuT0j/OCkA8/s7c=;Nq5p/LKg37zaRnRAyWU7UA=="
+secured: "zlY+lhaC5KYfAOTcWGHTrkbdIFqEyV6Nr6bMC8FoGi898imoTo+IvmdhfdZjuWfw9qsueILDM1wz0PVNBFLtOm5S1ANlugAFci8q8xtFzVvoK1jwsulHCKr7llB4cgoIonL9Xx4HsKtj6+kVJ09hpY8vNn0LW/3s94oQgtdU8+t65OfDPQJa1w6Fd7gm0fkRfykJgTlNq5kYWrVmeUTG9tRamPi17yDaeXBCqdmqC5U25HgJuXFJRpZAKorZJ/x6pO8lZJiG7iFW9VKR1+C7fcRPF6ndolk5XwGDvzaAgw0gicYfCbM14pZfDk8PipqpwxMdt96jA/fBj5MeMf/o7do8ln8dYiKmBXx6cTLN7sY=;G8xVhG9m7Pqp5nvWn44e/w=="
 ---
 

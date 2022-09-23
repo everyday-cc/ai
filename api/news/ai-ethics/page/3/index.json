@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-25-google-fires-engineer-who-contended-its-ai-technology-was-sentient.md",
+      "title": "Google fires engineer who contended its AI technology was sentient",
+      "excerpt": "By Ramishah Maruf, CNN Google has fired the engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies. Blake Lemoine,",
+      "sourceUrl": null,
+      "webUrl": "https://kvia.com/news/business-technology/cnn-social-media-technology/2022/07/25/google-fires-engineer-who-contended-its-ai-technology-was-sentient-2/",
+      "originalUrl": "https://kvia.com/news/business-technology/cnn-social-media-technology/2022/07/25/google-fires-engineer-who-contended-its-ai-technology-was-sentient-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kvia.b-cdn.net/2022/07/hypatia-h_8da5d951d422b8ac6fd01710aada6e11-h_ebfd1759e4ec32c74d3df4ef3960b773-300-scaled.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-25T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KVIA",
+        "domain": "kvia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-25-ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation.md",
       "title": "AI Ethics Struggling With The Fiery One-Two Punch Of Both AI-Based Autonomous Weapons Systems And The Exploitation...",
       "excerpt": "AI Ethics dealing with autonomous weapons systems along with autonomous systems that perchance are later weaponized. It's a worldwide and quite sobering concern.",
@@ -1385,58 +1428,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-ai-made-these-stunning-images-heres-why-experts-are-worried.md",
-      "title": "AI made these stunning images. Here's why experts are worried",
-      "excerpt": "A million bears walking on the streets of Hong Kong. A strawberry frog. A cat made out of spaghetti and meatballs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/06/30/tech/openai-google-realistic-images-bias/index.html",
-      "originalUrl": "https://www.cnn.com/2022/06/30/tech/openai-google-realistic-images-bias/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220607143256-google-imagen-corgi-house-of-sushi-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/06/30/tech/openai-google-realistic-images-bias/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/30/tech/openai-google-realistic-images-bias/index.html",
-      "publishedDateTime": "2022-06-30T05:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

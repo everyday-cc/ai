@@ -86,6 +86,20 @@ related:
         width: 1500
         height: 800
         isCached: true
+  - title: "Supermicro Announces NVIDIA H100 GPU Systems"
+    excerpt: "Super Micro Computer, Inc. (SMCI), a enterprise computing, GPUs, storage, networking solutions and green computing technology company, announced 20 NVIDIA-certified systems options with NVIDIA H100 PCI-E and NVIDIA H100 SXM GPUs,"
+    publishedDateTime: 2022-09-21T19:21:00Z
+    webUrl: "https://insidehpc.com/2022/09/supermicro-announces-nvidia-h100-gpu-systems/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2022/08/generic-machine-learning-AI-deep-learning-data-shutterstock-583242211.jpg"
+        width: 690
+        height: 460
+        isCached: true
   - title: "Nvidia rises as chip giant unveils new high-end RTX, GeForce graphics cards at GTC event"
     excerpt: "Nvidia (NVDA) shares rose on Tuesday as the semiconductor giant unveiled a new high-end RTX GPU and GeForce GPUs at its GTC conference.The Jensen Huang led-Nvidia (NVDA) unveiled"
     publishedDateTime: 2022-09-20T16:52:00Z
@@ -100,15 +114,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Supermicro Announces NVIDIA H100 GPU Systems"
-    excerpt: "Super Micro Computer, Inc. (SMCI), a enterprise computing, GPUs, storage, networking solutions and green computing technology company, announced 20 NVIDIA-certified systems options with NVIDIA H100 PCI-E and NVIDIA H100 SXM GPUs,"
-    publishedDateTime: 2022-09-21T19:21:00Z
-    webUrl: "https://insidehpc.com/2022/09/supermicro-announces-nvidia-h100-gpu-systems/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 19
   - title: "NVIDIA Announces OVX Computing Systems - the Graphics and Simulation Foundation for the Metaverse - Powered by Ada Lovelace GPU"
     excerpt: "NVIDIA today announced the second generation of NVIDIA OVX™, powered by the NVIDIA Ada Lovelace GPU architecture and enhanced networking technology, to deliver groundbreaking real-time graphics, AI and digital twin simulation capabilities."
     publishedDateTime: 2022-09-20T17:55:00Z

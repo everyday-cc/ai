@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Clearview AI, Used by Police to Find Criminals, Now in Public Defenders’ Hands"
-    excerpt: "After a Florida man was accused of vehicular homicide, his lawyer used Clearview AI’s facial recognition software to prove his innocence. But other defense lawyers say Clearview’s offer rings hollow."
-    publishedDateTime: 2022-09-18T15:00:00Z
-    webUrl: "https://www.nytimes.com/2022/09/18/technology/facial-recognition-clearview-ai.html"
-    ampWebUrl: "https://www.nytimes.com/2022/09/18/technology/facial-recognition-clearview-ai.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/09/18/technology/facial-recognition-clearview-ai.amp.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 83
-    images:
-      - url: "https://static01.nyt.com/images/2022/09/18/business/18clearview/merlin_213002715_2c63bec8-2f01-4ec2-bfa5-2a48a70905d9-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Clearview AI Launches JusticeClearview, First Facial Recognition Product for Public Defenders Seeking Justice"
     excerpt: "Clearview AI, the leading facial recognition technology company that provides photo identification technology to help solve crimes has announced the launch of JusticeClearview, a first-of-its-kind product designed specifically for public defenders seeking justice for the wrongfully accused."
     publishedDateTime: 2022-09-20T10:00:00Z

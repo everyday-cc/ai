@@ -7,7 +7,7 @@ originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-clearview-ai-launches-justiceclearview-first-facial-recognition-product-for-public-defenders-seeking-justice"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Clearview AI, Used by Police to Find Criminals, Now in Public Defenders’ Hands"
-    excerpt: "After a Florida man was accused of vehicular homicide, his lawyer used Clearview AI’s facial recognition software to prove his innocence. But other defense lawyers say Clearview’s offer rings hollow."
-    publishedDateTime: 2022-09-18T15:00:00Z
-    webUrl: "https://www.nytimes.com/2022/09/18/technology/facial-recognition-clearview-ai.html"
-    ampWebUrl: "https://www.nytimes.com/2022/09/18/technology/facial-recognition-clearview-ai.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/09/18/technology/facial-recognition-clearview-ai.amp.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 83
-    images:
-      - url: "https://static01.nyt.com/images/2022/09/18/business/18clearview/merlin_213002715_2c63bec8-2f01-4ec2-bfa5-2a48a70905d9-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Clearview facial recognition used to exonerate suspect on trial over traffic fatality"
     excerpt: "Clearview AI gave defense attorneys in a vehicular homicide case access to its technology—and helped the defendant, who was innocent, avoid the slammer."
     publishedDateTime: 2022-09-19T19:14:00Z

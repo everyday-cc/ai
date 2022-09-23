@@ -1,27 +1,29 @@
 ---
 category: news
 title: "EXPLAINER: Key points from Vladimir Putin's call-up speech"
-excerpt: "Speaking from a wood-paneled operation room, Russian President Vladimir Putin issued another stern warning to the West on Wednesday after his country’s military suffered a series of embarrassing setbacks in Ukraine."
-publishedDateTime: 2022-09-21T23:00:00Z
-originalUrl: "https://www.houstonchronicle.com/news/article/EXPLAINER-Key-points-from-Vladimir-Putin-s-17457280.php"
-webUrl: "https://www.houstonchronicle.com/news/article/EXPLAINER-Key-points-from-Vladimir-Putin-s-17457280.php"
+excerpt: "Russian President Vladimir Putin has issued another grave warning to the West after his country’s military suffered a series of embarrassing setbacks in Ukraine"
+publishedDateTime: 2022-09-21T18:40:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/explainer-key-points-vladimir-putins-call-speech-90278031"
+webUrl: "https://abcnews.go.com/Politics/wireStory/explainer-key-points-vladimir-putins-call-speech-90278031"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/explainer-key-points-vladimir-putins-call-speech-90278031"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/explainer-key-points-vladimir-putins-call-speech-90278031"
 type: article
-quality: 39
-heat: -1
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/27/43/74/22953731/3/rawImage.jpg"
-    width: 2048
-    height: 1365
+  - url: "https://s.abcnews.com/images/International/WireAP_1630e59b6a0e46999f9c17ff27746804_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -42,6 +44,6 @@ related:
         height: 636
         isCached: true
 
-secured: "pCKZHHJLgbeCag0DB8wW5OU2inOcgSxA5eq1ZTpMCm3NaJjCkZ2xzrYCevS6prSSAPiveTdT/p0SPKla5cAqwYFkY1pePHSP7anc+viqs99SwGjeHo4IYONc+FKolhIXGDUguRbCUaU1ks9wbbBET7Ehol/IHFCWaovHihqC3VgtFM1Lgq9AjHXvfXSTU/sHahxquqp/kU/zL6Mi+AbiSNmnLQdJvFYCPvemeUizuay3lzttI0zkrudMc4D0lKGDkwjUd34LtVUWuXaKrVRjF3yddbVmHTU6l4FtM8yfgdA8kBwVtgvmhimqSLENm5bEBQOkJpwJcnWYLOJqf/jYtooMyUwfJEfkAKd5evHDOrc=;JC2iV9f8MNU67I8+sAxPVw=="
+secured: "5mGgMkjm/KRwGixeiDAtkyuLl6C/UYs+a4MIj6Gps5JOFathIinxVn1Bn9GgDPHieq3RAsKhoZIrNOEVhyq1zN+CSsKNodaLnvaUgz5smw9cQXp0O3KyEExcjr2z+AhE/70vuUIeE2e/mCJILv0iFOpFB3CwbYITUJmwVlji3w9owoYevm1f8lRN0akEAqR7W8WMiET3CpkS+I4BtjWQZKAtdKQEby5VbCT4qSDvrTCrnqRHgeLMLGhgYHDhvD8aLxNdJqNinuJacLeR9C0RNrgm3ILyv+t+imhbErg/PAfEcZ9z9Sfob2KVDkOsDAVy8Gv6HYDJHIOJLkhpNuprWmGuaugK6/wxspsPTVSBU4U=;UeM44SyB9/wS7s5dZ6hW+A=="
 ---
 

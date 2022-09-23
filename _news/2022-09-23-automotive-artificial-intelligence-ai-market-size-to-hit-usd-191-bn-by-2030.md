@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artif
 ampWebUrl: "https://www.benzinga.com/amp/content/28977012"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28977012"
 type: article
-quality: 48
-heat: 48
+quality: 52
+heat: 62
 published: false
 
 provider:
@@ -18,6 +18,8 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - AI in Healthcare
 
 related:
   - title: "Artificial Intelligence (AI) In Retail Market to Hit $40.74 Billion by 2030: Grand View Research, Inc."

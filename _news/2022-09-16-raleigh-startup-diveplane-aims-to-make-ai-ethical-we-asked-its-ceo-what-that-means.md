@@ -1,25 +1,26 @@
 ---
 category: news
 title: "Raleigh startup Diveplane aims to make AI ethical. We asked its CEO what that means."
-excerpt: "Diveplane announced this week it raised $25 million in Series A funding, positioning the company to add jobs, clients."
-publishedDateTime: 2022-09-16T16:29:00Z
-originalUrl: "https://www.heraldsun.com/news/business/article265865286.html"
-webUrl: "https://www.heraldsun.com/news/business/article265865286.html"
-ampWebUrl: "https://amp.heraldsun.com/news/business/article265865286.html"
-cdnAmpWebUrl: "https://amp-heraldsun-com.cdn.ampproject.org/c/s/amp.heraldsun.com/news/business/article265865286.html"
+excerpt: "Raleigh startup Diveplane aims to make AI ethical. We asked its CEO what that means. Diveplane In today’s world, artificial intelligence is used to make some big decisions. Colleges rely on it ..."
+publishedDateTime: 2022-09-16T10:05:00Z
+originalUrl: "https://www.aol.com/raleigh-startup-diveplane-wants-ai-094500003.html"
+webUrl: "https://www.aol.com/raleigh-startup-diveplane-wants-ai-094500003.html"
 type: article
-quality: 47
-heat: 47
-published: false
 
 provider:
-  name: The Herald-Sun
-  domain: heraldsun.com
+  name: AOL
+  domain: aol.com
 
 topics:
-  - AI Ethics
   - AI
+  - AI Ethics
 
-secured: "K51F8UDdeS52XGZ5qFsJu7pdzEaNuVq9SM/XgVQlA74/4TZVd9xIJ75r2kPDjApEziRm3hMbctrpXpuc8e+bdKWGRNvw+T8ayKm6rbBhoJBAJuy+imT/bgBnaScDOSqklLgyTXgVaQIL+zgwwk1RQ2UBNLyHt2apw5xNFe4sdbE08+w8oq4EW3mF8gY02a0ii07EHohoimLYOWRRSViZHhptwFJ5w50cGfMb6FzRBzO4G4M3FUqarjzu3Hp85AjFt+K+m3H8TCW1s71YfRvL7qMQGGjFmr+SFVp4cdiXEs4EERIE2limjf0AqqIn+3fWdZ1d8FY69NcWBwah53LPHdEZpSKHWNiHA+mnsV9GfvI=;iY+CRtXFNCnTGW67CVI2qA=="
+images:
+  - url: "https://s.yimg.com/uu/api/res/1.2/.qzOPpJteHDwkFA_4xTX.Q--~B/aD04NTU7dz0xMTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/aol_raleigh_news_and_observer_mcclatchy_356/c29d40aa413655cd1596c0262937ea86"
+    width: 1140
+    height: 855
+    isCached: true
+
+secured: "O9ppjd55T2TxM/sXrONBSBYQgC6BNKcvN1B2slC6NlUvQt4ILxu19Js3IUfkdbPfB5JNxxdc1D6Ge/ecSbFrtoxzDUdR7biyxjgPdc79w53JU1Y9+AP3bn8DfQNB+MFtVcSjVctOTVKDWwF+Gfhk9XClFwtjfqax7HnGilmK0yrFtDqYyAKGKPOSPQvo7WECpw4MTLKKJEOg2FC5dai9pn6YKH4TA6WZmlctTabelKmMbODiGBvDiuc+AmOkWfNDUNIhkSl2fhfr1PRB3uanHgMlamE9VKa5dCF9BL6xi3CZz7j2fCS6ncdHAEUrPEfIoC5znVrIec9Sa1ZBtFbPQ2fuQkJWECa/HqH+0o1TNy8=;POlo6D/Z35+sT+V1c+9crA=="
 ---
 

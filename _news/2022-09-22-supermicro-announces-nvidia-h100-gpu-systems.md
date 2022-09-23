@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-21T19:21:00Z
 originalUrl: "https://insidehpc.com/2022/09/supermicro-announces-nvidia-h100-gpu-systems/"
 webUrl: "https://insidehpc.com/2022/09/supermicro-announces-nvidia-h100-gpu-systems/"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://insidehpc.com/wp-content/uploads/2022/08/generic-machine-learning-AI-deep-learning-data-shutterstock-583242211.jpg"
+    width: 690
+    height: 460
+    isCached: true
 
 related:
   - title: "NVIDIA gives updates on new GPU technologies at GTC conference"
@@ -119,6 +125,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "KUWO0uFf/p1ofBFCwcbABR2bD/daGWC+QzNoBkpFxn5Pu3AaHygi0GjOuIVxSJqEcwk90prC5LRTEPDbqOeVUfpST/m/4Oz5Y2Fq/aJitvAgQF78rja7l0rNwbrPb+l2u7hsAKJ2I8qloarFxPSXvkPXNzbcESu9dbx/2WNjjtOCY2n022n3c3ItjKh+Gd2ty/oWW23i7+AB+yXVvEht1OSf5rD8cJem0xb0JX0XllMzyNwS5ziGnmqdyBBiddI0dlELikQGiZk5bdT9NQpY3PzIVl3AXGnJIM19hNy3MEhPt8RAu6z9FRh4aaGZ9NvQyR6Uk7dPHg7wZyEGGpzTnRFUX9opg0sDrpYYijAQdvI=;eB1VjACSf0esLIxd31jDjA=="
+secured: "SOdTVPBLSHL0gdqCSXI1c+/MV0mbvF6nhA7vdT97zdvYpy3RCb7V1KNn1EVgMJ502LfbkHKdMg9F0hlID9FqWmA+4XQ/GPtXK+3IKkhGnQtvEYM0W1recp7hefXw1/MFReV5FBsVh9blV2mK1xQkXqLny5/hclO/zn+CUMRc3LDdvNfq5mBvOQrp7yXDhRLKhtiHSlkFeXGGJqPyoK5VJ2P0b07DeGEmAKltZfvWOvo+OcNkLxMKrjOGBDrDGD3tMtZldSo9XSsptjc0vMt21rsQB26X3XXQC1TN+WgCgGMMX2elqZJTOXpz88WPsDFJCQY5N30YlQSRPf563F5bYf7EFbj5GMSgTpGQqLoU7/M=;qbYhON5+/59wXbHyiFNVaA=="
 ---
 

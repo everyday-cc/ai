@@ -2,50 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2022-08-29-artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story.md",
-      "title": "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story",
-      "excerpt": "New Jersey, NJ -- (SBWIRE) -- 08/29/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ...",
-      "sourceUrl": null,
-      "webUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-46",
-      "originalUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-46",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-28T23:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insurancenewsnet.com",
-        "domain": "insurancenewsnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-29-baidu-nasdaqbidu-stock-website-traffic-hints-at-a-dismal-second-quarter.md",
       "title": "Baidu (NASDAQ:BIDU) Stock: Website Traffic Hints at a Dismal Second Quarter",
       "excerpt": "The Street expects Baidu to post adjusted earnings of $1.58 per share in Q2, much lower than the prior year period’s figure of $2.39 per share. Meanwhile, revenue is pegged at $4.24 billion, representing a year-over-year decline of 12.",
@@ -1355,6 +1311,58 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-22-tesla-raising-price-of-full-self-driving-feature-to-15000-next-month.md",
+      "title": "Tesla raising price of ‘Full Self-Driving’ feature to $15,000 next month",
+      "excerpt": "Elon Musk on Sunday announced the price of Tesla Inc.'s \"Full Self-Driving\" feature will rise by 25% next month, to from $12,000 to $15,000.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442?mod=mw_latestnews",
+      "originalUrl": "https://www.marketwatch.com/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442?mod=mw_latestnews",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 393,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-528682/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442",
+      "publishedDateTime": "2022-08-21T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

@@ -109,7 +109,12 @@ related:
     provider:
       name: insideHPC
       domain: insidehpc.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2022/08/generic-machine-learning-AI-deep-learning-data-shutterstock-583242211.jpg"
+        width: 690
+        height: 460
+        isCached: true
   - title: "NVIDIA Announces OVX Computing Systems - the Graphics and Simulation Foundation for the Metaverse - Powered by Ada Lovelace GPU"
     excerpt: "NVIDIA today announced the second generation of NVIDIA OVX™, powered by the NVIDIA Ada Lovelace GPU architecture and enhanced networking technology, to deliver groundbreaking real-time graphics, AI and digital twin simulation capabilities."
     publishedDateTime: 2022-09-20T17:55:00Z

@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Kyndi's Natural Language Search Solution Recognized as a KMWorld Top Trend-Setting Product of 2022"
-excerpt: "Kyndi, the leading natural language processing (NLP) company, today announced that KMWorld, the premier knowledge management publication, has acknowledged the Kyndi Natural Language Search Solution as a Top Trend-Setting Product of 2022."
-publishedDateTime: 2022-09-13T14:56:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-kyndis-natural-language-search-solution-recognized-as-kmworld-/2022/09/13/9672530.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-kyndis-natural-language-search-solution-recognized-as-kmworld-/2022/09/13/9672530.htm"
+excerpt: "SAN MATEO, Calif., Sept. 13, 2022 /PRNewswire/ -- Kyndi, the leading natural language processing (NLP) company, today announced that KMWorld, the premier knowledge management publication ..."
+publishedDateTime: 2022-09-13T13:53:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/09/n28847758/kyndis-natural-language-search-solution-recognized-as-a-kmworld-top-trend-setting-product-of-2022"
+webUrl: "https://www.benzinga.com/pressreleases/22/09/n28847758/kyndis-natural-language-search-solution-recognized-as-a-kmworld-top-trend-setting-product-of-2022"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1896484/KMWorld_has_acknowledged_the_Kyndi_Natural_Language_Search_Solution_as_a_Top_Trend_Setting_Product_o.jpg"
-    width: 400
-    height: 399
-    isCached: true
-
-secured: "bE/iqcw2Bn1nFlAMzX239n6BGBdmpUUjJfaZPq6FPHU2N/nGF9CUosaP526mOnoUeKxV2cTcOQlJe6XLkyMLEMjMSdIkTdpIwy/OBKv3NbEG74M7HHwXwgujNdQGbASksAjkg+6rGqadTMW0oNIO5DTTbdV1QyPxUQzxuFxtVQROVed3dqf3w+xe94wwYT4RNzh72pO/aG0kY0/SAbNGvwBxyLjyaBp81IIeAlnq4orDqSYX+Y0mmBeTb1FDwf9tCZ03m72b60T3U+ZqiU5s7K6swrEs583O+yPycAo+bjy/gSCb7zC+o9IbLdlrHrsZUyijhso/cfqmYZgoGeZlRY+eeiP8mTy39OJm6mEDZO8=;c4TFDeU/mi2dykmyEPJx1w=="
+secured: "M82rBTQTPYDmOsKs2JnYxoX8hNGQqaHFwnWOcCn5cL1+fm/EBEFyHPrhUBU3QNs8/XJghw9cGJmMsCeFUmtZtXXknXiZu8pht6rjy+SxAhqUr2nqMvHtaTnJknr7zJeUhH3TlKPAIV0f2xuhWf6hdkm9g0nD1kYhVTrnHU35Grc81BWmgCCh6v9iBn1ChMcC8KfK2B+tu/cN5yLHD0Efq+o9rBETwL6Vh+B7gbaXsyErFSZs7cFU4j1dIHfqFCVyjWLJVxY9LvMVUn9OhYJRMTX76utqvnVNBV/FaNfC0o55PZiS1n322S8CkVmfyERuYo4vEYtspL3BXCRzF6+w0/khO2N83gCHjVKugz5gIv8=;3tGaaBmfi7Z8SUb8oD6RMA=="
 ---
 

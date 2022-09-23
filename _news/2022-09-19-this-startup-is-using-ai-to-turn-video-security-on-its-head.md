@@ -50,15 +50,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 16
-  - title: "Protein-designing AI could discover new cures and materials unknown to science"
-    excerpt: "University of Washington scientists have invented an AI tool called ProteinMPNN that allows them to design any proteins they can conceive of. The tool could lead to new cures and new materials."
-    publishedDateTime: 2022-09-18T13:42:00Z
-    webUrl: "https://interestingengineering.com/innovation/protein-ai-could-produce-new-cures-materials"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 13
 
 secured: "RP0dAiIbB4j9pUm2cetvqEZHlIxhcUseipQ5MtEp5uSbt7B/MuzJ42g43mR6X7VX5g3h5RoWcoWo3YXDCsX/tbhpcluB+xc2PjMw05vi6yDx49ObdhNJ2tHRPVeCFjY9CcUhxhkS5S8007viPcCmH7vians7/5oSt/TIGyVJJBGCmUGEcH8dl8epjTDOwzErTsyxOjBD6JkYo4p42KtNxegLHy56aX9u2EsRZ5f73solUCWzVShrBJ9LjXL6YuKFA1QYRlg3A4D7kf/8XuM71LCBfey23lzykVKWN7VTsJHlmP2cv2MGaePK902QKev+2MQbwmWVHqidXg07ipn7BPqHzdF+s1hbhNv7HhZqd3EnJW0rn94WUKgILNLI/t+8KvSGDS0xqXo/LqdjdTr6a6/QgSIB2ktgJ4eOyNZR98ixgHyrokJexSOnl6c3nWSosEUxKDCF8FVR0r5ZLPeFVEZnDt4dEFZiHpWVkjPcyCiCsJ5UD3458W6WvlRf60ue+mdx3cqDc+OnEWLyXQwMVA==;Z+Qv51a5ovR8fBrY+7Lytg=="
 ---

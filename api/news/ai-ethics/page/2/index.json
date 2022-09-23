@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-23-singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact.md",
+      "title": "Singapore looks to drive AI research, capabilities with Google Cloud pact",
+      "excerpt": "Touted as the Singapore government's first private-sector partnership in artificial intelligence, the collaboration will see both sides jointly develop and testbed applications as well as work on issues pertaining to AI governance and ethics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
+      "originalUrl": "https://www.zdnet.com/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
+      "publishedDateTime": "2022-08-22T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-08-20-a-critical-review-of-the-eus-ethics-guidelines-for-trustworthy-ai.md",
       "title": "A critical review of the EU’s ‘Ethics Guidelines for Trustworthy AI’",
       "excerpt": "The European Union might have the most human-centric, robust AI governance strategy on the planet... but it could use a little fine-tuning.",
@@ -1387,49 +1430,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-google-fires-engineer-who-contended-its-ai-technology-was-sentient.md",
-      "title": "Google fires engineer who contended its AI technology was sentient",
-      "excerpt": "By Ramishah Maruf, CNN Google has fired the engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies. Blake Lemoine,",
-      "sourceUrl": null,
-      "webUrl": "https://kvia.com/news/business-technology/cnn-social-media-technology/2022/07/25/google-fires-engineer-who-contended-its-ai-technology-was-sentient-2/",
-      "originalUrl": "https://kvia.com/news/business-technology/cnn-social-media-technology/2022/07/25/google-fires-engineer-who-contended-its-ai-technology-was-sentient-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kvia.b-cdn.net/2022/07/hypatia-h_8da5d951d422b8ac6fd01710aada6e11-h_ebfd1759e4ec32c74d3df4ef3960b773-300-scaled.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-25T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KVIA",
-        "domain": "kvia.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -68,6 +68,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 63
+  - title: "Volkswagen concept previews tomorrow's driverless rental pods"
+    excerpt: "When (if?) cars become properly driverless, why not make them glassy pods with beds, desks and AR entertainment for the kids?"
+    publishedDateTime: 2022-09-22T18:26:00Z
+    webUrl: "https://7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195"
+    ampWebUrl: "https://7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195.amp"
+    cdnAmpWebUrl: "https://7news-com-au.cdn.ampproject.org/c/s/7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195.amp"
+    type: article
+    provider:
+      name: 7NEWS
+      domain: 7news.com.au
+    quality: 59
+    images:
+      - url: "https://images.7news.com.au/publication/C-8334195/8b834ff686026c4ce8d0ecc99ee023286661aef2-16x9-x0y173w3805h2140.png?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Is the quest for driverless trucking in it for the long haul?"
     excerpt: "Waymo, often seen as the leader in driverless technology ... In many ways, trucks are a more viable focal point for the development of the artificial intelligence needed for fully autonomous driving. Long-haul vehicles travel on long, monotonous highways ..."
     publishedDateTime: 2022-09-21T16:54:00Z
@@ -81,20 +97,6 @@ related:
       - url: "https://ietp-web-app-global-assets.azurewebsites.net:443/media/sw4jnnsc/wechat-icon.png"
         width: 512
         height: 512
-        isCached: true
-  - title: "Volkswagen concept previews tomorrow's driverless rental pods"
-    excerpt: "When (if?) cars become properly driverless, why not make them glassy pods with beds, desks and AR entertainment for the kids?"
-    publishedDateTime: 2022-09-23T05:37:00Z
-    webUrl: "https://www.carexpert.com.au/car-news/volkswagen-concept-previews-tomorrows-driverless-rental-pods"
-    type: article
-    provider:
-      name: CarExpert
-      domain: carexpert.com.au
-    quality: 39
-    images:
-      - url: "https://images.carexpert.com.au/crop/1200/630/app/uploads/2022/09/Volkswagen-Gen-TravelNR00051_large.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Volkswagen shows driverless future"
     excerpt: "Volkswagen Group's Gen.Travel concept previews a truly autonomous future. Volkswagen shows driverless future - CompleteCar.ie car news"

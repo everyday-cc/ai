@@ -1,29 +1,23 @@
 ---
 category: news
-title: "Cannabisnewsbreaks Rezyfi Inc. Stands Distinct With Service To State-Licensed Cannabis Industry, Proprietary Technology"
-excerpt: "REZYFi , a cannabis mortgage bank servicing the needs of both traditional and non-traditional consumers and businesses, is one of the first mortg"
-publishedDateTime: 2022-09-23T04:33:00Z
-originalUrl: "https://menafn.com/1104911852/Cannabisnewsbreaks-Rezyfi-Inc-Stands-Distinct-With-Service-To-State-Licensed-Cannabis-Industry-Proprietary-Technology"
-webUrl: "https://menafn.com/1104911852/Cannabisnewsbreaks-Rezyfi-Inc-Stands-Distinct-With-Service-To-State-Licensed-Cannabis-Industry-Proprietary-Technology"
+title: "CannabisNewsBreaks – REZYFi Inc. Stands Distinct with Service to State-Licensed Cannabis Industry, Proprietary Technology"
+excerpt: "To view the full article, visit  About REZYFi Inc. REZYFi is a cannabis-focused mortgage origination and specialized financing company in the U.S. The company originates, structures and invests in first mortgage loans and alternative structured financings secured by commercial and residential real estate properties."
+publishedDateTime: 2022-09-22T20:59:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/nnwire-2022-9-22-cannabisnewsbreaks-rezyfi-inc-stands-distinct-with-service-to-state-licensed-cannabis-industry-proprietary-technology"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/nnwire-2022-9-22-cannabisnewsbreaks-rezyfi-inc-stands-distinct-with-service-to-state-licensed-cannabis-industry-proprietary-technology"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?901855"
-    width: 724
-    height: 250
-    isCached: true
-
-secured: "X6nvU/tPuX798HOt/sAP/gawSZzH3J/45yGCYx6byruuDKBiqn9YVhQVYwUYYfjmVH4yRGnQ2xyr6GhKDLpTotS7jjPo+I8On5BcWVnyqza9KV8FvsTCQ/c7jR0LsQOONtg6xqj9ai7Hv7rMbblRolUtuhW2x0Kj55KoE9TebQ7aj5B32ZUZP4MXIHpMT7LfM/j2eRGfOleuQm/wyvSbwj4AnVyFZVaZvH+UGlS1NMef1wiYCcKeTU6ALT8jqvy51tdlHOgHh/J1jap+/8F3yTW/Sw2LsyB8sRHMGr36UeafbAdYu0V0ygMs9WyScze8mymHQ2popHYEmgaaEN2477onExKEpqSd2iPVqHF9TtM=;xbsH9dT5HddcP6oGTKWOzg=="
+secured: "eN7lk+leLTYvcUqXGMd/zJcaFND+qS56JrSOYUC+D4hDSmpgmb1gglMySRbiW5dhe2AFGMht75hpqNKLxOexNtiKDCWmwM1mfbU8xdg9OeDRKAZcznx+IzEqd40Ffcsvjq97pC33DnTVeQqszzN4sNmIOzBViorQFxYz/powxq2iWSpRm0zmfqkJASB09ZQn9Dr6i/xVLEkXgm8AHNNeEXt5ft9758Wvzd0QqRQIC72seeGxAiYRWiKozk5GLzE8FhvZt8RBdUD4dQVp5C2iueYpgFxgoRtzobnSOm0okyj+uOisnwM6h7982J2R97jXhGQcMDrZlE9HEOKXeKqE8yzAs14JOtCiBJUcH278+C8=;uLZKYBqWO2P906JLzBjBBA=="
 ---
 
