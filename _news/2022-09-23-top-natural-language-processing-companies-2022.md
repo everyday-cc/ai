@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-22T20:25:00Z
 originalUrl: "https://www.eweek.com/big-data-and-analytics/natural-language-processing-companies/"
 webUrl: "https://www.eweek.com/big-data-and-analytics/natural-language-processing-companies/"
 type: article
-quality: 71
-heat: 71
+quality: 73
+heat: 73
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - Natural Language Processing
   - AI
   - Microsoft AI
+  - Machine Learning
 
 images:
   - url: "https://www.eweek.com/wp-content/uploads/2022/01/BMC-DSOM-Image02-800x800-1.jpg"

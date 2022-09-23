@@ -1,25 +1,28 @@
 ---
 category: news
-title: "Automotive Artificial Intelligence (AI) Market Size to Hit USD 19.1 Bn by 2030"
-excerpt: "The global automotive artificial intelligence (AI) market size was valued at USD 2.9 billion in 2021. The development in the auto business is supposed to drive the automotive"
-publishedDateTime: 2022-09-22T21:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030"
-ampWebUrl: "https://www.benzinga.com/amp/content/28977012"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28977012"
+title: "Automotive Artificial Intelligence (AI) Market Size To Hit USD 19.1 Bn By 2030"
+excerpt: "The global automotive artificial intelligence (AI) market size was valued at USD 2.9 billion in 2021. The development in the auto business is supposed to drive the automotive artificial intelligence market."
+publishedDateTime: 2022-09-22T21:37:00Z
+originalUrl: "https://menafn.com/1104911136/Automotive-Artificial-Intelligence-AI-Market-Size-To-Hit-USD-191-Bn-By-2030"
+webUrl: "https://menafn.com/1104911136/Automotive-Artificial-Intelligence-AI-Market-Size-To-Hit-USD-191-Bn-By-2030"
 type: article
-quality: 52
-heat: 62
+quality: 50
+heat: 60
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
-  - AI in Autos
-  - AI
   - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?141022"
+    width: 441
+    height: 250
+    isCached: true
 
 related:
   - title: "Artificial Intelligence (AI) In Retail Market to Hit $40.74 Billion by 2030: Grand View Research, Inc."
@@ -32,6 +35,6 @@ related:
       domain: tmcnet.com
     quality: 18
 
-secured: "9yZ6gwjSj/qFm3sX0rGSVNUfoNamD2lPyAAMVYdaLZHHEs5yxS6eirVSpc9KwuEyMVMuO6FHe9KRzfuKx1aSCcslSQq7EKiT99BCmzudAlOnirjW5lvB2dCZPACSR8MOkXAw3fX4gyzcx+/gdVswKYPbBe805PwLX5RInHJn8TZ3fecybkKMEIyt1Rr6hZdosFX20L2CEzbxelL0BgxLu/MrzCWEkTe+7E6yc1jXyspzAQHJqtW/j97mr+Ew80POMg+eSiZp9nz8HrEaB8KpoazjYnB519mf+13gORVbUTa4HrSdhoT2vNtq6b1eru/ghtwM/lU1XHusDl9v9YbjQMdpYosalSpwPE5xmF3s6sg=;m9MOCKSCK9TAjuvn3u0Yhg=="
+secured: "rxk0J854Rh1+gK05SaWKFeqTDFW13XPgQMyHshB8h0Zr6QLtuqhN0iqdfjF4bTb2WGdtMqSSuRjjmtfJznU5TYTwcWcWwwJjef654ZpnpWUFNoUBBF97WdMHpyROVoMowuHahrRpnGJcQDarHcngKMZivnYwajAPPON4sVlPZOqTQj9d54lgCX+21kg/kOXvA0kvFhdOgV+1No8/BJn4SCTt8p6X7cPbDZDzY+9Zx8lm2c25hro5GM1Tf1F29uXG0ThocVh+XiZ5iB00BXatLIgltb2PD9fJWHQqD4o9EUZyweQrveA58ZqChykSUbZ8aLTobrV+oYzY0w4rvQZnvxFMpEcocFMCCEbj3JpT0j8=;iPn8l2t0szVaabYdA6O6bg=="
 ---
 

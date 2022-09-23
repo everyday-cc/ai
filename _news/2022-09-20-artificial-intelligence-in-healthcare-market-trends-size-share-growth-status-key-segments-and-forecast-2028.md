@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-trends-size-share-growth-status-key-segments-and-forecast-2028-2022-09-20"
 type: article
 quality: 64
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-driving Ships Market Trends, Business Overview, Industry Growth, and Forecast 2022 To 2028."
+    excerpt: "Pre and Post Covid is covered and Report Customization is available. Given that the \"Self-driving Ships Market\""
+    publishedDateTime: 2022-09-20T04:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-ships-market-trends-business-overview-industry-growth-and-forecast-2022-to-2028-2022-09-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

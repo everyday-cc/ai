@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2022-09-impact-artificial-intelligence-p
 ampWebUrl: "https://medicalxpress.com/news/2022-09-impact-artificial-intelligence-primary-health.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-impact-artificial-intelligence-primary-health.amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/health-data.jpg"

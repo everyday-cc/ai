@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-driving Ships Market Trends, Business Overview, Industry Growth, and Forecast 2022 To 2028."
+    excerpt: "Pre and Post Covid is covered and Report Customization is available. Given that the \"Self-driving Ships Market\""
+    publishedDateTime: 2022-09-20T04:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-ships-market-trends-business-overview-industry-growth-and-forecast-2022-to-2028-2022-09-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Fintech Market 2022 Global Industry Size, Segments, Share and Growth Factor Analysis Research Report 2028"
     excerpt: "Sep 19, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this AI in Fintech industry.\" Global \"AI in"
     publishedDateTime: 2022-09-19T05:14:00Z

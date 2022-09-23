@@ -24,6 +24,17 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "Face Recognition for Pigs Could Improve Welfare on Farms"
+    excerpt: "Wenhao Zhang and colleagues at the U.K.'s University of the West of England have developed a facial recognition system for pigs."
+    publishedDateTime: 2022-09-21T00:00:00Z
+    webUrl: "https://cacm.acm.org/news/264836-face-recognition-for-pigs-could-improve-welfare-on-farms"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
+
 secured: "bgkjIT4op0Mc82cceIR20krZEdszg67hDLcU0wm6Rl3WPlpNJbxXVTirJv4afcEWL4hIDOwGQj/GTDXp255t1lGCDHzGII01ALQ4KhsAzF4q2ZHt/4im+stdka146piJMjSI2CLtsbyfeLJZgbBaRCmxNB472w/oH8EH6YK8GdnRoZ1EavmBWQCf483Vv9mXMjVe+XFSbRVfoLfuqPXRqpeWveBRqgAOs32nuZyRNyECByXOGJYI8VC54Sz1y2qXQF7nh0LKCcRdbvq2S6jME9VjOoxXjTYBm74Q6EsXXSiKV1ASgZAwPDKVAtdk8I1vyiuo+WDFaaeUUOtstvBW3PJZEbNPjg2QFvyQcTfMXsZdarn0QVYEGp6LB6P7MwOhtC+xNvX/ZmHvGrVzlc3MHs+U0XD9XFjnAFsUvHtO9GOwCggiyA048Ozfa/Tg10LPK3Ae91p2XgwhtwzmpXc9KVK/8sAqGSIef3ocenSn9XhntJuTsVxNRsP4hDbmyk+bnSSx122ASq00Ui57s1Vp3A==;4EYl6ENgZL5B7F5xc/lUbg=="
 ---
 

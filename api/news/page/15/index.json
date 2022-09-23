@@ -2,6 +2,40 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-09-08-cognitive-dissonance-what-to-know.md",
+      "title": "Cognitive dissonance: What to know",
+      "excerpt": "Cognitive dissonance is the discomfort a person feels when their behavior does not align with their values or beliefs. It can also occur when a person holds two contradictory beliefs at the same ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medicalnewstoday.com/articles/326738",
+      "originalUrl": "https://www.medicalnewstoday.com/articles/326738",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical News Today",
+        "domain": "medicalnewstoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-08-facebook-ibm-microsoft-lead-advances-in-ai.md",
       "title": "Facebook, IBM, Microsoft lead advances in AI",
       "excerpt": "IBM will make a 10-year, $240 million commitment to the MIT-IBM Watson AI Lab, which will be located in Cambridge, Mass., where IBM has a research lab and where MIT’s campus is located.",
@@ -1090,40 +1124,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-global-contact-center-to-reach-496-billion-us-dollars-by-2027-creating-an-opportunity-for-ai-real-time-audio-translation-onemeta-ai.md",
-      "title": "Global Contact Center to Reach 496 billion U.S. dollars by 2027, Creating an Opportunity for AI Real-Time Audio Translation – OneMeta AI",
-      "excerpt": "Imagine every contact center becoming fluent in 82 languages with high level of accuracy. OneMeta AI’s technology allows contact centers to communicate in multi-lingual environments,” said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/global-contact-center-to-reach-496-billion-u-s-dollars-by-2027-creating-an-opportunity-for-ai-real-time-audio-translation-onemeta-ai",
-      "originalUrl": "https://www.digitaljournal.com/pr/global-contact-center-to-reach-496-billion-u-s-dollars-by-2027-creating-an-opportunity-for-ai-real-time-audio-translation-onemeta-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-07T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -138,6 +138,20 @@ related:
         width: 728
         height: 410
         isCached: true
+  - title: "Salesforce unveils new real-time data platform Genie"
+    excerpt: "Salesforce has announced the arrival of Salesforce Genie, its new hyperscale data platform that creates real-time customer profiles to help businesses deliver personalized experiences. Detailing the platform at its Dreamforce 22 event,"
+    publishedDateTime: 2022-09-22T10:42:00Z
+    webUrl: "https://www.techcentral.ie/salesforce-unveils-new-real-time-data-platform-genie/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 24
+    images:
+      - url: "http://www.techcentral.ie/wp-content/uploads/2021/06/Salesforce_21.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Salesforce's next big thing is a major push to keep its data at the center of a market increasingly dominated by firms like Snowflake"
     excerpt: "Salesforce is letting users update their products instantly as it risks customers treating it as just one of many data points in Snowflake."
     publishedDateTime: 2022-09-22T17:36:00Z

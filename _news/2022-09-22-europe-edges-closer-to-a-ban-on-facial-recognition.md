@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.eu/article/europe-edges-closer-to-a-ban-on-faci
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/europe-edges-closer-to-a-ban-on-facial-recognition/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "The Technion Is Number One In Europe In Artificial Intelligence"
-    excerpt: "CSRankings, which ranks top computer science institutions around the world, has named the Technion the top university in Europe for AI."
-    publishedDateTime: 2022-09-18T08:58:00Z
-    webUrl: "https://nocamels.com/2022/09/the-technion-is-number-one-in-europe-in-artificial-intelligence%EF%BF%BC/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 39
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/09/techniondfkhdf-e1663491493612.jpeg"
-        width: 768
-        height: 355
-        isCached: true
 
 secured: "WWon/n2DbJrGKHt89fT2nqHeWCcP2QgBgF9oDY2w2Jrz7rORJ+wbdQJNAL7vXtZSnwHkGrtuF8qJ9ND75r4c+KbbE8JDQXHtQ8pGXNjmaMgJKMEOrQjq0vg1LQF92UWn8UWUjuErgeswRFDUSjK5/ZfpuCcq0mjUNLnhmqP2TJBOl8tGutHK3MxWk3L3+y14Hra+fq/WqZvVjzdYSkyJBkHLX0RF+uyfJGVNfavSLBhWI3XiFNrykRgQsnvDjzdc0hyV15U3wAXlelMdAGokKaXjMgHNBAP5NCpMZxZ/5ZuS6VJOAGG2WrQvkWG0+BgAykyeK4vqjMRYsYtWY2uUzvdmdVd9GipLnqoodheZUSgGg9gIJDyMeKiy9UyuR2JOvks4an+2MArVfQlPpBqUP/su1SAx1npmrqlZPu7wQqhEYu9wfaM85804GU+jOrhEDo5P5EI9+wUDUq0Gb93DXWMKqKLkjzVKz2koN0ag9OYLehSUPwPWldPE4rqBnaO5qGnHY0HOqbwBt3CdWrSdNg==;3qAYwfbwQsfo2vBQNxSAKA=="
 ---
