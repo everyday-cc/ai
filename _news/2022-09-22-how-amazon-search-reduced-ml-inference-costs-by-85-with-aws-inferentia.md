@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-re
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-reduced-ml-inference-costs-by-85-with-aws-inferentia/"
 type: article
 quality: 86
-heat: 86
+heat: 87
 published: true
 
 provider:

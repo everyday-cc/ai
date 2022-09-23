@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/big-data-and-analytics/ai-chatbots/"
 webUrl: "https://www.eweek.com/big-data-and-analytics/ai-chatbots/"
 type: article
 quality: 71
-heat: 81
+heat: 82
 published: true
 
 provider:

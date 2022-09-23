@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itworldcanada.com/article/ai-and-wine-are-not-that-diffe
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/ai-and-wine-are-not-that-different-says-sass-director-of-ai-ethics/503456?amp=1"
 type: article
 quality: 74
-heat: 85
+heat: 84
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.fastcompany.com/90790809/two-of-the-brightest-minds-in
 webUrl: "https://www.fastcompany.com/90790809/two-of-the-brightest-minds-in-business-talk-ai-infrastructure-and-the-economic-outlook-for-2023"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,38 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "AI Ethics And The Quest For Self-Awareness In AI"
+    excerpt: "One of the most evocative areas that vividly presents this ethical AI quandary is the advent of AI-based true self-driving cars. This will serve as a handy use case or exemplar for ample ..."
+    publishedDateTime: 2022-09-19T13:14:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/09/18/ai-ethics-and-the-quest-for-self-awareness-in-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/09/18/ai-ethics-and-the-quest-for-self-awareness-in-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/09/18/ai-ethics-and-the-quest-for-self-awareness-in-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 106
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62227e18d8a6304b2d957a48/0x0.jpg?format=jpg&crop=2559,1847,x381,y77,safe&width=1200"
+        width: 1200
+        height: 866
+        isCached: true
+  - title: "AI ethics a growing concern"
+    excerpt: "More accounting software uses artificial intelligence to automate routine tasks and provide insight, which has led a growing number of people to consider the ethical implications."
+    publishedDateTime: 2022-09-21T13:46:00Z
+    webUrl: "https://www.accountingtoday.com/news/ai-ethics-a-growing-concern-for-accountants"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 56
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/13a22f7/2147483647/strip/true/crop/204x107+0+44/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F39%2Fec%2F39ca587340b0bbc003c71583cdd2%2Fartificial-intelligence-ten.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "EOlw1sC09SEUH8vW9sBa3oZie3VYSyfnoFh2ZPUuCKAuscBNan8a0Zhe2F7pkmZ9mf624GBI/AZSZRnOVIuBOT6x7w6ZQMpUyHjcWxlCHQHdif6JYwXDsHGL3rlaBxMFVO0sv8tBrxHc+hEmVIwibI0EKVch4rkdS9fMwZS4sewQwQXjlryaNmrKjj6a/HXAjS+joqT4OK8vi71FCHJEXw0eEwx0mufY7Ryy64eD4i3xJpgCqN2GrQUq8h6s4jsGBASxOUUlnQ4FcyMo+ltWitcXVbmAvit4XV7/J4AMkeGX3vf4gyx3nrzlatZhqIfY5YssJf5J+tFyLsnhPlFIyaAbAQL+Cw6iWEBQ5bRgJvkm7lPpuR+L1416s0yohk86xL49qXCG0/jz5i2ovyfdCMP4rrIKgZGD1iHJzVAIirYdrJ+9Lm97iO8pVntLJTZEXnyCZCwcoiL6OA/kUu1/+wvCU5iahaZ1DApEG5r9oP2jvsWCUMFdxPsckquqBLMTsL5rnowLnHg+3gvu/NH/Sw==;pnauwzmfx/UxBb9/XgwqIA=="
 ---

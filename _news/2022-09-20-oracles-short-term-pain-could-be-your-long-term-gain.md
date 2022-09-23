@@ -3,8 +3,8 @@ category: news
 title: "Oracle’s Short-Term Pain Could Be Your Long-Term Gain"
 excerpt: "Database and cloud solutions provider Oracle (NASDAQ: ORCL) stock got smoked on its fiscal Q1 2023 earnings report. Shares were holding up relatively"
 publishedDateTime: 2022-09-20T05:45:00Z
-originalUrl: "https://www.entrepreneur.com/finance/oracles-short-term-pain-could-be-your-long-term-gain/435644"
-webUrl: "https://www.entrepreneur.com/finance/oracles-short-term-pain-could-be-your-long-term-gain/435644"
+originalUrl: "https://www.entrepreneur.com/article/435644"
+webUrl: "https://www.entrepreneur.com/article/435644"
 type: article
 quality: 69
 heat: 69
@@ -28,6 +28,6 @@ images:
     height: 563
     isCached: true
 
-secured: "Z/aRAxCRQ9+imTauPhNhNOmqN93+cJZG4qgrZiJE/7axqpNhu0HOxNAxMWqLUyeXKhbhWdZaRfUr0s0jghJwMeR+9z20H2bOPxL9SlSS/PeZv4oYlIfAKEqS8Xkp9hFBzpvTgMVe2r0b4WNea2NCfA+CqxeQhQ1jFtcZCUj23BaMaSNtw0Ybr5FCHxb7tVeraxcSYDykLh3F8hxqxmw4nxiM+1KCO7YS/gT6or1kifsU0yz8kKEcZ6C3F5SRddRghpG1Kw9aUVLq54sJNWcWg8Hx/rrTM0w65jOdT/kKtYy+lwkgSOBcIp6i9nvO7IWjutm2zhiLdKKZOk0mmv7Xh5hjxbOA26ukIKbv6XhMcTY=;AinJ1JsOtBXAyyv/+1j/TA=="
+secured: "edFjcTk4HKg8BCiLM69I6djvJixmQMrKjaxIVSnVtb2vmdGR8mtgTbvbe8zIMv6NiGXgc6TShKFyfP879czQgRonnYv/FrSb8AmcY7OaR0/I1up9HiKwlVsfjagoprWtUQNrpcj4LNlWx1Kl2pDI2NRCzettYSPdHH2HGduchqIG+ZO0pQJFgXt55Ur2FJk5qkvFzMYq9fEk8T++7T+1CC18VkzAeZgFebS9bJpgkNZKUmAPd18YiexA5XO6UpPvVAEc+X8q3Gh0oy7QqF3OPJrdCLBxc7tq/zDZ1hrzK0q+RnktJ1rOsAHjIeHd25RJLOaomEl0o0pQCrEd087RZ3M9CZO5zUIfP50AUdsMk2E=;aI7OXW2dj32MVYqprcvG4w=="
 ---
 

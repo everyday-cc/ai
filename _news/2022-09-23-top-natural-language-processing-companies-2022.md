@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/big-data-and-analytics/natural-language-proc
 webUrl: "https://www.eweek.com/big-data-and-analytics/natural-language-processing-companies/"
 type: article
 quality: 73
-heat: 73
+heat: 74
 published: true
 
 provider:

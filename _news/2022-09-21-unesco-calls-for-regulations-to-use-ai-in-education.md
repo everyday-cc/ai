@@ -42,6 +42,22 @@ related:
         width: 2560
         height: 1907
         isCached: true
+  - title: "Experts remain sceptical of ethics, as UNESCO emphasises implementation of AI in education in India"
+    excerpt: "Interestingly, experts has opined that AI based tools can be a source of bias for teacher and create discrimination amongst students."
+    publishedDateTime: 2022-09-23T02:30:00Z
+    webUrl: "https://www.financialexpress.com/education-2/unesco-ai-education-report-state-of-the-education-report-for-india-artificial-intelligence-edtech/2684220/"
+    ampWebUrl: "https://www.financialexpress.com/education-2/unesco-ai-education-report-state-of-the-education-report-for-india-artificial-intelligence-edtech/2684220/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/unesco-ai-education-report-state-of-the-education-report-for-india-artificial-intelligence-edtech/2684220/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 77
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/09/AI-Unesco.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Resource, infrastructure crunch impact AI expansion in India's education sector: UNESCO report"
     excerpt: "The report bizarrely claimed that the high pupil-teacher ratios and lack of professionally qualified teachers in the Indian education sector might be addressed by AI-powered tools."
     publishedDateTime: 2022-09-22T09:44:00Z

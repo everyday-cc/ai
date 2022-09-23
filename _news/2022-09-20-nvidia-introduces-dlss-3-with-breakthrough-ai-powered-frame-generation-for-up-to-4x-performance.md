@@ -63,20 +63,6 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "NVIDIA Unveils RTX 4000 GPU Line, Includes DLSS 3"
-    excerpt: "NVIDIA had a keynote that showed off the next step in the evolution of its graphical prowess. Leading this off was the announcement of the newest"
-    publishedDateTime: 2022-09-20T16:08:00Z
-    webUrl: "https://hardcoregamer.com/news/nvidia-unveils-rtx-4000-gpu-line-includes-dlss-3/427788/"
-    type: article
-    provider:
-      name: Hardcore Gamer
-      domain: hardcoregamer.com
-    quality: 39
-    images:
-      - url: "https://hardcore-gamer.s3.amazonaws.com/uploads/2022/09/nvidia-rtx-4090.jpg"
-        width: 698
-        height: 289
-        isCached: true
 
 secured: "ZfNKnTU1s/oJv6kzHyjsTrTrSkFx41qAod9iNLUC7A0f32jRjh/wNzTE3u+c9KbO/X6SCW0Eg0nG9Qm7uK2PmigHXJy0g5136J0kOjhPX1iW2AqpWaizZ5tgDvWzJ4yAw70ZHA8Wa6BVeLVP99jVZIb9kLnuvbFzu4vRhlxjAgOd2BI1rwaxyoXs8tR7XCiTMdmdAVite/Lvj6wYinmrkpuzIpoi4D6/vhSm5BeOlY66tY4y07wcL53muA/2xwOUnZs957O7dk8YdT4OvWkDipqv5LKA+dSfFx+vjGCavjtv2FvjEcsZuPJFFqxbWMCHnLoFFYF820No1xsuM3+uhr75fe8TTV5Sk+lTbr0Xuyc=;+O/IoU0WMvCSwLWhtARrFA=="
 ---

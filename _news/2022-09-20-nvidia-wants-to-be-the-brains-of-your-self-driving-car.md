@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-wants-to-be-the-brains-o
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-wants-to-be-the-brains-of-your-self-driving-car/"
 type: article
 quality: 89
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNET
@@ -41,11 +41,25 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 88
+    quality: 90
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2022/09/DRIVE-Thor-GTC-Fall-22.jpg?resize=1200,675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "NVIDIA Unveils RTX 4000 GPU Line, Includes DLSS 3"
+    excerpt: "NVIDIA had a keynote that showed off the next step in the evolution of its graphical prowess. Leading this off was the announcement of the newest"
+    publishedDateTime: 2022-09-20T16:08:00Z
+    webUrl: "https://hardcoregamer.com/news/nvidia-unveils-rtx-4000-gpu-line-includes-dlss-3/427788/"
+    type: article
+    provider:
+      name: Hardcore Gamer
+      domain: hardcoregamer.com
+    quality: 39
+    images:
+      - url: "https://hardcore-gamer.s3.amazonaws.com/uploads/2022/09/nvidia-rtx-4090.jpg"
+        width: 698
+        height: 289
         isCached: true
 
 secured: "6U8nnpiF0cXmOdFBx2RGR6sjpU5bznpvGUACCL5SRfZ0oMsaon0OnViVjb1M/PisWWbnrdycE01kkhsmrUC8keaq34YJjpX8AJCj2N472R+82rTTs5CfV+RBdBXPbge7LZAkNuTljJTBnzXGGUfZSdoaiQKZNyR4z1O4BvQmrxAhxtRsdhFk4aOVonrJgWG/H+XLEmMCz5RoHmnLAbofEO/nxXfReU9kOADBL0zCdSfiNMkyNo1xbVyqBk18pEK6uJBcoG69moShTNxeiFKCeLJtBQpLW6W9xoN8effmII5W5tD92tV1oOEZNfjz5YYdXUmeaZGA3avNB6d0msNBQZ9p7rvGexr9zBG7HctbfIs=;el3/ZeZ9AfPbB1Xzd4ssLw=="

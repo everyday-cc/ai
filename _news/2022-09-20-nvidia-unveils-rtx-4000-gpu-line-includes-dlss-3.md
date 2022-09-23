@@ -25,59 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia introduces DLSS3 to generate AI-powered frames with 4X performance"
-    excerpt: "Nvidia's DLSS 3 will use AI to estimate the best way to fill out images in the company's latest graphics cards."
-    publishedDateTime: 2022-09-20T22:20:00Z
-    webUrl: "https://venturebeat.com/games/nvidia-introduces-dlss3-to-generate-ai-powered-frames-with-4x-performance/"
-    ampWebUrl: "https://venturebeat.com/games/nvidia-introduces-dlss3-to-generate-ai-powered-frames-with-4x-performance/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/nvidia-introduces-dlss3-to-generate-ai-powered-frames-with-4x-performance/amp/"
+  - title: "Nvidia unveils Drive Thor, one chip to rule all software-defined vehicles"
+    excerpt: "Nvidia revealed a next-generation automotive-grade chip that will unify a wide-range of in-car technology and go into production in 2025."
+    publishedDateTime: 2022-09-20T23:39:00Z
+    webUrl: "https://techcrunch.com/2022/09/20/nvidia-unveils-drive-thor-one-chip-to-rule-all-software-defined-vehicles/"
+    ampWebUrl: "https://techcrunch.com/2022/09/20/nvidia-unveils-drive-thor-one-chip-to-rule-all-software-defined-vehicles/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/20/nvidia-unveils-drive-thor-one-chip-to-rule-all-software-defined-vehicles/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 88
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 90
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/09/racer-x-3.jpg?w=1200&strip=all"
+      - url: "https://techcrunch.com/wp-content/uploads/2022/09/DRIVE-Thor-GTC-Fall-22.jpg?resize=1200,675"
         width: 1200
-        height: 686
+        height: 675
         isCached: true
-  - title: "Nvidia revealed new AI-powered gaming chips to be manufactured by TSMC"
-    excerpt: "Nvidia Corp unveiled new flagship chips for video gamers that use artificial intelligence to enhance graphics."
-    publishedDateTime: 2022-09-22T04:00:00Z
-    webUrl: "https://techwireasia.com/2022/09/nvidia-revealed-new-ai-powered-gaming-chips-to-be-manufactured-by-tsmc/"
+  - title: "Nvidia Wants to Be the Brains of Your Self-Driving Car"
+    excerpt: "Chip designer Nvidia on Tuesday revealed a new processor called Drive Thor it expects will power the autonomous vehicle revolution. Thor processors should arrive in 2024 for cars hitting the roads in 2025,"
+    publishedDateTime: 2022-09-20T15:52:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/nvidia-wants-to-be-the-brains-of-your-self-driving-car/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-wants-to-be-the-brains-of-your-self-driving-car/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-wants-to-be-the-brains-of-your-self-driving-car/"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 56
+      name: CNET
+      domain: cnet.com
+    quality: 89
     images:
-      - url: "https://techwireasia.com/wp-content/uploads/2022/09/nvidia-geforce-rtx-4090-gpu-1024x576.png"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Nvidia taps TSMC to manufacture new gaming chips with AI features"
-    excerpt: "Nvidia has gained attention in recent years with its booming data center business, which sells chips used in artificial intelligence work such as natural language processing. But the company's roots are in graphics chips,"
-    publishedDateTime: 2022-09-20T16:33:00Z
-    webUrl: "https://asia.nikkei.com/Business/Technology/Nvidia-taps-TSMC-to-manufacture-new-gaming-chips-with-AI-features"
-    type: article
-    provider:
-      name: Nikkei Asia
-      domain: nikkei.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F7%252F8%252F1%252F4%252F42294187-3-eng-GB%252FCropped-16636908462022-09-20T154548Z_456040631_RC23LW99AKST_RTRMADP_3_NVIDIA-GAMING.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
-        width: 1260
+      - url: "https://www.cnet.com/a/img/resize/02e686580812771a6c1f41008fd6a55334121716/hub/2022/09/20/2b060158-f211-48cf-8c58-79f54886c3e0/zeekr-001-ev.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
         height: 630
         isCached: true
-  - title: "NVIDIA Introduces DLSS 3 With Breakthrough AI-Powered Frame Generation for up to 4x Performance"
-    excerpt: "NVIDIA today announced NVIDIA ® DLSS 3, an AI-powered performance multiplier that kicks off a new era of NVIDIA RTX™ neural rendering for games and applications. DLSS 3 builds on the company’s lead in AI-accelerated super-resolution techniques to deliver outstanding image quality and up to 4x the performance of brute-force rendering,"
-    publishedDateTime: 2022-09-20T16:48:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/20/9677329.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
 
 secured: "+JmyS5gLwavESK290rnTH6ja5fHANg7A+RBx3NDtT9+RDkX/U/iiEzzZzFZApnjh5GMdn/rP/S/3w1Rir09Pj3nnL3tD+RYPe9xi+E4EGPJdCpknGzJyMATELJClJWjo24dbohE9GhWOQ/qKaQU/zu+2wESELrig+7FwdUvzwkjN9NCUKlJxs2y6OLsAB/hX6Eoi2qR956tce+H5wn0lIU6In3Vt95Y6IL8YcZps8qdFS91QMD4CSJlPEcGP7mGeIAkytia3g60rRUVegt5t6Z/A3S0OYBicqfxTCx8KITVVeTnEia3u34g7cZ8WNSboJv/Nd8Gx3/9BXxVzQc1BJk6VRF2933GwN7hb5AQDeZZ5kjiRpWaZdilsSvK4FeiszW+LFCwAoEvtExEHoZeWOO7eMl9SLEU2dzwkhFyvhAxJKo9TYDrezxej/pgwuUeh/iO2xEn4kDtFMXWyFxCP4K6Ji5lqZ77KZB3WdfgjT4sVxZWL+RtwM3t4wfCZbeIOMOlseYFR+SvvAjTP+KVRdQ==;jYEuD9m8GibFmbMLyT7gJA=="
 ---
