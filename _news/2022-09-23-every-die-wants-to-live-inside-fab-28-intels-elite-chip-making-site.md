@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-23T12:50:00Z
 originalUrl: "https://au.pcmag.com/processors/96371/every-die-wants-to-live-inside-fab-28-intels-elite-chip-making-site"
 webUrl: "https://au.pcmag.com/processors/96371/every-die-wants-to-live-inside-fab-28-intels-elite-chip-making-site"
 type: article
+quality: 50
+heat: 50
+published: false
 
 provider:
   name: PC Magazine

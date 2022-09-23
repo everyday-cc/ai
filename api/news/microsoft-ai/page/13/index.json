@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-06-13-posture-assessed-in-health-exam-detects-cognitive-decline.md",
+      "title": "Posture assessed in health exam detects cognitive decline",
+      "excerpt": "Males with SVA ≥ 100 mm at any age, SVA ≥ 90 mm at ≥ 70 years, and SVA ≥ 70 mm at ≥ 80 years were likely to have cognitive decline, while females with SVA ≥ 70 mm at any age were ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-06-posture-health-exam-cognitive-decline.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-06-posture-health-exam-cognitive-decline.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/posture-assessed-in-he.jpg",
+          "width": 2880,
+          "height": 5138,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-06-posture-health-exam-cognitive-decline.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-posture-health-exam-cognitive-decline.amp",
+      "publishedDateTime": "2022-06-13T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-ai-in-fintech-market-is-booming-worldwide-microsoft-google-ipsoft.md",
       "title": "AI in Fintech Market Is Booming Worldwide : Microsoft, Google, IPsoft",
       "excerpt": "New Jersey, USA — (SBWIRE) — 06/13/2022 — The latest study released on the Global AI in Fintech Market by AMA Research evaluates market size, trend, and forecast to 2027. The AI in Fintech ...",
@@ -1227,40 +1270,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-stem-toys-that-promote-cognitive-skills-critical-thinking.md",
-      "title": "STEM toys that promote cognitive skills, critical thinking",
-      "excerpt": "Toy expert and speech-language pathologist, Erika Cardamone, joins Real Milwaukee from PlayOnWords.com to share awesome STEM Toys that promote cognitive skills, problem-solving, and critical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox6now.com/news/stem-toys-that-promote-cognitive-skills",
-      "originalUrl": "https://www.fox6now.com/news/stem-toys-that-promote-cognitive-skills",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox6now.com/news/stem-toys-that-promote-cognitive-skills.amp",
-      "cdnAmpWebUrl": "https://www-fox6now-com.cdn.ampproject.org/c/s/www.fox6now.com/news/stem-toys-that-promote-cognitive-skills.amp",
-      "publishedDateTime": "2022-06-06T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX6 Milwaukee",
-        "domain": "fox6now.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

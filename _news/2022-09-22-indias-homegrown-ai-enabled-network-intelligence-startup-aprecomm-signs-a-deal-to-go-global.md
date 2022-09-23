@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "India's homegrown AI-enabled network intelligence startup Aprecomm signs a deal to go global"
-    excerpt: "Aprecomm, India's leading network intelligence company, today announced its partnership with Singapore-based organization Technology Distribution Specialists (TDS) for the"
-    publishedDateTime: 2022-09-21T09:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/india-s-homegrown-ai-enabled-network-intelligence-startup-aprecomm-signs-a-deal-to-go-global-122092100665_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/india-s-homegrown-ai-enabled-network-intelligence-startup-aprecomm-signs-a-deal-to-go-global-122092100665_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/india-s-homegrown-ai-enabled-network-intelligence-startup-aprecomm-signs-a-deal-to-go-global-122092100665_1.html"
+  - title: "India’s Homegrown AI-Enabled Network Intelligence Startup Aprecomm Signs a Deal to Go Global"
+    excerpt: "As a part of the deal, TDS will be empanelled as one of Aprecomm official distributor partners. TDS will now be authorized to circulate Aprecomm network intelligence solutions for the communication industry across Asia Pacific region."
+    publishedDateTime: 2022-09-21T05:05:00Z
+    webUrl: "https://www.businesswireindia.com/indias-homegrown-ai-enabled-network-intelligence-startup-aprecomm-signs-a-deal-to-go-global-80770.html"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 46
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 26
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-09/21/full/20220921114631.jpg"
-        width: 600
-        height: 450
+      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_Multimedialog_80770.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "India’s Homegrown AI-Enabled Network Intelligence Startup Aprecomm Signs a Deal to Go Global"
     excerpt: "With this engagement, Aprecomm will be tapping the user base across South-East Asia and Australia-New Zealand regions. Aprecomm AI-enabled products will be revolutionizing network delivery by network service providers including fiber networks,"

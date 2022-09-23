@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-23T12:28:00Z
 originalUrl: "https://www.ibtimes.com/potions-founder-kanad-bahalkar-using-artificial-intelligence-change-way-sales-are-made-3616026"
 webUrl: "https://www.ibtimes.com/potions-founder-kanad-bahalkar-using-artificial-intelligence-change-way-sales-are-made-3616026"
 type: article
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: International Business Times

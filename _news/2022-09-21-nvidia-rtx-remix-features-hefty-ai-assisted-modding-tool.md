@@ -153,6 +153,22 @@ related:
         width: 700
         height: 300
         isCached: true
+  - title: "The challenges of verifying AI for healthcare"
+    excerpt: "Artificial intelligence promises to revolutionise healthcare, but even in areas such as medical imaging, where it is easy to spot AI errors, more research is needed."
+    publishedDateTime: 2022-09-23T10:41:00Z
+    webUrl: "https://www.computerweekly.com/news/252524829/The-challenges-of-verifying-AI-for-healthcare"
+    ampWebUrl: "https://www.computerweekly.com/news/252524829/The-challenges-of-verifying-AI-for-healthcare?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252524829/The-challenges-of-verifying-AI-for-healthcare?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 74
+    images:
+      - url: "https://www.computerweekly.com/rms/onlineimages/ai_a373894778.jpg"
+        width: 1200
+        height: 400
+        isCached: true
   - title: "Nvidia debuts Jetson Orin Nano, a lightweight AI platform for entry-level robotics"
     excerpt: "Jetson Orin Nano was announced today at Nvidia GTC 2022, alongside the availability of its Nvidia Isaac Sim robotics training platform in the cloud. Nvidia Jetson Orin is a family of powerful, compact and energy-efficient artificial intelligence supercomputers designed to power autonomous robots,"
     publishedDateTime: 2022-09-20T16:45:00Z
@@ -220,6 +236,15 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "NVIDIA's new AI model quickly generates objects and characters for virtual worlds"
+    excerpt: "NVIDIA is looking to take the sting out of creating virtual 3D worlds with a new artificial intelligence model. GET3D can generate characters, buildings, vehicles and other types of 3D objects, NVIDIA says."
+    publishedDateTime: 2022-09-23T13:33:00Z
+    webUrl: "https://www.engadget.com/nvidia-ai-model-get3d-virtual-worlds-objects-130021127.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 42
   - title: "NVIDIA Jetson Orin Nano Sets New Standard for Entry-Level Edge AI and Robotics With 80x Performance Leap"
     excerpt: "NVIDIA today expanded the NVIDIA® Jetson™ lineup with the launch of new Jetson Orin Nano™ system-on-modules that deliver up to 80x the performance over the prior generation, setting a new standard for entry-level edge AI and robotics."
     publishedDateTime: 2022-09-20T17:44:00Z
@@ -252,17 +277,6 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "NVIDIA Hopper in Full Production"
-    excerpt: "World's Leading Computer Makers Dell Technologies, HPE, Lenovo, Supermicro, Plus Cloud Service Providers AWS, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure Building H100-Based Offerings;"
-    publishedDateTime: 2022-09-20T16:18:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28935573/nvidia-hopper-in-full-production"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28935573"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28935573"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
   - title: "ASUS Servers Announce AI Developments at NVIDIA GTC"
     excerpt: "ASUS, the leading IT company in server systems, server motherboards and workstations, today announced its presence at NVIDIA® GTC"
     publishedDateTime: 2022-09-21T13:12:00Z
@@ -281,6 +295,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "NVIDIA Hopper in Full Production"
+    excerpt: "NVIDIA today announced that the NVIDIA H100 Tensor Core GPU is in full production, with global tech partners planning in October to roll out the first wave of products and services based on the groundbreaking NVIDIA Hopper™ architecture."
+    publishedDateTime: 2022-09-20T16:45:00Z
+    webUrl: "https://insidebigdata.com/2022/09/20/nvidia-hopper-in-full-production/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 4
 
 secured: "IjvXwSL0Gd4Lv7Ei3kRPzb+Vee9WZEr0WgOVn9MP+meQxQ42DRrmicAeg1m364KlmUiSwIah5UbiwwMf5hRiZT97JgMywyWJI1YGAvBT31+RvROlCVt2VARvSKMkwlhRxsIWYu+kkiwiCXO+CmKS4mpCyt6pLPVsBRpfH6wwRqx+fAgIdFjr7AEu66gOdg0I81z37HWmblKsXvug/YaVVBQI/XfGt+sRBhepKWkB69KqvtT1Uvu95HrvCukwAlniwI2W7QAivlVm+6ic3ikl02T7IkoJYPSvf2QCSbYdMimOzrnQoEso8DHP1EvvrtNB9th4sADd/iRzDmKM4yb+GBfgtFRCDKP37Y4NzBFhEX8=;MrsOm0irIobnTo6xMm/h6Q=="
 ---

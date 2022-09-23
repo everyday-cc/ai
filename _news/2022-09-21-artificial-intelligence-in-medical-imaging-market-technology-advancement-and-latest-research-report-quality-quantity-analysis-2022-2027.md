@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Data Collection and Labeling Market Report 2022: Rapid Penetration Of AI And Machine Learning Drives Sector - ResearchAndMarkets.com"
-    excerpt: "The global data collection and labeling market size is expected to reach USD 12.75 billion by 2030, according to this report. The market is anticipated to expand at a CAGR of 25.1% from 2022 to 2030."
-    publishedDateTime: 2022-09-20T12:50:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-global-data-collection-and-labeling-market-report-2022-rapid-penetration-of-ai-and-machine-learning-drives-sector-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 2
   - title: "Global Agricultural Robots Market Report 2022: Rising Penetration of Indoor Farming Driving Sector Growth - ResearchAndMarkets.com"
     excerpt: "The \"Agricultural Robots Market by Type, By Applications, By Component, By Farming Type, and By End Use: Global Opportunity Analysis and Industry Forecast, 2022 - 2030\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2022-09-23T11:01:00Z

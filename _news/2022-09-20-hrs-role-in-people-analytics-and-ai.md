@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -85,6 +85,15 @@ related:
       name: WRAL TechWire
       domain: wraltechwire.com
     quality: 17
+  - title: "Data analytics: Seeing deeper, optimizing better"
+    excerpt: "Just as updating eyeglass prescriptions bring the world into sharper focus, longstanding data analytics solutions can be extended by new and more digitalized tools that identify details and opportunities that weren’t visible before."
+    publishedDateTime: 2022-09-23T12:57:00Z
+    webUrl: "https://www.controlglobal.com/manage/data-analytics/article/21435305/data-analytics-seeing-deeper-optimizing-better"
+    type: article
+    provider:
+      name: Control Global
+      domain: controlglobal.com
+    quality: 4
 
 secured: "kZP9xCf9KHea2YOsDzdg5KWKg57W9nGp42yULGp+r5PA8qCTAXiKpi/wM7NiG8ZhrZFOi93PhtgI9MKOyB12ohyAifWFRSh81grIm70m694ZYU/9VyCIl05JQewNf8AD0jh3qwt9Z1KvCaVSPhhZlapuRoiJQcMbQ7z/wbJxUh2hFpRIgy8wgYC3HmK8S+4NQQNAU6via1PPv81G9gNwjyoORlYbPV9oqtg5lBMfqqMn7G0oLcBy1rSPZMLsfZTXL7boi1+n1bw5c8zkXND4DPLpnqalewSs2xfTYXu6Oad2B5EWDf8ivO0Erh+6t07h5DNAK/XX+78HYmBtP1BrdB/DnCIHn3HWHik39ylyGIIIavfcNXX44+RuPeBFE3tUl1FAfGWOUFN+zo0DSkybn5sjU4kJnQEtQ024rhRo2Yvlm0ZhKGPf3Cv8xjKwNhaI7rjVDKQk66FZ+N5bxtay7tnF5EhTqK3LsXY9MDlHw3r17PRjVw+UlPHkCdW/ynfoF0YIfbUQ9DWQdCd3doa5YQ==;RtT1pQZW4NXj2QNUBvEz1Q=="
 ---

@@ -84,6 +84,15 @@ related:
       name: WRAL TechWire
       domain: wraltechwire.com
     quality: 17
+  - title: "Data analytics: Seeing deeper, optimizing better"
+    excerpt: "Just as updating eyeglass prescriptions bring the world into sharper focus, longstanding data analytics solutions can be extended by new and more digitalized tools that identify details and opportunities that weren’t visible before."
+    publishedDateTime: 2022-09-23T12:57:00Z
+    webUrl: "https://www.controlglobal.com/manage/data-analytics/article/21435305/data-analytics-seeing-deeper-optimizing-better"
+    type: article
+    provider:
+      name: Control Global
+      domain: controlglobal.com
+    quality: 4
 
 secured: "BbLf1Sx8p84xXJbG6rHJojCL9RYd4hEufb9Pi1RaMLMPUWetFrAgDcCKd083BgEY+f3T8A0vCIgmY2uu9bHEFSAmzZzAEx4o/gOlfNfDhXOG/YILwdb08eEBoSpuq0hwicfzaECSWKP6LbjNblSLtXcgU9aDoJ+H/hvqIquQeSkD3TiAOpJtrUmCGyow5QX3UoHFVEx2INQu8zJD1QUiBJvitx0aJfDwm/3nqgQMZFpYtDfqRCSKpFH9e7N2UxT/N+SD7JtRg8mVOoGIh89IcHM725K9faleyVhjA0eNQbegwkrdMEMG7BueEnWHRtwzx9u2JFBXNeaNfS4pdNKvkTouCfBtvEJ7DnXiNVsWn1xAht0QSncVtw9111aEz8FLNvOvnj1F7Mx8Zq0zBPtUZcyKrbo1/vt4Q38RnZRa7nfgZd6ytedm5QeH3nQP202MQMXt3e02375Vig7GmXUnlMQf4IZ9CUV/HgETWWUwqQvROyz/ZHXJqKLYu/oSuUbj49MgyRjbQplEfEAvf5zPdw==;P6kr5ca3D+Mdf8yKU9YLEQ=="
 ---

@@ -3,10 +3,10 @@ category: news
 title: "Wallaroo Labs Launches in Azure Marketplace; Announces Air Gap Support for Edge Machine Learning Deployment"
 excerpt: "Wallaroo Labs today announced the availability of Wallaroo Enterprise Edition on Microsoft Azure Marketplace. Wallaroo's model operations platform for deploying, observing, and managing machine learning in production enables customers to easily operationalize ML Models with our purpose-built inference engine,"
 publishedDateTime: 2022-09-21T13:22:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/09/21/9677902.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/09/21/9677902.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-wallaroo-labs-launches-azure-marketplace-announces-air-gap-/2022/09/21/9677902.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-wallaroo-labs-launches-azure-marketplace-announces-air-gap-/2022/09/21/9677902.htm"
 type: article
-quality: 35
+quality: 33
 heat: -1
 published: false
 
@@ -18,7 +18,6 @@ topics:
   - Microsoft AI
   - AI
   - Machine Learning
-  - AI in Finance
 
 related:
   - title: "Wallaroo Labs Launches in Azure Marketplace, Announces Air Gap Support for Edge ML Deployment"
@@ -31,6 +30,6 @@ related:
       domain: datanami.com
     quality: 40
 
-secured: "PVOFKCv2VZkaij1q06heDQw4pAmXkboQ7xn4oYXMFp1oG3tyPLHu4QOz6wujZsWgf4D1LROU1QRv2d+bO54XN3jFFEosroOBBL+4GiNqelljzqSz/YlvhwCdtyBy5Ar1dmut7KaRwDe3B7jLKuhlaJq8pxKwxgg6EyYg65PcRKauD5PfpTP0JyNFFzxTodd1kCxPhUBNsAH+pxTFw174zZWw9bzlkbN1tIOtjTlBJBA5TytxCPp3LjPKora+sijOT4rUXNAjccaS34FWgX4cUlY2UAflD9uDAaMX2qktU83GcmswhhTOudSwbQuxkiwJlYGvgSdMK3TmYKjIqAR4NIn+JdcH/DrmF/BEqWOqjVY=;d7zgYF9wUpikbCx014brZA=="
+secured: "T1UFEj2dbIuXAbZS49E9NdPGIkCsEJ3QMw3bNFXk1kJekE/ZZg7xW7sF5t+srJTyUDE7a74LKQja7Q43ewXm8G3lN5jaJLGMhS1uyqIwZj7RwHBMCMI6vxCy6WVXRcK1mDXIyIi5B+5/NgNhY+bvBvyZju7/nzqxKq3A+U18+fztnK8autjfeFyZATcYtFmDu2ExuCtyRVJNBxxaxDdR6714P6nl43A7MXl4/DNH9xws71BJjBp4vNstHfWzmiHwEKLKuxIVcKne1GsiO3lRwJQzua320zcfIzcq4aBaYADF8zf8MpSKjetIwzJHLWZLqWYOP7Nmm9oEq4fWLzdXqXz0FssIwMyp4HediWg7lpU=;/W3ep9P+AjZ0iKGpmBhgVg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-409
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/amp/"
 type: article
 quality: 78
-heat: 198
+heat: 208
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg"
         width: 700
         height: 300
+        isCached: true
+  - title: "Nvidia CEO proclaims 'Moore's law is dead' over RTX 40-series GPU pricing"
+    excerpt: "After the recent reveal of Nvidia's 40-series graphics cards (opens in new tab), you're probably one of many scrunching your nose up over the pricing. Well, the company's CEO, Jensen Huang has some words of wisdom to share with you and perhaps ease your wallet into opening just that little bit wider."
+    publishedDateTime: 2022-09-23T15:23:00Z
+    webUrl: "https://www.pcgamer.com/nvidia-ceo-proclaims-moores-law-is-dead-over-rtx-40-series-gpu-pricing/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 53
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/p8q3ue5UA9LEtBVyNxgyWn-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Nvidia sends urgent orders to TSMC for banned GPU"
     excerpt: "Nvidia, a major GPU maker, has sent urgent orders to TSMC to make GPUs that will be banned from exporting to China next year, Taiwanese media outlet UDN"

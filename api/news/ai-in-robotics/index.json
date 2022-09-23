@@ -167,7 +167,7 @@
       "originalUrl": "https://venturebeat.com/ai/nvidia-expands-edge-ai-tech-for-healthcare-and-robotics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 326,
+      "heat": 346,
       "tags": null,
       "images": [
         {
@@ -1352,19 +1352,19 @@
     {
       "path": "_news/2022-09-12-realtime-robotics-integrates-robot-motion-planning-control-software-with-siemens-process-simulate.md",
       "title": "Realtime Robotics Integrates Robot Motion Planning & Control Software With Siemens Process Simulate",
-      "excerpt": "The integration empowers Siemens customers to visualize, simulate and validate robot task plans from directly within the process simulate environment.",
+      "excerpt": "This integration enables Siemens customers to utilize Realtime’s innovative robot motion planning and control software as a part of their regular workflow, without leaving Process Simulate. Customers using the integration can easily visualize,",
       "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/september-2022/realtime-robotics-integrates-robot-motion-planning? Control News & Articles",
-      "originalUrl": "https://www.automation.com/en-us/articles/september-2022/realtime-robotics-integrates-robot-motion-planning? Control News & Articles",
+      "webUrl": "https://www.marketwatch.com/press-release/realtime-robotics-integrates-robot-motion-planning-control-software-with-siemens-process-simulate-2022-09-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/realtime-robotics-integrates-robot-motion-planning-control-software-with-siemens-process-simulate-2022-09-12",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.automation.com/getmedia/0175e750-28d0-4f9c-a429-0a0d95a0ae4b/robotics-motion-news-Sept-13-2022-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1377,9 +1377,18 @@
       "publishedDateTime": "2022-09-12T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

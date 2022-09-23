@@ -34,6 +34,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Big Data in Healthcare Market to Grow at a CAGR of 15.9%, during Forecast Period | BlueWeave Consulting"
+    excerpt: "Global Big Data in Healthcare Market is flourishing owing to the government initiatives in developing economies, rising internet penetration, rising e-commerce penetration,"
+    publishedDateTime: 2022-09-23T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28986451/global-big-data-in-healthcare-market-to-grow-at-a-cagr-of-15-9-during-forecast-period-blueweave-co"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28986451"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28986451"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
+    images:
+      - url: "https://ml.globenewswire.com/Resource/Download/2f4ff2e9-9991-471c-a6a4-03b9d51b7b4d"
+        width: 558
+        height: 303
+        isCached: true
   - title: "Natural Language Processing Nlp Market To Reach USD 15.7 Billion By 2022 From USD 49.4 Billion In 2031, At A CAGR Of 25.7% During The Forecast Period"
     excerpt: "Natural Language Processing Nlp Market , 2022-2031' to its database of market research collaterals consisting of overall market scenario with prevalent and future growth prospects, among other growth strategies used by key players to stay ahead of the game."
     publishedDateTime: 2022-09-19T06:35:00Z

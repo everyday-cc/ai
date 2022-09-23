@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104891000/New-AI-Tool-May-Help-Find-Unknown-Pr
 webUrl: "https://menafn.com/1104891000/New-AI-Tool-May-Help-Find-Unknown-Proteins-And-Design-New-Ones"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 333
     height: 250
     isCached: true
-
-related:
-  - title: "New AI tool may help find unknown proteins and design new ones"
-    excerpt: "Artificial Intelligence (AI), machine learning and deep learning have become ubiquitous terms in business, commerce and technology."
-    publishedDateTime: 2022-09-18T21:11:00Z
-    webUrl: "https://www.gulf-times.com/story/724513/New-AI-tool-may-help-find-unknown-proteins-and-des"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 37
-    images:
-      - url: "https://www.gulf-times.com/Content/Upload/Slider/120211213338463942822.jpg"
-        width: 620
-        height: 355
-        isCached: true
 
 secured: "5/QKmMEWBrxM2btl6DwRKzCjsbghUSnhRAm8NBPuGPc8GGls+rBIbXLBI1AN3BeoDJLA1zAobKd7oJdSaI6WmFI3UFTAxW+/OxWcmlj0fDOd7f86U09zvjDOYGtkeFl68IO5ixC8HrKvcYv8zuA/bV8lPgLrYcC9bYDZTSyquPaAPcLUgpZLo87DF9SQWg+iJDvV8gtE6jfwBRNdy5mSyIKmjbGI+pn7E3GQY/4U8y2bNDfEvtzMM7Z/QtSkNQ5vtXz6tOfzmOkA/ZSl5FofEAvB7Opj8zsdPMwPtyLfpJCqMVTt4byrY7nufuL53+lE6RQdBwNCmxH2xAEvVDfXaUFqZQ09vWFGNIjsYoMxx40=;MPovn5XSxA9fI9zCOMeX3A=="
 ---

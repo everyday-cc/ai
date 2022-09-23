@@ -80,6 +80,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 26
+  - title: "Data analytics: Seeing deeper, optimizing better"
+    excerpt: "Just as updating eyeglass prescriptions bring the world into sharper focus, longstanding data analytics solutions can be extended by new and more digitalized tools that identify details and opportunities that weren’t visible before."
+    publishedDateTime: 2022-09-23T12:57:00Z
+    webUrl: "https://www.controlglobal.com/manage/data-analytics/article/21435305/data-analytics-seeing-deeper-optimizing-better"
+    type: article
+    provider:
+      name: Control Global
+      domain: controlglobal.com
+    quality: 4
 
 secured: "NUYYzekQMKH2JByQ1mSKlXw1XTmncmLkBXxR0ESL7kGJn/3Ne/7Z8GtZJQXtyrdeO4oAEUbz5L361QrM/FAngvT2lFqAjb2sB3S7Pmol+6Hg7MgkCfdezn2CLMv7wk1GUDr8LxAl2/Ip9ONyzPM5+EPwFGkFEloC2DnJNIgo/mZsuoVH8tk2opylJxF6XStAbxRDKlSK8XN+D8F21OsKRuUIXL1h02BMtAyyUaBugg7HwBrvJLVk4NFea2Eob1xl9ZxwpoAJoeLNID5ebomJEypQrMzkXaNPdp6y95VDGn+ufWBM1sFT7DOB+rsNEPOPa8aC5ontz5A2te4aTKXyxspUDFtWK2t3br9bfiLzyHMCC1zvrIaWDwR8Sj0Je0U5oWHoRr2s6IzjATqnQ9MxQ2XZAIaPwjGwuDHyGe/0QzJQOgf/M9ELUtOtrbMfHT2w8Yemeo4Wq/cV3g1B7pHGTGzzW9iQbuliRH334uVHFSQB+dHlHaT3oqkU/inEp3e0oIqIJ7xnq9Tq4SJQoek6gQ==;wCCBsOhW8Q/HJBGxkRMLPw=="
 ---

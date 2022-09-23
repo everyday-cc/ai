@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-23T13:27:00Z
 originalUrl: "https://www.law.com/corpcounsel/2022/09/23/ai-can-help-and-hurt-reduce-bias-decision-making/"
 webUrl: "https://www.law.com/corpcounsel/2022/09/23/ai-can-help-and-hurt-reduce-bias-decision-making/"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Law

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-23T12:00:00Z
 originalUrl: "https://www.chron.com/opinion/article/Thumb-resident-in-pursuit-of-brand-recognition-17460024.php"
 webUrl: "https://www.chron.com/opinion/article/Thumb-resident-in-pursuit-of-brand-recognition-17460024.php"
 type: article
+quality: 4
+heat: -1
+published: false
 
 provider:
   name: Houston Chronicle
@@ -14,6 +17,17 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Facial recognition: Spot the hidden word in this optical illusion"
+    excerpt: "Viewers are bruising their noodles trying to solve this Wordle -esque optical illusion, in which the goal is identify the hidden word within the face, as seen in this video with 1.5 million views on TikTok."
+    publishedDateTime: 2022-09-20T19:20:00Z
+    webUrl: "https://nypost.com/2022/09/20/facial-recognition-spot-the-hidden-word-in-this-optical-illusion/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 19
 
 secured: "jE6XECbIDmHp7+1YMevfWKRNi2C6ZgOGWP+3FLwMGNxnsZGiSqeJNHRM5EqqsOTUpxDieu+nMGPOINfxUH6Uu+RztFVSm44f7OjbvSGcJ07JOh/6DdKP9i1afQ/wOl2NORR0HTRMjU/6LkGR84lcC3C3rFZF4emTORbu+AMRVByGHkn6hS3HUx7zrK9elBnaJDEJd5hniKWBCAitrfGke7kf//1KIVQg9VbpCc6tYqZicSaayPMgh3O31ONINg3uI5MjEuQ9mnbylQRRyCIHUwotVWp/cyqZHkZMOMcQ9xnt8i4pcx/XTQn8HBXJO1DCZQXiPOkWEV1KaZZWr4Q42boFphRlMSgv1Z3O2Bsxau8=;nECtORH/uofCjCUF2g5CTg=="
 ---

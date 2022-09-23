@@ -153,6 +153,22 @@ related:
         width: 700
         height: 300
         isCached: true
+  - title: "The challenges of verifying AI for healthcare"
+    excerpt: "Artificial intelligence promises to revolutionise healthcare, but even in areas such as medical imaging, where it is easy to spot AI errors, more research is needed."
+    publishedDateTime: 2022-09-23T10:41:00Z
+    webUrl: "https://www.computerweekly.com/news/252524829/The-challenges-of-verifying-AI-for-healthcare"
+    ampWebUrl: "https://www.computerweekly.com/news/252524829/The-challenges-of-verifying-AI-for-healthcare?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252524829/The-challenges-of-verifying-AI-for-healthcare?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 74
+    images:
+      - url: "https://www.computerweekly.com/rms/onlineimages/ai_a373894778.jpg"
+        width: 1200
+        height: 400
+        isCached: true
   - title: "Nvidia debuts Jetson Orin Nano, a lightweight AI platform for entry-level robotics"
     excerpt: "Jetson Orin Nano was announced today at Nvidia GTC 2022, alongside the availability of its Nvidia Isaac Sim robotics training platform in the cloud. Nvidia Jetson Orin is a family of powerful, compact and energy-efficient artificial intelligence supercomputers designed to power autonomous robots,"
     publishedDateTime: 2022-09-20T16:45:00Z
@@ -220,6 +236,15 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "NVIDIA's new AI model quickly generates objects and characters for virtual worlds"
+    excerpt: "NVIDIA is looking to take the sting out of creating virtual 3D worlds with a new artificial intelligence model. GET3D can generate characters, buildings, vehicles and other types of 3D objects, NVIDIA says."
+    publishedDateTime: 2022-09-23T13:33:00Z
+    webUrl: "https://www.engadget.com/nvidia-ai-model-get3d-virtual-worlds-objects-130021127.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 42
   - title: "NVIDIA RTX Remix Features Hefty AI-Assisted Modding Tool"
     excerpt: "NVIDIA RTX Remix takes modding to a whole new level and allows players to take beautiful in-game screenshots with the press of a hotkey."
     publishedDateTime: 2022-09-20T20:31:00Z
@@ -252,17 +277,6 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 34
-  - title: "NVIDIA Hopper in Full Production"
-    excerpt: "World's Leading Computer Makers Dell Technologies, HPE, Lenovo, Supermicro, Plus Cloud Service Providers AWS, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure Building H100-Based Offerings;"
-    publishedDateTime: 2022-09-20T16:18:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28935573/nvidia-hopper-in-full-production"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28935573"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28935573"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
   - title: "ASUS Servers Announce AI Developments at NVIDIA GTC"
     excerpt: "ASUS, the leading IT company in server systems, server motherboards and workstations, today announced its presence at NVIDIA® GTC"
     publishedDateTime: 2022-09-21T13:12:00Z
@@ -281,6 +295,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "NVIDIA Hopper in Full Production"
+    excerpt: "NVIDIA today announced that the NVIDIA H100 Tensor Core GPU is in full production, with global tech partners planning in October to roll out the first wave of products and services based on the groundbreaking NVIDIA Hopper™ architecture."
+    publishedDateTime: 2022-09-20T16:45:00Z
+    webUrl: "https://insidebigdata.com/2022/09/20/nvidia-hopper-in-full-production/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 4
 
 secured: "qny7ox1LcUt3Z5j/jv7Jc6p/KGJVo9l5QdDRIsnnh61pXHzXxRorGocTvLfeof9gM/dZYVCZSlEQcNQlCWnF+qkafjNMXMve4Z0MhL2HPG7OVtO5SQRLZwIVW8Piyl20kA9J6uPDYAZpy7nAVgItIXeSpBWHAAFxwz2O02KqGYbhe/LWVw/ddXCy3e9+ctwGY2hUa0Og/79ET2ixIFu6SGdx5LO9hxkr+YJZ86pD4B8O+pnFtLoWdcCJowpeKzKaAUqcX7ZIKDiogT+c2CCFIjSl2mv6SP8NOzyr6TYLVEDAVHLXxcCiWDz84o7e17usgc2WOnB+uzJscVuwFe+miUkR+ppldozoq/OV0SHplHzxTCPsZ782A0Xu7KMiiXwacHeLt3YEiXR64qXeJhnaosVzTbOz1y9/4uFskQcew6Rc64vTla+s5FcXbescbPgPHsC7Gytvz0Cr/Ic98VqHjM4Bf5DKcclxWEqYl8cbV8y/MKc4Z8RJggiAGNsgWfNj+Tk36ijyQ658ywwk/EioGQ==;y1H4KTnOkXL5gyJ84QY01w=="
 ---

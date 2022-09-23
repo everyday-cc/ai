@@ -79,6 +79,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Ai In Agriculture Market is projected to reach USD 6.5 billion in 2029, registering a 23.1% CAGR | Size, Share, Report & Forecast"
+    excerpt: "Ai In Agriculture Market The Ai In Agriculture Market was valued around USD 1.2 billion in 2021, and is expected"
+    publishedDateTime: 2022-09-23T11:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-agriculture-market-is-projected-to-reach-usd-65-billion-in-2029-registering-a-231-cagr-size-share-report-forecast-2022-09-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
   - title: "World Healthcare BI Market Trends, Covid-19 Impact, and Forecasts Report 2022-2027"
     excerpt: "The \"Healthcare BI Market- Growth, Trends, Covid-19 Impact, And Forecasts (2022 - 2027)\" report has been added to ResearchAndMarkets.com's offering.The healthcare"
     publishedDateTime: 2022-09-20T14:08:00Z

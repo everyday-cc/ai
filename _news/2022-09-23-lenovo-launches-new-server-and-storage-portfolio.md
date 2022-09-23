@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-23T13:24:00Z
 originalUrl: "https://www.channelweb.co.uk/news/4056856/lenovo-launches-server-storage-portfolio"
 webUrl: "https://www.channelweb.co.uk/news/4056856/lenovo-launches-server-storage-portfolio"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: CRN

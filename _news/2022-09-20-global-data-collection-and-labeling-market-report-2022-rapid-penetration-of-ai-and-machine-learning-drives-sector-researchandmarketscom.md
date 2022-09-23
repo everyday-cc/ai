@@ -20,29 +20,20 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Artificial Intelligence In Medical Imaging Market Technology advancement and Latest Research Report, Quality & Quantity Analysis 2022-2027"
-    excerpt: "Global \"Artificial Intelligence In Medical Imaging Market\" reports provide valuable product, industry knowledge,"
-    publishedDateTime: 2022-09-21T10:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-technology-advancement-and-latest-research-report-quality-quantity-analysis-2022-2027-2022-09-21"
+  - title: "AI Surveillance Camera Market 2022 : Manufacturers Strategies, Share Estimation, Future Demand and Regional Growth Dynamics 2027"
+    excerpt: "Sep 23, 2022 (The Expresswire) -- \"AI Surveillance Camera Market\" valuation is Projected to reach USD 13760 Mn USD by 2027, From 4003 Mn USD In 2022, at"
+    publishedDateTime: 2022-09-23T13:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-surveillance-camera-market-2022-manufacturers-strategies-share-estimation-future-demand-and-regional-growth-dynamics-2027-2022-09-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 35
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Agricultural Robots Market Report 2022: Rising Penetration of Indoor Farming Driving Sector Growth - ResearchAndMarkets.com"
-    excerpt: "The \"Agricultural Robots Market by Type, By Applications, By Component, By Farming Type, and By End Use: Global Opportunity Analysis and Industry Forecast, 2022 - 2030\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2022-09-23T11:01:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-23-global-agricultural-robots-market-report-2022-rising-penetration-of-indoor-farming-driving-sector-growth-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "V3Mb5O3NnsRHCaYfoaPavogQTxAj5zEOzB09uljpHE8Swmdgh+dBwdH35kEawY6yAsJr1dmjhIY06c7QICOO6w8GnYpshy8oW7oRod8txl8b1S4uy5qtfaDsa29mEfCu1qZEzxaL9k6NraHbb3sF7zGIXK1r225Y3FTgRSURnY3+KMh4KR54Bn3rYE8qJb9xZN9kKos1gBzjDaWoSBDpvzOCF9iqeyYzp298pw26YxsWmnU/YijI18hAWS5UfmQxTW7c5Nrayctqvw5WO+qCmsIgx+wVwbLXSYP/2kzcWuYQtwsLp/YEhUK58CNvCF9DBRSYysq7nE3xupliNn3Zh3JUKIf4liYZ5+aQpYDhIvM=;k5+l/2VBE0VhBqV4f4pvcg=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-23T12:07:00Z
 originalUrl: "https://www.proactiveinvestors.com/companies/news/993522/railtown-ai-partners-with-quisitive-technology-solutions-to-empower-software-engineers-993522.html"
 webUrl: "https://www.proactiveinvestors.com/companies/news/993522/railtown-ai-partners-with-quisitive-technology-solutions-to-empower-software-engineers-993522.html"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Proactiveinvestors

@@ -41,6 +41,15 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "The Download: YouTube’s deadly crafts, and DeepMind’s new chatbot"
+    excerpt: "The YouTube baker fighting back against deadly “craft hacks” Ann Reardon is probably the last person whose content you’d expect to be banned from YouTube. A former Australian youth worker and a mother of three,"
+    publishedDateTime: 2022-09-23T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2022/09/23/1059978/download-youtube-deadly-crafts-deepmind-new-ai-chatbot/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 19
 
 secured: "n7T1P6EyhgU9VJbHyZcx2nkbteWgvTP+CpUOGuMkQ5FDnaughe9gANFYjLAYKnHpra3O6DcJTsUucs/kE8PBz6K9VQ+EZKGNU97iIDwt1DKgbB0/iiL4Mn2eKbB6A8FbF7pkc2XikREokD7VRsgM08MteCc6aYPrRTuJN1xnEKddl/F/cukM3IG/iwwzqvrPfpk90DCcPeJZVWBwyKClm+lbFWHkhMtj37KF1kXX6xSPh1MNky/kc3VNOihhHGTjvFXeqg7sf7lSZQq5MC4l7bIGyaCSQ51OFP8QWAIEL2dVEnD9RPTj9g8jxOc2FBR4wz/GrqJA3m5/YioChnd88kTWQrekkF5Zk6notIxRJu6b3nrqxtV0HpIht1FNw3e5Z6azYhiT5h24trHNXL/j1huaECkM++lWBtk3K5xHYQGZ16U58tdIYKRS/7Qp8CPY1vQZ1bip7/3+zcpo76n2a1jZXMBU0JfCs0deXHvoGZp8dgGBmFfLES3V8JhE3ys8SuZaqM+jMMcMHNbSgQhbEA==;o6RBCZT31dlUgY4/S2zHuw=="
 ---

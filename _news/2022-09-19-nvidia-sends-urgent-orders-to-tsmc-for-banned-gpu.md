@@ -57,6 +57,20 @@ related:
         width: 700
         height: 300
         isCached: true
+  - title: "Nvidia CEO proclaims 'Moore's law is dead' over RTX 40-series GPU pricing"
+    excerpt: "After the recent reveal of Nvidia's 40-series graphics cards (opens in new tab), you're probably one of many scrunching your nose up over the pricing. Well, the company's CEO, Jensen Huang has some words of wisdom to share with you and perhaps ease your wallet into opening just that little bit wider."
+    publishedDateTime: 2022-09-23T15:23:00Z
+    webUrl: "https://www.pcgamer.com/nvidia-ceo-proclaims-moores-law-is-dead-over-rtx-40-series-gpu-pricing/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 53
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/p8q3ue5UA9LEtBVyNxgyWn-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Intel is gearing up to release Nvidia RTX 3060 GPU rival"
     excerpt: "Intel CEO Pat Gelsinger says the company is preparing to release the Arc A770, a flagship Alchemist graphics card that'll take on the Nvidia RTX 3060"
     publishedDateTime: 2022-09-20T13:59:00Z

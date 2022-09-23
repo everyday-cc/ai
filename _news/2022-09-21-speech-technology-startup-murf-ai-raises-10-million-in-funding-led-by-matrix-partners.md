@@ -40,6 +40,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Read the 11-page pitch deck AI startup Hour One used to raise a $20 million Series A"
+    excerpt: "Hour One makes avatars, or \"virtual humans,\" using AI. Read the pitch deck that helped them raise a $20 million Series A round."
+    publishedDateTime: 2022-09-23T15:47:00Z
+    webUrl: "https://www.businessinsider.com/pitch-deck-ai-avatar-startup-hour-one-raise-20-million-2022-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://i.insider.com/63121f0f3e08f700196c837d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "We got an exclusive look at the 9-slide pitch deck Innovafeed, an insect protein startup, used to raise $250 million"
     excerpt: "The Series D funding round will be invested in technology, new sites in the US, and will be used to grow Innovafeed's 400-strong headcount."
     publishedDateTime: 2022-09-22T07:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/see-the-pitch-deck-ai-startup-pare
 webUrl: "https://www.businessinsider.com/see-the-pitch-deck-ai-startup-paretos-raise-10-million-2022-9"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Read the 11-page pitch deck AI startup Hour One used to raise a $20 million Series A"
+    excerpt: "Hour One makes avatars, or \"virtual humans,\" using AI. Read the pitch deck that helped them raise a $20 million Series A round."
+    publishedDateTime: 2022-09-23T15:47:00Z
+    webUrl: "https://www.businessinsider.com/pitch-deck-ai-avatar-startup-hour-one-raise-20-million-2022-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://i.insider.com/63121f0f3e08f700196c837d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Speech technology startup Murf AI raises $10 million in funding led by Matrix Partners"
     excerpt: "The startup will use the funds to drive further product innovation, accelerate research and development, as well as scale its presence in focused geographies."
     publishedDateTime: 2022-09-21T06:18:00Z

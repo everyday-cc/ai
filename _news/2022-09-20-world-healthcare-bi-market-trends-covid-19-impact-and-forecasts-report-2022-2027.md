@@ -84,6 +84,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 29
+  - title: "Ai In Agriculture Market is projected to reach USD 6.5 billion in 2029, registering a 23.1% CAGR | Size, Share, Report & Forecast"
+    excerpt: "Ai In Agriculture Market The Ai In Agriculture Market was valued around USD 1.2 billion in 2021, and is expected"
+    publishedDateTime: 2022-09-23T11:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-agriculture-market-is-projected-to-reach-usd-65-billion-in-2029-registering-a-231-cagr-size-share-report-forecast-2022-09-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
   - title: "Artificial Intelligence in Gaming Market Size | SWOT Analysis, Growth Factors, Top Key Players, Latest Trends, Industry Share and Forecast to 2028"
     excerpt: "Global Artificial Intelligence in Gaming Market The global Artificial Intelligence in Gaming market size is projected to reach USD million by 2028, from USD million in 2021, at a CAGR of % during 2022-2028."
     publishedDateTime: 2022-09-21T11:20:00Z

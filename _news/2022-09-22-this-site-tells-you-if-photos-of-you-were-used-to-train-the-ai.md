@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-22T15:42:00Z
 originalUrl: "https://techcrunch.com/2022/09/21/who-fed-the-ai/"
 webUrl: "https://techcrunch.com/2022/09/21/who-fed-the-ai/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: TechCrunch
