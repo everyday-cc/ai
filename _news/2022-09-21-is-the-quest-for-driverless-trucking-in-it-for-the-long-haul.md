@@ -82,6 +82,34 @@ related:
         width: 2560
         height: 1920
         isCached: true
+  - title: "Volkswagen concept previews tomorrow's driverless rental pods"
+    excerpt: "When (if?) cars become properly driverless, why not make them glassy pods with beds, desks and AR entertainment for the kids?"
+    publishedDateTime: 2022-09-23T05:37:00Z
+    webUrl: "https://www.carexpert.com.au/car-news/volkswagen-concept-previews-tomorrows-driverless-rental-pods"
+    type: article
+    provider:
+      name: CarExpert
+      domain: carexpert.com.au
+    quality: 39
+    images:
+      - url: "https://images.carexpert.com.au/crop/1200/630/app/uploads/2022/09/Volkswagen-Gen-TravelNR00051_large.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Volkswagen shows driverless future"
+    excerpt: "Volkswagen Group's Gen.Travel concept previews a truly autonomous future. Volkswagen shows driverless future - CompleteCar.ie car news"
+    publishedDateTime: 2022-09-23T04:03:00Z
+    webUrl: "https://www.completecar.ie/car-news/article/11905/Volkswagen-shows-driverless-future"
+    type: article
+    provider:
+      name: Complete Car
+      domain: completecar.ie
+    quality: 39
+    images:
+      - url: "https://www.completecar.ie/img/news/11905_large.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
 
 secured: "csgUvwhSCSRziP3wIctdBxZhuJLx0MUEFe8TNnWtDp9XFVnhiyWU5oNJcCvEHrzRC6y3eXJ2BIZUCvXTfrodsmTVMwWZ9pIHdxXXeT+RrktFGd8PPjYfp+RzKr0Ke99V/zrRJP5UCKweVs937wHvOzVi6560H50ttb2UuQq9JbjMt3M+btKidM6bY4q/oDqGKSaiqChxc4g77fP2MCPFdiiJjwIavVk+AmKZdvuvlByw7hmjZityr6WE81842AeqG3RqHbvGqpTcSRshhHNXpWp5n2kNAA0+sQRTTCoRDIMQMcryFTPKg8Amn2+nlA62ce5GUpwoVhGOzGP3Ks6kO5vjRsTICVyzzXc0uSw9/Kk=;trgaWx4lBpc1mradCkNrPw=="
 ---

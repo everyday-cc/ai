@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2022/09/20/chinese-electric-vehicle-maker-x
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/09/20/chinese-electric-vehicle-maker-xpeng-launches-rival-to-teslas-full-self-driving-system.html"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese cities race to experiment autonomous driving, ready to accelerate commercial use"
-    excerpt: "Nowadays, more cities in China are offering driverless public transport, reflecting the rapid growth of autonomous driving in the country. And, Beijing city announced on Friday the launch of the phase-3 construction of Beijing High-level Autonomous Driving Demonstration Zone."
-    publishedDateTime: 2022-09-18T12:23:00Z
-    webUrl: "https://www.globaltimes.cn/page/202209/1275491.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 15
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-09-18/89d74ded-1f3d-4fd8-bc6d-35d54e848403.jpeg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Xpeng Motors Debuts Autonomous Driving System as EV Race Heats Up"
     excerpt: "Chinese EV (electric vehicle) company Xpeng Motors (NYSE: XPEV) has debuted a semi-autonomous driving system in China. It has"
     publishedDateTime: 2022-09-20T13:16:00Z

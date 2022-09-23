@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-20-how-ai-is-changing-the-way-students-learn.md",
+      "title": "How AI Is Changing The Way Students Learn",
+      "excerpt": "In our increasingly fast-moving world, many schools are still facing the challenge of integrating the latest digital technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-changing-the-way-students-learn/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-changing-the-way-students-learn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/608b1e8f685217f6a56050b2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-changing-the-way-students-learn/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-changing-the-way-students-learn/amp/",
+      "publishedDateTime": "2022-09-20T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-artificial-intelligence-in-healthcare-market-trends-size-share-growth-status-key-segments-and-forecast-2028.md",
+      "title": "Artificial Intelligence in Healthcare Market Trends, Size, Share, Growth Status, Key Segments and Forecast 2028",
+      "excerpt": "The Global Artificial Intelligence in Healthcare Market is estimated to register a CAGR of over 38.1% during the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-trends-size-share-growth-status-key-segments-and-forecast-2028-2022-09-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-trends-size-share-growth-status-key-segments-and-forecast-2028-2022-09-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T05:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-chinese-ev-maker-xpeng-launches-rival-to-teslas-semi-autonomous-driving-system.md",
       "title": "Chinese EV maker Xpeng launches rival to Tesla's semi-autonomous driving system",
       "excerpt": "Xpilot and City NGP is Xpeng's answer to Tesla's Full Self Driving Beta which the company is currently testing with customers in the U.S. In this article Xpeng launched a feature that allows its ...",
@@ -10,7 +113,7 @@
       "originalUrl": "https://www.cnbc.com/2022/09/20/chinese-electric-vehicle-maker-xpeng-launches-rival-to-teslas-full-self-driving-system.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1101,100 +1204,6 @@
         "Machine Learning",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-09-18-clearview-ai-used-by-police-to-find-criminals-now-in-public-defenders-hands.md",
-      "title": "Clearview AI, Used by Police to Find Criminals, Now in Public Defenders’ Hands",
-      "excerpt": "After a Florida man was accused of vehicular homicide, his lawyer used Clearview AI’s facial recognition software to prove his innocence. But other defense lawyers say Clearview’s offer rings hollow.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/09/18/technology/facial-recognition-clearview-ai.html",
-      "originalUrl": "https://www.nytimes.com/2022/09/18/technology/facial-recognition-clearview-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/09/18/business/18clearview/merlin_213002715_2c63bec8-2f01-4ec2-bfa5-2a48a70905d9-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/09/18/technology/facial-recognition-clearview-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/09/18/technology/facial-recognition-clearview-ai.amp.html",
-      "publishedDateTime": "2022-09-18T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-18-global-artificial-intelligence-market-to-reach-450-bn-in-2022.md",
-      "title": "Global artificial intelligence market to reach $450 bn in 2022",
-      "excerpt": "The Artificial Intelligence (AI) market value is expected to reach nearly $450 billion this year and maintain a year-over-year growth rate in the next 5 years, a new report has forecast.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/tech/news/global-artificial-intelligence-market-to-reach-450-bn-in-2022/articleshow/94269565.cms",
-      "originalUrl": "https://www.businessinsider.in/tech/news/global-artificial-intelligence-market-to-reach-450-bn-in-2022/articleshow/94269565.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/94269574.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/tech/news/global-artificial-intelligence-market-to-reach-450-bn-in-2022/amp_articleshow/94269565.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/global-artificial-intelligence-market-to-reach-450-bn-in-2022/amp_articleshow/94269565.cms",
-      "publishedDateTime": "2022-09-17T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

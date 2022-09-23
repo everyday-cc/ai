@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2022-09-ai-based-screening-method-boost-drug.a
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-ai-based-screening-method-boost-drug.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Phys.org
@@ -40,6 +40,20 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "Researchers develop artificial intelligence screening techniques to speed up drug discovery"
+    excerpt: "Developing life-saving drugs can cost billions of dollars and take decades but researchers have developed a new artificial intelligence-based drug screening te"
+    publishedDateTime: 2022-09-23T05:03:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272787941/researchers-develop-artificial-intelligence-screening-techniques-to-speed-up-drug-discovery"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 29
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1663909281.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "MOO/CEk/YtSLmVPZ9uOQjm+hWv/5oRQhcj5ZOv8GtK5S0lsM11Qkhwk4TXJ5G+L1tadu/d6EkGVAjTHW5USgGFCk4HPxENHjbiVZbhsezUpeT8Q0WIl7djAnfyZibaaRDLuGWQbKllAL45K+hi/hOQAwSPwylmeV4nP58zDDaUTZDKISC3qCh/GtH5foYNGCCYYr8kbu868HzE72KKNVxzwzVvw2j9Xo9gS8ol84OT6l2WFsyTsOWCfe3DJ0tc2OVu+a08xGim7P8pXFU3HJ59/NXI+Sf4PLAvFw6JyxsLSr0kxtAkq0C5RWpt0X3r/yvNZ88wCVqdM72r6VQniu77t3LoYFjZgey/C2U73GRxphh1keMXUo+bb1VPyRxVMdZiFBYkvnRQS43Xb0ByAfO8XW7B/zfqa1fp6LEFrYyguPf9CynLFjEGVdjP1vUEuAj0C68RjJigxyGEWbOFRDOkdj/DBMxZGcwVBppN5ivKuiLWHzioxgvoqKshuUIpVOwPGqNTQiwVwNBSg9rXf+Ag==;F7OInfID+vOYn1jk6rhTcQ=="

@@ -2,6 +2,92 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-09-12-computer-vision-application-cases.md",
+      "title": "Computer Vision Application Cases",
+      "excerpt": "Recently, there have been increasing attempts to create a facial recognition application for various characters using OpenCV tools. However, despite the high speed, the quality of these tools turned out to be insufficient. In search of automation, a bit of ...",
+      "sourceUrl": null,
+      "webUrl": "https://gisuser.com/2022/09/computer-vision-application-cases/",
+      "originalUrl": "https://gisuser.com/2022/09/computer-vision-application-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gisuser.com/2022/09/computer-vision-application-cases/amp/",
+      "cdnAmpWebUrl": "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2022/09/computer-vision-application-cases/amp/",
+      "publishedDateTime": "2022-09-12T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gisuser",
+        "domain": "gisuser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-artificial-intelligence-in-retail-market-size-2025-the-e-commerce-segment-captured-779-of-the-market-share-by-2025.md",
+      "title": "Artificial Intelligence in Retail Market Size 2025: The e-commerce segment captured 77.9% of the market share by 2025",
+      "excerpt": "According to The Insight Partners' research, the global artificial intelligence in the retail market accounted for US$ 712.6 million in 2016 and is expected to grow at a CAGR of 51.2% during the forecast period of 2017-2025 to account for US$ 27,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-2025-the-e-commerce-segment-captured-779-of-the-market-share-by-2025-2022-09-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-2025-the-e-commerce-segment-captured-779-of-the-market-share-by-2025-2022-09-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T05:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-12-hepion-pharmaceuticals-announces-initiation-of-dosing-in-phase-2-altitude-nash-liver-function-trial.md",
       "title": "Hepion Pharmaceuticals Announces Initiation of Dosing in Phase 2 ‘ALTITUDE-NASH’ Liver Function Trial",
       "excerpt": "Hepion Pharmaceuticals, Inc. (NASDAQ:HEPA), a clinical stage biopharmaceutical company focused on Artificial Intelligence (“AI”)-driven therapeutic drug development for the treatment of non-alcoholic steatohepatitis (“NASH”),",
@@ -1013,92 +1099,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-11-meta-is-building-ai-that-reads-brainwaves-the-reality-so-far-is-messy.md",
-      "title": "Meta Is Building AI That Reads Brainwaves. The Reality, So Far, Is Messy",
-      "excerpt": "Researchers at Meta, the parent company of Facebook, are working on a new way to understand what’s happening in people’s minds. On August 31, the company announced that research scientists in ...",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6210261/meta-ai-brains-speech/",
-      "originalUrl": "https://time.com/6210261/meta-ai-brains-speech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-10T12:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-10-meta-developing-artificial-intelligence-that-can-hear-brainwaves.md",
-      "title": "Meta developing artificial intelligence that can 'hear' brainwaves",
-      "excerpt": "While Meta's research is in the early stages, the company is funding research into artificial intelligence to help people with brain injuries communicate by recording their brain activity without ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonexaminer.com/news/meta-brainwaves-hearing-artificial-intelligence",
-      "originalUrl": "https://www.washingtonexaminer.com/news/meta-brainwaves-hearing-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediadc.brightspotcdn.com/dims4/default/16b88ad/2147483647/strip/true/crop/2290x1202+0+62/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fcf%2F2e%2Fe7108d0f4f608cc5529ae7adeab2%2Fai.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-10T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Examiner",
-        "domain": "washingtonexaminer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

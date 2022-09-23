@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-21-improving-accuracy-of-computer-vision-models-voxel51-raises-125m.md",
+      "title": "Improving accuracy of computer vision models, Voxel51 raises $12.5M",
+      "excerpt": "Computer vision startup, Voxel51, helping data scientists ensure the accuracy of datasets used for computer vision, raises $12.5M series A.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/improving-accuracy-of-computer-vision-models-voxel51-raises-12-5m/",
+      "originalUrl": "https://venturebeat.com/ai/improving-accuracy-of-computer-vision-models-voxel51-raises-12-5m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/06/computer-vision-e1663772711547.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/improving-accuracy-of-computer-vision-models-voxel51-raises-12-5m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/improving-accuracy-of-computer-vision-models-voxel51-raises-12-5m/amp/",
+      "publishedDateTime": "2022-09-21T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-tech-war-nvidia-ceo-jensen-huang-confident-in-china-market-despite-us-ai-chip-ban.md",
+      "title": "Tech war: Nvidia CEO Jensen Huang confident in China market despite US AI chip ban",
+      "excerpt": "Jensen Huang says China continues to present a significant growth opportunity even after Washington restricted the Californian company from exporting two of its top chips to the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-war/article/3193316/tech-war-nvidia-ceo-jensen-huang-confident-china-market-despite-us-ai",
+      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3193316/tech-war-nvidia-ceo-jensen-huang-confident-china-market-despite-us-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/09/21/6b696160-95c0-4607-9999-c01b287baab3_021e4de6.jpg?itok=wesR8G4f&v=1663760466",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-21-arm-continues-its-datacenter-drive-with-neoverse-2.md",
       "title": "Arm Continues Its Datacenter Drive With Neoverse 2",
       "excerpt": "Senior Analyst, Servers, Matt Kimball, dives in as ARM recently announced Neoverse 2 – an updated IP portfolio designed to achieve greater performance, efficiency, and security gains. Matt unpacks Neoverse 2 and what this means for enterprise IT.",
@@ -1163,109 +1267,6 @@
         "AI Ethics",
         "AI in Security",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-how-ai-is-changing-the-way-students-learn.md",
-      "title": "How AI Is Changing The Way Students Learn",
-      "excerpt": "In our increasingly fast-moving world, many schools are still facing the challenge of integrating the latest digital technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-changing-the-way-students-learn/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-changing-the-way-students-learn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/608b1e8f685217f6a56050b2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 775,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-changing-the-way-students-learn/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-changing-the-way-students-learn/amp/",
-      "publishedDateTime": "2022-09-20T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-artificial-intelligence-in-healthcare-market-trends-size-share-growth-status-key-segments-and-forecast-2028.md",
-      "title": "Artificial Intelligence in Healthcare Market Trends, Size, Share, Growth Status, Key Segments and Forecast 2028",
-      "excerpt": "The Global Artificial Intelligence in Healthcare Market is estimated to register a CAGR of over 38.1% during the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-trends-size-share-growth-status-key-segments-and-forecast-2028-2022-09-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-trends-size-share-growth-status-key-segments-and-forecast-2028-2022-09-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T05:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

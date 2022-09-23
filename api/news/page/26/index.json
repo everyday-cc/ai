@@ -2,6 +2,112 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2022-08-30-merkle-launches-ethical-ai-white-paper-highlights-need-for-explainable-ai-in-marketing.md",
+      "title": "Merkle Launches Ethical AI White Paper, Highlights Need for Explainable AI in Marketing",
+      "excerpt": "Merkle Launches Ethical AI White Paper, Highlights Need for Explainable AI in Marketing Aug 30, 2022 (PRNewswire via COMTEX) -- PR Newswire COLUMBIA,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/merkle-launches-ethical-ai-white-paper-highlights-need-for-explainable-ai-in-marketing-2022-08-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/merkle-launches-ethical-ai-white-paper-highlights-need-for-explainable-ai-in-marketing-2022-08-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-artificial-intelligence-chip-market-size-worth-usd-832527-million-by-2027-the-insight-partners.md",
+      "title": "Artificial Intelligence Chip Market Size Worth USD 83,252.7 million By 2027 | The Insight Partners",
+      "excerpt": "According to The Insight Partners' research, the Artificial Intelligence Chip Market to 2027 – Global Analysis and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-worth-usd-832527-million-by-2027-the-insight-partners-2022-08-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-worth-usd-832527-million-by-2027-the-insight-partners-2022-08-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T04:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-mits-ai-model-can-detect-parkinsons-by-tracking-breathing-patterns.md",
       "title": "MITs AI model can detect Parkinsons by tracking breathing patterns",
       "excerpt": "The U.S. Dina Katabi Dina Katabi, the Thuan and Nicole Pham Professor in the Department of Electrical Engineering and Computer Science (EECS) at MIT and principal investigator at MIT Jameel Clinic, and her team have developed an artificial intelligence model that can detect Parkinson’s just from reading a person’s breathing patterns.",
@@ -1047,108 +1153,6 @@
         "AI in Autos",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-edison-international-ceo-ai-tools-are-transforming-utilities.md",
-      "title": "Edison International CEO: AI Tools are Transforming Utilities",
-      "excerpt": "CEO Pedro Pizarro says “We are doing things today we didn’t imagine five years ago”",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/videos/watch/Edison-International-CEO-AI-Tools-are-Transforming-Utilities/a354e744-d4ee-4f2a-8c9a-ae9cecbbd160",
-      "originalUrl": "https://fortune.com/videos/watch/Edison-International-CEO-AI-Tools-are-Transforming-Utilities/a354e744-d4ee-4f2a-8c9a-ae9cecbbd160",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2byebo1j9i40c.cloudfront.net/a354e744-d4ee-4f2a-8c9a-ae9cecbbd160/Images/posterImage-ver1-1280x720.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/videos/watch/edison-international-ceo%3A-ai-tools-are-transforming-utilities/a354e744-d4ee-4f2a-8c9a-ae9cecbbd160/amp",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/edison-international-ceo%3A-ai-tools-are-transforming-utilities/a354e744-d4ee-4f2a-8c9a-ae9cecbbd160/amp",
-      "publishedDateTime": "2022-08-29T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-undeclared-pools-in-france-uncovered-by-ai-technology.md",
-      "title": "Undeclared pools in France uncovered by AI technology",
-      "excerpt": "The discovery of thousands of undeclared private swimming pools in France has provided an unexpected windfall for French tax authorities. Following an experiment using artificial intelligence (AI), more than 20,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-europe-62717599",
-      "originalUrl": "https://www.bbc.com/news/world-europe-62717599",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/4B27/production/_126493291_gettyimages-178924445.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/world-europe-62717599.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-62717599.amp",
-      "publishedDateTime": "2022-08-29T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

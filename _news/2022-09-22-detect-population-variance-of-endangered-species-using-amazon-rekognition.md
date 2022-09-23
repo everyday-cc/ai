@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/detect-population-va
 webUrl: "https://aws.amazon.com/blogs/machine-learning/detect-population-variance-of-endangered-species-using-amazon-rekognition/"
 type: article
 quality: 105
-heat: 136
+heat: 137
 published: true
 
 provider:

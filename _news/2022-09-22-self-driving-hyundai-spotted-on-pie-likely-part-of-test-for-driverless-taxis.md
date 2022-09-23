@@ -9,7 +9,7 @@ ampWebUrl: "https://mustsharenews.com/self-driving-car-pie/amp/"
 cdnAmpWebUrl: "https://mustsharenews-com.cdn.ampproject.org/c/s/mustsharenews.com/self-driving-car-pie/amp/"
 type: article
 quality: 71
-heat: 111
+heat: 131
 published: true
 
 provider:
@@ -81,6 +81,34 @@ related:
       - url: "https://ietp-web-app-global-assets.azurewebsites.net:443/media/sw4jnnsc/wechat-icon.png"
         width: 512
         height: 512
+        isCached: true
+  - title: "Volkswagen concept previews tomorrow's driverless rental pods"
+    excerpt: "When (if?) cars become properly driverless, why not make them glassy pods with beds, desks and AR entertainment for the kids?"
+    publishedDateTime: 2022-09-23T05:37:00Z
+    webUrl: "https://www.carexpert.com.au/car-news/volkswagen-concept-previews-tomorrows-driverless-rental-pods"
+    type: article
+    provider:
+      name: CarExpert
+      domain: carexpert.com.au
+    quality: 39
+    images:
+      - url: "https://images.carexpert.com.au/crop/1200/630/app/uploads/2022/09/Volkswagen-Gen-TravelNR00051_large.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Volkswagen shows driverless future"
+    excerpt: "Volkswagen Group's Gen.Travel concept previews a truly autonomous future. Volkswagen shows driverless future - CompleteCar.ie car news"
+    publishedDateTime: 2022-09-23T04:03:00Z
+    webUrl: "https://www.completecar.ie/car-news/article/11905/Volkswagen-shows-driverless-future"
+    type: article
+    provider:
+      name: Complete Car
+      domain: completecar.ie
+    quality: 39
+    images:
+      - url: "https://www.completecar.ie/img/news/11905_large.jpg"
+        width: 1500
+        height: 1000
         isCached: true
 
 secured: "ocl7jVnmnvbdxRGMdld7SsL/7bXZxmKUNB1qsCQpu361gRYMmyMzXzOn6i3frKviOoONxzKU6x2YS2fyXdJtKKYrvqggdw3OOakSDSgbHtu9FzgdLRXoPkrWQUFl7zd9anNjhNxsg4gOMXsilSkfQHLwEd0VGqn4NpEycaZaKY/VjEAABswd8BnqKQenoJa+REC0A85QiJ4CCBwH/oiUtQHMJkhxd7WTPUXWdsTMTZHA45e5UXcF1vegUYbBRSKsRJgRFBpL6Srg+MClao+96uHaVq3RypXNuotIW8eScKacdqxxi8zfKqT6zhRN4m13yDjEIRTwTlzAF8N0ZyfaooFRtvecMNtfXhJ8RK6GLgg=;kPedu86TIXU3bWhFGmQpqw=="

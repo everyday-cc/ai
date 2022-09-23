@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-07-12-soon-ai-based-mandarin-translation-devices-for-troops-on-lac.md",
+      "title": "Soon AI-based mandarin translation devices for troops on LAC",
+      "excerpt": "... products and applications unveiled by Defence Minister Rajnath Singh at the ‘AI in Defence’ symposium on Monday. “It is an offline handheld language translation system which works based on AI. It has been tested in the forward areas and Army has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/national/soon-ai-based-mandarin-translation-devices-for-troops-on-lac/article65628104.ece",
+      "originalUrl": "https://www.thehindu.com/news/national/soon-ai-based-mandarin-translation-devices-for-troops-on-lac/article65628104.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/pew880/article65628681.ece/alternates/LANDSCAPE_615/ai%20story%20image.jpg",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/national/soon-ai-based-mandarin-translation-devices-for-troops-on-lac/article65628104.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/soon-ai-based-mandarin-translation-devices-for-troops-on-lac/article65628104.ece/amp/",
+      "publishedDateTime": "2022-07-12T02:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-a-year-in-the-making-bigsciences-ai-language-model-is-finally-available.md",
       "title": "A year in the making, BigScience’s AI language model is finally available",
       "excerpt": "BigScience, a collaborative research effort spearheaded by Hugging Face, has released a large language model that can be applied to a range of domains.",
@@ -1371,49 +1414,6 @@
       "provider": {
         "name": "Axios",
         "domain": "axios.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-azra-ai-expands-innovative-incidental-findings-technology-to-help-clinicians-identify-more-cancers.md",
-      "title": "Azra AI expands innovative incidental findings technology to help clinicians identify more cancers",
-      "excerpt": "Azra AI’s proprietary software — which uses artificial intelligence (AI) and natural language processing to identify incidental lung nodules in medical reports — is expanding to include liver, kidney and adrenal,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-health-cancer-artificial-intelligence-ovarian-5ec885db2d8d35ddef975c8a947fd694",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-health-cancer-artificial-intelligence-ovarian-5ec885db2d8d35ddef975c8a947fd694",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

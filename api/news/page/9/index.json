@@ -2,6 +2,112 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-09-14-synopsys-to-seed-startup-innovation-with-ai-powered-chip-design-tools-in-the-cloud.md",
+      "title": "Synopsys To Seed Startup Innovation With AI-Powered Chip Design Tools In The Cloud",
+      "excerpt": "This new chip design tool seed program for startups could help accelerate the pace of innovation in many markets and industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2022/09/13/synopsys-to-seed-startup-innovation-with-ai-powered-chip-design-tools-in-the-cloud/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2022/09/13/synopsys-to-seed-startup-innovation-with-ai-powered-chip-design-tools-in-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6320d84574a794428be9950b/0x0.jpg?format=jpg&width=1200",
+          "width": 1024,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2022/09/13/synopsys-to-seed-startup-innovation-with-ai-powered-chip-design-tools-in-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/09/13/synopsys-to-seed-startup-innovation-with-ai-powered-chip-design-tools-in-the-cloud/amp/",
+      "publishedDateTime": "2022-09-13T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-oracle-mysql-heatwave-comes-to-aws.md",
+      "title": "Oracle MySQL HeatWave comes to AWS",
+      "excerpt": "Oracle’s MySQL database service supporting mixed analytical, transaction processing, and machine learning workloads is now available on Amazon Web Services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3673372/oracle-mysql-heatwave-comes-to-aws.html",
+      "originalUrl": "https://www.infoworld.com/article/3673372/oracle-mysql-heatwave-comes-to-aws.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/11/apples_oranges_slices_mixture_puzzle_balance_opposites_fruit__savatore-gersace_flickr-100779885-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3673372/oracle-mysql-heatwave-comes-to-aws.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3673372/oracle-mysql-heatwave-comes-to-aws.amp.html",
+      "publishedDateTime": "2022-09-13T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-what-the-eu-ai-act-means-for-the-insurance-industry.md",
       "title": "What the EU AI Act means for the insurance industry",
       "excerpt": "A new EU AI Act draft shows that regulatory oversight of AI and the data fed into AI systems will increase in Europe and also globally.",
@@ -514,6 +620,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-13-kyndis-natural-language-search-solution-recognized-as-a-kmworld-top-trend-setting-product-of-2022.md",
+      "title": "Kyndi's Natural Language Search Solution Recognized as a KMWorld Top Trend-Setting Product of 2022",
+      "excerpt": "Kyndi, the leading natural language processing (NLP) company, today announced that KMWorld, the premier knowledge management publication, has acknowledged the Kyndi Natural Language Search Solution as a Top Trend-Setting Product of 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-kyndis-natural-language-search-solution-recognized-as-kmworld-/2022/09/13/9672530.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-kyndis-natural-language-search-solution-recognized-as-kmworld-/2022/09/13/9672530.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1896484/KMWorld_has_acknowledged_the_Kyndi_Natural_Language_Search_Solution_as_a_Top_Trend_Setting_Product_o.jpg",
+          "width": 400,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-13-between-a-rock-and-a-hard-place-new-research-reveals-us-banking-is-trapped-by-rising-financial-crime-and-perceived-tech-complexity.md",
       "title": "Between a rock and a hard place – new research reveals US Banking is trapped by rising financial crime and perceived tech complexity",
       "excerpt": "Featurespace, the leading provider of enterprise financial crime prevention software, announced the release of a new report, “The State of Fraud and Financial Crime in the U.S.” conducted in conjunction with PYMNTS.",
@@ -630,40 +779,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-kyndis-natural-language-search-solution-recognized-as-a-kmworld-top-trend-setting-product-of-2022.md",
-      "title": "Kyndi's Natural Language Search Solution Recognized as a KMWorld Top Trend-Setting Product of 2022",
-      "excerpt": "SAN MATEO, Calif., Sept. 13, 2022 /PRNewswire/ -- Kyndi, the leading natural language processing (NLP) company, today announced that KMWorld, the premier knowledge management publication ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/n28847758/kyndis-natural-language-search-solution-recognized-as-a-kmworld-top-trend-setting-product-of-2022",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/n28847758/kyndis-natural-language-search-solution-recognized-as-a-kmworld-top-trend-setting-product-of-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T06:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1037,85 +1152,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-baron-funds-sees-significant-upside-for-baidu-bidu.md",
-      "title": "Baron Funds Sees Significant Upside for Baidu (BIDU)",
-      "excerpt": "Baron Funds discussed stocks like Baidu, Inc. (NASDAQ:BIDU) in the second quarter investor letter. Headquartered in Beijing, China, Baidu, Inc. (NASDAQ:BIDU) is an internet search service provider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/baron-funds-sees-significant-upside-for-baidu-bidu-1064643/",
-      "originalUrl": "https://www.insidermonkey.com/blog/baron-funds-sees-significant-upside-for-baidu-bidu-1064643/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T22:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story.md",
-      "title": "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story",
-      "excerpt": "New Jersey, NJ -- (SBWIRE) -- 09/13/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ...",
-      "sourceUrl": null,
-      "webUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-54",
-      "originalUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-54",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insurancenewsnet.com",
-        "domain": "insurancenewsnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI",
-        "IBM AI"
       ]
     }
   ],

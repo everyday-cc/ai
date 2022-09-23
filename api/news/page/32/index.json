@@ -2,6 +2,109 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2022-08-25-join-us-in-the-ai-test-kitchen.md",
+      "title": "Join us in the AI Test Kitchen",
+      "excerpt": "As AI technologies continue to advance, they have the potential to unlock new experiences that support more natural human-computer interactions. We see a future where you can find the information you’re looking for in the same conversational way you speak to friends and family. While there’s still lots",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/join-us-in-the-ai-test-kitchen/",
+      "originalUrl": "https://blog.google/technology/ai/join-us-in-the-ai-test-kitchen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/image_louDEPv.max-1300x1300.png",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/join-us-in-the-ai-test-kitchen/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/join-us-in-the-ai-test-kitchen/amp/",
+      "publishedDateTime": "2022-08-25T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-googles-new-app-lets-you-experimental-ai-systems-like-lamda.md",
+      "title": "Google’s new app lets you experimental AI systems like LaMDA",
+      "excerpt": "Google has launched AI Test Kitchen, an app previewed at Google I/O 2022 that lets users test experimental systems, including LaMDA, developed by the company's internal research divisions.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/25/googles-new-app-lets-you-experimental-ai-systems-like-lamda/",
+      "originalUrl": "https://techcrunch.com/2022/08/25/googles-new-app-lets-you-experimental-ai-systems-like-lamda/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1230444599-1-e1660816546129.jpg?w=1024",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/25/googles-new-app-lets-you-experimental-ai-systems-like-lamda/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/25/googles-new-app-lets-you-experimental-ai-systems-like-lamda/amp/",
+      "publishedDateTime": "2022-08-25T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-25-microsoft-describes-magicweb-attacks-using-active-directory-federation-services.md",
       "title": "Microsoft Describes 'MagicWeb' Attacks Using Active Directory Federation Services",
       "excerpt": "Microsoft on Wednesday described \"MagicWeb\" attacks by an advanced persistent threat group called \"Nobelium,\" advising organizations using Active Directory Federation Services (ADFS) to take ...",
@@ -1062,111 +1165,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-the-next-technological-time-warp.md",
-      "title": "The Next Technological Time Warp",
-      "excerpt": "Even if you look at other modalities, like early image generation models and their ability to generate faces—not to mention today’s image generation capabilities with models such as DALL-E 2—telling the difference between human-generated and AI-generated content has been difficult for quite some time now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/servicenow/2022/08/24/the-next-technological-time-warp/",
-      "originalUrl": "https://www.forbes.com/sites/servicenow/2022/08/24/the-next-technological-time-warp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6306c01dd2c11b73cd7d1fdb/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/servicenow/2022/08/24/the-next-technological-time-warp/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2022/08/24/the-next-technological-time-warp/amp/",
-      "publishedDateTime": "2022-08-24T17:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-advancing-conservation-with-ai-based-facial-recognition-of-turtles.md",
-      "title": "Advancing conservation with AI-based facial recognition of turtles",
-      "excerpt": "We came across Zindi – a dedicated partner with complementary goals – who are the largest community of African data scientists and host competitions that focus on solving Africa’s most pressing problems. Our Science team’s Diversity, Equity, and Inclusion (DE&I) team worked with Zindi to identify a scientific",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/advancing-conservation-with-ai-based-facial-recognition-of-turtles",
-      "originalUrl": "https://www.deepmind.com/blog/advancing-conservation-with-ai-based-facial-recognition-of-turtles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/63061177d7f69d1362d8131e_w-VkMnf2sMOOlIQBg5mgjxCmIR8jzbdk4dNkoVyq55So3N0zNdWUa2xSQs0hRJxneQhGae3Nz62pNaqLggj4tm-EN8XO229WRDuZYUBcCtOdGsEsKMAQBLW5UkyFfhlPwtOozh-6VcDJ50RV0SZZXleKsSytCDJr422G1RwVKwcftW3p_2XXpFufsJKeO0dDa6PUQZVRnRmKCK-FKwzbd8yYSjLsHz-eaw.png",
-          "width": 1600,
-          "height": 1427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -2,6 +2,113 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2022-08-29-tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.md",
+      "title": "TensorFlow, PyTorch, and JAX: Choosing a deep learning framework",
+      "excerpt": "Three widely used frameworks are leading the way in deep learning research and production today. One is celebrated for ease of use, one for features and maturity, and one for immense scalability. Which one should you use?",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3670114/tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.html",
+      "originalUrl": "https://www.infoworld.com/article/3670114/tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/12/artificial-intelligence-concept-picture-id1160995648-100855293-large-100912931-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3670114/tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3670114/tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.amp.html",
+      "publishedDateTime": "2022-08-29T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "Facebook AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-elon-musk-aims-to-have-self-driving-teslas-ready-by-year-end-in-the-us.md",
+      "title": "Elon Musk: aims to have self-driving Teslas ready by year-end in the U.S.",
+      "excerpt": "Tesla founder Elon Musk said on Monday he aimed to get self-driving Teslas ready by year-end and hopes they could be in wide release in the United States and possibly in Europe, depending on regulatory approval.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/elon-musk-aims-have-self-driving-teslas-ready-by-year-end-us-2022-08-29/",
+      "originalUrl": "https://www.reuters.com/technology/elon-musk-aims-have-self-driving-teslas-ready-by-year-end-us-2022-08-29/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 293,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/R4cQPqkeAFIqFa7vRkbVIZLmGzE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RNKFK5ENWZLSBKGNTC4P5OADEE.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T02:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-global-consumer-robotics-market-2022-2031-global-industry-report-size-analysis-top-companies-share-business-strategy-and-forecast.md",
       "title": "Global Consumer Robotics Market 2022-2031: Global Industry Report, Size Analysis, Top Companies Share, Business Strategy and Forecast",
       "excerpt": "The size of the consumer robotics market in 2021 is estimated to be USD 6 billion, and it is expected to expand at",
@@ -1051,109 +1158,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-28-the-worst-ai-advice-youll-ever-hear.md",
-      "title": "The Worst AI Advice You’ll Ever Hear",
-      "excerpt": "There’s a difference between Iterating to Success and Breaking Things The problem with these failures is that since AI is still nascent, despite over seven decades of development, organizations are tempted to give up altogether without ever reaching the success point.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/28/the-worst-ai-advice-youll-ever-hear/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/28/the-worst-ai-advice-youll-ever-hear/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/630b88712f0caddf0068ecce/0x0.jpg?format=jpg&crop=1892,1064,x0,y725,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/28/the-worst-ai-advice-youll-ever-hear/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/08/28/the-worst-ai-advice-youll-ever-hear/amp/",
-      "publishedDateTime": "2022-08-28T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-28-dive-into-robotics-with-84-off-this-six-axis-mini-robot-arm.md",
-      "title": "Dive into robotics with $84 off this six-axis mini robot arm",
-      "excerpt": "So as interest in the merger between automation and AI grows, you might want to consider introducing your children to robotics as a hobby. This smart robot arm by WLKATA could be a great first step, and it’s currently on sale for $1,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/wlkata-mirobot-deal-sale-145553119.html",
-      "originalUrl": "https://www.engadget.com/wlkata-mirobot-deal-sale-145553119.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-08/9a435b10-23bd-11ed-9dfe-6e340fa17b0f",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-28T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

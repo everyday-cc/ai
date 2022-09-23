@@ -2,6 +2,83 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2022-08-08-china-drafts-rules-on-use-of-self-driving-vehicles-for-public-transport.md",
+      "title": "China drafts rules on use of self-driving vehicles for public transport",
+      "excerpt": "SHANGHAI: China should adopt autonomous vehicles in passenger transport with care, the country's Ministry of Transportation said in drafted rules to regulate the self-driving industry. The ministry will encourage the use of autonomous vehicles as taxis in easily controlled scenarios in low traffic situations,",
+      "sourceUrl": null,
+      "webUrl": "https://www.carsifu.my/news/china-drafts-rules-on-use-of-self-driving-vehicles-for-public-transport",
+      "originalUrl": "https://www.carsifu.my/news/china-drafts-rules-on-use-of-self-driving-vehicles-for-public-transport",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/08/Untitled1.png",
+          "width": 976,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CarSifu",
+        "domain": "carsifu.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-the-best-robot-vacuums-for-hands-free-hoovering.md",
+      "title": "The best robot vacuums for hands-free hoovering",
+      "excerpt": "Made with carpet in mind, this Xiaomi vacuum can be controlled ... and is easily compatible with Alexa and Google Assistant for voice controlled use. This robot vacuum hoovers and mops floors ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.co.uk/entertainment/best-robot-vacuums-hands-free-135000312.html",
+      "originalUrl": "https://www.aol.co.uk/entertainment/best-robot-vacuums-hands-free-135000312.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL.co.uk",
+        "domain": "aol.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-08-driverless-car-goal-by-2030-gains-momentum-amid-smart-dubai-initiatives.md",
       "title": "Driverless-car goal by 2030 gains momentum amid Smart Dubai initiatives",
       "excerpt": "For instance, we cannot directly switch to driverless cars ... Digital Economy, Artificial Intelligence and Teleworking Applications, underscored the launch of autonomous cars as one of the ...",
@@ -1051,94 +1128,6 @@
         "Microsoft AI",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-ibm-watson-powered-augmented-intelligence-seeks-an-edge-in-travel-marketing.md",
-      "title": "IBM Watson-Powered Augmented Intelligence Seeks an Edge in Travel Marketing",
-      "excerpt": "Watson refers to IBM’s cognitive artificial intelligence (AI) platform. Watson is best-known for tricks like defeating contestants on the U.S. quiz show “Jeopardy!” It can interpret ...",
-      "sourceUrl": null,
-      "webUrl": "https://skift.com/2017/08/08/ibm-watson-powered-artificial-intelligence-seeks-an-edge-in-travel-marketing/",
-      "originalUrl": "https://skift.com/2017/08/08/ibm-watson-powered-artificial-intelligence-seeks-an-edge-in-travel-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://skift.com/wp-content/uploads/2017/08/ibm-watson-marketing-.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://skift.com/2017/08/08/ibm-watson-powered-artificial-intelligence-seeks-an-edge-in-travel-marketing/amp/",
-      "cdnAmpWebUrl": "https://skift-com.cdn.ampproject.org/c/s/skift.com/2017/08/08/ibm-watson-powered-artificial-intelligence-seeks-an-edge-in-travel-marketing/amp/",
-      "publishedDateTime": "2022-08-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Skift",
-        "domain": "skift.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-in-simulation-of-how-water-freezes-artificial-intelligence-breaks-the-ice.md",
-      "title": "In simulation of how water freezes, artificial intelligence breaks the ice",
-      "excerpt": "Combining artificial intelligence and quantum mechanics, researchers have simulated what happens at the molecular level when water freezes. The result is the most complete yet simulation of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/08/220808162234.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/08/220808162234.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

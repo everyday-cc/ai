@@ -2,6 +2,92 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2022-07-28-announcing-android-cloud-gaming-media-processing-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m.md",
+      "title": "Announcing Android Cloud Gaming & Media Processing & Delivery Solutions Based on the New Intel Data Center GPU Codenamed Arctic Sound-M",
+      "excerpt": "Supermicro solutions that will contain the Intel Data Center GPUs codenamed Arctic Sound-M, include the 4U 10x GPU server for transcoding ... CloudDC server for edge AI inferencing, and the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/announcing-android-cloud-gaming-amp-media-processing-amp-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m-837202959.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/announcing-android-cloud-gaming-amp-media-processing-amp-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m-837202959.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1867895/Supermicro__gaming.jpg?p=facebook",
+          "width": 1426,
+          "height": 749,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T17:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-age-related-neuroendocrine-cognitive-and-behavioral-co-morbidities-are-promoted-by-hiv-1-tat-expression-in-male-mice.md",
+      "title": "Age-related neuroendocrine, cognitive, and behavioral co-morbidities are promoted by HIV-1 Tat expression in male mice",
+      "excerpt": "Older age or Tat exposure increased anxiety-like behavior (open field; elevated plus-maze), increased cognitive errors (radial arm water maze), and reduced grip strength. Young Tat(+), or middle ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-07-age-related-neuroendocrine-cognitive-behavioral-co-morbidities.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-07-age-related-neuroendocrine-cognitive-behavioral-co-morbidities.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/aging--age-related-neu.jpg",
+          "width": 1116,
+          "height": 806,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-07-age-related-neuroendocrine-cognitive-behavioral-co-morbidities.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-age-related-neuroendocrine-cognitive-behavioral-co-morbidities.amp",
+      "publishedDateTime": "2022-07-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-business-intelligence-administrator-aws-at-datafin-recruitment-western-cape-cape-town.md",
       "title": "Business Intelligence Administrator (AWS) at Datafin Recruitment – Western Cape Cape Town",
       "excerpt": "The successful candidate must possess a suitable 3-year/NQF aligned tertiary qualification with an AWS Certification such as AWS Cloud Practitioner/AWS Solutions Architect or AWS Developer. You must have up to 6 years’ IT experience including 3 years in ...",
@@ -979,92 +1065,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-brazil-artificial-intelligence-in-commercial-airline-market-report-2022-key-trends-players-and-drivers-researchandmarketscom.md",
-      "title": "Brazil Artificial Intelligence in Commercial Airline Market Report 2022: Key Trends, Players and Drivers - ResearchAndMarkets.com",
-      "excerpt": "The country research report on Brazil artificial intelligence in commercial airline market is a customer intelligence and competitive study of the Brazil market. Moreover, the report provides deep insights into demand forecasts,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-airlines-brazil-artificial-intelligence-d39205ceaeb34fef8183fd825b32ef4c",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-airlines-brazil-artificial-intelligence-d39205ceaeb34fef8183fd825b32ef4c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-sense-selects-iguazio-for-ai-chatbot-automation-with-aws-snowflake-and-nvidia.md",
-      "title": "Sense Selects Iguazio for AI Chatbot Automation with AWS, Snowflake and NVIDIA",
-      "excerpt": "Iguazio, the MLOps platform provider, and Sense, a market leader in artificial intelligence (AI) driven talent engagement for recruiting, today announced that the Iguazio MLOps platform has been selected to power a wide range of AI products aimed at increasing the efficiency and scalability of Sense’s AI operations.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-science-artificial-intelligence-15332cff664d4f82ad60035847f28e10",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-science-artificial-intelligence-15332cff664d4f82ad60035847f28e10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }
