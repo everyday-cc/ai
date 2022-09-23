@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Realtime Robotics Integrates Robot Motion Planning & Control Software With Siemens Process Simulate"
-excerpt: "The integration empowers Siemens customers to visualize, simulate and validate robot task plans from directly within the process simulate environment."
+excerpt: "This integration enables Siemens customers to utilize Realtime’s innovative robot motion planning and control software as a part of their regular workflow, without leaving Process Simulate. Customers using the integration can easily visualize,"
 publishedDateTime: 2022-09-12T13:00:00Z
-originalUrl: "https://www.automation.com/en-us/articles/september-2022/realtime-robotics-integrates-robot-motion-planning? Control News & Articles"
-webUrl: "https://www.automation.com/en-us/articles/september-2022/realtime-robotics-integrates-robot-motion-planning? Control News & Articles"
+originalUrl: "https://www.marketwatch.com/press-release/realtime-robotics-integrates-robot-motion-planning-control-software-with-siemens-process-simulate-2022-09-12"
+webUrl: "https://www.marketwatch.com/press-release/realtime-robotics-integrates-robot-motion-planning-control-software-with-siemens-process-simulate-2022-09-12"
 type: article
 
 provider:
-  name: Automation
-  domain: automation.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://www.automation.com/getmedia/0175e750-28d0-4f9c-a429-0a0d95a0ae4b/robotics-motion-news-Sept-13-2022-web.png?width=500&height=313&ext=.png"
-    width: 500
-    height: 313
-    isCached: true
-
-secured: "JSNfAkdDaRGvp4GyrsIQborUvX4LmHG8aASpQttouUlakKdXnjjBgrwGy0+6oddE3yHyNMgCl9ESn3Ewllt6j5T3UWhaZyXCCta57HfPWCgQEUrxP5CooSNgXkacu1cCnPzs0Wbz3wynsY+dH5L72zjlLAwczXwwM35AIctVQK6u54o9tLV6/17EnKjm4C4NKCztlQK9mniY7i8C0snCP5sN4z5hfcDJGNTWzG49zyPXFf0MByf3ybwMCF6RfAPCcUc8UdJ7oTf7QkbX2eY5dGC+W331r/d+4M9FU8kMlgHVNjU9+UFNlZ8/rjWED7oNYnERVI8QB5BYQwhtMEUn11B0Ejw6ckMq0CRVRla6iNs=;eC8JNRgP57Gc41y9o0DMpw=="
+secured: "LE1/IDuVYJsvRccEqFEkK8qfvLBe+C+DGd25CHqhVnz++EhCqSjTjzeL62ZK7G9wRJ7yyZCCenOawglDVlcYq2klbLa+lqqdIhJyWfawLRGNRf8GD83pRGIDwe8Pd2cjIBxeHjBgmx42mQdHJ8RcSNufRsMShXplPQrBvF8Z6o5NCirwvjOLEAC0sWEeC3So1QalpilLv7vyu4r50qXjH9GYAzxqOQG2e044FCcIpZikijHTqwtnzNSToJbfQRO257EkE21VmEESeA9Y3EWdR8dvSDpg7GjaFK+OEtcpop93PPXjufWg9bXCcKJoi2wmNvEFeptnKOgxnxv42i/BKrY2ztEv+Gjx3j3lfC0Jm4A=;TBjFuBdg9l1NBXOTL2vf2g=="
 ---
 

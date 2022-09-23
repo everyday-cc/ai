@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://chronicle.brightspotcdn.com/dims4/default/6fa3227/2147483647/strip/true/crop/2510x1318+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.amazonaws.com%2F4f%2Fdb%2Fb8717f2a4e0e854716953f502122%2Fschattengpt3-corgier-reuse-fb.jpg"
