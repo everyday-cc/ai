@@ -2,7 +2,7 @@
 name: "Lex Machina"
 overview: "Lex Machina provides lawyers with facts on which to base opinions – the core element of good lawyering. Lawyers can now predict the behaviors and outcomes that different legal strategies will produce and craft successful strategies to win cases and close business"
 type: "profile"
-heat: 42
+heat: 57
 
 website: https://lexmachina.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "lexmachina"
   url: "https://twitter.com/lexmachina"
-  followers: 5272
+  followers: 5273
 
 size: 51-200 employees
 yearFounded: 2010
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=6Hg_SXrumV4"
 
-secured: "33I9MI7yEqnipfJwLskTqI9gq7ogh7m5IjqanhyKBrHYNp7nT8muZpbx45YqHm49ClIUkXrsSYN8K9cDm45KjRtbdBe8FFWD4cww15MCtJWmdqr64CZhjZ9AynMlQf80kA+vLnKPbCewshRm8+gHgRFeo+oZMXYEwz6hSptrZr9hl8mWt7ZKpxiPjZFo5WD9QTs7zKAHpQOWsJZ3BQcROJyZo/PV68XQrgi6xxE7chdcTLqyRq053q366PLrNHlml0cj8+6IyhGm34PQFH9gGtxxlLsOuw6uSXU8K9+Upb3gbnTepbLTnP5O1fpTtSfly3JT1G3s0tVJv+gEwUXpObQhQxu1nMmjjn5Qn+bq9o8Xwo7je2Erug206Cv9t7NmPrDzvdE5cANFdPMzp/f0yHg7PNtUabbNodOWJjPo9JI=;3HeYA/azUqZIApbECHiGuA=="
+secured: "9B5Sm+IRBdaczLBYIvDUco1Faw/iMmhKdOFwzO0f2Ze7I6rQTVFOsmojugBGCBLPAloJ3zeJrz+r8GMHV2aY0dO8G0dXYTRFlFLX2mCuuYWO4WVcniB0QyR0CGB6OLnHkQjrBDu2vf90XjEPgLcS7XllHLomQ13SNH5RnNQQzmhfkMGAV4q36Eqh+C6hwaPPWXiPbXDdB9hM+8eTh2RKHSL5LD6KgKN3dIBelauuQ6ao4QBxC4Ft948rNYuW2mx9s+0kuH3oGSvlEhwsVHd4P3XGJc1eRhf+Sau2r8sW15FmkJqO2zaCp8Q173FCjXoXcEOqOpPZ1/vqXwG4EsBbwS6FbFcwkmkn/qf9XKWowlnPW3XvvMpfeWycDc4zAs3/19Yb5umE5Bdg0wMfw7xTqWrhls2quNQ0TFqWzHLIBOU=;2qrtRiAadVMsQZn6eOnCJw=="
 ---
 

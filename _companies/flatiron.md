@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "flatironhealth"
   url: "https://twitter.com/flatironhealth"
-  followers: 11124
+  followers: 11122
 
 size: 501-1,000 employees
 yearFounded: 2012
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=AishSTITOq4"
 
-secured: "RjPn3u8Rv4eYtBvKfbDq83pTUGSe+1yw4OSufDS1BY9AKRakEl+n9yzfZEP2zL68HuZT/xzfEbxX2TWjr+AZIXmTsi1sPwRgUStKH5FMQJp/SRNYmTygqVzgSzvyMohYbjbznko2sadQcylWzJFNLUa/KR3ohZwnmsv1WKN/lDwEiHrEDXL1Qpj1QKmznABMT/Hj/01+WsADqBjY/NG450ORSpHWXRGzwCbHZaO6POk6Bqy49gx5dfXHTYJdAuszSmlUGH5TOfFHHPVISA8wZ6OBniYMWE0aieDA/meigt2+yJU46CfImEVApt9mZH4g20xQ52lJXFbEaGAWJ1r6Zoa1VHYPMra/hUxurEpZpXNxfazIsGBboW7QtSU+mhesG46WBnKO5Av4D85AAuKqcjDW+FEEjc5Dw7jtKbJ803w=;BwMnHw2uoYGQSHc5I2/L5w=="
+secured: "Dsq2Grc5bvULiMbb5BNDpnavhBSSZGIllagFL3jeJ9BYGDpBLdsc6HAry/BcRguV9zO/Tvvz81ZKAG/4xPTuX3Iq29wdcigA1H65nRS+k/QEvHL3pyYX3rdBo2VUSpqcutziVDTdYWjAPQKjHYkJkF8Y9Wwh/GB2MDEozwD9I+3PlmbSmGXWlsKdPBPuPgWZahAaQrcNeipPzHQg1ffdHcvXvO/+YNjKe80qSA7YxTkfdMJ9339HKA44dltSw/fG8p2ytmqGTzVvyDJcse9HKm31jZ0CUOBNT1Wv69ZsPJvN7ITuB39+CvUQyAXhhKMdshB9HCknLuodLPCbJVve5A0wOZRjjQqAZedlbvl9vRFHxeEx5yWWNwwqcAJFier6xGf8FUh7ghcvY3mEur/CPZ7XA+VkOhiThvHErM4Cfdk=;6O/dO8xOmqM+9BffnVab2w=="
 ---
 

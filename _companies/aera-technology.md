@@ -2,7 +2,7 @@
 name: "Aera Technology"
 overview: "Aera Technology delivers the Cognitive Operating System™ that enables the Self-Driving Enterprise™. Aera understands how businesses work; makes real-time recommendations; predicts outcomes; and acts autonomously. Using proprietary data crawling, industry models, machine learning and artificial intelligence, Aera is revolutionizing how people relate to data and how organizations function. "
 type: "profile"
-heat: 50
+heat: 57
 
 website: https://www.aeratechnology.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Aera_Technology"
   url: "https://twitter.com/Aera_Technology"
-  followers: 2624
+  followers: 2622
 
 size: 201-500 employees
 yearFounded: 2017
@@ -36,6 +36,6 @@ images:
     isCached: true
     title: "Aera Technology"
 
-secured: "Y1V/LB+m+Y1F1CT+6b3Sg1LK6a8jBwHJYPmV6vSOlR3hoMJeG1itR7OUzIz12OeVLknIg69c7YFb+LB54vQ0GXpr99QHF2qcUTs0Ndb/loe88VnLg6Q9gK71Gv8XRbd6jM9L8w9fFSwxjlYRK5qU87V4BGQtliRBE4H74TuirRgbIQ/yas/U9NvBRijWOvv1GC2OJPGXEMleILMLloq6vA9ZSrWXSvs61q2xfvDi4jElRw5rMS/elbcSnkMTMZEx+EBtTbG9EGRyTiQmA5qc4s26dZgq0bxAO/LFZzheSds4BB6JVG+Z+zNdEL3uMKbhImy7BNP1mCh8IYId3lA9jyPwD19m1nvjkcagUZhRTw2kJb14NqVRwbJm66jJ6p1yuQOM1rz/i8TC02/zr0gLsrZwVOjCnujaDfhOTanMHCY=;QDg7U5wbd7auqMCEewKKOA=="
+secured: "4FIbwBNbGgXCjlNO97n2lfG0F1h96NMvRrSJ2XiJ6Hpl5Rd7Flt0G2WoHwLPbU2p9KRxAYCEavkr739H+iQ9ZC3J4ZP0nwhGgPjpWhUQhdylypLolcRlsm8HOf1sLpyQLZ1rh9SUprK8TD4AEIkDxtTRpqEfZJw1soOYpIx92H0HOSBNg5DDRSkTMILXbW0qQLtCzc5PPgPsBvKwkqQYtVEQmQprYX7oJkrDMlC4tQSRbmzT7VXHOLNJEuMyKiQ1f2Mm5lQcY+ZVwZmih8KVc2g7B2lZJzfo1CysD39aKJTX0dJt1uN5eK49mABdi2Zun1k0/W0EmGaCklJdb2oXR/mSTunVPDKqOTChB8ls3l1cKGitBnW8I4fB2qVgBfdv3TkMiheObYR05ECwAuT23wVECsgeFsnexM5vmcMr7jk=;FdH69+t85DHCnBfiMvKUUg=="
 ---
 

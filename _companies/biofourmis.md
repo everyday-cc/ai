@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 42
+heat: 50
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "a9Jos/lMs8Skw9rb/yXk8duHk2yBD4F00/1rGgflV0+bPhKrwPr9dYf7tgJkU6anwzCINvt5EkD/n+ZrQFBdJRlPRZMJNUNBb1X9ruGB509025Y639sU7LExdmOTNCLyOxBqOjkXXDZ1yhBLimWM/q86fIREiUhTbyy4OkNbvkd3/NWurTX72c45Wx2jcjOxBPNpYTfduryVZp3n345IbgoPr4F8OYeZa3UEYioiTWek3tyM2myM9qPbE7T6HZiTX2lG/F5J35dC2PzlsYkaRp9Pc56IzxefD61Pxb3p17CFqtax9MO4ZZ1BZ3hKA0tKdemgUs6Ire/kUwBM+fS1dkgyGmEKjOSM7FC70e/2zrkNaDrsWCxe35EOZeSNyN59R1vtj6iaGGDu5ufQmTIoKwjQlZWX2khNjoFqVXtLE10=;GH3n5298qK/PkJ1Hxb3imQ=="
+secured: "YnXjb1lvzf6mPcqL76+1EkKKX2qlIsKGzcnAY3XflgTJgNeXYtbHmTVFT93CIUw7miqdDTGaO9Tx7/IEBU6wYOwqIBvf8K99INHUQgO2894ul03nC8EKqgTr5IpDIwasLfookNYNG4Q7yfOPl//eZo9P4vHuNMZwaEAltGbzkAZ7gFuUxEvfoLsS5y0gMTtcpTpb84jTci/n00N27w8m2hEMmXvuNJRiIySnEc1t7b0lyDyYdeVV8kqXWE90rF1AyeNs03pdohILkdo1EF4TKYOer5SQo3hZUDQQI9TjdCXxcLGCUKt6pJJf3Tz846sAmZoY2y9iZWVFCumnyNPa1M9t3hbgbb4l9786i2KZh3xHZi5h5ktxCBbb6LnjW+U239utEXpGEXx3nOqWXpwl3zfA2jRUNlbIQ0u+kxO36Kg=;2gvii5WZsKNFGoRTh78jrg=="
 ---
 
