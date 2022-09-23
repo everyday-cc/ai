@@ -64,6 +64,15 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Machine Vision Market Size To Reach USD 11380 Million By 2028 At A CAGR of 4.0% - Valuates Reports"
+    excerpt: "The global Machine Vision market size is projected to reach USD 11380 million by 2028, from USD 8374.8 million in 2021, at a CAGR of 4.0% during 2022-2028. Major Factors Driving T"
+    publishedDateTime: 2022-09-23T17:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-machine-vision-market-size-reach-usd-11380-million-/2022/09/23/9680013.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "uv/n8FqGnwt/MqOI5/nQakbG8w2vSJ5QdTfHgtlPjy5zC3vpm67kBEYtufW6sCumOXoIUNkTbZZKirIDvAv4SKY6CtdvR8B9+W8EgM9HNLTrtYkLqaoDibewNCfO0+9tnyyWY/3itZJ/sRAubVpE2E2Kmh5Jqb2VMz6PnPRvD4sPhTZ1AmeSz9GWWMhcvBXXh+bbN2KriaYmgrcWWNMyinJa7J7/keGPNdNLpEBSGqyscHkw3bCYPEDRUSNIif1cIsF3i6SaYLHHvvY9T9kkJnDq9i+QBOe2X3SiNqGgfgQP0P5cjU0pHdHYZKPCSEQV970tUjAIQYYtetodyuT4NoCmaCjyO41P1pyIBFAmaTSywVyugfuSw/ZnC8Lq4FYDXe9AKu24kYYLZv2JVfHzFWEXZ8PSui2/fai3llbHJy+iZUHrXds05BqqDHbSHGjGzSOfSlrN5WN+kGXvYvY+4q1YcqgA+XlmeRDzibpE/QkZcIIyfo21bu4y93i0LHIoBtxpnfqS04Rh9L4RWtVqow==;dqSdm7JAEXLjbeRMJDnP/A=="
 ---

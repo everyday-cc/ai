@@ -8,7 +8,7 @@ webUrl: "https://www.searchenginewatch.com/2022/09/22/how-ai-generated-images-ca
 ampWebUrl: "https://www.searchenginewatch.com/2022/09/22/how-ai-generated-images-can-streamline-your-seo-game-with-dall-e-2/?amp=1"
 cdnAmpWebUrl: "https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2022/09/22/how-ai-generated-images-can-streamline-your-seo-game-with-dall-e-2/?amp=1"
 type: article
-quality: 76
+quality: 78
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - AI in Robotics
   - AI
   - Machine Learning
+  - Computer Vision
 
 images:
   - url: "https://www.searchenginewatch.com/wp-content/uploads/2022/09/Examples-of-AI-generated-images-can-streamline-your-SEO-game-with-DALLE-2-Sad-beaver.jpg"

@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Large-scale revenue forecasting at Bosch with Amazon Forecast and Amazon SageMaker custom models"
+    excerpt: "This post is co-written by Goktug Cinar, Michael Binder, and Adrian Horvath from Bosch Center for Artificial Intelligence (BCAI). Revenue forecasting is a challenging yet crucial task for strategic business decisions and fiscal planning in most organizations. Often, revenue forecasting is manually performed"
+    publishedDateTime: 2022-09-23T16:54:12Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/large-scale-revenue-forecasting-at-bosch-with-amazon-forecast-and-amazon-sagemaker-custom-models/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 91
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/23/revenue-forecasting-bosch-1260x630.png"
+        width: 1260
+        height: 630
+        isCached: true
   - title: "Parallel data processing with RStudio on Amazon SageMaker"
     excerpt: "Last year, we announced the general availability of RStudio on Amazon SageMaker, the industry’s first fully managed RStudio Workbench integrated development environment (IDE) in the cloud. You can quickly launch the familiar RStudio IDE, and dial up and down the underlying compute resources without interrupting"
     publishedDateTime: 2022-09-19T16:39:50Z

@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-23T13:33:00Z
 originalUrl: "https://www.engadget.com/nvidia-ai-model-get3d-virtual-worlds-objects-130021127.html"
 webUrl: "https://www.engadget.com/nvidia-ai-model-get3d-virtual-worlds-objects-130021127.html"
 type: article
-quality: 42
+quality: 64
 heat: -1
 published: false
 
@@ -20,6 +20,13 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
+
+images:
+  - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-09/429930e0-3a94-11ed-afeb-8a9da43fae5d"
+    width: 1280
+    height: 680
+    isCached: true
 
 related:
   - title: "Nvidia expands edge AI tech for healthcare and robotics"
@@ -134,6 +141,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The challenges of verifying AI for healthcare"
+    excerpt: "Artificial intelligence promises to revolutionise healthcare, but even in areas such as medical imaging, where it is easy to spot AI errors, more research is needed."
+    publishedDateTime: 2022-09-23T10:41:00Z
+    webUrl: "https://www.computerweekly.com/news/252524829/The-challenges-of-verifying-AI-for-healthcare"
+    ampWebUrl: "https://www.computerweekly.com/news/252524829/The-challenges-of-verifying-AI-for-healthcare?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252524829/The-challenges-of-verifying-AI-for-healthcare?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 76
+    images:
+      - url: "https://www.computerweekly.com/rms/onlineimages/ai_a373894778.jpg"
+        width: 1200
+        height: 400
+        isCached: true
   - title: "NVIDIA Jetson Orin Nano Sets New Standard for Entry-Level Edge AI and Robotics With 80x Performance Leap"
     excerpt: "Canon, John Deere, Microsoft Azure, Teradyne, TK Elevator Join Over 1,000 Customers Adopting Jetson Orin Family Within Six Months of Launch SANTA CLARA, Calif., Sept. 20, 2022 (GLOBE NEWSWIRE) -- GTC"
     publishedDateTime: 2022-09-20T15:50:00Z
@@ -149,22 +172,6 @@ related:
       - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg"
         width: 700
         height: 300
-        isCached: true
-  - title: "The challenges of verifying AI for healthcare"
-    excerpt: "Artificial intelligence promises to revolutionise healthcare, but even in areas such as medical imaging, where it is easy to spot AI errors, more research is needed."
-    publishedDateTime: 2022-09-23T10:41:00Z
-    webUrl: "https://www.computerweekly.com/news/252524829/The-challenges-of-verifying-AI-for-healthcare"
-    ampWebUrl: "https://www.computerweekly.com/news/252524829/The-challenges-of-verifying-AI-for-healthcare?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252524829/The-challenges-of-verifying-AI-for-healthcare?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 74
-    images:
-      - url: "https://www.computerweekly.com/rms/onlineimages/ai_a373894778.jpg"
-        width: 1200
-        height: 400
         isCached: true
   - title: "Nvidia debuts Jetson Orin Nano, a lightweight AI platform for entry-level robotics"
     excerpt: "Jetson Orin Nano was announced today at Nvidia GTC 2022, alongside the availability of its Nvidia Isaac Sim robotics training platform in the cloud. Nvidia Jetson Orin is a family of powerful, compact and energy-efficient artificial intelligence supercomputers designed to power autonomous robots,"
@@ -219,6 +226,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia unveils gaming chip with AI features, taps TSMC for manufacturing"
+    excerpt: "Nvidia announced chips for video gamers that use artificial intelligence (AI) to enhance graphics. Nvidia has also selected Taiwan Semiconductor Manufacturing (TSMC) to make the processors."
+    publishedDateTime: 2022-09-20T22:36:00Z
+    webUrl: "https://www.telecomlead.com/telecom-chips/nvidia-unveils-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing-106652"
+    ampWebUrl: "https://www.telecomlead.com/telecom-chips/nvidia-unveils-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing-106652?amp=1"
+    cdnAmpWebUrl: "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/telecom-chips/nvidia-unveils-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing-106652?amp=1"
+    type: article
+    provider:
+      name: Telecom Lead
+      domain: telecomlead.com
+    quality: 53
   - title: "Nvidia debuts new AI tools for biomolecular research and text processing"
     excerpt: "The first product, BioNeMo, is a framework for developing natural language processing models that can assist scientists with biology and chemistry research. Alongside the framework, Nvidia today also debuted two cloud-based artificial intelligence services."
     publishedDateTime: 2022-09-20T17:34:00Z
@@ -279,6 +297,17 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "NVIDIA Hopper in Full Production"
+    excerpt: "World's Leading Computer Makers Dell Technologies, HPE, Lenovo, Supermicro, Plus Cloud Service Providers AWS, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure Building H100-Based Offerings;"
+    publishedDateTime: 2022-09-20T16:18:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28935573/nvidia-hopper-in-full-production"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28935573"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28935573"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
   - title: "ASUS Servers Announce AI Developments at NVIDIA GTC"
     excerpt: "ASUS, the leading IT company in server systems, server motherboards and workstations, today announced its presence at NVIDIA® GTC"
     publishedDateTime: 2022-09-21T13:12:00Z
@@ -297,16 +326,7 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "NVIDIA Hopper in Full Production"
-    excerpt: "NVIDIA today announced that the NVIDIA H100 Tensor Core GPU is in full production, with global tech partners planning in October to roll out the first wave of products and services based on the groundbreaking NVIDIA Hopper™ architecture."
-    publishedDateTime: 2022-09-20T16:45:00Z
-    webUrl: "https://insidebigdata.com/2022/09/20/nvidia-hopper-in-full-production/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 4
 
-secured: "f1KmTSaHLizfbuP4fIWP3lKpb8JMd3N78/Uqvrhj6s7CAueYTexe9sEROuHctPWcCas06VmeTevkcEuEeOZ58ZJQqkyh1sYBqZOeKldvz8FkowSbxwL3gJiMq6ZJPO3216nmgaN+vxBYmgWPNfb1X9cll/HJRfu86YEdi3WqpoKGZ/ab65qz8pHAoP6NuDF25CVxNjVFAaDbBeYVUkgrgQFXV0yK+bWPbSoE+sSwi+ugPFLkDuktbvtz3fzzXrnRx9BF6YV411lUmXH9diIsoLMEYBdV8cAriAPKB57UF1ronElItgTfNzZ+IrVq6GkAESmvxUWmUIRn/7D/pOBxlTUmym9voPdzcOM7YdqNISZAI0G1EFDy8ocaf8xA6Oxl+CPcYb70fVcCxHJ/kUssNK1CSFbVaChiGRTCRCnP4ZU5XqMs5ge5pOSKNbVlsfT1HnXj30QJ0lVbj5w6oizQLPrGG8lehqaW2UF56MavHITB4XNXfQdVP6XxuW7XGn/wIDrZiufzzxbwwUzRC4QdYw==;q0nLTIs9hL0MYccXjon5VQ=="
+secured: "j185nBR/8uhCnuAV4yNs1nTgCWdTFQ9Q1zvSYicsvvvSxLLFl8Q9AEyePM8cDaehemveV5Y90N555mDe0Uv8c/Ca9m/zd0z1X6DZsWu+UfDv27m5wMhXI4ae1HARfOEANZw0LzuT7ugywYrGj6XT7q+1ZraMNH/zi1s89a0ZXE/Fgr2mY2lwfcvN3So7HRNDxptr98h0ObxNje+C/OFPj+ixJW5TQX+bpA6KobEAxtH/0GEE1JeNk0ic0gnqL0zer8lR5joVzcF4mmJjuHtLgkdEJOAs6HkDfJO5iYLGmtqyyx7WMXR+hW7lxwY8t0nTS3NiBeiDgFFXk8v1gfMrUu1kjKXiV8ySmWSxJxgR05E=;qBMOazlyYUj6k0ntl/FobQ=="
 ---
 

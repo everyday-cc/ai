@@ -3,8 +3,8 @@ category: news
 title: "Wallaroo Labs Launches in Azure Marketplace; Announces Air Gap Support for Edge Machine Learning Deployment"
 excerpt: "Wallaroo Labs today announced the availability of Wallaroo Enterprise Edition on Microsoft Azure Marketplace. Wallaroo's model operations platform for deploying, observing, and managing machine learning in production enables customers to easily operationalize ML Models with our purpose-built inference engine,"
 publishedDateTime: 2022-09-21T13:22:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-wallaroo-labs-launches-azure-marketplace-announces-air-gap-/2022/09/21/9677902.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-wallaroo-labs-launches-azure-marketplace-announces-air-gap-/2022/09/21/9677902.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2022/09/21/9677902.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/09/21/9677902.htm"
 type: article
 quality: 33
 heat: -1
@@ -15,9 +15,9 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - Microsoft AI
-  - AI
   - Machine Learning
+  - AI
+  - Microsoft AI
 
 related:
   - title: "Wallaroo Labs Launches in Azure Marketplace, Announces Air Gap Support for Edge ML Deployment"
@@ -30,6 +30,6 @@ related:
       domain: datanami.com
     quality: 40
 
-secured: "T1UFEj2dbIuXAbZS49E9NdPGIkCsEJ3QMw3bNFXk1kJekE/ZZg7xW7sF5t+srJTyUDE7a74LKQja7Q43ewXm8G3lN5jaJLGMhS1uyqIwZj7RwHBMCMI6vxCy6WVXRcK1mDXIyIi5B+5/NgNhY+bvBvyZju7/nzqxKq3A+U18+fztnK8autjfeFyZATcYtFmDu2ExuCtyRVJNBxxaxDdR6714P6nl43A7MXl4/DNH9xws71BJjBp4vNstHfWzmiHwEKLKuxIVcKne1GsiO3lRwJQzua320zcfIzcq4aBaYADF8zf8MpSKjetIwzJHLWZLqWYOP7Nmm9oEq4fWLzdXqXz0FssIwMyp4HediWg7lpU=;/W3ep9P+AjZ0iKGpmBhgVg=="
+secured: "igPgmSz+18TgKCkW9v2fjekdh0dskahTPCChptPPdVePfXscGGzFkK/oAGA+FD+Ymr+L+NyNo5RfcOjjtSWtxAOVlbehhYnmEEH+jRe6ah2Qf9e1+ant//SOKCqizop6UdwLWb7W6cco4f9B2cYmAxje5mABbWynjJwMuJx657r4VZVt2hEgq8xuRjZNIRNhzKSMDfBwgh/BhQe5v5IvDCb/niZSRiHrwPNW+REPeJ68jDxuid9RBVVUo0lYIALEytelIN2qLL8TaOnAD5RkF7/DfkEZa2FKi0Xme/20cwuO98iv98r4fT1JJvXAMFgdu3faKjhvx2qPjDeTU6cRZm3xhDb6zayUqGntZPmewSQ=;NPJ7q7BQikVcbpcIfP45Xw=="
 ---
 

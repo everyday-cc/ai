@@ -25,21 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA To Fuel Metaverse, Cars, And Robots With Powerful Omniverse Updates, Thor Superchip, Grace CPU And More"
-    excerpt: "Today’s keynote also introduced the world to new advancements in NVIDIA’s Omniverse including AI, platforms, and cutting-edge hardware."
-    publishedDateTime: 2022-09-20T19:11:00Z
-    webUrl: "https://hothardware.com/news/nvidia-gtc-omniverse-grace-hopper-l40-drive-thor"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-gtc-omniverse-grace-hopper-l40-drive-thor"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-gtc-omniverse-grace-hopper-l40-drive-thor"
+  - title: "HEAVY.AI's New HeavyRF Enables Telcos to Simulate Potential City-scale Deployments"
+    excerpt: "HEAVY.AI Launches Industry’s First Digital Twin for Telco Network Planning, Building and Operations, Leveraging the NVIDIA"
+    publishedDateTime: 2022-09-22T01:36:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/27655-heavy-ais-new-heavyrf-enables-telcos-to-simulate-potential-city-scale-deployments"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 39
+      name: Deep
+      domain: thefastmode.com
+    quality: 33
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/59660/content/hero-nvidia-gtc-2022-omniverse-jensen-avitar-news.jpg"
-        width: 708
-        height: 400
+      - url: "https://www.thefastmode.com/media/k2/items/src/637ac73307470f1cbf09513b567d0e4c.jpg?t=20220922_013259"
+        width: 752
+        height: 408
+        isCached: true
+  - title: "HEAVY.AI Launches Industry’s First Digital Twin for Telco Network Planning, Building and Operations"
+    excerpt: "HEAVY.AI, an innovator in advanced analytics, today announced HeavyRF, an extension of the company’s deep analytics"
+    publishedDateTime: 2022-09-20T20:34:00Z
+    webUrl: "https://www.datanami.com/this-just-in/heavy-ai-launches-industrys-first-digital-twin-for-telco-network-planning-building-and-operations/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 25
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/09/heavyai-2-300x300.jpg"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "EtvTNRpTADOuQBSxEbWygzyP+6WLajbQ4gqbzQEKxXAp+Z/zLPLMmOG6djddgWkR9UOVGb3J/qARKdxGLDQZpC1zBrnwIKbPqBXf2LIdeOeYT3aECG9Xm1rpU7C26HPldGtzEGgQYCM1erKGT7LQP6OqI9gFTg6qpRuynD/SYlBCA4bJC7TOtuEVcXxKIUjvLfr/xTTujl0lEGqmrcgXyYqPAJbPHKWQ3yNmOdmJJY0u81N3DmombWgBvCjTs09fuLdI9OCtrRWraaXFjVxv6E6Rag1pKB9mjk+/IKph4HdgnR/YXzcntPZpuxf9Dc6EDv4OpKHiUamDj8itYfFV91dDwAK9gYZKKOZqR2YGtSAIpsI4+SeCfVkXGRuoWb6RbEGf8AGvc8c5HF7jax49cl4cM+EfRLPYRaPtiPnQiyx680WaT6PTeDsjr+sW5foS0A+PfnRbOhFiQFANQ2hlIeFl+CWCOYkklJf252+Yzxl8sQPGwxVa8KHB6URdo2Yr1N0JovCYdiikERJo+HqXcg==;hmyxR3esvgJufHjZI99dzw=="

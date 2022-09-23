@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI-based screening method could boost speed of new drug discovery"
-    excerpt: "Developing life-saving medicines can take billions of dollars and decades of time, but University of Central Florida researchers are aiming to speed up this process with a new artificial intelligence-based drug screening process they've developed."
-    publishedDateTime: 2022-09-22T20:50:00Z
-    webUrl: "https://phys.org/news/2022-09-ai-based-screening-method-boost-drug.html"
-    ampWebUrl: "https://phys.org/news/2022-09-ai-based-screening-method-boost-drug.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-ai-based-screening-method-boost-drug.amp"
+  - title: "Researchers develop artificial intelligence screening techniques"
+    excerpt: "Researchers have found a new artificial intelligence-based drug screening technique. Read below to know the significance and process of the"
+    publishedDateTime: 2022-09-23T13:57:00Z
+    webUrl: "https://www.jagranjosh.com/current-affairs/researchers-develop-artificial-intelligence-screening-techniques-1663941325-1"
+    ampWebUrl: "https://m.jagranjosh.com/current-affairs/amp/researchers-develop-artificial-intelligence-screening-techniques-1663941325-1"
+    cdnAmpWebUrl: "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/current-affairs/amp/researchers-develop-artificial-intelligence-screening-techniques-1663941325-1"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
+      name: jagranjosh.com
+      domain: jagranjosh.com
+    quality: 57
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-based-screening-met.jpg"
-        width: 1333
-        height: 658
+      - url: "https://img.jagranjosh.com/images/2022/August/1282022/2048-450x232.jpeg"
+        width: 450
+        height: 232
         isCached: true
   - title: "AI-based drug screening process could speed up the development of life-saving medicines"
     excerpt: "Developing life-saving medicines can take billions of dollars and decades of time, but University of Central Florida researchers are aiming to speed up this process with a new artificial intelligence-based drug screening process they've developed."

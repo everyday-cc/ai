@@ -1,22 +1,18 @@
 ---
 category: news
 title: "StradVision Wins AutoSens 2022 Gold Award for Perception Software"
-excerpt: "This is the second year in a row where StradVision's SVNet deep-learning based camera perception software has been honored as a top prize winner"
-publishedDateTime: 2022-09-19T15:05:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/stradvision-wins-autosens-2022-gold-award-for-perception-software-1031751149"
-webUrl: "https://markets.businessinsider.com/news/stocks/stradvision-wins-autosens-2022-gold-award-for-perception-software-1031751149"
+excerpt: "The AutoSens Awards have become one of the industry's leading events for the ADAS and autonomous vehicle technology community, recognizing the most innovative companies and produc"
+publishedDateTime: 2022-09-19T15:19:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/09/19/9676076.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/09/19/9676076.htm"
 type: article
-quality: 54
-heat: 64
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
@@ -44,6 +40,6 @@ related:
         height: 400
         isCached: true
 
-secured: "4GAuIcB1WUKapBi6j2yh9piTnXu4ee0qTkMmbWdz+PVP4Lf6U4hqZ2l9WG1JThZQPoyHj/jlIFb5i4csqRfTPzj5n9dg6sA9OLX1ZLwQeV25yPRWzyHflaHfIlSB8LvPfsy2GhbUpliTTb9RXq2rGLVUM+DppLjOZkffg8fMCfN0L4qBwuLYzHSJejqVi3W8scwKUtPcavUNmH84JFKF6rYcu9fJTTeIMvfri34Nhv6OxV9j9Vdz4lV0aRquQ3Avpd0QIIy9AKKzz4gdwxhMq4o09Ganihkm//X///AeOJ+kL8VtpyDuRtU5AS4rW+zYLVPk6cowmt4PxsJfb3pC155hX9LLZzsUSXf073BnpaXRu0s0NNl7JCpEJ0zqjgbRZ4nD9/8wXcr990/ibSJ5/w2p56E91TCpJugIZNmmtFCySRTAiqJji1Ui533EAd6RppQQCAyBetPkEQ2X2ybl6F3/OAONAFtOw5goSvHTyUDq9pIX1mP9/lYUl7g8l2DOgd8TlprewWx6Qaw9G4KKsg==;QEonaDs3KUukIZF60X26Dw=="
+secured: "BsQ/N476gCl20Ddo60NvO9Nu5nLPwi9P6TGlW2bIY8Y7ljmBgZpUSa49UnU3IMs6fS65gnT0LTKign2W4FSODAAHhsK7uN2q+M08zB0aK7YIA60tD/PS2S+dAg8IiNu1icljbTuMKGGpZyuwb0gubIQBb1Mmkkr/hYvetFsTlvmYGxl1qUp8JhTb/okv0dFixteE33sIoUjATbsk4/ArOLrUvaNHI5blo+V8qB+RyP8HJBCRlLlTpVZ5hmrKGATfYJMnaDTAyjwAKpqe/bVjxh+aUNqLExGwrJGie1orb+cbIyWGkX2SBMk+CeHndRPCjUXRkDUZ0l+Rd2l69G9EhVagzM5NG7Vo9yxOwgcgU+Q=;uzjfTxUM9wJ2FzNFOGLhGw=="
 ---
 

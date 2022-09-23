@@ -39,6 +39,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "HEAVY.AI Launches Industry’s First Digital Twin for Telco Network Planning, Building and Operations, Leveraging the NVIDIA Omniverse Platform"
+    excerpt: "The industry’s first radio frequency (RF) digital twin solution, HeavyRF enables telcos to simulate potential city-scale deployments as a faster,"
+    publishedDateTime: 2022-09-20T16:47:00Z
+    webUrl: "https://www.eagletribune.com/region/heavy-ai-launches-industry-s-first-digital-twin-for-telco-network-planning-building-and-operations/article_eecdcf19-24d9-5bf8-b3aa-1fd983c7b550.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 4
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/4/52/4526b0a5-0727-5ecc-98fe-69457885b638/6329ef54eb0e6.image.jpg?crop=1642%2C862%2C0%2C199&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "hdUhyCUel10OBNpeiBmqA6/18tNd3jT9vDrO+XIcIK87FF3eHjAQjOIYOnwwFrk+5VcspuKBbHduKS8S6Li7zsZpXhC/qmMYSja2IR563QJXauWRFxt8zVHc+IQC7sCgbjkFGI8Hkoo+6OJ7LtHAzKLlrbfpbnmLLo82sGrefcTaTftzP5tJZOF3kK80pVCKl0duZio0ZNDNuHIDNklSh7HR7PlM9jhwZO/P/1hxgXuT9dNN/26vLi6BZha06foy4MzxPiIb88it9qdPVVIoC0HFW236oBOAjblO4YtspxD9a6aUrTuKHTBIFVKTMHRJGOqugAfUopsXOLN8vMDg2traIlWZ3RKv30Z/lMCXgrVTUjnqhNTJb3ZDeWhXQ2wqNkuBChWLt6imXAoZc+bgdruFoEQW8TbGJzKBwFvfe1VAXCZExjQeolVm78MZ8f9WtAyZf/GhZQ6a9HRHGhdZFoqPOUiYdIahE9ard5ngVjsRwz45xLndHHYZhWKTp3K03UwdxgsWXEC9czEiYGtksg==;hipHc8s1Ygad5WItFnWgYA=="
 ---

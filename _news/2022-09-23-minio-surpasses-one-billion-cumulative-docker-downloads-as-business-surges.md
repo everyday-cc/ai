@@ -28,6 +28,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 4
+  - title: "MinIO Surpasses One Billion Cumulative Docker Downloads as Business Surges"
+    excerpt: "MinIO Inc., creators of the MinIO multi-cloud object storage suite, today announced that it has surpassed one billion cumulative Docker downloads as the business sees a significant growth in customers,"
+    publishedDateTime: 2022-09-22T13:17:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/09/22/9679073.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 2
 
 secured: "EDzwMV1JpRo3QVNVBUDcmm+KhA8R+aCVGj2kG5MKmL9rCus3W7pLFohjBCSuoswe96Xay64Or/QMEKufPCSI++z6G/rgksgMZrf9zrHzEISkYsOoikTYGz3PntV8ODnI4E2HXuKUdidkosNshAEdx2f4fNtrYA2xo2g27tux/Z5zkyzAPoAXrZuJsmEku7u/eXWY2YxHwB5QUwjXLeQZOI8syN1vSZnX+vgzjHhdAXpf9UmYPuaLEugmeM9Sk/RuyKUDi0ulFLWRwnsWKHDkFb+Af5wV0Xo1MCL5gx1Z/AGBktCwxRut6grgXNKzcRa4PCASjizADSC38jshOrhP+CWm30J59bjIOw4ffwSx5dY=;ERiWf2K8SSq8pZ5izy+S9Q=="
 ---

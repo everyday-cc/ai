@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Inuitive launches NU4100, expanding its Edge AI Vision-on-Chip IC portfolio; NU4100 presents advanced AI capabilities and"
-excerpt: "Geared for Robotics, the new NU4100 is setting a new industry standard by combining integrated dual-channel 4K ISP with enhanced AI performance coupled with depth-sensing and VSLAM capabilities RA'ANANA,"
+excerpt: "Inuitive Ltd., a Vision-on-Chip processors company, announced today the launch of its new NU4100, an expansion of its Vision and AI IC portfolio. Based on Inuitive's unique architecture and advanced 12nm process technology,"
 publishedDateTime: 2022-09-21T16:03:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/09/22/9678713.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/09/22/9678713.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2022/09/22/9679626.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/09/22/9679626.htm"
 type: article
-quality: 29
+quality: 31
 heat: -1
 published: false
 
@@ -15,8 +15,9 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AI Hardware
+  - Computer Vision
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mma.prnewswire.com/media/1903068/One_Chip_Complete_Visual_Understanding.jpg"
@@ -68,6 +69,6 @@ related:
         height: 253
         isCached: true
 
-secured: "P/P91/ecefwV8XuWtNNlD1aX9ezB5dFejoNA4vxTspF7fqt3UmYEC+2+xihDRrqkFCMoqpZLOFBAbBn2tdkOpDTAK7eUmGhOYdewD+kreC9KbPUHn3wRnLIq1b8O3SAlyj3BbVLk9jSJ02Mo3E7XDTrXqU2S6NUjbgsUjYzCsC1a3C/R26sHtIb3+5ixkwA6aqMeBYxst0uO94kjUbpFMwyXTTsI6UR4UebLp0e3lQ4QB13MLOZFNMOT0d+4OmH30r2qKsIFPxR1ji0WIWIIScV1d+++eXtlBbeHIzi0qut3QqZo6y6b6nBJp1O/+zqGl0jBupvTP2S2N87/CnjwO5ydgoRUowtFcjcU4QmIirG434mgLhsa/UF2uH+mLLQAMuLu70cgab71wIuqv8OXaP3cpZqMI60DMIn1erT6VO16vN6RLrvg4+s1urzR83LlxDL/RQas8/cLwN6oxNJcS2PLlcQpy3n+L1Vi5LL6sTMc362tiJgMsgCzY0kbQWFJjpQU1bQ0lw9O+RuOCw2JNg==;LgHCGzwr5v6CShRcvmeibg=="
+secured: "GegVhceqWUhemy36ysi69l7GTH8zwww9qyO938pkJPxjgw5NxuoAYcD8VK0y3QhA3MwNQsOhEIJ/Kr7VpW9uq3FtTvxePM3fs2meuNfgGFUkNawAAssjnLZcCufZ86n5UaqZDkypmi2qZvUpD0YpGkb80fevt+jOeRtUxW/z0V7Kc6sAemPwGxK4yC94w6BjnfTd6hXss81mP0yBGGfePf85hXJ3iEgU/Voum7CX/zNs04OsYeP0bVGfGYQ/nPZeZ2mR1L5PgJCxyrC79vWtToX7ZHzP00CH57UDazItrtfW7q9x81tGXLaUbmBadxLVUcA8N4I+YcL8IHLV0mug5yvDMmRY/4ic4yWUiG7H0sc=;EIJ/cJMsCQ+Qax7ef7pUpw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.motorauthority.com/news/1137257_vw-group-gen-travel-le
 webUrl: "https://www.motorauthority.com/news/1137257_vw-group-gen-travel-level-5-self-driving-car-concept-revealed"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "A new self-driving car developer is setting up shop in Tucson"
-    excerpt: "The company, backed by Japanese auto giant Toyota, previously tested self-driving cars in California but its state permit was revoked following a minor crash."
-    publishedDateTime: 2022-09-22T19:30:00Z
-    webUrl: "https://tucson.com/news/local/business/a-new-self-driving-car-developer-is-setting-up-shop-in-tucson/article_6e3c25fa-3a98-11ed-806e-f713fec8a6a3.html"
+  - title: "VW's latest concept is a self-driving travel pod that can replace short flights"
+    excerpt: "We wouldn't count on all of them reaching the self-driving machines VW expects to make from 2025 onward, but don't be surprised if future robotaxis seem very familiar."
+    publishedDateTime: 2022-09-23T17:06:00Z
+    webUrl: "https://www.engadget.com/vw-gen-travel-self-driving-pod-162904370.html"
     type: article
     provider:
-      name: Arizona Daily Star
-      domain: tucson.com
-    quality: 4
+      name: Engadget
+      domain: engadget.com
+    quality: 50
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-09/508f5e40-3b57-11ed-b59d-fdcf34ea0a64"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "dcPBZsIoPuoG8qKkpa837H1PmnjXUYsc9u9rhnvX7jLpdFbt4x/uHnjxg0zN33rV92uv6ANmgzxCXnUgg1LuVokySnN/uLx0UjRHMkdtO+yMWBDQdXY7TZx/nKU7yvScJ1COIco26fwbfZBAf9sGgWe7CrmUcsJFuNePj5wpjD/sOiMW00LlwJVBiuBW3DlemQzK75C6LAU4SxsdkEgyXE4KZoxYGmbBAyUOCMGV9e3SQ5gtrkVlMXe43gMTfAaL63YSkMPnk+tZuXOuSwUwZLQ3PntiuI+w0LHPyCDCWMzSBm70XpQPpSCYQmWeeEYy9uIA8y03vkSNDTsuXb/HJ7xvr8wPO2erH7ISFBn6xdnyhf4N7qrkpn2NIsb+MdpOaX35iBGHPUHWFskVte9THq5sz5zl5kCeDaUJJZU0RZCGA6/nrfqNGRY6GIayj/SK7qtEFiUa1NDo4kqwKNBrhOTmEp3f4Lr8os5uHpaJoj4fWEzZWik3JPwI/ob67+z3U1COnLfbmDso2RSo6rn48A==;jQzppPyCLijkV6/KjLva5g=="
 ---

@@ -1,18 +1,20 @@
 ---
 category: news
 title: "NVIDIA Hopper in Full Production"
-excerpt: "NVIDIA today announced that the NVIDIA H100 Tensor Core GPU is in full production, with global tech partners planning in October to roll out the first wave of products and services based on the groundbreaking NVIDIA Hopper™ architecture."
-publishedDateTime: 2022-09-20T16:45:00Z
-originalUrl: "https://insidebigdata.com/2022/09/20/nvidia-hopper-in-full-production/"
-webUrl: "https://insidebigdata.com/2022/09/20/nvidia-hopper-in-full-production/"
+excerpt: "World's Leading Computer Makers Dell Technologies, HPE, Lenovo, Supermicro, Plus Cloud Service Providers AWS, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure Building H100-Based Offerings;"
+publishedDateTime: 2022-09-20T16:18:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/09/g28935573/nvidia-hopper-in-full-production"
+webUrl: "https://www.benzinga.com/pressreleases/22/09/g28935573/nvidia-hopper-in-full-production"
+ampWebUrl: "https://www.benzinga.com/amp/content/28935573"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28935573"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: insidebigdata.com
-  domain: insidebigdata.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
@@ -131,6 +133,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The challenges of verifying AI for healthcare"
+    excerpt: "Artificial intelligence promises to revolutionise healthcare, but even in areas such as medical imaging, where it is easy to spot AI errors, more research is needed."
+    publishedDateTime: 2022-09-23T10:41:00Z
+    webUrl: "https://www.computerweekly.com/news/252524829/The-challenges-of-verifying-AI-for-healthcare"
+    ampWebUrl: "https://www.computerweekly.com/news/252524829/The-challenges-of-verifying-AI-for-healthcare?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252524829/The-challenges-of-verifying-AI-for-healthcare?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 76
+    images:
+      - url: "https://www.computerweekly.com/rms/onlineimages/ai_a373894778.jpg"
+        width: 1200
+        height: 400
+        isCached: true
   - title: "NVIDIA Jetson Orin Nano Sets New Standard for Entry-Level Edge AI and Robotics With 80x Performance Leap"
     excerpt: "Canon, John Deere, Microsoft Azure, Teradyne, TK Elevator Join Over 1,000 Customers Adopting Jetson Orin Family Within Six Months of Launch SANTA CLARA, Calif., Sept. 20, 2022 (GLOBE NEWSWIRE) -- GTC"
     publishedDateTime: 2022-09-20T15:50:00Z
@@ -146,22 +164,6 @@ related:
       - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg"
         width: 700
         height: 300
-        isCached: true
-  - title: "The challenges of verifying AI for healthcare"
-    excerpt: "Artificial intelligence promises to revolutionise healthcare, but even in areas such as medical imaging, where it is easy to spot AI errors, more research is needed."
-    publishedDateTime: 2022-09-23T10:41:00Z
-    webUrl: "https://www.computerweekly.com/news/252524829/The-challenges-of-verifying-AI-for-healthcare"
-    ampWebUrl: "https://www.computerweekly.com/news/252524829/The-challenges-of-verifying-AI-for-healthcare?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252524829/The-challenges-of-verifying-AI-for-healthcare?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 74
-    images:
-      - url: "https://www.computerweekly.com/rms/onlineimages/ai_a373894778.jpg"
-        width: 1200
-        height: 400
         isCached: true
   - title: "Nvidia debuts Jetson Orin Nano, a lightweight AI platform for entry-level robotics"
     excerpt: "Jetson Orin Nano was announced today at Nvidia GTC 2022, alongside the availability of its Nvidia Isaac Sim robotics training platform in the cloud. Nvidia Jetson Orin is a family of powerful, compact and energy-efficient artificial intelligence supercomputers designed to power autonomous robots,"
@@ -186,6 +188,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 64
+  - title: "NVIDIA's new AI model quickly generates objects and characters for virtual worlds"
+    excerpt: "NVIDIA is looking to take the sting out of creating virtual 3D worlds with a new artificial intelligence model. GET3D can generate characters, buildings, vehicles and other types of 3D objects, NVIDIA says."
+    publishedDateTime: 2022-09-23T13:33:00Z
+    webUrl: "https://www.engadget.com/nvidia-ai-model-get3d-virtual-worlds-objects-130021127.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 64
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-09/429930e0-3a94-11ed-afeb-8a9da43fae5d"
+        width: 1280
+        height: 680
+        isCached: true
   - title: "Run:ai Certified to Run NVIDIA AI Enterprise Software Suite"
     excerpt: "Run:ai, the leader in compute orchestration for AI workloads, today announced that its Atlas Platform is certified to run NVIDIA AI Enterprise, an end-to-end, cloud-native"
     publishedDateTime: 2022-09-20T16:45:00Z
@@ -216,6 +232,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia unveils gaming chip with AI features, taps TSMC for manufacturing"
+    excerpt: "Nvidia announced chips for video gamers that use artificial intelligence (AI) to enhance graphics. Nvidia has also selected Taiwan Semiconductor Manufacturing (TSMC) to make the processors."
+    publishedDateTime: 2022-09-20T22:36:00Z
+    webUrl: "https://www.telecomlead.com/telecom-chips/nvidia-unveils-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing-106652"
+    ampWebUrl: "https://www.telecomlead.com/telecom-chips/nvidia-unveils-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing-106652?amp=1"
+    cdnAmpWebUrl: "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/telecom-chips/nvidia-unveils-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing-106652?amp=1"
+    type: article
+    provider:
+      name: Telecom Lead
+      domain: telecomlead.com
+    quality: 53
   - title: "Nvidia debuts new AI tools for biomolecular research and text processing"
     excerpt: "The first product, BioNeMo, is a framework for developing natural language processing models that can assist scientists with biology and chemistry research. Alongside the framework, Nvidia today also debuted two cloud-based artificial intelligence services."
     publishedDateTime: 2022-09-20T17:34:00Z
@@ -230,15 +257,6 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "NVIDIA's new AI model quickly generates objects and characters for virtual worlds"
-    excerpt: "NVIDIA is looking to take the sting out of creating virtual 3D worlds with a new artificial intelligence model. GET3D can generate characters, buildings, vehicles and other types of 3D objects, NVIDIA says."
-    publishedDateTime: 2022-09-23T13:33:00Z
-    webUrl: "https://www.engadget.com/nvidia-ai-model-get3d-virtual-worlds-objects-130021127.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 42
   - title: "NVIDIA RTX Remix Features Hefty AI-Assisted Modding Tool"
     excerpt: "NVIDIA RTX Remix takes modding to a whole new level and allows players to take beautiful in-game screenshots with the press of a hotkey."
     publishedDateTime: 2022-09-20T20:31:00Z
@@ -304,6 +322,6 @@ related:
       domain: tmcnet.com
     quality: 19
 
-secured: "tPRtl4C0DgrZOQuC1iVBYJXGemkTsrihqhiES33gE0PvGUTQBi1CHGLDOdAp7R9dxEE1KHXUnzKcVsgd/mk1laup2F9tceBY/dxXoHVWZ0XHfPIDzD2aajCUskdhWdvcu7CdpTF2zhYziFKr64onUU2u+XwFT1y3znwymSs+JaCZ147EHjmmjY6W3cF2SwgNMo7vAdvUA5l3mZxLEuS/hGpvDDmZLqpRamZBjNu5TVe+XFRpeJBBSBxMTvh3ovFINPI3WVtqKB8HxlqWuJN0rK4NxVISrAWot/B8YyiwhH2Ipd+YeJvOvq+8grFnBslprm4TBDvXFVvbXU699TRBGq4t248+QgfdBcxqRJ3hbg7Sx2LoTYZTQUpX4PFSkp39myfr73BqTNorErYk7l7l2PnXWY/yqqJyubRincVOO6b5gKdnLow9WHpP0WHTsh0dry6nrcGxJ6/yYCoV+KY/eY7l1InQ3GsqeAHr7aelTx8ji6guMruJr21G3k3ryR+8UIbaU86Z9V/Sxfx1VfElzg==;6t/hW1vnYbNU+AfcAp6Svg=="
+secured: "Q/yVEoGWBkCnBO6tQABz4cbEWj0+e5lI7E3tK/WwGVZQnbXHqjJ4yM6AsRKy98hq82obCYaCHnqKWNgLD9VfYlPRt/T70OAgP9hrIStEXhGc9zDqFuW+/XMHlaHNMp/XhjdsDnIA33dpiux2ohRiWVqZT4a+2MZz67BK2BMDoDzonhEtLPx/hWwx0w0H8ww5XBXrcT4WxNDwq8t4THGwT2M1TImc8DR3HjNYXs7vyJ+Qi2ma6jj80agdNTjkbcnl/dHjQ4hHQkHXkNngr8p1qqxl+KQrKDMm2vWZPZBJqyoTN/w0tX6ZTKNnhtRSm5aSb3IlBfxfjOH6natLy2YykdnGo4hg+4lElPrwuyU/3DU=;mJPWj7e6RFmxHdZeOMARyQ=="
 ---
 

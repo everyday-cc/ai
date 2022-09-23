@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Calls to boycott Woolies over controversial new artificial intelligence technology"
-    excerpt: "Woolworths has faced backlash over new technology it is trialling in some stores, with customers saying they’re being treated “like a f***ing thief”."
-    publishedDateTime: 2022-09-21T04:40:00Z
-    webUrl: "https://thewest.com.au/business/calls-to-boycott-woolies-over-controversial-new-artificial-intelligence-technology-c-8312809"
-    ampWebUrl: "https://thewest.com.au/business/calls-to-boycott-woolies-over-controversial-new-artificial-intelligence-technology-c-8312809.amp"
-    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/business/calls-to-boycott-woolies-over-controversial-new-artificial-intelligence-technology-c-8312809.amp"
+  - title: "AI Inside provides artificial intelligence technology in Japan"
+    excerpt: "Artificial Intelligence is shaping humanity across nearly all spheres and industries Japan AI inside is one of the most progressive artificial intelligence"
+    publishedDateTime: 2022-09-23T16:05:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272790048/ai-inside-provides-artificial-intelligence-technology-in-japan"
     type: article
     provider:
-      name: The West Australian
-      domain: thewest.com.au
-    quality: 51
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 52
     images:
-      - url: "https://images.thewest.com.au/publication/C-8312809/86a049b94b6bda0e1afe8f49fb8e2940eb018cdc-16x9-x0y156w1666h937.jpg?imwidth=1200"
-        width: 1200
-        height: 675
+      - url: "https://cdn.bignewsnetwork.com/ani1663948935.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "NAd5qIx8l76MmyYK2Sc+GJshbSYFiW2mYBXhkQhmcNxVHJNkOxTlw/NUvuT7W5k9q9xxUXZeu5QxpYqoPX0lcIeN3pAgmMQ1oN4NQw7cOrXl4A8lXMsPxcScJIFL3vzHYKwL9iwCe2vVMZKKjNVjuRY4R5vQq05N47p65HGIt6YVBvQT09fdFRkNs4bDhXfeq/HqUf1XlS9f6VJdCVWU+0dxb5wCkgJ0Wvt3EcuUJ9MAjZ6aXMj/lk0BWffOjpmkfbXgzJYotkRzwYNBTz46CsHWhBwAujhyYyMWEu6G2wfFxr48IWr6FQwUVUbu+HbQsVNR1yGWsVzvjgfn35UERd33rsm/NmBwcny4ZWyBWu0=;x0LXNl/HPd8ZOXN5TL3RDw=="

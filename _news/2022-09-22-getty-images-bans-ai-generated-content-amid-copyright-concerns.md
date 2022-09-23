@@ -83,7 +83,7 @@ related:
     provider:
       name: searchenginewatch
       domain: searchenginewatch.com
-    quality: 76
+    quality: 78
     images:
       - url: "https://www.searchenginewatch.com/wp-content/uploads/2022/09/Examples-of-AI-generated-images-can-streamline-your-SEO-game-with-DALLE-2-Sad-beaver.jpg"
         width: 680

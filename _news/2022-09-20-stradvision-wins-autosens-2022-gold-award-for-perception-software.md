@@ -26,14 +26,14 @@ images:
 
 related:
   - title: "StradVision Wins AutoSens 2022 Gold Award for Perception Software"
-    excerpt: "This is the second year in a row where StradVision's SVNet deep-learning based camera perception software has been honored as a top prize winner"
-    publishedDateTime: 2022-09-19T15:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/stradvision-wins-autosens-2022-gold-award-for-perception-software-1031751149"
+    excerpt: "The AutoSens Awards have become one of the industry's leading events for the ADAS and autonomous vehicle technology community, recognizing the most innovative companies and produc"
+    publishedDateTime: 2022-09-19T15:19:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/09/19/9676076.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
     images:
       - url: "https://mma.prnewswire.com/media/1901534/StradVision_Wins_AutoSens_2022_Gold_Award_Perception_Software.jpg"
         width: 400

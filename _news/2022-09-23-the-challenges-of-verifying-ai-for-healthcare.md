@@ -8,7 +8,7 @@ webUrl: "https://www.computerweekly.com/news/252524829/The-challenges-of-verifyi
 ampWebUrl: "https://www.computerweekly.com/news/252524829/The-challenges-of-verifying-AI-for-healthcare?amp=1"
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252524829/The-challenges-of-verifying-AI-for-healthcare?amp=1"
 type: article
-quality: 74
+quality: 76
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - IBM AI
 
 images:
   - url: "https://www.computerweekly.com/rms/onlineimages/ai_a373894778.jpg"
@@ -178,6 +179,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 64
+  - title: "NVIDIA's new AI model quickly generates objects and characters for virtual worlds"
+    excerpt: "NVIDIA is looking to take the sting out of creating virtual 3D worlds with a new artificial intelligence model. GET3D can generate characters, buildings, vehicles and other types of 3D objects, NVIDIA says."
+    publishedDateTime: 2022-09-23T13:33:00Z
+    webUrl: "https://www.engadget.com/nvidia-ai-model-get3d-virtual-worlds-objects-130021127.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 64
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-09/429930e0-3a94-11ed-afeb-8a9da43fae5d"
+        width: 1280
+        height: 680
+        isCached: true
   - title: "Run:ai Certified to Run NVIDIA AI Enterprise Software Suite"
     excerpt: "Run:ai, the leader in compute orchestration for AI workloads, today announced that its Atlas Platform is certified to run NVIDIA AI Enterprise, an end-to-end, cloud-native"
     publishedDateTime: 2022-09-20T16:45:00Z
@@ -208,6 +223,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia unveils gaming chip with AI features, taps TSMC for manufacturing"
+    excerpt: "Nvidia announced chips for video gamers that use artificial intelligence (AI) to enhance graphics. Nvidia has also selected Taiwan Semiconductor Manufacturing (TSMC) to make the processors."
+    publishedDateTime: 2022-09-20T22:36:00Z
+    webUrl: "https://www.telecomlead.com/telecom-chips/nvidia-unveils-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing-106652"
+    ampWebUrl: "https://www.telecomlead.com/telecom-chips/nvidia-unveils-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing-106652?amp=1"
+    cdnAmpWebUrl: "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/telecom-chips/nvidia-unveils-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing-106652?amp=1"
+    type: article
+    provider:
+      name: Telecom Lead
+      domain: telecomlead.com
+    quality: 53
   - title: "Nvidia debuts new AI tools for biomolecular research and text processing"
     excerpt: "The first product, BioNeMo, is a framework for developing natural language processing models that can assist scientists with biology and chemistry research. Alongside the framework, Nvidia today also debuted two cloud-based artificial intelligence services."
     publishedDateTime: 2022-09-20T17:34:00Z
@@ -222,15 +248,6 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "NVIDIA's new AI model quickly generates objects and characters for virtual worlds"
-    excerpt: "NVIDIA is looking to take the sting out of creating virtual 3D worlds with a new artificial intelligence model. GET3D can generate characters, buildings, vehicles and other types of 3D objects, NVIDIA says."
-    publishedDateTime: 2022-09-23T13:33:00Z
-    webUrl: "https://www.engadget.com/nvidia-ai-model-get3d-virtual-worlds-objects-130021127.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 42
   - title: "NVIDIA RTX Remix Features Hefty AI-Assisted Modding Tool"
     excerpt: "NVIDIA RTX Remix takes modding to a whole new level and allows players to take beautiful in-game screenshots with the press of a hotkey."
     publishedDateTime: 2022-09-20T20:31:00Z
@@ -277,6 +294,17 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "NVIDIA Hopper in Full Production"
+    excerpt: "World's Leading Computer Makers Dell Technologies, HPE, Lenovo, Supermicro, Plus Cloud Service Providers AWS, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure Building H100-Based Offerings;"
+    publishedDateTime: 2022-09-20T16:18:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28935573/nvidia-hopper-in-full-production"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28935573"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28935573"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
   - title: "ASUS Servers Announce AI Developments at NVIDIA GTC"
     excerpt: "ASUS, the leading IT company in server systems, server motherboards and workstations, today announced its presence at NVIDIA® GTC"
     publishedDateTime: 2022-09-21T13:12:00Z
@@ -295,16 +323,7 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "NVIDIA Hopper in Full Production"
-    excerpt: "NVIDIA today announced that the NVIDIA H100 Tensor Core GPU is in full production, with global tech partners planning in October to roll out the first wave of products and services based on the groundbreaking NVIDIA Hopper™ architecture."
-    publishedDateTime: 2022-09-20T16:45:00Z
-    webUrl: "https://insidebigdata.com/2022/09/20/nvidia-hopper-in-full-production/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 4
 
-secured: "gBQ1qlB0RNwl1dKizGaDayKA+77pwYrrwKwwikZjG9K85dtH0NmzfKkjyUiHEsT75gc2tbb0Z6LD4pJ+wu1pfRfgfqoi7umKNNjCz9sQvowFG6m44p+gDY+LSenq7n+gwi+yzjYtOHINUow+f+lQ7UoQjJHgMc1yqit828YaozN2XLegnqYS6fG3b67U+9HlcNE5Z0ATLbcmd0BIXmEXXyDVJNiy8Jnyhdi4dMClo/GFz69H2CZdMTxRejdJ1qHuej/yVgnjzoeqE/4tv3ihzs1RcgKbwocbneNcyuLnahqdP9QbYSKPUN7jIABSbwv3fvgtOeRxHKWqyADNqGGL4+ijjXKo2XMRWmyhVxaRZS4=;Tia3G5p30rJmKsFI2VkolA=="
+secured: "o3ufwo8BLqh3n4wHCSFq3ubGMy5I26/+CBpa1t7ySm0L2ZNOhlZ39NWXZaVMr3XBkq3LsEaZnEoJMg3ZW51BC33Oy+/aJbgbVajdKT9wlJyUmqHxp28WcGAJKg49hm0do2b9kE7PAszVgoscMwymgAcWjELBfKwTiYoYbnZDLhidGatD/Fcbw+bCwC77p+awrZWEkmCdPzwYnGBtbT6RnVzwotEiIzbk6jmxmGu0gc07Rlvk8PppeYtvcA1C8x7syLk2YtbCAxp+uSnLbi1dgPyL8IEiNqDOl05PjMywMHwD58uAjYB+/HMl9shSN01f9FNWEhiky+mhf0WPkZlLxSR2m6ITWmINClA6xPipOIazqr1+D6AV1Ns4In0S59+QsfhL9PLPrDuzqZ/MQt3/HPoijwJXEVG09Lfp4wr0p2hWOymnJQYgMGU3IMtB/1D1KKv48vaXQzzLThY+owVTxvByC8iVAjh/xPes0sxE/+RS0Y5BOMiRvdol8flR6SmRwleMTX3kEUkf8kF7HopSwA==;NdwBuHsufmCgPdZSrbo8pQ=="
 ---
 
