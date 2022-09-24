@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/unlocking-ai-at-the-edge-with-new-tools-f
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/unlocking-ai-at-the-edge-with-new-tools-from-deci/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

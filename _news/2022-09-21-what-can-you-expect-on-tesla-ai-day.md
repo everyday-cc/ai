@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/what-to-expect-on-tesla-ai-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-to-expect-on-tesla-ai-day/"
 type: article
 quality: 104
-heat: 154
+heat: 134
 published: true
 
 provider:
@@ -46,31 +46,6 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-AI-Day-2022-invite.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Tesla AI Day Brings Optimus Robot, Self-Driving Car Updates: Here's How to Watch"
-    excerpt: "Tesla is hiring engineers to build a walking, talking robot called Optimus. Expect Elon Musk to update us on steps toward self-driving cars, too."
-    publishedDateTime: 2022-09-23T18:49:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 76
-  - title: "Optimus Robot Is Coming At Tesla’s AI Day 2 – But It’ll Have To Do More Than Dancing To Silence Critics"
-    excerpt: "Tesla will hold its AI Day 2 on September 30 and in the leadup, Elon Musk has prioritized both Optimus and an updated smart summon feature. According to the tech billionaire, both projects have an end-of-month deadline."
-    publishedDateTime: 2022-09-20T23:37:00Z
-    webUrl: "https://www.carscoops.com/2022/09/elon-musk-is-getting-ready-to-unveil-optimus-robot-at-teslas-ai-day-2/"
-    ampWebUrl: "https://www.carscoops.com/2022/09/elon-musk-is-getting-ready-to-unveil-optimus-robot-at-teslas-ai-day-2/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/09/elon-musk-is-getting-ready-to-unveil-optimus-robot-at-teslas-ai-day-2/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 75
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/08/Tesla-Bot-5-1024x576.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Tesla's AI Day Is Coming Soon: What Was Announced Last Year? And What Should We Expect To See This Time?"
     excerpt: "Tesla’s AI Day is on the horizon. Here’s a brief on the upcoming event including a recap of what happened at the inaugural event last year that also sets expectations for this year, and of course, what it all means for investors."

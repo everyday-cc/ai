@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Between a rock and a hard place – new research reveals US Banking is trapped by rising financial crime and perceived tech complexity"
-excerpt: "Featurespace, the leading provider of enterprise financial crime prevention software, announced the release of a new report, “The State of Fraud and Financial Crime in the U.S.” conducted in conjunction with PYMNTS."
-publishedDateTime: 2022-09-13T14:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-8f25d68eb42b4f6f8faf7278a16f2782"
-webUrl: "https://apnews.com/press-release/business-wire/technology-8f25d68eb42b4f6f8faf7278a16f2782"
+excerpt: "“The answer should be no. With the growth of Banking as a Service providers and processing partners, smaller FIs can today access best in class, machine learning, fraud and financial crime ..."
+publishedDateTime: 2022-09-13T14:26:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/between-a-rock-and-a-hard-place-new-research-reveals-us-banking-is-trapped-by/article_fccdfcf1-9e09-5cb9-afcc-3aa6c27d83d6.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/between-a-rock-and-a-hard-place-new-research-reveals-us-banking-is-trapped-by/article_fccdfcf1-9e09-5cb9-afcc-3aa6c27d83d6.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg"
+    width: 350
+    height: 456
     isCached: true
 
-secured: "PxRrQCdRQ4fHZb8624EAtWF5XRPVLuC5L9ogjXjpC0HG8aWE0dY9eq5FCKKZFHJHEMrRdJaPiyiAuUI3Cz2M83aA89heKofUVqBFbCP58bKNYcIu+vMuGQF4c/LI6cWTbueTy0/AEY8Ep+T+ieh3+etAZtC2RdTMCbEgYuoO/Q6g21/oPhD6hwePjigiX25rYdQUXwHiXjvTJfpxtsaU0T3HcJBu5stJr4ZAXXXC+nGV6+HBYKsLimKJCPMkoisdpIHqCjx4TspYYQYvs34cuPyKi5XAPzni4YEYPfGcd7Wc4ue4KuMEtdiBibI54TGTPPVmFyZFa9HrS7DSrJGhONlsQn8Mm/i3JULvcNEO8SE=;y85Jnl9NHIL5K2cszD/zGA=="
+secured: "b39CKG+cQyydTIgAA3BYfVM2yavZqQfvGMZsgJEjz6g4klYNggX8gBCWzspD8/hJt+Mo3lD8JUzP1jChbr+9sYbmLmrvOpBFW4nmFwnv9uxM5MH5hyiwQElWfmMvELDSEX64voG6Jdk5pR4nCkIGBAvTZWxwTxRbYCxE71fMOcWgUnXkkXrFmGQUsiu207KjQ6Qqp6f1iwdBoSwA4bDCql27KdJVfPUGR5KAw6kz29stZO58Q9Cr9QCrvbNnoArVgx4fjHIhBRTBGBVs7dZrL2IEECetqLgGOM4Xra+syaVVDzUGSy/1eoY/QvtS06lXXKc683p3DPF+KvDswgdiB7abDGxsnv/84XUAlLXo5yg=;vz1agfr2b4OhNwHKCIlsIg=="
 ---
 

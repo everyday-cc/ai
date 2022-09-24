@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104889135/Stradvision-Wins-Autosens-2022-Gold-
 webUrl: "https://menafn.com/1104889135/Stradvision-Wins-Autosens-2022-Gold-Award-For-Perception-Software"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 400
     height: 400
     isCached: true
-
-related:
-  - title: "StradVision Wins AutoSens 2022 Gold Award for Perception Software"
-    excerpt: "The AutoSens Awards have become one of the industry's leading events for the ADAS and autonomous vehicle technology community, recognizing the most innovative companies and produc"
-    publishedDateTime: 2022-09-19T15:19:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/09/19/9676076.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/1901534/StradVision_Wins_AutoSens_2022_Gold_Award_Perception_Software.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "azIPl3JnWOn1Yq+Uve4ThMnpMSrLGf/Xi/0u7J/flsIXQZwP7QkoMD5tltVpu2afOUXAUOh1Q3rcWsJZsd8SbACOsFVE9ryrwnvQihoJzMDWTW6IB0dlKdz2TzN1dC3cIRV7EFaO6j2i3RZVtqRUX+767/6RRFfxYeZp9vhy4V/00UbDb6tskVypLDWcjAjr8pyNWP3/RFzf0XNRChbU7U+uMGxbhw0uiywjY005JYcUJ7XFO14ndjEdUKIN6yGrQFXk7WwyrVMXdFNL9vXy7kRn8Mp1Wj3ZzSj2xlOgusfoK1zp296hfxsm2TO3WWIbnNsyzpnmtp17zRftf3sjikAlaZuSa0jUpovWNa2BEfM=;ycABCEDmabVNC1Ae4mpgbg=="
 ---

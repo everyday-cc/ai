@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "1M Teslas recalled and it’s not because of its self-driving feature"
+    excerpt: "Over a million Tesla are being recalled for faulty power windows. We'll show you which models are affected and what you can do about it."
+    publishedDateTime: 2022-09-24T08:00:00Z
+    webUrl: "https://www.komando.com/safety-security-reviews/tesla-faulty-windows/857934/"
+    ampWebUrl: "https://www.komando.com/safety-security-reviews/tesla-faulty-windows/857934/?amp"
+    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/safety-security-reviews/tesla-faulty-windows/857934/?amp"
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 59
+    images:
+      - url: "https://www.komando.com/wp-content/uploads/2022/09/kk-article-20220924-1m-teslas-recalled-1200x675-1.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tesla Expands “Full Self-Driving” Beta To 160,000 Owners In The U.S. And Canada"
     excerpt: "There are already 100,000 Tesla owners included in the FSD beta program and more than ever will now be granted access to version 10.69.2.2. A plethora of updates has been made to the latest beta version of Tesla’s “Full-Self Driving” system."
     publishedDateTime: 2022-09-21T12:33:00Z

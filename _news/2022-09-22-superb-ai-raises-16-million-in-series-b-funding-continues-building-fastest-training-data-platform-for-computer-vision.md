@@ -33,6 +33,20 @@ related:
         width: 682
         height: 359
         isCached: true
+  - title: "IBM Study: Supply Chain Leaders Are Investing in AI and Automation to Navigate Supply Chain Uncertainties and Improve Sustainability"
+    excerpt: "AI and automation initiatives to build intelligent, resilient, and sustainable supply chains,\" said Jonathan Wright, IBM Consulting Global Managing Partner, Sustainability Services and Global ..."
+    publishedDateTime: 2022-09-20T11:02:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/ibm-study-supply-chain-leaders-are-investing-in-ai-and-automation-to-navigate-supply-chain-uncertainties-and-improve-sustainability-301628120.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 8
+    images:
+      - url: "https://mma.prnewswire.com/media/1902478/IBM_CSCO_Video_2022.mp4?p=thumbnail"
+        width: 512
+        height: 288
+        isCached: true
 
 secured: "5XXOVXsMwsgAxNl6WTBFlJKtSplyrtwkVY++xAznQO35j6NdiNAxtKeeav6YcUlomIOa+4k1yedNPJVb47Z+f3K5ui9IdjvqdmpNIo5HSgDZVlfmfiLJ7k1RT6SNgJpyDMNCXWbgKkbjXvBCyh1GLjFyoIgmbUUudmTO+k1BnDPaQtIXVhy70GzsPt3DRjwFvAjzR7Qo5dKITExGcLs2keWMUej6UbyRGRytmtecJ5nSsKlXERavsv6Az73Zfo2G15a2gCvGkdsHP8HQ2e/vodYRVYhTgTiqyEjXUlY0Q3iruucre1ROrhw0mLDzSh6WyJ/OncIk8wJkzC8vvTNuZmsdimarAOJ4vkpmLltQSDI=;UMZDbwXOO/l9JYxUoZVsRg=="
 ---

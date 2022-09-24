@@ -43,20 +43,6 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "Parallel data processing with RStudio on Amazon SageMaker"
-    excerpt: "Last year, we announced the general availability of RStudio on Amazon SageMaker, the industry’s first fully managed RStudio Workbench integrated development environment (IDE) in the cloud. You can quickly launch the familiar RStudio IDE, and dial up and down the underlying compute resources without interrupting"
-    publishedDateTime: 2022-09-19T16:39:50Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/parallel-data-processing-with-rstudio-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/19/parallel-data-processing-rstudio-sagemaker.jpg"
-        width: 1552
-        height: 773
-        isCached: true
   - title: "Amazon SageMaker Autopilot is up to eight times faster with new ensemble training mode powered by AutoGluon"
     excerpt: "Amazon SageMaker Autopilot has added a new training mode that supports model ensembling powered by AutoGluon. Ensemble training mode in Autopilot trains several base models and combines their predictions using model stacking. For datasets less than 100 MB, ensemble training mode builds machine learning"
     publishedDateTime: 2022-09-21T15:04:37Z

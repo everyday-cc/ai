@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-owners/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 59
     images:
       - url: "https://images.thewest.com.au/publication/C-8298561/33ab8ab90c437f19f3113d454c3fed1f7d1f65af-16x9-x0y209w4000h2250.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "1M Teslas recalled and it’s not because of its self-driving feature"
+    excerpt: "Over a million Tesla are being recalled for faulty power windows. We'll show you which models are affected and what you can do about it."
+    publishedDateTime: 2022-09-24T08:00:00Z
+    webUrl: "https://www.komando.com/safety-security-reviews/tesla-faulty-windows/857934/"
+    ampWebUrl: "https://www.komando.com/safety-security-reviews/tesla-faulty-windows/857934/?amp"
+    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/safety-security-reviews/tesla-faulty-windows/857934/?amp"
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 59
+    images:
+      - url: "https://www.komando.com/wp-content/uploads/2022/09/kk-article-20220924-1m-teslas-recalled-1200x675-1.jpg"
         width: 1200
         height: 675
         isCached: true

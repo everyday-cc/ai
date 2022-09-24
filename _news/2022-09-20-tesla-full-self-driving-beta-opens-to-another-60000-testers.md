@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "1M Teslas recalled and it’s not because of its self-driving feature"
+    excerpt: "Over a million Tesla are being recalled for faulty power windows. We'll show you which models are affected and what you can do about it."
+    publishedDateTime: 2022-09-24T08:00:00Z
+    webUrl: "https://www.komando.com/safety-security-reviews/tesla-faulty-windows/857934/"
+    ampWebUrl: "https://www.komando.com/safety-security-reviews/tesla-faulty-windows/857934/?amp"
+    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/safety-security-reviews/tesla-faulty-windows/857934/?amp"
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 59
+    images:
+      - url: "https://www.komando.com/wp-content/uploads/2022/09/kk-article-20220924-1m-teslas-recalled-1200x675-1.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "NHTSA Orders Tesla to Recall 1.1 million Vehicles"
     excerpt: "The National Highway Traffic Safety Administration ordered Tesla to recall 1.1 million vehicles across the four model lines due to a problem with the automatic reversal system for the vehicles’ windows."
     publishedDateTime: 2022-09-22T15:21:00Z

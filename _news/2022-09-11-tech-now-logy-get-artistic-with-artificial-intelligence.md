@@ -5,6 +5,8 @@ excerpt: "There was once a time when you needed a sketchbook, colours, brushes, 
 publishedDateTime: 2022-09-10T19:35:00Z
 originalUrl: "https://www.financialexpress.com/industry/technology/tech-now-logy-get-artistic-with-artificial-intelligence/2662236/"
 webUrl: "https://www.financialexpress.com/industry/technology/tech-now-logy-get-artistic-with-artificial-intelligence/2662236/"
+ampWebUrl: "https://www.financialexpress.com/industry/technology/tech-now-logy-get-artistic-with-artificial-intelligence/2662236/lite/"
+cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/tech-now-logy-get-artistic-with-artificial-intelligence/2662236/lite/"
 type: article
 quality: 17
 heat: 17
@@ -16,7 +18,14 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
-secured: "GkfFbwAjRsM+pdd6qmybMSr2G69L7Ex2KXfdSmf9Ae4edVVBMxF2mTFwYoSeG50yvaE3FLINGBJAdGj8GN7wgZ9YMUPkyuzD50LrQl3d7lyCAX/7FDwjIhdsF+pfCocBqDFb8lhCaooWhm44oo8mHfebEArjOHrBRXNnAKSY9eAM2HAX24z3Xu0iELyweOYHfWcrrnKUU8puZhHCbGjhNLcocHhB7wjFgzquqGyoikBeguSi2u1e6U1UjYPhm1leIG6AYRBgOquRYGbV5Zvz6NkKsI58t7K4xwNTISP+4M+CJcCUimpANjXfdDvyJ4LFCtaWThs6apa5wQwuuVBvdKcrsV0Oc6/WC8BUogh6LqKBcA+rP95Ypzv2aPb+RGPsAwIrJmZ/NyKWJJywY2gO7WHPTvbSmbKw7dl4HHITIvfEXeOPQFgMdSa7ivXNrZAqrEczGnAroMoZUML/oIOqRqqhQAGxx2svXHZd5Ro6hXcoRPTAYHygnREdDo8aytWB9/nsRcP0DKfEFaLorI6FMQ==;OQPJc8xxeA9M2NjtRMT2fw=="
+images:
+  - url: "https://www.financialexpress.com/wp-content/uploads/2022/09/1-274.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "kxMC4LYHabBaRDToM7X8sCRMbm+JHSZG8gdmcedAOBQBa4jazx4PK0stf6sQKmDjaSBbRPJeLB+u7uenlHUQ0Dkt4TPIuJHNYPCjpPPvkOhAgg+jHw42KXl4XtDm8oU8MBUk33vyhtm8Esx/mmPKL2iZ6WPbzkcNraQDRTr1a8JtAFUybhTBki+n/VNojfX+P/DY2X8O3TLLRfhIvMZF+vGzZ4ZdODK8wiiywPqu0Q6qZfFrLH29NAoo582DNp+xpTLqwxN5T8LHjayMeKCxEYcOK4ycFC+tN1tjrk68Iffwc398MrFyg3lyKFWF30GaGRmSBqDm41TlcnXe9duQ8unPVcps6X1yIB8Ln1rMThI=;GCSx33XOb0iFWXa+bZghag=="
 ---
 

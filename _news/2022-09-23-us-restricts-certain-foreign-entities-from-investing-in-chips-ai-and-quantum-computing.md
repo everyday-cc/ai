@@ -34,6 +34,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 10
+  - title: "IBM Study: Supply Chain Leaders Are Investing in AI and Automation to Navigate Supply Chain Uncertainties and Improve Sustainability"
+    excerpt: "AI and automation initiatives to build intelligent, resilient, and sustainable supply chains,\" said Jonathan Wright, IBM Consulting Global Managing Partner, Sustainability Services and Global ..."
+    publishedDateTime: 2022-09-20T11:02:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/ibm-study-supply-chain-leaders-are-investing-in-ai-and-automation-to-navigate-supply-chain-uncertainties-and-improve-sustainability-301628120.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 8
+    images:
+      - url: "https://mma.prnewswire.com/media/1902478/IBM_CSCO_Video_2022.mp4?p=thumbnail"
+        width: 512
+        height: 288
+        isCached: true
 
 secured: "Y6m2VNL9uNfCyUhUtmvIJPYrJmBDmbQDLtudazIonWBQsXzkD86OoLyKLuY61uk02re6vNxYVefEPyH/4BA8W2A/bXomUj7D5+Obts0RMJjq3fyyVGTilouNqLPYg5HhdISn8XZYt1gxRA+zWv0+C938V1t/S+dMOdrNGxPtgpNCOZA8rQRNm+Vs6YgT1L8zfqVaFg3SLciKRDKs2A9sv3UWsZNR7nY2AIrJ9Tybs9nRUo/sHiF03HfMhWuJIIqSxHuZ17ObHbYWAdANrLAamNgTzciG74RjxKXaGzourNM+n83iQUFpt5J9DMOHh51Qon4SDDE/AszGb7QbN6KG5+wJpHyaGk3x8aEZoYN5M7LLJbLxYwyBJEKL6GR73u5miG2F5B4LyHHIu2giq6cgJP13wdu18b7GKJyuZJFYhzJffAk369AGm8p4ghATFDAyXSVia2NWzbpx0S+NNyyS/YqrY4N//PONkCIg95XV3qF7GFS2XXcOclq6SPeZkYxRqoE0wcGJHCciUiYrSU+DHg==;fRYZu30x91Nnxl6ypDlomg=="
 ---

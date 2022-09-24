@@ -56,31 +56,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla AI Day Brings Optimus Robot, Self-Driving Car Updates: Here's How to Watch"
-    excerpt: "Tesla is hiring engineers to build a walking, talking robot called Optimus. Expect Elon Musk to update us on steps toward self-driving cars, too."
-    publishedDateTime: 2022-09-23T18:49:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 76
-  - title: "Optimus Robot Is Coming At Tesla’s AI Day 2 – But It’ll Have To Do More Than Dancing To Silence Critics"
-    excerpt: "Tesla will hold its AI Day 2 on September 30 and in the leadup, Elon Musk has prioritized both Optimus and an updated smart summon feature. According to the tech billionaire, both projects have an end-of-month deadline."
-    publishedDateTime: 2022-09-20T23:37:00Z
-    webUrl: "https://www.carscoops.com/2022/09/elon-musk-is-getting-ready-to-unveil-optimus-robot-at-teslas-ai-day-2/"
-    ampWebUrl: "https://www.carscoops.com/2022/09/elon-musk-is-getting-ready-to-unveil-optimus-robot-at-teslas-ai-day-2/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/09/elon-musk-is-getting-ready-to-unveil-optimus-robot-at-teslas-ai-day-2/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 75
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/08/Tesla-Bot-5-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "The challenges automakers, and now Tesla, face with humanoid robots"
     excerpt: "Tesla's CEO Elon Musk is set to unveil its prototype humanoid robots at an event on September 30, hoping to expand beyond self-driving cars that have not yet become reality despite his repeated promises."
     publishedDateTime: 2022-09-20T13:07:00Z

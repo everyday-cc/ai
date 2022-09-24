@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/elon-musk-fa
 webUrl: "https://www.reuters.com/business/autos-transportation/elon-musk-faces-skeptics-tesla-gets-ready-unveil-optimus-robot-2022-09-20/"
 type: article
 quality: 86
-heat: 176
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Optimus Is Coming: Are You Ready For Tesla’s Robot Humanoid Invasion?"
+    excerpt: "Tesla will be showing off a working prototype of its Optimus humanoid robot at AI Day next week. Should we be afraid for our lives?"
+    publishedDateTime: 2022-09-24T09:23:00Z
+    webUrl: "https://www.forbes.com/sites/jamesmorris/2022/09/24/optimus-is-coming-are-you-ready-for-teslas-robot-humanoid-invasion/"
+    ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2022/09/24/optimus-is-coming-are-you-ready-for-teslas-robot-humanoid-invasion/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2022/09/24/optimus-is-coming-are-you-ready-for-teslas-robot-humanoid-invasion/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 106
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/632eca782c74404d4244b122/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 791
+        isCached: true
   - title: "Elon Musk faces sceptics as Tesla gets ready to unveil 'Optimus' robot"
     excerpt: "Elon Musk is planning to deploy thousands of humanoid robots in Tesla factory. However, there is scepticism as about his 'Optimus' robot"
     publishedDateTime: 2022-09-21T03:19:00Z
@@ -78,6 +94,31 @@ related:
         width: 750
         height: 393
         isCached: true
+  - title: "Tesla AI Day Brings Optimus Robot, Self-Driving Car Updates: Here's How to Watch"
+    excerpt: "Tesla is hiring engineers to build a walking, talking robot called Optimus. Expect Elon Musk to update us on steps toward self-driving cars, too."
+    publishedDateTime: 2022-09-23T18:49:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 76
+  - title: "Optimus Robot Is Coming At Tesla’s AI Day 2 – But It’ll Have To Do More Than Dancing To Silence Critics"
+    excerpt: "Tesla will hold its AI Day 2 on September 30 and in the leadup, Elon Musk has prioritized both Optimus and an updated smart summon feature. According to the tech billionaire, both projects have an end-of-month deadline."
+    publishedDateTime: 2022-09-20T23:37:00Z
+    webUrl: "https://www.carscoops.com/2022/09/elon-musk-is-getting-ready-to-unveil-optimus-robot-at-teslas-ai-day-2/"
+    ampWebUrl: "https://www.carscoops.com/2022/09/elon-musk-is-getting-ready-to-unveil-optimus-robot-at-teslas-ai-day-2/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/09/elon-musk-is-getting-ready-to-unveil-optimus-robot-at-teslas-ai-day-2/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 75
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/08/Tesla-Bot-5-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Elon Musk’s Tesla robot Optimus faces skeptics: ‘Investors are not excited’"
     excerpt: "Musk’s Texas company now is floating ambitious plans to deploy thousands of humanoid robots, known as Tesla Bot or Optimus, within its factories, expanding eventually to millions around the world, according to job postings."
     publishedDateTime: 2022-09-20T16:49:00Z
@@ -112,20 +153,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 63
-  - title: "Investors Are Not Psyched for Elon Musk’s ‘Optimus’ Humanoid Robot"
-    excerpt: "Creating Elon Musk's army of worker droids is “infinitely harder than self-driving cars” but he's trying to anyway"
-    publishedDateTime: 2022-09-20T21:22:00Z
-    webUrl: "https://www.lamag.com/culturefiles/elon-musk-deals-with-doubters-as-tesla-prepares-new-optimus-humanoid-robot/"
-    type: article
-    provider:
-      name: Los Angeles Magazine
-      domain: lamag.com
-    quality: 39
-    images:
-      - url: "https://cdn2.lamag.com/wp-content/uploads/sites/6/2022/05/Elon-Musk-Met-Wings.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
   - title: "Musk faces sceptics as Tesla gets ready to unveil 'Optimus' robot"
     excerpt: "Tesla CEO Elon Musk blamed overreliance on factory robots for sending the electric carmaker to \"production hell\" four years ago, saying humans were better at certain jobs."
     publishedDateTime: 2022-09-20T13:43:00Z
@@ -135,15 +162,6 @@ related:
       name: Times LIVE
       domain: timeslive.co.za
     quality: 36
-  - title: "Elon Musk says Tesla will unveil a project Optimus prototype robot on September 30"
-    excerpt: "In addition to working in factories, Musk said at a TED Talk robots could be in homes, make dinner, mow lawns, care for the elderly people, and even become a \"buddy\" or a \"catgirl\" sex partner."
-    publishedDateTime: 2022-09-20T12:53:00Z
-    webUrl: "https://www.autoblog.com/2022/09/20/tesla-robot-elon-musk-reveal/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 30
 
 secured: "oa/xvyzpGPIqwyRosEl0fkJdy+QMBo/rp9Na5dZHy6vw+UTVgSJihj2/zeIq+XP0GCOvQbOf91pV+Gc/wpKkmhwWeWVpyY+8okA44MwSKiV5a1rF1FUwGC4W5XYY5x5CVhuNtUPMO2nzgqcbedFoCodYx/m6JWZhfWjqTM46yksYBJlVlldEvZeLIGqREcO/k+YYYE6J8O3pZvPsfnm3HTC7qA0vlo1xzk5v5kk1V0Xbu3iKgTEMbe+XkpDom04/8JAKoA/F/tWtY3zgrENZP0q3h7WJVyhNxCQ4Zhg5CKPCs6ze0MBSebk/mRJzUh8V0Y16TGoY0svZoRKhJgBuTy+aJXNOWZPcqDulvSkvcBd7VzlIkQ9CK/9PBA/r59FhTrOMYBrsm9ts1NPIzcRUj5GdmjVJCNRGxP/9g5sFy6L/bXlGQUC9XtHizeKoa/hmUtsU1QbW7H/oqzMAIg9ESTr9an9YGGqCQjuQBh6/6vKYiamc+TWRI5sQPxJwwZ80VmlVcEM48ZM9FhPXM2PBQg==;2ecbwBItzg3Vl55rkIQ1Qw=="
 ---
