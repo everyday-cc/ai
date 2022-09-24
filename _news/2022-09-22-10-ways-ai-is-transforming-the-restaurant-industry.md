@@ -52,20 +52,6 @@ related:
         width: 900
         height: 450
         isCached: true
-  - title: "HOW ARTIFICIAL INTELLIGENCE BOOSTS THE DIGITAL MARKETING SPHERE"
-    excerpt: "This article try to portray artificial intelligence's influence in digital marketing sphere. Importance of AI and the need to adopt it discussed."
-    publishedDateTime: 2022-09-22T06:05:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/positive-opinions/how-artificial-intelligence-boosts-the-digital-marketing-sphere-45110/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 56
-    images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Artificial Intelligence in the Operating Room"
     excerpt: "While the challenges in the healthcare industry are constantly increasing, hospitals adopting new technologies have helped to alleviate some of those struggles"
     publishedDateTime: 2022-09-20T14:46:00Z

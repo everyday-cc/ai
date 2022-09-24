@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-24T12:00:00Z
 originalUrl: "https://theblast.com/324657/grimes-face-tattoo/"
 webUrl: "https://theblast.com/324657/grimes-face-tattoo/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Blast

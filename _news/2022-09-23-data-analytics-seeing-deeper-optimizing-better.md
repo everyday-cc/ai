@@ -72,6 +72,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 26
+  - title: "IgniteTech 'Turbo-Charges' BryterCX and the Journey Intelligence Industry with Predictive Analytics Capabilities"
+    excerpt: "Iris Insights™ uses ML/AI to identify customer experience problems to quickly surface and resolve issues AUSTIN, Texas, Sept. /PRNewswire/ -- IgniteTech™, the company \"Where Software Goes to"
+    publishedDateTime: 2022-09-23T14:18:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/n28984977/ignitetech-turbo-charges-brytercx-and-the-journey-intelligence-industry-with-predictive-analytics-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28984977"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28984977"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 3
 
 secured: "w+RcaVhvLksgFk5nBceXTG7E6PSkp9dRTZDZHNTJrS6KgRv6oAeMX+rgNIxszQRpyL5UUtXsxBIiQnxq8qx+HSmxPW8QJPi9SnMWgmYMIVYziJ0xll55e9XYBWqwJJWW1wvUXNYeTeRBwR78F6VR0c/ZEoA1dIfeVPUs4KXnuT7iAS5sI+mw43MK9XbA3jxD6jWHLvyTXrRdUEweTjI2Wjsc9scGsiVvsvpvadLpEzyBS1L9YQJZtpSCtqriU1P3dB3bqWZZUGCADwFIzEKUTwEr0e5fDn0gB65PO4dq61lBhBi+/1vT+B+XRucewrmyUw/yorbPVjGQny1ffGv8Eps3bnsjWA4WieuXw4Qwwu0Mjh7+SDn4j6X1fVCAr0+0KvPSy2gQwpS6XWWhRUASvBBO8MGoZ4rry7yi9f2Phc0LNeao8tYPNKHnukmBRV/KuJUtJqBmvZx1wXN3wboc58Y1t45kBaNFPhirn7Z08W3YyfzEOmPAuPZz+Z+9ryW5UjwDC8l+jXTQU084+CGR4w==;LrYqasexWFB0AE/PqHX5YA=="
 ---

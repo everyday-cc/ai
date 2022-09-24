@@ -2,6 +2,136 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2022-09-01-opti9-listed-as-a-representative-vendor-in-2022-gartner-market-guide-for-disaster-recovery-as-a-service.md",
+      "title": "Opti9 Listed as a Representative Vendor in 2022 Gartner Market Guide for Disaster Recovery as a Service",
+      "excerpt": "Opti9 Technologies LLC (Opti9), a trusted North American managed cloud services provider for hybrid cloud, security, and application modernization announces that it has been identified as a Representative Vendor in the Gartner Market Guide for Disaster Recovery as a Service (DRaaS) report.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-north-america-garden-city-6a3920f7cbf59e9825d0c42edc6159cf",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-north-america-garden-city-6a3920f7cbf59e9825d0c42edc6159cf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-vsblty-forges-alliance-with-the-al-jabr-group-to-bring-computer-vision-ai-security-solutions-to-the-middle-east.md",
+      "title": "VSBLTY FORGES ALLIANCE WITH THE AL JABR GROUP TO BRING COMPUTER VISION & AI SECURITY SOLUTIONS TO THE MIDDLE EAST",
+      "excerpt": "Try refreshing your browser, or tap here to see other videos from our team. VSBLTY FORGES ALLIANCE WITH THE AL JABR GROUP TO BRING COMPUTER VISION & AI SECURITY SOLUTIONS TO THE MIDDLE EAST Back to video Philadelphia PA, Sept. 01, 2022 (GLOBE NEWSWIRE ...",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/globe-newswire/vsblty-forges-alliance-with-the-al-jabr-group-to-bring-computer-vision-ai-security-solutions-to-the-middle-east",
+      "originalUrl": "https://financialpost.com/globe-newswire/vsblty-forges-alliance-with-the-al-jabr-group-to-bring-computer-vision-ai-security-solutions-to-the-middle-east",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dcs-static.gprod.postmedia.digital/11.4.5/websites/images/postmedia-image-fallback.png",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://financialpost.com/globe-newswire/vsblty-forges-alliance-with-the-al-jabr-group-to-bring-computer-vision-ai-security-solutions-to-the-middle-east/wcm/5e36dc08-b129-4848-84d5-05ee25576d31/amp/",
+      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/globe-newswire/vsblty-forges-alliance-with-the-al-jabr-group-to-bring-computer-vision-ai-security-solutions-to-the-middle-east/wcm/5e36dc08-b129-4848-84d5-05ee25576d31/amp/",
+      "publishedDateTime": "2022-09-01T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-uplift-aerospace-announces-research-collaboration-with-terasem-movement-foundation.md",
+      "title": "Uplift Aerospace Announces Research Collaboration with Terasem Movement Foundation",
+      "excerpt": "The Terasem Movement Foundation Inc. is a 501 (c) (3) not-for-profit private operating foundation which was founded in 2004 and is based in Vermont, USA. Terasem’s mission is to offer educational programs about the value and practical benefits of geo-ethically applied cyber,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/accesswire/technology-af168b47399731754c428fd1000a79c5",
+      "originalUrl": "https://apnews.com/press-release/accesswire/technology-af168b47399731754c428fd1000a79c5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-us-restricts-sale-of-ai-training-chips-to-china.md",
       "title": "US restricts sale of AI training chips to China",
       "excerpt": "The US government has imposed new export restrictions on high-end computers chips used to conduct AI research, citing possible military applications for the technology. Two leading manufacturers ...",
@@ -1019,135 +1149,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-microsoft-azure-outage-continues-for-some-services-relying-on-ubuntu-bionic-release.md",
-      "title": "Microsoft Azure outage continues for some services relying on Ubuntu 'Bionic' release",
-      "excerpt": "Azure problems for some running Ubuntu VMs are continuing into a second day, as Microsoft continues to try to remediate the situation, which is affecting services like AKS and ACA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-azure-outage-continues-for-some-services-relying-on-ubuntu-bionic-release/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-azure-outage-continues-for-some-services-relying-on-ubuntu-bionic-release/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/8416411e90bbe418f258796203c3085a40ede504/2022/08/31/80f3ce20-b36d-4c5b-a679-358656cfb300/canonicalubuntuazuredns.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-azure-outage-continues-for-some-services-relying-on-ubuntu-bionic-release/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-outage-continues-for-some-services-relying-on-ubuntu-bionic-release/",
-      "publishedDateTime": "2022-08-31T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-what-you-know-changes-how-you-see-things.md",
-      "title": "What you know changes how you see things",
-      "excerpt": "Researchers at the George Washington University have gained important insight into how the human brain processes an object in the visual system and where in the brain this processing takes place. Their study,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/963472",
-      "originalUrl": "https://www.eurekalert.org/news-releases/963472",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/62942170-2000-4e0a-bdee-ff671f06a652/Rendition/low-res/Content/Public",
-          "width": 534,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-the-ftc-should-keep-google-out-of-cars-a-privacy-group-argues.md",
-      "title": "The FTC should keep Google out of cars, a privacy group argues",
-      "excerpt": "Fight for the Future says Big Tech’s privacy record should prompt the agency to issue rules that keep the companies from taking over automotive consoles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.protocol.com/policy/tech-auto-privacy-ftc-petition",
-      "originalUrl": "https://www.protocol.com/policy/tech-auto-privacy-ftc-petition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Protocol",
-        "domain": "protocol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

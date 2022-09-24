@@ -15,6 +15,12 @@ topics:
   - AI in Finance
   - AI
 
-secured: "EgCXxGpLL+jgF9Pua+F3TFb6hUisa7aNYRqcLiSXWMY3v0Xs+WPsuZgQAlDBflKfqLVGipYY/Gcx345rgoX8pkgbwxT9lDwUU+ZhWOwzOTd/2LtMYeKA0L5xgeT9ll68YnsQQydIBKA+dzb1NxtKK7SWImniory0sES/qXh2vHDYJXe1MZjkSeVbNUTHtjPdFjuRegbMhdUepegIeOR+W204htixNfCjHEgjQ3IUY7WXBa4c/LvciVWK4h2b2e7Zvo2we2+MFEQeilHlU86gGiBbEai2qCj4uANRlfz7IJGvbWkEiuNs0zIpWkhA5yj9Y50EOLiqpStwbN/yrC3o7iDjYkm5vRAVm1Skf0O6m5c=;eqJwIKrBzGqFBEkZVVuzPw=="
+images:
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg"
+    width: 350
+    height: 456
+    isCached: true
+
+secured: "f+93NArUGj0zuhWiTXijzG9s4KzbfWJLjTX9PxEu8hsuBqH0OdBCoO5DrPamXWBK7RgF5EU1bTTg/w0Jy93Mlrqiq4eGsxPrXzkXw3MkGNw12DpKe3T7pzpUb0/cbRY88/c1BNgzL8wbJSaUxhP2lXyoVpt50lq6krCiiq+Oa3ezJkRKUc6C++5EORHLnoiVglaVIXl9Twl1Ri+zC+Px0Eb79pYE3APBAE1ZURBs9Y0vVctDVwD4XHrPb46e/TDRAiiYz5IQuAxYAaGVVAhFYPkpKcuWKbQ7SW15Vinnu7rLK9gzZ5ukLfif2JlEPnxgAoD//doKtic95BSoWiz7/xfawpT3QGnrLdoQ5RW9L78=;JJbezZMpLiDeKVljIdUJVw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -76,6 +76,17 @@ related:
       name: Control Global
       domain: controlglobal.com
     quality: 4
+  - title: "IgniteTech 'Turbo-Charges' BryterCX and the Journey Intelligence Industry with Predictive Analytics Capabilities"
+    excerpt: "Iris Insights™ uses ML/AI to identify customer experience problems to quickly surface and resolve issues AUSTIN, Texas, Sept. /PRNewswire/ -- IgniteTech™, the company \"Where Software Goes to"
+    publishedDateTime: 2022-09-23T14:18:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/n28984977/ignitetech-turbo-charges-brytercx-and-the-journey-intelligence-industry-with-predictive-analytics-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28984977"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28984977"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 3
 
 secured: "kZP9xCf9KHea2YOsDzdg5KWKg57W9nGp42yULGp+r5PA8qCTAXiKpi/wM7NiG8ZhrZFOi93PhtgI9MKOyB12ohyAifWFRSh81grIm70m694ZYU/9VyCIl05JQewNf8AD0jh3qwt9Z1KvCaVSPhhZlapuRoiJQcMbQ7z/wbJxUh2hFpRIgy8wgYC3HmK8S+4NQQNAU6via1PPv81G9gNwjyoORlYbPV9oqtg5lBMfqqMn7G0oLcBy1rSPZMLsfZTXL7boi1+n1bw5c8zkXND4DPLpnqalewSs2xfTYXu6Oad2B5EWDf8ivO0Erh+6t07h5DNAK/XX+78HYmBtP1BrdB/DnCIHn3HWHik39ylyGIIIavfcNXX44+RuPeBFE3tUl1FAfGWOUFN+zo0DSkybn5sjU4kJnQEtQ024rhRo2Yvlm0ZhKGPf3Cv8xjKwNhaI7rjVDKQk66FZ+N5bxtay7tnF5EhTqK3LsXY9MDlHw3r17PRjVw+UlPHkCdW/ynfoF0YIfbUQ9DWQdCd3doa5YQ==;RtT1pQZW4NXj2QNUBvEz1Q=="
 ---

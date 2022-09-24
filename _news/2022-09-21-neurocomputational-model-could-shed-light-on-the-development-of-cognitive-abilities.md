@@ -43,6 +43,15 @@ related:
         width: 2045
         height: 1489
         isCached: true
+  - title: "How the brain develops: A new way to shed light on cognition"
+    excerpt: "Researchers introduce a new neurocomputational model of the human brain that could bridge the gap in understanding AI and the biological mechanisms underlying mental disorders."
+    publishedDateTime: 2022-09-20T19:29:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/09/220920115627.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "ugFm8WNTCIn3sQ4ERFE9xh++JXL+4xuHpyFj4lVdY1L0MUA4sIWD9pGE/CrKn3WP1SeCv9ehDTl+R0Wo0PNslDPuHdUcJRE+RIQ0SbDH3NAQtcBWSLCMFMy/YL7OdRb6pwD6BfManfM108iiWBmL24dTbBReE/+Z87ufIAVdmgIT2+quQlYUKYjGrXyhcYsSTanFlYG6FUM2OH+Wmdd3x0G4u3W1eccWA4HpIBc/SVPN3bPJF2+JNtRPmo7c5HCm+ePLkvj0JPl+x390DQSQtiWKpWPaWWYep6sW3INmirnSaJv4dMcCR7lXRLJEsDVxnQW/Nz3IAmCMlogCtSEKWVgumo3KB/4JaL95kehDznE=;YI6XoEgct62pijovEMouxQ=="
 ---

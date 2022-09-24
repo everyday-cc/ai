@@ -32,14 +32,16 @@ images:
 
 related:
   - title: "Voxel51 Raises $12.5M Series A to Bring Transparency and Clarity to Computer Vision Data"
-    excerpt: "Funding round will be used to accelerate R&D for data-centric machine learning solutionsANN ARBOR, Mich., Sept. 21, 2022 /PRNewswire/ -- Voxel51,"
-    publishedDateTime: 2022-09-21T16:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/voxel51-raises-12-5m-series-a-to-bring-transparency-and-clarity-to-computer-vision-data-1031757242"
+    excerpt: "The recent explosion of computer vision data—there are an estimated 45 billion cameras in the world today—creates a tremendous opportunity for machine learning products, but only if it can be ..."
+    publishedDateTime: 2022-09-21T16:09:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/n28951618/voxel51-raises-12-5m-series-a-to-bring-transparency-and-clarity-to-computer-vision-data"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28951618"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28951618"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
 
 secured: "TNhWVClGEEZg/4nYojnPwKsX+OPaMwzFFKAZ+LwtBKOz+xyT7eGhmAGwX5U2VxjqPtC0Uov2zG9QjYAXoE2GZ1Ydo5bx4YTBvC9rAD6aibJjw4s/uyw2zdZL+4hKN10JfLgqK3q7mSBlRU3UIlD9UJdtYxzK0rxWaR0rPzYzdzkXq2MMw/CLF/W6bhnsTgmqCZllKzr03YnNJWD8Tuue73kTGlzdOQgFHFag+pXIodPb4zLCPTE4EdGBdZKWmeLmWThQCNWouRHm/ePn1/hnOLqozU4o6Pv1IvK5C2MdsqHyPQb/6FA3et520wsPijk81wucZPueQ6YiQzrsJbt/i2sn/U/G1UVLW4wMzbO59uMXUL4wfI4OKJSPYvQHWmnjUac2ieBNBreHVmJ8Z0XAmJ+hRb9TdMbzzMPfyy0Zh5cT1Vd0e5fxlS0FmOqpTq+tkX/ov9LSH3RrHvXlWzZpbk7Oj3MIsX9bqxefEBoRa+soiJApFbNuQj7+ddKLvJOzUuLzD+FT0dXKZcJu9JYyGA==;uHqZQFuZtnV4dmnfXNlOtA=="
 ---

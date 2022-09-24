@@ -19,34 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "US restricts certain foreign entities from investing in chips, AI, and quantum computing"
-    excerpt: "US President Biden has signed an executive order blocking some foreign entities from investing in critical US organizations. The order covers investors from \"a country of special concern that has a demonstrated or declared strategic goal of acquiring a type of critical technology or critical infrastructure that would affect United States leadership in areas related to national security."
-    publishedDateTime: 2022-09-23T09:07:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/us-restricts-certain-foreign-entities-from-investing-in-chips-ai-quantum-computing/?amp"
+  - title: "Machine learning developer TrueFoundry raises $2.3 mn in seed funding"
+    excerpt: "TrueFoundry, a machine learning (ML) developer, has raised $2.3 million in seed funding led by Sequoia India and Southeast Asia's Surge. Other investors in the round included Eniac Ventures and Naval Ravikant,"
+    publishedDateTime: 2022-09-20T06:09:00Z
+    webUrl: "https://www.business-standard.com/article/companies/machine-learning-developer-truefoundry-raises-2-3-mn-in-seed-funding-122092000343_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/machine-learning-developer-truefoundry-raises-2-3-mn-in-seed-funding-122092000343_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/machine-learning-developer-truefoundry-raises-2-3-mn-in-seed-funding-122092000343_1.html"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 45
+      name: Business Standard
+      domain: business-standard.com
+    quality: 74
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/Joe_Biden.a2758abe.fill-1200x630.jpg"
-        width: 682
-        height: 359
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-03/16/full/1615837220-0307.jpg"
+        width: 620
+        height: 464
         isCached: true
-  - title: "IBM Study: Supply Chain Leaders Are Investing in AI and Automation to Navigate Supply Chain Uncertainties and Improve Sustainability"
-    excerpt: "AI and automation initiatives to build intelligent, resilient, and sustainable supply chains,\" said Jonathan Wright, IBM Consulting Global Managing Partner, Sustainability Services and Global ..."
-    publishedDateTime: 2022-09-20T11:02:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/ibm-study-supply-chain-leaders-are-investing-in-ai-and-automation-to-navigate-supply-chain-uncertainties-and-improve-sustainability-301628120.html"
+  - title: "Truefoundry, Company Founded by Meta Alumni, Raises USD 2.3 Million to Accelerate ML Deployments"
+    excerpt: "A team of former Meta engineers is developing a platform to assist businesses in deploying machine learning models as quickly"
+    publishedDateTime: 2022-09-20T12:52:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/truefoundry-company-founded-by-meta-alumni-raises-usd-2-3-million-to-accelerate-ml-deployments/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 8
-    images:
-      - url: "https://mma.prnewswire.com/media/1902478/IBM_CSCO_Video_2022.mp4?p=thumbnail"
-        width: 512
-        height: 288
-        isCached: true
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 23
 
 secured: "5XXOVXsMwsgAxNl6WTBFlJKtSplyrtwkVY++xAznQO35j6NdiNAxtKeeav6YcUlomIOa+4k1yedNPJVb47Z+f3K5ui9IdjvqdmpNIo5HSgDZVlfmfiLJ7k1RT6SNgJpyDMNCXWbgKkbjXvBCyh1GLjFyoIgmbUUudmTO+k1BnDPaQtIXVhy70GzsPt3DRjwFvAjzR7Qo5dKITExGcLs2keWMUej6UbyRGRytmtecJ5nSsKlXERavsv6Az73Zfo2G15a2gCvGkdsHP8HQ2e/vodYRVYhTgTiqyEjXUlY0Q3iruucre1ROrhw0mLDzSh6WyJ/OncIk8wJkzC8vvTNuZmsdimarAOJ4vkpmLltQSDI=;UMZDbwXOO/l9JYxUoZVsRg=="
 ---

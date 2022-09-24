@@ -1,20 +1,40 @@
 ---
 category: news
-title: "Automotive Artificial Intelligence (AI) Market Size to Hit USD 19.1 Bn by 2030"
-excerpt: "The global automotive artificial intelligence (AI) market size was valued at USD 2.9 billion in 2021. The development in the auto business is supposed to drive the automotive"
-publishedDateTime: 2022-09-22T21:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030"
+title: "Automotive Artificial Intelligence (AI) Market Size To Hit USD 19.1 Bn By 2030"
+excerpt: "The global automotive artificial intelligence (AI) market size was valued at USD 2.9 billion in 2021. The development in the auto business is supposed to drive the automotive artificial intelligence market."
+publishedDateTime: 2022-09-22T21:37:00Z
+originalUrl: "https://menafn.com/1104911136/Automotive-Artificial-Intelligence-AI-Market-Size-To-Hit-USD-191-Bn-By-2030"
+webUrl: "https://menafn.com/1104911136/Automotive-Artificial-Intelligence-AI-Market-Size-To-Hit-USD-191-Bn-By-2030"
 type: article
+quality: 50
+heat: 60
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "8CgPkDRZUMIdX2SXoLB1zPhyTuPl4uIX4pkuOTLgxgC85KFq8YuFE15Mwau+MhuaQRv2Cm3dWYrJRqwoOVKF+p/39NGxnDOgJv2Q+sm6hP4WrDZ5jrpzFoFJ5iNK74daoOnufZEAS2gEYq8K7IdVM86YGbKQk+hZAEnqF/t+qgqiJ+S8DIDfmkZe22PDiDe0VHdQnJ/ytpJ9ti9bpn8Gq8gGECm0e6nEFmqOcSAP9VXXGdiyu4d5n/QehpcwbJp/2u0RhETyW3uwBl9T6Z/5kkfyiZ54KQmczRCce/1oLVOPAQFfj0hZVnLu86qxUYllwgIMVNTciRnlyC1sV1YO/QoCpoWxjr2Ueteudz2BvTE=;Z+8Dyxyknxeiu2PyCkvGLw=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?125665"
+    width: 374
+    height: 250
+    isCached: true
+
+related:
+  - title: "Artificial Intelligence (AI) In Retail Market to Hit $40.74 Billion by 2030: Grand View Research, Inc."
+    excerpt: "The global AI in retail market size is anticipated to reach USD 40.74 billion by 2030, expanding at a CAGR of 23.9% from 2022 to 2030, according to a new study by Grand View Research, Inc. The rising prominence of advanced technologies,"
+    publishedDateTime: 2022-09-20T16:43:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/09/20/9677284.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
+
+secured: "yG2/A0PIQeiIRmofTVoTJGMXkqnZiLbvpP1HjN8acw1Qv2Rfy9xPrNFIBXqxD04bEdxe0B2lf9zWfR2Rq12DhVn86UUNKxxAREUxezHuBmj6Q/yAZ2pMt3unoGzHNQwqr/4Ph2o2YvMi70tZpOpTVvfDUCvVfb/syiOs5/70VyPDIVj8k+zWMWUK1Q7f3TmywPY5SRlWVhPnTSmXojA4C522m2tv70Bpw4/fBFoTZ0BZKdvdzMVmoEc2bPGu7qb5C+/kqKuIDxYAO0QDmno+MvFZzYEArwXJN0cU8uuV8GkST+KrFJSLqqEZ3c03FiWl7LOWpnUODsug2Lqn1rQ+LXGc/uOnN/b1bjO7rs3x5lA=;dETLKwPmSphYCMX5FvUIwA=="
 ---
 

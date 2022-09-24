@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-20T19:48:00Z
 originalUrl: "https://www.agweb.com/news/business/technology/john-phipps-youll-have-see-believe-what-artificial-intelligence-can-now-do"
 webUrl: "https://www.agweb.com/news/business/technology/john-phipps-youll-have-see-believe-what-artificial-intelligence-can-now-do"
 type: article
-quality: 9
-heat: 9
+quality: 11
+heat: 11
 published: false
 
 provider:

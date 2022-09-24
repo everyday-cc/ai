@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Superb AI Raises $16 Million In Series B Funding, Continues Building Fastest Training Data Platform For Computer Vision"
-    excerpt: "Superb AI announced today the initial closing of its Series B investment round with $16M, led by Korea Development Bank (KDB) and Series A investor Premier Partners, with additional investments from seed investors like Duke University and KT Investment."
-    publishedDateTime: 2022-09-21T17:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-superb-ai-raises-16-million-series-b-funding-/2022/09/21/9678448.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
   - title: "IBM Study: Supply Chain Leaders Are Investing in AI and Automation to Navigate Supply Chain Uncertainties and Improve Sustainability"
     excerpt: "AI and automation initiatives to build intelligent, resilient, and sustainable supply chains,\" said Jonathan Wright, IBM Consulting Global Managing Partner, Sustainability Services and Global ..."
     publishedDateTime: 2022-09-20T11:02:00Z

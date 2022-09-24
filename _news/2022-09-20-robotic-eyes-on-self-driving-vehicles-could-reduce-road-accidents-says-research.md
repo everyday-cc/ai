@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Can eyes on self-driving cars reduce accidents?"
+    excerpt: "Self-driving vehicles seem to be just around the corner. Whether they'll be delivering packages, plowing fields or busing kids to school, a lot of research is underway to turn a once futuristic ..."
+    publishedDateTime: 2022-09-22T16:14:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/09/220920100807.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
   - title: "Can Robotic Eyes on Self-Driving Cars Reduce Accidents?"
     excerpt: "Like a character from the Pixar movie Cars, a self-driving golf cart was fitted with two large, remote-controlled robotic eyes."
     publishedDateTime: 2022-09-22T14:29:00Z
@@ -41,6 +50,15 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
+    quality: 4
+  - title: "A new self-driving car developer is setting up shop in Tucson"
+    excerpt: "The company, backed by Japanese auto giant Toyota, previously tested self-driving cars in California but its state permit was revoked following a minor crash."
+    publishedDateTime: 2022-09-22T19:30:00Z
+    webUrl: "https://tucson.com/news/local/business/a-new-self-driving-car-developer-is-setting-up-shop-in-tucson/article_6e3c25fa-3a98-11ed-806e-f713fec8a6a3.html"
+    type: article
+    provider:
+      name: Arizona Daily Star
+      domain: tucson.com
     quality: 4
 
 secured: "IJ5L392NgtUJVAL6f+jK5Qk0KU5NN1X7LhNM76oASjOyYdGPbVxz3bKfK78zG255n1ozXU6nKIEzeXhyOrEvjFoPkIJEq5LNBdHuEUMlC6Jg84jJNo3NvxQG1ugCQbubomNGAUThRahxldBKrzxGD/FvPiXfgCxkIOqSY2yJc6IwQmlU6KN4bADi+09JfVIg2/au9TOPcshMrjqoH7WI1ZVt6tauTqk9v5PHQZjg8CX3j1zgVwImE4PK/rQ6IcfKuKLOjJlxdzqKoVEvrvBHaI37sJxzZqk1Inw/qmCXQjNHFqtkVxMDjwv/xQMRGH0Vfyz7G10SLRFtyTKhV0DVCgvOenxPzBgEUDVHskNHbs/DwzP4Djht/VG+UZx9r7Qw/d4XA0huigDb57W1RpXBftpmHXtb3FYbk9AF7U7MYkO44JJWhTXq6pAMcH9HL5OCj/Qr1TGMa+MskWO8aMdgIcBHLxYFxH650J5Qg/hHRkck+q0aeO6LQwdbxAoE+0kL7nRBkERDAtjXSKiWLj1pQA==;exh3etYl6S6S/4dnJG+Jfg=="

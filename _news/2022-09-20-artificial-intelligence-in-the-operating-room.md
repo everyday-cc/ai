@@ -55,20 +55,6 @@ related:
         width: 900
         height: 450
         isCached: true
-  - title: "HOW ARTIFICIAL INTELLIGENCE BOOSTS THE DIGITAL MARKETING SPHERE"
-    excerpt: "This article try to portray artificial intelligence's influence in digital marketing sphere. Importance of AI and the need to adopt it discussed."
-    publishedDateTime: 2022-09-22T06:05:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/positive-opinions/how-artificial-intelligence-boosts-the-digital-marketing-sphere-45110/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 56
-    images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
-        isCached: true
   - title: "10 Ways AI Is Transforming The Restaurant Industry"
     excerpt: "The possibilities of AI adoption are endless, and restaurant owners wanting to stay ahead of the game and those wanting to master the market should embrace the benefits of AI."
     publishedDateTime: 2022-09-22T12:00:00Z

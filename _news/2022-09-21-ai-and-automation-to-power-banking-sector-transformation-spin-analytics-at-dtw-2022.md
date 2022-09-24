@@ -73,6 +73,17 @@ related:
       name: Control Global
       domain: controlglobal.com
     quality: 4
+  - title: "IgniteTech 'Turbo-Charges' BryterCX and the Journey Intelligence Industry with Predictive Analytics Capabilities"
+    excerpt: "Iris Insights™ uses ML/AI to identify customer experience problems to quickly surface and resolve issues AUSTIN, Texas, Sept. /PRNewswire/ -- IgniteTech™, the company \"Where Software Goes to"
+    publishedDateTime: 2022-09-23T14:18:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/n28984977/ignitetech-turbo-charges-brytercx-and-the-journey-intelligence-industry-with-predictive-analytics-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28984977"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28984977"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 3
 
 secured: "FY8JLaRuaGf1UEGMl+Xx5WnG6w+WQnZAqOH5lY8cwYWMvu1XEfX/rLA8UW/b4FAbfJMDMGBlKkpQdCdNqKzsK6hIVFxKWdkKqYPqc/sW4W18D/kZXTGQOQ9+sW3Tj8NXudVXz2DfaC35AihHrSljkhLbUGSQNprbc0UEZy6Y4sclVYtfd55qqYgehcTqEfUkWYsECpzJC/SOQf0tvs9xl/x+lc7TSDRM4LtXwFtv9p1aioSecFf8kfSHTvApK3PsmTowuwpTHfLg6Z/ykW5wqF4asVK9KwxUxpYomKzG+SuFIqJrMldPVzQC3HkfPMWRrV3pKhVJYVdGhWXhNgJ9T0pVCcohFUcLK5I+ujEHbN/51gswOYC1kaUggdwCG6Yf9riCYBymyd6w2bV01IdlrLx2bSYW4sKer9KY4SBmDFF8sxIo2ZjeMBAnEbPa1S+kkC3cB/iH+FV8Yx2gFB74MqENeBCRJA78P4MfYE7uWbUFthYNqVeJia3H0NcajeXd+3hSeHPxs0cLS8KItznP1A==;hO/TjzZBbrjvgDi2C97ixA=="
 ---

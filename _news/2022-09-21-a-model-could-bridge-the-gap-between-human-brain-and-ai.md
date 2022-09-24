@@ -25,20 +25,91 @@ images:
     isCached: true
 
 related:
-  - title: "The human brain is far more complex than AI researchers imagine"
-    excerpt: "leads some AI chip designers towards hybrid digital/analog architectures. The physical properties of a circuit, like current and resistance, perform the additions and multiplications on data in ..."
-    publishedDateTime: 2022-09-20T01:13:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/369061/the-human-brain-is-far-more-complex-than-ai"
+  - title: "Why AI and digital twins could be the keys to a sustainable future"
+    excerpt: "How AI and digital twins are helping ESG and sustainability efforts in construction, industry and city planning."
+    publishedDateTime: 2022-09-24T16:10:00Z
+    webUrl: "https://venturebeat.com/ai/why-ai-digital-twins-could-be-keys-sustainable-future/"
+    ampWebUrl: "https://venturebeat.com/ai/why-ai-digital-twins-could-be-keys-sustainable-future/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-ai-digital-twins-could-be-keys-sustainable-future/amp/"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 69
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816534/itpro/2018/11/shutterstock_25991188.jpg"
-        width: 1260
-        height: 710
+      - url: "https://venturebeat.com/wp-content/uploads/2022/06/9-X-Ways-digital-twins-drive-sustainable-data-centers.jpg?w=1200&strip=all"
+        width: 1200
+        height: 596
         isCached: true
+  - title: "Why you need a digital champion to score AI wins"
+    excerpt: "Panelists at Digital Procurement World said making AI work with humans requires an internal digital champion to create a safe environment."
+    publishedDateTime: 2022-09-22T14:40:00Z
+    webUrl: "https://venturebeat.com/ai/why-you-need-a-digital-champion-to-score-ai-wins/"
+    ampWebUrl: "https://venturebeat.com/ai/why-you-need-a-digital-champion-to-score-ai-wins/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-you-need-a-digital-champion-to-score-ai-wins/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-649813346-e1663856782735.jpg?w=1200&strip=all"
+        width: 1200
+        height: 679
+        isCached: true
+  - title: "Augment’s personal AI assistant could help you keep track of a scattered digital life"
+    excerpt: "Ever totally forget the person, email or document you're supposed to talk about in the next call? Augment's personal AI assistant might help."
+    publishedDateTime: 2022-09-20T17:09:00Z
+    webUrl: "https://techcrunch.com/2022/09/20/augments-personalized-ai-assistant-could-help-you-keep-track-of-a-scattered-digital-life/"
+    ampWebUrl: "https://techcrunch.com/2022/09/20/augments-personalized-ai-assistant-could-help-you-keep-track-of-a-scattered-digital-life/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/20/augments-personalized-ai-assistant-could-help-you-keep-track-of-a-scattered-digital-life/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 80
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/09/augment-header.jpg?resize=1200,738"
+        width: 1200
+        height: 738
+        isCached: true
+  - title: "HOW ARTIFICIAL INTELLIGENCE BOOSTS THE DIGITAL MARKETING SPHERE"
+    excerpt: "This article try to portray artificial intelligence's influence in digital marketing sphere. Importance of AI and the need to adopt it discussed."
+    publishedDateTime: 2022-09-22T06:05:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/positive-opinions/how-artificial-intelligence-boosts-the-digital-marketing-sphere-45110/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 56
+    images:
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Artificial intelligence could be the key to detecting diabetes and cancer early"
+    excerpt: "It could forever change the world of medicine, and potentially save lives. Researchers at North Dakota State University are using artificial intelligence to detect things like diabetes and cancer much earlier."
+    publishedDateTime: 2022-09-22T04:23:00Z
+    webUrl: "https://www.inforum.com/newsmd/artificial-intelligence-could-be-the-key-to-detecting-diabetes-and-cancer-early"
+    type: article
+    provider:
+      name: inforum
+      domain: inforum.com
+    quality: 33
+    images:
+      - url: "https://cdn.forumcomm.com/dims4/default/76d4a73/2147483647/strip/true/crop/1280x622+0+38/resize/1440x700!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.amazonaws.com%2Fbrightspot%2F16%2F19%2F0555f84c48609ca442189d7710cb%2Fscience.Still001.png"
+        width: 1440
+        height: 700
+        isCached: true
+  - title: "Q&A: Delving into no-code AI and the future of data science"
+    excerpt: "No-code AI offers an AI-driven, machine learning-fuelled conversational interface for performing data analytics. Not needing to write code for queries coupled with an intuitive interface enables non-technical professionals to access data to explore,"
+    publishedDateTime: 2022-09-21T18:59:00Z
+    webUrl: "https://www.digitaljournal.com/business/qa-delving-into-no-code-ai-and-the-future-of-data-science/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 19
 
 secured: "vzTAjnXNit6/sq97RW6mjMXIhfmQkQvqbvqLREfiwA6CEAgArLiMx/REzBaE4Sd/w5nF4KdyTDJuF07PwotNFzvmSplwDXUobi7zrUbHjzLmKDxghBSQHNO/99GgZ6Pqc4RuTV56WY05Ezj9amucxvRgmXaaLkOZ+3y217rHZVkx9s3wQ6gMzoTF8EiHnpGXJhmpxb2jm4TenuKquJbJmGWA7YQ/MFAj+vWHn8YrrHl8bWVSRNKbCZWVmbzkQpnMTbbMIxbzcuzLxV5bD33x7ekOg5jMI4r3rN+/odkbQN3u5scLihqFqV+jh655EEt+idWK94zuHrTEuVf8RYKlrHHq+KVe445qc1qT0qhwaLNMKSaR74Fpe/+8hH7VZyteyZloh+kfM2C1Uxpi5lZ0J4kwhaN46Q5l2H0AKOLVWZlnmpxXQydvq3G3gfBOgnGXhMMZunaG/m3UoK4CpOhrVQLP5yMFZxL8rPQNX75kEdXjXg3d8l4XpPorLZuUfaP+f18nQwC94Kw3mT0bAIcjFA==;1cFUbUljF3Dsc1OB7GDG3Q=="
 ---

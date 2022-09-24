@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Can eyes on self-driving cars reduce accidents?"
+    excerpt: "Self-driving vehicles seem to be just around the corner. Whether they'll be delivering packages, plowing fields or busing kids to school, a lot of research is underway to turn a once futuristic ..."
+    publishedDateTime: 2022-09-22T16:14:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/09/220920100807.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
   - title: "Can Robotic Eyes on Self-Driving Cars Reduce Accidents?"
     excerpt: "Like a character from the Pixar movie Cars, a self-driving golf cart was fitted with two large, remote-controlled robotic eyes."
     publishedDateTime: 2022-09-22T14:29:00Z
@@ -33,6 +42,15 @@ related:
         width: 1156
         height: 650
         isCached: true
+  - title: "A new self-driving car developer is setting up shop in Tucson"
+    excerpt: "The company, backed by Japanese auto giant Toyota, previously tested self-driving cars in California but its state permit was revoked following a minor crash."
+    publishedDateTime: 2022-09-22T19:30:00Z
+    webUrl: "https://tucson.com/news/local/business/a-new-self-driving-car-developer-is-setting-up-shop-in-tucson/article_6e3c25fa-3a98-11ed-806e-f713fec8a6a3.html"
+    type: article
+    provider:
+      name: Arizona Daily Star
+      domain: tucson.com
+    quality: 4
   - title: "Robotic eyes on self-driving vehicles could reduce road accidents, says research"
     excerpt: "The major difference with self-driving vehicles is that drivers may become more of a passenger. They may not be giving full attention on the road. This makes it tough for pedestrians to ascertain if a vehicle has registered their presence,"
     publishedDateTime: 2022-09-20T12:25:00Z

@@ -29,8 +29,8 @@ related:
       domain: menafn.com
     quality: 50
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?579738"
-        width: 289
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?125665"
+        width: 374
         height: 250
         isCached: true
 

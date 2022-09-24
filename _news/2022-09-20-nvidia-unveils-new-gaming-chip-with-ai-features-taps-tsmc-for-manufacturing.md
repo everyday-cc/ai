@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-20T15:38:00Z
 originalUrl: "https://www.usnews.com/news/top-news/articles/2022-09-20/nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing"
 webUrl: "https://www.usnews.com/news/top-news/articles/2022-09-20/nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing"
 type: article
+quality: 61
+heat: -1
+published: false
 
 provider:
   name: U.S. News & World Report
@@ -19,6 +22,40 @@ topics:
   - AI Hardware
   - AI
 
-secured: "V8reFGoL7/S55H1jQWEV2qeplRA0LBMKOG12y+ZqIMVvo9emXXXlt3cO+m3zXtXqMSEoyYoFCla14CTyF/Jrg85KMy47Od49towtNqQJzdYCQB1kzsf9iaTtPkxXO/DaFX/TcOUQ/tTofslxm9HdWdWIeKIt7yjschCZ775i9RTQnLucgEH2/7KugQaDPu0JLDM1EdbFyCB1167zbA1Ec7X5TLIRGfXBcfxtBj98BVt8DBRRLnPl5tvbldbUn4L0LuaoffXYVNu5TfcGyfV6qNry9+ZxpdKJCAFGKUXDt/+5yobsFUdIugyDSAf99rUsiwL0ACzc9JKsHsP+N2u+zuR2PBMPpgmTgER0C5G19v4=;FNg7Vgjq/2UR3zKhJ5uvcA=="
+related:
+  - title: "Nvidia unveils new gaming chip with AI features, taps TSMC for manufacturing"
+    excerpt: "Sept 20 (Reuters) - Nvidia Corp (NVDA.O) on Tuesday announced new flagship chips for video gamers that use artificial intelligence (AI) to enhance graphics, saying it has tapped Taiwan ..."
+    publishedDateTime: 2022-09-20T21:51:00Z
+    webUrl: "https://www.reuters.com/technology/nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-manufacturing-2022-09-20/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 81
+    images:
+      - url: "https://www.reuters.com/resizer/awrttdfwt7GldMh9Fah3hKj1RdQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KUNQZVB3LZK2NKDRMPVVVLXKL4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "NVIDIA requests TSMC speed up AI GPU production to avoid China sanctions"
+    excerpt: "Company fears political decisions will end lucrative deals it has with Chinese clients. New export restrictions on AI chips could cost company $400 million in potential sales to China. If NVIDIA is"
+    publishedDateTime: 2022-09-20T07:27:00Z
+    webUrl: "https://www.guru3d.com/news-story/nvidia-requests-tsmc-speed-up-ai-gpu-production-to-avoid-china-sanctions.html"
+    type: article
+    provider:
+      name: Guru3D.com
+      domain: guru3d.com
+    quality: 33
+  - title: "Nvidia unveils next-gen RTX GPUs, AI workflows in the cloud"
+    excerpt: "New cloud services to support AI workflows and the launch of a new generation of GeForce RTX GPUs featured yesterday in Nvidia CEO Jensen Huang’s GTC keynote. “Computing is advancing at incredible speeds,"
+    publishedDateTime: 2022-09-22T09:48:00Z
+    webUrl: "https://it-online.co.za/2022/09/22/nvidia-unveils-next-gen-rtx-gpus-ai-workflows-in-the-cloud/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 21
+
+secured: "1mAGHFBTARTXLzB/f2W2nq705Wy+MeASa2m03sKgfCZQUM0nc7Zq1AuzGlRQ2VJqTHtzTwWpHf2AweNn3maj9P7+vGDEjM+RsB1jXIfIiyqlyznjhVd/vz7UvNxAZwocoFKUHK4C27FwdLCY8MVCZPVbaT1P68Yh/VIkIOieKtUnxlQ6oO7SsjrBmln9oWXrhBOHN93qW/xfN+WXFR0UXt3SgqORlsnfzSsEYkjyoaAooRcHSt4DXu8F00y4Z6cbyx7srg8OpjyUU2QQRP7fJyXs7x2Zv5tGHOmUBW0SbFPN7E2pslXMTC/loRUL5u48txtVND6vaTyMMUJefQg65oqvWhEazm2L9cthuuEhue0=;2W3E7QFLCZ3gfNetP3AmnQ=="
 ---
 

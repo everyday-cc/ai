@@ -33,19 +33,14 @@ related:
         height: 630
         isCached: true
   - title: "India’s Homegrown AI-Enabled Network Intelligence Startup Aprecomm Signs a Deal to Go Global"
-    excerpt: "Aprecomm AI-enabled products will be revolutionizing network delivery by network service providers including fiber networks, home WiFi and enterprise WiFi networks. Mr. Pramod Babu, CEO of Aprecomm, said, \"We are looking to rapidly increase our global ..."
-    publishedDateTime: 2022-09-22T01:15:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/india-s-homegrown-ai-enabled-network-intelligence-startup-aprecomm-signs-a-deal-to-go-global/article_fe5bd5e6-6e5c-55e1-ad01-eb1bd385e307.html"
+    excerpt: "Aprecomm, India’s leading network intelligence company, today announced its partnership with Singapore-based Technology Distribution Specialists (TDS) for distribution of its Network Intelligence technology."
+    publishedDateTime: 2022-09-22T01:02:00Z
+    webUrl: "https://www.eagletribune.com/region/india-s-homegrown-ai-enabled-network-intelligence-startup-aprecomm-signs-a-deal-to-go-global/article_c440fd00-aa15-55f2-9022-84d3908c75a4.html"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 26
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/4/79/47949cb3-af61-58c8-b5f2-61bfacd4ab19/632bb4a59fb3c.image.jpg?crop=1409%2C740%2C0%2C365&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 6
 
 secured: "b57D7CdCe/iMcC1vWrwrHCBHP/Ozi4WyW1EBBeEjc1RO0JK36AZhbUA5qBv2DWOXquS0OxH0xZt/pW2EQKmiGT4XAMCs3PaFhBdf0Bq5DhGYNzr67Py/INWpclyymMs4M7kWGYGCu9kqEFlxHSGIyHfvo1wTE2QLhgliVoal0xP8CrEZWr6DtZtEuZN7bhGwc+ar9djZW/IWefuiez4Iv3ywbIO4+f9GtK7VSV7DdxS979qbEDQg220YFpVPYsDPok/0KU1lVSwAo9GSVrOQEZl/jB8bydz0msqVTNbdu9dGXs+rSDGGB+XT3CoaAzcFgKPgUKt60lQW2QFaElbN84sAFBYnFTGEJfYUmpequHdlQVPBTK4FmcqituzSqWINCjJc5DUhuOrjOaxONYT1z0AuXgw50OPpha6aYv7wNIy5kvP7UPf0xcT1c1CxaMSS5AwkhgBGmF9wEKRKuuXsPJQA4PJIuBlnLPYiR5hK9LBd6ctW2DeHRI3I6nh15YQdZKuaXSFXP4bThWTyMaQzug==;tLKIPnQV2msySe50+1wKpA=="
 ---

@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Augment’s personal AI assistant could help you keep track of a scattered digital life"
-    excerpt: "Ever totally forget the person, email or document you're supposed to talk about in the next call? Augment's personal AI assistant might help."
-    publishedDateTime: 2022-09-20T17:09:00Z
-    webUrl: "https://techcrunch.com/2022/09/20/augments-personalized-ai-assistant-could-help-you-keep-track-of-a-scattered-digital-life/"
-    ampWebUrl: "https://techcrunch.com/2022/09/20/augments-personalized-ai-assistant-could-help-you-keep-track-of-a-scattered-digital-life/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/20/augments-personalized-ai-assistant-could-help-you-keep-track-of-a-scattered-digital-life/amp/"
+  - title: "Dementia diagnosis could be fast-tracked using artificial intelligence"
+    excerpt: "Dr Roman Bauer, senior author of the study from the University of Surrey, said: \"Our study shows that using artificial intelligence analysis of EEG data as a diagnostic tool to identify dementia could be life-changing for many people."
+    publishedDateTime: 2022-09-21T09:29:00Z
+    webUrl: "https://www.surrey.ac.uk/news/dementia-diagnosis-could-be-fast-tracked-using-artificial-intelligence"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 80
+      name: University of Surrey
+      domain: surrey.ac.uk
+    quality: 39
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/09/augment-header.jpg?resize=1200,738"
+      - url: "https://www.surrey.ac.uk/sites/default/files/styles/image_gallery/public/2022-09/GettyImages-1132352689.jpg?itok=slQvzZv_"
         width: 1200
-        height: 738
+        height: 675
         isCached: true
 
 secured: "aq0Yz8iUWbZGL6uF7S3O7cc3JafAxKL1ni0K0luEnBLHECw8wy63f3+7GLj+o6ETskIPrg/X951oAi8GGWyvP+B6xC8CdFCgwialMKwy1KN9jFI9UIKwNQ14L8zl+7LD4Pl+ceN9iz5hittQEB6nHp9+Hy6lpRTCRz1SEL0DAk+WzTzZ/NyfNwig34wd5L2uC3ONe090VBl4RYelSbhwOBBaXANbpAAk23GZzl49rP0MEkd5bbDFHrGtNDQJvb35emVFlrLrkaGuA6M/weZiJYXs/XfkuNt8iQ3iK2jh2FX9sfcCf1F84XfSWedCFtu5pIvPL9SHycYYlvWsqIDIHDrbg/7H9h9Z6B3zUtQb/0A=;k7JCMr/qDIu7G1UY8PuI0A=="

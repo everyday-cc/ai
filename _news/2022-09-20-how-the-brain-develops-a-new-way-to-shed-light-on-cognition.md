@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-09-brain-cognition.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-brain-cognition.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Medical Xpress
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "How the brain develops: A new way to shed light on cognition"
+    excerpt: "Researchers introduce a new neurocomputational model of the human brain that could bridge the gap in understanding AI and the biological mechanisms underlying mental disorders."
+    publishedDateTime: 2022-09-20T19:29:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/09/220920115627.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Neurocomputational model could shed light on the development of cognitive abilities"
     excerpt: "A new study introduces a new neurocomputational model of the human brain that could shed light on how the brain develops complex cognitive abilities and advance neural artificial intelligence research."
     publishedDateTime: 2022-09-21T02:21:00Z

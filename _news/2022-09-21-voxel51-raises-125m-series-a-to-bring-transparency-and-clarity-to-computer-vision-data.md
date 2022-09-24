@@ -5,7 +5,12 @@ excerpt: "The recent explosion of computer vision data—there are an estimated 
 publishedDateTime: 2022-09-21T16:09:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/09/n28951618/voxel51-raises-12-5m-series-a-to-bring-transparency-and-clarity-to-computer-vision-data"
 webUrl: "https://www.benzinga.com/pressreleases/22/09/n28951618/voxel51-raises-12-5m-series-a-to-bring-transparency-and-clarity-to-computer-vision-data"
+ampWebUrl: "https://www.benzinga.com/amp/content/28951618"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28951618"
 type: article
+quality: 45
+heat: -1
+published: false
 
 provider:
   name: Benzinga.com
@@ -15,6 +20,24 @@ topics:
   - Computer Vision
   - AI
 
-secured: "8uHRjtkjTFaJLFIu02nU3VQlnRx6aRnOj19FZ8U21UVaXYs1Mepm3CXF1qH7jSyN6APeVScD0C+IK19IoXO+bOdAF/Hvr7fPg4x2G5UsOfBpYjFxJB+Ac8FEVD+d3pE2eGUiA52hlNmsAPn/KMet0+C5eTmTb5+TAR2Zgv64p3uVb4WvecaefBiNTTWhfLFDdSqHBxqzVmSbNsilzaQoc1xwFV39tLalTtvT2CZvdtanPv6lgUqv1jrahZUji/hTBl3u/pyeE1tyBxpjb1yKpSvWltloZRfmGgWhU5h6ea3wbGylC5XMTj/EXfI63H5XsZ7XERQnZf2HBW43YH48YhPII7zwTtCglsya6NL39kk=;2FHhcu/qA7C14kdhgVX7hQ=="
+related:
+  - title: "Improving accuracy of computer vision models, Voxel51 raises $12.5M"
+    excerpt: "Computer vision startup, Voxel51, helping data scientists ensure the accuracy of datasets used for computer vision, raises $12.5M series A."
+    publishedDateTime: 2022-09-21T16:00:00Z
+    webUrl: "https://venturebeat.com/ai/improving-accuracy-of-computer-vision-models-voxel51-raises-12-5m/"
+    ampWebUrl: "https://venturebeat.com/ai/improving-accuracy-of-computer-vision-models-voxel51-raises-12-5m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/improving-accuracy-of-computer-vision-models-voxel51-raises-12-5m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2016/06/computer-vision-e1663772711547.jpg?w=1200&strip=all"
+        width: 1200
+        height: 801
+        isCached: true
+
+secured: "dUo4eJZnsQkgZuRGRPr+fZclzzjR25HQoYIzS4IJDpkICyZQkiQ1WYtfADNUE0GldeAjoR2WT9DbymcdJHZ9auTp2z0//Ocee4vXVpPyGeidfUwW50sgCCy6DXk0EKC/SQvk9AV9gs+hIo8EIpfc1dpDxkZY14FMvhJLZeO5ERgt3jQI/sn5lsO/smI/5t/RlOhA0RI6h7hTUPhQhs8Lid4A0gR6iJGkUyuxXAc0n6B8o/BMGYV3J/3exAzjsGzajJBWJnZNZ6i/rwuRW9hAhkRMKbhuCSXfAbPPUFSpjvQjc8AXPItWN2lZxpaBgD2Z3cjdw8RZlaTk1F7usSBuK/I9BHK+yvjLEJaUWDmuNtw=;SErpKszkPdspdIBbuz9Zbg=="
 ---
 

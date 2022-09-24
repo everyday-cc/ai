@@ -7,7 +7,7 @@ originalUrl: "https://www.manufacturing.net/automotive/news/22458255/can-robotic
 webUrl: "https://www.manufacturing.net/automotive/news/22458255/can-robotic-eyes-on-selfdriving-cars-reduce-accidents"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,15 @@ images:
 
 related:
   - title: "Can eyes on self-driving cars reduce accidents?"
+    excerpt: "Self-driving vehicles seem to be just around the corner. Whether they'll be delivering packages, plowing fields or busing kids to school, a lot of research is underway to turn a once futuristic ..."
+    publishedDateTime: 2022-09-22T16:14:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/09/220920100807.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
+  - title: "Can eyes on self-driving cars reduce accidents?"
     excerpt: "Robotic eyes on autonomous vehicles could improve pedestrian safety, according to a new study at the University of Tokyo. Participants played out scenarios in virtual reality (VR) and had to decide whether to cross a road in front of a moving vehicle or not."
     publishedDateTime: 2022-09-20T13:29:00Z
     webUrl: "https://techxplore.com/news/2022-09-eyes-self-driving-cars-accidents.html"
@@ -33,6 +42,15 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
+    quality: 4
+  - title: "A new self-driving car developer is setting up shop in Tucson"
+    excerpt: "The company, backed by Japanese auto giant Toyota, previously tested self-driving cars in California but its state permit was revoked following a minor crash."
+    publishedDateTime: 2022-09-22T19:30:00Z
+    webUrl: "https://tucson.com/news/local/business/a-new-self-driving-car-developer-is-setting-up-shop-in-tucson/article_6e3c25fa-3a98-11ed-806e-f713fec8a6a3.html"
+    type: article
+    provider:
+      name: Arizona Daily Star
+      domain: tucson.com
     quality: 4
   - title: "Robotic eyes on self-driving vehicles could reduce road accidents, says research"
     excerpt: "The major difference with self-driving vehicles is that drivers may become more of a passenger. They may not be giving full attention on the road. This makes it tough for pedestrians to ascertain if a vehicle has registered their presence,"
