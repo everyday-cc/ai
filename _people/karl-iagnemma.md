@@ -15,7 +15,7 @@ linkedin:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=3VyGrdwAAAAJ
-  citations: 18697
+  citations: 18715
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Karl_Iagnemma
