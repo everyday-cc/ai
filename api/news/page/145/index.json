@@ -2,6 +2,100 @@
   "page": 145,
   "value": [
     {
+      "path": "_news/2022-06-02-google-bans-deepfake-generating-ai-from-colab.md",
+      "title": "Google bans deepfake-generating AI from Colab",
+      "excerpt": "In a recent policy change, Google has banned deepfake-generating AI projects from Colab, its platform for hosting and running arbitrary Python code.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/01/2328459/",
+      "originalUrl": "https://techcrunch.com/2022/06/01/2328459/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1207206237.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/01/2328459/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/01/2328459/amp/",
+      "publishedDateTime": "2022-06-01T14:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-laredoan-leads-self-driving-car-racing-team.md",
+      "title": "Laredoan leads self-driving car racing team",
+      "excerpt": "When Cindy Heredia gets her MBA, she will have been part of a team which ran a car around a race track at 200 miles per hour with no one in it. Hopefully, at least. The 2013 graduate of AlexanderMIT-Pitt-RW autonomous racing team,",
+      "sourceUrl": null,
+      "webUrl": "https://www.lmtonline.com/sports/article/Laredoan-leads-self-driving-car-racing-team-17212271.php",
+      "originalUrl": "https://www.lmtonline.com/sports/article/Laredoan-leads-self-driving-car-racing-team-17212271.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/26/00/63/22547674/3/rawImage.jpg",
+          "width": 1536,
+          "height": 2048,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.lmtonline.com/sports/amp/Laredoan-leads-self-driving-car-racing-team-17212271.php",
+      "cdnAmpWebUrl": "https://www-lmtonline-com.cdn.ampproject.org/c/s/www.lmtonline.com/sports/amp/Laredoan-leads-self-driving-car-racing-team-17212271.php",
+      "publishedDateTime": "2022-06-01T14:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Laredo Morning Times",
+        "domain": "lmtonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-the-text-to-image-revolution-explained.md",
       "title": "The text-to-image revolution, explained",
       "excerpt": "Beginning in January 2021, advances in AI research have produced a plethora of deep-learning models capable of generating original images from simple text prompts, effectively extending the human ...",
@@ -1075,101 +1169,6 @@
         "AI",
         "Machine Learning",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-standigm-signs-mou-with-merck-korea-for-ai-drug-discovery-research.md",
-      "title": "Standigm Signs MOU with Merck Korea for AI drug Discovery Research",
-      "excerpt": "Merck's retrosynthesis AI software 'SYNTHIA™ retrosynthesis software' accelerates Standigm's synthesis capabilitySEOUL, South Korea, June 9,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/standigm-signs-mou-with-merck-korea-for-ai-drug-discovery-research-1031518190",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/standigm-signs-mou-with-merck-korea-for-ai-drug-discovery-research-1031518190",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1836296/Standigm_Merck_MOU.jpg",
-          "width": 400,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-inrule-technology-democratizes-machine-learning-by-enhancing-platform-with-automl-capabilities.md",
-      "title": "InRule Technology® Democratizes Machine Learning by Enhancing Platform with AutoML Capabilities",
-      "excerpt": "InRule Technology ®, an intelligence automation company providing integrated decisioning, explainable AI and digital process automation software to the enterprise, today announced the addition of AutoML within xAI Workbench,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-science-88732301aa0f482ba19422aa8a334ed2",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-science-88732301aa0f482ba19422aa8a334ed2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

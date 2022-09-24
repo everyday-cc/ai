@@ -2,6 +2,92 @@
   "page": 137,
   "value": [
     {
+      "path": "_news/2022-06-08-video-sleep-depression-age-can-predict-future-cognitive-impairment.md",
+      "title": "VIDEO: Sleep, depression, age can predict future cognitive impairment",
+      "excerpt": "Keil S, et al. Longitudinal sleep instability contributes to cognitive decline and Alzheimer’s pathology: findings from the Seattle Longitudinal Study.",
+      "sourceUrl": null,
+      "webUrl": "https://www.healio.com/news/neurology/20220607/video-sleep-depression-age-can-predict-future-cognitive-impairment",
+      "originalUrl": "https://www.healio.com/news/neurology/20220607/video-sleep-depression-age-can-predict-future-cognitive-impairment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T13:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healio",
+        "domain": "healio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-08-uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up.md",
+      "title": "Uber and Waymo fought in court over self-driving trucks. Now they're teaming up",
+      "excerpt": "Uber and Alphabet's Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/06/07/tech/uber-waymo-self-driving-deal/index.html",
+      "originalUrl": "https://www.cnn.com/2022/06/07/tech/uber-waymo-self-driving-deal/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220607121312-02-uber-waymo-self-driving-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/06/07/tech/uber-waymo-self-driving-deal/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/07/tech/uber-waymo-self-driving-deal/index.html",
+      "publishedDateTime": "2022-06-07T13:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-08-theres-still-time-to-join-leading-ai-and-data-thought-leaders-on-stage-at-transform-2022.md",
       "title": "There’s still time to join leading AI and data thought leaders on stage at Transform 2022",
       "excerpt": "Does your org have an AI and data solution case study to share? There's still time for sponsors to apply to get on stage at Transform 2022.",
@@ -1038,93 +1124,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience.md",
-      "title": "Bengaluru Airport Introduces AI Robots For Enhanced Passenger Experience",
-      "excerpt": "Currently at the trial stage, these 10 robots have been deployed at the airport to help guide passengers and answer basic queries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/",
-      "originalUrl": "https://www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.india.com/wp-content/uploads/2022/05/bengaluru-airport.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/amp/",
-      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/amp/",
-      "publishedDateTime": "2022-06-07T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India.com",
-        "domain": "india.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-miso-robotics-announces-collaboration-with-aws-to-test-robots-at-scale.md",
-      "title": "Miso Robotics Announces Collaboration with AWS to Test Robots at Scale",
-      "excerpt": "AWS RoboMaker Enables Miso to Run Hundreds of Simulations to Ensure Software StabilityPASADENA, Calif., June 7, 2022 /PRNewswire/ -- Today, Miso",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-collaboration-with-aws-to-test-robots-at-scale-1031513110",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-collaboration-with-aws-to-test-robots-at-scale-1031513110",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

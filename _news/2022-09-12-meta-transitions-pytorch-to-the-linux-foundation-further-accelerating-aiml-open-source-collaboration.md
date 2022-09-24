@@ -2,14 +2,14 @@
 category: news
 title: "Meta Transitions PyTorch to the Linux Foundation, Further Accelerating AI/ML Open Source Collaboration"
 excerpt: "The Linux Foundation, a global nonprofit organization enabling innovation through open source, today announced PyTorch is moving to the Linux Foundation from Meta where it will live under the newly-formed PyTorch Foundation."
-publishedDateTime: 2022-09-12T14:15:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-philanthropy-bfe43353bdc4e67ca0619d66400a2691"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-philanthropy-bfe43353bdc4e67ca0619d66400a2691"
+publishedDateTime: 2022-09-12T15:30:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/09/12/9671322.htm"
+webUrl: "https://it.tmcnet.com/news/2022/09/12/9671322.htm"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -17,12 +17,6 @@ topics:
   - Machine Learning
   - Facebook AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "eki9YaEc/pSrNj3tN/oqb8qtp5ii/Z+SgQPeCzKZ0OHz5ktrERW0W9nkYZsHiVvY3EouZ+k/B5BtNjtcOkGdjIsMYgbNmFsjyxALLeimR5M9rmbxeAhy6SJyN29yGDxvG0Z+J7FcyOivs+OoqLCWUd9L3Y31nsIHoMPvh8fuNGO1eaVWIkjWRQY2dhyCdpe8uU96c15+V7Ywl6PYscILentm72yzAVK/zDkKP6+kT0LyRNSy5i3LNbvTW8S1P5zy5h0PYi+1KajLcmb1cD1Sdhg1OE7WD5/NQ/Q6atbLExL9fkhSh6pNBsbpNFInEUVwjLzdD1pM5/UDMPuVU6p3HtvOUTnH1Px4GnWNTV1tVpA=;BlzyTs1lofXy+YjiS6gh/w=="
+secured: "nYt1L8DsohCO+jAC4LYw79N3KNJvXWn8rbKnc9/8aMhvZ1CEh/kPNLOjdaeSHIh4fM6lB7xAmJbEMPM6jDx3IcUzwi6dTFlZvilMNn6jYnx1A8V+pzhIS/LMMcsw0FX7pVEA2YdUtAGOJXK3SwrDlul5ytrowXq/ZAEu/4YVeF3iM4yVObRnhS3wkTo34Q1cCOVRTHmF9S8oS8jvMKv50Rrz73bRZQ4kLBe2+nwTZiTS6fudJ5G9PENbtsIktmz5UP89/EpPKSsh62JdyxQExXFRmvfFE8mYL2WTZVVC3TpTh4bQjgZfo85b9plnysn6ZdzF/XpK3gCdCDVKIiLrz2IOZVzrS9OWXu7AgXdYhj2EdTMdZMmBI9umewO3HsNOvxn/tHrBDOfJ0FfvNDjx5YL6eQmgmNNueiHWO2jLirPdAsfFkUg00mqBgHWDEl52wW34fUupZbuZJnBE3fhvB/64eCxOWAv/9kUispYtD43+/cHOutbobz+9gP9awDd3rlN0Zwm55BNfuIOUjawUOA==;M+i5FFsUSmy6sm6C6+mpNg=="
 ---
 

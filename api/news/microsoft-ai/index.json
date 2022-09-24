@@ -430,6 +430,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-20-cognitive-impairment-in-hispanic-adults-linked-to-discrimination-experiences.md",
+      "title": "Cognitive Impairment in Hispanic Adults Linked to Discrimination Experiences",
+      "excerpt": "Now a new study shows that experiences with discrimination may be playing a role in disproportionate experiences of cognitive decline. In a first-of-its-kind study, published recently in the journal Social Science & Medicine, researchers from The ...",
+      "sourceUrl": null,
+      "webUrl": "https://cns.utexas.edu/news/cognitive-impairment-in-hispanic-adults-linked-to-discrimination-experiences",
+      "originalUrl": "https://cns.utexas.edu/news/cognitive-impairment-in-hispanic-adults-linked-to-discrimination-experiences",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cns.utexas.edu/images/easyblog_articles/5822/b2ap3_large_Discrimination-HHM.jpg",
+          "width": 1280,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Journalism in the Americas",
+        "domain": "utexas.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-19-user-clip-chinese-cognitive-warfare.md",
       "title": "User Clip: Chinese “Cognitive” Warfare",
       "excerpt": "User-Created Clip by bigxav September 19, 2022 2022-09-19T13:10:32-04:00https://images.c-span.org/Files/61c/002/1663607466_002.jpgHow our adversaries are brainwashing ...",
@@ -561,24 +604,33 @@
     {
       "path": "_news/2022-09-16-diet-could-play-a-role-in-cognitive-function-across-diverse-races-and-ethnicities.md",
       "title": "Diet could play a role in cognitive function across diverse races and ethnicities",
-      "excerpt": "Dietary choices and their consequences may certainly influence cognitive function ... Metabolon offers biochemical profiling services and is developing molecular diagnostic assays detecting ...",
+      "excerpt": "Dietary choices and their consequences may certainly influence cognitive function. A new study led by investigators at Brigham and Women's Hospital, a founding member of the Mass General Brigham ...",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/964717",
-      "originalUrl": "https://www.eurekalert.org/news-releases/964717",
+      "webUrl": "https://medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/diet-could-play-a-role.jpg",
+          "width": 1280,
+          "height": 703,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T04:10:00-07:00",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.amp",
+      "publishedDateTime": "2022-09-16T09:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1029,8 +1081,8 @@
       "title": "Study indicates a daily multivitamin slows cognitive decline",
       "excerpt": "Findings recently published in the Alzheimer’s & Dementia: The Journal of the Alzheimer’s Association found that a daily multivitamin could improve cognitive function and physical health for ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wtkr.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline",
-      "originalUrl": "https://www.wtkr.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline",
+      "webUrl": "https://www.wcpo.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline",
+      "originalUrl": "https://www.wcpo.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1047,13 +1099,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wtkr.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline?_amp=true",
-      "cdnAmpWebUrl": "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline?_amp=true",
-      "publishedDateTime": "2022-09-14T12:07:00-07:00",
+      "ampWebUrl": "https://www.wcpo.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline?_amp=true",
+      "cdnAmpWebUrl": "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline?_amp=true",
+      "publishedDateTime": "2022-09-14T12:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WTKR",
-        "domain": "wtkr.com",
+        "name": "WCPO Cincinnati",
+        "domain": "wcpo.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1271,40 +1323,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-taking-multivitamins-may-protect-against-cognitive-decline-in-over-65s-study.md",
-      "title": "Taking multivitamins may protect against cognitive decline in over-65s – study",
-      "excerpt": "aking multivitamin supplements on a daily basis may help protect against cognitive decline in older adults, early research suggests. Scientists in the US found that consuming these vitamins for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.standard.co.uk/tech/science/scientists-north-carolina-b1025582.html",
-      "originalUrl": "https://www.standard.co.uk/tech/science/scientists-north-carolina-b1025582.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "London Evening Standard",
-        "domain": "standard.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },

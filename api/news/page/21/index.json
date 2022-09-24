@@ -2,6 +2,101 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2022-09-04-researchers-develop-computer-chip-to-carry-out-variety-of-artificial-intelligence-functions.md",
+      "title": "Researchers Develop Computer Chip to Carry Out Variety of Artificial Intelligence Functions",
+      "excerpt": "In a recent study published in Nature, an international research team have created a computer chip, called the NeuRRAM neuromorphic chip, that performs com | Technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.labroots.com/trending/technology/23475/researchers-develop-computer-chip-carry-variety-artificial-intelligence-functions-2",
+      "originalUrl": "https://www.labroots.com/trending/technology/23475/researchers-develop-computer-chip-carry-variety-artificial-intelligence-functions-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.labroots.com/_public/_files/system/ck/trending/artificial-intelligence-gd8c21572c_1280_a8f5b10e23fba74f635210edb7370eb2.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.labroots.com/trending/technology/23475/researchers-develop-computer-chip-carry-variety-artificial-intelligence-functions-2/amp",
+      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/23475/researchers-develop-computer-chip-carry-variety-artificial-intelligence-functions-2/amp",
+      "publishedDateTime": "2022-09-03T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Labroots",
+        "domain": "labroots.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-03-ai-powered-personalization-the-key-to-unlocking-ecommerce-growth.md",
+      "title": "AI-powered personalization: The key to unlocking ecommerce growth",
+      "excerpt": "AI-powered personalization allows businesses to predict their customers’ requirements and be proactive with solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-powered-personalization-the-key-to-unlocking-ecommerce-growth/",
+      "originalUrl": "https://venturebeat.com/ai/ai-powered-personalization-the-key-to-unlocking-ecommerce-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1337253139-Dilok-Klaisataporn.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 618,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-powered-personalization-the-key-to-unlocking-ecommerce-growth/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-powered-personalization-the-key-to-unlocking-ecommerce-growth/amp/",
+      "publishedDateTime": "2022-09-03T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-09-03-colorado-state-fair-competition-names-an-unlikely-winner-ai-made-artwork.md",
       "title": "Colorado State Fair Competition Names An Unlikely Winner: AI-Made Artwork",
       "excerpt": "The piece saw a storm of criticism this week as onlookers debated the use of artificial intelligence in the arts.",
@@ -1084,102 +1179,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-how-artificial-intelligence-can-explain-its-decisions.md",
-      "title": "How artificial intelligence can explain its decisions",
-      "excerpt": "Today, when an algorithm identifies a tumour in a tissue sample, it doesn’t reveal how it arrived at this result. And that’s not very trustworthy. Researchers in Bochum are therefore pursuing a new approach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/963644",
-      "originalUrl": "https://www.eurekalert.org/news-releases/963644",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/bc5e8a87-496d-4021-8859-1d7a822ea861/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-four-ways-voice-recognition-will-improve-healthcare.md",
-      "title": "Four Ways Voice Recognition Will Improve Healthcare",
-      "excerpt": "The severe stress our health system endured restricted its capacity to respond as fully and quickly as it may have in the pre-pandemic era. Thus, consumers often looked elsewhere to find answers to their pressing questions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6310bd9b5bc94a00b06398ad/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/amp/",
-      "publishedDateTime": "2022-09-02T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

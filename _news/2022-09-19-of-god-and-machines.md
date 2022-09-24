@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.theatlantic.com/thumbor/_FgxEbUFPvcbxhEJ27QSVLQbfjo=/0x72:1900x1062/1200x625/media/img/mt/2022/08/ai_lead/original.jpg"

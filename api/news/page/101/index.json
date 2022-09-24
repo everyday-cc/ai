@@ -2,6 +2,91 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2022-07-01-are-chatbots-conscious-entities-the-ai-sentience-conundrum.md",
+      "title": "Are chatbots conscious entities? The AI sentience conundrum",
+      "excerpt": "AI chatbot company Replika, which offers customers bespoke avatars that talk and listen to them, says it receives a handful of messages almost every day from users who believe the",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/magazines/panache/are-chatbots-conscious-entities-the-ai-sentience-conundrum/articleshow/92603047.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/are-chatbots-conscious-entities-the-ai-sentience-conundrum/articleshow/92603047.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-58036,msid-92603089/chatbot.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/magazines/panache/are-chatbots-conscious-entities-the-ai-sentience-conundrum/amp_articleshow/92603047.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/are-chatbots-conscious-entities-the-ai-sentience-conundrum/amp_articleshow/92603047.cms",
+      "publishedDateTime": "2022-07-01T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-vladimir-suvorov-artificial-intelligence-will-have-its-place-in-art.md",
+      "title": "Vladimir Suvorov: ‘Artificial Intelligence Will Have its Place in Art.’",
+      "excerpt": "I met Vladimir Suvorov, the founder of Van Der Bot, at the Armenia Art Fair of Contemporary Art, held in the end of May. What he presented was beyond imagination — a contemporary robot artist named Van Der Bot,",
+      "sourceUrl": null,
+      "webUrl": "https://mirrorspectator.com/2022/07/01/vladimir-suvorov-artificial-intelligence-will-have-its-place-in-art/",
+      "originalUrl": "https://mirrorspectator.com/2022/07/01/vladimir-suvorov-artificial-intelligence-will-have-its-place-in-art/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mirrorspectator.com/wp-content/uploads/2022/07/Artsvi-e1656685306566.jpeg",
+          "width": 300,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-01T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Armenian Mirror-Spectator",
+        "domain": "mirrorspectator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-01-applying-infosecurity-principles-and-practices-to-cognitive-security.md",
       "title": "Applying Infosecurity Principles and Practices to Cognitive Security",
       "excerpt": "Information security has the following three layers: cybersecurity, physical security and cognitive security. Cybersecurity, broadly speaking, involves machines and the networks between them. Physical security consists in protecting physical access to ...",
@@ -989,101 +1074,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-nvidia-loses-the-ai-performance-crown-at-least-for-now.md",
-      "title": "NVIDIA Loses The AI Performance Crown, At Least For Now",
-      "excerpt": "However the AI accelerator race has been a one-company story since the beginning, with NVIDIA far in front of a small pack of earnest wannabe’s. With MLPerf 2.0, that has all changed. In a game of leapfrog,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62bc4293662c07e1dbd547b5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/amp/",
-      "publishedDateTime": "2022-06-30T16:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-neural-effects-of-covid-19-on-depressive-symptoms.md",
-      "title": "Neural effects of COVID-19 on depressive symptoms",
-      "excerpt": "Researchers have hypothesized that the cognitive and psychiatric symptoms associated with COVID-19 may be due to the neural effects of this infection or its treatments. However, these symptoms may ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220628/Neural-effects-of-COVID-19-on-depressive-symptoms.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220628/Neural-effects-of-COVID-19-on-depressive-symptoms.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_718037_16564736283426822.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220628/Neural-effects-of-COVID-19-on-depressive-symptoms.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220628/Neural-effects-of-COVID-19-on-depressive-symptoms.aspx",
-      "publishedDateTime": "2022-06-30T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

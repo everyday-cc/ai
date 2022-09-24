@@ -2,6 +2,101 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2022-08-30-artificial-intelligence-based-algorithm-to-be-used-for-reporting-of-lymph-node-status-in-colon-cancer.md",
+      "title": "Artificial intelligence-based algorithm to be used for reporting of lymph node status in colon cancer",
+      "excerpt": "A collaboration between Indica Labs and iCAIRD is looking at the development of an AI-based digital tool to detect cancer within lymph nodes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.labiotech.eu/trends-news/indica-labs-partners-with-icaird-on-ai-based-digital-pathology-solution/",
+      "originalUrl": "https://www.labiotech.eu/trends-news/indica-labs-partners-with-icaird-on-ai-based-digital-pathology-solution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.labiotech.eu/wp-content/uploads/2022/06/shutterstock-artificial-intelligence-.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "the Top 10",
+        "domain": "labiotech.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-industrys-first-autonomous-spreader-debutsat-farm-progress-show.md",
+      "title": "Industry’s first autonomous spreader debutsat Farm Progress Show",
+      "excerpt": "Case IH and Raven Industries introduce the agriculture industry’s first autonomous spreader: the Case IH Trident™",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/industrys-first-autonomous-spreader-debutsat-farm-progress-show-2022-08-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/industrys-first-autonomous-spreader-debutsat-farm-progress-show-2022-08-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-i-have-face-blindness.md",
       "title": "I Have Face Blindness.",
       "excerpt": "I Have Face Blindness. This Is How I Recognize You. When you can’t rely on facial recognition, you look beyond the obvious. When you can’t rely on facial recognition, you look beyond the obvious.",
@@ -1067,84 +1162,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-nec-recognised-as-one-of-the-top-10-champions-in-ai-ethics-governance-certification.md",
-      "title": "NEC recognised as one of the Top 10 Champions in AI Ethics & Governance Certification",
-      "excerpt": "The SCS is a leading tech society for industry professionals in Singapore, and in 2020, received support from IMDA to develop the world's first AI Ethics Body of Knowledge in anticipation of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/nec-recognised-one-top-10-champions-ai-ethics-governance-certification",
-      "originalUrl": "https://www.asiaone.com/business/nec-recognised-one-top-10-champions-ai-ethics-governance-certification",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T23:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-making-machine-learning-available-to-everyone-story-of-bigml.md",
-      "title": "Making Machine Learning Available to Everyone: Story of BigML",
-      "excerpt": "BigML allows you to build machine learning and deep learning models without the need for any coding. In an exclusive conversation with Analytics India Magazine, Atakan Cetinsoy, vice president, Predictive Applications at BigML, explained, “Our mission ...",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/making-machine-learning-available-to-everyone-story-of-bigml/",
-      "originalUrl": "https://analyticsindiamag.com/making-machine-learning-available-to-everyone-story-of-bigml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/export-BIGML_USERNAMEmy_name-export-BIGML_API_KEY123456789-export-BIGML_AUTHusernameBIGML_USERNAMEapi_keyBIGML_API_KEY.jpg",
-          "width": 2240,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T21:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

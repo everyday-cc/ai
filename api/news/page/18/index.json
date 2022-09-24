@@ -2,6 +2,92 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-09-07-mcdonalds-breakfasts-driverless-buses-among-innovations-launched-in-newcastle.md",
+      "title": "McDonald's breakfasts, driverless buses among innovations launched in Newcastle",
+      "excerpt": "The polymer bank note? Newcastle tested and passed. The driverless bus? Trialled in Newy. Sydney's infamous lockout laws? Taken up after a \"successful\" installation in Newcastle. The Hunter has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.abc.net.au/news/2022-09-07/mcdonalds-breakfasts-driverless-buses-newcastle-innovations/101399644",
+      "originalUrl": "https://www.abc.net.au/news/2022-09-07/mcdonalds-breakfasts-driverless-buses-newcastle-innovations/101399644",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://live-production.wcms.abc-cdn.net.au/ed3cda7a3cd6263f40028637d2c3cb93?impolicy=wcms_crop_resize&cropH=467&cropW=700&xPos=0&yPos=230&width=862&height=575",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.abc.net.au/article/101399644",
+      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101399644",
+      "publishedDateTime": "2022-09-06T16:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Australian Broadcasting Corporation",
+        "domain": "abc.net.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-video-content-management-system-market-analysis-size-share-facts-and-figures-services-and-forecast-2026.md",
+      "title": "Video Content Management System Market Analysis, Size, Share, Facts and Figures, Services and Forecast 2026",
+      "excerpt": "The global Video Content Management System Market size expected to grow at a Compound Annual Growth Rate (CAGR) of 14.0% during the forecast period, to reach USD 6.8 billion by 2026 from USD 3.5 billion in 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/video-content-management-system-market-analysis-size-share-facts-and-figures-services-and-forecast-2026-2022-09-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/video-content-management-system-market-analysis-size-share-facts-and-figures-services-and-forecast-2026-2022-09-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T15:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-07-computer-vision-and-image-processing-specialization.md",
       "title": "Computer Vision and Image Processing Specialization",
       "excerpt": "Computer vision (CV) and image processing are two closely related fields that utilize techniques from artificial intelligence (AI) and pattern recognition to derive meaningful information from images, videos, and other visual inputs. Image processing is at ...",
@@ -997,92 +1083,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-symphonyai-industrial-launches-batch-360-and-vision-360-for-high-quality-manufacturing-production.md",
-      "title": "SymphonyAI Industrial Launches Batch 360™ and Vision 360™ for high-quality manufacturing production",
-      "excerpt": "SymphonyAI Industrial announced today the launch of two new AI-based processes and performance software solutions to improve manufacturing output and quality. Batch 360, a process performance and optimization solution,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-39e28ba3c88d87f2d54617868d703867",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-39e28ba3c88d87f2d54617868d703867",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T03:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-blume-backed-fintech-platform-ippopay-acquires-tutelar.md",
-      "title": "Blume-backed fintech platform IppoPay acquires Tutelar",
-      "excerpt": "Tutelar enables AI-based risk-free onboarding, dispute resolutions, KYC fraud detection, transaction fraud detection, mis-selling prevention etc, benefiting not only the principals such as merchants and banks but also the intermediaries such as PAPGs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vccircle.com/blumebacked-fintech-platform-ippopay-acquires-tutelar",
-      "originalUrl": "https://www.vccircle.com/blumebacked-fintech-platform-ippopay-acquires-tutelar",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.vccircle.com/uploads/2022/09/fintechrfxl.jpg",
-          "width": 716,
-          "height": 402,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VCCircle",
-        "domain": "vccircle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

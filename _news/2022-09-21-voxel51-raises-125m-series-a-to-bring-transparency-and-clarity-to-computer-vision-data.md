@@ -1,20 +1,22 @@
 ---
 category: news
 title: "Voxel51 Raises $12.5M Series A to Bring Transparency and Clarity to Computer Vision Data"
-excerpt: "The recent explosion of computer vision data—there are an estimated 45 billion cameras in the world today—creates a tremendous opportunity for machine learning products, but only if it can be ..."
-publishedDateTime: 2022-09-21T16:09:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/n28951618/voxel51-raises-12-5m-series-a-to-bring-transparency-and-clarity-to-computer-vision-data"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/n28951618/voxel51-raises-12-5m-series-a-to-bring-transparency-and-clarity-to-computer-vision-data"
-ampWebUrl: "https://www.benzinga.com/amp/content/28951618"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28951618"
+excerpt: "Funding round will be used to accelerate R&D for data-centric machine learning solutionsANN ARBOR, Mich., Sept. 21, 2022 /PRNewswire/ -- Voxel51,"
+publishedDateTime: 2022-09-21T16:14:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/voxel51-raises-12-5m-series-a-to-bring-transparency-and-clarity-to-computer-vision-data-1031757242"
+webUrl: "https://markets.businessinsider.com/news/stocks/voxel51-raises-12-5m-series-a-to-bring-transparency-and-clarity-to-computer-vision-data-1031757242"
 type: article
-quality: 45
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -38,6 +40,6 @@ related:
         height: 801
         isCached: true
 
-secured: "5IshO8P2ych6HPZGpLUHkc4NbRo1LpnveK4i8q7JNQ0n5OgninSGk5ur5Oo+Zi5IXl/dLMkSOPBbc/IYwTd76aWPgQU9T3zQ5eQOXbOxqaF7v1pAVWer35ZxcDoIcK2Z1fxozh5/joPco0gmxVLCGaSRkmiU7rwMH1CvFjt3I0q6ASWGJN8odSX3uutNOYegR4c2ApX8CwWu3mZDDMh3+5DETVfgIJAWse1q6TO4LFqQ/Ob8TuxaL44C+xK1OzWX16vXB94CYWIzCbfdopAY6IMxMXsaOqu0x3ylPMTIBmL71+ugqNRhBrLBOTExVX9dbRd8SqNSkZYEz9NxvDUZ9rBCI6LZBplfP/kdKreKZCk=;DyZDGG5bxQmqa4tpGZwHAA=="
+secured: "Yo5jDjZ78eizyFOgZ9sPRqK+TtK96AdgiCWC2Dwzz23JmsxahXrfknHvLMJaxkbQtqLf94silonFmy9YBDNdJKFHkSsVRD1+cloDzXwekmNwW7LHq8Q3kwqXzfOI+HlyCDQsynIMaTueGQDHTi3LXmGJHOgLopRssVeqVQAYtL8kaWOyyO+0MrV0JEq0iMiRJ8NpxfTzLpMOhqr/6th0Ug+an91ovo610nBp0CuYMS4ZA4mt/FM6i1Rzg93rWw3DME9Z3cJWwYsOx/D6teveGay9PRyZ1QU0n+A+d3EnOC1bi0jbi3Xq3lkB2wm7XSl1t/ghwrPEAYbvESpy6iffCOtJTZbhFRrIryG0q400uKQ=;4x51XUgLWrGcjqH3EstmAQ=="
 ---
 

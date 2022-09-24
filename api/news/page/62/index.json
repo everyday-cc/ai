@@ -2,6 +2,102 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2022-08-03-remote-surgical-robot-could-join-astronauts-on-future-mars-missions.md",
+      "title": "Remote Surgical Robot Could Join Astronauts on Future Mars Missions",
+      "excerpt": "No matter how mentally and physically prepared they are, future astronauts bound for deep space can't escape their mortal restrictions. At some point during their long and isolated journeys, these pioneers might need medical care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/science/space/remote-surgical-robot-could-join-astronauts-on-future-mars-missions/",
+      "originalUrl": "https://www.cnet.com/science/space/remote-surgical-robot-could-join-astronauts-on-future-mars-missions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/911220a96b805e2ac7b05240e8a22ec27f064c4b/2022/08/02/023fcd76-f93b-4116-8f7c-00d46a29a584/mira.jpg?auto=webp",
+          "width": 4240,
+          "height": 2832,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/remote-surgical-robot-could-join-astronauts-on-future-mars-missions/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/remote-surgical-robot-could-join-astronauts-on-future-mars-missions/",
+      "publishedDateTime": "2022-08-03T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-spb-2022-q2-artificial-intelligence-biometric-privacy-quarterly-review-newsletter.md",
+      "title": "SPB 2022 Q2 Artificial Intelligence & Biometric Privacy Quarterly Review Newsletter",
+      "excerpt": "Q2 did not disappoint in the AI and biometric privacy space, with a number of noteworthy litigation, legislative, and regulatory developments having taken place in these two rapidly developing areas o",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/spb-2022-q2-artificial-intelligence-biometric-privacy-quarterly-review-newsletter",
+      "originalUrl": "https://www.natlawreview.com/article/spb-2022-q2-artificial-intelligence-biometric-privacy-quarterly-review-newsletter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/spb-2022-q2-artificial-intelligence-biometric-privacy-quarterly-review-newsletter?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/spb-2022-q2-artificial-intelligence-biometric-privacy-quarterly-review-newsletter?amp",
+      "publishedDateTime": "2022-08-03T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-08-03-artificial-intelligence-in-drug-discovery-market-intelligence-report-global-forecast-to-2027-researchandmarketscom.md",
       "title": "Artificial Intelligence in Drug Discovery Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com",
       "excerpt": "The Global Artificial Intelligence in Drug Discovery Market is projected to reach USD 2,760.77 million by 2027 from USD 701.05 million in 2021, at a CAGR 25.66% during the forecast period. In this report,",
@@ -1092,92 +1188,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-neural-networks-and-ghost-electrons-accurately-reconstruct-behavior-of-quantum-systems.md",
-      "title": "Neural networks and ‘ghost’ electrons accurately reconstruct behavior of quantum systems",
-      "excerpt": "In the new approach, the behavior of the added electrons is controlled by an artificial intelligence technique called a neural network. The network makes tweaks until it finds an accurate solution ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/960814",
-      "originalUrl": "https://www.eurekalert.org/news-releases/960814",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/432c7da3-5b39-47a8-84ff-9801ec2fd018/Rendition/thumbnail/Content/Public",
-          "width": 300,
-          "height": 232,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-neural-networks-youve-got-it-so-easy.md",
-      "title": "Neural Networks: You’ve Got It So Easy",
-      "excerpt": "And so it was Scientific American magazine’s September 1992 special issue on Mind and Brain that introduced me to neural networks, both the biological and artificial kinds. Back then you had the ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2017/04/24/neural-networks-youve-got-it-so-easy/",
-      "originalUrl": "https://hackaday.com/2017/04/24/neural-networks-youve-got-it-so-easy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2017/04/neural_network_books-featured.jpg",
-          "width": 1110,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

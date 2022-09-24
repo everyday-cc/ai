@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2022/09/24/optimus-is-comin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2022/09/24/optimus-is-coming-are-you-ready-for-teslas-robot-humanoid-invasion/amp/"
 type: article
 quality: 106
-heat: 206
+heat: 207
 published: true
 
 provider:

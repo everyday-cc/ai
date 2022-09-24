@@ -2,6 +2,93 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2022-09-01-bill-targeting-teslas-self-driving-claims-passes-california-legislature.md",
+      "title": "Bill targeting Tesla’s ‘self-driving’ claims passes California Legislature",
+      "excerpt": "Since 2016, Tesla has been marketing an expensive option called Full Self-Driving. A reasonable person might infer from the name that the software package enables a car to drive itself ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/business/story/2022-08-31/newly-passed-bill-could-force-tesla-to-scrap-the-name-full-self-driving-in-california",
+      "originalUrl": "https://www.latimes.com/business/story/2022-08-31/newly-passed-bill-could-force-tesla-to-scrap-the-name-full-self-driving-in-california",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/b698c82/2147483647/strip/true/crop/3200x2140+0+26/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fba%2Fcc%2F02d0ba704662ba87ce415205da81%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1233948446",
+          "width": 320,
+          "height": 214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/business/story/2022-08-31/newly-passed-bill-could-force-tesla-to-scrap-the-name-full-self-driving-in-california?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2022-08-31/newly-passed-bill-could-force-tesla-to-scrap-the-name-full-self-driving-in-california?_amp=true",
+      "publishedDateTime": "2022-08-31T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-artificial-intelligence-in-diagnosing-pediatric-ear-infections.md",
+      "title": "Artificial Intelligence in Diagnosing Pediatric Ear Infections",
+      "excerpt": "An artificial-intelligence (AI) model developed was significantly more accurate than doctors at diagnosing pediatric ear infections.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-in-diagnosing-pediatric-ear-infections-208463-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-in-diagnosing-pediatric-ear-infections-208463-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/hear-aid-baby1.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-in-diagnosing-pediatric-ear-infections-208463-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-in-diagnosing-pediatric-ear-infections-208463-1.htm",
+      "publishedDateTime": "2022-08-31T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-08-31-ndsu-faculty-develops-artificial-intelligence-technology-to-predict-onset-of-diabetes.md",
       "title": "NDSU faculty develops artificial intelligence technology to predict onset of diabetes",
       "excerpt": "Students and faculty work on a breath test to detect blood sugar levels for diabetics at North Dakota State University. We are part of The Trust Project. FARGO, N.D. • Danling Wang, assistant ...",
@@ -999,84 +1086,6 @@
         "Google AI",
         "Facebook AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-artificial-intelligence-and-healthcare-the-business-the-law-and-the-ethics.md",
-      "title": "Artificial Intelligence and Healthcare – The Business, The Law and The Ethics",
-      "excerpt": "This is an in-person and online for this program that will explore data justice and cybersecurity in health care. Join us at the Chase Park Plaza for this one-day insightful conference regarding the ways personal data, artificial intelligence, justice and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slu.edu/medicine/bander-center/ai-conference.php",
-      "originalUrl": "https://www.slu.edu/medicine/bander-center/ai-conference.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Saint Louis University",
-        "domain": "slu.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-artificial-intelligence-model-outperforms-clinicians-in-diagnosing-pediatric-ear-infections.md",
-      "title": "Artificial intelligence model outperforms clinicians in diagnosing pediatric ear infections",
-      "excerpt": "An artificial-intelligence model was shown to be significantly more accurate than doctors at diagnosing pediatric ear infections in the first head-to-head evaluation of its kind. The tool ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/08/220831095009.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/08/220831095009.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

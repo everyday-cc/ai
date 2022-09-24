@@ -2,6 +2,92 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2022-08-10-the-worldwide-artificial-intelligence-ai-in-drug-discovery-industry-is-expected-to-reach-23-billion-by-2027-researchandmarketscom.md",
+      "title": "The Worldwide Artificial Intelligence (AI) in Drug Discovery Industry is Expected to Reach $2.3 Billion by 2027 - ResearchAndMarkets.com",
+      "excerpt": "The Global Artificial Intelligence (AI) in Drug Discovery Market is estimated to be USD 792.45 Mn in 2022 and is expected to reach USD 2337.25 Mn by 2027, growing at a CAGR of 24.15%. Market dynamics are forces that impact the prices and behaviors of the Global Artificial Intelligence (AI) in Drug Discovery Market stakeholders.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/covid-technology-health-middle-east-f1500da2065941639bebd64db2cf18e2",
+      "originalUrl": "https://apnews.com/press-release/business-wire/covid-technology-health-middle-east-f1500da2065941639bebd64db2cf18e2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-a-new-explainable-ai-paradigm-that-could-enhance-human-robot-collaboration.md",
+      "title": "A new explainable AI paradigm that could enhance human-robot collaboration",
+      "excerpt": "Artificial intelligence (AI) methods have become increasingly advanced over the past few decades, attaining remarkable results in many real-world tasks. Nonetheless, most existing AI systems do not share their analyses and the steps that led to their predictions with human users,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-08-ai-paradigm-human-robot-collaboration.html",
+      "originalUrl": "https://techxplore.com/news/2022-08-ai-paradigm-human-robot-collaboration.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/a-new-explainable-ai-p.jpg",
+          "width": 2880,
+          "height": 2245,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-08-ai-paradigm-human-robot-collaboration.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-ai-paradigm-human-robot-collaboration.amp",
+      "publishedDateTime": "2022-08-10T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-ai-takes-the-real-you-into-the-metaverse.md",
       "title": "AI takes the 'real' you into the metaverse",
       "excerpt": "Posted . 08/10 A London-based startup wants to help you step into the metaverse with your 'real' face instead of the cartoo",
@@ -1062,102 +1148,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-setting-our-heart-attack-predicting-ai-loose-with-no-code-tools.md",
-      "title": "Setting our heart-attack-predicting AI loose with “no-code” tools",
-      "excerpt": "AutoML is a big chunk of what sits behind Canvas; it evaluates the data and tries a number of different algorithm types to determine what's best After that's done, we'll take a swing using one of ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/08/no-code-no-problem-part-two-setting-the-ai-loose-with-the-easy-button/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/08/no-code-no-problem-part-two-setting-the-ai-loose-with-the-easy-button/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/machine-learning-disected-go-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T18:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president.md",
-      "title": "Meta AI chatbot says Zuckerberg 'too creepy' and Trump will always be US president",
-      "excerpt": "Meta (formerly Facebook) just unveiled an artificial intelligence ... tweeted that she tried out the new chatbot Meta created for AI research and had the most bizarre conversation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bgr.in/news/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president-1308360/",
-      "originalUrl": "https://www.bgr.in/news/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president-1308360/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://st1.bgr.in/wp-content/uploads/2021/12/Mark-Zuckerberg-w.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bgr.in/news/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president-1308360/amp/",
-      "cdnAmpWebUrl": "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president-1308360/amp/",
-      "publishedDateTime": "2022-08-09T17:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "www.bgr.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

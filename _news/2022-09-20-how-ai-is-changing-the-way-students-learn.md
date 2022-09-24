@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-changing-the-way-students-learn/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -80,6 +80,20 @@ related:
       - url: "https://marketscale.com/wp-content/uploads/2022/09/Intel_AlexEricDennis_Podcast.png"
         width: 2489
         height: 1400
+        isCached: true
+  - title: "How AI sees the world — in ways that are predictable, yet way off"
+    excerpt: "What AI means for illustration. Plus, Korean Modernism at LACMA and delays at the Lucas Museum in our weekly arts newsletter."
+    publishedDateTime: 2022-09-24T15:00:00Z
+    webUrl: "https://www.latimes.com/entertainment-arts/newsletter/2022-09-24/how-ai-sees-the-world-in-ways-that-are-predictable-yet-way-off-essential-arts-arts-culture"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 37
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/fc3e20a/2147483647/strip/true/crop/2823x1888+505+0/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F33%2Ff6%2F52c2f7874bbe8df16117888b6ec3%2Flynette-romero-mark-mester.jpg"
+        width: 320
+        height: 214
         isCached: true
 
 secured: "5A154dG6fdKREqet+oigs5VHNW4WG1D0bz6FkvtpnyixChfXEZ3tc6bLl70phpwJYnhUusmkzwJPblO9t/kgH+BfiSgsBT95lFBK3fkIChP1dLEzvSsT8kjJu+qhSniilplv98gItq7pJshK2yNAeCNzZ1LRSDTzV81bhvt90/+zNYVvhBQ2TzdaDcUDDhAtu6mWP1LHhm8WHFnwVzV/RKftSuJFBv6+/V8muFv3Wea3yJyR5TufJQ26TaShLX729UVwURMudKXqtbrTl6VYx5MIWYhpwTkQe4r6YPhqEyPxERabvoSxDT66W3KQhxQUr5wIP49V9xuROq37/OL5SSF4BDRYQ0b/vohFXV4yUI3tTpcZP7smYXFCaTl/RlOWuYsA5fLnpwlB8RhDfr7XKI8LAHGE2EBp2wimpaUSujsTxefzk+qjbNM0tVDb1rrz0Ccyg5aT84RVcQpmj9E/+ofBqt7979rMKa9xLuYy3qBpWaaWd9Ulhp/66L6JYOV6T0+u70BqWRKQWbK+fZYFwA==;92S5KKvItMy0iZPtwsxGWQ=="

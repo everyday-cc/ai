@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-06-01-type-2-diabetes-linked-to-cognitive-decline-in-older-age.md",
+      "title": "Type 2 diabetes linked to cognitive decline in older age",
+      "excerpt": "The finding comes from a large UK study of people with and without diabetes, based on cognitive tests and brain scans. Type 2 diabetes involves blood sugar rising too high after meals, often ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2322347-type-2-diabetes-linked-to-cognitive-decline-in-older-age/",
+      "originalUrl": "https://www.newscientist.com/article/2322347-type-2-diabetes-linked-to-cognitive-decline-in-older-age/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2022/05/31112108/SEI_107193938.jpg?width=1200&enable=upscale",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2322347-type-2-diabetes-linked-to-cognitive-decline-in-older-age/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2322347-type-2-diabetes-linked-to-cognitive-decline-in-older-age/amp/",
+      "publishedDateTime": "2022-05-31T19:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-virtual-cognitive-behavioral-therapy-services-offered-at-carolina-behavioral-therapy.md",
       "title": "Virtual Cognitive Behavioral Therapy Services Offered At Carolina Behavioral Therapy",
       "excerpt": "Columbia, SC based Carolina Behavioral Therapy would like to shed light on Cognitive Behavioral Therapy ... let Carolina Behavioral Therapy help. All services at Carolina Behavioral Therapy ...",
@@ -1212,58 +1255,6 @@
         "AI in Finance",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-microsoft-expands-azure-openai-service-with-fine-tuning-features-and-more.md",
-      "title": "Microsoft expands Azure OpenAI Service with fine-tuning features and more",
-      "excerpt": "It will be similar to other transparency notes for Azure Cognitive Services, found here. Transparency notes are part of a broader effort at Microsoft to put our AI principles into practice.”",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/24/microsoft-expands-azure-openai-service-with-fine-tuning-features-and-more/",
-      "originalUrl": "https://techcrunch.com/2022/05/24/microsoft-expands-azure-openai-service-with-fine-tuning-features-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1238869000.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/24/microsoft-expands-azure-openai-service-with-fine-tuning-features-and-more/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/24/microsoft-expands-azure-openai-service-with-fine-tuning-features-and-more/amp/",
-      "publishedDateTime": "2022-05-24T09:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,93 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2022-07-09-jaxon-awarded-phase-ii-sbir-contract-with-us-air-force.md",
+      "title": "Jaxon Awarded Phase II SBIR Contract with U.S. Air Force",
+      "excerpt": "AFWERX for an SBIR Phase II in the amount of $750,000 focused on AutoSpec (a tool to automate the AI-creation process) to investigate its potential to fill capability gaps in the Department of the Air Force (DAF).",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/newswire/technology-science-us-air-force-c2f132617474f9711d12925256b808de",
+      "originalUrl": "https://apnews.com/press-release/newswire/technology-science-us-air-force-c2f132617474f9711d12925256b808de",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-08T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-09-sure-githubs-ai-assisted-copilot-writes-code-for-you-but-is-it-legal-or-ethical.md",
+      "title": "Sure, GitHub's AI-assisted Copilot writes code for you, but is it legal or ethical?",
+      "excerpt": "GitHub's Copilot is an AI-based, pair-programming service. Its machine learning model raises a number of questions. Open source experts weigh in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/is-github-copilots-code-legal-ethically-right/",
+      "originalUrl": "https://www.zdnet.com/article/is-github-copilots-code-legal-ethically-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/is-github-copilots-code-legal-ethically-right/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/is-github-copilots-code-legal-ethically-right/",
+      "publishedDateTime": "2022-07-08T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-07-08-cognizant-ctsh-inks-deal-with-zurich-insurance-subsidiary.md",
       "title": "Cognizant (CTSH) Inks Deal With Zurich Insurance Subsidiary",
       "excerpt": "Cognizant will aid Zurich to extend its AI, data, software engineering and ... sustainability via its data fabric solutions and IBM Watson. Accenture is improving its market share in the industry ...",
@@ -1021,81 +1108,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-how-artificial-intelligence-became-financial-advisors-favorite-new-tool.md",
-      "title": "How artificial intelligence became financial advisors' favorite new tool",
-      "excerpt": "By taking the manual labor out of data management and upkeep, experts can reach new clients and better serve their existing ones.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financial-planning.com/news/how-artificial-intelligence-became-financial-advisors-favorite-new-tool",
-      "originalUrl": "https://www.financial-planning.com/news/how-artificial-intelligence-became-financial-advisors-favorite-new-tool",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://arizent.brightspotcdn.com/dims4/default/b8cc43f/2147483647/strip/true/crop/3600x1890+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F5c%2F1c%2Fd9f029bb4a1e99690e76f8ad6a51%2Flead-image-for-invest-ai-story.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T15:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Planning",
-        "domain": "financial-planning.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-worlds-top-data-scientist-and-trainer-introduces-artificial-intelligence-courses-for-corporate-professionals-and-students.md",
-      "title": "World’s Top Data Scientist and Trainer Introduces Artificial Intelligence Courses for Corporate Professionals and Students",
-      "excerpt": "With more than 20 years of industry experience, the renowned AI trainer and data scientist Kanchankumar Bhowmik launches different courses on data science, AI, machine learning, business analytics, and deep learning for corporate professionals and university students India – July 07,",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-7-7-worlds-top-data-scientist-and-trainer-introduces-artificial-intelligence-courses-for-corporate-professionals-and-students",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-7-7-worlds-top-data-scientist-and-trainer-introduces-artificial-intelligence-courses-for-corporate-professionals-and-students",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T15:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

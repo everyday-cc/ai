@@ -8,9 +8,9 @@ webUrl: "https://www.cnet.com/roadshow/news/nvidia-wants-to-be-the-brains-of-you
 ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-wants-to-be-the-brains-of-your-self-driving-car/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-wants-to-be-the-brains-of-your-self-driving-car/"
 type: article
-quality: 89
-heat: -1
-published: false
+quality: 91
+heat: 111
+published: true
 
 provider:
   name: CNET
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.cnet.com/a/img/resize/02e686580812771a6c1f41008fd6a55334121716/hub/2022/09/20/2b060158-f211-48cf-8c58-79f54886c3e0/zeekr-001-ev.jpg?auto=webp&fit=crop&height=630&width=1200"
@@ -47,19 +48,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "NVIDIA Unveils RTX 4000 GPU Line, Includes DLSS 3"
-    excerpt: "NVIDIA had a keynote that showed off the next step in the evolution of its graphical prowess. Leading this off was the announcement of the newest"
-    publishedDateTime: 2022-09-20T16:08:00Z
-    webUrl: "https://hardcoregamer.com/news/nvidia-unveils-rtx-4000-gpu-line-includes-dlss-3/427788/"
+  - title: "Nvidia Capturing A Multi-Billion Dollar Opportunity"
+    excerpt: "Nvidia guiding for sequential growth in back half of the year and bull case projection places revenues at $880M for FY23, +55% y/y. Read more about NVDA stock here."
+    publishedDateTime: 2022-09-20T22:25:00Z
+    webUrl: "https://seekingalpha.com/article/4542158-nvidia-capturing-multi-billion-opportunity"
     type: article
     provider:
-      name: Hardcore Gamer
-      domain: hardcoregamer.com
-    quality: 39
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 24
     images:
-      - url: "https://hardcore-gamer.s3.amazonaws.com/uploads/2022/09/nvidia-rtx-4090.jpg"
-        width: 698
-        height: 289
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1091511110/image_1091511110.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "6U8nnpiF0cXmOdFBx2RGR6sjpU5bznpvGUACCL5SRfZ0oMsaon0OnViVjb1M/PisWWbnrdycE01kkhsmrUC8keaq34YJjpX8AJCj2N472R+82rTTs5CfV+RBdBXPbge7LZAkNuTljJTBnzXGGUfZSdoaiQKZNyR4z1O4BvQmrxAhxtRsdhFk4aOVonrJgWG/H+XLEmMCz5RoHmnLAbofEO/nxXfReU9kOADBL0zCdSfiNMkyNo1xbVyqBk18pEK6uJBcoG69moShTNxeiFKCeLJtBQpLW6W9xoN8effmII5W5tD92tV1oOEZNfjz5YYdXUmeaZGA3avNB6d0msNBQZ9p7rvGexr9zBG7HctbfIs=;el3/ZeZ9AfPbB1Xzd4ssLw=="

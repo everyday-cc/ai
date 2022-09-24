@@ -287,6 +287,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-20-cognitive-impairment-in-hispanic-adults-linked-to-discrimination-experiences.md",
+      "title": "Cognitive Impairment in Hispanic Adults Linked to Discrimination Experiences",
+      "excerpt": "Now a new study shows that experiences with discrimination may be playing a role in disproportionate experiences of cognitive decline. In a first-of-its-kind study, published recently in the journal Social Science & Medicine, researchers from The ...",
+      "sourceUrl": null,
+      "webUrl": "https://cns.utexas.edu/news/cognitive-impairment-in-hispanic-adults-linked-to-discrimination-experiences",
+      "originalUrl": "https://cns.utexas.edu/news/cognitive-impairment-in-hispanic-adults-linked-to-discrimination-experiences",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cns.utexas.edu/images/easyblog_articles/5822/b2ap3_large_Discrimination-HHM.jpg",
+          "width": 1280,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Journalism in the Americas",
+        "domain": "utexas.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-19-inflation-problems-persist-and-ai-makes-headlines-forbes-ai-newsletter-september-17th.md",
       "title": "Inflation Problems Persist And AI Makes Headlines: Forbes AI Newsletter - September 17th",
       "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
@@ -1129,58 +1172,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-artists-begin-selling-ai-generated-artwork-on-stock-photography-websites.md",
-      "title": "Artists begin selling AI-generated artwork on stock photography websites",
-      "excerpt": "Seeking ways to \"monetize\" AI-generated art, some artists have already begun submitting their AI-generated pieces to stock photography websites like Shutterstock.com. Searches for \"AI generated\" or \"Midjourney\" (a popular image synthesis service) produce thousands of results on the site.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/09/artists-begin-selling-ai-generated-artwork-on-stock-photography-websites/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/09/artists-begin-selling-ai-generated-artwork-on-stock-photography-websites/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/ai_art_on_shutterstock_hero-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

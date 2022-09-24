@@ -2,6 +2,99 @@
   "page": 130,
   "value": [
     {
+      "path": "_news/2022-06-13-ai-system-facilitates-plant-imaging-from-germination-to-root-development.md",
+      "title": "AI system facilitates plant imaging from germination to root development",
+      "excerpt": "For plant biologists, understanding how plants grow and interact with soil is vital for selecting resilient crops that can efficiently take up water and nutrients. But how do you monitor what is happening underground?",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-06-ai-imaging-germination-root.html",
+      "originalUrl": "https://phys.org/news/2022-06-ai-imaging-germination-root.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-system-facilitates.jpg",
+          "width": 2826,
+          "height": 1373,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-06-ai-imaging-germination-root.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-ai-imaging-germination-root.amp",
+      "publishedDateTime": "2022-06-13T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-artificial-intelligence-in-accounting-market-opportunities-analysis-and-forecasts-report-2027.md",
+      "title": "Artificial Intelligence in Accounting Market Opportunities, Analysis and Forecasts Report 2027",
+      "excerpt": "Global Artificial Intelligence in Accounting Market to reach USD 15.66 billion by 2027. Global Artificial Intelligence in Accounting Market is valued approximately USD 0.988 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 48.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-opportunities-analysis-and-forecasts-report-2027-2022-06-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-opportunities-analysis-and-forecasts-report-2027-2022-06-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-what-ai-developers-need-to-know-about-artificial-intelligence-ethics.md",
       "title": "What AI developers need to know about artificial intelligence ethics",
       "excerpt": "Some tools and platforms promise fair and balanced AI, but tools and platforms alone won't deliver ethical AI solutions.",
@@ -1034,109 +1127,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact.md",
-      "title": "Putting the ‘S’ in ESG: How AI and automation can drive social impact",
-      "excerpt": "Rather than taking the traditional training approach, we believe that AI and automation technologies have the potential to help companies reduce biases in processes at scale. Organizations can ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/12/putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact/",
-      "originalUrl": "https://venturebeat.com/2022/06/12/putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-1204589722.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 556,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/12/putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/12/putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact/amp/",
-      "publishedDateTime": "2022-06-12T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-google-engineer-on-leave-after-he-claims-ai-program-has-gone-sentient.md",
-      "title": "Google Engineer On Leave After He Claims AI Program Has Gone Sentient",
-      "excerpt": "Artificially intelligent chatbot generator LaMDA wants “to be acknowledged as an employee of Google rather than as property,\" says engineer Blake Lemoine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e?ncid=engmodushpmg00000004",
-      "originalUrl": "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e?ncid=engmodushpmg00000004",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 679,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/62a56658250000461b473745.jpeg?cache=IyXMvacHho&ops=1778_1000",
-          "width": 1778,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e/amp",
-      "publishedDateTime": "2022-06-12T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

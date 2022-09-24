@@ -42,15 +42,6 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 4
-  - title: "Can eyes on self-driving cars reduce accidents? Cues from moving eyes could help pedestrians anticipate vehicle’s intentions"
-    excerpt: "Robotic eyes on autonomous vehicles could improve pedestrian safety, according to a new study at the University of Tokyo. Participants played out"
-    publishedDateTime: 2022-09-20T00:00:00Z
-    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/224947"
-    type: article
-    provider:
-      name: AlphaGalileo
-      domain: alphagalileo.org
-    quality: 0
 
 secured: "IJ5L392NgtUJVAL6f+jK5Qk0KU5NN1X7LhNM76oASjOyYdGPbVxz3bKfK78zG255n1ozXU6nKIEzeXhyOrEvjFoPkIJEq5LNBdHuEUMlC6Jg84jJNo3NvxQG1ugCQbubomNGAUThRahxldBKrzxGD/FvPiXfgCxkIOqSY2yJc6IwQmlU6KN4bADi+09JfVIg2/au9TOPcshMrjqoH7WI1ZVt6tauTqk9v5PHQZjg8CX3j1zgVwImE4PK/rQ6IcfKuKLOjJlxdzqKoVEvrvBHaI37sJxzZqk1Inw/qmCXQjNHFqtkVxMDjwv/xQMRGH0Vfyz7G10SLRFtyTKhV0DVCgvOenxPzBgEUDVHskNHbs/DwzP4Djht/VG+UZx9r7Qw/d4XA0huigDb57W1RpXBftpmHXtb3FYbk9AF7U7MYkO44JJWhTXq6pAMcH9HL5OCj/Qr1TGMa+MskWO8aMdgIcBHLxYFxH650J5Qg/hHRkck+q0aeO6LQwdbxAoE+0kL7nRBkERDAtjXSKiWLj1pQA==;exh3etYl6S6S/4dnJG+Jfg=="
 ---

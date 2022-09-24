@@ -2,6 +2,101 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-09-13-europe-self-driving-car-market-2022-top-players-emerging-demand-business-profit-analysis-and-expansion-strategies-by-2030.md",
+      "title": "Europe Self-driving Car Market 2022 Top Players, Emerging Demand, Business Profit Analysis and Expansion Strategies by 2030",
+      "excerpt": "The Europe Self-driving Car Market is expected to expand at a CAGR of 49.9%, leading to global revenue of USD 38.51 Bn by 2024. The key players in the Europe Self-driving Car Market are Apple, Microsoft,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/europe-self-driving-car-market-2022-top-players-emerging-demand-business-profit-analysis-and-expansion-strategies-by-2030-2022-09-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/europe-self-driving-car-market-2022-top-players-emerging-demand-business-profit-analysis-and-expansion-strategies-by-2030-2022-09-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T03:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes.md",
+      "title": "The New Artificial Intelligence Of Car Audio Might Improve More Than Just Tunes",
+      "excerpt": "Hollywood has perennially portrayed Artificial Intelligence (AI) as the operating layer of dystopian robots who replace unsuspecting humans and create the escalating, central conflict. Yet, AI is now enhancing entertainment and,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevetengler/2022/09/13/the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes/",
+      "originalUrl": "https://www.forbes.com/sites/stevetengler/2022/09/13/the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62f137c370d99665add408c4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevetengler/2022/09/13/the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevetengler/2022/09/13/the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes/amp/",
+      "publishedDateTime": "2022-09-13T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-13-artificial-intelligence-ai-in-alzheimers-applications-market-drivers-impact-covid-19-and-key-players-strategies-analyzed-2022-to-2030.md",
       "title": "Artificial Intelligence (AI) in Alzheimer’s Applications Market Drivers, [IMPACT COVID-19] and Key Players Strategies Analyzed 2022 to 2030",
       "excerpt": "Artificial Intelligence (AI) in Alzheimer’s Applications market and global economic environment, we forecast that the global market size of Artificial Intelligence (AI) in Alzheimer’s Applications will reach (2030Market size $$) million $ in2030with a CAGR of % from 2022-2030.",
@@ -911,6 +1006,42 @@
       ]
     },
     {
+      "path": "_news/2022-09-12-meta-transitions-pytorch-to-the-linux-foundation-further-accelerating-aiml-open-source-collaboration.md",
+      "title": "Meta Transitions PyTorch to the Linux Foundation, Further Accelerating AI/ML Open Source Collaboration",
+      "excerpt": "The Linux Foundation, a global nonprofit organization enabling innovation through open source, today announced PyTorch is moving to the Linux Foundation from Meta where it will live under the newly-formed PyTorch Foundation.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/09/12/9671322.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/09/12/9671322.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-12-third-paris-metro-line-introduces-driverless-trains.md",
       "title": "Third Paris Metro line introduces driverless trains",
       "excerpt": "Almost half (20) of the trains on the line will be driverless by the end of 2022 and the entire line is expected to be fully automated by the end of 2023, as the RATP promises a “70 percent ...",
@@ -985,147 +1116,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-meta-transitions-pytorch-to-the-linux-foundation-further-accelerating-aiml-open-source-collaboration.md",
-      "title": "Meta Transitions PyTorch to the Linux Foundation, Further Accelerating AI/ML Open Source Collaboration",
-      "excerpt": "The Linux Foundation, a global nonprofit organization enabling innovation through open source, today announced PyTorch is moving to the Linux Foundation from Meta where it will live under the newly-formed PyTorch Foundation.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-philanthropy-bfe43353bdc4e67ca0619d66400a2691",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-philanthropy-bfe43353bdc4e67ca0619d66400a2691",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-london-has-raised-more-fintech-investment-than-any-other-global-hub.md",
-      "title": "London Has Raised More Fintech Investment Than Any Other Global Hub",
-      "excerpt": "MoneyTransfers.com reports that London has successfully attracted the most fintech investment, reaching $3.1 billion in 2022. Jonathan Merry, CEO of MoneyTransfers.com, commented on the report: \"The U.",
-      "sourceUrl": null,
-      "webUrl": "https://techround.co.uk/finance/london-raises-more-fintech-investment/",
-      "originalUrl": "https://techround.co.uk/finance/london-raises-more-fintech-investment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techround.co.uk/wp-content/uploads/2021/04/investment-2021.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techround.co.uk/finance/london-raises-more-fintech-investment/amp/",
-      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/finance/london-raises-more-fintech-investment/amp/",
-      "publishedDateTime": "2022-09-12T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRound",
-        "domain": "techround.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-healthcare-artificial-intelligence-market-research-report-analysis-by-competition-sales-revenue-market-size-2022-to-2028.md",
-      "title": "Healthcare Artificial Intelligence Market Research Report Analysis by Competition, Sales, Revenue, Market Size 2022 to 2028",
-      "excerpt": "The \" Healthcare Artificial Intelligence Market Industry Research Report \" considers a thorough scenario of the market's size and market dynamics for the time period from 2022 to 2028. The purpose of the study is to assist stakeholders,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-research-report-analysis-by-competition-sales-revenue-market-size-2022-to-2028-2022-09-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-research-report-analysis-by-competition-sales-revenue-market-size-2022-to-2028-2022-09-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

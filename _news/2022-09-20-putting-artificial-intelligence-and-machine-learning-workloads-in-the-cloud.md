@@ -80,6 +80,20 @@ related:
         width: 2489
         height: 1400
         isCached: true
+  - title: "How AI sees the world — in ways that are predictable, yet way off"
+    excerpt: "What AI means for illustration. Plus, Korean Modernism at LACMA and delays at the Lucas Museum in our weekly arts newsletter."
+    publishedDateTime: 2022-09-24T15:00:00Z
+    webUrl: "https://www.latimes.com/entertainment-arts/newsletter/2022-09-24/how-ai-sees-the-world-in-ways-that-are-predictable-yet-way-off-essential-arts-arts-culture"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 37
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/fc3e20a/2147483647/strip/true/crop/2823x1888+505+0/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F33%2Ff6%2F52c2f7874bbe8df16117888b6ec3%2Flynette-romero-mark-mester.jpg"
+        width: 320
+        height: 214
+        isCached: true
 
 secured: "yoWf0OZRkLVZg1izZNih3oyoIrAVgvfItIyJvFa4xVXp04AMqJTXTsNe2nnaByvG9QToDCsDYW15fNKIj+c8pJ3LUwJVK/WM9dPlVi/Hu+CFPulTzpLmIiWtc2TPvGi2jygYYwLJC7OfayrpytRMLgyFPJSHjrXUyde1VxZstF3K7jCS8BtvLJ9Y2vGKgYurMo8R6IQbpFb8Si4QzWUkvCt099h5qssOQPpQkEIoTlPAKvY8ivNZdJJM6+Kk94E6Gipz0tLOdATnSzlOXSIJrRSR0EyIuVN+U9D8ItKDcn1tPCTg3H1G2LtpvzBArmqy28iEyTkqTsDE4PCIdlaYXuuI+VwKr0GTzLoqdorxqPqKa5Qxb6CFLCySmC304FX6AOQiqHlzVs+AaoPam5bmneeCYcZKdQu+pJ5YhZz2OtbbgnoMZk2Y4vf0XtJqXtTzxyqkfx179rt+2PRsLmHyalOBPIBaceRYtvzLE6QrA9tA3CBmWTzrkh1zh+0E5N/PiEvHu/0aXB5+wpTiKt+dLg==;BsVinsF57Lt8Ra+4gqw7KA=="
 ---
