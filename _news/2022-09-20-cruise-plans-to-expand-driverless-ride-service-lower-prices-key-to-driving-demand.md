@@ -51,6 +51,22 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Volkswagen concept previews tomorrow's driverless rental pods"
+    excerpt: "When (if?) cars become properly driverless, why not make them glassy pods with beds, desks and AR entertainment for the kids?"
+    publishedDateTime: 2022-09-22T18:26:00Z
+    webUrl: "https://7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195"
+    ampWebUrl: "https://7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195.amp"
+    cdnAmpWebUrl: "https://7news-com-au.cdn.ampproject.org/c/s/7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195.amp"
+    type: article
+    provider:
+      name: 7NEWS
+      domain: 7news.com.au
+    quality: 59
+    images:
+      - url: "https://images.7news.com.au/publication/C-8334195/8b834ff686026c4ce8d0ecc99ee023286661aef2-16x9-x0y173w3805h2140.png?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "GM Is Doubling Down on Self-Driving Cars With LiDAR"
     excerpt: "General Motors is making self-driving cars. It's investing heavily in LiDAR - the tech that could become a $15 billion industry within 10 years."
     publishedDateTime: 2022-09-22T20:30:00Z
@@ -95,15 +111,6 @@ related:
         width: 1500
         height: 1000
         isCached: true
-  - title: "Volkswagen concept previews tomorrow's driverless rental pods"
-    excerpt: "When (if?) cars become properly driverless, why not make them glassy pods with beds, desks and AR entertainment for the kids?"
-    publishedDateTime: 2022-09-22T18:26:00Z
-    webUrl: "https://7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195"
-    type: article
-    provider:
-      name: 7NEWS
-      domain: 7news.com.au
-    quality: 19
 
 secured: "nV8x+vePbIVv/Vxvh/Nfh2e50+0Tb7yVqoE6Zdn6ih/GN/SfNmfw8XawFmQ5v2UY/f3y561ZFycVoVmWUxtcMfP/B7qbKDqfm/DfgQkc4TA7jvwXxqRZt6WhmYAkPgBBHYvs3tMicYhTV+TXeRtbWlC8pYeAJbDzqFH5P6CwBH04g3ZCtbhz38vw+ie3QuL4fq64yZV3rM2A+zil7PZnP7vp+wkh8KITI8IgNM7rD68iimCoF1BLXHVCf6Mbx3ylOB5ufFhzWiaa6zzmifA8DanyMgj1O3EW2apTpOrHi/eqyXqLXgTbl02/ylUI41y2XsDonIFUX/W1bYA24P9XzeXL1VotcEosIyP9mCGA1rc=;ng3WMdkNJFtSGJNC/bBb5g=="
 ---

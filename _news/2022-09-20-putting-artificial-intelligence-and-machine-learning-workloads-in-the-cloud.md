@@ -66,20 +66,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "A game changing power of AI"
-    excerpt: "AR glasses by PEGATRON come with an AI algorithm with interactive applications that are specialized for industrial, medical, and commercial use"
-    publishedDateTime: 2022-09-19T09:12:00Z
-    webUrl: "https://www.fortuneindia.com/enterprise/a-game-changing-power-of-ai/109717"
-    type: article
-    provider:
-      name: Fortune India
-      domain: fortuneindia.com
-    quality: 39
-    images:
-      - url: "https://gumlet.assettype.com/fortuneindia/2022-09/e63e507b-4359-46c0-9b53-c1447fcccaec/2_Fortune.png?w=700"
-        width: 700
-        height: 448
-        isCached: true
   - title: "Artificial Intelligence in the Operating Room"
     excerpt: "While the challenges in the healthcare industry are constantly increasing, hospitals adopting new technologies have helped to alleviate some of those struggles"
     publishedDateTime: 2022-09-20T14:46:00Z
@@ -94,15 +80,6 @@ related:
         width: 2489
         height: 1400
         isCached: true
-  - title: "Five reasons why AI is the future of banking"
-    excerpt: "As Artificial Intelligence in Finance is expected to transform the way people interact with money, ITP.net along with NetApp dwells into the how AI is the future of banking and keys to spark innovation and drive revenue."
-    publishedDateTime: 2022-09-19T11:04:00Z
-    webUrl: "https://www.itp.net/emergent-tech/five-reasons-why-ai-is-the-future-of-banking"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 17
 
 secured: "yoWf0OZRkLVZg1izZNih3oyoIrAVgvfItIyJvFa4xVXp04AMqJTXTsNe2nnaByvG9QToDCsDYW15fNKIj+c8pJ3LUwJVK/WM9dPlVi/Hu+CFPulTzpLmIiWtc2TPvGi2jygYYwLJC7OfayrpytRMLgyFPJSHjrXUyde1VxZstF3K7jCS8BtvLJ9Y2vGKgYurMo8R6IQbpFb8Si4QzWUkvCt099h5qssOQPpQkEIoTlPAKvY8ivNZdJJM6+Kk94E6Gipz0tLOdATnSzlOXSIJrRSR0EyIuVN+U9D8ItKDcn1tPCTg3H1G2LtpvzBArmqy28iEyTkqTsDE4PCIdlaYXuuI+VwKr0GTzLoqdorxqPqKa5Qxb6CFLCySmC304FX6AOQiqHlzVs+AaoPam5bmneeCYcZKdQu+pJ5YhZz2OtbbgnoMZk2Y4vf0XtJqXtTzxyqkfx179rt+2PRsLmHyalOBPIBaceRYtvzLE6QrA9tA3CBmWTzrkh1zh+0E5N/PiEvHu/0aXB5+wpTiKt+dLg==;BsVinsF57Lt8Ra+4gqw7KA=="
 ---

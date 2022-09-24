@@ -5,10 +5,12 @@ excerpt: "DeepMind’s new AI chatbot, Sparrow, is being hailed as an important 
 publishedDateTime: 2022-09-23T19:34:00Z
 originalUrl: "https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/"
 webUrl: "https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/"
+ampWebUrl: "https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/amp/"
 type: article
-quality: 64
-heat: -1
-published: false
+quality: 106
+heat: 156
+published: true
 
 provider:
   name: VentureBeat
@@ -21,6 +23,13 @@ provider:
 topics:
   - AI
   - Google AI
+  - Facebook AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-164848239.jpg?w=1200&strip=all"
+    width: 1200
+    height: 840
+    isCached: true
 
 related:
   - title: "Top AI Chatbots 2022"
@@ -37,6 +46,36 @@ related:
         width: 696
         height: 696
         isCached: true
+  - title: "DeepMind’s new chatbot uses Google searches plus humans to give better answers"
+    excerpt: "The lab trained a chatbot to learn from human feedback and search the internet for information to support its claims."
+    publishedDateTime: 2022-09-22T14:07:00Z
+    webUrl: "https://www.technologyreview.com/2022/09/22/1059922/deepminds-new-chatbot-uses-google-searches-plus-humans-to-give-better-answers/"
+    ampWebUrl: "https://www.technologyreview.com/2022/09/22/1059922/deepminds-new-chatbot-uses-google-searches-plus-humans-to-give-better-answers/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/22/1059922/deepminds-new-chatbot-uses-google-searches-plus-humans-to-give-better-answers/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 55
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/09/RETRO-7.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+  - title: "Research paper from Oxford and Google DeepMind says AI will replace humans"
+    excerpt: "A recent research paper that was published by University of Oxford researchers and Google Deepmind researchers on AI."
+    publishedDateTime: 2022-09-22T01:03:00Z
+    webUrl: "https://techstory.in/research-paper-from-oxford-and-google-deepmind-says-ai-will-replace-humans/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 52
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/09/AI-Will-Eliminate-Humanity-Google-Deepmind-Paper-Says.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "DeepMind advances AI safety with new Sparrow chatbot"
     excerpt: "According to DeepMind, Sparrow can produce plausible answers to user questions more frequently than earlier neural networks. Furthermore, the chatbot includes features that significantly reduce the risk of biased and toxic answers."
     publishedDateTime: 2022-09-22T18:31:00Z
@@ -46,7 +85,16 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 36
+  - title: "The Download: YouTube’s deadly crafts, and DeepMind’s new chatbot"
+    excerpt: "The YouTube baker fighting back against deadly “craft hacks” Ann Reardon is probably the last person whose content you’d expect to be banned from YouTube. A former Australian youth worker and a mother of three,"
+    publishedDateTime: 2022-09-23T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2022/09/23/1059978/download-youtube-deadly-crafts-deepmind-new-ai-chatbot/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 19
 
-secured: "2HkrTBWK6ffMltBUSwByyKOMTkSB/c7bH39vgqDHiL6jBk15F8Y9ijS0fMzvThKHmaliliYgAzGEP6GDkdWgF/7sCdPgIjuiFuE1CX10Rx6leXCp3FdlSM6cADAvnq/AnP2/0xeOBeNTCkvp9aXxaWGrh440XyQTIYCI0MTo9/+ggmf+n+EEVPxBlBPndGLY758vriSV0JDXAYs7Vh9ajn+xlU9nj/B4fcOwcgEavR5HajKRBU9LDCVJ3WwdKi6JDEEu8KO2DafqyL3ikTIspPH87sro+tArJlQhQ1K+KXbntHOaYU9BNnsDjP5/RKXYbVQW2mW8bi7qUWRKSfITnGCWRtonct8u5jPlmGm/6EObiwLVW2obQnKD90QRme35MfGc6LF1bqUtLzErMegV1mu/dKAo8hiYSswt8tdiyDPjOtWY8LU/8N8a/KM2YnB+IAjQ2Wj9HuLJPnPL38+CslGY2WsSKkIgtA6DK0DcW1f0vHCwbQHzoyCrSZxYFcYZYdFSSgF4izNPIzTS9c/42A==;o6ENLjyreMswQ1gIsXoeOw=="
+secured: "YzsxcKr4FdSmGaVug+vQmLAYUhAIbylJRmxnkMfFfQaVDUeZsVMyCFUEy4CwlH+BfZw8OD0WY9ElN5KhlYDEiStuN/4qeAIEe4Jm1APjkA/Xvdio/IuNAD7Ted9BBEBeMv0flLb8YyUg7yQYf3Bo8wEu7UiorhA8QX/eEmztEfEiRyemdhj1dlPXipPXi0+ychcj0UjeUIZwvdvkOUfOCb9Z/54dfWApUS+TQWUxf7BlMenWylm51I3xReCl06/9WTD7h0DHtuEagrlSUb4nPpXCh11WIkLB3Eec27IZVMhEaWNRsDJgofEXAUG+Z1UfH2cOsGeQqVS976PpEnLZ+cilCif+i2/wqrp5845ITXE=;eLAabBVNdJ0ZZPqL/BnWYQ=="
 ---
 

@@ -33,15 +33,6 @@ related:
         width: 1186
         height: 641
         isCached: true
-  - title: "Automotive Artificial Intelligence Market Report 2022: Rising Industrial Automation to Drive Growth - ResearchAndMarkets.com"
-    excerpt: "The global automotive artificial intelligence market size is projected to grow from USD 2.3 Billion in 2022 to USD 7.0 Billion by 2027, it is expected to grow at a CAGR of 24.1% from 2022 to 2027. The key factors contributing to the growth of the automotive artificial intelligence market include the growing adoption of ADAS technology by OEMs and the increasing use of AI to make buying decisions."
-    publishedDateTime: 2022-09-19T09:33:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-19-automotive-artificial-intelligence-market-report-2022-rising-industrial-automation-to-drive-growth-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "i34rq5BSG0+FDliBE8bwLuy5U8jEg2A4UXWS6uI9nCIolD4zx7lCpgJMr34dSBv00NkW4vePuX+3Ep5tANv8A7X5tnDCClDJQB1glf/vbRTSSp4kMsr5CdYCa1j76aN6r/4AMTUxKfO7Xq14DG24kFLVkqWgWWB3ip1mih2p0j+bk3uVYwb4XWRZJjk9UZi7n8hVyjL5IPWXiTLqPPayURhlfADad6gKMwtbNLW59PZApVe5V0FkMnRzeYvjzSYgIoHDhzMBptoMc1xZKZ/sYUics304OjIHgF7UC4eRqNdY27ZfIJX3OXr4D2BPM4hbw1YjS9Epld01eI1sTPZq4bbGkpViaC7t8SEzMhJtUkZiRbXqCtHzoA+SXxSMUPgwo2z3qQA6ex+NnmXSlxQnBbI7hvJ1FWo3vOr/MumztV0ynsts0sIH0IErIMftraxW43PQyX6bguzVTMl6lxDfX6DVBOk4zyG57s0wLmha8Z+VcQHUcApqua+mpHfIl2euCXPOvdAsIFG+NsEDfTXdYw==;D0HMTvZCTTwaXBUytUIaGg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-changing-the-way-students-learn/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 127
 published: true
 
 provider:
@@ -67,20 +67,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "A game changing power of AI"
-    excerpt: "AR glasses by PEGATRON come with an AI algorithm with interactive applications that are specialized for industrial, medical, and commercial use"
-    publishedDateTime: 2022-09-19T09:12:00Z
-    webUrl: "https://www.fortuneindia.com/enterprise/a-game-changing-power-of-ai/109717"
-    type: article
-    provider:
-      name: Fortune India
-      domain: fortuneindia.com
-    quality: 39
-    images:
-      - url: "https://gumlet.assettype.com/fortuneindia/2022-09/e63e507b-4359-46c0-9b53-c1447fcccaec/2_Fortune.png?w=700"
-        width: 700
-        height: 448
-        isCached: true
   - title: "Artificial Intelligence in the Operating Room"
     excerpt: "While the challenges in the healthcare industry are constantly increasing, hospitals adopting new technologies have helped to alleviate some of those struggles"
     publishedDateTime: 2022-09-20T14:46:00Z
@@ -95,15 +81,6 @@ related:
         width: 2489
         height: 1400
         isCached: true
-  - title: "Five reasons why AI is the future of banking"
-    excerpt: "As Artificial Intelligence in Finance is expected to transform the way people interact with money, ITP.net along with NetApp dwells into the how AI is the future of banking and keys to spark innovation and drive revenue."
-    publishedDateTime: 2022-09-19T11:04:00Z
-    webUrl: "https://www.itp.net/emergent-tech/five-reasons-why-ai-is-the-future-of-banking"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 17
 
 secured: "5A154dG6fdKREqet+oigs5VHNW4WG1D0bz6FkvtpnyixChfXEZ3tc6bLl70phpwJYnhUusmkzwJPblO9t/kgH+BfiSgsBT95lFBK3fkIChP1dLEzvSsT8kjJu+qhSniilplv98gItq7pJshK2yNAeCNzZ1LRSDTzV81bhvt90/+zNYVvhBQ2TzdaDcUDDhAtu6mWP1LHhm8WHFnwVzV/RKftSuJFBv6+/V8muFv3Wea3yJyR5TufJQ26TaShLX729UVwURMudKXqtbrTl6VYx5MIWYhpwTkQe4r6YPhqEyPxERabvoSxDT66W3KQhxQUr5wIP49V9xuROq37/OL5SSF4BDRYQ0b/vohFXV4yUI3tTpcZP7smYXFCaTl/RlOWuYsA5fLnpwlB8RhDfr7XKI8LAHGE2EBp2wimpaUSujsTxefzk+qjbNM0tVDb1rrz0Ccyg5aT84RVcQpmj9E/+ofBqt7979rMKa9xLuYy3qBpWaaWd9Ulhp/66L6JYOV6T0+u70BqWRKQWbK+fZYFwA==;92S5KKvItMy0iZPtwsxGWQ=="
 ---

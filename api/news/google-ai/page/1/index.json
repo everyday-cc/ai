@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-09-22-deepminds-new-chatbot-uses-google-searches-plus-humans-to-give-better-answers.md",
-      "title": "DeepMind’s new chatbot uses Google searches plus humans to give better answers",
-      "excerpt": "The lab trained a chatbot to learn from human feedback and search the internet for information to support its claims.",
+      "path": "_news/2022-09-24-why-deepmind-isnt-deploying-its-new-ai-chatbot.md",
+      "title": "Why DeepMind isn’t deploying its new AI chatbot",
+      "excerpt": "DeepMind’s new AI chatbot, Sparrow, is being hailed as an important step towards creating safer, less-biased machine learning systems, thanks to its application of reinforcement learning based on input from human research participants for training.",
       "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/09/22/1059922/deepminds-new-chatbot-uses-google-searches-plus-humans-to-give-better-answers/",
-      "originalUrl": "https://www.technologyreview.com/2022/09/22/1059922/deepminds-new-chatbot-uses-google-searches-plus-humans-to-give-better-answers/",
+      "webUrl": "https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/",
+      "originalUrl": "https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 156,
       "tags": null,
       "images": [
         {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/09/RETRO-7.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-164848239.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 840,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/09/22/1059922/deepminds-new-chatbot-uses-google-searches-plus-humans-to-give-better-answers/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/22/1059922/deepminds-new-chatbot-uses-google-searches-plus-humans-to-give-better-answers/amp/",
-      "publishedDateTime": "2022-09-22T07:07:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/amp/",
+      "publishedDateTime": "2022-09-23T12:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,8 +49,9 @@
         "news"
       ],
       "topics": [
+        "AI",
         "Google AI",
-        "AI"
+        "Facebook AI"
       ]
     },
     {

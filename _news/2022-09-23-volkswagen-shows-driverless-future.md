@@ -66,6 +66,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 63
+  - title: "Volkswagen concept previews tomorrow's driverless rental pods"
+    excerpt: "When (if?) cars become properly driverless, why not make them glassy pods with beds, desks and AR entertainment for the kids?"
+    publishedDateTime: 2022-09-22T18:26:00Z
+    webUrl: "https://7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195"
+    ampWebUrl: "https://7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195.amp"
+    cdnAmpWebUrl: "https://7news-com-au.cdn.ampproject.org/c/s/7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195.amp"
+    type: article
+    provider:
+      name: 7NEWS
+      domain: 7news.com.au
+    quality: 59
+    images:
+      - url: "https://images.7news.com.au/publication/C-8334195/8b834ff686026c4ce8d0ecc99ee023286661aef2-16x9-x0y173w3805h2140.png?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "GM Is Doubling Down on Self-Driving Cars With LiDAR"
     excerpt: "General Motors is making self-driving cars. It's investing heavily in LiDAR - the tech that could become a $15 billion industry within 10 years."
     publishedDateTime: 2022-09-22T20:30:00Z
@@ -96,15 +112,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Volkswagen concept previews tomorrow's driverless rental pods"
-    excerpt: "When (if?) cars become properly driverless, why not make them glassy pods with beds, desks and AR entertainment for the kids?"
-    publishedDateTime: 2022-09-22T18:26:00Z
-    webUrl: "https://7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195"
-    type: article
-    provider:
-      name: 7NEWS
-      domain: 7news.com.au
-    quality: 19
 
 secured: "f01Fn10x78eMTz40EMSA7WM1zeTPPZJfqayJQldTIA4d3fn0Iqqn9LkCFdY9o9a1dNL3l9VXcRws6CX9fstUU943T2GPLkr540qYc0VkkLdWN0riRyRwCpZjY/I7O0dFFsa1JQepjZSSihwLiixDV7UAoULu/Fy5FR0eE2cpzWxwTnz/mE2shQIybd827jeH1U7ksraeS8XfoOaR1FCSgk6NhPfDJuBWcja3K5sMU4FJkN55pf5MB5KTab3dJDdLqcUMYCIsuRYPvYcjmDYsMPA+eSJb/B0Osk4OXUxF0plHd6gXZuI1/bA+3t9gJ/TGPMSygTy9Tl/x2kx78lt1kfZqnD1WAdr4YWFAKrzN+8FdXgTo4LqTj9jsos2fzwx8/FkcUsVLH4d6c1F7Ngb3L4BSKDL03tHrI9OSvCJ9nQQcHOfzb32qpTkM/zMDyZCvxYNw+jjYBbpQg3YXmBneM8JDKyR7wf+GZ5ddlBdyyIKytxwcBBjbmZts6CkXrbjTfffrff6WSpRt9pfZhI8w0Q==;Lw57jMSQZeJvr3ZS27jy/g=="
 ---

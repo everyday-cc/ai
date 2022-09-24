@@ -65,20 +65,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "A game changing power of AI"
-    excerpt: "AR glasses by PEGATRON come with an AI algorithm with interactive applications that are specialized for industrial, medical, and commercial use"
-    publishedDateTime: 2022-09-19T09:12:00Z
-    webUrl: "https://www.fortuneindia.com/enterprise/a-game-changing-power-of-ai/109717"
-    type: article
-    provider:
-      name: Fortune India
-      domain: fortuneindia.com
-    quality: 39
-    images:
-      - url: "https://gumlet.assettype.com/fortuneindia/2022-09/e63e507b-4359-46c0-9b53-c1447fcccaec/2_Fortune.png?w=700"
-        width: 700
-        height: 448
-        isCached: true
   - title: "Artificial Intelligence in the Operating Room"
     excerpt: "While the challenges in the healthcare industry are constantly increasing, hospitals adopting new technologies have helped to alleviate some of those struggles"
     publishedDateTime: 2022-09-20T14:46:00Z
@@ -93,15 +79,6 @@ related:
         width: 2489
         height: 1400
         isCached: true
-  - title: "Five reasons why AI is the future of banking"
-    excerpt: "As Artificial Intelligence in Finance is expected to transform the way people interact with money, ITP.net along with NetApp dwells into the how AI is the future of banking and keys to spark innovation and drive revenue."
-    publishedDateTime: 2022-09-19T11:04:00Z
-    webUrl: "https://www.itp.net/emergent-tech/five-reasons-why-ai-is-the-future-of-banking"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 17
 
 secured: "KUVSy3z6wj9Zvfs2K3AQ5NCLEUvF+gX0nB8B8yDmkicyk96GqTGa3v4KjDVSZC3DCKOi8fOlyIRv0OHTHjzGr/lUrnlxfz3rN0/Yx0v2lkwmtjHESy4RTPqieW88x77hGmHhN9ZaI5ApCN03RYYA/PnEzzY10odIQYTZdeFgRj67y0C2rnSKhkcEtRikQRhRQAi+LihwN1u0pn1m8UQ35eiJUb7b/HkBt7e+u4iqgK8BMWs2zG/ta88p6ejgVddemNRDZ/YNHevc/4aj2FLCf2cG6R0oGhOZUfRXEM07UfVfaBC9rG4EbrXqe+jYQm4XvVEAHDE0+wviLuM2GW4nPWNxiFqtt4691XtiEE4joOE=;UcEqmgJl4/GShsPfcMt5fQ=="
 ---

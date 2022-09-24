@@ -7,7 +7,7 @@ originalUrl: "https://www.fbcnews.com.fj/world/brain-machine-interfaces-the-ethi
 webUrl: "https://www.fbcnews.com.fj/world/brain-machine-interfaces-the-ethics-of-mind-reading/"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Machine learning gives glimpse of how a dog's brain sees - study"
-    excerpt: "Recent advancements in the fields of machine learning and functional magnetic resonance imaging (fMRI) have helped to decipher visual stimuli in human and nonhuman brains. However, this research, which provides new understandings of the nature of visual perception,"
-    publishedDateTime: 2022-09-19T10:25:00Z
-    webUrl: "https://www.jpost.com/science/article-717496"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 34
 
 secured: "eO28QZqxKjs06WCdMwrZAUHvje4d9PutmFSY0+b/ZxF30JnqP0aR5Uwe3OZyZXyTAGOZQhBKOBcS1z/wA6viUVFtucW3XHvTpJwSDWNdDd5PdV75cQUoHP2QLm3c2iq88orqh5+CIvPcNz6kyA9yTjAJEH2XB94Aqsno150+DGELe/hYup+AlPL7SE4FRLW2Y2x9hbl0GXptx37j5DzURkhmaZ4GNkzJRrquuCy2xkdZy3/fMPIbQAPLS6bSY7Pwwc5hzC9iLMfH1v+u97XADhMpLzN4gLoZ2GFIn9zA+eY9RcKU2pUzkQFQjo5dZuqLiBs6Z3ffU0f2zECCBoKwb3hwUZxkCQ2d7j4hNrhhM7XuDCyYNRIVd/GPF9LFKw2YYy+WE97cjupuHMiSH8yc2QdDVxCkx7F9jZBndkcf+sbAHyyajNWpVbasnFiw2EkimojEBI+whQgUONDX742XRdtzItplFsyjmH5HDfq6F3v78IGsfCfzod4neJ82tXEgav+MFYfZhPn0t+6csBD1wg==;XHPvFsN4z869csGAI7nAwg=="
 ---

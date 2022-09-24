@@ -68,6 +68,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 63
+  - title: "Volkswagen concept previews tomorrow's driverless rental pods"
+    excerpt: "When (if?) cars become properly driverless, why not make them glassy pods with beds, desks and AR entertainment for the kids?"
+    publishedDateTime: 2022-09-22T18:26:00Z
+    webUrl: "https://7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195"
+    ampWebUrl: "https://7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195.amp"
+    cdnAmpWebUrl: "https://7news-com-au.cdn.ampproject.org/c/s/7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195.amp"
+    type: article
+    provider:
+      name: 7NEWS
+      domain: 7news.com.au
+    quality: 59
+    images:
+      - url: "https://images.7news.com.au/publication/C-8334195/8b834ff686026c4ce8d0ecc99ee023286661aef2-16x9-x0y173w3805h2140.png?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Is the quest for driverless trucking in it for the long haul?"
     excerpt: "Waymo, often seen as the leader in driverless technology ... In many ways, trucks are a more viable focal point for the development of the artificial intelligence needed for fully autonomous driving. Long-haul vehicles travel on long, monotonous highways ..."
     publishedDateTime: 2022-09-21T16:54:00Z
@@ -96,15 +112,6 @@ related:
         width: 1500
         height: 1000
         isCached: true
-  - title: "Volkswagen concept previews tomorrow's driverless rental pods"
-    excerpt: "When (if?) cars become properly driverless, why not make them glassy pods with beds, desks and AR entertainment for the kids?"
-    publishedDateTime: 2022-09-22T18:26:00Z
-    webUrl: "https://7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195"
-    type: article
-    provider:
-      name: 7NEWS
-      domain: 7news.com.au
-    quality: 19
 
 secured: "MEK/EfhLo44a2BlCbaEb4h38WheCFkgQmg+IzHm6yHJ3q6jTsXEVnq0mP1kexWdXF8U/PZkarr/nGyXfU2Q/QS3u8cc55rXMc39ujzB4T/WwzKEh1Scev09nnZByqqZjbOdQYCbj4cmR2u0N7dvAO2oXkRr6WA+JICZVDf6bqOmwIVwftv1YOcAlPQVJabjsK30eq0FvseVsxQik71/Lp31L9oYIr2mxUsWix4TqSrLIQSVhNtnN7wI9Tns1tJp+NUxTjzjIoM4e2i+1W/qEKNeSLb29KE4Z/He0PkLKhed8sw/NqGGPmOBE8SnET1HhkUfEfLhkkNpZ4fllo5YktNPItDUkfc7PNPbpZTybFmA=;Ci0JD7ifU1kM5ulVDq5rsg=="
 ---

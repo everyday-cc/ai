@@ -5,8 +5,10 @@ excerpt: "When (if?) cars become properly driverless, why not make them glassy p
 publishedDateTime: 2022-09-22T18:26:00Z
 originalUrl: "https://7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195"
 webUrl: "https://7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195"
+ampWebUrl: "https://7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195.amp"
+cdnAmpWebUrl: "https://7news-com-au.cdn.ampproject.org/c/s/7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195.amp"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
@@ -17,6 +19,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://images.7news.com.au/publication/C-8334195/8b834ff686026c4ce8d0ecc99ee023286661aef2-16x9-x0y173w3805h2140.png?imwidth=1200"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Self-Driving Hyundai Spotted On PIE, Likely Part Of Test For Driverless Taxis"
@@ -105,6 +113,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "C+mEIFPjSo2tL8xZ6fEj0vWRMqADLUkppt7wHLPYymsTWLICKPGuY7Q04jWBsYI8pdChBJa3W5GKRj4pSdE+uqo4kb0w5AcBXNRlRDElqUMwKrsimRh2qAm7ejRM1hynag8Ql5/NNOJIQtXpw1kqRdl4sodkWI4LEsifArADnllXYKBX/RKPCbjnh+G5X5GUzHVOUBsjcUXddho98JQW8Nr/HbyvYK46XHCMyQD9duRknRkUtQHvRdv80y1ktVBnaWlT5cMl7ILAYGWPvlkBXdfFCLfUnj+GMs1kXywXJumc5upUPusLyhTaOicEe04W/2KBJjEicmYlup0B0P4Q7Tc8mdn5TewkPDXY/mBsCLc=;f4ZdYuJOgXs6DjSlTrjBiw=="
+secured: "PU2CXXSjdGFFojHm5dVEbS7zOgY3be+fEON9/2uIuAiFkkNxskpoYyo7QU9IDzehbIMeB8qPeGlbY7FDgIcUNJ3QaxKEn2Yzc+1Hgsjqlq+cf8mGFtNlBYyh0UGGc8nW3hAcyaCPG1WNu0fYVWZpSsTZklfcKf2BKQ4gspOQCRl871Ft4Vg5c7K5tv2aOxw9FISe+G3DsljY0f9D16EMXWIrEmDycKC/3fpIfnXFSXQZUn9DrtKHJPjeQIRLIx5HzV23UXus4746/G7FJbbyHHVB5rwNoe2mAq6TfxsxH6gMEoUFeoP1EkEvCvZKXUwPbIasjhftfQQHJfqV64pZ++w+c3LWe7FbnA132k4gvus=;9AC77nOR9G2XTlRyUeJt7A=="
 ---
 

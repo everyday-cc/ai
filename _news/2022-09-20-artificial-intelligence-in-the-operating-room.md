@@ -78,29 +78,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "A game changing power of AI"
-    excerpt: "AR glasses by PEGATRON come with an AI algorithm with interactive applications that are specialized for industrial, medical, and commercial use"
-    publishedDateTime: 2022-09-19T09:12:00Z
-    webUrl: "https://www.fortuneindia.com/enterprise/a-game-changing-power-of-ai/109717"
-    type: article
-    provider:
-      name: Fortune India
-      domain: fortuneindia.com
-    quality: 39
-    images:
-      - url: "https://gumlet.assettype.com/fortuneindia/2022-09/e63e507b-4359-46c0-9b53-c1447fcccaec/2_Fortune.png?w=700"
-        width: 700
-        height: 448
-        isCached: true
-  - title: "Five reasons why AI is the future of banking"
-    excerpt: "As Artificial Intelligence in Finance is expected to transform the way people interact with money, ITP.net along with NetApp dwells into the how AI is the future of banking and keys to spark innovation and drive revenue."
-    publishedDateTime: 2022-09-19T11:04:00Z
-    webUrl: "https://www.itp.net/emergent-tech/five-reasons-why-ai-is-the-future-of-banking"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 17
 
 secured: "mPh5H+nFSFMSc3YwDbJMqwfILdQure3TymfRJGnsACDsAuu4ZB8K+QMi0YhwnueTgvNCo7BxlNnEFLEBEG4fBWp5q00VR2lHqq0OmfsLoOVjYd+832Z9TWssyUsg/5RdgRZezNf1SKS+5jLU/YaHkM+twEFge5X3rG/MXhiRY6z9xyTz81kxD9vat7nr95BTi0WBfOO4/lCMsTziwspNkcYetiKMiWelApI5gJEh0zWpURAltqlUrJPZ6gaiUv3L6r7kgnOe51HdaVWKOXqJ4Tah35/X63TGgotn4sc9W3KQWK/857l2mlPJim73QrvIrJ2/s5GEuQnV52sIPpguN//feFMFBZRLWe2K+wEASyI1KkczhTHjDJRH0y2s60ELUTkTQi8/VBzIKpK/4Lvf1gKlUKrYVYVCcSBrGi43NFXj8SOnqeqogKrawdbYv644Pk//zWb84+CpC6kF4wNsaiAgIIm99RpL+pjSFL2+HZrZQdvtJfcLF7BftwcGL88oMBvW+TKq8unR+tkTAZuETQ==;utwTMyBmkC9WSKso0HyWTw=="
 ---

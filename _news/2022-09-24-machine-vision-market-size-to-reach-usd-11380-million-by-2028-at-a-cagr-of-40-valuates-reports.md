@@ -19,45 +19,61 @@ topics:
   - AI
 
 related:
-  - title: "Machine Learning as a Service (MLaaS) Market Size to Grow at 32.88% CAGR During the Forecast Period of 2022-2027 | 118 Report Pages"
-    excerpt: "The global Machine Learning as a Service (MLaaS) market size is expected to expand at a CAGR of 32.88% during the"
-    publishedDateTime: 2022-09-19T09:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-to-grow-at-3288-cagr-during-the-forecast-period-of-2022-2027-118-report-pages-2022-09-19"
+  - title: "Artificial Intelligence Robots Market Size To Record 21.3% CAGR Through 2028"
+    excerpt: "Market Study Report presents latest report on global  Artificial Intelligence (AI) Robots Market,  which evaluates the growth tr"
+    publishedDateTime: 2022-09-20T09:36:00Z
+    webUrl: "https://menafn.com/1104892877/Artificial-Intelligence-Robots-Market-Size-To-Record-213-CAGR-Through-2028"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
+      name: Mena FN
+      domain: menafn.com
+    quality: 51
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?176684"
+        width: 375
+        height: 250
         isCached: true
-  - title: "Global Big Data in Healthcare Market to Grow at a CAGR of 15.9%, during Forecast Period | BlueWeave Consulting"
-    excerpt: "Global Big Data in Healthcare Market is flourishing owing to the government initiatives in developing economies, rising internet penetration, rising e-commerce penetration,"
-    publishedDateTime: 2022-09-23T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28986451/global-big-data-in-healthcare-market-to-grow-at-a-cagr-of-15-9-during-forecast-period-blueweave-co"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28986451"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28986451"
+  - title: "Mobile Robotics Market Size to Surpass USD 25.3 Billion at a 21.40% CAGR by 2030 - Report by Market Research Future (MRFR)"
+    excerpt: "According to a comprehensive research report by Market Research Future (MRFR), \"Mobile Robotics Market Research Report, by Component, Navigation Type, Application,"
+    publishedDateTime: 2022-09-22T15:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28969105/mobile-robotics-market-size-to-surpass-usd-25-3-billion-at-a-21-40-cagr-by-2030-report-by-market-r"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28969105"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28969105"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 41
+    quality: 48
     images:
-      - url: "https://ml.globenewswire.com/Resource/Download/2f4ff2e9-9991-471c-a6a4-03b9d51b7b4d"
-        width: 558
-        height: 303
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg"
+        width: 700
+        height: 300
         isCached: true
-  - title: "Artificial Intelligence in Radiology Market Size is Projected to Reach USD 461.1 Million and Grow at CAGR 35.9% Over Forecasts Period 2022-2028"
-    excerpt: "Artificial Intelligence in Radiology Market is valued at USD 53.9 Million in 2021 and expected to reach USD 461.1 Million by 2028 with a CAGR of 35.9% over the forecast period. Sc"
-    publishedDateTime: 2022-09-19T09:48:00Z
-    webUrl: "https://www.medgadget.com/2022/09/artificial-intelligence-in-radiology-market-size-is-projected-to-reach-usd-461-1-million-and-grow-at-cagr-35-9-over-forecasts-period-2022-2028.html"
+  - title: "Machine Vision Market Size To Reach USD 11380 Million By 2028 At A CAGR of 4.0% - Valuates Reports"
+    excerpt: "Major Factors Driving The Growth Of The Machine Vision Market are. The Machine Vision market is projected to be driven by the rising need for automation and quality inspection acr"
+    publishedDateTime: 2022-09-23T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/n28988369/machine-vision-market-size-to-reach-usd-11380-million-by-2028-at-a-cagr-of-4-0-valuates-reports"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28988369"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28988369"
     type: article
     provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 10
+  - title: "Automatic Identification & Data Capture Market Size to Boost $35 Billion By 2027 | CAGR 12.3% – IndustryARC"
+    excerpt: "\"Market Research Reports, Business Consulting Services & Analytics\"Growing Use of Automatic Identification and Data Capture Systems in Variety of End User Industries is Driving the Growth of Automatic"
+    publishedDateTime: 2022-09-19T20:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/ab28921760/automatic-identification-data-capture-market-size-to-boost-35-billion-by-2027-cagr-12-3-industrya"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 6
+    images:
+      - url: "https://www.abnewswire.com/uploads/1663580453.jpeg?optimize=medium&dpr=2&auto=webp&width=3840"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "X1ByTY1RLxhcRb7WtjxWtuTQKbBT0Gxpqnl6uhg++0dvhFfkev1Wfed/keyan1a/xloAOUt2nK4yhFKCRe1vJOwwDW4SlFTa3MWjqYKLd+BHM04KE0MieYCkGJ3nCMevWsvTPB2N3f276GsSYKr0xYOUPIi7zg5Xoa33rcGEpnNHyDkG7/NSWo5nJEZhbs2J6HxI7V28gF/NY7FLcP8cahNkSNi4ZWmxk7hV+TspfLlTwV8QTE5hEYFgR2XRWxfpuk0KPTQ2cckbUWoepbzngmfElGgX8iSA7icQC3cSWoxikQvGWMvNXnPgPtmkaTjpU8r/4a/AiKEaU9PLLWf8GO+OUz5/TSAK7VgLQ4RZAh4=;vPpQLpVGMQGSPDGopfW8Vg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104892877/Artificial-Intelligence-Robots-Marke
 webUrl: "https://menafn.com/1104892877/Artificial-Intelligence-Robots-Market-Size-To-Record-213-CAGR-Through-2028"
 type: article
 quality: 51
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -66,6 +66,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Machine Vision Market Size To Reach USD 11380 Million By 2028 At A CAGR of 4.0% - Valuates Reports"
+    excerpt: "The global Machine Vision market size is projected to reach USD 11380 million by 2028, from USD 8374.8 million in 2021, at a CAGR of 4.0% during 2022-2028. Major Factors Driving T"
+    publishedDateTime: 2022-09-23T18:06:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/09/23/9680013.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "1zAgFt9M3XjxBV3nCkKePrg/ZBYsKctlbXtXnpN7Ybnn6ZZV8wW8aYeCT7LlXTA5DRAy4zpmKx/bAmLPVTsMhUQaox1/WgmvDz+NFU148PHNCklUvJfoQUYuZdFLWDqkMH/YWwANrBIh4B5EgdQBoBx8STIJi6BJpKJKsw+oldozRO4bykz3RPGW4NeHZKXJCb3bWHTgBsd04xuvgEvJY4zQHtOQDCOowdkAQsq3reRnTBqRGhRLRRK7heMuRejJzXZ/+dA3Lrv7pJtYY5hvRPhjI7GImnwDOc5kLvFPl1NIzPKCM3b44Ig7vHPfDk1853UIyqU0jBtSEmW7yExIxelDKuT1dVaTAo84ZumMctk=;C76fM8525+b5gCAHQNpj1w=="
 ---
