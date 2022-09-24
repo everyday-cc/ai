@@ -621,6 +621,57 @@
       ]
     },
     {
+      "path": "_news/2022-09-20-theories-of-ai-liability-its-still-about-the-human-element.md",
+      "title": "Theories of AI liability: It's still about the human element",
+      "excerpt": "William A. Tanenbaum, Kiyong Song and Linda A. Malek of Moses Singer explore theories of contractual and tort theories applicable to AI systems as well as their current limitations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/litigation/theories-ai-liability-its-still-about-human-element-2022-09-20/",
+      "originalUrl": "https://www.reuters.com/legal/litigation/theories-ai-liability-its-still-about-human-element-2022-09-20/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/hT1G3G4YSIrcaWmtvbrwwG_-HNo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5P3BQ4T3WRGRLOYFJDYPA7JHD4.JPG",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-how-ai-is-changing-the-way-students-learn.md",
       "title": "How AI Is Changing The Way Students Learn",
       "excerpt": "In our increasingly fast-moving world, many schools are still facing the challenge of integrating the latest digital technologies.",
@@ -680,7 +731,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-trends-size-share-growth-status-key-segments-and-forecast-2028-2022-09-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -732,7 +783,7 @@
       "originalUrl": "https://www.cnbc.com/2022/09/20/chinese-electric-vehicle-maker-xpeng-launches-rival-to-teslas-full-self-driving-system.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -784,7 +835,7 @@
       "originalUrl": "https://www.reuters.com/technology/challenges-automakers-now-tesla-face-with-humanoid-robots-2022-09-20/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -932,7 +983,7 @@
       "originalUrl": "https://menafn.com/1104892877/Artificial-Intelligence-Robots-Market-Size-To-Record-213-CAGR-Through-2028",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1190,58 +1241,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-the-promise-of-sustainable-ai-may-not-outweigh-the-organizational-challenges.md",
-      "title": "The promise of sustainable AI may not outweigh the organizational challenges",
-      "excerpt": "Enterprises can use Artificial Intelligence (AI) and other smart technology to solve sustainability challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/does-promise-sustainable-ai-outweigh-organizational-challenges/",
-      "originalUrl": "https://venturebeat.com/ai/does-promise-sustainable-ai-outweigh-organizational-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/4-How-data-reinforces-commitments-to-sustainability.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/does-promise-sustainable-ai-outweigh-organizational-challenges/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/does-promise-sustainable-ai-outweigh-organizational-challenges/amp/",
-      "publishedDateTime": "2022-09-19T18:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

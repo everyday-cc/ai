@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-24T07:43:00Z
 originalUrl: "https://indiaeducationdiary.in/university-of-edinburgh-ai-start-ups-boosted-by-support-scheme/"
 webUrl: "https://indiaeducationdiary.in/university-of-edinburgh-ai-start-ups-boosted-by-support-scheme/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: India Education Diary

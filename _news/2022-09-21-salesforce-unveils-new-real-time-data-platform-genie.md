@@ -189,7 +189,7 @@ related:
   - title: "At Dreamforce 2022, Salesforce Introduces Genie Across Its Customer 360 Line"
     excerpt: "Salesforce Introduces Genie Across Its Customer 360 Line. During its 20th annual Dreamforce user conference in San Francisco this week, Salesforce today unveil"
     publishedDateTime: 2022-09-20T18:15:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Salesforce-Introduces-Genie-Across-Its-Customer-360-Line-155011.aspx"
+    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/At-Dreamforce-2022-Salesforce-Introduces-Genie-Across-Its-Customer-360-Line-155011.aspx"
     type: article
     provider:
       name: Destination CRM

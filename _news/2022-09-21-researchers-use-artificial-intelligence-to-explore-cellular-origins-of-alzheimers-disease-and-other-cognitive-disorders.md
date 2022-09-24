@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2022-09-artificial-intelligence-explore-
 ampWebUrl: "https://medicalxpress.com/news/2022-09-artificial-intelligence-explore-cellular-alzheimer.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-artificial-intelligence-explore-cellular-alzheimer.amp"
 type: article
-quality: 32
-heat: 32
+quality: 34
+heat: 34
 published: false
 
 provider:

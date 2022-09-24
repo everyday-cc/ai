@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-22T02:27:00Z
 originalUrl: "https://www.theretailbulletin.com/retail-solutions/sensormatic-solutions-by-johnson-controls-expands-its-computer-vision-offering-to-address-retails-most-pressing-challenges-22-09-2022/"
 webUrl: "https://www.theretailbulletin.com/retail-solutions/sensormatic-solutions-by-johnson-controls-expands-its-computer-vision-offering-to-address-retails-most-pressing-challenges-22-09-2022/"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Retail Bulletin

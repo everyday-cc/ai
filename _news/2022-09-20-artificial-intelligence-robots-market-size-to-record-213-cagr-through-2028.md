@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104892877/Artificial-Intelligence-Robots-Marke
 webUrl: "https://menafn.com/1104892877/Artificial-Intelligence-Robots-Market-Size-To-Record-213-CAGR-Through-2028"
 type: article
 quality: 51
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 10
-  - title: "Automatic Identification & Data Capture Market Size to Boost $35 Billion By 2027 | CAGR 12.3% – IndustryARC"
-    excerpt: "\"Market Research Reports, Business Consulting Services & Analytics\"Growing Use of Automatic Identification and Data Capture Systems in Variety of End User Industries is Driving the Growth of Automatic"
-    publishedDateTime: 2022-09-19T20:35:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/ab28921760/automatic-identification-data-capture-market-size-to-boost-35-billion-by-2027-cagr-12-3-industrya"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 6
-    images:
-      - url: "https://www.abnewswire.com/uploads/1663580453.jpeg?optimize=medium&dpr=2&auto=webp&width=3840"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Machine Vision Market Size To Reach USD 11380 Million By 2028 At A CAGR of 4.0% - Valuates Reports"
     excerpt: "The global Machine Vision market size is projected to reach USD 11380 million by 2028, from USD 8374.8 million in 2021, at a CAGR of 4.0% during 2022-2028. Major Factors Driving T"
     publishedDateTime: 2022-09-23T18:06:00Z

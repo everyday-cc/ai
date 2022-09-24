@@ -60,20 +60,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 10
-  - title: "Automatic Identification & Data Capture Market Size to Boost $35 Billion By 2027 | CAGR 12.3% – IndustryARC"
-    excerpt: "\"Market Research Reports, Business Consulting Services & Analytics\"Growing Use of Automatic Identification and Data Capture Systems in Variety of End User Industries is Driving the Growth of Automatic"
-    publishedDateTime: 2022-09-19T20:35:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/ab28921760/automatic-identification-data-capture-market-size-to-boost-35-billion-by-2027-cagr-12-3-industrya"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 6
-    images:
-      - url: "https://www.abnewswire.com/uploads/1663580453.jpeg?optimize=medium&dpr=2&auto=webp&width=3840"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "X1ByTY1RLxhcRb7WtjxWtuTQKbBT0Gxpqnl6uhg++0dvhFfkev1Wfed/keyan1a/xloAOUt2nK4yhFKCRe1vJOwwDW4SlFTa3MWjqYKLd+BHM04KE0MieYCkGJ3nCMevWsvTPB2N3f276GsSYKr0xYOUPIi7zg5Xoa33rcGEpnNHyDkG7/NSWo5nJEZhbs2J6HxI7V28gF/NY7FLcP8cahNkSNi4ZWmxk7hV+TspfLlTwV8QTE5hEYFgR2XRWxfpuk0KPTQ2cckbUWoepbzngmfElGgX8iSA7icQC3cSWoxikQvGWMvNXnPgPtmkaTjpU8r/4a/AiKEaU9PLLWf8GO+OUz5/TSAK7VgLQ4RZAh4=;vPpQLpVGMQGSPDGopfW8Vg=="
 ---

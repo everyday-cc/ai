@@ -2,6 +2,49 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2022-07-25-google-fires-engineer-who-contended-its-ai-technology-was-sentient.md",
+      "title": "Google fires engineer who contended its AI technology was sentient",
+      "excerpt": "By Ramishah Maruf, CNN Google has fired the engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies. Blake Lemoine,",
+      "sourceUrl": null,
+      "webUrl": "https://kvia.com/news/business-technology/cnn-social-media-technology/2022/07/25/google-fires-engineer-who-contended-its-ai-technology-was-sentient-2/",
+      "originalUrl": "https://kvia.com/news/business-technology/cnn-social-media-technology/2022/07/25/google-fires-engineer-who-contended-its-ai-technology-was-sentient-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kvia.b-cdn.net/2022/07/hypatia-h_8da5d951d422b8ac6fd01710aada6e11-h_ebfd1759e4ec32c74d3df4ef3960b773-300-scaled.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-25T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KVIA",
+        "domain": "kvia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-25-insight-earns-2022-microsoft-partner-of-the-year-award-for-manufacturing.md",
       "title": "Insight Earns 2022 Microsoft Partner of the Year Award for Manufacturing",
       "excerpt": "Insight used its Insight Lens™ framework to migrate multiple siloed datasets into an optimized Azure machine learning architecture built on Databricks. The result is an increase in about $20 ...",
@@ -1133,49 +1176,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-24-digital-transformation-up-aws-institute-train-sa-public-sector.md",
-      "title": "Digital Transformation: UP, AWS Institute Train SA Public Sector",
-      "excerpt": "In a bid to accelerate digital transformation in South Africa’s public sector, the University of Pretoria (UP) and the Amazon Web Services (AWS) Institute teamed up for the first time to host an executive education programme,",
-      "sourceUrl": null,
-      "webUrl": "https://techfinancials.co.za/2022/07/24/digital-transformation-up-aws-institute-train-sa-public-sector/",
-      "originalUrl": "https://techfinancials.co.za/2022/07/24/digital-transformation-up-aws-institute-train-sa-public-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techfinancials.co.za/wp-content/uploads/2022/07/AWS-event-740x431-1.jpg",
-          "width": 740,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techfinancials.co.za/2022/07/24/digital-transformation-up-aws-institute-train-sa-public-sector/?amp",
-      "cdnAmpWebUrl": "https://techfinancials-co-za.cdn.ampproject.org/c/s/techfinancials.co.za/2022/07/24/digital-transformation-up-aws-institute-train-sa-public-sector/?amp",
-      "publishedDateTime": "2022-07-24T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techfinancials",
-        "domain": "techfinancials.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

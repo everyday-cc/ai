@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-09-13-artificial-intelligence-ai-in-alzheimers-applications-market-drivers-impact-covid-19-and-key-players-strategies-analyzed-2022-to-2030.md",
+      "title": "Artificial Intelligence (AI) in Alzheimer’s Applications Market Drivers, [IMPACT COVID-19] and Key Players Strategies Analyzed 2022 to 2030",
+      "excerpt": "Artificial Intelligence (AI) in Alzheimer’s Applications market and global economic environment, we forecast that the global market size of Artificial Intelligence (AI) in Alzheimer’s Applications will reach (2030Market size $$) million $ in2030with a CAGR of % from 2022-2030.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-alzheimers-applications-market-drivers-impact-covid-19-and-key-players-strategies-analyzed-2022-to-2030-2022-09-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-alzheimers-applications-market-drivers-impact-covid-19-and-key-players-strategies-analyzed-2022-to-2030-2022-09-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T00:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-13-baron-funds-sees-significant-upside-for-baidu-bidu.md",
       "title": "Baron Funds Sees Significant Upside for Baidu (BIDU)",
       "excerpt": "Baron Funds discussed stocks like Baidu, Inc. (NASDAQ:BIDU) in the second quarter investor letter. Headquartered in Beijing, China, Baidu, Inc. (NASDAQ:BIDU) is an internet search service provider.",
@@ -945,6 +988,51 @@
       ]
     },
     {
+      "path": "_news/2022-09-12-meta-transitions-pytorch-to-the-linux-foundation-further-accelerating-aiml-open-source-collaboration.md",
+      "title": "Meta Transitions PyTorch to the Linux Foundation, Further Accelerating AI/ML Open Source Collaboration",
+      "excerpt": "The Linux Foundation, a global nonprofit organization enabling innovation through open source, today announced PyTorch is moving to the Linux Foundation from Meta where it will live under the newly-formed PyTorch Foundation.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-philanthropy-bfe43353bdc4e67ca0619d66400a2691",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-philanthropy-bfe43353bdc4e67ca0619d66400a2691",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-12-london-has-raised-more-fintech-investment-than-any-other-global-hub.md",
       "title": "London Has Raised More Fintech Investment Than Any Other Global Hub",
       "excerpt": "MoneyTransfers.com reports that London has successfully attracted the most fintech investment, reaching $3.1 billion in 2022. Jonathan Merry, CEO of MoneyTransfers.com, commented on the report: \"The U.",
@@ -1038,94 +1126,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-meta-transitions-pytorch-to-the-linux-foundation-further-accelerating-aiml-open-source-collaboration.md",
-      "title": "Meta Transitions PyTorch to the Linux Foundation, Further Accelerating AI/ML Open Source Collaboration",
-      "excerpt": "PyTorch Foundation to foster an ecosystem of vendor-neutral projects alongside founding members AMD, AWS, Google Cloud, Meta, Microsoft Azure, and NVIDIA DUBLIN , Sept. /PRNewswire/ -- The Linux Foundation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/n28829937/meta-transitions-pytorch-to-the-linux-foundation-further-accelerating-aiml-open-source-collaborati",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/n28829937/meta-transitions-pytorch-to-the-linux-foundation-further-accelerating-aiml-open-source-collaborati",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28829937",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28829937",
-      "publishedDateTime": "2022-09-12T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-global-graphic-processing-unit-gpu-market-share-current-and-future-industry-trends-2028.md",
-      "title": "Global Graphic Processing Unit (GPU) Market Share, Current and Future Industry Trends 2028",
-      "excerpt": "Reliable sources cite that the rising investments in AI and VR platform R&D, as well as ongoing GPU advancements are propelling the growth of global graphics processing unit (GPU) market.  Furthermore,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-graphic-processing-unit-gpu-market-share-current-and-future-industry-trends-2028-2022-09-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-graphic-processing-unit-gpu-market-share-current-and-future-industry-trends-2028-2022-09-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

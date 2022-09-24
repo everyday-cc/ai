@@ -35,6 +35,22 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Tesla 'Full Self-Driving' Beta opens to another 60,000 testers"
+    excerpt: "Tesla is expanding the number of testers of its Full Self-Driving beta program in North America. There's now a total of 160,000 in the trial."
+    publishedDateTime: 2022-09-20T03:13:00Z
+    webUrl: "https://thewest.com.au/lifestyle/motoring/tesla-full-self-driving-beta-opens-to-another-60000-testers-c-8298561"
+    ampWebUrl: "https://thewest.com.au/lifestyle/motoring/tesla-full-self-driving-beta-opens-to-another-60000-testers-c-8298561.amp"
+    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/lifestyle/motoring/tesla-full-self-driving-beta-opens-to-another-60000-testers-c-8298561.amp"
+    type: article
+    provider:
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 59
+    images:
+      - url: "https://images.thewest.com.au/publication/C-8298561/33ab8ab90c437f19f3113d454c3fed1f7d1f65af-16x9-x0y209w4000h2250.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "B0g7m7IFi1pZr9v7W4jbJxHEH2HtnihC1hTErpSpbVhvS9oVGVy+6WGs5/em9EjewKrwAxA6V61EwMJ0WF8Qn3cn1ZB+w3gfYpLSxk8yMHZCnur8gCfXldp5YU9jxv+MDT77oeXc2tWCiJQsw9qlh0NTP2xKKMKwA/bIHyuk9pBsuyc6lzObtOZ06HabcZ3nE1JhEt0e+M2APN9exJTkrspM4hemNXrxOqvCMwqU56pFel8QphJDLHJZ972L66igj6ExtEZHReRVO2bcsBXcqyJknOzO54iOs/Qtf6lwWRv+9I0/nfiTWcehBu3xKMDY7HlUMjaJKRxv+/X+KDzwNp7Lr2HpomLdnm1P92ThutbRTuHPggQu8vIvfzLEK7L5qKX4IHMtmOcoTwjoXpb1S6OvZwirrofYZSZW3XUvXH4/WGlfJChGoZnkaKMZ5HgN8+7iFNX+sXVXqx8slsJjd1Shd8XJzq6UqscnzhuoC4LqHKK0nxFLIyXI2/EN2Sx6m0Itcf3hOs+j779etb/QVw==;JVCluNrOnMrOrrwqeROcZQ=="
 ---

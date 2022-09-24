@@ -23,17 +23,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "The European automobile industry is going quantum"
-    excerpt: "There are few better marriages in technology than the one between European car manufacturers and their local quantum computing startups."
-    publishedDateTime: 2022-09-19T19:40:00Z
-    webUrl: "https://thenextweb.com/news/european-automobile-industry-is-going-quantum"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 34
-
 secured: "Iz/cfYqCu5kqcQdT3GSevmaMCqdzGoIFWXF5uR/JNXYCh29iwDibNr/x3n5z7VJOyD87nt8j6W/qm/hFfHbv+og4O+2h1QMddhNyQUCG5ITlVx0oNzacem7BkWQs5j/LA3PUsDTTKciMxKoAt/BtDSwfeJqSlE0LGqyxoT2s+nHvKBHWzzKWXGOJ+mdokotw172AvM+WNblt4Q2A4hZiNaDg9py89kYWDbGZxfgg2kd2rqZ96ynXL0ltBnnsZ9DUqRLte901TdgfLwoBMsP61Fk98SM2Osao9KBPxTCAxLOfUGX8ho0X1c9bODX8MlEZvkTnoaS5gpgUcnot9TaEC8C+sMNRS2OF4m3oxNAQJtJ4GYfLL0Tg7D+MYgmPZltMzTNENVjx12ehjEVHHGiHuzzHGdAESzeCuYNSvMUCEzbVzbJfTVB2ToWnrhjG6bbgIedTbtPoe8GrEdU6akpVnMqF+vXHM2DMfFkrHCZrhJaCl/qJ3Fy6iGtxTYcK2Z6xyFecHk9MTfnyILJaVfDGFg==;zRYtSw8C8NerFDp18jAU7g=="
 ---
 

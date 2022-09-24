@@ -2,6 +2,48 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2022-08-07-army-deploys-ai-based-surveillance-system.md",
+      "title": "Army deploys AI-based surveillance system",
+      "excerpt": "Indian Army deployed an AI-based suspicious vehicle recognition system in eight locations in northern and southern theatres",
+      "sourceUrl": null,
+      "webUrl": "https://www.deccanchronicle.com/nation/current-affairs/060822/army-deploys-ai-based-surveillance-system.html",
+      "originalUrl": "https://www.deccanchronicle.com/nation/current-affairs/060822/army-deploys-ai-based-surveillance-system.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-c6vcqtlfu5qn38at3rp993fd81-20200127113141.Medi.jpeg",
+          "width": 800,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.deccanchronicle.com/amp/nation/current-affairs/060822/army-deploys-ai-based-surveillance-system.html",
+      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/current-affairs/060822/army-deploys-ai-based-surveillance-system.html",
+      "publishedDateTime": "2022-08-06T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deccan Chronicle",
+        "domain": "deccanchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-07-ai-does-not-have-thoughts-no-matter-what-you-think.md",
       "title": "AI does not have thoughts, no matter what you think",
       "excerpt": "The technology can generate tweets and blog posts and even entire articles, and as researchers make gains, it is getting better at conversation.",
@@ -1107,40 +1149,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-cybersecurity-cloud-and-ai-robotics-the-new-digital-utilities.md",
-      "title": "Cybersecurity, Cloud and AI & Robotics: The New Digital Utilities",
-      "excerpt": "With a greater digital surface area for most enterprises and consumers alike, the cyberspace vulnerability landscape has expanded significantly in the last few years alongside an evolution in the type,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities",
-      "originalUrl": "https://www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities?amp",
-      "publishedDateTime": "2022-08-05T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

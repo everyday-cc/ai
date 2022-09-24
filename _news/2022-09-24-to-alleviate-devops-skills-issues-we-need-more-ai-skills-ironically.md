@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-24T13:00:00Z
 originalUrl: "https://www.zdnet.com/article/to-alleviate-devops-skills-issues-we-need-more-ai-skills-ironically/"
 webUrl: "https://www.zdnet.com/article/to-alleviate-devops-skills-issues-we-need-more-ai-skills-ironically/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: ZDNet

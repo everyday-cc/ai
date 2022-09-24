@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-trends-size-share-growth-status-key-segments-and-forecast-2028-2022-09-20"
 type: article
 quality: 64
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -126,6 +126,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 9
+  - title: "Computer Vision Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2028"
+    excerpt: "Computer Vision Market – Insights In 2022 : Based In the end-use industry, “Computer Vision Market” 2022 is segmented into Quality Assurance and Inspection, Positioning and Guidance ..."
+    publishedDateTime: 2022-09-21T06:52:00Z
+    webUrl: "https://www.digitaljournal.com/pr/computer-vision-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 1
 
 secured: "G6EJcDDGSbNyDwUAFvcEAQfZ7kq1v7mRr5mb3l/m6NUMbi8s4LxYfGPWLNqKFjCJ1lGAH6WhbZb5Boz0Ng6xSAmc5CDq75x+QrRRa0jXTIhW7qYcOY27TzWG9iGP9E6zQhghWUjVZ5LYpUmEiY0eXaJfId6HId59xdLUemz6BZ/kMxj3JSfI82VgFDtZ+8nsfNTYevBI/9IRSThqAr8GhSxPEWnywGWh/KTcsudNufdvoikqU2TzChB5J9fIhT5A5/Uj7pwf7kZc++DDZumKqnjl1EhHVJmMqlijTDEomVNzwhEzUASKM9K2wHuLwPNLnEeGZT1/iiVQl19VtDLPpKALvTgmpHiUpmLoOwG9TJI=;RG56h8YsTYbrFFppBQxemw=="
 ---

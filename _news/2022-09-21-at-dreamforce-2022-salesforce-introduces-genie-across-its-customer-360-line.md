@@ -3,8 +3,8 @@ category: news
 title: "At Dreamforce 2022, Salesforce Introduces Genie Across Its Customer 360 Line"
 excerpt: "Salesforce Introduces Genie Across Its Customer 360 Line. During its 20th annual Dreamforce user conference in San Francisco this week, Salesforce today unveil"
 publishedDateTime: 2022-09-20T18:15:00Z
-originalUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Salesforce-Introduces-Genie-Across-Its-Customer-360-Line-155011.aspx"
-webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Salesforce-Introduces-Genie-Across-Its-Customer-360-Line-155011.aspx"
+originalUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/At-Dreamforce-2022-Salesforce-Introduces-Genie-Across-Its-Customer-360-Line-155011.aspx"
+webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/At-Dreamforce-2022-Salesforce-Introduces-Genie-Across-Its-Customer-360-Line-155011.aspx"
 type: article
 quality: 21
 heat: -1
@@ -233,6 +233,6 @@ related:
       domain: crn.com.au
     quality: 4
 
-secured: "v0jWLCxnDvlQdI4FUr1uoVdTCeiRHm8n34vDeCdpuFPU8LW9rXWFgbpzE5ndV97zwWLOw5v7oQ3PRs+9APNcI2cuOn0H0XgnxWPah1pSmAgAFQzfiCI6tSCTGudNBumcCiDY8CsuHIzhw366pi14JmHBmIOeqxr+kq6MRsZ21c2Y+SOkoBJCFUE69nhOc7+ZWE1IY019P1cWqTrr2LYpSU0jCT8jRfGreH4v7Wxh4uzj/ma307rzEplE96J0JZNAiFopDNA63Zrb7IXvGuQqsoocLMj5LJ4AW6dU2wGdkuBMF2EArDPrgAcMszQdoM1VcaHQFIQwd/SVHMyqWifjJuA5nznAyXjI/63mLxa8gTU=;QLoSchSOA6OcrZb4oysxUQ=="
+secured: "ue7uvNapXsfay1+NN0g7+EQpWGu12rrwwjhTbogl1b45W25MNZBqGoTONvgohnQsFlLAMa3ZhTOm6LEd+Gmk1kdMSgMjW7BuQ01nC5fmETtbKOEKrdDkwn9xAhZnIYDP80+trEKHunu+u1x465WWNYHqwNbiPfvuGGIlvh4EkZuEll9qo3r+7TiS72wpfRUaqbJu/go0P3/cHu8OW74UC7uNqon8JpuU7S99ZY05gQxHAEf5aNPQJECqsfBXonC9Cj6DJAOBkfCO46kasC8BzItESnCSF30Hmgf620IVUpDZN+2SEKsD5l/VykxtB1uehKDxDjPGN5ZRXJrI8XRo1nLSJrlHIomZjmOsDR7cjRI=;JdA34u8p8+14N6ZQ9SzAig=="
 ---
 

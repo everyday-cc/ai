@@ -2,6 +2,49 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2022-06-22-speech-recognition-on-an-arduino.md",
+      "title": "Speech Recognition On An Arduino",
+      "excerpt": "Speech recognition is usually the purview of fairly high-powered computers chugging along at hundreds of Megahertz with megabytes of RAM. Bringing speech recognition to the low-power ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2012/09/22/speech-recognition-on-an-arduino/",
+      "originalUrl": "https://hackaday.com/2012/09/22/speech-recognition-on-an-arduino/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2020/07/hackaday-logo-with-text-opengraph-default-image.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-uncovering-links-between-grit-and-cognitive-function.md",
       "title": "Uncovering links between grit and cognitive function",
       "excerpt": "Gritty people may be more able to self-regulate and show 'cautious control' -- but don't necessarily have greater cognitive ability, according to a new study. A new analysis of the personality ...",
@@ -1109,40 +1152,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-leading-global-fintech-provider-selects-infobird-co-ltd-to-deliver-its-industry-leading-digital-and-intelligent-customer-engagement-solution.md",
-      "title": "Leading Global Fintech Provider Selects Infobird Co., Ltd. to Deliver its Industry Leading Digital and Intelligent Customer Engagement Solution",
-      "excerpt": "Infobird Co., Ltd (NASDAQ: IFBD) (“Infobird” or the “Company”), a leading provider of AI-powered customer engagement solutions in China, today announced that it has entered into a cooperation agreement with a leading global Fintech service provider.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-china-beijing-f28b4b12bdc43ed7e5d215ceefa548fe",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-china-beijing-f28b4b12bdc43ed7e5d215ceefa548fe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

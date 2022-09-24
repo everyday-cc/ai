@@ -51,6 +51,15 @@ related:
       name: NDTV
       domain: ndtv.com
     quality: 36
+  - title: "Tesla's First Prototype Of A Humanoid Robot To Launce Soon"
+    excerpt: "CEO Elon Musk said last year that Tesla was preparing to launch a humanoid robot that could replace boring, repetitive factory jobs and potentia"
+    publishedDateTime: 2022-09-24T12:20:00Z
+    webUrl: "https://menafn.com/1104918251/Teslas-First-Prototype-Of-A-Humanoid-Robot-To-Launce-Soon"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 36
 
 secured: "1dmKKS4m2r3nIgwdMMWVppss/skpsPA+NobGIaLdQhgYh7F7gzRwMPJXWFNUoIyBrbhvWzosbpwMlwrfAe9CZtzipRMA2elvlIdHfjeVEWm8DBBez0zdYV/uTtABoT+MSh8BOTZ8MVy5en+4gbHXBwezvPgT8JiXRL3IHQx8001N60DD9eAXr88/L/Zc2NsKRQ6Ely7j9fhAtlDHE1P1KlzLyR8VnU8RPlqoE3LUaFl0rXhFSAFGM5wna2qEm7Ihz+OsJdcyNHrohUQLa3kCRlsqNwweSxvEj6V3goqeM6FHeWXSXUcPX1XpoofDLiom1l2Hfj0Az3tpqvHMyDwgMrv4vrSWOQfTgOUXeuc15gU=;QeipghRKSPWIXyCBLzbnzQ=="
 ---

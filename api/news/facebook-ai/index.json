@@ -467,24 +467,33 @@
     {
       "path": "_news/2022-09-12-meta-transitions-pytorch-to-the-linux-foundation-further-accelerating-aiml-open-source-collaboration.md",
       "title": "Meta Transitions PyTorch to the Linux Foundation, Further Accelerating AI/ML Open Source Collaboration",
-      "excerpt": "PyTorch Foundation to foster an ecosystem of vendor-neutral projects alongside founding members AMD, AWS, Google Cloud, Meta, Microsoft Azure, and NVIDIA DUBLIN , Sept. /PRNewswire/ -- The Linux Foundation,",
+      "excerpt": "The Linux Foundation, a global nonprofit organization enabling innovation through open source, today announced PyTorch is moving to the Linux Foundation from Meta where it will live under the newly-formed PyTorch Foundation.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/n28829937/meta-transitions-pytorch-to-the-linux-foundation-further-accelerating-aiml-open-source-collaborati",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/n28829937/meta-transitions-pytorch-to-the-linux-foundation-further-accelerating-aiml-open-source-collaborati",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-philanthropy-bfe43353bdc4e67ca0619d66400a2691",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-philanthropy-bfe43353bdc4e67ca0619d66400a2691",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28829937",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28829937",
-      "publishedDateTime": "2022-09-12T06:30:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T07:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

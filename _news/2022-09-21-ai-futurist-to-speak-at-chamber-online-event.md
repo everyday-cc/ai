@@ -1,10 +1,10 @@
 ---
 category: news
-title: "AI futurist to speak at chamber online event"
+title: "AI futurist to speak at Chamber online event"
 excerpt: "The upcoming impact of technology on healthcare, education and Bermuda’s major insurance and reinsurance industries will be the focus of a Bermuda Chamber of Commerce virtual presentation in"
-publishedDateTime: 2022-09-21T09:59:00Z
-originalUrl: "https://www.royalgazette.com/technology/business/article/20220921/ai-futurist-to-speak-at-chamber-online-event/"
-webUrl: "https://www.royalgazette.com/technology/business/article/20220921/ai-futurist-to-speak-at-chamber-online-event/"
+publishedDateTime: 2022-09-20T19:49:00Z
+originalUrl: "https://www.royalgazette.com/technology/business/article/20220920/ai-futurist-to-speak-at-chamber-online-event/"
+webUrl: "https://www.royalgazette.com/technology/business/article/20220920/ai-futurist-to-speak-at-chamber-online-event/"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 333
     isCached: true
 
-secured: "IllygkGNC5jx40MzKjowDktD2melnYmPUqskdLPqI7rIZ2jMuJebXQ0wAVNnZFL/U/GeLHKdYI7jgDDKy9E9/8qQK41OmfnnMfNOM1wXFY7pZz3VVUPPesl0th5ewAnzBrfpNXDJLmWH9V/WlGrptge4eE+mpT3/G5gN2bzTeQDV22GyOPO9yw2sj6JgqpVlajpwPjKHLSkVzkumHMhPsQaKcrUDRUoM3iaxsOk3Hp9yCSE8Lj+ll5y4y0xd/Cjnc77q64W0j83E3c48r8ymwQvrEzbkf+KHUSIh5p/9U7qtaYVe/eWmngvFAkAOMu75oCniyRqX7gDd3SGiLalTWjZhL8pivU/W8xyGArK6oJpEHqungqsoJQV7BZCBWv+1OEGAZ3Kh49sEbCyhc8hfpKyACrTBIuO75MkfEin6Ol5TLqGD8bHnu3ripoobfMM/ISIvGWtuQxIDXvah/GPmsHl+uiXESTF0Ip2NXeNb1BFH0VVHXXcTT0PN6F67LCEInCkX3iSCQbqh0ZIvz8mHHQ==;H2Oi4fBWBxqrDRbVLbbG6Q=="
+secured: "RDqzUaE/wwxwqVT24Yk4ZIdu0PMgV3cfiH/Q4mNu+nd2NCIQSN0GJdiWGdOiblH7BL5m4KzorStZkPeS0r5tUOOs9zuyxOFsl6fDitvEQ7tWrSl9T+fTuqgG0WDfpzmoXbTrTDn8Ts6ljhAzUDQ+8OymDjPTaG78zi4zZ2N6VnZ7TyaQDhe2ptMS69UwsXC+U9wq0NcgBZTrF7jhCWsX85JNs3t2h0+4DAXRN/skL0B+ghl9v6dw+rFFyEtu0imY4Qi095nukcfvAhqyqhM71W78bnl0SS5VlEpNo6xGukUyQEWTRAlLpaXpS5GMeAYPzwU2yC7dNOGfz61J2qktnfgiQzfvCkeCX01VESkqX5s=;GBdd0SuSsSaxi3l4+qhYeQ=="
 ---
 

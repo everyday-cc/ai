@@ -124,6 +124,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 13
+  - title: "Computer Vision Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2028"
+    excerpt: "Computer Vision Market – Insights In 2022 : Based In the end-use industry, “Computer Vision Market” 2022 is segmented into Quality Assurance and Inspection, Positioning and Guidance ..."
+    publishedDateTime: 2022-09-21T06:52:00Z
+    webUrl: "https://www.digitaljournal.com/pr/computer-vision-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 1
 
 secured: "ZGVD3bh/dzEd1z80D5p7vE39LHnvld8f5mDONG9gKmyRbvb7/jtihNwWQ/2f7KzbVgjiUcOchJpPh97dKygnJv71Ui9pN3zPQjohdJIPiJrNI4iIBWTIQv8F/pMkFI714OkVntLgkNlgW7VE/VR1jYciYYv7oD3OkAvLvHyGlkpzOYbvygBEbWV0WJKQnyA1X2OxZdacsXed1mZqiQbt4CiBM2B/AeAzqHSk4B0AIS5kUvycm6MTqIFQKd37vaTLUb2ZPa9AEnFL7Am+NO2eJbwkVw+PIKv5c0im06ga7p/bzg7G2yejI6/xXNmRYHMlzXSf3Gy1AYHlfXj63NJH+iM3OYL66zYUeJpCTtnpk2Q=;iBKpLujEcG4KAwgu4sqKWQ=="
 ---

@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-09-08-moving-the-goal-posts-cognitive-dissonance-and-preferences.md",
+      "title": "Moving the Goal Posts: Cognitive Dissonance and Preferences",
+      "excerpt": "Got cognitive dissonance? Simply move the goal posts of what you see as fair and reasonable. Source: Neil Daftary/Unsplash Cognitive dissonance theory posits that individuals experience mental ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/intersections/202209/moving-the-goal-posts-cognitive-dissonance-and-preferences",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/intersections/202209/moving-the-goal-posts-cognitive-dissonance-and-preferences",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-09/neil-daftary-4uamk7_8t5s-unsplash.jpg?itok=-VXuqVqw",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/intersections/202209/moving-the-goal-posts-cognitive-dissonance-and-preferences?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/intersections/202209/moving-the-goal-posts-cognitive-dissonance-and-preferences?amp",
+      "publishedDateTime": "2022-09-08T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-08-global-artificial-intelligence-market-report-to-2030-increasing-cross-industry-partnerships-and-collaborations-are-driving-growth.md",
       "title": "Global Artificial Intelligence Market Report to 2030 - Increasing Cross-Industry Partnerships and Collaborations are Driving Growth",
       "excerpt": "For more information about this report visit https://www.researchandmarkets.com/r/j7pdf5",
@@ -1072,40 +1115,6 @@
         "AI in Robotics",
         "Machine Learning",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-dell-technologies-delivers-industry-first-innovations-with-vmware-to-power-multicloud-and-edge-solutions.md",
-      "title": "Dell Technologies Delivers Industry-First Innovations with VMware to Power Multicloud and Edge Solutions",
-      "excerpt": "Dell Technologies is introducing new infrastructure solutions, co-engineered with VMware, that deliver greater automation and performance for organizations embr",
-      "sourceUrl": null,
-      "webUrl": "https://technuter.com/channel-news/dell-technologies-delivers-industry-first-innovations-with-vmware-to-power-multicloud-and-edge-solutions.html",
-      "originalUrl": "https://technuter.com/channel-news/dell-technologies-delivers-industry-first-innovations-with-vmware-to-power-multicloud-and-edge-solutions.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-07T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technuter.com",
-        "domain": "technuter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

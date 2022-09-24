@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/legal/litigation/theories-ai-liability-its
 webUrl: "https://www.reuters.com/legal/litigation/theories-ai-liability-its-still-about-human-element-2022-09-20/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Reuters
@@ -26,6 +26,17 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "A laughing robot and the possibilities of AI"
+    excerpt: "Letter: Yvonne Whalley remembers a play in which a robot develops at least one human trait"
+    publishedDateTime: 2022-09-23T15:33:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/sep/23/a-laughing-robot-and-the-possibilities-of-ai"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 34
 
 secured: "P2MzTKUi7DRhyDp4VGn3SOu4GOeCD+Vduw4H2bRaKh3AIHib0eOkA9Ld6LaYgNBQiAq9OEE8CuAIbrZZqiXS9rRfYxUBbBh/0dB/5IQudxi4LnvpuQysAsTfzErRNCH0tr+Dy63Tg3cyEFfLdGKoQlWqRoQllkE4fVH3B+VWxoJB7EqegOXMjyIFWfPx4RN5M9i3t0g7Jii8K4KvcVhkXFSpVZngYcoRlrZY41Ao4zXWQyX0LFVah87VMbddNXy29ijztlsu3Xw8A7hZm6PElVxhdPS261+j1nsS59IANxIRBA+yMBZ4iG2zGrUQlPfhh7BC0n0UQkMdk2aUEK3W5nc4TSIb+/N25nhhpepicOEwkH34/3r8TgfUTUHfoshdhcvXVi+7SnVkvTD+gFNyrpbxGmq9cim8O2tHccG9VwjKpgOmvKrJfMgKT/603Cr2MVLeMS7XUPXSTpT2Z3In0MlnMzC/FT3X0L/Lnu50nEbnKKlR8m8PxlgtKLKW8ZtZPnHhqOam3aBsijtAiAG3lg==;eOgw3u2ozW3xF+NIKzIv1g=="
 ---

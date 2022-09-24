@@ -121,6 +121,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 9
+  - title: "Computer Vision Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2028"
+    excerpt: "Computer Vision Market – Insights In 2022 : Based In the end-use industry, “Computer Vision Market” 2022 is segmented into Quality Assurance and Inspection, Positioning and Guidance ..."
+    publishedDateTime: 2022-09-21T06:52:00Z
+    webUrl: "https://www.digitaljournal.com/pr/computer-vision-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 1
 
 secured: "DoloQj64pRpsYlAZ7fF8qilbm6Ic2MmAtUWxyfo0J3lXIPOJfU9ChqO6sW0Y1miUAaWVAJXd+H+sZGTJggdZqEbTPiz7HVbGbHIvTFsBIO+HHxbqGRupWfspcybHCHsCxCYnXBk1CNqdJHuI8YdElPkp0Ze8TPqXMuT6hZJRO7xnBLY9odbjX+dM4ktHSvvuT2bDLr8HF1tQSEolmfhAViEkj8QYvROB5xLzm3TafZTUtob9/oiR4Zx0ulwk0NiDGjU4LEQcg4xDWqt0TKtO7KiOzaw/agrorIrRfe/DzyeYVeGNYXFIiX2erO2jRpIwTfiq6g7zq/W72opyLwHk+30ynITR9zu7GPnpdmg1Lho=;6lLgwyC7ZmwJn+kehPOWXA=="
 ---

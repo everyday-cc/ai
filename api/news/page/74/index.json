@@ -2,6 +2,49 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2022-07-26-robot-that-learns-social-cues-could-feed-people-with-tetraplegia.md",
+      "title": "Robot that learns social cues could feed people with tetraplegia",
+      "excerpt": "People who can’t control their legs or arms can use commercial robotic arms to help them eat ... in an aquarium turns out to be new species 5 mind-bending numbers that could reveal the secrets ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2330657-robot-that-learns-social-cues-could-feed-people-with-tetraplegia/",
+      "originalUrl": "https://www.newscientist.com/article/2330657-robot-that-learns-social-cues-could-feed-people-with-tetraplegia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2022/07/26092150/SEI_115549989.jpg",
+          "width": 769,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-26-artificial-intelligence-market-size-to-grow-by-usd-71520-mn-accenture-plc-and-alphabet-inc-among-key-vendors-technavio.md",
       "title": "Artificial Intelligence Market Size to Grow by USD 715.20 Mn, Accenture Plc and Alphabet Inc. Among Key Vendors - Technavio",
       "excerpt": "The artificial intelligence-based personalization market size is expected to grow by USD 715.20 mn. Moreover, the growth momentum of the market will accelerate at a CAGR of 19.17% during the forecast period.",
@@ -1068,49 +1111,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-google-fires-engineer-who-contended-its-ai-technology-was-sentient.md",
-      "title": "Google fires engineer who contended its AI technology was sentient",
-      "excerpt": "By Ramishah Maruf, CNN Google has fired the engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies. Blake Lemoine,",
-      "sourceUrl": null,
-      "webUrl": "https://kvia.com/news/business-technology/cnn-social-media-technology/2022/07/25/google-fires-engineer-who-contended-its-ai-technology-was-sentient-2/",
-      "originalUrl": "https://kvia.com/news/business-technology/cnn-social-media-technology/2022/07/25/google-fires-engineer-who-contended-its-ai-technology-was-sentient-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kvia.b-cdn.net/2022/07/hypatia-h_8da5d951d422b8ac6fd01710aada6e11-h_ebfd1759e4ec32c74d3df4ef3960b773-300-scaled.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-25T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KVIA",
-        "domain": "kvia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

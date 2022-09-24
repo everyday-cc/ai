@@ -15,6 +15,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "P6BtIlLW6AbeWBLinamUgx0y0qpU6eKNjUKDbrm0qZxkdRUoq/ga46sRI05lKyA1y/kol6bCDRoasp59JuugSzIaf7UvChaUeyh6k4YukeuKbjrrtx8Ki6XnO7fS8Hft+sVW5j0YQetWlCsTf8LvoqFSwQ5G0EJAW34JvEnk1TC9hXegIgaqIO4XAuHG+fkHlxr4kUdMvbZ2Htc5N+gmfn61gWrzIYUnKjz/FtFFz8FcuRdTZrGSbNYM6EbUxy/tcjVutGKPvmbhhnthSJ6rWMX5M/kcYatq61bifasP5qjcKv5ta32JHdb6EZR0BZGHelfwp3K/A/cqBd7v8BBVgdIjvDZdYzJwki9IzI6dvHM=;V/xxxifkxVnGyWcjQsr0WQ=="
+images:
+  - url: "https://i.dawn.com/large/2022/09/12151924f71b6ff.jpg?r=152506"
+    width: 800
+    height: 480
+    isCached: true
+
+secured: "fBufPlDrYiEGpVnJNxZnemx7HgYBgMoWGlE7hwijQNqPmD+GK0VUQaKeFnkNX4ZR0mRKgyaYirMYsmzCISapH9sJQdeCutqsspn+sJ+HBS19D6C6+0lEhRtqZ39pzn0N06k00YXQ6Xo5O1ZWOJ4kE+mBrSBXMmdjRgW2EHR5TECyfL4G96FBdK/Mo9KfWrOdojp8ezrhCzRY0AHjYe4J475Iys/YvSl9Ff4W6ZTMcbzUKrh6vRhuGysy68q0bHqBtDXiDMmj+aKDaIOV9bH+rVymFgPotkv1mSQua8yRfEqG4urDb7H/NAezWtX8/Q+qm+cAWK68B8EnH9yadQiEAzRj7DIrsPiLfVADuflg0As=;PGVUff7iQ79W83LFFPp08Q=="
 ---
 

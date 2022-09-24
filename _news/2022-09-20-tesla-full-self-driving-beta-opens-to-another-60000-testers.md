@@ -27,61 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla expands its Full Self-Driving Beta to 60,000 more owners"
-    excerpt: "Beta program for the first time in a long time. After adding 60,000 additional owners, Tesla’s FSD Beta will have over 160,000 people in the program. The FSD Beta program enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,"
-    publishedDateTime: 2022-09-19T22:03:00Z
-    webUrl: "https://electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-owners/"
-    ampWebUrl: "https://electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-owners/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-owners/amp/"
+  - title: "Chinese EV maker Xpeng launches rival to Tesla's semi-autonomous driving system"
+    excerpt: "Xpilot and City NGP is Xpeng's answer to Tesla's Full Self Driving Beta which the company is currently testing with customers in the U.S. In this article Xpeng launched a feature that allows its ..."
+    publishedDateTime: 2022-09-20T12:05:00Z
+    webUrl: "https://www.cnbc.com/2022/09/20/chinese-electric-vehicle-maker-xpeng-launches-rival-to-teslas-full-self-driving-system.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2022/09/20/chinese-electric-vehicle-maker-xpeng-launches-rival-to-teslas-full-self-driving-system.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/09/20/chinese-electric-vehicle-maker-xpeng-launches-rival-to-teslas-full-self-driving-system.html"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 89
+      name: CNBC
+      domain: cnbc.com
+    quality: 85
     images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-FSD-Beta-pedestrian-Blue-Ridge-Mountains.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
+      - url: "https://image.cnbcfm.com/api/v1/image/107121101-1663668816300-gettyimages-1232435166-775646983JZ029_Auto_Shangha.jpeg?v=1663674139"
+        width: 3000
+        height: 2000
         isCached: true
-  - title: "1M Teslas recalled and it’s not because of its self-driving feature"
-    excerpt: "Over a million Tesla are being recalled for faulty power windows. We'll show you which models are affected and what you can do about it."
-    publishedDateTime: 2022-09-24T08:00:00Z
-    webUrl: "https://www.komando.com/safety-security-reviews/tesla-faulty-windows/857934/"
-    ampWebUrl: "https://www.komando.com/safety-security-reviews/tesla-faulty-windows/857934/?amp"
-    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/safety-security-reviews/tesla-faulty-windows/857934/?amp"
+  - title: "Xpeng Motors Debuts Autonomous Driving System as EV Race Heats Up"
+    excerpt: "Chinese EV (electric vehicle) company Xpeng Motors (NYSE: XPEV) has debuted a semi-autonomous driving system in China. It has"
+    publishedDateTime: 2022-09-20T13:16:00Z
+    webUrl: "https://www.business2community.com/stock-news/xpeng-motors-debuts-autonomous-driving-system-as-ev-race-heats-up-02551148"
     type: article
     provider:
-      name: Kim Komando
-      domain: komando.com
-    quality: 59
-    images:
-      - url: "https://www.komando.com/wp-content/uploads/2022/09/kk-article-20220924-1m-teslas-recalled-1200x675-1.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "NHTSA Orders Tesla to Recall 1.1 million Vehicles"
-    excerpt: "The National Highway Traffic Safety Administration ordered Tesla to recall 1.1 million vehicles across the four model lines due to a problem with the automatic reversal system for the vehicles’ windows."
-    publishedDateTime: 2022-09-22T15:21:00Z
-    webUrl: "https://www.thedetroitbureau.com/2022/09/nhtsa-orders-tesla-to-recall-1-1-million-vehicles/"
-    type: article
-    provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 41
-    images:
-      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2022/06/Tesla-Model-3.jpg"
-        width: 1600
-        height: 1219
-        isCached: true
-  - title: "Tesla Expands “Full Self-Driving” Beta To 160,000 Owners In The U.S. And Canada"
-    excerpt: "There are already 100,000 Tesla owners included in the FSD beta program and more than ever will now be granted access to version 10.69.2.2. A plethora of updates has been made to the latest beta version of Tesla’s “Full-Self Driving” system."
-    publishedDateTime: 2022-09-21T12:33:00Z
-    webUrl: "https://www.carscoops.com/2022/09/tesla-expands-full-self-driving-beta-to-160000-owners-in-the-u-s-and-canada/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 15
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 4
 
 secured: "8hnRvHk7Wh42ticDwyxLOeZ6HPejRCnDwVXHmAs7kEDRIHGnpob4IxI5j+jGU5Xt0uRV9lg2VK17vGpLmftKDSlDo70yG/EcMDm582K3FomGRgf0XRH/EQkap2mf+239+1E1SyDWlF9qMqwb7ZSZeVCVYPoKSQhHypDqc9f+sScU96vxJJZ6TCcPEoQJSuixu0dOSmUYFU+MrilCIKlxzW6bgz8j4lioN4KEGilCdApq27aNpwJR/Kfvzkq5WjUtxDR2/GLyoJ+QpzEZCns+Y4CTOK0Sz3qIx59qAGM8YPHt/DlmONrd+d+3UeYmJniAit9p+8V8PQcOT3zp45yzOvTkRXDOC6yRbTYs9kNWJ0mAnkt5YZXk4+7fvXpTkHTJtlcMU8aOLiQugPuXw0nIwZifNv1qXS7z86REBu1/M51z8a2WeyHS19AcV+qss8OZwLfItJmZFvYLGkW7635ORiryriNTvbUCEHpjoE0srR9bOl7kb27cadzBTz0YPW9iu+VrJbq0c+ZadZLp8g4row==;DMg7a53neaYQMhJROe+kcA=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-24T13:00:00Z
 originalUrl: "https://www.yakimaherald.com/news/local/yakima-residents-voice-concerns-about-public-safety-related-to-gangs-drugs-and-traffic/article_c030db7e-3b53-11ed-a8b0-cb63b581b999.html"
 webUrl: "https://www.yakimaherald.com/news/local/yakima-residents-voice-concerns-about-public-safety-related-to-gangs-drugs-and-traffic/article_c030db7e-3b53-11ed-a8b0-cb63b581b999.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Yakima Herald-Republic

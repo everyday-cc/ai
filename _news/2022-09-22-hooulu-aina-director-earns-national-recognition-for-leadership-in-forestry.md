@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-22T13:52:00Z
 originalUrl: "https://mauinow.com/2022/09/22/hooulu-aina-director-earns-national-recognition-for-leadership-in-forestry/"
 webUrl: "https://mauinow.com/2022/09/22/hooulu-aina-director-earns-national-recognition-for-leadership-in-forestry/"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Maui Now

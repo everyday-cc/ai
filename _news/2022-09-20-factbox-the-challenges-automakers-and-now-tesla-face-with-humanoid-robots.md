@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/challenges-automakers-now-tesla
 webUrl: "https://www.reuters.com/technology/challenges-automakers-now-tesla-face-with-humanoid-robots-2022-09-20/"
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
     provider:
       name: NDTV
       domain: ndtv.com
+    quality: 36
+  - title: "Tesla's First Prototype Of A Humanoid Robot To Launce Soon"
+    excerpt: "CEO Elon Musk said last year that Tesla was preparing to launch a humanoid robot that could replace boring, repetitive factory jobs and potentia"
+    publishedDateTime: 2022-09-24T12:20:00Z
+    webUrl: "https://menafn.com/1104918251/Teslas-First-Prototype-Of-A-Humanoid-Robot-To-Launce-Soon"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
     quality: 36
 
 secured: "QEH3LAqvLRvJf707cBOzUiI/RLmwA3Xwe4O5vftEXPDoWm+50Y5foQMaGMZGcWFrKlv2ofYrtbI63RWdMKIVPiVEi2rC25WUmxxjaeTdYrpCWFCkr9Bao/2nEdAHjnYpMPst4wpI6GZVuyacYbn6w7gNf/ci7swsyIpywTTTwKgrdman4BWV0Tx44lWS3M/wrl8wdXTxOp6U3Qo2wUmyMwScgU2LJH6jS6jCDLtYsra81Pw9NR2KrKx9VVu6NiJNkdBNKE+9Yp4lAjlweT5BeKsguC90x3/pltRlGCdjmefGfck1T27p/7nk5pNjKA9aGQk0k30Pg8REoqiwVFEERAg7gKmTAl+A+7/62XYdeTaW2fsZmk+GyAl1XEuWvY6zpJYYApvXkNV2LgIxHzWIjrTC+adYsmVwU0UPcJev3bc0CSqOMX38i/bKQWmGxvQfVKgg4xAoVQ7Orj1n+3hhrwYfQPSm4m+vOCSlxE4OPOAgmBfreBPKMYuDyrrdtZ7idygQlB+wL8hIICimByRdKw==;kwIRuy9+Yh6Hl4MOt92Y/w=="

@@ -2,6 +2,49 @@
   "page": 123,
   "value": [
     {
+      "path": "_news/2022-06-16-baidu-tipped-to-roll-credits-on-iqiyi-stake.md",
+      "title": "Baidu tipped to roll credits on iQIYI stake",
+      "excerpt": "Chinese internet giant Baidu reportedly entered talks on selling a majority stake in iQIYI, a deal which could value the video streaming platform at about $7 billion and help fund the company’s development of emerging technologies. Reuters reported Baidu ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/baidu-tipped-to-roll-credits-on-iqiyi-stake",
+      "originalUrl": "https://www.mobileworldlive.com/featured-content/top-three/baidu-tipped-to-roll-credits-on-iqiyi-stake",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mobileworldlive.com/wp-content/uploads/2022/06/iQIYI_SS_generic.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/baidu-tipped-to-roll-credits-on-iqiyi-stake/amp",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/baidu-tipped-to-roll-credits-on-iqiyi-stake/amp",
+      "publishedDateTime": "2022-06-16T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-acceleration-robotics-launch-robotcore-to-speed-up-ros-2-robots.md",
       "title": "Acceleration Robotics Launch ROBOTCORE™ to Speed-up ROS 2 Robots",
       "excerpt": "While providing a vendor-agnostic ROS-centric development flow, ROBOTCORE™ solves customer design challenges in robotic areas including sensing, perception, mapping, localization, motion control, low-level control or actuation, with speedups surpassing ...",
@@ -1038,58 +1081,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-how-mantium-achieves-low-latency-gpt-j-inference-with-deepspeed-on-amazon-sagemaker.md",
-      "title": "How Mantium achieves low-latency GPT-J inference with DeepSpeed on Amazon SageMaker",
-      "excerpt": "Mantium is a global cloud platform provider for building AI applications and managing them at scale. Mantium’s end-to-end development platform enables enterprises and businesses of all sizes to build AI applications and automation faster and easier than what has been traditionally possible. With Mantium,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-mantium-achieves-low-latency-gpt-j-inference-with-deepspeed-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-mantium-achieves-low-latency-gpt-j-inference-with-deepspeed-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/15/low-latency-mantium.jpg",
-          "width": 1247,
-          "height": 623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T16:08:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],
