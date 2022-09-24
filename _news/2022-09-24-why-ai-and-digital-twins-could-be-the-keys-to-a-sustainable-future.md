@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/06/9-X-Ways-digital-twins-drive-sustainable-data-centers.jpg?w=1200&strip=all"
@@ -47,6 +48,6 @@ related:
         height: 679
         isCached: true
 
-secured: "/QRrFm2dfRqtwbkgjAcbw1bGPi1To49Njo5k6FbLj8EvL8QrJqdsoO3SCR/1ISPgiADjtXTBkvDofuPigZ6i3sReJDBGZAu73WF4V2+CHpPKvyiCHTTYAOGxG3O3LXS39i8IUFyMUbbagNYPvuvc7OhlCfVpmqtTLMdMzDMB8O4Av+fAnqA5EB4Jvgmy36ifhdxQVnVcj4uL2ukhRHoEul36tnl6E9XHxwDlfYTToEVVT1ocCc23TtZhliOLH5D0UgPMfSSwqVUS7W4bJ/a9Te/lWYeVX3QjkyNFTKt1QIwtCiXyDelvRZPxqfjFhAooPFXJnyJIDTxlAXYc8dLNcXlczxXji5otnG7ptwVlP5g=;4lM9JkV2MgnMqnWijx/H9A=="
+secured: "0w4Bly364E/GHZbG0zi2bxV6kLlez7ob7b0mdPZ7Xv1mtpHerShkUuMkCVlN9fkSueXLcXy9gMo2eeOvE/tg0FKpBwuBL7i1V5Sk0sisBjWavzcn6454rojQc7bePBaOPxdL65WFlVCjwZiZwnArpGVFO5c59dclwvw2v/sOX0YrtIhyW+5z6cfLoNUBljAYM1cCK8FluDIUp5KWIT20W36lwX7t0G06mBOpcUEHuok71vu2z/Y25+/0KhFt+BmBrC2+s1ueHakJ+LT8gJenHrTIPhzlNyjVmjL6jkCHx6Catop455dvtSyMEW4/N6PEwMmooMVHk5/peNJkP0TSU++9JISx841TzIB2pvnArnrFmS+2ZWWi5fCViTfdWs4tcrD5BzNIOtYrPSrEZDsB6vH9FTBsGVrZUCLh39oanOnroKf+2ILVOsFSTwTBzwYRPaJNB3kaIRKQr8tuZ8wIuWBNbtqCoKoVauTdGlMJ4zBXk9V80dZ7tCbWFoiW8aHeSfEFW+ZAjT9erQkwSeVD5Q==;7DcO7DjlychwFAr4yy6lDg=="
 ---
 

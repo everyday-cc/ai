@@ -2,14 +2,14 @@
 category: news
 title: "Meta Transitions PyTorch to the Linux Foundation, Further Accelerating AI/ML Open Source Collaboration"
 excerpt: "The Linux Foundation, a global nonprofit organization enabling innovation through open source, today announced PyTorch is moving to the Linux Foundation from Meta where it will live under the newly-formed PyTorch Foundation."
-publishedDateTime: 2022-09-12T15:30:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/09/12/9671322.htm"
-webUrl: "https://it.tmcnet.com/news/2022/09/12/9671322.htm"
+publishedDateTime: 2022-09-12T14:15:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-philanthropy-bfe43353bdc4e67ca0619d66400a2691"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-philanthropy-bfe43353bdc4e67ca0619d66400a2691"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
@@ -17,6 +17,6 @@ topics:
   - Machine Learning
   - Facebook AI
 
-secured: "nYt1L8DsohCO+jAC4LYw79N3KNJvXWn8rbKnc9/8aMhvZ1CEh/kPNLOjdaeSHIh4fM6lB7xAmJbEMPM6jDx3IcUzwi6dTFlZvilMNn6jYnx1A8V+pzhIS/LMMcsw0FX7pVEA2YdUtAGOJXK3SwrDlul5ytrowXq/ZAEu/4YVeF3iM4yVObRnhS3wkTo34Q1cCOVRTHmF9S8oS8jvMKv50Rrz73bRZQ4kLBe2+nwTZiTS6fudJ5G9PENbtsIktmz5UP89/EpPKSsh62JdyxQExXFRmvfFE8mYL2WTZVVC3TpTh4bQjgZfo85b9plnysn6ZdzF/XpK3gCdCDVKIiLrz2IOZVzrS9OWXu7AgXdYhj2EdTMdZMmBI9umewO3HsNOvxn/tHrBDOfJ0FfvNDjx5YL6eQmgmNNueiHWO2jLirPdAsfFkUg00mqBgHWDEl52wW34fUupZbuZJnBE3fhvB/64eCxOWAv/9kUispYtD43+/cHOutbobz+9gP9awDd3rlN0Zwm55BNfuIOUjawUOA==;M+i5FFsUSmy6sm6C6+mpNg=="
+secured: "KrkUAH34Rfnm0EuJtzRQOvczS3DY4whCl57xJVu59IGjyVZeN5LHDo+ZExRsvpGXTF2XePDSPgHPP/fj3DELfmxr7pQSrd3ahwaKwZ907soK2v6DN8VbZNW4pMwkPhWvMqa90UHNiur+BuS1JAdW4T3gvoD0yrCmBHSXkkvpGqiRNBl7jEwgRFb+PqBBqxA8wLvoweht7x4n0FTK7aNtY4V7Cpx9nuX0LZqOKaL/BAK+oZqg8xhczTrn/rnMIOtspbmEWWTs8Vx0Kq/65rYlcvAsZEEktQfnd/YEyxpr+0dD6+L/AsjkqgDZVJRlkJ/w2YEUxFbmeHtxTUlqVPc/RA43+BL1EJpkaSTzXYtOJqs=;4LsG4fGLQ1jl/QOiTPeqyg=="
 ---
 
