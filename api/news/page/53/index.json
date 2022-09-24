@@ -2,6 +2,40 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2022-08-10-viecure-partners-with-clarified-precision-medicine-to-accelerate-the-adoption-of-precision-oncology.md",
+      "title": "VieCure Partners with Clarified Precision Medicine to Accelerate the Adoption of Precision Oncology",
+      "excerpt": "VieCure will fully integrate the Clarified Precision Medicine Somatic and Germline Clinical Consultation process within its A.I. platform and offer community oncologists with streamlined access to Clarified’s nationally recognized test interpretation team.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.buffalonews.com/buffnews/article/bizwire-2022-8-10-viecure-partners-with-clarified-precision-medicine-to-accelerate-the-adoption-of-precision-oncology",
+      "originalUrl": "https://markets.buffalonews.com/buffnews/article/bizwire-2022-8-10-viecure-partners-with-clarified-precision-medicine-to-accelerate-the-adoption-of-precision-oncology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Buffalo News",
+        "domain": "buffalonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-memryx-begins-customer-sampling-of-ai-accelerator-chip.md",
       "title": "MemryX Begins Customer Sampling of AI Accelerator Chip",
       "excerpt": "MemryX Inc., a pioneering start-up that designs breakthrough silicon for artificial intelligence (AI) processing for edge devices, announced today it has begun customer sampling of its ...",
@@ -1122,58 +1156,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-machine-learning-as-a-service-mlaas-market-size-projections-future-opportunities-recorded-for-the-period-2022-2031.md",
-      "title": "Machine Learning as a Service (MLaaS) Market Size Projections & Future Opportunities Recorded for the Period 2022-2031",
-      "excerpt": "Market analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, competitive landscape and forecast. Market Overview The Machine Learning as a Service (MLaaS) Market was valued at USD 1.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-projections-future-opportunities-recorded-for-the-period-2022-2031-2022-08-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-projections-future-opportunities-recorded-for-the-period-2022-2031-2022-08-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

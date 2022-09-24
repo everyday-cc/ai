@@ -46,20 +46,20 @@ related:
   - title: "Cirrus Link Announces IoT Bridge to Connect OT Data to Microsoft Azure"
     excerpt: "Cirrus Link today announced the availability of the IoT Bridge for Microsoft Azure available on the Azure Marketplace, which connects standard MQTT Sparkplug data models to Azure Digital Twin and updates data changes to Azure Data Explorer for time series data."
     publishedDateTime: 2022-09-20T12:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-9-20-cirrus-link-announces-iot-bridge-to-connect-ot-data-to-microsoft-azure"
+    webUrl: "https://markets.buffalonews.com/buffnews/article/newswire-2022-9-20-cirrus-link-announces-iot-bridge-to-connect-ot-data-to-microsoft-azure"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
+      name: The Buffalo News
+      domain: buffalonews.com
     quality: 34
   - title: "Tecnotree to Accelerate Digital Transition to the Cloud with Microsoft Azure Integration"
-    excerpt: "Tecnotree's Digital Suite-5 for consumers and business monetization is built natively to run on Kubernetes and is aligned with the Microsoft Azure cloud to drive multi-tenant, multi-region transformations that allow enterprises to lower total-cost-of-ownership (TCO) by eliminating significant upfront investments."
+    excerpt: "Tecnotree, a global provider of Business Support Systems (BSS) for the telecoms industry announces it will provide Digital BSS products built on Microsoft Azure to Digital Service Providers (DSPs). Through this integration,"
     publishedDateTime: 2022-09-20T10:25:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration"
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-9-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
+      name: The Buffalo News
+      domain: buffalonews.com
     quality: 25
 
 secured: "/mmPoUZrmxB2m9pTaAjLEmW0OIoR9/b1HtDFD3+P93pLjVoouYzVnJHdj/Hi47RtsxH6w1gkf3oiQOyPRxLqt+qP52SdfxKTjgAsVPQ8CvYJink+e8D7Cxs8AlPvR5tJ01WmcA4FeRLIM9z/Y7KLjDacj6TxSyvdlZ93jzHzaAGQRo8gpppCWyDbS7Pocq5PADeGAzQ3Jc5+5DAokSe6EPgujvkj19wegEk8m9Ea74+DYNtFH9iL2P2Gj4zszjrKqhK+JmuBpii4HQhp8aUqZtK1Co6i9C31yXjAAKwoCe5t3s3s1FisT4SO67HAin+v0IIaU8fZUqTy00lMJUR1y8zz0j1xEqdxgHqW9AeZCsU=;v3O+IJb0cQiiPH1XFnU0kg=="

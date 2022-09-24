@@ -331,6 +331,40 @@
       ]
     },
     {
+      "path": "_news/2022-09-06-corestack-participates-in-aws-marketplace-vendor-insights-preview.md",
+      "title": "CoreStack Participates in AWS Marketplace Vendor Insights Preview",
+      "excerpt": "AWS Marketplace Vendor Insights helps streamline the procurement process by granting buyers access to evidence made available by sellers related to data privacy and residency, application security, and access control.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/09/06/9667756.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/09/06/9667756.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-06-heres-why-you-should-retain-change-healthcare-chng-stock.md",
       "title": "Here's Why You Should Retain Change Healthcare (CHNG) Stock",
       "excerpt": "Change Healthcare — with a market capitalization of $8.14 billion — is an independent healthcare technology platform offering data and analytics-driven solutions to boost clinical financial and patient engagement outcomes in the United States.",
@@ -1061,49 +1095,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-banned-us-ai-chips-in-high-demand-at-chinese-state-institutes.md",
-      "title": "Banned U.S. AI chips in high demand at Chinese state institutes",
-      "excerpt": "Local peer Advanced Micro Devices Inc (AMD) also said new licence requirements now prevent export to China of its advanced AI chip MI250. The development signalled a major escalation of a U.S ...",
-      "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/analysis-banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes/94024283",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/analysis-banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes/94024283",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-94024283,imgsize-171552,width-1200,height-628,overlay-ettelecom/banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/analysis-banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes/94024283",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/analysis-banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes/94024283",
-      "publishedDateTime": "2022-09-06T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "telecom.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

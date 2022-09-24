@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Tecnotree to Accelerate Digital Transition to the Cloud with Microsoft Azure Integration"
-excerpt: "Tecnotree's Digital Suite-5 for consumers and business monetization is built natively to run on Kubernetes and is aligned with the Microsoft Azure cloud to drive multi-tenant, multi-region transformations that allow enterprises to lower total-cost-of-ownership (TCO) by eliminating significant upfront investments."
+excerpt: "Tecnotree, a global provider of Business Support Systems (BSS) for the telecoms industry announces it will provide Digital BSS products built on Microsoft Azure to Digital Service Providers (DSPs). Through this integration,"
 publishedDateTime: 2022-09-20T10:25:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration"
+originalUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-9-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration"
+webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-9-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: The Buffalo News
+  domain: buffalonews.com
 
 topics:
   - Microsoft AI
@@ -54,13 +54,13 @@ related:
   - title: "Cirrus Link Announces IoT Bridge to Connect OT Data to Microsoft Azure"
     excerpt: "Cirrus Link today announced the availability of the IoT Bridge for Microsoft Azure available on the Azure Marketplace, which connects standard MQTT Sparkplug data models to Azure Digital Twin and updates data changes to Azure Data Explorer for time series data."
     publishedDateTime: 2022-09-20T12:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-9-20-cirrus-link-announces-iot-bridge-to-connect-ot-data-to-microsoft-azure"
+    webUrl: "https://markets.buffalonews.com/buffnews/article/newswire-2022-9-20-cirrus-link-announces-iot-bridge-to-connect-ot-data-to-microsoft-azure"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
+      name: The Buffalo News
+      domain: buffalonews.com
     quality: 34
 
-secured: "bfbZvd6h7DZQOmIkrnS/Kscl3jtLlDRsT2zEfbo0y1dH2Ej5R9gbRW0pZnIlvr4DVqd2OHukY1QAXKZsrYzwbVJwuLGSZxpyvJli7EpdZBIilh7Yp4wdQYNXQ0DCHhE5swEyZ09l6+BEQVP46+V2N/bEHQ6BW7NlFYX0SdkVfxCvq59MKLv+Bj4R91rOOhJjRqMTGxiOWXK9mWGtJ7g3U2ahEZ9xvpO5Oj7YsivlTqNyoWif0Ra+njeowXQOKNYStPjlm0R13HyQrYjPE3yEY7oRqaTwuRQcrriJks751FHmx81abyCE9YnGJR+8L6l0xdMESkeKzuJT83KVSzg4FPwtLl6oWucWaE/LXUhUrwklq/dpSUYhnJSjv8xR6S72C/nSQMh7926JzMxEgNWetoeYPEkjaG9uBsQJWc67RyxWIM15FpERNT9pc5NXQ4XAu6G9W02CTJrwekewSme/7xHZpJI9LGv0rBA1bGeGH+z0Hz46gp9PWQf6oh88xbOvb4JKsBkLn9OGZCp2K+4W8A==;4WkGpinSoKxNCy4iLWzXKw=="
+secured: "mIE5XnKN8Z9Lgtv9qWhzdDEzpYpgZhGL+QRdQ1OXuRj9pkKF3QOJEDT7tg6WSOXw0uxSkjyNMgzpoxjNc2RDSWQcOeH2vpr4KjLt0b2TwPhw1UPfiUbgh3YfTLK2P1HvAAIdwZd5+b9GGpzLv5r4TBOAQ/e/Cn54o8DtQU7MMNr3A8G6VbPK6hHJMEdmzr6GNhldQJSuHhX3afMACSOu9bgzGjhZKhahIhNK1sFKKVLf8GStq7q8y49Mt+7i8zuaStrrxRKPBPsXFZJNxwVXFzsvVsQMcE7wJNv8eU7jVECof4Q3psl8yriTrHTva/+YqenM2Ou3ug0EOkPETgCR6RJr4GwVGnMOeuKLjdOrEJM=;2npaaCkk2Y1wuR1go7yG8g=="
 ---
 

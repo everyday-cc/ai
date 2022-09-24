@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-09-07-how-artificial-intelligence-is-helping-to-restore-works-of-art.md",
-      "title": "How artificial intelligence is helping to restore works of art",
-      "excerpt": "And it is benefitting more and more from the latest technological advances, especially in terms of artificial intelligence. The start-up Oxia Palus is training one such AI to accurately ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbesindia.com/article/lifes/how-artificial-intelligence-is-helping-to-restore-works-of-art/79579/1",
-      "originalUrl": "https://www.forbesindia.com/article/lifes/how-artificial-intelligence-is-helping-to-restore-works-of-art/79579/1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbesindia.com/media/images/2022/Sep/img_193503_artandaibg.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-is-helping-to-restore-works-of-art/79579/1",
-      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-is-helping-to-restore-works-of-art/79579/1",
-      "publishedDateTime": "2022-09-07T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes India",
-        "domain": "forbesindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-07-how-self-service-business-intelligence-is-changing-the-retail-industry.md",
       "title": "How self-service business intelligence is changing the retail industry",
       "excerpt": "THE ARTICLES ON THESE PAGES ARE PRODUCED BY BUSINESS REPORTER, WHICH TAKES SOLE RESPONSIBILITY FOR THE CONTENTS",
@@ -1332,6 +1289,49 @@
       "provider": {
         "name": "Motley Fool Australia",
         "domain": "fool.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-mitsubishi-heavy-rolls-out-driverless-forklifts-in-automation-race.md",
+      "title": "Mitsubishi Heavy rolls out driverless forklifts in automation race",
+      "excerpt": "YOKOHAMA -- Mitsubishi Heavy Industries (MHI) on Thursday started selling driverless forklifts for warehouse operators grappling with rising e-commerce demand coupled with chronic labor shortages ...",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/Business/Technology/Mitsubishi-Heavy-rolls-out-driverless-forklifts-in-automation-race",
+      "originalUrl": "https://asia.nikkei.com/Business/Technology/Mitsubishi-Heavy-rolls-out-driverless-forklifts-in-automation-race",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F8%252F1%252F4%252F4%252F42024418-1-eng-GB%252F20220831-IMG_4071.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ニッケイ・エイジア",
+        "domain": "nikkei.com",
         "images": null,
         "publishers": null,
         "authors": null

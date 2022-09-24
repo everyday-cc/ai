@@ -2,6 +2,57 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2022-08-25-ai-startup-wants-to-make-foreign-call-center-employees-sound-white.md",
+      "title": "AI Startup Wants to Make Foreign Call Center Employees Sound White",
+      "excerpt": "Sanas argues that its technology can be empowering for call center employees by removing bias and limiting misunderstandings during phone conversations. Critics say it's erasure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/ai-startup-wants-to-make-foreign-call-center-employees-sound-white",
+      "originalUrl": "https://www.pcmag.com/news/ai-startup-wants-to-make-foreign-call-center-employees-sound-white",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/05P40am6RlXf9q8pCpYsR1f-1.fit_lim.size_1200x630.v1661442988.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-25-smarter-robots-ai-machine-learning-and-3d-vision.md",
       "title": "Smarter Robots: AI, Machine Learning, and 3D Vision",
       "excerpt": "New systems from ABB, AMT, Pearson Packaging Systems, Schubert, and Shape Process Automation include new Artificial Intelligence features.",
@@ -1122,50 +1173,6 @@
         "AI Ethics",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-financial-companies-look-at-ai-and-machine-learning-to-reduce-cost-kpmg.md",
-      "title": "Financial companies look at AI and machine learning to reduce cost: KPMG",
-      "excerpt": "Banks would need to develop the skill set inhouse or bring in external experts. External subject matter experts can help them benchmark themselves with peer banks around risk management, controls and governance framework enhancements.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/industry/banking/finance/financial-companies-look-at-ai-and-machine-learning-to-reduce-cost-kmpg/articleshow/93760985.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/industry/banking/finance/financial-companies-look-at-ai-and-machine-learning-to-reduce-cost-kmpg/articleshow/93760985.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-68408,msid-93760959/artificial-intelligence_thinkstock.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/industry/banking/finance/financial-companies-look-at-ai-and-machine-learning-to-reduce-cost-kmpg/amp_articleshow/93760985.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/financial-companies-look-at-ai-and-machine-learning-to-reduce-cost-kmpg/amp_articleshow/93760985.cms",
-      "publishedDateTime": "2022-08-24T21:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

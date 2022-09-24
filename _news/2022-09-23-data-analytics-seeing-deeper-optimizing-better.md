@@ -72,15 +72,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 26
-  - title: "Charlotte AI data analytics startup Stratifyd raises another $10M"
-    excerpt: "Eric Healy is the Charlotte-headquartered startup’s new chief executive officer ... The company was founded in 2015 and operates what it calls the Smart AI™ experience and insights platform. The company’s first Fortune 500 customer was Lenovo ..."
-    publishedDateTime: 2022-09-19T13:57:00Z
-    webUrl: "https://wraltechwire.com/2022/09/19/charlotte-ai-data-analytics-startup-stratifyd-raises-another-10m/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 17
 
 secured: "w+RcaVhvLksgFk5nBceXTG7E6PSkp9dRTZDZHNTJrS6KgRv6oAeMX+rgNIxszQRpyL5UUtXsxBIiQnxq8qx+HSmxPW8QJPi9SnMWgmYMIVYziJ0xll55e9XYBWqwJJWW1wvUXNYeTeRBwR78F6VR0c/ZEoA1dIfeVPUs4KXnuT7iAS5sI+mw43MK9XbA3jxD6jWHLvyTXrRdUEweTjI2Wjsc9scGsiVvsvpvadLpEzyBS1L9YQJZtpSCtqriU1P3dB3bqWZZUGCADwFIzEKUTwEr0e5fDn0gB65PO4dq61lBhBi+/1vT+B+XRucewrmyUw/yorbPVjGQny1ffGv8Eps3bnsjWA4WieuXw4Qwwu0Mjh7+SDn4j6X1fVCAr0+0KvPSy2gQwpS6XWWhRUASvBBO8MGoZ4rry7yi9f2Phc0LNeao8tYPNKHnukmBRV/KuJUtJqBmvZx1wXN3wboc58Y1t45kBaNFPhirn7Z08W3YyfzEOmPAuPZz+Z+9ryW5UjwDC8l+jXTQU084+CGR4w==;LrYqasexWFB0AE/PqHX5YA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/09/23/is-ai-really-a-j
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/09/23/is-ai-really-a-job-killer-these-experts-say-no/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

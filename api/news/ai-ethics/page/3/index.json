@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-01-why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-4-of-5.md",
+      "title": "Why Corporate Purpose And AI Ethics Must be A Leadership And Risk Management Priority (Blog 4 Of 5)",
+      "excerpt": "This blog series looks at the meaning of corporate purpose, the importance of AI Ethics, and evolving audit practices internally and externally to improve risk management practices, and advance digital literacy foundations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-4-of-5/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-4-of-5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e6bd39f8e4f0e5ea6d6fd8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-4-of-5/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-4-of-5/amp/",
+      "publishedDateTime": "2022-07-31T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-31-an-engineer-who-was-fired-by-google-says-its-ai-chatbot-is-pretty-racist-and-that-ai-ethics-at-google-are-a-fig-leaf.md",
       "title": "An engineer who was fired by Google says its AI chatbot is 'pretty racist' and that AI ethics at Google are a 'fig leaf'",
       "excerpt": "\"These are just engineers, building bigger and better systems for increasing the revenue into Google with no mindset towards ethics,\" Lemoine told Insider. \"AI ethics is just used as a fig leaf so ...",
@@ -1384,60 +1436,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-metas-no-language-left-behind-ai-can-now-translate-200-languages.md",
-      "title": "Meta's 'No Language Left Behind' AI Can Now Translate 200 Languages",
-      "excerpt": "The translation tool will be put to work on Facebook and Instagram and will also be open source for others to use.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/social-media/metas-no-language-left-behind-ai-can-now-translate-200-languages/",
-      "originalUrl": "https://www.cnet.com/news/social-media/metas-no-language-left-behind-ai-can-now-translate-200-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 398,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/08db5935e4bf42296493609feca5ab5c73e1ad95/2022/06/29/38883dfb-6d93-41cb-88e1-0fbe4233f4b9/nllb-1.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/metas-no-language-left-behind-ai-can-now-translate-200-languages/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/metas-no-language-left-behind-ai-can-now-translate-200-languages/",
-      "publishedDateTime": "2022-07-06T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Natural Language Processing",
-        "Facebook AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 159,
   "value": [
     {
+      "path": "_news/2022-05-24-ethical-ai-how-is-ai-redefining-the-insurance-industry.md",
+      "title": "Ethical AI – How is AI Redefining the Insurance Industry?",
+      "excerpt": "By Antoine de Langlois, Responsible AI Data Scientist at Zelros When Cybersecurity meets Artificial Intelligence, companies and organizations have many new challenges and potential threats to consider.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cyberdefensemagazine.com/ethical-ai-how-is-ai-redefining-the-insurance-industry/",
+      "originalUrl": "https://www.cyberdefensemagazine.com/ethical-ai-how-is-ai-redefining-the-insurance-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cyberdefensemagazine.com/wp-content/uploads/2022/05/Ethical-AI-How-is-AI-Redefining-the-Insurance-Industry.jpg",
+          "width": 697,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T11:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cyber Defense Magazine",
+        "domain": "cyberdefensemagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-05-24-using-artificial-intelligence-to-predict-life-threatening-bacterial-disease-in-dogs.md",
       "title": "Using artificial intelligence to predict life-threatening bacterial disease in dogs",
       "excerpt": "Leptospirosis, a disease that dogs can get from drinking water contaminated with Leptospira bacteria, can cause kidney failure, liver disease and severe bleeding into the lungs. Early detection of the disease is crucial and may mean the difference between life and death.",
@@ -1064,49 +1107,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-blue-turtle-takes-wrapper-off-ai-driven-soc-offering-at-itweb-security-summit.md",
-      "title": "Blue Turtle takes wrapper off AI-driven SOC offering at ITWeb Security Summit",
-      "excerpt": "Blue Turtle will showcase its vendors and its AI-driven approach to the SOC from 31 May to 2 June at the Sandton Convention Centre.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/dgp45vaBLwx7X9l8",
-      "originalUrl": "https://www.itweb.co.za/content/dgp45vaBLwx7X9l8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/wGgGctulHEBVzx37jO0KxYB0BWjcQ-YFwWyRc4BHpSWZbl6qq5cUC2hkHjAmi92U_5jQ_JBJGscghGXF9jjfFOX_yl9oNSktqc1C=w816-h428",
-          "width": 816,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/dgp45vaBLwx7X9l8",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/dgp45vaBLwx7X9l8",
-      "publishedDateTime": "2022-05-23T02:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

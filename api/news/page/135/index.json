@@ -2,6 +2,49 @@
   "page": 135,
   "value": [
     {
+      "path": "_news/2022-06-09-self-driving-cars-are-not-yet-safe.md",
+      "title": "Self-Driving Cars Are Not (Yet) Safe",
+      "excerpt": "Three things have happened in the last month that have made me think about the safety of self-driving cars a lot more. The US Department of Transportation (DOT) has issued its guidance on the ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2016/12/05/self-driving-cars-are-not-yet-safe/",
+      "originalUrl": "https://hackaday.com/2016/12/05/self-driving-cars-are-not-yet-safe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2016/12/autopilot.jpg",
+          "width": 3000,
+          "height": 1815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-shakira-says-her-father-is-home-following-hospital-stay-practices-cognitive-stimulation-with-him.md",
       "title": "Shakira Says Her Father Is Home Following Hospital Stay, Practices 'Cognitive Stimulation' with Him",
       "excerpt": "The three-time Grammy Award winner showed the pair practicing some \"cognitive stimulation\" at home as she stood opposite him with large note cards with words in Spanish for him to read aloud.",
@@ -1081,40 +1124,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-better-therapeutics-announces-issuance-of-us-patent-covering-key-features-of-their-prescription-digital-therapeutics-platform.md",
-      "title": "Better Therapeutics Announces Issuance of U.S. Patent Covering Key Features of Their Prescription Digital Therapeutics Platform",
-      "excerpt": "Better Therapeutics, Inc. (NASDAQ: BTTX), a prescription digital therapeutics (PDT) company developing nutritional cognitive behavioral therapy (nCBT) to address the root causes of cardiometabolic diseases,",
-      "sourceUrl": null,
-      "webUrl": "https://www.valdostadailytimes.com/news/business/better-therapeutics-announces-issuance-of-u-s-patent-covering-key-features-of-their-prescription-digital/article_1b1a3b59-7cf6-53d5-b989-9b8f4b5f977c.html",
-      "originalUrl": "https://www.valdostadailytimes.com/news/business/better-therapeutics-announces-issuance-of-u-s-patent-covering-key-features-of-their-prescription-digital/article_1b1a3b59-7cf6-53d5-b989-9b8f4b5f977c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Valdosta Daily Times",
-        "domain": "valdostadailytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

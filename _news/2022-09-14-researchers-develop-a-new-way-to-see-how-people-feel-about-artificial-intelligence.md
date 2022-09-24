@@ -1,48 +1,26 @@
 ---
 category: news
-title: "Researchers develop a new way to see how people feel about artificial intelligence"
-excerpt: "People in Japan, the U.S. and Germany show different concerns regarding artificial intelligence (AI) being used in entertainment, shopping services, or to help find criminals, reports a new study in AI and Ethics."
-publishedDateTime: 2022-09-14T14:17:00Z
-originalUrl: "https://techxplore.com/news/2022-09-people-artificial-intelligence.html"
-webUrl: "https://techxplore.com/news/2022-09-people-artificial-intelligence.html"
-ampWebUrl: "https://techxplore.com/news/2022-09-people-artificial-intelligence.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-people-artificial-intelligence.amp"
+title: "Researchers develop a new way to see how people feel about Artificial Intelligence"
+excerpt: "Japanese people tend to be more concerned about using AI to fight crime, while Germans and Americans tended to report more concern over the ethical and social aspects of using AI in entertainment, reports a new paper that asked people in Japan,"
+publishedDateTime: 2022-09-14T00:00:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/964657"
+webUrl: "https://www.eurekalert.org/news-releases/964657"
 type: article
-quality: 55
-heat: 65
-published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
-  - AI
   - AI Ethics
-  - AI in Autos
+  - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/researchers-develop-a-15.jpg"
-    width: 1100
-    height: 801
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/b7500d9c-5174-41eb-b4d8-7bcc64d98a7e/Rendition/thumbnail/Content/Public"
+    width: 300
+    height: 218
     isCached: true
 
-related:
-  - title: "Sprout.ai hires chief people officer"
-    excerpt: "Sprout.ai, fast-growth technology firm automating claims automation for insurers, has appointed Hannah Atack as its new chief people officer."
-    publishedDateTime: 2022-09-15T08:00:00Z
-    webUrl: "https://employeebenefits.co.uk/sprout-ai-hires-chief-people-officer/"
-    type: article
-    provider:
-      name: Employee Benefits
-      domain: employeebenefits.co.uk
-    quality: 37
-    images:
-      - url: "https://employeebenefits.co.uk/content/uploads/2022/09/HannahAtack.jpg"
-        width: 700
-        height: 450
-        isCached: true
-
-secured: "q71LfTmKuFOSK6ejrgq80/Tturt/bV3VqlAJ6CVxiPBGBff+wSmh00aDzKskbJVN1MEdZGVTZB02QXfyKgFk3H5e2ZsR0+Gfe0DhhetdivUPXWd/xPKE2LP7ofpjn5/0baeqpTv9qawzAaQ7NlXDmATDoeqqpAMJm4mCH5Jp+y1hdYPSxsHOZF5EUqeDsEc3DPtUIrs0rv1/0dthhztlFETd/Flz77HF+nIXSM237fbujflVXb3gdsQO1bqiv+wjkunrRaN5DadQN+1QlKlpyxInFv6R2UIM5+tY12kD8NMdTywTryxT5ejBeESLYCZ9lrm3dHrxvN7p5gdalIA4ABCVz99xwv6x28tpq/XofOjlLO5Pf3RYzzdUoHkSg/Jgwke2N+gik/Xw9/QuBpQijC0uyZuP49Bwpbdl8a+BnuZRgA55DDhB4HwYm/zgxZqfV84YUXxq9J/oZkia07bVy7vjMWUlaNZ1L716m6SDBVrR+anqYKg605MHzIaOB2UUGmaK0Bctdj7g0Fm29iIeEQ==;FmLx01IWcQM01S9CNffk1w=="
+secured: "5tg6CHQUv+L1Gc6ACOW5vU+OdgPCyFrz8EMF+3X8zpxDCT5tg0P40QU+mKuRn7NGCb4YMToZtIwSRVQzp27CrDTzDRnl+rEgcs98HNTaWqOjSfag3s6wrs6GCrM5O7rIZ9iW3T7YpanIYcrotpKisyZyuX3ouuq+eIXXS7ejocmIFNvsy0s8fXVYCCgNLSrYkGti02Z1tiZntGa/gnAbZT/F4BfCnsTgKZR5mJSWLEMweQP2PE4ap2S4FxrPzQu1XrRY6ui3tPNhhkaS9wJIX4dN7K8QAZShyKkpXGvhGw+tzYFWcT2Tkp5QVp4wlq4Q9ZEmSo/ioPn1DWZeAjduAdDBuIZ6NlLcd6irKL0h708=;Sl/ON3y0+lYdkmrBqkld6w=="
 ---
 

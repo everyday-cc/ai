@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/from-analog-to-digital.jpg"

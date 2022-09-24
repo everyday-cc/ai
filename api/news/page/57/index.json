@@ -2,6 +2,49 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2022-08-08-from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing.md",
+      "title": "From AI to voice search, how new-age innovations are defining the future of digital marketing",
+      "excerpt": "The advent of 4G, introduction of smartphones and an increased internet penetration heralded the early signs of transition in the Indian retail ecosystem. But, even as technology changed the buying behavior of the customers,",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/Akhil.png",
+          "width": 434,
+          "height": 474,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing/",
+      "publishedDateTime": "2022-08-07T21:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-08-08-baidu-wins-approval-for-chinas-first-full-driverless-taxis.md",
       "title": "Baidu wins approval for China’s first full driverless taxis",
       "excerpt": "Baidu, which operated China’s largest search engine, is transitioning to artificial intelligence and self-driving cars after its core advertising revenue shrank in the mobile era | Photo Credit: ALY SONG The tech giant has secured permits to operate robotaxis in Wuhan and Chongqing,",
@@ -1071,57 +1114,6 @@
         "name": "The Hindu",
         "domain": "thehindu.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-customer-and-employee-experience-mistakes-to-avoid-and-how-ai-can-help.md",
-      "title": "Customer and employee experience mistakes to avoid and how AI can help",
-      "excerpt": "Pushing boundaries, using AI and letting go of legacy systems can have a significant impact on customer and employee experience.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/08/06/customer-and-employee-experience-mistakes-to-avoid-and-how-ai-can-help/",
-      "originalUrl": "https://venturebeat.com/2022/08/06/customer-and-employee-experience-mistakes-to-avoid-and-how-ai-can-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/business_challenge.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/08/06/customer-and-employee-experience-mistakes-to-avoid-and-how-ai-can-help/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/06/customer-and-employee-experience-mistakes-to-avoid-and-how-ai-can-help/amp/",
-      "publishedDateTime": "2022-08-06T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

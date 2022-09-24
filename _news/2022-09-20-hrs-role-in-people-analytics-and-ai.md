@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -67,15 +67,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 26
-  - title: "Charlotte AI data analytics startup Stratifyd raises another $10M"
-    excerpt: "Eric Healy is the Charlotte-headquartered startup’s new chief executive officer ... The company was founded in 2015 and operates what it calls the Smart AI™ experience and insights platform. The company’s first Fortune 500 customer was Lenovo ..."
-    publishedDateTime: 2022-09-19T13:57:00Z
-    webUrl: "https://wraltechwire.com/2022/09/19/charlotte-ai-data-analytics-startup-stratifyd-raises-another-10m/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 17
   - title: "Data analytics: Seeing deeper, optimizing better"
     excerpt: "Just as updating eyeglass prescriptions bring the world into sharper focus, longstanding data analytics solutions can be extended by new and more digitalized tools that identify details and opportunities that weren’t visible before."
     publishedDateTime: 2022-09-23T12:57:00Z

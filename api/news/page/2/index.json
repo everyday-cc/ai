@@ -451,49 +451,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-22-2022-buffalo-humanities-festival-life-in-the-age-of-artificial-intelligence.md",
-      "title": "2022 Buffalo Humanities Festival: Life (in the Age of Artificial Intelligence)",
-      "excerpt": "A festival of ideas with an evening of gameplay and 2 days of community talks With each passing day, we are discovering how artificial intelligence (AI) is ever-present in our",
-      "sourceUrl": null,
-      "webUrl": "https://www.buffalorising.com/2022/09/2022-buffalo-humanities-festival-life-in-the-age-of-artificial-intelligence/",
-      "originalUrl": "https://www.buffalorising.com/2022/09/2022-buffalo-humanities-festival-life-in-the-age-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.buffalorising.com/wp-content/uploads/2022/09/ae6d1412-487a-76d8-5fc4-833b6dab284e.png",
-          "width": 1200,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.buffalorising.com/2022/09/2022-buffalo-humanities-festival-life-in-the-age-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-buffalorising-com.cdn.ampproject.org/c/s/www.buffalorising.com/2022/09/2022-buffalo-humanities-festival-life-in-the-age-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-09-21T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Buffalo Rising",
-        "domain": "buffalorising.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-22-microsofts-october-12-surface-launch-whats-on-tap.md",
       "title": "Microsoft's October 12 Surface launch: What's on tap",
       "excerpt": "Surface launch event now has an official date but not a lot of other hints. Expectations are there could be a couple of Arm-based devices unveiled.",
@@ -1246,6 +1203,59 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-nvidia-unveils-drive-thor-one-chip-to-rule-all-software-defined-vehicles.md",
+      "title": "Nvidia unveils Drive Thor, one chip to rule all software-defined vehicles",
+      "excerpt": "Nvidia revealed a next-generation automotive-grade chip that will unify a wide-range of in-car technology and go into production in 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/20/nvidia-unveils-drive-thor-one-chip-to-rule-all-software-defined-vehicles/",
+      "originalUrl": "https://techcrunch.com/2022/09/20/nvidia-unveils-drive-thor-one-chip-to-rule-all-software-defined-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/DRIVE-Thor-GTC-Fall-22.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/20/nvidia-unveils-drive-thor-one-chip-to-rule-all-software-defined-vehicles/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/20/nvidia-unveils-drive-thor-one-chip-to-rule-all-software-defined-vehicles/amp/",
+      "publishedDateTime": "2022-09-20T16:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

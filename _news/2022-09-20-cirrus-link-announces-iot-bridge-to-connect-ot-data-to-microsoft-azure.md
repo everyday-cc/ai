@@ -3,16 +3,16 @@ category: news
 title: "Cirrus Link Announces IoT Bridge to Connect OT Data to Microsoft Azure"
 excerpt: "Cirrus Link today announced the availability of the IoT Bridge for Microsoft Azure available on the Azure Marketplace, which connects standard MQTT Sparkplug data models to Azure Digital Twin and updates data changes to Azure Data Explorer for time series data."
 publishedDateTime: 2022-09-20T12:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-9-20-cirrus-link-announces-iot-bridge-to-connect-ot-data-to-microsoft-azure"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-9-20-cirrus-link-announces-iot-bridge-to-connect-ot-data-to-microsoft-azure"
+originalUrl: "https://markets.buffalonews.com/buffnews/article/newswire-2022-9-20-cirrus-link-announces-iot-bridge-to-connect-ot-data-to-microsoft-azure"
+webUrl: "https://markets.buffalonews.com/buffnews/article/newswire-2022-9-20-cirrus-link-announces-iot-bridge-to-connect-ot-data-to-microsoft-azure"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: The Buffalo News
+  domain: buffalonews.com
 
 topics:
   - Microsoft AI
@@ -52,15 +52,15 @@ related:
         height: 313
         isCached: true
   - title: "Tecnotree to Accelerate Digital Transition to the Cloud with Microsoft Azure Integration"
-    excerpt: "Tecnotree's Digital Suite-5 for consumers and business monetization is built natively to run on Kubernetes and is aligned with the Microsoft Azure cloud to drive multi-tenant, multi-region transformations that allow enterprises to lower total-cost-of-ownership (TCO) by eliminating significant upfront investments."
+    excerpt: "Tecnotree, a global provider of Business Support Systems (BSS) for the telecoms industry announces it will provide Digital BSS products built on Microsoft Azure to Digital Service Providers (DSPs). Through this integration,"
     publishedDateTime: 2022-09-20T10:25:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration"
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-9-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
+      name: The Buffalo News
+      domain: buffalonews.com
     quality: 25
 
-secured: "k0bK8zL7XgJFHkzLH+DhJ2w3vhK/JUgZhIgjhPegGgFiIAUVPXJBl95P4sMwyketxf0aCDQ1HNMuX4VjhJur824T/rBVuOgECjzHncOIgj6nwunEWSyeJD3opvedOwyTRG8lS8CMWVUTceMEDx2Jx17PKBaCpHzG/ZrqFl/P5fQ0dJamZpFwUS5FHjAPjR7BjSkfqsQJPepcbhFwRttSu2y+QQUrjjWQbb390Gydpr2y3uRjmrsSFRLD4TLYRC5cj7xxqACiBbk/pz2AcmK59a08g/hE9hyXxdXivlaHbSC/PMCo643grXRHDMFps6CfgPu1s7sdJoFJQ2dUUl2gYzMcK9CAxBz73msD1/6ra70=;0s2qcHLGzhhTc/qrLvBuFg=="
+secured: "8kUyZ3mgAaULkrXvv5oUGjsnCNw6R7EsdjlPvUmy0qhiqX+fJ0bLQqTFkG3nseIza41M66UFAOKxFG9q4ivDv6g7SNipM7PvsYDBKpcgqlMyeCNLX8tjgsUVWUwrlN9Ll9c41nurm6u8jJkADDp3Fvt1pUxsRuVbVmykpgaim9r6HNyXAMp+Bl8Jrjx/5KUANaQdq7MEya2ZZG2JLvl1s1hj3fg3UxDPwQOqpM1HVoONi1QYGTZyKO+qv+vswoXLbx8BrrwDFVVt4tFj277cbN2hnOm1KZ1XI5ZJM3axVXGLXVmt0sXK1VKi8WmGOBpoTej3phocX260YiPblmiTvRgQeVvbCpxLu+oqQRk7V+I=;p9pAL1h/TpBHkiSWy6quzA=="
 ---
 

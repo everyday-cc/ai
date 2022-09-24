@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-06-16-operationalizing-ethical-ai-from-the-c-suite-to-the-data-pipeline.md",
+      "title": "Operationalizing Ethical AI: From The C-Suite To The Data Pipeline",
+      "excerpt": "Now that these technologies have become more commonplace, business leaders should turn much of their focus instead on how they use and manage AI and related training data to ensure that it’s consistent with other aspects of ethical business operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/16/operationalizing-ethical-ai-from-the-c-suite-to-the-data-pipeline/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/16/operationalizing-ethical-ai-from-the-c-suite-to-the-data-pipeline/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//619e3fbd3682ccac09ae4a3e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/16/operationalizing-ethical-ai-from-the-c-suite-to-the-data-pipeline/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/16/operationalizing-ethical-ai-from-the-c-suite-to-the-data-pipeline/amp/",
+      "publishedDateTime": "2022-06-16T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-why-you-need-an-ai-ethics-committee.md",
       "title": "Why You Need an AI Ethics Committee",
       "excerpt": "An AI ethics committee can identify and mitigate the ethical risks of AI products that are developed in-house or procured from third-party vendors. In 2019 a study published in the journal Science ...",
@@ -1396,50 +1448,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-google-leads-in-negative-media-perception-around-ai-ethics.md",
-      "title": "Google Leads In Negative Media Perception Around AI, Ethics",
-      "excerpt": "The marketplace for artificial intelligence is worth billions ... Nvidia with 202, Baidu with 144, Waymo with 90, C3.ai with 87, Tesla with 68, Argo AI with 39, Cruise Automation with 26, and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/374162/google-leads-in-negative-media-perception-around-a.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/374162/google-leads-in-negative-media-perception-around-a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2022/05/24/googlehq_alAC7dL.jpg",
-          "width": 600,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

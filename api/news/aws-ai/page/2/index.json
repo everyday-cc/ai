@@ -471,6 +471,40 @@
       ]
     },
     {
+      "path": "_news/2022-09-06-corestack-participates-in-aws-marketplace-vendor-insights-preview.md",
+      "title": "CoreStack Participates in AWS Marketplace Vendor Insights Preview",
+      "excerpt": "AWS Marketplace Vendor Insights helps streamline the procurement process by granting buyers access to evidence made available by sellers related to data privacy and residency, application security, and access control.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/09/06/9667756.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/09/06/9667756.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-06-five-aussie-startups-and-firms-receiving-major-cash-injections-despite-the-tech-downfall.md",
       "title": "Five Aussie startups and firms receiving major cash injections despite the tech downfall",
       "excerpt": "Despite the many unfortunate cases of layoffs and closures, it turns out there are still cash injections about in the tech investment scene.",
@@ -1400,58 +1434,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-build-a-multi-lingual-document-translation-workflow-with-domain-specific-and-language-specific-customization.md",
-      "title": "Build a multi-lingual document translation workflow with domain-specific and language-specific customization",
-      "excerpt": "In the digital world, providing information in a local language isn’t novel, but it can be a tedious and expensive task. Advancements in machine learning (ML) and natural language processing (NLP) have made this task much easier and less expensive. We have seen increased adoption of ML for multi-lingual",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-lingual-document-translation-workflow-with-domain-specific-and-language-specific-customization/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-lingual-document-translation-workflow-with-domain-specific-and-language-specific-customization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/25/multi-lingual-document-translation.jpg",
-          "width": 1533,
-          "height": 762,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

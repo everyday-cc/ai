@@ -2,6 +2,40 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2022-08-12-johnson-controls-ai-enhanced-openblue-platform-cuts-microsofts-beijing-campus-energy-footprint.md",
+      "title": "Johnson Controls AI-enhanced OpenBlue Platform Cuts Microsoft's Beijing Campus Energy Footprint",
+      "excerpt": "OpenBlue suite of connected solutions plays a key role in achieving lean campus management with higher energy efficiency and better user experience Professional service brings more than 98% uptime of key equipment and increase the level of operational automation SHANGHAI,",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1270988&cat=PR News Wire",
+      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1270988&cat=PR News Wire",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-11T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-11-build-an-air-quality-anomaly-detector-using-amazon-lookout-for-metrics.md",
       "title": "Build an air quality anomaly detector using Amazon Lookout for Metrics",
       "excerpt": "Today, air pollution is a familiar environmental issue that creates severe respiratory and heart conditions, which pose serious health threats. Acid rain, depletion of the ozone layer, and global warming are also adverse consequences of air pollution. There is a need for intelligent monitoring and automation",
@@ -1102,57 +1136,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-aramcos-prosperity7-powers-ai-drug-firm-insilicos-95m-round.md",
-      "title": "Aramco’s Prosperity7 powers AI drug firm Insilico’s $95M round",
-      "excerpt": "Hong Kong-based drug discovery and development company Insilico has secured fresh capital at a time that its CEO described as a “biotech winter.” The firm has raised $35 million on the heels of its last tranche in June,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/10/aramcos-prosperity7-ai-drug-insilicos/",
-      "originalUrl": "https://techcrunch.com/2022/08/10/aramcos-prosperity7-ai-drug-insilicos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/Screenshot-2022-08-11-at-10.41.19-AM.png?w=1024",
-          "width": 1022,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/10/aramcos-prosperity7-ai-drug-insilicos/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/10/aramcos-prosperity7-ai-drug-insilicos/amp/",
-      "publishedDateTime": "2022-08-10T19:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

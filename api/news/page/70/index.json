@@ -2,6 +2,58 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2022-07-28-keenon-robotics-celebrates-brand-day-with-triple-surprise.md",
+      "title": "KEENON Robotics Celebrates Brand Day With Triple Surprise",
+      "excerpt": "KEENON Brand Day is designed to show thankfulness and bring three major upgrades to its consistently supportive clients all over the globe. KEENON knows that it is the trust of customers and competitive core-technology that make a company everlasting.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/keenon-robotics-celebrates-brand-day-with-triple-surprise-1031626323",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/keenon-robotics-celebrates-brand-day-with-triple-surprise-1031626323",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1867128/KEENON_Brand_Day.jpg",
+          "width": 400,
+          "height": 202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-artificial-intelligence-in-healthcare-market-to-reach-usd-1944-billion-by-2030-at-a-cagr-of-381-valuates-reports.md",
       "title": "Artificial Intelligence in Healthcare Market To Reach USD 194.4 Billion By 2030 at a CAGR of 38.1% - Valuates Reports",
       "excerpt": "Artificial Intelligence in Healthcare Market by Offering (Software, Hardware, & Services), Algorithm (Deep Learning, Querying Method,",
@@ -1119,58 +1171,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-content-analytics-discovery-and-cognitive-software-market-with-current-and-future-growth-analysis-by-forecast-from-2022-to-2030.md",
-      "title": "Content Analytics, Discovery and Cognitive Software Market With Current and Future Growth Analysis by Forecast From 2022 to 2030",
-      "excerpt": "Jul 28, 2022 (Alliance News via COMTEX) -- New York (US) - Key Companies Covered in the Content Analytics, Discovery and Cognitive Software Market Research are IBM, Microsoft Corporation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/content-analytics-discovery-and-cognitive-software-market-with-current-and-future-growth-analysis-by-forecast-from-2022-to-2030-2022-07-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/content-analytics-discovery-and-cognitive-software-market-with-current-and-future-growth-analysis-by-forecast-from-2022-to-2030-2022-07-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T18:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

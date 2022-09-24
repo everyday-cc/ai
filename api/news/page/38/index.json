@@ -2,6 +2,57 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2022-08-23-inclusive-design-will-help-create-ai-that-works-for-everyone.md",
+      "title": "Inclusive design will help create AI that works for everyone",
+      "excerpt": "An international expert on gender in science and technology discusses tools she developed to help professionals build more inclusive AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/inclusive-design-will-help-create-ai-that-works-for-everyone/",
+      "originalUrl": "https://venturebeat.com/ai/inclusive-design-will-help-create-ai-that-works-for-everyone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1206796363-e1654038927332.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/inclusive-design-will-help-create-ai-that-works-for-everyone/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/inclusive-design-will-help-create-ai-that-works-for-everyone/amp/",
+      "publishedDateTime": "2022-08-22T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-23-deep-learning-market-will-reach-a-valuation-of-over-usd-3143-bn-towards-2032-end-marketus.md",
       "title": "Deep Learning Market Will Reach a Valuation of over USD 31.43 Bn towards 2032-end: Market.us",
       "excerpt": "The deep learning market had value USD 31.43 billion in 2021, It is projected to increase at a CAGR of 34.2%. This study uses 2021 as the base year. The forecast period runs from 2022 through 2032.",
@@ -1106,40 +1157,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-time-for-business-to-put-humanity-into-ai-automation-plans.md",
-      "title": "Time for business to put humanity into AI automation plans",
-      "excerpt": "We hear a fair amount about “ethical” artificial intelligence, which can often lead into fascinating, but subjective debates about generalities, but as someone who works with companies across ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.afr.com/technology/time-for-business-to-put-humanity-into-their-automation-plans-20220820-p5bbdf",
-      "originalUrl": "https://www.afr.com/technology/time-for-business-to-put-humanity-into-their-automation-plans-20220820-p5bbdf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian Financial Review",
-        "domain": "afr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

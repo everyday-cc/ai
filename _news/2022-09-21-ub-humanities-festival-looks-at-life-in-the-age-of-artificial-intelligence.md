@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 555
         isCached: true
-  - title: "UB Humanities Institute’s annual festival looks at Life in the Age of Artificial Intelligence"
-    excerpt: "The University at Buffalo Humanities Institute (HI) will present the 2022 Humanities Festival Sept. 23-25, a free event exploring the theme of “Life in the Age of Artificial Intelligence."
-    publishedDateTime: 2022-09-19T14:14:00Z
-    webUrl: "https://www.buffalo.edu/news/releases/2022/09/020.html"
-    type: article
-    provider:
-      name: Medicine Buffalo
-      domain: buffalo.edu
-    quality: 26
-    images:
-      - url: "https://www.buffalo.edu/content/shared/university/news/news-center-releases/2022/09/020/_jcr_content/teaser.img.512.auto.png/1663596713544.png"
-        width: 512
-        height: 301
-        isCached: true
 
 secured: "3uNsFreiTrXEDb2XbXWe+OfLK5VMIrZ4tZFG1t0h/A2c1ivEKCXsBd2qgK9Oc3G5xvBMCg+Anb6p+imMdS/zfVkpC65wgYqDu7JoT8mSOnTALLSFEFdnQJW564DTEIBN2x+r4noDJRxsQ3dAVJLa+oZ8l8AHDWb2T23YoCNEFFryeheBkT08pLh9BIOtd5InEXUCKYba4xBFrVWq8zcpoT4n7PbrlJYaG39KU6tmzZfUFm6KNHAHJHkyag3QQ6yt+7WkS3AiascmZMS/MbwnkZtri0o+Z8tbXoRE+gdW+MiF6VfR7qIJJeiybxQgDXHT0ns1UVbeI8uK8zXYYSgAzD52iqOyQP1ssRff6lgBI7AEutnU817AVme5xjhBsIiiJY2rDLzoEOimZWZT4mgV+qt8GiYJ0Edejh7T4ec/nWH60rvxmdlybULzerBAtM/tPlsi4XDRstVMHtXRn0ptAx6061sjHa0yb2uyiVD2VotsH20ikn3HJyy5HJDvE3qZU1b+WmIrAQflUWp2o4dqgA==;ANHgETF0ZM/Se/fqF6Ziow=="
 ---

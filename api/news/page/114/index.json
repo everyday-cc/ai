@@ -2,6 +2,58 @@
   "page": 114,
   "value": [
     {
+      "path": "_news/2022-06-23-octoml-ceo-mlops-needs-to-step-aside-for-devops.md",
+      "title": "OctoML CEO: MLOps needs to step aside for DevOps",
+      "excerpt": "\"We can just use DevOps, but for that you need to be able to treat the machine learning model as if it was any other piece ... include a myriad of public cloud instances from AWS, GCP, and Azure, and support for different versions of CPU — x86 and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/octoml-ceo-mlops-needs-to-step-aside-for-devops/",
+      "originalUrl": "https://www.zdnet.com/article/octoml-ceo-mlops-needs-to-step-aside-for-devops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/4d0122e4a74805d60dbb2ca4c144c384e2614cd1/2022/06/22/7737a930-cfce-4096-acaa-603eda8d30af/luis-ceze-octoml-2022.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "width": 1200,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/octoml-ceo-mlops-needs-to-step-aside-for-devops/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/octoml-ceo-mlops-needs-to-step-aside-for-devops/",
+      "publishedDateTime": "2022-06-22T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-global-gene-therapy-market-report-to-2031-players-include-novartis-bluebird-bio-spark-therapeutics-and-cellectis-researchandmarketscom.md",
       "title": "Global Gene Therapy Market Report to 2031 - Players Include Novartis, Bluebird Bio, Spark Therapeutics and Cellectis - ResearchAndMarkets.com",
       "excerpt": "The \"Gene Therapy Global Market Report 2022, Vector, Application, End Users\" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior management with the critical information they need to assess the global gene therapy market.",
@@ -1042,49 +1094,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-unit-221b-report-validates-deep-instincts-99-zero-day-and-01-false-positive-threat-prevention-accuracy.md",
-      "title": "Unit 221B Report Validates Deep Instinct’s >99% Zero-Day and <0.1% False Positive Threat Prevention Accuracy",
-      "excerpt": "Deep Instinct, the first company to apply end-to-end deep learning to cybersecurity, today announced validation of its threat prevention capabilities by cybersecurity firm Unit 221B. The claims were validated through tests in categories including portable,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-b9f71fd978224e2c92e475999bbb3470",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-b9f71fd978224e2c92e475999bbb3470",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

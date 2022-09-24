@@ -2,6 +2,42 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2022-08-30-us-startup-simaai-starts-shipping-machine-learning-chip-and-system.md",
+      "title": "U.S. startup SiMa.ai starts shipping machine learning chip and system",
+      "excerpt": "Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to customers that are testing them, an important step for mass production. We apologize ...",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system",
+      "originalUrl": "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/",
+      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/",
+      "publishedDateTime": "2022-08-30T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-innovative-payment-solutions-introduces-voice-command-function-for-ipsipay-app-through-collaboration-with-conversational-ai-technology-provider.md",
       "title": "Innovative Payment Solutions Introduces Voice Command Function for IPSIPay App Through Collaboration with Conversational AI Technology Provider DRUID",
       "excerpt": "William Corbett, IPSI’s Chairman and Chief Executive Officer, commented, “We believe our new collaboration with DRUID will dramatically enhance the functionality of our IPSIPay App, enabling users to execute remittances and other transactions,",
@@ -1099,51 +1135,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-will-robots-take-your-job-how-artificial-intelligence-will-change-the-future-of-work.md",
-      "title": "Will Robots Take Your Job? How Artificial Intelligence Will Change the Future of Work",
-      "excerpt": "Artificial intelligence is already affecting nearly every workplace in the country. Here's how the future of AI may shape the workplace of tomorrow. When most people think of artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.rd.com/article/future-of-ai/",
-      "originalUrl": "https://www.rd.com/article/future-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rd.com/wp-content/uploads/2022/08/RD-robots-taking-jobs-GettyImages-1356768388-578183815-JVedit.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reader's Digest",
-        "domain": "rd.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI",
-        "AI in Robotics"
       ]
     }
   ],

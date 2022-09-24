@@ -2,12 +2,14 @@
 category: news
 title: "Dogs and Humans Interpret What They See Differently"
 excerpt: "Naturalistic video clips from a dog's point of view were shown to dogs undergoing fMRI brain scans. Artificial neural network programming was used to analyze how the brains of humans and dogs process visual inputs."
-publishedDateTime: 2022-09-20T13:33:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently"
-webUrl: "https://www.psychologytoday.com/us/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently"
+publishedDateTime: 2022-09-20T14:11:00Z
+originalUrl: "https://www.psychologytoday.com/intl/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently"
+webUrl: "https://www.psychologytoday.com/intl/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently?amp"
 type: article
-quality: 4
-heat: 4
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -18,6 +20,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "wqyzoMheGSwO+ZLzt7Q/Bjnd1OjuIqgQYJtx1ZmEMA1JNq/I6xzTOnKVsXMC3WDNLpxtsaL785CNAW7qQMETgCoT0Z9lNhdTJYybvA3M1NQhfIKvZUdn7A/DtCR3x6KPTs1ZesiL2tFsEZkVeb5pyRgqJEqXGMG06Oj1z0JNyE7cVMvuXxw24lbJYmj63z/A3HL5qnnxlopwE8s1MhwHnnhyXQ4wzG1o1381yRTRunms6WbYdj4RL7GraJLYtj3xdaQTtT8wlkAKljF0oa9WSRxArDlaURpoxR30THowaz3o70+M+9lGOKOOoYkIqCFcZrEGiVDCb3fbtJyWdREcRQ7BlpfmoRDuMi7wGOWJXWcScKe4BDCUYrxnGpt/s+WkZlpvIDkhLoI8VtB+YcwE1iN4uX1u8vj9+jiDYzuDLpUT41wqXHRZD3MVTxQQvmiT716CW36hgfSBbThnOw1ParEVN4K+VQL7/Cq1fZsND0vwf4+acGTBPmEOu4Fpd0iNpp1oxUOIaNtJWVTI+81ocQ==;8VJuefp7b0tBvJaiEARk/g=="
+images:
+  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-09/brain_scan.jpg?itok=XgF-NOdq"
+    width: 1528
+    height: 800
+    isCached: true
+
+secured: "9D0iMZVNe/B8o3bahjA7lGc2uiO4/km+5Cho7Vj7368OjDDoJJZBurOWlsu1Tce8SWMEFxTZwq5nNTTFeXW34udk2huehfscwRulzWF5ij9qf2U1Cl8Nek/TbcAhijmTbWVPrk167LhOnNeB5Pgwwila7107Z556L4+mkwssEi5K3mJj/i93egy0QpfxDHT5JUSVrqCxGN+4uJw3fp/xSx7VrOG1YwjPekvRRntNXZS6jjYdy5SzH3K99TXT+ug0f6wZNZ8tmGJ1nSA8CMPrKNvg/8bDDS4Fe4xyeUgUHD0EJ3OWGvDvjYa+4mxry2cANEL15+qKN1CqeiRVig4wVZrSIMELthRboJygN2aeJHs=;wxyivCBeda3wX0+zKF4q2g=="
 ---
 
