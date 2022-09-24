@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Nvidia unveils new gaming chip with AI features, taps TSMC for manufacturing"
-excerpt: "Nvidia Corp on Tuesday (Sep 20) announced new flagship chips for video gamers that use artificial intelligence (AI) to enhance graphics, saying it has tapped Taiwan Semiconductor Manufacturing Co ..."
-publishedDateTime: 2022-09-20T16:15:00Z
-originalUrl: "https://www.channelnewsasia.com/business/nvidia-unveils-new-gaming-chip-ai-features-taps-tsmc-manufacturing-2952251"
-webUrl: "https://www.channelnewsasia.com/business/nvidia-unveils-new-gaming-chip-ai-features-taps-tsmc-manufacturing-2952251"
+title: "Nvidia Unveils New Gaming Chip With AI Features, Taps TSMC for Manufacturing"
+excerpt: "Nvidia Unveils New Gaming Chip With AI Features, Taps TSMC for Manufacturing By Stephen Nellis (Reuters) - Nvidia Corp on Tuesday announced new flagship chips for video gamers that use artificial ..."
+publishedDateTime: 2022-09-20T15:38:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2022-09-20/nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing"
+webUrl: "https://www.usnews.com/news/top-news/articles/2022-09-20/nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing"
 type: article
-quality: 51
-heat: 51
+quality: 61
+heat: 61
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--GpwA4avE--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-09-20t155424z_1_lynxmpei8j0vk_rtroptp_3_nvidia-gaming.jpg?itok=LwDX2TWJ"
-    width: 1200
-    height: 676
-    isCached: true
-
-secured: "3Gmy/Wz1TlvOeqBeXTI7M65CasaqpWHp11bieTxMSItFH7pwxHFxyWvRZKriMqXtx3htwwT75iDSu5UtyrNIc8D+y2GG33GVjCVFaZf3ZCvX6CimuyMzUOAv1lHFwKlIjWh4ClAtzOuoT8/+xaKxltMtnc0MHYM4aFvpuE99cDlDacozMLc5wRpbEVD7d5AQbRlB7YAowQfFET5/EBq/QW0MmsEWAMZ+vmcu4j2b4tag633GhI/WlC1ai6ssbo5zEZoJhQMvUYJINUf2rURmkD0wbmLcaKxgeCTj85BeUsU6O/fGqGx2xBbtzqrZYKP62D/7V/w5+acK6OMSL7MLek38TU5wiSMvzApC9QXypEk=;ShYTud5gLZUutgi2hzCw4A=="
+secured: "dezn9Djx51vfth+KK1+HFEz6cqWHa1pLB7VX/ASW0c++cG6kScyzNnqZXUFxYmxhRxwYD0MckcvL/5jZSJeEcmVoC3+If3FRf9oMi0uQvO5wKcBivCnxC9Bs0mTZJd3znpL2wwRGpNKdhtrUMhVWKOZFirYqKIkoIXjmNr5D+hB+w3yvxL1ZEhcfBvreTFivIbz5cQD3nat18n61Jnhf2p1e9sOsUGNjcLyT8/VT2awRB6TEm1maWKlKpGvb8Se6fd+Xj8LKwLi74OwPpqTcU/eSQjIcGqPNEsyasfhLmb4k8QzMiPJEtLid6Rd95U+oQqWxvzMcYnDAGFTgHD8ATc7MDqC/Qbz7d8gRj1+EPdY=;mKKnTZxW0r7IAkC3od0JTg=="
 ---
 

@@ -1,17 +1,17 @@
 ---
 category: news
 title: "Artificial intelligence is now used to track down hate speech"
-excerpt: "Meta took action on more than 15 million pieces of hate speech content on Facebook. Roughly 95% of that was detected proactively by Facebook with the help of AI."
-publishedDateTime: 2022-09-09T22:07:00Z
-originalUrl: "https://www.10news.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech"
-webUrl: "https://www.10news.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech"
-ampWebUrl: "https://www.10news.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true"
-cdnAmpWebUrl: "https://www-10news-com.cdn.ampproject.org/c/s/www.10news.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true"
+excerpt: "AI can help alleviate that burden by scaling up or down to fill in those gaps based on new influxes of users. Facebook, for instance, has seen massive growth, from 400 million users in the early ..."
+publishedDateTime: 2022-09-09T18:07:00Z
+originalUrl: "https://www.wcpo.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech"
+webUrl: "https://www.wcpo.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech"
+ampWebUrl: "https://www.wcpo.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true"
+cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true"
 type: article
 
 provider:
-  name: ABC 10 News
-  domain: 10news.com
+  name: WCPO Cincinnati
+  domain: wcpo.com
 
 topics:
   - Facebook AI
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "YPiVWfgJRkWElZwPfSpIC1KbaG01nHWoL8TiP7z+zqV6w5hUuFwMudGuB4PX8V0625AxOIfVUmv9KjwNbgVWnwHZ6w8XD2Kb9aPX08GjymoG112Pasa/oWCD+gKGqRkeUHXhLw+7Stj9HfDtFXhXlH1/V5zC/ivW8ynT9vUDWGyZZUmCqrRXFOoAlOUwxrBdk5gCzooUm3v+dnRKgVi2C70T8xH9PcJQA1GvqbSOrQoWPoj2OaxJEvxnL8BHtbRSSEQuo2yBGglGmmDDlDucWafl2YyqpcFvx5GmedWejOGUBsv7+zGeVCcul7bO2kIdmZdNbM5bXyQMA4Kn+UPhhLLLFrr/fAr1fEarOkRO06k=;3L5uAtqvzWynTgjYs3EAjw=="
+secured: "otoYtPIAc45lvFD1lBukKkVvufOjhmYkJObA7gtH1a0dmZMXBvQ43nKS8oF+kUD3hP6nt1VmYTzUenz1Rq0wj21Xf3A8FcB7w8BPb9tvByYgyrsJ46VUHsF8HsbRK6cqmrM/PGkaaFFNfPXjd+2q2PkeNFcxEbDsnyL12CYqOjsM7aeKt9Mc2spE08/A8UNYjgVidRn5zlJCvY538npi1K6IxXQeUy2w3sK1ouLOR/9psPJ/hp7XS1icNGH6mJTEa1lSZlOFvAhFOEI0dMTQKVCPpiEykDKYoBN/h+kYqXWVrmTjnuMeIh8wzkYuSczSnR67s7j/6UlAij3iNwD4Tsu3HhnjwzhmncY5h9iUG+U=;KLWW5eMnGLLIa+ZjnE5gNA=="
 ---
 

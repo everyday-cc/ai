@@ -106,15 +106,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Fintech Market 2022 Global Industry Size, Segments, Share and Growth Factor Analysis Research Report 2028"
-    excerpt: "Sep 19, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this AI in Fintech industry.\" Global \"AI in"
-    publishedDateTime: 2022-09-19T05:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-2022-global-industry-size-segments-share-and-growth-factor-analysis-research-report-2028-2022-09-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
   - title: "World Healthcare BI Market Trends, Covid-19 Impact, and Forecasts Report 2022-2027"
     excerpt: "The \"Healthcare BI Market- Growth, Trends, Covid-19 Impact, And Forecasts (2022 - 2027)\" report has been added to ResearchAndMarkets.com's offering.The healthcare"
     publishedDateTime: 2022-09-20T14:08:00Z

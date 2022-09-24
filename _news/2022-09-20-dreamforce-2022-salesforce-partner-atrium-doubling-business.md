@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 779
         isCached: true
+  - title: "Salesforce deepens partnership with AWS"
+    excerpt: "Salesforce has expanded its partnership with Amazon Web Services (AWS) to enable customers to build custom artificial intelligence (AI) models using Amazon SageMaker, AWS’s machine learning (ML) modeling service,"
+    publishedDateTime: 2022-09-21T18:38:00Z
+    webUrl: "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955"
+    ampWebUrl: "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955?amp=1"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 59
+    images:
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2022/09/GettyImages-1040557296.jpg"
+        width: 2000
+        height: 907
+        isCached: true
   - title: "Salesforce goes real-time in CRM upgrade"
     excerpt: "Salesforce has taken a leap into the world of real-time data management with the integration of customer data platform (CDP) capabilities into its flagship Customer 360 CRM platform."
     publishedDateTime: 2022-09-20T22:49:00Z
@@ -196,15 +212,6 @@ related:
     provider:
       name: datanami.com
       domain: datanami.com
-    quality: 19
-  - title: "Salesforce deepens partnership with AWS"
-    excerpt: "Salesforce has expanded its partnership with Amazon Web Services (AWS) to enable customers to build custom artificial intelligence (AI) models using Amazon SageMaker, AWS’s machine learning (ML) modeling service,"
-    publishedDateTime: 2022-09-21T18:32:00Z
-    webUrl: "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
     quality: 19
   - title: "Salesforce unveils Genie, a real-time data platform to power its apps"
     excerpt: "Rahul Auradkar, head of customer data platform at Salesforce, told SiliconANGLE that Genie was built to create a single platform to unify and personalize data that could be accessed in real-time and power the entirety of Salesforce’s platform."

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-trends-size-share-growth-status-key-segments-and-forecast-2028-2022-09-20"
 type: article
 quality: 64
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -99,15 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Fintech Market 2022 Global Industry Size, Segments, Share and Growth Factor Analysis Research Report 2028"
-    excerpt: "Sep 19, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this AI in Fintech industry.\" Global \"AI in"
-    publishedDateTime: 2022-09-19T05:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-2022-global-industry-size-segments-share-and-growth-factor-analysis-research-report-2028-2022-09-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
   - title: "Ai In Agriculture Market is projected to reach USD 6.5 billion in 2029, registering a 23.1% CAGR | Size, Share, Report & Forecast"
     excerpt: "Ai In Agriculture Market The Ai In Agriculture Market was valued around USD 1.2 billion in 2021, and is expected"
     publishedDateTime: 2022-09-23T11:01:00Z

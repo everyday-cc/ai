@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Richmond startup AICrete is using a 'recipe-as-a-service' model to make concrete more sustainable"
+    excerpt: "The founder came to the US, escaping religious persecution in Iran. Now he believes he can shake up the stagnant concrete industry."
+    publishedDateTime: 2022-09-23T18:53:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2022/09/23/startup-concrete-sustainability.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
+
 secured: "8bkvUzWDJPk1PDP4K8AfaRaqVnAcC2bw439uz1rEjUYOowhOFYRPraXHrBFvXsb7hGlP9AwFIpVlDP9vKkSieEBJ9BmDLHXRtNM0vV9RFSLuEOHSjEqvkj54TH6QFn+b1l5YNqLvrTH9zDmpWd6sq60U/Ft7RyqvvRPMUzD25XbKwaVKmXtIVPkYfSZNvcIuJ9Znkha9RrRtjoQJDAnMUbP8QwV3ScdUp5ey/w/JjpCZHVwSVlFzH9T5ZG9hKuo5twYZA+nSsPwe/Uox4SXZDYWhIL27FVByyLioTwKOEdSd+3DnZ8XhbH/TXFSz3L22SzftTBkBC97Wo0QQ4JIDgaunwEa07x2IZydyXurXWPo=;btg0RRfUBrTS9LP68esFXg=="
 ---
 

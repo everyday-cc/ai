@@ -28,6 +28,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 1
+  - title: "World Home Ecosystems Market Trends Report 2022: Focus on Digital Platforms, Connected Devices, Cognitive and Network Enablers, & Connected Services"
+    excerpt: "Cognitive and network enablers encompass software and technologies such as machine learning and natural language processing that make home appliances smart. Connected services refer to the ..."
+    publishedDateTime: 2022-09-19T08:12:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28909749/world-home-ecosystems-market-trends-report-2022-focus-on-digital-platforms-connected-devices-cogni"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "ulgDImJ7Pk9CvaPjonuuDFHuaCsZqz5EsLEqyO77bR8f7WPFJ1cLWypB1iRZUnsCtu8ou3YLgwrN3g4WIrstd7WIVtmBfo0Mgrvno4Iq8Uom6hH/UglTR7oQqEF0KES3jRWxEE8h04plQCFTYEflaqzfyGeYhzr/fg/1w4euPl7c5fAneI1sCOtNonoZRe/erZsHUT96oNCJVFuAKCUrsW6X1nEFKi5cy1O93HDti4kr7iZr6jALJ1sWBv658bgk2Y8+28gvz95JRQ4I3CzRpCrQf2l0shP+Hq5aFNzuzXwhwOBouKfpwqQmXSaW57mvsTEHWHd92bq59c8xUi/KtjqISPe7IQBJkLUmaa5AFA0=;zu1e5LeWFp9aqZ2rL8DKzA=="
 ---

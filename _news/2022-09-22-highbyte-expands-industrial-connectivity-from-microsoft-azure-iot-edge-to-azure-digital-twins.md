@@ -53,15 +53,15 @@ related:
       domain: dailyherald.com
     quality: 34
   - title: "Tecnotree to Accelerate Digital Transition to the Cloud with Microsoft Azure Integration"
-    excerpt: "Tecnotree's Digital Suite-5 for consumers and business monetization is built natively to run on Kubernetes and is aligned with the Microsoft Azure cloud to drive multi-tenant, multi-region transformations that allow enterprises to lower total-cost-of-ownership (TCO) by eliminating significant upfront investments."
+    excerpt: "Tecnotree, a global provider of Business Support Systems (BSS) for the telecoms industry announces it will provide Digital BSS products built on Microsoft Azure to Digital Service Providers (DSPs). Through this integration,"
     publishedDateTime: 2022-09-20T10:25:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration"
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-9-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
+      name: The Buffalo News
+      domain: buffalonews.com
     quality: 25
 
-secured: "lZCO58DCELyYrLlsKtcLFwAq7yosgdgyX9qD+YKHiXN0ezVMF12SaPqOhK5JnxOzIE83n1OCwo6LxuAoKn/K8MoCjKTrYcCGb2N7fG16KGesk9QW0kWXZVgQcioHr0yZR45vOUQ1ZlLX0tKlDFMoxP/qbDiU4WZmZ6FTIOz7sipXrMwCD199rB3HNyJ+JjnBUHzcNWu5U3GX71qYVpkQqDYVsjUWfjoCMlwlkNXJEXN4/xrLtmWReKW3+hIfGRYOIJss90RAsJ1lNMK7/G2UeaVeej6noy9yTQ3cbxoyOwNtjqPvd3m6RI803Kz294RZhUTZ+iDrJyliItILPUHwJggcV1gxTlrRgNgXQIOL51s=;f0mfqTrSB7VscXtsst4UwQ=="
+secured: "FV34x/ic3YJ+FAjGcvg450gtB1oOPNtGweWMUn8FH5tq4htn7cQOak1G56naN+2PXaU0HYnQLVPy31lgCqUthYcV+0wLEQvA26v4TsZqRrWVK3iMlGDDjlw81wEW1r15qI6OaDrYS8xMfCOPOBQrcvOWSg0kHwQmjVxEJSOkAj0RayzGUJ36NubaLcFTxsFFRuylZtAHMGgNLfLnFM24f9b/PMBJzfHhhmX2hdzBWOz/G6dpBElsHlQ6izn6NFL+s+XCCW9stAbXYGskQ/FUo3QIzlwi3up/yWgpCVj+WP7lbB9VxqJllv9vlDzS0JGxxrzdT0gu0y6loOWjhNsyfu1U/mpKrjpzoz7AqmeKRfF6onTlxI2e2E7IOYFjmJw9ng294+9iNEi78OEzQgtg78oJXnhXJguRyDGE4Yz5azwlnmH1kBJTYWBIZDavGyTBV06JGp9HYMtQPKBV38G8VKxpwc92X15HzPO1ONA1CfdwaMhKzW0zG8lieqFLscl/5Sl2584UDsQFMD0yq7YSQQ==;cSIXF135W00mKNu6N/0Cig=="
 ---
 

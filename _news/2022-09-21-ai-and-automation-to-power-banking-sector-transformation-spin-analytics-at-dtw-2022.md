@@ -49,7 +49,12 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 48
+    quality: 70
+    images:
+      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/4c810e48-a47e-11e7-be5b-71dfc49c8ace.png"
+        width: 1152
+        height: 768
+        isCached: true
   - title: "Predictive Analytics Market – Future Plans and Industry Growth with Quantitative and Qualitative Analysis"
     excerpt: "The Predictive Analytics Market revenues were estimated at US$ 10.5 Bn in 2021 and is anticipated to grow at a CAGR"
     publishedDateTime: 2022-09-19T08:55:00Z

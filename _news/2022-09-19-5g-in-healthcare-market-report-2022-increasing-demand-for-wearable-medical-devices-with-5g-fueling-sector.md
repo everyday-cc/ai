@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "World Home Ecosystems Market Trends Report 2022: Focus on Digital Platforms, Connected Devices, Cognitive and Network Enablers, & Connected Services"
+    excerpt: "Cognitive and network enablers encompass software and technologies such as machine learning and natural language processing that make home appliances smart. Connected services refer to the ..."
+    publishedDateTime: 2022-09-19T08:12:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28909749/world-home-ecosystems-market-trends-report-2022-focus-on-digital-platforms-connected-devices-cogni"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
   - title: "Wearable Medical Devices Market Comprehensive Study Explores Huge Growth In Future"
     excerpt: "The global wearable medical devices market size is expected to reach a market valuation of US$ 27.29 Billion by 2022, accelerating with a moderate CAGR of 28.1% by 2022-2032. The wearable medical devices market is anticipated to be valued at about US$ 324."
     publishedDateTime: 2022-09-22T12:50:00Z

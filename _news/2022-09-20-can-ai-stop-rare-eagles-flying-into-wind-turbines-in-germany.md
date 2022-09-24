@@ -38,7 +38,7 @@ related:
     provider:
       name: Mother Jones
       domain: motherjones.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.motherjones.com/wp-content/uploads/2022/09/20220920-eagle.jpg?w=1200&h=630&crop=1"
         width: 1200

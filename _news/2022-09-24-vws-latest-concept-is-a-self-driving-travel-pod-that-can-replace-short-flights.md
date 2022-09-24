@@ -1,14 +1,14 @@
 ---
 category: news
 title: "VW's latest concept is a self-driving travel pod that can replace short flights"
-excerpt: "We wouldn't count on all of them reaching the self-driving machines VW expects to make from 2025 onward, but don't be surprised if future robotaxis seem very familiar."
+excerpt: "Many automakers dream of self-driving cars that are effectively lounges on wheels, but VW is taking things one step further. The brand has unveiled a Gen.Travel \"design study\" EV that it hopes could replace short flights."
 publishedDateTime: 2022-09-23T17:06:00Z
-originalUrl: "https://www.engadget.com/vw-gen-travel-self-driving-pod-162904370.html"
-webUrl: "https://www.engadget.com/vw-gen-travel-self-driving-pod-162904370.html"
+originalUrl: "https://www.engadget.com/vw-gen-travel-self-driving-pod-162904370.html?src=rss"
+webUrl: "https://www.engadget.com/vw-gen-travel-self-driving-pod-162904370.html?src=rss"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: Engadget
@@ -43,7 +43,21 @@ related:
         width: 1920
         height: 1322
         isCached: true
+  - title: "China to set self-driving standard"
+    excerpt: "Industry analysts said the ISO's acceptance confirms that China is spearheading the research and development as well as the application of self-driving technologies, and promoting their large-scale commercial use."
+    publishedDateTime: 2022-09-23T23:57:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202209/24/WS632e3ac7a310fd2b29e797fd.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202209/24/632e3ac7a310fd2beca35450.jpeg"
+        width: 658
+        height: 438
+        isCached: true
 
-secured: "mOIFUiVDfY+rlJodBHGqrvp38IW8V7rg/fgXUzuaSct8sVGecfktVZwRdJnleHULuOb6F0i+kNwFW60/YwjKJRpAQiQYE7LrTP6fvD2S3YXH5LEqavhVMnUUJAGzAS26rE/BnBqvIxspZ4HLnoxpZ+wnOIXKY7EZA1lozcFzEaXZA1kMz+dTHnzhaUkNTPOiDISmsr4XKcDEjZ4qWP0QEakRaxEmvBAJc0n3XmLD0W1GyYhdaClko0yHdqcwSkOhQD4GpHLtokEk4kQmwnOb/qUPB99fWsx0L67nAc++zbnHIzPqFLQCpDm80ZbCIKyHZ0t+bPNvzfi/wHPmYmOZkdwO0ulEz9qaNOZ1qdQ/dMbvnhZPvOk0PY6NLVtFBVpX6P4FKTWRR/ShF8z74lTIYNc86K7VrtbQQy5WQ321k2cFjZA5mNGj443l/nLyAuzNNnRB//qom0OBlXeWgL4jMnkGHdazsvQ05AZIbCQhOCk1LFSL14AmAZDMP2QAzHUHVuUi94+FjYOijjtWoexpwA==;CfKTr1MiP18e5zPcoh+HjQ=="
+secured: "bAETEcQKoVzDvkmVpmJ5Gyl1eEJL8adsR9o1QyRFp3N7qp1wUQeplmqa9u4AEl5xemJvTti5rmrTp+H1xjvgV9jdDsdrVXelb4hSX4eB8f0II5VNANahQxi7p8BVQeuqKUoyVS5VMx1eBNosYY913V2O19Rna3j/qR0nrmPZAIkwaf8f01yymjCDcbKYst29fpFf+kZJ2I0MCgVO2svbx83aEE5kCYzjvm/TpN+wKubtXb0S9o13WNijEZh4NaQZ6/LueBGJ2Z4Vg6DF+Oo5dbyaxBcFyv6I7tiIHmDuzyVz1n6rOdKjJXR7z8aAnAM5EHFiYyuWAVfKrrGtcRc/tKqjWQRqB0yh+YEYT1KoRvA=;fsS0pDnE9WR2FLCGAwBARA=="
 ---
 

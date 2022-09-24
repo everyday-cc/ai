@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-21T10:00:00Z
 originalUrl: "https://www.motherjones.com/environment/2022/09/artificial-intelligence-eagles-wind-turbines-deaths-birds/"
 webUrl: "https://www.motherjones.com/environment/2022/09/artificial-intelligence-eagles-wind-turbines-deaths-birds/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.motherjones.com/wp-content/uploads/2022/09/20220920-eagle.jpg?w=1200&h=630&crop=1"

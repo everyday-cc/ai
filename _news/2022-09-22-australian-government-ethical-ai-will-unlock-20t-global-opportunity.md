@@ -26,11 +26,11 @@ related:
   - title: "Australian workers unprepared for impact of artificial intelligence"
     excerpt: "More than half of Aussie workers risk being left behind unless they start preparing for the effects of automation."
     publishedDateTime: 2022-09-23T09:00:00Z
-    webUrl: "https://www.heraldsun.com.au/careers/australian-workers-unprepared-for-impact-of-artificial-intelligence/news-story/49aee8debe69d8c588b1c5a3f9da5589"
+    webUrl: "https://www.adelaidenow.com.au/careers/australian-workers-unprepared-for-impact-of-artificial-intelligence/news-story/49aee8debe69d8c588b1c5a3f9da5589"
     type: article
     provider:
-      name: heraldsun.com.au
-      domain: heraldsun.com.au
+      name: Adelaide Now
+      domain: adelaidenow.com.au
     quality: 19
 
 secured: "14T2AG3jYoQ1o59bIMPANCGcHdLKT1RuT5O9Fv0IsQ2M3eYc6qqMGg6O/ZtAGo+q4GtUiJ/t+FWJ1TUy+E51LVfImeTbwe2HRghdDOyShuDQxWmfnfaRPNvKs+EDLWWubMq5DdSr4+VIxi8cPxfr8CLHskp54L4THmOAyDNzWlAH4YY2b+QNrQ/lxaLp+jdbzhzkj62m2167OO40MDfhkLDhYX7xyQIhqDZkYn7j0ytQADzZa1+g9E4H2+ygCQsAdbnymbZdxlduoYBK+ksbKhthv2kVz7bydmuaKi5ZK3sjoUG8SoKgE7sbuAWQim1WTWJWJW8Xp0jIaBvh7lx5++3+wTi648M7KJ/i0n8Z5gS89Wh0YP6wnOnzHIVza3WnbwQkQrWDL0T8DIUIW5DQ5sP4x1jn1m1Y3iB+iv8w6vQI2HmKbLritIzatdzvI+M0WzxJo+UUdte9+5rJ1usx1PerRA/Yek/eywBED61EU6KnvyHpHPZfoGZZbUlzIcQdL8A3EYc4J6ToPlKlen0IhQ==;1ObaRFr3uVWp440nQDKt/Q=="

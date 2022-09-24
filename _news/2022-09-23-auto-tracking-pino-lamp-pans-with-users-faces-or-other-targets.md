@@ -31,7 +31,7 @@ related:
     provider:
       name: Daily Herald
       domain: dailyherald.com
-    quality: 12
+    quality: 14
 
 secured: "cEpZkEFj297+Ckbx39yKu5o6MjVJ4QDYZisLtLuaHs/wOFCRhs5J2R1pp1PgdrHLVOqe+vKZz9AAHcdm2nhgO3xDStCJ1pXOXNz918+CG4XJEQbuIMZZJ17dAOAQXGKsegh73nCgIbDmrKgaRgV3Ro12o8RH7xIm67MEGtxraLMrt2QapXn2FGJh+C+HY23Y2fGYQUliPb6uD/Oz+YjJkx76hDE4x50Ayqn10u7ViA8PZLWVQTZ/nBG1Fbfy3p/XDTyQAukEZxGPKLREy5/A8KGgKXEbh865gaxFZdpf5PIEQiGpX8q83vV+1dLRAqOV28hUenMCw4E2yETEKRkItFpF5dLqvmdzocKWE7ORpYi2wrr2bqne+NicuNGEUf70eBndod1K7uRFZPJmDFtwS3pwtXUolXPuDgQ0c+8te+HypIKaPYk1kIW79hM1k8+qEzfNmt39Gj9q7pn+xJR7KicONaDkZH6PfNa34P7f/Xl5d3J2Jq+1E3eY2O+wGh/dRtW/BUpv8m0P1ubfvu7RUA==;jwKavuOXV5hxpfYwl8Wb+A=="
 ---

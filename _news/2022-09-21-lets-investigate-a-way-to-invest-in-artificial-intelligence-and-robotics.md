@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-20T18:11:00Z
 originalUrl: "https://realmoney.thestreet.com/investing/ets/artificial-intelligence-and-robotics-etf-botz-16102690"
 webUrl: "https://realmoney.thestreet.com/investing/ets/artificial-intelligence-and-robotics-etf-botz-16102690"
 type: article
-quality: 48
+quality: 70
 heat: -1
 published: false
 
@@ -17,6 +17,13 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
+
+images:
+  - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/4c810e48-a47e-11e7-be5b-71dfc49c8ace.png"
+    width: 1152
+    height: 768
+    isCached: true
 
 related:
   - title: "HR's Role In People Analytics And AI"
@@ -91,6 +98,6 @@ related:
       domain: controlglobal.com
     quality: 4
 
-secured: "G7XSNqOHa62/OB1EHYJn813z9os4B1F/HETUBc1yVVnf7u3ioC6qNEb/l3nvT9iELX109fdtbMGUehuHyRxvauQ6JKWNbO360+WNSDJjvVD1YytlN6B/jRMfWkAzoY4erGb6NahR8LJvmn4afzmmVjeUeKut73Iapr6OBs3zFz3zSIuxT9MB25i0+6i7PT2BD+Hx85q7DSFsasCDaza1qEoqvHDAwoA9QAlVNTKfFNpnIOqBJz5HwYhbqCZHzrO8fdWGQHn0tDN4JuhUM6//Tv7GdJ3RvqCJW7Sn5MIcpZiDal8A6pjVx3JRf9oTECdBT5X6k6+fcepX90jJogON6ctTQL/TDa7sHkdhnG6Wv7PNhyeCSl4bZc2J7RHYZ4qJepJLSIw9Iq8DPeVPXOtzovaxmkqFbNzZUoRjFPtB2pwSXjOImyTVO8ImyaDR8nlqiIQPRY+aoKABSDOahuioirUv+xQ5qJCcLgPUOU73KhizS/FD0q9Py5Fsg2OhvwAwKtmdJZHvcHRmeGBN4EqebQ==;/eEScZ8wyHCR+CQSjL0h3A=="
+secured: "UR0eXVo6SCeP/dLTAemqgexPnetJOBNpvV393a3aps985jlyWNzODrlW46WjHwNv9DyABUP9kVSD5DLTSITtt0t/H/Z61HcQ8zYhN/gmkV4a7V5AyZp/nhyzamXNLhd2rxyZwScAY+9Ku4JGZ0Mc7xYCrgZZWGV517383VQovNnuVNhOgxd7YhrfPt8jBpnaQz2H8/x0/c1gPjs24f9I67pZxsFhw5T3ENEqUTDysZjqjgT/qnmlg6ehAEWrR1o2SQQy03aCqGIuvX4uGfMRQyUNLsWwaR++PhgvurJHtLxN6OVi0fnN/4RlJ83eBWtUCvLwxtdwL7uq/1lct6UMH6va3GwS+1hN2hMBmut8KEk=;76wM94K1n7BX5yd7/Z4xQA=="
 ---
 

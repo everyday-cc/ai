@@ -54,9 +54,9 @@ related:
         height: 505
         isCached: true
   - title: "Inuitive launches NU4100, expanding its Edge AI Vision-on-Chip IC portfolio; NU4100 presents advanced AI capabilities and"
-    excerpt: "Inuitive Ltd., a Vision-on-Chip processors company, announced today the launch of its new NU4100, an expansion of its Vision and AI IC portfolio. Based on Inuitive's unique architecture and advanced 12nm process technology,"
+    excerpt: "Geared for Robotics, the new NU4100 is setting a new industry standard by combining integrated dual-channel 4K ISP with enhanced AI performance coupled with depth-sensing and VSLAM capabilities RA'ANANA,"
     publishedDateTime: 2022-09-21T16:03:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/09/22/9679626.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2022/09/22/9678713.htm"
     type: article
     provider:
       name: TMCnet
@@ -68,6 +68,6 @@ related:
         height: 253
         isCached: true
 
-secured: "7BuQ29+tRajcNgBGNwUWDvn3mxYXNl/DwDtHPKi0f8Ddt2PMTbrJqKILkkF+WkARuD3DgKaSiJaiGsXxKnt8leqtc0+GASBtUzTDVTA7sSLjr3wKSvsvml8NREudFMG6A25CeHljUtVC8wgMcIAq18gt/8x373roTOjGZkVXmrQ9uk4TnxfteSFCqw45nBUUbfXujBwV7D1lUbUHkRke+fw3ScIIkrLIAL5Sjm7mpwtInkXfioSSK/fXFMhlaAmaG3CEsPtWUQb/Qd+8vROGr1W6Tq9UYKZhJ/eEUVDFhwj9e3+HfhcP4cpWCQTz+3RwzWHu4RKNbu3P5CBG2xQcoRqYUvxozvAs9m6KutRSrzc=;qeD7bdolv5AhYPbx/L0l+A=="
+secured: "7AfzUQsO4KNAcAG0ztdrTO5PjNiBq8acxj62d8omsDtaDrwqow64am6+6MLu9LWAMXjVIVUs0rfi3YXjYTHOoOIEw+3rZoDp2rd+F6ZTeol1TSb9CbMwYgQ6MvzRAFbjpxDiNYS5ScX3GsOk12UmovC7CTcccZN3ug+2e9Qcn25LL5fjjhizIR7HlTr5PKlEqBFim0CT7rM4NQUz5ClzRJRUsX7dUAqFqDJIresBrVRCIBqFfxtKie5hVwfKi5ZyMrH2mdh9CeZhuBuQAZGTE6/+dwH/FTnAEFYRXuMCy6irt6bPDWf4Autd20/jhHlspRYtVz0jD1Rh8ZNUI7Qw93eo0QlqC3B8q8DAF7Q74PdGBc/B7ShsK2WUV24t1uSA/bg1Zjc5pXKN++3Gk4gm7CmTj3LwYS5q9kjc/qQnqZJ00im5nbQyIu2lMoKjg+yasKkI5ZYUmTUcJXvFW64qqj6EBYA+hyRPXprnASCarTdKmjmcPhvlFbMtogfI/gflrQ0gDpnodQS1RxVVSHzV0Q==;S4nyV5VMu6jd0pQAWS8Q/A=="
 ---
 

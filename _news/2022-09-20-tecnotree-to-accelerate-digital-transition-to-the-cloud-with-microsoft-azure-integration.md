@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Tecnotree to Accelerate Digital Transition to the Cloud with Microsoft Azure Integration"
-excerpt: "Tecnotree's Digital Suite-5 for consumers and business monetization is built natively to run on Kubernetes and is aligned with the Microsoft Azure cloud to drive multi-tenant, multi-region transformations that allow enterprises to lower total-cost-of-ownership (TCO) by eliminating significant upfront investments."
+excerpt: "Tecnotree, a global provider of Business Support Systems (BSS) for the telecoms industry announces it will provide Digital BSS products built on Microsoft Azure to Digital Service Providers (DSPs). Through this integration,"
 publishedDateTime: 2022-09-20T10:25:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration"
+originalUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-9-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration"
+webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-9-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: The Buffalo News
+  domain: buffalonews.com
 
 topics:
   - Microsoft AI
@@ -61,6 +61,6 @@ related:
       domain: dailyherald.com
     quality: 34
 
-secured: "asNHzvjh/nkRYOCzKv5aykT9CSQHdv4shuDDzAW1//H6l+miWmSdJSM/o1rO3TQcy6Uhrryq3rpxcgMU6mLhlynpqwo7zXbS9Elkxlpa0bXE2WRX8JsZ608XZfHFoKJOjxidg6GMpa500Xo0gxYnanRNliROF3YEkfrk/N+Zpn1lp5MfVueDGoc3PwXxFvdN8QViXk5dCoqR7u5njkEhofb5wklW2VNuq9JIuMDfvtPBulXKohk82UgEH3nVUIH7K3Sm0gEkItFy/HGvWLHMAJt4jAck8yLOnsQXJJBrCbYU0XPwIZi/ciWP9ApKm74wk8pz4xeqVdacgdKBfF1u62x/mbcPU/NqucCgUIRvqw0zNuMyucEk7OaYMd+wKUCQ4Elm8Vr/grRJ52rPOI2m5jtfSLMY+LDpOBF6XOTNCrcLCpZpSABe26N83fFPpzfn0azxQQwGMcqC3cq+lfOtAxOIFCvgmwFoz+EheIWEJYg43Lx4B8LZcEmUSLCN7VphZGjVrhQifjhEdn/AJs/i4w==;vzoAzkd1/MvdaaGM6wxroQ=="
+secured: "mlDLX8Na2ViBQZZ6wVszqnSaw0ykK0Zjt36q/qrVd2FfXz/q38tB3CpAJvP7w+r6/fSLauU24UvLEQuDklhLURaSol9SCgUY6hw2ekXc20xsQlzLBM0ZYhtaWPc8gVbTKO2BDqOIVBOnR5qZsWJFMJfqGDPfzxUxuK0LofR1aXrSU/h0h0xSwjDJ9qqYnZynYaNYyV25lvG4+UepPLg92hPQBbvZWRYoy1S0AuNhJrZgAiaAmE3EKPk+g8bb5S92liz7a2mVcnQUzHJiVRr1OEbmLdJSMH3iNrFLp7XYhhZj4payg1at8h4WqBGl1jim409NjYEtraiUDbePZPH4mpwouT8IBZZmTojcw0BgzFc=;gYsPr59yW1S5pRjR8zzGaQ=="
 ---
 

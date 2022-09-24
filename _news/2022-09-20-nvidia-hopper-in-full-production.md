@@ -1,18 +1,20 @@
 ---
 category: news
 title: "NVIDIA Hopper in Full Production"
-excerpt: "NVIDIA today announced that the NVIDIA H100 Tensor Core GPU is in full production, with global tech partners planning in October to roll out the first wave of products and services based on the groundbreaking NVIDIA Hopper™ architecture."
-publishedDateTime: 2022-09-20T16:45:00Z
-originalUrl: "https://insidebigdata.com/2022/09/20/nvidia-hopper-in-full-production/"
-webUrl: "https://insidebigdata.com/2022/09/20/nvidia-hopper-in-full-production/"
+excerpt: "World's Leading Computer Makers Dell Technologies, HPE, Lenovo, Supermicro, Plus Cloud Service Providers AWS, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure Building H100-Based Offerings;"
+publishedDateTime: 2022-09-20T16:18:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/09/g28935573/nvidia-hopper-in-full-production"
+webUrl: "https://www.benzinga.com/pressreleases/22/09/g28935573/nvidia-hopper-in-full-production"
+ampWebUrl: "https://www.benzinga.com/amp/content/28935573"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28935573"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: insidebigdata.com
-  domain: insidebigdata.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
@@ -329,6 +331,6 @@ related:
       domain: tmcnet.com
     quality: 19
 
-secured: "wIGDxDya5luMk6x0AqQ39mkvdAXwe74lFsdarucp1ZQYlkKfWLdyMxy8Y1tlD5bx+S8/JOVW2mm/K9WQ8BVbXtE006DmnB/83a53JxakhDXRQVQv6r67ExL06m6YFpVgySWaEKVEpvrRx468xesGid5XwwzREsZKQv7TNSCLHTEhCSg1ERVvyzHaOxeeG/x1JB0SupiZdYWkrO4HLTQj1UgFi8bS277QmAKdeM8IxDb4Nn/a2KZ1TwWlGFHEjLjpyfoC76n5FpmL6muhHWYxUf3gPvSwfYiE4q361W3qw8Im/J+DPgjl6dZMl69NN6rMxGsSF47mN4WlgHLUYxCeUtJRDwVlYNycHvfHNDfyeyiCVTH9xJt7fRK4o1CIACsIIMiypczwz6t1v4qjKyWs7uRUaWLRu4ViMgWMoJFUBWP/yWCHe49bB9dLUcr5I99xn5Vh3EceJ7UT+rP5q8iIFtUNByFUo7IBT9AhEWtcQvkzFIVE48Gd3GP7XCVLVMyQ2LmC7A98tLMNck/1hF8XAg==;nYaN+AEUwjm/RJOeRiRNMA=="
+secured: "F+qwGBw/RoJmR050iSxGSSbTnpeR9D9bpeq0cPUiiq0q2hqDVghsDwAiZFCAXOl4zCAeQXiengzJ8rdivsiVaRWaVRil/Pb6cMdlZRjJPRCdXJEkjSEWXwcurUBeUsk7nt2nWoT1hcdkgwIhh9H8JbQYVagSNNCb8ocu95Lre5i5EPFe5AH+ajmipXBmEwT+ff0j7JnKaeQSmS/GXqPmBVSF8SM3xwa926LlUUHpr6TX2eIvVbUI3lmNTH6LOOCm4Sx2r0AT3fAxjv8IivbZBIIyN3K2mrTnYvIAXpPjpC3VcQyOiTuSc8huR8u+HeFbI4uyL1oAkOwEFZODR2nSN5XO+ECo+KEcREenDpdJn6s=;BwNJdUjjQjpRdIQn1r8vVQ=="
 ---
 

@@ -50,20 +50,6 @@ related:
         width: 558
         height: 303
         isCached: true
-  - title: "Natural Language Processing Nlp Market To Reach USD 15.7 Billion By 2022 From USD 49.4 Billion In 2031, At A CAGR Of 25.7% During The Forecast Period"
-    excerpt: "Natural Language Processing Nlp Market , 2022-2031' to its database of market research collaterals consisting of overall market scenario with prevalent and future growth prospects, among other growth strategies used by key players to stay ahead of the game."
-    publishedDateTime: 2022-09-19T06:35:00Z
-    webUrl: "https://menafn.com/1104885677/Natural-Language-Processing-Nlp-Market-To-Reach-USD-157-Billion-By-2022-From-USD-494-Billion-In-2031-At-A-CAGR-Of-257-During-The-Forecast-Period"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 15
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?677017"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Machine Vision Market Size To Reach USD 11380 Million By 2028 At A CAGR of 4.0% - Valuates Reports"
     excerpt: "The global Machine Vision market size is projected to reach USD 11380 million by 2028, from USD 8374.8 million in 2021, at a CAGR of 4.0% during 2022-2028. Major Factors Driving T"
     publishedDateTime: 2022-09-23T18:06:00Z

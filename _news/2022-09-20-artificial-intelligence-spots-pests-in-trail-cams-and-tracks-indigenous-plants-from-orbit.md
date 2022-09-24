@@ -8,8 +8,8 @@ webUrl: "https://phys.org/news/2022-09-artificial-intelligence-pests-trail-cams.
 ampWebUrl: "https://phys.org/news/2022-09-artificial-intelligence-pests-trail-cams.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-artificial-intelligence-pests-trail-cams.amp"
 type: article
-quality: 62
-heat: 62
+quality: 64
+heat: 64
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-67.jpg"

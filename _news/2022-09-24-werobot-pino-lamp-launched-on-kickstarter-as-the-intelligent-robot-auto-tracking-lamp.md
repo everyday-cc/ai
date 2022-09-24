@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-23T21:20:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-9-23-werobot-pino-lamp-launched-on-kickstarter-as-the-intelligent-robot-auto-tracking-lamp"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-9-23-werobot-pino-lamp-launched-on-kickstarter-as-the-intelligent-robot-auto-tracking-lamp"
 type: article
-quality: 12
+quality: 14
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Computer Vision
 
 related:
   - title: "Auto-tracking Pino Lamp pans with users' faces or other targets"

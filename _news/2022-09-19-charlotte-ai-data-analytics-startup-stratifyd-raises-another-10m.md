@@ -42,7 +42,12 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 48
+    quality: 70
+    images:
+      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/4c810e48-a47e-11e7-be5b-71dfc49c8ace.png"
+        width: 1152
+        height: 768
+        isCached: true
   - title: "AI and Automation to Power Banking Sector Transformation: SPIN Analytics at DTW 2022"
     excerpt: "In conjunction with the ongoing Digital Transformation World (DTW) 2022, Ariana Lynn, Senior Editor at The Fast Mode spoke to Panos Skliamis, CEO and Founder of SPIN Analytics."
     publishedDateTime: 2022-09-21T13:04:00Z
