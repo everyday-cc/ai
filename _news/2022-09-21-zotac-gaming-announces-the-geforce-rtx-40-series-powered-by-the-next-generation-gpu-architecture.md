@@ -99,15 +99,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "NVIDIA requests TSMC speed up AI GPU production to avoid China sanctions"
-    excerpt: "Company fears political decisions will end lucrative deals it has with Chinese clients. New export restrictions on AI chips could cost company $400 million in potential sales to China. If NVIDIA is"
-    publishedDateTime: 2022-09-20T07:27:00Z
-    webUrl: "https://www.guru3d.com/news-story/nvidia-requests-tsmc-speed-up-ai-gpu-production-to-avoid-china-sanctions.html"
-    type: article
-    provider:
-      name: Guru3D.com
-      domain: guru3d.com
-    quality: 33
   - title: "PNY GeForce RTX® 4090, RTX® 4080 16GB, and RTX® 4080 12GB; PNY Introduces Next Evolution NVIDIA GeForce RTX 40 Series GPU's"
     excerpt: "PNY announced today the expansion of its NVIDIA GeForce RTX® XLR8 Gaming family of GPUs with the addition of the new VERTO™ GeForce RTX 4090, GeForce RTX 4080 16GB and GeForce RTX 4080 12GB. Powered by the new ultra-efficient NVIDIA Ada Lovelace architecture,"
     publishedDateTime: 2022-09-20T16:11:00Z
@@ -117,15 +108,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 23
-  - title: "Nvidia unveils next-gen RTX GPUs, AI workflows in the cloud"
-    excerpt: "New cloud services to support AI workflows and the launch of a new generation of GeForce RTX GPUs featured yesterday in Nvidia CEO Jensen Huang’s GTC keynote. “Computing is advancing at incredible speeds,"
-    publishedDateTime: 2022-09-22T09:48:00Z
-    webUrl: "https://it-online.co.za/2022/09/22/nvidia-unveils-next-gen-rtx-gpus-ai-workflows-in-the-cloud/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 21
   - title: "Nvidia RTX 4080 12GB GPU performance falls behind the 16GB model"
     excerpt: "The Nvidia RTX 4080 12GB can't push out as many frames per second as the 16GB model, due to some spec differences between the two GeForce GPUs"
     publishedDateTime: 2022-09-21T13:47:00Z

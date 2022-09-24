@@ -1,27 +1,27 @@
 ---
 category: news
 title: "HighByte Expands Industrial Connectivity from Microsoft Azure IoT Edge to Azure Digital Twins"
-excerpt: "HighByte®, an industrial software company, today announced the release of HighByte Intelligence Hub version 2.5 that expands connectivity to Microsoft Azure services, including Azure IoT Edge and Azure IoT Central,"
-publishedDateTime: 2022-09-22T15:07:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-highbyte-expands-industrial-connectivity-from-microsoft-azure-iot-/2022/09/22/9679234.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-highbyte-expands-industrial-connectivity-from-microsoft-azure-iot-/2022/09/22/9679234.htm"
+excerpt: "The industrial software company has expanded cloud connectivity and improved enterprise IT management with HighByte Intelligence Hub version 2.5."
+publishedDateTime: 2022-09-22T16:31:00Z
+originalUrl: "https://www.automation.com/en-us/products/september-2022/highbyte-industrial-connectivity-microsoft-azure"
+webUrl: "https://www.automation.com/en-us/products/september-2022/highbyte-industrial-connectivity-microsoft-azure"
 type: article
 quality: 43
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Automation
+  domain: automation.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1904904/HighByte_Version_2_5_Press_Release_Image.jpg"
-    width: 400
-    height: 220
+  - url: "https://www.automation.com/getmedia/aa63c977-cdce-4db8-9dff-034bafe0dadc/Highbyte-prod-Sept-22-2022-web.png?width=500&height=313&ext=.png"
+    width: 500
+    height: 313
     isCached: true
 
 related:
@@ -54,14 +54,14 @@ related:
     quality: 34
   - title: "Tecnotree to Accelerate Digital Transition to the Cloud with Microsoft Azure Integration"
     excerpt: "Tecnotree's Digital Suite-5 for consumers and business monetization is built natively to run on Kubernetes and is aligned with the Microsoft Azure cloud to drive multi-tenant, multi-region transformations that allow enterprises to lower total-cost-of-ownership (TCO) by eliminating significant upfront investments."
-    publishedDateTime: 2022-09-20T12:50:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/20/9676461.htm"
+    publishedDateTime: 2022-09-20T10:25:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Daily Herald
+      domain: dailyherald.com
     quality: 25
 
-secured: "jOLHG2ZnGf0vsrh30WoUXL5LDD8NE92ushL8Me7p7ukqzjllXk7rSzwBdo1zQtwpYqPVc8jEAaddBwtGod9yRrC5tyHeIeYK2XYeJzwpExg+2CmDXhIcYeCT7uVUK2ongWslitpQM/3GLiTFRdjpu+KK+2UawKWJ7zO8X5nYlVl4+BHdx7BWQ79ogG1bM9Ynj1aFZ+HfebBY+krVflo8y68tZ8cdQhft6gASGBgObiPcRN0Tgtgq3zA+ua0i3N5ZRNlYo34Oek77goo/cgOUpHnj8rNNJIw7XThziPKrLViDTgGZJUxlNgoMN6FB9y5D5vsTuMGacTUQT3DKXX6c5c6yBpcIqXKWPMEWzT7tuYMpLd3PXziEVPDuylnVL7AlWbOI32V3P43+X7iEqh/QDTYhcIKzUbRxxik/Drg5cRNyGyPeTz9s0A0tgZiXJwNLoNfr6wPBUe2bf4SGeh4i2kIPkcuI+gIcnYBDlmB5Vu80Nh4o9Cq37MS+ILkfDiteEgFDhsXl1BAWIjwfAuGsYg==;i9wDYFa21WcuW0uKtAr5Vw=="
+secured: "JTUICV9nSO5p05SKr+RzVEY1Rz/GzV2piJ7XlQYFthlyL528ondgE558fuLhQtw62VYG6AO8AbUvGzs13RNj4ZU29GdGu1DmxeafAANbKfkSz1X8EHkT7lUqgc3tH0aZiHfXaTnROxtFAfeG0dqJaW849tX415PCN/aC0zbN7++pxYIRZHCDCww0YneeBrJDOxcEn+yLKxuYBZzmZUabkyjmq1zVDt5zmP0Y8I7yETdW89uFOnBbdPK/G+9W/uJ7IpCOP1zujbwgqSEZqP4HeeSu/y58zoYKUmfw+VfpvBulCmLhYfp06k5GFejnMhTD2YLLxQTxm9E4rN74QnVopng70Udo5eeycGHyCRarnAE=;EVU4Q3uLIcUWWQJzZ1Wwag=="
 ---
 

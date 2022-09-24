@@ -43,15 +43,6 @@ related:
         width: 615
         height: 383
         isCached: true
-  - title: "Spotflock signs MOU with INCOIS to build deep tech based offerings in weather prediction blue revolution and global environmental sustainability"
-    excerpt: "Spotflock Technologies Private Limited, a deep tech company which specializes in AI, machine learning, and natural language processing, has signed an MOU with Indian National Center for Ocean Information Services (INCOIS) forpromoting ocean information and advisory services by applying deep tech to increase the accuracy in predicting outcomes in various industries."
-    publishedDateTime: 2022-09-19T12:33:00Z
-    webUrl: "https://www.theweek.in/wire-updates/business/2022/09/19/dcm33-spotflock.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
-    quality: 0
 
 secured: "yltKhNFdY0f2OmbE0btDJFrwsMQT4kLf2WRkfGIxd8F83HPCQBUGNCnUk0Spc34Xd22FW9z0bBGzjkQHr2/NPkyFZQTFZgxastPedt2xksK7Pi6tctx6m4O9OjwE6WVqttmgbqw/N1xbgRC6itR0uI5eefqC/6ie+IE4cKTcvDyrOs9jmzrzbZtzg1tAerclZja0nS5av9V3gH0sgr4mnldpkK0ICGBv6q1K6k9Y0U/7XrPZ4dcoyaeEBmFbX3qb8nFlhYG4YJwY/mxLcoCnWIV5HxJalb7XpXntsLMUmdVvD37aE/i+rg2YEeAL3CHoA14KdQWf1BHbGs6vCdT/VeGY5wcWT8+93TTw88eNjUo=;RNxdDrQIjh67yQ93bmK8pw=="
 ---

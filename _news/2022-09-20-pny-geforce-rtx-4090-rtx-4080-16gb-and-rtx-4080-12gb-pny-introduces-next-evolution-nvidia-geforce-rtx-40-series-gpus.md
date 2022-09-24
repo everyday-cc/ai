@@ -97,15 +97,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "NVIDIA requests TSMC speed up AI GPU production to avoid China sanctions"
-    excerpt: "Company fears political decisions will end lucrative deals it has with Chinese clients. New export restrictions on AI chips could cost company $400 million in potential sales to China. If NVIDIA is"
-    publishedDateTime: 2022-09-20T07:27:00Z
-    webUrl: "https://www.guru3d.com/news-story/nvidia-requests-tsmc-speed-up-ai-gpu-production-to-avoid-china-sanctions.html"
-    type: article
-    provider:
-      name: Guru3D.com
-      domain: guru3d.com
-    quality: 33
   - title: "ZOTAC GAMING Announces the GeForce RTX 40 Series PowerED BY the next generation GPU ARCHITECTURE"
     excerpt: "ZOTAC Technology Limited, a global manufacturer of innovation, ushers in a new era of PC gaming with the unveiling of its next-generation ZOTAC GAMING graphics card line-up built on the breakthrough NVIDIA Ada Lovelace architecture and the 3rd generation of RTX."
     publishedDateTime: 2022-09-20T18:12:00Z
@@ -120,15 +111,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Nvidia unveils next-gen RTX GPUs, AI workflows in the cloud"
-    excerpt: "New cloud services to support AI workflows and the launch of a new generation of GeForce RTX GPUs featured yesterday in Nvidia CEO Jensen Huang’s GTC keynote. “Computing is advancing at incredible speeds,"
-    publishedDateTime: 2022-09-22T09:48:00Z
-    webUrl: "https://it-online.co.za/2022/09/22/nvidia-unveils-next-gen-rtx-gpus-ai-workflows-in-the-cloud/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 21
   - title: "Nvidia RTX 4080 12GB GPU performance falls behind the 16GB model"
     excerpt: "The Nvidia RTX 4080 12GB can't push out as many frames per second as the 16GB model, due to some spec differences between the two GeForce GPUs"
     publishedDateTime: 2022-09-21T13:47:00Z
