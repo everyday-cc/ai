@@ -1,29 +1,20 @@
 ---
 category: news
-title: "Electronic Comparison of MRI Brain Images Accurately Determines Biological Age"
-excerpt: "Using artificial neural networks to analyze neuroimaging data, researchers are able to accurately determine biological age."
-publishedDateTime: 2022-09-22T18:11:00Z
-originalUrl: "https://neurosciencenews.com/biological-age-ai-21474/"
-webUrl: "https://neurosciencenews.com/biological-age-ai-21474/"
+title: "Electronic comparison of MRI brain images accurately determines biological age"
+excerpt: "The biological age of a person can be accurately determined from brain images using the latest AI technology, so-called artificial neural networks."
+publishedDateTime: 2022-09-22T17:04:00Z
+originalUrl: "https://medicalxpress.com/news/2022-09-electronic-comparison-mri-brain-images.html"
+webUrl: "https://medicalxpress.com/news/2022-09-electronic-comparison-mri-brain-images.html"
 type: article
-quality: 35
-heat: 35
-published: false
 
 provider:
-  name: Neuroscience News
-  domain: neurosciencenews.com
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://neurosciencenews.com/files/2022/09/brain-imaging-aging-neurosiceces-public.jpg"
-    width: 770
-    height: 513
-    isCached: true
-
-secured: "s8kk3Jz6rG8hnD04uIAUIIpEofczVEci60rkZrRHy4Gnew5+/JKq2lr4AMzaeZ2tGklOLtJNveVMld+UpVR6pjnNUlZJSIDMx9SwFkIC/zT2bocuc0VBCpsVsImiiF/QvxYuOEmWaGoYh/15rn4SeY7wReFnCBj0UBXkuKwQ+QtSyS2r6kI8A7LtK4Ty82sVidEJaJUWp9vA7njANQ8O+msB4x+iETI3JtNZolqOjg84lEx67/H2IAX1lcKpOqyjiU5qQFmH6RlL0yjpCFM4jsO1qgxHphCiCuHfo50lkNE5kAWdwh8sKsN1gIwdX9C7UkQFICQCy5ResO7d7qPKK3MD+Oyq2zwyD1hJSM3IO6cupLqSwu6ebt8JkSnZpaYlibQLV/Gzkhy/p+Z8wlgXFPVWj6jbsOpxhv+PpYjejntpHtx/f22d5YMZS5LEjVdwS6s2LJiTC5y7vdX6/EjP5pK6QHUGsism3+8DECXGv2NE3SU+tjQCBrz9FyD/jw6cbfsfPtPbRL1Xnd+7iSq6bg==;A+h1pP3Irjye39TX4+fvBg=="
+secured: "vuoYVXOivULVQnh7CU49B5LZ5oqr9es7iOwLvQTTDNHAanOiW2MRF5+bf4kVWnNWcefrQzwaybCKve/wwd7Mt+hAaItNPYsOuNUI5Y3yps+2z/DyPAtoKHV83CN4iCRFiEpbMF3AXNfR5khH8WvJir0blICfGm59BOwvu4jcCizPiGkANqD0RExDhIp/Eh/CWBJXPfZJpPwP9VXt16HFoanE33yNnU/iLB8zrZViKy0lV6T9QvwjCb4xWWfumc3yD3zjmV6Ai1b0aXISucvfxr1HKha3s06T04gQ7IZqAZez7s9fNd08noZEA6hXlX2zo7h1sPyvZioI04u5/LE8TkZGggkgKSRdheqZtKNZ7im75gZYCm+QEUvlDbuHxRIQ3/Fbrd4P36+n15oVp5NUALGQ9OiSt3u0DODYw6hjmXKmkpn+YlZwHCrk24lIM5wyTHSdYJt9RG6wAUBM9EmdVKw1bN2x3qNgWxMXZ677EX0jjyuEABoIq1/1nAJ1DpJRjMM7LqFQOmgkuEsuAxOANw==;4LjgaHpZewUayOwH8QQNCw=="
 ---
 
