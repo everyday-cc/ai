@@ -302,17 +302,6 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 34
-  - title: "NVIDIA Hopper in Full Production"
-    excerpt: "World's Leading Computer Makers Dell Technologies, HPE, Lenovo, Supermicro, Plus Cloud Service Providers AWS, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure Building H100-Based Offerings;"
-    publishedDateTime: 2022-09-20T16:18:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28935573/nvidia-hopper-in-full-production"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28935573"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28935573"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
   - title: "ASUS Servers Announce AI Developments at NVIDIA GTC"
     excerpt: "ASUS, the leading IT company in server systems, server motherboards and workstations, today announced its presence at NVIDIA® GTC"
     publishedDateTime: 2022-09-21T13:12:00Z
@@ -331,7 +320,16 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "NVIDIA Hopper in Full Production"
+    excerpt: "NVIDIA today announced that the NVIDIA H100 Tensor Core GPU is in full production, with global tech partners planning in October to roll out the first wave of products and services based on the groundbreaking NVIDIA Hopper™ architecture."
+    publishedDateTime: 2022-09-20T16:45:00Z
+    webUrl: "https://insidebigdata.com/2022/09/20/nvidia-hopper-in-full-production/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 4
 
-secured: "FzTpj4y2T+uFZ/VAgW2EC2/yoSM9Ar/yfNu/6KrUVRLZpbT/CUkaxcFlPodL51DGJp2Y4eaJJwR0itjd4GKPj4A1kom6fYlHUEszf8O6t1B8qj5N2fkzb0vgDNIfcY9XlGV0mkFK8o0AjSolhbv8EEKNOE4dPhaHA3wIy+sJC4Y1RnqPya2ykRO+tWk8W1vs/f7TQjp6nWuOJRuFrGGfBNqpyHH24RboUKGt6ST3+Z+kcTuPZhtj0oUoTdjtsDh3UxM0LFhDPhL6Lq2QXiKGUjOvrECg6hk5OxhZFHhTzOWRim3HR2dvu+0RsoS+XXshgY/orXccQngPhQMiQmIpyi9DdkaxdF5nJ2lJKsiOK2E=;LSj+NDXy5047pZamQowtVg=="
+secured: "mAyNtDtoOt1M2UjJ2huy85oKA9CRDV5TWl/0WpIgXEOqThXMRknLxoA0F1cRIoYq2xhNUFhpPrSLm7gMfhDlADyOoHWKAhm+x2/zr31fR+4F7oCTdtHydNQAFMClAOu4sriU+TkKWQgdKa0gLnjyveSRzbA7ASA4sVB6BOZQUAlOODzwPrV/LuVQmLpJHdLKlXVsndNTNrSUyIWvN2umByWXxy7NzKzeHUn8WoxHh31lBa2Fi+Q3eFioH6OtF5zspq1oOOC2+mOq6XAmUtLuDW2JSGmv7Zvb82v4u2kGPkKbl+8vLFyy2Y7AapvBmtBT5NZUvJPjIFB93UdZagJDN3khM0dtw/dJhrpziBP7ElHyJbqbMtJmaRhCLrX6MZShcCdCr4IltWJfXS1+Tz1Pg9T+IEElwI2Z0nMUFkMJmykngYxa0HhIWBcnk/ooXWZO//H5ydShtd3VXDvwwtScFwxxZaiV2kOiRU9E5ZabQWtiO5O2SY73ZjHLzhFFMS1Wgd290FHjFgtNXkmC8qi/lw==;LoJrg91EeG3qqjI7GS1TDw=="
 ---
 

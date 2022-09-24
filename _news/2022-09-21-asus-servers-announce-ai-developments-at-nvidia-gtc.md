@@ -310,17 +310,6 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "NVIDIA Hopper in Full Production"
-    excerpt: "World's Leading Computer Makers Dell Technologies, HPE, Lenovo, Supermicro, Plus Cloud Service Providers AWS, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure Building H100-Based Offerings;"
-    publishedDateTime: 2022-09-20T16:18:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28935573/nvidia-hopper-in-full-production"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28935573"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28935573"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
   - title: "Run:ai Certified to Run NVIDIA AI Enterprise Software Suite"
     excerpt: "AI Atlas for NVIDIA AI Enterprise will help data scientists run their AI workloads most efficiently,\" said Omri Geller, CEO and co-founder of Run:ai. \"Our mission is to speed up AI and get more models into production,"
     publishedDateTime: 2022-09-20T18:18:00Z
@@ -330,6 +319,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "NVIDIA Hopper in Full Production"
+    excerpt: "NVIDIA today announced that the NVIDIA H100 Tensor Core GPU is in full production, with global tech partners planning in October to roll out the first wave of products and services based on the groundbreaking NVIDIA Hopper™ architecture."
+    publishedDateTime: 2022-09-20T16:45:00Z
+    webUrl: "https://insidebigdata.com/2022/09/20/nvidia-hopper-in-full-production/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 4
 
 secured: "dugTunu57eWNTzEF9vxgT8r3jTcDZqsQXa5QH4hwRX/MXf11FbE2JSTHAN9AQjVhRrhuPVsrwXUl+NSCkbt6NdAzQtTHdzEGDby5Z8o4DiVZBfdE+6VB0jbZ7ybBqrdTHJUlquONw1H4Mt/RQT3ri8X5kfjSTHwSqfaJtXe+YPWMazq/hOcDRUjbhTgyLXZGXR7PLLUqd2LB8J9xCuWmN38JsGkhi/8hZYD+08iKV69ux+tsOWvTsdqR04TB9cFZ9Xb1yvbMHAFpKmmWDEGek/d2yc7z2Jcbv9Iuv4o5zj9r/S+qM+lVPe0t6nVQPaGy2by56te8Z33fTK/fjuSOz6tVSNMTjUSTVviqjAgoBTJOG60lMNOAiSsia3P1ySKFN3o8gqZuUzkm8gGu/zj+SNH7JblfdHlzkRs394ew+R2kwQAsKE1/C//1FLIg8XdOUC+QZ5kuu2Q6pIoow2uhK6w5lhySgNpA/MxnEcc9VgYeRUs6EYZ1DoBwr1iHI7ntc96s5m+P5igEC/tWiQXpKQ==;paIGKEfQjbLRwkE7Q65o8w=="
 ---

@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia sends urgent orders to TSMC for banned GPU"
-    excerpt: "Nvidia, a major GPU maker, has sent urgent orders to TSMC to make GPUs that will be banned from exporting to China next year, Taiwanese media outlet UDN"
-    publishedDateTime: 2022-09-19T07:35:00Z
-    webUrl: "https://technode.com/2022/09/19/nvidia-sends-urgent-orders-to-tsmc-for-banned-gpu/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
-        isCached: true
   - title: "Nvidia officially announce RTX 4090, 4080 GPU at GTC 2022"
     excerpt: "Nvidia unveiled the first lineup in the RTX 40-series of GPUs. It follows after months of speculation after a series of leaks."
     publishedDateTime: 2022-09-20T15:37:00Z

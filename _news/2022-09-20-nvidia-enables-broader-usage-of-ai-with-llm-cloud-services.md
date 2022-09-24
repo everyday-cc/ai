@@ -306,17 +306,6 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "NVIDIA Hopper in Full Production"
-    excerpt: "World's Leading Computer Makers Dell Technologies, HPE, Lenovo, Supermicro, Plus Cloud Service Providers AWS, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure Building H100-Based Offerings;"
-    publishedDateTime: 2022-09-20T16:18:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28935573/nvidia-hopper-in-full-production"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28935573"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28935573"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
   - title: "ASUS Servers Announce AI Developments at NVIDIA GTC"
     excerpt: "ASUS, the leading IT company in server systems, server motherboards and workstations, today announced its presence at NVIDIA® GTC"
     publishedDateTime: 2022-09-21T13:12:00Z
@@ -335,6 +324,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "NVIDIA Hopper in Full Production"
+    excerpt: "NVIDIA today announced that the NVIDIA H100 Tensor Core GPU is in full production, with global tech partners planning in October to roll out the first wave of products and services based on the groundbreaking NVIDIA Hopper™ architecture."
+    publishedDateTime: 2022-09-20T16:45:00Z
+    webUrl: "https://insidebigdata.com/2022/09/20/nvidia-hopper-in-full-production/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 4
 
 secured: "uwMxmvKMeHE0dluN9LZ/MsRNITuLw97SBbTB2VzAVhvKTTN5RZtvzZHFfVCQz28b3g/6hhv/Hk77m6PfDNZC3GImZ1641tIbNKoT6suoIPx5bypZxDBGO2vwk/7NkuCVvdEIGeNCA1pG4XgfxPWfu8LDUMRbEg+WGoes1KiP/cctTRqe01IWqaygvCVmBijYE3mNalljNDleIJOTTFxVG9cQgRklfm+vGmY6LwrbmoPYewE9nTz6v2b3rd2x3vmtix0102GSnpuKO+vbDBWIVgqkxTz780foz+YuvXyL4Y6TzOJftEQxFoZep/fHsYompF7OFIOkzMFjsVpgBgOl3Fas1Q4YrwP3Abg2RFn9z920XMi0ApYf4gtyfpslWJESpSgCizyaHbtVZm7TzsGLFX+KoTvq5gPMM7jTOqLnoKSHbuguaywRXqHMRU8uoPqJNv878+r2R5DtYvjxR3jQJ7Xx5FYgoNtBtq0BcDx7eBCDo8nNYc/8xdqfFyMOvZX+GuHv0bSVOeY6dbKQZeI+tg==;fxAAixiAJV9orNKZZmBnIQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://www.thefastmode.com/media/k2/items/src/043a9e295a2fd8ba758801a227aad0fd.jpg?t=20220921_124815"
         width: 753
         height: 408
-        isCached: true
-  - title: "Predictive Analytics Market – Future Plans and Industry Growth with Quantitative and Qualitative Analysis"
-    excerpt: "The Predictive Analytics Market revenues were estimated at US$ 10.5 Bn in 2021 and is anticipated to grow at a CAGR"
-    publishedDateTime: 2022-09-19T08:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/predictive-analytics-market-future-plans-and-industry-growth-with-quantitative-and-qualitative-analysis-2022-09-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "See the exclusive 22-slide pitch deck that AI company 4M Analytics used to raise $45 million in Series A funding"
     excerpt: "The startup raised over $45 million from investors including Insight Partners, ITI Venture Capital Partners, Viola Ventures and F2 Venture Capital."

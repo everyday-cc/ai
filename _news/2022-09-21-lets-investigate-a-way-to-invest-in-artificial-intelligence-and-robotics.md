@@ -56,20 +56,6 @@ related:
         width: 753
         height: 408
         isCached: true
-  - title: "Predictive Analytics Market – Future Plans and Industry Growth with Quantitative and Qualitative Analysis"
-    excerpt: "The Predictive Analytics Market revenues were estimated at US$ 10.5 Bn in 2021 and is anticipated to grow at a CAGR"
-    publishedDateTime: 2022-09-19T08:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/predictive-analytics-market-future-plans-and-industry-growth-with-quantitative-and-qualitative-analysis-2022-09-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "See the exclusive 22-slide pitch deck that AI company 4M Analytics used to raise $45 million in Series A funding"
     excerpt: "The startup raised over $45 million from investors including Insight Partners, ITI Venture Capital Partners, Viola Ventures and F2 Venture Capital."
     publishedDateTime: 2022-09-20T13:40:00Z
@@ -98,6 +84,6 @@ related:
       domain: controlglobal.com
     quality: 4
 
-secured: "UR0eXVo6SCeP/dLTAemqgexPnetJOBNpvV393a3aps985jlyWNzODrlW46WjHwNv9DyABUP9kVSD5DLTSITtt0t/H/Z61HcQ8zYhN/gmkV4a7V5AyZp/nhyzamXNLhd2rxyZwScAY+9Ku4JGZ0Mc7xYCrgZZWGV517383VQovNnuVNhOgxd7YhrfPt8jBpnaQz2H8/x0/c1gPjs24f9I67pZxsFhw5T3ENEqUTDysZjqjgT/qnmlg6ehAEWrR1o2SQQy03aCqGIuvX4uGfMRQyUNLsWwaR++PhgvurJHtLxN6OVi0fnN/4RlJ83eBWtUCvLwxtdwL7uq/1lct6UMH6va3GwS+1hN2hMBmut8KEk=;76wM94K1n7BX5yd7/Z4xQA=="
+secured: "0ABeLgqgC8bOE0jum1rDcooVqftzn0PzM7Ig7Kl1vinTOJtHbgkFnD6Q7PkBbnMzgjbM6k/6qG01lF4rQBowwP4Hiu80lP/yA9FNe3XE0R9VUWGikYKf95t6u0OTmAN8AhoNzld0UpxD3ebMlKE515QfAFMu8aVcN8OQfI88e/9WAyAIhPhfxxT9eoSLliauMFQLndP9TZgW/UTCpDCJ+x+xLgWOUdBP1J2vnzDcoQ1roZEBrDi0tprj/TPOd9jOleVZ13/5Kz+shqQhvHI7URKrj0a2DOB1IdJMMrVqpvQWJYl05m0lhJ0MpjfQy2W5Ff5eFL4hd9oomHL6iRONfYE/pQ59EmrRGD4jXDFSbfdIV1jR8mqvAcCGYYptOLAEMYBrP1dgInR9Qw7hP/iVwwdUOifB/JzLdQ02jKmLzvM3qe7MsVB5trp9nhWAPSm7r3WouvrIlZG0jRdDIHB+uHzygbGwieB2M1PXrIgHvnt0zez7DLVdHay6VHBXLzH+If7LAAbXRwKTApgXRRak1g==;B2jHr8WY8mcWqIkzEUk7Gw=="
 ---
 

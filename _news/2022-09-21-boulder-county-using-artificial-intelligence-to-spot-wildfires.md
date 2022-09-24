@@ -9,8 +9,8 @@ ampWebUrl: "https://www.9news.com/amp/article/news/local/wildfire/boulder-county
 cdnAmpWebUrl: "https://www-9news-com.cdn.ampproject.org/c/s/www.9news.com/amp/article/news/local/wildfire/boulder-county-artificial-intellegence-wildfires/73-9879cbf9-ad68-443c-8721-c8d5cf4b11a8"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: 9NEWS
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "This Startup Is Using AI to Turn Video Security On Its Head"
-    excerpt: "Ambient.ai applied artificial intelligence and computer-vision intelligence to rethink security cameras. But market saturation was an even bigger challenge."
-    publishedDateTime: 2022-09-19T09:02:00Z
-    webUrl: "https://www.inc.com/christine-lagorio-chafkin/security-artificial-intelligence-ambient.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 54
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/Shikhar-Shrestha_513419_jggx7k.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Pano AI raises $20 million Series A to use AI imaging to combat wildfires"
     excerpt: "Pano AI, a startup that builds imaging systems to detect and prevent wildfires, has raised a $20 million Series A led by Initialized Capital and included Congruent Ventures, Convective Capital, DCVC,"
     publishedDateTime: 2022-09-20T15:34:00Z

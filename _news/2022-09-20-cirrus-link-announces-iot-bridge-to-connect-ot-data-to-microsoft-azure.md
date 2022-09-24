@@ -38,27 +38,27 @@ related:
       domain: tmcnet.com
     quality: 49
   - title: "HighByte Expands Industrial Connectivity from Microsoft Azure IoT Edge to Azure Digital Twins"
-    excerpt: "The industrial software company has expanded cloud connectivity and improved enterprise IT management with HighByte Intelligence Hub version 2.5."
-    publishedDateTime: 2022-09-22T16:31:00Z
-    webUrl: "https://www.automation.com/en-us/products/september-2022/highbyte-industrial-connectivity-microsoft-azure"
+    excerpt: "HighByte®, an industrial software company, today announced the release of HighByte Intelligence Hub version 2.5 that expands connectivity to Microsoft Azure services, including Azure IoT Edge and Azure IoT Central,"
+    publishedDateTime: 2022-09-22T15:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-highbyte-expands-industrial-connectivity-from-microsoft-azure-iot-/2022/09/22/9679234.htm"
     type: article
     provider:
-      name: Automation
-      domain: automation.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 43
     images:
-      - url: "https://www.automation.com/getmedia/aa63c977-cdce-4db8-9dff-034bafe0dadc/Highbyte-prod-Sept-22-2022-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
+      - url: "https://mma.prnewswire.com/media/1904904/HighByte_Version_2_5_Press_Release_Image.jpg"
+        width: 400
+        height: 220
         isCached: true
   - title: "Tecnotree to Accelerate Digital Transition to the Cloud with Microsoft Azure Integration"
-    excerpt: "Tecnotree, a global provider of Business Support Systems (BSS) for the telecoms industry announces it will provide Digital BSS products built on Microsoft Azure to Digital Service Providers (DSPs). Through this integration,"
-    publishedDateTime: 2022-09-20T10:25:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-9-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration"
+    excerpt: "Tecnotree's Digital Suite-5 for consumers and business monetization is built natively to run on Kubernetes and is aligned with the Microsoft Azure cloud to drive multi-tenant, multi-region transformations that allow enterprises to lower total-cost-of-ownership (TCO) by eliminating significant upfront investments."
+    publishedDateTime: 2022-09-20T12:50:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/09/20/9676461.htm"
     type: article
     provider:
-      name: The Buffalo News
-      domain: buffalonews.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 25
 
 secured: "k0bK8zL7XgJFHkzLH+DhJ2w3vhK/JUgZhIgjhPegGgFiIAUVPXJBl95P4sMwyketxf0aCDQ1HNMuX4VjhJur824T/rBVuOgECjzHncOIgj6nwunEWSyeJD3opvedOwyTRG8lS8CMWVUTceMEDx2Jx17PKBaCpHzG/ZrqFl/P5fQ0dJamZpFwUS5FHjAPjR7BjSkfqsQJPepcbhFwRttSu2y+QQUrjjWQbb390Gydpr2y3uRjmrsSFRLD4TLYRC5cj7xxqACiBbk/pz2AcmK59a08g/hE9hyXxdXivlaHbSC/PMCo643grXRHDMFps6CfgPu1s7sdJoFJQ2dUUl2gYzMcK9CAxBz73msD1/6ra70=;0s2qcHLGzhhTc/qrLvBuFg=="

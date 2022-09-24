@@ -66,20 +66,6 @@ related:
         width: 753
         height: 408
         isCached: true
-  - title: "Predictive Analytics Market – Future Plans and Industry Growth with Quantitative and Qualitative Analysis"
-    excerpt: "The Predictive Analytics Market revenues were estimated at US$ 10.5 Bn in 2021 and is anticipated to grow at a CAGR"
-    publishedDateTime: 2022-09-19T08:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/predictive-analytics-market-future-plans-and-industry-growth-with-quantitative-and-qualitative-analysis-2022-09-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Charlotte AI data analytics startup Stratifyd raises another $10M"
     excerpt: "Eric Healy is the Charlotte-headquartered startup’s new chief executive officer ... The company was founded in 2015 and operates what it calls the Smart AI™ experience and insights platform. The company’s first Fortune 500 customer was Lenovo ..."
     publishedDateTime: 2022-09-19T13:57:00Z

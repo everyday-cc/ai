@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-409
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/amp/"
 type: article
 quality: 78
-heat: 208
+heat: 198
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/p8q3ue5UA9LEtBVyNxgyWn-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Nvidia sends urgent orders to TSMC for banned GPU"
-    excerpt: "Nvidia, a major GPU maker, has sent urgent orders to TSMC to make GPUs that will be banned from exporting to China next year, Taiwanese media outlet UDN"
-    publishedDateTime: 2022-09-19T07:35:00Z
-    webUrl: "https://technode.com/2022/09/19/nvidia-sends-urgent-orders-to-tsmc-for-banned-gpu/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
         isCached: true
   - title: "Intel is gearing up to release Nvidia RTX 3060 GPU rival"
     excerpt: "Intel CEO Pat Gelsinger says the company is preparing to release the Arc A770, a flagship Alchemist graphics card that'll take on the Nvidia RTX 3060"

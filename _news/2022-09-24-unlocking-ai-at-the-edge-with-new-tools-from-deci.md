@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/unlocking-ai-at-the-edge-with-new-tools-from
 ampWebUrl: "https://venturebeat.com/ai/unlocking-ai-at-the-edge-with-new-tools-from-deci/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/unlocking-ai-at-the-edge-with-new-tools-from-deci/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2016/06/computer-vision-e1663772711547.jpg?w=1200&strip=all"
