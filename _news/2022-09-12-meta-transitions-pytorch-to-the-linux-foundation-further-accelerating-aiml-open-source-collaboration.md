@@ -1,15 +1,17 @@
 ---
 category: news
 title: "Meta Transitions PyTorch to the Linux Foundation, Further Accelerating AI/ML Open Source Collaboration"
-excerpt: "The Linux Foundation, a global nonprofit organization enabling innovation through open source, today announced PyTorch is moving to the Linux Foundation from Meta where it will live under the newly-formed PyTorch Foundation."
-publishedDateTime: 2022-09-12T15:30:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/09/12/9671322.htm"
-webUrl: "https://it.tmcnet.com/news/2022/09/12/9671322.htm"
+excerpt: "PyTorch Foundation to foster an ecosystem of vendor-neutral projects alongside founding members AMD, AWS, Google Cloud, Meta, Microsoft Azure, and NVIDIA DUBLIN , Sept. /PRNewswire/ -- The Linux Foundation,"
+publishedDateTime: 2022-09-12T13:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/09/n28829937/meta-transitions-pytorch-to-the-linux-foundation-further-accelerating-aiml-open-source-collaborati"
+webUrl: "https://www.benzinga.com/pressreleases/22/09/n28829937/meta-transitions-pytorch-to-the-linux-foundation-further-accelerating-aiml-open-source-collaborati"
+ampWebUrl: "https://www.benzinga.com/amp/content/28829937"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28829937"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
@@ -17,6 +19,6 @@ topics:
   - Machine Learning
   - Facebook AI
 
-secured: "/VCG5w9+L/S8E1Ianqie2ss0zs0OmgH7ZskTCdlXmdB5Wne0GRTwhRLSMQK5PwO+daoeVsW8xMoazjoOXwsIke0IzPVCFfEjIFfF4K3TtdbREWWG+uVdOE3Arv7xx6kBJD8mqmlzO7MdQFCXxmn5lQ2Ii+juhS2xoYYsVXYY6BpdpWPv96Jszx3wHvEJqMrOGrkhum34sTG4uY1b32eIJC37QWnzMgwfrsVLAAj/r49cJP+pvxUSUHmrBt74NyhZIu/clRDFpkuZXxv0k89vEXoI9ojnN9G+J2gacHujua4N0yyUrHAyvCiXALJ9Fh4gMOxU6MjdjPIZUHQevMZO8WZCRBEnQ7qj1oSCEaPMNI9gaHpHSh97XQ+N1w8iWX5eSlDaogTowt1+yKhs69f3ej58QELWqdzQHYlFrhnE3tf9SxY86cJ0ysdgV4BjUEEVU2kcofChEUrMcelA9Ow1LTMXae4zlsMopC1cLEFLuyVgEAgtFyveOS7GMBgTt2AHQTeSS1rNR9l4j+RI1NVFgw==;PORQdqGNHWvhMd7bHnk2Gg=="
+secured: "7bv619T9Vh0SMiM2UkBzSMqK6+2p9Ff44FRNYPRLtL2t3jvo+xOz5URS2NCr8v2vVs5qDa7R89M/0tyG83HO51tfdv5irgY89k6XQNsdnpXf8fC+ONs3etyi6Dsvj9ptPi+/VQi0ywWKsQIQdkSFlfHgNo2/v4vQvwSLftt6PCWmPLBsqwmzRJCRErkRaVsbA1iH4m8iU+7E3tZzhcjLr+VIFbGcF7la7phXSSZz73skVmgBMKBzQ6lrzdGe4NO0eLqQ1pbN0tmVtsekyPS4Pii53bqE6WNgj3+ouUymIwEXkyWLtsiXqi+jfSEtpAtjyrnedd+PpOJ43tU3ssAF5OtVYsEEnxF9vVimp8uqRo8=;WBvs0Th7ypav/79pcxMc+g=="
 ---
 

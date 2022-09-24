@@ -2,11 +2,11 @@
 category: news
 title: "Dogs and Humans Interpret What They See Differently"
 excerpt: "Naturalistic video clips from a dog's point of view were shown to dogs undergoing fMRI brain scans. Artificial neural network programming was used to analyze how the brains of humans and dogs process visual inputs."
-publishedDateTime: 2022-09-20T14:11:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently"
-webUrl: "https://www.psychologytoday.com/intl/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently?amp"
+publishedDateTime: 2022-09-20T13:33:00Z
+originalUrl: "https://www.psychologytoday.com/us/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently"
+webUrl: "https://www.psychologytoday.com/us/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently?amp"
 type: article
 quality: 44
 heat: 44
@@ -26,6 +26,6 @@ images:
     height: 800
     isCached: true
 
-secured: "7orblxz1S1xTaC7ZSxu2i2nEaiWtAlG4AgLaS8c2wzSIwxu6kdYrf3s3GfhQyLA60I9b0kNqJp5lM3ltt/lRwJmxy5PVnYirBdYpoCTYSIR/Z2LVzB37yMS4UNXIDAUpyLhIb3IU9NTTBmRr4HPOyoROi1+uVvsLwiG55GBZ918mvK9H+gHtIOtwMH9leCnD4NjNYZT34dx5A9u6nJH/0Rl93zfu/Bvak5mwutA7gHvcBfZ/kuk7JWGUkIHGKud2pPRoAYL164rsqeqD0zNgN3xAd/NLP+lNteBa5WL8ndDYISdOi4YX6iRQxjs8rpCF5ThF5EnUXbH4yQQQeps1jjMEx083lSeWh3pumVjonr2cpJGbfiaB8h4RWngvVMDVHtIk4Eir/TiJCDogkzLLGGy9WM36zcCbPapLZKtkI16EsLKddnwpQWnhItjhJgkDahB8NbIDu8Ly+TVDybBzvgVbuY0ZwY2A1jKH8b2doj///vtWdyrsqPcFgME5iqN3NFouGuMaDN4CPYfL/G60SQ==;Ir05eWd8Hh1w9t/ghE98Dg=="
+secured: "6h5syIrrz2YycADkduY8YsIp8qdtbNvD6/KB46TI4lxxa0DVUxI09GsI/CQHWFmE7LI6dk5/vrYHzCiKwD9LXa6tF8A+IOAG7kc5RdvvIsLfaVCfxPRfNAxFUbcLImhfKCQTlRf8/l7+haZ97oWpGTHIFy0HMzqQa+KeOqaoWdE3/2Rdo8ijstiPDQ5BkhSa2EKayJBhYiaaFzMr4nwqsMTGjjrjPP/7nfsjQ38D1HiaC7L4+9lF8QSDofDg6BspCr7BZXIcyIBIHgIKL3185JITNbWOFwP+pJedOUZb2yoouV0H44h8x1xTU99zntr0vDOmGZkoLTc39fGyWVI5JH65EXY9agfO86t+b6HN3mU=;abKtcDywrtCloSlspX35UA=="
 ---
 

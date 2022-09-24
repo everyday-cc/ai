@@ -2,6 +2,49 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2022-06-22-uncovering-links-between-grit-and-cognitive-function.md",
+      "title": "Uncovering links between grit and cognitive function",
+      "excerpt": "Gritty people may be more able to self-regulate and show 'cautious control' -- but don't necessarily have greater cognitive ability, according to a new study. A new analysis of the personality ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/06/220622141825.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/06/220622141825.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-how-utilities-use-machine-learning-for-risk-management.md",
       "title": "How utilities use machine learning for risk management",
       "excerpt": "Over the years, we’ve used various combinations of Palantir Foundry, AWS solutions (Amazon Athena, AWS Glue, Amazon SageMaker), Google Cloud products (Vertex AI, AutoML, AI Infrastructure), and Azure Machine Learning. Each solution offers its own ...",
@@ -1100,40 +1143,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-amax-launches-ultralow-latency-and-liquid-cooled-quad-gpu-data-science-workstations.md",
-      "title": "AMAX Launches Ultralow-Latency and Liquid-Cooled Quad-GPU Data Science Workstations",
-      "excerpt": "June 21, 2022 (GLOBE NEWSWIRE) -- AMAX, a leading provider of high-performance computing (HPC), artificial intelligence (AI), and OEM data center manufacturing, has announced new GPU workstations ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.koin.com/business/press-releases/globenewswire/8575520/amax-launches-ultralow-latency-and-liquid-cooled-quad-gpu-data-science-workstations/",
-      "originalUrl": "https://www.koin.com/business/press-releases/globenewswire/8575520/amax-launches-ultralow-latency-and-liquid-cooled-quad-gpu-data-science-workstations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KOIN 6",
-        "domain": "koin.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

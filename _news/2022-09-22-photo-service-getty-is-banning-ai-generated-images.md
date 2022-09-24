@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "D-ID, the company behind Deep Nostalgia, lets you create AI-generated videos from a single image"
-    excerpt: "D-ID does not want to limit itself to corporate training, communication and marketing videos - it has ambitions of facilitating real-time video call translation and clone presenters."
-    publishedDateTime: 2022-09-19T18:08:00Z
-    webUrl: "https://techcrunch.com/2022/09/19/d-id-the-company-behind-deep-nostalgia-lets-you-create-ai-generated-videos-from-a-single-image/"
-    ampWebUrl: "https://techcrunch.com/2022/09/19/d-id-the-company-behind-deep-nostalgia-lets-you-create-ai-generated-videos-from-a-single-image/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/19/d-id-the-company-behind-deep-nostalgia-lets-you-create-ai-generated-videos-from-a-single-image/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 78
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/09/D-ID-Creative-Reality-screenshot-16-Sept-2022.jpg?resize=1200,750"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "How AI-generated images can streamline your SEO game with DALL-E 2"
     excerpt: "SEOs are always on the lookout for innovative technology that can help them amplify content creation effectively One such innovation that is on the cusp of being the next big thing in SEO and content creation is OpenAI’s DALL-E 2 What is it,"
     publishedDateTime: 2022-09-22T17:57:00Z
@@ -150,15 +134,6 @@ related:
         width: 4960
         height: 3152
         isCached: true
-  - title: "AI-Generated Games Are Starting To Appear On Steam (And It's Not Going Well)"
-    excerpt: "Enter This Girl Does Not Exist Making a game with AI-generated assets comes with its own unique challenges, as she tells it. Not having to make art from the ground up does mean things move quicker, but since This Girl Does Not Exist was a dating game,"
-    publishedDateTime: 2022-09-19T18:31:00Z
-    webUrl: "https://kotaku.com/steam-pc-ai-generated-art-midjourney-youtube-valve-1849531585"
-    type: article
-    provider:
-      name: Kotaku
-      domain: kotaku.com
-    quality: 14
 
 secured: "rWSgEdEIrF3bFI/HJUlES/lpW9zf92ijkgt2wf/EnZG+lW5Hk52wT6v8IcIl1hcW+FI4Jn+Jaxg1wf0TNrdFmd6mCrstS5YZQ0aOeH6SkDAQILsN//UDLxWUMZgZEozOqdGETF93XIxg224XbJrfmHaNfavHyI38KpBL00e3I/3qTP7ihBXsITcrNl9MDcKRTzCGP+1pP0ne2pIRgT6HmFNzU/6TSF7cm/8fsrJnAIrMpusOHrF7BbBR/1CyRZkRBB7vQUhHQmbVRq3tlCZPLsEWkklrDexA9MoAaErRB4no9cHeQD2us9wVaBXT5GoQF4bVKH5KH8FfhG54o8vVO0zbrc3Aucxd0VWCT6YUmUDQE8XpPO/9XpyxcSVc2B30HVs1Sx8845HitawDDaGFeDFG/BjViAN1fa/6sgjcTyLv2fzUC+b7kUAU/J1kJR+e+gY/cauQCdFmwwh8YrwGWpn69AgmDIXOFHd6PyHoly2HvaoCSjZlMe4XR+I5Np5TZALoFBSNlipw73CHg4PSRw==;vANepY8+JN1T8mnhwvL5Qg=="
 ---

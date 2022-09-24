@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/getty-is-banning-ai-generated-i
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/getty-is-banning-ai-generated-images/"
 type: article
 quality: 87
-heat: 177
+heat: 157
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://www.cnet.com/a/img/resize/f835513ea991cea316e5bb8b23246e208ecfdc93/hub/2022/09/21/5ef652f0-14d6-484f-b947-13e6ecd9c8aa/gettyimages-1346301198.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
-        isCached: true
-  - title: "D-ID, the company behind Deep Nostalgia, lets you create AI-generated videos from a single image"
-    excerpt: "D-ID does not want to limit itself to corporate training, communication and marketing videos - it has ambitions of facilitating real-time video call translation and clone presenters."
-    publishedDateTime: 2022-09-19T18:08:00Z
-    webUrl: "https://techcrunch.com/2022/09/19/d-id-the-company-behind-deep-nostalgia-lets-you-create-ai-generated-videos-from-a-single-image/"
-    ampWebUrl: "https://techcrunch.com/2022/09/19/d-id-the-company-behind-deep-nostalgia-lets-you-create-ai-generated-videos-from-a-single-image/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/19/d-id-the-company-behind-deep-nostalgia-lets-you-create-ai-generated-videos-from-a-single-image/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 78
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/09/D-ID-Creative-Reality-screenshot-16-Sept-2022.jpg?resize=1200,750"
-        width: 1200
-        height: 750
         isCached: true
   - title: "How AI-generated images can streamline your SEO game with DALL-E 2"
     excerpt: "SEOs are always on the lookout for innovative technology that can help them amplify content creation effectively One such innovation that is on the cusp of being the next big thing in SEO and content creation is OpenAI’s DALL-E 2 What is it,"
@@ -150,15 +134,6 @@ related:
         width: 4960
         height: 3152
         isCached: true
-  - title: "AI-Generated Games Are Starting To Appear On Steam (And It's Not Going Well)"
-    excerpt: "Enter This Girl Does Not Exist Making a game with AI-generated assets comes with its own unique challenges, as she tells it. Not having to make art from the ground up does mean things move quicker, but since This Girl Does Not Exist was a dating game,"
-    publishedDateTime: 2022-09-19T18:31:00Z
-    webUrl: "https://kotaku.com/steam-pc-ai-generated-art-midjourney-youtube-valve-1849531585"
-    type: article
-    provider:
-      name: Kotaku
-      domain: kotaku.com
-    quality: 14
 
 secured: "gRToPO5Pd75+o/kW80XbqhenJGR8LENF/ljTLSUuLJHohK/m0nf3knWW2Fp8xM48mQK5MNZxCdBN6c8X6POq5WVPHNI3uFwYC488xv072qXbG+sHtJZKlaPtAiRHYhkTuEME0RyvnOA08/YwP97iktLR1+doUUMNmGHDcftEKPUq9TPVcl2WzUMgdbZkLazc6jSlA4gctQUO7KTzjmPSYIv6bzmckVESGWbjCpCIRXxmOugOIi3pXMFv0x+eYB7k2AnLhNLQPNw6zLPSN/xpPP48UbU0QwsAV/Eikepcwv2+YL/eaZAhFSYMxzq6akE22UcezZFlfNKJKV0JLw7OS6/9Rmi5L3kPsnhLVwOKFXZxWB6GyZzHdIYrvwN5fVSp58w21JgDBma8uaR8rtjW9hZgWg67FHrSolIhrK05MgC6X5YYTQLxvkP0e+uxePqxjtI8eMAhnRBHUVzarwf1iu2KAHYnI3PzgM/10BwPrimSP3Cr53LbQs0vFiStygUfWQig2oBxo3USMiHcsfGgyw==;Q1t9D/HXzbloZA45D8zC6Q=="
 ---

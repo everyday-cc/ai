@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Can Government Be Trusted With Facial Recognition Technology?"
+    excerpt: "During the Covid-19 lockdowns, India’s Defense Research and Development Organization (DRDO) developed a facial recognition system that could identify individuals even if they are wearing a mask. But with great power comes great responsibility."
+    publishedDateTime: 2022-09-24T11:00:00Z
+    webUrl: "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/can-government-be-trusted-facial"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 39
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/2021-06-21T000000Z_571542026_RC205O9AFD53_RTRMADP_3_EU-TECH-ARTIFICIALINTELLIGENCE.JPG.jpg"
+        width: 1222
+        height: 815
+        isCached: true
   - title: "Face Recognition for Pigs Could Improve Welfare on Farms"
     excerpt: "Wenhao Zhang and colleagues at the U.K.'s University of the West of England have developed a facial recognition system for pigs."
     publishedDateTime: 2022-09-21T00:00:00Z

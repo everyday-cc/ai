@@ -1,27 +1,27 @@
 ---
 category: news
 title: "HighByte Expands Industrial Connectivity from Microsoft Azure IoT Edge to Azure Digital Twins"
-excerpt: "HighByte®, an industrial software company, today announced the release of HighByte Intelligence Hub version 2.5 that expands connectivity to Microsoft Azure services, including Azure IoT Edge and Azure IoT Central,"
-publishedDateTime: 2022-09-22T15:07:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-highbyte-expands-industrial-connectivity-from-microsoft-azure-iot-/2022/09/22/9679234.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-highbyte-expands-industrial-connectivity-from-microsoft-azure-iot-/2022/09/22/9679234.htm"
+excerpt: "The industrial software company has expanded cloud connectivity and improved enterprise IT management with HighByte Intelligence Hub version 2.5."
+publishedDateTime: 2022-09-22T16:31:00Z
+originalUrl: "https://www.automation.com/en-us/products/september-2022/highbyte-industrial-connectivity-microsoft-azure"
+webUrl: "https://www.automation.com/en-us/products/september-2022/highbyte-industrial-connectivity-microsoft-azure"
 type: article
 quality: 43
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Automation
+  domain: automation.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1904904/HighByte_Version_2_5_Press_Release_Image.jpg"
-    width: 400
-    height: 220
+  - url: "https://www.automation.com/getmedia/aa63c977-cdce-4db8-9dff-034bafe0dadc/Highbyte-prod-Sept-22-2022-web.png?width=500&height=313&ext=.png"
+    width: 500
+    height: 313
     isCached: true
 
 related:
@@ -53,15 +53,15 @@ related:
       domain: dailyherald.com
     quality: 34
   - title: "Tecnotree to Accelerate Digital Transition to the Cloud with Microsoft Azure Integration"
-    excerpt: "Tecnotree's Digital Suite-5 for consumers and business monetization is built natively to run on Kubernetes and is aligned with the Microsoft Azure cloud to drive multi-tenant, multi-region transformations that allow enterprises to lower total-cost-of-ownership (TCO) by eliminating significant upfront investments."
-    publishedDateTime: 2022-09-20T12:50:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/20/9676461.htm"
+    excerpt: "Tecnotree, a global provider of Business Support Systems (BSS) for the telecoms industry announces it will provide Digital BSS products built on Microsoft Azure to Digital Service Providers (DSPs). Through this integration,"
+    publishedDateTime: 2022-09-20T10:25:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-9-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: The Buffalo News
+      domain: buffalonews.com
     quality: 25
 
-secured: "nKcqlgKRPGStgjNMN107OKnqcf/X4vztn4amMpJZHJO+RlTk9kl1XbLpCb/JyJe6UXid/I0NOGS68ddGf1xZia/Q7xVNoJj69PtM/SyaM3kqXsYzRHzm0yAyE2KoLhlayUis6PhHx4gm01zHtnLpfQahK4IbNOGmKir/O3Hvlzt2Tj9n6oIh1orQUNFIazL7Y2DSujZnOrnT2Th9TngaqSpScNhFP4AzFKASvL7tjXpMV7woAkt8sX2VWDG61CH7Vu48HrQhHhhB6FGReyRXQ1CVGbt6XCUQ9y1StFSr+cfuWTbpfHPH6rHuiZwfnIiGHNf+XF0jMLBEawcYs545+Uqf2T74RKTe+Hv3PQd9dfQ=;UVsxiHReJRDFksboqpwSkw=="
+secured: "J5TisqTNwBout6rcbCJ+lMVJ4K9HM5JUCBf8SEmNDJbNiaHYy7Px7LNgcoNYEOtgQzE6u1aQ4AGktq1KnFHN3QNE/opdXXJw49bFRd4gtooKnBEaeci9VbKPfAuhJh5g66SO9IWdPWZYtr3QBr47cpRhjf7Dl4ytieAaBWDf0Zmh1+E3xdnlMXuTB5g9DCd/qQ2+bL6RFqkrcK9zTt86xZDF6DduFZP5fmA3MpfPVrwuiWO8mj90MnW6y8wAnlfFaoM9R1KJZIa+cSKHccFn8VPmXwlygBTwilU/UMlbwnAUnNkxTbYqWmEzRnsRZBYU3riZMCMui/xncXSHDpAtW161FPiQdXTdrIC5KFuAF8Y=;ScfQTfqZJmn2zDtCZEMpmQ=="
 ---
 
