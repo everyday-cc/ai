@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "CUSD’s Weinberg Academy earns national recognition"
+    excerpt: "By Ken Sain Managing Editor It didn’t take Weinberg Gifted Academy long to put itself on the map. The U.S. Department of Education recognized the Chandler Unified school in Gilbert as one of just unde"
+    publishedDateTime: 2022-09-25T06:00:00Z
+    webUrl: "https://santansun.com/2022/09/25/cusds-weinberg-academy-earns-national-recognition/"
+    type: article
+    provider:
+      name: SanTan Sun News
+      domain: santansun.com
+    quality: 24
+    images:
+      - url: "https://santansun.com/wp-content/uploads/2022/09/COCVERweinberg-e1663884487135.jpg"
+        width: 1800
+        height: 886
+        isCached: true
   - title: "Colorado Springs' Hispanic Chamber earns national recognition"
     excerpt: "The chamber announced this week that the United States Hispanic Chamber of Commerce Awards Committee selected the local organization to be the 2022 Chamber of the Year among small chambers across the nation."
     publishedDateTime: 2022-09-23T17:45:00Z

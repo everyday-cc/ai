@@ -33,19 +33,19 @@ images:
 related:
   - title: "Salesforce deepens partnership with AWS"
     excerpt: "Salesforce has expanded its partnership with Amazon Web Services (AWS) to enable customers to build custom artificial intelligence (AI) models using Amazon SageMaker, AWS’s machine learning (ML) modeling service,"
-    publishedDateTime: 2022-09-21T18:38:00Z
-    webUrl: "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955"
-    ampWebUrl: "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955?amp=1"
-    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955?amp=1"
+    publishedDateTime: 2022-09-21T22:32:00Z
+    webUrl: "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110"
+    ampWebUrl: "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110?amp=1"
     type: article
     provider:
-      name: IT Business
-      domain: itbusiness.ca
+      name: IT World Canada
+      domain: itworldcanada.com
     quality: 59
     images:
-      - url: "https://i.itbusiness.ca/wp-content/uploads/2022/09/GettyImages-1040557296.jpg"
-        width: 2000
-        height: 907
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2022/09/GettyImages-1040557296-scaled.jpg"
+        width: 2560
+        height: 1161
         isCached: true
   - title: "Salesforce goes real-time in CRM upgrade"
     excerpt: "Salesforce has taken a leap into the world of real-time data management with the integration of customer data platform (CDP) capabilities into its flagship Customer 360 CRM platform."

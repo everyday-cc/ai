@@ -24,6 +24,22 @@ images:
     height: 1279
     isCached: true
 
+related:
+  - title: "Perfectly imperfect machines: How artificial intelligence algorithms produce biased decisions"
+    excerpt: "University of Wisconsin assistant professor of sociology Eunsil Oh is working on a collaborative project with researchers in the computer science department to study how bias can enter algorithms and perpetuate social inequalities."
+    publishedDateTime: 2022-09-23T19:00:00Z
+    webUrl: "https://badgerherald.com/news/2022/09/23/perfectly-imperfect-machines-how-artificial-intelligence-algorithms-produce-biased-decisions/"
+    type: article
+    provider:
+      name: Badger Herald
+      domain: badgerherald.com
+    quality: 28
+    images:
+      - url: "https://badgerherald.com/wp-content/uploads/2015/11/6887025506_36fb6f0670_k.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+
 secured: "AQOfoHjxha5R1YX2Nq34JVHpmYqtbeEJKqYs5U4W+hbp1XkgS5B5jd25fsFMNejUvs7jwdlc4OBI8Mx2XhXtvY57B/8un7eVw1MsNDNCxTbRzJzH5+8HjmWH7ARI7qI6UQ23rBoxJ/97iagoYjIKu+1RID+BCAXXJTU8JLHGlKEdRO7tsexKuLT/v/YHsj9c9Pb4OGFuRrdCCOSATy88baxUOvxSo1GeFdUN4MnfYnHkejvLJCqd6+Con+Ir43rhkcJAMfkpomRF+4bu0FnKWyZZTmKpPDspqYU5HVu9v5HDcd1LBDI7wnQZeAIcbuCoad3J89EWg2qp3dQhxhiVoz2ynCq80fiD7QIwC8m0r5eDIRHPCkOFAQ7dUEdAJ+7TX/BGVMCNsU26lZEZebF7NBEJotyC9KeR5cW9d2vDIsVjIV24RxWAZNIpmyL135kLEE3phS2fkJ5lnQctaPxehncjuHe2N/ACpxszHD/24G2yHQ59MHKSZ/ZTv4VMuzGy7W9hZuppx0vmJF0ribtbMA==;VWdaERi9cVT1++qayylkrg=="
 ---
 

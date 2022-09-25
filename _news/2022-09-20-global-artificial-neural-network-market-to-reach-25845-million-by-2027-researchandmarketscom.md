@@ -56,15 +56,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 18
-  - title: "World Healthcare BI Market Trends, Covid-19 Impact, and Forecasts Report 2022-2027"
-    excerpt: "The \"Healthcare BI Market- Growth, Trends, Covid-19 Impact, And Forecasts (2022 - 2027)\" report has been added to ResearchAndMarkets.com's offering.The healthcare"
-    publishedDateTime: 2022-09-20T14:08:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28932883/world-healthcare-bi-market-trends-covid-19-impact-and-forecasts-report-2022-2027"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 13
 
 secured: "NgX8cLRcYFzfC8UinSxQRQafSg2AMB5tnsHRHHH0tUceAu5frtxyCZD5CvEzWGete1JB5ljNg9lOEvBOcgE/1a0XB/0bRpPZa+0wu5N1bb4hXTRFH5RHMMZ85itBvTDQq3mRpDllMiU0cHRVWV0uwdNX9UGH7hSl/rhlOucW3vpjh6Mlt0b2Krd1iu09q78frHbPsjXAyix5s6aUVBpOFb6W21rLzvMSvWHuXfC0glTmI9E7TWQC0eelddbZO6d3a0j6Q5kKBtuwD50DzFR+tyKipr0X24MSfUtQAASxnk+HnRGhIH1xSgXZF5KV0zDIwRTPIAeExbQnoZOPc4I3o/Ys1GCB7BoU7LqQWx54Khg=;DkFH+FhCTO/bCVrLfYhybg=="
 ---

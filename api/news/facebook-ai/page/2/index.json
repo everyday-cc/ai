@@ -2,6 +2,138 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-31-chinas-great-firewall-pushes-top-taiwan-ai-startups-toward-japan.md",
+      "title": "China's 'Great Firewall' pushes top Taiwan AI startups toward Japan",
+      "excerpt": "TOKYO -- Some Taiwanese startups specializing in artificial intelligence have chosen to expand in Japan rather than mainland China due to structural barriers that have become inherent in Chinese ...",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/Business/Startups/China-s-Great-Firewall-pushes-top-Taiwan-AI-startups-toward-Japan",
+      "originalUrl": "https://asia.nikkei.com/Business/Startups/China-s-Great-Firewall-pushes-top-Taiwan-AI-startups-toward-Japan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F4%252F5%252F0%252F3%252F42013054-1-eng-GB%252Fphoto.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T22:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ニッケイ・エイジア",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.md",
+      "title": "TensorFlow, PyTorch, and JAX: Choosing a deep learning framework",
+      "excerpt": "Deep learning is changing our lives in small and large ways every day. Whether it’s Siri or Alexa following our voice commands, the real-time translation apps on our phones, or the computer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/701064/tensorflow-pytorch-jax-choosing-deep-learning-framework/",
+      "originalUrl": "https://www.arnnet.com.au/article/701064/tensorflow-pytorch-jax-choosing-deep-learning-framework/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_107745072.jpg",
+          "width": 473,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T19:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "Facebook AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-he-kaupapa-whakangungu-e-pai-ake-ai-te-apopo-o-te-rangatahi-me-te-whanau.md",
+      "title": "He kaupapa whakangungu e pai ake ai te āpōpō o te rangatahi me te whānau",
+      "excerpt": "Kua whakakotahi Te Rūnanga o Waihōpai me Southern Group Training Trust kia tokona te whaiwāhi atu a te rangatahi ki ngā ahumahi, waihoki kia whāia ai ngā rawa katoa kia tutuki ngā tohu.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stuff.co.nz/pou-tiaki/300675428/he-kaupapa-whakangungu-e-pai-ake-ai-te-pp-o-te-rangatahi-me-te-whnau",
+      "originalUrl": "https://www.stuff.co.nz/pou-tiaki/300675428/he-kaupapa-whakangungu-e-pai-ake-ai-te-pp-o-te-rangatahi-me-te-whnau",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resources.stuff.co.nz/content/dam/images/4/z/0/h/e/j/image.related.StuffLandscapeSixteenByNine.1420x800.4z0in8.png/1661904362946.jpg",
+          "width": 1420,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stuff.co.nz",
+        "domain": "stuff.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-artificial-intelligence-market-is-expected-to-grow-at-a-cagr-of-26-percent-during-forecast-period-2022-2027.md",
       "title": "Artificial Intelligence Market is expected to grow at a CAGR of 26 percent during forecast period 2022-2027",
       "excerpt": "The artificial intelligence market is anticipated to display an elevated CAGR of 26% over the forecast period (2021-2027). The global Artificial intelligence market is expected to witness robust growth mainly due to the rising funding levels and a wide variety of applicability.",
@@ -1288,135 +1420,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president.md",
-      "title": "Meta AI chatbot says Zuckerberg 'too creepy' and Trump will always be US president",
-      "excerpt": "Meta (formerly Facebook) just unveiled an artificial intelligence ... tweeted that she tried out the new chatbot Meta created for AI research and had the most bizarre conversation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bgr.in/news/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president-1308360/",
-      "originalUrl": "https://www.bgr.in/news/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president-1308360/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://st1.bgr.in/wp-content/uploads/2021/12/Mark-Zuckerberg-w.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bgr.in/news/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president-1308360/amp/",
-      "cdnAmpWebUrl": "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president-1308360/amp/",
-      "publishedDateTime": "2022-08-09T17:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "www.bgr.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-metas-new-ai-chatbot-cant-stop-bashing-facebook.md",
-      "title": "Meta’s new AI chatbot can’t stop bashing Facebook",
-      "excerpt": "‘Stop trying to be TikTok’: how video-centric Instagram sparked a revolt Launched on Friday, BlenderBot is a prototype of Meta’s conversational AI, which, according to Facebook’s parent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook",
-      "originalUrl": "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T11:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-facebooks-ai-chatbot-still-thinks-donald-trump-is-president.md",
-      "title": "Facebook’s AI chatbot still thinks Donald Trump is president",
-      "excerpt": "The chatbot also seemed to propagate anti-semitic conspiracy theories (Credits: AP) Facebook owner, Meta’s new Artificial Intelligence ... collected through research studies with annotators ...",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/",
-      "originalUrl": "https://metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2022/06/SEI_108824475.jpg?quality=90&strip=all&zoom=1&resize=600%2C400",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/amp/",
-      "publishedDateTime": "2022-08-09T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },

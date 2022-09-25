@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/self-driving-car-pedestrian-safety-eyes-174
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595?amp=1"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -68,15 +68,6 @@ related:
         width: 1156
         height: 650
         isCached: true
-  - title: "Can eyes on self-driving cars reduce accidents?"
-    excerpt: "Robotic eyes on autonomous vehicles could improve pedestrian safety, according to a new study at the University of Tokyo. Participants played out scenarios in virtual reality (VR) and had to decide whether to cross a road in front of a moving vehicle or not."
-    publishedDateTime: 2022-09-20T13:29:00Z
-    webUrl: "https://techxplore.com/news/2022-09-eyes-self-driving-cars-accidents.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 4
 
 secured: "hyGn88s5/FT/YyyLjv1zQtn3aaHfWQvXEatsNKHO6+wvMjF2JtwuVbCKStpYww9u0tIlXv9nT9EpGNbEV5pxvH3l81B1snrMMomeDxZppLpdwbgnfWOOIJR9r0jHFzKyypS3k5wl1hSqUopmTeIFhej0Jkk+OSzW4eOXvztMRcQeLaBkNFCZF5U0scI9rfSatpHydfCZ6PRbLzn8FEGBHvgUJ9OGJtpADbAj7C0vR3Vpr2tAW7yeo2CEINjY/TCbhiWCzvpFTYZDBSm/mN23Jv1wC3PJpxB2nZaBm7vJQwWceNSi9NnsPPosbvyB/Hmh4qIkiAAn46y2ljEszjUBsdhhy2T7b+XUsObXe+31NRc=;goKSazcOhog7kh6PFMEXCQ=="
 ---

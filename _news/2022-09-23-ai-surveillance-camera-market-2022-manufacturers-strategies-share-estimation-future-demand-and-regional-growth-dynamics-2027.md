@@ -51,15 +51,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 18
-  - title: "World Healthcare BI Market Trends, Covid-19 Impact, and Forecasts Report 2022-2027"
-    excerpt: "The \"Healthcare BI Market- Growth, Trends, Covid-19 Impact, And Forecasts (2022 - 2027)\" report has been added to ResearchAndMarkets.com's offering.The healthcare"
-    publishedDateTime: 2022-09-20T14:08:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28932883/world-healthcare-bi-market-trends-covid-19-impact-and-forecasts-report-2022-2027"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 13
   - title: "Global Artificial Neural Network Market to Reach $258.45 Million by 2027 - ResearchAndMarkets.com"
     excerpt: "The Global Artificial Neural Network Market is estimated to be worth USD 171.88 million in 2022, and is expected to reach USD 258.45 million by 2027, growing at a CAGR of 8.5%. The Global Artificial Neural Network Market is segmented based on Component,"
     publishedDateTime: 2022-09-20T16:27:00Z

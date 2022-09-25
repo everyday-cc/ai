@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Boost Payment Solutions Partners with Australian FinTech Leader Robobai"
-    excerpt: "A leader in domestic and international B2B payment processing, Boost will provide its patented straight-through processing solution to Robobai customers. This collaboration will accelerate payment optimization for enterprise businesses and streamline end-to-end disbursement processes across the supply chain."
-    publishedDateTime: 2022-09-20T13:05:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/icrowdnewswire-2022-9-20-boost-payment-solutions-partners-with-australian-fintech-leader-robobai"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 19
   - title: "VegaX Holdings Raises Capital from Danal Fintech Corporation to Create Long Term Synergies for Digital Assets"
     excerpt: "Danal Fintech, a subsidiary of Danal Inc. which is one of the largest integrated B2B payment solution providers in South Korea, is the operating body of Paycoin and a global leader in integrated fintech payments solutions."
     publishedDateTime: 2022-09-21T15:30:00Z

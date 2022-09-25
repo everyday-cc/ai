@@ -67,15 +67,6 @@ related:
         width: 1156
         height: 650
         isCached: true
-  - title: "Can eyes on self-driving cars reduce accidents?"
-    excerpt: "Robotic eyes on autonomous vehicles could improve pedestrian safety, according to a new study at the University of Tokyo. Participants played out scenarios in virtual reality (VR) and had to decide whether to cross a road in front of a moving vehicle or not."
-    publishedDateTime: 2022-09-20T13:29:00Z
-    webUrl: "https://techxplore.com/news/2022-09-eyes-self-driving-cars-accidents.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 4
 
 secured: "jrQqWsOIECmKDuT6NT1tuEY7goETObfA52CkvxQx7tYcTE88xiMQQLSulme6X3Y5wZd0M2kIdQNn9jLbn7Q/1aq8Wc0MNv1dHtwblkxNQDNR0tWuborGNOLi/gOpIm0Sg9rA4AW/QOscroVDbnVHX9d7579MIWqm6hWiAf5+PQvXx85zyX9QRwkZVvzPiYpQYQUB9dHsj9EcAAhZfLkY+LxTOM1C4VXKY/fqddBj4irtP2ips1WMFnSovRzikE8IJ2Q+V77/Fv3O6KD2XVR6Uo9Bp/BiVPDinIvhZaDrmC6OQiRcanfumpZMDVXYx9+SgdesesvTSRzow0/ZdqY2tltjLBPsYfYVv5EpgSBLyGo=;G5Bxs4wErTnC2D7gd+M4Eg=="
 ---

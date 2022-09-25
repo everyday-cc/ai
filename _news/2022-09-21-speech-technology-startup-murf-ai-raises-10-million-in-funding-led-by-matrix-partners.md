@@ -68,15 +68,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "See the exclusive 22-slide pitch deck that AI company 4M Analytics used to raise $45 million in Series A funding"
-    excerpt: "The startup raised over $45 million from investors including Insight Partners, ITI Venture Capital Partners, Viola Ventures and F2 Venture Capital."
-    publishedDateTime: 2022-09-20T13:40:00Z
-    webUrl: "https://www.businessinsider.com/4m-analytics-pitch-deck-artificial-intelligence-funding-2022-9"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 26
 
 secured: "RAYL82vxKss/K2JBrJqxTlX0c3C8t0hTpI5ilRoc6u7+uUYYpB6a6FxNkPdr69gtcWo+iL/ETE5OkQZ5DR8WmdhJ5y0CuLQRKDAedeoq6m8fEZ44xLuDKvw6yCc2sC/vgF8S//YlAzkKre+85LirZzRZTr4BYcL1xRJJDcoZD2vHrALqUOu6K70nG3hUfqiJUg1nrn0IijNEOP9C8znNkRNp+JXIBggrHCLejIMSpBUhBwAwem1JUfFSpGQjcWE+DA6gY9fVe+nB+dpawU+vwuVBwb1Mu4NtJE0q6LY9pIIK4tXeKe4T2vv9gc1t0aitffqWjPkiHyHjnxNGGRu9x0/doyO3NQPK/6PjqkmQ8twgyAOTEzph+tqmdZhumO8amL1Sil5BitSNvEaMTmdUBwMUuZ1BBX07ojsGGJtg/RDQXsocecSw4o3py5yx6NEg92ZQF54edLHSOt4EOrIoLSdhcJlpro+Yi1v7P64YqaREw/xFJV6ZbIfZumYjLq4WOqoJtB35DW76bHfBbBVB2A==;ISq6ga2R3SET/m+cmXDnaw=="
 ---

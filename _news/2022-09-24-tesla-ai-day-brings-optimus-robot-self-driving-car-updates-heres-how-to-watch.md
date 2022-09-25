@@ -5,10 +5,12 @@ excerpt: "Tesla is hiring engineers to build a walking, talking robot called Opt
 publishedDateTime: 2022-09-23T18:49:00Z
 originalUrl: "https://www.cnet.com/roadshow/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/"
 webUrl: "https://www.cnet.com/roadshow/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/"
 type: article
-quality: 76
-heat: -1
-published: false
+quality: 118
+heat: 208
+published: true
 
 provider:
   name: CNET
@@ -22,6 +24,13 @@ topics:
   - AI in Autos
   - AI
   - AI in Robotics
+  - Facebook AI
+
+images:
+  - url: "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Optimus Is Coming: Are You Ready For Tesla’s Robot Humanoid Invasion?"
@@ -39,6 +48,38 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/632eca782c74404d4244b122/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 791
+        isCached: true
+  - title: "What can you expect on Tesla AI Day?"
+    excerpt: "Tesla AI Day is Tesla's annual event in which the company reveals all of its upcoming projects and showcases its latest technology. The event will take place on September 30 and is expected to be live-streamed on both the Tesla website and on YouTube."
+    publishedDateTime: 2022-09-21T13:01:00Z
+    webUrl: "https://www.zdnet.com/article/what-to-expect-on-tesla-ai-day/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/what-to-expect-on-tesla-ai-day/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-to-expect-on-tesla-ai-day/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/bb82a1b68d61171587c5d41c6fe6f42425701dc2/2022/08/15/7fd1c0ef-9d2c-4ec0-8ba7-a72afdbd0d35/tesla-humanoid.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Tesla sends out invites for AI Day 2, teases Full Self-Driving, Tesla Bot, Dojo, and more"
+    excerpt: "Tesla started sending out invites for AI Day 2022. The automaker is teasing more information on Full Self-Driving, Tesla Bot, Dojo, and more."
+    publishedDateTime: 2022-09-23T10:14:00Z
+    webUrl: "https://electrek.co/2022/09/23/tesla-sends-invites-ai-day-2-teases-full-self-driving-tesla-bot-dojo/"
+    ampWebUrl: "https://electrek.co/2022/09/23/tesla-sends-invites-ai-day-2-teases-full-self-driving-tesla-bot-dojo/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/23/tesla-sends-invites-ai-day-2-teases-full-self-driving-tesla-bot-dojo/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 97
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-AI-Day-2022-invite.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Elon Musk faces skeptics as Tesla gets ready to unveil 'Optimus' robot"
     excerpt: "Tesla Chief Executive Elon Musk blamed overreliance on factory robots for sending the electric carmaker to \"production hell\" four years ago, saying humans were better at certain jobs."
@@ -69,22 +110,6 @@ related:
       - url: "https://images.livemint.com/img/2022/09/21/600x338/Tesla_Elon_Musk_1663728702949_1663728703184_1663728703184.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Elon Musk’s Tesla to unveil humanoid robot next week"
-    excerpt: "Tesla is preparing to unveil a humanoid robot. Really. Plans are underway to launch a prototype of the mannequin-shaped droid — known as Tesla Bot or Optimus — at it’s ‘AI Day’ on 30 September, Reuters reports."
-    publishedDateTime: 2022-09-21T07:39:00Z
-    webUrl: "https://metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-robot-next-week-17419356/"
-    ampWebUrl: "https://metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-robot-next-week-17419356/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-robot-next-week-17419356/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 76
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2022/09/HK3GFOZNRJJNHFHO4TNPIOP7WM-ed19.jpeg?quality=90&strip=all&zoom=1&resize=600%2C400"
-        width: 600
-        height: 400
         isCached: true
   - title: "Tesla's 'Optimus' robot ready to be unveiled"
     excerpt: "Tesla Chief Executive Elon Musk blamed overreliance on factory robots for sending the electric carmaker to \"production hell\" four years ago, saying humans were better at certain jobs."
@@ -134,15 +159,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Elon Musk faces skeptics as Tesla gets ready to unveil ‘Optimus’ robot"
-    excerpt: "The robot business eventually may be worth more than Tesla’s car revenue, according to Musk, who is now touting a vision for the company that goes well beyond making self-driving electric vehicles."
-    publishedDateTime: 2022-09-20T13:15:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/elon-musk-faces-skeptics-tesla-gets-ready-unveil-optimus-robot-rcna48504"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 66
   - title: "FOCUS-Elon Musk faces skeptics as Tesla gets ready to unveil 'Optimus' robot"
     excerpt: "Tesla TSLA.O Chief Executive Elon Musk blamed overreliance on factory robots for sending the electric carmaker to \"production hell\" four years ago, saying humans were better at certain jobs. My, how times have changed."
     publishedDateTime: 2022-09-20T15:57:00Z
@@ -152,16 +168,7 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 63
-  - title: "Musk faces sceptics as Tesla gets ready to unveil 'Optimus' robot"
-    excerpt: "Tesla CEO Elon Musk blamed overreliance on factory robots for sending the electric carmaker to \"production hell\" four years ago, saying humans were better at certain jobs."
-    publishedDateTime: 2022-09-20T13:43:00Z
-    webUrl: "https://www.timeslive.co.za/motoring/news/2022-09-20-musk-faces-sceptics-as-tesla-gets-ready-to-unveil-optimus-robot/"
-    type: article
-    provider:
-      name: Times LIVE
-      domain: timeslive.co.za
-    quality: 36
 
-secured: "cz48NCZ2WJq1GgsLJhmjykixNiPCrhZIwlF2+kcfbCUpT3Kgfq2oVPUeF7nQKEiwSSxgZH6/aNoIfP6e4s3E7TK0y6HAfe4YcpO3UrjkMS1vddg6oxXKsMZC95EXdfTiwsajnHo4+chhbAMcT78w/lhlZZvbt9dHhuIfdO7/rqsYapFxDrTHDXpamjkT0kOILraHM6mR62Z4YL7LsfEc79XfwbATGcof2rccmp7zKYKx/9/HIYv4+QBlFlYUorM5pRBEnwZ2UluroLXHebxDUOj4lZsrQCkxvYX3YY7uzSaxhrpWMUtUW1B4TnK+4zRh7U4fcNRTR1xcjSFFa7/meHNyFVdiuBb+lzQ1d7hGD19ChO/Czr8rHnyIbffb5aGlq29SZMhbvQJu+FuhWeRE7qIWNtVQGuOrUoH4ziA95aop6c/jq8uqHNCYGjVfXK6O1TYL4uwWb/JThuCE/q1rp0I3eytF/gJiucCsdlnfovKlej1vEW/d9f2STM3r4ykYuhGAKJhHTwlsNNOZCRaCkg==;TXRx0RKAmtQV/xVfMapzeg=="
+secured: "0VYR7JsJ7Y0ACacsTYbwMbQQRIFZ2AlUw+WwfS2GkENf3l2NkGWNLlKGKb8eRIAML+0COmJ7iyZz75W65WHixiGhqIdlx0OOb4An6OYkOCTPCoOSuNrPaCnF5WW4JOtMqnmbB37UYekUBEXS1SO+q6XG0ED2hrKdux91qYQevUwhlDqiq1cNTmOM+PiSFQwgI2KolS1fQHPxZaEfpseA5m7sZPsH9lkTbWPmPPcJx21oDmu+g2RVAcgxu5X/oty7P0ErpUbEMI0XQv2qWvIndKVchqVOdiAdjI3fAayOJ/rEUn2V4Z8gyAF0kFGvNWLAXoSkt++4qZuSKAkF/P+/9/YJcOFW5o9sFwQkwZI72LA=;zyANMMGMIIiWrka8p5nSxw=="
 ---
 

@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Intel is gearing up to release Nvidia RTX 3060 GPU rival"
-    excerpt: "Intel CEO Pat Gelsinger says the company is preparing to release the Arc A770, a flagship Alchemist graphics card that'll take on the Nvidia RTX 3060"
-    publishedDateTime: 2022-09-20T13:59:00Z
-    webUrl: "https://www.pcgamesn.com/intel/arc-a770-rtx-3060-rival-gpu-retail-release"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 39
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/uploads/2022/09/intel-arc-a770-rtx-3060-rival-gpu-retail-release.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "ZOTAC GAMING Announces the GeForce RTX 40 Series PowerED BY the next generation GPU ARCHITECTURE"
     excerpt: "ZOTAC Technology Limited, a global manufacturer of innovation, ushers in a new era of PC gaming with the unveiling of its next-generation ZOTAC GAMING graphics card line-up built on the breakthrough NVIDIA Ada Lovelace architecture and the 3rd generation of RTX."
     publishedDateTime: 2022-09-20T18:12:00Z

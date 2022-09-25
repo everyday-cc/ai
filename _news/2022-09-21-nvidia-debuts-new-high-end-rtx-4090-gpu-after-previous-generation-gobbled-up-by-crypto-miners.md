@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-409
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/amp/"
 type: article
 quality: 78
-heat: 178
+heat: 168
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/p8q3ue5UA9LEtBVyNxgyWn-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Intel is gearing up to release Nvidia RTX 3060 GPU rival"
-    excerpt: "Intel CEO Pat Gelsinger says the company is preparing to release the Arc A770, a flagship Alchemist graphics card that'll take on the Nvidia RTX 3060"
-    publishedDateTime: 2022-09-20T13:59:00Z
-    webUrl: "https://www.pcgamesn.com/intel/arc-a770-rtx-3060-rival-gpu-retail-release"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 39
-    images:
-      - url: "https://www.pcgamesn.com/wp-content/uploads/2022/09/intel-arc-a770-rtx-3060-rival-gpu-retail-release.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Nvidia officially announce RTX 4090, 4080 GPU at GTC 2022"
     excerpt: "Nvidia unveiled the first lineup in the RTX 40-series of GPUs. It follows after months of speculation after a series of leaks."

@@ -36,6 +36,6 @@ related:
       domain: datanami.com
     quality: 40
 
-secured: "cTeHNrqBQU2SSdqzMl1qVdNYrIyG/r1MWnm/cnAfMDbjEp7U/LGlUK/gDRA/ZOa1/5xnS46xElVGMPmJfnMdwSUhDiXVHgY3vu6PIFyaiLmZQGqiMetnzrvRiXh7yNSLpU8jx6/h0msFwJ/uOPrnKrKkKk86q8dz4WN7rQphBIg6Oup81AYsyHaNwuqsdHzen2mjWevZd/v1ru6JCGNRlJSXZ7ZnmTYkteePpPRk1zGnp4Y1l9Fk7b0vc6/I2daafhb0MAkshduKI+yTC5iSKpjSOancydXpVtf1AHY4rVxA7Hgn+LBdfj/UaYHYxDeLFfj1fALgLe9OnIdczWs8byvX0cJy6uQ2Fn3vVLlgTK4=;hDO9gin1y7f9jJIjqxkfug=="
+secured: "UHGPf+wtlsnMBjrMHSdbb5ngcIZklSk3a+Q1tjCorrc2FsRtFSCNii/OqcBa3Ub2nKGaPtRw3q9RoLmY57/GSblB7SxNlE3evAZylVJllyZsLqtt5YUfAcQlpSSOQr1PglDL5TiMbkmfHhLHbPg98tClVsjaQwPG56UtLxWrYSr/6cGTYE2TnvjJ98f6RoMPWXxd6WWNg8bjHStiWK29rym7/p2GXFh0TFEwZzMUxkFDE4DY55kyU/3fDH5ePPTu/zxXxYsvzQeGGz7EiPky/wVRXoKSttUOl/X7P7olpyc8ITjcZKoBJIUh+8OlYnL08C+CHjJr/anFxDEUV1FHbIqBPJFK+V8A1iw7BKXLGkM=;ftApZNKTPpwz0N+z1Ssz7Q=="
 ---
 

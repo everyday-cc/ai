@@ -33,15 +33,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Boost Payment Solutions Partners with Australian FinTech Leader Robobai"
-    excerpt: "A leader in domestic and international B2B payment processing, Boost will provide its patented straight-through processing solution to Robobai customers. This collaboration will accelerate payment optimization for enterprise businesses and streamline end-to-end disbursement processes across the supply chain."
-    publishedDateTime: 2022-09-20T13:05:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/icrowdnewswire-2022-9-20-boost-payment-solutions-partners-with-australian-fintech-leader-robobai"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 19
 
 secured: "513MsEsAu3I1nQNeV65UDl3+x4suaHjqm4+dgxCzI8rMzlEoVsGzKW/H7iPmlWVf+Ei/0WcWmNcExYQrBNGxJv3QCKdsJS8l2ZiWwAfYBexBscKvQLSbdpC5yG5Pr/1SY0cFBukXgoDP2aSjW3ZIbjaGhi1b2eRYu4aiPS8kqsWOfvIwdrYk2neGLzk2OI2rXsMCtMoyqOVZGlWUf9zGzTDqLScSrZGr3jX9+bNqeKG/Gmdbtivr3oEkubtnZ7RH/WBGVrQzOr2vYu9PcsHVS3w+sMM3N2T6dzElP70r45xSgbO3OwpsZjReHQpgGRrbJYyjIqrs/GPCYP3KhP90CcBjBXmzFYE7iQTiDwDmkI8=;Rf9t/olRMJp6bc+2A0+uDg=="
 ---

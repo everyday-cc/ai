@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/22/10-ways-
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/22/10-ways-ai-is-transforming-the-restaurant-industry/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -20,66 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "How AI Is Changing The Way Students Learn"
-    excerpt: "In our increasingly fast-moving world, many schools are still facing the challenge of integrating the latest digital technologies."
-    publishedDateTime: 2022-09-20T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-changing-the-way-students-learn/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-changing-the-way-students-learn/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-changing-the-way-students-learn/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/608b1e8f685217f6a56050b2/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 775
-        isCached: true
-  - title: "Artificial Intelligence in the Operating Room"
-    excerpt: "While the challenges in the healthcare industry are constantly increasing, hospitals adopting new technologies have helped to alleviate some of those struggles"
-    publishedDateTime: 2022-09-20T14:46:00Z
-    webUrl: "https://marketscale.com/industries/healthcare/artificial-intelligence-in-the-operating-room/"
-    type: article
-    provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 39
-    images:
-      - url: "https://marketscale.com/wp-content/uploads/2022/09/Intel_AlexEricDennis_Podcast.png"
-        width: 2489
-        height: 1400
-        isCached: true
-  - title: "AI Technology Is Changing Voice Recognition"
-    excerpt: "Ah, the unintended consequences of powerful voice recognition and AI technology! This anecdote highlights the power of speech recognition and AI technology, 60 years after Bell Labs’ Audrey device and 50 years after IBM showed off its Shoebox machine."
-    publishedDateTime: 2022-09-22T00:00:00Z
-    webUrl: "https://semiengineering.com/ai-technology-is-changing-voice-recognition/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/Siemens-Logo-Updated.png"
-        width: 559
-        height: 210
-        isCached: true
-  - title: "How AI sees the world — in ways that are predictable, yet way off"
-    excerpt: "What AI means for illustration. Plus, Korean Modernism at LACMA and delays at the Lucas Museum in our weekly arts newsletter."
-    publishedDateTime: 2022-09-24T15:00:00Z
-    webUrl: "https://www.latimes.com/entertainment-arts/newsletter/2022-09-24/how-ai-sees-the-world-in-ways-that-are-predictable-yet-way-off-essential-arts-arts-culture"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 37
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/fc3e20a/2147483647/strip/true/crop/2823x1888+505+0/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F33%2Ff6%2F52c2f7874bbe8df16117888b6ec3%2Flynette-romero-mark-mester.jpg"
-        width: 320
-        height: 214
-        isCached: true
 
 secured: "HqsLypaU3OiPWITfDRScxE3Bw0OqOqR1PQc0kzL5pSTKgRGCrhYfPaP/UfPTl964sfKvibwAklOiWg7gjCAQPk2QEvvybzxe43S9i8ExElwAiBQP7je90ftXHzLTQmpqopekmANbOechZz7dE+dl0V5N9uGTebnBXT9eTy9IW/VHlUknYK2hnlMv09LOXZ4jp2iYv0htQWBl9X4Yxm2Fky/8C+b+z+KWFMzYRoS+tUygRXtk+mI5Fe6mMlxrZ/Nj2TB5Fo/PvV0g2LYyrLz3D0LKIzh8mJD4fUFkFX9yl60INloWEm6WoVIL9BNKNMHT00D5ABv+guGUgcrj2B2zqNPIcGZh7dHucFkqRYKrv6AOp0ayRIGww5mKXJFlX1EFA0oFFHFGjtqeUqeYhbzv0LnYEwwqBAzVXf9pjRXxxfL61CY/yCZ8yenSj70wmxI2aiwvaOR75krUs3EtR+821RYgkQQu10Km2ieGmAiJ+1/6Sv7WreHjrBgIIeIl7OxLlKmN5UERzLpyS9j2Ehwf4g==;ToKbIfPTaBu7nLXUgBbRoA=="
 ---

@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - Facebook AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2022/09/seed_971244_00004-edited.jpg"
