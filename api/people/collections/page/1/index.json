@@ -4,115 +4,119 @@
   "page": 1,
   "value": [
     {
-      "path": "_people/collections/top-ai-professors-in-mit.md",
-      "title": "Top AI Professors in MIT",
-      "excerpt": "",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/collections/top-ai-professors-in-mit/index.json",
-      "webUrl": "https://everyday.cc/ai/people/collections/top-ai-professors-in-mit/",
+      "path": "_people/collections/the-most-influential-ai-researchers-in-2020.md",
+      "title": "The Most Influential AI Researchers in 2020",
+      "excerpt": "These are some of the most vocal and influential leaders working on artificial intelligence in 2020.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/collections/the-most-influential-ai-researchers-in-2020/index.json",
+      "webUrl": "https://everyday.cc/ai/people/collections/the-most-influential-ai-researchers-in-2020/",
       "type": "collection",
-      "name": "Top AI Professors in MIT",
-      "bio": "",
+      "name": "The Most Influential AI Researchers in 2020",
+      "bio": "These are some of the most vocal and influential leaders working on artificial intelligence in 2020.",
       "topics": [
         "AI"
       ],
       "topItems": [
         {
           "path": "",
-          "title": "Daniela L. Rus",
-          "excerpt": "Daniela L. Rus is a roboticist, the Director of the MIT Computer Science and Artificial Intelligence Laboratory, and Andrew and Erna Viterbi Professor in the Department of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology.",
+          "title": "Andrew Ng",
+          "excerpt": "Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs",
           "type": "profile",
-          "name": "Daniela L. Rus",
-          "bio": "Daniela L. Rus is a roboticist, the Director of the MIT Computer Science and Artificial Intelligence Laboratory, and Andrew and Erna Viterbi Professor in the Department of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology.",
+          "name": "Andrew Ng",
+          "bio": "Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs",
           "topics": [
-            "AI"
+            "AI",
+            "Machine Learning"
           ],
-          "heat": 50,
+          "heat": 290,
           "images": [
             {
-              "url": "https://scholar.google.com/citations?view_op=medium_photo&user=910z20QAAAAJ&citpid=3",
-              "width": 140,
-              "height": 140,
-              "title": "Daniela L. Rus",
-              "isCached": false
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Joy Buolamwini",
-          "excerpt": "Joy Adowaa Buolamwini is a Ghanaian-American computer scientist and digital activist based at the MIT Media Lab. She founded the Algorithmic Justice League, an organisation that looks to challenge bias in decision making software.",
-          "type": "profile",
-          "name": "Joy Buolamwini",
-          "bio": "Joy Adowaa Buolamwini is a Ghanaian-American computer scientist and digital activist based at the MIT Media Lab. She founded the Algorithmic Justice League, an organisation that looks to challenge bias in decision making software.",
-          "topics": [
-            "AI"
-          ],
-          "heat": 239,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1538670359918137345/Z_6xieKy_400x400.jpg",
+              "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
               "width": 400,
               "height": 400,
-              "title": "Joy Buolamwini",
+              "title": "Andrew Ng",
               "isCached": true
             }
           ]
         },
         {
           "path": "",
-          "title": "Karl Iagnemma",
-          "excerpt": "Karl Iagnemma is an American writer and research scientist. He is also the CEO of self-driving technology company NuTonomy.",
+          "title": "Fei-Fei Li",
+          "excerpt": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
           "type": "profile",
-          "name": "Karl Iagnemma",
-          "bio": "Karl Iagnemma is an American writer and research scientist. He is also the CEO of self-driving technology company NuTonomy.",
+          "name": "Fei-Fei Li",
+          "bio": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
           "topics": [
             "AI",
-            "AI in Autos"
+            "Machine Learning",
+            "Computer Vision",
+            "AI in Healthcare"
+          ],
+          "heat": 186,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Fei-Fei Li",
+              "isCached": true
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Yoshua Bengio",
+          "excerpt": "Yoshua Bengio OC FRSC is a Canadian computer scientist, most noted for his work on artificial neural networks and deep learning. He was a co-recipient of the 2018 ACM A.M. Turing Award for his work in deep learning.",
+          "type": "profile",
+          "name": "Yoshua Bengio",
+          "bio": "Yoshua Bengio OC FRSC is a Canadian computer scientist, most noted for his work on artificial neural networks and deep learning. He was a co-recipient of the 2018 ACM A.M. Turing Award for his work in deep learning.",
+          "topics": [
+            "AI",
+            "Machine Learning",
+            "Deep Learning"
           ],
           "heat": 50,
           "images": [
             {
-              "url": "https://twitter.com/Karl_Iagnemma/profile_image?size=original",
-              "width": 400,
-              "height": 400,
-              "title": "Karl Iagnemma",
+              "url": "https://scholar.google.com/citations?view_op=view_photo&user=kukA0LcAAAAJ&citpid=3",
+              "width": 105,
+              "height": 128,
+              "title": "Yoshua Bengio",
               "isCached": false
             }
           ]
         },
         {
           "path": "",
-          "title": "Lex Fridman",
-          "excerpt": "Research in machine learning, autonomous vehicles and human-centered AI at MIT and beyond. Host of the Artificial Intelligence podcast.",
+          "title": "Geoffrey Hinton",
+          "excerpt": "Geoffrey Everest Hinton CC FRS FRSC is an English Canadian cognitive psychologist and computer scientist, most noted for his work on artificial neural networks. Since 2013 he divides his time working for Google and the University of Toronto.",
           "type": "profile",
-          "name": "Lex Fridman",
-          "bio": "Research in machine learning, autonomous vehicles and human-centered AI at MIT and beyond. Host of the Artificial Intelligence podcast.",
+          "name": "Geoffrey Hinton",
+          "bio": "Geoffrey Everest Hinton CC FRS FRSC is an English Canadian cognitive psychologist and computer scientist, most noted for his work on artificial neural networks. Since 2013 he divides his time working for Google and the University of Toronto.",
           "topics": [
             "AI",
-            "Machine Learning",
-            "AI in Autos"
+            "Machine Learning"
           ],
-          "heat": 484,
+          "heat": 225,
           "images": [
             {
-              "url": "https://pbs.twimg.com/profile_images/956331551435960322/OaqR8pAB_400x400.jpg",
+              "url": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_400x400.jpg",
               "width": 400,
               "height": 400,
-              "title": "Lex Fridman",
+              "title": "Geoffrey Hinton",
               "isCached": true
             }
           ]
         }
       ],
-      "size": 6,
-      "heat": 286,
+      "size": 23,
+      "heat": 270,
       "images": [
         {
-          "url": "https://scholar.google.com/citations?view_op=medium_photo&user=910z20QAAAAJ&citpid=3",
-          "width": 140,
-          "height": 140,
-          "title": "Daniela L. Rus",
-          "isCached": false
+          "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Andrew Ng",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -164,7 +168,7 @@
             "Natural Language Processing",
             "Machine Learning"
           ],
-          "heat": 239,
+          "heat": 216,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/512256295542333440/8Jo4w8kV_400x400.jpeg",
@@ -188,7 +192,7 @@
             "Computer Vision",
             "AI in Healthcare"
           ],
-          "heat": 155,
+          "heat": 186,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
@@ -223,7 +227,7 @@
         }
       ],
       "size": 5,
-      "heat": 286,
+      "heat": 259,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
@@ -236,119 +240,115 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/collections/the-most-influential-ai-researchers-in-2020.md",
-      "title": "The Most Influential AI Researchers in 2020",
-      "excerpt": "These are some of the most vocal and influential leaders working on artificial intelligence in 2020.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/collections/the-most-influential-ai-researchers-in-2020/index.json",
-      "webUrl": "https://everyday.cc/ai/people/collections/the-most-influential-ai-researchers-in-2020/",
+      "path": "_people/collections/top-ai-professors-in-mit.md",
+      "title": "Top AI Professors in MIT",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/collections/top-ai-professors-in-mit/index.json",
+      "webUrl": "https://everyday.cc/ai/people/collections/top-ai-professors-in-mit/",
       "type": "collection",
-      "name": "The Most Influential AI Researchers in 2020",
-      "bio": "These are some of the most vocal and influential leaders working on artificial intelligence in 2020.",
+      "name": "Top AI Professors in MIT",
+      "bio": "",
       "topics": [
         "AI"
       ],
       "topItems": [
         {
           "path": "",
-          "title": "Andrew Ng",
-          "excerpt": "Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs",
+          "title": "Daniela L. Rus",
+          "excerpt": "Daniela L. Rus is a roboticist, the Director of the MIT Computer Science and Artificial Intelligence Laboratory, and Andrew and Erna Viterbi Professor in the Department of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology.",
           "type": "profile",
-          "name": "Andrew Ng",
-          "bio": "Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs",
+          "name": "Daniela L. Rus",
+          "bio": "Daniela L. Rus is a roboticist, the Director of the MIT Computer Science and Artificial Intelligence Laboratory, and Andrew and Erna Viterbi Professor in the Department of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology.",
           "topics": [
-            "AI",
-            "Machine Learning"
-          ],
-          "heat": 290,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Andrew Ng",
-              "isCached": true
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Fei-Fei Li",
-          "excerpt": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
-          "type": "profile",
-          "name": "Fei-Fei Li",
-          "bio": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
-          "topics": [
-            "AI",
-            "Machine Learning",
-            "Computer Vision",
-            "AI in Healthcare"
-          ],
-          "heat": 155,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Fei-Fei Li",
-              "isCached": true
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Yoshua Bengio",
-          "excerpt": "Yoshua Bengio OC FRSC is a Canadian computer scientist, most noted for his work on artificial neural networks and deep learning. He was a co-recipient of the 2018 ACM A.M. Turing Award for his work in deep learning.",
-          "type": "profile",
-          "name": "Yoshua Bengio",
-          "bio": "Yoshua Bengio OC FRSC is a Canadian computer scientist, most noted for his work on artificial neural networks and deep learning. He was a co-recipient of the 2018 ACM A.M. Turing Award for his work in deep learning.",
-          "topics": [
-            "AI",
-            "Machine Learning",
-            "Deep Learning"
+            "AI"
           ],
           "heat": 50,
           "images": [
             {
-              "url": "https://scholar.google.com/citations?view_op=view_photo&user=kukA0LcAAAAJ&citpid=3",
-              "width": 105,
-              "height": 128,
-              "title": "Yoshua Bengio",
+              "url": "https://scholar.google.com/citations?view_op=medium_photo&user=910z20QAAAAJ&citpid=3",
+              "width": 140,
+              "height": 140,
+              "title": "Daniela L. Rus",
               "isCached": false
             }
           ]
         },
         {
           "path": "",
-          "title": "Geoffrey Hinton",
-          "excerpt": "Geoffrey Everest Hinton CC FRS FRSC is an English Canadian cognitive psychologist and computer scientist, most noted for his work on artificial neural networks. Since 2013 he divides his time working for Google and the University of Toronto.",
+          "title": "Joy Buolamwini",
+          "excerpt": "Joy Adowaa Buolamwini is a Ghanaian-American computer scientist and digital activist based at the MIT Media Lab. She founded the Algorithmic Justice League, an organisation that looks to challenge bias in decision making software.",
           "type": "profile",
-          "name": "Geoffrey Hinton",
-          "bio": "Geoffrey Everest Hinton CC FRS FRSC is an English Canadian cognitive psychologist and computer scientist, most noted for his work on artificial neural networks. Since 2013 he divides his time working for Google and the University of Toronto.",
+          "name": "Joy Buolamwini",
+          "bio": "Joy Adowaa Buolamwini is a Ghanaian-American computer scientist and digital activist based at the MIT Media Lab. She founded the Algorithmic Justice League, an organisation that looks to challenge bias in decision making software.",
           "topics": [
-            "AI",
-            "Machine Learning"
+            "AI"
           ],
-          "heat": 192,
+          "heat": 209,
           "images": [
             {
-              "url": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_400x400.jpg",
+              "url": "https://pbs.twimg.com/profile_images/1538670359918137345/Z_6xieKy_400x400.jpg",
               "width": 400,
               "height": 400,
-              "title": "Geoffrey Hinton",
+              "title": "Joy Buolamwini",
+              "isCached": true
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Karl Iagnemma",
+          "excerpt": "Karl Iagnemma is an American writer and research scientist. He is also the CEO of self-driving technology company NuTonomy.",
+          "type": "profile",
+          "name": "Karl Iagnemma",
+          "bio": "Karl Iagnemma is an American writer and research scientist. He is also the CEO of self-driving technology company NuTonomy.",
+          "topics": [
+            "AI",
+            "AI in Autos"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://twitter.com/Karl_Iagnemma/profile_image?size=original",
+              "width": 400,
+              "height": 400,
+              "title": "Karl Iagnemma",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Lex Fridman",
+          "excerpt": "Research in machine learning, autonomous vehicles and human-centered AI at MIT and beyond. Host of the Artificial Intelligence podcast.",
+          "type": "profile",
+          "name": "Lex Fridman",
+          "bio": "Research in machine learning, autonomous vehicles and human-centered AI at MIT and beyond. Host of the Artificial Intelligence podcast.",
+          "topics": [
+            "AI",
+            "Machine Learning",
+            "AI in Autos"
+          ],
+          "heat": 513,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/956331551435960322/OaqR8pAB_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Lex Fridman",
               "isCached": true
             }
           ]
         }
       ],
-      "size": 23,
-      "heat": 230,
+      "size": 6,
+      "heat": 250,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Andrew Ng",
-          "isCached": true
+          "url": "https://scholar.google.com/citations?view_op=medium_photo&user=910z20QAAAAJ&citpid=3",
+          "width": 140,
+          "height": 140,
+          "title": "Daniela L. Rus",
+          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -401,7 +401,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 192,
+          "heat": 225,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_400x400.jpg",
@@ -425,7 +425,7 @@
             "Computer Vision",
             "AI in Robotics"
           ],
-          "heat": 312,
+          "heat": 313,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_400x400.jpg",
@@ -438,7 +438,7 @@
         }
       ],
       "size": 3,
-      "heat": 192,
+      "heat": 225,
       "images": [
         {
           "url": "https://scholar.google.com/citations?view_op=view_photo&user=kukA0LcAAAAJ&citpid=3",
@@ -475,7 +475,7 @@
             "AI",
             "AI in Autos"
           ],
-          "heat": 32,
+          "heat": 50,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
@@ -497,7 +497,7 @@
             "AI",
             "AI in Robotics"
           ],
-          "heat": 42,
+          "heat": 57,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/429713639285596161/D0ReK5-6_400x400.jpeg",
@@ -518,7 +518,7 @@
           "topics": [
             "AI"
           ],
-          "heat": 50,
+          "heat": 57,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/836441713497391104/Aj6W5UHO_400x400.jpg",
@@ -540,7 +540,7 @@
             "AI",
             "AI in Robotics"
           ],
-          "heat": 71,
+          "heat": 64,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1564265202266394624/s-FSAQiw_400x400.jpg",
@@ -553,7 +553,7 @@
         }
       ],
       "size": 8,
-      "heat": 60,
+      "heat": 68,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
@@ -588,7 +588,7 @@
           "topics": [
             "AI"
           ],
-          "heat": 239,
+          "heat": 209,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1538670359918137345/Z_6xieKy_400x400.jpg",
@@ -610,7 +610,7 @@
             "AI",
             "AI in Robotics"
           ],
-          "heat": 20,
+          "heat": 50,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1480673810269581316/tuTBA6JM_400x400.jpg",
@@ -631,7 +631,7 @@
           "topics": [
             "AI"
           ],
-          "heat": 0,
+          "heat": 32,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1568266266653380609/zoDvAdYH_400x400.jpg",
@@ -644,7 +644,7 @@
         }
       ],
       "size": 3,
-      "heat": 20,
+      "heat": 50,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1538670359918137345/Z_6xieKy_400x400.jpg",

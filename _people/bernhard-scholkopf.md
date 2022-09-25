@@ -2,7 +2,7 @@
 name: "Bernhard Schölkopf"
 bio: "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar"
 type: "profile"
-heat: 77
+heat: 140
 
 affiliation:
   name: tuebingen.mpg.de
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Bernhard Schölkopf"
 
-secured: "kIGFrDEdgQ1KON+BkFBKqipFQJIJ9q0pgnHxooHpF9KiNg66fWMNtVsMm7wLNWlyaUWRndWshMO8zJCR7Q5CCM5hIrDOcITDbI5xb0QSoLgO//T6zG2VLuCBalKREVw9Ap1VbQ4sqhui60R/bEE/aL0ochM4oq/r5aBd4Dkisvz8l0n9Z+R9I7bt1WCNEIp+i6lxX3vagDshzF7M8+1PmM/akMVyewGg6wyPyzgiHicyDdaTSdTMmTNkvgtIRr171i9afZJgS9Q4ZNTaKMww950u/nr0mSGqyLetz+DTYDWtILp/MT45EZAmm48ecm6UPA8WPSuzMLM0HVk3V0uAKnettEYT31zRhNUc4R900sLlzLzklSBaX9i2Jm8X/BX0Cou7berZICe4dG8xCV98LqaPr4Fimuuw7TyoJ35BnAI=;K43u3f4Xh5s5CgEoJ/0+BA=="
+secured: "eL+mumhpZmc15cA4/x3aMdOuyWyFXfrf9Eozanew/6f3luf0VE+s21LxXQw89MjX1HAChim5sUtzgeCfi8NioMjpHDAFHv/KWwTA3n7lX8DaOvkAl5o0Hl95P94iXnfbLsfwPUs8e+Ws9z0rjfxmX7bENZUuAKQk1fvToBqR0cQC7GTxuM2qeuy3bY0vrwoyblzY8YOnb07qRKWv8dBonYIZgoTpq86sQbyLlsZ9u4GFwizI2tBDaTM57MEio/x+pSP+RSuvIJw5gLgKrLo17K7gskTakIYDRAFwzCf2yu1LiEsEf9oqzeFnKj5LpfbPObtRLSPR00YWRtpWh5O8TZ06FQV3/NX4ZWRdpZqHGcWvy99Cxk6g5rmU3IRkdNHZWcykda9C1Ew8tkIj3T9XebVd3xCKLnFupAs3qfGHO/U=;73Fd68S8U9nPI+RbQxUZkQ=="
 ---
 
