@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.automation.com/getmedia/78a5151e-385d-4b5d-b820-a1afb744dfa1/AI-news-Sept-14-2022-web.png?width=500&height=313&ext=.png"
