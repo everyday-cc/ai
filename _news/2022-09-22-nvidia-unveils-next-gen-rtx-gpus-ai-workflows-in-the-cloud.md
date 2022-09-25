@@ -43,15 +43,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 61
-  - title: "NVIDIA requests TSMC speed up AI GPU production to avoid China sanctions"
-    excerpt: "Company fears political decisions will end lucrative deals it has with Chinese clients. New export restrictions on AI chips could cost company $400 million in potential sales to China. If NVIDIA is"
-    publishedDateTime: 2022-09-20T07:27:00Z
-    webUrl: "https://www.guru3d.com/news-story/nvidia-requests-tsmc-speed-up-ai-gpu-production-to-avoid-china-sanctions.html"
-    type: article
-    provider:
-      name: Guru3D.com
-      domain: guru3d.com
-    quality: 33
 
 secured: "zLejqNjhCcxtzR42WmWO9N3wtTAQv/+ZSgtT7r+JpPm28+CkmhgQ3HlSBEfr+AtZYJDXqgtMDpEb1SdyVkFoAfCHNxApzH+tWs4wUTSIvJIPiIJOTkKFL/8G0ZvfdoT3Ea6u+laXhdrb4B8rrMFz0kPpTVjh0l3XktHPHrLkO1OfcUXMfiZWbzaDVcVHeff98MYtu3u8YICQbZvITrFT70MdusFPq4Fn6O7zcV4aS8oxhdf2ye1wluGTMATQuFvnt7wc9nPw/u7hhfqfrSRQy2IfImiJmk1lDjWa6Um8tO0osUVfDx6MK24NguJro+V7wblzwZM5rG7WVpgA1Ga6Ux+gh+AMHZjlxBFjln7abUM=;gRV9WpCoiSbU/OF1c0mAUA=="
 ---

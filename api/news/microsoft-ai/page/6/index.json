@@ -2,6 +2,135 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-08-12-microsofts-new-azure-fluid-relay-service-now-generally-available.md",
+      "title": "Microsoft’s New Azure Fluid Relay Service Now Generally Available",
+      "excerpt": "The Ballerina “Table” data structure can be more effective than maps in representing indexed data collections In this annual report, the InfoQ editors discuss the current state of AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2022/08/azure-fluid-relay-service/?amp;amp;amp",
+      "originalUrl": "https://www.infoq.com/news/2022/08/azure-fluid-relay-service/?amp;amp;amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2022/08/azure-fluid-relay-service/en/headerimage/generatedHeaderImage-1659899905932.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-12T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-12-office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year.md",
+      "title": "Office 2016 and 2019 users won't be cut off from Microsoft 365 back-end services next year",
+      "excerpt": "Even though Microsoft is all-in on the cloud, it still is continuing to roll out \"perpetual\" (non-subscription) versions of Office every few years. Recently, some of those users -- namely those ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year/",
+      "originalUrl": "https://www.zdnet.com/article/office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/c090dc1c928cf8099bdf98d8ffc98fcea278e518/2022/08/08/e1d0e5a7-27e5-4c6d-b669-9a0ed1789a98/officebackendconnectivity.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year/",
+      "publishedDateTime": "2022-08-11T15:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-12-johnson-controls-ai-enhanced-openblue-platform-cuts-microsofts-beijing-campus-energy-footprint.md",
+      "title": "Johnson Controls AI-enhanced OpenBlue Platform Cuts Microsoft's Beijing Campus Energy Footprint",
+      "excerpt": "OpenBlue suite of connected solutions plays a key role in achieving lean campus management with higher energy efficiency and better user experience Professional service brings more than 98% uptime of key equipment and increase the level of operational automation SHANGHAI,",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1270988&cat=PR News Wire",
+      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1270988&cat=PR News Wire",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-11T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-11-johnson-controls-ai-enhanced-openblue-platform-cuts-microsofts-beijing-campus-energy-footprint.md",
       "title": "Johnson Controls AI-enhanced OpenBlue Platform Cuts Microsoft's Beijing Campus Energy Footprint",
       "excerpt": "Johnson Controls helps Microsoft Beijing Campus achieve energy savings of 27.9% through continuous retrofitting and optimization, delivering on sustainable development goals",
@@ -1302,145 +1431,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-regular-exercise-program-may-stall-cognitive-decline.md",
-      "title": "Regular Exercise Program May Stall Cognitive Decline",
-      "excerpt": "Sedentary older adults with amnestic mild cognitive impairment who engaged in regular exercise for a year maintained their cognition without decline, topline data from the EXERT trial showed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/meetingcoverage/aaic/100054",
-      "originalUrl": "https://www.medpagetoday.com/meetingcoverage/aaic/100054",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.medpagetoday.net/media/images/100xxx/100054.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-cognitive-decline-can-be-avoided-with-simple-everyday-exercises-new-study-suggests.md",
-      "title": "Cognitive decline can be avoided with simple everyday exercises, new study suggests",
-      "excerpt": "While scientists have always recommended physical activity to keep the brain healthy, research now shows regular stretching and motion exercises can help older people with mild memory troubles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/health/cognitive-decline-avoided-simple-everday-exercises-new-study-suggests",
-      "originalUrl": "https://www.foxnews.com/health/cognitive-decline-avoided-simple-everday-exercises-new-study-suggests",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d65e022-dec5-405d-9c8f-df89169b5319/3965b698-d2da-45fb-91c0-f7b83924295d/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/health/cognitive-decline-avoided-simple-everday-exercises-new-study-suggests.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/cognitive-decline-avoided-simple-everday-exercises-new-study-suggests.amp",
-      "publishedDateTime": "2022-08-03T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-aws-and-microsoft-eye-economy-in-a-bid-to-control-cloud-cost.md",
-      "title": "AWS and Microsoft eye economy in a bid to control cloud cost",
-      "excerpt": "Microsoft and Amazon pledged to control costs for cloud customers during quarterly earnings calls last week, acknowledging the financial and operation strains inflation and rising interest rates have put on their customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ciodive.com/news/AWS-Microsoft-Azure-Cloud-Cost/628823/",
-      "originalUrl": "https://www.ciodive.com/news/AWS-Microsoft-Azure-Cloud-Cost/628823/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ciodive.com/imgproxy/n5FZkMy-IWVuDlOHzZ-XELfiyAL-yXkAZb6FFzDfdaY/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTY3MTAzMzA4MC5qcGc.jpg",
-          "width": 770,
-          "height": 364,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO Dive",
-        "domain": "ciodive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-26-process-mortgage-documents-with-intelligent-document-processing-using-amazon-textract-and-amazon-comprehend.md",
+      "title": "Process mortgage documents with intelligent document processing using Amazon Textract and Amazon Comprehend",
+      "excerpt": "Organizations in the lending and mortgage industry process thousands of documents on a daily basis. From a new mortgage application to mortgage refinance, these business processes involve hundreds of documents per application. There is limited automation available today to process and extract information",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/process-mortgage-documents-with-intelligent-document-processing-using-amazon-textract-and-amazon-comprehend/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/process-mortgage-documents-with-intelligent-document-processing-using-amazon-textract-and-amazon-comprehend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/10/Arch-Diag-Mortgage.jpg",
+          "width": 3684,
+          "height": 2484,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-26T09:28:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-08-26-artificial-intelligence-for-accounting-market-share-size-financial-summaries-analysis-from-2022-2030-by-microsoft-aws-xero.md",
       "title": "Artificial Intelligence for Accounting Market Share, Size, Financial Summaries Analysis from 2022-2030 | By -Microsoft, AWS, Xero",
       "excerpt": "The Artificial Intelligence for Accounting market report gives an exhaustive investigation of the market’s size, as well as market sizes at the neighborhood and public levels, division market development,",
@@ -1319,40 +1372,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-aws-organizes-gameday-a-world-championship-for-developers.md",
-      "title": "AWS organizes GameDay, a world championship for developers",
-      "excerpt": "The AWS GameDay is just around the corner. The world championship provides an opportunity for any professional that works with AWS services. Participants",
-      "sourceUrl": null,
-      "webUrl": "https://www.techzine.eu/news/devops/86284/aws-organizes-gameday-a-world-championship-for-developers/",
-      "originalUrl": "https://www.techzine.eu/news/devops/86284/aws-organizes-gameday-a-world-championship-for-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-16T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techzine",
-        "domain": "techzine.eu",
         "images": null,
         "publishers": null,
         "authors": null

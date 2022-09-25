@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-22T00:11:00Z
 originalUrl: "https://www.news-medical.net/news/20220921/Artificial-intelligence-could-help-fast-track-dementia-diagnosis.aspx"
 webUrl: "https://www.news-medical.net/news/20220921/Artificial-intelligence-could-help-fast-track-dementia-diagnosis.aspx"
 type: article
-quality: 39
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"

@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-07-ibm-bids-farewell-to-watson-health-assets.md",
+      "title": "IBM Bids Farewell to Watson Health Assets",
+      "excerpt": "IBM shook up the digital health space Friday with the news that it is selling its healthcare data and analytics assets, currently part of the Watson Health business, to an investment firm. The sale price is reportedly more than $1 billion, although the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/industry/ibm-bids-farewell-watson-health-assets",
+      "originalUrl": "https://www.designnews.com/industry/ibm-bids-farewell-watson-health-assets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/IBM%20corporate%20headquarters%20sign.png",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-vinith-misra-how-can-our-relationships-with-computers-be-funnier-and-friendlier.md",
       "title": "Vinith Misra: How can our relationships with computers be funnier and friendlier?",
       "excerpt": "Artificial intelligence and people often struggle to seamlessly interact. Computer scientist Vinith Misra shares how computational humor could help bridge the gap between humans and their machines.",

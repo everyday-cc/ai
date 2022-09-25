@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-05-27-singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit.md",
+      "title": "Singapore touts need for AI transparency in launch of test toolkit",
+      "excerpt": "New pilot framework and toolkit will enable businesses to demonstrate their \"objective and verifiable\" use of artificial intelligence, says the Singapore government, which hopes to drive transparency in AI deployments through technical and process checks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit/",
+      "originalUrl": "https://www.zdnet.com/article/singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit/",
+      "publishedDateTime": "2022-05-26T22:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-google-leads-in-negative-media-perception-around-ai-ethics.md",
       "title": "Google Leads In Negative Media Perception Around AI, Ethics",
       "excerpt": "The marketplace for artificial intelligence is worth billions ... Nvidia with 202, Baidu with 144, Waymo with 90, C3.ai with 87, Tesla with 68, Argo AI with 39, Cruise Automation with 26, and ...",

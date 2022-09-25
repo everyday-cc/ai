@@ -8,8 +8,8 @@ webUrl: "https://www.jamaicaobserver.com/news/artificial-intelligence-said-good-
 ampWebUrl: "https://www.jamaicaobserver.com/news/artificial-intelligence-said-good-for-smart-grid-optimisation/amp/"
 cdnAmpWebUrl: "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/news/artificial-intelligence-said-good-for-smart-grid-optimisation/amp/"
 type: article
-quality: 72
-heat: 72
+quality: 74
+heat: 74
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://imengine.public.prod.jam.navigacloud.com/?uuid=7ec08427-579f-5889-8cf0-f752172f9c2c&function=fit&type=preview"

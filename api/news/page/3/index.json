@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-21-new-yorks-landmark-ai-bias-law-prompts-uncertainty.md",
+      "title": "New York’s Landmark AI Bias Law Prompts Uncertainty",
+      "excerpt": "Businesses and their service providers are grappling with how to comply with New York City’s mandate for audits of artificial intelligence systems used in hiring.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/new-yorks-landmark-ai-bias-law-prompts-uncertainty-11663752602",
+      "originalUrl": "https://www.wsj.com/articles/new-yorks-landmark-ai-bias-law-prompts-uncertainty-11663752602",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-627364/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/new-yorks-landmark-ai-bias-law-prompts-uncertainty-11663752602",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-yorks-landmark-ai-bias-law-prompts-uncertainty-11663752602",
+      "publishedDateTime": "2022-09-21T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-after-yang-review-what-to-do-when-your-ai-robot-child-goes-wrong.md",
+      "title": "After Yang review – what to do when your AI robot child goes wrong?",
+      "excerpt": "Kogonada’s enigmatic sci-fi drama channels Charlie Kaufman and Philip K Dick as Colin Farrell and Jodie Turner Smith try to fix the faulty AI bot they bought for their adopted daughter",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/film/2022/sep/21/after-yang-review-what-to-do-when-your-ai-robot-child-goes-wrong",
+      "originalUrl": "https://www.theguardian.com/film/2022/sep/21/after-yang-review-what-to-do-when-your-ai-robot-child-goes-wrong",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/9ed31e2d29800d0188e707bd59677a0dcbb1573d/188_146_1086_652/master/1086.jpg?width=620&quality=85&auto=format&fit=max&s=823fb882f191c3d9f046cb4ec7c686b9",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/film/2022/sep/21/after-yang-review-what-to-do-when-your-ai-robot-child-goes-wrong",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2022/sep/21/after-yang-review-what-to-do-when-your-ai-robot-child-goes-wrong",
+      "publishedDateTime": "2022-09-21T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-09-21-nvidia-introduces-dlss3-to-generate-ai-powered-frames-with-4x-performance.md",
       "title": "Nvidia introduces DLSS3 to generate AI-powered frames with 4X performance",
       "excerpt": "Nvidia's DLSS 3 will use AI to estimate the best way to fill out images in the company's latest graphics cards.",
@@ -114,7 +217,7 @@
       "originalUrl": "https://www.reuters.com/technology/nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-manufacturing-2022-09-20/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -190,6 +293,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-study-suggests-older-adults-show-greater-mental-well-being-despite-cognitive-decline.md",
+      "title": "Study suggests older adults show greater mental well-being despite cognitive decline",
+      "excerpt": "Despite displaying signs of poorer cognitive performance, older adults tend to have greater mental well-being compared to younger adults, according to a new study. A study published this month in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/health/study-older-adults-greater-mental-well-being-cognitive-decline",
+      "originalUrl": "https://www.foxnews.com/health/study-older-adults-greater-mental-well-being-cognitive-decline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1ce4d6f4-d820-4a8a-b50e-7596345c80f6/ab31fe9d-1057-4f40-87d5-d4538c3677b8/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/health/study-older-adults-greater-mental-well-being-cognitive-decline.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/study-older-adults-greater-mental-well-being-cognitive-decline.amp",
+      "publishedDateTime": "2022-09-20T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -672,7 +827,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-changing-the-way-students-learn/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -723,7 +878,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-trends-size-share-growth-status-key-segments-and-forecast-2028-2022-09-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1083,146 +1238,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-machine-learning-developer-truefoundry-raises-23-mn-in-seed-funding.md",
-      "title": "Machine learning developer TrueFoundry raises $2.3 mn in seed funding",
-      "excerpt": "TrueFoundry, a machine learning (ML) developer, has raised $2.3 million in seed funding led by Sequoia India and Southeast Asia's Surge. Other investors in the round included Eniac Ventures and Naval Ravikant,",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/companies/machine-learning-developer-truefoundry-raises-2-3-mn-in-seed-funding-122092000343_1.html",
-      "originalUrl": "https://www.business-standard.com/article/companies/machine-learning-developer-truefoundry-raises-2-3-mn-in-seed-funding-122092000343_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-03/16/full/1615837220-0307.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/machine-learning-developer-truefoundry-raises-2-3-mn-in-seed-funding-122092000343_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/machine-learning-developer-truefoundry-raises-2-3-mn-in-seed-funding-122092000343_1.html",
-      "publishedDateTime": "2022-09-19T23:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-aiml-bootcamp-for-pakistan-and-asean-startups-is-right-round-the-corner.md",
-      "title": "AI/ML Bootcamp for Pakistan and ASEAN Startups Is Right Round the Corner",
-      "excerpt": "In the course of businesses' digital transformation, organizations are swamped with vast amounts of data that are both incredibly valuable and",
-      "sourceUrl": null,
-      "webUrl": "https://propakistani.pk/2022/09/20/ai-ml-bootcamp-for-pakistan-and-asean-startups-is-right-round-the-corner/",
-      "originalUrl": "https://propakistani.pk/2022/09/20/ai-ml-bootcamp-for-pakistan-and-asean-startups-is-right-round-the-corner/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://propakistani.pk/wp-content/uploads/2022/09/AIML-Bootcamp-for-Pakistan-and-ASEAN-Startups-Is-Right-Round-the-Corner.jpg",
-          "width": 1000,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://propakistani.pk/2022/09/20/ai-ml-bootcamp-for-pakistan-and-asean-startups-is-right-round-the-corner/amp/",
-      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2022/09/20/ai-ml-bootcamp-for-pakistan-and-asean-startups-is-right-round-the-corner/amp/",
-      "publishedDateTime": "2022-09-19T22:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ProPakistani",
-        "domain": "propakistani.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-meta-alumnis-startup-truefoundry-raises-23-million-to-accelerate-ml-deployments.md",
-      "title": "Meta alumni’s startup TrueFoundry raises $2.3 million to accelerate ML deployments",
-      "excerpt": "TrueFoundry, founded by former Meta engineers, aims to help enterprises deploy machine learning models at the speed of big tech companies.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/19/meta-alumni-startup-truefoundry-seed-funding-sequoia-surge-machine-learning/",
-      "originalUrl": "https://techcrunch.com/2022/09/19/meta-alumni-startup-truefoundry-seed-funding-sequoia-surge-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/09/GettyImages-950196458.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/19/meta-alumni-startup-truefoundry-seed-funding-sequoia-surge-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/19/meta-alumni-startup-truefoundry-seed-funding-sequoia-surge-machine-learning/amp/",
-      "publishedDateTime": "2022-09-19T19:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI",
         "Machine Learning"
       ]

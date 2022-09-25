@@ -2,26 +2,26 @@
 category: news
 title: "IBM Study: Supply Chain Leaders Are Investing in AI and Automation to Navigate Supply Chain Uncertainties and Improve Sustainability"
 excerpt: "AI and automation initiatives to build intelligent, resilient, and sustainable supply chains,\" said Jonathan Wright, IBM Consulting Global Managing Partner, Sustainability Services and Global ..."
-publishedDateTime: 2022-09-20T11:02:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/ibm-study-supply-chain-leaders-are-investing-in-ai-and-automation-to-navigate-supply-chain-uncertainties-and-improve-sustainability-301628120.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/ibm-study-supply-chain-leaders-are-investing-in-ai-and-automation-to-navigate-supply-chain-uncertainties-and-improve-sustainability-301628120.html"
+publishedDateTime: 2022-09-20T11:55:00Z
+originalUrl: "https://www.victoriaadvocate.com/ibm-study-supply-chain-leaders-are-investing-in-ai-and-automation-to-navigate-supply-chain/article_84ef4df6-fd16-5e3a-92fe-0adf8dcec274.html"
+webUrl: "https://www.victoriaadvocate.com/ibm-study-supply-chain-leaders-are-investing-in-ai-and-automation-to-navigate-supply-chain/article_84ef4df6-fd16-5e3a-92fe-0adf8dcec274.html"
 type: article
 quality: 8
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: The Victoria Advocate
+  domain: victoriaadvocate.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1902478/IBM_CSCO_Video_2022.mp4?p=thumbnail"
-    width: 512
-    height: 288
+  - url: "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/9/a2/9a296566-f23b-52a0-97b8-7aa1b1360c59/61a62791f2a26.image.jpg?crop=1981%2C1040%2C5%2C0&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -49,6 +49,6 @@ related:
       domain: tmcnet.com
     quality: 10
 
-secured: "jCiguqRe6yssSOejqcnmqt4QrFoKHji2iWgs3tJ/9XFZ1eBixkU9m3+iXG2veEvuKe1CAXZt0mwUypF2eO1hYJ8JtAvh0iAuf1qn3chtX+MaZhYrgfLilMmM/qJ6cqAHNWHxLrMWaemtOx4UloI5KpEnJlvaITyMMVZdlDNwjPNw+dBbPi9KIf/A7UsoY6pSBGmKxWcG8jzUTpm7efntfV70ADKzbnQ7b0ddPOQv091FvtVzGZnO4xdV0yz/Het4U1FWWKkBFI9qLP9u74+H9ttV+2MkDDeYBWXp07au+F4QPykFuAPO0YWo4YT1SXriGqCIhX+7rP4ORRLsMhcuHMm9HC9kKcwmdasbxEC0o+8=;2rY+wSHlYMrTrFIiMT0CnA=="
+secured: "0eQCO3GfewnRqnLYKIItYQHdfC/o99vbA1vwtWEEWoKDGJyUbD2wJG4SZHvqF42Vr0e1rtitMsM1A8mBhWinn7SKRpnBO0UmM9txyA/FFudQLzgyC4vPPqoMQW8twXB8Mp9knm1JNeLu04FqMx/DsATLTv7s2LUWtUeGFLS4RbzFRuk7eWgdH7aWTVrwszBpuK3gHqZ2DzJNqcmJApkTR/brjotUV+e5ZIhnTzcA0+uCgtY/lXHfzyaFIKZos/f+oJxWKoLRVGDWQ1tW3STG23TsG69xA47lL70GNdNWc2uIR96Vp6DZttGNGVZEtN8BEqpLQyBEmr7ECTVOaNRck3YF13J+x9FTeGDCr/VtLMM=;wrQdrZgUPfrvNRvzKduWKg=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-02-octo-works-with-aws-to-deliver-data-mesh-solutions-for-federal-government-organizations.md",
+      "title": "Octo Works with AWS to Deliver Data Mesh Solutions for Federal Government Organizations",
+      "excerpt": "Octo is working with AWS to offer its data mesh solutions to federal government customers seeking to source, manage, access, and further protect critical analytical data at scale. RESTON, Va., /PRNews",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/08/n28310006/octo-works-with-aws-to-deliver-data-mesh-solutions-for-federal-government-organizations",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/n28310006/octo-works-with-aws-to-deliver-data-mesh-solutions-for-federal-government-organizations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.giphy.com/media/bxg7wC26fV2ISV1F7D/giphy.gif?cid=790b7611467e0ec94bfa730c90c0a9101f7549875da4ca3a&rid=giphy.gif&ct=g",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28310006",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28310006",
+      "publishedDateTime": "2022-08-02T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-01-simplify-iterative-machine-learning-model-development-by-adding-features-to-existing-feature-groups-in-amazon-sagemaker-feature-store.md",
       "title": "Simplify iterative machine learning model development by adding features to existing feature groups in Amazon SageMaker Feature Store",
       "excerpt": "Feature engineering is one of the most challenging aspects of the machine learning (ML) lifecycle and a phase where the most amount of time is spent—data scientists and ML engineers spend 60–70% of their time on feature engineering. AWS introduced Amazon SageMaker Feature Store during AWS re:Invent 2020,",
@@ -1309,49 +1352,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-aiming-sky-high-iit-madras-professor-starts-his-own-air-taxi-service-company.md",
-      "title": "Aiming sky-high: IIT Madras professor starts his own air-taxi service company",
-      "excerpt": "Professor Satya Chakravarthy informed that his company — ePlane Company — would enable up to ten times faster passenger commutation and cargo transportation",
-      "sourceUrl": null,
-      "webUrl": "https://www.edexlive.com/news/2022/jul/19/aiming-sky-high-iit-madras-professor-starts-his-own-air-taxi-service-company-30011.html",
-      "originalUrl": "https://www.edexlive.com/news/2022/jul/19/aiming-sky-high-iit-madras-professor-starts-his-own-air-taxi-service-company-30011.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.edexlive.com/uploads/user/imagelibrary/2022/7/19/original/IE19SEPT121_07-11-2019_12_44_44_07467976.jpg",
-          "width": 5520,
-          "height": 3680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.edexlive.com/news/2022/jul/19/aiming-sky-high-iit-madras-professor-starts-his-own-air-taxi-service-company-30011.amp",
-      "cdnAmpWebUrl": "https://m-edexlive-com.cdn.ampproject.org/c/s/m.edexlive.com/news/2022/jul/19/aiming-sky-high-iit-madras-professor-starts-his-own-air-taxi-service-company-30011.amp",
-      "publishedDateTime": "2022-07-19T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "edexlive",
-        "domain": "edexlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

@@ -64,20 +64,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Fintech Market Growth and Share 2022 Analysis by Recent Developments, New Technologies, Key Dynamics, Regions and Segments Forecast to 2028"
-    excerpt: "The “AI in Fintech Market Growth Research 2022 offers detailed study on industry revenue estimations, regional"
-    publishedDateTime: 2022-09-20T07:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-growth-and-share-2022-analysis-by-recent-developments-new-technologies-key-dynamics-regions-and-segments-forecast-to-2028-2022-09-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing and Recognition Market Global Growth, Emerging Trends, Demand Status, Regional Overview and Share Analysis till 2028"
     excerpt: "Global Natural Language Processing and Recognition Market provides key analysis on the market status of the Natural Language Processing and Recognition with the best facts and figures, meaning, definition,"
     publishedDateTime: 2022-09-22T11:42:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-trends-size-share-growth-status-key-segments-and-forecast-2028-2022-09-20"
 type: article
 quality: 64
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Fintech Market Growth and Share 2022 Analysis by Recent Developments, New Technologies, Key Dynamics, Regions and Segments Forecast to 2028"
-    excerpt: "The “AI in Fintech Market Growth Research 2022 offers detailed study on industry revenue estimations, regional"
-    publishedDateTime: 2022-09-20T07:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-growth-and-share-2022-analysis-by-recent-developments-new-technologies-key-dynamics-regions-and-segments-forecast-to-2028-2022-09-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

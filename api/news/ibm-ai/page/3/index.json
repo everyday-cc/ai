@@ -1174,6 +1174,60 @@
       ]
     },
     {
+      "path": "_news/2022-06-08-investing-in-ai-stocks.md",
+      "title": "Investing in AI Stocks",
+      "excerpt": "Artificial intelligence (AI), including its offshoots ... including its autonomous vehicle start-up Waymo. It also owns DeepMind, a deep learning platform that can diagnose eye diseases, predict ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
+      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.foolcdn.com/media/dubs/images/3-depiction_of_cloud_computing_connections.width-400.jpg",
+          "width": 400,
+          "height": 239,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-08T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Finance",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-ibm-bolsters-cyber-security-offerings-with-randori-acquisition.md",
       "title": "IBM bolsters cyber security offerings with Randori acquisition",
       "excerpt": "IBM hopes the acquisition will advance its hybrid cloud and AI skills and capabilities. This will be its fourth acquisition of 2022 and it revealed it has acquired over 20 companies since Arvind ...",
@@ -1256,49 +1310,6 @@
       "provider": {
         "name": "Popular Science",
         "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-ibm-bids-farewell-to-watson-health-assets.md",
-      "title": "IBM Bids Farewell to Watson Health Assets",
-      "excerpt": "IBM shook up the digital health space Friday with the news that it is selling its healthcare data and analytics assets, currently part of the Watson Health business, to an investment firm. The sale price is reportedly more than $1 billion, although the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/industry/ibm-bids-farewell-watson-health-assets",
-      "originalUrl": "https://www.designnews.com/industry/ibm-bids-farewell-watson-health-assets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/IBM%20corporate%20headquarters%20sign.png",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
         "images": null,
         "publishers": null,
         "authors": null

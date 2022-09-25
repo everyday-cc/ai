@@ -64,6 +64,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "AI Technology Is Changing Voice Recognition"
+    excerpt: "Ah, the unintended consequences of powerful voice recognition and AI technology! This anecdote highlights the power of speech recognition and AI technology, 60 years after Bell Labs’ Audrey device and 50 years after IBM showed off its Shoebox machine."
+    publishedDateTime: 2022-09-22T00:00:00Z
+    webUrl: "https://semiengineering.com/ai-technology-is-changing-voice-recognition/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 39
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/Siemens-Logo-Updated.png"
+        width: 559
+        height: 210
+        isCached: true
   - title: "How AI sees the world — in ways that are predictable, yet way off"
     excerpt: "What AI means for illustration. Plus, Korean Modernism at LACMA and delays at the Lucas Museum in our weekly arts newsletter."
     publishedDateTime: 2022-09-24T15:00:00Z

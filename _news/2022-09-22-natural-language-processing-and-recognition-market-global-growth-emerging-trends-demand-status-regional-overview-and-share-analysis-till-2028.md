@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Fintech Market Growth and Share 2022 Analysis by Recent Developments, New Technologies, Key Dynamics, Regions and Segments Forecast to 2028"
-    excerpt: "The “AI in Fintech Market Growth Research 2022 offers detailed study on industry revenue estimations, regional"
-    publishedDateTime: 2022-09-20T07:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-growth-and-share-2022-analysis-by-recent-developments-new-technologies-key-dynamics-regions-and-segments-forecast-to-2028-2022-09-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Ai In Agriculture Market is projected to reach USD 6.5 billion in 2029, registering a 23.1% CAGR | Size, Share, Report & Forecast"
     excerpt: "Ai In Agriculture Market The Ai In Agriculture Market was valued around USD 1.2 billion in 2021, and is expected"
     publishedDateTime: 2022-09-23T11:01:00Z

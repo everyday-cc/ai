@@ -134,6 +134,58 @@
       ]
     },
     {
+      "path": "_news/2022-09-22-why-modern-business-runs-on-data-streaming.md",
+      "title": "Why Modern Business Runs On Data Streaming",
+      "excerpt": "Data-centric information that flows inside enterprises with a contemporary approach to cloud-native IT stack management will now move at a more rapid, more complex and more constant pace than ever before - data streaming is now a part of modern business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2022/09/22/why-modern-business-runs-on-data-streaming/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2022/09/22/why-modern-business-runs-on-data-streaming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63248b3e422194d3e8b00cbb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2022/09/22/why-modern-business-runs-on-data-streaming/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2022/09/22/why-modern-business-runs-on-data-streaming/amp/",
+      "publishedDateTime": "2022-09-22T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-22-syngenta-aims-to-make-its-sap-erp-as-reliable-as-water-from-a-tap.md",
       "title": "Syngenta Aims To Make Its SAP ERP As Reliable As Water From A Tap",
       "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as he recently talked with Christian Bayer, the Global Head of ERP/SAP and Data and Analytics at Syngenta, and partner Infosys, about moving SAP to the public cloud.",
@@ -323,6 +375,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-study-suggests-older-adults-show-greater-mental-well-being-despite-cognitive-decline.md",
+      "title": "Study suggests older adults show greater mental well-being despite cognitive decline",
+      "excerpt": "Despite displaying signs of poorer cognitive performance, older adults tend to have greater mental well-being compared to younger adults, according to a new study. A study published this month in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/health/study-older-adults-greater-mental-well-being-cognitive-decline",
+      "originalUrl": "https://www.foxnews.com/health/study-older-adults-greater-mental-well-being-cognitive-decline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1ce4d6f4-d820-4a8a-b50e-7596345c80f6/ab31fe9d-1057-4f40-87d5-d4538c3677b8/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/health/study-older-adults-greater-mental-well-being-cognitive-decline.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/study-older-adults-greater-mental-well-being-cognitive-decline.amp",
+      "publishedDateTime": "2022-09-20T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1201,110 +1305,6 @@
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-microsoft-shares-whats-next-in-machine-learning-at-nvidia-gtc.md",
-      "title": "Microsoft shares what's next in machine learning at NVIDIA GTC",
-      "excerpt": "Finding scalable solutions for today’s global challenges requires forward-thinking, transformative tools. As environmental, economic, and public health concerns mount, Microsoft Azure is addressing these challenges head on with high-performance computing (HPC), AI, and machine learning. ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/microsoft-shares-whats-next-in-machine-learning-at-nvidia-gtc/",
-      "originalUrl": "https://azure.microsoft.com/blog/microsoft-shares-whats-next-in-machine-learning-at-nvidia-gtc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/30a8bf6a-b129-4564-97e3-e9cfb29c824a.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T02:00:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-best-things-you-can-do-to-slow-cognitive-decline-revealed.md",
-      "title": "Best Things You Can Do to Slow Cognitive Decline Revealed",
-      "excerpt": "The decline in cognitive abilities as we get older is thought to be to do with changes to our brain structures that take place over time. It is estimated that one in nine adults in the U.S. has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/brain-aging-dementia-alzheimers-multivitamin-study-prevention-1742762",
-      "originalUrl": "https://www.newsweek.com/brain-aging-dementia-alzheimers-multivitamin-study-prevention-1742762",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2115680/brain-drawing.jpg",
-          "width": 1800,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/brain-aging-dementia-alzheimers-multivitamin-study-prevention-1742762?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brain-aging-dementia-alzheimers-multivitamin-study-prevention-1742762?amp=1",
-      "publishedDateTime": "2022-09-14T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

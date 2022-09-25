@@ -7,7 +7,7 @@ originalUrl: "https://www.surrey.ac.uk/news/dementia-diagnosis-could-be-fast-tra
 webUrl: "https://www.surrey.ac.uk/news/dementia-diagnosis-could-be-fast-tracked-using-artificial-intelligence"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: News Medical
       domain: news-medical.net
-    quality: 39
+    quality: 41
     images:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
         width: 620

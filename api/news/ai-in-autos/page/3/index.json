@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-07-teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it.md",
+      "title": "Tesla’s ‘full self-driving’ isn’t worth $15,000, say many who bought it",
+      "excerpt": "Tesla's price for the feature it calls \"full self-driving\" has increased again. This time to $15,000, making it an unusually expensive option for a car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/09/07/business/tesla-fsd-price-increase/index.html",
+      "originalUrl": "https://www.cnn.com/2022/09/07/business/tesla-fsd-price-increase/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220906152126-02-tesla-interior-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/09/07/business/tesla-fsd-price-increase/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/07/business/tesla-fsd-price-increase/index.html",
+      "publishedDateTime": "2022-09-07T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-07-how-artificial-intelligence-is-helping-to-restore-works-of-art.md",
       "title": "How artificial intelligence is helping to restore works of art",
       "excerpt": "And it is benefitting more and more from the latest technological advances, especially in terms of artificial intelligence. The start-up Oxia Palus is training one such AI to accurately ...",
@@ -1289,49 +1341,6 @@
       "provider": {
         "name": "The New Zealand Herald",
         "domain": "nzherald.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-motley-fool-meet-the-brains-of-the-self-driving-revolution.md",
-      "title": "Motley Fool: Meet the Brains of the Self-Driving Revolution",
-      "excerpt": "Meet the Brains of the Self-Driving Revolution Investing Humans, animals, and machines. We all require a brain",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com.au/free-stock-report/sa-meet-the-brains-of-the-self-driving-revolution/",
-      "originalUrl": "https://www.fool.com.au/free-stock-report/sa-meet-the-brains-of-the-self-driving-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fool.com.au/wp-content/uploads/2022/09/self-driving-revolution-brains-copy.png",
-          "width": 788,
-          "height": 590,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motley Fool Australia",
-        "domain": "fool.com.au",
         "images": null,
         "publishers": null,
         "authors": null

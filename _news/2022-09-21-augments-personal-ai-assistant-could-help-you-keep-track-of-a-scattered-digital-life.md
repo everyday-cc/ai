@@ -98,7 +98,7 @@ related:
     provider:
       name: inforum
       domain: inforum.com
-    quality: 33
+    quality: 35
     images:
       - url: "https://cdn.forumcomm.com/dims4/default/76d4a73/2147483647/strip/true/crop/1280x622+0+38/resize/1440x700!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.amazonaws.com%2Fbrightspot%2F16%2F19%2F0555f84c48609ca442189d7710cb%2Fscience.Still001.png"
         width: 1440

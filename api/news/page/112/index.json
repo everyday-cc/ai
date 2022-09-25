@@ -2,6 +2,169 @@
   "page": 112,
   "value": [
     {
+      "path": "_news/2022-06-24-amazon-shows-off-alexa-feature-that-mimics-the-voices-of-your-dead-relatives.md",
+      "title": "Amazon shows off Alexa feature that mimics the voices of your dead relatives",
+      "excerpt": "Amazon has revealed an experimental Alexa feature that allows the AI assistant to mimic the voices of users’ dead relatives. The company demoed the feature at its annual MARS conference ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/6/23/23179748/amazon-alexa-feature-mimic-voice-dead-relative-ai",
+      "originalUrl": "https://www.theverge.com/2022/6/23/23179748/amazon-alexa-feature-mimic-voice-dead-relative-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/InAzvn-WcHBy1UXFlR62QNMNS6g=/0x148:2050x1221/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21989893/dseifert_201025_4263_0007.0.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T19:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-nigerias-oil-sector-looks-as-robotics-adoption-picks-up.md",
+      "title": "Nigeria’s oil sector looks as robotics adoption picks up",
+      "excerpt": "The world is prepping for an oil and gas industry where completely unmanned assets are operated, inspected and maintained with digitisation and artificial",
+      "sourceUrl": null,
+      "webUrl": "https://businessday.ng/uncategorized/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
+      "originalUrl": "https://businessday.ng/uncategorized/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2017/11/How-robots-will-change-dynamics-of-shared-services-centralised-processing-1-1.jpg?resize=450%2C300&ssl=1",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://businessday.ng/amp/uncategorized/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
+      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/uncategorized/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
+      "publishedDateTime": "2022-06-23T18:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessday",
+        "domain": "businessday.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-b5-prospective-cohort-analysis-of-normal-versus-mild-cognitive-impairment-for-quality-of-life-outcome-following-dbs-for-parkinsons-disease.md",
+      "title": "B.5 Prospective cohort analysis of normal versus mild cognitive impairment for quality of life outcome following DBS for Parkinson’s disease",
+      "excerpt": "It is unclear where this cut-off should occur and if patients with mild cognitive impairment (MCI) do not do as well. This prospective cohort analysis assessed if pre-operative cognition affected post-operative quality of life. Methods: PD patients ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/canadian-journal-of-neurological-sciences/article/b5-prospective-cohort-analysis-of-normal-versus-mild-cognitive-impairment-for-quality-of-life-outcome-following-dbs-for-parkinsons-disease/5A516A47945EA0A34EABA4BEDC0E8C04",
+      "originalUrl": "https://www.cambridge.org/core/journals/canadian-journal-of-neurological-sciences/article/b5-prospective-cohort-analysis-of-normal-versus-mild-cognitive-impairment-for-quality-of-life-outcome-following-dbs-for-parkinsons-disease/5A516A47945EA0A34EABA4BEDC0E8C04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-p002-saccade-parameters-reveal-cognitive-impairment-and-differentially-associate-with-cognitive-domains-across-neurodegenerative-diseases.md",
+      "title": "P.002 Saccade parameters reveal cognitive impairment and differentially associate with cognitive domains across neurodegenerative diseases",
+      "excerpt": "Characterizing oculomotor behaviour in context of cognitive function may enhance disease diagnosis and monitoring. We therefore aimed to quantify cognitive impairment in neurodegenerative disease using saccade behaviour and neuropsychology. Methods ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/canadian-journal-of-neurological-sciences/article/p002-saccade-parameters-reveal-cognitive-impairment-and-differentially-associate-with-cognitive-domains-across-neurodegenerative-diseases/2B76FAA8D609DE44A0B5EC6FBA261041",
+      "originalUrl": "https://www.cambridge.org/core/journals/canadian-journal-of-neurological-sciences/article/p002-saccade-parameters-reveal-cognitive-impairment-and-differentially-associate-with-cognitive-domains-across-neurodegenerative-diseases/2B76FAA8D609DE44A0B5EC6FBA261041",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-24-robots-and-artificial-intelligence.md",
       "title": "Robots and Artificial Intelligence",
       "excerpt": "Why DoD’s New Approach to Data and Artificial Intelligence Should Enhance National Defense The DoD’s updated efforts on artificial intelligence (AI) are requiring some disruptive ...",
@@ -984,188 +1147,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-a-4225-million-global-opportunity-for-artificial-neural-networks-by-2026-new-research-from-strategyr.md",
-      "title": "A $422.5 Million Global Opportunity For Artificial Neural Networks By 2026 - New Research From Strategyr'",
-      "excerpt": "FACTS AT A GLANCE A $422.5 Million Global Opportunity for Artificial Neural Networks by 2026 - New Research from StrategyR Global Artificial Neural Networks Market to Reach $422.5 Million by 2026 ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104422398/A-4225-Million-Global-Opportunity-For-Artificial-Neural-Networks-By-2026-New-Research-From-Strategyr",
-      "originalUrl": "https://menafn.com/1104422398/A-4225-Million-Global-Opportunity-For-Artificial-Neural-Networks-By-2026-New-Research-From-Strategyr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-06/23/PN_d94994b4-3_Image_In_Body.jpg",
-          "width": 400,
-          "height": 249,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-meet-augnito-at-ukio-2022-a-next-gen-speech-recognition-technology-centred-on-disruptive-innovation.md",
-      "title": "Meet Augnito At UKIO 2022 A Next-Gen Speech Recognition Technology Centred On Disruptive Innovation",
-      "excerpt": "Scribetech, London 23 June 2022 | In 1962 the first speech recognition* (SR) technology could recognise just 16 words in English. Fast forward 60 years and SR is built into most elements of our ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104422271/Meet-Augnito-At-UKIO-2022-A-Next-Gen-Speech-Recognition-Technology-Centred-On-Disruptive-Innovation",
-      "originalUrl": "https://menafn.com/1104422271/Meet-Augnito-At-UKIO-2022-A-Next-Gen-Speech-Recognition-Technology-Centred-On-Disruptive-Innovation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?624087",
-          "width": 374,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-are-babies-the-key-to-the-next-generation-of-artificial-intelligence.md",
-      "title": "Are babies the key to the next generation of artificial intelligence?",
-      "excerpt": "Babies can help unlock the next generation of artificial intelligence (AI), according to Trinity neuroscientists and colleagues who have just published new guiding principles for improving AI.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-06-babies-key-artificial-intelligence.html",
-      "originalUrl": "https://techxplore.com/news/2022-06-babies-key-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/baby-ipad.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-06-babies-key-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-babies-key-artificial-intelligence.amp",
-      "publishedDateTime": "2022-06-23T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-cruise-ceo-on-launching-driverless-taxi-service-in-san-fransisco.md",
-      "title": "Cruise CEO on launching driverless taxi service in San Fransisco",
-      "excerpt": "Cruise CEO Kyle Vogt joins CNBC's 'Squawk Box' to discuss the prospect of the driverless ridesharing industry after General Motors' majority-owned autonomous vehicle unit launched its service for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2022/06/23/cruise-ceo-on-launching-driverless-taxi-service-in-san-fransisco.html",
-      "originalUrl": "https://www.cnbc.com/video/2022/06/23/cruise-ceo-on-launching-driverless-taxi-service-in-san-fransisco.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107079691-16559907261655990722-23902419088-1080pnbcnews.jpg?v=1655990725&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,203 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2022-08-06-us-appeals-court-says-artificial-intelligence-cant-be-patent-inventor.md",
+      "title": "U.S. appeals court says artificial intelligence can't be patent inventor",
+      "excerpt": "An artificial intelligence system cannot be an inventor under United States patent law, a U.S. appeals court affirmed Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/litigation/us-appeals-court-says-artificial-intelligence-cant-be-patent-inventor-2022-08-05/",
+      "originalUrl": "https://www.reuters.com/legal/litigation/us-appeals-court-says-artificial-intelligence-cant-be-patent-inventor-2022-08-05/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/zfHRHa8GqFXR61NmxV7lu1-mJLc=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Q3OQD33BFRPLRC6RJQY5BRPPSU.jpg",
+          "width": 728,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-05T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-uk-may-use-facial-recognition-smartwatches-to-monitor-migrant-criminals.md",
+      "title": "UK may use facial recognition smartwatches to monitor migrant criminals",
+      "excerpt": "The UK government may soon start using facial recognition smartwatches to monitor migrants who have been convicted of crimes. The offenders would need to scan their faces up to five times per day, according to The Guardian.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/uk-facial-recognition-smartwatch-migrant-criminals-160623241.html",
+      "originalUrl": "https://www.engadget.com/uk-facial-recognition-smartwatch-migrant-criminals-160623241.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-08/38277eb0-14d7-11ed-bfed-63245ce47b6b",
+          "width": 5760,
+          "height": 3840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/uk-facial-recognition-smartwatch-migrant-criminals-160623241.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/uk-facial-recognition-smartwatch-migrant-criminals-160623241.html",
+      "publishedDateTime": "2022-08-05T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak.md",
+      "title": "Gartner research: 2 types of emerging AI near hype cycle peak",
+      "excerpt": "According to new Gartner research, emotion and generative AI are both reaching the peak of the digital advertising hype cycle.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/08/05/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/",
+      "originalUrl": "https://venturebeat.com/2022/08/05/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1346722826.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/08/05/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/05/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/amp/",
+      "publishedDateTime": "2022-08-05T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-trai-floats-paper-on-leverage-ai-big-data-for-sector.md",
+      "title": "Trai floats paper on leverage AI, big data for sector",
+      "excerpt": "As the market for AI and big data grows rapidly, its usage across sectors is also expanding. The telecom sector, for instance, can leverage AI and big data in areas such as quality of service, spectrum management and network security,",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/industry/telecom/trai-floats-paper-on-leverage-ai-big-data-for-sector/articleshow/93377396.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/industry/telecom/trai-floats-paper-on-leverage-ai-big-data-for-sector/articleshow/93377396.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-83810,msid-93377421/dot-floats-consultation-paper-on-need-for-new-legal-framework-for-sector.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/industry/telecom/trai-floats-paper-on-leverage-ai-big-data-for-sector/amp_articleshow/93377396.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/telecom/trai-floats-paper-on-leverage-ai-big-data-for-sector/amp_articleshow/93377396.cms",
+      "publishedDateTime": "2022-08-05T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-05-could-artificial-intelligence-assisted-colonoscopy-be-better-for-adenoma-detection.md",
       "title": "Could Artificial Intelligence-Assisted Colonoscopy Be Better for Adenoma Detection?",
       "excerpt": "ACCORDING to the results of a prospective randomised clinical trial, artificial intelligence (AI) colonoscopy has enhanced the detection rate of adenoma compared with standard colonoscopy. Remarkable efforts have been dedicated to improving adenoma ...",
@@ -892,197 +1089,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-tesla-teases-optimus-humanoid-robot-prototype-with-new-image.md",
-      "title": "Tesla teases Optimus humanoid robot prototype with new image",
-      "excerpt": "Tesla has teased its Optimus humanoid robot prototype with a new image ahead of a full unveiling planned for September 30th. Earlier this year, CEO Elon Musk announced “Tesla AI Day #2” with “many cool updates” on August 19.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/",
-      "originalUrl": "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-Optimus-prototype-teaser.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/amp/",
-      "publishedDateTime": "2022-08-04T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-stretching-may-help-slow-cognitive-decline-as-well-as-aerobic-exercise.md",
-      "title": "Stretching May Help Slow Cognitive Decline as Well as Aerobic Exercise",
-      "excerpt": "Share on Pinterest New research suggests that stretching and balancing exercises may also be able to help slow the speed of mild cognitive decline. Sergey Narevskih/Stocksy New data suggests ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthline.com/health-news/stretching-may-help-slow-cognitive-decline-as-well-as-aerobic-exercise",
-      "originalUrl": "https://www.healthline.com/health-news/stretching-may-help-slow-cognitive-decline-as-well-as-aerobic-exercise",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://post.healthline.com/wp-content/uploads/2022/08/older-female-stretching-1200x628-facebook-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healthline",
-        "domain": "healthline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-ethical-ai-and-biometrics-move-forward-more-industry-academia-effort-needed.md",
-      "title": "Ethical AI and biometrics move forward. More industry, academia effort needed",
-      "excerpt": "The road toward ethical, inclusive AI is still long, fortunately, new generations are being provided with the tools to help research move in this direction.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202208/ethical-ai-and-biometrics-move-forward-more-industry-academia-effort-needed",
-      "originalUrl": "https://www.biometricupdate.com/202208/ethical-ai-and-biometrics-move-forward-more-industry-academia-effort-needed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg",
-          "width": 2048,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse.md",
-      "title": "Artists Are Helping To Keep Humans At The Center In EY’s Metaverse",
-      "excerpt": "The next generation of virtual worlds must focus on our shared humanity. That’s why EY’s Cognitive Human Enterprise and the New Museum’s NEW INC are bringing together artists and engineers to imagine a different kind of metaverse.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/",
-      "originalUrl": "https://www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62eb15dea5389ec014373b0b/0x0.jpg?format=jpg&crop=1298,730,x14,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/amp/",
-      "publishedDateTime": "2022-08-04T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

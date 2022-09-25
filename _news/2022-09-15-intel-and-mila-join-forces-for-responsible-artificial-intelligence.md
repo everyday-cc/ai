@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AWS AI
 
 images:
   - url: "https://i.itworldcanada.com/wp-content/uploads/2018/09/GettyImages-905587820-e1537552477406.jpg"

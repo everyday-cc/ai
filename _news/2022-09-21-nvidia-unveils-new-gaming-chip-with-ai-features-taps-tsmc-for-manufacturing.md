@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/nvidia-unveils-new-gaming-chip-
 webUrl: "https://www.reuters.com/technology/nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-manufacturing-2022-09-20/"
 type: article
 quality: 81
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -38,15 +38,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 61
-  - title: "NVIDIA requests TSMC speed up AI GPU production to avoid China sanctions"
-    excerpt: "Company fears political decisions will end lucrative deals it has with Chinese clients. New export restrictions on AI chips could cost company $400 million in potential sales to China. If NVIDIA is"
-    publishedDateTime: 2022-09-20T07:27:00Z
-    webUrl: "https://www.guru3d.com/news-story/nvidia-requests-tsmc-speed-up-ai-gpu-production-to-avoid-china-sanctions.html"
-    type: article
-    provider:
-      name: Guru3D.com
-      domain: guru3d.com
-    quality: 33
   - title: "Nvidia unveils next-gen RTX GPUs, AI workflows in the cloud"
     excerpt: "New cloud services to support AI workflows and the launch of a new generation of GeForce RTX GPUs featured yesterday in Nvidia CEO Jensen Huang’s GTC keynote. “Computing is advancing at incredible speeds,"
     publishedDateTime: 2022-09-22T09:48:00Z

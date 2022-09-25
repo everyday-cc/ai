@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - Facebook AI
+  - AWS AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/1_LLVL8xUiUOBE8WHgzAuY-Q.png"

@@ -37,20 +37,6 @@ related:
         width: 1500
         height: 750
         isCached: true
-  - title: "Asia's first driverless CIMC-made boarding bridge comes into operation in China"
-    excerpt: "The first driverless boarding bridge in Asia has been officially put into operation at Chengdu Tianfu International Airport in southwest China, marking a milestone in the intelligent upgrade of Chinese civil aviation industry."
-    publishedDateTime: 2022-09-20T09:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/asia-s-first-driverless-cimc-made-boarding-bridge-comes-into-operation-in-china-1031752676"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-    images:
-      - url: "https://mma.prnewswire.com/media/1902841/image_1.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Volkswagen concept previews tomorrow's driverless rental pods"
     excerpt: "When (if?) cars become properly driverless, why not make them glassy pods with beds, desks and AR entertainment for the kids?"
     publishedDateTime: 2022-09-22T18:26:00Z

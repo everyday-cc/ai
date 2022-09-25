@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-08-17-tech-bytes-lyft-launching-driverless-fleet.md",
+      "title": "Tech Bytes: Lyft launching driverless fleet",
+      "excerpt": "Lyft and car company Motional are rolling out a new fleet of driverless electric vehicles ... be charged with any light source — natural or artificial — and they provide 80 hours of playback ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-lyft-launching-driverless-fleet/",
+      "originalUrl": "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-lyft-launching-driverless-fleet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.abc27.com/wp-content/uploads/sites/55/2022/05/AP_827812619956_1540634580368_60320023_ver1.0.jpg?w=1280",
+          "width": 876,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-lyft-launching-driverless-fleet/amp/",
+      "cdnAmpWebUrl": "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-lyft-launching-driverless-fleet/amp/",
+      "publishedDateTime": "2022-08-17T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "abc27",
+        "domain": "abc27.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-17-whats-happening-with-baidu-stock.md",
       "title": "What’s Happening With Baidu Stock?",
       "excerpt": "Baidu is also making solid progress with its AI developments such as autonomous driving. Last week, the company became the first robo taxi operator in China to receive permits for offering rides ...",
@@ -1342,50 +1385,6 @@
         "AI Ethics",
         "AI",
         "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-how-artificial-intelligence-could-lower-nuclear-energy-costs.md",
-      "title": "How artificial intelligence could lower nuclear energy costs",
-      "excerpt": "Nuclear power plants provide large amounts of electricity without releasing planet-warming pollution. But the expense of running these plants has made it difficult for them to stay open. If nuclear is to play a role in the U.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.html",
-      "originalUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/1-nuclear.jpg",
-          "width": 1920,
-          "height": 1278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.amp",
-      "publishedDateTime": "2022-08-11T11:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
         "AI in Autos"
       ]
     }

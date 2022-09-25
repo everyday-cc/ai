@@ -19,6 +19,7 @@ topics:
   - AI in Autos
   - AI
   - AI in Finance
+  - IBM AI
 
 images:
   - url: "https://m.foolcdn.com/media/dubs/images/3-depiction_of_cloud_computing_connections.width-400.jpg"

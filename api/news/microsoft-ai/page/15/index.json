@@ -2,6 +2,136 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-06-01-microsoft-dev-box-your-development-workstation-on-azure.md",
+      "title": "Microsoft Dev Box: Your development workstation on Azure",
+      "excerpt": "Build 2022 had a developer focus, with new tools to make it easier to write code in a world of hybrid work. Dev Box promises to make your development environments easier to manage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3662291/microsoft-dev-box-your-development-workstation-on-azure.html",
+      "originalUrl": "https://www.infoworld.com/article/3662291/microsoft-dev-box-your-development-workstation-on-azure.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/04/15/10/it-as-a-product_boxes_glowing-box_binary_package-by-masterzphotois-getty-100798698-large-100924633-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3662291/microsoft-dev-box-your-development-workstation-on-azure.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3662291/microsoft-dev-box-your-development-workstation-on-azure.amp.html",
+      "publishedDateTime": "2022-06-01T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-azure-nc-a100-v4-vms-for-ai-now-generally-available.md",
+      "title": "Azure NC A100 v4 VMs for AI now generally available",
+      "excerpt": "AI is revolutionizing the world we live in—from the way we entertain ourselves, to the products and services that we consume, to the way we care for our bodies, and how we go about our daily work. At Microsoft, our NC series virtual machines (VMs) allow our customers and partners access to almost limitless",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/azure-nc-a100-v4-vms-for-ai-now-generally-available/",
+      "originalUrl": "https://azure.microsoft.com/blog/azure-nc-a100-v4-vms-for-ai-now-generally-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T01:00:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-the-new-marketing-is-a-cognitive-process.md",
+      "title": "The New Marketing Is a Cognitive Process",
+      "excerpt": "It’s not. Branding needs to forge new connections with consumers. Branding is all about understanding how consumers choose products and services. Cognitive science is all about understanding how our brain works and makes decisions. It encompasses ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=153181",
+      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=153181",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Destination CRM",
+        "domain": "destinationcrm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-type-2-diabetes-linked-to-cognitive-decline-in-older-age.md",
       "title": "Type 2 diabetes linked to cognitive decline in older age",
       "excerpt": "The finding comes from a large UK study of people with and without diabetes, based on cognitive tests and brain scans. Type 2 diabetes involves blood sugar rising too high after meals, often ...",
@@ -1114,147 +1244,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-westwin-formerly-microsoft-online-launches-new-english-language-sem-solution-for-baidu-paid-search.md",
-      "title": "Westwin (formerly Microsoft Online) launches new English language SEM solution for Baidu paid search",
-      "excerpt": "Recently Westwin (formerly Microsoft Online) is proud to announce the launch of SEM.Wreach.net – enabling non Chinese speakers to run paid search campaigns on Baidu. Wreach SEM will form part of Wreach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kxan.com/business/press-releases/cision/20220524CN67254/westwin-formerly-microsoft-online-launches-new-english-language-sem-solution-for-baidu-paid-search/",
-      "originalUrl": "https://www.kxan.com/business/press-releases/cision/20220524CN67254/westwin-formerly-microsoft-online-launches-new-english-language-sem-solution-for-baidu-paid-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T21:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KXAN",
-        "domain": "kxan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-github-copilot-ai-coding-assistant-due-this-summer.md",
-      "title": "GitHub Copilot AI coding assistant due this summer",
-      "excerpt": "GitHub Copilot, the controversial AI-driven coding assistant that suggests lines of code ... which has questioned the legality and ethics of its use of freely licensed source code.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3661436/github-copilot-ai-coding-assistant-due-this-summer.html",
-      "originalUrl": "https://www.infoworld.com/article/3661436/github-copilot-ai-coding-assistant-due-this-summer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/12/artificial-intelligence-concept-picture-id1160995648-100855293-large-100912931-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3661436/github-copilot-ai-coding-assistant-due-this-summer.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3661436/github-copilot-ai-coding-assistant-due-this-summer.amp.html",
-      "publishedDateTime": "2022-05-24T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-hugging-face-collaborates-with-microsoft-for-new-ai-powered-azure-service.md",
-      "title": "Hugging Face collaborates with Microsoft for new AI-powered Azure service",
-      "excerpt": "Available through Azure Machine Learning Services ... a large South African bank and financial services group. It’ll be free during the preview period, with customers only having to pay for ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/24/hugging-face-collaborates-with-microsoft-for-new-ai-powered-azure-service/",
-      "originalUrl": "https://techcrunch.com/2022/05/24/hugging-face-collaborates-with-microsoft-for-new-ai-powered-azure-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/12/Hugging-Face.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/24/hugging-face-collaborates-with-microsoft-for-new-ai-powered-azure-service/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/24/hugging-face-collaborates-with-microsoft-for-new-ai-powered-azure-service/amp/",
-      "publishedDateTime": "2022-05-24T09:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

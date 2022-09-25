@@ -149,6 +149,58 @@
       ]
     },
     {
+      "path": "_news/2022-09-22-ai-ethics-an-overview.md",
+      "title": "AI Ethics: An Overview",
+      "excerpt": "This rise in the power of AI highlights the importance of ethics in AI – we must use this powerful technology in responsible ways. For example, modern artificial intelligence is capable of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/enterprise-apps/ai-ethics/",
+      "originalUrl": "https://www.eweek.com/enterprise-apps/ai-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/11/joshua-sortino-LqKhnDzSF-8-unsplash-scaled.jpg",
+          "width": 1920,
+          "height": 1283,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-21-unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority.md",
       "title": "UNESCO urges government to consider ethics of AI in education as an absolute priority",
       "excerpt": "The report analysed that the AI market in India has the potential to touch INR 780 crores by 2025 at a compound annual growth rate (CAGR) of 20.2% A report by the United Nations Educational, Scientific and Cultural Organisation (UNESCO) launched in Delhi on Tuesday encouraged an overall regulatory framework for use of artificial intelligence (AI) tools in education.",
@@ -1297,49 +1349,6 @@
       "provider": {
         "name": "List of Banks in Belarus",
         "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-who-will-establish-metaverse-ethics.md",
-      "title": "Who will establish metaverse ethics?",
-      "excerpt": "The metaverse is not a new concept. The term was coined by science fiction novelist Neal Stephenson in his 1992 book Snow Crash, which depicts a hyper-capitalist dystopia in which humanity has collectively opted into life in virtual environments.",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202208/27/WS6309699da310fd2b29e74891.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202208/27/WS6309699da310fd2b29e74891.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.chinadaily.com.cn/images/202208/27/6309699da310fd2bec9e80fb.jpeg",
-          "width": 428,
-          "height": 285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-26T20:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
         "images": null,
         "publishers": null,
         "authors": null

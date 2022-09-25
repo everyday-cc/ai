@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-02-motley-fool-meet-the-brains-of-the-self-driving-revolution.md",
+      "title": "Motley Fool: Meet the Brains of the Self-Driving Revolution",
+      "excerpt": "Meet the Brains of the Self-Driving Revolution Investing Humans, animals, and machines. We all require a brain",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com.au/free-stock-report/sa-meet-the-brains-of-the-self-driving-revolution/",
+      "originalUrl": "https://www.fool.com.au/free-stock-report/sa-meet-the-brains-of-the-self-driving-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fool.com.au/wp-content/uploads/2022/09/self-driving-revolution-brains-copy.png",
+          "width": 788,
+          "height": 590,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motley Fool Australia",
+        "domain": "fool.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-mitsubishi-heavy-rolls-out-driverless-forklifts-in-automation-race.md",
       "title": "Mitsubishi Heavy rolls out driverless forklifts in automation race",
       "excerpt": "YOKOHAMA -- Mitsubishi Heavy Industries (MHI) on Thursday started selling driverless forklifts for warehouse operators grappling with rising e-commerce demand coupled with chronic labor shortages ...",
@@ -1324,58 +1367,6 @@
         "AI",
         "Machine Learning",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-elon-musk-aims-to-have-self-driving-teslas-ready-by-year-end-in-the-us.md",
-      "title": "Elon Musk: aims to have self-driving Teslas ready by year-end in the U.S.",
-      "excerpt": "Tesla founder Elon Musk said on Monday he aimed to get self-driving Teslas ready by year-end and hopes they could be in wide release in the United States and possibly in Europe, depending on regulatory approval.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/elon-musk-aims-have-self-driving-teslas-ready-by-year-end-us-2022-08-29/",
-      "originalUrl": "https://www.reuters.com/technology/elon-musk-aims-have-self-driving-teslas-ready-by-year-end-us-2022-08-29/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 293,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/R4cQPqkeAFIqFa7vRkbVIZLmGzE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RNKFK5ENWZLSBKGNTC4P5OADEE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

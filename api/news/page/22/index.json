@@ -2,6 +2,188 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2022-09-03-researchers-suggest-more-effective-way-for-automatic-speech-recognition.md",
+      "title": "Researchers suggest more effective way for automatic speech recognition",
+      "excerpt": "Popular voice assistants such as Siri and Amazon Alexa have made automated speech recognition (ASR) available to the general public. Despite decades of development, ASR models suffer with consistency and dependability,",
+      "sourceUrl": null,
+      "webUrl": "https://theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition-2/1114253/",
+      "originalUrl": "https://theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition-2/1114253/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.theprint.in/wp-content/uploads/2022/09/ANI-20220902182110.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition-2/1114253/?amp",
+      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition-2/1114253/?amp",
+      "publishedDateTime": "2022-09-02T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ThePrint",
+        "domain": "theprint.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-03-self-driving-tech-company-says-a-sale-to-apple-or-microsoft-is-possible.md",
+      "title": "Self-driving tech company says a sale to Apple or Microsoft is possible",
+      "excerpt": "Chris Urmson, who co-founded Aurora after running Google's self-driving car project, also outlined cost cuts and floated measures including taking the company private, spinning off or selling assets and pursuing a small capital raise in a memo labeled \"board discussion pre-read\" dated Aug.",
+      "sourceUrl": null,
+      "webUrl": "https://europe.autonews.com/suppliers/self-driving-tech-company-says-sale-apple-or-microsoft-possible",
+      "originalUrl": "https://europe.autonews.com/suppliers/self-driving-tech-company-says-sale-apple-or-microsoft-possible",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/AAurora-MAIN_i.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-02T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-03-how-artificial-intelligence-can-explain-its-decisions.md",
+      "title": "How artificial intelligence can explain its decisions",
+      "excerpt": "for example to be able to distinguish between certain therapy-relevant tumour subtypes,\" concludes Axel Mosig. Ruhr-University Bochum. \"How artificial intelligence can explain its decisions.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220902103300.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220902103300.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-02T11:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-03-the-pending-home-sales-and-durable-goods-reports-forbes-ai-newsletter-august-27th.md",
+      "title": "The Pending Home Sales And Durable Goods Reports: Forbes AI Newsletter - August 27th",
+      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/09/02/the-pending-home-sales-and-durable-goods-reports-forbes-ai-newsletteraugust-27th/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/09/02/the-pending-home-sales-and-durable-goods-reports-forbes-ai-newsletteraugust-27th/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/631235c2d3078549f8dbaac6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/09/02/the-pending-home-sales-and-durable-goods-reports-forbes-ai-newsletteraugust-27th/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/09/02/the-pending-home-sales-and-durable-goods-reports-forbes-ai-newsletteraugust-27th/amp/",
+      "publishedDateTime": "2022-09-02T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-09-02-flinders-university-is-testing-a-driverless-shuttle-bus-on-campus.md",
       "title": "Flinders University Is Testing a Driverless Shuttle Bus On Campus",
       "excerpt": "An autonomous shuttle bus is currently being tested at Flinders University and has now entered the second stage of its trial. Dubbed the “Flinders University Express Shuttle” (FLEX), the bus ...",
@@ -968,178 +1150,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-can-ai-help-solve-educations-big-data-problems.md",
-      "title": "Can AI help solve education's big data problems?",
-      "excerpt": "This Intel executive thinks AI applications will be essential to extracting future insights from the onslaught of data modern education creates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/education/computers-tech/intel-using-ai-to-solve-education-big-data-problems/",
-      "originalUrl": "https://www.zdnet.com/education/computers-tech/intel-using-ai-to-solve-education-big-data-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/7550c114ff55f32d60dc60534ecc1bf85ef71db1/2019/03/25/a6d4ddc6-f89a-4338-a513-9e211cde545e/computerscienceistock-962475952.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/education/computers-tech/intel-using-ai-to-solve-education-big-data-problems/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/education/computers-tech/intel-using-ai-to-solve-education-big-data-problems/",
-      "publishedDateTime": "2022-09-01T15:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-8-year-old-paralyzed-in-fourth-of-july-parade-shooting-may-have-some-cognitive-loss-family-says.md",
-      "title": "8-year-old paralyzed in Fourth of July parade shooting may have ‘some cognitive loss,’ family says",
-      "excerpt": "(CNN) – The family of the 8-year-old boy left paralyzed from the Fourth of July mass shooting in Highland Park, Illinois, said he may have “some cognitive loss.” Cooper Roberts is paralyzed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ky3.com/2022/09/01/8-year-old-paralyzed-fourth-july-parade-shooting-may-have-some-cognitive-loss-family-says/",
-      "originalUrl": "https://www.ky3.com/2022/09/01/8-year-old-paralyzed-fourth-july-parade-shooting-may-have-some-cognitive-loss-family-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-ky3-prod.cdn.arcpublishing.com/resizer/z-rZ__lANoTOxqKZsZCne3qjePE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/6XQW3YV7PNCGVJG3FNWGQWHIEE.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ky3.com/2022/09/01/8-year-old-paralyzed-fourth-july-parade-shooting-may-have-some-cognitive-loss-family-says/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-ky3-com.cdn.ampproject.org/c/s/www.ky3.com/2022/09/01/8-year-old-paralyzed-fourth-july-parade-shooting-may-have-some-cognitive-loss-family-says/?outputType=amp",
-      "publishedDateTime": "2022-09-01T15:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KY3",
-        "domain": "ky3.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-financial-language-and-the-evolution-of-speech-recognition-technology.md",
-      "title": "Financial language and the evolution of speech recognition technology",
-      "excerpt": "By Katy Wigdahl, CEO, Speechmatics Due to its long heritage and diverse spread of legacy technologies, it can be challenging to integrate new technological developments into the financial industry. But by not doing so,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/financial-language-and-the-evolution-of-speech-recognition-technology/",
-      "originalUrl": "https://www.globalbankingandfinance.com/financial-language-and-the-evolution-of-speech-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/09/iStock-861092546.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/financial-language-and-the-evolution-of-speech-recognition-technology/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/financial-language-and-the-evolution-of-speech-recognition-technology/",
-      "publishedDateTime": "2022-09-01T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-with-new-ai-chip-rules-us-takes-aim-at-a-critical-niche.md",
-      "title": "With new AI chip rules, U.S. takes aim at a critical niche",
-      "excerpt": "What the affected chips share is the ability to carry out calculations for artificial intelligence work quickly, at huge scale and with high precision. Less powerful AI chips can work quickly at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/with-new-ai-chip-rules-u.s.-takes-aim-at-a-critical-niche",
-      "originalUrl": "https://www.nasdaq.com/articles/with-new-ai-chip-rules-u.s.-takes-aim-at-a-critical-niche",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/with-new-ai-chip-rules-u.s.-takes-aim-at-a-critical-niche?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/with-new-ai-chip-rules-u.s.-takes-aim-at-a-critical-niche?amp",
-      "publishedDateTime": "2022-09-01T13:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

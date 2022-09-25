@@ -2,6 +2,127 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-06-08-video-sleep-depression-age-can-predict-future-cognitive-impairment.md",
+      "title": "VIDEO: Sleep, depression, age can predict future cognitive impairment",
+      "excerpt": "Keil S, et al. Longitudinal sleep instability contributes to cognitive decline and Alzheimer’s pathology: findings from the Seattle Longitudinal Study.",
+      "sourceUrl": null,
+      "webUrl": "https://www.healio.com/news/neurology/20220607/video-sleep-depression-age-can-predict-future-cognitive-impairment",
+      "originalUrl": "https://www.healio.com/news/neurology/20220607/video-sleep-depression-age-can-predict-future-cognitive-impairment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T13:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healio",
+        "domain": "healio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-cognitive-therapy-relaxation-training-both-beneficial-for-migraine.md",
+      "title": "Cognitive therapy, relaxation training both beneficial for migraine",
+      "excerpt": "For adults with migraine, migraine-specific, integrative cognitive behavioral therapy (miCBT) and relaxation training (RLX) are both beneficial, with no significant between-group difference seen ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-06-cognitive-therapy-beneficial-migraine.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-06-cognitive-therapy-beneficial-migraine.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/cognitive-therapy-rela.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-06-cognitive-therapy-beneficial-migraine.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-cognitive-therapy-beneficial-migraine.amp",
+      "publishedDateTime": "2022-06-07T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-why-has-microsoft-stock-been-falling-will-it-rebound.md",
+      "title": "Why Has Microsoft Stock Been Falling; Will It Rebound?",
+      "excerpt": "All up, the number of customers who trust our security solutions grew nearly 50% year-over-year to 785,000… In AI, we continue to see strong usage of Azure Machine Learning. The number of ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4516896-why-has-microsoft-stock-been-falling",
+      "originalUrl": "https://seekingalpha.com/article/4516896-why-has-microsoft-stock-been-falling",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/84216309/image_84216309.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-aicte-onboards-microsoft-aws-and-more-to-promote-technical-training-to-students-academics.md",
       "title": "AICTE Onboards Microsoft, AWS And More To Promote Technical Training To Students, Academics",
       "excerpt": "Marching towards making India the globe hub of future technologies, government bodies and private players have come together to provide necessary technical skill training to 1 crore youths in",
@@ -1170,136 +1291,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-microsoft-dev-box-your-development-workstation-on-azure.md",
-      "title": "Microsoft Dev Box: Your development workstation on Azure",
-      "excerpt": "Build 2022 had a developer focus, with new tools to make it easier to write code in a world of hybrid work. Dev Box promises to make your development environments easier to manage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3662291/microsoft-dev-box-your-development-workstation-on-azure.html",
-      "originalUrl": "https://www.infoworld.com/article/3662291/microsoft-dev-box-your-development-workstation-on-azure.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/04/15/10/it-as-a-product_boxes_glowing-box_binary_package-by-masterzphotois-getty-100798698-large-100924633-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3662291/microsoft-dev-box-your-development-workstation-on-azure.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3662291/microsoft-dev-box-your-development-workstation-on-azure.amp.html",
-      "publishedDateTime": "2022-06-01T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-azure-nc-a100-v4-vms-for-ai-now-generally-available.md",
-      "title": "Azure NC A100 v4 VMs for AI now generally available",
-      "excerpt": "AI is revolutionizing the world we live in—from the way we entertain ourselves, to the products and services that we consume, to the way we care for our bodies, and how we go about our daily work. At Microsoft, our NC series virtual machines (VMs) allow our customers and partners access to almost limitless",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-nc-a100-v4-vms-for-ai-now-generally-available/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-nc-a100-v4-vms-for-ai-now-generally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T01:00:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-the-new-marketing-is-a-cognitive-process.md",
-      "title": "The New Marketing Is a Cognitive Process",
-      "excerpt": "It’s not. Branding needs to forge new connections with consumers. Branding is all about understanding how consumers choose products and services. Cognitive science is all about understanding how our brain works and makes decisions. It encompasses ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=153181",
-      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=153181",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

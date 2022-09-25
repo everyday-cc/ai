@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/health/study-older-adults-greater-mental-wel
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/study-older-adults-greater-mental-well-being-cognitive-decline.amp"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Fox News
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Daily Multivitamin May Protect Against Cognitive Decline in Older Adults"
+    excerpt: "WEDNESDAY, Sept. 21, 2022 (HealthDay News) — A daily multivitamin may provide cognitive benefits for older adults, according to a study published online Sept. 14 in Alzheimer’s & Dementia."
+    publishedDateTime: 2022-09-22T00:24:00Z
+    webUrl: "https://www.kxly.com/i/daily-multivitamin-may-protect-against-cognitive-decline-in-older-adults/"
+    type: article
+    provider:
+      name: KXLY 4 News
+      domain: kxly.com
+    quality: 38
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.kxly.com/content/uploads/2022/09/x/d/ea7bce047c2d57c7a9ffa017ff47fa0a6d09ecac.jpg"
+        width: 600
+        height: 460
+        isCached: true
 
 secured: "rAWU3pPFMaFobZtN3HFwlgslt+DnkxReLuH1pLHleSv30jPnb+P9stz2Ul3GGCBGlb+988KK/kaVdCOGDDAvjb14Qylhc5J68z79uBQOhq2JJtSfhehMIfiwQC4iATCKK1W2k6Ban7VROaLEDXey1njl1FhEGsCAM/0y5evCMKtySWhkAhEBbfu0Zfyq4dUpqAxAzUPjcy1zug6/reir6DUJTsi7xg+wAYBat9Gdk8mM4JYQ3EEGy5jLfxiT6Bu0WMUdj/J0l4Dl+Xjrc0pg0rWwUVbcds3f1X8AImhI1bn08Vu5ABOAa4nxmNGN5nBUPq1aVh4oNUhA874F4o1EKlEQEZDsRQaoiDCg1QFqaJw=;Xlo6HY+m8yYj76li73ZVRw=="
 ---

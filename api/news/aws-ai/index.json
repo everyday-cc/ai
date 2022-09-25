@@ -1010,34 +1010,34 @@
     {
       "path": "_news/2022-09-14-online-proctor-sumadi-joins-aws-partner-network.md",
       "title": "Online Proctor Sumadi Joins AWS Partner Network",
-      "excerpt": "Sumadi’s status as an AWS Partner strengthens the business’ ability to deploy large-scale, simultaneous proctoring of online tests and assessments for clients around the world, including universities,",
+      "excerpt": "Sumadi's status as an AWS Partner strengthens the business' ability to deploy large-scale, simultaneous proctoring of online tests and assessments for clients around the world, including universities,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/4bd9f0ea4a14e9b8784948706e74fa52",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/4bd9f0ea4a14e9b8784948706e74fa52",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/online-proctor-sumadi-joins-aws-partner-network-1031741167",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/online-proctor-sumadi-joins-aws-partner-network-1031741167",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T13:16:00-07:00",
+      "publishedDateTime": "2022-09-13T13:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1287,6 +1287,50 @@
       ]
     },
     {
+      "path": "_news/2022-09-13-oracle-announces-mysql-heatwave-on-aws.md",
+      "title": "Oracle Announces MySQL HeatWave on AWS",
+      "excerpt": "AWS users can now run transaction processing, real-time analytics, and machine learning in one service with MySQLMySQL HeatWave delivers 7X",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/oracle-announces-mysql-heatwave-on-aws-1031738311",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/oracle-announces-mysql-heatwave-on-aws-1031738311",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T15:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-12-save-the-date-join-aws-at-nvidia-gtc-september-1922.md",
       "title": "Save the date: Join AWS at NVIDIA GTC, September 19–22",
       "excerpt": "Register free for NVIDIA GTC to learn from experts on how AI and the evolution of the 3D internet are profoundly impacting industries—and society as a whole. We have prepared several AWS sessions to give you guidance on how to use AWS services powered by NVIDIA technology to meet your goals. Amazon Elastic",
@@ -1369,49 +1413,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-11-all-about-aws-devops.md",
-      "title": "All About AWS DevOps..",
-      "excerpt": "AWS and DevOps are two significant technologies in the field of Cloud Computing, a popular IT domain. This blog talks about these two technologies and the benefits they bring when put together.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/blogposting/22883/all-about-aws-devops",
-      "originalUrl": "https://www.finextra.com/blogposting/22883/all-about-aws-devops",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/finextra-images/visible_pictures/0fca5d20-d19f-4a5d-835e-53f3224e94a3.png",
-          "width": 500,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

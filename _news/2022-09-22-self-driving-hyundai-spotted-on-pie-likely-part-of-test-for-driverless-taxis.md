@@ -9,7 +9,7 @@ ampWebUrl: "https://mustsharenews.com/self-driving-car-pie/amp/"
 cdnAmpWebUrl: "https://mustsharenews-com.cdn.ampproject.org/c/s/mustsharenews.com/self-driving-car-pie/amp/"
 type: article
 quality: 71
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Asia's first driverless CIMC-made boarding bridge comes into operation in China"
-    excerpt: "The first driverless boarding bridge in Asia has been officially put into operation at Chengdu Tianfu International Airport in southwest China, marking a milestone in the intelligent upgrade of Chinese civil aviation industry."
-    publishedDateTime: 2022-09-20T09:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/asia-s-first-driverless-cimc-made-boarding-bridge-comes-into-operation-in-china-1031752676"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-    images:
-      - url: "https://mma.prnewswire.com/media/1902841/image_1.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Cruise Plans to Expand Driverless Ride Service: Lower Prices Key to Driving Demand"
     excerpt: "Cruise plans to expand its driverless ride service to Austin and Phoenix before the end of the year, the company’s chief executive Kyle Vogt said last week. The San Francisco, California-headquartered self-driving car company is a largely autonomous subsidiary of General Motors."
     publishedDateTime: 2022-09-20T15:23:00Z

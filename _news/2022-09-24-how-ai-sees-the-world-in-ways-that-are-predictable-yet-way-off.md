@@ -77,6 +77,20 @@ related:
         width: 2489
         height: 1400
         isCached: true
+  - title: "AI Technology Is Changing Voice Recognition"
+    excerpt: "Ah, the unintended consequences of powerful voice recognition and AI technology! This anecdote highlights the power of speech recognition and AI technology, 60 years after Bell Labs’ Audrey device and 50 years after IBM showed off its Shoebox machine."
+    publishedDateTime: 2022-09-22T00:00:00Z
+    webUrl: "https://semiengineering.com/ai-technology-is-changing-voice-recognition/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 39
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/Siemens-Logo-Updated.png"
+        width: 559
+        height: 210
+        isCached: true
 
 secured: "IujTI3ru4DXRyOgj3L3aDH96UDexXjfG/tE4AYrFVKuHhpXhRmN+UAqb5w8t1CZ2F3mVPWOruY63msYmrbpyNbt2CJ35yu0YPSrLyc8gN6co9eneKpYB+2XEGViAs+4HSheDGZGNxMe39vRprvuvcruanVWXPHqYmNBAqAprV79yNdq20pxMhfVFmbRY1HvVVLqF5Hwyh0h9W9lWFRNMu6FUJXPuVRTGNItCV7b64TL5rRCTcWntK0nbyoyukwgjYCbFwmvP1AWEBLzXCnuTpl/ooY/BhbnZ6e92Ovfc7IlnvsprhrHY73o4XxJjPKLtFUFSEd7Rc1NkyZXSxQQNm0KbJt4Di5O6QkBuz56KaytxOUulJXpqAz46qajRIXyQln20eHSdPAP0VoyhXI0BviYTgpSETDqq5VEFOFjvbt6o698bw6onllh2c6NG0fXQe9P/wEJulFYgnkj1w38NQWLUCJcuDSlvEKsqwtCNNLLmyujxcf5YQdLkqZkDgmTHWxuBmtkyAcf4l0WF0zMh+w==;wYi+ODLIr8P6sF0pbcKN/A=="
 ---

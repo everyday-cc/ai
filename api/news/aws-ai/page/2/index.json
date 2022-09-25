@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-11-all-about-aws-devops.md",
+      "title": "All About AWS DevOps..",
+      "excerpt": "AWS and DevOps are two significant technologies in the field of Cloud Computing, a popular IT domain. This blog talks about these two technologies and the benefits they bring when put together.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/blogposting/22883/all-about-aws-devops",
+      "originalUrl": "https://www.finextra.com/blogposting/22883/all-about-aws-devops",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/finextra-images/visible_pictures/0fca5d20-d19f-4a5d-835e-53f3224e94a3.png",
+          "width": 500,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-10-10-hot-new-aws-services-for-microsoft-vmware-kubernetes.md",
       "title": "10 Hot New AWS Services For Microsoft, VMware, Kubernetes",
       "excerpt": "From new Microsoft Windows support and VMware Cloud on AWS for NetApp to AWS Outposts and Amazon Managed Blockchain, here’s 10 hot AWS launches in August and September that channel partners ...",
@@ -1363,59 +1406,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-process-mortgage-documents-with-intelligent-document-processing-using-amazon-textract-and-amazon-comprehend.md",
-      "title": "Process mortgage documents with intelligent document processing using Amazon Textract and Amazon Comprehend",
-      "excerpt": "Organizations in the lending and mortgage industry process thousands of documents on a daily basis. From a new mortgage application to mortgage refinance, these business processes involve hundreds of documents per application. There is limited automation available today to process and extract information",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/process-mortgage-documents-with-intelligent-document-processing-using-amazon-textract-and-amazon-comprehend/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/process-mortgage-documents-with-intelligent-document-processing-using-amazon-textract-and-amazon-comprehend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/10/Arch-Diag-Mortgage.jpg",
-          "width": 3684,
-          "height": 2484,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-26T09:28:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

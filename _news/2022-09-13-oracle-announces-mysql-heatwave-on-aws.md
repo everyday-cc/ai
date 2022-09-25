@@ -1,73 +1,25 @@
 ---
 category: news
 title: "Oracle Announces MySQL HeatWave on AWS"
-excerpt: "Oracle has announced that MySQL HeatWave is available on Amazon Web Services (AWS). MySQL HeatWave is the only service that combines OLTP, analytics, machine learning, and machine learning-based automation within a single MySQL database."
-publishedDateTime: 2022-09-13T13:50:00Z
-originalUrl: "https://www.itnewsafrica.com/2022/09/oracle-announces-mysql-heatwave-on-aws/"
-webUrl: "https://www.itnewsafrica.com/2022/09/oracle-announces-mysql-heatwave-on-aws/"
+excerpt: "AWS users can now run transaction processing, real-time analytics, and machine learning in one service with MySQLMySQL HeatWave delivers 7X"
+publishedDateTime: 2022-09-12T22:29:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/oracle-announces-mysql-heatwave-on-aws-1031738311"
+webUrl: "https://markets.businessinsider.com/news/stocks/oracle-announces-mysql-heatwave-on-aws-1031738311"
 type: article
-quality: 41
-heat: -1
-published: false
 
 provider:
-  name: IT News Africa
-  domain: itnewsafrica.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AWS AI
-  - AI
   - Microsoft AI
+  - AI
+  - AWS AI
 
-images:
-  - url: "https://www.itnewsafrica.com/wp-content/uploads/2022/05/Oracle-Building-696x452.jpg"
-    width: 696
-    height: 452
-    isCached: true
-
-related:
-  - title: "Oracle MySQL HeatWave comes to AWS"
-    excerpt: "Oracle’s MySQL database service supporting mixed analytical, transaction processing, and machine learning workloads is now available on Amazon Web Services."
-    publishedDateTime: 2022-09-13T19:24:00Z
-    webUrl: "https://www.infoworld.com/article/3673372/oracle-mysql-heatwave-comes-to-aws.html"
-    ampWebUrl: "https://www.infoworld.com/article/3673372/oracle-mysql-heatwave-comes-to-aws.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3673372/oracle-mysql-heatwave-comes-to-aws.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 91
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/11/apples_oranges_slices_mixture_puzzle_balance_opposites_fruit__savatore-gersace_flickr-100779885-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Oracle Brings HeatWave To AWS"
-    excerpt: "Senior Analyst, Servers, Matt Kimball, dives as MySQL HeatWave is a cloud database service that has enabled Oracle to create differentiation in the open-source MySQL market. MySQL HeatWave is available natively on AWS,"
-    publishedDateTime: 2022-09-16T00:44:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2022/09/15/oracle-brings-heatwave-to-aws/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2022/09/15/oracle-brings-heatwave-to-aws/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/09/15/oracle-brings-heatwave-to-aws/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6323c5bfd0627c92277a03a5/0x0.png?format=png&width=1200"
-        width: 936
-        height: 444
-        isCached: true
-  - title: "Oracle Announces MySQL HeatWave on AWS"
-    excerpt: "Oracle has announced that MySQL HeatWave is available on Amazon Web Services (AWS). MySQL HeatWave is the only service"
-    publishedDateTime: 2022-09-13T18:15:00Z
-    webUrl: "https://www.datanami.com/this-just-in/oracle-announces-mysql-heatwave-on-aws/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 21
-
-secured: "pU2dsNXlnwZY6SI5LspeaLl+AcsIh09pIU9ITzHIxUfeStvZUiMENocN3lm8315N822CmX/Uy8LoxFt13Y4klMGiqo6XDN7MdXIAIL70Jv4y3ZIb7xFR9uS2TOxr7ZSuz9lA3R4hsV6ARkZcEbv/cFkG2UOcWWcfKG5xV9pgOLJravZ2ax544j8J+hcHfxOrcseUfV2UiO8g/5RsIq/ES48v0J7KiTDNhItBU+Myfibnbq60pVf13DuvnibFy/ITKH4yNjiqN6noOjvPO9s1yu3PilcuOz0cD6HPmLG2cToJeKX+Hs3N2EXjkOXOgn8xrI+d85uO4qnbNls6sxSzOXKJuI0WIIJmtvCMvyPmbqfxfL0Gm21e0y+Q2lmYKre0C00y3ofcIJh1gdxocPfhHRoUHT+HjNeN7RXZ71jMs7wr4cVgDbO7I+7sIyMdQwWWC1fy+hcpbgvt1IQdCFli+KnVfKFaX8+udX6TUpAPcsmmspRpc3Z/9fqlxJeXjO9QS5zwWV+xET6aF1tWpLqmeg==;1U3hHrlqkM4u/r7XmX1w2Q=="
+secured: "kl1SgRCzYHL/hq9iDooDZ1qG1fVmGm8k7xu9+v4m1ZnMmfvATpKTsnKmDDIIeMveM0dBdJFQDTYbKSgCULraIqzkUge03GQw3hVPqiYKMb456YB6/n7t4g2gAk2JAFIukHpD27PG4BoVWuAuC3XL5eN2bJot9FZ+CqCER3B/upCgM4QLFTFk5Ueml0T2dxiBZaTsyakMCa87XV7svIQQmZvDBF9R0rVJ7uznyFTD1fG7o7ord5qperHFe4A2C5QuA/OB3wZugyVzpQitaEaqx0Xxeoqe2bY0Z8Y63BK/pBFu/rIHnzqmlMORfni61YDOkglXkPTotBkall7e6DIBRXY2CIf+M5oVVYrJ3ttC5vU=;ZaDJ84iXocnIkvKKuiYdNw=="
 ---
 
