@@ -1,20 +1,26 @@
 ---
 category: news
 title: "WeRide Launches the First Self-driving Robobus Test Ride in Saudi Arabia at 2022 Global AI Summit"
-excerpt: "WeRide launched the first driverless public Robotaxi service in the Middle East in Abu Dhabi, capital of the United Arab Emirates. The launch of the driverless robobus in Riyadh becomes another important milestone in WeRide's global footprint,"
-publishedDateTime: 2022-09-19T06:05:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/09/19/9675581.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/09/19/9675581.htm"
+excerpt: "RIYADH, Saudi Arabia, Sept. 19, 2022 /PRNewswire/ -- WeRide, a global leading company in autonomous driving, collaborated with the Saudi Company for Artificial Intelligence (SCAI) to launch of the ..."
+publishedDateTime: 2022-09-19T08:27:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-09/57086133-weride-launches-the-first-self-driving-robobus-test-ride-in-saudi-arabia-at-2022-global-ai-summit-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2022-09/57086133-weride-launches-the-first-self-driving-robobus-test-ride-in-saudi-arabia-at-2022-global-ai-summit-008.htm"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - AI in Autos
   - AI
 
-secured: "T9oXG/QUwJl0tHPyg6azTcwWXVj0ixhvnkpvaK4CDOGGc3iV6fziHCYbFYm/SZcMiJg6fKHbWDWB07px472eySdWeigkNGavWfjYrsuFA5bDrbk2h8hUbxpSnBn4HUDd3kXCtOxzxl3o4LDYiYEa6uli8Fn9AhvmtEhsAnSmAxMWHNXdemvzyoWm1wO6Jfbsm7VlTRmTxZkSp2axHjz6vNjdllMCYqHGZg1zs5JpVqdvtGQ5u3YFbesiL1/ALjiorNk5QUNwGwzB8QOcne4+nnly4FdFKSmK6siKOtWl5dBWccePZmtkuulr+zLCzo9PCV0QQKDgf+tQ9i/F+WW4h80bzT9Ty3H3Ib9xp762q7I=;wHYZtcWa/gB2u1VFrVsarA=="
+images:
+  - url: "https://mma.prnewswire.com/media/1901488/WechatIMG1611.jpg"
+    width: 400
+    height: 225
+    isCached: true
+
+secured: "vG323ZX9SKZJHT8LlQTUhtmQ7bhE1Z286oTM0g7PrdNVAMuRg0tykLpKX6beALruK2OIdqT2JPMfanBZ6ZGQ8mV17oieKDovkIK1TNbMC6gqHEtjO5+5KSNPAEo309kyf/iM7sbjNgINa1ys7I7IgFbBvU6z4k66eT0dVfPll3MuipLuSNRs79p6qVpb5qFzLtLC342xNpfpUFA+9i/bcSzIDnbtb7PdMZ55Xay3UYD3sJ9I5Yarm2wPOrJWGrjQfI/ukfQNsCFAbsqKynrhis+nmUUEfFx40CErJInl09OU9huTp2KMtDvKdslgBEi8480lu2GT46LvUjkTcHHvJaBEizSTmzEjTcD3XcIXJw0=;1f97xsjgKc7wDPRdhZwsuA=="
 ---
 

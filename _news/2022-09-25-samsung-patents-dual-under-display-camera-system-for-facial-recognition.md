@@ -119,6 +119,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Samsung patents new facial recognition technology featuring dual under-display camera system"
+    excerpt: "Seems like South Korean tech conglomerate Samsung has been working on a rather interesting system for facial recognition, one that involves two under-display cameras."
+    publishedDateTime: 2022-09-25T14:06:00Z
+    webUrl: "https://www.aninews.in/news/tech/mobile/samsung-patents-new-facial-recognition-technology-featuring-dual-under-display-camera-system20220925213648/"
+    type: article
+    provider:
+      name: Asian News International
+      domain: aninews.in
+    quality: 28
+    images:
+      - url: "https://aniportalimages.s3.amazonaws.com/media/details/ANI-20220925155827.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "rue2oqWcUOOn7KxFsuqYIcWb42qYjME7xqvNJJfcsfQHhm+5NA4IhNJ3PjPnT8pwhVZTnYqSSRfYsqizffMDvQo8v0qB3w5PYzU4INCQWWl40/zAeeFNXpbfmF5Pqf1+b6pklAWAT5x16LidLcAkxi7rs4F+qe4SvUTwKDpsBD6SMEHA3GDbleXzOLZGv6kiQqYZjGefKfNERceM5+SeAlitXw3BgYFfS4lXY0F03ogVNOTrLqlo1YdpbLwwOYg2JEN7tlWTXIsD3U/6qML5MjTdvtD2LGTXbBVIdz8/q6xZSV3X4EqlNTAKeoEDBG+Jc8WgWI1hf23B6ehboPSFER2cwzLCZOhvi7kf/DVbS0Zzyqc0A+zE4GTPwoyxZp83qiGu0G5ioWnz7QLPyDLpGO1N+tzsziVhEKcvf4bTVDp+VT+i9VseU2xc/g8VGMb8sebiVUJ4EMemPQ6soqnVlXx6dWRxsHaxYdAxyUU1K8MEAfQxKgjaTw62B9s44WnH3mlanNAGY5+E5nxbnaLMUA==;1goRTDNADMUaYt6u+FcDbA=="
 ---

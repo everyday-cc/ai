@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 596
         isCached: true
+  - title: "Why AI will never rule the world"
+    excerpt: "Despite fears that AI will one day take over the world, some experts contend that our existing AI systems are incapable of surpassing human intelligence"
+    publishedDateTime: 2022-09-25T15:00:00Z
+    webUrl: "https://www.digitaltrends.com/computing/why-ai-will-never-rule-the-world/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/why-ai-will-never-rule-the-world/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/why-ai-will-never-rule-the-world/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2022/09/Superintelligence.jpeg?p=1"
+        width: 1030
+        height: 687
+        isCached: true
   - title: "HOW ARTIFICIAL INTELLIGENCE BOOSTS THE DIGITAL MARKETING SPHERE"
     excerpt: "This article try to portray artificial intelligence's influence in digital marketing sphere. Importance of AI and the need to adopt it discussed."
     publishedDateTime: 2022-09-22T06:05:00Z

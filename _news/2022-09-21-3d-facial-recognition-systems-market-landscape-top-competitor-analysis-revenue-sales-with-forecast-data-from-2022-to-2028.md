@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-sy
 webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-systems-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-09-21"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "India Event-Based Vision Systems Market 2022 Analysis by Competition, Performance and Application till 2030"
+    excerpt: "Key Companies Covered in the India Event-Based Vision Systems Market Research are Prophesee, iniVation, Insightness, Qelzal, MindTrace, CelePixel, Sunia, Australian Institute of Technology, Samsung, Sony and other key market players."
+    publishedDateTime: 2022-09-22T10:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/india-event-based-vision-systems-market-2022-analysis-by-competition-performance-and-application-till-2030-2022-09-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Market Size Is Likely to Experience a Tremendous Growth by 2031 Covid-19 Analysis"
     excerpt: "A research report on Facial Recognition Market was added by SDKI in its database which discusses the product as well"
     publishedDateTime: 2022-09-21T13:58:00Z

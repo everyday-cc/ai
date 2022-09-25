@@ -236,6 +236,59 @@
       ]
     },
     {
+      "path": "_news/2022-09-22-palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute.md",
+      "title": "Palo Alto Networks 5G-Native Security Now Available on Microsoft Azure Private Multi-Access Edge Compute",
+      "excerpt": "Palo Alto Networks 5G-Native Security Now Available on Microsoft Azure Private Multi-Access Edge Compute Sep 22, 2022 (PRNewswire via COMTEX) -- PR",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute-2022-09-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute-2022-09-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-09-22-self-driving-hyundai-spotted-on-pie-likely-part-of-test-for-driverless-taxis.md",
       "title": "Self-Driving Hyundai Spotted On PIE, Likely Part Of Test For Driverless Taxis",
       "excerpt": "A motorist spotted a self-driving car along the PIE on 16 Sep. The driverless vehicle may be out for a driverless taxi test.",
@@ -867,6 +920,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-22-salesforce-deepens-partnership-with-aws.md",
+      "title": "Salesforce deepens partnership with AWS",
+      "excerpt": "Salesforce has expanded its partnership with Amazon Web Services (AWS) to enable customers to build custom artificial intelligence (AI) models using Amazon SageMaker, AWS’s machine learning (ML) modeling service,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955",
+      "originalUrl": "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2022/09/GettyImages-1040557296.jpg",
+          "width": 2000,
+          "height": 907,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955?amp=1",
+      "publishedDateTime": "2022-09-21T11:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-22-microsofts-october-12-surface-launch-whats-on-tap.md",
       "title": "Microsoft's October 12 Surface launch: What's on tap",
       "excerpt": "Surface launch event now has an official date but not a lot of other hints. Expectations are there could be a couple of Arm-based devices unveiled.",
@@ -1125,102 +1221,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-arm-continues-its-datacenter-drive-with-neoverse-2.md",
-      "title": "Arm Continues Its Datacenter Drive With Neoverse 2",
-      "excerpt": "Senior Analyst, Servers, Matt Kimball, dives in as ARM recently announced Neoverse 2 – an updated IP portfolio designed to achieve greater performance, efficiency, and security gains. Matt unpacks Neoverse 2 and what this means for enterprise IT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/09/21/arm-continues-its-datacenter-drive-with-neoverse-2/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/09/21/arm-continues-its-datacenter-drive-with-neoverse-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/632b24e9f617a31a3a44b11e/0x0.png?format=png&width=1200",
-          "width": 936,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/09/21/arm-continues-its-datacenter-drive-with-neoverse-2/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/09/21/arm-continues-its-datacenter-drive-with-neoverse-2/amp/",
-      "publishedDateTime": "2022-09-21T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-india-is-building-a-database-for-companies-to-train-ai-models-rajeev-chandrasekhar.md",
-      "title": "India is building a database for companies to train AI models: Rajeev Chandrasekhar",
-      "excerpt": "Chandrasekhar said it will be ‘one of the largest datasets programs where anonymized non-personal data will be available for the entire AI ecosystem’",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/india-is-building-a-database-for-companies-to-train-ai-models-rajeev-chandrasekhar-11663770780027.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/india-is-building-a-database-for-companies-to-train-ai-models-rajeev-chandrasekhar-11663770780027.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/09/21/600x338/PTI07-18-2022-000319B-0_1663771171118_1663771171118_1663771204375_1663771204375.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/india-is-building-a-database-for-companies-to-train-ai-models-rajeev-chandrasekhar/amp-11663770780027.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/india-is-building-a-database-for-companies-to-train-ai-models-rajeev-chandrasekhar/amp-11663770780027.html",
-      "publishedDateTime": "2022-09-21T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

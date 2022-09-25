@@ -95,22 +95,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Optimus Robot Is Coming At Tesla’s AI Day 2 – But It’ll Have To Do More Than Dancing To Silence Critics"
-    excerpt: "Tesla will hold its AI Day 2 on September 30 and in the leadup, Elon Musk has prioritized both Optimus and an updated smart summon feature. According to the tech billionaire, both projects have an end-of-month deadline."
-    publishedDateTime: 2022-09-20T23:37:00Z
-    webUrl: "https://www.carscoops.com/2022/09/elon-musk-is-getting-ready-to-unveil-optimus-robot-at-teslas-ai-day-2/"
-    ampWebUrl: "https://www.carscoops.com/2022/09/elon-musk-is-getting-ready-to-unveil-optimus-robot-at-teslas-ai-day-2/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/09/elon-musk-is-getting-ready-to-unveil-optimus-robot-at-teslas-ai-day-2/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 75
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/08/Tesla-Bot-5-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Tesla set to unveil humanoid robot Optimus"
     excerpt: "Tesla is preparing to unveil an AI-powered humanoid robot that it hopes ... the Autobots in the Transformers series. Production could start next year, Mr Musk said. Tesla faces scepticism that ..."
     publishedDateTime: 2022-09-21T13:03:00Z

@@ -2,19 +2,19 @@
 category: news
 title: "Tecnotree to Accelerate Digital Transition to the Cloud with Microsoft Azure Integration"
 excerpt: "Tecnotree's Digital Suite-5 for consumers and business monetization is built natively to run on Kubernetes and is aligned with the Microsoft Azure cloud to drive multi-tenant, multi-region transformations that allow enterprises to lower total-cost-of-ownership (TCO) by eliminating significant upfront investments."
-publishedDateTime: 2022-09-20T10:25:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration"
+publishedDateTime: 2022-09-20T12:50:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/09/20/9676461.htm"
+webUrl: "https://it.tmcnet.com/news/2022/09/20/9676461.htm"
 type: article
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "hKtZEbIMkGDJnSsXF0VvdF543sqL/M/J4Xjv9SDkzDKf6hqLz2kJX9hgHfuFHoedYMAXCFSuQEfHzyilkuwE9SuGkHV4O1UU+txOK2kDd+vW+Mt/70cDUH7PYbs006vNYU919hhXtb3v+gTToZnIKn5AkL1xh/PJbo7YJ+Fucc60fB1S24jFdM5LkdF56muNqqrgBpYxYnUTF2FoVkgIGyCUaksHQMq8ZytSXGvQ8Fja4/DZw5QBxoss/O/bnZgaDyaYDn+w9GZkwgFOqYen0CRhqUyXXrZIPJIgjdMrG7opF8PppRv3ULJ8IjR8g4w0d8fr/J52MUfhuR5mzDmdrSSXtZmn85z9cxAmuFrhMKQavpvKxkZ7bbQ+jBnHWD0D4slYY9EFsgE4TldIeViIttinYGYPWVvO/BJt8bSnxKxhppmXKDGLdq3X2S0rkAlfQXztPScvlZrWVX9Hxz4E8uT8NWCAL+QKGTkvcruXvZ+0BfiX2kWEez8kS/iOZf844PehyZ9RsPWKddt5kOiIfg==;ZCKoMbb2WoQg2UywkRmOPQ=="
+secured: "+2PXhZO8y1Dr1PS07VTxOy77canU8uuzWjkJssmcwlXYFSJo2i1MFSARGcrGxcqQ62iybBr6mX59k0iMX50vXDQ4qgosFiOwx/vYOOlqvQxcRIVKKeryaxvnwf5MrioHNICuftG25SG/z692xwLYNee6W1s6co7gd6HKWaSAcKh/UmNef6LCuXib8IjeMGTSOO38U579yVdhOWOcU8LnOECICKY7Fw5LLfbuPNzZERo+eghQWb38h+ViVMcybofwwPdMCLrrI9glQ7RNuQPuxm38338EkNjevwKE1XiMGQ6O/YXLN/cKj8OiIRP7jo4ZelQWvmvbLn+/E0jiPD6r4ynX8kkOkzy60A+7GctmnXLDUewYMtE5mcQ2XuQXZBygUSzMUUdNu2w/Y8DfB5ZIwDrMLdOn7gbqc1vH0nXYUQYMtRrhGaccCZgNoH4n5WLig3kdwmdEa+eedxQcRGcEq50QZ9la7kwfQQVOPIj1OUIaY8zfzx7jxP8arn9Wn/1lODXSYL+JW/UI0Vsl+ulqmA==;AzLtlmAfz4RO7mDt3Q9Y6Q=="
 ---
 

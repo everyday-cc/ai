@@ -35,6 +35,20 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Fintech Pioneer Stash Unveils Stash Core"
+    excerpt: "Stash, the investing and banking app with more than 2M customers and nearly $3B in assets under management, announced today that it successfully built and launched Stash Core, its new, proprietary infrastructure platform that underpins the service for Americans who bank like investors."
+    publishedDateTime: 2022-09-21T09:43:00Z
+    webUrl: "https://financialit.net/news/banking/fintech-pioneer-stash-unveils-stash-core"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/stash.png"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "What Will Be the Future of Fintech?"
     excerpt: "The Fintech industry has gained popularity throughout the past decade, accelerating the growth of many technological solutions, services, and applications. It’s clear that Fintech has already made a huge impact on many businesses by changing the way companies operate."
     publishedDateTime: 2022-09-21T11:57:00Z
