@@ -7,7 +7,7 @@ originalUrl: "https://www.01net.it/deep-instinct-appoints-former-palo-alto-ceo-a
 webUrl: "https://www.01net.it/deep-instinct-appoints-former-palo-alto-ceo-and-zscaler-coo-lane-bess-as-ceo/"
 type: article
 quality: 1
-heat: -1
+heat: 1
 published: false
 
 provider:
@@ -17,19 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Deep Instinct Appoints Former Palo Alto CEO and Zscaler COO Lane Bess as CEO"
-    excerpt: "BlackRock leads new $62.5M funding round as the company accelerates growth Deep Instinct, the first company to apply end-to-end deep learning to cybersecurity, today announced that Lane Bess, former P"
-    publishedDateTime: 2022-09-20T16:48:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/b28936139/deep-instinct-appoints-former-palo-alto-ceo-and-zscaler-coo-lane-bess-as-ceo"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28936139"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28936139"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 21
 
 secured: "Bvx9PiRGhRE5WIJ6kPOydVrjQauyOHN4C20uBPNit2rTlim9CxdD9PMlvbldBrlA67tynWXf3shPJA05DknyTquZ/oULWiHHW5S0wC+lWM65erBAZ1qdpJqn4LvRMxs+QgL7MiURL14pjAgnewT8Uef/3itnYdXnZ0cbya5qr45FC1BIQBa9sfjPkPRfmizhsb0a8mNrrmDGSoF7d0RjU4bAtPmobz5mlj7+NTLZO/TvxCoAxdMzhAEOsxIjTsRxtXCS+aGi8QEwt1peMc0zYmz8LcGgUUU5vV3AcCb3PUwKWjMu70+/KJHRFFeZAc0uKvjTGt8VYZpmo3IW7eRGUlH1QMUb3YYOBXPsVAQ71ShupdL3hfh2mnkYnV5FbbA3WBXdGNY7mULSFVC/NG7bqzkUL99nnmxhFWs/lan+FPvSbm7KoRT0i52/b5f2MplK0eGisDw0WsypdXbiDtbAEuR6aZ4TOev3cwtyJLT+RG6174Qs8IvYZQu5Vy4IsgM6Cbn9IJdc67392FTdWD0HSQ==;5ZpURH2V3giwzPyeNGEJHg=="
 ---

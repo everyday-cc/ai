@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ai-day-brings-optimus-rob
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/"
 type: article
 quality: 118
-heat: 208
+heat: 198
 published: true
 
 provider:
@@ -143,32 +143,21 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Elon Musk’s Tesla robot Optimus faces skeptics: ‘Investors are not excited’"
-    excerpt: "Musk’s Texas company now is floating ambitious plans to deploy thousands of humanoid robots, known as Tesla Bot or Optimus, within its factories, expanding eventually to millions around the world, according to job postings."
-    publishedDateTime: 2022-09-20T16:49:00Z
-    webUrl: "https://nypost.com/2022/09/20/elon-musk-faces-skeptics-as-tesla-to-unveil-optimus-robot/"
-    ampWebUrl: "https://nypost.com/2022/09/20/elon-musk-faces-skeptics-as-tesla-to-unveil-optimus-robot/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/09/20/elon-musk-faces-skeptics-as-tesla-to-unveil-optimus-robot/amp/"
+  - title: "Tesla set to unveil humanoid robot Optimus"
+    excerpt: "Tesla is preparing to unveil an AI-powered humanoid robot that it hopes ... the Autobots in the Transformers series. Production could start next year, Mr Musk said. Tesla faces scepticism that ..."
+    publishedDateTime: 2022-09-21T13:03:00Z
+    webUrl: "https://www.independent.co.uk/tech/tesla-robot-optimus-ai-bot-b2171845.html"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 74
+      name: The Independent
+      domain: independent.co.uk
+    quality: 56
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/09/newspress-collage-23932306-1663692328461.jpg?quality=75&strip=all&1663679371&w=1024"
-        width: 1024
-        height: 682
+      - url: "https://static.independent.co.uk/2022/06/03/09/tesla%20robot%20optimus%20AI.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "FOCUS-Elon Musk faces skeptics as Tesla gets ready to unveil 'Optimus' robot"
-    excerpt: "Tesla TSLA.O Chief Executive Elon Musk blamed overreliance on factory robots for sending the electric carmaker to \"production hell\" four years ago, saying humans were better at certain jobs. My, how times have changed."
-    publishedDateTime: 2022-09-20T15:57:00Z
-    webUrl: "https://www.nasdaq.com/articles/focus-elon-musk-faces-skeptics-as-tesla-gets-ready-to-unveil-optimus-robot-0"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 63
 
-secured: "0VYR7JsJ7Y0ACacsTYbwMbQQRIFZ2AlUw+WwfS2GkENf3l2NkGWNLlKGKb8eRIAML+0COmJ7iyZz75W65WHixiGhqIdlx0OOb4An6OYkOCTPCoOSuNrPaCnF5WW4JOtMqnmbB37UYekUBEXS1SO+q6XG0ED2hrKdux91qYQevUwhlDqiq1cNTmOM+PiSFQwgI2KolS1fQHPxZaEfpseA5m7sZPsH9lkTbWPmPPcJx21oDmu+g2RVAcgxu5X/oty7P0ErpUbEMI0XQv2qWvIndKVchqVOdiAdjI3fAayOJ/rEUn2V4Z8gyAF0kFGvNWLAXoSkt++4qZuSKAkF/P+/9/YJcOFW5o9sFwQkwZI72LA=;zyANMMGMIIiWrka8p5nSxw=="
+secured: "CgGQFZULmJmYexaGcNzMWKCuEnwfASxCg2gchvS/Htis5V6l9dLiLefV5Nl9JXVVISIeP5oygBJMtcWFB9HNg1VltelxOoTxzH773F0wa2ZUWit93whzah4+80UajMQeNbYbL70y0kEtabvVu27k+dY9YVBNa5svB/ObQgB2XAFVAydnEPqnQDMuQzqpC7DoQu+GDtjy25mM7cWa8HHoTIonY26bwxSzpBPJ8hrkti34Qj4UfAIBU0gxsp0QQvgWN+rc/q8Cp8JlmonC4oENeDveFrgnKpXQpy0R9jKQl7Vi/PJtzS9UC7nfG7+wXTCVL2PdTurZWncDM/CFiZOi9vFPJDTU1UfU7MibxrVQctE5AuTvo8waV2J1mT7Ma0dRK0J3IkduvW6PSrv0Ae58GPZk5enUO9SF+RP6/uL8d4+tvMQJgcz9WO8o+wKaJr30wtYsDbAtaa5V73DiOp5PBOTG9iDRe4GHGY+EsMq4sfyZ2Ly67BYm3cKH1UwYTEkutae3A9E6GC9gvbA/IXVd0g==;zr0ZvKY9MPtQDd3WJfKB6w=="
 ---
 

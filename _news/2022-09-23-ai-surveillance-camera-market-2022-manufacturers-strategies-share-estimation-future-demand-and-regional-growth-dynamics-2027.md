@@ -42,24 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Ai In Agriculture Market is projected to reach USD 6.5 billion in 2029, registering a 23.1% CAGR | Size, Share, Report & Forecast"
-    excerpt: "Ai In Agriculture Market The Ai In Agriculture Market was valued around USD 1.2 billion in 2021, and is expected"
-    publishedDateTime: 2022-09-23T11:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-agriculture-market-is-projected-to-reach-usd-65-billion-in-2029-registering-a-231-cagr-size-share-report-forecast-2022-09-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
-  - title: "Global Artificial Neural Network Market to Reach $258.45 Million by 2027 - ResearchAndMarkets.com"
-    excerpt: "The Global Artificial Neural Network Market is estimated to be worth USD 171.88 million in 2022, and is expected to reach USD 258.45 million by 2027, growing at a CAGR of 8.5%. The Global Artificial Neural Network Market is segmented based on Component,"
-    publishedDateTime: 2022-09-20T16:27:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-global-artificial-neural-network-market-to-reach-25845-million-by-2027-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 6
 
 secured: "J9WY4C+KTrr7WMMWqsroJblNMpydEXHYTcE0cQz47MzxOnEShE5RtwJ8l2uNdbjVfYdATBN5YOWNtaQs7KLOgeXZ+0xxGvj2I3Vd1sj6wmL8e9trDuuYLysEk2jJRy1lSEUfIS6myFMQtUW+g6w0iHClrWaTl9KbXy31/3yAsvAqkcQwT3Bam1NRTVzm3ACiF8ptv/GKmVpXt7iyEJQx304ZRSaVHsque+eEMaf+nLGQYYbnurg7B+l3GDo8gMKzNcE/2DNsIDNhq6e0KC5gj497ztdJwp7DfkXqInEPl1XV2A5qr4lN7u4yuyMXYCy65cbhN2oR5KKn0jw1pIEI3zbWY3IzU+d0VHY35jthM68=;+9SluEyFyb3B5BcVEKzz9g=="
 ---

@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fintech Pioneer Stash Unveils Stash Core"
+    excerpt: "Stash, the investing and banking app with more than 2M customers and nearly $3B in assets under management, announced today that it successfully built and launched Stash Core, its new, proprietary infrastructure platform that underpins the service for Americans who bank like investors."
+    publishedDateTime: 2022-09-21T09:43:00Z
+    webUrl: "https://financialit.net/news/banking/fintech-pioneer-stash-unveils-stash-core"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/stash.png"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "3WIhsVLWSx28jyk5Nyzx5mX496WfrHV/FX6s5DKOfmi2xCTDnhEF8fr01xgU7Js7ebjbg1+nL8lz5JUjJaXh0Tdf7vLDqM1AYDcEsZXPC/QJzVCMvD/Mp3J9BxAae0t0n/Cpfh+CKgwoHla+22h6TNnO9EgPU4/dD0EbOocnsufqeL6m8ktXkSabQmVVsxqJkzygaTZt8eAN57OtMVgw84fuPrREGbh108VQ88g7qMKA45ClQAORjgdaV92/BSLrulPVlTE9k5m8y7sPt8JEMLPSCiusSewG/FJoSetKVGjaFs3FBXHcIVP59nUJ7i8wI0JZDvJajsiYeap/6vaUcFEUbxBGpcrjTsmqjMNXyyc=;FMxEY18paNSmS2YCV/caIA=="
 ---

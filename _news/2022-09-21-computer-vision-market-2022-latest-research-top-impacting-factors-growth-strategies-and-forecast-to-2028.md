@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Gaming Market Size | SWOT Analysis, Growth Factors, Top Key Players, Latest Trends, Industry Share and Forecast to 2028"
-    excerpt: "Global Artificial Intelligence in Gaming Market The global Artificial Intelligence in Gaming market size is projected to reach USD million by 2028, from USD million in 2021, at a CAGR of % during 2022-2028."
-    publishedDateTime: 2022-09-21T11:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-gaming-market-size-swot-analysis-growth-factors-top-key-players-latest-trends-industry-share-and-forecast-to-2028-2022-09-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 9
 
 secured: "1GX2bxns/ZPv7M27x0TFTAW84Nw+JXdkgYYUiMe59gbeizR2YEcLzYJwu3hhKmi3KmiLfeVRPZIsZLO60H3w5MqN9GrjstDhLQksB8VMbhkHAVmQUsz9sVYHHlo8i8q94LywEuQUlbiMeqayzpp3q7u26CtNORkPRIyzZFKSwqD+C5lgK2edTl7yOJHPf7Yzgzm2Y8i6sOYtQcueNRE3uH6ls5D4nLQSKVe4i+B8rHd2gazhP4+SyrlJOYiVenw6oox5qH9/+FIoganljb1cLsxv0mZQ1HVBkZJnNsBJS4iA3qyQLAP2+6R2Fbo33I9bPqOhh+r0CUPmKDaYpazJF55JA8DCZ40voV2AJXL0CS8=;1Lgl7LqT7fn1zL3XFZ9z7w=="
 ---

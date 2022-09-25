@@ -42,17 +42,26 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Aetina Corporation: Aetina Announces Upcoming Edge AI Computers Powered by New NVIDIA Jetson Orin Nano for Use in Computer Vision Applications"
-    excerpt: "Aetina today introduced its upcoming NVIDIA Jetson-based edge AI computers powered by Jetson Orin Nano system-on-modules (SOM) that have"
-    publishedDateTime: 2022-09-20T17:03:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-09/57103605-aetina-corporation-aetina-announces-upcoming-edge-ai-computers-powered-by-new-nvidia-jetson-orin-nano-for-use-in-computer-vision-applications-008.htm"
+  - title: "NVIDIA Jetson Orin Nano Sets New Standard for Entry-Level Edge AI and Robotics With 80x Performance Leap"
+    excerpt: "NVIDIA today expanded the NVIDIA® Jetson™ lineup with the launch of new Jetson Orin Nano™ system-on-modules that deliver up to 80x the performance over the prior generation, setting a new standard for entry-level edge AI and robotics."
+    publishedDateTime: 2022-09-20T17:44:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/09/20/9677357.htm"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 18
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 36
+  - title: "Aetina Announces Upcoming Edge AI Computers Powered by New NVIDIA Jetson Orin Nano for Use in Computer Vision Applications"
+    excerpt: "Aetina today introduced its upcoming NVIDIA® Jetson-based edge AI computers powered by Jetson Orin™ Nano system-on-modules (SOM) that have set a new baseline for entry-level edge AI and robotics, as announced during NVIDIA GTC."
+    publishedDateTime: 2022-09-20T18:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-aetina-announces-upcoming-edge-ai-computers-powered-new-/2022/09/20/9677437.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 28
     images:
-      - url: "https://mma.prnewswire.com/media/1899741/Aetina_Announces_Upcoming_Edge_AI_Computers_Powered_New_NVIDIA_Jetson.jpg"
+      - url: "https://mma.prnewswire.com/media/1899916/Aetina_Announces_Upcoming_Edge_AI_Computers_Powered_New_NVIDIA_Jetson.jpg"
         width: 400
         height: 209
         isCached: true

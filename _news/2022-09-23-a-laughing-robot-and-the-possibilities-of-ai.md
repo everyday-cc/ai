@@ -7,7 +7,7 @@ originalUrl: "https://www.theguardian.com/technology/2022/sep/23/a-laughing-robo
 webUrl: "https://www.theguardian.com/technology/2022/sep/23/a-laughing-robot-and-the-possibilities-of-ai"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -21,22 +21,6 @@ provider:
 topics:
   - AI
   - AI in Robotics
-
-related:
-  - title: "Theories of AI liability: It's still about the human element"
-    excerpt: "William A. Tanenbaum, Kiyong Song and Linda A. Malek of Moses Singer explore theories of contractual and tort theories applicable to AI systems as well as their current limitations."
-    publishedDateTime: 2022-09-20T15:53:00Z
-    webUrl: "https://www.reuters.com/legal/litigation/theories-ai-liability-its-still-about-human-element-2022-09-20/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/hT1G3G4YSIrcaWmtvbrwwG_-HNo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5P3BQ4T3WRGRLOYFJDYPA7JHD4.JPG"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "R5W9bjZ886a5qY+TEJd9V+kup1EXGnsoFEiuWo47kzONP+WwPfiC/jSmq+DOTnn/il+jMDdAyfwAbhaFEB6ZE/HXFNXKZUPEC0k8zcPXgbLGps2DrBwGmXOr4ilpFy+sNioIANKHT9ksEoKoJhpypwqqEmYx537cA9shv3oeySDotU8aaeb9SVeDERXKavY+gAq8ptvdjLJXvQX4zEaD2OF8B22uklk0g/du7p5tG8PFmjb+utAxlAkyDnR0eV82Cig3/j2QmzUcAhvNh0pJFE1ZXDSivhGwBcnt3vIv4nRHWmOigZ6N35/D0urVSZsNcTzRgJbI7od29kesboQE1A7fdWL1FXA4PQM+DsjFleG35pNIi+LR5TosQNJZxj2HihTW2Qz57P7L5r7Fvfx3tZRYoBULtrU7nYeIzCMvGf1VreGjX51wcXk8cpBeUi4BWA06ydc9/dlF/4JBFvm45dRMysDnNxt13kkf9d9z4DoZQmFnCFKgJOmxCOiKi/hzOGB2nb8oduFohIiO6/XB4Q==;mLYJqU/BgqgZ+25rnubwXw=="
 ---

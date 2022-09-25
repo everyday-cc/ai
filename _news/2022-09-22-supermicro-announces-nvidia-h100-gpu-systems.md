@@ -101,20 +101,15 @@ related:
         width: 1500
         height: 800
         isCached: true
-  - title: "Nvidia rises as chip giant unveils new high-end RTX, GeForce graphics cards at GTC event"
-    excerpt: "Nvidia (NVDA) shares rose on Tuesday as the semiconductor giant unveiled a new high-end RTX GPU and GeForce GPUs at its GTC conference.The Jensen Huang led-Nvidia (NVDA) unveiled"
-    publishedDateTime: 2022-09-20T16:52:00Z
-    webUrl: "https://seekingalpha.com/news/3884440-nvidia-rises-as-chip-giant-unveils-new-high-end-rtx-geforce-graphics-cards-at-gtc-event"
+  - title: "ASUS Servers Announce AI Developments at NVIDIA GTC"
+    excerpt: "ASUS, the leading IT company in server systems, server motherboards and workstations, today announced its presence at NVIDIA® GTC"
+    publishedDateTime: 2022-09-21T13:12:00Z
+    webUrl: "https://enterprisetalk.com/news/asus-servers-announce-ai-developments-at-nvidia-gtc/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 30
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1399238913/image_1399238913.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
-        isCached: true
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 19
   - title: "NVIDIA Announces OVX Computing Systems - the Graphics and Simulation Foundation for the Metaverse - Powered by Ada Lovelace GPU"
     excerpt: "NVIDIA today announced the second generation of NVIDIA OVX™, powered by the NVIDIA Ada Lovelace GPU architecture and enhanced networking technology, to deliver groundbreaking real-time graphics, AI and digital twin simulation capabilities."
     publishedDateTime: 2022-09-20T17:55:00Z

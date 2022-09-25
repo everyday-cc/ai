@@ -43,17 +43,6 @@ related:
         width: 1500
         height: 750
         isCached: true
-  - title: "Cruise Plans to Expand Driverless Ride Service: Lower Prices Key to Driving Demand"
-    excerpt: "Cruise plans to expand its driverless ride service to Austin and Phoenix before the end of the year, the company’s chief executive Kyle Vogt said last week. The San Francisco, California-headquartered self-driving car company is a largely autonomous subsidiary of General Motors."
-    publishedDateTime: 2022-09-20T15:23:00Z
-    webUrl: "https://www.nasdaq.com/articles/cruise-plans-to-expand-driverless-ride-service%3A-lower-prices-key-to-driving-demand"
-    ampWebUrl: "https://www.nasdaq.com/articles/cruise-plans-to-expand-driverless-ride-service:-lower-prices-key-to-driving-demand?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cruise-plans-to-expand-driverless-ride-service:-lower-prices-key-to-driving-demand?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 63
   - title: "GM Is Doubling Down on Self-Driving Cars With LiDAR"
     excerpt: "General Motors is making self-driving cars. It's investing heavily in LiDAR - the tech that could become a $15 billion industry within 10 years."
     publishedDateTime: 2022-09-22T20:30:00Z

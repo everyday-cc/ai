@@ -24,6 +24,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Autos
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1158965842.jpg?w=1200&strip=all"

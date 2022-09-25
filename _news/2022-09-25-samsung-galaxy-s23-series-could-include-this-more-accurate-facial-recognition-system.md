@@ -89,6 +89,20 @@ related:
         width: 1220
         height: 526
         isCached: true
+  - title: "Samsung Working On Dual Under-Display Camera Tech For Facial Recognition"
+    excerpt: "South Korean tech giant Samsung is likely working on a camera system for facial recognition that involves two under-display"
+    publishedDateTime: 2022-09-25T09:57:00Z
+    webUrl: "https://menafn.com/1104920303/Samsung-Working-On-Dual-Under-Display-Camera-Tech-For-Facial-Recognition"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 38
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?10642"
+        width: 363
+        height: 249
+        isCached: true
 
 secured: "XE51QXCvGGSg3WYaYCDixEzC/6ZbGwom2a0ZvCHGzB5qIDm/WYtRBiUt8+YLIO1o2rlSJV1RCwPFtDxJOfgonRVPgBXS1YJNrrMemnInn/ZzP3xhRj1+GSj3UDdixrGuLPQAJciHisePHAQ6L1L0Xt8GaP2rIbndyHhmhAgEih22LDL4oQIiie46UnwIzy28ltpl9TgiNNPQyuPGglnYA873cz3IGdBm5QlTzoY5hk1iuu1YAwNHEobqBE9FDDztOjX744pu4eHWByrTDRSOLSFnTO9GeSnL2pQIu+kpTbIeGbwnj1AUcVRtQszqLP8lE4sVFkywH5GF7vQZ7fMkjcAEpTwr52licC65dT1uEKF3f1DYg8WuK9rGQEjI9zJ9Zaq+/CUkHAS1znA67nJTeO14hB/pf6E+Lh77Y7dPc/7Im2wQrtRKcBHnkTlAHIsw9/80+QlnMXU5FPly9ieXjgds9//d8JPX6ud5sM7Iuw6kOidqmKaE+hlHpBjK/CdZvY/dxOjmgPE3lVL4RM3eXg==;Mjg6QNEJqDsvnUNeVO5mdQ=="
 ---

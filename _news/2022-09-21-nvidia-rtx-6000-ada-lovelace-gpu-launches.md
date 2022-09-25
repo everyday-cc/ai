@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "NVIDIA's New Ada Lovelace RTX GPU Arrives for Designers and Creators"
-    excerpt: "RTX 6000 GPU Provides 2-4x Performance Improvement in Enterprise Workflows;Global Manufacturers to Ship Starting in Q4 SANTA CLARA, Calif., Sept. (GLOBE NEWSWIRE) -- GTC—Opening a new era of neural gr"
-    publishedDateTime: 2022-09-20T15:21:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28934515/nvidias-new-ada-lovelace-rtx-gpu-arrives-for-designers-and-creators"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28934515"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28934515"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg"
-        width: 700
-        height: 300
-        isCached: true
   - title: "Nvidia CEO proclaims 'Moore's law is dead' over RTX 40-series GPU pricing"
     excerpt: "After the recent reveal of Nvidia's 40-series graphics cards (opens in new tab), you're probably one of many scrunching your nose up over the pricing. Well, the company's CEO, Jensen Huang has some words of wisdom to share with you and perhaps ease your wallet into opening just that little bit wider."
     publishedDateTime: 2022-09-23T15:23:00Z
@@ -64,20 +48,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/p8q3ue5UA9LEtBVyNxgyWn-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Nvidia officially announce RTX 4090, 4080 GPU at GTC 2022"
-    excerpt: "Nvidia unveiled the first lineup in the RTX 40-series of GPUs. It follows after months of speculation after a series of leaks."
-    publishedDateTime: 2022-09-20T15:37:00Z
-    webUrl: "https://www.dexerto.com/tech/nvidia-rtx-gtc-announcement-1935476/"
-    type: article
-    provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 39
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2022/09/20/rtx-4090-hero.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "ZOTAC GAMING Announces the GeForce RTX 40 Series PowerED BY the next generation GPU ARCHITECTURE"
     excerpt: "ZOTAC Technology Limited, a global manufacturer of innovation, ushers in a new era of PC gaming with the unveiling of its next-generation ZOTAC GAMING graphics card line-up built on the breakthrough NVIDIA Ada Lovelace architecture and the 3rd generation of RTX."
@@ -93,15 +63,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "PNY GeForce RTX® 4090, RTX® 4080 16GB, and RTX® 4080 12GB; PNY Introduces Next Evolution NVIDIA GeForce RTX 40 Series GPU's"
-    excerpt: "PNY announced today the expansion of its NVIDIA GeForce RTX® XLR8 Gaming family of GPUs with the addition of the new VERTO™ GeForce RTX 4090, GeForce RTX 4080 16GB and GeForce RTX 4080 12GB. Powered by the new ultra-efficient NVIDIA Ada Lovelace architecture,"
-    publishedDateTime: 2022-09-20T16:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/pny-geforce-rtx-4090-rtx-4080-16gb-and-rtx-4080-12gb-pny-introduces-next-evolution-nvidia-geforce-rtx-40-series-gpu-s-1031754414"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
   - title: "Nvidia RTX 4080 12GB GPU performance falls behind the 16GB model"
     excerpt: "The Nvidia RTX 4080 12GB can't push out as many frames per second as the 16GB model, due to some spec differences between the two GeForce GPUs"
     publishedDateTime: 2022-09-21T13:47:00Z

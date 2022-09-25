@@ -43,6 +43,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "President Vladimir Putin fails to deliver major speech on Russia's invasion of Ukraine without explanation"
+    excerpt: "Vladimir Putin has failed to deliver his first national address on the war in Ukraine in a major sign Russia is reeling over its losses on the battlefield."
+    publishedDateTime: 2022-09-21T03:51:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/president-vladimir-putin-fails-to-deliver-major-speech-on-russias-invasion-of-ukraine-without-explanation/news-story/7ed590620e3d8a8888dd0fc38c09d109"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/president-vladimir-putin-fails-to-deliver-major-speech-on-russias-invasion-of-ukraine-without-explanation/news-story/7ed590620e3d8a8888dd0fc38c09d109?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/president-vladimir-putin-fails-to-deliver-major-speech-on-russias-invasion-of-ukraine-without-explanation/news-story/7ed590620e3d8a8888dd0fc38c09d109?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 41
+    images:
+      - url: "https://content.api.news/v3/images/bin/fd8a47426029f98497a63ff795545ec9"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Zki22hk8snZtcGuv3VEEFYLNXGpCEUARBfbU2eYL4h/4V7vpoF37I/TeP2SLmutYiSbY0CCWhZyfThl1P0BIUquRRILrAJzQFXAXa1a516kfHPG+0/eDPh6UsnXDLVg/b9WeBa7qNCwBHoHm6EHbC+xoUjMKMkl0GuYKTjqctCntMH2AE8tGhXDCTlQ8B5HZJg+wTGNplSTNVSE1NZb3wEOU5YgZFJjdeibo3oUmtFhZONZkwFmUpUcV9pSpMbuVTskvEAYN2bgmbYPAETXOzEEUcmiSQFJx3oMKCvxmFery0/wC3nJZb7HHRFQryClr3p76DpKEZ0+l8WqgL50grmDfkOdZoHXLIwQD15oCpmM2NwCBJJQPVn+4e5X+VYFSBI1C6y5mYdtulCOnv0fWaTp+av18Ao2Af3FoesGcSEh1dyO9tM4M8zFWikF02gkI9GEKPR2vlQUOUOfO/j86fakVE7zA287KALXO7dVVMrC83dwYTYwZKJVZFFjKxnfq4aCHJVjFYWijK3QtGXhurQ==;5NO33106aKIwZsU9wMvjCw=="
 ---

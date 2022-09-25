@@ -34,15 +34,45 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Nvidia Unveils New Gaming Chip With AI Features, Taps TSMC for Manufacturing"
-    excerpt: "Nvidia Unveils New Gaming Chip With AI Features, Taps TSMC for Manufacturing By Stephen Nellis (Reuters) - Nvidia Corp on Tuesday announced new flagship chips for video gamers that use artificial ..."
-    publishedDateTime: 2022-09-20T15:38:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2022-09-20/nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing"
+  - title: "Nvidia unveils gaming chip with AI features, taps TSMC for manufacturing"
+    excerpt: "Nvidia announced chips for video gamers that use artificial intelligence (AI) to enhance graphics. Nvidia has also selected Taiwan Semiconductor Manufacturing (TSMC) to make the processors."
+    publishedDateTime: 2022-09-20T22:36:00Z
+    webUrl: "https://www.telecomlead.com/telecom-chips/nvidia-unveils-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing-106652"
+    ampWebUrl: "https://www.telecomlead.com/telecom-chips/nvidia-unveils-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing-106652?amp=1"
+    cdnAmpWebUrl: "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/telecom-chips/nvidia-unveils-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing-106652?amp=1"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 61
+      name: Telecom Lead
+      domain: telecomlead.com
+    quality: 53
+  - title: "Nvidia debuts new AI tools for biomolecular research and text processing"
+    excerpt: "The first product, BioNeMo, is a framework for developing natural language processing models that can assist scientists with biology and chemistry research. Alongside the framework, Nvidia today also debuted two cloud-based artificial intelligence services."
+    publishedDateTime: 2022-09-20T17:34:00Z
+    webUrl: "https://siliconangle.com/2022/09/20/nvidia-debuts-new-ai-tools-biomolecular-research-text-processing/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 42
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/nvidia.png"
+        width: 718
+        height: 400
+        isCached: true
+  - title: "NVIDIA RTX Remix Features Hefty AI-Assisted Modding Tool"
+    excerpt: "NVIDIA RTX Remix takes modding to a whole new level and allows players to take beautiful in-game screenshots with the press of a hotkey."
+    publishedDateTime: 2022-09-20T20:31:00Z
+    webUrl: "https://techraptor.net/gaming/news/nvidia-rtx-remix-features-hefty-ai-assisted-modding-tool"
+    type: article
+    provider:
+      name: TechRaptor
+      domain: techraptor.net
+    quality: 39
+    images:
+      - url: "https://techraptor.net/sites/default/files/styles/image_header/public/2022-09/Screenshot%20%28432%29.jpg?itok=ee9WuLaA"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "zLejqNjhCcxtzR42WmWO9N3wtTAQv/+ZSgtT7r+JpPm28+CkmhgQ3HlSBEfr+AtZYJDXqgtMDpEb1SdyVkFoAfCHNxApzH+tWs4wUTSIvJIPiIJOTkKFL/8G0ZvfdoT3Ea6u+laXhdrb4B8rrMFz0kPpTVjh0l3XktHPHrLkO1OfcUXMfiZWbzaDVcVHeff98MYtu3u8YICQbZvITrFT70MdusFPq4Fn6O7zcV4aS8oxhdf2ye1wluGTMATQuFvnt7wc9nPw/u7hhfqfrSRQy2IfImiJmk1lDjWa6Um8tO0osUVfDx6MK24NguJro+V7wblzwZM5rG7WVpgA1Ga6Ux+gh+AMHZjlxBFjln7abUM=;gRV9WpCoiSbU/OF1c0mAUA=="
 ---

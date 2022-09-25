@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-r
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-robot-next-week-17419356/amp/"
 type: article
 quality: 76
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://th-i.thgim.com/public/incoming/dv0aw0/article65917069.ece/alternates/LANDSCAPE_615/2022-09-20T181456Z_1847150550_RC25LW9ZUUN6_RTRMADP_3_PG-E-FIRE-TESLA.JPG"
         width: 615
         height: 383
+        isCached: true
+  - title: "Tesla is set to unveil its ‘Optimus’ humanoid robot this month. What should we expect?"
+    excerpt: "The prototype is expected to be revealed on September 30 at the company’s AI Day event ... 73 metres tall and the production is expected to start next year. Musk previously said it was important ..."
+    publishedDateTime: 2022-09-21T18:15:00Z
+    webUrl: "https://www.euronews.com/next/2022/09/21/tesla-is-set-to-unveil-its-optimus-humanoid-robot-at-ai-day-what-should-we-expect"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 48
+    images:
+      - url: "https://static.euronews.com/articles/stories/07/03/27/72/1000x563_cmsv2_370e8b44-fec3-5bae-a1b2-2849058dbcee-7032772.jpg"
+        width: 1000
+        height: 563
         isCached: true
   - title: "NHTSA Orders Tesla to Recall 1.1 million Vehicles"
     excerpt: "The National Highway Traffic Safety Administration ordered Tesla to recall 1.1 million vehicles across the four model lines due to a problem with the automatic reversal system for the vehicles’ windows."

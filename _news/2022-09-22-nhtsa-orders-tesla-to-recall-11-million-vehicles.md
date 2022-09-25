@@ -58,6 +58,20 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "Tesla is set to unveil its ‘Optimus’ humanoid robot this month. What should we expect?"
+    excerpt: "The prototype is expected to be revealed on September 30 at the company’s AI Day event ... 73 metres tall and the production is expected to start next year. Musk previously said it was important ..."
+    publishedDateTime: 2022-09-21T18:15:00Z
+    webUrl: "https://www.euronews.com/next/2022/09/21/tesla-is-set-to-unveil-its-optimus-humanoid-robot-at-ai-day-what-should-we-expect"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 48
+    images:
+      - url: "https://static.euronews.com/articles/stories/07/03/27/72/1000x563_cmsv2_370e8b44-fec3-5bae-a1b2-2849058dbcee-7032772.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Investors Are Not Psyched for Elon Musk’s ‘Optimus’ Humanoid Robot"
     excerpt: "Creating Elon Musk's army of worker droids is “infinitely harder than self-driving cars” but he's trying to anyway"
     publishedDateTime: 2022-09-20T21:22:00Z

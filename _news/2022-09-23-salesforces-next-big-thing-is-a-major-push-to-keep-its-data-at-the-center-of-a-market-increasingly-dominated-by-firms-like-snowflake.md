@@ -182,15 +182,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 19
-  - title: "Dreamforce 2022: Salesforce Partner Atrium Doubling Business"
-    excerpt: "Salesforce, Tableau, MuleSoft and Snowflake partner Atrium CEO Chris Heineken talks growth ahead of Dreamforce 2022."
-    publishedDateTime: 2022-09-20T16:26:00Z
-    webUrl: "https://www.crn.com/news/cloud/dreamforce-2022-salesforce-partner-atrium-doubling-business"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 4
   - title: "Dreamforce 2022: the biggest Salesforce and Slack news"
     excerpt: "Salesforce’s Genie customer data platform, a preview of a canvas feature in Slack and an open beta of the rebuilt, more modular Slack are among the biggest announcements at Salesforce’s Dreamforce 2022 conference."
     publishedDateTime: 2022-09-20T20:39:00Z

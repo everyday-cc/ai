@@ -138,31 +138,20 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Elon Musk’s Tesla robot Optimus faces skeptics: ‘Investors are not excited’"
-    excerpt: "Musk’s Texas company now is floating ambitious plans to deploy thousands of humanoid robots, known as Tesla Bot or Optimus, within its factories, expanding eventually to millions around the world, according to job postings."
-    publishedDateTime: 2022-09-20T16:49:00Z
-    webUrl: "https://nypost.com/2022/09/20/elon-musk-faces-skeptics-as-tesla-to-unveil-optimus-robot/"
-    ampWebUrl: "https://nypost.com/2022/09/20/elon-musk-faces-skeptics-as-tesla-to-unveil-optimus-robot/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/09/20/elon-musk-faces-skeptics-as-tesla-to-unveil-optimus-robot/amp/"
+  - title: "Tesla set to unveil humanoid robot Optimus"
+    excerpt: "Tesla is preparing to unveil an AI-powered humanoid robot that it hopes ... the Autobots in the Transformers series. Production could start next year, Mr Musk said. Tesla faces scepticism that ..."
+    publishedDateTime: 2022-09-21T13:03:00Z
+    webUrl: "https://www.independent.co.uk/tech/tesla-robot-optimus-ai-bot-b2171845.html"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 74
+      name: The Independent
+      domain: independent.co.uk
+    quality: 56
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/09/newspress-collage-23932306-1663692328461.jpg?quality=75&strip=all&1663679371&w=1024"
-        width: 1024
-        height: 682
+      - url: "https://static.independent.co.uk/2022/06/03/09/tesla%20robot%20optimus%20AI.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "FOCUS-Elon Musk faces skeptics as Tesla gets ready to unveil 'Optimus' robot"
-    excerpt: "Tesla TSLA.O Chief Executive Elon Musk blamed overreliance on factory robots for sending the electric carmaker to \"production hell\" four years ago, saying humans were better at certain jobs. My, how times have changed."
-    publishedDateTime: 2022-09-20T15:57:00Z
-    webUrl: "https://www.nasdaq.com/articles/focus-elon-musk-faces-skeptics-as-tesla-gets-ready-to-unveil-optimus-robot-0"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 63
 
 secured: "b5m3CqQb++kv5jLB0xUEDhATMeeekBn6cJo3pwSN9qhTgIebm0dCKrrqawSsH9wy+XJkXbHGAVtdokX/81VO6ZuiEw3gB8dnAFYY0qHl6NCJE22pFfsSJqUqxFYEqgUmORkUiAcLNOclQAF68/zVj3eKQja5cbJ/Zh5HFOEOEh4agkcM8ynijZUj+VhHbd7Eii4jWMNqApUqeNbwQLBAugxI0nBok1djfHr2wHICHMRSmgYFluULjuqhEKeU6yWy6AwwEUTAd0kZ2QNt+ie0qa8bok3W2bVFjs8qodlXnzuquwQolcS45J8psfFto1EVwqaku2b8BsBYb0qIpnQJ2lRx+oZ+HYuAsxUfUiD7EC/GpGoyggATfWxQptP0x+FMugJPjDgAmhqFRKlbr7i1yClVoe/zr7Y45p9lDOZMlqizLFakLaZw2VRRQrnz7WA+nyAy+4kNiXS8400TaKy65D1tSTbMAk4LYdxWHJQ00Wxk3YIdKxu0cbIpKvs9Wf4CZCXJbRtkbgH8xd58XzrOTQ==;aIho+Ok816TB24brkPIJCQ=="
 ---

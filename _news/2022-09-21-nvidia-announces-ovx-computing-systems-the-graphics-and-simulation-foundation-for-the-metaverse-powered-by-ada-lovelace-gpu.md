@@ -109,20 +109,15 @@ related:
         width: 690
         height: 460
         isCached: true
-  - title: "Nvidia rises as chip giant unveils new high-end RTX, GeForce graphics cards at GTC event"
-    excerpt: "Nvidia (NVDA) shares rose on Tuesday as the semiconductor giant unveiled a new high-end RTX GPU and GeForce GPUs at its GTC conference.The Jensen Huang led-Nvidia (NVDA) unveiled"
-    publishedDateTime: 2022-09-20T16:52:00Z
-    webUrl: "https://seekingalpha.com/news/3884440-nvidia-rises-as-chip-giant-unveils-new-high-end-rtx-geforce-graphics-cards-at-gtc-event"
+  - title: "ASUS Servers Announce AI Developments at NVIDIA GTC"
+    excerpt: "ASUS, the leading IT company in server systems, server motherboards and workstations, today announced its presence at NVIDIA® GTC"
+    publishedDateTime: 2022-09-21T13:12:00Z
+    webUrl: "https://enterprisetalk.com/news/asus-servers-announce-ai-developments-at-nvidia-gtc/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 30
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1399238913/image_1399238913.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
-        isCached: true
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 19
 
 secured: "63iej9BQes9/8DDC6xZ975h2Cvh02lLPv9puCubmj4hdglwQYK/3xpIHDiuVqLTDRdshmDFtXDBGdgh+nwBJMK9DoTTBRInrRPp+yw5XqONnnP9LBD83JIjQql0WI2KDfoCSc3SDh0qqoVhwLCmftZh8YtTA4dr/wfHANB2K22PVf5/pD5PbBZslZfe+rBnKbBhdkmgqi4OhnH9IxYWHIjEXh5Z8TNMCyb5whjviEuGDth1vqxrALUNPtP7h55Wh96pwe1bhhHFFYbnvGdOUMxyf0xKTqCT+DgwvMdhDQ3RGOuN7Nuuk5DaVrBg2wPoGfFphxWJAYNsBIph2IKPvNp/WCTB7Pghj+WnbsKBN3VU=;Qd1tGUT+adV0VeuuIJ8KDg=="
 ---

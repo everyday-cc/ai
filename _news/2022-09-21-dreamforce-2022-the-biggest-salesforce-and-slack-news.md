@@ -186,15 +186,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 19
-  - title: "Dreamforce 2022: Salesforce Partner Atrium Doubling Business"
-    excerpt: "Salesforce, Tableau, MuleSoft and Snowflake partner Atrium CEO Chris Heineken talks growth ahead of Dreamforce 2022."
-    publishedDateTime: 2022-09-20T16:26:00Z
-    webUrl: "https://www.crn.com/news/cloud/dreamforce-2022-salesforce-partner-atrium-doubling-business"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 4
 
 secured: "U/iBMtoR2AJwDQV3XfZJkClWkDpIntL16Wb67Xf8cufr7i3V1wH5A9j3qRd4+8HKGASclGspGX2UhJ5qKvpHTJwdj800sAGEpHgMbb59xaUdb7r6m6uXRkWtQfCqTMRTCtj81S3L6M2BE3/npG0YCeU+IQWx2Gu//pJkXuXYhJM0a2uU7OAPfa38sbDZH+xh0yxH4ngKjVvLARWwpcYCe0VonpetA1yYzhY4Vn1rAFidwaopjEhlylMU9+tnhpMTaecRHmfaqtgcKV6r0jaE4J1pcYq6ncQRLKL0EK3vR+u40ToMqxLw1FLazBIT7MnYhRs3xGAMBBSUQ2HqpGU96i6yQAcp407FlNHS6awDdzshEPwF3ejVuHe+6JfE4dPz+MiDrxqlNqu0RupTdICrggVgj5vDa8f4x6u198oTITU8yh4dxBqHdyZy4I97wqnZQm6Q/uYgovMMa2hnb7c66iHOb2AyE8CbMxZTzZo013duIyAhwKXWmFrChmPjpuZAiCtuq/BFHmuSK7kJ1pbRVA==;Xy4HsQS+OnDcI9GiXdOsNQ=="
 ---

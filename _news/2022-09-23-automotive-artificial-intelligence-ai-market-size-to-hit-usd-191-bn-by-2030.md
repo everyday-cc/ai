@@ -1,36 +1,29 @@
 ---
 category: news
-title: "Automotive Artificial Intelligence (AI) Market Size to Hit USD 19.1 Bn by 2030"
-excerpt: "The global automotive artificial intelligence (AI) market size was valued at USD 2.9 billion in 2021. The development in the auto business is supposed to drive the automotive"
-publishedDateTime: 2022-09-22T21:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030"
-ampWebUrl: "https://www.benzinga.com/amp/content/28977012"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28977012"
+title: "Automotive Artificial Intelligence (AI) Market Size To Hit USD 19.1 Bn By 2030"
+excerpt: "The global automotive artificial intelligence (AI) market size was valued at USD 2.9 billion in 2021. The development in the auto business is supposed to drive the automotive artificial intelligence market."
+publishedDateTime: 2022-09-22T21:37:00Z
+originalUrl: "https://menafn.com/1104911136/Automotive-Artificial-Intelligence-AI-Market-Size-To-Hit-USD-191-Bn-By-2030"
+webUrl: "https://menafn.com/1104911136/Automotive-Artificial-Intelligence-AI-Market-Size-To-Hit-USD-191-Bn-By-2030"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "Artificial Intelligence (AI) In Retail Market to Hit $40.74 Billion by 2030: Grand View Research, Inc."
-    excerpt: "The global AI in retail market size is anticipated to reach USD 40.74 billion by 2030, expanding at a CAGR of 23.9% from 2022 to 2030, according to a new study by Grand View Research, Inc. The rising prominence of advanced technologies,"
-    publishedDateTime: 2022-09-20T16:43:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/20/9677284.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?10642"
+    width: 363
+    height: 249
+    isCached: true
 
-secured: "ku3QNCnCAwCiQ+e5YXYlVe5HwybwLiAxAKZFe9qt6upFQgS0QzxUG/LlQEpGQZWAyvomejY0HzJ2Y3vhQ8xvbcqQDINbZSW3OyuprSw2rxVFeqoCuBoxWUvny9wyyh72P5KeauOCSqVD/bdmAmSYEItqUtdW3l6q+evQfELCzYdfr5K/62ug1GSUjvLEN31Nn0VjWnro+tDEEcgCvIjXMQ7oPeDWCzcJ/M/pi9u7f200K0nUqQmSpHYWLH9gnwgX5rEwhXCcvAoKuCjz4xt6HMoXetK02b7R8MGBVoMztze1k/ebAOjySpq4yamDPNg9Fm2QW0yRZWadB3QAtxGuliAtL8V9r1BsCZ7LR6pk0PY=;dlaJGAj0i+LdOko+VDSDdw=="
+secured: "Y4ex8SKC9Ok7LaxKfSUCTkRtsk9t9WMSZITecZqRhDe72VGg3hONpxrwXRZ6RhwWjpBdUKZ9bF4Agx/RunX/yHh3GWjbHntrpZVVKEuFHtnYTlXunImNdBKJFJHPnEMX7tJihUf/ckH2Y5U6IyeZn2zkeZRjmIMN3Nrcsc+cRZY0hY5BStLRLXMmZ+p+EnhPwyz5PtKsnuJqZSdDw1nIlfx8i00HBBtJ7zPmRw1PNs9T/2BLxohchZmBrJJ6OryIRbRHaoJA0LZx8lEc604IxWjntlagrKcxcMvw0bbsGvalk9v98e3RKTNEjqjIFm1txQfuc04a0odUIjFhF08Rt1xaqF608/85fe+0OyIg/8w=;Bfxn0/P0Pvpdumfsc6ob0g=="
 ---
 

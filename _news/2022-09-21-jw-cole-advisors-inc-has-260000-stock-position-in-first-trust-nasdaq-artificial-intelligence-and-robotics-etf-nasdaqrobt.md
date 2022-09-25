@@ -19,6 +19,15 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Shares Bought by Private Advisor Group LLC"
+    excerpt: "Private Advisor Group LLC grew its holdings in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) by 132.2% in the second quarter, according to its most recent Form 13F filing with the Securities & Exchange Commission."
+    publishedDateTime: 2022-09-25T09:32:00Z
+    webUrl: "https://www.defenseworld.net/2022/09/25/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-bought-by-private-advisor-group-llc.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 26
   - title: "Kestra Private Wealth Services LLC Trims Holdings in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT)"
     excerpt: "Kestra Private Wealth Services LLC lowered its stake in shares of First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) by 15.4% in the first quarter, according to its most recent 13F filing with the SEC."
     publishedDateTime: 2022-09-22T08:12:00Z
