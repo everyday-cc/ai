@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-22T14:04:00Z
 originalUrl: "https://www.digitaljournal.com/pr/ai-chip-market-expected-to-reach-194-90-billion-by-2030-size-share-trends-analysis-2"
 webUrl: "https://www.digitaljournal.com/pr/ai-chip-market-expected-to-reach-194-90-billion-by-2030-size-share-trends-analysis-2"
 type: article
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: Digital Journal

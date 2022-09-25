@@ -27,6 +27,17 @@ images:
     height: 303
     isCached: true
 
+related:
+  - title: "Cognitive Services Market is Expected to Exhibit a CAGR of 37.93% During the Forecast Period of 2022-2029"
+    excerpt: "Data Bridge Market Research analyses that the cognitive services market will exhibit a CAGR of 37.93% for the forecast period of 2022-2029. Data Bridge Market Research report on cognitive services ..."
+    publishedDateTime: 2022-09-23T09:11:00Z
+    webUrl: "https://www.digitaljournal.com/pr/cognitive-services-market-is-expected-to-exhibit-a-cagr-of-37-93-during-the-forecast-period-of-2022-2029"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 2
+
 secured: "5+vCj7iFecDUoeXREUeq8JFJfpr8f8xSlz1PnN5YWqzoQSQW+ou0Z1t8kJ+4a2GRY7CSdbmzCl9OOglLQzZ0zIaqtKw0I1wDlnnQ1Wq5i2Guc6DN2V8sXWjHi3mTptZk45u9YDjFIHiVAMPeLF750y7/haVCBVZo+ttxjJ41mPHRZ2Aq9RF7QHj5Z5oB5dw7skgSfuzrSKx9cFZVDIi2WkHkFcaEHtfr+9OJ1EqmpngFlRtmLfFzKiMGjKmQbUHfF/TjS7rGH0O99Wa7Pkdsq1Rnmrln1EaWpQYyvJdMywNTNc+z3GRy8C2yMG4AYCRk8p3DBWKtMeqilKs0u2Qirsvq9oz/1ZCBLB+fDqPdWsA=;OVTYOum6jw924VDXem4zEw=="
 ---
 

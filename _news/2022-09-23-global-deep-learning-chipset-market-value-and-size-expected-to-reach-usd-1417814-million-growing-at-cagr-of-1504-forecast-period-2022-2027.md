@@ -55,6 +55,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 9
+  - title: "Speech and Voice Recognition Market Size to Grow at 22.23% CAGR During the Forecast Period of 2022-2027 | 105 Report Pages"
+    excerpt: "The global Speech and Voice Recognition market size is expected to expand at a CAGR of 22.23% during the forecast"
+    publishedDateTime: 2022-09-21T05:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-to-grow-at-2223-cagr-during-the-forecast-period-of-2022-2027-105-report-pages-2022-09-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 8
 
 secured: "CE7oina4R8NEYRiHHx7HMKVrK74GH5l+6DdH1/2kVCNMZt4OLQLZ7J2gB1ezHMngOWiL5V5jpkHCqteELuKkp1JRqzC6N1wNfuAQ63mWxzoSnFmNE/5nJRkJTppQWCbNTuKKEjRMsp++ZMnzhgHYUNn2r6HGBMyAlQg4vJ3Sn24p+5kqDAf1hcZ65uQQrGUQtcMgBLrhAa/3L4xxrxIgyrUaASLEwRBezr+rmgOO8QMy/DOCKx9bisRfBYaBnxIEGn8UYwk/9dJeWDLFa9GdRiU4KpEGnkkTocxBi4pnPYqDkPV8UrTyivFzLthxXmxw/whuNcJoESr64CVtobfRblNzB5qAXoA/SZzeJjDThdk=;hepMxAcSKKysuGi7EryDXQ=="
 ---

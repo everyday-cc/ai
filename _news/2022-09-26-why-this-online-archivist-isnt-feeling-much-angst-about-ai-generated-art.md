@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-25T19:40:00Z
 originalUrl: "https://www.pcmag.com/news/why-this-online-archivist-isnt-feeling-much-angst-about-ai-generated-art"
 webUrl: "https://www.pcmag.com/news/why-this-online-archivist-isnt-feeling-much-angst-about-ai-generated-art"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: PC Magazine

@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Online Proctor Sumadi Joins AWS Partner Network"
-excerpt: "Sumadi’s status as an AWS Partner strengthens the business’ ability to deploy large-scale, simultaneous proctoring of online tests and assessments for clients around the world, including universities,"
-publishedDateTime: 2022-09-13T20:16:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/4bd9f0ea4a14e9b8784948706e74fa52"
-webUrl: "https://apnews.com/press-release/pr-newswire/4bd9f0ea4a14e9b8784948706e74fa52"
+excerpt: "Sumadi's status as an AWS Partner strengthens the business' ability to deploy large-scale, simultaneous proctoring of online tests and assessments for clients around the world, including universities,"
+publishedDateTime: 2022-09-13T20:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/online-proctor-sumadi-joins-aws-partner-network-1031741167"
+webUrl: "https://markets.businessinsider.com/news/stocks/online-proctor-sumadi-joins-aws-partner-network-1031741167"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "4cTJnn5Neq/oiUTWSwkoMCZjS3EWGm7qTigWqWyjQq5cG7sECAi4XpyXCzqpQaO8c9KTuXm0m7OHP0xLlGJ/5A4AYTQNIqbhChDz87Omj6XDy3m2miH48wO5mz8NXZghS6Y7l5lccDLkPKz8im0r1Mlbtm3K8HtxKE56a/OhXX+cERc/X2ACsM4Yp8/3cnwuTBEtMqwmLwqBf0P0dYwM0LkXM9n4ICAgDcRtKobVPJwoQM0XbPKoTPMOlgOq+YTYEx0lFF88tr386cv5eZQoo/AmEqp3ADK7i0uDrTsx3Cyb0Ty6HFZZkXddR1MqLrC72HnwDLs9ZXLE1XoZw4fHxHFDlIIMGqTyLdFwekV8HjM=;CCbk9o/swbEQffvvAsVZgw=="
+secured: "DOL+1Bd7s/E+REC0grRyt8AMWJWWxCm2fOZqVKgRx7/AMk8t8csGq+qr3q/yaKcQNG3wIHQX4ke5gg4kHa8KicXmAwEEa8MkCqlcHICyJogROkyplnfke8c8VoB223Zdo9Yi1Ly6py8H4lrYjr+KHKN/cs6sIvxRjeqx0CS2Y1MZdmOornx8A960Osguglx0LrzPnRAj2FEysL4fjawa3nUBMngM6VYCoxeqZXW1T3P02kvUdwGjgcSsSO9hqANGUUQUqxm8MF/m6mW7QuAaS80mxi2jHTblKn2Vcjj3aeifSf7tO7jvuiMvKgFLlWuIyrjLhVAyEHGzyFrd8LggIuoUtilvagyANZcvNDHrNu8=;GMprjkKJgs/jSt6WZCxCng=="
 ---
 

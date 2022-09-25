@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-market-
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2022-size-share-industry-development-scenario-and-forecast-2030-2022-09-21"
 type: article
 quality: 62
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 9
+  - title: "Speech and Voice Recognition Market Size to Grow at 22.23% CAGR During the Forecast Period of 2022-2027 | 105 Report Pages"
+    excerpt: "The global Speech and Voice Recognition market size is expected to expand at a CAGR of 22.23% during the forecast"
+    publishedDateTime: 2022-09-21T05:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-to-grow-at-2223-cagr-during-the-forecast-period-of-2022-2027-105-report-pages-2022-09-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 8
 
 secured: "74bu3BVwwJ19RQ8cxjJF32WEci7Vl//Nk4azQuWSdlZ+lsvHDfxATfRRk6an2tUINiSOGIESTBjeWprrsFKbrNCbYthVrLr8CLP7wQBSaTjcPxTIf1NT1MTIJLHB87jaDZ8EjaI/lmFu/LguPFcOmuUZKjnr1hJ5i3cB6iu9CJkT/P3jwjIN538tftYcpbchc1R7BvQzh5e7KaTy8T7T++RV1rPnHSkI3J3OtR2VcAx1PbLFSvPAscSvUyysgo4FKM0SQFIXmIqhUBGZcUhQjyAJwu8+RhsziVyrrRrPiKbHVJ1dTCtDIXPnEsEYJkKDaC9JRH5TpU2gZ1wRyb3KdIbygDhmBjScd2Xsw8V97UA=;x2KHupkiOzYJyfWIyrlBFA=="
 ---

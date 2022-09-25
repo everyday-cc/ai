@@ -1,28 +1,24 @@
 ---
 category: news
-title: "Automotive Artificial Intelligence (AI) Market Size To Hit USD 19.1 Bn By 2030"
-excerpt: "The global automotive artificial intelligence (AI) market size was valued at USD 2.9 billion in 2021. The development in the auto business is supposed to drive the automotive artificial intelligence market."
-publishedDateTime: 2022-09-22T21:37:00Z
-originalUrl: "https://menafn.com/1104911136/Automotive-Artificial-Intelligence-AI-Market-Size-To-Hit-USD-191-Bn-By-2030"
-webUrl: "https://menafn.com/1104911136/Automotive-Artificial-Intelligence-AI-Market-Size-To-Hit-USD-191-Bn-By-2030"
+title: "Automotive Artificial Intelligence (AI) Market Size to Hit USD 19.1 Bn by 2030"
+excerpt: "The global automotive artificial intelligence (AI) market size was valued at USD 2.9 billion in 2021. The development in the auto business is supposed to drive the automotive"
+publishedDateTime: 2022-09-22T21:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030"
+webUrl: "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030"
+ampWebUrl: "https://www.benzinga.com/amp/content/28977012"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28977012"
 type: article
 quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?980152"
-    width: 418
-    height: 250
-    isCached: true
 
 related:
   - title: "Automotive Artificial Intelligence (AI) Market Worth $15.9 Billion by 2027"
@@ -33,13 +29,13 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 82
+    quality: 84
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
 
-secured: "xEUthuVRyvNTS1CtNqzQAjb40d+OyyocfatpFKG13AHuGU1nPCsTaePujNCgZ5QKglzoZx5VEhn2vTIwodogpT3zjxu0pCTnq+i4nn50AIF+Z/lZIe1TuFQ0BnwOIB8E/zWohQ5RfpYNPzuzZQfIQ84D+WWs6uwRcHcz+2Yhv5SHH7Bc8gp/JW8N7gM1Y0f1dMPF7nUrRPoPO4e053sJxaW/Fbzpb2Dver885bGHu5UXbXoCb0zNmhUEQTyLMk5cWUJqaaVaOtvCZh7eRHVr0OaY7psC71TchHGGmv8Emup74Hp5A1zOnSEUa2un/2K6oCHtaqKxASQ7mJkSTHLAsnYDUGkISx4TNFJt1v03fMY=;dOTyKXk7WVL+W11NTUlI7g=="
+secured: "CqVjRtW8Nzy7o+88EK8O/1GRKWOAjrTRtrPJAUIIb5oKD701KI6vGw/MGHCAFfAcEtqKAxKJn7vudM94RAIlRH6PZejefatwfSdKjB11rusMpBjwkJgD1Ky5pfoeQ+8seWUmY+glHXvRRIt1PpZ6gNalF1+qV9XEXKa27kHFIiW29Q1pE4QifTD24gzupcUvDpkkVoKLtzTeM18dx3oLkmVxwtRjlBMFZDfYIQR0t9kEKVMwmIuU20y5hI3NNgPHM7ZIDRG4iVsO4z8vIO0IuPx4ZJodvlHaVKFSFLLGPiUQEKdtFKYcvX4h7/eQnSWaxyt77yTh9QCrWa5ytf67Wa19kfWn78AmoCgEWfMe9uw=;mB+0kThRfSS2qUAxIP6LaA=="
 ---
 

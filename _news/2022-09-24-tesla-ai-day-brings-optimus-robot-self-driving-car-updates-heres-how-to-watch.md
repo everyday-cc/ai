@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ai-day-brings-optimus-rob
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/"
 type: article
 quality: 118
-heat: 168
+heat: 158
 published: true
 
 provider:
@@ -80,22 +80,6 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-AI-Day-2022-invite.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Elon Musk faces sceptics as Tesla gets ready to unveil 'Optimus' robot"
-    excerpt: "Elon Musk is planning to deploy thousands of humanoid robots in Tesla factory. However, there is scepticism as about his 'Optimus' robot"
-    publishedDateTime: 2022-09-21T03:19:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/elon-musk-faces-sceptics-as-tesla-gets-ready-to-unveil-optimus-robot-11663725763133.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/elon-musk-faces-sceptics-as-tesla-gets-ready-to-unveil-optimus-robot/amp-11663725763133.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/elon-musk-faces-sceptics-as-tesla-gets-ready-to-unveil-optimus-robot/amp-11663725763133.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 76
-    images:
-      - url: "https://images.livemint.com/img/2022/09/21/600x338/Tesla_Elon_Musk_1663728702949_1663728703184_1663728703184.jpg"
-        width: 600
-        height: 337
         isCached: true
   - title: "Tesla set to unveil humanoid robot Optimus"
     excerpt: "Tesla is preparing to unveil an AI-powered humanoid robot that it hopes ... the Autobots in the Transformers series. Production could start next year, Mr Musk said. Tesla faces scepticism that ..."

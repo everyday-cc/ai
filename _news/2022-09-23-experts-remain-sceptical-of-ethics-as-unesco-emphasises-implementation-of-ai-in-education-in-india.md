@@ -60,20 +60,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "UNESCO calls for regulations to use AI in education"
-    excerpt: "The artificial intelligence (AI) market in India has the potential to touch $7.8 billion by 2025 at a compound annual growth rate (CAGR) of 20.2%."
-    publishedDateTime: 2022-09-21T02:16:00Z
-    webUrl: "https://www.fortuneindia.com/macro/unesco-calls-for-regulations-to-use-ai-in-education/109738"
-    type: article
-    provider:
-      name: Fortune India
-      domain: fortuneindia.com
-    quality: 56
-    images:
-      - url: "https://gumlet.assettype.com/fortuneindia/2019-12/6a1fb6dd-7fd2-4c75-a581-e23ccc91ac17/M1R63G.jpg?w=700"
-        width: 700
-        height: 472
-        isCached: true
 
 secured: "2ygg/fkuX7/LfOPGK5jO3XnnvgPjEZ9uteYoKOVjjOe9ndpA9Wp+GGzr1AhBdG1isTZFDc8NJonAj3BIqQs9gdOOl2OC3X61VDQ1FL7auxP08SmEAg/kb4GWjOzq3U1XSeS7V9+15oyyZYiyb7sigWRiVMHPg8DiiqaDK97lYHI11wN9ztTPFLNyRAwT8e5mHog8sXRcJzH3/2YSjLRaHuHf+Y4qx9jcXffG4fa0dZcUwGRRjYl8/hB9FMgLHkEppTW8839NY3Av2JV6wcYsz0K/e1Tud2WYoy3NXhh26A+FFlN7XWe07mS8PSmrgCDmFLEOizFzqTftLDHnK9ZgGmea41aA+qAW+aPUyyjVro57JRUgvuXDYpeChiivhnYwl7H6Z0Oa6CB5bom4r+hcGpGFxwEd1DSSX20vawU8MsndbUqUs3phEdzx87JqkoCvHjqujdXjQDOIz7JjMkk4bAYb4GAWHORakHJgbvHRFr6yLDMwLVDZaLetKorSKrebwqGuK4hizY0Oe0SgumDXvA==;RwgNA+t7xGBs2QW/iA4Yig=="
 ---

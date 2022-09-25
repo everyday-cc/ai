@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-22T19:18:00Z
 originalUrl: "https://www.thewindowsclub.com/fix-speech-to-text-error-0x80049dd3"
 webUrl: "https://www.thewindowsclub.com/fix-speech-to-text-error-0x80049dd3"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: TWCN Tech News

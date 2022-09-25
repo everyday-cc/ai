@@ -48,9 +48,9 @@ related:
         height: 630
         isCached: true
   - title: "Facial Recognition Market Size Is Likely to Experience a Tremendous Growth by 2031 Covid-19 Analysis"
-    excerpt: "A research report on Facial Recognition Market was added by SDKI in its database which discusses the product as well"
-    publishedDateTime: 2022-09-21T13:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis-2022-09-21-91975832"
+    excerpt: "\"A research report on Facial Recognition Market was added by SDKI in its database which discusses the product as well as the scope of its market in detail. The report provides the business clients with an in-depth overview of the market,"
+    publishedDateTime: 2022-09-21T09:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis-2022-09-21"
     type: article
     provider:
       name: MarketWatch
@@ -70,6 +70,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Market Research Insights with Upcoming Trends, Opportunities, Competitive Analysis, Forecast to 2022-2031"
+    excerpt: "The study includes an in-depth competitive analysis of the key players in the facial recognition market, with their company profiles, recent developments, and key market strategie"
+    publishedDateTime: 2022-09-21T09:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-research-insights-with-upcoming-trends-opportunities-competitive-analysis-forecast-to-2022-2031-2022-09-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
 
 secured: "1GX2bxns/ZPv7M27x0TFTAW84Nw+JXdkgYYUiMe59gbeizR2YEcLzYJwu3hhKmi3KmiLfeVRPZIsZLO60H3w5MqN9GrjstDhLQksB8VMbhkHAVmQUsz9sVYHHlo8i8q94LywEuQUlbiMeqayzpp3q7u26CtNORkPRIyzZFKSwqD+C5lgK2edTl7yOJHPf7Yzgzm2Y8i6sOYtQcueNRE3uH6ls5D4nLQSKVe4i+B8rHd2gazhP4+SyrlJOYiVenw6oox5qH9/+FIoganljb1cLsxv0mZQ1HVBkZJnNsBJS4iA3qyQLAP2+6R2Fbo33I9bPqOhh+r0CUPmKDaYpazJF55JA8DCZ40voV2AJXL0CS8=;1Lgl7LqT7fn1zL3XFZ9z7w=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-23T14:35:00Z
 originalUrl: "https://cyprus-mail.com/2022/09/23/artificial-intelligence-is-a-tool-for-human-creativity-not-a-risk/"
 webUrl: "https://cyprus-mail.com/2022/09/23/artificial-intelligence-is-a-tool-for-human-creativity-not-a-risk/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://cyprus-mail.com/wp-content/uploads/2022/09/xenia-miscouridou-960.png"

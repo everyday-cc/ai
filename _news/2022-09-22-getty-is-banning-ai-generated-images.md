@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/getty-is-banning-ai-generated-i
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/getty-is-banning-ai-generated-images/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -75,22 +75,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/ai_image_ban_1-760x380.jpg"
         width: 760
         height: 380
-        isCached: true
-  - title: "Art of business in AI-generated art"
-    excerpt: "For the software entrepreneurs, there is a business in AI generated art though artists are very upset about AI art. But artists themselves are in the business of art for many years since the renaissance."
-    publishedDateTime: 2022-09-21T03:49:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/nayakgiri-a-leader-within-an-individual/art-of-business-in-ai-generated-art/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/nayakgiri-a-leader-within-an-individual/art-of-business-in-ai-generated-art/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/nayakgiri-a-leader-within-an-individual/art-of-business-in-ai-generated-art/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/03/Gautam-Naik.png"
-        width: 434
-        height: 441
         isCached: true
   - title: "Getty Images bans AI-generated content amid copyright concerns"
     excerpt: "Getty Images said there are ‘open questions’ on the copyright of AI-generated images, though it may prove difficult to enforce the ban."

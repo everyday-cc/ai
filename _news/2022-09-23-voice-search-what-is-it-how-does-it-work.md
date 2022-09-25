@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-22T20:12:00Z
 originalUrl: "https://www.searchenginejournal.com/what-is-voice-search/463344/"
 webUrl: "https://www.searchenginejournal.com/what-is-voice-search/463344/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Searchenginejournal.com

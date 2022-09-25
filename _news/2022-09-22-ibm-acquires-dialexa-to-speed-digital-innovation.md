@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-22T15:01:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-acquires-dialexa-to-speed-digital-innovation-1031759732"
 webUrl: "https://markets.businessinsider.com/news/stocks/ibm-acquires-dialexa-to-speed-digital-innovation-1031759732"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Business Insider

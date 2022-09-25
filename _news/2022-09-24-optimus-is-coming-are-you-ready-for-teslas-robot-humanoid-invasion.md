@@ -80,22 +80,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Elon Musk faces sceptics as Tesla gets ready to unveil 'Optimus' robot"
-    excerpt: "Elon Musk is planning to deploy thousands of humanoid robots in Tesla factory. However, there is scepticism as about his 'Optimus' robot"
-    publishedDateTime: 2022-09-21T03:19:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/elon-musk-faces-sceptics-as-tesla-gets-ready-to-unveil-optimus-robot-11663725763133.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/elon-musk-faces-sceptics-as-tesla-gets-ready-to-unveil-optimus-robot/amp-11663725763133.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/elon-musk-faces-sceptics-as-tesla-gets-ready-to-unveil-optimus-robot/amp-11663725763133.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 76
-    images:
-      - url: "https://images.livemint.com/img/2022/09/21/600x338/Tesla_Elon_Musk_1663728702949_1663728703184_1663728703184.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Tesla set to unveil humanoid robot Optimus"
     excerpt: "Tesla is preparing to unveil an AI-powered humanoid robot that it hopes ... the Autobots in the Transformers series. Production could start next year, Mr Musk said. Tesla faces scepticism that ..."
     publishedDateTime: 2022-09-21T13:03:00Z
