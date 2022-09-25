@@ -2,6 +2,240 @@
   "page": 155,
   "value": [
     {
+      "path": "_news/2022-05-26-backlash-over-law-that-would-let-gardai-use-facial-recognition-technology.md",
+      "title": "Backlash over law that would let gardai use facial recognition technology",
+      "excerpt": "The justice minister has come under pressure to explain the nature of legislation that would allow gardai to use facial recognition technology (FRT).Helen McEnt",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetimes.co.uk/article/backlash-over-law-that-would-let-gardai-use-facial-recognition-technology-fk8b0kg0t",
+      "originalUrl": "https://www.thetimes.co.uk/article/backlash-over-law-that-would-let-gardai-use-facial-recognition-technology-fk8b0kg0t",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F9bdafcf6-dc48-11ec-bcbd-e35b52e0266c.jpg?crop=2950%2C1660%2C0%2C154&resize=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times",
+        "domain": "thetimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-could-machine-learning-and-operations-research-lift-each-other-up.md",
+      "title": "Could machine learning and operations research lift each other up?",
+      "excerpt": "Perhaps cross-fertilizing machine learning and operations research with techniques and lessons learned could help lift both of them up.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/25/could-machine-learning-and-operations-research-lift-each-other-up/",
+      "originalUrl": "https://venturebeat.com/2022/05/25/could-machine-learning-and-operations-research-lift-each-other-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1223790172-e1653501662265.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/25/could-machine-learning-and-operations-research-lift-each-other-up/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/25/could-machine-learning-and-operations-research-lift-each-other-up/amp/",
+      "publishedDateTime": "2022-05-25T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-dataai-mobile-has-huge-lead-on-pc-and-console-in-consumer-spend.md",
+      "title": "Data.ai: Mobile has huge lead on PC and console in consumer spend",
+      "excerpt": "A new report from Data.ai shows that mobile gaming's momentum has not slowed, and it's got an even bigger lead on PC and console.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/25/data-ai-mobile-has-huge-lead-on-pc-and-console-in-consumer-spend/",
+      "originalUrl": "https://venturebeat.com/2022/05/25/data-ai-mobile-has-huge-lead-on-pc-and-console-in-consumer-spend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/Data.ai-Mobile-spend.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/25/data-ai-mobile-has-huge-lead-on-pc-and-console-in-consumer-spend/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/25/data-ai-mobile-has-huge-lead-on-pc-and-console-in-consumer-spend/amp/",
+      "publishedDateTime": "2022-05-25T15:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-meta-taps-latest-azure-virtual-machines-for-ai-research.md",
+      "title": "Meta Taps Latest Azure Virtual Machines for AI Research",
+      "excerpt": "Meta, formerly known as 'Facebook,' is using the latest Azure virtual machines (VMs) with graphics processing unit (GPU) compute power for its 'large-scale AI research workloads,' Microsoft announced on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://redmondmag.com/articles/2022/05/25/meta-taps-latest-azure-virtual-machines-for-ai-research.aspx",
+      "originalUrl": "https://redmondmag.com/articles/2022/05/25/meta-taps-latest-azure-virtual-machines-for-ai-research.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/ColorSwirlPinkSmall.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T15:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Redmond Magazine",
+        "domain": "redmondmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Microsoft AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-ai-deep-learning-predicts-cancer-from-scans-of-lung-nodules.md",
+      "title": "AI Deep Learning Predicts Cancer From Scans of Lung Nodules",
+      "excerpt": "This AI deep learning neural network, with a design inspired by the biological brain, had 650,000 neurons, 60 million parameters, and five convolutional layers. It won the ImageNet Large-Scale ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-05/pic15154.jpg?itok=t8TeVLMb",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
+      "publishedDateTime": "2022-05-25T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-26-nvidia-our-gpu-inventories-are-nearly-back-to-normal.md",
       "title": "Nvidia: Our GPU Inventories Are Nearly Back To Normal",
       "excerpt": "In another sign the GPU shortage has abated, Nvidia is reporting the company’s product inventories are almost back to normal. “Channel inventory has nearly normalized and we expect it to remain around these levels in (fiscal) Q2,",
@@ -896,221 +1130,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-compreface-open-source-facial-recognition-service-releases-new-features.md",
-      "title": "CompreFace Open Source Facial Recognition Service Releases New Features",
-      "excerpt": "CompreFace Version 1.0 offers more user-friendly UI benefits, no-code REST APIs, CCTV and Home Assistance integrations, AWS deployment, and more",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/compreface-open-source-facial-recognition-service-releases-new-features/article_e3624746-9b45-5cac-810c-636e8419895c.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/compreface-open-source-facial-recognition-service-releases-new-features/article_e3624746-9b45-5cac-810c-636e8419895c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-ai-chip-startup-simaai-bags-another-30m-ahead-of-growth.md",
-      "title": "AI chip startup Sima.ai bags another $30M ahead of growth",
-      "excerpt": "Sima.ai, a startup developing an embedded edge chip to accelerate AI workloads, has raised $30 million in an expanded venture funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/25/ai-chip-startup-sima-ai-bags-another-30m-ahead-of-growth/",
-      "originalUrl": "https://techcrunch.com/2022/05/25/ai-chip-startup-sima-ai-bags-another-30m-ahead-of-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-global-adasad-chip-industry-research-report-2022-soc-vendors-accelerate-the-layout-of-autonomous-driving-ai-data-training.md",
-      "title": "Global ADAS/AD Chip Industry Research Report 2022: SoC Vendors Accelerate the Layout of Autonomous Driving AI Data Training",
-      "excerpt": "DUBLIN, May 25, 2022 /PRNewswire/ -- The \"ADAS/AD Chip Industry Research Report, 2022\" report has been added to ResearchAndMarkets.com's offering. The world's leading autonomous driving AI training chips include: Intel Ponte Vecchio, NVIDIA A100 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_automotive/global-adas-ad-chip-industry-research-report-2022-soc-vendors-accelerate-the-layout-of-autonomous/article_fba726ef-7b87-518e-ae31-6a1f7e5d0a8a.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_automotive/global-adas-ad-chip-industry-research-report-2022-soc-vendors-accelerate-the-layout-of-autonomous/article_fba726ef-7b87-518e-ae31-6a1f7e5d0a8a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-ayar-labs-teams-with-nvidia-for-optical-interconnects-to-speed-up-aiml-chips.md",
-      "title": "Ayar Labs teams with Nvidia for optical interconnects to speed up AI/ML chips",
-      "excerpt": "AI/ML and other data-heavy interactions, the company said. At least at the outset of their release into the market, the new optical chips will go to CPU and GPU makers (such as Intel, Nvidia ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/25/ayar-labs-teams-with-nvidia-for-optical-interconnects-to-speed-up-ai-ml-chips/",
-      "originalUrl": "https://venturebeat.com/2022/05/25/ayar-labs-teams-with-nvidia-for-optical-interconnects-to-speed-up-ai-ml-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T05:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-ai-redefined-welcomes-new-hires-continues-commercial-research-expansion.md",
-      "title": "AI Redefined Welcomes New Hires, Continues Commercial & Research Expansion",
-      "excerpt": "AI Redefined (AIR), a company focused on building software products for human-AI collaboration, has added to its leadership team with two new hires: Jordy Berson, who joins the company as Chief Product Officer,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-alberta-canada-3af4befd08cc482fa43948ec4498fec1",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-alberta-canada-3af4befd08cc482fa43948ec4498fec1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T05:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

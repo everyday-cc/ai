@@ -299,6 +299,58 @@
       ]
     },
     {
+      "path": "_news/2022-09-21-robotic-eyes-attached-to-front-of-self-driving-cars-may-improve-safety.md",
+      "title": "Robotic Eyes Attached to Front of Self-Driving Cars May Improve Safety",
+      "excerpt": "Scientists in Japan have found that sticking giant googly-looking eyes in front of self-driving cars may improve safety for pedestrians. Tesla still does not classify Autopilot-enabled vehicles as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595",
+      "originalUrl": "https://www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2119247/pedestrians-crossing-road.jpg",
+          "width": 2058,
+          "height": 1330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595?amp=1",
+      "publishedDateTime": "2022-09-20T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-nvidia-wants-to-be-the-brains-of-your-self-driving-car.md",
       "title": "Nvidia Wants to Be the Brains of Your Self-Driving Car",
       "excerpt": "Chip designer Nvidia on Tuesday revealed a new processor called Drive Thor it expects will power the autonomous vehicle revolution. Thor processors should arrive in 2024 for cars hitting the roads in 2025,",
@@ -412,7 +464,7 @@
       "originalUrl": "https://www.reuters.com/technology/challenges-automakers-now-tesla-face-with-humanoid-robots-2022-09-20/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -559,6 +611,40 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-19-weride-launches-the-first-self-driving-robobus-test-ride-in-saudi-arabia-at-2022-global-ai-summit.md",
+      "title": "WeRide Launches the First Self-driving Robobus Test Ride in Saudi Arabia at 2022 Global AI Summit",
+      "excerpt": "WeRide launched the first driverless public Robotaxi service in the Middle East in Abu Dhabi, capital of the United Arab Emirates. The launch of the driverless robobus in Riyadh becomes another important milestone in WeRide's global footprint,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/09/19/9675581.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/09/19/9675581.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-18T23:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1014,6 +1100,40 @@
       ]
     },
     {
+      "path": "_news/2022-09-14-alphabets-googl-waymo-makes-way-to-bellevue-boosts-efforts.md",
+      "title": "Alphabet's (GOOGL) Waymo Makes Way to Bellevue, Boosts Efforts",
+      "excerpt": "Alphabet GOOGL is leaving no stone unturned to expand its Waymo ride-hailing service across the United States. This is evident from the latest move of testing its self-driving vehicles on the streets of Bellevue,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/alphabets-googl-waymo-makes-way-to-bellevue-boosts-efforts",
+      "originalUrl": "https://www.nasdaq.com/articles/alphabets-googl-waymo-makes-way-to-bellevue-boosts-efforts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/alphabets-googl-waymo-makes-way-to-bellevue-boosts-efforts?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/alphabets-googl-waymo-makes-way-to-bellevue-boosts-efforts?amp",
+      "publishedDateTime": "2022-09-14T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-more-robotaxis-are-coming-to-the-streets-of-us-cities.md",
       "title": "More robotaxis are coming to the streets of US cities",
       "excerpt": "Until now, this type of service was only available in San Francisco, with drivers behind the wheel during the day, but without a driver at night.",
@@ -1288,154 +1408,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-tesla-ai-day-2022-everything-you-need-to-know.md",
-      "title": "Tesla AI Day 2022: Everything You Need To Know",
-      "excerpt": "The tech obsessed watch to see how Tesla is pushing the envelope in bringing new and exciting innovations to the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/09/13/tesla-ai-day-2022-everything-you-need-to-know/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/09/13/tesla-ai-day-2022-everything-you-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6320a0f9a400968b15fe585a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/09/13/tesla-ai-day-2022-everything-you-need-to-know/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/09/13/tesla-ai-day-2022-everything-you-need-to-know/amp/",
-      "publishedDateTime": "2022-09-13T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-uber-inks-partnership-on-food-delivery-to-get-back-in-driverless-game.md",
-      "title": "Uber inks partnership on food delivery to get back in driverless game",
-      "excerpt": "The latter has developed driverless delivery robots, which have already been operating on a limited basis in several cities. The latest partnership will kick off this fall with deliveries in ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3882244-uber-inks-partnership-on-food-delivery-to-get-back-in-driverless-game",
-      "originalUrl": "https://seekingalpha.com/news/3882244-uber-inks-partnership-on-food-delivery-to-get-back-in-driverless-game",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1137962297/image_1137962297.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-is-ai-the-solution-to-hiring-bias-or-the-cause-of-it.md",
-      "title": "Is AI The Solution To Hiring Bias (Or The Cause Of It)?",
-      "excerpt": "If AI can find qualified candidates and automation software can schedule interviews, confirm appointments, and send email and text messages to candidates, what’s left for a recruiter to do? Turns out,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/13/is-ai-the-solution-to-hiring-bias-or-the-cause-of-it/",
-      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/13/is-ai-the-solution-to-hiring-bias-or-the-cause-of-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f89f505db3eef289c346955/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/13/is-ai-the-solution-to-hiring-bias-or-the-cause-of-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/13/is-ai-the-solution-to-hiring-bias-or-the-cause-of-it/amp/",
-      "publishedDateTime": "2022-09-13T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

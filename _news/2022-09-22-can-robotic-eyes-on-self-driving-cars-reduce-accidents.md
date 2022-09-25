@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "Robotic Eyes Attached to Front of Self-Driving Cars May Improve Safety"
+    excerpt: "Scientists in Japan have found that sticking giant googly-looking eyes in front of self-driving cars may improve safety for pedestrians. Tesla still does not classify Autopilot-enabled vehicles as ..."
+    publishedDateTime: 2022-09-20T20:48:00Z
+    webUrl: "https://www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595"
+    ampWebUrl: "https://www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 74
+    images:
+      - url: "https://d.newsweek.com/en/full/2119247/pedestrians-crossing-road.jpg"
+        width: 2058
+        height: 1330
+        isCached: true
+  - title: "The Unexpected Truth About Self-Driving Cars According To General Motors"
+    excerpt: "The future is self-driving, or so say evangelists that are betting big on a future where AI-powered machines — including vehicles — will perform intended tasks on their own. Self-driving cars ..."
+    publishedDateTime: 2022-09-21T15:14:00Z
+    webUrl: "https://www.slashgear.com/1018226/the-unexpected-truth-about-self-driving-cars-according-to-general-motors/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 53
+    images:
+      - url: "https://www.slashgear.com/img/gallery/the-unexpected-truth-about-self-driving-cars-according-to-general-motors/l-intro-1663772176.jpg"
+        width: 1600
+        height: 897
+        isCached: true
   - title: "Can eyes on self-driving cars reduce accidents?"
     excerpt: "Self-driving vehicles seem to be just around the corner. Whether they'll be delivering packages, plowing fields or busing kids to school, a lot of research is underway to turn a once futuristic ..."
     publishedDateTime: 2022-09-22T16:14:00Z
@@ -42,15 +72,6 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
-    quality: 4
-  - title: "A new self-driving car developer is setting up shop in Tucson"
-    excerpt: "The company, backed by Japanese auto giant Toyota, previously tested self-driving cars in California but its state permit was revoked following a minor crash."
-    publishedDateTime: 2022-09-22T19:30:00Z
-    webUrl: "https://tucson.com/news/local/business/a-new-self-driving-car-developer-is-setting-up-shop-in-tucson/article_6e3c25fa-3a98-11ed-806e-f713fec8a6a3.html"
-    type: article
-    provider:
-      name: Arizona Daily Star
-      domain: tucson.com
     quality: 4
   - title: "Robotic eyes on self-driving vehicles could reduce road accidents, says research"
     excerpt: "The major difference with self-driving vehicles is that drivers may become more of a passenger. They may not be giving full attention on the road. This makes it tough for pedestrians to ascertain if a vehicle has registered their presence,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/getty-is-banning-ai-generated-i
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/getty-is-banning-ai-generated-images/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -105,20 +105,6 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/09/AdobeStock_395141404_Editorial_Use_Only.jpeg"
         width: 800
         height: 600
-        isCached: true
-  - title: "AI generated game appears on Steam"
-    excerpt: "But they are not that great  AI generated games are starting to appear on Steam, but any fears that coders might have to find new jobs filling bags in supermarkets might be a little premature. This Girl Does Not Exist,"
-    publishedDateTime: 2022-09-20T09:12:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/55509-ai-generated-game-appears-on-steam"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 37
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/dfd676253d097ecb149ca51426c0658a_L.jpg"
-        width: 620
-        height: 473
         isCached: true
   - title: "Getty Images Is Barring Illustrations Created by Artificial Intelligence"
     excerpt: "Getty Images won’t sell AI-generated art as photographers have called for more regulations on AI-content generators."

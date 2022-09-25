@@ -2,6 +2,229 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2022-07-29-deepmind-ai-lab-predicts-structure-of-most-proteins.md",
+      "title": "DeepMind AI Lab Predicts Structure of Most Proteins",
+      "excerpt": "D structures of 214 million molecules, in an advance expected to quicken drug discovery.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/deepmind-ai-lab-predicts-structure-of-most-proteins-11659048143",
+      "originalUrl": "https://www.wsj.com/articles/deepmind-ai-lab-predicts-structure-of-most-proteins-11659048143",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 324,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-593405/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/deepmind-ai-lab-predicts-structure-of-most-proteins-11659048143",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/deepmind-ai-lab-predicts-structure-of-most-proteins-11659048143",
+      "publishedDateTime": "2022-07-28T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-how-edge-data-is-training-ai-for-accurate-real-time-response.md",
+      "title": "How edge data is training AI for accurate, real-time response",
+      "excerpt": "Register now for your free virtual pass to Transform's AI & Edge Week, July 26-28. Hear from AI and data executives from Visa, Lowe's eBay, Credit Karma, Kaiser, Honeywell, Google, Nissan, Toyota, John Deere,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/28/how-edge-data-is-training-ai-for-accurate-real-time-response/",
+      "originalUrl": "https://venturebeat.com/2022/07/28/how-edge-data-is-training-ai-for-accurate-real-time-response/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1148108337.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/28/how-edge-data-is-training-ai-for-accurate-real-time-response/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/28/how-edge-data-is-training-ai-for-accurate-real-time-response/amp/",
+      "publishedDateTime": "2022-07-28T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-united-wholesale-mortgage-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
+      "title": "United Wholesale Mortgage Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!",
+      "excerpt": "United Wholesale Mortgage will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Pontiac will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-united-wholesale-mortgage-selected-as-host-site-artificial-/2022/07/28/9647169.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-united-wholesale-mortgage-selected-as-host-site-artificial-/2022/07/28/9647169.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-research-shows-artificial-intelligence-can-improve-stroke-diagnostics-expanding-access-to-lifesaving-stroke-care.md",
+      "title": "Research shows artificial intelligence can improve stroke diagnostics, expanding access to lifesaving stroke care",
+      "excerpt": "Citation: Research shows artificial intelligence can improve stroke diagnostics, expanding access to lifesaving stroke care (2022, July 28) retrieved 14 August 2022 from https://medicalxpress.com ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/1-stroke.jpg",
+          "width": 1920,
+          "height": 1354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.amp",
+      "publishedDateTime": "2022-07-28T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-wimi-hologram-academy-virtual-reality-based-remote-vehicle-driving-technology.md",
+      "title": "WIMI Hologram Academy: Virtual Reality-based Remote Vehicle Driving Technology",
+      "excerpt": "This article follows below: Driverless as well as artificial intelligence are the current research hotspots in the field of vehicles. Considering the cost of experiments, how to conduct unmanned ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/wimi-hologram-academy-virtual-reality-based-remote-vehicle-driving-technology/article_6f17fb76-11f4-5eff-a6bd-fe7b4123990e.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/wimi-hologram-academy-virtual-reality-based-remote-vehicle-driving-technology/article_6f17fb76-11f4-5eff-a6bd-fe7b4123990e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-29-specialized-brain-regions-recognize-vocal-cues-that-dont-involve-speech.md",
       "title": "Specialized brain regions recognize vocal cues that don’t involve speech",
       "excerpt": "Insights into the organization of the brain voice-recognition system will enable researchers to better understand neurological disorders where voice perception is altered or missing, such as schizophrenia or autism,",
@@ -921,247 +1144,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehicles.md",
-      "title": "LG, SoundHound Team Up for Advanced AI Voice Control in Vehicles",
-      "excerpt": "SoundHound's voice recognition technology will be integrated with LG's in-vehicle infotainment (IVI) system, allowing drivers to control key functions using natural language commands. Just as you ...",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/cars-auto/141746/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehicles",
-      "originalUrl": "https://uk.pcmag.com/cars-auto/141746/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehicles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/l/lg-soundho/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehic_8gdq.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-googles-ai-has-predicted-the-3d-structure-of-the-entire-protein-universe.md",
-      "title": "Google's AI Has Predicted the 3D Structure of the 'Entire Protein Universe'",
-      "excerpt": "After 22 years of grueling experimentation, John Kendrew of Cambridge University finally uncovered the 3D structure of a protein. It was a twisted blueprint of myoglobin, the stringy chain of 154 amino acids that helps infuse our muscles with oxygen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/science/biology/googles-ai-has-predicted-the-3d-structure-of-the-entire-protein-universe/",
-      "originalUrl": "https://www.cnet.com/science/biology/googles-ai-has-predicted-the-3d-structure-of-the-entire-protein-universe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/07fd24f6e895baa36441c82a2b640657f3f2cbd8/2022/07/28/8f1688f9-ef38-476c-b270-5967d88de874/gettyimages-154963443.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-ai-has-predicted-the-3d-structure-of-the-entire-protein-universe/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-ai-has-predicted-the-3d-structure-of-the-entire-protein-universe/",
-      "publishedDateTime": "2022-07-28T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-how-to-approach-ai-decisions-with-eyes-wide-open.md",
-      "title": "How To Approach AI Decisions With Eyes Wide Open",
-      "excerpt": "The fervor around AI is eerily similar to past technology adoption cycles (e.g., the web boom) and follows a predictable pattern. First, there's an exuberant rush by early adopter",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/28/how-to-approach-ai-decisions-with-eyes-wide-open/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/28/how-to-approach-ai-decisions-with-eyes-wide-open/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62e148d558bd5a2f407e7749/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/28/how-to-approach-ai-decisions-with-eyes-wide-open/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/28/how-to-approach-ai-decisions-with-eyes-wide-open/amp/",
-      "publishedDateTime": "2022-07-28T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-iron-mountain-insight-saas-platform-extends-capabilities-on-aws.md",
-      "title": "Iron Mountain InSight® SaaS Platform Extends Capabilities On AWS",
-      "excerpt": "Get 7 Days Free Sign In Sign In Topics",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20220728005349/iron-mountain-insight-saas-platform-extends-capabilities-on-aws",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20220728005349/iron-mountain-insight-saas-platform-extends-capabilities-on-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward.md",
-      "title": "DeepMind uncovers structure of 200m proteins in scientific leap forward",
-      "excerpt": "Success of AlphaFold program could have huge impact on global problems such as famine and disease",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward?fs=e&s=cl",
-      "originalUrl": "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward?fs=e&s=cl",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/9be88a8fbd44edbd1d57a656afb9105b3d1199d2/0_0_2000_1200/master/2000.jpg?width=620&quality=85&auto=format&fit=max&s=dea65fbabb845a2d6a30c9a75eb19a20",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward",
-      "publishedDateTime": "2022-07-28T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

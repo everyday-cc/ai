@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Challenges Automakers, And Now Tesla, Face With Humanoid Robots: Report"
-    excerpt: "Tesla's CEO Elon Musk is set to unveil its prototype humanoid robots at an event on Sept. 30, hoping to expand beyond self-driving cars that have not yet become reality despite his repeated promises."
-    publishedDateTime: 2022-09-20T10:31:00Z
-    webUrl: "https://www.ndtv.com/business/challenges-automakers-and-now-tesla-face-with-humanoid-robots-report-3360851"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 36
   - title: "Tesla's First Prototype Of A Humanoid Robot To Launce Soon"
     excerpt: "CEO Elon Musk said last year that Tesla was preparing to launch a humanoid robot that could replace boring, repetitive factory jobs and potentia"
     publishedDateTime: 2022-09-24T12:20:00Z

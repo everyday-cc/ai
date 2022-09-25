@@ -2,6 +2,212 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-09-14-ibm-watson-and-guerbet-want-to-tackle-prostate-cancer-diagnosis-with-ai.md",
+      "title": "IBM Watson and Guerbet Want to Tackle Prostate Cancer Diagnosis with AI",
+      "excerpt": "Guerbet has landed a second co-development agreement with IBM Watson Health. This time around, the two companies will develop an artificial intelligence tool to help clinicians detect, segment, characterize, and monitor prostate cancer. “The main ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/business/ibm-watson-and-guerbet-want-tackle-prostate-cancer-diagnosis-ai",
+      "originalUrl": "https://www.mddionline.com/business/ibm-watson-and-guerbet-want-tackle-prostate-cancer-diagnosis-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/DSC03582.JPG",
+          "width": 5472,
+          "height": 3648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-researchers-combine-data-science-and-machine-learning-techniques-to-improve-traditional-mri-image-reconstruction.md",
+      "title": "Researchers combine data science and machine learning techniques to improve traditional MRI image reconstruction",
+      "excerpt": "University of Minnesota Twin Cities researchers have found a way to improve the performance of traditional Magnetic Resonance Imaging (MRI) reconstruction techniques, allowing for faster MRIs without relying on the use of newer deep learning methods.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/964576",
+      "originalUrl": "https://www.eurekalert.org/news-releases/964576",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-taking-multivitamins-may-protect-against-cognitive-decline-in-over-65s-study.md",
+      "title": "Taking multivitamins may protect against cognitive decline in over-65s – study",
+      "excerpt": "aking multivitamin supplements on a daily basis may help protect against cognitive decline in older adults, early research suggests. Scientists in the US found that consuming these vitamins for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.standard.co.uk/tech/science/scientists-north-carolina-b1025582.html",
+      "originalUrl": "https://www.standard.co.uk/tech/science/scientists-north-carolina-b1025582.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "London Evening Standard",
+        "domain": "standard.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-using-artificial-intelligence-to-improve-tuberculosis-treatments.md",
+      "title": "Using artificial intelligence to improve tuberculosis treatments",
+      "excerpt": "Imagine you have 20 new compounds that have shown some effectiveness in treating a disease like tuberculosis (TB), which affects 10 million people worldwide and kills 1.5 million each year.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.html",
+      "originalUrl": "https://phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/using-artificial-intel-9.jpg",
+          "width": 2880,
+          "height": 2225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.amp",
+      "publishedDateTime": "2022-09-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-dynatrace-ceo-rick-mcconnell-on-why-observability-matters-and-how-its-unique.md",
+      "title": "Dynatrace CEO, Rick McConnell, On Why Observability Matters And How Its Unique",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives into a recent conversation with Rick McConnell, Dynatrace CEO. Now, Rick has software that purports to avert the doomsday scenario. In this article, Patrick discusses why observability has become so important.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/09/13/dynatrace-ceo-rick-mcconnell-on-why-observability-matters-and-how-its-unique/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/09/13/dynatrace-ceo-rick-mcconnell-on-why-observability-matters-and-how-its-unique/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/632105023c3f68c5761b8dcc/0x0.jpg?format=jpg&width=1200",
+          "width": 824,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/09/13/dynatrace-ceo-rick-mcconnell-on-why-observability-matters-and-how-its-unique/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/09/13/dynatrace-ceo-rick-mcconnell-on-why-observability-matters-and-how-its-unique/amp/",
+      "publishedDateTime": "2022-09-13T15:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-how-ai-is-being-developed-at-opm-for-cybersecurity-threats.md",
       "title": "How AI is Being Developed at OPM for Cybersecurity Threats",
       "excerpt": "AI in Government event with featured guest speaker Melvin Brown II, Deputy Chief Information Officer in the U.S. Office of Personnel Management and his presentation ‘How… Read More",
@@ -264,34 +470,34 @@
     {
       "path": "_news/2022-09-14-online-proctor-sumadi-joins-aws-partner-network.md",
       "title": "Online Proctor Sumadi Joins AWS Partner Network",
-      "excerpt": "Sumadi's status as an AWS Partner strengthens the business' ability to deploy large-scale, simultaneous proctoring of online tests and assessments for clients around the world, including universities,",
+      "excerpt": "Sumadi’s status as an AWS Partner strengthens the business’ ability to deploy large-scale, simultaneous proctoring of online tests and assessments for clients around the world, including universities,",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/online-proctor-sumadi-joins-aws-partner-network-1031741167",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/online-proctor-sumadi-joins-aws-partner-network-1031741167",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/4bd9f0ea4a14e9b8784948706e74fa52",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/4bd9f0ea4a14e9b8784948706e74fa52",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T13:30:00-07:00",
+      "publishedDateTime": "2022-09-13T13:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -964,203 +1170,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-ccc-intelligent-solutions-wins-2022-idc-fintech-rankings-real-results-award-for-ccc-safekeep.md",
-      "title": "CCC Intelligent Solutions Wins 2022 IDC FinTech Rankings Real Results Award for CCC® Safekeep",
-      "excerpt": "The AI-Powered Subrogation Platform Recognized for its Work with Root Insurance CCC Intelligent Solutions Inc. (CCC), a leading SaaS platform powering the P&C insurance economy, announced today it is",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/b28850758/ccc-intelligent-solutions-wins-2022-idc-fintech-rankings-real-results-award-for-ccc-safekeep",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/b28850758/ccc-intelligent-solutions-wins-2022-idc-fintech-rankings-real-results-award-for-ccc-safekeep",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg",
-          "width": 700,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28850758",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28850758",
-      "publishedDateTime": "2022-09-13T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-between-a-rock-and-a-hard-place-new-research-reveals-us-banking-is-trapped-by-rising-financial-crime-and-perceived-tech-complexity.md",
-      "title": "Between a rock and a hard place – new research reveals US Banking is trapped by rising financial crime and perceived tech complexity",
-      "excerpt": "“The answer should be no. With the growth of Banking as a Service providers and processing partners, smaller FIs can today access best in class, machine learning, fraud and financial crime ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/between-a-rock-and-a-hard-place-new-research-reveals-us-banking-is-trapped-by/article_fccdfcf1-9e09-5cb9-afcc-3aa6c27d83d6.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/between-a-rock-and-a-hard-place-new-research-reveals-us-banking-is-trapped-by/article_fccdfcf1-9e09-5cb9-afcc-3aa6c27d83d6.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg",
-          "width": 350,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-large-language-models-new-industry-use-cases-and-responsible-ai-round-out-the-main-themes-for.md",
-      "title": "Large Language Models, New Industry Use Cases, and Responsible AI Round Out the Main Themes for ...",
-      "excerpt": "John Snow Labs, the healthcare AI and NLP company and developer of the Spark NLP library, today announced the agenda for its",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/large-language-models-new-industry-use-cases-and-responsible-ai-round-out-the-main-themes/article_33704ec1-3300-5774-836e-a8da828dfd03.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/large-language-models-new-industry-use-cases-and-responsible-ai-round-out-the-main-themes/article_33704ec1-3300-5774-836e-a8da828dfd03.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-ge-digital-achieves-aws-industrial-software-competency-status-and-adds-new-aws-marketplace-offerings-in-operational-intelligence-and-mes-morningstar.md",
-      "title": "GE Digital Achieves AWS Industrial Software Competency Status and Adds New AWS Marketplace Offerings in Operational Intelligence and MES | Morningstar",
-      "excerpt": "Get 7 Days Free Sign In Sign In Topics",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20220913005127/ge-digital-achieves-aws-industrial-software-competency-status-and-adds-new-aws-marketplace-offerings-in-operational-intelligence-and-mes",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20220913005127/ge-digital-achieves-aws-industrial-software-competency-status-and-adds-new-aws-marketplace-offerings-in-operational-intelligence-and-mes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-kyndis-natural-language-search-solution-recognized-as-a-kmworld-top-trend-setting-product-of-2022.md",
-      "title": "Kyndi's Natural Language Search Solution Recognized as a KMWorld Top Trend-Setting Product of 2022",
-      "excerpt": "SAN MATEO, Calif., Sept. 13, 2022 /PRNewswire/ -- Kyndi, the leading natural language processing (NLP) company, today announced that KMWorld, the premier knowledge management publication ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/n28847758/kyndis-natural-language-search-solution-recognized-as-a-kmworld-top-trend-setting-product-of-2022",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/n28847758/kyndis-natural-language-search-solution-recognized-as-a-kmworld-top-trend-setting-product-of-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T06:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

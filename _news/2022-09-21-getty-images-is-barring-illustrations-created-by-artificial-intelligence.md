@@ -116,20 +116,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "AI generated game appears on Steam"
-    excerpt: "But they are not that great  AI generated games are starting to appear on Steam, but any fears that coders might have to find new jobs filling bags in supermarkets might be a little premature. This Girl Does Not Exist,"
-    publishedDateTime: 2022-09-20T09:12:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/55509-ai-generated-game-appears-on-steam"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 37
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/dfd676253d097ecb149ca51426c0658a_L.jpg"
-        width: 620
-        height: 473
-        isCached: true
 
 secured: "0cjfW0ynwmGAm2f+OU6Qmq8tcUs41FmCsou5/ZGfmYiJbREvCJ3pFr8YnAvV5ZWpBj43xVaGRsgJHqQ4GplZw3dohBF+tqRBiBWkp6AAK3fmfcPASMgxrELjZeuy9BCE1b4IluORhBVrpz8ymVep8Egs+isaCxynAfHrYfIPz+sMfIEMZCTDrGiSwWMbWZhHKcicQdDaNGmRclcmtbxUsJ01ks16P0SNkrARv2DuaV7cHWQRR5mHi4r2q6M5u1bbm2Ho5hUf94i6a88RGkl1+LrOD0kQPInEpE+szaE+dtyaBUi/oA8HMDm9soLr85Bx98ClphqYikSX7uaJkEEaI1Dmc6WHodkeVWCIKs2UrB/jgFmtA//3HVDXjhIHBuY9sCFx2oayjm6oF9+BeJoV/EJbnnGqjvpzgCQH0YSfz7LY4/2WuXUe0ik874iEz0765UX6qThRU5glO8XyQPb867R/ifwZppOLlzbbgCL8CJ1kheo6jsrT33al3P9pWhhTNEM1FA55AOd2/YSszEji3A==;poRFD5qFNASoANievHhfig=="
 ---

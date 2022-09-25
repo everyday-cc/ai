@@ -75,6 +75,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Samsung Galaxy S23 series could include this more accurate facial recognition system"
+    excerpt: "Samsung has filed a patent application with the appropriate Korean agency for a facial recognition system that uses two under-display cameras."
+    publishedDateTime: 2022-09-25T02:51:00Z
+    webUrl: "https://www.phonearena.com/news/samsung-seeks-patent-on-dual-camera-facial-recognition_id142727"
+    type: article
+    provider:
+      name: PhoneArena
+      domain: phonearena.com
+    quality: 32
+    images:
+      - url: "https://m-cdn.phonearena.com/images/article/142727-wide-two_1200/Samsung-Galaxy-S23-series-could-include-this-more-accurate-facial-recognition-system.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "LNvlBi9HHZn9Oi675ZR/0XQcZJ715WeyZpIaRYKlPrftvgWZrZl2ETp5r84/+Z05/zhK0TEpPsDFvl4weOcQtvTP+xAFIpn8VaV0HntglzzeApO8nAEFSqQzcL6k9ctxdb63AkMYH8lM/BTHzW1fuf8kqAhwNmNXxirsARYklV3yYUYHUv2kYbnIx8JhwbKNI5sPa7PViYApbma16HBen4aBQziZ/b/kKC9IWUcEASEurZuKNAWiKNMkdR2jxbIoBrWMDZvUb9tgur8Ek9P6PPy6KAGnZ4TgF8yT0vuFhiQo+rJ9+3+FJ6IoER63XsaFAVRBx7XLxUJhm8Pb5tgEjs5UuOlm2YoxCKhxyi29Y9DIdR9ngHkKw4V84EjKpexkxpre9Bjxl3poQ3h0CsrSs8YfOYC7Z466dnwoe36r+R5GIKolDfKBpjruALy0zC/1YJkTxOLwCcjCCZbX7YW4629CTojITz/tZKOEt5v9SF3kVLyUTBSGvfwWa+prjeSW1K56m8rZRCZY0xazkv+1+A==;hqp+j28eKNxCjCXnWm9pNA=="
 ---

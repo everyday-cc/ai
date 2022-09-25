@@ -38,6 +38,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-20-ibm-study-supply-chain-leaders-are-investing-in-ai-and-automation-to-navigate-supply-chain-uncertainties-and-improve-sustainability.md",
+      "title": "IBM Study: Supply Chain Leaders Are Investing in AI and Automation to Navigate Supply Chain Uncertainties and Improve Sustainability",
+      "excerpt": "AI and automation initiatives to build intelligent, resilient, and sustainable supply chains,\" said Jonathan Wright, IBM Consulting Global Managing Partner, Sustainability Services and Global ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/ibm-study-supply-chain-leaders-are-investing-in-ai-and-automation-to-navigate-supply-chain-uncertainties-and-improve-sustainability-301628120.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/ibm-study-supply-chain-leaders-are-investing-in-ai-and-automation-to-navigate-supply-chain-uncertainties-and-improve-sustainability-301628120.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1902478/IBM_CSCO_Video_2022.mp4?p=thumbnail",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-16-ibm-advertising-accelerator-leverages-artificial-intelligence-for-optimum-viewer-engagement.md",
       "title": "IBM Advertising Accelerator leverages artificial intelligence for optimum viewer engagement",
       "excerpt": "Powered by IBM Watson, the accelerator will use artificial intelligence to predict the best choice of creative elements to be used in advertising that will, in turn, translate into high engagement ...",
@@ -1332,51 +1375,6 @@
         "AI",
         "IBM AI",
         "AI in Healthcare",
-        "Microsoft AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story.md",
-      "title": "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story",
-      "excerpt": "New Jersey, NJ -- (SBWIRE) -- 08/10/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ...",
-      "sourceUrl": null,
-      "webUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-35",
-      "originalUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-35",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-10T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insurancenewsnet.com",
-        "domain": "insurancenewsnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
         "Microsoft AI",
         "AI in Autos"
       ]

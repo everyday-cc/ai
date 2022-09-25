@@ -20,17 +20,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Will ServiceNow Be Worth More Than Microsoft by 2030?"
-    excerpt: "Just like other richly valued tech stocks, ServiceNow lost some luster as interest rates rose over the past year. Image source: . Nevertheless, ServiceNow has still generated massive gains for its initial investors and will likely continue to generate double-digit sales growth for years to come."
-    publishedDateTime: 2022-09-20T09:10:00Z
-    webUrl: "https://www.nasdaq.com/articles/will-servicenow-be-worth-more-than-microsoft-by-2030"
-    ampWebUrl: "https://www.nasdaq.com/articles/will-servicenow-be-worth-more-than-microsoft-by-2030?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-servicenow-be-worth-more-than-microsoft-by-2030?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "Bambu releases predictive planner for Microsoft Cloud for Financial Services"
     excerpt: "Bambu, a global wealth technology provider, today announced the launch of their Wealth Management Predictive Planning solution for Microsoft Cloud for Financial Services and Microsoft Dynamics 365 Sales."
     publishedDateTime: 2022-09-22T08:42:00Z

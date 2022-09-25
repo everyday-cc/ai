@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidheadlines.com/2022/09/samsung-dual-udc-facial-rec
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/09/samsung-dual-udc-facial-recognition-tech.html?amp"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://fdn.gsmarena.com/imgroot/news/22/09/galaxy-flip-one-ui-411/-1220x526/gsmarena_000.jpg"
         width: 1220
         height: 526
+        isCached: true
+  - title: "Samsung Galaxy S23 series could include this more accurate facial recognition system"
+    excerpt: "Samsung has filed a patent application with the appropriate Korean agency for a facial recognition system that uses two under-display cameras."
+    publishedDateTime: 2022-09-25T02:51:00Z
+    webUrl: "https://www.phonearena.com/news/samsung-seeks-patent-on-dual-camera-facial-recognition_id142727"
+    type: article
+    provider:
+      name: PhoneArena
+      domain: phonearena.com
+    quality: 32
+    images:
+      - url: "https://m-cdn.phonearena.com/images/article/142727-wide-two_1200/Samsung-Galaxy-S23-series-could-include-this-more-accurate-facial-recognition-system.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "veyI8CVranF69HpKxnaBLWJ1LBrUpuAS7AZXJEj46RFCfmEHcPlSBXMlWJILV5IesbuIqh0jrQ2T9m6kofiBErYCHt5OAVKuJiPkhh329BHj1HTHWaj4OaSHYSfWX4Jki72++6Fprcug2u4ui/lOsXHHSxUBr3nptdHDltDZAHImbWVUIpJCmM5AfIIc4f90yxvzzVzhPTqbzRGRIjZsfhe3DDQ+LVvizkbP+9Oay7i/Qm4W6MjbwYeZvROCUEJGRhOFi7pjv1TPu69WjxEObhhRob+bwxWWziu9wdue7WuwnI3hxBxzO76y2cr5xVRb5Iie7W9RE1HAyPPHD9HdyPJrBEWCJ+7ZnADGnMcEho8NwVoMKVPP3+8Aj0RhGUSzuj5g3BUBncdfYrZ++Ymz0f2Et7tCcS7W14oEI+3etApTukak1iOMYJxQ7RN/vEzBhvE2Q8uHUjRYEHLlFFadRab50vFWzVwKKawqyQnEzkszh2E9wRR8JQe7s5FO9cXIJmPOYluCEW07rnV9Bk8WMw==;DfwZspGhlDtAAyw/5Lptfg=="

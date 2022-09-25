@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Robots Market Size To Record 21.3% CAGR Through 2028"
-    excerpt: "Market Study Report presents latest report on global  Artificial Intelligence (AI) Robots Market,  which evaluates the growth tr"
-    publishedDateTime: 2022-09-20T09:36:00Z
-    webUrl: "https://menafn.com/1104892877/Artificial-Intelligence-Robots-Market-Size-To-Record-213-CAGR-Through-2028"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 51
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?176684"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Mobile Robotics Market Size to Surpass USD 25.3 Billion at a 21.40% CAGR by 2030 - Report by Market Research Future (MRFR)"
     excerpt: "According to a comprehensive research report by Market Research Future (MRFR), \"Mobile Robotics Market Research Report, by Component, Navigation Type, Application,"
     publishedDateTime: 2022-09-22T15:30:00Z
@@ -44,6 +30,22 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 48
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg"
+        width: 700
+        height: 300
+        isCached: true
+  - title: "System on Chip (SoC) Market Expected to Reach USD 214.8 Billion at a CAGR of 8.30% CAGR by 2030 - Report by Market Research Future (MRFR)"
+    excerpt: "According to a comprehensive research report by Market Research Future (MRFR), \"System-On-Chip Market Research Report, Type, Application— Forecast till 2030\", the market"
+    publishedDateTime: 2022-09-21T13:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28948486/system-on-chip-soc-market-expected-to-reach-usd-214-8-billion-at-a-cagr-of-8-30-cagr-by-2030-repor"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28948486"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28948486"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 26
     images:
       - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg"
         width: 700

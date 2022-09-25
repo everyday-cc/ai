@@ -40,6 +40,31 @@ related:
         width: 1600
         height: 1000
         isCached: true
+  - title: "James Earl Jones gives rights to Darth Vader voice to Ukrainian AI company"
+    excerpt: "The 91-year-old actor, who has voiced Vader since the franchise’s first film, “Star Wars: A New Hope,” in 1977, signed over the rights to his vocal chops earlier this year."
+    publishedDateTime: 2022-09-25T00:29:00Z
+    webUrl: "https://nypost.com/2022/09/24/james-earl-jones-gives-rights-to-darth-vader-voice-to-ukrainian-ai-company/"
+    ampWebUrl: "https://nypost.com/2022/09/24/james-earl-jones-gives-rights-to-darth-vader-voice-to-ukrainian-ai-company/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/09/24/james-earl-jones-gives-rights-to-darth-vader-voice-to-ukrainian-ai-company/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 55
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/09/james-earl-jones-comp.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Disney replaces James Earl Jones's voice as Darth Vader with AI"
+    excerpt: "Actor James Earl Jones will no longer be tapped to voice his iconic Star Wars character Darth Vader thanks to artificial intelligence."
+    publishedDateTime: 2022-09-24T22:27:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/james-earl-jones-voice-as-darth-vader"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 17
 
 secured: "Y8Iu3hQYPFqvJkz0Wv2dDpwlREWmt/JuM+h+T06Lsi53xEFZswcMN+TKqK4JJftNMjrDpSMR3/I5mygX1h7oejYeBueE9umJaeHBJOA1ErXGfKIX9V8mpmsiHDUjXFPH4J0zPpBew2KQi9MmWTCNNoHqDQoeF6+YW+tMevaIjL5Ur0aJwrdcTEHMONbe5bzlvKzJhCO8LUl5j5HF4f/ywM6GUVUHh6O349vTc80h1e00GgwIaReDFIMgi/Xf7Nl2hc6bv09qPlQ29e1Hj3/1MA1mbRQZUDleE4TQQQ2iIl9rqdk31cMIOruWMtwbg1KFDvUx/Bc3YXlQb4WLxK79ZfiNjP8fBirRR5qnECvA+8Q=;nte7c9AYYWimjJDwQkRfoQ=="
 ---

@@ -2,6 +2,230 @@
   "page": 123,
   "value": [
     {
+      "path": "_news/2022-06-16-nuvei-launches-groundbreaking-machine-learning-solution-to-boost-risk-management.md",
+      "title": "Nuvei Launches Groundbreaking Machine Learning Solution to Boost Risk Management",
+      "excerpt": "Nuvei Corporation (“Nuvei” or the “Company”) (Nasdaq: NVEI) (TSX: NVEI), tomorrow’s payment platform, announces today the launch of a new risk management model underpinned by cutting-edge machine learning technology for its Instant Bank Transfer product in North America.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-847c6bb9f6b92d2d071375514df4a494",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-847c6bb9f6b92d2d071375514df4a494",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-ableai-exits-stealth-with-20m-to-help-big-lenders-speed-up-making-high-value-loans.md",
+      "title": "Able.ai exits stealth with $20M to help big lenders speed up making high-value loans",
+      "excerpt": "In the latest development, a startup called Able has built an engine ... computer vision and other forms of AI to ingest and process data related to loans as part of their evaluation process.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/16/able-ai-exits-stealth-with-20m-to-help-big-lenders-speed-up-making-high-value-loans/",
+      "originalUrl": "https://techcrunch.com/2022/06/16/able-ai-exits-stealth-with-20m-to-help-big-lenders-speed-up-making-high-value-loans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-951640954.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/16/able-ai-exits-stealth-with-20m-to-help-big-lenders-speed-up-making-high-value-loans/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/16/able-ai-exits-stealth-with-20m-to-help-big-lenders-speed-up-making-high-value-loans/amp/",
+      "publishedDateTime": "2022-06-16T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-ancient-tea-technique-finds-new-popular-recognition.md",
+      "title": "Ancient tea technique finds new popular recognition",
+      "excerpt": "The process of making chabaixi, a unique technique that creates a pattern on the surface of tea soup via water injection and agitation in Song Dynasty (960-1279), later becaming a",
+      "sourceUrl": null,
+      "webUrl": "https://www.globaltimes.cn/page/202206/1268327.shtml",
+      "originalUrl": "https://www.globaltimes.cn/page/202206/1268327.shtml",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-06-16/15eb179f-f0a5-4add-83e7-bf1195b17dec.jpeg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global Times",
+        "domain": "globaltimes.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-wipro-eros-investments-partner-to-scale-ai-based-solutions-to-global-media-industry.md",
+      "title": "Wipro-Eros Investments partner to scale AI-based solutions to global media industry",
+      "excerpt": "The solution will automate the manual content localization process of subtitling and dubbing with near human-level accuracy, driving significant cost and time savings for global media organizations and over-the-top (OTT) streaming platforms,",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/information-tech/wipro-eros-investments-partner-to-scale-ai-based-solutions-to-global-media-industry/articleshow/92257817.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/information-tech/wipro-eros-investments-partner-to-scale-ai-based-solutions-to-global-media-industry/articleshow/92257817.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-267230,msid-92258202/eros-partners-with-wipro-to-develop-a-speech-to-text-models-solution-for-the-global-media-and-entertainment-industry.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/information-tech/wipro-eros-investments-partner-to-scale-ai-based-solutions-to-global-media-industry/amp_articleshow/92257817.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/wipro-eros-investments-partner-to-scale-ai-based-solutions-to-global-media-industry/amp_articleshow/92257817.cms",
+      "publishedDateTime": "2022-06-16T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-baidu-again-reported-to-be-considering-selling-iqiyi-stake.md",
+      "title": "Baidu again reported to be considering selling iQiyi stake",
+      "excerpt": "Every Wednesday and Friday, TechNode’s Briefing newsletter delivers a roundup of the most important news in China tech, straight to your inbox.",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2022/06/16/baidu-again-reported-to-be-considering-selling-iqiyi-stake/",
+      "originalUrl": "https://technode.com/2022/06/16/baidu-again-reported-to-be-considering-selling-iqiyi-stake/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
+          "width": 540,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2022/06/16/baidu-again-reported-to-be-considering-selling-iqiyi-stake/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/06/16/baidu-again-reported-to-be-considering-selling-iqiyi-stake/",
+      "publishedDateTime": "2022-06-16T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-yseops-ai-natural-language-platform-scaled-by-sanofi-to-accelerate-medical-writing-and-reporting-processes.md",
       "title": "Yseop’s AI Natural Language Platform Scaled by Sanofi to Accelerate Medical Writing and Reporting Processes",
       "excerpt": "NEW YORK, June 16, 2022 (GLOBE NEWSWIRE) -- Yseop, the world-leading AI software company and pioneer in Natural Language Processing (NLP), today announced that Sanofi, the global healthcare ...",
@@ -902,223 +1126,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip.md",
-      "title": "Massachusetts Institute of Technology: Engineers build LEGO-like artificial intelligence chip",
-      "excerpt": "Imagine a more sustainable future, where cellphones, smartwatches, and other wearable devices don’t have to be shelved or discarded for a newer model. Instead, they could be upgraded with the latest s",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/",
-      "originalUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/",
-      "publishedDateTime": "2022-06-15T23:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Hardware",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-natural-language-processing-market-forecast-2022-2028-cagr-294.md",
-      "title": "Natural Language Processing Market Forecast [2022-2028] | CAGR 29.4%",
-      "excerpt": "Jun 16, 2022 (The Expresswire) -- The global “Natural Language Processing Market Size” is rising with a steady CAGR and expected to generate the highest revenue by 2029. Fortune Business ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-forecast-2022-2028-cagr-294-2022-06-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-forecast-2022-2028-cagr-294-2022-06-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T22:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-the-secret-of-smart-plugins-ai-powered-tools-for-mixing-mastering-and-more.md",
-      "title": "The secret of smart plugins: AI-powered tools for mixing, mastering and more",
-      "excerpt": "“You can read it as ‘we aim to make a better solution that takes some of the burden of your task off of you by means of state-of-the-art statistics software tech from the field of artificial ... deep learning (deep neural networks).”",
-      "sourceUrl": null,
-      "webUrl": "https://www.musicradar.com/news/secret-of-smart-plugins-ai-powered-tools-mixing-mastering",
-      "originalUrl": "https://www.musicradar.com/news/secret-of-smart-plugins-ai-powered-tools-mixing-mastering",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T21:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MusicRadar",
-        "domain": "musicradar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-driverless-trains-are-on-the-way-but-taking-the-first-step-will-be-difficult.md",
-      "title": "Driverless trains are on the way – but taking the first step will be difficult",
-      "excerpt": "“It’s perfectly feasible [for the Elizabeth Line to be driverless],” says Paul Thomas, a 30-year veteran of the rail industry who has worked on automation projects across Europe. “The ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/news/2022/06/16/driverless-trains-way-taking-first-step-will-difficult/",
-      "originalUrl": "https://www.telegraph.co.uk/news/2022/06/16/driverless-trains-way-taking-first-step-will-difficult/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/news/2022/06/15/TELEMMGLPICT000299749075_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T21:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-boca-raton-police-renewing-facial-recognition-program.md",
-      "title": "Boca Raton police renewing facial recognition program",
-      "excerpt": "BOCA RATON — The city of Boca Raton is letting its police force continue to participate in a statewide facial recognition program, joining hundreds of communities in Florida employing the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sun-sentinel.com/local/palm-beach/boca-raton/fl-ne-facial-recognition-database-20220615-vnejpcadizfkrgwyrk62mg66hq-story.html",
-      "originalUrl": "https://www.sun-sentinel.com/local/palm-beach/boca-raton/fl-ne-facial-recognition-database-20220615-vnejpcadizfkrgwyrk62mg66hq-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sun-sentinel.com/resizer/RLanypOEFc2VM6lc70vyRoiHo7Q=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/GFCOOH6LS5ELBD5KA6RDIZ5G64.JPG",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T20:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sun Sentinel",
-        "domain": "sun-sentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

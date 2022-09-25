@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-10-artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story.md",
+      "title": "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story",
+      "excerpt": "New Jersey, NJ -- (SBWIRE) -- 08/10/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ...",
+      "sourceUrl": null,
+      "webUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-35",
+      "originalUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-35",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insurancenewsnet.com",
+        "domain": "insurancenewsnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-08-09-asia-pacific-artificial-intelligence-in-fintech.md",
       "title": "Asia Pacific Artificial Intelligence In Fintech...",
       "excerpt": "The \"Asia Pacific Artificial Intelligence In Fintech Market Size, Share & Industry Trends Analysis Report By Component (Solutions and Services), By Deployment",
@@ -1222,40 +1267,6 @@
       "provider": {
         "name": "ARN",
         "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-ibm-aims-to-capture-growing-market-opportunity-for-data-observability-with-databandai-acquisition.md",
-      "title": "IBM Aims to Capture Growing Market Opportunity for Data Observability with Databand.ai Acquisition",
-      "excerpt": "By using Databand.ai with IBM Observability by Instana APM and IBM Watson Studio, IBM is well-positioned to address the full spectrum of observability across IT operations. For example, Databand.ai capabilities can alert data teams and engineers when the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/ibm-aims-capture-growing-market-opportunity-data-observability-databandai-acquisition",
-      "originalUrl": "https://www.asiaone.com/business/ibm-aims-capture-growing-market-opportunity-data-observability-databandai-acquisition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
         "images": null,
         "publishers": null,
         "authors": null

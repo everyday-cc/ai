@@ -52,16 +52,7 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 34
-  - title: "Tecnotree to Accelerate Digital Transition to the Cloud with Microsoft Azure Integration"
-    excerpt: "Tecnotree's Digital Suite-5 for consumers and business monetization is built natively to run on Kubernetes and is aligned with the Microsoft Azure cloud to drive multi-tenant, multi-region transformations that allow enterprises to lower total-cost-of-ownership (TCO) by eliminating significant upfront investments."
-    publishedDateTime: 2022-09-20T10:25:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 25
 
-secured: "yVLzg7sYPysV5xnDdIdoVAUTZeqp0esI6nO7xEQ3GaSFrrDeZd8ABxmJi3dvBfSHutT3O05FAEkU5qj91nanyV9xRpLYne4gseKwVGyzyzT2Ibfn39BS0K82GOYSDiy46x4Fo3NFjDQQYhFYRacwJcazGrVO4y5M8eENQ+HTFNI3EkzHRFPDjRZ6oJdn8ubgjlSotl115Ps+b0Iq0dUrqOwFj29ROQ3BgKydefQbLGG/4MlAMyj6y7iD8m/ll7Z6WZblG+k5k5WY/XS90UqMJ2vqzxnbqQgt1VG+3Ju8AOxNG5wiUpsRdSMblPrazWAvp9JI0CwH0DAG8Xt+SC/TlAQARTe+iM+k0QHb9XJh6iY=;2vYkG11SOFNcyseMs1A9QA=="
+secured: "CMnfYhdNU2fNuIWZQLeR+63cWudXtFV97wRPeD/UOXr3UlMTSe4R1oFS5gldvaqZ2mtiCjjDTow9OxfguI9qDkLjJ+DC+MVIgGFtLZzlNtXP38gfLwN03IS6Dg2cFUZL5P//tA6ZXG1T7fd39O1+sFvFn7yNw+IAufol26nslAuou1eOzp/JI5CiOq6pXH/Sh1FEuEG/b3/8meN6BIlj2yOKqq/Oy/tu1eto+7fcxYxwzAavoafGuEeplJj75cwHXqEhpEWOLpb2k2lwkQC77ufEf2tvOUKfWcN+eUg7GlSfJ2VybElsRvyf1MQpptBoaIAbSmyR/mLNRLuQ6DgTUpY9j3S/uKd6Wp6loGmwj6N4NA7KzmwxdkvG9eEt5rc+9MEDOxz6dFIJMCI8+a7R4SYre/flmsp+Cqo3VItkch5bGSPtubd+6qWCA/MgBpZHnRJjnvpc7LdTFCwDHrp09uSrgxFRLRRpyVRc7WL0R1XfSTlEoCXuzbqe1pCAjQDXKhKFcwhP1RscxzVkNB5LVw==;7wImRWZQbjZJsVIKUPNhLw=="
 ---
 

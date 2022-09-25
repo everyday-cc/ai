@@ -2,6 +2,232 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2022-09-03-european-robotic-arm-testing-on-the-international-space-station.md",
+      "title": "European Robotic Arm Testing On The International Space Station",
+      "excerpt": "The European Robotic Arm (ERA) successfully completed the first transfer following commands from cosmonauts inside the Space Station last week. Teams in Moscow, Russia and at ESA’s control room ...",
+      "sourceUrl": null,
+      "webUrl": "https://spaceref.com/space-stations/european-robotic-arm-testing-on-the-international-space-station/",
+      "originalUrl": "https://spaceref.com/space-stations/european-robotic-arm-testing-on-the-international-space-station/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.spaceref.com/wp-content/uploads/2022/09/03202100/eva_arm-1.jpg",
+          "width": 2047,
+          "height": 1150,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SpaceRef",
+        "domain": "spaceref.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-03-the-failed-monorail-idea-that-would-have-seen-driverless-cabs-carrying-passengers-around-cardiff.md",
+      "title": "The failed monorail idea that would have seen driverless cabs carrying passengers around Cardiff",
+      "excerpt": "Could you imagine a public transport system where driverless cabs would be taken you and your friends and family around Cardiff? Well, back in 2002, the capital was looking to the future in a bid ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.walesonline.co.uk/lifestyle/nostalgia/failed-monorail-idea-would-seen-24902645?int_source=nba",
+      "originalUrl": "https://www.walesonline.co.uk/lifestyle/nostalgia/failed-monorail-idea-would-seen-24902645?int_source=nba",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.walesonline.co.uk/lifestyle/nostalgia/article24902529.ece/ALTERNATES/s1200/0_JS44547328.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.walesonline.co.uk/lifestyle/nostalgia/failed-monorail-idea-would-seen-24902645.amp",
+      "cdnAmpWebUrl": "https://www-walesonline-co-uk.cdn.ampproject.org/c/s/www.walesonline.co.uk/lifestyle/nostalgia/failed-monorail-idea-would-seen-24902645.amp",
+      "publishedDateTime": "2022-09-02T15:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wales Online",
+        "domain": "walesonline.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-03-monarch-tractor-debuting-electric-tractors-soon-nbspand-they-can-go-driverless.md",
+      "title": "Monarch Tractor debuting electric tractors soon —&nbsp;and they can go driverless",
+      "excerpt": "Editor's note: As part of the Bay Area Inno Awards, the San Francisco Business Times and Silicon Valley Business Journal are highlighting nine startups from nine categories across the innovation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/sanfrancisco/inno/stories/awards/2022/09/02/monarch-tractors-electric-tractors.html",
+      "originalUrl": "https://www.bizjournals.com/sanfrancisco/inno/stories/awards/2022/09/02/monarch-tractors-electric-tractors.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-02T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-03-self-driving-tech-firm-aurora-mulls-sale-to-apple-or-microsoft-bloomberg-news.md",
+      "title": "Self-driving tech firm Aurora mulls sale to Apple or Microsoft - Bloomberg News",
+      "excerpt": "Aurora Innovation Inc Chief Executive Chris Urmson recently outlined several options for the self-driving tech firm to combat challenging market conditions, including a possible sale to Apple Inc or Microsoft Corp ,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/self-driving-company-aurora-mulling-possible-sale-apple-or-microsoft-bloomberg-2022-09-02/",
+      "originalUrl": "https://www.reuters.com/technology/self-driving-company-aurora-mulling-possible-sale-apple-or-microsoft-bloomberg-2022-09-02/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/yxjAESGr5tcvKUPS6TJ_kG3SSN4=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XTDFE4XF4FPW7EBD4TNEHLL3CM.jpg",
+          "width": 728,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-02T13:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-03-ubtech-announces-global-debut-of-intelligent-healthcare-robots-and-solutions.md",
+      "title": "UBTECH announces global debut of intelligent healthcare robots and solutions",
+      "excerpt": "At the event, UBTECH announced its strategy of creating a smart elderly-care system with several sub-systems within specific elderly-care scenarios. They also launched several robotics products for the healthcare and elderly-care domain.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ubtech-announces-global-debut-of-intelligent-healthcare-robots-and-solutions-1031722479",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ubtech-announces-global-debut-of-intelligent-healthcare-robots-and-solutions-1031722479",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1890962/image_1.jpg",
+          "width": 400,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-02T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-09-03-researchers-suggest-more-effective-way-for-automatic-speech-recognition.md",
       "title": "Researchers suggest more effective way for automatic speech recognition",
       "excerpt": "Popular voice assistants such as Siri and Amazon Alexa have made automated speech recognition (ASR) available to the general public. Despite decades of development, ASR models suffer with consistency and dependability,",
@@ -925,231 +1151,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-kiwi-expat-dave-ferguson-on-founding-14b-driverless-vehicle.md",
-      "title": "Kiwi expat Dave Ferguson on founding $14b driverless vehicle",
-      "excerpt": "Kiwi singer Mel Parsons is back with her fifth studio album, Slow Burn which is out on Friday. Video / Newstalk ZB The Queen leaves Buckingham Palace for the last time, have we already been in a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nzherald.co.nz/business/kiwi-expat-dave-ferguson-on-founding-14b-driverless-vehicle/HS5XMAH3OLHNN4K47CQSUAC4FY/",
-      "originalUrl": "https://www.nzherald.co.nz/business/kiwi-expat-dave-ferguson-on-founding-14b-driverless-vehicle/HS5XMAH3OLHNN4K47CQSUAC4FY/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nzherald.co.nz/resizer/i2CMQvmJ_bWJ_Yt2zWDGw2uDTrU=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/NPMMK34HQFJGFJUHTP5BWJQLIQ.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Zealand Herald",
-        "domain": "nzherald.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-study-new-treatment-increases-cognitive-function-in-down-syndrome-patients.md",
-      "title": "Study: New treatment increases cognitive function in Down Syndrome patients",
-      "excerpt": "PARIS (AFP) — A new hormone treatment improved the cognitive function of six men with Down Syndrome by 10-30 percent, scientists said Thursday, adding the “promising” results may raise hopes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/study-new-treatment-increases-cognitive-function-in-down-syndrome-patients/",
-      "originalUrl": "https://www.timesofisrael.com/study-new-treatment-increases-cognitive-function-in-down-syndrome-patients/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2022/09/000_32HG96V-640x400.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/study-new-treatment-increases-cognitive-function-in-down-syndrome-patients/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/study-new-treatment-increases-cognitive-function-in-down-syndrome-patients/amp/",
-      "publishedDateTime": "2022-09-01T21:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-teachers-union-say-to-new-face-recognition-app-education-minister-satyanarayan.md",
-      "title": "Teachers’ union say to new face recognition app: Education Minister Satyanarayan",
-      "excerpt": "The minister expressed confidence that technical glitches will not be a hindrance and they will be sorted out in the due course.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/cities/vijayawada/2022/sep/02/teachers-union-sayto-new-face-recognition-appeducation-ministersatyanarayan-2494005.html",
-      "originalUrl": "https://www.newindianexpress.com/cities/vijayawada/2022/sep/02/teachers-union-sayto-new-face-recognition-appeducation-ministersatyanarayan-2494005.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/9/2/w600X390/faceapp.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/cities/vijayawada/2022/sep/02/teachers-union-sayto-new-face-recognition-appeducation-ministersatyanarayan-2494005.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/vijayawada/2022/sep/02/teachers-union-sayto-new-face-recognition-appeducation-ministersatyanarayan-2494005.amp",
-      "publishedDateTime": "2022-09-01T17:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-nvidia-says-us-government-allows-ai-chip-development-in-china.md",
-      "title": "Nvidia says U.S. government allows A.I. chip development in China",
-      "excerpt": "Nvidia said in an SEC filing Wednesday that the U.S. government is restricting sales of high-performance AI chips for servers, the A100 and H100, to China and Russia. Sales of both chips are still ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/09/01/nvidia-says-us-government-allows-ai-chip-development-in-china.html",
-      "originalUrl": "https://www.cnbc.com/2022/09/01/nvidia-says-us-government-allows-ai-chip-development-in-china.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107067150-1653504509165-gettyimages-1399238927-0j5a8860_7b828a63-4abc-4260-8e26-82fd1b37b3b6.jpeg?v=1653504562",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/09/01/nvidia-says-us-government-allows-ai-chip-development-in-china.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/09/01/nvidia-says-us-government-allows-ai-chip-development-in-china.html",
-      "publishedDateTime": "2022-09-01T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-boy-paralyzed-in-highland-park-shooting-may-have-cognitive-loss.md",
-      "title": "Boy paralyzed in Highland Park shooting may have cognitive loss",
-      "excerpt": "According to the family, they are now seeing some patterns of behavior that could indicate cognitive loss. Therapists are noticing short term memory loss, issues with word recovery and loss of ...",
-      "sourceUrl": null,
-      "webUrl": "https://wgntv.com/news/highland-park-parade-shooting/boy-paralyzed-in-highland-park-shooting-may-have-cognitive-loss/",
-      "originalUrl": "https://wgntv.com/news/highland-park-parade-shooting/boy-paralyzed-in-highland-park-shooting-may-have-cognitive-loss/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wgntv.com/wp-content/uploads/sites/5/2022/08/Cooper_Roberts_new.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wgntv.com/news/highland-park-parade-shooting/boy-paralyzed-in-highland-park-shooting-may-have-cognitive-loss/amp/",
-      "cdnAmpWebUrl": "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/news/highland-park-parade-shooting/boy-paralyzed-in-highland-park-shooting-may-have-cognitive-loss/amp/",
-      "publishedDateTime": "2022-09-01T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGN-TV",
-        "domain": "wgntv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
