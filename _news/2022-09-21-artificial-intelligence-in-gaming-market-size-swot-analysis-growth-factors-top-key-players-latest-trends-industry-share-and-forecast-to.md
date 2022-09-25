@@ -45,6 +45,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 18
+  - title: "Global Deep Learning Chipset Market | Value and Size Expected to Reach USD 14178.14 Million | Growing at CAGR of 15.04% | Forecast Period 2022-2027"
+    excerpt: "With tables and figures helping analyze worldwide Global Deep Learning Chipset market trends, this research provides key statistics on the state of the industry and is a valuable source of guidance and direction for companies and individuals interested in the market."
+    publishedDateTime: 2022-09-23T07:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-value-and-size-expected-to-reach-usd-1417814-million-growing-at-cagr-of-1504-forecast-period-2022-2027-2022-09-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 11
 
 secured: "ZGVD3bh/dzEd1z80D5p7vE39LHnvld8f5mDONG9gKmyRbvb7/jtihNwWQ/2f7KzbVgjiUcOchJpPh97dKygnJv71Ui9pN3zPQjohdJIPiJrNI4iIBWTIQv8F/pMkFI714OkVntLgkNlgW7VE/VR1jYciYYv7oD3OkAvLvHyGlkpzOYbvygBEbWV0WJKQnyA1X2OxZdacsXed1mZqiQbt4CiBM2B/AeAzqHSk4B0AIS5kUvycm6MTqIFQKd37vaTLUb2ZPa9AEnFL7Am+NO2eJbwkVw+PIKv5c0im06ga7p/bzg7G2yejI6/xXNmRYHMlzXSf3Gy1AYHlfXj63NJH+iM3OYL66zYUeJpCTtnpk2Q=;iBKpLujEcG4KAwgu4sqKWQ=="
 ---

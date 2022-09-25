@@ -24,17 +24,6 @@ images:
     height: 1333
     isCached: true
 
-related:
-  - title: "Facial recognition: Spot the hidden word in this optical illusion"
-    excerpt: "Viewers are bruising their noodles trying to solve this Wordle -esque optical illusion, in which the goal is identify the hidden word within the face, as seen in this video with 1.5 million views on TikTok."
-    publishedDateTime: 2022-09-20T19:20:00Z
-    webUrl: "https://nypost.com/2022/09/20/facial-recognition-spot-the-hidden-word-in-this-optical-illusion/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 19
-
 secured: "0B19SDJGyxdx4xnEV/hHsA8M1aPyxGbBCBSTHxKUABEzPgYJCGC4Vjabt9aEQBXg5NhZWXyvXUTyrDARdIhd/2xp9iZjFs1WLhe4gcwfUrUWeH2/po9DLxp9LMVQg6vb7/3kg5ameCDeC9MxgYmUmXdUiiajuBYJVTpgTsuKqC0yhoYMeKMpRPp3fYI5JpBkw5qUgrna3ErQjmoaKkqgsoUYHfhdxMrgdwAhvF2RgPZb8VNZ+MZVYBzUj9gGD9IgD3PaB/WVE2u6J69cc9Ba5Z4j3biD4fngRuq9m7sl2N5+ndG9W4dZVrIVBPeFQojcRH1UDcf1zZWtEwwmafID80+s016GjR5ojCm9CcZfnG13EoyQmzV4M6lmQfNweEveowv/SX9TRJgffmIFFVC0G0syAJeSyXaiX0ZlX1PvUtuiwJtlEbj3kydT29hoPBGykot5aQxz5Ersf9MoKbIaWE2Tn4p8zScsG6Qvbt7Qw/2ohqCswBo9gLHT8HYzX5KCypvzFccxJ/WfMYg98xQpXg==;w8fvbSZOdrshvPzHXHkLjA=="
 ---
 

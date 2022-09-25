@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Robotic Eyes Attached to Front of Self-Driving Cars May Improve Safety"
-    excerpt: "Scientists in Japan have found that sticking giant googly-looking eyes in front of self-driving cars may improve safety for pedestrians. Tesla still does not classify Autopilot-enabled vehicles as ..."
-    publishedDateTime: 2022-09-20T20:48:00Z
-    webUrl: "https://www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595"
-    ampWebUrl: "https://www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 74
-    images:
-      - url: "https://d.newsweek.com/en/full/2119247/pedestrians-crossing-road.jpg"
-        width: 2058
-        height: 1330
-        isCached: true
   - title: "The Unexpected Truth About Self-Driving Cars According To General Motors"
     excerpt: "The future is self-driving, or so say evangelists that are betting big on a future where AI-powered machines — including vehicles — will perform intended tasks on their own. Self-driving cars ..."
     publishedDateTime: 2022-09-21T15:14:00Z
@@ -53,20 +37,29 @@ related:
         width: 1600
         height: 897
         isCached: true
-  - title: "Can Robotic Eyes on Self-Driving Cars Reduce Accidents?"
-    excerpt: "Like a character from the Pixar movie Cars, a self-driving golf cart was fitted with two large, remote-controlled robotic eyes."
-    publishedDateTime: 2022-09-22T14:29:00Z
-    webUrl: "https://www.manufacturing.net/automotive/news/22458255/can-robotic-eyes-on-selfdriving-cars-reduce-accidents"
+  - title: "China to set self-driving standard"
+    excerpt: "Industry analysts said the ISO's acceptance confirms that China is spearheading the research and development as well as the application of self-driving technologies, and promoting their large-scale commercial use."
+    publishedDateTime: 2022-09-23T23:57:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202209/24/WS632e3ac7a310fd2b29e797fd.html"
     type: article
     provider:
-      name: Manufacturing
-      domain: manufacturing.net
+      name: 中国日报网
+      domain: chinadaily.com.cn
     quality: 24
     images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/09/Screen_Shot_2022_09_21_at_8.30.20_AM.632b125311c11.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C27%2C1156%2C650&w=1200"
-        width: 1156
-        height: 650
+      - url: "https://img2.chinadaily.com.cn/images/202209/24/632e3ac7a310fd2beca35450.jpeg"
+        width: 658
+        height: 438
         isCached: true
+  - title: "Video game actors are worried about AI tech taking over their jobs"
+    excerpt: "Self-service checkouts, lights-out manufacturing, self-driving cars, and wars raged by robotic drones – automation is coming for everyone’s jobs eventually, and our capitalist systems aren’t equipped to carry us through it."
+    publishedDateTime: 2022-09-22T02:33:00Z
+    webUrl: "https://www.news.com.au/technology/gaming/video-game-actors-are-worried-about-ai-tech-taking-over-their-jobs/news-story/71d80e74b5f001ee56664be839bc18f4"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 21
 
 secured: "jrQqWsOIECmKDuT6NT1tuEY7goETObfA52CkvxQx7tYcTE88xiMQQLSulme6X3Y5wZd0M2kIdQNn9jLbn7Q/1aq8Wc0MNv1dHtwblkxNQDNR0tWuborGNOLi/gOpIm0Sg9rA4AW/QOscroVDbnVHX9d7579MIWqm6hWiAf5+PQvXx85zyX9QRwkZVvzPiYpQYQUB9dHsj9EcAAhZfLkY+LxTOM1C4VXKY/fqddBj4irtP2ips1WMFnSovRzikE8IJ2Q+V77/Fv3O6KD2XVR6Uo9Bp/BiVPDinIvhZaDrmC6OQiRcanfumpZMDVXYx9+SgdesesvTSRzow0/ZdqY2tltjLBPsYfYVv5EpgSBLyGo=;G5Bxs4wErTnC2D7gd+M4Eg=="
 ---

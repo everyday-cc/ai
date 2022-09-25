@@ -19,31 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia introduces DLSS3 to generate AI-powered frames with 4X performance"
-    excerpt: "Nvidia's DLSS 3 will use AI to estimate the best way to fill out images in the company's latest graphics cards."
-    publishedDateTime: 2022-09-20T22:20:00Z
-    webUrl: "https://venturebeat.com/games/nvidia-introduces-dlss3-to-generate-ai-powered-frames-with-4x-performance/"
-    ampWebUrl: "https://venturebeat.com/games/nvidia-introduces-dlss3-to-generate-ai-powered-frames-with-4x-performance/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/nvidia-introduces-dlss3-to-generate-ai-powered-frames-with-4x-performance/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 88
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/09/racer-x-3.jpg?w=1200&strip=all"
-        width: 1200
-        height: 686
-        isCached: true
-  - title: "Nvidia moves Hopper GPUs for AI into full production"
-    excerpt: "Welcome Hopper. Nvidia announced today that the Nvidia H100 Tensor Core graphics processing unit (GPU) is in full production."
-    publishedDateTime: 2022-09-20T19:41:00Z
-    webUrl: "https://venturebeat.com/games/nvidia-moves-hopper-gpus-for-ai-into-full-production/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
   - title: "NVIDIA's new AI model quickly generates objects and characters for virtual worlds"
     excerpt: "NVIDIA is looking to take the sting out of creating virtual 3D worlds with a new artificial intelligence model. GET3D can generate characters, buildings, vehicles and other types of 3D objects, NVIDIA says."
     publishedDateTime: 2022-09-23T13:33:00Z
@@ -58,43 +33,15 @@ related:
         width: 1280
         height: 680
         isCached: true
-  - title: "Nvidia revealed new AI-powered gaming chips to be manufactured by TSMC"
-    excerpt: "Nvidia Corp unveiled new flagship chips for video gamers that use artificial intelligence to enhance graphics."
-    publishedDateTime: 2022-09-22T04:00:00Z
-    webUrl: "https://techwireasia.com/2022/09/nvidia-revealed-new-ai-powered-gaming-chips-to-be-manufactured-by-tsmc/"
+  - title: "Nvidia unveils next-gen RTX GPUs, AI workflows in the cloud"
+    excerpt: "New cloud services to support AI workflows and the launch of a new generation of GeForce RTX GPUs featured yesterday in Nvidia CEO Jensen Huang’s GTC keynote. “Computing is advancing at incredible speeds,"
+    publishedDateTime: 2022-09-22T09:48:00Z
+    webUrl: "https://it-online.co.za/2022/09/22/nvidia-unveils-next-gen-rtx-gpus-ai-workflows-in-the-cloud/"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 56
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2022/09/nvidia-geforce-rtx-4090-gpu-1024x576.png"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "NVIDIA's Lovelace GPU Upgrades Graphics with AI"
-    excerpt: "A new flagship family of graphics chips developed by NVIDIA is powered by its next-generation Ada Lovelace architecture, which leverages artificial intelligence (AI) to create more realistic images in games."
-    publishedDateTime: 2022-09-22T21:32:00Z
-    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21251092/electronic-design-nvidias-lovelace-gpu-upgrades-graphics-with-ai"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 54
-    images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/09/Capture.632cc268663cf.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Nvidia launches flagship chip with AI capabilities"
-    excerpt: "Nvidia Corp launched new flagship chips called Ada Lovelace for video gamers that use artificial intelligence (AI) to improve graphics."
-    publishedDateTime: 2022-09-21T08:14:00Z
-    webUrl: "https://www.itworldcanada.com/post/nvidia-launches-flagship-chip-with-ai-capabilities"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 34
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 21
 
 secured: "VMVx2TE8/i+PInUvPANQOHf5TXJKcxV0v1BKMDFl98KBGgShcJB2eVv2k2MOji3DV6kxDO3KuWFBQfyS6oSr4bAXd9gU3uum3EtoaqRBcOXpfms3Mc5ruofSiZiUvOvUQIkQFI5+S55P2hd0xFAbgCHYB0ST4dYIoZpTrlG1GTduPY7eLeVbHe/1H28hYemV8lfsfTu+Gy/8noD9sFUf88wrPjsS7He//s6Hzoj7XqGQMNcLmQi8mpsnqPpf8kRes8Mc9JVe8WYfRQ98d2hTYnobLEDW0Uq6O1hjy3QKF3HOj1E5o1/Arce0ZWEbmP+2CyZPge5qXttToFYFuaR3GQp+4hoB7buup3cirF57yTEqDUHDqXK9KL394LVbwPsBffUv+g199DCoKiKSEKdBSFGzvNSRqh/JI1VmLtjSawuvbsAcRNYNYgwChtm7gqDfTZP3UtbfKA8HNhfw1s5DcK/D+6mkH8ZKvN9ccLPZ/81BA4Wl8Nmkh23x3NDyQns6SPgDAzmQQC2F8eeDmdo5jA==;/RM3vr5+NagkasWSKE0zsQ=="
 ---

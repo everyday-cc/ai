@@ -24,22 +24,6 @@ images:
     height: 408
     isCached: true
 
-related:
-  - title: "HEAVY.AI Launches Industry’s First Digital Twin for Telco Network Planning, Building and Operations"
-    excerpt: "HEAVY.AI, an innovator in advanced analytics, today announced HeavyRF, an extension of the company’s deep analytics"
-    publishedDateTime: 2022-09-20T20:34:00Z
-    webUrl: "https://www.datanami.com/this-just-in/heavy-ai-launches-industrys-first-digital-twin-for-telco-network-planning-building-and-operations/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 25
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/09/heavyai-2-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
-
 secured: "fKJU+5t2Bt5tywYv9e/N3Bfx8TqEsQsJ23qcUQU5OT2ugWHiKALZEzFxqyF4gy11aSyVch64ZkOWVlQ4xYJEt1s+w6CUGFcFO0JqMr323TRFvew+QfkWM8dS0tOWcCWwvbOHH00JE9ZgavT3vy1l6OQejcIeisgeMbujvBTVN/Az3jaloSaW/RGE4F/Chj7xr3MqrmYxASNoDBUDAqzfQ6f3VUSIhkYPuWEUugOJvw402+Fbvhw5auGp7lExbdnxmPz/lZUkuUEpXeZMyg2ZfVK9mWAN4EOqUPS812uhdFIKk4pauKsVwrBru6s+UOtS2jDmNYFzBL2+ILq3SzrukKNwBZHSGfyQLtcznWWe54BJ9Kaq5gZwQZsbWRD7NsGjCAgDuUPwyFAAzldYbagCcwr5qwsc9COSmbRlKH3nTOuo6M2N8De2hp8kKg3dctM8oxFW+MKnS88i7LbYgUitqmQC7k7KBfF1pDGv6ZBCTEkxfFexKRCzjAK1oMyyxyUKodX1w06U58f63KlQfZLbow==;0JrAbQUKGhPQU2DpMHyZYg=="
 ---
 

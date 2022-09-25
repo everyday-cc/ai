@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/james-earl-jones-retires-darth-vader-ai-2
 webUrl: "https://www.engadget.com/james-earl-jones-retires-darth-vader-ai-201559553.html"
 type: article
 quality: 56
-heat: 86
+heat: 87
 published: true
 
 provider:

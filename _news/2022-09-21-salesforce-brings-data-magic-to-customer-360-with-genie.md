@@ -25,52 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Salesforce built a data lake to transform how customer data moves on the platform"
-    excerpt: "Genie is a new data integration model that underlies the Salesforce platform with the aim of moving data wherever it’s needed most -- and doing it fast."
-    publishedDateTime: 2022-09-20T22:09:00Z
-    webUrl: "https://techcrunch.com/2022/09/20/salesforce-genie-completely-transforms-the-way-data-moves-on-the-platform/"
-    ampWebUrl: "https://techcrunch.com/2022/09/20/salesforce-genie-completely-transforms-the-way-data-moves-on-the-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/20/salesforce-genie-completely-transforms-the-way-data-moves-on-the-platform/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 69
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-965917342.jpg?resize=1200,779"
-        width: 1200
-        height: 779
-        isCached: true
-  - title: "Salesforce deepens partnership with AWS"
-    excerpt: "Salesforce has expanded its partnership with Amazon Web Services (AWS) to enable customers to build custom artificial intelligence (AI) models using Amazon SageMaker, AWS’s machine learning (ML) modeling service,"
-    publishedDateTime: 2022-09-21T18:38:00Z
-    webUrl: "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955"
-    ampWebUrl: "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955?amp=1"
-    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955?amp=1"
-    type: article
-    provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 59
-    images:
-      - url: "https://i.itbusiness.ca/wp-content/uploads/2022/09/GettyImages-1040557296.jpg"
-        width: 2000
-        height: 907
-        isCached: true
-  - title: "Salesforce goes real-time in CRM upgrade"
-    excerpt: "Salesforce has taken a leap into the world of real-time data management with the integration of customer data platform (CDP) capabilities into its flagship Customer 360 CRM platform."
-    publishedDateTime: 2022-09-20T22:49:00Z
-    webUrl: "https://www.cmo.com.au/article/701714/salesforce-goes-real-time-crm-upgrade/"
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 56
-    images:
-      - url: "https://d1902livswy8rb.cloudfront.net/dimg/800x800/dimg/customer-graph.png"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Salesforce unveils new real-time data platform Genie"
     excerpt: "Salesforce has announced the arrival of Salesforce Genie, its new hyperscale data platform that creates real-time customer profiles to help businesses deliver personalized experiences. Detailing the platform at its Dreamforce ’22 event,"
     publishedDateTime: 2022-09-21T10:17:00Z
@@ -155,24 +109,15 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Salesforce and AWS Announce Expansion of Strategic Partnership"
-    excerpt: "Salesforce and AWS today announced new integrations between the Salesforce Platform and Amazon SageMaker. The integrations will enable"
-    publishedDateTime: 2022-09-20T20:17:00Z
-    webUrl: "https://www.datanami.com/this-just-in/salesforce-and-aws-announce-expansion-of-strategic-partnership/"
+  - title: "Salesforce deepens partnership with AWS"
+    excerpt: "Salesforce has expanded its partnership with Amazon Web Services (AWS) to enable customers to build custom artificial intelligence (AI) models using Amazon SageMaker, AWS’s machine learning (ML) modeling service,"
+    publishedDateTime: 2022-09-21T22:32:00Z
+    webUrl: "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
+      name: IT World Canada
+      domain: itworldcanada.com
     quality: 19
-  - title: "Dreamforce 2022: the biggest Salesforce and Slack news"
-    excerpt: "Salesforce’s Genie customer data platform, a preview of a canvas feature in Slack and an open beta of the rebuilt, more modular Slack are among the biggest announcements at Salesforce’s Dreamforce 2022 conference."
-    publishedDateTime: 2022-09-20T20:39:00Z
-    webUrl: "https://www.crn.com.au/news/dreamforce-2022-the-biggest-salesforce-and-slack-news-585505"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 4
 
 secured: "n8RVn7KyQ4VJL2iSjkbDcOYYUQup0SUQkIbxBpbgmLjiLMxlu1AGz9TA/oQbiGGynRZqNdA/1eSmDIouXPp7sgwAKpoaVo9VLllxZrdc66TLls23Q8x7FafnIlexmjpliUi7Rsvzmz1YtGQ0ThBhWhWqz10TVBw1BgG3ShSL4/vWTUGwXStKuVWtkheldzyY1nksMgWbQN29eDwtiemy4ZzKBy+Hj8jEKQiGKKxRI8RlmDhPBTsWrEMmE3cft7vKhnEvYbYv7sXLrtfHAQBjtmgjUDSW532gLQMofLj6B4pz5stRQLgYgrtN2hzi2yPWzsFQKoPzVwJS2tI/a/wbyLINkxkYKBS82bGJEJJBlCjZrYoZsBldoYDzorCjs9FrebwD1DQHZGS4A9mB2yT9ID4VxDS8Q0OZ616mcSqv+H+XCuESBuY9k3RaerEPCinKUs1pfOVlrexzDtCLJGgjU9VX/hAsmk9XnUk8XlWcC/bx4qRB7n/lYDyuvauPIezscHqk3zONGfBZxlJyx/Ms0Q==;K7YN8ln28uw3dqooAbjUlQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.manufacturing.net/automotive/news/22458255/can-robotic
 webUrl: "https://www.manufacturing.net/automotive/news/22458255/can-robotic-eyes-on-selfdriving-cars-reduce-accidents"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,47 +23,6 @@ images:
     width: 1156
     height: 650
     isCached: true
-
-related:
-  - title: "Robotic Eyes Attached to Front of Self-Driving Cars May Improve Safety"
-    excerpt: "Scientists in Japan have found that sticking giant googly-looking eyes in front of self-driving cars may improve safety for pedestrians. Tesla still does not classify Autopilot-enabled vehicles as ..."
-    publishedDateTime: 2022-09-20T20:48:00Z
-    webUrl: "https://www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595"
-    ampWebUrl: "https://www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 74
-    images:
-      - url: "https://d.newsweek.com/en/full/2119247/pedestrians-crossing-road.jpg"
-        width: 2058
-        height: 1330
-        isCached: true
-  - title: "The Unexpected Truth About Self-Driving Cars According To General Motors"
-    excerpt: "The future is self-driving, or so say evangelists that are betting big on a future where AI-powered machines — including vehicles — will perform intended tasks on their own. Self-driving cars ..."
-    publishedDateTime: 2022-09-21T15:14:00Z
-    webUrl: "https://www.slashgear.com/1018226/the-unexpected-truth-about-self-driving-cars-according-to-general-motors/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 53
-    images:
-      - url: "https://www.slashgear.com/img/gallery/the-unexpected-truth-about-self-driving-cars-according-to-general-motors/l-intro-1663772176.jpg"
-        width: 1600
-        height: 897
-        isCached: true
-  - title: "Can eyes on self-driving cars reduce accidents?"
-    excerpt: "Self-driving vehicles seem to be just around the corner. Whether they'll be delivering packages, plowing fields or busing kids to school, a lot of research is underway to turn a once futuristic ..."
-    publishedDateTime: 2022-09-22T16:14:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/09/220920100807.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 34
 
 secured: "6FLWQbdSNxLw0wj4X3yLWOnwsaF9GVSkfaVbnLQlzwb1fN4Jy6pj3CPYGHkR7qEABHv499bnLKMutGRI24qiG4X9e4/4ERMg/Al6w4mpxyEp39mgcdhf65R7iNlpN/aPdvvFbJKFwqK2nD07GMlsLfTjqPgNRoPte5pazkg+fnkL/h7wXvHZHRWTaHZDaM8FWfnpZJK5LK5hhr0EvbNQyl1Ram27PiSVKh77vUFKEoUODVmGmUtk334TOc0zDh/hi64Mx2IlLp5swOrSZ7l2UutFhajPqbsHKwaPzXBz24k927FdPGDV06mZ97qIL86NjR9VTn1qDRUJw6iPq1IAKOLF2aGqb0mFRwgscmn05CfgemxheZ2B9TgDHczirDWLY/xi40Y/lljG/VCNvhJv1NLRR3NuUkI9PJxn6MWTy3TTJazceFEOleUtEEp6/NPXKyV7w1A/fUYM9kfmh4oGNxnIEAGyO/bAGvNu24w4Qeg7axUqmloJ30ZFXFgKbF3BC7fzj0WjcEMvp+REA7PRBA==;x5zcme73tWLE4eo61StCyQ=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-23T07:14:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-is-booming-with-progressive-trends-and-exciting-opportunities-by-2028-ibm-granular-intel-sap-2022-09-23"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-is-booming-with-progressive-trends-and-exciting-opportunities-by-2028-ibm-granular-intel-sap-2022-09-23"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: MarketWatch

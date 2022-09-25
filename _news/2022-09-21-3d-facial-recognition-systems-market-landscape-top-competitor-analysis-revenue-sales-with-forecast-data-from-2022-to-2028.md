@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-sy
 webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-systems-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-09-21"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Facial Recognition Market Size Is Likely to Experience a Tremendous Growth by 2031 Covid-19 Analysis"
+    excerpt: "A research report on Facial Recognition Market was added by SDKI in its database which discusses the product as well"
+    publishedDateTime: 2022-09-21T13:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis-2022-09-21-91975832"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
   - title: "Natural Language Processing and Recognition Market Global Growth, Emerging Trends, Demand Status, Regional Overview and Share Analysis till 2028"
     excerpt: "Global Natural Language Processing and Recognition Market provides key analysis on the market status of the Natural Language Processing and Recognition with the best facts and figures, meaning, definition,"
     publishedDateTime: 2022-09-22T11:42:00Z

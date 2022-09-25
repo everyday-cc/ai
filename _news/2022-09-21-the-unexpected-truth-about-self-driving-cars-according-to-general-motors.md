@@ -7,8 +7,8 @@ originalUrl: "https://www.slashgear.com/1018226/the-unexpected-truth-about-self-
 webUrl: "https://www.slashgear.com/1018226/the-unexpected-truth-about-self-driving-cars-according-to-general-motors/"
 type: article
 quality: 53
-heat: -1
-published: false
+heat: 83
+published: true
 
 provider:
   name: SlashGear
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robotic Eyes Attached to Front of Self-Driving Cars May Improve Safety"
-    excerpt: "Scientists in Japan have found that sticking giant googly-looking eyes in front of self-driving cars may improve safety for pedestrians. Tesla still does not classify Autopilot-enabled vehicles as ..."
-    publishedDateTime: 2022-09-20T20:48:00Z
-    webUrl: "https://www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595"
-    ampWebUrl: "https://www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 74
-    images:
-      - url: "https://d.newsweek.com/en/full/2119247/pedestrians-crossing-road.jpg"
-        width: 2058
-        height: 1330
-        isCached: true
   - title: "Can eyes on self-driving cars reduce accidents?"
     excerpt: "Self-driving vehicles seem to be just around the corner. Whether they'll be delivering packages, plowing fields or busing kids to school, a lot of research is underway to turn a once futuristic ..."
     publishedDateTime: 2022-09-22T16:14:00Z
@@ -54,20 +38,29 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 34
-  - title: "Can Robotic Eyes on Self-Driving Cars Reduce Accidents?"
-    excerpt: "Like a character from the Pixar movie Cars, a self-driving golf cart was fitted with two large, remote-controlled robotic eyes."
-    publishedDateTime: 2022-09-22T14:29:00Z
-    webUrl: "https://www.manufacturing.net/automotive/news/22458255/can-robotic-eyes-on-selfdriving-cars-reduce-accidents"
+  - title: "China to set self-driving standard"
+    excerpt: "Industry analysts said the ISO's acceptance confirms that China is spearheading the research and development as well as the application of self-driving technologies, and promoting their large-scale commercial use."
+    publishedDateTime: 2022-09-23T23:57:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202209/24/WS632e3ac7a310fd2b29e797fd.html"
     type: article
     provider:
-      name: Manufacturing
-      domain: manufacturing.net
+      name: 中国日报网
+      domain: chinadaily.com.cn
     quality: 24
     images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/09/Screen_Shot_2022_09_21_at_8.30.20_AM.632b125311c11.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C27%2C1156%2C650&w=1200"
-        width: 1156
-        height: 650
+      - url: "https://img2.chinadaily.com.cn/images/202209/24/632e3ac7a310fd2beca35450.jpeg"
+        width: 658
+        height: 438
         isCached: true
+  - title: "Video game actors are worried about AI tech taking over their jobs"
+    excerpt: "Self-service checkouts, lights-out manufacturing, self-driving cars, and wars raged by robotic drones – automation is coming for everyone’s jobs eventually, and our capitalist systems aren’t equipped to carry us through it."
+    publishedDateTime: 2022-09-22T02:33:00Z
+    webUrl: "https://www.news.com.au/technology/gaming/video-game-actors-are-worried-about-ai-tech-taking-over-their-jobs/news-story/71d80e74b5f001ee56664be839bc18f4"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 21
 
 secured: "CYmcdkpBdEJuVUNDcfcjFiFWoJJk9dA12YX9w3uyBQyNUZslHiLIrsd5/Uymuh/cdU1vAdhITRlughlDmvSdSspVGD43pyXSW8hsn90Xk2hxXCxkJj7ctR1ypErMk6/LjELtHaaKy60cDsKtW2+FBcYnuoe0WiVz20qgtDGBgLYJtEMEsonHRwL6fFZGQkfE4p+H8nEk5jT2konitTEZfqNSjSM1buT43gRZbI03vprfLS2z4QKohXv8nimH1F/P7CQAQYrXIMlNcnhHUwcdgqY/QPF83uosoZK/KsJMNB7wgJ4KRzwZGj9+ZCyIryAxwHAWYOniJBAR0n9oAqk2PP+vy9Th1vzWRRVdgVU44NQ=;Pav6JoqIpYI7m0/aD4KoCg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220920/Neurocomputational-mo
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220920/Neurocomputational-model-could-shed-light-on-the-development-of-cognitive-abilities.aspx"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -28,15 +28,20 @@ images:
     isCached: true
 
 related:
-  - title: "How the brain develops: A new way to shed light on cognition"
-    excerpt: "Researchers introduce a new neurocomputational model of the human brain that could bridge the gap in understanding AI and the biological mechanisms underlying mental disorders."
-    publishedDateTime: 2022-09-20T19:29:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/09/220920115627.htm"
+  - title: "A Neurocomputational Model That Could Enhance AI Research"
+    excerpt: "A team of researchers at Mila and IVADO has developed a model of the human brain that could assist in understanding how the brain develops complex cognitive abilities and enhance artificial intelligence research."
+    publishedDateTime: 2022-09-22T07:05:00Z
+    webUrl: "https://www.electronicsforu.com/news/a-model-could-bridge-the-gap-between-human-brain-and-ai"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 39
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2022/09/artificial-intelligence-g8d609af98_640-e1663757672716.jpg"
+        width: 500
+        height: 333
+        isCached: true
 
 secured: "ugFm8WNTCIn3sQ4ERFE9xh++JXL+4xuHpyFj4lVdY1L0MUA4sIWD9pGE/CrKn3WP1SeCv9ehDTl+R0Wo0PNslDPuHdUcJRE+RIQ0SbDH3NAQtcBWSLCMFMy/YL7OdRb6pwD6BfManfM108iiWBmL24dTbBReE/+Z87ufIAVdmgIT2+quQlYUKYjGrXyhcYsSTanFlYG6FUM2OH+Wmdd3x0G4u3W1eccWA4HpIBc/SVPN3bPJF2+JNtRPmo7c5HCm+ePLkvj0JPl+x390DQSQtiWKpWPaWWYep6sW3INmirnSaJv4dMcCR7lXRLJEsDVxnQW/Nz3IAmCMlogCtSEKWVgumo3KB/4JaL95kehDznE=;YI6XoEgct62pijovEMouxQ=="
 ---

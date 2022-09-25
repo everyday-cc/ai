@@ -7,7 +7,7 @@ originalUrl: "https://www.news.com.au/technology/gaming/video-game-actors-are-wo
 webUrl: "https://www.news.com.au/technology/gaming/video-game-actors-are-worried-about-ai-tech-taking-over-their-jobs/news-story/71d80e74b5f001ee56664be839bc18f4"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,45 @@ topics:
   - AI Ethics
   - AI
   - Natural Language Processing
+
+related:
+  - title: "The Unexpected Truth About Self-Driving Cars According To General Motors"
+    excerpt: "The future is self-driving, or so say evangelists that are betting big on a future where AI-powered machines — including vehicles — will perform intended tasks on their own. Self-driving cars ..."
+    publishedDateTime: 2022-09-21T15:14:00Z
+    webUrl: "https://www.slashgear.com/1018226/the-unexpected-truth-about-self-driving-cars-according-to-general-motors/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 53
+    images:
+      - url: "https://www.slashgear.com/img/gallery/the-unexpected-truth-about-self-driving-cars-according-to-general-motors/l-intro-1663772176.jpg"
+        width: 1600
+        height: 897
+        isCached: true
+  - title: "Can eyes on self-driving cars reduce accidents?"
+    excerpt: "Self-driving vehicles seem to be just around the corner. Whether they'll be delivering packages, plowing fields or busing kids to school, a lot of research is underway to turn a once futuristic ..."
+    publishedDateTime: 2022-09-22T16:14:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/09/220920100807.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
+  - title: "China to set self-driving standard"
+    excerpt: "Industry analysts said the ISO's acceptance confirms that China is spearheading the research and development as well as the application of self-driving technologies, and promoting their large-scale commercial use."
+    publishedDateTime: 2022-09-23T23:57:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202209/24/WS632e3ac7a310fd2b29e797fd.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202209/24/632e3ac7a310fd2beca35450.jpeg"
+        width: 658
+        height: 438
+        isCached: true
 
 secured: "OKW9nQyHKSf+naBJnVd2F7XsqZ7oBrODWLVa3zjCmRQuqrWJT2EHqShs0eWy+wMuiPmn5YnTrO59D6592OjC+YrGyRHn+4QCRi/goGhMawNGzGSTDitUll3inNbUx+q9EyXhMNi3h/CEKQtNIf5rBFU0itQ42OC8jfPj/RRK0lf4+uwLAedvfGNt7HS5xWCaHC8xCzLB6Jw2K9OwiUuLbf7c91X3BbMypKITjKIo71TWHkTi0sMU8KFVdZJqpCI1xx/9TL9K2iIoAeIkGwe4bNssUqn7iD4bDRT2G5Qt7/gGZUOaixJyZ0UBWTeNsku0Bv8tiqwJilGguyCx8bioi7mYbRrB/qtnFUS49/3a3wTD6yr86yBqEg7ttJLowKjwwbobLA53Ink7g8ObZCE2xeAjZXluB+v+AwFr2uYEufmnDDle9xeBNbpmPsUsU10adZ5KJbRXWYxtiZsc5g1zSGSJm1ZRp6QxU9Dl64sV7mqr6f8knbRQb/wdhfTeyf8TwBAHaUIkt5wTW4RiG5BSLg==;FI7cdXO9IX1zRXOQ+RRXzQ=="
 ---

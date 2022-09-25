@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-23T20:30:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/09/n28995527/automotive-artificial-intelligence-market-report-2022-increasing-demand-for-premium-vehicles-prese"
 webUrl: "https://www.benzinga.com/pressreleases/22/09/n28995527/automotive-artificial-intelligence-market-report-2022-increasing-demand-for-premium-vehicles-prese"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

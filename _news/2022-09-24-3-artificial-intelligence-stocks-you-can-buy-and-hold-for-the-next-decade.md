@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/3-artificial-intelligence-stocks-you
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade?amp"
 type: article
 quality: 66
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Nasdaq
@@ -18,6 +18,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "This guy is using AI to make a movie — and you can help decide what happens next"
+    excerpt: "By Rachel Metz, CNN Business “Salt” resembles many science-fiction films from the ’70s and early ’80s, complete with 35mm footage of space freighters and moody alien landscapes. But while it looks like a throwback,"
+    publishedDateTime: 2022-09-25T13:00:00Z
+    webUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2022/09/25/this-guy-is-using-ai-to-make-a-movie-and-you-can-help-decide-what-happens-next/"
+    type: article
+    provider:
+      name: KTVZ
+      domain: ktvz.com
+    quality: 34
+    images:
+      - url: "https://ktvz.b-cdn.net/2022/09/hypatia-h_3febe95d482d7cd960a9e95b1b63db68-h_e7b972d58ee467600c76672a0788a9e0-300-860x463.jpg"
+        width: 860
+        height: 463
+        isCached: true
 
 secured: "E0Xyo5tIJxx3wG5VwEZEwIN0dy9GUdFUDT7aHhf3tDQgpZ8GeOBsCJfJtolUz8tBHZbfqOtSmcl5Ka1Z+oOdqxB3druq2vcURrFIlqtaRi/b9rLPHGLGmlztqSj4IXJLkyWEKcWtjMna8Uyu5D0jYyrBy0TXkAcAGfoDUdBSUuVqKNnQNwVKeVm5PJ+iirMjz4EkWlVjotXhKXdLuGtsbINwNafBjRekbxIr7XCf0oZt8GmI4+yo457B3+n7n0MvBB8ibbeT4NlUXNPgkPWOFvtZhymeQmXUx3svqZTrcIHPJ3Q8dxFCybIaYVXIlWYoRUjWhfvAh5LPGm0BvrKbvr7uIyuxrZCfMVpzMih/0rc=;dbYSIPZ7ogPPA5wJw0YTvg=="
 ---

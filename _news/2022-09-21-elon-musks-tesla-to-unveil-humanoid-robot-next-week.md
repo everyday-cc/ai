@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-r
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-robot-next-week-17419356/amp/"
 type: article
 quality: 76
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       - url: "https://www.thedetroitbureau.com/wp-content/uploads/2022/06/Tesla-Model-3.jpg"
         width: 1600
         height: 1219
-        isCached: true
-  - title: "Investors Are Not Psyched for Elon Musk’s ‘Optimus’ Humanoid Robot"
-    excerpt: "Creating Elon Musk's army of worker droids is “infinitely harder than self-driving cars” but he's trying to anyway"
-    publishedDateTime: 2022-09-20T21:22:00Z
-    webUrl: "https://www.lamag.com/culturefiles/elon-musk-deals-with-doubters-as-tesla-prepares-new-optimus-humanoid-robot/"
-    type: article
-    provider:
-      name: Los Angeles Magazine
-      domain: lamag.com
-    quality: 39
-    images:
-      - url: "https://cdn2.lamag.com/wp-content/uploads/sites/6/2022/05/Elon-Musk-Met-Wings.jpg"
-        width: 1500
-        height: 1000
         isCached: true
   - title: "Tesla's First Prototype Of A Humanoid Robot To Launce Soon"
     excerpt: "CEO Elon Musk said last year that Tesla was preparing to launch a humanoid robot that could replace boring, repetitive factory jobs and potentia"

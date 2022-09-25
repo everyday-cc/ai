@@ -33,21 +33,19 @@ related:
         width: 1280
         height: 680
         isCached: true
-  - title: "Nvidia GTC: Hopper processor in full production"
-    excerpt: "The H100 Tensor Core GPU is in full production, and the first servers based on Nvidia's new Hopper architecture are due next month."
-    publishedDateTime: 2022-09-20T21:08:00Z
-    webUrl: "https://www.networkworld.com/article/3674061/nvidia-gtc-hopper-processor-in-full-production.html"
-    ampWebUrl: "https://www.networkworld.com/article/3674061/nvidia-gtc-hopper-processor-in-full-production.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3674061/nvidia-gtc-hopper-processor-in-full-production.amp.html"
+  - title: "NVIDIA's Lovelace GPU Upgrades Graphics with AI"
+    excerpt: "A new flagship family of graphics chips developed by NVIDIA is powered by its next-generation Ada Lovelace architecture, which leverages artificial intelligence (AI) to create more realistic images in games."
+    publishedDateTime: 2022-09-22T21:32:00Z
+    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21251092/electronic-design-nvidias-lovelace-gpu-upgrades-graphics-with-ai"
     type: article
     provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 44
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 54
     images:
-      - url: "https://images.idgesg.net/images/article/2022/03/nvidia-hopper-gpu-100922543-large.jpg?auto=webp&quality=85,70"
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/09/Capture.632cc268663cf.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
   - title: "Nvidia's Higher Gaming GPU Prices Raises Analyst Conviction. However, Some Remain Concerned Over Demand And China Ban"
     excerpt: "BMO Capital analyst Ambrish Srivastava cut the price target on Nvidia to $210 from $230 but kept an Outperform. At a high level, Srivastava thought Nvidia's Fall event was a lot more packed than expected."

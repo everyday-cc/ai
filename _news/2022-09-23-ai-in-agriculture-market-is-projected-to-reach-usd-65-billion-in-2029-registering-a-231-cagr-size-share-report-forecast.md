@@ -36,6 +36,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Deep Learning Chipset Market | Value and Size Expected to Reach USD 14178.14 Million | Growing at CAGR of 15.04% | Forecast Period 2022-2027"
+    excerpt: "With tables and figures helping analyze worldwide Global Deep Learning Chipset market trends, this research provides key statistics on the state of the industry and is a valuable source of guidance and direction for companies and individuals interested in the market."
+    publishedDateTime: 2022-09-23T07:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-value-and-size-expected-to-reach-usd-1417814-million-growing-at-cagr-of-1504-forecast-period-2022-2027-2022-09-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 11
   - title: "Artificial Intelligence in Gaming Market Size | SWOT Analysis, Growth Factors, Top Key Players, Latest Trends, Industry Share and Forecast to 2028"
     excerpt: "Global Artificial Intelligence in Gaming Market The global Artificial Intelligence in Gaming market size is projected to reach USD million by 2028, from USD million in 2021, at a CAGR of % during 2022-2028."
     publishedDateTime: 2022-09-21T11:20:00Z

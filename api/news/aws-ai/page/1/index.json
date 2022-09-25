@@ -10,7 +10,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/large-scale-revenue-forecasting-at-bosch-with-amazon-forecast-and-amazon-sagemaker-custom-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -360,6 +360,58 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-salesforce-unveils-new-real-time-data-platform-genie.md",
+      "title": "Salesforce unveils new real-time data platform Genie",
+      "excerpt": "Salesforce has announced the arrival of Salesforce Genie, its new hyperscale data platform that creates real-time customer profiles to help businesses deliver personalized experiences. Detailing the platform at its Dreamforce ’22 event,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/marketing-comms/marketing-automation/369113/salesforce-unveils-new-real-time-data-platform-genie",
+      "originalUrl": "https://www.itpro.co.uk/marketing-comms/marketing-automation/369113/salesforce-unveils-new-real-time-data-platform-genie",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1588676357/SalesforceOffice.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1371,58 +1423,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-artificial-intelligence-in-accounting-market-segments-and-forecast-from-2022-2028-xero-appzen-kpmg-botkeeper.md",
-      "title": "Artificial Intelligence in Accounting Market Segments and Forecast from 2022-2028 | Xero, AppZen, KPMG, Botkeeper",
-      "excerpt": "The Global Artificial Intelligence in Accounting Market is expected to grow at a booming CAGR of 2022-2028, rising from USD billion in 2022 to USD billion in 2028. Download Free Sample Artificial Intelligence in Accounting Market report  Global Artificial Intelligence in Accounting includes market research report have their own Top Companies: Xero,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-segments-and-forecast-from-2022-2028-xero-appzen-kpmg-botkeeper-2022-09-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-segments-and-forecast-from-2022-2028-xero-appzen-kpmg-botkeeper-2022-09-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

@@ -1,20 +1,28 @@
 ---
 category: news
 title: "Diet could play a role in cognitive function across diverse races and ethnicities"
-excerpt: "Dietary choices and their consequences may certainly influence cognitive function ... Metabolon offers biochemical profiling services and is developing molecular diagnostic assays detecting ..."
-publishedDateTime: 2022-09-16T11:10:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/964717"
-webUrl: "https://www.eurekalert.org/news-releases/964717"
+excerpt: "Dietary choices and their consequences may certainly influence cognitive function. A new study led by investigators at Brigham and Women's Hospital, a founding member of the Mass General Brigham ..."
+publishedDateTime: 2022-09-16T16:58:00Z
+originalUrl: "https://medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.html"
+webUrl: "https://medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.amp"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "rtmdg9jMICAafrW/nlOJdBIDSK+EZLqGovTfn+2jO2msnm+r+Ry/gw48moagyBLIdynh9qE4sc46SVNPLTE/alGk/z6cf+VWx65lXO61qq0My5WARq1B2Yms7B1XCQT2MjK0VLY6h5clbDqSGyv9pwf/UCKQOhcCNrFd754jYJdnhqJhH4dcqnWC09dIrZgnXUid89e3nfSidSQWWaJmVfh8iKRrGXRRIsnJGBbAjW0+ZNffRoHvH9IJPyiaAsWKkQ6701SptoK4+QTo/AEyetMxmSA6p5ua/Col5qJLAmWLBsZIXlyQ/lp0IJF8Uj57teHk3jcP4708xp2yXl3NuZLwK6IIOlPYtEzrnsFOI0M=;GNlQWNHuqhPnGB0DmQRAoA=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/diet-could-play-a-role.jpg"
+    width: 1280
+    height: 703
+    isCached: true
+
+secured: "MLrUbaGJM6IK3xOgHz673ZRPEa0XKuZcH69Y7IYrWjD5uKokTc/OIk3+B1RpEsgtDpJly7G3QBqjrLQX5+Q9iKBClpn8ZvG2mUmUpUisAMJ2dYQJkBnp3tTPpG+vnEld2kvKd48eZfABHt7rGwQ7Jkm/Q/7MgEY9/zbUqmZ1u3qaei8ReCIjpql9VWs9lFFF3st74y+Ea16JAWRY1cvtRikBarq3EFieB3FnCSTIumghSU1bxD8oSKxZCrrviYspYcu2HVd0zFsa7vXLJ5Md3y0ThOFJJhYF4NjoCRF9GURo7QfWqoXrCCJixC/as7L5OJSJYTurORWGhsZr4y9ew2StSQDaq1WZN3+abaCUMtY=;2S45Mc9bvqEX5ybUpzkS4A=="
 ---
 

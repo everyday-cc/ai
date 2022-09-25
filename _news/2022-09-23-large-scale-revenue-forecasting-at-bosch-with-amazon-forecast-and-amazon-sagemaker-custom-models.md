@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/large-scale-revenue-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/large-scale-revenue-forecasting-at-bosch-with-amazon-forecast-and-amazon-sagemaker-custom-models/"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/09/ML-9988_Main_picture-1120x630.png"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Configure a custom Amazon S3 query output location and data retention policy for Amazon Athena data sources in Amazon SageMaker Data Wrangler"
-    excerpt: "Amazon SageMaker Data Wrangler reduces the time that it takes to aggregate and prepare data for machine learning (ML) from weeks to minutes in Amazon SageMaker Studio, the first fully integrated development environment (IDE) for ML. With Data Wrangler, you can simplify the process of data preparation"
-    publishedDateTime: 2022-09-20T22:41:25Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/configure-a-custom-amazon-s3-query-output-location-and-data-retention-policy-for-amazon-athena-data-sources-in-amazon-sagemaker-data-wrangler/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 54
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/20/custom-s3-query-output-location.jpg"
-        width: 1550
-        height: 772
         isCached: true
   - title: "Salesforce Genie brings data sharing to Amazon SageMaker and Einstein"
     excerpt: "The Genie announcement will likely lead to similar partnerships, as other companies look to take advantage of Salesforce data in their workflows."

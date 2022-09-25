@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Study suggests older adults show greater mental well-being despite cognitive decline"
-    excerpt: "Despite displaying signs of poorer cognitive performance, older adults tend to have greater mental well-being compared to younger adults, according to a new study. A study published this month in ..."
-    publishedDateTime: 2022-09-20T19:44:00Z
-    webUrl: "https://www.foxnews.com/health/study-older-adults-greater-mental-well-being-cognitive-decline"
-    ampWebUrl: "https://www.foxnews.com/health/study-older-adults-greater-mental-well-being-cognitive-decline.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/study-older-adults-greater-mental-well-being-cognitive-decline.amp"
+  - title: "Taking Multivitamins Daily Might Boost Cognitive Health, Finds Study"
+    excerpt: "However, a study has found that taking multivitamins daily can cut down the risk of cognitive decline or memory-related issues like dementia. According to a study published in the Journal of the ..."
+    publishedDateTime: 2022-09-22T01:51:00Z
+    webUrl: "https://www.onlymyhealth.com/taking-multivitamins-daily-might-boost-cognitive-health-1663764734"
+    ampWebUrl: "https://www.onlymyhealth.com/amp/taking-multivitamins-daily-might-boost-cognitive-health-1663764734"
+    cdnAmpWebUrl: "https://www-onlymyhealth-com.cdn.ampproject.org/c/s/www.onlymyhealth.com/amp/taking-multivitamins-daily-might-boost-cognitive-health-1663764734"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 67
+      name: Onlymyhealth
+      domain: onlymyhealth.com
+    quality: 59
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1ce4d6f4-d820-4a8a-b50e-7596345c80f6/ab31fe9d-1057-4f40-87d5-d4538c3677b8/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+      - url: "https://images.onlymyhealth.com/imported/images/2022/September/21_Sep_2022/main-multivitamincognitive.jpg"
         width: 1200
         height: 675
         isCached: true

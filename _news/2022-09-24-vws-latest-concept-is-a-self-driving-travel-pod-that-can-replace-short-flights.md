@@ -7,8 +7,8 @@ originalUrl: "https://www.engadget.com/vw-gen-travel-self-driving-pod-162904370.
 webUrl: "https://www.engadget.com/vw-gen-travel-self-driving-pod-162904370.html"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: Engadget
@@ -42,20 +42,6 @@ related:
       - url: "https://images.hgmsites.net/hug/volkswagen-group-gen-travel-concept_100856314_h.jpg"
         width: 1920
         height: 1322
-        isCached: true
-  - title: "China to set self-driving standard"
-    excerpt: "Industry analysts said the ISO's acceptance confirms that China is spearheading the research and development as well as the application of self-driving technologies, and promoting their large-scale commercial use."
-    publishedDateTime: 2022-09-23T23:57:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202209/24/WS632e3ac7a310fd2b29e797fd.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 24
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202209/24/632e3ac7a310fd2beca35450.jpeg"
-        width: 658
-        height: 438
         isCached: true
 
 secured: "WuGSWnkiGufwVntqc/DofXL3KAW0hbQlzdWeflJWgTbaq8LzqNEzCJlPbedNyamEZE9rasa+iihDNdHTwdOtr7gm7GEUvjkkjlUP9AAz3XIm/hDChb9Nnt9CavSopQEaJw9yUX+UelopQL40n8TNqihUUu7f9XWHE7ZVS6tfLaG2yFbFELMSRCGr5GBkb8vUNzazYGfFO86m0ocKx8WnYNdAFqBsN+RfMhw1/TwpNFqPuTCtZV+O9z4M5WgYXdKhzHN1/KEjtI3H2jkgKNNL1m+tfcO6LSlWqaDD+sSOpQssPQ4uFlthlA1x5uL2xj8RZtuFZEl/jyM17GpuVIxK0Wxsl3sDGcOx4p0HWYsUfKbUBAhWJkXyJf03PFP5kkWIvLl9baPmYH+QZkHdXTi31Xr2212WwDahMalI22RQu2HaHPX21KYDkp1klxmhb35ukQQLAtO79jPFldb7W4zIT+v/yDy3jyABRtArKFVWtfy92jfg9JUkuTH7BeEAF7lT0Mk/i2rwMrqt+I2pbSVjMw==;5c6TAjinVKXxXgDA5p60Jw=="

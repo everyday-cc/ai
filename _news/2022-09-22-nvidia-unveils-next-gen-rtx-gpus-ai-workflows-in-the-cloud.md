@@ -20,45 +20,29 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Nvidia unveils new gaming chip with AI features, taps TSMC for manufacturing"
-    excerpt: "Sept 20 (Reuters) - Nvidia Corp (NVDA.O) on Tuesday announced new flagship chips for video gamers that use artificial intelligence (AI) to enhance graphics, saying it has tapped Taiwan ..."
-    publishedDateTime: 2022-09-20T21:51:00Z
-    webUrl: "https://www.reuters.com/technology/nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-manufacturing-2022-09-20/"
+  - title: "NVIDIA's new AI model quickly generates objects and characters for virtual worlds"
+    excerpt: "NVIDIA is looking to take the sting out of creating virtual 3D worlds with a new artificial intelligence model. GET3D can generate characters, buildings, vehicles and other types of 3D objects, NVIDIA says."
+    publishedDateTime: 2022-09-23T13:33:00Z
+    webUrl: "https://www.engadget.com/nvidia-ai-model-get3d-virtual-worlds-objects-130021127.html"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 81
+      name: Engadget
+      domain: engadget.com
+    quality: 64
     images:
-      - url: "https://www.reuters.com/resizer/awrttdfwt7GldMh9Fah3hKj1RdQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KUNQZVB3LZK2NKDRMPVVVLXKL4.jpg"
-        width: 1200
-        height: 628
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-09/429930e0-3a94-11ed-afeb-8a9da43fae5d"
+        width: 1280
+        height: 680
         isCached: true
-  - title: "Nvidia unveils gaming chip with AI features, taps TSMC for manufacturing"
-    excerpt: "Nvidia announced chips for video gamers that use artificial intelligence (AI) to enhance graphics. Nvidia has also selected Taiwan Semiconductor Manufacturing (TSMC) to make the processors."
-    publishedDateTime: 2022-09-20T22:36:00Z
-    webUrl: "https://www.telecomlead.com/telecom-chips/nvidia-unveils-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing-106652"
-    ampWebUrl: "https://www.telecomlead.com/telecom-chips/nvidia-unveils-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing-106652?amp=1"
-    cdnAmpWebUrl: "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/telecom-chips/nvidia-unveils-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing-106652?amp=1"
+  - title: "Nvidia taps TSMC to manufacture new AI-powered gaming chips"
+    excerpt: "Nvidia has gained attention in recent years with its booming data centre business, which sells chips used in artificial intelligence work such as natural language processing. But the company’s roots are in graphics chips,"
+    publishedDateTime: 2022-09-21T06:21:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2022/09/21/nvidia-taps-tsmc-to-manufacture-new-ai-powered-gaming-chips/"
     type: article
     provider:
-      name: Telecom Lead
-      domain: telecomlead.com
-    quality: 53
-  - title: "NVIDIA RTX Remix Features Hefty AI-Assisted Modding Tool"
-    excerpt: "NVIDIA RTX Remix takes modding to a whole new level and allows players to take beautiful in-game screenshots with the press of a hotkey."
-    publishedDateTime: 2022-09-20T20:31:00Z
-    webUrl: "https://techraptor.net/gaming/news/nvidia-rtx-remix-features-hefty-ai-assisted-modding-tool"
-    type: article
-    provider:
-      name: TechRaptor
-      domain: techraptor.net
-    quality: 39
-    images:
-      - url: "https://techraptor.net/sites/default/files/styles/image_header/public/2022-09/Screenshot%20%28432%29.jpg?itok=ee9WuLaA"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 34
 
 secured: "zLejqNjhCcxtzR42WmWO9N3wtTAQv/+ZSgtT7r+JpPm28+CkmhgQ3HlSBEfr+AtZYJDXqgtMDpEb1SdyVkFoAfCHNxApzH+tWs4wUTSIvJIPiIJOTkKFL/8G0ZvfdoT3Ea6u+laXhdrb4B8rrMFz0kPpTVjh0l3XktHPHrLkO1OfcUXMfiZWbzaDVcVHeff98MYtu3u8YICQbZvITrFT70MdusFPq4Fn6O7zcV4aS8oxhdf2ye1wluGTMATQuFvnt7wc9nPw/u7hhfqfrSRQy2IfImiJmk1lDjWa6Um8tO0osUVfDx6MK24NguJro+V7wblzwZM5rG7WVpgA1Ga6Ux+gh+AMHZjlxBFjln7abUM=;gRV9WpCoiSbU/OF1c0mAUA=="
 ---

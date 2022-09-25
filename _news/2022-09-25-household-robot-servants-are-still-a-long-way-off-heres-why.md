@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-25T12:11:00Z
 originalUrl: "https://knowtechie.com/household-robot-servants-are-still-a-long-way-off-heres-why/"
 webUrl: "https://knowtechie.com/household-robot-servants-are-still-a-long-way-off-heres-why/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: KnowTechie

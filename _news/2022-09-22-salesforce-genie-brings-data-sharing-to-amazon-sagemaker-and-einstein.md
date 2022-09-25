@@ -65,20 +65,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Configure a custom Amazon S3 query output location and data retention policy for Amazon Athena data sources in Amazon SageMaker Data Wrangler"
-    excerpt: "Amazon SageMaker Data Wrangler reduces the time that it takes to aggregate and prepare data for machine learning (ML) from weeks to minutes in Amazon SageMaker Studio, the first fully integrated development environment (IDE) for ML. With Data Wrangler, you can simplify the process of data preparation"
-    publishedDateTime: 2022-09-20T22:41:25Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/configure-a-custom-amazon-s3-query-output-location-and-data-retention-policy-for-amazon-athena-data-sources-in-amazon-sagemaker-data-wrangler/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 54
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/20/custom-s3-query-output-location.jpg"
-        width: 1550
-        height: 772
-        isCached: true
 
 secured: "Kr8ZGcELZC/rhYGhSKqv9MSBB/dN7cul/D4t7siWz4sjvL3XrI5HOUvEZQyBUzcVuV8N0Rzx8iXXUthpngz0hXmh986z+i6xzZfQN4CJHJ2CcljJM97NfprljMpA/lmWUDFOMmm+wdKibnzdUSH9mbN/yPBNAgVLg/Yeebx8wEGu5l2kFBtGxxHK0G0bGzBf4B9tLH/zEdcpebgFn4cTsVycrtnk2NxcYpjctZ5mns+bBiBRxxRFPWVfpNuih8ZHV6Mnd4S7EX7K/j8uapSLJrpioAg5sD16sBdmT8oa4VRS5f3wm3CRhkpcFP65p1CzpWtnSayMuYakXbGrdls4qSyzM1iB7lqI/hASdjDyukTnoON/pi5E0vdCCaBmijeFrYFPaDrJZCFiQQ355+Ey+Rf5MHi/LV27rWxGpe61nQqI0fCbwvNuvKrCVjf8o4KEmwC9absrbHHa3QoJuJQkm11quo07KpyaPzUpcQ6MEiDikEUdM+KQFUzoLPo3SSL+fvGj6VgdUeav/85bUp6JLg==;K+X1K+VQkBSudXmBlfm78w=="
 ---

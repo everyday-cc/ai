@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-17-cardinalityai-joins-the-aws-partner-network.md",
+      "title": "Cardinality.ai Joins the AWS Partner Network",
+      "excerpt": "The Advanced Technology Partner Status reduces complexity to adopt digital practices and confidence of integration for our shared public sector customersThree Cardinality.ai solutions for public secto",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/08/n28523141/cardinality-ai-joins-the-aws-partner-network",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/n28523141/cardinality-ai-joins-the-aws-partner-network",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28523141",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28523141",
+      "publishedDateTime": "2022-08-16T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-aws-organizes-gameday-a-world-championship-for-developers.md",
       "title": "AWS organizes GameDay, a world championship for developers",
       "excerpt": "The AWS GameDay is just around the corner. The world championship provides an opportunity for any professional that works with AWS services. Participants",
@@ -1333,40 +1367,6 @@
         "AI",
         "AI in Sales",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-intelligencebank-now-available-on-aws-marketplace.md",
-      "title": "IntelligenceBank Now Available on AWS Marketplace",
-      "excerpt": "IntelligenceBank (www.intelligencebank.com) has announced the availability of IntelligenceBank Digital Asset Management, BrandHub and Marketing Operations software in Amazon Web Services (AWS) ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/intelligencebank-now-available-on-aws-marketplace",
-      "originalUrl": "https://www.digitaljournal.com/pr/intelligencebank-now-available-on-aws-marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

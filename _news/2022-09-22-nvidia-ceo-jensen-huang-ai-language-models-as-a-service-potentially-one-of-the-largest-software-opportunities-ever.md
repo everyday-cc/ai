@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia launches flagship chip with AI capabilities"
+    excerpt: "Nvidia Corp launched new flagship chips called Ada Lovelace for video gamers that use artificial intelligence (AI) to improve graphics."
+    publishedDateTime: 2022-09-21T08:14:00Z
+    webUrl: "https://www.itworldcanada.com/post/nvidia-launches-flagship-chip-with-ai-capabilities"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 34
   - title: "The DeanBeat: Nvidia CEO Jensen Huang says AI will auto-populate the 3D imagery of the metaverse"
     excerpt: "It takes AI kinds to make a virtual world. Nvidia CEO Jensen Huang said this week during a Q&A at the GTC22 online event that AI will auto-populate the 3D imagery of the metaverse. He believes that AI will make the first pass at creating the 3D objects that populate the vast virtual worlds of the metaverse — and then human creators will take over and refine them to their liking."
     publishedDateTime: 2022-09-23T13:00:00Z

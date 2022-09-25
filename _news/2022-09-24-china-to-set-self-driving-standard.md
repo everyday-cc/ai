@@ -25,34 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "VW's latest concept is a self-driving travel pod that can replace short flights"
-    excerpt: "We wouldn't count on all of them reaching the self-driving machines VW expects to make from 2025 onward, but don't be surprised if future robotaxis seem very familiar."
-    publishedDateTime: 2022-09-23T17:06:00Z
-    webUrl: "https://www.engadget.com/vw-gen-travel-self-driving-pod-162904370.html"
+  - title: "The Unexpected Truth About Self-Driving Cars According To General Motors"
+    excerpt: "The future is self-driving, or so say evangelists that are betting big on a future where AI-powered machines — including vehicles — will perform intended tasks on their own. Self-driving cars ..."
+    publishedDateTime: 2022-09-21T15:14:00Z
+    webUrl: "https://www.slashgear.com/1018226/the-unexpected-truth-about-self-driving-cars-according-to-general-motors/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 50
+      name: SlashGear
+      domain: slashgear.com
+    quality: 53
     images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-09/508f5e40-3b57-11ed-b59d-fdcf34ea0a64"
-        width: 1920
-        height: 1280
+      - url: "https://www.slashgear.com/img/gallery/the-unexpected-truth-about-self-driving-cars-according-to-general-motors/l-intro-1663772176.jpg"
+        width: 1600
+        height: 897
         isCached: true
-  - title: "VW Group Gen.Travel concept imagines a Level 5 self-driving car"
-    excerpt: "The Gen.Travel is an electric vehicle with a self-driving system rated at Level 5 on the SAE scale of self-driving capability. Level 5 is the ultimate goal for companies developing self-driving technology,"
-    publishedDateTime: 2022-09-23T11:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1137257_vw-group-gen-travel-level-5-self-driving-car-concept-revealed"
+  - title: "Can eyes on self-driving cars reduce accidents?"
+    excerpt: "Self-driving vehicles seem to be just around the corner. Whether they'll be delivering packages, plowing fields or busing kids to school, a lot of research is underway to turn a once futuristic ..."
+    publishedDateTime: 2022-09-22T16:14:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/09/220920100807.htm"
     type: article
     provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/volkswagen-group-gen-travel-concept_100856314_h.jpg"
-        width: 1920
-        height: 1322
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
+  - title: "Video game actors are worried about AI tech taking over their jobs"
+    excerpt: "Self-service checkouts, lights-out manufacturing, self-driving cars, and wars raged by robotic drones – automation is coming for everyone’s jobs eventually, and our capitalist systems aren’t equipped to carry us through it."
+    publishedDateTime: 2022-09-22T02:33:00Z
+    webUrl: "https://www.news.com.au/technology/gaming/video-game-actors-are-worried-about-ai-tech-taking-over-their-jobs/news-story/71d80e74b5f001ee56664be839bc18f4"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 21
 
 secured: "ZtR+D9mKeJhDHg0xbX9fmPtoVZKa5zAnvuJKCnWw2tdXC0u+oSretg3067ofM4exsKry2K2nWT+YvhXYmdAzZZtYEDCkLiGmB0ga7HmC7sgdXeYyD5jKy5n25V6YBBNNd7ixZ1gAmYwvE/YYMxxsjvO0Tzoym0lu3Q5i6LgoIxrsiil8rzfr3mcUQC6KowsN/WGjZ3wGMpk8YpwQXjouOha03Fm+oGlZvZ2ftAu3IzAXzb5Ej7rYl02jAt3BQVpeqyxMM0W+BF37W624becxeA/f9ZGMlZ430W0P6eHKL/kovnfMiSSkoL/oDiWU6ZE1t7JD/RlO5koEMWTouSpOZMQa7QJvITJvrWStmOuw4y4sad+C992u8DKt2ovb5t0DDYa3Rj30gnHVJkXh+iM/xGTYj4d6O9FGUFz+66gYND+4VU4KQ/P9Q1OmRxqlOUMCsHgrQPQCb5nPsPYBs8l+NN9zLhv5uRq+RmFNwbhnzN0JA4yKZcaEXT8xwfR3OOPtX2zwjJ3gU5sDjPbglqTxcQ==;nwABh0GZ83vyX/iKOBTzNw=="
 ---

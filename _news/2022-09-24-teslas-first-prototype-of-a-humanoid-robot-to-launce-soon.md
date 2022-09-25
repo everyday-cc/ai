@@ -80,20 +80,6 @@ related:
         width: 1600
         height: 1219
         isCached: true
-  - title: "Investors Are Not Psyched for Elon Musk’s ‘Optimus’ Humanoid Robot"
-    excerpt: "Creating Elon Musk's army of worker droids is “infinitely harder than self-driving cars” but he's trying to anyway"
-    publishedDateTime: 2022-09-20T21:22:00Z
-    webUrl: "https://www.lamag.com/culturefiles/elon-musk-deals-with-doubters-as-tesla-prepares-new-optimus-humanoid-robot/"
-    type: article
-    provider:
-      name: Los Angeles Magazine
-      domain: lamag.com
-    quality: 39
-    images:
-      - url: "https://cdn2.lamag.com/wp-content/uploads/sites/6/2022/05/Elon-Musk-Met-Wings.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
 
 secured: "33VMWi/28spbYOWP6066bnTn+4uQ1OFqA1Pen3OFuCkquqWaPDpLdXthTvBYu7EruDu8/biJEkIu+Vbu+oR7s8tJM3U/lJrAc19K9ccP4/pPG2j793UOqt2OUB9rAQrG/ZOoqxWZQIKpndMOx6mJgcNctgzSoKT6I9gmeiaYYTbCQQ3Z4H1epzJHar84b/Y58GiTYRfp2z0Hz9R1JPwb7E9upxqIhDjBM1Fs0KVrX+znFnJLN/9qgGo2xbvYDirVt0wfeUAeDBsqZFJqJAeA3gs2HHM7MMUZoIRU2B8gmwYX+avOxX1+Q/iH/Gv6l95UArws+lFNqoJPcPkrl/ahe2kWWmTuxMfPuJjrNMr8tNHempt0dJ9qC4/55xUSWGWhBBrxk+irFBuglWafquff+jrQ2k4BXcdzyof8oM0aKX2vvsMCVGw6w7Ath9EnjxKqeRgrwKtkFSMFSuKC2x3pF5BZ17DG+gRjiWwHalCrk82WidI4bnZCId7ooqsU1LOO4HGNTv7CiDQWoGilneouQA==;LksvtklkV+XzPBzJaBQZqw=="
 ---
