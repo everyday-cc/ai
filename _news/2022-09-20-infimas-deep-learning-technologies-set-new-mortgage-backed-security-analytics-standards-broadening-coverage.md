@@ -1,35 +1,47 @@
 ---
 category: news
-title: "HR's Role In People Analytics And AI"
-excerpt: "Using people analytics in HR functions can bring about positive change—but only if employers cultivate the right approach for their organization."
-publishedDateTime: 2022-09-20T11:15:00Z
-originalUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/"
-webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/"
-ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/amp/"
+title: "Infima's Deep Learning Technologies Set New Mortgage-Backed Security Analytics Standards, Broadening Coverage"
+excerpt: "SAN MATEO, CA / ACCESSWIRE /, 2022 / Infima, a fixed-income predictive analytics provider, announced today that it has expanded its coverage of mortgage securities (MBS) to bonds backed by government agency Ginnie Mae."
+publishedDateTime: 2022-09-20T13:14:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/272778366/infimas-deep-learning-technologies-set-new-mortgage-backed-security-analytics-standards-broadening-coverage"
+webUrl: "https://www.bignewsnetwork.com/news/272778366/infimas-deep-learning-technologies-set-new-mortgage-backed-security-analytics-standards-broadening-coverage"
 type: article
-quality: 87
-heat: 147
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
+  - Machine Learning
   - AI
+  - AI in Security
 
 images:
-  - url: "https://imageio.forbes.com/specials-images/imageserve/5f721d24c84d1ad720732800/0x0.jpg?format=jpg&width=1200"
-    width: 1200
-    height: 900
+  - url: "https://cdn.bignewsnetwork.com/cus1664044470285.jpg"
+    width: 630
+    height: 420
     isCached: true
 
 related:
+  - title: "HR's Role In People Analytics And AI"
+    excerpt: "Using people analytics in HR functions can bring about positive change—but only if employers cultivate the right approach for their organization."
+    publishedDateTime: 2022-09-20T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f721d24c84d1ad720732800/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Let's Investigate a Way to Invest in Artificial Intelligence and Robotics"
     excerpt: "A Real Money subscriber wants to be involved with robotics and artificial intelligence in the years to come but doesn't believe he is a good stock picker. So what should he do? Let's check out the charts of the Global X Robotics & Artificial Intelligence ETF (BOTZ) ."
     publishedDateTime: 2022-09-20T18:11:00Z
@@ -57,20 +69,6 @@ related:
       - url: "https://www.thefastmode.com/media/k2/items/src/043a9e295a2fd8ba758801a227aad0fd.jpg?t=20220921_124815"
         width: 753
         height: 408
-        isCached: true
-  - title: "Infima's Deep Learning Technologies Set New Mortgage-Backed Security Analytics Standards, Broadening Coverage"
-    excerpt: "SAN MATEO, CA / ACCESSWIRE /, 2022 / Infima, a fixed-income predictive analytics provider, announced today that it has expanded its coverage of mortgage securities (MBS) to bonds backed by government agency Ginnie Mae."
-    publishedDateTime: 2022-09-20T13:14:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272778366/infimas-deep-learning-technologies-set-new-mortgage-backed-security-analytics-standards-broadening-coverage"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 37
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1664044470285.jpg"
-        width: 630
-        height: 420
         isCached: true
   - title: "See the exclusive 22-slide pitch deck that AI company 4M Analytics used to raise $45 million in Series A funding"
     excerpt: "The startup raised over $45 million from investors including Insight Partners, ITI Venture Capital Partners, Viola Ventures and F2 Venture Capital."
@@ -102,6 +100,6 @@ related:
       domain: benzinga.com
     quality: 3
 
-secured: "kZP9xCf9KHea2YOsDzdg5KWKg57W9nGp42yULGp+r5PA8qCTAXiKpi/wM7NiG8ZhrZFOi93PhtgI9MKOyB12ohyAifWFRSh81grIm70m694ZYU/9VyCIl05JQewNf8AD0jh3qwt9Z1KvCaVSPhhZlapuRoiJQcMbQ7z/wbJxUh2hFpRIgy8wgYC3HmK8S+4NQQNAU6via1PPv81G9gNwjyoORlYbPV9oqtg5lBMfqqMn7G0oLcBy1rSPZMLsfZTXL7boi1+n1bw5c8zkXND4DPLpnqalewSs2xfTYXu6Oad2B5EWDf8ivO0Erh+6t07h5DNAK/XX+78HYmBtP1BrdB/DnCIHn3HWHik39ylyGIIIavfcNXX44+RuPeBFE3tUl1FAfGWOUFN+zo0DSkybn5sjU4kJnQEtQ024rhRo2Yvlm0ZhKGPf3Cv8xjKwNhaI7rjVDKQk66FZ+N5bxtay7tnF5EhTqK3LsXY9MDlHw3r17PRjVw+UlPHkCdW/ynfoF0YIfbUQ9DWQdCd3doa5YQ==;RtT1pQZW4NXj2QNUBvEz1Q=="
+secured: "sGtlD64uxtW0+gtRg6eOnrWvXEfwAQe/mbIoo/mtTKttWSmtkOifr1RDb48kJkizu4IMbFUKIbkSYfw+tGtGHtiM2o0UjeAXv3IBbzlG/46gfOE6Axss0W/Q55yomgXYXBflp+Y9LnmnTc8bVZCpkPKIMFzCPamSEETcDLT+GayrchXxbTQwSs6sD+w3HygzJe5gos0O/m5ak4hxUsWFZEhqNCYK+iVjv/HCs4jERBtxdjGaH0SlxW74n0iE17Q25Cj6HP8mS7eiIo4dcQjDZUxobqOZdOOqz4MS8fy1gjeFopMc2dkoY/aJ7em2Y461tHislR85lxyp7gkcE4qmIEUQHvdPoVXEDNs1FtNFJgg=;aw81WS7qLBxSVWKe5RlMBQ=="
 ---
 

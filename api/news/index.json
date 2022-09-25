@@ -266,10 +266,10 @@
     {
       "path": "_news/2022-09-24-vws-latest-concept-is-a-self-driving-travel-pod-that-can-replace-short-flights.md",
       "title": "VW's latest concept is a self-driving travel pod that can replace short flights",
-      "excerpt": "Many automakers dream of self-driving cars that are effectively lounges on wheels, but VW is taking things one step further. The brand has unveiled a Gen.Travel \"design study\" EV that it hopes could replace short flights.",
+      "excerpt": "We wouldn't count on all of them reaching the self-driving machines VW expects to make from 2025 onward, but don't be surprised if future robotaxis seem very familiar.",
       "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/vw-gen-travel-self-driving-pod-162904370.html?src=rss",
-      "originalUrl": "https://www.engadget.com/vw-gen-travel-self-driving-pod-162904370.html?src=rss",
+      "webUrl": "https://www.engadget.com/vw-gen-travel-self-driving-pod-162904370.html",
+      "originalUrl": "https://www.engadget.com/vw-gen-travel-self-driving-pod-162904370.html",
       "featuredContent": null,
       "highlight": null,
       "heat": 70,
@@ -453,7 +453,7 @@
       "originalUrl": "https://www.androidheadlines.com/2022/09/samsung-dual-udc-facial-recognition-tech.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -745,7 +745,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-population-variance-of-endangered-species-using-amazon-rekognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -798,7 +798,7 @@
       "originalUrl": "https://www.eweek.com/big-data-and-analytics/natural-language-processing-companies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -939,7 +939,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-reduced-ml-inference-costs-by-85-with-aws-inferentia/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 86,
       "tags": null,
       "images": null,
       "content": "\r\n",

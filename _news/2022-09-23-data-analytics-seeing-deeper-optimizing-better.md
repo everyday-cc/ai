@@ -63,6 +63,20 @@ related:
         width: 753
         height: 408
         isCached: true
+  - title: "Infima's Deep Learning Technologies Set New Mortgage-Backed Security Analytics Standards, Broadening Coverage"
+    excerpt: "SAN MATEO, CA / ACCESSWIRE /, 2022 / Infima, a fixed-income predictive analytics provider, announced today that it has expanded its coverage of mortgage securities (MBS) to bonds backed by government agency Ginnie Mae."
+    publishedDateTime: 2022-09-20T13:14:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272778366/infimas-deep-learning-technologies-set-new-mortgage-backed-security-analytics-standards-broadening-coverage"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 37
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1664044470285.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "See the exclusive 22-slide pitch deck that AI company 4M Analytics used to raise $45 million in Series A funding"
     excerpt: "The startup raised over $45 million from investors including Insight Partners, ITI Venture Capital Partners, Viola Ventures and F2 Venture Capital."
     publishedDateTime: 2022-09-20T13:40:00Z

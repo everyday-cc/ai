@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Sustainable and AI Concrete Startup AICrete Announces $4 Million Seed Funding"
-excerpt: "Through use of AI, AICrete is poised to reduce concrete emissions by up to 35% and drastically increase industry profit margins. RICHMOND, Calif. , Sept. 21, 2022 /PRNewswire/ --"
-publishedDateTime: 2022-09-21T15:38:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/09/21/9678215.htm"
-webUrl: "https://it.tmcnet.com/news/2022/09/21/9678215.htm"
+excerpt: "Through use of AI, AICrete is poised to reduce concrete emissions by up to 35% and drastically increase industry profit margins RICHMOND, Calif., Sept. 21, 2022 /PRNewswire/ -- AICrete ..."
+publishedDateTime: 2022-09-21T15:58:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-09/57113162-sustainable-and-ai-concrete-startup-aicrete-announces-dollar-4-million-seed-funding-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2022-09/57113162-sustainable-and-ai-concrete-startup-aicrete-announces-dollar-4-million-seed-funding-008.htm"
 type: article
 quality: 14
 heat: 14
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - AI
@@ -28,6 +28,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "8bkvUzWDJPk1PDP4K8AfaRaqVnAcC2bw439uz1rEjUYOowhOFYRPraXHrBFvXsb7hGlP9AwFIpVlDP9vKkSieEBJ9BmDLHXRtNM0vV9RFSLuEOHSjEqvkj54TH6QFn+b1l5YNqLvrTH9zDmpWd6sq60U/Ft7RyqvvRPMUzD25XbKwaVKmXtIVPkYfSZNvcIuJ9Znkha9RrRtjoQJDAnMUbP8QwV3ScdUp5ey/w/JjpCZHVwSVlFzH9T5ZG9hKuo5twYZA+nSsPwe/Uox4SXZDYWhIL27FVByyLioTwKOEdSd+3DnZ8XhbH/TXFSz3L22SzftTBkBC97Wo0QQ4JIDgaunwEa07x2IZydyXurXWPo=;btg0RRfUBrTS9LP68esFXg=="
+secured: "eUXqdVSb/HiqruVCsjwIPygEEjbpc9eFiDMnzY+QuVCQYRLbEvqp/to0UY+5xl/tyaCNXEMVk5906ob7T0ao81E2EAGSI24gGQMcxqTND0cLlgaEVDM4flPz7h0i8Hwl0cYf+puKHR6ui+f4lzomO0MDQkJdMWThz7H5UnphRaBr7qF1QenxS0Vwk+aXtbFekVvkaGo9BXcZPxqMTiIEffmBYLcw4VmSQ0JY9G0sOUvC2LH6vOUcZSy+9DD/kOt5A9aSyYHlFkAOcJfPQ2Tj2hL9SuVP/MVwD3uZj5iKVglSvm6NgeQSLmqIjnGign0cmKjZiH+HLLMqIIic8zlRiNI9MBQlZAjbCeOBvcqDxxY=;qNR7TnH5npY5XkkRHqUMmw=="
 ---
 

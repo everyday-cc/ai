@@ -44,6 +44,22 @@ related:
         width: 1600
         height: 1200
         isCached: true
+  - title: "Samsung patents dual under-display camera system for facial recognition"
+    excerpt: "Samsung specifically mentions using under-display cameras, though, which is interesting in its own right. Up until now, the Korean giant has more or less just experimented with the technology on its Galaxy Fold line without a broader release."
+    publishedDateTime: 2022-09-24T21:30:00Z
+    webUrl: "https://www.gsmarena.com/samsung_patents_dual_underdisplay_camera_system_for_facial_recognition-news-55926.php"
+    ampWebUrl: "https://m.gsmarena.com/samsung_patents_dual_underdisplay_camera_system_for_facial_recognition-amp-55926.php"
+    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/samsung_patents_dual_underdisplay_camera_system_for_facial_recognition-amp-55926.php"
+    type: article
+    provider:
+      name: GSM Arena
+      domain: gsmarena.com
+    quality: 59
+    images:
+      - url: "https://fdn.gsmarena.com/imgroot/news/22/09/samsung-dual-udc-facial-recognition/-1220x526/gsmarena_001.jpg"
+        width: 1220
+        height: 526
+        isCached: true
   - title: "Original Samsung Galaxy Z Flip gets One UI 4.1.1 update"
     excerpt: "Samsung started rolling out the update to One UI 4.1.1 to the Galaxy Z Flip3 and Z Fold3, promising that even older foldables than those would eventually get it too. The Galaxy Z Fold2 was next in line,"
     publishedDateTime: 2022-09-21T23:07:00Z

@@ -2,17 +2,17 @@
 category: news
 title: "Tecnotree to Accelerate Digital Transition to the Cloud with Microsoft Azure Integration"
 excerpt: "Tecnotree's Digital Suite-5 for consumers and business monetization is built natively to run on Kubernetes and is aligned with the Microsoft Azure cloud to drive multi-tenant, multi-region transformations that allow enterprises to lower total-cost-of-ownership (TCO) by eliminating significant upfront investments."
-publishedDateTime: 2022-09-20T10:25:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration"
+publishedDateTime: 2022-09-20T12:50:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/09/20/9676461.htm"
+webUrl: "https://it.tmcnet.com/news/2022/09/20/9676461.htm"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -38,18 +38,18 @@ related:
       domain: tmcnet.com
     quality: 49
   - title: "HighByte Expands Industrial Connectivity from Microsoft Azure IoT Edge to Azure Digital Twins"
-    excerpt: "The industrial software company has expanded cloud connectivity and improved enterprise IT management with HighByte Intelligence Hub version 2.5."
-    publishedDateTime: 2022-09-22T16:31:00Z
-    webUrl: "https://www.automation.com/en-us/products/september-2022/highbyte-industrial-connectivity-microsoft-azure"
+    excerpt: "HighByte®, an industrial software company, today announced the release of HighByte Intelligence Hub version 2.5 that expands connectivity to Microsoft Azure services, including Azure IoT Edge and Azure IoT Central,"
+    publishedDateTime: 2022-09-22T15:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-highbyte-expands-industrial-connectivity-from-microsoft-azure-iot-/2022/09/22/9679234.htm"
     type: article
     provider:
-      name: Automation
-      domain: automation.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 43
     images:
-      - url: "https://www.automation.com/getmedia/aa63c977-cdce-4db8-9dff-034bafe0dadc/Highbyte-prod-Sept-22-2022-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
+      - url: "https://mma.prnewswire.com/media/1904904/HighByte_Version_2_5_Press_Release_Image.jpg"
+        width: 400
+        height: 220
         isCached: true
   - title: "Cirrus Link Announces IoT Bridge to Connect OT Data to Microsoft Azure"
     excerpt: "Cirrus Link today announced the availability of the IoT Bridge for Microsoft Azure available on the Azure Marketplace, which connects standard MQTT Sparkplug data models to Azure Digital Twin and updates data changes to Azure Data Explorer for time series data."
@@ -61,6 +61,6 @@ related:
       domain: dailyherald.com
     quality: 34
 
-secured: "VCAzGbtrcB7swLUCSV86KsQTev0PEWzBfoMjv4FKkM8CB7ywcAs0whHY10FFRnB+ES2R/69C1u+u1X6knvIZJpgOEFhplpD485aJLLlY1knxsa1K3VEo7gFxyfWNRYHBp4oUEOV384iyJvPlnrEx9lUfgO+qzWCsP4UVBMtK3ghLcQMSMSMS8mq6Hn4ZOC9gnnbU+EOu3LiRh6RSkB4hl+fx76Rk2sWST91vWS05lCzq1+iQPvQRBRJus/7KXvIOPBReaceJozVbub/GGUVCTth4opl7i0YckDRysfBnV777rf7uY2ngZjhn9VLqjBspZwcJQ9fBmwv85hzVQiaYm/7lkpjPkjrsEbPHDNTuoj34zdRBxKEJfM1bM63jnUn7Z48BsbDsalEMrmIUcRQMPQt7NtTzy41fVO0aUhBWnRpCy5Vc0FFu+oFQPcOwZDxjTZo6oT4+l21R6XWIw7jX/aP1RyhQuSCualfwkNvu97uXOdQmGL9iAnwFHKdGeS0R24H2pUcc6OiosqqC7usvhw==;VhhYxqmXB4qP6n66EMSxeg=="
+secured: "fYmBHPwuKAeGvodut+arA3LMXVBkmWUl3l8xBj3uflo94vgp2+Brd/vJRfsHCX3A9d4l/iu/NTv9mgo+50r6Ho0RNLdB96CCkqifeiQIkUi1w8I8FJikkDutVNkCY8WBO7YmWUKh7Q5kktoAbc/r9i04erE2sCsa3jlb2E02vGpwiPsI0K5JiAoD64P3Gw+WSKR7ShN4m4KjrGz6VK6PNMFp3Gu7Ctecy9bAICkphfYUy8JB2FNsdpgvgvpPh3mjv+pgJm8RZ1wVvQ8Hcf6GaTaOgg9xsLFW6RQk3bFQ2E1AzclFqh3bbPfpoUyzreLBzqCx3SMZtwBqtfsmDTMp9RHLHa73Z9+xK5ZeeUnD3gGJdqGBbf5X1XS6DLtSyAmrmYuWvw8YpvpxnPYmzHTMCL2lQ0MrLUgEXo67DUEl4YbBGe9Pdjk7xxb9dgV7fcY3pOXowCiizlnQh5JQfa8/s28dr6qmYOYzmnU8ESocOw6tzDzXgsfFXii0VMfhBUDOUmkvBmx3d+k0zHZQtiwPLA==;FO6msZULwqY3TwGUSlIKwg=="
 ---
 
