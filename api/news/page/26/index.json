@@ -2,6 +2,230 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2022-08-31-tech-whistleblowers-prefer-loud-exit-to-quiet-quitting.md",
+      "title": "Tech Whistleblowers Prefer Loud Exit To Quiet Quitting",
+      "excerpt": "The penchant for tech whistleblowers to quit their jobs with a bang while many of their colleagues engage in “quiet quitting” should be a wake-up call to industry leaders, according to a blog penned by four Forrester analysts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technewsworld.com/story/tech-whistleblowers-prefer-loud-exit-to-quiet-quitting-177039.html",
+      "originalUrl": "https://www.technewsworld.com/story/tech-whistleblowers-prefer-loud-exit-to-quiet-quitting-177039.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNewsWorld",
+        "domain": "technewsworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-a-look-back-at-gartners-data-and-analytics-summit-2022.md",
+      "title": "A Look Back at Gartner's Data and Analytics Summit 2022",
+      "excerpt": "Data and analytics are the lifeblood of modern companies and, like so many other things tech-based, they are evolving.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/analytics/a-look-back-at-gartners-data-and-analytics-summit-2022/",
+      "originalUrl": "https://www.cmswire.com/analytics/a-look-back-at-gartners-data-and-analytics-summit-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-cerebras-systems-enables-gpu-impossible-long-sequence-lengths-improving-accuracy-in-natural-language-processing-models.md",
+      "title": "Cerebras Systems Enables GPU-Impossible™ Long Sequence Lengths Improving Accuracy in Natural Language Processing Models",
+      "excerpt": "This type of GPU infrastructure requires specialized expertise and valuable ... We have come together to build a new class of computer system, designed for the singular purpose of accelerating AI and changing the future of AI work forever.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cerebras-systems-enables-gpu-impossibletm-long-sequence-lengths-improving-accuracy-in-natural-language-processing-models-2022-08-31",
+      "originalUrl": "https://www.marketwatch.com/press-release/cerebras-systems-enables-gpu-impossibletm-long-sequence-lengths-improving-accuracy-in-natural-language-processing-models-2022-08-31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-expertai-launches-turn-language-into-action-a-natural-language-hackathon-for-good.md",
+      "title": "Expert.ai Launches \"Turn Language into Action\" a Natural Language Hackathon for Good",
+      "excerpt": "Expert.ai Launches \"Turn Language into Action\" a Natural Language Hackathon for Good Aug (PRNewswire via COMTEX) -- PR Newswire BOSTON, Aug.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/expertai-launches-turn-language-into-action-a-natural-language-hackathon-for-good-2022-08-31",
+      "originalUrl": "https://www.marketwatch.com/press-release/expertai-launches-turn-language-into-action-a-natural-language-hackathon-for-good-2022-08-31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-revolutions-start-with-the-green-data-center.md",
+      "title": "Revolutions Start With The Green Data Center",
+      "excerpt": "Without the right amount of computing power and the proper investment in green data center technologies to achieve both greater power and efficiency, we won’t be able to harness the intelligence required.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/08/31/revolutions-start-with-the-green-data-center/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/08/31/revolutions-start-with-the-green-data-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630e245943306ea78a04b7de/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/08/31/revolutions-start-with-the-green-data-center/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/08/31/revolutions-start-with-the-green-data-center/amp/",
+      "publishedDateTime": "2022-08-31T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-31-how-france-is-preparing-for-a-future-of-driverless-vehicles.md",
       "title": "How France is preparing for a future of driverless vehicles",
       "excerpt": "The update to the French legal framework will be important for future driverless cars, though. In case of an accident, if the autonomous driving system of the car is activated, the “driver ...",
@@ -830,249 +1054,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-ai-startup-simaai-debuts-purpose-built-ai-chip-for-edge-computing.md",
-      "title": "AI startup SiMa.ai debuts 'purpose-built' AI chip for edge computing",
-      "excerpt": "The chip company places special emphasis on software innovations such as compiler optimization to improve performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/",
-      "originalUrl": "https://www.zdnet.com/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/880f030bba7a4480fe84f79f48a479e12de7a17e/2022/08/30/9a7626ba-c727-4205-8109-e0d5caf30154/sima-mlsoc-evaluation-board.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 749,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/",
-      "publishedDateTime": "2022-08-30T15:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Machine Learning",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-chinook-indian-nation-members-rally-for-federal-recognition.md",
-      "title": "Chinook Indian Nation members rally for federal recognition",
-      "excerpt": "Federal recognition would mean access to federal dollars for healthcare and housing for this group of tribes, which are based in Southwestern Washington.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html",
-      "originalUrl": "https://www.mlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LMMPTFFNCBH4FLHLG5BPF5DKTI.JPG",
-          "width": 5184,
-          "height": 3456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp",
-      "publishedDateTime": "2022-08-30T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MLive",
-        "domain": "mlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-this-woman-created-an-ai-system-to-monitor-her-cats-poop.md",
-      "title": "This Woman Created An AI System to Monitor Her Cat's Poop",
-      "excerpt": "She then took thousands of pictures of her cats pooping, and fed the pictures to a machine learning system so that it could differentiate between Teddy and Luna.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/cat-litter-robot-machine-learning-ai-raspberry-pi-poop-1849475626",
-      "originalUrl": "https://gizmodo.com/cat-litter-robot-machine-learning-ai-raspberry-pi-poop-1849475626",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/cat-litter-robot-machine-learning-ai-raspberry-pi-poop-1849475626/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/cat-litter-robot-machine-learning-ai-raspberry-pi-poop-1849475626/amp",
-      "publishedDateTime": "2022-08-30T14:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-artificial-intelligence-powered-by-google-helps-french-officials-tax-over-20000-undeclared-pools.md",
-      "title": "Artificial Intelligence powered by Google helps French officials tax over 20,000 undeclared pools",
-      "excerpt": "An unusual experiment allowed French tax officials to discover thousands of undeclared swimming pools by using artificial intelligence. More than 20,000 hidden pools generated nearly €10m (£8 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/world/artificial-intelligence-google-french-tax-undeclared-pools",
-      "originalUrl": "https://www.foxnews.com/world/artificial-intelligence-google-french-tax-undeclared-pools",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2019/09/23/1200/675/694940094001_6088542466001_6088555437001-vs.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/world/artificial-intelligence-google-french-tax-undeclared-pools.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/artificial-intelligence-google-french-tax-undeclared-pools.amp",
-      "publishedDateTime": "2022-08-30T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-will-transit-agencies-fight-or-yield-to-the-self-driving-revolution.md",
-      "title": "Will Transit Agencies Fight Or Yield To The Self-Driving Revolution?",
-      "excerpt": "Transit agencies resist solutions to transportation goals that are not transit. Should they have say over policy matters for their competition, and if not, how should policy be decided?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2022/08/30/will-transit-agencies-fight-or-yield-to-the-self-driving-revolution/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2022/08/30/will-transit-agencies-fight-or-yield-to-the-self-driving-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/630e6b2bb16ae3b08215ba24/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 898,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2022/08/30/will-transit-agencies-fight-or-yield-to-the-self-driving-revolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/08/30/will-transit-agencies-fight-or-yield-to-the-self-driving-revolution/amp/",
-      "publishedDateTime": "2022-08-30T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

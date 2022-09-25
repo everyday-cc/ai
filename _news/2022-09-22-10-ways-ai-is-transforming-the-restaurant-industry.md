@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 775
         isCached: true
-  - title: "Putting artificial intelligence and machine learning workloads in the cloud"
-    excerpt: "PA Consulting’s Lee Howells, head of AI, comments on the benefits of implementing artificial intelligence and machine learning workloads in the cloud."
-    publishedDateTime: 2022-09-20T11:11:00Z
-    webUrl: "https://www.paconsulting.com/newsroom/expert-quotes/computer-weekly-putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud-19-september-2022/"
-    type: article
-    provider:
-      name: PA Consulting Group
-      domain: paconsulting.com
-    quality: 56
-    images:
-      - url: "https://www.paconsulting.com/globalassets/images/importedimage/114631-cloud-data-900-x-450jpg"
-        width: 900
-        height: 450
-        isCached: true
   - title: "Artificial Intelligence in the Operating Room"
     excerpt: "While the challenges in the healthcare industry are constantly increasing, hospitals adopting new technologies have helped to alleviate some of those struggles"
     publishedDateTime: 2022-09-20T14:46:00Z

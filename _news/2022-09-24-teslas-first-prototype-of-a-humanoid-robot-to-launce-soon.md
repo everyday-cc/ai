@@ -20,20 +20,6 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Factbox: The challenges automakers, and now Tesla, face with humanoid robots"
-    excerpt: "Tesla's CEO Elon Musk is set to unveil its prototype humanoid robots at an event on Sept. 30, hoping to expand beyond self-driving cars that have not yet become reality despite his repeated promises."
-    publishedDateTime: 2022-09-20T11:44:00Z
-    webUrl: "https://www.reuters.com/technology/challenges-automakers-now-tesla-face-with-humanoid-robots-2022-09-20/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 83
-    images:
-      - url: "https://www.reuters.com/resizer/UIBi6hsuoRG96_8hgRaAlbj-InE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HK3GFOZNRJJNHFHO4TNPIOP7WM.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "The challenges automakers, and now Tesla, face with humanoid robots"
     excerpt: "Tesla's humanoid robots, Optimus, will be initially used in manufacturing and logistics for boring and repetitive work, thus addressing a labour shortage"
     publishedDateTime: 2022-09-21T06:07:00Z

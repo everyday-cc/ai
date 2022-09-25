@@ -46,7 +46,7 @@ related:
     provider:
       name: News Medical
       domain: news-medical.net
-    quality: 38
+    quality: 40
     images:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg"
         width: 620

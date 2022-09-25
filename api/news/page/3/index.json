@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-21-unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority.md",
+      "title": "UNESCO urges government to consider ethics of AI in education as an absolute priority",
+      "excerpt": "The report analysed that the AI market in India has the potential to touch INR 780 crores by 2025 at a compound annual growth rate (CAGR) of 20.2% A report by the United Nations Educational, Scientific and Cultural Organisation (UNESCO) launched in Delhi on Tuesday encouraged an overall regulatory framework for use of artificial intelligence (AI) tools in education.",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/edugraph/news/unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority/cid/1887943",
+      "originalUrl": "https://www.telegraphindia.com/edugraph/news/unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority/cid/1887943",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telegraphindia.com/telegraph/2022/Sep/1663753381_unesco.png",
+          "width": 2560,
+          "height": 1907,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraphindia.com/amp/edugraph/news/unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority/cid/1887943",
+      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/news/unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority/cid/1887943",
+      "publishedDateTime": "2022-09-21T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2022-09-21-startup-diveplane-wants-to-make-ai-ethical.md",
       "title": "Startup Diveplane wants to make AI ethical",
       "excerpt": "In today’s world, artificial intelligence is used to make some big decisions. Colleges rely on it to admit students. Parole boards use it to approve or deny inmate releases. One startup in North Carolina's Research Triangle is striving to make AI systems more ethical,",
@@ -42,6 +86,59 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-3d-facial-recognition-systems-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028.md",
+      "title": "3D Facial Recognition Systems Market landscape, Top Competitor Analysis, Revenue, Sales With Forecast Data from 2022 to 2028",
+      "excerpt": "The purpose of the research report is to provide a clear, accurate, and comprehensive report on the “ 3D Facial Recognition Systems market ”. It should help to clarify the research issues so that management can use the findings to make decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-systems-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-09-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-systems-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-09-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Sales"
       ]
     },
     {
@@ -148,6 +245,50 @@
       ]
     },
     {
+      "path": "_news/2022-09-21-the-challenges-automakers-and-now-tesla-face-with-humanoid-robots.md",
+      "title": "The challenges automakers, and now Tesla, face with humanoid robots",
+      "excerpt": "Tesla's humanoid robots, Optimus, will be initially used in manufacturing and logistics for boring and repetitive work, thus addressing a labour shortage",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/the-challenges-automakers-honda-tesla-general-motors-hyundai-nasa-face-humanoid-robots/article65917068.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/the-challenges-automakers-honda-tesla-general-motors-hyundai-nasa-face-humanoid-robots/article65917068.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/dv0aw0/article65917069.ece/alternates/LANDSCAPE_615/2022-09-20T181456Z_1847150550_RC25LW9ZUUN6_RTRMADP_3_PG-E-FIRE-TESLA.JPG",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/the-challenges-automakers-honda-tesla-general-motors-hyundai-nasa-face-humanoid-robots/article65917068.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/the-challenges-automakers-honda-tesla-general-motors-hyundai-nasa-face-humanoid-robots/article65917068.ece/amp/",
+      "publishedDateTime": "2022-09-20T23:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-21-nvidia-introduces-dlss3-to-generate-ai-powered-frames-with-4x-performance.md",
       "title": "Nvidia introduces DLSS3 to generate AI-powered frames with 4X performance",
       "excerpt": "Nvidia's DLSS 3 will use AI to estimate the best way to fill out images in the company's latest graphics cards.",
@@ -208,7 +349,7 @@
       "originalUrl": "https://techcrunch.com/2022/09/20/salesforce-genie-completely-transforms-the-way-data-moves-on-the-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 239,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -364,7 +505,7 @@
       "originalUrl": "https://www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -457,6 +598,50 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-lets-investigate-a-way-to-invest-in-artificial-intelligence-and-robotics.md",
+      "title": "Let's Investigate a Way to Invest in Artificial Intelligence and Robotics",
+      "excerpt": "A Real Money subscriber wants to be involved with robotics and artificial intelligence in the years to come but doesn't believe he is a good stock picker. So what should he do? Let's check out the charts of the Global X Robotics & Artificial Intelligence ETF (BOTZ) .",
+      "sourceUrl": null,
+      "webUrl": "https://realmoney.thestreet.com/investing/ets/artificial-intelligence-and-robotics-etf-botz-16102690",
+      "originalUrl": "https://realmoney.thestreet.com/investing/ets/artificial-intelligence-and-robotics-etf-botz-16102690",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/4c810e48-a47e-11e7-be5b-71dfc49c8ace.png",
+          "width": 1152,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T11:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -773,7 +958,7 @@
       "originalUrl": "https://www.technologyreview.com/2022/09/20/1059792/the-algorithm-ai-generated-art-raises-tricky-questions-about-ethics-copyright-and-security/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -922,7 +1107,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-changing-the-way-students-learn/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -961,6 +1146,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration.md",
+      "title": "Tecnotree to Accelerate Digital Transition to the Cloud with Microsoft Azure Integration",
+      "excerpt": "Tecnotree's Digital Suite-5 for consumers and business monetization is built natively to run on Kubernetes and is aligned with the Microsoft Azure cloud to drive multi-tenant, multi-region transformations that allow enterprises to lower total-cost-of-ownership (TCO) by eliminating significant upfront investments.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/09/20/9676461.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/09/20/9676461.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1014,249 +1233,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-chinese-ev-maker-xpeng-launches-rival-to-teslas-semi-autonomous-driving-system.md",
-      "title": "Chinese EV maker Xpeng launches rival to Tesla's semi-autonomous driving system",
-      "excerpt": "Xpilot and City NGP is Xpeng's answer to Tesla's Full Self Driving Beta which the company is currently testing with customers in the U.S. In this article Xpeng launched a feature that allows its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/09/20/chinese-electric-vehicle-maker-xpeng-launches-rival-to-teslas-full-self-driving-system.html",
-      "originalUrl": "https://www.cnbc.com/2022/09/20/chinese-electric-vehicle-maker-xpeng-launches-rival-to-teslas-full-self-driving-system.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107121101-1663668816300-gettyimages-1232435166-775646983JZ029_Auto_Shangha.jpeg?v=1663674139",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/09/20/chinese-electric-vehicle-maker-xpeng-launches-rival-to-teslas-full-self-driving-system.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/09/20/chinese-electric-vehicle-maker-xpeng-launches-rival-to-teslas-full-self-driving-system.html",
-      "publishedDateTime": "2022-09-20T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-factbox-the-challenges-automakers-and-now-tesla-face-with-humanoid-robots.md",
-      "title": "Factbox: The challenges automakers, and now Tesla, face with humanoid robots",
-      "excerpt": "Tesla's CEO Elon Musk is set to unveil its prototype humanoid robots at an event on Sept. 30, hoping to expand beyond self-driving cars that have not yet become reality despite his repeated promises.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/challenges-automakers-now-tesla-face-with-humanoid-robots-2022-09-20/",
-      "originalUrl": "https://www.reuters.com/technology/challenges-automakers-now-tesla-face-with-humanoid-robots-2022-09-20/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/UIBi6hsuoRG96_8hgRaAlbj-InE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HK3GFOZNRJJNHFHO4TNPIOP7WM.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-hrs-role-in-people-analytics-and-ai.md",
-      "title": "HR's Role In People Analytics And AI",
-      "excerpt": "Using people analytics in HR functions can bring about positive change—but only if employers cultivate the right approach for their organization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f721d24c84d1ad720732800/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/amp/",
-      "publishedDateTime": "2022-09-20T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-ibm-study-supply-chain-leaders-are-investing-in-ai-and-automation-to-navigate-supply-chain-uncertainties-and-improve-sustainability.md",
-      "title": "IBM Study: Supply Chain Leaders Are Investing in AI and Automation to Navigate Supply Chain Uncertainties and Improve Sustainability",
-      "excerpt": "AI and automation initiatives to build intelligent, resilient, and sustainable supply chains,\" said Jonathan Wright, IBM Consulting Global Managing Partner, Sustainability Services and Global ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/ibm-study-supply-chain-leaders-are-investing-in-ai-and-automation-to-navigate-supply-chain-uncertainties-and-improve-sustainability-301628120.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/ibm-study-supply-chain-leaders-are-investing-in-ai-and-automation-to-navigate-supply-chain-uncertainties-and-improve-sustainability-301628120.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1902478/IBM_CSCO_Video_2022.mp4?p=thumbnail",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-iit-guwahatis-tic-incubates-42-start-ups-in-sectors-like-robotics-it-machine-learning-and-more.md",
-      "title": "IIT Guwahati’s TIC incubates 42 start-ups in sectors like Robotics, IT, Machine Learning and more",
-      "excerpt": "Guwahati’s Technology Incubation Centre (TIC) has incubated 42 start-ups that will work in different sectors such as robotics, IT, water, oil sector, biotechnology, Machine Learning, IoT, renewable energy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraphindia.com/edugraph/news/iit-guwahatis-tic-incubates-42-start-ups-in-sectors-like-robotics-it-machine-learning-and-more/cid/1887755",
-      "originalUrl": "https://www.telegraphindia.com/edugraph/news/iit-guwahatis-tic-incubates-42-start-ups-in-sectors-like-robotics-it-machine-learning-and-more/cid/1887755",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telegraphindia.com/telegraph/2022/Sep/1663669122_iit-guwahati-1.jpg",
-          "width": 560,
-          "height": 352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraphindia.com/amp/edugraph/news/iit-guwahatis-tic-incubates-42-start-ups-in-sectors-like-robotics-it-machine-learning-and-more/cid/1887755",
-      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/news/iit-guwahatis-tic-incubates-42-start-ups-in-sectors-like-robotics-it-machine-learning-and-more/cid/1887755",
-      "publishedDateTime": "2022-09-20T03:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Telegraph",
-        "domain": "telegraphindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

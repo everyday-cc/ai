@@ -2,6 +2,110 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-05-12-the-man-who-controls-computers-with-his-mind.md",
+      "title": "The Man Who Controls Computers With His Mind",
+      "excerpt": "Staring at the computer screen, searching his mind for a way to begin ... interfaces have learned to play simple tunes on a digital keyboard, control exoskeletons and maneuver robotic limbs with enough dexterity to drink from a bottle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.html",
+      "originalUrl": "https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/15/magazine/15mag-BCI/15mag-BCI-facebookJumbo-v5.png",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/12/magazine/brain-computer-interface.amp.html",
+      "publishedDateTime": "2022-05-12T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-synergies-raises-12m-to-give-factory-managers-an-ai-analytics-assistant.md",
+      "title": "Synergies raises $12M to give factory managers an AI analytics assistant",
+      "excerpt": "There’s no lack of startups around the world trying to make industrial activities more efficient with artificial intelligence. Some invent robots to assist or replace manual labor, while others use machine learning to help businesses discover insights.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/",
+      "originalUrl": "https://techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/2.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/amp/",
+      "publishedDateTime": "2022-05-11T21:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-new-robotics-gaming-school-coming-to-piedmont.md",
       "title": "New robotics & gaming school coming to Piedmont",
       "excerpt": "“We know that there will be a huge increase in the number of positions available throughout our state and nation in robotics in gaming in artificial intelligence,” Dr. Contreras said. District ...",

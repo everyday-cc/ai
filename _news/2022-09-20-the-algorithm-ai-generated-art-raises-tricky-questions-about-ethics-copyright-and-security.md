@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2022/09/20/1059792/the-algorithm-ai
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/20/1059792/the-algorithm-ai-generated-art-raises-tricky-questions-about-ethics-copyright-and-security/amp/"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 928
     height: 928
     isCached: true
-
-related:
-  - title: "The Download: AI-generated art and YouTube’s algorithm"
-    excerpt: "This artist is dominating AI-generated art. And he’s not happy about it. Those cool AI-generated images you’ve seen across the internet? There’s a good chance they are based on the works of Greg Rutkowski."
-    publishedDateTime: 2022-09-20T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2022/09/20/1059762/download-ai-generated-art-youtube-algorithm/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 19
 
 secured: "4YWIA7oxE6bSEoMjqmFbLUnQybFL81Cu8imqRV/X8YPKwE8iI3hKBrAyVWCyy8WRJ+uAiy3mDWI11xnUvxi1wTvJ35hEHkYO8wAQ1nwpM76fJnGKjGDA7Ul2d1mQ/pCkQ+L3bBBb87vTrB64y2o/Ev+juOMKk/Ow1Q8ZPG5QAdI8H2/c0TwyyWbupcAOp6DlZU6oSs5QRctosAUGVHhRsrPLvFbEcBChBgE1gAc6LS1O9Ra50XTJnoWS7zQQf31EKP3sGA15pR91Y+hNrH0oYVF3veXeDXbCrU17UzqNw+NrjTmnHfnZJVG5nZ3J+DuTH94qqTxkfKoT4xsVjKSBGRqaTD2QxKgvrRMjDVD+IiI1w3yyAQi7TvTiIYC8PqeINTwdj/LAxgA/isPeN6fst9Qh4sLJ2ahKDF7SU72K0pjR68c+SDSmDdY6Ld2m9vtwDF6T9cTk0b5ki4EFLvWBXUZqjhxNxs73YdSZ1k8o03f70BeigSt0xzW5bU4WmWYTBj6eJx59pM10k4tpQCIXlQ==;a8U7BCBvrLJ+4Co8zo7Nfg=="
 ---

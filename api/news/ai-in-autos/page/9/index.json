@@ -2,6 +2,92 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-08-08-china-drafts-rules-on-use-of-self-driving-vehicles-for-public-transport.md",
+      "title": "China drafts rules on use of self-driving vehicles for public transport",
+      "excerpt": "SHANGHAI: China should adopt autonomous vehicles in passenger transport with care, the country's Ministry of Transportation said in drafted rules to regulate the self-driving industry. The ministry will encourage the use of autonomous vehicles as taxis in easily controlled scenarios in low traffic situations,",
+      "sourceUrl": null,
+      "webUrl": "https://www.carsifu.my/news/china-drafts-rules-on-use-of-self-driving-vehicles-for-public-transport",
+      "originalUrl": "https://www.carsifu.my/news/china-drafts-rules-on-use-of-self-driving-vehicles-for-public-transport",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/08/Untitled1.png",
+          "width": 976,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CarSifu",
+        "domain": "carsifu.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-driverless-car-goal-by-2030-gains-momentum-amid-smart-dubai-initiatives.md",
+      "title": "Driverless-car goal by 2030 gains momentum amid Smart Dubai initiatives",
+      "excerpt": "For instance, we cannot directly switch to driverless cars ... Digital Economy, Artificial Intelligence and Teleworking Applications, underscored the launch of autonomous cars as one of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/business/driverless-car-goal-by-2030-gains-momentum-amid-smart-dubai-initiatives",
+      "originalUrl": "https://www.khaleejtimes.com/business/driverless-car-goal-by-2030-gains-momentum-amid-smart-dubai-initiatives",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.khaleejtimes.com?uuid=4646e4d2-757a-5482-9ca9-d15a9ed60636&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84603&x=0&y=0&width=1200&height=675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/business/driverless-car-goal-by-2030-gains-momentum-amid-smart-dubai-initiatives?amp=1",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business/driverless-car-goal-by-2030-gains-momentum-amid-smart-dubai-initiatives?amp=1",
+      "publishedDateTime": "2022-08-08T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-08-baidu-to-offer-robo-taxis-in-more-cities-alibaba-prepares-for-southbound-connect-eligibility.md",
       "title": "Baidu To Offer Robo Taxis In More Cities, Alibaba Prepares For Southbound Connect Eligibility",
       "excerpt": "Asian equity markets were largely higher on light summer volumes as Pakistan was closed for Ashura, an important Islamic holiday that occurs on the tenth day of Muharram, the first month in the lunar calendar.",
@@ -1286,101 +1372,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-self-driving-truck-accident-draws-attention-to-safety-at-tusimple.md",
-      "title": "Self-Driving Truck Accident Draws Attention to Safety at TuSimple",
-      "excerpt": "For example, a safety driver—a person who sits in the truck to backstop the artificial intelligence—should never be able to engage a self-driving system that isn’t properly functioning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/self-driving-truck-accident-draws-attention-to-safety-at-tusimple-11659346202?tpl=venturecapital",
-      "originalUrl": "https://www.wsj.com/articles/self-driving-truck-accident-draws-attention-to-safety-at-tusimple-11659346202?tpl=venturecapital",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-591288/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T12:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-who-drives-a-driverless-train.md",
-      "title": "Who Drives A Driverless Train?",
-      "excerpt": "Driverless systems like the one in Sydney represent the future of urban clean and efficient transport. In this article, train manufacturer Alstom answers some key questions about driverless trains ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104627148/Who-Drives-A-Driverless-Train",
-      "originalUrl": "https://menafn.com/1104627148/Who-Drives-A-Driverless-Train",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-08/01/R&AN_1fcbbimage_story.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

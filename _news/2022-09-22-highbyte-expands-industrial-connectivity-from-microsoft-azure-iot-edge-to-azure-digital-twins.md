@@ -1,27 +1,27 @@
 ---
 category: news
 title: "HighByte Expands Industrial Connectivity from Microsoft Azure IoT Edge to Azure Digital Twins"
-excerpt: "The industrial software company has expanded cloud connectivity and improved enterprise IT management with HighByte Intelligence Hub version 2.5."
-publishedDateTime: 2022-09-22T16:31:00Z
-originalUrl: "https://www.automation.com/en-us/products/september-2022/highbyte-industrial-connectivity-microsoft-azure"
-webUrl: "https://www.automation.com/en-us/products/september-2022/highbyte-industrial-connectivity-microsoft-azure"
+excerpt: "HighByte®, an industrial software company, today announced the release of HighByte Intelligence Hub version 2.5 that expands connectivity to Microsoft Azure services, including Azure IoT Edge and Azure IoT Central,"
+publishedDateTime: 2022-09-22T15:07:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-highbyte-expands-industrial-connectivity-from-microsoft-azure-iot-/2022/09/22/9679234.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-highbyte-expands-industrial-connectivity-from-microsoft-azure-iot-/2022/09/22/9679234.htm"
 type: article
 quality: 43
 heat: -1
 published: false
 
 provider:
-  name: Automation
-  domain: automation.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.automation.com/getmedia/aa63c977-cdce-4db8-9dff-034bafe0dadc/Highbyte-prod-Sept-22-2022-web.png?width=500&height=313&ext=.png"
-    width: 500
-    height: 313
+  - url: "https://mma.prnewswire.com/media/1904904/HighByte_Version_2_5_Press_Release_Image.jpg"
+    width: 400
+    height: 220
     isCached: true
 
 related:
@@ -43,16 +43,7 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 49
-  - title: "Cirrus Link Announces IoT Bridge to Connect OT Data to Microsoft Azure"
-    excerpt: "Cirrus Link today announced the availability of the IoT Bridge for Microsoft Azure available on the Azure Marketplace, which connects standard MQTT Sparkplug data models to Azure Digital Twin and updates data changes to Azure Data Explorer for time series data."
-    publishedDateTime: 2022-09-20T12:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-9-20-cirrus-link-announces-iot-bridge-to-connect-ot-data-to-microsoft-azure"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 34
 
-secured: "CMnfYhdNU2fNuIWZQLeR+63cWudXtFV97wRPeD/UOXr3UlMTSe4R1oFS5gldvaqZ2mtiCjjDTow9OxfguI9qDkLjJ+DC+MVIgGFtLZzlNtXP38gfLwN03IS6Dg2cFUZL5P//tA6ZXG1T7fd39O1+sFvFn7yNw+IAufol26nslAuou1eOzp/JI5CiOq6pXH/Sh1FEuEG/b3/8meN6BIlj2yOKqq/Oy/tu1eto+7fcxYxwzAavoafGuEeplJj75cwHXqEhpEWOLpb2k2lwkQC77ufEf2tvOUKfWcN+eUg7GlSfJ2VybElsRvyf1MQpptBoaIAbSmyR/mLNRLuQ6DgTUpY9j3S/uKd6Wp6loGmwj6N4NA7KzmwxdkvG9eEt5rc+9MEDOxz6dFIJMCI8+a7R4SYre/flmsp+Cqo3VItkch5bGSPtubd+6qWCA/MgBpZHnRJjnvpc7LdTFCwDHrp09uSrgxFRLRRpyVRc7WL0R1XfSTlEoCXuzbqe1pCAjQDXKhKFcwhP1RscxzVkNB5LVw==;7wImRWZQbjZJsVIKUPNhLw=="
+secured: "Yq0I5wuRPFQMZAEeAWudtOMUKfjuRdVEzDDppuSZMOkk2bmC1VRiKbUqwcUPpKKAEgLmmJPyg7QF2NpGCn/R69QjP80QqQZ6KAOgsYQ9GVPT+htj6SNs+0QwkjqdQcSSnwV4xzdVwStt8wwvpFO5kcbINYqQjQ21Drw0TVGMPRqgcYKuINfdoY9yFapdmBnwnOsV3itBQcrSC79GLOFDhaNM11ey2XjX8pBw+prH+ToV+wySH4YHGa/qyvbNwQZ/599mCVgqLe4LTjKqSxOsaEolMUbLRK/7uHYU18V9u0jyd02FpVsd6wP2E2nCkjwLaXeORZbG2x0s0KXbcifSp9xkbItEHGK2e3ds9/4qrCo=;MV9tzeHvWpjqVdo5/PxC5w=="
 ---
 

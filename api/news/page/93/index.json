@@ -2,6 +2,240 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2022-07-11-bowdoin-college-to-offer-class-on-ethics-of-ai-in-everyday-life.md",
+      "title": "Bowdoin College to offer class on ethics of AI in everyday life",
+      "excerpt": "The course, the first of its kind for the Brunswick liberal arts college, will debut in the fall of 2023 after a year in development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sunjournal.com/2022/07/11/bowdoin-college-to-offer-class-on-ethics-of-ai-in-everyday-life/",
+      "originalUrl": "https://www.sunjournal.com/2022/07/11/bowdoin-college-to-offer-class-on-ethics-of-ai-in-everyday-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://multifiles.pressherald.com/uploads/sites/10/2022/07/31301327_20220708_ArtificialIntelligence_0181.jpg",
+          "width": 634,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-11T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sun Journal",
+        "domain": "sunjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-11-be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh.md",
+      "title": "Be prepared for upheaval due to Artificial Intelligence: Rajnath Singh",
+      "excerpt": "We have to use Artificial Intelligence (AI) for humanity's progress and peace. It should not be the case that a country or a group of countries establish their dominance on this technology -- just like nuclear power -- and the remaining countries are not able to enjoy the fruits of this technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.oneindia.com/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html",
+      "originalUrl": "https://www.oneindia.com/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.oneindia.com/img/2022/07/rajnath-singh3-1657525837.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.oneindia.com/amphtml/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html",
+      "cdnAmpWebUrl": "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html",
+      "publishedDateTime": "2022-07-11T00:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oneindia",
+        "domain": "oneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-11-iisc-joins-hands-with-nokia-to-unveil-center-of-excellence-for-robotics-ai-and-5g.md",
+      "title": "IISc joins hands with Nokia to unveil Center of Excellence for Robotics, AI and 5G",
+      "excerpt": "Nokia will fund the Center of Excellence for a period of years to sustain the first phase of their partnership with IISc.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/iisc-joins-hands-with-nokia-to-unveil-center-of-excellence-for-robotics-ai-and-5g/",
+      "originalUrl": "https://analyticsindiamag.com/iisc-joins-hands-with-nokia-to-unveil-center-of-excellence-for-robotics-ai-and-5g/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/Untitled-design-9.jpg",
+          "width": 2240,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-11T00:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-11-computer-vision-in-healthcare-market-size-2022-2028-industry-share-and-demand-analysis-of-key-players.md",
+      "title": "Computer Vision in Healthcare Market Size 2022-2028 Industry Share and Demand Analysis of Key Players",
+      "excerpt": "Jul 11, 2022 (Market Insight Reports) -- New York, US, This Computer Vision in Healthcare Market Research Report gives the study a complete context and includes estimates based on in-house expert ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-size-2022-2028-industry-share-and-demand-analysis-of-key-players-2022-07-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-size-2022-2028-industry-share-and-demand-analysis-of-key-players-2022-07-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-10T23:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-11-find-what-moves-you.md",
+      "title": "Find what moves you",
+      "excerpt": "First Drive: 2022 Lucid Air Grand Touring Performance Delivers Exactly That The Lucid Air's top-level Grand Touring Performance trim stays true to its name with refined luxury, impressive range ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/1167/",
+      "originalUrl": "https://www.cnet.com/roadshow/1167/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/e588511b23a04b20ba1b2bcbad43926e66cca8cb/2022/04/27/6e683780-bcc3-41c7-99a7-adfdfda611c1/avatar-cnet-cars-square.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-10T18:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-11-building-neural-networks-with-tensorflownet.md",
       "title": "Building Neural Networks With TensorFlow.NET",
       "excerpt": "we call it the Deep Neural Network (DNN). Artificial Neural Networks are a fundamental part of Deep Learning. They are mathematical models of biological neural networks based on the concept of ...",
@@ -879,249 +1113,6 @@
         "Facebook AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-aws-now-lets-you-access-your-very-own-m1-mac-mini-in-the-cloud.md",
-      "title": "AWS now lets you access your very own M1 Mac Mini in the cloud",
-      "excerpt": "Amazon Web Sevices's (AWS) latest addition to its Amazon ... cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and venture capital investment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/aws-now-lets-you-access-your-very-own-m1-mac-mini-in-the-cloud",
-      "originalUrl": "https://www.techradar.com/in/news/aws-now-lets-you-access-your-very-own-m1-mac-mini-in-the-cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/sKXZvLaQHgtG97gXwkZZAo-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-08T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-researchers-develop-self-calibrated-photonic-chip.md",
-      "title": "Researchers Develop Self-calibrated Photonic Chip",
-      "excerpt": "The connectivity of current optical chips has been revolutionised, and a wafer thin slice of silicon has replaced cumbersome 3D-optics! In research led by Monash and RMIT Universities in Melbourne, a sophisticated photonic integrated circuit establishes bridges between data superhighways.",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip",
-      "originalUrl": "https://www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electronicsforu.com/wp-contents/uploads/2022/06/computer-chip-1200-e1655465932285.jpg",
-          "width": 500,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip/amp",
-      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip/amp",
-      "publishedDateTime": "2022-07-08T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics For You",
-        "domain": "electronicsforu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-data-scientist-industry-reaches-point-of-maturity-as-specializations-grow.md",
-      "title": "Data scientist: Industry reaches 'point of maturity' as specializations grow",
-      "excerpt": "Computer science specializations are becoming more common. Codecademy recently introduced new data science learning paths to meet employers' changing expectations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/education/computers-tech/data-science-industry-reaches-point-of-maturity/",
-      "originalUrl": "https://www.zdnet.com/education/computers-tech/data-science-industry-reaches-point-of-maturity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a7387db1a7576e9b16458e25dc5c6f4a2c224a01/2022/07/07/15867fb1-8658-42ad-956b-7d2e552772b8/michelle-mcsweeney.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/education/computers-tech/data-science-industry-reaches-point-of-maturity/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/education/computers-tech/data-science-industry-reaches-point-of-maturity/",
-      "publishedDateTime": "2022-07-08T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-ford-backed-driverless-car-startup-lays-off-150-workers.md",
-      "title": "Ford-Backed Driverless Car Startup Lays Off 150 Workers",
-      "excerpt": "Argo AI laid off about 150 workers this week, a belt-tightening measure following years of fast-paced hiring. The layoffs represented about 6% of the company’s more than 2,000-person workforce, a spokesperson said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ford-backed-driverless-car-startup-lays-off-150-workers-11657289330",
-      "originalUrl": "https://www.wsj.com/articles/ford-backed-driverless-car-startup-lays-off-150-workers-11657289330",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-579737/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-08T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-h3c-tops-in-25-performance-items-at-the-mlperf-ai-benchmark-test.md",
-      "title": "H3C Tops in 25 Performance Items at the MLPerf AI Benchmark Test",
-      "excerpt": "Recently MLPerf an international authoritative AI benchmarking organization announced the latest AI Training list in which H3C servers R5500 G5 R5300 G5 and R4900 G5 topped the closed model partition",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/272614020/h3c-tops-in-25-performance-items-at-the-mlperf-ai-benchmark-test",
-      "originalUrl": "https://www.bignewsnetwork.com/news/272614020/h3c-tops-in-25-performance-items-at-the-mlperf-ai-benchmark-test",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1657866191643.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-08T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

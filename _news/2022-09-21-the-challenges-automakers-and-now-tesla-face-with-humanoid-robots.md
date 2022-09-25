@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/the-challenges-automake
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/the-challenges-automakers-honda-tesla-general-motors-hyundai-nasa-face-humanoid-robots/article65917068.ece/amp/"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 86
+published: true
 
 provider:
   name: The Hindu
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Factbox: The challenges automakers, and now Tesla, face with humanoid robots"
-    excerpt: "Tesla's CEO Elon Musk is set to unveil its prototype humanoid robots at an event on Sept. 30, hoping to expand beyond self-driving cars that have not yet become reality despite his repeated promises."
-    publishedDateTime: 2022-09-20T11:44:00Z
-    webUrl: "https://www.reuters.com/technology/challenges-automakers-now-tesla-face-with-humanoid-robots-2022-09-20/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 83
-    images:
-      - url: "https://www.reuters.com/resizer/UIBi6hsuoRG96_8hgRaAlbj-InE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HK3GFOZNRJJNHFHO4TNPIOP7WM.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla's First Prototype Of A Humanoid Robot To Launce Soon"
     excerpt: "CEO Elon Musk said last year that Tesla was preparing to launch a humanoid robot that could replace boring, repetitive factory jobs and potentia"
     publishedDateTime: 2022-09-24T12:20:00Z

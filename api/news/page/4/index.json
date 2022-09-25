@@ -2,6 +2,249 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-20-chinese-ev-maker-xpeng-launches-rival-to-teslas-semi-autonomous-driving-system.md",
+      "title": "Chinese EV maker Xpeng launches rival to Tesla's semi-autonomous driving system",
+      "excerpt": "Xpilot and City NGP is Xpeng's answer to Tesla's Full Self Driving Beta which the company is currently testing with customers in the U.S. In this article Xpeng launched a feature that allows its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/09/20/chinese-electric-vehicle-maker-xpeng-launches-rival-to-teslas-full-self-driving-system.html",
+      "originalUrl": "https://www.cnbc.com/2022/09/20/chinese-electric-vehicle-maker-xpeng-launches-rival-to-teslas-full-self-driving-system.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107121101-1663668816300-gettyimages-1232435166-775646983JZ029_Auto_Shangha.jpeg?v=1663674139",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/09/20/chinese-electric-vehicle-maker-xpeng-launches-rival-to-teslas-full-self-driving-system.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/09/20/chinese-electric-vehicle-maker-xpeng-launches-rival-to-teslas-full-self-driving-system.html",
+      "publishedDateTime": "2022-09-20T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-factbox-the-challenges-automakers-and-now-tesla-face-with-humanoid-robots.md",
+      "title": "Factbox: The challenges automakers, and now Tesla, face with humanoid robots",
+      "excerpt": "Tesla's CEO Elon Musk is set to unveil its prototype humanoid robots at an event on Sept. 30, hoping to expand beyond self-driving cars that have not yet become reality despite his repeated promises.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/challenges-automakers-now-tesla-face-with-humanoid-robots-2022-09-20/",
+      "originalUrl": "https://www.reuters.com/technology/challenges-automakers-now-tesla-face-with-humanoid-robots-2022-09-20/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/UIBi6hsuoRG96_8hgRaAlbj-InE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HK3GFOZNRJJNHFHO4TNPIOP7WM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-hrs-role-in-people-analytics-and-ai.md",
+      "title": "HR's Role In People Analytics And AI",
+      "excerpt": "Using people analytics in HR functions can bring about positive change—but only if employers cultivate the right approach for their organization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f721d24c84d1ad720732800/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/amp/",
+      "publishedDateTime": "2022-09-20T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-ibm-study-supply-chain-leaders-are-investing-in-ai-and-automation-to-navigate-supply-chain-uncertainties-and-improve-sustainability.md",
+      "title": "IBM Study: Supply Chain Leaders Are Investing in AI and Automation to Navigate Supply Chain Uncertainties and Improve Sustainability",
+      "excerpt": "AI and automation initiatives to build intelligent, resilient, and sustainable supply chains,\" said Jonathan Wright, IBM Consulting Global Managing Partner, Sustainability Services and Global ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/ibm-study-supply-chain-leaders-are-investing-in-ai-and-automation-to-navigate-supply-chain-uncertainties-and-improve-sustainability-301628120.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/ibm-study-supply-chain-leaders-are-investing-in-ai-and-automation-to-navigate-supply-chain-uncertainties-and-improve-sustainability-301628120.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1902478/IBM_CSCO_Video_2022.mp4?p=thumbnail",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-iit-guwahatis-tic-incubates-42-start-ups-in-sectors-like-robotics-it-machine-learning-and-more.md",
+      "title": "IIT Guwahati’s TIC incubates 42 start-ups in sectors like Robotics, IT, Machine Learning and more",
+      "excerpt": "Guwahati’s Technology Incubation Centre (TIC) has incubated 42 start-ups that will work in different sectors such as robotics, IT, water, oil sector, biotechnology, Machine Learning, IoT, renewable energy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/edugraph/news/iit-guwahatis-tic-incubates-42-start-ups-in-sectors-like-robotics-it-machine-learning-and-more/cid/1887755",
+      "originalUrl": "https://www.telegraphindia.com/edugraph/news/iit-guwahatis-tic-incubates-42-start-ups-in-sectors-like-robotics-it-machine-learning-and-more/cid/1887755",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telegraphindia.com/telegraph/2022/Sep/1663669122_iit-guwahati-1.jpg",
+          "width": 560,
+          "height": 352,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraphindia.com/amp/edugraph/news/iit-guwahatis-tic-incubates-42-start-ups-in-sectors-like-robotics-it-machine-learning-and-more/cid/1887755",
+      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/news/iit-guwahatis-tic-incubates-42-start-ups-in-sectors-like-robotics-it-machine-learning-and-more/cid/1887755",
+      "publishedDateTime": "2022-09-20T03:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-artificial-intelligence-robots-market-size-to-record-213-cagr-through-2028.md",
       "title": "Artificial Intelligence Robots Market Size To Record 21.3% CAGR Through 2028",
       "excerpt": "Market Study Report presents latest report on global  Artificial Intelligence (AI) Robots Market,  which evaluates the growth tr",
@@ -933,204 +1176,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-new-artificial-intelligence-recycling-technology-can-sort-plastics-on-its-own.md",
-      "title": "New artificial intelligence recycling technology can sort plastics on its own",
-      "excerpt": "The AI is meant to help the world overcome its struggle with sending recyclable plastics to landfills. New recycling technology has been developed using artifi",
-      "sourceUrl": null,
-      "webUrl": "https://www.hydrogenfuelnews.com/recycling-technology-ai/8554399/",
-      "originalUrl": "https://www.hydrogenfuelnews.com/recycling-technology-ai/8554399/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.hydrogenfuelnews.com/wp-content/uploads/2022/09/Recycling-technology-New-Tech.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hydrogen Fuel News",
-        "domain": "hydrogenfuelnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details.md",
-      "title": "Muxi To Give China Its First Fully-Dedicated Gaming GPU In 2025; Check Details",
-      "excerpt": "Muxi’s 7nm chipset, billed as the companys most powerful GPU to date, is primarily intended to meet the needs of high-end gaming PCs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizbot.com/news/muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details-082672.html",
-      "originalUrl": "https://www.gizbot.com/news/muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details-082672.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizbot.com/img/1200x60x675/img/2022/09/muxi-gpu-card-2025-1663574244.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizbot.com/amphtml/news/muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details-082672.html",
-      "cdnAmpWebUrl": "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/news/muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details-082672.html",
-      "publishedDateTime": "2022-09-19T00:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GIZBOT",
-        "domain": "gizbot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-weride-launches-the-first-self-driving-robobus-test-ride-in-saudi-arabia-at-2022-global-ai-summit.md",
-      "title": "WeRide Launches the First Self-driving Robobus Test Ride in Saudi Arabia at 2022 Global AI Summit",
-      "excerpt": "WeRide launched the first driverless public Robotaxi service in the Middle East in Abu Dhabi, capital of the United Arab Emirates. The launch of the driverless robobus in Riyadh becomes another important milestone in WeRide's global footprint,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/09/19/9675581.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/09/19/9675581.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-18T23:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-even-smartest-ai-models-dont-match-human-visual-processing-study.md",
-      "title": "Even smartest AI models don't match human visual processing: Study",
-      "excerpt": "Deep convolutional neural networks (DCNNs) do not see objects the way humans do -- using configural shape perception -- and that could be dangerous in real-world",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/articleshow/94293780.cms",
-      "originalUrl": "https://www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/articleshow/94293780.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/94294619.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/amp_articleshow/94293780.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/amp_articleshow/94293780.cms",
-      "publishedDateTime": "2022-09-18T21:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-user-clip-chinese-cognitive-warfare.md",
-      "title": "User Clip: Chinese “Cognitive” Warfare",
-      "excerpt": "User-Created Clip by bigxav September 19, 2022 2022-09-19T13:10:32-04:00https://images.c-span.org/Files/61c/002/1663607466_002.jpgHow our adversaries are brainwashing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.c-span.org/video/?c5031762/user-clip-chinese-cognitive-warfare",
-      "originalUrl": "https://www.c-span.org/video/?c5031762/user-clip-chinese-cognitive-warfare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "c-span",
-        "domain": "c-span.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

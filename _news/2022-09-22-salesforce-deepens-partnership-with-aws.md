@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Salesforce deepens partnership with AWS"
-excerpt: "Salesforce has expanded its partnership with Amazon Web Services (AWS) to enable customers to build custom artificial intelligence (AI) models using Amazon SageMaker, AWS’s machine learning (ML ..."
-publishedDateTime: 2022-09-21T18:55:00Z
-originalUrl: "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110"
-webUrl: "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110"
-ampWebUrl: "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110?amp=1"
-cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110?amp=1"
+excerpt: "Salesforce has expanded its partnership with Amazon Web Services (AWS) to enable customers to build custom artificial intelligence (AI) models using Amazon SageMaker, AWS’s machine learning (ML) modeling service,"
+publishedDateTime: 2022-09-21T18:38:00Z
+originalUrl: "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955"
+webUrl: "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955"
+ampWebUrl: "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955?amp=1"
+cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955?amp=1"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: IT World Canada
-  domain: itworldcanada.com
+  name: IT Business
+  domain: itbusiness.ca
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://i.itworldcanada.com/wp-content/uploads/2022/09/GettyImages-1040557296-scaled.jpg"
-    width: 2560
-    height: 1161
+  - url: "https://i.itbusiness.ca/wp-content/uploads/2022/09/GettyImages-1040557296.jpg"
+    width: 2000
+    height: 907
     isCached: true
 
 related:
@@ -85,15 +85,6 @@ related:
         width: 610
         height: 458
         isCached: true
-  - title: "Salesforce Genie is now generally available to power real-time CRM experiences"
-    excerpt: "Salesforce today announced the general availability of the Genie customer data platform (CDP), a high-speed, hyperscalar data lake infrastructure to bring real-time insights from different systems to the Salesforce Customer 360 platform."
-    publishedDateTime: 2022-09-20T12:01:00Z
-    webUrl: "https://www.itworldcanada.com/article/salesforce-genie-is-now-generally-available-to-power-real-time-crm-experiences/503780"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 47
   - title: "Salesforce announces Genie – A new data platform powering the world’s first real-time CRM"
     excerpt: "Genie makes every part of the Customer 360 real-time, so every business can deliver magical customer experiences"
     publishedDateTime: 2022-09-21T10:25:00Z
@@ -122,24 +113,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Salesforce Genie aims to release customer data from the marketing bottle"
-    excerpt: "Salesforce is touting a real-time upgrade to the customer data platform underlying many of its products, a move it says will allow enterprises to better personalize interactions with customers."
-    publishedDateTime: 2022-09-20T12:03:00Z
-    webUrl: "https://www.cio.com/article/407550/salesforce-genie-aims-to-release-customer-data-from-the-marketing-bottle.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 35
-  - title: "Dreamforce 2022: Salesforce debuts Genie CDP to power real-time customer experiences"
-    excerpt: "At the ongoing Dreamforce conference, Salesforce added real-time data capabilities to Customer 360 with the introduction of Genie CDP."
-    publishedDateTime: 2022-09-20T12:04:00Z
-    webUrl: "https://venturebeat.com/data-infrastructure/dreamforce-2022-salesforce-debuts-genie-to-power-real-time-customer-experiences-for-enterprises/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 27
   - title: "Salesforce brings data magic to Customer 360 with Genie"
     excerpt: "David Schmaier, Salesforce president and Chief Product Officer described the launch of Salesforce Genie as “The most significant change to the Salesforce"
     publishedDateTime: 2022-09-21T14:59:00Z
@@ -214,15 +187,6 @@ related:
       name: CRN
       domain: crn.com
     quality: 4
-  - title: "Salesforce unveils Genie, a real-time data platform to power its apps"
-    excerpt: "Rahul Auradkar, head of customer data platform at Salesforce, told SiliconANGLE that Genie was built to create a single platform to unify and personalize data that could be accessed in real-time and power the entirety of Salesforce’s platform."
-    publishedDateTime: 2022-09-20T12:00:00Z
-    webUrl: "https://siliconangle.com/2022/09/20/salesforce-unveils-genie-real-time-data-platform-power-apps/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 4
   - title: "Dreamforce 2022: the biggest Salesforce and Slack news"
     excerpt: "Salesforce’s Genie customer data platform, a preview of a canvas feature in Slack and an open beta of the rebuilt, more modular Slack are among the biggest announcements at Salesforce’s Dreamforce 2022 conference."
     publishedDateTime: 2022-09-20T20:39:00Z
@@ -233,6 +197,6 @@ related:
       domain: crn.com.au
     quality: 4
 
-secured: "yuPP0dcy7p+cQwLNx0QSVHza66w113DlkXkAcLzu1d6WeAG2s9RIS6lE1dItO6STlyjG5YwE5iXzjl5RjbKr73AcpqhEh7pplQVPNqSE2xS1Ub1qRa1pbpR0Th45BJNJZIiwLIvr1co21ryPn4aowugSNMb0jhKoA08y0XO9lZSRNwNtUi5E8SWyY1KGAiivqani5r8ACoQoYQTy83M274HRFREXsKuOMHEaMhe6iFQHE0j1nvFpoer1DBY1Y/BKiT6u0MShpZXzQwgWfZcsSKSWKl9CTuJtCMSo+EtgMrWWCompZ05N7T2uKENU1WRnCJVSq9xwBjbfGarmdRKMRN1ph8ckQ/KpsDIv0/V6V2g=;orPu87VUIm+M9ef6CGzwwA=="
+secured: "SlCW3KRUrQ80KAfO70+FneqyP83QrUevtlhnEHQmB6njiBm/3BmeZsuGVLVzmOa4PfLZqc8nskcAu4eXvDUu81FsY9/Xrp2iVbjVXHqMyBqCGj+cEiUhbdhvRLei1Azjtuw5moh10vwnifOoc+nCHRrtG8qXuHbq6bLBb4QOtoYMqaq3Kl1EMZkXV2clzV0mReSAEgKG8CjyzED4PlCB6Ij5Ku61xDWg+bvSaurQQj5KRPl/33G7255BFYluTQbjz8mDOOqlEj1aUaDrQZgIgqRMJzbBcXp5ZdYUF5vRkrjHdHT6dZZvRN5S45hM5yErvUdiemLlT0VY8dZYTvBr8pNIh2eY/6KtepWtRY1go1U=;XzIsvjnO64Kxaqhlg02FXA=="
 ---
 

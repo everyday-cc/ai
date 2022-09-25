@@ -2,6 +2,103 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-07-07-artificial-intelligence-investment-in-innovation-is-a-key-to-success.md",
+      "title": "Artificial Intelligence: Investment In Innovation Is A Key To Success",
+      "excerpt": "The Encyclopedia Britannica defines artificial intelligence (AI) as \"the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings.\" In simple terms,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62c597017ee5d8e458ae64dd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/amp/",
+      "publishedDateTime": "2022-07-07T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-ai-boosts-rural-connectivity-healthcare.md",
+      "title": "AI boosts rural connectivity & healthcare",
+      "excerpt": "A total of 15 villages in different parts of the country may soon be seamlessly connected through a next-generation networking solution that can address congestion issues in 4G infrastructure and prov",
+      "sourceUrl": null,
+      "webUrl": "https://orissadiary.com/ai-boosts-rural-connectivity-healthcare/",
+      "originalUrl": "https://orissadiary.com/ai-boosts-rural-connectivity-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/orissadiary.com/wp-content/uploads/2022/07/image00120E0.jpg?fit=624%2C416&ssl=1",
+          "width": 624,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odisha Diary",
+        "domain": "orissadiary.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-ecovacs-robotics-introduces-enhanced-ai-technology-for-intelligent-floor-cleaning-with-launch-of-deebot-t10-in-malaysia.md",
       "title": "ECOVACS ROBOTICS Introduces Enhanced AI Technology for Intelligent Floor Cleaning with Launch of DEEBOT T10 in Malaysia",
       "excerpt": "The new DEEBOT combines next-generation technologies, such as AIVI 3.0 Upgraded AI-based Object Recognition and Avoidance technology, that offer tech-savvy households unique advantages.",
@@ -1211,75 +1308,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-global-artificial-intelligence-ai-market-report-2022-with-special-focus-on-investments-with-an-overview-of-patents-and-patent-applications.md",
-      "title": "Global Artificial Intelligence (AI) Market Report 2022 with Special Focus on Investments with an Overview of Patents and Patent Applications",
-      "excerpt": "Market: Investments vs Potential\" report has been added to ResearchAndMarkets.com's offering. The scope of this report is broad and covers the global markets for AI, which is increasingly being implemented across a wide range of industries for various applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-market-report-2022-with-/2022/06/29/9630648.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-market-report-2022-with-/2022/06/29/9630648.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-global-industrial-robot-market-report-2022-2026-growing-electronics-industry-and-growing-role-of-artificial-intelligence-in-robotics-driving.md",
-      "title": "Global Industrial Robot Market Report 2022-2026: Growing Electronics Industry and Growing Role of Artificial Intelligence in Robotics Driving Sector",
-      "excerpt": "Some of these innovations include underwater robotics, human-robot interaction, legged mobility, machine learning (ML), and self-driving vehicles. More trends in the market are believed to grow ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/g27896023/global-industrial-robot-market-report-2022-2026-growing-electronics-industry-and-growing-role-of-a",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27896023/global-industrial-robot-market-report-2022-2026-growing-electronics-industry-and-growing-role-of-a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27896023",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27896023",
-      "publishedDateTime": "2022-06-29T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

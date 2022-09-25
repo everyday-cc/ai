@@ -2,29 +2,25 @@
 category: news
 title: "People who distrust fellow humans show greater trust in artificial intelligence"
 excerpt: "A person's distrust in humans predicts they will have more trust in artificial intelligence's ability to moderate content online, according to a recently published study. The findings, the researchers say,"
-publishedDateTime: 2022-09-22T05:23:00Z
-originalUrl: "https://techxplore.com/news/2022-09-people-distrust-fellow-humans-greater.html"
-webUrl: "https://techxplore.com/news/2022-09-people-distrust-fellow-humans-greater.html"
-ampWebUrl: "https://techxplore.com/news/2022-09-people-distrust-fellow-humans-greater.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-people-distrust-fellow-humans-greater.amp"
+publishedDateTime: 2022-09-22T14:07:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/09/220921210021.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/09/220921210021.htm"
 type: article
-quality: 53
-heat: 53
+quality: 43
+heat: 43
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-4.jpg"
-    width: 1920
-    height: 1080
-    isCached: true
-
-secured: "8+8hvU1b6JuvJ0nxQTGlEgGBWPWRm/sXR8S60UFjY61XfxMYBHWdiaXAWAlNQ9YoRZxgYYFqj5dIUr8WNaoNXChVUShm7fXz68fYwWKLrxWx4loV5t4NqEVnOPcupDn6pyrPiq6HNYv/+sjTzXF0OfmPO+2kNok/PDKlq4EgGDrPoOcg7ywTr+7vnvO6+miPfrnSk8R4qkOqBCpGmoQCgMk+EkI3CU4dx2MuJ3bjZFVSf4KaEA0xX+h/dF3npwKtNKWfvK23iKGEUGgxpG5bFgaL9OmUa8hvdvWiEo7T07pgjYymYNN6HFcEcePz1AO84rhnd1jOdLEk8n4DQEyKcrKeXSmXZEIprhRZ5gmbLdA=;RV6sJdk4a2kbb3DJpK4Iag=="
+secured: "R6hR8X1wwyiekHWjp4sW8puD0IhMY/YeUwnxku8Uw0g0caaTmoeV91xLim1GtEhQD8ILbgwIGyMYSxo9V/+shdB9Mkmc+kuhiRvHZr+QgUtSkAS8pgET0PEkrUf6++b4m5MTgNozJ1g+cTxy+xhN6EhMxBqlXaQZQgnFDXhAW8QBq+k2yLEaKihNIDRC48N1JpGAO5qysZL5oD4f6lFZyqfV85tivOHaKu7CtF/d5q4Jf9XGT3//Zm9YxKbVFpQQg8PH2kb8cgEFh+V5FYA+iHCUa8ZVnrtiIu/u4UCjv5OfuLTcN3Ex4DDBWieiPjNJ1IrpLYPcVSCtNqDI8tacpAaJzjSOi1A36yhbRXrTMNM=;2mFMUZGDc7pgvPD1fc2pXw=="
 ---
 

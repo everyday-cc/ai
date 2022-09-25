@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-08-umethod-getlabs-partner-to-make-personalized-cognitive-decline-care-plans-accessible-in-arizona.md",
+      "title": "uMETHOD, Getlabs partner to make personalized cognitive decline care plans accessible in Arizona",
+      "excerpt": "One of the biggest reasons why cognitive decline patients can’t adhere to their care plans is unfulfilled lab orders, he said in an interview. By adding Getlabs’ at-home phlebotomy services to ...",
+      "sourceUrl": null,
+      "webUrl": "https://medcitynews.com/2022/09/umethod-getlabs-partner-to-make-personalized-cognitive-decline-care-plans-accessible-in-arizona/",
+      "originalUrl": "https://medcitynews.com/2022/09/umethod-getlabs-partner-to-make-personalized-cognitive-decline-care-plans-accessible-in-arizona/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medcitynews.com/uploads/2021/06/GettyImages-1174687693.jpg",
+          "width": 626,
+          "height": 557,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-07T14:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-07-insomnia-increases-the-likelihood-of-memory-decline-in-older-adults-according-to-new-research.md",
       "title": "Insomnia increases the likelihood of memory decline in older adults, according to new research",
       "excerpt": "A new study has found that older people with insomnia are at greater risk of developing memory decline and long-term cognitive impairment such as dementia. The study, published in the journal ...",
@@ -1253,40 +1296,6 @@
       "provider": {
         "name": "Daily Mail",
         "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-voting-open-who-should-be-the-2022-most-influential-woman-in-uk-tech.md",
-      "title": "Voting open: Who should be the 2022 Most Influential Woman in UK Tech?",
-      "excerpt": "Each year, we ask our audience who should be named the most influential woman in UK technology. Tell us what you think.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252524478/Voting-open-Who-should-be-the-2022-Most-Influential-Woman-in-UK-Tech",
-      "originalUrl": "https://www.computerweekly.com/news/252524478/Voting-open-Who-should-be-the-2022-Most-Influential-Woman-in-UK-Tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252524478/Voting-open-Who-should-be-the-2022-Most-Influential-Woman-in-UK-Tech?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252524478/Voting-open-Who-should-be-the-2022-Most-Influential-Woman-in-UK-Tech?amp=1",
-      "publishedDateTime": "2022-09-01T00:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
         "images": null,
         "publishers": null,
         "authors": null

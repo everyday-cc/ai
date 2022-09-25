@@ -447,6 +447,40 @@
       ]
     },
     {
+      "path": "_news/2022-09-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration.md",
+      "title": "Tecnotree to Accelerate Digital Transition to the Cloud with Microsoft Azure Integration",
+      "excerpt": "Tecnotree's Digital Suite-5 for consumers and business monetization is built natively to run on Kubernetes and is aligned with the Microsoft Azure cloud to drive multi-tenant, multi-region transformations that allow enterprises to lower total-cost-of-ownership (TCO) by eliminating significant upfront investments.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/09/20/9676461.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/09/20/9676461.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-will-servicenow-be-worth-more-than-microsoft-by-2030.md",
       "title": "Will ServiceNow Be Worth More Than Microsoft by 2030?",
       "excerpt": "Just like other richly valued tech stocks, ServiceNow lost some luster as interest rates rose over the past year. Image source: . Nevertheless, ServiceNow has still generated massive gains for its initial investors and will likely continue to generate double-digit sales growth for years to come.",
@@ -708,24 +742,33 @@
     {
       "path": "_news/2022-09-16-diet-could-play-a-role-in-cognitive-function-across-diverse-races-and-ethnicities.md",
       "title": "Diet could play a role in cognitive function across diverse races and ethnicities",
-      "excerpt": "Dietary choices and their consequences may certainly influence cognitive function ... Metabolon offers biochemical profiling services and is developing molecular diagnostic assays detecting ...",
+      "excerpt": "Dietary choices and their consequences may certainly influence cognitive function. A new study led by investigators at Brigham and Women's Hospital, a founding member of the Mass General Brigham ...",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/964717",
-      "originalUrl": "https://www.eurekalert.org/news-releases/964717",
+      "webUrl": "https://medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/diet-could-play-a-role.jpg",
+          "width": 1280,
+          "height": 703,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T04:10:00-07:00",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.amp",
+      "publishedDateTime": "2022-09-16T09:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1176,22 +1219,31 @@
       "title": "Study indicates a daily multivitamin slows cognitive decline",
       "excerpt": "Findings recently published in the Alzheimer’s & Dementia: The Journal of the Alzheimer’s Association found that a daily multivitamin could improve cognitive function and physical health for ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wtkr.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline",
-      "originalUrl": "https://www.wtkr.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline",
+      "webUrl": "https://www.wcpo.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline",
+      "originalUrl": "https://www.wcpo.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/f396308/2147483647/strip/true/crop/4288x2412+0+218/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fd5%2Fce%2F46ddf89241d7b19cf9378fbe1843%2Fhuman-brain-and-computer-technician-sbi-300980044.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T12:07:00-07:00",
+      "ampWebUrl": "https://www.wcpo.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline?_amp=true",
+      "cdnAmpWebUrl": "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline?_amp=true",
+      "publishedDateTime": "2022-09-14T12:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WTKR",
-        "domain": "wtkr.com",
+        "name": "WCPO Cincinnati",
+        "domain": "wcpo.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1281,40 +1333,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-study-shows-daily-multivitamin-use-may-slow-cognitive-aging-for-older-adults.md",
-      "title": "Study shows daily multivitamin use may slow cognitive aging for older adults",
-      "excerpt": "Alzheimer’s & Dementia: The Journal of the Alzheimer’s Association has published “Effects of cocoa extract and a multivitamin on cognitive function: a randomized clinical trial.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/964446",
-      "originalUrl": "https://www.eurekalert.org/news-releases/964446",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

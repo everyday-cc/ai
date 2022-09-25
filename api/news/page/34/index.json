@@ -2,6 +2,246 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2022-08-25-join-us-in-the-ai-test-kitchen.md",
+      "title": "Join us in the AI Test Kitchen",
+      "excerpt": "As AI technologies continue to advance, they have the potential to unlock new experiences that support more natural human-computer interactions. We see a future where you can find the information you’re looking for in the same conversational way you speak to friends and family. While there’s still lots",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/join-us-in-the-ai-test-kitchen/",
+      "originalUrl": "https://blog.google/technology/ai/join-us-in-the-ai-test-kitchen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/image_louDEPv.max-1300x1300.png",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/join-us-in-the-ai-test-kitchen/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/join-us-in-the-ai-test-kitchen/amp/",
+      "publishedDateTime": "2022-08-25T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-googles-new-app-lets-you-experimental-ai-systems-like-lamda.md",
+      "title": "Google’s new app lets you experimental AI systems like LaMDA",
+      "excerpt": "Google has launched AI Test Kitchen, an app previewed at Google I/O 2022 that lets users test experimental systems, including LaMDA, developed by the company's internal research divisions.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/25/googles-new-app-lets-you-experimental-ai-systems-like-lamda/",
+      "originalUrl": "https://techcrunch.com/2022/08/25/googles-new-app-lets-you-experimental-ai-systems-like-lamda/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1230444599-1-e1660816546129.jpg?w=1024",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/25/googles-new-app-lets-you-experimental-ai-systems-like-lamda/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/25/googles-new-app-lets-you-experimental-ai-systems-like-lamda/amp/",
+      "publishedDateTime": "2022-08-25T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-microsoft-describes-magicweb-attacks-using-active-directory-federation-services.md",
+      "title": "Microsoft Describes 'MagicWeb' Attacks Using Active Directory Federation Services",
+      "excerpt": "Microsoft on Wednesday described \"MagicWeb\" attacks by an advanced persistent threat group called \"Nobelium,\" advising organizations using Active Directory Federation Services (ADFS) to take ...",
+      "sourceUrl": null,
+      "webUrl": "https://redmondmag.com/articles/2022/08/25/microsoft-describes-magicweb-attacks-using-active-directory-federation-services.aspx",
+      "originalUrl": "https://redmondmag.com/articles/2022/08/25/microsoft-describes-magicweb-attacks-using-active-directory-federation-services.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Redmond Magazine",
+        "domain": "redmondmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-why-we-need-ai-for-sustainable-infrastructure.md",
+      "title": "Why We Need AI For Sustainable Infrastructure",
+      "excerpt": "The ability of AI, and specifically machine learning, to recognize patterns and respond instantly might be the key to a future of sustainable infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/siemens-smart-infrastructure/2022/08/25/why-we-need-ai-for-sustainable-infrastructure/",
+      "originalUrl": "https://www.forbes.com/sites/siemens-smart-infrastructure/2022/08/25/why-we-need-ai-for-sustainable-infrastructure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62f54577752c76f7d8750eff/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/siemens-smart-infrastructure/2022/08/25/why-we-need-ai-for-sustainable-infrastructure/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siemens-smart-infrastructure/2022/08/25/why-we-need-ai-for-sustainable-infrastructure/amp/",
+      "publishedDateTime": "2022-08-25T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-mckinsey-report-two-ai-trends-top-2022-outlook.md",
+      "title": "McKinsey report: Two AI trends top 2022 outlook",
+      "excerpt": "Newly-released McKinsey report named applied AI and industrializing machine learning as two significant technology trends unfolding today.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/mckinsey-report-two-ai-trends-top-2022-outlook/",
+      "originalUrl": "https://venturebeat.com/ai/mckinsey-report-two-ai-trends-top-2022-outlook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1239935010.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/mckinsey-report-two-ai-trends-top-2022-outlook/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/mckinsey-report-two-ai-trends-top-2022-outlook/amp/",
+      "publishedDateTime": "2022-08-25T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-25-north-america-deep-learning-chip-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2027.md",
       "title": "North America Deep Learning Chip Market Segmentation, Future Trends, Growth Overview, Key Companies and Forecast by 2027",
       "excerpt": "Driving factor such as the rising investments in deep learning chip start-ups is propelling the growth of the deep learning chip market. Further, the increasing adoption of cloud-based computing across several industries is anticipated to boost the deep learning chip market growth in the near future.",
@@ -924,249 +1164,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-the-next-technological-time-warp.md",
-      "title": "The Next Technological Time Warp",
-      "excerpt": "Even if you look at other modalities, like early image generation models and their ability to generate faces—not to mention today’s image generation capabilities with models such as DALL-E 2—telling the difference between human-generated and AI-generated content has been difficult for quite some time now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/servicenow/2022/08/24/the-next-technological-time-warp/",
-      "originalUrl": "https://www.forbes.com/sites/servicenow/2022/08/24/the-next-technological-time-warp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6306c01dd2c11b73cd7d1fdb/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/servicenow/2022/08/24/the-next-technological-time-warp/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2022/08/24/the-next-technological-time-warp/amp/",
-      "publishedDateTime": "2022-08-24T17:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-advancing-conservation-with-ai-based-facial-recognition-of-turtles.md",
-      "title": "Advancing conservation with AI-based facial recognition of turtles",
-      "excerpt": "We came across Zindi – a dedicated partner with complementary goals – who are the largest community of African data scientists and host competitions that focus on solving Africa’s most pressing problems. Our Science team’s Diversity, Equity, and Inclusion (DE&I) team worked with Zindi to identify a scientific",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/advancing-conservation-with-ai-based-facial-recognition-of-turtles",
-      "originalUrl": "https://www.deepmind.com/blog/advancing-conservation-with-ai-based-facial-recognition-of-turtles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/63061177d7f69d1362d8131e_w-VkMnf2sMOOlIQBg5mgjxCmIR8jzbdk4dNkoVyq55So3N0zNdWUa2xSQs0hRJxneQhGae3Nz62pNaqLggj4tm-EN8XO229WRDuZYUBcCtOdGsEsKMAQBLW5UkyFfhlPwtOozh-6VcDJ50RV0SZZXleKsSytCDJr422G1RwVKwcftW3p_2XXpFufsJKeO0dDa6PUQZVRnRmKCK-FKwzbd8yYSjLsHz-eaw.png",
-          "width": 1600,
-          "height": 1427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-daily-crunch-4chan-users-exploit-ai-image-generators-ability-to-create-realistic-nude-deepfakes.md",
-      "title": "Daily Crunch: 4chan users exploit AI image generator’s ability to create realistic nude deepfakes",
-      "excerpt": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/24/daily-crunch-4chan-users-exploit-ai-image-generators-ability-to-create-realistic-nude-deepfakes/",
-      "originalUrl": "https://techcrunch.com/2022/08/24/daily-crunch-4chan-users-exploit-ai-image-generators-ability-to-create-realistic-nude-deepfakes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/ai-gen-unfiltered.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/24/daily-crunch-4chan-users-exploit-ai-image-generators-ability-to-create-realistic-nude-deepfakes/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/24/daily-crunch-4chan-users-exploit-ai-image-generators-ability-to-create-realistic-nude-deepfakes/amp/",
-      "publishedDateTime": "2022-08-24T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-lyft-and-motionals-new-electric-robotaxis-now-offering-rides-in-las-vegas.md",
-      "title": "Lyft and Motional's New Electric Robotaxis Now Offering Rides in Las Vegas",
-      "excerpt": "The updated ride comes ahead of Lyft and Motional's plans to offer a fully driverless service in the city in 2023. The Hyundai Ioniq 5-based car (Motional is a joint venture company between ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/lyft-and-motionals-new-electric-robotaxis-now-offering-rides-in-las-vegas/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/lyft-and-motionals-new-electric-robotaxis-now-offering-rides-in-las-vegas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/c752f13170ff1355ede91cf58e7cf5dd48a85687/2022/08/22/4b3e9a87-fb25-46cb-a631-6d8b8641422b/ioniq-motional-lyft-branded.jpg?auto=webp&fit=crop&height=630&precrop=1824,1025,x126,y99&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/lyft-and-motionals-new-electric-robotaxis-now-offering-rides-in-las-vegas/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lyft-and-motionals-new-electric-robotaxis-now-offering-rides-in-las-vegas/",
-      "publishedDateTime": "2022-08-24T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-does-louisiana-have-a-plan-to-safely-house-teens-in-angola-here-are-new-details.md",
-      "title": "Does Louisiana have a plan to safely house teens in Angola? Here are new details.",
-      "excerpt": "15, but a lawsuit and a host of advocates say officials still haven’t laid out a plan for how they will do that while keeping the youths safe and providing them services required ... stored in a Microsoft Word document, show it is a near-copy of a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theadvocate.com/baton_rouge/news/crime_police/article_f045e0c2-23cd-11ed-9490-1b3e3a49bd54.html",
-      "originalUrl": "https://www.theadvocate.com/baton_rouge/news/crime_police/article_f045e0c2-23cd-11ed-9490-1b3e3a49bd54.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Advocate",
-        "domain": "theadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

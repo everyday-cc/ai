@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/self-driving-car-pedestrian-safety-eyes-174
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595?amp=1"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -77,15 +77,6 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 4
-  - title: "Robotic eyes on self-driving vehicles could reduce road accidents, says research"
-    excerpt: "The major difference with self-driving vehicles is that drivers may become more of a passenger. They may not be giving full attention on the road. This makes it tough for pedestrians to ascertain if a vehicle has registered their presence,"
-    publishedDateTime: 2022-09-20T12:25:00Z
-    webUrl: "https://www.hindustantimes.com/technology/robotic-eyes-on-self-driving-vehicles-could-reduce-road-accidents-says-research-101663669867771.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 0
 
 secured: "hyGn88s5/FT/YyyLjv1zQtn3aaHfWQvXEatsNKHO6+wvMjF2JtwuVbCKStpYww9u0tIlXv9nT9EpGNbEV5pxvH3l81B1snrMMomeDxZppLpdwbgnfWOOIJR9r0jHFzKyypS3k5wl1hSqUopmTeIFhej0Jkk+OSzW4eOXvztMRcQeLaBkNFCZF5U0scI9rfSatpHydfCZ6PRbLzn8FEGBHvgUJ9OGJtpADbAj7C0vR3Vpr2tAW7yeo2CEINjY/TCbhiWCzvpFTYZDBSm/mN23Jv1wC3PJpxB2nZaBm7vJQwWceNSi9NnsPPosbvyB/Hmh4qIkiAAn46y2ljEszjUBsdhhy2T7b+XUsObXe+31NRc=;goKSazcOhog7kh6PFMEXCQ=="
 ---

@@ -22,84 +22,64 @@ topics:
   - AI
 
 related:
-  - title: "HR's Role In People Analytics And AI"
-    excerpt: "Using people analytics in HR functions can bring about positive change—but only if employers cultivate the right approach for their organization."
-    publishedDateTime: 2022-09-20T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/amp/"
+  - title: "The pitch deck AI startup Paretos used to raise $10 million"
+    excerpt: "Paretos offers a decision-intelligence platform that helps companies solve complex problems without having to hire data scientists."
+    publishedDateTime: 2022-09-23T10:41:00Z
+    webUrl: "https://www.businessinsider.com/see-the-pitch-deck-ai-startup-paretos-raise-10-million-2022-9"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f721d24c84d1ad720732800/0x0.jpg?format=jpg&width=1200"
+      - url: "https://i.insider.com/632d8e4db431eb0019815c5f?width=1200&format=jpeg"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Read the 11-page pitch deck AI startup Hour One used to raise a $20 million Series A"
+    excerpt: "Hour One makes avatars, or \"virtual humans,\" using AI. Read the pitch deck that helped them raise a $20 million Series A round."
+    publishedDateTime: 2022-09-23T15:47:00Z
+    webUrl: "https://www.businessinsider.com/pitch-deck-ai-avatar-startup-hour-one-raise-20-million-2022-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://i.insider.com/63121f0f3e08f700196c837d?width=1200&format=jpeg"
         width: 1200
-        height: 900
+        height: 600
         isCached: true
-  - title: "Let's Investigate a Way to Invest in Artificial Intelligence and Robotics"
-    excerpt: "A Real Money subscriber wants to be involved with robotics and artificial intelligence in the years to come but doesn't believe he is a good stock picker. So what should he do? Let's check out the charts of the Global X Robotics & Artificial Intelligence ETF (BOTZ) ."
-    publishedDateTime: 2022-09-20T18:11:00Z
-    webUrl: "https://realmoney.thestreet.com/investing/ets/artificial-intelligence-and-robotics-etf-botz-16102690"
+  - title: "Speech technology startup Murf AI raises $10 million in funding led by Matrix Partners"
+    excerpt: "The startup will use the funds to drive further product innovation, accelerate research and development, as well as scale its presence in focused geographies."
+    publishedDateTime: 2022-09-21T06:18:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/speech-technology-startup-murf-ai-raises-10-million-in-funding-led-by-matrix-partners/articleshow/94344021.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/funding/speech-technology-startup-murf-ai-raises-10-million-in-funding-led-by-matrix-partners/amp_articleshow/94344021.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/speech-technology-startup-murf-ai-raises-10-million-in-funding-led-by-matrix-partners/amp_articleshow/94344021.cms"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 70
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 49
     images:
-      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/4c810e48-a47e-11e7-be5b-71dfc49c8ace.png"
-        width: 1152
-        height: 768
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-88766,msid-94344110/murf-founders.jpg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "AI and Automation to Power Banking Sector Transformation: SPIN Analytics at DTW 2022"
-    excerpt: "In conjunction with the ongoing Digital Transformation World (DTW) 2022, Ariana Lynn, Senior Editor at The Fast Mode spoke to Panos Skliamis, CEO and Founder of SPIN Analytics."
-    publishedDateTime: 2022-09-21T13:04:00Z
-    webUrl: "https://www.thefastmode.com/videos/27651-ai-and-automation-to-power-banking-sector-transformation-spin-analytics-at-dtw-2022"
+  - title: "We got an exclusive look at the 9-slide pitch deck Innovafeed, an insect protein startup, used to raise $250 million"
+    excerpt: "The Series D funding round will be invested in technology, new sites in the US, and will be used to grow Innovafeed's 400-strong headcount."
+    publishedDateTime: 2022-09-22T07:00:00Z
+    webUrl: "https://www.businessinsider.com/innovafeed-250-million-production-insects-for-food-pitch-deck-2022-9"
     type: article
     provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 47
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
     images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/043a9e295a2fd8ba758801a227aad0fd.jpg?t=20220921_124815"
-        width: 753
-        height: 408
+      - url: "https://i.insider.com/632af456edbe7f00190f2bb5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Infima's Deep Learning Technologies Set New Mortgage-Backed Security Analytics Standards, Broadening Coverage"
-    excerpt: "SAN MATEO, CA / ACCESSWIRE /, 2022 / Infima, a fixed-income predictive analytics provider, announced today that it has expanded its coverage of mortgage securities (MBS) to bonds backed by government agency Ginnie Mae."
-    publishedDateTime: 2022-09-20T13:14:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272778366/infimas-deep-learning-technologies-set-new-mortgage-backed-security-analytics-standards-broadening-coverage"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 37
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1664044470285.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Data analytics: Seeing deeper, optimizing better"
-    excerpt: "Just as updating eyeglass prescriptions bring the world into sharper focus, longstanding data analytics solutions can be extended by new and more digitalized tools that identify details and opportunities that weren’t visible before."
-    publishedDateTime: 2022-09-23T12:57:00Z
-    webUrl: "https://www.controlglobal.com/manage/data-analytics/article/21435305/data-analytics-seeing-deeper-optimizing-better"
-    type: article
-    provider:
-      name: Control Global
-      domain: controlglobal.com
-    quality: 4
-  - title: "IgniteTech 'Turbo-Charges' BryterCX and the Journey Intelligence Industry with Predictive Analytics Capabilities"
-    excerpt: "Iris Insights™ uses ML/AI to identify customer experience problems to quickly surface and resolve issues AUSTIN, Texas, Sept. /PRNewswire/ -- IgniteTech™, the company \"Where Software Goes to"
-    publishedDateTime: 2022-09-23T14:18:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/n28984977/ignitetech-turbo-charges-brytercx-and-the-journey-intelligence-industry-with-predictive-analytics-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28984977"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28984977"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 3
 
 secured: "BbLf1Sx8p84xXJbG6rHJojCL9RYd4hEufb9Pi1RaMLMPUWetFrAgDcCKd083BgEY+f3T8A0vCIgmY2uu9bHEFSAmzZzAEx4o/gOlfNfDhXOG/YILwdb08eEBoSpuq0hwicfzaECSWKP6LbjNblSLtXcgU9aDoJ+H/hvqIquQeSkD3TiAOpJtrUmCGyow5QX3UoHFVEx2INQu8zJD1QUiBJvitx0aJfDwm/3nqgQMZFpYtDfqRCSKpFH9e7N2UxT/N+SD7JtRg8mVOoGIh89IcHM725K9faleyVhjA0eNQbegwkrdMEMG7BueEnWHRtwzx9u2JFBXNeaNfS4pdNKvkTouCfBtvEJ7DnXiNVsWn1xAht0QSncVtw9111aEz8FLNvOvnj1F7Mx8Zq0zBPtUZcyKrbo1/vt4Q38RnZRa7nfgZd6ytedm5QeH3nQP202MQMXt3e02375Vig7GmXUnlMQf4IZ9CUV/HgETWWUwqQvROyz/ZHXJqKLYu/oSuUbj49MgyRjbQplEfEAvf5zPdw==;P6kr5ca3D+Mdf8yKU9YLEQ=="
 ---

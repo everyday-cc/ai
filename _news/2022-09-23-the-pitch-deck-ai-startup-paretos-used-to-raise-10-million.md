@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/see-the-pitch-deck-ai-startup-pare
 webUrl: "https://www.businessinsider.com/see-the-pitch-deck-ai-startup-paretos-raise-10-million-2022-9"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "See the exclusive 22-slide pitch deck that AI company 4M Analytics used to raise $45 million in Series A funding"
+    excerpt: "The startup raised over $45 million from investors including Insight Partners, ITI Venture Capital Partners, Viola Ventures and F2 Venture Capital."
+    publishedDateTime: 2022-09-20T13:40:00Z
+    webUrl: "https://www.businessinsider.com/4m-analytics-pitch-deck-artificial-intelligence-funding-2022-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 26
 
 secured: "ir0Kr5Lf96yKH5TZMV4V7iaFfNoKYdhdCrU/bngrOJRMRcpQJVwKNb2mhGYOgBrUDfoZfnQ5NLDQ4s88ju8vb06qWGo5OXkDbqFRUnjKU5SaQIm+698TOJw6vARfAnmGLRzqIYcQ36QeBGowGshKRKBXGG1HGiT4rYmSQKMSVmcNnereC+v4REoriwvYeswPY8b2OfSIX5kubb2qnwGuUXRypJXIGPM2DFPcM4tdxPZf/EtdLmh0ZqI5l5kSgnCuND3DxPlAxBY2KAp+LQqDbO0oy+sZ5UMBxUD4Hsn5CfKcPWKIIciUbuulU/ZIw5jEwYXgtUoQS4LeCJwVJ/gCkwpWXuH+I3Acbr6lhn8vVgSz8wNdg/zhdNyqQTKZDqTYhjaVkEqc/ZYhJJXleCrUHvKbzKky7CSWKaMDm/6Mjtck1jfNvSyKqNzde078er8EpLjfHkF2mKiCNu+euamotTYv+ZbgINyvPEGmbBflZ/63oHpi5UKr/sgZuhALowH7PeH7EyUzG6+2sJuyJJQrIg==;5m4HKGsnbicE7ZJQ6kLaqg=="
 ---

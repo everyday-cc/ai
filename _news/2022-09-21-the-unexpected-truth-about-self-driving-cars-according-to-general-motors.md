@@ -77,15 +77,6 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 4
-  - title: "Robotic eyes on self-driving vehicles could reduce road accidents, says research"
-    excerpt: "The major difference with self-driving vehicles is that drivers may become more of a passenger. They may not be giving full attention on the road. This makes it tough for pedestrians to ascertain if a vehicle has registered their presence,"
-    publishedDateTime: 2022-09-20T12:25:00Z
-    webUrl: "https://www.hindustantimes.com/technology/robotic-eyes-on-self-driving-vehicles-could-reduce-road-accidents-says-research-101663669867771.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 0
 
 secured: "CYmcdkpBdEJuVUNDcfcjFiFWoJJk9dA12YX9w3uyBQyNUZslHiLIrsd5/Uymuh/cdU1vAdhITRlughlDmvSdSspVGD43pyXSW8hsn90Xk2hxXCxkJj7ctR1ypErMk6/LjELtHaaKy60cDsKtW2+FBcYnuoe0WiVz20qgtDGBgLYJtEMEsonHRwL6fFZGQkfE4p+H8nEk5jT2konitTEZfqNSjSM1buT43gRZbI03vprfLS2z4QKohXv8nimH1F/P7CQAQYrXIMlNcnhHUwcdgqY/QPF83uosoZK/KsJMNB7wgJ4KRzwZGj9+ZCyIryAxwHAWYOniJBAR0n9oAqk2PP+vy9Th1vzWRRVdgVU44NQ=;Pav6JoqIpYI7m0/aD4KoCg=="
 ---

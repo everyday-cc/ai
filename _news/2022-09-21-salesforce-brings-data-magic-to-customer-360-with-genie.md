@@ -42,20 +42,20 @@ related:
         height: 779
         isCached: true
   - title: "Salesforce deepens partnership with AWS"
-    excerpt: "Salesforce has expanded its partnership with Amazon Web Services (AWS) to enable customers to build custom artificial intelligence (AI) models using Amazon SageMaker, AWS’s machine learning (ML ..."
-    publishedDateTime: 2022-09-21T18:55:00Z
-    webUrl: "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110"
-    ampWebUrl: "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110?amp=1"
+    excerpt: "Salesforce has expanded its partnership with Amazon Web Services (AWS) to enable customers to build custom artificial intelligence (AI) models using Amazon SageMaker, AWS’s machine learning (ML) modeling service,"
+    publishedDateTime: 2022-09-21T18:38:00Z
+    webUrl: "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955"
+    ampWebUrl: "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955?amp=1"
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
+      name: IT Business
+      domain: itbusiness.ca
     quality: 59
     images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2022/09/GettyImages-1040557296-scaled.jpg"
-        width: 2560
-        height: 1161
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2022/09/GettyImages-1040557296.jpg"
+        width: 2000
+        height: 907
         isCached: true
   - title: "Salesforce goes real-time in CRM upgrade"
     excerpt: "Salesforce has taken a leap into the world of real-time data management with the integration of customer data platform (CDP) capabilities into its flagship Customer 360 CRM platform."
@@ -99,15 +99,6 @@ related:
         width: 610
         height: 458
         isCached: true
-  - title: "Salesforce Genie is now generally available to power real-time CRM experiences"
-    excerpt: "Salesforce today announced the general availability of the Genie customer data platform (CDP), a high-speed, hyperscalar data lake infrastructure to bring real-time insights from different systems to the Salesforce Customer 360 platform."
-    publishedDateTime: 2022-09-20T12:01:00Z
-    webUrl: "https://www.itworldcanada.com/article/salesforce-genie-is-now-generally-available-to-power-real-time-crm-experiences/503780"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 47
   - title: "Salesforce announces Genie – A new data platform powering the world’s first real-time CRM"
     excerpt: "Genie makes every part of the Customer 360 real-time, so every business can deliver magical customer experiences"
     publishedDateTime: 2022-09-21T10:25:00Z
@@ -136,24 +127,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Salesforce Genie aims to release customer data from the marketing bottle"
-    excerpt: "Salesforce is touting a real-time upgrade to the customer data platform underlying many of its products, a move it says will allow enterprises to better personalize interactions with customers."
-    publishedDateTime: 2022-09-20T12:03:00Z
-    webUrl: "https://www.cio.com/article/407550/salesforce-genie-aims-to-release-customer-data-from-the-marketing-bottle.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 35
-  - title: "Dreamforce 2022: Salesforce debuts Genie CDP to power real-time customer experiences"
-    excerpt: "At the ongoing Dreamforce conference, Salesforce added real-time data capabilities to Customer 360 with the introduction of Genie CDP."
-    publishedDateTime: 2022-09-20T12:04:00Z
-    webUrl: "https://venturebeat.com/data-infrastructure/dreamforce-2022-salesforce-debuts-genie-to-power-real-time-customer-experiences-for-enterprises/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 27
   - title: "Salesforce unveils new real-time data platform Genie"
     excerpt: "Salesforce has announced the arrival of Salesforce Genie, its new hyperscale data platform that creates real-time customer profiles to help businesses deliver personalized experiences. Detailing the platform at its Dreamforce 22 event,"
     publishedDateTime: 2022-09-22T10:42:00Z
@@ -213,15 +186,6 @@ related:
     provider:
       name: CRN
       domain: crn.com
-    quality: 4
-  - title: "Salesforce unveils Genie, a real-time data platform to power its apps"
-    excerpt: "Rahul Auradkar, head of customer data platform at Salesforce, told SiliconANGLE that Genie was built to create a single platform to unify and personalize data that could be accessed in real-time and power the entirety of Salesforce’s platform."
-    publishedDateTime: 2022-09-20T12:00:00Z
-    webUrl: "https://siliconangle.com/2022/09/20/salesforce-unveils-genie-real-time-data-platform-power-apps/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
     quality: 4
   - title: "Dreamforce 2022: the biggest Salesforce and Slack news"
     excerpt: "Salesforce’s Genie customer data platform, a preview of a canvas feature in Slack and an open beta of the rebuilt, more modular Slack are among the biggest announcements at Salesforce’s Dreamforce 2022 conference."

@@ -8,7 +8,7 @@ webUrl: "https://www.news-medical.net/news/20220920/Neurocomputational-model-cou
 ampWebUrl: "https://www.news-medical.net/amp/news/20220920/Neurocomputational-model-could-shed-light-on-the-development-of-cognitive-abilities.aspx"
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220920/Neurocomputational-model-could-shed-light-on-the-development-of-cognitive-abilities.aspx"
 type: article
-quality: 38
+quality: 40
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg"

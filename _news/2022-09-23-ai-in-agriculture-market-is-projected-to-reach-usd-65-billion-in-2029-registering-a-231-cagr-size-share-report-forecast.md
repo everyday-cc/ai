@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Healthcare Market Trends, Size, Share, Growth Status, Key Segments and Forecast 2028"
-    excerpt: "The Global Artificial Intelligence in Healthcare Market is estimated to register a CAGR of over 38.1% during the"
-    publishedDateTime: 2022-09-20T12:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-trends-size-share-growth-status-key-segments-and-forecast-2028-2022-09-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Research on Present State and Future Growth Prospects of Key Players, Forecast by 2022 To 2027"
     excerpt: "Sep 23, 2022 (The Expresswire) -- \"Artificial Intelligence in Healthcare Market\" valuation is projected to reach 22590 Mn USD by 2026, and it is estimated"
     publishedDateTime: 2022-09-23T12:51:00Z
@@ -50,29 +36,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Medical Diagnostics Market Upcoming Trends, Size, Key Players, Revenue and Forecast 2028"
-    excerpt: "The Global Artificial Intelligence in Medical Diagnostics Market is poised to register a CAGR of 50.2% during the"
-    publishedDateTime: 2022-09-20T14:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-diagnostics-market-upcoming-trends-size-key-players-revenue-and-forecast-2028-2022-09-20"
+  - title: "AI Surveillance Camera Market 2022 : Manufacturers Strategies, Share Estimation, Future Demand and Regional Growth Dynamics 2027"
+    excerpt: "Sep 23, 2022 (The Expresswire) -- \"AI Surveillance Camera Market\" valuation is Projected to reach USD 13760 Mn USD by 2027, From 4003 Mn USD In 2022, at"
+    publishedDateTime: 2022-09-23T13:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-surveillance-camera-market-2022-manufacturers-strategies-share-estimation-future-demand-and-regional-growth-dynamics-2027-2022-09-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing and Recognition Market Global Growth, Emerging Trends, Demand Status, Regional Overview and Share Analysis till 2028"
-    excerpt: "Global Natural Language Processing and Recognition Market provides key analysis on the market status of the Natural Language Processing and Recognition with the best facts and figures, meaning, definition,"
-    publishedDateTime: 2022-09-22T11:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-and-recognition-market-global-growth-emerging-trends-demand-status-regional-overview-and-share-analysis-till-2028-2022-09-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -87,24 +59,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 13
-  - title: "Artificial Intelligence in Gaming Market Size | SWOT Analysis, Growth Factors, Top Key Players, Latest Trends, Industry Share and Forecast to 2028"
-    excerpt: "Global Artificial Intelligence in Gaming Market The global Artificial Intelligence in Gaming market size is projected to reach USD million by 2028, from USD million in 2021, at a CAGR of % during 2022-2028."
-    publishedDateTime: 2022-09-21T11:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-gaming-market-size-swot-analysis-growth-factors-top-key-players-latest-trends-industry-share-and-forecast-to-2028-2022-09-21"
+  - title: "Global Artificial Neural Network Market to Reach $258.45 Million by 2027 - ResearchAndMarkets.com"
+    excerpt: "The Global Artificial Neural Network Market is estimated to be worth USD 171.88 million in 2022, and is expected to reach USD 258.45 million by 2027, growing at a CAGR of 8.5%. The Global Artificial Neural Network Market is segmented based on Component,"
+    publishedDateTime: 2022-09-20T16:27:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-global-artificial-neural-network-market-to-reach-25845-million-by-2027-researchandmarketscom"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 9
-  - title: "Computer Vision Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2028"
-    excerpt: "Computer Vision Market – Insights In 2022 : Based In the end-use industry, “Computer Vision Market” 2022 is segmented into Quality Assurance and Inspection, Positioning and Guidance ..."
-    publishedDateTime: 2022-09-21T06:52:00Z
-    webUrl: "https://www.digitaljournal.com/pr/computer-vision-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 1
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 6
 
 secured: "q5u60bjRVai2jvr2PqamZ5XNReekL8ROeXyCikZKt+Ag0u2fCrzQWtDu+o8+1MIcgcwqiWMOFRbbwHf0vuQ3XPFvtIn+BoYYKMA3ABEfkPLDKCAjVPme2oBhhspPnacbZJkL/IjpzNE6K3QflbcEHY+23Z3xG8YfRkFmoBpRlcMKeUKzYFTDICsyHzlVAujBkBsraaTlyLuLvcMa/h8FhA+R/gHCMoI3/H5BYfHF5OhCVXSLwIxYYAHR0/fz9CzqiQtaDO7e/UPbvxWO3CL+fFh78EIMaEhx8dDaXk42U590R/hF025ErStvFKtRwA6AE2IGpb/3ZYRtI7pfGnmAuLIalFxKmjYSZBxcZ+gfCig=;DhTvs7xgs7GDp6u7YKc1Vw=="
 ---
