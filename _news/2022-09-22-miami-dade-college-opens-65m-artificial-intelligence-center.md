@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/education/higher-ed/miami-dade-college-opens
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/miami-dade-college-opens-6-5m-artificial-intelligence-center?_amp=true"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,19 +25,6 @@ images:
     width: 840
     height: 438
     isCached: true
-
-related:
-  - title: "Miami-Dade College unveils new artificial intelligence center at its North Campus"
-    excerpt: "Miami-Dade College revealed some new technological advancements. The college opened its artificial intelligence center at its North Campus, Tuesday morning. The"
-    publishedDateTime: 2022-09-20T17:09:00Z
-    webUrl: "https://wsvn.com/news/local/miami-dade/miami-dade-college-unveils-new-artificial-intelligence-center-at-its-north-campus/"
-    ampWebUrl: "https://wsvn.com/news/local/miami-dade/miami-dade-college-unveils-new-artificial-intelligence-center-at-its-north-campus/amp/"
-    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/local/miami-dade/miami-dade-college-unveils-new-artificial-intelligence-center-at-its-north-campus/amp/"
-    type: article
-    provider:
-      name: 7News Miami
-      domain: wsvn.com
-    quality: 32
 
 secured: "W/9zLNapp6YeT/ZNmVJb8r4u50NLdpe5N0JXN6q1vz+peEkJB8PB25fxQSyUYL0orEzOjy2ch2tx1/w5qfxEXkj8Pyf55y5TjS2rV6+3hqMMlfk2wm2jFICHgfL7w2lAmIg6v3YXW69rO3OqbSQu7Gr0gsImCzflDO17npvZch8pVfohZ/xjluhvKrdFlJpe0jQp3Xl9DPl6VxsKbyEGoEkIZsYTGzcMha/eMzjytOjeVU+ecK/yxC1u2XE8BxgzF0yvXWhv9n9HZsbxNLGUST9qoywwQHEOgjMmJz/Ic1HjdaUWKfGQ4TA0KgkBDStnd0JshlvLlpQk6z5KIoYgT+BnApxxMJuwuXJVO4kRBiryAugIJpDRhLbKFri8ij9fnZHTbubuMkBPsKXb4x2aEV0AxXoPVFpyglfaclyxWoeUp30ttyNIByeaCAZ7TKlDfVIec4ZCymZGcD2IIpR9APAtrsC3PiNnXkCm8rB3Gt6izhUOhBcFahj+eEcizYKb8NPRbGGEZWtLrTf0S0lNwg==;SaFBnq75cc5zXVhOpjIeSg=="
 ---

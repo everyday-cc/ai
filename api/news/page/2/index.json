@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-22-openai-open-sources-whisper-a-multilingual-speech-recognition-system.md",
+      "title": "OpenAI open-sources Whisper, a multilingual speech recognition system",
+      "excerpt": "OpenAI has released Whisper, a robust speech recognition model that can understand and transcribe multiple languages.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/21/openai-open-sources-whisper-a-multilingual-speech-recognition-system/",
+      "originalUrl": "https://techcrunch.com/2022/09/21/openai-open-sources-whisper-a-multilingual-speech-recognition-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/03/lp-logo-3.jpg?resize=1200,812",
+          "width": 1200,
+          "height": 812,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/21/openai-open-sources-whisper-a-multilingual-speech-recognition-system/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/21/openai-open-sources-whisper-a-multilingual-speech-recognition-system/amp/",
+      "publishedDateTime": "2022-09-22T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-22-why-modern-business-runs-on-data-streaming.md",
       "title": "Why Modern Business Runs On Data Streaming",
       "excerpt": "Data-centric information that flows inside enterprises with a contemporary approach to cloud-native IT stack management will now move at a more rapid, more complex and more constant pace than ever before - data streaming is now a part of modern business.",
@@ -780,7 +832,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsofts-october-12-surface-launch-whats-on-tap/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1137,7 +1189,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/09/21/ai-and-ml-have-the-potential-to-revolutionize-how-cmos-conduct-campaigns/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1179,58 +1231,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-this-uncensored-ai-art-tool-can-generate-fantasiesand-nightmares.md",
-      "title": "This Uncensored AI Art Tool Can Generate Fantasies—and Nightmares",
-      "excerpt": "Artists are free to create fantasies or nightmares with unrestricted image generator Stable Diffusion, but some fear a flood of AI-made horrors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/the-joy-and-dread-of-ai-image-generators-without-limits/",
-      "originalUrl": "https://www.wired.com/story/the-joy-and-dread-of-ai-image-generators-without-limits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/632a20908990652479ff393a/master/pass/lede_Corruption-of-a-Dark-mage.jpg",
-          "width": 1664,
-          "height": 1248,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/the-joy-and-dread-of-ai-image-generators-without-limits/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/the-joy-and-dread-of-ai-image-generators-without-limits/amp",
-      "publishedDateTime": "2022-09-21T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

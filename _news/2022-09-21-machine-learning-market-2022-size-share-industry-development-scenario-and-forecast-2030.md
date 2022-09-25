@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-21T06:53:00Z
 originalUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2022-size-share-industry-development-scenario-and-forecast-2030-2022-09-21"
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2022-size-share-industry-development-scenario-and-forecast-2030-2022-09-21"
 type: article
-quality: 60
-heat: 80
+quality: 62
+heat: 82
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

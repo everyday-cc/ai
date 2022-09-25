@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-02-computer-vision-how-this-transformational-technology-is-changing-the-way-businesses-interact-with-customers.md",
+      "title": "Computer Vision: How This Transformational Technology Is Changing The Way Businesses Interact With Customers",
+      "excerpt": "Over time, computer vision will make shopping easier, help us stay healthy and even make it easier to do things like bank on the go.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/02/computer-vision-how-this-transformational-technology-is-changing-the-way-businesses-interact-with-customers/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/02/computer-vision-how-this-transformational-technology-is-changing-the-way-businesses-interact-with-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e41b8102bb4d368a77b2e3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 851,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/02/computer-vision-how-this-transformational-technology-is-changing-the-way-businesses-interact-with-customers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/02/computer-vision-how-this-transformational-technology-is-changing-the-way-businesses-interact-with-customers/amp/",
+      "publishedDateTime": "2022-08-02T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-drover-ai-secures-54m-series-a-led-by-vektor-partners-to-scale-its-innovative-applications-of-computer-vision-in-micromobility.md",
+      "title": "Drover AI Secures $5.4M Series A Led by Vektor Partners to Scale its Innovative Applications of Computer Vision in Micromobility",
+      "excerpt": "Drover AI has pioneered the use of onboard computer vision and machine learning in the large and growing micromobility sector, enabling enhanced safety and regulatory compliance while also ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56699185-drover-ai-secures-dollar-5-4m-series-a-led-by-vektor-partners-to-scale-its-innovative-applications-of-computer-vision-in-micromobility-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56699185-drover-ai-secures-dollar-5-4m-series-a-led-by-vektor-partners-to-scale-its-innovative-applications-of-computer-vision-in-micromobility-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T23:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-01-how-to-use-ios-16s-expanded-sound-recognition-tool.md",
       "title": "How to use iOS 16's expanded sound recognition tool",
       "excerpt": "Sound recognition can also be incorporated into ... to find a customization option that most closely aligns with the object you want to record, whether an alarm or appliance.",
@@ -1278,83 +1364,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-techsee-launches-visual-intelligence-platform.md",
-      "title": "TechSee Launches Visual Intelligence Platform",
-      "excerpt": "TechSee, a provider of computer vision solutions for customer service, today launched its Visual Intelligence (VI) Platform to help companies customize their computer vision automation applications. Computer vision AI identifies specific models ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154037",
-      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154037",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/146677-0722_HappierAgents_480x610-ORG.png",
-          "width": 480,
-          "height": 610,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T11:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-safety-vision-showcases-mobile-video-surveillance-advancements-at-stn-expo-reno.md",
-      "title": "Safety Vision Showcases Mobile Video Surveillance Advancements at STN EXPO Reno",
-      "excerpt": "EXPO in Reno, NV this week displaying several innovative technologies for K12 Pupil Transportation Directors representing hundreds of the nation’s largest school districts. Technologies included our Electronic Mirror System that includes a 12.",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-20-safety-vision-showcases-mobile-video-surveillance-advancements-at-stn-expo-reno",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-20-safety-vision-showcases-mobile-video-surveillance-advancements-at-stn-expo-reno",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

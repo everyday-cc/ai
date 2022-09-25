@@ -19,82 +19,105 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia debuts new high-end RTX 4090 GPU after previous generation gobbled up by crypto miners"
-    excerpt: "which should allow the new GPUs to perform both AI-powered graphics operations and pure neural network stuff (like running Stable Diffusion) faster and better. The GPU has graduated from being a tool for keeping your games running at high framerates to a ..."
-    publishedDateTime: 2022-09-20T17:48:00Z
-    webUrl: "https://techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/"
-    ampWebUrl: "https://techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/amp/"
+  - title: "NVIDIA gives updates on new GPU technologies at GTC conference"
+    excerpt: "It announced the GeForce RTX 40 Series GPUs, which are powered by the company’s new Ada Lovelace architecture."
+    publishedDateTime: 2022-09-21T20:43:00Z
+    webUrl: "https://sdtimes.com/ai/nvidia-gives-updates-on-new-gpu-technologies-at-gtc-conference/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 78
+      name: SD Times
+      domain: sdtimes.com
+    quality: 69
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/09/nvidia-ceo-jensen-huang-with-geforce-rtx-4090.jpg?resize=1200,800"
-        width: 1200
-        height: 800
+      - url: "https://sdtimes.com/wp-content/uploads/2022/09/gtc22-fall-web-keynote-blog-image-jhh-rtx4090-1280x680-r2-1.jpg"
+        width: 1280
+        height: 680
         isCached: true
-  - title: "Nvidia CEO proclaims 'Moore's law is dead' over RTX 40-series GPU pricing"
-    excerpt: "After the recent reveal of Nvidia's 40-series graphics cards (opens in new tab), you're probably one of many scrunching your nose up over the pricing. Well, the company's CEO, Jensen Huang has some words of wisdom to share with you and perhaps ease your wallet into opening just that little bit wider."
-    publishedDateTime: 2022-09-23T15:23:00Z
-    webUrl: "https://www.pcgamer.com/nvidia-ceo-proclaims-moores-law-is-dead-over-rtx-40-series-gpu-pricing/"
+  - title: "NVIDIA (NVDA) Launches Ada Lovelace-Powered Gaming Chips"
+    excerpt: "During a keynote at the NVIDIA GTC conference on Tuesday, the company’s CEO, Jensen Huang, stated that the new Ada Lovelace architecture would be used in an upcoming new GeForce RTX 40 series graphics card — RTX 4090."
+    publishedDateTime: 2022-09-21T11:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia-nvda-launches-ada-lovelace-powered-gaming-chips"
     type: article
     provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 53
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
+  - title: "Nvidia GTC: Hopper processor in full production"
+    excerpt: "The H100 Tensor Core GPU is in full production, and the first servers based on Nvidia's new Hopper architecture are due next month."
+    publishedDateTime: 2022-09-20T21:08:00Z
+    webUrl: "https://www.networkworld.com/article/3674061/nvidia-gtc-hopper-processor-in-full-production.html"
+    ampWebUrl: "https://www.networkworld.com/article/3674061/nvidia-gtc-hopper-processor-in-full-production.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3674061/nvidia-gtc-hopper-processor-in-full-production.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 44
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/p8q3ue5UA9LEtBVyNxgyWn-1200-80.jpg"
+      - url: "https://images.idgesg.net/images/article/2022/03/nvidia-hopper-gpu-100922543-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 675
         isCached: true
-  - title: "ZOTAC GAMING Announces the GeForce RTX 40 Series PowerED BY the next generation GPU ARCHITECTURE"
-    excerpt: "ZOTAC Technology Limited, a global manufacturer of innovation, ushers in a new era of PC gaming with the unveiling of its next-generation ZOTAC GAMING graphics card line-up built on the breakthrough NVIDIA Ada Lovelace architecture and the 3rd generation of RTX."
-    publishedDateTime: 2022-09-20T18:12:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/20/9677412.htm"
+  - title: "Nvidia's Higher Gaming GPU Prices Raises Analyst Conviction. However, Some Remain Concerned Over Demand And China Ban"
+    excerpt: "BMO Capital analyst Ambrish Srivastava cut the price target on Nvidia to $210 from $230 but kept an Outperform. At a high level, Srivastava thought Nvidia's Fall event was a lot more packed than expected."
+    publishedDateTime: 2022-09-21T18:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-s-higher-gaming-gpu-prices-raises-analyst-conviction-however-some-remain-concerned-over-demand-and-china-ban-1031757541"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 26
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
+  - title: "NVIDIA unveils latest GPU based on Ada Lovelace architecture"
+    excerpt: "NVIDIA has announced the NVIDIA RTX 6000 workstation GPU, based on its new NVIDIA Ada Lovelace architecture. The RTX 6000 Ada Generation GPU can deliver real-time rendering, graphics and AI, enabling designers and engineers to build and validate more sophisticated designs."
+    publishedDateTime: 2022-09-21T09:15:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/nvidia-unveils-latest-gpu-based-on-ada-lovelace-architecture"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 39
     images:
-      - url: "https://mma.prnewswire.com/media/1899548/NVIDIA_RTX_40_Series___Web_Banners_Airo_1200_675.jpg"
-        width: 400
-        height: 225
+      - url: "https://www.newelectronics.co.uk/media/syeigo2n/nvidia-rtx-6000.jpg?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Nvidia RTX 4080 12GB GPU performance falls behind the 16GB model"
-    excerpt: "The Nvidia RTX 4080 12GB can't push out as many frames per second as the 16GB model, due to some spec differences between the two GeForce GPUs"
-    publishedDateTime: 2022-09-21T13:47:00Z
-    webUrl: "https://www.pcgamesn.com/nvidia/rtx-4080-12gb-performance-vs-16gb"
+  - title: "Nvidia launches all-new H100 Tensor Core GPU"
+    excerpt: "Built on the Hopper architecture, the all-new Nvidia H100 Tensor Core GPU brings performance, functionality and AI compatibility to devices. Nvidia has recently launched its new H100 GPU. Based entirely on the Hopper architecture and featuring more than 8 ..."
+    publishedDateTime: 2022-09-22T08:21:00Z
+    webUrl: "https://www.techzine.eu/news/devices/89548/nvidia-launches-all-new-h100-tensor-core-gpu/"
     type: article
     provider:
-      name: PCGamesN
-      domain: pcgamesn.com
+      name: techzine
+      domain: techzine.eu
+    quality: 39
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/01/Nvidia-1.png"
+        width: 1500
+        height: 800
+        isCached: true
+  - title: "Supermicro Announces NVIDIA H100 GPU Systems"
+    excerpt: "Super Micro Computer, Inc. (SMCI), a enterprise computing, GPUs, storage, networking solutions and green computing technology company, announced 20 NVIDIA-certified systems options with NVIDIA H100 PCI-E and NVIDIA H100 SXM GPUs,"
+    publishedDateTime: 2022-09-21T19:21:00Z
+    webUrl: "https://insidehpc.com/2022/09/supermicro-announces-nvidia-h100-gpu-systems/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2022/08/generic-machine-learning-AI-deep-learning-data-shutterstock-583242211.jpg"
+        width: 690
+        height: 460
+        isCached: true
+  - title: "ASUS Servers Announce AI Developments at NVIDIA GTC"
+    excerpt: "ASUS, the leading IT company in server systems, server motherboards and workstations, today announced its presence at NVIDIA® GTC"
+    publishedDateTime: 2022-09-21T13:12:00Z
+    webUrl: "https://enterprisetalk.com/news/asus-servers-announce-ai-developments-at-nvidia-gtc/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
     quality: 19
-  - title: "NVIDIA RTX 6000; Ada Lovelace RTX GPU Arrives for Designers and Creators"
-    excerpt: "NVIDIA today announced the NVIDIA RTX 6000 workstation GPU, based on its new NVIDIA Ada Lovelace architecture. With the new NVIDIA RTX 6000 Ada Generation GPU delivering real-time rendering, graphics"
-    publishedDateTime: 2022-09-20T18:33:00Z
-    webUrl: "https://www.guru3d.com/news-story/nvidia-rtx-6000-ada-lovelace-rtx-gpu-arrives-for-designers-and-creators.html"
-    type: article
-    provider:
-      name: Guru3D.com
-      domain: guru3d.com
-    quality: 18
-  - title: "PNY GeForce RTX® 4090, RTX® 4080 16GB, and RTX® 4080 12GB; PNY Introduces Next Evolution NVIDIA GeForce RTX 40 Series GPU's"
-    excerpt: "PNY announced today the expansion of its NVIDIA GeForce RTX® XLR8 Gaming family of GPUs with the addition of the new VERTO™ GeForce RTX 4090, GeForce RTX 4080 16GB and GeForce RTX 4080 12GB. Powered by the new ultra-efficient NVIDIA Ada Lovelace architecture,"
-    publishedDateTime: 2022-09-20T17:37:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/20/9677392.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
-    images:
-      - url: "https://mma.prnewswire.com/media/1902492/Social_Media_GeForce_RTX_40.jpg"
-        width: 400
-        height: 225
-        isCached: true
 
 secured: "ECMMYBYlim7WmOc6fk+cvfwVzgfv4DbhM3Bprk8LE8Zy2fKhWkJzHSCf7940J9edCD/WVBD96hTcs0Om9cNt34DH3Ro60mL0HqcQwmJ9NNkii1pzGKNj/LmmbklpvpqExuz9fZfU3/8tzcYd5h3hL69TiWOeKy/eXlf+FgegNsoeW1kJigijePy7hTxvdaFNPer9noAWXk2/kia8NecAbgF0CeaZUro52Ojx3Rux0CtXrjmLDCI64Ql7TbCzYsRjwWTQG67SWFJ5Iqw4lxICf2J+/LA9wHeiwlms/ArwJRtBYq9g0lnMjKGodNgxdsZcYT0tIklWLsESDQUyqQC08TMNL4Gw50xpO1UsCEgftPk3Ur7XUlAY5RWrJoFbfE+lGEk9wXE9n+pBTRkZCGMbN1QjEw4B3A56WShMUWB4F7AUHekQnYv1uXk58t7ucvecf1miGPkd9TlrYInvslmawkGS/APtD5TXmB0D8VjCMm7uzeX3PTn744glZ7vvTPEcDx8BFjFWi7vP/oS3ZCDcpw==;e17ss3WD5XK43WVLyTTTeA=="
 ---

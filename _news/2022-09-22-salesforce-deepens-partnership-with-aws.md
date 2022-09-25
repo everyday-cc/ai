@@ -2,28 +2,28 @@
 category: news
 title: "Salesforce deepens partnership with AWS"
 excerpt: "Salesforce has expanded its partnership with Amazon Web Services (AWS) to enable customers to build custom artificial intelligence (AI) models using Amazon SageMaker, AWS’s machine learning (ML) modeling service,"
-publishedDateTime: 2022-09-21T22:32:00Z
-originalUrl: "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110"
-webUrl: "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110"
-ampWebUrl: "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110?amp=1"
-cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110?amp=1"
+publishedDateTime: 2022-09-21T18:38:00Z
+originalUrl: "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955"
+webUrl: "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955"
+ampWebUrl: "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955?amp=1"
+cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955?amp=1"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: IT World Canada
-  domain: itworldcanada.com
+  name: IT Business
+  domain: itbusiness.ca
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://i.itworldcanada.com/wp-content/uploads/2022/09/GettyImages-1040557296-scaled.jpg"
-    width: 2560
-    height: 1161
+  - url: "https://i.itbusiness.ca/wp-content/uploads/2022/09/GettyImages-1040557296.jpg"
+    width: 2000
+    height: 907
     isCached: true
 
 related:
@@ -155,20 +155,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "At Dreamforce 2022, Salesforce Introduces Genie Across Its Customer 360 Line"
-    excerpt: "Salesforce Introduces Genie Across Its Customer 360 Line. During its 20th annual Dreamforce user conference in San Francisco this week, Salesforce today unveil"
-    publishedDateTime: 2022-09-20T18:15:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/At-Dreamforce-2022-Salesforce-Introduces-Genie-Across-Its-Customer-360-Line-155011.aspx"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 21
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/AuthorImages/106293-Leonard-Klie--ORG.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Salesforce and AWS Announce Expansion of Strategic Partnership"
     excerpt: "Salesforce and AWS today announced new integrations between the Salesforce Platform and Amazon SageMaker. The integrations will enable"
     publishedDateTime: 2022-09-20T20:17:00Z
@@ -188,6 +174,6 @@ related:
       domain: crn.com.au
     quality: 4
 
-secured: "kC6w9s/nENnj0chLrkHwT1eVQ1b9uMaYAIIg5uAPF/Kw/UxLafKvSZw5sdCzsYXUr5zPPBspyCtfdkSeuJU5OmQ7NXe7YGqNFi8c4JpzuaxSPOrpCOgB4dYz+4YgHhO+qwx/ow7Ndi8LOrDW2C/tc5JAFaLbfhM07vxN69fBVCUqEAG88VvVWvyNgclY5/B5iLVgDYgRX1mQoT/txk8TrxWxV2cpynyQKTyqCBAtWriYabWMDpMBlnUnGBFoUfjVGXj5IekYttLd2BNH/wMH7VzicmEeZYrpC4L58LPjlW+j/QPGwlKVs21HeSr07V1XKz+YPK1D93nl7tI7XzK5TxmVVY3Fkh8nFjm7dOcbK5I=;+lBRf0gO74renWnpzzU7Xw=="
+secured: "0mCVECl9Tj/VkiHiildNV05EG7PTGACecmb5METRhxCHb82aXSnycqfbyrAanjdcWwgeZ7KfLQjTbyXtNhXVoJ3C72eQt9rYdlzg1F/yMF4o4YFFhg3we/W9pbwyYvE2wh+SulvPcEFo9oIZTy/mnsJziTTRmvA0WsU7a0fuGb0Q2063eGYPRbQWotHeBwzJ7RSCQ3sfzT1SKYVfUBx+GYopsosFbh1WRVrjQYM88ApyJdtO8VahfEN2aEk1oBc2JKIlij+//aXST7xB7dvnuKNLiiwFEh9Gg43YNdEiobc+yuuBknhJw6f+plQ2EtU5w3RaDZj25MFXjj+GOicPnY4Y3djzXNSOYia6oI2j+L8=;Vq5oZOMA0ssHamVoIKpDaQ=="
 ---
 

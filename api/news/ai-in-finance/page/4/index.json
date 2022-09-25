@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-19-top-8-uses-of-data-analytics-in-accounting-and-finance.md",
+      "title": "Top 8 Uses Of Data Analytics In Accounting And Finance",
+      "excerpt": "Over the last couple of decades, data analytics has become the ultimate business dialect for better decision-making, with organizations integrating some form of data science into their business operations.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/",
+      "originalUrl": "https://techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2022/07/analysis-g709988b49_1280.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/amp/",
+      "publishedDateTime": "2022-07-19T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-good-finance-chooses-cyberlinks-faceme-facial-recognition-technology-to-perform-identity-verification-for-its-online-banking-services.md",
       "title": "Good Finance Chooses CyberLink’s FaceMe® Facial Recognition Technology to Perform Identity Verification for Its Online Banking Services",
       "excerpt": "Good Finance implemented CyberLink’s FaceMe AI facial recognition engine into its mobile app and portal to eliminate the need for new online banking customers to visit a physical branch when performing certain operations such as opening an account.",
@@ -1272,50 +1316,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-powering-fintech-growth-with-mobile-app-marketing.md",
-      "title": "Powering fintech growth with mobile app marketing",
-      "excerpt": "A dive deep into how fintech brands are leveraging mobile app marketing to connect and create a seamless experience for their customers.",
-      "sourceUrl": null,
-      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/industry/powering-fintech-growth-with-mobile-app-marketing/92403870",
-      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/industry/powering-fintech-growth-with-mobile-app-marketing/92403870",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-92403870,imgsize-55626,width-1200,height-628,overlay-etbrandequity/powering-fintech-growth-with-mobile-app-marketing.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/industry/powering-fintech-growth-with-mobile-app-marketing/92403870",
-      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/industry/powering-fintech-growth-with-mobile-app-marketing/92403870",
-      "publishedDateTime": "2022-06-22T23:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

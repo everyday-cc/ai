@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-07-18-this-robot-dog-just-taught-itself-to-walk.md",
+      "title": "This robot dog just taught itself to walk",
+      "excerpt": "The robot dog is waving its legs in the air like an exasperated beetle. After 10 minutes of struggling, it manages to roll over to its front. Half an hour in, the robot is taking its first clumsy steps,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2022/07/18/1056059/robot-dog-ai-reinforcement/",
+      "originalUrl": "https://www.technologyreview.com/2022/07/18/1056059/robot-dog-ai-reinforcement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xAXvfVTgqr0/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2022/07/18/1056059/robot-dog-ai-reinforcement/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/07/18/1056059/robot-dog-ai-reinforcement/amp/",
+      "publishedDateTime": "2022-07-18T01:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-forsight-sees-a-world-without-cataracts-with-its-surgery-robot.md",
       "title": "ForSight sees a world without cataracts with its surgery robot",
       "excerpt": "It leverages cutting-edge technologies (pun intended) in microsurgical robotics, computer vision and machine learning. The platform aims to automate ophthalmic surgeries that treat diseases ...",
@@ -1322,50 +1365,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-how-ai-can-boost-rural-connectivity-healthcare.md",
-      "title": "How AI Can Boost Rural Connectivity & Healthcare",
-      "excerpt": "The network solution called GigaMesh wirelessly provides fibre-like backhaul capacity and paves the road for 5G.",
-      "sourceUrl": null,
-      "webUrl": "https://pragativadi.com/how-ai-can-boost-rural-connectivity-healthcare/",
-      "originalUrl": "https://pragativadi.com/how-ai-can-boost-rural-connectivity-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pragativadi.com/wp-content/uploads/2022/07/Untitled-design-1-13.png",
-          "width": 748,
-          "height": 445,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pragativadi",
-        "domain": "pragativadi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

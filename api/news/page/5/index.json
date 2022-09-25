@@ -2,6 +2,195 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-09-20-ai-enabled-laughing-robots-are-no-joke.md",
+      "title": "AI-Enabled Laughing Robots are No Joke",
+      "excerpt": "We propose that our system can be used for situated robot interaction and also emphasize the need for integrating proper empathetic laughs into conversational robots and agents",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202209/ai-enabled-laughing-robots-are-no-joke",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202209/ai-enabled-laughing-robots-are-no-joke",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-09/pic0921111.gif.jpg?itok=QnCgHwxS",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202209/ai-enabled-laughing-robots-are-no-joke?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202209/ai-enabled-laughing-robots-are-no-joke?amp",
+      "publishedDateTime": "2022-09-19T15:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-tesla-expands-its-full-self-driving-beta-to-60000-more-owners.md",
+      "title": "Tesla expands its Full Self-Driving Beta to 60,000 more owners",
+      "excerpt": "Beta program for the first time in a long time. After adding 60,000 additional owners, Tesla’s FSD Beta will have over 160,000 people in the program. The FSD Beta program enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-owners/",
+      "originalUrl": "https://electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-owners/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-FSD-Beta-pedestrian-Blue-Ridge-Mountains.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-owners/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-owners/amp/",
+      "publishedDateTime": "2022-09-19T15:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-ai-software-helps-bust-image-fraud-in-academic-papers.md",
+      "title": "AI software helps bust image fraud in academic papers",
+      "excerpt": "Scientific publishers such as the American Association for Cancer Research (AACR) and Taylor & Francis have begun attempting to detect fraud in academic paper submissions with an AI image-checking program called Proofig,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/09/academic-journals-begin-using-ai-to-detect-image-duplication-fraud/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/09/academic-journals-begin-using-ai-to-detect-image-duplication-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/western_blot_3-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-ai-and-wine-are-not-that-different-says-sass-director-of-ai-ethics.md",
+      "title": "AI and wine are not that different, says SAS’s director of AI ethics",
+      "excerpt": "At the SAS Innovate Roadshow, held in Toronto on Sept. 9, 2022, Reggie Townsend, director of AI Ethics at SAS, compared artificial intelligence's (AI’s) risks and rewards to that of wine. And just like wine,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/ai-and-wine-are-not-that-different-says-sass-director-of-ai-ethics/503456",
+      "originalUrl": "https://www.itworldcanada.com/article/ai-and-wine-are-not-that-different-says-sass-director-of-ai-ethics/503456",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/09/sas-innovate-roadshow-feature-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/ai-and-wine-are-not-that-different-says-sass-director-of-ai-ethics/503456?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/ai-and-wine-are-not-that-different-says-sass-director-of-ai-ethics/503456?amp=1",
+      "publishedDateTime": "2022-09-19T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-enel-inaugurates-a-new-innovation-lab-in-tel-aviv-for-ai-and-robotics-in-renewables-and-power-grids.md",
       "title": "Enel inaugurates a new Innovation Lab in Tel Aviv for AI and robotics in renewables and power grids",
       "excerpt": "The Enel AI&Robotics Lab aims at cooperating with Israeli startups to boost innovation in the field of AI and Robotics applied to renewables and power distribution networks; This",
@@ -335,6 +524,58 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-19-global-data-science-and-machine-learning-platforms-market-foreseen-to-grow-exponentially-by-2030.md",
+      "title": "Global Data Science and Machine Learning Platforms Market Foreseen to Grow Exponentially by 2030",
+      "excerpt": "According to the Regional Research Reports, the Global Data Science and Machine Learning Platforms market size was valued",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-data-science-and-machine-learning-platforms-market-foreseen-to-grow-exponentially-by-2030-2022-09-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-data-science-and-machine-learning-platforms-market-foreseen-to-grow-exponentially-by-2030-2022-09-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T01:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -914,247 +1155,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-fierce-competition-who-could-win-the-intelligent-automation-arms-race.md",
-      "title": "Fierce competition: Who could win the intelligent automation arms race",
-      "excerpt": "Microsoft and Automation Anywhere are emerging as the main contenders for dominance of the business process automation market.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/automation/fierce-competition-who-could-win-the-intelligent-automation-arms-race/",
-      "originalUrl": "https://venturebeat.com/automation/fierce-competition-who-could-win-the-intelligent-automation-arms-race/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1285575560.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/automation/fierce-competition-who-could-win-the-intelligent-automation-arms-race/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/automation/fierce-competition-who-could-win-the-intelligent-automation-arms-race/amp/",
-      "publishedDateTime": "2022-09-16T18:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-ironclads-new-contract-platform-embeds-ai-to-improve-business-workflows.md",
-      "title": "Ironclad’s new contract platform embeds AI to improve business workflows",
-      "excerpt": "Were you unable to attend Transform 2022? Check out all of the summit sessions in our on-demand library now! Watch here. Ironclad yesterday unveiled a new version of its contract platform embedded with an AI layer in an effort to improve business workflows throughout the lifecycle of a contract.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ironclads-new-contract-platform-embeds-ai-to-improve-business-workflows/",
-      "originalUrl": "https://venturebeat.com/ai/ironclads-new-contract-platform-embeds-ai-to-improve-business-workflows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-687981522-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ironclads-new-contract-platform-embeds-ai-to-improve-business-workflows/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ironclads-new-contract-platform-embeds-ai-to-improve-business-workflows/amp/",
-      "publishedDateTime": "2022-09-16T17:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-global-artificial-intelligence-ai-in-automotive-and-transportation-market-to-grow-at-20-through-2026.md",
-      "title": "Global Artificial Intelligence (AI) in Automotive and Transportation Market to Grow at 20% Through 2026",
-      "excerpt": "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. This market is likely to grow at a CAGR of around 20% during 2021-26.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-automotive-transportation-market-grow-/2022/09/16/9675469.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-automotive-transportation-market-grow-/2022/09/16/9675469.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-artists-begin-selling-ai-generated-artwork-on-stock-photography-websites.md",
-      "title": "Artists begin selling AI-generated artwork on stock photography websites",
-      "excerpt": "Seeking ways to \"monetize\" AI-generated art, some artists have already begun submitting their AI-generated pieces to stock photography websites like Shutterstock.com. Searches for \"AI generated\" or \"Midjourney\" (a popular image synthesis service) produce thousands of results on the site.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/09/artists-begin-selling-ai-generated-artwork-on-stock-photography-websites/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/09/artists-begin-selling-ai-generated-artwork-on-stock-photography-websites/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/ai_art_on_shutterstock_hero-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-top-5-stories-of-the-week-ai-revelations-and-apple-moves-to-kill-passwords.md",
-      "title": "Top 5 stories of the week: AI revelations and Apple moves to kill passwords",
-      "excerpt": "Revelations, innovations and questions about AI unfolded in VentureBeat’s news coverage this week. Deep learning turned 10 and insights from the field’s top leaders like Yann LeCun and Geoffrey Hinton predict that there’s no sign of slowdown for deep learning anytime soon.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ai-revelations-and-apple-moves-to-kill-passwords/",
-      "originalUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ai-revelations-and-apple-moves-to-kill-passwords/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1349108067.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ai-revelations-and-apple-moves-to-kill-passwords/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-5-stories-of-the-week-ai-revelations-and-apple-moves-to-kill-passwords/amp/",
-      "publishedDateTime": "2022-09-16T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/nvidia-unveils-new-gaming-chip-
 webUrl: "https://www.reuters.com/technology/nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-manufacturing-2022-09-20/"
 type: article
 quality: 81
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       name: Telecom Lead
       domain: telecomlead.com
     quality: 53
-  - title: "Nvidia debuts new AI tools for biomolecular research and text processing"
-    excerpt: "The first product, BioNeMo, is a framework for developing natural language processing models that can assist scientists with biology and chemistry research. Alongside the framework, Nvidia today also debuted two cloud-based artificial intelligence services."
-    publishedDateTime: 2022-09-20T17:34:00Z
-    webUrl: "https://siliconangle.com/2022/09/20/nvidia-debuts-new-ai-tools-biomolecular-research-text-processing/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 42
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/nvidia.png"
-        width: 718
-        height: 400
-        isCached: true
   - title: "NVIDIA RTX Remix Features Hefty AI-Assisted Modding Tool"
     excerpt: "NVIDIA RTX Remix takes modding to a whole new level and allows players to take beautiful in-game screenshots with the press of a hotkey."
     publishedDateTime: 2022-09-20T20:31:00Z

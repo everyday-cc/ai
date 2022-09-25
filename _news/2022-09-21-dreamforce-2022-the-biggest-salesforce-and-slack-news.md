@@ -37,19 +37,19 @@ related:
         isCached: true
   - title: "Salesforce deepens partnership with AWS"
     excerpt: "Salesforce has expanded its partnership with Amazon Web Services (AWS) to enable customers to build custom artificial intelligence (AI) models using Amazon SageMaker, AWS’s machine learning (ML) modeling service,"
-    publishedDateTime: 2022-09-21T22:32:00Z
-    webUrl: "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110"
-    ampWebUrl: "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110?amp=1"
+    publishedDateTime: 2022-09-21T18:38:00Z
+    webUrl: "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955"
+    ampWebUrl: "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955?amp=1"
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
+      name: IT Business
+      domain: itbusiness.ca
     quality: 59
     images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2022/09/GettyImages-1040557296-scaled.jpg"
-        width: 2560
-        height: 1161
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2022/09/GettyImages-1040557296.jpg"
+        width: 2000
+        height: 907
         isCached: true
   - title: "Salesforce goes real-time in CRM upgrade"
     excerpt: "Salesforce has taken a leap into the world of real-time data management with the integration of customer data platform (CDP) capabilities into its flagship Customer 360 CRM platform."
@@ -162,20 +162,6 @@ related:
       - url: "https://i.insider.com/62f182638677d80018ee6c2c?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "At Dreamforce 2022, Salesforce Introduces Genie Across Its Customer 360 Line"
-    excerpt: "Salesforce Introduces Genie Across Its Customer 360 Line. During its 20th annual Dreamforce user conference in San Francisco this week, Salesforce today unveil"
-    publishedDateTime: 2022-09-20T18:15:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/At-Dreamforce-2022-Salesforce-Introduces-Genie-Across-Its-Customer-360-Line-155011.aspx"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 21
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/AuthorImages/106293-Leonard-Klie--ORG.jpg"
-        width: 640
-        height: 480
         isCached: true
   - title: "Salesforce and AWS Announce Expansion of Strategic Partnership"
     excerpt: "Salesforce and AWS today announced new integrations between the Salesforce Platform and Amazon SageMaker. The integrations will enable"

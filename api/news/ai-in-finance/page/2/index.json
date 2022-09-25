@@ -2,6 +2,41 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-02-machine-learning-engineer-remote.md",
+      "title": "Machine Learning Engineer (Remote)",
+      "excerpt": "Opportunity Available!! Our leading client in the Logistics sector is looking to employ a Machine Learning Engineer to join their dynamic team. Develop computer vision and deep learning applications related to object detection, object segmentation and ...",
+      "sourceUrl": null,
+      "webUrl": "https://it-online.co.za/2022/09/01/machine-learning-engineer-remote-2/",
+      "originalUrl": "https://it-online.co.za/2022/09/01/machine-learning-engineer-remote-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT-Online",
+        "domain": "it-online.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-ai-in-fintech-market-will-reach-more-than-61-billion-by-2031.md",
       "title": "AI In Fintech Market Will Reach More Than $61 Billion, By 2031",
       "excerpt": "Artificial Intelligence has been growing its influence in Fintech, and is projected to hit $61 billion in under 10 years. We tell you how.",
@@ -1253,40 +1288,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-nigeria-india-to-partner-in-fintech-ai-scientific-development-solar-energy-envoy.md",
-      "title": "Nigeria, India to partner in fintech, AI, scientific development, solar energy – Envoy",
-      "excerpt": "including fintech, artificial intelligence, scientific development and solar energy. Speaking during the 76th independence day of India in Abuja, Balasubramanian also said that they were new areas ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sunnewsonline.com/nigeria-india-to-partner-in-fintech-ai-scientific-development-solar-energy-envoy/",
-      "originalUrl": "https://www.sunnewsonline.com/nigeria-india-to-partner-in-fintech-ai-scientific-development-solar-energy-envoy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-15T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "sunnewsonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

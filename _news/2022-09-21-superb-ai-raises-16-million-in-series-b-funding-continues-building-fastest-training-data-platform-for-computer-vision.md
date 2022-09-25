@@ -23,17 +23,6 @@ topics:
   - AI
   - Computer Vision
 
-related:
-  - title: "Superb AI Raises $16 Million In Series B Funding, Continues Building Fastest Training Data Platform For Computer Vision"
-    excerpt: "Superb AI announced today the initial closing of its Series B investment round with $16M, led by Korea Development Bank (KDB) and Series A investor Premier Partners, with additional investments from seed investors like Duke University and KT Investment."
-    publishedDateTime: 2022-09-21T17:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-superb-ai-raises-16-million-series-b-funding-/2022/09/21/9678448.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
-
 secured: "p7LVgCtfGZ2bUOU5sMs5vutkAz9+ID6wuuxc8eB+G+GuHUpJ0rTLNytonUKhu/N66w4A00XO4Tc1KrxDAgP84LpDGRxmghLucQ7JWvGFkDzL/gSGRbs4kdl3wB2Jy+tCQr/GhsLv0z/ImfJvJxxLGuLJYOZETrAs3ey6k6A8k1pJOIH2qkHPlCKj1pjvBmUuL0Q3RLVia3W7D+Lxh50ZKxd5/2fuNpn0AT435c6kgs2BIhL+UoMx9UcJDBjeuvH5BBrOMptzMDpQMrvy0wX1FECqfT7gpryFcqs0drrbZgeaAOo+xZVKue0T3tG/BJSYuReHmkSiyX+N7r0WpaCkgRnsNK+5YF4CTGvTcZlWmG4=;EeV9hVEadrGCnOmfnNnl/w=="
 ---
 

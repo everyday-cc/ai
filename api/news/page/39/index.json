@@ -2,6 +2,264 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2022-08-23-bosch-backed-self-driving-startup-weride-weighing-ipo-sources-say.md",
+      "title": "Bosch-backed self-driving startup WeRide weighing IPO, sources say",
+      "excerpt": "The self-driving vehicle industry has long been divided over the best ... taking a similar approach to peers including Baidu, Huawei Technologies, and General Motors-backed Momenta.ai. BLOOMBERG",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesstimes.com.sg/garage/bosch-backed-self-driving-startup-weride-weighing-ipo-sources-say",
+      "originalUrl": "https://www.businesstimes.com.sg/garage/bosch-backed-self-driving-startup-weride-weighing-ipo-sources-say",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T01:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Times",
+        "domain": "businesstimes.com.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-best-speech-to-text-apps-in-2022-free-paid-and-online-voice-recognition-apps-and-services.md",
+      "title": "Best speech-to-text apps in 2022: Free, paid and online voice recognition apps and services",
+      "excerpt": "Here then are the best in speech-to-text recognition programs, which should be more than capable for most situations and circumstances. Dragon Anywhere is the Nuance mobile product for Android and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/best-speech-to-text-app",
+      "originalUrl": "https://www.techradar.com/news/best-speech-to-text-app",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-22T22:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans.md",
+      "title": "Google Gave Its Helper Robots AI Language Skills to Better Work With Humans",
+      "excerpt": "it could be one way to start grounding AI’s language skills in the real world. So whether or not this line of research ever leads to robotic butlers becoming a reality, it seems likely to push the fields of both robotics and AI towards new and powerful ...",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/?amp=1",
+      "originalUrl": "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/?amp=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2022/08/Google-everyday-robots.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/?amp=1",
+      "publishedDateTime": "2022-08-22T20:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact.md",
+      "title": "Singapore looks to drive AI research, capabilities with Google Cloud pact",
+      "excerpt": "Touted as the Singapore government's first private-sector partnership in artificial intelligence, the collaboration will see both sides jointly develop and testbed applications as well as work on issues pertaining to AI governance and ethics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
+      "originalUrl": "https://www.zdnet.com/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
+      "publishedDateTime": "2022-08-22T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-robots-could-help-reduce-chemical-use-in-farming.md",
+      "title": "Robots could help reduce chemical use in farming",
+      "excerpt": "A robotics manufacturer is looking at the possibility of developing machines that will remove weeds and tend farmland without the need for so many chemicals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wcpo.com/news/national/robots-could-help-reduce-chemical-use-in-farming",
+      "originalUrl": "https://www.wcpo.com/news/national/robots-could-help-reduce-chemical-use-in-farming",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/cb84d0e/2147483647/strip/true/crop/3666x2062+61+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F07%2F00%2Fe618017b4f60acd3ac6f7b3020e4%2Fscreen-shot-2022-08-22-at-10.50.57%20PM.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wcpo.com/news/national/robots-could-help-reduce-chemical-use-in-farming?_amp=true",
+      "cdnAmpWebUrl": "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/robots-could-help-reduce-chemical-use-in-farming?_amp=true",
+      "publishedDateTime": "2022-08-22T18:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCPO Cincinnati",
+        "domain": "wcpo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-bci-brain-controlled-robot-market-report-in-depth-market-analysis-and-forecast-2022-to-2028-of-market-insights.md",
+      "title": "BCI Brain-controlled Robot Market Report, In-Depth Market Analysis and FORECAST 2022 To 2028 of market insights.",
+      "excerpt": "In this research report, \"2022 to 2028,\" the current situation and potential future developments of the \"BCI Brain-controlled Robot Market\" are presented. The research offers a thorough ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/bci-brain-controlled-robot-market-report-in-depth-market-analysis-and-forecast-2022-to-2028-of-market-insights-2022-08-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/bci-brain-controlled-robot-market-report-in-depth-market-analysis-and-forecast-2022-to-2028-of-market-insights-2022-08-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-23-how-to-use-artificial-intelligence-to-predict-cryptocurrency-price-trends.md",
       "title": "How To Use Artificial Intelligence To Predict Cryptocurrency Price Trends",
       "excerpt": "Artificial intelligence (AI) has become an essential tool for cryptocurrency traders looking to remain one step ahead of their competition. By integrating various data sources and advanced ...",
@@ -886,275 +1144,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-5-best-artificial-intelligence-stocks-to-buy-now.md",
-      "title": "5 Best Artificial Intelligence Stocks To Buy Now",
-      "excerpt": "The company’s Meta AI is working towards developing artificial intelligence in the digital ... self-driving cars through its subsidiary, Waymo. In addition, the company’s subsidiary DeepMind ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-now-1058867/?singlepage=1",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-now-1058867/?singlepage=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/09/29221800/istockphoto-1274437411-170667a.jpg",
-          "width": 584,
-          "height": 296,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-veterans-voice-relatives-of-ri-aviation-hall-of-fame-honorees-sought.md",
-      "title": "Veterans Voice: Relatives of RI Aviation Hall of Fame honorees sought",
-      "excerpt": "The R.I. Aviation Hall of Fame has identified a number of those war heroes whose gallantry and/or military aviation service fully merits recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cincinnati.com/story/news/local/2022/08/22/veterans-voice-relatives-hall-fame-honoreveterans-voice-relatives-of-hall-of-fame-honoreeses-sought/7842624001/",
-      "originalUrl": "https://www.cincinnati.com/story/news/local/2022/08/22/veterans-voice-relatives-hall-fame-honoreveterans-voice-relatives-of-hall-of-fame-honoreeses-sought/7842624001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2022/08/19/NPRJ/e9be141f-a765-437b-9194-39ca6d63ad93-1.hamilton_plane.jpeg?auto=webp&crop=1799,1012,x0,y205&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cincinnati Enquirer",
-        "domain": "cincinnati.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-graymatter-robotics-raises-20m-in-series-a-funding.md",
-      "title": "GrayMatter Robotics Raises $20M in Series A Funding",
-      "excerpt": "GrayMatter Robotics, an artificial intelligence robotics solutions company, announced last week it raised $20 million in Series A investment led by Bow Capital and joined by B Capital Group, Calibrate Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://labusinessjournal.com/technology/graymatter-robotics-raises-20m-in-series-a-funding/",
-      "originalUrl": "https://labusinessjournal.com/technology/graymatter-robotics-raises-20m-in-series-a-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d3evu7qlt2vui6.cloudfront.net/wp-content/uploads/2022/08/PG04_GRAYMATTER_0822_scansand-scaled-e1660932740192.jpeg",
-          "width": 1162,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Business Journal",
-        "domain": "labusinessjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-how-to-become-an-ai-engineer-check-out-to-know-education-roles-and-skills.md",
-      "title": "How to become an AI Engineer? Check out to know education, roles and skills",
-      "excerpt": "In fact, there has been a massive 154% growth in the worldwide AI market. Artificial Intelligence impacts how machines may improve human life, from driverless automobiles to android systems in phones, apps, and other electronic gadgets. And to maintain and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraphindia.com/edugraph/career/how-to-become-an-ai-engineer-check-out-to-know-education-roles-and-skills/cid/1881672",
-      "originalUrl": "https://www.telegraphindia.com/edugraph/career/how-to-become-an-ai-engineer-check-out-to-know-education-roles-and-skills/cid/1881672",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telegraphindia.com/telegraph/2022/Aug/1661151572_untitled-3.jpg",
-          "width": 428,
-          "height": 285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraphindia.com/amp/edugraph/career/how-to-become-an-ai-engineer-check-out-to-know-education-roles-and-skills/cid/1881672",
-      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/career/how-to-become-an-ai-engineer-check-out-to-know-education-roles-and-skills/cid/1881672",
-      "publishedDateTime": "2022-08-22T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "telegraphindia.com",
-        "domain": "telegraphindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-ai-in-medical-imaging-diagnosis-market-future-trends-outlook-2022-and-forecast-to-2030-by-ge-healthcare-ibm-watson-health-philips-healthcare.md",
-      "title": "AI in Medical Imaging Diagnosis Market Future Trends Outlook 2022, and Forecast to 2030 | By -GE Healthcare, IBM Watson Health, Philips Healthcare",
-      "excerpt": "Aug 22, 2022 (Market Insight Reports) -- New Jersey, United States- The strong development of the AI in Medical Imaging Diagnosis market can be ascribed to the elements related which incorporate market drivers, limitations and amazing open doors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-medical-imaging-diagnosis-market-future-trends-outlook-2022-and-forecast-to-2030-by--ge-healthcare-ibm-watson-health-philips-healthcare-2022-08-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-medical-imaging-diagnosis-market-future-trends-outlook-2022-and-forecast-to-2030-by--ge-healthcare-ibm-watson-health-philips-healthcare-2022-08-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-21T22:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment.md",
-      "title": "Israeli Fintech Vyzer Selects Salt Edge to Provide Open Banking Boost to Investment",
-      "excerpt": "Vyzer, an Israeli-based fintech consumer focused startup, joined forces with Salt Edge, a key player in offering open banking solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/08/195011-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/08/195011-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/03/Israel-Tel-Aviv-2019.jpg",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/08/195011-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/08/195011-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment/amp/",
-      "publishedDateTime": "2022-08-21T22:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

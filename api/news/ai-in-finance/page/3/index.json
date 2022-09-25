@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-16-nigeria-india-to-partner-in-fintech-ai-scientific-development-solar-energy-envoy.md",
+      "title": "Nigeria, India to partner in fintech, AI, scientific development, solar energy – Envoy",
+      "excerpt": "including fintech, artificial intelligence, scientific development and solar energy. Speaking during the 76th independence day of India in Abuja, Balasubramanian also said that they were new areas ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sunnewsonline.com/nigeria-india-to-partner-in-fintech-ai-scientific-development-solar-energy-envoy/",
+      "originalUrl": "https://www.sunnewsonline.com/nigeria-india-to-partner-in-fintech-ai-scientific-development-solar-energy-envoy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-15T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "sunnewsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-13-why-data-ethics-leadership-needs-to-become-the-new-normal-in-finance.md",
       "title": "Why data ethics leadership needs to become the new normal in finance",
       "excerpt": "By David Sweenor, Senior Director of Product Marketing at Alteryx. In June, one of the largest banking groups in the world – Lloyds Bank – announced it was joining the ranks of Google, KPMG and Uber with the creation of a new",
@@ -1284,50 +1318,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-top-8-uses-of-data-analytics-in-accounting-and-finance.md",
-      "title": "Top 8 Uses Of Data Analytics In Accounting And Finance",
-      "excerpt": "Over the last couple of decades, data analytics has become the ultimate business dialect for better decision-making, with organizations integrating some form of data science into their business operations.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/",
-      "originalUrl": "https://techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/07/analysis-g709988b49_1280.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/amp/",
-      "publishedDateTime": "2022-07-19T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI",
         "AI in Finance"
       ]

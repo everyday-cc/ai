@@ -26,22 +26,6 @@ images:
     height: 1920
     isCached: true
 
-related:
-  - title: "A third of scientists working on AI say it could cause global disaster"
-    excerpt: "A survey of artificial intelligence researchers found that 36 per cent believe AIs could cause a catastrophe on the scale of nuclear war"
-    publishedDateTime: 2022-09-20T17:58:00Z
-    webUrl: "https://www.newscientist.com/article/2338644-a-third-of-scientists-working-on-ai-say-it-could-cause-global-disaster/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 39
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/09/20182814/SEI_126223495.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-
 secured: "9LPhvx+RHh1bxGNrdC+urkEXGqSX6iQjg1ixmHSo/KcFOx4HeFxFae/NmaiKQYSb3pwgzv1PJyxhYKPsiXU2RAWcBenjS+eyYvZxlE06ob8boXq9+uBl5mBkw7T6OLKAiLZ+jfyiEPGm6ad4DQbjmbrN2zXN06I50oPWOYPDbIOUZraYNjBEfbV98rBygLzYCMIWDI0RM9gCFVJ0Vu2czg8gCRvZDuGAOA39mo9Vie/+dOsW4sHdL7Vq5t01gyu47kzoEd2qJBrp1ltlm/VTNfsEtElLsxwQ5DqvdBcb7C4PCGjXYZXCGV+waxmMgNaUolblU2ec+aa2qm1lxE9imJgzHyPRZu+UMXxiKUaRoPWbH/PMJc18lul3u7GtW6GMZQKUR1wTJWZaiK772wE/yLByshS+Eywu6xNDjkz5Lh4moS8ntqYjpu9ULm7xET8O9nuLz7FBOBPl8POWS1JoWPME9DQ+5k5+F4T/nxNV2tsxMF6hHDQCsWljsdZUZLX0aVwqylFIXXVKdEO2MqFlyA==;k/csAIfMA5gi2XQe9zDq/w=="
 ---
 

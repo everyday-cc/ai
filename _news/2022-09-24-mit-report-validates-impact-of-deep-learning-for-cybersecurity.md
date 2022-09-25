@@ -22,17 +22,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "NVIDIA and Booz Allen Hamilton Expand Partnership to Bring AI-Enabled Cybersecurity to Public and Private Sectors"
-    excerpt: "NVIDIA and Booz Allen Hamilton (NYSE: BAH) today announced an expanded collaboration to bring an AI-enabled, GPU-accelerated cybersecurity platform to customers in the public and private sectors. The platform enables next-generation incident response systems that help customers pinpoint cybersecurity threats."
-    publishedDateTime: 2022-09-20T18:16:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/20/9677405.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
 secured: "ZwVLrR4L02yCo/QoCrmqGRCbwX7J0OJG71DAXyAhSoDWofnW50yaegifuzPFm0PcM1bYwaZV/h5NSoP4/C9vtVPKhrVQ8sAsfgBitCnzshQpdAPi6kyZGOFeYUR95N88pPfCAvK7M0cxls5OjRkZ5fQUDoyoxV1fJwo6l8wwr9CE+3mM8xWtoSJ3syvNBzrjLkDNqnxncYTsm9pb1mkB0z3alD4cbsL9RAVWQS7UCGE01BbQTsRgKs6YR3C5DVUA8lQQUnGYFE5luBmJ+UTCT6Cf6EecqT2pZXGcksL4FN+ShC+n5jazcfcdDKlbUY7RpOHBG4MrfriRhoL8brWDM67Wg9JoYshrcMle3OkDpZdh9MkmSrttc0F3EvMmi1x79mXNdi3HJTM48JjeC6o9C1NwN8svfcHPCRo5icdouVxfz2drQ7m++NRY0Td4U5KyO8XmjoyQITenxGHBmeRhuU7b2LcaD2cy6xhW1R8GWbjhN06bogEdg/CFk5pqXcdDQ1r2nsWUtcckafU37JTewg==;Lqz77ek5dp7k1WaKennq+Q=="
 ---
 

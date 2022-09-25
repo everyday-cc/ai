@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 596
         isCached: true
-  - title: "Augment’s personal AI assistant could help you keep track of a scattered digital life"
-    excerpt: "Ever totally forget the person, email or document you're supposed to talk about in the next call? Augment's personal AI assistant might help."
-    publishedDateTime: 2022-09-20T17:09:00Z
-    webUrl: "https://techcrunch.com/2022/09/20/augments-personalized-ai-assistant-could-help-you-keep-track-of-a-scattered-digital-life/"
-    ampWebUrl: "https://techcrunch.com/2022/09/20/augments-personalized-ai-assistant-could-help-you-keep-track-of-a-scattered-digital-life/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/20/augments-personalized-ai-assistant-could-help-you-keep-track-of-a-scattered-digital-life/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 80
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/09/augment-header.jpg?resize=1200,738"
-        width: 1200
-        height: 738
-        isCached: true
   - title: "HOW ARTIFICIAL INTELLIGENCE BOOSTS THE DIGITAL MARKETING SPHERE"
     excerpt: "This article try to portray artificial intelligence's influence in digital marketing sphere. Importance of AI and the need to adopt it discussed."
     publishedDateTime: 2022-09-22T06:05:00Z

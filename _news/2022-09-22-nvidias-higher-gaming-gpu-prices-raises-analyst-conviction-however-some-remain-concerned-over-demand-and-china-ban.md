@@ -113,15 +113,15 @@ related:
       name: enterprisetalk
       domain: enterprisetalk.com
     quality: 19
-  - title: "NVIDIA Announces OVX Computing Systems - the Graphics and Simulation Foundation for the Metaverse - Powered by Ada Lovelace GPU"
-    excerpt: "NVIDIA today announced the second generation of NVIDIA OVX™, powered by the NVIDIA Ada Lovelace GPU architecture and enhanced networking technology, to deliver groundbreaking real-time graphics, AI and digital twin simulation capabilities."
-    publishedDateTime: 2022-09-20T17:55:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-nvidia-announces-ovx-computing-systems-graphics-simulation-foundation-/2022/09/20/9677407.htm"
+  - title: "Nvidia RTX 6000 ‘Ada Lovelace’ GPU launches"
+    excerpt: "Nvidia RTX 6000 'Ada Lovelace' workstation GPU promises to boost performance by changing the way viewports and scenes are rendered."
+    publishedDateTime: 2022-09-21T12:47:00Z
+    webUrl: "https://aecmag.com/workstations/nvidia-rtx-6000-ada-lovelace-workstation-gpu-launches/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: AEC Magazine
+      domain: aecmag.com
+    quality: 19
 
 secured: "PQT1BQhQSaJ8DnjoIUehl+MYle3EXHbnXqZs/2KZpQGAMDJR9WeubtY2F+IgjVpUhlbwT5wrRfOi0HSkNmZtboMpZiYNZ94SM+skRt8gAmL8Hwwhdu7ef9lYlnlWroTzkdshkau3wp6BrW5RIT6r6+Ka+IC+vqF80+YOaXgAcBlGJMkBthxcLfW8wnwgdG6M1L9kTwI26QvxuGt3R587y7lCi09o02FR1rM0k/9gyit+gWsJSX2nK7GLrFYqapPbkbBFqp9wHTP22vHC+InPAUvqXbTJUz3O23y+ox6nDcNJqIjz8896pfUmLNG+3AkOaAfNrQyy7IFDj6YMRGqm6AMT124uClUCve52BzDsDWGi3O5Q5dsqYAHox7Vtl67ZyRqytMpTz9Mnfu2u3V1ERWodt0AwySwxVcWDwq2sYvKN4jQ6htQHBrJKmrSAIg6FOhWwK54F5Diz4k1sTC2KRCbtLLew03qVvBcP4TY5IdN8W6DxsMMRhLSAUH+NB9VQvcYEY5z2XEof11wmYBfnoA==;daQWlgY4RpNXYCCUWBV2Zw=="
 ---

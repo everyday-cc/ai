@@ -25,17 +25,6 @@ images:
     height: 628
     isCached: true
 
-related:
-  - title: "Westpac wants an AI law, to guide adoption and build trust"
-    excerpt: "The Department of Industry, Science, Energy and Resources oversees voluntary AI ethics principles – but there is no requirement business must consider or comply with them. CEDA found 95 per cent of businesspeople don’t know about this framework."
-    publishedDateTime: 2022-09-20T19:00:00Z
-    webUrl: "https://www.afr.com/companies/financial-services/westpac-wants-an-ai-law-to-guide-adoption-and-build-trust-20220920-p5bjgc"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 19
-
 secured: "0k1ip4+CbijtAT3DmZPTE86gEKalp4WmYtP2CJvbOTmF1k0x02sYALZGGe7SvXpt38ho5b7tHhvTi2BbtyXP5y/8fTTV2n83NeuQLnA5Xp+1KAZ0RcmAGMkkPOBtN3rEeiOG2Dn/JdMVOLxZ8flYpivRcMQ0mDSMqGXUaH+SMQ/YO27JFiHZiSWD9JojnntlyCURiZ0NSLaduthffXUxZ3Z23AyXtAgDu8bcN+uJHiABX3qcWiDrlUaY5SxroVnQ488b5snQTTrV6blVVudFp+CvxD8T3Ej/yKDi1eDSklO9mWRZmdERUysypKZle4zfdckYHsibRd98hn+/s/oWKsaNvuFdnk+XrsvT1HRAdsyzhQPbuQDLgaI0xp344nCRI8aXyEE78vLOrurHImmEJXAfOmZpvNZI4pBXDrSKkRzROV2CFuPa6WYr6LBfT7mDy5dXaSFhGrpKOMoMzSczQglWlFgG5dszIszS+hBxFKg9wAMXbLe3Lsz+1YoxjaUBiGC65YS55Su8h7HHKtHgZg==;tqEYW8it0Fqv37Z3IcSKpw=="
 ---
 

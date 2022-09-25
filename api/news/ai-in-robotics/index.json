@@ -10,7 +10,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 198,
+      "heat": 178,
       "tags": null,
       "images": [
         {
@@ -160,7 +160,7 @@
       "originalUrl": "https://www.theguardian.com/film/2022/sep/21/after-yang-review-what-to-do-when-your-ai-robot-child-goes-wrong",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -445,18 +445,18 @@
     {
       "path": "_news/2022-09-20-artificial-intelligence-robots-market-size-to-record-213-cagr-through-2028.md",
       "title": "Artificial Intelligence Robots Market Size To Record 21.3% CAGR Through 2028",
-      "excerpt": "Market Study Report presents latest report on global  Artificial Intelligence (AI) Robots Market,  which evaluates the growth tr",
+      "excerpt": "Market Study Report presents latest report on global Artificial Intelligence (AI) Robots Market, which evaluates the growth trends of the industry through historical study and estimates future ...",
       "sourceUrl": null,
       "webUrl": "https://menafn.com/1104892877/Artificial-Intelligence-Robots-Market-Size-To-Record-213-CAGR-Through-2028",
       "originalUrl": "https://menafn.com/1104892877/Artificial-Intelligence-Robots-Market-Size-To-Record-213-CAGR-Through-2028",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?176684",
-          "width": 375,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?849806",
+          "width": 436,
           "height": 250,
           "title": null,
           "attribution": null,
@@ -467,7 +467,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T02:36:00-07:00",
+      "publishedDateTime": "2022-09-20T02:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Mena FN",
@@ -481,8 +481,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1123,6 +1123,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-15-intelligent-cooperation-to-provide-surveillance-and-epidemic-services-in-smart-cities.md",
+      "title": "Intelligent cooperation to provide surveillance and epidemic services in smart cities",
+      "excerpt": "have designed an Artificial Intelligence (AI)-assisted cooperative infrastructure for UAVs and mobile robots. In a paper published in volume 36 issue 3 of IEEE Network on 13 July 2022, the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220914102005.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220914102005.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T15:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-15-watch-a-robot-excavator-controlled-like-a-videogame.md",
       "title": "Watch a robot excavator controlled like a videogame",
       "excerpt": "I could watch this robot excavator dig all day. Remote control could also make excavation safer and more economical.",
@@ -1386,49 +1429,6 @@
         "AI",
         "AI in Robotics",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-robot-lab-live-highlights-remote-control-burger-crafting-using-two-robot-dogs.md",
-      "title": "Robot Lab Live Highlights - Remote Control Burger Crafting Using Two Robot Dogs",
-      "excerpt": "Remotely controlling a robotic system from a distance, whether it be in a different room or country, has always been a difficult task. In this demonstration, the team from Real Robotics Lab will show how a motion capture suit - such as the ones used in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newelectronics.co.uk/content/videos/robot-lab-live-highlights-remote-control-burger-crafting-using-two-robot-dogs",
-      "originalUrl": "https://www.newelectronics.co.uk/content/videos/robot-lab-live-highlights-remote-control-burger-crafting-using-two-robot-dogs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newelectronics.co.uk/media/g21dp5mu/burgers.png?width=1200&height=630&mode=crop",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Electronics",
-        "domain": "newelectronics.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -92,36 +92,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Elon Musk faces skeptics as Tesla gets ready to unveil 'Optimus' robot"
-    excerpt: "Tesla Chief Executive Elon Musk blamed overreliance on factory robots for sending the electric carmaker to \"production hell\" four years ago, saying humans were better at certain jobs."
-    publishedDateTime: 2022-09-20T17:13:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/elon-musk-faces-skeptics-tesla-gets-ready-unveil-optimus-robot-2022-09-20/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 86
-    images:
-      - url: "https://www.reuters.com/resizer/gx_3f22a3kYh8h4YmjMhdjZEvNM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WWSNDUO46JPIHMZLGYLX5S6FKQ.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Tesla's 'Optimus' robot ready to be unveiled"
-    excerpt: "Tesla Chief Executive Elon Musk blamed overreliance on factory robots for sending the electric carmaker to \"production hell\" four years ago, saying humans were better at certain jobs."
-    publishedDateTime: 2022-09-20T17:54:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/teslas-optimus-robot-ready-be-unveiled-3124251"
-    ampWebUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/teslas-optimus-robot-ready-be-unveiled-3124251?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/teslas-optimus-robot-ready-be-unveiled-3124251?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 76
-    images:
-      - url: "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/09/20/optimus.jpg"
-        width: 750
-        height: 393
-        isCached: true
   - title: "Optimus Robot Is Coming At Tesla’s AI Day 2 – But It’ll Have To Do More Than Dancing To Silence Critics"
     excerpt: "Tesla will hold its AI Day 2 on September 30 and in the leadup, Elon Musk has prioritized both Optimus and an updated smart summon feature. According to the tech billionaire, both projects have an end-of-month deadline."
     publishedDateTime: 2022-09-20T23:37:00Z

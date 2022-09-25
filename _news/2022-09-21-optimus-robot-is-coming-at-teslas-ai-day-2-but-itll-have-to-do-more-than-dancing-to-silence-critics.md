@@ -92,20 +92,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Elon Musk faces skeptics as Tesla gets ready to unveil 'Optimus' robot"
-    excerpt: "Tesla Chief Executive Elon Musk blamed overreliance on factory robots for sending the electric carmaker to \"production hell\" four years ago, saying humans were better at certain jobs."
-    publishedDateTime: 2022-09-20T17:13:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/elon-musk-faces-skeptics-tesla-gets-ready-unveil-optimus-robot-2022-09-20/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 86
-    images:
-      - url: "https://www.reuters.com/resizer/gx_3f22a3kYh8h4YmjMhdjZEvNM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WWSNDUO46JPIHMZLGYLX5S6FKQ.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Elon Musk faces sceptics as Tesla gets ready to unveil 'Optimus' robot"
     excerpt: "Elon Musk is planning to deploy thousands of humanoid robots in Tesla factory. However, there is scepticism as about his 'Optimus' robot"
     publishedDateTime: 2022-09-21T03:19:00Z
@@ -121,22 +107,6 @@ related:
       - url: "https://images.livemint.com/img/2022/09/21/600x338/Tesla_Elon_Musk_1663728702949_1663728703184_1663728703184.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Tesla's 'Optimus' robot ready to be unveiled"
-    excerpt: "Tesla Chief Executive Elon Musk blamed overreliance on factory robots for sending the electric carmaker to \"production hell\" four years ago, saying humans were better at certain jobs."
-    publishedDateTime: 2022-09-20T17:54:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/teslas-optimus-robot-ready-be-unveiled-3124251"
-    ampWebUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/teslas-optimus-robot-ready-be-unveiled-3124251?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/teslas-optimus-robot-ready-be-unveiled-3124251?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 76
-    images:
-      - url: "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/09/20/optimus.jpg"
-        width: 750
-        height: 393
         isCached: true
   - title: "Tesla set to unveil humanoid robot Optimus"
     excerpt: "Tesla is preparing to unveil an AI-powered humanoid robot that it hopes ... the Autobots in the Transformers series. Production could start next year, Mr Musk said. Tesla faces scepticism that ..."

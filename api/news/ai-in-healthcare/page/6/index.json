@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-07-13-ai-startup-speeds-healthcare-innovations-to-save-lives.md",
+      "title": "AI Startup Speeds Healthcare Innovations To Save Lives",
+      "excerpt": "Faster synthesis and analysis of healthcare data get medical innovations to market faster. By harnessing AI, big data, machine learning, and predictive analytics, this startup is doing just that for medical device and pharmaceutical companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/geristengel/2022/07/13/ai-startup-speeds-healthcare-innovations-to-save-lives/",
+      "originalUrl": "https://www.forbes.com/sites/geristengel/2022/07/13/ai-startup-speeds-healthcare-innovations-to-save-lives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62ce6ad6d773bc79031cb76c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/geristengel/2022/07/13/ai-startup-speeds-healthcare-innovations-to-save-lives/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/geristengel/2022/07/13/ai-startup-speeds-healthcare-innovations-to-save-lives/amp/",
+      "publishedDateTime": "2022-07-13T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-13-meet-plato-an-ai-that-gains-intuition-like-a-human-baby.md",
       "title": "Meet Plato, an AI That Gains Intuition Like a Human Baby",
       "excerpt": "Aptly named after the philosopher who strived to dissect the nature of knowledge, this deep learning system learns like a child.",
@@ -1302,41 +1354,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-cognitive-therapy-shows-promise-in-treating-ptsd-and-headaches.md",
-      "title": "Cognitive therapy shows promise in treating PTSD and headaches",
-      "excerpt": "Recently, researchers examined two nonpharmacological interventions for post-traumatic headaches — cognitive behavioral therapy (CBT) and cognitive processing therapy (CPT). They found that CBT ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medicalnewstoday.com/articles/cognitive-therapy-shows-promise-in-treating-ptsd-and-headaches",
-      "originalUrl": "https://www.medicalnewstoday.com/articles/cognitive-therapy-shows-promise-in-treating-ptsd-and-headaches",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical News Today",
-        "domain": "medicalnewstoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

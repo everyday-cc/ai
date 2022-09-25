@@ -2,6 +2,256 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2022-08-31-removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology.md",
+      "title": "Removing the data security barriers and concerns to accelerate speech recognition usage in radiology",
+      "excerpt": "According to Scribetech, security is a key barrier to adopting speech recognition – despite its potential to accelerate reporting time, drive accuracy, and enable radiologists to deal with a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxan.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/",
+      "originalUrl": "https://www.kxan.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T01:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXAN",
+        "domain": "kxan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-baidu-revenue-hit-as-advertising-tumbles.md",
+      "title": "Baidu revenue hit as advertising tumbles",
+      "excerpt": "Chinese internet giant Baidu returned to profit in Q2 2022 on one-off gains ... to an “unfavourable macro environment”, but noted its AI cloud and intelligent driving businesses maintained rapid growth momentum. Looking to the second half, Li said ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobileworldlive.com/asia/asia-news/baidu-revenue-hit-as-advertising-tumbles/",
+      "originalUrl": "https://www.mobileworldlive.com/asia/asia-news/baidu-revenue-hit-as-advertising-tumbles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T01:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-hovertouch-first-ai-and-computer-vision-solution-launched-by-spacee-that-transforms-existing-retail-surfaces-into-interactive-customer-experiences.md",
+      "title": "HoverTouch: First AI and Computer Vision Solution launched by Spacee that Transforms Existing Retail Surfaces Into Interactive Customer Experiences",
+      "excerpt": "About Spacee Spacee provides the best computer vision and AI solutions that help businesses drive new insights, improve efficiency and boost revenue. Spacee's interactive displays help engage and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56938910-hovertouch-first-ai-and-computer-vision-solution-launched-by-spacee-that-transforms-existing-retail-surfaces-into-interactive-customer-experiences-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56938910-hovertouch-first-ai-and-computer-vision-solution-launched-by-spacee-that-transforms-existing-retail-surfaces-into-interactive-customer-experiences-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-chinas-great-firewall-pushes-top-taiwan-ai-startups-toward-japan.md",
+      "title": "China's 'Great Firewall' pushes top Taiwan AI startups toward Japan",
+      "excerpt": "TOKYO -- Some Taiwanese startups specializing in artificial intelligence have chosen to expand in Japan rather than mainland China due to structural barriers that have become inherent in Chinese ...",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/Business/Startups/China-s-Great-Firewall-pushes-top-Taiwan-AI-startups-toward-Japan",
+      "originalUrl": "https://asia.nikkei.com/Business/Startups/China-s-Great-Firewall-pushes-top-Taiwan-AI-startups-toward-Japan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F4%252F5%252F0%252F3%252F42013054-1-eng-GB%252Fphoto.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T22:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ニッケイ・エイジア",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-baidu-claims-its-robotaxis-have-grabbed-10-of-the-ride-hailing-market-in-a-suburb-of-beijing.md",
+      "title": "Baidu claims its robotaxis have grabbed 10% of the ride-hailing market in a suburb of Beijing",
+      "excerpt": "Chinese tech giant Baidu said its robotaxis have grabbed about 10% of the ride-hailing market in a suburb of Beijing city. Baidu began offering free robotaxi rides in the suburban region in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/08/31/baidu-claims-its-robotaxis-have-grabbed-10percent-of-a-ride-hailing-market.html",
+      "originalUrl": "https://www.cnbc.com/2022/08/31/baidu-claims-its-robotaxis-have-grabbed-10percent-of-a-ride-hailing-market.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107111680-1661904834859-gettyimages-1355764512-vcg111359334633.jpeg?v=1661907038",
+          "width": 3988,
+          "height": 2652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/08/31/baidu-claims-its-robotaxis-have-grabbed-10percent-of-a-ride-hailing-market.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/08/31/baidu-claims-its-robotaxis-have-grabbed-10percent-of-a-ride-hailing-market.html",
+      "publishedDateTime": "2022-08-30T22:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-start-talking-the-true-potential-of-conversational-ai-in-the-enterprise.md",
+      "title": "Start talking: The true potential of conversational AI in the enterprise",
+      "excerpt": "A holistic approach, good governance, and internal lifecycle automation are key factors of success in implementing conversational AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/start-talking-the-true-potential-of-conversational-ai-in-the-enterprise/",
+      "originalUrl": "https://venturebeat.com/ai/start-talking-the-true-potential-of-conversational-ai-in-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1324517786-Andrey-Suslov.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/start-talking-the-true-potential-of-conversational-ai-in-the-enterprise/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/start-talking-the-true-potential-of-conversational-ai-in-the-enterprise/amp/",
+      "publishedDateTime": "2022-08-30T21:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-08-31-first-driverless-spreader-introduced-by-case-ih-and-raven-industries.md",
       "title": "First Driverless Spreader Introduced by Case IH and Raven Industries",
       "excerpt": "A new driverless spreader has been introduced this week by CNH Industrial. The Case IH Trident(TM) 5550 applicator with Raven Autonomy(TM) can be operated with or without a driver. CNH Industrial, which owns both Case IH and Raven Industries,",
@@ -820,272 +1070,6 @@
         "name": "TheStreet.com",
         "domain": "thestreet.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-how-self-supervised-learning-may-boost-medical-ai-progress.md",
-      "title": "How self-supervised learning may boost medical AI progress",
-      "excerpt": "Self-supervised learning in healthcare and medicine is growing, thanks to the vast amount of unstructured data available in that industry.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-self-supervised-learning-may-boost-medical-ai-progress/",
-      "originalUrl": "https://venturebeat.com/ai/how-self-supervised-learning-may-boost-medical-ai-progress/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1156616255.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-self-supervised-learning-may-boost-medical-ai-progress/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-self-supervised-learning-may-boost-medical-ai-progress/amp/",
-      "publishedDateTime": "2022-08-30T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-industrys-first-autonomous-spreader-debuts-at-farm-progress-show.md",
-      "title": "Industry's first autonomous spreader debuts at Farm Progress Show",
-      "excerpt": "Case IH and Raven Industries introduce the agriculture industry's first autonomous spreader: the Case IH Trident ™ 5550 applicator with Raven Autonomy ™. Unveiled at Farm Progress Show 2022, this innovative solution delivers on customers' demands for autonomous equipment to help solve labor challenges and increase productivity on their operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-industrys-first-autonomous-spreader-debuts-farm-progress-show-/2022/08/30/9664454.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-industrys-first-autonomous-spreader-debuts-farm-progress-show-/2022/08/30/9664454.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-france-reveals-hidden-swimming-pools-with-ai-taxes-them.md",
-      "title": "France reveals hidden swimming pools with AI, taxes them",
-      "excerpt": "Using an artificial intelligence computer vision system developed by French IT firm Capgemini, the French tax office (often called \"Le Fisc\") has identified 20,356 residential swimming pools that had previously gone undeclared.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/08/france-reveals-hidden-swimming-pools-with-ai-taxes-them/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/08/france-reveals-hidden-swimming-pools-with-ai-taxes-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/french-pool-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-msrcosmos-recognized-as-a-finalist-of-2022-microsoft-sap-on-azure-partner-of-the-year.md",
-      "title": "MSRcosmos recognized as a finalist of 2022 Microsoft SAP on Azure Partner of the Year",
-      "excerpt": "MSRcosmos has been named a finalist of 2022 Microsoft Partner of the Year Awards in the SAP on Azure category. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-msrcosmos-recognized-as-finalist-2022-microsoft-sap-azure-/2022/08/30/9664456.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-msrcosmos-recognized-as-finalist-2022-microsoft-sap-azure-/2022/08/30/9664456.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-ai-robotics-startup-co-founded-by-buet-graduate-raises-20m-series-a-investment.md",
-      "title": "AI robotics startup co-founded by Buet graduate raises $20M series A investment",
-      "excerpt": "an AI-Robotics startup delivering smart robotic automation solutions for tedious and ergonomically challenging tasks, co-founded by Ariyan Kabir-a Buet graduate- has recently raised $20 million as series A investment. The Series A investment round was led ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dhakatribune.com/business/2022/08/30/ai-robotics-startup-co-founded-by-buet-graduate-raises-20m-series-a-investment",
-      "originalUrl": "https://www.dhakatribune.com/business/2022/08/30/ai-robotics-startup-co-founded-by-buet-graduate-raises-20m-series-a-investment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://new-media.dhakatribune.com/en/uploads/watermarked/1661870582278/ai-robotics-startup-co-founded-by-buet-graduate-raises-20m-series-a-investment-r137701.jpeg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dhaka Tribune",
-        "domain": "dhakatribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-baidus-bidu-apollo-go-service-strikes-1-million-ev-autonomous-ride-milestone-in-china.md",
-      "title": "Baidu’s (BIDU) Apollo Go service strikes 1 million EV autonomous ride milestone in China",
-      "excerpt": "Chinese tech giant Baidu (BIDU) beat Wall Street’s Q2 earnings estimates on Tuesday despite several headwinds in China’s economy. Baidu’s Apollo Go, its robotaxi business, unveiled its next-gen autonomous EV,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/08/30/baidus-apollo-go-service-strikes-1-million-ev-autonomous-rides/",
-      "originalUrl": "https://electrek.co/2022/08/30/baidus-apollo-go-service-strikes-1-million-ev-autonomous-rides/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Baidu-Apollo-Go.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/08/30/baidus-apollo-go-service-strikes-1-million-ev-autonomous-rides/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/30/baidus-apollo-go-service-strikes-1-million-ev-autonomous-rides/amp/",
-      "publishedDateTime": "2022-08-30T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

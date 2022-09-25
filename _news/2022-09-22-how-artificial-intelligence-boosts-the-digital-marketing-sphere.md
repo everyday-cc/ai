@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 679
         isCached: true
-  - title: "Augment’s personal AI assistant could help you keep track of a scattered digital life"
-    excerpt: "Ever totally forget the person, email or document you're supposed to talk about in the next call? Augment's personal AI assistant might help."
-    publishedDateTime: 2022-09-20T17:09:00Z
-    webUrl: "https://techcrunch.com/2022/09/20/augments-personalized-ai-assistant-could-help-you-keep-track-of-a-scattered-digital-life/"
-    ampWebUrl: "https://techcrunch.com/2022/09/20/augments-personalized-ai-assistant-could-help-you-keep-track-of-a-scattered-digital-life/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/20/augments-personalized-ai-assistant-could-help-you-keep-track-of-a-scattered-digital-life/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 80
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/09/augment-header.jpg?resize=1200,738"
-        width: 1200
-        height: 738
-        isCached: true
   - title: "A Model Could Bridge The Gap Between Human Brain And AI"
     excerpt: "A team of researchers at Mila and IVADO has developed a model of the human brain that could bridge the gap in understanding AI and the biological mechanisms underlying mental disorders The study of brain behavior based on cognition is still ongoing and researchers are trying to study the biological mechanisms that relate to neural"
     publishedDateTime: 2022-09-21T11:11:00Z

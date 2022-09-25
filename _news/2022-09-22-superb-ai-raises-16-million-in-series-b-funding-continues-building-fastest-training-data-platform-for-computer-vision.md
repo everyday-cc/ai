@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Superb AI Raises $16 Million In Series B Funding, Continues Building Fastest Training Data Platform For Computer Vision"
-    excerpt: "\"We believe Superb AI's unique approach accelerates computer vision projects by automating data preparation to faster and more predictably leverage AI and machine learning,\" said Hyun Kim, co-founder and CEO of Superb AI."
-    publishedDateTime: 2022-09-21T16:48:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/superb-ai-raises-16-million-in-series-b-funding-continues-building-fastest-training-data-platform-for-computer-vision-1031757346"
+  - title: "US restricts certain foreign entities from investing in chips, AI, and quantum computing"
+    excerpt: "US President Biden has signed an executive order blocking some foreign entities from investing in critical US organizations. The order covers investors from \"a country of special concern that has a demonstrated or declared strategic goal of acquiring a type of critical technology or critical infrastructure that would affect United States leadership in areas related to national security."
+    publishedDateTime: 2022-09-23T09:07:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/us-restricts-certain-foreign-entities-from-investing-in-chips-ai-quantum-computing/?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 45
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Joe_Biden.a2758abe.fill-1200x630.jpg"
+        width: 682
+        height: 359
+        isCached: true
 
 secured: "5XXOVXsMwsgAxNl6WTBFlJKtSplyrtwkVY++xAznQO35j6NdiNAxtKeeav6YcUlomIOa+4k1yedNPJVb47Z+f3K5ui9IdjvqdmpNIo5HSgDZVlfmfiLJ7k1RT6SNgJpyDMNCXWbgKkbjXvBCyh1GLjFyoIgmbUUudmTO+k1BnDPaQtIXVhy70GzsPt3DRjwFvAjzR7Qo5dKITExGcLs2keWMUej6UbyRGRytmtecJ5nSsKlXERavsv6Az73Zfo2G15a2gCvGkdsHP8HQ2e/vodYRVYhTgTiqyEjXUlY0Q3iruucre1ROrhw0mLDzSh6WyJ/OncIk8wJkzC8vvTNuZmsdimarAOJ4vkpmLltQSDI=;UMZDbwXOO/l9JYxUoZVsRg=="
 ---

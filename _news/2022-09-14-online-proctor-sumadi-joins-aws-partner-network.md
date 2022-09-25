@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Online Proctor Sumadi Joins AWS Partner Network"
-excerpt: "Sumadi’s status as an AWS Partner strengthens the business’ ability to deploy large-scale, simultaneous proctoring of online tests and assessments for clients around the world, including universities,"
-publishedDateTime: 2022-09-13T20:16:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/4bd9f0ea4a14e9b8784948706e74fa52"
-webUrl: "https://apnews.com/press-release/pr-newswire/4bd9f0ea4a14e9b8784948706e74fa52"
+excerpt: "Sumadi's status as an AWS Partner strengthens the business' ability to deploy large-scale, simultaneous proctoring of online tests and assessments for clients around the world, including universities,"
+publishedDateTime: 2022-09-13T20:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/online-proctor-sumadi-joins-aws-partner-network-1031741167"
+webUrl: "https://markets.businessinsider.com/news/stocks/online-proctor-sumadi-joins-aws-partner-network-1031741167"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "kisdkCuLJfPlwQvJG+E/pe64na8ND/jBx3WiDNGdf8bIA6UXIKVI4cQmjdkz9pSd2uJGu2OZmPkS59lAYbp+byT+YWz7hqL+vI/3BKl14ZYgMHGLPYXh7kFZ4dv2AmCfi1fIWCUcVqToM2ARfKuRyRA0cTsyTf0jEcS/AjmAOtkME0AewzLNQBy17azisFqKwSBcBXlTnCaeRazxKpmPEcOyZn22yl4UGqByebXS5wgXWJjop+lH4d+vbzsi4D0SXqV1rxauSwcA3YvcdicYlPDU1Ln9Xmr/+QhjTOczLKvpCGXTaS/SjOh0jcA66GfeYq75tX/VqA848TlIfKyQ9QrAuUemIuh1l0SYgi8zlPE=;FDvCt1p6ehW16YnneTkM7Q=="
+secured: "OjoQ7EeCgUhqXi9A4/+Xbg5vkGuVpjodsnNDuHFuRH8RaqoX3U5AMRyOQbaLbazsZZFUtjmmAdA+UPG47VU2+eDixOVdtUMuPwN1UQLOUj2WsZNhpldsD6BqdGLpQly/MFOXPABqkaxhO1u9crG2GaIlZI1se6MSNExl4RJIlIpw8ku9vYI2CGoBARaRE/Jgjl1enVb2Pm1c1tCJ6ueC1dtjM8CN3Uus6Pc3dMG75bsoy20iN6J4GSVphB3QdWkAnUl6LxP5MlkwhOeit3Lo61HWh0aySZe3tjRJLIPddO2Rxpp0nvFgPoCVeYhjf9o0My9LO8A9bwLUflAOV0Recpn/HoKDFDNzrgqciAFAa1Q=;uH/DvpkaxBOJ2Dl6zhGcVQ=="
 ---
 

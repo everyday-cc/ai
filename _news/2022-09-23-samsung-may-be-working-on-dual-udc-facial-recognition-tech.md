@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidheadlines.com/2022/09/samsung-dual-udc-facial-rec
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/09/samsung-dual-udc-facial-recognition-tech.html?amp"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
       - url: "https://fdn.gsmarena.com/imgroot/news/22/09/galaxy-flip-one-ui-411/-1220x526/gsmarena_000.jpg"
         width: 1220
         height: 526
+        isCached: true
+  - title: "Samsung phones may come with dual under-display cameras for facial recognition in the future: How it could work"
+    excerpt: "South Korean tech giant Samsung is likely working on a camera system for facial recognition that involves two under-display cameras. According to GSMArena, it is described in a patent application Samsung filed with the KIPRIS (Korea Intellectual Property Rights Information Service) back in March 2021."
+    publishedDateTime: 2022-09-25T10:13:00Z
+    webUrl: "https://www.digit.in/news/mobile-phones/samsung-phones-may-come-with-dual-under-display-cameras-for-facial-recognition-in-the-future-65387.html"
+    ampWebUrl: "https://www.digit.in/article/amp/mobile-phones/65387/samsung-phones-may-come-with-dual-under-display-cameras-for-facial-recognition-in-the-future"
+    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/mobile-phones/65387/samsung-phones-may-come-with-dual-under-display-cameras-for-facial-recognition-in-the-future"
+    type: article
+    provider:
+      name: Digit
+      domain: digit.in
+    quality: 39
+    images:
+      - url: "https://static.digit.in/default/5697cd5bbb007ad3e8e3d4cad60209ea2fe90c50.jpeg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Samsung Working On Dual Under-Display Camera Tech For Facial Recognition"
     excerpt: "South Korean tech giant Samsung is likely working on a camera system for facial recognition that involves two under-display"

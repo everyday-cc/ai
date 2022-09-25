@@ -27,45 +27,6 @@ images:
     height: 300
     isCached: true
 
-related:
-  - title: "Leopard Imaging Launches LI-XAVIER-BOX-GMSL2 Powered by NVIDIA Jetson AGX Xavier Edge AI Platform for Use in Automation"
-    excerpt: "Leopard Imaging Inc. (Leopard Imaging), a global leader in intelligent embedded camera design and manufacturing, today introduced its LI-XAVIER-BOX-GMSL2 powered by the NVIDIA® Jetson AGX Xavier™ edge AI platform."
-    publishedDateTime: 2022-09-20T17:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/leopard-imaging-launches-li-xavier-box-gmsl2-powered-by-nvidia-jetson-agx-xavier-edge-ai-platform-for-use-in-automation-1031754554"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
-    images:
-      - url: "https://mma.prnewswire.com/media/1902465/Updated_NVIDIA_Jetson_AGX_PR_Picture_06.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "NVIDIA Jetson Orin Nano Sets New Standard for Entry-Level Edge AI and Robotics With 80x Performance Leap"
-    excerpt: "NVIDIA today expanded the NVIDIA® Jetson™ lineup with the launch of new Jetson Orin Nano™ system-on-modules that deliver up to 80x the performance over the prior generation, setting a new standard for entry-level edge AI and robotics."
-    publishedDateTime: 2022-09-20T17:44:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/20/9677357.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 36
-  - title: "Aetina Announces Upcoming Edge AI Computers Powered by New NVIDIA Jetson Orin Nano for Use in Computer Vision Applications"
-    excerpt: "Aetina today introduced its upcoming NVIDIA® Jetson-based edge AI computers powered by Jetson Orin™ Nano system-on-modules (SOM) that have set a new baseline for entry-level edge AI and robotics, as announced during NVIDIA GTC."
-    publishedDateTime: 2022-09-20T18:22:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-aetina-announces-upcoming-edge-ai-computers-powered-new-/2022/09/20/9677437.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 28
-    images:
-      - url: "https://mma.prnewswire.com/media/1899916/Aetina_Announces_Upcoming_Edge_AI_Computers_Powered_New_NVIDIA_Jetson.jpg"
-        width: 400
-        height: 209
-        isCached: true
-
 secured: "bGwsV+PrIbd7SnEQulqOxKkq1bMeAm6JLItjI4SPgydhsndAp3zGn3EXJI9sDsxPmkG1SWyb51Aq2DugSRAVNMQfTCL2lnnpu4VLCWnouC7mAqjufPXbr9G2nOnGhKrT5WNka8SYO7XXo0N7aaeqc63iidRDrjIrHFHKmIJJWo4yZydoVGEtt49XKt4PBShdoplYia+omIjsygPOZiewo0xVemx5zAgW6A0AGWaaqY4r5l2UK3WKwkpFf48m4YJ/h5DvrYPLhSQA9nv+l2Ht3yrRPV7hWxcLXkhB8hOW12gNh5+TzNJzQcr9r7Jv6pawd6k+gxMD/AnivRWTA08PHifhWge/DZZMjqAjzPqa5yoktcyJnvHiY3JGBlEIcbwsMU/ENGb7x4s9IEYsMye+tT8YiIzuF7WWOWeyRzAg5nmWco7Tmj79vwRmdC7C9ql68Gzp3fQRq+9bFX5j1UoHqwPQqW8viRU1FA7hX/xImo2vPaYoKNAxsRayVGh/EzfgnRXAkInSfUChVEMbMLOzkA==;AD8ulmRcnueRjpU3jmycJw=="
 ---
 

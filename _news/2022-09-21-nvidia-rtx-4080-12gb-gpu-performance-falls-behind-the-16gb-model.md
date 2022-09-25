@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia debuts new high-end RTX 4090 GPU after previous generation gobbled up by crypto miners"
-    excerpt: "which should allow the new GPUs to perform both AI-powered graphics operations and pure neural network stuff (like running Stable Diffusion) faster and better. The GPU has graduated from being a tool for keeping your games running at high framerates to a ..."
-    publishedDateTime: 2022-09-20T17:48:00Z
-    webUrl: "https://techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/"
-    ampWebUrl: "https://techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 78
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/09/nvidia-ceo-jensen-huang-with-geforce-rtx-4090.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Nvidia CEO proclaims 'Moore's law is dead' over RTX 40-series GPU pricing"
     excerpt: "After the recent reveal of Nvidia's 40-series graphics cards (opens in new tab), you're probably one of many scrunching your nose up over the pricing. Well, the company's CEO, Jensen Huang has some words of wisdom to share with you and perhaps ease your wallet into opening just that little bit wider."
     publishedDateTime: 2022-09-23T15:23:00Z
@@ -48,52 +32,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/p8q3ue5UA9LEtBVyNxgyWn-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "ZOTAC GAMING Announces the GeForce RTX 40 Series PowerED BY the next generation GPU ARCHITECTURE"
-    excerpt: "ZOTAC Technology Limited, a global manufacturer of innovation, ushers in a new era of PC gaming with the unveiling of its next-generation ZOTAC GAMING graphics card line-up built on the breakthrough NVIDIA Ada Lovelace architecture and the 3rd generation of RTX."
-    publishedDateTime: 2022-09-20T18:12:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/20/9677412.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/1899548/NVIDIA_RTX_40_Series___Web_Banners_Airo_1200_675.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Nvidia RTX 6000 ‘Ada Lovelace’ GPU launches"
-    excerpt: "Nvidia RTX 6000 'Ada Lovelace' workstation GPU promises to boost performance by changing the way viewports and scenes are rendered."
-    publishedDateTime: 2022-09-21T12:47:00Z
-    webUrl: "https://aecmag.com/workstations/nvidia-rtx-6000-ada-lovelace-workstation-gpu-launches/"
-    type: article
-    provider:
-      name: AEC Magazine
-      domain: aecmag.com
-    quality: 19
-  - title: "NVIDIA RTX 6000; Ada Lovelace RTX GPU Arrives for Designers and Creators"
-    excerpt: "NVIDIA today announced the NVIDIA RTX 6000 workstation GPU, based on its new NVIDIA Ada Lovelace architecture. With the new NVIDIA RTX 6000 Ada Generation GPU delivering real-time rendering, graphics"
-    publishedDateTime: 2022-09-20T18:33:00Z
-    webUrl: "https://www.guru3d.com/news-story/nvidia-rtx-6000-ada-lovelace-rtx-gpu-arrives-for-designers-and-creators.html"
-    type: article
-    provider:
-      name: Guru3D.com
-      domain: guru3d.com
-    quality: 18
-  - title: "PNY GeForce RTX® 4090, RTX® 4080 16GB, and RTX® 4080 12GB; PNY Introduces Next Evolution NVIDIA GeForce RTX 40 Series GPU's"
-    excerpt: "PNY announced today the expansion of its NVIDIA GeForce RTX® XLR8 Gaming family of GPUs with the addition of the new VERTO™ GeForce RTX 4090, GeForce RTX 4080 16GB and GeForce RTX 4080 12GB. Powered by the new ultra-efficient NVIDIA Ada Lovelace architecture,"
-    publishedDateTime: 2022-09-20T17:37:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/20/9677392.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
-    images:
-      - url: "https://mma.prnewswire.com/media/1902492/Social_Media_GeForce_RTX_40.jpg"
-        width: 400
-        height: 225
         isCached: true
 
 secured: "sLBEEIPoskYq3HhyuF7yjD/4HWsBrI6q5uPirIHoDOdhikaN+6+ApKX9LmowkGWA14UmqCLmflK3KN3PleYNpiLCFm4skHAde/kHVVxU/kAHG9WTu8toQszQ4w+tUlcl/jDqaRHpSxZAKcIjScexC7Y6E5yv+effVt78E3NqYVdSR8zcJwsJarMQBn6oUgatDQU4yRBVKpcJRdKwPt26NVjDaMdX2UYx+PsRznUcnGqALqANNYB9f6Kekf4vCFoSciJpqlJCN7Lz3MF2St9JKhrPwUZq9Hh+J5QNhe29MpU36aAh9S7EwxyOL6s4ZeJwaxHKuPBssT6W/raj0b4GeFeZ3kEfVu+5Shtj5dnMEO9T7NBB42kqVQ4+TitPqPbLKXPJ7B7xNW1qXt10Hh2a3ougs2s8ysF7PVi3pQkJZVKbyyaqU2G7m4wOeaJH5y0aBB/xPNcZUo72pJmNHsrOacvCQpRYu+nwJRpXIALenXRnI141CLf7giPiwFDurb8/BvsL6lpfOJ97vbE02hcrww==;jvQMnr4WBTXCpxO3NxoxBw=="

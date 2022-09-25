@@ -3,14 +3,11 @@ category: news
 title: "Dogs and Humans Interpret What They See Differently"
 excerpt: "Naturalistic video clips from a dog's point of view were shown to dogs undergoing fMRI brain scans. Artificial neural network programming was used to analyze how the brains of humans and dogs process visual inputs."
 publishedDateTime: 2022-09-20T14:11:00Z
-originalUrl: "https://www.psychologytoday.com/za/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently"
-webUrl: "https://www.psychologytoday.com/za/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently"
-ampWebUrl: "https://www.psychologytoday.com/za/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently"
+webUrl: "https://www.psychologytoday.com/intl/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently?amp"
 type: article
-quality: 44
-heat: 44
-published: false
 
 provider:
   name: Psychology Today
@@ -26,6 +23,6 @@ images:
     height: 800
     isCached: true
 
-secured: "2knTPxlyriVRjTMKjPU3uA9sdHpGW2jBb6h3NLpY6Wd3Bedd4wj+swAIV45WfCOBhb45sQdF1V7sgeKlMvXVktljKgGczKsTK6XX18suTLErSaPZPsNFfFwCivxb2TlQpp/9rJYWOMvxpMpKo2fZD3DHlnYjqexLKq1NZjrjB2qTJydxh2tFS0tsTeV309ZaceTOZrVd5Z1Qh9uZNzODeSg/hB7aycGqnyjAIr+F3M5mT1x5KRnFXjlNR0lLGDyef1oLJv+0y2mbRD3gjqiTvYhuZWefdfwuYHQahOIq/4omGX7+/9iQ6V167jjrfwbKhmGNPV0TnuoML1ZgWCjqDLqsuKUfg2S9J67T76sSjA9hWCkPoB6TKd9QlW27SUr6GNXyUOymCuLSrlaxLSie+CCzYNSLXZ0i4qDIUjE36Nu0xA6ziLGR71VQHGmNsGCfSX9k2zMFbObiMiN9LcKh4uIwRuBBubrzmtNCMuZJTP1u+34gp5NWr0nLW/4Htxnfh0EbZ+9I9l991MybSXu+Xg==;OmyzhB8sWwBB9TqaRE2RGw=="
+secured: "K4WJ97zJuxkHMnoG8xstqxOiaFdS0FTplk9dp8jQhkqd2fGo4nDQu0VLcAGd9e/n4Gs0EFKALaMRIfi7V4bQ0R1tuKmfZAZYL0vm4jnp7Vg9hNVuub19Y2XejGhK5yWrg0SEcN4/3ElvpAYM6waKFTkcmDjHqFSS8ct1hkk3fZDcRuL/BqcO3czn2oNxkny9S/uFWya3oHB/PgsfRDIfqhOJCDU/gOWKjF892zOSxhJyfUjL6yLQYowMRaLul9LqIJZUgsSl5w8Tgv8RJDwM0b86SbOnO7QzyQ4efmBnvkbhFWbfJMZlE9dziMQ1Y4Mpl5ijxQR/TrjR1n8b0z5epmRWQKVCLFA67OcL0YZoNRc=;xWDqXOH+vyklW7nINig3zw=="
 ---
 

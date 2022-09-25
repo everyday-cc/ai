@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-research-on-present-state-and-future-growth-prospects-of-key-players-forecast-by-2022-to-2027-2022-09-23"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: MarketWatch
@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automotive Artificial Intelligence Market Report 2022: Increasing Demand for Premium Vehicles Presents Opportunities"
+    excerpt: "The global automotive artificial intelligence market size is projected to grow from USD 2.3 Billion in 2022 to USD 7.0 Billion by 2027, it is expected to grow at a CAGR of 24.1% from 2022 to 2027. The key factors contributing to the growth of the automotive artificial intelligence market include the growing adoption of ADAS technology by OEMs and the increasing use of AI to make buying decisions."
+    publishedDateTime: 2022-09-23T21:52:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-automotive-artificial-intelligence-market-report-2022-increasing-demand-/2022/09/23/9680092.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "2Mt6y0U6z0WLzWFChxPC9ItrmVzcWnS8FZxOBikRfwRt5yeBKg+PtF8vd34vLtXpFMAMcCHgJMkNDXVESEvnXxfFIGWQ7PvI13cq8vAjFVQlkdqIUd+1U6uL8oZ5bVeI1FElkz1QFWxqvUXvkaoJaO/1NMkN7EVg+F1wmpQuNVxuAN3T8WNdph8kUIdd0joY2t5xer5WBdAS8bsVHJNpAXemfkTHW/4MVzuf3p2okb84JQb4UGi5zs86ybh0qJt1OSHts5ML3RTwNnygNoxeBJQxE3l6Bp+uopbvRlB3LG9mOKQXL2oMT9rU0UV+gc5jLpdeie7ps5lDeMorgR6r093UNlOW0IMl1ARtJOIAsWE=;UonVImQnmzBZ0BuOB7/c6w=="
 ---

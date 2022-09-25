@@ -1,67 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence Robots Market Size To Record 21.3% CAGR Through 2028"
-excerpt: "Market Study Report presents latest report on global  Artificial Intelligence (AI) Robots Market,  which evaluates the growth tr"
-publishedDateTime: 2022-09-20T09:36:00Z
+excerpt: "Market Study Report presents latest report on global Artificial Intelligence (AI) Robots Market, which evaluates the growth trends of the industry through historical study and estimates future ..."
+publishedDateTime: 2022-09-20T09:05:00Z
 originalUrl: "https://menafn.com/1104892877/Artificial-Intelligence-Robots-Market-Size-To-Record-213-CAGR-Through-2028"
 webUrl: "https://menafn.com/1104892877/Artificial-Intelligence-Robots-Market-Size-To-Record-213-CAGR-Through-2028"
 type: article
-quality: 51
-heat: 81
-published: true
 
 provider:
   name: Mena FN
   domain: menafn.com
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?176684"
-    width: 375
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?849806"
+    width: 436
     height: 250
     isCached: true
 
-related:
-  - title: "Mobile Robotics Market Size to Surpass USD 25.3 Billion at a 21.40% CAGR by 2030 - Report by Market Research Future (MRFR)"
-    excerpt: "According to a comprehensive research report by Market Research Future (MRFR), \"Mobile Robotics Market Research Report, by Component, Navigation Type, Application,"
-    publishedDateTime: 2022-09-22T15:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28969105/mobile-robotics-market-size-to-surpass-usd-25-3-billion-at-a-21-40-cagr-by-2030-report-by-market-r"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28969105"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28969105"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 48
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg"
-        width: 700
-        height: 300
-        isCached: true
-  - title: "Machine Vision Market Size To Reach USD 11380 Million By 2028 At A CAGR of 4.0% - Valuates Reports"
-    excerpt: "Major Factors Driving The Growth Of The Machine Vision Market are. The Machine Vision market is projected to be driven by the rising need for automation and quality inspection acr"
-    publishedDateTime: 2022-09-23T16:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/n28988369/machine-vision-market-size-to-reach-usd-11380-million-by-2028-at-a-cagr-of-4-0-valuates-reports"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28988369"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28988369"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 10
-  - title: "Machine Vision Market Size To Reach USD 11380 Million By 2028 At A CAGR of 4.0% - Valuates Reports"
-    excerpt: "The global Machine Vision market size is projected to reach USD 11380 million by 2028, from USD 8374.8 million in 2021, at a CAGR of 4.0% during 2022-2028. Major Factors Driving T"
-    publishedDateTime: 2022-09-23T18:06:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/23/9680013.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
-secured: "1zAgFt9M3XjxBV3nCkKePrg/ZBYsKctlbXtXnpN7Ybnn6ZZV8wW8aYeCT7LlXTA5DRAy4zpmKx/bAmLPVTsMhUQaox1/WgmvDz+NFU148PHNCklUvJfoQUYuZdFLWDqkMH/YWwANrBIh4B5EgdQBoBx8STIJi6BJpKJKsw+oldozRO4bykz3RPGW4NeHZKXJCb3bWHTgBsd04xuvgEvJY4zQHtOQDCOowdkAQsq3reRnTBqRGhRLRRK7heMuRejJzXZ/+dA3Lrv7pJtYY5hvRPhjI7GImnwDOc5kLvFPl1NIzPKCM3b44Ig7vHPfDk1853UIyqU0jBtSEmW7yExIxelDKuT1dVaTAo84ZumMctk=;C76fM8525+b5gCAHQNpj1w=="
+secured: "qkEg+NLAq5/Sg0HRXhaNhr9ZIbdVgJlW6DHmBZrtDZgvhVOnpQhIAyFuF/XQhE2lxetdI1dB3r2wEXVZSXAnKk5JnGFJkNK1MDgymH6WRC/W06X5Kj84OD6Bi1jGmI0vb616NRjQjKVMqQcLdshymNR9Co+ZdULN7tt+8K3PSdmuNgJZ28y8mf29viBfl677cm9IZZJKyMdWq1efepn1lBoWZQYdvTAcp37rB1sMPuXKmPLbrzbLeFgn42N+T1K2THUu6c3m/qoTD3Pnac0Jt6jniW1yECIcyI7ADHTPuDRIouJWcF5GlCbKkBPNKuFqiPiwoY9uLYYECts6zULsWarqWmZey8fHmU6r2tewRTo=;pfgVfj9sSDDdRKyWd37z/Q=="
 ---
 
