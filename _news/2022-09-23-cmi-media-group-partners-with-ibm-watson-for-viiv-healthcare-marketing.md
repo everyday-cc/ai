@@ -7,8 +7,8 @@ originalUrl: "https://www.mmm-online.com/home/channel/cmi-media-group-partners-w
 webUrl: "https://www.mmm-online.com/home/channel/cmi-media-group-partners-with-ibm-watson-for-viiv-healthcare-marketing/"
 type: article
 quality: 53
-heat: -1
-published: false
+heat: 73
+published: true
 
 provider:
   name: MM&M
@@ -21,20 +21,6 @@ topics:
   - AI in Marketing
 
 related:
-  - title: "Lasso and CMI Media Group Announce First-To-Market Partnership with IBM Watson"
-    excerpt: "Lasso and CMI Media Group Announce First-To-Market Partnership with IBM Watson Sep 21, 2022 (PRNewswire via COMTEX) -- PR Newswire AUSTIN, Texas, Sept."
-    publishedDateTime: 2022-09-21T12:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/lasso-and-cmi-media-group-announce-first-to-market-partnership-with-ibm-watson-2022-09-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Lasso, CMI Media run successful pilot with IMB Watson ad accelerator"
     excerpt: "IBM Watson's Advertising Accelerator uses artificial intelligence to predict and create advertising. CMI Media Group ran a pilot campaign with IBM Watson from the fourth quarter of 2021 to the first quarter of 2022,"
     publishedDateTime: 2022-09-23T17:46:00Z

@@ -2,14 +2,14 @@
 category: news
 title: "Meta Transitions PyTorch to the Linux Foundation, Further Accelerating AI/ML Open Source Collaboration"
 excerpt: "The Linux Foundation, a global nonprofit organization enabling innovation through open source, today announced PyTorch is moving to the Linux Foundation from Meta where it will live under the newly-formed PyTorch Foundation."
-publishedDateTime: 2022-09-12T14:15:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-philanthropy-bfe43353bdc4e67ca0619d66400a2691"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-philanthropy-bfe43353bdc4e67ca0619d66400a2691"
+publishedDateTime: 2022-09-12T15:30:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/09/12/9671322.htm"
+webUrl: "https://it.tmcnet.com/news/2022/09/12/9671322.htm"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -17,12 +17,6 @@ topics:
   - Machine Learning
   - Facebook AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "IdAQmw/9diDR9S9X9EKpTNEaFkqpZ1b+1Tzk77PyvhWBeJbh9a21fF/QwLiyULsc4zdJN8ujnvLnoKvoGao+8FC2YRpfkZb6uk8GAlC+LnJFszoCtUlviBD5L+0QrD7LkDd7zNLv0hSEV5tS3O9hc0f8EXN//tBJOoMnLq1aK5r6Phy8hLHzEkilHrOnXrygZcscU4NB5XS6bYan8B3mjVmXJzcY9TGACRgyY4bYksqVwXxbjyLeTXFr9qgKhQUmHzowUDbMVtKTF4US7sXKyxU0ibjnxdhKBgFIR99tF6GE/xw5mmUEh/H4beMUt5zFNj7E+A7radT5biu6v6n5GKsPIiydFDkvNX5VrqR3amg=;FGpc1Ngm/PiMDklthsJKLQ=="
+secured: "iLc06zhsWVgmUnBTLbowFwBUmPb76+K1QDhbrmB5ysOFCAAKv6PxR9aos0C2czf5Rf/HUqTHa1qsW1n9BTlPLV1ls2Fz/994wQdt+iOmQPSsUpX5XyqEyoBsM1o9mXYxqMrZghnJo2XF3hLZxbOaU/Xqp+VvGhDK6kosVwJxtzTDwgWhEExepdpGo5RzgJbXsePoNrXHSH1uHl5ANnSQRBtsTXowRzUwvE7qSFM5J0TFgbj5hxHRcJh7d1EIe2IoWqh0GoeATcrBJIOPUmH3bMAEtaXHbA6gZXtf7tks5ZNRZbJnb5PGLq3dIiazF0hkOzup+61trl2kA4m6rfvPxJJhrcxNaAkGpI3lxuCoCAi4KD5eglb8bLd5lf9U460vJMYW9wEwd/nrgCUnYjIN1kD+fqu8iWMZVDUgqSQZE2jnc/2CyC0904I2t7Zhktq8RnlNrNamcqRenWMRWWHW5HVHZpWAWe3eQbIoKj2kVCYoLR7GI3cxLMExLRIuVt4sMeO/ZcvRIP7YSnlpZjuL2Q==;mc6BnGMJD4s4Bc6Kvg/4OQ=="
 ---
 

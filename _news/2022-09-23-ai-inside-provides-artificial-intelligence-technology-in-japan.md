@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/272790048/ai-inside-provides-a
 webUrl: "https://www.bignewsnetwork.com/news/272790048/ai-inside-provides-artificial-intelligence-technology-in-japan"
 type: article
 quality: 52
-heat: 72
+heat: 73
 published: true
 
 provider:

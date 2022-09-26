@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/3-artificial-intelligence-stocks-you
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade?amp"
 type: article
 quality: 66
-heat: 86
+heat: 87
 published: true
 
 provider:

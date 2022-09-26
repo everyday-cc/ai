@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/working-with-ai-review-learning-to-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/working-with-ai-review-learning-to-love-the-machine-11664135970"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

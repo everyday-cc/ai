@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ai-day-brings-optimus-rob
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/"
 type: article
 quality: 118
-heat: 168
+heat: 148
 published: true
 
 provider:
@@ -49,22 +49,6 @@ related:
         width: 1200
         height: 791
         isCached: true
-  - title: "What can you expect on Tesla AI Day?"
-    excerpt: "Tesla AI Day is Tesla's annual event in which the company reveals all of its upcoming projects and showcases its latest technology. The event will take place on September 30 and is expected to be live-streamed on both the Tesla website and on YouTube."
-    publishedDateTime: 2022-09-21T13:01:00Z
-    webUrl: "https://www.zdnet.com/article/what-to-expect-on-tesla-ai-day/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/what-to-expect-on-tesla-ai-day/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-to-expect-on-tesla-ai-day/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/bb82a1b68d61171587c5d41c6fe6f42425701dc2/2022/08/15/7fd1c0ef-9d2c-4ec0-8ba7-a72afdbd0d35/tesla-humanoid.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Tesla sends out invites for AI Day 2, teases Full Self-Driving, Tesla Bot, Dojo, and more"
     excerpt: "Tesla started sending out invites for AI Day 2022. The automaker is teasing more information on Full Self-Driving, Tesla Bot, Dojo, and more."
     publishedDateTime: 2022-09-23T10:14:00Z
@@ -96,20 +80,6 @@ related:
       - url: "https://stockhead.com.au/wp-content/uploads/2022/09/GettyImages-526637039.jpg"
         width: 2121
         height: 1193
-        isCached: true
-  - title: "Tesla set to unveil humanoid robot Optimus"
-    excerpt: "Tesla is preparing to unveil an AI-powered humanoid robot that it hopes ... the Autobots in the Transformers series. Production could start next year, Mr Musk said. Tesla faces scepticism that ..."
-    publishedDateTime: 2022-09-21T13:03:00Z
-    webUrl: "https://www.independent.co.uk/tech/tesla-robot-optimus-ai-bot-b2171845.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 56
-    images:
-      - url: "https://static.independent.co.uk/2022/06/03/09/tesla%20robot%20optimus%20AI.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 900
         isCached: true
 
 secured: "CgGQFZULmJmYexaGcNzMWKCuEnwfASxCg2gchvS/Htis5V6l9dLiLefV5Nl9JXVVISIeP5oygBJMtcWFB9HNg1VltelxOoTxzH773F0wa2ZUWit93whzah4+80UajMQeNbYbL70y0kEtabvVu27k+dY9YVBNa5svB/ObQgB2XAFVAydnEPqnQDMuQzqpC7DoQu+GDtjy25mM7cWa8HHoTIonY26bwxSzpBPJ8hrkti34Qj4UfAIBU0gxsp0QQvgWN+rc/q8Cp8JlmonC4oENeDveFrgnKpXQpy0R9jKQl7Vi/PJtzS9UC7nfG7+wXTCVL2PdTurZWncDM/CFiZOi9vFPJDTU1UfU7MibxrVQctE5AuTvo8waV2J1mT7Ma0dRK0J3IkduvW6PSrv0Ae58GPZk5enUO9SF+RP6/uL8d4+tvMQJgcz9WO8o+wKaJr30wtYsDbAtaa5V73DiOp5PBOTG9iDRe4GHGY+EsMq4sfyZ2Ly67BYm3cKH1UwYTEkutae3A9E6GC9gvbA/IXVd0g==;zr0ZvKY9MPtQDd3WJfKB6w=="

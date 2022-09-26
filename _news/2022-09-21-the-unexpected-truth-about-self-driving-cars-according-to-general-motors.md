@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/1018226/the-unexpected-truth-about-self-
 webUrl: "https://www.slashgear.com/1018226/the-unexpected-truth-about-self-driving-cars-according-to-general-motors/"
 type: article
 quality: 53
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       - url: "https://img2.chinadaily.com.cn/images/202209/24/632e3ac7a310fd2beca35450.jpeg"
         width: 658
         height: 438
+        isCached: true
+  - title: "Is this self-driving VW concept the future of motoring?"
+    excerpt: "Looks fancy! But wait, haven’t we heard all of this before? We’ve been 10 years away from advanced self-driving technology for what feels like decades. Is Volkswagen to be believed this time? The company's new GEN.TRAVEL concept isn’t even gunning to ..."
+    publishedDateTime: 2022-09-26T03:59:00Z
+    webUrl: "https://www.topgear.com/car-news/concept/self-driving-vw-concept-future-motoring"
+    type: article
+    provider:
+      name: Top Gear
+      domain: topgear.com
+    quality: 24
+    images:
+      - url: "https://www.topgear.com/sites/default/files/images/news-article/2022/09/6ec42b6009e5dbf423a76e550bd54110/Volkswagen_Gen_concept_dynamic_side.jpg?w=1280&h=720"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Video game actors are worried about AI tech taking over their jobs"
     excerpt: "Self-service checkouts, lights-out manufacturing, self-driving cars, and wars raged by robotic drones – automation is coming for everyone’s jobs eventually, and our capitalist systems aren’t equipped to carry us through it."

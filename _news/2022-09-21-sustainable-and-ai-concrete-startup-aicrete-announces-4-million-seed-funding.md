@@ -6,9 +6,9 @@ publishedDateTime: 2022-09-21T13:52:00Z
 originalUrl: "https://www.marketwatch.com/press-release/sustainable-and-ai-concrete-startup-aicrete-announces-4-million-seed-funding-2022-09-21"
 webUrl: "https://www.marketwatch.com/press-release/sustainable-and-ai-concrete-startup-aicrete-announces-4-million-seed-funding-2022-09-21"
 type: article
-quality: 44
-heat: 44
-published: false
+quality: 66
+heat: 76
+published: true
 
 provider:
   name: MarketWatch
@@ -20,6 +20,13 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Richmond startup AICrete is using a 'recipe-as-a-service' model to make concrete more sustainable"

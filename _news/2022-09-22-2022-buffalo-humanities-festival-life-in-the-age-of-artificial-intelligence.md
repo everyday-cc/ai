@@ -9,7 +9,7 @@ ampWebUrl: "https://www.buffalorising.com/2022/09/2022-buffalo-humanities-festiv
 cdnAmpWebUrl: "https://www-buffalorising-com.cdn.ampproject.org/c/s/www.buffalorising.com/2022/09/2022-buffalo-humanities-festival-life-in-the-age-of-artificial-intelligence/amp/"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 555
     isCached: true
-
-related:
-  - title: "UB Humanities Festival looks at ‘Life in the Age of Artificial Intelligence’"
-    excerpt: "The annual festival presented by the UB Humanities Institute will look at both the benefits and detrimental effects of AI."
-    publishedDateTime: 2022-09-21T12:13:00Z
-    webUrl: "https://www.buffalo.edu/ubnow/campus.host.html/content/shared/university/news/ub-reporter-articles/stories/2022/09/humanities-festival.detail.html"
-    type: article
-    provider:
-      name: Medicine Buffalo
-      domain: buffalo.edu
-    quality: 34
-    images:
-      - url: "https://www.buffalo.edu/content/shared/university/news/ub-reporter-articles/stories/2022/09/humanities-festival/_jcr_content/par/image.img.512.auto.jpg/1663694346044.jpg"
-        width: 512
-        height: 240
-        isCached: true
 
 secured: "Eji73hN0ms1+51VojNVM0QMFTmqiYBNRLqH0D+mDrYXHi1cMeyqIp4uF3ez1HiusOq1VKr+ViPe51Ouo15aysEa7mPChvuaWdiKlA+xfZ7WoeQwBWGi0T6FPSSrSxM3H0uIdyvVVY+MH7Oobe1SNgi61LKDY39nGR/nfpGIyD8GQ7IpkQBWaB9UWhenwg9z8563BEdiw6CAZ9LjxjgQ8pPdbTKi+S9HrKjWODyrQ+aTEcSy7Y/ellrASs/KxuTScapcng58+bcccR29u0E07LkhZP7WEuUrudgUeaETzgk0IU7yFgTSqtXu9JoM6/Zr2qslh6aXxnUql1vwOVBsZhesoLs9OmnajGsIMXtSoZuf3wBQIDKpq1/OVlg77ESawf3F7w7/PvAY9PUQgof0s1WHp58V7hwLBqqI3k5HYQdvyMMBwjH7D1a2YB+Yx0NJPrKDS1tIpHfKtl+kCWrtRJzKjaBxl1Yfy6/fTmnEdOBN+nqc/ZyPt+iFIfi3l24UUF7kFr92mGCWg9fKa2Rs2FQ==;QmA1vzRmFbTQcoaOuGQiqw=="
 ---

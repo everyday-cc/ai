@@ -64,6 +64,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "James Earl Jones Reportedly Signed Over Rights of Darth Vader's Voice to AI Company"
+    excerpt: "James Earl Jones has reportedly stepped back from voicing Darth Vader after over 40 years. According to a story from Vanity Fair, which focuses on the Ukrainian start-up company Respeecher, the 91-year-old “signed off” on utilizing Respeecher’s AI technology to recreate his voice as Darth Vader."
+    publishedDateTime: 2022-09-26T03:32:00Z
+    webUrl: "https://hypebeast.com/2022/9/james-earl-jones-reportedly-signs-over-rights-darth-vader-voice-ai"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 31
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F09%2Fjames-earl-jones-reportedly-signs-over-rights-darth-vader-voice-ai-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
+        isCached: true
 
 secured: "XzsAoCxmlUgXXCISKjP64QjJMohnaglfLjBKySdH1C8ZRloaT6hVa+Y6q47DxxdQ9zpfX+XmBHMbawuwKw7N0RMWyQhy1buGKym0FTTGlq8smyUSOadWVM3hLrXzmqgBCROVwpXLL3j+5uTRaAY2XRoRfaVM1p+hIRQrSB/tu9uaBB3uWJFKICvGMjvVV1xJYjwiVAAcNzKTMyTVmshVWtoCa4SnwymFlgC4RHm+NDJCV2q9rylL4uGSxRY2MqvZn2n68mpCetw8rj6nsGHIF5579a2kxgjywF8LH1hl+rCWgZKWssUn2/yjfgvvzmnnzcdqCwRccHnr28pwiF4Lr9eGTY18V2egwcozZWNFMtFQWQyOhEicQmJHEA9PVg4IBa0R6RZzcxn1aXOWMn0GZ7tMisobtI+dyGiZFG+CJPyRVxKNjtarQTp6P2cYia5PBgb/2ArtHtEHH89Iy/FMVQhKOeeJP2W5cCukQIh+9R3foL9QaVwGnNFr0d+sS9BIZy4y9QgqTX5WPE1rAqZHpw==;qy8lN1/kUuvZbxrUUc7MiQ=="
 ---

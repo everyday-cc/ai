@@ -42,6 +42,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Recognition Market Research Report by Developments and Opportunities Forecast to 2028"
+    excerpt: "To generalize, voice recognition comprises software programs or hardware devices that can decode the human voice. This technology has turned largely pervasive and accessible in everyday life, in homes,"
+    publishedDateTime: 2022-09-23T08:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-research-report-by-developments-and-opportunities-forecast-to-2028-2022-09-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Mobile Speech Recognition Software Market For the period 2022 To 2028, this research report shows the current state and prospects and Growth."
+    excerpt: "The \" Mobile Speech Recognition Software market \" is important to the world economy. The Mobile Speech Recognition Software market is one of the fastest-growing sectors in Industrial Manufacturing. With regards to scope,"
+    publishedDateTime: 2022-09-22T18:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-for-the-period-2022-to-2028-this-research-report-shows-the-current-state-and-prospects-and-growth-2022-09-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Ai In Agriculture Market is projected to reach USD 6.5 billion in 2029, registering a 23.1% CAGR | Size, Share, Report & Forecast"
     excerpt: "Ai In Agriculture Market The Ai In Agriculture Market was valued around USD 1.2 billion in 2021, and is expected"
     publishedDateTime: 2022-09-23T11:01:00Z
@@ -60,15 +88,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 11
-  - title: "Artificial Intelligence in Gaming Market Size | SWOT Analysis, Growth Factors, Top Key Players, Latest Trends, Industry Share and Forecast to 2028"
-    excerpt: "Global Artificial Intelligence in Gaming Market The global Artificial Intelligence in Gaming market size is projected to reach USD million by 2028, from USD million in 2021, at a CAGR of % during 2022-2028."
-    publishedDateTime: 2022-09-21T11:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-gaming-market-size-swot-analysis-growth-factors-top-key-players-latest-trends-industry-share-and-forecast-to-2028-2022-09-21"
+  - title: "Automotive Artificial Intelligence Market Report 2022: Increasing Demand for Premium Vehicles Presents Opportunities"
+    excerpt: "The global automotive artificial intelligence market size is projected to grow from USD 2.3 Billion in 2022 to USD 7.0 Billion by 2027, it is expected to grow at a CAGR of 24.1% from 2022 to 2027. The key factors contributing to the growth of the automotive artificial intelligence market include the growing adoption of ADAS technology by OEMs and the increasing use of AI to make buying decisions."
+    publishedDateTime: 2022-09-23T21:52:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-automotive-artificial-intelligence-market-report-2022-increasing-demand-/2022/09/23/9680092.htm"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 9
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "J9WY4C+KTrr7WMMWqsroJblNMpydEXHYTcE0cQz47MzxOnEShE5RtwJ8l2uNdbjVfYdATBN5YOWNtaQs7KLOgeXZ+0xxGvj2I3Vd1sj6wmL8e9trDuuYLysEk2jJRy1lSEUfIS6myFMQtUW+g6w0iHClrWaTl9KbXy31/3yAsvAqkcQwT3Bam1NRTVzm3ACiF8ptv/GKmVpXt7iyEJQx304ZRSaVHsque+eEMaf+nLGQYYbnurg7B+l3GDo8gMKzNcE/2DNsIDNhq6e0KC5gj497ztdJwp7DfkXqInEPl1XV2A5qr4lN7u4yuyMXYCy65cbhN2oR5KKn0jw1pIEI3zbWY3IzU+d0VHY35jthM68=;+9SluEyFyb3B5BcVEKzz9g=="
 ---

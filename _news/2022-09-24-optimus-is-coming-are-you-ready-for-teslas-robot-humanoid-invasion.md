@@ -48,22 +48,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "What can you expect on Tesla AI Day?"
-    excerpt: "Tesla AI Day is Tesla's annual event in which the company reveals all of its upcoming projects and showcases its latest technology. The event will take place on September 30 and is expected to be live-streamed on both the Tesla website and on YouTube."
-    publishedDateTime: 2022-09-21T13:01:00Z
-    webUrl: "https://www.zdnet.com/article/what-to-expect-on-tesla-ai-day/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/what-to-expect-on-tesla-ai-day/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-to-expect-on-tesla-ai-day/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/bb82a1b68d61171587c5d41c6fe6f42425701dc2/2022/08/15/7fd1c0ef-9d2c-4ec0-8ba7-a72afdbd0d35/tesla-humanoid.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Tesla sends out invites for AI Day 2, teases Full Self-Driving, Tesla Bot, Dojo, and more"
     excerpt: "Tesla started sending out invites for AI Day 2022. The automaker is teasing more information on Full Self-Driving, Tesla Bot, Dojo, and more."
     publishedDateTime: 2022-09-23T10:14:00Z
@@ -95,20 +79,6 @@ related:
       - url: "https://stockhead.com.au/wp-content/uploads/2022/09/GettyImages-526637039.jpg"
         width: 2121
         height: 1193
-        isCached: true
-  - title: "Tesla set to unveil humanoid robot Optimus"
-    excerpt: "Tesla is preparing to unveil an AI-powered humanoid robot that it hopes ... the Autobots in the Transformers series. Production could start next year, Mr Musk said. Tesla faces scepticism that ..."
-    publishedDateTime: 2022-09-21T13:03:00Z
-    webUrl: "https://www.independent.co.uk/tech/tesla-robot-optimus-ai-bot-b2171845.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 56
-    images:
-      - url: "https://static.independent.co.uk/2022/06/03/09/tesla%20robot%20optimus%20AI.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 900
         isCached: true
 
 secured: "t4dTV1p16iR2U4ZQXJ7sP8gt+00Nh091+ABXNJU7dPpjLx9LKgPJpX6X3UNGk2ystccEd+DufHHp3xKVIEtoYImn9IcBpH1SdGTBpkOvBE3Ztp2kVnfLf7S5T9XDH4nzZr3U6Prs6onY5CSnXmmT2r7rTNk7Av+kfwhb0I1EIIZAYAc5+rrtI8e2JQTVZPXm9pva/jFL4/X8881AkWhd+DibScTKZFcUBKAC//JU0axtSTFjt6goJpzkgG+G2nCdakLzNp9OV8/JLpptjOkSdUFoj1QZhgY+Q0bAFJ6suXXJ587ktaMy2lIiRgf1kz8XUX5Fhh0H0Jywk1ZpjCgkf3lc5TA02ezEBLVlfiCWExuIdvWyeDkfZjd7L100wIppggebuqQx87dMlUGGB63oyTPNu48NqBpCJpCM067sNCGSv3L7wjjs9r19va2G7QX8/AFQ+MKRosJGezGJsohDE7qmXvhzEwUlusb6i0QQp+WU5UcDUIZLBPY7OjyQZWSWtlUdHzd4vihYMLQObt+sqA==;foVMUfK0bi9KBbfNFxFdTg=="

@@ -57,6 +57,20 @@ related:
         width: 658
         height: 438
         isCached: true
+  - title: "Is this self-driving VW concept the future of motoring?"
+    excerpt: "Looks fancy! But wait, haven’t we heard all of this before? We’ve been 10 years away from advanced self-driving technology for what feels like decades. Is Volkswagen to be believed this time? The company's new GEN.TRAVEL concept isn’t even gunning to ..."
+    publishedDateTime: 2022-09-26T03:59:00Z
+    webUrl: "https://www.topgear.com/car-news/concept/self-driving-vw-concept-future-motoring"
+    type: article
+    provider:
+      name: Top Gear
+      domain: topgear.com
+    quality: 24
+    images:
+      - url: "https://www.topgear.com/sites/default/files/images/news-article/2022/09/6ec42b6009e5dbf423a76e550bd54110/Volkswagen_Gen_concept_dynamic_side.jpg?w=1280&h=720"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "OKW9nQyHKSf+naBJnVd2F7XsqZ7oBrODWLVa3zjCmRQuqrWJT2EHqShs0eWy+wMuiPmn5YnTrO59D6592OjC+YrGyRHn+4QCRi/goGhMawNGzGSTDitUll3inNbUx+q9EyXhMNi3h/CEKQtNIf5rBFU0itQ42OC8jfPj/RRK0lf4+uwLAedvfGNt7HS5xWCaHC8xCzLB6Jw2K9OwiUuLbf7c91X3BbMypKITjKIo71TWHkTi0sMU8KFVdZJqpCI1xx/9TL9K2iIoAeIkGwe4bNssUqn7iD4bDRT2G5Qt7/gGZUOaixJyZ0UBWTeNsku0Bv8tiqwJilGguyCx8bioi7mYbRrB/qtnFUS49/3a3wTD6yr86yBqEg7ttJLowKjwwbobLA53Ink7g8ObZCE2xeAjZXluB+v+AwFr2uYEufmnDDle9xeBNbpmPsUsU10adZ5KJbRXWYxtiZsc5g1zSGSJm1ZRp6QxU9Dl64sV7mqr6f8knbRQb/wdhfTeyf8TwBAHaUIkt5wTW4RiG5BSLg==;FI7cdXO9IX1zRXOQ+RRXzQ=="
 ---

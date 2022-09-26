@@ -1,10 +1,10 @@
 ---
 category: news
 title: "VW's latest concept is a self-driving travel pod that can replace short flights"
-excerpt: "We wouldn't count on all of them reaching the self-driving machines VW expects to make from 2025 onward, but don't be surprised if future robotaxis seem very familiar."
+excerpt: "Many automakers dream of self-driving cars that are effectively lounges on wheels, but VW is taking things one step further. The brand has unveiled a Gen.Travel \"design study\" EV that it hopes could replace short flights."
 publishedDateTime: 2022-09-23T17:06:00Z
-originalUrl: "https://www.engadget.com/vw-gen-travel-self-driving-pod-162904370.html"
-webUrl: "https://www.engadget.com/vw-gen-travel-self-driving-pod-162904370.html"
+originalUrl: "https://www.engadget.com/vw-gen-travel-self-driving-pod-162904370.html?src=rss"
+webUrl: "https://www.engadget.com/vw-gen-travel-self-driving-pod-162904370.html?src=rss"
 type: article
 quality: 50
 heat: 60
@@ -44,6 +44,6 @@ related:
         height: 1322
         isCached: true
 
-secured: "4yjCh+1F19XFEujM9sXQ2/1vy/s9my8ut2ySfk8roEckYtVqdgKo0Tb0B3OjQhJk9lBqqXP/jzLr0bRRPE9k6xYvnTP9ipWnZflYFkfZa2qdPP/5myLycFL1wn2BkNxg4pqa2gcCr7Mms0rpS5juNuhIoXRd7B2rZ8vr55W21gO6M8WYZCZevlP3x1RkrfoAqptkLQ7bl5+VLjUq316O0Ao2phoIepjM3SPaa0xiRqA1iZpBNGGZMblSVuCr+4FFg2srSxORXWxGNP07oybB4Aeh9RrIbOq99hAGwP0Jtjy1OD1Y+3a35bRm1FvKbt3Ur6pGQqOc+jIiCeLaAwfj13BOhyQhinCnGZ7JqV6GKoc=;EztnkO+ptYwnMKtmAUL6hg=="
+secured: "GQlMSZfPGzzBkmNX60pr5+KnhsQ/0f0gXEc04eon1IgXFH5ES2xtAHMVwVdYk3TEddPBcsJgFIIBNicE71UU6eEGx93/loIu9NsN43mIh0hSltFayGjk2Ojps5vps4rPfnAKlrlyL89heRy6P/zmty+YIuoUmVQs+cOa+/GoTuzgI6614Lk+/i9QkF+71n3yNNVDLWjsQHxTe7Ul5xk7j76az2eCoXDaztw07P4SNPILneuy0D1u7srhEcvbVx5Ampg89992bJnmtmd4wN61qp4MuBRoeEs6ao+yPVkYpY3S6V1b9A/XIqc/m1/sxxl9e3ELhN2kg934xqaLlw0SEd3AsiQ/HGl6VyxD11rFatM=;Eq8Fw2h8WQ82LNYHbrDyLw=="
 ---
 

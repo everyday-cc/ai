@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-25T14:00:00Z
 originalUrl: "https://www.androidauthority.com/smartphone-camera-future-interview-3183730/"
 webUrl: "https://www.androidauthority.com/smartphone-camera-future-interview-3183730/"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.androidauthority.com/wp-content/uploads/2019/10/Red-Magic-3S-in-hand-and-using-the-camera-app-16x9.jpg"

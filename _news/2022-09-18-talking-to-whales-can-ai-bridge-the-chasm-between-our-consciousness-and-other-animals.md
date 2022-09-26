@@ -3,8 +3,8 @@ category: news
 title: "Talking to whales: can AI bridge the chasm between our consciousness and other animals?"
 excerpt: "Speaking to animals has long been a fantasy. But now a dizzyingly ambitious project is harnessing all the power of modern science in an attempt to understand what whales say – and then hold conversations with them."
 publishedDateTime: 2022-09-18T08:00:00Z
-originalUrl: "https://www.theguardian.com/environment/2022/sep/18/talking-to-whales-with-artificial-enterprise-it-may-soon-be-possible"
-webUrl: "https://www.theguardian.com/environment/2022/sep/18/talking-to-whales-with-artificial-enterprise-it-may-soon-be-possible"
+originalUrl: "https://www.theguardian.com/environment/2022/sep/18/talking-to-whales-with-artificial-enterprise-it-may-soon-be-possible?amp;amp;amp"
+webUrl: "https://www.theguardian.com/environment/2022/sep/18/talking-to-whales-with-artificial-enterprise-it-may-soon-be-possible?amp;amp;amp"
 ampWebUrl: "https://amp.theguardian.com/environment/2022/sep/18/talking-to-whales-with-artificial-enterprise-it-may-soon-be-possible"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2022/sep/18/talking-to-whales-with-artificial-enterprise-it-may-soon-be-possible"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 372
     isCached: true
 
-secured: "cmvX1j73aBKwKpkhFvON+AyiWKmy2636Mp8H/UHcOUCl3vHAuEUUK+7eERDyb0V86saSoIX3XtH2H41FlHKXNWlvzBjTJBo+GNsCPGDDhKibp//JN5HfA6mXoSwlyaDG94shoeWkm0F0xKIjAoeJogRGd9gNoZ7Gp2aQEnKYdB7OA+ycUxhZFZcw2tG2+W0unT1BQHu4ZJjLno8sDu6Z9bT4B4bAjn0E9WCTeolajys7JLnuvzAJgbMfwJjb9yDesZ7r6DoQsvBLOLC1C+q6p/C3jNs9XtLj2OrhDG+edc5nn+C94dGzs0Xkpo9G1qM8s3hE4SaaqKVJ9tyPpDxpj8Vkx70rR3SfyfnLA320SE0=;DASHNBvV3fEqhCGczUCL2w=="
+secured: "Q/838wXJLA+AWVpoGI3wuiTswfPvQOViNryyccHGGfRTaEShELnVuVi0DaR43UZEcvnHwUieObshjJnV6ldqhCiM3/ZWPZ30EaCkxFGjFvCVgtByIy6KPXN9zimw7NvEV7b2Cp0Su9AKLbZxHVENm3b6PCuy2MXiyg3KyWgMnlr/KLYj2OebSslyYXYirwZlcPAq9pkzI767f+65oXf1Qd7rF9k8/QRmK9K7nYrjFh31KtDm62G22PiOr9DtFTXsyrM3qXJHbB5Sl8cTbrqyLTo12PPON0EsCBX2lsnT1kijW1PVLgcL6x0AjuPYgaWpqAU92PORNrlbxp5yljhKwf4wVNzt/GGK3qQLr4167f4=;STN3ox++oPq3aQO+DHjX5A=="
 ---
 

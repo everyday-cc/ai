@@ -85,15 +85,6 @@ related:
       name: enterprisetalk
       domain: enterprisetalk.com
     quality: 19
-  - title: "Nvidia RTX 6000 ‘Ada Lovelace’ GPU launches"
-    excerpt: "Nvidia RTX 6000 'Ada Lovelace' workstation GPU promises to boost performance by changing the way viewports and scenes are rendered."
-    publishedDateTime: 2022-09-21T12:47:00Z
-    webUrl: "https://aecmag.com/workstations/nvidia-rtx-6000-ada-lovelace-workstation-gpu-launches/"
-    type: article
-    provider:
-      name: AEC Magazine
-      domain: aecmag.com
-    quality: 19
 
 secured: "pU7qXUn6uPDiJYTg/VkO7NQ7EhGO84Bl+eW2V94awKpJaNLkr09Z1Q0PS/AXxdooj8vIyp7Idi/FpJuBaYSdG9Js/mSDtlADswXJaEc2uRTdmMZ8G0fcRNyJSHQKny6BXMSCI6WvJ9Y/4BlJ5GLdMln61/FpfbLNOuJr9ugwW1shY4yFJI0i0VV+tW2Qvr7qZRvFqUIQpnoojZKvrpwvQ6u/NArQuamOMw/7gKtfCpIg08782T25CSNkGClKWrqfPssClxjaQuZbzMc/5KUj8e25Tsn8k47e4fxPSQYYXd7NCB+yKH7sGva5q0CCi0A7AqayQ7bQ7oV5ZaPxRiiLusquegMWFGBHU/prj+pNboQtkIsXooDp9l1DrhY8o/Xgh+cnKD2a4wiQZdycNbryQ3ykz9u9OgUPOuJB+XtPLP6PP0cMKlSLgPHXx7rkFREguZBwtbukpkv3ctjwLx0jtONQ/9YBKVuduxvjV0l65HmRdpDw0C9X1rcBZiURGWFRL8FliSxLq/M69ImURX/S4w==;EPcEdZdQo6qtib/oBBQhYA=="
 ---

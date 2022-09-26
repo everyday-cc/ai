@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/creative-ai-startups-should-focus-deepeni
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/creative-ai-startups-should-focus-deepening-not-replacing-human-creativity/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

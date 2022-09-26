@@ -24,17 +24,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "What Will Be the Future of Fintech?"
-    excerpt: "The Fintech industry has gained popularity throughout the past decade, accelerating the growth of many technological solutions, services, and applications. It’s clear that Fintech has already made a huge impact on many businesses by changing the way companies operate."
-    publishedDateTime: 2022-09-21T11:57:00Z
-    webUrl: "https://techbullion.com/what-will-be-the-future-of-fintech-2/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 4
-
 secured: "eIYxpOH3mwV3+JSjzFCfhEJLcOTy+38dJKTLvsqB2yx8Svl6X3ZSX1gXFfLyA6vGcBRYujSUfwTinWbHR3gGRX0x0Fc9SwJdleWiDYhYjFBnNudw5yGiQ9RAxLyuSbi2hE2lAUmDdV9IWQbVRS0+XLTe/iBXrS+RH+GqGx1X11b3qT9PDgGnmU2ynPoVpCdbHmYBCPcNUqWulTMxywo2cD9DEAqRlJ+MZsOnkeiN+uILEaF0xZNFE3e8Rqx1GcTqnGcWi1MvbNBQv05YR47KzZWl1XLRh3SP3AMncGXEPl9ZdPu8ZBxiJeo/AnxtlhmAal3A48tjqpGXmYJTsxRuCwprc5HvC8z9fHRgpyUSTd0=;KUQ5o7NJ/8sxqnJeJw9sXw=="
 ---
 

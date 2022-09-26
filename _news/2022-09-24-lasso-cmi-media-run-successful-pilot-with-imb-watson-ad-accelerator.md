@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Lasso and CMI Media Group Announce First-To-Market Partnership with IBM Watson"
-    excerpt: "Lasso and CMI Media Group Announce First-To-Market Partnership with IBM Watson Sep 21, 2022 (PRNewswire via COMTEX) -- PR Newswire AUSTIN, Texas, Sept."
-    publishedDateTime: 2022-09-21T12:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/lasso-and-cmi-media-group-announce-first-to-market-partnership-with-ibm-watson-2022-09-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "CMI Media Group partners with IBM Watson for ViiV Healthcare marketing"
     excerpt: "CMI used IBM Watson’s program alongside Lasso, an omnichannel platform, to achieve real-world measurement across programmatic channels for its campai"
     publishedDateTime: 2022-09-22T18:42:00Z
