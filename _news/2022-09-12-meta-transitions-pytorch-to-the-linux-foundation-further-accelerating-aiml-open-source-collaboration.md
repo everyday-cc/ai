@@ -17,12 +17,6 @@ topics:
   - Machine Learning
   - Facebook AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "utdiMgNELaVNv/6EsNFxMCiuIQ7Sf8wBqoWEZM2Bo0tRkI4nAUwup3tZr2MJYWfraTrulZUXAFcpvG91v3aEFI6P8eNdB9S3XXE7s9OpgJ0MouBL1GBc7Ivgga5xxDXz0d/ZAvmVtzCcoukPvmiPl7q3XEe4Dype2vMCQlZfP99tC6+spsNnHI44C4rP67ARMvogH/gQGIv22/qbvRqsDq7sE5q44CR1RW4a+zlUqK8ecEXxtBHdzhm4zoDCoduqf9fYE++8s9AzeFU7AVJ6dAtlvYifPj5mFTsdcH7ndgTNiK106uM0RdjJbAJG4DSW389HZhQnVHFh5WsOwMFv61G4w+TO7Wr1AdfJKXcrVKM=;44zn+ksmWQ0QIOjbIPNEXg=="
+secured: "v+7OV3ZksCrqoz7cft+3D2ZBL/t2erC78XSNJpALQ7UCiXaK58i97O/1xIEXb4GnmZWf30v0eyFQKcCv+S3x+QiCOx4Bg1g9xQ491nypcrwPr5zqXsnYSczQxKN/AHGQ6rD2UtWaTS9Yj6P/MQSAvoDMGh78rubKjLUXhQ/4q08SsWWXXe1Gcu8FEHCS1sl9Mtx0BJ4VjqaYt2nEN0fcjFlPV9abmjNX2LZYh9ZTjCqe0Ref1AR3SpM4OZ+k1VYL9yCozt+Ft6C4bJUyXUQVo78T9VW+vU0ici3d+SuipY2XmzKjD44AgZDNLtchq6JP0vp1I9711A6rDCww5y/szmxBL4YdVPtDNE+woFb1ZLg=;stpGu3C67Kf/WRGQrc5qzA=="
 ---
 

@@ -1,28 +1,20 @@
 ---
 category: news
 title: "Salesforce deepens partnership with AWS"
-excerpt: "Salesforce has expanded its partnership with Amazon Web Services (AWS) to enable customers to build custom artificial intelligence (AI) models using Amazon SageMaker, AWS’s machine learning (ML ..."
-publishedDateTime: 2022-09-21T18:55:00Z
-originalUrl: "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110"
-webUrl: "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110"
-ampWebUrl: "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110?amp=1"
-cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110?amp=1"
+excerpt: "Salesforce has expanded its partnership with Amazon Web Services (AWS) to enable customers to build custom artificial intelligence (AI) models using Amazon SageMaker, AWS’s machine learning (ML) modeling service,"
+publishedDateTime: 2022-09-21T18:38:00Z
+originalUrl: "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955"
+webUrl: "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955"
 type: article
 
 provider:
-  name: IT World Canada
-  domain: itworldcanada.com
+  name: IT Business
+  domain: itbusiness.ca
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://i.itworldcanada.com/wp-content/uploads/2022/09/GettyImages-1040557296-scaled.jpg"
-    width: 2560
-    height: 1161
-    isCached: true
-
-secured: "aFtCpRt39EQDerJXBsNdoJ+j/TpjiPS0aOvvxHDD54UVfVmnrFjmSPcn8KyRyevm8Ozzq24VRfOCwuLwMyxGVtQk3E1eM7NFJvg4Tw8qq3MjKDyhrjRH+9w7+swAxV20Hbz8y9MijH5MTd54v4oJwVoxApfeVONoa5ksqJRY91a2/oK2orkoEh6MwOhGTvbKtddGdHvfHKks2uj0naBz5vFjeChhYh8QhS2omVJGP0gQU1rAU566oDc3Qc38nMxqKB6xJN2kbjVbGdgDrnZFvqlSJmzFn/zQ9x+s+sJuFK0UO1UJuYkNju+X+2ZG/Hlx3LUN3Uk7Tnn9CTxYl3YbAPCcZ0m2wx8qN0VKTlf6zx8=;yWAHG7LWVfumRquKhmFqBg=="
+secured: "TSI/vLymlHdHQXArftlZudW8lKghn5kOFnEafundfdZs7vX3ssJhjgF8SDbY9yYkD4kSOu11H5mlmOU/6yfFfKc9ZDiCCPSqXQiHpY89Izp9n+LZXRFdjyXrf7YgGrAnxZ1Qr4ynjZValKp9zQ6l8Pli/M+O+1ALHjDy1heqzTOaI2KdfDRjBGkiEhfaeevg30VAwz4HWLCmp1hobq5s+HSjA32ohD0yDNi5H9hgizwMHOMXsTFbhn85YRvjqlsgNQL3txgRwXmsipxz7xUjJXjhT1rA2OLuJtQnVsUU0oPW7j27yc6y41tmXTmSd98ZK/2AGb/ZfnapOjkBjPfbWn4pfYLUeCGbRbZHK9tyOcjDrhc8CCFdImKmYGPGqf9QGSuJHtx4wGIW1cnJBQMEAPMin9DJe4znqF7gxZlPSffUeqzzIMqTz7THKXYatRhtSS74XnefAW/YuiX6irlJcAraNwogi0B1UDp+ChsB3nXplXhPQAkYObjEWoBv6G9DgXjm9QGIDcmLFsw9V7Nqtw==;xJPM2zw/JhR890gy4vGhhQ=="
 ---
 

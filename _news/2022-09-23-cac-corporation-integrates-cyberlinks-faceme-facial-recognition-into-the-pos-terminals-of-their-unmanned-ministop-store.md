@@ -5,12 +5,7 @@ excerpt: "To create a facial recognition payment system that requires nothing mo
 publishedDateTime: 2022-09-23T13:14:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/09/b28982557/cac-corporation-integrates-cyberlinks-faceme-facial-recognition-into-the-pos-terminals-of-their-un"
 webUrl: "https://www.benzinga.com/pressreleases/22/09/b28982557/cac-corporation-integrates-cyberlinks-faceme-facial-recognition-into-the-pos-terminals-of-their-un"
-ampWebUrl: "https://www.benzinga.com/amp/content/28982557"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28982557"
 type: article
-quality: 14
-heat: 14
-published: false
 
 provider:
   name: Benzinga.com
@@ -20,6 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "h61hrIU2wYrpfDVGwJBOMPrhtr/Ha08MHP5HRX7trO44tJV/uXF55yajfcPB9Y5mJsrBizzCZyhHQ+5N4KoL+mdLOsvWGsbtP65x0c0G7RPWE5ycyRiMjs8N01w8+iyRY3i4tRjRTiYV0nU5eNqpOTt0NpXnkSjfqbVFdbHOETWFgigaGcVnX1rZaBDf5gtXnETLjGGSXDRt7yLs2JEWlETr/ka1TeP5eyJP1SrZhcO0BaLsVeI5yJbp4qU9KsSRTzB/XFXt9cFpztqD76ii3VYVvKDTIYG2HgGV5zNbsIRwyV6qnV8zks62vZSCE32uhjUoiqTD5jiRNFVleL25VhGo/YAn2DGYOVwKpV554xY=;RPWvADgcRCfwxus1V8s0CQ=="
+secured: "Y0IUIkQo0LEZeq05B7z3cB2P/ScdyjUmmiu4nTeSQc58nCa/+Zm5cOfh5gNO53vwMrMkeUglnFuclUtK1m9GYOBZ6rKIZJJtOzI8KEGVNRzrUkz/fTuU4ROvmcYsawMKkpWej3Uc8Ci95GBVGJj5lzApo79C2pWhlUZHahcgaiLhbr4kHTizKbUcbpGTXitRdYML9gsrtx3CjA6EXac9Qz9PUwcW+MdaDGYQ3a5nvv2ZrJ7iWypx0H5nuFGNVB5G6RsZEwvg5DYa5Jq0weUoBOvgg1zQ+ds4VkaQVskzwi0d3E5rQhWY//XrRCet4TZT1NMTyfiCbPelAWB8YFkB1yMawn8cKWR7IDIYKN7lhyc=;HcElFDHsv0WlFND7ZLnsfg=="
 ---
 

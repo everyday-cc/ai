@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1904816/Purina__Petivity_Smart_Litterbox_System.jpg"
@@ -27,6 +28,6 @@ images:
     height: 400
     isCached: true
 
-secured: "JHUgTsqqsPxzt8lSQ/uWfK+O2STldfzjiJlUWzONb6+Kjt8S5B/QbuAFnlt6nHo+swar3O+fPSO7fD2GqeJ4AdQ6Ez++REBrJh76iwoefcu4ZLgxQJRZwEeQDUyfEYoonLyROb/+KTsPpqriwBeDiFkbO2gZ2ebJ39F4MhStuoVhPGM+HYRyEY8EU1zYjaWXg+67taZ/sVWJkxzljEzfA8g0Cq2LBHvbnqMrrZh7coh4oNCHdpWYL7wfts7JIkqyD+HPREuVfU7grF5aD57kkmd5YxpFBTblJWzTm492LCOH9rGQTncHML5NgrIu/GjivUFMKiePjr6CHKZfefC8wA0g3twJL6XZ44tytT0sRAg=;dRym+6/Bb2aMSfcPMC90Bg=="
+secured: "Ew8kAQRJB/8hTSL3Hj2OuQowkHJITc2BNkMwmBv1CIL5f6IC9Jz0+PcwHWsmAiQB9d2CHkyknzyUeC2VMPC2/bPkXif1+oxIXAuJnrd4kS707sygnwmx08LWmfFscZzxbLNy84JnXXymva5WI5/MGFoVdYw+7u7u1NWKASUl6k/fVC9ybUypm05id14M1KlS/P3b9YpRUn/ObZqOCqjolWY1udnbgLEIY281ggBjEk0vQL5a4y0oKl2J6BJeMFeCn52PNwsF7aGxN4WSMBImIETi5ob1dgAsyr4C1kIm02T0yBxzXfjPA4A4yahsXjVP3/FI4e+X5GVuUmvPeVRz1Bqu7d5caxlRzIRYGCVCS5T/J9e5Pe0ULu53b/Uzy+tdpgnB7lPJWD3OuP6oTPHQOu6zuMoSVoSM6n9VxSI0t9EyqXihv6MDkUzyx0I7xOd/EJiV/OZjXA3MtYIs3HOEWStGK0DOuHOv9bIZQNIbkQLmkW01FihIdgeSFNfSAx/bsYRrvZVeiX+YufuROxpthg==;tLC8baFFVBzrASjTb18VOA=="
 ---
 
