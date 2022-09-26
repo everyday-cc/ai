@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - IBM AI
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/ai.jpg"
@@ -44,6 +45,6 @@ related:
         height: 800
         isCached: true
 
-secured: "4Nzx7B/QTjz+nIWn6W5QJ6xVuKyLFHAbGaUH130hsbPU2OIMMj//OEHcsgjqoJhDaseAi2hMX9dAQ6GZfawlCQymzZmOVuIRZlMNcp6i1Zh+4HYaSkWvuOgrqclY8cXHx8zOfe14vB/kdpsts7zD61mFhxEN/gWNQD53FRUXdceY1rRP1z/pkmCSkbRQ5hOavmsFXXqA2qCe/EXC1nNbhGZPJOxv7Ewia9+ErerDL9I2eWc4GLw6ZILxRh/kJvmh+JUfWvNeoURengYBpoqwvLnp/IsDvokrCxtgJFvzSvBje3JkvrlWDt0BqXaPH5eTl+hafxB6EJmqYvSyThiP7dZqjwt0SYSZE93m+nn09I4=;izuisynWck2+01XmQa+iTQ=="
+secured: "Ty4cWPwISbN77RSAKotZESVYPFHIn9XcSFHnbO/HxfFvG68EtSa8Ff+gjE+HDGf+EwNEwyXX4Wnd3Ea/pS9WuPEERI5O1yeSU2JCpKDWacfxYVjoGvMQ5FoPImMhk3zMkvesKH1mPhD65hiBx3n9VZl/OWhd2anLtDlqAacpl5DP11lqMKDD8Aya9BJs+ZI/+nbN/Jc1TkfxFEoIv8W4xcnc0Su27vviaZX3aIGD78BKY7RtFqoYTP3MbjOAQ8JCP7wTUafC98+29tblB6d//uwvpcUQMua5dfbTuG/MmFDb3obGuDhus3Og5FSdc8/f8mw5OtWUm0bsefYtiukukyvVp0yVs3EOvVETdceqNnYUsPI9sfOsw8oicpZyGXLjGQvjV6ushZgDO3H+DVl7cr6GIenFXqm66WnV8iGEx2EKkUW362+iLMy09Y19tVFGeMolKK+XjG5Kbo46FumK5PIbx72LCB2zb5oCfnhSnqq/e/szXUsG3Y3kWFXwmyPpk8jOMG8t0sx96UgXMxTvbw==;zxP/Bc0vNginVjlhBFlMeg=="
 ---
 

@@ -1,28 +1,20 @@
 ---
 category: news
 title: "Salesforce deepens partnership with AWS"
-excerpt: "Salesforce has expanded its partnership with Amazon Web Services (AWS) to enable customers to build custom artificial intelligence (AI) models using Amazon SageMaker, AWS’s machine learning (ML) modeling service,"
-publishedDateTime: 2022-09-21T18:38:00Z
-originalUrl: "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955"
-webUrl: "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955"
-ampWebUrl: "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955?amp=1"
-cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955?amp=1"
+excerpt: "Salesforce has expanded its partnership with Amazon Web Services (AWS) to enable customers to build custom artificial intelligence (AI) models using Amazon SageMaker, AWS’s machine learning (ML ..."
+publishedDateTime: 2022-09-21T18:55:00Z
+originalUrl: "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110"
+webUrl: "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110"
 type: article
 
 provider:
-  name: IT Business
-  domain: itbusiness.ca
+  name: IT World Canada
+  domain: itworldcanada.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://i.itbusiness.ca/wp-content/uploads/2022/09/GettyImages-1040557296.jpg"
-    width: 2000
-    height: 907
-    isCached: true
-
-secured: "5kz17idIr+y99b3tFDBdc7U+W089WlPLwD4UogCh3PJgXHfGmpHWS602I7btgBxFH2fdvSOQcVkkLMoQ6VpsC2mIVPP6be+/uAYVnVBSi8sLiMzz8F149u27C1/ECpch8SHrXstWcpyEvXWLImR3bQdJKjKGxCMcRLMxy+RtrvR3JZUu6cWPECRVabVngukV6J/nfVvwUL4h1l7+p06Hxd7QsjaKY3OZnDOfF52hfeDfb/CAR45Ckz0rxrvJsUJLlNXv7LzTZC7PCh+9TpM81TNiL/Gp3DEyNX/eIbtcvav3tBUvCLNJr0g/ixU2KBJNqslHU+tyV72P9xrQ2mjAkeGxeLpmtrPOiSWRGJPFWXE=;u1qnKxea0g3Iply+7LZIKg=="
+secured: "uoGOhlmeWd5R9kJQhGX0FJYfutgF9hsdJxB43JN74iMdDlLhbZS2MrHjEUYNOgW8/Spyi82JFkr3Eab1rc20H3C3r/A0YZJM77j6pkFya0osvCL8NAxnoMxGkRrN7nkR2yRa45k9GyBmmjgCZU4eK88aI1BEbOv4WV6+MNkTejvaQHPXui/VuMDM3Bsi3zeYaXdnYNiBYUUP7OCbT1lmCJ7BHfVpL8cHEKBuR4KB3Lok1qi9o6Nt7cHiCzqEh6asDfyaJ0A2MH8kgM9NfH7GuIHki4bptsDcdhjYUKyLQCMSdG4bdlmlfBC6fYihmlI5F/qiDBxu12EMzOoaDnsplfwXeZTrTCDHAcuBlzTcSC0=;TwrA2p5XRgo1BE2/qnn3Ig=="
 ---
 

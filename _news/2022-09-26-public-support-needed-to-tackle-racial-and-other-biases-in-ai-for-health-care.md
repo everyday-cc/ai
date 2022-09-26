@@ -53,6 +53,6 @@ related:
       domain: medgadget.com
     quality: 36
 
-secured: "9OWTtwQ/iPJ/ngR+M4nKAgVr08+L2Dh7iPdbk+eh12/XXMdgp4mTFgmHgl8gtpZv31Dfteune4fA9pkooZlVq0+pN9aKauKYnqlNcSLnWB1DT3TnKC9cVyiY48m+tfyb8NW35HAdk1sLhkIFiyboO2+yJl3KOG29SlN4sObQfIXzjTIstBwYbeVQzG+GUfDZ9/Dgeo+CdAb2cb5RB0c41bwEOoSpp3XeBCHN9sCZJ9j+PhBSPHR+MKSQPMcUDtLTiT3UYsNw9zLg/JpDc33GnUjEqZ+oM0lFdyqAkj1ToM3sAT2maOyOhI6Ds85Abw3zISGqSTQ6ek2h/tdzKpUMHxlffgUAhAozAr8uDyjKBuE=;EDlPdOG08UI+yHDk/nGXwA=="
+secured: "na3oQ1az4sW+C7bTsjUbYsgOWZn6qyFYLxwLEJWK02miuECKcWpymT6wG1jI4GYSqjoD1fzrf6WmnCjx+3Oo/WgrZhq/Z5ppHYaTtk6TqAlBUmW/MuyhTnCWAjzjN48BC9qrjmAjeMa7e1P4YuEmNojGvy/vDg5XawdPOkclnXlXggA75uhka7WcnMnpWZusDa8rY++B125QaTyDtBl4rBBzNHXpaE1wCdxJN8j6m0Xg7yBxLqPCBNMnGwzm5RWDVSi0/Gf0vAIs0b6IpHg0JYk27AraXAatbX4zv96tXyzxDiFmPTICO3V/3So/TmiCwIoOnfxeXrkqXD23bvfwNjG1OiUwacxmNqIWx+wwMx/K4gB+fnKd/obsBXadK/9M01VwD+K80ZG6ElzRZSxPlnn+bkp/coZFqUoUL4FX97nMnfyq9k8+X55LeB8Si4JbhdCBtqyy2Jiih/wTs1UbOhp5nVmg4PckZk/k5jd8FSOw66RVsYkk8SXGL3mUfti2AC4sJZE/LxbmA+I7hBWR3w==;Y1LPtO6gqOtp0U3FMTFdVg=="
 ---
 

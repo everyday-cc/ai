@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Sopra Steria and Algoan Strengthen Their Partnership to Accelerate Financial Inclusion"
-excerpt: "Sopra Steria, via Sopra Steria Ventures, has invested in Algoan, the leading French fintech in API-based credit scoring. Sopra Banking Software (SBS), a key technology partner to more than 1,500 finan"
+excerpt: "Sopra Steria, via Sopra Steria Ventures, has invested in Algoan, the leading French fintech in API-based credit scoring. Sopra Banking Software (SBS), a key technology partner to more than 1,500 financial institutions worldwide,"
 publishedDateTime: 2022-09-21T19:39:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/b28955676/sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/b28955676/sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion"
+originalUrl: "https://www.joplinglobe.com/region/national_business/sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion/article_ca936379-bf3b-5884-a8d3-a28733d33f12.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion/article_ca936379-bf3b-5884-a8d3-a28733d33f12.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "zU7ICSyrrGjlyxvIS81f3LfXUePZYcSIpKkl6ABK6WLpcfELKwMyeCx1xUJogUgk3MKSSkdqEg1FzvmrPv6oFnmtBdtkJ/TiCiMMtw2uUit38YQkpXoiPW/oZj8lt+5ozkOTJDJBzhETBbxsqge/12JbL8GU32R2jvM1uzdnpZhFqDqZ/dVgBsj1cwlBXnPuVm463+ClxdC7aSTmJ7BzHKJCHA5F0speWR+OcbBerFyrEYvc88NwTTaOwa853dnBF1z3QW8KEAAuYUICsnEOl9cvPEdc0hkb0VUcPbQx2z4w5oXpUsfXsrhBj7gnliiUyRwJyr2QkMkMIpf+3Lz1EzixlnUztkdC5UkvEjm8O2c=;OXQvJ86J3kbowz+C6FF/Ug=="
+secured: "5khyn8+RP2YfdmjtAqaJMbXVd0yCoMawSyqB3UiqShPxlc95sAgn5iV1DswXBC9F/h0B0NO4EwGN4p60WSkMl64TlVV/ACkxyxnJalDm+gp5G5BVzgJ5QqK0FanYuxO5xiVn12waet7FUIjCqndDZ+xVBy34vTnogAVEOjJ2gtLpLN2U4PjvRsdgW0ImxVxOAk4raMeWNhEIx0sr5DkQEHjOtaFA9+yOT5LQy+m9k64SPlU1GJ11BT6lHFdXc8etmovRuo6+Oc3iy+ahInXIMF+NoOq+FEmeBUfGU2l/EREOH25DOR3OiwKqMfrP41SAvdHMkWdm3chJ+iL5OLWTBqwYxInc1Vv80fD/1Z7JWu0=;UG5xNmIvbqvX+Ky9dMR3gA=="
 ---
 
