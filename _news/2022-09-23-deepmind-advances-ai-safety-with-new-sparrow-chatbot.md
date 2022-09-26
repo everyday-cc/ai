@@ -66,20 +66,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "Research paper from Oxford and Google DeepMind says AI will replace humans"
-    excerpt: "A recent research paper that was published by University of Oxford researchers and Google Deepmind researchers on AI."
-    publishedDateTime: 2022-09-22T01:03:00Z
-    webUrl: "https://techstory.in/research-paper-from-oxford-and-google-deepmind-says-ai-will-replace-humans/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 52
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/09/AI-Will-Eliminate-Humanity-Google-Deepmind-Paper-Says.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "The Download: YouTube’s deadly crafts, and DeepMind’s new chatbot"
     excerpt: "The YouTube baker fighting back against deadly “craft hacks” Ann Reardon is probably the last person whose content you’d expect to be banned from YouTube. A former Australian youth worker and a mother of three,"
     publishedDateTime: 2022-09-23T12:10:00Z

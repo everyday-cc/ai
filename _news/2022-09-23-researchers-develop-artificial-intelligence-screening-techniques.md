@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Scientists Develop Artificial Intelligence Screening Techniques To Quicken Drug Discovery"
+    excerpt: "Researchers have developed artificial intelligence screening techniques to speed up the process of drug discovery. Read on."
+    publishedDateTime: 2022-09-23T18:05:00Z
+    webUrl: "https://www.onlymyhealth.com/artificial-intelligence-screening-techniques-to-quicken-drug-discovery-1663955114"
+    ampWebUrl: "https://www.onlymyhealth.com/amp/artificial-intelligence-screening-techniques-to-quicken-drug-discovery-1663955114"
+    cdnAmpWebUrl: "https://www-onlymyhealth-com.cdn.ampproject.org/c/s/www.onlymyhealth.com/amp/artificial-intelligence-screening-techniques-to-quicken-drug-discovery-1663955114"
+    type: article
+    provider:
+      name: Onlymyhealth
+      domain: onlymyhealth.com
+    quality: 50
+    images:
+      - url: "https://images.onlymyhealth.com//imported/images/2022/September/23_Sep_2022/maindrugsstudy.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI-based drug screening process could speed up the development of life-saving medicines"
     excerpt: "Developing life-saving medicines can take billions of dollars and decades of time, but University of Central Florida researchers are aiming to speed up this process with a new artificial intelligence-based drug screening process they've developed."
     publishedDateTime: 2022-09-22T23:53:00Z
@@ -54,15 +70,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Scientists Develop Artificial Intelligence Screening Techniques To Quicken Drug Discovery"
-    excerpt: "Researchers have developed artificial intelligence screening techniques to speed up the process of drug discovery. Read on."
-    publishedDateTime: 2022-09-23T18:05:00Z
-    webUrl: "https://www.onlymyhealth.com/artificial-intelligence-screening-techniques-to-quicken-drug-discovery-1663955114"
-    type: article
-    provider:
-      name: Onlymyhealth
-      domain: onlymyhealth.com
-    quality: 8
 
 secured: "AFXRTZmlAg8OXl0v0PtDoZTOpVHpZ2FJOMSZhJrwnzThtP0DUgovxy8iVIH17Iz749kSMygarBZoKSSEcaXBEwtX4/USFWqIBRsvkYqhDcXV6oG3Qi+ibgH6/LDPqbKtQKVrlD3S4q+AhaAAtOTxllBgIm7HpiBi9EqmHGp+zcHu7qeH0xDexC1WKKHx0faBTategGp+i+QrWahS/VK2Wamg5NehHe41EKtv8GkQ76FTKoxg6mpCp0LrbDxICz7iulW9olZPR8ugwO83aw2Ay5T/7glEdkvJj3Z/Mmf7qfZIQF3Kk0qvDdgiqPY/6m0CMBX0DjmkbGctJOruP+3oaSUOGPlqMzUDDeE3D1VRl+8=;bs5T+Qm/2zW7mgA7PlFdeQ=="
 ---

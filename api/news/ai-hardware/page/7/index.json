@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-07-07-how-ai-at-the-edge-is-defining-next-generation-hardware-platforms.md",
+      "title": "How AI at the Edge Is Defining Next-Generation Hardware Platforms",
+      "excerpt": "Figure 3: IoT management using edge inference. Small, Medium, and Deep Learning Models for Edge-based AI It is easy to assume the edge tier approach with simple GPU inference hardware for IoT can be scaled up for more complex hardware system such as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/how-ai-edge-defining-next-generation-hardware-platforms",
+      "originalUrl": "https://www.designnews.com/electronics-test/how-ai-edge-defining-next-generation-hardware-platforms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Cheng_AIEdge_Figure5.png",
+          "width": 1361,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-precision-accuracy-scale-and-experience-all-matter-with-ai.md",
       "title": "Precision, Accuracy, Scale – And Experience – All Matter With AI",
       "excerpt": "When it comes to building any platform, the hardware is the easiest part and, for many of us, the fun part. But more than anything else, particularly at",
@@ -1362,49 +1405,6 @@
         "AI Hardware",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-cerebras-just-built-a-big-chip-that-could-democratize-ai.md",
-      "title": "Cerebras just built a big chip that could democratize AI",
-      "excerpt": "Chip startup Cerebras has developed a foot-wide piece of silicon, compared to average chips measured in millimeters, that makes training AI cheap and easy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.protocol.com/enterprise/cerebras-ai-wafer-scale-engine",
-      "originalUrl": "https://www.protocol.com/enterprise/cerebras-ai-wafer-scale-engine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.protocol.com/media-library/less-than-p-greater-than-at-the-core-of-cerebras-pitch-is-a-chip-that-is-roughly-the-size-of-a-dinner-plate-less-than-p-greater-than.jpg?id=27946326&width=400&coordinates=0%2C135%2C0%2C136&height=711.4285714285714&quality=80",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.protocol.com/amp/cerebras-ai-wafer-scale-engine-2657541665",
-      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/cerebras-ai-wafer-scale-engine-2657541665",
-      "publishedDateTime": "2022-06-22T17:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Protocol",
-        "domain": "protocol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

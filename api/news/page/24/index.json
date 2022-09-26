@@ -2,6 +2,110 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2022-09-05-its-time-to-embrace-the-tech-that-could-confront-the-crisis-in-aging.md",
+      "title": "It’s time to embrace the tech that could confront the crisis in aging",
+      "excerpt": "For the elderly, AI can enable independence and mobility, reduce need for caregivers, and detect important changes in health and activity.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/its-time-to-embrace-the-tech-that-could-confront-the-crisis-in-aging/",
+      "originalUrl": "https://venturebeat.com/ai/its-time-to-embrace-the-tech-that-could-confront-the-crisis-in-aging/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1251551899-e1661531292108.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/its-time-to-embrace-the-tech-that-could-confront-the-crisis-in-aging/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/its-time-to-embrace-the-tech-that-could-confront-the-crisis-in-aging/amp/",
+      "publishedDateTime": "2022-09-04T20:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-05-amazon-promo-codes-september-2022.md",
+      "title": "Amazon Promo Codes September 2022",
+      "excerpt": "Receive a $100 statement credit after you spend $3,000 on your Amazon Business Card within the first 3 months of opening your account. Don't miss out on this Prime Student special and use this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/coupons/amazon.com/",
+      "originalUrl": "https://www.forbes.com/coupons/amazon.com/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbes.com/coupons/vfiles/81499/merchant_image-merchant_open_graph.png/",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-04T18:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-05-is-big-brother-britain-about-to-become-the-worlds-ultimate-surveillance-state.md",
       "title": "Is Big Brother Britain about to become the world's ultimate surveillance state?",
       "excerpt": "Made by Dahua, a Chinese state-affiliated company, they are equipped with controversial facial recognition software — a means of monitoring and controlling populations much favoured by Beijing ...",
@@ -1092,92 +1196,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-european-robotic-arm-testing-on-the-international-space-station.md",
-      "title": "European Robotic Arm Testing On The International Space Station",
-      "excerpt": "The European Robotic Arm (ERA) successfully completed the first transfer following commands from cosmonauts inside the Space Station last week. Teams in Moscow, Russia and at ESA’s control room ...",
-      "sourceUrl": null,
-      "webUrl": "https://spaceref.com/space-stations/european-robotic-arm-testing-on-the-international-space-station/",
-      "originalUrl": "https://spaceref.com/space-stations/european-robotic-arm-testing-on-the-international-space-station/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.spaceref.com/wp-content/uploads/2022/09/03202100/eva_arm-1.jpg",
-          "width": 2047,
-          "height": 1150,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SpaceRef",
-        "domain": "spaceref.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-the-failed-monorail-idea-that-would-have-seen-driverless-cabs-carrying-passengers-around-cardiff.md",
-      "title": "The failed monorail idea that would have seen driverless cabs carrying passengers around Cardiff",
-      "excerpt": "Could you imagine a public transport system where driverless cabs would be taken you and your friends and family around Cardiff? Well, back in 2002, the capital was looking to the future in a bid ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.walesonline.co.uk/lifestyle/nostalgia/failed-monorail-idea-would-seen-24902645?int_source=nba",
-      "originalUrl": "https://www.walesonline.co.uk/lifestyle/nostalgia/failed-monorail-idea-would-seen-24902645?int_source=nba",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.walesonline.co.uk/lifestyle/nostalgia/article24902529.ece/ALTERNATES/s1200/0_JS44547328.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.walesonline.co.uk/lifestyle/nostalgia/failed-monorail-idea-would-seen-24902645.amp",
-      "cdnAmpWebUrl": "https://www-walesonline-co-uk.cdn.ampproject.org/c/s/www.walesonline.co.uk/lifestyle/nostalgia/failed-monorail-idea-would-seen-24902645.amp",
-      "publishedDateTime": "2022-09-02T15:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wales Online",
-        "domain": "walesonline.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

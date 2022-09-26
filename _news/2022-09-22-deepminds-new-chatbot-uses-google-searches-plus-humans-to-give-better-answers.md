@@ -57,20 +57,6 @@ related:
         width: 696
         height: 696
         isCached: true
-  - title: "Research paper from Oxford and Google DeepMind says AI will replace humans"
-    excerpt: "A recent research paper that was published by University of Oxford researchers and Google Deepmind researchers on AI."
-    publishedDateTime: 2022-09-22T01:03:00Z
-    webUrl: "https://techstory.in/research-paper-from-oxford-and-google-deepmind-says-ai-will-replace-humans/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 52
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/09/AI-Will-Eliminate-Humanity-Google-Deepmind-Paper-Says.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "DeepMind advances AI safety with new Sparrow chatbot"
     excerpt: "According to DeepMind, Sparrow can produce plausible answers to user questions more frequently than earlier neural networks. Furthermore, the chatbot includes features that significantly reduce the risk of biased and toxic answers."
     publishedDateTime: 2022-09-22T18:31:00Z

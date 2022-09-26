@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2022/09/artist-rece
 webUrl: "https://arstechnica.com/information-technology/2022/09/artist-receives-first-known-us-copyright-registration-for-generative-ai-art/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     isCached: true
 
 related:
+  - title: "Artist Claims First U.S. Copyright for Graphic Novel Featuring AI Art"
+    excerpt: "The situation regarding AI and copyright has caused consternation with the folks on sites like Shutterstock, which took down and later restored users’ AI art."
+    publishedDateTime: 2022-09-26T17:15:00Z
+    webUrl: "https://gizmodo.com/ai-art-shutterstock-getty-fur-infinity-1849574917"
+    ampWebUrl: "https://gizmodo.com/ai-art-shutterstock-getty-fur-infinity-1849574917/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-art-shutterstock-getty-fur-infinity-1849574917/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 67
   - title: "Artist receives first known US copyright registration for latent diffusion AI art"
     excerpt: "In what might be a first, a New York-based artist named Kris Kashtanova has received US copyright registration on their graphic novel that features AI-generated artwork created by latent diffusion AI,"
     publishedDateTime: 2022-09-22T21:38:00Z

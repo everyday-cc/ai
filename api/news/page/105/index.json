@@ -2,6 +2,83 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2022-07-01-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
+      "title": "China's Baidu races Waymo, GM to develop self-driving cars",
+      "excerpt": "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane. The taxi stops a half-car-length away. \"So sorry,\" a recorded voice ...",
+      "sourceUrl": null,
+      "webUrl": "https://japantoday.com/category/tech/china%27s-baidu-races-waymo-gm-to-develop-self-driving-cars",
+      "originalUrl": "https://japantoday.com/category/tech/china%27s-baidu-races-waymo-gm-to-develop-self-driving-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Japan Today",
+        "domain": "japantoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-its-alive-how-belief-in-ai-sentience-is-becoming-a-problem.md",
+      "title": "It's alive! How belief in AI sentience is becoming a problem",
+      "excerpt": "The issue of machine sentience - and what it means - hit the headlines this month when Google placed senior software engineer Blake Lemoine on leave a..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/its-alive-how-belief-in-ai-sentience-is-becoming-a-problem/92587380",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/its-alive-how-belief-in-ai-sentience-is-becoming-a-problem/92587380",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-92587380,imgsize-87554,width-1200,height-628,overlay-etcio/it-s-alive-how-belief-in-ai-sentience-is-becoming-a-problem.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/its-alive-how-belief-in-ai-sentience-is-becoming-a-problem/92587380",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/its-alive-how-belief-in-ai-sentience-is-becoming-a-problem/92587380",
+      "publishedDateTime": "2022-06-30T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-01-viettel-enters-ai-collaboration-with-nvidia.md",
       "title": "Viettel Enters AI Collaboration with NVIDIA",
       "excerpt": "Viettel Group and NVIDIA signed a Memorandum of Understanding (MoU) to establish a strategic partnership on using Artificial Intelligence (AI) to advance Viettel and Vietnam's technology research and solutions.",
@@ -997,100 +1074,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-meta-warns-employees-of-serious-times-in-internal-memo-listing-key-product-bets.md",
-      "title": "Meta warns employees of ‘serious times’ in internal memo listing key product bets",
-      "excerpt": "Cox says teams will have to “prioritize more ruthlessly” Cox also lays out six areas where he believes Facebook ... Research SuperCluster). The FAIR team will continue to drive AI research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/6/30/23190164/meta-chris-cox-internal-memo-product-bets-tiktok-metaverse",
-      "originalUrl": "https://www.theverge.com/2022/6/30/23190164/meta-chris-cox-internal-memo-product-bets-tiktok-metaverse",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-cybersecurity-startup-inspectiv-closes-in-on-86-million-funding-expands-c-suite.md",
-      "title": "Cybersecurity Startup Inspectiv Closes In On $8.6 Million Funding, Expands C-Suite",
-      "excerpt": "Have you ever felt like your entire life has been leading up to one moment?” Melika said. “This is it for me.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/phoebeliu/2022/06/30/cybersecurity-startup-inspectiv-closes-in-on-86-million-funding-expands-c-suite/",
-      "originalUrl": "https://www.forbes.com/sites/phoebeliu/2022/06/30/cybersecurity-startup-inspectiv-closes-in-on-86-million-funding-expands-c-suite/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62bdae5523e0787000d54849/0x0.png?format=png&crop=823,386,x20,y119,safe&width=1200",
-          "width": 823,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/phoebeliu/2022/06/30/cybersecurity-startup-inspectiv-closes-in-on-86-million-funding-expands-c-suite/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/phoebeliu/2022/06/30/cybersecurity-startup-inspectiv-closes-in-on-86-million-funding-expands-c-suite/amp/",
-      "publishedDateTime": "2022-06-30T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,135 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-23-large-scale-revenue-forecasting-at-bosch-with-amazon-forecast-and-amazon-sagemaker-custom-models.md",
+      "title": "Large-scale revenue forecasting at Bosch with Amazon Forecast and Amazon SageMaker custom models",
+      "excerpt": "This post is co-written by Goktug Cinar, Michael Binder, and Adrian Horvath from Bosch Center for Artificial Intelligence (BCAI). Revenue forecasting is a challenging yet crucial task for strategic business decisions and fiscal planning in most organizations. Often, revenue forecasting is manually performed",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/large-scale-revenue-forecasting-at-bosch-with-amazon-forecast-and-amazon-sagemaker-custom-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/large-scale-revenue-forecasting-at-bosch-with-amazon-forecast-and-amazon-sagemaker-custom-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/23/revenue-forecasting-bosch-1260x630.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-23T09:54:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-23-researchers-develop-artificial-intelligence-screening-techniques.md",
+      "title": "Researchers develop artificial intelligence screening techniques",
+      "excerpt": "Researchers have found a new artificial intelligence-based drug screening technique. Read below to know the significance and process of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.jagranjosh.com/current-affairs/researchers-develop-artificial-intelligence-screening-techniques-1663941325-1",
+      "originalUrl": "https://www.jagranjosh.com/current-affairs/researchers-develop-artificial-intelligence-screening-techniques-1663941325-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.jagranjosh.com/images/2022/August/1282022/2048-450x232.jpeg",
+          "width": 450,
+          "height": 232,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.jagranjosh.com/current-affairs/amp/researchers-develop-artificial-intelligence-screening-techniques-1663941325-1",
+      "cdnAmpWebUrl": "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/current-affairs/amp/researchers-develop-artificial-intelligence-screening-techniques-1663941325-1",
+      "publishedDateTime": "2022-09-23T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jagranjosh.com",
+        "domain": "jagranjosh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-23-microsofts-new-security-chief-looks-to-ai-to-fight-hackers-qa.md",
+      "title": "Microsoft’s New Security Chief Looks to AI to Fight Hackers: Q&A",
+      "excerpt": "His mission was to  chart a future course for the security business, which now generates more than $15 billion annually. Bell reorganized, combining groups scattered across businesses like Azure cloud,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bnnbloomberg.ca/microsoft-s-new-security-chief-looks-to-ai-to-fight-hackers-q-a-1.1822834",
+      "originalUrl": "https://www.bnnbloomberg.ca/microsoft-s-new-security-chief-looks-to-ai-to-fight-hackers-q-a-1.1822834",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bnnbloomberg.ca/microsoft-s-new-security-chief-looks-to-ai-to-fight-hackers-q-a-1.1822834.amp.html",
+      "cdnAmpWebUrl": "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/microsoft-s-new-security-chief-looks-to-ai-to-fight-hackers-q-a-1.1822834.amp.html",
+      "publishedDateTime": "2022-09-23T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bnnbloomberg",
+        "domain": "bnnbloomberg.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-09-23-nvidias-new-ai-model-quickly-generates-objects-and-characters-for-virtual-worlds.md",
       "title": "NVIDIA's new AI model quickly generates objects and characters for virtual worlds",
       "excerpt": "NVIDIA is looking to take the sting out of creating virtual 3D worlds with a new artificial intelligence model. GET3D can generate characters, buildings, vehicles and other types of 3D objects, NVIDIA says.",
@@ -62,7 +191,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-research-on-present-state-and-future-growth-prospects-of-key-players-forecast-by-2022-to-2027-2022-09-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -165,7 +294,7 @@
       "originalUrl": "https://www.androidheadlines.com/2022/09/samsung-dual-udc-facial-recognition-tech.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -502,7 +631,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2022/09/artist-receives-first-known-us-copyright-registration-for-generative-ai-art/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -543,49 +672,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-nvidias-lovelace-gpu-upgrades-graphics-with-ai.md",
-      "title": "NVIDIA's Lovelace GPU Upgrades Graphics with AI",
-      "excerpt": "A new flagship family of graphics chips developed by NVIDIA is powered by its next-generation Ada Lovelace architecture, which leverages artificial intelligence (AI) to create more realistic images in games.",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21251092/electronic-design-nvidias-lovelace-gpu-upgrades-graphics-with-ai",
-      "originalUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21251092/electronic-design-nvidias-lovelace-gpu-upgrades-graphics-with-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/09/Capture.632cc268663cf.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronic Design",
-        "domain": "electronicdesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -984,6 +1070,50 @@
       ]
     },
     {
+      "path": "_news/2022-09-22-palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute.md",
+      "title": "Palo Alto Networks 5G-Native Security Now Available on Microsoft Azure Private Multi-Access Edge Compute",
+      "excerpt": "PRNewswire/ — Palo Alto Networks (NASDAQ: PANW), a Microsoft Azure private MEC ecosystem partner, today announced availability of VM-Series Virtual Next-Generation Firewall (NGFW) technology on the Azure Marketplace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.darkreading.com/cloud/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute",
+      "originalUrl": "https://www.darkreading.com/cloud/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.darkreading.com/images/og-image.jpg",
+          "width": 342,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dark Reading",
+        "domain": "darkreading.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-09-22-artificial-intelligence-tools-speed-up-the-process-of-identifying-people-who-inject-drugs.md",
       "title": "Artificial intelligence tools speed up the process of identifying people who inject drugs",
       "excerpt": "An automated process that combines natural language processing and machine learning identified people who inject drugs (PWID) in electronic health records more quickly and accurately than current methods that rely on manual record reviews.",
@@ -1068,145 +1198,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute.md",
-      "title": "Palo Alto Networks 5G-Native Security Now Available on Microsoft Azure Private Multi-Access Edge Compute",
-      "excerpt": "Palo Alto Networks 5G-Native Security Now Available on Microsoft Azure Private Multi-Access Edge Compute Sep 22, 2022 (PRNewswire via COMTEX) -- PR",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute-2022-09-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute-2022-09-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-self-driving-hyundai-spotted-on-pie-likely-part-of-test-for-driverless-taxis.md",
-      "title": "Self-Driving Hyundai Spotted On PIE, Likely Part Of Test For Driverless Taxis",
-      "excerpt": "A motorist spotted a self-driving car along the PIE on 16 Sep. The driverless vehicle may be out for a driverless taxi test.",
-      "sourceUrl": null,
-      "webUrl": "https://mustsharenews.com/self-driving-car-pie/",
-      "originalUrl": "https://mustsharenews.com/self-driving-car-pie/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mustsharenews.com/wp-content/uploads/2022/09/Self-Driving-Car-Spotted-On-PIE-May-Be-Part-Of-Test-For-Driverless-Taxis-1.jpg",
-          "width": 1500,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mustsharenews.com/self-driving-car-pie/amp/",
-      "cdnAmpWebUrl": "https://mustsharenews-com.cdn.ampproject.org/c/s/mustsharenews.com/self-driving-car-pie/amp/",
-      "publishedDateTime": "2022-09-22T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lee",
-        "domain": "mustsharenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-humanitys-fight-against-covid-the-promise-of-artificial-intelligence.md",
-      "title": "Humanity’s fight against Covid: The promise of artificial intelligence",
-      "excerpt": "Few know that Coronavirus and its allied disease Covid-19 was first discovered by a data-mining program. HealthMap, a website run by Boston Children's Hospital, raised an alarm about multiple cases of pneumonia in Wuhan,",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/humanitys-fight-against-covid-the-promise-of-artificial-intelligence/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/humanitys-fight-against-covid-the-promise-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/humanitys-fight-against-covid-the-promise-of-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/humanitys-fight-against-covid-the-promise-of-artificial-intelligence/",
-      "publishedDateTime": "2022-09-22T01:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

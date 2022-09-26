@@ -7,8 +7,8 @@ originalUrl: "https://www.bignewsnetwork.com/news/272790048/ai-inside-provides-a
 webUrl: "https://www.bignewsnetwork.com/news/272790048/ai-inside-provides-artificial-intelligence-technology-in-japan"
 type: article
 quality: 52
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: Big News Network.com
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Technology Is Changing Voice Recognition"
-    excerpt: "Ah, the unintended consequences of powerful voice recognition and AI technology! This anecdote highlights the power of speech recognition and AI technology, 60 years after Bell Labs’ Audrey device and 50 years after IBM showed off its Shoebox machine."
-    publishedDateTime: 2022-09-22T00:00:00Z
-    webUrl: "https://semiengineering.com/ai-technology-is-changing-voice-recognition/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/Siemens-Logo-Updated.png"
-        width: 559
-        height: 210
-        isCached: true
   - title: "Biology continues to inspire AI"
     excerpt: "Three Turing Award winners got together at Nvidia's GTC to talk about the future direction of artificial intelligence and deep learning."
     publishedDateTime: 2022-09-22T09:47:00Z

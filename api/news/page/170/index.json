@@ -2,6 +2,102 @@
   "page": 170,
   "value": [
     {
+      "path": "_news/2022-05-17-singularity-systems-named-a-star-performer-in-everest-groups-intelligent-document-processing-idp-peak-matrix-assessment-2022.md",
+      "title": "Singularity Systems Named a Star Performer in Everest Group's Intelligent Document Processing (IDP) Peak Matrix® Assessment 2022",
+      "excerpt": "Singularity Systems, a leader in intelligent document processing (IDP), today announces it has been recognized as a Star Performer in the IDP market, one of only four vendors from a total field of 36,",
+      "sourceUrl": null,
+      "webUrl": "https://www.mytwintiers.com/business/press-releases/cision/20220517NY56669/singularity-systems-named-a-star-performer-in-everest-groups-intelligent-document-processing-idp-peak-matrix-assessment-2022/",
+      "originalUrl": "https://www.mytwintiers.com/business/press-releases/cision/20220517NY56669/singularity-systems-named-a-star-performer-in-everest-groups-intelligent-document-processing-idp-peak-matrix-assessment-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1492218/Singularity_Systems_Logo.jpg?p=publish",
+          "width": 1056,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-17T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyTwinTiers.com",
+        "domain": "mytwintiers.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-17-widely-available-ai-could-have-deadly-consequences.md",
+      "title": "Widely Available AI Could Have Deadly Consequences",
+      "excerpt": "In September 2021, scientists Sean Ekins and Fabio Urbina were working on an experiment they had named the “Dr. Evil project.” The Swiss government’s Spiez laboratory had asked them to find out what would happen if their AI drug discovery platform,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-dr-evil-drug-discovery/",
+      "originalUrl": "https://www.wired.com/story/ai-dr-evil-drug-discovery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6282dd0483768a9d8a5c8f82/master/pass/AI-Drug-Discovery-Molecules-Business-455668503.jpg",
+          "width": 2400,
+          "height": 1769,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-dr-evil-drug-discovery/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-dr-evil-drug-discovery/amp",
+      "publishedDateTime": "2022-05-17T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-05-17-3d-facial-recognition-market-growth-competitive-methods-and-forecast-2026.md",
       "title": "3D Facial Recognition Market Growth, Competitive Methods and Forecast 2026",
       "excerpt": "May 17, 2022 (Market Insight Reports) -- This detailed presentation on ‘ 3D Facial Recognition market’ available at MarketStudyReport.com, features an exhaustive study conveying influential trends prevailing in the global business sphere. The report ...",
@@ -1015,111 +1111,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-how-to-make-sure-your-resume-passes-muster-with-an-ai-reader.md",
-      "title": "How to Make Sure Your Résumé Passes Muster With an AI Reader",
-      "excerpt": "Including just the right keywords is crucial to getting to the next step in a job search.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916?mod=hp_jr_pos2",
-      "originalUrl": "https://www.wsj.com/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916?mod=hp_jr_pos2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-544215/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/resume-tips-job-search-artificial-intelligence-readers-11652475916",
-      "publishedDateTime": "2022-05-16T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars.md",
-      "title": "AI Ethics Tempted But Hesitant To Use AI Adversarial Attacks Against The Evils Of Machine Learning, Including For Self-Driving Cars",
-      "excerpt": "The net result would seem to be an outcome of good. Not everyone agrees with that sentiment. From an AI Ethics perspective, there is a lot of handwringing going on about this meaty topic. Some would argue that by leveraging adversarial attacks, even when ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62814aa647441d8a952568f8/0x0.jpg?format=jpg&crop=2715,1528,x279,y50,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/amp/",
-      "publishedDateTime": "2022-05-16T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
       ]
     }
   ],

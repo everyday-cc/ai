@@ -2,6 +2,100 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2022-08-25-lyft-and-motional-unveil-driverless-robotaxi-in-vegas.md",
+      "title": "Lyft And Motional Unveil Driverless Robotaxi In Vegas",
+      "excerpt": "Lyft and Motional have partnered to launch Motional's new all-electric IONIQ 5-based robotaxi, an autonomous vehicle designed for fully driverless ride-hail operation, on the Lyft network in Las ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104749877/Lyft-And-Motional-Unveil-Driverless-Robotaxi-In-Vegas",
+      "originalUrl": "https://menafn.com/1104749877/Lyft-And-Motional-Unveil-Driverless-Robotaxi-In-Vegas",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-08/24/R&AN_e39d7image_story.jpeg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-24T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MENAFN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-who-is-fn-meka-controversial-ai-rapper-dropped-by-capitol-records.md",
+      "title": "Who Is FN Meka? Controversial AI Rapper Dropped by Capitol Records",
+      "excerpt": "Capitol Records announced Tuesday that it dropped FN Meka, an artificial intelligence (AI) rapper that critics have condemned as an appropriation of Black culture. The record label made waves within the music industry when it announced on August 12 that it had signed Meka,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/fn-meka-ai-rapper-dropped-capitol-records-1736588",
+      "originalUrl": "https://www.newsweek.com/fn-meka-ai-rapper-dropped-capitol-records-1736588",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2103606/capitol-records-building-pictured-2020.jpg",
+          "width": 3100,
+          "height": 2068,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/fn-meka-ai-rapper-dropped-capitol-records-1736588?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fn-meka-ai-rapper-dropped-capitol-records-1736588?amp=1",
+      "publishedDateTime": "2022-08-24T11:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-25-humans-have-a-natural-defense-against-facial-recognition-aging.md",
       "title": "Humans Have a Natural Defense Against Facial Recognition: Aging",
       "excerpt": "After just 5 years, facial recognition systems start struggling to identify us, and after 20 years they have no chance. I've been working at PCMag since November 2016, covering all areas of ...",
@@ -1135,100 +1229,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-saas-solutions-provider-revsureai-raises-35-mn-in-seed-funding.md",
-      "title": "SaaS solutions provider RevSure.AI raises $3.5 mn in seed funding",
-      "excerpt": "RevSure.AI announced on Wednesday that it has raised $3.5 million in seed funding and has launched out of stealth mode. The investment was led by Innovation Endeavors, with participation from angel investors Katrin Ribant,",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/companies/saas-solutions-provider-revsure-ai-raises-3-5-mn-in-seed-funding-122082400584_1.html",
-      "originalUrl": "https://www.business-standard.com/article/companies/saas-solutions-provider-revsure-ai-raises-3-5-mn-in-seed-funding-122082400584_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-08/24/full/1661329340-8151.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/saas-solutions-provider-revsure-ai-raises-3-5-mn-in-seed-funding-122082400584_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/saas-solutions-provider-revsure-ai-raises-3-5-mn-in-seed-funding-122082400584_1.html",
-      "publishedDateTime": "2022-08-24T01:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-ai-startup-anyscale-adds-99-million-to-andreessen-horowitz-led-funding-round.md",
-      "title": "AI Startup Anyscale Adds $99 Million to Andreessen Horowitz-Led Funding Round",
-      "excerpt": "Anyscale Inc., an artificial-intelligence startup created three years ago by ... the open-source software needed to run Anyscale’s AI tools, is catching the attention of investors, said Robert ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200",
-      "originalUrl": "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-608499/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200",
-      "publishedDateTime": "2022-08-24T00:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

@@ -2,6 +2,101 @@
   "page": 160,
   "value": [
     {
+      "path": "_news/2022-05-25-remarkable-science-exploring-our-ai-and-robot-supported-future.md",
+      "title": "Remarkable science: Exploring our AI and robot-supported future",
+      "excerpt": "On the public misconceptions about the future of AI and robotics DANIELA RUS: “Let me say that when I usually tell people what I do, I get one of two reactions. So some people start making jokes about Skynet and ask me when their jobs will go away.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wlrn.org/2022-05-24/remarkable-science-exploring-our-ai-and-robot-supported-future",
+      "originalUrl": "https://www.wlrn.org/2022-05-24/remarkable-science-exploring-our-ai-and-robot-supported-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/db60692/2147483647/strip/true/crop/2830x1486+0+290/resize/1200x630!/quality/90/?url=https%3A%2F%2Fd279m997dpfwgl.cloudfront.net%2Fwp%2F2022%2F05%2FGettyImages-1231248517.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T20:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WLRN",
+        "domain": "wlrn.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-amd-fsr-20-vs-dlss-performance-in-deathloop.md",
+      "title": "AMD FSR 2.0 vs. DLSS Performance in Deathloop",
+      "excerpt": "DLSS takes a closed-source AI based approach ... comparison between today's main upscaling technologies from the two GPU vendors. Check out the video below for a lot of detail on how visual ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/review/2464-amd-fsr-2-vs-dlss-benchmark/",
+      "originalUrl": "https://www.techspot.com/review/2464-amd-fsr-2-vs-dlss-benchmark/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/articles-info/2464/images/2022-05-18-image-16.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T19:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-voice-user-interface-market-size-to-grow-by-usd-2902-billion-north-america-to-register-maximum-growth-technavio.md",
       "title": "Voice User Interface Market Size to Grow by USD 29.02 billion | North America to Register Maximum Growth | Technavio",
       "excerpt": "Voice User Interface Market Size to Grow by USD 29.02 billion \\| North America to Register Maximum Growth \\| Technavio. NEW YORK, May 24, 2022 /PRNewswire/ -- The voice user interfa",
@@ -1048,92 +1143,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-two-nhs-surgeons-are-using-azure-ai-to-spot-patients-facing-increased-risks-during-surgery.md",
-      "title": "Two NHS surgeons are using Azure AI to spot patients facing increased risks during surgery",
-      "excerpt": "An NHS trust is exploring how AI could help reduce waiting times, support recommendations from healthcare teams and help patients.",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/en-gb/features/two-nhs-surgeons-are-using-azure-ai-to-spot-patients-facing-increased-risks-during-surgery/",
-      "originalUrl": "https://news.microsoft.com/en-gb/features/two-nhs-surgeons-are-using-azure-ai-to-spot-patients-facing-increased-risks-during-surgery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.microsoft.com/wp-content/uploads/prod/sites/68/2022/05/Microsoft_9716b-1-scaled.jpg",
-          "width": 2560,
-          "height": 1439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-heres-why-you-should-retain-change-healthcare-chng-stock.md",
-      "title": "Here's Why You Should Retain Change Healthcare (CHNG) Stock",
-      "excerpt": "Change Healthcare Inc. CHNG is well-poised for growth backed by strength in artificial intelligence (AI) and machine learning (ML) initiatives and strategic deals. However, stiff competition remains a concern.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock-2",
-      "originalUrl": "https://www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock-2?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock-2?amp",
-      "publishedDateTime": "2022-05-24T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -41,6 +41,22 @@ related:
         width: 450
         height: 232
         isCached: true
+  - title: "Scientists Develop Artificial Intelligence Screening Techniques To Quicken Drug Discovery"
+    excerpt: "Researchers have developed artificial intelligence screening techniques to speed up the process of drug discovery. Read on."
+    publishedDateTime: 2022-09-23T18:05:00Z
+    webUrl: "https://www.onlymyhealth.com/artificial-intelligence-screening-techniques-to-quicken-drug-discovery-1663955114"
+    ampWebUrl: "https://www.onlymyhealth.com/amp/artificial-intelligence-screening-techniques-to-quicken-drug-discovery-1663955114"
+    cdnAmpWebUrl: "https://www-onlymyhealth-com.cdn.ampproject.org/c/s/www.onlymyhealth.com/amp/artificial-intelligence-screening-techniques-to-quicken-drug-discovery-1663955114"
+    type: article
+    provider:
+      name: Onlymyhealth
+      domain: onlymyhealth.com
+    quality: 50
+    images:
+      - url: "https://images.onlymyhealth.com//imported/images/2022/September/23_Sep_2022/maindrugsstudy.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI-based drug screening process could speed up the development of life-saving medicines"
     excerpt: "Developing life-saving medicines can take billions of dollars and decades of time, but University of Central Florida researchers are aiming to speed up this process with a new artificial intelligence-based drug screening process they've developed."
     publishedDateTime: 2022-09-22T23:53:00Z
@@ -55,15 +71,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Scientists Develop Artificial Intelligence Screening Techniques To Quicken Drug Discovery"
-    excerpt: "Researchers have developed artificial intelligence screening techniques to speed up the process of drug discovery. Read on."
-    publishedDateTime: 2022-09-23T18:05:00Z
-    webUrl: "https://www.onlymyhealth.com/artificial-intelligence-screening-techniques-to-quicken-drug-discovery-1663955114"
-    type: article
-    provider:
-      name: Onlymyhealth
-      domain: onlymyhealth.com
-    quality: 8
 
 secured: "pEYP0rvx9TW+X8fpq6XOOkAhq2mJwTXs0DtFknuUhDeJacrbQqob7+V8kWi2RcFmLUxw08MBIpfX5i5HGnRTBSI9gCQsFOZ6cpgAAWKDApq61MAKJM9sKy1UuUYtrwMc6p2n3Yka9HXHE7WqpHibT5GxUYzec189Szs1m/cCf5l4kBFLHLFJtUMKWW7FhNFNVG+EvOx42GX3gY30ndXpAxpW1oreCC2P69I1B9p03DGFRXZAsxzqVI3ElZMt3J7XcQrHiupRgji+CKvViuSWui+bxQlnlRDzbkx9c6MdI6zWJREVtawXnyXrD/uQGz8nadpldK9SkSPOh9U3ZB24fQbfxHsIztTYcaKwG3qXIM4=;frj7tSb5jFhXT62OZAnZqg=="
 ---

@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-06-09-brian-onorio-ai-may-be-transforming-shopping.md",
+      "title": "Brian Onorio: AI may be transforming shopping",
+      "excerpt": "But two years later, we Americans are emerging from the pandemic, remembering that in-person shopping is actually something we enjoy doing, and are heading back to the brick-and-mortar stores in droves.",
+      "sourceUrl": null,
+      "webUrl": "https://qctimes.com/opinion/columnists/brian-onorio-ai-may-be-transforming-shopping/article_4d8b7625-3f07-5ba4-ad2b-583622c82d4a.html",
+      "originalUrl": "https://qctimes.com/opinion/columnists/brian-onorio-ai-may-be-transforming-shopping/article_4d8b7625-3f07-5ba4-ad2b-583622c82d4a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quad-City Times",
+        "domain": "qctimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-training-a-robot-to-recognize-and-pour-water.md",
       "title": "Training a robot to recognize and pour water",
       "excerpt": "A horse, a zebra and artificial intelligence helped a team of Carnegie Mellon University researchers teach a robot to recognize water and pour it into a glass.",
@@ -1242,40 +1285,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-bionic-arms-developed-at-u-move-science-fiction-into-the-realm-of-fact.md",
-      "title": "Bionic Arms Developed At U Move Science-Fiction Into The Realm Of Fact",
-      "excerpt": "It comes in the form of a robotic arm ... computer and the mind interact with each other, understand each other, and that will result with the patient (being) able to control the prothesis in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/minnesota/news/bionic-arms-developed-at-u-move-science-fiction-into-the-realm-of-fact/",
-      "originalUrl": "https://www.cbsnews.com/minnesota/news/bionic-arms-developed-at-u-move-science-fiction-into-the-realm-of-fact/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-03T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

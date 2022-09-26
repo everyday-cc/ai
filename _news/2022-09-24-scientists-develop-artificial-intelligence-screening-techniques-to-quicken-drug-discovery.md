@@ -5,8 +5,10 @@ excerpt: "Researchers have developed artificial intelligence screening technique
 publishedDateTime: 2022-09-23T18:05:00Z
 originalUrl: "https://www.onlymyhealth.com/artificial-intelligence-screening-techniques-to-quicken-drug-discovery-1663955114"
 webUrl: "https://www.onlymyhealth.com/artificial-intelligence-screening-techniques-to-quicken-drug-discovery-1663955114"
+ampWebUrl: "https://www.onlymyhealth.com/amp/artificial-intelligence-screening-techniques-to-quicken-drug-discovery-1663955114"
+cdnAmpWebUrl: "https://www-onlymyhealth-com.cdn.ampproject.org/c/s/www.onlymyhealth.com/amp/artificial-intelligence-screening-techniques-to-quicken-drug-discovery-1663955114"
 type: article
-quality: 8
+quality: 50
 heat: -1
 published: false
 
@@ -16,6 +18,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://images.onlymyhealth.com//imported/images/2022/September/23_Sep_2022/maindrugsstudy.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Researchers develop artificial intelligence screening techniques"
@@ -63,6 +72,6 @@ related:
         height: 420
         isCached: true
 
-secured: "BcDnFpdSRwuHKMoevsYw8iNYXnqsLb/OsgLLTe29hk0oFBlf2BFDHexQbnkhKqzj9l6cxrCOI7kmJ7XVMq+VQZH5eE7ymAbWGRQvQLY5bfSJ1nJYr8hELfS7lgcauplGFbHF7XYUTLd7KwO9Zods8HhVbY29l7fj+2wowEyPEiLLQuI63Y1sftbQDFh2e8txCH2upHl3ZSD6KSYam0icwQiwS4uG7kRSUugy5WuMMyvy7sqoDpTd/PXmuw5yLDNTxiUkxZSPqwLSFBRHDzfzLYIByZ4A6uai7XlDJz5eeTlK5mnltgmuoBAvAMqTMz6AS6d2XOmeDIOugWNieWkj4d1bBp3aaBmN6HXN2X2yk0PMbNglZUOuJeeVZbUY6i8PLPhs6XmTSPDlpztePCvrcAhApL1Bp7Qui8fomyDoUMNQf/YLtkjVESPIIKNk6chSX3UNWnV6BZLEkB2WyGbCHqrrFXSY5uNRJ3GDiSMapEKrynWmI2ABljAlyteTQ3HVk890LgoAF5VnBCUPi9Ol9Q==;Vj64Rbu4Jevw8ZKEmakskg=="
+secured: "JggGjcCCgZocXRKvk1lo2BTC+8CsYUWF+cenhegXGDb2bKx/dHz1Wah9L1YI35OE2yRK1XyHSYlg2xS50lbHvc+vHV+7xDpcoPgyZBxh/GXRcLfLqla/j5lSJQDcjw3LpNwJETkvZ4KmCWFWzAHT1dZtvzX7X7rEOkjhk4S86GR8j4Uhll5zKFh/8295LBQsGnb43+p8NKvsUOdRSibGDZBOkmqtU5PKseZsZ44O1nDBIdnnGD/YENfHCvObFDS9tZZ9rcb8QJ1LFT+0mrZ0qtt0Mlarcbfi4+3w5otoZfccOZ4hmjRnNTKbDfOM9TY4dYfACZKdl62PVeWuCdBGZFgO6lluFB3hIgJ5teyemFA=;XHp4LcZXoi2kZaMFF13TwQ=="
 ---
 

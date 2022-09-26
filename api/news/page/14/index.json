@@ -2,6 +2,74 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-09-13-kyndis-natural-language-search-solution-recognized-as-a-kmworld-top-trend-setting-product-of-2022.md",
+      "title": "Kyndi's Natural Language Search Solution Recognized as a KMWorld Top Trend-Setting Product of 2022",
+      "excerpt": "SAN MATEO, Calif., Sept. 13, 2022 /PRNewswire/ -- Kyndi, the leading natural language processing (NLP) company, today announced that KMWorld, the premier knowledge management publication ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/n28847758/kyndis-natural-language-search-solution-recognized-as-a-kmworld-top-trend-setting-product-of-2022",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/n28847758/kyndis-natural-language-search-solution-recognized-as-a-kmworld-top-trend-setting-product-of-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-these-9-gurus-all-bought-microsoft.md",
+      "title": "These 9 Gurus All Bought Microsoft",
+      "excerpt": "At Holdings Channel, we have reviewed 6,722 13F filings for the 06/30/2022 reporting period, and noticed that Microsoft Corporation (Symbol: MSFT) was held by 9 of the particular managers we have flagged as \"titans\" most widely followed by investors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/these-9-gurus-all-bought-microsoft",
+      "originalUrl": "https://www.nasdaq.com/articles/these-9-gurus-all-bought-microsoft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-13-robot-lab-live-highlights-remote-control-burger-crafting-using-two-robot-dogs.md",
       "title": "Robot Lab Live Highlights - Remote Control Burger Crafting Using Two Robot Dogs",
       "excerpt": "Remotely controlling a robotic system from a distance, whether it be in a different room or country, has always been a difficult task. In this demonstration, the team from Real Robotics Lab will show how a motion capture suit - such as the ones used in ...",
@@ -327,6 +395,49 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch.md",
+      "title": "Truly autonomous cars may be impossible without helpful human touch",
+      "excerpt": "Making robot cars that can drive more safely than people is immensely tough because self-driving software systems simply lack humans' ability to predict and assess risk quickly, especially when encountering unexpected incidents.",
+      "sourceUrl": null,
+      "webUrl": "https://europe.autonews.com/automakers/truly-autonomous-cars-may-be-impossible-without-human-touch",
+      "originalUrl": "https://europe.autonews.com/automakers/truly-autonomous-cars-may-be-impossible-without-human-touch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/Vay%20driver%20web.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1014,126 +1125,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-save-the-date-join-aws-at-nvidia-gtc-september-1922.md",
-      "title": "Save the date: Join AWS at NVIDIA GTC, September 19–22",
-      "excerpt": "Register free for NVIDIA GTC to learn from experts on how AI and the evolution of the 3D internet are profoundly impacting industries—and society as a whole. We have prepared several AWS sessions to give you guidance on how to use AWS services powered by NVIDIA technology to meet your goals. Amazon Elastic",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/save-the-date-join-aws-at-nvidia-gtc-september-19-22/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/save-the-date-join-aws-at-nvidia-gtc-september-19-22/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T11:41:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-svkms-nmims-bengaluru-campus-opens-nmat-registration-for-admissions-in-mba-core-program-for-the-ay-2023-25.md",
-      "title": "SVKM's NMIMS Bengaluru Campus opens NMAT registration for admissions in MBA Core Program for the AY 2023-25",
-      "excerpt": "BIE (Bachelor of Industrial Engineering), machine learning, financial services and many more, both modern and traditional forms of electives. Faculty have impeccable credentials both coming from ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1275094&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1275094&cat=PR News Wire",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch.md",
-      "title": "Truly autonomous cars may be impossible without helpful human touch",
-      "excerpt": "Autonomous vehicle (AV) startups have raised tens of billions of dollars based on promises to develop truly self-driving cars, but industry executives and experts say remote human supervisors may be needed permanently to help robot drivers in trouble.",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/business/truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-2932686",
-      "originalUrl": "https://www.channelnewsasia.com/business/truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-2932686",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://onecms-res.cloudinary.com/image/upload/s--RaBB5T0p--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-09-12t061510z_3_lynxmpei8b063_rtroptp_3_autos-autonomous-technology.jpg?itok=JsY2qWQE",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

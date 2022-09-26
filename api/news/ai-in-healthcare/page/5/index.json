@@ -2,6 +2,51 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-27-using-machine-learning-to-simplify-healthcare-information-exchange.md",
+      "title": "Using machine learning to simplify healthcare information exchange",
+      "excerpt": "Improving the Patient Financial Experience Throughout the Patient Journey While many healthcare providers believe that improving the patient financial experience is a critical step for their organization, few have done so successfully. Read this brief to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthcarefinancenews.com/video/using-machine-learning-simplify-healthcare-information-exchange",
+      "originalUrl": "https://www.healthcarefinancenews.com/video/using-machine-learning-simplify-healthcare-information-exchange",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.healthcarefinancenews.com/sites/healthcarefinancenews.com/files/Mark%20Martin.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healthcare Finance News",
+        "domain": "healthcarefinancenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-07-27-very-few-things-are-stopping-big-tech-from-popping-in-healthcare.md",
       "title": "Very Few Things Are Stopping Big Tech from “Popping” in Healthcare",
       "excerpt": "Azure Machine Learning and Azure Cognitive Services, to deliver on the vision of the Terra platform at a new level of scale.” Taking a Deep Look at Big Tech’s Influence in Healthcare Big tech companies’ presence in healthcare greatly expanded during ...",
@@ -1346,58 +1391,6 @@
         "AI in Healthcare",
         "IBM AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-data-preparation-the-key-ingredient-in-efficient-ai-algorithms-for-virtual-healthcare.md",
-      "title": "Data Preparation: The Key Ingredient In Efficient AI Algorithms For Virtual Healthcare",
-      "excerpt": "However, that concept doesn't apply to data processing. Artificial intelligence (AI) and machine learning (ML) can't properly execute without good data preparation. That's an oversimplification, but it helps explain what's going on with the whole ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/15/data-preparation-the-key-ingredient-in-efficient-ai-algorithms-for-virtual-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/15/data-preparation-the-key-ingredient-in-efficient-ai-algorithms-for-virtual-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6165e12e8a6cc7b5e99e94f3/0x0.jpg?format=jpg&crop=1307,735,x0,y67,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/15/data-preparation-the-key-ingredient-in-efficient-ai-algorithms-for-virtual-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/15/data-preparation-the-key-ingredient-in-efficient-ai-algorithms-for-virtual-healthcare/amp/",
-      "publishedDateTime": "2022-07-15T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

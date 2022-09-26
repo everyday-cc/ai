@@ -2,6 +2,103 @@
   "page": 127,
   "value": [
     {
+      "path": "_news/2022-06-16-massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip.md",
+      "title": "Massachusetts Institute of Technology: Engineers build LEGO-like artificial intelligence chip",
+      "excerpt": "Imagine a more sustainable future, where cellphones, smartwatches, and other wearable devices don’t have to be shelved or discarded for a newer model. Instead, they could be upgraded with the latest s",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/",
+      "originalUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/",
+      "publishedDateTime": "2022-06-15T23:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-natural-language-processing-market-forecast-2022-2028-cagr-294.md",
+      "title": "Natural Language Processing Market Forecast [2022-2028] | CAGR 29.4%",
+      "excerpt": "Jun 16, 2022 (The Expresswire) -- The global “Natural Language Processing Market Size” is rising with a steady CAGR and expected to generate the highest revenue by 2029. Fortune Business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-forecast-2022-2028-cagr-294-2022-06-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-forecast-2022-2028-cagr-294-2022-06-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-15T22:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-the-secret-of-smart-plugins-ai-powered-tools-for-mixing-mastering-and-more.md",
       "title": "The secret of smart plugins: AI-powered tools for mixing, mastering and more",
       "excerpt": "“You can read it as ‘we aim to make a better solution that takes some of the burden of your task off of you by means of state-of-the-art statistics software tech from the field of artificial ... deep learning (deep neural networks).”",
@@ -1034,92 +1131,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-intel-arc-alchemist-a380-is-finally-here-to-rival-amds-entry-level-gpu.md",
-      "title": "Intel Arc Alchemist A380 is finally here to rival AMD’s entry-level GPU",
-      "excerpt": "The entry-level GPU is positioned to be the rival to AMD’s Radeon RX 6400. The bad news is that you likely won’t be able to get your hands on Intel’s first graphics card for a while yet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/intel-announces-arc-alchemist-a380-desktop-gpu/",
-      "originalUrl": "https://www.digitaltrends.com/computing/intel-announces-arc-alchemist-a380-desktop-gpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/06/INTEL-ARC-A380-3.jpg?p=1",
-          "width": 1858,
-          "height": 979,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/intel-announces-arc-alchemist-a380-desktop-gpu/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/intel-announces-arc-alchemist-a380-desktop-gpu/?amp",
-      "publishedDateTime": "2022-06-15T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-baidu-in-talks-to-sell-majority-stake-in-iqiyi-chinas-answer-to-netflix-sources.md",
-      "title": "Baidu in talks to sell majority stake in iQIYI, China's answer to Netflix -sources",
-      "excerpt": "The divestment plan, not previously disclosed by Baidu, comes after the firm deemed iQIYI to be a non-core asset, and as it seeks to sharpen its focus on developing its capital-intensive artificial intelligence and autonomous driving units, said the first ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/business-pmn/baidu-in-talks-to-sell-majority-stake-in-iqiyi-chinas-answer-to-netflix-sources",
-      "originalUrl": "https://financialpost.com/pmn/business-pmn/baidu-in-talks-to-sell-majority-stake-in-iqiyi-chinas-answer-to-netflix-sources",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://financialpost.com/pmn/business-pmn/baidu-in-talks-to-sell-majority-stake-in-iqiyi-chinas-answer-to-netflix-sources/wcm/90d97914-f16b-4e1e-8cd1-03dbba5d6782/amp/",
-      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/baidu-in-talks-to-sell-majority-stake-in-iqiyi-chinas-answer-to-netflix-sources/wcm/90d97914-f16b-4e1e-8cd1-03dbba5d6782/amp/",
-      "publishedDateTime": "2022-06-15T09:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamiehailstone/2022/09/26/how-ai-can-he
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiehailstone/2022/09/26/how-ai-can-help-protect-us-from-future-wildfires/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     height: 800
     isCached: true
 
-secured: "J48a43qgJ67oTeNnu5Iyt5QyIDCgyvLSloX1WTgVfgeHkhsea0AWrlMeHkLm+X1lnJKnJRNmZSamKJ2h5Wmdjic8szERYCKbUkOQuXGAENfIbbYGaUFd0b2NzsoakR8ojd60/yn7Ifj3H15qtXBycbJ94Os/HRpYuHBujaBoSAu8BzDMIi+qHBkqB/L5Hg7IbskAx8WiYI50YVS0ltQ4DgZ7b/0GSwepGjtW306U3C27zyTPvraquRZfxQoBNejOYKChUgFPS10ZUZ7SuMWyryWH8emrZAfx7GMpcSzY1jyFj61dOdgwY1ZByPpIBuxTaFozKugW0GFk8w26jVOcoeXqbDDTTgsPuqxYTVJ5pck=;Oo1StjCnTXEx8k24Yc3iWw=="
+related:
+  - title: "AI worse at recognizing images than humans"
+    excerpt: "Researchers from HSE University and Moscow Polytechnic University have discovered that AI models are unable to represent features of human vision due to a lack of tight coupling with the respective physiology,"
+    publishedDateTime: 2022-09-26T17:24:00Z
+    webUrl: "https://techxplore.com/news/2022-09-ai-worse-images-humans.html"
+    ampWebUrl: "https://techxplore.com/news/2022-09-ai-worse-images-humans.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-ai-worse-images-humans.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/ai.jpg"
+        width: 1920
+        height: 1636
+        isCached: true
+
+secured: "lhpQydDRy5yk0ssXQsZzolkTwlY06MSZ5fwaVNaJMUBWiFPdN51sW6p6ra+SHRO9b+4pATcpQgfIWQQg2FMXqzcpQ8yn5u9ogeXnq4wSUKnvLeROfrZzCMP5YXhlMkVHewf1tvlAMQJz5rT0jzIpa8DD/m0fhZe9DDvW+wmwN04wWgDqPX8fcs4y3gN8+3aWtjdwxS3lvSUYCgJulphefD3YwTScwT1ZzSU7Yi0HGQ2elYNP2xon/7Qc3MdK7L+itlEzH5gt/TvovQfXAPqKlxbjEHo9zaKFQasXOP2Fi+HgzFYIWQmaMLgiyGbY1znG2JyuHdhmW4s09R18D4TVaBWzpsWy3IutEhKJ/mplBV/73dghUkjsykWn07dBxQWzijXEz8ilRhero+UUqc3V3ReP4izl/2k32OI6wlfKKhwAP73kEIaIwF65F5sMfyFOKEcMaIZJT1UjyrvjMAEptVjXZihKBECwq3Ajokl+Dc6IaFX1rCnW+crQypoTMu2o4mM0Xn8XvNWu9NWOxdatHw==;78WTMQlnivYk1NmIB/OtUA=="
 ---
 

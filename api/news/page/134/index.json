@@ -2,6 +2,85 @@
   "page": 134,
   "value": [
     {
+      "path": "_news/2022-06-13-ecovacs-robotics-introduces-enhanced-ai-technology-for-intelligent-floor-cleaning-with-launch-of-deebot-t10-in-singapore.md",
+      "title": "ECOVACS ROBOTICS Introduces Enhanced AI Technology for Intelligent Floor Cleaning with Launch of DEEBOT T10 in Singapore",
+      "excerpt": "The new DEEBOT combines next-generation technologies, such as AIVI 3.0 Upgraded AI-based Object Recognition and Avoidance technology, that offer tech-savvy households unique advantages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/ecovacs-robotics-introduces-enhanced-ai-technology-intelligent-floor-cleaning-launch",
+      "originalUrl": "https://www.asiaone.com/business/ecovacs-robotics-introduces-enhanced-ai-technology-intelligent-floor-cleaning-launch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk.md",
+      "title": "Machine learning-led decarbonisation platform Ecolibrium launches in the UK",
+      "excerpt": "Ecolibrium launches in the UK today having already signed its first commercial contract with Integral, JLL's UK engineering and facilities service ... Ecolibrium's proprietary machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-835169759.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-835169759.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1837227/Ecolibrium_Yash_Kapila_and_Chintan_Soni.jpg?p=facebook",
+          "width": 2700,
+          "height": 1413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-what-are-the-most-in-demand-ai-skills.md",
       "title": "What Are The Most In-Demand AI Skills?",
       "excerpt": "Artificial Intelligence (AI) is about teaching machines to learn and make decisions that can benefit organizations or society as a whole. But being able to deploy and implement it is dependent on an array of human skills.",
@@ -1075,93 +1154,6 @@
         "Computer Vision",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-11-ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns.md",
-      "title": "AI systems have their own ‘secret language’. And it might come with security concerns",
-      "excerpt": "The findings support the theory that AI language models don’t read text the way you and I do. Instead, they break input text up into 'tokens'.",
-      "sourceUrl": null,
-      "webUrl": "https://theprint.in/world/ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns/992535/",
-      "originalUrl": "https://theprint.in/world/ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns/992535/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.theprint.in/wp-content/uploads/2021/08/artificial-intelligence-4389372_1280-e1599296856435-1024x576-1.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theprint.in/world/ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns/992535/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns/992535/?amp",
-      "publishedDateTime": "2022-06-10T20:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-11-demand-for-ai-machine-learning-courses-soars.md",
-      "title": "Demand for AI, machine learning courses soars",
-      "excerpt": "In order to cater to the rising demand for new-age engineering programmes like Artificial Intelligence (AI), machine learning and Internet of Things (IoT),",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/cities/chennai/2022/jun/11/demand-for-ai-machine-learning-courses-soars-2464187.html",
-      "originalUrl": "https://www.newindianexpress.com/cities/chennai/2022/jun/11/demand-for-ai-machine-learning-courses-soars-2464187.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/3/5/w600X390/declare_AI.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/cities/chennai/2022/jun/11/demand-for-ai-machine-learning-courses-soars-2464187.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/chennai/2022/jun/11/demand-for-ai-machine-learning-courses-soars-2464187.amp",
-      "publishedDateTime": "2022-06-10T18:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

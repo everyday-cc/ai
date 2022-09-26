@@ -2,6 +2,83 @@
   "page": 118,
   "value": [
     {
+      "path": "_news/2022-06-22-welcome-aboard-this-is-a-driverless-train-unions-begin-their-own-demise.md",
+      "title": "Welcome aboard, this is a driverless train: unions begin their own demise",
+      "excerpt": "London ground to a standstill yesterday as transport workers began a series of strike action As the summer sun makes the UK feel like a Mediterranean resort, we are also about to see the perils of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cityam.com/welcome-aboard-this-is-a-driverless-train-unions-begin-their-own-demise/",
+      "originalUrl": "https://www.cityam.com/welcome-aboard-this-is-a-driverless-train-unions-begin-their-own-demise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cityam.com/wp-content/uploads/2022/05/GettyImages-1239070358.jpg",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cityam.com/welcome-aboard-this-is-a-driverless-train-unions-begin-their-own-demise/?amp=1",
+      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/welcome-aboard-this-is-a-driverless-train-unions-begin-their-own-demise/?amp=1",
+      "publishedDateTime": "2022-06-22T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "City A.M.",
+        "domain": "cityam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-human-like-eye-movements-improve-object-recognition-in-machine-vision-video.md",
+      "title": "Human-like eye movements improve object recognition in machine vision (VIDEO)",
+      "excerpt": "A self-driving car uses human-like saccadic eye movements and correctly identifies a stop sign in time to stop.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/multimedia/939334",
+      "originalUrl": "https://www.eurekalert.org/multimedia/939334",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-qualcomm-unveils-ai-stack-portfolio-to-unify-mobile-car-iot-and-other-devices.md",
       "title": "Qualcomm unveils 'AI Stack' portfolio to unify mobile, car, IoT and other devices",
       "excerpt": "Qualcomm says the new version of its technology eases portability of machine learning models across the plethora of hardware offered by itself and its customers.",
@@ -1041,102 +1118,6 @@
         "AI",
         "Machine Learning",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-the-25-most-significant-new-york-city-novels-from-the-last-100-years.md",
-      "title": "The 25 Most Significant New York City Novels From the Last 100 Years",
-      "excerpt": "Four writers and one bookseller gathered over Zoom to make a list devoted to fiction in which the city is more than mere setting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/06/22/t-magazine/new-york-city-novels-books.html",
-      "originalUrl": "https://www.nytimes.com/2022/06/22/t-magazine/new-york-city-novels-books.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/06/22/t-magazine/entertainment/22tmag-t25novels-slide-GHUM-copy/22tmag-t25novels-slide-GHUM-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/06/22/t-magazine/new-york-city-novels-books.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/06/22/t-magazine/new-york-city-novels-books.amp.html",
-      "publishedDateTime": "2022-06-22T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-is-expected-to-reach-usd-798-billion-by-2028-fior-markets.md",
-      "title": "Natural Language Processing (NLP) In Healthcare And Life Sciences Market is Expected to Reach USD 7.98 Billion by 2028 : Fior Markets",
-      "excerpt": "As per the report published by Fior Markets, the global natural language processing (NLP) in healthcare and life sciences market is expected to grow from USD 1.84 billion in 2020 and to reach USD ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-is-expected-to-reach-usd-7-98-billion-by-2028-fior-markets",
-      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-is-expected-to-reach-usd-7-98-billion-by-2028-fior-markets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Ukraine-Tank-war-AFP-1K-600x337.jpeg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T01:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

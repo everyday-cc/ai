@@ -2,6 +2,92 @@
   "page": 111,
   "value": [
     {
+      "path": "_news/2022-06-28-a-reporter-tried-the-ai-instagram-wants-to-use-to-verify-age-heres-what-it-found.md",
+      "title": "A reporter tried the AI Instagram wants to use to verify age. Here’s what it found",
+      "excerpt": "It comes less than a year after disclosures from a Facebook whistleblower raised ... and director of the school’s Face Aging Group Research Lab, thinks Yoti’s technology is a good application of AI. “It’s a worthwhile endeavor to try and protect ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.egyptindependent.com/a-reporter-tried-the-ai-instagram-wants-to-use-to-verify-age-heres-what-it-found/",
+      "originalUrl": "https://www.egyptindependent.com/a-reporter-tried-the-ai-instagram-wants-to-use-to-verify-age-heres-what-it-found/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amayei.nyc3.digitaloceanspaces.com/2022/06/220624020303-01-instagram-ai-age-estimation-face-scan-restricted-exlarge-169.jpg",
+          "width": 780,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T01:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Egypt Independent",
+        "domain": "egyptindependent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-instagrams-new-ai-tool-for-age-verification.md",
+      "title": "Instagram’s New AI Tool for Age-Verification",
+      "excerpt": "Instagram is testing various new ways for age verification of its youngest users. Yoti’s AI tool is one of them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techthirsty.com/instagrams-new-ai-tool-for-age-verification/",
+      "originalUrl": "https://www.techthirsty.com/instagrams-new-ai-tool-for-age-verification/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techthirsty.com/wp-content/uploads/2022/06/Instagrams-New-AI-Tool-for-Age-Verification-1-640x356.jpg",
+          "width": 640,
+          "height": 356,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techthirsty.com/instagrams-new-ai-tool-for-age-verification/?amp=1",
+      "cdnAmpWebUrl": "https://www-techthirsty-com.cdn.ampproject.org/c/s/www.techthirsty.com/instagrams-new-ai-tool-for-age-verification/?amp=1",
+      "publishedDateTime": "2022-06-28T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tech Thirsty",
+        "domain": "techthirsty.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-28-cloud-computing-market-size-projected-to-hit-usd-79128-billion-by-2028.md",
       "title": "Cloud Computing Market Size Projected To Hit USD 791.28 billion By 2028",
       "excerpt": "The Global“Cloud Computing Market Size” 2022 researchreport is a compilation of first-hand information, qualitative",
@@ -1059,100 +1145,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-googles-powerful-ai-spotlights-a-human-cognitive-glitch.md",
-      "title": "Google’s powerful AI spotlights a human cognitive glitch",
-      "excerpt": "Because of a persistent tendency to associate fluent expression with fluent thought, it is natural – but potentially misleading – to think that if an AI model can express itself fluently ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2022/06/googles-powerful-ai-spotlights-a-human-cognitive-glitch/",
-      "originalUrl": "https://arstechnica.com/science/2022/06/googles-powerful-ai-spotlights-a-human-cognitive-glitch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/typewriter-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-iphone-5-to-get-3d-camera-with-face-and-object-recognition.md",
-      "title": "iPhone 5 to get 3D camera with face and object recognition",
-      "excerpt": "This 3D camera set-up for iOS could also include features like face and gesture recognition so that your iPhone recognizes smiling and frowning. Capturing 3D video of an object, or taking 3D photos while it’s rotating, means that in theory we will also ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.stuff.tv/news/iphone-5-get-3d-camera-face-and-object-recognition/",
-      "originalUrl": "https://www.stuff.tv/news/iphone-5-get-3d-camera-face-and-object-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.stuff.tv/wp-content/uploads/sites/2/2021/08/iPhone-5-3D-camera-recognition_0-1.jpg",
-          "width": 500,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.stuff.tv/news/iphone-5-get-3d-camera-face-and-object-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-stuff-tv.cdn.ampproject.org/c/s/www.stuff.tv/news/iphone-5-get-3d-camera-face-and-object-recognition/amp/",
-      "publishedDateTime": "2022-06-27T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stuff",
-        "domain": "stuff.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

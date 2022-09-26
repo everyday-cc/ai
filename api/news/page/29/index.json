@@ -2,6 +2,83 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2022-08-31-how-france-is-preparing-for-a-future-of-driverless-vehicles.md",
+      "title": "How France is preparing for a future of driverless vehicles",
+      "excerpt": "The update to the French legal framework will be important for future driverless cars, though. In case of an accident, if the autonomous driving system of the car is activated, the “driver ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thelocal.fr/20220831/how-france-is-preparing-for-a-future-of-driverless-vehicles/",
+      "originalUrl": "https://www.thelocal.fr/20220831/how-france-is-preparing-for-a-future-of-driverless-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Local",
+        "domain": "thelocal.fr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots.md",
+      "title": "Jio Haptik collaborates with Microsoft Azure to enhance Hindi chatbots",
+      "excerpt": "The company claims that it has facilitated over 2 million conversations on Jio Mobility with an 80 per cent reduction in human interventions and a 2.5 times increase in localised queries. Jio Haptik at present supports conversation in 130 languages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcquest.com/jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots/",
+      "originalUrl": "https://www.pcquest.com/jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcquest.com/wp-content/uploads/2018/04/chatbots.jpg",
+          "width": 750,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcquest.com/jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots/amp/",
+      "cdnAmpWebUrl": "https://www-pcquest-com.cdn.ampproject.org/c/s/www.pcquest.com/jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots/amp/",
+      "publishedDateTime": "2022-08-31T03:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCQuest",
+        "domain": "pcquest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-31-mi5-reveals-it-has-been-working-with-an-ai-non-profit-on-national-security-since-2017.md",
       "title": "MI5 reveals it has been working with an AI non-profit on national security since 2017",
       "excerpt": "The security service has been working with The Alan Turing Institute and has decided to unveil the partnership today to allow the pair to work more closely together",
@@ -1003,83 +1080,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-labor-day-is-over-but-you-can-still-get-these-labor-day-robot-vacuum-deals-on-irobot-roomba-samsung-roborock-and-more.md",
-      "title": "Labor Day is over, but you can still get these Labor Day robot vacuum deals on iRobot Roomba, Samsung, Roborock and more",
-      "excerpt": "Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch your robot vacuum operate no matter where you are, using Samsung's SmartThings App. The Jet Bot AI+ ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/robot-vacuum-deals-labor-day-2022/",
-      "originalUrl": "https://www.cbsnews.com/essentials/robot-vacuum-deals-labor-day-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-waymo-opens-driverless-robotaxi-service-in-phoenix-to-locals-who-cant-share-experiences-online.md",
-      "title": "Waymo opens driverless robotaxi service in Phoenix to locals who can't share experiences online",
-      "excerpt": "Waymo is rolling out its driverless robotaxi service in Phoenix for members of the Alphabet-owned company's 'trusted tester' program - but users can't share their experience on social media and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11161047/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11161047/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/08/30/17/61875391-0-image-a-10_1661876995094.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-11161047/amp/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11161047/amp/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html",
-      "publishedDateTime": "2022-08-30T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },
