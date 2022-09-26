@@ -7,8 +7,8 @@ originalUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/
 webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21251092/electronic-design-nvidias-lovelace-gpu-upgrades-graphics-with-ai"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Electronic Design
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA gives updates on new GPU technologies at GTC conference"
-    excerpt: "It announced the GeForce RTX 40 Series GPUs, which are powered by the company’s new Ada Lovelace architecture."
-    publishedDateTime: 2022-09-21T20:43:00Z
-    webUrl: "https://sdtimes.com/ai/nvidia-gives-updates-on-new-gpu-technologies-at-gtc-conference/"
+  - title: "Industrial edge AI system supports two NVIDIA GeForce RTX 3090 GPU cards"
+    excerpt: "Axiomtek is introducing the IPC972, its new industrial edge AI system with dual GPU support. The highly expandable edge computer supports the Intel Xeon or 10th gen Intel Core i7/i5/i3 processor (code name: Comet Lake S) with the Intel W480E chipset."
+    publishedDateTime: 2022-09-24T17:42:00Z
+    webUrl: "https://www.eeworldonline.com/industrial-edge-ai-system-supports-two-nvidia-geforce-rtx-3090-gpu-cards/"
     type: article
     provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 69
+      name: eeworldonline
+      domain: eeworldonline.com
+    quality: 53
     images:
-      - url: "https://sdtimes.com/wp-content/uploads/2022/09/gtc22-fall-web-keynote-blog-image-jhh-rtx4090-1280x680-r2-1.jpg"
-        width: 1280
-        height: 680
+      - url: "https://www.eeworldonline.com/wp-content/uploads/2022/09/unnamed-3.jpg"
+        width: 500
+        height: 287
         isCached: true
   - title: "Nvidia launches all-new H100 Tensor Core GPU"
     excerpt: "Built on the Hopper architecture, the all-new Nvidia H100 Tensor Core GPU brings performance, functionality and AI compatibility to devices. Nvidia has recently launched its new H100 GPU. Based entirely on the Hopper architecture and featuring more than 8 ..."
@@ -53,19 +53,19 @@ related:
         width: 1500
         height: 800
         isCached: true
-  - title: "Supermicro Announces NVIDIA H100 GPU Systems"
-    excerpt: "Super Micro Computer, Inc. (SMCI), a enterprise computing, GPUs, storage, networking solutions and green computing technology company, announced 20 NVIDIA-certified systems options with NVIDIA H100 PCI-E and NVIDIA H100 SXM GPUs,"
-    publishedDateTime: 2022-09-21T19:21:00Z
-    webUrl: "https://insidehpc.com/2022/09/supermicro-announces-nvidia-h100-gpu-systems/"
+  - title: "Nvidia looks to bypass US ban with alternative GPU products for Chinese clients"
+    excerpt: "Nvidia will provide alternative GPU products to Chinese clients as many of them face supply issues under US new export bans."
+    publishedDateTime: 2022-09-22T08:55:00Z
+    webUrl: "https://technode.com/2022/09/22/nvidia-looks-to-bypass-us-ban-with-alternative-gpu-products-for-chinese-clients/"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
+      name: TechNode
+      domain: technode.com
+    quality: 35
     images:
-      - url: "https://insidehpc.com/wp-content/uploads/2022/08/generic-machine-learning-AI-deep-learning-data-shutterstock-583242211.jpg"
-        width: 690
-        height: 460
+      - url: "https://technode.com/wp-content/uploads/2022/09/hopper-arch-h100-sxm-2.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "/cuSOR1qTkn7flexOB+ry9hL7dNDKyGzw8QQGoMk6XR0s0XEGBAW4bq3xZGieIa2lPvVLefcTeN1ZkjsCZykwOoPsj+WBP7IxTKiWgBrFVeLHR31yfhr/NwndUvygox+wSw8PUQ0Wqml2wmySPKcLN6E8ESA3101KGuX48H2N91fiDWzpugP0HuFIGer3ZGmpYGYFDtch1YL0tBoeXdE3GTaBxERaxW4IMhJk9TeQ002bFrwxyzfyTpXyTIq177a8TtMSlYaPlMiB3qKDy9W8vLNhG4ek7B0xQWg0cmqzziqXb+5ZIx/lfw2Aq71ZGVX+LZeMtm51xAaqwtItL9xgDhyyK8jh64288SJBdlOZKpNmi82FttpKvMUhdNGOm1q6TVrBiK+Le33mZgpA/d31Vt2hiAaOgaUNyeEl9ktal1MvhmYTgFeK6tvgczcaUF4xCU51xkLXAcgKCYUf5QkW5EEuP0LdjiOt72sYy/yFVuHWt7aJFbkzVZme5JDaFFXFpNWqkaZAi8ISiJXLWkNYw==;eejvzJPfmpxGzjXYGl8ITw=="

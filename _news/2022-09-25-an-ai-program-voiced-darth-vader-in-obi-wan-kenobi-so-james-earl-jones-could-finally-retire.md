@@ -7,8 +7,8 @@ originalUrl: "https://www.engadget.com/james-earl-jones-retires-darth-vader-ai-2
 webUrl: "https://www.engadget.com/james-earl-jones-retires-darth-vader-ai-201559553.html"
 type: article
 quality: 56
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: Engadget
@@ -28,6 +28,34 @@ images:
     isCached: true
 
 related:
+  - title: "James Earl Jones signed Darth Vader voice rights to Disney for AI use"
+    excerpt: "During the creation of the Obi-Wan Kenobi TV series, James Earl Jones signed off on allowing Disney to replicate his vocal performance as Darth Vader in future projects using an AI voice modeling tool called Respeecher,"
+    publishedDateTime: 2022-09-26T15:21:00Z
+    webUrl: "https://arstechnica.com/information-technology/2022/09/james-earl-jones-signed-darth-vader-voice-rights-to-disney-for-ai-use/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/darth_vader_pixels_1-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "Ukrainian AI Takes Over Darth Vader Voice From James Earl Jones"
+    excerpt: "James Earl Jones, voice of Star Wars' Darth Vader for nearly 50 years, is relinquishing his role to synthetic speech technology. According to Vanity Fair (Opens in a new window),"
+    publishedDateTime: 2022-09-26T15:27:00Z
+    webUrl: "https://www.pcmag.com/news/ukrainian-ai-takes-over-darth-vader-voice-from-james-earl-jones"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/06dTkkxaOH7LAfCoUcowmgy-1.fit_lim.size_1200x630.v1664191719.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "James Earl Jones gives rights to Darth Vader voice to Ukrainian AI company"
     excerpt: "The 91-year-old actor, who has voiced Vader since the franchise’s first film, “Star Wars: A New Hope,” in 1977, signed over the rights to his vocal chops earlier this year."
     publishedDateTime: 2022-09-25T00:29:00Z

@@ -24,6 +24,34 @@ images:
     isCached: true
 
 related:
+  - title: "James Earl Jones signed Darth Vader voice rights to Disney for AI use"
+    excerpt: "During the creation of the Obi-Wan Kenobi TV series, James Earl Jones signed off on allowing Disney to replicate his vocal performance as Darth Vader in future projects using an AI voice modeling tool called Respeecher,"
+    publishedDateTime: 2022-09-26T15:21:00Z
+    webUrl: "https://arstechnica.com/information-technology/2022/09/james-earl-jones-signed-darth-vader-voice-rights-to-disney-for-ai-use/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/darth_vader_pixels_1-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "Ukrainian AI Takes Over Darth Vader Voice From James Earl Jones"
+    excerpt: "James Earl Jones, voice of Star Wars' Darth Vader for nearly 50 years, is relinquishing his role to synthetic speech technology. According to Vanity Fair (Opens in a new window),"
+    publishedDateTime: 2022-09-26T15:27:00Z
+    webUrl: "https://www.pcmag.com/news/ukrainian-ai-takes-over-darth-vader-voice-from-james-earl-jones"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/06dTkkxaOH7LAfCoUcowmgy-1.fit_lim.size_1200x630.v1664191719.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "An AI program voiced Darth Vader in ‘Obi-Wan Kenobi’ so James Earl Jones could finally retire"
     excerpt: "After 45 years of voicing one of the most iconic characters in cinema history, James Earl Jones has said goodbye to Darth Vader.."
     publishedDateTime: 2022-09-24T20:49:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-26T12:46:00Z
 originalUrl: "https://analyticsindiamag.com/is-ai-ethics-just-an-eyewash/"
 webUrl: "https://analyticsindiamag.com/is-ai-ethics-just-an-eyewash/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Analytics India Magazine

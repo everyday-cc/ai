@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/large-scale-revenue-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/large-scale-revenue-forecasting-at-bosch-with-amazon-forecast-and-amazon-sagemaker-custom-models/"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 1260
     height: 630
     isCached: true
-
-related:
-  - title: "Salesforce Genie brings data sharing to Amazon SageMaker and Einstein"
-    excerpt: "The Genie announcement will likely lead to similar partnerships, as other companies look to take advantage of Salesforce data in their workflows."
-    publishedDateTime: 2022-09-21T21:37:00Z
-    webUrl: "https://techcrunch.com/2022/09/21/salesforce-genie-brings-data-sharing-to-amazon-sagemaker-and-einstein/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 49
 
 secured: "5huE6Tf/8r2Dj8adiRhXR1FdP8InxQlXyYiArBoo4OJ2KkGmjIafekbOG0xvZUq9njaeRGMllXId1Y1/xxHk86nKwxKID38NsIXHdnxk/6ZSYRX7BK4dUAeEro4IRHVWELNs73JQF194QgtU+BS/+QNKX7OJ1qLr/qW/JQFggzIVGivJT2tkIHD4LgMtKARuQyrBoHu3O7QfQLkpZugaUvepzkKEi/OYqvC+U5CMKDc5VSWxZ5Jgpknqg7Ig7beHiF2HFJK6cLEK80SjsQe0JMUKjg4KweWgDVABN9BC5IDb4+uI57AvfNSLZSLjGmy5W1dzMWgGV6gHBnX8TMBNw0Pd8wugLWhxxDO+ON6Lffo=;2vDeaNUE+/B6su6VPUaq/g=="
 ---

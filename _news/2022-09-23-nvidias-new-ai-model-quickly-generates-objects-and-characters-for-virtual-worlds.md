@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/nvidia-ai-model-get3d-virtual-worlds-obje
 webUrl: "https://www.engadget.com/nvidia-ai-model-get3d-virtual-worlds-objects-130021127.html"
 type: article
 quality: 64
-heat: 74
+heat: 94
 published: true
 
 provider:
@@ -29,6 +29,26 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia puts AI at center of latest GeForce graphics card upgrade"
+    excerpt: "Code-named Ada Lovelace, the new architecture underpins the company’s GeForce RTX 40 series of graphics cards, unveiled by co-founder and CEO Jensen Huang at an online event Tuesday. The top-of-the-line RTX 4090 will cost $1,"
+    publishedDateTime: 2022-09-26T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/nvidia-puts-ai-at-center-of-latest-geforce-graphics-card-upgrade/"
+    ampWebUrl: "https://www.seattletimes.com/business/nvidia-puts-ai-at-center-of-latest-geforce-graphics-card-upgrade/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/nvidia-puts-ai-at-center-of-latest-geforce-graphics-card-upgrade/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
+  - title: "The DeanBeat: Nvidia CEO Jensen Huang says AI will auto-populate the 3D imagery of the metaverse"
+    excerpt: "It takes AI kinds to make a virtual world. Nvidia CEO Jensen Huang said this week during a Q&A at the GTC22 online event that AI will auto-populate the 3D imagery of the metaverse. He believes that AI will make the first pass at creating the 3D objects that populate the vast virtual worlds of the metaverse — and then human creators will take over and refine them to their liking."
+    publishedDateTime: 2022-09-23T13:00:00Z
+    webUrl: "https://venturebeat.com/games/the-deanbeat-nvidia-ceo-jensen-huang-says-ai-will-auto-populate-the-3d-imagery-of-the-metaverse/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 34
   - title: "Nvidia unveils next-gen RTX GPUs, AI workflows in the cloud"
     excerpt: "New cloud services to support AI workflows and the launch of a new generation of GeForce RTX GPUs featured yesterday in Nvidia CEO Jensen Huang’s GTC keynote. “Computing is advancing at incredible speeds,"
     publishedDateTime: 2022-09-22T09:48:00Z

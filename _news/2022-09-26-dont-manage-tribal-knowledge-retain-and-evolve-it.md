@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-26T13:33:00Z
 originalUrl: "https://www.hrdive.com/spons/dont-manage-tribal-knowledge-retain-and-evolve-it/632465/"
 webUrl: "https://www.hrdive.com/spons/dont-manage-tribal-knowledge-retain-and-evolve-it/632465/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: HR Dive

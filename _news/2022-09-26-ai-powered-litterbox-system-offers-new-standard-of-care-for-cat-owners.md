@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-26T10:57:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-litterbox-system-offers-new-standard-of-care-for-cat-owners-1031764153"
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-litterbox-system-offers-new-standard-of-care-for-cat-owners-1031764153"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:

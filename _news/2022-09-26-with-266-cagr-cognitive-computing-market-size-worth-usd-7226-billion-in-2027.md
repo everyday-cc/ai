@@ -8,7 +8,7 @@ webUrl: "https://www.benzinga.com/pressreleases/22/09/g29005672/with-26-6-cagr-c
 ampWebUrl: "https://www.benzinga.com/amp/content/29005672"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29005672"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
 related:
   - title: "Mobile Robotics Market Size to Surpass USD 25.3 Billion at a 21.40% CAGR by 2030 - Report by Market Research Future (MRFR)"

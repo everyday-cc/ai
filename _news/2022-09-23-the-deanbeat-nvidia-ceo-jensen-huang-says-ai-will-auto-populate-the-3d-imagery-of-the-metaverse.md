@@ -22,22 +22,40 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia CEO Jensen Huang: AI language models as-a-service \"potentially one of the largest software opportunities ever\""
-    excerpt: "Nvidia co-founder and CEO Jensen Huang opened his company's fall GTC conference with numerous product and service announcements, including the introduction of two cloud computing services the company will operate."
-    publishedDateTime: 2022-09-21T21:43:00Z
-    webUrl: "https://www.zdnet.com/article/nvidia-ceo-jensen-huang-ai-language-models-as-a-service-potentially-one-of-the-largest-software-opportunities-ever/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-ceo-jensen-huang-ai-language-models-as-a-service-potentially-one-of-the-largest-software-opportunities-ever/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-ceo-jensen-huang-ai-language-models-as-a-service-potentially-one-of-the-largest-software-opportunities-ever/"
+  - title: "NVIDIA's new AI model quickly generates objects and characters for virtual worlds"
+    excerpt: "NVIDIA is looking to take the sting out of creating virtual 3D worlds with a new artificial intelligence model. GET3D can generate characters, buildings, vehicles and other types of 3D objects, NVIDIA says."
+    publishedDateTime: 2022-09-23T13:33:00Z
+    webUrl: "https://www.engadget.com/nvidia-ai-model-get3d-virtual-worlds-objects-130021127.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 66
+      name: Engadget
+      domain: engadget.com
+    quality: 64
     images:
-      - url: "https://www.zdnet.com/a/img/resize/f2739fe30ad9f14692989d133ecac97705c65ada/2022/09/20/bce66508-0423-492b-bfd3-e70685a1a807/jensen-huang-gtc-2022-crop-for-twitter.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 802
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-09/429930e0-3a94-11ed-afeb-8a9da43fae5d"
+        width: 1280
+        height: 680
         isCached: true
+  - title: "Nvidia puts AI at center of latest GeForce graphics card upgrade"
+    excerpt: "Code-named Ada Lovelace, the new architecture underpins the company’s GeForce RTX 40 series of graphics cards, unveiled by co-founder and CEO Jensen Huang at an online event Tuesday. The top-of-the-line RTX 4090 will cost $1,"
+    publishedDateTime: 2022-09-26T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/nvidia-puts-ai-at-center-of-latest-geforce-graphics-card-upgrade/"
+    ampWebUrl: "https://www.seattletimes.com/business/nvidia-puts-ai-at-center-of-latest-geforce-graphics-card-upgrade/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/nvidia-puts-ai-at-center-of-latest-geforce-graphics-card-upgrade/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
+  - title: "Nvidia unveils next-gen RTX GPUs, AI workflows in the cloud"
+    excerpt: "New cloud services to support AI workflows and the launch of a new generation of GeForce RTX GPUs featured yesterday in Nvidia CEO Jensen Huang’s GTC keynote. “Computing is advancing at incredible speeds,"
+    publishedDateTime: 2022-09-22T09:48:00Z
+    webUrl: "https://it-online.co.za/2022/09/22/nvidia-unveils-next-gen-rtx-gpus-ai-workflows-in-the-cloud/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 21
 
 secured: "z5MrWU7J40yDQFite/s+TVSXZyRASHDln/itXtzM3BTqWT03zPb8GGL/m6GXg+NIo+ZPINSBQCgPz9PZ41DHXGmMNih9u2LmqoLBp093QTcEkxpdPxVNrmP+3z5WTvXb1BEsy47FqrUsMlQe4kue4kyZiaT3D8cVrLRow7x58AibTGwo7qq9cLcNiqcYHpFsnyC4bMCihEhxFVez2V01sz9XDlEfNX3S3IDWeDlMDUTfoW4+yJv4vqLR9Q3cLvw8ZlUQUMuUdLj3bafgggVsM6qJXb5zqZ6Nq9hDuZvnBaur8FOS4XTVXYgzUu6S+5lGUFwDhDUIwYriEo1YosMmCaGHl6S1zsVw/jU5ZLo6CTSW7UUR+2tonoMlZ72wlIUhxLBTyHYWfKQmH4WheZBDI19Nr4Tm4/nyf014/Curcbkt1pwkYnmHXFAKGNcIK8Hu3tRT66MdJ1xIXe1uXfirF9NeG1f6nUNbDJc1sasc/3F5VS2ldWpC7Y4E7GQfJW5Ds9RqRLSrFBb8Wq7RRV6GUg==;1X6pEPnxDgoFLxtf+fIBHA=="
 ---

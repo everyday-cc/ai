@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-26T13:35:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/accwirecq-2022-9-26-ags-health-launches-artificial-intelligence-platform-for-end-to-end-revenue-cycle-management"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/accwirecq-2022-9-26-ags-health-launches-artificial-intelligence-platform-for-end-to-end-revenue-cycle-management"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Daily Herald

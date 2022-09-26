@@ -59,7 +59,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 19
+    quality: 21
   - title: "Machine Vision Market Size To Reach USD 11380 Million By 2028 At A CAGR of 4.0% - Valuates Reports"
     excerpt: "Major Factors Driving The Growth Of The Machine Vision Market are. The Machine Vision market is projected to be driven by the rising need for automation and quality inspection acr"
     publishedDateTime: 2022-09-23T16:00:00Z

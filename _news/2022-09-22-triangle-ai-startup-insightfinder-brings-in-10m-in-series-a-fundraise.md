@@ -9,7 +9,7 @@ ampWebUrl: "https://wraltechwire.com/2022/09/22/triangle-ai-startup-insightfinde
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/09/22/triangle-ai-startup-insightfinder-brings-in-10m-in-series-a-fundraise/?amp=1"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 960
     height: 540
     isCached: true
-
-related:
-  - title: "Synthetic Speech Startup Murf AI Raises $10M in Series A"
-    excerpt: "Murf AI today announced a $10M Series A funding round led by Matrix Partners India with participation from existing investor Elevation"
-    publishedDateTime: 2022-09-21T20:26:00Z
-    webUrl: "https://www.datanami.com/this-just-in/synthetic-speech-startup-murf-ai-raises-10m-in-series-a/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 17
 
 secured: "8CnBhXQmo+x8fEZ9wMbB4mKBjOgwMuYfVbFmD0N6vpXWwJgtuGkjnm7k7URlvui6AWf3WCAjyKiPEDgbv54VetKajEomzHGaZbbhraWSjKWCn4ycF6656PbeAVd4xueYkbbBFbK2sixgKODJ0s4wcWLsb3+a38STvf3muVoiYrjYDLQdG4vMgQh3/dQ7bHa+XhBNqSSk9rF1Un12rNkFbKbwhp6ZaFJROUcpWx1kcys6FcUzOjkUSojI4hcPwM3FlUqwMMXYa0st+KfGslh5eC+u+BoZ+W9i52dsGLGTo7LgWFUh9L6H293LQJhteVQB2mqNLCDQodvZubEgVSeHizaj/S9N//rBNwuYyicr6HM=;Fb5bUm2ynsQ58TqcMsUILw=="
 ---

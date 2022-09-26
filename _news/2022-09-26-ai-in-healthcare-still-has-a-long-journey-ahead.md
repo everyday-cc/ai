@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/saibala/2022/09/25/ai-in-healthcare-sti
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2022/09/25/ai-in-healthcare-still-has-a-long-journey-ahead/amp/"
 type: article
 quality: 104
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "7 AI-based healthcare apps that save people"
+    excerpt: "IBM Watson, a digital tool to fight cancer. The launch of this program was the first-ever use of AI for medical purposes. Since then, science has stepped forward, and new AI-based healthcare apps regularly appear."
+    publishedDateTime: 2022-09-26T12:43:00Z
+    webUrl: "https://www.healthleadersmedia.com/innovation/7-ai-based-healthcare-apps-save-people"
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 36
 
 secured: "gkhdULcTBvb5JuGwGdfUP9DuoAZHTZWJS2rNdPDFViKInXzbEnAU5hW8yXthxKPiv+esWXwJ9OXPvR7/fQlI9AGhlopFq0uJJybnXS07t50XueK7xI48AI/roYAsgp7gYyVPxthjdxQVkHODurn15NEh1DdL/zWsSeKsPDKr1DqcRI0faSlr4DkaeyFkpqdpttUJFdIi4hHqUusJweIYhHb1wKK8nPZPvmH5W+6BF+IxUKnJDSXIJ8Hgx3hbHPZBVk+PeB52mN45A/4XXPzLAqblD1F7NMBmMRICvoZwkPLtD4xYpOLRAIu+bcr5xNhB98fcpODK8zp3O0wTwDI/JpqstFsF7h4Z86eFhKVtftGmqpGuLEjWSSPSudz7Dm4Lm8evm3lBzy/ztLFzk8g0NRqGisNw48g3imWcCzIfbkKvUuc8d+z3h8V1yH5Jedmd7elWJCBT72cb4QIZ1Fkc+RZD/8M2TplYU5lu5zd4BEKKlF1eKLcXkMDISmxkeUdIhXN/Zk+6cFaJvJHEXsbBmw==;7nKcucuoSl+VtqvSkrc0WQ=="
 ---

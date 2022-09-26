@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-26T13:27:00Z
 originalUrl: "https://www.bevindustry.com/articles/95320-warehouse-operations-turning-to-robotics-to-tackle-labor-challenges"
 webUrl: "https://www.bevindustry.com/articles/95320-warehouse-operations-turning-to-robotics-to-tackle-labor-challenges"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: BevIndustry

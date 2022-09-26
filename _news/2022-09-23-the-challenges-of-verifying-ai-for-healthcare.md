@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "7 AI-based healthcare apps that save people"
+    excerpt: "IBM Watson, a digital tool to fight cancer. The launch of this program was the first-ever use of AI for medical purposes. Since then, science has stepped forward, and new AI-based healthcare apps regularly appear."
+    publishedDateTime: 2022-09-26T12:43:00Z
+    webUrl: "https://www.healthleadersmedia.com/innovation/7-ai-based-healthcare-apps-save-people"
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 36
 
 secured: "o3ufwo8BLqh3n4wHCSFq3ubGMy5I26/+CBpa1t7ySm0L2ZNOhlZ39NWXZaVMr3XBkq3LsEaZnEoJMg3ZW51BC33Oy+/aJbgbVajdKT9wlJyUmqHxp28WcGAJKg49hm0do2b9kE7PAszVgoscMwymgAcWjELBfKwTiYoYbnZDLhidGatD/Fcbw+bCwC77p+awrZWEkmCdPzwYnGBtbT6RnVzwotEiIzbk6jmxmGu0gc07Rlvk8PppeYtvcA1C8x7syLk2YtbCAxp+uSnLbi1dgPyL8IEiNqDOl05PjMywMHwD58uAjYB+/HMl9shSN01f9FNWEhiky+mhf0WPkZlLxSR2m6ITWmINClA6xPipOIazqr1+D6AV1Ns4In0S59+QsfhL9PLPrDuzqZ/MQt3/HPoijwJXEVG09Lfp4wr0p2hWOymnJQYgMGU3IMtB/1D1KKv48vaXQzzLThY+owVTxvByC8iVAjh/xPes0sxE/+RS0Y5BOMiRvdol8flR6SmRwleMTX3kEUkf8kF7HopSwA==;NdwBuHsufmCgPdZSrbo8pQ=="
 ---

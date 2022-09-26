@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-26T12:10:00Z
 originalUrl: "https://venturebeat.com/ai/bluesky-helps-curb-machine-learning-costs-with-cost-governance-algorithms/"
 webUrl: "https://venturebeat.com/ai/bluesky-helps-curb-machine-learning-costs-with-cost-governance-algorithms/"
 type: article
+quality: 48
+heat: 48
+published: false
 
 provider:
   name: VentureBeat

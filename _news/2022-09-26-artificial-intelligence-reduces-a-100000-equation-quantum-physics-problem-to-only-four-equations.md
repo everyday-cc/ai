@@ -1,20 +1,30 @@
 ---
 category: news
 title: "Artificial intelligence reduces a 100,000-equation quantum physics problem to only four equations"
-excerpt: "Researchers at the Flatiron Institute and their colleagues trained a machine learning tool to capture the physics of electrons with far fewer equations than would typically be required, all without sacrificing accuracy."
-publishedDateTime: 2022-09-26T13:04:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/965836"
-webUrl: "https://www.eurekalert.org/news-releases/965836"
+excerpt: "Using artificial intelligence, physicists have compressed a daunting quantum problem that until now required 100,000 equations into a bite-size task of as few as four equations—all without sacrificing accuracy."
+publishedDateTime: 2022-09-26T14:05:00Z
+originalUrl: "https://phys.org/news/2022-09-artificial-intelligence-equation-quantum-physics.html"
+webUrl: "https://phys.org/news/2022-09-artificial-intelligence-equation-quantum-physics.html"
+ampWebUrl: "https://phys.org/news/2022-09-artificial-intelligence-equation-quantum-physics.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-artificial-intelligence-equation-quantum-physics.amp"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
-  - Machine Learning
   - AI
 
-secured: "ful1yaoJG4rlBv26+MNvXCvyO4z/N3HjXy+CwMK67so3l7Iv6q+N+43nI94cT/9mWcHOxg4bhK8xGbz1YDGk8hvkoMpIZXE9+u4Pg6DbBj2OOd/cp2dsS9Z99o7sRaEhDZvYOyMtI4svzB+DWxfy/OGa5ytIO5K4eljIgpgA1O0XJPvNPGfFmaMGzpQQ50ipAquDIT+uELvf7a7iKjORTcI6Esf1XDfrlHJ5dXADi+Wb0uidntxCgwZMUorTQYqQnDKIbBj4V6QPPy/hM/4oJgcbY+5DH298D+s+tT/LD2N3DaCjFY4AAobqVqmJoC2znwR01+D+6tPaqk3I0FJeasmzOUoRjbQRIl86HSpQQy8/uRo3iJPOErKsrvULMJMS3T8fCA2HvRazjtKEtl6tXioZ2hvx+f/rEx0clpBKT1DoHikSK5iAKkuYyTijsXd6x2UJ4kf5vUNLdmwNOMLRbP/6Cg2GIUAEVgOLrGbwvANh/znwfDwcWrckfBVDf49sgY51xeffTlieDE2VVYIqwA==;njTg9uEjbS67CeWLTu4u9A=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-69.jpg"
+    width: 2008
+    height: 2008
+    isCached: true
+
+secured: "yllk9dlH5U+ZpI6xoQvCvlY0NY5g9FdXdV2sFnAaLNzVyaLtxv+MOaOtwuKHaHvYPoBWEed4qqGcCCJRKmCQcbwC0Y2/bkuyHupu7v3atjZDWH3TZ+jaMhNCJUHK9z8uCmO3hXUADEibW5hMurzdSNyqCrTs4RidDFWLV9qkNgXWokHsCoAUyYpnXgyHhhr8bREPozLhfBHoW9VtwfJYuC/rsPB2xdoHWWurjHRDIcXehGmcBdgNZLanwrjX80jpfc9mz9LI/HTOGNBrXuVsl6u+giFrQOBv2PszWbKFFLR3FWgUpQt2pM1X4pWei15OguVEisAevoua+mmC0lejgE3WmAertN5x8rMwmqjEles=;QoF/2OteELL3bA+RjUIr7g=="
 ---
 

@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Artificial Intelligence's Transformative Effect On The Gaming Industry"
+    excerpt: "AI can and will add value to gaming development strategy and allow developers to deepen engagement in their games."
+    publishedDateTime: 2022-09-26T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/09/26/artificial-intelligences-transformative-effect-on-the-gaming-industry/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+
 secured: "HqsLypaU3OiPWITfDRScxE3Bw0OqOqR1PQc0kzL5pSTKgRGCrhYfPaP/UfPTl964sfKvibwAklOiWg7gjCAQPk2QEvvybzxe43S9i8ExElwAiBQP7je90ftXHzLTQmpqopekmANbOechZz7dE+dl0V5N9uGTebnBXT9eTy9IW/VHlUknYK2hnlMv09LOXZ4jp2iYv0htQWBl9X4Yxm2Fky/8C+b+z+KWFMzYRoS+tUygRXtk+mI5Fe6mMlxrZ/Nj2TB5Fo/PvV0g2LYyrLz3D0LKIzh8mJD4fUFkFX9yl60INloWEm6WoVIL9BNKNMHT00D5ABv+guGUgcrj2B2zqNPIcGZh7dHucFkqRYKrv6AOp0ayRIGww5mKXJFlX1EFA0oFFHFGjtqeUqeYhbzv0LnYEwwqBAzVXf9pjRXxxfL61CY/yCZ8yenSj70wmxI2aiwvaOR75krUs3EtR+821RYgkQQu10Km2ieGmAiJ+1/6Sv7WreHjrBgIIeIl7OxLlKmN5UERzLpyS9j2Ehwf4g==;ToKbIfPTaBu7nLXUgBbRoA=="
 ---
 

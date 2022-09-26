@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-26T13:05:00Z
 originalUrl: "https://www.forbes.com/sites/bradtempleton/2022/09/26/why-dont-you-have-a-self-driving-car-yet--this-2-part-series-explains-the-big-remaining-problems/"
 webUrl: "https://www.forbes.com/sites/bradtempleton/2022/09/26/why-dont-you-have-a-self-driving-car-yet--this-2-part-series-explains-the-big-remaining-problems/"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Forbes

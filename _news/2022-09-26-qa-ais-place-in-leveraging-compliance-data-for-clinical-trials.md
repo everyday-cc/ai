@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-26T13:13:00Z
 originalUrl: "https://www.outsourcing-pharma.com/Article/2022/09/26/q-a-ai-s-place-in-leveraging-compliance-data-for-clinical-trials"
 webUrl: "https://www.outsourcing-pharma.com/Article/2022/09/26/q-a-ai-s-place-in-leveraging-compliance-data-for-clinical-trials"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Outsourcing-pharma

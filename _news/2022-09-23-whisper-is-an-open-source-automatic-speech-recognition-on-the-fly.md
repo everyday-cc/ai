@@ -69,20 +69,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Whisper, an open-source multilingual speech recognition system, is released by OpenAI"
-    excerpt: "Whisper, an automatic speech recognition system, was open-sourced by OpenAI today as an attempt to address this problem. The company claims that Whisper can perform “robust” transcription in multiple languages and translation from those languages into English."
-    publishedDateTime: 2022-09-21T20:02:00Z
-    webUrl: "https://bestgamingpro.com/whisper-an-open-source-multilingual-speech-recognition-system-is-released-by-openai/"
-    type: article
-    provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 47
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/09/OpenAI-open-sources-Whisper-a-multilingual-speech-recognition-system.png"
-        width: 600
-        height: 365
-        isCached: true
 
 secured: "sPl2dSa+e6HG9e+r+9TDQacCk2cO04DvS3p4pfhY0LBEm/wnwdjiTFyZLzw3f1/kv7r9lAX52psCpbMYH6FpfEHXpqXTqNijQh0T1gfgI4bLt9WPdf+0HRVuugu2CEyv1Rq7C9nov2lCj98BUOjDbpWWQDJ5H1TunckP7sVaA/pyTS1jivfeFaV9UQGFErdSULmIEPKC7d6AWiKhrrlvarGdA7nzd8lTYq85y0VFmQ9Mn20wmhCNkk0kQfidvhwdjANhGPaC6cjOcmCesoMoOFy8/ByYDyELu69DTXddhwfUnveJjq/HT47txYrETNBtVbSpxaihQJNzOBjtT3qXFDUGL6ZgSO9+gM11LUOcDyu5ZPLwhSx6Mx5ajgob+olkFSsTSLDie0ffkm1eKDTWfXc3iBHnksiAnOjLP/X7TpXKXpuDTaA88b7tJEFq1EzuSGL9jxrCapD4wqA8Bwlud2MoSb+cMyXaRyhsdPqn/Tbvj6avQmCNjiN2nee5ple/TiImX8Cv16rAH7uOnac+iw==;RaMzjbbcnIt2bImkpswMFQ=="
 ---

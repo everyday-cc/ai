@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-26T13:24:00Z
 originalUrl: "https://www.forbes.com/sites/qai/2022/09/26/federal-reserve-continues-interest-rate-hikes-and-housing-market-sees-spike-in-mortgage-rates-forbes-ai-newsletterseptember-24th/"
 webUrl: "https://www.forbes.com/sites/qai/2022/09/26/federal-reserve-continues-interest-rate-hikes-and-housing-market-sees-spike-in-mortgage-rates-forbes-ai-newsletterseptember-24th/"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Forbes

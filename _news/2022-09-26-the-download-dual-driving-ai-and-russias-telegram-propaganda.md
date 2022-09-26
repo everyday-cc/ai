@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-26T12:10:00Z
 originalUrl: "https://www.technologyreview.com/2022/09/26/1060040/download-dual-driving-ai-russia-telegram-propaganda/"
 webUrl: "https://www.technologyreview.com/2022/09/26/1060040/download-dual-driving-ai-russia-telegram-propaganda/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: MIT Technology Review

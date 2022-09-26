@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-26T07:20:00Z
 originalUrl: "https://www.computerweekly.com/news/252525358/How-AWS-is-tapping-the-groundswell-in-cloud-adoption"
 webUrl: "https://www.computerweekly.com/news/252525358/How-AWS-is-tapping-the-groundswell-in-cloud-adoption"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Computer Weekly

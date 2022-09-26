@@ -24,17 +24,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "Sopra Steria and Algoan Strengthen Their Partnership to Accelerate Financial Inclusion"
-    excerpt: "Sopra Steria, via Sopra Steria Ventures, has invested in Algoan, the leading French fintech in API-based credit scoring. Sopra Banking Software (SBS), a key technology partner to more than 1,500 financial institutions worldwide,"
-    publishedDateTime: 2022-09-21T21:39:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-21-sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
-
 secured: "xR3VwQEH71M3+OO0pPzdQeRN0nuMxuuvapugCbfeX8jCyTBL6etktLsM1Ybq4rpV19C+KiXOBcylbpvGvm24BOU0oGlaNQwNJPHFXZ/cfXallQP/Yv8QwCmmqmvJEVfdrYsV/+wBLKMdEg/AEl9u79lQKY3kmTvqK6fLdwEC/Zy95b2+V89luwmA128ziX7l2AebM+6rsi9AZ6q0blU2elqd2Gj7P5iFynB4/Ky1+Tdq4AmBkABv7+ar18r1NbHGTcgFUb8jcyVz5zbcfkkj9RWSrzo6kigSi6kOfeAze7pg0aWsroVw3vxxOAhbmEgrxKUhDMVs6GIYJ7gbLwIMrr+OVKRAcDsjq9yhuSK7Fgg=;Bgyyjh+g7smUdc625arZhw=="
 ---
 

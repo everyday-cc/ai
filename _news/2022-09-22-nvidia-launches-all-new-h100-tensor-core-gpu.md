@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA gives updates on new GPU technologies at GTC conference"
-    excerpt: "It announced the GeForce RTX 40 Series GPUs, which are powered by the company’s new Ada Lovelace architecture."
-    publishedDateTime: 2022-09-21T20:43:00Z
-    webUrl: "https://sdtimes.com/ai/nvidia-gives-updates-on-new-gpu-technologies-at-gtc-conference/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 69
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2022/09/gtc22-fall-web-keynote-blog-image-jhh-rtx4090-1280x680-r2-1.jpg"
-        width: 1280
-        height: 680
-        isCached: true
   - title: "NVIDIA's Lovelace GPU Upgrades Graphics with AI"
     excerpt: "A new flagship family of graphics chips developed by NVIDIA is powered by its next-generation Ada Lovelace architecture, which leverages artificial intelligence (AI) to create more realistic images in games."
     publishedDateTime: 2022-09-22T21:32:00Z
@@ -53,19 +39,33 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Supermicro Announces NVIDIA H100 GPU Systems"
-    excerpt: "Super Micro Computer, Inc. (SMCI), a enterprise computing, GPUs, storage, networking solutions and green computing technology company, announced 20 NVIDIA-certified systems options with NVIDIA H100 PCI-E and NVIDIA H100 SXM GPUs,"
-    publishedDateTime: 2022-09-21T19:21:00Z
-    webUrl: "https://insidehpc.com/2022/09/supermicro-announces-nvidia-h100-gpu-systems/"
+  - title: "Industrial edge AI system supports two NVIDIA GeForce RTX 3090 GPU cards"
+    excerpt: "Axiomtek is introducing the IPC972, its new industrial edge AI system with dual GPU support. The highly expandable edge computer supports the Intel Xeon or 10th gen Intel Core i7/i5/i3 processor (code name: Comet Lake S) with the Intel W480E chipset."
+    publishedDateTime: 2022-09-24T17:42:00Z
+    webUrl: "https://www.eeworldonline.com/industrial-edge-ai-system-supports-two-nvidia-geforce-rtx-3090-gpu-cards/"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
+      name: eeworldonline
+      domain: eeworldonline.com
+    quality: 53
     images:
-      - url: "https://insidehpc.com/wp-content/uploads/2022/08/generic-machine-learning-AI-deep-learning-data-shutterstock-583242211.jpg"
-        width: 690
-        height: 460
+      - url: "https://www.eeworldonline.com/wp-content/uploads/2022/09/unnamed-3.jpg"
+        width: 500
+        height: 287
+        isCached: true
+  - title: "Nvidia looks to bypass US ban with alternative GPU products for Chinese clients"
+    excerpt: "Nvidia will provide alternative GPU products to Chinese clients as many of them face supply issues under US new export bans."
+    publishedDateTime: 2022-09-22T08:55:00Z
+    webUrl: "https://technode.com/2022/09/22/nvidia-looks-to-bypass-us-ban-with-alternative-gpu-products-for-chinese-clients/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 35
+    images:
+      - url: "https://technode.com/wp-content/uploads/2022/09/hopper-arch-h100-sxm-2.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "pU7qXUn6uPDiJYTg/VkO7NQ7EhGO84Bl+eW2V94awKpJaNLkr09Z1Q0PS/AXxdooj8vIyp7Idi/FpJuBaYSdG9Js/mSDtlADswXJaEc2uRTdmMZ8G0fcRNyJSHQKny6BXMSCI6WvJ9Y/4BlJ5GLdMln61/FpfbLNOuJr9ugwW1shY4yFJI0i0VV+tW2Qvr7qZRvFqUIQpnoojZKvrpwvQ6u/NArQuamOMw/7gKtfCpIg08782T25CSNkGClKWrqfPssClxjaQuZbzMc/5KUj8e25Tsn8k47e4fxPSQYYXd7NCB+yKH7sGva5q0CCi0A7AqayQ7bQ7oV5ZaPxRiiLusquegMWFGBHU/prj+pNboQtkIsXooDp9l1DrhY8o/Xgh+cnKD2a4wiQZdycNbryQ3ykz9u9OgUPOuJB+XtPLP6PP0cMKlSLgPHXx7rkFREguZBwtbukpkv3ctjwLx0jtONQ/9YBKVuduxvjV0l65HmRdpDw0C9X1rcBZiURGWFRL8FliSxLq/M69ImURX/S4w==;EPcEdZdQo6qtib/oBBQhYA=="
