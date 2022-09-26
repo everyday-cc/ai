@@ -7,7 +7,7 @@ originalUrl: "https://sdtimes.com/ai/nvidia-gives-updates-on-new-gpu-technologie
 webUrl: "https://sdtimes.com/ai/nvidia-gives-updates-on-new-gpu-technologies-at-gtc-conference/"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -80,15 +80,6 @@ related:
         width: 690
         height: 460
         isCached: true
-  - title: "ASUS Servers Announce AI Developments at NVIDIA GTC"
-    excerpt: "ASUS, the leading IT company in server systems, server motherboards and workstations, today announced its presence at NVIDIA® GTC"
-    publishedDateTime: 2022-09-21T13:12:00Z
-    webUrl: "https://enterprisetalk.com/news/asus-servers-announce-ai-developments-at-nvidia-gtc/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 19
 
 secured: "Ozammrpp+4UzOoGgT0B3Wtv2CqoTini4WFAM72Xs7RDVXMnAoFlkjHCkYUbpU43NHB4TAju+czqvAw07W9pgs0yWPCd/rPY69iL6V+9Vohy/5GFNTxl8dpyQkPKeB8nlhjTPutSO3L1f6w2T62GZrfvQ7FvGn+S1jVCLMn94Qeo5lRGcKc+9Vv/iRCsdVNOIL7dWxNLpaBS5uVMtXIapcfKA9sBluQU7GVQ99u+/3qmtxzUXKARyz4BK0yb30n7Es04I8+Erpu99IwObINXUbH6G8x09tuWr1x7uf0cIXwJr0JLLADLrxlItWZlpVo5mf5IjbazSICF+xOZ45FWlwLKNleHbbyVzS0MIuW888T2wt669C8vK1V0fmx9G0fzcJLXO7hgIvP6QalesAFDnx76YRjHmLv+ET7fiCYVJC5AWp5Mc+qgpOyc7dDXJZ5Wh3plXdMKcrHGHbElsWAvcCPo1X9Ch3MKR0W3/mkQDz4pXilCmgUxu30XI9nr7FwHJBAskFRnqgGuYO+qz+WEIUg==;7uRK/b9yZzk6Dc4GstUykA=="
 ---

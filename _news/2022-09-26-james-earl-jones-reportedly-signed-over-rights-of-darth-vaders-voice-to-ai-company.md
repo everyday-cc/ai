@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "As war began, a Ukrainian AI startup provided Darth Vader’s voice – report"
+    excerpt: "In war-torn Ukraine, a startup called Respeecher provided the voice of Star Wars mega-villain Darth Vader in the new Obi-Wan Kenobi show on streaming platform Disney+, with its original voice actor – 91-year-old James Earl Jones – stepping back from the role,"
+    publishedDateTime: 2022-09-26T07:14:00Z
+    webUrl: "https://www.rappler.com/technology/ukraine-ai-respeecher-darth-vader-voice-obi-wan-kenobi/"
+    type: article
+    provider:
+      name: Rappler
+      domain: rappler.com
+    quality: 35
+    images:
+      - url: "https://www.rappler.com/tachyon/2022/09/obi-wan-kenobi-part-6-non-spoiler-stills-vader.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Disney replaces James Earl Jones's voice as Darth Vader with AI"
     excerpt: "Actor James Earl Jones will no longer be tapped to voice his iconic Star Wars character Darth Vader thanks to artificial intelligence."
     publishedDateTime: 2022-09-24T22:27:00Z

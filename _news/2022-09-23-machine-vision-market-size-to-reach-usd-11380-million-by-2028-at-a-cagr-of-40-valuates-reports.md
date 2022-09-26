@@ -37,21 +37,19 @@ related:
         width: 700
         height: 300
         isCached: true
-  - title: "System on Chip (SoC) Market Expected to Reach USD 214.8 Billion at a CAGR of 8.30% CAGR by 2030 - Report by Market Research Future (MRFR)"
-    excerpt: "According to a comprehensive research report by Market Research Future (MRFR), \"System-On-Chip Market Research Report, Type, Application— Forecast till 2030\", the market"
-    publishedDateTime: 2022-09-21T13:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28948486/system-on-chip-soc-market-expected-to-reach-usd-214-8-billion-at-a-cagr-of-8-30-cagr-by-2030-repor"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28948486"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28948486"
+  - title: "At 19.8% CAGR, Speech and Voice Recognition Market Size 2019-2026 | To Reach USD US $ 28.3 Billion"
+    excerpt: "Global “Speech and Voice Recognition Market Growth” report explores comprehensive and insightful information about"
+    publishedDateTime: 2022-09-23T05:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/at-198-cagr-speech-and-voice-recognition-market-size-2019-2026-to-reach-usd-us-283-billion-2022-09-23"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 26
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
     images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg"
-        width: 700
-        height: 300
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Machine Vision Market Size To Reach USD 11380 Million By 2028 At A CAGR of 4.0% - Valuates Reports"
     excerpt: "The global Machine Vision market size is projected to reach USD 11380 million by 2028, from USD 8374.8 million in 2021, at a CAGR of 4.0% during 2022-2028. Major Factors Driving T"

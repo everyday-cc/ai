@@ -69,22 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Emotion Detection and Recognition Market is Poised to Reach USD 53.2 Billion at a 39.20% CAGR by 2030 - Report by Market Research Future (MRFR)"
-    excerpt: "According to a comprehensive research report by Market Research Future (MRFR), \"Emotion Detection and Recognition Market, By Technology, Software Tool, Service,"
-    publishedDateTime: 2022-09-21T14:11:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28949366/emotion-detection-and-recognition-market-is-poised-to-reach-usd-53-2-billion-at-a-39-20-cagr-by-20"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28949366"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28949366"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 10
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg"
-        width: 700
-        height: 300
-        isCached: true
 
 secured: "8t2Sw1qV45upeeMrvdvG4OZ/qWb4/+h7K/ynWRO4f0oAJfbyo+9k2DsKmMvw//0mxmoV+4+CjDR++Jx6KM6mhcJnJw3ig8kEw1oth4ui6mUu+9Tq+/lhrV3HEi86LMe/i3CG8BKwgHdjZNrmn0UDH1S7wZOxvD2PxxXCT82nonAUWNhIoWtBxS/mfj9Oz/uQ+MiLMmG7xlGDtVCEKhyADj+1Tcomj0i7QmKc6YG+4zuX6OAoivFFR7a4cWfu50dKQttUnxQMnU/oBzXLuXsG27P3ZobOqBXcpb7vkkkWwg2yWs/hjiLHSkwcKP5eL9DKa78gzzQHRVbOZeeah5FCR7LTS/fRxC5OKZjFNozoJVU=;vgMA3S1W7dDjra20rr7QMA=="
 ---

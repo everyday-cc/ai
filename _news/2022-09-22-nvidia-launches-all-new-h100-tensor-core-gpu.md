@@ -76,15 +76,6 @@ related:
         width: 690
         height: 460
         isCached: true
-  - title: "ASUS Servers Announce AI Developments at NVIDIA GTC"
-    excerpt: "ASUS, the leading IT company in server systems, server motherboards and workstations, today announced its presence at NVIDIA® GTC"
-    publishedDateTime: 2022-09-21T13:12:00Z
-    webUrl: "https://enterprisetalk.com/news/asus-servers-announce-ai-developments-at-nvidia-gtc/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 19
 
 secured: "pU7qXUn6uPDiJYTg/VkO7NQ7EhGO84Bl+eW2V94awKpJaNLkr09Z1Q0PS/AXxdooj8vIyp7Idi/FpJuBaYSdG9Js/mSDtlADswXJaEc2uRTdmMZ8G0fcRNyJSHQKny6BXMSCI6WvJ9Y/4BlJ5GLdMln61/FpfbLNOuJr9ugwW1shY4yFJI0i0VV+tW2Qvr7qZRvFqUIQpnoojZKvrpwvQ6u/NArQuamOMw/7gKtfCpIg08782T25CSNkGClKWrqfPssClxjaQuZbzMc/5KUj8e25Tsn8k47e4fxPSQYYXd7NCB+yKH7sGva5q0CCi0A7AqayQ7bQ7oV5ZaPxRiiLusquegMWFGBHU/prj+pNboQtkIsXooDp9l1DrhY8o/Xgh+cnKD2a4wiQZdycNbryQ3ykz9u9OgUPOuJB+XtPLP6PP0cMKlSLgPHXx7rkFREguZBwtbukpkv3ctjwLx0jtONQ/9YBKVuduxvjV0l65HmRdpDw0C9X1rcBZiURGWFRL8FliSxLq/M69ImURX/S4w==;EPcEdZdQo6qtib/oBBQhYA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.fmiblog.com/2022/09/23/cloud-computing-market-value-to
 webUrl: "https://www.fmiblog.com/2022/09/23/cloud-computing-market-value-to-grow-by-almost-us-1-9-tn-during-2022-2032-fmi/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AWS AI
   - AI
-
-related:
-  - title: "Sales Intelligence Software Market is Expected to Escalate at a CAGR of 10.4% from 2022 to 2032 | FMI"
-    excerpt: "The sales intelligence software market is expected to grow at a CAGR of 10.4% between 2022 and 2032, from USD 3.1 billion to USD 8.4 billion. Because of increased investments by various companies in emerging technologies such as AI and machine learning,"
-    publishedDateTime: 2022-09-21T13:39:00Z
-    webUrl: "https://techbullion.com/sales-intelligence-software-market-is-expected-to-escalate-at-a-cagr-of-10-4-from-2022-to-2032-fmi/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 4
 
 secured: "PMkcIgaGZGm0wIvghwOe0QUdfUGOyAoq928kI0ZBW+RzSihj+t5eMYmJrFOPp2k6Az818eQZtKL4fSjpEaaiVs4lkTbumXaJvA4Uh8XI1VUUwEjZmdAqoWgzFswIdr+7e4S+WI0/7mVHjlYsdv23EwS7ULHlcSuTsbncZs3jJhXKNhUEHe8bkv4oTbhtjs7OIamMUDHl0L43R2vXWkWd/dboAinqh5Ns4ZJj7f7HgBjVaXgD8XTMFWxwp/Pw4z1N1bkpOODk+RNiXZygVs4uJGFqoItVuZeQt0hiS6xu1O09P+NtoDoel88fn3WTs7CylR9APBXfAGMbHlqWWKSjC9J/ht/76fB1VUCFML/9AsY=;8rnq5UBPIUis2HEHUN/SsQ=="
 ---

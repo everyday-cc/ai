@@ -2,28 +2,28 @@
 category: news
 title: "Salesforce deepens partnership with AWS"
 excerpt: "Salesforce has expanded its partnership with Amazon Web Services (AWS) to enable customers to build custom artificial intelligence (AI) models using Amazon SageMaker, AWS’s machine learning (ML) modeling service,"
-publishedDateTime: 2022-09-21T18:38:00Z
-originalUrl: "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955"
-webUrl: "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955"
-ampWebUrl: "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955?amp=1"
-cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955?amp=1"
+publishedDateTime: 2022-09-21T22:32:00Z
+originalUrl: "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110"
+webUrl: "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110"
+ampWebUrl: "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110?amp=1"
+cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110?amp=1"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
-  name: IT Business
-  domain: itbusiness.ca
+  name: IT World Canada
+  domain: itworldcanada.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://i.itbusiness.ca/wp-content/uploads/2022/09/GettyImages-1040557296.jpg"
-    width: 2000
-    height: 907
+  - url: "https://i.itworldcanada.com/wp-content/uploads/2022/09/GettyImages-1040557296-scaled.jpg"
+    width: 2560
+    height: 1161
     isCached: true
 
 related:
@@ -55,20 +55,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Salesforce brings data magic to Customer 360 with Genie"
-    excerpt: "David Schmaier, Salesforce president and Chief Product Officer described the launch of Salesforce Genie as “The most significant change to the Salesforce"
-    publishedDateTime: 2022-09-21T14:59:00Z
-    webUrl: "https://www.enterprisetimes.co.uk/2022/09/21/salesforce-brings-data-magic-to-customer-360-with-genie/"
-    type: article
-    provider:
-      name: enterprisetimes.co.uk
-      domain: enterprisetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2022/03/genie-353268_1280.jpg"
-        width: 728
-        height: 410
-        isCached: true
   - title: "Salesforce unveils new real-time data platform Genie"
     excerpt: "Salesforce has announced the arrival of Salesforce Genie, its new hyperscale data platform that creates real-time customer profiles to help businesses deliver personalized experiences. Detailing the platform at its Dreamforce 22 event,"
     publishedDateTime: 2022-09-22T10:42:00Z
@@ -98,6 +84,6 @@ related:
         height: 600
         isCached: true
 
-secured: "I4S/Ri4s8ewqNC567zLhBTvRYSjWYJQBM+ivlmBko8wS9wSqurjemp3JgI98OMsJJV0sfgA2GszYva82Se9+a4k4jx1SNJMtWGfAsTAjZK0fSjM5i/geL4dyv5qVgglU75V0IyCNzXOt4t8mWFToqfvRR0yFzDUmwXNWduMwjOiRwc7c+o70NLq3X7cD6yghnNxi9Dvt8rz2IQMZXXdERMC17Dmf8eQV3psjMEY+F1BTLQtDwJ/czO8C39/kRSeR9pXxjDiMXEYksUD+3wNuR0gm7Wn5kWfGvgulNmyx4FFBSR517zrwH3Hgftt+X2UvHcd+yB86fSadiCYoefIgarjVwTauWwo8nUMoL8a5UT0=;/ztCXT1Ea15SXHfIZdTZpg=="
+secured: "kH1Kb+kR8VCQUEdTT5/Ihwih5kI+/J9+ITRziQIelFk5orshrarXKVkeDzVTYMvSZb8u702nYQbMgnWmRmsiF0fmPTcfPI0zsHxTQnzBBPzbF73TAFpi6NZ74q3RFDKAItZStqnRRT0lRHGTF3RIVmYRH7mj5AYD5K4/V8EH7U6g6Ieu2HiA/0vdGGRA+1efqFe+mQtUAadSNmlW6Dbb6rSDW9LIzxgTAp6QGwQxUesWU3k9DzzVJKlYhh76B5NaZjHohF7X8gkXM8WQ6Fg+yEKBz6BPBTPv3or0N6hVpkHqmlz6Jl5OG3ZGBSY3F8qtaTuNTs+JO0lUGIoZ08PkAQyRxqjH9GLUqLijUAMq2Ck=;Wz2j8spOFYPRvUq5SboXHg=="
 ---
 

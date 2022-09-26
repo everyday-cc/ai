@@ -1,29 +1,25 @@
 ---
 category: news
-title: "CAC Corporation integrates CyberLink’s FaceMe Facial Recognition into the POS terminals of their Unmanned Ministop Store"
-excerpt: "CyberLink Corp., a pioneer of AI and facial recognition technologies, has collaborated with CAC Corporation (CAC) to integrate its AI facial recognition engine, FaceMe®, into CAC’s facial recognition payment system."
-publishedDateTime: 2022-09-23T13:03:00Z
-originalUrl: "https://www.eagletribune.com/region/cac-corporation-integrates-cyberlink-s-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned/article_f876d4e4-cb22-5d25-b4f7-c204fc4b5f35.html"
-webUrl: "https://www.eagletribune.com/region/cac-corporation-integrates-cyberlink-s-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned/article_f876d4e4-cb22-5d25-b4f7-c204fc4b5f35.html"
+title: "CAC Corporation integrates CyberLink's FaceMe Facial Recognition into the POS terminals of their Unmanned Ministop Store"
+excerpt: "To create a facial recognition payment system that requires nothing more than the end user's face, CAC turned to CyberLink's AI facial recognition engine, FaceMe. Deployed in February of 2022 ..."
+publishedDateTime: 2022-09-23T13:14:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/09/b28982557/cac-corporation-integrates-cyberlinks-faceme-facial-recognition-into-the-pos-terminals-of-their-un"
+webUrl: "https://www.benzinga.com/pressreleases/22/09/b28982557/cac-corporation-integrates-cyberlinks-faceme-facial-recognition-into-the-pos-terminals-of-their-un"
+ampWebUrl: "https://www.benzinga.com/amp/content/28982557"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28982557"
 type: article
 quality: 14
 heat: 14
 published: false
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/b9/6b9f3a71-3a95-545f-8973-122bb5830ac1/632daf1034eb3.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "/6y7dJnAdUxMtsBpVHARB5fCERzSMsKiIJ41cvvzogPI0B/4BSIa4JlU1Gyrl1zUvpKSLkSUwc+P6xxMZ5pDBG+XmkPFFB3bKxfuF/8tfeBnEr0O+p7bA3oPS4GbYml6FLYP4gN0MMz5OBNLF5La4NmtoWIswCKar8qYLyAcxd25JuJwtfGgmPVikOooHRjDvA+6/FX+eoQdykbeGt52FsmqS05HlaNRTNlCVXbSPdY7U//7Y9WTpXY8ZaRbfKw/L/GKt1eRA19GEU9dgnWHW4z55khnBIWG4ok7gMVmsMl7mIwbYiAzexXOvsZr7WlgZV05NjGIiV3WRa6kGQkWqTfkQ53yhOqY8cAE+Mx+8iRIRxMzvEqdJVmsEqw4o8Av9886sHdnqLD30R8aC04jydEag+IVFtFcO/ez0y1UWdqwZ72+nc1XjfzdzZqfWK3ecoPbcB2LmYz3JOAgZX0dtQaMH/FteIqTF/jwXCEYSq4OoVlMSTUQZs4vgfJYKRhfEGBL2jzP7Iz3VPyuF9sRnA==;xsjJ9pKY658vliNHrJe52A=="
+secured: "5N8igO35dSe3me8GkAr7ULQenKE4dpAfsF1sB74+COXe4px9K8x5tJ+Czgl/BEx/tX/j3Vh90VkFzqkdM7bnRHPTq0jr+TyNukZWdP2QssJA8nrU0mewjsoz0NgKFDFJ13ts8XYvjP41CoSuFj0qD1yTeu3hLyNOLtXGFiWnNkkUEIx7nH+1MpyV3c6sWSr4iXQ5fNqQSVHIuSg5iYFlHRj4PkkDuBKUz/AFgCrf01zP7PLDrEuQy17R7illGmh6Pt7Exnx68SATMAc7H2eOPcG6M+/tfMUvBijcXQ3jafmraQwwVcDc0oHZU3j6TjW+b5/YWKJwjrwnWpfUI2zlnor/zMY7LCZNQaO4ZpTuVT0=;lrIw3epzECKxc3YXuYI7Og=="
 ---
 

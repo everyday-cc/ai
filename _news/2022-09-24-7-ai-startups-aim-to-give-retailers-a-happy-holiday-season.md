@@ -5,10 +5,12 @@ excerpt: "These are seven of the hottest AI startups that are helping retailers 
 publishedDateTime: 2022-09-23T18:51:00Z
 originalUrl: "https://venturebeat.com/ai/7-ai-startups-aim-to-give-retailers-a-happy-holiday-season/"
 webUrl: "https://venturebeat.com/ai/7-ai-startups-aim-to-give-retailers-a-happy-holiday-season/"
+ampWebUrl: "https://venturebeat.com/ai/7-ai-startups-aim-to-give-retailers-a-happy-holiday-season/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/7-ai-startups-aim-to-give-retailers-a-happy-holiday-season/amp/"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: VentureBeat
@@ -20,7 +22,14 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
-secured: "sZY0u/BNJ1jWgYokQWBJIy+Z+FfzCoILw7RKARNIJEJztlGyyNwW0Dd5br7HCeETL+7T0zhq8AnMEN5c4tmN5Bh/KRM1N/DGcZ4uSbOBYFrL00gLPZRgX7vCpGzZyjieGU9pfx3nGc0YYRnhaI4Qxdw3dtedbZ3hnX9kV4DSsTb0wz9BCZDbs5cvdyxY5XVPqbfzGN6kabLzqUaoJZQjYGx3aO17pQxTU98y+90dNJNjrux9U1RiRFpDJFNx4SrpqKcS/O1A+t1vTsjb2jmQmZCTBaQc74F9dGzLg6Y/n/vGc5kiFQeSZLMHca9MxEX2g4tmpbDeE2LeegCtrWWTpgfv8nmytdlxwI6qVnKQ36528ImchgK+2oarsgxB9YzBVOY2Nwmwi9kfelE8TQzz0Rza8av8HymYKdw+vYcHAT5R1yacJes/PHv2IEUiZsmWurD5qiKENwg/D9VVY7k+8HWkRKmFN4xLZNwFhR9Ner2QwGuZShaU+dYPWAvL5alhIAn4UHxMsiz+mXEYDEx+Cg==;gJsBeIIqvdVfwx8Dfl62/g=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1352745076.jpg?w=1200&strip=all"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "EizE6GqPHXABzPYQm9zASBk3hwEe58yjGUfDKSiWFR1Mvt2o8sVhcqROafrpYhRAhrxYdu5v+D9ZEhTgMHVv0Ma1QWfovdI4+KboAsxtZafpZfZ8ZbADxJRntYkD0eTd2lK2JHCmZOjkAuq0EmNAxhDbgiHmvSjvunO3zAQInVUCH+VOqqdvKvx4Irm1ZkJMjs/4oRPsybC030lE8ZOCWOljP4SfyhJXHeY+oanI9ZiEpl1rpdFPa0N5gDncH2qNNszAmEdPAnOQ8DQxGXHFCIR6f8qBz9sr3bXDovyaVQE4M74wXA+3qS1WXSrvttXdbzRH4k/K5soZ3u/53JHUg0aHSDsRVJom0RAfmEqqexI=;ChQLQ68zamWWxt2IfoxMKw=="
 ---
 
