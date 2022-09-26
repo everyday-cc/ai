@@ -875,17 +875,26 @@
       "title": "Dogs and Humans Interpret What They See Differently",
       "excerpt": "Naturalistic video clips from a dog's point of view were shown to dogs undergoing fMRI brain scans. Artificial neural network programming was used to analyze how the brains of humans and dogs process visual inputs.",
       "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/za/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently",
-      "originalUrl": "https://www.psychologytoday.com/za/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently",
+      "webUrl": "https://www.psychologytoday.com/intl/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-09/brain_scan.jpg?itok=XgF-NOdq",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently?amp",
       "publishedDateTime": "2022-09-20T07:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -952,6 +961,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration.md",
+      "title": "Tecnotree to Accelerate Digital Transition to the Cloud with Microsoft Azure Integration",
+      "excerpt": "Tecnotree's Digital Suite-5 for consumers and business monetization is built natively to run on Kubernetes and is aligned with the Microsoft Azure cloud to drive multi-tenant, multi-region transformations that allow enterprises to lower total-cost-of-ownership (TCO) by eliminating significant upfront investments.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/09/20/9676461.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/09/20/9676461.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1153,57 +1196,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-hrs-role-in-people-analytics-and-ai.md",
-      "title": "HR's Role In People Analytics And AI",
-      "excerpt": "Using people analytics in HR functions can bring about positive change—but only if employers cultivate the right approach for their organization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f721d24c84d1ad720732800/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/amp/",
-      "publishedDateTime": "2022-09-20T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

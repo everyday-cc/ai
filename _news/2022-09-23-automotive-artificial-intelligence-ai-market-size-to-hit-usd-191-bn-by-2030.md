@@ -8,7 +8,7 @@ webUrl: "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artif
 ampWebUrl: "https://www.benzinga.com/amp/content/28977012"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28977012"
 type: article
-quality: 50
+quality: 48
 heat: -1
 published: false
 
@@ -17,7 +17,6 @@ provider:
   domain: benzinga.com
 
 topics:
-  - AI in Autos
   - AI
 
 related:
@@ -36,6 +35,6 @@ related:
         height: 630
         isCached: true
 
-secured: "CqVjRtW8Nzy7o+88EK8O/1GRKWOAjrTRtrPJAUIIb5oKD701KI6vGw/MGHCAFfAcEtqKAxKJn7vudM94RAIlRH6PZejefatwfSdKjB11rusMpBjwkJgD1Ky5pfoeQ+8seWUmY+glHXvRRIt1PpZ6gNalF1+qV9XEXKa27kHFIiW29Q1pE4QifTD24gzupcUvDpkkVoKLtzTeM18dx3oLkmVxwtRjlBMFZDfYIQR0t9kEKVMwmIuU20y5hI3NNgPHM7ZIDRG4iVsO4z8vIO0IuPx4ZJodvlHaVKFSFLLGPiUQEKdtFKYcvX4h7/eQnSWaxyt77yTh9QCrWa5ytf67Wa19kfWn78AmoCgEWfMe9uw=;mB+0kThRfSS2qUAxIP6LaA=="
+secured: "vm4JNDuSVpYpr3bphBeQ7C0KSamq1ne7u99wFZ5pyVSRC8YqCnrZkQHoJ1HMPSK6Nt8Q8UDhVclfZb/SsPK0LGntnhFMz50QdUFNBHTZSr9ojPwrCFZPAPaS4hqNPbGgpSQA8br0xmD71sq5JcEHvfK1Xuq2LzRLHqjXZeKGjIeYCjJc8V3DJeNORZp2nLtubd/S1awEUeF8VbJMlYno/BqNJlibDaNqaKQ7obGTQG7gOHIGhp5hQSh5Dwo7W4RFqmthTrs/1dzH2RdPChujc3mNJOzLIHrUVYe828/R1HWPkPNEs0I8HIIGU+iqGev+x2eEe3PNuEgQkjjd+TxXCR/dEcNknlEXqeBvDcGsPUI=;1d3CaNyGKrLeJt0WoMfndg=="
 ---
 

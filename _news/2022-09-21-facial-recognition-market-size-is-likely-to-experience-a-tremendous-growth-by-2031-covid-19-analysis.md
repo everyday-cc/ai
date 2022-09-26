@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Facial Recognition Market Size Is Likely to Experience a Tremendous Growth by 2031 Covid-19 Analysis"
-excerpt: "\"A research report on Facial Recognition Market was added by SDKI in its database which discusses the product as well as the scope of its market in detail. The report provides the business clients with an in-depth overview of the market,"
-publishedDateTime: 2022-09-21T09:34:00Z
-originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis-2022-09-21"
-webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis-2022-09-21"
+excerpt: "A research report on Facial Recognition Market was added by SDKI in its database which discusses the product as well"
+publishedDateTime: 2022-09-21T13:58:00Z
+originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis-2022-09-21-91975832"
+webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis-2022-09-21-91975832"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "3D Facial Recognition Systems Market landscape, Top Competitor Analysis, Revenue, Sales With Forecast Data from 2022 to 2028"
@@ -74,16 +80,16 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 22
-  - title: "Computer Vision Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2028"
-    excerpt: "Computer Vision Market – Insights In 2022 : Based In the end-use industry, “Computer Vision Market” 2022 is segmented into Quality Assurance and Inspection, Positioning and Guidance ..."
-    publishedDateTime: 2022-09-21T06:52:00Z
-    webUrl: "https://www.digitaljournal.com/pr/computer-vision-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2028"
+  - title: "Artificial Intelligence in Gaming Market Size | SWOT Analysis, Growth Factors, Top Key Players, Latest Trends, Industry Share and Forecast to 2028"
+    excerpt: "Global Artificial Intelligence in Gaming Market The global Artificial Intelligence in Gaming market size is projected to reach USD million by 2028, from USD million in 2021, at a CAGR of % during 2022-2028."
+    publishedDateTime: 2022-09-21T11:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-gaming-market-size-swot-analysis-growth-factors-top-key-players-latest-trends-industry-share-and-forecast-to-2028-2022-09-21"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 1
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 9
 
-secured: "no+boeLQZGEo/cvjghZzj/Gn7JyimiPm3dcRx/kArvviG8ih+R7xLkAAQyxNdXgebwQKuH9wDBy2K95wPBdy2XpEZGwjr1vGtBpG+zCW0QciK3hr+psDlXbIpmIA9rTRJH40MQB8n4QrMxQYlhahuT+xBovgUf99/yZq00l5G4q/fG0h449bMT1qlDfveENoNxvqSvhdos/13UwCiPobV5WXPDbxVOfmYHUg7LdZjm++Cr05o/VoPHjc7VIreGjAZUpcStt+h2S8gR3WWvueMbFTb18XSho8xLTxyYUs806j+xexwOiwSdmxhKnEOSVmuyGQX+OVeGTcQxvM0yleqoY+GftnvanXM1An4sxeC9A=;1hcLU9ffjmCPqq1dkePJvA=="
+secured: "QBbp3Yv5QYOTrFCb/hZ7mlK4X7nWLgR4Eon0FmmYPzcMjnbzOdoMGZET9thJmP/LA77w5H6GqmqB2ZPUoUBuVXjgQHn2ieliD5L8H2Qh8eliqrP4+QJgvmmo++pELc1Bf/LuxGA0K7OXDwhms4aVKBkbk9jft3H90Pkh6NlwiZx7uRQ+JH/brV6d4OH2FgcgfulpfaBYEsozM19syIyalrF/KT3RkserE7wPN31aH/PMxon8vCMAnUA28l1Y/a3ThuLwR2NJXbVG1vMBN7rzmdNOA5EsOAa1/FcwcSXDxZ50OOdYo+ng7A9eOfDEqSdzvgp5J8Sj0vZ7uGwtVgBhkIHk5kFw7Pu4Xo1RYx+wmN0=;ZWMpbKvhIeQMHIjYduk5sQ=="
 ---
 

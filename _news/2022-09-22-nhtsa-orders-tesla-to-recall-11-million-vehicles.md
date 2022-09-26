@@ -42,22 +42,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "The challenges automakers, and now Tesla, face with humanoid robots"
-    excerpt: "Tesla's humanoid robots, Optimus, will be initially used in manufacturing and logistics for boring and repetitive work, thus addressing a labour shortage"
-    publishedDateTime: 2022-09-21T06:07:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/the-challenges-automakers-honda-tesla-general-motors-hyundai-nasa-face-humanoid-robots/article65917068.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/the-challenges-automakers-honda-tesla-general-motors-hyundai-nasa-face-humanoid-robots/article65917068.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/the-challenges-automakers-honda-tesla-general-motors-hyundai-nasa-face-humanoid-robots/article65917068.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 76
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/dv0aw0/article65917069.ece/alternates/LANDSCAPE_615/2022-09-20T181456Z_1847150550_RC25LW9ZUUN6_RTRMADP_3_PG-E-FIRE-TESLA.JPG"
-        width: 615
-        height: 383
-        isCached: true
   - title: "Tesla is set to unveil its ‘Optimus’ humanoid robot this month. What should we expect?"
     excerpt: "The prototype is expected to be revealed on September 30 at the company’s AI Day event ... 73 metres tall and the production is expected to start next year. Musk previously said it was important ..."
     publishedDateTime: 2022-09-21T18:15:00Z

@@ -19,20 +19,6 @@ topics:
 
 related:
   - title: "India’s Homegrown AI-Enabled Network Intelligence Startup Aprecomm Signs a Deal to Go Global"
-    excerpt: "As a part of the deal, TDS will be empanelled as one of Aprecomm official distributor partners. TDS will now be authorized to circulate Aprecomm network intelligence solutions for the communication industry across Asia Pacific region."
-    publishedDateTime: 2022-09-21T05:05:00Z
-    webUrl: "https://www.businesswireindia.com/indias-homegrown-ai-enabled-network-intelligence-startup-aprecomm-signs-a-deal-to-go-global-80770.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 26
-    images:
-      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_Multimedialog_80770.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "India’s Homegrown AI-Enabled Network Intelligence Startup Aprecomm Signs a Deal to Go Global"
     excerpt: "Aprecomm, India’s leading network intelligence company, today announced its partnership with Singapore-based Technology Distribution Specialists (TDS) for distribution of its Network Intelligence technology."
     publishedDateTime: 2022-09-22T01:02:00Z
     webUrl: "https://www.eagletribune.com/region/india-s-homegrown-ai-enabled-network-intelligence-startup-aprecomm-signs-a-deal-to-go-global/article_c440fd00-aa15-55f2-9022-84d3908c75a4.html"

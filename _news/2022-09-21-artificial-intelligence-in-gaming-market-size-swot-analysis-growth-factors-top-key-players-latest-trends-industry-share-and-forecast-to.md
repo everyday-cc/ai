@@ -22,47 +22,71 @@ topics:
   - AI
 
 related:
-  - title: "Machine Learning Market 2022 Size, Share, Industry Development Scenario and Forecast 2030"
-    excerpt: "The global machine learning market was valued at INR 839.55 Bn in 2020. It is expected to reach INR 7632.45 Bn by 2027, expanding at a CAGR of ~37.16% during the 2021 2027 period. Request To Download Free Sample of This Strategic Report: - Machine learning (ML) is the application of artificial intelligence (AI) for developing systems capability to learn automatically and improve their overall performance through experience,"
-    publishedDateTime: 2022-09-21T06:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2022-size-share-industry-development-scenario-and-forecast-2030-2022-09-21"
+  - title: "3D Facial Recognition Systems Market landscape, Top Competitor Analysis, Revenue, Sales With Forecast Data from 2022 to 2028"
+    excerpt: "The purpose of the research report is to provide a clear, accurate, and comprehensive report on the “ 3D Facial Recognition Systems market ”. It should help to clarify the research issues so that management can use the findings to make decisions."
+    publishedDateTime: 2022-09-21T09:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-systems-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-09-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Ai In Agriculture Market is projected to reach USD 6.5 billion in 2029, registering a 23.1% CAGR | Size, Share, Report & Forecast"
-    excerpt: "Ai In Agriculture Market The Ai In Agriculture Market was valued around USD 1.2 billion in 2021, and is expected"
-    publishedDateTime: 2022-09-23T11:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-agriculture-market-is-projected-to-reach-usd-65-billion-in-2029-registering-a-231-cagr-size-share-report-forecast-2022-09-23"
+  - title: "Facial Recognition Market Size Is Likely to Experience a Tremendous Growth by 2031 Covid-19 Analysis"
+    excerpt: "A research report on Facial Recognition Market was added by SDKI in its database which discusses the product as well"
+    publishedDateTime: 2022-09-21T13:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis-2022-09-21-91975832"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 18
-  - title: "Global Deep Learning Chipset Market | Value and Size Expected to Reach USD 14178.14 Million | Growing at CAGR of 15.04% | Forecast Period 2022-2027"
-    excerpt: "With tables and figures helping analyze worldwide Global Deep Learning Chipset market trends, this research provides key statistics on the state of the industry and is a valuable source of guidance and direction for companies and individuals interested in the market."
-    publishedDateTime: 2022-09-23T07:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-value-and-size-expected-to-reach-usd-1417814-million-growing-at-cagr-of-1504-forecast-period-2022-2027-2022-09-23"
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "India Event-Based Vision Systems Market 2022 Analysis by Competition, Performance and Application till 2030"
+    excerpt: "Key Companies Covered in the India Event-Based Vision Systems Market Research are Prophesee, iniVation, Insightness, Qelzal, MindTrace, CelePixel, Sunia, Australian Institute of Technology, Samsung, Sony and other key market players."
+    publishedDateTime: 2022-09-22T10:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/india-event-based-vision-systems-market-2022-analysis-by-competition-performance-and-application-till-2030-2022-09-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 11
-  - title: "Speech and Voice Recognition Market Size to Grow at 22.23% CAGR During the Forecast Period of 2022-2027 | 105 Report Pages"
-    excerpt: "The global Speech and Voice Recognition market size is expected to expand at a CAGR of 22.23% during the forecast"
-    publishedDateTime: 2022-09-21T05:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-to-grow-at-2223-cagr-during-the-forecast-period-of-2022-2027-105-report-pages-2022-09-21"
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing and Recognition Market Global Growth, Emerging Trends, Demand Status, Regional Overview and Share Analysis till 2028"
+    excerpt: "Global Natural Language Processing and Recognition Market provides key analysis on the market status of the Natural Language Processing and Recognition with the best facts and figures, meaning, definition,"
+    publishedDateTime: 2022-09-22T11:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-and-recognition-market-global-growth-emerging-trends-demand-status-regional-overview-and-share-analysis-till-2028-2022-09-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 8
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market Research Insights with Upcoming Trends, Opportunities, Competitive Analysis, Forecast to 2022-2031"
+    excerpt: "The study includes an in-depth competitive analysis of the key players in the facial recognition market, with their company profiles, recent developments, and key market strategie"
+    publishedDateTime: 2022-09-21T09:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-research-insights-with-upcoming-trends-opportunities-competitive-analysis-forecast-to-2022-2031-2022-09-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
 
 secured: "ZGVD3bh/dzEd1z80D5p7vE39LHnvld8f5mDONG9gKmyRbvb7/jtihNwWQ/2f7KzbVgjiUcOchJpPh97dKygnJv71Ui9pN3zPQjohdJIPiJrNI4iIBWTIQv8F/pMkFI714OkVntLgkNlgW7VE/VR1jYciYYv7oD3OkAvLvHyGlkpzOYbvygBEbWV0WJKQnyA1X2OxZdacsXed1mZqiQbt4CiBM2B/AeAzqHSk4B0AIS5kUvycm6MTqIFQKd37vaTLUb2ZPa9AEnFL7Am+NO2eJbwkVw+PIKv5c0im06ga7p/bzg7G2yejI6/xXNmRYHMlzXSf3Gy1AYHlfXj63NJH+iM3OYL66zYUeJpCTtnpk2Q=;iBKpLujEcG4KAwgu4sqKWQ=="
 ---

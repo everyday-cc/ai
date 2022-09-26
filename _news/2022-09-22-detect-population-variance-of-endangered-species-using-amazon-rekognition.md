@@ -70,7 +70,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 8
+    quality: 10
     images:
       - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg"
         width: 700

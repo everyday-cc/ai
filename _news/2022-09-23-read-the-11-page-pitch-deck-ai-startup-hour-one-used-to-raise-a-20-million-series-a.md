@@ -42,22 +42,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Speech technology startup Murf AI raises $10 million in funding led by Matrix Partners"
-    excerpt: "The startup will use the funds to drive further product innovation, accelerate research and development, as well as scale its presence in focused geographies."
-    publishedDateTime: 2022-09-21T06:18:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/speech-technology-startup-murf-ai-raises-10-million-in-funding-led-by-matrix-partners/articleshow/94344021.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/speech-technology-startup-murf-ai-raises-10-million-in-funding-led-by-matrix-partners/amp_articleshow/94344021.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/speech-technology-startup-murf-ai-raises-10-million-in-funding-led-by-matrix-partners/amp_articleshow/94344021.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 49
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-88766,msid-94344110/murf-founders.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "We got an exclusive look at the 9-slide pitch deck Innovafeed, an insect protein startup, used to raise $250 million"
     excerpt: "The Series D funding round will be invested in technology, new sites in the US, and will be used to grow Innovafeed's 400-strong headcount."
     publishedDateTime: 2022-09-22T07:00:00Z

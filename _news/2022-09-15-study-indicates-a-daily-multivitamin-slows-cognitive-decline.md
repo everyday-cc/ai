@@ -2,16 +2,16 @@
 category: news
 title: "Study indicates a daily multivitamin slows cognitive decline"
 excerpt: "Findings recently published in the Alzheimer’s & Dementia: The Journal of the Alzheimer’s Association found that a daily multivitamin could improve cognitive function and physical health for ..."
-publishedDateTime: 2022-09-14T19:04:00Z
-originalUrl: "https://www.kshb.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline"
-webUrl: "https://www.kshb.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline"
-ampWebUrl: "https://www.kshb.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline?_amp=true"
-cdnAmpWebUrl: "https://www-kshb-com.cdn.ampproject.org/c/s/www.kshb.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline?_amp=true"
+publishedDateTime: 2022-09-14T19:07:00Z
+originalUrl: "https://www.wtkr.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline"
+webUrl: "https://www.wtkr.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline"
+ampWebUrl: "https://www.wtkr.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline?_amp=true"
+cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline?_amp=true"
 type: article
 
 provider:
-  name: KSHB Kansas City
-  domain: kshb.com
+  name: WTKR
+  domain: wtkr.com
 
 topics:
   - Microsoft AI
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "aNJzQoiR3nEdrEID6GOrhv2pe2Fu+uonmtXXl/3BSouqq2Jj/ZsA3aHYcA93T4EPHhFNgH0UTLrrqIpT1NBXg6WNaz9XDYF34YsdddTXwRKMPUTf/vqD5LwGuKyuGPYJ1paw1CxP9ed9oFMZEBExX9DtShHOJywxqhd5nhEwph0epwVdcPpnEwPKHtQaLEIAFhgi7593C6Jue/ntnXeRIp3WXoFfNKBA/CWQjterna7hgMbj4ueRtul39XibIc7qyInTtRViX7Wj+ANLvHxmI6DEUgIPNPD9/j9PEPrj1YDG7SJKEPlrerJry/q5Bmva3hJs7kvERuj1mqhPGOK6GnN8BDGe1xlbFGZHNlcEMLY=;5RLuA2a77c4Rwopjb1YLFA=="
+secured: "slS31fn/kt1Aa2rOMOJRU817pD3EE5GUdSCz8DOY/Pf5bsnNmvJiyiiksYJgbmgRTVplj4yVcq3XP4BvAUHUUK1nl+jwonHKQ7uJk+GsQDw/Hzw/JH04Rf9L+i1eWCGJTTQRu0BTVGpl+Ofc57B0kTjyzd8btbCirnzPEBBM3+UrJs2rCIGid3nJjj+GvHI9zitgUEGZHHD1GGGQLPsNxLNCZlLufXKdRn/6mdS3dy9d0FVqjF1EMZ/86YyY5zFrkMuVHp77H3rHU5Pgnfr5q7D0D+Ql0dP7A10+bPtFVzK3kHlXSa3Vhuvmzkre5hm/KpRnIBY5FPPzQIwKF+hNSNbR8UtNkjSX7l7UWpw+QJ0=;Be183ocgz1QpcGu+3dFPjQ=="
 ---
 

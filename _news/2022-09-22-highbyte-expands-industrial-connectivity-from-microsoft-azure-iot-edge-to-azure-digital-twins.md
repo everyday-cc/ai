@@ -1,43 +1,43 @@
 ---
 category: news
 title: "HighByte Expands Industrial Connectivity from Microsoft Azure IoT Edge to Azure Digital Twins"
-excerpt: "The industrial software company has expanded cloud connectivity and improved enterprise IT management with HighByte Intelligence Hub version 2.5."
-publishedDateTime: 2022-09-22T16:31:00Z
-originalUrl: "https://www.automation.com/en-us/products/september-2022/highbyte-industrial-connectivity-microsoft-azure"
-webUrl: "https://www.automation.com/en-us/products/september-2022/highbyte-industrial-connectivity-microsoft-azure"
+excerpt: "HighByte®, an industrial software company, today announced the release of HighByte Intelligence Hub version 2.5 that expands connectivity to Microsoft Azure services, including Azure IoT Edge and Azure IoT Central,"
+publishedDateTime: 2022-09-22T15:07:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-highbyte-expands-industrial-connectivity-from-microsoft-azure-iot-/2022/09/22/9679234.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-highbyte-expands-industrial-connectivity-from-microsoft-azure-iot-/2022/09/22/9679234.htm"
 type: article
 quality: 43
 heat: -1
 published: false
 
 provider:
-  name: Automation
-  domain: automation.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.automation.com/getmedia/aa63c977-cdce-4db8-9dff-034bafe0dadc/Highbyte-prod-Sept-22-2022-web.png?width=500&height=313&ext=.png"
-    width: 500
-    height: 313
+  - url: "https://mma.prnewswire.com/media/1904904/HighByte_Version_2_5_Press_Release_Image.jpg"
+    width: 400
+    height: 220
     isCached: true
 
 related:
   - title: "Palo Alto Networks 5G-Native Security Now Available on Microsoft Azure Private Multi-Access Edge Compute"
-    excerpt: "Palo Alto Networks 5G-Native Security Now Available on Microsoft Azure Private Multi-Access Edge Compute Sep 22, 2022 (PRNewswire via COMTEX) -- PR"
-    publishedDateTime: 2022-09-22T12:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute-2022-09-22"
+    excerpt: "PRNewswire/ — Palo Alto Networks (NASDAQ: PANW), a Microsoft Azure private MEC ecosystem partner, today announced availability of VM-Series Virtual Next-Generation Firewall (NGFW) technology on the Azure Marketplace."
+    publishedDateTime: 2022-09-22T13:44:00Z
+    webUrl: "https://www.darkreading.com/cloud/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 99
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 69
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://beta.darkreading.com/images/og-image.jpg"
+        width: 342
+        height: 342
         isCached: true
   - title: "Palo Alto Networks 5G-Native Security Now Available on Microsoft Azure Private Multi-Access Edge Compute"
     excerpt: "Palo Alto Networks (NASDAQ: PANW), a Microsoft Azure private MEC ecosystem partner, today announced availability of VM-Series Virtual Next-Generation Firewall (NGFW) technology on the Azure Marketplace."
@@ -49,6 +49,6 @@ related:
       domain: tmcnet.com
     quality: 49
 
-secured: "AhHAByRelWcJzor7znX1D1ef41nWS3b43HA+5+yRQkG7Bfo/Ke1kcUkGRleyHRCKruO2c6yl7gNJNV6ZCpZ9rfbkDEqx2ToaqI+px/oFz5bzj9erMh0KUifs7ONGENGbXYHQaGAJ5Rhm3WUEPmOJmtg69X7u8Vw6BFHCornTNdizh2OaTIUXmUFoUZTBAcKRrV+vg7CgEZvWThQqRBU+cQqisMJdtFz7qvh9+u0zbFZoBu6Fs67VGNr+OVKf8ucL1s874JK3OxGMLOrJ85Yyn6jl38ubasAsznOyPIDkHOmVreogmlpqX36QfX1/GHiLAjx/8YGzhUwuwJPOxDfr4Thi0qffO5HNK+RxyN9XIMA=;k/TgrTSx71svH/JxYyJonA=="
+secured: "e6qC9vQjW9nHExojzrsJbaG/fZbH4Cxe5XBqLa2T7kUAS/133EbqB+X+vcUIIvvim6G+27XVPYLmZ6y7MzeRvY+k1OLGkB4/oaOzs6rxfs2FphdwQCUS42F5osgKHESG3DAlHdwuMEz9Ml2pWTElkD/68s4X1Zg4RwwlEPG+S8w/YWUTeEhqerWlXJrQ9PECTm2fKNL3Csumc80TZ2aSdeWF5PPmcSyFoE214fcR6R/8W+FeIlD3mP7duQgRnzADokOSoCdrG1RO6+j23dAhafg2ESflOENKquxWl/dLD2n7QN6t6lp5EjVUhpirm15EMcMDSGoBaKz6S181tvC6nWeaIDlSjhLC23nWqEevipk=;YSb175zpv5vCMcceig4Vyg=="
 ---
 

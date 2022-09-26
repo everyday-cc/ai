@@ -1045,49 +1045,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-16-diet-could-play-a-role-in-cognitive-function-across-diverse-races-and-ethnicities.md",
-      "title": "Diet could play a role in cognitive function across diverse races and ethnicities",
-      "excerpt": "Dietary choices and their consequences may certainly influence cognitive function. A new study led by investigators at Brigham and Women's Hospital, a founding member of the Mass General Brigham ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/diet-could-play-a-role.jpg",
-          "width": 1280,
-          "height": 703,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.amp",
-      "publishedDateTime": "2022-09-16T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-16-xpo-logistics-ceo-on-ai-jump-in.md",
       "title": "XPO Logistics CEO on AI: \"Jump in\"",
       "excerpt": "CEO Brad Jacobs says AI is \"the biggest thing going on in the business world\"",
@@ -1136,6 +1093,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-top-5-tech-trends-we-should-all-know-ahead-of-tesla-ai-day.md",
+      "title": "Top 5 Tech Trends We Should All Know Ahead Of Tesla AI Day",
+      "excerpt": "Tesla’s AI Day is on the horizon. Here are some of the top trends emerging in the field of artificial intelligence that you should know about before the big event later this month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/09/16/top-5-tech-trends-we-should-all-know-ahead-of-tesla-ai-day/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/09/16/top-5-tech-trends-we-should-all-know-ahead-of-tesla-ai-day/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6324946af1e93a0874b00cbb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 890,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/09/16/top-5-tech-trends-we-should-all-know-ahead-of-tesla-ai-day/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/09/16/top-5-tech-trends-we-should-all-know-ahead-of-tesla-ai-day/amp/",
+      "publishedDateTime": "2022-09-16T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

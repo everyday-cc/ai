@@ -34,15 +34,6 @@ related:
         width: 1280
         height: 680
         isCached: true
-  - title: "Nvidia taps TSMC to manufacture new AI-powered gaming chips"
-    excerpt: "Nvidia has gained attention in recent years with its booming data centre business, which sells chips used in artificial intelligence work such as natural language processing. But the company’s roots are in graphics chips,"
-    publishedDateTime: 2022-09-21T06:21:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2022/09/21/nvidia-taps-tsmc-to-manufacture-new-ai-powered-gaming-chips/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 34
 
 secured: "zLejqNjhCcxtzR42WmWO9N3wtTAQv/+ZSgtT7r+JpPm28+CkmhgQ3HlSBEfr+AtZYJDXqgtMDpEb1SdyVkFoAfCHNxApzH+tWs4wUTSIvJIPiIJOTkKFL/8G0ZvfdoT3Ea6u+laXhdrb4B8rrMFz0kPpTVjh0l3XktHPHrLkO1OfcUXMfiZWbzaDVcVHeff98MYtu3u8YICQbZvITrFT70MdusFPq4Fn6O7zcV4aS8oxhdf2ye1wluGTMATQuFvnt7wc9nPw/u7hhfqfrSRQy2IfImiJmk1lDjWa6Um8tO0osUVfDx6MK24NguJro+V7wblzwZM5rG7WVpgA1Ga6Ux+gh+AMHZjlxBFjln7abUM=;gRV9WpCoiSbU/OF1c0mAUA=="
 ---

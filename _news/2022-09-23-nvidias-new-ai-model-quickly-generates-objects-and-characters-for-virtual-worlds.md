@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/nvidia-ai-model-get3d-virtual-worlds-obje
 webUrl: "https://www.engadget.com/nvidia-ai-model-get3d-virtual-worlds-objects-130021127.html"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia taps TSMC to manufacture new AI-powered gaming chips"
-    excerpt: "Nvidia has gained attention in recent years with its booming data centre business, which sells chips used in artificial intelligence work such as natural language processing. But the company’s roots are in graphics chips,"
-    publishedDateTime: 2022-09-21T06:21:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2022/09/21/nvidia-taps-tsmc-to-manufacture-new-ai-powered-gaming-chips/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 34
   - title: "Nvidia unveils next-gen RTX GPUs, AI workflows in the cloud"
     excerpt: "New cloud services to support AI workflows and the launch of a new generation of GeForce RTX GPUs featured yesterday in Nvidia CEO Jensen Huang’s GTC keynote. “Computing is advancing at incredible speeds,"
     publishedDateTime: 2022-09-22T09:48:00Z

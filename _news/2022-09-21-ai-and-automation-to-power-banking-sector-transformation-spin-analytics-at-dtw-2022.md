@@ -24,17 +24,6 @@ images:
     height: 408
     isCached: true
 
-related:
-  - title: "Human and Machine Join as KPO Sector Accelerates Digital Transformation"
-    excerpt: "The KPO (knowledge process outsourcing) sector has been busy lately, responding to clients’ demands for faster access to the research they require to meet today’s rapidly changing demands. Machine learning has helped analysts achieve what otherwise would have been an impossible feat in gleaning the needed knowledge from vast volumes of data."
-    publishedDateTime: 2022-09-21T06:00:00Z
-    webUrl: "https://internationalbanker.com/technology/human-and-machine-join-as-kpo-sector-accelerates-digital-transformation/"
-    type: article
-    provider:
-      name: International Banker
-      domain: internationalbanker.com
-    quality: 4
-
 secured: "FY8JLaRuaGf1UEGMl+Xx5WnG6w+WQnZAqOH5lY8cwYWMvu1XEfX/rLA8UW/b4FAbfJMDMGBlKkpQdCdNqKzsK6hIVFxKWdkKqYPqc/sW4W18D/kZXTGQOQ9+sW3Tj8NXudVXz2DfaC35AihHrSljkhLbUGSQNprbc0UEZy6Y4sclVYtfd55qqYgehcTqEfUkWYsECpzJC/SOQf0tvs9xl/x+lc7TSDRM4LtXwFtv9p1aioSecFf8kfSHTvApK3PsmTowuwpTHfLg6Z/ykW5wqF4asVK9KwxUxpYomKzG+SuFIqJrMldPVzQC3HkfPMWRrV3pKhVJYVdGhWXhNgJ9T0pVCcohFUcLK5I+ujEHbN/51gswOYC1kaUggdwCG6Yf9riCYBymyd6w2bV01IdlrLx2bSYW4sKer9KY4SBmDFF8sxIo2ZjeMBAnEbPa1S+kkC3cB/iH+FV8Yx2gFB74MqENeBCRJA78P4MfYE7uWbUFthYNqVeJia3H0NcajeXd+3hSeHPxs0cLS8KItznP1A==;hO/TjzZBbrjvgDi2C97ixA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-in/news-and-trends/fareye-achieves
 webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/fareye-achieves-aws-supply-chain-competency/435911"
 type: article
 quality: 84
-heat: 86
+heat: 84
 published: true
 
 provider:

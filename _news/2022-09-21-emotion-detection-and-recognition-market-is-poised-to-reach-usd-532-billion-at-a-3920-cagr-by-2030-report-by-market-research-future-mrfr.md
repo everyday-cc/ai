@@ -8,7 +8,7 @@ webUrl: "https://www.benzinga.com/pressreleases/22/09/g28949366/emotion-detectio
 ampWebUrl: "https://www.benzinga.com/amp/content/28949366"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28949366"
 type: article
-quality: 8
+quality: 10
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg"

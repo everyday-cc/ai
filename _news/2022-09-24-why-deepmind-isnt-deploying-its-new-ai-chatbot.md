@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-ch
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/amp/"
 type: article
 quality: 106
-heat: 157
+heat: 156
 published: true
 
 provider:

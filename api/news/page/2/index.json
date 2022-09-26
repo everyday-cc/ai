@@ -229,6 +229,50 @@
       ]
     },
     {
+      "path": "_news/2022-09-22-palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute.md",
+      "title": "Palo Alto Networks 5G-Native Security Now Available on Microsoft Azure Private Multi-Access Edge Compute",
+      "excerpt": "PRNewswire/ — Palo Alto Networks (NASDAQ: PANW), a Microsoft Azure private MEC ecosystem partner, today announced availability of VM-Series Virtual Next-Generation Firewall (NGFW) technology on the Azure Marketplace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.darkreading.com/cloud/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute",
+      "originalUrl": "https://www.darkreading.com/cloud/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.darkreading.com/images/og-image.jpg",
+          "width": 342,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dark Reading",
+        "domain": "darkreading.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-09-22-artificial-intelligence-tools-speed-up-the-process-of-identifying-people-who-inject-drugs.md",
       "title": "Artificial intelligence tools speed up the process of identifying people who inject drugs",
       "excerpt": "An automated process that combines natural language processing and machine learning identified people who inject drugs (PWID) in electronic health records more quickly and accurately than current methods that rely on manual record reviews.",
@@ -313,59 +357,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute.md",
-      "title": "Palo Alto Networks 5G-Native Security Now Available on Microsoft Azure Private Multi-Access Edge Compute",
-      "excerpt": "Palo Alto Networks 5G-Native Security Now Available on Microsoft Azure Private Multi-Access Edge Compute Sep 22, 2022 (PRNewswire via COMTEX) -- PR",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute-2022-09-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute-2022-09-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     },
     {
@@ -1010,19 +1001,19 @@
     {
       "path": "_news/2022-09-22-salesforce-deepens-partnership-with-aws.md",
       "title": "Salesforce deepens partnership with AWS",
-      "excerpt": "Salesforce has expanded its partnership with Amazon Web Services (AWS) to enable customers to build custom artificial intelligence (AI) models using Amazon SageMaker, AWS’s machine learning (ML) modeling service,",
+      "excerpt": "Salesforce has expanded its partnership with Amazon Web Services (AWS) to enable customers to build custom artificial intelligence (AI) models using Amazon SageMaker, AWS’s machine learning (ML ...",
       "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955",
-      "originalUrl": "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955",
+      "webUrl": "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110",
+      "originalUrl": "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110",
       "featuredContent": null,
       "highlight": null,
       "heat": 129,
       "tags": null,
       "images": [
         {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2022/09/GettyImages-1040557296.jpg",
-          "width": 2000,
-          "height": 907,
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/09/GettyImages-1040557296-scaled.jpg",
+          "width": 2560,
+          "height": 1161,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1030,13 +1021,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955?amp=1",
-      "publishedDateTime": "2022-09-21T11:38:00-07:00",
+      "ampWebUrl": "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110?amp=1",
+      "publishedDateTime": "2022-09-21T11:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
         "images": null,
         "publishers": null,
         "authors": null
