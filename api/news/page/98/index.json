@@ -2,6 +2,241 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2022-07-07-microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts.md",
+      "title": "Microsoft and AWS awarded Ukrainian peace prize for cloud efforts",
+      "excerpt": "AWS certainly has the means to support humanitarian ... cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and venture capital investment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/au/news/microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts",
+      "originalUrl": "https://www.techradar.com/au/news/microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-how-ai-can-boost-rural-connectivity-healthcare.md",
+      "title": "How AI Can Boost Rural Connectivity & Healthcare",
+      "excerpt": "The network solution called GigaMesh wirelessly provides fibre-like backhaul capacity and paves the road for 5G.",
+      "sourceUrl": null,
+      "webUrl": "https://pragativadi.com/how-ai-can-boost-rural-connectivity-healthcare/",
+      "originalUrl": "https://pragativadi.com/how-ai-can-boost-rural-connectivity-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pragativadi.com/wp-content/uploads/2022/07/Untitled-design-1-13.png",
+          "width": 748,
+          "height": 445,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pragativadi",
+        "domain": "pragativadi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-ai-at-the-forefront-of-media-and-entertainment.md",
+      "title": "AI At The Forefront Of Media And Entertainment",
+      "excerpt": "Malav Shah is a Data Scientist II at DIRECTV. In this wide-ranging interview, he shares best practices for deploying machine learning models at the forefront of media and telecommunications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/07/ai-at-the-forefront-of-media-and-entertainment/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/07/ai-at-the-forefront-of-media-and-entertainment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62c5ede123bc69e839783dae/0x0.jpg?format=jpg&width=1200",
+          "width": 500,
+          "height": 343,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/07/ai-at-the-forefront-of-media-and-entertainment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/07/07/ai-at-the-forefront-of-media-and-entertainment/amp/",
+      "publishedDateTime": "2022-07-07T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-kiromic-biopharma-achieves-milestone-with-timely-completion-of-expanded-cgmp-manufacturing-facility-to-support-cell-therapy-oncology-pipeline.md",
+      "title": "Kiromic BioPharma Achieves Milestone with Timely Completion of Expanded cGMP Manufacturing Facility to Support Cell Therapy Oncology Pipeline",
+      "excerpt": "Kiromic BioPharma, Inc. (NASDAQ: KRBP) (\"Kiromic\" or the \"Company\"), a clinical-stage fully integrated biotherapeutics company using its proprietary DIAMOND ® artificial intelligence and data mining platform to develop cell and gene therapies with a focus on immuno-oncology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/07/9634833.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/07/9634833.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-artificial-intelligence-investment-in-innovation-is-a-key-to-success.md",
+      "title": "Artificial Intelligence: Investment In Innovation Is A Key To Success",
+      "excerpt": "The Encyclopedia Britannica defines artificial intelligence (AI) as \"the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings.\" In simple terms,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62c597017ee5d8e458ae64dd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/amp/",
+      "publishedDateTime": "2022-07-07T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-future-ai-unveils-sallie-software-that-thinks-learns-and-evolves-like-a-person.md",
       "title": "Future AI Unveils Sallie, Software that Thinks, Learns, and Evolves Like a Person",
       "excerpt": "Future AI Unveils Sallie, Software that Thinks, Learns, and Evolves Like a Person. Future AI, an artificial general intelligence (AGI) company developing \"Technologies that Think,",
@@ -939,233 +1174,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.md",
-      "title": "Microsoft backs off facial recognition analysis, but big questions remain",
-      "excerpt": "Microsoft is backing off its support for some AI-driven features, including facial recognition. Although it's good Microsoft is acknowledging discrimination and accuracy issues, it had years to fix the problems and didn’t.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3665109/microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.html",
-      "originalUrl": "https://www.computerworld.com/article/3665109/microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2017/11/facial_recognition_system_identification_digital_id_security_scanning_thinkstock_858236252_3x3-100740902-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3665109/microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3665109/microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.amp.html",
-      "publishedDateTime": "2022-07-07T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof.md",
-      "title": "Xiaomi’s Self-Driving Test Car Spotted with a Lidar Sensor on the Roof",
-      "excerpt": "Apparently, a car blogger who goes by the username Deroy has shared a picture of Xiaomi’s self-driving test car. The car can be seen to have a sleek design with a lidar sensor on the roof.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/07/07/xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof/",
-      "originalUrl": "https://www.gizmochina.com/2022/07/07/xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/07/Xiaomi-self-driving-car.jpeg",
-          "width": 690,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/07/07/xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/07/07/xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof/?amp=1",
-      "publishedDateTime": "2022-07-06T23:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-tech-firms-slug-it-out-to-create-ultimate-ai-translator.md",
-      "title": "Tech firms slug it out to create ultimate AI translator",
-      "excerpt": "The universal translator is a staple of science fiction, but Google, Meta and others are locked in a battle to get as many languages as possible working with their AI models. Meta chief Mark Zuckerberg announced on Wednesday that his firm now had a block of 200 languages that could be translated into each other,",
-      "sourceUrl": null,
-      "webUrl": "https://dunyanews.tv/en/Technology/658931-Tech-firms-slug-it-out-to-create-ultimate-AI-translator",
-      "originalUrl": "https://dunyanews.tv/en/Technology/658931-Tech-firms-slug-it-out-to-create-ultimate-AI-translator",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.dunyanews.tv/news/2022/July/07-07-22/news_big_images/658931_75796259.jpg",
-          "width": 752,
-          "height": 423,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dunyanews.tv/amp/english/658931.php",
-      "cdnAmpWebUrl": "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/658931.php",
-      "publishedDateTime": "2022-07-06T22:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dunya News",
-        "domain": "dunyanews.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-ai-boosts-rural-connectivity-healthcare.md",
-      "title": "AI boosts rural connectivity & healthcare",
-      "excerpt": "A total of 15 villages in different parts of the country may soon be seamlessly connected through a next-generation networking solution that can address congestion issues in 4G infrastructure and prov",
-      "sourceUrl": null,
-      "webUrl": "https://orissadiary.com/ai-boosts-rural-connectivity-healthcare/",
-      "originalUrl": "https://orissadiary.com/ai-boosts-rural-connectivity-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/orissadiary.com/wp-content/uploads/2022/07/image00120E0.jpg?fit=624%2C416&ssl=1",
-          "width": 624,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T22:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odisha Diary",
-        "domain": "orissadiary.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-computer-vision-is-primed-for-business-value.md",
-      "title": "Computer vision is primed for business value",
-      "excerpt": "Over the past few years, computer vision applications have become ubiquitous. From phones that recognise the faces of their users, to cars that drive themselves, to satellites that track ship movements, the value of computer vision has never been clear.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/699292/computer-vision-primed-business-value/",
-      "originalUrl": "https://www.reseller.co.nz/article/699292/computer-vision-primed-business-value/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_95793105.jpg",
-          "width": 473,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T21:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

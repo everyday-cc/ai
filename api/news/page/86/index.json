@@ -2,6 +2,235 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2022-07-19-ai-art-is-challenging-the-boundaries-of-curation.md",
+      "title": "AI art is challenging the boundaries of curation",
+      "excerpt": "In just a few years, the number of artworks produced by self-described AI artists has dramatically increased. Some of these works have been sold by large auction houses for dizzying prices and have found their way into prestigious curated collections.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/",
+      "originalUrl": "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1052751430-800x549.jpg",
+          "width": 800,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-nanomagnets-can-discern-wine-and-could-slake-ais-thirst-for-energy.md",
+      "title": "Nanomagnets can discern wine, and could slake AI's thirst for energy",
+      "excerpt": "Human brains process loads of information. When wine aficionados taste a new wine, neural networks in their brains process an array of data from each sip. Synapses in their neurons fire, weighing the importance of each bit of data—acidity,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-07-nanomagnets-discern-wine-slake-ai.html",
+      "originalUrl": "https://techxplore.com/news/2022-07-nanomagnets-discern-wine-slake-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/nanomagnets-can-choose.jpg",
+          "width": 960,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-07-nanomagnets-discern-wine-slake-ai.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-nanomagnets-discern-wine-slake-ai.amp",
+      "publishedDateTime": "2022-07-18T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-the-future-of-artificial-intelligence.md",
+      "title": "The Future of Artificial Intelligence",
+      "excerpt": "Even apart from the enduring dream of human-like intelligence, the future of AI is expected to play a deeply significant role in consumer and business markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/enterprise-apps/artificial-intelligence-future/",
+      "originalUrl": "https://www.eweek.com/enterprise-apps/artificial-intelligence-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/InRule-display-3.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-microsofts-project-airsim-tests-and-trains-ai-powered-aircrafts.md",
+      "title": "Microsoft’s Project AirSim tests and trains AI-powered aircrafts",
+      "excerpt": "Microsoft launched Project AirSim, a high-fidelity simulation platform for building, training and testing autonomous aircrafts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/microsofts-project-airsim-tests-and-trains-ai-powered-aircrafts/",
+      "originalUrl": "https://www.therobotreport.com/microsofts-project-airsim-tests-and-trains-ai-powered-aircrafts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-how-cornerstone-ai-is-making-data-right-for-healthcare-industry.md",
+      "title": "How Cornerstone AI is making data ‘right’ for healthcare industry",
+      "excerpt": "California-based Cornerstone AI has raised $5 million seed funding to solve the data quality problem for the healthcare industry.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/18/how-cornerstone-ai-is-making-data-right-for-healthcare-industry/",
+      "originalUrl": "https://venturebeat.com/2022/07/18/how-cornerstone-ai-is-making-data-right-for-healthcare-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-ghost-imaging-using-human-vision-and-ai-opens-up-novel-applications.md",
       "title": "Ghost imaging using human vision and AI opens up novel applications",
       "excerpt": "In the second phase of the research, the Russian scientists developed two artificial neural networks (ANN). They trained the first one with data to create images from visual \"noise\" in three of ...",
@@ -906,233 +1135,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-open-source-isnt-working-for-ai.md",
-      "title": "Open source isn’t working for AI",
-      "excerpt": "What’s the point of open sourcing code that runs at a scale no one can replicate? AI needs collaboration, but let’s think about it differently.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3667433/open-source-isnt-working-for-ai.html",
-      "originalUrl": "https://www.infoworld.com/article/3667433/open-source-isnt-working-for-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/10/it_leaders_it_professionals_engineers_technicians_in_network_server_room_data_center_consulting_discussion_planning_review_by_gorodenkoff_shutterstock_1699780489_royalty-free_digital-only_2400x1600-100907146-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3667433/open-source-isnt-working-for-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3667433/open-source-isnt-working-for-ai.amp.html",
-      "publishedDateTime": "2022-07-18T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-bc-if-your-child-isnt-learning-robotics-what-are-they-learning.md",
-      "title": "BC: If Your Child Isn’t Learning Robotics; What Are They Learning?",
-      "excerpt": "Robotics is the conception, design, construction and control of robots to assist humans ... How it helps the proper development of the brain and mind, fosters healthy competition, and instils ...",
-      "sourceUrl": null,
-      "webUrl": "https://punchng.com/bc-if-your-child-isnt-learning-robotics-what-are-they-learning/",
-      "originalUrl": "https://punchng.com/bc-if-your-child-isnt-learning-robotics-what-are-they-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.punchng.com/wp-content/uploads/2022/07/18091906/learning-child.jpg",
-          "width": 740,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://punchng.com/bc-if-your-child-isnt-learning-robotics-what-are-they-learning/?amp",
-      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/bc-if-your-child-isnt-learning-robotics-what-are-they-learning/?amp",
-      "publishedDateTime": "2022-07-18T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Punch Newspapers",
-        "domain": "punchng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-this-robot-dog-just-taught-itself-to-walk.md",
-      "title": "This robot dog just taught itself to walk",
-      "excerpt": "The robot dog is waving its legs in the air like an exasperated beetle. After 10 minutes of struggling, it manages to roll over to its front. Half an hour in, the robot is taking its first clumsy steps,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/07/18/1056059/robot-dog-ai-reinforcement/",
-      "originalUrl": "https://www.technologyreview.com/2022/07/18/1056059/robot-dog-ai-reinforcement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xAXvfVTgqr0/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/07/18/1056059/robot-dog-ai-reinforcement/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/07/18/1056059/robot-dog-ai-reinforcement/amp/",
-      "publishedDateTime": "2022-07-18T01:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-how-awards-recognition-decrease-inventors-creativity.md",
-      "title": "How awards, recognition decrease inventors' creativity",
-      "excerpt": "The U.S. Fear of failure the second time around Markus Baer, professor of organizational behavior at Olin, and Dirk Deichmann, of the Rotterdam School of Management in the Netherlands, discovered that recognizing first-time producers of successful novel ideas with an award or recognition can significantly decrease the likelihood that they will produce future creative work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.poandpo.com/leadership/how-awards-recognition-decrease-inventors-creativity/",
-      "originalUrl": "https://www.poandpo.com/leadership/how-awards-recognition-decrease-inventors-creativity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0722/inventor.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.poandpo.com/leadership/how-awards-recognition-decrease-inventors-creativity.amp",
-      "cdnAmpWebUrl": "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/leadership/how-awards-recognition-decrease-inventors-creativity.amp",
-      "publishedDateTime": "2022-07-18T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "poandpo.com",
-        "domain": "poandpo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-real-world-artificial-intelligence-for-security-safety-and-operations.md",
-      "title": "Real-World Artificial Intelligence for Security, Safety, and Operations",
-      "excerpt": "More AI is being applied in the real-world and proving its value. Here’s how thought leaders are assessing today’s AI landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.campussafetymagazine.com/news/artificial-intelligence-security-safety-operations/",
-      "originalUrl": "https://www.campussafetymagazine.com/news/artificial-intelligence-security-safety-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.campussafetymagazine.com/wp-content/uploads/2022/07/Control_Room_Monitoring_Using_Deep_Learning_Analytics-2-1000x500-1.jpg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T01:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Campus Safety Magazine",
-        "domain": "campussafetymagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

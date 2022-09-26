@@ -2,6 +2,156 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-09-beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests.md",
+      "title": "Beyond Mere Efficiency: Artificial Intelligence is Transforming Culture, Study Suggests",
+      "excerpt": "Executives who saw significant financial benefits from their AI initiatives were 10x more likely to change how they measure success than those who saw no such benefits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/631b608de551689b89d7038c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/amp/",
+      "publishedDateTime": "2022-09-09T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-artificial-intelligence-could-be-a-great-equalizer.md",
+      "title": "Artificial Intelligence Could Be a Great Equalizer",
+      "excerpt": "The benefits of AI will accrue not only to the wealthy and technologists but also to the poor and disadvantaged.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/artificial-intelligence-couldbe-agreat-equalizer/2022/09/09/bd246350-3037-11ed-bcc6-0874b26ae296_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/artificial-intelligence-couldbe-agreat-equalizer/2022/09/09/bd246350-3037-11ed-bcc6-0874b26ae296_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-09T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-artificial-intelligence-and-the-future-of-marketing.md",
+      "title": "Artificial Intelligence And The Future Of Marketing",
+      "excerpt": "Artificial intelligence is currently transforming marketing. Here, we look at the most exciting opportunities when it comes to using AI in marketing and explore where they are already being tapped.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/631ac44c2dd319e54f3d1994/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/amp/",
+      "publishedDateTime": "2022-09-08T21:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-09-shenzhen-accelerates-chinas-driverless-car-dreams.md",
       "title": "Shenzhen accelerates China’s driverless car dreams",
       "excerpt": "If the car is completely driverless, the owner of the vehicle will be responsible. If a defect causes an accident, the car owner can seek compensation from the manufacturer. “If you want more ...",
@@ -1185,146 +1335,6 @@
       "provider": {
         "name": "The Business Journals",
         "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-self-driving-tech-firm-aurora-mulls-sale-to-apple-or-microsoft-bloomberg-news.md",
-      "title": "Self-driving tech firm Aurora mulls sale to Apple or Microsoft - Bloomberg News",
-      "excerpt": "Aurora Innovation Inc Chief Executive Chris Urmson recently outlined several options for the self-driving tech firm to combat challenging market conditions, including a possible sale to Apple Inc or Microsoft Corp ,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/self-driving-company-aurora-mulling-possible-sale-apple-or-microsoft-bloomberg-2022-09-02/",
-      "originalUrl": "https://www.reuters.com/technology/self-driving-company-aurora-mulling-possible-sale-apple-or-microsoft-bloomberg-2022-09-02/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/yxjAESGr5tcvKUPS6TJ_kG3SSN4=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XTDFE4XF4FPW7EBD4TNEHLL3CM.jpg",
-          "width": 728,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-self-driving-tech-company-says-a-sale-to-apple-or-microsoft-is-possible.md",
-      "title": "Self-driving tech company says a sale to Apple or Microsoft is possible",
-      "excerpt": "Chris Urmson, who co-founded Aurora after running Google's self-driving car project, also outlined cost cuts and floated measures including taking the company private, spinning off or selling assets and pursuing a small capital raise in a memo labeled \"board discussion pre-read\" dated Aug.",
-      "sourceUrl": null,
-      "webUrl": "https://europe.autonews.com/suppliers/self-driving-tech-company-says-sale-apple-or-microsoft-possible",
-      "originalUrl": "https://europe.autonews.com/suppliers/self-driving-tech-company-says-sale-apple-or-microsoft-possible",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/AAurora-MAIN_i.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-flinders-university-is-testing-a-driverless-shuttle-bus-on-campus.md",
-      "title": "Flinders University Is Testing a Driverless Shuttle Bus On Campus",
-      "excerpt": "An autonomous shuttle bus is currently being tested at Flinders University and has now entered the second stage of its trial. Dubbed the “Flinders University Express Shuttle” (FLEX), the bus ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2022/09/flinders-autonomous-bus/",
-      "originalUrl": "https://www.gizmodo.com.au/2022/09/flinders-autonomous-bus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/09/02/flinders-autonomous-bus.png?quality=80&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2022/09/flinders-autonomous-bus/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/09/flinders-autonomous-bus/amp/",
-      "publishedDateTime": "2022-09-02T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gizmodo",
-        "domain": "gizmodo.com.au",
         "images": null,
         "publishers": null,
         "authors": null

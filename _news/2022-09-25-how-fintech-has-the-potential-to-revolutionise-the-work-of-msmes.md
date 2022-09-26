@@ -26,19 +26,6 @@ images:
     height: 636
     isCached: true
 
-related:
-  - title: "How fintech startups are re-writing the future of collections"
-    excerpt: "Digital transformation and innovations in the fintech space are continuously reforming the financial services industry as we know it. Research suggests that India is among the fastest growing fintech markets globally – home to 6,"
-    publishedDateTime: 2022-09-21T16:44:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-startups-are-re-writing-the-future-of-collections/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-startups-are-re-writing-the-future-of-collections/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-fintech-startups-are-re-writing-the-future-of-collections/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 24
-
 secured: "bq77hjYWBhNH4MwQBv7Z2trTEtExNBjUuJhmjaOLLIXkEsedKTlRj5ul3bz1Zg4xgACR3MwRI1sEtm/uCjmpwZrmFFCibuNjMV3IjPENS+k4pWIIVIuSKtbsgydRYsnGmBMbZI+jWug5P8fjDVELV0mFQ0E/seDyDxXZy2wCTUd9+wrrMUtTW4TLP5tKa0vsTnNz7q1DjxwWqccwH2PPEcWVffy6DSeOGJIgl+UUqsfhDLvBJ6O5xaTXoV6zR43Awxo29Cb42XrEtm/d1d4hnqZ4JeGgMdrXQJcdnp2Aj18Jzny3Iw7OaTE03ykxOSADIA0e6WENHoin7/WRIiNzSuAOaCiqN84mPtlaF86t2XVLMrZOjoYAqvJO7BTtAcEZNFtDtxqhEeph6UKTOYZk5jlwnD+mAvte2wYhLDQVmaK7QNlV26+8BMGNO1bAHizparTia5PFecP7eOi9XPyb91Yat29JZeJ9OagB4nmx6lFt2GjNC+2YOq2BEs9U/6OlXAA5TDILnjd8s1K/iJ8ndg==;4tleFE5oXraQhuifigio2g=="
 ---
 

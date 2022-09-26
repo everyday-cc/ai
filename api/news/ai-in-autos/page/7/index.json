@@ -2,6 +2,126 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-08-18-artificial-intelligence-could-make-our-food-safer-but-at-what-cost.md",
+      "title": "Artificial intelligence could make our food safer — but at what cost?",
+      "excerpt": "But according to a new study by Yada and his colleagues, these serious or fatal incidents could soon be a thing of the past with the employment of artificial intelligence (AI) in food production. Currently, the study explains, most food safety errors are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.burnabynow.com/highlights/artificial-intelligence-could-make-our-food-safer-but-at-what-cost-5709691",
+      "originalUrl": "https://www.burnabynow.com/highlights/artificial-intelligence-could-make-our-food-safer-but-at-what-cost-5709691",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.vmcdn.ca/f/files/glaciermedia/images/getty-images/potatochipproduction.jpg;w=1200;h=800;mode=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Burnaby Now",
+        "domain": "burnabynow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-critical-analysis-baidu-nasdaqbidu-and-grom-social-enterprises-nasdaqgrom.md",
+      "title": "Critical Analysis: Baidu (NASDAQ:BIDU) and Grom Social Enterprises (NASDAQ:GROM)",
+      "excerpt": "Grom Social Enterprises (NASDAQ:GROM – Get Rating) and Baidu (NASDAQ:BIDU – Get Rating) are both computer and technology companies, but which is the superior business? We will compare the two companies based on the strength of their risk,",
+      "sourceUrl": null,
+      "webUrl": "https://www.defenseworld.net/2022/08/18/critical-analysis-baidu-nasdaqbidu-and-grom-social-enterprises-nasdaqgrom.html",
+      "originalUrl": "https://www.defenseworld.net/2022/08/18/critical-analysis-baidu-nasdaqbidu-and-grom-social-enterprises-nasdaqgrom.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T23:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense World",
+        "domain": "defenseworld.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-russian-military-to-develop-weapons-using-artificial-intelligence.md",
+      "title": "Russian military to develop weapons using artificial intelligence",
+      "excerpt": "Russia said created a department for developing AI weapons. The program could serve to counter the Pentagon’s newly formed AI authority.",
+      "sourceUrl": null,
+      "webUrl": "https://www.defensenews.com/artificial-intelligence/2022/08/17/russia-military-to-develop-weapons-using-artificial-intelligence/?amp;amp",
+      "originalUrl": "https://www.defensenews.com/artificial-intelligence/2022/08/17/russia-military-to-develop-weapons-using-artificial-intelligence/?amp;amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.defensenews.com/resizer/_rde8-COgWmH1TbZjOSwz89PbVA=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/42I76S76MFE2RN5JSNIER6RHIU.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T17:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense News",
+        "domain": "defensenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-18-unprecedented-ai-chip-could-revolutionise-artificial-intelligence.md",
       "title": "‘Unprecedented’ AI chip could revolutionise artificial intelligence",
       "excerpt": "The system should allow increasingly complex artificial intelligence to live on chips themselves, without having to send information to the cloud. At the moment, most applications of AI are not ...",
@@ -1217,144 +1337,6 @@
       "provider": {
         "name": "GPS World",
         "domain": "gpsworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-15-tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai.md",
-      "title": "Tata Elxsi brings new age solutions for driverless cars, connected vehicles and more: Tata Elxsi CMO Nitin Pai",
-      "excerpt": "We invested early in Centers of Excellence (CoE) for digital technologies such as AI (artificial intelligence), robotics ... platforms such as AUTONOMAI for driverless cars, TETHER IoT for ...",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/93515596",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/93515596",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-93515596,imgsize-44998,width-1200,height-628,overlay-etcio/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/93515596",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/93515596",
-      "publishedDateTime": "2022-08-14T13:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cio.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-14-xiaomi-pilot-technology-for-autonomous-driving-unveiled.md",
-      "title": "Xiaomi Pilot Technology for autonomous driving unveiled",
-      "excerpt": "Chinese tech powerhouse Xiaomi is making progress in its quest to produce an autonomous electric vehicle. The company has made a substantial investment in the development of a Xiaomi car brand since May 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/",
-      "originalUrl": "https://www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/08/xiaomi-pilot-tech-3.jpg",
-          "width": 1652,
-          "height": 920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/?amp=1",
-      "publishedDateTime": "2022-08-14T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-14-chinese-start-up-boldly-claims-its-autonomous-car-tech-will-overtake-tesla.md",
-      "title": "Chinese start-up boldly claims its autonomous car tech will overtake Tesla",
-      "excerpt": "Backed by China's Google rival Baidu and car maker Geely, Jidu Auto believes the autonomous technology in its vehicles will be better than the systems developed by Tesla.",
-      "sourceUrl": null,
-      "webUrl": "https://www.drive.com.au/news/jidu-auto-autonomous-car-better-than-tesla/",
-      "originalUrl": "https://www.drive.com.au/news/jidu-auto-autonomous-car-better-than-tesla/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.drive.com.au/driveau/image/upload/c_fill,h_720,w_1280/q_auto:eco/f_auto/v1/cms/uploads/xxzhadsur1fjfmyeymgb",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-13T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Drive.com.au",
-        "domain": "drive.com.au",
         "images": null,
         "publishers": null,
         "authors": null

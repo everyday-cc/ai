@@ -2,6 +2,257 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2022-08-26-tesla-full-self-driving-debate-escalates-with-legal-threats-banned-videos.md",
+      "title": "Tesla ‘full self-driving’ debate escalates with legal threats, banned videos",
+      "excerpt": "Tesla fans rushed to defend the automaker after a prominent critic released a video showing one of the company's cars with the feature it calls \"full self-driving\" plowing into child-size mannequins.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/08/25/business/tesla-dan-odowd-videos/index.html",
+      "originalUrl": "https://www.cnn.com/2022/08/25/business/tesla-dan-odowd-videos/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220825123609-03-tesla-autopilot-file-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/08/25/business/tesla-dan-odowd-videos/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/25/business/tesla-dan-odowd-videos/index.html",
+      "publishedDateTime": "2022-08-25T13:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-26-fn-meka-the-racist-ai-rapper-is-a-symptom-of-a-bigger-problem.md",
+      "title": "FN Meka, the racist AI 'rapper,' is a symptom of a bigger problem",
+      "excerpt": "Capitol Records ended its record deal with a stereotypical 'rapper' that rhymes in the digital world. The controversy showed a major pitfall of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.msnbc.com/the-reidout/reidout-blog/fn-meka-capitol-records-ai-rapper-rcna44785",
+      "originalUrl": "https://www.msnbc.com/the-reidout/reidout-blog/fn-meka-capitol-records-ai-rapper-rcna44785",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-08/220825-ROB-Ai-rapper-an-b434e7.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna44785",
+      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna44785",
+      "publishedDateTime": "2022-08-25T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSNBC",
+        "domain": "msnbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-26-counterpoint-ai-is-far-more-dangerous-than-quantum-computing.md",
+      "title": "Counterpoint: AI is far more dangerous than quantum computing",
+      "excerpt": "A respectful counterpoint to an op-ed article published earlier this week declaring quantum computing a greater threat than AI.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/counterpoint-ai-far-more-dangerous-than-quantum-computing",
+      "originalUrl": "https://thenextweb.com/news/counterpoint-ai-far-more-dangerous-than-quantum-computing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2Fscaredrobot.jpg&signature=33af3f0f76c643a35c6038c920c40200",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T12:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-build-a-multi-lingual-document-translation-workflow-with-domain-specific-and-language-specific-customization.md",
+      "title": "Build a multi-lingual document translation workflow with domain-specific and language-specific customization",
+      "excerpt": "In the digital world, providing information in a local language isn’t novel, but it can be a tedious and expensive task. Advancements in machine learning (ML) and natural language processing (NLP) have made this task much easier and less expensive. We have seen increased adoption of ML for multi-lingual",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-lingual-document-translation-workflow-with-domain-specific-and-language-specific-customization/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-lingual-document-translation-workflow-with-domain-specific-and-language-specific-customization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/25/multi-lingual-document-translation.jpg",
+          "width": 1533,
+          "height": 762,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-26-nvidia-grace-and-hopper-superchips-are-poised-to-be-ai-and-hpc-powerhouses.md",
+      "title": "NVIDIA Grace And Hopper Superchips Are Poised To Be AI And HPC Powerhouses",
+      "excerpt": "NVIDIA’s Grace Superchips will become part of a building inertia with respect to the highly scalable ArmV9 architecture in the data center, and give legacy x86 a run for its money.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2022/08/25/nvidia-grace-and-hopper-superchips-are-poised-to-be-ai-and-hpc-powerhouses/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2022/08/25/nvidia-grace-and-hopper-superchips-are-poised-to-be-ai-and-hpc-powerhouses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6307aa901bf7e61eb9653b4d/0x0.jpg?format=jpg&width=1200",
+          "width": 1000,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2022/08/25/nvidia-grace-and-hopper-superchips-are-poised-to-be-ai-and-hpc-powerhouses/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/08/25/nvidia-grace-and-hopper-superchips-are-poised-to-be-ai-and-hpc-powerhouses/amp/",
+      "publishedDateTime": "2022-08-25T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-08-25-ai-startup-wants-to-make-foreign-call-center-employees-sound-white.md",
       "title": "AI Startup Wants to Make Foreign Call Center Employees Sound White",
       "excerpt": "Sanas argues that its technology can be empowering for call center employees by removing bias and limiting misunderstandings during phone conversations. Critics say it's erasure.",
@@ -956,223 +1207,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-telco-to-techco-the-future-of-connectivity-and-digital-services.md",
-      "title": "Telco to Techco: The future of connectivity and digital services",
-      "excerpt": "The UAE is among the world’s most welcoming business environments and its government has long encouraged digital transformation as a means for public entities to become more efficient and private enterprise to be more competitive.",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/technology/telco-to-techco-the-future-of-connectivity-and-digital-services-1.1660912676666",
-      "originalUrl": "https://gulfnews.com/technology/telco-to-techco-the-future-of-connectivity-and-digital-services-1.1660912676666",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T01:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else.md",
-      "title": "Why Tesla Thinks It'll Build Self-Driving Cars Before Everyone Else",
-      "excerpt": "Their job is to process video from the fleet of Tesla cars on the road today to learn how real-world driving works. That training process is the foundation for the FSD, short for Full Self Driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 221,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/271a46fb3adb415aeca54f56d60baeddc11e3033/2022/08/24/0f2b65be-0d7e-461e-b630-2d3103b9c76e/tesla-d1-dojo-chip.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/",
-      "publishedDateTime": "2022-08-25T00:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-with-5137-cagr-artificial-intelligence-in-healthcare-market-would-rocket-up-to-usd-17522-billion-by-2029.md",
-      "title": "With 51.37% CAGR, Artificial Intelligence in Healthcare Market would rocket up to USD 175.22 billion by 2029",
-      "excerpt": "The significant Artificial Intelligence in Healthcare report offers comprehensive explanation of market definition, market segmentation, competitive analysis and key developments in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/with-51-37-cagr-artificial-intelligence-in-healthcare-market-would-rocket-up-to-usd-175-22-billion-by-2029",
-      "originalUrl": "https://www.digitaljournal.com/pr/with-51-37-cagr-artificial-intelligence-in-healthcare-market-would-rocket-up-to-usd-175-22-billion-by-2029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/DDD-8-600x337.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T23:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-former-prime-minister-tony-abbott-believes-anthony-albaneses-indigenous-voice-to-parliament-is-wrong-form-of-recognition.md",
-      "title": "Former prime minister Tony Abbott believes Anthony Albanese's indigenous Voice to Parliament is 'wrong form of recognition'",
-      "excerpt": "The ex Liberal leader told Sky News Australia he was \"in favour\" of doing the right thing by indigenous people but believes the Voice was the \"wrong form\" of recognition. \"I would be in principle ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.skynews.com.au/australia-news/politics/former-prime-minister-tony-abbott-believes-anthony-albaneses-indigenous-voice-to-parliament-is-wrong-form-of-recognition/news-story/ad08a4a5cd13e9317217292527fbe4e8?amp",
-      "originalUrl": "https://www.skynews.com.au/australia-news/politics/former-prime-minister-tony-abbott-believes-anthony-albaneses-indigenous-voice-to-parliament-is-wrong-form-of-recognition/news-story/ad08a4a5cd13e9317217292527fbe4e8?amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.api.news/v3/images/bin/ee07781d2419bc122a686a3141e85c18",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.skynews.com.au/australia-news/politics/former-prime-minister-tony-abbott-believes-anthony-albaneses-indigenous-voice-to-parliament-is-wrong-form-of-recognition/news-story/ad08a4a5cd13e9317217292527fbe4e8?amp",
-      "cdnAmpWebUrl": "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/politics/former-prime-minister-tony-abbott-believes-anthony-albaneses-indigenous-voice-to-parliament-is-wrong-form-of-recognition/news-story/ad08a4a5cd13e9317217292527fbe4e8?amp",
-      "publishedDateTime": "2022-08-24T23:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sky News Australia",
-        "domain": "skynews.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics.md",
-      "title": "Hyundai Motor Group Launches Boston Dynamics AI Institute to Spearhead Advancements in Artificial Intelligence & Robotics",
-      "excerpt": "Hyundai Motor Group (the Group) today announced the launch of Boston Dynamics AI Institute (the Institute), with the goal of making fundamental advances",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/hyundai-motor-group-launches-boston-dynamics-ai-institute-spearhead-advancements",
-      "originalUrl": "https://www.albawaba.com/business/pr/hyundai-motor-group-launches-boston-dynamics-ai-institute-spearhead-advancements",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2022-08/40039-Large370072020KonaElectric.jpg?itok=k2Z28teN",
-          "width": 595,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/hyundai-motor-group-launches-boston-dynamics-ai-institute-spearhead-advancements",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/hyundai-motor-group-launches-boston-dynamics-ai-institute-spearhead-advancements",
-      "publishedDateTime": "2022-08-24T22:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

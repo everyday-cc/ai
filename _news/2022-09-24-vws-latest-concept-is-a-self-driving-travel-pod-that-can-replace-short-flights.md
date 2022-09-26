@@ -1,14 +1,14 @@
 ---
 category: news
 title: "VW's latest concept is a self-driving travel pod that can replace short flights"
-excerpt: "Many automakers dream of self-driving cars that are effectively lounges on wheels, but VW is taking things one step further. The brand has unveiled a Gen.Travel \"design study\" EV that it hopes could replace short flights."
+excerpt: "We wouldn't count on all of them reaching the self-driving machines VW expects to make from 2025 onward, but don't be surprised if future robotaxis seem very familiar."
 publishedDateTime: 2022-09-23T17:06:00Z
-originalUrl: "https://www.engadget.com/vw-gen-travel-self-driving-pod-162904370.html?src=rss"
-webUrl: "https://www.engadget.com/vw-gen-travel-self-driving-pod-162904370.html?src=rss"
+originalUrl: "https://www.engadget.com/vw-gen-travel-self-driving-pod-162904370.html"
+webUrl: "https://www.engadget.com/vw-gen-travel-self-driving-pod-162904370.html"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 80
+published: true
 
 provider:
   name: Engadget
@@ -43,7 +43,35 @@ related:
         width: 1920
         height: 1322
         isCached: true
+  - title: "China to set self-driving standard"
+    excerpt: "Industry analysts said the ISO's acceptance confirms that China is spearheading the research and development as well as the application of self-driving technologies, and promoting their large-scale commercial use."
+    publishedDateTime: 2022-09-23T23:57:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202209/24/WS632e3ac7a310fd2b29e797fd.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202209/24/632e3ac7a310fd2beca35450.jpeg"
+        width: 658
+        height: 438
+        isCached: true
+  - title: "Is this self-driving VW concept the future of motoring?"
+    excerpt: "Looks fancy! But wait, haven’t we heard all of this before? We’ve been 10 years away from advanced self-driving technology for what feels like decades. Is Volkswagen to be believed this time? The company's new GEN.TRAVEL concept isn’t even gunning to ..."
+    publishedDateTime: 2022-09-26T03:59:00Z
+    webUrl: "https://www.topgear.com/car-news/concept/self-driving-vw-concept-future-motoring"
+    type: article
+    provider:
+      name: Top Gear
+      domain: topgear.com
+    quality: 24
+    images:
+      - url: "https://www.topgear.com/sites/default/files/images/news-article/2022/09/6ec42b6009e5dbf423a76e550bd54110/Volkswagen_Gen_concept_dynamic_side.jpg?w=1280&h=720"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "nqx8z942TRubs/w/7f1fjrywBee7VkT2j/Ue5t39b2eQiy9E9+K6M1iRIsA82d+W6sIlWSGyEZXfJXJ621YMVaIRsBR5jw34MHxCnFlZ3viIcYu1BF/qv+207WzextON24Ni76ieoBKBsmaCGIFHHbAFFEAMrXbwMK1SZXJJ0IBf3xs1la0eJ31k/6maDZNel74tCVeLBJnMRqBaRPjH3/qzkiRsv6NN5FZU+3eGiB6ozRH28/+DVjoyIrgxb3cuZIIUxwIkYvXZckyf9lpPymtJi0pI6Eg66WfNguCVcv8WxiD9UIwLSkX8fR5fdOg9zcBTVPDAHYuy5aZnlWeqqu3wNxzjmMYf+2ENh9oSW/NynnYLOZtJPWcLwBbr5WdaN1Er80DEmSYQx2qo/LyZ/8YOnbGAB8E1omFiuxSRnhzDZR+D3uW6aY+KGeNMdR9srutUiW9y9C0H/dKxRYSneVu26vRn3jqdwxq9dZF/WXpWYW9Gg2Cue4XsthgV5PEQ+EWsAiMad5dhnxy7/Ciohw==;MFvCj44CeWE5hBndzf+lnA=="
+secured: "UtFnlSOAgbLSfztF7OvAVNXCxJ0Dtt8naIo5B1X4X0f/D/CxkYvKyBTJriDhzVo0eZ06l9tkXUH/mYwKvqG3BZXpWujKjEV/vaQdVAgzYKWi4ykSKTsuqYWF3WPGdzGRaRXZvLMEdiLa9EYqeDrpCvM8eGiVRqtQ1JNV4QvumbxoDQ2QVEKieUuoYjRy3IgcLDFYDR5M5dJzP2n03xRAGHw/6Ifyd2zv4xofdUg8DeFNRTStFa9VxVTcoHYBWvz2DOGK+VcZbpxFmFTNI2i0X8RqmT0GQZiLAXJKDVlkgec60UfxIb3LiojT0qVwNqneexrYZ9wEOszTfL0Lu+k9iorcwqaUZqAUHpXjZ+JDDKY=;c7013DDaHcHImj4NS7PVuA=="
 ---
 

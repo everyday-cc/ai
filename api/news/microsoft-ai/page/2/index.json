@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-15-microsofts-69b-activision-deal-faces-in-depth-uk-inquiry.md",
+      "title": "Microsoft's $69B Activision deal faces in-depth UK inquiry",
+      "excerpt": "Microsoft's $69 billion deal to buy video game company Activision Blizzard faces an in-depth antitrust investigation in Britain after the tech company refused to offer proposals to ease competition concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ctinsider.com/news/article/Microsoft-s-69B-Activision-deal-faces-in-depth-17443968.php",
+      "originalUrl": "https://www.ctinsider.com/news/article/Microsoft-s-69B-Activision-deal-faces-in-depth-17443968.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/27/21/37/22878184/4/rawImage.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ctinsider",
+        "domain": "ctinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-15-summit-design-and-engineering-services-chooses-the-microsoft-cloud-and-aec360-to-fuel-business-growth.md",
       "title": "Summit Design and Engineering Services Chooses the Microsoft cloud and aec360 to Fuel Business Growth",
       "excerpt": "Summit Design and Engineering Services, has selected Microsoft Dynamics 365 and aec360 as the firm's new cloud-based business management platform. The organizations have begun the process of ...",
@@ -1252,49 +1295,6 @@
         "Microsoft AI",
         "Machine Learning",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-multiple-cognitive-abilities-may-be-empirically-measured-from-complex-video-game-experiences.md",
-      "title": "Multiple cognitive abilities may be empirically measured from complex video game experiences",
-      "excerpt": "Parents and pundits may no longer argue that gamers are indulging in brainless activities in front of their screens. And gamers may finally feel a sense of vindication. Kyoto University and BonBon ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-09-multiple-cognitive-abilities-empirically-complex.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-09-multiple-cognitive-abilities-empirically-complex.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/gamers-can-have-their.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-09-multiple-cognitive-abilities-empirically-complex.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-multiple-cognitive-abilities-empirically-complex.amp",
-      "publishedDateTime": "2022-09-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Get half off lifetime access to this AI-based voiceover app"
-    excerpt: "You don’t need to hire a voiceover artist to bring your marketing assets to life, either. With text-to-speech technology, you just need to feed your script into an engine and tweak the results before publishing."
-    publishedDateTime: 2022-09-21T15:09:00Z
-    webUrl: "https://www.engadget.com/micmonster-deal-sale-145541944.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 67
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-09/22289ce0-35f5-11ed-bec6-92f2cb4a34d1"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "r8weIXwm9CfO4BM5LOhxwWosxwY4zHTpPJc+WWXU8oGm69P9vNWFe8hOK/q+oEEiv+eySTDcwjhTLFxLjVXhw5bqU5PnAXSg27JXdgKeZ2FuJrzEhQRUha97LmFu69g1qSnX+KF6w8+risCUU7EUdgSfBqRd2SlPeql5BTmjRblC5Ko2F9OHbsoZUqqq17JytKRHFEw55U+gqNfJrW3Jo7VnYbn7Z5BYlSqMh9YVPFpnqs4C3UyjATnavCgSGChxXCP4mPV6id66C52TumN0zvUPSS2wx1yHXnYv2KNUYAmDGePGkMTYyrgMCEcgKYWRStEIg5MqyYkcbWHixRE4SRejAVQbgaprvjKG//dWyTE=;YygtyUINvVihKCSt5egRMQ=="
 ---

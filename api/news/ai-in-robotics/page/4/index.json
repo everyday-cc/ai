@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-29-lets-talk-about-robotics-ai-not-about-the-length-of-womens-dress.md",
+      "title": "\"Let’s talk about robotics, AI, not about the length of women’s dress\"",
+      "excerpt": "Education Minister Dr Dipu Moni today (August 29, 2022) said now is not the time to talk about the length of women’s dress.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailystar.net/youth/education/news/lets-talk-about-robotics-ai-not-about-the-length-womens-dress-3106051",
+      "originalUrl": "https://www.thedailystar.net/youth/education/news/lets-talk-about-robotics-ai-not-about-the-length-womens-dress-3106051",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thedailystar.net/sites/default/files/styles/social_share/public/feature/images/dipu_moni_2.jpg",
+          "width": 750,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thedailystar.net/youth/education/news/lets-talk-about-robotics-ai-not-about-the-length-womens-dress-3106051?amp",
+      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/youth/education/news/lets-talk-about-robotics-ai-not-about-the-length-womens-dress-3106051?amp",
+      "publishedDateTime": "2022-08-29T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Star",
+        "domain": "thedailystar.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-ai-illuminates-permanently-shadowed-regions-on-the-moon.md",
       "title": "AI illuminates permanently shadowed regions on the moon",
       "excerpt": "The study's findings could have direct implications for future missions, including Intuitive Machines Mission 2, which will be conducted on a commercial basis by a start-up. This robotic mission in the spring of 2023 aims to collect and analyze the first ...",
@@ -1295,58 +1338,6 @@
         "name": "India Education Diary",
         "domain": "indiaeducationdiary.in",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-artificial-intelligence-ai-robots-market-research-report-forecast-2022-to-2028-latest-industry-news-top-company-analysis-research-methodology.md",
-      "title": "Artificial Intelligence (AI) Robots Market Research report forecast 2022 To 2028, Latest Industry News, Top Company Analysis, Research Methodology.",
-      "excerpt": "According to our recent \"Artificial Intelligence (AI) Robots market research report\", the Artificial Intelligence (AI) Robots market with a compound annual growth rate (CAGR) of a percent 2022-2028.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-research-report-forecast-2022-to-2028-latest-industry-news-top-company-analysis-research-methodology-2022-08-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-research-report-forecast-2022-to-2028-latest-industry-news-top-company-analysis-research-methodology-2022-08-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

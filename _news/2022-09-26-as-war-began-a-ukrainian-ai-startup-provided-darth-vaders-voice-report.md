@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Artificial Intelligence takes over as the voice of Darth Vader"
+    excerpt: "James Earl Jones has reportedly agreed to allow LucasFilm and Disney to use artificial intelligence to create the voice of Darth Vader as he’s decided to step back from the role. According to Vanity Fair,"
+    publishedDateTime: 2022-09-26T08:31:00Z
+    webUrl: "https://www.tvbeurope.com/audio/artificial-intelligence-takes-over-as-the-voice-of-darth-vader"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 37
+    images:
+      - url: "https://www.tvbeurope.com/wp-content/uploads/2022/09/Darth-Vader.jpg"
+        width: 900
+        height: 562
+        isCached: true
   - title: "James Earl Jones Reportedly Signed Over Rights of Darth Vader's Voice to AI Company"
     excerpt: "James Earl Jones has reportedly stepped back from voicing Darth Vader after over 40 years. According to a story from Vanity Fair, which focuses on the Ukrainian start-up company Respeecher, the 91-year-old “signed off” on utilizing Respeecher’s AI technology to recreate his voice as Darth Vader."
     publishedDateTime: 2022-09-26T03:32:00Z
@@ -94,6 +108,6 @@ related:
       domain: washingtonexaminer.com
     quality: 17
 
-secured: "CZJAeBYNGgdvb5tWVCx8CsQ2/+0WYou98sgYGPsLC9sTZGbiHp4HETB5qZCH9BUtE8ooI2HBVT/PMcZLWFbf9qA2YMCnvVEP5VHUhx1BbBcvvYrlI3mu+yyo1rOwuDL80u29VXIklCHwUT6PYW4Dz/9eXqt87IAEYfQKDu+khxlEoCcY8TDfgDbOiwe7ePHq3CmyRMnQ2dME9jzJ5KKlkkFM8LKAtWugl2/oA+mMA1P6VmiFrTD6R+qpw64CN/CkDXppbO+CjAWGU+0kYba8TVKz/wqAVFM+XN6ss8HR/zuKczEIUdGoqWeaAzYtSYvk1BODdGxgfVnc2p49gL8+nOKgzgfApWyQia+zRTdhwNY=;oqJf2EwOE0GsK6BZB5m2+Q=="
+secured: "U67esoWrYpDvgTEqjzC1Uh7enQFg7JfpXpC0Qe97lyOG5U7aqRWFVwG0nlDDNVe6lrXrfNUVthHJ3wvJysw+FDaY1NIHeWr0W8eRF2QKqGGCdvuAZdijsqrmgtpFF3RTI660LX2wbBbURyGQ+L57cq1VGGFt2SZo/9tNtYlts72XSD0+dK34zxd0MywEQx5WDkcJTuerFYs8GxpS3c4VyzAtHae4FZVDz/uCeyMUQlezbrbMzpGpc50OG+yRmSoVLuemNwXTiTcP0Xy8ws4SNK0xFU5DcFj2kB5h87LsMoNfxjS8JxsYvnUKjpLkMSE1fwqgDkGWDLJE7Ex+/3exf9al0ENpIb2GlVnHFhiWy1kYir9unR+OTMBjj7IY8ZV8uUGfEVTsrB0bY+iX/xSb816UU3f11gpR0b2df3y4AwtDDr34vCCpSKVJ0IHR9VfuqjMCT0FGM3jyzGcqYxVZWoMHwQyDKEgqP9nPLnrTsRvZ/U516XEnVTvt1lXi87in7fS4EFScXEGGQABB0vdhXA==;IRqqXnS9nKVzldOCcalsoA=="
 ---
 

@@ -2,6 +2,232 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2022-08-04-aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-conversational-artificial-intelligence.md",
+      "title": "Aragon Research Announces the 2022 Hot Vendors in Computer Vision, Intelligent Contact Centers, and Conversational Artificial Intelligence",
+      "excerpt": "Aragon Research Announces the 2022 Hot Vendors in Computer Vision, Intelligent Contact Centers, and Conversational Artificial Intelligence Aug 04,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-conversational-artificial-intelligence-2022-08-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-conversational-artificial-intelligence-2022-08-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-proteins-and-natural-language-artificial-intelligence-enables-the-design-of-novel-proteins.md",
+      "title": "Proteins and natural language: Artificial intelligence enables the design of novel proteins",
+      "excerpt": "Artificial intelligence (AI) has created new possibilities for designing tailor-made proteins to solve everything from medical to ecological problems. A research team at the University of Bayreuth led by Prof.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.html",
+      "originalUrl": "https://phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/proteins-and-natural-l.jpg",
+          "width": 2835,
+          "height": 1929,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.amp",
+      "publishedDateTime": "2022-08-04T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-speech-and-voice-recognition-technology-market-insights-and-in-depth-analysis-2022-2028-with-types-products-and-key-players.md",
+      "title": "Speech and Voice Recognition Technology Market Insights and In-Depth Analysis 2022-2028 with Types, Products and Key Players",
+      "excerpt": "Aug 04, 2022 (Market Insight Reports) -- The research report on Speech and Voice Recognition Technology market report provides a granular assessment of this industry vertical The report provides a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-insights-and-in-depth-analysis-2022-2028-with-types-products-and-key-players-2022-08-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-insights-and-in-depth-analysis-2022-2028-with-types-products-and-key-players-2022-08-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-veritone-creates-ai-driven-revenue-opportunities-for-enterprise-media-entertainment-companies-on-aws-morningstar.md",
+      "title": "Veritone Creates AI-Driven Revenue Opportunities for Enterprise Media & Entertainment Companies on AWS | Morningstar",
+      "excerpt": "Get 7 Days Free Sign In Sign In Topics",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20220804005271/veritone-creates-ai-driven-revenue-opportunities-for-enterprise-media-entertainment-companies-on-aws",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20220804005271/veritone-creates-ai-driven-revenue-opportunities-for-enterprise-media-entertainment-companies-on-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T05:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-cognitive-solution-market-by-latest-trend-growing-demand-and-technology-advancement-2022-2031.md",
+      "title": "Cognitive Solution Market By Latest Trend, Growing Demand And Technology Advancement 2022-2031",
+      "excerpt": "Restraints and opportunity analysis is a tool used in assessing the potential for new products and services ... World's Biggest Cognitive Solution Market Specific manufacturing Microsoft ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104645277/Cognitive-Solution-Market-By-Latest-Trend-Growing-Demand-And-Technology-Advancement-2022-2031",
+      "originalUrl": "https://menafn.com/1104645277/Cognitive-Solution-Market-By-Latest-Trend-Growing-Demand-And-Technology-Advancement-2022-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-08/04/EP_0a768image_story.jpeg",
+          "width": 286,
+          "height": 286,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-04-microsoft-becomes-australian-space-hubs-first-constellation-partner.md",
       "title": "Microsoft becomes Australian space hub's first 'Constellation Partner'",
       "excerpt": "As part of the agreement, the tech giant will provide hub members with Microsoft Azure Space engineers as they build products for commercial use",
@@ -898,239 +1124,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-fedex-to-expand-robotics-technology-artificial-intelligence.md",
-      "title": "FedEx to expand robotics technology, artificial intelligence",
-      "excerpt": "Berkshire Grey and FedEx are strategically aligned. These new agreements reflect our mutual commitment to innovations in robotic automation that can remove barriers within the",
-      "sourceUrl": null,
-      "webUrl": "https://www.localmemphis.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
-      "originalUrl": "https://www.localmemphis.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.tegna-media.com/assets/WATN/images/8a9eb14f-8b13-4393-888f-6ca911584cb0/8a9eb14f-8b13-4393-888f-6ca911584cb0_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.localmemphis.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
-      "cdnAmpWebUrl": "https://www-localmemphis-com.cdn.ampproject.org/c/s/www.localmemphis.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
-      "publishedDateTime": "2022-08-03T16:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Local 24 News",
-        "domain": "localmemphis.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-this-startup-just-raised-320m-to-make-long-term-care-inside-hospitals-obsolete.md",
-      "title": "This startup just raised $320M to make long-term care inside hospitals obsolete",
-      "excerpt": "Cera, a UK provider of healthcare inside people’s homes augmented by a platform that allows carers to monitor a patient’s health and potentially flag problems, has raised $320m (£260m) in an equity and debt financing round,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/03/this-startup-just-raised-320m-to-make-long-term-care-inside-hospitals-obsolete/",
-      "originalUrl": "https://techcrunch.com/2022/08/03/this-startup-just-raised-320m-to-make-long-term-care-inside-hospitals-obsolete/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/Cera-frontline-2.jpg?w=799",
-          "width": 799,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/03/this-startup-just-raised-320m-to-make-long-term-care-inside-hospitals-obsolete/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/03/this-startup-just-raised-320m-to-make-long-term-care-inside-hospitals-obsolete/amp/",
-      "publishedDateTime": "2022-08-03T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-regular-exercise-program-may-stall-cognitive-decline.md",
-      "title": "Regular Exercise Program May Stall Cognitive Decline",
-      "excerpt": "Sedentary older adults with amnestic mild cognitive impairment who engaged in regular exercise for a year maintained their cognition without decline, topline data from the EXERT trial showed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/meetingcoverage/aaic/100054",
-      "originalUrl": "https://www.medpagetoday.com/meetingcoverage/aaic/100054",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.medpagetoday.net/media/images/100xxx/100054.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-cognitive-decline-can-be-avoided-with-simple-everyday-exercises-new-study-suggests.md",
-      "title": "Cognitive decline can be avoided with simple everyday exercises, new study suggests",
-      "excerpt": "While scientists have always recommended physical activity to keep the brain healthy, research now shows regular stretching and motion exercises can help older people with mild memory troubles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/health/cognitive-decline-avoided-simple-everday-exercises-new-study-suggests",
-      "originalUrl": "https://www.foxnews.com/health/cognitive-decline-avoided-simple-everday-exercises-new-study-suggests",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d65e022-dec5-405d-9c8f-df89169b5319/3965b698-d2da-45fb-91c0-f7b83924295d/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/health/cognitive-decline-avoided-simple-everday-exercises-new-study-suggests.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/cognitive-decline-avoided-simple-everday-exercises-new-study-suggests.amp",
-      "publishedDateTime": "2022-08-03T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-aws-and-microsoft-eye-economy-in-a-bid-to-control-cloud-cost.md",
-      "title": "AWS and Microsoft eye economy in a bid to control cloud cost",
-      "excerpt": "Microsoft and Amazon pledged to control costs for cloud customers during quarterly earnings calls last week, acknowledging the financial and operation strains inflation and rising interest rates have put on their customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ciodive.com/news/AWS-Microsoft-Azure-Cloud-Cost/628823/",
-      "originalUrl": "https://www.ciodive.com/news/AWS-Microsoft-Azure-Cloud-Cost/628823/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ciodive.com/imgproxy/n5FZkMy-IWVuDlOHzZ-XELfiyAL-yXkAZb6FFzDfdaY/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTY3MTAzMzA4MC5qcGc.jpg",
-          "width": 770,
-          "height": 364,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO Dive",
-        "domain": "ciodive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

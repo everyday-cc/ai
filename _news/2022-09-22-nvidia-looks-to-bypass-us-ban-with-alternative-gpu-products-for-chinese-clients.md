@@ -27,18 +27,15 @@ images:
 related:
   - title: "NVIDIA Hopper in Full Production"
     excerpt: "NVIDIA announced that the NVIDIA H100 Tensor Core GPU is in full production, with global tech partners planning in October to roll out the first wave of products and services based on the ground-breaking NVIDIA Hopper™ architecture."
-    publishedDateTime: 2022-09-26T06:00:00Z
-    webUrl: "https://www.businesswireindia.com/nvidia-hopper-in-full-production-80865.html"
+    publishedDateTime: 2022-09-26T07:33:00Z
+    webUrl: "https://www.theweek.in/wire-updates/business/2022/09/26/dcm12-nvidia.html"
+    ampWebUrl: "https://www.theweek.in/wire-updates/business/2022/09/26/dcm12-nvidia.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2022/09/26/dcm12-nvidia.amp.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswireindia.com
+      name: The Week
+      domain: theweek.in
     quality: 24
-    images:
-      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_Multimedialog_80865.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "r942zHonShhnU3cqFZ3L3LEQtJaOAfORAvOJnM0frbLHUHyy1Rm5fFSoYh9VPjm7VY7Ry7e3+eIxbScRtZHpZleX9YO4kOOl3sij818leoxBIkxtohp1lPQmxsUxJLaFPf40I+HEkP0gjgEZsE+2Qwr5KdztWSC6i/GJhzh0Bs+buVhPA1LjvhVqVI3GaCPmAABt8DuS2sxdihyIoTKCHGgj5uAyTIXqH/aFJBDZQYApnqtyoGAYZg9t/TUhzWAvb2Pr9LnHriNw0LqSGZ58VLkBDSamTeTRWSqEYbL4Ce1wDqz5T03znV3xZVU/EluoRKM1XQI3okBAtAmxF4ZjGBa0tAgyBje2hvkk85TS2OCkWhRR5I2O5+lL5iz6eZv7mTzKfZX9Lx5jpmpJYG2totXs6YT18k8w9FmUePYCIX+XAh6tuUKc87aISbcSBsuiQQnO2S3EAdWTsxM+WtacyphJc6eglSXUoH1/a5Dn/0mMAnWXnXLovcP/dtUAT+bQGGo7HH9qjL8J8YZ2OFb6Qw==;s3Sw8clXIPlO4OXr2eNqOg=="
 ---

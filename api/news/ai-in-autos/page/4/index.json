@@ -2,6 +2,146 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-03-self-driving-tech-firm-aurora-mulls-sale-to-apple-or-microsoft-bloomberg-news.md",
+      "title": "Self-driving tech firm Aurora mulls sale to Apple or Microsoft - Bloomberg News",
+      "excerpt": "Aurora Innovation Inc Chief Executive Chris Urmson recently outlined several options for the self-driving tech firm to combat challenging market conditions, including a possible sale to Apple Inc or Microsoft Corp ,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/self-driving-company-aurora-mulling-possible-sale-apple-or-microsoft-bloomberg-2022-09-02/",
+      "originalUrl": "https://www.reuters.com/technology/self-driving-company-aurora-mulling-possible-sale-apple-or-microsoft-bloomberg-2022-09-02/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/yxjAESGr5tcvKUPS6TJ_kG3SSN4=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XTDFE4XF4FPW7EBD4TNEHLL3CM.jpg",
+          "width": 728,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-02T13:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-03-self-driving-tech-company-says-a-sale-to-apple-or-microsoft-is-possible.md",
+      "title": "Self-driving tech company says a sale to Apple or Microsoft is possible",
+      "excerpt": "Chris Urmson, who co-founded Aurora after running Google's self-driving car project, also outlined cost cuts and floated measures including taking the company private, spinning off or selling assets and pursuing a small capital raise in a memo labeled \"board discussion pre-read\" dated Aug.",
+      "sourceUrl": null,
+      "webUrl": "https://europe.autonews.com/suppliers/self-driving-tech-company-says-sale-apple-or-microsoft-possible",
+      "originalUrl": "https://europe.autonews.com/suppliers/self-driving-tech-company-says-sale-apple-or-microsoft-possible",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/AAurora-MAIN_i.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-02T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-02-flinders-university-is-testing-a-driverless-shuttle-bus-on-campus.md",
+      "title": "Flinders University Is Testing a Driverless Shuttle Bus On Campus",
+      "excerpt": "An autonomous shuttle bus is currently being tested at Flinders University and has now entered the second stage of its trial. Dubbed the “Flinders University Express Shuttle” (FLEX), the bus ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2022/09/flinders-autonomous-bus/",
+      "originalUrl": "https://www.gizmodo.com.au/2022/09/flinders-autonomous-bus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/09/02/flinders-autonomous-bus.png?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2022/09/flinders-autonomous-bus/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/09/flinders-autonomous-bus/amp/",
+      "publishedDateTime": "2022-09-02T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gizmodo",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-02-cruise-recalls-self-driving-car-software-because-humans-are-dumb.md",
       "title": "Cruise Recalls Self-Driving-Car Software Because Humans Are Dumb",
       "excerpt": "GM's Cruise subsidiary has performed over 120,000 unprotected left turns in its self-driving development vehicles, but a single extreme scenario that resulted in a collision ended up prompting a ...",
@@ -1187,154 +1327,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-artificial-intelligence-chip-market-size-worth-usd-832527-million-by-2027-the-insight-partners.md",
-      "title": "Artificial Intelligence Chip Market Size Worth USD 83,252.7 million By 2027 | The Insight Partners",
-      "excerpt": "According to The Insight Partners' research, the Artificial Intelligence Chip Market to 2027 – Global Analysis and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-worth-usd-832527-million-by-2027-the-insight-partners-2022-08-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-worth-usd-832527-million-by-2027-the-insight-partners-2022-08-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T04:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-baidu-revenue-contracts-but-beats-estimates-on-cloud-business-growth.md",
-      "title": "Baidu revenue contracts but beats estimates on cloud business growth",
-      "excerpt": "Revenue at Baidu's AI Cloud unit grew 31% year-on-year in the quarter. Baidu has also been doubling down on self-driving technologies, in which it has heavily invested over the past five years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-2022-08-30/",
-      "originalUrl": "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-2022-08-30/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/VcMhCTIPuZkROATTg3O8vy954F8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DO6AEQYAIVJRHB6NSPK3CHZTQA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-baidu-stock-is-tumbling-an-earnings-beat-cant-offset-falling-revenue.md",
-      "title": "Baidu Stock Is Tumbling. An Earnings Beat Can’t Offset Falling Revenue.",
-      "excerpt": "Baidu is the latest Chinese tech giant to show that a slowdown this year in the world’s second-largest economy is causing financial pain. Despite notching double-digit growth in its key ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/baidu-stock-earnings-revenue-51661851921",
-      "originalUrl": "https://www.barrons.com/articles/baidu-stock-earnings-revenue-51661851921",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-384397/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/baidu-stock-earnings-revenue-51661851921",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/baidu-stock-earnings-revenue-51661851921",
-      "publishedDateTime": "2022-08-30T03:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/getty-is-banning-ai-generated-i
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/getty-is-banning-ai-generated-images/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -89,20 +89,6 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/09/AdobeStock_395141404_Editorial_Use_Only.jpeg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Getty Images Is Barring Illustrations Created by Artificial Intelligence"
-    excerpt: "Getty Images won’t sell AI-generated art as photographers have called for more regulations on AI-content generators."
-    publishedDateTime: 2022-09-21T16:25:00Z
-    webUrl: "https://observer.com/2022/09/getty-images-is-barring-illustrations-created-by-artificial-intelligence/"
-    type: article
-    provider:
-      name: observer
-      domain: observer.com
-    quality: 36
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2022/09/GettyImages-1236811424.jpg?quality=80&#038;strip"
-        width: 4960
-        height: 3152
         isCached: true
 
 secured: "gRToPO5Pd75+o/kW80XbqhenJGR8LENF/ljTLSUuLJHohK/m0nf3knWW2Fp8xM48mQK5MNZxCdBN6c8X6POq5WVPHNI3uFwYC488xv072qXbG+sHtJZKlaPtAiRHYhkTuEME0RyvnOA08/YwP97iktLR1+doUUMNmGHDcftEKPUq9TPVcl2WzUMgdbZkLazc6jSlA4gctQUO7KTzjmPSYIv6bzmckVESGWbjCpCIRXxmOugOIi3pXMFv0x+eYB7k2AnLhNLQPNw6zLPSN/xpPP48UbU0QwsAV/Eikepcwv2+YL/eaZAhFSYMxzq6akE22UcezZFlfNKJKV0JLw7OS6/9Rmi5L3kPsnhLVwOKFXZxWB6GyZzHdIYrvwN5fVSp58w21JgDBma8uaR8rtjW9hZgWg67FHrSolIhrK05MgC6X5YYTQLxvkP0e+uxePqxjtI8eMAhnRBHUVzarwf1iu2KAHYnI3PzgM/10BwPrimSP3Cr53LbQs0vFiStygUfWQig2oBxo3USMiHcsfGgyw==;Q1t9D/HXzbloZA45D8zC6Q=="

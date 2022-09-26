@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-08-26-ai-eye-podcast-and-video-gbts-ceo-discusses-apollo-and-ai-in-image-recognition.md",
-      "title": "AI Eye Podcast and Video - GBT's CEO Discusses Apollo and AI in Image Recognition",
-      "excerpt": "Investorideas.com ( a global investor news source covering Artificial Intelligence(AI) stocks releases an exclusive podcast with AI innovator GBT Technologies Inc. (OTC Pink: GTCH). and sector snapshot looking at the growing AI tech implementation in the autonomous vehicles market via image recognition and computer vision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-eye-podcast-and-video---gbts-ceo-discusses-apollo-and-ai-in-image-recognition-2022-08-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-eye-podcast-and-video---gbts-ceo-discusses-apollo-and-ai-in-image-recognition-2022-08-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-26T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-26-facial-recognition-equipment-market-expectations-and-growth-trends-highlighted-until-2027.md",
       "title": "Facial Recognition Equipment Market Expectations and Growth Trends Highlighted Until 2027",
       "excerpt": "Pune, India-Research Report on Global Facial Recognition Equipment Market 2022-2028 Report Demand develops Rapidly as",
@@ -1401,6 +1349,49 @@
       "provider": {
         "name": "Tom's Guide",
         "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again.md",
+      "title": "Delhi Police’s facial recognition tech at 80% accuracy, stokes privacy concerns again!",
+      "excerpt": "The accuracy rates of facial-recognition software can go as high as 99.97% in ideal conditions. In 2019, Delhi Police had reported accuracy levels of 2%. While 80% may seem like a drastic improvement,",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/articleshow/93587861.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/articleshow/93587861.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-211252,msid-93588009/delhi-police-personnel.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/amp_articleshow/93587861.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/amp_articleshow/93587861.cms",
+      "publishedDateTime": "2022-08-16T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null

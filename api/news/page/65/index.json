@@ -2,6 +2,241 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2022-08-03-remote-surgical-robot-could-join-astronauts-on-future-mars-missions.md",
+      "title": "Remote Surgical Robot Could Join Astronauts on Future Mars Missions",
+      "excerpt": "No matter how mentally and physically prepared they are, future astronauts bound for deep space can't escape their mortal restrictions. At some point during their long and isolated journeys, these pioneers might need medical care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/science/space/remote-surgical-robot-could-join-astronauts-on-future-mars-missions/",
+      "originalUrl": "https://www.cnet.com/science/space/remote-surgical-robot-could-join-astronauts-on-future-mars-missions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/911220a96b805e2ac7b05240e8a22ec27f064c4b/2022/08/02/023fcd76-f93b-4116-8f7c-00d46a29a584/mira.jpg?auto=webp",
+          "width": 4240,
+          "height": 2832,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/remote-surgical-robot-could-join-astronauts-on-future-mars-missions/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/remote-surgical-robot-could-join-astronauts-on-future-mars-missions/",
+      "publishedDateTime": "2022-08-03T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-spb-2022-q2-artificial-intelligence-biometric-privacy-quarterly-review-newsletter.md",
+      "title": "SPB 2022 Q2 Artificial Intelligence & Biometric Privacy Quarterly Review Newsletter",
+      "excerpt": "Q2 did not disappoint in the AI and biometric privacy space, with a number of noteworthy litigation, legislative, and regulatory developments having taken place in these two rapidly developing areas o",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/spb-2022-q2-artificial-intelligence-biometric-privacy-quarterly-review-newsletter",
+      "originalUrl": "https://www.natlawreview.com/article/spb-2022-q2-artificial-intelligence-biometric-privacy-quarterly-review-newsletter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/spb-2022-q2-artificial-intelligence-biometric-privacy-quarterly-review-newsletter?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/spb-2022-q2-artificial-intelligence-biometric-privacy-quarterly-review-newsletter?amp",
+      "publishedDateTime": "2022-08-03T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-artificial-intelligence-in-drug-discovery-market-intelligence-report-global-forecast-to-2027-researchandmarketscom.md",
+      "title": "Artificial Intelligence in Drug Discovery Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com",
+      "excerpt": "The Global Artificial Intelligence in Drug Discovery Market is projected to reach USD 2,760.77 million by 2027 from USD 701.05 million in 2021, at a CAGR 25.66% during the forecast period. In this report,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-health-middle-east-artificial-intelligence-1b8c9708e82647dc93f750b81f4ae85f",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-health-middle-east-artificial-intelligence-1b8c9708e82647dc93f750b81f4ae85f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-healthcare-artificial-intelligence-ai-market-research-report-competitive-analysis-and-forecast-period-during-2027.md",
+      "title": "Healthcare Artificial Intelligence (AI) Market research report - competitive analysis and forecast period during 2027",
+      "excerpt": "The global healthcare artificial intelligence (AI) market size is estimated to secure a lucrative CAGR from 2021",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-research-report---competitive-analysis-and-forecast-period-during-2027-2022-08-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-research-report---competitive-analysis-and-forecast-period-during-2027-2022-08-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-artificial-intelligence-ai-chipsets-market-growth-analysis-statistics-key-insights-and-trend-2022-to-2026.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market growth analysis, statistics, key insights and trend 2022 to 2026",
+      "excerpt": "Artificial Intelligence (AI) chipsets market is undergoing constant changes as several companies across the world are indulging in heavy investments to introduce advanced technologies in automotive safety systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-growth-analysis-statistics-key-insights-and-trend-2022-to-2026-2022-08-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-growth-analysis-statistics-key-insights-and-trend-2022-to-2026-2022-08-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-08-03-gaggle-and-aws-collaborate-to-create-mental-health-hotline-that-connects-k-12-students-to-trained-crisis-counselors-anywhere-anytime.md",
       "title": "Gaggle and AWS Collaborate to Create Mental Health Hotline that Connects K-12 Students to Trained Crisis Counselors, Anywhere, Anytime",
       "excerpt": "Gaggle, the leader in helping K-12 districts manage student safety on school-provided technology, is working with Amazon Web Services (AWS) to address the issue by providing in-the-moment support for students experiencing mental health crises including anxiety,",
@@ -953,239 +1188,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-neural-networks-and-ghost-electrons-accurately-reconstruct-behavior-of-quantum-systems.md",
-      "title": "Neural networks and ‘ghost’ electrons accurately reconstruct behavior of quantum systems",
-      "excerpt": "In the new approach, the behavior of the added electrons is controlled by an artificial intelligence technique called a neural network. The network makes tweaks until it finds an accurate solution ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/960814",
-      "originalUrl": "https://www.eurekalert.org/news-releases/960814",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/432c7da3-5b39-47a8-84ff-9801ec2fd018/Rendition/thumbnail/Content/Public",
-          "width": 300,
-          "height": 232,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-neural-networks-youve-got-it-so-easy.md",
-      "title": "Neural Networks: You’ve Got It So Easy",
-      "excerpt": "And so it was Scientific American magazine’s September 1992 special issue on Mind and Brain that introduced me to neural networks, both the biological and artificial kinds. Back then you had the ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2017/04/24/neural-networks-youve-got-it-so-easy/",
-      "originalUrl": "https://hackaday.com/2017/04/24/neural-networks-youve-got-it-so-easy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2017/04/neural_network_books-featured.jpg",
-          "width": 1110,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-juneaus-first-ukrainian-refugees-receive-special-recognition-from-the-city.md",
-      "title": "Juneau’s first Ukrainian refugees receive special recognition from the city",
-      "excerpt": "The pair, who are the first refugees from the war in Ukraine to seek haven in Juneau, received a special recognition at the beginning of the CBJ Assembly meeting and gave a short speech that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.juneauempire.com/news/juneaus-first-ukrainian-refugees-receive-special-recognition-from-the-city/",
-      "originalUrl": "https://www.juneauempire.com/news/juneaus-first-ukrainian-refugees-receive-special-recognition-from-the-city/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.juneauempire.com/wp-content/uploads/2022/08/29955687_web1_Ukraine-JUE-220803-bruh_1-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Juneau Empire",
-        "domain": "juneauempire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-scale-yolov5-inference-with-amazon-sagemaker-endpoints-and-aws-lambda.md",
-      "title": "Scale YOLOv5 inference with Amazon SageMaker endpoints and AWS Lambda",
-      "excerpt": "After data scientists carefully come up with a satisfying machine learning (ML) model, the model must be deployed to be easily accessible for inference by other members of the organization. However, deploying models at scale with optimized cost and compute efficiencies can be a daunting and cumbersome",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scale-yolov5-inference-with-amazon-sagemaker-endpoints-and-aws-lambda/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/scale-yolov5-inference-with-amazon-sagemaker-endpoints-and-aws-lambda/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/22/ML8827_image_01-934x630.png",
-          "width": 934,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T14:11:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-remote-controlled-surgical-robot-to-board-international-space-station.md",
-      "title": "Remote-Controlled Surgical Robot to Board International Space Station",
-      "excerpt": "No matter how mentally and physically prepared they are, future astronauts bound for deep space can't escape their mortal restrictions. At some point during their long and isolated journeys, these pioneers might need medical care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/science/space/remote-controlled-surgical-robot-to-board-international-space-station/",
-      "originalUrl": "https://www.cnet.com/science/space/remote-controlled-surgical-robot-to-board-international-space-station/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/911220a96b805e2ac7b05240e8a22ec27f064c4b/2022/08/02/023fcd76-f93b-4116-8f7c-00d46a29a584/mira.jpg?auto=webp",
-          "width": 4240,
-          "height": 2832,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/remote-controlled-surgical-robot-to-board-international-space-station/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/remote-controlled-surgical-robot-to-board-international-space-station/",
-      "publishedDateTime": "2022-08-02T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

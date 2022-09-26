@@ -7,7 +7,7 @@ originalUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-i
 webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-58"
 type: article
 quality: 50
-heat: 50
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,45 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Deep Learning Software Market Business overview 2022, and Forecast to 2028 | Microsoft, Express Scribe, Nuance"
+    excerpt: "Download Free Sample Deep Learning Software Market report  The worldwide Deep Learning Software Market is expected to grow at a booming CAGR of 2022-2030, rising from USD billion in 2021 to USD billion in 2028."
+    publishedDateTime: 2022-09-23T05:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-business-overview-2022-and-forecast-to-2028-microsoft-express-scribe-nuance-2022-09-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Bambu releases predictive planner for Microsoft Cloud for Financial Services"
+    excerpt: "Bambu, a global wealth technology provider, today announced the launch of their Wealth Management Predictive Planning solution for Microsoft Cloud for Financial Services and Microsoft Dynamics 365 Sales."
+    publishedDateTime: 2022-09-22T08:42:00Z
+    webUrl: "https://www.finextra.com/pressarticle/94159/bambu-releases-predictive-planner-for-microsoft-cloud-for-financial-services"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 38
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "Bambu Offers Wealth Management Predictive Planning Solution for Microsoft Cloud for Financial Services"
+    excerpt: "Bambu announced the launch of their Wealth Management Predictive Planning solution for Microsoft Cloud for Financial Services."
+    publishedDateTime: 2022-09-23T19:11:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/09/196407-bambu-offers-wealth-management-predictive-planning-solution-for-microsoft-cloud-for-financial-services/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 5
 
 secured: "v5Z2UWbTvJfVltYzqbMjH4C0k0YicUVpNLq1PeHGzj5OISsR0bnjFbPR5m8GKjfdXTleGhDZub4Bn1GkVRpcXxYsCH/YuYyiGgIMR43toYOxseAGhWYzHoTPAAfAxVXuhViReo/fXmYMxc9+Swra0QecCk/I75LTOYDfEYCjbaNriwrrMpvjC76C/YIrk4f1GFOngMkkoyO6F3hRMkGta+6Gmu8tFgKoGTTaPHIzwq/KA8MHH/yvSdHkShvxA2LTiedwcLeO757vnR7ZmA7Z4dwfpYTvO4leK1ORPxaoii5zopl90eoGRN7P1Vx3OqayGFQznUGsQarF//T7JMuRCnAWaIKoIxd6r8phMJdgBh8=;q7dbU3sfokcNKNQWwr1Xww=="
 ---

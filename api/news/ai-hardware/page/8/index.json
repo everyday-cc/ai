@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-06-22-qualcomm-unveils-ai-stack-portfolio-to-unify-mobile-car-iot-and-other-devices.md",
+      "title": "Qualcomm unveils 'AI Stack' portfolio to unify mobile, car, IoT and other devices",
+      "excerpt": "Qualcomm says the new version of its technology eases portability of machine learning models across the plethora of hardware offered by itself and its customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/qualcomm-unveils-ai-stack-portfolio-to-unify-mobile-car-iot-and-other-devices/",
+      "originalUrl": "https://www.zdnet.com/article/qualcomm-unveils-ai-stack-portfolio-to-unify-mobile-car-iot-and-other-devices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ea097126a1829a1d8e65a5940a6239fca8c80705/2022/06/22/c621399a-264e-4684-a8f5-33f6558a2ace/ai-stack-hero-image.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/qualcomm-unveils-ai-stack-portfolio-to-unify-mobile-car-iot-and-other-devices/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomm-unveils-ai-stack-portfolio-to-unify-mobile-car-iot-and-other-devices/",
+      "publishedDateTime": "2022-06-22T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-qualcomm-launches-unified-ai-stack-for-cloud-to-edge-intelligence.md",
       "title": "Qualcomm Launches Unified AI Stack For Cloud To Edge Intelligence",
       "excerpt": "The new Qualcomm AI Stack lays the foundation for domain-specific SDK’s . While advances in AI accelerators have improved silicon performance by over a thousand-fold, it’s sof",
@@ -1302,49 +1354,6 @@
         "AI Ethics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-amd-details-zen-4-epyc-cpu-and-cdna-3-gpu-roadmaps-for-ai-and-data-center-dominance.md",
-      "title": "AMD Details Zen 4 EPYC CPU And CDNA 3 GPU Roadmaps For AI And Data Center Dominance",
-      "excerpt": "At AMD's Financial Analyst Day event, it outlined a bevy of future data products, including Genoa-X, Bergamo, and CDNA 3.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/amd-epyc-genoa-x-siena-cpu-cdna-3-gpu-roadmap-data-center",
-      "originalUrl": "https://hothardware.com/news/amd-epyc-genoa-x-siena-cpu-cdna-3-gpu-roadmap-data-center",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/58803/content/amd-server-data-center-hero.jpg",
-          "width": 718,
-          "height": 481,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/amd-epyc-genoa-x-siena-cpu-cdna-3-gpu-roadmap-data-center",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/amd-epyc-genoa-x-siena-cpu-cdna-3-gpu-roadmap-data-center",
-      "publishedDateTime": "2022-06-10T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

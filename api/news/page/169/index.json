@@ -2,6 +2,256 @@
   "page": 169,
   "value": [
     {
+      "path": "_news/2022-05-17-how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-40.md",
+      "title": "How AI-driven robots and drones bring cognitive intelligence to Industry 4.0",
+      "excerpt": "The robots, drones and cameras that inspect machines to perform predictive maintenance and relay analog information to operations staff can now function autonomously. Even better – the longer they’re at their jobs,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/17/how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-4-0/",
+      "originalUrl": "https://venturebeat.com/2022/05/17/how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-4-0/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/AI_robots.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/17/how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-4-0/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/17/how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-4-0/amp/",
+      "publishedDateTime": "2022-05-17T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-05-17-argo-ai-begins-driverless-testing-in-austin-and-miami.md",
+      "title": "Argo AI Begins Driverless Testing In Austin And Miami",
+      "excerpt": "Argo AI, the Pittsburgh, Pennsylvania-based automated driving company majority owned by Ford and Volkswagen has just begun its first driverless testing on public roads in Miami and Austin. This milestone comes about five and a half years after the company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/",
+      "originalUrl": "https://www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 244,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62839ea0171c859a3a9cfd95/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/amp/",
+      "publishedDateTime": "2022-05-17T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-17-tractian-which-uses-ai-to-monitor-industrial-equipment-raises-15m.md",
+      "title": "Tractian, which uses AI to monitor industrial equipment, raises $15M",
+      "excerpt": "Tractian, a startup developing a product to monitor the ... which Marinelli says is patent pending in the U.S., uses AI to identify mechanical problems a machine might be having by analyzing ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/17/2314910/",
+      "originalUrl": "https://techcrunch.com/2022/05/17/2314910/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1022854924.jpg?w=1024",
+          "width": 1024,
+          "height": 446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/17/2314910/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/17/2314910/amp/",
+      "publishedDateTime": "2022-05-17T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-17-ai-in-healthcare-market-foresee-business-opportunities-current-trends-and-industry-scrutiny-by-2025.md",
+      "title": "AI in Healthcare Market foresee Business Opportunities, Current Trends and Industry scrutiny by 2025",
+      "excerpt": "Global Artificial Intelligence in Healthcare Market valued approximately USD 650 million in 2016 is anticipated",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-healthcare-market-foresee-business-opportunities-current-trends-and-industry-scrutiny-by-2025-2022-05-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-healthcare-market-foresee-business-opportunities-current-trends-and-industry-scrutiny-by-2025-2022-05-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-17T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-17-using-ai-to-predict-heart-attacks.md",
+      "title": "Using AI to predict heart attacks",
+      "excerpt": "We have been working with artificial intelligence (AI) to improve the prediction of cardiovascular ... allow them to find out the effects of therapy and lifestyle on their heart health. What do you believe the future of AI in healthcare to look like?",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220517/Using-AI-to-predict-heart-attacks.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220517/Using-AI-to-predict-heart-attacks.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_712225_16512184408622117.jpg",
+          "width": 1000,
+          "height": 554,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20220517/Using-AI-to-predict-heart-attacks.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220517/Using-AI-to-predict-heart-attacks.aspx",
+      "publishedDateTime": "2022-05-17T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-17-the-next-frontier-for-healthcare-blockchain-ar-and-vr.md",
       "title": "The Next Frontier For Healthcare: Blockchain, AR and VR",
       "excerpt": "The medical industry has traditionally been slow to adopt new technologies, but blockchain, augmented reality and virtual reality technologies are changing that thought process.",
@@ -921,213 +1171,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-bristol-robotics-start-up-signs-deal-with-energy-giant-enel.md",
-      "title": "Bristol robotics start-up signs deal with energy giant Enel",
-      "excerpt": "The company was founded by three University of Bristol graduates in 2016 and uses tech to inspect wind turbines",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-live.co.uk/technology/bristol-robotics-start-up-signs-23972623",
-      "originalUrl": "https://www.business-live.co.uk/technology/bristol-robotics-start-up-signs-23972623",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.business-live.co.uk/incoming/article23972743.ece/ALTERNATES/s615/0_HBBRI_160522-perceptual-robotics-bristol.jpg",
-          "width": 615,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.business-live.co.uk/technology/bristol-robotics-start-up-signs-23972623.amp",
-      "cdnAmpWebUrl": "https://www-business--live-co-uk.cdn.ampproject.org/c/s/www.business-live.co.uk/technology/bristol-robotics-start-up-signs-23972623.amp",
-      "publishedDateTime": "2022-05-16T23:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "business-live",
-        "domain": "business-live.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-tcs-bancs-now-available-on-google-cloud-helps-financial-services-firms-innovate-and-scale-faster.md",
-      "title": "TCS BaNCS now available on Google Cloud: Helps Financial Services Firms Innovate and Scale Faster",
-      "excerpt": "TCS' SaaS-based suite of products helps financial services firms leverage google ... Google Cloud’s artificial intelligence and machine learning tools, and its data security and compliance ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiainfoline.com/article/news-top-story/tcs-bancs-now-available-on-google-cloud-helps-financial-services-firms-innovate-and-scale-faster-122051700372_1.html",
-      "originalUrl": "https://www.indiainfoline.com/article/news-top-story/tcs-bancs-now-available-on-google-cloud-helps-financial-services-firms-innovate-and-scale-faster-122051700372_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg",
-          "width": 350,
-          "height": 233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiainfoline.com/article-amp/news-top-story/tcs-bancs-now-available-on-google-cloud-helps-financial-services-firms-innovate-and-scale-faster-122051700372_1.html",
-      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/tcs-bancs-now-available-on-google-cloud-helps-financial-services-firms-innovate-and-scale-faster-122051700372_1.html",
-      "publishedDateTime": "2022-05-16T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Infoline",
-        "domain": "indiainfoline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-tesla-to-host-second-artificial-intelligence-day-in-august.md",
-      "title": "Tesla to host second artificial intelligence day in August",
-      "excerpt": "Tesla Inc top boss Elon Musk said https://twitter.com/elonmusk/status/1526685434910212102 on Tuesday the electric-car maker will host its second artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/business-pmn/tesla-to-host-second-artificial-intelligence-day-in-august",
-      "originalUrl": "https://financialpost.com/pmn/business-pmn/tesla-to-host-second-artificial-intelligence-day-in-august",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-the-robot-will-do-your-angioplasty-now.md",
-      "title": "The Robot Will Do Your Angioplasty Now",
-      "excerpt": "From a control station shielded against radiation ... There is no doubt in my mind that the future of interventional cardiology lies in integrating robotics.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/cardiovascular/robot-will-do-your-angioplasty-now",
-      "originalUrl": "https://www.mddionline.com/cardiovascular/robot-will-do-your-angioplasty-now",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-deepmind-researcher-claims-new-gato-ai-could-lead-to-agi-says-the-game-is-over.md",
-      "title": "DeepMind researcher claims new ‘Gato’ AI could lead to AGI, says ‘the game is over!’",
-      "excerpt": "A DeepMind lead researcher made the bold claim that the company's newest AI was a 'game over' product for AGI research.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/deepmind-researcher-claims-new-gato-ai-could-lead-to-agi-says-game-is-over",
-      "originalUrl": "https://thenextweb.com/news/deepmind-researcher-claims-new-gato-ai-could-lead-to-agi-says-game-is-over",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2FscalingAI.jpg&signature=9bc3b164454b20146d307326beb8c1b3",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-16T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

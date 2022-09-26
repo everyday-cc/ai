@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/09/220920100807.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/09/220920100807.htm"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -23,57 +23,29 @@ topics:
   - AI
 
 related:
-  - title: "The Unexpected Truth About Self-Driving Cars According To General Motors"
-    excerpt: "The future is self-driving, or so say evangelists that are betting big on a future where AI-powered machines — including vehicles — will perform intended tasks on their own. Self-driving cars ..."
-    publishedDateTime: 2022-09-21T15:14:00Z
-    webUrl: "https://www.slashgear.com/1018226/the-unexpected-truth-about-self-driving-cars-according-to-general-motors/"
+  - title: "Can Robotic Eyes on Self-Driving Cars Reduce Accidents?"
+    excerpt: "Like a character from the Pixar movie Cars, a self-driving golf cart was fitted with two large, remote-controlled robotic eyes."
+    publishedDateTime: 2022-09-22T14:29:00Z
+    webUrl: "https://www.manufacturing.net/automotive/news/22458255/can-robotic-eyes-on-selfdriving-cars-reduce-accidents"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 53
-    images:
-      - url: "https://www.slashgear.com/img/gallery/the-unexpected-truth-about-self-driving-cars-according-to-general-motors/l-intro-1663772176.jpg"
-        width: 1600
-        height: 897
-        isCached: true
-  - title: "China to set self-driving standard"
-    excerpt: "Industry analysts said the ISO's acceptance confirms that China is spearheading the research and development as well as the application of self-driving technologies, and promoting their large-scale commercial use."
-    publishedDateTime: 2022-09-23T23:57:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202209/24/WS632e3ac7a310fd2b29e797fd.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
+      name: Manufacturing
+      domain: manufacturing.net
     quality: 24
     images:
-      - url: "https://img2.chinadaily.com.cn/images/202209/24/632e3ac7a310fd2beca35450.jpeg"
-        width: 658
-        height: 438
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/09/Screen_Shot_2022_09_21_at_8.30.20_AM.632b125311c11.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C27%2C1156%2C650&w=1200"
+        width: 1156
+        height: 650
         isCached: true
-  - title: "Is this self-driving VW concept the future of motoring?"
-    excerpt: "Looks fancy! But wait, haven’t we heard all of this before? We’ve been 10 years away from advanced self-driving technology for what feels like decades. Is Volkswagen to be believed this time? The company's new GEN.TRAVEL concept isn’t even gunning to ..."
-    publishedDateTime: 2022-09-26T03:59:00Z
-    webUrl: "https://www.topgear.com/car-news/concept/self-driving-vw-concept-future-motoring"
+  - title: "A new self-driving car developer is setting up shop in Tucson"
+    excerpt: "The company, backed by Japanese auto giant Toyota, previously tested self-driving cars in California but its state permit was revoked following a minor crash."
+    publishedDateTime: 2022-09-22T19:30:00Z
+    webUrl: "https://tucson.com/news/local/business/a-new-self-driving-car-developer-is-setting-up-shop-in-tucson/article_6e3c25fa-3a98-11ed-806e-f713fec8a6a3.html"
     type: article
     provider:
-      name: Top Gear
-      domain: topgear.com
-    quality: 24
-    images:
-      - url: "https://www.topgear.com/sites/default/files/images/news-article/2022/09/6ec42b6009e5dbf423a76e550bd54110/Volkswagen_Gen_concept_dynamic_side.jpg?w=1280&h=720"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Video game actors are worried about AI tech taking over their jobs"
-    excerpt: "Self-service checkouts, lights-out manufacturing, self-driving cars, and wars raged by robotic drones – automation is coming for everyone’s jobs eventually, and our capitalist systems aren’t equipped to carry us through it."
-    publishedDateTime: 2022-09-22T02:33:00Z
-    webUrl: "https://www.news.com.au/technology/gaming/video-game-actors-are-worried-about-ai-tech-taking-over-their-jobs/news-story/71d80e74b5f001ee56664be839bc18f4"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 21
+      name: Arizona Daily Star
+      domain: tucson.com
+    quality: 4
 
 secured: "jrQqWsOIECmKDuT6NT1tuEY7goETObfA52CkvxQx7tYcTE88xiMQQLSulme6X3Y5wZd0M2kIdQNn9jLbn7Q/1aq8Wc0MNv1dHtwblkxNQDNR0tWuborGNOLi/gOpIm0Sg9rA4AW/QOscroVDbnVHX9d7579MIWqm6hWiAf5+PQvXx85zyX9QRwkZVvzPiYpQYQUB9dHsj9EcAAhZfLkY+LxTOM1C4VXKY/fqddBj4irtP2ips1WMFnSovRzikE8IJ2Q+V77/Fv3O6KD2XVR6Uo9Bp/BiVPDinIvhZaDrmC6OQiRcanfumpZMDVXYx9+SgdesesvTSRzow0/ZdqY2tltjLBPsYfYVv5EpgSBLyGo=;G5Bxs4wErTnC2D7gd+M4Eg=="
 ---

@@ -16,6 +16,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/researchers-develop-a-15.jpg"

@@ -2,6 +2,135 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-08-09-china-drafts-rules-on-use-of-self-driving-vehicles-for-public-transport.md",
+      "title": "China drafts rules on use of self-driving vehicles for public transport",
+      "excerpt": "SHANGHAI - China should adopt autonomous vehicles in passenger transport with care, the country's Ministry of Transportation said in drafted rules to regulate the self-driving industry.",
+      "sourceUrl": null,
+      "webUrl": "https://auto.economictimes.indiatimes.com/news/auto-technology/china-drafts-rules-on-use-of-self-driving-vehicles-for-public-transport/93444576",
+      "originalUrl": "https://auto.economictimes.indiatimes.com/news/auto-technology/china-drafts-rules-on-use-of-self-driving-vehicles-for-public-transport/93444576",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-93444576,imgsize-41330,width-1200,height-628,overlay-etauto/china-drafts-rules-on-use-of-self-driving-vehicles-for-public-transport.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/china-drafts-rules-on-use-of-self-driving-vehicles-for-public-transport/93444576",
+      "cdnAmpWebUrl": "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/china-drafts-rules-on-use-of-self-driving-vehicles-for-public-transport/93444576",
+      "publishedDateTime": "2022-08-08T21:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ET Auto",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-chinas-baidu-wins-first-permits-for-fully-driverless-robotaxis.md",
+      "title": "China's Baidu wins first permits for fully driverless 'robotaxis'",
+      "excerpt": "SHANGHAI -- China's Baidu said Monday that it has secured ... after the search engine group released a new generation of self-driving vehicles with production costs roughly half those of its ...",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/Business/Automobiles/China-s-Baidu-wins-first-permits-for-fully-driverless-robotaxis",
+      "originalUrl": "https://asia.nikkei.com/Business/Automobiles/China-s-Baidu-wins-first-permits-for-fully-driverless-robotaxis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F9%252F9%252F3%252F4%252F41704399-8-eng-GB%252FCropped-1659949004.Baidu.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T19:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ニッケイ・エイジア",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-baidu-approved-for-chinas-first-driverless-taxis.md",
+      "title": "Baidu approved for China’s first driverless taxis",
+      "excerpt": "Baidu Inc (百度) has won approval to deploy the first fully autonomous self-driving taxis on China’s roads, giving it an edge over rivals such as Pony.ai Inc (小馬智行) and XPeng Inc (小鵬汽車). The tech giant has secured permits to operate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.taipeitimes.com/News/biz/archives/2022/08/09/2003783198",
+      "originalUrl": "https://www.taipeitimes.com/News/biz/archives/2022/08/09/2003783198",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.taipeitimes.com/images/2022/08/09/P11-220809-308.jpg",
+          "width": 787,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Taipei Times",
+        "domain": "taipeitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-09-baidu-gets-permits-for-first-fully-driverless-taxi-service-in-china.md",
       "title": "Baidu gets permits for first fully driverless taxi service in China",
       "excerpt": "Baidu, which operates China's largest search ... and ridehailing giants like Uber and Lyft have abandoned in-house self-driving taxi efforts. In June, General Motors-backed Cruise gained permits ...",
@@ -1233,154 +1362,6 @@
         "AI",
         "Machine Learning",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-leading-in-self-driving-technology-taiwans-smart-mobility-business-opportunities-take-shape.md",
-      "title": "Leading in self-driving technology, Taiwan's smart mobility business opportunities take shape",
-      "excerpt": "The automobile industry has encountered the biggest transformation in over a century. With the successive introduction of new technologies, what once was a vision of smart mobility is gradually becoming a reality.",
-      "sourceUrl": null,
-      "webUrl": "https://digitimes.com/news/a20220802VL208/adas-self-driving-car-smart-mobility.html",
-      "originalUrl": "https://digitimes.com/news/a20220802VL208/adas-self-driving-car-smart-mobility.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20220802vl208_files/1_2b.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T19:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-why-ai-cant-be-fooled-by-teslas-stock-split.md",
-      "title": "Why AI Can’t Be Fooled By Tesla’s Stock Split",
-      "excerpt": "Tesla shares gained 32% in July, bringing the stock up 49% from May’s low If the 3-for-1 measure passes, this will be Tesla’s second stock split in two years Stock splits have been the name of the game for big tech since mid-2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/08/02/why-ai-cant-be-fooled-by-teslas-stock-split/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/08/02/why-ai-cant-be-fooled-by-teslas-stock-split/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62e93445ffd08f13ec7b70bd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/08/02/why-ai-cant-be-fooled-by-teslas-stock-split/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/08/02/why-ai-cant-be-fooled-by-teslas-stock-split/amp/",
-      "publishedDateTime": "2022-08-02T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-artificial-intelligence-ai-speakers-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028.md",
-      "title": "Artificial Intelligence (AI) Speakers Market landscape, Top Competitor Analysis, Revenue, Sales With Forecast Data from 2022 to 2028",
-      "excerpt": "This new report by Report Mines provides a comprehensive summary of the new developments within the \" Artificial Intelligence (AI) Speakers market \" across the global regions which includes ( North America: United States,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-speakers-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-08-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-speakers-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-08-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales",
-        "AI in Autos"
       ]
     }
   ],

@@ -90,20 +90,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Getty Images Is Barring Illustrations Created by Artificial Intelligence"
-    excerpt: "Getty Images won’t sell AI-generated art as photographers have called for more regulations on AI-content generators."
-    publishedDateTime: 2022-09-21T16:25:00Z
-    webUrl: "https://observer.com/2022/09/getty-images-is-barring-illustrations-created-by-artificial-intelligence/"
-    type: article
-    provider:
-      name: observer
-      domain: observer.com
-    quality: 36
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2022/09/GettyImages-1236811424.jpg?quality=80&#038;strip"
-        width: 4960
-        height: 3152
-        isCached: true
 
 secured: "rWSgEdEIrF3bFI/HJUlES/lpW9zf92ijkgt2wf/EnZG+lW5Hk52wT6v8IcIl1hcW+FI4Jn+Jaxg1wf0TNrdFmd6mCrstS5YZQ0aOeH6SkDAQILsN//UDLxWUMZgZEozOqdGETF93XIxg224XbJrfmHaNfavHyI38KpBL00e3I/3qTP7ihBXsITcrNl9MDcKRTzCGP+1pP0ne2pIRgT6HmFNzU/6TSF7cm/8fsrJnAIrMpusOHrF7BbBR/1CyRZkRBB7vQUhHQmbVRq3tlCZPLsEWkklrDexA9MoAaErRB4no9cHeQD2us9wVaBXT5GoQF4bVKH5KH8FfhG54o8vVO0zbrc3Aucxd0VWCT6YUmUDQE8XpPO/9XpyxcSVc2B30HVs1Sx8845HitawDDaGFeDFG/BjViAN1fa/6sgjcTyLv2fzUC+b7kUAU/J1kJR+e+gY/cauQCdFmwwh8YrwGWpn69AgmDIXOFHd6PyHoly2HvaoCSjZlMe4XR+I5Np5TZALoFBSNlipw73CHg4PSRw==;vANepY8+JN1T8mnhwvL5Qg=="
 ---

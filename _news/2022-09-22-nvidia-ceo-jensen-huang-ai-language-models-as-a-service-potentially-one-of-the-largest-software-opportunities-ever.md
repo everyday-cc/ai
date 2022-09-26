@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-ceo-jensen-huang-ai-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-ceo-jensen-huang-ai-language-models-as-a-service-potentially-one-of-the-largest-software-opportunities-ever/"
 type: article
 quality: 66
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: ZDNet
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tech war: Nvidia CEO Jensen Huang confident in China market despite US AI chip ban"
-    excerpt: "Jensen Huang says China continues to present a significant growth opportunity even after Washington restricted the Californian company from exporting two of its top chips to the country."
-    publishedDateTime: 2022-09-21T15:21:00Z
-    webUrl: "https://www.scmp.com/tech/tech-war/article/3193316/tech-war-nvidia-ceo-jensen-huang-confident-china-market-despite-us-ai"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 78
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/09/21/6b696160-95c0-4607-9999-c01b287baab3_021e4de6.jpg?itok=wesR8G4f&v=1663760466"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The DeanBeat: Nvidia CEO Jensen Huang says AI will auto-populate the 3D imagery of the metaverse"
     excerpt: "It takes AI kinds to make a virtual world. Nvidia CEO Jensen Huang said this week during a Q&A at the GTC22 online event that AI will auto-populate the 3D imagery of the metaverse. He believes that AI will make the first pass at creating the 3D objects that populate the vast virtual worlds of the metaverse — and then human creators will take over and refine them to their liking."
     publishedDateTime: 2022-09-23T13:00:00Z

@@ -2,6 +2,197 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-09-20-the-promise-of-sustainable-ai-may-not-outweigh-the-organizational-challenges.md",
+      "title": "The promise of sustainable AI may not outweigh the organizational challenges",
+      "excerpt": "Enterprises can use Artificial Intelligence (AI) and other smart technology to solve sustainability challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/does-promise-sustainable-ai-outweigh-organizational-challenges/",
+      "originalUrl": "https://venturebeat.com/ai/does-promise-sustainable-ai-outweigh-organizational-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/4-How-data-reinforces-commitments-to-sustainability.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/does-promise-sustainable-ai-outweigh-organizational-challenges/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/does-promise-sustainable-ai-outweigh-organizational-challenges/amp/",
+      "publishedDateTime": "2022-09-19T18:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-editorial-even-robots-need-ethics-training.md",
+      "title": "Editorial: Even robots need ethics training",
+      "excerpt": "\"Bias must be eliminated from the data used in AI algorithms, beginning with a more representative group of artificial intelligence developers. Either artificial intelligence algorithms need to have corrective measures or the solutions to our growing world just got a lot more complicated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailytarheel.com/article/2022/09/opinion-ethics-and-diversity-in-ai-technology",
+      "originalUrl": "https://www.dailytarheel.com/article/2022/09/opinion-ethics-and-diversity-in-ai-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://snworksceo.imgix.net/dth/bd7f831e-3cb4-41b7-8819-91e143cc2931.sized-1000x1000.jpg?w=800&h=600",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T17:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Tar Heel",
+        "domain": "dailytarheel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-ai-enabled-laughing-robots-are-no-joke.md",
+      "title": "AI-Enabled Laughing Robots are No Joke",
+      "excerpt": "We propose that our system can be used for situated robot interaction and also emphasize the need for integrating proper empathetic laughs into conversational robots and agents",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202209/ai-enabled-laughing-robots-are-no-joke",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202209/ai-enabled-laughing-robots-are-no-joke",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-09/pic0921111.gif.jpg?itok=QnCgHwxS",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202209/ai-enabled-laughing-robots-are-no-joke?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202209/ai-enabled-laughing-robots-are-no-joke?amp",
+      "publishedDateTime": "2022-09-19T15:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-tesla-expands-its-full-self-driving-beta-to-60000-more-owners.md",
+      "title": "Tesla expands its Full Self-Driving Beta to 60,000 more owners",
+      "excerpt": "Beta program for the first time in a long time. After adding 60,000 additional owners, Tesla’s FSD Beta will have over 160,000 people in the program. The FSD Beta program enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-owners/",
+      "originalUrl": "https://electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-owners/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-FSD-Beta-pedestrian-Blue-Ridge-Mountains.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-owners/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/19/tesla-full-self-driving-beta-expands-owners/amp/",
+      "publishedDateTime": "2022-09-19T15:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-ai-software-helps-bust-image-fraud-in-academic-papers.md",
       "title": "AI software helps bust image fraud in academic papers",
       "excerpt": "Scientific publishers such as the American Association for Cancer Research (AACR) and Taylor & Francis have begun attempting to detect fraud in academic paper submissions with an AI image-checking program called Proofig,",
@@ -973,196 +1164,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-daily-multivitamin-may-slow-down-cognitive-decline-in-older-adults.md",
-      "title": "Daily Multivitamin May Slow Down Cognitive Decline in Older Adults",
-      "excerpt": "Daily multivitamins may slow down cognitive decline among older adults. The corresponding study was published in Alzheimer's & Dementia. The Alzheimer's Association states that there are 6.5 million Americans living with Alzheimer's disease and that 1 in 3 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.labroots.com/trending/drug-discovery-and-development/23635/daily-multivitamin-slow-cognitive-decline-adults",
-      "originalUrl": "https://www.labroots.com/trending/drug-discovery-and-development/23635/daily-multivitamin-slow-cognitive-decline-adults",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.labroots.com/content_article_profile_image_5de5b999909a9e88a3f03d5a7f5a4f882dc6e244_1436.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-17T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Labroots",
-        "domain": "labroots.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-global-artificial-intelligence-market-to-reach-450-billion-in-2022.md",
-      "title": "Global artificial intelligence market to reach $450 billion in 2022",
-      "excerpt": "The Artificial Intelligence (AI) market value is expected to reach nearly $450 billion this year and maintain a year-over-year growth rate in the next five years, a new report has forecast. In 2021, the global revenues for the AI market,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/global-artificial-intelligence-market-to-reach-450-billion-in-2022/articleshow/94268554.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/global-artificial-intelligence-market-to-reach-450-billion-in-2022/articleshow/94268554.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-89644,msid-94268528/ai.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/global-artificial-intelligence-market-to-reach-450-billion-in-2022/amp_articleshow/94268554.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/global-artificial-intelligence-market-to-reach-450-billion-in-2022/amp_articleshow/94268554.cms",
-      "publishedDateTime": "2022-09-17T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-economists-view-of-artificial-intelligence-beyond-cheaper-prediction-power.md",
-      "title": "Economist’s View Of Artificial Intelligence: Beyond Cheaper Prediction Power",
-      "excerpt": "We’re starting to outsource a large share of human decision-making to machines, which may have unforeseen implications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/17/economists-view-of-artificial-intelligence-beyond-cheaper-prediction-power/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/17/economists-view-of-artificial-intelligence-beyond-cheaper-prediction-power/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63254ca3e6ea262af77a03a7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/17/economists-view-of-artificial-intelligence-beyond-cheaper-prediction-power/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/09/17/economists-view-of-artificial-intelligence-beyond-cheaper-prediction-power/amp/",
-      "publishedDateTime": "2022-09-17T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-the-creepy-problem-killing-ai-projects.md",
-      "title": "The Creepy Problem Killing AI Projects",
-      "excerpt": "But once you get into animatronics or the Sophia robot where they are trying to look and act human, they start to fall into the uncanny valley where many people find them to be creepy and are uncomfortable around them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/17/the-creepy-problem-killing-ai-projects/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/17/the-creepy-problem-killing-ai-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/631f82356d7f993699fe5860/0x0.jpg?format=jpg&crop=1782,1003,x338,y72,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/17/the-creepy-problem-killing-ai-projects/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/09/17/the-creepy-problem-killing-ai-projects/amp/",
-      "publishedDateTime": "2022-09-17T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

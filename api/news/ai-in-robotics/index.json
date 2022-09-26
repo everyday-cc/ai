@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-26-a-new-common-sense-test-for-ai-could-lead-to-smarter-machines.md",
+      "title": "A new ‘common sense’ test for AI could lead to smarter machines",
+      "excerpt": "Teaching AI common sense will be the next breakthrough in the field. But how exactly can we measure something as intangible as common sense?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/common-sense-test-for-ai-smarter-machines",
+      "originalUrl": "https://thenextweb.com/news/common-sense-test-for-ai-smarter-machines",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F09%2FOL2-1.jpg&signature=6c729ac2330cc240f65fc262dad35684",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-26T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-09-24-tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch.md",
       "title": "Tesla AI Day Brings Optimus Robot, Self-Driving Car Updates: Here's How to Watch",
       "excerpt": "Tesla is hiring engineers to build a walking, talking robot called Optimus. Expect Elon Musk to update us on steps toward self-driving cars, too.",
@@ -560,8 +613,8 @@
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?476576",
-          "width": 444,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?45446",
+          "width": 294,
           "height": 250,
           "title": null,
           "attribution": null,
@@ -1346,58 +1399,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-nike-sneaker-cleaning-robot-looks-like-a-car-wash-for-shoes.md",
-      "title": "Nike Sneaker-Cleaning Robot Looks Like a Car Wash for Shoes",
-      "excerpt": "At first glance, Big BILL looks like the ultimate Rube Goldberg machine (a contraption intentionally designed to complicate a simple task). Nike, however, insists BILL not only cleans shoes, but deep cleans and fixes them,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/culture/fashion/nike-sneaker-cleaning-robot-looks-like-a-car-wash-for-shoes/",
-      "originalUrl": "https://www.cnet.com/culture/fashion/nike-sneaker-cleaning-robot-looks-like-a-car-wash-for-shoes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/8919002038ce59db805af029082728dec9276515/2022/09/13/c78420d1-c75d-46be-a0b3-ab6d56f5b794/bill2-1.jpg?auto=webp",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/nike-sneaker-cleaning-robot-looks-like-a-car-wash-for-shoes/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nike-sneaker-cleaning-robot-looks-like-a-car-wash-for-shoes/",
-      "publishedDateTime": "2022-09-14T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

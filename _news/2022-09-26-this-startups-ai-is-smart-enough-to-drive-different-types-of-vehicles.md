@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2022/09/26/1060023/wayve-ai-driverless
 ampWebUrl: "https://www.technologyreview.com/2022/09/26/1060023/wayve-ai-driverless-vehicles-cars-vans-scale-up/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/26/1060023/wayve-ai-driverless-vehicles-cars-vans-scale-up/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+  - AI in Robotics
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2022/09/Wayve-Generalisation-width-2888px.jpg?w=2888"
@@ -26,6 +27,6 @@ images:
     height: 1624
     isCached: true
 
-secured: "UegGg0aNH5V6ssQm5Z7tSJU3ToVqwabk0JGYGikAEQXo31L05CEUIkRANiWFUVHNo4KIxnPcW6OwQAN/AlhjGEJ2gbGXRH7CObbN48Qd7A2AHYQNwIbhpW8QTJhgam3aFMFxPN1gvEDUaif5Viyh0hqazrDf9hm7H3105jWpTeWaCYcosu+FoX+IZpGeXf60acspKAUVjwxs+YyIDOnSqbnG5yjOEgwiU6vyYZ1fC4p4AlaGUCXS8j72nMlSZvZ/c5iJjjy6seC4qlz2GgK+3UOjXYOWZQ7o5lX2Mcf6tpQKvG5+6yN9pd6coo526ZCjKcrNQnzQ4HXhXriGXIyW4pc+HDY9Ybn3pqaaq+nea7Q=;xBruM8cmaSpIjQmQFIyhuQ=="
+secured: "UBJyw3Fnqy7hP83sPvHfEejL1DjJ+44JGffI108veChBuivw7Vuz0FPaKDeokfmC+WiRtgXX/OgPq7NuIotzz7uI1IeDcNVnI3XBRB/6TlSX8CuIzB+Beb6Y9i4sUmOS7pgHWQM0GlHYcPez0uUDVo8KmAtxQQWL1jcswX9tYB82W1HoC9X06RCEGX4j+4dZMpYhIedT6pm/WgcarX5fWaBQkWf/cgeJGkp5UjR1NU16iTeOsEbJ4Ma96Ml1x2t4si2ZbhSZ6hu94BFuxVoAdOUXTF9sN/tAENttCzrf2rVvVLqUKHxqxOyFuTDfntcHxXEgQuQDNQHj2VgB7o568yyV04Ft/gCbX/ErM7vuumI5hoR9OXjrKcrAjR9Uy/IPnAAzoV1x5AfdSE/LMSMA59irlkLAyp8M1/TD+ZPYfVZgrzm0yxbDq0kn//NzmymK/O50uvNxm21fmaDMh5uVxDdYSAwja8ptOXjWJP88EL8Z7aZqS13RbzJQwND63XRluDiBzF360fH4jLSngbTgZg==;tCeQMfp3T1HmO0pBUXcoWA=="
 ---
 

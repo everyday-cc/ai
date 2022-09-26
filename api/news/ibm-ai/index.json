@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-26-a-new-common-sense-test-for-ai-could-lead-to-smarter-machines.md",
+      "title": "A new ‘common sense’ test for AI could lead to smarter machines",
+      "excerpt": "Teaching AI common sense will be the next breakthrough in the field. But how exactly can we measure something as intangible as common sense?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/common-sense-test-for-ai-smarter-machines",
+      "originalUrl": "https://thenextweb.com/news/common-sense-test-for-ai-smarter-machines",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F09%2FOL2-1.jpg&signature=6c729ac2330cc240f65fc262dad35684",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-26T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-09-23-cmi-media-group-partners-with-ibm-watson-for-viiv-healthcare-marketing.md",
       "title": "CMI Media Group partners with IBM Watson for ViiV Healthcare marketing",
       "excerpt": "CMI used IBM Watson’s program alongside Lasso, an omnichannel platform, to achieve real-world measurement across programmatic channels for its campai",
@@ -1311,58 +1364,6 @@
         "name": "TheStreet.com",
         "domain": "thestreet.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-15-ai-in-insurance-market-to-reach-4574-billion-globally-by-2031-at-325-cagr-allied-market-research.md",
-      "title": "AI in Insurance Market to Reach $45.74 Billion, Globally, by 2031 at 32.5% CAGR: Allied Market Research",
-      "excerpt": "Increase in investment by insurance companies in AI & machine learning and rise in preference for personalized insurance servicesboost the growth of the global AI in insurance market. PORTLAND, Ore.,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-insurance-market-to-reach-4574-billion-globally-by-2031-at-325-cagr-allied-market-research-2022-08-15-72033049",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-insurance-market-to-reach-4574-billion-globally-by-2031-at-325-cagr-allied-market-research-2022-08-15-72033049",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-15T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,231 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2022-08-10-the-worldwide-artificial-intelligence-ai-in-drug-discovery-industry-is-expected-to-reach-23-billion-by-2027-researchandmarketscom.md",
+      "title": "The Worldwide Artificial Intelligence (AI) in Drug Discovery Industry is Expected to Reach $2.3 Billion by 2027 - ResearchAndMarkets.com",
+      "excerpt": "The Global Artificial Intelligence (AI) in Drug Discovery Market is estimated to be USD 792.45 Mn in 2022 and is expected to reach USD 2337.25 Mn by 2027, growing at a CAGR of 24.15%. Market dynamics are forces that impact the prices and behaviors of the Global Artificial Intelligence (AI) in Drug Discovery Market stakeholders.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/covid-technology-health-middle-east-f1500da2065941639bebd64db2cf18e2",
+      "originalUrl": "https://apnews.com/press-release/business-wire/covid-technology-health-middle-east-f1500da2065941639bebd64db2cf18e2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-a-new-explainable-ai-paradigm-that-could-enhance-human-robot-collaboration.md",
+      "title": "A new explainable AI paradigm that could enhance human-robot collaboration",
+      "excerpt": "Artificial intelligence (AI) methods have become increasingly advanced over the past few decades, attaining remarkable results in many real-world tasks. Nonetheless, most existing AI systems do not share their analyses and the steps that led to their predictions with human users,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-08-ai-paradigm-human-robot-collaboration.html",
+      "originalUrl": "https://techxplore.com/news/2022-08-ai-paradigm-human-robot-collaboration.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/a-new-explainable-ai-p.jpg",
+          "width": 2880,
+          "height": 2245,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-08-ai-paradigm-human-robot-collaboration.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-ai-paradigm-human-robot-collaboration.amp",
+      "publishedDateTime": "2022-08-10T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-ai-takes-the-real-you-into-the-metaverse.md",
+      "title": "AI takes the 'real' you into the metaverse",
+      "excerpt": "Posted . 08/10 A London-based startup wants to help you step into the metaverse with your 'real' face instead of the cartoo",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idsr3i?now=true",
+      "originalUrl": "https://www.reuters.com/video/watch/idsr3i?now=true",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ajo.prod.reuters.tv/api/v2/img/62f3a3d6e4b05160ceab43cb-1660134361379?location=LANDSCAPE",
+          "width": 748,
+          "height": 421,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-ai-and-computer-vision-powers-growing-shop-and-go-platform.md",
+      "title": "AI and computer vision powers growing shop-and-go platform",
+      "excerpt": "AiFi, which is powered only by cameras and computer vision, announced today that it now boasts a total of 80 checkout-free stores worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-and-computer-vision-shop-and-go-retail-platform-expands/",
+      "originalUrl": "https://venturebeat.com/ai/ai-and-computer-vision-shop-and-go-retail-platform-expands/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/Loop-Union-City-3-min-1024x683-1.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-and-computer-vision-shop-and-go-retail-platform-expands/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-and-computer-vision-shop-and-go-retail-platform-expands/amp/",
+      "publishedDateTime": "2022-08-10T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-sysdig-blocks-cryptojacking-in-the-cloud-with-99-precision-using-machine-learning.md",
+      "title": "Sysdig Blocks Cryptojacking in the Cloud with 99% Precision Using Machine Learning",
+      "excerpt": "Sysdig, the unified container and cloud security leader, today announced machine learning-powered cloud detection and response (CDR) to combat cryptojacking. The company’s threat engine and detection algorithms block cryptojacking in the cloud with 99% precision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelbiz.co.uk/press-release/sysdig-blocks-cryptojacking-in-the-cloud-with-99-precision-using-machine-learning/",
+      "originalUrl": "https://www.channelbiz.co.uk/press-release/sysdig-blocks-cryptojacking-in-the-cloud-with-99-precision-using-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel Biz",
+        "domain": "channelbiz.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-viecure-partners-with-clarified-precision-medicine-to-accelerate-the-adoption-of-precision-oncology.md",
       "title": "VieCure Partners with Clarified Precision Medicine to Accelerate the Adoption of Precision Oncology",
       "excerpt": "VieCure will fully integrate the Clarified Precision Medicine Somatic and Germline Clinical Consultation process within its A.I. platform and offer community oncologists with streamlined access to Clarified’s nationally recognized test interpretation team.",
@@ -923,239 +1148,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-setting-our-heart-attack-predicting-ai-loose-with-no-code-tools.md",
-      "title": "Setting our heart-attack-predicting AI loose with “no-code” tools",
-      "excerpt": "AutoML is a big chunk of what sits behind Canvas; it evaluates the data and tries a number of different algorithm types to determine what's best After that's done, we'll take a swing using one of ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/08/no-code-no-problem-part-two-setting-the-ai-loose-with-the-easy-button/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/08/no-code-no-problem-part-two-setting-the-ai-loose-with-the-easy-button/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/machine-learning-disected-go-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T18:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president.md",
-      "title": "Meta AI chatbot says Zuckerberg 'too creepy' and Trump will always be US president",
-      "excerpt": "Meta (formerly Facebook) just unveiled an artificial intelligence ... tweeted that she tried out the new chatbot Meta created for AI research and had the most bizarre conversation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bgr.in/news/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president-1308360/",
-      "originalUrl": "https://www.bgr.in/news/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president-1308360/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://st1.bgr.in/wp-content/uploads/2021/12/Mark-Zuckerberg-w.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bgr.in/news/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president-1308360/amp/",
-      "cdnAmpWebUrl": "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president-1308360/amp/",
-      "publishedDateTime": "2022-08-09T17:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "www.bgr.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-computer-vision-market-2022-to-see-huge-growth-by-2029-basler-omron-keyence-national-instruments-by-vmr.md",
-      "title": "Computer Vision Market 2022 to See Huge Growth by 2029 | Basler, Omron, Keyence, National Instruments By VMR",
-      "excerpt": "New Jersey United State – The Computer Vision Market Report contains key market data, new trends, product usage, and driving factors for customers and competitors. This excellent market report ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/computer-vision-market-2022-to-see-huge-growth-by-2029-basler-omron-keyence-national-instruments-by-vmr",
-      "originalUrl": "https://www.digitaljournal.com/pr/computer-vision-market-2022-to-see-huge-growth-by-2029-basler-omron-keyence-national-instruments-by-vmr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/58367ef44d2678d0579a5fa3c510df3b6b4d6737-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-object-recognition-imaging-systems-market-2022-covid-19-impact-growth-factors-top-venders-and-forecast-till-2030.md",
-      "title": "Object Recognition Imaging Systems Market 2022 Covid-19 Impact, Growth Factors, Top Venders and Forecast Till 2030",
-      "excerpt": "Aug 10, 2022 (Alliance News via COMTEX) -- Key Companies Covered in the Object Recognition Imaging Systems Research are Quanergy, Xiris Automation Inc, Pieper Automation, Logos Systems Int’l ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-2022-covid-19-impact-growth-factors-top-venders-and-forecast-till-2030-2022-08-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-2022-covid-19-impact-growth-factors-top-venders-and-forecast-till-2030-2022-08-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-ai-ecg-heart-trace-can-accurately-predict-diabetes-and-pre-diabetes.md",
-      "title": "AI + ECG heart trace can accurately predict diabetes and pre-diabetes",
-      "excerpt": "An artificial intelligence (AI) algorithm, derived from the features of individual heartbeats recorded on an ECG (electrocardiogram), can accurately predict diabetes and pre-diabetes, suggests preliminary research published in the online journal BMJ Innovations.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-08-ai-ecg-heart-accurately-diabetes.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-08-ai-ecg-heart-accurately-diabetes.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2017/heartbeat.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-08-ai-ecg-heart-accurately-diabetes.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-ai-ecg-heart-accurately-diabetes.amp",
-      "publishedDateTime": "2022-08-09T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

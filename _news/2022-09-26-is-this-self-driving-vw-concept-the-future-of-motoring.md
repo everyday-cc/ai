@@ -25,29 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "The Unexpected Truth About Self-Driving Cars According To General Motors"
-    excerpt: "The future is self-driving, or so say evangelists that are betting big on a future where AI-powered machines — including vehicles — will perform intended tasks on their own. Self-driving cars ..."
-    publishedDateTime: 2022-09-21T15:14:00Z
-    webUrl: "https://www.slashgear.com/1018226/the-unexpected-truth-about-self-driving-cars-according-to-general-motors/"
+  - title: "VW's latest concept is a self-driving travel pod that can replace short flights"
+    excerpt: "We wouldn't count on all of them reaching the self-driving machines VW expects to make from 2025 onward, but don't be surprised if future robotaxis seem very familiar."
+    publishedDateTime: 2022-09-23T17:06:00Z
+    webUrl: "https://www.engadget.com/vw-gen-travel-self-driving-pod-162904370.html"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 53
+      name: Engadget
+      domain: engadget.com
+    quality: 50
     images:
-      - url: "https://www.slashgear.com/img/gallery/the-unexpected-truth-about-self-driving-cars-according-to-general-motors/l-intro-1663772176.jpg"
-        width: 1600
-        height: 897
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-09/508f5e40-3b57-11ed-b59d-fdcf34ea0a64"
+        width: 1920
+        height: 1280
         isCached: true
-  - title: "Can eyes on self-driving cars reduce accidents?"
-    excerpt: "Self-driving vehicles seem to be just around the corner. Whether they'll be delivering packages, plowing fields or busing kids to school, a lot of research is underway to turn a once futuristic ..."
-    publishedDateTime: 2022-09-22T16:14:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/09/220920100807.htm"
+  - title: "VW Group Gen.Travel concept imagines a Level 5 self-driving car"
+    excerpt: "The Gen.Travel is an electric vehicle with a self-driving system rated at Level 5 on the SAE scale of self-driving capability. Level 5 is the ultimate goal for companies developing self-driving technology,"
+    publishedDateTime: 2022-09-23T11:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1137257_vw-group-gen-travel-level-5-self-driving-car-concept-revealed"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 34
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/volkswagen-group-gen-travel-concept_100856314_h.jpg"
+        width: 1920
+        height: 1322
+        isCached: true
   - title: "China to set self-driving standard"
     excerpt: "Industry analysts said the ISO's acceptance confirms that China is spearheading the research and development as well as the application of self-driving technologies, and promoting their large-scale commercial use."
     publishedDateTime: 2022-09-23T23:57:00Z
@@ -62,15 +67,6 @@ related:
         width: 658
         height: 438
         isCached: true
-  - title: "Video game actors are worried about AI tech taking over their jobs"
-    excerpt: "Self-service checkouts, lights-out manufacturing, self-driving cars, and wars raged by robotic drones – automation is coming for everyone’s jobs eventually, and our capitalist systems aren’t equipped to carry us through it."
-    publishedDateTime: 2022-09-22T02:33:00Z
-    webUrl: "https://www.news.com.au/technology/gaming/video-game-actors-are-worried-about-ai-tech-taking-over-their-jobs/news-story/71d80e74b5f001ee56664be839bc18f4"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 21
 
 secured: "IJJGU5uEy5L2JSpExPh879sci6o47XCc/uSA5CdK5EAIUoGilym3VR03ndAimLBQ7JZEehRfAHsTIaJd/yDBbsBtdkl89M7pM/nV+ae9olvdYSU3kVdzMBtr/UqEV0fYF47PbZ2WPfX4S+t78jxp61GnS1NL4KUtzDNJ/c7kLK2xE3PTnOWHg/GphNrXE4G5SdaY21idBOoolH/YfdsL0wKSTQqm9XeaEAmHqk/MmI5N/z6wHM7l+cM/AdVLbtXPJ3G57GpuUtr7jMessQ2rPIfFMv0tGc8UwDJP70J9VhQ4769BwCeqRv2SfLeNnfn1cua21tr2undJm4X7HoOeBokqQ/wVSTYW5EYm12PrbbvE4lg0xzGBSPjbZiaJVO4PM1cbE0y13yTa8aJppVi1VhtmgHCcNOtSCsz2rfwy8zEex8hfJTuzEiL4nFgqCZRO8j1xnIhzVkIciaaEBT84L8wXJTUN7k9aZIw9SRlgr6X/4CVV+IQ2SG5i0wzdny9TtXuxAdGyvBHK/DvGNNHAuw==;p4iOwpCKwMVbUNiqOjImdw=="
 ---

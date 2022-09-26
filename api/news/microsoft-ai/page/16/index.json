@@ -2,6 +2,40 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-05-27-microsoft-build-conference-heralds-era-of-ai-assisted-software-development.md",
+      "title": "Microsoft Build Conference Heralds Era of AI-Assisted Software Development",
+      "excerpt": "Years from now, looking back, the 2022 Microsoft Build developer conference might be seen as the dawn of a new era of AI-assisted development. \"AI and coding have become deeply entwined, and at Build,",
+      "sourceUrl": null,
+      "webUrl": "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx",
+      "originalUrl": "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T11:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Visual Studio Magazine",
+        "domain": "visualstudiomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-amd-instincttm-mi200-adopted-for-large-scale-ai-training-in-microsoft-azure.md",
       "title": "AMD Instinct(TM) MI200 Adopted for Large-Scale AI Training in Microsoft Azure",
       "excerpt": "Microsoft Azure is the first public cloud to deploy AMD Instinct MI200 accelerators SANTA CLARA, Calif., May 26, 2022 (GLOBE NEWSWIRE) -- AMD (NASDAQ: AMD) and Microsoft continued their collaboration in the cloud,",
@@ -1305,58 +1339,6 @@
         "name": "Seattle Times",
         "domain": "seattletimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations.md",
-      "title": "AI Tool Aims to Help CIOs Monitor Carbon Emissions from Cloud Operations",
-      "excerpt": "The AI technology is constantly refining recommendations based ... Alphabet Inc.’s Google Cloud and Microsoft Corp.’s Azure cloud platform started offering their customers carbon-tracking tools in October 2021 and January 2020. Write to Suman ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974?mod=business_minor_pos11",
-      "originalUrl": "https://www.wsj.com/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974?mod=business_minor_pos11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-543938/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974",
-      "publishedDateTime": "2022-05-13T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

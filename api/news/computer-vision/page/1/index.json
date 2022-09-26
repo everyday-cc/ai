@@ -98,50 +98,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-22-inuitive-launches-nu4100-expanding-its-edge-ai-vision-on-chip-ic-portfolio.md",
-      "title": "Inuitive launches NU4100, expanding its Edge-AI Vision-on-Chip IC portfolio",
-      "excerpt": "Based on Inuitive’s unique architecture and advanced 12nm process technology, the new NU4100 IC supports integrated dual-channel 4K ISP, enhanced AI processing, and depth sensing in a single-chip, low-power design,",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/news/52699/inuitive-edge-ai-vision-on-chip-ic.html",
-      "originalUrl": "https://www.design-reuse.com/news/52699/inuitive-edge-ai-vision-on-chip-ic.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.design-reuse.com/news_img2/homepage52699/intb.jpg",
-          "width": 700,
-          "height": 369,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T23:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2022-09-21-improving-accuracy-of-computer-vision-models-voxel51-raises-125m.md",
       "title": "Improving accuracy of computer vision models, Voxel51 raises $12.5M",
       "excerpt": "Computer vision startup, Voxel51, helping data scientists ensure the accuracy of datasets used for computer vision, raises $12.5M series A.",
@@ -1424,6 +1380,49 @@
       "provider": {
         "name": "The Hindu",
         "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-08-mohali-mc-turns-to-face-recognition-attendance-system-to-rein-in-absence.md",
+      "title": "Mohali MC turns to face recognition attendance system to rein in absence",
+      "excerpt": "Working to curb unauthorised absence at the municipal corporation office, the civic body’s finance and contract committee on Wednesday gave the nod for a face-recognition attendance system for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/cities/chandigarh-news/mohali-mc-turns-to-face-recognition-attendance-system-to-rein-in-absence-101662585164173.html",
+      "originalUrl": "https://www.hindustantimes.com/cities/chandigarh-news/mohali-mc-turns-to-face-recognition-attendance-system-to-rein-in-absence-101662585164173.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/09/07/1600x900/f9dfc766-2eee-11ed-b360-96b459ca4506_1662585162670.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/cities/chandigarh-news/mohali-mc-turns-to-face-recognition-attendance-system-to-rein-in-absence-101662585164173-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/chandigarh-news/mohali-mc-turns-to-face-recognition-attendance-system-to-rein-in-absence-101662585164173-amp.html",
+      "publishedDateTime": "2022-09-07T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,196 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-09-17-daily-multivitamin-may-slow-down-cognitive-decline-in-older-adults.md",
+      "title": "Daily Multivitamin May Slow Down Cognitive Decline in Older Adults",
+      "excerpt": "Daily multivitamins may slow down cognitive decline among older adults. The corresponding study was published in Alzheimer's & Dementia. The Alzheimer's Association states that there are 6.5 million Americans living with Alzheimer's disease and that 1 in 3 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.labroots.com/trending/drug-discovery-and-development/23635/daily-multivitamin-slow-cognitive-decline-adults",
+      "originalUrl": "https://www.labroots.com/trending/drug-discovery-and-development/23635/daily-multivitamin-slow-cognitive-decline-adults",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.labroots.com/content_article_profile_image_5de5b999909a9e88a3f03d5a7f5a4f882dc6e244_1436.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-17T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Labroots",
+        "domain": "labroots.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-17-global-artificial-intelligence-market-to-reach-450-billion-in-2022.md",
+      "title": "Global artificial intelligence market to reach $450 billion in 2022",
+      "excerpt": "The Artificial Intelligence (AI) market value is expected to reach nearly $450 billion this year and maintain a year-over-year growth rate in the next five years, a new report has forecast. In 2021, the global revenues for the AI market,",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/global-artificial-intelligence-market-to-reach-450-billion-in-2022/articleshow/94268554.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/global-artificial-intelligence-market-to-reach-450-billion-in-2022/articleshow/94268554.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-89644,msid-94268528/ai.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/global-artificial-intelligence-market-to-reach-450-billion-in-2022/amp_articleshow/94268554.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/global-artificial-intelligence-market-to-reach-450-billion-in-2022/amp_articleshow/94268554.cms",
+      "publishedDateTime": "2022-09-17T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-17-economists-view-of-artificial-intelligence-beyond-cheaper-prediction-power.md",
+      "title": "Economist’s View Of Artificial Intelligence: Beyond Cheaper Prediction Power",
+      "excerpt": "We’re starting to outsource a large share of human decision-making to machines, which may have unforeseen implications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/17/economists-view-of-artificial-intelligence-beyond-cheaper-prediction-power/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/17/economists-view-of-artificial-intelligence-beyond-cheaper-prediction-power/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63254ca3e6ea262af77a03a7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/17/economists-view-of-artificial-intelligence-beyond-cheaper-prediction-power/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/09/17/economists-view-of-artificial-intelligence-beyond-cheaper-prediction-power/amp/",
+      "publishedDateTime": "2022-09-17T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-17-the-creepy-problem-killing-ai-projects.md",
+      "title": "The Creepy Problem Killing AI Projects",
+      "excerpt": "But once you get into animatronics or the Sophia robot where they are trying to look and act human, they start to fall into the uncanny valley where many people find them to be creepy and are uncomfortable around them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/17/the-creepy-problem-killing-ai-projects/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/17/the-creepy-problem-killing-ai-projects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/631f82356d7f993699fe5860/0x0.jpg?format=jpg&crop=1782,1003,x338,y72,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/17/the-creepy-problem-killing-ai-projects/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/09/17/the-creepy-problem-killing-ai-projects/amp/",
+      "publishedDateTime": "2022-09-17T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-09-17-sambanova-doubles-up-chips-to-chase-ai-foundation-models.md",
       "title": "SambaNova Doubles Up Chips To Chase AI Foundation Models",
       "excerpt": "One of the first tenets of machine learning, which is a very precise kind of data analytics and statistical analysis, is that more data beats a better",
@@ -192,40 +382,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-17-global-artificial-intelligence-ai-in-automotive-and-transportation-market-to-grow-at-20-through-2026.md",
-      "title": "Global Artificial Intelligence (AI) in Automotive and Transportation Market to Grow at 20% Through 2026",
-      "excerpt": "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. This market is likely to grow at a CAGR of around 20% during 2021-26.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-automotive-transportation-market-grow-/2022/09/16/9675469.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-automotive-transportation-market-grow-/2022/09/16/9675469.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-17-artists-begin-selling-ai-generated-artwork-on-stock-photography-websites.md",
       "title": "Artists begin selling AI-generated artwork on stock photography websites",
       "excerpt": "Seeking ways to \"monetize\" AI-generated art, some artists have already begun submitting their AI-generated pieces to stock photography websites like Shutterstock.com. Searches for \"AI generated\" or \"Midjourney\" (a popular image synthesis service) produce thousands of results on the site.",
@@ -274,6 +430,40 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-17-global-artificial-intelligence-ai-in-automotive-and-transportation-market-to-grow-at-20-through-2026.md",
+      "title": "Global Artificial Intelligence (AI) in Automotive and Transportation Market to Grow at 20% Through 2026",
+      "excerpt": "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/n28901830/global-artificial-intelligence-ai-in-automotive-and-transportation-market-to-grow-at-20-through-20",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/n28901830/global-artificial-intelligence-ai-in-automotive-and-transportation-market-to-grow-at-20-through-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28901830",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28901830",
+      "publishedDateTime": "2022-09-16T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -991,178 +1181,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-ai-the-future-of-healthcare.md",
-      "title": "AI: The Future of Healthcare",
-      "excerpt": "By Dr Christophe Bianchi, Chief Technologist HealthCare, Ansys The covid pandemic touched almost every aspect of our lives and its legacy can still be seen throughout society and the economy. During that time there was a laser-pointed focus placed on the healthcare industry – leading doctors and scientists instantly became household names",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/ai-the-future-of-healthcare/",
-      "originalUrl": "https://www.globalbankingandfinance.com/ai-the-future-of-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/07/iStock-1397174654.jpg",
-          "width": 750,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/ai-the-future-of-healthcare/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/ai-the-future-of-healthcare/",
-      "publishedDateTime": "2022-09-16T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-diet-could-play-a-role-in-cognitive-function-across-diverse-races-and-ethnicities.md",
-      "title": "Diet could play a role in cognitive function across diverse races and ethnicities",
-      "excerpt": "Dietary choices and their consequences may certainly influence cognitive function ... Metabolon offers biochemical profiling services and is developing molecular diagnostic assays detecting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/964717",
-      "originalUrl": "https://www.eurekalert.org/news-releases/964717",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-raleigh-startup-diveplane-aims-to-make-ai-ethical-we-asked-its-ceo-what-that-means.md",
-      "title": "Raleigh startup Diveplane aims to make AI ethical. We asked its CEO what that means.",
-      "excerpt": "Raleigh startup Diveplane aims to make AI ethical. We asked its CEO what that means. Diveplane In today’s world, artificial intelligence is used to make some big decisions. Colleges rely on it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/raleigh-startup-diveplane-wants-ai-094500003.html",
-      "originalUrl": "https://www.aol.com/raleigh-startup-diveplane-wants-ai-094500003.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/.qzOPpJteHDwkFA_4xTX.Q--~B/aD04NTU7dz0xMTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/aol_raleigh_news_and_observer_mcclatchy_356/c29d40aa413655cd1596c0262937ea86",
-          "width": 1140,
-          "height": 855,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-hawke-ai-ceo-discusses-marketing-advancements-that-drive-sustainability.md",
-      "title": "Hawke AI CEO Discusses Marketing Advancements That Drive Sustainability",
-      "excerpt": "As artificial intelligence can optimize processes, marketers are able to better prioritize their time and energy, leading to more sustainable marketing practices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jefffromm/2022/09/16/hawke-ai-ceo-discusses-marketing-advancements-that-drive-sustainability/",
-      "originalUrl": "https://www.forbes.com/sites/jefffromm/2022/09/16/hawke-ai-ceo-discusses-marketing-advancements-that-drive-sustainability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6320a59e6e56708735fe585a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 782,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jefffromm/2022/09/16/hawke-ai-ceo-discusses-marketing-advancements-that-drive-sustainability/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jefffromm/2022/09/16/hawke-ai-ceo-discusses-marketing-advancements-that-drive-sustainability/amp/",
-      "publishedDateTime": "2022-09-16T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

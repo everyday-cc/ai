@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Truly autonomous cars may be impossible without helpful human touch"
-excerpt: "The central premise of autonomous vehicles - that computers and artificial intelligence will dramatically reduce ... \"It's truly millions of outputs.\" Driverless delivery In its track tests for cars, AB Dynamics employs a robot arm that it plans to ..."
-publishedDateTime: 2022-09-13T09:44:00Z
-originalUrl: "https://europe.autonews.com/automakers/truly-autonomous-cars-may-be-impossible-without-human-touch"
-webUrl: "https://europe.autonews.com/automakers/truly-autonomous-cars-may-be-impossible-without-human-touch"
+excerpt: "Autonomous vehicle (AV) startups have raised tens of billions of dollars based on promises to develop truly self-driving cars, but industry executives and experts say remote human supervisors may be needed permanently to help robot drivers in trouble."
+publishedDateTime: 2022-09-12T18:13:00Z
+originalUrl: "https://www.channelnewsasia.com/business/truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-2932686"
+webUrl: "https://www.channelnewsasia.com/business/truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-2932686"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: Automotive News
-  domain: autonews.com
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/Vay%20driver%20web.jpg"
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--RaBB5T0p--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-09-12t061510z_3_lynxmpei8b063_rtroptp_3_autos-autonomous-technology.jpg?itok=JsY2qWQE"
     width: 1200
-    height: 630
+    height: 676
     isCached: true
 
-secured: "/+ophoV6DeA9n59A3XWotn4t1CQgj5ZVby2M79BlrnOpN56zN0EjIcR0AN5+g3RpIWhjja75Tb1HoshdM68zxAJ3lJ4xtlLZ9rlLxANbVpQeSy/lGYKJq1Ds2MXl2kdGaFxFI2BZwTXR3Sq50GA/xf679zgzN/m70S1Otr6Fjm1Bop31DFBR1j2ZqoVRMoQHO/tBQsqsgrUdI5YovoKO+qVODVNkxYFNYtXPXDZsWgEiBFIMhVpWgwRxwBxEL6Fm4F3nnUuMn2dks9OYwe2lCG/pATaiBjgZBNjmaCCLBTkekYwUofHqLIu2OKievq9iOPFf02Tjl/UrszZj68H6KzlnzkDeau7dbsq57C2aVd0svDTuUqG+hciuNUK1FMhFGOVPjwWU2nAb6F6lbwxVpbnEryqQLZjYnmjyd8OygXM+3Iho6abd2FrEBetvxwDaQNEVydaoSL1nV9+gdUKX0eqqr1p6RKKaWgm6b9SgehRmoqW4ocKEzJoX9lkYJ8MyHJlr3liCatlldNhObR6neQ==;Wr8+MCLNzy0unxj/NLideA=="
+secured: "kJTuFwIY4tA5rdM6RUDV1Df0PKRGSPVqiosE3nRafsoP8yJFusEKmhTouEdDNM+OQtallKfaImTJm5QcQ5yyChuG16SlQq6TSUuHTNGlxrvFv79hGoOALz4quoNRkmHbSJqETIMft79+w5zZVR0Vf4AUrcpUaYmx4zZsObChMitnumcMRnNil93G9F0SWaBr0NYiNOJJyDAKWQvXBs4ff/Ni5fKfqkNFv0H0u1LrAvaL9X5LpIV6p+ADGOGfUF+xfvvQPelSio9dMrP63RFCJ2xrSowjZn6G07iSPwblfS36GSB1rSaXNfN2cTWrFQVzm7wIcsuJ7nsPvzsSXPLyqGR/JNPOmtTkOZNF1Xdq5Qw=;pVASP1OmwxtyV046Vy5S9g=="
 ---
 

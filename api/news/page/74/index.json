@@ -2,6 +2,248 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2022-07-28-global-us-283-billion-speech-and-voice-recognition-market-outlook-to-2026.md",
+      "title": "Global US $ 28.3 Billion Speech and Voice Recognition Market Outlook to 2026",
+      "excerpt": "Jul 28, 2022 (The Expresswire) -- [160 Pages Report] The \"Speech and Voice Recognition Market\" report contains detailed information on factors influencing demand, growth, opportunities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-us-283-billion-speech-and-voice-recognition-market-outlook-to-2026-2022-07-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-us-283-billion-speech-and-voice-recognition-market-outlook-to-2026-2022-07-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T21:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-ponyai-and-sany-establish-joint-venture-to-develop-next-generation-of-autonomous-trucks-for-mass-production.md",
+      "title": "Pony.ai and SANY Establish Joint Venture to Develop Next Generation of Autonomous Trucks for Mass Production",
+      "excerpt": "Pony.ai and SANY will collaborate to create a world-leading autonomous truck brand. The two companies will deeply integrate Pony.ai’s \"virtual driver\" with SANY's technical accumulation in the field of wire-controlled chassis and vehicle development to jointly develop high-end heavy trucks that are automotive-grade and have L4-class redundancies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/pony-ai-and-sany-establish-joint-venture-to-develop-next-generation-of-autonomous-trucks-for/article_5c117092-d055-5b7a-ad7e-a160bc65956a.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/pony-ai-and-sany-establish-joint-venture-to-develop-next-generation-of-autonomous-trucks-for/article_5c117092-d055-5b7a-ad7e-a160bc65956a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/e/08/e0856983-aa5e-5217-b4df-445ee4e95423/62e203678e489.image.jpg?crop=1892%2C993%2C0%2C50&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T20:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-self-driving-start-up-ponyai-plans-to-mass-produce-robotrucks-in-china.md",
+      "title": "Self-driving start-up Pony.ai plans to mass produce robotrucks in China",
+      "excerpt": "Self-driving tech start-up Pony.ai announced Thursday it plans to mass produce autonomous driving trucks in China with equipment manufacturing giant Sany Heavy Industry. Small-scale deliveries are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/07/28/self-driving-tech-company-ponyai-plans-to-deliver-robotrucks-in-china.html",
+      "originalUrl": "https://www.cnbc.com/2022/07/28/self-driving-tech-company-ponyai-plans-to-deliver-robotrucks-in-china.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107094509-1658911690419-Sany_Pony_1.jpg?v=1658979049",
+          "width": 2586,
+          "height": 1694,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/07/28/self-driving-tech-company-ponyai-plans-to-deliver-robotrucks-in-china.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/07/28/self-driving-tech-company-ponyai-plans-to-deliver-robotrucks-in-china.html",
+      "publishedDateTime": "2022-07-27T20:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-how-driverless-delivery-vehicles-really-work.md",
+      "title": "How Driverless Delivery Vehicles Really Work",
+      "excerpt": "We're talking about a silent (literally) revolution led by driverless delivery vehicles. Online retail giant Amazon acquired self-driving startup Zoox in 2020 for $1.2 billion to deploy autonomous ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/942295/how-driverless-delivery-vehicles-really-work/",
+      "originalUrl": "https://www.slashgear.com/942295/how-driverless-delivery-vehicles-really-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/how-driverless-delivery-vehicles-really-work/l-intro-1658925083.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-solidus-ai-tech-partners-with-ultimvr-and-metagamz.md",
+      "title": "Solidus AI Tech Partners With UltimVR and MetagamZ",
+      "excerpt": "In a major development, Solidus AI Tech has formed strategic partnerships with UltimVR and MetagamZ. These partnerships will further help the company to expand its offerings and boost its pipeline of strategic partnerships.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/MarketersMEDIA/technology-artificial-intelligence-6251d7055304889bf95f92b69cd5e75c",
+      "originalUrl": "https://apnews.com/press-release/MarketersMEDIA/technology-artificial-intelligence-6251d7055304889bf95f92b69cd5e75c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-content-analytics-discovery-and-cognitive-software-market-with-current-and-future-growth-analysis-by-forecast-from-2022-to-2030.md",
       "title": "Content Analytics, Discovery and Cognitive Software Market With Current and Future Growth Analysis by Forecast From 2022 to 2030",
       "excerpt": "Jul 28, 2022 (Alliance News via COMTEX) -- New York (US) - Key Companies Covered in the Content Analytics, Discovery and Cognitive Software Market Research are IBM, Microsoft Corporation ...",
@@ -849,213 +1091,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-verify-introduces-facial-recognition-enabled-background-check-service.md",
-      "title": "Verify introduces facial recognition-enabled background check service",
-      "excerpt": "Every single person for whom we demonstrated Verify’s offering was interested in knowing more and stated they had never seen an offering like this before,” explained Verify Founder Michael Doherty. Each individual was shown how uploading a photo (or CCTV camera frame) of a person enables one to find and select a suitable match online and instantly learn the person’s name,",
-      "sourceUrl": null,
-      "webUrl": "https://www.securityinfowatch.com/security-executives/security-industry-services/press-release/21275576/verify-introduces-facial-recognitionenabled-background-check-service",
-      "originalUrl": "https://www.securityinfowatch.com/security-executives/security-industry-services/press-release/21275576/verify-introduces-facial-recognitionenabled-background-check-service",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/07/logo.62e18d444598d.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Security",
-        "domain": "securityinfowatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-overview-cloud-as-a-service-in-the-financial-services-sector.md",
-      "title": "Overview: Cloud as a service in the financial services sector",
-      "excerpt": "This has resulted in the integration of financial services, secure communications ... tools like – Artificial intelligence, Machine Learning is defining the way our customer excellence centres ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/overview-cloud-as-a-service-in-the-financial-services-sector/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/overview-cloud-as-a-service-in-the-financial-services-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/07/Mr.-Madhusudan-Warrier_Head-of-IT_Mirae-Asset.jpg",
-          "width": 1956,
-          "height": 2021,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/overview-cloud-as-a-service-in-the-financial-services-sector/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/overview-cloud-as-a-service-in-the-financial-services-sector/",
-      "publishedDateTime": "2022-07-27T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-ai-in-computer-vision-market-product-type-hardwaresoftware-sales-revenue-manufacturers-suppliers-key-players-2022-to-2028.md",
-      "title": "AI In Computer Vision Market Product Type Hardware,Software Sales, Revenue, Manufacturers, Suppliers, Key Players 2022 to 2028",
-      "excerpt": "Pre and Post Covid is covered and Report Customization is available. As the global economic trends, the growth",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-product-type-hardwaresoftware-sales-revenue-manufacturers-suppliers-key-players-2022-to-2028-2022-07-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-product-type-hardwaresoftware-sales-revenue-manufacturers-suppliers-key-players-2022-to-2028-2022-07-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-india-bets-big-on-emerging-technologies.md",
-      "title": "India Bets Big on Emerging Technologies",
-      "excerpt": "Indian defense minister Rajnath Singh spoke about the growth of emerging technologies in India. He referred to Russian president Vladimir Putin’s admonition that “whoever becomes the ruler of the sphere will rule the world.",
-      "sourceUrl": null,
-      "webUrl": "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/india-bets-big-emerging-technologies",
-      "originalUrl": "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/india-bets-big-emerging-technologies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Interest",
-        "domain": "nationalinterest.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-automatic-content-recognition-market-size-is-projected-to-reach-usd-48795-million-by-2028-at-a-cagr-of-174-valuates-reports.md",
-      "title": "Automatic Content Recognition Market Size is Projected To Reach USD 4879.5 Million By 2028, at a CAGR of 17.4% - Valuates Reports",
-      "excerpt": "The global Automatic Content Recognition market size is projected to reach USD 4879.5 million by 2028, from USD 1543.8 million in 2021, at a CAGR of 17.4% during 2022-2028. Major",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/27/9646049.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/27/9646049.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

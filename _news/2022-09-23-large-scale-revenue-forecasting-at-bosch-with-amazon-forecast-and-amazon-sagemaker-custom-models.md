@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/large-scale-revenue-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/large-scale-revenue-forecasting-at-bosch-with-amazon-forecast-and-amazon-sagemaker-custom-models/"
 type: article
 quality: 91
-heat: 121
+heat: 101
 published: true
 
 provider:
@@ -29,34 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon SageMaker Autopilot is up to eight times faster with new ensemble training mode powered by AutoGluon"
-    excerpt: "Amazon SageMaker Autopilot has added a new training mode that supports model ensembling powered by AutoGluon. Ensemble training mode in Autopilot trains several base models and combines their predictions using model stacking. For datasets less than 100 MB, ensemble training mode builds machine learning"
-    publishedDateTime: 2022-09-21T15:04:37Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-autopilot-is-up-to-eight-times-faster-with-new-ensemble-training-mode-powered-by-autogluon/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/12/sagemaker-autopilot-gluon.jpg"
-        width: 1534
-        height: 765
-        isCached: true
-  - title: "Enable intelligent decision-making with Amazon SageMaker Canvas and Amazon QuickSight"
-    excerpt: "Every company, regardless of its size, wants to deliver the best products and services to its customers. To achieve this, companies want to understand industry trends and customer behavior, and optimize internal processes and data analyses on a routine basis. This is a crucial component of a company’s"
-    publishedDateTime: 2022-09-21T16:15:50Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/enable-intelligent-decision-making-with-amazon-sagemaker-canvas-and-amazon-quicksight/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 82
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/09/ML-9988_Main_picture-1120x630.png"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Salesforce Genie brings data sharing to Amazon SageMaker and Einstein"
     excerpt: "The Genie announcement will likely lead to similar partnerships, as other companies look to take advantage of Salesforce data in their workflows."
     publishedDateTime: 2022-09-21T21:37:00Z

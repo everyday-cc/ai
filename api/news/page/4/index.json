@@ -2,6 +2,155 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-21-automotive-artificial-intelligence-ai-market-worth-159-billion-by-2027.md",
+      "title": "Automotive Artificial Intelligence (AI) Market Worth $15.9 Billion by 2027",
+      "excerpt": "According to a new market research report \"Automotive Artificial Intelligence (AI) Market by Component (Hardware,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-worth-159-billion-by-2027-2022-09-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-worth-159-billion-by-2027-2022-09-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-elon-musks-tesla-to-unveil-humanoid-robot-next-week.md",
+      "title": "Elon Musk’s Tesla to unveil humanoid robot next week",
+      "excerpt": "Tesla is preparing to unveil a humanoid robot. Really. Plans are underway to launch a prototype of the mannequin-shaped droid — known as Tesla Bot or Optimus — at it’s ‘AI Day’ on 30 September, Reuters reports.",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-robot-next-week-17419356/",
+      "originalUrl": "https://metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-robot-next-week-17419356/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2022/09/HK3GFOZNRJJNHFHO4TNPIOP7WM-ed19.jpeg?quality=90&strip=all&zoom=1&resize=600%2C400",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-robot-next-week-17419356/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-robot-next-week-17419356/amp/",
+      "publishedDateTime": "2022-09-21T00:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-ai-computer-vision-market-share-size-financial-summaries-analysis-from-2022-2030-by-netapp-ibm-sas.md",
+      "title": "AI Computer Vision Market Share, Size, Financial Summaries Analysis from 2022-2030 | By -NetApp, IBM, SAS",
+      "excerpt": "The Global AI Computer Vision Market investigation report contains Types ( Standard, Customised ), Segmentation & all logical and factual briefs about the Market 2022 Overview, CAGR, Production Volume,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-computer-vision-market-share-size-financial-summaries-analysis-from-2022-2030-by--netapp-ibm-sas-2022-09-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-computer-vision-market-share-size-financial-summaries-analysis-from-2022-2030-by--netapp-ibm-sas-2022-09-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T00:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-21-after-yang-review-what-to-do-when-your-ai-robot-child-goes-wrong.md",
       "title": "After Yang review – what to do when your AI robot child goes wrong?",
       "excerpt": "Kogonada’s enigmatic sci-fi drama channels Charlie Kaufman and Philip K Dick as Colin Farrell and Jodie Turner Smith try to fix the faulty AI bot they bought for their adopted daughter",
@@ -51,6 +200,59 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-frontline-systems-releases-rasonr-v2023-platform-with-patent-pending-risk-analysis-for-machine-learning-models.md",
+      "title": "Frontline Systems Releases RASON(R) V2023 Platform with Patent-Pending Risk Analysis for Machine Learning Models",
+      "excerpt": "V2023 Platform with Patent-Pending Risk Analysis for Machine Learning Models Sep 21, 2022 (PRNewswire via COMTEX) --",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/frontline-systems-releases-rasonr-v2023-platform-with-patent-pending-risk-analysis-for-machine-learning-models-2022-09-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/frontline-systems-releases-rasonr-v2023-platform-with-patent-pending-risk-analysis-for-machine-learning-models-2022-09-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1051,198 +1253,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-hopper-time-nvidias-most-powerful-ai-chip-yet-ships-in-october.md",
-      "title": "Hopper time: Nvidia’s most powerful AI chip yet ships in October",
-      "excerpt": "The H100, part of the \"Hopper\" architecture, is the most powerful AI-focused GPU Nvidia has ever made, surpassing its previous high-end chip, the A100. The H100 includes 80 billion transistors and a special \"Transformer Engine\" to accelerate machine learning tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/09/hopper-time-nvidias-most-powerful-ai-chip-yet-ships-in-october/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/09/hopper-time-nvidias-most-powerful-ai-chip-yet-ships-in-october/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/NVIDIA-Hopper-GTC-Fall-22_1000-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-macron-no-international-recognition-for-russia-organised-ukraine-referendums.md",
-      "title": "Macron: No international recognition for Russia-organised Ukraine referendums",
-      "excerpt": "French President Emmanuel Macron said on Tuesday that referendums planned in Russian-occupied Ukrainian regions on joining Russia will not be recognised by the international community.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/europe/macron-no-international-recognition-russia-organised-ukraine-referendums-2022-09-20/",
-      "originalUrl": "https://www.reuters.com/world/europe/macron-no-international-recognition-russia-organised-ukraine-referendums-2022-09-20/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/8AQzzDAbY7surcAs5sXqf5H_ltY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4BG2GIZQMNJKPC5J5HGGQJP7CI.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-how-the-brain-develops-a-new-way-to-shed-light-on-cognition.md",
-      "title": "How the brain develops: A new way to shed light on cognition",
-      "excerpt": "A new study introduces a new neurocomputational model of the human brain that could shed light on how the brain develops complex cognitive abilities and advance neural artificial intelligence research.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-09-brain-cognition.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-09-brain-cognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/how-the-brain-develops.jpg",
-          "width": 2045,
-          "height": 1489,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-09-brain-cognition.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-brain-cognition.amp",
-      "publishedDateTime": "2022-09-20T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-the-algorithm-ai-generated-art-raises-tricky-questions-about-ethics-copyright-and-security.md",
-      "title": "The Algorithm: AI-generated art raises tricky questions about ethics, copyright, and security",
-      "excerpt": "Thanks to his distinctive style, Rutkowski is now one of the most commonly used prompts in the new open-source AI art generator Stable Diffusion, which was launched late last month—far more popular than some of the world's most famous artists,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/09/20/1059792/the-algorithm-ai-generated-art-raises-tricky-questions-about-ethics-copyright-and-security/",
-      "originalUrl": "https://www.technologyreview.com/2022/09/20/1059792/the-algorithm-ai-generated-art-raises-tricky-questions-about-ethics-copyright-and-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/09/greg-rutkowski-dragon-cave-square.jpg?w=928",
-          "width": 928,
-          "height": 928,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/09/20/1059792/the-algorithm-ai-generated-art-raises-tricky-questions-about-ethics-copyright-and-security/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/20/1059792/the-algorithm-ai-generated-art-raises-tricky-questions-about-ethics-copyright-and-security/amp/",
-      "publishedDateTime": "2022-09-20T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Security",
-        "AI in Robotics"
       ]
     }
   ],

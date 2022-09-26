@@ -1,27 +1,22 @@
 ---
 category: news
 title: "Wallaroo Labs Launches in Azure Marketplace; Announces Air Gap Support for Edge Machine Learning Deployment"
-excerpt: "“We look forward to continuing to work with Azure to help data teams in industries ... it easy for enterprises to deploy and manage machine learning models at the edge in environments with ..."
-publishedDateTime: 2022-09-21T12:09:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/wallaroo-labs-launches-in-azure-marketplace-announces-air-gap-support-for-edge-machine-learning-deployment/article_cb133d7e-bafc-500f-bfce-bf1b94fc6b45.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/wallaroo-labs-launches-in-azure-marketplace-announces-air-gap-support-for-edge-machine-learning-deployment/article_cb133d7e-bafc-500f-bfce-bf1b94fc6b45.html"
+excerpt: "Wallaroo Labs today announced the availability of Wallaroo Enterprise Edition on Microsoft Azure Marketplace. Wallaroo's model operations platform for deploying, observing, and managing machine learning in production enables customers to easily operationalize ML Models with our purpose-built inference engine,"
+publishedDateTime: 2022-09-21T13:22:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/09/21/9677902.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/09/21/9677902.htm"
 type: article
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Microsoft AI
+  - AI in Finance
   - AI
   - Machine Learning
+  - Microsoft AI
 
-images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg"
-    width: 350
-    height: 456
-    isCached: true
-
-secured: "avC7xuDwJQZ2m3KvzMkLz29pvg+3VTE/NnmvZtF9fD6bUrvEEgvXzt4vsBdVHOQ5FsBeeHjaqhmKfDKcGsKiRzgB0e2633inAb9gvLMh8zZqTOESieVCsPh3F8hwFBt+CIswZKX+82mR333wiwf+K2k7wXBJMCh5jLzt17+A6sAyYGM5fhUpYRNNBw4iUGQseCqzKpSLT3+3dDANOtF5Q6VsYDdiOMROhmwGPwaJfGbZrQ9BFJstVgo8o4XJQjq4ktCRRMVm9Lmpt4olZVEbBiOp723dwtakBPbc+SoBE//y5RYtXJw/Qk7nmLo3wFj3kx9vNHO9kTl4HMPyVBU8by3Xmqfr++MPaerdW5Ddk2o=;9neWNfqK+9EXgV0oPwLghw=="
+secured: "RfMRYWGqNuWSf9EBU9Ql0/eG6qzXnk1Ix6+nmQLeWawTVeqoSbmgTGUUYKAB7XO/rOfsFuDzkcv35DoxA9kliqHL1DdcDb4ujeLzY97Zh/l+TbSSqkVQyvdMv7raSelEwU8IcYdsGkrfBTKgQ/IDWkXx5X1Ihr+ROIrlVrd16eSJAkO7zg/vz6SiSwbYJNvPPlDThWdIkkJiO3Hr2scOkYN1JdDy825XocILa5m5ELypAQZuhZkYj3wf2MVGUfhBbwJY34dBa+QQwWuk3P/5mH14cQDhFwvlXpq6n+3QED59C4fENjiYNCeRit3koAXi5FU9W7BfId8LkpYf1xXsHJQdUdWmhygbC+fxQgcREYY=;j4GhO6kadzR2sf5Hlav4HA=="
 ---
 

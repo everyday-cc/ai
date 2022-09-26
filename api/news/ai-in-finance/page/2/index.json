@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-02-liquidnet-emea-business-development-head-departs-for-ai-fintech-imandra.md",
+      "title": "Liquidnet EMEA business development head departs for AI fintech Imandra",
+      "excerpt": "Liquidnet’s former head of business development for EMEA has left the firm to join artificial intelligence (AI) fintech Imandra in a similar role, The TRADE can reveal. Dan Squires has been appointed as a vice president of sales at Imandra after spending ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetradenews.com/liquidnet-emea-business-development-head-departs-for-ai-fintech-imandra/",
+      "originalUrl": "https://www.thetradenews.com/liquidnet-emea-business-development-head-departs-for-ai-fintech-imandra/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-02T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The TRADE",
+        "domain": "thetradenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-02-machine-learning-engineer-remote.md",
       "title": "Machine Learning Engineer (Remote)",
       "excerpt": "Opportunity Available!! Our leading client in the Logistics sector is looking to employ a Machine Learning Engineer to join their dynamic team. Develop computer vision and deep learning applications related to object detection, object segmentation and ...",
@@ -1253,41 +1287,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-integrateai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data.md",
-      "title": "integrate.ai Announces Availability of New Platform for Collaborative Machine Learning and Analytics Across Sensitive Data",
-      "excerpt": "Traditional approaches to machine learning and analytics require centralization and ... In the heavily regulated worlds of healthcare, financial services, and manufacturing, roadblocks to collaborating with sensitive data abound – from existing and ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/integrate-ai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data",
-      "originalUrl": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/integrate-ai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

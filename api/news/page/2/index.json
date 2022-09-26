@@ -2,6 +2,146 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-23-deep-learning-software-market-business-overview-2022-and-forecast-to-2028-microsoft-express-scribe-nuance.md",
+      "title": "Deep Learning Software Market Business overview 2022, and Forecast to 2028 | Microsoft, Express Scribe, Nuance",
+      "excerpt": "Download Free Sample Deep Learning Software Market report  The worldwide Deep Learning Software Market is expected to grow at a booming CAGR of 2022-2030, rising from USD billion in 2021 to USD billion in 2028.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-software-market-business-overview-2022-and-forecast-to-2028-microsoft-express-scribe-nuance-2022-09-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-software-market-business-overview-2022-and-forecast-to-2028-microsoft-express-scribe-nuance-2022-09-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T22:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-23-how-ai-and-machine-learning-can-help-in-better-weather-forecast.md",
+      "title": "How AI and machine learning can help in better weather forecast",
+      "excerpt": "AI can be very useful for making analysis and especially making city-based local forecasts.' The recent floods in Bengaluru have raised many concerns regarding the increase in extreme weather events and its impact on urban planning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rediff.com/news/report/tech-how-ai-and-machine-learning-can-help-in-better-weather-forecast/20220923.htm",
+      "originalUrl": "https://www.rediff.com/news/report/tech-how-ai-and-machine-learning-can-help-in-better-weather-forecast/20220923.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://im.rediff.com/345-230/news/2022/jul/monsoon-6-o.jpg",
+          "width": 345,
+          "height": 230,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.rediff.com/amp/news/report/tech-how-ai-and-machine-learning-can-help-in-better-weather-forecast/20220923.htm",
+      "cdnAmpWebUrl": "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/news/report/tech-how-ai-and-machine-learning-can-help-in-better-weather-forecast/20220923.htm",
+      "publishedDateTime": "2022-09-22T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "rediff.com",
+        "domain": "rediff.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-23-experts-remain-sceptical-of-ethics-as-unesco-emphasises-implementation-of-ai-in-education-in-india.md",
+      "title": "Experts remain sceptical of ethics, as UNESCO emphasises implementation of AI in education in India",
+      "excerpt": "Interestingly, experts has opined that AI based tools can be a source of bias for teacher and create discrimination amongst students.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/education-2/unesco-ai-education-report-state-of-the-education-report-for-india-artificial-intelligence-edtech/2684220/",
+      "originalUrl": "https://www.financialexpress.com/education-2/unesco-ai-education-report-state-of-the-education-report-for-india-artificial-intelligence-edtech/2684220/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/09/AI-Unesco.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/education-2/unesco-ai-education-report-state-of-the-education-report-for-india-artificial-intelligence-edtech/2684220/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/unesco-ai-education-report-state-of-the-education-report-for-india-artificial-intelligence-edtech/2684220/lite/",
+      "publishedDateTime": "2022-09-22T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2022-09-23-artist-receives-first-known-us-copyright-registration-for-generative-ai-art.md",
       "title": "Artist receives first known US copyright registration for generative AI art",
       "excerpt": "In what might be a first, a New York-based artist named Kris Kashtanova has received US copyright registration on their graphic novel that features AI-generated artwork, according to their Instagram feed and confirmed through a public records search by Ars Technica.",
@@ -292,49 +432,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-22-triangle-ai-startup-insightfinder-brings-in-10m-in-series-a-fundraise.md",
-      "title": "Triangle AI startup InsightFinder brings in $10M in Series A fundraise",
-      "excerpt": "A startup founded and led by an NCSU professor has raised nearly $10 million in its latest fundraising round, and plans to continue its growth trajectory.",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2022/09/22/triangle-ai-startup-insightfinder-brings-in-10m-in-series-a-fundraise/",
-      "originalUrl": "https://wraltechwire.com/2022/09/22/triangle-ai-startup-insightfinder-brings-in-10m-in-series-a-fundraise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2018/07/money-cash-venture-capital-e1564657723363.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2022/09/22/triangle-ai-startup-insightfinder-brings-in-10m-in-series-a-fundraise/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/09/22/triangle-ai-startup-insightfinder-brings-in-10m-in-series-a-fundraise/?amp=1",
-      "publishedDateTime": "2022-09-22T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-22-openai-open-sources-whisper-a-multilingual-speech-recognition-system.md",
       "title": "OpenAI open-sources Whisper, a multilingual speech recognition system",
       "excerpt": "OpenAI has released Whisper, a robust speech recognition model that can understand and transcribe multiple languages.",
@@ -578,7 +675,7 @@
       "originalUrl": "https://mustsharenews.com/self-driving-car-pie/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -664,7 +761,7 @@
       "originalUrl": "https://www.zdnet.com/article/need-ai-powered-voiceovers-micmonster-is-50-off/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -704,50 +801,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-inuitive-launches-nu4100-expanding-its-edge-ai-vision-on-chip-ic-portfolio.md",
-      "title": "Inuitive launches NU4100, expanding its Edge-AI Vision-on-Chip IC portfolio",
-      "excerpt": "Based on Inuitive’s unique architecture and advanced 12nm process technology, the new NU4100 IC supports integrated dual-channel 4K ISP, enhanced AI processing, and depth sensing in a single-chip, low-power design,",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/news/52699/inuitive-edge-ai-vision-on-chip-ic.html",
-      "originalUrl": "https://www.design-reuse.com/news/52699/inuitive-edge-ai-vision-on-chip-ic.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.design-reuse.com/news_img2/homepage52699/intb.jpg",
-          "width": 700,
-          "height": 369,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T23:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware"
       ]
     },
     {
@@ -957,7 +1010,7 @@
       "originalUrl": "https://www.cnet.com/news/getty-is-banning-ai-generated-images/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1000,21 +1053,21 @@
       ]
     },
     {
-      "path": "_news/2022-09-22-salesforce-deepens-partnership-with-aws.md",
-      "title": "Salesforce deepens partnership with AWS",
-      "excerpt": "Salesforce has expanded its partnership with Amazon Web Services (AWS) to enable customers to build custom artificial intelligence (AI) models using Amazon SageMaker, AWS’s machine learning (ML) modeling service,",
+      "path": "_news/2022-09-22-nvidia-ceo-jensen-huang-ai-language-models-as-a-service-potentially-one-of-the-largest-software-opportunities-ever.md",
+      "title": "Nvidia CEO Jensen Huang: AI language models as-a-service \"potentially one of the largest software opportunities ever\"",
+      "excerpt": "Nvidia co-founder and CEO Jensen Huang opened his company's fall GTC conference with numerous product and service announcements, including the introduction of two cloud computing services the company will operate.",
       "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110",
-      "originalUrl": "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110",
+      "webUrl": "https://www.zdnet.com/article/nvidia-ceo-jensen-huang-ai-language-models-as-a-service-potentially-one-of-the-largest-software-opportunities-ever/",
+      "originalUrl": "https://www.zdnet.com/article/nvidia-ceo-jensen-huang-ai-language-models-as-a-service-potentially-one-of-the-largest-software-opportunities-ever/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/09/GettyImages-1040557296-scaled.jpg",
-          "width": 2560,
-          "height": 1161,
+          "url": "https://www.zdnet.com/a/img/resize/f2739fe30ad9f14692989d133ecac97705c65ada/2022/09/20/bce66508-0423-492b-bfd3-e70685a1a807/jensen-huang-gtc-2022-crop-for-twitter.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 802,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1022,14 +1075,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110?amp=1",
-      "publishedDateTime": "2022-09-21T15:32:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-ceo-jensen-huang-ai-language-models-as-a-service-potentially-one-of-the-largest-software-opportunities-ever/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-ceo-jensen-huang-ai-language-models-as-a-service-potentially-one-of-the-largest-software-opportunities-ever/",
+      "publishedDateTime": "2022-09-21T14:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1038,7 +1100,7 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "AI Hardware",
         "AI"
       ]
     },
@@ -1145,58 +1207,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-responsible-ai-is-a-top-management-concern-so-why-arent-organizations-deploying-it.md",
-      "title": "Responsible AI is a top management concern, so why aren’t organizations deploying it?",
-      "excerpt": "Factors working against the adoption of responsible AI include a lack of agreement on what 'responsible AI' means along with a lack of talent, prioritization, and funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/responsible-ai-is-a-top-management-concern-so-why-arent-organizations-deploying-it/",
-      "originalUrl": "https://venturebeat.com/ai/responsible-ai-is-a-top-management-concern-so-why-arent-organizations-deploying-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/How-the-responsible-use-of-AI-can-create-a-better-health-system-01.jpg?w=1200&strip=all",
-          "width": 600,
-          "height": 299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/responsible-ai-is-a-top-management-concern-so-why-arent-organizations-deploying-it/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/responsible-ai-is-a-top-management-concern-so-why-arent-organizations-deploying-it/amp/",
-      "publishedDateTime": "2022-09-21T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

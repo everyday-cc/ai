@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-24-deep-learning-in-machine-vision-market-2022-global-industry-analysis-by-trends-size-share-company-overview-growth-and-forecast-by-2029.md",
+      "title": "Deep Learning in Machine Vision Market 2022 Global Industry Analysis by Trends, Size, Share, Company Overview, Growth and Forecast by 2029",
+      "excerpt": "Pune, India Reportsweb report Global Deep Learning in Machine Vision Market Research and Forecast Report 2022-2028",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-2022-global-industry-analysis-by-trends-size-share-company-overview-growth-and-forecast-by-2029-2022-08-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-2022-global-industry-analysis-by-trends-size-share-company-overview-growth-and-forecast-by-2029-2022-08-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-24T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-deep-learning-algorithm-may-streamline-lung-cancer-radiotherapy-treatment.md",
+      "title": "Deep learning algorithm may streamline lung cancer radiotherapy treatment",
+      "excerpt": "Clinical validation of deep learning algorithms for radiotherapy targeting of non-small-cell lung cancer: an observational study. The Lancet Digital Health , 2022; 4 (9): e657 DOI: 10.1016/S2589 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/08/220824152208.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/08/220824152208.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-24-ray-the-machine-learning-tech-behind-openai-levels-up-to-ray-20.md",
       "title": "Ray, the machine learning tech behind OpenAI, levels up to Ray 2.0",
       "excerpt": "Ray, which enables machine learning models to scale across hardware resources, has released Ray 2.0 to simplify building AI workloads.",
@@ -1335,114 +1430,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-stratum-ai-revolutionizes-miners-deep-learning-of-whats-below-ground.md",
-      "title": "Stratum AI Revolutionizes Miners’ Deep Learning Of What’s Below Ground",
-      "excerpt": "Mining operators need more accurate estimations of where target minerals are located beneath the ground so they can drill and extract once instead of multiple times. Stratum AI provides a deep learning algorithm to better model the exact location of where wanted minerals are located underground.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/frederickdaso/2022/08/11/stratum-ai-revolutionizes-miners-deep-learning-of-whats-below-ground/",
-      "originalUrl": "https://www.forbes.com/sites/frederickdaso/2022/08/11/stratum-ai-revolutionizes-miners-deep-learning-of-whats-below-ground/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f444e3a8d44458ee750efd/0x0.jpg?format=jpg&crop=2048,1152,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2022/08/11/stratum-ai-revolutionizes-miners-deep-learning-of-whats-below-ground/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2022/08/11/stratum-ai-revolutionizes-miners-deep-learning-of-whats-below-ground/amp/",
-      "publishedDateTime": "2022-08-11T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better.md",
-      "title": "Amazon's Alexa scientists demonstrate bigger AI isn't always better",
-      "excerpt": "Despite deep learning's obsession with big models and generalist approaches, Amazon shows top results can be had with economical and somewhat focused, if not specialized, models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
-      "originalUrl": "https://www.zdnet.com/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5e79d4892d800fecee63c8b5bde6410152fd6bcc/2022/08/10/7374585a-a866-491a-8405-4352c3c6e2a1/amazon-2022-alextm-20b-summarizing.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 643,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
-      "publishedDateTime": "2022-08-10T12:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Machine Learning",
-        "Natural Language Processing",
-        "AI Hardware",
-        "Google AI"
       ]
     }
   ],

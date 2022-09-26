@@ -9,8 +9,8 @@ ampWebUrl: "https://wraltechwire.com/2022/09/22/triangle-ai-startup-insightfinde
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/09/22/triangle-ai-startup-insightfinder-brings-in-10m-in-series-a-fundraise/?amp=1"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: WRAL TechWire
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Funding Rundown: MapmyIndia invests in Kogo, Avanse Financial Services raises Rs 390 crore & Murf AI raises $10M in Series A funding"
-    excerpt: "Rakesh Verma, Chairman and Managing Director, MapmyIndia said that the partnership with KOGO will \"boost and enable the next-generation of travel, outdoors, hyper-local and on-the-go experiences and use cases for everyone\"."
-    publishedDateTime: 2022-09-21T15:25:00Z
-    webUrl: "https://www.cnbctv18.com/startup/funding-rundown-mapmyindia-invests-in-kogo-avanse-financial-services-murf-ai-14776511.htm"
-    ampWebUrl: "https://www.cnbctv18.com/startup/funding-rundown-mapmyindia-invests-in-kogo-avanse-financial-services-murf-ai-14776511.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/startup/funding-rundown-mapmyindia-invests-in-kogo-avanse-financial-services-murf-ai-14776511.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 28
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2018/03/Startup-40.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Synthetic Speech Startup Murf AI Raises $10M in Series A"
     excerpt: "Murf AI today announced a $10M Series A funding round led by Matrix Partners India with participation from existing investor Elevation"
     publishedDateTime: 2022-09-21T20:26:00Z

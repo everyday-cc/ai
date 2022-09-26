@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Artificial Intelligence takes over as the voice of Darth Vader"
+    excerpt: "James Earl Jones has reportedly agreed to allow LucasFilm and Disney to use artificial intelligence to create the voice of Darth Vader as he’s decided to step back from the role. According to Vanity Fair,"
+    publishedDateTime: 2022-09-26T08:31:00Z
+    webUrl: "https://www.tvbeurope.com/audio/artificial-intelligence-takes-over-as-the-voice-of-darth-vader"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 37
+    images:
+      - url: "https://www.tvbeurope.com/wp-content/uploads/2022/09/Darth-Vader.jpg"
+        width: 900
+        height: 562
+        isCached: true
   - title: "As war began, a Ukrainian AI startup provided Darth Vader’s voice – report"
     excerpt: "In war-torn Ukraine, a startup called Respeecher provided the voice of Star Wars mega-villain Darth Vader in the new Obi-Wan Kenobi show on streaming platform Disney+, with its original voice actor – 91-year-old James Earl Jones – stepping back from the role,"
     publishedDateTime: 2022-09-26T07:14:00Z

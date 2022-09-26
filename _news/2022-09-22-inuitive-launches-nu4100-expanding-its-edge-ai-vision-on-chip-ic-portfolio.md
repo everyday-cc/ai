@@ -7,8 +7,8 @@ originalUrl: "https://www.design-reuse.com/news/52699/inuitive-edge-ai-vision-on
 webUrl: "https://www.design-reuse.com/news/52699/inuitive-edge-ai-vision-on-chip-ic.html"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: 64
+published: false
 
 provider:
   name: Design-Reuse
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Inuitive launches NU4100, expanding its Edge AI Vision-on-Chip IC portfolio"
-    excerpt: "Inuitive Ltd., a Vision-on-Chip processors company, announced today the launch of its new NU4100, an expansion of its Vision and AI IC portfolio. Based on Inuitive’s unique architecture and"
-    publishedDateTime: 2022-09-21T15:38:00Z
-    webUrl: "https://www.suasnews.com/2022/09/inuitive-launches-nu4100-expanding-its-edge-ai-vision-on-chip-ic-portfolio/"
-    type: article
-    provider:
-      name: SUAS News
-      domain: suasnews.com
-    quality: 52
-    images:
-      - url: "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2022/09/One_Chip_Complete_Visual_Understanding.jpg?fit=800%2C505&#038;ssl=1"
-        width: 800
-        height: 505
-        isCached: true
   - title: "Inuitive launches NU4100, expanding its Edge AI Vision-…"
     excerpt: "Inuitive Ltd., a Vision-on-Chip processors company, announced today the launch of its new NU4100, an expansion of its Vision and AI IC portfolio. Based on Inuitive's unique architecture and advanced 12nm process technology,"
     publishedDateTime: 2022-09-22T09:28:00Z
@@ -54,15 +40,6 @@ related:
         width: 400
         height: 253
         isCached: true
-  - title: "Inuitive launches NU4100, expanding its Edge AI Vision-on-Chip IC portfolio; NU4100 presents advanced AI capabilities and"
-    excerpt: "Inuitive Ltd., a Vision-on-Chip processors company, announced today the launch of its new NU4100, an expansion of its Vision and AI IC portfolio. Based on Inuitive's unique architecture and advanced 12nm process technology,"
-    publishedDateTime: 2022-09-21T16:03:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/09/21/9678078.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
 
 secured: "mqR4omdIe9aes9p6ubvL+qiTc6xGIem1lqxL4kgAga02HEnx/GXJdYZ4N7NHLX4REoEt1JfxryvmrxHlRbk+eF5LhgAEW0dCfswtrGIiERzTOh8nCKlH85ZkSwjLYFp2yFy4WKiPYi7jWTqQWKKR0o6NtS2Ue73Uf/DCeh7bETAmp4ABMWTunr3dTWYK1nIwk/t6YD3/YfOE1X7Dzp+loChO0VavBm0TagIMvoRrnoAyukh3Yxg7tgStDnZudHKXhO58A6EZyU5d31E2jNYCI9VmJAgZU2eWEhcW4Ny4ElGkRHCpjL7WKVWBPslNMhm1k8iP7wZGmQI9OhQlR/tIbFT4tPDofu1XSWNEXpEmAb/Mhq6HDzlT5jRvVJ6Ycsv3j6IMEqmNznpgeC/u5oRg+R3G8lzdapozzbFgcYelFpBZDoKynODUPeYro9vjmfYVHJ+fr4fY/4eR80viX7ueF3SGsFcuBpq9lKtjlFs6yEeTvFbP2S9xx/wB73OpmuSpOgneTpOgIyl025V4eZI3Xw==;EBScOZeGT7ycCxQzXXVC+g=="
 ---

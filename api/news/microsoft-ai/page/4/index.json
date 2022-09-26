@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-02-us-deals-heavy-blow-to-china-tech-ambitions-with-nvidia-chip-ban.md",
+      "title": "US Deals Heavy Blow to China Tech Ambitions With Nvidia Chip Ban",
+      "excerpt": "The US government’s new restrictions on the ability of Nvidia Corp. to sell artificial intelligence chips to Chinese customers threatens to deal a heavy blow to the country’s development of a sweeping range of cutting-edge technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bnnbloomberg.ca/us-deals-heavy-blow-to-china-tech-ambitions-with-nvidia-chip-ban-1.1813842",
+      "originalUrl": "https://www.bnnbloomberg.ca/us-deals-heavy-blow-to-china-tech-ambitions-with-nvidia-chip-ban-1.1813842",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.bnnbloomberg.ca/polopoly_fs/1.1813843!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/nvidia-headquarters-in-santa-clara-california-u-s-on-tuesday-feb-23-2021-nvidia-corp-is-expected-to-release-earnings-figures-on-february-24.png",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bnnbloomberg.ca/us-deals-heavy-blow-to-china-tech-ambitions-with-nvidia-chip-ban-1.1813842.amp.html",
+      "cdnAmpWebUrl": "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/us-deals-heavy-blow-to-china-tech-ambitions-with-nvidia-chip-ban-1.1813842.amp.html",
+      "publishedDateTime": "2022-09-02T03:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bnnbloomberg",
+        "domain": "bnnbloomberg.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-09-02-study-new-treatment-increases-cognitive-function-in-down-syndrome-patients.md",
       "title": "Study: New treatment increases cognitive function in Down Syndrome patients",
       "excerpt": "PARIS (AFP) — A new hormone treatment improved the cognitive function of six men with Down Syndrome by 10-30 percent, scientists said Thursday, adding the “promising” results may raise hopes ...",
@@ -1275,40 +1319,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-microsoft-cloud-services-are-vulnerable-to-nefarious-cozy-bear-mfa-hacking-campaign.md",
-      "title": "Microsoft Cloud Services Are Vulnerable To Nefarious Cozy Bear MFA Hacking Campaign",
-      "excerpt": "A new report by cybersecurity firm Mandiant details an ongoing hacking campaign targeting Microsoft 365. The threat actor behind this campaign is an advanced persistent threat (APT) known as “Co ...",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/microsoft-cloud-services-vulnerable-cozy-bear-mfa-hacking-campaign",
-      "originalUrl": "https://hothardware.com/news/microsoft-cloud-services-vulnerable-cozy-bear-mfa-hacking-campaign",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "hothardware.com",
-        "domain": "hothardware.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

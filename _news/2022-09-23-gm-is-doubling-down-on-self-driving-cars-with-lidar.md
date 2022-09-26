@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Is the quest for driverless trucking in it for the long haul?"
-    excerpt: "Waymo, often seen as the leader in driverless technology ... In many ways, trucks are a more viable focal point for the development of the artificial intelligence needed for fully autonomous driving. Long-haul vehicles travel on long, monotonous highways ..."
-    publishedDateTime: 2022-09-21T16:54:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/09/is-the-quest-for-driverless-trucking-in-it-for-the-long-haul/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 39
-    images:
-      - url: "https://ietp-web-app-global-assets.azurewebsites.net:443/media/sw4jnnsc/wechat-icon.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Volkswagen shows driverless future"
     excerpt: "Volkswagen Group's Gen.Travel concept previews a truly autonomous future. Volkswagen shows driverless future - CompleteCar.ie car news"
     publishedDateTime: 2022-09-23T04:03:00Z

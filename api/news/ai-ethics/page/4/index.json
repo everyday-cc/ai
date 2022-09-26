@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-08-the-role-of-ai-ethics-in-network-monitoring.md",
+      "title": "The Role of AI Ethics in Network Monitoring",
+      "excerpt": "While AI can deliver new levels of visibility and problem solving for network monitoring, pressing ethical considerations must be addressed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/networking/ai-ethics-network-monitoring/",
+      "originalUrl": "https://www.eweek.com/networking/ai-ethics-network-monitoring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-artificial-intelligence-is-evolving-imagine-dali-art-painted-by-a-bot.md",
       "title": "Artificial Intelligence is evolving: Imagine Dali art painted by a bot",
       "excerpt": "General AI looks reachable but we must watch out for human tics and foibles inherited by machines",
@@ -1398,49 +1441,6 @@
         "AI Hardware",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-how-companies-can-avoid-ethical-pitfalls-when-building-ai-products.md",
-      "title": "How companies can avoid ethical pitfalls when building AI products",
-      "excerpt": "Moving forward, firms must approach AI ethics as a strategic business issue at the core of a project – not as an afterthought.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/20/how-companies-can-avoid-ethical-pitfalls-when-building-ai-products/",
-      "originalUrl": "https://venturebeat.com/2022/06/20/how-companies-can-avoid-ethical-pitfalls-when-building-ai-products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T19:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],
