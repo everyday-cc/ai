@@ -10,7 +10,7 @@
       "originalUrl": "https://www.nextplatform.com/2022/09/26/kaust-hpe-shaheen-iii-supercomputer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -53,7 +53,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/inventec-s-rhyperior-is-the-powerhouse-gpu-accelerator-system-every-business-in-the-ai-and-ml-world-needs-1031765200",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -94,7 +94,8 @@
       "topics": [
         "AI Hardware",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "Facebook AI"
       ]
     },
     {
@@ -751,10 +752,10 @@
     {
       "path": "_news/2022-09-20-runai-certified-to-run-nvidia-ai-enterprise-software-suite.md",
       "title": "Run:ai Certified to Run NVIDIA AI Enterprise Software Suite",
-      "excerpt": "Run:ai, the leader in compute orchestration for AI workloads, today announced that its Atlas Platform is certified to run NVIDIA AI Enterprise, an end-to-end, cloud-native",
+      "excerpt": "Run:ai Certified to Run NVIDIA AI Enterprise Software Suite Sep 20, 2022 (PRNewswire via COMTEX) -- PR Newswire TEL AVIV, Israel, TEL",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/n28936086/run-ai-certified-to-run-nvidia-ai-enterprise-software-suite",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/n28936086/run-ai-certified-to-run-nvidia-ai-enterprise-software-suite",
+      "webUrl": "https://www.marketwatch.com/press-release/runai-certified-to-run-nvidia-ai-enterprise-software-suite-2022-09-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/runai-certified-to-run-nvidia-ai-enterprise-software-suite-2022-09-20",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -762,14 +763,23 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28936086",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28936086",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-09-20T09:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

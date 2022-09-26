@@ -2,6 +2,343 @@
   "page": 91,
   "value": [
     {
+      "path": "_news/2022-07-14-are-we-getting-the-best-out-of-our-bots-co-intelligence-between-robots-humans.md",
+      "title": "Are We Getting The Best Out Of Our Bots? Co-Intelligence Between Robots & Humans",
+      "excerpt": "When inflation is soaring, utility bills are hitting record heights and job vacancies far outstrip the number of people seeking work, it’s tempting to see technology as the solution. But after over two years of reduced human contact are we starting to see a thirst for human contact?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mikehughes1/2022/07/14/are-we-getting-the-best-out-of-our-bots-co-intelligence-between-robots--humans/",
+      "originalUrl": "https://www.forbes.com/sites/mikehughes1/2022/07/14/are-we-getting-the-best-out-of-our-bots-co-intelligence-between-robots--humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62d034647543ed2119e20af3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mikehughes1/2022/07/14/are-we-getting-the-best-out-of-our-bots-co-intelligence-between-robots--humans/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikehughes1/2022/07/14/are-we-getting-the-best-out-of-our-bots-co-intelligence-between-robots--humans/amp/",
+      "publishedDateTime": "2022-07-14T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-researchers-trained-this-ai-to-think-like-a-baby-heres-what-happened.md",
+      "title": "Researchers trained this AI to ‘think’ like a baby — here’s what happened",
+      "excerpt": "Researchers created a deep-learning AI system that acquired an understanding of some common-sense laws of the physical world.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/researchers-trained-ai-to-think-like-a-baby",
+      "originalUrl": "https://thenextweb.com/news/researchers-trained-ai-to-think-like-a-baby",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F07%2FBabyAI.jpg&signature=f8c30ed28fe11f30412f7003c07b0dd0",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-14T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-fintech-market-to-grow-at-cagr-of-262-through-2030-industry-expanding-horizons-as-digitization-of-business-services-bolster-the-brainy-insights.md",
+      "title": "Fintech Market to Grow at CAGR of 26.2% through 2030 - Industry Expanding Horizons as Digitization of Business Services Bolster: The Brainy Insights",
+      "excerpt": "As per the report published by The Brainy Insights, the global fintech market is expected to grow from USD 115.34 billion in 2021 to USD 936.51 billion by 2030, at a CAGR of 26.2% during the forecast period 2022-2030.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/14/9639061.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/14/9639061.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-14T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide.md",
+      "title": "How machine learning can identify gun buyers at risk of suicide",
+      "excerpt": "Story at a glance Suicide remains the leading cause of gun-related deaths in the United States. Identifying those at risk is a challenge for mental health providers, but can lead to effective",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/changing-america/well-being/mental-health/3559186-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide/",
+      "originalUrl": "https://thehill.com/changing-america/well-being/mental-health/3559186-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/07/CA_suicide_07142022AP.jpg?w=1280",
+          "width": 1280,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/changing-america/well-being/mental-health/3559186-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/mental-health/3559186-how-machine-learning-can-identify-gun-buyers-at-risk-of-suicide/amp/",
+      "publishedDateTime": "2022-07-14T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-robotic-arms-allow-partially-paralyzed-man-to-feed-himself.md",
+      "title": "Robotic Arms Allow Partially Paralyzed Man To Feed Himself",
+      "excerpt": "Thanks to the work of scientists at Johns Hopkins University, a partially paralyzed man was able to feed himself for the first time in thirty years using just his mind and a pair of robotic arms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/williamhaseltine/2022/07/14/robotic-arms-allow-partially-paralyzed-man-to-feed-himself/",
+      "originalUrl": "https://www.forbes.com/sites/williamhaseltine/2022/07/14/robotic-arms-allow-partially-paralyzed-man-to-feed-himself/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62d01d2ec1686245094c2941/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/williamhaseltine/2022/07/14/robotic-arms-allow-partially-paralyzed-man-to-feed-himself/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2022/07/14/robotic-arms-allow-partially-paralyzed-man-to-feed-himself/amp/",
+      "publishedDateTime": "2022-07-14T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-5-biggest-challenges-of-data-security-in-the-financial-service-industry.md",
+      "title": "5 Biggest Challenges of Data Security in the Financial Service Industry",
+      "excerpt": "Collaboration and a proactive approach are essential in discovering new data security risks, regulations, and measures in the financial service industry. Given the fact that companies within the financial",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/431354",
+      "originalUrl": "https://www.entrepreneur.com/article/431354",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/due/hero-image-due-431354.jpeg",
+          "width": 624,
+          "height": 377,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-14T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-flush-with-new-cash-assemblyai-looks-to-grow-its-ai-as-a-service-business.md",
+      "title": "Flush with new cash, AssemblyAI looks to grow its AI-as-a-service business",
+      "excerpt": "AssemblyAI, which is developing API-based services for AI-powered audio and video analysis services, has closed a $30M funding round led by Insight Partners.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/14/flush-with-new-cash-assemblyai-looks-to-grow-its-ai-as-a-service-business/",
+      "originalUrl": "https://techcrunch.com/2022/07/14/flush-with-new-cash-assemblyai-looks-to-grow-its-ai-as-a-service-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/assembly-ai-ceo-dylan-fox.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/14/flush-with-new-cash-assemblyai-looks-to-grow-its-ai-as-a-service-business/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/14/flush-with-new-cash-assemblyai-looks-to-grow-its-ai-as-a-service-business/amp/",
+      "publishedDateTime": "2022-07-14T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-07-14-rocky-linux-9-brings-security-enhancements-and-better-performance-for-enterprise-users.md",
       "title": "Rocky Linux 9 brings security enhancements and better performance for enterprise users",
       "excerpt": "Rocky Linux 9 shares many of the capabilities of Red Hat's Linux 9, including updated cryptographic libraries and security enhancements.",
@@ -822,332 +1159,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-startup-spotlight-ai-based-platform-metanoa-is-enabling-the-early-diagnosis-of-learning-disorders-in-children.md",
-      "title": "Startup Spotlight: AI-Based Platform Metanoa Is Enabling The Early Diagnosis Of Learning Disorders In Children",
-      "excerpt": "Metanoa enables the early diagnosis of developmental disorders such as autism, attention deficit hyperactivity disorder (ADHD), learning disabilities, speech delays, and others.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/431310",
-      "originalUrl": "https://www.entrepreneur.com/article/431310",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/images/misc/1657700364_MetanoaisanAI-basedplatformthatenablestheearlydiagnosisofdevelopmentaldisorderssuchasautismADHDlearningdisabilitiesandspeechdelays.jpg",
-          "width": 605,
-          "height": 1207,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-13T22:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-teaching-ai-to-ask-clinical-questions.md",
-      "title": "Teaching AI to ask clinical questions",
-      "excerpt": "Researchers are working toward machine-learning models that can help doctors more efficiently find information in a patient’s health record.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/959260",
-      "originalUrl": "https://www.eurekalert.org/news-releases/959260",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/1e5cc45d-c6cd-4f37-9cbd-7e928649c5f0/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-a-case-study-on-how-to-succeed-as-a-deep-tech-start-up.md",
-      "title": "A Case Study On How To Succeed As A Deep Tech Start-Up",
-      "excerpt": "No problem is too complicated that software cannot solve, either now or in the future. So why not focus on solving the world's biggest problems? That's the promise of Deep Tech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/melaniefine/2022/07/13/a-case-study-on-how-to-succeed-as-a-deep-tech-start-up/",
-      "originalUrl": "https://www.forbes.com/sites/melaniefine/2022/07/13/a-case-study-on-how-to-succeed-as-a-deep-tech-start-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62cf0d03b5d34c2eec4c2945/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/melaniefine/2022/07/13/a-case-study-on-how-to-succeed-as-a-deep-tech-start-up/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/melaniefine/2022/07/13/a-case-study-on-how-to-succeed-as-a-deep-tech-start-up/amp/",
-      "publishedDateTime": "2022-07-13T16:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-xpeng-robotics-brings-in-100m-for-its-quadruped-robot.md",
-      "title": "XPENG Robotics brings in $100M for its quadruped robot",
-      "excerpt": "XPENG Robotics' first product will be a quadruped robot with autonomous navigation, and equipped with a robotic arm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/xpeng-robotics-brings-in-100m-for-its-quadruped-robot/",
-      "originalUrl": "https://www.therobotreport.com/xpeng-robotics-brings-in-100m-for-its-quadruped-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/07/featured-web-XPENG.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-13T16:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-juniper-networks-infuses-ai-to-pump-up-automation-capabilities.md",
-      "title": "Juniper Networks infuses AI to pump up automation capabilities",
-      "excerpt": "Juniper Networks' most recent set of announcements builds on current capabilities and advances its “Experience-First Networking” vision.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/13/juniper-networks-infuses-ai-to-pump-up-automation-capabilities/",
-      "originalUrl": "https://venturebeat.com/2022/07/13/juniper-networks-infuses-ai-to-pump-up-automation-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1004620372-e1657731165364.jpg?fit=800%2C422&strip=all",
-          "width": 800,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/13/juniper-networks-infuses-ai-to-pump-up-automation-capabilities/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/13/juniper-networks-infuses-ai-to-pump-up-automation-capabilities/amp/",
-      "publishedDateTime": "2022-07-13T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-tesla-loses-top-ai-executive-who-led-autopilot-vision-team.md",
-      "title": "Tesla loses top AI executive who led Autopilot vision team",
-      "excerpt": "Andrej Karpathy, the deep learning and computer vision expert who was Tesla's director of AI and led Autopilot vision team, is officially leaving the company.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/13/tesla-loses-top-ai-executive-who-led-autopilot-vision-team/",
-      "originalUrl": "https://techcrunch.com/2022/07/13/tesla-loses-top-ai-executive-who-led-autopilot-vision-team/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/tesla-autopilot-getty.jpeg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/13/tesla-loses-top-ai-executive-who-led-autopilot-vision-team/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/13/tesla-loses-top-ai-executive-who-led-autopilot-vision-team/amp/",
-      "publishedDateTime": "2022-07-13T16:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-25-things-elon-musk-promised-and-didnt-deliver.md",
-      "title": "25 Things Elon Musk Promised and Didn't Deliver",
-      "excerpt": "infusing the human brain with artificial intelligence, and creating driverless cars that are run with software. His latest claim: that he would take over Twitter and more than quadruple its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/25-things-elon-musk-promised-160000576.html",
-      "originalUrl": "https://www.aol.com/25-things-elon-musk-promised-160000576.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-13T16:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

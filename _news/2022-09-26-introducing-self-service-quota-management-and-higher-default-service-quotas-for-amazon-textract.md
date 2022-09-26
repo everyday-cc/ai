@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-26T18:11:21Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-self-service-quota-management-and-higher-default-service-quotas-for-amazon-textract/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-self-service-quota-management-and-higher-default-service-quotas-for-amazon-textract/"
 type: article
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: AWS

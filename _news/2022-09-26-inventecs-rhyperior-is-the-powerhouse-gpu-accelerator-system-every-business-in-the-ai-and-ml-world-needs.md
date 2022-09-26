@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-26T16:06:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/inventec-s-rhyperior-is-the-powerhouse-gpu-accelerator-system-every-business-in-the-ai-and-ml-world-needs-1031765200"
 webUrl: "https://markets.businessinsider.com/news/stocks/inventec-s-rhyperior-is-the-powerhouse-gpu-accelerator-system-every-business-in-the-ai-and-ml-world-needs-1031765200"
 type: article
-quality: 84
-heat: 84
+quality: 86
+heat: 86
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - AI Hardware
   - AI
   - Machine Learning
+  - Facebook AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1906206/InventecRhyperior_0919.jpg"

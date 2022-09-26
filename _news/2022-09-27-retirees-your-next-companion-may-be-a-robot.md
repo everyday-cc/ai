@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-26T19:00:00Z
 originalUrl: "https://www.kiplinger.com/retirement/happy-retirement/605271/your-next-companion-may-be-a-robot"
 webUrl: "https://www.kiplinger.com/retirement/happy-retirement/605271/your-next-companion-may-be-a-robot"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Kiplinger

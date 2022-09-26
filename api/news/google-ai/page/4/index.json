@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-15-bridging-deepmind-research-with-alphabet-products.md",
+      "title": "Bridging DeepMind research with Alphabet products",
+      "excerpt": "Today we caught up with Gemma Jennings, a product manager on the Applied team, who led a session on vision language models at the AI Summit, one of the world’s largest AI events for business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/bridging-deepmind-research-with-alphabet-products",
+      "originalUrl": "https://www.deepmind.com/blog/bridging-deepmind-research-with-alphabet-products",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62a9f619d9122bdc3231b4ed_Gemma_Jennings__Blog__16x9.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-its-a-little-scary-how-smart-googles-deepmind-just-got.md",
       "title": "It’s a little scary how smart Google’s DeepMind just got",
       "excerpt": "Oh joy – Alphabet Inc.’s AI subsidiary DeepMind has taken another step forward in understanding the world the way humans do. The company that has previously made headlines for developing a ...",
@@ -1360,40 +1412,6 @@
         "Machine Learning",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-apple-engineer-who-quit-over-return-to-office-policy-joins-google.md",
-      "title": "Apple engineer who quit over return-to-office policy joins Google",
-      "excerpt": "Ian Goodfellow — who worked as Apple’s director of machine learning until he resigned in early May — is joining Google’s DeepMind division as a contributor, Bloomberg reported.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/05/18/apple-engineer-who-quit-over-return-to-office-policy-joins-google/",
-      "originalUrl": "https://nypost.com/2022/05/18/apple-engineer-who-quit-over-return-to-office-policy-joins-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

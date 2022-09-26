@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/ai/why-you-need-a-digital-champion-to-score-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-you-need-a-digital-champion-to-score-ai-wins/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: VentureBeat
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 679
     isCached: true
-
-related:
-  - title: "Why marketers need to jump on the AI bandwagon"
-    excerpt: "Automations created by AI and ML present many business opportunities that marketers must start taking advantage of."
-    publishedDateTime: 2022-09-22T04:16:00Z
-    webUrl: "https://venturebeat.com/ai/why-marketers-need-to-jump-on-the-ai-bandwagon/"
-    ampWebUrl: "https://venturebeat.com/ai/why-marketers-need-to-jump-on-the-ai-bandwagon/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-marketers-need-to-jump-on-the-ai-bandwagon/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1366444151-e1653509398576.jpg?fit=800%2C547&strip=all"
-        width: 800
-        height: 452
-        isCached: true
 
 secured: "a6NXCpJtVktMnCkBItAKO/tyOqKjjCvUMRrrdgykn9k8RsKAzjx0Vn8SPeL82U9hHrvxj+LJFiSjxehdzMR4uTqzwIx06JgwzzRvLDwaoSZWeE0uonwgwKLXZaDqw/vmhW0m1PJ7cSm4tYZIRXthRBSHckVgVClfXV97ek6XlLExEmsmpgCZiAtav+6bSpTEu+bS3bcjvcOvTAn5OlZIKdzDTm566wi6Nm8JOpNzxM6sCAc8+ehLwz0edA/jKl21NwCiqV+kY+fRK6gzbxy3kw+3V8r9nOQqbyTDtccH3p2ghqvWntbFLIXEd01EGRECU3tuj5HuZEXjI1hy6JJWzlvK6vOCABm8kEMrFO/astg/hcatykUzXuXYwuPCmur0HMpFzWEDGGH2z7inO6Wka7faxlJi3GY+OTvhE35ahROTdSOlU+gsa9u8y7ftVV4lujegaM6yH7ugdwIYLt49GZSbEcC1wZ/3qoEZ+u4mD2lWU7VjNQW/O1lsotT6K5oLEYerw8iO1nY9sHXfkisHIA==;Nox+1JLsUyhOb7bkbEbIZg=="
 ---

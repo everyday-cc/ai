@@ -218,11 +218,20 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/f396308/2147483647/strip/true/crop/4288x2412+0+218/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fd5%2Fce%2F46ddf89241d7b19cf9378fbe1843%2Fhuman-brain-and-computer-technician-sbi-300980044.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.wtkr.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline?_amp=true",
+      "cdnAmpWebUrl": "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline?_amp=true",
       "publishedDateTime": "2022-09-14T12:07:00-07:00",
       "updatedDateTime": null,
       "provider": {

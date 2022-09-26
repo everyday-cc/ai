@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-07-20-machine-translation-market-is-expected-to-boom-alibaba-cloud-apptek-llc-amazoncom-inc.md",
+      "title": "Machine Translation Market Is Expected to Boom- Alibaba Cloud, AppTek LLC, Amazon.com Inc.",
+      "excerpt": "Machine translation uses artificial intelligence (AI) to automatically translate content between languages without the intervention of human linguists. Google Translate, Bing Translate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/machine-translation-market-is-expected-to-boom-alibaba-cloud-apptek-llc-amazon-com-inc",
+      "originalUrl": "https://www.digitaljournal.com/pr/machine-translation-market-is-expected-to-boom-alibaba-cloud-apptek-llc-amazon-com-inc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/07/fa01fa28f4cd771729aec28af80bfc3c7e5f4e03-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-alexa-and-siri-listen-up-uva-collab-is-teaching-machines-to-really-hear-us.md",
       "title": "Alexa and Siri, listen up! UVA collab is teaching machines to really hear us",
       "excerpt": "University of Virginia cognitive scientist Per Sederberg has ... Deep Mind, IBM and Microsoft – current artificial intelligence remains a bit hard of hearing. The outcomes can range from comical ...",
@@ -1266,40 +1309,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-a-very-human-thing-why-the-translation-business-continues-to-be-resilient.md",
-      "title": "A Very Human Thing: Why the Translation Business Continues to Be Resilient",
-      "excerpt": "Translated CEO, Marco Trombetti, on why demand for language services has remained strong and the implications of advances in machine translation technology.",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/a-very-human-thing-why-the-translation-business-continues-to-be-resilient/",
-      "originalUrl": "https://slator.com/a-very-human-thing-why-the-translation-business-continues-to-be-resilient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-12T02:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
         "images": null,
         "publishers": null,
         "authors": null

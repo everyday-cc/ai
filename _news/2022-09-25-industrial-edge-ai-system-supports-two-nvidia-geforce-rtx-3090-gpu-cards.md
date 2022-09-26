@@ -41,6 +41,22 @@ related:
         width: 1089
         height: 650
         isCached: true
+  - title: "KAUST Goes For Nvidia CPU-GPU, AMD CPU Combo In Shaheen-III Supercomputer"
+    excerpt: "The King Abdullah University of Science and Technology (KAUST) in Saudi Arabia has introduced the latest in its long-standing lineup of successive"
+    publishedDateTime: 2022-09-26T18:14:00Z
+    webUrl: "https://www.nextplatform.com/2022/09/26/kaust-hpe-shaheen-iii-supercomputer/"
+    ampWebUrl: "https://www.nextplatform.com/2022/09/26/kaust-hpe-shaheen-iii-supercomputer/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/09/26/kaust-hpe-shaheen-iii-supercomputer/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 58
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/nvidia-gtc-2021-grace-cpu-hopper-gpu.jpg"
+        width: 1089
+        height: 650
+        isCached: true
   - title: "Nvidia launches all-new H100 Tensor Core GPU"
     excerpt: "Built on the Hopper architecture, the all-new Nvidia H100 Tensor Core GPU brings performance, functionality and AI compatibility to devices. Nvidia has recently launched its new H100 GPU. Based entirely on the Hopper architecture and featuring more than 8 ..."
     publishedDateTime: 2022-09-22T08:21:00Z
@@ -56,6 +72,6 @@ related:
         height: 800
         isCached: true
 
-secured: "hAfaQnZvK4Ze8954ciRVPpyM0AFpCXnBpQS0Qhub/aliqmOomRhtaFhYwl9tYA3vyPI9mXB5gKomwIwqN6rfZMFTLkXi3vXINyn1DZE4dEIFogjtyz+1UFli21jeE9G3gWogK3WI57kjGDVfDlrPL4+CUM7OlVOsRpV9JZKcHNQ2hZR9gnte1TyH0GpiDspQ1jfL5l/guPM4gZixBOHKUwauSbJjmC5KuKtOWMJFdGfoEZzAtifpeAjrNfBBJpPyPrpJMuT5dQKUKzhbOaPibr4QONbRYqLDc6BbIaRRx/sXhfcbEiNsFdwWQJGdYYX0UDNLbZKsBZLBcVc/OZFjWj2uU+s1qa6W6yiCWPQgAKY=;vPPXV21Bo/hIJJTktWxHmg=="
+secured: "G+l20gWtYmp2+N9eFPHvRMa2ML4oz7Wt3kzqf7FMhHK30yCrnWCFx335D5+chTamxGmo1IJKv49wzHRYC8rGaWfvbPb+4Ms+9jj5MgnvmGhgGXkKKFhja+xYhvUueO8Pb85hkUiRDIfb0hp/m3JEOFGeeKYSibZhJyqnJbLMm/5RMEDQ3hGyDgNUqyWz3dWTkzawQN5V5qDOWa9CUB6OqMPX8U+l3vCaTINowPvl5OeYuLOZMmpZ0+jfzVdX6Oj+uXTR4kobLG+2IJWAWys+kBWt00jfNe8evxjUpXM2rLS0sN2HftzL4wxJ5K2dvlWhz8klc+X/2Nh90AZMMf/jtzWNk0/vFxdjs0Rhx6utBE+f5YmdssiNOBgfxc/ugEUL7msLw7OgwLW36+vs4NMuw/UpSJCfWjCPW8ARjf0TyChbAkbF8ARh5v9AGdhdcuAeAsXLG9tyXzDFtJIOklEmMiXatt3pAQVfYXj9xgjr87lqPVS048iGq+j8KSWm0Y7UZqiTHGQGDC5r0ephlFCJIg==;dPOstzijB9DpN+h8d92YXQ=="
 ---
 

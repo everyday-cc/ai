@@ -76,6 +76,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla AI Day Spotlights Optimus Robot, Self-Driving Cars: Here's How to Watch"
+    excerpt: "Tesla is hiring engineers to build a walking, talking robot called Optimus. Expect Elon Musk to detail the company's work on self-driving cars, too."
+    publishedDateTime: 2022-09-26T18:29:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-ai-day-spotlights-optimus-robot-self-driving-cars-how-to-watch/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 78
 
 secured: "1Nh7ASQJ9QorZSvy4AJYi7Uvd/lDlJcOvr5ofV0gUHzIEGztp2DLdzemf9dLg1wYmF6T3FLrBDXpkSsQelhP4T++kNYiC4VzINylX61biURaWstb2rNzSDRd2GFxogLfl1Q1p7pjHWF+I20M9e0jobC04A4YdKrd95FxYjuJoOs9iXlNDNaLezLHGL1HmApv+PfFSC01OggyJJDh3Nl+rvKyFQhtLqbZ4Fi6rQ3o99mYtRN1fH0zYFtCywceeu8vm0EXK97PMIoKLF5KWAnrUOgcItOhB8UfM+/0jMii9i6w/gwAnlQLP453AnXnvr4zFSFWp6BzoLpTY4OJKYTYs2vvEfK1rO9bf+ZZs9PMROs=;tviB7OZZ7tux3e5C95Gslw=="
 ---

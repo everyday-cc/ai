@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-26T19:17:00Z
 originalUrl: "https://campustechnology.com/articles/2022/09/26/digital-learning-challenge-finalists-competing-for-1m-prize.aspx"
 webUrl: "https://campustechnology.com/articles/2022/09/26/digital-learning-challenge-finalists-competing-for-1m-prize.aspx"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Campus Technology

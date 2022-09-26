@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-07-from-farm-to-fork-thanks-to-ai-and-robots.md",
+      "title": "From farm to fork, thanks to … AI and robots?",
+      "excerpt": "Smart tech helps farmers optimally use water and fertilizer — especially important during severe drought. It might also reduce the need for workers in the fields.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketplace.org/shows/marketplace-tech/from-farm-to-fork-thanks-to-ai-and-robots/",
+      "originalUrl": "https://www.marketplace.org/shows/marketplace-tech/from-farm-to-fork-thanks-to-ai-and-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketplace.org/wp-content/uploads/2022/09/GettyImages-1306713348.jpg?fit=740%2C495",
+          "width": 740,
+          "height": 495,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketplace.org/shows/marketplace-tech/from-farm-to-fork-thanks-to-ai-and-robots/amp/",
+      "cdnAmpWebUrl": "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/from-farm-to-fork-thanks-to-ai-and-robots/amp/",
+      "publishedDateTime": "2022-09-07T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marketplace",
+        "domain": "marketplace.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-07-sony-unveils-worlds-first-robotic-pan-tilt-zoom-full-frame-mirrorless-camera.md",
       "title": "Sony unveils 'world's first' robotic pan-tilt-zoom full-frame mirrorless camera",
       "excerpt": "Sony has unveiled an unusual mirrorless camera that essentially marries the FX6 cinema camera's tech with remote-controlled robotics. Called the FR7, it's the \"world's first\" pan-tilt-zoom full ...",
@@ -1306,51 +1349,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-will-robots-take-your-job-how-artificial-intelligence-will-change-the-future-of-work.md",
-      "title": "Will Robots Take Your Job? How Artificial Intelligence Will Change the Future of Work",
-      "excerpt": "Artificial intelligence is already affecting nearly every workplace in the country. Here's how the future of AI may shape the workplace of tomorrow. When most people think of artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.rd.com/article/future-of-ai/",
-      "originalUrl": "https://www.rd.com/article/future-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rd.com/wp-content/uploads/2022/08/RD-robots-taking-jobs-GettyImages-1356768388-578183815-JVedit.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reader's Digest",
-        "domain": "rd.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI",
-        "AI in Robotics"
       ]
     }
   ],

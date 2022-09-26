@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-26T12:50:00Z
 originalUrl: "https://www.computerweekly.com/news/252525379/Data-analysis-and-artificial-intelligence-key-industrial-strategy-missions-for-Labour"
 webUrl: "https://www.computerweekly.com/news/252525379/Data-analysis-and-artificial-intelligence-key-industrial-strategy-missions-for-Labour"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Computer Weekly

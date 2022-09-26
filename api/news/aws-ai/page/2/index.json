@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-13-prepare-data-at-scale-in-amazon-sagemaker-studio-using-serverless-aws-glue-interactive-sessions.md",
+      "title": "Prepare data at scale in Amazon SageMaker Studio using serverless AWS Glue interactive sessions",
+      "excerpt": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). It provides a single, web-based visual interface where you can perform all ML development steps, including preparing data and building, training, and deploying models. AWS Glue is a serverless",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/prepare-data-at-scale-in-amazon-sagemaker-studio-using-serverless-aws-glue-interactive-sessions/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/prepare-data-at-scale-in-amazon-sagemaker-studio-using-serverless-aws-glue-interactive-sessions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/13/aws-glue-interactive-sessions.jpg",
+          "width": 1534,
+          "height": 767,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T09:01:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-ge-digital-achieves-aws-industrial-software-competency-status-and-adds-new-aws-marketplace-offerings-in-operational-intelligence-and-mes-morningstar.md",
+      "title": "GE Digital Achieves AWS Industrial Software Competency Status and Adds New AWS Marketplace Offerings in Operational Intelligence and MES | Morningstar",
+      "excerpt": "Get 7 Days Free Sign In Sign In Topics",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20220913005127/ge-digital-achieves-aws-industrial-software-competency-status-and-adds-new-aws-marketplace-offerings-in-operational-intelligence-and-mes",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20220913005127/ge-digital-achieves-aws-industrial-software-competency-status-and-adds-new-aws-marketplace-offerings-in-operational-intelligence-and-mes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-13-vmware-cloud-on-aws-expands-to-hong-kong.md",
       "title": "VMware Cloud on AWS Expands to Hong Kong",
       "excerpt": "HONG KONG SAR - Media OutReach - 13  2022 - Today, VMware announces VMware Cloud on AWS is now available in the Asia Pacific (Hong Kong) Region.",
@@ -1328,85 +1414,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-ageing-can-impact-the-security-of-facial-recognition.md",
-      "title": "Ageing can impact the security of facial recognition",
-      "excerpt": "Facial recognition algorithms can struggle to recognise individuals as the same person after as little as five years. This means that systems that rely on facial recognition may need to obtain new photographs of users on a regular basis or risk being unable to identify them,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/RgeVDvPRYPbMKJN3",
-      "originalUrl": "https://www.itweb.co.za/content/RgeVDvPRYPbMKJN3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/xWYSG2AbERBRwLqbiTZHMrOsueCLWsKZI3GAFCZaiAPRn1qBny7jW-n-U5EL6Sgiw-xz6RkxBVVnwjxpVEDvh4cVcImCrkmRJ3M=w816-h428",
-          "width": 761,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/RgeVDvPRYPbMKJN3",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/RgeVDvPRYPbMKJN3",
-      "publishedDateTime": "2022-08-30T02:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-aws-launches-region-in-the-united-arab-emirates.md",
-      "title": "AWS Launches Region in the United Arab Emirates",
-      "excerpt": "(NASDAQ: AMZN), today announced the launch of its second Region in the Middle East, the AWS Middle East (UAE) Region. Starting today, developers, startups, entrepreneurs, and enterprises, as well as government,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/08/30/9663810.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/08/30/9663810.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

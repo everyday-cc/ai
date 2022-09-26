@@ -35,7 +35,7 @@ related:
     provider:
       name: jagranjosh.com
       domain: jagranjosh.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://img.jagranjosh.com/images/2022/August/1282022/2048-450x232.jpeg"
         width: 450

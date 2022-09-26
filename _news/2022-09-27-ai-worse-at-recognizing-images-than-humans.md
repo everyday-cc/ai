@@ -8,7 +8,7 @@ webUrl: "https://techxplore.com/news/2022-09-ai-worse-images-humans.html"
 ampWebUrl: "https://techxplore.com/news/2022-09-ai-worse-images-humans.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-ai-worse-images-humans.amp"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 

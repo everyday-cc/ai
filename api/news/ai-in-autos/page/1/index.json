@@ -63,7 +63,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -158,6 +158,49 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-23-researchers-develop-artificial-intelligence-screening-techniques.md",
+      "title": "Researchers develop artificial intelligence screening techniques",
+      "excerpt": "Researchers have found a new artificial intelligence-based drug screening technique. Read below to know the significance and process of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.jagranjosh.com/current-affairs/researchers-develop-artificial-intelligence-screening-techniques-1663941325-1",
+      "originalUrl": "https://www.jagranjosh.com/current-affairs/researchers-develop-artificial-intelligence-screening-techniques-1663941325-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.jagranjosh.com/images/2022/August/1282022/2048-450x232.jpeg",
+          "width": 450,
+          "height": 232,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.jagranjosh.com/current-affairs/amp/researchers-develop-artificial-intelligence-screening-techniques-1663941325-1",
+      "cdnAmpWebUrl": "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/current-affairs/amp/researchers-develop-artificial-intelligence-screening-techniques-1663941325-1",
+      "publishedDateTime": "2022-09-23T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jagranjosh.com",
+        "domain": "jagranjosh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -915,25 +958,34 @@
     },
     {
       "path": "_news/2022-09-19-weride-launches-the-first-self-driving-robobus-test-ride-in-saudi-arabia-at-2022-global-ai-summit.md",
-      "title": "WeRide Launches the First Self-driving Robobus Test Ride in Saudi Arabia at 2022 Global AI Summit",
-      "excerpt": "WeRide launched the first driverless public Robotaxi service in the Middle East in Abu Dhabi, capital of the United Arab Emirates. The launch of the driverless robobus in Riyadh becomes another important milestone in WeRide's global footprint,",
+      "title": "WeRide launches the first self-driving Robobus Test Ride in Saudi Arabia at 2022 Global AI Summit",
+      "excerpt": "This is the first fully driverless test ride of robobus in the Middle East country and it will take place from Sep. 19th to 22nd",
       "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/09/19/9675581.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/09/19/9675581.htm",
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/weride-launches-the-first-self-driving-robobus-test-ride-in-saudi-arabia-at-2022-global-ai-summit-d035ufgp",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/weride-launches-the-first-self-driving-robobus-test-ride-in-saudi-arabia-at-2022-global-ai-summit-d035ufgp",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/version/c:MzJjMjE1NTgtYTdhZi00:ZjJiZTcx/indigo_dubaihills__1664180677-jpg.jpg?f=1%3A1&q=1&w=3840",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-18T23:05:00-07:00",
+      "publishedDateTime": "2022-09-19T00:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Zawya",
+        "domain": "zawya.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1397,40 +1449,6 @@
         "Machine Learning",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-alphabets-googl-waymo-makes-way-to-bellevue-boosts-efforts.md",
-      "title": "Alphabet's (GOOGL) Waymo Makes Way to Bellevue, Boosts Efforts",
-      "excerpt": "Alphabet GOOGL is leaving no stone unturned to expand its Waymo ride-hailing service across the United States. This is evident from the latest move of testing its self-driving vehicles on the streets of Bellevue,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/alphabets-googl-waymo-makes-way-to-bellevue-boosts-efforts",
-      "originalUrl": "https://www.nasdaq.com/articles/alphabets-googl-waymo-makes-way-to-bellevue-boosts-efforts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/alphabets-googl-waymo-makes-way-to-bellevue-boosts-efforts?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/alphabets-googl-waymo-makes-way-to-bellevue-boosts-efforts?amp",
-      "publishedDateTime": "2022-09-14T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

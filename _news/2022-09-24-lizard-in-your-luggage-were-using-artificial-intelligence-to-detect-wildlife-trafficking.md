@@ -8,8 +8,8 @@ webUrl: "https://phys.org/news/2022-09-lizard-luggage-artificial-intelligence-wi
 ampWebUrl: "https://phys.org/news/2022-09-lizard-luggage-artificial-intelligence-wildlife.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-lizard-luggage-artificial-intelligence-wildlife.amp"
 type: article
-quality: 47
-heat: -1
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/lizard-in-your-luggage.jpg"

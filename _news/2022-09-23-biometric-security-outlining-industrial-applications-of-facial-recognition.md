@@ -42,6 +42,38 @@ related:
         width: 661
         height: 341
         isCached: true
+  - title: "Avoiding a surveillance society: how better rules can rein in facial recognition tech"
+    excerpt: "Facial recognition technology has set us on a path to mass surveillance – but it’s not too late to change course."
+    publishedDateTime: 2022-09-26T20:02:00Z
+    webUrl: "https://theconversation.com/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
+    ampWebUrl: "https://theconversation.com/amp/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 52
+    images:
+      - url: "https://images.theconversation.com/files/486445/original/file-20220926-14387-rumoex.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
+        isCached: true
+  - title: "Prediction of municipal solid waste generation using a machine learning multi-city model"
+    excerpt: "Ever-increasing solid waste production has been threatening natural environment and human safety in recent years. With increasing urbanization worldwide, municipal solid waste (MSW) has increased significantly."
+    publishedDateTime: 2022-09-26T20:09:00Z
+    webUrl: "https://techxplore.com/news/2022-09-municipal-solid-machine-multi-city.html"
+    ampWebUrl: "https://techxplore.com/news/2022-09-municipal-solid-machine-multi-city.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-municipal-solid-machine-multi-city.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 50
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/machine-learning-multi.jpg"
+        width: 1107
+        height: 443
+        isCached: true
 
 secured: "NwxtLwAoYSk6/6g9KXHt3KoKqQOE7r8X6kxkbGWuEC8LaAvUxS1BtZAFFm/8zhDPECSzkNVx+1zl784bPkdw/N8mSf7ZBhigcVQWXaXB03kFCcdq1YgMdbFLm6zR4PVuKzMBZoS2NNg0wuHHm4b/hYpmdU5EbrUyOLnEfpo+A7Qwid49kiY4tXrffBwitpCy9gRlKMFUpYMekK7yDpu9qNWMKhj4+EgDRjOkVSL7x7sCDFT7WB1x9mmPjN1sTAzZKsquP+ep27OXVot5N7Uyf4Gl6y4lo9fSZCuxWfhmyuNoS+J02rt5YSs2MxyUnkz9sstwUrQWs5dkZc0ssxMDdICnkNTqjO9EOEiJtQf41bk=;GfS3AnyrTO04xkzmNKHpxg=="
 ---

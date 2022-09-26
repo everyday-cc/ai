@@ -24,6 +24,22 @@ images:
     height: 815
     isCached: true
 
+related:
+  - title: "Push for new law to regulate facial recognition technology in Australia"
+    excerpt: "Academics have written a model law suggesting how the regulation of facial recognition technology in Australia could work."
+    publishedDateTime: 2022-09-26T21:36:00Z
+    webUrl: "https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/new-law-to-regulate-facial-recognition"
+    type: article
+    provider:
+      name: Choice
+      domain: choice.com.au
+    quality: 39
+    images:
+      - url: "https://img.choice.com.au/-/media/9d45571f9c704a0abcfb9d711bcb3840.ashx"
+        width: 1200
+        height: 675
+        isCached: true
+
 secured: "YFhfJ4Ho05D4X9aeMvtdlZCW0U/CWKfdB+vBgWSA3AJVE7buHYkSl2Fq4dz9/WcywsfsG5quWiAuFENxTK8a1tzadvnhC1LwW661bwzaWPYN0u7UZCiXMm1xAQpOzX4FBLNQwRoZ1URcAimVfULEzmuYjYvCON87+HLdYz8wYRqbkPi8TZHwwSLCcgcogLh+OJP2j4igokzMEgc7J4+MOCXuySSznlwafX3zhiMk6MvdMRkOV0OgkAKhLnGAh6TPmKf8DH7vsP8pDHjJ3qgKnYob2v34kGoNs6X7SyD36IsNfyNqrDw27WHB2UYOd7WdfoX39vSCma6Hk9xb/4UJf+CfXyi+paHxHstVqJzeqfs=;Oqw1ShcmLO6fnVQt3D+L/w=="
 ---
 

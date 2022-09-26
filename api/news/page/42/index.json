@@ -2,6 +2,354 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2022-08-23-deep-learning-market-will-reach-a-valuation-of-over-usd-3143-bn-towards-2032-end-marketus.md",
+      "title": "Deep Learning Market Will Reach a Valuation of over USD 31.43 Bn towards 2032-end: Market.us",
+      "excerpt": "The deep learning market had value USD 31.43 billion in 2021, It is projected to increase at a CAGR of 34.2%. This study uses 2021 as the base year. The forecast period runs from 2022 through 2032.",
+      "sourceUrl": null,
+      "webUrl": "https://eturbonews.com/deep-learning-market-will-reach-a-valuation-of-over-usd-31-43-bn-towards-2032-end-market-us/",
+      "originalUrl": "https://eturbonews.com/deep-learning-market-will-reach-a-valuation-of-over-usd-31-43-bn-towards-2032-end-market-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://eturbonews.com/wp-content/uploads/2019/08/cropped-etn-logo2.jpg",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-22T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eturbonews.com",
+        "domain": "eturbonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-ride-hailing-app-cruise-goes-green-and-driverless.md",
+      "title": "Ride-Hailing App Cruise Goes Green And Driverless",
+      "excerpt": "Imagine using your ride-hailing app to call a car, as most of us have done anywhere from dozens to hundreds of times, and when it arrives it has no driver. While just a few years ago this scenario ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/simonmainwaring/2022/08/22/cruise-ride-hailing-goes-green-and-driverless/",
+      "originalUrl": "https://www.forbes.com/sites/simonmainwaring/2022/08/22/cruise-ride-hailing-goes-green-and-driverless/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630e45703d839cd43fff61b1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 911,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/simonmainwaring/2022/08/22/cruise-ride-hailing-goes-green-and-driverless/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonmainwaring/2022/08/22/cruise-ride-hailing-goes-green-and-driverless/amp/",
+      "publishedDateTime": "2022-08-22T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-22-this-cute-home-robot-is-like-a-disney-character-come-to-life.md",
+      "title": "This Cute Home Robot Is Like A Disney Character Come To Life",
+      "excerpt": "Over the past few years, we've seen a number of robots with artificial intelligence designed for kids introduced, including everything from a robotic unicorn to a robot that helps kids avoid road ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/975458/this-cute-home-robot-is-like-a-disney-character-come-to-life/",
+      "originalUrl": "https://www.slashgear.com/975458/this-cute-home-robot-is-like-a-disney-character-come-to-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/this-cute-home-robot-is-like-a-disney-character-come-to-life/l-intro-1661196877.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-22T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-22-usd-20639-mn-growth-expected-in-light-therapy-market-driven-by-growing-prevalence-of-sad.md",
+      "title": "USD 206.39 Mn growth expected in Light Therapy Market -- Driven by growing prevalence of SAD",
+      "excerpt": "The \"Light Therapy Market by End-user and Geographic Landscape - Forecast and Analysis 2020-2024\" report by Technavio expects the market size to grow by USD 206.39 million between 2019 and 2024. The market witnessed a YOY growth of 4.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/usd-20639-mn-growth-expected-in-light-therapy-market----driven-by-growing-prevalence-of-sad-2022-08-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/usd-20639-mn-growth-expected-in-light-therapy-market----driven-by-growing-prevalence-of-sad-2022-08-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-22T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-22-rising-prevalence-of-obesity-to-lend-added-push-to-orthopedic-medical-imaging-systems-market-expansion-factmr-analysis.md",
+      "title": "Rising Prevalence of Obesity to Lend Added Push to Orthopedic Medical Imaging Systems Market Expansion: Fact.MR Analysis",
+      "excerpt": "Demand for orthopedic medical imaging systems is projected to be driven by the rising prevalence of orthopedic disorders and the growing geriatric population across the world. Increasing incidence of obesity and rapid technological advancements in the medical imaging field are also anticipated to favor market growth throughout the forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/rising-prevalence-of-obesity-to-lend-added-push-to-orthopedic-medical-imaging-systems-market-expansion-factmr-analysis-2022-08-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/rising-prevalence-of-obesity-to-lend-added-push-to-orthopedic-medical-imaging-systems-market-expansion-factmr-analysis-2022-08-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-22T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-22-can-ai-serve-as-a-great-equalizer-in-the-real-estate-industry.md",
+      "title": "Can AI serve as a 'great equalizer' in the real estate industry?",
+      "excerpt": "Implementing artificial intelligence in real estate can help diversify home ownership, claims Anywhere Real Estate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/can-ai-serve-as-a-great-equalizer-in-the-real-estate-industry/",
+      "originalUrl": "https://www.zdnet.com/article/can-ai-serve-as-a-great-equalizer-in-the-real-estate-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/c6577b3060d93d9e16841239a58f5f621ecf0f5c/2021/11/12/807a95d0-c6f4-46b6-a879-5c477d972029/for-sale.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/can-ai-serve-as-a-great-equalizer-in-the-real-estate-industry/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-ai-serve-as-a-great-equalizer-in-the-real-estate-industry/",
+      "publishedDateTime": "2022-08-22T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-22-the-best-indoor-home-security-cameras-in-2022.md",
+      "title": "The best indoor home security cameras in 2022",
+      "excerpt": "The best Indoor security cameras can add an extra layer of peace of mind to your home, and the latest models keep a better eye on your surrounds than ever and integrate more smoothly with your smart home gear,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/cnn-underscored/reviews/best-indoor-security-camera",
+      "originalUrl": "https://www.cnn.com/cnn-underscored/reviews/best-indoor-security-camera",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/inddor-security-camera-group.jpg?q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-indoor-security-camera",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/reviews/best-indoor-security-camera",
+      "publishedDateTime": "2022-08-22T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-08-22-google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans.md",
       "title": "Google Gave Its Helper Robots AI Language Skills to Better Work With Humans",
       "excerpt": "Google has started to close the gap by marrying the latest language AI with state-of-the-art robots ... created new control software that taps into PaLM’s language skills to translate spoken or written commands from a human into the actions required ...",
@@ -792,332 +1140,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-capitol-records-signs-first-ai-virtual-rapper-fn-meka.md",
-      "title": "Capitol Records signs first AI virtual rapper FN Meka",
-      "excerpt": "A robot rapper that has over 10 million followers on TikTok has signed FN Meka is the world’s first augmented reality – or “AR” – artist to sign with a major label. He has over one billion views on TikTok as the platform’s top “virtual being.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wdbj7.com/2022/08/21/capitol-records-signs-first-ai-virtual-rapper-fn-meka/",
-      "originalUrl": "https://www.wdbj7.com/2022/08/21/capitol-records-signs-first-ai-virtual-rapper-fn-meka/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/74vYc1YhLLYjMUbeMTM99DkupAQ=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/ACCBL2VU6NOOZKVLG7AIZNKJQ4.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wdbj7.com/2022/08/21/capitol-records-signs-first-ai-virtual-rapper-fn-meka/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wdbj7-com.cdn.ampproject.org/c/s/www.wdbj7.com/2022/08/21/capitol-records-signs-first-ai-virtual-rapper-fn-meka/?outputType=amp",
-      "publishedDateTime": "2022-08-21T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WDBJ",
-        "domain": "wdbj7.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-unprecedented-ai-chip-could-revolutionise-artificial-intelligence.md",
-      "title": "‘Unprecedented’ AI chip could revolutionise artificial intelligence",
-      "excerpt": "An “unprecedented” new computer chip could help revolutionise AI, according to its creators. The system should allow increasingly complex artificial intelligence to live on chips themselves ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/tech/ai-artificial-intelligence-chip-memory-ram-b2146974.html?amp",
-      "originalUrl": "https://www.independent.co.uk/tech/ai-artificial-intelligence-chip-memory-ram-b2146974.html?amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2022/08/17/16/Low-Res_UCSD-JacobsSchool-20220815-Cauwenberghs-NeuRRam-00621-e-8MP.jpg.png?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.independent.co.uk/tech/ai-artificial-intelligence-chip-memory-ram-b2146974.html?amp",
-      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/ai-artificial-intelligence-chip-memory-ram-b2146974.html?amp",
-      "publishedDateTime": "2022-08-21T15:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-can-artificial-intelligence-transform-the-supply-chain.md",
-      "title": "Can Artificial Intelligence transform the supply chain?",
-      "excerpt": "The logistics industry represents 12% of global GDP and is growing at a compounded annual growth rate (CAGR) of 5% per year.  Based on these estimates, global logistics spending will surge to more than $15 trillion by 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.deccanherald.com/business/technology/can-artificial-intelligence-transform-the-supply-chain-1138083.html",
-      "originalUrl": "https://www.deccanherald.com/business/technology/can-artificial-intelligence-transform-the-supply-chain-1138083.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.deccanherald.com/sites/dh/files/articleimages/2022/08/22/file7mejcv2pqmqqymn5ki5-1138083-1661117353.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.deccanherald.com/amp/business/technology/can-artificial-intelligence-transform-the-supply-chain-1138083.html",
-      "cdnAmpWebUrl": "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/business/technology/can-artificial-intelligence-transform-the-supply-chain-1138083.html",
-      "publishedDateTime": "2022-08-21T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deccan Herald",
-        "domain": "deccanherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-survive-layoffs-succeed-with-upskilling-through-ai.md",
-      "title": "Survive layoffs, succeed with upskilling through AI",
-      "excerpt": "Despite the looming recession, orgs must invest in upskilling existing employees — lest they lose talent. AI can help.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/survive-layoffs-succeed-with-upskilling-through-ai/",
-      "originalUrl": "https://venturebeat.com/ai/survive-layoffs-succeed-with-upskilling-through-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/NLP.GettyImages-1199031078.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/survive-layoffs-succeed-with-upskilling-through-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/survive-layoffs-succeed-with-upskilling-through-ai/amp/",
-      "publishedDateTime": "2022-08-21T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-tesla-raising-price-of-full-self-driving-feature-to-15000-next-month.md",
-      "title": "Tesla raising price of ‘Full Self-Driving’ feature to $15,000 next month",
-      "excerpt": "Elon Musk on Sunday announced the price of Tesla Inc.'s \"Full Self-Driving\" feature will rise by 25% next month, to from $12,000 to $15,000.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442?mod=mw_latestnews",
-      "originalUrl": "https://www.marketwatch.com/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442?mod=mw_latestnews",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 393,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-528682/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442",
-      "publishedDateTime": "2022-08-21T12:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-why-ai-is-the-differentiator-in-todays-experience-market.md",
-      "title": "Why AI is the differentiator in today’s experience market",
-      "excerpt": "Experience is everything. From what we buy to where we work, everyone is seeking a more intuitive, personalized experience surrounding all that we do. The best user experiences feel effortless, offering instant recommendations that give us what we want without requiring us to spend valuable time providing our preferences.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-ai-is-the-differentiator-in-todays-experience-market/",
-      "originalUrl": "https://venturebeat.com/ai/why-ai-is-the-differentiator-in-todays-experience-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1264510281.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-ai-is-the-differentiator-in-todays-experience-market/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-ai-is-the-differentiator-in-todays-experience-market/amp/",
-      "publishedDateTime": "2022-08-21T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-explained-delhi-polices-use-of-facial-recognition-technology.md",
-      "title": "Explained | Delhi Police’s use of facial recognition technology",
-      "excerpt": "The story so far: Right to Information (RTI) responses received by the Internet Freedom Foundation, a New-Delhi based digital rights organisation, reveal that the Delhi Police treats matches of above 80% similarity generated by its facial recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/explained-delhi-polices-use-of-facial-recognition-technology/article65793897.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/explained-delhi-polices-use-of-facial-recognition-technology/article65793897.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/incoming/69w7u9/article65793992.ece/alternates/LANDSCAPE_615/iStock-1280436988.jpg",
-          "width": 615,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/explained-delhi-polices-use-of-facial-recognition-technology/article65793897.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/explained-delhi-polices-use-of-facial-recognition-technology/article65793897.ece/amp/",
-      "publishedDateTime": "2022-08-21T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

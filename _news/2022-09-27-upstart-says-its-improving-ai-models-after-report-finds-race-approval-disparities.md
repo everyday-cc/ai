@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-26T17:38:00Z
 originalUrl: "https://www.americanbanker.com/news/upstart-says-its-improving-ai-models-after-report-finds-race-approval-disparities"
 webUrl: "https://www.americanbanker.com/news/upstart-says-its-improving-ai-models-after-report-finds-race-approval-disparities"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: American Banker

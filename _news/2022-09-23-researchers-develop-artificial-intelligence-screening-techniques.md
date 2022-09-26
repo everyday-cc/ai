@@ -8,8 +8,8 @@ webUrl: "https://www.jagranjosh.com/current-affairs/researchers-develop-artifici
 ampWebUrl: "https://m.jagranjosh.com/current-affairs/amp/researchers-develop-artificial-intelligence-screening-techniques-1663941325-1"
 cdnAmpWebUrl: "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/current-affairs/amp/researchers-develop-artificial-intelligence-screening-techniques-1663941325-1"
 type: article
-quality: 57
-heat: 87
+quality: 59
+heat: 89
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://img.jagranjosh.com/images/2022/August/1282022/2048-450x232.jpeg"

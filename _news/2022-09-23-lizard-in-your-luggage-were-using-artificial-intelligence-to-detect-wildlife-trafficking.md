@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/lizard-in-your-luggage-were-using-ar
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/lizard-in-your-luggage-were-using-artificial-intelligence-to-detect-wildlife-trafficking-189779"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -36,7 +36,7 @@ related:
     provider:
       name: Phys.org
       domain: phys.org
-    quality: 47
+    quality: 49
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/lizard-in-your-luggage.jpg"
         width: 1356

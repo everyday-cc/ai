@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-26-introducing-self-service-quota-management-and-higher-default-service-quotas-for-amazon-textract.md",
+      "title": "Introducing self-service quota management and higher default service quotas for Amazon Textract",
+      "excerpt": "Today, we’re excited to announce self-service quota management support for Amazon Textract via the AWS Service Quotas console, and higher default service quotas in select AWS Regions. Customers tell us they need quick turnaround times to process their requests for quota increases and visibility into",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-self-service-quota-management-and-higher-default-service-quotas-for-amazon-textract/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-self-service-quota-management-and-higher-default-service-quotas-for-amazon-textract/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-26T11:11:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-09-26-bosch-sventa-and-phantom-edge-now-available-in-aws-marketplace.md",
       "title": "Bosch SVENTA and Phantom Edge now available in AWS Marketplace",
       "excerpt": "Bangalore: Bosch Global Software Technologies (BGSW), formerly known as Robert Bosch Engineering and Business Solutions (RBEI), and an Amazon Web Services (AWS) Advanced Consulting Partner, today anno",
@@ -157,7 +201,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-population-variance-of-endangered-species-using-amazon-rekognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -618,6 +662,49 @@
       "provider": {
         "name": "Hydrogen Fuel News",
         "domain": "hydrogenfuelnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-17-contact-center-intelligence-market-2022-size-status-and-global-outlook-aws-artificial-solutions-avaya-google.md",
+      "title": "Contact Center Intelligence Market 2022 Size, Status And Global Outlook -AWS, Artificial Solutions, Avaya, Google",
+      "excerpt": "Click here to get a Sample Copy of the Report: Top Leading Companies of Global Contact Center Intelligence Market are AWS, Artificial Solutions, Avaya, Google, IBM, Microsoft, Nuance ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104879846/Contact-Center-Intelligence-Market-2022-Size-Status-And-Global-Outlook-AWS-Artificial-Solutions-Avaya-Google",
+      "originalUrl": "https://menafn.com/1104879846/Contact-Center-Intelligence-Market-2022-Size-Status-And-Global-Outlook-AWS-Artificial-Solutions-Avaya-Google",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?127434",
+          "width": 438,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-17T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1328,92 +1415,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-prepare-data-at-scale-in-amazon-sagemaker-studio-using-serverless-aws-glue-interactive-sessions.md",
-      "title": "Prepare data at scale in Amazon SageMaker Studio using serverless AWS Glue interactive sessions",
-      "excerpt": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). It provides a single, web-based visual interface where you can perform all ML development steps, including preparing data and building, training, and deploying models. AWS Glue is a serverless",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/prepare-data-at-scale-in-amazon-sagemaker-studio-using-serverless-aws-glue-interactive-sessions/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/prepare-data-at-scale-in-amazon-sagemaker-studio-using-serverless-aws-glue-interactive-sessions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/13/aws-glue-interactive-sessions.jpg",
-          "width": 1534,
-          "height": 767,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T09:01:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-ge-digital-achieves-aws-industrial-software-competency-status-and-adds-new-aws-marketplace-offerings-in-operational-intelligence-and-mes-morningstar.md",
-      "title": "GE Digital Achieves AWS Industrial Software Competency Status and Adds New AWS Marketplace Offerings in Operational Intelligence and MES | Morningstar",
-      "excerpt": "Get 7 Days Free Sign In Sign In Topics",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20220913005127/ge-digital-achieves-aws-industrial-software-competency-status-and-adds-new-aws-marketplace-offerings-in-operational-intelligence-and-mes",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20220913005127/ge-digital-achieves-aws-industrial-software-competency-status-and-adds-new-aws-marketplace-offerings-in-operational-intelligence-and-mes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

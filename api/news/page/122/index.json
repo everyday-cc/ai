@@ -2,6 +2,298 @@
   "page": 122,
   "value": [
     {
+      "path": "_news/2022-06-21-iktos-and-zealand-pharma-to-develop-artificial-intelligence-technology-for-peptide-drug-design.md",
+      "title": "Iktos and Zealand Pharma to Develop Artificial Intelligence Technology for Peptide Drug Design",
+      "excerpt": "Iktos, a company specialized in Artificial Intelligence for new drug design, today announced a research collaboration with Zealand Pharma A/S (Nasdaq: ZEAL) (CVR-no. 20045078), a biotechnology company changing lives with innovative peptide-based medicines to co-develop generative and predictive AI technologies for peptide drug design.",
+      "sourceUrl": null,
+      "webUrl": "https://www.galvnews.com/news_ap/business/article_69e4dd9c-1bf2-5c73-b853-b8b34ad7d0ba.html",
+      "originalUrl": "https://www.galvnews.com/news_ap/business/article_69e4dd9c-1bf2-5c73-b853-b8b34ad7d0ba.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily News",
+        "domain": "galvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-incredible-moment-australian-soldiers-control-ghost-robots-with-their-minds-using-new-technology-designed-to-keep-hands-free-for-weapons.md",
+      "title": "Incredible moment Australian soldiers control 'ghost robots' with their MINDS using new technology designed to keep hands free for weapons",
+      "excerpt": "The technology allows soldiers to control the robots hands-free which is ideal ... visual concentration rather than having to clear your mind and have mindfulness.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-10936697/Australian-soldiers-control-ghost-robot-dogs-minds-using-new-UTS-technology.html",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-10936697/Australian-soldiers-control-ghost-robot-dogs-minds-using-new-UTS-technology.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/06/21/06/59323199-0-image-a-32_1655788844022.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-10936697/amp/Australian-soldiers-control-ghost-robot-dogs-minds-using-new-UTS-technology.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10936697/amp/Australian-soldiers-control-ghost-robot-dogs-minds-using-new-UTS-technology.html",
+      "publishedDateTime": "2022-06-21T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
+      "title": "AI & ML latest: Google disbands another AI ethics committee",
+      "excerpt": "Losing one AI ethics board might be unlucky, but two is surely careless given the ethical hot water the company has found itself in lately. 10/04/2019 EC lists seven requirements for ethical AI A ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
+      "originalUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.chitra.live/api/v1/wps/5203577/fc71aa65-4503-4367-899d-807e05b7c41c/2/google-logo-on-wall-370x229.jpg",
+          "width": 370,
+          "height": 229,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T23:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computing",
+        "domain": "computing.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022.md",
+      "title": "IBM Reveals New AI and Cloud Powered Fan Experiences for Wimbledon 2022",
+      "excerpt": "Kevin Farrar, Sports Partnership Leader, IBM UK & Ireland, said: \"The digital fan features on the Wimbledon app and Wimbledon.com, beautifully designed by the IBM iX team and powered by AI and ...",
+      "sourceUrl": null,
+      "webUrl": "https://fox8.com/business/press-releases/cision/20220621NY94532/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/",
+      "originalUrl": "https://fox8.com/business/press-releases/cision/20220621NY94532/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1843601/IBM_Wimbledon_2022.jpg",
+          "width": 400,
+          "height": 258,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T22:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX8 Cleveland",
+        "domain": "fox8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-aurrigo-heads-to-alnwick-for-self-driving-rural-first-for-the-uk.md",
+      "title": "Aurrigo heads to Alnwick for Self-driving rural first for the UK",
+      "excerpt": "Local residents enjoyed the opportunity to attend ‘The Great Self Driving Exploration’ on June 19 and 20, where they took a closer look at self-driving vehicles, asked questions and even enjoyed a ride. These trials are the first time that self-driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.themanufacturer.com/articles/aurrigo-heads-to-alnwick-for-self-driving-rural-first-for-the-uk/",
+      "originalUrl": "https://www.themanufacturer.com/articles/aurrigo-heads-to-alnwick-for-self-driving-rural-first-for-the-uk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2022/06/21005338/Alnwick-Group-PR.jpg",
+          "width": 1100,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manufacturing",
+        "domain": "themanufacturer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-recorded-future-announces-second-investment-in-cyber-threat-cognitive-intelligence-ctci.md",
+      "title": "Recorded Future Announces Second Investment in Cyber Threat Cognitive Intelligence (CTCI)",
+      "excerpt": "Bill Ladd, Chief Data Scientist, Recorded Future Combining cognitive reasoning and machine learning with intelligence lifecycle collection, CTCI curates and validates CVE data that threat actors ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/recorded-future-announces-second-investment-in-cyber-threat-cognitive-intelligence-ctci-1031538590",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/recorded-future-announces-second-investment-in-cyber-threat-cognitive-intelligence-ctci-1031538590",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T19:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-childhood-obesity-may-affect-cognitive-function-in-midlife-study-finds.md",
+      "title": "Childhood obesity may affect cognitive function in midlife, study finds",
+      "excerpt": "Photo (c) Md Saiful Islam Khan - Getty Images A new study conducted by researchers from Monash University explored how childhood obesity may impact consumers’ cognitive function as they go into ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.consumeraffairs.com/news/childhood-obesity-may-affect-cognitive-function-in-midlife-study-finds-062122.html",
+      "originalUrl": "https://www.consumeraffairs.com/news/childhood-obesity-may-affect-cognitive-function-in-midlife-study-finds-062122.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ConsumerAffairs",
+        "domain": "consumeraffairs.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-dataiku-11-top-features-that-will-accelerate-enterprise-ai-projects.md",
       "title": "Dataiku 11: Top features that will accelerate enterprise AI projects",
       "excerpt": "Daitaku 11 has more automation built in, the company says, to help their customers reduce busywork and make more of their AI investment.",
@@ -831,317 +1123,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-face-recognition-technology-market-is-expected-to-boom-daonkeylemontechno-brainibmidemiaanimetricsfacefirst-incnec.md",
-      "title": "Face Recognition Technology Market Is Expected to Boom | Daon,Keylemon,Techno Brain,IBM,Idemia,Animetrics,Facefirst Inc.,NEC",
-      "excerpt": "This report studies the Face Recognition Technology Market with many aspects of the industry like the market size, market status, market trends and forecast, the report also provides brief ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/face-recognition-technology-market-is-expected-to-boom-daonkeylemontechno-brainibmidemiaanimetricsfacefirst-inc-nec",
-      "originalUrl": "https://www.digitaljournal.com/pr/face-recognition-technology-market-is-expected-to-boom-daonkeylemontechno-brainibmidemiaanimetricsfacefirst-inc-nec",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/07/fd2d0e118ee44e7dcbd31e7041e5607454236d4d-1-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-20T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-samsung-ventures-eyes-israeli-ai-its-a-neureality.md",
-      "title": "Samsung Ventures Eyes Israeli AI, It’s A NeuReality",
-      "excerpt": "Israel is a smart young nation with a track record in showing determined focus and a steadfast belief in itself - but how did it get so AI smart? Part of the answer is down to a young motivated educated",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2022/06/20/samsung-ventures-eyes-israeli-ai-its-a-neureality/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2022/06/20/samsung-ventures-eyes-israeli-ai-its-a-neureality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62ae0929343782a40e8819d5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2022/06/20/samsung-ventures-eyes-israeli-ai-its-a-neureality/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2022/06/20/samsung-ventures-eyes-israeli-ai-its-a-neureality/amp/",
-      "publishedDateTime": "2022-06-20T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-how-artificial-intelligence-is-revolutionising-healthcare.md",
-      "title": "How Artificial Intelligence is revolutionising healthcare",
-      "excerpt": "Artificial Intelligence (AI) may never be able to adopt the comforting 'bedside manner' that good doctors are known for, but it may be better equipped to diagnose your ailments accurately.",
-      "sourceUrl": null,
-      "webUrl": "https://www.euronews.com/next/2022/06/20/how-artificial-intelligence-is-revolutionising-healthcare",
-      "originalUrl": "https://www.euronews.com/next/2022/06/20/how-artificial-intelligence-is-revolutionising-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.euronews.com/articles/stories/06/77/95/72/1000x563_cmsv2_318135f2-319f-5def-a5e6-ef3157a46aa7-6779572.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.euronews.com/next/amp/2022/06/20/how-artificial-intelligence-is-revolutionising-healthcare",
-      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/06/20/how-artificial-intelligence-is-revolutionising-healthcare",
-      "publishedDateTime": "2022-06-20T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euronews",
-        "domain": "euronews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-speech-recognition-software-market-is-booming-worldwide-with-ibm-dolbey-voxeo.md",
-      "title": "Speech Recognition Software Market Is Booming Worldwide with IBM, Dolbey, Voxeo",
-      "excerpt": "The latest study released on the Global Speech Recognition Software Market by AMA Research evaluates market size, trend, and forecast to 2027. The Speech Recognition Software market study covers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/speech-recognition-software-market-is-booming-worldwide-with-ibm-dolbey-voxeo",
-      "originalUrl": "https://www.digitaljournal.com/pr/speech-recognition-software-market-is-booming-worldwide-with-ibm-dolbey-voxeo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/Abortion-rights-supporters-AFP-1K-02-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-20T02:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-5g-and-ai-use-cases-how-5g-lifts-artificial-intelligence.md",
-      "title": "5G and AI use cases – how 5G lifts artificial intelligence",
-      "excerpt": "G and AI use cases. Next-generation cellular network will accelerate artificial intelligence but which business sectors will it affect most?",
-      "sourceUrl": null,
-      "webUrl": "https://www.information-age.com/5g-and-ai-use-cases-how-5g-lifts-artificial-intelligence-123499595/",
-      "originalUrl": "https://www.information-age.com/5g-and-ai-use-cases-how-5g-lifts-artificial-intelligence-123499595/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s27389.pcdn.co/wp-content/uploads/2022/06/5G-AI.jpeg.optimal.jpeg",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-20T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Information Age",
-        "domain": "information-age.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-could-low-latency-5g-boost-your-business.md",
-      "title": "Could low latency 5G boost your business?",
-      "excerpt": "Hypothetically, instant responses – those approaching the hallowed single millisecond mark, for example – would increase the effectiveness and dependability of driverless cars ... use cases – how 5G lifts artificial intelligence – 5G will unleash ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.information-age.com/could-low-latency-5g-boost-your-business-123499599/",
-      "originalUrl": "https://www.information-age.com/could-low-latency-5g-boost-your-business-123499599/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s27389.pcdn.co/wp-content/uploads/2022/06/low-latency.jpeg.optimal.jpeg",
-          "width": 1022,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-20T01:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Information Age",
-        "domain": "information-age.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-robotics-ai-innovation-is-the-way-forward.md",
-      "title": "Robotics & AI – Innovation is the way forward",
-      "excerpt": "The latest edition of ET UNWIRED in association with NTT DATA included Thomas Normark, Global Head of AI & Robotics, NTT DATA Business Solutions, Denmark, Vikas Desai, Chief Technology Off - Mediawire",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/information-tech/robotics-ai-innovation-is-the-way-forward/articleshow/92332665.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/information-tech/robotics-ai-innovation-is-the-way-forward/articleshow/92332665.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/msid-92332662,width-640,height-480,resizemode-7/unwired-ntt-28th-april-800-x-600.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/information-tech/robotics-ai-innovation-is-the-way-forward/amp_articleshow/92332665.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/robotics-ai-innovation-is-the-way-forward/amp_articleshow/92332665.cms",
-      "publishedDateTime": "2022-06-20T00:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

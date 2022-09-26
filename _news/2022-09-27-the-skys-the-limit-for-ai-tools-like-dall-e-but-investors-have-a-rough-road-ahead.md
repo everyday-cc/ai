@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-26T19:37:00Z
 originalUrl: "https://www.protocol.com/bulletins/generative-ai-image-startup-investors"
 webUrl: "https://www.protocol.com/bulletins/generative-ai-image-startup-investors"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Protocol

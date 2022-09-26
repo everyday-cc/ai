@@ -4,10 +4,10 @@
     {
       "path": "_news/2022-09-22-sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion.md",
       "title": "Sopra Steria and Algoan Strengthen Their Partnership to Accelerate Financial Inclusion",
-      "excerpt": "Sopra Steria, via Sopra Steria Ventures, has invested in Algoan, the leading French fintech in API-based credit scoring. Sopra Banking Software (SBS), a key technology partner to more than 1,500 finan",
+      "excerpt": "Sopra Steria, via Sopra Steria Ventures, has invested in Algoan, the leading French fintech in API-based credit scoring. Sopra Banking Software (SBS), a key technology partner to more than 1,500 financial institutions worldwide,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/b28955676/sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/b28955676/sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion",
+      "webUrl": "https://www.joplinglobe.com/region/national_business/sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion/article_ca936379-bf3b-5884-a8d3-a28733d33f12.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion/article_ca936379-bf3b-5884-a8d3-a28733d33f12.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -20,8 +20,8 @@
       "publishedDateTime": "2022-09-21T12:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -76,42 +76,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-wallaroo-labs-launches-in-azure-marketplace-announces-air-gap-support-for-edge-machine-learning-deployment.md",
-      "title": "Wallaroo Labs Launches in Azure Marketplace; Announces Air Gap Support for Edge Machine Learning Deployment",
-      "excerpt": "Wallaroo Labs today announced the availability of Wallaroo Enterprise Edition on Microsoft Azure Marketplace. Wallaroo's model operations platform for deploying, observing, and managing machine learning in production enables customers to easily operationalize ML Models with our purpose-built inference engine,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/09/21/9677902.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/09/21/9677902.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
       ]
     },
     {
@@ -1335,6 +1299,49 @@
         "AI in Robotics",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-09-05-how-can-emerging-technologies-boost-the-fintech-and-payments-ecosystem.md",
+      "title": "How Can Emerging Technologies Boost The Fintech And Payments Ecosystem?",
+      "excerpt": "FinTech has emerged as one of the biggest beneficiaries ... technologies like Artificial Intelligence (AI) and Machine Learning (ML) have become a household name. It was only a matter of time ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessworld.in/article/How-Can-Emerging-Technologies-Boost-The-Fintech-And-Payments-Ecosystem-/05-09-2022-445195/",
+      "originalUrl": "https://www.businessworld.in/article/How-Can-Emerging-Technologies-Boost-The-Fintech-And-Payments-Ecosystem-/05-09-2022-445195/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.businessworld.in/article/article_extra_large_image/1662370112_tIlbqV_tech_fintech.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Businessworld",
+        "domain": "businessworld.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     }
   ],

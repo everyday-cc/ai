@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-26T18:27:00Z
 originalUrl: "https://www.theguardian.com/us-news/2022/sep/26/whale-deaths-ship-prevention-ai"
 webUrl: "https://www.theguardian.com/us-news/2022/sep/26/whale-deaths-ship-prevention-ai"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: The Guardian
