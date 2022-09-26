@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "A Model Could Bridge The Gap Between Human Brain And AI"
+    excerpt: "A team of researchers at Mila and IVADO has developed a model of the human brain that could bridge the gap in understanding AI and the biological mechanisms underlying mental disorders The study of brain behavior based on cognition is still ongoing and researchers are trying to study the biological mechanisms that relate to neural"
+    publishedDateTime: 2022-09-21T11:11:00Z
+    webUrl: "https://www.electronicsforu.com/news/a-model-could-bridge-the-gap-between-human-brain-and-ai"
+    type: article
+    provider:
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 39
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2022/09/artificial-intelligence-g8d609af98_640-e1663757672716.jpg"
+        width: 500
+        height: 333
+        isCached: true
   - title: "AI-based screening method could boost speed of new drug discovery"
     excerpt: "Developing life-saving medicines can take billions of dollars and decades of time, but University of Central Florida researchers are aiming to speed up this process with a new artificial intelligence-based drug screening process they've developed."
     publishedDateTime: 2022-09-22T20:50:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-research-on-present-state-and-future-growth-prospects-of-key-players-forecast-by-2022-to-2027-2022-09-23"
 type: article
 quality: 50
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 11
+  - title: "Artificial Intelligence in Gaming Market Size | SWOT Analysis, Growth Factors, Top Key Players, Latest Trends, Industry Share and Forecast to 2028"
+    excerpt: "Global Artificial Intelligence in Gaming Market The global Artificial Intelligence in Gaming market size is projected to reach USD million by 2028, from USD million in 2021, at a CAGR of % during 2022-2028."
+    publishedDateTime: 2022-09-21T11:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-gaming-market-size-swot-analysis-growth-factors-top-key-players-latest-trends-industry-share-and-forecast-to-2028-2022-09-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 9
 
 secured: "2Mt6y0U6z0WLzWFChxPC9ItrmVzcWnS8FZxOBikRfwRt5yeBKg+PtF8vd34vLtXpFMAMcCHgJMkNDXVESEvnXxfFIGWQ7PvI13cq8vAjFVQlkdqIUd+1U6uL8oZ5bVeI1FElkz1QFWxqvUXvkaoJaO/1NMkN7EVg+F1wmpQuNVxuAN3T8WNdph8kUIdd0joY2t5xer5WBdAS8bsVHJNpAXemfkTHW/4MVzuf3p2okb84JQb4UGi5zs86ybh0qJt1OSHts5ML3RTwNnygNoxeBJQxE3l6Bp+uopbvRlB3LG9mOKQXL2oMT9rU0UV+gc5jLpdeie7ps5lDeMorgR6r093UNlOW0IMl1ARtJOIAsWE=;UonVImQnmzBZ0BuOB7/c6w=="
 ---

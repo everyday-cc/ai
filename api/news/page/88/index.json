@@ -2,6 +2,152 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2022-07-15-indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules.md",
+      "title": "Indian tech startups raise $6 billion in April-June quarter, Fintech rules",
+      "excerpt": "Sixteen large-ticket deals helped generate a total funding of $6 billion in the last quarter, as the number of deals dropped by 17 per cent quarter on quarter, according to the Quarterly Investment Factbook Tech Startups by Nasscon and PGA Labs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html",
+      "originalUrl": "https://www.business-standard.com/article/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/08/full/1644299309-0574.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html",
+      "publishedDateTime": "2022-07-15T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-15-top-10-data-lake-solution-vendors-in-2022.md",
+      "title": "Top 10 data lake solution vendors in 2022",
+      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! What is a data lake solution?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/15/top-10-data-lake-solution-vendors-in-2022/",
+      "originalUrl": "https://venturebeat.com/2022/07/15/top-10-data-lake-solution-vendors-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1303008895_data_lake-e1657840685488.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/15/top-10-data-lake-solution-vendors-in-2022/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/15/top-10-data-lake-solution-vendors-in-2022/amp/",
+      "publishedDateTime": "2022-07-15T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-15-malicious-ai-isnt-a-distant-reality-anymore.md",
+      "title": "Malicious AI Isn’t A Distant Reality Anymore",
+      "excerpt": "If AI can be so powerful in the hands of cybersecurity personnel governed by several legal and regulatory frameworks, imagine how devastating it could be at the disposal of state-sponsored attackers and cybercriminals on the loose.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/15/malicious-ai-isnt-a-distant-reality-anymore/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/15/malicious-ai-isnt-a-distant-reality-anymore/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f45103a6ac5c085ba57a9f5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/15/malicious-ai-isnt-a-distant-reality-anymore/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/15/malicious-ai-isnt-a-distant-reality-anymore/amp/",
+      "publishedDateTime": "2022-07-15T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-15-alums-from-googles-deepmind-want-to-bring-ai-energy-controls-to-industrial-giants.md",
       "title": "Alums From Google's DeepMind Want to Bring AI Energy Controls to Industrial Giants",
       "excerpt": "It’s relying on the same fix as their former company, DeepMind, Google’s research lab. For several years, DeepMind has let its AI system manage the temperature controls inside Google data centers, ultimately shaving huge chunks off the company’s el ...",
@@ -934,144 +1080,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-houston-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "Houston Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
-      "excerpt": "Perficient will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Houston will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-houston-artificial-intelligence-mark-cuban-6369ee9058848812542c4bf1afffcaee",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-houston-artificial-intelligence-mark-cuban-6369ee9058848812542c4bf1afffcaee",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-tempe-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "Tempe Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
-      "excerpt": "DriveTime will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Tempe will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-mark-cuban-985da84addeb06f744611758c370ede5",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-mark-cuban-985da84addeb06f744611758c370ede5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-black-americans-more-worried-by-police-use-of-facial-recognition-than-white-hispanic-americans-poll-finds.md",
-      "title": "Black Americans More Worried By Police Use Of Facial Recognition Than White, Hispanic Americans, Poll Finds",
-      "excerpt": "Only 22% of Black Americans say the use of facial recognition technology would lead to safer policing, significantly lower than the 36% of whites and 40% of Hispanics who believe so, according to a new Pew Research Center study,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/phoebeliu/2022/07/14/black-americans-more-worried-by-police-use-of-facial-recognition-than-white-hispanic-americans-poll-finds/",
-      "originalUrl": "https://www.forbes.com/sites/phoebeliu/2022/07/14/black-americans-more-worried-by-police-use-of-facial-recognition-than-white-hispanic-americans-poll-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d073374c8eda79ee9139ef/0x0.jpg?format=jpg&crop=796,448,x0,y0,safe&width=1200",
-          "width": 796,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/phoebeliu/2022/07/14/black-americans-more-worried-by-police-use-of-facial-recognition-than-white-hispanic-americans-poll-finds/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/phoebeliu/2022/07/14/black-americans-more-worried-by-police-use-of-facial-recognition-than-white-hispanic-americans-poll-finds/amp/",
-      "publishedDateTime": "2022-07-14T12:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

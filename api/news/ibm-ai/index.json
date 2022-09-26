@@ -2,27 +2,45 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-09-23-cmi-media-group-partners-with-ibm-watson-for-viiv-healthcare-marketing.md",
-      "title": "CMI Media Group partners with IBM Watson for ViiV Healthcare marketing",
-      "excerpt": "CMI used IBM Watson’s program alongside Lasso, an omnichannel platform, to achieve real-world measurement across programmatic channels for its campai",
+      "path": "_news/2022-09-21-lasso-and-cmi-media-group-announce-first-to-market-partnership-with-ibm-watson.md",
+      "title": "Lasso and CMI Media Group Announce First-To-Market Partnership with IBM Watson",
+      "excerpt": "Lasso and CMI Media Group Announce First-To-Market Partnership with IBM Watson Sep 21, 2022 (PRNewswire via COMTEX) -- PR Newswire AUSTIN, Texas, Sept.",
       "sourceUrl": null,
-      "webUrl": "https://www.mmm-online.com/home/channel/cmi-media-group-partners-with-ibm-watson-for-viiv-healthcare-marketing/",
-      "originalUrl": "https://www.mmm-online.com/home/channel/cmi-media-group-partners-with-ibm-watson-for-viiv-healthcare-marketing/",
+      "webUrl": "https://www.marketwatch.com/press-release/lasso-and-cmi-media-group-announce-first-to-market-partnership-with-ibm-watson-2022-09-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/lasso-and-cmi-media-group-announce-first-to-market-partnership-with-ibm-watson-2022-09-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 95,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T11:42:00-07:00",
+      "publishedDateTime": "2022-09-21T05:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MM&M",
-        "domain": "mmm-online.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -32,9 +50,7 @@
       ],
       "topics": [
         "IBM AI",
-        "AI",
-        "AI in Healthcare",
-        "AI in Marketing"
+        "AI"
       ]
     },
     {

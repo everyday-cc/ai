@@ -27,6 +27,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "A Model Could Bridge The Gap Between Human Brain And AI"
+    excerpt: "A team of researchers at Mila and IVADO has developed a model of the human brain that could bridge the gap in understanding AI and the biological mechanisms underlying mental disorders The study of brain behavior based on cognition is still ongoing and researchers are trying to study the biological mechanisms that relate to neural"
+    publishedDateTime: 2022-09-21T11:11:00Z
+    webUrl: "https://www.electronicsforu.com/news/a-model-could-bridge-the-gap-between-human-brain-and-ai"
+    type: article
+    provider:
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 39
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2022/09/artificial-intelligence-g8d609af98_640-e1663757672716.jpg"
+        width: 500
+        height: 333
+        isCached: true
 
 secured: "UuNoQmCWa9xiZKE7igcE66diSc4qgUkHc97dzrUEx1HbG7SVq8ey2ijI4HUF/cILXUGLXPL+TC1z4wuIjcrPQCihORscD4wgHZWWapFLIqV9Akx7EDElCHRIK6tByDUgclmHax6dv2rPCFNDr6gPXogT7kPjTsD4tT+w7EIJuhVD0cDpOc2fo9UcOC0WeCbQd5HK66oxqFyJFef1IU5B5GMwLGK0T/P3WPjy5gzJiwtLjkvtIhcDnzuDcxr5rKaEMRJNBe/KOVb7Jf00XrolfavvZiud0Drp8fa33Kj2M3dKuJu452hf48CHOSe9xHTw4Es4s4Mhs6J6nI/iS3kfTC5w4wxQRm+gjuHgZycC7PIpvp0qoSaPv7Ss1cnO3auvlLUC/faQGPf1Oxtz+z9STZ+vtq6lTknSKay5pNsrKbKnm4h1/knhSmVZGllrCA+CbTa0Kfu+mDRs3KdW5QDXtEH6Et7AXEwhWXyIW9VC/maGsUNg1gBVi7VicniOnsnsDXbN7dHXVsSx/j+yGojMxw==;TvkAf5JwLTanmbf6q0aaxg=="
 ---

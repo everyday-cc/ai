@@ -2,6 +2,58 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-06-03-california-regulators-approve-first-driverless-taxi-fleet-in-san-francisco.md",
+      "title": "California regulators approve first driverless taxi fleet in San Francisco",
+      "excerpt": "California regulators on Thursday gave a robotic taxi service the green light to begin charging passengers for driverless rides in San Francisco, a first in a state where dozens of companies have ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/california-regulators-approve-first-driverless-taxi-fleet-in-san-francisco-01654217344",
+      "originalUrl": "https://www.marketwatch.com/story/california-regulators-approve-first-driverless-taxi-fleet-in-san-francisco-01654217344",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-522029/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/california-regulators-approve-first-driverless-taxi-fleet-in-san-francisco-01654217344",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/california-regulators-approve-first-driverless-taxi-fleet-in-san-francisco-01654217344",
+      "publishedDateTime": "2022-06-02T18:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-gms-cruise-wins-first-california-permit-to-carry-paying-riders-in-driverless-cars.md",
       "title": "GM's Cruise wins first California permit to carry paying riders in driverless cars",
       "excerpt": "OAKLAND, Calif., June 2 (Reuters) - General Motors Co's (GM.N) Cruise on Thursday became the first company to secure a permit to charge for self-driving car rides in San Francisco, after it ...",
@@ -1284,40 +1336,6 @@
       "provider": {
         "name": "iHarare News",
         "domain": "iharare.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-tech-shares-lead-hk-market-higher-amid-hopes-for-better-china-us-ties.md",
-      "title": "Tech shares lead HK market higher amid hopes for better China-U.S. ties",
-      "excerpt": "Hong Kong stocks jumped nearly 3% on Friday, led by tech shares following forecast-beating results from Alibaba Group and Baidu, while comments by a U.S. official on relations with China were interpreted by some as positive. We apologize, but this video ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/business-pmn/tech-shares-lead-hk-market-higher-amid-hopes-for-better-china-u-s-ties",
-      "originalUrl": "https://financialpost.com/pmn/business-pmn/tech-shares-lead-hk-market-higher-amid-hopes-for-better-china-u-s-ties",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
         "images": null,
         "publishers": null,
         "authors": null

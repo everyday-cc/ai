@@ -2,6 +2,145 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2022-08-17-new-neuromorphic-chip-for-ai-on-the-edge-at-a-small-fraction-of-the-energy-and-size-of-todays-computing-platforms.md",
+      "title": "New neuromorphic chip for AI on the edge, at a small fraction of the energy and size of today's computing platforms",
+      "excerpt": "An international team of researchers has designed and built a chip that runs computations directly in memory and can run a wide variety of AI applications–all at a fraction of the energy consumed by computing platforms for general-purpose AI computing.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.html",
+      "originalUrl": "https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/a-new-neuromorphic-chi.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.amp",
+      "publishedDateTime": "2022-08-17T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-17-marketers-can-harness-the-of-power-machine-translation-to-localise-their-websites-and-multilingual-campaigns-says-weglot.md",
+      "title": "MARKETERS CAN HARNESS THE OF POWER MACHINE TRANSLATION TO LOCALISE THEIR WEBSITES AND MULTILINGUAL CAMPAIGNS SAYS WEGLOT",
+      "excerpt": "MARKETERS CAN HARNESS THE OF POWER MACHINE TRANSLATION TO LOCALISE THEIR WEBSITES AND MULTILINGUAL CAMPAIGNS SAYS WEGLOT Aug (PRNewswire via",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/marketers-can-harness-the-of-power-machine-translation-to-localise-their-websites-and-multilingual-campaigns-says-weglot-2022-08-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/marketers-can-harness-the-of-power-machine-translation-to-localise-their-websites-and-multilingual-campaigns-says-weglot-2022-08-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-17-best-practices-for-building-machine-learning-platforms-on-the-cloud.md",
+      "title": "Best practices for building machine learning platforms on the cloud",
+      "excerpt": "By combining cloud-native platforms with data at scale, companies can better advance and experiment with newer, more innovative products.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/best-practices-for-building-machine-learning-platforms-on-the-cloud/",
+      "originalUrl": "https://venturebeat.com/ai/best-practices-for-building-machine-learning-platforms-on-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1214403575.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/best-practices-for-building-machine-learning-platforms-on-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/best-practices-for-building-machine-learning-platforms-on-the-cloud/amp/",
+      "publishedDateTime": "2022-08-17T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-08-17-top-4-ai-based-face-recognition-applications.md",
       "title": "Top 4 AI-based Face Recognition Applications",
       "excerpt": "Besides mobile face recognition, voice recognition is also used to enhance security. The user’s voice and face work as a password and is like the biometric key to unlocking all the apps. AppLock amalgamates the speaker and face recognition technology to ...",
@@ -1043,135 +1182,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-lyft-to-offer-driverless-robotaxis-in-las-vegas.md",
-      "title": "Lyft to offer driverless robotaxis in Las Vegas",
-      "excerpt": "LAS VEGAS (KTNV) — Driverless robotic taxis right here in the valley! People on the Las Vegas Strip can now request a robotaxi. This could be \"the future of transportation!\" The rideshare app ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ktnv.com/traffic/lyft-to-offer-driverless-robotaxis-in-las-vegas",
-      "originalUrl": "https://www.ktnv.com/traffic/lyft-to-offer-driverless-robotaxis-in-las-vegas",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://x-default-stgec.uplynk.com/ausw/slices/194/b9cd621bb5cc43d8b6bdc641d1acdca8/19496f57e2094d34845fbe5aea18c001/poster_c04e269902e24bdba76b048409b602a5.png",
-          "width": 1165,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ktnv.com/traffic/lyft-to-offer-driverless-robotaxis-in-las-vegas?_amp=true",
-      "cdnAmpWebUrl": "https://www-ktnv-com.cdn.ampproject.org/c/s/www.ktnv.com/traffic/lyft-to-offer-driverless-robotaxis-in-las-vegas?_amp=true",
-      "publishedDateTime": "2022-08-16T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTNV Las Vegas",
-        "domain": "ktnv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-efficient-neuromorphic-ai-chip-neurorram.md",
-      "title": "Efficient Neuromorphic AI Chip: “NeuroRRAM”",
-      "excerpt": "energy efficiency that is two-times better than previous state-of-the-art RRAM-CIM chips across various computational bit-precisions, and inference accuracy comparable to software models quantized to four-bit weights across various AI tasks, including ...",
-      "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/efficient-neuromorphic-ai-chip-neurorram/",
-      "originalUrl": "https://semiengineering.com/efficient-neuromorphic-ai-chip-neurorram/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://semiengineering.com/wp-content/uploads/2017/09/iStock-463040647Neural.jpg",
-          "width": 683,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-white-paper-offers-ethics-advice-for-government-use-of-ai.md",
-      "title": "White Paper Offers Ethics Advice for Government Use of AI",
-      "excerpt": "Published by the University of California, Berkeley, the paper is titled AI’s Redress Problem, and it joins an accelerating, cross-sector conversation about how to ensure that ethics and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/products/white-paper-offers-ethics-advice-for-government-use-of-ai",
-      "originalUrl": "https://www.govtech.com/products/white-paper-offers-ethics-advice-for-government-use-of-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/a944807/2147483647/strip/true/crop/2511x1309+0+278/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F7a%2F88%2F0d5032534bcdb449cb7362e5f233%2Fshutterstock-1765484849.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/products/white-paper-offers-ethics-advice-for-government-use-of-ai?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/white-paper-offers-ethics-advice-for-government-use-of-ai?_amp=true",
-      "publishedDateTime": "2022-08-16T15:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

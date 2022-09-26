@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis-2022-09-21-91975832"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: MarketWatch
@@ -29,34 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "3D Facial Recognition Systems Market landscape, Top Competitor Analysis, Revenue, Sales With Forecast Data from 2022 to 2028"
-    excerpt: "The purpose of the research report is to provide a clear, accurate, and comprehensive report on the “ 3D Facial Recognition Systems market ”. It should help to clarify the research issues so that management can use the findings to make decisions."
-    publishedDateTime: 2022-09-21T09:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-systems-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-09-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "India Event-Based Vision Systems Market 2022 Analysis by Competition, Performance and Application till 2030"
-    excerpt: "Key Companies Covered in the India Event-Based Vision Systems Market Research are Prophesee, iniVation, Insightness, Qelzal, MindTrace, CelePixel, Sunia, Australian Institute of Technology, Samsung, Sony and other key market players."
-    publishedDateTime: 2022-09-22T10:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/india-event-based-vision-systems-market-2022-analysis-by-competition-performance-and-application-till-2030-2022-09-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing and Recognition Market Global Growth, Emerging Trends, Demand Status, Regional Overview and Share Analysis till 2028"
     excerpt: "Global Natural Language Processing and Recognition Market provides key analysis on the market status of the Natural Language Processing and Recognition with the best facts and figures, meaning, definition,"
     publishedDateTime: 2022-09-22T11:42:00Z
@@ -80,15 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 22
-  - title: "Artificial Intelligence in Gaming Market Size | SWOT Analysis, Growth Factors, Top Key Players, Latest Trends, Industry Share and Forecast to 2028"
-    excerpt: "Global Artificial Intelligence in Gaming Market The global Artificial Intelligence in Gaming market size is projected to reach USD million by 2028, from USD million in 2021, at a CAGR of % during 2022-2028."
-    publishedDateTime: 2022-09-21T11:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-gaming-market-size-swot-analysis-growth-factors-top-key-players-latest-trends-industry-share-and-forecast-to-2028-2022-09-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 9
 
 secured: "QBbp3Yv5QYOTrFCb/hZ7mlK4X7nWLgR4Eon0FmmYPzcMjnbzOdoMGZET9thJmP/LA77w5H6GqmqB2ZPUoUBuVXjgQHn2ieliD5L8H2Qh8eliqrP4+QJgvmmo++pELc1Bf/LuxGA0K7OXDwhms4aVKBkbk9jft3H90Pkh6NlwiZx7uRQ+JH/brV6d4OH2FgcgfulpfaBYEsozM19syIyalrF/KT3RkserE7wPN31aH/PMxon8vCMAnUA28l1Y/a3ThuLwR2NJXbVG1vMBN7rzmdNOA5EsOAa1/FcwcSXDxZ50OOdYo+ng7A9eOfDEqSdzvgp5J8Sj0vZ7uGwtVgBhkIHk5kFw7Pu4Xo1RYx+wmN0=;ZWMpbKvhIeQMHIjYduk5sQ=="
 ---
