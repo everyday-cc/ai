@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestar.com/amp/news/gta/2022/09/26/is-artificial-intell
 cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/gta/2022/09/26/is-artificial-intelligence-the-pill-that-health-care-needs.html"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 640
     height: 360
     isCached: true
+
+related:
+  - title: "Seven AI-Based Healthcare Apps That Save People"
+    excerpt: "Seven AI-Based Healthcare Apps That Save People. 2023 marks the 10th anniversary of IBM Watson, a digital tool to fight cancer. The launch of this program was the first-ever use o"
+    publishedDateTime: 2022-09-26T11:21:00Z
+    webUrl: "https://www.medgadget.com/2022/09/seven-ai-based-healthcare-apps-that-save-people.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 36
 
 secured: "3kpRWbXnNbfwXmx57vFLXIYsixSMZeaTiIAeh24vpund+/wMCuLYVdbf3qMQWjKI/XhE3d0ybY5HRpgy4uRivvUkuEoizbgHLerqW08UayQXBI++rEbP9jUDgBZng0ixXM97eJNPEkQO5f+TY+f+yj45Xcc0dK2ceMT9xW+EcctD8aO+iA4ZS0cauAtByT+oFdW0s3LqYrHm+AuQ0sHbpg7OzIGR5NJD996VnSZD2L2C+uu8TecxZJYK1H63hDQNJb5DdCutsXaAPv6SwJLF7Oo2kUYlQoJ5v0ReqIyeDwMZEIyvojtWo9RuWczjExUm222NJiQXgxGBu7rfxduTctkf8dGz45Uz37YqW+CPDNY=;OPGWCgCcR5nzyuE0IkV1qg=="
 ---

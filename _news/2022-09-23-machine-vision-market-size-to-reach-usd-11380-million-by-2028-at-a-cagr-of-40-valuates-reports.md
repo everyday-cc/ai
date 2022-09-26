@@ -51,6 +51,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "With 26.6% CAGR, Cognitive Computing Market Size worth USD 72.26 Billion in 2027"
+    excerpt: "The Cognitive Computing Market Size is expected to gain momentum by exhibiting a stellar CAGR of 26.6% between 2020 and 2027. This is attributable to the increasing"
+    publishedDateTime: 2022-09-26T11:16:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g29005672/with-26-6-cagr-cognitive-computing-market-size-worth-usd-72-26-billion-in-2027"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29005672"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29005672"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
   - title: "Machine Vision Market Size To Reach USD 11380 Million By 2028 At A CAGR of 4.0% - Valuates Reports"
     excerpt: "The global Machine Vision market size is projected to reach USD 11380 million by 2028, from USD 8374.8 million in 2021, at a CAGR of 4.0% during 2022-2028. Major Factors Driving T"
     publishedDateTime: 2022-09-23T18:06:00Z

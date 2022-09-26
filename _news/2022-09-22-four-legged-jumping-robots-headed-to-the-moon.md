@@ -24,17 +24,6 @@ images:
     height: 382
     isCached: true
 
-related:
-  - title: "Four-legged jumping robots to explore the moon"
-    excerpt: "A four-legged robot trained through artificial intelligence has learned the same lesson as the Apollo astronauts—that jumping can be the best way to move around on the surface the moon. An update on LEAP (Legged Exploration of the Aristarchus Plateau),"
-    publishedDateTime: 2022-09-21T18:24:00Z
-    webUrl: "https://phys.org/news/2022-09-four-legged-robots-explore-moon.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 19
-
 secured: "rd/M6BnCX563fHnFkBBauSOB0BAJLTmtpVK4yJHWcxzvsHXwHhB7MjWcUy/L/oNL7tFErNI0D4HUQr1Y5ab4sBQWW+X2PX0AsDYm29cSsPQfE0OsR/AEgfsfraDlWlgxa2IZFX/hvwJwZIUwRazTpjV99VEvcFsHW8/DcS9C2m5I9bTXIh8NWv2be0/y3+wPwp72RuAS2Gm/TegZqsouGUtPv17xH1fJ879UcKjgLX5zh5FWVmUQ2dGvnBYVJArgnT8Mw3/KGkNGOkMO6yqQl3SCzOEac7w5HU/ZyeL9Ihr3S5vAeA/AyYAxPssAUSDEldQH/XXRK4hGFhnasoGUPi7xt9qa9MmZ7jK5TwUuYJU=;C7LsZzbb1opeSsldX/qXZg=="
 ---
 

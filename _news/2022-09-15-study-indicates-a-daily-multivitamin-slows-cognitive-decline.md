@@ -2,16 +2,16 @@
 category: news
 title: "Study indicates a daily multivitamin slows cognitive decline"
 excerpt: "Findings recently published in the Alzheimer’s & Dementia: The Journal of the Alzheimer’s Association found that a daily multivitamin could improve cognitive function and physical health for ..."
-publishedDateTime: 2022-09-14T19:07:00Z
-originalUrl: "https://www.wtkr.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline"
-webUrl: "https://www.wtkr.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline"
-ampWebUrl: "https://www.wtkr.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline?_amp=true"
-cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline?_amp=true"
+publishedDateTime: 2022-09-14T19:05:00Z
+originalUrl: "https://www.wcpo.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline"
+webUrl: "https://www.wcpo.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline"
+ampWebUrl: "https://www.wcpo.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline?_amp=true"
+cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline?_amp=true"
 type: article
 
 provider:
-  name: WTKR
-  domain: wtkr.com
+  name: WCPO Cincinnati
+  domain: wcpo.com
 
 topics:
   - Microsoft AI
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "slS31fn/kt1Aa2rOMOJRU817pD3EE5GUdSCz8DOY/Pf5bsnNmvJiyiiksYJgbmgRTVplj4yVcq3XP4BvAUHUUK1nl+jwonHKQ7uJk+GsQDw/Hzw/JH04Rf9L+i1eWCGJTTQRu0BTVGpl+Ofc57B0kTjyzd8btbCirnzPEBBM3+UrJs2rCIGid3nJjj+GvHI9zitgUEGZHHD1GGGQLPsNxLNCZlLufXKdRn/6mdS3dy9d0FVqjF1EMZ/86YyY5zFrkMuVHp77H3rHU5Pgnfr5q7D0D+Ql0dP7A10+bPtFVzK3kHlXSa3Vhuvmzkre5hm/KpRnIBY5FPPzQIwKF+hNSNbR8UtNkjSX7l7UWpw+QJ0=;Be183ocgz1QpcGu+3dFPjQ=="
+secured: "3gbJPXmYPirHeJVvh7+vOLfX+GoaogGRXwyUe5PToa+Gp+qOC91UvZf1L+yART+CTXcGmJ+3zM0MJceono1kspMecvs0CsLV8qyOH2j/v1XjuhxIODJ4Cks+6K6/AJGroPbzsXAx8rmIeddTHMI1/DQUsaVWM1DyPFR9uA0F5o3mDAjxQohOOvf/YudY3BJoSWNnAK3e2BdBDW//vv0C9kxa+UIL4mCtTK7VIbCsqLwkWDmmzX3RjhL+4lWlTFEud16FWTWBc6sROAZBKaCFg2J2a/5fzb2/l++kgTa4/66gRhDL5IwrSc/liMypKIgP3Oba/miQh5kHtn9PIfwV/dYe2J5TyhrXW/y2zP2FCds=;AtxO/804zxLyMoVz+sSZSg=="
 ---
 

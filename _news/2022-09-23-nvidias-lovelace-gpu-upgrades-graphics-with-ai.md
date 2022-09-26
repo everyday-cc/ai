@@ -39,15 +39,6 @@ related:
         width: 1280
         height: 680
         isCached: true
-  - title: "Nvidia's Higher Gaming GPU Prices Raises Analyst Conviction. However, Some Remain Concerned Over Demand And China Ban"
-    excerpt: "BMO Capital analyst Ambrish Srivastava cut the price target on Nvidia to $210 from $230 but kept an Outperform. At a high level, Srivastava thought Nvidia's Fall event was a lot more packed than expected."
-    publishedDateTime: 2022-09-21T18:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-s-higher-gaming-gpu-prices-raises-analyst-conviction-however-some-remain-concerned-over-demand-and-china-ban-1031757541"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
   - title: "Nvidia launches all-new H100 Tensor Core GPU"
     excerpt: "Built on the Hopper architecture, the all-new Nvidia H100 Tensor Core GPU brings performance, functionality and AI compatibility to devices. Nvidia has recently launched its new H100 GPU. Based entirely on the Hopper architecture and featuring more than 8 ..."
     publishedDateTime: 2022-09-22T08:21:00Z

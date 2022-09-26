@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/why-ai-will-never-rule-the-w
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/why-ai-will-never-rule-the-world/?amp"
 type: article
 quality: 91
-heat: 112
+heat: 113
 published: true
 
 provider:

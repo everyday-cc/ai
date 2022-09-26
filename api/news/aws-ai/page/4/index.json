@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-17-aws-adds-coding-assistant-codewhisperer-to-lambda-console.md",
+      "title": "AWS Adds Coding Assistant CodeWhisperer to Lambda Console",
+      "excerpt": "AWS recently announced the preview of Amazon CodeWhisperer in the AWS Lambda console. Available as a native code suggestion feature in the code editor, the new functionality of the coding assistant ca",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2022/08/aws-lambda-codewhisperer/",
+      "originalUrl": "https://www.infoq.com/news/2022/08/aws-lambda-codewhisperer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2022/08/aws-lambda-codewhisperer/en/headerimage/generatedHeaderImage-1660375625903.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-announcing-the-launch-of-the-model-copy-feature-for-amazon-rekognition-custom-labels.md",
       "title": "Announcing the launch of the model copy feature for Amazon Rekognition Custom Labels",
       "excerpt": "Amazon Rekognition Custom Labels is a fully managed computer vision service that allows developers to build custom models to classify and identify objects in images that are specific and unique to your business. Rekognition Custom Labels doesn’t require you to have any prior computer vision expertise.",
@@ -1331,50 +1374,6 @@
         "AI",
         "Machine Learning",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-using-machine-learning-for-bushfire-prevention-in-australia.md",
-      "title": "Using machine learning for bushfire prevention in australia",
-      "excerpt": "Machine learning approaches are proactively mitigating the risk of bushfires caused by powerlines, ensuring the safe and regular supply of power to",
-      "sourceUrl": null,
-      "webUrl": "https://utilitymagazine.com.au/using-machine-learning-for-bushfire-prevention-in-australia/",
-      "originalUrl": "https://utilitymagazine.com.au/using-machine-learning-for-bushfire-prevention-in-australia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://utilitymagazine.com.au/wp-content/uploads/2022/07/Utility-5.png",
-          "width": 714,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "utilitymagazine.com.au",
-        "domain": "utilitymagazine.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

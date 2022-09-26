@@ -53,15 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Nvidia's Higher Gaming GPU Prices Raises Analyst Conviction. However, Some Remain Concerned Over Demand And China Ban"
-    excerpt: "BMO Capital analyst Ambrish Srivastava cut the price target on Nvidia to $210 from $230 but kept an Outperform. At a high level, Srivastava thought Nvidia's Fall event was a lot more packed than expected."
-    publishedDateTime: 2022-09-21T18:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-s-higher-gaming-gpu-prices-raises-analyst-conviction-however-some-remain-concerned-over-demand-and-china-ban-1031757541"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
   - title: "Supermicro Announces NVIDIA H100 GPU Systems"
     excerpt: "Super Micro Computer, Inc. (SMCI), a enterprise computing, GPUs, storage, networking solutions and green computing technology company, announced 20 NVIDIA-certified systems options with NVIDIA H100 PCI-E and NVIDIA H100 SXM GPUs,"
     publishedDateTime: 2022-09-21T19:21:00Z

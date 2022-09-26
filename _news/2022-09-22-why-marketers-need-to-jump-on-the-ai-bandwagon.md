@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/why-marketers-need-to-jump-on-the-ai-band
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-marketers-need-to-jump-on-the-ai-bandwagon/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-649813346-e1663856782735.jpg?w=1200&strip=all"
         width: 1200
         height: 679
-        isCached: true
-  - title: "HOW ARTIFICIAL INTELLIGENCE BOOSTS THE DIGITAL MARKETING SPHERE"
-    excerpt: "This article try to portray artificial intelligence's influence in digital marketing sphere. Importance of AI and the need to adopt it discussed."
-    publishedDateTime: 2022-09-22T06:05:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/positive-opinions/how-artificial-intelligence-boosts-the-digital-marketing-sphere-45110/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 56
-    images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
         isCached: true
 
 secured: "CNlEKlskq3adhhS230aS6QaSwFQUo+ahuT/wbwK3Srvq5kNzMdIYFVDetG87lBPEhVT97zXkH25zWAVFFHkooX6LjOuqtjjGO+1iBEhyosx2SquFRYW4s9BLwjCCp4Rno46pkmaOpxoMyUGmbaw1CozXn0d0/GVkVcLjLyd7AIHlgiQTgORoil+pUmJncp1sCJkl3TbbObVyeQTD6dJVkT2PngJkZEAImqvtNwm35b1sIl34FdTeSIyYgv/BORVGHPm/RACLIQWmwjmkzTj+1b/UxdVKNc8/j0PiEo0f9DD48LDVmDXMmOWBIKg6xogkHd9EEgGU70hDGSzXR6PAKrcUqMlQtkXBdmFK54kTWf2uKinc3p3O2oEiIpvrNOA23tl8plDaBcgC8tU/6mqi+32jHxo8evJLaeEzjXBZ6EyFp7qpLsuHgcAbs5X9n8BiA1q5hyiMTsXC7aNpD9NMANl5Q7v8X2ksNiQYgukt745xNHCk/yCtVFCieo4kQvZu9E5z9P7ifwoPPrjE67LnCw==;NukqkMYDH6TdcHo+h6uQJg=="

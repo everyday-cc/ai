@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/detect-population-va
 webUrl: "https://aws.amazon.com/blogs/machine-learning/detect-population-variance-of-endangered-species-using-amazon-rekognition/"
 type: article
 quality: 105
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2022/09/21/bernard-hermant-ihcshrzxfs4-unsplash.jpg?width=1200&height=800&fit=crop"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Automatic Speech Recognition Applications Market Key Player, Competition Weakness and Strengths from 2022 to 2028"
-    excerpt: "The goal of the \" Automatic Speech Recognition Applications market \" is to provide decision-makers with the up-to-date market knowledge and support sound investment assessments. The most important and insightful information about opportunities,"
-    publishedDateTime: 2022-09-21T19:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-applications-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-09-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Emotion Detection And Recognition Market Is Poised To Reach USD 53.2 Billion At A 39.20% CAGR By 2030 - Report By Market Research Future (MRFR)"
     excerpt: "The increasing adoption of emotion detection and recognition in the automotive industry will boost market growth over the forecast period. Technologies for emotion recognition and detection are in high demand in the automotive sector."

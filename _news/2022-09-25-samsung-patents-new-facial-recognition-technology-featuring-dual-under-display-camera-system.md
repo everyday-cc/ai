@@ -89,6 +89,22 @@ related:
         width: 1220
         height: 526
         isCached: true
+  - title: "Samsung patents a new facial recognition system for smartphones with a new dual under-display camera setup"
+    excerpt: "Samsung is working on a new facial recognition system that uses two under-the-display cameras and will be much harder to bypass or fool using masks or photographs."
+    publishedDateTime: 2022-09-26T11:31:00Z
+    webUrl: "https://www.firstpost.com/tech/news-analysis/samsung-has-patented-new-facial-recognition-system-that-uses-two-under-display-cameras-11335631.html"
+    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/samsung-has-patented-new-facial-recognition-system-that-uses-two-under-display-cameras-11335631.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/samsung-has-patented-new-facial-recognition-system-that-uses-two-under-display-cameras-11335631.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 41
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2022/09/Samsung-patents-a-new-facial-recognition-system-with-a-new-dual-under-display-camera-setup.jpg"
+        width: 640
+        height: 362
+        isCached: true
   - title: "Samsung phones may come with dual under-display cameras for facial recognition in the future: How it could work"
     excerpt: "South Korean tech giant Samsung is likely working on a camera system for facial recognition that involves two under-display cameras. According to GSMArena, it is described in a patent application Samsung filed with the KIPRIS (Korea Intellectual Property Rights Information Service) back in March 2021."
     publishedDateTime: 2022-09-25T10:13:00Z

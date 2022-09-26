@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Automatic Speech Recognition Applications Market Key Player, Competition Weakness and Strengths from 2022 to 2028"
-    excerpt: "The goal of the \" Automatic Speech Recognition Applications market \" is to provide decision-makers with the up-to-date market knowledge and support sound investment assessments. The most important and insightful information about opportunities,"
-    publishedDateTime: 2022-09-21T19:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-applications-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-09-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "8t2Sw1qV45upeeMrvdvG4OZ/qWb4/+h7K/ynWRO4f0oAJfbyo+9k2DsKmMvw//0mxmoV+4+CjDR++Jx6KM6mhcJnJw3ig8kEw1oth4ui6mUu+9Tq+/lhrV3HEi86LMe/i3CG8BKwgHdjZNrmn0UDH1S7wZOxvD2PxxXCT82nonAUWNhIoWtBxS/mfj9Oz/uQ+MiLMmG7xlGDtVCEKhyADj+1Tcomj0i7QmKc6YG+4zuX6OAoivFFR7a4cWfu50dKQttUnxQMnU/oBzXLuXsG27P3ZobOqBXcpb7vkkkWwg2yWs/hjiLHSkwcKP5eL9DKa78gzzQHRVbOZeeah5FCR7LTS/fRxC5OKZjFNozoJVU=;vgMA3S1W7dDjra20rr7QMA=="
 ---

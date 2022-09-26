@@ -26,38 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "Why marketers need to jump on the AI bandwagon"
-    excerpt: "Automations created by AI and ML present many business opportunities that marketers must start taking advantage of."
-    publishedDateTime: 2022-09-22T04:16:00Z
-    webUrl: "https://venturebeat.com/ai/why-marketers-need-to-jump-on-the-ai-bandwagon/"
-    ampWebUrl: "https://venturebeat.com/ai/why-marketers-need-to-jump-on-the-ai-bandwagon/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-marketers-need-to-jump-on-the-ai-bandwagon/amp/"
+  - title: "Closing The Gap Between Marketing And AI Systems"
+    excerpt: "Today, thanks to AI, even a small business can achieve great success through a global audience, democratizing this opportunity for those willing to work for it."
+    publishedDateTime: 2022-09-26T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 106
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1366444151-e1653509398576.jpg?fit=800%2C547&strip=all"
-        width: 800
-        height: 452
-        isCached: true
-  - title: "Why you need a digital champion to score AI wins"
-    excerpt: "Panelists at Digital Procurement World said making AI work with humans requires an internal digital champion to create a safe environment."
-    publishedDateTime: 2022-09-22T14:40:00Z
-    webUrl: "https://venturebeat.com/ai/why-you-need-a-digital-champion-to-score-ai-wins/"
-    ampWebUrl: "https://venturebeat.com/ai/why-you-need-a-digital-champion-to-score-ai-wins/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-you-need-a-digital-champion-to-score-ai-wins/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-649813346-e1663856782735.jpg?w=1200&strip=all"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6287969035c5da55f8c60506/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 679
+        height: 800
         isCached: true
+  - title: "A laughing robot and the possibilities of AI"
+    excerpt: "Letter: Yvonne Whalley remembers a play in which a robot develops at least one human trait"
+    publishedDateTime: 2022-09-23T15:33:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/sep/23/a-laughing-robot-and-the-possibilities-of-ai"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 34
 
 secured: "KUVSy3z6wj9Zvfs2K3AQ5NCLEUvF+gX0nB8B8yDmkicyk96GqTGa3v4KjDVSZC3DCKOi8fOlyIRv0OHTHjzGr/lUrnlxfz3rN0/Yx0v2lkwmtjHESy4RTPqieW88x77hGmHhN9ZaI5ApCN03RYYA/PnEzzY10odIQYTZdeFgRj67y0C2rnSKhkcEtRikQRhRQAi+LihwN1u0pn1m8UQ35eiJUb7b/HkBt7e+u4iqgK8BMWs2zG/ta88p6ejgVddemNRDZ/YNHevc/4aj2FLCf2cG6R0oGhOZUfRXEM07UfVfaBC9rG4EbrXqe+jYQm4XvVEAHDE0+wviLuM2GW4nPWNxiFqtt4691XtiEE4joOE=;UcEqmgJl4/GShsPfcMt5fQ=="
 ---
