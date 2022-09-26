@@ -51,29 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "NVIDIA (NVDA) Launches Ada Lovelace-Powered Gaming Chips"
-    excerpt: "During a keynote at the NVIDIA GTC conference on Tuesday, the company’s CEO, Jensen Huang, stated that the new Ada Lovelace architecture would be used in an upcoming new GeForce RTX 40 series graphics card — RTX 4090."
-    publishedDateTime: 2022-09-21T11:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/nvidia-nvda-launches-ada-lovelace-powered-gaming-chips"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
-  - title: "NVIDIA unveils latest GPU based on Ada Lovelace architecture"
-    excerpt: "NVIDIA has announced the NVIDIA RTX 6000 workstation GPU, based on its new NVIDIA Ada Lovelace architecture. The RTX 6000 Ada Generation GPU can deliver real-time rendering, graphics and AI, enabling designers and engineers to build and validate more sophisticated designs."
-    publishedDateTime: 2022-09-21T09:15:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/nvidia-unveils-latest-gpu-based-on-ada-lovelace-architecture"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 39
-    images:
-      - url: "https://www.newelectronics.co.uk/media/syeigo2n/nvidia-rtx-6000.jpg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Nvidia launches all-new H100 Tensor Core GPU"
     excerpt: "Built on the Hopper architecture, the all-new Nvidia H100 Tensor Core GPU brings performance, functionality and AI compatibility to devices. Nvidia has recently launched its new H100 GPU. Based entirely on the Hopper architecture and featuring more than 8 ..."
     publishedDateTime: 2022-09-22T08:21:00Z

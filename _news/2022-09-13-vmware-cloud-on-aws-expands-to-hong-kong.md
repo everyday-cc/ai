@@ -1,42 +1,26 @@
 ---
 category: news
 title: "VMware Cloud on AWS Expands to Hong Kong"
-excerpt: "HONG KONG SAR - Media OutReach - 13 September 2022 - Today, VMware announces VMware Cloud on AWS is now available in the Asia Pacific (Hong Kong) Region. This addition extends coverage of the service to 21 regions globally."
-publishedDateTime: 2022-09-13T09:15:00Z
-originalUrl: "https://www.asiaone.com/business/vmware-cloud-aws-expands-hong-kong"
-webUrl: "https://www.asiaone.com/business/vmware-cloud-aws-expands-hong-kong"
+excerpt: "HONG KONG SAR - Media OutReach - 13  2022 - Today, VMware announces VMware Cloud on AWS is now available in the Asia Pacific (Hong Kong) Region."
+publishedDateTime: 2022-09-13T01:15:00Z
+originalUrl: "https://www.macaubusiness.com/vmware-cloud-on-aws-expands-to-hong-kong/"
+webUrl: "https://www.macaubusiness.com/vmware-cloud-on-aws-expands-to-hong-kong/"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Macau Business
+  domain: macaubusiness.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://release.media-outreach.com/release.php/Images/278995/DSC00716.JPG"
-    width: 4240
-    height: 2759
+  - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2022/09/DSC00716-DdM9NR.jpeg"
+    width: 1210
+    height: 680
     isCached: true
 
-related:
-  - title: "VMware Cloud on AWS debuts in Hong Kong"
-    excerpt: "VMware has expanded its VMware Cloud on AWS service to Hong Kong following the launch of the Alibaba Cloud VMware Service in Greater China"
-    publishedDateTime: 2022-09-14T03:29:00Z
-    webUrl: "https://www.computerweekly.com/news/252524915/VMware-Cloud-on-AWS-debuts-in-Hong-Kong"
-    ampWebUrl: "https://www.computerweekly.com/news/252524915/VMware-Cloud-on-AWS-debuts-in-Hong-Kong?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252524915/VMware-Cloud-on-AWS-debuts-in-Hong-Kong?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
-
-secured: "dk/kh52iKkJbrDPrSu01cgHxziKaq1tjQ3TyCMlfl6LdrxI+b9IycgsmPQAY7U3z5tNUsKHc3RsV/3lHYuna9iE6vo3Ki/eyrILUjyJtcDp4narEhiheHfV0LmaC3lC/NBOJg7lX48wzhZrWLs7I7TBqlYEBABJrUlubfMQUEbIdSpAVEuHMc/dASch70bLQ/r2xgcZWz5L6bPGALIuQlxl7NI4Kpb1YNKCU8oC18ouo53qW4+jb+3T9mGqfG2HREGGTreTQ3OEFtTo9KYnau1O4OUaLVF+u8DIfXJ+hp8GnSAG0PTY8GouE5D0Lcrs8D9caCw1FQvbRVfceatI4n2w5K2d1KkG8iQgWgvVNRZ+aTsnDuqp+Brl3MGA8StpODqgk+oeeLt0hdaz0VoJG8jPBu36Rx3YNIIdsIIBz76B2T4SPhMmnhySgWcgDCShbLEuD8ZfjtAQOa4TETHeabGTSHTd0kFfz3PF0qQKK8e87QA3qxh2JaIVBZz+ol6z0LMfpbG63crwoBJeloGhJKg==;g77Kh6/UbmpBm/EInPHdew=="
+secured: "Jw+DTB5qhuXQq3TyZGvRd/fLdZgIKkqpW9ROa4006lVRLX0dnVTxgaF+3RlbASUAInSnqOCvxZpjmxu2bD7T5oxr+0aT48bpddKYd4apA3F6zvAkhjTO5bP/luJButNmGIdkhIMJxjoTbboIsfUf65hFp9+neUXqTwiJwn8naMX5QRh5INRrkyNWLicZbLqjz1kkewr8Gqy8jZB6x6219x2oVEfhdPkHtUqL+zjqmF08UCl5kHzegbMKppjhaIWZWn5f0K4KEX2MOjXaHfXqoYakoeGhS8fnr7+3oXACY7hHlZ+guFWM3CC3Z8QvWpjNFz4a/iLkmr1rWSuArMTCR+cGLhYnv+29XDh2G3ZTHZk=;CpvgBmQIRPOcb1KcV48TCQ=="
 ---
 

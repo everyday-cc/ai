@@ -19,20 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence In Medical Imaging Market Technology advancement and Latest Research Report, Quality & Quantity Analysis 2022-2027"
-    excerpt: "Global \"Artificial Intelligence In Medical Imaging Market\" reports provide valuable product, industry knowledge,"
-    publishedDateTime: 2022-09-21T10:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-technology-advancement-and-latest-research-report-quality-quantity-analysis-2022-2027-2022-09-21"
+  - title: "Automotive Artificial Intelligence Market Report 2022: Increasing Demand for Premium Vehicles Presents Opportunities"
+    excerpt: "The \"Automotive Artificial Intelligence Market by Offering, Technology (Deep Learning, Machine Learning, Computer Vision, Context-aware Computing and Natural Language"
+    publishedDateTime: 2022-09-23T20:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/n28995527/automotive-artificial-intelligence-market-report-2022-increasing-demand-for-premium-vehicles-prese"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28995527"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28995527"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 14
 
 secured: "r4G3QXEcr2ePYzj8OnnCh02iwg/TUPYgo2nVABmukxOWpOAMWNVOyTj0iXUe6aSxNBQCxFClZhw18+FaJNPCvm3C0HZoO/ccqOd0a8zFhDw1yHzJn9wrYEDinFV1uPZC8ZLtXzA2IluJwaw04thDkFCFtzGxwyvZ+XvVqYDhQFhfZlQ8buP97snV6P5a76xLZEksAgTOnhBcKT0WfkgNkYeNBrD7Af8nvDv6EmV30yMXCIMTje8jZVIvopsU5H2KdNfViAiIZ3EYQcvYb6YkKIPZcj4Q6Nv/J0SPS5lva5E8QAXhQYhx05u88RroVSb8ne3asNyrW7B6iz0THomy5z3XW1vDFtPAtjh4uzn5LIo=;rnhRGilgaTcxW3S+szIS/w=="
 ---

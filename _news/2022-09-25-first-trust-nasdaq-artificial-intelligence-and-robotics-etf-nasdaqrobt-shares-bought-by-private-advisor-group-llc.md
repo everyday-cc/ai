@@ -37,15 +37,6 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 20
-  - title: "Reviewing So-Young International (NASDAQ:SY) & Veritone (NASDAQ:VERI)"
-    excerpt: "So-Young International (NASDAQ:SY – Get Rating) and Veritone (NASDAQ:VERI – Get Rating) are both small-cap medical companies, but which is the superior business? We will compare the two businesses based on the strength of their valuation,"
-    publishedDateTime: 2022-09-21T10:36:00Z
-    webUrl: "https://www.defenseworld.net/2022/09/21/reviewing-so-young-international-nasdaqsy-veritone-nasdaqveri.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 4
 
 secured: "9KtTh4sWVhXtGk3p4M0X895EItijEmNicsSzzHPAvaGNMU/ZL84QyZxQ2/qkumga0ogW5Uw5SxC0+tD+L40y00150jzKHpV48u2kRpk3lk9m2YyXKjYtVjfSKzTodPJR6sbfwsECpP3a6nhZ7jqCMbrOgbGO49sO3lucy91I9TpOZicjxOJuXLDCFPKLD7/0J/W/jD5qO5wcjIeIlTzW0GnGaLQvWZg5rSp0hHLqrq4I7rIZ6AE095WDim9XfY1BkiUE6gB3UAN+V5CZdTybSa1WvfJlB1NTXOqLFnMqaA4fbv78rR0ORe8uW68HLKtwOwMyezR9oBah0iamw9/rmRIOqehir7je8xWGIRCYv3465abIYXdOUnCxMHSVwG/SST45/NfWP7SJA1ptMJu4GdCgT0pNHZNKpPl6f0isIwbx5Xg6x/tUXWkdak5RZ12w9tzZ2AzbzSV6T117QQTuIArLU9EH6WiFFtF8tWmzPiMHSW13uTCKNk4rMwo1n9uFwhHbWLVntT0me0nFpSRFeQ==;RRlnXVqgDc3oQ6c4z2U1FA=="
 ---

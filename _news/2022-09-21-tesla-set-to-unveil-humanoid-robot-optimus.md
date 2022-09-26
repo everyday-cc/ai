@@ -90,6 +90,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "ASX Tech Stocks: Tesla readies robot prototype Optimus for release at AI Day this month"
+    excerpt: "Tesla plans to release prototype humanoid robot at AI Day on Friday Micro-X nabs an extension on miniature baggage scanner deal with the US Department of Homeland Security Superloop picks up VostroNet,"
+    publishedDateTime: 2022-09-25T15:24:00Z
+    webUrl: "https://stockhead.com.au/tech/asx-tech-stocks-tesla-readies-robot-prototype-optimus-for-release-at-ai-day-this-month/"
+    ampWebUrl: "https://stockhead.com.au/tech/asx-tech-stocks-tesla-readies-robot-prototype-optimus-for-release-at-ai-day-this-month/?amp"
+    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/asx-tech-stocks-tesla-readies-robot-prototype-optimus-for-release-at-ai-day-this-month/?amp"
+    type: article
+    provider:
+      name: stockhead
+      domain: stockhead.com.au
+    quality: 83
+    images:
+      - url: "https://stockhead.com.au/wp-content/uploads/2022/09/GettyImages-526637039.jpg"
+        width: 2121
+        height: 1193
+        isCached: true
 
 secured: "i9wrHUdc/MR4OluI6nVSlnKFi/9P6yWHKqRT6KRTqwWvp2uPKD1MlBXNCKj5rnC6mQUlriY9wIUbPZhQX+wHA8w89ERMvfxX8SuEVMmmAmnmCN26OOeP+aS2oUXCn9WZHuwglq6H0Pm4xpGbgHMRHJWZU68EkFzWYParDRJYGM+rrUjVk4mZQDxi0taCKZWF0U9eqPoqyFxSXvHPpX8b+olHnMM6Z1uCZayBOleUSkhCYVpFO5GZrqmBhZ4peYIoOp0lkv7Jouc1TI7DF3YqQ/7+OH4mlf4BscN8y8I52gjjDNOWrnO9BlCjiLcP/EWJzRAl+7j/J1lHQEgB6xIRgH8BmOA9g0iet/TQMFaeq5Q=;/a6eNi8mbffzApbDAyxoZw=="
 ---

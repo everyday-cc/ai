@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2022/09/23/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/09/23/the-role-of-ai-in-sports-fan-engagement/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Forbes
@@ -30,21 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "The Role Of Explainable AI In Increasing Inclusion In Talent"
-    excerpt: "Abakar Saidov is co-founder and CEO of Beamery, a leader in talent lifecycle management. In the wake of the \" Great Reshuffle ,\" companies continue to reevaluate their approach to recruitment and retention."
-    publishedDateTime: 2022-09-21T10:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/21/the-role-of-explainable-ai-in-increasing-inclusion-in-talent/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/21/the-role-of-explainable-ai-in-increasing-inclusion-in-talent/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/21/the-role-of-explainable-ai-in-increasing-inclusion-in-talent/amp/"
+  - title: "Where the benefits of responsible AI emerge"
+    excerpt: "Constraints for AI programs abound, but recent research found tangible business benefits when implemented responsibly, including improved products and brand differentiation."
+    publishedDateTime: 2022-09-22T21:14:00Z
+    webUrl: "https://www.ciodive.com/news/enterprise-responsible-AI-program/632497/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6329b997b369a03f8d7b42bf/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.ciodive.com/imgproxy/_zCHwn-oIvdAiwFM-eGYtNYXbNuU0OfcXGsvv0ZnaVk/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEyOTczNjgxNTYuanBn.jpg"
+        width: 770
+        height: 364
         isCached: true
 
 secured: "aQppgWiWs7cIY9u/JRRVJn6snpFCeEjdD+8IwQIYtBzwyu1LEEu2ABGLQfOevuYSmI+9f6TRlPhenlV7SvUzbhTHrtMR2S3qt7sbGuNIdjBITPO3bmhsKaz/SjRbQKorhK2p+Qe2bwfwLKOMaVfky9JQ6VpeYebEX+Z4Qv6iuv5EQsWZBYjYzVJQTIWsug4qpfJFDsdi9btY5XxjF1nivcEAdLxSzmbdVJdqx6N7xErzsfLIOdmD8c0+los8nTk377djTro4whzlShYTjyC1JYJVQ3Ez/suaDQK6rwkJfDyKJOabGO5dK6r1hjgtFtQzv7RCBbjdv+an+xXaMHauNIyepfeXEuV2s7sPuUtJ8yi/5Rhxe7xYJWyyF0Cka4cPwoHE3uEZ5FPLmD60vjG0wCmDIGse4YvILSLwvpMJo3niY/3qKmIqRev32wm6KUyU5f7CrAgeeWPq+r8zN5RhhLfIWhHfdhTNjJCm4XvB7EUzBUjYNPQ0pT0slpgYsjhgEDlpDZgSOdSXsrf9kD7eEA==;yL5vJktGXBp5y3n/bkGqqg=="

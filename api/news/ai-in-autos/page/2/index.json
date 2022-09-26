@@ -827,20 +827,20 @@
     },
     {
       "path": "_news/2022-09-12-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch.md",
-      "title": "Truly Autonomous Cars May Be Impossible Without Helpful Human Touch",
-      "excerpt": "Autonomous vehicle (AV) startups have raised tens of billions of dollars based on promises to develop truly self-driving cars, but industry executives and experts say remote human supervisors may be needed permanently to help robot drivers in trouble.",
+      "title": "Truly autonomous cars may be impossible without helpful human touch",
+      "excerpt": "The central premise of autonomous vehicles — that computers and artificial intelligence will dramatically ... An operator controls a Fetch driverless car from the office of Imperium Drive ...",
       "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/truly-autonomous-cars-may-impossible-without-helpful-human-touch-3611808",
-      "originalUrl": "https://www.ibtimes.com/truly-autonomous-cars-may-impossible-without-helpful-human-touch-3611808",
+      "webUrl": "https://www.dawn.com/news/1709723",
+      "originalUrl": "https://www.dawn.com/news/1709723",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d.ibtimes.com/en/full/3815976/operator-controls-fetch-driverless-car-during-driverless-car-trials-milton-keynes.jpg",
-          "width": 1200,
-          "height": 658,
+          "url": "https://i.dawn.com/large/2022/09/12151924f71b6ff.jpg?r=152506",
+          "width": 800,
+          "height": 480,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -850,11 +850,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-11T23:48:00-07:00",
+      "publishedDateTime": "2022-09-12T03:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
+        "name": "Dawn",
+        "domain": "dawn.com",
         "images": null,
         "publishers": null,
         "authors": null

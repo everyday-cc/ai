@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 812
         isCached: true
+  - title: "I used OpenAI’s new tech to transcribe audio right on my laptop"
+    excerpt: "Sterne admitted that tech from Apple and Google could make Stage Whisper obsolete within a few years — the Pixel’s voice recorder app has been able to do offline transcriptions for years ..."
+    publishedDateTime: 2022-09-23T21:38:00Z
+    webUrl: "https://www.theverge.com/2022/9/23/23367296/openai-whisper-transcription-speech-recognition-open-source"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 84
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/pmRwbnxGrmqhMNxQ0L04Fh3GBS4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23954046/VRG_Illo_STK427_K_Radtke_Getty_Mics.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Whisper, an open-source multilingual speech recognition system, is released by OpenAI"
     excerpt: "Whisper, an automatic speech recognition system, was open-sourced by OpenAI today as an attempt to address this problem. The company claims that Whisper can perform “robust” transcription in multiple languages and translation from those languages into English."
     publishedDateTime: 2022-09-21T20:02:00Z

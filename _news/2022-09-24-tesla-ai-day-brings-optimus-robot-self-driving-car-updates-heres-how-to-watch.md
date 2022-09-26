@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ai-day-brings-optimus-rob
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/"
 type: article
 quality: 118
-heat: 158
+heat: 168
 published: true
 
 provider:
@@ -80,6 +80,22 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-AI-Day-2022-invite.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "ASX Tech Stocks: Tesla readies robot prototype Optimus for release at AI Day this month"
+    excerpt: "Tesla plans to release prototype humanoid robot at AI Day on Friday Micro-X nabs an extension on miniature baggage scanner deal with the US Department of Homeland Security Superloop picks up VostroNet,"
+    publishedDateTime: 2022-09-25T15:24:00Z
+    webUrl: "https://stockhead.com.au/tech/asx-tech-stocks-tesla-readies-robot-prototype-optimus-for-release-at-ai-day-this-month/"
+    ampWebUrl: "https://stockhead.com.au/tech/asx-tech-stocks-tesla-readies-robot-prototype-optimus-for-release-at-ai-day-this-month/?amp"
+    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/asx-tech-stocks-tesla-readies-robot-prototype-optimus-for-release-at-ai-day-this-month/?amp"
+    type: article
+    provider:
+      name: stockhead
+      domain: stockhead.com.au
+    quality: 83
+    images:
+      - url: "https://stockhead.com.au/wp-content/uploads/2022/09/GettyImages-526637039.jpg"
+        width: 2121
+        height: 1193
         isCached: true
   - title: "Tesla set to unveil humanoid robot Optimus"
     excerpt: "Tesla is preparing to unveil an AI-powered humanoid robot that it hopes ... the Autobots in the Transformers series. Production could start next year, Mr Musk said. Tesla faces scepticism that ..."

@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Responsible AI is a top management concern, so why aren’t organizations deploying it?"
-    excerpt: "Factors working against the adoption of responsible AI include a lack of agreement on what 'responsible AI' means along with a lack of talent, prioritization, and funding."
-    publishedDateTime: 2022-09-21T19:15:00Z
-    webUrl: "https://venturebeat.com/ai/responsible-ai-is-a-top-management-concern-so-why-arent-organizations-deploying-it/"
-    ampWebUrl: "https://venturebeat.com/ai/responsible-ai-is-a-top-management-concern-so-why-arent-organizations-deploying-it/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/responsible-ai-is-a-top-management-concern-so-why-arent-organizations-deploying-it/amp/"
+  - title: "The Role Of AI In Sports Fan Engagement"
+    excerpt: "Scouts had been using the same processes since these sports began. No one understood these new methods, and many felt threatened by them. Expected goals (xG) in soccer was another metric people didn’t understand at first but that is now widely embraced."
+    publishedDateTime: 2022-09-23T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2022/09/23/the-role-of-ai-in-sports-fan-engagement/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2022/09/23/the-role-of-ai-in-sports-fan-engagement/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/09/23/the-role-of-ai-in-sports-fan-engagement/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/How-the-responsible-use-of-AI-can-create-a-better-health-system-01.jpg?w=1200&strip=all"
-        width: 600
-        height: 299
+      - url: "https://imageio.forbes.com/specials-images/imageserve/619cdb4597a22d4d02166969/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 737
         isCached: true
 
 secured: "0d6KkDEAllq2T1RqXsfH4lQqKwT7Rkv/JtZZYTS/x+1j6y/crXgT2UOfiuDbfYCSRSx6DBXdSdESoA634/d89HColmaDaD3Eq/UnHTF/KwQum5CDxdhnn2YAubN6XyWqJnkx65H3BiUYeb4OaIG/x0ZOm9fxo7h7MW8Ju3odbe2KuRFb7cKnWbQ+iKa/in/giKaIQC05VaWiK3yNHI//FNMDYZtCAWODdnmhoO5PZ1ncCRr9rTKgSNKJC8vt2Qs9XnxT/wkwc71ihiw+ZweuW0ovvtFWBWF2cSid0ldtjxqfC6pLdFnuYl4llde6Cuei1Bu0knXinhj5yUeSYpMDIY1UQs5D1vQI2YXeejaamx4Flp+wLYQH+Uf6iT9zNWUTyKo471gb43kR1nhRUTl28gjIGiekinGY3R61Nvxj0FW1ZRDQ694LLMKcoK7/vshPQJybqPdvBeNRYfXVstPudqpqSw3H4n3nT9VbDvTUPCqKwt2IthNueLrUPe5CyURJUVJBiujf70IOatYK07wVug==;EX0nkOGkKe90KJJXgDn04A=="

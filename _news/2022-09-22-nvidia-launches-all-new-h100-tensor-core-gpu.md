@@ -53,15 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "NVIDIA (NVDA) Launches Ada Lovelace-Powered Gaming Chips"
-    excerpt: "During a keynote at the NVIDIA GTC conference on Tuesday, the company’s CEO, Jensen Huang, stated that the new Ada Lovelace architecture would be used in an upcoming new GeForce RTX 40 series graphics card — RTX 4090."
-    publishedDateTime: 2022-09-21T11:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/nvidia-nvda-launches-ada-lovelace-powered-gaming-chips"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "Nvidia's Higher Gaming GPU Prices Raises Analyst Conviction. However, Some Remain Concerned Over Demand And China Ban"
     excerpt: "BMO Capital analyst Ambrish Srivastava cut the price target on Nvidia to $210 from $230 but kept an Outperform. At a high level, Srivastava thought Nvidia's Fall event was a lot more packed than expected."
     publishedDateTime: 2022-09-21T18:36:00Z
@@ -71,20 +62,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 41
-  - title: "NVIDIA unveils latest GPU based on Ada Lovelace architecture"
-    excerpt: "NVIDIA has announced the NVIDIA RTX 6000 workstation GPU, based on its new NVIDIA Ada Lovelace architecture. The RTX 6000 Ada Generation GPU can deliver real-time rendering, graphics and AI, enabling designers and engineers to build and validate more sophisticated designs."
-    publishedDateTime: 2022-09-21T09:15:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/nvidia-unveils-latest-gpu-based-on-ada-lovelace-architecture"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 39
-    images:
-      - url: "https://www.newelectronics.co.uk/media/syeigo2n/nvidia-rtx-6000.jpg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Supermicro Announces NVIDIA H100 GPU Systems"
     excerpt: "Super Micro Computer, Inc. (SMCI), a enterprise computing, GPUs, storage, networking solutions and green computing technology company, announced 20 NVIDIA-certified systems options with NVIDIA H100 PCI-E and NVIDIA H100 SXM GPUs,"
     publishedDateTime: 2022-09-21T19:21:00Z

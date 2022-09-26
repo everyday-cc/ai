@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/education-2/unesco-ai-education-rep
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/unesco-ai-education-report-state-of-the-education-report-for-india-artificial-intelligence-edtech/2684220/lite/"
 type: article
 quality: 77
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: The Financial Express
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "UNESCO urges government to consider ethics of AI in education as an absolute priority"
-    excerpt: "The report analysed that the AI market in India has the potential to touch INR 780 crores by 2025 at a compound annual growth rate (CAGR) of 20.2% A report by the United Nations Educational, Scientific and Cultural Organisation (UNESCO) launched in Delhi on Tuesday encouraged an overall regulatory framework for use of artificial intelligence (AI) tools in education."
-    publishedDateTime: 2022-09-21T09:48:00Z
-    webUrl: "https://www.telegraphindia.com/edugraph/news/unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority/cid/1887943"
-    ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/news/unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority/cid/1887943"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/news/unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority/cid/1887943"
-    type: article
-    provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 84
-    images:
-      - url: "https://assets.telegraphindia.com/telegraph/2022/Sep/1663753381_unesco.png"
-        width: 2560
-        height: 1907
-        isCached: true
   - title: "Resource, infrastructure crunch impact AI expansion in India's education sector: UNESCO report"
     excerpt: "The report bizarrely claimed that the high pupil-teacher ratios and lack of professionally qualified teachers in the Indian education sector might be addressed by AI-powered tools."
     publishedDateTime: 2022-09-22T09:44:00Z
