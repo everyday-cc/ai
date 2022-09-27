@@ -2,29 +2,20 @@
 category: news
 title: "AI Dynamics and PETTIGREW Medical Announce Joint Venture that Applies Advanced Machine Learning to Accelerate Automation of Medical Record Coding"
 excerpt: "AI Dynamics and PETTIGREW Medical announced today the formation of a joint venture, with the working name mAIcode, designed to accelerate the automation of medical record coding by applying advanced machine learning."
-publishedDateTime: 2022-09-13T13:07:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-joint-ventures-artificial-intelligence-16e5fd65013824c6c9391cb47971ce5b"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-joint-ventures-artificial-intelligence-16e5fd65013824c6c9391cb47971ce5b"
+publishedDateTime: 2022-09-13T14:36:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/09/13/9672387.htm"
+webUrl: "https://it.tmcnet.com/news/2022/09/13/9672387.htm"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Machine Learning
-  - AI
   - AI in Finance
+  - AI
+  - Machine Learning
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "0hKIMrZTiqxFs4S4X3k3ia6xP5gFlgtxjwHMPqh4SSTk1ewKS1SUtz4pGHRBH5PzQLunWDrK8n9hbgFg163LNZr/nuAqpzFeqV+ZOgdCc1yqUqKq3bVE+ov334nlEwilNrdiLPAsS/bKxuNi3hS8vXJGFVLQQCzlzAomhGTlogIi4ctzgOrvvtWT7IdKfeNF/Wf9GJRuE5rzj4vjN/4TlpmbiKzhcuV4QZMzNJeVhHt1yn79PJT1bzPIGyiWlBMetEzZkdxHFSSf/giXkoU1wQEBhCi6vht09i51wDgNENZ1JWLmRoJ9mzIoUDMplBhyTZRH2lOIUSXvxgtfDssWdwWIqqFpv+p5WCmowut3AH8=;hwWFozArPCltnfD19JiCjg=="
+secured: "9JamddnsrfYe1nBGoVorMeCeohQEm6ksrJ3rSTWCgGPUtEoJW64Z8HiKSP5z48+OAh9WnI6C0bTb6LFqjhkf87VNxn6QhqnAH8XreXgnqMmrn5aTSCNUbmQM002aeyzNfkhHqESQFEgtd6+v72jkz/w0omrpggJnh43m+i4d/VoIFwbqaVpB28gS28LpnQIRRbC5W3GJojNI8hvaVngQrAQDV9mJxpPcrhtciq2pqArIJM8PpROAb5NNtulFNXzdj7XhJx9QfCXdsj+ZFtdV23qjRqTIWxpzOTWkZ9xDoTOwrHGKEmhovlWykdlcNArmKpY64txOLWQfeEU7HNXQe67JP0jUDzpddl/YmQC/TH8=;bR4E/nW4xWmVXbOIdlCRqw=="
 ---
 

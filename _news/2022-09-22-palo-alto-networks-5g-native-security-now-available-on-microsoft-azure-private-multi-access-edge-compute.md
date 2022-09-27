@@ -1,55 +1,25 @@
 ---
 category: news
 title: "Palo Alto Networks 5G-Native Security Now Available on Microsoft Azure Private Multi-Access Edge Compute"
-excerpt: "PRNewswire/ — Palo Alto Networks (NASDAQ: PANW), a Microsoft Azure private MEC ecosystem partner, today announced availability of VM-Series Virtual Next-Generation Firewall (NGFW) technology on the Azure Marketplace."
-publishedDateTime: 2022-09-22T13:44:00Z
-originalUrl: "https://www.darkreading.com/cloud/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute"
-webUrl: "https://www.darkreading.com/cloud/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute"
+excerpt: "Palo Alto Networks 5G-Native Security Now Available on Microsoft Azure Private Multi-Access Edge Compute Sep 22, 2022 (PRNewswire via COMTEX) -- PR"
+publishedDateTime: 2022-09-22T12:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute-2022-09-22"
+webUrl: "https://www.marketwatch.com/press-release/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute-2022-09-22"
 type: article
-quality: 69
-heat: 89
-published: true
 
 provider:
-  name: Dark Reading
-  domain: darkreading.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
   - AI in Security
 
-images:
-  - url: "https://beta.darkreading.com/images/og-image.jpg"
-    width: 342
-    height: 342
-    isCached: true
-
-related:
-  - title: "Palo Alto Networks 5G-Native Security Now Available on Microsoft Azure Private Multi-Access Edge Compute"
-    excerpt: "Palo Alto Networks (NASDAQ: PANW), a Microsoft Azure private MEC ecosystem partner, today announced availability of VM-Series Virtual Next-Generation Firewall (NGFW) technology on the Azure Marketplace."
-    publishedDateTime: 2022-09-22T18:14:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/22/9678904.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 49
-  - title: "Palo Alto Networks Unveils Virtual Next-Gen Firewall on Azure Marketplace"
-    excerpt: "Palo Alto Networks, a Microsoft Azure private MEC ecosystem partner, announced availability of VM-Series Virtual Next-Generation Firewall (NGFW) technology on the Azure Marketplace . Delivering end-to-end Zero Trust security at the enterprise edge,"
-    publishedDateTime: 2022-09-27T01:28:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/27771-palo-alto-networks-unveils-virtual-next-gen-firewall-on-azure-marketplace"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 38
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/d8dad049a0b986f9a5fc5f33d431d4c9.jpg?t=20220927_012548"
-        width: 752
-        height: 408
-        isCached: true
-
-secured: "JPWAOn2ZhGVpHMk1dBmU+kkRkS/HA8CCtEum0BT3sFXsxD04smpG3lqd7JBlT2JwQrgAANthGloHiJTFxe3PcgdXomCMj/h8tWRcmJ6GEmymKU+QGADr9iVPgX5MOzWG7a5Mi97xGk4bEpCoYUiLLEYJ+sxTtpLvKHmDkSaLQ6vVr+rCWfoVx32ulLDGukemtQwbDO2uVL7uYuFlp5jWPpqF7T5cUST1yAeAFw0xYGP1Ww4UMANJygq+jTslbdpny6JzUCcefGgnrs+zhFk4aLyLOET1SYBwZ5KKf3eHfF53BE02FOUrxPsrFsw/4iNe9CB1U0kgT48r+arM5Z7bW19ZVCyZyRnH70Bg1oIbUGY=;BYZVAWt0eXOCehikTJrcgQ=="
+secured: "jfmi9c65j8MNbIKPjyuDiJfZTR3jUjchdiJr6DTkccpoXLeUyOo/iWf6lXXKiZzdu07iMsAI2BXdPFzCLFphmvENDernRiYyOypiOroLdUE9Xf1mkiUtMkonz3eajV9lmSabK4pO7lZv7iKwDmQAvu06LMzm/Z56wzZOpmtoLMBUf78ivVC8V+s0GnksnluozDUaKWVi8b+meKJ6sFkgQvzaJN/CsbC+WAB4UbWWcfL5yUCC/aMUrmnqqwDn3CuCKtfG3XiMcDlTadvrQUhdlfEeVFvyP+B/uCeppuZiZpjPdDEIaMNr2gAkFvLEI+XejsaS/+5db5LgaDfKyKolV3pDmdBL7bhkXF3M2V4ECSI=;fRMBCMEBI9Y8BxhNGtEoqQ=="
 ---
 

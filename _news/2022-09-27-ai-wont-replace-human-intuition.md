@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6331ac26332d12458fdd5380/0x0.jpg?format=jpg&width=1200"
@@ -47,6 +48,6 @@ related:
         height: 600
         isCached: true
 
-secured: "ZQ1M/XTX4HWzMkosnjNo2j6ncOg+oIQlQFLgfknATromXY2vE0C2v9/UjNwLYWPzEz6fsmzEWIWkvZfDIG20HU7aFmG9n5IXQ6IzGlsR2DWyI42eE5D9wyuH2FEIUFWhVVKgakKXTL25Rt6EPN+nBNtn6EU3dSQOnPur8xpAcDHp0DSi+/1fo4MTVo1DU/MdOBla4Uo2C0SB+H1wVfe9IVNUYWqdA5kBTmyrl9PDwcXfKOi4VaqIRtc+ew7pV+WfOQ2AgZaMHl660z9MJ3xK5sgUR2h7sAh5b8KD98/w/BBW6humRmnZWh6CTEUz8yKbILQD8V1HJs8NXvLkIkzyD2I9ygZhK8J50mf3Eh5sx80=;RhCqgIAFrEy+k4YcHZj4cA=="
+secured: "vsIAxHhLNoTa4AtQdjaKnVcHns1I1bzdH7zOj9R2U/gESJJDDRnqFYrSzcaDU1dYMMELtqJpe7CkQ8sEnAXK35sKqPlXZ5jbLHYR1FUMP497y5B++PxfOxaU4cry48NnLj5WwgnrrfrQ172TAPtrBJOT/BxaHIZNCq8ECG2NSfE1n7LV/gO+1NQOrPmNfMmZVd/WFgrOxvKjppw8js+0YFXQJrwTmyHpRgC6kEqRDVMw0dcGhNNQQ3Z9Ja+yZHB1EI9M6WJRgT/2S7ceoCYeDX8xTtJLncYT0UhZbJtxQeW8YvwjqIREBMNgGGHbf/Nvw//aMZWFhWZASEECuk2+BQnVA4vEWjN4Uyb1E6KBwCvsiv/8TGeZxlAQrpYWfZ6rK5vqw5FsnGKSD0/MSaJ0t8CglT8PDxv8/pNU1+ZsBarmcPSKaXkrz74mN61exGAdoI3BK7HiqH2KdBNddCCWL2FAIDNcaqMEbCjA+kgaLK89WhIw8PMTwfjKV4/jGUryNKvUqtIdlF5WYb95zsQbsw==;+zP9lEKxud0B2CAAYvoDZA=="
 ---
 

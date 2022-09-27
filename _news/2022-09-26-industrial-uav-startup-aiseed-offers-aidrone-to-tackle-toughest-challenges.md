@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://img.digitimes.com/newsshow/20220925vl202_files/1_2b.jpg"

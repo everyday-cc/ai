@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - IBM AI
 
 images:
   - url: "https://g.foolcdn.com/editorial/images/702195/robot-star-background.jpg"

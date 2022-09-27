@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Sensormatic Solutions by Johnson Controls Expands Its Computer Vision Offering to Address Retail’s Most Pressing Challenges"
-excerpt: "Johnson Controls brand Sensormatic Solutions’ innovative technology architecture offers flexible, computer vision-powered analytics to facilitate"
-publishedDateTime: 2022-09-15T08:17:00Z
-originalUrl: "https://www.01net.it/sensormatic-solutions-by-johnson-controls-expands-its-computer-vision-offering-to-address-retails-most-pressing-challenges/"
-webUrl: "https://www.01net.it/sensormatic-solutions-by-johnson-controls-expands-its-computer-vision-offering-to-address-retails-most-pressing-challenges/"
+excerpt: "Sensormatic Solutions, the leading global retail solutions portfolio of Johnson Controls, has expanded its computer vision analytics offering, which focuses on driving sales, reducing risk and enhancing the shopper experience. The company’s computer ..."
+publishedDateTime: 2022-09-15T08:03:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-89036b868d68454192a27bea59be0a02"
+webUrl: "https://apnews.com/press-release/business-wire/technology-89036b868d68454192a27bea59be0a02"
 type: article
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "99fUQfnDumtX4vhxuvNDjVv7Zd3ymXIbRV4QjIG3L8JMVBklu0rl4Rdc0khq47Ld29Y9t0MihZRATGMpQTdZv+h9V/RagrDAOPy6ShH3MvT24Q4j0pHUDtSjAhwSEf3JwUZ60SdvxyMi2SiH8kfZZhTrAa+8cC7zWngggKYD4k7mRO2B3UmE4fcx0Izt9JcdYG4ZfT59tVMFLj+A373LQ9lhHvD3Ni+QDFBMALCCOODmDsOLm2Pi875fnL1a/xmPug1UiwfYfxk3lfN6PMPmKaXpErpVL96MiQw6aa46UdM+euEXo3vRx7Xl689xupINMhRFmcoCfHm7UUAWlRcwRNdumkTU8Xs2FaZafk8yDVTg1ll8rRpq1hPIT6JQZWJsl47ySVoglpA8BLqGiP2Axw/BiPuvSWq11e1kxf1abvAo1sghDkkbL9THblbq2jCHXB7QC6O6EOgLQxn3r9LYXK4lo0D2QQoBx+PSvESGWwanYp3iVOXa/E8EcdWq0pL63sAVjjwVexchzIsd16L5fg==;zdFGo5K0RWRJChGU40Xfbw=="
+secured: "8u9TY2SgrjUnnrUhQ+Jxyi7svHsxjxpLFEC52cbVlDcz8HgaO6Fv8plFztFvg+61iiR7/RgeaDA/sFQgKXuzVKlWM1RZW8QpoPb1lTIchN3iw2rO8GxqROJjegCycV3k+cqH99AMAvpWvYRvEqxPqHJg1Gg9vNL554LVWmAQINbuGxcZW3NPe8BQNzaNc6a1aHn0KyZnjweW4gMXkBOBI4o+5QKvO5mOPeFmeBYxDVQJ7uPbjd9aeg2feX7xX8HmZRrrABnXOaX2DNcnIIv8DL9QS2rwSYin+HiMmtUb0SlwYsY9Fbm3BrP8qfClbodNvD6swfSsMCBX0s56tqq6ZxsSWgvEMbAjmXG9xUu7Zp8=;HmDVSARGjj4VftMyhxoC1g=="
 ---
 

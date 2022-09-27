@@ -3,12 +3,9 @@ category: news
 title: "Oracle’s Short-Term Pain Could Be Your Long-Term Gain"
 excerpt: "Database and cloud solutions provider Oracle (NASDAQ: ORCL) stock got smoked on its fiscal Q1 2023 earnings report. Shares were holding up relatively"
 publishedDateTime: 2022-09-20T05:45:00Z
-originalUrl: "https://www.entrepreneur.com/article/435644"
-webUrl: "https://www.entrepreneur.com/article/435644"
+originalUrl: "https://www.entrepreneur.com/finance/oracles-short-term-pain-could-be-your-long-term-gain/435644"
+webUrl: "https://www.entrepreneur.com/finance/oracles-short-term-pain-could-be-your-long-term-gain/435644"
 type: article
-quality: 69
-heat: 69
-published: false
 
 provider:
   name: Entrepreneur
@@ -22,12 +19,6 @@ topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-435644.jpeg"
-    width: 1000
-    height: 563
-    isCached: true
-
-secured: "Cw8PfhDeM+zA9vHShrAjS9fkQPdhsN8XrQ+masV9JcYED7Ir6dniLd6UB3ZHhKv9EXPJmMT+3fUp11t9Jx1AMkawoI/Qwfb/9pcDfje95TNd9kXfWv/8yW04OJDoEtq5xFoTMhNvkJCbuegqXpGcQpYfvl4PVARmnBorrPfYT32dmmcctRBndzK2peIAyVaexwOw54cl9zgr2BNqMZre/uPOz16Jw7N15QA6gzZ7vJIh2D4ZeU66stmlXezgnhWQv+DbhDw9V215Z5zsvvRBJYkFYmRa5s/wuuxfCII4bhGIkP1I5oVmYWm50MEZbRc6jHv98wwqi5A0maYMLXG/S/0a+7WsgSqWvOLcM/rKoCSosz7xPv6GI7HJRt/oKiXYp2mknoMEfYRc1S3X/qDtO7S8pH4vwaJr+m82esZmNFRH8r4TscPmtsfH7gHX8CtxKBMPp5Snwc2NPvGYquuzN89uc/7fYji9WUYbtvAo6j+7ajH0nnL01lJBVgI9CntyVKPUJaunjLSsp2Jaw3FmGA==;80NWi94Ayqv7bE4g7WzFDw=="
+secured: "TGabvhUHlPUJJMJBTZZdL1g69ZEaZo3ceDVxr+vJxBtSh3juGt6KBAtiPunuSnyxzBiaa7z03xvMuyl/TbdM5el0YKIG2i0ZAnbGu1aDPSiyw8XY/xNd3dYXohIxCiN5jS5x+UFmPtP9ypjqdTZ6CT9c2PKO6U0RpUYKshi65nEGzAg8nWEqvSQOx+KVJMkr7fu0dBBM2lgXtVzdNBtKbk/KlJGLPC7/Y1bbXqsIAF/e774xNADMdxhsFVNoeDtTqSnda8CdRnOmSWQ1McXXbT0T+blUy0GQSY5dIgEo7t5hi1jl3hJ2kSR3uVK0fYuMJWmxsyQ0XHmlNZv2V8v1oUeR6UiuD2RYwzK/wTmy+CIxFK6XfZwUZvby4MoTLuSZMg0S/M6JZjrsZrt7fQa9bFQGWM0UBHQdHueBYRft1mnMzePY0oNYIQr22/SlH89qAIEjEvygsAnrTiDfE9gpir+rbtL7TIVgfcu3fbeWDGbl/FYftIM3psGrqZhKeEEo+wkh8IIH9J3Njkl09FFToA==;W4dp2EIeUVzcmqgOhjOGvQ=="
 ---
 

@@ -1,20 +1,21 @@
 ---
 category: news
 title: "VeriSilicon AI-ISP Delivers Innovative Image Quality Enhancement that Breaks the Limits of Computer Vision"
-excerpt: "VeriSilicon (688521.SH), a leading Silicon Platform as a Service (SiPaaS®) company, today announced the launch of AI-ISP, an innovative AI image enhancement technology for applications including smartphones,"
-publishedDateTime: 2022-09-13T15:51:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/09/13/9672608.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/09/13/9672608.htm"
+excerpt: "Low-power, low-latency and low-DDR bandwidth image quality upgrades enabled by VeriSilicon FLEXA VeriSilicon (688521.SH), a leading Silicon Platform as a Service (SiPaaS) company, today announced"
+publishedDateTime: 2022-09-13T14:14:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-09/57045723-verisilicon-ai-isp-delivers-innovative-image-quality-enhancement-that-breaks-the-limits-of-computer-vision-004.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2022-09/57045723-verisilicon-ai-isp-delivers-innovative-image-quality-enhancement-that-breaks-the-limits-of-computer-vision-004.htm"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
-  - Computer Vision
+  - Machine Learning
   - AI
+  - Computer Vision
 
-secured: "NavxukIB3v7NN26SisoDjP8GCCqVnN0w6JlwWhW8Dw+k6LuciCRR7qi2GASYBwy6yGXWhXKtxcZhfCWO+HUljwkWhRr18WYgnCy5zKxqKYVDfaeZx1qSSsaM3qdod4hzkhvOSDUWBw7uYaD6p2/PE0uQi2fMq4i9n4lYiuJCFIqu5HH9kU+jy3bsUwf0O75A5xvxDFB2ALDLT1vRVEVaShBtvMYPV4dTcQWnYRqUXp2Qel/E0wWqS4JevmyxCTEPf2g7Hhpsf8No1T++u4dc+7UP2Fx1WVONe5aMZ7+gVmfLiTT0LqSbewXuJASs0sgdZnSSV7epyTsXqqvzUW3tTle860z0Kv+iC4LAISayrwE=;dqegSNm6RkzUR67t9o19wg=="
+secured: "CWtv9mhPivTdCH1iGtxKJGdoFhY/khcyKF4MDLam3jnmWHXTdUz/6puvMcAkq1mslubJ+ga2P9FYAIZhyGQNZz/jQiiV22SMgJcPm51Ogy7lz2N0VOzjXHFBPE5Jxg38j3axBRzSrPLR1SXvBMDXxpHbdLQmz+L7f7d2TdGms/Iw0DTdX9QB18efs7DrSFC84DTOrFAWtukioxpN2XPiljMEqDZB2DMIe7po4XQW9CFKCtujVuA7RNiwjO80Q3erIYwxN6b9RuVuyIjmceVOQckgbxK+YOPGm06LMzVzwipxs+hp+Y9LiyYpt3TOSRdef/5pEs9L9rLOKBJoogbHx4s2hRY9TlVRd2a8ZR6lkb4=;P9O6UsplEydtJdOEOHGULQ=="
 ---
 

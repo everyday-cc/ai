@@ -2,28 +2,19 @@
 category: news
 title: "‘Take a cognitive test’: Internet roasts Joe Biden after he became ‘lost’ on stage"
 excerpt: "US President Joe Biden has been mocked online after appearing to not know where to go following remarks he delivered at a Global Fund conference in New York."
-publishedDateTime: 2022-09-22T09:55:00Z
-originalUrl: "https://www.skynews.com.au/world-news/united-states/take-a-cognitive-test-internet-roasts-joe-biden-after-he-became-lost-on-stage/video/9d05892295fde934dbf483b83e10220f"
-webUrl: "https://www.skynews.com.au/world-news/united-states/take-a-cognitive-test-internet-roasts-joe-biden-after-he-became-lost-on-stage/video/9d05892295fde934dbf483b83e10220f"
+publishedDateTime: 2022-09-22T07:05:00Z
+originalUrl: "https://www.dailytelegraph.com.au/news/world/take-a-cognitive-test-internet-roasts-joe-biden-after-he-became-lost-on-stage/video/9d05892295fde934dbf483b83e10220f"
+webUrl: "https://www.dailytelegraph.com.au/news/world/take-a-cognitive-test-internet-roasts-joe-biden-after-he-became-lost-on-stage/video/9d05892295fde934dbf483b83e10220f"
 type: article
-quality: 18
-heat: 18
-published: false
 
 provider:
-  name: Sky News Australia
-  domain: skynews.com.au
+  name: The Daily Telegraph
+  domain: dailytelegraph.com.au
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://content.api.news/v3/images/bin/0916a04881481f87f402e9cbbc2f41ec"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "Rhz9lyhl3f+SI5074ewmLY0PCg6xLcsVRWpalbDZQjTDCN3OCA+ebDbzMmA2Z7r8xM+lrxxuDiKHNnuZ1Lgo6m4Sh0eP/tISdPmnerY3f3zvXEWAR4J2MMwqznrFHMKClfPL++M73knkh9hp7P1XZqo+zo4lq2ZFX8wmPOh8aTeAvL8VWf7NJ3/xpTKc9wcowkwhxDEV0GEkygPcf5+UaEbjb+QbnlXRVbNzmntNhgQGhCZLEs037C30VWZ1qHX/JqB+uv8UrvsBpDk2DWf3Pdh6/qdvuGCds/ShcD/TAjhdgkqzA0a5pmF278jws2IqAxACjK4tu/XKBX3SHY3Of1W5m/nxseVOonfKrzSdOVM=;Z7+e12dQtv695UtWwCaGzA=="
+secured: "gQoGU3OVCsjR80r/k9YoBJ3Dq2eEWe1U4zgOTfyesskGB+Rr20QfJkn5II7EAQ0nCtaIvus/m7pehz/m8ZfxllbLYWFA/KoSDe2zgpuYq0kd1lLNE1Dyxg4yYlzhwAdBSPNSpaTpiQDSV0fKz4/EVrkYNF2hUv2VOsuB2od5eX3Yi/C4i5QlHg+24ACGo4Wn/dZ/7ZUkKZgSyVnpw+XsVMJxF0LGjvo2th/JSvnHxn82CGMk2m+waSgr0AYKcqoedoQF5liMppspnJgfyTOr7wh11hdj2sTwydnxfTj350+/c8OjHVVeE+y7KsHqIjQx/c4bjNuQsEC6A6XD+xM676M17lpv7zSTc7BhF2bK2Yg=;8UnfFRUdr59a0q9Kc8/ypw=="
 ---
 
