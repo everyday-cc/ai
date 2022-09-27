@@ -2,6 +2,142 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2022-08-31-unraveling-the-mysteries-of-the-night-sky-with-ai.md",
+      "title": "Unraveling the mysteries of the night sky with AI",
+      "excerpt": "Technische Universität Ilmenau (Germany) is using artificial intelligence to improve the detection and classification of unidentified phenomena in the night sky. The research team of the group for data-intensive systems and visualization collaborated with the American Meteor Society,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-08-unraveling-mysteries-night-sky-ai.html",
+      "originalUrl": "https://phys.org/news/2022-08-unraveling-mysteries-night-sky-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/unraveling-the-mysteri.jpg",
+          "width": 1135,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-08-unraveling-mysteries-night-sky-ai.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-unraveling-mysteries-night-sky-ai.amp",
+      "publishedDateTime": "2022-08-31T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-here-technologies-achieves-aws-supply-chain-competency.md",
+      "title": "HERE Technologies achieves AWS Supply Chain Competency",
+      "excerpt": "Chicago, IL – HERE Technologies, a leading location data and technology platform, announced today that it has achieved the Amazon Web Services (AWS) Supply Chain Competency. This designation recognizes HERE for helping customers solve their critical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dcvelocity.com/articles/55400-here-technologies-achieves-aws-supply-chain-competency",
+      "originalUrl": "https://www.dcvelocity.com/articles/55400-here-technologies-achieves-aws-supply-chain-competency",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dcvelocity.com/ext/resources/video-uploads/thumb/Copy-of-C9P-Brand-Video-Thumbnail.jpeg?crop=true&height=430&t=1661789514&width=640",
+          "width": 640,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DC Velocity",
+        "domain": "dcvelocity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-you-now-can-tell-dall-es-ai-to-dream-up-bigger-gobsmacking-images.md",
+      "title": "You Now Can Tell DALL-E's AI to Dream Up Bigger Gobsmacking Images",
+      "excerpt": "The AI system generates images based on text prompts like \"portrait of a blue alien that is singing opera.\" DALL-E, OpenAI's online service that uses artificial intelligence to generate images from text you type in,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/you-now-can-tell-dall-es-ai-to-dream-up-bigger-gobsmacking-images/",
+      "originalUrl": "https://www.cnet.com/tech/computing/you-now-can-tell-dall-es-ai-to-dream-up-bigger-gobsmacking-images/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/5d2589079842522cf08ef7d560c1575acb18ad16/2022/08/31/98eca97c-b683-438b-8db3-3635b3fc0c63/openai-dall-e-ibis.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/you-now-can-tell-dall-es-ai-to-dream-up-bigger-gobsmacking-images/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/you-now-can-tell-dall-es-ai-to-dream-up-bigger-gobsmacking-images/",
+      "publishedDateTime": "2022-08-31T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-31-ai-startup-aesop-raises-3m-to-tackle-medical-and-billing-errors.md",
       "title": "AI Startup AESOP Raises $3M to Tackle Medical and Billing Errors",
       "excerpt": "AI Startup AESOP Raises $3M to Tackle Medical and Billing Errors Aug 31, 2022 (PRNewswire via COMTEX) -- PR Newswire SAN FRANCISCO, Aug. 31, 2022",
@@ -940,126 +1076,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-mgh-mit-dive-deeper-to-better-determine-breast-cancer-risk-through-deep-learning.md",
-      "title": "MGH, MIT dive deeper to better determine breast cancer risk through deep learning",
-      "excerpt": "Researchers at Massachusetts General Hospital (MGH) and the Massachusetts Institute of Technology (MIT) have developed a deep learning computer model that expands on the ability to identify discrete data contained in breast imaging to better predict a woman’s chances of developing breast cancer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bioworld.com/articles/563526-mgh-mit-dive-deeper-to-better-determine-breast-cancer-risk-through-deep-learning",
-      "originalUrl": "https://www.bioworld.com/articles/563526-mgh-mit-dive-deeper-to-better-determine-breast-cancer-risk-through-deep-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bioworld.com/ext/resources/BMT-source/2022/08-31-MGH-breast-cancer.png?height=635&t=1661983683&width=1200",
-          "width": 848,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BioWorld",
-        "domain": "bioworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-software-engineering-manager-machine-learning-.md",
-      "title": "Software Engineering Manager ( Machine Learning )",
-      "excerpt": "Your mission, should you choose to accept it: You will manage a team of Machine Learning Software Engineers & Data Scientists constantly striving for quality solutions that are delivered on time, within budget and scope, and drive a culture of quality and ...",
-      "sourceUrl": null,
-      "webUrl": "https://it-online.co.za/2022/08/31/software-engineering-manager-machine-learning-6/",
-      "originalUrl": "https://it-online.co.za/2022/08/31/software-engineering-manager-machine-learning-6/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT-Online",
-        "domain": "it-online.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-what-you-know-changes-how-you-see-things.md",
-      "title": "What you know changes how you see things",
-      "excerpt": "Researchers have gained important insight into how the human brain processes an object in the visual system and where in the brain this processing takes place. The study shows people perceive objects differently depending on their prior knowledge and experience with that object.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/08/220831162516.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/08/220831162516.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

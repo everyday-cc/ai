@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-research-on-present-state-and-future-growth-prospects-of-key-players-forecast-by-2022-to-2027-2022-09-23"
 type: article
 quality: 50
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -89,6 +89,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 11
+  - title: "Artificial Intelligence in Healthcare Market Business Analysis, CAGR, Production, Rising Trends And Manufacturers Growth Outlook to 2031"
+    excerpt: "Most recent research report on Artificial Intelligence in Healthcare Market 2021 distributed by insightSLICE, begins with the market portrayal, comprehensive report, division and order."
+    publishedDateTime: 2022-09-23T00:00:00Z
+    webUrl: "https://www.medgadget.com/2021/09/artificial-intelligence-in-healthcare-market-business-analysis-cagr-production-rising-trends-and-manufacturers-growth-outlook-to-2031.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 1
 
 secured: "2Mt6y0U6z0WLzWFChxPC9ItrmVzcWnS8FZxOBikRfwRt5yeBKg+PtF8vd34vLtXpFMAMcCHgJMkNDXVESEvnXxfFIGWQ7PvI13cq8vAjFVQlkdqIUd+1U6uL8oZ5bVeI1FElkz1QFWxqvUXvkaoJaO/1NMkN7EVg+F1wmpQuNVxuAN3T8WNdph8kUIdd0joY2t5xer5WBdAS8bsVHJNpAXemfkTHW/4MVzuf3p2okb84JQb4UGi5zs86ybh0qJt1OSHts5ML3RTwNnygNoxeBJQxE3l6Bp+uopbvRlB3LG9mOKQXL2oMT9rU0UV+gc5jLpdeie7ps5lDeMorgR6r093UNlOW0IMl1ARtJOIAsWE=;UonVImQnmzBZ0BuOB7/c6w=="
 ---

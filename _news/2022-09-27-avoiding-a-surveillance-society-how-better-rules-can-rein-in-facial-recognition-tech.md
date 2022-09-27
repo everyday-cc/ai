@@ -73,7 +73,16 @@ related:
         width: 1107
         height: 443
         isCached: true
+  - title: "New report offers blueprint for regulation of facial recognition technology"
+    excerpt: "Australian law was not drafted with widespread use of facial recognition in mind. Led by UTS Industry Professors Edward Santow and Nicholas Davis, the report recommends reform to modernise Australian law,"
+    publishedDateTime: 2022-09-26T23:48:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/new-report-offers-blueprint-for-regulation-of-facial-recognition-technology-1031765652"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
-secured: "EB7/RSFZ6ND9TqTAlAM8Wxe7bkzCpZ8ayPshWkQibYPNNshMZlA+Q2CjKtvQy2Xbxbm4sr1WAaC3FuU7hFcL43so7Abs+8BcxWLEaErlIICspJiWU8YnOtlysgTiekFX4tibHYl66c65pfcl25IhJ1wUebbEiWq/+LWORTly+8RNgxbQtV7uVSsM6lRmNJBdtNXSL8kUf1y8p2JOA3ua0gCtOjk9NvQuSYyqZsHoXObQNEr4lrT0sOPQzLlErEvZt1mtqjtdcctOSNQyGXkh6/Z0yIFYk5xpiI8c5KwALJh39bNZ7G3Nk9+jOjqbxSPC5yUB+OgDyBxY8rT6W/vqU3jVqW5IwqIxaDGc821HCAg=;vzB8xEn1CbT0ZMLZGSKqMQ=="
+secured: "RIXVszMNYfeIUvVnIsOKwBeB+V0S7OYCd2x4pe+5qvERuVz80+jqhYXoVhSg484LvVGMPjhuZeXZekMJuFL0H252U3V3uMoHt1uH8t7obfUO4X4v3S2q2T+6HgZnI/zGh+gz9RWkRRsB1Xy1+TYHR7RVYSxQZNyXj40lHwg9mbgxiI5CpMpJSSa4Cfc/3kNUGtFxzhRhZUYy6cGu3UQ2W9k0JnhcIFrPlCFesiiLFgZVpdH+O9nN+GCG26EzbEc0g+vauGiSvY1VWKumti53FTM8g3AQTDyYhfFIiF4YYMSqNL/iYHNUwzlLtqGewwNsNDOUJzlAzJtapdT+Gh5dTkQEFE5GQlm+W8S4N3QwYCkQNBXBqiMFoabtjhxplZwk8irCCgknEObnnpWXlyVlMmTrWynPOrnlpsC60rCnT4yTTClK8mk0mlU0fohK8g1YFdW66xkGLsY5BSiCtBqcRMDM2WbQxXKikckSUux/2KP7DliyfA4iwIqyax+5KdoiHYCID4Sm/YMoul3OhXNGaw==;LKhVZNe0u2yp4uREPAlL8g=="
 ---
 

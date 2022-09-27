@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "HOW ARTIFICIAL INTELLIGENCE BOOSTS THE DIGITAL MARKETING SPHERE"
-    excerpt: "This article try to portray artificial intelligence's influence in digital marketing sphere. Importance of AI and the need to adopt it discussed."
-    publishedDateTime: 2022-09-22T06:05:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/positive-opinions/how-artificial-intelligence-boosts-the-digital-marketing-sphere-45110/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 56
-    images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
-        isCached: true
   - title: "A laughing robot and the possibilities of AI"
     excerpt: "Letter: Yvonne Whalley remembers a play in which a robot develops at least one human trait"
     publishedDateTime: 2022-09-23T15:33:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://mustsharenews.com/self-driving-car-pie/amp/"
 cdnAmpWebUrl: "https://mustsharenews-com.cdn.ampproject.org/c/s/mustsharenews.com/self-driving-car-pie/amp/"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://images.perthnow.com.au/publication/C-8334177/099020eebdcba6ebf61b69402bf2175d183a40b6-16x9-x0y173w3805h2140.png?imwidth=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "VW Gen.Travel: Driverless concept aims to end the short flight"
+    excerpt: "The Gen.Travel concept is all about carrying occupants in maximum comfort with minimal interaction. The Gen.Travel boasts of level five autonomy, defined as needing no human inter"
+    publishedDateTime: 2022-09-26T22:32:00Z
+    webUrl: "https://www.whichcar.com.au/news/driverless-vw-concept-to-kill-short-flights"
+    type: article
+    provider:
+      name: whichcar
+      domain: whichcar.com.au
+    quality: 54
+    images:
+      - url: "https://assets.whichcar.com.au/image/private/s--4-hejbqN--/ar_1.9047619047619047,c_fill,f_auto,g_xy_center,q_auto:good,x_2656,y_2856/c_scale,w_1200/Volkswagen_Gen_Travel_Concept-2.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "GM Is Doubling Down on Self-Driving Cars With LiDAR"
     excerpt: "General Motors is making self-driving cars. It's investing heavily in LiDAR - the tech that could become a $15 billion industry within 10 years."

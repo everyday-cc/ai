@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Artificial Intelligence Robots Market Size to Record 21.3% CAGR Through 2028"
-excerpt: "Market Study Report presents latest report on global Artificial Intelligence (AI) Robots Market, which evaluates"
-publishedDateTime: 2022-09-20T16:34:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-size-to-record-213-cagr-through-2028-2022-09-20"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-size-to-record-213-cagr-through-2028-2022-09-20"
+title: "Artificial Intelligence Robots Market Size To Record 21.3% CAGR Through 2028"
+excerpt: "Market Study Report presents latest report on global Artificial Intelligence (AI) Robots Market, which evaluates the growth trends of the industry through historical study and estimates future ..."
+publishedDateTime: 2022-09-20T09:05:00Z
+originalUrl: "https://menafn.com/1104892877/Artificial-Intelligence-Robots-Market-Size-To-Record-213-CAGR-Through-2028"
+webUrl: "https://menafn.com/1104892877/Artificial-Intelligence-Robots-Market-Size-To-Record-213-CAGR-Through-2028"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?999360"
+    width: 441
+    height: 250
     isCached: true
 
-secured: "PKe4s/vRrWMZt/eMN6kmifjoeT/0TOMGyBYqcAprJCeK2wuwQNcV2jjoPkIFxK5fxouJk0Uz4zGtmS3L8Kf/X/0iIyYBUJGMI4B4xwUnSJBbxn6BWgs3CHaxQVqtyW+3puNStD7LMaqEQoK+03uYtEba4RAXzH3wipY0DOTBZDqTwlBKGW3FQVX1oYUSjEVAokTjtPbqyTFi9M8gwzMdJqeQUnSX9H+A0d9KhCiO2wdcnywJnVUGA4fKCYCITf5htFi2lLb+hzArTmq6tpvTWxi58cKTn+Qe0lAM1LmAFMWdSsyiK+cekwaSNBga6eUt0ahO05eOLiM/yekNEInNCs2asw3yXw8q8bOjzxH6byo=;1PcUBZNsnFR3/d+SJV6Y9w=="
+secured: "c5j3YwP/qEbPrZbzxsF0b5No+sPgf19UY4dIgzuGcBf/wpD4C0srrFkAPLweMh2vYbZWrOrac754fzM6xnJw0Plk4jsbpmhA0vJFqsCarpdOuCVCD+kefmwLC6rCx34E3vZxIUqs6R8+zAxLBwKsfIoVBUmvGGaVUKBqlu+4dQY5c/iloWl1kOx7ek2g7kpRv8CGaC+ecyvNOGjeJU9aDKW1r90v3F+J4QBxUQ6Wiy8qBb1h4h4bG55h/pTsz2MBryWXdz092OVLoYYS2kH317QJO3ILkTgEtzah8sZmx2OFhinyUFrX3Vd73DISlNjaiFEHw6LqS3LTpC3+D6nwxr8BMAJx3GuWFsQ9TD+F2fE=;uMrTyNRldXaR5P1FRA+GCg=="
 ---
 

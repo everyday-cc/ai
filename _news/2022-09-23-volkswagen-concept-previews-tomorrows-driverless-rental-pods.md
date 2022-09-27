@@ -43,6 +43,20 @@ related:
         width: 1500
         height: 750
         isCached: true
+  - title: "VW Gen.Travel: Driverless concept aims to end the short flight"
+    excerpt: "The Gen.Travel concept is all about carrying occupants in maximum comfort with minimal interaction. The Gen.Travel boasts of level five autonomy, defined as needing no human inter"
+    publishedDateTime: 2022-09-26T22:32:00Z
+    webUrl: "https://www.whichcar.com.au/news/driverless-vw-concept-to-kill-short-flights"
+    type: article
+    provider:
+      name: whichcar
+      domain: whichcar.com.au
+    quality: 54
+    images:
+      - url: "https://assets.whichcar.com.au/image/private/s--4-hejbqN--/ar_1.9047619047619047,c_fill,f_auto,g_xy_center,q_auto:good,x_2656,y_2856/c_scale,w_1200/Volkswagen_Gen_Travel_Concept-2.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GM Is Doubling Down on Self-Driving Cars With LiDAR"
     excerpt: "General Motors is making self-driving cars. It's investing heavily in LiDAR - the tech that could become a $15 billion industry within 10 years."
     publishedDateTime: 2022-09-22T20:30:00Z
@@ -74,6 +88,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "wqr2KzkpmH5nQVL6FH2doRicHY6XU04ZKzkdvw0E/zbLl46V2XRJGH11ZvRtZU+dBmSGMdSwgZWvgtKmc0MzuQrr7xS5Ap8DTBJao64kePnCSUjhKuftsM0tqpePyfPrEh8hZYK8sWDUbABIWCzH/seKihqdBNZchLpBYyVxWroQiEK6j8V5vHj1BbfGhIH0T85MKabGUKI30pzvlKrAfKjk27n9Cxn6Mp1+YVTbrQfyv8RhR5ISMuOzghzg8Y1rkS4i+frxMaTZ1waH5x9woanaSFdd2B1tTQ2+aN+EAowest16/QnwTmm22THEMEn3lQVcEmUhFTKe4CPP+IzuDorYYNjrGUH743XL7BAIRbM=;0pk9uf+KPWP0PEIxLcbx3Q=="
+secured: "MIBps5d37ltOsJLCLdW6H7GgTKy0Ffkdvh3tEzO7Hpsa4u95eJOJTN9aZir8sUbtG8uRiD/1riq7YCW54fqlIWytuVCqJ0TZjhHgWKsPY8t2tTghMqEW8XEcXvZLftOSE/f8w0UMFVC/hllwOlpe4IXBDdzBysOTxzzW4ZFU2X6VU4Y45ashrJniKvOzU54TZqlRCH3vKC/bLhaNgEtKdgRxOlwl+zr4EC9Sxh0LGIluMCaYPC+ef6BncEyOSiZO2DUu3ziaJXFfSECLa4HQr2qDw19hYTS30Wt2nJWR515KDr+/TIx6HeyJJyxFFxuD9mmE4otd6g5fnRLeaZFQOTwUlmA2/OJ6WQH0j+YuQqs=;ULhxzpR3y8HEBi3I6cBtEQ=="
 ---
 

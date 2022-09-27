@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/see-the-pitch-deck-ai-startup-pare
 webUrl: "https://www.businessinsider.com/see-the-pitch-deck-ai-startup-paretos-raise-10-million-2022-9"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
     quality: 60
     images:
       - url: "https://i.insider.com/63121f0f3e08f700196c837d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "We got an exclusive look at the 9-slide pitch deck Innovafeed, an insect protein startup, used to raise $250 million"
-    excerpt: "The Series D funding round will be invested in technology, new sites in the US, and will be used to grow Innovafeed's 400-strong headcount."
-    publishedDateTime: 2022-09-22T07:00:00Z
-    webUrl: "https://www.businessinsider.com/innovafeed-250-million-production-insects-for-food-pitch-deck-2022-9"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
-    images:
-      - url: "https://i.insider.com/632af456edbe7f00190f2bb5?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

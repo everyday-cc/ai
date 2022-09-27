@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202209/oosto-offers-advice-on-faci
 webUrl: "https://www.biometricupdate.com/202209/oosto-offers-advice-on-facial-recognition-implementations-for-stadium-security"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 2048
     height: 1365
     isCached: true
+
+related:
+  - title: "University of Technology Sydney: New report offers blueprint for regulation of facial recognition technology"
+    excerpt: "A new report from the University of Technology Sydney (UTS) Human Technology Institute outlines a model law for facial recognition technology to protect"
+    publishedDateTime: 2022-09-26T23:53:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-09/57150822-university-of-technology-sydney-new-report-offers-blueprint-for-regulation-of-facial-recognition-technology-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "Q1qGvZVxAqLE7IB3bJ73sr15NG6D0HUvI0KlYHdOvKzdE+VaWTMeN4NCZ5fLyzo154UTBhpob8Sa2bNSoCekiLVq6PQdoY8S4LLgS5DXunHaaMrdesO1tfZ2Z2vhYBwELieTLFFRgFwlONksrWcAPtTLHcHWs/L2cWlOKzirKYOM4Of+86lq5I4Z3BSH7EU4eUt8H28nSIRVQBjfYUXyAfq/TKT3AaLHgorIqeKK4CuekGJ/61EzSE+S3IXLuJ328iR9Mlj5ifWl1yqDwAY6pysXPAV/cc35Osh5nUDlYJoL9l6oRZ5QKCrUrZIcoCS4KHt5i2aLYPZaSNFxGeDM0y2DQVYnHiDhrOu6iNeHVKySkhRADirDKS03/LKbGIMOJzlLxIGu7oF9WZy5TEf0sITJTkDbo0vO4kPuZIb9t2Pg1vcLTE9PjqIbSH4iaQGlMlJ9fnuylByidvxlVcRo6xB7L7J4ET2yHEm6uSNAVcn/cqJZBvzWq3paS7j2otZ9nqJshFVRnOibV1mEXN7ZJA==;zyYCmP1LuyKrDkN00/HxuA=="
 ---
