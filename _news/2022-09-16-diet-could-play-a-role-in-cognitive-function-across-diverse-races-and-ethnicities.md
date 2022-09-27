@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Diet could play a role in cognitive function across diverse races and ethnicities"
-excerpt: "Dietary choices and their consequences may certainly influence cognitive function ... Metabolon offers biochemical profiling services and is developing molecular diagnostic assays detecting ..."
-publishedDateTime: 2022-09-16T11:10:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/964717"
-webUrl: "https://www.eurekalert.org/news-releases/964717"
+excerpt: "Dietary choices and their consequences may certainly influence cognitive function. A new study led by investigators at Brigham and Women's Hospital, a founding member of the Mass General Brigham ..."
+publishedDateTime: 2022-09-16T16:58:00Z
+originalUrl: "https://medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.html"
+webUrl: "https://medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.html"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "5dk5ylI1rKBoOrDpzNjNoXx4niC72WvE62B7acceqs0POao4F/J6w8xiNUZH1xfteQQacCyBGARoCIlAl677j2xfCFBBvR+qoJvrkaBQSYJqO2PPvaXwTzGqUldoCp8IdAP7UwcrWf4IHgM73dLqZK+hj0JFI+RjCej8QUCm5zsbrETImdXo6pmjK97aQUI307i3ideOfi1RsTaFLvh4nAFtDfAU/IDBpyLD5HTbDSotGY2tCOzdUX+tMrMKO9M0hyMx1oFdjoTmT1+duVdaHY1kMUNtGadExxKfpRkgSTUuSlvkDkO8qG+z8MLjab/JW/jOLHWEPYif1/YozspDG5HSmpdm7LZibJ6f0j73ucg=;8FaGmWYl/DcdlCfmGHID8w=="
+secured: "J/4qMeN5xQ9Ywm2DvwPswcMFUwZhFxF+D+614r91EWgvIDsNu3U0LZr/SQfdzgyjNLht7aTnoGkgJ0TIvcwael0LA4y5gHiU8Q1NpZ6ax6UZjdvEJ8EBEw/r1NCupS0/stZ/49h6Fq1Z1tQMWan6zRjlj+FDBEy8GNGMUdkVq7S9FpZIy8LjneWnIiLw38pwUPHLvUX0wY3hDFDCKXgUlnsVKnxzUSXnQ4zCDQIYYKSk7hUijtz3Wdwt6BseJ/c5nV7tTCyRv96yrF+s6ZbhbtI1iGVObFTl2r4g2TFSvflAxBWMG50ZsVeN6Ksz2elu3CbrUbaGn6HVe6ri+9aB5hjzz07Ar+u4dFFm6tAhUFQ=;YfJkusgSni/u2GNxiXLFwg=="
 ---
 

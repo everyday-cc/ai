@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://img.digitimes.com/newsshow/20220925vl202_files/1_2b.jpg"
@@ -23,6 +24,6 @@ images:
     height: 853
     isCached: true
 
-secured: "CHAFkEzen/wLFog71UiDzh4fDRJbWKYVIS7RcOuttZg9uEn5mf3C6i+TaUjhNbNKEH4UeTDXa/Eh+Ye8cyF9wLnvDuzg6yjTIX6hTIV2pP4iVrq/M9Zq+h+AedaUKNgLMPup8vDJSKclDvR1WVzTgCmg1ABp8qEXFJ9znbsZGxtOaNUpJMQrPXD4MO1CVdKDvMbpkKBtapVU6FMncCKTOPuM1ICsveX1fSkrLfVpIr52kWR5rprwJ0jDmqWVpFO4naZ7DHyCla9k9Adr9ZrH6iEvqE/cZv5pCKvcuvTpVciNCyYk+RzHeDKxYLgyQ07wGhg/EWYae/v5g7gnstJuQ6TvNChuHT+yAquwzgQrfuk=;iLK8y0bl8IefDbYzvQ5TBw=="
+secured: "5ukC87HgVzL91gwX04LPbTCV4l/iTUa1jeWRAuvBkSajSz8lVfYugZgpruocIaU2JQ2lsMU2YREpj64asO9kSCPgvrjLdPO6c4awkIkef5Z/CwtFkBzKFn07ymqH1tVroVByNkdhLbqNa0hUFgA/H6S9rn5IgUnIRgPGhh3WZhi9JBcBGxeNkNI1H/Yo33oDN9cmzoIzn8sHqzK7oKMiEHmwE0NXdprC7r0vhVQOCLPnEUtK+XXZp+vPuktva9ql5EXbMVJKTewaBleRSeyz8UHytMa09D+96LaYa9zJmV9u1S7460Irf7rxQB/sjR0yPMerS82Fx97AFSNdL6e8ziWSPktRSXppn6PyGlgoGn9VsVdPOZ91hHsSVcXNxSbH/fO/HfeZC9+yJIHF5Yerxyd1gkxxlmg7Ua1hBsJlSiG+Vw1md6Rebn89tsZnWBtLd0oDDTxgfLOwlov/9DW7DYYGqTrQv1p5/aGx8Ofbfa+mFHNfqQDAOsq2nWdb3gQrCP3vuyU/QyUwHj/yS+Zagg==;jfWpyKADqXAjaNOfYjwGtg=="
 ---
 

@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.c4isrnet.com/resizer/_3J9nTzYkq4X1HvFX44W8YUM_1I=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/ZOHTBWAHHJFXHEO5X7UR3ENXR4.jpg"

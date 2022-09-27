@@ -15,12 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://assets.technologynetworks.com/production/dynamic/images/content/365650/attacking-neural-networks-could-lead-to-a-better-understanding-of-ai-365650-640x360.jpg?cb=20220914"
-    width: 640
-    height: 360
-    isCached: true
-
-secured: "/JT4NP8aEsPPiI9rDpvpGDJ02XLREAE1vRjoQEuJyw6PUIiFR1P9F9MYV0/aHsI6D5HA+hTtAgJaHKI0Fu95qfQCSywhR9bFkoFK+bpNGTHY4D9ZbS5Re8nZtwPWFL/e8r3juE2i7Wbbu9wEnuyv+2Ll3RXo96E9U9oM8VQJFNVSpWwyiLqgihHcfAokJUe+RMnXX2giojO8Zc8KcF3MdtZUFHUHmD8n56q9q0k64mOIIEx4YqwWX+kADBcLj3+zqCITmSMILwUEGk8ttde7HnDE9i/fCYDgs+bW7uRrPBB6P63uJemDVGgtdUw2Ik8zAM3TGcNFvyEsikoMIU4zPqwFCH1aNRtXw87kS6gc2fU=;zR+aO8QBjbD6jcSOYRw7cA=="
+secured: "ClaFLxHsLcyVdDkWzTPxAxdTygN+WS13/f3ws2TVnUYTNmv1erVaiN8k825D7cz9DpcNefNKGPLixpFoXh62N9w7wCkkLHHdxIxG62ktIweqoRWuRiJHnM7RhuVlQzYicPH0epuwpQD8jVNoL/du6X7tMMKPviE6I81YLe5VHSV7g8Dis+kCFlRJa1UkOayzOIyyiAzhQtsvCZRglRYStmPToWqyo8wQNciZkAQm0vSf0srohuDIhybLZ+chwB4Ku1/yClPINZA/umcS2msh86xyMwXr17bakG5K1zU5KBayycEm+KlpFIZTcK0gEeZ6m7Sgi2dq/VaDUv+njYP46v/4vypTBdYxi2w+M6A4JO0=;LTqjAospvKP4JbDlA0CxFA=="
 ---
 

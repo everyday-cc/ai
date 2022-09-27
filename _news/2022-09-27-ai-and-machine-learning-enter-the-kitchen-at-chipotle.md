@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - AI Hardware
+  - AI in Robotics
 
 images:
   - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2022-09/Chipotlane.jpg?itok=5BEjL9Eh"
@@ -92,6 +93,6 @@ related:
         height: 509
         isCached: true
 
-secured: "7rKZrFxODOrLeqgYgqldepJQV1dk+toSld/yrklkkNHKJNGzviSuhCd1yYO0no0C2fF0l5rz0StqGP6jlDPgCq1H/Tkhm1hnpUPKt21BfZwzSuiP7luNXBYiDcz3bo2MyDB7FP6FIOfEy+d+1ViThvyHtDEcgmsmFIHMM24NE6W3e5nGIQRO2BEyIIKd2JvdgC2yRRjRGgIEj05lMzRRJrTT6d2ZiHoNeUO+iz9Yft29SjQcXEi25eX0FIfqXgBWrOEtdXP4E3Du1jVSptjmJj9tACGtvXmb7CbMDLCPTM2zSg1T90sQCVKiKYY25G8Tgw333JhTzu2lk1nNmq235lzcDVI6v7OgMoMxokHF/ec=;B+UxyxA+AzLZxqLcKOd/kA=="
+secured: "hPFUQryA5Jl9WTqZ/Zu01qrPual3ftcAjJBzXO3WtBGof24tZ35HivBtU+2nt8Tl4fJKS0Fj9mFsUEymiGNZEUCHps/BJ+X3IFz82jJIG8s2fVuKCNNfTsQinRhfSC8atJbYUcW9gOVT9FsIC2EIRMpxXFpO/1eOnhYx2YbFiRNIZUqpkBY8bi/7p9SJkZ33wT1KhSO+04QN/l0NVBmW+HxSO7SEmiUQBe+HAb2EcGmNpnFUmCM6WYpP/go9t6GcDjea1lypRxCzmzm+VpmoGO6DpCJez+ZZ65CqCpWYVRQkJ1bph+fVdqA98ug7/9pMVne4WXPHmq2h0McVlRVL3USbbjg0dXtPAjIIAQPDKfAQ4n8i9Hdj1u8qVpU50HTya61co4ScfjGNV5+D/iEvlCF+7ywEUU5b8VwAq4gzUrefE+z94yauYX72W29yVDtIOtYFea8mK9OD5N3U8t/m8Ayz4Cdlaa57JBBA1wIcHtVsN44PinTnraWldhbx99AJWJR4Da+Vpn/xM0nJh25HEQ==;XGxU/a3lz+a7+n1bpHRqBw=="
 ---
 
