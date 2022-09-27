@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How AI and machine learning can help in better weather forecast"
-    excerpt: "AI can be very useful for making analysis and especially making city-based local forecasts.' The recent floods in Bengaluru have raised many concerns regarding the increase in extreme weather events and its impact on urban planning."
-    publishedDateTime: 2022-09-23T04:30:00Z
-    webUrl: "https://www.rediff.com/news/report/tech-how-ai-and-machine-learning-can-help-in-better-weather-forecast/20220923.htm"
-    ampWebUrl: "https://m.rediff.com/amp/news/report/tech-how-ai-and-machine-learning-can-help-in-better-weather-forecast/20220923.htm"
-    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/news/report/tech-how-ai-and-machine-learning-can-help-in-better-weather-forecast/20220923.htm"
-    type: article
-    provider:
-      name: rediff.com
-      domain: rediff.com
-    quality: 74
-    images:
-      - url: "https://im.rediff.com/345-230/news/2022/jul/monsoon-6-o.jpg"
-        width: 345
-        height: 230
-        isCached: true
   - title: "How robots and AI are helping develop better batteries"
     excerpt: "A Carnegie Mellon team used an automated system and machine-learning software to develop fast-charging electrolytes that outperformed a standard one."
     publishedDateTime: 2022-09-27T15:00:00Z

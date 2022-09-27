@@ -2,23 +2,25 @@
 category: news
 title: "Online Proctor Sumadi Joins AWS Partner Network"
 excerpt: "Sumadi's status as an AWS Partner strengthens the business' ability to deploy large-scale, simultaneous proctoring of online tests and assessments for clients around the world, including universities,"
-publishedDateTime: 2022-09-13T20:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/online-proctor-sumadi-joins-aws-partner-network-1031741167"
-webUrl: "https://markets.businessinsider.com/news/stocks/online-proctor-sumadi-joins-aws-partner-network-1031741167"
+publishedDateTime: 2022-09-13T22:42:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/09/13/9672910.htm"
+webUrl: "https://it.tmcnet.com/news/2022/09/13/9672910.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "MEK6Ho/uZOb2lD5EPucIEDxSl/t/SQQPIjl3zH3CqJ7SexygMXto/bFMor3H8/Tn2MZXoR6KNm3qZUP6jtLbkFQA2aBRYzbaLImFY6jw80h+RmggqNBtI6KGTCTqxRgR6Y934raLUXorIr52zVQTnIRX0X886MyO2uNRWeG0XveqZWZN4OOE+6uYsLRLB7auhPmN579+qO65X7B74QqSbcqKY2v4xG0Y6uAHMUbSzdob8XoxPaDfbLTIHtoXJNXC25AXic2sUzx0iGWcCBv9ka9mTWnWQ7INC3kYLiatlceh+ZCxlTBEyTYmheBkDrtOHkt/J4IK1ZtmGS0XOReiPhqqFA1+6KCV6hBC+ljUqJw=;t0apHT6rZNadlJxOnCO9zg=="
+images:
+  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+    width: 476
+    height: 210
+    isCached: true
+
+secured: "HwE11f/SY4UXom+XOMp6l1y1PhuzwCAGofF46P8/UOnYFBAGNmRSlIk4IYH5vxYKOay9C/eMrKr1xoQw4gVYibZhIGazpTdrDEgf+Tn4NjuPywEhvf3Ca/GvTblqza4Fbz/nUQrJIJKzhaiPjLyLkoLOv+4dyuyHdDzbb/bVHolBPE4IgO3dWGqnpVlBjeHSk7OzzmSyTyXHIj0v+SiK8WHkusT+Z79EJnpM3bygmh3M+iCSnF4I/1NTkXBkOicokFrFZcJ/6rsI1l6uaD0mwdvEv9A6biD7mM32CR9mGZME8H/AOl/3kAk//X3dhQWyFqjakCs5OBISiUd4DYoa9m9XLODkBDZMWw33fC0GMWs=;43aCt2yWZiF1nju8IIu2ng=="
 ---
 

@@ -1,17 +1,17 @@
 ---
 category: news
-title: "Nvidia Unveils New Gaming Chip With AI Features, Taps TSMC for Manufacturing"
-excerpt: "Nvidia Unveils New Gaming Chip With AI Features, Taps TSMC for Manufacturing By Stephen Nellis (Reuters) - Nvidia Corp on Tuesday announced new flagship chips for video gamers that use artificial ..."
-publishedDateTime: 2022-09-20T15:38:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2022-09-20/nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing"
-webUrl: "https://www.usnews.com/news/top-news/articles/2022-09-20/nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing"
+title: "Nvidia unveils new gaming chip with AI features, taps TSMC for manufacturing"
+excerpt: "Sept 20 (Reuters) - Nvidia Corp (NVDA.O) on Tuesday announced new flagship chips for video gamers that use artificial intelligence (AI) to enhance graphics, saying it has tapped Taiwan ..."
+publishedDateTime: 2022-09-20T16:04:00Z
+originalUrl: "https://www.reuters.com/technology/nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-manufacturing-2022-09-20/"
+webUrl: "https://www.reuters.com/technology/nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-manufacturing-2022-09-20/"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -19,6 +19,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "dZybX/lBi4lTUf6ZEOvwipUXJ7uNzirURmDg7Op8aS1rHN2VZWf6djR9Ouq9a31qkWUX9pKWONckV8gan5Ya7aX2kxWyN+ejJ9ofXVjobhZ49+zWO8M0Idk26DzUX9MrCXE2tRK8ct8xXK2+ZUhOm7WTWo2XoftvOBVXka1+ZhYjTaGnZAzPCNPMCjBHyi3u1S4QFf5zZsxjQl3aGguZ4MSP5BTnUHMZy9HODPy13+yZIimlbPDmIgOT1sThjuMcIkrAgRnb5M3FHb6jwMPXnymOO3CORUGNtmJixfuppy3MoPvJ4GI6jzbToTcUx8pvq96GVP1Vtntl7xTmI9NZEoF2lsMFN+TZ98wXSV8d6x4=;exMCCXYsteBJZBjD8R29Ww=="
+images:
+  - url: "https://www.reuters.com/resizer/awrttdfwt7GldMh9Fah3hKj1RdQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KUNQZVB3LZK2NKDRMPVVVLXKL4.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "XfysG42VyCANtH3M8rGqWutg8XDS8RRKdFuKcuMvyrFa7O7arsGZ/dnNtbGWkZ8kZzFGPKKbzZ1WLygjp1rHhr/ie8ZT8Vq6nqs6flhy8JWPXRlxvQHqiwxXuuNupbfuEnPOb7InbKowN5tJcjC90bUAuFDfA1RqHe4Iws1Jv4zyiyGstwXCPnWOyVlYP2lmlYvLCxtIwTrt99YbVlrsQckjGLlbmJ9+ZPXPzyxLTOWDx7NtRK5R+g5rnwQjrbsIJPgkfwnESCU4sG/NYyjLZBc+eB42xbO0R22hZKHBoKjN8NCAAHrnWpGWeVLjqa5SpWZEZIZBefI15yWqNudkK04TWFzwiGmLscImelCoj80=;Zb3RoyAEO5NnCqClsrw9vg=="
 ---
 

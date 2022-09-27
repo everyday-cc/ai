@@ -85,6 +85,15 @@ related:
       name: CNET
       domain: cnet.com
     quality: 78
+  - title: "Tesla AI Day 2022: Everything You Need To Know"
+    excerpt: "Tesla’s AI day is their annual showcase of the latest technology across the company’s various business units. While Tesla vehicles gain the majority of the press coverage, they have a wide range of different applications and products that they continue to develop and refine."
+    publishedDateTime: 2022-09-27T19:27:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2022/09/27/tesla-ai-day-2022-everything-you-need-to-know/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 66
   - title: "Tesla AI Day: It's The Battery, Stupid"
     excerpt: "This article will argue that Tesla, or even the EV space in general, faces a similar situation. Click to read how TSLA leads competitors in battery technology."
     publishedDateTime: 2022-09-27T04:22:00Z
@@ -99,6 +108,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Tesla's New Self-Driving Version 10.69 Is A Big Leap Forward"
+    excerpt: "New version gives us a glimpse into the future with respect to full self-driving on surface streets. Read more here."
+    publishedDateTime: 2022-09-27T18:34:00Z
+    webUrl: "https://seekingalpha.com/article/4543424-tesla-new-self-driving-big-leap-forward"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "1Nh7ASQJ9QorZSvy4AJYi7Uvd/lDlJcOvr5ofV0gUHzIEGztp2DLdzemf9dLg1wYmF6T3FLrBDXpkSsQelhP4T++kNYiC4VzINylX61biURaWstb2rNzSDRd2GFxogLfl1Q1p7pjHWF+I20M9e0jobC04A4YdKrd95FxYjuJoOs9iXlNDNaLezLHGL1HmApv+PfFSC01OggyJJDh3Nl+rvKyFQhtLqbZ4Fi6rQ3o99mYtRN1fH0zYFtCywceeu8vm0EXK97PMIoKLF5KWAnrUOgcItOhB8UfM+/0jMii9i6w/gwAnlQLP453AnXnvr4zFSFWp6BzoLpTY4OJKYTYs2vvEfK1rO9bf+ZZs9PMROs=;tviB7OZZ7tux3e5C95Gslw=="
 ---

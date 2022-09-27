@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-27T18:19:00Z
 originalUrl: "https://www.rit.edu/news/two-rit-cybersecurity-professors-win-meta-research-awards"
 webUrl: "https://www.rit.edu/news/two-rit-cybersecurity-professors-win-meta-research-awards"
 type: article
+quality: 4
+heat: -1
+published: false
 
 provider:
   name: Rochester Institute of Technology
@@ -14,6 +17,17 @@ provider:
 topics:
   - Facebook AI
   - AI
+
+related:
+  - title: "MIT Report Validates Impact Of Deep Learning For Cybersecurity"
+    excerpt: "A new report from MIT and Deep Instinct seeks to dispel confusion in the cybersecurity market between artificial intelligence, machine learning, and deep learning and validate the efficacy of deep learning."
+    publishedDateTime: 2022-09-23T19:05:00Z
+    webUrl: "https://www.forbes.com/sites/tonybradley/2022/09/23/mit-report-validates-impact-of-deep-learning-for-cybersecurity/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "E6L928S1hNQX4kl7mrVTPSXAdqbTh6LLG44TLUM2JDBytbgpcw3613KMmk1+MWQe/1RyRr4bo8iYPLyBhZsIDOcmU3m5phF1wJzCkwpJvVbFwjg97+8s4C/cfvgR1N8Sp/0qRmf5Mwfe8l7lKv0rMi2X8txp+r+9DUU0rHPAgpIzVII7VFAFkWknYjTeXwOTY8AbLB+p+K9jI0Fnkw1/8xhpJxL6/3FG/jqi3j5jM8MemxauEJMS9IuvCOnxAMsgg6cX04gHjG4zSbYjQ1RGmFg6oHRDr4ygVFRCZA7Z3gjDcf4S41Jpux4EO+Ln6tXdPxh7thl9FU3vj0/RA1M6Pa2lUfxrU2QgupQQKGFmE6MyrJHB0eMpn48OfYsMs2wghrs3gsyL7kuZvPPj3dOHfPpTmYabC84sAvx4lnl6EPbtZHAIZOjtY9cBfp8vlEG3yMfiOp40guy2unJQL+DfbzqvuZYLMsEAcciw37450BdEzwgSB5InaooSUzaYsd/Y8VgWevr4UiFEXrrCUZa6hw==;4qHnRbnzjuimbgkZeoZ6UQ=="
 ---

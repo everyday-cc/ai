@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-26T18:59:00Z
 originalUrl: "https://techcrunch.com/2022/09/24/perceptron-multilingual-laughing-pitfall-playing-and-streetwise-ai/"
 webUrl: "https://techcrunch.com/2022/09/24/perceptron-multilingual-laughing-pitfall-playing-and-streetwise-ai/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: TechCrunch

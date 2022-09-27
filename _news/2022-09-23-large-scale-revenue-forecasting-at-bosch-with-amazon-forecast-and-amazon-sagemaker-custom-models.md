@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/large-scale-revenue-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/large-scale-revenue-forecasting-at-bosch-with-amazon-forecast-and-amazon-sagemaker-custom-models/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 1531
         height: 766
         isCached: true
+  - title: "Provision and manage ML environments with Amazon SageMaker Canvas using AWS CDK and AWS Service Catalog"
+    excerpt: "The proliferation of machine learning (ML) across a wide range of use cases is becoming prevalent in every industry. However, this outpaces the increase in the number of ML practitioners who have traditionally been responsible for implementing these technical solutions to realize business outcomes. In"
+    publishedDateTime: 2022-09-27T18:57:52Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/provision-and-manage-ml-environments-with-amazon-sagemaker-canvas-using-aws-cdk-and-aws-service-catalog/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 85
 
 secured: "5huE6Tf/8r2Dj8adiRhXR1FdP8InxQlXyYiArBoo4OJ2KkGmjIafekbOG0xvZUq9njaeRGMllXId1Y1/xxHk86nKwxKID38NsIXHdnxk/6ZSYRX7BK4dUAeEro4IRHVWELNs73JQF194QgtU+BS/+QNKX7OJ1qLr/qW/JQFggzIVGivJT2tkIHD4LgMtKARuQyrBoHu3O7QfQLkpZugaUvepzkKEi/OYqvC+U5CMKDc5VSWxZ5Jgpknqg7Ig7beHiF2HFJK6cLEK80SjsQe0JMUKjg4KweWgDVABN9BC5IDb4+uI57AvfNSLZSLjGmy5W1dzMWgGV6gHBnX8TMBNw0Pd8wugLWhxxDO+ON6Lffo=;2vDeaNUE+/B6su6VPUaq/g=="
 ---

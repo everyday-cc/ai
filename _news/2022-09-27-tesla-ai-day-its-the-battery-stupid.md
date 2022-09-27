@@ -99,6 +99,24 @@ related:
       name: CNET
       domain: cnet.com
     quality: 78
+  - title: "Tesla AI Day 2022: Everything You Need To Know"
+    excerpt: "Tesla’s AI day is their annual showcase of the latest technology across the company’s various business units. While Tesla vehicles gain the majority of the press coverage, they have a wide range of different applications and products that they continue to develop and refine."
+    publishedDateTime: 2022-09-27T19:27:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2022/09/27/tesla-ai-day-2022-everything-you-need-to-know/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 66
+  - title: "Tesla's New Self-Driving Version 10.69 Is A Big Leap Forward"
+    excerpt: "New version gives us a glimpse into the future with respect to full self-driving on surface streets. Read more here."
+    publishedDateTime: 2022-09-27T18:34:00Z
+    webUrl: "https://seekingalpha.com/article/4543424-tesla-new-self-driving-big-leap-forward"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "+4m2y9F3BCFpeEIi2TYpFkMleErKU/xOLqhbHdxjBI4Ltk25ix6jc6Rx5/IboHTGM5yn4HcDxalWQgw/PHXPTyVq4BC/jWJV7tJAJQSjiExi2qKI218+2/kLkG8S2R/eimGwcadVPEuMO9V3eT9wAqcJ5Owz6kKfZ5sW5G3DAIFi+bASd4RWQ9Xq5dvgFXFeHoM756TYWR6mIGyU4/8HoeEfP8T3K34D21Wyly3yZICRb4SG+uPGoeMN7xRQZxVIxWwBT9sPO9FIFEA50qF4tc5u1teMTkG9B89Q23UTZPeBNvA9zATa5nM1Rjj0vtcqJ94lT/3ItZ7TKgiD+CgMysjDsZzNCHKKPieGmsqNX+8GFFRy/KDzpSsqbAZpTheQl/u3CNHsD+5c1lIkq/GvbEbB+FK5G+yk88gPY6e4VGkBG6M/bioXMSD4IiQRbl62OavcgtnT+XV+y0RT18dCvdogQxkBEdpQwr9oXFH6dqIQh/XZqQTHj/BZj40D+i1KQVR2vr2r7lLaulVHWGgKKw==;l08eBnU/NiXDGeZ1dWWXRQ=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-27T18:34:00Z
 originalUrl: "https://www.01net.it/aws-announces-general-availability-of-aws-iot-fleetwise/"
 webUrl: "https://www.01net.it/aws-announces-general-availability-of-aws-iot-fleetwise/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: 01Net

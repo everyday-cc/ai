@@ -145,6 +145,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "WinWire Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "WinWire Technologies (WinWire) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads,"
+    publishedDateTime: 2022-09-27T18:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/winwire-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1031767749"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
 
 secured: "ynz5a6++e3OG4V2dqCkVkUTHZHpsbTmEzM2qVvrHY9oKugQteAD21vJFRu2ZdDDlQrA6AbnZAqWj2cRIgbyMZE+BmS5uPg2J1VeixqY4twB1nGkC8YQHxyBjF4S7JcKhh6SzAukR023nM5KNCT2DaS4JEx43uJoknyT+cUHWrAgHxSTwjwmu50FASGUF9qMj1DMt0Ge2HFbLZGvyho9shL+Y0YlxpyFSKXoet9QkCj1YeXLZ2VsaPTerl1FfCgRY/IAb9GGpLSI1ktDrn/0AMGASfARNEf2mEozW8dAaiJ7bG8xB+POSmKV2fn10P4AS5YnC2kuFLscrokknL/a+IdUoOqIxB9u+bbhs/k9Ta6s=;EdGMkBbmTXCddqD5aF74yw=="
 ---

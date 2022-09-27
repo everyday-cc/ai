@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-27T15:57:00Z
 originalUrl: "https://www.bbc.co.uk/news/uk-england-devon-63048834"
 webUrl: "https://www.bbc.co.uk/news/uk-england-devon-63048834"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: BBC

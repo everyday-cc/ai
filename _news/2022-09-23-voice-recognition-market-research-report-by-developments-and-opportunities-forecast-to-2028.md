@@ -89,6 +89,15 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "New report offers blueprint for regulation of facial recognition technology"
+    excerpt: "A new report outlines a model law for facial recognition technology to protect against harmful use of this technology, but also foster innovation for public benefit."
+    publishedDateTime: 2022-09-27T19:36:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/09/220927133419.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
   - title: "Can Government Be Trusted With Facial Recognition Technology?"
     excerpt: "During the Covid-19 lockdowns, India’s Defense Research and Development Organization (DRDO) developed a facial recognition system that could identify individuals even if they are wearing a mask. But with great power comes great responsibility."
     publishedDateTime: 2022-09-24T11:00:00Z

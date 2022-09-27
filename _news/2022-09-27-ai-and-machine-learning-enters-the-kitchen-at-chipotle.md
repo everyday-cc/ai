@@ -7,8 +7,8 @@ originalUrl: "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-en
 webUrl: "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enters-kitchen-chipotle"
 type: article
 quality: 73
-heat: 123
-published: true
+heat: -1
+published: false
 
 provider:
   name: QSR magazine
@@ -35,7 +35,7 @@ related:
     provider:
       name: QSR magazine
       domain: qsrmagazine.com
-    quality: 71
+    quality: 73
     images:
       - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2022-09/Chipotlane.jpg?itok=5BEjL9Eh"
         width: 765
@@ -92,6 +92,15 @@ related:
         width: 750
         height: 509
         isCached: true
+  - title: "Who Could Have Seen This Coming? Chipotle Tests Out Robot Chip Maker As CA Passes Fast Food Bill"
+    excerpt: "Bags of chips are seen ready for customers in a Chipotle restaurant, on the day that the company announced it will only use non-GMO ingredients in its food on April 27, 2015 in Miami, Florida. The company announced,"
+    publishedDateTime: 2022-09-27T19:44:00Z
+    webUrl: "https://ijr.com/chipotle-tests-robot-chip-maker-ca-passes-fast-food-bill/"
+    type: article
+    provider:
+      name: ijr.com
+      domain: ijr.com
+    quality: 23
 
 secured: "b3AWEmi2Po+/1OQHHJmWhIa1xzKaYZ7gJjnQ1c+ta9pvfvbIVtBqcAlaUStg9Oo3tUatty+r+rNPruoety2QPZfwFL1WiLggOYgCtKo13LSmkQlZbpl9g1HJW7js2owN6t527BwY7DmVSJ5hjDYXKAqETFDlsX2KXEqX8pWnIH9qsO0BTe65Te51CoidtW84ttRvj62WXkRruheROrwnWEWIK8VM9BM5qQu8vOURwu+cu+6OUi9BCG4ybpmfN3Irx0m2uV01HJWyuLgFExVU/VIh1IzW6nz+75J1SgUwIMA7eQ+U4G+SMCkjFhzrJJ8xKoB+8nCZcGAROwC6Fsp1wClB4LKVjDIsH6s7Ad6IMeU=;4gRRe++b1fYu33k6dPcvMQ=="
 ---

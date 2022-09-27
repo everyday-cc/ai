@@ -195,6 +195,15 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 17
+  - title: "The droids you’re looking for: how Ukrainian AI recreated Darth Vader’s voice"
+    excerpt: "A Kyiv startup helped ‘clone’ the voice of legendary actor James Earl Jones, 91, for the recent Obi-Wan Kenobi series"
+    publishedDateTime: 2022-09-27T17:58:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/sep/27/the-droids-youre-looking-for-how-ukrainian-ai-recreated-darth-vaders-voice"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 14
 
 secured: "9OGCBDvzP5DK/oPDsKuDZyTy0fQv6tebdzlYRy+YfpTt2/Kc1aQJZO/FeOPgu6HbYwDK8MFgqOOJ5mey7Ynu6gETo01JC3dy8XClmDynRiEikf3o2vb22qDeylNZLWos5Rww7duvZehztCzBm6quLpg7MtrA+87ufc/6F3U5+M7haDTlaPI0pLu6ljlMQcdIdx2/t+vFOD4sPZp0yVAn1ANXybfSOaJ+3wUkLDsCUtekSJFiIL2RF4AaxYjQHmwNhKtFM7A9d5eArLld7a03yM/Pz6bq6JmPUX8M0AacYmEgl3g/IQZcld7Wkhwjsh0BEG4WJCTsdfaEImmYsprXxngUaWxxJH8q6/1GeCu3ixq7svDbe+E09AXYgBLYndzteHEqb7J67SqnkZq5gT21VIDv7nZFYENwZqiVD+k8k6oRupu0nSjuHg49cpw59hiEIIt0XaF8nMNv7W2OmaUr9YrN2PUWDdse3WSAfKlk5heVvJmRhTEn9BDK8ga02j9w9MafwhvYELHU8e9WeKr/ig==;6ZVC8sTLhc96AQKLWc8Lvg=="
 ---

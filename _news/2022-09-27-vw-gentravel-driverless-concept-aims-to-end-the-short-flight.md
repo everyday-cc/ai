@@ -57,20 +57,6 @@ related:
         width: 1280
         height: 914
         isCached: true
-  - title: "Volkswagen shows driverless future"
-    excerpt: "Volkswagen Group's Gen.Travel concept previews a truly autonomous future. Volkswagen shows driverless future - CompleteCar.ie car news"
-    publishedDateTime: 2022-09-23T04:03:00Z
-    webUrl: "https://www.completecar.ie/car-news/article/11905/Volkswagen-shows-driverless-future"
-    type: article
-    provider:
-      name: Complete Car
-      domain: completecar.ie
-    quality: 39
-    images:
-      - url: "https://www.completecar.ie/img/news/11905_large.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
 
 secured: "q+jApLXjtHiCmnhqCtwGkroWnClBgpbGY9TfXf0FNoYgPvUrOwUO3IAjdC871Yw9c3nrODuNZ8MoM4kvMBLkQe4naQqdYY12OW5RzQCaPlP/Bn+BtUzfLtlMLbfR3WRmJ9qGIU61jy7ZEaBKWCvWGuUIy982owut5yze/pKuMHHxRaOdEImvVb94JTH0YtEE3c1pzvbKdzqcH7Aslt3zcipqcFTCYGIHWCWQQ+2oeRDB4Dfo/clNp+tajQ/+5916MOJN4rb9FNAgFu0fG2d4bshDtcFyMQNZW0iwbX+1S2L7cb+ZTr5jZV7CWMdEHdnTuKJ91UPdExY3/Y9aWel69xHRdgIi27Bm/wuTdNSBSqGhibk7CxrBi+MLHvYT/1+a2Obb85MCjlRohoeH/OmPE72ceAQMCsUawgl80HghTOVszjfJxr5Rx/jlBO8hGbHXL6Hbq/xmOmXfZ/ezX7NHBNS0Wvm21rPQ5LukyFElGFSPAlkGDF4WtiVzEXYcx2tS9fbfjhLTGMe6k0FIW1rdXg==;Q8BQjztwycB69QxzzDjCAQ=="
 ---

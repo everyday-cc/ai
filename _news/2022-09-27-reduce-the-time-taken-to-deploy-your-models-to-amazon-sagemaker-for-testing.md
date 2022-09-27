@@ -57,6 +57,15 @@ related:
         width: 1533
         height: 767
         isCached: true
+  - title: "Provision and manage ML environments with Amazon SageMaker Canvas using AWS CDK and AWS Service Catalog"
+    excerpt: "The proliferation of machine learning (ML) across a wide range of use cases is becoming prevalent in every industry. However, this outpaces the increase in the number of ML practitioners who have traditionally been responsible for implementing these technical solutions to realize business outcomes. In"
+    publishedDateTime: 2022-09-27T18:57:52Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/provision-and-manage-ml-environments-with-amazon-sagemaker-canvas-using-aws-cdk-and-aws-service-catalog/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 85
 
 secured: "6tGF0YNmOWH0KTIR9b9EsgKdvYhs1aaP/fPRkhly4g9UAlw2EboGI7HA8yuj7GoULvEL4wYBLP8QtEuHGNbrVCaU23gUdoxL+8I0RF8vFOnw3Na863bSP07UAAxBiWs3yE/7ASMQCwrSPuh/i0puzZ5NquMVCWQ06BYHUpStEegyCfPXxEouu5ahXrMxcNMZlOVANoYUzTVphuzsJUGiMPDiddWLh1+/yNXqu2mmi7L/j65LR8wXgpSMp4diC18x4fmZoYITEBb+BOsPCca8Xnvh/NzSka2oi6IKW4lZqVzjFwZ73SVtlp8Y0nv1yFdpJOCkksKkqS8i2NHAa8KToBu7cwc1blyaNsxPxIZXluc=;VrSefLz6Zyz39b3ppOzc+A=="
 ---

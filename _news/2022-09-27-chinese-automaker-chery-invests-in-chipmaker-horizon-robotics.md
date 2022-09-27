@@ -7,8 +7,8 @@ originalUrl: "https://technode.com/2022/09/27/chinese-automaker-chery-invests-in
 webUrl: "https://technode.com/2022/09/27/chinese-automaker-chery-invests-in-chipmaker-horizon-robotics/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: TechNode
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Chery Signals AI and Self-Driving Car Ambitions"
+    excerpt: "Chinese state-owned carmaker Chery Automobile Co. Ltd. recently took two major steps signaling ambitious plans for high-end new-energy vehicles and driverless technology, industry insiders said. Artificial intelligence chip startup Horizon Robotics said Monday that it received a strategic investment from Chery."
+    publishedDateTime: 2022-09-27T19:21:00Z
+    webUrl: "https://www.caixinglobal.com/2022-09-28/chery-signals-ai-and-self-driving-car-ambitions-101945584.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 39
+    images:
+      - url: "https://img.caixin.com/2022-09-28/166430641399379_560_373.jpg"
+        width: 560
+        height: 373
+        isCached: true
   - title: "Former Chicago College Student Convicted of Spying for Chinese Intelligence Service"
     excerpt: "A federal jury convicted a former Chicago graduate student of spying on scientists and engineers in the U.S. with valuable knowledge about aerospace technology, artificial intelligence, and even aircraft carriers."
     publishedDateTime: 2022-09-27T14:25:00Z

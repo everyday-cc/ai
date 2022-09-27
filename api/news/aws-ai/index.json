@@ -97,7 +97,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/large-scale-revenue-forecasting-at-bosch-with-amazon-forecast-and-amazon-sagemaker-custom-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -1192,19 +1192,19 @@
     {
       "path": "_news/2022-09-14-online-proctor-sumadi-joins-aws-partner-network.md",
       "title": "Online Proctor Sumadi Joins AWS Partner Network",
-      "excerpt": "Sumadi’s status as an AWS Partner strengthens the business’ ability to deploy large-scale, simultaneous proctoring of online tests and assessments for clients around the world, including universities,",
+      "excerpt": "Sumadi's status as an AWS Partner strengthens the business' ability to deploy large-scale, simultaneous proctoring of online tests and assessments for clients around the world, including universities,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/4bd9f0ea4a14e9b8784948706e74fa52",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/4bd9f0ea4a14e9b8784948706e74fa52",
+      "webUrl": "https://it.tmcnet.com/news/2022/09/13/9672910.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/09/13/9672910.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
+          "width": 476,
+          "height": 210,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1214,11 +1214,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T13:16:00-07:00",
+      "publishedDateTime": "2022-09-13T15:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

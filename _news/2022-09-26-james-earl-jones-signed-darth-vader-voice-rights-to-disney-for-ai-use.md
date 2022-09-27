@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2022/09/james-earl-
 webUrl: "https://arstechnica.com/information-technology/2022/09/james-earl-jones-signed-darth-vader-voice-rights-to-disney-for-ai-use/"
 type: article
 quality: 69
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -200,6 +200,15 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 17
+  - title: "The droids you’re looking for: how Ukrainian AI recreated Darth Vader’s voice"
+    excerpt: "A Kyiv startup helped ‘clone’ the voice of legendary actor James Earl Jones, 91, for the recent Obi-Wan Kenobi series"
+    publishedDateTime: 2022-09-27T17:58:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/sep/27/the-droids-youre-looking-for-how-ukrainian-ai-recreated-darth-vaders-voice"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 14
 
 secured: "aJ81D7w15n4qE4CaSurvsCd4sz4HUSQgNl1Lmj0SEDHloLHwAE0Av/T1Nx9Kjsp+eRYH0Pd6pc0bktCOYgplpP2Lh54zVMUYZb+CMJwRDFN2vH9YvTYedK9A4fnJwRtZwlJm3xPQdKTdDIfm/4pnxmbuwheLVdk4BsT5WD/mhOBkKslYLC2HvXDKhKKiX1XIpsc8owcYqVyk5fEPr2QBUpATEv30Bb3m5VWlgbOHaDpeoj0kzi2MhK9070Q4StMNdUIilbcASsYMM0DbcR3ArLUfEDjiMIi3gWWQMIrMtpP1Oni444pYVLbNuBwqQdkuBEZG38hpGxSX6ldm3iELTsVd/SrICcIjv5BesvxGOhmKVgUTti82a0e+Wa4QechQ5FlY18FbYyJnNXq0u6d0zSm2Y4AMpxxAnWCnqlhaUAqeSF0AaITAwDkfz8rhSrf3z+FtKYZbspa0JAF63ExlwylxbaoOlfsxMzx5BTPpN6wQ1P+mV2puipXhxgu9dWxSraWqz8YvGzxup/98w+WHsQ==;C2DbOFAx5mam3ZLBUMBjhQ=="
 ---

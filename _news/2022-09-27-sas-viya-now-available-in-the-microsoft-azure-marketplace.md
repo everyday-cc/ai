@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/sas-viya-now-avail
 webUrl: "https://markets.businessinsider.com/news/stocks/sas-viya-now-available-in-the-microsoft-azure-marketplace-1031767702"
 type: article
 quality: 99
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -135,6 +135,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "WinWire Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "WinWire Technologies (WinWire) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads,"
+    publishedDateTime: 2022-09-27T18:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/winwire-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1031767749"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
   - title: "Wallaroo Unveils Integration with Microsoft Azure Marketplace, Debuts Latest Edge Environment Technology"
     excerpt: "Wallaroo Labs, developers of a model operations platform for deploying, observing, and managing machine learning in production, is announcing integration of Wallaroo Enterprise Edition with Microsoft Azure Marketplace,"
     publishedDateTime: 2022-09-26T20:10:00Z

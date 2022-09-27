@@ -72,6 +72,15 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "New report offers blueprint for regulation of facial recognition technology"
+    excerpt: "A new report outlines a model law for facial recognition technology to protect against harmful use of this technology, but also foster innovation for public benefit."
+    publishedDateTime: 2022-09-27T19:36:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/09/220927133419.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
   - title: "Voice Recognition Market Research Report by Developments and Opportunities Forecast to 2028"
     excerpt: "To generalize, voice recognition comprises software programs or hardware devices that can decode the human voice. This technology has turned largely pervasive and accessible in everyday life, in homes,"
     publishedDateTime: 2022-09-23T08:48:00Z

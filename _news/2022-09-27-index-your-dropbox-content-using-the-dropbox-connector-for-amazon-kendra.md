@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-27T19:57:04Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/index-your-dropbox-content-using-the-dropbox-connector-for-amazon-kendra/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/index-your-dropbox-content-using-the-dropbox-connector-for-amazon-kendra/"
 type: article
+quality: 53
+heat: 53
+published: false
 
 provider:
   name: AWS

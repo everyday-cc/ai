@@ -25,10 +25,10 @@ images:
     isCached: true
 
 related:
-  - title: "AI and Machine Learning Enters the Kitchen at Chipotle"
+  - title: "AI and Machine Learning Enter the Kitchen at Chipotle"
     excerpt: "The first, piloting in select Southern California restaurants, is a cook-to-needs kitchen management system that provides demand-based cooking and ingredient preparation forecasts to “optimize throughput and freshness while minimizing food waste,"
-    publishedDateTime: 2022-09-27T14:50:00Z
-    webUrl: "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enters-kitchen-chipotle"
+    publishedDateTime: 2022-09-27T16:52:00Z
+    webUrl: "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enter-kitchen-chipotle"
     type: article
     provider:
       name: QSR magazine
@@ -39,15 +39,15 @@ related:
         width: 765
         height: 446
         isCached: true
-  - title: "AI and Machine Learning Enter the Kitchen at Chipotle"
+  - title: "AI and Machine Learning Enters the Kitchen at Chipotle"
     excerpt: "The first, piloting in select Southern California restaurants, is a cook-to-needs kitchen management system that provides demand-based cooking and ingredient preparation forecasts to “optimize throughput and freshness while minimizing food waste,"
-    publishedDateTime: 2022-09-27T16:52:00Z
-    webUrl: "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enter-kitchen-chipotle"
+    publishedDateTime: 2022-09-27T14:50:00Z
+    webUrl: "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enters-kitchen-chipotle"
     type: article
     provider:
       name: QSR magazine
       domain: qsrmagazine.com
-    quality: 71
+    quality: 73
     images:
       - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2022-09/Chipotlane.jpg?itok=5BEjL9Eh"
         width: 765
@@ -90,7 +90,16 @@ related:
         width: 750
         height: 509
         isCached: true
+  - title: "Who Could Have Seen This Coming? Chipotle Tests Out Robot Chip Maker As CA Passes Fast Food Bill"
+    excerpt: "Bags of chips are seen ready for customers in a Chipotle restaurant, on the day that the company announced it will only use non-GMO ingredients in its food on April 27, 2015 in Miami, Florida. The company announced,"
+    publishedDateTime: 2022-09-27T19:44:00Z
+    webUrl: "https://ijr.com/chipotle-tests-robot-chip-maker-ca-passes-fast-food-bill/"
+    type: article
+    provider:
+      name: ijr.com
+      domain: ijr.com
+    quality: 23
 
-secured: "8HQ0rJ3zGJ8oFewTTnjdQoJ5O5NTb3nPdA5q20QXqvXuJUMMp3SqXXpkLnzkLaauJU7EJdLV54eVnsSA+DwVka1WIrjfbCO7sKg1/wB4YsiRm2jiPJGgYuvhaYVQC39CqNUr2o9BKVRTaMt5Rqogx3gm/Gxqixarfkoa/Vprl1yos+ErdDUgoXjFnkWwHKsxJ+zEyiUhffMF/JNN285V0PHL9Fxm0OgNyCevlLRqCpcuMTRVy5MFQ7i6n8jRfyp7XIuaoXni61QgdRT001tgkJOu3V/urf5pw0ifZ3DeYZ8T/5irgtN7QvuuP87Jf2/Bn4Jpc5oKThqe23Yhc79a/WOK8XRhsLgNwNVr/vEJ44o=;OgDqnl+nB/thF3QwMYQlKg=="
+secured: "FuKAG8ul1pj1Td7urwi05cs6B1vR3JOgIzCAD0uZUf31M95FZ4jCWDYiYpiUD9b0L1ogATUTz/qFvBN4mU98RJJh2nej89LJ1luG0O5g/PGSI4y1IPsZ5mr3p6AbZ4Gmh6TOQNomBjP1/ithEC0hriGDILcvdpXoyTeAe8Hy5BQghJti759nML1QjGC093f40dVmerpk9kyw+76RoFDMBjuHRtitOtq4yPTvb/TNwODkjuuY4LW4Hzaw1CHRbCtyMD85eyVmUQJYhSGb9v8yjdgf1TBHxNgNTwWMC90cFs+26pDWDkKe2rvVfV7JiQ6RoUcJ6jzYEcrtRA29dE5TmHnEeidyqCCaDQzr09ccbYH5RkfIJuoycaa5Vn2c7V/yv6HGbuf7KTsW6ReNtDBnsdJsdqhalMIceb2s1Lpp/q2so4aYxkZCxX0gZiM5aGW7xYBUjU07u7hDYkL2OiYwgGCHRDgyGOxViT6+efFrU5XT5r2xOV+Nx38ATZraBsXHGkARJH28CYTPmiJGCSwwrg==;RNpsLcrmqKoFcF2ZPVhW0A=="
 ---
 
