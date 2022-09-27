@@ -7,7 +7,7 @@ originalUrl: "https://www.morningstar.com.au/learn/article/buyer-beware-your-bra
 webUrl: "https://www.morningstar.com.au/learn/article/buyer-beware-your-brain-on-fintech/226835"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,52 @@ images:
     height: 400
     isCached: true
 
-secured: "7/nsUHg9JXgwffIL65NWa8A+zqmDR84GdGE5GO6uRz8NH63Ij651Ab0JW0zvQLruyYvGs6yIa4RBBtPa2YsGubAZGhivRP/s3pVTUiVxtIRB9hmPAiu0DWxCtWdDKWz3n/jFjAYIpp3j1rAfdy9q5dYwqExz/2MPHhbPIo8jM7NE3z9bq7i1cZ0+Q+FopA+ka0XNdmPaVYLQTK8PskKCz6+REhsNgSzN17gfWYHkC4A69iTdO/R6BiuCB+UzzPMERBNsDSB7xGEIR2nFEwrWqaGgnyJuQqrFXfhuG6wkM6DdNg6MNbqlCnr2DRkqGOW1VmUTun03Tn3UTI+rvvRPNzfE5/HQat/TuFiKP7SvrN4=;r/O0ioeaKXT8N6RLIr2xKg=="
+related:
+  - title: "Fintech Files | Part-1: What they are and what they do"
+    excerpt: "Relying on smartphones for almost everything has become the new normal in today’s fast-paced world, particularly when it comes to financial services. But it is actually the financial technology in the background that enables these services,"
+    publishedDateTime: 2022-09-27T06:04:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/fintech-files-part-1-what-they-are-and-what-they-do-9237031.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/fintech-files-part-1-what-they-are-and-what-they-do-9237031.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/fintech-files-part-1-what-they-are-and-what-they-do-9237031.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 44
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/07/Fintech-Shutterstock.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Fintech debuts app that combines banking and life insurance"
+    excerpt: "A new app is combining banking and insurance into one service aimed at people who feel excluded from traditional financial services. Onuu, which announced its official launch on Friday, has a waitlist of 600,"
+    publishedDateTime: 2022-09-23T20:54:00Z
+    webUrl: "https://www.americanbanker.com/news/fintech-debuts-app-that-combines-banking-and-life-insurance"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/81682fb/2147483647/strip/true/crop/1200x630+0+313/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F03%2F9e%2F952a512f42a69153de6aeb752802%2Ffelix-from-onuu.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Why are traditional firms spending millions on Fintech in 2022"
+    excerpt: "Why are traditional firms spending millions on Fintech in 2022 - Fintech is a vast market. It can disrupt the traditional banking system and create new opportunities"
+    publishedDateTime: 2022-09-27T06:16:00Z
+    webUrl: "https://www.siliconindia.com/news/business/why-are-traditional-firms-spending-millions-on-fintech-in-2022-nid-220090-cid-3.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 24
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/LQhz160l.jpg"
+        width: 570
+        height: 367
+        isCached: true
+
+secured: "BmO6tM8AMS6I6o+tQWv0d8Kv9clgiMLJWtZjI4qUWSY9Vc4/3dPB1+wfnT79z+OsARizMYr7gkpBBc7ZovA9k29hwTMrb0JDYjfYg3rm4PdYldLgo5V0RFj0tyuVRrdZcmxriV7kCnFgKlKwenC9HKb6MVct945GrJ6kqJUfKr+LiFMLc7j+Y4ov87hoKnogI1f4Aq2SeFy5VIIogZmnGJuB6OC38LT8oUpMS/ahhTFvlPFF4SeUmmbPbzTYiUfGRBIcSsZ+HClurR5o3TahB6ZW4I9f5H6MtsdaFX7QiWHznPBNutbYSo1kM/OGAZPAPqaNRlwpd6+jT28WYOzEOv3UD14q0r5xO7nwhIBqfV6vBsaKQRZ90K4iYf/kPomJWz9mmALYm4WpZPvd/bU26t2nh3u6cYntZyeBNEW6ea7LRExKwEIJAa1ItQ6PdsuAOvUe57pRSRXWYXKR2H+ri6J1Fw1K/8CF5ewCD4L4iX59q5HX7lvcKXUlSfaERn/ROYYk+bcKXDqP1TRpP6VMgA==;r07d7VLgvtb7vKX/ZKKLEQ=="
 ---
 

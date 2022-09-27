@@ -41,15 +41,6 @@ related:
         width: 6000
         height: 4000
         isCached: true
-  - title: "IBM Acquires Dialexa to Speed Digital Innovation"
-    excerpt: "Dialexa's leading digital product engineering consulting services will enhance IBM's hybrid cloud and AI capabilities, accelerate growth for clients ARMONK, N.Y., Sept. 22, 2022 /PRNewswire ..."
-    publishedDateTime: 2022-09-22T15:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-acquires-dialexa-to-speed-digital-innovation-1031759732"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
 
 secured: "GijKAGC8oiFsaTWuN35oX1c5nVQlWg3SQF4edxVjpzrk62UpA01/GXpfSR3JXuJ5wIq9FI+xxvYGEkaB608ePy8sGJZbHItQiPreYSUJejfE2S8iPe2YOExMRvpQQ6pLWi3weuhOAN3IUEPE/x7jlyzcliqwfJy3c4L5RO5TxeEcmfIa+rPCUHyl4iM9J16IH4pSa7RzXH0p24Osl8eGCEaLu3e2aWANKRgEViCq2kXYhaGe/TLKnL9kkctDuZGNAzVYRG6D9houjt0llHsW3TtVNkuVYH/kuVUrafDzCcVuWIRPQbwK0agi2/dSrWcqwhAniCsqKgpgDNZ2dJd1Y9JXIBdyU420F9fH6/LBiQU=;y/m5OD29axaKXkTy/MiOVg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2022/09/james-earl-
 webUrl: "https://arstechnica.com/information-technology/2022/09/james-earl-jones-signed-darth-vader-voice-rights-to-disney-for-ai-use/"
 type: article
 quality: 69
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/06dTkkxaOH7LAfCoUcowmgy-1.fit_lim.size_1200x630.v1664191719.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "James Earl Jones steps back from voicing Darth Vader, signs off on using archived recordings to recreate voice with AI"
+    excerpt: "James Earl Jones, who has voiced Darth Vader for nearly 50 years of “Star Wars” films, seems to be stepping away from the role. According to Vanity Fair, the 91-year-old actor has signed off on archival voice recordings being used by young filmmakers,"
+    publishedDateTime: 2022-09-27T00:31:00Z
+    webUrl: "https://www.nbcnews.com/news/nbcblk/james-earl-jones-steps-back-voicing-darth-vader-signs-using-archived-r-rcna49393"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna49393"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna49393"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 63
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-09/220926-james-earl-jones-darth-vader-jm-0922-1a147b.jpg"
+        width: 2100
+        height: 1400
         isCached: true
   - title: "An AI program voiced Darth Vader in ‘Obi-Wan Kenobi’ so James Earl Jones could finally retire"
     excerpt: "After 45 years of voicing one of the most iconic characters in cinema history, James Earl Jones has said goodbye to Darth Vader.."

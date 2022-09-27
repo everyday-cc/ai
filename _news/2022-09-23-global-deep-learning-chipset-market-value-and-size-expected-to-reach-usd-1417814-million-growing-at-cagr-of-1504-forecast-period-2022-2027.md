@@ -23,89 +23,95 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Healthcare Market Research on Present State and Future Growth Prospects of Key Players, Forecast by 2022 To 2027"
-    excerpt: "Sep 23, 2022 (The Expresswire) -- \"Artificial Intelligence in Healthcare Market\" valuation is projected to reach 22590 Mn USD by 2026, and it is estimated"
-    publishedDateTime: 2022-09-23T12:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-research-on-present-state-and-future-growth-prospects-of-key-players-forecast-by-2022-to-2027-2022-09-23"
+  - title: "Natural Language Processing Market Assessment (2022-2028) | 29.4% CAGR to Garner USD 127.26 Billion by 2028"
+    excerpt: "Global “Natural Language Processing Market Size” report explores comprehensive and insightful Information about various"
+    publishedDateTime: 2022-09-26T12:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-assessment-2022-2028-294-cagr-to-garner-usd-12726-billion-by-2028-2022-09-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market Research Report by Developments and Opportunities Forecast to 2028"
-    excerpt: "To generalize, voice recognition comprises software programs or hardware devices that can decode the human voice. This technology has turned largely pervasive and accessible in everyday life, in homes,"
-    publishedDateTime: 2022-09-23T08:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-research-report-by-developments-and-opportunities-forecast-to-2028-2022-09-23"
+  - title: "Mobile Robotics Market Size to Surpass USD 25.3 Billion at a 21.40% CAGR by 2030 - Report by Market Research Future (MRFR)"
+    excerpt: "According to a comprehensive research report by Market Research Future (MRFR), \"Mobile Robotics Market Research Report, by Component, Navigation Type, Application,"
+    publishedDateTime: 2022-09-22T15:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28969105/mobile-robotics-market-size-to-surpass-usd-25-3-billion-at-a-21-40-cagr-by-2030-report-by-market-r"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28969105"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28969105"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 48
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg"
+        width: 700
+        height: 300
+        isCached: true
+  - title: "At 19.8% CAGR, Speech and Voice Recognition Market Size 2019-2026 | To Reach USD US $ 28.3 Billion"
+    excerpt: "Global “Speech and Voice Recognition Market Growth” report explores comprehensive and insightful information about"
+    publishedDateTime: 2022-09-23T05:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/at-198-cagr-speech-and-voice-recognition-market-size-2019-2026-to-reach-usd-us-283-billion-2022-09-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 44
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Surveillance Camera Market 2022 : Manufacturers Strategies, Share Estimation, Future Demand and Regional Growth Dynamics 2027"
-    excerpt: "Sep 23, 2022 (The Expresswire) -- \"AI Surveillance Camera Market\" valuation is Projected to reach USD 13760 Mn USD by 2027, From 4003 Mn USD In 2022, at"
-    publishedDateTime: 2022-09-23T13:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-surveillance-camera-market-2022-manufacturers-strategies-share-estimation-future-demand-and-regional-growth-dynamics-2027-2022-09-23"
+  - title: "Computer Vision Products Market 2022 Geographical Segmentation, Industry Insights, Share, Latest Trends, Size, CAGR and Forecast till 2028"
+    excerpt: "Global “Computer Vision Products Market” research report provides a comprehensive overview, industry shares, and"
+    publishedDateTime: 2022-09-26T06:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-products-market-2022-geographical-segmentation-industry-insights-share-latest-trends-size-cagr-and-forecast-till-2028-2022-09-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 38
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Mobile Speech Recognition Software Market For the period 2022 To 2028, this research report shows the current state and prospects and Growth."
-    excerpt: "The \" Mobile Speech Recognition Software market \" is important to the world economy. The Mobile Speech Recognition Software market is one of the fastest-growing sectors in Industrial Manufacturing. With regards to scope,"
-    publishedDateTime: 2022-09-22T18:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-for-the-period-2022-to-2028-this-research-report-shows-the-current-state-and-prospects-and-growth-2022-09-22"
+  - title: "With 26.6% CAGR, Cognitive Computing Market Size worth USD 72.26 Billion in 2027"
+    excerpt: "The Cognitive Computing Market Size is expected to gain momentum by exhibiting a stellar CAGR of 26.6% between 2020 and 2027. This is attributable to the increasing"
+    publishedDateTime: 2022-09-26T11:16:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g29005672/with-26-6-cagr-cognitive-computing-market-size-worth-usd-72-26-billion-in-2027"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29005672"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29005672"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Home Security System Global Market Report 2022: Implementation of AI & Deep Learning Drives Sector Growth - ResearchAndMarkets.com"
-    excerpt: "The global home security system market is expected to grow from $3.92 billion in 2021 to $3.96 billion in 2022 at a compound annual growth rate (CAGR) of 1.2%. The growth is mainly due to the companies resuming their operations and adapting to the new normal while recovering from the COVID-19 impact,"
-    publishedDateTime: 2022-09-26T12:10:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-26-home-security-system-global-market-report-2022-implementation-of-ai-and-deep-learning-drives-sector-growth-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 21
-  - title: "Ai In Agriculture Market is projected to reach USD 6.5 billion in 2029, registering a 23.1% CAGR | Size, Share, Report & Forecast"
-    excerpt: "Ai In Agriculture Market The Ai In Agriculture Market was valued around USD 1.2 billion in 2021, and is expected"
-    publishedDateTime: 2022-09-23T11:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-agriculture-market-is-projected-to-reach-usd-65-billion-in-2029-registering-a-231-cagr-size-share-report-forecast-2022-09-23"
+  - title: "Machine Vision Market Size To Reach USD 11380 Million By 2028 At A CAGR of 4.0% - Valuates Reports"
+    excerpt: "Major Factors Driving The Growth Of The Machine Vision Market are. The Machine Vision market is projected to be driven by the rising need for automation and quality inspection acr"
+    publishedDateTime: 2022-09-23T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/n28988369/machine-vision-market-size-to-reach-usd-11380-million-by-2028-at-a-cagr-of-4-0-valuates-reports"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28988369"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28988369"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
-  - title: "Artificial Intelligence in Healthcare Market Business Analysis, CAGR, Production, Rising Trends And Manufacturers Growth Outlook to 2031"
-    excerpt: "Most recent research report on Artificial Intelligence in Healthcare Market 2021 distributed by insightSLICE, begins with the market portrayal, comprehensive report, division and order."
-    publishedDateTime: 2022-09-23T00:00:00Z
-    webUrl: "https://www.medgadget.com/2021/09/artificial-intelligence-in-healthcare-market-business-analysis-cagr-production-rising-trends-and-manufacturers-growth-outlook-to-2031.html"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 10
+  - title: "Machine Vision Market Size To Reach USD 11380 Million By 2028 At A CAGR of 4.0% - Valuates Reports"
+    excerpt: "The global Machine Vision market size is projected to reach USD 11380 million by 2028, from USD 8374.8 million in 2021, at a CAGR of 4.0% during 2022-2028. Major Factors Driving T"
+    publishedDateTime: 2022-09-23T18:06:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/09/23/9680013.htm"
     type: article
     provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 1
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "CE7oina4R8NEYRiHHx7HMKVrK74GH5l+6DdH1/2kVCNMZt4OLQLZ7J2gB1ezHMngOWiL5V5jpkHCqteELuKkp1JRqzC6N1wNfuAQ63mWxzoSnFmNE/5nJRkJTppQWCbNTuKKEjRMsp++ZMnzhgHYUNn2r6HGBMyAlQg4vJ3Sn24p+5kqDAf1hcZ65uQQrGUQtcMgBLrhAa/3L4xxrxIgyrUaASLEwRBezr+rmgOO8QMy/DOCKx9bisRfBYaBnxIEGn8UYwk/9dJeWDLFa9GdRiU4KpEGnkkTocxBi4pnPYqDkPV8UrTyivFzLthxXmxw/whuNcJoESr64CVtobfRblNzB5qAXoA/SZzeJjDThdk=;hepMxAcSKKysuGi7EryDXQ=="
 ---

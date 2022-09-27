@@ -39,15 +39,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "AlphaFold developers win US$3-million Breakthrough Prize"
-    excerpt: "DeepMind’s system for predicting the 3D structure of proteins is among five recipients of science’s most lucrative awards."
-    publishedDateTime: 2022-09-22T13:20:00Z
-    webUrl: "https://www.nature.com/articles/d41586-022-02999-9"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 4
 
 secured: "TcWR3/idqPYYnxEwNEyfMj2jqgGzjN++Q5ThwD6sNzCkgSPEtWjZ6KQmZhKpXaFfnJOOiEohP4XNxeLzaWb99DcV3gEkeptH8klgVvJwve9pFZCeCWHROd5T03NU4fHQY4++tlYE6xCBpC5TUXseZCQw3Grk/GnZ4Tzm2CtY6Dj8w9ZJDsGmnONhoBURPZ6t8PUf2XjTXne7VBj41t/GxQuzdnJ2ydAHwGFcN33nzC94LIhr/ZpfLSaS/nr2NaGqFAOcbAalrfhTaQDgxGrRx79UUusVU/xW+XbkqFognpCEiyEupSO48LsBy922JpyecnVmXinT85MHOFOhgVDIardIm3X9Yr6+2y7QHN08v4rSgModYw4CppUH3zGuCd4kjBJDsVRcDFj9A4cfnorvKl2I6oXrkKjOaFn6OmoODdsfzQ/MtpUBYIK1XaMc3hEhsaNRXK29otRbM08kCCsaIOKYvQ6Q2KhNJ5uYejwxyq8UV9rnr/fkKpshV0TIr36ZCeQJMkrf3XQq84+xBLDTkw==;iOkup4O2wQSQCXCVbL/mmg=="
 ---

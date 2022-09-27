@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Acquires Dialexa to Speed Digital Innovation"
-    excerpt: "Dialexa's leading digital product engineering consulting services will enhance IBM's hybrid cloud and AI capabilities, accelerate growth for clients ARMONK, N.Y., Sept. 22, 2022 /PRNewswire ..."
-    publishedDateTime: 2022-09-22T15:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-acquires-dialexa-to-speed-digital-innovation-1031759732"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "IBM’s Cloud Acquisition Charge Continues With Dialexa"
     excerpt: "Dialexa marks IBM’s sixth purchase in 2022 with the goal of boosting its hybrid cloud and artificial intelligence abilities. Along with buying Dialexa, Sentaca and Neudesic, IBM has also ..."
     publishedDateTime: 2022-09-23T21:04:00Z

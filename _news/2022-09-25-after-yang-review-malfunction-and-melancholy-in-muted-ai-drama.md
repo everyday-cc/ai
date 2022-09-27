@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/film/2022/sep/25/after-yang-review-kogon
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2022/sep/25/after-yang-review-kogonada-justin-h-min-colin-farrell-jodie-turner-smith-malfunction-and-melancholy-in-muted-ai-drama"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 620
     height: 349
     isCached: true
-
-related:
-  - title: "After Yang film review — minor-key sci-fi brings AI and race relations down to human scale"
-    excerpt: "Colin Farrell and Jodie Turner-Smith star as a couple who acquire an android to help their adopted Chinese daughter adapt to life in the US"
-    publishedDateTime: 2022-09-22T15:00:00Z
-    webUrl: "https://www.ft.com/content/04815eef-174b-49a6-b2d2-d5f17a7a544d"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 27
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/lifestyle-weekend.jpg"
-        width: 619
-        height: 377
-        isCached: true
 
 secured: "WV1S9kwhwTZiqD9wRsk4aT8VHvrINmBxRXl8ZgKZ8B82/u8/fC9NVIiovYcWc97uCiwTYZAlmsMEJiYl/IuQEQcu/LBbwUJGzxX0v+JD1nrZzBcVIMpvi0iE+6uRjSFKd+gIMRI7lHu9FeYfY64TgLSK81eID7z2RVsEih5F2kUrigDckJIELwxo5CneOsK/DJF1UQsqI+wUKtIgIhlhQ3HFQfmfKw29iFWgo2XCho6yY5MmDQwrS3txCOlz9IQRnYT9/ZGcztDIfOIzFVGGeonNuWPVJ2e58G6c7iplNKww2oNcghw8ZbnKwzWchCT5HranUxrkFCoxzOR39HkzSSqIhVRf19ZPuniu+r2OOnDZLBFiH18jr0V6/77YmG4P/RSldxfFFSIxOTnVe6W0ZFJdy94wRQRp4SV8mCsJt376JXjQ7dToGQJQlvyNinQPWEJgXgjwIaZIJcfdHi5JBq28jNgAOweBIFfUWpN9tjEWaRTPQykmkU1USCPIZRP0IiBLILK4i4E66iNe+m1Fhg==;wxhVR7mGPc5tWkeNFrlUZQ=="
 ---

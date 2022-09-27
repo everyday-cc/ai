@@ -21,15 +21,6 @@ topics:
 related:
   - title: "MinIO Surpasses One Billion Cumulative Docker Downloads as Business Surges"
     excerpt: "MinIO Inc., creators of the MinIO multi-cloud object storage suite, today announced that it has surpassed one billion cumulative Docker downloads as the business sees a significant growth in customers,"
-    publishedDateTime: 2022-09-22T13:17:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/09/22/9679073.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
-  - title: "MinIO Surpasses One Billion Cumulative Docker Downloads as Business Surges"
-    excerpt: "MinIO Inc., creators of the MinIO multi-cloud object storage suite, today announced that it has surpassed one billion cumulative Docker downloads as the business sees a significant growth in customers,"
     publishedDateTime: 2022-09-22T17:30:00Z
     webUrl: "https://it.tmcnet.com/news/2022/09/22/9679073.htm"
     type: article
