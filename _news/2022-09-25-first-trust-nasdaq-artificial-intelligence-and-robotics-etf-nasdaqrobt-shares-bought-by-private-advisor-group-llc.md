@@ -18,17 +18,6 @@ topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "Kestra Private Wealth Services LLC Trims Holdings in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT)"
-    excerpt: "Kestra Private Wealth Services LLC lowered its stake in shares of First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) by 15.4% in the first quarter, according to its most recent 13F filing with the SEC."
-    publishedDateTime: 2022-09-22T08:12:00Z
-    webUrl: "https://www.defenseworld.net/2022/09/22/kestra-private-wealth-services-llc-trims-holdings-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 21
-
 secured: "9KtTh4sWVhXtGk3p4M0X895EItijEmNicsSzzHPAvaGNMU/ZL84QyZxQ2/qkumga0ogW5Uw5SxC0+tD+L40y00150jzKHpV48u2kRpk3lk9m2YyXKjYtVjfSKzTodPJR6sbfwsECpP3a6nhZ7jqCMbrOgbGO49sO3lucy91I9TpOZicjxOJuXLDCFPKLD7/0J/W/jD5qO5wcjIeIlTzW0GnGaLQvWZg5rSp0hHLqrq4I7rIZ6AE095WDim9XfY1BkiUE6gB3UAN+V5CZdTybSa1WvfJlB1NTXOqLFnMqaA4fbv78rR0ORe8uW68HLKtwOwMyezR9oBah0iamw9/rmRIOqehir7je8xWGIRCYv3465abIYXdOUnCxMHSVwG/SST45/NfWP7SJA1ptMJu4GdCgT0pNHZNKpPl6f0isIwbx5Xg6x/tUXWkdak5RZ12w9tzZ2AzbzSV6T117QQTuIArLU9EH6WiFFtF8tWmzPiMHSW13uTCKNk4rMwo1n9uFwhHbWLVntT0me0nFpSRFeQ==;RRlnXVqgDc3oQ6c4z2U1FA=="
 ---
 

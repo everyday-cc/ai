@@ -1,25 +1,29 @@
 ---
 category: news
-title: "CAC Corporation integrates CyberLink's FaceMe Facial Recognition into the POS terminals of their Unmanned Ministop Store"
-excerpt: "To create a facial recognition payment system that requires nothing more than the end user's face, CAC turned to CyberLink's AI facial recognition engine, FaceMe. Deployed in February of 2022 ..."
-publishedDateTime: 2022-09-23T13:14:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/b28982557/cac-corporation-integrates-cyberlinks-faceme-facial-recognition-into-the-pos-terminals-of-their-un"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/b28982557/cac-corporation-integrates-cyberlinks-faceme-facial-recognition-into-the-pos-terminals-of-their-un"
-ampWebUrl: "https://www.benzinga.com/amp/content/28982557"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28982557"
+title: "CAC Corporation integrates CyberLink’s FaceMe Facial Recognition into the POS terminals of their Unmanned Ministop Store"
+excerpt: "CyberLink Corp., a pioneer of AI and facial recognition technologies, has collaborated with CAC Corporation (CAC) to integrate its AI facial recognition engine, FaceMe®, into CAC’s facial recognition payment system."
+publishedDateTime: 2022-09-23T13:03:00Z
+originalUrl: "https://www.eagletribune.com/region/cac-corporation-integrates-cyberlink-s-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned/article_f876d4e4-cb22-5d25-b4f7-c204fc4b5f35.html"
+webUrl: "https://www.eagletribune.com/region/cac-corporation-integrates-cyberlink-s-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned/article_f876d4e4-cb22-5d25-b4f7-c204fc4b5f35.html"
 type: article
 quality: 14
 heat: 14
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "ShtzL4oict2fIJZbff68NxioWyRJ0yEi3/ebSbLg1Y4/uAkn9CecU7duE6BshuCygGeVoqauk6K8+sMVWqMmZDPKv34vg7o6FGRDZ9vp8TGCD3NBEZCnrTiC1k325QbzSf69ryrABs0+il/uuNJjPJQOh5gKNMOCeSArqSHRDl358/xpygrLRM7viNMkf0byCUd/vJStsvo4OVCegEBCVcreW64K8Ld8drVvUKII357iJmJzjcmkh3rBQYCi4xsX7XsRGSLomfDofQHop8qh6yr4DBwi2guO3BkMo9MrzdmWc9boLJeJc/C9+N0YhjmoMhkqZTC3AFspawnKZA8rvKcwlc/llKpcW4CXEjKo/ec=;2iwEoLUEEPr00LFlmt7ydA=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/b9/6b9f3a71-3a95-545f-8973-122bb5830ac1/632daf1034eb3.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "ABL9PYb9bbLzFh86LD8yvaMaSrjLp8+WFi6qcDb51ou6yGCYsjBP4ySdjX7Ay/qj8my1TX6k4bBeyOM+B0hZllYQ83ysQMVafbhC1lxb0AiwZo+5xLUUdVCo8mQCXBQZO8em5IAUBc05Z8YGcXQroau9IWyrRaplK7m+QsJUNVsCnuPPQxXr6tcHo5HtuxJmWZXtt83t3JROwyOC2my3Z3yf77OaFcwcn8Vi6j0eKma+9lKyGzHj9oERVTgJY1jUE6uIingP2KQbXKzbcxfBQBR87arNciHPBsIwutYFYzeAFdJb0eRXbJxXgBf9vJHJrAtv4KmGZnKfqAgP67Ng9+e4pvwDz2yBMdRy5B9M5js=;kVsy93omuCP+BOHCr6Fb6Q=="
 ---
 

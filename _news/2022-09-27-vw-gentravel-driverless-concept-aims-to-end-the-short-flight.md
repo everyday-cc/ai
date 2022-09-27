@@ -42,18 +42,18 @@ related:
         height: 750
         isCached: true
   - title: "Volkswagen concept previews tomorrow's driverless rental pods"
-    excerpt: "Artificial intelligence and platooning – fully autonomous driving in convoys – have been factored in to further increase the range for long-distance journeys, Volkswagen adds. Head of ..."
-    publishedDateTime: 2022-09-23T13:37:00Z
-    webUrl: "https://www.perthnow.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334177"
-    ampWebUrl: "https://www.perthnow.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334177.amp"
-    cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334177.amp"
+    excerpt: "When (if?) cars become properly driverless, why not make them glassy pods with beds, desks and AR entertainment for the kids?"
+    publishedDateTime: 2022-09-23T01:11:00Z
+    webUrl: "https://7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195"
+    ampWebUrl: "https://7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195.amp"
+    cdnAmpWebUrl: "https://7news-com-au.cdn.ampproject.org/c/s/7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195.amp"
     type: article
     provider:
-      name: Perth Now
-      domain: perthnow.com.au
+      name: 7NEWS
+      domain: 7news.com.au
     quality: 59
     images:
-      - url: "https://images.perthnow.com.au/publication/C-8334177/099020eebdcba6ebf61b69402bf2175d183a40b6-16x9-x0y173w3805h2140.png?imwidth=1200"
+      - url: "https://images.7news.com.au/publication/C-8334195/8b834ff686026c4ce8d0ecc99ee023286661aef2-16x9-x0y173w3805h2140.png?imwidth=1200"
         width: 1200
         height: 675
         isCached: true
@@ -88,6 +88,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "+/NL/pbXfHG5xcJXRXNpPGaojIdSioat+hefT6T0NpUZLysNZFjCwzsk4oJQFFju4cAB0Bue7CZXdm2AlKrQDHWA4Wk9bCTTWJ7xAWUWq+ggYAG7IKFCGv0uf+5GTZOvoRYVQCfX6AUdGmrqblW4i1lWg6xR2JIq3q/Xbg2dzkW2k0dzs9rach+p+2PPg4qcuvqXvHu2xkJLnO/y6VInmwcAS7bNs/KIGN2/fcZbG74g0llaaumo91aTutLIthkkJRhLcRewNmHplL21lnHCJNd/cHLHu2GbTm6YqBYGohr/+BAhYsAUHBjOsFHtFtJLYF/EP2lZvIH5ZGCrrS9wRulAd5XdliZcHIJBVScMCpM=;WAcixYCysqjuftfq75gNQQ=="
+secured: "q+jApLXjtHiCmnhqCtwGkroWnClBgpbGY9TfXf0FNoYgPvUrOwUO3IAjdC871Yw9c3nrODuNZ8MoM4kvMBLkQe4naQqdYY12OW5RzQCaPlP/Bn+BtUzfLtlMLbfR3WRmJ9qGIU61jy7ZEaBKWCvWGuUIy982owut5yze/pKuMHHxRaOdEImvVb94JTH0YtEE3c1pzvbKdzqcH7Aslt3zcipqcFTCYGIHWCWQQ+2oeRDB4Dfo/clNp+tajQ/+5916MOJN4rb9FNAgFu0fG2d4bshDtcFyMQNZW0iwbX+1S2L7cb+ZTr5jZV7CWMdEHdnTuKJ91UPdExY3/Y9aWel69xHRdgIi27Bm/wuTdNSBSqGhibk7CxrBi+MLHvYT/1+a2Obb85MCjlRohoeH/OmPE72ceAQMCsUawgl80HghTOVszjfJxr5Rx/jlBO8hGbHXL6Hbq/xmOmXfZ/ezX7NHBNS0Wvm21rPQ5LukyFElGFSPAlkGDF4WtiVzEXYcx2tS9fbfjhLTGMe6k0FIW1rdXg==;Q8BQjztwycB69QxzzDjCAQ=="
 ---
 

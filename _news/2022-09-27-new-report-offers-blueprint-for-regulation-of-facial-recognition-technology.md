@@ -1,26 +1,30 @@
 ---
 category: news
 title: "New report offers blueprint for regulation of facial recognition technology"
-excerpt: "Australian law was not drafted with widespread use of facial recognition in mind. Led by UTS Industry Professors Edward Santow and Nicholas Davis, the report recommends reform to modernise Australian law,"
-publishedDateTime: 2022-09-26T23:48:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/new-report-offers-blueprint-for-regulation-of-facial-recognition-technology-1031765652"
-webUrl: "https://markets.businessinsider.com/news/stocks/new-report-offers-blueprint-for-regulation-of-facial-recognition-technology-1031765652"
+excerpt: "Human Technology Institute outlines a model law for facial recognition technology to protect against harmful use of this technology, but also foster innovation for public benefit."
+publishedDateTime: 2022-09-26T23:00:00Z
+originalUrl: "https://techxplore.com/news/2022-09-blueprint-facial-recognition-technology.html"
+webUrl: "https://techxplore.com/news/2022-09-blueprint-facial-recognition-technology.html"
+ampWebUrl: "https://techxplore.com/news/2022-09-blueprint-facial-recognition-technology.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-blueprint-facial-recognition-technology.amp"
 type: article
-quality: 47
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/facial-recognition.jpg"
+    width: 1920
+    height: 1274
+    isCached: true
 
 related:
   - title: "Detect population variance of endangered species using Amazon Rekognition"
@@ -86,6 +90,6 @@ related:
         height: 443
         isCached: true
 
-secured: "HEgUVoTeowcbNqWoonDsFVANV39IYQjqn9HPzzVidnyNtIMP3K8pxD/bOGP+NEEEzU1rb1qh8B4Dfjy7Ewgo5UHM2mXama/7bZ/Qdveqb7LzvqfiYsX1VWV9xgyggJ1NlAlGa4uNdr5OHlrETuyPAxwoX630+2gjQMoTp0lq/pRnifS9ImQwHILLK9y+zpd2JrUPKpBRojaRXqRZibXIoG2lmJfTU3ToTU2QecoGdcnDjjliBATCHfbqaZsQ6SUv+ogt2nB7ZQmtKiLPieTJkZxGE0x7uxrMU5r0TqiGgCDCiNvt9xzyE0hdo44Vx73AzxxEk/Imc2YZOTSpgAa2SEJgN08hMVQXJKdgWJvA5F8=;CXpWMjsX26/UG9zaJFyzqw=="
+secured: "qj94ZGW8NO0y/9DT/aTbliPdb3HNqsrjjSSCDtFx9dBn9wuhzq5+QNTvkIFDk0qrihkNST6Rw506rKeUMkSapdt5GA1ZLucd2snWnrP2ByyNHUirhwPo140hndbLbzE0AyyqeRu6fFxJmMtBxMqgaF0ftf+YSwqT3Dy1Y+1ccBYpe8REVa44V5E21fbAq24AEfFFrxaPYH5RaIgFaRxAC10Kuet1ean8HyBL4O/uygGopEGCofSl6rmGSgka0+6T4XhFXMG2QgXe43xIkSg36rpkEpBpL6zERxJCeWutFEYpmjRGZjWv63CnC533OeUcVi/Ch3k+PgU1JzpFAuaq5gxPHHfilc+F5nFdtmnUpUk=;pKhNTZaaaNBaiB2o1+URlQ=="
 ---
 

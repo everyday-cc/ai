@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalbankingandfinance.com/how-artificial-intelligence-
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-artificial-intelligence-can-transform-finance-departments-seeking-agility/"
 type: article
 quality: 71
-heat: 81
+heat: 82
 published: true
 
 provider:
@@ -44,6 +44,6 @@ related:
         height: 709
         isCached: true
 
-secured: "jNpksENjSO6fI7Wb//Xsm8Zfw9jdvIojkcgSIeq+1TjfucCADUSvJ7sQlymXUhoMzTLNTfwYWg44FJ6eKFGyIQvxy+rdzvTY1g2FVjkSwTlrja5y70CiUL429kpCvZadGMMTnj20RwJ2lseC5dH6jWbypGUL5h+dBCZsSSdJpXqTB6zNMWv8WxuiELYsFRoPdnaxvxephx1/DsIfGBz+QtzhlMSqEjZiWy7xG/G7ZYGlsjx4hnyN3uuvgCFHCb+2yJYTIzDkgIV8zobUnAi937Ec0deB40AKgVOfYQOv8H66P6r3Dk1snH4dROZ76BR01RVm8/VSQi1LdN4KQzFvS+TJvCLqfCjR4Xh7f2yAWEg=;Xg0OcXdo+/oM44nEemSGpQ=="
+secured: "qoEf6bZwQI6d5v3bInGFuKiwFrW/5HpUI84DRR73nkUnifwhj3Lr+lO7J1gUC1KzwKSn8Ovl90uQ7dFLjy0vk7mhP1ItZQX6KarW3lnamlOUw3Qrf8yoffl0nR41X8DcEJ8xCzNMbeT1AjNzCgF6sre16Ap7Bn6mMQ2FnfMYVJiXqtaNRCzrD9yHBNV2qIT0TJxpu7R66ZAZ7CPteXEjEQClcULv5rn18kiUFQpae2mzj4g42Od5skiiKADRJfgi7cjFj+FRVdbbZ1/m/v0KZamFUstbhOmLg7lOZRPLEIu/0Rt+Vglr8QnffELORsO4V0b8M50QumCeL6GK8Q+ys7d87MERL60JgiK79xk9F+HUBFs5sUGWa7xIVZjHvPMlQn1DSCagSui8IfZYjS3sBrABUebk/fEpgu9IrI6v5NWo/96KC0VS6sJpNbldbNTlMe5sr4mHjvAJ+RyNjlECUbpX858S/tT1mVsXTAM42peTqYljPawrepQ0+96jA+2QKSgUx3lMR8uOAv+e/kOfbA==;10RvMsSsnMt+f6h4xCwtDQ=="
 ---
 

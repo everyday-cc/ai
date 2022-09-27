@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "New report offers blueprint for regulation of facial recognition technology"
+    excerpt: "Human Technology Institute outlines a model law for facial recognition technology to protect against harmful use of this technology, but also foster innovation for public benefit."
+    publishedDateTime: 2022-09-26T23:00:00Z
+    webUrl: "https://techxplore.com/news/2022-09-blueprint-facial-recognition-technology.html"
+    ampWebUrl: "https://techxplore.com/news/2022-09-blueprint-facial-recognition-technology.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-blueprint-facial-recognition-technology.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/facial-recognition.jpg"
+        width: 1920
+        height: 1274
+        isCached: true
   - title: "Avoiding a surveillance society: how better rules can rein in facial recognition tech"
     excerpt: "Facial recognition technology has set us on a path to mass surveillance – but it’s not too late to change course."
     publishedDateTime: 2022-09-26T20:02:00Z
@@ -78,15 +94,6 @@ related:
         width: 1107
         height: 443
         isCached: true
-  - title: "New report offers blueprint for regulation of facial recognition technology"
-    excerpt: "Australian law was not drafted with widespread use of facial recognition in mind. Led by UTS Industry Professors Edward Santow and Nicholas Davis, the report recommends reform to modernise Australian law,"
-    publishedDateTime: 2022-09-26T23:48:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/new-report-offers-blueprint-for-regulation-of-facial-recognition-technology-1031765652"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
 
 secured: "wzVjj5XwxJjcBko0braMMP0yv3erW1/EzuzNAXHSNjI77akV3yW2CzmUnEdQ0jRurrXzYiXqGWZhnPqvEMMaCglilj/J5m7AFghtKNZTxtOyj7b3BVo+zEBj8s6lYhuKLmKt5o0+q+HDrE0fiFAr1pome11VIjlZ8i0UuKjLynInEtBdxQGnlT8z6vpkjyKoE6X8ASKv/3YRzH+TZk4UnhxQxghBtLvsfgDfnCKHXacmyfIm0D0/r/BF8A1xLs35LFiyWnuhyHlVGV0Pze2P+pWoFbF0HAm1/+ULNj1hkgF74cDz65TNdoxHkM0i9wf2M8tEVXjgl80o4duVZSosY6teoxbW6+K/r3etd/vh+Sw=;1oeBY6S+0MlhFAMB725R3A=="
 ---

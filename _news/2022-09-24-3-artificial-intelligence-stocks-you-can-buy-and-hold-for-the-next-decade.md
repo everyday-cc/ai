@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-24T14:07:00Z
 originalUrl: "https://www.fool.com/investing/2022/09/24/3-artificial-intelligence-stocks-you-can-buy-and-h/"
 webUrl: "https://www.fool.com/investing/2022/09/24/3-artificial-intelligence-stocks-you-can-buy-and-h/"
 type: article
-quality: 66
-heat: 86
+quality: 68
+heat: 88
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - AI in Autos
   - AI
 
 images:
@@ -57,6 +58,6 @@ related:
         height: 1379
         isCached: true
 
-secured: "MnszlefSA4Y6yNmGG6GixndS49JyJt5hwigrwHwxkrzDL3PmJSVrWK3QNMbjJjQ5Bi4nMdd55upXDUMc0yj5ZjPV/peW9GG6Bj6oFLGvDU9oRIg01fRdJXGoEfcZLREunuFV25EiS5ZR7Z74BQuLY+2piojZrzNkYhC9YCLevZ6zPxw1pQmBMRBqaYA4pKtLNG2IzIhfcaiV4DEziqNRKkcYilcuhp8C7OIi1oitCdekJ1VsqVlHPvxWfhhvjTy8bTHw8UqXwEwFnxJLgcEX55CzhkLy0BAKuhyU3T3XF3Ba6ilKKsOYwSzPQsVTKHSyEBURJ2AAupyMQtmnxOyi1HPjar//ExtrQa8vEdL5/Ws=;BvFktPYFob9F/J07aOHcmg=="
+secured: "2f1H20VoKIwoG5V/H0remsyddbQOlb6RywMg302Umdjq3TyjdxaZYxyDEaUz7rpjBthWbfvqb2TU6rS9aNzCeUwXB0os4A+TfHG1TLaK1PIjnBgoHe79WOW+vttFWPIUbI2fsWSJApx/K9NtF1gr5A+TaV3db2W822lGgP/+lOuYNmmaK/b5pGJhVeyk6rYCcTch6emviDVS0KYvj9bzpdaxkFM2f0iYzCa7PRLh3dMC5z/0yHN6npDjrmlTwsO4n3AdGECVfBD8klPZ4WAbsg2UoFfzasnCjLK+3R0mCPOx09oANE92e6I8xBlIiAHIn83ffupDM4L7sSy1pUDP2lqD5h1V4p7JAyXcrxWKuGo=;cXzWdi0dbTuTqMXugtmyZw=="
 ---
 

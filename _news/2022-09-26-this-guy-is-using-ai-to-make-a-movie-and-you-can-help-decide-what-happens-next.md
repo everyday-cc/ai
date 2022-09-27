@@ -33,7 +33,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 66
+    quality: 68
     images:
       - url: "https://g.foolcdn.com/editorial/images/702195/robot-star-background.jpg"
         width: 2373

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-software-m
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-business-overview-2022-and-forecast-to-2028-microsoft-express-scribe-nuance-2022-09-23"
 type: article
 quality: 66
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Bambu releases predictive planner for Microsoft Cloud for Financial Services"
-    excerpt: "Bambu, a global wealth technology provider, today announced the launch of their Wealth Management Predictive Planning solution for Microsoft Cloud for Financial Services and Microsoft Dynamics 365 Sales."
-    publishedDateTime: 2022-09-22T08:42:00Z
-    webUrl: "https://www.finextra.com/pressarticle/94159/bambu-releases-predictive-planner-for-microsoft-cloud-for-financial-services"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 38
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
         isCached: true
   - title: "Bambu Offers Wealth Management Predictive Planning Solution for Microsoft Cloud for Financial Services"
     excerpt: "Bambu announced the launch of their Wealth Management Predictive Planning solution for Microsoft Cloud for Financial Services."

@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "New report offers blueprint for regulation of facial recognition technology"
+    excerpt: "Human Technology Institute outlines a model law for facial recognition technology to protect against harmful use of this technology, but also foster innovation for public benefit."
+    publishedDateTime: 2022-09-26T23:00:00Z
+    webUrl: "https://techxplore.com/news/2022-09-blueprint-facial-recognition-technology.html"
+    ampWebUrl: "https://techxplore.com/news/2022-09-blueprint-facial-recognition-technology.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-blueprint-facial-recognition-technology.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/facial-recognition.jpg"
+        width: 1920
+        height: 1274
+        isCached: true
   - title: "Prediction of municipal solid waste generation using a machine learning multi-city model"
     excerpt: "Ever-increasing solid waste production has been threatening natural environment and human safety in recent years. With increasing urbanization worldwide, municipal solid waste (MSW) has increased significantly."
     publishedDateTime: 2022-09-26T20:09:00Z
@@ -73,15 +89,6 @@ related:
         width: 1107
         height: 443
         isCached: true
-  - title: "New report offers blueprint for regulation of facial recognition technology"
-    excerpt: "Australian law was not drafted with widespread use of facial recognition in mind. Led by UTS Industry Professors Edward Santow and Nicholas Davis, the report recommends reform to modernise Australian law,"
-    publishedDateTime: 2022-09-26T23:48:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/new-report-offers-blueprint-for-regulation-of-facial-recognition-technology-1031765652"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
 
 secured: "RIXVszMNYfeIUvVnIsOKwBeB+V0S7OYCd2x4pe+5qvERuVz80+jqhYXoVhSg484LvVGMPjhuZeXZekMJuFL0H252U3V3uMoHt1uH8t7obfUO4X4v3S2q2T+6HgZnI/zGh+gz9RWkRRsB1Xy1+TYHR7RVYSxQZNyXj40lHwg9mbgxiI5CpMpJSSa4Cfc/3kNUGtFxzhRhZUYy6cGu3UQ2W9k0JnhcIFrPlCFesiiLFgZVpdH+O9nN+GCG26EzbEc0g+vauGiSvY1VWKumti53FTM8g3AQTDyYhfFIiF4YYMSqNL/iYHNUwzlLtqGewwNsNDOUJzlAzJtapdT+Gh5dTkQEFE5GQlm+W8S4N3QwYCkQNBXBqiMFoabtjhxplZwk8irCCgknEObnnpWXlyVlMmTrWynPOrnlpsC60rCnT4yTTClK8mk0mlU0fohK8g1YFdW66xkGLsY5BSiCtBqcRMDM2WbQxXKikckSUux/2KP7DliyfA4iwIqyax+5KdoiHYCID4Sm/YMoul3OhXNGaw==;LKhVZNe0u2yp4uREPAlL8g=="
 ---

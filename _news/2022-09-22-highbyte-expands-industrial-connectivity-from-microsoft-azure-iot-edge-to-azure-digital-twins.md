@@ -1,27 +1,27 @@
 ---
 category: news
 title: "HighByte Expands Industrial Connectivity from Microsoft Azure IoT Edge to Azure Digital Twins"
-excerpt: "The industrial software company has expanded cloud connectivity and improved enterprise IT management with HighByte Intelligence Hub version 2.5."
-publishedDateTime: 2022-09-22T16:31:00Z
-originalUrl: "https://www.automation.com/en-us/products/september-2022/highbyte-industrial-connectivity-microsoft-azure"
-webUrl: "https://www.automation.com/en-us/products/september-2022/highbyte-industrial-connectivity-microsoft-azure"
+excerpt: "HighByte®, an industrial software company, today announced the release of HighByte Intelligence Hub version 2.5 that expands connectivity to Microsoft Azure services, including Azure IoT Edge and Azure IoT Central,"
+publishedDateTime: 2022-09-22T15:07:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-highbyte-expands-industrial-connectivity-from-microsoft-azure-iot-/2022/09/22/9679234.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-highbyte-expands-industrial-connectivity-from-microsoft-azure-iot-/2022/09/22/9679234.htm"
 type: article
 quality: 43
 heat: -1
 published: false
 
 provider:
-  name: Automation
-  domain: automation.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.automation.com/getmedia/aa63c977-cdce-4db8-9dff-034bafe0dadc/Highbyte-prod-Sept-22-2022-web.png?width=500&height=313&ext=.png"
-    width: 500
-    height: 313
+  - url: "https://mma.prnewswire.com/media/1904904/HighByte_Version_2_5_Press_Release_Image.jpg"
+    width: 400
+    height: 220
     isCached: true
 
 related:
@@ -48,7 +48,21 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 49
+  - title: "Palo Alto Networks Unveils Virtual Next-Gen Firewall on Azure Marketplace"
+    excerpt: "Palo Alto Networks, a Microsoft Azure private MEC ecosystem partner, announced availability of VM-Series Virtual Next-Generation Firewall (NGFW) technology on the Azure Marketplace . Delivering end-to-end Zero Trust security at the enterprise edge,"
+    publishedDateTime: 2022-09-27T01:28:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/27771-palo-alto-networks-unveils-virtual-next-gen-firewall-on-azure-marketplace"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 38
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/d8dad049a0b986f9a5fc5f33d431d4c9.jpg?t=20220927_012548"
+        width: 752
+        height: 408
+        isCached: true
 
-secured: "I7cI551nrESImJIMyOOXjIb7/kZuTLHJd9w7QcxQ/dv3Ipo28rQlrcHHnJJr/5kfyi5ia/FWTALgYXGjzF7hpWSrAuNk7njatJDgJIhm4/P/OMxfFSSgMiqIunOODVwicD7u4F+6gtTBJY9DmoFY0kj+Oe1Xi44o+l6P8koptlK6/dz7z4ihzBMhLpV76XyAAq+qBYeKBsNiLPEaBaVhOSAjylN5SSYk1KxQSxEtJbzUqXm09SBOcxnYpUrsGC6DMoMIHNNI+1yoAu1SuOswLYZc7dSFWqBPsukz/VzW0tLrMGIkG0ev+PNfYP+MtikICkzs5IC2201xmiRuISAYXwskhgj1T8zdFoOFcVkVHGnW5W1mFi5iBTj/GbzVFF6ulh2jubVuAMLvdh0SBm7qBsDDAAm+8lI3Zkq8gJ+DQizYEtT9pSMUxeiNGa3kuZxiOIVG9nfmJEfS7R5wokR/IxVfRr5/K1Hw+mz6WMs3T+WHy4eMRJRbQqPzMB/OhW/Js0SSoJs4Y2H0oRIg6JXO9Q==;sI2h2oi4zJemfBz3GyLkhQ=="
+secured: "tcX+tRbnElfHfSL4NL0V6peZ72EZghn83VO/AaR30JbMvHCoAlzC0OdlSghMY98bkaz/6lF6yjRrLPaz+Ywflbhj3NBLfU3B2ED62pa7Ime9DgA4g+O3r8f+IeIgjDsDGlZO1ouc+/rdD8xCE3mzV0uv4PbaXzoyNj6jDXKTRVcDNsUISSv3otit2XfF+R5dKg2nms5fC5UVzNftRBOsseWvzHJDuXW9AcPp7tM4RKU4X6dFB+AsPIBB8gRDIwMba2WTyxfcFkLSUUhwaoKlkew7pgl7RVeotXdONq3P2aNAuXU+NYVltPyiydDtQL76ci7nO7dOHgTBZ9B97BGopHfhB9scCMJvfJPvM8IhD3I=;d5JiRmeltXqvhaTHR9QPlQ=="
 ---
 

@@ -126,6 +126,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Darth Vader’s James Earl Jones approves AI technology to recreate his voice"
+    excerpt: "Lucasfilm first partnered with Respeecher, a Ukrainian start-up that uses AI technology to create new dialogue from old voice recordings, on Disney+ series The Book Of Boba Fett to replicate the voice of young Luke Skywalker. Darth Vader Credit: ..."
+    publishedDateTime: 2022-09-27T01:58:00Z
+    webUrl: "https://www.nme.com/en_asia/news/film/darth-vaders-james-earl-jones-approves-ai-technology-to-recreate-his-voice-3317498"
+    type: article
+    provider:
+      name: NME
+      domain: nme.com
+    quality: 35
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2022/09/James-Earl-Jones-Darth-Vader.jpg"
+        width: 2000
+        height: 1270
+        isCached: true
   - title: "Disney replaces James Earl Jones's voice as Darth Vader with AI"
     excerpt: "Actor James Earl Jones will no longer be tapped to voice his iconic Star Wars character Darth Vader thanks to artificial intelligence."
     publishedDateTime: 2022-09-24T22:27:00Z

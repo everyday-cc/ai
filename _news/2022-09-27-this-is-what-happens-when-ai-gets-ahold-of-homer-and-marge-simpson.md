@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/this-is-what-happens-when-ai-ge
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-is-what-happens-when-ai-gets-ahold-of-homer-and-marge-simpson/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
