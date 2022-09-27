@@ -9,7 +9,7 @@ ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/microsoft-azur
 cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages/94466077"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg"
         width: 620
         height: 464
-        isCached: true
-  - title: "HighByte Expands Industrial Connectivity from Microsoft Azure IoT Edge to Azure Digital Twins"
-    excerpt: "HighByte®, an industrial software company, today announced the release of HighByte Intelligence Hub version 2.5 that expands connectivity to Microsoft Azure services, including Azure IoT Edge and Azure IoT Central,"
-    publishedDateTime: 2022-09-22T15:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-highbyte-expands-industrial-connectivity-from-microsoft-azure-iot-/2022/09/22/9679234.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 43
-    images:
-      - url: "https://mma.prnewswire.com/media/1904904/HighByte_Version_2_5_Press_Release_Image.jpg"
-        width: 400
-        height: 220
         isCached: true
 
 secured: "qcsdUEDY97aWD3zOpcWwEzNrgd2xJyRfIA5oGBByxjc/Q4J0cgAI12L7Tpkh5sYcQrkWUSKyFDdG8G6BOVtlvNEZpV3Jc7/IWcNAgWSSfRYZNXx8VUHeN0s4Tuo+vmkQfjo5X4I2RrG06MZnbbSu1hxMgerHsxVfHYLWuTTW/alTxiIIG3FixsunhK6Id2OpLT/oB/W135Cj8agYk2uwMW669fc+0yIQqXiC/ptjpEzy9VQeF1EtdRc+t4Ya5ye4OEOCArgKXi5eqBkxl8weoStSo7HSLixBCtfuKYp2Sbq/a0wpV8PSaC9RaRZE9H7xrl3UiLMuIEGIMRPy2UB8Fp5ymv70NjqBaLPAox3KNBI=;pLMWt9U0IHH4Fs7H3POlHQ=="

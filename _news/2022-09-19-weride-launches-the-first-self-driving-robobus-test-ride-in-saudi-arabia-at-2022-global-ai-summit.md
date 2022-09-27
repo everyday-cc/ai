@@ -1,26 +1,20 @@
 ---
 category: news
-title: "WeRide launches the first self-driving Robobus Test Ride in Saudi Arabia at 2022 Global AI Summit"
-excerpt: "This is the first fully driverless test ride of robobus in the Middle East country and it will take place from Sep. 19th to 22nd"
-publishedDateTime: 2022-09-19T07:41:00Z
-originalUrl: "https://www.zawya.com/en/press-release/companies-news/weride-launches-the-first-self-driving-robobus-test-ride-in-saudi-arabia-at-2022-global-ai-summit-d035ufgp"
-webUrl: "https://www.zawya.com/en/press-release/companies-news/weride-launches-the-first-self-driving-robobus-test-ride-in-saudi-arabia-at-2022-global-ai-summit-d035ufgp"
+title: "WeRide Launches the First Self-driving Robobus Test Ride in Saudi Arabia at 2022 Global AI Summit"
+excerpt: "WeRide launched the first driverless public Robotaxi service in the Middle East in Abu Dhabi, capital of the United Arab Emirates. The launch of the driverless robobus in Riyadh becomes another important milestone in WeRide's global footprint,"
+publishedDateTime: 2022-09-19T06:05:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/09/19/9675581.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/09/19/9675581.htm"
 type: article
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://static.zawya.com/version/c:OTA5Yzc5YjctOTZkYy00:ZmMzMjY0/paymobcofounderandcoo-alainelhajjpicturedwithtabbygeneralmanager-egypt-ahmedkhalil-jpg.jpg?f=1%3A1&q=1&w=3840"
-    width: 416
-    height: 416
-    isCached: true
-
-secured: "3yC9yi6MYcmnDN6rAl72BBPTxb7RU8g5enu01EMxcHP9oFrIG5iFr1Yh300gg0w/NsYmJuSBUuPjCXdibpzaGgv6VWKCRI8Ld2xE81X935zWshc1SR9crawhnCNi9WOKTqk6DP4VmRCGduvU48yt17cUMGFqTpRi3Yb9khFyGkkK0gB7mprlgyx4/vClQTuQCmXoMXUJMwHqD4zZNVYF2MIy0LUj3C32q0XS4UK/lmkTHc9JJW8CGgxTde+bzMN6lIgsHDveizWlVy92ilhwCL/SE69oZ0eBc5Wf34NbJtJDrrzbaGjnU7Tb0r67zOaP/RBGrAx/khjim7TPPbTMRa3hh+fqHWBar0Q8OI2tSs8=;5k1wd86HKm+riZlCMFvYWw=="
+secured: "o6EFSz5VJVkuH4FWkKPaS871+oLrsPwqIRpv8T187W7iRlg2pc8EVv/lCcyHICYYtUlHS+oOBYQnnE/C0ydckilzFcXGS6QaaMrpHmozpOBP7OCIP+FklHCKYWaPZ7ABbaOjz/5NCbzKYflpZ7ECFdewJ/+4eclhWwATc/rZh3RKFBJJ8HZm/X6kNhdX3JwwrdK0s/dN9ep7De2pYBZyO0qGTRNY8+PlcStuAdHhXGqOfABnP8rjuUXZMEzVdkrMurNhypeX4xBTKsTCGqf2rIxXCSxePX1+UD728UJKbayZcOm/rESBHrew8O7CnsHPSGamOgxxiVbZp889rwNd4xhqCYlQ1mbMPTP6VqCXp1E=;FXUWs0yrmXcyk67SpvYmtg=="
 ---
 

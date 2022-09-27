@@ -24,17 +24,6 @@ images:
     height: 328
     isCached: true
 
-related:
-  - title: "Zuckerberg and Chan visiting Harvard to celebrate $500m institute"
-    excerpt: "The billionaire philanthropists will be in Boston to celebrate the launch of the Kempner Institute for the Study of Natural and Artificial Intelligence, which will focus on human neural networks and AI systems."
-    publishedDateTime: 2022-09-22T15:44:00Z
-    webUrl: "https://www.bostonglobe.com/2022/09/22/business/zuckerberg-chan-visiting-harvard-celebrate-500m-institute/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 4
-
 secured: "n+NN5pn8FUp3T32HZ5THGKX4uQZyHkRX97gwkwIL8uA2KwSpnbgIOkgG3tQu9Hbic1NdKjezZQyDxV7L9xw9NX3aLUhM5UcVNQUIYsX4ZvPBPKI1oYt1MpJlHYZZLFKstCTU1QQcHQz67scYPOhD7n9Dc0ri5TGHFc3XgGr8vfwYoVfll63zzCSxNUCrR0FnQJpvhoz/2BgsOMcpMO2WOwUpisSxBgnAFTLOKWENXTUZs8N9p5AWYpTBWEotsBnqqndvhyuI2+qd4+G/513uKa/OzbrdNWGgoPZgWsXbXG+UbFusKvcXjIsEL1w+/8Mq2gBvtQ04EBqJpk80VipudtSISPEbRrqvTT7WapNvwEo=;Dj8Tzz19OJbjFYbdsOit2w=="
 ---
 

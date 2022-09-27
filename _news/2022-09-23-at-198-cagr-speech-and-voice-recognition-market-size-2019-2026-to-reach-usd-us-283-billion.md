@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Mobile Robotics Market Size to Surpass USD 25.3 Billion at a 21.40% CAGR by 2030 - Report by Market Research Future (MRFR)"
-    excerpt: "According to a comprehensive research report by Market Research Future (MRFR), \"Mobile Robotics Market Research Report, by Component, Navigation Type, Application,"
-    publishedDateTime: 2022-09-22T15:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28969105/mobile-robotics-market-size-to-surpass-usd-25-3-billion-at-a-21-40-cagr-by-2030-report-by-market-r"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28969105"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28969105"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 48
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg"
-        width: 700
-        height: 300
-        isCached: true
   - title: "Computer Vision Products Market 2022 Geographical Segmentation, Industry Insights, Share, Latest Trends, Size, CAGR and Forecast till 2028"
     excerpt: "Global “Computer Vision Products Market” research report provides a comprehensive overview, industry shares, and"
     publishedDateTime: 2022-09-26T06:53:00Z

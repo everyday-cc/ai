@@ -43,6 +43,20 @@ related:
         width: 610
         height: 458
         isCached: true
+  - title: "A round up of Dreamforce 2022 news"
+    excerpt: "Dreamforce is over for another year. Yet again, Salesforce did not disappoint with a flurry of announcements and press releases indicating innovation,"
+    publishedDateTime: 2022-09-27T09:24:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2022/09/27/a-round-up-of-dreamforce-2022-news/"
+    type: article
+    provider:
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
+    quality: 24
+    images:
+      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2022/09/DF22-220920-JR2_1782-1.jpg"
+        width: 720
+        height: 410
+        isCached: true
 
 secured: "/QI/Y7vXYW+E+k/OYySzxYI/QSI8qZH0gxIeYtq34hcSJEokAFemLJC3kvpQlMkQL5LG+1mK8kWMa3lRe5rXRfu0qR8rIGgS7oYu0I9ooCs8OOSJdKyJOrJmKRv66F36XsX259YLdU7o+6GHoU2Q1rRveRoTeA8NCdJLi7OaDJIloK/ZUOGtxN05Hhe1eDKt8wUrtASE8dpflA/t2Vu6RsLPd5qAYfe46MoOypq64Bgc42INYQWJivD8XOK01XbkX6i3ngOnFT3X1SUmqbFbrbicBfT70OjfkvbN7BaC50o9D6z4AVsowMRJNHg+eujuvKY8ZK2JXKwBSNqPgF/rcqC/GXTukzxb+0J4MjPvl17RbBvhA7tt3WFOiDJfq/yVeyzj9Sl/HNOTn55h+b1rTtiCwxaJKLrc6UisVTtS8A1R0oVf37Yqj6Y8buLyzdEmFcehAcjIUmAVPSFddtleXb78gizZt5/Td5cJANB0uQEJFypJOiREIOyNPHRq9vKP8mZS/WlQZzl1ITOn5nHLvA==;zGfct1bJfVx0c/TfIoz5oA=="
 ---

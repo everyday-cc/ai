@@ -7,8 +7,8 @@ originalUrl: "https://www.crn.com/news/cloud/salesforce-co-ceo-bret-taylor-at-dr
 webUrl: "https://www.crn.com/news/cloud/salesforce-co-ceo-bret-taylor-at-dreamforce-2022-genie-changes-the-game-for-crm-"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: CRN
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "A round up of Dreamforce 2022 news"
+    excerpt: "Dreamforce is over for another year. Yet again, Salesforce did not disappoint with a flurry of announcements and press releases indicating innovation,"
+    publishedDateTime: 2022-09-27T09:24:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2022/09/27/a-round-up-of-dreamforce-2022-news/"
+    type: article
+    provider:
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
+    quality: 24
+    images:
+      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2022/09/DF22-220920-JR2_1782-1.jpg"
+        width: 720
+        height: 410
+        isCached: true
   - title: "Salesforce's next big thing is a major push to keep its data at the center of a market increasingly dominated by firms like Snowflake"
     excerpt: "Salesforce is letting users update their products instantly as it risks customers treating it as just one of many data points in Snowflake."
     publishedDateTime: 2022-09-22T17:36:00Z

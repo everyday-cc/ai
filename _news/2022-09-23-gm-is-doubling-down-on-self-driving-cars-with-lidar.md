@@ -36,15 +36,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 36
-  - title: "Can eyes on self-driving cars reduce accidents?"
-    excerpt: "Self-driving vehicles seem to be just around the corner. Whether they'll be delivering packages, plowing fields or busing kids to school, a lot of research is underway to turn a once futuristic ..."
-    publishedDateTime: 2022-09-22T16:14:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/09/220920100807.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 34
   - title: "A new self-driving car developer is setting up shop in Tucson"
     excerpt: "The company, backed by Japanese auto giant Toyota, previously tested self-driving cars in California but its state permit was revoked following a minor crash."
     publishedDateTime: 2022-09-22T19:30:00Z

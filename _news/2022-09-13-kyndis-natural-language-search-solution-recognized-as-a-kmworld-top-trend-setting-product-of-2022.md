@@ -5,6 +5,8 @@ excerpt: "SAN MATEO, Calif., Sept. 13, 2022 /PRNewswire/ -- Kyndi, the leading n
 publishedDateTime: 2022-09-13T13:53:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/09/n28847758/kyndis-natural-language-search-solution-recognized-as-a-kmworld-top-trend-setting-product-of-2022"
 webUrl: "https://www.benzinga.com/pressreleases/22/09/n28847758/kyndis-natural-language-search-solution-recognized-as-a-kmworld-top-trend-setting-product-of-2022"
+ampWebUrl: "https://www.benzinga.com/amp/content/28847758"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28847758"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "+KKPAhDVW+bEWo8Gq+GfK49Jc4wUBwiMATPoN6TB9sWZIFjQmBLNdzEYcKcPRb21FnRNE6io20iYnolQMRitnAECgTjRU1gjA8fTLTqAbZ014J5m0oYgfBROP+aPv0qLAuYh1xeaLMnBQoZQbPvCo4Y6SFIBS+3nMqZNhOxiqtSiYCDQ9jgj+/DffSt56DyNC1fQICIY0j3mISwIphvNlCQIYyr7gL4Rsd95spnDhrJdDa1nJgtnJl7iTRTFy3PJZDTcI/k8/f3ZtNqWbX+NMnLTBjyfwd05uGdaKZW2lFJA/IFwHRmfiMldjztImKdRZdjMRMwfINwltnBhVHPSJrK8pHDWIdxI/j26UkbAves=;6fGK+rclhYbSJyfoEh+yQw=="
+images:
+  - url: "https://mma.prnewswire.com/media/1896484/KMWorld_has_acknowledged_the_Kyndi_Natural_Language_Search_Solution_as_a_Top_Trend_Setting_Product_o.jpg"
+    width: 400
+    height: 399
+    isCached: true
+
+secured: "i5zRu6ZNZ+8csfYqjgfuyPmi4XsBJFaVecOf12MnylLjho31rJWBkFNId/f6HEQYyzfJJrTGlHYUWa5Sts7KBMDbcgXr+QNdymSQ8NKH5xhjIi/uIcI/3EQeiOijDE7bQqOfNZlpdZxbeRGaFOh0dxiAxNPVUZZrqnS5fu7rPo9OJbl/UNHFNAzPmOzj8gNk6w+R5t5BbQK8hI/xe/w5nX/QKvu24nIeedaj+g4hgDzvnQiH3/8ZYYCvp8XaTIGrlE1AzDe6LdHech/AD1pItCHAtGWPUCEdIzUjPnPgjyGKLeomaLphQXC4z21BdFR9oPW5ZCc6Q05qEbMoWJS7iiJ6RoOSb/tn1Pm2ishfZPI=;Pe6vK/sgxjsrqjeWSesc9w=="
 ---
 

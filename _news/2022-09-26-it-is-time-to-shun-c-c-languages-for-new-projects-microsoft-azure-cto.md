@@ -75,20 +75,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "HighByte Expands Industrial Connectivity from Microsoft Azure IoT Edge to Azure Digital Twins"
-    excerpt: "HighByte®, an industrial software company, today announced the release of HighByte Intelligence Hub version 2.5 that expands connectivity to Microsoft Azure services, including Azure IoT Edge and Azure IoT Central,"
-    publishedDateTime: 2022-09-22T15:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-highbyte-expands-industrial-connectivity-from-microsoft-azure-iot-/2022/09/22/9679234.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 43
-    images:
-      - url: "https://mma.prnewswire.com/media/1904904/HighByte_Version_2_5_Press_Release_Image.jpg"
-        width: 400
-        height: 220
-        isCached: true
 
 secured: "oHgluy1eKzg9uktL/VcXoFMNWxhol+Tu1VIQ+kSnrhpb/Ngoohm+Npl95SyDmWaD7yKEvhLkcV/3CcxMgmc6qi0DoWmGU1bMfiB8kEW6YHsXDEIiv7LDep28BFjt2jXnMYG+xKUyZPLoNhX3DZ073coT/kyDU3vPeHHIiKrgZMVKdKAmduWXNzM03GPrYkRqDij5v/CbwksF31tNm8P7DCcWvVu4Tz+/XlHFvF9r12E759otwPJko/RxIbqMOwlQtbUYSO12CdmkLpOFVuj223BRDZdCB5JsXwoL4KKkD31/ALZn1SpLHulumvyjsn/xujJMccJESi8aTCjxjre+OMJt5ahVgEWaY+DStsCrmlTg9KJEmEHlzDUtyC80bpM+HqGwEpNk66HrzL5ERCXDvrL8ZKT/gcbpOqY8HyzJEly5489L00XSPSDfqJfINyu70rSk40Tib+FxKFeTC3PbiWNmMM7/lR3yrnP+zXmDYb5tRcKvxrfXxZ17APV5A9Um96/h1usu2GMZRPQuBrV6mg==;eBK2s7RWDNoOsCoRCjac3A=="
 ---

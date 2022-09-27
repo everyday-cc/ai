@@ -49,6 +49,22 @@ related:
         width: 696
         height: 696
         isCached: true
+  - title: "How DeepMind thinks it can make chatbots safer"
+    excerpt: "In experiments where AI-powered chatbots were used to offer medical advice, they told pretend patients to kill themselves. Doesn’t fill you with a lot of optimism, does it? That’s why AI labs are working hard to make their conversational AIs safer and more helpful before turning them loose in the real world."
+    publishedDateTime: 2022-09-27T09:26:00Z
+    webUrl: "https://www.technologyreview.com/2022/09/27/1060094/how-deepmind-thinks-it-can-make-chatbots-safer/"
+    ampWebUrl: "https://www.technologyreview.com/2022/09/27/1060094/how-deepmind-thinks-it-can-make-chatbots-safer/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/27/1060094/how-deepmind-thinks-it-can-make-chatbots-safer/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/09/RETRO-7.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
   - title: "DeepMind advances AI safety with new Sparrow chatbot"
     excerpt: "According to DeepMind, Sparrow can produce plausible answers to user questions more frequently than earlier neural networks. Furthermore, the chatbot includes features that significantly reduce the risk of biased and toxic answers."
     publishedDateTime: 2022-09-22T18:31:00Z

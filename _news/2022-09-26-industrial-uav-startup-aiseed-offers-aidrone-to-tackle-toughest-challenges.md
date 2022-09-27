@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Industrial UAV startup AiSeed offers AI+Drone to tackle toughest challenges"
-excerpt: "Having enthusiasm for applying new technologies such as artificial intelligence (AI) and autonomous drone driving to solve real-life problems, Wang decided to start his own business. He believes in the potential of drones because it shares the same supply ..."
-publishedDateTime: 2022-09-26T08:26:00Z
-originalUrl: "https://www.digitimes.com/news/a20220925VL202/ai-autonomous-uav.html"
-webUrl: "https://www.digitimes.com/news/a20220925VL202/ai-autonomous-uav.html"
+excerpt: "AiSeed Technology (AiSeed), a newcomer to the commercial drone market, was established in Taiwan right before COVID-19 rampaged across the world. Despite the difficulty, it still survived during the pandemic and continues to gain attention at international air shows with its unmanned airborne vehicles (UAV)."
+publishedDateTime: 2022-09-26T07:27:00Z
+originalUrl: "https://www.digitimes.com/news/a20220925VL202/ai-autonomous-uav.html?chid=13"
+webUrl: "https://www.digitimes.com/news/a20220925VL202/ai-autonomous-uav.html?chid=13"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
   domain: digitimes.com
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
@@ -23,6 +24,6 @@ images:
     height: 853
     isCached: true
 
-secured: "IEIu2YwpJzsscoV4HLWvmJs9IZrvR6PAnHo8lpGYQ99N05MBQQI8Nii6Vh+QOJTtUxm59xZPtkEWo+Dbrw8vWStFsqr2GRt71RQCoUtR7vDm3XmUw3vbMF647VZuzRkzUq4rhCC6CncD2KZRKCOQ6X0zm1Hwzb1hdzVOrNYne+BDvJNRDtmwPZFDQfm8zkVyPo83GXvHl90qkJDsMM9ll4YmVDq9gRz1PhrYs3aYi5MyDML7OSH8WuIsLTVaFVZC4+8JkFu7jjAHeh0UglYsDfiWKwCDd3OiuBua6LjbNgsJA4noJ3r9EoeaGGCNtEcP6nsmFtnXY9xMaa6ur1joWKteYzGezjmHOW++JGICsNs=;ukpDUI0/DCxV/iIod6dkXQ=="
+secured: "cpxk0vzYHu3PGgo2uPd6TbLbq2d2a9IPXTQtAvNZdiaEAw3JSDp7FW266YsDSjTszQ0vdXS1ZM2kbWpSKhIBMdbycXvtLLccHxR7ACOdRODGpcB0iHevpwM9jfGk/eojX25CTy6eqAq6D35w8oVD5VrsbuH50raQDCDGRR41xGQo/b4QCSeF2yjz0S4iNxEQKBcDZzHhN812KAaZ109vXdqK7CkShrNUJlaAqUm79V60qDSJEg2vGpCknHDnITck8hBAqeMNs0amC8HOVEfNci2HMquXHZ7f1s9ghLrX0qVtEdPjduQ4F6tuMnntAzzySrpkybIXXVXVG/0C0uV1DTjUzu9r/fJgs6j4p4OnkGg=;QZgG+fC0qVpuBVKTPmkFSw=="
 ---
 

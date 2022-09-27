@@ -44,15 +44,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 36
-  - title: "Can eyes on self-driving cars reduce accidents?"
-    excerpt: "Self-driving vehicles seem to be just around the corner. Whether they'll be delivering packages, plowing fields or busing kids to school, a lot of research is underway to turn a once futuristic ..."
-    publishedDateTime: 2022-09-22T16:14:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/09/220920100807.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 34
 
 secured: "xDa3A4Pb5Zr1OKCC0pwk1H10qguvNb0N3a/dhibjiLuJKEjc8TYOzt/XJ/onKegxn3EyZBPZ/YU9wJ69NnZrXWwMenn2Pu3ds/LKBQUu5rbXfNw0b0oSYw4lNgEs101voApclj/Nj+Es/hJyGbSAcN3kUeTBnKd8ERisAl2foTKO3RtLh9PCVhif5sz1DiTLqaScgAsHcZsDDalv1WGwKHLdyQEUvvHug48WUBiOl906VgsJv3Q9LBoMGk9+dFAm+OggMmTuk4SDGIr9PsczwoDiI93naz8LCXC6oxdwFLZhRahHkitYdgNRCcPvuC2VvwoIZQYZohxXYz/qfb3QcyuB9DZdUXGE/+bYKzYC/Hfl11pE7+Efn3mEwqMeIEt9j7zPFzZGbCxZcLzZgesRTGI0RdEguw7ipJF1/wiN0ZkzqI1Zzf0iwcfuvSIvhZOsD2GLe8xUZ9tXRqbbG6h7FEyz1c6kRWq2+4n7bztrrRVRleVLK+KmV2Ok+OYNbpwyhKe9p3DT4aAwNFEx96KoIw==;GEOxZeU/7DCKP7JTvBd1IQ=="
 ---

@@ -50,6 +50,22 @@ related:
         width: 696
         height: 696
         isCached: true
+  - title: "How DeepMind thinks it can make chatbots safer"
+    excerpt: "In experiments where AI-powered chatbots were used to offer medical advice, they told pretend patients to kill themselves. Doesn’t fill you with a lot of optimism, does it? That’s why AI labs are working hard to make their conversational AIs safer and more helpful before turning them loose in the real world."
+    publishedDateTime: 2022-09-27T09:26:00Z
+    webUrl: "https://www.technologyreview.com/2022/09/27/1060094/how-deepmind-thinks-it-can-make-chatbots-safer/"
+    ampWebUrl: "https://www.technologyreview.com/2022/09/27/1060094/how-deepmind-thinks-it-can-make-chatbots-safer/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/27/1060094/how-deepmind-thinks-it-can-make-chatbots-safer/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/09/RETRO-7.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
   - title: "The Download: YouTube’s deadly crafts, and DeepMind’s new chatbot"
     excerpt: "The YouTube baker fighting back against deadly “craft hacks” Ann Reardon is probably the last person whose content you’d expect to be banned from YouTube. A former Australian youth worker and a mother of three,"
     publishedDateTime: 2022-09-23T12:10:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-assessment-2022-2028-294-cagr-to-garner-usd-12726-billion-by-2028-2022-09-26"
 type: article
 quality: 51
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mobile Robotics Market Size to Surpass USD 25.3 Billion at a 21.40% CAGR by 2030 - Report by Market Research Future (MRFR)"
-    excerpt: "According to a comprehensive research report by Market Research Future (MRFR), \"Mobile Robotics Market Research Report, by Component, Navigation Type, Application,"
-    publishedDateTime: 2022-09-22T15:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28969105/mobile-robotics-market-size-to-surpass-usd-25-3-billion-at-a-21-40-cagr-by-2030-report-by-market-r"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28969105"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28969105"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 48
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg"
-        width: 700
-        height: 300
-        isCached: true
   - title: "At 19.8% CAGR, Speech and Voice Recognition Market Size 2019-2026 | To Reach USD US $ 28.3 Billion"
     excerpt: "Global “Speech and Voice Recognition Market Growth” report explores comprehensive and insightful information about"
     publishedDateTime: 2022-09-23T05:56:00Z
