@@ -100,6 +100,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "James Earl Jones Hands Over The Voice Of Darth Vader To Artificial Intelligence Technology"
+    excerpt: "The famous voice of Darth Vader, James Earl Jones, is retiring as the \"Star Wars\" villain, handing over the responsibility to AI technology."
+    publishedDateTime: 2022-09-27T16:00:00Z
+    webUrl: "https://www.blackenterprise.com/james-earl-jones-hands-over-the-voice-of-darth-vader-to-artificial-intelligence-technology/"
+    ampWebUrl: "https://www.blackenterprise.com/james-earl-jones-hands-over-the-voice-of-darth-vader-to-artificial-intelligence-technology/amp/"
+    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/james-earl-jones-hands-over-the-voice-of-darth-vader-to-artificial-intelligence-technology/amp/"
+    type: article
+    provider:
+      name: Black Enterprise
+      domain: blackenterprise.com
+    quality: 47
+    images:
+      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2022/03/James-Earl-Jones.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Artificial Intelligence takes over as the voice of Darth Vader"
     excerpt: "James Earl Jones has reportedly agreed to allow LucasFilm and Disney to use artificial intelligence to create the voice of Darth Vader as he’s decided to step back from the role. According to Vanity Fair,"
     publishedDateTime: 2022-09-26T08:31:00Z

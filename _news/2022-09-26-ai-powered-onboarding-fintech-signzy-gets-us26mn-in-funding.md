@@ -7,7 +7,7 @@ originalUrl: "https://fintechmagazine.com/articles/ai-powered-onboarding-fintech
 webUrl: "https://fintechmagazine.com/articles/ai-powered-onboarding-fintech-signzy-gets-us-26mn-in-funding"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "No-code AI Platform Signzy raises $26 million"
-    excerpt: "Leading digital banking infrastructure enabler Signzy today said that it had raised INR 210 Crore (US$26 Million) from Gaja Capital and its existing investors, Vertex Ventures and Arkam Ventures, in its latest funding round."
-    publishedDateTime: 2022-09-26T11:07:00Z
-    webUrl: "https://www.finextra.com/pressarticle/94183/no-code-ai-platform-signzy-raises-26-million"
+  - title: "Document onboarding startup Flatfile nabs $50M from investors, including Workday"
+    excerpt: "Flatfile, which uses AI to process and normalize data from documents, has raised $50 million in a venture funding round."
+    publishedDateTime: 2022-09-27T15:48:00Z
+    webUrl: "https://techcrunch.com/2022/09/27/document-onboarding-startup-flatfile-nabs-50m-from-investors-including-workday/"
+    ampWebUrl: "https://techcrunch.com/2022/09/27/document-onboarding-startup-flatfile-nabs-50m-from-investors-including-workday/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/27/document-onboarding-startup-flatfile-nabs-50m-from-investors-including-workday/amp/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
     images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "Indian Fintech Signzy Secures US$26 Million in Funding Round Led by Gaja Capital"
-    excerpt: "India-based Signzy announced that it had raised US$26 million in a funding round led by private equity firm Gaja Capital."
-    publishedDateTime: 2022-09-27T03:32:00Z
-    webUrl: "https://fintechnews.sg/64397/funding/indian-fintech-signzy-secures-us26-million-in-funding-round-led-by-gaja-capital/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 19
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/09/Indian-Fintech-Signzy-Secures-US26-Million-in-Funding-Round-Led-by-Gaja-Capital.png?x64868"
-        width: 1024
-        height: 567
+      - url: "https://techcrunch.com/wp-content/uploads/2018/09/GettyImages-737368899.jpg?resize=1200,601"
+        width: 1200
+        height: 601
         isCached: true
 
 secured: "4pmom0o53TytMQ9c+lU2jy4dHLWkqRFE9m/T35GGUrF74I60e13aE3sv7z6y82kZ3NUb2uSOWHMn4p74A45O9OAQt/ebgklGAZgu6njPfvt0GuvbR5cIp9vS5DXaZRekmRcrFlnRJBw7Zmh9tya3LFxteC3uwDZ3GcYR0/Z08aBbV5qkge7miGCZ5sgDTbk5itsrTtot6gRFPogSTTj0w8hkxie0TEBS2K609FEXyqcqQwNOwRrljlTA/mmPQQGBsQOHV5qfREleSUE05ZjNoKN4N94MPg3fOcXY0EHkO2/c/pfkj8UfjeYsUCrxGB5NmlGuVKecDD5bIBowI9AXGxZRWF8OeGDXVcO9s/E/Vwo19+ZJ9+czSo0q+VZYMQ/0FJUj7PaHRazGM6Eff10RIm6NnI+AS2o2DcOKd8wZj/q+Y6U1RGk0Hug/6RTkDdvVWTO80ROg2Eo00OF+SNr3izc/r2HBwlGQjsKr3EjOOULLASE7dJi+6AroEFbApVtWq1DRHH3yLiniZ917s5bsBg==;ZV+R/zGZoKYKF3ObP/Takw=="

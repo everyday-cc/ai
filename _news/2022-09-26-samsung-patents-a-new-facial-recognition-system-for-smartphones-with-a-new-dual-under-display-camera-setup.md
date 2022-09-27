@@ -59,6 +59,22 @@ related:
         width: 1220
         height: 526
         isCached: true
+  - title: "Samsung may use new face recognition tech in future smartphones"
+    excerpt: "To improve facial recognition, this technology will use the dual-UDC setup to simultaneously scan the user’s face from different angles. This will hel"
+    publishedDateTime: 2022-09-27T11:06:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/samsung-may-use-new-face-recognition-tech-in-future-smartphones/articleshow/94479585.cms"
+    ampWebUrl: "https://m.timesofindia.com/gadgets-news/samsung-may-use-new-face-recognition-tech-in-future-smartphones/amp_articleshow/94479585.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/samsung-may-use-new-face-recognition-tech-in-future-smartphones/amp_articleshow/94479585.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-94479554,width-1070,height-580,imgsize-711259,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1068
+        height: 580
+        isCached: true
   - title: "Iran is using facial recognition technology to target women breaking hijab law"
     excerpt: "Activists protesting the death of Mahsa Amini raise concerns about privacy violations and the potential for profiling and discrimination."
     publishedDateTime: 2022-09-23T09:10:00Z

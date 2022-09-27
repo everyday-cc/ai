@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Hugging Face takes step toward democratizing AI and ML"
+    excerpt: "Hugging Face has launched a new AI-as-a-service offering, designed to take on large workloads of enterprises and help speed up ML projects."
+    publishedDateTime: 2022-09-27T16:00:00Z
+    webUrl: "https://venturebeat.com/ai/hugging-face-steps-toward-democratizing-ai-and-ml-with-latest-offering%EF%BF%BC/"
+    ampWebUrl: "https://venturebeat.com/ai/hugging-face-steps-toward-democratizing-ai-and-ml-with-latest-offering%EF%BF%BC/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/hugging-face-steps-toward-democratizing-ai-and-ml-with-latest-offering%EF%BF%BC/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 106
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/12/hugging-face.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "A laughing robot and the possibilities of AI"
     excerpt: "Letter: Yvonne Whalley remembers a play in which a robot develops at least one human trait"
     publishedDateTime: 2022-09-23T15:33:00Z
@@ -56,6 +72,6 @@ related:
       domain: theguardian.com
     quality: 34
 
-secured: "J96645agiR328IeIrFSrGQqSVSYnd0KNMmZe8X+aNcJw/QdrpTTYS7qVzdI9tsPY2QONMRqJe89OhgAUfA+wAoMbWspiA5cUVSEHkxSmdhvWdcwdfy6dbUOx7P47Kt+ftD8YoE4NXAkM00YTNgUJrCOiFVfyeJx0GgATy8AWUyeLYuNt+INvRBZ2w2bOfksdggOwDukuGYwX1D1YAsWE26ASbnpRFLzfcNFowAq6Y+lGQDMeSHDzRe3M87JrLBVxxXN7xG/uSON87gccXi4zKUE8J1LzsrTqUAn1OqXrODTgrVURa7X8caCfBRR1Go6Lf6joOo4bTsFYmSI/TpXn/vJvDfjIStFr4W3I5jg6kzE=;6fyfRlBD2PUC9EN6V4Hmvg=="
+secured: "xg+Tj3qIq7fQtUPNwWIIcJqkzpqRzGBz7tP6ZlCHl+miumvKTSiWK1Os9jhCBqKhg8bwCADMuKkR2nk+0NGXPzY8xU8PUK5R0wH4OrzljzjLskpE/Mw3csz324tTZXY0nZ0y1kaM0TPnJq+XWQk56mXjaWOIFgib95y6u5bU/WpckbajVfcecwoHDrYN+JfQVBeJGx33oQCagb4Rjm0Ty2JmJFoFhIfh6KpXtJxMlfW72wWz4ED+4zWMyCONLcReEUePQp0fQojot7I0KmuMOQSMQixkHXPrrowesmajeJZzyHLcIK6TiYDzA3BJDn82f0O1RLfTWc478mze0cg+fdmu8wN/jUyEpFAi0ulSBZdXqCYwsa0joJQBEWr/VQs/GmosPgRs5g1pa+PMlWrHQxgQl13GI1p0ncTbLHFXrV+XODO+Qa8YbYwQMCA7dbw6I5a3yQtnTw/9pnfwwMWHvEv5wkyfRuyrL3rotiVOvkEXlPvJDLoe+cpOqN94pvgNS2myDgZN7G9TQ6FK+34rHg==;VYLqtz8EDc0sUViBNYAt5A=="
 ---
 

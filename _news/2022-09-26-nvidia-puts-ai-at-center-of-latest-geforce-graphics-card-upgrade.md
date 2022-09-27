@@ -35,6 +35,17 @@ related:
         width: 1280
         height: 680
         isCached: true
+  - title: "NVIDIA’s New Ada Lovelace RTX GPU Arrives for Designers and Creators"
+    excerpt: "RTX 6000 GPU Provides 2-4x Performance Improvement in Enterprise Workflows;Global Manufacturers to Ship Starting in Q4 SANTA CLARA, Calif., Sept. 20, 2022 (GLOBE NEWSWIRE) — GTC—Opening a new era of neural graphics that marries AI and simulation,"
+    publishedDateTime: 2022-09-26T18:26:00Z
+    webUrl: "https://gisuser.com/2022/09/nvidias-new-ada-lovelace-rtx-gpu-arrives-for-designers-and-creators/"
+    ampWebUrl: "https://gisuser.com/2022/09/nvidias-new-ada-lovelace-rtx-gpu-arrives-for-designers-and-creators/amp/"
+    cdnAmpWebUrl: "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2022/09/nvidias-new-ada-lovelace-rtx-gpu-arrives-for-designers-and-creators/amp/"
+    type: article
+    provider:
+      name: gisuser
+      domain: gisuser.com
+    quality: 39
   - title: "The DeanBeat: Nvidia CEO Jensen Huang says AI will auto-populate the 3D imagery of the metaverse"
     excerpt: "It takes AI kinds to make a virtual world. Nvidia CEO Jensen Huang said this week during a Q&A at the GTC22 online event that AI will auto-populate the 3D imagery of the metaverse. He believes that AI will make the first pass at creating the 3D objects that populate the vast virtual worlds of the metaverse — and then human creators will take over and refine them to their liking."
     publishedDateTime: 2022-09-23T13:00:00Z

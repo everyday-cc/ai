@@ -23,6 +23,48 @@ topics:
   - AI
 
 related:
+  - title: "Computer Vision Market Expected to Raise at 31.74% CAGR by 2022-2027 | 107 Report Pages"
+    excerpt: "The global Computer Vision market size is expected to expand at a CAGR of 31.74% during the forecast period, reaching"
+    publishedDateTime: 2022-09-27T06:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-expected-to-raise-at-3174-cagr-by-2022-2027-107-report-pages-2022-09-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 76
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "New standards set for Facial Recognition Market grow at 14.47% CAGR| 112 Report Pages"
+    excerpt: "The global Facial Recognition market size is expected to expand at a CAGR of 14.47% during the forecast period,"
+    publishedDateTime: 2022-09-26T07:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/new-standards-set-for-facial-recognition-market-grow-at-1447-cagr-112-report-pages-2022-09-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Market Size to Grow at 38.32% CAGR During the Forecast Period of 2022-2027 | 110 Report Pages"
+    excerpt: "Report Pages] Deep Learning market size was valued at USD 81320.32 million in 2021 and is expected to expand at a"
+    publishedDateTime: 2022-09-23T09:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-size-to-grow-at-3832-cagr-during-the-forecast-period-of-2022-2027-110-report-pages-2022-09-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing Market Assessment (2022-2028) | 29.4% CAGR to Garner USD 127.26 Billion by 2028"
     excerpt: "Global “Natural Language Processing Market Size” report explores comprehensive and insightful Information about various"
     publishedDateTime: 2022-09-26T12:21:00Z
@@ -37,34 +79,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "At 19.8% CAGR, Speech and Voice Recognition Market Size 2019-2026 | To Reach USD US $ 28.3 Billion"
-    excerpt: "Global “Speech and Voice Recognition Market Growth” report explores comprehensive and insightful information about"
-    publishedDateTime: 2022-09-23T05:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/at-198-cagr-speech-and-voice-recognition-market-size-2019-2026-to-reach-usd-us-283-billion-2022-09-23"
+  - title: "Home Security System Global Market Report 2022: Implementation of AI & Deep Learning Drives Sector Growth - ResearchAndMarkets.com"
+    excerpt: "The global home security system market is expected to grow from $3.92 billion in 2021 to $3.96 billion in 2022 at a compound annual growth rate (CAGR) of 1.2%. The growth is mainly due to the companies resuming their operations and adapting to the new normal while recovering from the COVID-19 impact,"
+    publishedDateTime: 2022-09-26T12:10:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-26-home-security-system-global-market-report-2022-implementation-of-ai-and-deep-learning-drives-sector-growth-researchandmarketscom"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision Products Market 2022 Geographical Segmentation, Industry Insights, Share, Latest Trends, Size, CAGR and Forecast till 2028"
-    excerpt: "Global “Computer Vision Products Market” research report provides a comprehensive overview, industry shares, and"
-    publishedDateTime: 2022-09-26T06:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-products-market-2022-geographical-segmentation-industry-insights-share-latest-trends-size-cagr-and-forecast-till-2028-2022-09-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 21
   - title: "With 26.6% CAGR, Cognitive Computing Market Size worth USD 72.26 Billion in 2027"
     excerpt: "The Cognitive Computing Market Size is expected to gain momentum by exhibiting a stellar CAGR of 26.6% between 2020 and 2027. This is attributable to the increasing"
     publishedDateTime: 2022-09-26T11:16:00Z
@@ -76,6 +99,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 21
+  - title: "Ai In Agriculture Market is projected to reach USD 6.5 billion in 2029, registering a 23.1% CAGR | Size, Share, Report & Forecast"
+    excerpt: "Ai In Agriculture Market The Ai In Agriculture Market was valued around USD 1.2 billion in 2021, and is expected"
+    publishedDateTime: 2022-09-23T11:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-agriculture-market-is-projected-to-reach-usd-65-billion-in-2029-registering-a-231-cagr-size-share-report-forecast-2022-09-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
   - title: "Artificial Intelligence in Diabetes Management Market to show impressive growth of 35.56% CAGR during the period 2022-2027 | 126 Report Pages"
     excerpt: "Report Pages] Artificial Intelligence in Diabetes Management market size was valued at USD 227.28 million in 2021"
     publishedDateTime: 2022-09-27T06:03:00Z
@@ -96,6 +128,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 10
+  - title: "Cognitive Services Market is Expected to Exhibit a CAGR of 37.93% During the Forecast Period of 2022-2029"
+    excerpt: "Data Bridge Market Research analyses that the cognitive services market will exhibit a CAGR of 37.93% for the forecast period of 2022-2029. Data Bridge Market Research report on cognitive services ..."
+    publishedDateTime: 2022-09-23T09:11:00Z
+    webUrl: "https://www.digitaljournal.com/pr/cognitive-services-market-is-expected-to-exhibit-a-cagr-of-37-93-during-the-forecast-period-of-2022-2029"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 2
   - title: "Machine Vision Market Size To Reach USD 11380 Million By 2028 At A CAGR of 4.0% - Valuates Reports"
     excerpt: "The global Machine Vision market size is projected to reach USD 11380 million by 2028, from USD 8374.8 million in 2021, at a CAGR of 4.0% during 2022-2028. Major Factors Driving T"
     publishedDateTime: 2022-09-23T18:06:00Z

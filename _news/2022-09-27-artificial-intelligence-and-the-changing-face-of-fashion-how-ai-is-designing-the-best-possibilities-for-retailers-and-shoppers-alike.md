@@ -8,8 +8,8 @@ webUrl: "https://www.globalbankingandfinance.com/artificial-intelligence-and-the
 ampWebUrl: "https://www.globalbankingandfinance.com/artificial-intelligence-and-the-changing-face-of-fashion-how-ai-is-designing-the-best-possibilities-for-retailers-and-shoppers-alike/"
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/artificial-intelligence-and-the-changing-face-of-fashion-how-ai-is-designing-the-best-possibilities-for-retailers-and-shoppers-alike/"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/09/iStock-1154387327.jpg"

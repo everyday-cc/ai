@@ -65,6 +65,20 @@ related:
         width: 365
         height: 400
         isCached: true
+  - title: "SAS launches first cloud app with pay-as-you-go pricing"
+    excerpt: "SAS Institute Inc. is making one of its top software applications available on a pay-as-you-go basis for the first time with today’s announcement that its Viya analytics platform is now available on the Microsoft Azure Marketplace."
+    publishedDateTime: 2022-09-27T15:30:00Z
+    webUrl: "https://siliconangle.com/2022/09/27/sas-launches-first-cloud-app-pay-go-pricing/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/1465928356505.jpg"
+        width: 1280
+        height: 840
+        isCached: true
 
 secured: "w+RcaVhvLksgFk5nBceXTG7E6PSkp9dRTZDZHNTJrS6KgRv6oAeMX+rgNIxszQRpyL5UUtXsxBIiQnxq8qx+HSmxPW8QJPi9SnMWgmYMIVYziJ0xll55e9XYBWqwJJWW1wvUXNYeTeRBwR78F6VR0c/ZEoA1dIfeVPUs4KXnuT7iAS5sI+mw43MK9XbA3jxD6jWHLvyTXrRdUEweTjI2Wjsc9scGsiVvsvpvadLpEzyBS1L9YQJZtpSCtqriU1P3dB3bqWZZUGCADwFIzEKUTwEr0e5fDn0gB65PO4dq61lBhBi+/1vT+B+XRucewrmyUw/yorbPVjGQny1ffGv8Eps3bnsjWA4WieuXw4Qwwu0Mjh7+SDn4j6X1fVCAr0+0KvPSy2gQwpS6XWWhRUASvBBO8MGoZ4rry7yi9f2Phc0LNeao8tYPNKHnukmBRV/KuJUtJqBmvZx1wXN3wboc58Y1t45kBaNFPhirn7Z08W3YyfzEOmPAuPZz+Z+9ryW5UjwDC8l+jXTQU084+CGR4w==;LrYqasexWFB0AE/PqHX5YA=="
 ---

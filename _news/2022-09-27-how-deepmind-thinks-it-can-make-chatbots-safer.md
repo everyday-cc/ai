@@ -43,6 +43,17 @@ related:
         width: 1200
         height: 840
         isCached: true
+  - title: "DeepMind aims to close STEM skills gap with new programme"
+    excerpt: "In partnership with several charities and social enterprises, DeepMind said it would be developing educational resources and helping existing programmes reach more young people. Obum Ekeke, head of education partnerships at DeepMind,"
+    publishedDateTime: 2022-09-27T11:15:00Z
+    webUrl: "https://www.computerweekly.com/news/252525429/Deepmind-aims-to-close-STEM-skills-gap-with-new-programme"
+    ampWebUrl: "https://www.computerweekly.com/news/252525429/Deepmind-aims-to-close-STEM-skills-gap-with-new-programme?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252525429/Deepmind-aims-to-close-STEM-skills-gap-with-new-programme?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 54
   - title: "The Download: YouTube’s deadly crafts, and DeepMind’s new chatbot"
     excerpt: "The YouTube baker fighting back against deadly “craft hacks” Ann Reardon is probably the last person whose content you’d expect to be banned from YouTube. A former Australian youth worker and a mother of three,"
     publishedDateTime: 2022-09-23T12:10:00Z

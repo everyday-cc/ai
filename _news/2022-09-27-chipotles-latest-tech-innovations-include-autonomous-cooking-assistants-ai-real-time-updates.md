@@ -39,6 +39,20 @@ related:
         width: 765
         height: 446
         isCached: true
+  - title: "AI and Machine Learning Enter the Kitchen at Chipotle"
+    excerpt: "The first, piloting in select Southern California restaurants, is a cook-to-needs kitchen management system that provides demand-based cooking and ingredient preparation forecasts to “optimize throughput and freshness while minimizing food waste,"
+    publishedDateTime: 2022-09-27T16:52:00Z
+    webUrl: "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enter-kitchen-chipotle"
+    type: article
+    provider:
+      name: QSR magazine
+      domain: qsrmagazine.com
+    quality: 71
+    images:
+      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2022-09/Chipotlane.jpg?itok=5BEjL9Eh"
+        width: 765
+        height: 446
+        isCached: true
   - title: "Chipotle is moving its tortilla robot to a real restaurant"
     excerpt: "Chipotle's tortilla-making robot will soon help out in a restaurant you can visit. The chain has unveiled a slew of technology updates that include moving the Miso Robotics-made Chippy robot to a real restaurant."
     publishedDateTime: 2022-09-27T14:03:00Z
@@ -77,6 +91,6 @@ related:
       domain: forbes.com
     quality: 42
 
-secured: "Gpe9tnpvY9QxsP9s+py2ZmPonMB9SH+/hbiY9ha3a/O/ssyo4BSSCzJPmTjjAsWDWXv82XUCmyrHE0hCZjJ7dRnfOcF0bragHZPDfnLDR4nX2gZ70GHXgyUBBjxBAwsCsZiRjnaiyj06Lr1qrM8PtstphrFu45K7syE9uKI7FZGWy1BB2KyWWZiK2MX9QkHXMpeWI9xpd6j6Pivt2Be5VIXm/uM5XsDmp1fY2KmrzPB8K0CwkwuHz3R++Glp5MiPXPNSVvbItCLhK8lM1X3q/nTIRKnpPv+LunV6OsaMi9HuESM6szP26qfkvfl1G/Fb0qHCiWJveDK0iH+j7aOCcelBmF/JPFxdz+jA7n/XeM4=;DYxjjCTH2THcu71Hjj3N5A=="
+secured: "Dj9kHnDgDfnEd7LqmoOT8pGDN7enz09gMqreeoDboYZE+EBoz8cMw4U/IBrvAamJ/uIm95zSHZ00oyBEArvkAf7tpDIz2CMlXml141plOGST6rQUx9NCojEFHbRsJ5lR1u4HOMDAXS2QGcOabqlB3YPHwtI4Z5pPKi5iiIqqFYXnAzGqpK8QcsFsA5wkwNMkqJmoyn/iCe2T5+BkrGO2dRG/Dbc3lLSS+jfRz9/GdeGflMioePEWS5L+j7rKT5iI32hZ24iyhoA/OW31y+v67Z5kELN+MkVULDA5/Uy5uf5cntNAQ9R/M/4xYPpSEGjLDnokBq9DDhMUweCjdXMHoqA3XvvOOmkfTTHdTi6Ob+KFqPTdY0+GZC4q9zuMS+2tzqQN0EO8Pa3hPdrhGdautNXB9JguJ++i3InsWeFB7Vs0QouP9nQXVxJJcy/mzUj1jfE/p/67Q5IMDJUyiPPbrMNXhepKz/lq67RmbnUAnDN7dQdYXR0ZppqDcoIAphSGWdvkXpaI9Dqa/ic95t3noQ==;vVjKNg7CbdfQ5iQaufjecA=="
 ---
 

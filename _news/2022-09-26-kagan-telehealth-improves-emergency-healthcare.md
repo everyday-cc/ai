@@ -24,22 +24,6 @@ images:
     height: 2048
     isCached: true
 
-related:
-  - title: "Three UC Santa Cruz alums are revolutionizing telehealth with their virtual reality physical therapy platform"
-    excerpt: "Immergo Labs, founded in 2020, provides an affordable, accessible, and immersive telehealth physical therapy care platform."
-    publishedDateTime: 2022-09-23T00:00:00Z
-    webUrl: "https://news.ucsc.edu/2022/09/ucsc-alums-revolutionizing-telehealth-with-vr-physical-therapy.html"
-    type: article
-    provider:
-      name: news.ucsc
-      domain: ucsc.edu
-    quality: 20
-    images:
-      - url: "https://news.ucsc.edu/2022/09/images/immergo.png"
-        width: 1202
-        height: 927
-        isCached: true
-
 secured: "dJDHj4X+QYW3nuj29Wz2DXtJNoW/s/UVkFTXWbLzw3Tf5znPBvIIYXqumoVaBd04pcIzfVG/uOCKBgxrUOqfI5IzjkRooltGWxnARNonx3h+gxHUZAFRemVepBMiB82xxEVqBgLM/1OsfbTPsm3d0IiG3eHPP2/5keJh8x7zNhCR6GXtKzu+leVBWNUzZ6xOfft/bad+YDm2R0Wd3t2nrvrWYPZPjLFZC1wXtR/b8jJwqz3DAtQRSRsQRCwc0UubtkIPaKccWZmZz0VEZ1FOiZq9bDosPC8SkPqPof/FdEiHJLXI9robR4M08RRPBEF2MIIYHNPHBDZYtWG0zvdH39mjWtOzpYgpB+jewq5KuMzTYQkxCffCm4O02LGzdvD2pHdEiJwO/Undx/4z823ktDTkTrdDQygDXRBCnipNYUVJNX1/jglp2wTFiQIIHfdoTWyU3+Xx7YwL5oV/7s8izCPNLn0B3IO94LR8zSHOUe8JENwvG/mqQx1rdsGyyt3Kp54IIg/NqKS5c0ntanaBBA==;wQG8iSZo7EBgUjfnKjA0Vw=="
 ---
 

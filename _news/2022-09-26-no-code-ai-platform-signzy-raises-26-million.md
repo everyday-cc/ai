@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/pressarticle/94183/no-code-ai-platform-si
 webUrl: "https://www.finextra.com/pressarticle/94183/no-code-ai-platform-signzy-raises-26-million"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered onboarding fintech Signzy gets US$26mn in funding"
-    excerpt: "Signzy, a fintech which offers an AI-powered onboarding solution, has raised US$26mn in Series B capital from the likes of Gaja Capital and Arkam Ventures."
-    publishedDateTime: 2022-09-26T10:09:00Z
-    webUrl: "https://fintechmagazine.com/articles/ai-powered-onboarding-fintech-signzy-gets-us-26mn-in-funding"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://assets.bizclikmedia.net/1800/943ae71837486d996366709ce6a192c0:406c3762d69363d8fd5d7db4beb6dd67/signzy-founders-pic-l-r-arpit-ratan-ankit-ratan-ankur-pandey.jpg.jpg"
-        width: 1800
-        height: 1011
-        isCached: true
   - title: "Indian Fintech Signzy Secures US$26 Million in Funding Round Led by Gaja Capital"
     excerpt: "India-based Signzy announced that it had raised US$26 million in a funding round led by private equity firm Gaja Capital."
     publishedDateTime: 2022-09-27T03:32:00Z

@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI-based drug screening process could speed up the development of life-saving medicines"
-    excerpt: "Developing life-saving medicines can take billions of dollars and decades of time, but University of Central Florida researchers are aiming to speed up this process with a new artificial intelligence-based drug screening process they've developed."
-    publishedDateTime: 2022-09-22T23:53:00Z
-    webUrl: "https://www.news-medical.net/news/20220922/AI-based-drug-screening-process-could-speed-up-the-development-of-life-saving-medicines.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 31
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "pEYP0rvx9TW+X8fpq6XOOkAhq2mJwTXs0DtFknuUhDeJacrbQqob7+V8kWi2RcFmLUxw08MBIpfX5i5HGnRTBSI9gCQsFOZ6cpgAAWKDApq61MAKJM9sKy1UuUYtrwMc6p2n3Yka9HXHE7WqpHibT5GxUYzec189Szs1m/cCf5l4kBFLHLFJtUMKWW7FhNFNVG+EvOx42GX3gY30ndXpAxpW1oreCC2P69I1B9p03DGFRXZAsxzqVI3ElZMt3J7XcQrHiupRgji+CKvViuSWui+bxQlnlRDzbkx9c6MdI6zWJREVtawXnyXrD/uQGz8nadpldK9SkSPOh9U3ZB24fQbfxHsIztTYcaKwG3qXIM4=;frj7tSb5jFhXT62OZAnZqg=="
 ---

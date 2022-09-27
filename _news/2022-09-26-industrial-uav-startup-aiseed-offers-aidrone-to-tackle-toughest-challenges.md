@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Industrial UAV startup AiSeed offers AI+Drone to tackle toughest challenges"
-excerpt: "robotics, and AI backgrounds. Most of them have worked in the U.S. for many years after getting their master's degrees from American universities or were born or raised in the U.S. Why set up the startup in Taiwan? \"Taiwan has a very well-developed ..."
+excerpt: "AiSeed Technology (AiSeed), a newcomer to the commercial drone market, was established in Taiwan right before COVID-19 rampaged across the world. Despite the difficulty, it still survived during the pandemic and continues to gain attention at international air shows with its unmanned airborne vehicles (UAV)."
 publishedDateTime: 2022-09-26T07:27:00Z
-originalUrl: "https://www.digitimes.com/news/a20220925VL202.html"
-webUrl: "https://www.digitimes.com/news/a20220925VL202.html"
+originalUrl: "https://www.digitimes.com/news/a20220925VL202/ai-autonomous-uav.html?chid=13"
+webUrl: "https://www.digitimes.com/news/a20220925VL202/ai-autonomous-uav.html?chid=13"
 type: article
-quality: 37
-heat: 37
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
   domain: digitimes.com
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
@@ -24,6 +23,6 @@ images:
     height: 853
     isCached: true
 
-secured: "5nVw8lSPW4Je+srwNaoSlWve6Ll5zhrOQkWVzsnwWJhizCvsr+HYPOpOX6vO1uWzw78s5rGjyHavtFpTw2oLC56udiNJsUQpgHWNEp27FbmWx9uQV/0xAF2sTmW8lEyOoDplBG44hKw+vLMr03UK9PeafFP/p56cZKt9B/cXiMc3khTDw9RBWgpbSy5pJPDxIaXPwdquSs3lj0I/upRbQgUxppRPD0VJJj4pT07ZL6BU7QmsPrzchkiQym0g8Ff7Ln+nyGj+Y2Y4UWmDIhBzTXsVrCPot/jZKLt4zqE01kEdVXnkkr1IgBgf4lpwCSrenmoP/prbpjy323UuT1mACvd5FCy31gnANRV/pXblqg4=;IjMfG+p2ZirBZyLWElapaQ=="
+secured: "CHAFkEzen/wLFog71UiDzh4fDRJbWKYVIS7RcOuttZg9uEn5mf3C6i+TaUjhNbNKEH4UeTDXa/Eh+Ye8cyF9wLnvDuzg6yjTIX6hTIV2pP4iVrq/M9Zq+h+AedaUKNgLMPup8vDJSKclDvR1WVzTgCmg1ABp8qEXFJ9znbsZGxtOaNUpJMQrPXD4MO1CVdKDvMbpkKBtapVU6FMncCKTOPuM1ICsveX1fSkrLfVpIr52kWR5rprwJ0jDmqWVpFO4naZ7DHyCla9k9Adr9ZrH6iEvqE/cZv5pCKvcuvTpVciNCyYk+RzHeDKxYLgyQ07wGhg/EWYae/v5g7gnstJuQ6TvNChuHT+yAquwzgQrfuk=;iLK8y0bl8IefDbYzvQ5TBw=="
 ---
 

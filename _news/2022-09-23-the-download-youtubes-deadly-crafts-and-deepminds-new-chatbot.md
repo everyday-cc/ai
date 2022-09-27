@@ -51,6 +51,17 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "DeepMind aims to close STEM skills gap with new programme"
+    excerpt: "In partnership with several charities and social enterprises, DeepMind said it would be developing educational resources and helping existing programmes reach more young people. Obum Ekeke, head of education partnerships at DeepMind,"
+    publishedDateTime: 2022-09-27T11:15:00Z
+    webUrl: "https://www.computerweekly.com/news/252525429/Deepmind-aims-to-close-STEM-skills-gap-with-new-programme"
+    ampWebUrl: "https://www.computerweekly.com/news/252525429/Deepmind-aims-to-close-STEM-skills-gap-with-new-programme?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252525429/Deepmind-aims-to-close-STEM-skills-gap-with-new-programme?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 54
 
 secured: "E6yZKZ8cMbrOy2JSrxODSijLQXH1g6owAfZapiv4Va/yP/j9ScxaEHHmMCy+vD61tzXkSuxlQVT2bKiYcS9wQBa56PeuHQ2koAXFe0WlRCpqDiDAZ7U6l5P+UDQCGb4WpHPyoIT9w+ged9tC5cv0oqg0MMSUo5NbWiHFhtnUkSkoJTQyYSRYh/HTLKcWHQWc9nMzvKaLJMrppVszj+C6RgGjat2dPZEailIZNmhM09RIA6xouHuKr9pzV9VNbOBWIunBoIYbK1Two75vBZVXffpP6Jbyes+/5BblbZVAmLIiOqRNaXZiqJTzDdrbpsLZ+wZ1q/Jq4kLKmUZ1bF48sovrQvpogwbmFJ7PVWYHJpjxa5PogaJ5Iwb3PZgIQFlYYl6J6MfWgscOHCv41yKJgMuwEJX0BsULWii8iwk694QpRD6+2pqDLtWOOjSVseKq6sSczgJvCpgK9FNTqaXRjN40yQ00GojSKVJqsDMTALIC1hIwlm3JVA4U/i/SB/tCK6gHMt4I4ZVZzJ5QXjRZXg==;5QcEAxhOKs9iiZEvOu5Qew=="
 ---
