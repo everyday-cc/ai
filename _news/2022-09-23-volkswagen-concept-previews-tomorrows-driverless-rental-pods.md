@@ -9,7 +9,7 @@ ampWebUrl: "https://www.perthnow.com.au/lifestyle/motoring/volkswagen-concept-pr
 cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334177.amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cruise driverless vehicles involved in 3 separate SF traffic incidents Thursday"
+    excerpt: "SAN FRANCISCO (KRON) — In separate incidents on Thursday night, three Cruise driverless vehicles created disruptions and blocked traffic on the streets of San Francisco, with one vehicle ..."
+    publishedDateTime: 2022-09-24T01:20:00Z
+    webUrl: "https://www.kron4.com/news/cruise-driverless-vehicles-involved-in-two-separate-sf-traffic-incidents-thursday/"
+    ampWebUrl: "https://www.kron4.com/news/cruise-driverless-vehicles-involved-in-two-separate-sf-traffic-incidents-thursday/amp/"
+    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/cruise-driverless-vehicles-involved-in-two-separate-sf-traffic-incidents-thursday/amp/"
+    type: article
+    provider:
+      name: KRON4 News
+      domain: kron4.com
+    quality: 55
+    images:
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2022/09/cruise-crash.jpg?w=1280"
+        width: 1280
+        height: 914
+        isCached: true
   - title: "VW Gen.Travel: Driverless concept aims to end the short flight"
     excerpt: "The Gen.Travel concept is all about carrying occupants in maximum comfort with minimal interaction. The Gen.Travel boasts of level five autonomy, defined as needing no human inter"
     publishedDateTime: 2022-09-26T22:32:00Z
@@ -56,6 +72,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "y9xwoYHQIQLD8F2SE2mDi3hGRqs7XLgTAwAp5Mj2+eeqL/gk/ePqg2GxGvkxP0xK6/synCrJm1494hzSpRwfuk533udCapgMtF+mWwJnkQsv64fM7bpvKyC/MPPjeMJjfxFBHt0n1hKSCRTtzObpW0Pv7b5dq0CofF+vAkmpAAXlKWASH6KAiu3Mxhxofzdjls1yuhC2kKlEnpoRg9X/kyweB+AQBF/wZTfzYbdVbzMaAS/o8/c/iBeQppIGZjW7tNyT9MFQ+8h/TjGM+S0Pqc9wLHtwsmc8tVzZyqM/adw9bbgYoc5lxS1SIl70g51/gbmC5ze1fA7HvlDWCpEJspfBr4hWE86raOGdMn7X7Us=;lnqTQBBWlb+BBoQAlcoO2A=="
+secured: "y0Ga7wQyV0QwvzS+0M88dkxNGe++rLi5FZuTQcBt91ZsvzLDLYutvDJzAXIHIins3pa0JRvdK67dn6AnjHthSlYrrx4iFKYHuOTva/W03qpGbBaefyQgSM/lL90ROlHoZNFSXy2Qp21n6sG/rIz1ANDuBCCRTQB24Xvti9UwA3dMh9zkerlXzsSDkhBo5NL6AQ5v0I/VeLLCj5D9u+Ev7xpw7/th1C81GCVaUEdpsLXYG7TiCheHOo+pJT3RabKfNviB4g0uwDw1uqtWwCGb4WLsj3twy5WWIjILEdx7GO98snmozzGu+AX8JUBnfRTyAW9aYfkKW2a3FqXgEvxDToYFAZZ0LbUewr7sT+/XXms=;mR6+JxUHDdoo4RmqrHyDEQ=="
 ---
 

@@ -1,32 +1,23 @@
 ---
 category: news
 title: "3 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade"
-excerpt: "IBM could be a cheap value play on the growing AI market. Workday provides balanced growth for patient investors. SentinelOne is growing like a weed -- but it’s also deeply unprofitable and its ..."
-publishedDateTime: 2022-09-24T14:07:00Z
-originalUrl: "https://www.fool.com/investing/2022/09/24/3-artificial-intelligence-stocks-you-can-buy-and-h/"
-webUrl: "https://www.fool.com/investing/2022/09/24/3-artificial-intelligence-stocks-you-can-buy-and-h/"
+excerpt: "The artificial intelligence (AI) market has become one of the tech sector's hottest pockets of growth in recent years. Many organizations now realize that crunching massive amounts of data with AI algorithms can help them make smarter decisions ..."
+publishedDateTime: 2022-09-24T13:20:00Z
+originalUrl: "https://www.nasdaq.com/articles/3-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade"
+webUrl: "https://www.nasdaq.com/articles/3-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade"
+ampWebUrl: "https://www.nasdaq.com/articles/3-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade?amp"
 type: article
-quality: 68
-heat: 88
+quality: 66
+heat: 87
 published: true
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - AI in Autos
   - AI
-
-images:
-  - url: "https://g.foolcdn.com/editorial/images/702195/robot-star-background.jpg"
-    width: 2373
-    height: 1263
-    isCached: true
 
 related:
   - title: "This guy is using AI to make a movie — and you can help decide what happens next"
@@ -58,6 +49,6 @@ related:
         height: 1379
         isCached: true
 
-secured: "ioqNcSYsVG/VhaKH62ECv5ZF+WKMnlby5vmEzD9qp6mrlCLPBPT6CNSoKvzTZOgLKI8tje+g3tqBlqT91C4xQmpHIsU3eHqhRSlqPHpxn4BRywrG5wwPB3z210kiDpr7aahoVbMYnkU4f0DwXS5+mwUsZvCmfHEDHeCge8gokSg96lAIrWhbFt4ueOFPNpxevKR0p3mbxnbgBeD2nXsGPVydgWn0z/nwZLExOWCYdBXYgbFxYOY+T6Vs/8ytQw3Zn/ncIpT64hmOTnFSH+S8pCTszSvIwIg0hv6hcrw+QmGAlf5hoPvLS2QhO3vrEfkIGGqYceJAhAJEhBSYqKhDSClwOihzX2laQzxidsANVtI=;5j0D+RsuuA5tcZKr3t7Usg=="
+secured: "leSNsPzemWjYi+zfF2Tal8ccS8HbYwd0lmAILtSXjagjIBq+y3ZwRLW/n2fuGtWfdPEG8zU5CwXT+pq3Iz1Z6ypqpcFT6m9WgFRw27kGrb6jPV48bCidYKKEsRfy7Ke8fIQB1cp3DTMYfKZIyOTshjWRvBZN9+g+37gh7P7Q0tjwlhlLPJ0XO3uqsZzxifQEjZ2ew2k44MPa2buBo5L77M/WzzKs+R5iYYApQKKpb+4lABMCRuWcThtRw5QcHijokqaCVYPryhJqfDPafSJ34gEDH6vjqWO5/E/Z7MTQ/iJrYueXufmLfx/bDXe6s3mz1xU6efyXAsTJEyAJtInjf8SVYE9fEkERi0GYO6+c+iw=;yz9mbjTnpQsLT92x5yQKyQ=="
 ---
 

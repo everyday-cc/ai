@@ -78,6 +78,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Home Security System Global Market Report 2022: Implementation of AI & Deep Learning Drives Sector Growth - ResearchAndMarkets.com"
+    excerpt: "The global home security system market is expected to grow from $3.92 billion in 2021 to $3.96 billion in 2022 at a compound annual growth rate (CAGR) of 1.2%. The growth is mainly due to the companies resuming their operations and adapting to the new normal while recovering from the COVID-19 impact,"
+    publishedDateTime: 2022-09-26T12:10:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-26-home-security-system-global-market-report-2022-implementation-of-ai-and-deep-learning-drives-sector-growth-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 21
   - title: "Global Deep Learning Chipset Market | Value and Size Expected to Reach USD 14178.14 Million | Growing at CAGR of 15.04% | Forecast Period 2022-2027"
     excerpt: "With tables and figures helping analyze worldwide Global Deep Learning Chipset market trends, this research provides key statistics on the state of the industry and is a valuable source of guidance and direction for companies and individuals interested in the market."
     publishedDateTime: 2022-09-23T07:05:00Z

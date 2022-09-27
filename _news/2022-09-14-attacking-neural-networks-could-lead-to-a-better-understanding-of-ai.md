@@ -3,8 +3,8 @@ category: news
 title: "Attacking Neural Networks Could Lead to a Better Understanding of AI"
 excerpt: "How neural networks work is considered a bit of a mystery within the AI research community, but a novel method of \"attacking\" neural networks during the training process could reveal new insights."
 publishedDateTime: 2022-09-14T08:50:00Z
-originalUrl: "https://www.technologynetworks.com/informatics/news/attacking-neural-networks-could-lead-to-a-better-understanding-of-ai-365650"
-webUrl: "https://www.technologynetworks.com/informatics/news/attacking-neural-networks-could-lead-to-a-better-understanding-of-ai-365650"
+originalUrl: "https://www.technologynetworks.com/tn/news/attacking-neural-networks-could-lead-to-a-better-understanding-of-ai-365650"
+webUrl: "https://www.technologynetworks.com/tn/news/attacking-neural-networks-could-lead-to-a-better-understanding-of-ai-365650"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 360
     isCached: true
 
-secured: "D3nPOVfuDUQ/+9i3LkjK3eOBTDWP8p0O9GeNcQjhwtJFi3d9t0LludkiiwdI/t0Nwx7bEA+Rl7J2jqrzzhuYFQ5bLM6RvaTz/CIVfOv6US6qQn3JELQiTujyImWqmjvMF2M16sBPqi3nj1UA+W7fY786EUFr3mW4DCUzjqgBIdpMgog9O2x0LmGnS67fPnYY8rmaQO4Y04BixJHOLunnmSh8ksbTiocisVfZp+Myf2xAz7wSDamQNpw/TzA4WW7qxLXs+i1GQL27zTG2K9kxclL/4HKd6YLQSXlsH5/Z1aigcXG/80tXNRtgbsWLkTvDLrgIWe2cldx1kYkDbTkk4f0U62WpBs3NTUQh1pkwTqw=;fxpqspY/IX/ml/VX8DgGhg=="
+secured: "sSI5lVHzxz7QNg62mj3ONz83kITmxJLRC21pXGJj+pVMbuEYz6J1uaBNnlmwl9l+xnD7zq9eRxffjXpL1DP8bFz3xNoq3o4uIMKj3L/K0nVC07UhWJcT0FTRF5+Q3DWPiaWcQtiWydruHtBn1ctO/bzF6PScMFY2TXleCjwsei7FBzf4pjw1sRNf9w2OUsInt5axGBOCTN+rU7zmUmvnbvFrrb9qZ/ClxQJew3+tgeY2nH3guH2R+XJLhkn0M/m4S+SSH5cG/X6PV0BpvxyTUSb3i/IY+sRUZT91dHtQmnGgf62YAGY/tqzmdukhdU7lt47jlWk7OvKSUq7Vjv3+t1RGwWKP7e7fTW5WCfPKGNs=;Iy/rWa+IcWNdD32jlk/M0w=="
 ---
 

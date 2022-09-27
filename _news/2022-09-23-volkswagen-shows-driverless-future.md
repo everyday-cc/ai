@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Cruise driverless vehicles involved in 3 separate SF traffic incidents Thursday"
+    excerpt: "SAN FRANCISCO (KRON) — In separate incidents on Thursday night, three Cruise driverless vehicles created disruptions and blocked traffic on the streets of San Francisco, with one vehicle ..."
+    publishedDateTime: 2022-09-24T01:20:00Z
+    webUrl: "https://www.kron4.com/news/cruise-driverless-vehicles-involved-in-two-separate-sf-traffic-incidents-thursday/"
+    ampWebUrl: "https://www.kron4.com/news/cruise-driverless-vehicles-involved-in-two-separate-sf-traffic-incidents-thursday/amp/"
+    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/cruise-driverless-vehicles-involved-in-two-separate-sf-traffic-incidents-thursday/amp/"
+    type: article
+    provider:
+      name: KRON4 News
+      domain: kron4.com
+    quality: 55
+    images:
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2022/09/cruise-crash.jpg?w=1280"
+        width: 1280
+        height: 914
+        isCached: true
   - title: "VW Gen.Travel: Driverless concept aims to end the short flight"
     excerpt: "The Gen.Travel concept is all about carrying occupants in maximum comfort with minimal interaction. The Gen.Travel boasts of level five autonomy, defined as needing no human inter"
     publishedDateTime: 2022-09-26T22:32:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ai-day-brings-optimus-rob
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/"
 type: article
 quality: 118
-heat: 158
+heat: 168
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       name: CNET
       domain: cnet.com
     quality: 78
+  - title: "Tesla AI Day: It's The Battery, Stupid"
+    excerpt: "This article will argue that Tesla, or even the EV space in general, faces a similar situation. Click to read how TSLA leads competitors in battery technology."
+    publishedDateTime: 2022-09-27T04:22:00Z
+    webUrl: "https://seekingalpha.com/article/4543249-tesla-stock-ai-day-its-the-battery-stupid"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 56
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/490597690/image_490597690.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "CgGQFZULmJmYexaGcNzMWKCuEnwfASxCg2gchvS/Htis5V6l9dLiLefV5Nl9JXVVISIeP5oygBJMtcWFB9HNg1VltelxOoTxzH773F0wa2ZUWit93whzah4+80UajMQeNbYbL70y0kEtabvVu27k+dY9YVBNa5svB/ObQgB2XAFVAydnEPqnQDMuQzqpC7DoQu+GDtjy25mM7cWa8HHoTIonY26bwxSzpBPJ8hrkti34Qj4UfAIBU0gxsp0QQvgWN+rc/q8Cp8JlmonC4oENeDveFrgnKpXQpy0R9jKQl7Vi/PJtzS9UC7nfG7+wXTCVL2PdTurZWncDM/CFiZOi9vFPJDTU1UfU7MibxrVQctE5AuTvo8waV2J1mT7Ma0dRK0J3IkduvW6PSrv0Ae58GPZk5enUO9SF+RP6/uL8d4+tvMQJgcz9WO8o+wKaJr30wtYsDbAtaa5V73DiOp5PBOTG9iDRe4GHGY+EsMq4sfyZ2Ly67BYm3cKH1UwYTEkutae3A9E6GC9gvbA/IXVd0g==;zr0ZvKY9MPtQDd3WJfKB6w=="
 ---

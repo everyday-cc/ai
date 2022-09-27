@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "2023 Breakthrough Prizes Announced: Deepmind’s Protein Folders Awarded $3 Million"
-    excerpt: "Demis Hassabis and John Jumper share the $3 million Breakthrough Prize for development of AI program AlphaFold. The same AI engine that made computers even better at games like Chess and Go could ..."
-    publishedDateTime: 2022-09-22T13:05:00Z
-    webUrl: "https://www.forbes.com/sites/alexknapp/2022/09/22/2023-breakthrough-prizes-announced-deepminds-protein-folders-awarded-3-million/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/632bbf179eebc354257d2c1f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "DeepMind scientists win $3 million 'Breakthrough Prize' for AI that predicts every protein's structure"
     excerpt: "Scientists from Google DeepMind have been awarded a $3 million prize for developing an artificial intelligence (AI) system that has predicted how nearly every known protein folds into its 3D shape. One of this year's Breakthrough Prizes in Life Sciences went to Demis Hassabis,"
     publishedDateTime: 2022-09-22T19:47:00Z

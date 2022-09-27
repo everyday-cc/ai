@@ -88,6 +88,20 @@ related:
         width: 2121
         height: 1193
         isCached: true
+  - title: "Tesla AI Day: It's The Battery, Stupid"
+    excerpt: "This article will argue that Tesla, or even the EV space in general, faces a similar situation. Click to read how TSLA leads competitors in battery technology."
+    publishedDateTime: 2022-09-27T04:22:00Z
+    webUrl: "https://seekingalpha.com/article/4543249-tesla-stock-ai-day-its-the-battery-stupid"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 56
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/490597690/image_490597690.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "TtUl8qb5wwz323ypo+OJ9IIn+r129mO2TZbkn+OFbIAY+Ays2l14hxR8BVkjStSPzmgS6EneO20OPtaIzqbWCnY/P74HE3hZdW8TdE5GntbLjVXPOKES6thw+GhKr3vCNHh7mqMwhnmCZHdYa6KgzZ49MmO2GQIuWgB0bfkYZrfXssIPQvzr3wuleiFGonJS93rkkOGOZOCBtYEcI1JlMtOEp1QWFbZ5ZfTQii+mdYMZOemYWAeWKHmQEzCbT45XapCu2YZ1WD2oSqmrVQnxZCrrvg+PXqflADPbgqfpMI6wT91rXOMZt+ZYrZ+69Xwtn8K6wcM3S1iA1FA2EgGTT9NnFfoB+Maq4zhUw9tI8W5LJsaSiVrGQ6XJOd+orR6m3RxITFG2b9GGfrGtxFmE+Co7iEBWqNH8ErDG31iSZB1K/d+GxPBqN9tOxJz+JT7aND1b3kvrLzCs9kAtLG5VokE9Tp7tqTLBWwlawwpCUEnQiNJhQ2VIDajaTymU1X2frIJyT6IEOStW5NDdFcia+w==;K6vuwbfQHJjffu+Jna8QKg=="
 ---

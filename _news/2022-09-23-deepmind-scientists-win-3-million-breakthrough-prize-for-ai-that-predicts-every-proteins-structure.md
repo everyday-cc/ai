@@ -7,7 +7,7 @@ originalUrl: "https://www.livescience.com/alphafold-wins-breakthrough-prize"
 webUrl: "https://www.livescience.com/alphafold-wins-breakthrough-prize"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "2023 Breakthrough Prizes Announced: Deepmind’s Protein Folders Awarded $3 Million"
-    excerpt: "Demis Hassabis and John Jumper share the $3 million Breakthrough Prize for development of AI program AlphaFold. The same AI engine that made computers even better at games like Chess and Go could ..."
-    publishedDateTime: 2022-09-22T13:05:00Z
-    webUrl: "https://www.forbes.com/sites/alexknapp/2022/09/22/2023-breakthrough-prizes-announced-deepminds-protein-folders-awarded-3-million/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/632bbf179eebc354257d2c1f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AlphaFold Developers Win $3-Million Breakthrough Prize in Life Sciences"
     excerpt: "DeepMind’s system for predicting the 3D structure of proteins is among five recipients of science’s most lucrative awards"
     publishedDateTime: 2022-09-22T17:18:00Z

@@ -1,25 +1,29 @@
 ---
 category: news
-title: "Automotive Artificial Intelligence (AI) Market Size to Hit USD 19.1 Bn by 2030"
-excerpt: "The global automotive artificial intelligence (AI) market size was valued at USD 2.9 billion in 2021. The development in the auto business is supposed to drive the automotive"
-publishedDateTime: 2022-09-22T21:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030"
-ampWebUrl: "https://www.benzinga.com/amp/content/28977012"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28977012"
+title: "Automotive Artificial Intelligence (AI) Market Size To Hit USD 19.1 Bn By 2030"
+excerpt: "The global automotive artificial intelligence (AI) market size was valued at USD 2.9 billion in 2021. The development in the auto business is supposed to drive the automotive artificial intelligence market."
+publishedDateTime: 2022-09-22T21:37:00Z
+originalUrl: "https://menafn.com/1104911136/Automotive-Artificial-Intelligence-AI-Market-Size-To-Hit-USD-191-Bn-By-2030"
+webUrl: "https://menafn.com/1104911136/Automotive-Artificial-Intelligence-AI-Market-Size-To-Hit-USD-191-Bn-By-2030"
 type: article
 quality: 50
 heat: 50
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "BYw0vkc3YfuTprtm+K92xLUlWfsiWdKNcfPCdn9+hA8ToNeZ/4upc8bYVIvg3V1tfz6AXIAbh5R9uechFL1IEmruHc7J2p//WPVBrviJaAQWcUIRzhIL/HAIMLuNI/h9ptjkwleBlsDQqC117oSSd7pbPX711i2ppHfiPboabQrwhIbnQHFEsIp91YZ02e+6LzJBYErsi/6DQRJL0gocEjXf9WIEleXZCct4TEs/Z4DYZ41pD7p7DHjazLCqFplaUUfsgP5gnhXRytnW74QKIcmp8l5+3FFjjZC/JpufGAQSypoquSuX1ET+5HMhTcysO4r+DSmxY5DNNg/BVidGWPrTdc7CGRi0PqC91IyrEy0=;FA7BwQhI8LWK2OXGXayDaw=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?447603"
+    width: 510
+    height: 250
+    isCached: true
+
+secured: "gqwgqsgWPyfOq0HZyyZNAOFhKy9Kk3ROUpjM3QGa5SFDF5RyDsZax+2BUgA7Tn0Zl9oeZOGgxc8psCwTgiZHchQ3rC20rOLwh41YqNxL9FMdz+CdKPNArndrjs93mRxlf69tSZ5jdf27hz5ZiazdyqluSYUDAhOSjS8Uokb83FeeXvP+0h4+wNTOhXuiPwEy6vdfzRnHlNak9MGwPa/2O/mKN8cb7Yl2JR9aZVWv5F2whw6q1Z46cALSF/yDXRupbQka/w4GTXH9dyydiwctq1Y4QS30O2Gkgt52XWqrgJlCjNoBkaGjzqQB+cnDmWgsZZ+FSxWthkB0lHV9RAJDOdz4E5PSD5ArprQHn/bZa7Q=;h1pPtEscAAWjyFXkCB9XOw=="
 ---
 

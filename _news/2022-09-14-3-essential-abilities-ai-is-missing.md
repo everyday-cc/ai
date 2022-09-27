@@ -5,6 +5,8 @@ excerpt: "As the AI community puts a growing focus and resources toward data-dri
 publishedDateTime: 2022-09-13T19:10:00Z
 originalUrl: "https://venturebeat.com/ai/3-essential-abilities-ai-is-missing/"
 webUrl: "https://venturebeat.com/ai/3-essential-abilities-ai-is-missing/"
+ampWebUrl: "https://venturebeat.com/ai/3-essential-abilities-ai-is-missing/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-essential-abilities-ai-is-missing/amp/"
 type: article
 quality: 49
 heat: 49
@@ -21,7 +23,14 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Facebook AI
 
-secured: "Ge7Ngj+jVga9RWLCwtYWLp6XZklspYE9wNEzbuUFTNG5shkj+jxAwBMq11PKAJWQEHKvDqpxdCNFjdaa17p5t1Do7Zi1XsweoA3+5HwSFDnULaEhky2QCIQRCVB4hBJdG3Mr547sIG+hSM7X+tYvSXcjiDEADSBqbIYD9p1gkANFlXjrOJ4TUV9CbKp+UZfIlkXhCudPQHb6ODJ09Q4+QWWyEZTHDI67Y4A5/h6t0e9NkqtrroCIq80QYkzafpEW/NS3kB4+9jpd6GrzjCp2+kbeeOgwdZOpkhbq9zVCR8ncyEreosxKVN95ONZlyEjPDdqMGFZcfuKi1T9ytBBx1BTH+QQD67RXoynRyZgjLayfUZyJ6gx0LmYfibkE/ugYH4rc24UFQr8RHnifz39aqSht18fz95hhM4P3wHN6mNzyyptE72rHN0ryC5qABEYN+rSYeQ/BdYPBilm0B32e2QLnCNnQaa8ihw3+m/uIL68uAU+W0PpTqyhd/8WBi2sunBK0wuun+/5wMcAxo/ermw==;vNwbz15Fvn4pSOkS535ukQ=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1366475366.jpg?w=1200&strip=all"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "pDnfaCf5eYDyMmSUiMuyg9AdmWbYt9011sFlHnLs636IfZJeAqnTuLHufTix64OvuvkyRpb1u6CF9kHI1GUKssCOm5if0NcEIhuc99NZgqbHlOa7oxMmwkHoQUHdJUhBEi+y/jat+wHf019VT/Bio+Tm4Wni3EJMua9nX3ZiJBwwS2CeWD2Pus8QMmOsT66I4DMJ/FYofNjxqSpwa4/TjUaboXR5/2oAskNYzSQdFMjkEdCKoQE/X9cE3TKJzy4ODcL7RUOVN/tpUVfgsL2LyTu3QrOUBr7RRwPTk0ZXF5vR5ywasOHtni4BvRCeXOI5OA0gJl1LD8ZT9cF1ujiy2NpWP9Xi3fjqLoKqHRowNWc=;o4ompTKE0pRhqs9Us02ESQ=="
 ---
 

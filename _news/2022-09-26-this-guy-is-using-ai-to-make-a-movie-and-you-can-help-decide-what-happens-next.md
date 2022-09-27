@@ -26,19 +26,16 @@ images:
 
 related:
   - title: "3 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade"
-    excerpt: "IBM could be a cheap value play on the growing AI market. Workday provides balanced growth for patient investors. SentinelOne is growing like a weed -- but it’s also deeply unprofitable and its ..."
-    publishedDateTime: 2022-09-24T14:07:00Z
-    webUrl: "https://www.fool.com/investing/2022/09/24/3-artificial-intelligence-stocks-you-can-buy-and-h/"
+    excerpt: "The artificial intelligence (AI) market has become one of the tech sector's hottest pockets of growth in recent years. Many organizations now realize that crunching massive amounts of data with AI algorithms can help them make smarter decisions ..."
+    publishedDateTime: 2022-09-24T13:20:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade"
+    ampWebUrl: "https://www.nasdaq.com/articles/3-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade?amp"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 68
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/702195/robot-star-background.jpg"
-        width: 2373
-        height: 1263
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 66
   - title: "This guy is using AI to make a movie — and you can help decide what happens next"
     excerpt: "By Rachel Metz, CNN Business “Salt” resembles many science-fiction films from the ’70s and early ’80s, complete with 35mm footage of space freighters and moody alien landscapes. But while it looks like a throwback,"
     publishedDateTime: 2022-09-25T13:00:00Z
