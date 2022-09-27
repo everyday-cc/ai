@@ -9,7 +9,7 @@ ampWebUrl: "https://banyanhill.com/gm-doubling-down-self-driving-cars-lidar/amp/
 cdnAmpWebUrl: "https://banyanhill-com.cdn.ampproject.org/c/s/banyanhill.com/gm-doubling-down-self-driving-cars-lidar/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,66 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Hyundai Spotted On PIE, Likely Part Of Test For Driverless Taxis"
-    excerpt: "A motorist spotted a self-driving car along the PIE on 16 Sep. The driverless vehicle may be out for a driverless taxi test."
-    publishedDateTime: 2022-09-22T10:04:00Z
-    webUrl: "https://mustsharenews.com/self-driving-car-pie/"
-    ampWebUrl: "https://mustsharenews.com/self-driving-car-pie/amp/"
-    cdnAmpWebUrl: "https://mustsharenews-com.cdn.ampproject.org/c/s/mustsharenews.com/self-driving-car-pie/amp/"
+  - title: "Why Don’t You Have A Self-Driving Car Yet? This 2-Part Series Explains The Big Remaining Problems"
+    excerpt: "People often ask, “Where’s my self-driving car?” “Why don’t I have one and when will it come?” A lot of people feel they were promised a car by the late 20-teens and it’s late, and perhaps isn’t coming, like the flying cars talked about ..."
+    publishedDateTime: 2022-09-26T13:05:00Z
+    webUrl: "https://www.forbes.com/sites/bradtempleton/2022/09/26/why-dont-you-have-a-self-driving-car-yet--this-2-part-series-explains-the-big-remaining-problems/"
     type: article
     provider:
-      name: Lee
-      domain: mustsharenews.com
-    quality: 71
-    images:
-      - url: "https://mustsharenews.com/wp-content/uploads/2022/09/Self-Driving-Car-Spotted-On-PIE-May-Be-Part-Of-Test-For-Driverless-Taxis-1.jpg"
-        width: 1500
-        height: 750
-        isCached: true
-  - title: "Volkswagen concept previews tomorrow's driverless rental pods"
-    excerpt: "When (if?) cars become properly driverless, why not make them glassy pods with beds, desks and AR entertainment for the kids?"
-    publishedDateTime: 2022-09-23T01:11:00Z
-    webUrl: "https://7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195"
-    ampWebUrl: "https://7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195.amp"
-    cdnAmpWebUrl: "https://7news-com-au.cdn.ampproject.org/c/s/7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195.amp"
+      name: Forbes
+      domain: forbes.com
+    quality: 36
+  - title: "Can eyes on self-driving cars reduce accidents?"
+    excerpt: "Self-driving vehicles seem to be just around the corner. Whether they'll be delivering packages, plowing fields or busing kids to school, a lot of research is underway to turn a once futuristic ..."
+    publishedDateTime: 2022-09-22T16:14:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/09/220920100807.htm"
     type: article
     provider:
-      name: 7NEWS
-      domain: 7news.com.au
-    quality: 59
-    images:
-      - url: "https://images.7news.com.au/publication/C-8334195/8b834ff686026c4ce8d0ecc99ee023286661aef2-16x9-x0y173w3805h2140.png?imwidth=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "VW Gen.Travel: Driverless concept aims to end the short flight"
-    excerpt: "The Gen.Travel concept is all about carrying occupants in maximum comfort with minimal interaction. The Gen.Travel boasts of level five autonomy, defined as needing no human inter"
-    publishedDateTime: 2022-09-26T22:32:00Z
-    webUrl: "https://www.whichcar.com.au/news/driverless-vw-concept-to-kill-short-flights"
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
+  - title: "A new self-driving car developer is setting up shop in Tucson"
+    excerpt: "The company, backed by Japanese auto giant Toyota, previously tested self-driving cars in California but its state permit was revoked following a minor crash."
+    publishedDateTime: 2022-09-22T19:30:00Z
+    webUrl: "https://tucson.com/news/local/business/a-new-self-driving-car-developer-is-setting-up-shop-in-tucson/article_6e3c25fa-3a98-11ed-806e-f713fec8a6a3.html"
     type: article
     provider:
-      name: whichcar
-      domain: whichcar.com.au
-    quality: 54
-    images:
-      - url: "https://assets.whichcar.com.au/image/private/s--4-hejbqN--/ar_1.9047619047619047,c_fill,f_auto,g_xy_center,q_auto:good,x_2656,y_2856/c_scale,w_1200/Volkswagen_Gen_Travel_Concept-2.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Volkswagen shows driverless future"
-    excerpt: "Volkswagen Group's Gen.Travel concept previews a truly autonomous future. Volkswagen shows driverless future - CompleteCar.ie car news"
-    publishedDateTime: 2022-09-23T04:03:00Z
-    webUrl: "https://www.completecar.ie/car-news/article/11905/Volkswagen-shows-driverless-future"
-    type: article
-    provider:
-      name: Complete Car
-      domain: completecar.ie
-    quality: 39
-    images:
-      - url: "https://www.completecar.ie/img/news/11905_large.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
+      name: Arizona Daily Star
+      domain: tucson.com
+    quality: 4
 
 secured: "MEK/EfhLo44a2BlCbaEb4h38WheCFkgQmg+IzHm6yHJ3q6jTsXEVnq0mP1kexWdXF8U/PZkarr/nGyXfU2Q/QS3u8cc55rXMc39ujzB4T/WwzKEh1Scev09nnZByqqZjbOdQYCbj4cmR2u0N7dvAO2oXkRr6WA+JICZVDf6bqOmwIVwftv1YOcAlPQVJabjsK30eq0FvseVsxQik71/Lp31L9oYIr2mxUsWix4TqSrLIQSVhNtnN7wI9Tns1tJp+NUxTjzjIoM4e2i+1W/qEKNeSLb29KE4Z/He0PkLKhed8sw/NqGGPmOBE8SnET1HhkUfEfLhkkNpZ4fllo5YktNPItDUkfc7PNPbpZTybFmA=;Ci0JD7ifU1kM5ulVDq5rsg=="
 ---

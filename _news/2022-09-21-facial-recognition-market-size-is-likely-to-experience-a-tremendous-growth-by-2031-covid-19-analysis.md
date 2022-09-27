@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Facial Recognition Market Size Is Likely to Experience a Tremendous Growth by 2031 Covid-19 Analysis"
-excerpt: "\"A research report on Facial Recognition Market was added by SDKI in its database which discusses the product as well as the scope of its market in detail. The report provides the business clients with an in-depth overview of the market,"
-publishedDateTime: 2022-09-21T09:34:00Z
-originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis-2022-09-21"
-webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis-2022-09-21"
+excerpt: "A research report on Facial Recognition Market was added by SDKI in its database which discusses the product as well"
+publishedDateTime: 2022-09-21T13:58:00Z
+originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis-2022-09-21-91975832"
+webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis-2022-09-21-91975832"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "b+kMrh0XpheFFT3PEgPmrwX79S9ufad0t/zbKsKBG90opdrSqGR66htHvJZhyqFjg7P2AmIEv03/LOCZwWdMOP95Zz/62W/nDYsbMWKNJWibC38czMEkk7YH2yv9HCuPez08XWJ/+fU3rZZMPHA+pKjZN7zpycdtapSKHigxg2o9qlIqoaczjGeks6eIzWPbz7OrZcb70nAl2jQrK+uyhzmegoeHpEw7LCCgTmncXFExqAEQTluf8kFOE5L4ubbSshC10WOBotq2AyLrO3pJhspKnNODuhYE/PTz8xdFZvF8tpue1WL5FGwPYVw0VDK3Vee7oV3rJFR+MOjYMQ/TTNlvBwkYA4J1tNU60DPfOpU=;747bdolYON24K9yQmoVJgQ=="
+secured: "vcSeKNke2+/JvNEjCSITaEI649CE/e7ywHYmky7OQB8l2j6s7sa9mePrxb1j6RzmQ82Btd0USm372+XeesiHivAQPJK0Oh+0wRoMRCKfjZje9dpdZU64oh0MpzqsR2BHc8onzqyA9WEYtPlc0a420k0gv6Cy1RbMxr9XT0b7nBl9psgdnjnd8JsUwufUpuNPM+1gzAw4w4plzLakhpHn7SV3S0pOolAEqyYOB/kWOkgaw09lTt5fsyiijwU7sYSefPnjvL+Gu6uOd9Ov8clN5otJLsg7uVaEd7OcvB7ZiPRNPFzrF3yZ+bScMZzHi+0O/qk2xp0utIo9G7Gp5QpY7v2DH/7PPYg5OzZ8K19jwqE=;ttRfHwGUVL6+c/svE/9Nkg=="
 ---
 

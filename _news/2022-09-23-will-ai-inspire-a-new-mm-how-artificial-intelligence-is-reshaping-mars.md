@@ -5,10 +5,12 @@ excerpt: "Mars Inc. is in the midst of a massive AI-powered overhaul, driving di
 publishedDateTime: 2022-09-22T17:52:00Z
 originalUrl: "https://venturebeat.com/ai/will-ai-inspire-a-new-mm-how-artificial-intelligence-is-reshaping-mars/"
 webUrl: "https://venturebeat.com/ai/will-ai-inspire-a-new-mm-how-artificial-intelligence-is-reshaping-mars/"
+ampWebUrl: "https://venturebeat.com/ai/will-ai-inspire-a-new-mm-how-artificial-intelligence-is-reshaping-mars/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/will-ai-inspire-a-new-mm-how-artificial-intelligence-is-reshaping-mars/amp/"
 type: article
-quality: 63
-heat: 63
-published: false
+quality: 105
+heat: 105
+published: true
 
 provider:
   name: VentureBeat
@@ -21,7 +23,14 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Facebook AI
 
-secured: "TffF+U60QBoUpO9VBX6EOZMXFYAaP3kkQNEt0GlJ1yRuhphDc1k+0qNbcE7/36oRYLacd2uapG/N+wErpGA0thAQ30bZgsmC4m7N33yW0y2HeOLO+FwwE4olJhVrCFDrWIbE7jd4vadz+GVWQZUrpgFLzmOfvBs2Px1byIF0g2K/dGxKHUuJf2jRr58uYmYaFKQ3Cw6/viSohUHIOqf8BUBTsv4/2NXalsPuWwilxFRPs+VWgisr0gcpEFtGqMmo/sJNCPX4sUxzrhtuJaZ/iPsVFVk89fFezq1yEh1y1GJYjR+dD2MCl4Q3AVExpycbJ/0/AI2SllYtH0Fho8cMWydwvVFg/k73zRWunqtrSFKt6M1tzyu96TPl2+hFkyDBlReu/YWyjkvw9Yp6uDbgVGoflCByN04ymiEGl2U5XcNR2CG+A0oHm1DnwKCxwLEzQG/i62xhl1cZoH/hSwCOOrYi/Nwt2DUczh0nupVszLnWu6FjEgZxQAbhSYOV9Xiwq7C9ggjWZT5yvjkrgouAlw==;ah2nAKPO+1KiUG+Dz9sa7A=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2022/09/M_Ms_Different_Shapes.jpeg?w=1200&strip=all"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "7TVVpKPTr4E9xEGVIexZnDbd0Kx6171CxBsYCbDunt0wYjvL06LV/fBXb8GTnQdhReTJE9M4eEST372Pc4EJUw0Qn2rJSNvQ3y0o7OlmbMzeLhvCl+/cJ6/gxYkWUf0UefwYJfh7G/QLex1JixKRu/dqXzSTrzEtb2BZov5lqKEfRKBYnEYTGyzgx3JJqv869P4lxfVH49Yh4eSXFuGtUzYcoGMWRuJNrJVyKzn4I7Z+uBT+HoUo9nlnm0Lb4LerAqyHHVpexak2SlnhhpzwCXrJMbrKuhy00cftGqCrr9m1cbUyTwn4FX6C52nXma+iCmlLeIGrB71sW06eD9tkxXH3KEivYab/M+3r4u3yChQ=;CAJBU2xTM8DfdoqjCG29EQ=="
 ---
 

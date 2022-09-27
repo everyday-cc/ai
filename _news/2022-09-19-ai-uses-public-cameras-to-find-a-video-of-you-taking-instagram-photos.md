@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://static.tweaktown.com/news/8/8/88493_01_ai-uses-public-cameras-to-find-video-of-you-taking-instagram-photos.png"

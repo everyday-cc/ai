@@ -47,15 +47,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
-  - title: "Nvidia unveils next-gen RTX GPUs, AI workflows in the cloud"
-    excerpt: "New cloud services to support AI workflows and the launch of a new generation of GeForce RTX GPUs featured yesterday in Nvidia CEO Jensen Huang’s GTC keynote. “Computing is advancing at incredible speeds,"
-    publishedDateTime: 2022-09-22T09:48:00Z
-    webUrl: "https://it-online.co.za/2022/09/22/nvidia-unveils-next-gen-rtx-gpus-ai-workflows-in-the-cloud/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 21
 
 secured: "z5MrWU7J40yDQFite/s+TVSXZyRASHDln/itXtzM3BTqWT03zPb8GGL/m6GXg+NIo+ZPINSBQCgPz9PZ41DHXGmMNih9u2LmqoLBp093QTcEkxpdPxVNrmP+3z5WTvXb1BEsy47FqrUsMlQe4kue4kyZiaT3D8cVrLRow7x58AibTGwo7qq9cLcNiqcYHpFsnyC4bMCihEhxFVez2V01sz9XDlEfNX3S3IDWeDlMDUTfoW4+yJv4vqLR9Q3cLvw8ZlUQUMuUdLj3bafgggVsM6qJXb5zqZ6Nq9hDuZvnBaur8FOS4XTVXYgzUu6S+5lGUFwDhDUIwYriEo1YosMmCaGHl6S1zsVw/jU5ZLo6CTSW7UUR+2tonoMlZ72wlIUhxLBTyHYWfKQmH4WheZBDI19Nr4Tm4/nyf014/Curcbkt1pwkYnmHXFAKGNcIK8Hu3tRT66MdJ1xIXe1uXfirF9NeG1f6nUNbDJc1sasc/3F5VS2ldWpC7Y4E7GQfJW5Ds9RqRLSrFBb8Wq7RRV6GUg==;1X6pEPnxDgoFLxtf+fIBHA=="
 ---

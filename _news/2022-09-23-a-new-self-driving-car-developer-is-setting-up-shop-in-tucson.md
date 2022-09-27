@@ -19,6 +19,31 @@ topics:
   - AI
 
 related:
+  - title: "GM Is Doubling Down on Self-Driving Cars With LiDAR"
+    excerpt: "General Motors is making self-driving cars. It's investing heavily in LiDAR - the tech that could become a $15 billion industry within 10 years."
+    publishedDateTime: 2022-09-22T20:30:00Z
+    webUrl: "https://banyanhill.com/gm-doubling-down-self-driving-cars-lidar/"
+    ampWebUrl: "https://banyanhill.com/gm-doubling-down-self-driving-cars-lidar/amp/"
+    cdnAmpWebUrl: "https://banyanhill-com.cdn.ampproject.org/c/s/banyanhill.com/gm-doubling-down-self-driving-cars-lidar/amp/"
+    type: article
+    provider:
+      name: Banyan Hill Publishing
+      domain: banyanhill.com
+    quality: 44
+    images:
+      - url: "https://cdn.banyanhill.com/wp-content/uploads/2022/09/22153853/Self-Driving-Car-with-LiDAR-Tech-scaled.jpg"
+        width: 2560
+        height: 1920
+        isCached: true
+  - title: "Why Don’t You Have A Self-Driving Car Yet? This 2-Part Series Explains The Big Remaining Problems"
+    excerpt: "People often ask, “Where’s my self-driving car?” “Why don’t I have one and when will it come?” A lot of people feel they were promised a car by the late 20-teens and it’s late, and perhaps isn’t coming, like the flying cars talked about ..."
+    publishedDateTime: 2022-09-26T13:05:00Z
+    webUrl: "https://www.forbes.com/sites/bradtempleton/2022/09/26/why-dont-you-have-a-self-driving-car-yet--this-2-part-series-explains-the-big-remaining-problems/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 36
   - title: "Can eyes on self-driving cars reduce accidents?"
     excerpt: "Self-driving vehicles seem to be just around the corner. Whether they'll be delivering packages, plowing fields or busing kids to school, a lot of research is underway to turn a once futuristic ..."
     publishedDateTime: 2022-09-22T16:14:00Z
@@ -28,20 +53,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 34
-  - title: "Can Robotic Eyes on Self-Driving Cars Reduce Accidents?"
-    excerpt: "Like a character from the Pixar movie Cars, a self-driving golf cart was fitted with two large, remote-controlled robotic eyes."
-    publishedDateTime: 2022-09-22T14:29:00Z
-    webUrl: "https://www.manufacturing.net/automotive/news/22458255/can-robotic-eyes-on-selfdriving-cars-reduce-accidents"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 24
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/09/Screen_Shot_2022_09_21_at_8.30.20_AM.632b125311c11.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C27%2C1156%2C650&w=1200"
-        width: 1156
-        height: 650
-        isCached: true
 
 secured: "xDa3A4Pb5Zr1OKCC0pwk1H10qguvNb0N3a/dhibjiLuJKEjc8TYOzt/XJ/onKegxn3EyZBPZ/YU9wJ69NnZrXWwMenn2Pu3ds/LKBQUu5rbXfNw0b0oSYw4lNgEs101voApclj/Nj+Es/hJyGbSAcN3kUeTBnKd8ERisAl2foTKO3RtLh9PCVhif5sz1DiTLqaScgAsHcZsDDalv1WGwKHLdyQEUvvHug48WUBiOl906VgsJv3Q9LBoMGk9+dFAm+OggMmTuk4SDGIr9PsczwoDiI93naz8LCXC6oxdwFLZhRahHkitYdgNRCcPvuC2VvwoIZQYZohxXYz/qfb3QcyuB9DZdUXGE/+bYKzYC/Hfl11pE7+Efn3mEwqMeIEt9j7zPFzZGbCxZcLzZgesRTGI0RdEguw7ipJF1/wiN0ZkzqI1Zzf0iwcfuvSIvhZOsD2GLe8xUZ9tXRqbbG6h7FEyz1c6kRWq2+4n7bztrrRVRleVLK+KmV2Ok+OYNbpwyhKe9p3DT4aAwNFEx96KoIw==;GEOxZeU/7DCKP7JTvBd1IQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thestatesman.com/technology/it-is-time-to-shun-c-c-langu
 cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto-1503115247.html/amp"
 type: article
 quality: 73
-heat: 93
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Statesman
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Azure CTO says it is time to shun C, C++ languages"
+    excerpt: "For 84 per cent professionals in the country, machine learning (ML) followed by statistics are the two most in-demand skills that recruiters are looking for in data science professionals, a report said recently. Python remained the most used programming ..."
+    publishedDateTime: 2022-09-27T02:30:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages/94466077"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages/94466077"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages/94466077"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-94466077,imgsize-15812,width-1200,height-628,overlay-ettelecom/microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Microsoft Azure CTO says it is time to shun C, C++ languages. Here's why"
     excerpt: "Mark Russinovich, the chief technology officer of Microsoft Azure, has said that developers must stop writing codes in programming languages C and C++ and the industry should treat these computer languages as \"deprecated\"."
     publishedDateTime: 2022-09-26T10:22:00Z
@@ -58,6 +74,20 @@ related:
       - url: "https://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg"
         width: 620
         height: 464
+        isCached: true
+  - title: "HighByte Expands Industrial Connectivity from Microsoft Azure IoT Edge to Azure Digital Twins"
+    excerpt: "HighByte®, an industrial software company, today announced the release of HighByte Intelligence Hub version 2.5 that expands connectivity to Microsoft Azure services, including Azure IoT Edge and Azure IoT Central,"
+    publishedDateTime: 2022-09-22T15:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-highbyte-expands-industrial-connectivity-from-microsoft-azure-iot-/2022/09/22/9679234.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 43
+    images:
+      - url: "https://mma.prnewswire.com/media/1904904/HighByte_Version_2_5_Press_Release_Image.jpg"
+        width: 400
+        height: 220
         isCached: true
 
 secured: "oHgluy1eKzg9uktL/VcXoFMNWxhol+Tu1VIQ+kSnrhpb/Ngoohm+Npl95SyDmWaD7yKEvhLkcV/3CcxMgmc6qi0DoWmGU1bMfiB8kEW6YHsXDEIiv7LDep28BFjt2jXnMYG+xKUyZPLoNhX3DZ073coT/kyDU3vPeHHIiKrgZMVKdKAmduWXNzM03GPrYkRqDij5v/CbwksF31tNm8P7DCcWvVu4Tz+/XlHFvF9r12E759otwPJko/RxIbqMOwlQtbUYSO12CdmkLpOFVuj223BRDZdCB5JsXwoL4KKkD31/ALZn1SpLHulumvyjsn/xujJMccJESi8aTCjxjre+OMJt5ahVgEWaY+DStsCrmlTg9KJEmEHlzDUtyC80bpM+HqGwEpNk66HrzL5ERCXDvrL8ZKT/gcbpOqY8HyzJEly5489L00XSPSDfqJfINyu70rSk40Tib+FxKFeTC3PbiWNmMM7/lR3yrnP+zXmDYb5tRcKvxrfXxZ17APV5A9Um96/h1usu2GMZRPQuBrV6mg==;eBK2s7RWDNoOsCoRCjac3A=="

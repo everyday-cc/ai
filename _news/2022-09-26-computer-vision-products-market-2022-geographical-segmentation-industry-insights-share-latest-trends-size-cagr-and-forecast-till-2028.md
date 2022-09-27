@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-products
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-products-market-2022-geographical-segmentation-industry-insights-share-latest-trends-size-cagr-and-forecast-till-2028-2022-09-26"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "India Event-Based Vision Systems Market 2022 Analysis by Competition, Performance and Application till 2030"
-    excerpt: "Key Companies Covered in the India Event-Based Vision Systems Market Research are Prophesee, iniVation, Insightness, Qelzal, MindTrace, CelePixel, Sunia, Australian Institute of Technology, Samsung, Sony and other key market players."
-    publishedDateTime: 2022-09-22T10:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/india-event-based-vision-systems-market-2022-analysis-by-competition-performance-and-application-till-2030-2022-09-22"
+  - title: "Natural Language Processing and Recognition Market Global Growth, Emerging Trends, Demand Status, Regional Overview and Share Analysis till 2028"
+    excerpt: "Global Natural Language Processing and Recognition Market provides key analysis on the market status of the Natural Language Processing and Recognition with the best facts and figures, meaning, definition,"
+    publishedDateTime: 2022-09-22T11:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-and-recognition-market-global-growth-emerging-trends-demand-status-regional-overview-and-share-analysis-till-2028-2022-09-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

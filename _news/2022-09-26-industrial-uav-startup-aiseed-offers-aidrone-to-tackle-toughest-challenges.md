@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Industrial UAV startup AiSeed offers AI+Drone to tackle toughest challenges"
-excerpt: "AiSeed Technology (AiSeed), a newcomer to the commercial drone market, was established in Taiwan right before COVID-19 rampaged across the world. Despite the difficulty, it still survived during the pandemic and continues to gain attention at international air shows with its unmanned airborne vehicles (UAV)."
-publishedDateTime: 2022-09-26T07:27:00Z
-originalUrl: "https://www.digitimes.com/news/a20220925VL202/ai-autonomous-uav.html?chid=13"
-webUrl: "https://www.digitimes.com/news/a20220925VL202/ai-autonomous-uav.html?chid=13"
+excerpt: "robotics, and AI backgrounds. Most of them have worked in the U.S. for many years after getting their master's degrees from American universities or were born or raised in the U.S. Why set up the startup in Taiwan? \"Taiwan has a very well-developed ..."
+publishedDateTime: 2022-09-26T08:26:00Z
+originalUrl: "https://www.digitimes.com/news/a20220925VL202/ai-autonomous-uav.html"
+webUrl: "https://www.digitimes.com/news/a20220925VL202/ai-autonomous-uav.html"
 type: article
 quality: 37
 heat: 37
@@ -24,6 +24,6 @@ images:
     height: 853
     isCached: true
 
-secured: "NmvlY3qSEIhxmv2x4EVn/iAi/VJ3Ww0cXlTAzqZ8AjSAun/jFE8TS8P2rbEqtkTEl4DW0N2VA9uXqyX6OjRZyXBGuA5n6LThfJwVINn/xAWzZqh/tiA7ykADUNRY6ftEq/ojFWjkoNWmJ55MPrgNPwDJ/ooIJNUqTNjQxfGqTCCspmeuN0gx4iTKPUaTabVbaD1XVATYyqspxm9xn+QjK9a9RE2zeUO6kIFaRTZiRCB18cth8d4JALRcEQajz1k2grrN51R9vt+GbjblbhKC57Zgd658QSwZVmIntd2Oqz8EAdpD+/7cQq47oZYTaUg+jr7CQmsj98yPEobrAF9VDUHmgmHuFcbrqCwNGjZyqfdfTOPliMJH5SxKIckRriYkTun3SgbJ9AA3r8W62eIa0e2m84rvrahoj9PZidYVBG0E1M0iQYWXe1IJB8Uqwo5AjYbyGMj8eIAeBig1Cb6OFUmhiXmduDoqowpANwWi65VFTWHOMKjHAK/KnEnOVFs8bFtFVMVxZHTh0/fsbKX5AA==;s/l0pgPGYIP6Yei8yDkPJA=="
+secured: "+ExE+ornPOJW90oH/OIf/0qtVRBxQvTy/MOFEC11EZ06g9SBc6KrAxI8XddVb4V6k4fK/z49h+HeTlnpgOZGDi0sBF5UcHs8Y3DIF/Gf5/1R1xZO5OVmqiGaLJVZCZSXzcOWWuFQ9Yji1P6rk1RkwSXAxhIf04pPtD8flhcphqfaIii8qLuaKJNCNCvZtVSBxVLdCh2kB9BpZuiK2/mJb3k7+aDoVzFwwraybN9WqgnhBF5CQPnMVivTG48oHC/V9Sdv0sBeJt1Uh5w/rWLF8Chzni7tGEFhTgHWKV5e8+/kVbgsXSRcPK2tD6nWyDsviTxlsX5ULTVlmq2HMwy+DDAWiH0Ji2FsRpYObnvxV24=;j52MCGDfvTnwz3ViP+f53w=="
 ---
 

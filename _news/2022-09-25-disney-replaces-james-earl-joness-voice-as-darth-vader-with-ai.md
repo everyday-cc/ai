@@ -106,6 +106,20 @@ related:
         width: 900
         height: 562
         isCached: true
+  - title: "James Earl Jones Now Letting Darth Vader Be Voiced by AI"
+    excerpt: "Although James Earl Jones has stepped away from his most iconic role, the legendary \"Star Wars\" actor's incredible baritone lives on thank to AI."
+    publishedDateTime: 2022-09-27T02:00:00Z
+    webUrl: "https://futurism.com/the-byte/darth-vader-ai-voice"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 37
+    images:
+      - url: "https://wp-assets.futurism.com/2022/09/darth-vader-ai-voice.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "As war began, a Ukrainian AI startup provided Darth Vader’s voice – report"
     excerpt: "In war-torn Ukraine, a startup called Respeecher provided the voice of Star Wars mega-villain Darth Vader in the new Obi-Wan Kenobi show on streaming platform Disney+, with its original voice actor – 91-year-old James Earl Jones – stepping back from the role,"
     publishedDateTime: 2022-09-26T07:14:00Z

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Azure CTO says it is time to shun C, C++ languages"
+    excerpt: "For 84 per cent professionals in the country, machine learning (ML) followed by statistics are the two most in-demand skills that recruiters are looking for in data science professionals, a report said recently. Python remained the most used programming ..."
+    publishedDateTime: 2022-09-27T02:30:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages/94466077"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages/94466077"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages/94466077"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-94466077,imgsize-15812,width-1200,height-628,overlay-ettelecom/microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "It is time to shun C, C++ languages for new projects: Microsoft Azure CTO"
     excerpt: "\"Rust\" is now being used within the Android Open Source Project (AOSP) at Meta, at Amazon Web Services (AWS) and Microsoft, reports ZDNet."
     publishedDateTime: 2022-09-26T05:47:00Z
@@ -58,6 +74,20 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-15812,msid-94453800/mark-russinovich.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "HighByte Expands Industrial Connectivity from Microsoft Azure IoT Edge to Azure Digital Twins"
+    excerpt: "HighByte®, an industrial software company, today announced the release of HighByte Intelligence Hub version 2.5 that expands connectivity to Microsoft Azure services, including Azure IoT Edge and Azure IoT Central,"
+    publishedDateTime: 2022-09-22T15:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-highbyte-expands-industrial-connectivity-from-microsoft-azure-iot-/2022/09/22/9679234.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 43
+    images:
+      - url: "https://mma.prnewswire.com/media/1904904/HighByte_Version_2_5_Press_Release_Image.jpg"
+        width: 400
+        height: 220
         isCached: true
 
 secured: "ZhEtW+VMg2x7CwwAJuYI0wv7XX8wyagf0kyE8yolLCa4BUMaIlr+LxUTxcCXPoJFGfmEefDsDNgqFVWnUFFY7Gta0FGBXuXUZgtS7S52zcvVWObWZJMm906B3SfH8LHeBVM4PVHnKfZThWz99xWbZNJQyYGELs+xxeiy4AKGp2x4TfsUEz9XA92XVQwMk+TSR6rS2F3OYBh9VKGPT1cHhyHbLwshZDJB+98M59u0sI1FOndm1hI4FYqjKoIegshKJaeDRfCHccMgVoG9SHhI0kidBsk8L1zWdOsMMjoLj9Z38f+5LzvDIevPsgboRxipBCR8DJKEmOiUrt77onxEg/n3CxhedEAP8cctUpcNpgo=;4e7xYpW9X+VJF4pmVjGK0w=="

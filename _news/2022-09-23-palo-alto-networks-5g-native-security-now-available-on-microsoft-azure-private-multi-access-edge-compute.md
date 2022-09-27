@@ -34,20 +34,6 @@ related:
         width: 342
         height: 342
         isCached: true
-  - title: "HighByte Expands Industrial Connectivity from Microsoft Azure IoT Edge to Azure Digital Twins"
-    excerpt: "HighByte®, an industrial software company, today announced the release of HighByte Intelligence Hub version 2.5 that expands connectivity to Microsoft Azure services, including Azure IoT Edge and Azure IoT Central,"
-    publishedDateTime: 2022-09-22T15:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-highbyte-expands-industrial-connectivity-from-microsoft-azure-iot-/2022/09/22/9679234.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 43
-    images:
-      - url: "https://mma.prnewswire.com/media/1904904/HighByte_Version_2_5_Press_Release_Image.jpg"
-        width: 400
-        height: 220
-        isCached: true
   - title: "Palo Alto Networks Unveils Virtual Next-Gen Firewall on Azure Marketplace"
     excerpt: "Palo Alto Networks, a Microsoft Azure private MEC ecosystem partner, announced availability of VM-Series Virtual Next-Generation Firewall (NGFW) technology on the Azure Marketplace . Delivering end-to-end Zero Trust security at the enterprise edge,"
     publishedDateTime: 2022-09-27T01:28:00Z

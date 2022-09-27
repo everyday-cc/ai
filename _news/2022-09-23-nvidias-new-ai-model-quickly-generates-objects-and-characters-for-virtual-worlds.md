@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/nvidia-ai-model-get3d-virtual-worlds-obje
 webUrl: "https://www.engadget.com/nvidia-ai-model-get3d-virtual-worlds-objects-130021127.html"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -49,15 +49,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 34
-  - title: "Nvidia unveils next-gen RTX GPUs, AI workflows in the cloud"
-    excerpt: "New cloud services to support AI workflows and the launch of a new generation of GeForce RTX GPUs featured yesterday in Nvidia CEO Jensen Huang’s GTC keynote. “Computing is advancing at incredible speeds,"
-    publishedDateTime: 2022-09-22T09:48:00Z
-    webUrl: "https://it-online.co.za/2022/09/22/nvidia-unveils-next-gen-rtx-gpus-ai-workflows-in-the-cloud/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 21
 
 secured: "xvl5GU98gA9C4lesvicP9EkD2lWXk+LFdL1dCSn0TMb98bcKCwTVtlZ9sHPK4GkaUYMHpLuNPT8niBj4cOCppHJwDPzKNPyFYBkSNv0gPjNJY9MqPekmEo3tz4sNJ2ApOtsADIWI7Grl8TKCxw1WOaFROUROh7ZKzbt7HyvDzfcO+OClwkKs565Euhmr5Lv0pbRw+Rq+Q9SYTRwDoR8llI1nBNpFmY2lmyqrxo2S6fA3L+3QVUNLDP4y7M8M0KfIUBnEaMEh461B3Hq3MR3OfHNkpUWdmjtxnijUhWeQoJJgkA1QRMPu30s2CFd0V4iB/lyvE6yqQ9WWgyGh1OJcmB1oV2gRPxnIhxktPualfBrJlHAgaCncBIvkjY4vBDo4jVTNmH3GXxX6bHK3+Yr+MsCD2mqg+8Dj3F5Fv0eRaD0iyowBntHCToTEy/xlUJTd1FUgrw5jWwRHHKP+0l3N+bPtwNvsLt9Vv4zDtUtyq/pKsYzq29Dcwimc2p7OWMRWDzW5tcUTSvJIrJujE/Fuhw==;cnVd3g0641G0YQDZW940Mw=="
 ---

@@ -39,6 +39,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Indian Fintech Signzy Secures US$26 Million in Funding Round Led by Gaja Capital"
+    excerpt: "India-based Signzy announced that it had raised US$26 million in a funding round led by private equity firm Gaja Capital."
+    publishedDateTime: 2022-09-27T03:32:00Z
+    webUrl: "https://fintechnews.sg/64397/funding/indian-fintech-signzy-secures-us26-million-in-funding-round-led-by-gaja-capital/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 19
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/09/Indian-Fintech-Signzy-Secures-US26-Million-in-Funding-Round-Led-by-Gaja-Capital.png?x64868"
+        width: 1024
+        height: 567
+        isCached: true
 
 secured: "4pmom0o53TytMQ9c+lU2jy4dHLWkqRFE9m/T35GGUrF74I60e13aE3sv7z6y82kZ3NUb2uSOWHMn4p74A45O9OAQt/ebgklGAZgu6njPfvt0GuvbR5cIp9vS5DXaZRekmRcrFlnRJBw7Zmh9tya3LFxteC3uwDZ3GcYR0/Z08aBbV5qkge7miGCZ5sgDTbk5itsrTtot6gRFPogSTTj0w8hkxie0TEBS2K609FEXyqcqQwNOwRrljlTA/mmPQQGBsQOHV5qfREleSUE05ZjNoKN4N94MPg3fOcXY0EHkO2/c/pfkj8UfjeYsUCrxGB5NmlGuVKecDD5bIBowI9AXGxZRWF8OeGDXVcO9s/E/Vwo19+ZJ9+czSo0q+VZYMQ/0FJUj7PaHRazGM6Eff10RIm6NnI+AS2o2DcOKd8wZj/q+Y6U1RGk0Hug/6RTkDdvVWTO80ROg2Eo00OF+SNr3izc/r2HBwlGQjsKr3EjOOULLASE7dJi+6AroEFbApVtWq1DRHH3yLiniZ917s5bsBg==;ZV+R/zGZoKYKF3ObP/Takw=="
 ---

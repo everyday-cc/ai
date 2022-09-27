@@ -25,44 +25,71 @@ images:
     isCached: true
 
 related:
-  - title: "Palo Alto Networks 5G-Native Security Now Available on Microsoft Azure Private Multi-Access Edge Compute"
-    excerpt: "PRNewswire/ — Palo Alto Networks (NASDAQ: PANW), a Microsoft Azure private MEC ecosystem partner, today announced availability of VM-Series Virtual Next-Generation Firewall (NGFW) technology on the Azure Marketplace."
-    publishedDateTime: 2022-09-22T13:44:00Z
-    webUrl: "https://www.darkreading.com/cloud/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute"
+  - title: "Microsoft Azure CTO says it is time to shun C, C++ languages"
+    excerpt: "For 84 per cent professionals in the country, machine learning (ML) followed by statistics are the two most in-demand skills that recruiters are looking for in data science professionals, a report said recently. Python remained the most used programming ..."
+    publishedDateTime: 2022-09-27T02:30:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages/94466077"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages/94466077"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages/94466077"
     type: article
     provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 69
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 74
     images:
-      - url: "https://beta.darkreading.com/images/og-image.jpg"
-        width: 342
-        height: 342
+      - url: "https://etimg.etb2bimg.com/thumb/msid-94466077,imgsize-15812,width-1200,height-628,overlay-ettelecom/microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Palo Alto Networks 5G-Native Security Now Available on Microsoft Azure Private Multi-Access Edge Compute"
-    excerpt: "Palo Alto Networks (NASDAQ: PANW), a Microsoft Azure private MEC ecosystem partner, today announced availability of VM-Series Virtual Next-Generation Firewall (NGFW) technology on the Azure Marketplace."
-    publishedDateTime: 2022-09-22T18:14:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/22/9678904.htm"
+  - title: "It is time to shun C, C++ languages for new projects: Microsoft Azure CTO"
+    excerpt: "\"Rust\" is now being used within the Android Open Source Project (AOSP) at Meta, at Amazon Web Services (AWS) and Microsoft, reports ZDNet."
+    publishedDateTime: 2022-09-26T05:47:00Z
+    webUrl: "https://www.thestatesman.com/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto-1503115247.html"
+    ampWebUrl: "https://www.thestatesman.com/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto-1503115247.html/amp"
+    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto-1503115247.html/amp"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 49
-  - title: "Palo Alto Networks Unveils Virtual Next-Gen Firewall on Azure Marketplace"
-    excerpt: "Palo Alto Networks, a Microsoft Azure private MEC ecosystem partner, announced availability of VM-Series Virtual Next-Generation Firewall (NGFW) technology on the Azure Marketplace . Delivering end-to-end Zero Trust security at the enterprise edge,"
-    publishedDateTime: 2022-09-27T01:28:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/27771-palo-alto-networks-unveils-virtual-next-gen-firewall-on-azure-marketplace"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 38
+      name: The Statesman
+      domain: thestatesman.com
+    quality: 73
     images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/d8dad049a0b986f9a5fc5f33d431d4c9.jpg?t=20220927_012548"
-        width: 752
-        height: 408
+      - url: "https://www.thestatesman.com/wp-content/uploads/2022/09/0da9bd4f8fc06cb457a2a9b3d6a6f0cc.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Microsoft Azure CTO says it is time to shun C, C++ languages. Here's why"
+    excerpt: "Mark Russinovich, the chief technology officer of Microsoft Azure, has said that developers must stop writing codes in programming languages C and C++ and the industry should treat these computer languages as \"deprecated\"."
+    publishedDateTime: 2022-09-26T10:22:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto/articleshow/94453692.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto/amp_articleshow/94453692.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto/amp_articleshow/94453692.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 73
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-15812,msid-94453800/mark-russinovich.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "TCS recognized as Leader and Star Performer for Microsoft Azure System Integration Capabilities"
+    excerpt: "TCS was recognized as a Star Performer for demonstrating the strongest forward and upward movement on the matrix, based on its continued investments in intellectual property, comprehensive portfolio of Azure services,"
+    publishedDateTime: 2022-09-26T10:38:00Z
+    webUrl: "https://www.business-standard.com/article/news-cm/tcs-recognized-as-leader-and-star-performer-for-microsoft-azure-system-integration-capabilities-122092600759_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/tcs-recognized-as-leader-and-star-performer-for-microsoft-azure-system-integration-capabilities-122092600759_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/tcs-recognized-as-leader-and-star-performer-for-microsoft-azure-system-integration-capabilities-122092600759_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 62
+    images:
+      - url: "https://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg"
+        width: 620
+        height: 464
         isCached: true
 
-secured: "tcX+tRbnElfHfSL4NL0V6peZ72EZghn83VO/AaR30JbMvHCoAlzC0OdlSghMY98bkaz/6lF6yjRrLPaz+Ywflbhj3NBLfU3B2ED62pa7Ime9DgA4g+O3r8f+IeIgjDsDGlZO1ouc+/rdD8xCE3mzV0uv4PbaXzoyNj6jDXKTRVcDNsUISSv3otit2XfF+R5dKg2nms5fC5UVzNftRBOsseWvzHJDuXW9AcPp7tM4RKU4X6dFB+AsPIBB8gRDIwMba2WTyxfcFkLSUUhwaoKlkew7pgl7RVeotXdONq3P2aNAuXU+NYVltPyiydDtQL76ci7nO7dOHgTBZ9B97BGopHfhB9scCMJvfJPvM8IhD3I=;d5JiRmeltXqvhaTHR9QPlQ=="
+secured: "foBAIdpFXaYEWb8IbGZzeNo/AUMpVH4vdEmtrm02JYGD2Ylrd75kGzcGjbHShWc7+NmiG2G82o/MB3yIlOXfSGQhQEnJ0GDsiRFjIESsJcY264j/oMQ/yZpii77Hx0el7U6fCFLgOgH/YN9nYH0o5ZC+JqZA0Orwl1zTuwDmwMKT3xyaQ+IlOUVU+GKJyXWpxXolijbKLJZjm+ZGS18ifa7PU+WsugANjemOwzHSNz0O8TMrnAAzlow6PTMGLuDZ37/G6kk3pCsmAKbmnkChdMQs5IMi3kujY9vfVD0Sz3krMChBQa69JX3J0JjjBr+AmunOyWD1dR1JA3shcRf5QsoMeM83Jj+h7vkm/uQtOXWL2Xkyafb96zLkLcJv0YL/CI5Pxjuoo5OGZrKeUJrH2fS9//jVFBy/fOe45uTwBgyB+qqK3G6nb0Bq3DLIP/rm9CZvxDdFOLYfoh0gTTZQf9aUqVmyQareJu7PSdg+AeoPMJMbpsV/dy58Enpzg7TeYzxMPfFm0Mvb1x+ZEsLalQ==;JuERVTEaqF0AmHxNCligew=="
 ---
 

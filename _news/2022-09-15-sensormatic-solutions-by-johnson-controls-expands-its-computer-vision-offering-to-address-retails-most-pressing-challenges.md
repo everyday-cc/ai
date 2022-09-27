@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Sensormatic Solutions by Johnson Controls Expands Its Computer Vision Offering to Address Retail’s Most Pressing Challenges"
-excerpt: "Johnson Controls brand Sensormatic Solutions’ innovative technology architecture offers flexible, computer vision-powered analytics to facilitate"
-publishedDateTime: 2022-09-15T08:17:00Z
-originalUrl: "https://www.01net.it/sensormatic-solutions-by-johnson-controls-expands-its-computer-vision-offering-to-address-retails-most-pressing-challenges/"
-webUrl: "https://www.01net.it/sensormatic-solutions-by-johnson-controls-expands-its-computer-vision-offering-to-address-retails-most-pressing-challenges/"
+excerpt: "Sensormatic Solutions, the leading global retail solutions portfolio of Johnson Controls, has expanded its computer vision analytics offering, which focuses on driving sales, reducing risk and enhancing the shopper experience. The company’s computer ..."
+publishedDateTime: 2022-09-15T08:03:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-89036b868d68454192a27bea59be0a02"
+webUrl: "https://apnews.com/press-release/business-wire/technology-89036b868d68454192a27bea59be0a02"
 type: article
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "B+/o4VWgyydHabqbGQ03WlY4P3DcmwwqNRhAL9Fcm9i6Bf3ibkDtGUNnl817zkGFu2ax9e1wf/XuLkmX5w5OGC1sDd3D4k3VmWVUFhmPEAQc54CKGFFqrWyNS2mA64h+1pz+TpOWHdVKfs3W84HK+6JeOpOGmTbBmzL5bo6rFF8ELpLYpsMtMoWf2+9L/OdhXn3lBD3ivOIR2g6iT3wREC+cV12deNWcqrpXlRpRvkrb23NJARlFGGGZlGdXh6Ud/to9difnJO8OLs2esKL5dXwLwYOgVk3WrSx72v2v93azzdWNk6ko4ExtmWUawsX3eX/PgvEzzlqET/eagSOSd4cMc7gxyspcRXlEMCv/bEdpl7vQZWs0i2t/FrZqN8+XrpdCwBII0aQ9MHHxa6MSVxzOKjID2lARJae/Is3YRth+b/NXFkxkSEsEBkcn8/3Inla9UdUSm4ETWefppteVjDA14YehI3oItbZ0/K1sUa5meDc7bEPpVb4Z+2IH1UnddjbmqjEnlpTEilFfH866Pw==;1DUVksbLvBVTUTXfPCxCxw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "50k7ilMpHxuZbPIJJ5xKYTIEL0Fx4iD4ChoMokPOENxtrFo34UzEG35inrnV2CjM4Lg6ASD1cwnC9Y2kmVlvV/GaMvWI4zsKXJbgLrJ8y2gAfPB+2lpI8leSXy2Nha2ytjzvmUmST4O8TThRXGBzX5PE+Mh5JAEfGlOrM3zNF7ex+M5s4i7G2//yej6CDz5tRLivr+ohuV4VIvybsfGgTXzUopSWHafbBcQ2+qktsqV6oJn/ya3HhyS61Eoz61iQQ0aykKkj92ms0Q7CcY0318msAbNdnCTDkTcGgj0A4yXKLlkQD0qw9+qj5JviduolGh+c6xwQNpJhQB+j/vGzFlTmgqCMWaqFznP81yxpKc4=;jjVP5sD+uFTRcK/bj4TmgQ=="
 ---
 

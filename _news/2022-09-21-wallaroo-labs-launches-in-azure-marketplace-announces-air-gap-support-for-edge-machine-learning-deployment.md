@@ -1,22 +1,27 @@
 ---
 category: news
 title: "Wallaroo Labs Launches in Azure Marketplace; Announces Air Gap Support for Edge Machine Learning Deployment"
-excerpt: "Wallaroo Labs today announced the availability of Wallaroo Enterprise Edition on Microsoft Azure Marketplace. Wallaroo's model operations platform for deploying, observing, and managing machine learning in production enables customers to easily operationalize ML Models with our purpose-built inference engine,"
-publishedDateTime: 2022-09-21T13:22:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/09/21/9677902.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/09/21/9677902.htm"
+excerpt: "“We look forward to continuing to work with Azure to help data teams in industries ... it easy for enterprises to deploy and manage machine learning models at the edge in environments with ..."
+publishedDateTime: 2022-09-21T12:09:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/wallaroo-labs-launches-in-azure-marketplace-announces-air-gap-support-for-edge-machine-learning-deployment/article_cb133d7e-bafc-500f-bfce-bf1b94fc6b45.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/wallaroo-labs-launches-in-azure-marketplace-announces-air-gap-support-for-edge-machine-learning-deployment/article_cb133d7e-bafc-500f-bfce-bf1b94fc6b45.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
-  - AI in Finance
+  - Microsoft AI
   - AI
   - Machine Learning
-  - Microsoft AI
 
-secured: "Qr1AkAP0THMf30BaIE+eJWNl7UaLYq1X09WZ9iEygIkd+IDXVEQKfViO+HXseGysWU2LKZKhL5PFMwrrP7ymRV5CE5zKTVLuVo2TQSj3RcgtuquQVOaPXyegccmTEFCVE4BgF6+kMUfN3ASzAraxLy9ktXDqyK8I+XAZY2nQiJMa60cZ9HDDSWgq4RlUailgs3/giZFOKVGRBBpSVfs6dRWLt4MYhVMf7Y6D8tKpl7nsrQ+QKXNa1v1cXl2rJD78VNn5TpyEpGssp3xuJoBgiZfll0fw7hpvXfGBcYNaLxfV7WT3e9E18WzWx3h+kvCgE9U0614XrYpAWbK77yVb0/zEWxqidOK29/7NlQcfeTQ=;DIcimLaLPk5hIAfpxaKLYQ=="
+images:
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg"
+    width: 350
+    height: 456
+    isCached: true
+
+secured: "f/X6V/G9sHWaNCNlVbWbaFIDk0c0Y5Z9ZYbOhE8yRisFSuZXgzAeSk6TWCxub6zeGebSGMHm5tqg2WlmD5NVHBU8eIGC2e1eynulf8+xuV3YBMdhcu3JjFWRFq3iLNlYyiISHXkz/vPkmzuRWRxiYYZwkxvBZrpYnC42cX/qucV5MZGLGqR68ogFX6D6Iqu27kawIgiFkuO8uhwM//w7O/In8zAs+o0okRJR9UTAlYWf5rcnkT4w47XIseoIinTaAZdSztbcWkj0W5xvYp7d+bVWr6lyWh8SnvfiGc/ae8SvfBs83tXatSdGmeZjat3vQZt27HAJKRNWrBhiaZtkCNqkvEcJ4ZexiCXLtak2TL8=;Wv8v+giuwI4iYCTmrqiIrQ=="
 ---
 
