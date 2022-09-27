@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "salesforce"
   url: "https://twitter.com/salesforce"
-  followers: 589414
+  followers: 589423
 
 size: 10,001+ employees
 yearFounded: 1999
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Salesforce"
 
-secured: "8BLH9lecTJX2PATSA+WtIm4OO/wLqD24vpxWoR4n2oyug6OndIF4hMj+Sgy9VtcWmtUOGoEjf8ZeI7Wy6rdccPSlYNRFG32KjI+GJfnjaVpp9IO5IHjXZ1PV+fVa3iCu9WfW8rnsZT+XVjO9bbVlMkuz0KaRq9gGr42VncPmhBr8t/UBT57oCGv7TBoxz+h2PVdLoYoIwl8Lvhdrrm2+rfftaVFPLnae4iOXjhmrErf8Ke4zxHVh1JrNzrNLfx0CLgUQv8m/S7Zoz9LWmaOK9NYEd9IRleMBgcG3mMWDnW9QxK8t4ByzSX4zFC7vIiCgoNUXOq7iTawbvf/DJKnrgXJkZnbhsg60WD1gQp4yAFFzFcW3HHQwRVl9SmPJYyD1aHy1Lj8z4VCbJUiIe/8Cm/wjvShS3zfNByt1v5rxrwA=;r/NnfKTulQeuo84byy/99A=="
+secured: "RFDVtSkGCFkFwFvCoY0uevVhlArsGCb74QyEat3FUrsyDgHbQwD+DyOq0S7Ex9GrfdqGfhQHOlcRsDg9QKNpW/yJQrqAqJLSdT3JkAA/CKxxrnmKVCVKFrobrEUYaklb5VrYZ4/UtCvs7rPIIHxeBywsHpcuQuXFpVkojCqZ3rsZ6mHUyHj/bndaF3hjg075AhzHuni0RtPOF/R51mcAGwcYHn+kFzppO9Y8+QsWX9q2P8xh+fceX6v1KIVlhynOXSZFRg5zY6rynf9i+h/TNE/N1ahlTKiU2lb9/V9SDNc3saZyqFpUbFEQv78vo4RJelOEn2949O6QwsOYkdkNDNYikRjYbA9DrMkyYE57J095ZUpqwEjg7Xu1dDy/43UTtbhvtyOXBaDb0R3dXipnVf6rNbj3rEXIN2+Z4ZuPRIE=;FP665t9YMC7pCds8zZ42TQ=="
 ---
 

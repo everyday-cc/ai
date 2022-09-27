@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 64
+heat: 58
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "Lnw8b8al+D9RlAYxm369VxmWr16fqs2X9sBoxzo08T88tPaddECJ34rVJa1sJ+lyyR1VGqcDxwzlrSLdB6dE0fVYrEqVFLdETOgMU4qeE29BMFaXhtBieq+114kZWlqx485CpW1D4JhUp1fNogX+4mvHsRB9o7gOzD5tygXGTCO9A+4dv3E4Vu6luyunNGmZQ4vxE9/EidAyLZpeGSYd3Jzbrawl9k7tcrmOEbr3naikvWWJ3T0zZk4+CFDPUDjzwxA2/U8wr9ALVTipGkyIXOlqVAgCvdgvKN/7VZGiIWSCp7cAcGyj1WAf8AjEv1iHlQWsa1NacHE1FnXn0lehbjyq0TL5gDcIjPZHqreIx1M5LeP3qeag8besYbEl3itPMqCfTwNBuFHMt/xMoQYF1QH0opJrjKKyk/lj0PPDErc=;rKgNiBywmoaxKEC87PLJqg=="
+secured: "FZJB/o9FArYzipcRz1qqNBevJbw+XPeR3eUf3BAK1aXB6qlUioETe6i/xOUuGH40VY5ae+uNkRPfXHGt7v1J84+dxcHySifD9YomzCmu9Xj25QKkFB3egmw5W1jTZH+LF2WBZaOXA27m7EHMTEmPDXKN+G/yuhow5vJ9z9cO55eIVN+iEcAKSu5WEjUoio9fpi6MmCAJEYf/i5YSGdgPLugzSQZd6gmQrJTd0b1bbu9AmCZdD25WETD+9QpKjQYCFFrihoqTx444My/XmC2fOb5WYMwKHijg3iEs7xqu6KrX2Kj6VTNEOFmfgrUPq5+LmB9AhPYAE4p8Fz4SX6tyvUSRhHFeA1okNX51FukldsJ3yY3Gy/In2TY1k4o4ZmH9sXntbCxfEWfLMdUSNix3jENzshG0LvqZCC7upMIiVCU=;EsjOpAX7UT1K/JbIzla1AQ=="
 ---
 
