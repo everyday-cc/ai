@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-23-deep-learning-software-market-business-overview-2022-and-forecast-to-2028-microsoft-express-scribe-nuance.md",
+      "title": "Deep Learning Software Market Business overview 2022, and Forecast to 2028 | Microsoft, Express Scribe, Nuance",
+      "excerpt": "Download Free Sample Deep Learning Software Market report  The worldwide Deep Learning Software Market is expected to grow at a booming CAGR of 2022-2030, rising from USD billion in 2021 to USD billion in 2028.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-software-market-business-overview-2022-and-forecast-to-2028-microsoft-express-scribe-nuance-2022-09-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-software-market-business-overview-2022-and-forecast-to-2028-microsoft-express-scribe-nuance-2022-09-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T22:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-23-how-ai-and-machine-learning-can-help-in-better-weather-forecast.md",
+      "title": "How AI and machine learning can help in better weather forecast",
+      "excerpt": "AI can be very useful for making analysis and especially making city-based local forecasts.' The recent floods in Bengaluru have raised many concerns regarding the increase in extreme weather events and its impact on urban planning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rediff.com/news/report/tech-how-ai-and-machine-learning-can-help-in-better-weather-forecast/20220923.htm",
+      "originalUrl": "https://www.rediff.com/news/report/tech-how-ai-and-machine-learning-can-help-in-better-weather-forecast/20220923.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://im.rediff.com/345-230/news/2022/jul/monsoon-6-o.jpg",
+          "width": 345,
+          "height": 230,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.rediff.com/amp/news/report/tech-how-ai-and-machine-learning-can-help-in-better-weather-forecast/20220923.htm",
+      "cdnAmpWebUrl": "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/news/report/tech-how-ai-and-machine-learning-can-help-in-better-weather-forecast/20220923.htm",
+      "publishedDateTime": "2022-09-22T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "rediff.com",
+        "domain": "rediff.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-23-experts-remain-sceptical-of-ethics-as-unesco-emphasises-implementation-of-ai-in-education-in-india.md",
       "title": "Experts remain sceptical of ethics, as UNESCO emphasises implementation of AI in education in India",
       "excerpt": "Interestingly, experts has opined that AI based tools can be a source of bias for teacher and create discrimination amongst students.",
@@ -106,7 +202,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-population-variance-of-endangered-species-using-amazon-rekognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -253,50 +349,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-salesforce-co-ceo-bret-taylor-at-dreamforce-2022-genie-changes-the-game-for-crm.md",
-      "title": "Salesforce Co-CEO Bret Taylor At Dreamforce 2022: Genie ‘Changes The Game For CRM’",
-      "excerpt": "Salesforce co-CEO Bret Taylor introduced the marketing and sales software giant’s new Genie feature during Dreamforce 2022, calling it “the most significant shift to the Salesforce platform” in 20-plus years and detailing how the feature works with cloud platform partners including Amazon Web Services and Snowflake.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/cloud/salesforce-co-ceo-bret-taylor-at-dreamforce-2022-genie-changes-the-game-for-crm-",
-      "originalUrl": "https://www.crn.com/news/cloud/salesforce-co-ceo-bret-taylor-at-dreamforce-2022-genie-changes-the-game-for-crm-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0279-162c9096f261-c4770bd400cf-1000/bret-taylor-salesforce.jpg",
-          "width": 610,
-          "height": 458,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Sales"
       ]
     },
     {
@@ -490,6 +542,40 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-22-falkonry-unveils-gpu-based-high-speed-time-series-anomaly-detection-application.md",
+      "title": "Falkonry Unveils GPU-Based, High-Speed Time Series Anomaly Detection Application",
+      "excerpt": "Falkonry today announced an automated anomaly detection application called Falkonry Insight which operates on high-speed sensor time series data. Insight is the newest addition to Falkonry’s Time Series AI Suite to drive higher operational reliability and yield,",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/this-just-in/falkonry-unveils-gpu-based-high-speed-time-series-anomaly-detection-application/",
+      "originalUrl": "https://www.datanami.com/this-just-in/falkonry-unveils-gpu-based-high-speed-time-series-anomaly-detection-application/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -1096,109 +1182,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-syngenta-aims-to-make-its-sap-erp-as-reliable-as-water-from-a-tap.md",
-      "title": "Syngenta Aims To Make Its SAP ERP As Reliable As Water From A Tap",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as he recently talked with Christian Bayer, the Global Head of ERP/SAP and Data and Analytics at Syngenta, and partner Infosys, about moving SAP to the public cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/09/21/syngenta-aims-to-make-its-sap-erp-as-reliable-as-water-from-a-tap/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/09/21/syngenta-aims-to-make-its-sap-erp-as-reliable-as-water-from-a-tap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/632ba19714a25a13177d2c1f/0x0.jpg?format=jpg&width=1200",
-          "width": 560,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/09/21/syngenta-aims-to-make-its-sap-erp-as-reliable-as-water-from-a-tap/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/09/21/syngenta-aims-to-make-its-sap-erp-as-reliable-as-water-from-a-tap/amp/",
-      "publishedDateTime": "2022-09-21T16:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-getty-is-banning-ai-generated-images.md",
-      "title": "Getty Is Banning AI-Generated Images",
-      "excerpt": "AI-created works. Popular AI image generators such as Dall-E, Stable Diffusion and Midjourney will no longer be allowed on the site, PetaPixel reported. \"We've already started removing content, but this will be an ongoing effort from our teams,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/getty-is-banning-ai-generated-images/",
-      "originalUrl": "https://www.cnet.com/news/getty-is-banning-ai-generated-images/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/f835513ea991cea316e5bb8b23246e208ecfdc93/hub/2022/09/21/5ef652f0-14d6-484f-b947-13e6ecd9c8aa/gettyimages-1346301198.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/getty-is-banning-ai-generated-images/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/getty-is-banning-ai-generated-images/",
-      "publishedDateTime": "2022-09-21T15:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

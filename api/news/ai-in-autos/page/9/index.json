@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-08-10-baidu-gets-permits-for-first-fully-driverless-taxi-service-in-china.md",
+      "title": "Baidu gets permits for first fully driverless taxi service in China",
+      "excerpt": "Baidu, which operates China’s largest search engine ... robotaxi offerings remain extremely sparse and ridehailing giants like Uber and Lyft have abandoned in-house self-driving taxi efforts. In June, General Motors-backed Cruise gained permits in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.egyptindependent.com/baidu-gets-permits-for-first-fully-driverless-taxi-service-in-china/",
+      "originalUrl": "https://www.egyptindependent.com/baidu-gets-permits-for-first-fully-driverless-taxi-service-in-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amayei.nyc3.digitaloceanspaces.com/2022/08/220721145214-baidu-apollo.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Egypt Independent",
+        "domain": "egyptindependent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-chinas-baidu-to-operate-driverless-taxis-in-two-cities.md",
       "title": "China's Baidu to operate driverless taxis in two cities",
       "excerpt": "WUHAN - Chinese tech giant Baidu has obtained permission to operate fully driverless taxis commercially on public roads in the cities of Wuhan and Chongqing. Baidu will offer the commercial robotaxi service -- with no driver present -- in some areas of the two cities via the company's autonomous ride-hailing platform Apollo Go.",
@@ -1259,49 +1302,6 @@
       "provider": {
         "name": "The Independent",
         "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-07-tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-complaint-alleges.md",
-      "title": "Tesla made misleading claims about autopilot and self driving, California DMV complaint alleges",
-      "excerpt": "The complaint alleges that the company made \"untrue or misleading\" statements in advertisements on its website by claiming that Tesla vehicles were, or could be, equipped with advanced driver assistance system features.",
-      "sourceUrl": null,
-      "webUrl": "https://abc7.com/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/",
-      "originalUrl": "https://abc7.com/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/12105989_080622-kabc-6pm-CA-DMV-tesla-vid.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc7.com/amp/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/",
-      "cdnAmpWebUrl": "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/",
-      "publishedDateTime": "2022-08-06T20:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC7",
-        "domain": "abc7.com",
         "images": null,
         "publishers": null,
         "authors": null

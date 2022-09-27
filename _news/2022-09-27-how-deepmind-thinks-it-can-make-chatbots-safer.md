@@ -43,29 +43,6 @@ related:
         width: 1200
         height: 840
         isCached: true
-  - title: "Top AI Chatbots 2022"
-    excerpt: "These leading AI chatbots can greatly enhance the reach of your customer service team – and their AI toolsets are growing quickly."
-    publishedDateTime: 2022-09-22T18:37:00Z
-    webUrl: "https://www.eweek.com/big-data-and-analytics/ai-chatbots/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 71
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2022/01/VMWare-A7C3E368302C41B296E03A8651EFBDE0.jpeg"
-        width: 696
-        height: 696
-        isCached: true
-  - title: "DeepMind advances AI safety with new Sparrow chatbot"
-    excerpt: "According to DeepMind, Sparrow can produce plausible answers to user questions more frequently than earlier neural networks. Furthermore, the chatbot includes features that significantly reduce the risk of biased and toxic answers."
-    publishedDateTime: 2022-09-22T18:31:00Z
-    webUrl: "https://siliconangle.com/2022/09/22/deepmind-advances-ai-safety-new-sparrow-chatbot/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
   - title: "The Download: YouTube’s deadly crafts, and DeepMind’s new chatbot"
     excerpt: "The YouTube baker fighting back against deadly “craft hacks” Ann Reardon is probably the last person whose content you’d expect to be banned from YouTube. A former Australian youth worker and a mother of three,"
     publishedDateTime: 2022-09-23T12:10:00Z
@@ -76,6 +53,6 @@ related:
       domain: technologyreview.com
     quality: 19
 
-secured: "VraGgMzIEOsRW4J9OVkcirYbXHNCx854pRjkXMzTUx/b2uPMw82BcZC3o0ZAJenMUyb1jNgJKtRjqNNez03fqR9g1teR4bHLRQxy0mohOWVdS8NqkA5/6T9wLPfZAawvnbF1R5CNrlGxxfdObdom+APaiJf7wWZj3FwEYD65DjOrr2PVWdUADdzVXG0eLjV4wGsOm2a8Ma1TQ4GN1rrlm8o543V/AjLHMFieuRXbMQmdZ+pfmGEuER26ITaX5ivB0bTkMA90Qd8W9d8MU+YQaCcGomWAxYscIGjg5+oPnmD/PaoM7oCJmUE+v68hC8r/LHQWORVRl2zusub863FgE9EplsX2hoSmqloVozGoQwA=;H3FIk7O1Ts//GRr7XQlerg=="
+secured: "3UKHGgCi3jbRGIQ9gvDHTNIOLUj/ixqspjdw65Z9s1+ejHBcYEqvJ4dJ78r/3XLbcbFGAG22MvK9k1HXsYmu4D7KYb9TyiMWl9n34RIt88rIR5sAbWBJEYxOHSKg0OLlUMWXJmTT76wg2O0sMNy6D2P+o/YhvidHr/9373MK5vnuz6yebMqd4VRb0jrG/3s7RaKE/pJ3t3YwzyQ2rxdVRQr2FA+/l+IFogoy/UFydGs33+/wmcIl7jmRIYtODcAvgd5nYf1QwPrjLFF+Eec3/mrSrNNiyqN1FDCofIpL0vrJT4JQXNLD5V3zVEkSfRXEofSBPlelGZfcO4Hb6gAVVwsgw2eVGj1fJidGXE4D0Y9eoliiO8/9yaBISRd4RLZjn9JSlAl8LkFuPHMHNRaIj9hU2/jqd6/9zXfgLrxWFxq5223k1v8SFTWKx2cTzwsCBUy+8tNLuGtg4iP113rbk4sm4LkJWkLFo3Yhy1DnbVSdZFwQuknnUPg0iWl0TSajqNab8wzlBSWiMR32Lqdfag==;plGqDa/eMV+OrttYQUYclg=="
 ---
 

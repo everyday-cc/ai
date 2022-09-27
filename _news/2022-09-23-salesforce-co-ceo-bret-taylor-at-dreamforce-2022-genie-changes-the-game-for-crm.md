@@ -7,8 +7,8 @@ originalUrl: "https://www.crn.com/news/cloud/salesforce-co-ceo-bret-taylor-at-dr
 webUrl: "https://www.crn.com/news/cloud/salesforce-co-ceo-bret-taylor-at-dreamforce-2022-genie-changes-the-game-for-crm-"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: CRN
@@ -39,20 +39,6 @@ related:
       - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2022/09/DF22-220920-JR2_1782-1.jpg"
         width: 720
         height: 410
-        isCached: true
-  - title: "Salesforce's next big thing is a major push to keep its data at the center of a market increasingly dominated by firms like Snowflake"
-    excerpt: "Salesforce is letting users update their products instantly as it risks customers treating it as just one of many data points in Snowflake."
-    publishedDateTime: 2022-09-22T17:36:00Z
-    webUrl: "https://www.businessinsider.com/salesforce-dreamforce-genie-launch-snowflake-databricks-real-time-2022-9"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
-    images:
-      - url: "https://i.insider.com/62f182638677d80018ee6c2c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "x97OXYjWSuvBHw8g5mUL2grH4wxiBAwHgbXnIdNlgmoTdsj8kTPvimZmVP6LORV2Uh3BcTYl6QycqSr6FPpOxZgGgeKtKjz5ESehnVQTtrHW44JeSeGCKLKOZ1/kupV93l1SoFPu/XXERHnOkmpbcjkMn7VOWu9bRJK9g2V107CIG1+IGQnrJnk+CVuw+HufGio/iQ6oh7nnTTlNQ5p5XrRsEIZaGP3WUIJ6zf/j4zTyvyUtfezUJX1KNstVWNKXNvwBYUsBSabYodxewezcYj3xakNd/jow+BzVvTlsYwsPdYpG5TPW7alWgy9+Bbm0v5SlwHYEBrhAXs+DsemdwPn76FJ8bD/QIgFdKoQqxrKoLTG0jpxlE9AOkHL0xBSshyS5wlHOdYHRhJApOg6LuARfdxnQXuHUqJ4+SrXjH6dsEVK6UE9Z6M1jcRaQG5KFJB4T6e/o+GEkccSTetnfcrcQ8ClPThRGBkAjEzw1YssMq8yDpS6xV2NhFTJzp/h8pizSx47BSSWufX1aVzfo3Q==;U8WtIItCO6PMyfA3Nz6ySw=="

@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-31-baidu-revenue-hit-as-advertising-tumbles.md",
+      "title": "Baidu revenue hit as advertising tumbles",
+      "excerpt": "Chinese internet giant Baidu returned to profit in Q2 2022 on one-off gains ... to an “unfavourable macro environment”, but noted its AI cloud and intelligent driving businesses maintained rapid growth momentum. Looking to the second half, Li said ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobileworldlive.com/asia/asia-news/baidu-revenue-hit-as-advertising-tumbles/",
+      "originalUrl": "https://www.mobileworldlive.com/asia/asia-news/baidu-revenue-hit-as-advertising-tumbles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T01:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-31-baidu-claims-its-robotaxis-have-grabbed-10-of-the-ride-hailing-market-in-a-suburb-of-beijing.md",
       "title": "Baidu claims its robotaxis have grabbed 10% of the ride-hailing market in a suburb of Beijing",
       "excerpt": "Chinese tech giant Baidu said its robotaxis have grabbed about 10% of the ride-hailing market in a suburb of Beijing city. Baidu began offering free robotaxi rides in the suburban region in ...",
@@ -1344,49 +1378,6 @@
         "AI in Autos",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-28-national-jobs-summit-a-chance-for-australia-to-hit-reset-on-artificial-intelligence-say-business-leaders.md",
-      "title": "National jobs summit a chance for Australia to hit reset on artificial intelligence, say business leaders",
-      "excerpt": "Earlier this week an artificial intelligence-powered rapper was dropped from its label (yes, it had a label) after its algorithm learned to use racial slurs in its lyrics. Artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc.net.au/news/2022-08-28/artificial-intelligence-policy-australia-jobs-summit/101366726",
-      "originalUrl": "https://www.abc.net.au/news/2022-08-28/artificial-intelligence-policy-australia-jobs-summit/101366726",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://live-production.wcms.abc-cdn.net.au/4720965b409b32025766819103817e98?impolicy=wcms_crop_resize&cropH=381&cropW=572&xPos=0&yPos=83&width=862&height=575",
-          "width": 572,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.abc.net.au/article/101366726",
-      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101366726",
-      "publishedDateTime": "2022-08-27T14:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Broadcasting Corporation",
-        "domain": "abc.net.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

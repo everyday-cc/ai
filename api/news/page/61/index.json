@@ -2,6 +2,82 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2022-08-09-enterprise-artificial-intelligence-ai-market-worth-1552-billion-by-2030-grand-view-research-inc.md",
+      "title": "Enterprise Artificial Intelligence (AI) Market Worth $155.2 Billion by 2030: Grand View Research, Inc.",
+      "excerpt": "The global enterprise artificial intelligence market size is anticipated to reach USD 155.2 billion by 2030, according to a new report by Grand View Research, Inc. The market is expected to grow at a CAGR of 34.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/08/08/9652242.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/08/08/9652242.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T12:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-in-simulation-of-how-water-freezes-artificial-intelligence-breaks-the-ice.md",
+      "title": "In simulation of how water freezes, artificial intelligence breaks the ice",
+      "excerpt": "became possible when the researchers incorporated deep neural networks, a form of artificial intelligence, into their methods. The study was published in the journal Proceedings of the National Ac ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/960990",
+      "originalUrl": "https://www.eurekalert.org/news-releases/960990",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8ee15a21-65f9-414f-95f3-179301e49a33/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-09-artificial-intelligence-self-driving-cars.md",
       "title": "Artificial Intelligence Self Driving Cars",
       "excerpt": "Participants can compete for a prize money valued at $2,300,000 (AED8,447,923 approximately) and $300,000 (AED1,101,904.50) for industry leaders and local academia, respectively",
@@ -1022,101 +1098,6 @@
       "provider": {
         "name": "ETF Daily News",
         "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-two-chinese-cities-approve-baidus-unmanned-self-driving-taxis.md",
-      "title": "Two Chinese Cities Approve Baidu’s Unmanned Self-Driving Taxis",
-      "excerpt": "China, seeking to catch up to the U.S. in autonomous driving cars, has been increasingly active in setting up regulations that allow such vehicles on public roads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/two-chinese-cities-approve-baidus-unmanned-self-driving-taxis-11659939689",
-      "originalUrl": "https://www.wsj.com/articles/two-chinese-cities-approve-baidus-unmanned-self-driving-taxis-11659939689",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-599394/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/two-chinese-cities-approve-baidus-unmanned-self-driving-taxis-11659939689",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/two-chinese-cities-approve-baidus-unmanned-self-driving-taxis-11659939689",
-      "publishedDateTime": "2022-08-07T22:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-artificial-intelligence-robots-market-growth-holds-strong-softbank-group-corp-nvidia-corporation-intel-corporation.md",
-      "title": "Artificial Intelligence Robots Market Growth Holds Strong | SoftBank Group Corp., Nvidia Corporation, Intel Corporation",
-      "excerpt": "Global Artificial Intelligence (AI) Robots Market is valued approximately USD 6.90 billion in 2021 and is anticipated to grow with a healthy growth rate of more than 38.6% over the forecast period ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robots-market-growth-holds-strong-softbank-group-corp-nvidia-corporation-intel-corporation",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robots-market-growth-holds-strong-softbank-group-corp-nvidia-corporation-intel-corporation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/Business8-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-07T22:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null

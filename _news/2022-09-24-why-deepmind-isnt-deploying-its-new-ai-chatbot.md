@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-ch
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/amp/"
 type: article
 quality: 106
-heat: 146
+heat: 126
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top AI Chatbots 2022"
-    excerpt: "These leading AI chatbots can greatly enhance the reach of your customer service team – and their AI toolsets are growing quickly."
-    publishedDateTime: 2022-09-22T18:37:00Z
-    webUrl: "https://www.eweek.com/big-data-and-analytics/ai-chatbots/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 71
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2022/01/VMWare-A7C3E368302C41B296E03A8651EFBDE0.jpeg"
-        width: 696
-        height: 696
-        isCached: true
   - title: "How DeepMind thinks it can make chatbots safer"
     excerpt: "In experiments where AI-powered chatbots were used to offer medical advice, they told pretend patients to kill themselves. Doesn’t fill you with a lot of optimism, does it? That’s why AI labs are working hard to make their conversational AIs safer and more helpful before turning them loose in the real world."
     publishedDateTime: 2022-09-27T09:26:00Z
@@ -62,15 +48,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "DeepMind advances AI safety with new Sparrow chatbot"
-    excerpt: "According to DeepMind, Sparrow can produce plausible answers to user questions more frequently than earlier neural networks. Furthermore, the chatbot includes features that significantly reduce the risk of biased and toxic answers."
-    publishedDateTime: 2022-09-22T18:31:00Z
-    webUrl: "https://siliconangle.com/2022/09/22/deepmind-advances-ai-safety-new-sparrow-chatbot/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
   - title: "The Download: YouTube’s deadly crafts, and DeepMind’s new chatbot"
     excerpt: "The YouTube baker fighting back against deadly “craft hacks” Ann Reardon is probably the last person whose content you’d expect to be banned from YouTube. A former Australian youth worker and a mother of three,"
     publishedDateTime: 2022-09-23T12:10:00Z

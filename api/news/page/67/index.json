@@ -2,6 +2,112 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2022-08-03-healthcare-artificial-intelligence-ai-market-research-report-competitive-analysis-and-forecast-period-during-2027.md",
+      "title": "Healthcare Artificial Intelligence (AI) Market research report - competitive analysis and forecast period during 2027",
+      "excerpt": "The global healthcare artificial intelligence (AI) market size is estimated to secure a lucrative CAGR from 2021",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-research-report---competitive-analysis-and-forecast-period-during-2027-2022-08-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-research-report---competitive-analysis-and-forecast-period-during-2027-2022-08-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-artificial-intelligence-ai-chipsets-market-growth-analysis-statistics-key-insights-and-trend-2022-to-2026.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market growth analysis, statistics, key insights and trend 2022 to 2026",
+      "excerpt": "Artificial Intelligence (AI) chipsets market is undergoing constant changes as several companies across the world are indulging in heavy investments to introduce advanced technologies in automotive safety systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-growth-analysis-statistics-key-insights-and-trend-2022-to-2026-2022-08-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-growth-analysis-statistics-key-insights-and-trend-2022-to-2026-2022-08-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-08-03-gaggle-and-aws-collaborate-to-create-mental-health-hotline-that-connects-k-12-students-to-trained-crisis-counselors-anywhere-anytime.md",
       "title": "Gaggle and AWS Collaborate to Create Mental Health Hotline that Connects K-12 Students to Trained Crisis Counselors, Anywhere, Anytime",
       "excerpt": "Gaggle, the leader in helping K-12 districts manage student safety on school-provided technology, is working with Amazon Web Services (AWS) to address the issue by providing in-the-moment support for students experiencing mental health crises including anxiety,",
@@ -1082,110 +1188,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-scale-yolov5-inference-with-amazon-sagemaker-endpoints-and-aws-lambda.md",
-      "title": "Scale YOLOv5 inference with Amazon SageMaker endpoints and AWS Lambda",
-      "excerpt": "After data scientists carefully come up with a satisfying machine learning (ML) model, the model must be deployed to be easily accessible for inference by other members of the organization. However, deploying models at scale with optimized cost and compute efficiencies can be a daunting and cumbersome",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scale-yolov5-inference-with-amazon-sagemaker-endpoints-and-aws-lambda/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/scale-yolov5-inference-with-amazon-sagemaker-endpoints-and-aws-lambda/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/22/ML8827_image_01-934x630.png",
-          "width": 934,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T14:11:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-remote-controlled-surgical-robot-to-board-international-space-station.md",
-      "title": "Remote-Controlled Surgical Robot to Board International Space Station",
-      "excerpt": "No matter how mentally and physically prepared they are, future astronauts bound for deep space can't escape their mortal restrictions. At some point during their long and isolated journeys, these pioneers might need medical care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/science/space/remote-controlled-surgical-robot-to-board-international-space-station/",
-      "originalUrl": "https://www.cnet.com/science/space/remote-controlled-surgical-robot-to-board-international-space-station/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/911220a96b805e2ac7b05240e8a22ec27f064c4b/2022/08/02/023fcd76-f93b-4116-8f7c-00d46a29a584/mira.jpg?auto=webp",
-          "width": 4240,
-          "height": 2832,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/remote-controlled-surgical-robot-to-board-international-space-station/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/remote-controlled-surgical-robot-to-board-international-space-station/",
-      "publishedDateTime": "2022-08-02T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

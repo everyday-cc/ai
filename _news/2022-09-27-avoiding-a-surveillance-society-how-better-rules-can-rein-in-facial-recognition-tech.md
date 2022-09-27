@@ -41,22 +41,6 @@ related:
         width: 661
         height: 341
         isCached: true
-  - title: "Biometric Security – Outlining Industrial Applications of Facial Recognition"
-    excerpt: "Facial features-based biometric recognition and liveness detection of employees can ensure their retention while keeping trust intact. The healthcare industry is facing a tremendous increase in ..."
-    publishedDateTime: 2022-09-22T18:07:00Z
-    webUrl: "https://www.benzinga.com/tech/22/09/28951832/biometric-security-outlining-industrial-applications-of-facial-recognition"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28951832"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28951832"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 73
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2022/09/21/bernard-hermant-ihcshrzxfs4-unsplash.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "New report offers blueprint for regulation of facial recognition technology"
     excerpt: "Human Technology Institute outlines a model law for facial recognition technology to protect against harmful use of this technology, but also foster innovation for public benefit."
     publishedDateTime: 2022-09-26T23:00:00Z

@@ -2,6 +2,93 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-09-20-pepkors-ai-machine-learning-investments-pay-off.md",
+      "title": "Pepkor’s AI, machine learning investments pay off",
+      "excerpt": "The retailer’s returns on tech investments in the last year amounted to a R235 million contribution towards profit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/rxP3jqBEmDPMA2ye",
+      "originalUrl": "https://www.itweb.co.za/content/rxP3jqBEmDPMA2ye",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/OBtP5AcEaLIPce_NFGztBZo6ArciKXalxVJXfLuwRs6nyyVwdifvcGur11XoWmkbkOh8iOloA6IZELg04sWoIb8bgUNdJMoGC7l9=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/rxP3jqBEmDPMA2ye",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/rxP3jqBEmDPMA2ye",
+      "publishedDateTime": "2022-09-20T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-artificial-intelligence-robots-market-size-to-record-213-cagr-through-2028.md",
+      "title": "Artificial Intelligence Robots Market Size To Record 21.3% CAGR Through 2028",
+      "excerpt": "Market Study Report presents latest report on global Artificial Intelligence (AI) Robots Market, which evaluates the growth trends of the industry through historical study and estimates future ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104892877/Artificial-Intelligence-Robots-Market-Size-To-Record-213-CAGR-Through-2028",
+      "originalUrl": "https://menafn.com/1104892877/Artificial-Intelligence-Robots-Market-Size-To-Record-213-CAGR-Through-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?809052",
+          "width": 444,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-artificial-intelligence-ai-robots-market-top-trends-and-key-players-analysis-report.md",
       "title": "Artificial Intelligence (AI) Robots Market | Top Trends and Key Players Analysis Report",
       "excerpt": "AI, or artificial intelligence, in robotics is the integration of AI technology with robots, enabling them to perform repetitive tasks more efficiently without human intervention. Rapid ...",
@@ -1098,101 +1185,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-global-deep-learning-software-market-foreseen-to-grow-exponentially-by-2030.md",
-      "title": "global Deep Learning Software Market Foreseen to Grow Exponentially by 2030",
-      "excerpt": "According to the Regional Research Reports, the global Deep Learning Software Market size was valued at USD 3.4 billion",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-software-market-foreseen-to-grow-exponentially-by-2030-2022-09-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-software-market-foreseen-to-grow-exponentially-by-2030-2022-09-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T01:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-new-artificial-intelligence-recycling-technology-can-sort-plastics-on-its-own.md",
-      "title": "New artificial intelligence recycling technology can sort plastics on its own",
-      "excerpt": "The AI is meant to help the world overcome its struggle with sending recyclable plastics to landfills. New recycling technology has been developed using artifi",
-      "sourceUrl": null,
-      "webUrl": "https://www.hydrogenfuelnews.com/recycling-technology-ai/8554399/",
-      "originalUrl": "https://www.hydrogenfuelnews.com/recycling-technology-ai/8554399/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.hydrogenfuelnews.com/wp-content/uploads/2022/09/Recycling-technology-New-Tech.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hydrogen Fuel News",
-        "domain": "hydrogenfuelnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

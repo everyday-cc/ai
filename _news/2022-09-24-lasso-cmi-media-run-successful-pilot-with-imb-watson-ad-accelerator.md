@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/digital-marketing/lasso-cmi-
 webUrl: "https://www.beckershospitalreview.com/digital-marketing/lasso-cmi-media-run-successful-pilot-with-imb-watson-ad-accelerator.html"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - IBM AI
   - AI
-
-related:
-  - title: "CMI Media Group partners with IBM Watson for ViiV Healthcare marketing"
-    excerpt: "CMI used IBM Watson’s program alongside Lasso, an omnichannel platform, to achieve real-world measurement across programmatic channels for its campai"
-    publishedDateTime: 2022-09-22T18:42:00Z
-    webUrl: "https://www.mmm-online.com/home/channel/cmi-media-group-partners-with-ibm-watson-for-viiv-healthcare-marketing/"
-    type: article
-    provider:
-      name: MM&M
-      domain: mmm-online.com
-    quality: 53
 
 secured: "J2/yJ5SoQ0aOS+ml1s+WnWceQjsdzXH+ws1P4G9ZCsZhLvnYUnt1HYfriMEaLA41ALvAjYId4vPV5fwECPdqWupU+1Rvt3r6nqdwz2AP/uUSmQx8ND3G72u8JtS+ITP52pIXSjLFE+P0IlLyKH9p6zGrS7D4KpjG5jamCFMdGuM2TWBLR6WJpcdV9TrhVWKkb/i5CzsdwBdiVI22Ff56awVFBYYMHPcviHJv3ohbolzQL4gld0lEzRPnw56JoSCS0P/FFjQI9vAD1V+3VfPDUEExp54qgRAEiDSA8ebJ9j0JgttyubhGVNbuMxadd1Vpvup9hzd/y1n/J6MSn1WaRjocSm4VHEGUJ63txGn08K0=;lWxLKpXx3QF3VHKXeolzlw=="
 ---

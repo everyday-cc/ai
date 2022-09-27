@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-06-14-future-phones-could-be-as-easy-to-build-and-upgrade-as-legos.md",
+      "title": "Future Phones Could Be as Easy to Build and Upgrade as LEGOs",
+      "excerpt": "“We tried to make some kind of AI chip, which is reconfigurable, so we call it a LEGO-like AI chip,” Jihoon Kang, an electrical engineer at MIT and co-author of the new study, told The Daily Beas",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailybeast.com/an-ai-chip-inspired-by-legos-may-lead-to-customizable-phone-hardware",
+      "originalUrl": "https://www.thedailybeast.com/an-ai-chip-inspired-by-legos-may-lead-to-customizable-phone-hardware",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_505,w_900,x_0,y_53/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1655145981/MIT-Stackable-AI-01-press_0_y9ugae",
+          "width": 900,
+          "height": 505,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T12:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Beast",
+        "domain": "thedailybeast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-mit-built-a-new-reconfigurable-ai-chip-that-can-reduce-electronic-waste.md",
       "title": "MIT built a new reconfigurable AI chip that can reduce electronic waste",
       "excerpt": "Is this the end of e-waste? MIT engineers have designed a LEGO-like stackable, reconfigurable AI chip that can be snapped onto a device's internal chip.",
@@ -1326,59 +1369,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-28-grai-matter-labs-brain-inspired-ai-for-the-edge.md",
-      "title": "GrAI Matter Labs: Brain-Inspired AI For The Edge",
-      "excerpt": "We recently tweeted about the startup GrAI Matter Labs (GML) and received a lot of questions about the company’s products and strategy. As one of the first startups to launch a neuromorphic AI platform for edge AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/05/27/grai-matter-labs-brain-inspired-ai-for-the-edge/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/05/27/grai-matter-labs-brain-inspired-ai-for-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6290f25b3eeb6d491574921f/0x0.jpg?format=jpg&width=1200",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/05/27/grai-matter-labs-brain-inspired-ai-for-the-edge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/05/27/grai-matter-labs-brain-inspired-ai-for-the-edge/amp/",
-      "publishedDateTime": "2022-05-27T10:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Hardware"
       ]
     }
   ],

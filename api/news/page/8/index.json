@@ -2,6 +2,101 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-09-19-global-deep-learning-software-market-foreseen-to-grow-exponentially-by-2030.md",
+      "title": "global Deep Learning Software Market Foreseen to Grow Exponentially by 2030",
+      "excerpt": "According to the Regional Research Reports, the global Deep Learning Software Market size was valued at USD 3.4 billion",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-software-market-foreseen-to-grow-exponentially-by-2030-2022-09-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-software-market-foreseen-to-grow-exponentially-by-2030-2022-09-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T01:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-19-new-artificial-intelligence-recycling-technology-can-sort-plastics-on-its-own.md",
+      "title": "New artificial intelligence recycling technology can sort plastics on its own",
+      "excerpt": "The AI is meant to help the world overcome its struggle with sending recyclable plastics to landfills. New recycling technology has been developed using artifi",
+      "sourceUrl": null,
+      "webUrl": "https://www.hydrogenfuelnews.com/recycling-technology-ai/8554399/",
+      "originalUrl": "https://www.hydrogenfuelnews.com/recycling-technology-ai/8554399/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.hydrogenfuelnews.com/wp-content/uploads/2022/09/Recycling-technology-New-Tech.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hydrogen Fuel News",
+        "domain": "hydrogenfuelnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-19-muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details.md",
       "title": "Muxi To Give China Its First Fully-Dedicated Gaming GPU In 2025; Check Details",
       "excerpt": "Muxi’s 7nm chipset, billed as the companys most powerful GPU to date, is primarily intended to meet the needs of high-end gaming PCs.",
@@ -1041,100 +1136,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-ai-capable-of-early-detection-of-pancreatic-cancer.md",
-      "title": "AI Capable of Early Detection of Pancreatic Cancer",
-      "excerpt": "A new study published in the journal Radiology shows how AI deep learning can detect pancreatic cancer on CT scans with 91 percent accuracy. “The deep learning–based tool enabled accurate detection of pancreatic cancer on CT scans,",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202209/ai-capable-early-detection-pancreatic-cancer",
-      "originalUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202209/ai-capable-early-detection-pancreatic-cancer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-09/pic7642.gif.jpg?itok=ZErRoMYL",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202209/ai-capable-early-detection-pancreatic-cancer?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202209/ai-capable-early-detection-pancreatic-cancer?amp",
-      "publishedDateTime": "2022-09-16T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-xpo-logistics-ceo-on-ai-jump-in.md",
-      "title": "XPO Logistics CEO on AI: \"Jump in\"",
-      "excerpt": "CEO Brad Jacobs says AI is \"the biggest thing going on in the business world\"",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/videos/watch/XPO-Logistics-CEO-on-AI-Jump-in/8512c21c-670c-43c4-8425-219e73977f1f",
-      "originalUrl": "https://fortune.com/videos/watch/XPO-Logistics-CEO-on-AI-Jump-in/8512c21c-670c-43c4-8425-219e73977f1f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2byebo1j9i40c.cloudfront.net/8512c21c-670c-43c4-8425-219e73977f1f/Images/posterImage-ver1-1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/videos/watch/xpo-logistics-ceo-on-ai%3A-%22jump-in%22/8512c21c-670c-43c4-8425-219e73977f1f/amp",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/xpo-logistics-ceo-on-ai%3A-%22jump-in%22/8512c21c-670c-43c4-8425-219e73977f1f/amp",
-      "publishedDateTime": "2022-09-16T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -64,20 +64,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Mobile Speech Recognition Software Market For the period 2022 To 2028, this research report shows the current state and prospects and Growth."
-    excerpt: "The \" Mobile Speech Recognition Software market \" is important to the world economy. The Mobile Speech Recognition Software market is one of the fastest-growing sectors in Industrial Manufacturing. With regards to scope,"
-    publishedDateTime: 2022-09-22T18:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-for-the-period-2022-to-2028-this-research-report-shows-the-current-state-and-prospects-and-growth-2022-09-22"
+  - title: "Home Security System Global Market Report 2022: Implementation of AI & Deep Learning Drives Sector Growth - ResearchAndMarkets.com"
+    excerpt: "The global home security system market is expected to grow from $3.92 billion in 2021 to $3.96 billion in 2022 at a compound annual growth rate (CAGR) of 1.2%. The growth is mainly due to the companies resuming their operations and adapting to the new normal while recovering from the COVID-19 impact,"
+    publishedDateTime: 2022-09-26T12:10:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-26-home-security-system-global-market-report-2022-implementation-of-ai-and-deep-learning-drives-sector-growth-researchandmarketscom"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 21
   - title: "Artificial Intelligence in Healthcare Market Business Analysis, CAGR, Production, Rising Trends And Manufacturers Growth Outlook to 2031"
     excerpt: "Most recent research report on Artificial Intelligence in Healthcare Market 2021 distributed by insightSLICE, begins with the market portrayal, comprehensive report, division and order."
     publishedDateTime: 2022-09-23T00:00:00Z

@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-06-bitcode-method-driving-financial-stability-by-maximizing-your-crypto-profits.md",
+      "title": "Bitcode Method: Driving Financial Stability by Maximizing Your Crypto Profits",
+      "excerpt": "Driving Financial Stability by Maximizing Your Crypto Profits - The expansion of distributed ledger technology and increased digital venture capital investments are",
+      "sourceUrl": null,
+      "webUrl": "https://www.siliconindia.com/news/general/bitcode-method-driving-financial-stability-by-maximizing-your-crypto-profits-nid-219926-cid-1.html",
+      "originalUrl": "https://www.siliconindia.com/news/general/bitcode-method-driving-financial-stability-by-maximizing-your-crypto-profits-nid-219926-cid-1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.siliconindia.com/news/newsimages/special/ix9d6217.png",
+          "width": 502,
+          "height": 324,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconIndia",
+        "domain": "siliconindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-05-ev-roundup-nklas-equity-offering-teslas-plan-for-driverless-cars-more.md",
       "title": "EV Roundup: NKLA's Equity Offering, Tesla's Plan for Driverless Cars & More",
       "excerpt": "Last week, China-based electric vehicle (EV) stars NIO Inc. NIO, Li Auto LI and XPeng Inc. XPEV announced their delivery updates for August. While NIO recorded a rise in deliveries from July ...",
@@ -1271,40 +1314,6 @@
       "provider": {
         "name": "The Local",
         "domain": "thelocal.fr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-baidu-revenue-hit-as-advertising-tumbles.md",
-      "title": "Baidu revenue hit as advertising tumbles",
-      "excerpt": "Chinese internet giant Baidu returned to profit in Q2 2022 on one-off gains ... to an “unfavourable macro environment”, but noted its AI cloud and intelligent driving businesses maintained rapid growth momentum. Looking to the second half, Li said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobileworldlive.com/asia/asia-news/baidu-revenue-hit-as-advertising-tumbles/",
-      "originalUrl": "https://www.mobileworldlive.com/asia/asia-news/baidu-revenue-hit-as-advertising-tumbles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T01:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile World Live",
-        "domain": "mobileworldlive.com",
         "images": null,
         "publishers": null,
         "authors": null

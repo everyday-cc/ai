@@ -39,21 +39,7 @@ related:
         width: 610
         height: 458
         isCached: true
-  - title: "Salesforce's next big thing is a major push to keep its data at the center of a market increasingly dominated by firms like Snowflake"
-    excerpt: "Salesforce is letting users update their products instantly as it risks customers treating it as just one of many data points in Snowflake."
-    publishedDateTime: 2022-09-22T17:36:00Z
-    webUrl: "https://www.businessinsider.com/salesforce-dreamforce-genie-launch-snowflake-databricks-real-time-2022-9"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
-    images:
-      - url: "https://i.insider.com/62f182638677d80018ee6c2c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
-secured: "8IB3NuWsf7OIQ1p8GdFYp7nQi/B8tURdsaI5r0CYnHrBlmx9+CnGdMsLiv5CWIXusPSxCHjMfr+/HplFM3ij/QKyV5C9ivLWLe63D6aIljQIU6fJ02edtNmxamNgoIzIhatZ9LLbWRWzh7CfBJAUP3TqMQxWMTe4zbavYpuRUNbqL7GbDpx9+jpuBYyAbgNxZK0bccl78QhpsZJuOM4w5k+ocqlOPC3Fp1zBSU4w1EY5m0KrHBuqogy5yPK4zUyfS+cGbGvY4gTtNp6P/oJnLDgwg9yEs8F+nVl+atf0cFN4LXn3lhIyfK21oANLHKzF5yOqIVvHKIjl3B++VJPhuW214FkbhHDrpmr4ddIWJRs=;sXWuAybq40dZIDZ8tS+z4w=="
+secured: "94OB0oOVof6mUq0CpEa7Yl94bl/WRctwMz+23CH6q2f0QBimULeGEvX0TSB90/ILqqckDdv1NXpIV0G6T/TUnqI8CmBhX/2eHNSINiV2hbg1J6D7Z5196x3wLansf/C4Y7Fcc7Au/yjuVa0UdBXRVEzppY6jdydWtcaukq85gbSwmB6jOX13yknIp11abdbre3vqkbQA1r25+qF2qzzLFpFt2wc6p3NTn64ZyYqmCjFSn6+DnrZJrsOgndZon7YHxIW+u7Oh2K5dws99S0yweCJXiD+04s1RH1W/hgNnuO3lCvR0pc8Lp+wsK3wBw+103lI+Z0dv/GA6cgFfWWKI2y8tVIcqCz1og5MtSTj4+PXnrKBouLev9arpU9BFBKWyI41ENt2uD8WrPzmL4MSqMAKk2YFBjg+uqQJqJzO4p/azUBSk/UBeiupXOEz9PcfEt36Clik7P1a0dIiYBbxypE9OFLMBUwfx+1grW6oLAEyszIKDHdSYbJMoDQ4ZZcPlbDNsVAoI/1dBp1fVvAN0dA==;vGunlnDnu6gdfBSP+2BBxA=="
 ---
 

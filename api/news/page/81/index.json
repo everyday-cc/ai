@@ -2,6 +2,101 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2022-07-24-nz-fry-up-internal-affairs-renews-deal-with-aws-25b-in-iot-spending.md",
+      "title": "NZ Fry Up: Internal Affairs renews deal with AWS; $25B in IoT spending",
+      "excerpt": "NZ Internal Affairs signs all-of-government cloud deal with AWS. The New Zealand Department of Internal Affairs has signed an all-of-government agreement with Amazon Web Services",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3667997/nz-fry-up-internal-affairs-renews-deal-with-aws-25b-in-iot-spending.html",
+      "originalUrl": "https://www.computerworld.com/article/3667997/nz-fry-up-internal-affairs-renews-deal-with-aws-25b-in-iot-spending.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/07/1200x800_fridayfryupwithtext-100853181-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3667997/nz-fry-up-internal-affairs-renews-deal-with-aws-25b-in-iot-spending.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3667997/nz-fry-up-internal-affairs-renews-deal-with-aws-25b-in-iot-spending.amp.html",
+      "publishedDateTime": "2022-07-24T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-24-a-huge-wave-of-acquisitions-is-expected-to-hit-the-machine-learning-market-as-giants-like-snowflake-take-advantage-of-discounted-valuations.md",
+      "title": "A huge wave of acquisitions is expected to hit the machine learning market as giants like Snowflake take advantage of discounted valuations",
+      "excerpt": "Investors and insiders who poured hundreds of millions into machine-learning startups now expect a big wave of acquisitions as the market sours.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/machine-learning-acquisition-takover-targets-snowflake-databricks-tecton-ai-7-2022",
+      "originalUrl": "https://www.businessinsider.com/machine-learning-acquisition-takover-targets-snowflake-databricks-tecton-ai-7-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62d9aff2d0011000190fe0fc?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/machine-learning-acquisition-takover-targets-snowflake-databricks-tecton-ai-7-2022?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/machine-learning-acquisition-takover-targets-snowflake-databricks-tecton-ai-7-2022?amp",
+      "publishedDateTime": "2022-07-24T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-24-big-tech-builds-ai-with-bad-data-so-scientists-sought-better-data.md",
       "title": "Big Tech builds AI with bad data. So scientists sought better data.",
       "excerpt": "At Facebook, he worked on AI that provided paragraph answers to ... and erred on the side of not blocking terms. Recent research has shown that filtering can introduce new problems.",
@@ -1036,83 +1131,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-portland-selected-as-host-site-for-notified-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "Portland Selected as Host Site for Notified Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
-      "excerpt": "July 22, 2022 (GLOBE NEWSWIRE) -- Notified, an Intrado business, will host a Mark Cuban Foundation Artificial Intelligence ... facial recognition, and self-driving cars to name a few.",
-      "sourceUrl": null,
-      "webUrl": "https://whnt.com/business/press-releases/globenewswire/8604430/portland-selected-as-host-site-for-notified-artificial-intelligence-bootcamp-applications-now-open/",
-      "originalUrl": "https://whnt.com/business/press-releases/globenewswire/8604430/portland-selected-as-host-site-for-notified-artificial-intelligence-bootcamp-applications-now-open/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-22T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WHNT",
-        "domain": "whnt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-physical-cognitive-activity-linked-to-cognitive-reserve.md",
-      "title": "Physical, Cognitive Activity Linked to Cognitive Reserve",
-      "excerpt": "Self-reported physical and cognitive activities are associated with cognitive reserve, especially among women, although the associations are attenuated by APOE4, according to a",
-      "sourceUrl": null,
-      "webUrl": "https://jg-tc.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_e2050e1a-8a79-5d9f-8cb3-278938e89dfb.html",
-      "originalUrl": "https://jg-tc.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_e2050e1a-8a79-5d9f-8cb3-278938e89dfb.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/jg-tc.com/content/tncms/assets/v3/editorial/c/96/c969ba57-9bcd-55ac-b5f9-4f0aa8a6e906/62dad55c414d6.image.jpg?crop=600%2C315%2C0%2C75&resize=600%2C315&order=crop%2Cresize",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-22T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "JG-TC",
-        "domain": "jg-tc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
