@@ -72,6 +72,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 21
+  - title: "Artificial Intelligence in Diabetes Management Market to show impressive growth of 35.56% CAGR during the period 2022-2027 | 126 Report Pages"
+    excerpt: "Report Pages] Artificial Intelligence in Diabetes Management market size was valued at USD 227.28 million in 2021"
+    publishedDateTime: 2022-09-27T06:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diabetes-management-market-to-show-impressive-growth-of-3556-cagr-during-the-period-2022-2027-126-report-pages-2022-09-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 12
   - title: "Global Deep Learning Chipset Market | Value and Size Expected to Reach USD 14178.14 Million | Growing at CAGR of 15.04% | Forecast Period 2022-2027"
     excerpt: "With tables and figures helping analyze worldwide Global Deep Learning Chipset market trends, this research provides key statistics on the state of the industry and is a valuable source of guidance and direction for companies and individuals interested in the market."
     publishedDateTime: 2022-09-23T07:05:00Z

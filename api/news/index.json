@@ -2,6 +2,311 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-27-sas-viya-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "SAS Viya now available in the Microsoft Azure Marketplace",
+      "excerpt": "SAS offers its industry-leading analytics platform with hourly pricing model, in-app tutorials and support for multiple languagesCARY, N.C.,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sas-viya-now-available-in-the-microsoft-azure-marketplace-1031767702",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-viya-now-available-in-the-microsoft-azure-marketplace-1031767702",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1907863/SAS__woman_screen.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-sas-launches-first-cloud-analytics-service-on-azure.md",
+      "title": "SAS launches first cloud analytics service on Azure",
+      "excerpt": "SAS is one of the old guards in the data analytics space. Its first tools were developed at North Carolina State University in the late 1960s and commercially launched in 1976. Throughout the last fifty years,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/",
+      "originalUrl": "https://venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/12/Analytics.shutterstock_160050128.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/amp/",
+      "publishedDateTime": "2022-09-27T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-ai-and-machine-learning-enters-the-kitchen-at-chipotle.md",
+      "title": "AI and Machine Learning Enters the Kitchen at Chipotle",
+      "excerpt": "The first, piloting in select Southern California restaurants, is a cook-to-needs kitchen management system that provides demand-based cooking and ingredient preparation forecasts to “optimize throughput and freshness while minimizing food waste,",
+      "sourceUrl": null,
+      "webUrl": "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enters-kitchen-chipotle",
+      "originalUrl": "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enters-kitchen-chipotle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2022-09/Chipotlane.jpg?itok=5BEjL9Eh",
+          "width": 765,
+          "height": 446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "QSR magazine",
+        "domain": "qsrmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-the-five-pitfalls-of-adopting-ai-in-financial-services-and-how-to-avoid-them.md",
+      "title": "The Five Pitfalls Of Adopting AI In Financial Services And How To Avoid Them",
+      "excerpt": "It’s great to see AI adoption at this scale, but this also makes it crucial for FSI leaders to watch for and avoid some of the following leading pitfalls in AI initiatives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/27/the-five-pitfalls-of-adopting-ai-in-financial-services-and-how-to-avoid-them/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/27/the-five-pitfalls-of-adopting-ai-in-financial-services-and-how-to-avoid-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6331b16c245509f3477d2c27/0x0.jpg?format=jpg&crop=1379,776,x0,y84,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/27/the-five-pitfalls-of-adopting-ai-in-financial-services-and-how-to-avoid-them/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/27/the-five-pitfalls-of-adopting-ai-in-financial-services-and-how-to-avoid-them/amp/",
+      "publishedDateTime": "2022-09-27T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-colossal-biosciences-spins-off-form-bio-software-for-computational-life-sciences-breakthroughs.md",
+      "title": "Colossal Biosciences spins off Form Bio software for computational life sciences breakthroughs",
+      "excerpt": "Form Bio gives life scientists a software platform for managing large datasets and computational analysis of machine learning and AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/colossal-biosciences-spins-off-form-bio-software-for-computational-life-sciences-breakthroughs/",
+      "originalUrl": "https://venturebeat.com/ai/colossal-biosciences-spins-off-form-bio-software-for-computational-life-sciences-breakthroughs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/GettyImages-1193139738-e1662682217838.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/colossal-biosciences-spins-off-form-bio-software-for-computational-life-sciences-breakthroughs/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/colossal-biosciences-spins-off-form-bio-software-for-computational-life-sciences-breakthroughs/amp/",
+      "publishedDateTime": "2022-09-27T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-this-artificial-intelligence-app-wants-to-make-you-a-better-teacher.md",
+      "title": "This Artificial Intelligence App Wants To Make You A Better Teacher",
+      "excerpt": "TeachFX raised $10 million in a Series A funding round to expand use of its app that provides feedback to teachers—confidentially.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/emmawhitford/2022/09/27/this-artificial-intelligence-app-wants-to-make-you-a-better-teacher/",
+      "originalUrl": "https://www.forbes.com/sites/emmawhitford/2022/09/27/this-artificial-intelligence-app-wants-to-make-you-a-better-teacher/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633254d6de0e387de2dd5380/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/emmawhitford/2022/09/27/this-artificial-intelligence-app-wants-to-make-you-a-better-teacher/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawhitford/2022/09/27/this-artificial-intelligence-app-wants-to-make-you-a-better-teacher/amp/",
+      "publishedDateTime": "2022-09-27T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-27-ai-wont-replace-human-intuition.md",
       "title": "AI Won’t Replace Human Intuition",
       "excerpt": "As artificial intelligence (AI) capabilities and applications have expanded, the AI field is fueling fodder for some interesting science-fiction scenarios. Elon Musk, CEO of Tesla—which relies on AI for self-driving and other key functions—has warned the world about “scary outcomes” harnessed by the power of AI-fueled robots akin to those in “Terminator” film series.",
@@ -10,7 +315,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/27/ai-wont-replace-human-intuition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -49,7 +354,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -101,6 +407,58 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-new-azure-for-operators-solution-accelerator-offers-a-fast-path-to-network-insights.md",
+      "title": "New Azure for Operators solution accelerator offers a fast path to network insights",
+      "excerpt": "Azure for Operators is introducing a network analytics solution accelerator program, providing a standardized approach to data acquisition and visualization that aids operators on their journey toward complete end-to-end AI Operations (AIOps).",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/new-azure-for-operators-solution-accelerator-offers-a-fast-path-to-network-insights/",
+      "originalUrl": "https://azure.microsoft.com/blog/new-azure-for-operators-solution-accelerator-offers-a-fast-path-to-network-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/28310219-bfcb-40c9-a353-4be56e69af1a.png",
+          "width": 1024,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T02:00:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -208,21 +566,21 @@
       ]
     },
     {
-      "path": "_news/2022-09-27-microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages.md",
-      "title": "Microsoft Azure CTO says it is time to shun C, C++ languages",
-      "excerpt": "For 84 per cent professionals in the country, machine learning (ML) followed by statistics are the two most in-demand skills that recruiters are looking for in data science professionals, a report said recently. Python remained the most used programming ...",
+      "path": "_news/2022-09-27-new-report-offers-blueprint-for-regulation-of-facial-recognition-technology.md",
+      "title": "New report offers blueprint for regulation of facial recognition technology",
+      "excerpt": "Human Technology Institute outlines a model law for facial recognition technology to protect against harmful use of this technology, but also foster innovation for public benefit.",
       "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages/94466077",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages/94466077",
+      "webUrl": "https://techxplore.com/news/2022-09-blueprint-facial-recognition-technology.html",
+      "originalUrl": "https://techxplore.com/news/2022-09-blueprint-facial-recognition-technology.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 157,
       "tags": null,
       "images": [
         {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-94466077,imgsize-15812,width-1200,height-628,overlay-ettelecom/microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/facial-recognition.jpg",
+          "width": 1920,
+          "height": 1274,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -230,13 +588,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages/94466077",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages/94466077",
-      "publishedDateTime": "2022-09-26T19:30:00-07:00",
+      "ampWebUrl": "https://techxplore.com/news/2022-09-blueprint-facial-recognition-technology.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-blueprint-facial-recognition-technology.amp",
+      "publishedDateTime": "2022-09-26T16:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "telecom.economictimes.indiatimes",
-        "domain": "indiatimes.com",
+        "name": "techxplore",
+        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -246,7 +604,7 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "Computer Vision",
         "AI"
       ]
     },
@@ -683,21 +1041,21 @@
       ]
     },
     {
-      "path": "_news/2022-09-26-cadence-brings-big-data-and-ai-analytics-to-soc-verification.md",
-      "title": "Cadence Brings Big Data And AI Analytics To SoC Verification",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead gives his analysis of Cadence's newly announced Verisium AI-Driven Verification platform and JedAI platform for speeding up verification workloads for SoC designs.",
+      "path": "_news/2022-09-26-machine-learning-in-banking-market-to-garner-2127-billion-globally-by-2031-at-322-cagr-allied-market-research.md",
+      "title": "Machine Learning in Banking Market to Garner $21.27 Billion, Globally, By 2031 at 32.2% CAGR: Allied Market Research",
+      "excerpt": "Improved productivity of banks and faster banking operations using machine learning have boosted the growth of the global machine learning in banking market. PORTLAND, Ore., Sept. /PRNewswire/ -- Alli",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/09/26/cadence-brings-big-data-and-ai-analytics-to-soc-verification/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/09/26/cadence-brings-big-data-and-ai-analytics-to-soc-verification/",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/n29013065/machine-learning-in-banking-market-to-garner-21-27-billion-globally-by-2031-at-32-2-cagr-allied-ma",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/n29013065/machine-learning-in-banking-market-to-garner-21-27-billion-globally-by-2031-at-32-2-cagr-allied-ma",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 73,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6331c919636539d4817d2c2f/0x0.jpg?format=jpg&width=1200",
-          "width": 360,
-          "height": 360,
+          "url": "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg",
+          "width": 400,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -705,23 +1063,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/09/26/cadence-brings-big-data-and-ai-analytics-to-soc-verification/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/09/26/cadence-brings-big-data-and-ai-analytics-to-soc-verification/amp/",
-      "publishedDateTime": "2022-09-26T08:51:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29013065",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29013065",
+      "publishedDateTime": "2022-09-26T08:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -730,8 +1079,9 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI"
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -878,345 +1228,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-natural-language-processing-market-assessment-2022-2028-294-cagr-to-garner-usd-12726-billion-by-2028.md",
-      "title": "Natural Language Processing Market Assessment (2022-2028) | 29.4% CAGR to Garner USD 127.26 Billion by 2028",
-      "excerpt": "Global “Natural Language Processing Market Size” report explores comprehensive and insightful Information about various",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-assessment-2022-2028-294-cagr-to-garner-usd-12726-billion-by-2028-2022-09-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-assessment-2022-2028-294-cagr-to-garner-usd-12726-billion-by-2028-2022-09-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-26T05:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-closing-the-gap-between-marketing-and-ai-systems.md",
-      "title": "Closing The Gap Between Marketing And AI Systems",
-      "excerpt": "Today, thanks to AI, even a small business can achieve great success through a global audience, democratizing this opportunity for those willing to work for it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6287969035c5da55f8c60506/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/amp/",
-      "publishedDateTime": "2022-09-26T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-how-ai-can-help-protect-us-from-future-wildfires.md",
-      "title": "How AI Can Help Protect Us From Future Wildfires",
-      "excerpt": "Researchers at Stanford University recently developed an AI model for predicting dangerous particle pollution to help track the American West’s rapidly worsening wildfire smoke.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamiehailstone/2022/09/26/how-ai-can-help-protect-us-from-future-wildfires/",
-      "originalUrl": "https://www.forbes.com/sites/jamiehailstone/2022/09/26/how-ai-can-help-protect-us-from-future-wildfires/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6331819d020d0c1a157d2c27/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamiehailstone/2022/09/26/how-ai-can-help-protect-us-from-future-wildfires/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiehailstone/2022/09/26/how-ai-can-help-protect-us-from-future-wildfires/amp/",
-      "publishedDateTime": "2022-09-26T03:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-is-artificial-intelligence-the-pill-that-health-care-needs.md",
-      "title": "Is artificial intelligence the pill that health care needs?",
-      "excerpt": "At a Toronto hospital, AI is being used to predict staffing needs in emergency departments. And it can help determine likelihood of a patient dying.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com/news/gta/2022/09/26/is-artificial-intelligence-the-pill-that-health-care-needs.html",
-      "originalUrl": "https://www.thestar.com/news/gta/2022/09/26/is-artificial-intelligence-the-pill-that-health-care-needs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestar.com/content/dam/thestar/news/gta/2022/09/26/most-canadian-post-secondary-students-are-grappling-with-mental-health-challenges-two-years-after-the-start-of-covid-19/student_stress.jpg.size.custom.crop.640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestar.com/amp/news/gta/2022/09/26/is-artificial-intelligence-the-pill-that-health-care-needs.html",
-      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/gta/2022/09/26/is-artificial-intelligence-the-pill-that-health-care-needs.html",
-      "publishedDateTime": "2022-09-26T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Toronto Star",
-        "domain": "thestar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-best-laptops-to-ignite-your-childs-creativity-get-them-ai-ready.md",
-      "title": "Best Laptops To Ignite Your Child’s Creativity - Get Them AI Ready",
-      "excerpt": "Here’s our handpicked three laptops that are powered by the OG of all the processors out there - Intel. Three Intel powered devices that perform like a beast and are considerate of your wallet as well.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/39160/best-laptops-to-ignite-your-childs-creativity-get-them-ai-ready",
-      "originalUrl": "https://in.mashable.com/tech/39160/best-laptops-to-ignite-your-childs-creativity-get-them-ai-ready",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/best-laptops-copy_uynb.620.jpg",
-          "width": 619,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/39160/best-laptops-to-ignite-your-childs-creativity-get-them-ai-ready?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/39160/best-laptops-to-ignite-your-childs-creativity-get-them-ai-ready?amp=1",
-      "publishedDateTime": "2022-09-26T01:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "in.mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-a-new-common-sense-test-for-ai-could-lead-to-smarter-machines.md",
-      "title": "A new ‘common sense’ test for AI could lead to smarter machines",
-      "excerpt": "Teaching AI common sense will be the next breakthrough in the field. But how exactly can we measure something as intangible as common sense?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/common-sense-test-for-ai-smarter-machines",
-      "originalUrl": "https://thenextweb.com/news/common-sense-test-for-ai-smarter-machines",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F09%2FOL2-1.jpg&signature=6c729ac2330cc240f65fc262dad35684",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-26T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-this-startups-ai-is-smart-enough-to-drive-different-types-of-vehicles.md",
-      "title": "This startup’s AI is smart enough to drive different types of vehicles",
-      "excerpt": "Wayve, a driverless-car startup based in London, has made a machine-learning model that can drive two different types of vehicle: a passenger car and a delivery van. It is the fir",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/09/26/1060023/wayve-ai-driverless-vehicles-cars-vans-scale-up/",
-      "originalUrl": "https://www.technologyreview.com/2022/09/26/1060023/wayve-ai-driverless-vehicles-cars-vans-scale-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/09/Wayve-Generalisation-width-2888px.jpg?w=2888",
-          "width": 2888,
-          "height": 1624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/09/26/1060023/wayve-ai-driverless-vehicles-cars-vans-scale-up/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/26/1060023/wayve-ai-driverless-vehicles-cars-vans-scale-up/amp/",
-      "publishedDateTime": "2022-09-26T00:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI in Robotics"
       ]
     }
   ],

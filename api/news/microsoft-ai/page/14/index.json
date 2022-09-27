@@ -2,6 +2,255 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-06-13-cognitive-behavioral-cbt-therapists-in-sammamish-wa.md",
+      "title": "Cognitive Behavioral (CBT) Therapists in Sammamish, WA",
+      "excerpt": "My therapeutic style is warm, engaging, empathic and collaborative, and is rooted in evidence-based approaches like Cognitive behavioral Therapy,Family Systems and Acceptance and Commitment therapy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/therapists/wa/sammamish?category=cognitive-behavioral-cbt",
+      "originalUrl": "https://www.psychologytoday.com/us/therapists/wa/sammamish?category=cognitive-behavioral-cbt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-a-worrying-phone-call-adds-to-concerns-about-sen-dianne-feinsteins-cognitive-health.md",
+      "title": "A worrying phone call adds to concerns about Sen. Dianne Feinstein's cognitive health",
+      "excerpt": "And while Traister's feature piece does center on Feinstein's long and storied career, it also evokes questions about the senator's cognitive health. NPR's All Things Considered spoke with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.npr.org/2022/06/13/1104843151/senator-dianne-feinstein-cognitive-health-continues-to-raise-concerns-traister",
+      "originalUrl": "https://www.npr.org/2022/06/13/1104843151/senator-dianne-feinstein-cognitive-health-continues-to-raise-concerns-traister",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2022/06/13/gettyimages-1240601779_wide-3616d7a7c5252ab0382618dd132f940c65b86c60.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-thrive-instead-of-just-surviving-your-hr-career-with-the-13th-batch-of-iim-calcuttas-hr-management-programme.md",
+      "title": "Thrive instead of just surviving your HR career with the 13th batch of IIM Calcutta's HR Management Programme",
+      "excerpt": "As part of the programme, participants will also receive exclusive access to Emeritus Career Services ... Many Emeritus alumni work at Microsoft, ICICI Bank, Infosys, HDFC, Airbnb, TCS, Ola ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/spotlight/thrive-instead-of-just-surviving-your-hr-career-with-the-13th-batch-of-iim-calcuttas-hr-management-programme/articleshow/92180134.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/spotlight/thrive-instead-of-just-surviving-your-hr-career-with-the-13th-batch-of-iim-calcuttas-hr-management-programme/articleshow/92180134.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-92180376,width-1070,height-580,imgsize-155502,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1070,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/spotlight/thrive-instead-of-just-surviving-your-hr-career-with-the-13th-batch-of-iim-calcuttas-hr-management-programme/amp_articleshow/92180134.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/spotlight/thrive-instead-of-just-surviving-your-hr-career-with-the-13th-batch-of-iim-calcuttas-hr-management-programme/amp_articleshow/92180134.cms",
+      "publishedDateTime": "2022-06-13T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-augmented-reality-enabled-manifest-platform-becoming-pivotal-in-military-digitization-efforts.md",
+      "title": "Augmented Reality-Enabled Manifest® Platform Becoming Pivotal in Military Digitization Efforts",
+      "excerpt": "At the Eurosatory show in Paris (June 13-17, Microsoft stand K350 ... that increase service member understanding, reduce cognitive stress, and improve operational readiness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/augmented-reality-enabled-manifest-platform-becoming-pivotal-in-military-digitization-efforts/article_c0672487-137f-5b5c-b335-f412a1ff829d.html",
+      "originalUrl": "https://www.eagletribune.com/region/augmented-reality-enabled-manifest-platform-becoming-pivotal-in-military-digitization-efforts/article_c0672487-137f-5b5c-b335-f412a1ff829d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/aa/6aa28b27-3223-59bf-b098-eb87aad19752/62a6d38ec9115.image.jpg?crop=1880%2C987%2C0%2C57&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-12T23:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-12-long-term-respiratory-cognitive-and-mental-health-issues-tied-to-vaping-study-says.md",
+      "title": "Long-term respiratory, cognitive and mental health issues tied to vaping, study says",
+      "excerpt": "SALT LAKE CITY — Lung injuries from e-cigarettes or vaping can lead to long-term issues including respiratory problems, cognitive impairment and mental health issues, according to an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ksl.com/article/50418868/long-term-respiratory-cognitive-and-mental-health-issues-tied-to-vaping-study-says",
+      "originalUrl": "https://www.ksl.com/article/50418868/long-term-respiratory-cognitive-and-mental-health-issues-tied-to-vaping-study-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.ksl.com/slc/2654/265403/26540377.jpg?filter=kslv2/responsive_story_lg",
+          "width": 1228,
+          "height": 690,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-12T00:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSL",
+        "domain": "ksl.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-get-a-deep-dive-into-azure-ai-at-microsofts-upcoming-webinar.md",
+      "title": "Get a deep-dive into Azure AI at Microsoft’s upcoming webinar",
+      "excerpt": "Microsoft’s approach to AI focuses on empowerment, innovation, and responsibility. Azure AI enables businesses to build on their own terms. Businesses can look at building applications using ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2022/06/microsofts-upcoming-webinar-towards-azure-ai/amp",
+      "originalUrl": "https://yourstory.com/2022/06/microsofts-upcoming-webinar-towards-azure-ai/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/Imageqi5m-1654840509809.jpg ",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2022/06/microsofts-upcoming-webinar-towards-azure-ai/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/06/microsofts-upcoming-webinar-towards-azure-ai/amp",
+      "publishedDateTime": "2022-06-10T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-10-spinal-posture-assessment-in-health-exams-reliably-detects-cognitive-decline.md",
       "title": "Spinal posture assessment in health exams reliably detects cognitive decline",
       "excerpt": "A mass survey of citizens aged 50 to 89 years examined whether cognitive decline could be detected by sagittal spinal balance measurement based on a radiological approach. Doctors from Shinshu ...",
@@ -1022,267 +1271,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-bumrungrad-launches-radiology-ai-assisting-radiologists-in-analyzing-locating-abnormalities-in-the-lungs-and-detecting-breast-cancer.md",
-      "title": "Bumrungrad launches Radiology AI--assisting radiologists in analyzing & locating abnormalities in the lungs and detecting breast cancer.",
-      "excerpt": "At present, Artificial intelligence (AI) has attracted global interest because it can analyze large amounts of data to revolutionize businesses and industries, especially in the medical sciences. Further,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ryt9.com/en/prg/258881",
-      "originalUrl": "https://www.ryt9.com/en/prg/258881",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ryt9.com/img/files/20220606/iqd2f93359617c9fd89d7e6628834b8968.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-05T19:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RYT9",
-        "domain": "ryt9.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-gut-bacterial-metabolite-promotes-neural-cell-death-leading-to-cognitive-decline.md",
-      "title": "Gut bacterial metabolite promotes neural cell death leading to cognitive decline",
-      "excerpt": "In their paper published in the journal Cell Host & Microbe, the group describes their study of the metabolite isoamylamine (IAA) and its impact on cognitive decline. Prior research has suggested ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/gut-bacterial-metaboli.jpg",
-          "width": 996,
-          "height": 996,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.amp",
-      "publishedDateTime": "2022-06-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-plasma-nfl-linked-with-cognitive-processing-speed-in-relapsing-ms.md",
-      "title": "Plasma NfL Linked With Cognitive Processing Speed in Relapsing MS",
-      "excerpt": "Plasma neurofilament light (NfL) concentration was tied to cognitive scores in people with relapsing MS, data from the phase III SUNBEAM trial of ozanimod (Zeposia) suggested. A post hoc analysis ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/meetingcoverage/cmsc/99068",
-      "originalUrl": "https://www.medpagetoday.com/meetingcoverage/cmsc/99068",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.medpagetoday.net/media/images/99xxx/99068.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-05T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-05-to-evolve-ai-must-face-its-limitations.md",
-      "title": "To evolve, AI must face its limitations",
-      "excerpt": "And let’s face it: although not perfect, AI’s capabilities are pretty impressive. Even something as seemingly simple and routine as a Google search represents one of AI’s most successful examples, capable of searching vastly more information at a vastly greater rate than humanly possible and consistently providing results that are (at least most of the time) exactly what you were looking for.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-must-face-its-limitations",
-      "originalUrl": "https://thenextweb.com/news/ai-must-face-its-limitations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Fmatrix-brain.jpg&signature=5e2613be0fd78bfb07d0ec832129756b",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-04T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Computer Vision",
-        "Natural Language Processing",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-05-officer-involved-shootings-in-cognitive-context.md",
-      "title": "Officer-Involved Shootings in Cognitive Context",
-      "excerpt": "This is a critical question. Cognition is basic to any given socially mediated response; and as it turns out, the cognitive importance of language, in any given OIS case, may become paramount.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/the-forensic-view/202206/officer-involved-shootings-in-cognitive-context",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/the-forensic-view/202206/officer-involved-shootings-in-cognitive-context",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-06/fvsquarepic.jpg?itok=XgYUEu96",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-forensic-view/202206/officer-involved-shootings-in-cognitive-context?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-forensic-view/202206/officer-involved-shootings-in-cognitive-context?amp",
-      "publishedDateTime": "2022-06-04T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-jain-deemed-to-be-university-to-provide-guaranteed-placements-for-all-the-aspiring-ai-and-data-engineers.md",
-      "title": "Jain (Deemed-To-Be University) to provide guaranteed placements for all the aspiring AI and data engineers",
-      "excerpt": "JAIN (Deemed-to-be University) and Futurense Technologies have joined hands to level the playing field for the upcoming talent in India with the launch of their remodelled B.Tech degree programme of Bachelor of Technology in Computer Science and Engineering with a specialisation in Artificial Intelligence and Data Engineering.",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/articles/Business/20220604/3948804.html",
-      "originalUrl": "https://news.webindia123.com/news/articles/Business/20220604/3948804.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-04T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

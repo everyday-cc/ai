@@ -37,11 +37,27 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6331ac26332d12458fdd5380/0x0.jpg?format=jpg&width=1200"
         width: 980
         height: 653
+        isCached: true
+  - title: "AI worse at recognizing images than humans"
+    excerpt: "Researchers from HSE University and Moscow Polytechnic University have discovered that AI models are unable to represent features of human vision due to a lack of tight coupling with the respective physiology,"
+    publishedDateTime: 2022-09-26T17:24:00Z
+    webUrl: "https://techxplore.com/news/2022-09-ai-worse-images-humans.html"
+    ampWebUrl: "https://techxplore.com/news/2022-09-ai-worse-images-humans.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-ai-worse-images-humans.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 61
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/ai.jpg"
+        width: 1920
+        height: 1636
         isCached: true
 
 secured: "poKTzvxt/v8xofCCnSN7vyBWGaIgteMHlDBkEP00kKItCBmy8iIB0WhZuHpzAgQarubyGIBQtzuDYF11ytOIwynEgRuKKjrDpxKE4en9Szu1Ty0SURnnAeiN1PSPOW7CH4yji915d5RIwxnvt+lgmNGwALLCmazgTC/JIUIyflivvzn5sy2NIadYZdfC8ksMUEG86iUNkWE5UPOomHBB4/muqxw4nOa45MwlCICu2RsG801srk4GNLzKsNUZKH8FnJ/pxs7XmfxlNA57UakqIOL2uJ9/cRX7Qa/ZB8Rq1HAh69zR4GEqdHg/PiizrbQ+JvrlEsTXst8F644EU2Ak5IONSHkZQbfiAWQEMICqXN0c+ZRgiEze3ovXnS3iHrwDdImE5k0QJ1CiV4sFPYvyePXViQT+ONVD+PbLsL//+slWGeY1Bb6Y3Twl4YR4z/dbRIxOF57mv1uJNYMPpAEvfW2L9ooLg4S4JE8MWj4HLKvZ363V48//7PDpvuNCujL56ik+X0HBGn3izW8zU/8kOQ==;WbRqTR0RuBNx8QW1u1FOuQ=="

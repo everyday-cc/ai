@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-27T13:49:00Z
 originalUrl: "https://www.cio.com/article/408133/computer-vision-accelerates-education.html"
 webUrl: "https://www.cio.com/article/408133/computer-vision-accelerates-education.html"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: CIO

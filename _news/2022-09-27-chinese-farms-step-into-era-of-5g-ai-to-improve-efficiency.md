@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-27T12:25:00Z
 originalUrl: "https://www.yicaiglobal.com/news/chinese-farms-step-into-era-of-5g-ai-to-improve-efficiency"
 webUrl: "https://www.yicaiglobal.com/news/chinese-farms-step-into-era-of-5g-ai-to-improve-efficiency"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Yicai Global

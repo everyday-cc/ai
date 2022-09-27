@@ -29,43 +29,31 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Software Market Business overview 2022, and Forecast to 2028 | Microsoft, Express Scribe, Nuance"
-    excerpt: "Download Free Sample Deep Learning Software Market report  The worldwide Deep Learning Software Market is expected to grow at a booming CAGR of 2022-2030, rising from USD billion in 2021 to USD billion in 2028."
-    publishedDateTime: 2022-09-23T05:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-business-overview-2022-and-forecast-to-2028-microsoft-express-scribe-nuance-2022-09-23"
+  - title: "Machine Learning in Banking Market to Garner $21.27 Billion, Globally, By 2031 at 32.2% CAGR: Allied Market Research"
+    excerpt: "Improved productivity of banks and faster banking operations using machine learning have boosted the growth of the global machine learning in banking market. PORTLAND, Ore., Sept. /PRNewswire/ -- Alli"
+    publishedDateTime: 2022-09-26T15:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/n29013065/machine-learning-in-banking-market-to-garner-21-27-billion-globally-by-2031-at-32-2-cagr-allied-ma"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29013065"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29013065"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 53
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
-    excerpt: "New Jersey, NJ -- (SBWIRE) -- 09/23/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
-    publishedDateTime: 2022-09-23T05:15:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-58"
+  - title: "Home Security System Global Market Report 2022: Implementation of AI & Deep Learning Drives Sector Growth - ResearchAndMarkets.com"
+    excerpt: "The global home security system market is expected to grow from $3.92 billion in 2021 to $3.96 billion in 2022 at a compound annual growth rate (CAGR) of 1.2%. The growth is mainly due to the companies resuming their operations and adapting to the new normal while recovering from the COVID-19 impact,"
+    publishedDateTime: 2022-09-26T12:10:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-26-home-security-system-global-market-report-2022-implementation-of-ai-and-deep-learning-drives-sector-growth-researchandmarketscom"
     type: article
     provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 50
-    images:
-      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Bambu Offers Wealth Management Predictive Planning Solution for Microsoft Cloud for Financial Services"
-    excerpt: "Bambu announced the launch of their Wealth Management Predictive Planning solution for Microsoft Cloud for Financial Services."
-    publishedDateTime: 2022-09-23T19:11:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/09/196407-bambu-offers-wealth-management-predictive-planning-solution-for-microsoft-cloud-for-financial-services/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 5
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 21
 
 secured: "ZoLecZv5dGTLxBi6l/2n1mWsh3v1mBpZASXbvWZiUXlf93RwHDv5iZ2gE/r1Ny+RGqLd691g8niUpk3bnvn01fMzd8r8p+41204ORryP1kRx5sj5czI3U2PcEOL5KYct7BEeFXOhiQH58As7ArAzAWAbCAXATdDnGP9Q8fo+xRBnoOPMCoLeR92CwqkDqeFX6Xw6go2vzKqWGTup2uNe97kQ65RNibxm8/D89i2vTdl+ITfaB09xAVjV8nCKX8KxpUnGyFnlVntRWUK5PUqyA8q9fi9J/Wtl3Itj0FYMPRPnYURSLXCT0nS2pi3lBYRZpZfPpMxP/LhvR4DfYBXhBtqZxWLU0UV7kUrEetBUBeU=;RBHM4XHe9E1v7pyudv1lQQ=="
 ---

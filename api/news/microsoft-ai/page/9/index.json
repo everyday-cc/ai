@@ -2,6 +2,274 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-07-25-xoriant-xcelerate-iot-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Xoriant X·CELERATE IoT Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Microsoft Azure customers worldwide now gain access to X·CELERATE IoT to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/25/9644286.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/25/9644286.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/449859/PRNE_Xoriant_Logo.jpg",
+          "width": 400,
+          "height": 260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-23-azure-synapse-vs-databricks-data-platform-comparison.md",
+      "title": "Azure Synapse vs. Databricks: Data Platform Comparison",
+      "excerpt": "For those wanting a top-class data warehouse for analytics, Azure Synapse wins. But for those needing more robust ELT (extract, load, transform), data science, and machine learning features ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/azure-synapse-vs-databricks/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/azure-synapse-vs-databricks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/Specops-bruce-mars-xj8qrWvuOEs-unsplash-1-scaled-1.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-23T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-23-sony-bravia-xr-oled-a80k-series-with-4k-resolution-cognitive-processor-xr-launched-in-india-check-price-specs.md",
+      "title": "Sony Bravia XR OLED A80K series with 4K resolution, cognitive processor XR launched in India: Check price, specs",
+      "excerpt": "Click to share on Twitter (Opens in new window) Click to share on Facebook (Opens in new window) Click to share on WhatsApp (Opens in new window) The cognitive processor XR powering the TVs will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/industry/technology/sony-bravia-xr-oled-a80k-series-tv-4k-resolution-india-launch-price-features/2603805/",
+      "originalUrl": "https://www.financialexpress.com/industry/technology/sony-bravia-xr-oled-a80k-series-tv-4k-resolution-india-launch-price-features/2603805/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/07/ezgif-2-cb277f5b6f.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/industry/technology/sony-bravia-xr-oled-a80k-series-tv-4k-resolution-india-launch-price-features/2603805/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/sony-bravia-xr-oled-a80k-series-tv-4k-resolution-india-launch-price-features/2603805/lite/",
+      "publishedDateTime": "2022-07-23T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-22-physical-cognitive-activity-linked-to-cognitive-reserve.md",
+      "title": "Physical, Cognitive Activity Linked to Cognitive Reserve",
+      "excerpt": "Self-reported physical and cognitive activities are associated with cognitive reserve, especially among women, although the associations are attenuated by APOE4, according to a",
+      "sourceUrl": null,
+      "webUrl": "https://jg-tc.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_e2050e1a-8a79-5d9f-8cb3-278938e89dfb.html",
+      "originalUrl": "https://jg-tc.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_e2050e1a-8a79-5d9f-8cb3-278938e89dfb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/jg-tc.com/content/tncms/assets/v3/editorial/c/96/c969ba57-9bcd-55ac-b5f9-4f0aa8a6e906/62dad55c414d6.image.jpg?crop=600%2C315%2C0%2C75&resize=600%2C315&order=crop%2Cresize",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-22T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "JG-TC",
+        "domain": "jg-tc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-22-cognitive-computing-market-2030-industry-analysis-trends-market-size-and-forecasts.md",
+      "title": "Cognitive Computing Market 2030 Industry Analysis, Trends, Market Size And Forecasts",
+      "excerpt": "Key Companies Covered in the Cognitive Computing Market Research Report Are 3M, Google LLC, Hewlett Packard Enterprise Development LP, International Business Machines Corporation, Microsoft ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104575810/Cognitive-Computing-Market-2030-Industry-Analysis-Trends-Market-Size-And-Forecasts",
+      "originalUrl": "https://menafn.com/1104575810/Cognitive-Computing-Market-2030-Industry-Analysis-Trends-Market-Size-And-Forecasts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?695795",
+          "width": 333,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-22T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-22-goliath-turns-david-as-ex-bcx-exec-takes-on-aws-azure.md",
+      "title": "Goliath turns 'David' as ex-BCX exec takes on AWS, Azure",
+      "excerpt": "With Alibaba in its corner, former BCX exec Mervyn Goliath’s company BGPAfrica wants take on hyperscalers AWS and Azure in the South African market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/KzQenMjy86a7Zd2r",
+      "originalUrl": "https://www.itweb.co.za/content/KzQenMjy86a7Zd2r",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/hE2D6RZx09egSag8JvCukRvtvORWjpo-wFt2alLVxCG7vVY4w_uDABwef1Q4muPxEmx2aelXKRj41R3KECUwilVou1Jw5uPlInE=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/KzQenMjy86a7Zd2r",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KzQenMjy86a7Zd2r",
+      "publishedDateTime": "2022-07-22T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-22-dont-get-too-emotional-about-emotion-reading-ai.md",
       "title": "Don’t get too emotional about emotion-reading AI",
       "excerpt": "Artificial intelligence tools now try to figure out whether people are happy, sad or disgusted. The reality may surprise and anger you.",
@@ -1095,259 +1363,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-online-math-tutoring-service-uses-ai-to-help-boost-students-skills-and-confidence.md",
-      "title": "Online math tutoring service uses AI to help boost students’ skills and confidence",
-      "excerpt": "The post Online math tutoring service uses AI to help boost students’ skills and confidence appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://blogs.microsoft.com/ai/eedi-online-math-quiz/",
-      "originalUrl": "https://blogs.microsoft.com/ai/eedi-online-math-quiz/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-13T05:59:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-long-covid-treatments-hyperbaric-oxygen-therapy-could-be-the-key-new-study-reveals.md",
-      "title": "Long COVID treatments: Hyperbaric oxygen therapy could be the key, new study reveals",
-      "excerpt": "The study included 73 long haulers with post-COVID-19 cognitive symptoms ... which called on the Department of Health and Human Services to expand existing research on the condition and coordinate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/seattle-news/health/long-covid-treatments-hyperbaric-oxygen-therapy-could-be-the-key-new-study-reveals/",
-      "originalUrl": "https://www.seattletimes.com/seattle-news/health/long-covid-treatments-hyperbaric-oxygen-therapy-could-be-the-key-new-study-reveals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-13T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-intel-releases-open-source-ai-reference-kits.md",
-      "title": "Intel Releases Open Source AI Reference Kits",
-      "excerpt": "Open source designs simplify AI development for solutions across healthcare, manufacturing, retail and other industries. What's New: Intel has released the first set of open source AI reference kits s",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/07/b28037885/intel-releases-open-source-ai-reference-kits",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/b28037885/intel-releases-open-source-ai-reference-kits",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g",
-          "width": 900,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28037885",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28037885",
-      "publishedDateTime": "2022-07-12T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-global-machine-learning-as-a-service-market-to-garner-30266-billion-by-2030-states-the-report-by-allied-market-research.md",
-      "title": "Global Machine Learning as a Service Market to Garner $302.66 Billion by 2030, States the Report by Allied Market Research",
-      "excerpt": "Surge in demand for cloud computing, increased deployment of technologies including artificial intelligence and cognitive ... Amazon Web Services, Yottamine Analytics, Microsoft Corporation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/global-machine-learning-as-a-service-market-to-garner-302-66-billion-by-2030-states-the-report-by-allied-market-research",
-      "originalUrl": "https://www.digitaljournal.com/pr/global-machine-learning-as-a-service-market-to-garner-302-66-billion-by-2030-states-the-report-by-allied-market-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/07/1059dde080fa534afb8066121ae5641880dfe65c-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-12T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-the-cambridge-handbook-of-working-memory-and-language.md",
-      "title": "The Cambridge Handbook of Working Memory and Language",
-      "excerpt": "Measuring Individual Differences in Working Memory Capacity and Attention Control and Their Contribution to Language Comprehension Working memory and language are tightly intertwined cognitive systems. Working memory enables language acquisition and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/books/cambridge-handbook-of-working-memory-and-language/cognitive-neuroscience-of-working-memory-and-language/DE0E2810BC4ECAECDB2EDF2CD7B4D9D3",
-      "originalUrl": "https://www.cambridge.org/core/books/cambridge-handbook-of-working-memory-and-language/cognitive-neuroscience-of-working-memory-and-language/DE0E2810BC4ECAECDB2EDF2CD7B4D9D3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cambridge.org/core/cambridge-core/public/images/logo_core_page_share_600x600.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-10T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-merck-accelerator-welcomes-biotech-start-ups-specializing-in-ai-and-machine-learning.md",
-      "title": "Merck accelerator welcomes biotech start-ups specializing in AI and machine learning",
-      "excerpt": "Merck (MSD outside the US and Canada) is welcoming applications from early-stage biomedical start-ups for its newly launched Merck Digital Sciences Studio (MDSS): which seeks to support technologies for drug discovery and development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biopharma-reporter.com/Article/2022/07/08/merck-accelerator-welcomes-biotech-start-ups-with-ai-focus",
-      "originalUrl": "https://www.biopharma-reporter.com/Article/2022/07/08/merck-accelerator-welcomes-biotech-start-ups-with-ai-focus",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.biopharma-reporter.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/biopharma-reporter.com/article/2022/07/08/merck-accelerator-welcomes-biotech-start-ups-with-ai-focus/15579011-1-eng-GB/Merck-accelerator-welcomes-biotech-start-ups-with-AI-focus.jpg",
-          "width": 788,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-08T01:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "biopharma-reporter",
-        "domain": "biopharma-reporter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-27-ai-and-machine-learning-enters-the-kitchen-at-chipotle.md",
+      "title": "AI and Machine Learning Enters the Kitchen at Chipotle",
+      "excerpt": "The first, piloting in select Southern California restaurants, is a cook-to-needs kitchen management system that provides demand-based cooking and ingredient preparation forecasts to “optimize throughput and freshness while minimizing food waste,",
+      "sourceUrl": null,
+      "webUrl": "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enters-kitchen-chipotle",
+      "originalUrl": "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enters-kitchen-chipotle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2022-09/Chipotlane.jpg?itok=5BEjL9Eh",
+          "width": 765,
+          "height": 446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "QSR magazine",
+        "domain": "qsrmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-09-26-inventecs-rhyperior-is-the-powerhouse-gpu-accelerator-system-every-business-in-the-ai-and-ml-world-needs.md",
       "title": "Inventec's Rhyperior Is the Powerhouse GPU Accelerator System Every Business in the AI And ML World Needs",
       "excerpt": "Rhyperior is the ideal and effective system to enhance performance dramatically for the modern workload.TAIPEI, Sept. 26, 2022 /PRNewswire/",
@@ -56,6 +101,50 @@
       ]
     },
     {
+      "path": "_news/2022-09-26-machine-learning-in-banking-market-to-garner-2127-billion-globally-by-2031-at-322-cagr-allied-market-research.md",
+      "title": "Machine Learning in Banking Market to Garner $21.27 Billion, Globally, By 2031 at 32.2% CAGR: Allied Market Research",
+      "excerpt": "Improved productivity of banks and faster banking operations using machine learning have boosted the growth of the global machine learning in banking market. PORTLAND, Ore., Sept. /PRNewswire/ -- Alli",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/n29013065/machine-learning-in-banking-market-to-garner-21-27-billion-globally-by-2031-at-32-2-cagr-allied-ma",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/n29013065/machine-learning-in-banking-market-to-garner-21-27-billion-globally-by-2031-at-32-2-cagr-allied-ma",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29013065",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29013065",
+      "publishedDateTime": "2022-09-26T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-09-25-why-ai-will-never-rule-the-world.md",
       "title": "Why AI will never rule the world",
       "excerpt": "Despite fears that AI will one day take over the world, some experts contend that our existing AI systems are incapable of surpassing human intelligence",
@@ -106,102 +195,6 @@
         "Machine Learning",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-deep-learning-software-market-business-overview-2022-and-forecast-to-2028-microsoft-express-scribe-nuance.md",
-      "title": "Deep Learning Software Market Business overview 2022, and Forecast to 2028 | Microsoft, Express Scribe, Nuance",
-      "excerpt": "Download Free Sample Deep Learning Software Market report  The worldwide Deep Learning Software Market is expected to grow at a booming CAGR of 2022-2030, rising from USD billion in 2021 to USD billion in 2028.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-software-market-business-overview-2022-and-forecast-to-2028-microsoft-express-scribe-nuance-2022-09-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-software-market-business-overview-2022-and-forecast-to-2028-microsoft-express-scribe-nuance-2022-09-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T22:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-how-ai-and-machine-learning-can-help-in-better-weather-forecast.md",
-      "title": "How AI and machine learning can help in better weather forecast",
-      "excerpt": "AI can be very useful for making analysis and especially making city-based local forecasts.' The recent floods in Bengaluru have raised many concerns regarding the increase in extreme weather events and its impact on urban planning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rediff.com/news/report/tech-how-ai-and-machine-learning-can-help-in-better-weather-forecast/20220923.htm",
-      "originalUrl": "https://www.rediff.com/news/report/tech-how-ai-and-machine-learning-can-help-in-better-weather-forecast/20220923.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://im.rediff.com/345-230/news/2022/jul/monsoon-6-o.jpg",
-          "width": 345,
-          "height": 230,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.rediff.com/amp/news/report/tech-how-ai-and-machine-learning-can-help-in-better-weather-forecast/20220923.htm",
-      "cdnAmpWebUrl": "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/news/report/tech-how-ai-and-machine-learning-can-help-in-better-weather-forecast/20220923.htm",
-      "publishedDateTime": "2022-09-22T21:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "rediff.com",
-        "domain": "rediff.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {

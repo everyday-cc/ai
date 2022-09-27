@@ -2,6 +2,50 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-06-21-accurate-diagnosis-of-brain-tumors-using-artificial-intelligence.md",
+      "title": "Accurate diagnosis of brain tumors using artificial intelligence",
+      "excerpt": "Artificial intelligence was found to be superior in the areas of accuracy, precision and misclassification, among others, while professionals performed better in sensitivity and specificity.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-06-accurate-diagnosis-brain-tumors-artificial.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-06-accurate-diagnosis-brain-tumors-artificial.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/accurate-diagnosis-of.jpg",
+          "width": 2880,
+          "height": 1347,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-06-accurate-diagnosis-brain-tumors-artificial.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-accurate-diagnosis-brain-tumors-artificial.amp",
+      "publishedDateTime": "2022-06-21T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-china-based-jidu-showcases-concept-robocar-with-visionlidar-self-driving-systems.md",
       "title": "China-based Jidu showcases concept robocar with vision+LiDAR self-driving systems",
       "excerpt": "Jidu, an EV joint venture of Baidu and Geely, showcased its first automotive concept robocar Robo-01 earlier this month. Following the establishment of the company in March 2021, it took Jidu only ...",
@@ -1281,58 +1325,6 @@
         "name": "Free Malaysia Today",
         "domain": "freemalaysiatoday.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-tesla-autopilot-and-other-driver-assist-systems-linked-to-hundreds-of-crashes.md",
-      "title": "Tesla Autopilot and Other Driver-Assist Systems Linked to Hundreds of Crashes",
-      "excerpt": "Teslas operating with Autopilot, the more ambitious Full Self Driving mode or any of their associated component features were in 273 crashes. Five of those Tesla crashes were fatal. The data was ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/06/15/business/self-driving-car-nhtsa-crash-data.html",
-      "originalUrl": "https://www.nytimes.com/2022/06/15/business/self-driving-car-nhtsa-crash-data.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/06/15/business/15auto-safety/15auto-safety-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/06/15/business/self-driving-car-nhtsa-crash-data.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/06/15/business/self-driving-car-nhtsa-crash-data.amp.html",
-      "publishedDateTime": "2022-06-16T01:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-27T13:11:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/traceable-ai-taps-richard-bird-as-chief-security-officer-1031767184"
 webUrl: "https://markets.businessinsider.com/news/stocks/traceable-ai-taps-richard-bird-as-chief-security-officer-1031767184"
 type: article
+quality: 66
+heat: 66
+published: false
 
 provider:
   name: Business Insider

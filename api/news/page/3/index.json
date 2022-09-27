@@ -2,15 +2,67 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-09-23-deep-learning-software-market-business-overview-2022-and-forecast-to-2028-microsoft-express-scribe-nuance.md",
-      "title": "Deep Learning Software Market Business overview 2022, and Forecast to 2028 | Microsoft, Express Scribe, Nuance",
-      "excerpt": "Download Free Sample Deep Learning Software Market report  The worldwide Deep Learning Software Market is expected to grow at a booming CAGR of 2022-2030, rising from USD billion in 2021 to USD billion in 2028.",
+      "path": "_news/2022-09-23-nvidias-new-ai-model-quickly-generates-objects-and-characters-for-virtual-worlds.md",
+      "title": "NVIDIA's new AI model quickly generates objects and characters for virtual worlds",
+      "excerpt": "NVIDIA is looking to take the sting out of creating virtual 3D worlds with a new artificial intelligence model. GET3D can generate characters, buildings, vehicles and other types of 3D objects, NVIDIA says.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-software-market-business-overview-2022-and-forecast-to-2028-microsoft-express-scribe-nuance-2022-09-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-software-market-business-overview-2022-and-forecast-to-2028-microsoft-express-scribe-nuance-2022-09-23",
+      "webUrl": "https://www.engadget.com/nvidia-ai-model-get3d-virtual-worlds-objects-130021127.html",
+      "originalUrl": "https://www.engadget.com/nvidia-ai-model-get3d-virtual-worlds-objects-130021127.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-09/429930e0-3a94-11ed-afeb-8a9da43fae5d",
+          "width": 1280,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-23T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-09-23-artificial-intelligence-in-healthcare-market-research-on-present-state-and-future-growth-prospects-of-key-players-forecast-by-2022-to-2027.md",
+      "title": "Artificial Intelligence in Healthcare Market Research on Present State and Future Growth Prospects of Key Players, Forecast by 2022 To 2027",
+      "excerpt": "Sep 23, 2022 (The Expresswire) -- \"Artificial Intelligence in Healthcare Market\" valuation is projected to reach 22590 Mn USD by 2026, and it is estimated",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-research-on-present-state-and-future-growth-prospects-of-key-players-forecast-by-2022-to-2027-2022-09-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-research-on-present-state-and-future-growth-prospects-of-key-players-forecast-by-2022-to-2027-2022-09-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -26,7 +78,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T22:42:00-07:00",
+      "publishedDateTime": "2022-09-23T05:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -49,27 +101,26 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-09-23-how-ai-and-machine-learning-can-help-in-better-weather-forecast.md",
-      "title": "How AI and machine learning can help in better weather forecast",
-      "excerpt": "AI can be very useful for making analysis and especially making city-based local forecasts.' The recent floods in Bengaluru have raised many concerns regarding the increase in extreme weather events and its impact on urban planning.",
+      "path": "_news/2022-09-23-the-role-of-ai-in-sports-fan-engagement.md",
+      "title": "The Role Of AI In Sports Fan Engagement",
+      "excerpt": "Scouts had been using the same processes since these sports began. No one understood these new methods, and many felt threatened by them. Expected goals (xG) in soccer was another metric people didn’t understand at first but that is now widely embraced.",
       "sourceUrl": null,
-      "webUrl": "https://www.rediff.com/news/report/tech-how-ai-and-machine-learning-can-help-in-better-weather-forecast/20220923.htm",
-      "originalUrl": "https://www.rediff.com/news/report/tech-how-ai-and-machine-learning-can-help-in-better-weather-forecast/20220923.htm",
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/09/23/the-role-of-ai-in-sports-fan-engagement/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/09/23/the-role-of-ai-in-sports-fan-engagement/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 88,
       "tags": null,
       "images": [
         {
-          "url": "https://im.rediff.com/345-230/news/2022/jul/monsoon-6-o.jpg",
-          "width": 345,
-          "height": 230,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/619cdb4597a22d4d02166969/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 737,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -77,13 +128,64 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://m.rediff.com/amp/news/report/tech-how-ai-and-machine-learning-can-help-in-better-weather-forecast/20220923.htm",
-      "cdnAmpWebUrl": "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/news/report/tech-how-ai-and-machine-learning-can-help-in-better-weather-forecast/20220923.htm",
-      "publishedDateTime": "2022-09-22T21:30:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/09/23/the-role-of-ai-in-sports-fan-engagement/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/09/23/the-role-of-ai-in-sports-fan-engagement/amp/",
+      "publishedDateTime": "2022-09-23T04:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "rediff.com",
-        "domain": "rediff.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-23-samsung-may-be-working-on-dual-udc-facial-recognition-tech.md",
+      "title": "Samsung May Be Working On Dual-UDC Facial Recognition Tech",
+      "excerpt": "Samsung may be working on a dual-UDC facial recognition system for smartphones using two hidden under-display cameras.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2022/09/samsung-dual-udc-facial-recognition-tech.html",
+      "originalUrl": "https://www.androidheadlines.com/2022/09/samsung-dual-udc-facial-recognition-tech.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2022/08/Samsung-Galaxy-Z-Fold-4-Review-AM-AH-16.jpg",
+          "width": 1600,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2022/09/samsung-dual-udc-facial-recognition-tech.html?amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/09/samsung-dual-udc-facial-recognition-tech.html?amp",
+      "publishedDateTime": "2022-09-23T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -93,7 +195,161 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-23-the-pitch-deck-ai-startup-paretos-used-to-raise-10-million.md",
+      "title": "The pitch deck AI startup Paretos used to raise $10 million",
+      "excerpt": "Paretos offers a decision-intelligence platform that helps companies solve complex problems without having to hire data scientists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/see-the-pitch-deck-ai-startup-paretos-raise-10-million-2022-9",
+      "originalUrl": "https://www.businessinsider.com/see-the-pitch-deck-ai-startup-paretos-raise-10-million-2022-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/632d8e4db431eb0019815c5f?width=1200&format=jpeg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-23T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-23-is-ai-really-a-job-killer-these-experts-say-no.md",
+      "title": "Is AI Really A Job Killer? These Experts Say No",
+      "excerpt": "Many experts predict that AI and machine learning will wipe out thousands of jobs worldwide — but authors Thomas Davenport and Steven Miller believe that AI and intelligent technology will augment human work,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/23/is-ai-really-a-job-killer-these-experts-say-no/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/23/is-ai-really-a-job-killer-these-experts-say-no/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/632d6ad7abb402c6eadd5380/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/23/is-ai-really-a-job-killer-these-experts-say-no/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/09/23/is-ai-really-a-job-killer-these-experts-say-no/amp/",
+      "publishedDateTime": "2022-09-23T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-23-fareye-achieves-aws-supply-chain-competency.md",
+      "title": "FarEye Achieves AWS Supply Chain Competency",
+      "excerpt": "FarEye has announced that it is one of the first companies to achieve the Amazon Web Services (AWS) supply chain competency in the Software Offering: Move category. This designation recognizes FarEye for helping customers solve their critical supply chain challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/en-in/news-and-trends/fareye-achieves-aws-supply-chain-competency/435911",
+      "originalUrl": "https://www.entrepreneur.com/en-in/news-and-trends/fareye-achieves-aws-supply-chain-competency/435911",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1663918868-Untitleddesign-2022-09-23T130743482.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-23T00:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -191,6 +447,40 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-23-automotive-artificial-intelligence-ai-market-size-to-hit-usd-191-bn-by-2030.md",
+      "title": "Automotive Artificial Intelligence (AI) Market Size To Hit USD 19.1 Bn By 2030",
+      "excerpt": "The global automotive artificial intelligence (AI) market size was valued at USD 2.9 billion in 2021. The development in the auto business is supposed to drive the automotive artificial intelligence market.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104911136/Automotive-Artificial-Intelligence-AI-Market-Size-To-Hit-USD-191-Bn-By-2030",
+      "originalUrl": "https://menafn.com/1104911136/Automotive-Artificial-Intelligence-AI-Market-Size-To-Hit-USD-191-Bn-By-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -494,6 +784,83 @@
       ]
     },
     {
+      "path": "_news/2022-09-22-highbyte-expands-industrial-connectivity-from-microsoft-azure-iot-edge-to-azure-digital-twins.md",
+      "title": "HighByte Expands Industrial Connectivity from Microsoft Azure IoT Edge to Azure Digital Twins",
+      "excerpt": "The industrial software company has expanded cloud connectivity and improved enterprise IT management with HighByte Intelligence Hub version 2.5.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/products/september-2022/highbyte-industrial-connectivity-microsoft-azure",
+      "originalUrl": "https://www.automation.com/en-us/products/september-2022/highbyte-industrial-connectivity-microsoft-azure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/aa63c977-cdce-4db8-9dff-034bafe0dadc/Highbyte-prod-Sept-22-2022-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-22-falkonry-unveils-gpu-based-high-speed-time-series-anomaly-detection-application.md",
+      "title": "Falkonry Unveils GPU-Based, High-Speed Time Series Anomaly Detection Application",
+      "excerpt": "Falkonry today announced an automated anomaly detection application called Falkonry Insight which operates on high-speed sensor time series data. Insight is the newest addition to Falkonry's Time Series AI Suite to drive higher operational reliability and yield,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/09/22/9679188.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/09/22/9679188.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-22-openai-open-sources-whisper-a-multilingual-speech-recognition-system.md",
       "title": "OpenAI open-sources Whisper, a multilingual speech recognition system",
       "excerpt": "OpenAI has released Whisper, a robust speech recognition model that can understand and transcribe multiple languages.",
@@ -542,40 +909,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-falkonry-unveils-gpu-based-high-speed-time-series-anomaly-detection-application.md",
-      "title": "Falkonry Unveils GPU-Based, High-Speed Time Series Anomaly Detection Application",
-      "excerpt": "Falkonry today announced an automated anomaly detection application called Falkonry Insight which operates on high-speed sensor time series data. Insight is the newest addition to Falkonry’s Time Series AI Suite to drive higher operational reliability and yield,",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/falkonry-unveils-gpu-based-high-speed-time-series-anomaly-detection-application/",
-      "originalUrl": "https://www.datanami.com/this-just-in/falkonry-unveils-gpu-based-high-speed-time-series-anomaly-detection-application/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -680,50 +1013,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute.md",
-      "title": "Palo Alto Networks 5G-Native Security Now Available on Microsoft Azure Private Multi-Access Edge Compute",
-      "excerpt": "PRNewswire/ — Palo Alto Networks (NASDAQ: PANW), a Microsoft Azure private MEC ecosystem partner, today announced availability of VM-Series Virtual Next-Generation Firewall (NGFW) technology on the Azure Marketplace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.darkreading.com/cloud/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute",
-      "originalUrl": "https://www.darkreading.com/cloud/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.darkreading.com/images/og-image.jpg",
-          "width": 342,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dark Reading",
-        "domain": "darkreading.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     },
     {
@@ -866,38 +1155,29 @@
       ]
     },
     {
-      "path": "_news/2022-09-22-kittyhawk-google-co-founder-larry-pages-flying-car-company-will-shut-down.md",
-      "title": "Kittyhawk, Google co-founder Larry Page’s flying-car company, will shut down",
-      "excerpt": "Kittyhawk, the air-taxi company backed by Google co-founder Larry Page, will close but its technology is expected to live on in the form of its Wisk Aero joint venture with Boeing Co.",
+      "path": "_news/2022-09-22-palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute.md",
+      "title": "Palo Alto Networks 5G-Native Security Now Available on Microsoft Azure Private Multi-Access Edge Compute",
+      "excerpt": "Palo Alto Networks 5G-Native Security Now Available on Microsoft Azure Private Multi-Access Edge Compute Sep 22, 2022 (PRNewswire via COMTEX) -- PR",
       "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3193358/kittyhawk-google-co-founder-larry-pages-flying-car-company-will",
-      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3193358/kittyhawk-google-co-founder-larry-pages-flying-car-company-will",
+      "webUrl": "https://www.marketwatch.com/press-release/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute-2022-09-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute-2022-09-22",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/09/22/59887eef-ea7a-4c81-b380-d5100f7be126_6b9573cf.jpg?itok=5RkYlhbY&v=1663814203",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T03:39:00-07:00",
+      "publishedDateTime": "2022-09-22T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -913,291 +1193,9 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-self-driving-hyundai-spotted-on-pie-likely-part-of-test-for-driverless-taxis.md",
-      "title": "Self-Driving Hyundai Spotted On PIE, Likely Part Of Test For Driverless Taxis",
-      "excerpt": "A motorist spotted a self-driving car along the PIE on 16 Sep. The driverless vehicle may be out for a driverless taxi test.",
-      "sourceUrl": null,
-      "webUrl": "https://mustsharenews.com/self-driving-car-pie/",
-      "originalUrl": "https://mustsharenews.com/self-driving-car-pie/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mustsharenews.com/wp-content/uploads/2022/09/Self-Driving-Car-Spotted-On-PIE-May-Be-Part-Of-Test-For-Driverless-Taxis-1.jpg",
-          "width": 1500,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mustsharenews.com/self-driving-car-pie/amp/",
-      "cdnAmpWebUrl": "https://mustsharenews-com.cdn.ampproject.org/c/s/mustsharenews.com/self-driving-car-pie/amp/",
-      "publishedDateTime": "2022-09-22T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lee",
-        "domain": "mustsharenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-humanitys-fight-against-covid-the-promise-of-artificial-intelligence.md",
-      "title": "Humanity’s fight against Covid: The promise of artificial intelligence",
-      "excerpt": "Few know that Coronavirus and its allied disease Covid-19 was first discovered by a data-mining program. HealthMap, a website run by Boston Children's Hospital, raised an alarm about multiple cases of pneumonia in Wuhan,",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/humanitys-fight-against-covid-the-promise-of-artificial-intelligence/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/humanitys-fight-against-covid-the-promise-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/humanitys-fight-against-covid-the-promise-of-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/humanitys-fight-against-covid-the-promise-of-artificial-intelligence/",
-      "publishedDateTime": "2022-09-22T01:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-need-ai-powered-voiceovers-micmonster-is-50-off.md",
-      "title": "Need AI-powered voiceovers? Micmonster is 50% off",
-      "excerpt": "In fact, Micmonster earned 5 stars on AppSumo and 4.5 out of 5 on BloggersIdeas. If you're just starting out with the platform, it's easy enough to come up with \"voice talent\" on the fly. Simply enter your own words or copy and paste blocks of text into the engine,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/need-ai-powered-voiceovers-micmonster-is-50-off/",
-      "originalUrl": "https://www.zdnet.com/article/need-ai-powered-voiceovers-micmonster-is-50-off/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/521ae7bff5b8efbd5e65132a452e3eeb945f685a/2022/09/16/880d3692-68da-4658-abb2-31456cd4908c/zd-micmonster.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/need-ai-powered-voiceovers-micmonster-is-50-off/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/need-ai-powered-voiceovers-micmonster-is-50-off/",
-      "publishedDateTime": "2022-09-22T00:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-agilis-robotics-targeting-its-pre-b-round-fund-raising-to-be-completed-by-2022.md",
-      "title": "Agilis Robotics Targeting its Pre-B Round Fund-raising to be Completed by 2022",
-      "excerpt": "Successful In Vivo Testing Clears the Way for First Human Trial in Near FutureHONG KONG, Sept. 22, 2022 /PRNewswire/ -- Agilis Robotics Limited",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/agilis-robotics-targeting-its-pre-b-round-fund-raising-to-be-completed-by-2022-1031758318",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/agilis-robotics-targeting-its-pre-b-round-fund-raising-to-be-completed-by-2022-1031758318",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1905133/Surgical_robotic_arm_developed_by_Agilis_Robotics.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T23:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-artificial-intelligence-said-good-for-smart-grid-optimisation.md",
-      "title": "Artificial intelligence said good for smart grid optimisation",
-      "excerpt": "Jamaica is being urged to consider artificial intelligence (AI) for smart grid optimisation as a more feasible way of producing green energy. Tatjana Legans, who is",
-      "sourceUrl": null,
-      "webUrl": "https://www.jamaicaobserver.com/news/artificial-intelligence-said-good-for-smart-grid-optimisation/",
-      "originalUrl": "https://www.jamaicaobserver.com/news/artificial-intelligence-said-good-for-smart-grid-optimisation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imengine.public.prod.jam.navigacloud.com/?uuid=7ec08427-579f-5889-8cf0-f752172f9c2c&function=fit&type=preview",
-          "width": 500,
-          "height": 378,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.jamaicaobserver.com/news/artificial-intelligence-said-good-for-smart-grid-optimisation/amp/",
-      "cdnAmpWebUrl": "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/news/artificial-intelligence-said-good-for-smart-grid-optimisation/amp/",
-      "publishedDateTime": "2022-09-21T22:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jamaica Observer",
-        "domain": "jamaicaobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "Microsoft AI",
         "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-why-marketers-need-to-jump-on-the-ai-bandwagon.md",
-      "title": "Why marketers need to jump on the AI bandwagon",
-      "excerpt": "Automations created by AI and ML present many business opportunities that marketers must start taking advantage of.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-marketers-need-to-jump-on-the-ai-bandwagon/",
-      "originalUrl": "https://venturebeat.com/ai/why-marketers-need-to-jump-on-the-ai-bandwagon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1366444151-e1653509398576.jpg?fit=800%2C547&strip=all",
-          "width": 800,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-marketers-need-to-jump-on-the-ai-bandwagon/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-marketers-need-to-jump-on-the-ai-bandwagon/amp/",
-      "publishedDateTime": "2022-09-21T21:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
+        "AI in Security"
       ]
     }
   ],

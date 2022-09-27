@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-27T13:02:00Z
 originalUrl: "https://venturebeat.com/security/how-machine-identities-are-the-key-to-successful-identity-management/"
 webUrl: "https://venturebeat.com/security/how-machine-identities-are-the-key-to-successful-identity-management/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: VentureBeat

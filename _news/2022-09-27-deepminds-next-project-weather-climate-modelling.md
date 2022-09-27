@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-27T11:31:00Z
 originalUrl: "https://analyticsindiamag.com/deepminds-next-project-weather-climate-modelling/"
 webUrl: "https://analyticsindiamag.com/deepminds-next-project-weather-climate-modelling/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Analytics India Magazine

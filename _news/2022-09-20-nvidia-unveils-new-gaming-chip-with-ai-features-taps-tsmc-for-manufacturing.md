@@ -1,20 +1,24 @@
 ---
 category: news
-title: "Nvidia unveils new gaming chip with AI features, taps TSMC for manufacturing"
-excerpt: "(Reuters) - Nvidia Corp on Tuesday announced new flagship chips for video gamers that use artificial intelligence (AI) to enhance graphics, saying it has tapped Taiwan Semiconductor Manufacturing ..."
-publishedDateTime: 2022-09-20T15:42:00Z
-originalUrl: "https://www.aol.com/news/nvidia-unveils-gaming-chip-ai-152535367.html"
-webUrl: "https://www.aol.com/news/nvidia-unveils-gaming-chip-ai-152535367.html"
+title: "Nvidia Unveils New Gaming Chip With AI Features, Taps TSMC for Manufacturing"
+excerpt: "Nvidia Unveils New Gaming Chip With AI Features, Taps TSMC for Manufacturing By Stephen Nellis (Reuters) - Nvidia Corp on Tuesday announced new flagship chips for video gamers that use artificial ..."
+publishedDateTime: 2022-09-20T15:38:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2022-09-20/nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing"
+webUrl: "https://www.usnews.com/news/top-news/articles/2022-09-20/nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing"
 type: article
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-secured: "HVHutHFUjLLJUHOkiYQUUetH7JE2ubmwO9f3FNaaSUWycSsT0Rk3PC0njXTckTOYYt/6KpYWGAVa9I2fo26Z3h9a1C3kZvfEIYxJaAOPztCyTCPQRt14SL7yYQT/TvGiJUUMUCT1GzcrOH2Ka8w2gPXP5Fpwn+t44p4jkk55s72U45zaisFVU8064/Y42dBoYuMQmAgTOSgvm2ETh45eWnz5S8hEGUc50aEH2DfcH7s3vHDjTAUP61hLQtg+y1mrG699O1jG+czRC/3B6j3apkpUCnpYPEww4DNK1afj8NvrwDOxbgvLt7jCdFLAARP9pxeLK9YyMai9yMUWrUHmYjXd9WjnDtPb2OtjkTtLOMM=;UVQpx+n91RH+dt4KK0zkYA=="
+secured: "r0TkH/7IqI0iSwh45unbwt5zGCkx1PlA3pr8lOxpD9FR4ZelsymiJ4mjyQel/QG4ZTT2Sik4iX9BkENCVZNVb/iIt+ClYXB4JSb42pHUr2jHXZHjEmtTM6F5hKeQMfjhZinmPvFmizMExtjxcI0xd8PZKunad39uY8l6NWGHXqnlImlbrlaYzSADpQiyOAe14OWHi3sz5s31u0wDcg3k6sPiIwFN/vCG4vxT1nmjUE5qaSaY4BcBP4r9/629dQioM+OU/EpARL1XsMzm+IJzbHbCF7de978WQ+mxrF7N1UK6K8XkNo5vAPTutTeZNuhjZRN+SKsFx+06fe8ICYoACfq+Kvx4Ctuy+Np67PuSP5I=;lj/ctym/4prRoB/pfIaU8g=="
 ---
 

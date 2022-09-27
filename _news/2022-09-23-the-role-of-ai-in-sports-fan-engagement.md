@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2022/09/23/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/09/23/the-role-of-ai-in-sports-fan-engagement/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 737
     isCached: true
-
-related:
-  - title: "Where the benefits of responsible AI emerge"
-    excerpt: "Constraints for AI programs abound, but recent research found tangible business benefits when implemented responsibly, including improved products and brand differentiation."
-    publishedDateTime: 2022-09-22T21:14:00Z
-    webUrl: "https://www.ciodive.com/news/enterprise-responsible-AI-program/632497/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 39
-    images:
-      - url: "https://www.ciodive.com/imgproxy/_zCHwn-oIvdAiwFM-eGYtNYXbNuU0OfcXGsvv0ZnaVk/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEyOTczNjgxNTYuanBn.jpg"
-        width: 770
-        height: 364
-        isCached: true
 
 secured: "aQppgWiWs7cIY9u/JRRVJn6snpFCeEjdD+8IwQIYtBzwyu1LEEu2ABGLQfOevuYSmI+9f6TRlPhenlV7SvUzbhTHrtMR2S3qt7sbGuNIdjBITPO3bmhsKaz/SjRbQKorhK2p+Qe2bwfwLKOMaVfky9JQ6VpeYebEX+Z4Qv6iuv5EQsWZBYjYzVJQTIWsug4qpfJFDsdi9btY5XxjF1nivcEAdLxSzmbdVJdqx6N7xErzsfLIOdmD8c0+los8nTk377djTro4whzlShYTjyC1JYJVQ3Ez/suaDQK6rwkJfDyKJOabGO5dK6r1hjgtFtQzv7RCBbjdv+an+xXaMHauNIyepfeXEuV2s7sPuUtJ8yi/5Rhxe7xYJWyyF0Cka4cPwoHE3uEZ5FPLmD60vjG0wCmDIGse4YvILSLwvpMJo3niY/3qKmIqRev32wm6KUyU5f7CrAgeeWPq+r8zN5RhhLfIWhHfdhTNjJCm4XvB7EUzBUjYNPQ0pT0slpgYsjhgEDlpDZgSOdSXsrf9kD7eEA==;yL5vJktGXBp5y3n/bkGqqg=="
 ---

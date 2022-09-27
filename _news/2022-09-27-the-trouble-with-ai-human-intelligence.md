@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-27T13:00:00Z
 originalUrl: "https://www.forbes.com/sites/gilpress/2022/09/27/the-trouble-with-ai-human-intelligence/"
 webUrl: "https://www.forbes.com/sites/gilpress/2022/09/27/the-trouble-with-ai-human-intelligence/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

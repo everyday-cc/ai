@@ -63,7 +63,7 @@
       "originalUrl": "https://www.fool.com/investing/2022/09/24/3-artificial-intelligence-stocks-you-can-buy-and-h/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -103,7 +103,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "IBM AI"
       ]
     },
     {
@@ -285,6 +286,40 @@
       "provider": {
         "name": "Perth Now",
         "domain": "perthnow.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-23-automotive-artificial-intelligence-ai-market-size-to-hit-usd-191-bn-by-2030.md",
+      "title": "Automotive Artificial Intelligence (AI) Market Size To Hit USD 19.1 Bn By 2030",
+      "excerpt": "The global automotive artificial intelligence (AI) market size was valued at USD 2.9 billion in 2021. The development in the auto business is supposed to drive the automotive artificial intelligence market.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104911136/Automotive-Artificial-Intelligence-AI-Market-Size-To-Hit-USD-191-Bn-By-2030",
+      "originalUrl": "https://menafn.com/1104911136/Automotive-Artificial-Intelligence-AI-Market-Size-To-Hit-USD-191-Bn-By-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1413,58 +1448,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-my-tesla-full-self-driving-beta-1069-first-drive-was-a-fail.md",
-      "title": "My Tesla Full Self-Driving Beta 10.69 first drive was a fail",
-      "excerpt": "I went on my first test drive of Tesla Full Self-Driving Beta 10.69.2, the latest big FSD software update, and unfortunately, it was a fail.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/09/16/tesla-full-self-driving-beta-10-69-first-drive-fail/",
-      "originalUrl": "https://electrek.co/2022/09/16/tesla-full-self-driving-beta-10-69-first-drive-fail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/09/16/tesla-full-self-driving-beta-10-69-first-drive-fail/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/16/tesla-full-self-driving-beta-10-69-first-drive-fail/amp/",
-      "publishedDateTime": "2022-09-16T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

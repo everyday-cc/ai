@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-27T13:28:00Z
 originalUrl: "https://www.techuk.org/resource/kainos-four-ways-to-leverage-data-ai-to-support-the-government-s-2025-vision-techuksmarterstate.html"
 webUrl: "https://www.techuk.org/resource/kainos-four-ways-to-leverage-data-ai-to-support-the-government-s-2025-vision-techuksmarterstate.html"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: techUK

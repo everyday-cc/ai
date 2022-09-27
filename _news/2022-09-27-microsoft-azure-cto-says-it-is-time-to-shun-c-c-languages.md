@@ -9,8 +9,8 @@ ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/microsoft-azur
 cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages/94466077"
 type: article
 quality: 74
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: telecom.economictimes.indiatimes
@@ -27,19 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "It is time to shun C, C++ languages for new projects: Microsoft Azure CTO"
-    excerpt: "\"Rust\" is now being used within the Android Open Source Project (AOSP) at Meta, at Amazon Web Services (AWS) and Microsoft, reports ZDNet."
-    publishedDateTime: 2022-09-26T05:47:00Z
-    webUrl: "https://www.thestatesman.com/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto-1503115247.html"
-    ampWebUrl: "https://www.thestatesman.com/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto-1503115247.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto-1503115247.html/amp"
+  - title: "SAS Viya now available in the Microsoft Azure Marketplace"
+    excerpt: "SAS offers its industry-leading analytics platform with hourly pricing model, in-app tutorials and support for multiple languagesCARY, N.C.,"
+    publishedDateTime: 2022-09-27T15:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sas-viya-now-available-in-the-microsoft-azure-marketplace-1031767702"
     type: article
     provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 73
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
     images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2022/09/0da9bd4f8fc06cb457a2a9b3d6a6f0cc.jpg"
+      - url: "https://mma.prnewswire.com/media/1907863/SAS__woman_screen.jpg"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "MICROSOFT AZURE AND AZURE AI"
+    excerpt: "Get latest Microsoft Azure And Azure Ai news and updates. Explore Microsoft Azure And Azure Ai photos, videos and information on Times Now"
+    publishedDateTime: 2022-09-27T14:38:00Z
+    webUrl: "https://www.timesnownews.com/topic/microsoft-azure-and-azure-ai"
+    ampWebUrl: "https://www.timesnownews.com/topic/microsoft-azure-and-azure-ai/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/topic/microsoft-azure-and-azure-ai/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 89
+    images:
+      - url: "https://static.tnn.in/photo/msid-88386381/88386381.jpg"
+        width: 1680
+        height: 946
+        isCached: true
+  - title: "SAS Viya analytics suite now available on Azure Marketplace"
+    excerpt: "Viya’s move to the marketplace allows enterprise customers to access its tools and features in a pay-as-you-go model, the company said."
+    publishedDateTime: 2022-09-27T13:18:00Z
+    webUrl: "https://www.infoworld.com/article/3674838/sas-viya-analytics-suite-now-available-on-azure-marketplace.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 86
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/07/05/10/data_analytics_risk_assessment_tracking_trends_graphs_by_ipopba_gettyimages-1150397416_2400x1600-100828857-large-100929801-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
         isCached: true
@@ -59,6 +87,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Deep Learning Software Market Business overview 2022, and Forecast to 2028 | Microsoft, Express Scribe, Nuance"
+    excerpt: "Download Free Sample Deep Learning Software Market report  The worldwide Deep Learning Software Market is expected to grow at a booming CAGR of 2022-2030, rising from USD billion in 2021 to USD billion in 2028."
+    publishedDateTime: 2022-09-23T05:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-business-overview-2022-and-forecast-to-2028-microsoft-express-scribe-nuance-2022-09-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "TCS recognized as Leader and Star Performer for Microsoft Azure System Integration Capabilities"
     excerpt: "TCS was recognized as a Star Performer for demonstrating the strongest forward and upward movement on the matrix, based on its continued investments in intellectual property, comprehensive portfolio of Azure services,"
     publishedDateTime: 2022-09-26T10:38:00Z
@@ -74,6 +116,34 @@ related:
       - url: "https://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg"
         width: 620
         height: 464
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
+    excerpt: "New Jersey, NJ -- (SBWIRE) -- 09/23/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
+    publishedDateTime: 2022-09-23T05:15:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-58"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 50
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Wallaroo Unveils Integration with Microsoft Azure Marketplace, Debuts Latest Edge Environment Technology"
+    excerpt: "Wallaroo Labs, developers of a model operations platform for deploying, observing, and managing machine learning in production, is announcing integration of Wallaroo Enterprise Edition with Microsoft Azure Marketplace,"
+    publishedDateTime: 2022-09-26T20:10:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Wallaroo-Unveils-Integration-with-Microsoft-Azure-Marketplace-Debuts-Latest-Edge-Environment-Technology-155103.aspx"
+    type: article
+    provider:
+      name: dbta
+      domain: dbta.com
+    quality: 37
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "qcsdUEDY97aWD3zOpcWwEzNrgd2xJyRfIA5oGBByxjc/Q4J0cgAI12L7Tpkh5sYcQrkWUSKyFDdG8G6BOVtlvNEZpV3Jc7/IWcNAgWSSfRYZNXx8VUHeN0s4Tuo+vmkQfjo5X4I2RrG06MZnbbSu1hxMgerHsxVfHYLWuTTW/alTxiIIG3FixsunhK6Id2OpLT/oB/W135Cj8agYk2uwMW669fc+0yIQqXiC/ptjpEzy9VQeF1EtdRc+t4Ya5ye4OEOCArgKXi5eqBkxl8weoStSo7HSLixBCtfuKYp2Sbq/a0wpV8PSaC9RaRZE9H7xrl3UiLMuIEGIMRPy2UB8Fp5ymv70NjqBaLPAox3KNBI=;pLMWt9U0IHH4Fs7H3POlHQ=="

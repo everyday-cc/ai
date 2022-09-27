@@ -7,7 +7,7 @@ originalUrl: "https://campustechnology.com/articles/2022/09/26/digital-learning-
 webUrl: "https://campustechnology.com/articles/2022/09/26/digital-learning-challenge-finalists-competing-for-1m-prize.aspx"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Enabling Federated Querying & Analytics While Accelerating Machine Learning Projects"
+    excerpt: "In this special guest feature, Brendan Newlon, Solutions Architect at Stardog, indicates that for an increasing number of organizations, a semantic data layer powered by an enterprise knowledge graph provides the solution that enables them to connect relevant data elements in their true context and provide greater meaning to their data."
+    publishedDateTime: 2022-09-26T13:00:00Z
+    webUrl: "https://insidebigdata.com/2022/09/26/enabling-federated-querying-analytics-while-accelerating-machine-learning-projects/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 12
 
 secured: "utqop5RmDPyBwblE3KWVOE90tj6TEL0AXEIlxOy2TRdLenLjXsUKjLt3GzdKrPuTZ9i+TDJGI4pwRKEUQ/XnMP5kNj6qFCWPGUPJNT/Hggj0Yd96g++lxsDW7sOARpQ80y1dHq2eFVThxNwHGw23wUSc5QdegXm5cSSUzVqe9n8zzMjIjTrtNhmXWmNow1ooracEoOaIBFz0M2K1fwSfRZL0+UzUgMs+iUpb+hQZec5sAS6/brIvj5zBtivEwcpx6CzEHCjPQs7q5rcFlevLSqUlXkjZ8pF/odpOY3++cXH/EkcCNPOBGVfjS63XJxuuRYMe1GaVqWRHHe9im0PpLR9cxw+V/i+SJDNK/cx2AWZRHbiPXNwIpih/C08kHNGSXbd6A9S4quRE9Pn6fRiMnWBmYwp0bwrC/4g08bn8Y05oVXXzvOpZSwbe5xdHwirHy5RgLWzkkdj8uIoPrWPXqbO3052EPjI4OJOqor6b8SfQqITEfMXmitn7ysww2HWxASDJXUi64HT+1sOql/6X3Q==;MyHKFlI+OwGZEhhtTpIUmQ=="
 ---

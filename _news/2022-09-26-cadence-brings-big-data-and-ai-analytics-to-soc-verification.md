@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2022/09/26/cadence-brin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/09/26/cadence-brings-big-data-and-ai-analytics-to-soc-verification/amp/"
 type: article
 quality: 89
-heat: 129
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "SAS launches first cloud analytics service on Azure"
+    excerpt: "SAS is one of the old guards in the data analytics space. Its first tools were developed at North Carolina State University in the late 1960s and commercially launched in 1976. Throughout the last fifty years,"
+    publishedDateTime: 2022-09-27T15:30:00Z
+    webUrl: "https://venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/"
+    ampWebUrl: "https://venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2015/12/Analytics.shutterstock_160050128.jpg?w=1200&strip=all"
+        width: 1200
+        height: 710
+        isCached: true
   - title: "Manufacturing industry transformed by AI, IoT and analytics"
     excerpt: "SAS hosts MFG Day flagship event on Oct. 5th featuring smart trucks, tractors and buildingsCARY, N.C., Sept. 26, 2022 /PRNewswire/ -- For"
     publishedDateTime: 2022-09-26T14:50:00Z
@@ -45,24 +61,6 @@ related:
         width: 365
         height: 400
         isCached: true
-  - title: "Pepperstone adds Capitalise.ai analytics and automated trading tools free of charge"
-    excerpt: "\"We look forward to bringing significant value to Pepperstone traders and making a real, positive impact in their daily trading habits. We are excited to welcome them on board.\""
-    publishedDateTime: 2022-09-26T09:50:00Z
-    webUrl: "https://financefeeds.com/pepperstone-adds-capitalise-ai-analytics-and-automated-trading-tools-free-of-charge/"
-    type: article
-    provider:
-      name: financefeeds
-      domain: financefeeds.com
-    quality: 13
-  - title: "Enabling Federated Querying & Analytics While Accelerating Machine Learning Projects"
-    excerpt: "In this special guest feature, Brendan Newlon, Solutions Architect at Stardog, indicates that for an increasing number of organizations, a semantic data layer powered by an enterprise knowledge graph provides the solution that enables them to connect relevant data elements in their true context and provide greater meaning to their data."
-    publishedDateTime: 2022-09-26T13:00:00Z
-    webUrl: "https://insidebigdata.com/2022/09/26/enabling-federated-querying-analytics-while-accelerating-machine-learning-projects/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 12
   - title: "Data analytics: Seeing deeper, optimizing better"
     excerpt: "Just as updating eyeglass prescriptions bring the world into sharper focus, longstanding data analytics solutions can be extended by new and more digitalized tools that identify details and opportunities that weren’t visible before."
     publishedDateTime: 2022-09-23T12:57:00Z

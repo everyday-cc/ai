@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-09-26-cover-story-the-heated-fight-against-facial-recognition-scams.md",
-      "title": "Cover Story: The Heated Fight Against Facial Recognition Scams",
-      "excerpt": "The money transfer, which was supposed to be verified through facial recognition, went undetected, Li said. It all happened in June 2021 after Li received a call from someone claiming to be a police officer who questioned her on alleged money laundering.",
+      "path": "_news/2022-09-27-new-report-offers-blueprint-for-regulation-of-facial-recognition-technology.md",
+      "title": "New report offers blueprint for regulation of facial recognition technology",
+      "excerpt": "Human Technology Institute outlines a model law for facial recognition technology to protect against harmful use of this technology, but also foster innovation for public benefit.",
       "sourceUrl": null,
-      "webUrl": "https://www.caixinglobal.com/2022-09-26/cover-story-the-heated-fight-against-facial-recognition-scams-101944562.html",
-      "originalUrl": "https://www.caixinglobal.com/2022-09-26/cover-story-the-heated-fight-against-facial-recognition-scams-101944562.html",
+      "webUrl": "https://techxplore.com/news/2022-09-blueprint-facial-recognition-technology.html",
+      "originalUrl": "https://techxplore.com/news/2022-09-blueprint-facial-recognition-technology.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 157,
       "tags": null,
       "images": [
         {
-          "url": "https://img.caixin.com/2022-09-26/166413961054417_560_373.gif",
-          "width": 560,
-          "height": 373,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/facial-recognition.jpg",
+          "width": 1920,
+          "height": 1274,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-25T14:08:00-07:00",
+      "ampWebUrl": "https://techxplore.com/news/2022-09-blueprint-facial-recognition-technology.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-blueprint-facial-recognition-technology.amp",
+      "publishedDateTime": "2022-09-26T16:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Caixin Global",
-        "domain": "caixinglobal.com",
+        "name": "techxplore",
+        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -781,10 +781,10 @@
     {
       "path": "_news/2022-09-15-sensormatic-solutions-by-johnson-controls-expands-its-computer-vision-offering-to-address-retails-most-pressing-challenges.md",
       "title": "Sensormatic Solutions by Johnson Controls Expands Its Computer Vision Offering to Address Retail’s Most Pressing Challenges",
-      "excerpt": "Johnson Controls brand Sensormatic Solutions’ innovative technology architecture offers flexible, computer vision-powered analytics to facilitate",
+      "excerpt": "Sensormatic Solutions, the leading global retail solutions portfolio of Johnson Controls, has expanded its computer vision analytics offering, which focuses on driving sales, reducing risk and enhancing the shopper experience. The company’s computer ...",
       "sourceUrl": null,
-      "webUrl": "https://www.01net.it/sensormatic-solutions-by-johnson-controls-expands-its-computer-vision-offering-to-address-retails-most-pressing-challenges/",
-      "originalUrl": "https://www.01net.it/sensormatic-solutions-by-johnson-controls-expands-its-computer-vision-offering-to-address-retails-most-pressing-challenges/",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-89036b868d68454192a27bea59be0a02",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-89036b868d68454192a27bea59be0a02",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -794,11 +794,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T01:17:00-07:00",
+      "publishedDateTime": "2022-09-15T01:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1186,10 +1186,10 @@
     {
       "path": "_news/2022-09-13-verisilicon-ai-isp-delivers-innovative-image-quality-enhancement-that-breaks-the-limits-of-computer-vision.md",
       "title": "VeriSilicon AI-ISP Delivers Innovative Image Quality Enhancement that Breaks the Limits of Computer Vision",
-      "excerpt": "VeriSilicon (688521.SH), a leading Silicon Platform as a Service (SiPaaS®) company, today announced the launch of AI-ISP, an innovative AI image enhancement technology for applications including smartphones,",
+      "excerpt": "Low-power, low-latency and low-DDR bandwidth image quality upgrades enabled by VeriSilicon FLEXA VeriSilicon (688521.SH), a leading Silicon Platform as a Service (SiPaaS) company, today announced",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/09/13/9672608.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/09/13/9672608.htm",
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-09/57045723-verisilicon-ai-isp-delivers-innovative-image-quality-enhancement-that-breaks-the-limits-of-computer-vision-004.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-09/57045723-verisilicon-ai-isp-delivers-innovative-image-quality-enhancement-that-breaks-the-limits-of-computer-vision-004.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1199,11 +1199,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T08:51:00-07:00",
+      "publishedDateTime": "2022-09-13T07:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1213,8 +1213,9 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
       ]
     },
     {

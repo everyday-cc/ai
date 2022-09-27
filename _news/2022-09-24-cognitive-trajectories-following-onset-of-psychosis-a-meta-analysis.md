@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-23T19:17:00Z
 originalUrl: "https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/cognitive-trajectories-following-onset-of-psychosis-a-metaanalysis/36EDB9A1838C8592024FDC85F6B39888"
 webUrl: "https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/cognitive-trajectories-following-onset-of-psychosis-a-metaanalysis/36EDB9A1838C8592024FDC85F6B39888"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Cambridge University Press

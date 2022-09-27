@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-27T11:30:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-27-par-technologys-punchh-unveils-new-machine-learning-features-to-personalize-loyalty"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-27-par-technologys-punchh-unveils-new-machine-learning-features-to-personalize-loyalty"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Daily Herald
