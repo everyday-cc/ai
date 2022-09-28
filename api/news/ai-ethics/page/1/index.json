@@ -55,6 +55,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-27-artificial-intelligence-opens-doors-for-media-but-ethics-must-prevail.md",
+      "title": "Artificial Intelligence opens doors for media but ethics must prevail",
+      "excerpt": "Ten years ago, if you bandied around the word Artificial Intelligence in a Kenyan newsroom, you would be branded an illusionist, today it is the buzzword. AI, machine learning and",
+      "sourceUrl": null,
+      "webUrl": "https://www.the-star.co.ke/opinion/star-blogs/2022-09-27-artificial-intelligence-opens-doors-for-media-but-ethics-must-prevail/",
+      "originalUrl": "https://www.the-star.co.ke/opinion/star-blogs/2022-09-27-artificial-intelligence-opens-doors-for-media-but-ethics-must-prevail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/U7H5nVDwALI80Wo_yJmtBb-vCX8ghYCRML2ZAxqHJUm2gLlYd95ZEbQDKpFIf7Gy3M9j9b7t5JPkWJQ5W8NLS7OmvmXN9KQqs21Cy6WdCAU=s1000",
+          "width": 511,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T02:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "the-star.co.ke",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-09-26-james-earl-jones-signed-darth-vader-voice-rights-to-disney-for-ai-use.md",
       "title": "James Earl Jones signed Darth Vader voice rights to Disney for AI use",
       "excerpt": "During the creation of the Obi-Wan Kenobi TV series, James Earl Jones signed off on allowing Disney to replicate his vocal performance as Darth Vader in future projects using an AI voice modeling tool called Respeecher,",
@@ -1334,40 +1377,6 @@
       "provider": {
         "name": "TechNewsWorld",
         "domain": "technewsworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-a-look-back-at-gartners-data-and-analytics-summit-2022.md",
-      "title": "A Look Back at Gartner's Data and Analytics Summit 2022",
-      "excerpt": "Data and analytics are the lifeblood of modern companies and, like so many other things tech-based, they are evolving.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/analytics/a-look-back-at-gartners-data-and-analytics-summit-2022/",
-      "originalUrl": "https://www.cmswire.com/analytics/a-look-back-at-gartners-data-and-analytics-summit-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
         "images": null,
         "publishers": null,
         "authors": null

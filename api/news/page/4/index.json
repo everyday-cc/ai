@@ -2,6 +2,145 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-23-will-ai-inspire-a-new-mm-how-artificial-intelligence-is-reshaping-mars.md",
+      "title": "Will AI inspire a new M&M? How artificial intelligence is reshaping Mars",
+      "excerpt": "Mars Inc. is in the midst of a massive AI-powered overhaul, driving digital transformation across the over 100-year-old company.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/will-ai-inspire-a-new-mm-how-artificial-intelligence-is-reshaping-mars/",
+      "originalUrl": "https://venturebeat.com/ai/will-ai-inspire-a-new-mm-how-artificial-intelligence-is-reshaping-mars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/M_Ms_Different_Shapes.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/will-ai-inspire-a-new-mm-how-artificial-intelligence-is-reshaping-mars/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/will-ai-inspire-a-new-mm-how-artificial-intelligence-is-reshaping-mars/amp/",
+      "publishedDateTime": "2022-09-22T10:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-22-highbyte-expands-industrial-connectivity-from-microsoft-azure-iot-edge-to-azure-digital-twins.md",
+      "title": "HighByte Expands Industrial Connectivity from Microsoft Azure IoT Edge to Azure Digital Twins",
+      "excerpt": "The industrial software company has expanded cloud connectivity and improved enterprise IT management with HighByte Intelligence Hub version 2.5.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/products/september-2022/highbyte-industrial-connectivity-microsoft-azure",
+      "originalUrl": "https://www.automation.com/en-us/products/september-2022/highbyte-industrial-connectivity-microsoft-azure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/aa63c977-cdce-4db8-9dff-034bafe0dadc/Highbyte-prod-Sept-22-2022-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-22-falkonry-unveils-gpu-based-high-speed-time-series-anomaly-detection-application.md",
+      "title": "Falkonry Unveils GPU-Based, High-Speed Time Series Anomaly Detection Application",
+      "excerpt": "Falkonry today announced an automated anomaly detection application called Falkonry Insight which operates on high-speed sensor time series data. Insight is the newest addition to Falkonry's Time Series AI Suite to drive higher operational reliability and yield,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/09/22/9679188.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/09/22/9679188.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
+          "width": 476,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-22-openai-open-sources-whisper-a-multilingual-speech-recognition-system.md",
       "title": "OpenAI open-sources Whisper, a multilingual speech recognition system",
       "excerpt": "OpenAI has released Whisper, a robust speech recognition model that can understand and transcribe multiple languages.",
@@ -241,7 +380,8 @@
       "topics": [
         "AI in Healthcare",
         "AI",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "AI in Autos"
       ]
     },
     {
@@ -1052,144 +1192,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-ai-ethics-an-overview.md",
-      "title": "AI Ethics: An Overview",
-      "excerpt": "This rise in the power of AI highlights the importance of ethics in AI – we must use this powerful technology in responsible ways. For example, modern artificial intelligence is capable of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/enterprise-apps/ai-ethics/",
-      "originalUrl": "https://www.eweek.com/enterprise-apps/ai-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/11/joshua-sortino-LqKhnDzSF-8-unsplash-scaled.jpg",
-          "width": 1920,
-          "height": 1283,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-salesforce-deepens-partnership-with-aws.md",
-      "title": "Salesforce deepens partnership with AWS",
-      "excerpt": "Salesforce has expanded its partnership with Amazon Web Services (AWS) to enable customers to build custom artificial intelligence (AI) models using Amazon SageMaker, AWS’s machine learning (ML ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110",
-      "originalUrl": "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/09/GettyImages-1040557296-scaled.jpg",
-          "width": 2560,
-          "height": 1161,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110?amp=1",
-      "publishedDateTime": "2022-09-21T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-neural-network-speeds-holographic-image-reconstruction-for-biological-samples.md",
-      "title": "Neural network speeds holographic image reconstruction for biological samples",
-      "excerpt": "Researchers have developed a new end-to-end neural network that can speed up the reconstruction of holographic images. Unlike other deep learning techniques, the approach can be used on samples not encountered during training,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/965510",
-      "originalUrl": "https://www.eurekalert.org/news-releases/965510",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d5478dc3-2da0-4289-ae22-39a8babe2c18/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 454,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T11:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

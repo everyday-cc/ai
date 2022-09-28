@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -64,15 +64,6 @@ related:
         width: 640
         height: 290
         isCached: true
-  - title: "A laughing robot and the possibilities of AI"
-    excerpt: "Letter: Yvonne Whalley remembers a play in which a robot develops at least one human trait"
-    publishedDateTime: 2022-09-23T15:33:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/sep/23/a-laughing-robot-and-the-possibilities-of-ai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 34
 
 secured: "07E0TZz/vtsIkPZFrOH8mr2+utSJKIM3prU5ThMh3SDoGDwUpNqWCQaGUtIosfLm47crFuo3jecD3gfaKHCcjANPTWBp+QiMbkrHD+ZVf9DiFNuad+f/1ZkipRpCs2ZqiOML0YnnVmxpqNgBBh0j+ThVK9Hr3Xk7gevnphHndBJH+BSRijmP+ySypa8kyHGNj9Q/dZrcg9nDG7KJYjoZcPDoGVP7jeNOF7WWhmNe1o35f4HIzaD3cd3uL3iYhSzdWOnG2mHmf0J5zkBvDYCx2wW2UO5xnff9UMB98y/pR5G3CUeWNFFU74MZGfwPc3pBi+plK1IZTAJayUmRFGVZVgdh81bsOJhZHkWpiX7aLg4nNeisyDmsRhf86sZVQeFSLYLLeofahQ0q59UpnCwiuhK/pd+/z6txVGwZBaQOaBFbrg1pBD92d0Gi/sdTlKvoaos81E480FkFx9sfY6AV0aWdwoXTzdFwzgsWgR4shYarXOJhqT2FFnIrbZjiOrmWLSkHZDdCiFEcq4zQpPmp+A==;UKYmI6a9HSWQgyvb7u+GlA=="
 ---

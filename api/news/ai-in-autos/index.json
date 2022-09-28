@@ -397,6 +397,51 @@
       ]
     },
     {
+      "path": "_news/2022-09-22-artificial-intelligence-tools-speed-up-the-process-of-identifying-people-who-inject-drugs.md",
+      "title": "Artificial intelligence tools speed up the process of identifying people who inject drugs",
+      "excerpt": "An automated process that combines natural language processing and machine learning identified people who inject drugs (PWID) in electronic health records more quickly and accurately than current methods that rely on manual record reviews.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220922/Artificial-intelligence-tools-speed-up-the-process-of-identifying-people-who-inject-drugs.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220922/Artificial-intelligence-tools-speed-up-the-process-of-identifying-people-who-inject-drugs.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20220922/Artificial-intelligence-tools-speed-up-the-process-of-identifying-people-who-inject-drugs.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220922/Artificial-intelligence-tools-speed-up-the-process-of-identifying-people-who-inject-drugs.aspx",
+      "publishedDateTime": "2022-09-22T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Natural Language Processing",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-22-kittyhawk-google-co-founder-larry-pages-flying-car-company-will-shut-down.md",
       "title": "Kittyhawk, Google co-founder Larry Page’s flying-car company, will shut down",
       "excerpt": "Kittyhawk, the air-taxi company backed by Google co-founder Larry Page, will close but its technology is expected to live on in the form of its Wisk Aero joint venture with Boeing Co.",
@@ -1432,40 +1477,6 @@
       "provider": {
         "name": "Business Insider India",
         "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-global-artificial-intelligence-ai-in-automotive-and-transportation-market-to-grow-at-20-through-2026.md",
-      "title": "Global Artificial Intelligence (AI) in Automotive and Transportation Market to Grow at 20% Through 2026",
-      "excerpt": "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. This market is likely to grow at a CAGR of around 20% during 2021-26.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-automotive-transportation-market-grow-/2022/09/16/9675469.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-automotive-transportation-market-grow-/2022/09/16/9675469.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

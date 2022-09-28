@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/new-features-for-ama
 webUrl: "https://aws.amazon.com/blogs/machine-learning/new-features-for-amazon-sagemaker-pipelines-and-the-amazon-sagemaker-sdk/"
 type: article
 quality: 88
-heat: -1
-published: false
+heat: 108
+published: true
 
 provider:
   name: AWS
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Large-scale revenue forecasting at Bosch with Amazon Forecast and Amazon SageMaker custom models"
-    excerpt: "This post is co-written by Goktug Cinar, Michael Binder, and Adrian Horvath from Bosch Center for Artificial Intelligence (BCAI). Revenue forecasting is a challenging yet crucial task for strategic business decisions and fiscal planning in most organizations. Often, revenue forecasting is manually performed"
-    publishedDateTime: 2022-09-23T16:54:12Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/large-scale-revenue-forecasting-at-bosch-with-amazon-forecast-and-amazon-sagemaker-custom-models/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 91
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/23/revenue-forecasting-bosch-1260x630.png"
-        width: 1260
-        height: 630
-        isCached: true
   - title: "Reduce the time taken to deploy your models to Amazon SageMaker for testing"
     excerpt: "Data scientists often train their models locally and look for a proper hosting service to deploy their models. Unfortunately, there’s no one set mechanism or guide to deploying pre-trained models to the cloud. In this post, we look at deploying trained models to Amazon SageMaker hosting to reduce your"
     publishedDateTime: 2022-09-27T17:04:24Z

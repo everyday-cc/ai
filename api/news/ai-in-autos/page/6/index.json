@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-08-29-waymo-opens-up-driverless-robotaxi-service-in-downtown-phoenix-to-vetted-passengers.md",
+      "title": "Waymo opens up driverless robotaxi service in downtown Phoenix to vetted passengers",
+      "excerpt": "Waymo, the autonomous vehicle developer under Alphabet, is opening up its driverless robotaxi service in downtown Phoenix to vetted local residents. People who have been accepted to Waymo’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/29/waymo-opens-up-driverless-robotaxi-service-in-downtown-phoenix-to-vetted-passengers/",
+      "originalUrl": "https://techcrunch.com/2022/08/29/waymo-opens-up-driverless-robotaxi-service-in-downtown-phoenix-to-vetted-passengers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/IPACE_3.jpeg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/29/waymo-opens-up-driverless-robotaxi-service-in-downtown-phoenix-to-vetted-passengers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/29/waymo-opens-up-driverless-robotaxi-service-in-downtown-phoenix-to-vetted-passengers/amp/",
+      "publishedDateTime": "2022-08-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-self-driving-cars-a-primer.md",
       "title": "Self-driving cars: A primer",
       "excerpt": "(Motor Authority) — Self-driving cars are part of an uncertain future, but automakers have signaled they are constantly moving to a day when at least some of us won’t drive at all. Along the ...",
@@ -1312,58 +1364,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-21-anthony-levandowski-is-the-messiah-of-his-new-ai-god.md",
-      "title": "Anthony Levandowski is the Messiah of his new AI God",
-      "excerpt": "It then reveals some of his innovative projects, like the robot he made in 2001 that could count Monopoly money, and the driverless ... potential of artificial intelligence is something that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/anthony-levandowski-is-the-messiah-of-his-new-ai-god/",
-      "originalUrl": "https://www.neowin.net/news/anthony-levandowski-is-the-messiah-of-his-new-ai-god/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2017/09/1506594532_ai_god_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/anthony-levandowski-is-the-messiah-of-his-new-ai-god/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/anthony-levandowski-is-the-messiah-of-his-new-ai-god/",
-      "publishedDateTime": "2022-08-21T00:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

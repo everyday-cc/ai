@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Arsenal Biosciences Announces Joint Discovery Collaboration with Genentech to Identify Features of Successful T-Cell Therapies for Oncology"
+    excerpt: "La Merie Publishing prepares brief and full reports as well as competitor analysis reports, the latter in a tabulated format with structured listings of industry-relevant data. One of our top-selling."
+    publishedDateTime: 2022-09-28T08:26:00Z
+    webUrl: "https://pipelinereview.com/index.php/2022092881703/More-News/Arsenal-Biosciences-Announces-Joint-Discovery-Collaboration-with-Genentech-to-Identify-Features-of-Successful-T-Cell-Therapies-for-Oncology.html"
+    type: article
+    provider:
+      name: PipelineReview.com
+      domain: pipelinereview.com
+    quality: 0
 
 secured: "7xj4yotaUvapTN0C7hap2TdKs2Dz5cwTPIvfxwP9KSMw/FD2DfhLZ3PAfSHZfI+XPbbApkfaBZeJC9wCqbVnbgm3BC/MvfGCSL4GV2GIqdEr0CU/KUokPCe0+7fqla+PKIVfO7BY+vb7zaQJ16iKrMLuUxz7BPqKkYkogpHu9gCTeFvrN+qYFuCZXuD77NCaxrm/8eZWLM8/ZVXeCedj3o1DojNfcU6ocT6xetklBDUqsRqo6btDbnv+XOODrCiMtFrows+4B2zTamQuZETKGMoyzW91MRBl+SOk7f/8IC62sslBqasst8XkG8G/GlIlSVe3dJOzeAc/FWbY/0MvyE8lX0wuQJL+F4MMqPtv7/Y=;AUzf6trLGdmDtYA8y/InKQ=="
 ---

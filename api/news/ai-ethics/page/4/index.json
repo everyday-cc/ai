@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-11-bowdoin-college-to-offer-class-on-ethics-of-ai-in-everyday-life.md",
+      "title": "Bowdoin College to offer class on ethics of AI in everyday life",
+      "excerpt": "The course, the first of its kind for the Brunswick liberal arts college, will debut in the fall of 2023 after a year in development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sunjournal.com/2022/07/11/bowdoin-college-to-offer-class-on-ethics-of-ai-in-everyday-life/",
+      "originalUrl": "https://www.sunjournal.com/2022/07/11/bowdoin-college-to-offer-class-on-ethics-of-ai-in-everyday-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://multifiles.pressherald.com/uploads/sites/10/2022/07/31301327_20220708_ArtificialIntelligence_0181.jpg",
+          "width": 634,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-11T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sun Journal",
+        "domain": "sunjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-11-be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh.md",
       "title": "Be prepared for upheaval due to Artificial Intelligence: Rajnath Singh",
       "excerpt": "We have to use Artificial Intelligence (AI) for humanity's progress and peace. It should not be the case that a country or a group of countries establish their dominance on this technology -- just like nuclear power -- and the remaining countries are not able to enjoy the fruits of this technology,",
@@ -1380,58 +1423,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-19-from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art.md",
-      "title": "From Trump Nevermind babies to deep fakes: DALL-E and the ethics of AI art",
-      "excerpt": "A neural network that can transform a text phrase into an artwork is transforming our understanding of creative thinking, but it opens new issues",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art",
-      "originalUrl": "https://www.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/d3169cb6363b03baf547458d9ab3db908b2197ba/166_142_2190_1314/master/2190.jpg?width=620&quality=85&auto=format&fit=max&s=37993df5e2c6d59bbf02192bc0b1132c",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jun/19/from-trump-nevermind-babies-to-deep-fakes-dall-e-and-the-ethics-of-ai-art",
-      "publishedDateTime": "2022-06-18T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/colossal-biosciences-spins-off-form-bio-s
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/colossal-biosciences-spins-off-form-bio-software-for-computational-life-sciences-breakthroughs/amp/"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
     provider:
       name: The Buffalo News
       domain: buffalonews.com
+    quality: 0
+  - title: "Arsenal Biosciences Announces Joint Discovery Collaboration with Genentech to Identify Features of Successful T-Cell Therapies for Oncology"
+    excerpt: "La Merie Publishing prepares brief and full reports as well as competitor analysis reports, the latter in a tabulated format with structured listings of industry-relevant data. One of our top-selling."
+    publishedDateTime: 2022-09-28T08:26:00Z
+    webUrl: "https://pipelinereview.com/index.php/2022092881703/More-News/Arsenal-Biosciences-Announces-Joint-Discovery-Collaboration-with-Genentech-to-Identify-Features-of-Successful-T-Cell-Therapies-for-Oncology.html"
+    type: article
+    provider:
+      name: PipelineReview.com
+      domain: pipelinereview.com
     quality: 0
 
 secured: "jmLjgTX/qaqDg8juHE0H+O2U0D9SdbmDcRKwg0V7BuQ3+tfy/NcWme+mrIxnedwADHg17nAV9C0OAsrzFuiyYG9eCpQla6+mJsoV30qybYmEl8tTnum6qh5DvnfaW8ixqoBnXd6ExZSLvmJ2ZkIcAYg7MhCn0pEAEYADBEuTbgqvuDiHPMtIq6faWV6WXOVfyU0YqL6Z4SZ1rdoVclUdOS4DpWrQIi2YIQO8UO+fQiQNJY/dbx9Bcf7/0i77WFC/G85omvamcempyJDidhxEJPmpfyl32tCcShLtt39NCI51ScztoBS5na1+eMPsq33k3HSjmE2+EyNBboTxZq23/9IpxC+wHK75WFsAh467gHDGe1iG6LB+1H8ZF1FU2Duq+o36j2xfrzLX9NwbmSoFEBBgN8sLvGiAAYiS4jH6sNCH7qunMZJ03JCMtvv76qdl1cd4qMKXB60ic88xva+q1Vy8v0osCDLvxitDlatZS/b6NSYP5832XXgOKAtKVpV55Pr3vefvN7BGjvJzZynI/w==;wWUWbe+u8Tg2qrRapidrbg=="

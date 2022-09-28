@@ -2,6 +2,163 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-24-i-used-openais-new-tech-to-transcribe-audio-right-on-my-laptop.md",
+      "title": "I used OpenAI’s new tech to transcribe audio right on my laptop",
+      "excerpt": "Sterne admitted that tech from Apple and Google could make Stage Whisper obsolete within a few years — the Pixel’s voice recorder app has been able to do offline transcriptions for years ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/9/23/23367296/openai-whisper-transcription-speech-recognition-open-source",
+      "originalUrl": "https://www.theverge.com/2022/9/23/23367296/openai-whisper-transcription-speech-recognition-open-source",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/pmRwbnxGrmqhMNxQ0L04Fh3GBS4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23954046/VRG_Illo_STK427_K_Radtke_Getty_Mics.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-23T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-24-unlocking-ai-at-the-edge-with-new-tools-from-deci.md",
+      "title": "Unlocking AI at the edge with new tools from Deci",
+      "excerpt": "Key to edge AI and computer vision, Deci AI this week has released a set of semantic segmentation models, DeciSeg.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/unlocking-ai-at-the-edge-with-new-tools-from-deci/",
+      "originalUrl": "https://venturebeat.com/ai/unlocking-ai-at-the-edge-with-new-tools-from-deci/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/06/computer-vision-e1663772711547.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/unlocking-ai-at-the-edge-with-new-tools-from-deci/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/unlocking-ai-at-the-edge-with-new-tools-from-deci/amp/",
+      "publishedDateTime": "2022-09-23T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-24-why-deepmind-isnt-deploying-its-new-ai-chatbot.md",
+      "title": "Why DeepMind isn’t deploying its new AI chatbot",
+      "excerpt": "DeepMind’s new AI chatbot, Sparrow, is being hailed as an important step towards creating safer, less-biased machine learning systems, thanks to its application of reinforcement learning based on input from human research participants for training.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/",
+      "originalUrl": "https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-164848239.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/amp/",
+      "publishedDateTime": "2022-09-23T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-24-7-ai-startups-aim-to-give-retailers-a-happy-holiday-season.md",
       "title": "7 AI startups aim to give retailers a happy holiday season",
       "excerpt": "These are seven of the hottest AI startups that are helping retailers meet their holiday goals and customer demands.",
@@ -398,15 +555,15 @@
       "title": "CAC Corporation integrates CyberLink’s FaceMe Facial Recognition into the POS terminals of their Unmanned Ministop Store",
       "excerpt": "CyberLink Corp., a pioneer of AI and facial recognition technologies, has collaborated with CAC Corporation (CAC) to integrate its AI facial recognition engine, FaceMe®, into CAC’s facial recognition payment system.",
       "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/cac-corporation-integrates-cyberlink-s-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned/article_1239e162-574d-5593-81dd-3fc17f538f3d.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/cac-corporation-integrates-cyberlink-s-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned/article_1239e162-574d-5593-81dd-3fc17f538f3d.html",
+      "webUrl": "https://www.eagletribune.com/region/cac-corporation-integrates-cyberlink-s-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned/article_f876d4e4-cb22-5d25-b4f7-c204fc4b5f35.html",
+      "originalUrl": "https://www.eagletribune.com/region/cac-corporation-integrates-cyberlink-s-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned/article_f876d4e4-cb22-5d25-b4f7-c204fc4b5f35.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/6b/c6ba7fcb-27e9-5b10-846c-2a6f7f40501c/632daf9f2647a.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/b9/6b9f3a71-3a95-545f-8973-122bb5830ac1/632daf1034eb3.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -421,8 +578,8 @@
       "publishedDateTime": "2022-09-23T06:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1068,145 +1225,6 @@
         "AI",
         "Machine Learning",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-will-ai-inspire-a-new-mm-how-artificial-intelligence-is-reshaping-mars.md",
-      "title": "Will AI inspire a new M&M? How artificial intelligence is reshaping Mars",
-      "excerpt": "Mars Inc. is in the midst of a massive AI-powered overhaul, driving digital transformation across the over 100-year-old company.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/will-ai-inspire-a-new-mm-how-artificial-intelligence-is-reshaping-mars/",
-      "originalUrl": "https://venturebeat.com/ai/will-ai-inspire-a-new-mm-how-artificial-intelligence-is-reshaping-mars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/M_Ms_Different_Shapes.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/will-ai-inspire-a-new-mm-how-artificial-intelligence-is-reshaping-mars/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/will-ai-inspire-a-new-mm-how-artificial-intelligence-is-reshaping-mars/amp/",
-      "publishedDateTime": "2022-09-22T10:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-highbyte-expands-industrial-connectivity-from-microsoft-azure-iot-edge-to-azure-digital-twins.md",
-      "title": "HighByte Expands Industrial Connectivity from Microsoft Azure IoT Edge to Azure Digital Twins",
-      "excerpt": "The industrial software company has expanded cloud connectivity and improved enterprise IT management with HighByte Intelligence Hub version 2.5.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/products/september-2022/highbyte-industrial-connectivity-microsoft-azure",
-      "originalUrl": "https://www.automation.com/en-us/products/september-2022/highbyte-industrial-connectivity-microsoft-azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/aa63c977-cdce-4db8-9dff-034bafe0dadc/Highbyte-prod-Sept-22-2022-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-falkonry-unveils-gpu-based-high-speed-time-series-anomaly-detection-application.md",
-      "title": "Falkonry Unveils GPU-Based, High-Speed Time Series Anomaly Detection Application",
-      "excerpt": "Falkonry today announced an automated anomaly detection application called Falkonry Insight which operates on high-speed sensor time series data. Insight is the newest addition to Falkonry's Time Series AI Suite to drive higher operational reliability and yield,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/09/22/9679188.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/09/22/9679188.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
-          "width": 476,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

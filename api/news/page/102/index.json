@@ -2,6 +2,179 @@
   "page": 102,
   "value": [
     {
+      "path": "_news/2022-07-07-artificial-intelligence-in-the-driving-seat.md",
+      "title": "Artificial intelligence in the driving seat",
+      "excerpt": "Defence data scientists and engineers have come close to setting a world record time in a DeepRacer artificial intelligence challenge. The participants, from the Defence, Science and Technology Laboratory (Dstl),",
+      "sourceUrl": null,
+      "webUrl": "https://www.adsadvance.co.uk/artificial-intelligence-in-the-driving-seat.html",
+      "originalUrl": "https://www.adsadvance.co.uk/artificial-intelligence-in-the-driving-seat.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T00:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Advance",
+        "domain": "adsadvance.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-no-language-left-behind-metas-new-ai-model-can-translate-200-languages.md",
+      "title": "No Language Left Behind: Meta's new AI model can translate 200 languages",
+      "excerpt": "Meta has built an language model that translates across 200 languages better than the competition at an average of 44%. It has up to 54.5 billion parameters and has been open-sourced on GitHub.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/no-language-left-behind-metas-new-ai-model-can-translate-200-languages/",
+      "originalUrl": "https://www.neowin.net/news/no-language-left-behind-metas-new-ai-model-can-translate-200-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 263,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2022/07/1657179489_287605911_512850337132384_8138110729340998362_n_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T00:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-xiaomis-self-driving-car-spotted-with-a-lidar-sensor-will-compete-against-tesla-details-here.md",
+      "title": "Xiaomi’s self-driving car spotted with a lidar sensor, will compete against Tesla: Details here",
+      "excerpt": "The upcoming Xiaomi vehicle is likely to be autonomous. The lidar sensor seen on the roof of the car is a key component of any self-driving vehicle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bgr.in/automobile/xiaomis-self-driving-car-spotted-with-a-lidar-sensor-will-compete-against-tesla-details-here-1294594/",
+      "originalUrl": "https://www.bgr.in/automobile/xiaomis-self-driving-car-spotted-with-a-lidar-sensor-will-compete-against-tesla-details-here-1294594/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://st1.bgr.in/wp-content/uploads/2022/07/Xiaomi-Car-.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bgr.in/automobile/xiaomis-self-driving-car-spotted-with-a-lidar-sensor-will-compete-against-tesla-details-here-1294594/amp/",
+      "cdnAmpWebUrl": "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/automobile/xiaomis-self-driving-car-spotted-with-a-lidar-sensor-will-compete-against-tesla-details-here-1294594/amp/",
+      "publishedDateTime": "2022-07-07T00:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "www.bgr.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-sk-telecom-sk-hynix-offer-ai-chip-curriculum-to-universities.md",
+      "title": "SK Telecom, SK hynix offer AI, chip curriculum to universities",
+      "excerpt": "SK Telecom and SK hynix jointly developed the SK ICT Curriculum education course to share practical knowledge on artificial intelligence (AI) and semiconductor technologies, which has been introduced at over 20 domestic universities so far,",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/nation/2022/07/419_332345.html?fl",
+      "originalUrl": "https://www.koreatimes.co.kr/www/nation/2022/07/419_332345.html?fl",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202207/df4f6d66dda4407ea2613c045295f652.jpg",
+          "width": 980,
+          "height": 691,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=332345",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=332345",
+      "publishedDateTime": "2022-07-07T00:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Times",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.md",
       "title": "Microsoft backs off facial recognition analysis, but big questions remain",
       "excerpt": "Microsoft is backing off its support for some AI-driven features, including facial recognition. Although it's good Microsoft is acknowledging discrimination and accuracy issues, it had years to fix the problems and didn’t.",
@@ -953,186 +1126,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-snap-says-facial-recognition-technology-abuse-suit-fails-to-meet-jurisdictional-requirements.md",
-      "title": "Snap Says Facial Recognition Technology Abuse Suit Fails to Meet Jurisdictional Requirements",
-      "excerpt": "A motion filed by Snap Inc., operator of the popular application Snapchat, said that the federal court has no authority to decide the Illinois Biometric",
-      "sourceUrl": null,
-      "webUrl": "https://lawstreetmedia.com/news/tech/snap-says-facial-recognition-technology-abuse-suit-fails-to-meet-jurisdictional-requirements/",
-      "originalUrl": "https://lawstreetmedia.com/news/tech/snap-says-facial-recognition-technology-abuse-suit-fails-to-meet-jurisdictional-requirements/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lawstreetmedia.com/wp-content/uploads/2020/04/iStock-1139217536-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://lawstreetmedia.com/news/tech/snap-says-facial-recognition-technology-abuse-suit-fails-to-meet-jurisdictional-requirements/amp/",
-      "cdnAmpWebUrl": "https://lawstreetmedia-com.cdn.ampproject.org/c/s/lawstreetmedia.com/news/tech/snap-says-facial-recognition-technology-abuse-suit-fails-to-meet-jurisdictional-requirements/amp/",
-      "publishedDateTime": "2022-07-06T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law Street Media",
-        "domain": "lawstreetmedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-social-infrastructure-startup-intros-raises-13m-to-automate-community-member-introductions.md",
-      "title": "Social Infrastructure Startup Intros Raises $1.3M To Automate Community Member Introductions",
-      "excerpt": "As more activities between groups of people start online, the need to efficiently connect members of a community rises for the billions of people across the globe. Intros.ai provides automated “introductions that happen over email,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/frederickdaso/2022/07/06/social-infrastructure-startup-intros-raises-13m-to-automate-community-member-introductions/",
-      "originalUrl": "https://www.forbes.com/sites/frederickdaso/2022/07/06/social-infrastructure-startup-intros-raises-13m-to-automate-community-member-introductions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62c1d3a1bc444b00415bfc24/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2022/07/06/social-infrastructure-startup-intros-raises-13m-to-automate-community-member-introductions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2022/07/06/social-infrastructure-startup-intros-raises-13m-to-automate-community-member-introductions/amp/",
-      "publishedDateTime": "2022-07-06T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-solving-algorithm-amnesia-reveals-clues-to-how-we-learn.md",
-      "title": "Solving algorithm 'amnesia' reveals clues to how we learn",
-      "excerpt": "The scientists focused on artificial neural networks, known as ANNs, which are algorithms designed to emulate the behavior of brain neurons. Like human minds, ANNs can absorb and classify vast ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-07-algorithm-amnesia-reveals-clues.html",
-      "originalUrl": "https://phys.org/news/2022-07-algorithm-amnesia-reveals-clues.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/solving-algorithm-amne.jpg",
-          "width": 768,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-07-algorithm-amnesia-reveals-clues.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-07-algorithm-amnesia-reveals-clues.amp",
-      "publishedDateTime": "2022-07-06T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-ptsd-linked-to-faster-cognitive-decline-in-middle-aged-women.md",
-      "title": "PTSD Linked to Faster Cognitive Decline in Middle-Aged Women",
-      "excerpt": "WEDNESDAY, July 6, 2022 (HealthDay News) -- Posttraumatic stress disorder (PTSD) is associated with accelerated cognitive decline among middle-aged women, according to a study published online ...",
-      "sourceUrl": null,
-      "webUrl": "https://columbustelegram.com/lifestyles/health-med-fit/ptsd-linked-to-faster-cognitive-decline-in-middle-aged-women/article_61288ad7-24ef-5877-9974-b8db341816a4.html",
-      "originalUrl": "https://columbustelegram.com/lifestyles/health-med-fit/ptsd-linked-to-faster-cognitive-decline-in-middle-aged-women/article_61288ad7-24ef-5877-9974-b8db341816a4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/columbustelegram.com/content/tncms/assets/v3/editorial/f/71/f718e248-224e-5de2-b802-ccde29fac952/62c5d4e51e610.image.jpg?crop=600%2C315%2C0%2C11&resize=600%2C315&order=crop%2Cresize",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T11:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Columbus Telegram",
-        "domain": "columbustelegram.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

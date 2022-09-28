@@ -1,30 +1,20 @@
 ---
 category: news
 title: "MSP360 Partners with Deep Instinct to Fully Integrate the World's First Deep Learning Cybersecurity Framework Solution"
-excerpt: "MSP360 Partners with Deep Instinct to Fully Integrate the World's First Deep Learning Cybersecurity Framework Solution Sep 13, 2022 (PRNewswire via"
-publishedDateTime: 2022-09-13T12:34:00Z
-originalUrl: "https://www.marketwatch.com/press-release/msp360-partners-with-deep-instinct-to-fully-integrate-the-worlds-first-deep-learning-cybersecurity-framework-solution-2022-09-13"
-webUrl: "https://www.marketwatch.com/press-release/msp360-partners-with-deep-instinct-to-fully-integrate-the-worlds-first-deep-learning-cybersecurity-framework-solution-2022-09-13"
+excerpt: "MSP360, a provider of simple and reliable backup and IT management solutions for managed services providers (MSPs) and IT departments worldwide, is now fully integrated with Deep Instinct, a prevention-first approach to stopping ransomware and other malware using the world's first deep learning cybersecurity framework."
+publishedDateTime: 2022-09-13T14:05:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/09/13/9672196.htm"
+webUrl: "https://it.tmcnet.com/news/2022/09/13/9672196.htm"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "H1zD2NnS21DCoQSSOyw2F8qnxFZuO+xVP84uDlW7uZ2CNX2CZoS3dCrvcBpB42XYHvL5i++AjkaKxtrgmiLfxiFrlmyYaUksntoOV0Jk8ancS8f0EUc6qi6h/gtRVSIz5HJ7T87QvDLDobZnYzoaiko5FDWFnfOHq5G7Bdle6kWis7hpLZAaNgw7BXdGTzaPIv7wmRL5KHytSNarTZ8g+b/5tH5EMDiqur4RR0uAIiWpd7MJjDYbkXF7w02XOBJN+QlaAVJFbGB605E1WMypB0sM8oq0pLgElfCO1ZdHaBfBskRsKsJglZFG8ghXUq6sQ2Gwc1AhDry2DbqnqeBVuZZ5iCpPHVPEWhWo4IO90Jo=;d6yBZyI4cTx1Mf1WWbIJEA=="
+secured: "Y2f+4qdusYP0YbAeKYc/Xnml6yzIU+q/xmOl8Hu9umu1uoRVMRHQpqSDGKWOVDhSBdTBFgkrSDoPFytisTjq0lDUkoRzp4tez3wW5ZBdznhxDjR2WF/PU1NhyUGS1Qbezxtz9p1TunLqe/6ivcXDE4htb9V4pNKJUnW8l8DRxQYhObJ7S+nsdPtQOEvnPjQz5nXhCP3RfqHJMFK+3bIm7QcLVFvOfkC3Kxoi6ZMUqTweIfVDxmJkRP5iZZi3CypmvTjP5YC5G+6uSoJDP3Xy7zzk7h6baOYJ9uSHUQ9lxqndZFfgwEYww9k+q3qZ7C+6RZDC+IdeKydyLh17vI91TB/9OdF3h9FwJnv4PTDCWLQ=;rN6I43lwGZ1xstmwoaAnDw=="
 ---
 

@@ -2,6 +2,144 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-09-22-ai-ethics-an-overview.md",
+      "title": "AI Ethics: An Overview",
+      "excerpt": "This rise in the power of AI highlights the importance of ethics in AI – we must use this powerful technology in responsible ways. For example, modern artificial intelligence is capable of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/enterprise-apps/ai-ethics/",
+      "originalUrl": "https://www.eweek.com/enterprise-apps/ai-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/11/joshua-sortino-LqKhnDzSF-8-unsplash-scaled.jpg",
+          "width": 1920,
+          "height": 1283,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-22-salesforce-deepens-partnership-with-aws.md",
+      "title": "Salesforce deepens partnership with AWS",
+      "excerpt": "Salesforce has expanded its partnership with Amazon Web Services (AWS) to enable customers to build custom artificial intelligence (AI) models using Amazon SageMaker, AWS’s machine learning (ML ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110",
+      "originalUrl": "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/09/GettyImages-1040557296-scaled.jpg",
+          "width": 2560,
+          "height": 1161,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110?amp=1",
+      "publishedDateTime": "2022-09-21T11:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-22-neural-network-speeds-holographic-image-reconstruction-for-biological-samples.md",
+      "title": "Neural network speeds holographic image reconstruction for biological samples",
+      "excerpt": "Researchers have developed a new end-to-end neural network that can speed up the reconstruction of holographic images. Unlike other deep learning techniques, the approach can be used on samples not encountered during training,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/965510",
+      "originalUrl": "https://www.eurekalert.org/news-releases/965510",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d5478dc3-2da0-4289-ae22-39a8babe2c18/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 454,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-22-startup-diveplane-wants-to-make-ai-ethical-ceo-explains-what-that-means.md",
       "title": "Startup Diveplane wants to make AI ethical: CEO explains what that means",
       "excerpt": "In today's world, artificial intelligence is used to make some big decisions. Colleges rely on it to admit students. Parole boards use it to approve or deny inmate releases.",
@@ -940,6 +1078,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-21-dementia-diagnosis-could-be-fast-tracked-using-artificial-intelligence.md",
+      "title": "Dementia diagnosis could be fast-tracked using artificial intelligence",
+      "excerpt": "Dr Roman Bauer, senior author of the study from the University of Surrey, said: \"Our study shows that using artificial intelligence analysis of EEG data as a diagnostic tool to identify dementia could be life-changing for many people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.surrey.ac.uk/news/dementia-diagnosis-could-be-fast-tracked-using-artificial-intelligence",
+      "originalUrl": "https://www.surrey.ac.uk/news/dementia-diagnosis-could-be-fast-tracked-using-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.surrey.ac.uk/sites/default/files/styles/image_gallery/public/2022-09/GettyImages-1132352689.jpg?itok=slQvzZv_",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "University of Surrey",
+        "domain": "surrey.ac.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-21-startup-diveplane-wants-to-make-ai-ethical.md",
       "title": "Startup Diveplane wants to make AI ethical",
       "excerpt": "In today’s world, artificial intelligence is used to make some big decisions. Colleges rely on it to admit students. Parole boards use it to approve or deny inmate releases. One startup in North Carolina's Research Triangle is striving to make AI systems more ethical,",
@@ -1034,207 +1215,6 @@
         "Computer Vision",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-new-yorks-landmark-ai-bias-law-prompts-uncertainty.md",
-      "title": "New York’s Landmark AI Bias Law Prompts Uncertainty",
-      "excerpt": "Businesses and their service providers are grappling with how to comply with New York City’s mandate for audits of artificial intelligence systems used in hiring.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/new-yorks-landmark-ai-bias-law-prompts-uncertainty-11663752602",
-      "originalUrl": "https://www.wsj.com/articles/new-yorks-landmark-ai-bias-law-prompts-uncertainty-11663752602",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-627364/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/new-yorks-landmark-ai-bias-law-prompts-uncertainty-11663752602",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-yorks-landmark-ai-bias-law-prompts-uncertainty-11663752602",
-      "publishedDateTime": "2022-09-21T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-automotive-artificial-intelligence-ai-market-worth-159-billion-by-2027.md",
-      "title": "Automotive Artificial Intelligence (AI) Market Worth $15.9 Billion by 2027",
-      "excerpt": "According to a new market research report \"Automotive Artificial Intelligence (AI) Market by Component (Hardware,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-worth-159-billion-by-2027-2022-09-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-worth-159-billion-by-2027-2022-09-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T01:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-elon-musks-tesla-to-unveil-humanoid-robot-next-week.md",
-      "title": "Elon Musk’s Tesla to unveil humanoid robot next week",
-      "excerpt": "Tesla is preparing to unveil a humanoid robot. Really. Plans are underway to launch a prototype of the mannequin-shaped droid — known as Tesla Bot or Optimus — at it’s ‘AI Day’ on 30 September, Reuters reports.",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-robot-next-week-17419356/",
-      "originalUrl": "https://metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-robot-next-week-17419356/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2022/09/HK3GFOZNRJJNHFHO4TNPIOP7WM-ed19.jpeg?quality=90&strip=all&zoom=1&resize=600%2C400",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-robot-next-week-17419356/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-robot-next-week-17419356/amp/",
-      "publishedDateTime": "2022-09-21T00:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-ai-computer-vision-market-share-size-financial-summaries-analysis-from-2022-2030-by-netapp-ibm-sas.md",
-      "title": "AI Computer Vision Market Share, Size, Financial Summaries Analysis from 2022-2030 | By -NetApp, IBM, SAS",
-      "excerpt": "The Global AI Computer Vision Market investigation report contains Types ( Standard, Customised ), Segmentation & all logical and factual briefs about the Market 2022 Overview, CAGR, Production Volume,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-computer-vision-market-share-size-financial-summaries-analysis-from-2022-2030-by--netapp-ibm-sas-2022-09-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-computer-vision-market-share-size-financial-summaries-analysis-from-2022-2030-by--netapp-ibm-sas-2022-09-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T00:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

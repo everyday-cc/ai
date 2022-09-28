@@ -64,15 +64,6 @@ related:
         width: 640
         height: 290
         isCached: true
-  - title: "A laughing robot and the possibilities of AI"
-    excerpt: "Letter: Yvonne Whalley remembers a play in which a robot develops at least one human trait"
-    publishedDateTime: 2022-09-23T15:33:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/sep/23/a-laughing-robot-and-the-possibilities-of-ai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 34
 
 secured: "VG9WZ7olpPgIFThzWe/UECqtwBeMLD2nvxgvUTV8r3zB406DdajssYXvBLPGyh7hrfPf89MbVCnE6hmx/8Au4F+oTmMU/xtZErbM6X0wiPjhphcugzFgVhkJgRrBi+VlCb+wXKSCG/eQVi/SpLL0aa8K0ojP1WMluCGmkPN7Lem3a49V7BLzzba//okMJe1i3eRXH+Wf4JEh3mDNFzn9gz4LPaAbdmSrphu1v08XpnNr887zDS6vMOiPvF9QRJmIvRC9jzDt5bs/2Rn9T3dErjU+OSDgfsP/N+kakutu3mcJowKpb8560Yv9oU/P1i5PZ4zsJ1jDMyw4YFPIHBvEulE2h2N8tG56BQ5D9X+ZJ2t23SMk0ZOW+gZmB2+LIrBFLC0Q+6wph8tNB1P787jMF9+lGziX/cT2rFL6U57aRZygvCe2yfM50HSqzasv8M7/dw00fZFflqd8/6MtJ6diyjQHuo8VIPMWOAku4hGpmGufWGWf0x9J2L0f522kyf2KyB8YdhRaC6rlHEo8VM5adg==;FgQfhGxPyAE1OxrV8VQa2Q=="
 ---

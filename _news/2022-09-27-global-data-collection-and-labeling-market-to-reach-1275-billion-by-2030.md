@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-global-data-collection-labeling-ma
 webUrl: "https://www.tmcnet.com/usubmit/-global-data-collection-labeling-market-reach-1275-billion-/2022/09/27/9680836.htm"
 type: article
 quality: 2
-heat: 2
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,36 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Artificial Intelligence in Aviation Market Size, Share and Forecast till 2027 with Top Countries Data"
+    excerpt: "The global Artificial Intelligence in Aviation market size was valued at USD 389.12 million in 2021 and is expected"
+    publishedDateTime: 2022-09-28T04:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-size-share-and-forecast-till-2027-with-top-countries-data-2022-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer Vision Products Market 2022 Geographical Segmentation, Industry Insights, Share, Latest Trends, Size, CAGR and Forecast till 2028"
+    excerpt: "Global “Computer Vision Products Market” research report provides a comprehensive overview, industry shares, and"
+    publishedDateTime: 2022-09-26T06:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-products-market-2022-geographical-segmentation-industry-insights-share-latest-trends-size-cagr-and-forecast-till-2028-2022-09-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "gdTKzXIHh6Jx9LD62bNeOvaOpMjs0fES2/fbOYPqn7Pu3po9tnt/+8iCVaOdnezITElAZSKxFrUY6w/zhILMnQLWOs/tfNzj/klxorYrQExTGC787OE4kWPKTW0/G+FxH0zPjVxEn/nul8z+vQamkjSBRM/Gwlshzjw3jr1y3ut2AURusIa6wV+AnioNdLPo+akw0F8DZA0c2ohaXmztRsIC0t9shq0qLwJnbZ3LXoFqlNp/57Av+azPZXB0WXnq6d7hFNPpaGmg1C7/vw8YTxnDAk4ACC+7lkn9rhskgG2UY5itGxLEkj10qw/Qa11qJFnsEORwOvuuntA7Na+zDcQHeIhYT2Sk+CXc5q7vO5I=;gMq+tRpIq7HQh1SIM1++GA=="
 ---
