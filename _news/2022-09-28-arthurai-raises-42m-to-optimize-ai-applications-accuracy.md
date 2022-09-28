@@ -33,6 +33,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Invisible AI Raises $15 Million Series A to Rapidly Scale Innovative Computer Vision Platform Across Manufacturing Facilities"
+    excerpt: "Invisible AI, a leader in state-of-the-art AI solutions for manufacturing, today announced the close of a $15 million Series A funding round, bringing the company's total amount raised to $21 million."
+    publishedDateTime: 2022-09-28T15:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/invisible-ai-raises-15-million-series-a-to-rapidly-scale-innovative-computer-vision-platform-across-manufacturing-facilities-1031770558"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
 
 secured: "d4yzr4Ff9+B5jGRDPz81sqzCA/xXMUYEYxn6JM6ko8tRKHZLLy5kfi7L8RrIZrc913LAAKInxx1QzBEkbEbeywOJFcVbb+kXPvSOjzbiV2Okj2XexDfgZNtjWfSV59W1ICeqZHLmcegvC6snpq4frel/rd28rG44Cvyj3QzCGeLO7taVnczbip0t+9xp2xqy8Nw5sNZMluyLxhCMvnvCrwfDijcI2VRAGdyD0m+cagxMVy8oUObQVPn1D+G4k2PHDqidJAZcYosz6tXTm8EHxp6vdRyqIPdcZ+xVenWNZyJJSmcHcWbVZUJb3q/iNEYPpzbegjNEzQn0LEVm5aks/9ivi53gHK4nF/AstlezRfHiLSg/DiahcOZjpJHN0gvMcOBPuFh7iA/YLl4u3C7XEHnN2KqwX6i2fEickqK/rixzowCIC7uO+ftjsKztXmw3dcMlFfq3XpbokchMK3qJka1bsVpQ7OSloRH3AYvR2dNcJc0SzAucIfW9AnWILXzjZZGTcUrBkGQnsf/+HEEJKw==;nnKy1Blf4cAAlLlIL6z+YA=="
 ---

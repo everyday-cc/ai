@@ -2,29 +2,38 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-09-28-tesla-ai-day-2022-everything-you-need-to-know.md",
-      "title": "Tesla AI Day 2022: Everything You Need To Know",
-      "excerpt": "Tesla’s AI day is their annual showcase of the latest technology across the company’s various business units. While Tesla vehicles gain the majority of the press coverage, they have a wide range of different applications and products that they continue to develop and refine.",
+      "path": "_news/2022-09-28-intels-mid-range-arc-a770-gpu-arrives-october-12th-for-329.md",
+      "title": "Intel's mid-range Arc A770 GPU arrives October 12th for $329",
+      "excerpt": "The Arc A770 supports Xe Super Sampling (XeSS) that, like NVIDIA's DLSS or AMD's FidelityFX Super Resolution, uses AI upscaling to boost frame rates at higher resolutions. It supports Intel's dedicated and integrated GPUs,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/09/27/tesla-ai-day-2022-everything-you-need-to-know/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/09/27/tesla-ai-day-2022-everything-you-need-to-know/",
+      "webUrl": "https://www.engadget.com/intel-arc-a770-gpu-price-release-date-195341500.html",
+      "originalUrl": "https://www.engadget.com/intel-arc-a770-gpu-price-release-date-195341500.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 79,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-09/13af5710-3e99-11ed-bf77-4bc0d7b0b475",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T12:27:00-07:00",
+      "publishedDateTime": "2022-09-27T13:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "Engadget",
+        "domain": "engadget.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -41,8 +50,7 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "AI in Autos"
+        "AI"
       ]
     },
     {
@@ -493,24 +501,15 @@
     {
       "path": "_news/2022-09-21-inuitive-launches-nu4100-expanding-its-edge-ai-vision-on-chip-ic-portfolio-nu4100-presents-advanced-ai-capabilities-and.md",
       "title": "Inuitive launches NU4100, expanding its Edge AI Vision-on-Chip IC portfolio; NU4100 presents advanced AI capabilities and",
-      "excerpt": "Inuitive Ltd., a Vision-on-Chip processors company, announced today the launch of its new NU4100, an expansion of its Vision and AI IC portfolio. Based on Inuitive's unique architecture and advanced 12nm process technology,",
+      "excerpt": "Geared for Robotics, the new NU4100 is setting a new industry standard by combining integrated dual-channel 4K ISP with enhanced AI performance coupled with depth-sensing and VSLAM capabilities RA'ANANA,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/09/21/9678078.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/09/21/9678078.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/09/22/9678713.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/09/22/9678713.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1903068/One_Chip_Complete_Visual_Understanding.jpg",
-          "width": 400,
-          "height": 253,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,

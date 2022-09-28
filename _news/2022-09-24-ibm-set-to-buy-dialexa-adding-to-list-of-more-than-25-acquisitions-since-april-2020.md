@@ -26,22 +26,6 @@ images:
     height: 4000
     isCached: true
 
-related:
-  - title: "IBM’s Cloud Acquisition Charge Continues With Dialexa"
-    excerpt: "Dialexa marks IBM’s sixth purchase in 2022 with the goal of boosting its hybrid cloud and artificial intelligence abilities. Along with buying Dialexa, Sentaca and Neudesic, IBM has also ..."
-    publishedDateTime: 2022-09-23T21:04:00Z
-    webUrl: "https://www.crn.com/news/cloud/ibm-s-cloud-acquisition-charge-continues-with-dialexa"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 24
-    images:
-      - url: "https://www.crn.com/resources/026b-12b6ecd3f11b-c3711fdb3c2e-1000/ibm-sign.jpg"
-        width: 610
-        height: 458
-        isCached: true
-
 secured: "H9uCW8MJC8KNGYFjPlGh25rAUONt4ulvgnpvqYFxge9qiQVMyLn5RxNrv9vxHauPx40A5BRlViknsTCbD5MNUNw+qLLiPodjz4APkWzhwoa1+wW0FbzY+ZoWahB9KrUF3MZwfmR33D97PRhXChoZC2r6QzaLYeB5vVoNBbxtyh6H1c7sp8m5/J6W1VENHFUQLVcQ4qtDw5YTPgQsJcxz8rA2KVirz9zhzQsn6PDUhBZcopMxPS8faiMXJRHjOTkZajI94AaiKwQZv62dt4w5PfoHIvfmWca8CK88PtMR3q5nbeymK5++W8pNQhqowaoFCHYC+sLSUtIbxAX2bvJ71pUGM1/3gRgSd+HuYpZbF50=;hpuh1uLigOmupduLGnaeuw=="
 ---
 

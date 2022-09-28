@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-26T12:30:00Z
 originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/09/26/artificial-intelligences-transformative-effect-on-the-gaming-industry/"
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/09/26/artificial-intelligences-transformative-effect-on-the-gaming-industry/"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:

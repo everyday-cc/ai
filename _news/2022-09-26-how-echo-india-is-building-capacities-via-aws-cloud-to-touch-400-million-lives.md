@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-26T13:40:00Z
 originalUrl: "https://www.canindia.com/how-echo-india-is-building-capacities-via-aws-cloud-to-touch-400-million-lives/"
 webUrl: "https://www.canindia.com/how-echo-india-is-building-capacities-via-aws-cloud-to-touch-400-million-lives/"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Canindia.com

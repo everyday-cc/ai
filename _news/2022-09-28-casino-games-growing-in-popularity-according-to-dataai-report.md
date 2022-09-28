@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-28T13:00:00Z
 originalUrl: "https://venturebeat.com/games/casino-games-growing-in-popularity-according-to-data-ai-report/"
 webUrl: "https://venturebeat.com/games/casino-games-growing-in-popularity-according-to-data-ai-report/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

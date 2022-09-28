@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-28T12:00:00Z
 originalUrl: "https://www.prnewswire.co.uk/news-releases/computer-vision-market-size-to-be-worth-20-88-billion-by-2030-grand-view-research-inc-301635068.html"
 webUrl: "https://www.prnewswire.co.uk/news-releases/computer-vision-market-size-to-be-worth-20-88-billion-by-2030-grand-view-research-inc-301635068.html"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: PR Newswire

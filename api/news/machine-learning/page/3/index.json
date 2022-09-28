@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-11-artificial-neural-network-market-research-by-global-size-share-growth-technological-innovation-current-trends-opportunities-and-challenges.md",
+      "title": "Artificial Neural Network Market Research By Global Size, Share, Growth, Technological Innovation, Current Trends, Opportunities And Challenges",
+      "excerpt": "An artificial neural network resembles the function and structure of the human’s brain neuron system which facilitates improved analytical output. Artificial neural network finds application in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medgadget.com/2019/09/artificial-neural-network-market-research-by-global-size-share-growth-technological-innovation-current-trends-opportunities-and-challenges.html",
+      "originalUrl": "https://www.medgadget.com/2019/09/artificial-neural-network-market-research-by-global-size-share-growth-technological-innovation-current-trends-opportunities-and-challenges.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medgadget",
+        "domain": "medgadget.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-10-11-tech-experts-on-how-small-businesses-can-effectively-leverage-machine-learning.md",
+      "title": "11 Tech Experts On How Small Businesses Can Effectively Leverage Machine Learning",
+      "excerpt": "There are plenty of ways even startups can use ML to boost their odds of success, from predicting future purchases to taking labor-intensive tasks off their team members’ plates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/09/11-tech-experts-on-how-small-businesses-can-effectively-leverage-machine-learning/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/09/11-tech-experts-on-how-small-businesses-can-effectively-leverage-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6319f94d9b5e31274c213f35/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/09/11-tech-experts-on-how-small-businesses-can-effectively-leverage-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/09/11-tech-experts-on-how-small-businesses-can-effectively-leverage-machine-learning/amp/",
+      "publishedDateTime": "2022-09-09T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-09-build-repeatable-secure-and-extensible-end-to-end-machine-learning-workflows-using-kubeflow-on-aws.md",
       "title": "Build repeatable, secure, and extensible end-to-end machine learning workflows using Kubeflow on AWS",
       "excerpt": "This is a guest blog post cowritten with athenahealth. athenahealth&nbsp;a leading provider of network-enabled software and services for medical groups and health systems nationwide. Its electronic health records, revenue cycle management, and patient engagement tools allow anytime, anywhere access,",
@@ -1316,105 +1402,6 @@
         "AI",
         "Computer Vision",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-04-how-artificial-intelligence-can-be-trained-to-detect-tumour-research.md",
-      "title": "How artificial intelligence can be trained to detect tumour: Research",
-      "excerpt": "The Bochum team's explainable AI is therefore based on the only kind of meaningful statements known to science: on falsifiable hypotheses. If a hypothesis is false, this fact must be demonstrable through an experiment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/lifestyle/health/how-artificial-intelligence-can-be-trained-to-detect-tumour-research-101662275513848.html",
-      "originalUrl": "https://www.hindustantimes.com/lifestyle/health/how-artificial-intelligence-can-be-trained-to-detect-tumour-research-101662275513848.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/09/04/1600x900/_b58a8de0-332a-11e8-9916-7e63ef9446cf_1662275576577_1662275576577.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/lifestyle/health/how-artificial-intelligence-can-be-trained-to-detect-tumour-research-101662275513848-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/how-artificial-intelligence-can-be-trained-to-detect-tumour-research-101662275513848-amp.html",
-      "publishedDateTime": "2022-09-04T00:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-why-do-we-keep-repeating-the-same-mistakes-on-ai.md",
-      "title": "Why Do We Keep Repeating The Same Mistakes On AI?",
-      "excerpt": "Artificial intelligence has been on the horizon for over seventy years. Why does it seem so close but also so unattainable? Are we repeating the same mistakes over and over?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/03/why-do-we-keep-repeating-the-same-mistakes-on-ai/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/03/why-do-we-keep-repeating-the-same-mistakes-on-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6312667f63bf3c4af5475054/0x0.jpg?format=jpg&crop=2531,1423,x158,y207,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/03/why-do-we-keep-repeating-the-same-mistakes-on-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/09/03/why-do-we-keep-repeating-the-same-mistakes-on-ai/amp/",
-      "publishedDateTime": "2022-09-03T01:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "Machine Learning",
-        "Natural Language Processing",
-        "AI Hardware"
       ]
     }
   ],

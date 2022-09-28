@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-28T12:45:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/28/how-healthcare-providers-can-improve-patient-experiences-with-rpa-ai-and-digital-workflows/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/28/how-healthcare-providers-can-improve-patient-experiences-with-rpa-ai-and-digital-workflows/"
 type: article
+quality: 54
+heat: 54
+published: false
 
 provider:
   name: Forbes

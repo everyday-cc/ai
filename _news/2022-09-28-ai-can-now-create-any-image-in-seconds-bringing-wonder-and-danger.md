@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-28T07:00:00Z
 originalUrl: "https://www.washingtonpost.com/technology/interactive/2022/artificial-intelligence-images-dall-e/"
 webUrl: "https://www.washingtonpost.com/technology/interactive/2022/artificial-intelligence-images-dall-e/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Washington Post

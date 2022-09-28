@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-27T17:05:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/09/b29037953/aws-announces-general-availability-of-aws-iot-fleetwise"
 webUrl: "https://www.benzinga.com/pressreleases/22/09/b29037953/aws-announces-general-availability-of-aws-iot-fleetwise"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Benzinga.com

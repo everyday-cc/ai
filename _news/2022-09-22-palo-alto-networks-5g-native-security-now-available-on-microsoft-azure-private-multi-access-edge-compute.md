@@ -1,15 +1,19 @@
 ---
 category: news
 title: "Palo Alto Networks 5G-Native Security Now Available on Microsoft Azure Private Multi-Access Edge Compute"
-excerpt: "PRNewswire/ — Palo Alto Networks (NASDAQ: PANW), a Microsoft Azure private MEC ecosystem partner, today announced availability of VM-Series Virtual Next-Generation Firewall (NGFW) technology on the Azure Marketplace."
-publishedDateTime: 2022-09-22T13:44:00Z
-originalUrl: "https://www.darkreading.com/cloud/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute"
-webUrl: "https://www.darkreading.com/cloud/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute"
+excerpt: "Palo Alto Networks 5G-Native Security Now Available on Microsoft Azure Private Multi-Access Edge Compute Sep 22, 2022 (PRNewswire via COMTEX) -- PR"
+publishedDateTime: 2022-09-22T12:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute-2022-09-22"
+webUrl: "https://www.marketwatch.com/press-release/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute-2022-09-22"
 type: article
 
 provider:
-  name: Dark Reading
-  domain: darkreading.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
@@ -17,11 +21,11 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://beta.darkreading.com/images/og-image.jpg"
-    width: 342
-    height: 342
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "qrMe+HWz+rNpzSm50eoSqR3wwaeoQK7N95HbZZZYCscXA9UUVKF863vQuyq59/xCJJEAvHGlPqQ/g9WHW3uLSBsDj46U//g/MuiPtmGLA/ExOdC6F81zvNn8LLWGhUnygZ6EA4AwFdwTRaqjfMdc1KPZNjS1et8wfHcTWAQFjQKpc22oQcCc9jOwezXW1nINZ1a6xIBkaVMTak2upzoadhB59RRwdD2Ry6xrPUlxNxyM0WqwTVRVnKuuoiI3MEiL1Z9aMf2hsuDMqkxZbMKXrY2+2TiX3/hPaIqy5DQ28zbuf4xYNDJPwaK09z9Qs3yc4SzPetbS/E84VGSS1BChJJ0nQ+2PBaqdepYwFA/y4C0=;3t1m7T0vawJut88e6pX3Dw=="
+secured: "QNRAz/7YoRqbTw3aOy8ivuPQsEQRWD0WXSgleDJZXtyI0AZPbQ4aV6C/HA6xKget1HTFi8Mjj5nFHFVzEJgtvZJxEoB8au97l+LHVOAuJ9LG2Ra4xQ+jtK76jkwHRhMzbLHnrYtXIjs2bEeXZhJ+HI+0eecN9qIkaXwh/W5iaNmenNkzBUMQ0ArN2KqGgmYh7DsKFpSsGAqVmnhrcezdknEN+kPJxPtcrX7W18ifL+r0wLE9cVYdbRnLGAJ3R5wP+8WMFs3ZKfKavAJioiDnZAUxErKDIgyF+Uhqo5P/ZjyX4NAXoe7YYowMrWTDj7fCbCLgpPrm0xPGXJ3f8HwJWIqpQQlu2M2U557WGktBTuI=;7b26aZoyeCG5UaGFmpp5GA=="
 ---
 

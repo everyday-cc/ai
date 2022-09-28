@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Salesforce deepens partnership with AWS"
-excerpt: "Salesforce has expanded its partnership with Amazon Web Services (AWS) to enable customers to build custom artificial intelligence (AI) models using Amazon SageMaker, AWS’s machine learning (ML ..."
-publishedDateTime: 2022-09-21T18:55:00Z
-originalUrl: "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110"
-webUrl: "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110"
-ampWebUrl: "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110?amp=1"
-cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110?amp=1"
+excerpt: "Salesforce has expanded its partnership with Amazon Web Services (AWS) to enable customers to build custom artificial intelligence (AI) models using Amazon SageMaker, AWS’s machine learning (ML) modeling service,"
+publishedDateTime: 2022-09-21T18:38:00Z
+originalUrl: "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955"
+webUrl: "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955"
+ampWebUrl: "https://www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955?amp=1"
+cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/salesforce-deepens-partnership-with-aws/122955?amp=1"
 type: article
 
 provider:
-  name: IT World Canada
-  domain: itworldcanada.com
+  name: IT Business
+  domain: itbusiness.ca
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://i.itworldcanada.com/wp-content/uploads/2022/09/GettyImages-1040557296-scaled.jpg"
-    width: 2560
-    height: 1161
+  - url: "https://i.itbusiness.ca/wp-content/uploads/2022/09/GettyImages-1040557296.jpg"
+    width: 2000
+    height: 907
     isCached: true
 
-secured: "TPnsJxmC7gIJjOmcoyq0rT88qomC3P9K/SO+mFxcz6CnPJ+0HvFKiY/lKyLnhoGyVIq0/+IrDZopomv4a8hWI50iWHB+K9RlVjGxMlGzezFhh3ybE5jwL6OCqlqukri9ixYkPuAly+sQl+aLEc9kxNtlxJTgwLKLm4KT96C2Taf3Uy2patIzOZCP84nH9d3KXTdKgU05mnPtTB+hMFndkYUxoDuYAcIrFQExxJ0iDFgXcsT06+IOEuEW4Jq3AXRuE5O/eI+d72Pn/WwBpurGOz3aW8gpahaeQMun+2DqDx+KFv63fFXUTT3pbLJu14ogvL3lXD0s5qGWVN/MTvN2VIY0MAViS81KbeIoPgJw8XY=;m0fhWdEHzXZp3hgkHwMBJQ=="
+secured: "Joxup+bQjOlaI30CPX54UZDF+jrhnZhyfaeu+aSXMaD6pNH1Tm1VptwjSJoVO+uk38l5egHGDE78U1bcodgy/j4Ijz//d/n0oM18JC3teckD3zhaZamsvkX/UEGQwNjjWnWNMCOzHdMnNt6GlJ4z+CCBS8rNTAwFDyuarCVSQNQOlNZGtiCFpbfzjNUO3EMTAYHfz8iy7a5N7Df5zM23/xfKX2nhudOOjAqFUj6FzjJZ60z9EzOkRRaJFaOj96QwuII1ij74Bh5H6eMQd30B/e612I714fNBWXvq0M4Y93gO0bd7nzu3Rswg5Fcs+punxWE3/P0n5VBWBeSCQkxdb9vNsrN6UnhKLEqhZ0fXkAE=;06TH7ySnWIuvwMDxiNhMKA=="
 ---
 

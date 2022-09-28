@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-25T18:43:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/newsfile-2022-9-26-firework-games-collaborates-with-aws-on-the-upcoming-release-of-its-first-3d-space-battle-royale-game"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/newsfile-2022-9-26-firework-games-collaborates-with-aws-on-the-upcoming-release-of-its-first-3d-space-battle-royale-game"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Daily Herald

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-28T13:16:00Z
 originalUrl: "https://skift.com/blog/faroe-islands-national-gallery-becomes-the-first-to-launch-artificial-intelligence-exhibit/"
 webUrl: "https://skift.com/blog/faroe-islands-national-gallery-becomes-the-first-to-launch-artificial-intelligence-exhibit/"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: Skift

@@ -2,6 +2,147 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-22-detect-population-variance-of-endangered-species-using-amazon-rekognition.md",
+      "title": "Detect population variance of endangered species using Amazon Rekognition",
+      "excerpt": "Our planet faces a global extinction crisis. UN Report shows a staggering number of more than a million species feared to be on the path of extinction. The most common reasons for extinction include loss of habitat, poaching, and invasive species. Several wildlife conservation foundations, research scientists,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-population-variance-of-endangered-species-using-amazon-rekognition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-population-variance-of-endangered-species-using-amazon-rekognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/13/image001-2-e1663023193495.png",
+          "width": 661,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T14:25:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-09-23-automotive-artificial-intelligence-ai-market-size-to-hit-usd-191-bn-by-2030.md",
+      "title": "Automotive Artificial Intelligence (AI) Market Size to Hit USD 19.1 Bn by 2030",
+      "excerpt": "The global automotive artificial intelligence (AI) market size was valued at USD 2.9 billion in 2021. The development in the auto business is supposed to drive the automotive",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28977012",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28977012",
+      "publishedDateTime": "2022-09-22T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-23-top-natural-language-processing-companies-2022.md",
+      "title": "Top Natural Language Processing Companies 2022",
+      "excerpt": "These leading Natural Language Processing vendors can help AI deployments \"learn\" how to listen and interact with humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/natural-language-processing-companies/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/natural-language-processing-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-DSOM-Image02-800x800-1.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-09-23-how-to-leverage-ai-to-boost-care-management-success.md",
       "title": "How to leverage AI to boost care management success",
       "excerpt": "As a rapidly evolving technology, AI is adapting itself to the needs of the healthcare industry at an unprecedented pace.",
@@ -436,50 +577,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-22-palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute.md",
-      "title": "Palo Alto Networks 5G-Native Security Now Available on Microsoft Azure Private Multi-Access Edge Compute",
-      "excerpt": "PRNewswire/ — Palo Alto Networks (NASDAQ: PANW), a Microsoft Azure private MEC ecosystem partner, today announced availability of VM-Series Virtual Next-Generation Firewall (NGFW) technology on the Azure Marketplace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.darkreading.com/cloud/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute",
-      "originalUrl": "https://www.darkreading.com/cloud/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.darkreading.com/images/og-image.jpg",
-          "width": 342,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dark Reading",
-        "domain": "darkreading.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2022-09-22-artificial-intelligence-tools-speed-up-the-process-of-identifying-people-who-inject-drugs.md",
       "title": "Artificial intelligence tools speed up the process of identifying people who inject drugs",
       "excerpt": "An automated process that combines natural language processing and machine learning identified people who inject drugs (PWID) in electronic health records more quickly and accurately than current methods that rely on manual record reviews.",
@@ -617,6 +714,59 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-22-palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute.md",
+      "title": "Palo Alto Networks 5G-Native Security Now Available on Microsoft Azure Private Multi-Access Edge Compute",
+      "excerpt": "Palo Alto Networks 5G-Native Security Now Available on Microsoft Azure Private Multi-Access Edge Compute Sep 22, 2022 (PRNewswire via COMTEX) -- PR",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute-2022-09-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute-2022-09-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -1038,162 +1188,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-getty-is-banning-ai-generated-images.md",
-      "title": "Getty Is Banning AI-Generated Images",
-      "excerpt": "AI-created works. Popular AI image generators such as Dall-E, Stable Diffusion and Midjourney will no longer be allowed on the site, PetaPixel reported. \"We've already started removing content, but this will be an ongoing effort from our teams,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/getty-is-banning-ai-generated-images/",
-      "originalUrl": "https://www.cnet.com/news/getty-is-banning-ai-generated-images/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/f835513ea991cea316e5bb8b23246e208ecfdc93/hub/2022/09/21/5ef652f0-14d6-484f-b947-13e6ecd9c8aa/gettyimages-1346301198.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/getty-is-banning-ai-generated-images/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/getty-is-banning-ai-generated-images/",
-      "publishedDateTime": "2022-09-21T15:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-nvidia-ceo-jensen-huang-ai-language-models-as-a-service-potentially-one-of-the-largest-software-opportunities-ever.md",
-      "title": "Nvidia CEO Jensen Huang: AI language models as-a-service \"potentially one of the largest software opportunities ever\"",
-      "excerpt": "Nvidia co-founder and CEO Jensen Huang opened his company's fall GTC conference with numerous product and service announcements, including the introduction of two cloud computing services the company will operate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nvidia-ceo-jensen-huang-ai-language-models-as-a-service-potentially-one-of-the-largest-software-opportunities-ever/",
-      "originalUrl": "https://www.zdnet.com/article/nvidia-ceo-jensen-huang-ai-language-models-as-a-service-potentially-one-of-the-largest-software-opportunities-ever/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/f2739fe30ad9f14692989d133ecac97705c65ada/2022/09/20/bce66508-0423-492b-bfd3-e70685a1a807/jensen-huang-gtc-2022-crop-for-twitter.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-ceo-jensen-huang-ai-language-models-as-a-service-potentially-one-of-the-largest-software-opportunities-ever/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-ceo-jensen-huang-ai-language-models-as-a-service-potentially-one-of-the-largest-software-opportunities-ever/",
-      "publishedDateTime": "2022-09-21T14:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-amazon-comprehend-targeted-sentiment-adds-synchronous-support.md",
-      "title": "Amazon Comprehend Targeted Sentiment adds synchronous support",
-      "excerpt": "Earlier this year, Amazon Comprehend, a natural language processing (NLP) service that uses machine learning (ML) to discover insights from text, launched the Targeted Sentiment feature. With Targeted Sentiment, you can identify groups of mentions (co-reference groups) corresponding to a single real-world",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-targeted-sentiment-adds-synchronous-support/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-targeted-sentiment-adds-synchronous-support/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/21/comprehend-targeted-sentiment-synchronous.jpg",
-          "width": 1533,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T14:27:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

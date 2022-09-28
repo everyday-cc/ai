@@ -2,6 +2,144 @@
   "page": 108,
   "value": [
     {
+      "path": "_news/2022-07-01-its-alive-how-belief-in-ai-sentience-is-becoming-a-problem.md",
+      "title": "It's alive! How belief in AI sentience is becoming a problem",
+      "excerpt": "The issue of machine sentience - and what it means - hit the headlines this month when Google placed senior software engineer Blake Lemoine on leave a..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/its-alive-how-belief-in-ai-sentience-is-becoming-a-problem/92587380",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/its-alive-how-belief-in-ai-sentience-is-becoming-a-problem/92587380",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-92587380,imgsize-87554,width-1200,height-628,overlay-etcio/it-s-alive-how-belief-in-ai-sentience-is-becoming-a-problem.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/its-alive-how-belief-in-ai-sentience-is-becoming-a-problem/92587380",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/its-alive-how-belief-in-ai-sentience-is-becoming-a-problem/92587380",
+      "publishedDateTime": "2022-06-30T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-viettel-enters-ai-collaboration-with-nvidia.md",
+      "title": "Viettel Enters AI Collaboration with NVIDIA",
+      "excerpt": "Viettel Group and NVIDIA signed a Memorandum of Understanding (MoU) to establish a strategic partnership on using Artificial Intelligence (AI) to advance Viettel and Vietnam's technology research and solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/viettel-enters-ai-collaboration-with-nvidia-1031561934",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/viettel-enters-ai-collaboration-with-nvidia-1031561934",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1851865/Image_1.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T20:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-iit-delhi-to-curate-robotics-curriculum-for-schools-of-excellence.md",
+      "title": "IIT Delhi to curate robotics curriculum for schools of excellence",
+      "excerpt": "Through this curriculum, students will be trained in different aspects of robotics and automation which will in the field, they said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/cities/delhi/2022/jul/01/iit-delhi-to-curate-robotics-curriculum-for-schools-of-excellence-2471704.html",
+      "originalUrl": "https://www.newindianexpress.com/cities/delhi/2022/jul/01/iit-delhi-to-curate-robotics-curriculum-for-schools-of-excellence-2471704.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/7/1/w600X390/IIT.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/cities/delhi/2022/jul/01/iit-delhi-to-curate-robotics-curriculum-for-schools-of-excellence-2471704.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/delhi/2022/jul/01/iit-delhi-to-curate-robotics-curriculum-for-schools-of-excellence-2471704.amp",
+      "publishedDateTime": "2022-06-30T20:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-01-resecurityr-brings-cyber-threat-intelligence-to-microsoft-azure.md",
       "title": "Resecurity(R) Brings Cyber Threat Intelligence to Microsoft Azure",
       "excerpt": "Brings Cyber Threat Intelligence to Microsoft Azure Jun 30, 2022 (PRNewswire via COMTEX) -- PR Newswire LOS ANGELES, June 30,",
@@ -946,161 +1084,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-cybersecurity-startup-inspectiv-closes-in-on-86-million-funding-expands-c-suite.md",
-      "title": "Cybersecurity Startup Inspectiv Closes In On $8.6 Million Funding, Expands C-Suite",
-      "excerpt": "Have you ever felt like your entire life has been leading up to one moment?” Melika said. “This is it for me.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/phoebeliu/2022/06/30/cybersecurity-startup-inspectiv-closes-in-on-86-million-funding-expands-c-suite/",
-      "originalUrl": "https://www.forbes.com/sites/phoebeliu/2022/06/30/cybersecurity-startup-inspectiv-closes-in-on-86-million-funding-expands-c-suite/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62bdae5523e0787000d54849/0x0.png?format=png&crop=823,386,x20,y119,safe&width=1200",
-          "width": 823,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/phoebeliu/2022/06/30/cybersecurity-startup-inspectiv-closes-in-on-86-million-funding-expands-c-suite/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/phoebeliu/2022/06/30/cybersecurity-startup-inspectiv-closes-in-on-86-million-funding-expands-c-suite/amp/",
-      "publishedDateTime": "2022-06-30T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-mahima-pushkarna-is-making-data-easier-to-understand.md",
-      "title": "Mahima Pushkarna is making data easier to understand",
-      "excerpt": "Five years ago, information designer Mahima Pushkarna joined Google to make data easier to understand. As a senior interaction designer on the People + AI Research (PAIR) team, she designed Data Cards to help everyone better understand the contexts of the data they are using. The Data Cards Playbook",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/research/mahima-pushkarna-interview/",
-      "originalUrl": "https://blog.google/technology/research/mahima-pushkarna-interview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Mahima_Pushkarna_Keyword2x.max-1300x1300.png",
-          "width": 1300,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/research/mahima-pushkarna-interview/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/research/mahima-pushkarna-interview/amp/",
-      "publishedDateTime": "2022-06-30T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-the-fight-over-which-uses-of-ai-europe-should-outlaw.md",
-      "title": "The Fight Over Which Uses of AI Europe Should Outlaw",
-      "excerpt": "The European Union’s AI Act will set ground rules for what the technology can and can’t do to people—like whether it’s OK to deploy AI lie detectors at borders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/europe-law-outlaw-ai/",
-      "originalUrl": "https://www.wired.com/story/europe-law-outlaw-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/62bcdad7042ab1ffde99c514/master/pass/Border-Patrol-Greece-AI-Polygraphs-Business-1233365255.jpg",
-          "width": 2400,
-          "height": 1597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/europe-law-outlaw-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/europe-law-outlaw-ai/amp",
-      "publishedDateTime": "2022-06-30T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

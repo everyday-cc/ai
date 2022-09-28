@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-driving Cars Market Size 2022-2028 Global Industrial Analysis by Growth Rate, Market Share, Revenue and Forecast Research Report"
+    excerpt: "Sep 27, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Self-driving Cars"
+    publishedDateTime: 2022-09-27T09:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-size-2022-2028-global-industrial-analysis-by-growth-rate-market-share-revenue-and-forecast-research-report-2022-09-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 3
 
 secured: "gdTKzXIHh6Jx9LD62bNeOvaOpMjs0fES2/fbOYPqn7Pu3po9tnt/+8iCVaOdnezITElAZSKxFrUY6w/zhILMnQLWOs/tfNzj/klxorYrQExTGC787OE4kWPKTW0/G+FxH0zPjVxEn/nul8z+vQamkjSBRM/Gwlshzjw3jr1y3ut2AURusIa6wV+AnioNdLPo+akw0F8DZA0c2ohaXmztRsIC0t9shq0qLwJnbZ3LXoFqlNp/57Av+azPZXB0WXnq6d7hFNPpaGmg1C7/vw8YTxnDAk4ACC+7lkn9rhskgG2UY5itGxLEkj10qw/Qa11qJFnsEORwOvuuntA7Na+zDcQHeIhYT2Sk+CXc5q7vO5I=;gMq+tRpIq7HQh1SIM1++GA=="
 ---

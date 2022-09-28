@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 601
         isCached: true
+  - title: "Denver data startup raises $50M to grow engineering team"
+    excerpt: "The Denver-based startup's customers include Spotify, AstraZeneca and CBRE. The latest funding round brings Flatfile to nearly $95 million in total capital raised since its founding in 2018."
+    publishedDateTime: 2022-09-28T11:18:00Z
+    webUrl: "https://www.bizjournals.com/denver/inno/stories/fundings/2022/09/28/denver-data-startup-flatfile-fundraise-series-b.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "4pmom0o53TytMQ9c+lU2jy4dHLWkqRFE9m/T35GGUrF74I60e13aE3sv7z6y82kZ3NUb2uSOWHMn4p74A45O9OAQt/ebgklGAZgu6njPfvt0GuvbR5cIp9vS5DXaZRekmRcrFlnRJBw7Zmh9tya3LFxteC3uwDZ3GcYR0/Z08aBbV5qkge7miGCZ5sgDTbk5itsrTtot6gRFPogSTTj0w8hkxie0TEBS2K609FEXyqcqQwNOwRrljlTA/mmPQQGBsQOHV5qfREleSUE05ZjNoKN4N94MPg3fOcXY0EHkO2/c/pfkj8UfjeYsUCrxGB5NmlGuVKecDD5bIBowI9AXGxZRWF8OeGDXVcO9s/E/Vwo19+ZJ9+czSo0q+VZYMQ/0FJUj7PaHRazGM6Eff10RIm6NnI+AS2o2DcOKd8wZj/q+Y6U1RGk0Hug/6RTkDdvVWTO80ROg2Eo00OF+SNr3izc/r2HBwlGQjsKr3EjOOULLASE7dJi+6AroEFbApVtWq1DRHH3yLiniZ917s5bsBg==;ZV+R/zGZoKYKF3ObP/Takw=="
 ---

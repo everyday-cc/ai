@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech debuts app that combines banking and life insurance"
-    excerpt: "A new app is combining banking and insurance into one service aimed at people who feel excluded from traditional financial services. Onuu, which announced its official launch on Friday, has a waitlist of 600,"
-    publishedDateTime: 2022-09-23T20:54:00Z
-    webUrl: "https://www.americanbanker.com/news/fintech-debuts-app-that-combines-banking-and-life-insurance"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/81682fb/2147483647/strip/true/crop/1200x630+0+313/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F03%2F9e%2F952a512f42a69153de6aeb752802%2Ffelix-from-onuu.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Buyer, beware! Your brain on fintech"
     excerpt: "How behavioural science has made investing easier, but also more perilous."
     publishedDateTime: 2022-09-27T05:25:00Z

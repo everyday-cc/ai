@@ -115,6 +115,34 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Microsoft raises its voice on climate priorities"
+    excerpt: "The technology giant declares energy and carbon policy goals, underscores role of digitization in speeding low-carbon economy transition."
+    publishedDateTime: 2022-09-26T09:43:00Z
+    webUrl: "https://www.greenbiz.com/article/microsoft-raises-its-voice-climate-priorities"
+    type: article
+    provider:
+      name: GreenBiz
+      domain: greenbiz.com
+    quality: 56
+    images:
+      - url: "https://www.greenbiz.com/sites/default/files/styles/og_image_1200x630/public/2022-09/22-0922-019-media-highlights-day3-PhotoByAyanoHisa.jpg?itok=Ix66jJUr"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft and UiPath partner to bring Azure automation solutions to market"
+    excerpt: "Enterprise automation vendor UiPath today announced a collaboration with Microsoft to bring Azure-powered automation solutions to market"
+    publishedDateTime: 2022-09-28T15:47:00Z
+    webUrl: "https://www.information-age.com/microsoft-uipath-partner-to-bring-azure-automation-solutions-to-market-123500068/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 52
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2022/09/microsoft-uipath-partner-to-bring-azure-automation-solutions-to-market.jpg.optimal.jpg"
+        width: 1080
+        height: 591
+        isCached: true
   - title: "Wallaroo Unveils Integration with Microsoft Azure Marketplace, Debuts Latest Edge Environment Technology"
     excerpt: "Wallaroo Labs, developers of a model operations platform for deploying, observing, and managing machine learning in production, is announcing integration of Wallaroo Enterprise Edition with Microsoft Azure Marketplace,"
     publishedDateTime: 2022-09-26T20:10:00Z

@@ -2,6 +2,144 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2022-07-08-chip-makers-press-for-standardized-fp8-format-for-ai.md",
+      "title": "Chip Makers Press For Standardized FP8 Format For AI",
+      "excerpt": "Nvidia introduced its GH100, the first GPU based on the new “Hopper” architecture, which is aimed at both HPC and AI workloads, and importantly",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2022/07/07/chip-makers-press-for-standardized-fp8-format-for-ai/",
+      "originalUrl": "https://www.nextplatform.com/2022/07/07/chip-makers-press-for-standardized-fp8-format-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/07/numbers-logo-scaled.jpg",
+          "width": 2560,
+          "height": 1928,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2022/07/07/chip-makers-press-for-standardized-fp8-format-for-ai/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/07/07/chip-makers-press-for-standardized-fp8-format-for-ai/amp/",
+      "publishedDateTime": "2022-07-07T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-kmworld-ai-50-2022-the-companies-empowering-intelligent-knowledge-management.md",
+      "title": "KMWorld AI 50 2022: The Companies Empowering Intelligent Knowledge Management",
+      "excerpt": "which elevates customer support and self-service outcomes through a unified cognitive platform and suite of next-gen support applications. Hyland—Hyland is a content services provider whose platform enables organizations to augment existing solutions and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/Editorial/Features/KMWorld-AI-50-2022-The-Companies-Empowering-Intelligent-Knowledge-Management-153339.aspx",
+      "originalUrl": "https://www.kmworld.com/Articles/Editorial/Features/KMWorld-AI-50-2022-The-Companies-Empowering-Intelligent-Knowledge-Management-153339.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/146747-AI50_2022.jpg-ORG.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-cognitive-computing-market-size-worth-usd-30523-billion-at-cagr-of-310-by-2030.md",
+      "title": "Cognitive Computing Market Size Worth USD 305.23 Billion at CAGR of 31.0%, By 2030",
+      "excerpt": "The global cognitive computing market is forecast to reach USD 305.23 Billion by 2030, according to a new report by Reports and Data. The cognitive computing technology derives the answers and works like the human brains.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-computing-market-size-worth-usd-30523-billion-at-cagr-of-310-by-2030-2022-07-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-computing-market-size-worth-usd-30523-billion-at-cagr-of-310-by-2030-2022-07-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-artificial-intelligence-is-evolving-imagine-dali-art-painted-by-a-bot.md",
       "title": "Artificial Intelligence is evolving: Imagine Dali art painted by a bot",
       "excerpt": "General AI looks reachable but we must watch out for human tics and foibles inherited by machines",
@@ -1010,143 +1148,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-ai-could-do-better-job-of-managing-economy-than-humans-deepmind-research-suggests.md",
-      "title": "AI could do better job of managing economy than humans, DeepMind research suggests",
-      "excerpt": "New research suggests artificial intelligence could redistribute wealth and resources more effectively than humans and help end inequality - but scaling it up on a world scale wouldn't be easy",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailystar.co.uk/tech/news/ai-could-better-job-managing-27420532",
-      "originalUrl": "https://www.dailystar.co.uk/tech/news/ai-could-better-job-managing-27420532",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.dailystar.co.uk/incoming/article27420698.ece/ALTERNATES/s615/1_FILES-BRITAIN-POLITICS-JOHNSON-VOTE.jpg",
-          "width": 615,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailystar.co.uk/tech/news/ai-could-better-job-managing-27420532.amp",
-      "cdnAmpWebUrl": "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/news/ai-could-better-job-managing-27420532.amp",
-      "publishedDateTime": "2022-07-07T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Star",
-        "domain": "dailystar.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-this-new-neural-sleeve-helps-people-overcome-mobility-challenges.md",
-      "title": "This new neural sleeve helps people overcome mobility challenges",
-      "excerpt": "The wearable device from CIONIC combines gait analysis with functional electrical stimulation. It has recently emerged from stealth mode.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-new-neural-sleeve-helps-people-overcome-mobility-challenges/",
-      "originalUrl": "https://www.zdnet.com/article/this-new-neural-sleeve-helps-people-overcome-mobility-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/8d4999e33afec39c2aa280f1c474f1299ebe00e8/2022/07/06/5c717121-032a-4673-9625-83b9082fdd20/cionic-neural-sleeve-1-edit.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-new-neural-sleeve-helps-people-overcome-mobility-challenges/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-neural-sleeve-helps-people-overcome-mobility-challenges/",
-      "publishedDateTime": "2022-07-07T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-getting-bored-try-this-ai-image-generator-that-spits-out-the-weirdest-and-craziest-meme.md",
-      "title": "Getting Bored? Try This AI Image Generator That Spits Out The Weirdest And Craziest Meme",
-      "excerpt": "Artificial intelligence company Open AI introduced a visual incubator (online text to image generator) in 2021 dubbed Dall.E. While Dall.E is a bit restricted although a community project, Dall.E Mini is not.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/34524/getting-bored-try-this-ai-image-generator-that-spits-out-the-weirdest-and-craziest-meme",
-      "originalUrl": "https://in.mashable.com/tech/34524/getting-bored-try-this-ai-image-generator-that-spits-out-the-weirdest-and-craziest-meme",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/dall-e_73af.620.jpg",
-          "width": 619,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/34524/getting-bored-try-this-ai-image-generator-that-spits-out-the-weirdest-and-craziest-meme?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/34524/getting-bored-try-this-ai-image-generator-that-spits-out-the-weirdest-and-craziest-meme?amp=1",
-      "publishedDateTime": "2022-07-07T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

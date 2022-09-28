@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-28T13:52:00Z
 originalUrl: "https://www.oreanda.ru/en/v_mire/israel-explains-deployment-of-remote-controlled-turret/article1449778/"
 webUrl: "https://www.oreanda.ru/en/v_mire/israel-explains-deployment-of-remote-controlled-turret/article1449778/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: oreanda.ru
