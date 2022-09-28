@@ -1,20 +1,22 @@
 ---
 category: news
 title: "What Disruptive Digital Technology Innovations Will Shape Tomorrow's Ophthalmic Healthcare?"
-excerpt: "Founder and CEO of Doctorsoft, Sanjay Logani, MD, MBA, FACS highlight the importance of this partnership by stating \"The relationship between Doctorsoft and VisionTek marks a new era in healthcare technology with innovative artificial intelligence and bot ..."
-publishedDateTime: 2022-09-27T16:10:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/n29035897/what-disruptive-digital-technology-innovations-will-shape-tomorrows-ophthalmic-healthcare"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/n29035897/what-disruptive-digital-technology-innovations-will-shape-tomorrows-ophthalmic-healthcare"
-ampWebUrl: "https://www.benzinga.com/amp/content/29035897"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29035897"
+excerpt: "Sanjay Logani, MD, CEO of Doctorsoft, amplifies how A.I. and bot technology is changing healthcare. Some are focused on innovations that enhance patient care, many on wearable technologies, and others on remote patient monitoring,"
+publishedDateTime: 2022-09-27T16:07:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/what-disruptive-digital-technology-innovations-will-shape-tomorrow-s-ophthalmic-healthcare-1031767750"
+webUrl: "https://markets.businessinsider.com/news/stocks/what-disruptive-digital-technology-innovations-will-shape-tomorrow-s-ophthalmic-healthcare-1031767750"
 type: article
-quality: 49
-heat: 49
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
@@ -26,6 +28,6 @@ images:
     height: 400
     isCached: true
 
-secured: "fEmlbXzGKAOeQ9jZvbPuh+URswUTN85IAE6TIcgCKL8oXCK1UzYc1PNmmayr6fo55wCkk+v4ib3fi57vuf5r9Zsj+vXLBYajEfdNXcQ23/yzpk83qxedJWda2klxTJI984IKEEiVDM9XddZdW9+RI0BXH0NxEwVte7NuwI9+4/Lhz1X4OGkmcUpEy/KObHm4URVocSniBGfVaiChYtObMKKQNOqnoqPgu9ayUAhglJcW9iYhZpOeIX0yisGWvNaA4o9udDZdC4azxLMdC7dKl7bYNEv3goJyTka22kekUOZeNeQF2E8vQNqCX9T3wSVyDXnsvWLyKixUKQh9vshxgibm6k2GaJHumUauvFaziFA=;Uyh1x7faGFs4eK7pkBKS9g=="
+secured: "+0/uj8dyjkBeJkv42EoaXCyBuGOeOOSUJlpIP9Ehio8ZsqMxi5jSUyK0tlMj4QUORMm4xzzxswH2zH9VCkpMze7mabaaAdZ6e1QmpTD29OjUWpWyyv+rHz6kY0VUMZuroUZdxdC1harkJIDRtf3n8c1neR3Z+r65ptlBQQTV3zAY/gMjSBHVb60ZiibxBoGR1XFZPN8z6PET4qo0p6l17VhxgygrTm66Bmhk6MVtj/o2dA8Lq2ZKk/t9GkzOlGHZAfH0s6wyXxoSx9Gf02T4QQXc95zUT0S+5aaCPUecIDkxN/GNpK+54d9C8/t+Fs1Kjc1LcmRCb0EO6zX70OGFkpiI0v1wxM6TfLZ3kEsm4Xg=;AACIBeCJUlfhBAAFzpnMTQ=="
 ---
 

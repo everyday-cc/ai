@@ -1,25 +1,29 @@
 ---
 category: news
-title: "CAC Corporation integrates CyberLink's FaceMe Facial Recognition into the POS terminals of their Unmanned Ministop Store"
-excerpt: "To create a facial recognition payment system that requires nothing more than the end user's face, CAC turned to CyberLink's AI facial recognition engine, FaceMe. Deployed in February of 2022 ..."
-publishedDateTime: 2022-09-23T13:14:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/b28982557/cac-corporation-integrates-cyberlinks-faceme-facial-recognition-into-the-pos-terminals-of-their-un"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/b28982557/cac-corporation-integrates-cyberlinks-faceme-facial-recognition-into-the-pos-terminals-of-their-un"
-ampWebUrl: "https://www.benzinga.com/amp/content/28982557"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28982557"
+title: "CAC Corporation integrates CyberLink’s FaceMe Facial Recognition into the POS terminals of their Unmanned Ministop Store"
+excerpt: "CyberLink Corp., a pioneer of AI and facial recognition technologies, has collaborated with CAC Corporation (CAC) to integrate its AI facial recognition engine, FaceMe®, into CAC’s facial recognition payment system."
+publishedDateTime: 2022-09-23T13:03:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/cac-corporation-integrates-cyberlink-s-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned/article_1239e162-574d-5593-81dd-3fc17f538f3d.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/cac-corporation-integrates-cyberlink-s-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned/article_1239e162-574d-5593-81dd-3fc17f538f3d.html"
 type: article
 quality: 14
 heat: 14
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "6DsCwKHezNEwBESXJ52JWTuN1IHW2SOif+BdrgIx+863KqoM+L6QIsAbDq9bJ195iLBko7w3g0oJTju/+VrUtTUHXjspy+jpW+PtjOJnxVXIgU3D/BY1kkELMDjlAFwqj/WykqMgWAFhrxW2UUfbCuC+hp4HxTs87aAlcmLhBJWFz92LwwJXt3SprkmRvxFascz/ADE0WGUAIxo1HesiBz7ESxTeZRE507U8eqn9O6RrBOogAHuad1kpYgB2OMHCP0UdOV06w151l5zaTr2YY3sRlSreIgkcn8gmcQ/EiZfxjQda3FdljVaIfPkADxuPnhZrR4XpHs0ed6CbkJE3U8Us8E+OJZ6FejstskTB238=;kPvK5P/jpEKiAg+FgdSxlg=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/6b/c6ba7fcb-27e9-5b10-846c-2a6f7f40501c/632daf9f2647a.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "Zf0aqp6SNwRglDbIDWJTy/dKEh1srvJQ/h0XCbmERl8e7qgyu1t+gHWwg+G4oCpOdyGv/zxzphslKcIxVtGz8zmPVx4SWgiQNcIGX9p9sMafS7dWhDkeaElbhRnZARuMhooEobVpcw1Rr1vehnP410dXK/haJ3B0ujNdCq27a/kuGXNTIdAAZgzipu9JA4t+tWMtqspuoiuUmjOy7kQ5U2JPtcW9kDFU9fnJaS3K/onzWGn0mgxMZebc1S5KP9usAn9R9GVmibBdMh7Wt+4UAL3t9f8PZ1DAk9h2+T/bYJ/NMebFl0p380XaxvEx9ZfkvKBY5oF9ffzMK2a/s4eyvjwEpFKQYMHq9sb54imurYI=;EbohmQs8uNQisPzncRjdJA=="
 ---
 

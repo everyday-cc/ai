@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-27T06:39:00Z
 originalUrl: "https://www.marketwatch.com/press-release/new-standards-set-for-artificial-intelligence-market-grow-at-4702-cagr-117-report-pages-2022-09-27"
 webUrl: "https://www.marketwatch.com/press-release/new-standards-set-for-artificial-intelligence-market-grow-at-4702-cagr-117-report-pages-2022-09-27"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -79,6 +80,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cloud Natural Language Processing Market at a CAGR of 15.16% with Emerging Growth Trends, Top Vendors and Forecast to 2027 | Report [109 Pages]"
+    excerpt: "\"Cloud Natural Language Processing market size was valued at USD 2268.2 million in 2021 and is expected to expand at a CAGR of 15.16% during the forecast period, reaching USD 5289.6 million by 2027.\" Cloud Natural Language Processing Market gives a top to bottom and investigation-based organization."
+    publishedDateTime: 2022-09-23T10:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-at-a-cagr-of-1516-with-emerging-growth-trends-top-vendors-and-forecast-to-2027-report-109-pages-2022-09-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

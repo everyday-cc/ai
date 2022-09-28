@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-27T17:25:00Z
 originalUrl: "https://www.datanami.com/2022/09/27/how-3-new-technologies-enable-the-sensing-organization-to-go-beyond-business-intelligence/"
 webUrl: "https://www.datanami.com/2022/09/27/how-3-new-technologies-enable-the-sensing-organization-to-go-beyond-business-intelligence/"
 type: article
-quality: 12
-heat: 12
+quality: 14
+heat: 14
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/09/head_tech_shutterstock_vs148.jpg"
@@ -23,6 +24,6 @@ images:
     height: 587
     isCached: true
 
-secured: "8F//h16Kd0kaqytjt1epGzszZmF6VjJmfun4elMliYK7BR28HVDiBlJLxi0OCJ89g4ymJQg6zCrSkltxwTdN058J1tOsquy2icUi8OVzVS1A5T8zjTW7ronAvRRIwScmUvpn/m9QzMX5BH7gKT5dtHkbVx9P22tIfYQOwxTodGHOZw1ckN9QmdlHnxjEV+t//zsLuVkQaMiMc1n0h4oV44YN6MfnUX/wwH1e3vgPbn+e8Jl1Nuj6mZDvydK/0ysCRsMl+c6lJOCWAMeEGM5cucCepLUtlAywj/m8kpou3Knh3C1I24y2ZaFUMzmf3Tko4lOkbOecVo5/1rYnsrBsBcPqzYHALkJgKZ+/ggppF6w=;sapeu3xvSgGRTmBpSU2G+Q=="
+secured: "kkEdrNCOcpJNIc2ltIkD95/XOWaM3+UmFMCgty5x9McUgdh328z0bSm5AOH82YqRtjKX+LVoGK0iKZiIs0AL3Y9lGab7ptRjUycuhoG8xae/4Akq5U2aXPqHUfhB1EDRHnTSguXJReqsjPoZ6IoZGLfnnkf9l95WLNOq9UFF7ltbv9Cjlnm2LqljR92XtpKAtiSmG0s7DWpsWb1FbxaCkqNKTdNjSON6CF5cR0/SxmTRkiQAGoFHA1ZKAH/vb7/DzC9/dcjLdY6CUns0xYiHTrrLpkxEfPXYI0C33uO35fU50iPfJ8LRK0ICytWwgl4DokPpL9089YA62JFprmrZ8Igm/HN9agDKYI0UmjjWc2egFchhwOQkTTRjsfXrpa6mFi8zkV930O/9q973A5OTPX7hzQHKyPx3jrnk1XI1H572tIOl6AyveLf26VasIt+DM5iLIXDlEAWNsC/jT23Zdh6VrRF/KS4OF5PS1oilUw8WmAabc72VpQ7W/OKiKNfX7S4XkOgkcr2rwEwquMErsA==;LNuLHHP/DwZsojJD2SrS8A=="
 ---
 

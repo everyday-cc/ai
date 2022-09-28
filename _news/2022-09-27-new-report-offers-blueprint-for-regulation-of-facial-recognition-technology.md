@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-09-blueprint-facial-recognition-tec
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-blueprint-facial-recognition-technology.amp"
 type: article
 quality: 57
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -80,20 +80,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
-  - title: "Voice Recognition Market Research Report by Developments and Opportunities Forecast to 2028"
-    excerpt: "To generalize, voice recognition comprises software programs or hardware devices that can decode the human voice. This technology has turned largely pervasive and accessible in everyday life, in homes,"
-    publishedDateTime: 2022-09-23T08:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-research-report-by-developments-and-opportunities-forecast-to-2028-2022-09-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Can Government Be Trusted With Facial Recognition Technology?"
     excerpt: "During the Covid-19 lockdowns, India’s Defense Research and Development Organization (DRDO) developed a facial recognition system that could identify individuals even if they are wearing a mask. But with great power comes great responsibility."
     publishedDateTime: 2022-09-24T11:00:00Z

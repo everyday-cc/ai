@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-27T19:44:00Z
 originalUrl: "https://ijr.com/chipotle-tests-robot-chip-maker-ca-passes-fast-food-bill/"
 webUrl: "https://ijr.com/chipotle-tests-robot-chip-maker-ca-passes-fast-food-bill/"
 type: article
-quality: 23
+quality: 43
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - AI in Robotics
   - AI
   - AI Hardware
+
+images:
+  - url: "https://ijr.com/wp-content/uploads/2022/09/GettyImages-471371484.jpg"
+    width: 1024
+    height: 683
+    isCached: true
 
 related:
   - title: "AI and Machine Learning Enter the Kitchen at Chipotle"
@@ -100,6 +106,6 @@ related:
         height: 509
         isCached: true
 
-secured: "18GUGamGENDEw9C8/+jc+S5xJCFzuoszsMvFTySJlBRecBV425Z2cscqHZ95IDedLfNErh6FzmzBg3ZKDVp2U27uzMpXl4ZRin3pFlmfY/Ji8RDky1wLQlU1YtWWGz6F7LbEMUnEHJJkk5sg5owHln9q1gUl7UztTzZ7HMsx3a/CpdHEnGLAG/Y8Wpy0JIXvfZfbmFrOLHQO7wOeOCkrUSD+4YzOfyXQEp+tlMHqtPneML9lbAdVrB7HgF+U4dQi+MAkHWDYWAW18ekrb/LeuB47LzOojG2/7GbrEaUGL/G9QC/ye9Qei6sOnMEX0Bi69DEsZCpRrdyJs+gFp7ECKohsX5+SF9zkcNe+iFwlmZM=;3fMTf0aOkfbsbgcyQcwKHw=="
+secured: "msGeWbOgdyQoD+8lUUptHkTU2elgAqMvy2I+j405O+xePq13318IbHE0f+v27E7yW1WEIipaJ+4I6UhWXJzJmvzTFyzfPrxnycCLg1iuhLEx/N2TeDm1WZU8+3S3O0/Thu++FuK0RtxgrZmfHMPUipwVusqjW+73GRNTWoBkcfc6eYGgaGiKSDl9u8RzQ2lUjFgC9lc0iYzr9c+DIHsMZORqlWKzS/U6oNFdVK7jP3GKEBtsKOMPXkMUHunIt7V0gX9roH9RwbR3JBFxaSD2xE0HjUtuOydrHE3jHdCsUdGSdtgds99QOAfFX7r8w9oJgsTqcaRpw/a2RCJGOM+khkH/fTqQ5RuDBC6NybJSnak=;K8zdNLWrCYAHk9Mh5pgdcA=="
 ---
 

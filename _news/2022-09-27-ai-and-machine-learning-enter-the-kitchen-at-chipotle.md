@@ -7,7 +7,7 @@ originalUrl: "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-en
 webUrl: "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enter-kitchen-chipotle"
 type: article
 quality: 73
-heat: 133
+heat: 134
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
         width: 770
         height: 364
         isCached: true
+  - title: "Who Could Have Seen This Coming? Chipotle Tests Out Robot Chip Maker As CA Passes Fast Food Bill"
+    excerpt: "Bags of chips are seen ready for customers in a Chipotle restaurant, on the day that the company announced it will only use non-GMO ingredients in its food on April 27, 2015 in Miami, Florida. The company announced,"
+    publishedDateTime: 2022-09-27T19:44:00Z
+    webUrl: "https://ijr.com/chipotle-tests-robot-chip-maker-ca-passes-fast-food-bill/"
+    type: article
+    provider:
+      name: ijr.com
+      domain: ijr.com
+    quality: 43
+    images:
+      - url: "https://ijr.com/wp-content/uploads/2022/09/GettyImages-471371484.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Chipotle Is Testing More Artificial Intelligence Solutions To Improve Operations"
     excerpt: "Chipotle is now testing an AI-based kitchen management system that provides “demand-based cooking and ingredient preparation forecasts,” and is also expanding its Chippy AI test to a restaurant in California."
     publishedDateTime: 2022-09-27T12:05:00Z
@@ -92,15 +106,6 @@ related:
         width: 750
         height: 509
         isCached: true
-  - title: "Who Could Have Seen This Coming? Chipotle Tests Out Robot Chip Maker As CA Passes Fast Food Bill"
-    excerpt: "Bags of chips are seen ready for customers in a Chipotle restaurant, on the day that the company announced it will only use non-GMO ingredients in its food on April 27, 2015 in Miami, Florida. The company announced,"
-    publishedDateTime: 2022-09-27T19:44:00Z
-    webUrl: "https://ijr.com/chipotle-tests-robot-chip-maker-ca-passes-fast-food-bill/"
-    type: article
-    provider:
-      name: ijr.com
-      domain: ijr.com
-    quality: 23
 
 secured: "hPFUQryA5Jl9WTqZ/Zu01qrPual3ftcAjJBzXO3WtBGof24tZ35HivBtU+2nt8Tl4fJKS0Fj9mFsUEymiGNZEUCHps/BJ+X3IFz82jJIG8s2fVuKCNNfTsQinRhfSC8atJbYUcW9gOVT9FsIC2EIRMpxXFpO/1eOnhYx2YbFiRNIZUqpkBY8bi/7p9SJkZ33wT1KhSO+04QN/l0NVBmW+HxSO7SEmiUQBe+HAb2EcGmNpnFUmCM6WYpP/go9t6GcDjea1lypRxCzmzm+VpmoGO6DpCJez+ZZ65CqCpWYVRQkJ1bph+fVdqA98ug7/9pMVne4WXPHmq2h0McVlRVL3USbbjg0dXtPAjIIAQPDKfAQ4n8i9Hdj1u8qVpU50HTya61co4ScfjGNV5+D/iEvlCF+7ywEUU5b8VwAq4gzUrefE+z94yauYX72W29yVDtIOtYFea8mK9OD5N3U8t/m8Ayz4Cdlaa57JBBA1wIcHtVsN44PinTnraWldhbx99AJWJR4Da+Vpn/xM0nJh25HEQ==;XGxU/a3lz+a7+n1bpHRqBw=="
 ---

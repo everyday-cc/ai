@@ -1,31 +1,30 @@
 ---
 category: news
 title: "Machine Learning in Banking Market to Garner $21.27 Billion, Globally, By 2031 at 32.2% CAGR: Allied Market Research"
-excerpt: "Improved productivity of banks and faster banking operations using machine learning have boosted the growth of the global machine learning in banking market. PORTLAND, Ore., Sept. /PRNewswire/ -- Alli"
+excerpt: "Allied Market Research recently published a report, titled, \"Machine Learning in Banking Market By Component (Solution and Service),"
 publishedDateTime: 2022-09-26T15:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/n29013065/machine-learning-in-banking-market-to-garner-21-27-billion-globally-by-2031-at-32-2-cagr-allied-ma"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/n29013065/machine-learning-in-banking-market-to-garner-21-27-billion-globally-by-2031-at-32-2-cagr-allied-ma"
-ampWebUrl: "https://www.benzinga.com/amp/content/29013065"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29013065"
+originalUrl: "https://www.prnewswire.co.uk/news-releases/machine-learning-in-banking-market-to-garner-21-27-billion-globally-by-2031-at-32-2-cagr-allied-market-research-301633219.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/machine-learning-in-banking-market-to-garner-21-27-billion-globally-by-2031-at-32-2-cagr-allied-market-research-301633219.html"
 type: article
-quality: 36
-heat: 36
+quality: 33
+heat: 33
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
+    width: 2000
+    height: 1046
     isCached: true
 
-secured: "nfOfNOUA3jAaTUljLLcM0C5zRxGr9fsevMrn7hZTSMguF2rBuX8N/EpXjPFl/HlEyM3WEKSL07IuhLvW0jNiTxRHE0/Fp5m399oFX0yTbvAAikBMeLjtZVGmwcI7Z+nGJvugZkFC8ElEU398X5sowSL+5Q1M+FL11V4JzEqUxC5tFUyaV5JGgoLoC387OS/p342djXenkzRStzZsLs7o6k6uglZML2h6QvWRkETi0RgiYboNr6xLu9547lUHN9RsuxM9ZJAkRiAMbQr7yCU/pnJ0sCRxQ4q5cmPWWJxZLICiBlRTlPzmMpAABoWYraqKobn2FA3W3oMWv0S+mvYs0JiE8zSbkmefD9DgwlRbhQo=;KpOLeBh8R5F4kusVzyz7Iw=="
+secured: "uBTvuo/w2mUdDYlOnOGFI7vHscH6zRjOxWVs+baPrZNIDfZuG88+5PbdTEWORp0+QkPuVqn0MpEJzY4K1hrOAWQK22gzcbv1kO0qCuocSL2IsJa7NPoNez5YpB1yPlUFRLzrmVsl1F9OXII+RFagIWOjJQ8NwmDJePDV/BbwNke/5cIRzVCvWIeLZkvNO9HHSigeVHLEFJawCiWq6L3MaKvWJfNYiuyMXuqkB3rLgRv9+Dl+NEGGN1IkbX8cjzNHbxWZRo5N7tYXsTgM9B71i1NR69TpsXvZR4nfrJQytnnk+NQ7qFqY6RNJ/fO3BIwfR2kdtlm/e7AnUjkahhxNUKAJGgqeVmuNP/Eku9tQBug=;gBlFequ05i9/idYkldQ48Q=="
 ---
 

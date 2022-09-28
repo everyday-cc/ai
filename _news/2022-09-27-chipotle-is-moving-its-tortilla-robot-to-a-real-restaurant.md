@@ -71,6 +71,20 @@ related:
         width: 770
         height: 364
         isCached: true
+  - title: "Who Could Have Seen This Coming? Chipotle Tests Out Robot Chip Maker As CA Passes Fast Food Bill"
+    excerpt: "Bags of chips are seen ready for customers in a Chipotle restaurant, on the day that the company announced it will only use non-GMO ingredients in its food on April 27, 2015 in Miami, Florida. The company announced,"
+    publishedDateTime: 2022-09-27T19:44:00Z
+    webUrl: "https://ijr.com/chipotle-tests-robot-chip-maker-ca-passes-fast-food-bill/"
+    type: article
+    provider:
+      name: ijr.com
+      domain: ijr.com
+    quality: 43
+    images:
+      - url: "https://ijr.com/wp-content/uploads/2022/09/GettyImages-471371484.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Chipotle Is Testing More Artificial Intelligence Solutions To Improve Operations"
     excerpt: "Chipotle is now testing an AI-based kitchen management system that provides “demand-based cooking and ingredient preparation forecasts,” and is also expanding its Chippy AI test to a restaurant in California."
     publishedDateTime: 2022-09-27T12:05:00Z
@@ -94,15 +108,6 @@ related:
         width: 750
         height: 509
         isCached: true
-  - title: "Who Could Have Seen This Coming? Chipotle Tests Out Robot Chip Maker As CA Passes Fast Food Bill"
-    excerpt: "Bags of chips are seen ready for customers in a Chipotle restaurant, on the day that the company announced it will only use non-GMO ingredients in its food on April 27, 2015 in Miami, Florida. The company announced,"
-    publishedDateTime: 2022-09-27T19:44:00Z
-    webUrl: "https://ijr.com/chipotle-tests-robot-chip-maker-ca-passes-fast-food-bill/"
-    type: article
-    provider:
-      name: ijr.com
-      domain: ijr.com
-    quality: 23
 
 secured: "rMfH4hsYoS/HLUD596Z/2owY1gPOEYoYHxdhawbCHErA6Jt9k7uINcnZD+hK98Z8R+uEMcJdFWzPxBwj9FALPx4hHlIpQ3nOJWuej1fptGraO9Ptzv8du+8zevOqDg5B6VpOJDw773UguWgZOWF7xQ4DeAS23ePBwZqpEQubKHcW57akijf6qWLqk4C4QflHs2prlbr9NQPRmy2wMCvo8GZG+PD9TfKMTfBI3sG2DC2N4Kp6gfYQqJkzdA6Nuv/dUF4D59P6radsNbhSW7PB7MkKH8rLCitA+yx85TzkkL5pcipUUV5R4aNFeh8rSD8QJtP7Zla8BHtM12/MkT2v7lfsvgd65Yo+dtr7NW9+8rTzz32nV+DO3QeSZkLmgYs96M0ePTR+bOnWuSZ3V9wIXFiiwpuf2NowjsTwqhv/nUz/mN3wRoc0PfBmwC4IpYsOH1AmxrQVLjmYDyazS6+jIjRHX0/mf85P7AoqEINtT4NzCw49iLoQlRCwnC/P+IOkXM+ntcw5Agy+Q135YRQF/A==;G3wgxZiV0rRkFNmgJajxoA=="
 ---

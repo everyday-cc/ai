@@ -94,20 +94,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
-  - title: "Voice Recognition Market Research Report by Developments and Opportunities Forecast to 2028"
-    excerpt: "To generalize, voice recognition comprises software programs or hardware devices that can decode the human voice. This technology has turned largely pervasive and accessible in everyday life, in homes,"
-    publishedDateTime: 2022-09-23T08:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-research-report-by-developments-and-opportunities-forecast-to-2028-2022-09-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Push for new law to regulate facial recognition technology in Australia"
     excerpt: "Academics have written a model law suggesting how the regulation of facial recognition technology in Australia could work."
     publishedDateTime: 2022-09-26T21:36:00Z
