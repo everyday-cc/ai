@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Falkonry Unveils GPU-Based, High-Speed Time Series Anomaly Detection Application"
-excerpt: "Falkonry today announced an automated anomaly detection application called Falkonry Insight which operates on high-speed sensor time series data. Insight is the newest addition to Falkonry’s Time Series AI Suite to drive higher operational reliability and yield,"
-publishedDateTime: 2022-09-22T15:01:00Z
-originalUrl: "https://www.datanami.com/this-just-in/falkonry-unveils-gpu-based-high-speed-time-series-anomaly-detection-application/"
-webUrl: "https://www.datanami.com/this-just-in/falkonry-unveils-gpu-based-high-speed-time-series-anomaly-detection-application/"
+excerpt: "Falkonry today announced an automated anomaly detection application called Falkonry Insight which operates on high-speed sensor time series data. Insight is the newest addition to Falkonry's Time Series AI Suite to drive higher operational reliability and yield,"
+publishedDateTime: 2022-09-22T15:29:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/09/22/9679188.htm"
+webUrl: "https://it.tmcnet.com/news/2022/09/22/9679188.htm"
 type: article
 
 provider:
-  name: datanami.com
-  domain: datanami.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "K53d5Ne9CnjRmHIGdd3B4ulX2g2hk84MfRCFUSGyIF6NWZPWCY1XAjludYxrjylrRWhTvwt6hyTliL5ClqQWtZoxVc4jS12WRQ7qbKEHv+zCjsUYI5ahv/E8lcOzVx3ERHvexE1mMitEeh2t+46BDCH01yuu0ukWoHiuEmoTfeGNGsPhfMAq9EyphFr5zLb2oEgaJQ5SeD7YQT9AwooP1ZhD+E4Mhn4JOB+xeGCcQm1ThMFRsmu53CzGFim34ZA+/wvoZuOUqFz5N71MK/nbtVeWnYaCdG057Ve70fBlY9NFUAgu1/lVpWVzZZS7tcW++E0FODoxtRQdbJx2HN6wtT+8xfpwMrq1xYOdkMkar9w=;Yth2ai1QXYevtzh3WtzbFw=="
+images:
+  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+    width: 476
+    height: 210
+    isCached: true
+
+secured: "unnw7BUFBprjeg/b5E1ngx+s4ph6IyG6KfrfsIPA+q3XiRfHYayVQB010z+bvAOb7ipQr++p4ApO7ADHT5wHdPzMQojfGHM0F3rDrb+L0Vv6ueahygGrzGon0uhbG+53NTQNvaSw3VVqMJ7w8QUH6tt1JhWDVwZfvSzNQ4EobpIUXHfIiREmjHWr/Ac7hCZCbqHvhtD9G+bJTA5aEtk+xCJ7juH1Yo3HM/aitMfsCnNCihZK2/a0e+thCwbuq+K9knNR7SbsPArYPw4b97ajDFeawQdxbChzjw4G8YrD8xCT7Nsk4RcUBaZVa57bUYGE4sHnP9mJL/l+Xo2FjxIa47TkpZ90OGh21ANZcm4Jc/0=;DSws+uin2d9KibdkSFaBSQ=="
 ---
 

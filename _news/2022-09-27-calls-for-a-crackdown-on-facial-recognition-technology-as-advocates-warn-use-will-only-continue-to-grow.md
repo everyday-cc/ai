@@ -1,27 +1,29 @@
 ---
 category: news
-title: "The heated fight against facial recognition scams"
-excerpt: "Beijing resident Li was appalled when she found that 430,000 yuan (S$86,130) disappeared from her bank savings within minutes. The money transfer, which was supposed to be verified through facial recognition,"
-publishedDateTime: 2022-09-26T06:58:00Z
-originalUrl: "https://www.straitstimes.com/asia/east-asia/the-heated-fight-against-facial-recognition-scams"
-webUrl: "https://www.straitstimes.com/asia/east-asia/the-heated-fight-against-facial-recognition-scams"
+title: "Calls for a crackdown on facial recognition technology as advocates warn use will ‘only continue to grow’"
+excerpt: "Kmart, Bunnings and The Good Guys used facial recognition across the country. So, what’s the real risk to the community?"
+publishedDateTime: 2022-09-27T10:26:00Z
+originalUrl: "https://7news.com.au/news/cyber-security/calls-for-a-crackdown-on-facial-recognition-technology-as-advocates-warn-use-will-only-continue-to-grow-c-8374360"
+webUrl: "https://7news.com.au/news/cyber-security/calls-for-a-crackdown-on-facial-recognition-technology-as-advocates-warn-use-will-only-continue-to-grow-c-8374360"
+ampWebUrl: "https://7news.com.au/news/cyber-security/calls-for-a-crackdown-on-facial-recognition-technology-as-advocates-warn-use-will-only-continue-to-grow-c-8374360.amp"
+cdnAmpWebUrl: "https://7news-com-au.cdn.ampproject.org/c/s/7news.com.au/news/cyber-security/calls-for-a-crackdown-on-facial-recognition-technology-as-advocates-warn-use-will-only-continue-to-grow-c-8374360.amp"
 type: article
-quality: 54
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: The Straits Times
-  domain: straitstimes.com
+  name: 7NEWS
+  domain: 7news.com.au
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/09/26/kc-hacker2609.jpg?VersionId=D2zjz0gvp7kjUw0EazBLnQJhEWhusK9G"
-    width: 860
-    height: 573
+  - url: "https://images.7news.com.au/publication/C-8374360/efa1cb6a45f6482d0d228bf136841cc1073ef78f-16x9-x0y168w2029h1141.jpg?imwidth=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -40,6 +42,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/facial-recognition.jpg"
         width: 1920
         height: 1274
+        isCached: true
+  - title: "The heated fight against facial recognition scams"
+    excerpt: "Beijing resident Li was appalled when she found that 430,000 yuan (S$86,130) disappeared from her bank savings within minutes. The money transfer, which was supposed to be verified through facial recognition,"
+    publishedDateTime: 2022-09-26T06:58:00Z
+    webUrl: "https://www.straitstimes.com/asia/east-asia/the-heated-fight-against-facial-recognition-scams"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 54
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/09/26/kc-hacker2609.jpg?VersionId=D2zjz0gvp7kjUw0EazBLnQJhEWhusK9G"
+        width: 860
+        height: 573
         isCached: true
   - title: "Avoiding a surveillance society: How better rules can rein in facial recognition tech"
     excerpt: "The human face is special. It is simultaneously public and personal. Our faces reveal sensitive information about us: who we are, of course, but also our gender, emotions, health status and more."
@@ -80,22 +96,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
-  - title: "Calls for a crackdown on facial recognition technology as advocates warn use will ‘only continue to grow’"
-    excerpt: "Kmart, Bunnings and The Good Guys used facial recognition across the country. So, what’s the real risk to the community?"
-    publishedDateTime: 2022-09-27T10:26:00Z
-    webUrl: "https://7news.com.au/news/cyber-security/calls-for-a-crackdown-on-facial-recognition-technology-as-advocates-warn-use-will-only-continue-to-grow-c-8374360"
-    ampWebUrl: "https://7news.com.au/news/cyber-security/calls-for-a-crackdown-on-facial-recognition-technology-as-advocates-warn-use-will-only-continue-to-grow-c-8374360.amp"
-    cdnAmpWebUrl: "https://7news-com-au.cdn.ampproject.org/c/s/7news.com.au/news/cyber-security/calls-for-a-crackdown-on-facial-recognition-technology-as-advocates-warn-use-will-only-continue-to-grow-c-8374360.amp"
-    type: article
-    provider:
-      name: 7NEWS
-      domain: 7news.com.au
-    quality: 42
-    images:
-      - url: "https://images.7news.com.au/publication/C-8374360/efa1cb6a45f6482d0d228bf136841cc1073ef78f-16x9-x0y168w2029h1141.jpg?imwidth=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Can Government Be Trusted With Facial Recognition Technology?"
     excerpt: "During the Covid-19 lockdowns, India’s Defense Research and Development Organization (DRDO) developed a facial recognition system that could identify individuals even if they are wearing a mask. But with great power comes great responsibility."
     publishedDateTime: 2022-09-24T11:00:00Z
@@ -171,6 +171,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "U3QF7QV1o8+kmqYZ+zUGrbfIgsqbKu9mitYg5y+yiFbBeotLdkoHP6NWw4PF/H00j7iGI8mpfYb08qk9OQGeneQUlzdMmNjvwK4+lV0/i9I2ReGfnIyVOCaSmQWJOEl3pc20TL8raRgnIjNIv4SI0xBmKv2Ge6dxrb2btZdgXSLRSHiEvtJNJUflKNK5CRSDKEcq7wV6a8rq7wPEIyBBgR15eysnEQBcgYINuyRUBiNXdiOihce/jCZk9zqU82MaHzsKvqn80t71JpGRwK2Jks9Uc2BFpBnMvfezrnJ1JsaetT+kbDx68NizJZzozXIEl/sZxVgNe9YMNUaqqYMrI2FMiHlMA52ieTPz3GEQOBuMmeqFYsDGpwgmS5rEuUztK0ZSJ6w3oe+m79A00vOhsuYM7xsIyWYz1Hqm2R7hedEpUx+29ZvuH3g4CiM9YC8Y8vrLwEcig/nzrK7MOiWePacX96bwtZpI1uQLyVJM7GRJ6btSIqHmokdXIizae09SJHAeLwNCwm1WeQQxVSp/fg==;ADDP6qGMkSEwuDKjDjFbfA=="
+secured: "iA+Sv0J1jLBTw07mk19UCT790S/Yjonfefa+EcJuPPF+zX7uS5SfmefFFTFGHe2RhZUxY+cmt/Z2az81u5sbL3NyJncpYSizKkqie8IKqlfxVwFPMzNWLgvLZIzEk0bN4F/qiQ6gm1OgznpMR+JtSdet4P9gyZzDwva+ldy0SsDSQDJi6crZA/aXL3r4K5wWotRy+DJWRnl31tTnPQuamRwyn1Dituwb+5jeQHFFUpmA//IiwdmWrUCPyG8qjIOzHsLAVLEVTg+KCk/uBMVB2gTs+zvrehfV5oiabSWYQ7WOv1Vau1qRKNzVUzO/a/dsF9Cn2joQRyyUbdhcsoMdIP0Qbc0ekoMn/wLaZjvfecI=;vP/JRWGj44kTflmiteXHmw=="
 ---
 

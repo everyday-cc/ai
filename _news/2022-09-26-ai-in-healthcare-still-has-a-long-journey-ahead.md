@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/saibala/2022/09/25/ai-in-healthcare-sti
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2022/09/25/ai-in-healthcare-still-has-a-long-journey-ahead/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The challenges of verifying AI for healthcare"
-    excerpt: "Artificial intelligence promises to revolutionise healthcare, but even in areas such as medical imaging, where it is easy to spot AI errors, more research is needed."
-    publishedDateTime: 2022-09-23T10:41:00Z
-    webUrl: "https://www.computerweekly.com/news/252524829/The-challenges-of-verifying-AI-for-healthcare"
-    ampWebUrl: "https://www.computerweekly.com/news/252524829/The-challenges-of-verifying-AI-for-healthcare?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252524829/The-challenges-of-verifying-AI-for-healthcare?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 76
-    images:
-      - url: "https://www.computerweekly.com/rms/onlineimages/ai_a373894778.jpg"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "7 AI-based healthcare apps that save people"
     excerpt: "IBM Watson, a digital tool to fight cancer. The launch of this program was the first-ever use of AI for medical purposes. Since then, science has stepped forward, and new AI-based healthcare apps regularly appear."
     publishedDateTime: 2022-09-26T12:43:00Z

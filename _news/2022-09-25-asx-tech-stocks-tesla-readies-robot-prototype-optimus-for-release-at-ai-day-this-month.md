@@ -60,22 +60,6 @@ related:
         width: 1200
         height: 791
         isCached: true
-  - title: "Tesla sends out invites for AI Day 2, teases Full Self-Driving, Tesla Bot, Dojo, and more"
-    excerpt: "Tesla started sending out invites for AI Day 2022. The automaker is teasing more information on Full Self-Driving, Tesla Bot, Dojo, and more."
-    publishedDateTime: 2022-09-23T10:14:00Z
-    webUrl: "https://electrek.co/2022/09/23/tesla-sends-invites-ai-day-2-teases-full-self-driving-tesla-bot-dojo/"
-    ampWebUrl: "https://electrek.co/2022/09/23/tesla-sends-invites-ai-day-2-teases-full-self-driving-tesla-bot-dojo/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/23/tesla-sends-invites-ai-day-2-teases-full-self-driving-tesla-bot-dojo/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 97
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-AI-Day-2022-invite.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla AI Day Spotlights Optimus Robot, Self-Driving Cars: Here's How to Watch"
     excerpt: "Tesla is hiring engineers to build a walking, talking robot called Optimus. Expect Elon Musk to detail the company's work on self-driving cars, too."
     publishedDateTime: 2022-09-26T18:29:00Z

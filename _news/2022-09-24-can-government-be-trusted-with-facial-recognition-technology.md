@@ -94,6 +94,22 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
+  - title: "Calls for a crackdown on facial recognition technology as advocates warn use will ‘only continue to grow’"
+    excerpt: "Kmart, Bunnings and The Good Guys used facial recognition across the country. So, what’s the real risk to the community?"
+    publishedDateTime: 2022-09-27T10:26:00Z
+    webUrl: "https://7news.com.au/news/cyber-security/calls-for-a-crackdown-on-facial-recognition-technology-as-advocates-warn-use-will-only-continue-to-grow-c-8374360"
+    ampWebUrl: "https://7news.com.au/news/cyber-security/calls-for-a-crackdown-on-facial-recognition-technology-as-advocates-warn-use-will-only-continue-to-grow-c-8374360.amp"
+    cdnAmpWebUrl: "https://7news-com-au.cdn.ampproject.org/c/s/7news.com.au/news/cyber-security/calls-for-a-crackdown-on-facial-recognition-technology-as-advocates-warn-use-will-only-continue-to-grow-c-8374360.amp"
+    type: article
+    provider:
+      name: 7NEWS
+      domain: 7news.com.au
+    quality: 42
+    images:
+      - url: "https://images.7news.com.au/publication/C-8374360/efa1cb6a45f6482d0d228bf136841cc1073ef78f-16x9-x0y168w2029h1141.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Push for new law to regulate facial recognition technology in Australia"
     excerpt: "Academics have written a model law suggesting how the regulation of facial recognition technology in Australia could work."
     publishedDateTime: 2022-09-26T21:36:00Z

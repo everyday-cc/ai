@@ -39,20 +39,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "VW Group Gen.Travel concept imagines a Level 5 self-driving car"
-    excerpt: "The Gen.Travel is an electric vehicle with a self-driving system rated at Level 5 on the SAE scale of self-driving capability. Level 5 is the ultimate goal for companies developing self-driving technology,"
-    publishedDateTime: 2022-09-23T11:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1137257_vw-group-gen-travel-level-5-self-driving-car-concept-revealed"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/volkswagen-group-gen-travel-concept_100856314_h.jpg"
-        width: 1920
-        height: 1322
-        isCached: true
   - title: "Is this self-driving VW concept the future of motoring?"
     excerpt: "Looks fancy! But wait, haven’t we heard all of this before? We’ve been 10 years away from advanced self-driving technology for what feels like decades. Is Volkswagen to be believed this time? The company's new GEN.TRAVEL concept isn’t even gunning to ..."
     publishedDateTime: 2022-09-26T03:59:00Z

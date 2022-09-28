@@ -48,22 +48,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla sends out invites for AI Day 2, teases Full Self-Driving, Tesla Bot, Dojo, and more"
-    excerpt: "Tesla started sending out invites for AI Day 2022. The automaker is teasing more information on Full Self-Driving, Tesla Bot, Dojo, and more."
-    publishedDateTime: 2022-09-23T10:14:00Z
-    webUrl: "https://electrek.co/2022/09/23/tesla-sends-invites-ai-day-2-teases-full-self-driving-tesla-bot-dojo/"
-    ampWebUrl: "https://electrek.co/2022/09/23/tesla-sends-invites-ai-day-2-teases-full-self-driving-tesla-bot-dojo/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/23/tesla-sends-invites-ai-day-2-teases-full-self-driving-tesla-bot-dojo/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 97
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-AI-Day-2022-invite.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "ASX Tech Stocks: Tesla readies robot prototype Optimus for release at AI Day this month"
     excerpt: "Tesla plans to release prototype humanoid robot at AI Day on Friday Micro-X nabs an extension on miniature baggage scanner deal with the US Department of Homeland Security Superloop picks up VostroNet,"
     publishedDateTime: 2022-09-25T15:24:00Z

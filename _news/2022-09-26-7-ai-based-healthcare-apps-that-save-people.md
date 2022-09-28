@@ -36,22 +36,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The challenges of verifying AI for healthcare"
-    excerpt: "Artificial intelligence promises to revolutionise healthcare, but even in areas such as medical imaging, where it is easy to spot AI errors, more research is needed."
-    publishedDateTime: 2022-09-23T10:41:00Z
-    webUrl: "https://www.computerweekly.com/news/252524829/The-challenges-of-verifying-AI-for-healthcare"
-    ampWebUrl: "https://www.computerweekly.com/news/252524829/The-challenges-of-verifying-AI-for-healthcare?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252524829/The-challenges-of-verifying-AI-for-healthcare?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 76
-    images:
-      - url: "https://www.computerweekly.com/rms/onlineimages/ai_a373894778.jpg"
-        width: 1200
-        height: 400
-        isCached: true
 
 secured: "fTo3aPm1BbfLD2JIPAW/3Xd/xhURv5wVrDl36lTEq3VecPILbmg0YSODDPlPRVQuNODp3T3wJ4U8/LmLUYBahVZ8Oyg/oDuhYDqbZsnArX6Q7HPedG3iX9mMNTwJu199k393v9KCTyHWxc/azfyzsJaHSLKi/5w+BeoqhoV+9TxLHVD+veIfmOMdv12gS+NaTxCUN1R1nj9/XRZ45uLAVqalGH1fyd8BNeLv1Mdjgsx/4DgTYOmo3BjqbBeOivxuGcteiu4ubYVccdvw/t6adFdnzWi2vP/nmgQJ0NN+ZFy8IkOKHmYCUhvC2Cg9b7w+asiWIB8qYEkkWuc3tKBkd4MFzlL+hG0NKdTh8qv69VU=;4eERuyUwLFFJnIKzdaXoog=="
 ---

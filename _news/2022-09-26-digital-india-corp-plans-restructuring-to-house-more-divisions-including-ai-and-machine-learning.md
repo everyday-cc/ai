@@ -24,6 +24,22 @@ images:
     height: 282
     isCached: true
 
+related:
+  - title: "Digital India Corp. Plans Restructuring, To House More Divisions Including AI And Machine Learning"
+    excerpt: "Digital India Corporation is a not for profit company set up by the Ministry of Electronics and Information Technology (MeitY). It leads and guides in realizing the vision, objectives and goals of the Digital India program."
+    publishedDateTime: 2022-09-26T17:13:00Z
+    webUrl: "https://menafn.com/1104926176/Digital-India-Corp-Plans-Restructuring-To-House-More-Divisions-Including-AI-And-Machine-Learning"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 40
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?694657"
+        width: 375
+        height: 250
+        isCached: true
+
 secured: "Gttcc7elJe7v+7OfqfA4yI19Z5Ze81wocdxMpkLSAOxg6/wPL+FCgSWQAlzmn/+aQ5MSM5of2aCm0zptPCy7Fv4/rARJTAYtqSRpuY87i5TrQ0QFHeqeapywFkD7iY2Gkis26HJ0VAL7/DJtr3S5QzlxcHgPDCvEGyLW/AuJG+Bm7pOgLe80tj/lQJd5R5/iMVabuUgjWUvfhJBahu06R3bz+53t5Cn0QB1eoXVTKmOeX8+ifPNLks7IYotOc85I/1dzswPiAFOCDAXGgWeAc5sey3Hl3Hkd+sg1ZKZBIvyl+n5x75pxlSS2AT8eegSFZOQFJcJdw6qnShndfETPfxn5er7+1tTtgLfQ8iYjPrQ=;9+jNTJXu5wo1Q7SJ0X9exw=="
 ---
 

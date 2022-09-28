@@ -59,22 +59,6 @@ related:
         width: 1220
         height: 526
         isCached: true
-  - title: "Iran is using facial recognition technology to target women breaking hijab law"
-    excerpt: "Activists protesting the death of Mahsa Amini raise concerns about privacy violations and the potential for profiling and discrimination."
-    publishedDateTime: 2022-09-23T09:10:00Z
-    webUrl: "https://scroll.in/article/1033424/iran-is-using-facial-recognition-technology-to-target-women-breaking-hijab-law"
-    ampWebUrl: "https://amp.scroll.in/article/1033424/iran-is-using-facial-recognition-technology-to-target-women-breaking-hijab-law"
-    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1033424/iran-is-using-facial-recognition-technology-to-target-women-breaking-hijab-law"
-    type: article
-    provider:
-      name: Scroll
-      domain: scroll.in
-    quality: 57
-    images:
-      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/180273-wxpwpninag-1663846586.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Samsung patents a new facial recognition system for smartphones with a new dual under-display camera setup"
     excerpt: "Samsung is working on a new facial recognition system that uses two under-the-display cameras and will be much harder to bypass or fool using masks or photographs."
     publishedDateTime: 2022-09-26T11:31:00Z

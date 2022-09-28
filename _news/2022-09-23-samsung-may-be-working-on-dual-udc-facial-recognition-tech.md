@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidheadlines.com/2022/09/samsung-dual-udc-facial-rec
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/09/samsung-dual-udc-facial-recognition-tech.html?amp"
 type: article
 quality: 59
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-94479554,width-1070,height-580,imgsize-711259,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         width: 1068
         height: 580
-        isCached: true
-  - title: "Iran is using facial recognition technology to target women breaking hijab law"
-    excerpt: "Activists protesting the death of Mahsa Amini raise concerns about privacy violations and the potential for profiling and discrimination."
-    publishedDateTime: 2022-09-23T09:10:00Z
-    webUrl: "https://scroll.in/article/1033424/iran-is-using-facial-recognition-technology-to-target-women-breaking-hijab-law"
-    ampWebUrl: "https://amp.scroll.in/article/1033424/iran-is-using-facial-recognition-technology-to-target-women-breaking-hijab-law"
-    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1033424/iran-is-using-facial-recognition-technology-to-target-women-breaking-hijab-law"
-    type: article
-    provider:
-      name: Scroll
-      domain: scroll.in
-    quality: 57
-    images:
-      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/180273-wxpwpninag-1663846586.jpg"
-        width: 600
-        height: 315
         isCached: true
   - title: "Samsung patents a new facial recognition system for smartphones with a new dual under-display camera setup"
     excerpt: "Samsung is working on a new facial recognition system that uses two under-the-display cameras and will be much harder to bypass or fool using masks or photographs."

@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/vw-gen-travel-self-driving-pod-162904370.
 webUrl: "https://www.engadget.com/vw-gen-travel-self-driving-pod-162904370.html?src=rss"
 type: article
 quality: 50
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "VW Group Gen.Travel concept imagines a Level 5 self-driving car"
-    excerpt: "The Gen.Travel is an electric vehicle with a self-driving system rated at Level 5 on the SAE scale of self-driving capability. Level 5 is the ultimate goal for companies developing self-driving technology,"
-    publishedDateTime: 2022-09-23T11:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1137257_vw-group-gen-travel-level-5-self-driving-car-concept-revealed"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/volkswagen-group-gen-travel-concept_100856314_h.jpg"
-        width: 1920
-        height: 1322
-        isCached: true
   - title: "China to set self-driving standard"
     excerpt: "Industry analysts said the ISO's acceptance confirms that China is spearheading the research and development as well as the application of self-driving technologies, and promoting their large-scale commercial use."
     publishedDateTime: 2022-09-23T23:57:00Z
