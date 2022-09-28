@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Contact Center Intelligence Market 2022 Size, Status and Global Outlook -AWS, Artificial Solutions, Avaya, Google"
-excerpt: "The Contact Center Intelligence Market report is a valuable source of insightful data for business strategists."
-publishedDateTime: 2022-09-17T06:57:00Z
-originalUrl: "https://www.marketwatch.com/press-release/contact-center-intelligence-market-2022-size-status-and-global-outlook--aws-artificial-solutions-avaya-google-2022-09-17"
-webUrl: "https://www.marketwatch.com/press-release/contact-center-intelligence-market-2022-size-status-and-global-outlook--aws-artificial-solutions-avaya-google-2022-09-17"
+title: "Contact Center Intelligence Market 2022 Size, Status And Global Outlook -AWS, Artificial Solutions, Avaya, Google"
+excerpt: "Click here to get a Sample Copy of the Report: Top Leading Companies of Global Contact Center Intelligence Market are AWS, Artificial Solutions, Avaya, Google, IBM, Microsoft, Nuance ..."
+publishedDateTime: 2022-09-17T07:52:00Z
+originalUrl: "https://menafn.com/1104879846/Contact-Center-Intelligence-Market-2022-Size-Status-And-Global-Outlook-AWS-Artificial-Solutions-Avaya-Google"
+webUrl: "https://menafn.com/1104879846/Contact-Center-Intelligence-Market-2022-Size-Status-And-Global-Outlook-AWS-Artificial-Solutions-Avaya-Google"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?698891"
+    width: 404
+    height: 250
     isCached: true
 
-secured: "relYze1LUKTq3uhKHISC2fb+nDSFUz3Vav9dXGDD/3cgJYx88BHr/1zuq8HLITOaYYgLuRtCD2j9yCx7MYrOIsSBXfvPjBXkK525dZzQURQV3XJrrROrV/AF1oBdZYXpGAi5bTAUXojkMhuOwXPPP/5QFRXyR5yTh5g2iFyqkk+MqUcZlawxbHxwpBfE5u9R+4Ko6V+h/MD4WqHAdDa6yUwLz4dNu/ge/Sf6h2YYHuIChUL7JMvqitLRq7BEs+6DJB/u5FDrAdVvTYSvdI1pHlIfEGNXuQ5YNM9G7oywxaSeUcoeBABlGC1UQ5UwIPaN7tfexQxqsC8e0MsmEK4F2wNyRXrTsOFxD9U0vtMr/Lo=;eGUApMZeSMdJ/ycNqxvIhA=="
+secured: "KlDo87Pb5/6U5D4j1S89YH2qzQCpoBzUYHEaMYDmUduzAmsAB5LvZ5UUcC6xOwbK6gFOpDDkDDQkSVVgpxPuqh08aQWX1eT7/wR1jih03TbEH6GTByNDYOrTMpMt/gwWwZ3AA/864arlDIB33HtCd0fjuzq3RTBLFBVpLCfzf77OSE9zi3++AVp7EeHRfc9mFRJaMXCvGcfsA+3cWTETbOS6MgMNYbWSFSgeQ5Bx/a8vvmo55dDOT7DuyQfkjI9nh7j84P3UV3Eb8ZvslcWacFApNrKEOlA60XXHTj9+Hh7rBoCK7plgMaMWcvPNWz0y+KvnxibcufdSaGXuHfoMPv7o0rudf2NK+Ji0pIewHIY=;/TjiLVMgkFxwYE32DLHBjw=="
 ---
 

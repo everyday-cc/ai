@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2022/09/26/kaust-hpe-shaheen-iii-superc
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/09/26/kaust-hpe-shaheen-iii-supercomputer/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://www.eeworldonline.com/wp-content/uploads/2022/09/unnamed-3.jpg"
         width: 500
         height: 287
+        isCached: true
+  - title: "‘Shaheen III’: KAUST Selects HPE Cray EX HPC-AI Supercomputer with NVIDIA and AMD Chips"
+    excerpt: "“Shaheen III will significantly accelerate research at KAUST by applying world-leading supercomputing and AI-at-scale capabilities to increase accuracy in analyses and solve complex scientific questions.” KAUST said the new system will build on its ..."
+    publishedDateTime: 2022-09-27T22:23:00Z
+    webUrl: "https://insidehpc.com/2022/09/shaheen-iii-kaust-selects-hpe-cray-ex-hpc-ai-supercomputer-with-nvidia-and-amd-chips/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 46
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2019/05/kaust2.jpg"
+        width: 392
+        height: 378
         isCached: true
 
 secured: "UrDf1s9oEG+XiWYJa2pyZqXXks7Itau0MkvuaR2sdV1l4GEiqxjSt3DzCxYIQmwWvdciydCVL2eSrssnDtghD3HDQ3zFkqW2VNP69XNv5hzGHTBUG2buUtQU81+Ib3BcWeld0RD1z6bv39qvt+xSz41b8GL5iTSDODoHmpSKuugqpauJVe9OBZYm99uQcUbAqi5TfVK9ZcyKYe0FSa4BsKQ00qY9vHzDJio7BnGT/n8b/Icgz7XbmjNA3GBl0Pd/JI2XQstK6zWKUC4PB9UVAo+bV+RZzTGTF00IOe0ffgB1jN6TU/clBhcv4clEXqv3OQVRpS63HmY4uquf3tFdKVU1MGbTyn+7puZ2AIUCp9fcES8V73byktwXkTsLaZXMtpkH/u/8ElOno3bkdJB/w9gROvzuyGRrfeF9qDLc/LHhiTHTq4wmmkTR0AC9lC9Tvgih0fNH6SH73aYB+WwOb15W12kD0Teugs1hj+BZmhZhhp2DDCWVmUD+AXgNVjvylg2SHtBZFxO6X7DBUrbWfg==;0/Szpo8GhlQMMnsk2ONdlA=="

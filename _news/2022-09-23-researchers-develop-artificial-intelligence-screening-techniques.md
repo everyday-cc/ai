@@ -9,8 +9,8 @@ ampWebUrl: "https://m.jagranjosh.com/current-affairs/amp/researchers-develop-art
 cdnAmpWebUrl: "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/current-affairs/amp/researchers-develop-artificial-intelligence-screening-techniques-1663941325-1"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: jagranjosh.com
@@ -42,20 +42,6 @@ related:
       - url: "https://images.onlymyhealth.com//imported/images/2022/September/23_Sep_2022/maindrugsstudy.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Researchers develop artificial intelligence screening techniques to speed up drug discovery"
-    excerpt: "Developing life-saving drugs can cost billions of dollars and take decades but researchers have developed a new artificial intelligence-based drug screening te"
-    publishedDateTime: 2022-09-23T05:03:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272787941/researchers-develop-artificial-intelligence-screening-techniques-to-speed-up-drug-discovery"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 29
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1663909281.jpg"
-        width: 630
-        height: 420
         isCached: true
 
 secured: "AFXRTZmlAg8OXl0v0PtDoZTOpVHpZ2FJOMSZhJrwnzThtP0DUgovxy8iVIH17Iz749kSMygarBZoKSSEcaXBEwtX4/USFWqIBRsvkYqhDcXV6oG3Qi+ibgH6/LDPqbKtQKVrlD3S4q+AhaAAtOTxllBgIm7HpiBi9EqmHGp+zcHu7qeH0xDexC1WKKHx0faBTategGp+i+QrWahS/VK2Wamg5NehHe41EKtv8GkQ76FTKoxg6mpCp0LrbDxICz7iulW9olZPR8ugwO83aw2Ay5T/7glEdkvJj3Z/Mmf7qfZIQF3Kk0qvDdgiqPY/6m0CMBX0DjmkbGctJOruP+3oaSUOGPlqMzUDDeE3D1VRl+8=;bs5T+Qm/2zW7mgA7PlFdeQ=="

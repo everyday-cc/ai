@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-products
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-products-market-2022-geographical-segmentation-industry-insights-share-latest-trends-size-cagr-and-forecast-till-2028-2022-09-26"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "At 19.8% CAGR, Speech and Voice Recognition Market Size 2019-2026 | To Reach USD US $ 28.3 Billion"
-    excerpt: "Global “Speech and Voice Recognition Market Growth” report explores comprehensive and insightful information about"
-    publishedDateTime: 2022-09-23T05:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/at-198-cagr-speech-and-voice-recognition-market-size-2019-2026-to-reach-usd-us-283-billion-2022-09-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "p8HdWgd9dl1+XjkULQItsOT6zlTTwtLgayoi3FtoSHtuuciyn/lMy4sOCavaqWrwVB7aAyJ2FhI2/EP9XnuWIOi0AoqKuQ7YyCVuMeocWgL5l6GfjW6aQl/kToBv1nKKKGzAPPd8Q5RfJ+8GT5vMXYtygzQe8H+tlvWbEkmfearnhFoFtRXy4lDlH5hLpvxZEMzupDKQd/fsHfd705mAd39CVeH2DtvsV9SHUjDlwb9IVyJjZEV05KUi6/gRTMoal9FAC74vWbjO3vt87UZ+Mi/i0UUQFWFG5/f4C/31/Oyd3duKMLF9H6bTRb37FUk4GfQ1NM6iK6noJYj55vNAYfZ9K4szN6FaeVkMJMXHpGw=;opqZRp0T5k6Ns8gOmVQuDQ=="
 ---

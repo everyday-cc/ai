@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidheadlines.com/2022/09/samsung-dual-udc-facial-rec
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/09/samsung-dual-udc-facial-recognition-tech.html?amp"
 type: article
 quality: 59
-heat: 140
+heat: 139
 published: true
 
 provider:

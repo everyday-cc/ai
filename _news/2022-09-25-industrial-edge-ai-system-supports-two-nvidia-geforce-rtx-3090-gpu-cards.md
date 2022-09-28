@@ -57,6 +57,20 @@ related:
         width: 1089
         height: 650
         isCached: true
+  - title: "‘Shaheen III’: KAUST Selects HPE Cray EX HPC-AI Supercomputer with NVIDIA and AMD Chips"
+    excerpt: "“Shaheen III will significantly accelerate research at KAUST by applying world-leading supercomputing and AI-at-scale capabilities to increase accuracy in analyses and solve complex scientific questions.” KAUST said the new system will build on its ..."
+    publishedDateTime: 2022-09-27T22:23:00Z
+    webUrl: "https://insidehpc.com/2022/09/shaheen-iii-kaust-selects-hpe-cray-ex-hpc-ai-supercomputer-with-nvidia-and-amd-chips/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 46
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2019/05/kaust2.jpg"
+        width: 392
+        height: 378
+        isCached: true
 
 secured: "G+l20gWtYmp2+N9eFPHvRMa2ML4oz7Wt3kzqf7FMhHK30yCrnWCFx335D5+chTamxGmo1IJKv49wzHRYC8rGaWfvbPb+4Ms+9jj5MgnvmGhgGXkKKFhja+xYhvUueO8Pb85hkUiRDIfb0hp/m3JEOFGeeKYSibZhJyqnJbLMm/5RMEDQ3hGyDgNUqyWz3dWTkzawQN5V5qDOWa9CUB6OqMPX8U+l3vCaTINowPvl5OeYuLOZMmpZ0+jfzVdX6Oj+uXTR4kobLG+2IJWAWys+kBWt00jfNe8evxjUpXM2rLS0sN2HftzL4wxJ5K2dvlWhz8klc+X/2Nh90AZMMf/jtzWNk0/vFxdjs0Rhx6utBE+f5YmdssiNOBgfxc/ugEUL7msLw7OgwLW36+vs4NMuw/UpSJCfWjCPW8ARjf0TyChbAkbF8ARh5v9AGdhdcuAeAsXLG9tyXzDFtJIOklEmMiXatt3pAQVfYXj9xgjr87lqPVS048iGq+j8KSWm0Y7UZqiTHGQGDC5r0ephlFCJIg==;dPOstzijB9DpN+h8d92YXQ=="
 ---

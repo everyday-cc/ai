@@ -1,23 +1,25 @@
 ---
 category: news
 title: "AWS Announces General Availability of AWS IoT FleetWise"
-excerpt: "New service makes it easier for automotive companies to collect, transform, and transfer vehicle data to the cloud in near real time, enabling improved"
-publishedDateTime: 2022-09-27T18:34:00Z
-originalUrl: "https://www.01net.it/aws-announces-general-availability-of-aws-iot-fleetwise/"
-webUrl: "https://www.01net.it/aws-announces-general-availability-of-aws-iot-fleetwise/"
+excerpt: "New service makes it easier for automotive companies to collect, transform, and transfer vehicle data to the cloud in near real time, enabling improved vehicle quality and autonomy Bridgestone, Hyundai Motor Group,"
+publishedDateTime: 2022-09-27T17:05:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/09/b29037953/aws-announces-general-availability-of-aws-iot-fleetwise"
+webUrl: "https://www.benzinga.com/pressreleases/22/09/b29037953/aws-announces-general-availability-of-aws-iot-fleetwise"
+ampWebUrl: "https://www.benzinga.com/amp/content/29037953"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29037953"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "P7SBbKN8WJwpYCV/SkQNOZOvDEe/E77l7Yyl1AI940gQNPP/9opaTFnZit6a39rP+sLBnMOLUk31DMK5lWw+XR4s5FfE1oIC/4DvjcDFSRO2bXw/aOSdf//3rqM/Q+O5zNFg7hfzsBP2kkoX+eCJB5O0GVaOHthNsFG6QwwjG1uWqvOGphj1MFKO0izwVRulHTfEUv2zbm/SwcHsG9zzre6bw4EjN/nqosmfh1g55EnvbZIajCBEiOjBlsIBlw7TNfAKH0UUnI+F9hfnrwQMKgqVOLWKeJT3dwdXGIlbCUDmPsa3Tx2JzRkNgv2aIjK9SIBLr6YCoUXOf+mswT9/PHc0hq0J14RNZV9KQyHDbTPoioT8IVNtpGthsFP6yWMEFzwV/T5tYXyUD2404G8uDBDNGg+rdJ7dOlMVJXncPF7p8QaKsxZY9o++1tOsklvciUAUudeEG6bwcmgrYXj5OevNeQ3iMOqcK9mn+9e1KQHD+XcS3xBgZRgDswau1qRTUB47y9eMdKXkaH6X+kY+TQ==;YJSlNhl1JHJO8dHk4VbVvQ=="
+secured: "f0fROcrJbD17RIIaWuNer53XrJCTgc+g71sq7ilhYy2moOdK5T0m17/W7VMWEI1N8JyxCjeqdfwV5W1GyaBkz032v+wN1YrowM2OHkS0nOuVCjYqEJIeYrZTXKc+PgnTtSIH7vOZFaKR04jE9g9Ruv9HFURuAwagGV/eq5tf8+C2ang0FlrheASLCdrmFkRqD9IXThtDnGmn3HGv9fczkDch4c+1w8TKP0ywZd46WjewS+iFUI9UQKDJaMm7WxyCWQt8b0u2wlxDRpS/jbQECaP3lEj6tA1UDdm++AZQ/qrLFlg8yUZVIQMHhzpbIzhn1NcEgKvQ9yVEjJ5CItkz4ivSh1uDmY/imbgOSuiFc9I=;TkroX6o2cedRkmlM7iHmzg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-09-physical-hurdle-artificial-intel
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-physical-hurdle-artificial-intelligence.amp"
 type: article
 quality: 67
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,19 @@ images:
     width: 1920
     height: 1633
     isCached: true
+
+related:
+  - title: "Audio Data Should Become Critical to AI Training Processes, ARK Says"
+    excerpt: "OpenAI released an open-source neural network capable of transcribing audio to text with near-human levels of performance. The release follows the recent rollout of other high-profile open-source projects,"
+    publishedDateTime: 2022-09-27T18:45:00Z
+    webUrl: "https://www.nasdaq.com/articles/audio-data-should-become-critical-to-ai-training-processes-ark-says"
+    ampWebUrl: "https://www.nasdaq.com/articles/audio-data-should-become-critical-to-ai-training-processes-ark-says?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/audio-data-should-become-critical-to-ai-training-processes-ark-says?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
 
 secured: "tzLYHxQWtyJ78ANMy+oqwlZd5FvPkRi1IhfGM+vcTN4aqeKhSpj2Gk+yV8/9FtA989MdrNCyR1lVKtteNflm4XZvXIc+6wrRrQurqZE3j/CmPyuw3LL6E77RAdZT4X6CVoqu6C7qyxMzkD0j57Kazqnlsed5cuXh9t9ZITb84ufQf7VHjsKWO2z5kQy31SjZgQvX38FYlFa3Hkn6bYMDYR/WNP8ZMKVyBbX5TZW0vh/+Bb+kH/KgzRY1oOxHPwQg4DC+/3E9Jp+MgMOdzYhBDxNkOvXtpohLMbH1taR+3pxkEyMcGUGZqMm+SScqwAe1PAVSbKuDUhstbfSAw6ALpiBxtTs4oIFUxgQwqe5ZccWlhPVwtW9o8vD25jhabHNi2VET/OqMQMUypk6crU16s8d6SzhJz6FzlE74ah+4BVu4HifT/7bbQ7hPJ3s0k37mVirSK3Sbur6tcfVQWuzn0sBOhCKEK1D9RYW122ljKyq73hsxFBtB6hvAXU3iMJuYR5/uJeDgMZ4h4882pR2TZw==;mDh/aZYxqHM4YLYIMBGf4Q=="
 ---

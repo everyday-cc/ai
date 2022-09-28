@@ -50,6 +50,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "New standards set for Artificial Intelligence Market grow at 47.02% CAGR| 117 Report Pages"
+    excerpt: "The global Artificial Intelligence market size is expected to expand at a CAGR of 47.02% during the forecast period, reaching USD 411290.49 million by 2027 was valued at USD 40728.3 million in 2021. Artificial Intelligence Market report gives an impression of the various developments,"
+    publishedDateTime: 2022-09-27T06:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/new-standards-set-for-artificial-intelligence-market-grow-at-4702-cagr-117-report-pages-2022-09-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Market Size to Grow at 38.32% CAGR During the Forecast Period of 2022-2027 | 110 Report Pages"
     excerpt: "Report Pages] Deep Learning market size was valued at USD 81320.32 million in 2021 and is expected to expand at a"
     publishedDateTime: 2022-09-23T09:13:00Z
@@ -105,15 +119,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 12
-  - title: "Global Deep Learning Chipset Market | Value and Size Expected to Reach USD 14178.14 Million | Growing at CAGR of 15.04% | Forecast Period 2022-2027"
-    excerpt: "With tables and figures helping analyze worldwide Global Deep Learning Chipset market trends, this research provides key statistics on the state of the industry and is a valuable source of guidance and direction for companies and individuals interested in the market."
-    publishedDateTime: 2022-09-23T07:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-value-and-size-expected-to-reach-usd-1417814-million-growing-at-cagr-of-1504-forecast-period-2022-2027-2022-09-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 11
   - title: "Machine Vision Market Size To Reach USD 11380 Million By 2028 At A CAGR of 4.0% - Valuates Reports"
     excerpt: "Major Factors Driving The Growth Of The Machine Vision Market are. The Machine Vision market is projected to be driven by the rising need for automation and quality inspection acr"
     publishedDateTime: 2022-09-23T16:00:00Z
@@ -134,6 +139,20 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 2
+  - title: "Global Speech and Voice Recognition Market | 2022-2027 | Expected to Reach USD 30104.9 Million and Growing at CAGR of 22.23%"
+    excerpt: "The global Speech and Voice Recognition market size was valued at USD 9026.92 million in 2021 and is expected to expand at a CAGR of 22.23% during the forecast period, reaching USD 30104.9 million ..."
+    publishedDateTime: 2022-09-23T11:16:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-speech-and-voice-recognition-market-2022-2027-expected-to-reach-usd-30104-9-million-and-growing-at-cagr-of-22-23"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/09/9ce944c9f6ec07bb66ff6e0c6ca0baf6adea883c-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Machine Vision Market Size To Reach USD 11380 Million By 2028 At A CAGR of 4.0% - Valuates Reports"
     excerpt: "The global Machine Vision market size is projected to reach USD 11380 million by 2028, from USD 8374.8 million in 2021, at a CAGR of 4.0% during 2022-2028. Major Factors Driving T"
     publishedDateTime: 2022-09-23T18:06:00Z

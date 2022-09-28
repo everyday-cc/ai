@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/09/25/disperse-which-brings-ai-fuelled-d
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/25/disperse-which-brings-ai-fuelled-data-to-construction-projects-raises-16m/amp/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

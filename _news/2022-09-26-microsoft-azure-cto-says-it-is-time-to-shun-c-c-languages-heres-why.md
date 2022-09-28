@@ -87,20 +87,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Deep Learning Software Market Business overview 2022, and Forecast to 2028 | Microsoft, Express Scribe, Nuance"
-    excerpt: "Download Free Sample Deep Learning Software Market report  The worldwide Deep Learning Software Market is expected to grow at a booming CAGR of 2022-2030, rising from USD billion in 2021 to USD billion in 2028."
-    publishedDateTime: 2022-09-23T05:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-business-overview-2022-and-forecast-to-2028-microsoft-express-scribe-nuance-2022-09-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "TCS recognized as Leader and Star Performer for Microsoft Azure System Integration Capabilities"
     excerpt: "TCS was recognized as a Star Performer for demonstrating the strongest forward and upward movement on the matrix, based on its continued investments in intellectual property, comprehensive portfolio of Azure services,"
     publishedDateTime: 2022-09-26T10:38:00Z
@@ -116,20 +102,6 @@ related:
       - url: "https://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg"
         width: 620
         height: 464
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
-    excerpt: "New Jersey, NJ -- (SBWIRE) -- 09/23/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
-    publishedDateTime: 2022-09-23T05:15:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-58"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 50
-    images:
-      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "WinWire Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "WinWire Technologies (WinWire) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads,"

@@ -43,20 +43,6 @@ related:
         width: 450
         height: 232
         isCached: true
-  - title: "Researchers develop artificial intelligence screening techniques to speed up drug discovery"
-    excerpt: "Developing life-saving drugs can cost billions of dollars and take decades but researchers have developed a new artificial intelligence-based drug screening te"
-    publishedDateTime: 2022-09-23T05:03:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272787941/researchers-develop-artificial-intelligence-screening-techniques-to-speed-up-drug-discovery"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 29
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1663909281.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "JggGjcCCgZocXRKvk1lo2BTC+8CsYUWF+cenhegXGDb2bKx/dHz1Wah9L1YI35OE2yRK1XyHSYlg2xS50lbHvc+vHV+7xDpcoPgyZBxh/GXRcLfLqla/j5lSJQDcjw3LpNwJETkvZ4KmCWFWzAHT1dZtvzX7X7rEOkjhk4S86GR8j4Uhll5zKFh/8295LBQsGnb43+p8NKvsUOdRSibGDZBOkmqtU5PKseZsZ44O1nDBIdnnGD/YENfHCvObFDS9tZZ9rcb8QJ1LFT+0mrZ0qtt0Mlarcbfi4+3w5otoZfccOZ4hmjRnNTKbDfOM9TY4dYfACZKdl62PVeWuCdBGZFgO6lluFB3hIgJ5teyemFA=;XHp4LcZXoi2kZaMFF13TwQ=="
 ---

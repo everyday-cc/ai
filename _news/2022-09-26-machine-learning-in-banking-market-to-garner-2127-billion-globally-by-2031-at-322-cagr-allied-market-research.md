@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/22/09/n29013065/machine-learning
 ampWebUrl: "https://www.benzinga.com/amp/content/29013065"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29013065"
 type: article
-quality: 53
-heat: 53
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -19,7 +19,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-  - AI in Finance
 
 images:
   - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
@@ -27,6 +26,6 @@ images:
     height: 400
     isCached: true
 
-secured: "KrOVA6AJQe+WGnHVFzMJdfxoeqne87j2rZWkx850QMaHRUmgaSBZPHKGFqiRCFtdc1W4PAoic7LFi86REw6IcAxQBcVn1I/6NBI4CGL1jUuurbN8FNvNbYUNsSJvktr9vWUQSddIu2bKNFXFO+ANvwG+qIp5KB3cetFvB+naoikN/rTxOaDexzLgMeEGHXNb61NpAGPPwa+zBuwvLqnIw+3+reJM26PMkwlzmxmwhtz+yrXRdDt0svpjove/Ptr8fp9UWQ7GI6uOGwLBrtw7hOHEzyNMLSt7g/h5Zjhy66Bt5hNLiVHNYcFI0JmwVFYqe6fVoex7QuedbUEIQrNHUV4GF1ejbEaPPlf6qUE7SZk=;e29KGA+gM4hUIwACKkrHOw=="
+secured: "nfOfNOUA3jAaTUljLLcM0C5zRxGr9fsevMrn7hZTSMguF2rBuX8N/EpXjPFl/HlEyM3WEKSL07IuhLvW0jNiTxRHE0/Fp5m399oFX0yTbvAAikBMeLjtZVGmwcI7Z+nGJvugZkFC8ElEU398X5sowSL+5Q1M+FL11V4JzEqUxC5tFUyaV5JGgoLoC387OS/p342djXenkzRStzZsLs7o6k6uglZML2h6QvWRkETi0RgiYboNr6xLu9547lUHN9RsuxM9ZJAkRiAMbQr7yCU/pnJ0sCRxQ4q5cmPWWJxZLICiBlRTlPzmMpAABoWYraqKobn2FA3W3oMWv0S+mvYs0JiE8zSbkmefD9DgwlRbhQo=;KpOLeBh8R5F4kusVzyz7Iw=="
 ---
 
