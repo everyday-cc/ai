@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?506683"
-    width: 389
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?337005"
+    width: 374
     height: 250
     isCached: true
 
-secured: "P7RzMOvFTx7MdKpKwBHli3Cf7qskgdXsDk7Wb53XkpKmh2kT4MMjRid1q3CPz0MTQfyvWvhJD/lnNMJXC9jMxx9NWGMuBaBGVJlGAc2ZbfVEHdra9vist4odIHAvTyuYP67UEHb9KwB9NKLpgAC37Kkicnxc9zynIdYWninrGjUrAlbZDYFDNe//IPpWwntijAjV3hLdgRs4mxmKf9rssgqKuMxKNvK88zCBRmNAnVJ4ZTfm6r6JgkQXU4stLbOAMBf7gvovkVMkzdQACcCc6s+VIPzeYOpvyrl02KfpbRbTbrgDOkVqZT8VfmPYolqQvbXOUh1eMxXWhkCrU6c1nvdpWJHLIyLYpYE+8HFHvFY=;iVwSEQeH5tzRgvgXKdSMAw=="
+secured: "l0qpZb1heM5ku0jUYj6m822IJmsvgOuaegiN7RW8+1w7eWH7oBnsmMwqS9dm3xLfxJ9p4sAKNZCRywlMliYN+yUj2DQw1+3BEgGLlLtLdA/iQHI/kTSDGebontex3tDdnQJi73qtLw55WJ4McxEHJr2fpln7M7irOvJ0luXpsx6cQ2jVp8dxPP5FxBA9Jol3kfD+kVLYTkUAZ0o0cfbt2fcX5ml4toyzaNyCz7K4+i5boL85c1/Yh8f5RFJzIhMzwf/0Kmo6V4za1Dp4xsVi7jKM3esy3v9WKEriKLcsCiSmFQxl6mDOyxzhngUxVWdShiz98FubXyRfms77Pa6L2NRBAcn4gpUmK8Y7FXwzpmk=;hl3TyV3k7inIg5vuYsJtXg=="
 ---
 

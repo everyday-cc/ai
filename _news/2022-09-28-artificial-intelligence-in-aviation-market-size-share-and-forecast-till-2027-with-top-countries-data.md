@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-size-share-and-forecast-till-2027-with-top-countries-data-2022-09-28"
 type: article
 quality: 52
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 2
+  - title: "Image Recognition Market Latest Research, Industry Analysis, Driver, Trends, Business Overview, Key Value, Demand and Forecast 2022-2027"
+    excerpt: "The global Image Recognition market size was valued at USD 27189.63 million in 2021 and is expected to expand at a CAGR"
+    publishedDateTime: 2022-09-28T04:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-latest-research-industry-analysis-driver-trends-business-overview-key-value-demand-and-forecast-2022-2027-2022-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 1
 
 secured: "6B/59ElBqcIUtUAh/ySS1+0ffIt7UL/MOwYjTbR+NJbqwZlvOKCsjXynTbqFdVCM8ymYVxjruAXgW8hjJVuDHwf+ADqN8dRxXWkcB3N9QS8gnSttyjvMvQ9fOw8AwZMX3q+AIqDz/2X7ktm2Imp+A8wt6MIl1nzoUYauHo+5CXXUpvoJ7ialMJx2a83RJw5IVX806efyayKPgokNMCeAZsT8tmkVDVcAEj2wManxr0IuUJi6NWEwP+us+nD2p6zgwB54Glbv4iY2FxFrc8OUfy/4UkrJ7h+Lz6mCDMdiANzX7PSWElVyo6uPWqX75dvI33tW6D6CQklvKOrvdy1Yb4ApxSVIsEibG253cVyz5fM=;LzkNojSyo3g+SeLXmAu0bw=="
 ---

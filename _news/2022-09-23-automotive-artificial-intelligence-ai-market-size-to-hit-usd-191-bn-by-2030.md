@@ -1,22 +1,26 @@
 ---
 category: news
-title: "Automotive Artificial Intelligence (AI) Market Size to Hit USD 19.1 Bn by 2030"
-excerpt: "The global automotive artificial intelligence (AI) market size was valued at USD 2.9 billion in 2021. The development in the auto business is supposed to drive the automotive"
-publishedDateTime: 2022-09-22T21:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030"
-ampWebUrl: "https://www.benzinga.com/amp/content/28977012"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28977012"
+title: "Automotive Artificial Intelligence (AI) Market Size To Hit USD 19.1 Bn By 2030"
+excerpt: "The global automotive artificial intelligence (AI) market size was valued at USD 2.9 billion in 2021. The development in the auto business is supposed to drive the automotive artificial intelligence market."
+publishedDateTime: 2022-09-22T21:37:00Z
+originalUrl: "https://menafn.com/1104911136/Automotive-Artificial-Intelligence-AI-Market-Size-To-Hit-USD-191-Bn-By-2030"
+webUrl: "https://menafn.com/1104911136/Automotive-Artificial-Intelligence-AI-Market-Size-To-Hit-USD-191-Bn-By-2030"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "eRQGMnrthmzB05hlWEWtneSMeSyvC9/5f4sHDRRgcK5/DYbXE8bvCCH+qgg84yr3eLG15Ic0wv6MHOqlGn3a+uJ3JJA+KnEDhFVGfHKfOsyPt+1xqR4v2jexTolFB0X/8hQjjmkmnkngWffS/YdbBQ4Ou++31EuktHa1KSQMCCZJrdbIN31pcjlvTaZiF7RRmabfMwpKmTg6ETEBQ4ZG/3bcaQdpKNuucm+QViII0N08J/z8D/LUwlyp4sEQsiHLAEQ1eCTISWCYLA771IXMaCPFeHQ9VAH2a6dfrOZm6QrImrpaD7Ng4R2uyevydiAxQY/RECh3P2qTZEFtjjo2pf8w75a85zI8H83ufG2aeug=;z9Lh5FLxGHd3UMRmPUzv0w=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?337005"
+    width: 374
+    height: 250
+    isCached: true
+
+secured: "4e5uLrqXa8tvn5A7jFBiYs9SrgA3kINJw+/pqCwZrQkrer7Nz3VRhT75DVbIHo9ojBG04PlbFIorzP7YFGhb7elXtupU7F8vjQkQ1s7Y9DZ86JD0rXLmTJn/E0VP+1ZVgGtVeMV8j0y7SULONJHpDVLPYukNI2A9caHzX+Qd3gzv3lrlOKeMX3QcABiKSQ9vN4Q8fcyhTPh6vWAaGDS+ElWU7gU4m/eM6iPc6Bg1O6pUhrxe6lGNYaTjjJ9ensnC3455kTsCP9ZQZcjnRXcHPrpZLHgu6urhxiN5Gx47LGPeN1VDDqIEcq0SEdp1vBDOHTqfvrVjwVf2ppepQ3yKVxDhScF3biMaLe1KZJuEyxU=;GwI3m5dgab5sMAHkneLYYg=="
 ---
 

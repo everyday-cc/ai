@@ -56,6 +56,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 3
+  - title: "Image Recognition Market Latest Research, Industry Analysis, Driver, Trends, Business Overview, Key Value, Demand and Forecast 2022-2027"
+    excerpt: "The global Image Recognition market size was valued at USD 27189.63 million in 2021 and is expected to expand at a CAGR"
+    publishedDateTime: 2022-09-28T04:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-latest-research-industry-analysis-driver-trends-business-overview-key-value-demand-and-forecast-2022-2027-2022-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 1
 
 secured: "gdTKzXIHh6Jx9LD62bNeOvaOpMjs0fES2/fbOYPqn7Pu3po9tnt/+8iCVaOdnezITElAZSKxFrUY6w/zhILMnQLWOs/tfNzj/klxorYrQExTGC787OE4kWPKTW0/G+FxH0zPjVxEn/nul8z+vQamkjSBRM/Gwlshzjw3jr1y3ut2AURusIa6wV+AnioNdLPo+akw0F8DZA0c2ohaXmztRsIC0t9shq0qLwJnbZ3LXoFqlNp/57Av+azPZXB0WXnq6d7hFNPpaGmg1C7/vw8YTxnDAk4ACC+7lkn9rhskgG2UY5itGxLEkj10qw/Qa11qJFnsEORwOvuuntA7Na+zDcQHeIhYT2Sk+CXc5q7vO5I=;gMq+tRpIq7HQh1SIM1++GA=="
 ---

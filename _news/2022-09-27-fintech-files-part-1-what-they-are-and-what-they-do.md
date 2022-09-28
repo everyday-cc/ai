@@ -55,6 +55,15 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "BIZCLIK LAUNCHES AUGUST 2022 EDITION OF FINTECH MAGAZINE"
+    excerpt: "BizClik, the UK's fastest growing publishing company, has published the August edition of FinTech Magazine. The digital edition of"
+    publishedDateTime: 2022-09-28T16:25:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/bizclik-launches-august-2022-edition-of-fintech-magazine-301635810.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 4
 
 secured: "5kTPShndFK1g/HUB+3uSKaZYWnOxTueRfyPf7zcqfXa23iGaV8IfpvRgZZCefrJRW9oOWNXYEqyYLmo12R6q1CNGiLV0bCZ85q27yENKvrJ3q+04QvXjkhPMQhzvcH37iSYxncp0sJ46FX9uyjK35H0iXpHdStzDuZi2PsUzB+PIMA3b4zC8r6q+MIOIBriw1VvsACdVtMH9Y9yz05xAePet2V45CHoMTWwuWVwyXUKNXg+OrREflbxW6aY1OyeSmxC/NbsCyTPwvmegRfFBAqkhVUDl8Y+SSqzfgxN+/2PNRTnW7QsY9aULv0oAjsYJzKp+i7Mwhl4mkJF6xRqbgNyxNeGWVYTzAvkWeFoJW+ZTkZy0WYkfGNZOvgdrtAQPKjaCLfYWZLdgBKNAdIVtb67ZV0aI5SdQzY0Cwq6fl0jFwkzf4VG+bVZqdLgHRBCNlPSHQlNi5pJiHm9IcFfqcPiHeRvN+Be2AYSUH9iLOCoMkcBZRmiZnl0v1CG58T1xOTx1mZzVUAvOO0e6tuCgLQ==;RdpgYB0GmfnRG7HpMZ+ZuA=="
 ---

@@ -18,6 +18,17 @@ topics:
   - AI
 
 related:
+  - title: "DALL-E AI Art Generator Finally Opens Doors to Wider Internet"
+    excerpt: "OpenAI, the makers of DALL-E 2, said Wednesday it’s removing the waitlist, but it's stepping into a realm that's mired in controversy."
+    publishedDateTime: 2022-09-28T17:35:00Z
+    webUrl: "https://gizmodo.com/dall-e-art-generator-ai-openai-1849591740"
+    ampWebUrl: "https://gizmodo.com/dall-e-art-generator-ai-openai-1849591740/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/dall-e-art-generator-ai-openai-1849591740/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 67
   - title: "MIT AI Image Generator System Makes Models Like DALL-E 2 More Creative"
     excerpt: "A new method developed by researchers uses multiple models to create more complex images with better understanding. With the introduction of DALL-E, the internet had a collective feel-good moment. Thi"
     publishedDateTime: 2022-09-25T05:47:00Z

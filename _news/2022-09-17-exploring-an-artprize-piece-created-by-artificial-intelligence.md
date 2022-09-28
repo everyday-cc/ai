@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://x-default-stgec.uplynk.com/ausw/slices/82c/2641ad36b5274c6abc96c2f4a99426ed/82c5ec0b6d4c4c52bcd32b39e8c11234/poster_d7e1a0cab9bf4be4bc533a39b4561dda.jpg"

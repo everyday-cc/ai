@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Industrial UAV startup AiSeed offers AI+Drone to tackle toughest challenges"
-excerpt: "Having enthusiasm for applying new technologies such as artificial intelligence (AI) and autonomous drone driving to solve real-life problems, Wang decided to start his own business. He believes in the potential of drones because it shares the same supply ..."
+excerpt: "AiSeed Technology (AiSeed), a newcomer to the commercial drone market, was established in Taiwan right before COVID-19 rampaged across the world. Despite the difficulty, it still survived during the pandemic and continues to gain attention at international air shows with its unmanned airborne vehicles (UAV)."
 publishedDateTime: 2022-09-26T07:27:00Z
-originalUrl: "https://www.digitimes.com/news/a20220925VL202.html"
-webUrl: "https://www.digitimes.com/news/a20220925VL202.html"
+originalUrl: "https://www.digitimes.com/news/a20220925VL202/ai-autonomous-uav.html"
+webUrl: "https://www.digitimes.com/news/a20220925VL202/ai-autonomous-uav.html"
 type: article
 quality: 35
 heat: 35
@@ -23,6 +23,6 @@ images:
     height: 853
     isCached: true
 
-secured: "pszNl162+A+hF+YzaNctLnEpHLaYuOY0fcAxo0XgCjNAMprtoPt3MPP0kPOOSaQI9En57DeOdUOV/FdiU5rXOBeyUyrwvaxnhUOevqRms4+dXmWnQjjPTue/DH1PkLzWlFwnVGU6LxcUVlDyHG4MVg2PkXe06LPJolqI8Zqu+tz+Nro8ybpljy1QNG0E5rpjweh471PTWsqAPRJcVTDOLPbg1QTQ3OCzxaXB2w+c/EPQ6E7gRK3xu2oOlS684FnwgVds4QjSHsOAWt30PfkAW5SlczDvv++vuQ26qgC4xOzh+ugIDcLnwDv9o2XtQTsPYvhbPMrXcUTwBfYtqL4EUJSDfdjZWNUKifdU+MyFdo4=;TpYTKRNbOEj9oikWkbyOYg=="
+secured: "K23qzloigK0WJIXagsfvJbEf3nfE+p4MNLSBJHah0OXrb8IiF0108zS4o+1HeqgrkzTi58TS3aZYCc197aBcOxpfl1BmzEDiELzbagC0QUrHZRxkpHvGNPTw5SJ/sjlZN90brKM4JCWOpOA6kJ3bnt16VP34g/yySr16ZfLSHZkH4HlyGJGrX6LLEyVvBP4izm9PNafO1IJ1RgcrpUfxHJ5c4R+Gseiif11LDfq9v3Ag5Q5SkNO9c74bAZzuHUO51Y2nSf/8RyROSj2rPkfKz6UHku9iUz4h+7LTWTKqeuGGj+3n9jVAb1mtjR8+2Q/fgBCnD5nljivl6Z+mPQPMidgoM9SLHhn4MyQr/JPV9n0=;6xdkxXe3sWXQf0KvddOJGg=="
 ---
 

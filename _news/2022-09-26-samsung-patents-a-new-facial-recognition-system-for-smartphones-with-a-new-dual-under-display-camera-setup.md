@@ -59,6 +59,22 @@ related:
         width: 1068
         height: 580
         isCached: true
+  - title: "Samsung patents new facial recognition tech featuring dual under-display camera system"
+    excerpt: "Samsung has been working on an interesting system for facial recognition, one that involves two under-display cameras."
+    publishedDateTime: 2022-09-28T16:04:00Z
+    webUrl: "https://tech.hindustantimes.com/mobile/news/samsung-patents-new-facial-recognition-tech-featuring-dual-under-display-camera-system-71664341633591.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/mobile/news/samsung-patents-new-facial-recognition-tech-featuring-dual-under-display-camera-system-71664341633591.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/mobile/news/samsung-patents-new-facial-recognition-tech-featuring-dual-under-display-camera-system-71664341633591.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 51
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2022/09/28/1600x900/1_1664348615765_1664348622862_1664348622862.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Samsung phones may come with dual under-display cameras for facial recognition in the future: How it could work"
     excerpt: "South Korean tech giant Samsung is likely working on a camera system for facial recognition that involves two under-display cameras. According to GSMArena, it is described in a patent application Samsung filed with the KIPRIS (Korea Intellectual Property Rights Information Service) back in March 2021."
     publishedDateTime: 2022-09-25T10:13:00Z

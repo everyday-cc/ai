@@ -2,6 +2,299 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-29-dall-e-ai-art-generator-finally-opens-doors-to-wider-internet.md",
+      "title": "DALL-E AI Art Generator Finally Opens Doors to Wider Internet",
+      "excerpt": "OpenAI, the makers of DALL-E 2, said Wednesday it’s removing the waitlist, but it's stepping into a realm that's mired in controversy.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/dall-e-art-generator-ai-openai-1849591740",
+      "originalUrl": "https://gizmodo.com/dall-e-art-generator-ai-openai-1849591740",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/dall-e-art-generator-ai-openai-1849591740/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/dall-e-art-generator-ai-openai-1849591740/amp",
+      "publishedDateTime": "2022-09-28T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-amazon-wants-to-cocoon-you-with-ambient-intelligence.md",
+      "title": "Amazon Wants to Cocoon You With ‘Ambient Intelligence’",
+      "excerpt": "The company’s new smart gadget uses radar to track your breathing while you sleep. It’s part of Amazon’s plan to weave its products invisibly into your life.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/amazon-wants-to-cocoon-you-with-ambient-intelligence/",
+      "originalUrl": "https://www.wired.com/story/amazon-wants-to-cocoon-you-with-ambient-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/633481ccc4d3ebc9237bc77d/master/pass/Halo_Rise_Pull-apart_01_RGB_science.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/amazon-wants-to-cocoon-you-with-ambient-intelligence/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-wants-to-cocoon-you-with-ambient-intelligence/amp",
+      "publishedDateTime": "2022-09-28T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-amazon-wants-its-home-robot-astro-to-anticipate-your-every-need.md",
+      "title": "Amazon Wants Its Home Robot, Astro, to Anticipate Your Every Need",
+      "excerpt": "The cutesy robot called Astro doesn’t do much now, but the company says it’s a step toward machines that understand your habits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/amazon-wants-its-home-robot-astro-to-anticipate-your-every-need/",
+      "originalUrl": "https://www.wired.com/story/amazon-wants-its-home-robot-astro-to-anticipate-your-every-need/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6333a06b74ce5b82a68ef382/master/pass/Astro-Robot-Pet-Detection-Amazon-Business.jpg",
+          "width": 1620,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/amazon-wants-its-home-robot-astro-to-anticipate-your-every-need/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-wants-its-home-robot-astro-to-anticipate-your-every-need/amp",
+      "publishedDateTime": "2022-09-28T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-build-an-ai-powered-virtual-agent-for-genesys-cloud-using-qnabot-and-amazon-lex.md",
+      "title": "Build an AI-powered virtual agent for Genesys Cloud using QnABot and Amazon Lex",
+      "excerpt": "The rise of artificial intelligence technologies enables organizations to adopt and improve self-service capabilities in contact center operations to create a more proactive, timely, and effective customer experience. Voice bots, or conversational interactive voice response systems (IVR), use natural",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-virtual-agent-for-genesys-cloud-using-qnabot-and-amazon-lex/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-virtual-agent-for-genesys-cloud-using-qnabot-and-amazon-lex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/28/genesys-cloud-qna-bot.jpg",
+          "width": 1532,
+          "height": 756,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-28T09:29:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-make-your-very-own-ai-generated-pokemon-like-creature.md",
+      "title": "Make your very own AI-generated Pokémon-like creature",
+      "excerpt": "After nine generations of Pokémon, it can sometimes feel like the game developers are just pulling random words from a hat and seeing what they come up with. I still can’t decide if Klefki, the sentient keyring Pokémon,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/28/make-your-very-own-ai-generated-pokemon-like-creature/",
+      "originalUrl": "https://techcrunch.com/2022/09/28/make-your-very-own-ai-generated-pokemon-like-creature/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/text-to-pokemon-ai.jpg?resize=1200,628",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/28/make-your-very-own-ai-generated-pokemon-like-creature/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/28/make-your-very-own-ai-generated-pokemon-like-creature/amp/",
+      "publishedDateTime": "2022-09-28T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-netsuite-erp-bolsters-automation-for-hr-supply-chain-sales-and-banking.md",
+      "title": "NetSuite ERP bolsters automation for HR, supply chain, sales and banking",
+      "excerpt": "Appealing to companies that are navigating a global labor shortage and supply-chain problems, NetSuite at its SuiteWorld conference has announced a wide variety of tools across its ERP suite to automate and optimize business processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/408298/netsuite-erp-bolsters-automation-for-hr-supply-chain-sales-and-banking.html",
+      "originalUrl": "https://www.cio.com/article/408298/netsuite-erp-bolsters-automation-for-hr-supply-chain-sales-and-banking.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2022/09/supply_chain_management_logistics_erp_enterprise_resource_planning_thinkstock_global_world_connections_614318676-100749847-orig-2.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/408298/netsuite-erp-bolsters-automation-for-hr-supply-chain-sales-and-banking.html/amp/",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/408298/netsuite-erp-bolsters-automation-for-hr-supply-chain-sales-and-banking.html/amp/",
+      "publishedDateTime": "2022-09-28T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-09-28-truecaller-brings-ai-powered-spam-call-filtering-to-any-ios-or-android-phone.md",
       "title": "Truecaller brings AI-powered spam call filtering to any iOS or Android phone",
       "excerpt": "Truecaller's new Assistant can screen calls and offers basic responses to callers, so you don't have to waste time with spam calls.",
@@ -209,7 +502,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-size-share-and-forecast-till-2027-with-top-countries-data-2022-09-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -417,7 +710,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/new-features-for-amazon-sagemaker-pipelines-and-the-amazon-sagemaker-sdk/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -566,7 +859,7 @@
       "originalUrl": "https://venturebeat.com/ai/intel-geti-and-openvino-efforts-advance-ai-and-computer-vision/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -961,299 +1254,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-ai-wont-replace-human-intuition.md",
-      "title": "AI Won’t Replace Human Intuition",
-      "excerpt": "As artificial intelligence (AI) capabilities and applications have expanded, the AI field is fueling fodder for some interesting science-fiction scenarios. Elon Musk, CEO of Tesla—which relies on AI for self-driving and other key functions—has warned the world about “scary outcomes” harnessed by the power of AI-fueled robots akin to those in “Terminator” film series.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/27/ai-wont-replace-human-intuition/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/27/ai-wont-replace-human-intuition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6331ac26332d12458fdd5380/0x0.jpg?format=jpg&width=1200",
-          "width": 980,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/27/ai-wont-replace-human-intuition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/27/ai-wont-replace-human-intuition/amp/",
-      "publishedDateTime": "2022-09-27T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-i-tested-out-an-ai-art-generator-and-heres-what-i-learned.md",
-      "title": "I tested out an AI art generator and here's what I learned",
-      "excerpt": "How, then, do we fit art created by AI into that conception of art? If humanity defines art, is it enough to reduce the definition to keywords typed into a generator? It's a question that's not theoretical any more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/i-tested-out-an-ai-art-generator-and-heres-what-i-learned/",
-      "originalUrl": "https://www.zdnet.com/article/i-tested-out-an-ai-art-generator-and-heres-what-i-learned/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/3c7a0a4ce38e5640fc0e31506189e1f5b9fde34d/2022/09/12/feb28106-dc94-4fd6-8b9c-c7994f44490c/midjourney.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/i-tested-out-an-ai-art-generator-and-heres-what-i-learned/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tested-out-an-ai-art-generator-and-heres-what-i-learned/",
-      "publishedDateTime": "2022-09-27T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-artificial-intelligence-opens-doors-for-media-but-ethics-must-prevail.md",
-      "title": "Artificial Intelligence opens doors for media but ethics must prevail",
-      "excerpt": "Ten years ago, if you bandied around the word Artificial Intelligence in a Kenyan newsroom, you would be branded an illusionist, today it is the buzzword. AI, machine learning and",
-      "sourceUrl": null,
-      "webUrl": "https://www.the-star.co.ke/opinion/star-blogs/2022-09-27-artificial-intelligence-opens-doors-for-media-but-ethics-must-prevail/",
-      "originalUrl": "https://www.the-star.co.ke/opinion/star-blogs/2022-09-27-artificial-intelligence-opens-doors-for-media-but-ethics-must-prevail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/U7H5nVDwALI80Wo_yJmtBb-vCX8ghYCRML2ZAxqHJUm2gLlYd95ZEbQDKpFIf7Gy3M9j9b7t5JPkWJQ5W8NLS7OmvmXN9KQqs21Cy6WdCAU=s1000",
-          "width": 511,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T02:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "the-star.co.ke",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-new-azure-for-operators-solution-accelerator-offers-a-fast-path-to-network-insights.md",
-      "title": "New Azure for Operators solution accelerator offers a fast path to network insights",
-      "excerpt": "Azure for Operators is introducing a network analytics solution accelerator program, providing a standardized approach to data acquisition and visualization that aids operators on their journey toward complete end-to-end AI Operations (AIOps).",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/new-azure-for-operators-solution-accelerator-offers-a-fast-path-to-network-insights/",
-      "originalUrl": "https://azure.microsoft.com/blog/new-azure-for-operators-solution-accelerator-offers-a-fast-path-to-network-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/28310219-bfcb-40c9-a353-4be56e69af1a.png",
-          "width": 1024,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T02:00:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-chinese-automaker-chery-invests-in-chipmaker-horizon-robotics.md",
-      "title": "Chinese automaker Chery invests in chipmaker Horizon Robotics",
-      "excerpt": "Chinese carmaker Chery has announced a strategic funding agreement for domestic chip powerhouse Horizon Robotics, as part of a collaboration to roll out",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2022/09/27/chinese-automaker-chery-invests-in-chipmaker-horizon-robotics/",
-      "originalUrl": "https://technode.com/2022/09/27/chinese-automaker-chery-invests-in-chipmaker-horizon-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
-          "width": 540,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-xiaomi-smart-camera-2-ai-enhanced-edition-launched-in-china-for-369-yuan-52.md",
-      "title": "Xiaomi Smart Camera 2 AI Enhanced Edition Launched in China for 369 yuan ($52)",
-      "excerpt": "Xiaomi had just launched a new smart home product in the Chinese market. The device in question is the new Smart Camera 2 AI Enhanced Edition, so let’s have a look. The New Smart Camera 2 AI Enhanced Edition houses a 4 megapixel camera that is capable of capture videos",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/09/27/xiaomi-smart-camera-2-ai-enhanced-edition-launch-china/",
-      "originalUrl": "https://www.gizmochina.com/2022/09/27/xiaomi-smart-camera-2-ai-enhanced-edition-launch-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/09/8d608363-0045-4d4e-8c1a-ec95222e9935.png",
-          "width": 728,
-          "height": 1144,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/09/27/xiaomi-smart-camera-2-ai-enhanced-edition-launch-china/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/09/27/xiaomi-smart-camera-2-ai-enhanced-edition-launch-china/?amp=1",
-      "publishedDateTime": "2022-09-27T01:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -2,6 +2,299 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-27-ai-wont-replace-human-intuition.md",
+      "title": "AI Won’t Replace Human Intuition",
+      "excerpt": "As artificial intelligence (AI) capabilities and applications have expanded, the AI field is fueling fodder for some interesting science-fiction scenarios. Elon Musk, CEO of Tesla—which relies on AI for self-driving and other key functions—has warned the world about “scary outcomes” harnessed by the power of AI-fueled robots akin to those in “Terminator” film series.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/27/ai-wont-replace-human-intuition/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/27/ai-wont-replace-human-intuition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6331ac26332d12458fdd5380/0x0.jpg?format=jpg&width=1200",
+          "width": 980,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/27/ai-wont-replace-human-intuition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/27/ai-wont-replace-human-intuition/amp/",
+      "publishedDateTime": "2022-09-27T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-i-tested-out-an-ai-art-generator-and-heres-what-i-learned.md",
+      "title": "I tested out an AI art generator and here's what I learned",
+      "excerpt": "How, then, do we fit art created by AI into that conception of art? If humanity defines art, is it enough to reduce the definition to keywords typed into a generator? It's a question that's not theoretical any more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/i-tested-out-an-ai-art-generator-and-heres-what-i-learned/",
+      "originalUrl": "https://www.zdnet.com/article/i-tested-out-an-ai-art-generator-and-heres-what-i-learned/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/3c7a0a4ce38e5640fc0e31506189e1f5b9fde34d/2022/09/12/feb28106-dc94-4fd6-8b9c-c7994f44490c/midjourney.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/i-tested-out-an-ai-art-generator-and-heres-what-i-learned/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tested-out-an-ai-art-generator-and-heres-what-i-learned/",
+      "publishedDateTime": "2022-09-27T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-artificial-intelligence-opens-doors-for-media-but-ethics-must-prevail.md",
+      "title": "Artificial Intelligence opens doors for media but ethics must prevail",
+      "excerpt": "Ten years ago, if you bandied around the word Artificial Intelligence in a Kenyan newsroom, you would be branded an illusionist, today it is the buzzword. AI, machine learning and",
+      "sourceUrl": null,
+      "webUrl": "https://www.the-star.co.ke/opinion/star-blogs/2022-09-27-artificial-intelligence-opens-doors-for-media-but-ethics-must-prevail/",
+      "originalUrl": "https://www.the-star.co.ke/opinion/star-blogs/2022-09-27-artificial-intelligence-opens-doors-for-media-but-ethics-must-prevail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/U7H5nVDwALI80Wo_yJmtBb-vCX8ghYCRML2ZAxqHJUm2gLlYd95ZEbQDKpFIf7Gy3M9j9b7t5JPkWJQ5W8NLS7OmvmXN9KQqs21Cy6WdCAU=s1000",
+          "width": 511,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T02:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "the-star.co.ke",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-new-azure-for-operators-solution-accelerator-offers-a-fast-path-to-network-insights.md",
+      "title": "New Azure for Operators solution accelerator offers a fast path to network insights",
+      "excerpt": "Azure for Operators is introducing a network analytics solution accelerator program, providing a standardized approach to data acquisition and visualization that aids operators on their journey toward complete end-to-end AI Operations (AIOps).",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/new-azure-for-operators-solution-accelerator-offers-a-fast-path-to-network-insights/",
+      "originalUrl": "https://azure.microsoft.com/blog/new-azure-for-operators-solution-accelerator-offers-a-fast-path-to-network-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/28310219-bfcb-40c9-a353-4be56e69af1a.png",
+          "width": 1024,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T02:00:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-chinese-automaker-chery-invests-in-chipmaker-horizon-robotics.md",
+      "title": "Chinese automaker Chery invests in chipmaker Horizon Robotics",
+      "excerpt": "Chinese carmaker Chery has announced a strategic funding agreement for domestic chip powerhouse Horizon Robotics, as part of a collaboration to roll out",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2022/09/27/chinese-automaker-chery-invests-in-chipmaker-horizon-robotics/",
+      "originalUrl": "https://technode.com/2022/09/27/chinese-automaker-chery-invests-in-chipmaker-horizon-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
+          "width": 540,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-xiaomi-smart-camera-2-ai-enhanced-edition-launched-in-china-for-369-yuan-52.md",
+      "title": "Xiaomi Smart Camera 2 AI Enhanced Edition Launched in China for 369 yuan ($52)",
+      "excerpt": "Xiaomi had just launched a new smart home product in the Chinese market. The device in question is the new Smart Camera 2 AI Enhanced Edition, so let’s have a look. The New Smart Camera 2 AI Enhanced Edition houses a 4 megapixel camera that is capable of capture videos",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/09/27/xiaomi-smart-camera-2-ai-enhanced-edition-launch-china/",
+      "originalUrl": "https://www.gizmochina.com/2022/09/27/xiaomi-smart-camera-2-ai-enhanced-edition-launch-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2022/09/8d608363-0045-4d4e-8c1a-ec95222e9935.png",
+          "width": 728,
+          "height": 1144,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/09/27/xiaomi-smart-camera-2-ai-enhanced-edition-launch-china/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/09/27/xiaomi-smart-camera-2-ai-enhanced-edition-launch-china/?amp=1",
+      "publishedDateTime": "2022-09-27T01:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-27-computer-vision-market-expected-to-raise-at-3174-cagr-by-2022-2027-107-report-pages.md",
       "title": "Computer Vision Market Expected to Raise at 31.74% CAGR by 2022-2027 | 107 Report Pages",
       "excerpt": "The global Computer Vision market size is expected to expand at a CAGR of 31.74% during the forecast period, reaching",
@@ -114,7 +407,7 @@
       "originalUrl": "https://techxplore.com/news/2022-09-blueprint-facial-recognition-technology.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -914,293 +1207,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-a-new-common-sense-test-for-ai-could-lead-to-smarter-machines.md",
-      "title": "A new ‘common sense’ test for AI could lead to smarter machines",
-      "excerpt": "Teaching AI common sense will be the next breakthrough in the field. But how exactly can we measure something as intangible as common sense?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/common-sense-test-for-ai-smarter-machines",
-      "originalUrl": "https://thenextweb.com/news/common-sense-test-for-ai-smarter-machines",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F09%2FOL2-1.jpg&signature=6c729ac2330cc240f65fc262dad35684",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-26T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-this-startups-ai-is-smart-enough-to-drive-different-types-of-vehicles.md",
-      "title": "This startup’s AI is smart enough to drive different types of vehicles",
-      "excerpt": "Wayve, a driverless-car startup based in London, has made a machine-learning model that can drive two different types of vehicle: a passenger car and a delivery van. It is the fir",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/09/26/1060023/wayve-ai-driverless-vehicles-cars-vans-scale-up/",
-      "originalUrl": "https://www.technologyreview.com/2022/09/26/1060023/wayve-ai-driverless-vehicles-cars-vans-scale-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/09/Wayve-Generalisation-width-2888px.jpg?w=2888",
-          "width": 2888,
-          "height": 1624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/09/26/1060023/wayve-ai-driverless-vehicles-cars-vans-scale-up/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/26/1060023/wayve-ai-driverless-vehicles-cars-vans-scale-up/amp/",
-      "publishedDateTime": "2022-09-26T00:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto.md",
-      "title": "It is time to shun C, C++ languages for new projects: Microsoft Azure CTO",
-      "excerpt": "\"Rust\" is now being used within the Android Open Source Project (AOSP) at Meta, at Amazon Web Services (AWS) and Microsoft, reports ZDNet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestatesman.com/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto-1503115247.html",
-      "originalUrl": "https://www.thestatesman.com/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto-1503115247.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestatesman.com/wp-content/uploads/2022/09/0da9bd4f8fc06cb457a2a9b3d6a6f0cc.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestatesman.com/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto-1503115247.html/amp",
-      "cdnAmpWebUrl": "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto-1503115247.html/amp",
-      "publishedDateTime": "2022-09-25T22:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Statesman",
-        "domain": "thestatesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-bosch-sventa-and-phantom-edge-now-available-in-aws-marketplace.md",
-      "title": "Bosch SVENTA and Phantom Edge now available in AWS Marketplace",
-      "excerpt": "Bangalore: Bosch Global Software Technologies (BGSW), formerly known as Robert Bosch Engineering and Business Solutions (RBEI), and an Amazon Web Services (AWS) Advanced Consulting Partner, today anno",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/bosch-sventa-and-phantom-edge-now-available-in-aws-marketplace/",
-      "originalUrl": "https://indiaeducationdiary.in/bosch-sventa-and-phantom-edge-now-available-in-aws-marketplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/bosch-sventa-and-phantom-edge-now-available-in-aws-marketplace/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/bosch-sventa-and-phantom-edge-now-available-in-aws-marketplace/",
-      "publishedDateTime": "2022-09-25T18:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-supporting-the-next-generation-of-ai-leaders.md",
-      "title": "Supporting the next generation of AI leaders ",
-      "excerpt": "We’re partnering with six education charities and social enterprises in the United Kingdom (UK) to co-create a bespoke education programme to help tackle the gaps in STEM education and boost existing programmes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/supporting-the-next-generation-of-ai-leaders",
-      "originalUrl": "https://www.deepmind.com/blog/supporting-the-next-generation-of-ai-leaders",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/632b36a158023307b04d9228_Header%20(1).jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-ai-in-healthcare-still-has-a-long-journey-ahead.md",
-      "title": "AI In Healthcare Still Has A Long Journey Ahead",
-      "excerpt": "For many years, artificial intelligence (AI) technology has pledged the promise of vastly improving the healthcare industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/saibala/2022/09/25/ai-in-healthcare-still-has-a-long-journey-ahead/",
-      "originalUrl": "https://www.forbes.com/sites/saibala/2022/09/25/ai-in-healthcare-still-has-a-long-journey-ahead/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6330caf663c91908687d2c1f/0x0.jpg?format=jpg&crop=4363,2454,x432,y241,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/saibala/2022/09/25/ai-in-healthcare-still-has-a-long-journey-ahead/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2022/09/25/ai-in-healthcare-still-has-a-long-journey-ahead/amp/",
-      "publishedDateTime": "2022-09-25T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

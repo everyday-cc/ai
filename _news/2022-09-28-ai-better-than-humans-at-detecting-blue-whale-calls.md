@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-09-ai-humans-blue-whale.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-ai-humans-blue-whale.amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     height: 711
     isCached: true
 
-secured: "568Q/ZMctbRbsq6BoZDWU3k8f28GhMk9br+Jb4oh82GH76+sOFy0ZTPxMzKUmXYXqGXgHxoy4wxGyCW4/q+MN9TQZA2+IGPCEjHEeFXOfDJUje3CWAbsNydk7QVDo3bME7E6Hs2LcSN/aTlueDoFwiXgtD4M2XZ1TN4L4B8Rj1HctlPnsNThjdzNSpT0f6gMXxCnkC8u2AqBwGhrPMcJ+v3bggqhfsdpilcSH5RGIkCPJnDL/8eJ3t/MpFZsB6BS+tzXZXqtlNW5DnQJrHQ1gSwX4OG6zd3kj/f/bPeiEhlEOeaOW6YrlsMQuHMvnEbqchEKv1gE5MIDNZgjFIdKdREOh6OlX5LoYtjT6G4tvuQ=;2GtRijnr6ymc8UlzmAD5bw=="
+related:
+  - title: "AI-driven justice may be better than none at all"
+    excerpt: "I bet you’re very relieved,” the presiding justice said to me with a sympathetic smile. I was indeed. But such human interaction in the judicial system might become rarer. Several countries are experimenting with using artificial intelligence-driven algorithms to mete out judgments,"
+    publishedDateTime: 2022-09-28T17:18:00Z
+    webUrl: "https://www.ft.com/content/a5709548-03bd-4f65-b9b5-7aa0325c0f6b"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
+
+secured: "5yW8KNGPvXr16y6HBjEbtbaWEEpvN8oV3cE7JrtOdbr+hn991vG0Jw4c3pOXy5+Th9h5+PjUVKOLzH3pczcD1jv4fQkrx0gRGVxbCDgXysjY+vuECiWtn8JOLObYMSa/fHucMGfZr84VGNeIfLASF4U2k2B07TRFYRy5uq4bugRI9FXdzQYA/RxRZz64bK0vSVe8L94rsXSyw0JciQTZCUNiirrapOuO1GCAjZfqJ0gZHlSvk5m0zKopwEVXn1blssw6g+Flx0qBFB12h6pLnsZ7yjoP+NJ3pIlkoYXPXHpkNst64+sYluTC6IUOE4G5ny3ivJN4dfHk1EDHU5CjeCdeeeUFpFHFe5/H5lVgmH6KUSqe+7ESSOLgEW52lki/t7LTBBMiSjK5lR5rjDW7pAtYcYkkcfmtPJk/6isb94Mkq2F1ioS5w/iu8oZDfMS2MdX3IRGIxlAmW0/RdUjdiEAoB/R5JijCfch8vVIcfZTa9vAR0OSmXpKt4SU02mqu/iAZSSNVgh+VSHZuT4e4wg==;E7BuBU/eVgXse+lVbD/d/A=="
 ---
 

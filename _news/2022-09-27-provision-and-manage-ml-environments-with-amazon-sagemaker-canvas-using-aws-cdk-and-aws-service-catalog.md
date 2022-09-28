@@ -52,6 +52,20 @@ related:
         width: 1531
         height: 766
         isCached: true
+  - title: "Set up enterprise-level cost allocation for ML environments and workloads using resource tagging in Amazon SageMaker"
+    excerpt: "As businesses and IT leaders look to accelerate the adoption of machine learning (ML), there is a growing need to understand spend and cost allocation for your ML environment to meet enterprise requirements. Without proper cost management and governance, your ML spend may lead to surprises in your monthly"
+    publishedDateTime: 2022-09-28T16:21:14Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/set-up-enterprise-level-cost-allocation-for-ml-environments-and-workloads-using-resource-tagging-in-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 83
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/28/enterprise-level-cost-allocation-sagemaker.jpg"
+        width: 1534
+        height: 765
+        isCached: true
 
 secured: "0qUkONO+MU0ZiRYAS0MYr+8/tFY2DAF1JwxBPjcqK7UArYYLrwPTJH6vyuZjMYEaaNX3GWerOG8Lrt2Oknk+XNk4egV2jGXGK0qMvZrEO1s5z8rrEs2hCw1GVU4XoqEIU2tKLmqPStrOu/TIBCW7LpyWlomHrHYKmw6VeKrP2DOd6SBtlbXcboX2DsZNfZv4vdne3+6eKLLLWzILHAVq2rfT9jruQKZFI9aXYjRjxd+L4a6OOPBhQ2j/+C/ss7jEZ7PSrEh2S+an05NQIZrwpZvzlq8j9i1g5T2ZmHgh8XREHwBgA3Dbvufni5Vz9bB54FTQjUMFNbxe9MIC2FsdfU9/g0S6UDwz/iJZX/6gr0c=;p817U/RFCJ+2gQoDxZ1BIg=="
 ---

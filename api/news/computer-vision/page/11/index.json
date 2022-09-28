@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-05-26-yes-ai-can-be-tricked-and-its-a-serious-problem.md",
+      "title": "Yes, AI Can Be Tricked, And it's a Serious Problem",
+      "excerpt": "By examining the areas of the brain that are damaged in cases of visual agnosia, researchers are able to determine what structures play a role in object recognition. While artificial intelligence hasn't reached the levels of sophistication of the human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/yes-ai-can-be-tricked-and-its-serious-problem",
+      "originalUrl": "https://www.designnews.com/electronics-test/yes-ai-can-be-tricked-and-its-serious-problem",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/styles/article_featured_standard/public/Design%20News/MIT%20piggie.png?itok=oGHiuE3t",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-26-backlash-over-law-that-would-let-gardai-use-facial-recognition-technology.md",
       "title": "Backlash over law that would let gardai use facial recognition technology",
       "excerpt": "The justice minister has come under pressure to explain the nature of legislation that would allow gardai to use facial recognition technology (FRT).Helen McEnt",
@@ -1276,58 +1319,6 @@
         "name": "SportsPro",
         "domain": "sportspromedia.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-3d-facial-recognition-market-growth-competitive-methods-and-forecast-2026.md",
-      "title": "3D Facial Recognition Market Growth, Competitive Methods and Forecast 2026",
-      "excerpt": "May 17, 2022 (Market Insight Reports) -- This detailed presentation on ‘ 3D Facial Recognition market’ available at MarketStudyReport.com, features an exhaustive study conveying influential trends prevailing in the global business sphere. The report ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-market-growth-competitive-methods-and-forecast-2026-2022-05-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-market-growth-competitive-methods-and-forecast-2026-2022-05-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-17T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

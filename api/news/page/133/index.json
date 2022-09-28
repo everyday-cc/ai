@@ -2,6 +2,353 @@
   "page": 133,
   "value": [
     {
+      "path": "_news/2022-06-15-atscale-helps-customers-accelerate-machine-learning-initiatives-with-support-for-feast-feature-stores.md",
+      "title": "AtScale Helps Customers Accelerate Machine Learning Initiatives With Support for Feast Feature Stores",
+      "excerpt": "AtScale, the leading provider of semantic layer solutions for modern business intelligence and data science teams, today announced that it has added support for the Feast feature store. Feast is an open-source feature store gaining rapid adoption in the enterprise data science community.",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-14-atscale-helps-customers-accelerate-machine-learning-initiatives-with-support-for-feast-feature-stores",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-14-atscale-helps-customers-accelerate-machine-learning-initiatives-with-support-for-feast-feature-stores",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T15:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-researcher-finds-that-military-cannot-rely-on-ai-for-strategy-or-judgment.md",
+      "title": "Researcher finds that military cannot rely on AI for strategy or judgment",
+      "excerpt": "Using artificial intelligence (AI) for warfare has been the promise of science fiction and politicians for years, but new research from the Georgia Institute of Technology argues only so much can be automated and shows the value of human judgment.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-06-military-ai-strategy-judgment.html",
+      "originalUrl": "https://techxplore.com/news/2022-06-military-ai-strategy-judgment.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/5-ai.jpg",
+          "width": 1920,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-06-military-ai-strategy-judgment.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-military-ai-strategy-judgment.amp",
+      "publishedDateTime": "2022-06-14T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse.md",
+      "title": "CaixaBank, Microsoft Establish Innovation Lab for AI, Metaverse",
+      "excerpt": "CaixaBank and Microsoft (NASDAQ: MSFT) have established a joint innovation agreement with the aim of \"promoting the application of AI.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2017/08/Science-Chemistry-Lab-Experiment.jpg",
+          "width": 1280,
+          "height": 998,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192309-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse/amp/",
+      "publishedDateTime": "2022-06-14T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-aws-with-intel-launches-deepracer-student-league.md",
+      "title": "AWS with Intel launches DeepRacer Student League",
+      "excerpt": "AWS in collaboration with Intel has announced the launch of the AWS DeepRacer Student League 2022 in India to introduce machine learning (ML) to students in higher education.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/business/aws-with-intel-launches-deepracer-student-league-748707",
+      "originalUrl": "https://www.thehansindia.com/business/aws-with-intel-launches-deepracer-student-league-748707",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2022/06/14/1297767-deepracer.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/business/aws-with-intel-launches-deepracer-student-league-748707",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/aws-with-intel-launches-deepracer-student-league-748707",
+      "publishedDateTime": "2022-06-14T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-dogs-with-cancer-needed-for-new-therapy-treatment-at-u-of-g.md",
+      "title": "Dogs with cancer needed for new therapy treatment at U of G",
+      "excerpt": "Researchers at the University of Guelph are hoping to revolutionize cancer care with an innovative treatment, and they need dogs with cancer to help with their clinical trial.",
+      "sourceUrl": null,
+      "webUrl": "https://kitchener.ctvnews.ca/dogs-with-cancer-needed-for-new-therapy-treatment-at-u-of-g-1.5946620",
+      "originalUrl": "https://kitchener.ctvnews.ca/dogs-with-cancer-needed-for-new-therapy-treatment-at-u-of-g-1.5946620",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2022/6/15/2465609/_jcr_content/renditions/videothumbnail.1655335354702.jpg",
+          "width": 1020,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/kitchener/2022/6/14/1_5946620.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/kitchener/2022/6/14/1_5946620.amp.html",
+      "publishedDateTime": "2022-06-14T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-dataiku-named-snowflake-machine-learningai-partner-of-the-year-award-for-the-2nd-year-in-a-row.md",
+      "title": "Dataiku Named Snowflake Machine Learning/AI Partner of the Year Award for the 2nd Year in a Row",
+      "excerpt": "Dataiku, the platform for Everyday AI, today announced that it has been named the 2022 Machine Learning/AI Partner of the Year award winner by Snowflake, the Data Cloud company, for the second year in a row.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-science-ddf2bca36481dbf88329f6adc9894676",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-science-ddf2bca36481dbf88329f6adc9894676",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-transformer-robot-can-travel-through-human-body-to-fight-disease.md",
+      "title": "‘Transformer’ robot can travel through human body to fight disease",
+      "excerpt": "Scientists have created a Transformers-style robot inspired by the Japanese paper-folding art of origami. The shape-shifting device is controlled by magnets and can crawl, spin and swim into ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2022/06/14/transformer-robot-travels-through-body-to-fight-disease/",
+      "originalUrl": "https://nypost.com/2022/06/14/transformer-robot-travels-through-body-to-fight-disease/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/06/TRANSFORMER-ROBOT2.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2022/06/14/transformer-robot-travels-through-body-to-fight-disease/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/14/transformer-robot-travels-through-body-to-fight-disease/amp/",
+      "publishedDateTime": "2022-06-14T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-the-artificial-intelligence-we-fear-is-our-own.md",
+      "title": "The Artificial Intelligence We Fear Is Our Own",
+      "excerpt": "A Google engineer has been ridiculed for his belief that a language model had become sentient. But the joke is on us if we continue AI research with only profit as the goal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/opinions/the-artificial-intelligence-we-fear-is-our-own",
+      "originalUrl": "https://www.pcmag.com/opinions/the-artificial-intelligence-we-fear-is-our-own",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/01H7KoLZImiw6QykYnwmu4S-1.fit_lim.size_1200x630.v1655156076.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-governance-planning-intranets-and-microsoft-365.md",
       "title": "Governance Planning, Intranets, and Microsoft 365",
       "excerpt": "At KMWorld 2021, Microsoft MVP Susan Hanley discussed how she develops effective governance plans for her clients. A key part of planning is to consider these questions, she said: What are we going to allow? What are we not going to allow? How are we going ...",
@@ -737,369 +1084,6 @@
       "provider": {
         "name": "Digital Journal",
         "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-china-automotive-voice-industry-report-2021-2022-the-boom-of-self-research-by-oems-will-promote-reform-in-the-supply-mode-researchandmarketscom.md",
-      "title": "China Automotive Voice Industry Report, 2021-2022: The Boom of Self-research by OEMs will Promote Reform in the Supply Mode - ResearchAndMarkets.com",
-      "excerpt": "The “China Automotive Voice Industry Report, 2021-2022” report has been added to ResearchAndMarkets.com’s offering. Automotive voice market: The boom of self-research by OEMs will promote reform in the supply mode Before the advent of fully automated driving,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-china-d9a3605b20f44c9c9a170dc843ef2593",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-china-d9a3605b20f44c9c9a170dc843ef2593",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-artificial-intelligence-in-drug-discovery-market-2022-overview-demand-new-opportunities-and-swot-analysis-by-2030.md",
-      "title": "Artificial Intelligence in Drug Discovery Market 2022 Overview, Demand, New Opportunities and SWOT Analysis by 2030",
-      "excerpt": "Artificial intelligence plays an important role in ... the U.S.-based provider of biomarkers-based therapy, Nucleai signed a collaboration agreement with Debiopharm, pharma company pioneering ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-2022-overview-demand-new-opportunities-and-swot-analysis-by-2030-2022-06-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-2022-overview-demand-new-opportunities-and-swot-analysis-by-2030-2022-06-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-mit-engineers-build-lego-like-ai-chip.md",
-      "title": "MIT Engineers Build LEGO-like AI Chip",
-      "excerpt": "With a LEGO-like design for a stackable, customizable artificial intelligence chip, MIT engineers have taken a step toward a modular chip design. Traditional wiring is used in other modular chip designs to transmit signals between layers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsforu.com/news/whats-new/mit-engineers-build-lego-like-ai-chip",
-      "originalUrl": "https://www.electronicsforu.com/news/whats-new/mit-engineers-build-lego-like-ai-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electronicsforu.com/wp-contents/uploads/2022/06/MIT-Stackable-AI-01-press_0-e1655207915965.jpg",
-          "width": 500,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.electronicsforu.com/news/whats-new/mit-engineers-build-lego-like-ai-chip/amp",
-      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/mit-engineers-build-lego-like-ai-chip/amp",
-      "publishedDateTime": "2022-06-14T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics For You",
-        "domain": "electronicsforu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-pharmas-blind-spot-successfully-using-ai-to-drive-drug-development.md",
-      "title": "Pharma’s Blind Spot: Successfully Using AI To Drive Drug Development",
-      "excerpt": "Ultimately, we have to remember that AI in drug development isn't about profitability—it’s about the patient. So, make sure your AI doesn’t have any blind spots when you put it in the front seat driving.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/14/pharmas-blind-spot-successfully-using-ai-to-drive-drug-development/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/14/pharmas-blind-spot-successfully-using-ai-to-drive-drug-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62a73a5af4080243164331d7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/14/pharmas-blind-spot-successfully-using-ai-to-drive-drug-development/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/14/pharmas-blind-spot-successfully-using-ai-to-drive-drug-development/amp/",
-      "publishedDateTime": "2022-06-14T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial.md",
-      "title": "Facial recognition technology: how it’s being used in Ukraine and why it’s still so controversial",
-      "excerpt": "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to identify the dead and reunite families.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171",
-      "originalUrl": "https://theconversation.com/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/467210/original/file-20220606-24-utzinn.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=208&fit=crop",
-          "width": 320,
-          "height": 208,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171",
-      "publishedDateTime": "2022-06-14T03:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-what-ai-developers-need-to-know-about-artificial-intelligence-ethics.md",
-      "title": "What AI developers need to know about artificial intelligence ethics",
-      "excerpt": "but tools and platforms alone won't deliver ethical AI solutions. If only there were tools that could build ethics into artificial intelligence applications. Developers and IT teams are under a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/?taid=62a84e1a7385bc0001a68c26&amp;amp;amp",
-      "originalUrl": "https://www.zdnet.com/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/?taid=62a84e1a7385bc0001a68c26&amp;amp;amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/825e0a5977002cfb4804f00cf03be8ad201e1374/2022/06/11/92a5fa08-c082-4171-99ba-bf4646d6f597/buildings-with-rose-new-york-city-march-2021-photo-by-joe-mckendrick.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-jidu-auto-to-begin-sales-of-l4-robocar-this-year.md",
-      "title": "Jidu Auto to begin sales of L4 robocar this year",
-      "excerpt": "CEO Xia Yiping said the production model shares 90% of its content with the Robo-01 concept car and would be equipped with a Level-4 autonomous driving system developed by Baidu which does not ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-auto.com/news/jidu-auto-to-begin-sales-of-l4-robocar-this-year/",
-      "originalUrl": "https://www.just-auto.com/news/jidu-auto-to-begin-sales-of-l4-robocar-this-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2021/07/2017-06-20-13-21-continentalautonomousdriving2_cropped_90.jpg",
-          "width": 424,
-          "height": 282,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Just Auto",
-        "domain": "just-auto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-jidu-auto-steps-up-to-roll-out-mass-produced-robocars.md",
-      "title": "Jidu Auto steps up to roll out mass-produced robocars",
-      "excerpt": "Smart electric vehicle company Jidu Auto, a joint venture established by Chinese tech giant Baidu Inc and carmaker Geely Holding Group, plans to launch its first mass-produced robocar model in the coming autumn and open the first self-owned store in the fourth quarter of this year.",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202206/14/WS62a7f247a310fd2b29e62963.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202206/14/WS62a7f247a310fd2b29e62963.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.chinadaily.com.cn/images/202206/14/62a7f247a310fd2bec8f427f.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
         "images": null,
         "publishers": null,
         "authors": null

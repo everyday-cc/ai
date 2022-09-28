@@ -85,6 +85,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Twenty20 adds facial recognition capabilities to gunshot detection security solution"
+    excerpt: "Twenty20 Solutions partners with Acoem USA to add active shooter location identification capabilities based on facial recognition to its portfolio."
+    publishedDateTime: 2022-09-28T17:11:00Z
+    webUrl: "https://www.biometricupdate.com/202209/twenty20-adds-facial-recognition-capabilities-to-gunshot-detection-security-solution"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 49
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/28125825/Twenty20-Solutions.jpg"
+        width: 1440
+        height: 900
+        isCached: true
   - title: "New report offers blueprint for regulation of facial recognition technology"
     excerpt: "A new report outlines a model law for facial recognition technology to protect against harmful use of this technology, but also foster innovation for public benefit."
     publishedDateTime: 2022-09-27T19:36:00Z

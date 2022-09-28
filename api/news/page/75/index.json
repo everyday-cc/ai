@@ -2,6 +2,384 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2022-07-29-movinet-for-streaming-action-recognition.md",
+      "title": "MoViNet for streaming action recognition",
+      "excerpt": "This tutorial runs a pretrained Video Classification model to classify an activity (such as dancing, swimming, biking etc) in the given video. The model architecture used in this tutorial is called MoViNet (Mobile Video Networks). MoVieNets are a family of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/hub/tutorials/movinet",
+      "originalUrl": "https://www.tensorflow.org/hub/tutorials/movinet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-hub-logo-social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-29T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-adding-ai-to-knowledge-management-is-a-45m-game-changer-vb-on-demand.md",
+      "title": "Adding AI to knowledge management is a $4.5M game-changer (VB On-Demand)",
+      "excerpt": "Learn how companies are realizing a 60% reduction in IT ticket volume, thousands of hours of time-saving, and $4.5 million annual savings.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/29/adding-ai-to-knowledge-management-is-a-4-5m-game-changer-vb-on-demand/",
+      "originalUrl": "https://venturebeat.com/2022/07/29/adding-ai-to-knowledge-management-is-a-4-5m-game-changer-vb-on-demand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-944464846.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/29/adding-ai-to-knowledge-management-is-a-4-5m-game-changer-vb-on-demand/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/29/adding-ai-to-knowledge-management-is-a-4-5m-game-changer-vb-on-demand/amp/",
+      "publishedDateTime": "2022-07-29T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-back-to-school-study-justifies-nvidias-push-to-arm-students-with-deep-learning-laptops.md",
+      "title": "Back to school: study justifies Nvidia’s push to arm students with deep learning laptops",
+      "excerpt": "As we approach that time of year again, students are gearing up to return to (or begin) their studies, and that means sales of the best student laptops are about to spike once more. I recently ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/features/back-to-school-study-justifies-nvidias-push-to-arm-students-with-deep-learning-laptops",
+      "originalUrl": "https://www.techradar.com/features/back-to-school-study-justifies-nvidias-push-to-arm-students-with-deep-learning-laptops",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/5x79k7GhAsj9fYHxudJS6Z-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-29T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-deep-learning-market-2022-key-facts-dynamics-segments-and-forecast-predictions-presented-2030.md",
+      "title": "Deep Learning Market 2022 Key Facts, Dynamics, Segments and Forecast Predictions Presented 2030",
+      "excerpt": "Deep Learning Market Size, Share & Trends Analysis - Global Opportunity Analysis And Industry Forecast 2022- 2030, Covid 19 Outbreak Impact research report added by Quadintel, is an in-depth analysis of market characteristics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2022-key-facts-dynamics-segments-and-forecast-predictions-presented-2030-2022-07-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2022-key-facts-dynamics-segments-and-forecast-predictions-presented-2030-2022-07-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-29T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-someone-asked-an-ai-to-show-the-last-selfie-ever-taken-and-um.md",
+      "title": "Someone Asked an AI to Show the \"Last Selfie Ever Taken\" and Um",
+      "excerpt": "An AI image generator made a series of ghoul-filled selfies that feature skeletal, grim reaper-like figures, one captured via smartphone in the mirror.",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/ai-last-selfie-ever-taken",
+      "originalUrl": "https://futurism.com/the-byte/ai-last-selfie-ever-taken",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2022/07/ai-show-last-selfie-ever-taken-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/ai-last-selfie-ever-taken?amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-last-selfie-ever-taken?amp",
+      "publishedDateTime": "2022-07-29T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-how-artificial-intelligence-can-create-an-attractive-user-experience.md",
+      "title": "How artificial intelligence can create an attractive user experience",
+      "excerpt": "This is captured via demographics, purchase history and other details extracted from your CRM or interactions with your support team using text mining — including other clever sources that have been engineered into the user experience (UX).",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/brandfeature/the-business-reporter/technology-hub/how-artificial-intelligence-can-create-an-attractive-user-experience",
+      "originalUrl": "https://www.reuters.com/brandfeature/the-business-reporter/technology-hub/how-artificial-intelligence-can-create-an-attractive-user-experience",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.prismic.io/reuterscustomhubs/fbfac174-cb85-4a45-b4f1-ecaceea9ec82_tbr-Wizeline-main-hero.jpg?auto=compress,format",
+          "width": 2306,
+          "height": 1237,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-29T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-ai-in-fintech-market-is-expected-to-collect-us-54-billion-in-2032-while-recording-a-cagr-of-165-during-the-forecast-2022-2032.md",
+      "title": "AI In Fintech Market is Expected to Collect US$ 54 Billion in 2032, while Recording a CAGR of 16.5% during the Forecast 2022 – 2032",
+      "excerpt": "The worldwide AI in fintech market is assessed at US$ 10.1 Billion in 2021 and is projected to obtain US$ 11.76 Billion by 2022m according to a report distributed by ESOMAR-guaranteed Future ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-is-expected-to-collect-us-54-billion-in-2032-while-recording-a-cagr-of-16-5-during-the-forecast-2022-2032",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-is-expected-to-collect-us-54-billion-in-2032-while-recording-a-cagr-of-16-5-during-the-forecast-2022-2032",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-29T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-explained-how-myanmars-junta-is-using-chinese-facial-recognition-technology.md",
+      "title": "Explained: How Myanmar’s junta is using Chinese facial recognition technology",
+      "excerpt": "Rights groups warn high-tech surveillance systems will be used to track down and eliminate the junta's opponents.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/explained/explained-sci-tech/explained-myanmars-junta-using-chinese-facial-recognition-technology-8057742/",
+      "originalUrl": "https://indianexpress.com/article/explained/explained-sci-tech/explained-myanmars-junta-using-chinese-facial-recognition-technology-8057742/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2022/07/eye-story-faceoff-759-1.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/explained/explained-sci-tech/explained-myanmars-junta-using-chinese-facial-recognition-technology-8057742/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-sci-tech/explained-myanmars-junta-using-chinese-facial-recognition-technology-8057742/lite/",
+      "publishedDateTime": "2022-07-29T04:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-29-meet-the-23-deeptech-startups-primed-to-take-off-in-areas-like-autonomous-driving-hydrogen-and-quantum-according-to-vcs.md",
       "title": "Meet the 23 deeptech startups primed to take off in areas like autonomous driving, hydrogen, and quantum, according to VCs",
       "excerpt": "Startups in areas such as AI and quantum computing are attracting more capital as VCs eye up founders that can drive next-generation innovation.",
@@ -809,387 +1187,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward.md",
-      "title": "DeepMind uncovers structure of 200m proteins in scientific leap forward",
-      "excerpt": "Success of AlphaFold program could have huge impact on global problems such as famine and disease Artificial intelligence has deciphered the structure of virtually every protein known to science ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward",
-      "originalUrl": "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/9be88a8fbd44edbd1d57a656afb9105b3d1199d2/0_0_2000_1200/master/2000.jpg?width=620&quality=85&auto=format&fit=max&s=dea65fbabb845a2d6a30c9a75eb19a20",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward",
-      "publishedDateTime": "2022-07-28T20:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-deepmind-research-predicts-structure-of-almost-every-known-protein.md",
-      "title": "DeepMind research predicts structure of almost every known protein",
-      "excerpt": "Artificial intelligence has mapped out the shape of virtually every protein known to science. The breakthrough will help to tackle major global challenges such as developing malaria vaccines and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/tech/deepmind-ceo-earth-national-institute-of-allergy-and-infectious-diseases-university-of-oxford-b2133445.html",
-      "originalUrl": "https://www.independent.co.uk/tech/deepmind-ceo-earth-national-institute-of-allergy-and-infectious-diseases-university-of-oxford-b2133445.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2022/07/28/17/28172506-230cf9f7-8a2a-47fc-87de-8651cde7c391.jpg?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 1306,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.independent.co.uk/tech/deepmind-ceo-earth-national-institute-of-allergy-and-infectious-diseases-university-of-oxford-b2133445.html",
-      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/deepmind-ceo-earth-national-institute-of-allergy-and-infectious-diseases-university-of-oxford-b2133445.html",
-      "publishedDateTime": "2022-07-28T18:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology.md",
-      "title": "IIT Madras launches ‘Nilekani Centre at AI4Bharat’ to advance Indian language technology",
-      "excerpt": "AI4Bharat was set up as an initiative of IIT Madras to build open-source language AI for Indian languages ... including state of the art models for machine translation and speech recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/news/education/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology/article65693242.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/news/education/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology/article65693242.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bl-i.thgim.com/public/incoming/ttgilo/article65692509.ece/alternates/LANDSCAPE_615/IMG_IMG_Indian_Institute_2_1_SBA1N307.jpg",
-          "width": 615,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/news/education/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology/article65693242.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/education/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology/article65693242.ece/amp/",
-      "publishedDateTime": "2022-07-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-what-are-ontologies-and-how-are-they-creating-a-fairer-future-for-the-life-sciences.md",
-      "title": "What Are Ontologies and How Are They Creating a FAIRer Future for the Life Sciences?",
-      "excerpt": "In this article, Dr. Jane Lomax provides an overview of ontologies and describes how they can help to overcome big data challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/tn/articles/what-are-ontologies-and-how-are-they-creating-a-fairer-future-for-the-life-sciences-363371",
-      "originalUrl": "https://www.technologynetworks.com/tn/articles/what-are-ontologies-and-how-are-they-creating-a-fairer-future-for-the-life-sciences-363371",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/363371/what-are-ontologies-and-how-are-they-creating-a-fairer-future-for-the-life-sciences-363371-640x360.jpg?cb=20220801",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-build-your-own-remote-control-robot-and-car-for-50-off.md",
-      "title": "Build Your Own Remote Control Robot And Car For 50% Off",
-      "excerpt": "If you’re looking for a fun family project to round out summer vacation, consider picking up this gigantic Robot Building Kit. It’s designed for kids eight and up, although its 901-piece ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gamespot.com/articles/build-your-own-remote-control-robot-and-car-for-50-off/1100-6505936/",
-      "originalUrl": "https://www.gamespot.com/articles/build-your-own-remote-control-robot-and-car-for-50-off/1100-6505936/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/square_medium/1702/17023653/4012653-robot%281%29.jpg",
-          "width": 480,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/build-your-own-remote-control-robot-and-car-for-50-off/1100-6505936/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/build-your-own-remote-control-robot-and-car-for-50-off/1100-6505936/",
-      "publishedDateTime": "2022-07-28T15:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-how-ai-is-making-gen-z-the-most-financially-sophisticated-generation.md",
-      "title": "How AI is making Gen Z the most financially sophisticated generation",
-      "excerpt": "Artificial intelligence is helping an entire generation close the financial literacy gap. From large banks to fintech startups, the financial services industry is leveraging the power of Artificial Intelligence (AI) to attract and assist Gen Z customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/finance/banking/how-ai-is-helping-gen-z-manage-their-money/",
-      "originalUrl": "https://www.zdnet.com/finance/banking/how-ai-is-helping-gen-z-manage-their-money/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/25df3905c4451440013e7266c3c5e48ff30aaeda/2022/07/01/d65645b1-d2e8-40b8-83eb-81135e8299cd/gettyimages-1313131469.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/finance/banking/how-ai-is-helping-gen-z-manage-their-money/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/finance/banking/how-ai-is-helping-gen-z-manage-their-money/",
-      "publishedDateTime": "2022-07-28T15:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster.md",
-      "title": "Nvidia Megatron: Not a robot in disguise, but a large language model that’s getting faster",
-      "excerpt": "Nvidia's Megatron has been upgraded to help train LLMs more efficiently by reducing the amount of memory and compute required for training.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/applied-ai/nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster/",
-      "originalUrl": "https://venturebeat.com/applied-ai/nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/10/language-brain-e1659012283418.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster/amp/",
-      "publishedDateTime": "2022-07-28T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-deepmind-ai-lab-predicts-structure-of-most-proteins.md",
-      "title": "DeepMind AI Lab Predicts Structure of Most Proteins",
-      "excerpt": "D structures of 214 million molecules, in an advance expected to quicken drug discovery.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/deepmind-ai-lab-predicts-structure-of-most-proteins-11659048143",
-      "originalUrl": "https://www.wsj.com/articles/deepmind-ai-lab-predicts-structure-of-most-proteins-11659048143",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 324,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-593405/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/deepmind-ai-lab-predicts-structure-of-most-proteins-11659048143",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/deepmind-ai-lab-predicts-structure-of-most-proteins-11659048143",
-      "publishedDateTime": "2022-07-28T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

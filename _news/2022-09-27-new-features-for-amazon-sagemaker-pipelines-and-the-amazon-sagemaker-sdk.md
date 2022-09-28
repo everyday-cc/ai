@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/new-features-for-ama
 webUrl: "https://aws.amazon.com/blogs/machine-learning/new-features-for-amazon-sagemaker-pipelines-and-the-amazon-sagemaker-sdk/"
 type: article
 quality: 88
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 85
+  - title: "Set up enterprise-level cost allocation for ML environments and workloads using resource tagging in Amazon SageMaker"
+    excerpt: "As businesses and IT leaders look to accelerate the adoption of machine learning (ML), there is a growing need to understand spend and cost allocation for your ML environment to meet enterprise requirements. Without proper cost management and governance, your ML spend may lead to surprises in your monthly"
+    publishedDateTime: 2022-09-28T16:21:14Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/set-up-enterprise-level-cost-allocation-for-ml-environments-and-workloads-using-resource-tagging-in-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 83
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/28/enterprise-level-cost-allocation-sagemaker.jpg"
+        width: 1534
+        height: 765
+        isCached: true
 
 secured: "oP+BKWP4qHQexeeO2cWdiaYfCCRzfl/yqF43XvYM7ItbzxH9p0uqnQbZ4aKPL/WBRr3oIsIVKSDQM9GHDcm6yu7TSF7IKmCGSsfXQW3FPkhP2/FbVM61KjQQKnjGsgRjAHHfSg4GE5OHXQ68fEBDEi4em6mR/QPqKKrZw+MBztVfp1fFd4Irr26F+UJD8sSpf9kC8XyGvyyf6wzcZTUI0uB02+ZvvWAxk5iVUAuttoXLkz06D2n06u3PWQjMe8RqfevNAEoui6creASRnZ/QhfEEJMbDPFPzFoWILhzvYLSyqhtanKmIIo2bZBASyc5i4e7tj8948P7U2bnDRKW8lV1vvM55W1+mR0eIx2+eVjY=;2nhcO6k6/CTe7py5RBQQSA=="
 ---

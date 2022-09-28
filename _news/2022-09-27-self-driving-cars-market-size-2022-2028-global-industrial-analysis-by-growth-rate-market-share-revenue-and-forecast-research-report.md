@@ -60,6 +60,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 2
+  - title: "Image Recognition Market Latest Research, Industry Analysis, Driver, Trends, Business Overview, Key Value, Demand and Forecast 2022-2027"
+    excerpt: "The global Image Recognition market size was valued at USD 27189.63 million in 2021 and is expected to expand at a CAGR"
+    publishedDateTime: 2022-09-28T04:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-latest-research-industry-analysis-driver-trends-business-overview-key-value-demand-and-forecast-2022-2027-2022-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 1
 
 secured: "wSGmiQqW5hrgI3DyN1MWCJ+yYPa099wL4NNVj8W61kOLf/82sJsK+WJ2sSrpjwBNU/c2QyzGllHhQjsqgo4/EOHnU0gRPyJ1MjmN5DHOk0TS7foQLsOsKimkEkYMKogjjwMKIzJCNOgnf0NoIWuBTsuFmS2xCx39l4FJ7hbG3GNEJFz89FxNCQPqQz6IWMhT3Jx2xJp28zgYz83ftNwJoocNS8aWBOwwIklPqQozg3XtlGS9lHm33/ExcD2DvFlpuk83aWFuU9qAWX2ft3fvgoG5bUomDYqUd8Ljzd1RT1nJpVMzDxsGKtx0Gmc5oV91QBSi0sG4q7ee2mIRXqVI2QJpKiAfGh54HiDIu0C5EtY=;KtjChCN2piQZtxC9a9Adng=="
 ---

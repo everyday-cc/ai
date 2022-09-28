@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-28-netsuite-erp-bolsters-automation-for-hr-supply-chain-sales-and-banking.md",
+      "title": "NetSuite ERP bolsters automation for HR, supply chain, sales and banking",
+      "excerpt": "Appealing to companies that are navigating a global labor shortage and supply-chain problems, NetSuite at its SuiteWorld conference has announced a wide variety of tools across its ERP suite to automate and optimize business processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/408298/netsuite-erp-bolsters-automation-for-hr-supply-chain-sales-and-banking.html",
+      "originalUrl": "https://www.cio.com/article/408298/netsuite-erp-bolsters-automation-for-hr-supply-chain-sales-and-banking.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2022/09/supply_chain_management_logistics_erp_enterprise_resource_planning_thinkstock_global_world_connections_614318676-100749847-orig-2.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/408298/netsuite-erp-bolsters-automation-for-hr-supply-chain-sales-and-banking.html/amp/",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/408298/netsuite-erp-bolsters-automation-for-hr-supply-chain-sales-and-banking.html/amp/",
+      "publishedDateTime": "2022-09-28T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-09-28-the-j7-is-irobots-first-two-in-one-vacuum-and-mop-combo.md",
       "title": "The j7+ is iRobot’s first two-in-one vacuum and mop combo",
       "excerpt": "Robot has revealed the Roomba Combo j7+, a premium robot vacuum featuring a retractable mop that allows it to both mop and vacuum without input from the user.",
@@ -62,7 +106,7 @@
       "originalUrl": "https://venturebeat.com/ai/intel-geti-and-openvino-efforts-advance-ai-and-computer-vision/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -167,7 +211,7 @@
       "originalUrl": "https://techxplore.com/news/2022-09-blueprint-facial-recognition-technology.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -210,7 +254,7 @@
       "originalUrl": "https://www.gsmarena.com/samsung_patents_dual_underdisplay_camera_system_for_facial_recognition-news-55926.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1346,49 +1390,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-sensormatic-solutions-by-johnson-controls-expands-computer-vision-offering-to-address-retails-most-pressing-challenges.md",
-      "title": "Sensormatic Solutions by Johnson Controls Expands Computer Vision Offering to Address Retail’s Most Pressing Challenges",
-      "excerpt": "Sensormatic Solutions, the leading global retail solutions portfolio of Johnson Controls, has expanded its computer vision analytics offering, which focuses on driving sales, reducing risk ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/sensormatic-solutions-by-johnson-controls-expands-computer-vision-offering-to-address-retail-s-most-pressing/article_8af2b3d7-7902-5c6b-8af7-6fb74c607eab.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/sensormatic-solutions-by-johnson-controls-expands-computer-vision-offering-to-address-retail-s-most-pressing/article_8af2b3d7-7902-5c6b-8af7-6fb74c607eab.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg",
-          "width": 350,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
         "images": null,
         "publishers": null,
         "authors": null

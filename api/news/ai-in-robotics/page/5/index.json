@@ -2,6 +2,102 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-25-smarter-robots-ai-machine-learning-and-3d-vision.md",
+      "title": "Smarter Robots: AI, Machine Learning, and 3D Vision",
+      "excerpt": "New systems from ABB, AMT, Pearson Packaging Systems, Schubert, and Shape Process Automation include new Artificial Intelligence features.",
+      "sourceUrl": null,
+      "webUrl": "https://www.packworld.com/machinery/robotics/article/22340562/smarter-robots-ai-machine-learning-and-3d-vision",
+      "originalUrl": "https://www.packworld.com/machinery/robotics/article/22340562/smarter-robots-ai-machine-learning-and-3d-vision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.packworld.com/files/base/pmmi/all/image/2022/07/Mitarbeiter_Cobot_032_20211020.62d891ea15c52.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 1200,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Packaging World",
+        "domain": "packworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-boom-or-bust-how-robots-can-help-meet-supply-chain-demands-amid-a-persistent-labor-shortage.md",
+      "title": "Boom Or Bust: How Robots Can Help Meet Supply Chain Demands Amid A Persistent Labor Shortage",
+      "excerpt": "Today, orders are overwhelming distribution facilities, labor is near impossible to find or keep and customers expect next-day delivery.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/25/boom-or-bust-how-robots-can-help-meet-supply-chain-demands-amid-a-persistent-labor-shortage/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/25/boom-or-bust-how-robots-can-help-meet-supply-chain-demands-amid-a-persistent-labor-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63062ca8baf9bad4821b5fd5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/25/boom-or-bust-how-robots-can-help-meet-supply-chain-demands-amid-a-persistent-labor-shortage/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/25/boom-or-bust-how-robots-can-help-meet-supply-chain-demands-amid-a-persistent-labor-shortage/amp/",
+      "publishedDateTime": "2022-08-25T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-25-samsung-galaxy-watch-5-pro-review-smartwatch-fitness-watch-a-good-mix.md",
       "title": "Samsung Galaxy Watch 5 Pro Review: Smartwatch + Fitness Watch = a Good Mix",
       "excerpt": "There's a lot to like about the $450 Samsung Galaxy Watch 5 Pro. Not only does it have all the trimmings of a smartwatch, but it adds extra sports functions that athletes may want -- and for almost half the price of some other outdoor watches with similar construction like the $900 Garmin Epix 2.",
@@ -1215,102 +1311,6 @@
         "name": "The Korea Herald",
         "domain": "koreaherald.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-robotics-and-automation-are-the-future-of-healthcare.md",
-      "title": "Robotics and automation are the future of healthcare",
-      "excerpt": "Advanced technologies, such as AI-guided robotics and automation, offer a potential solution to the provider shortage by freeing healthcare professionals from repetitive and time-consuming tasks and allow clinicians to focus on tasks that require a specialized touch.",
-      "sourceUrl": null,
-      "webUrl": "https://medcitynews.com/2022/08/robotics-and-automation-are-the-future-of-healthcare/",
-      "originalUrl": "https://medcitynews.com/2022/08/robotics-and-automation-are-the-future-of-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medcitynews.com/uploads/2020/12/GettyImages-1158546914.jpg",
-          "width": 703,
-          "height": 497,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedCity News",
-        "domain": "medcitynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-can-we-replicate-humanness-in-a-robots-behavior.md",
-      "title": "Can We Replicate Humanness In A Robot’s Behavior?",
-      "excerpt": "Researchers at Istituto Italiano di Tecnologia are looking at why its possible to create humanness in robotic behavior.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2022/08/18/is-it-possible-to-replicate-humanness-in-a-robots-behavior/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2022/08/18/is-it-possible-to-replicate-humanness-in-a-robots-behavior/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f3efa554d746cc809bd91b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2022/08/18/is-it-possible-to-replicate-humanness-in-a-robots-behavior/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2022/08/18/is-it-possible-to-replicate-humanness-in-a-robots-behavior/amp/",
-      "publishedDateTime": "2022-08-18T15:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

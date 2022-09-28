@@ -2,6 +2,308 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-09-20-how-ai-is-changing-the-way-students-learn.md",
+      "title": "How AI Is Changing The Way Students Learn",
+      "excerpt": "In our increasingly fast-moving world, many schools are still facing the challenge of integrating the latest digital technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-changing-the-way-students-learn/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-changing-the-way-students-learn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/608b1e8f685217f6a56050b2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-changing-the-way-students-learn/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-changing-the-way-students-learn/amp/",
+      "publishedDateTime": "2022-09-20T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-artificial-intelligence-in-healthcare-market-trends-size-share-growth-status-key-segments-and-forecast-2028.md",
+      "title": "Artificial Intelligence in Healthcare Market Trends, Size, Share, Growth Status, Key Segments and Forecast 2028",
+      "excerpt": "The Global Artificial Intelligence in Healthcare Market is estimated to register a CAGR of over 38.1% during the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-trends-size-share-growth-status-key-segments-and-forecast-2028-2022-09-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-trends-size-share-growth-status-key-segments-and-forecast-2028-2022-09-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T05:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-chinese-ev-maker-xpeng-launches-rival-to-teslas-semi-autonomous-driving-system.md",
+      "title": "Chinese EV maker Xpeng launches rival to Tesla's semi-autonomous driving system",
+      "excerpt": "Xpilot and City NGP is Xpeng's answer to Tesla's Full Self Driving Beta which the company is currently testing with customers in the U.S. In this article Xpeng launched a feature that allows its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/09/20/chinese-electric-vehicle-maker-xpeng-launches-rival-to-teslas-full-self-driving-system.html",
+      "originalUrl": "https://www.cnbc.com/2022/09/20/chinese-electric-vehicle-maker-xpeng-launches-rival-to-teslas-full-self-driving-system.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107121101-1663668816300-gettyimages-1232435166-775646983JZ029_Auto_Shangha.jpeg?v=1663674139",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/09/20/chinese-electric-vehicle-maker-xpeng-launches-rival-to-teslas-full-self-driving-system.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/09/20/chinese-electric-vehicle-maker-xpeng-launches-rival-to-teslas-full-self-driving-system.html",
+      "publishedDateTime": "2022-09-20T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-factbox-the-challenges-automakers-and-now-tesla-face-with-humanoid-robots.md",
+      "title": "Factbox: The challenges automakers, and now Tesla, face with humanoid robots",
+      "excerpt": "Tesla's CEO Elon Musk is set to unveil its prototype humanoid robots at an event on Sept. 30, hoping to expand beyond self-driving cars that have not yet become reality despite his repeated promises.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/challenges-automakers-now-tesla-face-with-humanoid-robots-2022-09-20/",
+      "originalUrl": "https://www.reuters.com/technology/challenges-automakers-now-tesla-face-with-humanoid-robots-2022-09-20/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/UIBi6hsuoRG96_8hgRaAlbj-InE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HK3GFOZNRJJNHFHO4TNPIOP7WM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-hrs-role-in-people-analytics-and-ai.md",
+      "title": "HR's Role In People Analytics And AI",
+      "excerpt": "Using people analytics in HR functions can bring about positive change—but only if employers cultivate the right approach for their organization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f721d24c84d1ad720732800/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/20/hrs-role-in-people-analytics-and-ai/amp/",
+      "publishedDateTime": "2022-09-20T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-ibm-study-supply-chain-leaders-are-investing-in-ai-and-automation-to-navigate-supply-chain-uncertainties-and-improve-sustainability.md",
+      "title": "IBM Study: Supply Chain Leaders Are Investing in AI and Automation to Navigate Supply Chain Uncertainties and Improve Sustainability",
+      "excerpt": "AI and automation initiatives to build intelligent, resilient, and sustainable supply chains,\" said Jonathan Wright, IBM Consulting Global Managing Partner, Sustainability Services and Global ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/ibm-study-supply-chain-leaders-are-investing-in-ai-and-automation-to-navigate-supply-chain-uncertainties-and-improve-sustainability-301628120.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/ibm-study-supply-chain-leaders-are-investing-in-ai-and-automation-to-navigate-supply-chain-uncertainties-and-improve-sustainability-301628120.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1902478/IBM_CSCO_Video_2022.mp4?p=thumbnail",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration.md",
       "title": "Tecnotree to Accelerate Digital Transition to the Cloud with Microsoft Azure Integration",
       "excerpt": "Tecnotree's Digital Suite-5 for consumers and business monetization is built natively to run on Kubernetes and is aligned with the Microsoft Azure cloud to drive multi-tenant, multi-region transformations that allow enterprises to lower total-cost-of-ownership (TCO) by eliminating significant upfront investments.",
@@ -155,6 +457,49 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-artificial-intelligence-robots-market-size-to-record-213-cagr-through-2028.md",
+      "title": "Artificial Intelligence Robots Market Size To Record 21.3% CAGR Through 2028",
+      "excerpt": "Market Study Report presents latest report on global Artificial Intelligence (AI) Robots Market, which evaluates the growth trends of the industry through historical study and estimates future ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104892877/Artificial-Intelligence-Robots-Market-Size-To-Record-213-CAGR-Through-2028",
+      "originalUrl": "https://menafn.com/1104892877/Artificial-Intelligence-Robots-Market-Size-To-Record-213-CAGR-Through-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?337005",
+          "width": 374,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -814,298 +1159,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-enel-inaugurates-a-new-innovation-lab-in-tel-aviv-for-ai-and-robotics-in-renewables-and-power-grids.md",
-      "title": "Enel inaugurates a new Innovation Lab in Tel Aviv for AI and robotics in renewables and power grids",
-      "excerpt": "The Enel AI&Robotics Lab aims at cooperating with Israeli startups to boost innovation in the field of AI and Robotics applied to renewables and power distribution networks; This",
-      "sourceUrl": null,
-      "webUrl": "https://www.enel.com/es/medios/explora/busqueda-comunicados-de-prensa/press/2022/09/enel-inaugurates-a-new-innovation-lab-in-tel-aviv-for-ai-and-robotics-in-renewables-and-power-grids",
-      "originalUrl": "https://www.enel.com/es/medios/explora/busqueda-comunicados-de-prensa/press/2022/09/enel-inaugurates-a-new-innovation-lab-in-tel-aviv-for-ai-and-robotics-in-renewables-and-power-grids",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Enel",
-        "domain": "enel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-cognitive-impairment-in-hispanic-adults-linked-to-discrimination-experiences.md",
-      "title": "Cognitive Impairment in Hispanic Adults Linked to Discrimination Experiences",
-      "excerpt": "Now a new study shows that experiences with discrimination may be playing a role in disproportionate experiences of cognitive decline. In a first-of-its-kind study, published recently in the journal Social Science & Medicine, researchers from The ...",
-      "sourceUrl": null,
-      "webUrl": "https://cns.utexas.edu/news/cognitive-impairment-in-hispanic-adults-linked-to-discrimination-experiences",
-      "originalUrl": "https://cns.utexas.edu/news/cognitive-impairment-in-hispanic-adults-linked-to-discrimination-experiences",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cns.utexas.edu/images/easyblog_articles/5822/b2ap3_large_Discrimination-HHM.jpg",
-          "width": 1280,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Journalism in the Americas",
-        "domain": "utexas.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch.md",
-      "title": "Truly autonomous cars may be impossible without helpful human touch",
-      "excerpt": "MILTON KEYNES, England (Reuters) -Autonomous vehicle (AV) startups have raised tens of billions of dollars based on promises to develop truly self-driving cars, but industry executives and experts say remote human supervisors may be needed permanently to help robot drivers in trouble.",
-      "sourceUrl": null,
-      "webUrl": "https://www.investing.com/news/world-news/truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-2894928",
-      "originalUrl": "https://www.investing.com/news/world-news/truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-2894928",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investing",
-        "domain": "investing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-soft-robot-biodegrades-inside-body.md",
-      "title": "Soft Robot Biodegrades Inside Body",
-      "excerpt": "The device can be controlled using magnetic fields ... and may even lead to soft robots that can carry out surgical procedures within the body. One of the nicest features of the device is its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2022/09/soft-robot-biodegrades-inside-body.html",
-      "originalUrl": "https://www.medgadget.com/2022/09/soft-robot-biodegrades-inside-body.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-artificial-intelligence-in-healthcare-market-status-and-size-business-growth-2022-to-2030.md",
-      "title": "Artificial Intelligence In Healthcare Market Status And Size Business Growth 2022 To 2030",
-      "excerpt": "The development of Artificial Intelligence (AI) technology is helping the healthcare ecosystem to flourish. It has been witnessing a lot of transformations and growth with new technological breakthroughs in various applications such as diagnosis,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-status-and-size-business-growth-2022-to-2030-2022-09-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-status-and-size-business-growth-2022-to-2030-2022-09-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-inflation-problems-persist-and-ai-makes-headlines-forbes-ai-newsletter-september-17th.md",
-      "title": "Inflation Problems Persist And AI Makes Headlines: Forbes AI Newsletter - September 17th",
-      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/09/19/inflation-problems-persist-and-ai-makes-headlines-forbes-ai-newsletterseptember-17th/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/09/19/inflation-problems-persist-and-ai-makes-headlines-forbes-ai-newsletterseptember-17th/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6328702c4f81b1ab9e7a03a5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/09/19/inflation-problems-persist-and-ai-makes-headlines-forbes-ai-newsletterseptember-17th/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/09/19/inflation-problems-persist-and-ai-makes-headlines-forbes-ai-newsletterseptember-17th/amp/",
-      "publishedDateTime": "2022-09-19T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-ai-ethics-and-the-quest-for-self-awareness-in-ai.md",
-      "title": "AI Ethics And The Quest For Self-Awareness In AI",
-      "excerpt": "One of the most evocative areas that vividly presents this ethical AI quandary is the advent of AI-based true self-driving cars. This will serve as a handy use case or exemplar for ample ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/09/18/ai-ethics-and-the-quest-for-self-awareness-in-ai/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/09/18/ai-ethics-and-the-quest-for-self-awareness-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62227e18d8a6304b2d957a48/0x0.jpg?format=jpg&crop=2559,1847,x381,y77,safe&width=1200",
-          "width": 1200,
-          "height": 866,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/09/18/ai-ethics-and-the-quest-for-self-awareness-in-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/09/18/ai-ethics-and-the-quest-for-self-awareness-in-ai/amp/",
-      "publishedDateTime": "2022-09-19T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

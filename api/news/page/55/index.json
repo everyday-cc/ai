@@ -2,6 +2,405 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2022-08-15-black-hat-2022-reveals-enterprise-security-trends.md",
+      "title": "Black Hat 2022 reveals enterprise security trends",
+      "excerpt": "Black Hat's presentations for enterprise security provided a look at how enterprises' tech stacks are at risk of devastating cyberattacks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/black-hat-2022-reveals-enterprise-security-trends/",
+      "originalUrl": "https://venturebeat.com/security/black-hat-2022-reveals-enterprise-security-trends/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1-Cybersecurity-threat-illustration-1-e1660581757211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/black-hat-2022-reveals-enterprise-security-trends/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/black-hat-2022-reveals-enterprise-security-trends/amp/",
+      "publishedDateTime": "2022-08-15T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-08-15-we-tested-tesla-full-self-driving-beta-in-the-blue-ridge-mountains-and-it-was-scary.md",
+      "title": "We tested Tesla Full Self-Driving Beta in the Blue Ridge Mountains, and it was scary",
+      "excerpt": "Beta in the Blue Ridge Mountains in North Carolina, and it was a scary experience. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system, but the driver needs to remain vigilant and ready to take control at all times.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-ridge-mountains-scary/",
+      "originalUrl": "https://electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-ridge-mountains-scary/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-Full-Sefl-Driving-Beta-Blue-Ridge-Mountain-Test.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-ridge-mountains-scary/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-ridge-mountains-scary/amp/",
+      "publishedDateTime": "2022-08-15T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-15-hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics.md",
+      "title": "Hyundai Motor Group launches Boston Dynamics AI Institute to spearhead advancements in Artificial Intelligence & robotics",
+      "excerpt": "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new instituteThe Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across the",
+      "sourceUrl": null,
+      "webUrl": "https://www.suasnews.com/2022/08/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics/",
+      "originalUrl": "https://www.suasnews.com/2022/08/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2020/12/hyundai-AAM-plans.jpg?fit=1200%2C822&#038;ssl=1",
+          "width": 1200,
+          "height": 822,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.suasnews.com/2022/08/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics/",
+      "cdnAmpWebUrl": "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2022/08/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics/",
+      "publishedDateTime": "2022-08-15T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SUAS News",
+        "domain": "suasnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-15-tiktok-adds-an-ai-image-generator-but-its-no-dall-e.md",
+      "title": "TikTok adds an AI image generator, but it's no DALL-E",
+      "excerpt": "You don't need to fire up DALL-E if you want AI to create images from text — you just need a popular social media app. The Verge notes TikTok has introduced a rudimentary \"AI greenscreen\" effect in its Android and iOS apps that turns your text descriptions into artwork.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/tiktok-ai-text-to-image-generator-142534525.html",
+      "originalUrl": "https://www.engadget.com/tiktok-ai-text-to-image-generator-142534525.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/63a2fa70-ae89-11eb-adf7-03b9a23b7e63",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/tiktok-ai-text-to-image-generator-142534525.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tiktok-ai-text-to-image-generator-142534525.html",
+      "publishedDateTime": "2022-08-15T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-15-ai-gaming-and-esports-startup-regression-games-raises-42m-in-seed-funding-from-nea-and-a16z.md",
+      "title": "AI Gaming and Esports Startup Regression Games Raises $4.2M in Seed Funding from NEA and a16z",
+      "excerpt": "AI Gaming and Esports Startup Regression Games Raises $4.2M in Seed Funding from NEA and a16z Aug 15, 2022 (PRNewswire via COMTEX) -- PR",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-gaming-and-esports-startup-regression-games-raises-42m-in-seed-funding-from-nea-and-a16z-2022-08-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-gaming-and-esports-startup-regression-games-raises-42m-in-seed-funding-from-nea-and-a16z-2022-08-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-15T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-15-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-key-player-competition-weakness-and-strengths-from-2022-to-2028.md",
+      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Key Player, Competition Weakness and Strengths from 2022 to 2028",
+      "excerpt": "The \" Natural Language Processing (NLP) in Healthcare and Life Sciences Market Research Report \" for comprises important strategies and plans to control cost and improve efficiency. The report also focuses on demand and supply of the Natural Language Processing (NLP) in Healthcare and Life Sciences industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-08-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-08-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-15T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-15-no-code-wrapped-our-ml-experiment-concludes-but-did-the-machine-win.md",
+      "title": "No code, wrapped: Our ML experiment concludes, but did the machine win?",
+      "excerpt": "And while I know my way around a Jupyter notebook and have written a good amount of Python code, I do not profess to be anything close to a machine learning expert. So when I performed the first part of our no-code/low-code machine learning experiment and got better than a 90 percent accuracy rate on a model,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/08/no-code-wrapped-our-ml-experiment-concludes-but-did-the-machine-win/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/08/no-code-wrapped-our-ml-experiment-concludes-but-did-the-machine-win/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/robot-holding-monitored-heart-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-15T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-15-dronedek-partners-with-facial-recognition-provider-scylla.md",
+      "title": "Dronedek Partners with Facial Recognition Provider Scylla",
+      "excerpt": "Dronedek Partners with Facial Recognition Provider Scylla Aug 15, 2022 (PRNewswire via COMTEX) -- PR Newswire INDIANAPOLIS, Aug. 15, 2022 INDIANAPOLIS,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/dronedek-partners-with-facial-recognition-provider-scylla-2022-08-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/dronedek-partners-with-facial-recognition-provider-scylla-2022-08-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-15T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-15-robust-intelligence-announces-inaugural-conference-on-machine-learning-integrity.md",
       "title": "Robust Intelligence Announces Inaugural Conference on Machine Learning Integrity",
       "excerpt": "Machine learning models often produce erroneous predictions as a result of their sensitivity to subtle changes in data. As these models are used to automate such decisions as credit worthiness, healthcare coverage,",
@@ -773,341 +1172,6 @@
       "provider": {
         "name": "Drive.com.au",
         "domain": "drive.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-14-driver-slams-tunnel-toll-after-103-attempts-to-pay-via-voice-recognition-software.md",
-      "title": "Driver slams tunnel toll after '103 attempts to pay' via voice recognition software",
-      "excerpt": "A driver who tried to pay a road toll via voice recognition software has slammed the system after he says it took 103 attempts. Caravanner Ivor Rodgers says he will never use the route again.",
-      "sourceUrl": null,
-      "webUrl": "https://www.walesonline.co.uk/news/uk-news/driver-slams-tunnel-toll-after-24750305",
-      "originalUrl": "https://www.walesonline.co.uk/news/uk-news/driver-slams-tunnel-toll-after-24750305",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-13T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wales Online",
-        "domain": "walesonline.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-13-use-of-facial-recognition-technology-gets-mixed-reviews.md",
-      "title": "Use of facial recognition technology gets mixed reviews",
-      "excerpt": "Black people are more likely to distrust the use of facial recognition technology by police, though they say some uses are OK.",
-      "sourceUrl": null,
-      "webUrl": "https://thegrio.com/2022/08/13/facial-recognition-technology-mixed-reviews/",
-      "originalUrl": "https://thegrio.com/2022/08/13/facial-recognition-technology-mixed-reviews/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-13T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Grio",
-        "domain": "thegrio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-13-identity-crisis-artificial-intelligence-and-the-flawed-logic-of-mind-uploading.md",
-      "title": "Identity crisis: Artificial intelligence and the flawed logic of ‘mind uploading’",
-      "excerpt": "It is theoretically feasible that through 'mind uploading,' simulated minds could coexist inside a rich simulation of physical reality.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/virtual/identity-crisis-artificial-intelligence-and-the-flawed-logic-of-mind-uploading/",
-      "originalUrl": "https://venturebeat.com/virtual/identity-crisis-artificial-intelligence-and-the-flawed-logic-of-mind-uploading/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/MindUploading-2000x1000-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/virtual/identity-crisis-artificial-intelligence-and-the-flawed-logic-of-mind-uploading/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/virtual/identity-crisis-artificial-intelligence-and-the-flawed-logic-of-mind-uploading/amp/",
-      "publishedDateTime": "2022-08-13T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-13-microsofts-new-azure-fluid-relay-service-now-generally-available.md",
-      "title": "Microsoft’s New Azure Fluid Relay Service Now Generally Available",
-      "excerpt": "Automation to improve machine learning projects comes from a noble ... Recently, Microsoft announced its Azure Fluid Relay service's general availability (GA). This managed cloud offering enables ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/08/azure-fluid-relay-service/",
-      "originalUrl": "https://www.infoq.com/news/2022/08/azure-fluid-relay-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2022/08/azure-fluid-relay-service/en/headerimage/generatedHeaderImage-1659899905932.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-13T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-13-cyberone-xiaomi-unveils-humanoid-robot-capable-of-sensing-human-emotions.md",
-      "title": "CyberOne: Xiaomi unveils humanoid robot capable of sensing human emotions",
-      "excerpt": "Also Read Samsung Galaxy Watch 5, Watch 5 Pro India prices revealed; pre-bookings to start from August 16 Samsung ... “CyberOne’s AI and mechanical capabilities are all self-developed by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/technology/xiaomi-cyberone-humanoid-robot-artificial-intelligence/2628751/",
-      "originalUrl": "https://www.financialexpress.com/industry/technology/xiaomi-cyberone-humanoid-robot-artificial-intelligence/2628751/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/08/xiaomi-cyberone.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/technology/xiaomi-cyberone-humanoid-robot-artificial-intelligence/2628751/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/xiaomi-cyberone-humanoid-robot-artificial-intelligence/2628751/lite/",
-      "publishedDateTime": "2022-08-13T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-13-ai-ethics-flummoxed-by-those-salting-ai-ethicists-that-instigate-ethical-ai-practices.md",
-      "title": "AI Ethics Flummoxed By Those Salting AI Ethicists That “Instigate” Ethical AI Practices",
-      "excerpt": "Is it okay or is it questionable for those salting AI Ethicists that seek to get hired by firms just to from-within stoke Ethical AI adherence? Here's the look at impacts on AI autonomous systems by such practices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/08/13/ai-ethics-flummoxed-by-those-salting-ai-ethicists-that-instigate-ethical-ai-practices/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/08/13/ai-ethics-flummoxed-by-those-salting-ai-ethicists-that-instigate-ethical-ai-practices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-13T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-13-a-startup-leveraging-aiml-to-help-businesses-gauge-users-mood.md",
-      "title": "A startup leveraging AI/ML to help businesses gauge users’ mood",
-      "excerpt": "She partnered with Vishal Soni, who is her husband, and co-founder Yogesh Sachdeva to launch ﻿Lightbulb.ai﻿. Founded in 2020, the startup is the trio's second entrepreneurial stint ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2022/08/lightbulb-startup-leverages-ai-ml-help-mood-emotions/amp",
-      "originalUrl": "https://yourstory.com/2022/08/lightbulb-startup-leverages-ai-ml-help-mood-emotions/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/31ee0510ca7c11eba975c529dced399e/MalvikaImageTaggingnoframesEditorialTeamMaster41-1660300191556.png ",
-          "width": 1600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2022/08/lightbulb-startup-leverages-ai-ml-help-mood-emotions/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/08/lightbulb-startup-leverages-ai-ml-help-mood-emotions/amp",
-      "publishedDateTime": "2022-08-12T18:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YourStory",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-13-driverless-trucks-can-be-safe-and-efficient.md",
-      "title": "Driverless Trucks Can Be Safe and Efficient",
-      "excerpt": "Higher pay has also put upward pressure on rates. There is an obvious long-term solution to both these problems: driverless trucks. But only if the industry gets off on the right foot with maximum ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/driverless-trucks-canbe-safe-and-efficient/2022/08/12/e2d42ca8-1a47-11ed-b998-b2ab68f58468_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/driverless-trucks-canbe-safe-and-efficient/2022/08/12/e2d42ca8-1a47-11ed-b998-b2ab68f58468_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-12T14:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
         "images": null,
         "publishers": null,
         "authors": null

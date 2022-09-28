@@ -2,6 +2,293 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-26-a-new-common-sense-test-for-ai-could-lead-to-smarter-machines.md",
+      "title": "A new ‘common sense’ test for AI could lead to smarter machines",
+      "excerpt": "Teaching AI common sense will be the next breakthrough in the field. But how exactly can we measure something as intangible as common sense?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/common-sense-test-for-ai-smarter-machines",
+      "originalUrl": "https://thenextweb.com/news/common-sense-test-for-ai-smarter-machines",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F09%2FOL2-1.jpg&signature=6c729ac2330cc240f65fc262dad35684",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-26T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-26-this-startups-ai-is-smart-enough-to-drive-different-types-of-vehicles.md",
+      "title": "This startup’s AI is smart enough to drive different types of vehicles",
+      "excerpt": "Wayve, a driverless-car startup based in London, has made a machine-learning model that can drive two different types of vehicle: a passenger car and a delivery van. It is the fir",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2022/09/26/1060023/wayve-ai-driverless-vehicles-cars-vans-scale-up/",
+      "originalUrl": "https://www.technologyreview.com/2022/09/26/1060023/wayve-ai-driverless-vehicles-cars-vans-scale-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/09/Wayve-Generalisation-width-2888px.jpg?w=2888",
+          "width": 2888,
+          "height": 1624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2022/09/26/1060023/wayve-ai-driverless-vehicles-cars-vans-scale-up/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/26/1060023/wayve-ai-driverless-vehicles-cars-vans-scale-up/amp/",
+      "publishedDateTime": "2022-09-26T00:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-26-it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto.md",
+      "title": "It is time to shun C, C++ languages for new projects: Microsoft Azure CTO",
+      "excerpt": "\"Rust\" is now being used within the Android Open Source Project (AOSP) at Meta, at Amazon Web Services (AWS) and Microsoft, reports ZDNet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestatesman.com/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto-1503115247.html",
+      "originalUrl": "https://www.thestatesman.com/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto-1503115247.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestatesman.com/wp-content/uploads/2022/09/0da9bd4f8fc06cb457a2a9b3d6a6f0cc.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestatesman.com/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto-1503115247.html/amp",
+      "cdnAmpWebUrl": "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto-1503115247.html/amp",
+      "publishedDateTime": "2022-09-25T22:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Statesman",
+        "domain": "thestatesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-26-bosch-sventa-and-phantom-edge-now-available-in-aws-marketplace.md",
+      "title": "Bosch SVENTA and Phantom Edge now available in AWS Marketplace",
+      "excerpt": "Bangalore: Bosch Global Software Technologies (BGSW), formerly known as Robert Bosch Engineering and Business Solutions (RBEI), and an Amazon Web Services (AWS) Advanced Consulting Partner, today anno",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/bosch-sventa-and-phantom-edge-now-available-in-aws-marketplace/",
+      "originalUrl": "https://indiaeducationdiary.in/bosch-sventa-and-phantom-edge-now-available-in-aws-marketplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1",
+          "width": 534,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/bosch-sventa-and-phantom-edge-now-available-in-aws-marketplace/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/bosch-sventa-and-phantom-edge-now-available-in-aws-marketplace/",
+      "publishedDateTime": "2022-09-25T18:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-26-supporting-the-next-generation-of-ai-leaders.md",
+      "title": "Supporting the next generation of AI leaders ",
+      "excerpt": "We’re partnering with six education charities and social enterprises in the United Kingdom (UK) to co-create a bespoke education programme to help tackle the gaps in STEM education and boost existing programmes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/supporting-the-next-generation-of-ai-leaders",
+      "originalUrl": "https://www.deepmind.com/blog/supporting-the-next-generation-of-ai-leaders",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/632b36a158023307b04d9228_Header%20(1).jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-26-ai-in-healthcare-still-has-a-long-journey-ahead.md",
+      "title": "AI In Healthcare Still Has A Long Journey Ahead",
+      "excerpt": "For many years, artificial intelligence (AI) technology has pledged the promise of vastly improving the healthcare industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/saibala/2022/09/25/ai-in-healthcare-still-has-a-long-journey-ahead/",
+      "originalUrl": "https://www.forbes.com/sites/saibala/2022/09/25/ai-in-healthcare-still-has-a-long-journey-ahead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6330caf663c91908687d2c1f/0x0.jpg?format=jpg&crop=4363,2454,x432,y241,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/saibala/2022/09/25/ai-in-healthcare-still-has-a-long-journey-ahead/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2022/09/25/ai-in-healthcare-still-has-a-long-journey-ahead/amp/",
+      "publishedDateTime": "2022-09-25T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-09-25-why-ai-will-never-rule-the-world.md",
       "title": "Why AI will never rule the world",
       "excerpt": "Despite fears that AI will one day take over the world, some experts contend that our existing AI systems are incapable of surpassing human intelligence",
@@ -63,7 +350,7 @@
       "originalUrl": "https://www.gsmarena.com/samsung_patents_dual_underdisplay_camera_system_for_facial_recognition-news-55926.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -920,308 +1207,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-the-pitch-deck-ai-startup-paretos-used-to-raise-10-million.md",
-      "title": "The pitch deck AI startup Paretos used to raise $10 million",
-      "excerpt": "Paretos offers a decision-intelligence platform that helps companies solve complex problems without having to hire data scientists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/see-the-pitch-deck-ai-startup-paretos-raise-10-million-2022-9",
-      "originalUrl": "https://www.businessinsider.com/see-the-pitch-deck-ai-startup-paretos-raise-10-million-2022-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/632d8e4db431eb0019815c5f?width=1200&format=jpeg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-23T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-coconut-based-products-market-size-2022-segments-share-and-growth-factor-analysis-top-key-players-research-report-2029.md",
-      "title": "Coconut Based Products Market Size 2022, Segments, Share and Growth Factor Analysis, Top Key Players Research Report 2029",
-      "excerpt": "The Coconut Based Products market is projected to achieve significant growth by the end of the forecast period as per the research study conducted by research analysts. The report",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/coconut-based-products-market-size-2022-segments-share-and-growth-factor-analysis-top-key-players-research-report-2029-2022-09-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/coconut-based-products-market-size-2022-segments-share-and-growth-factor-analysis-top-key-players-research-report-2029-2022-09-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-23T02:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-is-ai-really-a-job-killer-these-experts-say-no.md",
-      "title": "Is AI Really A Job Killer? These Experts Say No",
-      "excerpt": "Many experts predict that AI and machine learning will wipe out thousands of jobs worldwide — but authors Thomas Davenport and Steven Miller believe that AI and intelligent technology will augment human work,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/23/is-ai-really-a-job-killer-these-experts-say-no/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/23/is-ai-really-a-job-killer-these-experts-say-no/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/632d6ad7abb402c6eadd5380/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/23/is-ai-really-a-job-killer-these-experts-say-no/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/09/23/is-ai-really-a-job-killer-these-experts-say-no/amp/",
-      "publishedDateTime": "2022-09-23T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-fareye-achieves-aws-supply-chain-competency.md",
-      "title": "FarEye Achieves AWS Supply Chain Competency",
-      "excerpt": "FarEye has announced that it is one of the first companies to achieve the Amazon Web Services (AWS) supply chain competency in the Software Offering: Move category. This designation recognizes FarEye for helping customers solve their critical supply chain challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-in/news-and-trends/fareye-achieves-aws-supply-chain-competency/435911",
-      "originalUrl": "https://www.entrepreneur.com/en-in/news-and-trends/fareye-achieves-aws-supply-chain-competency/435911",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1663918868-Untitleddesign-2022-09-23T130743482.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-23T00:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-experts-remain-sceptical-of-ethics-as-unesco-emphasises-implementation-of-ai-in-education-in-india.md",
-      "title": "Experts remain sceptical of ethics, as UNESCO emphasises implementation of AI in education in India",
-      "excerpt": "Interestingly, experts has opined that AI based tools can be a source of bias for teacher and create discrimination amongst students.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/education-2/unesco-ai-education-report-state-of-the-education-report-for-india-artificial-intelligence-edtech/2684220/",
-      "originalUrl": "https://www.financialexpress.com/education-2/unesco-ai-education-report-state-of-the-education-report-for-india-artificial-intelligence-edtech/2684220/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/09/AI-Unesco.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/education-2/unesco-ai-education-report-state-of-the-education-report-for-india-artificial-intelligence-edtech/2684220/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/unesco-ai-education-report-state-of-the-education-report-for-india-artificial-intelligence-edtech/2684220/lite/",
-      "publishedDateTime": "2022-09-22T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-artist-receives-first-known-us-copyright-registration-for-generative-ai-art.md",
-      "title": "Artist receives first known US copyright registration for generative AI art",
-      "excerpt": "In what might be a first, a New York-based artist named Kris Kashtanova has received US copyright registration on their graphic novel that features AI-generated artwork, according to their Instagram feed and confirmed through a public records search by Ars Technica.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/09/artist-receives-first-known-us-copyright-registration-for-generative-ai-art/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/09/artist-receives-first-known-us-copyright-registration-for-generative-ai-art/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/zarya_hero-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T14:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://m.gsmarena.com/samsung_patents_dual_underdisplay_camera_syst
 cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/samsung_patents_dual_underdisplay_camera_system_for_facial_recognition-amp-55926.php"
 type: article
 quality: 59
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-94479554,width-1070,height-580,imgsize-711259,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         width: 1068
         height: 580
+        isCached: true
+  - title: "Samsung patents new facial recognition tech featuring dual under-display camera system"
+    excerpt: "Samsung has been working on an interesting system for facial recognition, one that involves two under-display cameras."
+    publishedDateTime: 2022-09-28T16:04:00Z
+    webUrl: "https://tech.hindustantimes.com/mobile/news/samsung-patents-new-facial-recognition-tech-featuring-dual-under-display-camera-system-71664341633591.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/mobile/news/samsung-patents-new-facial-recognition-tech-featuring-dual-under-display-camera-system-71664341633591.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/mobile/news/samsung-patents-new-facial-recognition-tech-featuring-dual-under-display-camera-system-71664341633591.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 51
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2022/09/28/1600x900/1_1664348615765_1664348622862_1664348622862.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Samsung patents a new facial recognition system for smartphones with a new dual under-display camera setup"
     excerpt: "Samsung is working on a new facial recognition system that uses two under-the-display cameras and will be much harder to bypass or fool using masks or photographs."
