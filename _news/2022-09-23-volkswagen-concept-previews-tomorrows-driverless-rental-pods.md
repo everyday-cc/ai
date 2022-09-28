@@ -8,9 +8,6 @@ webUrl: "https://www.perthnow.com.au/lifestyle/motoring/volkswagen-concept-previ
 ampWebUrl: "https://www.perthnow.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334177.amp"
 cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334177.amp"
 type: article
-quality: 59
-heat: 79
-published: true
 
 provider:
   name: Perth Now
@@ -26,38 +23,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Cruise driverless vehicles involved in 3 separate SF traffic incidents Thursday"
-    excerpt: "SAN FRANCISCO (KRON) — In separate incidents on Thursday night, three Cruise driverless vehicles created disruptions and blocked traffic on the streets of San Francisco, with one vehicle ..."
-    publishedDateTime: 2022-09-24T01:20:00Z
-    webUrl: "https://www.kron4.com/news/cruise-driverless-vehicles-involved-in-two-separate-sf-traffic-incidents-thursday/"
-    ampWebUrl: "https://www.kron4.com/news/cruise-driverless-vehicles-involved-in-two-separate-sf-traffic-incidents-thursday/amp/"
-    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/cruise-driverless-vehicles-involved-in-two-separate-sf-traffic-incidents-thursday/amp/"
-    type: article
-    provider:
-      name: KRON4 News
-      domain: kron4.com
-    quality: 55
-    images:
-      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2022/09/cruise-crash.jpg?w=1280"
-        width: 1280
-        height: 914
-        isCached: true
-  - title: "VW Gen.Travel: Driverless concept aims to end the short flight"
-    excerpt: "The Gen.Travel concept is all about carrying occupants in maximum comfort with minimal interaction. The Gen.Travel boasts of level five autonomy, defined as needing no human inter"
-    publishedDateTime: 2022-09-26T22:32:00Z
-    webUrl: "https://www.whichcar.com.au/news/driverless-vw-concept-to-kill-short-flights"
-    type: article
-    provider:
-      name: whichcar
-      domain: whichcar.com.au
-    quality: 54
-    images:
-      - url: "https://assets.whichcar.com.au/image/private/s--4-hejbqN--/ar_1.9047619047619047,c_fill,f_auto,g_xy_center,q_auto:good,x_2656,y_2856/c_scale,w_1200/Volkswagen_Gen_Travel_Concept-2.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-
-secured: "bttAvH7dk7n5z6JFy0Qo/ZNoLyqCU2tC0kwKE1KUzuDI4pQMzAGcYBNAoNJ2anx88m6GVNFDXiPorNrfObjLpNy4m1vHNQF58NXza9b/qbmn9zdVVQ/MTxr9Rwdk6OVXFKblmGv6uX+wJAhgUgt7/1iOblq9f02tBPo6363JeirXr9WXnyFUKam7lfDB+Oo7NI3ENqmk7KVOHO75xnjsQZKxQ+qIgrHeWj/uI8MoC4BJ8yLiPxu9bzeqFzlDOH8swEO7Wkk4iUtHRwi+achCDjvl2zSHiCCOWR/51ice56DjsIIe/szvSu62tuhIz7G5asRuE3oPfrd5RhWll3zqxH+tHKFDHX33tj75uIWDkcA=;WeQyzV7OgHHBJ3Q/rTGJeg=="
+secured: "e95IYNwchCmAUzeNIgDocZla9gl5YTcc0LANM8EGHx/JV1788h4eWTOpcbTcbkRbmrWv+uxfu1YjSd6O/l43YzpEKU9X3E/JUnaxPGkBo81XAKCLeEZkfO+dQKKsgpyd2sr+DWOq539ZwLgG7bjqBEm9PFAX8xAnpwI0+s+cH9OD+Xgr/OADH7GdYI3lB/xFCHmMe0hafHK4j0KjiVb1CrDeAGQB5TOK+ehtz4Fg32Sf6oNxyl0Rvsgz1GgDmWD4poL3puEMPruW3A8/oBV8LDfVE5PsyXnxql+xwECjyNNMut8CJQrjZFipXu6DrWrVOM5cnKNnajlY005nrKl/jxtKCzAIuH/fPrPSKH598yU=;+pbfxbRdJ0EluNYoIhM8QA=="
 ---
 

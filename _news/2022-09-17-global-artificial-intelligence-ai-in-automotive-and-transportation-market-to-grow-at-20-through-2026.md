@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Global Artificial Intelligence (AI) in Automotive and Transportation Market to Grow at 20% Through 2026"
-excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to"
-publishedDateTime: 2022-09-16T19:45:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/n28901830/global-artificial-intelligence-ai-in-automotive-and-transportation-market-to-grow-at-20-through-20"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/n28901830/global-artificial-intelligence-ai-in-automotive-and-transportation-market-to-grow-at-20-through-20"
-ampWebUrl: "https://www.benzinga.com/amp/content/28901830"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28901830"
+excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. This market is likely to grow at a CAGR of around 20% during 2021-26."
+publishedDateTime: 2022-09-16T21:17:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-automotive-transportation-market-grow-/2022/09/16/9675469.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-automotive-transportation-market-grow-/2022/09/16/9675469.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "UZfgBE5YYjwQuqdXILa3gdzimpcebmSfyNxbYpdTDVq6jKMHcITYyubMM/Vyvd32JgqShy16P7T6WGvNPVtcgpWaKTt20a/A/vbk7xRJP+jew/w09wwqECDBooO/EhSOGZHPmoFnMFpzF7mngUwHLhv5QYmSNCcnndBU34lRa3gHjpGDy4JPxE8J8JKE+2EK85L1AdV7PcGh1ojS8cYMDHobXaI3M0v6BvQQ9UTwG0MiU2Wo/hZMUyx6Aw1Ea+dc4hSPGVi6jI4NI7ht1lPcuk6ibL10q+XdkLpWWd4J1DHuwwEy4oN6wMmKzAxO8VQx/qyBqS6NPeyzSQLVld6z8hUEYUF5fhi4I+FtzXAqBMc=;sKf9VainP538ZxGBDd8OJQ=="
+secured: "119nCCrnLUbqKgDJbUEcUCCj2nL6h6FuBtl1pFhHbPIfE2dIv5JlIpGloC7Rhpdxj9jfuChJiBGANhtyNNiia9oSkbRMBv0ISBF9mWdg0xoXnCdo+g4kbueQQM5Oeh6ncdQ6pogSODfnUPwe5mK4a1tlGLAXIOoL2RtDGur1J4vQ8dpl7eVboxTLbP7p5xeZMMk+e+s9c29hIxUBJ9md4L7w5RPQf1Nw719vxSTiCh+N6Dmytfvm6vCW0IP4wVO/ep98sAwh9c0hPsmgNf8qhcSq3V8YPzocFZ2vnyEDv9/s0abjdTAlRB6riIYXDAezaSLahgrhBjgtY2XAB0R+Pe/L3s6yQzvdfbWkVkXDMlw=;6atbc5upCFH8z+obFGCRlw=="
 ---
 

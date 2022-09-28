@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-28-elon-musk-teases-tesla-robot-with-humanoid-heart-hands.md",
+      "title": "Elon Musk teases Tesla robot with humanoid ‘heart’ hands",
+      "excerpt": "Elon Musk has teased the unveiling of a humanoid robot during Tesla ’s annual AI Day this week. The tech billionaire shared an image of robotic hands making a heart shape, together with the 30 September date for the artificial intelligence event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/tech/tesla-robot-elon-musk-optimus-ai-day-b2176994.html",
+      "originalUrl": "https://www.independent.co.uk/tech/tesla-robot-elon-musk-optimus-ai-day-b2176994.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2020/08/19/11/breaking-news.png?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T22:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-27-ai-and-machine-learning-enter-the-kitchen-at-chipotle.md",
       "title": "AI and Machine Learning Enter the Kitchen at Chipotle",
       "excerpt": "The first, piloting in select Southern California restaurants, is a cook-to-needs kitchen management system that provides demand-based cooking and ingredient preparation forecasts to “optimize throughput and freshness while minimizing food waste,",
@@ -1357,40 +1401,6 @@
         "AI in Robotics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-these-tiny-robots-are-faster-than-a-bugatti-chiron.md",
-      "title": "These Tiny Robots Are Faster Than a Bugatti Chiron",
-      "excerpt": "There have been some fascinating developments in the world of tiny robots recently. We’ve already had the world’s smallest remote control robot, and now a group of scientists has created one ...",
-      "sourceUrl": null,
-      "webUrl": "https://jalopnik.com/these-tiny-robots-are-faster-than-a-bugatti-chiron-1849539483",
-      "originalUrl": "https://jalopnik.com/these-tiny-robots-are-faster-than-a-bugatti-chiron-1849539483",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://jalopnik.com/these-tiny-robots-are-faster-than-a-bugatti-chiron-1849539483/amp",
-      "cdnAmpWebUrl": "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/these-tiny-robots-are-faster-than-a-bugatti-chiron-1849539483/amp",
-      "publishedDateTime": "2022-09-15T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jalopnik",
-        "domain": "jalopnik.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

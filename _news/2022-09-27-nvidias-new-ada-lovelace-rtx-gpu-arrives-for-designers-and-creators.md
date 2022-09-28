@@ -21,31 +21,20 @@ topics:
   - AI
 
 related:
-  - title: "NVIDIA's new AI model quickly generates objects and characters for virtual worlds"
-    excerpt: "NVIDIA is looking to take the sting out of creating virtual 3D worlds with a new artificial intelligence model. GET3D can generate characters, buildings, vehicles and other types of 3D objects, NVIDIA says."
-    publishedDateTime: 2022-09-23T13:33:00Z
-    webUrl: "https://www.engadget.com/nvidia-ai-model-get3d-virtual-worlds-objects-130021127.html"
+  - title: "Nvidia CEO proclaims 'Moore's law is dead' over RTX 40-series GPU pricing"
+    excerpt: "After the recent reveal of Nvidia's 40-series graphics cards (opens in new tab), you're probably one of many scrunching your nose up over the pricing. Well, the company's CEO, Jensen Huang has some words of wisdom to share with you and perhaps ease your wallet into opening just that little bit wider."
+    publishedDateTime: 2022-09-23T15:23:00Z
+    webUrl: "https://www.pcgamer.com/nvidia-ceo-proclaims-moores-law-is-dead-over-rtx-40-series-gpu-pricing/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 64
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 53
     images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-09/429930e0-3a94-11ed-afeb-8a9da43fae5d"
-        width: 1280
-        height: 680
+      - url: "https://cdn.mos.cms.futurecdn.net/p8q3ue5UA9LEtBVyNxgyWn-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Nvidia puts AI at center of latest GeForce graphics card upgrade"
-    excerpt: "Code-named Ada Lovelace, the new architecture underpins the company’s GeForce RTX 40 series of graphics cards, unveiled by co-founder and CEO Jensen Huang at an online event Tuesday. The top-of-the-line RTX 4090 will cost $1,"
-    publishedDateTime: 2022-09-26T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/nvidia-puts-ai-at-center-of-latest-geforce-graphics-card-upgrade/"
-    ampWebUrl: "https://www.seattletimes.com/business/nvidia-puts-ai-at-center-of-latest-geforce-graphics-card-upgrade/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/nvidia-puts-ai-at-center-of-latest-geforce-graphics-card-upgrade/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
 
 secured: "cJWeaCzaaoBjZliBsQtLHvYeGshr8GIDQV2iMGGnNi06NgPPzGZNFlmPg75Zb+JFnZ4whP8vHPcK3yh4IMErnmL30ZGFjrUxq1PEvleCY/UBxGasoK0MsF0n8wcy4cqtNSnDG0uFoEhZy/9mDn+Uq0+GMZprOJv6wJElZp/grTGi0N2jYygkb4g8qlwA/g7JfLPX46kTRr2eHZIcqbfwXkXqQ/taTql3GQimDVQqnlh+4y3MO3tH5yFwLkOTHipZjjM8wprnxp9jJJFh45rCtTXKPL7XZOU6+6uLnMwH4MKuG/N5iihSTjsvF2dyosD88uPGwbjsc/UCqL/zj/On2+qJRhneip5kDiPLRs4Jmpg=;UBuYUCR95+yfgFh326/bhQ=="
 ---

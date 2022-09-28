@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-28-elon-musk-teases-tesla-robot-with-humanoid-heart-hands.md",
+      "title": "Elon Musk teases Tesla robot with humanoid ‘heart’ hands",
+      "excerpt": "Elon Musk has teased the unveiling of a humanoid robot during Tesla ’s annual AI Day this week. The tech billionaire shared an image of robotic hands making a heart shape, together with the 30 September date for the artificial intelligence event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/tech/tesla-robot-elon-musk-optimus-ai-day-b2176994.html",
+      "originalUrl": "https://www.independent.co.uk/tech/tesla-robot-elon-musk-optimus-ai-day-b2176994.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2020/08/19/11/breaking-news.png?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T22:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-28-open-source-initiative-expands-its-role-to-ai-and-machine-learning.md",
       "title": "Open Source Initiative expands its role to AI and machine learning",
       "excerpt": "Over the last 20 years, the OSI has been the guardian of open-source licenses, but now it will also address non-open-source licenses more and AI's role in software development.",
@@ -10,7 +54,7 @@
       "originalUrl": "https://www.zdnet.com/article/open-source-initiative-expands-its-role-to-ai-and-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -860,7 +904,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-expected-to-raise-at-3174-cagr-by-2022-2027-107-report-pages-2022-09-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -1176,57 +1220,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-disperse-which-brings-ai-fuelled-data-to-construction-projects-raises-16m.md",
-      "title": "Disperse, which brings AI-fuelled data to construction projects, raises $16M",
-      "excerpt": "Disperse creates a digital version of a construction site that tracks the progress of work to help stakeholders keep up with things.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/25/disperse-which-brings-ai-fuelled-data-to-construction-projects-raises-16m/",
-      "originalUrl": "https://techcrunch.com/2022/09/25/disperse-which-brings-ai-fuelled-data-to-construction-projects-raises-16m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1327795459-1.jpg?resize=1200,465",
-          "width": 1200,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/25/disperse-which-brings-ai-fuelled-data-to-construction-projects-raises-16m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/25/disperse-which-brings-ai-fuelled-data-to-construction-projects-raises-16m/amp/",
-      "publishedDateTime": "2022-09-26T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

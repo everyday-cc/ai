@@ -9,7 +9,7 @@ ampWebUrl: "https://www.seattletimes.com/business/nvidia-puts-ai-at-center-of-la
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/nvidia-puts-ai-at-center-of-latest-geforce-graphics-card-upgrade/?amp=1"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -19,33 +19,6 @@ provider:
 topics:
   - AI
   - AI Hardware
-
-related:
-  - title: "NVIDIA's new AI model quickly generates objects and characters for virtual worlds"
-    excerpt: "NVIDIA is looking to take the sting out of creating virtual 3D worlds with a new artificial intelligence model. GET3D can generate characters, buildings, vehicles and other types of 3D objects, NVIDIA says."
-    publishedDateTime: 2022-09-23T13:33:00Z
-    webUrl: "https://www.engadget.com/nvidia-ai-model-get3d-virtual-worlds-objects-130021127.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 64
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-09/429930e0-3a94-11ed-afeb-8a9da43fae5d"
-        width: 1280
-        height: 680
-        isCached: true
-  - title: "NVIDIA’s New Ada Lovelace RTX GPU Arrives for Designers and Creators"
-    excerpt: "RTX 6000 GPU Provides 2-4x Performance Improvement in Enterprise Workflows;Global Manufacturers to Ship Starting in Q4 SANTA CLARA, Calif., Sept. 20, 2022 (GLOBE NEWSWIRE) — GTC—Opening a new era of neural graphics that marries AI and simulation,"
-    publishedDateTime: 2022-09-26T18:26:00Z
-    webUrl: "https://gisuser.com/2022/09/nvidias-new-ada-lovelace-rtx-gpu-arrives-for-designers-and-creators/"
-    ampWebUrl: "https://gisuser.com/2022/09/nvidias-new-ada-lovelace-rtx-gpu-arrives-for-designers-and-creators/amp/"
-    cdnAmpWebUrl: "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2022/09/nvidias-new-ada-lovelace-rtx-gpu-arrives-for-designers-and-creators/amp/"
-    type: article
-    provider:
-      name: gisuser
-      domain: gisuser.com
-    quality: 39
 
 secured: "E8J2fY4ZLv1ZaT9Qe8Douc7JWfxIMFsAeCwpkEH7aKzwhPkS1bU+i0PpNjPhf4uxwpqGpccU5poMzIdb8/uqY4TWNlDriDj8CSQlOAVW60R0NlIdCIrS/RI3Y5x5+OMnvm/hbb3f0javgUSy4cdmihEWksLai1ifY4qIK9foU2b21k4pxqif3MNH9fmkGjc6tM9N/757zEP1yvoGuEbDKLx0VDGnFRnYAZR9a+L6izuv0G2bLvlj5cHoKlPlc51mhILjHO19XTJivbBYYiuq12TVc7v6kqlv9Y4o5VhXwdBOCeXVWvR22+gdqElvW0FFkbsYNz/o4/lyVDu58Q4xv6aCVYWauOPCMdiewfjsHztsBItEFFLxQFHu+llZx0/6JMv9ebIN8fIcrWuHoTmycR9UkMXeSukjHi1qQPjvDSzT6oLeZFZN6gn2wmtXI4uPlEbHjTKaPeOkNfNYVBXFN43R3Q89OTmWOlvnjTSJVQRYjAd5HOL1C55MdGyCXQzbS/w3wkycLhCohAh/CxxIdw==;cVmSGc3EceeNt/G5HG/TrQ=="
 ---

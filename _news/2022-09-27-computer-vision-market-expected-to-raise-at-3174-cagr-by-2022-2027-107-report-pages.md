@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-market-e
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-expected-to-raise-at-3174-cagr-by-2022-2027-107-report-pages-2022-09-27"
 type: article
 quality: 76
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2027"
+    excerpt: "The global Facial Recognition market size was valued at USD 3975.52 million in 2021 and is expected to expand at a CAGR"
+    publishedDateTime: 2022-09-28T04:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2027-2022-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

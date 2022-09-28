@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-27-disperse-which-brings-ai-fuelled-data-to-construction-projects-raises-16m.md",
+      "title": "Disperse, which brings AI-fuelled data to construction projects, raises $16M",
+      "excerpt": "Disperse creates a digital version of a construction site that tracks the progress of work to help stakeholders keep up with things.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/25/disperse-which-brings-ai-fuelled-data-to-construction-projects-raises-16m/",
+      "originalUrl": "https://techcrunch.com/2022/09/25/disperse-which-brings-ai-fuelled-data-to-construction-projects-raises-16m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1327795459-1.jpg?resize=1200,465",
+          "width": 1200,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/25/disperse-which-brings-ai-fuelled-data-to-construction-projects-raises-16m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/25/disperse-which-brings-ai-fuelled-data-to-construction-projects-raises-16m/amp/",
+      "publishedDateTime": "2022-09-26T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-26-introducing-self-service-quota-management-and-higher-default-service-quotas-for-amazon-textract.md",
       "title": "Introducing self-service quota management and higher default service quotas for Amazon Textract",
       "excerpt": "Today, we’re excited to announce self-service quota management support for Amazon Textract via the AWS Service Quotas console, and higher default service quotas in select AWS Regions. Customers tell us they need quick turnaround times to process their requests for quota increases and visibility into",
@@ -1164,58 +1215,6 @@
       "topics": [
         "AI",
         "Google AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-24-7-ai-startups-aim-to-give-retailers-a-happy-holiday-season.md",
-      "title": "7 AI startups aim to give retailers a happy holiday season",
-      "excerpt": "These are seven of the hottest AI startups that are helping retailers meet their holiday goals and customer demands.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/7-ai-startups-aim-to-give-retailers-a-happy-holiday-season/",
-      "originalUrl": "https://venturebeat.com/ai/7-ai-startups-aim-to-give-retailers-a-happy-holiday-season/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1352745076.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/7-ai-startups-aim-to-give-retailers-a-happy-holiday-season/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/7-ai-startups-aim-to-give-retailers-a-happy-holiday-season/amp/",
-      "publishedDateTime": "2022-09-23T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "Facebook AI"
       ]
     }

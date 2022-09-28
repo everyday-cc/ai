@@ -2,6 +2,147 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2022-09-07-is-intel-labs-brain-inspired-ai-approach-the-future-of-robot-learning.md",
+      "title": "Is Intel Labs’ brain-inspired AI approach the future of robot learning?",
+      "excerpt": "Intel Labs’ new neuromorphic computing approach is aimed primarily at future applications such as robotic assistants.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/is-intel-labs-brain-inspired-ai-approach-the-future-of-robot-learning/",
+      "originalUrl": "https://venturebeat.com/ai/is-intel-labs-brain-inspired-ai-approach-the-future-of-robot-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/Intel.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/is-intel-labs-brain-inspired-ai-approach-the-future-of-robot-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/is-intel-labs-brain-inspired-ai-approach-the-future-of-robot-learning/amp/",
+      "publishedDateTime": "2022-09-07T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-dell-technologies-delivers-industry-first-innovations-with-vmware-to-power-multicloud-and-edge-solutions.md",
+      "title": "Dell Technologies Delivers Industry-First Innovations with VMware to Power Multicloud and Edge Solutions",
+      "excerpt": "Dell Technologies is introducing new infrastructure solutions, co-engineered with VMware, that deliver greater automation and performance for organizations embr",
+      "sourceUrl": null,
+      "webUrl": "https://technuter.com/channel-news/dell-technologies-delivers-industry-first-innovations-with-vmware-to-power-multicloud-and-edge-solutions.html",
+      "originalUrl": "https://technuter.com/channel-news/dell-technologies-delivers-industry-first-innovations-with-vmware-to-power-multicloud-and-edge-solutions.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-07T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technuter.com",
+        "domain": "technuter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-the-company-that-says-it-is-pioneering-the-golden-age-of-robotics.md",
+      "title": "The Company That Says It Is Pioneering the Golden Age of Robotics",
+      "excerpt": "That's why Ally Robotics has pioneered user-friendly, low-cost robotic arms to meet this demand and is seeking investors to help them expand. And with so many manufacturers, restaurants, and others yet to adopt automation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/leadership/the-company-that-says-it-is-pioneering-the-golden-age-of/434638",
+      "originalUrl": "https://www.entrepreneur.com/leadership/the-company-that-says-it-is-pioneering-the-golden-age-of/434638",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1662129913-Ally-Image2.png",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-07T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-07-teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it.md",
       "title": "Tesla’s ‘full self-driving’ isn’t worth $15,000, say many who bought it",
       "excerpt": "Tesla's price for the feature it calls \"full self-driving\" has increased again. This time to $15,000, making it an unusually expensive option for a car.",
@@ -962,135 +1103,6 @@
       "provider": {
         "name": "Australian Broadcasting Corporation",
         "domain": "abc.net.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-video-content-management-system-market-analysis-size-share-facts-and-figures-services-and-forecast-2026.md",
-      "title": "Video Content Management System Market Analysis, Size, Share, Facts and Figures, Services and Forecast 2026",
-      "excerpt": "The global Video Content Management System Market size expected to grow at a Compound Annual Growth Rate (CAGR) of 14.0% during the forecast period, to reach USD 6.8 billion by 2026 from USD 3.5 billion in 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/video-content-management-system-market-analysis-size-share-facts-and-figures-services-and-forecast-2026-2022-09-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/video-content-management-system-market-analysis-size-share-facts-and-figures-services-and-forecast-2026-2022-09-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T15:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-computer-vision-and-image-processing-specialization.md",
-      "title": "Computer Vision and Image Processing Specialization",
-      "excerpt": "Computer vision (CV) and image processing are two closely related fields that utilize techniques from artificial intelligence (AI) and pattern recognition to derive meaningful information from images, videos, and other visual inputs. Image processing is at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mccormick.northwestern.edu/electrical-computer/academics/graduate/masters/electrical-engineering/computer-vision-and-image-processing.html",
-      "originalUrl": "https://www.mccormick.northwestern.edu/electrical-computer/academics/graduate/masters/electrical-engineering/computer-vision-and-image-processing.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mccormick.northwestern.edu/electrical-computer/images/graduate/masters/computer-vision-and-image-processing-specialization-header.jpg",
-          "width": 770,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T15:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kellogg School of Management",
-        "domain": "northwestern.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-ejected-man-dead-after-being-struck-by-driverless-car-with-passenger-inside.md",
-      "title": "Ejected man dead after being struck by driverless car, with passenger inside",
-      "excerpt": "A driver who was ejected in a crash was then run over by his own car, with a passenger inside, the California Highway Patrol said. The man died in the single-car crash, reported at 11:37 p.m ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2022/09/06/ejected-man-is-fatally-struck-by-driverless-car-with-passenger-inside/",
-      "originalUrl": "https://www.eastbaytimes.com/2022/09/06/ejected-man-is-fatally-struck-by-driverless-car-with-passenger-inside/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2022/09/turlockfatal.jpg?w=1000&h=600",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2022/09/06/ejected-man-is-fatally-struck-by-driverless-car-with-passenger-inside/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/09/06/ejected-man-is-fatally-struck-by-driverless-car-with-passenger-inside/amp/",
-      "publishedDateTime": "2022-09-06T11:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EastBayTimes.com",
-        "domain": "eastbaytimes.com",
         "images": null,
         "publishers": null,
         "authors": null

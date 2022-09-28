@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Inuitive launches NU4100, expanding its Edge AI Vision-on-Chip IC portfolio; NU4100 presents advanced AI capabilities and"
-excerpt: "Inuitive Ltd., a Vision-on-Chip processors company, announced today the launch of its new NU4100, an expansion of its Vision and AI IC portfolio. Based on Inuitive's unique architecture and advanced 12nm process technology,"
+excerpt: "Geared for Robotics, the new NU4100 is setting a new industry standard by combining integrated dual-channel 4K ISP with enhanced AI performance coupled with depth-sensing and VSLAM capabilities RA'ANANA,"
 publishedDateTime: 2022-09-21T16:03:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/09/21/9678078.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/09/21/9678078.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2022/09/22/9678713.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/09/22/9678713.htm"
 type: article
 
 provider:
@@ -15,12 +15,6 @@ topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1903068/One_Chip_Complete_Visual_Understanding.jpg"
-    width: 400
-    height: 253
-    isCached: true
-
-secured: "lp/vE5hHBmmXEgPQIPqny4nvjz6h/n3LetMUHuU/5rqv+bbQCTLX0kN4LpuiDcyiZb3RiZHh47q93cgoJuvQuc96ZWx4rdtMKf4kC3SCnu9BYyKcw/rDsIy5ihFsPLzUFVc5dBp5bIrr5PXYJToMk1cdOAN1Hcv1/xPyn++7Dt5GfBpz0kbCCzsmkq3L+5A54NIuKfBqkxwNM7S+sY9VeRmTarwYBaKGczCsCyI16NBm4kLc04ovXHUi0hopxrsqHAZ8bwXYxp9nlI8H2fDD2A8qFZ/FqVMvZFuhzwqHQLZt95sfWo2mueRkNYHvWdGNxVEcRay9cNXJe+FRAaUkdRjumKpkdlE6dSWPvSTjpT4=;rsuXJcNyYlo9QgU33QUNAg=="
+secured: "S2OvgwMJdJwSQFlXzrDP7OzZUL8MslifnyTo6t8EWIAVJVOvMmbNtl3AOSoZ48Huy//yYc36z8Eig0Dsyp61/z8780d4FyOkUp20xNCdWZdQhPU6gYkBaRzcjuSD4YMcXeAt7NdBHb3uGU6bbVYHWqYbj6BspjZHkW30Iv5ezrKn8yJtIBLySMpyiK+6hfQXXifOIsl4Nz9g/Jx289P95vELuJ5VsRIGtx9bOzCXFS1N7wbmEl8fsX/eYGdPp4kAYKZ60WQNienqojkSti+9SMuoKIf91Z8C3fxweD1eaaDo/veTydPCrdoFa8Nt3V8uH24AWGADEy01vW289nreOb18C3SmBqfymHAUhgrPphLY/4lUhDoR37v/cvPkh5MK5P3/ONgKxpR7wIkroU7dgSPk++j/T0tNo+FyjQVA9hFrN4YXiBKK94cDkyaLCWgrl6Ya+Ja5QRkVmDUZ9wFYKtViu0w88xwhYvByi/B7M5wsN6xTBCURJ3UoXi9X84jYxqsXepdKYH4JZBUsPjDSQA==;B/OSBUs8IFG1pJG5azqOFQ=="
 ---
 

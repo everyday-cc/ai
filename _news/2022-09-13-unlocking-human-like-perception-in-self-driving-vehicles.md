@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Unlocking human-like perception in self-driving vehicles"
-excerpt: "Researchers at the University of Freiburg have introduced the amodal panoptic segmentation task whose solution may soon enable more"
-publishedDateTime: 2022-09-13T11:55:00Z
-originalUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/224907"
-webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/224907"
+excerpt: "Researchers at the University of Freiburg have introduced the amodal panoptic segmentation task whose solution may soon enable more human-like environment perception for self-driving vehicles through AI algorithms • Unveiled at the AutoSens conference in the Autoworld Museum in Brussels • “We are confident that novel AI algorithms for this task will enable robots to emulate the visual experience that humans have by perceiving complete physical structures of objects,"
+publishedDateTime: 2022-09-13T00:00:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/964648"
+webUrl: "https://www.eurekalert.org/news-releases/964648"
 type: article
 
 provider:
-  name: AlphaGalileo
-  domain: alphagalileo.org
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/imported/69610_image.jpg"
-    width: 602
-    height: 716
-    isCached: true
-
-secured: "/WpLmA5SFy53DwXVvDWbw3vfDSxaosby6diOhaOTzHB0s1GYonr9zJN4s+XEnTjNOPlA+9qaX47T4/afJZbdjqDjL0UOH/dJP/k9qxpJ+dc36AjfaQJc0hO2/8awsT6VdZcpbsvD8OUnmjfc2cteElK0/EAAEMC9Va3wk1lXTFu0xrG/2tNt2cM0d4znoFBXSSy2RN+sMNh9Y3aa16UgxjBoiymxQt23XvCB2/FpyY719fFhq/mssqZIja5QX/+ea4jq0Xn2tmylvUhyQzjAtNtENH79KjGIfsKMSw/6S/hurK1z7hqGSDKi6atnGNRp+YypXw40z2mVkhd8dj0vuX1uCjwzl4PjeVhhfIQ3Eec=;WIwvlgPcC/ENbbJ7V2i8zA=="
+secured: "IlLmPe7CuTnWiybC/rOIIZc3P4pSeyjZHkk7bbxdiz6ruvSca7uW9d2UE8vauZ63q8laNdcxbzIh4csr2NS4bElmz884gvmxVRLkxy2TC1fIY1n400z3Mv2y+N5UkgtmLl65fw8X/SIT1w35WW1g/9FcTGHK7ro/CqHk2XrLMtdX7dxVvqqBqEdWZ9zk8QDpxh3qf3c6tp7fPyD8etWOozWkuLToegoRTPBsaSKTYxnGzDqti3lfu8zvNa3F51HfDExiKbK8J+76y31l8ADwcIzbBS5OimSJvl4R52Nf4w8zv5KHad30k3CRy1epy4VhqnkIBMbktVejpQw3xKXLqFsXBTpXEIu4i45ueyRx/IA=;WNYY0nfdwV63H176ScTM3w=="
 ---
 

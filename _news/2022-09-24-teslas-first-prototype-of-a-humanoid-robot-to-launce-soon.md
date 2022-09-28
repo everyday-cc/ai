@@ -20,6 +20,20 @@ topics:
   - AI in Autos
 
 related:
+  - title: "Elon Musk teases Tesla robot with humanoid ‘heart’ hands"
+    excerpt: "Elon Musk has teased the unveiling of a humanoid robot during Tesla ’s annual AI Day this week. The tech billionaire shared an image of robotic hands making a heart shape, together with the 30 September date for the artificial intelligence event."
+    publishedDateTime: 2022-09-28T05:50:00Z
+    webUrl: "https://www.independent.co.uk/tech/tesla-robot-elon-musk-optimus-ai-day-b2176994.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 56
+    images:
+      - url: "https://static.independent.co.uk/2020/08/19/11/breaking-news.png?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Factbox-The challenges automakers, and now Tesla, face with humanoid robots"
     excerpt: "Tesla (NASDAQ: TSLA )'s CEO Elon Musk is set to unveil its prototype humanoid robots at an event on Sept. 30, hoping to expand beyond self-driving cars that have not yet become reality despite his repeated promises."
     publishedDateTime: 2022-09-26T16:56:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://za.investing.com/news/factboxthe-challenges-automakers-and
 webUrl: "https://za.investing.com/news/factboxthe-challenges-automakers-and-now-tesla-face-with-humanoid-robots-2622395"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk teases Tesla robot with humanoid ‘heart’ hands"
+    excerpt: "Elon Musk has teased the unveiling of a humanoid robot during Tesla ’s annual AI Day this week. The tech billionaire shared an image of robotic hands making a heart shape, together with the 30 September date for the artificial intelligence event."
+    publishedDateTime: 2022-09-28T05:50:00Z
+    webUrl: "https://www.independent.co.uk/tech/tesla-robot-elon-musk-optimus-ai-day-b2176994.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 56
+    images:
+      - url: "https://static.independent.co.uk/2020/08/19/11/breaking-news.png?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Tesla's First Prototype Of A Humanoid Robot To Launce Soon"
     excerpt: "CEO Elon Musk said last year that Tesla was preparing to launch a humanoid robot that could replace boring, repetitive factory jobs and potentia"
     publishedDateTime: 2022-09-24T12:20:00Z

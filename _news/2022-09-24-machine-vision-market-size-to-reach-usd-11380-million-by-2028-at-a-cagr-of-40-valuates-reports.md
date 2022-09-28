@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2027"
+    excerpt: "The global Facial Recognition market size was valued at USD 3975.52 million in 2021 and is expected to expand at a CAGR"
+    publishedDateTime: 2022-09-28T04:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2027-2022-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Home Security System Global Market Report 2022: Implementation of AI & Deep Learning Drives Sector Growth - ResearchAndMarkets.com"
     excerpt: "The global home security system market is expected to grow from $3.92 billion in 2021 to $3.96 billion in 2022 at a compound annual growth rate (CAGR) of 1.2%. The growth is mainly due to the companies resuming their operations and adapting to the new normal while recovering from the COVID-19 impact,"
     publishedDateTime: 2022-09-26T12:10:00Z
