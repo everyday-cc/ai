@@ -7,7 +7,7 @@ originalUrl: "https://global.chinadaily.com.cn/a/202209/24/WS632e3ac7a310fd2b29e
 webUrl: "https://global.chinadaily.com.cn/a/202209/24/WS632e3ac7a310fd2b29e797fd.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "VW's latest concept is a self-driving travel pod that can replace short flights"
-    excerpt: "Many automakers dream of self-driving cars that are effectively lounges on wheels, but VW is taking things one step further. The brand has unveiled a Gen.Travel \"design study\" EV that it hopes could replace short flights."
-    publishedDateTime: 2022-09-23T17:06:00Z
-    webUrl: "https://www.engadget.com/vw-gen-travel-self-driving-pod-162904370.html?src=rss"
+  - title: "Self-driving trucks are learning to circumvent major road debris"
+    excerpt: "Aurora's self-driving trucks learn to navigate highway debris to avoid swerving collisions"
+    publishedDateTime: 2022-09-28T09:45:00Z
+    webUrl: "https://www.axios.com/2022/09/28/autonomous-trucks-road-debris"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 50
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-09/508f5e40-3b57-11ed-b59d-fdcf34ea0a64"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Is this self-driving VW concept the future of motoring?"
-    excerpt: "Looks fancy! But wait, haven’t we heard all of this before? We’ve been 10 years away from advanced self-driving technology for what feels like decades. Is Volkswagen to be believed this time? The company's new GEN.TRAVEL concept isn’t even gunning to ..."
-    publishedDateTime: 2022-09-26T03:59:00Z
-    webUrl: "https://www.topgear.com/car-news/concept/self-driving-vw-concept-future-motoring"
-    type: article
-    provider:
-      name: Top Gear
-      domain: topgear.com
+      name: Axios
+      domain: axios.com
     quality: 24
     images:
-      - url: "https://www.topgear.com/sites/default/files/images/news-article/2022/09/6ec42b6009e5dbf423a76e550bd54110/Volkswagen_Gen_concept_dynamic_side.jpg?w=1280&h=720"
-        width: 1280
-        height: 720
+      - url: "https://images.axios.com/M5kqVObNNyihjukILOmHdj8ILak=/0x0:1920x1080/1366x768/2022/09/27/1664303633654.jpg"
+        width: 1366
+        height: 768
         isCached: true
 
 secured: "ZtR+D9mKeJhDHg0xbX9fmPtoVZKa5zAnvuJKCnWw2tdXC0u+oSretg3067ofM4exsKry2K2nWT+YvhXYmdAzZZtYEDCkLiGmB0ga7HmC7sgdXeYyD5jKy5n25V6YBBNNd7ixZ1gAmYwvE/YYMxxsjvO0Tzoym0lu3Q5i6LgoIxrsiil8rzfr3mcUQC6KowsN/WGjZ3wGMpk8YpwQXjouOha03Fm+oGlZvZ2ftAu3IzAXzb5Ej7rYl02jAt3BQVpeqyxMM0W+BF37W624becxeA/f9ZGMlZ430W0P6eHKL/kovnfMiSSkoL/oDiWU6ZE1t7JD/RlO5koEMWTouSpOZMQa7QJvITJvrWStmOuw4y4sad+C992u8DKt2ovb5t0DDYa3Rj30gnHVJkXh+iM/xGTYj4d6O9FGUFz+66gYND+4VU4KQ/P9Q1OmRxqlOUMCsHgrQPQCb5nPsPYBs8l+NN9zLhv5uRq+RmFNwbhnzN0JA4yKZcaEXT8xwfR3OOPtX2zwjJ3gU5sDjPbglqTxcQ==;nwABh0GZ83vyX/iKOBTzNw=="

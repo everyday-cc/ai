@@ -33,7 +33,7 @@ related:
     provider:
       name: Capital FM
       domain: capitalfm.co.ke
-    quality: 64
+    quality: 66
     images:
       - url: "https://www.capitalfm.co.ke/news/files/2022/09/WhatsApp-Image-2022-09-28-at-11.29.21-AM.jpeg"
         width: 1280

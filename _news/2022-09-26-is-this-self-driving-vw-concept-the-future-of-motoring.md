@@ -7,7 +7,7 @@ originalUrl: "https://www.topgear.com/car-news/concept/self-driving-vw-concept-f
 webUrl: "https://www.topgear.com/car-news/concept/self-driving-vw-concept-future-motoring"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "VW's latest concept is a self-driving travel pod that can replace short flights"
-    excerpt: "Many automakers dream of self-driving cars that are effectively lounges on wheels, but VW is taking things one step further. The brand has unveiled a Gen.Travel \"design study\" EV that it hopes could replace short flights."
-    publishedDateTime: 2022-09-23T17:06:00Z
-    webUrl: "https://www.engadget.com/vw-gen-travel-self-driving-pod-162904370.html?src=rss"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 50
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-09/508f5e40-3b57-11ed-b59d-fdcf34ea0a64"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "China to set self-driving standard"
-    excerpt: "Industry analysts said the ISO's acceptance confirms that China is spearheading the research and development as well as the application of self-driving technologies, and promoting their large-scale commercial use."
-    publishedDateTime: 2022-09-23T23:57:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202209/24/WS632e3ac7a310fd2b29e797fd.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 24
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202209/24/632e3ac7a310fd2beca35450.jpeg"
-        width: 658
-        height: 438
-        isCached: true
 
 secured: "IJJGU5uEy5L2JSpExPh879sci6o47XCc/uSA5CdK5EAIUoGilym3VR03ndAimLBQ7JZEehRfAHsTIaJd/yDBbsBtdkl89M7pM/nV+ae9olvdYSU3kVdzMBtr/UqEV0fYF47PbZ2WPfX4S+t78jxp61GnS1NL4KUtzDNJ/c7kLK2xE3PTnOWHg/GphNrXE4G5SdaY21idBOoolH/YfdsL0wKSTQqm9XeaEAmHqk/MmI5N/z6wHM7l+cM/AdVLbtXPJ3G57GpuUtr7jMessQ2rPIfFMv0tGc8UwDJP70J9VhQ4769BwCeqRv2SfLeNnfn1cua21tr2undJm4X7HoOeBokqQ/wVSTYW5EYm12PrbbvE4lg0xzGBSPjbZiaJVO4PM1cbE0y13yTa8aJppVi1VhtmgHCcNOtSCsz2rfwy8zEex8hfJTuzEiL4nFgqCZRO8j1xnIhzVkIciaaEBT84L8wXJTUN7k9aZIw9SRlgr6X/4CVV+IQ2SG5i0wzdny9TtXuxAdGyvBHK/DvGNNHAuw==;p4iOwpCKwMVbUNiqOjImdw=="
 ---

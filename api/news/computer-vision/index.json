@@ -115,7 +115,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-expected-to-raise-at-3174-cagr-by-2022-2027-107-report-pages-2022-09-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -249,15 +249,15 @@
       "title": "CAC Corporation integrates CyberLink’s FaceMe Facial Recognition into the POS terminals of their Unmanned Ministop Store",
       "excerpt": "CyberLink Corp., a pioneer of AI and facial recognition technologies, has collaborated with CAC Corporation (CAC) to integrate its AI facial recognition engine, FaceMe®, into CAC’s facial recognition payment system.",
       "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/cac-corporation-integrates-cyberlink-s-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned/article_f876d4e4-cb22-5d25-b4f7-c204fc4b5f35.html",
-      "originalUrl": "https://www.eagletribune.com/region/cac-corporation-integrates-cyberlink-s-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned/article_f876d4e4-cb22-5d25-b4f7-c204fc4b5f35.html",
+      "webUrl": "https://www.joplinglobe.com/region/national_business/cac-corporation-integrates-cyberlink-s-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned/article_1239e162-574d-5593-81dd-3fc17f538f3d.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/cac-corporation-integrates-cyberlink-s-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned/article_1239e162-574d-5593-81dd-3fc17f538f3d.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/b9/6b9f3a71-3a95-545f-8973-122bb5830ac1/632daf1034eb3.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/6b/c6ba7fcb-27e9-5b10-846c-2a6f7f40501c/632daf9f2647a.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -272,8 +272,8 @@
       "publishedDateTime": "2022-09-23T06:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -924,6 +924,40 @@
       ]
     },
     {
+      "path": "_news/2022-09-18-floating-shoe-display-and-its-optical-flow-with-computer-vision.md",
+      "title": "Floating Shoe Display And Its Optical Flow With Computer Vision",
+      "excerpt": "Digitalzakka brings a revolutionary and Jaw-Dropping Floating Shoe Display, innovatively designed by using the latest technology. Technology has done wonders in almost all businesses and has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/ab28907281/floating-shoe-display-and-its-optical-flow-with-computer-vision",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/ab28907281/floating-shoe-display-and-its-optical-flow-with-computer-vision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28907281",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28907281",
+      "publishedDateTime": "2022-09-17T22:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-17-the-creepy-problem-killing-ai-projects.md",
       "title": "The Creepy Problem Killing AI Projects",
       "excerpt": "But once you get into animatronics or the Sophia robot where they are trying to look and act human, they start to fall into the uncanny valley where many people find them to be creepy and are uncomfortable around them.",
@@ -1366,63 +1400,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-10-years-later-deep-learning-revolution-rages-on-say-ai-pioneers-hinton-lecun-and-li.md",
-      "title": "10 years later, deep learning ‘revolution’ rages on, say AI pioneers Hinton, LeCun and Li",
-      "excerpt": "On the 10th anniversary of key research that led to deep learning breakthroughs, AI luminaries say the 'revolution' will continue.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/",
-      "originalUrl": "https://venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1004013312.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/amp/",
-      "publishedDateTime": "2022-09-14T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing",
-        "AI Ethics",
-        "Computer Vision",
-        "AI Hardware"
       ]
     }
   ],

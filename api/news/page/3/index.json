@@ -2,6 +2,164 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-24-3-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade.md",
+      "title": "3 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
+      "excerpt": "IBM could be a cheap value play on the growing AI market. Workday provides balanced growth for patient investors. SentinelOne is growing like a weed -- but it’s also deeply unprofitable and its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/09/24/3-artificial-intelligence-stocks-you-can-buy-and-h/",
+      "originalUrl": "https://www.fool.com/investing/2022/09/24/3-artificial-intelligence-stocks-you-can-buy-and-h/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/702195/robot-star-background.jpg",
+          "width": 2373,
+          "height": 1263,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-24T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-24-review-whisker-litter-robot-4.md",
+      "title": "Review: Whisker Litter-Robot 4",
+      "excerpt": "Stellar odor control ... my mind mostly at ease. When it does start a cleaning cycle, it is nearly silent. Most of the time, I don’t even notice it until my phone pings. The Litter-Robot ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/review/whisker-litter-robot-4/",
+      "originalUrl": "https://www.wired.com/review/whisker-litter-robot-4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/632e0497f1e5c40d2b1bc74f/master/pass/Whisker-Litter-Robot-4-Featured-Gear.jpg",
+          "width": 2400,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/review/whisker-litter-robot-4/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/review/whisker-litter-robot-4/amp",
+      "publishedDateTime": "2022-09-24T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-24-optimus-is-coming-are-you-ready-for-teslas-robot-humanoid-invasion.md",
+      "title": "Optimus Is Coming: Are You Ready For Tesla’s Robot Humanoid Invasion?",
+      "excerpt": "Tesla will be showing off a working prototype of its Optimus humanoid robot at AI Day next week. Should we be afraid for our lives?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamesmorris/2022/09/24/optimus-is-coming-are-you-ready-for-teslas-robot-humanoid-invasion/",
+      "originalUrl": "https://www.forbes.com/sites/jamesmorris/2022/09/24/optimus-is-coming-are-you-ready-for-teslas-robot-humanoid-invasion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/632eca782c74404d4244b122/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 791,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamesmorris/2022/09/24/optimus-is-coming-are-you-ready-for-teslas-robot-humanoid-invasion/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2022/09/24/optimus-is-coming-are-you-ready-for-teslas-robot-humanoid-invasion/amp/",
+      "publishedDateTime": "2022-09-24T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-24-i-used-openais-new-tech-to-transcribe-audio-right-on-my-laptop.md",
       "title": "I used OpenAI’s new tech to transcribe audio right on my laptop",
       "excerpt": "Sterne admitted that tech from Apple and Google could make Stage Whisper obsolete within a few years — the Pixel’s voice recorder app has been able to do offline transcriptions for years ...",
@@ -555,15 +713,15 @@
       "title": "CAC Corporation integrates CyberLink’s FaceMe Facial Recognition into the POS terminals of their Unmanned Ministop Store",
       "excerpt": "CyberLink Corp., a pioneer of AI and facial recognition technologies, has collaborated with CAC Corporation (CAC) to integrate its AI facial recognition engine, FaceMe®, into CAC’s facial recognition payment system.",
       "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/cac-corporation-integrates-cyberlink-s-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned/article_f876d4e4-cb22-5d25-b4f7-c204fc4b5f35.html",
-      "originalUrl": "https://www.eagletribune.com/region/cac-corporation-integrates-cyberlink-s-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned/article_f876d4e4-cb22-5d25-b4f7-c204fc4b5f35.html",
+      "webUrl": "https://www.joplinglobe.com/region/national_business/cac-corporation-integrates-cyberlink-s-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned/article_1239e162-574d-5593-81dd-3fc17f538f3d.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/cac-corporation-integrates-cyberlink-s-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned/article_1239e162-574d-5593-81dd-3fc17f538f3d.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/b9/6b9f3a71-3a95-545f-8973-122bb5830ac1/632daf1034eb3.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/6b/c6ba7fcb-27e9-5b10-846c-2a6f7f40501c/632daf9f2647a.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -578,8 +736,8 @@
       "publishedDateTime": "2022-09-23T06:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1085,146 +1243,6 @@
         "AI",
         "Microsoft AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-how-to-leverage-ai-to-boost-care-management-success.md",
-      "title": "How to leverage AI to boost care management success",
-      "excerpt": "As a rapidly evolving technology, AI is adapting itself to the needs of the healthcare industry at an unprecedented pace.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-to-leverage-ai-to-boost-care-management-success/",
-      "originalUrl": "https://venturebeat.com/ai/how-to-leverage-ai-to-boost-care-management-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1351781263.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-to-leverage-ai-to-boost-care-management-success/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-to-leverage-ai-to-boost-care-management-success/amp/",
-      "publishedDateTime": "2022-09-22T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-how-amazon-search-reduced-ml-inference-costs-by-85-with-aws-inferentia.md",
-      "title": "How Amazon Search reduced ML inference costs by 85% with AWS Inferentia",
-      "excerpt": "Amazon’s product search engine indexes billions of products, serves hundreds of millions of customers worldwide, and is one of the most heavily used services in the world. The Amazon Search team develops machine learning (ML) technology that powers the Amazon.com search engine and helps customers search",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-reduced-ml-inference-costs-by-85-with-aws-inferentia/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-reduced-ml-inference-costs-by-85-with-aws-inferentia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-how-ai-generated-images-can-streamline-your-seo-game-with-dall-e-2.md",
-      "title": "How AI-generated images can streamline your SEO game with DALL-E 2",
-      "excerpt": "SEOs are always on the lookout for innovative technology that can help them amplify content creation effectively One such innovation that is on the cusp of being the next big thing in SEO and content creation is OpenAI’s DALL-E 2 What is it,",
-      "sourceUrl": null,
-      "webUrl": "https://www.searchenginewatch.com/2022/09/22/how-ai-generated-images-can-streamline-your-seo-game-with-dall-e-2/",
-      "originalUrl": "https://www.searchenginewatch.com/2022/09/22/how-ai-generated-images-can-streamline-your-seo-game-with-dall-e-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.searchenginewatch.com/wp-content/uploads/2022/09/Examples-of-AI-generated-images-can-streamline-your-SEO-game-with-DALLE-2-Sad-beaver.jpg",
-          "width": 680,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.searchenginewatch.com/2022/09/22/how-ai-generated-images-can-streamline-your-seo-game-with-dall-e-2/?amp=1",
-      "cdnAmpWebUrl": "https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2022/09/22/how-ai-generated-images-can-streamline-your-seo-game-with-dall-e-2/?amp=1",
-      "publishedDateTime": "2022-09-22T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "searchenginewatch",
-        "domain": "searchenginewatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning",
-        "Computer Vision"
       ]
     }
   ],

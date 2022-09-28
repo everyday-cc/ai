@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/audio-data-should-become-critical-to
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/audio-data-should-become-critical-to-ai-training-processes-ark-says?amp"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Nasdaq
@@ -31,7 +31,7 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-2.jpg"
         width: 1920

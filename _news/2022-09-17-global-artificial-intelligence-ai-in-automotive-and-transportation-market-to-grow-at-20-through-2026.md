@@ -1,22 +1,26 @@
 ---
 category: news
 title: "Global Artificial Intelligence (AI) in Automotive and Transportation Market to Grow at 20% Through 2026"
-excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to"
-publishedDateTime: 2022-09-16T19:45:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/n28901830/global-artificial-intelligence-ai-in-automotive-and-transportation-market-to-grow-at-20-through-20"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/n28901830/global-artificial-intelligence-ai-in-automotive-and-transportation-market-to-grow-at-20-through-20"
-ampWebUrl: "https://www.benzinga.com/amp/content/28901830"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28901830"
+excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. This market is likely to grow at a CAGR of around 20% during 2021-26."
+publishedDateTime: 2022-09-16T21:17:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-automotive-transportation-market-grow-/2022/09/16/9675469.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-automotive-transportation-market-grow-/2022/09/16/9675469.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "rTNzDnrKf7PiKAjCuo/feL1IlDREP7tlkHTYkvRiPEb0ZmVEnBqo4PPD1yxUobAJDHrz/8PLkDBEgxL39Rd9P+2cow4rd1ypyFvXBl/YBrGlubBIN+szxvVX4G0HSU6BayR9QsOT4RPhSsOkGny2KSovKAFayxB6w1HoOCtUlRTyZrVoBQLKIrwhU3y7lQGSZEy1Mxd/+NZV8rE+a8lRtqFygNkWV0CFR2H00OzOx4py7qLte6xTiuAKEi3XelDwpknmCrhzMFCwI6lyn8Lrggi2Pkl3KkBIP3w98Jh/BM4v3qJiJJitNasMh4FFJ90rk/x9XBq4EhE+XVoQ+uk4VQ5Ie1OkONt5RvC4Vfyhlx8=;FvEA1E1uhUTDUHBLeZYnxw=="
+images:
+  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+    width: 476
+    height: 210
+    isCached: true
+
+secured: "bI3BSA5tGC+bR9RJl1MW5ErB/YZ9+GgE/YOuj6JLmirr2VBZojylyptuXhhCUVA6xUvMQwCXEY8Yg8x9R1sBuRsrbDrotBghKzdrayI0NG1eSZaj1kWaktYppN+IaqKuvEZaG+4OZ154ReeqIOy58bx17GcOcmBMj5jFb4x6DDHmlkgzwe/U5qndEwV5VVr94FBVauR+f4v9hTxyK6i79lUjRLvHuVS0zX9RBI1rWIGq2/A/m0qSwzQ++jhqcXRzExbo5uK+gglIy8l7WLuK4/X/s/mLDWSLnHwTAUb84rArktSm4qAHimpUel3mM6CgE1VGoNvjrFaRCCIf1Td1oFrS8cbVDpWhBoPcChNs9AI=;/nLccxwOAdH12iwkGj8W/w=="
 ---
 

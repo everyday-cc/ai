@@ -7,7 +7,7 @@ originalUrl: "https://www.wweek.com/technology/2022/09/27/oregon-state-universit
 webUrl: "https://www.wweek.com/technology/2022/09/27/oregon-state-university-robot-sets-guinness-world-record/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,38 @@ images:
     isCached: true
 
 related:
+  - title: "Robot Developed By US University Runs 100 Metres In 24.73 Seconds, Sets New Guinness World Record"
+    excerpt: "Researchers used neural network controllers to make the robot run and stand after the race because Guinness asked for a human-like scenario."
+    publishedDateTime: 2022-09-28T11:48:00Z
+    webUrl: "https://www.ndtv.com/world-news/robot-developed-by-us-university-runs-100-metres-in-24-73-seconds-sets-new-guinness-world-record-3385444"
+    ampWebUrl: "https://www.ndtv.com/world-news/robot-developed-by-us-university-runs-100-metres-in-24-73-seconds-sets-new-guinness-world-record-3385444/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/robot-developed-by-us-university-runs-100-metres-in-24-73-seconds-sets-new-guinness-world-record-3385444/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 46
+    images:
+      - url: "https://c.ndtvimg.com/2022-09/odm4v6do_robot-runner-650_625x300_28_September_22.jpg"
+        width: 650
+        height: 400
+        isCached: true
+  - title: "Two-legged robot named 'Cassie' sets Guinness World Record for fastest 100-metre sprint by a droid"
+    excerpt: "Cassie clocked the historic time of 24.73 seconds, starting from a standing position and returning to that position after the sprint, with no falls"
+    publishedDateTime: 2022-09-28T11:45:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11257949/Two-legged-robot-named-Cassie-sets-Guinness-World-Record-fastest-100-metre-sprint-droid.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11257949/amp/Two-legged-robot-named-Cassie-sets-Guinness-World-Record-fastest-100-metre-sprint-droid.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11257949/amp/Two-legged-robot-named-Cassie-sets-Guinness-World-Record-fastest-100-metre-sprint-droid.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 45
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/09/28/12/62880901-0-image-a-7_1664364535567.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Cassie, a bipedal robot developed at OSU, achieves Guinness World Record in 100 meters"
     excerpt: "Cassie the robot, invented at the Oregon State University College of Engineering and produced by OSU spinout company Agility Robotics, has established a Guinness World Record for the fastest 100 meters by a bipedal robot."
     publishedDateTime: 2022-09-27T20:34:00Z

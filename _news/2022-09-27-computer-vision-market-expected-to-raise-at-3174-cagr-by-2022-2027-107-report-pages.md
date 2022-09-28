@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-market-e
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-expected-to-raise-at-3174-cagr-by-2022-2027-107-report-pages-2022-09-27"
 type: article
 quality: 76
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -114,15 +114,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 12
-  - title: "Machine Vision Market Size To Reach USD 11380 Million By 2028 At A CAGR of 4.0% - Valuates Reports"
-    excerpt: "The global Machine Vision market size is projected to reach USD 11380 million by 2028, from USD 8374.8 million in 2021, at a CAGR of 4.0% during 2022-2028. Major Factors Driving T"
-    publishedDateTime: 2022-09-23T18:06:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/23/9680013.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "8FbG5k4PI/pBysUUXnAYm+MND7wJS5S20p9g2E9iJHUjV2lVMedmMdNRKXBCW1wJe/zFkARcTjpnvC8jo/qzW5GM9CKS3s52783fEi5yZJC64z0nsO3ButS0AcHNnm2njA1gcARacE/hO5gyKEvDGYMKKp7HDYRQgtJV9AQlIjxHY/GWtNXGyLqA/hWQRGgn3I2NXtwwJ1WODJQrzuHTsW8ZD7qbQATcvtyaPJ2wsX/5EPByu4tR79ExsGL+VINklmbnTwrlJdxgu7BxBlMAqX8x0dQojQN4x4v3XarBbEVppuWVx50UVXpo3d10q7nsDaIUbLovoYghRtkQ+Qu6CEH9uQWuo/MTSjkxcxIuia8=;/FwpkrPOIAvyvQadWgEfRA=="
 ---

@@ -1,27 +1,22 @@
 ---
 category: news
 title: "Floating Shoe Display And Its Optical Flow With Computer Vision"
-excerpt: "Digitalzakka brings a revolutionary and Jaw-Dropping Floating Shoe Display, innovatively designed by using the"
-publishedDateTime: 2022-09-18T05:34:00Z
-originalUrl: "https://www.marketwatch.com/press-release/floating-shoe-display-and-its-optical-flow-with-computer-vision-2022-09-18"
-webUrl: "https://www.marketwatch.com/press-release/floating-shoe-display-and-its-optical-flow-with-computer-vision-2022-09-18"
+excerpt: "Digitalzakka brings a revolutionary and Jaw-Dropping Floating Shoe Display, innovatively designed by using the latest technology. Technology has done wonders in almost all businesses and has ..."
+publishedDateTime: 2022-09-18T05:42:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/09/ab28907281/floating-shoe-display-and-its-optical-flow-with-computer-vision"
+webUrl: "https://www.benzinga.com/pressreleases/22/09/ab28907281/floating-shoe-display-and-its-optical-flow-with-computer-vision"
+ampWebUrl: "https://www.benzinga.com/amp/content/28907281"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28907281"
 type: article
-quality: 49
-heat: 49
-published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "UDVBaXCHrBBSIdDHqpFmJ+63djBtIbuASZirJrZNXI1QyVWIeFTpMKbwskZuqwYz5Oorm/0c41w5PJvLzrSqIht8X7xQWjHta78msP7tChHiVfTypaFabeS2VSplrNCK21Qt8QHVMHdbivyp8cxN6aia3jtAwJuh0WI4qvzIZYYOKRUFFvxw2s3DwEpBa1QlvfHRkQ7A27KxLPhfmVRSi2yJm3twyaO792k94hzrYN99gt8Je5hAKEP7MyJUNceLxdZmEIkxhe3cuWfJvRjRgymRl8KyRNBpcVoOuJOlFid+HZEXB9T4MLFr/LJgugxpFw5FxATdJBg/juqxIH43TTY9iRECstZ+t/53rkKTelo=;xO7WxfwTS68HJmh1gRfolw=="
+secured: "4bRtCGydNLzZP5BMbjXGf04NMTeKDFu43fyQ0CP+UStQAMta37PgJlt/Te3bF0lP7pUoSmuKcnFmtRGccvbNyi1QYjfesQMv6CttEKkV/T2BSGKltIv7TYrbvcq7A4hqlkyc2AG/KwkWgAUf3ZE25vyVrFP34OPVcxI+qEOMdBT4TxjSTVsPwlO0f6GfqaRS2VNHQWQcA6LAg61m+OCcPQwsjGBOcDq++gjthiaVuylkPqIeBTeSHIxRLVbYwZXxUSLhpCt2dkZ1Duk7gZxBV4V16NQsBYgTLh1sWhg/6l15ox/Ewo1/kWcnweYrjXTE1N2nc9RTw0TewD+EUSsK4Brg+QmCsAhnQOEYJLSjydY=;jmcjbFvA3WPyxVAj+jTZ9Q=="
 ---
 
