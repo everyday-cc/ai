@@ -15,12 +15,6 @@ topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/09/AAA-1-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
-
-secured: "nd9bLX1IFKbi2OJLr4hjq/wxu1qftecMfKpnFLFon3vC/IlfPG6xhsfY0H2PiHXWyHxv5dXFLJ5qcIhEB2xQR+J8OmvED5b/NLCEdw217Pb8d2689L2ujstYNbRw/N9FVnPethNy1t8ORclguvBF0XNnM3lvKRAnwokZFJHFZzYDjj0jWJ8y6SCFx4KxgqMn/afWHpE2APTdarQTg7+wNXuFfSNfRNnAWTz3q4ZUczwtFOFqAtdh4cgzsbVuyztnnZXSmKdP8OrN0EQhsQZp1Ag6X8WaHjR5Xq5acvLNa/zXOqUum9XvRdCpy6k3vwbQpz/K4KdZ8DGCwUcjl1zjIfVKPfsN/CfbmyNHeFbJB4w=;tvLODkWQTwD8s+BOf7wCSQ=="
+secured: "FLxwnDWl9niBBuvAQZ1hRk/CHizKOabJJckGnDa1mB9/iCrcxMjYWq5vseGxhBwkWQRX7iY6R/UfdiGUTrlVQsUkUyiNFBeF6UcTT6WUSkD0cYASTCpuNYK7Jexg9rVduyA0/nkKTHfOvnCCPgZFb+qM1+Ab5DhKE95FwIhziKVpEKa/N/0hDWmVXpt71ftQOWK4BM8IQBWXtUCOE5eEpIVicZb+Zp4I6RefpNE5rnhT/xUGGBo+4EcaPyRBxRGhsyh54KRfvDtoEkmAWF2TnRrLskjm/bkEb26LdaEPiaIhEIDR0PLedif8LcEvhPN+GchzzyEntOV9C7qIN9nW7HsbojMVr7BYGtmr1kWuJ6A=;zrNAs1VObagn4fa//A6+Hw=="
 ---
 
