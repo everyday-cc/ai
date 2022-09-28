@@ -2,6 +2,101 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2022-09-01-do-conversational-ai-systems-understand-humor.md",
+      "title": "Do Conversational AI Systems Understand Humor?",
+      "excerpt": "Can you do something?” I asked a conversational AI system. “I’m happy to do what I can, in any way that I can,” replied the machine. Over the whole of human history, many researchers and scientists have been investigating humor as a human phenomenon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/do-conversational-ai-systems-understand-humor/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/do-conversational-ai-systems-understand-humor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630f5fcdea3acb1b4f6f8744/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/do-conversational-ai-systems-understand-humor/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/01/do-conversational-ai-systems-understand-humor/amp/",
+      "publishedDateTime": "2022-09-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-cognitive-services-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-microsoft-google-aws.md",
+      "title": "Cognitive Services Market 2022 Disclosing Latest Trends and Advancement Outlook 2028 – Microsoft, Google, AWS",
+      "excerpt": "Top Companies in the global Cognitive Services market are IBM, Microsoft, Google, AWS, Baidu, Nuance Communications, Qualcomm Technologies, SAS, Apple, TCS, Nokia, Expert System, Verbio Technologies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-microsoft-google-aws-2022-09-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-microsoft-google-aws-2022-09-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-brain-cells-that-give-humans-higher-cognitive-abilities-over-other-animals-are-also-linked-to-neurological-disorders-like-schizophrenia-autism.md",
       "title": "Brain cells that give humans higher cognitive abilities over other animals are also linked to neurological disorders like schizophrenia, autism and epilepsy, a new study finds",
       "excerpt": "Scientists have identified an immune brain cell unique to humans that gives us higher cognitive abilities over other animals, but what makes us specials also leaves us vulnerable to neurological ...",
@@ -1029,91 +1124,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-unraveling-the-mysteries-of-the-night-sky-with-ai.md",
-      "title": "Unraveling the mysteries of the night sky with AI",
-      "excerpt": "Technische Universität Ilmenau (Germany) is using artificial intelligence to improve the detection and classification of unidentified phenomena in the night sky. The research team of the group for data-intensive systems and visualization collaborated with the American Meteor Society,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-08-unraveling-mysteries-night-sky-ai.html",
-      "originalUrl": "https://phys.org/news/2022-08-unraveling-mysteries-night-sky-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/unraveling-the-mysteri.jpg",
-          "width": 1135,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-08-unraveling-mysteries-night-sky-ai.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-unraveling-mysteries-night-sky-ai.amp",
-      "publishedDateTime": "2022-08-31T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-here-technologies-achieves-aws-supply-chain-competency.md",
-      "title": "HERE Technologies achieves AWS Supply Chain Competency",
-      "excerpt": "Chicago, IL – HERE Technologies, a leading location data and technology platform, announced today that it has achieved the Amazon Web Services (AWS) Supply Chain Competency. This designation recognizes HERE for helping customers solve their critical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dcvelocity.com/articles/55400-here-technologies-achieves-aws-supply-chain-competency",
-      "originalUrl": "https://www.dcvelocity.com/articles/55400-here-technologies-achieves-aws-supply-chain-competency",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dcvelocity.com/ext/resources/video-uploads/thumb/Copy-of-C9P-Brand-Video-Thumbnail.jpeg?crop=true&height=430&t=1661789514&width=640",
-          "width": 640,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DC Velocity",
-        "domain": "dcvelocity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

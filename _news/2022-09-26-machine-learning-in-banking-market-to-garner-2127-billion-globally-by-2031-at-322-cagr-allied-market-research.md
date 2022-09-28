@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/22/09/n29013065/machine-learning
 ampWebUrl: "https://www.benzinga.com/amp/content/29013065"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29013065"
 type: article
-quality: 36
-heat: 36
+quality: 53
+heat: 53
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"

@@ -2,6 +2,58 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-05-19-chatbots-can-be-weaponized-how-to-defend-against-these-attacks.md",
+      "title": "Chatbots Can Be Weaponized — How To Defend Against These Attacks",
+      "excerpt": "The speed of chatbot adoption has outpaced the expansion of cybersecurity programs to protect against threats introduced by these technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/chatbots-can-be-weaponized---how-to-defend-against-these-attacks/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/chatbots-can-be-weaponized---how-to-defend-against-these-attacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//6284f6da3e3c95aefd5ef10d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/chatbots-can-be-weaponized---how-to-defend-against-these-attacks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/19/chatbots-can-be-weaponized---how-to-defend-against-these-attacks/amp/",
+      "publishedDateTime": "2022-05-19T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-19-customer-segmentation-for-the-automobile-market-the-use-of-artificial-neural-networks.md",
       "title": "Customer segmentation for the automobile market. The use of artificial neural networks",
       "excerpt": "Customer Segmentation for the Automobile Market. The use of Artificial Neural Networks Grard Yahiaoui and Da Silva Dias Nexyad S.A., France Marie de Saint Blancard Peugeot-Citron, France INTRODUCTION Having a segmentation based on buyers' expectancies is an essential part of developing an effective strategy for one's product.",

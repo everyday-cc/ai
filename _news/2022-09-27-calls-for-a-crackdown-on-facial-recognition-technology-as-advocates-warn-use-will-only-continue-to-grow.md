@@ -152,15 +152,6 @@ related:
         width: 784
         height: 523
         isCached: true
-  - title: "Thumb resident in pursuit of brand recognition"
-    excerpt: "The clothing carries the Great Lakes Pursuit logos of the ever popular Turnip Rock located in Port Austin. With a sharp eye for picture perfect angles and design, he creates clothing masterpieces displaying the Huron County local sites of Pointe Aux Barques and Port Austin lighthouses."
-    publishedDateTime: 2022-09-23T12:00:00Z
-    webUrl: "https://www.chron.com/opinion/article/Thumb-resident-in-pursuit-of-brand-recognition-17460024.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 4
   - title: "University of Technology Sydney: New report offers blueprint for regulation of facial recognition technology"
     excerpt: "A new report from the University of Technology Sydney (UTS) Human Technology Institute outlines a model law for facial recognition technology to protect"
     publishedDateTime: 2022-09-26T23:53:00Z
@@ -171,6 +162,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "iA+Sv0J1jLBTw07mk19UCT790S/Yjonfefa+EcJuPPF+zX7uS5SfmefFFTFGHe2RhZUxY+cmt/Z2az81u5sbL3NyJncpYSizKkqie8IKqlfxVwFPMzNWLgvLZIzEk0bN4F/qiQ6gm1OgznpMR+JtSdet4P9gyZzDwva+ldy0SsDSQDJi6crZA/aXL3r4K5wWotRy+DJWRnl31tTnPQuamRwyn1Dituwb+5jeQHFFUpmA//IiwdmWrUCPyG8qjIOzHsLAVLEVTg+KCk/uBMVB2gTs+zvrehfV5oiabSWYQ7WOv1Vau1qRKNzVUzO/a/dsF9Cn2joQRyyUbdhcsoMdIP0Qbc0ekoMn/wLaZjvfecI=;vP/JRWGj44kTflmiteXHmw=="
+secured: "MUONNtxznhygfLdsGNRroUoWVrDjDxy4fGy9NNTUte7X1TTB5Ne4uJWaYT9oYaOrQa6Mk0LR4APEFqgiBifH8eE757leEQ8W6CZgyrr1z1YWusw1xKPMXupb9gi0FOfuwFxFh2jNXHQwz+ebhG5jJ3IWWCHAUNYL9yolIREPOxg/RtOYzhOPsXxaxyavsVRVx5xD04G9RiCu6nudEzd1hPyLb6qe+XPrOgtihWOzQ3zZQLd9502nY7wXp4noGzO78neqHxQZJ06Cnr+5ieZ/6FEMbigdzsrWxWX1z9FFax5u/R4j0Fn0PJcRntEhVFFcpOW8gHEufWZClaax/41qJzIEGlxV3uiLJQaBr+zT2/HeihAv/MQvm7bn9yPgaL1FCDXTCZRpacgdb7bB5BMq1NFoOVBFw47JbGOYBpBt1oq6w9e7soxZR7/bKY6sfJV5L84ZqMKQIF4d5AUvJ0FnSiWAg600MiKjmDgmcXHYog5hUo9heI0E6W5/HS1Xe90dEyfNaFzLE6ctDqe7PDYz/Q==;8wgFt70pAQ1VGsR6QW5/Yw=="
 ---
 

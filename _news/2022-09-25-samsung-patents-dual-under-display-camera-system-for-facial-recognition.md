@@ -9,8 +9,8 @@ ampWebUrl: "https://m.gsmarena.com/samsung_patents_dual_underdisplay_camera_syst
 cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/samsung_patents_dual_underdisplay_camera_system_for_facial_recognition-amp-55926.php"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: GSM Arena
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung May Be Working On Dual-UDC Facial Recognition Tech"
-    excerpt: "Samsung may be working on a dual-UDC facial recognition system for smartphones using two hidden under-display cameras."
-    publishedDateTime: 2022-09-23T11:21:00Z
-    webUrl: "https://www.androidheadlines.com/2022/09/samsung-dual-udc-facial-recognition-tech.html"
-    ampWebUrl: "https://www.androidheadlines.com/2022/09/samsung-dual-udc-facial-recognition-tech.html?amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/09/samsung-dual-udc-facial-recognition-tech.html?amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2022/08/Samsung-Galaxy-Z-Fold-4-Review-AM-AH-16.jpg"
-        width: 1600
-        height: 1200
-        isCached: true
   - title: "Samsung may use new face recognition tech in future smartphones"
     excerpt: "To improve facial recognition, this technology will use the dual-UDC setup to simultaneously scan the user’s face from different angles. This will hel"
     publishedDateTime: 2022-09-27T11:06:00Z

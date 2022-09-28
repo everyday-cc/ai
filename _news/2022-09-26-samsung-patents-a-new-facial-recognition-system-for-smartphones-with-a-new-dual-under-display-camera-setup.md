@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung May Be Working On Dual-UDC Facial Recognition Tech"
-    excerpt: "Samsung may be working on a dual-UDC facial recognition system for smartphones using two hidden under-display cameras."
-    publishedDateTime: 2022-09-23T11:21:00Z
-    webUrl: "https://www.androidheadlines.com/2022/09/samsung-dual-udc-facial-recognition-tech.html"
-    ampWebUrl: "https://www.androidheadlines.com/2022/09/samsung-dual-udc-facial-recognition-tech.html?amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/09/samsung-dual-udc-facial-recognition-tech.html?amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2022/08/Samsung-Galaxy-Z-Fold-4-Review-AM-AH-16.jpg"
-        width: 1600
-        height: 1200
-        isCached: true
   - title: "Samsung patents dual under-display camera system for facial recognition"
     excerpt: "Samsung specifically mentions using under-display cameras, though, which is interesting in its own right. Up until now, the Korean giant has more or less just experimented with the technology on its Galaxy Fold line without a broader release."
     publishedDateTime: 2022-09-24T21:30:00Z

@@ -160,15 +160,6 @@ related:
         width: 784
         height: 523
         isCached: true
-  - title: "Thumb resident in pursuit of brand recognition"
-    excerpt: "The clothing carries the Great Lakes Pursuit logos of the ever popular Turnip Rock located in Port Austin. With a sharp eye for picture perfect angles and design, he creates clothing masterpieces displaying the Huron County local sites of Pointe Aux Barques and Port Austin lighthouses."
-    publishedDateTime: 2022-09-23T12:00:00Z
-    webUrl: "https://www.chron.com/opinion/article/Thumb-resident-in-pursuit-of-brand-recognition-17460024.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 4
 
 secured: "+ZvtIgyrDp0mpDUFPRmcKB5fWVOgX23SGI3W7Kgh2m9hc6Krd4Klc7+2tKW03MJ0zMznezk//W0BYoYO7ofRtr4dGCclVjKGpJhtKiFpadMyKhOahechJalFvzYAgCDQ05Kc0YF9M5mFd57jqOcflKg1sHkTXq/J/UlnGDAPjDY1pUrAdHatKI410z/5DWce0b0jGy2Z96dOwl2tEg+IK8spvpPWIPtA5hU0vDkcOROPC4983hmiw6iwP5o1/NsvtSj0nmcwPmDULf+e/RU9mCqKQeTUw24HSG4iW2kDDfMQAj8155FmqRbyTx/9qNx+KZJf1Np0YRYye/ZQvyzUNI2l28QCcrjqx28MhTszxy4=;lOzNjBtWbcCYeB5iyRdlpw=="
 ---

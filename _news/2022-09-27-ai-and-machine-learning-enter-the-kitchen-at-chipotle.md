@@ -7,7 +7,7 @@ originalUrl: "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-en
 webUrl: "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enter-kitchen-chipotle"
 type: article
 quality: 73
-heat: 134
+heat: 135
 published: true
 
 provider:

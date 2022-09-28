@@ -2,6 +2,94 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2022-08-10-ai-and-computer-vision-powers-growing-shop-and-go-platform.md",
+      "title": "AI and computer vision powers growing shop-and-go platform",
+      "excerpt": "AiFi, which is powered only by cameras and computer vision, announced today that it now boasts a total of 80 checkout-free stores worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-and-computer-vision-shop-and-go-retail-platform-expands/",
+      "originalUrl": "https://venturebeat.com/ai/ai-and-computer-vision-shop-and-go-retail-platform-expands/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/Loop-Union-City-3-min-1024x683-1.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-and-computer-vision-shop-and-go-retail-platform-expands/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-and-computer-vision-shop-and-go-retail-platform-expands/amp/",
+      "publishedDateTime": "2022-08-10T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-sysdig-blocks-cryptojacking-in-the-cloud-with-99-precision-using-machine-learning.md",
+      "title": "Sysdig Blocks Cryptojacking in the Cloud with 99% Precision Using Machine Learning",
+      "excerpt": "Sysdig, the unified container and cloud security leader, today announced machine learning-powered cloud detection and response (CDR) to combat cryptojacking. The company’s threat engine and detection algorithms block cryptojacking in the cloud with 99% precision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelbiz.co.uk/press-release/sysdig-blocks-cryptojacking-in-the-cloud-with-99-precision-using-machine-learning/",
+      "originalUrl": "https://www.channelbiz.co.uk/press-release/sysdig-blocks-cryptojacking-in-the-cloud-with-99-precision-using-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel Biz",
+        "domain": "channelbiz.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-viecure-partners-with-clarified-precision-medicine-to-accelerate-the-adoption-of-precision-oncology.md",
       "title": "VieCure Partners with Clarified Precision Medicine to Accelerate the Adoption of Precision Oncology",
       "excerpt": "VieCure will fully integrate the Clarified Precision Medicine Somatic and Germline Clinical Consultation process within its A.I. platform and offer community oncologists with streamlined access to Clarified’s nationally recognized test interpretation team.",
@@ -1062,100 +1150,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-object-recognition-imaging-systems-market-2022-covid-19-impact-growth-factors-top-venders-and-forecast-till-2030.md",
-      "title": "Object Recognition Imaging Systems Market 2022 Covid-19 Impact, Growth Factors, Top Venders and Forecast Till 2030",
-      "excerpt": "Aug 10, 2022 (Alliance News via COMTEX) -- Key Companies Covered in the Object Recognition Imaging Systems Research are Quanergy, Xiris Automation Inc, Pieper Automation, Logos Systems Int’l ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-2022-covid-19-impact-growth-factors-top-venders-and-forecast-till-2030-2022-08-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-2022-covid-19-impact-growth-factors-top-venders-and-forecast-till-2030-2022-08-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-ai-ecg-heart-trace-can-accurately-predict-diabetes-and-pre-diabetes.md",
-      "title": "AI + ECG heart trace can accurately predict diabetes and pre-diabetes",
-      "excerpt": "An artificial intelligence (AI) algorithm, derived from the features of individual heartbeats recorded on an ECG (electrocardiogram), can accurately predict diabetes and pre-diabetes, suggests preliminary research published in the online journal BMJ Innovations.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-08-ai-ecg-heart-accurately-diabetes.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-08-ai-ecg-heart-accurately-diabetes.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2017/heartbeat.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-08-ai-ecg-heart-accurately-diabetes.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-ai-ecg-heart-accurately-diabetes.amp",
-      "publishedDateTime": "2022-08-09T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

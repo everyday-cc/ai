@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-05-uk-may-use-facial-recognition-smartwatches-to-monitor-migrant-criminals.md",
+      "title": "UK may use facial recognition smartwatches to monitor migrant criminals",
+      "excerpt": "The UK government may soon start using facial recognition smartwatches to monitor migrants who have been convicted of crimes. The offenders would need to scan their faces up to five times per day, according to The Guardian.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/uk-facial-recognition-smartwatch-migrant-criminals-160623241.html",
+      "originalUrl": "https://www.engadget.com/uk-facial-recognition-smartwatch-migrant-criminals-160623241.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-08/38277eb0-14d7-11ed-bfed-63245ce47b6b",
+          "width": 5760,
+          "height": 3840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/uk-facial-recognition-smartwatch-migrant-criminals-160623241.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/uk-facial-recognition-smartwatch-migrant-criminals-160623241.html",
+      "publishedDateTime": "2022-08-05T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-05-first-they-banned-facial-recognition-now-theyre-not-so-sure.md",
       "title": "First, they banned facial recognition. Now they're not so sure",
       "excerpt": "Over the past few years, a number of cities and some states enacted rules banning or restricting local police use of facial-recognition software. Now, in a handful of locations around the country ...",
@@ -1313,58 +1365,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-kmart-halts-use-of-in-store-facial-recognition-amid-australian-privacy-investigation.md",
-      "title": "Kmart halts use of in-store facial recognition amid Australian privacy investigation",
-      "excerpt": "July, a month after the consumer advocacy group Choice learned that Kmart and Bunnings were testing facial recognition. Bunnings had already paused use as it migrated to a new system. Other Australian retailers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/kmart-bunnings-stop-facial-recognition-131935278.html",
-      "originalUrl": "https://www.engadget.com/kmart-bunnings-stop-facial-recognition-131935278.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-images/2020-02/ab7a0df0-4bb8-11ea-b7dd-8bf29e9a20d8",
-          "width": 4912,
-          "height": 3264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/kmart-bunnings-stop-facial-recognition-131935278.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/kmart-bunnings-stop-facial-recognition-131935278.html",
-      "publishedDateTime": "2022-07-25T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

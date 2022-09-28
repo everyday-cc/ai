@@ -2,6 +2,93 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2022-08-22-artificial-intelligence-and-natural-language-processing.md",
+      "title": "Artificial Intelligence and Natural Language Processing",
+      "excerpt": "To save content items to your account, please confirm that you agree to abide by our usage policies. If this is the first time you use this feature, you will be asked to authorise Cambridge Core to connect with your account. Find out more about saving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/browse-subjects/computer-science/artificial-intelligence-and-natural-language-processing/listing",
+      "originalUrl": "https://www.cambridge.org/core/browse-subjects/computer-science/artificial-intelligence-and-natural-language-processing/listing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cambridge.org/core/cambridge-core/public/images/logo_core_page_share_600x600.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-22-artificial-intelligence-now-available-to-detect-weapons-as-they-approach-schools.md",
+      "title": "Artificial Intelligence now available to detect weapons as they approach schools",
+      "excerpt": "The newest trend in school security, is artificial intelligence. Iterate.ai is applying the same kind tech that helps track down criminals with license plate and face recognition, to detect weapons on people who are approaching a school. Iterate founder ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kfvs12.com/2022/08/22/artificial-intelligence-now-available-detect-weapons-they-approach-schools/",
+      "originalUrl": "https://www.kfvs12.com/2022/08/22/artificial-intelligence-now-available-detect-weapons-they-approach-schools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-kfvs12-prod.cdn.arcpublishing.com/resizer/GIVFL0VDB5wGVpa1JRApvm0TfeI=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/QTQ2H3I44ZADXJIKETRNIYTKPM.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kfvs12.com/2022/08/22/artificial-intelligence-now-available-detect-weapons-they-approach-schools/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-kfvs12-com.cdn.ampproject.org/c/s/www.kfvs12.com/2022/08/22/artificial-intelligence-now-available-detect-weapons-they-approach-schools/?outputType=amp",
+      "publishedDateTime": "2022-08-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KFVS12",
+        "domain": "kfvs12.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-08-22-time-for-business-to-put-humanity-into-ai-automation-plans.md",
       "title": "Time for business to put humanity into AI automation plans",
       "excerpt": "We hear a fair amount about “ethical” artificial intelligence, which can often lead into fascinating, but subjective debates about generalities, but as someone who works with companies across ...",
@@ -1076,109 +1163,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-20-sd-times-news-digest-microsoft-acquires-jclarity-julia-12-released-and-eggplants-automated-testing-capability.md",
-      "title": "SD Times news digest: Microsoft acquires jClarity, Julia 1.2 released, and Eggplant’s automated testing capability",
-      "excerpt": "The new AutoML capabilities include a AutoML Toolkit, an end-to-end machine learning pipeline, automated model search, automated hyperparameter tuning, and integration with Azure Machine Learning.",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-microsoft-acquires-jclarity-julia-1-2-released-and-eggplants-automated-testing-capability/",
-      "originalUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-microsoft-acquires-jclarity-julia-1-2-released-and-eggplants-automated-testing-capability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2019/08/coffee-1117933_640-1.jpg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-20-john-carmacks-agi-startup-raises-20m-from-sequoia-nat-friedman-patrick-collison-and-others.md",
-      "title": "John Carmack’s AGI startup raises $20M from Sequoia, Nat Friedman, Patrick Collison and others",
-      "excerpt": "John Carmack, the game developer who co-founded id Software and served as Oculus's CTO, is working on a new venture -- and has attracted capital from big names.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/19/john-carmack-agi-keen-raises-20-million-from-sequoia-nat-friedman-and-others/",
-      "originalUrl": "https://techcrunch.com/2022/08/19/john-carmack-agi-keen-raises-20-million-from-sequoia-nat-friedman-and-others/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-515877128.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/19/john-carmack-agi-keen-raises-20-million-from-sequoia-nat-friedman-and-others/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/19/john-carmack-agi-keen-raises-20-million-from-sequoia-nat-friedman-and-others/amp/",
-      "publishedDateTime": "2022-08-19T16:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -541,6 +541,50 @@
       ]
     },
     {
+      "path": "_news/2022-09-14-ubs-leverages-machine-learning-to-optimise-venue-selection.md",
+      "title": "UBS leverages machine learning to optimise venue selection",
+      "excerpt": "UBS has developed a state-of-the-art machine learning (ML) technique to search for patterns in data that skew the outcome of passive order placement on equities venues towards higher fill rates, lower information leakage, lower market impact and lower ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetradenews.com/thought-leadership/ubs-leverages-machine-learning-to-optimise-venue-selection/",
+      "originalUrl": "https://www.thetradenews.com/thought-leadership/ubs-leverages-machine-learning-to-optimise-venue-selection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thetradenews.com/wp-content/uploads/2022/06/LiT-2022-260x260-1.jpg",
+          "width": 260,
+          "height": 260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The TRADE",
+        "domain": "thetradenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-10-years-later-deep-learning-revolution-rages-on-say-ai-pioneers-hinton-lecun-and-li.md",
       "title": "10 years later, deep learning ‘revolution’ rages on, say AI pioneers Hinton, LeCun and Li",
       "excerpt": "On the 10th anniversary of key research that led to deep learning breakthroughs, AI luminaries say the 'revolution' will continue.",
@@ -1292,58 +1336,6 @@
         "name": "Medgadget",
         "domain": "medgadget.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-10-11-tech-experts-on-how-small-businesses-can-effectively-leverage-machine-learning.md",
-      "title": "11 Tech Experts On How Small Businesses Can Effectively Leverage Machine Learning",
-      "excerpt": "There are plenty of ways even startups can use ML to boost their odds of success, from predicting future purchases to taking labor-intensive tasks off their team members’ plates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/09/11-tech-experts-on-how-small-businesses-can-effectively-leverage-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/09/11-tech-experts-on-how-small-businesses-can-effectively-leverage-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6319f94d9b5e31274c213f35/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/09/11-tech-experts-on-how-small-businesses-can-effectively-leverage-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/09/11-tech-experts-on-how-small-businesses-can-effectively-leverage-machine-learning/amp/",
-      "publishedDateTime": "2022-09-09T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

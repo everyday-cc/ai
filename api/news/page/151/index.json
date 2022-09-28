@@ -2,6 +2,92 @@
   "page": 151,
   "value": [
     {
+      "path": "_news/2022-06-02-snowflake-vs-databricks-data-platform-comparison-2022.md",
+      "title": "Snowflake vs. Databricks: Data Platform Comparison 2022",
+      "excerpt": "The comparison between data platforms Snowflake and Databricks is crucial for today’s business, because data analytics and data management are now deeply essential to businesses",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/snowflake-vs-databricks/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/snowflake-vs-databricks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-c3ai-plunges-as-after-q4-loss-widens-sees-sales-slowdown-in-2023.md",
+      "title": "C3.ai plunges as after Q4 loss widens, sees sales slowdown in 2023",
+      "excerpt": "C3.ai (AI) shares plunged 20% in after-hours trading after the enterprise software company posted mixed fourth-quarter results and said sales for fiscal 2023 would come in",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3844745-c3ai-plunges-as-after-q4-loss-widens-sees-sales-slowdown-in-2023",
+      "originalUrl": "https://seekingalpha.com/news/3844745-c3ai-plunges-as-after-q4-loss-widens-sees-sales-slowdown-in-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1347310666/image_1347310666.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace.md",
       "title": "Zeta Marketing Platform Becomes the First Marketing Cloud Available in AWS Marketplace",
       "excerpt": "“AWS and Zeta are delivering a simplified and effective ... and unstructured data points to predict consumer intent by leveraging sophisticated artificial intelligence to personalize experiences at scale. Founded in 2007 by David A.",
@@ -1064,84 +1150,6 @@
       "provider": {
         "name": "theregister",
         "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-artificial-intelligence-technology-solutions-files-10-k-and-audited-financials.md",
-      "title": "Artificial Intelligence Technology Solutions Files 10-K and Audited Financials",
-      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), a global leader in AI-driven security and productivity solutions for enterprise clients, filed its annual report on Form 10-K with the Securities and Exchange Commission for its fiscal year 2022 ended February 28,",
-      "sourceUrl": null,
-      "webUrl": "https://fox8.com/business/press-releases/globenewswire/8563633/artificial-intelligence-technology-solutions-files-10-k-and-audited-financials/",
-      "originalUrl": "https://fox8.com/business/press-releases/globenewswire/8563633/artificial-intelligence-technology-solutions-files-10-k-and-audited-financials/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png",
-          "width": 800,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX8 Cleveland",
-        "domain": "fox8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-can-video-games-boost-kids-cognitive-development.md",
-      "title": "Can video games boost kids' cognitive development?",
-      "excerpt": "Researchers have found that children between the ages of 8 and 12 who play video games perform better on a variety of tests associated with intelligence and cognitive development. Can video games ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbesindia.com/article/lifes/can-video-games-boost-kids-cognitive-development/76877/1",
-      "originalUrl": "https://www.forbesindia.com/article/lifes/can-video-games-boost-kids-cognitive-development/76877/1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes India",
-        "domain": "forbesindia.com",
         "images": null,
         "publishers": null,
         "authors": null

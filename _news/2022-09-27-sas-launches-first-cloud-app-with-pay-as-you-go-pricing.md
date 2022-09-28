@@ -71,15 +71,6 @@ related:
         width: 365
         height: 400
         isCached: true
-  - title: "Data analytics: Seeing deeper, optimizing better"
-    excerpt: "Just as updating eyeglass prescriptions bring the world into sharper focus, longstanding data analytics solutions can be extended by new and more digitalized tools that identify details and opportunities that weren’t visible before."
-    publishedDateTime: 2022-09-23T12:57:00Z
-    webUrl: "https://www.controlglobal.com/manage/data-analytics/article/21435305/data-analytics-seeing-deeper-optimizing-better"
-    type: article
-    provider:
-      name: Control Global
-      domain: controlglobal.com
-    quality: 4
 
 secured: "THJOYqyvdl0pu8uUzMQfEnN0hDsCDpdeVoxwYy3TSDB/NyGR+EbLfwexh6PKj2FE225sC4fOtPh/wzzUMuMuHOSws5vfIBoDtLdiPdaz5X8yJL6OLv98sB99DWCP5qBYVpjIJVc33sjwDcpqWEOXCpO8/LNSBKYEJjRICkmAhk8fRlT1NBLxn8QsvQa/5FQr2DyRNQTJ5M3HRP+FerbgobFY2RpKbVstgGMf+8tRmhuVc/1N2JiO9FKI3k3tYMcYDkUb7ekLXsZaaaohasUBUP1RA4YO2zJ1DsNXylRzPUZYU9xEbrtlVuLdG7sti0GQvfD9AfSrhxWXFmO3PHYo0OuygBXcztMWEzymgaIu7cOyIrpw1mldoM+FtP6tT3crBWj7W62DVS/Aay9MzAjVxNqVwd6gRXglv7B5DPsNJp7+jP6BuzjdPGH6vJ06yejqguRuzBwbLZZMgPL2Eli62IGWa/XMRni76FNTfOl3JJA5f6IQggSEQXfe3ozGDUE/oBHxHNJa2w9GMvPELslNVQ==;FS3zvvf0q74pI7J8xepJ0w=="
 ---

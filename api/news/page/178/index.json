@@ -2,6 +2,109 @@
   "page": 178,
   "value": [
     {
+      "path": "_news/2022-05-12-google-io-to-build-better-ai-google-invites-others-to-join-its-ai-test-kitchen.md",
+      "title": "Google I/O: To build better AI, Google invites others to join its AI Test Kitchen",
+      "excerpt": "On Wednesday at Google I/O, the company showcased LaMDA 2. During the I/O keynote, Google CEO Sundar Pichai called it Google's \"most advanced conversational AI yet.\" The tech giant is working on LaMDA and other models to improve Search, Google Assistant ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-io-to-build-better-ai-google-invites-others-to-join-it-in-the-ai-test-kitchen/",
+      "originalUrl": "https://www.zdnet.com/article/google-io-to-build-better-ai-google-invites-others-to-join-it-in-the-ai-test-kitchen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ab8bcde7ffed4e3a8a481d1c210a436f8e1cc4fc/2022/05/11/30026320-f49f-45f7-95fb-5a5c47bb63d4/imagine-it.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1429,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-io-to-build-better-ai-google-invites-others-to-join-it-in-the-ai-test-kitchen/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-io-to-build-better-ai-google-invites-others-to-join-it-in-the-ai-test-kitchen/",
+      "publishedDateTime": "2022-05-11T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-trumps-voice-is-still-very-much-being-heard.md",
+      "title": "Trump’s voice is still very much being heard",
+      "excerpt": "Former President Donald Trump's influence is currently having a resurgence. Candidates he has endorsed are winning key GOP primaries. Candidates he had not endorsed are still swearing fealty to him. And he may soon get an important bullhorn back: The mute button placed on him by Twitter may be lifted.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/05/11/politics/trump-gop-influence-primary-elections-what-matters/index.html",
+      "originalUrl": "https://www.cnn.com/2022/05/11/politics/trump-gop-influence-primary-elections-what-matters/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220511101100-oz-trump-rally-pennsylvania-0506-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/05/11/politics/trump-gop-influence-primary-elections-what-matters/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/05/11/politics/trump-gop-influence-primary-elections-what-matters/index.html",
+      "publishedDateTime": "2022-05-11T13:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-ibm-think-2022-broad-array-of-ibm-software-catalog-now-available-as-saas-offerings-on-aws.md",
       "title": "IBM Think 2022 – Broad array of IBM software catalog now available as SaaS offerings on AWS",
       "excerpt": "IBM today announced it has signed a strategic collaboration agreement with AWS, with plans to offer a broad array of its software catalog as SaaS on AWS.",
@@ -1079,101 +1182,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-rise-of-the-machine-learning-engineer-elizabeth-hutton-cisco.md",
-      "title": "Rise Of The Machine Learning Engineer: Elizabeth Hutton, Cisco",
-      "excerpt": "Elizabeth Hutton is the lead machine learning engineer at the Cisco Webex Contact Center AI team, where she leads building in-house AI solutions from research and development to production. In this wide-ranging interview,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/11/rise-of-the-machine-learning-engineer-elizabeth-hutton-cisco/",
-      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/11/rise-of-the-machine-learning-engineer-elizabeth-hutton-cisco/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/627ad6b441bf5cd8d22d9aca/0x0.jpg?format=jpg&width=1200",
-          "width": 500,
-          "height": 343,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/11/rise-of-the-machine-learning-engineer-elizabeth-hutton-cisco/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/05/11/rise-of-the-machine-learning-engineer-elizabeth-hutton-cisco/amp/",
-      "publishedDateTime": "2022-05-11T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-intel-upgrades-for-ai-wars-with-habana-designed-server-chip.md",
-      "title": "Intel Upgrades for AI Wars with Habana-Designed Server Chip",
-      "excerpt": "The 7-nm Habana-designed Gaudi2 is twice as fast as its first-generation predecessor, according to the company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21241150/electronic-design-intel-upgrades-for-ai-wars-with-habanadesigned-server-chip",
-      "originalUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21241150/electronic-design-intel-upgrades-for-ai-wars-with-habanadesigned-server-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/05/Habana_Gaudi2_Card.627aa84f05a13.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-11T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronic Design",
-        "domain": "electronicdesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

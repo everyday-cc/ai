@@ -152,15 +152,6 @@ related:
         width: 784
         height: 523
         isCached: true
-  - title: "Thumb resident in pursuit of brand recognition"
-    excerpt: "The clothing carries the Great Lakes Pursuit logos of the ever popular Turnip Rock located in Port Austin. With a sharp eye for picture perfect angles and design, he creates clothing masterpieces displaying the Huron County local sites of Pointe Aux Barques and Port Austin lighthouses."
-    publishedDateTime: 2022-09-23T12:00:00Z
-    webUrl: "https://www.chron.com/opinion/article/Thumb-resident-in-pursuit-of-brand-recognition-17460024.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 4
   - title: "University of Technology Sydney: New report offers blueprint for regulation of facial recognition technology"
     excerpt: "A new report from the University of Technology Sydney (UTS) Human Technology Institute outlines a model law for facial recognition technology to protect"
     publishedDateTime: 2022-09-26T23:53:00Z

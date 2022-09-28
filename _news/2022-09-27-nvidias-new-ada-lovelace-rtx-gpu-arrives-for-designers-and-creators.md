@@ -46,15 +46,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
-  - title: "The DeanBeat: Nvidia CEO Jensen Huang says AI will auto-populate the 3D imagery of the metaverse"
-    excerpt: "It takes AI kinds to make a virtual world. Nvidia CEO Jensen Huang said this week during a Q&A at the GTC22 online event that AI will auto-populate the 3D imagery of the metaverse. He believes that AI will make the first pass at creating the 3D objects that populate the vast virtual worlds of the metaverse — and then human creators will take over and refine them to their liking."
-    publishedDateTime: 2022-09-23T13:00:00Z
-    webUrl: "https://venturebeat.com/games/the-deanbeat-nvidia-ceo-jensen-huang-says-ai-will-auto-populate-the-3d-imagery-of-the-metaverse/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 34
 
 secured: "cJWeaCzaaoBjZliBsQtLHvYeGshr8GIDQV2iMGGnNi06NgPPzGZNFlmPg75Zb+JFnZ4whP8vHPcK3yh4IMErnmL30ZGFjrUxq1PEvleCY/UBxGasoK0MsF0n8wcy4cqtNSnDG0uFoEhZy/9mDn+Uq0+GMZprOJv6wJElZp/grTGi0N2jYygkb4g8qlwA/g7JfLPX46kTRr2eHZIcqbfwXkXqQ/taTql3GQimDVQqnlh+4y3MO3tH5yFwLkOTHipZjjM8wprnxp9jJJFh45rCtTXKPL7XZOU6+6uLnMwH4MKuG/N5iihSTjsvF2dyosD88uPGwbjsc/UCqL/zj/On2+qJRhneip5kDiPLRs4Jmpg=;UBuYUCR95+yfgFh326/bhQ=="
 ---

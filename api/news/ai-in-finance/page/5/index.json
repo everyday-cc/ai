@@ -2,6 +2,51 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-06-28-adversarial-machine-learning-explained-how-attackers-disrupt-ai-and-ml-systems.md",
+      "title": "Adversarial machine learning explained: How attackers disrupt AI and ML systems",
+      "excerpt": "Threat actors have several ways to fool or exploit artificial intelligence and machine learning systems and models, but you can defend against their tactics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.csoonline.com/article/3664748/adversarial-machine-learning-explained-how-attackers-disrupt-ai-and-ml-systems.html",
+      "originalUrl": "https://www.csoonline.com/article/3664748/adversarial-machine-learning-explained-how-attackers-disrupt-ai-and-ml-systems.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/01/binary_neural_network_artificial_intelligence_machine_learning_thinkstock_636754212_tinted-100747913-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.csoonline.com/article/3664748/adversarial-machine-learning-explained-how-attackers-disrupt-ai-and-ml-systems.amp.html",
+      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3664748/adversarial-machine-learning-explained-how-attackers-disrupt-ai-and-ml-systems.amp.html",
+      "publishedDateTime": "2022-06-28T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CSOonline",
+        "domain": "csoonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-28-deep-dive-into-advanced-ai-and-machine-learning-at-the-behavox-artificial-intelligence-in-compliance-and-security-conference.md",
       "title": "Deep Dive Into Advanced AI and Machine Learning at The Behavox Artificial Intelligence in Compliance and Security Conference",
       "excerpt": "Improving accuracy of voice transcription using continuous learning. The conference will also feature ... 19th conference will include C-suite executives from top global banks, financial institutions, and corporations with many prospects and clients ...",
@@ -1253,50 +1298,6 @@
         "AI",
         "Machine Learning",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk.md",
-      "title": "Machine learning-led decarbonisation platform Ecolibrium launches in the UK",
-      "excerpt": "Ecolibrium launches in the UK today having already signed its first commercial contract with Integral, JLL's UK engineering and facilities service ... Ecolibrium's proprietary machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-835169759.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-835169759.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1837227/Ecolibrium_Yash_Kapila_and_Chintan_Soni.jpg?p=facebook",
-          "width": 2700,
-          "height": 1413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

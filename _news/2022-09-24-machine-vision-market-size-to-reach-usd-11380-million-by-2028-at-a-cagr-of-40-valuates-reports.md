@@ -115,20 +115,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 10
-  - title: "Global Speech and Voice Recognition Market | 2022-2027 | Expected to Reach USD 30104.9 Million and Growing at CAGR of 22.23%"
-    excerpt: "The global Speech and Voice Recognition market size was valued at USD 9026.92 million in 2021 and is expected to expand at a CAGR of 22.23% during the forecast period, reaching USD 30104.9 million ..."
-    publishedDateTime: 2022-09-23T11:16:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-speech-and-voice-recognition-market-2022-2027-expected-to-reach-usd-30104-9-million-and-growing-at-cagr-of-22-23"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/09/9ce944c9f6ec07bb66ff6e0c6ca0baf6adea883c-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "X1ByTY1RLxhcRb7WtjxWtuTQKbBT0Gxpqnl6uhg++0dvhFfkev1Wfed/keyan1a/xloAOUt2nK4yhFKCRe1vJOwwDW4SlFTa3MWjqYKLd+BHM04KE0MieYCkGJ3nCMevWsvTPB2N3f276GsSYKr0xYOUPIi7zg5Xoa33rcGEpnNHyDkG7/NSWo5nJEZhbs2J6HxI7V28gF/NY7FLcP8cahNkSNi4ZWmxk7hV+TspfLlTwV8QTE5hEYFgR2XRWxfpuk0KPTQ2cckbUWoepbzngmfElGgX8iSA7icQC3cSWoxikQvGWMvNXnPgPtmkaTjpU8r/4a/AiKEaU9PLLWf8GO+OUz5/TSAK7VgLQ4RZAh4=;vPpQLpVGMQGSPDGopfW8Vg=="
 ---

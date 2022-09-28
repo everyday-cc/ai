@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-17-when-ai-meets-fintech-discover-more-about-the-match-made-in-heaven.md",
+      "title": "When AI Meets Fintech : Discover More About the Match Made in Heaven!",
+      "excerpt": "Unsurprisingly, the entire credit goes to the fintech industry, and the market is booming. Indeed, the pandemic posed a challenge in front of businesses, which fortunately led to a better understanding of technologies and adoption of the same.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/when-ai-meets-fintech-discover-more-about-the-match-made-in-heaven-2022-08-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/when-ai-meets-fintech-discover-more-about-the-match-made-in-heaven-2022-08-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-17-best-practices-for-building-machine-learning-platforms-on-the-cloud.md",
       "title": "Best practices for building machine learning platforms on the cloud",
       "excerpt": "By combining cloud-native platforms with data at scale, companies can better advance and experiment with newer, more innovative products.",
@@ -1288,49 +1340,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-fico-and-israels-open-financeai-to-streamline-decision-making-in-credit-insurance.md",
-      "title": "FICO and Israel’s Open-Finance.ai to Streamline Decision-Making in Credit, Insurance",
-      "excerpt": "Global analytics software provider FICO (NYSE: FICO) announced a partnership agreement with Israel’s Open-Finance.ai.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/07/193932-fico-and-israels-open-finance-ai-to-streamline-decision-making-in-credit-insurance/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/07/193932-fico-and-israels-open-finance-ai-to-streamline-decision-making-in-credit-insurance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/10/Tel-Aviv-Israel-1-1024x885.jpg",
-          "width": 1024,
-          "height": 885,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/07/193932-fico-and-israels-open-finance-ai-to-streamline-decision-making-in-credit-insurance/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/07/193932-fico-and-israels-open-finance-ai-to-streamline-decision-making-in-credit-insurance/amp/",
-      "publishedDateTime": "2022-07-21T15:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -624,6 +624,50 @@
       "provider": {
         "name": "Joplin Globe",
         "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-ubs-leverages-machine-learning-to-optimise-venue-selection.md",
+      "title": "UBS leverages machine learning to optimise venue selection",
+      "excerpt": "UBS has developed a state-of-the-art machine learning (ML) technique to search for patterns in data that skew the outcome of passive order placement on equities venues towards higher fill rates, lower information leakage, lower market impact and lower ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetradenews.com/thought-leadership/ubs-leverages-machine-learning-to-optimise-venue-selection/",
+      "originalUrl": "https://www.thetradenews.com/thought-leadership/ubs-leverages-machine-learning-to-optimise-venue-selection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thetradenews.com/wp-content/uploads/2022/06/LiT-2022-260x260-1.jpg",
+          "width": 260,
+          "height": 260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The TRADE",
+        "domain": "thetradenews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1271,49 +1315,6 @@
       "provider": {
         "name": "Finextra",
         "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-blume-backed-fintech-platform-ippopay-acquires-tutelar.md",
-      "title": "Blume-backed fintech platform IppoPay acquires Tutelar",
-      "excerpt": "Tutelar enables AI-based risk-free onboarding, dispute resolutions, KYC fraud detection, transaction fraud detection, mis-selling prevention etc, benefiting not only the principals such as merchants and banks but also the intermediaries such as PAPGs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vccircle.com/blumebacked-fintech-platform-ippopay-acquires-tutelar",
-      "originalUrl": "https://www.vccircle.com/blumebacked-fintech-platform-ippopay-acquires-tutelar",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.vccircle.com/uploads/2022/09/fintechrfxl.jpg",
-          "width": 716,
-          "height": 402,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VCCircle",
-        "domain": "vccircle.com",
         "images": null,
         "publishers": null,
         "authors": null

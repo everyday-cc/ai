@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/nvidia-ai-model-get3d-virtual-worlds-obje
 webUrl: "https://www.engadget.com/nvidia-ai-model-get3d-virtual-worlds-objects-130021127.html"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -51,15 +51,6 @@ related:
       name: gisuser
       domain: gisuser.com
     quality: 39
-  - title: "The DeanBeat: Nvidia CEO Jensen Huang says AI will auto-populate the 3D imagery of the metaverse"
-    excerpt: "It takes AI kinds to make a virtual world. Nvidia CEO Jensen Huang said this week during a Q&A at the GTC22 online event that AI will auto-populate the 3D imagery of the metaverse. He believes that AI will make the first pass at creating the 3D objects that populate the vast virtual worlds of the metaverse — and then human creators will take over and refine them to their liking."
-    publishedDateTime: 2022-09-23T13:00:00Z
-    webUrl: "https://venturebeat.com/games/the-deanbeat-nvidia-ceo-jensen-huang-says-ai-will-auto-populate-the-3d-imagery-of-the-metaverse/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 34
 
 secured: "xvl5GU98gA9C4lesvicP9EkD2lWXk+LFdL1dCSn0TMb98bcKCwTVtlZ9sHPK4GkaUYMHpLuNPT8niBj4cOCppHJwDPzKNPyFYBkSNv0gPjNJY9MqPekmEo3tz4sNJ2ApOtsADIWI7Grl8TKCxw1WOaFROUROh7ZKzbt7HyvDzfcO+OClwkKs565Euhmr5Lv0pbRw+Rq+Q9SYTRwDoR8llI1nBNpFmY2lmyqrxo2S6fA3L+3QVUNLDP4y7M8M0KfIUBnEaMEh461B3Hq3MR3OfHNkpUWdmjtxnijUhWeQoJJgkA1QRMPu30s2CFd0V4iB/lyvE6yqQ9WWgyGh1OJcmB1oV2gRPxnIhxktPualfBrJlHAgaCncBIvkjY4vBDo4jVTNmH3GXxX6bHK3+Yr+MsCD2mqg+8Dj3F5Fv0eRaD0iyowBntHCToTEy/xlUJTd1FUgrw5jWwRHHKP+0l3N+bPtwNvsLt9Vv4zDtUtyq/pKsYzq29Dcwimc2p7OWMRWDzW5tcUTSvJIrJujE/Fuhw==;cnVd3g0641G0YQDZW940Mw=="
 ---

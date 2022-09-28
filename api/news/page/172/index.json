@@ -2,6 +2,101 @@
   "page": 172,
   "value": [
     {
+      "path": "_news/2022-05-17-ai-in-healthcare-market-foresee-business-opportunities-current-trends-and-industry-scrutiny-by-2025.md",
+      "title": "AI in Healthcare Market foresee Business Opportunities, Current Trends and Industry scrutiny by 2025",
+      "excerpt": "Global Artificial Intelligence in Healthcare Market valued approximately USD 650 million in 2016 is anticipated",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-healthcare-market-foresee-business-opportunities-current-trends-and-industry-scrutiny-by-2025-2022-05-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-healthcare-market-foresee-business-opportunities-current-trends-and-industry-scrutiny-by-2025-2022-05-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-17T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-17-using-ai-to-predict-heart-attacks.md",
+      "title": "Using AI to predict heart attacks",
+      "excerpt": "We have been working with artificial intelligence (AI) to improve the prediction of cardiovascular ... allow them to find out the effects of therapy and lifestyle on their heart health. What do you believe the future of AI in healthcare to look like?",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220517/Using-AI-to-predict-heart-attacks.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220517/Using-AI-to-predict-heart-attacks.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_712225_16512184408622117.jpg",
+          "width": 1000,
+          "height": 554,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20220517/Using-AI-to-predict-heart-attacks.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220517/Using-AI-to-predict-heart-attacks.aspx",
+      "publishedDateTime": "2022-05-17T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-17-the-next-frontier-for-healthcare-blockchain-ar-and-vr.md",
       "title": "The Next Frontier For Healthcare: Blockchain, AR and VR",
       "excerpt": "The medical industry has traditionally been slow to adopt new technologies, but blockchain, augmented reality and virtual reality technologies are changing that thought process.",
@@ -1041,93 +1136,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-the-robot-will-do-your-angioplasty-now.md",
-      "title": "The Robot Will Do Your Angioplasty Now",
-      "excerpt": "From a control station shielded against radiation ... There is no doubt in my mind that the future of interventional cardiology lies in integrating robotics.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/cardiovascular/robot-will-do-your-angioplasty-now",
-      "originalUrl": "https://www.mddionline.com/cardiovascular/robot-will-do-your-angioplasty-now",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-deepmind-researcher-claims-new-gato-ai-could-lead-to-agi-says-the-game-is-over.md",
-      "title": "DeepMind researcher claims new ‘Gato’ AI could lead to AGI, says ‘the game is over!’",
-      "excerpt": "A DeepMind lead researcher made the bold claim that the company's newest AI was a 'game over' product for AGI research.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/deepmind-researcher-claims-new-gato-ai-could-lead-to-agi-says-game-is-over",
-      "originalUrl": "https://thenextweb.com/news/deepmind-researcher-claims-new-gato-ai-could-lead-to-agi-says-game-is-over",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2FscalingAI.jpg&signature=9bc3b164454b20146d307326beb8c1b3",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-16T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

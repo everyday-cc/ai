@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Inuitive launches NU4100, expanding its Edge AI Vision-on-Chip IC portfolio; NU4100 presents advanced AI capabilities and"
-excerpt: "Geared for Robotics, the new NU4100 is setting a new industry standard by combining integrated dual-channel 4K ISP with enhanced AI performance coupled with depth-sensing and VSLAM capabilities RA'ANANA,"
+excerpt: "Inuitive Ltd., a Vision-on-Chip processors company, announced today the launch of its new NU4100, an expansion of its Vision and AI IC portfolio. Based on Inuitive's unique architecture and advanced 12nm process technology,"
 publishedDateTime: 2022-09-21T16:03:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/09/22/9678713.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/09/22/9678713.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2022/09/21/9678078.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/09/21/9678078.htm"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 253
     isCached: true
 
-secured: "m67UeibXZFR39goPZlc1vcHo6LN3abfot4IyorNcmUOnJ6+9k2cMOb5pZFHWTubkzlvPSoX14y8o+rezwDEAN+JbU89/EJC6bPnpmpS+yGW66iTRTK+YWAlBLZjbv+3ku0Ws5isGhYX93pBpdNikmK4v0kJMzZmbdVu3wdhB4XqcIlZsTWbjWWi6UYaQkxGJpqe1aoGK2SyMO9cEjYLDsB7pH3WNaSbs/jW86bvYYZM5UV4Xt3YxCeN+WFzb1ddzS+0WJ2uk8tR2a69iTrPcA7mrI53dlvOUxRXdm2F24j5cJFw+8nJ/A8iFCAxGcupbpJVLQ1Yxp2/vdBG+HPJIvgyAjw5z4dNF3pwb6s1GieTOCMwjdVbcbqOgrjr+AARYb6EufCE5XG/ZDOecSPpTrrlDa1zFR7b7PAkRly1TRtwbywVkuXiZbTvsDmBp1vXqjzsfJoe/04YbjmjNALaPQC0WOpKUjZc549vN00GjbNJhj7nbeQi1oK1mg3QWKZNs2jpBJi99vYw/eCLrvpE/Zg==;pz1oecWRf2Cx5gSf7j9uQA=="
+secured: "lp/vE5hHBmmXEgPQIPqny4nvjz6h/n3LetMUHuU/5rqv+bbQCTLX0kN4LpuiDcyiZb3RiZHh47q93cgoJuvQuc96ZWx4rdtMKf4kC3SCnu9BYyKcw/rDsIy5ihFsPLzUFVc5dBp5bIrr5PXYJToMk1cdOAN1Hcv1/xPyn++7Dt5GfBpz0kbCCzsmkq3L+5A54NIuKfBqkxwNM7S+sY9VeRmTarwYBaKGczCsCyI16NBm4kLc04ovXHUi0hopxrsqHAZ8bwXYxp9nlI8H2fDD2A8qFZ/FqVMvZFuhzwqHQLZt95sfWo2mueRkNYHvWdGNxVEcRay9cNXJe+FRAaUkdRjumKpkdlE6dSWPvSTjpT4=;rsuXJcNyYlo9QgU33QUNAg=="
 ---
 

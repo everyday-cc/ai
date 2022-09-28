@@ -2,9 +2,9 @@
 category: news
 title: "Ships are turning whales into ‘ocean roadkill’. This AI system is trying to stop it"
 excerpt: "Whale Safe, backed by a tech billionaire, is a step forward, but not the only answer to avoiding collisions, biologists say"
-publishedDateTime: 2022-09-26T18:27:00Z
-originalUrl: "https://www.theguardian.com/us-news/2022/sep/26/whale-deaths-ship-prevention-ai?ref=upstract.com&curator=upstract.com"
-webUrl: "https://www.theguardian.com/us-news/2022/sep/26/whale-deaths-ship-prevention-ai?ref=upstract.com&curator=upstract.com"
+publishedDateTime: 2022-09-26T17:51:00Z
+originalUrl: "https://www.theguardian.com/us-news/2022/sep/26/whale-deaths-ship-prevention-ai"
+webUrl: "https://www.theguardian.com/us-news/2022/sep/26/whale-deaths-ship-prevention-ai"
 ampWebUrl: "https://amp.theguardian.com/us-news/2022/sep/26/whale-deaths-ship-prevention-ai"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2022/sep/26/whale-deaths-ship-prevention-ai"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "y5QyhXfqzmdSPK0fdxUrfZSmkxoWoGoyapnUEM05f3lE5mOoj3ZLSDK9RQ8veXKxDs30D0z9s4HKfuuuwjQpTtPQ3Vyx3t5nfiL3Kq4XKBm/qzW7Fis1ymb7mkHx+ME8fIhTMclkgkAA13Hn7u5LWlY64RjzCQHIKpCbn55+zYb0MlBVzqxqXP6Kpxx91QQeImmOjAc6sSURfCz69znOLAHULmacJfKMk57agxn33RU77NQ3hZN9Ic0JL3hZqigfb7dazWQ9jFb05LecwBJ47YyeeUCl+f6Qb1dLNFJNyOb/Iyx0cdNSIB7go+saCWXkB3aFQVyvmmEC8lWYpAlmCfrPZIO5cGR2TuHmtFZTQQU=;M0WJ0S1onVgTmoQcy5yWmA=="
+secured: "Pwt/orQyet2X/1NnjQFdoMbzh8c8WiprvtlV3TX6DrDc7raGSUKUSkr49XAPnCG98CqGvyq/6GkyPHFP3Y/+9CJ5vHdvJc9c/rgKnrlAAkmU6RCieKpHEqeSl/AEO/sWZlCcnwSZYTKK8PUhfnqiMbGGGgvDH0DSLe0uhEV58u03gj9Zj8Q+mxGy6c4xVibWP+EhTcKg21qTL+e6BV+o33nEiRXyNysmud9RUc23buqPMNHWcIplwFXzFSQypryhlYbn9rsW3ixC7/GGDtjQ4eMVMoMSr/KFM5TQraCfqLGpl1lTX68GWhZWJ3cECQr1dFkG4FN8J1GYblH/1jhgquvM4sVPWE5SjqOa7qg7dqc=;u8EYHXR4dIMR+rVKGcYY7w=="
 ---
 

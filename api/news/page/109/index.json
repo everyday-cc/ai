@@ -2,6 +2,84 @@
   "page": 109,
   "value": [
     {
+      "path": "_news/2022-06-30-arable-matters-is-the-agbot-robot-tractor-a-game-changer.md",
+      "title": "Arable Matters: Is the AgBot robot tractor a game changer?",
+      "excerpt": "I guess like most visitors to the Highland last week one of the 'must see' items was the driverless robot tractor – the ... probably be their new sprayer technology – which uses artificial intelligence (you’re probably best not to go with the term ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thescottishfarmer.co.uk/arable/20245078.arable-matters-agbot-robot-tractor-game-changer/",
+      "originalUrl": "https://www.thescottishfarmer.co.uk/arable/20245078.arable-matters-agbot-robot-tractor-game-changer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T04:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Scottish Farmer",
+        "domain": "thescottishfarmer.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-guardforce-stock-gains-on-collaboration-with-hong-kong-industrial-ai-robotics-centre.md",
+      "title": "Guardforce stock gains on collaboration with Hong Kong Industrial AI, Robotics Centre",
+      "excerpt": "Guardforce AI (GFAI) is rising 7.1% premarket on Thursday after it entered in a collaboration pact with Hong Kong Industrial Artificial Intelligence and Robotics Centre, founded by",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3853175-guardforce-stock-gains-on-collaboration-with-hong-kong-industrial-ai-robotics-centre",
+      "originalUrl": "https://seekingalpha.com/news/3853175-guardforce-stock-gains-on-collaboration-with-hong-kong-industrial-ai-robotics-centre",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-30-the-future-of-online-education-and-the-impact-of-ai.md",
       "title": "The future of online education and the impact of AI",
       "excerpt": "Online education is here to stay, no doubt. The practicality and accessibility of online courses cannot be denied.",
@@ -1023,93 +1101,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-global-natural-language-processing-nlp-market-size-and-share-research-report-2022-sales-revenue-development-trends-and-forecast-to-2029.md",
-      "title": "Global Natural Language Processing (NLP) Market Size and Share Research Report 2022 Sales, Revenue, Development, Trends and Forecast to 2029",
-      "excerpt": "“Natural Language Processing (NLP) Market“ 2022 report is deep overview of market size, characteristics, share, trends, geographical regions, market shares. This research report gives ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-size-and-share-research-report-2022-sales-revenue-development-trends-and-forecast-to-2029-2022-06-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-size-and-share-research-report-2022-sales-revenue-development-trends-and-forecast-to-2029-2022-06-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T14:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan.md",
-      "title": "Instagram is testing AI that verifies your age with selfie scan",
-      "excerpt": "It comes less than a year after disclosures from a Facebook whistleblower ... school’s Face Aging Group Research Lab, thinks Yoti’s technology is a good use of AI. “It’s a worthwhile ...",
-      "sourceUrl": null,
-      "webUrl": "https://nbc-2.com/news/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/",
-      "originalUrl": "https://nbc-2.com/news/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC2",
-        "domain": "nbc-2.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

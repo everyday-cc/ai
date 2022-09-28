@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-ch
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 54
-  - title: "The Download: YouTube’s deadly crafts, and DeepMind’s new chatbot"
-    excerpt: "The YouTube baker fighting back against deadly “craft hacks” Ann Reardon is probably the last person whose content you’d expect to be banned from YouTube. A former Australian youth worker and a mother of three,"
-    publishedDateTime: 2022-09-23T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2022/09/23/1059978/download-youtube-deadly-crafts-deepmind-new-ai-chatbot/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 19
 
 secured: "tZzWvwDi+iiuiV6lK9eSYA/NQppyl3qeLBDmlDh59AN9+CU6XtFrVNjf3H42zWn8fNsMyd7caWhuQWQ6bF+yM1RHGoNxA9NP14EMg62Ay5ldsYi1lb9wN6h8SmyPsNy5lIorCKYRd276+IaZVWbEZbIEJKaCxRQmwtEq7/aBCcvSehl6dL5ZTrtHK2ajrpHiQJTUHTQnHbf/346jvMcwnQDgcH6gGmh2tKCIjwmaupYg+J/la1tdOOvkB0XiVStlSP3/T5rRvL5imWUWTD+6jl3BVWVj28l3e+uhY9e3Atd5xek7v2vPDi0pswPuJ5eWiS0+ZK6Jqx6sLMADA7m0Aa4Ry5UKLejzBgwPxPT2+XuXX6kdHuVNrvCr2AkHIr4wsqsttWDxUp8+8JKAb9EGzQEdGkv99fGYs0vSul2n8jbeze9p2g1FF1GCYfrYxBF6CxU3s70RweQBwknoX0ENrYO7L/P9lCP6i2GkM8iuCqY0tr04dOPcO16Bm1fX33IYsEbfzroJWpXOFzv6lItJ+A==;FgqKOojCCziVAdcwHfyOxQ=="
 ---

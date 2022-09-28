@@ -2,6 +2,92 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2022-08-19-10-top-cybersecurity-online-courses-and-certifications-in-2022.md",
+      "title": "10 top cybersecurity online courses and certifications in 2022",
+      "excerpt": "Are you interested in cybersecurity certifications? Whether you're changing careers or upskilling your team, there's help available.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/10-top-cybersecurity-online-courses-and-certifications-in-2022/",
+      "originalUrl": "https://venturebeat.com/security/10-top-cybersecurity-online-courses-and-certifications-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-certificate_certification_1335802150-e1660857259342.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/10-top-cybersecurity-online-courses-and-certifications-in-2022/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/10-top-cybersecurity-online-courses-and-certifications-in-2022/amp/",
+      "publishedDateTime": "2022-08-19T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-us-open-marks-ibm-extension-with-new-redesigned-ai-driven-app-and-website.md",
+      "title": "US Open marks IBM extension with new redesigned, AI-driven app and website",
+      "excerpt": "USTA has worked with tech giant IBM for more than 30 years and will continue to do so for another five to build out its digital capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sportspromedia.com/news/us-open-official-app-ibm-usta/?blocktaxonomy=technology",
+      "originalUrl": "https://www.sportspromedia.com/news/us-open-official-app-ibm-usta/?blocktaxonomy=technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-19T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SportsPro",
+        "domain": "sportspromedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-19-ceat-transforms-digitally-with-aws-iot-and-analytics.md",
       "title": "CEAT transforms digitally with AWS IoT and analytics",
       "excerpt": "CEAT uses Amazon Redshift, a cloud data warehouse, and Amazon SageMaker for an experimental solution. The solution automatically scans stock-keeping unit names and tyre serial numbers, registering ...",
@@ -1022,93 +1108,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-taziai-launches-adaptive-machine-learning-solutions-to-speed-up-and-democratize-machine-learning.md",
-      "title": "TAZI.AI Launches Adaptive Machine Learning Solutions to Speed up and Democratize Machine Learning",
-      "excerpt": "Press Release TAZI.AI today announced the official launch of its Machine Learning (ML) solutions especially for insurance, healthcare and pharma industries, built on its SaaS ML Platform. In as little as 40 days,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/tazi-ai-launches-adaptive-machine-learning-solutions-to-speed-up-and-democratize-machine-learning/",
-      "originalUrl": "https://venturebeat.com/business/tazi-ai-launches-adaptive-machine-learning-solutions-to-speed-up-and-democratize-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/tazi-ai-launches-adaptive-machine-learning-solutions-to-speed-up-and-democratize-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/tazi-ai-launches-adaptive-machine-learning-solutions-to-speed-up-and-democratize-machine-learning/amp/",
-      "publishedDateTime": "2022-08-18T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-driverless-lyfts-come-to-the-las-vegas-strip-with-a-catch.md",
-      "title": "Driverless Lyfts Come to the Las Vegas Strip (With a Catch)",
-      "excerpt": "Caesars, for example, uses an artificial intelligence text-based concierge ... of tunnels under the city that will eventually use driverless Tesla (TSLA) electric vehicles to ferry people ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/the-las-vegas-strip-gets-a-major-new-innovation?yptr=yahoo?src=rss",
-      "originalUrl": "https://www.thestreet.com/investing/the-las-vegas-strip-gets-a-major-new-innovation?yptr=yahoo?src=rss",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg4NzU1NTY3OTMyNjE0MTc2/boring-company.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/the-las-vegas-strip-gets-a-major-new-innovation",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/the-las-vegas-strip-gets-a-major-new-innovation",
-      "publishedDateTime": "2022-08-18T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

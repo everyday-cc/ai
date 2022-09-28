@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/enterprise-analytics/sas-launches-first-clou
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -76,15 +76,6 @@ related:
         width: 1280
         height: 840
         isCached: true
-  - title: "Data analytics: Seeing deeper, optimizing better"
-    excerpt: "Just as updating eyeglass prescriptions bring the world into sharper focus, longstanding data analytics solutions can be extended by new and more digitalized tools that identify details and opportunities that weren’t visible before."
-    publishedDateTime: 2022-09-23T12:57:00Z
-    webUrl: "https://www.controlglobal.com/manage/data-analytics/article/21435305/data-analytics-seeing-deeper-optimizing-better"
-    type: article
-    provider:
-      name: Control Global
-      domain: controlglobal.com
-    quality: 4
 
 secured: "e9QLqzF5n5/K6c6JyTFIPttT/0kvY4Io7j3LxcHUAB2EoktEmqX+A8bXlioxBn9IkHxnZQwom2uS8dR0XITb3wHNpxW0j8J/kpO5OsgOJ8Z2xUeydMWlYUDm08zhROgjBz39DVgT/qNWS1WGXR623r+Vu7Xj7ONDneblzgZdZAUwVIAY88T3IyB9gYP3CBcqcDZ7Qd4cdwI4qEGNNxhNBs9WbrmspV5b/eNbbjOAGhkrhvP4QAfyLKliVO3WzE4qMuJhIrD5VAnBVRN1fwoaLuDukPjRLHodyicyhCyFxG7K38QpJl0fQ9ETH4zgpUqddUc8ak0l1Wbtb1QsqPqyJ//J0++w0WqdvKObrSeZ9ZDj7jWrISK9gBwLyxbN3MyLhWSrn61t31w8SVxzT5Gu1Mgm8z+/qRRFTOtmLKixkvlpHC65YH7ouB4OrYBfKu4WtVqYH7E/Wihe845L3mlpssS7SIgYvzm6Rr38i6btYKtfJws8b7kaO0+aa3iCG/stU9DMFq56E7ccxwxXM1aQQA==;N6Wsej8lwdNluI4jHh1HnQ=="
 ---

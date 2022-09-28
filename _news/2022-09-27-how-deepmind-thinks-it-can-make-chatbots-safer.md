@@ -54,15 +54,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 54
-  - title: "The Download: YouTube’s deadly crafts, and DeepMind’s new chatbot"
-    excerpt: "The YouTube baker fighting back against deadly “craft hacks” Ann Reardon is probably the last person whose content you’d expect to be banned from YouTube. A former Australian youth worker and a mother of three,"
-    publishedDateTime: 2022-09-23T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2022/09/23/1059978/download-youtube-deadly-crafts-deepmind-new-ai-chatbot/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 19
 
 secured: "3UKHGgCi3jbRGIQ9gvDHTNIOLUj/ixqspjdw65Z9s1+ejHBcYEqvJ4dJ78r/3XLbcbFGAG22MvK9k1HXsYmu4D7KYb9TyiMWl9n34RIt88rIR5sAbWBJEYxOHSKg0OLlUMWXJmTT76wg2O0sMNy6D2P+o/YhvidHr/9373MK5vnuz6yebMqd4VRb0jrG/3s7RaKE/pJ3t3YwzyQ2rxdVRQr2FA+/l+IFogoy/UFydGs33+/wmcIl7jmRIYtODcAvgd5nYf1QwPrjLFF+Eec3/mrSrNNiyqN1FDCofIpL0vrJT4JQXNLD5V3zVEkSfRXEofSBPlelGZfcO4Hb6gAVVwsgw2eVGj1fJidGXE4D0Y9eoliiO8/9yaBISRd4RLZjn9JSlAl8LkFuPHMHNRaIj9hU2/jqd6/9zXfgLrxWFxq5223k1v8SFTWKx2cTzwsCBUy+8tNLuGtg4iP113rbk4sm4LkJWkLFo3Yhy1DnbVSdZFwQuknnUPg0iWl0TSajqNab8wzlBSWiMR32Lqdfag==;plGqDa/eMV+OrttYQUYclg=="
 ---
