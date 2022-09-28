@@ -57,6 +57,15 @@ related:
         width: 3000
         height: 1699
         isCached: true
+  - title: "EU Commission to make it easier to sue over AI products"
+    excerpt: "The European Commission has proposed new rules to help people harmed by products using (AI) and digital devices like drones. The AI Liability Directive would reduce the burden of proof on people suing over incidents involving such items."
+    publishedDateTime: 2022-09-28T18:22:00Z
+    webUrl: "https://www.bbc.com/news/technology-63033084"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 47
   - title: "This guy is using AI to make a movie — and you can help decide what happens next"
     excerpt: "By Rachel Metz, CNN Business “Salt” resembles many science-fiction films from the ’70s and early ’80s, complete with 35mm footage of space freighters and moody alien landscapes. But while it looks like a throwback,"
     publishedDateTime: 2022-09-25T13:00:00Z

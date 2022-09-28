@@ -55,22 +55,6 @@ related:
         width: 860
         height: 573
         isCached: true
-  - title: "Avoiding a surveillance society: How better rules can rein in facial recognition tech"
-    excerpt: "The human face is special. It is simultaneously public and personal. Our faces reveal sensitive information about us: who we are, of course, but also our gender, emotions, health status and more."
-    publishedDateTime: 2022-09-27T15:40:00Z
-    webUrl: "https://techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.html"
-    ampWebUrl: "https://techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 52
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/avoiding-a-surveillanc.jpg"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "Oosto offers advice on facial recognition implementations for stadium security"
     excerpt: "The paper offers advice on how to use computer vision systems with facial recognition to improve safety and security outcomes at large-scale events."
     publishedDateTime: 2022-09-26T17:14:00Z
@@ -166,6 +150,15 @@ related:
         width: 690
         height: 428
         isCached: true
+  - title: "Avoiding a surveillance society: how better rules can rein in facial recognition tech"
+    excerpt: "Facial recognition technology has set us on a path to mass surveillance – but it’s not too late to change course."
+    publishedDateTime: 2022-09-26T20:02:00Z
+    webUrl: "https://theconversation.com/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 12
   - title: "University of Technology Sydney: New report offers blueprint for regulation of facial recognition technology"
     excerpt: "A new report from the University of Technology Sydney (UTS) Human Technology Institute outlines a model law for facial recognition technology to protect"
     publishedDateTime: 2022-09-26T23:53:00Z

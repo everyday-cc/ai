@@ -64,6 +64,15 @@ related:
       name: PR Newswire
       domain: prnewswire.co.uk
     quality: 4
+  - title: "Fintech firm CRED named top startup for this year"
+    excerpt: "To compile this year’s list, the company looked at platform data between July 2021 and June 2022 across four pillars: employee growth, jobseeker interest, member engagement within the company and its employees,"
+    publishedDateTime: 2022-09-28T19:30:00Z
+    webUrl: "https://www.financialexpress.com/industry/sme/fintech-firm-cred-named-top-startup-for-this-year/2694465/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 4
 
 secured: "BmO6tM8AMS6I6o+tQWv0d8Kv9clgiMLJWtZjI4qUWSY9Vc4/3dPB1+wfnT79z+OsARizMYr7gkpBBc7ZovA9k29hwTMrb0JDYjfYg3rm4PdYldLgo5V0RFj0tyuVRrdZcmxriV7kCnFgKlKwenC9HKb6MVct945GrJ6kqJUfKr+LiFMLc7j+Y4ov87hoKnogI1f4Aq2SeFy5VIIogZmnGJuB6OC38LT8oUpMS/ahhTFvlPFF4SeUmmbPbzTYiUfGRBIcSsZ+HClurR5o3TahB6ZW4I9f5H6MtsdaFX7QiWHznPBNutbYSo1kM/OGAZPAPqaNRlwpd6+jT28WYOzEOv3UD14q0r5xO7nwhIBqfV6vBsaKQRZ90K4iYf/kPomJWz9mmALYm4WpZPvd/bU26t2nh3u6cYntZyeBNEW6ea7LRExKwEIJAa1ItQ6PdsuAOvUe57pRSRXWYXKR2H+ri6J1Fw1K/8CF5ewCD4L4iX59q5HX7lvcKXUlSfaERn/ROYYk+bcKXDqP1TRpP6VMgA==;r07d7VLgvtb7vKX/ZKKLEQ=="
 ---

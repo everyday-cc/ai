@@ -21,7 +21,7 @@ related:
   - title: "'The democratization of AI has never been stronger,' Louder Co. CEO says — here's what that means for smaller businesses"
     excerpt: "What Louder Co. does … Usually, we’ll come into a business, conduct an assessment, find the most impactful improvement areas for their"
     publishedDateTime: 2022-09-28T16:37:00Z
-    webUrl: "https://www.bizjournals.com/houston/news/2022/09/28/andrew-louder-co-texas-business-minds-podcast.html"
+    webUrl: "https://www.bizjournals.com/sanantonio/news/2022/09/28/andrew-louder-co-texas-business-minds-podcast.html"
     type: article
     provider:
       name: The Business Journals

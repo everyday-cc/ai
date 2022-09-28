@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-28T18:13:00Z
 originalUrl: "https://techxplore.com/news/2022-09-amazon-self-driving-sooner-people.html"
 webUrl: "https://techxplore.com/news/2022-09-amazon-self-driving-sooner-people.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: techxplore

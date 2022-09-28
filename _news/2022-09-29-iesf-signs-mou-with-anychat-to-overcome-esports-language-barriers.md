@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-28T19:54:00Z
 originalUrl: "https://www.infobae.com/aroundtherings/press-releases/2022/09/28/iesf-signs-mou-with-anychat-to-overcome-esports-language-barriers/"
 webUrl: "https://www.infobae.com/aroundtherings/press-releases/2022/09/28/iesf-signs-mou-with-anychat-to-overcome-esports-language-barriers/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Infobae

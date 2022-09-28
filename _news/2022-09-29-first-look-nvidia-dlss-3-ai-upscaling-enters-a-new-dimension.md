@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-28T17:47:00Z
 originalUrl: "https://www.eurogamer.net/digitalfoundry-2022-first-look-nvidia-dlss-3-ai-upscaling-enters-a-new-dimension"
 webUrl: "https://www.eurogamer.net/digitalfoundry-2022-first-look-nvidia-dlss-3-ai-upscaling-enters-a-new-dimension"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Eurogamer

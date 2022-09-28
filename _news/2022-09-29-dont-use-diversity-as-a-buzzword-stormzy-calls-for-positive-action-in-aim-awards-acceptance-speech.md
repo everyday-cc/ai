@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-28T19:34:00Z
 originalUrl: "https://metro.co.uk/2022/09/28/stormzy-wants-diversity-to-stop-being-used-as-a-buzzword-in-aim-awards-speech-17470110/"
 webUrl: "https://metro.co.uk/2022/09/28/stormzy-wants-diversity-to-stop-being-used-as-a-buzzword-in-aim-awards-speech-17470110/"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Metro

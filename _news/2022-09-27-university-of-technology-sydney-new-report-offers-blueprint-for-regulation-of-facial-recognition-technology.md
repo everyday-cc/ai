@@ -49,22 +49,6 @@ related:
         width: 860
         height: 573
         isCached: true
-  - title: "Avoiding a surveillance society: How better rules can rein in facial recognition tech"
-    excerpt: "The human face is special. It is simultaneously public and personal. Our faces reveal sensitive information about us: who we are, of course, but also our gender, emotions, health status and more."
-    publishedDateTime: 2022-09-27T15:40:00Z
-    webUrl: "https://techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.html"
-    ampWebUrl: "https://techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 52
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/avoiding-a-surveillanc.jpg"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "Oosto offers advice on facial recognition implementations for stadium security"
     excerpt: "The paper offers advice on how to use computer vision systems with facial recognition to improve safety and security outcomes at large-scale events."
     publishedDateTime: 2022-09-26T17:14:00Z
@@ -174,6 +158,15 @@ related:
         width: 784
         height: 523
         isCached: true
+  - title: "Avoiding a surveillance society: how better rules can rein in facial recognition tech"
+    excerpt: "Facial recognition technology has set us on a path to mass surveillance – but it’s not too late to change course."
+    publishedDateTime: 2022-09-26T20:02:00Z
+    webUrl: "https://theconversation.com/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 12
 
 secured: "+ZvtIgyrDp0mpDUFPRmcKB5fWVOgX23SGI3W7Kgh2m9hc6Krd4Klc7+2tKW03MJ0zMznezk//W0BYoYO7ofRtr4dGCclVjKGpJhtKiFpadMyKhOahechJalFvzYAgCDQ05Kc0YF9M5mFd57jqOcflKg1sHkTXq/J/UlnGDAPjDY1pUrAdHatKI410z/5DWce0b0jGy2Z96dOwl2tEg+IK8spvpPWIPtA5hU0vDkcOROPC4983hmiw6iwP5o1/NsvtSj0nmcwPmDULf+e/RU9mCqKQeTUw24HSG4iW2kDDfMQAj8155FmqRbyTx/9qNx+KZJf1Np0YRYye/ZQvyzUNI2l28QCcrjqx28MhTszxy4=;lOzNjBtWbcCYeB5iyRdlpw=="
 ---

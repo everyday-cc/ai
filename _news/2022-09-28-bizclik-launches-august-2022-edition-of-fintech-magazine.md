@@ -63,6 +63,15 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "Fintech firm CRED named top startup for this year"
+    excerpt: "To compile this year’s list, the company looked at platform data between July 2021 and June 2022 across four pillars: employee growth, jobseeker interest, member engagement within the company and its employees,"
+    publishedDateTime: 2022-09-28T19:30:00Z
+    webUrl: "https://www.financialexpress.com/industry/sme/fintech-firm-cred-named-top-startup-for-this-year/2694465/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 4
 
 secured: "NoGVwQyKSr76Mt7zCm+zpEPcaUL9Uz8HltV8PiG+rdXyyCvOTJpky71kmiQiyvPRPCzlvyKjsJObPmJKUVGZFFSlY+SXbzJN4uBNUHHSeXJ+bs7RAVbWoorjyWpi7MdCaVrVARLaMmIreLGQ9BlE84vi9OuyYCPeQEuA/nBWkVdgOvldzJXlK8+f4L7Q6RLmPuLg8gm2x7SNdeHcPuA8KTnfNIQVVTGA7KWwIqcSQHMLeakP502Zn4e+Q7fa8SOt+Od+yltmaSgI6gpkLHV3H5sK0D2M/kHYWbZiSZz1XKn6CeCyhGQrUaEW+LlyZxTrDR1XZKIyATGYhviynk5TIWmntV0f8iyBaRJftDbI93k=;v0oCaboiZz1bRvEyw0jqFA=="
 ---

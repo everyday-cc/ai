@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-size-share-and-forecast-till-2027-with-top-countries-data-2022-09-28"
 type: article
 quality: 52
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "ChatBot Market Trends, Business Overview, Industry Growth, and Forecast 2022 To 2027"
+    excerpt: "The global ChatBot market size was valued at USD 18633.15 million in 2021 and is expected to expand at a CAGR of"
+    publishedDateTime: 2022-09-28T04:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/chatbot-market-trends-business-overview-industry-growth-and-forecast-2022-to-2027-2022-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Products Market 2022 Geographical Segmentation, Industry Insights, Share, Latest Trends, Size, CAGR and Forecast till 2028"
     excerpt: "Global “Computer Vision Products Market” research report provides a comprehensive overview, industry shares, and"
     publishedDateTime: 2022-09-26T06:53:00Z

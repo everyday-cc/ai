@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-28T13:30:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/09/b29051857/arcion-announces-agentless-change-data-capture-for-azure-sql-server-oracle-sap-hana-and-mysql"
 webUrl: "https://www.benzinga.com/pressreleases/22/09/b29051857/arcion-announces-agentless-change-data-capture-for-azure-sql-server-oracle-sap-hana-and-mysql"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: Benzinga.com

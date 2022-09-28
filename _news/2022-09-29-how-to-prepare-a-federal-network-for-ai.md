@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-28T18:00:00Z
 originalUrl: "https://fedtechmagazine.com/article/2022/09/how-prepare-federal-network-ai"
 webUrl: "https://fedtechmagazine.com/article/2022/09/how-prepare-federal-network-ai"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: https//fedtechmagazine.com

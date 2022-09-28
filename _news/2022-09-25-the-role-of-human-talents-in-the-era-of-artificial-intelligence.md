@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-25T01:45:00Z
 originalUrl: "https://www.macaubusiness.com/the-role-of-human-talents-in-the-era-of-artificial-intelligence/"
 webUrl: "https://www.macaubusiness.com/the-role-of-human-talents-in-the-era-of-artificial-intelligence/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Macau Business

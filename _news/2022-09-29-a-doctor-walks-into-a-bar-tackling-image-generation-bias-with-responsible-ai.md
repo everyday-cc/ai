@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-28T18:07:00Z
 originalUrl: "https://venturebeat.com/ai/doctor-walks-into-bar-image-generation-bias-responsible-ai/"
 webUrl: "https://venturebeat.com/ai/doctor-walks-into-bar-image-generation-bias-responsible-ai/"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: VentureBeat

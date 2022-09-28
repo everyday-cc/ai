@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-28T05:16:00Z
 originalUrl: "https://mynorthwest.com/3652988/amazon-to-release-bedside-sleep-tracker-later-this-year/"
 webUrl: "https://mynorthwest.com/3652988/amazon-to-release-bedside-sleep-tracker-later-this-year/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: MyNorthwest.com

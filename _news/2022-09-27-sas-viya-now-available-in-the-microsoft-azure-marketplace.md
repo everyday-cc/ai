@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/sas-viya-now-avail
 webUrl: "https://markets.businessinsider.com/news/stocks/sas-viya-now-available-in-the-microsoft-azure-marketplace-1031767702"
 type: article
 quality: 99
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -144,6 +144,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
+  - title: "SAS Viya Now Available in Microsoft Azure Marketplace"
+    excerpt: "The SAS Viya analytics platform is now available in the Microsoft Azure Marketplace with the click of a button on a"
+    publishedDateTime: 2022-09-28T19:55:00Z
+    webUrl: "https://www.datanami.com/this-just-in/sas-viya-now-available-in-microsoft-azure-marketplace/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 49
   - title: "Wallaroo Unveils Integration with Microsoft Azure Marketplace, Debuts Latest Edge Environment Technology"
     excerpt: "Wallaroo Labs, developers of a model operations platform for deploying, observing, and managing machine learning in production, is announcing integration of Wallaroo Enterprise Edition with Microsoft Azure Marketplace,"
     publishedDateTime: 2022-09-26T20:10:00Z

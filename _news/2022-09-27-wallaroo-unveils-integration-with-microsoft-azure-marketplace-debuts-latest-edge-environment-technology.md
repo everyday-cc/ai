@@ -154,6 +154,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
+  - title: "SAS Viya Now Available in Microsoft Azure Marketplace"
+    excerpt: "The SAS Viya analytics platform is now available in the Microsoft Azure Marketplace with the click of a button on a"
+    publishedDateTime: 2022-09-28T19:55:00Z
+    webUrl: "https://www.datanami.com/this-just-in/sas-viya-now-available-in-microsoft-azure-marketplace/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 49
 
 secured: "ynz5a6++e3OG4V2dqCkVkUTHZHpsbTmEzM2qVvrHY9oKugQteAD21vJFRu2ZdDDlQrA6AbnZAqWj2cRIgbyMZE+BmS5uPg2J1VeixqY4twB1nGkC8YQHxyBjF4S7JcKhh6SzAukR023nM5KNCT2DaS4JEx43uJoknyT+cUHWrAgHxSTwjwmu50FASGUF9qMj1DMt0Ge2HFbLZGvyho9shL+Y0YlxpyFSKXoet9QkCj1YeXLZ2VsaPTerl1FfCgRY/IAb9GGpLSI1ktDrn/0AMGASfARNEf2mEozW8dAaiJ7bG8xB+POSmKV2fn10P4AS5YnC2kuFLscrokknL/a+IdUoOqIxB9u+bbhs/k9Ta6s=;EdGMkBbmTXCddqD5aF74yw=="
 ---

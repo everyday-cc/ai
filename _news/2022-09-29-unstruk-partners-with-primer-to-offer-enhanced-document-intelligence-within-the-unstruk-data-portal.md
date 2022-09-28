@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-28T18:47:00Z
 originalUrl: "https://www.directionsmag.com/pressrelease/11835"
 webUrl: "https://www.directionsmag.com/pressrelease/11835"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Directions Magazine

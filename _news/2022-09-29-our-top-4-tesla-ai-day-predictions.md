@@ -5,7 +5,12 @@ excerpt: "An Optimus robot prototype, updates to FSD, a Tesla robotaxi and more 
 publishedDateTime: 2022-09-28T19:00:00Z
 originalUrl: "https://techcrunch.com/2022/09/28/our-top-4-tesla-ai-day-predictions/"
 webUrl: "https://techcrunch.com/2022/09/28/our-top-4-tesla-ai-day-predictions/"
+ampWebUrl: "https://techcrunch.com/2022/09/28/our-top-4-tesla-ai-day-predictions/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/28/our-top-4-tesla-ai-day-predictions/amp/"
 type: article
+quality: 106
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -18,7 +23,153 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI Hardware
 
-secured: "JM9PWIL8LNAo6pgGBo2+v6ynjCLG/YitoE0CQ7H/hXt5SdzWXJ4h8Y/209WRohosbVwVStN7b4p6qKkfcBGm5mGFWp4l5LFJINQOssbiJ0j02yu6RzRy1xp5pO1uj543fPZckXPkWmxXbzX2XomKsxre2lIEV0w1q2s9PAcrz4pl8zRvDwkPPBtpcLNyDwTTQF5dr9d4L9k3etFhXSDEu7oTMPd6U0qQPgTB+l3P82dSZpcA2quo59hD1FW5p/5g8qVAYp8fnRpdSiOT+NxnUoLerEeKqZKbn12Z6GeHRYpulnW6y8hiWiSJwX9Ksm9fK6mL89Ci+ih4TW3km7piEhkXDmx8UUPqMzfHAz0tBLYZofwwLBNCmKTkD/6yH/7O8ImxwQnPw9GRk0189x5hnQqBGHamzipr0TMWPvzc0bcI1Fh70sfxgrVr9l1/0sxdg4gOub3TZHoFxn5QZ4+s+/pvVFI3ldkq/e9YvZpX/XXJjx2Ie6Ef4xJMfaklSS7m6SjLTArJK3DGRByU/8IuHQ==;1imrgb0mpcwvE4tiKkx2Rg=="
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2022/09/tesla-ai-day.jpeg?resize=960,1200"
+    width: 960
+    height: 1200
+    isCached: true
+
+related:
+  - title: "Tesla AI Day Updates on Optimus Robot, Self-Driving Cars: How to Watch"
+    excerpt: "Tesla is hiring engineers to make the Tesla Bot for dangerous or boring work. Expect Elon Musk to detail the company's work on self-driving cars, too."
+    publishedDateTime: 2022-09-28T14:15:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-ai-day-updates-on-optimus-robot-self-driving-cars-how-to-watch/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ai-day-updates-on-optimus-robot-self-driving-cars-how-to-watch/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-updates-on-optimus-robot-self-driving-cars-how-to-watch/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 121
+    images:
+      - url: "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Tesla AI Day 2022: Elon Musk's Optimus Robot, How to Watch and More"
+    excerpt: "Engineers are trying to make a Tesla Bot for dangerous or boring work. At AI Day, expect updates on FSD technology for eventual self-driving cars too."
+    publishedDateTime: 2022-09-28T20:44:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-elon-musks-optimus-robot-how-to-watch-and-more/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ai-day-2022-elon-musks-optimus-robot-how-to-watch-and-more/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-2022-elon-musks-optimus-robot-how-to-watch-and-more/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 121
+    images:
+      - url: "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Optimus Is Coming: Are You Ready For Tesla’s Robot Humanoid Invasion?"
+    excerpt: "Tesla will be showing off a working prototype of its Optimus humanoid robot at AI Day next week. Should we be afraid for our lives?"
+    publishedDateTime: 2022-09-24T09:23:00Z
+    webUrl: "https://www.forbes.com/sites/jamesmorris/2022/09/24/optimus-is-coming-are-you-ready-for-teslas-robot-humanoid-invasion/"
+    ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2022/09/24/optimus-is-coming-are-you-ready-for-teslas-robot-humanoid-invasion/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2022/09/24/optimus-is-coming-are-you-ready-for-teslas-robot-humanoid-invasion/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 106
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/632eca782c74404d4244b122/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 791
+        isCached: true
+  - title: "What to expect from Tesla’s AI Day event"
+    excerpt: "Tesla’s cars and self-driving projects are likely to take a backseat to a robot named Optimus. Musk announced the “Tesla Bot” at last year’s AI Day, promising that it would be “friendly” and potentially revolutionize the company’s assembly line and manufacturing business."
+    publishedDateTime: 2022-09-28T13:00:00Z
+    webUrl: "https://www.theverge.com/2022/9/28/23374494/tesla-event-ai-day-robot-elon-musk-rumors-announcements-news"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 88
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/ftQ6dGW3gsYMTqFw9gx8ajM9QD8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23986648/acastro_STK086_03.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "ASX Tech Stocks: Tesla readies robot prototype Optimus for release at AI Day this month"
+    excerpt: "Tesla plans to release prototype humanoid robot at AI Day on Friday Micro-X nabs an extension on miniature baggage scanner deal with the US Department of Homeland Security Superloop picks up VostroNet,"
+    publishedDateTime: 2022-09-25T15:24:00Z
+    webUrl: "https://stockhead.com.au/tech/asx-tech-stocks-tesla-readies-robot-prototype-optimus-for-release-at-ai-day-this-month/"
+    ampWebUrl: "https://stockhead.com.au/tech/asx-tech-stocks-tesla-readies-robot-prototype-optimus-for-release-at-ai-day-this-month/?amp"
+    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/asx-tech-stocks-tesla-readies-robot-prototype-optimus-for-release-at-ai-day-this-month/?amp"
+    type: article
+    provider:
+      name: stockhead
+      domain: stockhead.com.au
+    quality: 83
+    images:
+      - url: "https://stockhead.com.au/wp-content/uploads/2022/09/GettyImages-526637039.jpg"
+        width: 2121
+        height: 1193
+        isCached: true
+  - title: "Tesla AI Day Spotlights Optimus Robot, Self-Driving Cars: Here's How to Watch"
+    excerpt: "Tesla is hiring engineers to build a walking, talking robot called Optimus. Expect Elon Musk to detail the company's work on self-driving cars, too."
+    publishedDateTime: 2022-09-26T18:29:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-ai-day-spotlights-optimus-robot-self-driving-cars-how-to-watch/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 78
+  - title: "Elon Musk’s robot is going to have to work hard to impress at Tesla’s AI Day"
+    excerpt: "Elon Musk is expected to unveil a prototype of his Optimus robot — better known as When Musk announced last August that Tesla was developing a genera"
+    publishedDateTime: 2022-09-28T19:57:00Z
+    webUrl: "https://www.theverge.com/2022/9/28/23376456/elon-musk-tesla-bot-ai-day-event-optimus-prototype-predictions"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 78
+  - title: "Here’s what to expect at Tesla AI day"
+    excerpt: "Tesla Inc's \"AI day\" is back, with investors hoping this time the electric-vehicle maker will show something other than a spandex-clad human mimicking"
+    publishedDateTime: 2022-09-28T19:25:00Z
+    webUrl: "https://www.marketwatch.com/story/heres-what-to-expect-at-tesla-ai-day-11664393141"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+  - title: "Tesla AI Day 2022: Everything You Need To Know"
+    excerpt: "Tesla’s AI day is their annual showcase of the latest technology across the company’s various business units. While Tesla vehicles gain the majority of the press coverage, they have a wide range of different applications and products that they continue to develop and refine."
+    publishedDateTime: 2022-09-27T19:27:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2022/09/27/tesla-ai-day-2022-everything-you-need-to-know/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 66
+  - title: "Tesla AI Day: It's The Battery, Stupid"
+    excerpt: "This article will argue that Tesla, or even the EV space in general, faces a similar situation. Click to read how TSLA leads competitors in battery technology."
+    publishedDateTime: 2022-09-27T04:22:00Z
+    webUrl: "https://seekingalpha.com/article/4543249-tesla-stock-ai-day-its-the-battery-stupid"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 56
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/490597690/image_490597690.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Tesla's New Self-Driving Version 10.69 Is A Big Leap Forward"
+    excerpt: "New version gives us a glimpse into the future with respect to full self-driving on surface streets. Read more here."
+    publishedDateTime: 2022-09-27T18:34:00Z
+    webUrl: "https://seekingalpha.com/article/4543424-tesla-new-self-driving-big-leap-forward"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
+
+secured: "b255VuZVovtAfhggU6s4QoiezIpXCdziuWjqD64jOoNzoHYdNaT+1CLqMqiBb2eWY9Lg3Gvgm/UKcvz9IFR/vPJR65MroSvsE9xOLZGiaAIl2Q15zw09YfBJDXgdCXFefgbIP+PPhGOanghRoTkQ6Uf9wpIi24k6EQSrXMuX3IjWMkVHX80iy/BI195zSB1qdDGXsM4pSo19nU0TbZbwmU/KnReDAeGOO4L5ZiATvKg0aJuzlcMABe/wBrxhkMv5UopBiXVDJJlCiEeBHOUSKAeC8IxouhDsdkOy/YCUFshqTTmnAQW0YBMXkwuxmAABLW36zoxCWRmUPiWunziMsYc+kHE6HReFJJnXYKp/Mo0=;Wto1aKsypghWrDPOJPnhfg=="
 ---
 

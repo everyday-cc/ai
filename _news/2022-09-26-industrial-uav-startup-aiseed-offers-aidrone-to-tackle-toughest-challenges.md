@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-26T07:27:00Z
 originalUrl: "https://www.digitimes.com/news/a20220925VL202.html"
 webUrl: "https://www.digitimes.com/news/a20220925VL202.html"
 type: article
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Digi Times
@@ -13,7 +16,14 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
-secured: "GD6PUq8dq1m4lLl0HTYjzRZVpI6/jbiB69ixAWTz/BFclDt0+Ha8SUV8troNK8QDGK8kN3t5acZx4G2itpTBSzx80cQFP8Bf0A3vXkXialTZlPlv5+7qf2/PPXbVcRoHfRafBfbi1nhGEs2bj/w51Whk88HBa1BsuCl+rMo2Zqz4DVfEjmrNpN9sh6vgeIoa51d/KR/KKrFRyejDS3IkPl0iaKIucHBj/Eef50DDVkj9wzWIQyoj62oT6sobMTMaULIOhkNc0VPhVlF72ll/xpRugqb9r42TTJzRIJJ7uWWOX9SqlFjG2NI9cNTbI6349TcHGzgnlHWjMw9N88grpdSD/0cARsC6/TPRoqKpN3SeoEjMXDCHdZV60bmNOmI1n/hvObJEafBY/e+iRsseg5dhHfZ54EcsdrRX2lpr9ueVWvldqeueRkjufJ16Vgytcf4dU5w3TI+nkJKPu2ei9x1PZrpTKiwUuYAURNND7v8vmS49+CEXQpZNwSkyw5omeiXU+bnXM1Zz9E9hffp3Yg==;XJuKOPBFuUBjV4gxWi44+Q=="
+images:
+  - url: "https://img.digitimes.com/newsshow/20220925vl202_files/1_2b.jpg"
+    width: 1280
+    height: 853
+    isCached: true
+
+secured: "mY1UuCC0XH2XczDJGYiZf/zqRZKg6sKn0jRXYz3m7NDoyUu4t1+TRWmtjlHKySvBadMJdyHfUKPj0JIdYEKWxGWGOEgFSrAbHgEs5ysZv6NuBcQ3DW4N189sRKM8DZiW9Vvx4osH0pifUjlVoPHC0B/muz6WcB2fYeuAHKpv/KTjJ8m6oSqZQB6DDSpd6o0Fd0pzHHeTp0Jh4nE2z18nqE67peQL80DFjBfWuAxJ5X9OBHFPD/UA5XRdQ9rz+6zlaiPyd0FJlN5curof9WW/OrrKXBj5S0y72F55j/fdhC94rx75bNnAKdDdmry2xJbuRlOZ4a8Wh70VoxA2MYUbefLZiEYuxSpq93CsJiC8SFg=;W6VHOj3mRO8GLlsZ4CWnnw=="
 ---
 

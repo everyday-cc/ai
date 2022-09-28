@@ -7,7 +7,7 @@ originalUrl: "https://www.whichcar.com.au/news/driverless-vw-concept-to-kill-sho
 webUrl: "https://www.whichcar.com.au/news/driverless-vw-concept-to-kill-short-flights"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Cruise driverless vehicles involved in 3 separate SF traffic incidents Thursday"
-    excerpt: "SAN FRANCISCO (KRON) — In separate incidents on Thursday night, three Cruise driverless vehicles created disruptions and blocked traffic on the streets of San Francisco, with one vehicle ..."
-    publishedDateTime: 2022-09-24T01:20:00Z
-    webUrl: "https://www.kron4.com/news/cruise-driverless-vehicles-involved-in-two-separate-sf-traffic-incidents-thursday/"
-    ampWebUrl: "https://www.kron4.com/news/cruise-driverless-vehicles-involved-in-two-separate-sf-traffic-incidents-thursday/amp/"
-    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/cruise-driverless-vehicles-involved-in-two-separate-sf-traffic-incidents-thursday/amp/"
-    type: article
-    provider:
-      name: KRON4 News
-      domain: kron4.com
-    quality: 55
-    images:
-      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2022/09/cruise-crash.jpg?w=1280"
-        width: 1280
-        height: 914
-        isCached: true
 
 secured: "q+jApLXjtHiCmnhqCtwGkroWnClBgpbGY9TfXf0FNoYgPvUrOwUO3IAjdC871Yw9c3nrODuNZ8MoM4kvMBLkQe4naQqdYY12OW5RzQCaPlP/Bn+BtUzfLtlMLbfR3WRmJ9qGIU61jy7ZEaBKWCvWGuUIy982owut5yze/pKuMHHxRaOdEImvVb94JTH0YtEE3c1pzvbKdzqcH7Aslt3zcipqcFTCYGIHWCWQQ+2oeRDB4Dfo/clNp+tajQ/+5916MOJN4rb9FNAgFu0fG2d4bshDtcFyMQNZW0iwbX+1S2L7cb+ZTr5jZV7CWMdEHdnTuKJ91UPdExY3/Y9aWel69xHRdgIi27Bm/wuTdNSBSqGhibk7CxrBi+MLHvYT/1+a2Obb85MCjlRohoeH/OmPE72ceAQMCsUawgl80HghTOVszjfJxr5Rx/jlBO8hGbHXL6Hbq/xmOmXfZ/ezX7NHBNS0Wvm21rPQ5LukyFElGFSPAlkGDF4WtiVzEXYcx2tS9fbfjhLTGMe6k0FIW1rdXg==;Q8BQjztwycB69QxzzDjCAQ=="
 ---

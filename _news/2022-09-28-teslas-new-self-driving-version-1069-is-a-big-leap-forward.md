@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla AI Day 2022: Elon Musk's Optimus Robot, How to Watch and More"
+    excerpt: "Engineers are trying to make a Tesla Bot for dangerous or boring work. At AI Day, expect updates on FSD technology for eventual self-driving cars too."
+    publishedDateTime: 2022-09-28T20:44:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-elon-musks-optimus-robot-how-to-watch-and-more/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ai-day-2022-elon-musks-optimus-robot-how-to-watch-and-more/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-2022-elon-musks-optimus-robot-how-to-watch-and-more/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 121
+    images:
+      - url: "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Optimus Is Coming: Are You Ready For Tesla’s Robot Humanoid Invasion?"
     excerpt: "Tesla will be showing off a working prototype of its Optimus humanoid robot at AI Day next week. Should we be afraid for our lives?"
     publishedDateTime: 2022-09-24T09:23:00Z
@@ -50,6 +66,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/632eca782c74404d4244b122/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 791
+        isCached: true
+  - title: "Our top 4 Tesla AI day predictions"
+    excerpt: "An Optimus robot prototype, updates to FSD, a Tesla robotaxi and more on the Dojo supercomputer are what we expect at Tesla AI Day."
+    publishedDateTime: 2022-09-28T19:00:00Z
+    webUrl: "https://techcrunch.com/2022/09/28/our-top-4-tesla-ai-day-predictions/"
+    ampWebUrl: "https://techcrunch.com/2022/09/28/our-top-4-tesla-ai-day-predictions/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/28/our-top-4-tesla-ai-day-predictions/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 106
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/09/tesla-ai-day.jpeg?resize=960,1200"
+        width: 960
+        height: 1200
         isCached: true
   - title: "What to expect from Tesla’s AI Day event"
     excerpt: "Tesla’s cars and self-driving projects are likely to take a backseat to a robot named Optimus. Musk announced the “Tesla Bot” at last year’s AI Day, promising that it would be “friendly” and potentially revolutionize the company’s assembly line and manufacturing business."
@@ -90,6 +122,24 @@ related:
       name: CNET
       domain: cnet.com
     quality: 78
+  - title: "Elon Musk’s robot is going to have to work hard to impress at Tesla’s AI Day"
+    excerpt: "Elon Musk is expected to unveil a prototype of his Optimus robot — better known as When Musk announced last August that Tesla was developing a genera"
+    publishedDateTime: 2022-09-28T19:57:00Z
+    webUrl: "https://www.theverge.com/2022/9/28/23376456/elon-musk-tesla-bot-ai-day-event-optimus-prototype-predictions"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 78
+  - title: "Here’s what to expect at Tesla AI day"
+    excerpt: "Tesla Inc's \"AI day\" is back, with investors hoping this time the electric-vehicle maker will show something other than a spandex-clad human mimicking"
+    publishedDateTime: 2022-09-28T19:25:00Z
+    webUrl: "https://www.marketwatch.com/story/heres-what-to-expect-at-tesla-ai-day-11664393141"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
   - title: "Tesla AI Day 2022: Everything You Need To Know"
     excerpt: "Tesla’s AI day is their annual showcase of the latest technology across the company’s various business units. While Tesla vehicles gain the majority of the press coverage, they have a wide range of different applications and products that they continue to develop and refine."
     publishedDateTime: 2022-09-27T19:27:00Z

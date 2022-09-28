@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-28T19:33:00Z
 originalUrl: "https://techgage.com/article/an-alluring-alchemist-intel-arc-a380-gpu-creator-performance-review/"
 webUrl: "https://techgage.com/article/an-alluring-alchemist-intel-arc-a380-gpu-creator-performance-review/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Techgage

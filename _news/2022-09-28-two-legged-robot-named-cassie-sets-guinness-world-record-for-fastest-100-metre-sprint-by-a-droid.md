@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Oregon State's bipedal robot, Cassie, sets Guinness World Record in 100-meter dash"
+    excerpt: "A bipedal robot named Cassie just set an official Guinness World Record by running 100 meters in 24.73 seconds. With knees that bend like an ostrich's, Cassie is the first bipedal robot to use machine learning to control a running stride on outdoor terrain."
+    publishedDateTime: 2022-09-28T21:29:00Z
+    webUrl: "https://www.cbssports.com/general/news/oregon-states-bipedal-robot-cassie-sets-guinness-world-record-in-100-meter-dash/"
+    ampWebUrl: "https://www.cbssports.com/general/news/oregon-states-bipedal-robot-cassie-sets-guinness-world-record-in-100-meter-dash/amp/"
+    cdnAmpWebUrl: "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/general/news/oregon-states-bipedal-robot-cassie-sets-guinness-world-record-in-100-meter-dash/amp/"
+    type: article
+    provider:
+      name: CBSSports.com
+      domain: cbssports.com
+    quality: 53
+    images:
+      - url: "https://sportshub.cbsistatic.com/i/r/2022/09/28/f1b73e30-0853-4cee-af52-c10150c5d7a8/thumbnail/640x360/d7fdd2e2afb10bf62f6ad1d424043e33/cassie-100m-1.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Robot Developed By US University Runs 100 Metres In 24.73 Seconds, Sets New Guinness World Record"
     excerpt: "Researchers used neural network controllers to make the robot run and stand after the race because Guinness asked for a human-like scenario."
     publishedDateTime: 2022-09-28T11:48:00Z
@@ -71,6 +87,15 @@ related:
         width: 799
         height: 499
         isCached: true
+  - title: "Oregon State University’s Cassie the robot just broke a Guinness World Record"
+    excerpt: "Oregon State University’s very own Cassie just broke the Guinness World Record for the fastest 100 meters by a bipedal robot. Before Cassie’s introduction in 2017, OSU received a 16-month, $1 million grant from Defense Advanced Research Projects Agency to fund the project."
+    publishedDateTime: 2022-09-28T17:56:00Z
+    webUrl: "https://www.koin.com/news/oregon-state-universitys-cassie-the-robot-just-broke-a-guinness-world-record/"
+    type: article
+    provider:
+      name: KOIN 6
+      domain: koin.com
+    quality: 16
 
 secured: "vXPtkRMlPR072oJe2ZOjGtMr7Knxwy7Otmyoa72WJCUBNX9oqGIo50/5NDFdIOWZ9JrhNnwFf82dLbXYDTW3VJq/ZAVXA17wL7hPlrhaKhb4rU3KLbuLWoFJQNRh69mM8IHsAywi3wfxkHv8SZHG87QspzqPSE5q2erhUpIiUtLoD805XnQpZs7HfSO3yIP4TE7QtIpqyAQOQWk8VnlyaYFSQXUOgnuSSCeQt4KPkHqP9/nHX3VIwhD7icoAE7Q6Yw43Q5lZCNjIfNH6zV+VDky2E3nu8wFvzygtDbZlVA1/u//bS3EPf8Q8ha9DgmQwlsGmV5faJfnvbcCaztr3MihO8ZShOKAxMK24YVY4PD8=;yj/M6QHmLktVMt87Vg/Z8A=="
 ---
