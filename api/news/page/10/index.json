@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-09-19-frontline-systems-releases-rasonr-v2023-cloud-platform-with-advanced-model-management-and-decision-intelligence.md",
+      "title": "Frontline Systems Releases RASON(R) V2023 Cloud Platform with Advanced Model Management and Decision Intelligence",
+      "excerpt": "V2023 Cloud Platform with Advanced Model Management and Decision Intelligence Sep 19, 2022 (PRNewswire via COMTEX) --",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/frontline-systems-releases-rasonr-v2023-cloud-platform-with-advanced-model-management-and-decision-intelligence-2022-09-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/frontline-systems-releases-rasonr-v2023-cloud-platform-with-advanced-model-management-and-decision-intelligence-2022-09-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-19-weride-launches-the-first-self-driving-robobus-test-ride-in-saudi-arabia-at-2022-global-ai-summit.md",
       "title": "WeRide Launches the First Self-driving Robobus Test Ride in Saudi Arabia at 2022 Global AI Summit",
       "excerpt": "WeRide launched the first driverless public Robotaxi service in the Middle East in Abu Dhabi, capital of the United Arab Emirates. The launch of the driverless robobus in Riyadh becomes another important milestone in WeRide's global footprint,",
@@ -235,40 +278,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-18-say-hello-to-the-next-generational-ai-earbud-thats-the-most-cost-effective-translation-equipment-for-churches-timekettle.md",
-      "title": "Say Hello to the Next Generational AI Earbud That’s the most cost effective translation equipment for churches – Timekettle",
-      "excerpt": "Listen to the powerful preaching of God’s Word, now in your own language with the AI church translation equipment earbuds. GUANGDONG – SEPTEMBER 18, 2022 – Earbuds have come a long way since ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/say-hello-to-the-next-generational-ai-earbud-thats-the-most-cost-effective-translation-equipment-for-churches-timekettle",
-      "originalUrl": "https://www.digitaljournal.com/pr/say-hello-to-the-next-generational-ai-earbud-thats-the-most-cost-effective-translation-equipment-for-churches-timekettle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-17T22:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-18-floating-shoe-display-and-its-optical-flow-with-computer-vision.md",
       "title": "Floating Shoe Display And Its Optical Flow With Computer Vision",
       "excerpt": "Digitalzakka brings a revolutionary and Jaw-Dropping Floating Shoe Display, innovatively designed by using the latest technology. Technology has done wonders in almost all businesses and has ...",
@@ -342,6 +351,40 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-18-say-hello-to-the-next-generational-ai-earbud-thats-the-most-cost-effective-translation-equipment-for-churches-timekettle.md",
+      "title": "Say Hello to the Next Generational AI Earbud That’s the most cost effective translation equipment for churches – Timekettle",
+      "excerpt": "Listen to the powerful preaching of God’s Word, now in your own language with the AI church translation equipment earbuds. GUANGDONG – SEPTEMBER 18, 2022 – Earbuds have come a long way since they were introduced to the world way back in 1891 by Ernest Mercadier.",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-9-18-say-hello-to-the-next-generational-ai-earbud-thats-the-most-cost-effective-translation-equipment-for-churches-timekettle",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-9-18-say-hello-to-the-next-generational-ai-earbud-thats-the-most-cost-effective-translation-equipment-for-churches-timekettle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-17T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -495,9 +538,9 @@
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?480157",
-          "width": 441,
-          "height": 250,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?59726",
+          "width": 280,
+          "height": 249,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -812,6 +855,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-17-global-artificial-intelligence-ai-in-automotive-and-transportation-market-to-grow-at-20-through-2026.md",
+      "title": "Global Artificial Intelligence (AI) in Automotive and Transportation Market to Grow at 20% Through 2026",
+      "excerpt": "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. This market is likely to grow at a CAGR of around 20% during 2021-26.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-automotive-transportation-market-grow-/2022/09/16/9675469.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-automotive-transportation-market-grow-/2022/09/16/9675469.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
+          "width": 476,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-16T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-17-structural-reforms-and-economic-growth-a-machine-learning-approach.md",
       "title": "Structural Reforms and Economic Growth: A Machine Learning Approach",
       "excerpt": "We overcome these issues by using a machine learning approach (the partial least squares method ... Our findings suggest that structural reforms in the area of product, labor and financial markets as well as the legal system have a significant impact ...",
@@ -942,40 +1028,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-17-global-artificial-intelligence-ai-in-automotive-and-transportation-market-to-grow-at-20-through-2026.md",
-      "title": "Global Artificial Intelligence (AI) in Automotive and Transportation Market to Grow at 20% Through 2026",
-      "excerpt": "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/n28901830/global-artificial-intelligence-ai-in-automotive-and-transportation-market-to-grow-at-20-through-20",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/n28901830/global-artificial-intelligence-ai-in-automotive-and-transportation-market-to-grow-at-20-through-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-17-top-5-stories-of-the-week-ai-revelations-and-apple-moves-to-kill-passwords.md",
       "title": "Top 5 stories of the week: AI revelations and Apple moves to kill passwords",
       "excerpt": "Revelations, innovations and questions about AI unfolded in VentureBeat’s news coverage this week. Deep learning turned 10 and insights from the field’s top leaders like Yann LeCun and Geoffrey Hinton predict that there’s no sign of slowdown for deep learning anytime soon.",
@@ -1067,49 +1119,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-cognitive-health-may-benefit-from-balanced-meal-timing.md",
-      "title": "Cognitive health may benefit from balanced meal timing",
-      "excerpt": "However, evidence regarding the relationship between TPEI and cognitive function at the population level is relatively lacking. Previous studies in animal models have shown that the disruption in ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-09-cognitive-health-benefit-meal.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-09-cognitive-health-benefit-meal.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/cognitive-health-may-b.jpg",
-          "width": 707,
-          "height": 327,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-09-cognitive-health-benefit-meal.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-cognitive-health-benefit-meal.amp",
-      "publishedDateTime": "2022-09-16T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

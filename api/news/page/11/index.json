@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-09-17-cognitive-health-may-benefit-from-balanced-meal-timing.md",
+      "title": "Cognitive health may benefit from balanced meal timing",
+      "excerpt": "However, evidence regarding the relationship between TPEI and cognitive function at the population level is relatively lacking. Previous studies in animal models have shown that the disruption in ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-09-cognitive-health-benefit-meal.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-09-cognitive-health-benefit-meal.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/cognitive-health-may-b.jpg",
+          "width": 707,
+          "height": 327,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-09-cognitive-health-benefit-meal.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-cognitive-health-benefit-meal.amp",
+      "publishedDateTime": "2022-09-16T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-17-decoding-canine-cognition-machine-learning-gives-glimpse-of-how-a-dogs-brain-represents-what-it-sees.md",
       "title": "Decoding canine cognition: Machine learning gives glimpse of how a dog's brain represents what it sees",
       "excerpt": "Scientists have decoded visual images from a dog's brain, offering a first look at how the canine mind reconstructs what it sees. The Journal of Visualized Experiments published the research done at Emory University.",
@@ -41,6 +84,49 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-diet-could-play-a-role-in-cognitive-function-across-diverse-races-and-ethnicities.md",
+      "title": "Diet could play a role in cognitive function across diverse races and ethnicities",
+      "excerpt": "Dietary choices and their consequences may certainly influence cognitive function. A new study led by investigators at Brigham and Women's Hospital, a founding member of the Mass General Brigham ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/diet-could-play-a-role.jpg",
+          "width": 1280,
+          "height": 703,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-diet-role-cognitive-function-diverse.amp",
+      "publishedDateTime": "2022-09-16T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -709,40 +795,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-16-diet-could-play-a-role-in-cognitive-function-across-diverse-races-and-ethnicities.md",
-      "title": "Diet could play a role in cognitive function across diverse races and ethnicities",
-      "excerpt": "Dietary choices and their consequences may certainly influence cognitive function ... Metabolon offers biochemical profiling services and is developing molecular diagnostic assays detecting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/964717",
-      "originalUrl": "https://www.eurekalert.org/news-releases/964717",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-16-raleigh-startup-diveplane-aims-to-make-ai-ethical-we-asked-its-ceo-what-that-means.md",
       "title": "Raleigh startup Diveplane aims to make AI ethical. We asked its CEO what that means.",
       "excerpt": "Raleigh startup Diveplane aims to make AI ethical. We asked its CEO what that means. Diveplane In today’s world, artificial intelligence is used to make some big decisions. Colleges rely on it ...",
@@ -1110,49 +1162,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-google-and-oxford-scientists-claim-ai-might-destroy-mankind-in-future.md",
-      "title": "Google and Oxford scientists claim AI might destroy mankind in future",
-      "excerpt": "A paper on the matter, co-authored by Google DeepMind and Oxford researchers, was published at the end of August in the AI magazine. The paper highlights that advanced machines in the future will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesstoday.in/latest/world/story/google-and-oxford-scientists-claim-ai-might-destroy-mankind-in-future-347411-2022-09-16",
-      "originalUrl": "https://www.businesstoday.in/latest/world/story/google-and-oxford-scientists-claim-ai-might-destroy-mankind-in-future-347411-2022-09-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202209/ai-sixteen_nine.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businesstoday.in/amp/latest/world/story/google-and-oxford-scientists-claim-ai-might-destroy-mankind-in-future-347411-2022-09-16",
-      "cdnAmpWebUrl": "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/latest/world/story/google-and-oxford-scientists-claim-ai-might-destroy-mankind-in-future-347411-2022-09-16",
-      "publishedDateTime": "2022-09-16T00:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Today",
-        "domain": "businesstoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

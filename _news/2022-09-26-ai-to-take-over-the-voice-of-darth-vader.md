@@ -138,7 +138,7 @@ related:
     provider:
       name: tvbeurope.com
       domain: tvbeurope.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.tvbeurope.com/wp-content/uploads/2022/09/Darth-Vader.jpg"
         width: 900

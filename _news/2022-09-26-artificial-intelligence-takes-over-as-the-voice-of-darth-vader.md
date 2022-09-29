@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-26T08:31:00Z
 originalUrl: "https://www.tvbeurope.com/audio/artificial-intelligence-takes-over-as-the-voice-of-darth-vader"
 webUrl: "https://www.tvbeurope.com/audio/artificial-intelligence-takes-over-as-the-voice-of-darth-vader"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.tvbeurope.com/wp-content/uploads/2022/09/Darth-Vader.jpg"

@@ -2,6 +2,49 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2022-08-09-baidu-approved-for-chinas-first-driverless-taxis.md",
+      "title": "Baidu approved for China’s first driverless taxis",
+      "excerpt": "Baidu Inc (百度) has won approval to deploy the first fully autonomous self-driving taxis on China’s roads, giving it an edge over rivals such as Pony.ai Inc (小馬智行) and XPeng Inc (小鵬汽車). The tech giant has secured permits to operate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.taipeitimes.com/News/biz/archives/2022/08/09/2003783198",
+      "originalUrl": "https://www.taipeitimes.com/News/biz/archives/2022/08/09/2003783198",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.taipeitimes.com/images/2022/08/09/P11-220809-308.jpg",
+          "width": 787,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Taipei Times",
+        "domain": "taipeitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-09-kloudpad-to-start-worlds-biggest-digital-worker-services-centre-in-kochi.md",
       "title": "Kloudpad to start world’s biggest digital worker services centre in Kochi",
       "excerpt": "Tapping into the huge potential of digital worker services for automating business ... or virtual employees that are developed using cognitive automation technology platforms, the company ...",
@@ -1084,57 +1127,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-all-this-destiny-2-lightfall-concept-art-is-fake-an-ai-made-it-in-minutes.md",
-      "title": "All This ‘Destiny 2’ Lightfall Concept Art Is Fake, An AI Made It In Minutes",
-      "excerpt": "That’s how I’ve felt when I discovered MidJourney, a new AI bot on Discord that generates art with minimal prompting, which I’ve now mostly used to create fake, but weirdly believably concept art for Destiny 2 expansions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/paultassi/2022/08/08/all-this-destiny-2-lightfall-concept-art-is-fake-an-ai-made-it-in-minutes/",
-      "originalUrl": "https://www.forbes.com/sites/paultassi/2022/08/08/all-this-destiny-2-lightfall-concept-art-is-fake-an-ai-made-it-in-minutes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f11d5b6053234a05d408d0/0x0.jpg?format=jpg&crop=662,372,x0,y238,safe&width=1200",
-          "width": 662,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2022/08/08/all-this-destiny-2-lightfall-concept-art-is-fake-an-ai-made-it-in-minutes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2022/08/08/all-this-destiny-2-lightfall-concept-art-is-fake-an-ai-made-it-in-minutes/amp/",
-      "publishedDateTime": "2022-08-08T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

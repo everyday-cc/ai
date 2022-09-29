@@ -2,6 +2,49 @@
   "page": 144,
   "value": [
     {
+      "path": "_news/2022-06-08-verilys-new-collaboration-to-change-prostate-cancer-digital-pathology.md",
+      "title": "Verily’s New Collaboration to Change Prostate Cancer Digital Pathology",
+      "excerpt": "The agreement between the two companies will bring together Verily’s artificial intelligence algorithms with Lumea ... and guide prostate cancer therapy selection with improved objectivity and efficiency. Currently, pathologists use the Gleason grading ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/digital-health/verilys-new-collaboration-change-prostate-cancer-digital-pathology",
+      "originalUrl": "https://www.mddionline.com/digital-health/verilys-new-collaboration-change-prostate-cancer-digital-pathology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/IMG_2022-3-17-154850.jpg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-08-what-do-sae-automated-driving-levels-mean-anyway.md",
       "title": "What Do SAE Automated Driving Levels Mean Anyway?",
       "excerpt": "Waymo! This is why YouTube is clogged with horrifying videos ... Related: Think You Could Win an Autonomous Car Race on an Artificial Intelligence Controlled Course? “This has the implication that the higher the level, then the better, or more advanced ...",
@@ -1071,57 +1114,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-ai-may-be-more-effective-than-humans-for-business-use-cases-redbox-report.md",
-      "title": "AI may be more effective than humans for business use cases: Redbox report",
-      "excerpt": "Industries like healthcare and ecommerce are utilizing AI to enhance employees’ productivity by simplifying monotonous office tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/07/ai-may-be-more-effective-than-humans-for-business-use-cases-redbox-report/",
-      "originalUrl": "https://venturebeat.com/2022/06/07/ai-may-be-more-effective-than-humans-for-business-use-cases-redbox-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1307770579-e1652718837966.jpg?fit=800%2C534&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/07/ai-may-be-more-effective-than-humans-for-business-use-cases-redbox-report/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/07/ai-may-be-more-effective-than-humans-for-business-use-cases-redbox-report/amp/",
-      "publishedDateTime": "2022-06-07T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

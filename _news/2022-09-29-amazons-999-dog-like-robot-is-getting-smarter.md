@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Amazon's $999 dog-like robot is getting smarter"
-excerpt: "The robot -- not unlike an Alexa on wheels -- uses voice-recognition software, cameras, artificial intelligence, mapping technology and voice- and face-recognition sensors as it zooms from room to room, capturing live video and learning your habits."
-publishedDateTime: 2022-09-28T19:44:00Z
-originalUrl: "https://www.abc12.com/news/business/amazons-999-dog-like-robot-is-getting-smarter/article_3690ca86-9cb6-5754-ba4f-66f296fcb3d0.html"
-webUrl: "https://www.abc12.com/news/business/amazons-999-dog-like-robot-is-getting-smarter/article_3690ca86-9cb6-5754-ba4f-66f296fcb3d0.html"
+excerpt: "The company is doubling down on new features for Astro, its dog-like robot, to help it better patrol the household when the owners are away."
+publishedDateTime: 2022-09-29T03:00:00Z
+originalUrl: "https://abc7chicago.com/amazon-astro-robot-home/12277436/"
+webUrl: "https://abc7chicago.com/amazon-astro-robot-home/12277436/"
+ampWebUrl: "https://abc7chicago.com/amp/amazon-astro-robot-home/12277436/"
+cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/amazon-astro-robot-home/12277436/"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: ABC12
-  domain: abc12.com
+  name: ABC 7 Chicago
+  domain: abc7chicago.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/abc12.com/content/tncms/assets/v3/editorial/5/1b/51b2b4b7-01dc-5ec2-8c79-60c2ecbef134/6334a270cd352.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://cdn.abcotvs.com/dip/images/12277437_hypatia-h_0b5aba8c1c96ec0e59a09a2477ed34ab-h_820e1c51c7d8e9f3e3f47e9713a79598.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
-secured: "xmmlmWymXnuqJQqqZdN8wGNuz23dielfu4NQkEMfcbR8Oj6qJYk/UtHZe3O5urnhJaz3T/uAUs3K1H1KLdvYKMTI3fXuFFcDxSWspb8YA6u54v/qW2aV2JSRKScCotERcGYi+cEWmA423lnCIKNg+q320+lCJf2G9fCU1t+ZuWST0Dl6GEOdp07N0MQ6N9pHH/rop4RecbaqVPJ1fBWMyoVnYppXq0XN/VrPRr+sDj1irE3mAeFA5Ad6rh2+G88wVsE/uHIiBeLzDabPNDboZSTNgeyQsBrakdeLllVhmGI0LalCnbMthMBoD9oJ6rRKvMqODQckc3pF+EP3JNCeFHWydOi6k1/Ln3k6houTT+Q=;C8LpCVj5Q0A+10vP51Ws/g=="
+secured: "ZVApnNhsSu5MgSlB8e8NrDXOQ+XzQFCHzZs1dBFH3o3nf96XWZXcaVfafMkPBaGshW8MHzf2EakX7DumuMVFm0pPtUUDX1m6e0+e1OIESu58fuwGNoTBrwMSzt6d1NUYgtGYHZeAOrFfPFY3nAir2Q4076tl+wQSs34XSQQXePqijSr5vfVoClDaS3han7Rm90i29qH8R+CKW12ApZF6VPJXCCWIF0e/urFxVmDtsTbns4B0npA76RPxM8YJWp1Ve9z3UW54pcADEdUm1NI/33vRR1YLbV8uPttCL3dgiUep68oiaiGbU80nT6WWtqbsOsbTS54sr/f/L67Cw0YJmLVxa/41dwGkII0V/tWSH60=;YayiMVlyx3Qtto4UmxKBaw=="
 ---
 

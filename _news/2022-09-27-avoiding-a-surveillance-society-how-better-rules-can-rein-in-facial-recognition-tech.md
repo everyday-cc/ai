@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Avoiding a surveillance society: how better rules can rein in facial recognition tech"
-excerpt: "The Facial Recognition Model Law Project, to which this article refers, was undertaken by HTI, with funding from UTS and support from the UTS Centre for Social Justice & Inclusion. UTS has ..."
-publishedDateTime: 2022-09-27T01:40:00Z
-originalUrl: "https://theconversation.com/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
-webUrl: "https://theconversation.com/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
-ampWebUrl: "https://theconversation.com/amp/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
+title: "Avoiding a surveillance society: How better rules can rein in facial recognition tech"
+excerpt: "The human face is special. It is simultaneously public and personal. Our faces reveal sensitive information about us: who we are, of course, but also our gender, emotions, health status and more."
+publishedDateTime: 2022-09-27T15:40:00Z
+originalUrl: "https://techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.html"
+webUrl: "https://techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.html"
+ampWebUrl: "https://techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.amp"
 type: article
 quality: 52
 heat: -1
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/486445/original/file-20220926-14387-rumoex.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-    width: 320
-    height: 213
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/avoiding-a-surveillanc.jpg"
+    width: 1356
+    height: 668
     isCached: true
 
 related:
@@ -110,20 +110,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Can Government Be Trusted With Facial Recognition Technology?"
-    excerpt: "During the Covid-19 lockdowns, India’s Defense Research and Development Organization (DRDO) developed a facial recognition system that could identify individuals even if they are wearing a mask. But with great power comes great responsibility."
-    publishedDateTime: 2022-09-24T11:00:00Z
-    webUrl: "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/can-government-be-trusted-facial"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 39
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/2021-06-21T000000Z_571542026_RC205O9AFD53_RTRMADP_3_EU-TECH-ARTIFICIALINTELLIGENCE.JPG.jpg"
-        width: 1222
-        height: 815
-        isCached: true
   - title: "Push for new law to regulate facial recognition technology in Australia"
     excerpt: "Academics have written a model law suggesting how the regulation of facial recognition technology in Australia could work."
     publishedDateTime: 2022-09-26T21:36:00Z
@@ -176,6 +162,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "oZQeuIB2fCpqg/P0zOMp2TuFlIG2pbhgIX2zMdGJxRHNKk/JhX167xkj630PXfvYmxN80gVCUAtucULR3hGQBx++dGtPWI7mtykOQ09wHr0srHSm7BiwhTXNwl3t/Xd7CMA6g7WZPviMDRY+f5uZQlEW1n6UrfuDF4wgJ3QLz2+looBUoPiWUPIPAEHeBmG6kHOj9IBQ+xCNgbesAqeSVuWWr+GWZTg7xP6KWd6dM/FOY0y1TLMAeyyCYo+tRRUwXhFdfxh5O7CUDDsI1JogLDqUN07+TTNACQq36rvawK/RcnCx9HAzBFNU/BbBGEpFraMygE09X3ZmRda6Zc1mOoGEJo6FyrN2sMnSRvUd0js=;Uh4jsIU4pTJz6cD86lUWcQ=="
+secured: "tzvhnAgVGfBnt4HIv3bpd/aSJPqwi6CHwHsUQqiE1B8kb4/GUXYuEIhUKVy5d1AVMbBOYK+OURL9pI+XlRDCHx0Ay/ffKnnFUE0M8HnksWSdH/CaioAclUA40EhFffOn4zQg4/PrODv1l9XFS3vEcvbr0GxjNx8khSHI4HwSoNeKxB9iE/oR6XNUyzZgWsWqqmsxHeYhAVAu9pLDlNQNS+tTtbCT8WXOQgTT511AZTAEfVw5oq6VvNO7e74OBJIgCAKi4zX5T7m3siKjheh8SsHz7gEIWs7kzMRdPvIUvot0/toRudDu6QHTG9zg1eDbGWe4Nupwv5MS2Li9tWOoMd0ESQHN07G2kOW/Vh/5z1o=;rUii9jjgJe+RPhf3g3RkTg=="
 ---
 

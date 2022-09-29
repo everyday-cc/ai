@@ -2,6 +2,49 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2022-08-29-bridgestone-and-aws-announce-strategic-relationship-focused-on-platform-development-and-launch-of-new-customer-solutions.md",
+      "title": "Bridgestone and AWS Announce Strategic Relationship Focused on Platform Development and Launch of New Customer Solutions",
+      "excerpt": "Bridgestone will utilize AWS capabilities to accelerate its digital platform development and launch new customer solutions such as a services marketplace to support last-mile delivery and fleet customers.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/technology-web-services-bridgestone-corp-climate-and-environment-d974b8718c8110466e2eb7c1c35891d8",
+      "originalUrl": "https://apnews.com/article/technology-web-services-bridgestone-corp-climate-and-environment-d974b8718c8110466e2eb7c1c35891d8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-university-of-florida-partners-with-sas-to-tackle-water-quality-challenges-with-analytics.md",
       "title": "University of Florida partners with SAS to tackle water quality challenges with analytics",
       "excerpt": "The project will evaluate the connections between water quality and key economic sectors in the region. As part of the yearlong project, SAS and CCS will use SAS® Viya® on Microsoft Azure to develop a web-based water analytics platform to integrate a diversity of data streams to facilitate scientific research,",
@@ -1120,49 +1163,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-overview-scope-and-advancement-outlook-till-2028.md",
-      "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market Overview, Scope and Advancement Outlook Till 2028",
-      "excerpt": "The Artificial Intelligence and Robotics in Aerospace and Defense market reports provide a detailed analysis of",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-overview-scope-and-advancement-outlook-till-2028-2022-08-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-overview-scope-and-advancement-outlook-till-2028-2022-08-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-28T23:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

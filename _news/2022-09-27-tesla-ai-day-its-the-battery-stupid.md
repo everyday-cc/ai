@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Optimus Is Coming: Are You Ready For Tesla’s Robot Humanoid Invasion?"
-    excerpt: "Tesla will be showing off a working prototype of its Optimus humanoid robot at AI Day next week. Should we be afraid for our lives?"
-    publishedDateTime: 2022-09-24T09:23:00Z
-    webUrl: "https://www.forbes.com/sites/jamesmorris/2022/09/24/optimus-is-coming-are-you-ready-for-teslas-robot-humanoid-invasion/"
-    ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2022/09/24/optimus-is-coming-are-you-ready-for-teslas-robot-humanoid-invasion/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2022/09/24/optimus-is-coming-are-you-ready-for-teslas-robot-humanoid-invasion/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/632eca782c74404d4244b122/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 791
-        isCached: true
   - title: "Our top 4 Tesla AI day predictions"
     excerpt: "An Optimus robot prototype, updates to FSD, a Tesla robotaxi and more on the Dojo supercomputer are what we expect at Tesla AI Day."
     publishedDateTime: 2022-09-28T19:00:00Z

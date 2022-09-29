@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ai-day-updates-on-optimus
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-updates-on-optimus-robot-self-driving-cars-how-to-watch/"
 type: article
 quality: 121
-heat: 231
+heat: 221
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Optimus Is Coming: Are You Ready For Tesla’s Robot Humanoid Invasion?"
-    excerpt: "Tesla will be showing off a working prototype of its Optimus humanoid robot at AI Day next week. Should we be afraid for our lives?"
-    publishedDateTime: 2022-09-24T09:23:00Z
-    webUrl: "https://www.forbes.com/sites/jamesmorris/2022/09/24/optimus-is-coming-are-you-ready-for-teslas-robot-humanoid-invasion/"
-    ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2022/09/24/optimus-is-coming-are-you-ready-for-teslas-robot-humanoid-invasion/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2022/09/24/optimus-is-coming-are-you-ready-for-teslas-robot-humanoid-invasion/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/632eca782c74404d4244b122/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 791
         isCached: true
   - title: "Our top 4 Tesla AI day predictions"
     excerpt: "An Optimus robot prototype, updates to FSD, a Tesla robotaxi and more on the Dojo supercomputer are what we expect at Tesla AI Day."

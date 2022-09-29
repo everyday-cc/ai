@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2022/09/26/1060023/wayve-ai-driverless
 ampWebUrl: "https://www.technologyreview.com/2022/09/26/1060023/wayve-ai-driverless-vehicles-cars-vans-scale-up/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/26/1060023/wayve-ai-driverless-vehicles-cars-vans-scale-up/amp/"
 type: article
-quality: 61
-heat: 61
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI
   - Natural Language Processing
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2022/09/Wayve-Generalisation-width-2888px.jpg?w=2888"

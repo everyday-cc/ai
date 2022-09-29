@@ -55,21 +55,21 @@ related:
         width: 860
         height: 573
         isCached: true
-  - title: "Avoiding a surveillance society: how better rules can rein in facial recognition tech"
-    excerpt: "The Facial Recognition Model Law Project, to which this article refers, was undertaken by HTI, with funding from UTS and support from the UTS Centre for Social Justice & Inclusion. UTS has ..."
-    publishedDateTime: 2022-09-27T01:40:00Z
-    webUrl: "https://theconversation.com/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
-    ampWebUrl: "https://theconversation.com/amp/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
+  - title: "Avoiding a surveillance society: How better rules can rein in facial recognition tech"
+    excerpt: "The human face is special. It is simultaneously public and personal. Our faces reveal sensitive information about us: who we are, of course, but also our gender, emotions, health status and more."
+    publishedDateTime: 2022-09-27T15:40:00Z
+    webUrl: "https://techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.html"
+    ampWebUrl: "https://techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.amp"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
+      name: techxplore
+      domain: techxplore.com
     quality: 52
     images:
-      - url: "https://images.theconversation.com/files/486445/original/file-20220926-14387-rumoex.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/avoiding-a-surveillanc.jpg"
+        width: 1356
+        height: 668
         isCached: true
   - title: "Oosto offers advice on facial recognition implementations for stadium security"
     excerpt: "The paper offers advice on how to use computer vision systems with facial recognition to improve safety and security outcomes at large-scale events."
@@ -123,20 +123,6 @@ related:
       - url: "https://images.7news.com.au/publication/C-8374360/efa1cb6a45f6482d0d228bf136841cc1073ef78f-16x9-x0y168w2029h1141.jpg?imwidth=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Can Government Be Trusted With Facial Recognition Technology?"
-    excerpt: "During the Covid-19 lockdowns, India’s Defense Research and Development Organization (DRDO) developed a facial recognition system that could identify individuals even if they are wearing a mask. But with great power comes great responsibility."
-    publishedDateTime: 2022-09-24T11:00:00Z
-    webUrl: "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/can-government-be-trusted-facial"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 39
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/2021-06-21T000000Z_571542026_RC205O9AFD53_RTRMADP_3_EU-TECH-ARTIFICIALINTELLIGENCE.JPG.jpg"
-        width: 1222
-        height: 815
         isCached: true
   - title: "Push for new law to regulate facial recognition technology in Australia"
     excerpt: "Academics have written a model law suggesting how the regulation of facial recognition technology in Australia could work."

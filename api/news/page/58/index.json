@@ -2,6 +2,58 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2022-08-12-podcast-transcript-can-ai-and-it-teams-coexist.md",
+      "title": "Podcast transcript: Can AI and IT teams coexist?",
+      "excerpt": "The past few years have been a boon time for AI with machine learning tools and use cases growing in number and complexity. Larger companies have been gradually investing in the infrastructure and skills needed to deploy AI systems in the field,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368805/podcast-transcript-can-ai-and-it-teams-coexist",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368805/podcast-transcript-can-ai-and-it-teams-coexist",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1660235392/itpro/Podcast%20images/The_IT_Pro_Podcast_transcript_-_Can_AI_and_IT_teams_coexist.jpg",
+          "width": 375,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-11T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-08-12-metas-new-ai-powered-chatbot-takes-unexpected-digs-at-ceo-mark-zuckerberg.md",
       "title": "Meta's New AI-Powered Chatbot Takes Unexpected Digs At CEO Mark Zuckerberg",
       "excerpt": "Tech giant Meta has recently launched its most advanced conversational artificial intelligence (AI) chatbot named BlenderBot 3.",
@@ -1159,49 +1211,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-artificial-intelligence-improves-outcomes-of-cognitive-behavioral-therapy-in-chronic-pain-jama.md",
-      "title": "Artificial intelligence improves outcomes of cognitive behavioral therapy in chronic pain: JAMA",
-      "excerpt": "USA: Use of artificial intelligence for adjusting treatment in cognitive behavioral therapy intervention for chronic pain (AI-CBT-CP) can achieve noninferior and possibly better outcomes relative to standard cognitive behavioral therapy while increasing access and reducing therapist costs,",
-      "sourceUrl": null,
-      "webUrl": "https://medicaldialogues.in/medicine/news/artificial-intelligence-improves-outcomes-of-cognitive-behavioral-therapy-in-chronic-pain-jama-97291",
-      "originalUrl": "https://medicaldialogues.in/medicine/news/artificial-intelligence-improves-outcomes-of-cognitive-behavioral-therapy-in-chronic-pain-jama-97291",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medicaldialogues.in/h-upload/2022/08/09/182903-untitled-design-2022-08-09t135154100.jpg",
-          "width": 1500,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicaldialogues.in/amp/medicine/news/artificial-intelligence-improves-outcomes-of-cognitive-behavioral-therapy-in-chronic-pain-jama-97291",
-      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/medicine/news/artificial-intelligence-improves-outcomes-of-cognitive-behavioral-therapy-in-chronic-pain-jama-97291",
-      "publishedDateTime": "2022-08-11T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily",
-        "domain": "medicaldialogues.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }
