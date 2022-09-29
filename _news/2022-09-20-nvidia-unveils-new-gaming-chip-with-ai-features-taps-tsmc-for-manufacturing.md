@@ -15,12 +15,6 @@ topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://s.yimg.com/uu/api/res/1.2/8TmQ.W.852u0apPZA6Qgnw--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/48dafea4d69472a8a6b88f609e4dfbbf"
-    width: 800
-    height: 533
-    isCached: true
-
-secured: "AZKeIgVNiAHTm+0FHVYZrtyeNIjzamzZfl3XBuCJWbTzomgDlLdHN4oBBlDEmW+ZYu5R22e+cC/rcpfj2VdQ0buDgivSJPdWY/3J9IwrmMXV6i9QwVFKIRWEN44nutvVGzIoqFhQQJV9tPHC0DSq2vUv8mJAdaqmvnT58c4+6WylUAsMeePBnwH1mHGaNh4K6pXXXHjZY5htmatewWkRPhqK1W+g2b9SA+rmbhCL0p6dmoiHKadK3temXtcW3uo4mFoVlGoCFtmwR7u7IZczr3Y7/e/Iaxz3vcaE1Z2dub8c8U3zJaB40fp51jZj+j+KiMONZ2CGt5+C6E18dQ3OOU1ohHABt2oxf/EZrF0Sqk8=;cyxkYPY/nF/jCSNKunWjCA=="
+secured: "NFBtiH8n8Of2KpfTqa30Gj4f84FDzCBFUofoPK6oqpp/9+3eQj7EGi/gSnd/zJN3det9u6c8jV2g3RZ7ICZNDw1ciNfYq0cTgtdzeF/ih8S3pQPYVPPI+pvqXi8CxSBu33KBaivrxhWd/lknNIUZb2YnTCNZY7LJzkCQ2FBpIsqDTAV/ocmjbhyCTmO3731nySw9w0EGGlj0gVJpCFMRhg/0sgmsZSaIoalqjQGyP5iiDvWthYpqSVU4duFLuvO1XoPLTBNsQwz6Rq0YplRh598DJLItd7s5suNIMzBKWwymHup6ilMgLnO4huqYYyOhfS4YqsN1g1dBt6+FKBrgDIQP63iWIj5aWP6JRazkGNU=;cMHR90ZXoNlBhLeul0qLSw=="
 ---
 
