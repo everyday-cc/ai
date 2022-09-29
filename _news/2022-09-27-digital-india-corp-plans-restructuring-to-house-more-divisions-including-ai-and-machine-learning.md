@@ -25,22 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "‘Working With AI’ Review: Learning to Love the Machine"
-    excerpt: "A compendium of case studies in which corporations stopped worrying and introduced artificial intelligence into their workflow."
-    publishedDateTime: 2022-09-25T18:59:00Z
-    webUrl: "https://www.wsj.com/articles/working-with-ai-review-learning-to-love-the-machine-11664135970"
-    ampWebUrl: "https://www.wsj.com/amp/articles/working-with-ai-review-learning-to-love-the-machine-11664135970"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/working-with-ai-review-learning-to-love-the-machine-11664135970"
+  - title: "How AI Can Streamline Sales And Operations Planning"
+    excerpt: "Business leaders need to remember that making money is not only about bringing in more of it; learning how to stop losing it due to operational inefficiencies is equally important."
+    publishedDateTime: 2022-09-29T10:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/29/how-ai-can-streamline-sales-and-operations-planning/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/29/how-ai-can-streamline-sales-and-operations-planning/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/29/how-ai-can-streamline-sales-and-operations-planning/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://images.wsj.net/im-630630/social"
-        width: 1279
-        height: 640
+      - url: "https://imageio.forbes.com/specials-images/imageserve/624ee96fdaa9eb3a4c56cc31/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 788
         isCached: true
+  - title: "How To Use Machine Learning To Create A Portfolio Hedging Strategy"
+    excerpt: "What Most Hedging Looks Like Today. Let’s start by exploring the status quo, where an investor may treat shorting like slapping a bandage on the broader problem of portfolio ris"
+    publishedDateTime: 2022-09-29T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/29/how-to-use-machine-learning-to-create-a-portfolio-hedging-strategy/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62e7eff8bb97f2f005b0c77c/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Chipotle Is Testing More Artificial Intelligence Solutions To Improve Operations"
+    excerpt: "Chipotle is now testing an AI-based kitchen management system that provides “demand-based cooking and ingredient preparation forecasts,” and is also expanding its Chippy AI test to a restaurant in California."
+    publishedDateTime: 2022-09-27T12:05:00Z
+    webUrl: "https://www.forbes.com/sites/aliciakelso/2022/09/27/chipotle-is-testing-more-artificial-intelligence-solutions-to-improve-operations/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 42
 
 secured: "8qAgD6jpGzoM83jhJLEffCk0zBVO1db6udSL5xxeHEXtT5W2qIbbgOaN+BIsdsZSqRWWILsDdFbmnlzo0RNzWfl2RBLHMNHawtBgKhRKoiqdkStOPzPfXJI+TlVoctScrT0tV5iJ9T+nRtTKBdQDdLGsLHqt56UjKpdpFbPpqSbdqH2fF+JUbw9UNr/Gnh0C5NQLS34VisZYQWuOAz80cCrPFbksNusAhTDa9P6nHZ1KpcI81fBNpJlfxv4tDkAZL/66h421URRu8IvmBHMcr6dVPg3q8IB5121pqIAQE7SPmU8WoxHe0EF2clnPaz3dD2Z6IJ56er/E5h80Y7fScr2HA+71qnjPjUA/Pp6/nV0=;UfQpp3adnaR9NoWNi2bd2A=="
 ---

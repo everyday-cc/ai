@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-07-25-real-driverless-cars-are-now-legal-in-shenzhen-chinas-tech-hub.md",
+      "title": "Real driverless cars are now legal in Shenzhen, China’s tech hub",
+      "excerpt": "There are plenty of autonomous driving vehicles testing on the roads of Shenzhen today: Pony.ai, Baidu, DeepRoute ... the owner or manager of the self-driving vehicle is subject to handling ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/25/real-driverless-cars-legal-in-chinas-shenzhen/",
+      "originalUrl": "https://techcrunch.com/2022/07/25/real-driverless-cars-legal-in-chinas-shenzhen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/deeproute-robotaxi.jpeg?w=1000",
+          "width": 1000,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/25/real-driverless-cars-legal-in-chinas-shenzhen/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/25/real-driverless-cars-legal-in-chinas-shenzhen/amp/",
+      "publishedDateTime": "2022-07-25T05:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-25-could-artificial-intelligence-soon-be-able-to-see.md",
       "title": "Could artificial intelligence soon be able to see?",
       "excerpt": "Researchers from the University of Central Florida have unveiled new artificial intelligence that can see, recognise shapes and identify objects. This technology could be used in robotics or to improve autonomous car systems.",
@@ -1243,49 +1295,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-self-driving-cars-market-size-2022-share-industry-analysis-by-future-demand-and-growth-2030.md",
-      "title": "Self-driving Cars Market Size 2022 Share, Industry Analysis By Future Demand and Growth 2030",
-      "excerpt": "A self-driving car is also commonly known as a driverless car ... of novel technologies such as machine learning and artificial intelligence, coupled with the development of connected vehicle ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/self-driving-cars-market-size-2022-share-industry-analysis-by-future-demand-and-growth-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/self-driving-cars-market-size-2022-share-industry-analysis-by-future-demand-and-growth-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/primages/Watsona-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null

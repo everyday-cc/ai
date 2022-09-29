@@ -2,6 +2,212 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2022-08-18-amazon-testing-new-tiktok-style-feature-on-its-app-ai-firm-says.md",
+      "title": "Amazon testing new TikTok-style feature on its app, AI firm says",
+      "excerpt": "The feature, called Inspire, allows customers to like, save and share posts of products, and purchase items directly from the feed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.whas11.com/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049",
+      "originalUrl": "https://www.whas11.com/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.whas11.com/assets/CCT/images/e3e15506-7b16-49cb-8cc1-aff6d305ea71/e3e15506-7b16-49cb-8cc1-aff6d305ea71_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.whas11.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049",
+      "cdnAmpWebUrl": "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049",
+      "publishedDateTime": "2022-08-17T20:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WHAS11 News",
+        "domain": "whas11.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-russian-military-to-develop-weapons-using-artificial-intelligence.md",
+      "title": "Russian military to develop weapons using artificial intelligence",
+      "excerpt": "Russia said created a department for developing AI weapons. The program could serve to counter the Pentagon’s newly formed AI authority.",
+      "sourceUrl": null,
+      "webUrl": "https://www.defensenews.com/artificial-intelligence/2022/08/17/russia-military-to-develop-weapons-using-artificial-intelligence/?amp;amp",
+      "originalUrl": "https://www.defensenews.com/artificial-intelligence/2022/08/17/russia-military-to-develop-weapons-using-artificial-intelligence/?amp;amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.defensenews.com/resizer/_rde8-COgWmH1TbZjOSwz89PbVA=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/42I76S76MFE2RN5JSNIER6RHIU.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T17:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense News",
+        "domain": "defensenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-aws-announced-tiered-pricing-for-its-serverless-offering-lambda.md",
+      "title": "AWS Announced Tiered Pricing for Its Serverless Offering Lambda",
+      "excerpt": "Recently, AWS announced tiered pricing for Lambda, a serverless, event-driven compute service allowing developers to run their code for virtually any application or backend service without ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2022/08/aws-lambda-tiered-pricing/",
+      "originalUrl": "https://www.infoq.com/news/2022/08/aws-lambda-tiered-pricing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2022/08/aws-lambda-tiered-pricing/en/headerimage/generatedHeaderImage-1659810608401.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-cognitive-services-market-size-share-industry-trends-analysis-report-by-equipment-by-application-by-regional-outlook-and-forecast-2022-.md",
+      "title": "Cognitive Services Market Size, Share & Industry Trends Analysis Report by Equipment, by Application, by Regional Outlook and Forecast 2022 – 2026",
+      "excerpt": "Aug 18, 2022 (The Expresswire) -- The Latest research study released by expert “Global Cognitive Services Market” with analysis on business Strategy taken up by key and emerging industry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-size-share-industry-trends-analysis-report-by-equipment-by-application-by-regional-outlook-and-forecast-2022-2026-2022-08-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-size-share-industry-trends-analysis-report-by-equipment-by-application-by-regional-outlook-and-forecast-2022-2026-2022-08-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-computer-vision-ip-listing.md",
+      "title": "Computer vision IP Listing",
+      "excerpt": "CEVA-XM6 is the 5th generation imaging and computer vision processor IP from CEVA, designed to bring deep learning and artificial intelligence capabilities to low-power embedded systems, targeting ... NeuPro-S™ is a low power AI processor architecture ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/sip/?q=computer+vision",
+      "originalUrl": "https://www.design-reuse.com/sip/?q=computer+vision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-18-discovering-when-an-agent-is-present-in-a-system.md",
       "title": "Discovering when an agent is present in a system",
       "excerpt": "We want to build safe, aligned artificial general intelligence (AGI) systems that pursue the intended goals of its designers. Causal influence diagrams (CIDs) are a way to model decision-making situations that allow us to reason about agent incentives. By relating training setups to the incentives that",
@@ -912,221 +1118,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-supersonic-commercial-flights-driverless-electric-ride-shares-and-adidas-solar-powered-headphones.md",
-      "title": "Supersonic commercial flights, driverless electric ride-shares, and Adidas solar powered headphones",
-      "excerpt": "Lyft and car company Motional are rolling out a new fleet of driverless electric vehicles ... can be charged with any light source, natural or artificial and they provide 80 hours of playback ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wdio.com/good-morning-northland/tech-bytes-supersonic-commercial-flights/",
-      "originalUrl": "https://www.wdio.com/good-morning-northland/tech-bytes-supersonic-commercial-flights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wdio.com/wp-content/uploads/akta/4ADEBD2FC0DA52C137CA38747F15A947.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WDIO",
-        "domain": "wdio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-aws-adds-coding-assistant-codewhisperer-to-lambda-console.md",
-      "title": "AWS Adds Coding Assistant CodeWhisperer to Lambda Console",
-      "excerpt": "AWS recently announced the preview of Amazon CodeWhisperer in the AWS Lambda console. Available as a native code suggestion feature in the code editor, the new functionality of the coding assistant ca",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/08/aws-lambda-codewhisperer/",
-      "originalUrl": "https://www.infoq.com/news/2022/08/aws-lambda-codewhisperer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2022/08/aws-lambda-codewhisperer/en/headerimage/generatedHeaderImage-1660375625903.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-auditoriaal-tops-the-constellation-shortlist-of-ai-driven-cognitive-applications-for-the-third-year-in-a-row.md",
-      "title": "Auditoria.Al Tops the Constellation ShortList of AI-Driven Cognitive Applications for the Third Year in a Row",
-      "excerpt": "As an AI-driven Cognitive ... such as Microsoft 365 and Google Workspace. Constellation Research advises leaders on leveraging disruptive technologies to achieve business model transformation and streamline business processes. Products and services named ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/technology-35e1a35b4d51cf0c419354ba1a459f27",
-      "originalUrl": "https://apnews.com/press-release/accesswire/technology-35e1a35b4d51cf0c419354ba1a459f27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-tech-bytes-lyft-launching-driverless-fleet.md",
-      "title": "Tech Bytes: Lyft launching driverless fleet",
-      "excerpt": "Lyft and car company Motional are rolling out a new fleet of driverless electric vehicles ... be charged with any light source — natural or artificial — and they provide 80 hours of playback ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-lyft-launching-driverless-fleet/",
-      "originalUrl": "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-lyft-launching-driverless-fleet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.abc27.com/wp-content/uploads/sites/55/2022/05/AP_827812619956_1540634580368_60320023_ver1.0.jpg?w=1280",
-          "width": 876,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-lyft-launching-driverless-fleet/amp/",
-      "cdnAmpWebUrl": "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-lyft-launching-driverless-fleet/amp/",
-      "publishedDateTime": "2022-08-17T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "abc27",
-        "domain": "abc27.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-this-auto-emptying-robot-vacuum-and-mop-offers-hands-free-house-cleaning.md",
-      "title": "This Auto-Emptying Robot Vacuum And Mop Offers Hands-Free House Cleaning",
-      "excerpt": "If you’ve been thinking of purchasing a robot vacuum to help you out with household chores, you might consider Amazon’s deal on the Dreametech D10 Plus Robot Vacuum, which operates as both a smart vacuum and mop.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ktnv.com/auto-emptying-smart-robot-vacuum-mop-dreame",
-      "originalUrl": "https://www.ktnv.com/auto-emptying-smart-robot-vacuum-mop-dreame",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/5b2e032/2147483647/strip/true/crop/500x281+0+26/resize/1280x720!/quality/90/?url=https%3A%2F%2Fwww.simplemost.com%2Fwp-content%2Fuploads%2F2022%2F08%2Famazon-vac-500x333.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ktnv.com/auto-emptying-smart-robot-vacuum-mop-dreame?_amp=true",
-      "cdnAmpWebUrl": "https://www-ktnv-com.cdn.ampproject.org/c/s/www.ktnv.com/auto-emptying-smart-robot-vacuum-mop-dreame?_amp=true",
-      "publishedDateTime": "2022-08-17T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTNV Las Vegas",
-        "domain": "ktnv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

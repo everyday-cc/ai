@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-07-26-aruba-boosts-ai-capabilities-to-help-enterprises-manage-troubleshoot-the-edge.md",
-      "title": "Aruba boosts AI capabilities to help enterprises manage, troubleshoot the edge",
-      "excerpt": "Aruba’s Edge Services Platform gains AIOps features to streamline network troubleshooting, performance tuning, and security controls.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3668253/aruba-boosts-ai-capabilities-to-help-enterprises-manage-troubleshoot-the-edge.html",
-      "originalUrl": "https://www.networkworld.com/article/3668253/aruba-boosts-ai-capabilities-to-help-enterprises-manage-troubleshoot-the-edge.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/05/jigsaw_puzzle_pieces_coming_together_mergers_acquisitions_problem-solving_by_metamorworks_gettyimages-916449208_3x2_2400x1600-100796552-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3668253/aruba-boosts-ai-capabilities-to-help-enterprises-manage-troubleshoot-the-edge.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3668253/aruba-boosts-ai-capabilities-to-help-enterprises-manage-troubleshoot-the-edge.amp.html",
-      "publishedDateTime": "2022-07-26T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-26-machine-learning-artificial-intelligence-market-size-from-2022-to-2028.md",
       "title": "Machine Learning Artificial intelligence Market Size from 2022 to 2028",
       "excerpt": "The \" Machine Learning Artificial intelligence Market research report \" profile investigates the company's business structure, operations, important products and services, prospects, locations and subsidiaries,",
@@ -1420,6 +1377,49 @@
       "provider": {
         "name": "Egypt Independent",
         "domain": "egyptindependent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-instagrams-new-ai-tool-for-age-verification.md",
+      "title": "Instagram’s New AI Tool for Age-Verification",
+      "excerpt": "Instagram is testing various new ways for age verification of its youngest users. Yoti’s AI tool is one of them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techthirsty.com/instagrams-new-ai-tool-for-age-verification/",
+      "originalUrl": "https://www.techthirsty.com/instagrams-new-ai-tool-for-age-verification/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techthirsty.com/wp-content/uploads/2022/06/Instagrams-New-AI-Tool-for-Age-Verification-1-640x356.jpg",
+          "width": 640,
+          "height": 356,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techthirsty.com/instagrams-new-ai-tool-for-age-verification/?amp=1",
+      "cdnAmpWebUrl": "https://www-techthirsty-com.cdn.ampproject.org/c/s/www.techthirsty.com/instagrams-new-ai-tool-for-age-verification/?amp=1",
+      "publishedDateTime": "2022-06-28T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tech Thirsty",
+        "domain": "techthirsty.com",
         "images": null,
         "publishers": null,
         "authors": null

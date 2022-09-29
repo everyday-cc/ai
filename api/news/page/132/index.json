@@ -2,6 +2,213 @@
   "page": 132,
   "value": [
     {
+      "path": "_news/2022-06-16-insect-inspired-ai-for-autonomous-robots.md",
+      "title": "Insect-inspired AI for autonomous robots",
+      "excerpt": "Small autonomous mobile robots, such as drones, rovers, and legged robots, promise to perform a wide range of tasks, from autonomously monitoring crops in greenhouses to last-kilometer delivery. These applications require robots to operate for extended periods while performing complex tasks,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.html",
+      "originalUrl": "https://techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/insect-inspired-ai-for-1.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.amp",
+      "publishedDateTime": "2022-06-15T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-intel-arc-alchemist-a380-is-finally-here-to-rival-amds-entry-level-gpu.md",
+      "title": "Intel Arc Alchemist A380 is finally here to rival AMD’s entry-level GPU",
+      "excerpt": "The entry-level GPU is positioned to be the rival to AMD’s Radeon RX 6400. The bad news is that you likely won’t be able to get your hands on Intel’s first graphics card for a while yet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/intel-announces-arc-alchemist-a380-desktop-gpu/",
+      "originalUrl": "https://www.digitaltrends.com/computing/intel-announces-arc-alchemist-a380-desktop-gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/06/INTEL-ARC-A380-3.jpg?p=1",
+          "width": 1858,
+          "height": 979,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/intel-announces-arc-alchemist-a380-desktop-gpu/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/intel-announces-arc-alchemist-a380-desktop-gpu/?amp",
+      "publishedDateTime": "2022-06-15T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-baidu-in-talks-to-sell-majority-stake-in-iqiyi-chinas-answer-to-netflix-sources.md",
+      "title": "Baidu in talks to sell majority stake in iQIYI, China's answer to Netflix -sources",
+      "excerpt": "The divestment plan, not previously disclosed by Baidu, comes after the firm deemed iQIYI to be a non-core asset, and as it seeks to sharpen its focus on developing its capital-intensive artificial intelligence and autonomous driving units, said the first ...",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/pmn/business-pmn/baidu-in-talks-to-sell-majority-stake-in-iqiyi-chinas-answer-to-netflix-sources",
+      "originalUrl": "https://financialpost.com/pmn/business-pmn/baidu-in-talks-to-sell-majority-stake-in-iqiyi-chinas-answer-to-netflix-sources",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://financialpost.com/pmn/business-pmn/baidu-in-talks-to-sell-majority-stake-in-iqiyi-chinas-answer-to-netflix-sources/wcm/90d97914-f16b-4e1e-8cd1-03dbba5d6782/amp/",
+      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/baidu-in-talks-to-sell-majority-stake-in-iqiyi-chinas-answer-to-netflix-sources/wcm/90d97914-f16b-4e1e-8cd1-03dbba5d6782/amp/",
+      "publishedDateTime": "2022-06-15T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-ai-speeds-up-molecular-fingerprint-analysis.md",
+      "title": "AI Speeds Up Molecular \"Fingerprint\" Analysis",
+      "excerpt": "With her team she has now investigated how the computing time can be shortened by using methods from artificial intelligence. The idea: a computer programme from the group of \"graphical neural networks\" or GNN receives small molecules as input with the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/analysis/news/ai-speeds-up-molecular-fingerprint-analysis-362647",
+      "originalUrl": "https://www.technologynetworks.com/analysis/news/ai-speeds-up-molecular-fingerprint-analysis-362647",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-15T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-boca-raton-fla-police-to-join-facial-recognition-program.md",
+      "title": "Boca Raton, Fla., Police to Join Facial Recognition Program",
+      "excerpt": "The city of Boca Raton is letting its police force participate in a statewide facial recognition program, joining hundreds of communities in Florida employing the controversial crime-fighting technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/public-safety/boca-raton-fla-police-to-join-facial-recognition-program",
+      "originalUrl": "https://www.govtech.com/public-safety/boca-raton-fla-police-to-join-facial-recognition-program",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/49e944a/2147483647/strip/true/crop/940x490+0+82/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/public-safety/boca-raton-fla-police-to-join-facial-recognition-program?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/boca-raton-fla-police-to-join-facial-recognition-program?_amp=true",
+      "publishedDateTime": "2022-06-15T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-the-hands-off-tech-era-is-over.md",
       "title": "The Hands-Off Tech Era Is Over",
       "excerpt": "More government intervention will slow tech down. Is that good or bad? Send any friend a story As a subscriber, you have 10 gift articles to give each month. Anyone can read what you share. By Shira Ovide It’s clear more than ever that governments will no longer leave technology alone.",
@@ -856,205 +1063,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-australian-retailers-deploy-facial-recognition-as-privacy-laws-stall.md",
-      "title": "Australian retailers deploy facial recognition as privacy laws stall",
-      "excerpt": "Australia’s privacy watchdog will consider investigating Bunnings, Kmart and The Good Guys after a consumer group uncovered the retailers’ use of facial recognition technology on customers and said it will make a formal complaint.",
-      "sourceUrl": null,
-      "webUrl": "https://www.innovationaus.com/australian-retailers-deploy-facial-recognition-as-privacy-laws-stall/",
-      "originalUrl": "https://www.innovationaus.com/australian-retailers-deploy-facial-recognition-as-privacy-laws-stall/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.innovationaus.com/wp-content/uploads/2022/06/CCTV_Camera_800x600.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T23:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Innovation",
-        "domain": "innovationaus.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-your-subconscious-is-the-ultimate-artificial-intelligence.md",
-      "title": "Your subconscious is the ultimate ‘artificial intelligence’",
-      "excerpt": "I’ve been thinking a lot about Artificial Intelligence (AI), not about its potentials like all the articles are writing about, but about how it works, how",
-      "sourceUrl": null,
-      "webUrl": "https://businessday.ng/opinion/article/your-subconscious-is-the-ultimate-artificial-intelligence/",
-      "originalUrl": "https://businessday.ng/opinion/article/your-subconscious-is-the-ultimate-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2021/01/Untitled-design-2021-01-13T165155.785.png?resize=450%2C300&ssl=1",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://businessday.ng/amp/opinion/article/your-subconscious-is-the-ultimate-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/opinion/article/your-subconscious-is-the-ultimate-artificial-intelligence/",
-      "publishedDateTime": "2022-06-14T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businessday",
-        "domain": "businessday.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-mit-has-made-a-lego-like-ai-chip-that-stacks-to-upgrade-your-device.md",
-      "title": "MIT Has Made A Lego-Like AI Chip That Stacks To Upgrade Your Device",
-      "excerpt": "MIT engineers have now developed an AI chip resembling LEGO as they intend to create modular and sustainable electronics.",
-      "sourceUrl": null,
-      "webUrl": "https://fossbytes.com/mit-stackable-ai-chip/",
-      "originalUrl": "https://fossbytes.com/mit-stackable-ai-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fossbytes.com/wp-content/uploads/2022/06/MIT.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fossbytes.com/mit-stackable-ai-chip/",
-      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/mit-stackable-ai-chip/",
-      "publishedDateTime": "2022-06-14T23:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Foss Bytes",
-        "domain": "fossbytes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest.md",
-      "title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Sees Significant Drop in Short Interest",
-      "excerpt": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating BOTZ opened at $20.90 on Wednesday. The company has a 50 day moving average of $23.96 and a 200 day moving average of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest/",
-      "originalUrl": "https://www.etfdailynews.com/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest/amp/",
-      "publishedDateTime": "2022-06-14T22:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-for-tesla-facebook-and-others-ais-flaws-are-getting-harder-to-ignore.md",
-      "title": "For Tesla, Facebook and others, AI’s flaws are getting harder to ignore",
-      "excerpt": "What do Facebook Inc. co-founder Mark Zuckerberg ... from putting faith in artificial intelligence systems that have underdelivered. This could be due to a conflict with your ad-blocking or ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.japantimes.co.jp/opinion/2022/06/13/commentary/world-commentary/ai-flaws/",
-      "originalUrl": "https://www.japantimes.co.jp/opinion/2022/06/13/commentary/world-commentary/ai-flaws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Japan Times",
-        "domain": "japantimes.co.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

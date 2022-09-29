@@ -2,6 +2,258 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2022-08-25-mckinsey-report-two-ai-trends-top-2022-outlook.md",
+      "title": "McKinsey report: Two AI trends top 2022 outlook",
+      "excerpt": "Newly-released McKinsey report named applied AI and industrializing machine learning as two significant technology trends unfolding today.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/mckinsey-report-two-ai-trends-top-2022-outlook/",
+      "originalUrl": "https://venturebeat.com/ai/mckinsey-report-two-ai-trends-top-2022-outlook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1239935010.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/mckinsey-report-two-ai-trends-top-2022-outlook/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/mckinsey-report-two-ai-trends-top-2022-outlook/amp/",
+      "publishedDateTime": "2022-08-25T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-north-america-deep-learning-chip-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2027.md",
+      "title": "North America Deep Learning Chip Market Segmentation, Future Trends, Growth Overview, Key Companies and Forecast by 2027",
+      "excerpt": "Driving factor such as the rising investments in deep learning chip start-ups is propelling the growth of the deep learning chip market. Further, the increasing adoption of cloud-based computing across several industries is anticipated to boost the deep learning chip market growth in the near future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/north-america-deep-learning-chip-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2027-2022-08-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/north-america-deep-learning-chip-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2027-2022-08-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-deep-dive-why-3d-reconstruction-may-be-the-next-tech-disruptor.md",
+      "title": "Deep Dive: Why 3D reconstruction may be the next tech disruptor",
+      "excerpt": "D reconstruction, is a growing computer vision domain increasingly in demand from industries including augmented and virtual reality.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/deep-dive-why-3d-reconstruction-may-be-the-next-tech-disruptor/",
+      "originalUrl": "https://venturebeat.com/ai/deep-dive-why-3d-reconstruction-may-be-the-next-tech-disruptor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1358286748.jpg?fit=800%2C571&strip=all",
+          "width": 799,
+          "height": 571,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/deep-dive-why-3d-reconstruction-may-be-the-next-tech-disruptor/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deep-dive-why-3d-reconstruction-may-be-the-next-tech-disruptor/amp/",
+      "publishedDateTime": "2022-08-25T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-gatc-health-appoints-medical-ai-veteran-robert-keith-sorrentino-md-as-chief-medical-officer.md",
+      "title": "GATC Health Appoints Medical AI Veteran Robert Keith Sorrentino, MD as Chief Medical Officer",
+      "excerpt": "GATC Health, a science and technology company revolutionizing drug discovery and disease prediction using artificial intelligence (AI), today announced Robert Keith Sorrentino, MD, as Chief Medical Officer.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/gatc-health-appoints-medical-ai-veteran-robert-keith-sorrentino-md-as-chief-medical-officer-1031705730",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/gatc-health-appoints-medical-ai-veteran-robert-keith-sorrentino-md-as-chief-medical-officer-1031705730",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1669428/GATC_Logo.jpg",
+          "width": 400,
+          "height": 265,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-dell-technologies-deep-learning-model-to-help-protect-the-great-barrier-reef.md",
+      "title": "Dell Technologies Deep Learning Model To Help Protect The Great Barrier Reef",
+      "excerpt": "Dell Technologies has announced a new deep learning technology model, launched in partnership with Australia-based conservation organisation Citizens of The Great Barrier Reef. The model will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessworld.in/article/Dell-Technologies-Deep-Learning-To-Help-Volunteers-Protect-The-Great-Barrier-Reef/25-08-2022-443811/",
+      "originalUrl": "https://www.businessworld.in/article/Dell-Technologies-Deep-Learning-To-Help-Volunteers-Protect-The-Great-Barrier-Reef/25-08-2022-443811/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.businessworld.in/article/article_extra_large_image/1661435711_GzAgWy_dell_grc.jpg",
+          "width": 639,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Businessworld",
+        "domain": "businessworld.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-25-paragraphai-announces-the-launch-of-natural-language-processing-ai-writing-assistant.md",
       "title": "ParagraphAI Announces the Launch of Natural Language Processing AI Writing Assistant",
       "excerpt": "ParagraphAI Inc., a leading developer of advanced AI-powered productivity tools, today announced the release of their natural language processing (\"NLP\") AI Writing Assistant. With internet access, ParagraphAI instantly drafts original and accurate paragraphs of text on any topic with proper grammar and tone correction.",
@@ -934,239 +1186,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-does-louisiana-have-a-plan-to-safely-house-teens-in-angola-here-are-new-details.md",
-      "title": "Does Louisiana have a plan to safely house teens in Angola? Here are new details.",
-      "excerpt": "15, but a lawsuit and a host of advocates say officials still haven’t laid out a plan for how they will do that while keeping the youths safe and providing them services required ... stored in a Microsoft Word document, show it is a near-copy of a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theadvocate.com/baton_rouge/news/crime_police/article_f045e0c2-23cd-11ed-9490-1b3e3a49bd54.html",
-      "originalUrl": "https://www.theadvocate.com/baton_rouge/news/crime_police/article_f045e0c2-23cd-11ed-9490-1b3e3a49bd54.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Advocate",
-        "domain": "theadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-lyft-and-motional-unveil-driverless-robotaxi-in-vegas.md",
-      "title": "Lyft And Motional Unveil Driverless Robotaxi In Vegas",
-      "excerpt": "Lyft and Motional have partnered to launch Motional's new all-electric IONIQ 5-based robotaxi, an autonomous vehicle designed for fully driverless ride-hail operation, on the Lyft network in Las ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104749877/Lyft-And-Motional-Unveil-Driverless-Robotaxi-In-Vegas",
-      "originalUrl": "https://menafn.com/1104749877/Lyft-And-Motional-Unveil-Driverless-Robotaxi-In-Vegas",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-08/24/R&AN_e39d7image_story.jpeg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MENAFN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-who-is-fn-meka-controversial-ai-rapper-dropped-by-capitol-records.md",
-      "title": "Who Is FN Meka? Controversial AI Rapper Dropped by Capitol Records",
-      "excerpt": "Capitol Records announced Tuesday that it dropped FN Meka, an artificial intelligence (AI) rapper that critics have condemned as an appropriation of Black culture. The record label made waves within the music industry when it announced on August 12 that it had signed Meka,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/fn-meka-ai-rapper-dropped-capitol-records-1736588",
-      "originalUrl": "https://www.newsweek.com/fn-meka-ai-rapper-dropped-capitol-records-1736588",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2103606/capitol-records-building-pictured-2020.jpg",
-          "width": 3100,
-          "height": 2068,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/fn-meka-ai-rapper-dropped-capitol-records-1736588?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fn-meka-ai-rapper-dropped-capitol-records-1736588?amp=1",
-      "publishedDateTime": "2022-08-24T11:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-humans-have-a-natural-defense-against-facial-recognition-aging.md",
-      "title": "Humans Have a Natural Defense Against Facial Recognition: Aging",
-      "excerpt": "After just 5 years, facial recognition systems start struggling to identify us, and after 20 years they have no chance. I've been working at PCMag since November 2016, covering all areas of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/humans-have-a-natural-defense-against-facial-recognition-aging",
-      "originalUrl": "https://www.pcmag.com/news/humans-have-a-natural-defense-against-facial-recognition-aging",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/05Pz8HRnBQxyCwqrSeEy3it-1.fit_lim.size_1200x630.v1661351863.jpg",
-          "width": 1121,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-can-nist-move-trustworthy-ai-forward-with-new-draft-of-ai-risk-management-framework.md",
-      "title": "Can NIST move ‘trustworthy AI’ forward with new draft of AI risk management framework?",
-      "excerpt": "NIST releases an expanded draft of the AI Risk Management Framework but the impact on trustworthy AI remains unclear.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-risk-management-framework/",
-      "originalUrl": "https://venturebeat.com/ai/ai-risk-management-framework/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-robot_machine_learning_AI_1323774184-e1659571276418.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-risk-management-framework/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-risk-management-framework/amp/",
-      "publishedDateTime": "2022-08-24T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

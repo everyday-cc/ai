@@ -75,15 +75,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving Cars Market Size 2022-2028 Global Industrial Analysis by Growth Rate, Market Share, Revenue and Forecast Research Report"
-    excerpt: "Sep 27, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Self-driving Cars"
-    publishedDateTime: 2022-09-27T09:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-size-2022-2028-global-industrial-analysis-by-growth-rate-market-share-revenue-and-forecast-research-report-2022-09-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 3
   - title: "Image Recognition Market Latest Research, Industry Analysis, Driver, Trends, Business Overview, Key Value, Demand and Forecast 2022-2027"
     excerpt: "The global Image Recognition market size was valued at USD 27189.63 million in 2021 and is expected to expand at a CAGR"
     publishedDateTime: 2022-09-28T04:46:00Z

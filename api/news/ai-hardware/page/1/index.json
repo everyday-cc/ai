@@ -53,7 +53,7 @@
       "originalUrl": "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enter-kitchen-chipotle",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -202,7 +202,7 @@
       "originalUrl": "https://www.nextplatform.com/2022/09/26/kaust-hpe-shaheen-iii-supercomputer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -239,13 +239,13 @@
     {
       "path": "_news/2022-09-26-inventecs-rhyperior-is-the-powerhouse-gpu-accelerator-system-every-business-in-the-ai-and-ml-world-needs.md",
       "title": "Inventec's Rhyperior Is the Powerhouse GPU Accelerator System Every Business in the AI And ML World Needs",
-      "excerpt": "Rhyperior is the ideal and effective system to enhance performance dramatically for the modern workload.TAIPEI, Sept. 26, 2022 /PRNewswire/",
+      "excerpt": "TAIPEI, Sept. 26, 2022 /PRNewswire/ --Taiwan-based leading server manufacturing company Inventec (TPE: 2356)'s powerhouse GPU accelerator system, Rhyperior, is everything any modern-day business ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/inventec-s-rhyperior-is-the-powerhouse-gpu-accelerator-system-every-business-in-the-ai-and-ml-world-needs-1031765200",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/inventec-s-rhyperior-is-the-powerhouse-gpu-accelerator-system-every-business-in-the-ai-and-ml-world-needs-1031765200",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/n29014243/inventecs-rhyperior-is-the-powerhouse-gpu-accelerator-system-every-business-in-the-ai-and-ml-world",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/n29014243/inventecs-rhyperior-is-the-powerhouse-gpu-accelerator-system-every-business-in-the-ai-and-ml-world",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -259,23 +259,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-26T09:06:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29014243",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29014243",
+      "publishedDateTime": "2022-09-26T09:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -286,8 +277,7 @@
       "topics": [
         "AI Hardware",
         "AI",
-        "Machine Learning",
-        "Facebook AI"
+        "Machine Learning"
       ]
     },
     {
@@ -483,10 +473,10 @@
     {
       "path": "_news/2022-09-21-inuitive-launches-nu4100-expanding-its-edge-ai-vision-on-chip-ic-portfolio-nu4100-presents-advanced-ai-capabilities-and.md",
       "title": "Inuitive launches NU4100, expanding its Edge AI Vision-on-Chip IC portfolio; NU4100 presents advanced AI capabilities and",
-      "excerpt": "Inuitive Ltd., a Vision-on-Chip processors company, announced today the launch of its new NU4100, an expansion of its Vision and AI IC portfolio. Based on Inuitive's unique architecture and advanced 12nm process technology,",
+      "excerpt": "Geared for Robotics, the new NU4100 is setting a new industry standard by combining integrated dual-channel 4K ISP with enhanced AI performance coupled with depth-sensing and VSLAM capabilities RA'ANANA,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/09/21/9678078.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/09/21/9678078.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/09/22/9678713.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/09/22/9678713.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1010,58 +1000,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-20-nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing.md",
-      "title": "Nvidia unveils new gaming chip with AI features, taps TSMC for manufacturing",
-      "excerpt": "Sept 20 (Reuters) - Nvidia Corp (NVDA.O) on Tuesday announced new flagship chips for video gamers that use artificial intelligence (AI) to enhance graphics, saying it has tapped Taiwan ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-manufacturing-2022-09-20/",
-      "originalUrl": "https://www.reuters.com/technology/nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-manufacturing-2022-09-20/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/awrttdfwt7GldMh9Fah3hKj1RdQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KUNQZVB3LZK2NKDRMPVVVLXKL4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-20-artificial-intelligence-ai-chips-market-size-share-growth-and-forecast-to-2027-with-366-cagr-141-pages-report.md",
       "title": "Artificial Intelligence (AI) Chips Market Size, Share, Growth and Forecast to 2027 with 36.6% CAGR | 141 Pages Report",
       "excerpt": "Sep 20, 2022 (The Expresswire) -- \"Artificial Intelligence (AI) Chips Market\" valuation is projected to reach 50180 Mn USD by 2026, and it is estimated to be valued at 7719.4 Mn USD In 2022 with ...",
@@ -1164,6 +1102,49 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing.md",
+      "title": "Nvidia unveils new gaming chip with AI features, taps TSMC for manufacturing",
+      "excerpt": "(Reuters) - Nvidia Corp on Tuesday announced new flagship chips for video gamers that use artificial intelligence (AI) to enhance graphics, saying it has tapped Taiwan Semiconductor Manufacturing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/nvidia-unveils-gaming-chip-ai-152535367.html",
+      "originalUrl": "https://www.aol.com/news/nvidia-unveils-gaming-chip-ai-152535367.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/8TmQ.W.852u0apPZA6Qgnw--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/48dafea4d69472a8a6b88f609e4dfbbf",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {

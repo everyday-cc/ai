@@ -81,15 +81,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Chipotle Is Testing More Artificial Intelligence Solutions To Improve Operations"
-    excerpt: "Chipotle is now testing an AI-based kitchen management system that provides “demand-based cooking and ingredient preparation forecasts,” and is also expanding its Chippy AI test to a restaurant in California."
-    publishedDateTime: 2022-09-27T12:05:00Z
-    webUrl: "https://www.forbes.com/sites/aliciakelso/2022/09/27/chipotle-is-testing-more-artificial-intelligence-solutions-to-improve-operations/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 42
   - title: "Chipotle's latest tech innovations include autonomous cooking assistants, AI, real-time updates"
     excerpt: "CMG said the system uses AI and machine learning to monitor ingredient levels in ... Chipotle (CMG) has been testing the autonomous cooking assistant (called Chippy) with tortilla chip production at its headquarters’ innovation hub in Irvine, California."
     publishedDateTime: 2022-09-27T14:54:00Z

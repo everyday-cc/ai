@@ -43,20 +43,6 @@ related:
         width: 1089
         height: 650
         isCached: true
-  - title: "Industrial edge AI system supports two NVIDIA GeForce RTX 3090 GPU cards"
-    excerpt: "Axiomtek is introducing the IPC972, its new industrial edge AI system with dual GPU support. The highly expandable edge computer supports the Intel Xeon or 10th gen Intel Core i7/i5/i3 processor (code name: Comet Lake S) with the Intel W480E chipset."
-    publishedDateTime: 2022-09-24T17:42:00Z
-    webUrl: "https://www.eeworldonline.com/industrial-edge-ai-system-supports-two-nvidia-geforce-rtx-3090-gpu-cards/"
-    type: article
-    provider:
-      name: eeworldonline
-      domain: eeworldonline.com
-    quality: 53
-    images:
-      - url: "https://www.eeworldonline.com/wp-content/uploads/2022/09/unnamed-3.jpg"
-        width: 500
-        height: 287
-        isCached: true
   - title: "‘Shaheen III’: KAUST Selects HPE Cray EX HPC-AI Supercomputer with NVIDIA and AMD Chips"
     excerpt: "“Shaheen III will significantly accelerate research at KAUST by applying world-leading supercomputing and AI-at-scale capabilities to increase accuracy in analyses and solve complex scientific questions.” KAUST said the new system will build on its ..."
     publishedDateTime: 2022-09-27T22:23:00Z

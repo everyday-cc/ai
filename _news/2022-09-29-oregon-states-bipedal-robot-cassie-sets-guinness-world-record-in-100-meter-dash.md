@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbssports.com/general/news/oregon-states-bipedal-robot-c
 cdnAmpWebUrl: "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/general/news/oregon-states-bipedal-robot-cassie-sets-guinness-world-record-in-100-meter-dash/amp/"
 type: article
 quality: 53
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://wweek-wweek-prod.cdn.arcpublishing.com/resizer/xu1cX6Vq7Dz0JW9cEjEhvRwsZOQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/wweek/7YDWJFICDRGWZCBN627LCCUA2I.jpeg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Cassie, the bipedal robot now has a world record for 100m dash"
+    excerpt: "Cassie learned to run and this year, she has broken world records in sprinting. The future of bipedal robots is approaching fast."
+    publishedDateTime: 2022-09-29T09:36:00Z
+    webUrl: "https://interestingengineering.com/innovation/bipedal-robot-cassie-sets-world-record"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/2022/09/29/image/png/qEHycvTU4PBDihuECZVDM5xGFGvyLL3n0qNtWaXg.png"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Cassie, a bipedal robot developed at OSU, achieves Guinness World Record in 100 meters"
     excerpt: "Cassie the robot, invented at the Oregon State University College of Engineering and produced by OSU spinout company Agility Robotics, has established a Guinness World Record for the fastest 100 meters by a bipedal robot."

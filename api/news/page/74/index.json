@@ -2,6 +2,256 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2022-08-01-why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-5-of-5.md",
+      "title": "Why Corporate Purpose And AI Ethics Must Be A Leadership And Risk Management Priority (Blog 5 Of 5)",
+      "excerpt": "This is the final blog in a 5 part blog series looking at corporate purpose, AI, ML and data management foundations. Practical questions are identified to guide board directors and CEOs to improve their governance leadership practices regarding AI/ML.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-5-of-5/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-5-of-5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62d4657ccc8d05991df35bd4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 851,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-5-of-5/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-5-of-5/amp/",
+      "publishedDateTime": "2022-07-31T13:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-01-bam-ai-exits-the-batcave-to-confront-the-jobs-market.md",
+      "title": "Bam! AI exits the Batcave to confront the jobs market",
+      "excerpt": "AI, like Batman, is viewed by some people with suspicion and fear. But it can be a force for good, creating jobs for a modern workforce.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/31/bam-ai-exits-the-batcave-to-confront-the-jobs-market/",
+      "originalUrl": "https://venturebeat.com/2022/07/31/bam-ai-exits-the-batcave-to-confront-the-jobs-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-185883522.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/31/bam-ai-exits-the-batcave-to-confront-the-jobs-market/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/31/bam-ai-exits-the-batcave-to-confront-the-jobs-market/amp/",
+      "publishedDateTime": "2022-07-31T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-01-iron-mountain-insight-saas-platform-expands-capabilities-on-aws.md",
+      "title": "Iron Mountain InSight® SaaS Platform Expands Capabilities On AWS",
+      "excerpt": "Iron Mountain announced that its content services platform, Iron Mountain InSight (InSight), is now available to customers as a",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/iron-mountain-insight-saas-platform-expands-capabilities-on-aws/",
+      "originalUrl": "https://enterprisetalk.com/news/iron-mountain-insight-saas-platform-expands-capabilities-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/07/Iron-Mountain-InSight®-SaaS-Platform-Expands-Capabilities-On-AWS.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/iron-mountain-insight-saas-platform-expands-capabilities-on-aws/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/iron-mountain-insight-saas-platform-expands-capabilities-on-aws/amp/",
+      "publishedDateTime": "2022-07-31T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-01-why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-4-of-5.md",
+      "title": "Why Corporate Purpose And AI Ethics Must be A Leadership And Risk Management Priority (Blog 4 Of 5)",
+      "excerpt": "This blog series looks at the meaning of corporate purpose, the importance of AI Ethics, and evolving audit practices internally and externally to improve risk management practices, and advance digital literacy foundations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-4-of-5/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-4-of-5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e6bd39f8e4f0e5ea6d6fd8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-4-of-5/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-4-of-5/amp/",
+      "publishedDateTime": "2022-07-31T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-31-tech-startup-ketos-targets-water-safety-and-scarcity.md",
+      "title": "Tech Startup KETOS Targets Water Safety And Scarcity",
+      "excerpt": "Entrepreneur Meena Sankaran discusses KETOS, a San Francisco-based startup with an AI-based platform aimed at making water safer and more sustainable through an automated testing and monitoring process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/annefield/2022/07/31/tech-startup-ketos-targets-water-safety-and-scarcity/",
+      "originalUrl": "https://www.forbes.com/sites/annefield/2022/07/31/tech-startup-ketos-targets-water-safety-and-scarcity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e6ad2220262508199932d6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/annefield/2022/07/31/tech-startup-ketos-targets-water-safety-and-scarcity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/annefield/2022/07/31/tech-startup-ketos-targets-water-safety-and-scarcity/amp/",
+      "publishedDateTime": "2022-07-31T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-31-23-collaboration-and-open-science-initiatives-in-primate-research.md",
       "title": "23 - Collaboration and Open Science Initiatives in Primate Research",
       "excerpt": "In this chapter, we discuss how large-scale collaboration, a research model successfully implemented in other fields, makes it possible to obtain the large and diverse datasets needed to conduct robust comparative analysis of primate cognitive abilities.",
@@ -923,230 +1173,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-australia-pm-unveils-draft-indigenous-recognition-referendum-question.md",
-      "title": "Australia PM unveils draft Indigenous recognition referendum question",
-      "excerpt": "Australian Prime Minister Anthony Albanese on Saturday unveiled the wording of a draft referendum question as part of moves to",
-      "sourceUrl": null,
-      "webUrl": "https://kelo.com/2022/07/29/australia-pm-unveils-draft-indigenous-recognition-referendum-question/",
-      "originalUrl": "https://kelo.com/2022/07/29/australia-pm-unveils-draft-indigenous-recognition-referendum-question/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-07/30/2022-07-30T015528Z_1_LYNXMPEI6T00V_RTROPTP_3_ASIA-ENERGY.JPG",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-29T18:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KELO",
-        "domain": "kelo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-add-conversational-ai-to-any-contact-center-with-amazon-lex-and-the-amazon-chime-sdk.md",
-      "title": "Add conversational AI to any contact center with Amazon Lex and the Amazon Chime SDK",
-      "excerpt": "Customer satisfaction is a potent metric that directly influences the profitability of an organization. With rapid technological advances in the past decade or so, it’s even more important to elevate customer focus in the following ways: Making your organization accessible to your customers across multiple",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/add-conversational-ai-to-any-contact-center-with-amazon-lex-and-the-amazon-chime-sdk/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/add-conversational-ai-to-any-contact-center-with-amazon-lex-and-the-amazon-chime-sdk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/29/lex-chime-sdk.jpg",
-          "width": 1326,
-          "height": 660,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-29T15:11:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-how-peloton-is-using-computer-vision-to-strengthen-workouts.md",
-      "title": "How Peloton is using computer vision to strengthen workouts",
-      "excerpt": "Guide’s computer vision capability tracks members and recognizes their activity, giving them credit for completed movements, providing recommendations and real-time feedback.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/29/how-peloton-is-using-computer-vision-to-strengthen-workouts/",
-      "originalUrl": "https://venturebeat.com/2022/07/29/how-peloton-is-using-computer-vision-to-strengthen-workouts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1313136968.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/29/how-peloton-is-using-computer-vision-to-strengthen-workouts/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/29/how-peloton-is-using-computer-vision-to-strengthen-workouts/amp/",
-      "publishedDateTime": "2022-07-29T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-3d-view-of-the-protein-universe-as-deepmind-reveals-200m-protein-structures.md",
-      "title": "‘3D view of the protein universe’ as Deepmind reveals 200M protein structures",
-      "excerpt": "It is now possible to look up the 3D structure of every known protein following the latest release of Alphafold, an open database run in partnership by Deepmind, the London-based artificial intelligence company owned by Google parent Alphabet and the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bioworld.com/articles/521169-3d-view-of-the-protein-universe-as-deepmind-reveals-200m-protein-structures",
-      "originalUrl": "https://www.bioworld.com/articles/521169-3d-view-of-the-protein-universe-as-deepmind-reveals-200m-protein-structures",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-29T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BioWorld",
-        "domain": "bioworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-protecting-students-school-district-adds-artificial-intelligence-to-increase-security.md",
-      "title": "Protecting students: School district adds artificial intelligence to increase security",
-      "excerpt": "A school district in Illinois has approved a new security system officials say should better protect students.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wtoc.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/",
-      "originalUrl": "https://www.wtoc.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://do0bihdskp9dy.cloudfront.net/07-29-2022/t_3cc1f23f909b4963bebaf51695213960_name_Screenshot_2022_07_29_133147.png",
-          "width": 604,
-          "height": 369,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wtoc.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wtoc-com.cdn.ampproject.org/c/s/www.wtoc.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp",
-      "publishedDateTime": "2022-07-29T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOC-TV",
-        "domain": "wtoc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

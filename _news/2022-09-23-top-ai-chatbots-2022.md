@@ -22,6 +22,7 @@ topics:
   - Facebook AI
   - AI
   - Natural Language Processing
+  - IBM AI
 
 images:
   - url: "https://www.eweek.com/wp-content/uploads/2022/01/VMWare-A7C3E368302C41B296E03A8651EFBDE0.jpeg"

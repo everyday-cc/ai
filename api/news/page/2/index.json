@@ -2,6 +2,205 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-27-document-onboarding-startup-flatfile-nabs-50m-from-investors-including-workday.md",
+      "title": "Document onboarding startup Flatfile nabs $50M from investors, including Workday",
+      "excerpt": "Flatfile, which uses AI to process and normalize data from documents, has raised $50 million in a venture funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/27/document-onboarding-startup-flatfile-nabs-50m-from-investors-including-workday/",
+      "originalUrl": "https://techcrunch.com/2022/09/27/document-onboarding-startup-flatfile-nabs-50m-from-investors-including-workday/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/09/GettyImages-737368899.jpg?resize=1200,601",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/27/document-onboarding-startup-flatfile-nabs-50m-from-investors-including-workday/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/27/document-onboarding-startup-flatfile-nabs-50m-from-investors-including-workday/amp/",
+      "publishedDateTime": "2022-09-27T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-sas-viya-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "SAS Viya now available in the Microsoft Azure Marketplace",
+      "excerpt": "SAS offers its industry-leading analytics platform with hourly pricing model, in-app tutorials and support for multiple languagesCARY, N.C.,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sas-viya-now-available-in-the-microsoft-azure-marketplace-1031767702",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-viya-now-available-in-the-microsoft-azure-marketplace-1031767702",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1907863/SAS__woman_screen.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-sas-launches-first-cloud-analytics-service-on-azure.md",
+      "title": "SAS launches first cloud analytics service on Azure",
+      "excerpt": "SAS is one of the old guards in the data analytics space. Its first tools were developed at North Carolina State University in the late 1960s and commercially launched in 1976. Throughout the last fifty years,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/",
+      "originalUrl": "https://venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/12/Analytics.shutterstock_160050128.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/amp/",
+      "publishedDateTime": "2022-09-27T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-physical-training-is-the-next-hurdle-for-artificial-intelligence-researcher-says.md",
+      "title": "Physical training is the next hurdle for artificial intelligence, researcher says",
+      "excerpt": "Let a million monkeys clack on a million typewriters for a million years and, the adage goes, they'll reproduce the works of Shakespeare. Give infinite monkeys infinite time, and they still will not appreciate the bard's poetic turn-of-phrase,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-09-physical-hurdle-artificial-intelligence.html",
+      "originalUrl": "https://techxplore.com/news/2022-09-physical-hurdle-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-2.jpg",
+          "width": 1920,
+          "height": 1633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-09-physical-hurdle-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-physical-hurdle-artificial-intelligence.amp",
+      "publishedDateTime": "2022-09-27T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-09-27-the-five-pitfalls-of-adopting-ai-in-financial-services-and-how-to-avoid-them.md",
       "title": "The Five Pitfalls Of Adopting AI In Financial Services And How To Avoid Them",
       "excerpt": "It’s great to see AI adoption at this scale, but this also makes it crucial for FSI leaders to watch for and avoid some of the following leading pitfalls in AI initiatives.",
@@ -458,7 +657,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-expected-to-raise-at-3174-cagr-by-2022-2027-107-report-pages-2022-09-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -896,7 +1095,7 @@
       "originalUrl": "https://www.nextplatform.com/2022/09/26/kaust-hpe-shaheen-iii-supercomputer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -977,13 +1176,13 @@
     {
       "path": "_news/2022-09-26-inventecs-rhyperior-is-the-powerhouse-gpu-accelerator-system-every-business-in-the-ai-and-ml-world-needs.md",
       "title": "Inventec's Rhyperior Is the Powerhouse GPU Accelerator System Every Business in the AI And ML World Needs",
-      "excerpt": "Rhyperior is the ideal and effective system to enhance performance dramatically for the modern workload.TAIPEI, Sept. 26, 2022 /PRNewswire/",
+      "excerpt": "TAIPEI, Sept. 26, 2022 /PRNewswire/ --Taiwan-based leading server manufacturing company Inventec (TPE: 2356)'s powerhouse GPU accelerator system, Rhyperior, is everything any modern-day business ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/inventec-s-rhyperior-is-the-powerhouse-gpu-accelerator-system-every-business-in-the-ai-and-ml-world-needs-1031765200",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/inventec-s-rhyperior-is-the-powerhouse-gpu-accelerator-system-every-business-in-the-ai-and-ml-world-needs-1031765200",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/n29014243/inventecs-rhyperior-is-the-powerhouse-gpu-accelerator-system-every-business-in-the-ai-and-ml-world",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/n29014243/inventecs-rhyperior-is-the-powerhouse-gpu-accelerator-system-every-business-in-the-ai-and-ml-world",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -997,23 +1196,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-26T09:06:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29014243",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29014243",
+      "publishedDateTime": "2022-09-26T09:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1024,206 +1214,7 @@
       "topics": [
         "AI Hardware",
         "AI",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-james-earl-jones-signed-darth-vader-voice-rights-to-disney-for-ai-use.md",
-      "title": "James Earl Jones signed Darth Vader voice rights to Disney for AI use",
-      "excerpt": "During the creation of the Obi-Wan Kenobi TV series, James Earl Jones signed off on allowing Disney to replicate his vocal performance as Darth Vader in future projects using an AI voice modeling tool called Respeecher,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/09/james-earl-jones-signed-darth-vader-voice-rights-to-disney-for-ai-use/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/09/james-earl-jones-signed-darth-vader-voice-rights-to-disney-for-ai-use/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/darth_vader_pixels_1-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-26T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-radical-research-advance-to-boost-biotech-industrys-health.md",
-      "title": "Radical Research Advance To Boost Biotech Industry’s Health",
-      "excerpt": "The London, U.K.-based firm used AI algorithms to successfully predict the three-dimensional shapes proteins would take as they folded organically. It was a monumental advance in the field of biotechnology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jonmarkman/2022/09/26/radical-research-advance-to-boost-biotech-industrys-health/",
-      "originalUrl": "https://www.forbes.com/sites/jonmarkman/2022/09/26/radical-research-advance-to-boost-biotech-industrys-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6331bceeaefe48e8587d2c2f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1203,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jonmarkman/2022/09/26/radical-research-advance-to-boost-biotech-industrys-health/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2022/09/26/radical-research-advance-to-boost-biotech-industrys-health/amp/",
-      "publishedDateTime": "2022-09-26T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-compared-to-hex-coin-and-vechain-feed3-provides-artificial-intelligence.md",
-      "title": "Compared to Hex Coin and VeChain, Feed3 Provides Artificial Intelligence",
-      "excerpt": "The next big innovation, Feed (FD3) will remake the web and digital world well. This will happen by permitting users to possess and maintain their data while working in a domain that is decentralized,",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/brand-stories/compared-to-hex-coin-and-vechain-feed3-provides-artificial-intelligence-11664200182119.html",
-      "originalUrl": "https://www.livemint.com/brand-stories/compared-to-hex-coin-and-vechain-feed3-provides-artificial-intelligence-11664200182119.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/09/26/600x338/08_1664200579673_1664200579839_1664200579839.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/brand-stories/compared-to-hex-coin-and-vechain-feed3-provides-artificial-intelligence/amp-11664200182119.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/compared-to-hex-coin-and-vechain-feed3-provides-artificial-intelligence/amp-11664200182119.html",
-      "publishedDateTime": "2022-09-26T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-ai-in-computer-vision-market-2022-regions-will-have-the-highest-revenue-which-will-emerge-in-importance-in-the-market-2028.md",
-      "title": "AI In Computer Vision Market 2022, regions will have the highest revenue, which will emerge in importance in the market 2028",
-      "excerpt": "What is the total market value of AI In Computer Vision market? [No. of pages: 86] Global “AI In Computer Vision",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2022-regions-will-have-the-highest-revenue-which-will-emerge-in-importance-in-the-market-2028-2022-09-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2022-regions-will-have-the-highest-revenue-which-will-emerge-in-importance-in-the-market-2028-2022-09-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-26T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
+        "Machine Learning"
       ]
     }
   ],

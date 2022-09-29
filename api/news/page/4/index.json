@@ -2,6 +2,135 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-23-large-scale-revenue-forecasting-at-bosch-with-amazon-forecast-and-amazon-sagemaker-custom-models.md",
+      "title": "Large-scale revenue forecasting at Bosch with Amazon Forecast and Amazon SageMaker custom models",
+      "excerpt": "This post is co-written by Goktug Cinar, Michael Binder, and Adrian Horvath from Bosch Center for Artificial Intelligence (BCAI). Revenue forecasting is a challenging yet crucial task for strategic business decisions and fiscal planning in most organizations. Often, revenue forecasting is manually performed",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/large-scale-revenue-forecasting-at-bosch-with-amazon-forecast-and-amazon-sagemaker-custom-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/large-scale-revenue-forecasting-at-bosch-with-amazon-forecast-and-amazon-sagemaker-custom-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/23/revenue-forecasting-bosch-1260x630.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-23T09:54:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-23-using-neural-networks-to-recognize-arthritis-in-an-mri-scan.md",
+      "title": "Using neural networks to recognize arthritis in an MRI scan",
+      "excerpt": "The team had only recently investigated whether neural networks could determine the type of arthritis using high resolution computer tomography images. They were successful. According to Prof.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-09-neural-networks-arthritis-mri-scan.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-09-neural-networks-arthritis-mri-scan.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/x-ray-hand.jpg",
+          "width": 1920,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-09-neural-networks-arthritis-mri-scan.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-neural-networks-arthritis-mri-scan.amp",
+      "publishedDateTime": "2022-09-23T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-23-convolutional-neural-networks-trained-algorithm-may-help-diagnose-alveolar-bone-loss-in-periapical-x-rays.md",
+      "title": "Convolutional neural networks trained algorithm may help diagnose alveolar bone loss in periapical X-rays",
+      "excerpt": "A convolutional neural networks trained algorithm on radiographic images showed a diagnostic performance with moderate to good reliability to detect and quantify percentage alveolar bone loss",
+      "sourceUrl": null,
+      "webUrl": "https://medicaldialogues.in/dentistry/news/convolutional-neural-networks-trained-algorithm-may-help-diagnose-alveolar-bone-loss-in-periapical-x-rays-99206",
+      "originalUrl": "https://medicaldialogues.in/dentistry/news/convolutional-neural-networks-trained-algorithm-may-help-diagnose-alveolar-bone-loss-in-periapical-x-rays-99206",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-23T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily",
+        "domain": "medicaldialogues.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-23-microsofts-new-security-chief-looks-to-ai-to-fight-hackers-qa.md",
       "title": "Microsoft’s New Security Chief Looks to AI to Fight Hackers: Q&A",
       "excerpt": "His mission was to  chart a future course for the security business, which now generates more than $15 billion annually. Bell reorganized, combining groups scattered across businesses like Azure cloud,",
@@ -614,6 +743,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-23-automotive-artificial-intelligence-ai-market-size-to-hit-usd-191-bn-by-2030.md",
+      "title": "Automotive Artificial Intelligence (AI) Market Size To Hit USD 19.1 Bn By 2030",
+      "excerpt": "The global automotive artificial intelligence (AI) market size was valued at USD 2.9 billion in 2021. The development in the auto business is supposed to drive the automotive artificial intelligence market.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104911136/Automotive-Artificial-Intelligence-AI-Market-Size-To-Hit-USD-191-Bn-By-2030",
+      "originalUrl": "https://menafn.com/1104911136/Automotive-Artificial-Intelligence-AI-Market-Size-To-Hit-USD-191-Bn-By-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?107393",
+          "width": 374,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-22-detect-population-variance-of-endangered-species-using-amazon-rekognition.md",
       "title": "Detect population variance of endangered species using Amazon Rekognition",
       "excerpt": "Our planet faces a global extinction crisis. UN Report shows a staggering number of more than a million species feared to be on the path of extinction. The most common reasons for extinction include loss of habitat, poaching, and invasive species. Several wildlife conservation foundations, research scientists,",
@@ -667,40 +839,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-23-automotive-artificial-intelligence-ai-market-size-to-hit-usd-191-bn-by-2030.md",
-      "title": "Automotive Artificial Intelligence (AI) Market Size to Hit USD 19.1 Bn by 2030",
-      "excerpt": "The global automotive artificial intelligence (AI) market size was valued at USD 2.9 billion in 2021. The development in the auto business is supposed to drive the automotive",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28977012",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28977012",
-      "publishedDateTime": "2022-09-22T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-23-top-natural-language-processing-companies-2022.md",
       "title": "Top Natural Language Processing Companies 2022",
       "excerpt": "These leading Natural Language Processing vendors can help AI deployments \"learn\" how to listen and interact with humans.",
@@ -751,7 +889,8 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI",
-        "Machine Learning"
+        "Machine Learning",
+        "IBM AI"
       ]
     },
     {
@@ -1030,125 +1169,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-falkonry-unveils-gpu-based-high-speed-time-series-anomaly-detection-application.md",
-      "title": "Falkonry Unveils GPU-Based, High-Speed Time Series Anomaly Detection Application",
-      "excerpt": "Falkonry today announced an automated anomaly detection application called Falkonry Insight which operates on high-speed sensor time series data. Insight is the newest addition to Falkonry’s Time Series AI Suite to drive higher operational reliability and yield,",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/falkonry-unveils-gpu-based-high-speed-time-series-anomaly-detection-application/",
-      "originalUrl": "https://www.datanami.com/this-just-in/falkonry-unveils-gpu-based-high-speed-time-series-anomaly-detection-application/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-why-you-need-a-digital-champion-to-score-ai-wins.md",
-      "title": "Why you need a digital champion to score AI wins",
-      "excerpt": "Panelists at Digital Procurement World said making AI work with humans requires an internal digital champion to create a safe environment.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-you-need-a-digital-champion-to-score-ai-wins/",
-      "originalUrl": "https://venturebeat.com/ai/why-you-need-a-digital-champion-to-score-ai-wins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-649813346-e1663856782735.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-you-need-a-digital-champion-to-score-ai-wins/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-you-need-a-digital-champion-to-score-ai-wins/amp/",
-      "publishedDateTime": "2022-09-22T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-arkx-labs-everywordtm-far-field-voice-selected-for-research-study-by-pni-faculty.md",
-      "title": "ArkX Labs' EveryWordTM Far-field Voice Selected for Research Study by PNI Faculty",
-      "excerpt": "ArkX Laboratories, a leading provider of far-field voice capture technology, announced that its EveryWord™ Development Kit was chosen to be part of research conducted by Princeton Professor of Psychol",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/b28966677/arkx-labs-everywordtm-far-field-voice-selected-for-research-study-by-pni-faculty",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/b28966677/arkx-labs-everywordtm-far-field-voice-selected-for-research-study-by-pni-faculty",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28966677",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28966677",
-      "publishedDateTime": "2022-09-22T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

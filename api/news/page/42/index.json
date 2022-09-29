@@ -2,6 +2,239 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2022-08-25-does-louisiana-have-a-plan-to-safely-house-teens-in-angola-here-are-new-details.md",
+      "title": "Does Louisiana have a plan to safely house teens in Angola? Here are new details.",
+      "excerpt": "15, but a lawsuit and a host of advocates say officials still haven’t laid out a plan for how they will do that while keeping the youths safe and providing them services required ... stored in a Microsoft Word document, show it is a near-copy of a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theadvocate.com/baton_rouge/news/crime_police/article_f045e0c2-23cd-11ed-9490-1b3e3a49bd54.html",
+      "originalUrl": "https://www.theadvocate.com/baton_rouge/news/crime_police/article_f045e0c2-23cd-11ed-9490-1b3e3a49bd54.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-24T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Advocate",
+        "domain": "theadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-lyft-and-motional-unveil-driverless-robotaxi-in-vegas.md",
+      "title": "Lyft And Motional Unveil Driverless Robotaxi In Vegas",
+      "excerpt": "Lyft and Motional have partnered to launch Motional's new all-electric IONIQ 5-based robotaxi, an autonomous vehicle designed for fully driverless ride-hail operation, on the Lyft network in Las ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104749877/Lyft-And-Motional-Unveil-Driverless-Robotaxi-In-Vegas",
+      "originalUrl": "https://menafn.com/1104749877/Lyft-And-Motional-Unveil-Driverless-Robotaxi-In-Vegas",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-08/24/R&AN_e39d7image_story.jpeg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-24T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MENAFN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-who-is-fn-meka-controversial-ai-rapper-dropped-by-capitol-records.md",
+      "title": "Who Is FN Meka? Controversial AI Rapper Dropped by Capitol Records",
+      "excerpt": "Capitol Records announced Tuesday that it dropped FN Meka, an artificial intelligence (AI) rapper that critics have condemned as an appropriation of Black culture. The record label made waves within the music industry when it announced on August 12 that it had signed Meka,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/fn-meka-ai-rapper-dropped-capitol-records-1736588",
+      "originalUrl": "https://www.newsweek.com/fn-meka-ai-rapper-dropped-capitol-records-1736588",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2103606/capitol-records-building-pictured-2020.jpg",
+          "width": 3100,
+          "height": 2068,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/fn-meka-ai-rapper-dropped-capitol-records-1736588?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fn-meka-ai-rapper-dropped-capitol-records-1736588?amp=1",
+      "publishedDateTime": "2022-08-24T11:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-humans-have-a-natural-defense-against-facial-recognition-aging.md",
+      "title": "Humans Have a Natural Defense Against Facial Recognition: Aging",
+      "excerpt": "After just 5 years, facial recognition systems start struggling to identify us, and after 20 years they have no chance. I've been working at PCMag since November 2016, covering all areas of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/humans-have-a-natural-defense-against-facial-recognition-aging",
+      "originalUrl": "https://www.pcmag.com/news/humans-have-a-natural-defense-against-facial-recognition-aging",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/05Pz8HRnBQxyCwqrSeEy3it-1.fit_lim.size_1200x630.v1661351863.jpg",
+          "width": 1121,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-24T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-can-nist-move-trustworthy-ai-forward-with-new-draft-of-ai-risk-management-framework.md",
+      "title": "Can NIST move ‘trustworthy AI’ forward with new draft of AI risk management framework?",
+      "excerpt": "NIST releases an expanded draft of the AI Risk Management Framework but the impact on trustworthy AI remains unclear.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-risk-management-framework/",
+      "originalUrl": "https://venturebeat.com/ai/ai-risk-management-framework/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-robot_machine_learning_AI_1323774184-e1659571276418.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-risk-management-framework/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-risk-management-framework/amp/",
+      "publishedDateTime": "2022-08-24T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-25-elon-musk-tells-early-tesla-full-self-driving-beta-testers-not-to-complain.md",
       "title": "Elon Musk tells early Tesla Full Self-Driving Beta testers not to complain",
       "excerpt": "Elon Musk has told an early Tesla Full Self-Driving Beta tester not to complain about the new FSD Beta update. Isn’t that kind of their job? A job that not only they are not paid for, but that Tesla is paying for? FSD Beta enables Tesla vehicles to drive ...",
@@ -977,229 +1210,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-ai-in-computer-vision-market-key-players-overview-applications-and-analysis-2029.md",
-      "title": "AI in Computer Vision Market Key Players Overview Applications and Analysis 2029",
-      "excerpt": "Pune, India-Research Report on Global AI in Computer Vision Market 2022-2029 Report Demand develops Rapidly as Our",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-key-players-overview-applications-and-analysis-2029-2022-08-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-key-players-overview-applications-and-analysis-2029-2022-08-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T01:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-saas-solutions-provider-revsureai-raises-35-mn-in-seed-funding.md",
-      "title": "SaaS solutions provider RevSure.AI raises $3.5 mn in seed funding",
-      "excerpt": "RevSure.AI announced on Wednesday that it has raised $3.5 million in seed funding and has launched out of stealth mode. The investment was led by Innovation Endeavors, with participation from angel investors Katrin Ribant,",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/companies/saas-solutions-provider-revsure-ai-raises-3-5-mn-in-seed-funding-122082400584_1.html",
-      "originalUrl": "https://www.business-standard.com/article/companies/saas-solutions-provider-revsure-ai-raises-3-5-mn-in-seed-funding-122082400584_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-08/24/full/1661329340-8151.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/saas-solutions-provider-revsure-ai-raises-3-5-mn-in-seed-funding-122082400584_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/saas-solutions-provider-revsure-ai-raises-3-5-mn-in-seed-funding-122082400584_1.html",
-      "publishedDateTime": "2022-08-24T01:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-ai-startup-anyscale-adds-99-million-to-andreessen-horowitz-led-funding-round.md",
-      "title": "AI Startup Anyscale Adds $99 Million to Andreessen Horowitz-Led Funding Round",
-      "excerpt": "Anyscale Inc., an artificial-intelligence startup created three years ago by ... the open-source software needed to run Anyscale’s AI tools, is catching the attention of investors, said Robert ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200",
-      "originalUrl": "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-608499/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200",
-      "publishedDateTime": "2022-08-24T00:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-computer-vision-development-market-size-cagr-status-key-dynamics-share-size-top-key-manufacturers-regional-segmentation-and-forecast-to.md",
-      "title": "Computer Vision Development Market Size, CAGR Status, Key Dynamics, Share, Size, Top Key Manufacturers, Regional Segmentation and Forecast to 2029",
-      "excerpt": "Computer Vision Development Market Report 2022 presents strategic analysis of growth predictions, future trends analysis, sales-revenue, sales patterns, production, consumption and highlighted key ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/computer-vision-development-market-size-cagr-status-key-dynamics-share-size-top-key-manufacturers-regional-segmentation-and-forecast-to-2029",
-      "originalUrl": "https://www.digitaljournal.com/pr/computer-vision-development-market-size-cagr-status-key-dynamics-share-size-top-key-manufacturers-regional-segmentation-and-forecast-to-2029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/Artemis1-NASA-Moon-AFP-1K-04-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T00:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-hyundai-motor-group-invests-in-startup-bos-semiconductors.md",
-      "title": "Hyundai Motor Group invests in Startup BOS Semiconductors",
-      "excerpt": "Hyundai Motor Group to invest in BOS Semiconductors, a Korean-based fabless startup that designs and develops system-on-chip (SoC) solutions Hyundai Motor Group (the Group) announced today",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenewsmarket.com/news/hyundai-motor-group-invests-in-startup-bos-semiconductors/s/83f7acf1-3cdf-401a-9775-74c6e576ff99",
-      "originalUrl": "https://www.thenewsmarket.com/news/hyundai-motor-group-invests-in-startup-bos-semiconductors/s/83f7acf1-3cdf-401a-9775-74c6e576ff99",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The NewsMarket",
-        "domain": "thenewsmarket.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

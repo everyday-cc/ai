@@ -87,6 +87,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "SAS Viya Now Available on Microsoft Azure Marketplace"
+    excerpt: "The full-featured platform on Microsoft Azure would equip global customers with access to essential machine learning, data exploration, and model deployment analytics"
+    publishedDateTime: 2022-09-29T10:10:00Z
+    webUrl: "https://analyticsindiamag.com/sas-viya-now-available-on-microsoft-azure-marketplace/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 69
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/09/oie_4SPc7hZvoLMk.jpeg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "TCS recognized as Leader and Star Performer for Microsoft Azure System Integration Capabilities"
     excerpt: "TCS was recognized as a Star Performer for demonstrating the strongest forward and upward movement on the matrix, based on its continued investments in intellectual property, comprehensive portfolio of Azure services,"
     publishedDateTime: 2022-09-26T10:38:00Z

@@ -108,60 +108,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-26-inventecs-rhyperior-is-the-powerhouse-gpu-accelerator-system-every-business-in-the-ai-and-ml-world-needs.md",
-      "title": "Inventec's Rhyperior Is the Powerhouse GPU Accelerator System Every Business in the AI And ML World Needs",
-      "excerpt": "Rhyperior is the ideal and effective system to enhance performance dramatically for the modern workload.TAIPEI, Sept. 26, 2022 /PRNewswire/",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/inventec-s-rhyperior-is-the-powerhouse-gpu-accelerator-system-every-business-in-the-ai-and-ml-world-needs-1031765200",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/inventec-s-rhyperior-is-the-powerhouse-gpu-accelerator-system-every-business-in-the-ai-and-ml-world-needs-1031765200",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1906206/InventecRhyperior_0919.jpg",
-          "width": 400,
-          "height": 205,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-26T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-26-closing-the-gap-between-marketing-and-ai-systems.md",
       "title": "Closing The Gap Between Marketing And AI Systems",
       "excerpt": "Today, thanks to AI, even a small business can achieve great success through a global audience, democratizing this opportunity for those willing to work for it.",
@@ -1491,6 +1437,41 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-08-lightning-ai-brings-on-pytorch-lead-to-expand-deep-learning-leadership.md",
+      "title": "Lightning AI Brings on PyTorch Lead to Expand Deep Learning Leadership",
+      "excerpt": "Mike Ruberry, core PyTorch technical lead, joins Lightning AI as chief engineer of the PyTorch teamNew hire signals beginning of PyTorch team at the New Yo",
+      "sourceUrl": null,
+      "webUrl": "https://www.generation-nt.com/lightning-ai-brings-on-pytorch-lead-to-expand-deep-learning-leadership-newswire-2004818.html",
+      "originalUrl": "https://www.generation-nt.com/lightning-ai-brings-on-pytorch-lead-to-expand-deep-learning-leadership-newswire-2004818.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-07T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GNT",
+        "domain": "generation-nt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-size-share-and-forecast-till-2027-with-top-countries-data-2022-09-28"
 type: article
 quality: 52
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving Cars Market Size 2022-2028 Global Industrial Analysis by Growth Rate, Market Share, Revenue and Forecast Research Report"
-    excerpt: "Sep 27, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Self-driving Cars"
-    publishedDateTime: 2022-09-27T09:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-size-2022-2028-global-industrial-analysis-by-growth-rate-market-share-revenue-and-forecast-research-report-2022-09-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 3
   - title: "Global Data Collection and Labeling Market to Reach $12.75 Billion by 2030"
     excerpt: "The global data collection and labeling market size is expected to reach USD 12.75 billion by 2030, according to this report. The market is anticipated to expand at a CAGR of 25.1% from 2022 to 2030."
     publishedDateTime: 2022-09-27T11:59:00Z

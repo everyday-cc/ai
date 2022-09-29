@@ -22,89 +22,49 @@ topics:
   - AI
 
 related:
-  - title: "AI and Machine Learning Enter the Kitchen at Chipotle"
-    excerpt: "The first, piloting in select Southern California restaurants, is a cook-to-needs kitchen management system that provides demand-based cooking and ingredient preparation forecasts to “optimize throughput and freshness while minimizing food waste,"
-    publishedDateTime: 2022-09-27T16:52:00Z
-    webUrl: "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enter-kitchen-chipotle"
+  - title: "How AI Can Streamline Sales And Operations Planning"
+    excerpt: "Business leaders need to remember that making money is not only about bringing in more of it; learning how to stop losing it due to operational inefficiencies is equally important."
+    publishedDateTime: 2022-09-29T10:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/29/how-ai-can-streamline-sales-and-operations-planning/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/29/how-ai-can-streamline-sales-and-operations-planning/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/29/how-ai-can-streamline-sales-and-operations-planning/amp/"
     type: article
     provider:
-      name: QSR magazine
-      domain: qsrmagazine.com
-    quality: 73
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2022-09/Chipotlane.jpg?itok=5BEjL9Eh"
-        width: 765
-        height: 446
+      - url: "https://imageio.forbes.com/specials-images/imageserve/624ee96fdaa9eb3a4c56cc31/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 788
         isCached: true
-  - title: "AI and Machine Learning Enters the Kitchen at Chipotle"
-    excerpt: "The first, piloting in select Southern California restaurants, is a cook-to-needs kitchen management system that provides demand-based cooking and ingredient preparation forecasts to “optimize throughput and freshness while minimizing food waste,"
-    publishedDateTime: 2022-09-27T14:50:00Z
-    webUrl: "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enters-kitchen-chipotle"
+  - title: "How To Use Machine Learning To Create A Portfolio Hedging Strategy"
+    excerpt: "What Most Hedging Looks Like Today. Let’s start by exploring the status quo, where an investor may treat shorting like slapping a bandage on the broader problem of portfolio ris"
+    publishedDateTime: 2022-09-29T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/29/how-to-use-machine-learning-to-create-a-portfolio-hedging-strategy/"
     type: article
     provider:
-      name: QSR magazine
-      domain: qsrmagazine.com
-    quality: 73
-    images:
-      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2022-09/Chipotlane.jpg?itok=5BEjL9Eh"
-        width: 765
-        height: 446
-        isCached: true
-  - title: "Chipotle is moving its tortilla robot to a real restaurant"
-    excerpt: "Chipotle's tortilla-making robot will soon help out in a restaurant you can visit. The chain has unveiled a slew of technology updates that include moving the Miso Robotics-made Chippy robot to a real restaurant."
-    publishedDateTime: 2022-09-27T14:03:00Z
-    webUrl: "https://www.engadget.com/chipotle-chippy-tortilla-robot-in-restaurant-132117637.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
+      name: Forbes
+      domain: forbes.com
     quality: 69
     images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-09/a595abc0-3e62-11ed-bbeb-9b3e3e85061f"
-        width: 1920
-        height: 1280
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62e7eff8bb97f2f005b0c77c/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Chipotle tests AI kitchen system, location-based technology"
-    excerpt: "The fast casual chain is working with PreciTaste on the kitchen management program and FlyBuy, a location-based technology, to boost app functionality."
-    publishedDateTime: 2022-09-27T15:38:00Z
-    webUrl: "https://www.restaurantdive.com/news/Chipotle-deploys-artificial-intelligence-other-technology/632720/"
+  - title: "Digital India Corp. Plans Restructuring, To House More Divisions Including AI And Machine Learning"
+    excerpt: "Digital India Corporation is a not for profit company set up by the Ministry of Electronics and Information Technology (MeitY). It leads and guides in realizing the vision, objectives and goals of the Digital India program."
+    publishedDateTime: 2022-09-26T17:13:00Z
+    webUrl: "https://menafn.com/1104926176/Digital-India-Corp-Plans-Restructuring-To-House-More-Divisions-Including-AI-And-Machine-Learning"
     type: article
     provider:
-      name: restaurantdive
-      domain: restaurantdive.com
-    quality: 54
+      name: Mena FN
+      domain: menafn.com
+    quality: 40
     images:
-      - url: "https://www.restaurantdive.com/imgproxy/3lyQS_jDN9rORluUB_iF2QB1YdHoHK0se6lPUJOEZE0/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0NoaXBvdGxhbmUzODQ2X0NoaXBvdGxlLmpwZw.jpg"
-        width: 770
-        height: 364
-        isCached: true
-  - title: "Who Could Have Seen This Coming? Chipotle Tests Out Robot Chip Maker As CA Passes Fast Food Bill"
-    excerpt: "Bags of chips are seen ready for customers in a Chipotle restaurant, on the day that the company announced it will only use non-GMO ingredients in its food on April 27, 2015 in Miami, Florida. The company announced,"
-    publishedDateTime: 2022-09-27T19:44:00Z
-    webUrl: "https://ijr.com/chipotle-tests-robot-chip-maker-ca-passes-fast-food-bill/"
-    type: article
-    provider:
-      name: ijr.com
-      domain: ijr.com
-    quality: 43
-    images:
-      - url: "https://ijr.com/wp-content/uploads/2022/09/GettyImages-471371484.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Chipotle's latest tech innovations include autonomous cooking assistants, AI, real-time updates"
-    excerpt: "CMG said the system uses AI and machine learning to monitor ingredient levels in ... Chipotle (CMG) has been testing the autonomous cooking assistant (called Chippy) with tortilla chip production at its headquarters’ innovation hub in Irvine, California."
-    publishedDateTime: 2022-09-27T14:54:00Z
-    webUrl: "https://seekingalpha.com/news/3886388-chipotles-latest-tech-innovations-include-autonomous-cooking-assistants-ai-real-time-updates"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 42
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1393875852/image_1393875852.jpg?io=getty-c-w750"
-        width: 750
-        height: 509
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?694657"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "jU29pF3tbdQV4FmIfXcsUrTZ/84lKeJ7o1fa4U/dl8ybs5l2b7xzHfPNEdEun6s7Gmdi/2iP3lHINOHMRljoo3UXt+qj4ZIf13Qe6pR60vNWBYDT4gijl7f7OBFhMnjSRGdFI2YjlCMVXQeU3Mb7JTsO4+pS4MwsZnvBWQ1OEJ77/hyFSj4vZgGex0fmvZE1wRWuXvhRTPe5x3d/LwSi4hTiWGD7mFuwCozhOAVMGtjEL8787F+9zCLQcx7Ep6AT/m3KFMpbU0HG1vIP7jdF/yYrcKdOLhgFzbcDEKamU22GQ/XUYloditBenn/g5HuSHzEnR4P7DNsHXWg8j4+/eLqHdBgHRF96I6fKy4XXzOGUEB30DdTS5uLwyn7x1ddIz5V5ScItGebE/dS3FQjP/RGvPlkQZcl1TbsW7obFY5ed2tWRyEbJ23d9VC/ap/AvUO/jC1b9NK2ySlwE/XbHJqOi0KkK+/pAL1xwTWKMR1AcLjInhDvbH3iNc530ehAVtN7THO2I+TdfT45BDIErsg==;9rEW3hTtRTr0cjC6xuDVOw=="

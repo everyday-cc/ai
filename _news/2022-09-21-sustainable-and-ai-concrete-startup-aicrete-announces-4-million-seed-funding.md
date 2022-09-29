@@ -1,44 +1,25 @@
 ---
 category: news
 title: "Sustainable and AI Concrete Startup AICrete Announces $4 Million Seed Funding"
-excerpt: "Sustainable and AI Concrete Startup AICrete Announces $4 Million Seed Funding Sep 21, 2022 (PRNewswire via COMTEX) -- PR Newswire RICHMOND, Calif., Sept."
-publishedDateTime: 2022-09-21T13:52:00Z
-originalUrl: "https://www.marketwatch.com/press-release/sustainable-and-ai-concrete-startup-aicrete-announces-4-million-seed-funding-2022-09-21"
-webUrl: "https://www.marketwatch.com/press-release/sustainable-and-ai-concrete-startup-aicrete-announces-4-million-seed-funding-2022-09-21"
+excerpt: "Through use of AI, AICrete is poised to reduce concrete emissions by up to 35% and drastically increase industry profit margins. RICHMOND, Calif. , Sept. 21, 2022 /PRNewswire/ --"
+publishedDateTime: 2022-09-21T15:14:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-sustainable-ai-concrete-startup-aicrete-announces-4-million-/2022/09/21/9678215.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-sustainable-ai-concrete-startup-aicrete-announces-4-million-/2022/09/21/9678215.htm"
 type: article
-quality: 66
-heat: 76
-published: true
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
-  - AI in Robotics
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+    width: 476
+    height: 210
     isCached: true
 
-related:
-  - title: "Richmond startup AICrete is using a 'recipe-as-a-service' model to make concrete more sustainable"
-    excerpt: "The founder came to the US, escaping religious persecution in Iran. Now he believes he can shake up the stagnant concrete industry."
-    publishedDateTime: 2022-09-23T18:53:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2022/09/23/startup-concrete-sustainability.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
-
-secured: "JH2I7cLDV5WHAOdRKAnO6fPlqX9uU1itq7JnKCgDpUFIREqbn3hnBcg49Jn3Q3iytOKCm6kqhNYQ0ifppzNgBJQQ7qJ0Plx2LjmzHoGesHBNWw6pM6tvhL5FaNl/zvTYoj4d9f8DhafVet7zJ0IGOekwcDbn3S8kcTMrApBvBYeLv/6zT5t4P4Ta6HISuwK8oVKkvMBXm9AEF1JuDQjeDG0QP7reezM+l5/pztKssf8UVD6EzlvWgZuJVbDD4lQh5VqAnog8kL+NaMZRyK1WBEdYyFckkvHvg8ILD9dScSByQ1QQJ8QnYjGsLY+a+AsQcIPnwPoNNsuFz45cmajoEhvaLpAj7/T7pkWORsBITNc=;p+ENiancuDxxQ6r52nFgpw=="
+secured: "z3417IR1Q8XZv3nyJbJTZ7rX7xeX/sOQhMN9zV9ZA+6KMNDjwJiZhtVf9Xxj8AOI/dlJ8QbcEmjaa0aXQof6mrDwkXnMaahUFV49RsYtVpQ2ZgiGypWYsk5E4c9abf/xl0yvOXcWTmoSza7AdEp0ip5JrgLviC9VGQpj7JI2k8TClmkzIRBOERb9QJ0MkLX5+dIzF78SJQ+jd68Zt+U5Tm+Fk0K9sDeBe9KcWV6oet/BWz2cHLJcT2vgEWC+8CVF6OHe4yNW250t0s3hVPtRzBqRNVQ6/ZQ1AFnLF3kBkz1R+sUsG6pclaRql9M4ySYkUrInTokQnebqY0bm8fMejfme7ezU30Yl8G0BznVbkLc=;RDmnSmlQA0VXpIBprDyLDw=="
 ---
 

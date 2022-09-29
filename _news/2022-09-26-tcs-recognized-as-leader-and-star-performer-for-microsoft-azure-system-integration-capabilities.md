@@ -103,6 +103,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "SAS Viya Now Available on Microsoft Azure Marketplace"
+    excerpt: "The full-featured platform on Microsoft Azure would equip global customers with access to essential machine learning, data exploration, and model deployment analytics"
+    publishedDateTime: 2022-09-29T10:10:00Z
+    webUrl: "https://analyticsindiamag.com/sas-viya-now-available-on-microsoft-azure-marketplace/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 69
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/09/oie_4SPc7hZvoLMk.jpeg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Microsoft raises its voice on climate priorities"
     excerpt: "The technology giant declares energy and carbon policy goals, underscores role of digitization in speeding low-carbon economy transition."
     publishedDateTime: 2022-09-26T09:43:00Z

@@ -2,6 +2,212 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-29-want-to-get-your-team-to-adopt-ai-follow-these-8-critical-steps-for-success.md",
+      "title": "Want To Get Your Team To Adopt AI? Follow These 8 Critical Steps For Success",
+      "excerpt": "Despite millions of dollars invested in AI, most industry projects never get adopted. Here are the four stages and eight steps to dramatically improve the adoption of your data science solution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ganeskesari/2022/09/29/want-to-get-your-team-to-adopt-ai-follow-these-8-critical-steps-for-success/",
+      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2022/09/29/want-to-get-your-team-to-adopt-ai-follow-these-8-critical-steps-for-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5fdfc345111d68467d2218f5/0x0.jpg?format=jpg&crop=5994,3997,x0,y85,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2022/09/29/want-to-get-your-team-to-adopt-ai-follow-these-8-critical-steps-for-success/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2022/09/29/want-to-get-your-team-to-adopt-ai-follow-these-8-critical-steps-for-success/amp/",
+      "publishedDateTime": "2022-09-29T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-how-ai-can-streamline-sales-and-operations-planning.md",
+      "title": "How AI Can Streamline Sales And Operations Planning",
+      "excerpt": "Business leaders need to remember that making money is not only about bringing in more of it; learning how to stop losing it due to operational inefficiencies is equally important.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/29/how-ai-can-streamline-sales-and-operations-planning/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/29/how-ai-can-streamline-sales-and-operations-planning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/624ee96fdaa9eb3a4c56cc31/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/29/how-ai-can-streamline-sales-and-operations-planning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/29/how-ai-can-streamline-sales-and-operations-planning/amp/",
+      "publishedDateTime": "2022-09-29T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-virtual-ward-startup-doccla-gets-series-a-injection-as-it-eyes-ai-tools.md",
+      "title": "‘Virtual ward’ startup Doccla gets Series A injection as it eyes AI tools",
+      "excerpt": "Health tech Doccla, which sells a remote patient monitoring platform to UK hospitals, has closed a £15 million Series A funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/28/doccla-series-a/",
+      "originalUrl": "https://techcrunch.com/2022/09/28/doccla-series-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/Copy-of-9.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/28/doccla-series-a/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/28/doccla-series-a/amp/",
+      "publishedDateTime": "2022-09-29T02:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-ai-based-surgical-robots-market-growth-and-future-analysis-exclusive-report-by-fortune-business-insights-2022.md",
+      "title": "AI-based Surgical Robots Market Growth and Future Analysis : Exclusive Report by Fortune Business Insights 2022",
+      "excerpt": "The \"AI-based Surgical Robots Market Size\" industry report contains detailed information on factors influencing",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-growth-and-future-analysis-exclusive-report-by-fortune-business-insights-2022-2022-09-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-growth-and-future-analysis-exclusive-report-by-fortune-business-insights-2022-2022-09-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-28T23:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-29-intel-reveals-arc-a770-gpu-price-and-availability.md",
       "title": "Intel Reveals Arc A770 GPU price and availability",
       "excerpt": "Intel claims that its GPU offers up to 65% better peak performance versus competing products (presumably NVIDIA RTX 3060 series) in ray tracing. In addition, A770 features a full complement of 32 Xe Cores and ray tracing units.",
@@ -209,7 +415,7 @@
       "originalUrl": "https://www.cbssports.com/general/news/oregon-states-bipedal-robot-cassie-sets-guinness-world-record-in-100-meter-dash/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -294,7 +500,7 @@
       "originalUrl": "https://www.zdnet.com/home-and-office/smart-home/amazons-household-robot-astro-can-now-recognize-your-cats-and-dogs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -701,7 +907,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-size-share-and-forecast-till-2027-with-top-countries-data-2022-09-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -909,7 +1115,7 @@
       "originalUrl": "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enter-kitchen-chipotle",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1048,205 +1254,6 @@
         "Facebook AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-document-onboarding-startup-flatfile-nabs-50m-from-investors-including-workday.md",
-      "title": "Document onboarding startup Flatfile nabs $50M from investors, including Workday",
-      "excerpt": "Flatfile, which uses AI to process and normalize data from documents, has raised $50 million in a venture funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/27/document-onboarding-startup-flatfile-nabs-50m-from-investors-including-workday/",
-      "originalUrl": "https://techcrunch.com/2022/09/27/document-onboarding-startup-flatfile-nabs-50m-from-investors-including-workday/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/09/GettyImages-737368899.jpg?resize=1200,601",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/27/document-onboarding-startup-flatfile-nabs-50m-from-investors-including-workday/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/27/document-onboarding-startup-flatfile-nabs-50m-from-investors-including-workday/amp/",
-      "publishedDateTime": "2022-09-27T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-sas-viya-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "SAS Viya now available in the Microsoft Azure Marketplace",
-      "excerpt": "SAS offers its industry-leading analytics platform with hourly pricing model, in-app tutorials and support for multiple languagesCARY, N.C.,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sas-viya-now-available-in-the-microsoft-azure-marketplace-1031767702",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-viya-now-available-in-the-microsoft-azure-marketplace-1031767702",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1907863/SAS__woman_screen.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-sas-launches-first-cloud-analytics-service-on-azure.md",
-      "title": "SAS launches first cloud analytics service on Azure",
-      "excerpt": "SAS is one of the old guards in the data analytics space. Its first tools were developed at North Carolina State University in the late 1960s and commercially launched in 1976. Throughout the last fifty years,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/",
-      "originalUrl": "https://venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/12/Analytics.shutterstock_160050128.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/amp/",
-      "publishedDateTime": "2022-09-27T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-physical-training-is-the-next-hurdle-for-artificial-intelligence-researcher-says.md",
-      "title": "Physical training is the next hurdle for artificial intelligence, researcher says",
-      "excerpt": "Let a million monkeys clack on a million typewriters for a million years and, the adage goes, they'll reproduce the works of Shakespeare. Give infinite monkeys infinite time, and they still will not appreciate the bard's poetic turn-of-phrase,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-09-physical-hurdle-artificial-intelligence.html",
-      "originalUrl": "https://techxplore.com/news/2022-09-physical-hurdle-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-2.jpg",
-          "width": 1920,
-          "height": 1633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-09-physical-hurdle-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-physical-hurdle-artificial-intelligence.amp",
-      "publishedDateTime": "2022-09-27T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

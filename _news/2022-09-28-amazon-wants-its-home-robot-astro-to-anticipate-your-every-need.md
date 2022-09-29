@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 664
         isCached: true
+  - title: "The latest AI robots: Amazon’s Astro, robot dog Spot, the ‘cheap’ Stretch on show at US robot conference"
+    excerpt: "Some of the latest AI robots starred at We Robot 2022 in US, including Amazon’s Astro, Boston Dynamics’ Spot and Hello Robot’s Stretch – but their limitations were also clear."
+    publishedDateTime: 2022-09-29T10:15:00Z
+    webUrl: "https://www.scmp.com/lifestyle/gadgets/article/3193931/latest-ai-robots-amazons-astro-robot-dog-spot-cheap-stretch-show?module=live&pgtype=homepage"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 69
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/09/27/53d5d81d-6deb-4b74-ad2c-74659f198a1f_d181b510.jpg?itok=rKrV4BFO&v=1664255204"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The AIs are here: Robodogs, Amazon's Astro and more. Attachment issues!"
     excerpt: "Astro is the trillion-dollar company's latest foray into artificial intelligence devices, combining Alexa, the Ring monitoring camera and even a cup holder that comes with the device. A review of the Astro in The Wall Street Journal was lukewarm,"
     publishedDateTime: 2022-09-27T00:00:00Z

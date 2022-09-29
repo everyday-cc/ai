@@ -2,44 +2,27 @@
 category: news
 title: "Voxel51 Raises $12.5M Series A to Bring Transparency and Clarity to Computer Vision Data"
 excerpt: "The recent explosion of computer vision data—there are an estimated 45 billion cameras in the world today—creates a tremendous opportunity for machine learning products, but only if it can be ..."
-publishedDateTime: 2022-09-21T16:40:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/voxel51-raises-12-5m-series-a-to-bring-transparency-and-clarity-to-computer-vision-data-1031757242"
-webUrl: "https://markets.businessinsider.com/news/stocks/voxel51-raises-12-5m-series-a-to-bring-transparency-and-clarity-to-computer-vision-data-1031757242"
+publishedDateTime: 2022-09-21T16:09:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/09/n28951618/voxel51-raises-12-5m-series-a-to-bring-transparency-and-clarity-to-computer-vision-data"
+webUrl: "https://www.benzinga.com/pressreleases/22/09/n28951618/voxel51-raises-12-5m-series-a-to-bring-transparency-and-clarity-to-computer-vision-data"
+ampWebUrl: "https://www.benzinga.com/amp/content/28951618"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28951618"
 type: article
-quality: 55
-heat: -1
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "Improving accuracy of computer vision models, Voxel51 raises $12.5M"
-    excerpt: "Computer vision startup, Voxel51, helping data scientists ensure the accuracy of datasets used for computer vision, raises $12.5M series A."
-    publishedDateTime: 2022-09-21T16:00:00Z
-    webUrl: "https://venturebeat.com/ai/improving-accuracy-of-computer-vision-models-voxel51-raises-12-5m/"
-    ampWebUrl: "https://venturebeat.com/ai/improving-accuracy-of-computer-vision-models-voxel51-raises-12-5m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/improving-accuracy-of-computer-vision-models-voxel51-raises-12-5m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/06/computer-vision-e1663772711547.jpg?w=1200&strip=all"
-        width: 1200
-        height: 801
-        isCached: true
+images:
+  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/28171512/image-55-1024x683.png"
+    width: 1024
+    height: 683
+    isCached: true
 
-secured: "0GIMAwIk5vtUDgrI6yUYu/7KnMVs/4PjcTrNWYXyjAXXxACDCo9LRWNaBBTUZnxpZq48utxK29nFcaXUN+YjuE/tpBovn85H+zCVI3rn7ZqlYr6O+jcFp4ESJn7wDwPziRMwrk8K0xVMH5gV8LMZq03fnOs+TimbWDEITacAXTLnZVeqeIC3XliJ10PvOpGgN6TlJF72oTk5XdgrptojLg/n/bpEKHMlplRvbo/+jqUdA3xQpuFEV89bMJFDTbKuNu8Cc/iWiJ17JJZTkXHFVHEqSgmRpLwRdaI4w344rXtYVoDjeXDw4e5P/KNE6zGkJk9O5jr26/jzIR6Y4EdoOWu/fZYzV0lgv9kk0/OLt0U=;4Z3WBOrEdVioBAAq/RcPGQ=="
+secured: "aG1ygqockQ5G7AV0E2zGJGq32/irpw1F49j0A0ndcD79B0DUIBnRn1jECVXx19CH/PrVbE256QpLuVWi4ywCMCTC63w0IMtogOYQy+2NhuzwEBga/mgUrivANJr9WnppMAmknX5NZrAYSibaQHf5nStaiH2J3jBVUFO8TSXDUx4tVr6sWEAizD/LxPhalowVM3mtQHddaVhMUmgtWlobuxsY98tkc7ih0CwUvqnWCiJCno3DmzxjOppxiVfe4NR0quezI2QBLtLgjOfSKkmJWi7y6b0ygtMCEMLefIERBw6YFBcverAva6Lf8vgHMcsUvWsCQTmyLDL1zDzlUgMV0rc7/VP1lErbFmxiNfngxJU=;lqGwoViST+yhM5oivH10rg=="
 ---
 

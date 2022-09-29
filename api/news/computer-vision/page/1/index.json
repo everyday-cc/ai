@@ -10,7 +10,7 @@
       "originalUrl": "https://www.zdnet.com/home-and-office/smart-home/amazons-household-robot-astro-can-now-recognize-your-cats-and-dogs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -212,7 +212,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-expected-to-raise-at-3174-cagr-by-2022-2027-107-report-pages-2022-09-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -286,58 +286,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-ai-in-computer-vision-market-2022-regions-will-have-the-highest-revenue-which-will-emerge-in-importance-in-the-market-2028.md",
-      "title": "AI In Computer Vision Market 2022, regions will have the highest revenue, which will emerge in importance in the market 2028",
-      "excerpt": "What is the total market value of AI In Computer Vision market? [No. of pages: 86] Global “AI In Computer Vision",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2022-regions-will-have-the-highest-revenue-which-will-emerge-in-importance-in-the-market-2028-2022-09-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2022-regions-will-have-the-highest-revenue-which-will-emerge-in-importance-in-the-market-2028-2022-09-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-26T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -575,6 +523,49 @@
         "AI",
         "Machine Learning",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-voxel51-raises-125m-series-a-to-bring-transparency-and-clarity-to-computer-vision-data.md",
+      "title": "Voxel51 Raises $12.5M Series A to Bring Transparency and Clarity to Computer Vision Data",
+      "excerpt": "The recent explosion of computer vision data—there are an estimated 45 billion cameras in the world today—creates a tremendous opportunity for machine learning products, but only if it can be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/n28951618/voxel51-raises-12-5m-series-a-to-bring-transparency-and-clarity-to-computer-vision-data",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/n28951618/voxel51-raises-12-5m-series-a-to-bring-transparency-and-clarity-to-computer-vision-data",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/28171512/image-55-1024x683.png",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28951618",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28951618",
+      "publishedDateTime": "2022-09-21T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {

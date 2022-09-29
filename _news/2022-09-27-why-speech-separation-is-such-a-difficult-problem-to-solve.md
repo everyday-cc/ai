@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-27T07:21:00Z
 originalUrl: "https://analyticsindiamag.com/why-speech-separation-is-such-a-difficult-problem-to-solve/"
 webUrl: "https://analyticsindiamag.com/why-speech-separation-is-such-a-difficult-problem-to-solve/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - IBM AI
 
 images:
   - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/09/melissamccarthy_wide-a148a4a4ee0c0f92a9c45baef018a2c56f600044-scaled.jpg"

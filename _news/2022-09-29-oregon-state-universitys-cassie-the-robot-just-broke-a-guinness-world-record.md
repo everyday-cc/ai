@@ -81,6 +81,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cassie, the bipedal robot now has a world record for 100m dash"
+    excerpt: "Cassie learned to run and this year, she has broken world records in sprinting. The future of bipedal robots is approaching fast."
+    publishedDateTime: 2022-09-29T09:36:00Z
+    webUrl: "https://interestingengineering.com/innovation/bipedal-robot-cassie-sets-world-record"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/2022/09/29/image/png/qEHycvTU4PBDihuECZVDM5xGFGvyLL3n0qNtWaXg.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Cassie, a bipedal robot developed at OSU, achieves Guinness World Record in 100 meters"
     excerpt: "Cassie the robot, invented at the Oregon State University College of Engineering and produced by OSU spinout company Agility Robotics, has established a Guinness World Record for the fastest 100 meters by a bipedal robot."
     publishedDateTime: 2022-09-27T20:34:00Z

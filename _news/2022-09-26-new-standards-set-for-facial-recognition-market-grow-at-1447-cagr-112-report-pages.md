@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fever Detector AI Thermal Camera Market Size, Sales, CAGR And Competition Data from 2022 To 2028"
+    excerpt: "Fever Detector AI Thermal Camera Market Research Report is spread across 103 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
+    publishedDateTime: 2022-09-29T03:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/fever-detector-ai-thermal-camera-market-size-sales-cagr-and-competition-data-from-2022-to-2028-2022-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "New standards set for Artificial Intelligence Market grow at 47.02% CAGR| 117 Report Pages"
     excerpt: "The global Artificial Intelligence market size is expected to expand at a CAGR of 47.02% during the forecast period, reaching USD 411290.49 million by 2027 was valued at USD 40728.3 million in 2021. Artificial Intelligence Market report gives an impression of the various developments,"
     publishedDateTime: 2022-09-27T06:39:00Z

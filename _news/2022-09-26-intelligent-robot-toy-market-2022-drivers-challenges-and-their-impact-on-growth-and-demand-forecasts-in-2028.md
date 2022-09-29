@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Construction Market : Competitive Landscape and Analysis by Recent Trends 2022 to 2027"
-    excerpt: "The global Artificial Intelligence in Construction market size was valued at USD 519.63 million in 2021 and is expected"
-    publishedDateTime: 2022-09-28T04:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-competitive-landscape-and-analysis-by-recent-trends-2022-to-2027-2022-09-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Va/TI9NYJvOZC5CBN5mkpKK7c3yFfnY+1NHKRq+nKZyoXa2+Wdw2zEeOi07c9TClFzdNlP6YsbAcm1akeWHc5qYQxQeEMhTuZP246PhZHAMLhMl5pK8/dEbyN7ppwDLdjRZcCcYkJSFAy4uvnhNhQR+mwBBdhc8cvnB4AtHRA3QF2JZbbC7/DwDUnuZ1CNhsbTDcYDiPuUNaBHaGazQu8UE+LciP+tOjMW+qLVxpQVJe2RmYdk9hGM1zcUicPBUozeT0ni2pb+QiJ3Zcgb02OZccSgyx71RlckuENOUoxLe0etNnv+3JK4GG2AwXs83BfupPW60A6dxasK0rf0uoCahCnqljNwYJLTPIz23lpEc=;un4ZGShEp5y+E2xHITXkNA=="
 ---
