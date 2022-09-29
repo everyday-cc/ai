@@ -2,6 +2,50 @@
   "page": 129,
   "value": [
     {
+      "path": "_news/2022-06-17-new-ai-limbs-let-amputees-control-robotic-arms-with-just-the-power-of-their-mind.md",
+      "title": "New AI limbs let amputees control robotic arms with just the power of their mind",
+      "excerpt": "AMPUTEES could use the power of their minds to control new AI robotic arms, research shows. A team of scientists has created prosthetic technology that enables people to control robot arms by",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesun.co.uk/tech/18915787/amputees-control-artificial-intelligence-limbs-mind-power/",
+      "originalUrl": "https://www.thesun.co.uk/tech/18915787/amputees-control-artificial-intelligence-limbs-mind-power/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/06/RL-offplat-brain-power.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.co.uk/tech/18915787/amputees-control-artificial-intelligence-limbs-mind-power/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/18915787/amputees-control-artificial-intelligence-limbs-mind-power/amp/",
+      "publishedDateTime": "2022-06-16T18:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-06-17-ai-could-mitigate-bias-in-advertising-tech.md",
       "title": "AI could mitigate bias in advertising tech",
       "excerpt": "A fairness solution applied to advertising could help reduce bias and potentially help brands get a better return on their media spending.",
@@ -1085,49 +1129,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-baidu-again-reported-to-be-considering-selling-iqiyi-stake.md",
-      "title": "Baidu again reported to be considering selling iQiyi stake",
-      "excerpt": "Every Wednesday and Friday, TechNode’s Briefing newsletter delivers a roundup of the most important news in China tech, straight to your inbox.",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2022/06/16/baidu-again-reported-to-be-considering-selling-iqiyi-stake/",
-      "originalUrl": "https://technode.com/2022/06/16/baidu-again-reported-to-be-considering-selling-iqiyi-stake/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
-          "width": 540,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2022/06/16/baidu-again-reported-to-be-considering-selling-iqiyi-stake/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/06/16/baidu-again-reported-to-be-considering-selling-iqiyi-stake/",
-      "publishedDateTime": "2022-06-16T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

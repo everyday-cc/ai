@@ -2,6 +2,50 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2022-07-29-analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy.md",
+      "title": "Analogue deep learning offers faster computation for artificial intelligence with much less energy",
+      "excerpt": "A multidisciplinary team of MIT researchers set out to push the speed limits of a type of human-made analogue synapse that they had previously developed. They utilized a practical inorganic material in the fabrication process that enables their devices to run 1 million times faster than previous versions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108",
+      "originalUrl": "https://www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tnn.in/thumb/msid-93208108,imgsize-100,width-1280,height-720,resizemode-75/93208108.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108/amp",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108/amp",
+      "publishedDateTime": "2022-07-29T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-07-29-global-military-robots-market-to-be-driven-by-advancement-in-artificial-intelligence-and-robotics-in-the-forecast-period-of-2022-2027.md",
       "title": "Global Military Robots Market To Be Driven By Advancement In Artificial Intelligence And Robotics In The Forecast Period Of 2022-2027",
       "excerpt": "Military robots are utilised in transportation, search, and rescue, mine clearing, and combat support activities. The expanding popularity of artificial intelligence and robots, as well as global ...",
@@ -1127,49 +1171,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-wimi-hologram-academy-virtual-reality-based-remote-vehicle-driving-technology.md",
-      "title": "WIMI Hologram Academy: Virtual Reality-based Remote Vehicle Driving Technology",
-      "excerpt": "This article follows below: Driverless as well as artificial intelligence are the current research hotspots in the field of vehicles. Considering the cost of experiments, how to conduct unmanned ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/wimi-hologram-academy-virtual-reality-based-remote-vehicle-driving-technology/article_6f17fb76-11f4-5eff-a6bd-fe7b4123990e.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/wimi-hologram-academy-virtual-reality-based-remote-vehicle-driving-technology/article_6f17fb76-11f4-5eff-a6bd-fe7b4123990e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2022-08-18-discovering-when-an-agent-is-present-in-a-system.md",
+      "title": "Discovering when an agent is present in a system",
+      "excerpt": "We want to build safe, aligned artificial general intelligence (AGI) systems that pursue the intended goals of its designers. Causal influence diagrams (CIDs) are a way to model decision-making situations that allow us to reason about agent incentives. By relating training setups to the incentives that",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/discovering-when-an-agent-is-present-in-a-system",
+      "originalUrl": "https://www.deepmind.com/blog/discovering-when-an-agent-is-present-in-a-system",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62fe436b27ff91584631343b_X2e5np_pjgn4n_V6ncNi4z22-oe0Ti9QTXiwgISZRqdNbgk_9EYTiMYhf799hpk6_-BhqP7MRebeIPo9GdAfZF9ntAJOy6pQnrTvSx2e72qVLzvpbldHZ51SShyWbBDopG5VEfKIV8sjBmcflHmD1OxwqyHMCTvyRg_xzMAYujIF5qIiU8yvX-9brd0.png",
+          "width": 1400,
+          "height": 554,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-18-no-one-size-fits-all-artificial-intelligence-approach-works-for-prevention-diagnosis-or-treatment-using-precision-medicine.md",
       "title": "No one-size-fits-all artificial intelligence approach works for prevention, diagnosis or treatment using precision medicine",
       "excerpt": "A Rutgers analysis of dozens of artificial intelligence (AI) software programs used in precision, or personalized, medicine to prevent, diagnose and treat disease found that no program exists that can be used for all treatments.",
@@ -1075,49 +1127,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-new-neuromorphic-chip-for-ai-on-the-edge-at-a-small-fraction-of-the-energy-and-size-of-todays-computing-platforms.md",
-      "title": "New neuromorphic chip for AI on the edge, at a small fraction of the energy and size of today's computing platforms",
-      "excerpt": "An international team of researchers has designed and built a chip that runs computations directly in memory and can run a wide variety of AI applications–all at a fraction of the energy consumed by computing platforms for general-purpose AI computing.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.html",
-      "originalUrl": "https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/a-new-neuromorphic-chi.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.amp",
-      "publishedDateTime": "2022-08-17T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

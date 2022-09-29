@@ -2,6 +2,57 @@
   "page": 142,
   "value": [
     {
+      "path": "_news/2022-06-09-general-purpose-ai-vs-vertical-specific-ai-whats-the-best-way-to-alleviate-our-supply-chain-woes.md",
+      "title": "General-Purpose AI Vs. Vertical-Specific AI: What’s The Best Way To Alleviate Our Supply Chain Woes?",
+      "excerpt": "Here are the key characteristics that we believe allow for the development of maritime AI as a clear, functional branch of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/general-purpose-ai-vs-vertical-specific-ai-whats-the-best-way-to-alleviate-our-supply-chain-woes/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/general-purpose-ai-vs-vertical-specific-ai-whats-the-best-way-to-alleviate-our-supply-chain-woes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//61aa209ac1e69020fec92b71/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/general-purpose-ai-vs-vertical-specific-ai-whats-the-best-way-to-alleviate-our-supply-chain-woes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/09/general-purpose-ai-vs-vertical-specific-ai-whats-the-best-way-to-alleviate-our-supply-chain-woes/amp/",
+      "publishedDateTime": "2022-06-09T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-achieve-seamless-observability-with-dynatrace-for-azure.md",
       "title": "Achieve seamless observability with Dynatrace for Azure",
       "excerpt": "Microsoft Azure enables customers to host their apps on the globally trusted cloud platform and use the services of their choice by closely partnering with popular SaaS offerings. Dynatrace is one such partner that provides deep cloud observability, advanced AIOps, and continuous runtime application",
@@ -1045,49 +1096,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-aws-announces-general-availability-of-aws-mainframe-modernization.md",
-      "title": "AWS Announces General Availability of AWS Mainframe Modernization",
-      "excerpt": "(NASDAQ: AMZN), today announced the general availability of AWS Mainframe Modernization, a new service that makes it faster and easier for customers to modernize mainframe-based workloads by moving them to the cloud to enjoy AWS’s superior agility,",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-aws-mainframe-modernization/article_4ab7df71-759c-598b-8c35-e47a2aca7b59.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-aws-mainframe-modernization/article_4ab7df71-759c-598b-8c35-e47a2aca7b59.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg",
-          "width": 415,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

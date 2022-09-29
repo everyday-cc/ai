@@ -2,6 +2,49 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2022-08-23-bihar-urban-body-polls-2022-voters-to-be-screened-through-face-recognition-system-details-here.md",
+      "title": "Bihar Urban Body Polls 2022: Voters To Be Screened Through Face Recognition System | Details Here",
+      "excerpt": "In first of its kind, the voters in Bihar will be screened through a face recognition software to verify their identity and check electoral malpractices during the upcoming elections for urban local bodies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.india.com/bihar/bihar-urban-body-polls-2022-voters-to-be-screened-through-face-recognition-system-details-here-5589719/",
+      "originalUrl": "https://www.india.com/bihar/bihar-urban-body-polls-2022-voters-to-be-screened-through-face-recognition-system-details-here-5589719/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.india.com/wp-content/uploads/2022/07/hb-2.png",
+          "width": 1285,
+          "height": 766,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.india.com/bihar/bihar-urban-body-polls-2022-voters-to-be-screened-through-face-recognition-system-details-here-5589719/amp/",
+      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/bihar/bihar-urban-body-polls-2022-voters-to-be-screened-through-face-recognition-system-details-here-5589719/amp/",
+      "publishedDateTime": "2022-08-23T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India.com",
+        "domain": "india.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-23-professional-cloud-services-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis.md",
       "title": "Professional Cloud Services Market Size Is Likely to Experience a Tremendous Growth by 2031 Covid-19 Analysis",
       "excerpt": "The professional cloud services market was valued at USD 21.51billion in 2022 and is expected to reach a value of USD 57.54 billion by 2031, at a CAGR of 17.76 %, during the forecast period. The increase in the use of Artificial Intelligence (AI) with a growing focus on digital transformation initiatives are expected to provide growth opportunities for cloud services market - Moreover,",
@@ -1156,40 +1199,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-bosch-backed-self-driving-startup-weride-weighing-ipo-sources-say.md",
-      "title": "Bosch-backed self-driving startup WeRide weighing IPO, sources say",
-      "excerpt": "The self-driving vehicle industry has long been divided over the best ... taking a similar approach to peers including Baidu, Huawei Technologies, and General Motors-backed Momenta.ai. BLOOMBERG",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesstimes.com.sg/garage/bosch-backed-self-driving-startup-weride-weighing-ipo-sources-say",
-      "originalUrl": "https://www.businesstimes.com.sg/garage/bosch-backed-self-driving-startup-weride-weighing-ipo-sources-say",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T01:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Times",
-        "domain": "businesstimes.com.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

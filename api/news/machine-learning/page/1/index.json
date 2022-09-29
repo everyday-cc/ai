@@ -10,7 +10,7 @@
       "originalUrl": "https://techcrunch.com/2022/09/28/google-turns-to-machine-learning-to-advance-translation-of-text-out-in-the-real-world/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -215,7 +215,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/why-ai-will-never-rule-the-world/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -633,8 +633,8 @@
       "title": "Wallaroo Labs Launches in Azure Marketplace; Announces Air Gap Support for Edge Machine Learning Deployment",
       "excerpt": "Wallaroo Labs today announced the availability of Wallaroo Enterprise Edition on Microsoft Azure Marketplace. Wallaroo's model operations platform for deploying, observing, and managing machine learning in production enables customers to easily operationalize ML Models with our purpose-built inference engine,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-wallaroo-labs-launches-azure-marketplace-announces-air-gap-/2022/09/21/9677902.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-wallaroo-labs-launches-azure-marketplace-announces-air-gap-/2022/09/21/9677902.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/09/21/9677902.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/09/21/9677902.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -667,10 +667,9 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "Microsoft AI",
         "AI",
-        "Machine Learning",
-        "Microsoft AI"
+        "Machine Learning"
       ]
     },
     {
@@ -820,7 +819,8 @@
       "topics": [
         "Microsoft AI",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI in Finance"
       ]
     },
     {

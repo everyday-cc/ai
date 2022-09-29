@@ -2,6 +2,59 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2022-09-01-israeli-facial-recognition-once-did-border-checks-in-the-west-bank-now-it-snoops-on-casinos-across-america.md",
+      "title": "Israeli Facial Recognition Once Did Border Checks In The West Bank. Now It Snoops On Casinos Across America",
+      "excerpt": "Israeli facial recognition tech is now in use at casinos in the U.S, raising concerns about how private entities will use powerful surveillance tools. Day after day, thousands of faces appear on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2022/09/01/oosto-israel-facial-recognition-surveillance-on-casinos-in-america/",
+      "originalUrl": "https://www.forbes.com/sites/thomasbrewster/2022/09/01/oosto-israel-facial-recognition-surveillance-on-casinos-in-america/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6310bde3528cfaa940213ebe/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-unified-streaming-joins-aws-partner-network.md",
       "title": "Unified Streaming joins AWS Partner Network",
       "excerpt": "Unified Streaming, a video streaming software development company, has become a validated AWS (Amazon Web Services) Software Partner. The company has successfully passed the AWS Foundational Technical Review (FTR) for Independent Software Vendors (ISV).",
@@ -1067,41 +1120,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology.md",
-      "title": "Removing the data security barriers and concerns to accelerate speech recognition usage in radiology",
-      "excerpt": "According to Scribetech, security is a key barrier to adopting speech recognition – despite its potential to accelerate reporting time, drive accuracy, and enable radiologists to deal with a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kxan.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/",
-      "originalUrl": "https://www.kxan.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T01:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KXAN",
-        "domain": "kxan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

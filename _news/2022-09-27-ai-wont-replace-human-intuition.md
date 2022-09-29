@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/27/ai-wont-re
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/27/ai-wont-replace-human-intuition/amp/"
 type: article
 quality: 89
-heat: 110
+heat: 109
 published: true
 
 provider:

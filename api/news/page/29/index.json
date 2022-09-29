@@ -2,6 +2,59 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2022-09-03-ubtech-announces-global-debut-of-intelligent-healthcare-robots-and-solutions.md",
+      "title": "UBTECH announces global debut of intelligent healthcare robots and solutions",
+      "excerpt": "At the event, UBTECH announced its strategy of creating a smart elderly-care system with several sub-systems within specific elderly-care scenarios. They also launched several robotics products for the healthcare and elderly-care domain.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ubtech-announces-global-debut-of-intelligent-healthcare-robots-and-solutions-1031722479",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ubtech-announces-global-debut-of-intelligent-healthcare-robots-and-solutions-1031722479",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1890962/image_1.jpg",
+          "width": 400,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-02T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-09-03-researchers-suggest-more-effective-way-for-automatic-speech-recognition.md",
       "title": "Researchers suggest more effective way for automatic speech recognition",
       "excerpt": "Popular voice assistants such as Siri and Amazon Alexa have made automated speech recognition (ASR) available to the general public. Despite decades of development, ASR models suffer with consistency and dependability,",
@@ -1107,49 +1160,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-boy-paralyzed-in-highland-park-shooting-may-have-cognitive-loss.md",
-      "title": "Boy paralyzed in Highland Park shooting may have cognitive loss",
-      "excerpt": "According to the family, they are now seeing some patterns of behavior that could indicate cognitive loss. Therapists are noticing short term memory loss, issues with word recovery and loss of ...",
-      "sourceUrl": null,
-      "webUrl": "https://wgntv.com/news/highland-park-parade-shooting/boy-paralyzed-in-highland-park-shooting-may-have-cognitive-loss/",
-      "originalUrl": "https://wgntv.com/news/highland-park-parade-shooting/boy-paralyzed-in-highland-park-shooting-may-have-cognitive-loss/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wgntv.com/wp-content/uploads/sites/5/2022/08/Cooper_Roberts_new.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wgntv.com/news/highland-park-parade-shooting/boy-paralyzed-in-highland-park-shooting-may-have-cognitive-loss/amp/",
-      "cdnAmpWebUrl": "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/news/highland-park-parade-shooting/boy-paralyzed-in-highland-park-shooting-may-have-cognitive-loss/amp/",
-      "publishedDateTime": "2022-09-01T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGN-TV",
-        "domain": "wgntv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

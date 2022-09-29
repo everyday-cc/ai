@@ -2,6 +2,40 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2022-09-06-emerging-technologies-in-automobile-industry-to-push-in-vehicle-ai-robot-demand-states-factmr.md",
+      "title": "Emerging Technologies In Automobile Industry To Push In-Vehicle AI Robot Demand, States Fact.MR",
+      "excerpt": "According to the recent published report at Fact.MR, the global in-vehicle AI robot market is estimated at US$ 38.8 million in 2022. The market is predicted to reach a valuation of US$ 190.7 million by 2032,",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104814406/Emerging-Technologies-In-Automobile-Industry-To-Push-In-Vehicle-AI-Robot-Demand-States-FactMR",
+      "originalUrl": "https://menafn.com/1104814406/Emerging-Technologies-In-Automobile-Industry-To-Push-In-Vehicle-AI-Robot-Demand-States-FactMR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-05T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-06-labour-forces-robots-ai-gaining-more-traction-in-the-workforce.md",
       "title": "Labour forces: Robots, AI gaining more traction in the workforce",
       "excerpt": "Since mid-2021, when Happy Lamb Hot Pot became the first restaurant in the province to start using GreenCo Robots ... heat and rain. As robots evolve and scientists use artificial intelligence (AI) to make them more sophisticated, their ability to work ...",
@@ -1051,51 +1085,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-us-startup-simaai-starts-shipping-machine-learning-chip-and-system.md",
-      "title": "US startup SiMa.ai starts shipping machine learning chip and system",
-      "excerpt": "SiMa.ai/Handout via REUTERS Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/business/us-startup-simaai-starts-shipping-machine-learning-chip-and-system-2909851",
-      "originalUrl": "https://www.channelnewsasia.com/business/us-startup-simaai-starts-shipping-machine-learning-chip-and-system-2909851",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://onecms-res.cloudinary.com/image/upload/s--SCNbkIjv--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-08-30t130839z_1_lynxmpei7t0is_rtroptp_3_chips-sima.jpg?itok=B6EN0Egl",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-04T14:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI Hardware",
-        "AI in Robotics"
       ]
     }
   ],

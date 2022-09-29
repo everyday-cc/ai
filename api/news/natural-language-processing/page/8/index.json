@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-07-14-speech-and-voice-recognition-market-by-deployment-mode-technology-vertical-and-geography-global-forecast-to-2027-researchandmarketscom.md",
+      "title": "Speech and Voice Recognition Market by Deployment Mode, Technology, Vertical and Geography - Global Forecast to 2027 - ResearchAndMarkets.com",
+      "excerpt": "Extensive penetration of speech and voice recognition technologies in smart appliances. The demand for smart homes and smart appliances is increasing owing to various factors, inc",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-asia-voice-recognition-9dbad567d0044dfbad49ee3fb08c8b4b",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-asia-voice-recognition-9dbad567d0044dfbad49ee3fb08c8b4b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-14T01:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-14-indias-project-bhashini-breaking-the-language-barrier-with-ai.md",
       "title": "India’s Project Bhashini: Breaking the language barrier with AI",
       "excerpt": "The core idea is to stop language from being a barrier for any industry. According to Census 2001, along with 22 official languages, India is home to 122 major languages and 1599 other languages. However,",
@@ -1294,59 +1337,6 @@
       "topics": [
         "Facebook AI",
         "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-break-through-language-barriers-with-amazon-transcribe-amazon-translate-and-amazon-polly.md",
-      "title": "Break through language barriers with Amazon Transcribe, Amazon Translate, and Amazon Polly",
-      "excerpt": "Imagine a surgeon taking video calls with patients across the globe without the need of a human translator. What if a fledgling startup could easily expand their product across borders and into new geographical markets by offering fluid, accurate, multilingual customer support and sales, all without",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/break-through-language-barriers-with-amazon-transcribe-amazon-translate-and-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/break-through-language-barriers-with-amazon-transcribe-amazon-translate-and-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/06/Featured-images-for-ML-6711.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T15:37:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
         "Natural Language Processing"
       ]
     }

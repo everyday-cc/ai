@@ -2,6 +2,41 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2022-08-31-removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology.md",
+      "title": "Removing the data security barriers and concerns to accelerate speech recognition usage in radiology",
+      "excerpt": "According to Scribetech, security is a key barrier to adopting speech recognition – despite its potential to accelerate reporting time, drive accuracy, and enable radiologists to deal with a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxan.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/",
+      "originalUrl": "https://www.kxan.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T01:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXAN",
+        "domain": "kxan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-08-31-baidu-revenue-hit-as-advertising-tumbles.md",
       "title": "Baidu revenue hit as advertising tumbles",
       "excerpt": "Chinese internet giant Baidu returned to profit in Q2 2022 on one-off gains ... to an “unfavourable macro environment”, but noted its AI cloud and intelligent driving businesses maintained rapid growth momentum. Looking to the second half, Li said ...",
@@ -1044,58 +1079,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-how-self-supervised-learning-may-boost-medical-ai-progress.md",
-      "title": "How self-supervised learning may boost medical AI progress",
-      "excerpt": "Self-supervised learning in healthcare and medicine is growing, thanks to the vast amount of unstructured data available in that industry.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-self-supervised-learning-may-boost-medical-ai-progress/",
-      "originalUrl": "https://venturebeat.com/ai/how-self-supervised-learning-may-boost-medical-ai-progress/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1156616255.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-self-supervised-learning-may-boost-medical-ai-progress/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-self-supervised-learning-may-boost-medical-ai-progress/amp/",
-      "publishedDateTime": "2022-08-30T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

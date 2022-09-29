@@ -2,6 +2,50 @@
   "page": 149,
   "value": [
     {
+      "path": "_news/2022-06-03-improve-organizational-diversity-equity-and-inclusion-initiatives-with-amazon-polly.md",
+      "title": "Improve organizational diversity, equity, and inclusion initiatives with Amazon Polly",
+      "excerpt": "Organizational diversity, equity and inclusion (DEI) initiatives are at the forefront of companies across the globe. By constructing inclusive spaces with individuals from diverse backgrounds and experiences, businesses can better represent our mutual societal needs and deliver on objectives. In the",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-organizational-diversity-equity-and-inclusion-initiatives-with-amazon-polly/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-organizational-diversity-equity-and-inclusion-initiatives-with-amazon-polly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-03T11:55:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-06-04-firm-proposes-taser-armed-drones-to-stop-school-shootings.md",
       "title": "Firm proposes Taser-armed drones to stop school shootings",
       "excerpt": "The publicly traded company, which sells Tasers and police body cameras, floated the idea of a new police drone product last year to its artificial intelligence ethics board, a group of well ...",
@@ -1036,59 +1080,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-elon-musk-says-tesla-may-have-a-working-humanoid-robot-prototype-by-sept-30.md",
-      "title": "Elon Musk says Tesla may have a working humanoid robot prototype by Sept 30",
-      "excerpt": "Elon Musk announced that Tesla might have a working prototype of Tesla Bot, the automaker's humanoid robot, by September 30th.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototype-elon-musk-sept-30/",
-      "originalUrl": "https://electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototype-elon-musk-sept-30/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 226,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/01/elon-tesla-bot.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototype-elon-musk-sept-30/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototype-elon-musk-sept-30/amp/",
-      "publishedDateTime": "2022-06-02T18:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

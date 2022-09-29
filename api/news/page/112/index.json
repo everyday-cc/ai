@@ -2,6 +2,40 @@
   "page": 112,
   "value": [
     {
+      "path": "_news/2022-06-29-the-robot-handbook-has-arrived-for-the-traveller-rpg.md",
+      "title": "The Robot Handbook has Arrived for the Traveller RPG",
+      "excerpt": "The Robot Handbook is designed to be both quick and easy to use, and configurable to customise all aspects of a robot’s functions, capabilities and skills; a standard robot can be built in just a few minutes.",
+      "sourceUrl": null,
+      "webUrl": "https://thegaminggang.com/game-news/the-robot-handbook-has-arrived-for-the-traveller-rpg/",
+      "originalUrl": "https://thegaminggang.com/game-news/the-robot-handbook-has-arrived-for-the-traveller-rpg/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Gaming Gang",
+        "domain": "thegaminggang.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-ai-ethics-skeptical-about-establishing-so-called-red-flag-ai-laws-for-calling-out-biased-algorithms-in-autonomous-ai-systems.md",
       "title": "AI Ethics Skeptical About Establishing So-Called Red Flag AI Laws For Calling Out Biased Algorithms In Autonomous AI Systems",
       "excerpt": "AI Ethics is questioning whether having Red Flag AI Laws would be viable as to coping with biases in AI, including amid the advent of autonomous AI systems.",
@@ -1083,57 +1117,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-ai-startup-rolls-out-effort-to-autonomously-detect-mass-shooters.md",
-      "title": "AI Startup Rolls Out Effort to Autonomously Detect Mass Shooters",
-      "excerpt": "Kogniz Inc., a startup that says its artificial intelligence ... based company has focused its AI on offering clients the ability to use their on-premises cameras to detect things like defective ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-startup-rolls-out-effort-to-autonomously-detect-mass-shooters-11656496800",
-      "originalUrl": "https://www.wsj.com/articles/ai-startup-rolls-out-effort-to-autonomously-detect-mass-shooters-11656496800",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-573411/social",
-          "width": 1225,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2022-06-27-what-does-the-science-say-about-teas-impact-on-cognitive-function-as-you-age.md",
+      "title": "What Does the Science Say About Tea’s Impact on Cognitive Function As You Age?",
+      "excerpt": "But before loading up on green and black teas to add to your daily routine, Dr. Fratantoni advises taking into consideration the big picture as it pertains to cognitive function as we age.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wellandgood.com/tea-cognitive-function/",
+      "originalUrl": "https://www.wellandgood.com/tea-cognitive-function/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wellandgood.com/wp-content/uploads/2022/06/Stocksy_txp5e61765bdhR300_Small_843483.jpg",
+          "width": 867,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wellandgood.com/tea-cognitive-function/amp/",
+      "cdnAmpWebUrl": "https://www-wellandgood-com.cdn.ampproject.org/c/s/www.wellandgood.com/tea-cognitive-function/amp/",
+      "publishedDateTime": "2022-06-27T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Well+Good",
+        "domain": "wellandgood.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-27-machine-learning-as-a-service-market-report-2022-market-size-by-key-players-types-applications-countries-forecast-by-2030.md",
       "title": "Machine Learning as a Service Market Report 2022 Market Size by Key Players, Types, Applications, Countries, Forecast by 2030",
       "excerpt": "financial summary, business strategy and planning, SWOT analysis and current developments. The Machine Learning as a Service Market is segmented on the lines of its component, organization size ...",
@@ -1129,49 +1172,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-area-high-school-students-learn-about-robotics-at-summer-camp.md",
-      "title": "Area high school students learn about robotics at summer camp",
-      "excerpt": "Isa Alstrom and Brody Guajardo worked together Tuesday to build a robot and create a program that will allow the robot to detect colors using sensors during the University of",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/news/area-high-school-students-learn-about-robotics-at-summer-camp/article_7846e020-f264-11ec-8346-2f09bd6ec0c0.html",
-      "originalUrl": "https://www.victoriaadvocate.com/news/area-high-school-students-learn-about-robotics-at-summer-camp/article_7846e020-f264-11ec-8346-2f09bd6ec0c0.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/c/02/c02058d6-f264-11ec-b8b3-3f74528f226c/62b3730067bfb.image.jpg?resize=400%2C302",
-          "width": 400,
-          "height": 302,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-26T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

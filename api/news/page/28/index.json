@@ -2,6 +2,51 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2022-09-05-us-startup-simaai-starts-shipping-machine-learning-chip-and-system.md",
+      "title": "US startup SiMa.ai starts shipping machine learning chip and system",
+      "excerpt": "SiMa.ai/Handout via REUTERS Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/business/us-startup-simaai-starts-shipping-machine-learning-chip-and-system-2909851",
+      "originalUrl": "https://www.channelnewsasia.com/business/us-startup-simaai-starts-shipping-machine-learning-chip-and-system-2909851",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--SCNbkIjv--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-08-30t130839z_1_lynxmpei7t0is_rtroptp_3_chips-sima.jpg?itok=B6EN0Egl",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-04T14:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI Hardware",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-09-05-ai-asked-to-show-what-real-life-cartoon-characters-look-like.md",
       "title": "AI asked to show what real life cartoon characters look like",
       "excerpt": "An artificial intelligence system that has recently caught the spotlight for numerous reasons has been asked to produce images of real-life iconic cartoon characters. The artificial intelligence ...",
@@ -1135,59 +1180,6 @@
         "AI in Autos",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-ubtech-announces-global-debut-of-intelligent-healthcare-robots-and-solutions.md",
-      "title": "UBTECH announces global debut of intelligent healthcare robots and solutions",
-      "excerpt": "At the event, UBTECH announced its strategy of creating a smart elderly-care system with several sub-systems within specific elderly-care scenarios. They also launched several robotics products for the healthcare and elderly-care domain.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ubtech-announces-global-debut-of-intelligent-healthcare-robots-and-solutions-1031722479",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ubtech-announces-global-debut-of-intelligent-healthcare-robots-and-solutions-1031722479",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1890962/image_1.jpg",
-          "width": 400,
-          "height": 266,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

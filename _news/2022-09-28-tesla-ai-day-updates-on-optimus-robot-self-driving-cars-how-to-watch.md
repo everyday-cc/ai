@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ai-day-updates-on-optimus
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-updates-on-optimus-robot-self-driving-cars-how-to-watch/"
 type: article
 quality: 121
-heat: 231
+heat: 232
 published: true
 
 provider:

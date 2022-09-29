@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-28T17:18:00Z
 originalUrl: "https://www.ft.com/content/a5709548-03bd-4f65-b9b5-7aa0325c0f6b"
 webUrl: "https://www.ft.com/content/a5709548-03bd-4f65-b9b5-7aa0325c0f6b"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: ft.com
 
 topics:
-  - AI Ethics
   - AI
 
 images:
@@ -42,6 +41,6 @@ related:
         height: 711
         isCached: true
 
-secured: "DSKUyYIbj3VUxIkBWXf8P9aDxDc/VqigdZBzucLAp1u1SHt4deAvDa8ppErqMRPnkT7IiKO11kZHCu6s3yqIAYk1HQ02RMOXMmywhB61jB5OQPNbKIpXZHmvT2SCQj2REwdPUmo6ALcGZhlxVLLWRzyiVl3+4n6xgODgRvb8ep/i6fOxWX5m1rtonVUAcvqXyCTUaxRbRCu4KuNz6q1eH5vLOERYTT47jTkyPN6inUzkd95FJaSjPo1UePdP4FqocZBrBac3W1A+uqS02HFTmh8z1VqAupLp+/ZwVubj9fqyCn7MmVaQTQBf2maJBZCPfirEshlo+rrvNukR/9pe8FAKL495YvtloItaD4Vx/jKhMQm643N2+Hx+U7ikHj1aSf85hCUAcXSPzYZzg6bn+O7064a2kg3JETeTnitVpzqEOyL01jHImSQGI2vgBXtZ1OGW7vVh76I3Lhj0tHunrQDlc5khm0BOUlOL9tR7gnoYXzmfpieAXp2pttytz1G2610liQp0j1Re5imJJvXOaQ==;1T+WzlkgHZwWx2FGIoAU8w=="
+secured: "+y42qF8lYHItChMH3kjUdH2lMqe/Cvg1cwBy2X6Pl2z6xtLl/+iXIpl6Zpprxz2kWTNXxlWTLaJp0Dm5hXEgfSMIel4IS+veBWuWyAOPvbU71x+m901ya0UHDB8idsIL8JKZMuLIyV/ubSdsYQZCIHA+j8oGszVJzyHCzxSRd/ME2QCo3Fzh6D2XFAFJ+B9mgwdVbw8encxsJAG9Ab33+HpUiS9yd41pj7GvbTefSpWmThG9+7Px/rRwFN+PHgPNvugj699eCSMfidRw4fFLIDo0LtMnviHzFYdS8MbOXkWlKK2YJtt4VjBmssBvOXpZCJNUIXPhHgmasZLpgksNTattq1reNxhVFI3IAG5tvgw=;zfQljbIJWYs0CnmncyLwAw=="
 ---
 

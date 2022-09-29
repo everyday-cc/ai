@@ -2,6 +2,58 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2022-08-18-onemeta-ai-accepted-as-a-part-of-microsoft-for-startups-founders-hub.md",
+      "title": "OneMeta AI Accepted as a Part of Microsoft for Startups Founders Hub",
+      "excerpt": "LAS VEGAS, NV / ACCESSWIRE / August / OneMeta AI (  (OTCMarkets:ONEI). Today OneMeta AI announced acceptance as part of Microsoft of Startups Founders Hub. \"This is a great milestone that we are thankful for;",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/onemeta-ai-accepted-as-a-part-of-microsoft-for-startups-founders-hub-2022-08-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/onemeta-ai-accepted-as-a-part-of-microsoft-for-startups-founders-hub-2022-08-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-18-pairaphrase-integrates-amazon-translates-engine-into-its-tms-software.md",
       "title": "PAIRAPHRASE INTEGRATES AMAZON TRANSLATE’S ENGINE INTO ITS TMS SOFTWARE",
       "excerpt": "Enterprise language translation software company Pairaphrase has integrated Amazon Web Services’ machine translation engine into its premium translation software solution. Its users now have the option to translate with Amazon Translate to create custom translations,",
@@ -1038,58 +1090,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-discovering-when-an-agent-is-present-in-a-system.md",
-      "title": "Discovering when an agent is present in a system",
-      "excerpt": "We want to build safe, aligned artificial general intelligence (AGI) systems that pursue the intended goals of its designers. Causal influence diagrams (CIDs) are a way to model decision-making situations that allow us to reason about agent incentives. By relating training setups to the incentives that",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/discovering-when-an-agent-is-present-in-a-system",
-      "originalUrl": "https://www.deepmind.com/blog/discovering-when-an-agent-is-present-in-a-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62fe436b27ff91584631343b_X2e5np_pjgn4n_V6ncNi4z22-oe0Ti9QTXiwgISZRqdNbgk_9EYTiMYhf799hpk6_-BhqP7MRebeIPo9GdAfZF9ntAJOy6pQnrTvSx2e72qVLzvpbldHZ51SShyWbBDopG5VEfKIV8sjBmcflHmD1OxwqyHMCTvyRg_xzMAYujIF5qIiU8yvX-9brd0.png",
-          "width": 1400,
-          "height": 554,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

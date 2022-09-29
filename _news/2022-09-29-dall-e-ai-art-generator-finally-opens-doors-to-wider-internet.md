@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/dall-e-art-generator-ai-openai-1849591740/amp"
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/dall-e-art-generator-ai-openai-1849591740/amp"
 type: article
 quality: 67
-heat: 97
+heat: 98
 published: true
 
 provider:

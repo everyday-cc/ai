@@ -2,6 +2,58 @@
   "page": 118,
   "value": [
     {
+      "path": "_news/2022-06-24-analyze-and-tag-assets-stored-in-veeva-vault-promomats-using-amazon-appflow-and-amazon-ai-services.md",
+      "title": "Analyze and tag assets stored in Veeva Vault PromoMats using Amazon AppFlow and Amazon AI Services",
+      "excerpt": "In a previous post, we talked about analyzing and tagging assets stored in Veeva Vault PromoMats using Amazon AI services and the Veeva Vault Platform’s APIs. In this post, we explore how to use Amazon AppFlow, a fully managed integration service that enables you to securely transfer data from software",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/analyze-and-tag-assets-stored-in-veeva-vault-promomats-using-amazon-appflow-and-amazon-ai-services/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/analyze-and-tag-assets-stored-in-veeva-vault-promomats-using-amazon-appflow-and-amazon-ai-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/24/analyze-and-tag-assets-veeva.jpg",
+          "width": 1248,
+          "height": 621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T10:56:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-25-everything-you-need-to-know-about-model-free-and-model-based-reinforcement-learning.md",
       "title": "Everything you need to know about model-free and model-based reinforcement learning",
       "excerpt": "However, while inductive biases might be easy to understand for an object recognition task, they become a lot more complicated for abstract problems such as building social relationships.",
@@ -1077,49 +1129,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-cognitive-skills-for-engineering-success.md",
-      "title": "Cognitive Skills for Engineering Success",
-      "excerpt": "What follows will outline what I have found to be the most essential cognitive skills that contribute to engineering success. The primacy of critical thinking is such a worn-out aphorism that most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technewsworld.com/story/cognitive-skills-for-engineering-success-176867.html",
-      "originalUrl": "https://www.technewsworld.com/story/cognitive-skills-for-engineering-success-176867.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.technewsworld.com/wp-content/uploads/sites/3/2022/03/digital-identity.jpg",
-          "width": 1000,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNewsWorld",
-        "domain": "technewsworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

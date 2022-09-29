@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-10-farewell-speech-school-board-to-consider-changes-in-graduate-recognition.md",
+      "title": "Farewell speech? School board to consider changes in graduate recognition",
+      "excerpt": "Four years from now, a valedictory speech delivered at one of the county’s public high school graduation ceremonies may serve as a farewell address in more ways than one.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reflector.com/news/local/farewell-speech-school-board-to-consider-changes-in-graduate-recognition/article_130c4e98-bfda-5a7a-ac56-c83091cafdf3.html",
+      "originalUrl": "https://www.reflector.com/news/local/farewell-speech-school-board-to-consider-changes-in-graduate-recognition/article_130c4e98-bfda-5a7a-ac56-c83091cafdf3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/reflector.com/content/tncms/assets/v3/editorial/0/2c/02c8d870-c619-5f69-a85b-4fef87e5ea36/631bc5ec34047.image.jpg?crop=1720%2C903%2C0%2C151&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-10T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Reflector",
+        "domain": "reflector.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-10-to-my-darling-mama-thank-you-tearful-king-charles-chokes-up-in-emotional-first-tv-address-to-his-subjects.md",
       "title": "'To my darling Mama, thank you': Tearful King Charles chokes up in emotional first TV address to his subjects",
       "excerpt": "In a moving speech that was screened at a service of ... praising his 'darling wife Camilla' who becomes Queen Consort 'in recognition of her own loyal public service since our marriage 17 years ...",
@@ -1369,60 +1412,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-will-untether-ais-speedai240-boqueria-inferencing-chip-be-the-one.md",
-      "title": "Will Untether AI’s SpeedAI240 “Boqueria” Inferencing Chip Be “The One”?",
-      "excerpt": "One of the latest AI/ML chips to appear was revealed at last week’s Hot Chips 34 conference. Untether AI’s founder Martin Snelgrove and VP of Product Bob Beachler rolled out their company’s speedAI chip family,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/630c2f17dc25910550390ffe/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/amp/",
-      "publishedDateTime": "2022-08-29T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "Natural Language Processing"
       ]
     }
   ],

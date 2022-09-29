@@ -2,6 +2,50 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2022-07-23-ethical-gmbh-adds-artificial-intelligence-to-sae-data-reconciliation-automation.md",
+      "title": "Ethical GmbH Adds Artificial Intelligence to SAE Data Reconciliation Automation",
+      "excerpt": "By adding artificial intelligence (AI) to its eReconciliation® automation engine, Ethical helps to improve the automated matching accuracy and reduces even further time spent reviewing unmatched SAEs.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/newswire/technology-software-switzerland-f457537af6633904592670c2b4e6c7e7",
+      "originalUrl": "https://apnews.com/press-release/newswire/technology-software-switzerland-f457537af6633904592670c2b4e6c7e7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-23T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-07-23-googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being.md",
       "title": "Google’s Artificial Intelligence Chatbot LaMDA is a “Sentient” Being",
       "excerpt": "The war between humans and machines. Well, we guess you all know this story very well. Moreover, there are tons of movies and books telling how artificial intelligence takes over and thinks this planet belongs to it. This is already a reality. Don’t you ...",
@@ -1058,49 +1102,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-computer-vision-market-share-growth-2022-cagr-value-top-manufacturers-competitive-landscape-industry-size-applications-and-forecast-till.md",
-      "title": "Computer Vision Market Share & Growth 2022 CAGR Value, Top Manufacturers, Competitive Landscape, Industry Size, Applications and Forecast till 2026",
-      "excerpt": "Global “ Computer Vision Market ” report provides in depth information of marketing strategy analysis, growth opportunities, dynamics and development trends. Also, Computer Vision Market research report includes business overview,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-share-growth-2022-cagr-value-top-manufacturers-competitive-landscape-industry-size-applications-and-forecast-till-2026-2022-07-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-share-growth-2022-cagr-value-top-manufacturers-competitive-landscape-industry-size-applications-and-forecast-till-2026-2022-07-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-22T00:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
