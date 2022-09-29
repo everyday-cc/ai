@@ -131,6 +131,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Unlocking the power of AI in Microsoft Cloud for industries"
+    excerpt: "AI is transforming Microsoft Cloud for industries by helping organizations in modernizing business processes and accelerating development. Learn more."
+    publishedDateTime: 2022-09-28T15:00:00Z
+    webUrl: "https://cloudblogs.microsoft.com/industry-blog/general/2022/09/28/unlocking-the-power-of-ai-in-microsoft-cloud-for-industries/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 54
+    images:
+      - url: "https://cloudblogs.microsoft.com/industry-blog/uploads/industry/2022/09/GettyImages-Correct.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
     excerpt: "New Jersey, NJ -- (SBWIRE) -- 09/26/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
     publishedDateTime: 2022-09-26T16:12:00Z

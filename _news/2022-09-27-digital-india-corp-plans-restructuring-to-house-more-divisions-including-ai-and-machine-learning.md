@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Digital India Corp. plans restructuring, to house more divisions including AI and Machine Learning"
-    excerpt: "The DIC has multiple divisions including Technology Development & Deployment Division (TDDD), National e-Governance Division (NeGD), MyGov, MeitY Startup Hub (MSH) and India Semiconductor Mission (ISM)."
-    publishedDateTime: 2022-09-26T14:15:00Z
-    webUrl: "https://in.investing.com/news/digital-india-corp-plans-restructuring-to-house-more-divisions-including-ai-and-machine-learning-3356908"
+  - title: "‘Working With AI’ Review: Learning to Love the Machine"
+    excerpt: "A compendium of case studies in which corporations stopped worrying and introduced artificial intelligence into their workflow."
+    publishedDateTime: 2022-09-25T18:59:00Z
+    webUrl: "https://www.wsj.com/articles/working-with-ai-review-learning-to-love-the-machine-11664135970"
+    ampWebUrl: "https://www.wsj.com/amp/articles/working-with-ai-review-learning-to-love-the-machine-11664135970"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/working-with-ai-review-learning-to-love-the-machine-11664135970"
     type: article
     provider:
-      name: Investing
-      domain: investing.com
-    quality: 40
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
     images:
-      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
-        width: 251
-        height: 282
+      - url: "https://images.wsj.net/im-630630/social"
+        width: 1279
+        height: 640
         isCached: true
 
 secured: "8qAgD6jpGzoM83jhJLEffCk0zBVO1db6udSL5xxeHEXtT5W2qIbbgOaN+BIsdsZSqRWWILsDdFbmnlzo0RNzWfl2RBLHMNHawtBgKhRKoiqdkStOPzPfXJI+TlVoctScrT0tV5iJ9T+nRtTKBdQDdLGsLHqt56UjKpdpFbPpqSbdqH2fF+JUbw9UNr/Gnh0C5NQLS34VisZYQWuOAz80cCrPFbksNusAhTDa9P6nHZ1KpcI81fBNpJlfxv4tDkAZL/66h421URRu8IvmBHMcr6dVPg3q8IB5121pqIAQE7SPmU8WoxHe0EF2clnPaz3dD2Z6IJ56er/E5h80Y7fScr2HA+71qnjPjUA/Pp6/nV0=;UfQpp3adnaR9NoWNi2bd2A=="

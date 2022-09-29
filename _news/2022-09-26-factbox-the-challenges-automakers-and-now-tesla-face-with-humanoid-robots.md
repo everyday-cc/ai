@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Tesla's First Prototype Of A Humanoid Robot To Launce Soon"
-    excerpt: "CEO Elon Musk said last year that Tesla was preparing to launch a humanoid robot that could replace boring, repetitive factory jobs and potentia"
-    publishedDateTime: 2022-09-24T12:20:00Z
-    webUrl: "https://menafn.com/1104918251/Teslas-First-Prototype-Of-A-Humanoid-Robot-To-Launce-Soon"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 36
 
 secured: "BLifFudplMmF1ns2GDWbCZoKIu6gu1ln7wa5sE8QCb+gDAmSy2ciMapzZVDXCLoO5bSnu22h8Ulqh5FaoAXesbbQW3ltzb57dGk2gyBVHYsish0SGeldpMz2Aja+MU+b/Lz/TnhLtLSyL5X4FmHbbX9wrSSxHcyhZPR+2nuMyo+2853yXwAFTDSQQaU012Yp5Kh7af9w9c2CkcE0rt7yito1TELbdgPGS0I+y1V/T0cNkILcakAkrsfw9U02o02omBxUyAoYtrGCoFQ8RsZAIOXfIjd5yQz3GqknzrbqgNkGXNu4tzqLlqlpRL4yX+j8crFTScuuopI+cyweLB11Im39YZcvaSJ5DCDO8xuxrjtOu18KxrVz3LpomtLY/V0gfyxgcFGiNG67JAZL+JtnAKP+A1M8DZvLprW4TEe3v1a/MDBis8gB0p8i2SbPo/bBjEdLrtRaM2DktyAZSAASkJy/zXPF9ALSHGAAher3IKnhoZKAHtabi911H5gjdTQaffmnS69m2RriNs95Q4vUVg==;rl9wkVH4b4k1Nw5Vqe+V9g=="
 ---

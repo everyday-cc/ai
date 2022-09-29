@@ -2,6 +2,49 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2022-08-27-ezra-furman-writes-simple-songs-for-the-mind-to-stretch-out-in.md",
+      "title": "Ezra Furman writes simple songs “for the mind to stretch out in”",
+      "excerpt": "Ezra Furman joined Raphael Helfand for a special episode of The FADER Interview live on Amp to discuss her forthcoming LP, All of Us Flames.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thefader.com/2022/08/26/ezra-furman-writes-simple-songs-for-the-mind-to-stretch-out-in",
+      "originalUrl": "https://www.thefader.com/2022/08/26/ezra-furman-writes-simple-songs-for-the-mind-to-stretch-out-in",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_533,w_1024,x_0,y_95,f_auto,q_auto:eco/MAIN-Ezra-Furman-by-Tonje-Thilesen-9_acjkit/MAIN-Ezra-Furman-by-Tonje-Thilesen-9_acjkit.jpg",
+          "width": 1024,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thefader.com/2022/08/26/ezra-furman-writes-simple-songs-for-the-mind-to-stretch-out-in/amp",
+      "cdnAmpWebUrl": "https://www-thefader-com.cdn.ampproject.org/c/s/www.thefader.com/2022/08/26/ezra-furman-writes-simple-songs-for-the-mind-to-stretch-out-in/amp",
+      "publishedDateTime": "2022-08-26T11:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Fader",
+        "domain": "thefader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-27-the-uses-of-ethical-ai-in-hiring-opaque-vs-transparent-ai.md",
       "title": "The uses of ethical AI in hiring: Opaque vs. transparent AI",
       "excerpt": "Ethical AI enables organizations to understand the technology’s processes and audit them to make sure the AI remains unbiased.",
@@ -1190,40 +1233,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-impacts-of-artificial-intelligence-on-gambling.md",
-      "title": "Impacts of Artificial Intelligence on Gambling",
-      "excerpt": "There are many implications of artificial intelligence (AI) in the gambling industry, and this article will discuss some of these impacts. AI can be used to improve player experiences and identify problem gamblers. It can also help online casinos manage ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techzone360.com/topics/techzone/articles/2022/08/26/453315-impacts-artificial-intelligence-gambling.htm",
-      "originalUrl": "https://www.techzone360.com/topics/techzone/articles/2022/08/26/453315-impacts-artificial-intelligence-gambling.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech Zone 360",
-        "domain": "techzone360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

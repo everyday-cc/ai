@@ -2,50 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2022-07-04-ford-invests-1-billion-in-pittsburgh-robotics-startup-in-driverless-car-quest.md",
-      "title": "Ford invests $1 billion in Pittsburgh robotics startup in driverless car quest",
-      "excerpt": "Competitors such as NVIDIA have developed artificial intelligence that learns about ... In return for its funding, Argo will design its driverless system exclusively for Ford and then have a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wtae.com/article/ford-invests-in-pittsburgh-robotics-startup-driverless-cars/8729494",
-      "originalUrl": "https://www.wtae.com/article/ford-invests-in-pittsburgh-robotics-startup-driverless-cars/8729494",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wtae/20602142-insurance-2013-ford-explorer-jpg.jpg?crop=1.00xw:0.846xh;0,0.0711xh&resize=1200:*",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wtae.com/amp/article/ford-invests-in-pittsburgh-robotics-startup-driverless-cars/8729494",
-      "cdnAmpWebUrl": "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/ford-invests-in-pittsburgh-robotics-startup-driverless-cars/8729494",
-      "publishedDateTime": "2022-07-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTAE-TV",
-        "domain": "wtae.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2022-07-03-advisornet-financial-inc-has-37000-holdings-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo.md",
       "title": "AdvisorNet Financial Inc Has $37,000 Holdings in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO)",
       "excerpt": "AdvisorNet Financial Inc lessened its holdings in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO – Get Rating) by 44.2% in the 1st quarter, according to the company in its most ...",
@@ -1251,6 +1207,49 @@
       "provider": {
         "name": "KASU",
         "domain": "kasu.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-27-dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience.md",
+      "title": "Don't worry about the robot revolution: One expert explains why AI is nowhere near sentience",
+      "excerpt": "Earlier this month, a Google engineer claimed that the company's artificial intelligence had achieved sentience, the ability to experience feeling and thought. But many experts are skeptical.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbur.org/hereandnow/2022/06/27/ai-sentience",
+      "originalUrl": "https://www.wbur.org/hereandnow/2022/06/27/ai-sentience",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d279m997dpfwgl.cloudfront.net/wp/2022/06/AP20007048093657.jpg",
+          "width": 3000,
+          "height": 2035,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.wbur.org/hereandnow/2022/06/27/ai-sentience",
+      "cdnAmpWebUrl": "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/hereandnow/2022/06/27/ai-sentience",
+      "publishedDateTime": "2022-06-27T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBUR",
+        "domain": "wbur.org",
         "images": null,
         "publishers": null,
         "authors": null

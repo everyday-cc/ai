@@ -125,6 +125,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Unlocking the power of AI in Microsoft Cloud for industries"
+    excerpt: "AI is transforming Microsoft Cloud for industries by helping organizations in modernizing business processes and accelerating development. Learn more."
+    publishedDateTime: 2022-09-28T15:00:00Z
+    webUrl: "https://cloudblogs.microsoft.com/industry-blog/general/2022/09/28/unlocking-the-power-of-ai-in-microsoft-cloud-for-industries/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 54
+    images:
+      - url: "https://cloudblogs.microsoft.com/industry-blog/uploads/industry/2022/09/GettyImages-Correct.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft and UiPath partner to bring Azure automation solutions to market"
     excerpt: "Enterprise automation vendor UiPath today announced a collaboration with Microsoft to bring Azure-powered automation solutions to market"
     publishedDateTime: 2022-09-28T15:47:00Z
@@ -177,6 +191,6 @@ related:
         height: 630
         isCached: true
 
-secured: "xwHrwjB4PFsApWRHdHxwj25S8sgORsjSefSTXWEq0nYXP1ziNNTpYrg2sNOuB1XmT/9/CcI7dG2h6IeSzQy/0GpQwcCVC0Cb3VpgQuOIDHSNKrm6kgAon+tlURS2/YUBctqLaXVWBAjx8RJNcHArnai6CW7ezMZY8j+XMbamsLU0OTCGCZ6ogmm8mkkvMWHj3qZ3CNxN57Dp+0YOHrfMAgqrJSPeKF53cNU5ba/Y7Y4IM/m3YzrwNLfBTQ0u4Jg9c2lCP7CQjbDLQG7SDVh0lAGwJ3ZB82iZGNJHXIXNghn50FIBKhVJRLyRwEIK6y6oGo4K/X+O2j6oye/tFCeCm3RJF2gvLVPxDM/ALq52MBw=;Uuqd+WbbtDRJF2yoAZlZYw=="
+secured: "kY2vTyO1bXZdRuDI0I5lhZj6ZHdqDCSZqANxycNDRJdMXBE6L+4XT0ao/znoXkKj4RzP2H45Jg8f2LHkuhGylqpWLKvcfcoswiOtfK/uJJ35FPAQVI5W8YtsbX58XNcWU08qhY3JIB8h7Hh6kjp0YwwgqTu+NZ8Gye+sOfmrf/FIJgEEdqfz5rhwidh9q/R6Wl4gVh0ulKacRN2oSoqaD4vcJV1FaHWU/tYz6Wl+mdiz2aNtGx3TW+Y1KK9MgLHAnSIb6ElVbzgsjU7Ic8CQme9lsXkHwkcEajTNfdf+w9z3yDXqGnW4BEYmqSQhC5MfivBqVSJpcMEndxuKI3j1AL4k97VPo01Wm1cNb/4h0hSsYpVkCWeKSdGZb34LtohedtnCUnzBD6k6KKFoslnxns2uNDWYezb2AFPIigFmizKDdi2P9nlVvg9VO0up9iUhJn2+YemOvaxN3mIoIv8urdu7rMvRBeHhvEDx8UaWLDjNTujtJTD3J02WSe00HLlWJjEF8umWi7MCJouK7yF9EQ==;0vZHJzS7QyoGGDt5Piwqxg=="
 ---
 

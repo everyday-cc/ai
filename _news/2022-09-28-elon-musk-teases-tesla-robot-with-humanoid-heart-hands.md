@@ -7,8 +7,8 @@ originalUrl: "https://www.independent.co.uk/tech/tesla-robot-elon-musk-optimus-a
 webUrl: "https://www.independent.co.uk/tech/tesla-robot-elon-musk-optimus-ai-day-b2176994.html"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: The Independent
@@ -40,15 +40,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Tesla's First Prototype Of A Humanoid Robot To Launce Soon"
-    excerpt: "CEO Elon Musk said last year that Tesla was preparing to launch a humanoid robot that could replace boring, repetitive factory jobs and potentia"
-    publishedDateTime: 2022-09-24T12:20:00Z
-    webUrl: "https://menafn.com/1104918251/Teslas-First-Prototype-Of-A-Humanoid-Robot-To-Launce-Soon"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 36
 
 secured: "Kbbrwp9P808L6B2dfXvNAXI5vUeJOodBQ9LrUZKOqCbNT27Al89xqyj0OiFuPczSa69F3NhAeG7SdOfNzHj85IbDouP7T7df9TJ1ZlMANceQeaV/Kuf/yRcItodctfzbNxycoad+G6gzQXNRGRBrnfgvLqVgJs49jYbwieyWGBl8Uf5I1DmQMBaG4y3YZ9VnjUNjHfrqzvyMEGlZ/H18rhpqgSp7YMYkDc0dPsTPSc94Bd0YcuOcy27Jk2m8n0z7tGABrvNM/N5wNhla7lMfcPDxolvRikda7tA9/zmeIWVD/2hPQtlCvvJpQ4noBZ9EZr1k0JHhhL3FXpi69goJiwBlnLHl9eERKSkNb+7izWI=;RtfTDfTZurTNKQLNedf4nA=="
 ---

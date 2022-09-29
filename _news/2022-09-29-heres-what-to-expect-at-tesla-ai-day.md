@@ -121,6 +121,22 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 78
+  - title: "Tesla A.I. Day Is Coming. Expect High-End Computing, Self-Driving Cars, and Robots."
+    excerpt: "High-end computing, neural networks, self-driving cars, and robots could come up at the car company's second annual event."
+    publishedDateTime: 2022-09-29T05:45:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-artificial-intelligence-day-musk-robot-51664401265"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-artificial-intelligence-day-musk-robot-51664401265"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-artificial-intelligence-day-musk-robot-51664401265"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 70
+    images:
+      - url: "https://images.barrons.com/im-631715/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Tesla AI Day 2022: Everything You Need To Know"
     excerpt: "Tesla’s AI day is their annual showcase of the latest technology across the company’s various business units. While Tesla vehicles gain the majority of the press coverage, they have a wide range of different applications and products that they continue to develop and refine."
     publishedDateTime: 2022-09-27T19:27:00Z

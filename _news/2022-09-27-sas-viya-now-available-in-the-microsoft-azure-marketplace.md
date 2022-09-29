@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/sas-viya-now-avail
 webUrl: "https://markets.businessinsider.com/news/stocks/sas-viya-now-available-in-the-microsoft-azure-marketplace-1031767702"
 type: article
 quality: 99
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -120,6 +120,20 @@ related:
       - url: "https://www.greenbiz.com/sites/default/files/styles/og_image_1200x630/public/2022-09/22-0922-019-media-highlights-day3-PhotoByAyanoHisa.jpg?itok=Ix66jJUr"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Unlocking the power of AI in Microsoft Cloud for industries"
+    excerpt: "AI is transforming Microsoft Cloud for industries by helping organizations in modernizing business processes and accelerating development. Learn more."
+    publishedDateTime: 2022-09-28T15:00:00Z
+    webUrl: "https://cloudblogs.microsoft.com/industry-blog/general/2022/09/28/unlocking-the-power-of-ai-in-microsoft-cloud-for-industries/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 54
+    images:
+      - url: "https://cloudblogs.microsoft.com/industry-blog/uploads/industry/2022/09/GettyImages-Correct.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft and UiPath partner to bring Azure automation solutions to market"
     excerpt: "Enterprise automation vendor UiPath today announced a collaboration with Microsoft to bring Azure-powered automation solutions to market"
