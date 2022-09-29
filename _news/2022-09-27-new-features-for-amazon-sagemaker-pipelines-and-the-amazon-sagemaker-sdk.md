@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/new-features-for-ama
 webUrl: "https://aws.amazon.com/blogs/machine-learning/new-features-for-amazon-sagemaker-pipelines-and-the-amazon-sagemaker-sdk/"
 type: article
 quality: 88
-heat: 118
+heat: 119
 published: true
 
 provider:
