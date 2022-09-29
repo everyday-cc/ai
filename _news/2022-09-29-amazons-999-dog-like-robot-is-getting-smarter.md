@@ -1,20 +1,29 @@
 ---
 category: news
 title: "Amazon's $999 dog-like robot is getting smarter"
-excerpt: "The robot -- not unlike an Alexa on wheels -- uses voice-recognition software, cameras, artificial intelligence, mapping technology and voice- and face-recognition sensors as it zooms from room to room, capturing live video and learning your habits."
-publishedDateTime: 2022-09-29T13:47:00Z
-originalUrl: "https://tucson.com/partners/cnn/amazons-999-dog-like-robot-is-getting-smarter/article_86c24a3f-a237-54fd-8d19-7026638cd167.html"
-webUrl: "https://tucson.com/partners/cnn/amazons-999-dog-like-robot-is-getting-smarter/article_86c24a3f-a237-54fd-8d19-7026638cd167.html"
+excerpt: "Astro, Amazon's dog-like robot, will better patrol the household when the owners are away. Here's what Amazon announced during its product update this week."
+publishedDateTime: 2022-09-29T13:45:00Z
+originalUrl: "https://www.stltoday.com/news/national/amazons-999-dog-like-robot-is-getting-smarter/article_a4eb412a-202d-55af-aab5-46655d650fd0.html"
+webUrl: "https://www.stltoday.com/news/national/amazons-999-dog-like-robot-is-getting-smarter/article_a4eb412a-202d-55af-aab5-46655d650fd0.html"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: Arizona Daily Star
-  domain: tucson.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "28WFl0e9ZCW6yd1UW+VIS0NdKk2SVD+e44riI3gcOHAVu0baqMU5ZB87uSarxtpvPLvKH3moJkdv0JAOt4M9skX/L+3lXRMVNMsSmLDhmkCSfuTJ4Pmok0T8Pm0Rhu9v85YUEU1a6TDkgNe6u63uA8jMNhVk4JBOqQsJFb8Rn6+ozV7eRB1ABJ0uY/UlwjBzGG1iGhZaFvOKIk6+0wsU9JclDKhvklYxlHUeB/4kLUkvy4To2pckF2vULqAqzN8abml29CgnPhtoYZCeoDxqHIEqqZGNQznBb1Q35zyK52pGrAUvtkWZiSDYL/dTtlqf5DJACwjxQM5PVDrgXawCAV50AT5Kv9BcRDAoLd+nBm6gBDzJE+20R2hIs4VIAI/hCwpzTKpquJ/rtHZ2WccxjhlvuWzYZlgGMkOUUnUjdOlzRwmrIMtoegjrASLW8ik3RP60uHb/hTBQ9/hRc1sFrj2qH6n+pK3KOGPHkQJAMksujdlaoU2waLPm9D3Qjec1YYiLWcLqrdK7BvURzGcJ7w==;HtdArybNr+Q7Zl3shWPB6w=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/a/4e/a4eb412a-202d-55af-aab5-46655d650fd0/6335a14abb63d.preview.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "1QM+j89JS5joe/86Qffxr4+o7ZtEo3dsCW//3jzf3+KebGQ35V/K94S1aqVG/WNSJbAITNtQsrgQAC8wCovsrCzqU40/SbmpzGjVkcZDitY5BXV0WithH+zhK3Kok/CJfpN6KsLJf/6mz942GTVwSFcwTgEapC7BbP09eWsE9JvLw/At9ec6zLv5D94XnijHWm+y60O1zs6TloSxvHWnPRdTqKmKr1WzjbtojVHTlLO/bg80tlq4YjEoTblow1S91uKH3HOh2JCijNQpoDK9U9vViCr9JeqFwJXdX2MSwYo9PwUUVB7VOQiaNvR9ySrLqbe21BOg6q1CcxdEK7h4F6/FI1JRmpMf6m6JmF/z0p8=;HIKiwxe2V92oHGD1f823wA=="
 ---
 

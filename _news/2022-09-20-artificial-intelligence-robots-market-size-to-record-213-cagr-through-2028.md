@@ -15,6 +15,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "bkd1+dvh65i3HCnRfei6rjL1rhU9bc6qcXpBcK04qGKne+G/jUKaaECfMhHXsO+2bQW27wA7Zo4SgviOnwuQ2vJkXiv9a4r/mnEaJXRY1AFcF8+yJnTBSlFWAABE+UA23CcqCoTjvm7iYirhUWAThJ3kZDQPirYBhyiOSjymuVYDcP4hU3U5cnAjdaftboSbdPtZCZ5EGECuRk3ueMupPFXgC2KkFBYW1QoeNef/GCicAUw2Q0WFfsWWhwY1naEACgbCz13cWCCFrH1n5pkdrEHufjCUgfmUXNQmdQjpTMvV5GSaNKEMfiTDIOqtCSeYyIVpUD7CDCrPVtF8z2lTXeS93OKEeAviKwwpqoIZpUQ=;hCPSOU68Z16orOPVnYVjvg=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?923166"
+    width: 353
+    height: 250
+    isCached: true
+
+secured: "HXjXKaf/LbwNBDFbYr0bBQLtX93u6NBzc984UT+hjbcM5ePcEhjhjRe2pK3YVS9a9Na11YBo3iqgeTt4QqRmbsEEyi7JCQfi8Xrwowb3SQyL49Mb2pzWLTtul7zqX+SMeCVdP3WAq8rYR0nCYgBbw2Ni+jOBrYnseEuuRvtJKt/rH0IFDgYGOdLvrTzwM1q7nnYf9byl8shHhulB0qa5ufXaxoI5XuvAlIk170Q3rApi0gzDcXcB8VemEHay58Ky+ONuxG8srQoQXE8qCOQp5/WCyyFfi+yPQf6S4al/JGMarbm9ZfQM4WYh+uLEUoyjKEhPMG1VxEb0t1avOU96GfKIIQbIrDN/zvQBzaXNCvg=;gvPlfp3/ID5kXGEAuF5QQQ=="
 ---
 

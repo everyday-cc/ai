@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-29T13:30:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/09/n29073961/omantel-embraces-conversational-ai-from-spitch-and-datalyticx-to-improve-customer-experience-and-e"
 webUrl: "https://www.benzinga.com/pressreleases/22/09/n29073961/omantel-embraces-conversational-ai-from-spitch-and-datalyticx-to-improve-customer-experience-and-e"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-29T10:56:00Z
 originalUrl: "https://www.businessinsider.com/ai-midjourney-dalle-art-holly-herndon-experiments-with-deepfakes-crypto-2022-9"
 webUrl: "https://www.businessinsider.com/ai-midjourney-dalle-art-holly-herndon-experiments-with-deepfakes-crypto-2022-9"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:

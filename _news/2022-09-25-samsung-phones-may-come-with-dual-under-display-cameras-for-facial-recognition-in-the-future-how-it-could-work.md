@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung patents dual under-display camera system for facial recognition"
-    excerpt: "Samsung specifically mentions using under-display cameras, though, which is interesting in its own right. Up until now, the Korean giant has more or less just experimented with the technology on its Galaxy Fold line without a broader release."
-    publishedDateTime: 2022-09-24T21:30:00Z
-    webUrl: "https://www.gsmarena.com/samsung_patents_dual_underdisplay_camera_system_for_facial_recognition-news-55926.php"
-    ampWebUrl: "https://m.gsmarena.com/samsung_patents_dual_underdisplay_camera_system_for_facial_recognition-amp-55926.php"
-    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/samsung_patents_dual_underdisplay_camera_system_for_facial_recognition-amp-55926.php"
-    type: article
-    provider:
-      name: GSM Arena
-      domain: gsmarena.com
-    quality: 59
-    images:
-      - url: "https://fdn.gsmarena.com/imgroot/news/22/09/samsung-dual-udc-facial-recognition/-1220x526/gsmarena_001.jpg"
-        width: 1220
-        height: 526
-        isCached: true
   - title: "Samsung may use new face recognition tech in future smartphones"
     excerpt: "To improve facial recognition, this technology will use the dual-UDC setup to simultaneously scan the user’s face from different angles. This will hel"
     publishedDateTime: 2022-09-27T11:06:00Z

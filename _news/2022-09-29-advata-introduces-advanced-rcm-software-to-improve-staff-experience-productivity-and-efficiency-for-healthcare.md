@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-29T12:55:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/advata-introduces-advanced-rcm-software-to-improve-staff-experience-productivity-and-efficiency-for-healthcare-1031772881"
 webUrl: "https://markets.businessinsider.com/news/stocks/advata-introduces-advanced-rcm-software-to-improve-staff-experience-productivity-and-efficiency-for-healthcare-1031772881"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: Business Insider

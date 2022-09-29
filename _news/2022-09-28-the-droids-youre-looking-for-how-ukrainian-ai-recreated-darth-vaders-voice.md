@@ -66,20 +66,6 @@ related:
         width: 2100
         height: 1400
         isCached: true
-  - title: "An AI program voiced Darth Vader in ‘Obi-Wan Kenobi’ so James Earl Jones could finally retire"
-    excerpt: "After 45 years of voicing one of the most iconic characters in cinema history, James Earl Jones has said goodbye to Darth Vader.."
-    publishedDateTime: 2022-09-24T20:49:00Z
-    webUrl: "https://www.engadget.com/james-earl-jones-retires-darth-vader-ai-201559553.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 56
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-09/5d0254f0-3c44-11ed-9559-fef534fe2fb1"
-        width: 1600
-        height: 1000
-        isCached: true
   - title: "James Earl Jones gives rights to Darth Vader voice to Ukrainian AI company"
     excerpt: "The 91-year-old actor, who has voiced Vader since the franchise’s first film, “Star Wars: A New Hope,” in 1977, signed over the rights to his vocal chops earlier this year."
     publishedDateTime: 2022-09-25T00:29:00Z
@@ -212,15 +198,6 @@ related:
         width: 960
         height: 480
         isCached: true
-  - title: "Disney replaces James Earl Jones's voice as Darth Vader with AI"
-    excerpt: "Actor James Earl Jones will no longer be tapped to voice his iconic Star Wars character Darth Vader thanks to artificial intelligence."
-    publishedDateTime: 2022-09-24T22:27:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/james-earl-jones-voice-as-darth-vader"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 17
 
 secured: "Aw7UroCp5xXhKf4BFdBH5EazVAVYuQ8huHrkfCc+mTyqr3FbirqmcIeTbZsuuThKHLvWAOaHqyuAci30q5nxyu0wDQSwUwd/IzuWhOZ7vagXz2KfvBS/K2/AALjdd4nEUX9sksaLWlTmUHuq073JhYonlchc1VcQoCNHI7FcxYJn28gIV+dCg0D+Bmd5EvvsfmdqQcx54eQ2YEyjQzm/1o2qbNNS98Gw6FOuDxF7O3pjIEKyyge/2qI/kAnI7y0ApRGaub2ekppRmfDpT7xdL5Zv98e5ednvw8DeLxzeEJ4e7om/IWxbqZSozok77E+wC2aJvfYH1GzFpWmXvMFwSX3OwN6kPF/yow8LyJ+iUSISnYv6EPkXixYXHY5fi0SoA4dtrtuG3p7kADVp6U58dLIiWnaJx9kzh2saWjKOZeMCu3JelxVGX4CiVJ9OD0/W64NgjyXbwsEqu/hXwYzop2LeSF2DZoi763a6UAVoswqFGga0UXVsOF5IwmV0aXZkl8+I5V8WCGGfs1fBwgE9Ow==;HnLu8gv0gpEtl8Nqcq8s3Q=="
 ---

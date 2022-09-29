@@ -9,8 +9,8 @@ ampWebUrl: "https://m.timesofindia.com/gadgets-news/samsung-may-use-new-face-rec
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/samsung-may-use-new-face-recognition-tech-in-future-smartphones/amp_articleshow/94479585.cms"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: Indiatimes
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung patents dual under-display camera system for facial recognition"
-    excerpt: "Samsung specifically mentions using under-display cameras, though, which is interesting in its own right. Up until now, the Korean giant has more or less just experimented with the technology on its Galaxy Fold line without a broader release."
-    publishedDateTime: 2022-09-24T21:30:00Z
-    webUrl: "https://www.gsmarena.com/samsung_patents_dual_underdisplay_camera_system_for_facial_recognition-news-55926.php"
-    ampWebUrl: "https://m.gsmarena.com/samsung_patents_dual_underdisplay_camera_system_for_facial_recognition-amp-55926.php"
-    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/samsung_patents_dual_underdisplay_camera_system_for_facial_recognition-amp-55926.php"
-    type: article
-    provider:
-      name: GSM Arena
-      domain: gsmarena.com
-    quality: 59
-    images:
-      - url: "https://fdn.gsmarena.com/imgroot/news/22/09/samsung-dual-udc-facial-recognition/-1220x526/gsmarena_001.jpg"
-        width: 1220
-        height: 526
-        isCached: true
   - title: "Samsung patents new facial recognition tech featuring dual under-display camera system"
     excerpt: "Samsung has been working on an interesting system for facial recognition, one that involves two under-display cameras."
     publishedDateTime: 2022-09-28T16:04:00Z

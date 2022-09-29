@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/mobile/digital-assistants-alexa-siri-r
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/digital-assistants-alexa-siri-research-affecting-social-growth-skills-children/?amp"
 type: article
 quality: 86
-heat: 87
+heat: 88
 published: true
 
 provider:

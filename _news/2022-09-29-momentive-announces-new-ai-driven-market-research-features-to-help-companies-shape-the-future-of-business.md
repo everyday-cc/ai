@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-29T13:16:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/momentive-announces-new-ai-driven-market-research-features-to-help-companies-shape-the-future-of-business-1031772971"
 webUrl: "https://markets.businessinsider.com/news/stocks/momentive-announces-new-ai-driven-market-research-features-to-help-companies-shape-the-future-of-business-1031772971"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Business Insider

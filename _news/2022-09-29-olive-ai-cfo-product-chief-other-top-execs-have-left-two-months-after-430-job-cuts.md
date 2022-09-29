@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-29T13:14:00Z
 originalUrl: "https://www.bizjournals.com/columbus/inno/stories/news/2022/09/29/olive-cfo-cpo-vps-depart.html"
 webUrl: "https://www.bizjournals.com/columbus/inno/stories/news/2022/09/29/olive-cfo-cpo-vps-depart.html"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: The Business Journals

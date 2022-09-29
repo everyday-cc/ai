@@ -10,7 +10,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-updates-on-optimus-robot-self-driving-cars-how-to-watch/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 232,
+      "heat": 252,
       "tags": null,
       "images": [
         {
@@ -409,8 +409,8 @@
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?107393",
-          "width": 374,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?923166",
+          "width": 353,
           "height": 250,
           "title": null,
           "attribution": null,
@@ -1346,19 +1346,19 @@
     {
       "path": "_news/2022-09-19-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch.md",
       "title": "Truly autonomous cars may be impossible without helpful human touch",
-      "excerpt": "MILTON KEYNES, England (Reuters) -Autonomous vehicle (AV) startups have raised tens of billions of dollars based on promises to develop truly self-driving cars, but industry executives and experts say remote human supervisors may be needed permanently to help robot drivers in trouble.",
+      "excerpt": "The central premise of autonomous vehicles - that computers and artificial intelligence will dramatically reduce accidents caused by human error - has driven much of the research and investment. But there is a catch: Making robot cars that can drive more safely than people is immensely tough because self-driving software systems simply lack humans' ability to predict and assess risk quickly,",
       "sourceUrl": null,
-      "webUrl": "https://www.investing.com/news/world-news/truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-2894928",
-      "originalUrl": "https://www.investing.com/news/world-news/truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-2894928",
+      "webUrl": "https://ca.investing.com/news/world-news/truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-2774293",
+      "originalUrl": "https://ca.investing.com/news/world-news/truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-2774293",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i-invdn-com.investing.com/news/LYNXNPEC9O0PR_L.jpg",
+          "url": "https://i-invdn-com.investing.com/news/LYNXMPED040R3_L.jpg",
           "width": 800,
-          "height": 499,
+          "height": 533,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1368,7 +1368,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T09:31:00-07:00",
+      "publishedDateTime": "2022-09-19T08:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Investing",

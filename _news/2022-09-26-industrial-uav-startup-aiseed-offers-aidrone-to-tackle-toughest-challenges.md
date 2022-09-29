@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-26T07:27:00Z
 originalUrl: "https://www.digitimes.com/news/a20220925VL202/ai-autonomous-uav.html?chid=13"
 webUrl: "https://www.digitimes.com/news/a20220925VL202/ai-autonomous-uav.html?chid=13"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Digi Times

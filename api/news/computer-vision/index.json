@@ -204,6 +204,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-27-samsung-may-use-new-face-recognition-tech-in-future-smartphones.md",
+      "title": "Samsung may use new face recognition tech in future smartphones",
+      "excerpt": "To improve facial recognition, this technology will use the dual-UDC setup to simultaneously scan the user’s face from different angles. This will hel",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/samsung-may-use-new-face-recognition-tech-in-future-smartphones/articleshow/94479585.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/samsung-may-use-new-face-recognition-tech-in-future-smartphones/articleshow/94479585.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-94479554,width-1070,height-580,imgsize-711259,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1068,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/gadgets-news/samsung-may-use-new-face-recognition-tech-in-future-smartphones/amp_articleshow/94479585.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/samsung-may-use-new-face-recognition-tech-in-future-smartphones/amp_articleshow/94479585.cms",
+      "publishedDateTime": "2022-09-27T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-27-computer-vision-market-expected-to-raise-at-3174-cagr-by-2022-2027-107-report-pages.md",
       "title": "Computer Vision Market Expected to Raise at 31.74% CAGR by 2022-2027 | 107 Report Pages",
       "excerpt": "The global Computer Vision market size is expected to expand at a CAGR of 31.74% during the forecast period, reaching",
@@ -212,7 +255,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-expected-to-raise-at-3174-cagr-by-2022-2027-107-report-pages-2022-09-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -530,32 +573,32 @@
       "title": "Voxel51 Raises $12.5M Series A to Bring Transparency and Clarity to Computer Vision Data",
       "excerpt": "The recent explosion of computer vision data—there are an estimated 45 billion cameras in the world today—creates a tremendous opportunity for machine learning products, but only if it can be ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/n28951618/voxel51-raises-12-5m-series-a-to-bring-transparency-and-clarity-to-computer-vision-data",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/n28951618/voxel51-raises-12-5m-series-a-to-bring-transparency-and-clarity-to-computer-vision-data",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/voxel51-raises-12-5m-series-a-to-bring-transparency-and-clarity-to-computer-vision-data-1031757242",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/voxel51-raises-12-5m-series-a-to-bring-transparency-and-clarity-to-computer-vision-data-1031757242",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/28171512/image-55-1024x683.png",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28951618",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28951618",
-      "publishedDateTime": "2022-09-21T09:09:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T09:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1377,49 +1420,6 @@
         "Computer Vision",
         "Google AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-at-gsx-camio-unveils-a-way-to-run-sophisticated-vision-ai-applications-at-the-cost-of-cloud.md",
-      "title": "At GSX, Camio unveils a way to run sophisticated vision AI applications at ¼ the cost of cloud",
-      "excerpt": "Camio Flex, the new Cloud Native Kubernetes Video Management System alternative, runs AI anywhere along its video processing pipeline—from edge to cloud—to reduce hardware and automate critical storage,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/at-gsx-camio-unveils-a-way-to-run-sophisticated-vision-ai-applications-at-14-the-cost-of-cloud-2022-09-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/at-gsx-camio-unveils-a-way-to-run-sophisticated-vision-ai-applications-at-14-the-cost-of-cloud-2022-09-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

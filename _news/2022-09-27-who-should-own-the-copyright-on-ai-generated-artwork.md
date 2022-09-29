@@ -63,6 +63,15 @@ related:
         width: 879
         height: 586
         isCached: true
+  - title: "Meta has developed an AI that generates video based on text prompts"
+    excerpt: "Meta has today unveiled an AI system that generates short videos based on text prompts. Make-A-Video lets you type in a string of words, like “A dog wearing a superhero outfit with a red cape flying through the sky” and it generates a 5-second video that,"
+    publishedDateTime: 2022-09-29T13:02:00Z
+    webUrl: "https://www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
 secured: "w8yGi6jlolTAOwLhE8brWwRZVQnLYHOPknHMdbKLoGCN0JceSINL+wTwunLqm5NMl6g0Iwxk7TpNBCt6bR3MbhCnskinYYS+NojPyHioCK77+3IGcgFuQyNfC1QTFka3fa/rsWfnXN+V2enIrf0R3FadhCLWadnEKfrLcMPEvtNuF68h+DJqSRCCFpD3EabFZomjIAQbzOMuG7svxI0Yiru5P/3TzN82+C/wRF13UtU92rgkfZEX/s5GCvh54Q3lqLHAmmjoctY0YqvNqeF250pj/jZ4rO6fHkdF+Li6VtBvY3rYM6YPfOXB2PuXcLstDqjT6lEKAMMpbnAwL5HkI71EN+q7oE6ZhkdkmSdDiOZ0NcxEobcwGtgMCgAQBXHvRfbGaKrwMZw/mQcHtZO42sq4lVFBsStCaFw6q5LmJzlopy4U2Eowe4yIHkPiTT6ouh++banSk7zSpmKx1vaQZjof4VP+GO6+JEPYitKAW+fn/GkHcaXrYlW2aFZPUuBvnmhzmQuKR1aMO1QWQsh1Ng==;2ilRG51nM4SzgW/wEm6vNg=="
 ---

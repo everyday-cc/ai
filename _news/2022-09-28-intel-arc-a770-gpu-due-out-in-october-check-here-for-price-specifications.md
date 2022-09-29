@@ -59,13 +59,13 @@ related:
       domain: techgage.com
     quality: 19
   - title: "Inspur Information Announces Servers Now Support Intel’s Arctic Sound-M GPU"
-    excerpt: "Inspur is driving high performance and sustainability with vigorous collaborations with Intel® technologies to deliver solutions for new generations of"
-    publishedDateTime: 2022-09-28T13:17:00Z
-    webUrl: "https://www.01net.it/inspur-information-announces-servers-now-support-intels-arctic-sound-m-gpu/"
+    excerpt: "Inspur Information, a leading IT infrastructure solutions provider, announced support for the Intel Artic Sound-M GPU (ATS-M) in its servers, in addition to showcasing a broad array of Intel-powered technology solutions that are empowering breakthroughs and advances in innovation from AI to edge computing at Intel Innovation 2022."
+    publishedDateTime: 2022-09-28T13:09:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-28-inspur-information-announces-servers-now-support-intels-arctic-sound-m-gpu"
     type: article
     provider:
-      name: 01Net
-      domain: 01net.it
+      name: Daily Herald
+      domain: dailyherald.com
     quality: 17
 
 secured: "yPsU4EiGMUuZceiAna0pnAVGf2UzqPI8a7B9LoJE/621cimFuX0VyL6HuaDs78CXcwDBlenLhgkAPbuTYBkE3TGD/KkQXdCdeDmKjF5oSfYsBdKZa9EVQj/YWX69JvuYUfPsdPvdOVAa95fwC6vc2QfV+ONTW/Ws4l09KpmbMdig2rnl2dlNHszks/0FfxvFnNgZpe2iws+AJQLe9lQLsV4WdGJ8sDU+w2WZAJAiGh3ELdTEEsuMYYj3iSeGpMsoztgM8xvm+GDz9VpKZqAWSpt7n8E2s7qN08U2aTLQv2at15IjauOgSrTPUrmkUkelYLvmXonSqvr/kyUCVJT3a5+Pz0VevD6/LhwGTOJukxRu26+EpbywjtRHqluS/II8mgC22JclApQh0RV1821krFQF7P5LiZTYuOujHavFyjRKgqkxt9ui2ve35DL9H+cE+sp8hyDGSaE2ZtfA+U/wTtsHmQ/w4k4AuZV/xfoUHNgSL/ALVpuPf8qkCogjilcDXSHwIwmdR/mMcEf3InFOVA==;LltVKk67IwR5tESIV+ZPBw=="

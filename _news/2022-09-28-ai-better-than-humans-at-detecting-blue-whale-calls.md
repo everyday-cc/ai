@@ -34,12 +34,7 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
-        isCached: true
+    quality: 17
 
 secured: "5yW8KNGPvXr16y6HBjEbtbaWEEpvN8oV3cE7JrtOdbr+hn991vG0Jw4c3pOXy5+Th9h5+PjUVKOLzH3pczcD1jv4fQkrx0gRGVxbCDgXysjY+vuECiWtn8JOLObYMSa/fHucMGfZr84VGNeIfLASF4U2k2B07TRFYRy5uq4bugRI9FXdzQYA/RxRZz64bK0vSVe8L94rsXSyw0JciQTZCUNiirrapOuO1GCAjZfqJ0gZHlSvk5m0zKopwEVXn1blssw6g+Flx0qBFB12h6pLnsZ7yjoP+NJ3pIlkoYXPXHpkNst64+sYluTC6IUOE4G5ny3ivJN4dfHk1EDHU5CjeCdeeeUFpFHFe5/H5lVgmH6KUSqe+7ESSOLgEW52lki/t7LTBBMiSjK5lR5rjDW7pAtYcYkkcfmtPJk/6isb94Mkq2F1ioS5w/iu8oZDfMS2MdX3IRGIxlAmW0/RdUjdiEAoB/R5JijCfch8vVIcfZTa9vAR0OSmXpKt4SU02mqu/iAZSSNVgh+VSHZuT4e4wg==;E7BuBU/eVgXse+lVbD/d/A=="
 ---

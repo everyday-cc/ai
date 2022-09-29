@@ -50,13 +50,13 @@ related:
         height: 1280
         isCached: true
   - title: "Inspur Information Announces Servers Now Support Intel’s Arctic Sound-M GPU"
-    excerpt: "Inspur is driving high performance and sustainability with vigorous collaborations with Intel® technologies to deliver solutions for new generations of"
-    publishedDateTime: 2022-09-28T13:17:00Z
-    webUrl: "https://www.01net.it/inspur-information-announces-servers-now-support-intels-arctic-sound-m-gpu/"
+    excerpt: "Inspur Information, a leading IT infrastructure solutions provider, announced support for the Intel Artic Sound-M GPU (ATS-M) in its servers, in addition to showcasing a broad array of Intel-powered technology solutions that are empowering breakthroughs and advances in innovation from AI to edge computing at Intel Innovation 2022."
+    publishedDateTime: 2022-09-28T13:09:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-28-inspur-information-announces-servers-now-support-intels-arctic-sound-m-gpu"
     type: article
     provider:
-      name: 01Net
-      domain: 01net.it
+      name: Daily Herald
+      domain: dailyherald.com
     quality: 17
   - title: "Intel Arc A770 GPU due out in October: check here for price, specifications"
     excerpt: "The Arc A770 features 32 Xe Cores and ray tracing units and comes in two memory configurations - 8GB and 16GB. The card also supports Intel's AI-based image reconstruction and super sampling technology called XeSS,"

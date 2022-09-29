@@ -78,6 +78,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "New standards set for Cloud Natural Language Processing Market grow at 15.16% CAGR| 120 Report Pages"
+    excerpt: "The global Cloud Natural Language Processing market size is expected to expand at a CAGR of 15.16% during the forecast period, reaching USD 5289.6 million by 2027 was valued at USD 2268.2 million in 2021."
+    publishedDateTime: 2022-09-28T09:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/new-standards-set-for-cloud-natural-language-processing-market-grow-at-1516-cagr-120-report-pages-2022-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing Market Assessment (2022-2028) | 29.4% CAGR to Garner USD 127.26 Billion by 2028"
     excerpt: "Global “Natural Language Processing Market Size” report explores comprehensive and insightful Information about various"
     publishedDateTime: 2022-09-26T12:21:00Z
@@ -106,6 +120,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in HIV/AIDS Market is Forecast to Expand at a 8.9% CAGR and reach a Valuation of USD 519.63 Million by the end of 2030"
+    excerpt: "Artificial Intelligence (AI) in HIV/AIDS Market Size Global Report, 2022 - 2030 Sep 28, 2022 (Heraldkeepers) -- United States, New York City: According"
+    publishedDateTime: 2022-09-28T11:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-hivaids-market-is-forecast-to-expand-at-a-89-cagr-and-reach-a-valuation-of-usd-51963-million-by-the-end-of-2030-2022-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
   - title: "Home Security System Global Market Report 2022: Implementation of AI & Deep Learning Drives Sector Growth - ResearchAndMarkets.com"
     excerpt: "The global home security system market is expected to grow from $3.92 billion in 2021 to $3.96 billion in 2022 at a compound annual growth rate (CAGR) of 1.2%. The growth is mainly due to the companies resuming their operations and adapting to the new normal while recovering from the COVID-19 impact,"
     publishedDateTime: 2022-09-26T12:10:00Z
@@ -126,6 +149,17 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 21
+  - title: "The Global Security Robots Market size is expected to reach $74.5 billion by 2028, rising at a market growth of 15.5% CAGR during the forecast period"
+    excerpt: "Reportlinker.com announces the release of the report \"Global Security Robots Market Size, Share & Industry Trends Analysis Report By Type, By End User, By Regional"
+    publishedDateTime: 2022-09-29T13:54:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g29074799/the-global-security-robots-market-size-is-expected-to-reach-74-5-billion-by-2028-rising-at-a-marke"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29074799"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29074799"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
 
 secured: "0qgRXSCmF3hHt8ySpCojvJ/ijEqzcXwpbPIb9/yKTWhYcvOsVpfwwmczOVmq/14+euNuOvbUWXEl7DQZNGJiqJJWNxG86kWl2yfsl82juhNrtiv6r1VV+DMo3QOFqYzxC7IfvE1bcgCv29gctsnfDKGrTp0T1jdsb9Y0zpJNgIObqdi8KkpIc1WQsg+9AASU9FGmzGcY9jEAM3lm222sWK17ZeBB+UzOPRGFbYerHFMJhUCDTzZoUVTm+ybNOpPqfFIpc+gPxsrMHpKMHOW8IEFhc2li/wleau42sT982W7H9j73S+0sKs8TBl+OW+ETWNg57kIcki+zwzLJXg8SdjFTKGBangWVYxdFnKkzQyk=;EsbKQP7q+k171KMNYA5ZoQ=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-29T13:40:00Z
 originalUrl: "https://www.healthleadersmedia.com/technology/ai-matures-optum-probes-its-limits-and-steep-learning-curve-healthcare"
 webUrl: "https://www.healthleadersmedia.com/technology/ai-matures-optum-probes-its-limits-and-steep-learning-curve-healthcare"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: HealthLeaders Media

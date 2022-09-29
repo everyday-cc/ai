@@ -70,20 +70,6 @@ related:
         width: 2100
         height: 1400
         isCached: true
-  - title: "An AI program voiced Darth Vader in ‘Obi-Wan Kenobi’ so James Earl Jones could finally retire"
-    excerpt: "After 45 years of voicing one of the most iconic characters in cinema history, James Earl Jones has said goodbye to Darth Vader.."
-    publishedDateTime: 2022-09-24T20:49:00Z
-    webUrl: "https://www.engadget.com/james-earl-jones-retires-darth-vader-ai-201559553.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 56
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-09/5d0254f0-3c44-11ed-9559-fef534fe2fb1"
-        width: 1600
-        height: 1000
-        isCached: true
   - title: "James Earl Jones Hands Over The Voice Of Darth Vader To Artificial Intelligence Technology"
     excerpt: "The famous voice of Darth Vader, James Earl Jones, is retiring as the \"Star Wars\" villain, handing over the responsibility to AI technology."
     publishedDateTime: 2022-09-27T16:00:00Z
@@ -200,15 +186,6 @@ related:
         width: 960
         height: 480
         isCached: true
-  - title: "Disney replaces James Earl Jones's voice as Darth Vader with AI"
-    excerpt: "Actor James Earl Jones will no longer be tapped to voice his iconic Star Wars character Darth Vader thanks to artificial intelligence."
-    publishedDateTime: 2022-09-24T22:27:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/james-earl-jones-voice-as-darth-vader"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 17
   - title: "The droids you’re looking for: how Ukrainian AI recreated Darth Vader’s voice"
     excerpt: "A Kyiv startup helped ‘clone’ the voice of legendary actor James Earl Jones, 91, for the recent Obi-Wan Kenobi series"
     publishedDateTime: 2022-09-27T17:58:00Z

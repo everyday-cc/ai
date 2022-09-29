@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/i-tested-out-an-ai-art-gene
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tested-out-an-ai-art-generator-and-heres-what-i-learned/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
         width: 879
         height: 586
         isCached: true
+  - title: "Meta has developed an AI that generates video based on text prompts"
+    excerpt: "Meta has today unveiled an AI system that generates short videos based on text prompts. Make-A-Video lets you type in a string of words, like “A dog wearing a superhero outfit with a red cape flying through the sky” and it generates a 5-second video that,"
+    publishedDateTime: 2022-09-29T13:02:00Z
+    webUrl: "https://www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
 secured: "1Z1ZDOxIzaDFZi3lSDrVmNObX5Av7C7+1nQ/pd29cXYFd6/LuRHyLjn2c/1IOm4YjqQnz5Gr74PQxr/xysG8Pc4sNi8o0zOPzXqpV2VxQoDyH/y9xfNqJxHxwqwHpm3AXv25zpOy3xp9rAV5gsx5z2b5AR8/lXVpvV4bDB6d60QMwEXvuxhiwrMJ0lDHqQ/M4wBEa/eLWjsE6tMLs/Ha2thNFO4NimbsAudL2uegTGxKunwkZSEZ1Oc2p5l4MsN5D74AYz2EkmCE5EM3O67OECS970lStBakf6TsLUXpzT77fNH/bqAmRi5ssT5eQdhARfUr+34wFSbLzN44fFcQilhSFH0oUvpZsFEUXa5IW/6ac78B6y5r47qPZwvneFVdTNtVFOy9i3UCEMJ0uqxWg2NWr6zLokPn3PeqdTX1KS5tLVEdYaI09zAEvs/NPTHBcd9DrZzEOf4cJ5ny7IkOiZg9BPRc2RDgjQMrpLEqwHRJv8ql9cj0wH9vMgWjmCVsxx5Tj2jRkUjfkafCUiwTOg==;0sYd07hUy2M2swmMBI5tJA=="
 ---

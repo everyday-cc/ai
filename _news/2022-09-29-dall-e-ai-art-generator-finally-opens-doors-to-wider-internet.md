@@ -27,7 +27,7 @@ related:
   - title: "DALL-E's AI art generator is now (sort of) available to everyone"
     excerpt: "The company has dropped the waiting list for the DALL-E beta, making the technology available to everyone. If you want to create art, you just have to sign up (if you can get past the authentication glitch that exists as we write this) and start describing the pieces you'd like to produce."
     publishedDateTime: 2022-09-28T18:10:00Z
-    webUrl: "https://www.engadget.com/dall-e-ai-image-generator-beta-no-waitlist-173746483.html?src=rss"
+    webUrl: "https://www.engadget.com/dall-e-ai-image-generator-beta-no-waitlist-173746483.html"
     type: article
     provider:
       name: Engadget
