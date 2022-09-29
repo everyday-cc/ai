@@ -1,22 +1,30 @@
 ---
 category: news
-title: "Avoiding a surveillance society: how better rules can rein in facial recognition tech"
-excerpt: "Facial recognition technology has set us on a path to mass surveillance – but it’s not too late to change course."
-publishedDateTime: 2022-09-26T20:02:00Z
-originalUrl: "https://theconversation.com/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
-webUrl: "https://theconversation.com/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
+title: "Avoiding a surveillance society: How better rules can rein in facial recognition tech"
+excerpt: "The human face is special. It is simultaneously public and personal. Our faces reveal sensitive information about us: who we are, of course, but also our gender, emotions, health status and more."
+publishedDateTime: 2022-09-27T15:40:00Z
+originalUrl: "https://techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.html"
+webUrl: "https://techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.html"
+ampWebUrl: "https://techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.amp"
 type: article
-quality: 12
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/avoiding-a-surveillanc.jpg"
+    width: 1356
+    height: 668
+    isCached: true
 
 related:
   - title: "New report offers blueprint for regulation of facial recognition technology"
@@ -168,6 +176,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "/ydWEihlR/b9Lz45EX/zoDUfeiTYkqGRuPmL3CCO7ydcGSD97/zRIgXNtKkS2mRiVyn9DWbKuUvmWcoVZfNRHYyIo9voyW02YnX3FZIu62pi4NqpRWWkDqeXL+dkoH/D8XFnjdlRI6ybDvuQwNKOCBSavU7bpsHLyuw5qgGMcs513+WkVuMZp8IOWyZ8INrIBHYOSrZhN8xQCi0N6+WfQdFhxyeGmdPrRI2iko9NgX3R+/5EIcBT+99LfPy6hhed8TeRWRf/vHVzf09FMRkpPs/k7n/erWlv0lvb/YO3DbAdZ+B3NIl/RjORBKnEWDH0ZE/fdwk842STzIFyDD9ok6qldecmF5UMap/LfsEFfcXH6cQ7Nvl7QJZfbZgbf4rEZIOC/v5/pkqYBiHY2Ic8K0W59Wp8HDt2l0qJ5kbYIcXQRQk2SjhSQeV1zP7CRTTcL7SlTXSat1cuLx2LLvWhbeGXVvljIzUPqIs6MCFLa1eWoOIKIjgVXuq4ESK14PKjBRavB5GptyYJDn0ffFRWLw==;Xqeuoh7pixyFfV3YpCFrlg=="
+secured: "lgNGP9xnZK33JCOg21fbSLZTjajs7tA5McGim3KbvxExgMiK/65es7KFr2ZLLMuHxbxcOzdPm2vR68O9/gFKCfxBgGMVAwOymckK5pGBT9Ym8H0tZBlVTANBOsHwPEK2m1c1h8ojO5nTHzErNfL+tpT0Mmb+QUEjbsdrMMawGRTZct7KKcISwmSShEeHL6fHSeE+14yhEQQJ7+vnqMC/fGjT7jaLV3jmV7Bn5X3Ow0HTzQFVbfCIf93OvC7RCDcvDXugy5WbMFStm50UxhXfKkJiWfOAivQ9qrAmA5KsWxxVR/L4HwLv2SLIgGTLz1x9lcEK1EUgUq76OISoo2p2siwMS1N9NerdFN0lG9l54kw=;dLiZ70zRwamMYXvIj/fVSw=="
 ---
 

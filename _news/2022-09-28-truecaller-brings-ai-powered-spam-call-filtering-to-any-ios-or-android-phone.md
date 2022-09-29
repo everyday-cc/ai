@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/mobile/truecaller-assistant-anti-spam-
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/truecaller-assistant-anti-spam-call-screening/?amp"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1500
     height: 1154
     isCached: true
+
+related:
+  - title: "Truecaller AB: Truecaller Launches AI-powered Assistant to Filter Out Fraud and Scam Calls"
+    excerpt: "Truecaller Assistant will be available within the app on both iPhone and Android; Leverages machine learning to answer your calls in a natural language; Screens your calls, filter"
+    publishedDateTime: 2022-09-28T13:00:00Z
+    webUrl: "https://www.privataaffarer.se/truecaller-ab-truecaller-launches-ai-powered-assistant-to-filter-out-fraud-and-scam-calls-1664377200"
+    type: article
+    provider:
+      name: Privata Affärer
+      domain: privataaffarer.se
+    quality: 9
 
 secured: "ma0lskwjcKJXvfirpeuxGAKA/Mq8BL3fIsl51MnCAT8HIFZytEb6cNIcmeqxGBMZTk39/WOmHuzx+TfqhUuDmjJ0rBWgWdhTjsnyPXY4x1xRfqqO8gOTe6nsvzuMqNHiP+n9FRIiAom0BAKu+mCcXoa+7ky8AeE1O/N1CJCjQ4f7eN4Oy6nfODxqmSONP3YMMLTQuiLrXSrJJQZZUGIo1knKnN5jVH9Ay3A7RUC4dS8bpJ+5p2LKpnRp0Of8I/0Y+7Vgb24YPuhlydCwCC2FZDNDVkUEhlA1VYINJc7UtAcXndVjpbMCfvbj207uuuQip/h02ZoT0ds2Ah/+BtYzQMW3DTT1yrxnEHZ1NxJI1DldmwbIl4iXwwagzPZyHfN83v+ak/vOKFZ/7Hzu1WomsUh2u9WILuX3yCWYZlGhggF5vdwVcdJRgKdf7s8ZnC3vF/uYueXYB3qXdjWwAvpFj+UwgTY4dZBlfUIk7nS8tvWXmQLgyoUxZRavmbMz/QbykCI2cegD4WgFMbPkbcdwdg==;hoFKcyaejBbLR2FgoK++Sg=="
 ---

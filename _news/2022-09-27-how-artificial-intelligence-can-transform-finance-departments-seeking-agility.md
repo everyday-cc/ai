@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalbankingandfinance.com/how-artificial-intelligence-
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-artificial-intelligence-can-transform-finance-departments-seeking-agility/"
 type: article
 quality: 71
-heat: 82
+heat: 81
 published: true
 
 provider:

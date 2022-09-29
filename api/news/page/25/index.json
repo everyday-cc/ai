@@ -2,6 +2,49 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2022-09-07-computer-vision-and-image-processing-specialization.md",
+      "title": "Computer Vision and Image Processing Specialization",
+      "excerpt": "Computer vision (CV) and image processing are two closely related fields that utilize techniques from artificial intelligence (AI) and pattern recognition to derive meaningful information from images, videos, and other visual inputs. Image processing is at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mccormick.northwestern.edu/electrical-computer/academics/graduate/masters/electrical-engineering/computer-vision-and-image-processing.html",
+      "originalUrl": "https://www.mccormick.northwestern.edu/electrical-computer/academics/graduate/masters/electrical-engineering/computer-vision-and-image-processing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mccormick.northwestern.edu/electrical-computer/images/graduate/masters/computer-vision-and-image-processing-specialization-header.jpg",
+          "width": 770,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T15:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kellogg School of Management",
+        "domain": "northwestern.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-07-ejected-man-dead-after-being-struck-by-driverless-car-with-passenger-inside.md",
       "title": "Ejected man dead after being struck by driverless car, with passenger inside",
       "excerpt": "A driver who was ejected in a crash was then run over by his own car, with a passenger inside, the California Highway Patrol said. The man died in the single-car crash, reported at 11:37 p.m ...",
@@ -1031,49 +1074,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-blume-backed-fintech-platform-ippopay-acquires-tutelar.md",
-      "title": "Blume-backed fintech platform IppoPay acquires Tutelar",
-      "excerpt": "Tutelar enables AI-based risk-free onboarding, dispute resolutions, KYC fraud detection, transaction fraud detection, mis-selling prevention etc, benefiting not only the principals such as merchants and banks but also the intermediaries such as PAPGs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vccircle.com/blumebacked-fintech-platform-ippopay-acquires-tutelar",
-      "originalUrl": "https://www.vccircle.com/blumebacked-fintech-platform-ippopay-acquires-tutelar",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.vccircle.com/uploads/2022/09/fintechrfxl.jpg",
-          "width": 716,
-          "height": 402,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VCCircle",
-        "domain": "vccircle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

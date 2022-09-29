@@ -2,6 +2,57 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2022-09-01-report-conversational-ai-reduces-barriers-to-mental-health-treatment.md",
+      "title": "Report: Conversational AI reduces barriers to mental health treatment",
+      "excerpt": "In a study by Botco AI, 100% of respondents said they expanded virtual behavioral support, including conversational AI, during the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/report-conversational-ai-reduces-barriers-to-mental-health-treatment/",
+      "originalUrl": "https://venturebeat.com/ai/report-conversational-ai-reduces-barriers-to-mental-health-treatment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_734436697-e1510716853185.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/report-conversational-ai-reduces-barriers-to-mental-health-treatment/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/report-conversational-ai-reduces-barriers-to-mental-health-treatment/amp/",
+      "publishedDateTime": "2022-09-01T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever.md",
       "title": "In The Face Of Recession, Investing In AI Is A Smarter Strategy Than Ever",
       "excerpt": "By making a few smart investments today, businesses can emerge from any oncoming recession, more effective and efficient than they were before.",
@@ -1089,50 +1140,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-artificial-intelligence-in-diagnosing-pediatric-ear-infections.md",
-      "title": "Artificial Intelligence in Diagnosing Pediatric Ear Infections",
-      "excerpt": "An artificial-intelligence (AI) model developed was significantly more accurate than doctors at diagnosing pediatric ear infections.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-in-diagnosing-pediatric-ear-infections-208463-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-in-diagnosing-pediatric-ear-infections-208463-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/hear-aid-baby1.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-in-diagnosing-pediatric-ear-infections-208463-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-in-diagnosing-pediatric-ear-infections-208463-1.htm",
-      "publishedDateTime": "2022-08-31T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
       ]
     }
   ],
