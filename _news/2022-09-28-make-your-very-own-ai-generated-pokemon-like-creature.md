@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/09/28/make-your-very-own-ai-generated-po
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/28/make-your-very-own-ai-generated-pokemon-like-creature/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "Random: Explore A Pokémon Overworld Created By Neural Network"
-    excerpt: "Ever wondered how a Pokémon game might turn out if it were created using a neural network? No, we can't say we have, either. But, we kind of have answer thanks to Ollin Boer Bohan, a Deep ..."
-    publishedDateTime: 2022-09-25T00:46:00Z
-    webUrl: "https://www.nintendolife.com/news/2022/09/random-explore-a-pokemon-overworld-created-by-neural-network"
-    type: article
-    provider:
-      name: Nintendo Life
-      domain: nintendolife.com
-    quality: 39
-    images:
-      - url: "https://images.nintendolife.com/78bc6e665c7a0/1280x720.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "fdAxhhZ5wRPfhDz3UbFtwd7UO94/cBTYNRzXO342cXqi485ovEC8DZSGS/wpnSbHCD3b5rt9lRWTZjUP7VQEr1PyX7jYjp6UW4bOu0BAD2jNVPE3AHPaO7j4tOgZUjm/RIZ3PAm4GCDKdPvCW2M7/e6Cblf1M/m1LtNykNIpHU3T03x43ebqzzHVGy3eSa3BPmiG58qTore4KaQ8W/lSDVtZxQjdfJAw8zK3yabqzM2gKtobnYSJRon3vTBRgWWCYvD15IhqA4HzgjRhHx0SjHy529mpbIvAWX0/br5z3cEFUE1HudRrZu3WvB+IQ6ZZzeyltAcyT57S3cVu/TOYinIsEcMoDugLdkMqf2c2hCA=;0KfaZTiHp0hy5oT1xeouIw=="
 ---

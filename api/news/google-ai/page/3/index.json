@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-28-ai-predicts-the-shape-of-nearly-every-protein-known-to-science.md",
+      "title": "A.I. Predicts the Shape of Nearly Every Protein Known to Science",
+      "excerpt": "DeepMind has expanded its database of microscopic biological mechanisms, hoping to accelerate research into all living things.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/07/28/science/ai-deepmind-proteins.html",
+      "originalUrl": "https://www.nytimes.com/2022/07/28/science/ai-deepmind-proteins.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/28/science/28alphafold-promo/28alphafold-promo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/07/28/science/ai-deepmind-proteins.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/07/28/science/ai-deepmind-proteins.amp.html",
+      "publishedDateTime": "2022-07-28T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-deepmind-found-the-structure-of-nearly-every-protein-known-to-science.md",
       "title": "DeepMind found the structure of nearly every protein known to science",
       "excerpt": "DeepMind is releasing a free expanded database with its predictions of the structure of nearly every protein known to science, the company, a subsidiary of Google parent Alphabet, announced today.",
@@ -1370,58 +1422,6 @@
         "AI",
         "Google AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-how-ai-creates-photorealistic-images-from-text.md",
-      "title": "How AI creates photorealistic images from text",
-      "excerpt": "Have you ever seen a puppy in a nest emerging from a cracked egg? What about a photo that’s overlooking a steampunk city with airships? Or a picture of two robots having a romantic evening at the movies? These might sound far-fetched, but a novel type of machine learning technology called text-to-image",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/research/how-ai-creates-photorealistic-images-from-text/",
-      "originalUrl": "https://blog.google/technology/research/how-ai-creates-photorealistic-images-from-text/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Final_Hero_Image_Imagen_Parti.max-1300x1300.png",
-          "width": 1300,
-          "height": 869,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/research/how-ai-creates-photorealistic-images-from-text/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/research/how-ai-creates-photorealistic-images-from-text/amp/",
-      "publishedDateTime": "2022-06-22T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

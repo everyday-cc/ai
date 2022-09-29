@@ -6,9 +6,9 @@ publishedDateTime: 2022-09-29T05:40:00Z
 originalUrl: "https://www.entrepreneur.com/en-in/technology/ai-powered-robots-have-become-nice-to-necessity-for/436278"
 webUrl: "https://www.entrepreneur.com/en-in/technology/ai-powered-robots-have-become-nice-to-necessity-for/436278"
 type: article
-quality: 65
-heat: 65
-published: false
+quality: 82
+heat: 82
+published: true
 
 provider:
   name: Entrepreneur
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://assets.entrepreneur.com/content/3x2/2000/1664430293-Untitleddesign-2022-09-29T111421176.jpg"
@@ -27,6 +28,6 @@ images:
     height: 1333
     isCached: true
 
-secured: "xa2YKrTJXcwuXpNKX+/qF3ChJdjvY2NOVCbzrQBxOqV7TfTk6DonrkUI0niZyEEmZ1DszL3aevVz+Le7c5a4w6Oc5o2HL5m1XNVmZsMOojg11MZY8aediX3THt/69x4K3Tk4OUFK2Gzu8X0ABRNZx/K1pVtiJJCVJxpcNslZfRJGcuxsSRGo/+9hsXKEdLWGtk6a2O0IuXxlVr+r1FCbu4nKw1nTp287A/wAsc+rljXVb24jMCjzJ97w7b8cpe8PONzI7hM0dy5GKUr+AT6RMqHW20jO7NhWtuA/Y+Hu4ckY6hxS39WnDthbRADSczLQaQPtPUElwx3SZA1pqQkcr0AU2UbeizQg95/QYsri9ug=;7LykWwCTj01woFnAyLGXhw=="
+secured: "3ej1mbIMg3khyI8goHskksNPfkLQDqAX2V3vvRkDU72JGHNvhmp9utdgDpuJZazbn1zNo98dWzLyxxt0QnJyKkkPZOVktmpxFB7TLY5jSQgKHAe+BwjE2Sr17UJGoL0wWn9Mg5wCWCBSidLMUjPla+9zrQW45M2uu0bb0mtXked0R3HpiRpIUDB3JhJGWA/pU0a4mZKiBHps4HlzbbScly2rYtXdNJ3OQDOtXwHPY9tpO/xPCz2gXuXczb8JJ7/6GhOvklB7mbaMpji9hvpjQwssSGTSmmukyyWa3dC244Bux5dGIkEFyAxRwZHplCspWPKqoevBjZ1bpvwRSikJo3CraWxx7ZnPteHBYY7eBb+WroDjdV10ZfV+XHRzf7CnMycy9dCgIztkParl/wbzs/azHfYWfeAzh45RtEsI/rqR2RW3VADepmPtRIrdZaymF9FJa42OtE3ksQMNac4Qrm/VV3dgFXsFtYHw0qm1eOcvQeYLnNV3J89YieS5qmxvL4oPg7QSrsv3uoxEt4+OKA==;pjfdLx31rXNg62OzfBirpg=="
 ---
 

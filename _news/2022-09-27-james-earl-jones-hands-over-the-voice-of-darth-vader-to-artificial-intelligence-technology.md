@@ -70,38 +70,6 @@ related:
         width: 2100
         height: 1400
         isCached: true
-  - title: "James Earl Jones gives rights to Darth Vader voice to Ukrainian AI company"
-    excerpt: "The 91-year-old actor, who has voiced Vader since the franchise’s first film, “Star Wars: A New Hope,” in 1977, signed over the rights to his vocal chops earlier this year."
-    publishedDateTime: 2022-09-25T00:29:00Z
-    webUrl: "https://nypost.com/2022/09/24/james-earl-jones-gives-rights-to-darth-vader-voice-to-ukrainian-ai-company/"
-    ampWebUrl: "https://nypost.com/2022/09/24/james-earl-jones-gives-rights-to-darth-vader-voice-to-ukrainian-ai-company/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/09/24/james-earl-jones-gives-rights-to-darth-vader-voice-to-ukrainian-ai-company/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 55
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/09/james-earl-jones-comp.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "James Earl Jones Retires as Darth Vader, Signs Off Rights to Use His Voice for AI Recreation"
-    excerpt: "\"Star Wars\" fans have already heard digital recreations of Jones' voice in the recently released \"Obi-Wan Kenobi\""
-    publishedDateTime: 2022-09-24T23:39:00Z
-    webUrl: "https://www.thewrap.com/james-earl-jones-retires-darth-vader-voice/"
-    ampWebUrl: "https://www.thewrap.com/james-earl-jones-retires-darth-vader-voice/amp/"
-    cdnAmpWebUrl: "https://www-thewrap-com.cdn.ampproject.org/c/s/www.thewrap.com/james-earl-jones-retires-darth-vader-voice/amp/"
-    type: article
-    provider:
-      name: TheWrap
-      domain: thewrap.com
-    quality: 46
-    images:
-      - url: "https://www.thewrap.com/wp-content/uploads/2022/09/James-Earl-Jones-Darth-Vader-Star-Wars.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Artificial Intelligence takes over as the voice of Darth Vader"
     excerpt: "James Earl Jones has reportedly agreed to allow LucasFilm and Disney to use artificial intelligence to create the voice of Darth Vader as he’s decided to step back from the role. According to Vanity Fair,"
     publishedDateTime: 2022-09-26T08:31:00Z

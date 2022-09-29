@@ -15,6 +15,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "S7XHng43QO+Cut0NHQVa1A5pSglMJSZZr+ekaP2Udzh/hkkEGekh0hIcl9od/MCd3jutjULKyOQYpYQJ4Pri3JaKZX+SOGF/TimsdYLtN0QowFoKNsqBWkWJ8kf+5/J0adCpIeTVJkeM8sCrpKtZMB/xlZAJvWquSq93H7S8IXT4ZuCxGbcTDhvwAN/gRNPw+A7eIhSwf+Abv5Rag4nMBmOgRX3XCMa6BXOHcvz/309ULkk31u/5BUDThVr9WdT/FSdFrusHbUO5QAnbhisO9dj2oStSaXk5ygrSD6m4wcvzahsQYZLyvt0Sd0Iso5uYPpToRYb7+gjpiedX2inFcIp8kpzadqhVltWZPM0vCS4=;iveLugimC/y3vuLSE3JMrg=="
+images:
+  - url: "https://s.yimg.com/uu/api/res/1.2/8TmQ.W.852u0apPZA6Qgnw--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/48dafea4d69472a8a6b88f609e4dfbbf"
+    width: 800
+    height: 533
+    isCached: true
+
+secured: "AZKeIgVNiAHTm+0FHVYZrtyeNIjzamzZfl3XBuCJWbTzomgDlLdHN4oBBlDEmW+ZYu5R22e+cC/rcpfj2VdQ0buDgivSJPdWY/3J9IwrmMXV6i9QwVFKIRWEN44nutvVGzIoqFhQQJV9tPHC0DSq2vUv8mJAdaqmvnT58c4+6WylUAsMeePBnwH1mHGaNh4K6pXXXHjZY5htmatewWkRPhqK1W+g2b9SA+rmbhCL0p6dmoiHKadK3temXtcW3uo4mFoVlGoCFtmwR7u7IZczr3Y7/e/Iaxz3vcaE1Z2dub8c8U3zJaB40fp51jZj+j+KiMONZ2CGt5+C6E18dQ3OOU1ohHABt2oxf/EZrF0Sqk8=;cyxkYPY/nF/jCSNKunWjCA=="
 ---
 

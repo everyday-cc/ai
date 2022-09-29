@@ -121,6 +121,20 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 78
+  - title: "AI Day 2022: Tesla may unveil a major milestone for its Optimus robot"
+    excerpt: "Tesla's AI is growing in popularity over time and has a livestream that millions of people view. Investors and potential investors watch to learn about the new methods Tesla is attempting to make money."
+    publishedDateTime: 2022-09-29T15:42:00Z
+    webUrl: "https://interestingengineering.com/transportation/ai-day-2022-tesla-optimus"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 73
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/2022/09/29/image/jpeg/g9lbUtcKWb3t73nIZDNHMAcKtvvtcFmuzlz57lRF.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Tesla A.I. Day Is Coming. Expect High-End Computing, Self-Driving Cars, and Robots."
     excerpt: "High-end computing, neural networks, self-driving cars, and robots could come up at the car company's second annual event."
     publishedDateTime: 2022-09-29T12:32:00Z

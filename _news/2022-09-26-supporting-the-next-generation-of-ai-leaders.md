@@ -7,7 +7,7 @@ originalUrl: "https://www.deepmind.com/blog/supporting-the-next-generation-of-ai
 webUrl: "https://www.deepmind.com/blog/supporting-the-next-generation-of-ai-leaders"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Meta’s new Make-a-Video signals the next generative AI evolution"
+    excerpt: "Make-A-Video builds on AI image generation technology (including Meta's Make-A-Scene work from earlier this year)"
+    publishedDateTime: 2022-09-29T16:36:00Z
+    webUrl: "https://venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/"
+    ampWebUrl: "https://venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/09/make-a-video2.jpg?w=1200&strip=all"
+        width: 767
+        height: 610
+        isCached: true
 
 secured: "4FWYSZC0SWH95T5sF34zOakIxy0wwwm9w0S2eELNAbXbWsRVoYZSugWEgHRIoGIAWJhDcFe+wjWLMRRfOGF2C4wSuAVGFbpTPk3LiB1AlAkerSfBPJ+tcY7t9vJVvwIpG7gmYXXqqu8kj22s5A5WdN6lE8d7mSDQT8fI21Yyn2b3p3enHCcOY2ygfT1xvdUF6khE+BPYJfoaa9Ml17OZcWUSuBgfRev65a/lzWUqiB4xGyaL/knblpyhYY8PoyA0s0Ep1wjk7FAVJZ60m2crbg9jB9UxQCL9O+vxvl4ExHnrQLV41LZsNJLarfbInF7fYX4MZ0dQ+QdlYsjw/DDdywz8hmX5LLPAPB/tjaEnLew=;ukz1kYkK0x0iaXT12vNJIg=="
 ---

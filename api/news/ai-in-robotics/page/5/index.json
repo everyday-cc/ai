@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-27-ezra-furman-writes-simple-songs-for-the-mind-to-stretch-out-in.md",
+      "title": "Ezra Furman writes simple songs “for the mind to stretch out in”",
+      "excerpt": "Ezra Furman joined Raphael Helfand for a special episode of The FADER Interview live on Amp to discuss her forthcoming LP, All of Us Flames.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thefader.com/2022/08/26/ezra-furman-writes-simple-songs-for-the-mind-to-stretch-out-in",
+      "originalUrl": "https://www.thefader.com/2022/08/26/ezra-furman-writes-simple-songs-for-the-mind-to-stretch-out-in",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_533,w_1024,x_0,y_95,f_auto,q_auto:eco/MAIN-Ezra-Furman-by-Tonje-Thilesen-9_acjkit/MAIN-Ezra-Furman-by-Tonje-Thilesen-9_acjkit.jpg",
+          "width": 1024,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thefader.com/2022/08/26/ezra-furman-writes-simple-songs-for-the-mind-to-stretch-out-in/amp",
+      "cdnAmpWebUrl": "https://www-thefader-com.cdn.ampproject.org/c/s/www.thefader.com/2022/08/26/ezra-furman-writes-simple-songs-for-the-mind-to-stretch-out-in/amp",
+      "publishedDateTime": "2022-08-26T11:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Fader",
+        "domain": "thefader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-26-first-trust-exchange-traded-fund-vi-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaq-robt.md",
+      "title": "First Trust Exchange-Traded Fund VI - First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ: ROBT)",
+      "excerpt": "Calculated by average return of all stock recommendations since inception of the Stock Advisor service in February of 2002. Returns as of 08/26/2022. Discounted offers are only available to new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/quote/nasdaq/robt/",
+      "originalUrl": "https://www.fool.com/quote/nasdaq/robt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/misc-assets/hp-sa-cumulative-growth-chart.png",
+          "width": 843,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-26T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-26-ishares-robotics-and-artificial-intelligence-multisector-etf.md",
       "title": "iShares Robotics and Artificial Intelligence Multisector ETF",
       "excerpt": "There is no recent news for this security. There is no recent news for this security. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC ...",
@@ -1252,92 +1347,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-graymatter-robotics-raises-20m-in-series-a-funding.md",
-      "title": "GrayMatter Robotics Raises $20M in Series A Funding",
-      "excerpt": "GrayMatter Robotics, an artificial intelligence robotics solutions company, announced last week it raised $20 million in Series A investment led by Bow Capital and joined by B Capital Group, Calibrate Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://labusinessjournal.com/technology/graymatter-robotics-raises-20m-in-series-a-funding/",
-      "originalUrl": "https://labusinessjournal.com/technology/graymatter-robotics-raises-20m-in-series-a-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d3evu7qlt2vui6.cloudfront.net/wp-content/uploads/2022/08/PG04_GRAYMATTER_0822_scansand-scaled-e1660932740192.jpeg",
-          "width": 1162,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Business Journal",
-        "domain": "labusinessjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-small-combat-robots-pack-a-punch-in-antweight-division.md",
-      "title": "Small Combat Robots Pack A Punch In Antweight Division",
-      "excerpt": "In combat robotics, contenders generally maneuver their remote-controlled machines to pin or immobilize their opponent. This can happen as a result of damaging them to the point that they stop ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2022/08/22/small-combat-robots-pack-a-punch-in-antweight-division/",
-      "originalUrl": "https://hackaday.com/2022/08/22/small-combat-robots-pack-a-punch-in-antweight-division/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2022/08/AWS64-Robots.jpg",
-          "width": 4522,
-          "height": 2544,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-21T19:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -124,6 +124,20 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 78
+  - title: "AI Day 2022: Tesla may unveil a major milestone for its Optimus robot"
+    excerpt: "Tesla's AI is growing in popularity over time and has a livestream that millions of people view. Investors and potential investors watch to learn about the new methods Tesla is attempting to make money."
+    publishedDateTime: 2022-09-29T15:42:00Z
+    webUrl: "https://interestingengineering.com/transportation/ai-day-2022-tesla-optimus"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 73
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/2022/09/29/image/jpeg/g9lbUtcKWb3t73nIZDNHMAcKtvvtcFmuzlz57lRF.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Here’s what to expect at Tesla AI day"
     excerpt: "Tesla Inc's \"AI day\" is back, with investors hoping this time the electric-vehicle maker will show something other than a spandex-clad human mimicking"
     publishedDateTime: 2022-09-28T19:25:00Z
@@ -189,6 +203,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "tNWI1+JqOx4MQGhwQhlZMgg7uT3IMeDji2ueC8bGhW10w3RaV/EK2yVdnGGuXGeZO3R+DQDpC+pLk7BwfvJxzKIn9DXHnXXbHKUh0UKmjB4pgmcsQxSzu4oKsAC7o2FlSn/R+goqU2XN6SKHUmYOPQ0FELOTsZo2Ve4UVOhi197ikEpxcKcggO4d5yE2/aGpqzC5dqUCzP4V4L3OWDdX1ygB8qTOFj4yAAhmkGNI5TE2JhBDl/FuWBJm1OSBqqSMdKg6wx8CazhFwtz9R2v4rQdecZo2IBZwvhN2PENZCOya5m4r78pre/zto+XsnFM0nPwDElrbO7QqQV1KOazpp9QwQDqIWVwG01Dcl1GgBDk=;kH3a8pzea9z0nEY/ASvzFg=="
+secured: "XjyyrWc+aLvg6pKhapUgCpvSWQu20QL6ftmbr2EGrMvVAJ0Kief55vwnbgFHrwQ7zEX4u5PzVrE4NeATwGQgrSYN5oa5YYT3em8CyR+yfPz4HzGE7ffKysHKSwZb/FEXLqDOFUImFdglqw1WsuJK6PBQLt2t1ujRT8j+8FloC3/r3MbbZTmvFyB6dd7Y1QjcUnhTwHOfBOn0fVd6U6Pdhp88E7Boo+vJzEf4VKeMqDsqjEPBqMKrWS5E+HKSyVCoUpil91wA72XZ8bmZQ7z095KYSPmdgcA/o1PbLEQ4bw84b3q2klkT3SSGnoEj9TG1wms3NKtszEbo6o06kJeMWEPkPkw6SU8ktyknOOBaYkkZXief58YdLoSIt7ECdrSmtl4WtPlPH2/8cQIkQ8qWN7/9GW2kZAjQubi1ZvYVA8QMbxQgSg2L6aJIFdKgAb2469eBP0CxsD/ZNGzdXRtUUEmDcvySMKFq/NAANj3No0I2Mrb9+Pe2X1rhW4+5xc2qL+gFFuIZjN1VSFUwFs5/QA==;xIdSw+G3SLMMc+hww7KLjA=="
 ---
 
