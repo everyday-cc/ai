@@ -13,11 +13,6 @@ linkedin:
 crunchbase:
   url: "https://www.crunchbase.com/organization/slyce"
 
-twitter:
-  username: "slyceit"
-  url: "https://twitter.com/slyceit"
-  followers: 2357
-
 angelList:
   url: "https://angel.co/company/slyce"
 
