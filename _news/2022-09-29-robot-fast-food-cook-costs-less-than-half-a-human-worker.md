@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2022/09/28/robot-fast-food
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2022/09/28/robot-fast-food-cook-costs-less-than-half-a-human-worker/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 662
     isCached: true
+
+related:
+  - title: "Introducing The Wingman, a fast food robot able to fry up foods"
+    excerpt: "The Wingman from Nala Robotics is able to cook chicken wings, French fries, and other food items in a restaurant or fast food establishment."
+    publishedDateTime: 2022-09-29T18:44:00Z
+    webUrl: "https://www.tweaktown.com/news/88698/introducing-the-wingman-fast-food-robot-able-to-fry-up-foods/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "O9hFxAEaLVoZa/fFy9QhpsL58QWieV7lnaY6+PjJmmZ+PU8YxzOgnR3qw4ZRyELIrGuoeRWRyz0O0pfLjb8d2mvGAECuKn+N2wlVXVoOJuD6O9egop+eNQl61hBecPmyZI3y6SciyL/ZRofu7KVxm6cMXuaQVH3AHPtiB7dDR+dy2Tf50gnBmTwCTFVC1e050+cPbO7SLcpr/y39ysQXKOBIqI4PoqO5ce8PdbI9G8lWLWI2VpSCkFE4AQCxLIXeJluH5sjpXEpraEPU4UE1tBYjuB/Ktsxwesd/8guUE1C4H51ru4xPE2pk3Xme3R/Shn/ZaC/DbeX49lxgMY71dzOJGLl9KVL2LTpHh/mSNzypMJiukjyDB/dDIYys+Spbw47EHNfsK61B0o7udygvOWG+08lVmsso/TcWzsFpIusXCrfCLAPTm7nTC0/ICscj7UqdiCCgei2OJZJ8qSxuZnOKTVqBkglYYABvqhZ5v34/jyeFSEMjQapcfeT82s98c4XyAB/W+FBw1jFR3xfBTA==;LNkVt7ndVaQDLQF6IG09ag=="
 ---

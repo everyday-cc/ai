@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/sas-viya-now-avail
 webUrl: "https://markets.businessinsider.com/news/stocks/sas-viya-now-available-in-the-microsoft-azure-marketplace-1031767702"
 type: article
 quality: 99
-heat: 229
+heat: 239
 published: true
 
 provider:
@@ -105,6 +105,15 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "At ISC 2022: Microsoft Talks HPC-AI and AMD Chips in the Azure Cloud"
+    excerpt: "We visited with Microsoft Azure during ISC – here is our conversation with two HPC-AI specialists, Alex Jean and Dr. Lukasz Miroslaw, for an update on Azure’s line-up of new capabilities and services in support of advanced AI and machine learning."
+    publishedDateTime: 2022-09-29T18:54:00Z
+    webUrl: "https://insidehpc.com/2022/09/at-isc-2022-microsoft-talks-hpc-ai-and-amd-chips-in-the-azure-cloud/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 66
   - title: "TCS recognized as Leader and Star Performer for Microsoft Azure System Integration Capabilities"
     excerpt: "TCS was recognized as a Star Performer for demonstrating the strongest forward and upward movement on the matrix, based on its continued investments in intellectual property, comprehensive portfolio of Azure services,"
     publishedDateTime: 2022-09-26T10:38:00Z

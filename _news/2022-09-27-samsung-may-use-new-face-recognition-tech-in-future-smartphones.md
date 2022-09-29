@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/gadgets-news/samsung-may-use-new-face-rec
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/samsung-may-use-new-face-recognition-tech-in-future-smartphones/amp_articleshow/94479585.cms"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?10642"
         width: 363
         height: 249
-        isCached: true
-  - title: "Samsung Galaxy S23 series could include this more accurate facial recognition system"
-    excerpt: "Samsung has filed a patent application with the appropriate Korean agency for a facial recognition system that uses two under-display cameras."
-    publishedDateTime: 2022-09-25T02:51:00Z
-    webUrl: "https://www.phonearena.com/news/samsung-seeks-patent-on-dual-camera-facial-recognition_id142727"
-    type: article
-    provider:
-      name: PhoneArena
-      domain: phonearena.com
-    quality: 32
-    images:
-      - url: "https://m-cdn.phonearena.com/images/article/142727-wide-two_1200/Samsung-Galaxy-S23-series-could-include-this-more-accurate-facial-recognition-system.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Samsung patents new facial recognition technology featuring dual under-display camera system"
     excerpt: "Seems like South Korean tech conglomerate Samsung has been working on a rather interesting system for facial recognition, one that involves two under-display cameras."

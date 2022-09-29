@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-29T18:20:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/09/b29083371/viecure-celebrates-the-grand-opening-of-the-dr-don-iverson-oncology-innovation-center"
 webUrl: "https://www.benzinga.com/pressreleases/22/09/b29083371/viecure-celebrates-the-grand-opening-of-the-dr-don-iverson-oncology-innovation-center"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

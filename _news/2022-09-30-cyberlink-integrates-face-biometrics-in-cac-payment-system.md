@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-29T19:14:00Z
 originalUrl: "https://www.biometricupdate.com/202209/cyberlink-integrates-face-biometrics-in-cac-payment-system"
 webUrl: "https://www.biometricupdate.com/202209/cyberlink-integrates-face-biometrics-in-cac-payment-system"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Biometric Companies

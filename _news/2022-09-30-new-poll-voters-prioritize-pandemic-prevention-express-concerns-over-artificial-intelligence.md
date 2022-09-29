@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-29T18:57:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/new-poll-voters-prioritize-pandemic-prevention-express-concerns-over-artificial-intelligence-1031773950"
 webUrl: "https://markets.businessinsider.com/news/stocks/new-poll-voters-prioritize-pandemic-prevention-express-concerns-over-artificial-intelligence-1031773950"
 type: article
+quality: 35
+heat: 35
+published: false
 
 provider:
   name: Business Insider

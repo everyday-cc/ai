@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-29T19:09:00Z
 originalUrl: "https://www.datanami.com/this-just-in/atscale-announces-data-science-and-enterprise-ai-capabilities-within-semantic-layer-platform/"
 webUrl: "https://www.datanami.com/this-just-in/atscale-announces-data-science-and-enterprise-ai-capabilities-within-semantic-layer-platform/"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: datanami.com

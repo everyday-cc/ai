@@ -25,7 +25,7 @@ related:
   - title: "Adobe brings guided edits and AI animated photos to Photoshop Elements 2023"
     excerpt: "Ahead of its annual MAX event next month, Adobe has unveiled the 2023 version of its (non-subscription) Elements products.."
     publishedDateTime: 2022-09-29T13:34:00Z
-    webUrl: "https://www.engadget.com/adobe-photoshop-premiere-elements-2023-130058162.html?src=rss"
+    webUrl: "https://www.engadget.com/adobe-photoshop-premiere-elements-2023-130058162.html"
     type: article
     provider:
       name: Engadget

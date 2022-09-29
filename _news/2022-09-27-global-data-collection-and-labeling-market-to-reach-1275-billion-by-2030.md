@@ -19,71 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Aviation Market Size, Share and Forecast till 2027 with Top Countries Data"
-    excerpt: "The global Artificial Intelligence in Aviation market size was valued at USD 389.12 million in 2021 and is expected"
-    publishedDateTime: 2022-09-28T04:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-size-share-and-forecast-till-2027-with-top-countries-data-2022-09-28"
+  - title: "Computer Vision Market Size to be Worth $20.88 Billion by 2030: Grand View Research, Inc."
+    excerpt: "The global computer vision market size is expected to reach USD 20.88 billion by 2030, according to a new report by Grand View Research, Inc. The market is anticipated to expand at a CAGR of 7.0% from 2022 to 2030."
+    publishedDateTime: 2022-09-28T20:24:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/09/28/9681994.htm"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 32
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+        width: 476
+        height: 210
         isCached: true
-  - title: "ChatBot Market Trends, Business Overview, Industry Growth, and Forecast 2022 To 2027"
-    excerpt: "The global ChatBot market size was valued at USD 18633.15 million in 2021 and is expected to expand at a CAGR of"
-    publishedDateTime: 2022-09-28T04:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/chatbot-market-trends-business-overview-industry-growth-and-forecast-2022-to-2027-2022-09-28"
+  - title: "Computer Vision Market Size to be Worth $20.88 Billion by 2030: Grand View Research, Inc."
+    excerpt: "The global computer vision market size is expected to reach USD 20.88 billion by 2030, according to a new report by Grand View Research,"
+    publishedDateTime: 2022-09-28T12:00:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/computer-vision-market-size-to-be-worth-20-88-billion-by-2030-grand-view-research-inc-301635068.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision Products Market 2022 Geographical Segmentation, Industry Insights, Share, Latest Trends, Size, CAGR and Forecast till 2028"
-    excerpt: "Global “Computer Vision Products Market” research report provides a comprehensive overview, industry shares, and"
-    publishedDateTime: 2022-09-26T06:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-products-market-2022-geographical-segmentation-industry-insights-share-latest-trends-size-cagr-and-forecast-till-2028-2022-09-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Camping Self-inflating Mattress Market Size and Share 2022 Industry Analysis by Emerging Technologies, Growth, Drivers and Forecast to 2028"
-    excerpt: "Sep 28, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Camping Self-inflating"
-    publishedDateTime: 2022-09-28T10:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/camping-self-inflating-mattress-market-size-and-share-2022-industry-analysis-by-emerging-technologies-growth-drivers-and-forecast-to-2028-2022-09-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 20
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Image Recognition Market Latest Research, Industry Analysis, Driver, Trends, Business Overview, Key Value, Demand and Forecast 2022-2027"
-    excerpt: "The global Image Recognition market size was valued at USD 27189.63 million in 2021 and is expected to expand at a CAGR"
-    publishedDateTime: 2022-09-28T04:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-latest-research-industry-analysis-driver-trends-business-overview-key-value-demand-and-forecast-2022-2027-2022-09-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 1
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 10
 
 secured: "gdTKzXIHh6Jx9LD62bNeOvaOpMjs0fES2/fbOYPqn7Pu3po9tnt/+8iCVaOdnezITElAZSKxFrUY6w/zhILMnQLWOs/tfNzj/klxorYrQExTGC787OE4kWPKTW0/G+FxH0zPjVxEn/nul8z+vQamkjSBRM/Gwlshzjw3jr1y3ut2AURusIa6wV+AnioNdLPo+akw0F8DZA0c2ohaXmztRsIC0t9shq0qLwJnbZ3LXoFqlNp/57Av+azPZXB0WXnq6d7hFNPpaGmg1C7/vw8YTxnDAk4ACC+7lkn9rhskgG2UY5itGxLEkj10qw/Qa11qJFnsEORwOvuuntA7Na+zDcQHeIhYT2Sk+CXc5q7vO5I=;gMq+tRpIq7HQh1SIM1++GA=="
 ---

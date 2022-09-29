@@ -58,8 +58,8 @@
       "title": "Adobe brings guided edits and AI animated photos to Photoshop Elements 2023",
       "excerpt": "Ahead of its annual MAX event next month, Adobe has unveiled the 2023 version of its (non-subscription) Elements products..",
       "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/adobe-photoshop-premiere-elements-2023-130058162.html?src=rss",
-      "originalUrl": "https://www.engadget.com/adobe-photoshop-premiere-elements-2023-130058162.html?src=rss",
+      "webUrl": "https://www.engadget.com/adobe-photoshop-premiere-elements-2023-130058162.html",
+      "originalUrl": "https://www.engadget.com/adobe-photoshop-premiere-elements-2023-130058162.html",
       "featuredContent": null,
       "highlight": null,
       "heat": 77,
@@ -577,10 +577,10 @@
     {
       "path": "_news/2022-09-21-inuitive-launches-nu4100-expanding-its-edge-ai-vision-on-chip-ic-portfolio-nu4100-presents-advanced-ai-capabilities-and.md",
       "title": "Inuitive launches NU4100, expanding its Edge AI Vision-on-Chip IC portfolio; NU4100 presents advanced AI capabilities and",
-      "excerpt": "Geared for Robotics, the new NU4100 is setting a new industry standard by combining integrated dual-channel 4K ISP with enhanced AI performance coupled with depth-sensing and VSLAM capabilities RA'ANANA,",
+      "excerpt": "Inuitive Ltd., a Vision-on-Chip processors company, announced today the launch of its new NU4100, an expansion of its Vision and AI IC portfolio. Based on Inuitive's unique architecture and advanced 12nm process technology,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/09/22/9678713.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/09/22/9678713.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/09/21/9678078.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/09/21/9678078.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1219,16 +1219,7 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/8TmQ.W.852u0apPZA6Qgnw--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/48dafea4d69472a8a6b88f609e4dfbbf",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,

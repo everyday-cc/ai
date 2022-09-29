@@ -41,6 +41,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "iRobot makes cleaning your house easier with the Roomba Combo j7+"
+    excerpt: "Canadian Android Enthusiasts Group blogging about the lifestyle of using android with tips, tricks and reviews."
+    publishedDateTime: 2022-09-28T02:38:00Z
+    webUrl: "https://www.androidcoliseum.com/2022/09/irobot-makes-cleaning-your-house-easier.html"
+    type: article
+    provider:
+      name: androidcoliseum.com
+      domain: androidcoliseum.com
+    quality: 39
+    images:
+      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEg_XPD55qNzfNcyXsJj-YVoft7YLLeCPRsDLqhByXFDK2VBiHjf1PCkNpce1KtsT0-h7flBAeU6LiNGPqfS0CZKp7d2Xt8trw7g2wwMHk_LdAeljLX_32WFS1Ez6WLiGHlZ4ObIKn2vHoLRYedyfg-hwERoYhQzhFbIBfonsZrmLdOzATL2CgjuqyreVw=w1200-h630-p-k-no-nu"
+        width: 807
+        height: 508
+        isCached: true
 
 secured: "sjxFmh38CN5Z2P/aA5D0epzCXX4yYjJUUJ1VLrzC+ahYmSPeJBD52wpNNnkPQSqu4g6eQ3TdRJG9oIEb95yprxQ14Sd1V2spCEFkbQ/rmp+1YzAcMVRfn5rxZiZ8Q7Bjy0g57+W6bOacHmImNhu1TpN5X4ULuaatANXe7GrQ8z7VUrGMI9KCDSx9KUZE9ZLporuzX8FlCge4QUGlGPqNztJ9ECctoHW5rDxdH4YrjYKUUfZ6LMUskvfVSgjIpHeiMzAeb3ce3/bY0izsItNtzzO5c0bgG6u0w3udQw/TAAIEXGRbDBGZgkDBayw+eXpo+Z/Yl0emXEk3U1Y9xKDolykNVgU4ItEXPCPY1ICC8vFE9igFCWAPv9CjFlzQ4vKpEDUp1ptoODf3lhqvOr94uZeUENTCWJgQ+yM2VSaGcY5vbiA6M1OR+d6R2hlvNqHifcrfwSFVA4l48ONDLa8JsoUr6tBjER6d3qgeKNu37yVjfbElVOGVe1+9ud54g8fsVhc4gjh4kG5ab0VDvo13tg==;PFWWvVXnYf6JQnrIUcGn9g=="
 ---

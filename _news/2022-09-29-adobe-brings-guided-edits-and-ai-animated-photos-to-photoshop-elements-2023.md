@@ -3,8 +3,8 @@ category: news
 title: "Adobe brings guided edits and AI animated photos to Photoshop Elements 2023"
 excerpt: "Ahead of its annual MAX event next month, Adobe has unveiled the 2023 version of its (non-subscription) Elements products.."
 publishedDateTime: 2022-09-29T13:34:00Z
-originalUrl: "https://www.engadget.com/adobe-photoshop-premiere-elements-2023-130058162.html?src=rss"
-webUrl: "https://www.engadget.com/adobe-photoshop-premiere-elements-2023-130058162.html?src=rss"
+originalUrl: "https://www.engadget.com/adobe-photoshop-premiere-elements-2023-130058162.html"
+webUrl: "https://www.engadget.com/adobe-photoshop-premiere-elements-2023-130058162.html"
 type: article
 quality: 67
 heat: 77
@@ -39,6 +39,6 @@ related:
       domain: techcrunch.com
     quality: 44
 
-secured: "6hXQeTsxEpJKeT9lpjyEjZr2oEoCH7eTa1Zil/wG9GqE7dFmwjzLyKp4+HEh7pzqrRn15Oejfg30l4hPME6zp1XPTakv9924yN1HfaKBVgumloMpyqVZoDTP5IbaGTEmOl/XifykaW4GG+yUVfHrKoexf+3yWBqnZryFK3sB74S4pygRJOql3z5JSSdAsFPyW0BcRgnFontLKwA8Y27Z72MkP+ndsMHO7Ssqvb4EpwBptfy3I0ll63DyYHQnY/Bpdfz4sqdNRwmodx1hB45wCVXZjxmBl2sSt412vlVAyGh1O7T5EvBgytuv9efZMDx9NvTFECM6aK2ysIikje99v624FsvHjFKx+isRmsFyNqXDqZ9Sy5GG1qeJb1M5kN7tmH/rSQpcqhe3opHU8J8eMJpWMBLhCoqI4EgSe81wWx4m+Tebl/5uwLxIc+PAN/f/po9tS19oXmtjTngO2/5aqH+vHIVax1cHWE/cizFnNasBnRrGJ7EHyDadST4w9eACSTgayUllmjpqX9oQWzoGUg==;Y3zwqxCeKl6/7MmiUeBHqg=="
+secured: "PAZMzCiZe0TUf0Ev6ZvmN+O1wEI9L9vqh4CYq1OoNxC0FOKphTjaMXZGnqzL9ZEyiIkz7u55njY/UZUv4y7poiB9Kdhc9rsoRr8uvk4boz4Ac2NbcjialvWBslOy3c+mpnvUsVplruT57djPK3VYzokzZGYpSJSwY0qPDP66/YbMprNWAlkXKyEojv1BANLBtfMFKl1yCoD+JuFJM9xGGh0xujwLOllvbaf3bUM39qawcJZXl9DX+sscH3VsiaDZjNl/O2lUit05F9tNpMnlgkLgOrsvjuhzjet+UOvqdmJypQSEXV7+R8J/bc+2Hb3FMRthEXQtgyrAgc07K8JqfiYOwzkyfMdoUU1FDgJgHLw=;5Cce+FN/k6ylv2TEQpjK1g=="
 ---
 

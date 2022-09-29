@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-29T19:52:00Z
 originalUrl: "https://www.bcm.edu/news/pupil-dilation-a-window-to-perception"
 webUrl: "https://www.bcm.edu/news/pupil-dilation-a-window-to-perception"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Baylor College of Medicine

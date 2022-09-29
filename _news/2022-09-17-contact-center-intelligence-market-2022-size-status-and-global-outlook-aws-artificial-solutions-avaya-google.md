@@ -15,6 +15,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "IPJIv1ZGA27+neOCDc3rMuaCmkKKzJGDnSVexO2GPTvGD2sH/mteBTfPOxaKcsqRvVbT46OiPbCZ687y2FK83wvIk9ZDL0yFh1AmeIrmfuPgipgYG5Hou1McngZY8fE3BQgl7rfFUoZ6vAur8SZGaU9pP7nICj0B/1bmJJLXLYe/MfVQYFjACcPvhdnWySQVSzsxQB+S78Zgj7Fl2G8GMgOB1NimunXlV/MH6b2WVz8fO4U49EEUdyIpZun/qRMCM+WaL/JeOZxywrj8cFiLQPbsaG6Nai05PuOFIi47HUeurowkZNGPv09L2Yq0jQcbhOExthskdClFPAZMjafhRQyc+tWKsDs6NVtfaauZ6mg=;qYYSeflMad2oyLsNhse48A=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?119095"
+    width: 374
+    height: 250
+    isCached: true
+
+secured: "xhw84dGsM3FKAI9hraE30RnIXbqPdTBNSAMcQoDjaw1SWJFazwwApJ3AAp/bAFAEiFSnq7t9y+ksx+4QrvLn4mGH30Tp5gUXdUSPdi6gzYtMqL6RJXrl3ysANEp7elItdUyZzxQEVhqmETYXQd1zSttN0I5Xj/39GqH7WRCVY/z/eZYr/duMQ5SDnMoYyvdABc8R36NkxIh5Ut2ulCNHPsMtlCNIQnzVkAvZ2vsIpzv9C7GAPm4PntW2KplmUf9Zw9TjcNCTYqEkV1pAfmj4rjWP2D/T7zZ689BOGl7wtjeDhXBJ2JDJKhFb1SuIS0jLp5QzSFHhAiabDjl4+ZyV5R5PZZNMfDGNx2A2wsp/90I=;NTajttJqr1/43Nar2TTp7Q=="
 ---
 

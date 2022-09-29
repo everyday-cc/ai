@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AlphaFold Developers Win $3-Million Breakthrough Prize in Life Sciences"
-excerpt: "Demis Hassabis and John Jumper, both at DeepMind in London, were recognized for creating the tool that has predicted the 3D structures of almost every known protein on the planet. “Few ..."
-publishedDateTime: 2022-09-22T19:32:00Z
-originalUrl: "https://www.scientificamerican.com/article/alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences/"
-webUrl: "https://www.scientificamerican.com/article/alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences/"
+excerpt: "DeepMind’s system for predicting the 3D structure of proteins is among five recipients of science’s most lucrative awards"
+publishedDateTime: 2022-09-22T17:18:00Z
+originalUrl: "https://www.scientificamerican.com/article/alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences/?amp;text=AlphaFold"
+webUrl: "https://www.scientificamerican.com/article/alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences/?amp;text=AlphaFold"
 type: article
 
 provider:
@@ -15,6 +15,12 @@ topics:
   - Google AI
   - AI
 
-secured: "Rf3gUPHep8nL0HLZHMGpVlS0HgbXU1yd9HQRg0TvSvqUCfE/887Ox3GgFvw3BWlar6do8HJTLDrCG9QtGiMgQbXJV68+UVGpIV9bOiebxQfeA9CjjcovQXbJisDYEpHFT1QaAK7tjxPxnKtsmyCxBZH9CMz6EzCK7AnUKEPg93+82BhJ4RyvkiF9tnYsGE/1LN1VMlyL/9sr5ePPFqvKYlcd50QsCSF+YMlpeiplov08n8zDsSaH0WC44YczFQHXgyCFEAGNCvBwU7Ad99bomTTdh7cyLk+zabK5mfchP8UwDDuxL6WiJFGbZIVE/aA+0Vl/V1hNKBh5NVH7YvDp7LRVlp1I60s8sne4FwRLOPo=;9kNyRXSmshwDFmDM9PrpHQ=="
+images:
+  - url: "https://static.scientificamerican.com/sciam/cache/file/085A9374-BDE5-4A53-A29DFCB280352F20.png"
+    width: 790
+    height: 496
+    isCached: true
+
+secured: "yh+c+eFjLrDEIa/CdN7z6H4ltlCG6G1c5ECsAo/tzDPn8d6DZkx37FUtk/q504roZrUtlw0Crp4zULsgOEjORfCXamT0Ay/auu4EpFuKDRqlD93fR5E3+ctfZ59bSf3DmgWr3BulKuIkr/9RQY+RVJVcUZR4r6jBGERtUB7IllmCtMUEnVsliX/Id9fjHHnSl7bMKHJlFoncYaLGzzFXCflwzZhAjeZfssitFY7f3ig7LYmCai/3Rt7M8ln9QDv/De2KNOi1g1gSwTzJNcTRpa8UwqSyYyDPOnvTFnZHRbfvi6eZY7MEwzqR/kOi+Ds8HFBfSu+BICQkdjSH+b5rLvMBZyled3NViAQlmo8bBks=;h5JaiMbescVFsA889KQnyw=="
 ---
 

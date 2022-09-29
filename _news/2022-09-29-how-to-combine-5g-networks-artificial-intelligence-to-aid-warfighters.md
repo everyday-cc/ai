@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-29T15:59:00Z
 originalUrl: "https://www.c4isrnet.com/artificial-intelligence/2022/09/29/how-to-combine-5g-networks-artificial-intelligence-to-aid-warfighters/"
 webUrl: "https://www.c4isrnet.com/artificial-intelligence/2022/09/29/how-to-combine-5g-networks-artificial-intelligence-to-aid-warfighters/"
 type: article
-quality: 52
-heat: 52
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.c4isrnet.com/resizer/VxRd1wyE6umSey-in8754Qn22p8=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/GCAL2AIX2BEJJK3TMYLCARSZIM.jpg"

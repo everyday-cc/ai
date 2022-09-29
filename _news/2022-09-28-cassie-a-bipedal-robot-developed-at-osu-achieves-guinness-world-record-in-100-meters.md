@@ -101,6 +101,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Watch This Alarmingly Fast Robot Set the World Record for 100 Meters"
+    excerpt: "Cassie covered 100 meters in 24.73 seconds, the fastest ever by a bipedal robot. For now, humans are still faster."
+    publishedDateTime: 2022-09-29T16:15:00Z
+    webUrl: "https://www.runnersworld.com/news/a41428921/bipedal-robot-sets-guinness-world-record-for-100-meters/"
+    type: article
+    provider:
+      name: Runner's World
+      domain: runnersworld.com
+    quality: 19
   - title: "Oregon State University’s Cassie the robot just broke a Guinness World Record"
     excerpt: "Oregon State University’s very own Cassie just broke the Guinness World Record for the fastest 100 meters by a bipedal robot. Before Cassie’s introduction in 2017, OSU received a 16-month, $1 million grant from Defense Advanced Research Projects Agency to fund the project."
     publishedDateTime: 2022-09-28T17:56:00Z

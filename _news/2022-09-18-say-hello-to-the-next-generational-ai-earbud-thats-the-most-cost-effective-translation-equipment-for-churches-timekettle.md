@@ -15,6 +15,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "QIbSybtnukNkxZzU5LQc9AskVDyucsHKX3IirUcJueiYrsNol1dAiwD23M4av/SQRRhRkuzrw/wZxQIuLxVJ4UA5Bf38VXX2TX4682Lm4PLAdBWS+yCUKv+7d9R+ZSQsVVLRCaK/APTb74Yxw/sH9tLkBVr7hPn2oRUafDmH9F5XvktiqOz6pVRXxXy+omvA5EJimvQ3eQ1hDjSRMTR9aRaJb6+tZyYBXmYVXutzjND3K/6brmfltse0RDodf81/6qiHyVjyMJ3rhIcJN9KOeP79R6F4wT8aAybuD61ApB68OF0kY3GztxdECh1mLQA7k5Sxd/k1iUcW+o82mdiThhVrWxRsd2PmmN6L1zjeatM=;QzAxZlk7+TN0F9T73nvDwg=="
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Brexit-June-26-2016-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
+
+secured: "zFeeGiyulkU/gKZm+OBr4wQNOaCb5ul2fN/lmMYfsBu4cXJO6IHBl7+YlowO/y/oYMOoy9fyAUHaVgM4GJ8bZzPXUTvZ3GJFJZaJHcjDvZY4IdHSWe8RuyFG7tRBua+oUyjkJmeTXO5S2hhDriyFcDIK7XsAIeKRWIy9n8eMLc+R6yjVHT7iWstz4DpEmfUKxbRNG5FIkErZR3DtyMrZPZ3AlVfk0rWoQ1/U7guBL4V9bIdFp6SzXnwUxGNHkeqIprc39Q93A99SO2Qn7hP9BVDyCpw9a1y7/Ox02YRhW7fp/w1ut2H7eluKUNHRlmksdLvc5HMo7CdWb71x+6erjmY5tRZJT6D5ZOVYKit71VU=;i4ahyavWUfUx1x9toUN3fg=="
 ---
 

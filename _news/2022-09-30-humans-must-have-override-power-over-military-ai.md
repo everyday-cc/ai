@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-29T18:07:00Z
 originalUrl: "https://venturebeat.com/ai/humans-must-have-override-power-over-military-ai/"
 webUrl: "https://venturebeat.com/ai/humans-must-have-override-power-over-military-ai/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat
