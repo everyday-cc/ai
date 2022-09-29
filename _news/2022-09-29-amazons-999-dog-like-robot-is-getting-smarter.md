@@ -1,31 +1,20 @@
 ---
 category: news
 title: "Amazon's $999 dog-like robot is getting smarter"
-excerpt: "The company is doubling down on new features for Astro, its dog-like robot, to help it better patrol the household when the owners are away."
-publishedDateTime: 2022-09-29T03:00:00Z
-originalUrl: "https://abc7chicago.com/amazon-astro-robot-home/12277436/"
-webUrl: "https://abc7chicago.com/amazon-astro-robot-home/12277436/"
-ampWebUrl: "https://abc7chicago.com/amp/amazon-astro-robot-home/12277436/"
-cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/amazon-astro-robot-home/12277436/"
+excerpt: "The robot -- not unlike an Alexa on wheels -- uses voice-recognition software, cameras, artificial intelligence, mapping technology and voice- and face-recognition sensors as it zooms from room to room, capturing live video and learning your habits."
+publishedDateTime: 2022-09-29T13:47:00Z
+originalUrl: "https://tucson.com/partners/cnn/amazons-999-dog-like-robot-is-getting-smarter/article_86c24a3f-a237-54fd-8d19-7026638cd167.html"
+webUrl: "https://tucson.com/partners/cnn/amazons-999-dog-like-robot-is-getting-smarter/article_86c24a3f-a237-54fd-8d19-7026638cd167.html"
 type: article
-quality: 59
-heat: 59
-published: false
 
 provider:
-  name: ABC 7 Chicago
-  domain: abc7chicago.com
+  name: Arizona Daily Star
+  domain: tucson.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://cdn.abcotvs.com/dip/images/12277437_hypatia-h_0b5aba8c1c96ec0e59a09a2477ed34ab-h_820e1c51c7d8e9f3e3f47e9713a79598.jpg"
-    width: 1920
-    height: 1080
-    isCached: true
-
-secured: "ZVApnNhsSu5MgSlB8e8NrDXOQ+XzQFCHzZs1dBFH3o3nf96XWZXcaVfafMkPBaGshW8MHzf2EakX7DumuMVFm0pPtUUDX1m6e0+e1OIESu58fuwGNoTBrwMSzt6d1NUYgtGYHZeAOrFfPFY3nAir2Q4076tl+wQSs34XSQQXePqijSr5vfVoClDaS3han7Rm90i29qH8R+CKW12ApZF6VPJXCCWIF0e/urFxVmDtsTbns4B0npA76RPxM8YJWp1Ve9z3UW54pcADEdUm1NI/33vRR1YLbV8uPttCL3dgiUep68oiaiGbU80nT6WWtqbsOsbTS54sr/f/L67Cw0YJmLVxa/41dwGkII0V/tWSH60=;YayiMVlyx3Qtto4UmxKBaw=="
+secured: "28WFl0e9ZCW6yd1UW+VIS0NdKk2SVD+e44riI3gcOHAVu0baqMU5ZB87uSarxtpvPLvKH3moJkdv0JAOt4M9skX/L+3lXRMVNMsSmLDhmkCSfuTJ4Pmok0T8Pm0Rhu9v85YUEU1a6TDkgNe6u63uA8jMNhVk4JBOqQsJFb8Rn6+ozV7eRB1ABJ0uY/UlwjBzGG1iGhZaFvOKIk6+0wsU9JclDKhvklYxlHUeB/4kLUkvy4To2pckF2vULqAqzN8abml29CgnPhtoYZCeoDxqHIEqqZGNQznBb1Q35zyK52pGrAUvtkWZiSDYL/dTtlqf5DJACwjxQM5PVDrgXawCAV50AT5Kv9BcRDAoLd+nBm6gBDzJE+20R2hIs4VIAI/hCwpzTKpquJ/rtHZ2WccxjhlvuWzYZlgGMkOUUnUjdOlzRwmrIMtoegjrASLW8ik3RP60uHb/hTBQ9/hRc1sFrj2qH6n+pK3KOGPHkQJAMksujdlaoU2waLPm9D3Qjec1YYiLWcLqrdK7BvURzGcJ7w==;HtdArybNr+Q7Zl3shWPB6w=="
 ---
 

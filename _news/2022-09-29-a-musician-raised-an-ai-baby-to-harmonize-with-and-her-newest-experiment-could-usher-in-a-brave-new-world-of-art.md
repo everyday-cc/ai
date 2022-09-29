@@ -21,6 +21,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://i.insider.com/632e153178dab80018ed6552?width=1200&format=jpeg"
@@ -28,6 +29,6 @@ images:
     height: 600
     isCached: true
 
-secured: "NDbx4JIp9qdOvhL762iggwiVArHAwREqKxnBhHUPfI734pOPvUuNccuLBH2qsFSYT6705k/i47es3Oo6UUEPLUK3ZVsKAwG2jt1ZRRPuO/yjCF2GZtUB3jV3U+nGAyKkVUHUHmoXJMVzVprqvq/FQyR+KvtvlFhwlPDXcx1GkHAJpYKAYBVTgOjBCbJxAruXbMNGHsttI+Hfg5ZSCge8YDIMCKoA3p/+ja+2m1GLq/hr+qL83TdtbH8/m4kPaxhOBY8G/SZaV+hvFf0JLSX3xDqlEildih8KnM2B7j3dWif7O5ABYPEr7uleU9JL2ga3EddMNLfqQKaP/TIxvvGpGYYvHv48KsxYRjlgVMCJrHk=;GW3fIYtxR3OnjxcBz2oWVg=="
+secured: "JuIcJ2o8yR4DOwlY7B93UCNGOO39W+rV3Pk68QPRWFshY9mPj0DVYepy+T1eHudWH7p5aac4M28YcuMiepO3CywL4r+gC+lk8WsW16O2gAQYp0XYodQNH894fAZF9Fu7/xV6ETh63fSW7bkFqzTF8h0Fz2JPuVyXifuoEgCI3Dh5osSPm9vGVIMfgGRQfPo908iIuSubdwkUYqBrDYxurpTrl+GrzeZmcZ0uvOkcAgCtjhbhAouii+GDWtNmsg2Ks65XchOtjYcTyEuczQ6exE8du3e+du2KWhYdtl+nrRmohEeLAdPyIEZMBKtCNfhdOq5CzUQeGTuP1UlA5lI5cZo/se9Ke0tH0s6cUR7ZntTG1QpvlT0yXMYmTLnwqQuBqkuYek+USXv9qH1Y4xopBfb2xt9MecBYBmeq4+nCg8bGF9i1nLMirRFOsk3yTW0HvsTSdEFUraG5DnB83wfg/jznI1nIepYTEza2Ol+lAJ1VWS2LCnG6nEbvSU80o3wIrXUiMurYYpDQi5CfILeUbA==;UjbxeydfhtuDtulDIX5xCA=="
 ---
 
