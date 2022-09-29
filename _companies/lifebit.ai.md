@@ -2,7 +2,7 @@
 name: "Lifebit"
 overview: "Lifebit is developing the world’s first platform that brings the computation to your omics data and learns from it."
 type: "profile"
-heat: 72
+heat: 57
 
 website: https://lifebit.ai/
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=aycHy_axa_Q"
 
-secured: "GdWB50Cy1Eylp0sd3M0goFPKioIsdIaXnDuqIAtbqscOIkH16Wgb5gV2/dtIr4Jklb+wB8D5iYDfLYOqQeBqLPsJzIp5fLg4PGV6P25/edSin85MMUP56Zhe4VWHbVzNco/lFRAwCA+KohUuzKWUus8IWjVNJJJmdCK9h1F1xg0rkBIUFW4OQpUIWPXzNoGwZzn23fXfkUcALj2WzGtZA2VI4mAE/HL6ejaJZllFHyk84h9Ui4O+J8xwwW+XQMlGKm+bcLLdCl2xHuoRzuJxzeclMN6ZSsGDEK0IORkdT2zfDw3SCb+65NA1MjUMrnCAHjhdFsMQX3pUZeEqWNcIDXuiOPwKgbfeYqQpTpfgmbXhILlRftYHy68PpyeOGc1KBR31ybzYie9+Eb3CkOE7+aBLYT7THgUMY+cYPdsGdW0=;HFHyGM5ligXAxxJ1HvBXNg=="
+secured: "f/6indu7Xq5FSIrp+ZIHpUf7U8SbT3Z5oygvbi98vC3oaPAi3HFFW+NLqf7lzgXZS2NhfBVJq6i8HgV4nP78a6Az1wmgaCJL8tJa1+Mf7rmiSDU1biDiW7ErwF5P5s6+LxR2DlAdRU1aUDYtDRXtwFS7WxG0vl8QtHTg/p8frBLe0v5VHQrtY5/aWwPIaKzxcMuqvCr+6A9QU06v8avQRAxTB4CaDnt6u2CnRFmoCdenrHAOpV5An1AIn3kHdE/ZaJ0raBOE+NWkArXhDYOF99cKrqDM5mWl3tFYdg4m1Jp+I/0hceydMcax+RZgY6b9RWDpGWdC9pjPqeKaVNtGhdUz3R6j2IERghAZXYoVfz8DxOUtqhWscZv9F8z4Q4uhECShWIF9V8TxMdM8pBdKDFJe9PqIuD0/DyN7LMy3+XQ=;rL0AOIxQGLEJ8SqHdMnMHw=="
 ---
 

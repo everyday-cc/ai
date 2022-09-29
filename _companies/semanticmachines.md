@@ -2,7 +2,7 @@
 name: "Semantic Machines"
 overview: "Developing novel deep learning NLP and AI technology to revolutionize mobile voice enabled agents."
 type: "profile"
-heat: 58
+heat: 50
 
 website: http://www.semanticmachines.com
 
@@ -37,6 +37,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=DxrJWSi_IWo"
 
-secured: "aItx8ApwP5TmQAQOIRQVENI20ITD1hnBWTFVCICE9XSdKgTf5oFB8RPY1vrgjKtxlx9Xg+1yM4FIqD1QBI7vcgxrX+T+DrpwBWh+l/IBbBPnCyZWj12FsT/pZYD01Au8jHJZxFYG7IO6aXaOtsgcMcjp+oAinO8p4wUPDSoU7vbBm1wbXY9UNl1tDq0Gl09X8UklJBiUie9AMwZmnO1DzQ2WvAfZpWDVdY/B6Q8D+FUOB/ricY0Hptb1TgXEvRohXH3cnhA+z7opH8ZNm2SMe7cZomUiTwRICymw9fSCdT3vCqVQdP2Pzlgw3YjSeNevTZ6+WBFGQIGaA4xfZoJz5nba4r06hLI8RYJ+i9GrsIdnw2ZQIr4gBtBp0PfLNf6YK9xAL8K0AOQdXoMmTyoeFg==;8MOmj4LcDb9ND9RDNsJZxQ=="
+secured: "gocErMDEgi6qfDT3t75moS+XEt/2tkjlEiH5TS35wpcvFprF7rTs5nt5FRb7ACWBsJ/9DJOPBmHgOAm9tIl+2eKFFPIkG3O/1NiGSyGQ4y0Mtk383Pga3sUmV+c6ctWb0jfxgc17PDR3QJH6P4nV/w1Cfjv/kAaIHlskRLZObkj7F78hSaxV6cBAvSZ/XbealdoY29FDtqeOJsOCErySRS5L5uKPLWpwHd5GzKmnoAeZB5mfFaXJVbpRK+VqhkTwcX02Ri8YIYHa0W9AciqI1A9VyZZE4Os5o7rd/YEvNrBvHINKC3xNYuNPXFHnjTPh0GcnBhc5paewKEhPuEZeVsiSZiHzcUisGsR7bc9iFtvSUYU3w+S4IAuxZAO5BGAxtl2//lWvdVHlLxoFHM3D1A==;4DrGaUbu5y3haB0esnJdEQ=="
 ---
 

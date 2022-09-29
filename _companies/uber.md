@@ -2,7 +2,7 @@
 name: "Uber"
 overview: "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request."
 type: "profile"
-heat: 224
+heat: 238
 
 website: https://www.uber.com/
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "Uber"
   url: "https://twitter.com/Uber"
-  followers: 1089097
+  followers: 1089101
 
 locations:
   - Global
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Uber"
 
-secured: "XzSz1/nJxcCTgAUGfrcVYTrv9xbsuOWZQalv8cSIYDDJkKbV1ZqaS7Om08PNgvlDE65HBKMGJD8pBPtgqOWe8UHCAnprOhSpVYxaProKr4EaJ00x5AFVtnMeBaxBW7C/FIMKMPrRSY9v5bCOfmNeKgtkr0H5zAUJVWU74nrEq5W75MoBrrGjyESzw+/tOl6wbfk16nZAAnsIv3VqJMM8JRo3VPb5WaoIbmnfAYHWJVTeEOsTMWKHQ50k3wc8kH+T+luLKt9IYRnL++T3dmknzaWf9l9m7F2qc+ZOB+bR37NiwzxzIzB6wTXn3NZs21euOaiP9JmQ9x6FZwoWoLHksyBAvbVU9TENiNUdYwtL7f2VIoXhbYquyCBEc/lcOJrpFbDecFW8VG9MuK2Cs65xFoE0av8TCY7Uykcb10MsJwY=;6YViPS7R+EvpzTek9ljkxA=="
+secured: "6jwcJyfo/FRZ8Wqyj75fIuIxo2R5cVmal1G/m2XnS55SEQdcURg4vESxzuTfXErl2Et0se618NO5yWqVhgTXdlVrspnX9bYqerySW3SMUtrrHv39EL0BdhJP7epYpHYRZoaYjvsmCHSnFB3gLyI7AbLN3UHHbIWRHnvFluIW2w6TtIVp4Ml+ynioYSmh6+y26k9rjLp0XtJDt3HtHcVasSRK4wh0/5MknTQgOUG/k4Wcmi2RJ55VN2ZkuU7dLQwEkyGg8jTD3hySUR2kd8wfUu6dBkSy5a5Obwm1WehomBXenTwZcRjVaaYOJSMc7WIlaeOpY6Xk4ghSbKQE1Vk127bg089nSX2itPqZ6YTtm5YQXtbf5geAmx1eS8N3awkt+7wgWhG2D6y0gAKPFRlhQmH4cwKj64Hib19gTAmRb/Y=;qtht2hc1HAPFp48oX9BsSw=="
 ---
 
