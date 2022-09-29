@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-28T23:33:00Z
 originalUrl: "https://www.realclearpolitics.com/video/2022/09/28/intelligence_squared_debate_will_artificial_intelligence_do_more_harm_than_good.html"
 webUrl: "https://www.realclearpolitics.com/video/2022/09/28/intelligence_squared_debate_will_artificial_intelligence_do_more_harm_than_good.html"
 type: article
-quality: 12
+quality: 14
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 related:
   - title: "Debate: How to stop our cities from being turned into AI jungles"

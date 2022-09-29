@@ -35,7 +35,7 @@ related:
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 12
+    quality: 14
 
 secured: "KuxY1sGYjD8DjVTboBC77WzSR9mwqBgLLHDoucUGN74aDqEK7e2VsYw0pjLqmcDKNkVbqF7CA74E+bOimrzBEcoApWas7CkxXxvsidHzOUlrp5ZzvP+e9qne3sA401ER2Z9JebBMtH/xSPOMgTyrFq8sBxAbIX+xmkInrXn+XLBu5+tyNcMfgGBFzs0Zxo08BeQzAjTALCw0GtQIU6iBc8Ls2gJgOnWr32T8d8qBgsDKmy0KENosZotwbzD2wnYLmxdQJ+Nbscup/aJqqCrM/G9azROc0VLMN7tiFkxMIPfKd3r4lKTg5hNSURO24rX+5hXn70lj8lhTNmsceDS7wFStk+bKRWbP/sHzRFYQFN+WTzoOrt5s8L5qdxRiSbxDomo10M1TUrq0as2l3hjYnH2Ac3opKdJMNIFJo2RmiAX1Ted5zUpuJXFPZWsz6GorJoWG49y+x7MQBaBZlqRE0aRinDHXi9VrD/B0dfrsyJovzJIKhgVxuV08kSjtELwJ3J3WaiDpgL4RqRFDQhU91g==;EOIh6gi7sFZ+acePer76eg=="
 ---

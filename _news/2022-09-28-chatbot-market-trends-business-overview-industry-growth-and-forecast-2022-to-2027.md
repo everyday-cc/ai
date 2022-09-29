@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Camping Self-inflating Mattress Market Size and Share 2022 Industry Analysis by Emerging Technologies, Growth, Drivers and Forecast to 2028"
+    excerpt: "Sep 28, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Camping Self-inflating"
+    publishedDateTime: 2022-09-28T10:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/camping-self-inflating-mattress-market-size-and-share-2022-industry-analysis-by-emerging-technologies-growth-drivers-and-forecast-to-2028-2022-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 20
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-driving Cars Market Size 2022-2028 Global Industrial Analysis by Growth Rate, Market Share, Revenue and Forecast Research Report"
     excerpt: "Sep 27, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Self-driving Cars"
     publishedDateTime: 2022-09-27T09:53:00Z

@@ -65,6 +65,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Camping Self-inflating Mattress Market Size and Share 2022 Industry Analysis by Emerging Technologies, Growth, Drivers and Forecast to 2028"
+    excerpt: "Sep 28, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Camping Self-inflating"
+    publishedDateTime: 2022-09-28T10:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/camping-self-inflating-mattress-market-size-and-share-2022-industry-analysis-by-emerging-technologies-growth-drivers-and-forecast-to-2028-2022-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 20
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Data Collection and Labeling Market to Reach $12.75 Billion by 2030"
     excerpt: "The global data collection and labeling market size is expected to reach USD 12.75 billion by 2030, according to this report. The market is anticipated to expand at a CAGR of 25.1% from 2022 to 2030."
     publishedDateTime: 2022-09-27T11:59:00Z

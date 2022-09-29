@@ -37,7 +37,7 @@ related:
     provider:
       name: Toronto Star
       domain: thestar.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://www.thestar.com/content/dam/thestar/news/gta/2022/09/26/most-canadian-post-secondary-students-are-grappling-with-mental-health-challenges-two-years-after-the-start-of-covid-19/student_stress.jpg.size.custom.crop.640x360.jpg"
         width: 640

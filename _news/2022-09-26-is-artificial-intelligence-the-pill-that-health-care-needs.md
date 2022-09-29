@@ -8,8 +8,8 @@ webUrl: "https://www.thestar.com/news/gta/2022/09/26/is-artificial-intelligence-
 ampWebUrl: "https://www.thestar.com/amp/news/gta/2022/09/26/is-artificial-intelligence-the-pill-that-health-care-needs.html"
 cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/gta/2022/09/26/is-artificial-intelligence-the-pill-that-health-care-needs.html"
 type: article
-quality: 59
-heat: 79
+quality: 61
+heat: 81
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.thestar.com/content/dam/thestar/news/gta/2022/09/26/most-canadian-post-secondary-students-are-grappling-with-mental-health-challenges-two-years-after-the-start-of-covid-19/student_stress.jpg.size.custom.crop.640x360.jpg"

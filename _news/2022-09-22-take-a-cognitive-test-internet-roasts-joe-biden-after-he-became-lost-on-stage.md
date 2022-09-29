@@ -2,19 +2,25 @@
 category: news
 title: "‘Take a cognitive test’: Internet roasts Joe Biden after he became ‘lost’ on stage"
 excerpt: "US President Joe Biden has been mocked online after appearing to not know where to go following remarks he delivered at a Global Fund conference in New York."
-publishedDateTime: 2022-09-22T07:05:00Z
-originalUrl: "https://www.dailytelegraph.com.au/news/world/take-a-cognitive-test-internet-roasts-joe-biden-after-he-became-lost-on-stage/video/9d05892295fde934dbf483b83e10220f"
-webUrl: "https://www.dailytelegraph.com.au/news/world/take-a-cognitive-test-internet-roasts-joe-biden-after-he-became-lost-on-stage/video/9d05892295fde934dbf483b83e10220f"
+publishedDateTime: 2022-09-22T09:55:00Z
+originalUrl: "https://www.skynews.com.au/world-news/united-states/take-a-cognitive-test-internet-roasts-joe-biden-after-he-became-lost-on-stage/video/9d05892295fde934dbf483b83e10220f"
+webUrl: "https://www.skynews.com.au/world-news/united-states/take-a-cognitive-test-internet-roasts-joe-biden-after-he-became-lost-on-stage/video/9d05892295fde934dbf483b83e10220f"
 type: article
 
 provider:
-  name: The Daily Telegraph
-  domain: dailytelegraph.com.au
+  name: Sky News Australia
+  domain: skynews.com.au
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "gQoGU3OVCsjR80r/k9YoBJ3Dq2eEWe1U4zgOTfyesskGB+Rr20QfJkn5II7EAQ0nCtaIvus/m7pehz/m8ZfxllbLYWFA/KoSDe2zgpuYq0kd1lLNE1Dyxg4yYlzhwAdBSPNSpaTpiQDSV0fKz4/EVrkYNF2hUv2VOsuB2od5eX3Yi/C4i5QlHg+24ACGo4Wn/dZ/7ZUkKZgSyVnpw+XsVMJxF0LGjvo2th/JSvnHxn82CGMk2m+waSgr0AYKcqoedoQF5liMppspnJgfyTOr7wh11hdj2sTwydnxfTj350+/c8OjHVVeE+y7KsHqIjQx/c4bjNuQsEC6A6XD+xM676M17lpv7zSTc7BhF2bK2Yg=;8UnfFRUdr59a0q9Kc8/ypw=="
+images:
+  - url: "https://content.api.news/v3/images/bin/0916a04881481f87f402e9cbbc2f41ec"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "cWs7U4OMrofxkYO1jTd24j1p40H+uN7kiJ6r+xgXAiR+ItzW262V9/TcKSCy8G8whxge+Ljx0fPZTukSUEOyXfHofUaQbcBemRSRjGjiW3dYAyTysdMYHbFcCn56jDdjUe0Dl1IrLsHhQl16l0CGaUHnutOVJEKJcWajv1csuFKJTOxlCNYqHYN0m4wypvM+zvZvoZ06JemDDIKbCQI9Baj7pf1f8fc2o2WHVik0aOzU68ePcvI+V9u3YknMyqwXZVPBPM2nV2RaYVB9pZSLWx3XiOgJbiC5tweMF/zswuK2845B47s7Ius+qg0tQ4eoGAbkDZYNnJXPRCHAbit6HJfMzb0tFLalWEncq8FWQQU=;zaDtMgQo2T/zgbaQxfKHIA=="
 ---
 
