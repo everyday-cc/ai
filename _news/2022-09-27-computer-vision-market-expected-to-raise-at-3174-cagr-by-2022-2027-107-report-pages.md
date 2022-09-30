@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-market-e
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-expected-to-raise-at-3174-cagr-by-2022-2027-107-report-pages-2022-09-27"
 type: article
 quality: 76
-heat: 216
+heat: 246
 published: true
 
 provider:
@@ -85,6 +85,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep-Learning Computing Unit (DCU) Market Size, Sales, CAGR And Competition Data from 2022 To 2028"
+    excerpt: "Number of Tables and Figures :130 | The global \"Deep-Learning Computing Unit (DCU) Market\"size is projected to"
+    publishedDateTime: 2022-09-30T03:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-computing-unit-dcu-market-size-sales-cagr-and-competition-data-from-2022-to-2028-2022-09-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Accounting Market : Industry Analysis 2022 To 2029 based on Sales, Revenue, Size and Share | 104 Report Pages"
+    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence in Accounting Market is projected to"
+    publishedDateTime: 2022-09-30T00:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-industry-analysis-2022-to-2029-based-on-sales-revenue-size-and-share-104-report-pages-2022-09-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "New standards set for Cloud Natural Language Processing Market grow at 15.16% CAGR| 120 Report Pages"
     excerpt: "The global Cloud Natural Language Processing market size is expected to expand at a CAGR of 15.16% during the forecast period, reaching USD 5289.6 million by 2027 was valued at USD 2268.2 million in 2021."
     publishedDateTime: 2022-09-28T09:13:00Z
@@ -136,6 +164,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Video Games Market Segmentation, Future Trends, Growth Overview, Key Companies and Forecast by 2029 | 101 Report Pages"
+    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence in Video Games Market is projected to"
+    publishedDateTime: 2022-09-30T01:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-video-games-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2029-101-report-pages-2022-09-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

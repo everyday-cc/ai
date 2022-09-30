@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Problem With Biased AIs (and How To Make AI Better)"
+    excerpt: "Many AI systems can exhibit biases that stem from programming or data sources. Learn what a top AI ethicist says about how we can mitigate bias in algorithms and protect against potential risks to consumers."
+    publishedDateTime: 2022-09-30T05:40:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2022/09/30/the-problem-with-biased-ais-and-how-to-make-ai-better/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/09/30/the-problem-with-biased-ais-and-how-to-make-ai-better/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/09/30/the-problem-with-biased-ais-and-how-to-make-ai-better/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/633680e9f575e0775e377afd/0x0.jpg?format=jpg&crop=2808,1579,x191,y0,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "EU Commission to make it easier to sue over AI products"
     excerpt: "The European Commission has proposed new rules to help people harmed by products using (AI) and digital devices like drones. The AI Liability Directive would reduce the burden of proof on people suing over incidents involving such items."
     publishedDateTime: 2022-09-28T18:22:00Z

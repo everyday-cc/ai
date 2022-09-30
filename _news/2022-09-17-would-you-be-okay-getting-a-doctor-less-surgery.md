@@ -3,8 +3,8 @@ category: news
 title: "Would You Be Okay Getting a Doctor-less Surgery?"
 excerpt: "Robots could someday be fully autonomous in operating rooms. Their biggest challenge might have nothing to do with the technology."
 publishedDateTime: 2022-09-17T12:00:00Z
-originalUrl: "https://www.theatlantic.com/technology/archive/2022/09/autonomous-robot-surgery-operations-medicine/671449/?amp;amp;amp;amp"
-webUrl: "https://www.theatlantic.com/technology/archive/2022/09/autonomous-robot-surgery-operations-medicine/671449/?amp;amp;amp;amp"
+originalUrl: "https://www.theatlantic.com/technology/archive/2022/09/autonomous-robot-surgery-operations-medicine/671449/?amp"
+webUrl: "https://www.theatlantic.com/technology/archive/2022/09/autonomous-robot-surgery-operations-medicine/671449/?amp"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 625
     isCached: true
 
-secured: "Lnb6XWiWTTXmEb9+Hv/2gAFAwNlBbCpRF/qKcU7c5xnbd/rMSCidJRSRIfbC4IgMmRPeMuTAvRzWjbDyeuWa9Di4WnTBk39RPFYoc+gKdFcO75gFLPkr2nuzluPlGa4Qvh+MU5O9m+vDFcIi5vY2qERVRG5yIb4Htp8xSNZDmqH2SFBOeAb+hH7LhYezEJHbm/4LQS3RJ0RJd4Ej7ZRbacexkMZRAIrQ81vrw58p9qYITm86oOUYORthRdniw+I12hfak5bdQO6ejKMOHjZEHjdj7LHeC/wpQ9ndiywbRoiAe94WKdmCcP05q9smOHBB1Oh7kTpyXJlxrGk/WAYMCDV43Sl1teK4nPGiYTrQeeY=;goakFpAyMuJSuY9yWjN+Kg=="
+secured: "myzvIpG6Pwfr1jsKTHGQ1Te1WbPt5fpf5+fzsqcSZjgNbSikJEX0PN+4IHzU510UeAtyGvH5mahjn8HxoI5N1rl5/cuovqf+fZwKw1g5Usjc6iTha+ZueSf7gz8IxnTu8krloXFQEYn41KE+Sdy9RHkZb0Dm0bdQpZr3zA2zolIMKBDcAk+HMe1XezQTqnMQ56l5ITrQG3Nq4pHLtofRVKVT8aGm1AlOKakjsj8TYV62QHG/FN+IIOeRHW0FUAbgJLcIQ9earAOmkVoHamQMyqHVjRf3icz5sHKkuWp1M2hRoWs1QEnsRQmwtYJVB32qwtK+D+lB14hkGzVIQNqhQmAIZGcIYq5mq77g0LcA1iw=;yX+TGHDl1pYrPib/nnL+4A=="
 ---
 

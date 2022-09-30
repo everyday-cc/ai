@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/gadgets-news/samsung-may-use-new-face-rec
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/samsung-may-use-new-face-recognition-tech-in-future-smartphones/amp_articleshow/94479585.cms"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://images.firstpost.com/wp-content/uploads/2022/09/Samsung-patents-a-new-facial-recognition-system-with-a-new-dual-under-display-camera-setup.jpg"
         width: 640
         height: 362
-        isCached: true
-  - title: "Samsung patents new facial recognition technology featuring dual under-display camera system"
-    excerpt: "Seems like South Korean tech conglomerate Samsung has been working on a rather interesting system for facial recognition, one that involves two under-display cameras."
-    publishedDateTime: 2022-09-25T14:06:00Z
-    webUrl: "https://www.aninews.in/news/tech/mobile/samsung-patents-new-facial-recognition-technology-featuring-dual-under-display-camera-system20220925213648/"
-    type: article
-    provider:
-      name: Asian News International
-      domain: aninews.in
-    quality: 28
-    images:
-      - url: "https://aniportalimages.s3.amazonaws.com/media/details/ANI-20220925155827.jpg"
-        width: 600
-        height: 450
         isCached: true
 
 secured: "mj+vYzG2X4MF/m98dgcFOKIx6X33/fNyG4Jio0F177llWq+hrQS0JaBbRdnLLzwTA/rEcgLgjFR2FGG+IzICY3Z8ufEAXnEk88DS7RkP7V5aQZqE8wlBwmFvGTb3alKnpvgBUZWdsQab3PH8KxzHb4hO2houYbdXkzcZHRcGTSixTe1fFQvLdDymWHIw930Fy799a4myOlbD0Jd9mEt4iEO6UanWSyGQRzGoNPmIxG0LXdvrbR+10rnX/HsXWuIsMOrbtkzbRbJdaEFdS8QhFrKTbDhQTWntneM8i8SjJjPOBxH2owaEfszytnrGCwjgBQsIIuIFgMxXE+WrOTyU5hd3AX20hWV6VMWhBxKCJI4z+Q17R+YTqB/arIO8mNlEllxesa7vxtoi1I3ziYBepqpmVfF97vyssx1jTdvsuFqHuuQYJu1ilsMEb1RlRmQ6nZi76zgGMIPWqcCu2m2kWcgG0qXpzuC9uXJkk1DMc14ntAC5RUKUc3UrZV0wXDZvCh3Ow0RtaC8HH6TLLZaykw==;8t4liNXfhrNkVCMfII5rQQ=="

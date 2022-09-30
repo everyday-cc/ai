@@ -43,15 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Aviation Market Size, Share and Forecast till 2027 with Top Countries Data"
-    excerpt: "The global Artificial Intelligence in Aviation market size was valued at USD 389.12 million in 2021 and is expected"
-    publishedDateTime: 2022-09-28T04:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-size-share-and-forecast-till-2027-with-top-countries-data-2022-09-28"
+  - title: "Machine Learning Software Market Size and Growth Comprehend by Product Revenue, Growth Rate, Production Capacity Analysis and Forecast to 2028"
+    excerpt: "Sep 29, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Machine Learning Software"
+    publishedDateTime: 2022-09-29T06:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-software-market-size-and-growth-comprehend-by-product-revenue-growth-rate-production-capacity-analysis-and-forecast-to-2028-2022-09-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 33
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

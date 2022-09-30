@@ -7,7 +7,7 @@ originalUrl: "https://www.benzinga.com/pressreleases/22/09/n29062942/missile-def
 webUrl: "https://www.benzinga.com/pressreleases/22/09/n29062942/missile-defense-system-global-market-report-2022-increasing-use-of-artificial-intelligence-present"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Face Recognition Systems Market 2022: international Key Players, Trends, Share, business Size, Segmentation, Opportunities, Forecast To 2029"
+    excerpt: "In 2022, Face Recognition Systems Market size, segment (mainly covering product Type (, 2D Face Recognition, 3D"
+    publishedDateTime: 2022-09-27T05:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-2022-international-key-players-trends-share-business-size-segmentation-opportunities-forecast-to-2029-2022-09-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "hcoiElrliugOGsgPjUGjq94YutjeZ9Q1hFMAwvmUfifWuqaTK+wrr7vD7Yu6QJyy3A3fd+ni0RqX+kaldRKlV998jGrQhAiTz0xJhWTI9Ilhf7VFHIQwqtG9h7XfqjjPpiXPt2cIeX+L6FP2zCt5FU0m5Yhxq89eucJrSmVg85M79fKhTN49FWx/a8o+jfrPcaaNo0OuPKKHcBqRdymCypauHvey/zmaTSwk+Qktuwk+QyPLllK9hjiD2fzsHCjjXZ8doIy+E6pMHRxZBm5X5XSgoEn6loTNN0uaC5cTfQnVIo9OEqyqvvEQ5GFZLXBj1mwEC0PB3dvamm7WyP4aqB0U8/DoqQKzsgjdkkFpF04=;FX8bA6bGPwbbRrcKU0bJ4w=="
 ---

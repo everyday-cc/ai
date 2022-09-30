@@ -23,43 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "ChatBot Market Trends, Business Overview, Industry Growth, and Forecast 2022 To 2027"
-    excerpt: "The global ChatBot market size was valued at USD 18633.15 million in 2021 and is expected to expand at a CAGR of"
-    publishedDateTime: 2022-09-28T04:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/chatbot-market-trends-business-overview-industry-growth-and-forecast-2022-to-2027-2022-09-28"
+  - title: "Self-driving Shuttle Market 2022, Risk Analysis & Macroeconomic Trends Market Research Report"
+    excerpt: "The \" Self-driving Shuttle Market \" is undoubtedly one of the fastest growing sectors. For Self-driving Shuttle Market players, it is quite crucial to first conduct a thorough Self-driving Shuttle Market analysis."
+    publishedDateTime: 2022-09-29T14:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-shuttle-market-2022-risk-analysis-macroeconomic-trends-market-research-report-2022-09-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Transportation Market 2022 : Share and Outlook of Regulatory Scenario by 2027 with Top Countries Data"
-    excerpt: "The global Artificial Intelligence in Transportation market size was valued at USD 1855724.44 million in 2021 and"
-    publishedDateTime: 2022-09-29T04:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-2022-share-and-outlook-of-regulatory-scenario-by-2027-with-top-countries-data-2022-09-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Systems Market 2022: international Key Players, Trends, Share, business Size, Segmentation, Opportunities, Forecast To 2029"
-    excerpt: "In 2022, Face Recognition Systems Market size, segment (mainly covering product Type (, 2D Face Recognition, 3D"
-    publishedDateTime: 2022-09-27T05:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-2022-international-key-players-trends-share-business-size-segmentation-opportunities-forecast-to-2029-2022-09-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

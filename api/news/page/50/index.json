@@ -2,6 +2,101 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2022-08-19-self-driving-cars-get-green-light-to-hit-roads-next-year-with-100million-pledge-to-speed-up-rollout.md",
+      "title": "Self-driving cars get green light to hit roads next year with £100million pledge to speed up rollout",
+      "excerpt": "Self-driving vehicles could be on British roads as early as next year, the Government has said. Ministers want to pass legislation so that some cars, coaches and lorries with self-driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-11125513/Self-driving-cars-green-light-hit-roads-year-100million-pledge-speed-rollout.html",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-11125513/Self-driving-cars-green-light-hit-roads-year-100million-pledge-speed-rollout.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/08/18/23/61524377-0-image-a-13_1660863054852.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-11125513/amp/Self-driving-cars-green-light-hit-roads-year-100million-pledge-speed-rollout.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11125513/amp/Self-driving-cars-green-light-hit-roads-year-100million-pledge-speed-rollout.html",
+      "publishedDateTime": "2022-08-18T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-artificial-intelligence-ai-chips-market-2022-market-growth-at-a-cagr-of-3828-to-outstrip-usd-6723166-million-till-2027.md",
+      "title": "Artificial Intelligence (AI) Chips Market 2022: Market Growth at a CAGR of 38.28% to Outstrip USD 67231.66 Million till 2027",
+      "excerpt": "Aug 19, 2022 (The Expresswire) -- Artificial Intelligence (AI) Chips Market Insight: Report on \"Artificial Intelligence (AI) Chips Market\" 2022-2027 Report helps to Development Strategy for Pre ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2022-market-growth-at-a-cagr-of-3828-to-outstrip-usd-6723166-million-till-2027-2022-08-19-131971136",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2022-market-growth-at-a-cagr-of-3828-to-outstrip-usd-6723166-million-till-2027-2022-08-19-131971136",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-19-ibm-ceo-fears-about-artificial-intelligence-are-not-positioned-properly.md",
       "title": "IBM CEO: Fears About Artificial Intelligence 'Are Not Positioned Properly'",
       "excerpt": "IBM's cognitive computer Watson has struck ... Rather than completely replacing most jobs, artificial intelligence will help complement jobs done by humans, she claimed. \"Most important, you ...",
@@ -1045,92 +1140,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-dealing-with-cognitive-load-using-observability.md",
-      "title": "Dealing with Cognitive Load Using Observability",
-      "excerpt": "We can make good decisions with speed when we limit the cognitive load on any one person or team. Observability can help to increase delivery speed, by providing information to developers that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/08/cognitive-load-observability/",
-      "originalUrl": "https://www.infoq.com/news/2022/08/cognitive-load-observability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-helping-people-understand-ai.md",
-      "title": "Helping people understand AI",
-      "excerpt": "If you’re like me, you may have noticed that AI has become a part of daily life. I wake up each morning and ask my smart assistant about the weather. I recently applied for a new credit card and the credit limit was likely determined by a machine learning model. And while typing the previous sentence,",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/helping-people-understand-ai/",
-      "originalUrl": "https://blog.google/technology/ai/helping-people-understand-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01_VWU2fWb.max-1300x1300.png",
-          "width": 1300,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/helping-people-understand-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/helping-people-understand-ai/amp/",
-      "publishedDateTime": "2022-08-18T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

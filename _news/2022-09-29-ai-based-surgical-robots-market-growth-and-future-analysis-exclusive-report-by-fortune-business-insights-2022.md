@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots
 webUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-growth-and-future-analysis-exclusive-report-by-fortune-business-insights-2022-2022-09-29"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Construction Market : Competitive Landscape and Analysis by Recent Trends 2022 to 2027"
-    excerpt: "The global Artificial Intelligence in Construction market size was valued at USD 519.63 million in 2021 and is expected"
-    publishedDateTime: 2022-09-28T04:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-competitive-landscape-and-analysis-by-recent-trends-2022-to-2027-2022-09-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Turnstile Market 2022 : Growth Analysis, Key Stakeholders, Regional Outlook, End-User Applicants by 2028"
     excerpt: "Face Recognition Turnstile Market Research Report is spread across 103 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
     publishedDateTime: 2022-09-27T08:46:00Z

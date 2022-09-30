@@ -28,43 +28,57 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Infrastructure As A Service Market Size, Share and Forecast till 2031"
-    excerpt: "The Machine Learning Infrastructure as a Service Market has encountered significant development over the recent years"
-    publishedDateTime: 2022-09-26T13:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-infrastructure-as-a-service-market-size-share-and-forecast-till-2031-2022-09-26"
+  - title: "AI robots Market 2022 Emerging Trends, Comprehensive Study With Top Companies and Key Players till 2030"
+    excerpt: "Global AI robots market to reach USD 48.91 billion by 2027. Global AI robots market is valued approximately USD 6.9 billion in 2021 and is anticipated to grow with a healthy growth rate of more than 38."
+    publishedDateTime: 2022-09-27T07:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-robots-market-2022-emerging-trends-comprehensive-study-with-top-companies-and-key-players-till-2030-2022-09-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 68
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Products Market 2022 Geographical Segmentation, Industry Insights, Share, Latest Trends, Size, CAGR and Forecast till 2028"
-    excerpt: "Global “Computer Vision Products Market” research report provides a comprehensive overview, industry shares, and"
-    publishedDateTime: 2022-09-26T06:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-products-market-2022-geographical-segmentation-industry-insights-share-latest-trends-size-cagr-and-forecast-till-2028-2022-09-26"
+  - title: "ChatBot Market Trends, Business Overview, Industry Growth, and Forecast 2022 To 2027"
+    excerpt: "The global ChatBot market size was valued at USD 18633.15 million in 2021 and is expected to expand at a CAGR of"
+    publishedDateTime: 2022-09-28T04:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/chatbot-market-trends-business-overview-industry-growth-and-forecast-2022-to-2027-2022-09-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 35
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Camping Self-inflating Mattress Market Size and Share 2022 Industry Analysis by Emerging Technologies, Growth, Drivers and Forecast to 2028"
-    excerpt: "Sep 28, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Camping Self-inflating"
-    publishedDateTime: 2022-09-28T10:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/camping-self-inflating-mattress-market-size-and-share-2022-industry-analysis-by-emerging-technologies-growth-drivers-and-forecast-to-2028-2022-09-28"
+  - title: "Artificial Intelligence in Construction Market : Competitive Landscape and Analysis by Recent Trends 2022 to 2027"
+    excerpt: "The global Artificial Intelligence in Construction market size was valued at USD 519.63 million in 2021 and is expected"
+    publishedDateTime: 2022-09-28T04:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-competitive-landscape-and-analysis-by-recent-trends-2022-to-2027-2022-09-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 20
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Transportation Market 2022 : Share and Outlook of Regulatory Scenario by 2027 with Top Countries Data"
+    excerpt: "The global Artificial Intelligence in Transportation market size was valued at USD 1855724.44 million in 2021 and"
+    publishedDateTime: 2022-09-29T04:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-2022-share-and-outlook-of-regulatory-scenario-by-2027-with-top-countries-data-2022-09-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

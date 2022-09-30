@@ -99,6 +99,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep-Learning Computing Unit (DCU) Market Size, Sales, CAGR And Competition Data from 2022 To 2028"
+    excerpt: "Number of Tables and Figures :130 | The global \"Deep-Learning Computing Unit (DCU) Market\"size is projected to"
+    publishedDateTime: 2022-09-30T03:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-computing-unit-dcu-market-size-sales-cagr-and-competition-data-from-2022-to-2028-2022-09-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Accounting Market : Industry Analysis 2022 To 2029 based on Sales, Revenue, Size and Share | 104 Report Pages"
+    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence in Accounting Market is projected to"
+    publishedDateTime: 2022-09-30T00:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-industry-analysis-2022-to-2029-based-on-sales-revenue-size-and-share-104-report-pages-2022-09-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing Market Assessment (2022-2028) | 29.4% CAGR to Garner USD 127.26 Billion by 2028"
     excerpt: "Global “Natural Language Processing Market Size” report explores comprehensive and insightful Information about various"
     publishedDateTime: 2022-09-26T12:21:00Z
@@ -136,6 +164,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Video Games Market Segmentation, Future Trends, Growth Overview, Key Companies and Forecast by 2029 | 101 Report Pages"
+    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence in Video Games Market is projected to"
+    publishedDateTime: 2022-09-30T01:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-video-games-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2029-101-report-pages-2022-09-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

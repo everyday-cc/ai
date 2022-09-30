@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/chatbot-market-trends-bu
 webUrl: "https://www.marketwatch.com/press-release/chatbot-market-trends-business-overview-industry-growth-and-forecast-2022-to-2027-2022-09-28"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,48 @@ images:
     isCached: true
 
 related:
+  - title: "AI robots Market 2022 Emerging Trends, Comprehensive Study With Top Companies and Key Players till 2030"
+    excerpt: "Global AI robots market to reach USD 48.91 billion by 2027. Global AI robots market is valued approximately USD 6.9 billion in 2021 and is anticipated to grow with a healthy growth rate of more than 38."
+    publishedDateTime: 2022-09-27T07:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-robots-market-2022-emerging-trends-comprehensive-study-with-top-companies-and-key-players-till-2030-2022-09-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Aviation Market Size, Share and Forecast till 2027 with Top Countries Data"
+    excerpt: "The global Artificial Intelligence in Aviation market size was valued at USD 389.12 million in 2021 and is expected"
+    publishedDateTime: 2022-09-28T04:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-size-share-and-forecast-till-2027-with-top-countries-data-2022-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Construction Market : Competitive Landscape and Analysis by Recent Trends 2022 to 2027"
+    excerpt: "The global Artificial Intelligence in Construction market size was valued at USD 519.63 million in 2021 and is expected"
+    publishedDateTime: 2022-09-28T04:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-competitive-landscape-and-analysis-by-recent-trends-2022-to-2027-2022-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Transportation Market 2022 : Share and Outlook of Regulatory Scenario by 2027 with Top Countries Data"
     excerpt: "The global Artificial Intelligence in Transportation market size was valued at USD 1855724.44 million in 2021 and"
     publishedDateTime: 2022-09-29T04:27:00Z
@@ -43,29 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Systems Market 2022: international Key Players, Trends, Share, business Size, Segmentation, Opportunities, Forecast To 2029"
-    excerpt: "In 2022, Face Recognition Systems Market size, segment (mainly covering product Type (, 2D Face Recognition, 3D"
-    publishedDateTime: 2022-09-27T05:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-2022-international-key-players-trends-share-business-size-segmentation-opportunities-forecast-to-2029-2022-09-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Image Recognition Market Latest Research, Industry Analysis, Driver, Trends, Business Overview, Key Value, Demand and Forecast 2022-2027"
-    excerpt: "The global Image Recognition market size was valued at USD 27189.63 million in 2021 and is expected to expand at a CAGR"
-    publishedDateTime: 2022-09-28T04:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-latest-research-industry-analysis-driver-trends-business-overview-key-value-demand-and-forecast-2022-2027-2022-09-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 1
 
 secured: "nfzDF90xO5FXvG7EHeaT1/NoCLJXQ0F9AoF5ZdyS+cUEy8gC6yH+gF7fNXOs3waEDl2tffQ04MLA3avJQ7buo2mJvdoY8eD750RqI2sxg4a0IPMWR325aQMhBCUkmRAkNAmkECE5lpXMWBY12rtVrFniWhZXZF+dEljcdv2mj8NRti4z8ykgUuUa9yXvRGmgktAYHycnRhGBAPOrkpKzR+x2hlHK3hn4sPYQE79Z8/RSqWwGMIbGJ+PfO2VQYwplR7C94gk/JZav8A4cZZaZ1N0pCLo1I8C79v20OMLyp7P1Q/LjC5mKTcfeU+B4lfQT23nz9oUs96mknsRj0lxHFYkZrJ5aqotDL75za9gdabY=;aVaXkkIHVY1z+lNryJHwlQ=="
 ---
