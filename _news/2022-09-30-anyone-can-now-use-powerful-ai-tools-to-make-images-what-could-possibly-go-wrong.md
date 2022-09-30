@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-30T16:25:00Z
 originalUrl: "https://localnews8.com/life/technology/2022/09/30/anyone-can-now-use-powerful-ai-tools-to-make-images-what-could-possibly-go-wrong/"
 webUrl: "https://localnews8.com/life/technology/2022/09/30/anyone-can-now-use-powerful-ai-tools-to-make-images-what-could-possibly-go-wrong/"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://localnews8.b-cdn.net/2022/09/hypatia-h_f1d7406a44b77e44a11fe180b724d655-h_526e72dcb41c83dd4880165dd446fa8a-300.jpg"

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/09/29/house-democrats-facial-recognition
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 690
         height: 428
         isCached: true
+  - title: "Restrictions on police use of facial recognition proposed in US Congress"
+    excerpt: "The legislation would also prohibit use of face biometrics in the enforcement of immigration laws, on body cameras, during protests, and on live video feeds."
+    publishedDateTime: 2022-09-30T19:23:00Z
+    webUrl: "https://www.biometricupdate.com/202209/restrictions-on-police-use-of-facial-recognition-proposed-in-us-congress"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 18
 
 secured: "2PSXghmir2gtUqXbTBUGd95HNXbdB4UUcvgOpZbzNWs5BGOMT8LSxNjx0LZAgKqu/s5oh2aHAsv/U+EOMcepa6dzFlHoCAQsqRTxNttdr7sok5kvaFC962GEKbEHFjCmnm68OaFzk4BxDvJqy8PHhm/0CeAf8X5mUy8WExO3aNcuvFhOfm1v4zdW7g7Mm+vKFxFXjNCLttBzoNN2dzKOBW0gLhsaiYjr+pJCqIdz3MElTkCiBwuHcX46xE1qUaTZYtaSkvqXNqDrPJOtwd1SWN4qmN32n1aBdn5va+pHdtq9tAeN3XCLil3Cj2O+BfgNnWvnqh0uvDHuDkR6A8jA/Sl+Rs4w3mGxwxUbuDgx9ys=;pvuYx4c/n+MvCySFVe1bpg=="
 ---

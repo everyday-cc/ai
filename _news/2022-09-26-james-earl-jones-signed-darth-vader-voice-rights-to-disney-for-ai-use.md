@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2022/09/james-earl-
 webUrl: "https://arstechnica.com/information-technology/2022/09/james-earl-jones-signed-darth-vader-voice-rights-to-disney-for-ai-use/"
 type: article
 quality: 69
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -144,20 +144,6 @@ related:
       - url: "https://www.nme.com/wp-content/uploads/2022/09/James-Earl-Jones-Darth-Vader.jpg"
         width: 2000
         height: 1270
-        isCached: true
-  - title: "James Earl Jones Reportedly Signed Over Rights of Darth Vader's Voice to AI Company"
-    excerpt: "James Earl Jones has reportedly stepped back from voicing Darth Vader after over 40 years. According to a story from Vanity Fair, which focuses on the Ukrainian start-up company Respeecher, the 91-year-old “signed off” on utilizing Respeecher’s AI technology to recreate his voice as Darth Vader."
-    publishedDateTime: 2022-09-26T03:32:00Z
-    webUrl: "https://hypebeast.com/2022/9/james-earl-jones-reportedly-signs-over-rights-darth-vader-voice-ai"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 31
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F09%2Fjames-earl-jones-reportedly-signs-over-rights-darth-vader-voice-ai-tw.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
         isCached: true
   - title: "The droids you’re looking for: how Ukrainian AI recreated Darth Vader’s voice"
     excerpt: "A Kyiv startup helped ‘clone’ the voice of legendary actor James Earl Jones, 91, for the recent Obi-Wan Kenobi series"

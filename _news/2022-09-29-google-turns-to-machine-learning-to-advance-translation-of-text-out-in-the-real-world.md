@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/09/28/google-turns-to-machine-learning-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/28/google-turns-to-machine-learning-to-advance-translation-of-text-out-in-the-real-world/amp/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

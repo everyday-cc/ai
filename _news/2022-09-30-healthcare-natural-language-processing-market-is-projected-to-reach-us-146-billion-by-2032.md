@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-30T14:26:00Z
 originalUrl: "https://www.fmiblog.com/2022/09/30/healthcare-natural-language-processing-market-is-projected-to-reach-us-14-6-billion-by-2032-2/"
 webUrl: "https://www.fmiblog.com/2022/09/30/healthcare-natural-language-processing-market-is-projected-to-reach-us-14-6-billion-by-2032-2/"
 type: article
+quality: 25
+heat: 25
+published: false
 
 provider:
   name: Future Market Insights

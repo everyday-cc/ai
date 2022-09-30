@@ -1,22 +1,27 @@
 ---
 category: news
 title: "Wallaroo Labs Launches in Azure Marketplace; Announces Air Gap Support for Edge Machine Learning Deployment"
-excerpt: "Wallaroo Labs today announced the availability of Wallaroo Enterprise Edition on Microsoft Azure Marketplace. Wallaroo's model operations platform for deploying, observing, and managing machine learning in production enables customers to easily operationalize ML Models with our purpose-built inference engine,"
-publishedDateTime: 2022-09-21T13:22:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-wallaroo-labs-launches-azure-marketplace-announces-air-gap-/2022/09/21/9677902.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-wallaroo-labs-launches-azure-marketplace-announces-air-gap-/2022/09/21/9677902.htm"
+excerpt: "“We look forward to continuing to work with Azure to help data teams in industries ... it easy for enterprises to deploy and manage machine learning models at the edge in environments with ..."
+publishedDateTime: 2022-09-21T12:09:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/wallaroo-labs-launches-in-azure-marketplace-announces-air-gap-support-for-edge-machine-learning-deployment/article_cb133d7e-bafc-500f-bfce-bf1b94fc6b45.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/wallaroo-labs-launches-in-azure-marketplace-announces-air-gap-support-for-edge-machine-learning-deployment/article_cb133d7e-bafc-500f-bfce-bf1b94fc6b45.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
-  - AI in Finance
+  - Microsoft AI
   - AI
   - Machine Learning
-  - Microsoft AI
 
-secured: "YgECoxNIpNOBagq2oIo2gUI3nKAR0IcSPfyU6YJ04z923C03sWXpqeiNQHQWtKTatGOAPTi3A+iI6lJXEuVJzDiEFy6VTDtFCSs4UifUBqIt6zQ6xRfzgw1OsOoQCDtloUtAOddbkfNdJhJXoWyXPd3fYdK90IDBI6+TAqMllfsIMPkDmPxY44KgHYIQnfX9Y8vyw4mMGTgz9evd9uQQ+8mOGUMUmURpbBhbc/l+uX/JINYAEu1bOzUed34IRP2NNJN8FiYtwSN3Q/2ZElvrk9khgZiUysEQ6FjYdDKcRLno/2R2tDX9VHyI9kAJpIXJ4hpWLoGaxxmOAjxuCzelWX/wpKNJ8ac8GXi51YRG8l4=;WVAeHL/No/055+Y6S6V+2w=="
+images:
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg"
+    width: 350
+    height: 456
+    isCached: true
+
+secured: "gQYIn7iJF9A2czPKnAGfw+uQn+irAf3xHWxDshnUZEm/7nSd7I0Q4cqhlZbiAfh3l6ERvlAZN5FZV/XYBK2eIG0j6ylpyzbT0ic+mD6k0lxT89oeHBph5CJEEQDc2iZCyHQuuua3yI/nbonaK6dtfmq2ZzKfwFRfU1KMYFeO3aSJnpa8YKKmi3pYLCdg18nX55hSTLnXpcuGaA6ArhZoCrdvYamttnbcpQpSwQHUjBOa+riXwOY0fBz4lF7Bl7W/4sNQs7tCM/nwJVcI6qA6qERnyRZaGOZl1a2MQHzOMu0Jl9AOeIWNutJUh1oRCAoUoWS8FyOsYmQHqRn4Wo0RTVbV6UhUDQ/Q1Q+5CwJpqdo=;1zO7TwuOHf5mfdiyp1M60g=="
 ---
 

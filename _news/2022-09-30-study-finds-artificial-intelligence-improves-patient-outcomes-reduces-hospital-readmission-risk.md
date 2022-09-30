@@ -41,6 +41,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Study: Artificial intelligence improves patient outcomes, reduces hospital readmission risk"
+    excerpt: "Researchers have used artificial intelligence to predict hospitalisation outcomes of geriatric patients with dementia on the first or second day of admission. Early outcome assessment means more timely interventions,"
+    publishedDateTime: 2022-09-30T18:26:00Z
+    webUrl: "https://timesofindia.indiatimes.com/videos/news/study-artificial-intelligence-improves-patient-outcomes-reduces-hospital-readmission-risk/videoshow/94571637.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 9
 
 secured: "YR+8oSNk+4qT0YO1lagQiwwSz1rPND399+9jI1cNVJ4QQnQi89AFn1TGNjY3HfPXeM6jGP+J6GiSl8BZ32LCnod1GM908iRTrCNbCIWwZHZCYw19Ej7t4j8c5Qm9jJHT097sBcXV+7PEEvOVul/3JiQxSmxRujbDyjRkXZvFs9S1E/RQxbuJdz9py442bMiDWz2eLACN12OlDsMiusRqpKZErArXRmjneTyNedfEJw9ibmfwnVRjIkcyiSX5K/2WR8wXdnnB7oVitdqZg5G6xl0v2WWBtJhmX2rEZrJ4bqxYs4Jj6Q1EcZqbF+u4RnjV56xALoGRXlbNrtMj7MfZuM0uUG24A6DfQra6q1gmVx1U913qiflDjVavCt4Ppakv0RxIMuteaWxrGD8cgEQwI+G0/6MsiMp7uI1dfkcHUNB9rGtAyYORGt9V6CVMT/ojOoGRMABBr/p+sor4GGmtM0Gh3Vrlfn7wm0pMwUJm5L0dmwr1AtLYymrflRmFw5DgkEVu6K4ANx/0uPpMHrt2Gg==;oqu2DmehBmYj7LA6cc+nWw=="
 ---

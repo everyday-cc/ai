@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta is using AI to generate videos from just a few words"
-    excerpt: "Artificial intelligence is getting better and better at generating an image in response to a handful of words, with publicly available AI image generators such as DALL-E 2 and Stable Diffusion. Now, Meta researchers are taking AI a step further: they're using it to concoct videos from a text prompt."
-    publishedDateTime: 2022-09-29T22:04:00Z
-    webUrl: "https://edition.cnn.com/2022/09/29/tech/meta-ai-text-to-video-research/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/09/29/tech/meta-ai-text-to-video-research/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/29/tech/meta-ai-text-to-video-research/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 87
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220929145441-meta-ai-text-to-video-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Write text, get video: Meta announces AI video generator"
     excerpt: "Video's announcement page, Meta shows example videos generated from text, including \"a young couple walking in heavy rain\" and \"\" It also showcases Make-A-Video's ability to take a static source image and animate it."
     publishedDateTime: 2022-09-29T15:39:00Z
@@ -121,6 +105,15 @@ related:
         width: 718
         height: 399
         isCached: true
+  - title: "Meta is using AI to generate videos from just a few words"
+    excerpt: "Artificial intelligence is getting better and better at generating an image in response to a handful of words, with publicly available AI image generators such as DALL-E 2 and Stable Diffusion. Now, Meta researchers are taking AI a step further: they’re using it to concoct videos from a text prompt."
+    publishedDateTime: 2022-09-29T22:04:00Z
+    webUrl: "https://keyt.com/news/2022/09/29/meta-is-using-ai-to-generate-videos-from-just-a-few-words/"
+    type: article
+    provider:
+      name: KEYT
+      domain: keyt.com
+    quality: 19
 
 secured: "PpnKSWO5y0fVkwdYe5ektgNXUF0uhuXl24/rePR7ZEf2NSTdv17mdqHWt3wzzgYRSvQvWwnSyPIEpRnJA2YmAYLY70l0TVJ53tDyWBMSpiL9PyWIeL9Hv31xGo0L+Hbgst+hLLgXrBw/wu8tyZE/tyFCURNdJTW/BPnqfajhCvUN89RwzttMeWyCUDEDnpOIHQTvMVaaGqE1ChtAb4a7XEIMUQCtYuw7WA9AS7DdFVzIzLI5g9wJPVhGMvaLQYZinyOMYnBkf16xUQkijiCcHNmpYhW1EtPkfdeHYEHwCPaUBsbyw//NaEW2MGp+jnwoTq4fwKJKy66c88Vd2NsYXQzfUjHavCRRXoroqUhGOsgJKu7dts8dISYPX25gLlgJFUHYHOCaj5XxoTMSaStIKbDNXfHH+sl9VAt4qAqapCyXi3uHzD2bnLVvCFIczafxZBJhsHVv38huICZJgU7IjOU+yXDsI8y+k1gN+cBHWtKG42agcjXzd1pC+aA8c8GCntwlXhD8lUiKtLtzuq2PkQ==;1kx6RdlEm08DHBdkmyCgDA=="
 ---

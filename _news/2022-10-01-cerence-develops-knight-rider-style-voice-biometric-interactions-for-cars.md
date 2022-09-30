@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-30T18:48:00Z
 originalUrl: "https://www.biometricupdate.com/202209/cerence-develops-knight-rider-style-voice-biometric-interactions-for-cars"
 webUrl: "https://www.biometricupdate.com/202209/cerence-develops-knight-rider-style-voice-biometric-interactions-for-cars"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Biometric Companies

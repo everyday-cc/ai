@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-30T18:48:00Z
 originalUrl: "https://www.accountingtoday.com/news/deloitte-launches-artificial-intelligence-initiative"
 webUrl: "https://www.accountingtoday.com/news/deloitte-launches-artificial-intelligence-initiative"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Accounting Today

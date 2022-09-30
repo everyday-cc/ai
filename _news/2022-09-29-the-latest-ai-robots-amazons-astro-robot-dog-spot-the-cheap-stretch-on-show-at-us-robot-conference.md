@@ -62,6 +62,22 @@ related:
         width: 1620
         height: 1080
         isCached: true
+  - title: "Amazon upgrades $1,000 Astro robot"
+    excerpt: "Astro, which was by Amazon introduced last year, uses a periscope camera with an expandable field of view to patrol your home and notify you when it detects something unusual."
+    publishedDateTime: 2022-09-30T21:00:00Z
+    webUrl: "https://www.foxbusiness.com/technology/amazons-upgrades-1000-astro-robot"
+    ampWebUrl: "https://www.foxbusiness.com/technology/amazons-upgrades-1000-astro-robot.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/amazons-upgrades-1000-astro-robot.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/89b99030-03ba-41b8-ae3b-171cecf8aade/8ff0bec9-d0ec-4778-aa46-b08d9e858566/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The AIs are here: Robodogs, Amazon's Astro and more. Attachment issues!"
     excerpt: "Astro is the trillion-dollar company's latest foray into artificial intelligence devices, combining Alexa, the Ring monitoring camera and even a cup holder that comes with the device. A review of the Astro in The Wall Street Journal was lukewarm,"
     publishedDateTime: 2022-09-27T00:00:00Z

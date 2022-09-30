@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-30T19:10:00Z
 originalUrl: "https://gizmodo.com/amazon-astro-robot-ring-virtual-security-guard-cops-1849591805"
 webUrl: "https://gizmodo.com/amazon-astro-robot-ring-virtual-security-guard-cops-1849591805"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: Gizmodo

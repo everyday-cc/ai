@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Machine Learning in Banking Market to Garner $21.27 Billion, Globally, By 2031 at 32.2% CAGR: Allied Market Research"
-excerpt: "Allied Market Research recently published a report, titled, \"Machine Learning in Banking Market By Component (Solution and Service),"
+excerpt: "Improved productivity of banks and faster banking operations using machine learning have boosted the growth of the global machine learning in banking market. PORTLAND, Ore., Sept. /PRNewswire/ -- Alli"
 publishedDateTime: 2022-09-26T15:30:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/machine-learning-in-banking-market-to-garner-21-27-billion-globally-by-2031-at-32-2-cagr-allied-market-research-301633219.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/machine-learning-in-banking-market-to-garner-21-27-billion-globally-by-2031-at-32-2-cagr-allied-market-research-301633219.html"
+originalUrl: "https://www.benzinga.com/pressreleases/22/09/n29013065/machine-learning-in-banking-market-to-garner-21-27-billion-globally-by-2031-at-32-2-cagr-allied-ma"
+webUrl: "https://www.benzinga.com/pressreleases/22/09/n29013065/machine-learning-in-banking-market-to-garner-21-27-billion-globally-by-2031-at-32-2-cagr-allied-ma"
+ampWebUrl: "https://www.benzinga.com/amp/content/29013065"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29013065"
 type: article
-quality: 33
-heat: 33
+quality: 53
+heat: 63
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
@@ -20,9 +22,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
-    width: 2000
-    height: 1046
+  - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -36,6 +38,6 @@ related:
       domain: marketwatch.com
     quality: 18
 
-secured: "rv/hd7fL9+LnblceeLvZ21SCpRccfBPp4oluzGrOWpUP+CFuH8+DKjT5hTprZTADpav5m48NmpHR84pgoSEPNX2GO/JGcY1fONkPv6zdXYie5njdT4963/kfyKDoH65g6htRaeKC1h56UbsNsrd4SXrzdccKJ/sQ5miNKTSihAfbHuZY1TrHy6v64E7+3SaF9ME0PgXBrwSmR7Ia5H2KTMl45lD7QbH18WIlQCVyrWYKvLdfsL39CXdfOYkqrTU75yRVf22Z72Lq1ppltDwDtuzejtPr7VZg2ZB/SwLJO5DiL0u+EQZ+nov+NY3GHinzpPegx7PEqE5HZRdcFESjASJMz0pytSh0Ra7SiUlv1tEzjY09UFRdS4pvzHSf2q4v6P/ayf+IMqn6Sri/3WGCWuXwFUSmF8hZFKGvsHulxwnXaIHlbiWFC7VgpWSNbnf4Y4VFCN0tjh22DV1768xyrECGNNXu4Pkgc7luV//xVq04aaSStjvp0+Rob+nAXqUNN5qnCkMtDFXIF2BBk283vg==;nFZjDjYBPWuZWln40UjR5Q=="
+secured: "3vVXrnQ0NmvI/kFGy5Y1T9ilIunMBVbRRWcFPrw0S1nl1PsjAd0HtpHiSYEPqKsgWYSbmSzIF2+pDXCOr2i+7hk3unK8X8vcKTOTC8hG4A6NhMT2D0zbiYG9yMQ8j7jM10MoiqFVqcUUTLaX6XNmGvyvPUAzrYHu28BvkrpIbbeAnmCmO7Asri9njFKanctjAac5/dZUACt/9lS65ZXTFoqF2AnCN+ODzYvZTJiVZcS1LpYdQ3rla9Tfzg8AK15JWnud39bRQyuWADM5bhw9DpFykqqKFNBXO+31Gjt3QlXVwRsq0u/xUbFd90WFcaIMVgGVHINIvxPvzvFRCKlCPIAS4bIHgAlvm+Zu6uzZeZc=;D5WUkTADtHMs+m7qFOk1wQ=="
 ---
 

@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Canadian police reveal face biometrics tools used for missing persons investigations"
+    excerpt: "The RCMP has been using facial recognition tools from Traffic Jam and Spotlight to investigate human trafficking and child sexual exploitation."
+    publishedDateTime: 2022-09-30T20:17:00Z
+    webUrl: "https://www.biometricupdate.com/202209/canadian-police-reveal-face-biometrics-tools-used-for-missing-persons-investigations"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 17
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
+        width: 2048
+        height: 1812
+        isCached: true
   - title: "CyberLink integrates face biometrics in CAC payment system"
     excerpt: "An unmanned convenience store in CAC's headquarters is utilizing Cyberlink face recognition in its point of sale terminal."
     publishedDateTime: 2022-09-29T19:14:00Z

@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon upgrades $1,000 Astro robot"
+    excerpt: "Astro, which was by Amazon introduced last year, uses a periscope camera with an expandable field of view to patrol your home and notify you when it detects something unusual."
+    publishedDateTime: 2022-09-30T21:00:00Z
+    webUrl: "https://www.foxbusiness.com/technology/amazons-upgrades-1000-astro-robot"
+    ampWebUrl: "https://www.foxbusiness.com/technology/amazons-upgrades-1000-astro-robot.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/amazons-upgrades-1000-astro-robot.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/89b99030-03ba-41b8-ae3b-171cecf8aade/8ff0bec9-d0ec-4778-aa46-b08d9e858566/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "CPZ190aSaqdIidb4jY4Gkh8hvU5NGjrI3Zpk4c15mJIxw4Lm6QlEOIAQuIODPer01EZU2SwBa3HC2HnJ6WzdtASSmN9FYiphUicaCKgtLjdm1jAkPp+IxJudxAe2LARTDY3qE/gWdU70x/mV1fXVzbUDjHM8Md+QMZ27Dfk+tcP+N20vegRP+l+iDWCsSeey/KxTLK3mC/NJ+M31LvGTj4gDl0ONxe1c52ZUhxZfu9IvUKX7EhJiVAYaAcchmZs7n1bpL+aHsuCVjWszbULKjqfxjsDJ7hmo6YXA9CrM9s1ER0ZoRNQGDtS9AuEJ/666IsdA2buPMmCRgR/oDBJHjQ+i4J4HQA6Q0XKwAvtL2b85h2Blf6NaiFqbS0XLFz2l9dRUCkN1jtj9+uN8uMqD1fDMtBUKA+tj02IcTphUVgCnMMqTvCujM4okeQvSlzAU4ZETJo3O41Kx/cyuSqGhNYALIXoB/fJkrLv7pfrxz1G5WIoZLLevbwQLOmIiTJsWwusn3JrCJjS9jZrbPKmgQw==;CRZrahZ9CBJ+kQsrnS0Rkw=="
 ---

@@ -19,29 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "Computer Vision Market Size to be Worth $20.88 Billion by 2030: Grand View Research, Inc."
-    excerpt: "The global computer vision market size is expected to reach USD 20.88 billion by 2030, according to a new report by Grand View Research, Inc. The market is anticipated to expand at a CAGR of 7.0% from 2022 to 2030."
-    publishedDateTime: 2022-09-28T20:24:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/28/9681994.htm"
+  - title: "Global Agricultural Robots Market to Reach $35.93 Billion by 2030"
+    excerpt: "The \"Agricultural Robots Market by Type, By Applications, By Component, By Farming Type, and By End Use: Global Opportunity Analysis and Industry Forecast, 2022 - 2030\""
+    publishedDateTime: 2022-09-30T19:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/n29104439/global-agricultural-robots-market-to-reach-35-93-billion-by-2030"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29104439"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29104439"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 32
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
     images:
-      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-        width: 476
-        height: 210
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/28171512/image-55-1024x683.png"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Computer Vision Market Size to be Worth $20.88 Billion by 2030: Grand View Research, Inc."
-    excerpt: "The global computer vision market size is expected to reach USD 20.88 billion by 2030, according to a new report by Grand View Research,"
-    publishedDateTime: 2022-09-28T12:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/computer-vision-market-size-to-be-worth-20-88-billion-by-2030-grand-view-research-inc-301635068.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 10
 
 secured: "gdTKzXIHh6Jx9LD62bNeOvaOpMjs0fES2/fbOYPqn7Pu3po9tnt/+8iCVaOdnezITElAZSKxFrUY6w/zhILMnQLWOs/tfNzj/klxorYrQExTGC787OE4kWPKTW0/G+FxH0zPjVxEn/nul8z+vQamkjSBRM/Gwlshzjw3jr1y3ut2AURusIa6wV+AnioNdLPo+akw0F8DZA0c2ohaXmztRsIC0t9shq0qLwJnbZ3LXoFqlNp/57Av+azPZXB0WXnq6d7hFNPpaGmg1C7/vw8YTxnDAk4ACC+7lkn9rhskgG2UY5itGxLEkj10qw/Qa11qJFnsEORwOvuuntA7Na+zDcQHeIhYT2Sk+CXc5q7vO5I=;gMq+tRpIq7HQh1SIM1++GA=="
 ---

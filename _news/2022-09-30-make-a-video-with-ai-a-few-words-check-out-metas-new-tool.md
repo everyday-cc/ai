@@ -43,22 +43,6 @@ related:
         width: 767
         height: 610
         isCached: true
-  - title: "Meta is using AI to generate videos from just a few words"
-    excerpt: "Artificial intelligence is getting better and better at generating an image in response to a handful of words, with publicly available AI image generators such as DALL-E 2 and Stable Diffusion. Now, Meta researchers are taking AI a step further: they're using it to concoct videos from a text prompt."
-    publishedDateTime: 2022-09-29T22:04:00Z
-    webUrl: "https://edition.cnn.com/2022/09/29/tech/meta-ai-text-to-video-research/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/09/29/tech/meta-ai-text-to-video-research/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/29/tech/meta-ai-text-to-video-research/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 87
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220929145441-meta-ai-text-to-video-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Write text, get video: Meta announces AI video generator"
     excerpt: "Video's announcement page, Meta shows example videos generated from text, including \"a young couple walking in heavy rain\" and \"\" It also showcases Make-A-Video's ability to take a static source image and animate it."
     publishedDateTime: 2022-09-29T15:39:00Z
@@ -117,6 +101,15 @@ related:
         width: 718
         height: 399
         isCached: true
+  - title: "Meta is using AI to generate videos from just a few words"
+    excerpt: "Artificial intelligence is getting better and better at generating an image in response to a handful of words, with publicly available AI image generators such as DALL-E 2 and Stable Diffusion. Now, Meta researchers are taking AI a step further: they’re using it to concoct videos from a text prompt."
+    publishedDateTime: 2022-09-29T22:04:00Z
+    webUrl: "https://keyt.com/news/2022/09/29/meta-is-using-ai-to-generate-videos-from-just-a-few-words/"
+    type: article
+    provider:
+      name: KEYT
+      domain: keyt.com
+    quality: 19
 
 secured: "taecNMdLysRCjnBAMuOmXZtLQSp19CnolAC4hCbqns5+AlDmaN72FsrcMeMMc3RamctVLYF8v/W2/ob0cgHUaob5hlIuDg18e0DN/C85tF08goaiUuhfje+A7MmUdz6c8xN3Pk/K+JHXts5oUs2RRSz6HVrvEjf5AaOBNYtxbKNJ0K/VzfmAD6aVP9rW9p9X4wka/FvA783qyCYA8Tr0XkzSYKE9CsQrkkIEcRfG5WLR5NlhktaAEp2zHQ/5Or9qNlyDGP+/hogD05hFpVeVNNCohD97VdiV33WRykX/nuYqCTTGE0JzELcOf4T79WKV+EWtivwh4RuOU/fQDFNfjjWUIqW4KgDUSKOqvgr9obSCPjqReSYkWpF6cL01WmrsXQ9xZ79VIBkhTA94XwvgY+KkUAy1GlEh5s6oSzKhIUUZEafrohFcG5f4E4kZqGDRZEx4+4sbRpa/fg9c09LirLdwknwce6nB/LGoUnmUbKG9+dd/spgu04lUOEMFmfWtAZluzzFPifxoZ0aKJdbJmQ==;JYR/rv0Ffjgj+kh+nSeHlg=="
 ---

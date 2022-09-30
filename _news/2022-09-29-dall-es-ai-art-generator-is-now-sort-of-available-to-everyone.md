@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Image-generating AI Dall-E is now free for anyone to play with"
+    excerpt: "Image-generating AI is becoming more accessible to the public, with one engine called DALL-E making its network free to use. While the text-to-art generator has some stipulations, you can create images by simply typing a description into the generator."
+    publishedDateTime: 2022-09-30T20:42:00Z
+    webUrl: "https://www.digitaltrends.com/computing/image-generating-ai-is-now-more-accessible-to-the-public/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/image-generating-ai-is-now-more-accessible-to-the-public/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/image-generating-ai-is-now-more-accessible-to-the-public/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 87
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2022/09/openai-text-prompt-930.jpg?p=1"
+        width: 1209
+        height: 825
+        isCached: true
   - title: "The grandfather of AI art, DALL-E, is now free for you to try"
     excerpt: "OpenAI has opened up the DALL-E AI art generator for anyone to try for free, with a credit system that replenishes monthly. It's simple, easy, and effective with the right prompts."
     publishedDateTime: 2022-09-29T17:31:00Z
@@ -53,20 +69,24 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 67
-  - title: "AI Art Program DALL-E 2 No Longer Has a Waitlist, Sign-Up System Crashes"
-    excerpt: "The DALL-E 2 sign-up system is facing a temporary outage after OpenAI decided to remove the waitlist for the AI art program."
-    publishedDateTime: 2022-09-28T21:15:00Z
-    webUrl: "https://www.pcmag.com/news/ai-art-program-dall-e-2-no-longer-has-a-waitlist-sign-up-system-crashes"
+  - title: "A doctor walks into a bar: Tackling image generation bias with Responsible AI"
+    excerpt: "Every company building AI today needs a Responsible AI strategy to find and mitigate bias in image generation."
+    publishedDateTime: 2022-09-28T18:07:00Z
+    webUrl: "https://venturebeat.com/ai/doctor-walks-into-bar-image-generation-bias-responsible-ai/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 66
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/00PtR0GmmOdoYakvDiFbpX3-1.fit_lim.size_1200x630.v1664391243.jpg"
-        width: 1120
-        height: 630
-        isCached: true
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 46
+  - title: "AI can now create any image in seconds, bringing wonder and danger"
+    excerpt: "DALL-E has triggered an explosion of images generated using artificial intelligence. But the technology is spreading faster than creators can shape norms around its use."
+    publishedDateTime: 2022-09-28T07:00:00Z
+    webUrl: "https://www.washingtonpost.com/technology/interactive/2022/artificial-intelligence-images-dall-e/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 17
   - title: "The sky’s the limit for AI tools like DALL-E, but investors have a rough road ahead"
     excerpt: "What looks like an interesting art tool has become a prime feeding ground for investors; part of the the challenge now is finding the business case for AI-generated imagery."
     publishedDateTime: 2022-09-26T19:37:00Z

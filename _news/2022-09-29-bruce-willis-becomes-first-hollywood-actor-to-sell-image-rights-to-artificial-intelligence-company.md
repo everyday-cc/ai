@@ -7,7 +7,7 @@ originalUrl: "https://www.itv.com/news/2022-09-29/bruce-willis-becomes-first-hol
 webUrl: "https://www.itv.com/news/2022-09-29/bruce-willis-becomes-first-hollywood-actor-to-sell-image-rights-to-ai-company"
 type: article
 quality: 3
-heat: 3
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Bruce Willis may still appear in films after aphasia diagnosis thanks to his 'digital twin'"
+    excerpt: "Bruce Willis has retired from making movies since his aphasia diagnosis, but he may continue to be an action star. How? Well, technology."
+    publishedDateTime: 2022-09-30T19:09:00Z
+    webUrl: "https://www.aol.com/entertainment/bruce-willis-may-still-appear-190942819.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 14
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/SVp0sktfrBkwx_gyWYaQgA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_celebrity_534/dee1c345f8b6f2a2f54f4c8136fe8d1d"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "fvG99kDXd13dUBZoxZ5aUqKePX9Tz/xJi59Vz2C5nODqW3VvYni3U9UoFLd8y9sEyWNYKTd8cJPjyosIZAezuiGOQuTWIpj6/Ye8HK1lTz1wSOFuA7Omvtb+h74kw6HwXhZEZpsZMBU9VR3syLyFtHQuKfiRvd9CZROI5HBn/wTgt8RjfNR5mfKwBU5mm6upajT1ht1YTshLMxEPW6x/QydV9YtErFV151AnaPtW68QG57Q1FeQrXvAK7QcpWqcsUd+1XFyJDPfxsCkgCxAopxItuG6PnP1d4P+EftLFLO4xjMVU5gh3prGS/ws1VvQURVdsXoniWsCVKmeUbPGAJCYNZRHKIN4p17KejS3+UvU=;sEGfo3ONARVYKsL5YLPLpA=="
 ---

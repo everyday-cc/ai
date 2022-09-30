@@ -24,18 +24,20 @@ topics:
 
 related:
   - title: "Machine Learning in Banking Market to Garner $21.27 Billion, Globally, By 2031 at 32.2% CAGR: Allied Market Research"
-    excerpt: "Allied Market Research recently published a report, titled, \"Machine Learning in Banking Market By Component (Solution and Service),"
+    excerpt: "Improved productivity of banks and faster banking operations using machine learning have boosted the growth of the global machine learning in banking market. PORTLAND, Ore., Sept. /PRNewswire/ -- Alli"
     publishedDateTime: 2022-09-26T15:30:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/machine-learning-in-banking-market-to-garner-21-27-billion-globally-by-2031-at-32-2-cagr-allied-market-research-301633219.html"
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/n29013065/machine-learning-in-banking-market-to-garner-21-27-billion-globally-by-2031-at-32-2-cagr-allied-ma"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29013065"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29013065"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 33
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 53
     images:
-      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
-        width: 2000
-        height: 1046
+      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "34hBYOJLIKNgFpU846xLV7c16S3dkNM5uGrCHGDOxVY8a64iSymlM/sjt2KQZ/PSyEhZJUHjpcWw6FMPvMHYu8oW9DefMdHY3LEAjAh5ly0VQHTh/NcNF1MSXs4fqsX1I2WjR9t2SJXQ6Gb6PWH1oyZsK7Bch32uk0X+UNrVE3Lztq9XfxUuzYepwh3wY0elGeeEKiMBSnmBGlFM2ElzjL96mlKniwNLeo0NYcz8NfzORbNz4NF1aS3who94fNAerFcM5StFSxrTLxgZt5zRz0VHxJSkMbSJm4j1jVdb+R4oBYMfpqtXgITtn95cwLWaUYZXsb/QZb1nd4XSaYW+x2yvCS3qp71N1exTQkhD9JQ=;2L7Ato7UURYVgCIM8XYe7Q=="

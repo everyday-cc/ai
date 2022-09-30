@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-26T10:42:00Z
 originalUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-growth-analysisleaders-business-demand-application-and-fastest-cagr-during-forecast-period-2022---2028-2022-09-26?mod=search_headline"
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-growth-analysisleaders-business-demand-application-and-fastest-cagr-during-forecast-period-2022---2028-2022-09-26?mod=search_headline"
 type: article
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: MarketWatch
