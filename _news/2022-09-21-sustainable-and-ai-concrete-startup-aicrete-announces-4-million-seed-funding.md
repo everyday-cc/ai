@@ -1,29 +1,19 @@
 ---
 category: news
 title: "Sustainable and AI Concrete Startup AICrete Announces $4 Million Seed Funding"
-excerpt: "Sustainable and AI Concrete Startup AICrete Announces $4 Million Seed Funding Sep 21, 2022 (PRNewswire via COMTEX) -- PR Newswire RICHMOND, Calif., Sept."
-publishedDateTime: 2022-09-21T13:52:00Z
-originalUrl: "https://www.marketwatch.com/press-release/sustainable-and-ai-concrete-startup-aicrete-announces-4-million-seed-funding-2022-09-21"
-webUrl: "https://www.marketwatch.com/press-release/sustainable-and-ai-concrete-startup-aicrete-announces-4-million-seed-funding-2022-09-21"
+excerpt: "Through use of AI, AICrete is poised to reduce concrete emissions by up to 35% and drastically increase industry profit margins. RICHMOND, Calif. , Sept. 21, 2022 /PRNewswire/ --"
+publishedDateTime: 2022-09-21T15:14:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-sustainable-ai-concrete-startup-aicrete-announces-4-million-/2022/09/21/9678215.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-sustainable-ai-concrete-startup-aicrete-announces-4-million-/2022/09/21/9678215.htm"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "zUEpbGans0iAiAh0oB+gsJeR03ScPLzWA9kJNpX8M226BuupIYwJz9d8JpXZcAr82epD7nEXznU8ujYWw+o6TxWOTMGEZ2A0G4+tFDHieHd12a7XoB9iGgAFruY8pzYeUudMQsiBFIsZoXS4ir6slKvsswX0coea2gYNhzO3qhlui0vKrDSsANXlW448Renpt5Qrxs3K/99lAkKlYF0zuZHlXTe37/U8lTcPEG6hhmMduVb6qIlTPLe/PBYC8KOu//PAGUgt6ku8uxK27GWadYS4vQJrH5h7prCusTOmf52psLqzzvrlgClinwuD9vi46NnDqHmTw1HcgFgQE9oubKfIbIKNNp2efoGwraVLQ9w=;mEJJEt+AoFCwmURbZnraVw=="
+secured: "ebxPXC+6kpevDxil05vJKMMNBWsog72IjO996JgcqYtZPMXLxqgentMNtiNoSAc/M30kW7c6CiuDEVxJsRAyj9kHTDCvwYze1PWD6XVBc2LkzgUUE1/ZD4q1pUfJ17Dtz2hkMorE9b77TWAxlht8R1TXSyovDp2n7b5u8ezU50FnEWMPBACP2o3EEwfjawM4fl8ZcMphzgHk01zdFh/RMXTTK2GZGF1XLNWSri5QDF62w+tb/PLgEiyhM08Lw9BYC/2vN5oC4oUeyZcj0OnOku0EH3CPaxGU2uIQHrGzzwmaXWXsB81Ispth8k+7w78yQ4BFBbToRklqm6fMD3LXepgRs2PYkwKe13MAF+3j2uM=;gLlXjmEV75CUniXcU89tNg=="
 ---
 

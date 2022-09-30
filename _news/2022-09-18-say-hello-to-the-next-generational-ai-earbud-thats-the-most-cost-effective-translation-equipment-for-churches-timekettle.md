@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Say Hello to the Next Generational AI Earbud That’s the most cost effective translation equipment for churches – Timekettle"
-excerpt: "Listen to the powerful preaching of God’s Word, now in your own language with the AI church translation equipment earbuds. GUANGDONG – SEPTEMBER 18, 2022 – Earbuds have come a long way since they were introduced to the world way back in 1891 by Ernest Mercadier."
-publishedDateTime: 2022-09-17T17:54:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-9-18-say-hello-to-the-next-generational-ai-earbud-thats-the-most-cost-effective-translation-equipment-for-churches-timekettle"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-9-18-say-hello-to-the-next-generational-ai-earbud-thats-the-most-cost-effective-translation-equipment-for-churches-timekettle"
+excerpt: "Listen to the powerful preaching of God’s Word, now in your own language with the AI church translation equipment earbuds. GUANGDONG – SEPTEMBER 18, 2022 – Earbuds have come a long way since ..."
+publishedDateTime: 2022-09-18T05:54:00Z
+originalUrl: "https://www.digitaljournal.com/pr/say-hello-to-the-next-generational-ai-earbud-thats-the-most-cost-effective-translation-equipment-for-churches-timekettle"
+webUrl: "https://www.digitaljournal.com/pr/say-hello-to-the-next-generational-ai-earbud-thats-the-most-cost-effective-translation-equipment-for-churches-timekettle"
 type: article
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "XWl4VXtha0Ay+h0VBSErI6CWjdqnCIaLO7WY7c5yKMZtGSz/UCKSBuI90uytKTRGK5GrROlu5Vqwc7q9NqhkLtofz/y7hUb3kffc6TY2C4K6PADNyISz1n+w2D0SyRfea+G+/Nryh32W69YP37tzL1EqBZYgnoRkilg3TCTF+skTgkk8FjljMX4nI58+NoaNQUhcZkISfz35gH8w5pcrgbzpsGBcI/yFbuH5uE/BEj94YO+2Nx0JPdLTs1WK4Q0ZhdTwUH9uf4PmVSseYomibVujNzGXVk6swQkLQQkJJiuEnxMmpjuJQ+b7AVayjxegU/Zqk5/8BF2Ng0QqYtZk/45Vgf/ESvhgzmOu2IeNcB2X4K7G3cBJvaNk+Dsy3/qF2nZA+rT1knFs41YaslhPkBCnhRs1tp9GrQx+LyppR0QtE7LFSUsfULv6De200/Iy9V3oAgBJykbt2pxXu5fNGlSuvd+JN0KQ0iWpFBzqogLn0LaB2JDZrbkyz10qM5F81XybMmKZzq/W/lL9spfx3Q==;By+E3YFvy8zJ/6SGjUnV6A=="
+secured: "ePF7csgvTinc6lDSpNoB4HxZZSLdLrgCKtU4G5ns8gWXXBOun6Cj3TaF/pwR4WwZbFUyum9PPmU4eN49ngPZtf8TMGQZ4ONRajL4He5SSR3gm/F1L1BG8waKyWuqUJq9OZ5xzYVRTVj23UneEG50q5C05h4FKrHdkAaL7InAl2oaQ7o4gQM4h/HxXvwmOBPpkou60vczl9pPb73E95QYndrfi2K8MJyUYw9zM88XQQdz3ZmXaI3Sh6e42dl0OUKyyBp644StYL/5s7LNXWilZi621MhWAYEVQga1Y1t2uK/QouLOl8Toqb2L2yUP+/utRLpQxNY77dgp0ysKZQs9cnvxkbV3gpuanyEWZLmaaaE=;JxRJs0r4xJfb0cx/KS96fw=="
 ---
 

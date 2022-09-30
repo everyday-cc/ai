@@ -3,12 +3,9 @@ category: news
 title: "Industrial UAV startup AiSeed offers AI+Drone to tackle toughest challenges"
 excerpt: "AiSeed Technology (AiSeed), a newcomer to the commercial drone market, was established in Taiwan right before COVID-19 rampaged across the world. Despite the difficulty, it still survived during the pandemic and continues to gain attention at international air shows with its unmanned airborne vehicles (UAV)."
 publishedDateTime: 2022-09-26T07:27:00Z
-originalUrl: "https://www.digitimes.com/news/a20220925VL202/ai-autonomous-uav.html?chid=13"
-webUrl: "https://www.digitimes.com/news/a20220925VL202/ai-autonomous-uav.html?chid=13"
+originalUrl: "https://www.digitimes.com/news/a20220925VL202/ai-autonomous-uav.html"
+webUrl: "https://www.digitimes.com/news/a20220925VL202/ai-autonomous-uav.html"
 type: article
-quality: 15
-heat: 15
-published: false
 
 provider:
   name: Digi Times
@@ -17,6 +14,6 @@ provider:
 topics:
   - AI
 
-secured: "Uzy3XoXb/qsqSGmDIb/gY/DXGGXJljxwV0ehwKaXn3Lzacj/X6tPZYPfAv1h1f59R/ePJVOErYJuZY9Ij4wZv0KPx79+qHNbAhS2BmO7HJCJk5Bm+rkc1rNgdn82fzpWKBo4/0K0cCXY14SLUprEON7gJ5bV9neEB4DgSoZqua6SX8pMc4R4R5UiC7wNLM+tQrnUAfD52rdJOON54VIpdbl1X8dqrx3J1QXcNBozXkPFMCtClgeLGE0A5IEtLm1VrhO1KcWdiExUVXy3i8RR1E58U/mpxGG9zdUOMix1pXsP77rBy7odMpP3wh02VQsj2zJMF5KAtrjJIrP7glQ9B3NK8DPxXkrUb9ull0HegpSmrWiWBVcRjbPx/3Ga/W6CZiFN6WAPfi7k7XAD8PiFxat3T8jr9m7c+GSGR9KdUBh6kZF7htVhM9saxvmLjgmB4V4LUIwBl9biE2oZBFqA0xf17/3McevR4TmAYblKLWubESDP+TTzt2ANDoZT5stAe3GVogX8+/ZIeZTRa/Tvdg==;3zxH8D3kV+lidDQSfdGuRw=="
+secured: "tger+R/ZBoEAmOxLXTNQNRh9e4VWTZ8IwXiaBZl2oNRlnrM3L/CfAxTq4XLsI7FAYVHk66qF34qeYtGva9ocAO5ICZWw1oanFLu9eOtcfcAwpqaAXWKceHBB97imccOWt2AI4KeQseEllb6O+IGSq7eHmWPvNEuLjbHfxDgc6azDR+DxUmSC9GfATbhfh27/4UFGr0g6MD6j2eakZGfo23u+O6AEWAOLcumJHO3Q6b+otc5X/lTNTOwbAlBTA2kEHhh3ruBv1bCouanTDaTNPmaOI9wlZM+Pz71r8FhMFSgLd8z05/jLttNfCHGJWG0t/bVf5PP4U5w48jhla/Yzko4csoi+rdWdc2eIpSrX6BBvWxTlF7l9z/5ByImNStV+3sbh6lbC7LvnLh8jCKcs5nXzYmrxsp+ISzFdvsqg14dSD1wz1ER8918jHbuyQdQDwah8ppq4TrA40cdBJPfiAmLuuBqmHqtraEbFi/9no5Avuyqxjb5K4UnGkF65b2Yx4+CzlC9PHzNWi7+ouqdM9A==;CLZIZBAgVH4tA7QtoN9otA=="
 ---
 
