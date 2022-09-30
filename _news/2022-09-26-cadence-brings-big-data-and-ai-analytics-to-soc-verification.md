@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 710
         isCached: true
+  - title: "As extreme weather events worsen, 7Analytics meshes AI and big data to predict flooding"
+    excerpt: "Analytics was founded by data scientists and geologists to help reduce the risks of flooding, harnessing the power of AI, ML, and big data."
+    publishedDateTime: 2022-09-29T20:40:00Z
+    webUrl: "https://techcrunch.com/2022/09/29/as-extreme-weather-events-worsen-7analytics-meshes-ai-and-big-data-to-predict-flooding/"
+    ampWebUrl: "https://techcrunch.com/2022/09/29/as-extreme-weather-events-worsen-7analytics-meshes-ai-and-big-data-to-predict-flooding/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/29/as-extreme-weather-events-worsen-7analytics-meshes-ai-and-big-data-to-predict-flooding/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 79
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1199168364.jpg?resize=1200,400"
+        width: 1200
+        height: 400
+        isCached: true
   - title: "Manufacturing industry transformed by AI, IoT and analytics"
     excerpt: "SAS hosts MFG Day flagship event on Oct. 5th featuring smart trucks, tractors and buildingsCARY, N.C., Sept. 26, 2022 /PRNewswire/ -- For"
     publishedDateTime: 2022-09-26T14:50:00Z

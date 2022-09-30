@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Thermometer with Face Recognition Market 2022 Key Product Segments, Application Analysis, and Industry Growth Forecast by 2028"
+    excerpt: "Thermometer with Face Recognition Market Research Report is spread across 105 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
+    publishedDateTime: 2022-09-30T04:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/thermometer-with-face-recognition-market-2022-key-product-segments-application-analysis-and-industry-growth-forecast-by-2028-2022-09-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "wSGmiQqW5hrgI3DyN1MWCJ+yYPa099wL4NNVj8W61kOLf/82sJsK+WJ2sSrpjwBNU/c2QyzGllHhQjsqgo4/EOHnU0gRPyJ1MjmN5DHOk0TS7foQLsOsKimkEkYMKogjjwMKIzJCNOgnf0NoIWuBTsuFmS2xCx39l4FJ7hbG3GNEJFz89FxNCQPqQz6IWMhT3Jx2xJp28zgYz83ftNwJoocNS8aWBOwwIklPqQozg3XtlGS9lHm33/ExcD2DvFlpuk83aWFuU9qAWX2ft3fvgoG5bUomDYqUd8Ljzd1RT1nJpVMzDxsGKtx0Gmc5oV91QBSi0sG4q7ee2mIRXqVI2QJpKiAfGh54HiDIu0C5EtY=;KtjChCN2piQZtxC9a9Adng=="
 ---

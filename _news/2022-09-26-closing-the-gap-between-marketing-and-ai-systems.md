@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/632e1d204d78bb340e7d2c21/0x0.jpg?format=jpg&width=1200"
         width: 640
         height: 290
+        isCached: true
+  - title: "Decision intelligence - closing the gap between data and leadership"
+    excerpt: "Recent events in the UK have demonstrated the importance of scenario planning and stress testing: often overlooked disciplines that are increasingly supported by the emerging technology of decision intelligence (DI)."
+    publishedDateTime: 2022-09-30T09:55:00Z
+    webUrl: "https://diginomica.com/decision-intelligence-closing-gap-between-data-and-leadership"
+    ampWebUrl: "https://diginomica.com/decision-intelligence-closing-gap-between-data-and-leadership?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/decision-intelligence-closing-gap-between-data-and-leadership?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 44
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2022-09/678AA978-ED49-4A56-832D-D1FF024D9E6E.jpeg"
+        width: 640
+        height: 352
         isCached: true
 
 secured: "07E0TZz/vtsIkPZFrOH8mr2+utSJKIM3prU5ThMh3SDoGDwUpNqWCQaGUtIosfLm47crFuo3jecD3gfaKHCcjANPTWBp+QiMbkrHD+ZVf9DiFNuad+f/1ZkipRpCs2ZqiOML0YnnVmxpqNgBBh0j+ThVK9Hr3Xk7gevnphHndBJH+BSRijmP+ySypa8kyHGNj9Q/dZrcg9nDG7KJYjoZcPDoGVP7jeNOF7WWhmNe1o35f4HIzaD3cd3uL3iYhSzdWOnG2mHmf0J5zkBvDYCx2wW2UO5xnff9UMB98y/pR5G3CUeWNFFU74MZGfwPc3pBi+plK1IZTAJayUmRFGVZVgdh81bsOJhZHkWpiX7aLg4nNeisyDmsRhf86sZVQeFSLYLLeofahQ0q59UpnCwiuhK/pd+/z6txVGwZBaQOaBFbrg1pBD92d0Gi/sdTlKvoaos81E480FkFx9sfY6AV0aWdwoXTzdFwzgsWgR4shYarXOJhqT2FFnIrbZjiOrmWLSkHZDdCiFEcq4zQpPmp+A==;UKYmI6a9HSWQgyvb7u+GlA=="

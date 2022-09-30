@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/39160/best-laptops-to-ignite-your-child
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/39160/best-laptops-to-ignite-your-childs-creativity-get-them-ai-ready?amp=1"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 619
     height: 374
     isCached: true
-
-related:
-  - title: "The real opportunity in creative AI: Deepening human creativity"
-    excerpt: "The real opportunity in creative, generative AI is in deepening human creativity; the question is who will seize the opportunity."
-    publishedDateTime: 2022-09-25T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/creative-ai-startups-should-focus-deepening-not-replacing-human-creativity/"
-    ampWebUrl: "https://venturebeat.com/ai/creative-ai-startups-should-focus-deepening-not-replacing-human-creativity/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/creative-ai-startups-should-focus-deepening-not-replacing-human-creativity/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2012/04/ss-creative-design.jpg?w=1200&strip=all"
-        width: 655
-        height: 455
-        isCached: true
 
 secured: "8XyrS5L2OTbGKt7KYR4QX0kI+U9H0PUucbxnMe+LHNWFSvghcpxNJMoWo+r8HHpr/7gCzWYh9S8oDmY82t+Vr07RYsgVI72sSBXn4kq1kY47uvQfhGOxUbNWrSoiLDV3zB7t2qsU11ifcZH/T8zaUz2KUcIMfONotNp2dBr+F/kKKuA/dHNQm0s8B/4wmy2+BXHruz9+SkPTHnRh8ivWV0qldwaWOlRDqv/Q0QRKCU/5IKiYUEc4l7AILTY4peMNz+CCOeuXZoXApehqvGi/A3vzT/U0FXJmDT6XGuofnEJu1Td46vy6ZlnSJs5xCBMOPVDQcblQ0eER4GjVG38ov2v6ffJ+0cjwX4G8/8GsOngFQzH5r/Kx1bs2+3siBg1nFmmo1kERmd21v7UqkGY9JhlxnNQLN2zsYb9gv8knJJ4Ule+VhtNJEYsrMKgpor9asbJ/Mg6SqkyXc3uwdoj7KxUFKLp/jomVb6RmfdKKeolb8jMY/2xWRwwR2pimlNVtxusn2JYT6at5hhhEYKUjdw==;H6jtGqzNxC2IX0IBD1rJJA=="
 ---

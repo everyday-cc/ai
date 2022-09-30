@@ -79,6 +79,22 @@ related:
         width: 640
         height: 290
         isCached: true
+  - title: "Decision intelligence - closing the gap between data and leadership"
+    excerpt: "Recent events in the UK have demonstrated the importance of scenario planning and stress testing: often overlooked disciplines that are increasingly supported by the emerging technology of decision intelligence (DI)."
+    publishedDateTime: 2022-09-30T09:55:00Z
+    webUrl: "https://diginomica.com/decision-intelligence-closing-gap-between-data-and-leadership"
+    ampWebUrl: "https://diginomica.com/decision-intelligence-closing-gap-between-data-and-leadership?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/decision-intelligence-closing-gap-between-data-and-leadership?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 44
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2022-09/678AA978-ED49-4A56-832D-D1FF024D9E6E.jpeg"
+        width: 640
+        height: 352
+        isCached: true
 
 secured: "vw/PVOmznVRX0Afu7/efUoQSqpRqPJR4z7OtCIUvE8HYijDfGEr+JBWJYsCGSdoj3GiUtTHJbeuIA+ow2GcNt5k3w2Tce5KsOzYmiQe+LTMpIFJRcP2NS6qaFvodK1jzR21IlYqGPdJ0DoUaxRIq+FkLTCJJRnbz/W3z+KqFxBpmyVHH1x5mBjAJG34aWBMF4ahUQqnwWKYo6EqZ0oCENqhcassG+Lgkqa8owfiMliotKXZSm+5wN+3o4V3f1Djl2a75MGqYthGMJdxDNRZKwovN+xjqvMEclVHApiLu+U2VPhymEl3kf6BF8b4rXKvzFYo7OnDEuq2SHJTEmIidXktBFiWlfRRqACf28xUyS88UEvf4s3P2y/hVXmj+m8o9OEybB2lce2RrWr6APvfSdpbH5UDXds9L4n71rgB8CdukRTemx70KEsk1YI6XRmlMyRTnW53Tn6mHn8Kj6nYYt5kKKaXZmt9fGoY8aHQpFUhAHpkVrVM692ITAgeWaY0x26qdaOJ9p21sb6eZ/E0khg==;7etYJSECAebBsP0/I3gG5w=="
 ---

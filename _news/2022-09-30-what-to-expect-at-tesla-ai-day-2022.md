@@ -93,6 +93,22 @@ related:
         width: 960
         height: 1200
         isCached: true
+  - title: "How to watch Tesla’s AI Day today and what to expect"
+    excerpt: "Tesla is holding its second AI Day on September 30, and a prototype of its humanoid robot is expected to make an appearance."
+    publishedDateTime: 2022-09-29T21:30:00Z
+    webUrl: "https://www.digitaltrends.com/computing/how-to-watch-tesla-ai-day/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/how-to-watch-tesla-ai-day/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-watch-tesla-ai-day/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 104
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2022/09/Fdx4jsfWIAMMH6D.jpeg?p=1"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "How to watch Tesla’s AI Day tomorrow and what to expect"
     excerpt: "Tesla is holding its second AI Day on September 30, and a prototype of its humanoid robot is expected to make an appearance."
     publishedDateTime: 2022-09-29T21:30:00Z
@@ -134,22 +150,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 86
-  - title: "ASX Tech Stocks: Tesla readies robot prototype Optimus for release at AI Day this month"
-    excerpt: "Tesla plans to release prototype humanoid robot at AI Day on Friday Micro-X nabs an extension on miniature baggage scanner deal with the US Department of Homeland Security Superloop picks up VostroNet,"
-    publishedDateTime: 2022-09-25T15:24:00Z
-    webUrl: "https://stockhead.com.au/tech/asx-tech-stocks-tesla-readies-robot-prototype-optimus-for-release-at-ai-day-this-month/"
-    ampWebUrl: "https://stockhead.com.au/tech/asx-tech-stocks-tesla-readies-robot-prototype-optimus-for-release-at-ai-day-this-month/?amp"
-    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/asx-tech-stocks-tesla-readies-robot-prototype-optimus-for-release-at-ai-day-this-month/?amp"
-    type: article
-    provider:
-      name: stockhead
-      domain: stockhead.com.au
-    quality: 83
-    images:
-      - url: "https://stockhead.com.au/wp-content/uploads/2022/09/GettyImages-526637039.jpg"
-        width: 2121
-        height: 1193
-        isCached: true
   - title: "Tesla AI Day Spotlights Optimus Robot, Self-Driving Cars: Here's How to Watch"
     excerpt: "Tesla is hiring engineers to build a walking, talking robot called Optimus. Expect Elon Musk to detail the company's work on self-driving cars, too."
     publishedDateTime: 2022-09-26T18:29:00Z

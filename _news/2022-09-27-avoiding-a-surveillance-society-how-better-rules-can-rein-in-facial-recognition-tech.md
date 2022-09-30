@@ -1,47 +1,47 @@
 ---
 category: news
-title: "Avoiding a surveillance society: how better rules can rein in facial recognition tech"
-excerpt: "The Facial Recognition Model Law Project, to which this article refers, was undertaken by HTI, with funding from UTS and support from the UTS Centre for Social Justice & Inclusion. UTS has ..."
-publishedDateTime: 2022-09-27T01:40:00Z
-originalUrl: "https://theconversation.com/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
-webUrl: "https://theconversation.com/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
-ampWebUrl: "https://theconversation.com/amp/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
+title: "Avoiding a surveillance society: How better rules can rein in facial recognition tech"
+excerpt: "The human face is special. It is simultaneously public and personal. Our faces reveal sensitive information about us: who we are, of course, but also our gender, emotions, health status and more."
+publishedDateTime: 2022-09-27T15:40:00Z
+originalUrl: "https://techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.html"
+webUrl: "https://techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.html"
+ampWebUrl: "https://techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.amp"
 type: article
 quality: 52
 heat: -1
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/486445/original/file-20220926-14387-rumoex.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-    width: 320
-    height: 213
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/avoiding-a-surveillanc.jpg"
+    width: 1356
+    height: 668
     isCached: true
 
 related:
   - title: "New report offers blueprint for regulation of facial recognition technology"
-    excerpt: "SYDNEY, Sept. 26, 2022 /PRNewswire/ -- A new report from the University of Technology Sydney (UTS) Human Technology Institute outlines a model law for facial recognition technology to protect ..."
-    publishedDateTime: 2022-09-26T23:47:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/n29023402/new-report-offers-blueprint-for-regulation-of-facial-recognition-technology"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29023402"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29023402"
+    excerpt: "Human Technology Institute outlines a model law for facial recognition technology to protect against harmful use of this technology, but also foster innovation for public benefit."
+    publishedDateTime: 2022-09-26T23:00:00Z
+    webUrl: "https://techxplore.com/news/2022-09-blueprint-facial-recognition-technology.html"
+    ampWebUrl: "https://techxplore.com/news/2022-09-blueprint-facial-recognition-technology.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-blueprint-facial-recognition-technology.amp"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: techxplore
+      domain: techxplore.com
     quality: 57
     images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/28171512/image-55-1024x683.png"
-        width: 1024
-        height: 683
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/facial-recognition.jpg"
+        width: 1920
+        height: 1274
         isCached: true
   - title: "The heated fight against facial recognition scams"
     excerpt: "Beijing resident Li was appalled when she found that 430,000 yuan (S$86,130) disappeared from her bank savings within minutes. The money transfer, which was supposed to be verified through facial recognition,"
@@ -152,6 +152,20 @@ related:
         width: 784
         height: 523
         isCached: true
+  - title: "University of Technology Sydney report offers blueprint for regulation of facial recognition technology"
+    excerpt: "Human Technology Institute has outlined a model law for facial recognition technology to protect against the harmful use of this technology, but also foster innovation for public benefit. Australian law was not drafted with the widespread use of facial recognition in mind."
+    publishedDateTime: 2022-09-27T10:44:00Z
+    webUrl: "https://www.intelligentcio.com/apac/2022/09/27/university-of-technology-sydney-report-offers-blueprint-for-regulation-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: intelligentcio
+      domain: intelligentcio.com
+    quality: 23
+    images:
+      - url: "https://i0.wp.com/www.intelligentcio.com/apac/wp-content/uploads/sites/44/2022/09/AdobeStock_530263120-Web.jpg?fit=1000%2C450&ssl=1"
+        width: 1000
+        height: 450
+        isCached: true
   - title: "University of Technology Sydney: New report offers blueprint for regulation of facial recognition technology"
     excerpt: "A new report from the University of Technology Sydney (UTS) Human Technology Institute outlines a model law for facial recognition technology to protect"
     publishedDateTime: 2022-09-26T23:53:00Z
@@ -162,6 +176,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "1/U0AgJOlWDqRNsdp8MLlh+3F3vOKAdvaGG7PSnt5H5Mz2q6OPRHsfFQm/vLmTRCz9UmkvKcUxb+XJxf5Usr3woApYN1Ji+8UQUF21SXWKnSKXSkvGAjpvuLSFhrdVZOqqpXhE5gza6qOyU4710Sld3rsJ5MgBWt39uDn5Hj8Ku1ZLVfYwGpV2yQZAHgIbWSNwJCy7MQJ12rK4pr6VaCb56WWRWr0UU6WRNoWCCUU4NVh2MKSRV/zakFKCMz2zJEpRzx5mciVnNXGgFvce52u9spQFcWaUuEwKIprIIWq81YVQRzWwVjsBH3TW15AYHShsodsnJMmJXyqZtTxxwY/7N9ra8KefjE57cQIn16ZTU=;r+yrztFE85ZQ+yvUJKad9Q=="
+secured: "mIrzcOPAuWi58g9ME20c0eNPJKHNMKGL5AuZ6gSyIA8Ib3aOjJ0UC9GRo9+Bh9Rf6bvbQ28ScqTY6vKuQcMeWDozzLUttMsE+8VyJ2zB5is1Zwh295fBL1lQka45a214FFNyWBXoRJhDPWEak4bWUfnE33Au4VzIQtex0VL2reAnS5ZDaQcH6PH9IhFkDUz7cXFP0r52xtZSzRorrSpg6Hh/jsa5pRIwWYXsTLnF2PJPLRq063xyApE+Xd1gzVhFcZP/UY2XvT1Olm+NwuznMf53y9fK+FNfjWYkl6/SSAxvHa8jnfAtiUrY8eS7C6WLccxxIIbXBW+uiCSuJ+HmC4sci/sEcs+fkfAxAmcABGU=;8bZPN/03rSp2bOO5RaS6Iw=="
 ---
 
