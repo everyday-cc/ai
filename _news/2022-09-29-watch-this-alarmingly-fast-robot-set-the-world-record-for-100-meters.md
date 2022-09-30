@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-29T16:15:00Z
 originalUrl: "https://www.runnersworld.com/news/a41428921/bipedal-robot-sets-guinness-world-record-for-100-meters/"
 webUrl: "https://www.runnersworld.com/news/a41428921/bipedal-robot-sets-guinness-world-record-for-100-meters/"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://hips.hearstapps.com/vidthumb/72abc4d7-c870-43e5-b7cd-65081b2f16c2/thumb_1920x1080_00002_1664389487_33953.jpg?crop=1xw:1xh;center,top&resize=480:*"
+    width: 480
+    height: 270
+    isCached: true
 
 related:
   - title: "Oregon State's bipedal robot, Cassie, sets Guinness World Record in 100-meter dash"
@@ -128,6 +134,6 @@ related:
       domain: koin.com
     quality: 16
 
-secured: "fpjEGAjqWPFn9mZuH459qYxwy2XkCHVJwNIfiLR3F84RxYyhtczt/mLkx6puu4fFge2tSgPpSfby1qU5dDMY9G/EbbbHY6Ih1AEmEJOjtyZfgb/F7i/w1YaDSYI4+Jy3I6TpZ1rz/WqjsC2ttxURWVS/P8c7tB2jmdrtliqFvF6bC4/STDjVNZmprf7lw0tTp2+5tSnLTpN1kWh0UHQ3Z4XrFCcOj3cs1dhfxhXnZnsxZYGHfCpddGpEp1bS0fghv81AZlVALTF8bTBo+chEfmNF97tY21urtb81hezeW1O4bW/NumAZzUw6ImRU/LiIp8yCTCSFJFJR1yjJFE9oaF1eiVMKrDZvJU26KavdnBY=;sHZl4ef1erBYyg2vMZI5NQ=="
+secured: "LLJ+AmWPc7aBFKlAq8gCM0IP5jEdCdS88n3ccCZL1sTNNWAT2XEjXq4Z5cOTFc7brEIRxdphr7ZQDG9pYPh/0RqEtPwkIJehYYzzdW3lPf8fJtwM/su6NCHY1MVGCw4dWxJFRu7ZHE8LGo65JFET0fYE/RlMmnNoL92uWthNkJ212RQHjXrU942H0q4XDzghwH9xoT0wXRDSqoiKZQ07wldksGyhq8ogPJhUA/eTARGyxXN982gjKUdPXiOX2R/e5Irba+O/ovB/DGrkj60WSzwMSmLyiycZj8GSNOgbeoRjWgt9BaDSb4i/XzehZkgyQXUJ55LLvnf2Lx9sHbtmsG+SBKDsqF3bsUvsc17lED8=;SwJh7tNoP3wTTyZuVujf2Q=="
 ---
 

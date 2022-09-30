@@ -2,6 +2,222 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2022-07-07-ecovacs-robotics-introduces-enhanced-ai-technology-for-intelligent-floor-cleaning-with-launch-of-deebot-t10-in-malaysia.md",
+      "title": "ECOVACS ROBOTICS Introduces Enhanced AI Technology for Intelligent Floor Cleaning with Launch of DEEBOT T10 in Malaysia",
+      "excerpt": "The new DEEBOT combines next-generation technologies, such as AIVI 3.0 Upgraded AI-based Object Recognition and Avoidance technology, that offer tech-savvy households unique advantages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/ecovacs-robotics-introduces-enhanced-ai-technology-intelligent-floor-cleaning-launch-0",
+      "originalUrl": "https://www.asiaone.com/business/ecovacs-robotics-introduces-enhanced-ai-technology-intelligent-floor-cleaning-launch-0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jul2022/EC4.jpg?h=bde28bee&itok=gmu7FuV3",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-meta-claims-breakthrough-in-superpower-ai-translation-as-it-interprets-more-than-200-languages.md",
+      "title": "Meta claims breakthrough in 'superpower' AI translation as it interprets more than 200 languages",
+      "excerpt": "A new paper from artificial intelligence researchers at Facebook's parent company Meta ... this model and retrain it on their own, fostering research in that area.\" \"So yeah, I think it is a ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.sky.com/story/meta-claims-breakthrough-in-superpower-ai-translation-as-it-interprets-more-than-200-languages-12646868",
+      "originalUrl": "https://news.sky.com/story/meta-claims-breakthrough-in-superpower-ai-translation-as-it-interprets-more-than-200-languages-12646868",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e3.365dm.com/20/02/1600x900/skynews-zuckerberg-facebook_4912565.jpg?20200206020224",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.sky.com/story/amp/meta-claims-breakthrough-in-superpower-ai-translation-as-it-interprets-more-than-200-languages-12646868",
+      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/meta-claims-breakthrough-in-superpower-ai-translation-as-it-interprets-more-than-200-languages-12646868",
+      "publishedDateTime": "2022-07-06T19:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky",
+        "domain": "sky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-ibm-acquires-data-observability-firm-databandai.md",
+      "title": "IBM acquires data observability firm Databand.ai",
+      "excerpt": "IBM plans to use Databand.ai in combination with IBM Observability by Instana APM and IBM Watson Studio to offer a full spectrum of observability tools across IT operations. Databand.ai ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/699649/ibm-acquires-data-observability-firm-databand-ai/?fp=2&fpid=1",
+      "originalUrl": "https://www.arnnet.com.au/article/699649/ibm-acquires-data-observability-firm-databand-ai/?fp=2&fpid=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_181115701.jpg",
+          "width": 500,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T19:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast.md",
+      "title": "How worried should we be about artificial intelligence? | The Ethical Life podcast",
+      "excerpt": "Rick Kyte and Scott Rada discus how worried should we be about the future of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://napavalleyregister.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_c2c3f12b-d2ca-57e2-ae64-f0a1257c884c.html",
+      "originalUrl": "https://napavalleyregister.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_c2c3f12b-d2ca-57e2-ae64-f0a1257c884c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/content/tncms/assets/v3/editorial/c/2c/c2c3f12b-d2ca-57e2-ae64-f0a1257c884c/62bef10c2f3d4.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
+          "width": 1196,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T18:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Napa Valley Register",
+        "domain": "napavalleyregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-global-natural-language-processing-market-to-be-worth-usd-4394-billion-at-a-cagr-of-2110-by-the-year-2027.md",
+      "title": "Global Natural Language Processing Market to be Worth USD 43.94 Billion At A CAGR Of 21.10% by the Year 2027",
+      "excerpt": "Global Natural Language Processing Market Is Expected To Reach USD 43.94 Billion By 2027 At A CAGR Of 21.10 percent. A report on the Global Natural Language Processing Market by Maximize Market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/global-natural-language-processing-market-to-be-worth-usd-43-94-billion-at-a-cagr-of-21-10-by-the-year-2027",
+      "originalUrl": "https://www.digitaljournal.com/pr/global-natural-language-processing-market-to-be-worth-usd-43-94-billion-at-a-cagr-of-21-10-by-the-year-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/07/da27e1d0cfdc0cb35577339dc1eb00792ba71b27-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-how-ai-at-the-edge-is-defining-next-generation-hardware-platforms.md",
       "title": "How AI at the Edge Is Defining Next-Generation Hardware Platforms",
       "excerpt": "Figure 3: IoT management using edge inference. Small, Medium, and Deep Learning Models for Edge-based AI It is easy to assume the edge tier approach with simple GPU inference hardware for IoT can be scaled up for more complex hardware system such as ...",
@@ -945,223 +1161,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-nyu-explores-the-principles-for-modelling-neural-collapse-and-its-role-in-generalization.md",
-      "title": "NYU Explores the Principles for Modelling Neural Collapse and Its Role in Generalization",
-      "excerpt": "Deep neural networks (DNNs) have advanced the state-of-the-art on tasks ranging from image classification to language processing and gameplay. But as models have become deeper and more complex, understanding their behaviours has become more challenging.",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2022/07/06/nyu-explores-the-principles-for-modelling-neural-collapse-and-its-role-in-generalization/",
-      "originalUrl": "https://syncedreview.com/2022/07/06/nyu-explores-the-principles-for-modelling-neural-collapse-and-its-role-in-generalization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-watch-ai-objectives-increasingly-involve-marketing.md",
-      "title": "WATCH: AI objectives increasingly involve marketing",
-      "excerpt": "Of all a company’s functions, marketing has perhaps the most to gain from artificial intelligence (AI). Marketing’s core activities are understanding customer needs, matching them to products and services,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesslive.co.za/bd/companies/2022-07-06-watch-ai-objectives-increasingly-involve-marketing/",
-      "originalUrl": "https://www.businesslive.co.za/bd/companies/2022-07-06-watch-ai-objectives-increasingly-involve-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/tSMl4zFEp3h4YUwB7nlte-8DPk1bI0ZTY9j96GC1ooO2MyFMThSXt85Yp8e0xRbLqP6_1G_YGSCsfhja6sSPMuWm291T4PrSyLwgKrtR67oG-w=s750",
-          "width": 750,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businesslive.co.za/amp/bd/companies/2022-07-06-watch-ai-objectives-increasingly-involve-marketing/",
-      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2022-07-06-watch-ai-objectives-increasingly-involve-marketing/",
-      "publishedDateTime": "2022-07-06T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businesslive.co.za",
-        "domain": "businesslive.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-covid-19-showed-financial-institutions-fast-change-is-possible.md",
-      "title": "Covid-19 Showed Financial Institutions Fast Change Is Possible",
-      "excerpt": "Covid moved financial services forward very rapidly, and showed that with cloud, it could handle tech change much faster than it had thought",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomgroenfeldt/2022/07/06/covid-19-showed-financial-institutions-fast-change-is-possible/",
-      "originalUrl": "https://www.forbes.com/sites/tomgroenfeldt/2022/07/06/covid-19-showed-financial-institutions-fast-change-is-possible/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62c46ff4003fab3b8723031f/0x0.jpg?format=jpg&width=1200",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomgroenfeldt/2022/07/06/covid-19-showed-financial-institutions-fast-change-is-possible/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomgroenfeldt/2022/07/06/covid-19-showed-financial-institutions-fast-change-is-possible/amp/",
-      "publishedDateTime": "2022-07-06T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-ibm-aims-to-capture-growing-market-opportunity-for-data-observability-with-databandai-acquisition.md",
-      "title": "IBM Aims to Capture Growing Market Opportunity for Data Observability with Databand.ai Acquisition",
-      "excerpt": "By using Databand.ai with IBM Observability by Instana APM and IBM Watson Studio, IBM is well-positioned to address the full spectrum of observability across IT operations. For example, Databand.ai capabilities can alert data teams and engineers when the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/ibm-aims-capture-growing-market-opportunity-data-observability-databandai-acquisition",
-      "originalUrl": "https://www.asiaone.com/business/ibm-aims-capture-growing-market-opportunity-data-observability-databandai-acquisition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-metas-no-language-left-behind-ai-can-now-translate-200-languages.md",
-      "title": "Meta's 'No Language Left Behind' AI Can Now Translate 200 Languages",
-      "excerpt": "The translation tool will be put to work on Facebook and Instagram and will also be open source for others to use.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/social-media/metas-no-language-left-behind-ai-can-now-translate-200-languages/",
-      "originalUrl": "https://www.cnet.com/news/social-media/metas-no-language-left-behind-ai-can-now-translate-200-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 398,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/08db5935e4bf42296493609feca5ab5c73e1ad95/2022/06/29/38883dfb-6d93-41cb-88e1-0fbe4233f4b9/nllb-1.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/metas-no-language-left-behind-ai-can-now-translate-200-languages/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/metas-no-language-left-behind-ai-can-now-translate-200-languages/",
-      "publishedDateTime": "2022-07-06T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Natural Language Processing",
-        "Facebook AI"
       ]
     }
   ],

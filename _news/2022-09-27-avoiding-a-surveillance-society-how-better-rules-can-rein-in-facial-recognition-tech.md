@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Avoiding a surveillance society: How better rules can rein in facial recognition tech"
-excerpt: "The human face is special. It is simultaneously public and personal. Our faces reveal sensitive information about us: who we are, of course, but also our gender, emotions, health status and more."
-publishedDateTime: 2022-09-27T15:40:00Z
-originalUrl: "https://techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.html"
-webUrl: "https://techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.html"
-ampWebUrl: "https://techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.amp"
+title: "Avoiding a surveillance society: how better rules can rein in facial recognition tech"
+excerpt: "The Facial Recognition Model Law Project, to which this article refers, was undertaken by HTI, with funding from UTS and support from the UTS Centre for Social Justice & Inclusion. UTS has ..."
+publishedDateTime: 2022-09-27T01:40:00Z
+originalUrl: "https://theconversation.com/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
+webUrl: "https://theconversation.com/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
+ampWebUrl: "https://theconversation.com/amp/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
 type: article
 quality: 52
 heat: -1
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/avoiding-a-surveillanc.jpg"
-    width: 1356
-    height: 668
+  - url: "https://images.theconversation.com/files/486445/original/file-20220926-14387-rumoex.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+    width: 320
+    height: 213
     isCached: true
 
 related:
@@ -176,6 +176,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "paCS05pZcSwk0FsJkSbm9HiznO3d7HSoaXRFEFEizt5K+qhb9Zk7HgsFwcYVj7nzhJK+LWDUUIbbTls5Uq87n3nuJ0IyDUFYFxkgGwmdwMDDVLlzOmoXrGO79/9AOndT4YOFZmKCIrnEgEdzZMcVqlv6eazBjDY9YZscKucsyE5m98UrhoOEXMNu9uVJm1TgR6bW4mw7VgtJySnEUZj1TZvS39CDXO/nM2czLjm15dGJ7aeTBHHY/Z9+vUVdI+C3Je4z2FS1ksWwroDnDzFdQNScMlx6ycJO7dUTiCHxb54WMcgZkjWFRzM2Vu4SfYdFftJbdbqjIceIhmFgNuP9wtXjpZjQM0epA0AOcR6Jbjs=;U3+hxt4y9+5Xf6FjRPkDXQ=="
+secured: "y/sJ0ePL7lHIL29DS6o5iDf3EuA/Zhe9GSfoa2dDsy0D1v8F4sV3sgKbKHWKKu502rB6cNgPaDUkYsa4m2CogEwlN9JaGyYhKyAQ+a4hnX+pEawmw9WtivpmHrO7t3kphmdaS+tC0+LXfFzw+iKaSgZSQJP3wDb7IJbP57LGEYS4s/JXnBjgTpXyNOXbJ+az+yuTNmYUD0zH9CyoFbDbWrE4t+9WboP6ycUd8FK/eTAPT4LZwXutZ4cWN0fKNUCJW1t6+/qlTIK322fMM5Cp2AbrZ1iBr+YvEtmbx5+qJf4AkrBBTlVmU4WUHjZ/lHIyuWLU+38LT/2cedj/Z8/5aRd1BgwmVrxz00TqCBkKwus=;pW3h8UOwKLWUJkWrLo3fZQ=="
 ---
 

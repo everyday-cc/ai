@@ -41,7 +41,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 131
+    quality: 133
     images:
       - url: "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
@@ -127,6 +127,22 @@ related:
         width: 960
         height: 1200
         isCached: true
+  - title: "Tesla AI Day: Here’s what to expect"
+    excerpt: "Tesla will hold its second annual AI Day in Palo Alto, California, Friday evening. The six-hour event will include updates on Tesla's work in artificial intelligence, \"Full Self-Driving,\" its supercomputer \"Dojo\" and maybe a humanoid robot,"
+    publishedDateTime: 2022-09-30T17:34:00Z
+    webUrl: "https://edition.cnn.com/2022/09/30/tech/tesla-ai-day-preview/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/09/30/tech/tesla-ai-day-preview/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/30/tech/tesla-ai-day-preview/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 106
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210819234639-01-tesla-robot-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How to watch Tesla’s AI Day today and what to expect"
     excerpt: "Tesla is holding its second AI Day on September 30, and a prototype of its humanoid robot is expected to make an appearance."
     publishedDateTime: 2022-09-29T21:30:00Z
@@ -159,6 +175,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Tesla just gave us a fresh glimpse of its humanoid robot ahead of its big AI Day event. What we know so far about the Optimus project."
+    excerpt: "Elon Musk has said the robot could more important than its car business, but it'll join a long list of projects that haven't yet seen the light of day."
+    publishedDateTime: 2022-09-30T16:42:00Z
+    webUrl: "https://www.businessinsider.com/tesla-bot-robot-optimus-ai-day-what-we-know-2022-9"
+    ampWebUrl: "https://www.businessinsider.com/tesla-bot-robot-optimus-ai-day-what-we-know-2022-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-bot-robot-optimus-ai-day-what-we-know-2022-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/633719ce94aa2f0018cfc756?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Should You Buy Tesla (TSLA) Stock Ahead of Its AI Day 2022?"
     excerpt: "The company’s AI Day generates an enormous buzz among Tesla fans and investors, as well as tech enthusiasts at large as it’s packed with exciting innovations and big surprises. Tesla’s 2021 AI Day knocked the audience for six as a dancing robot walked onto the stage to accompany Musk."
     publishedDateTime: 2022-09-29T15:13:00Z
@@ -170,6 +202,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 86
+  - title: "Tesla’s Optimus robot: transformative or dystopian?"
+    excerpt: "Brad Porter, founder of Collaborative Robotics and former head of Amazon's robotics division, weighs in on Tesla's humanoid robot Optimus."
+    publishedDateTime: 2022-09-29T16:17:00Z
+    webUrl: "https://www.therobotreport.com/tesla-optimus-robot-transformative-dystopian/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 86
+    images:
+      - url: "https://marketing.wtwhmedia.com/wp-content/uploads/2020/12/TRR-DATABASE-house-promo-2.jpg"
+        width: 300
+        height: 600
+        isCached: true
   - title: "Tesla AI Day Spotlights Optimus Robot, Self-Driving Cars: Here's How to Watch"
     excerpt: "Tesla is hiring engineers to build a walking, talking robot called Optimus. Expect Elon Musk to detail the company's work on self-driving cars, too."
     publishedDateTime: 2022-09-26T18:29:00Z
@@ -287,13 +333,13 @@ related:
         height: 900
         isCached: true
   - title: "Elon Musk and Tesla to unveil new humanoid robot. Here's what you need to know"
-    excerpt: "Elon Musk is set to debut his latest creation -- a humanoid robot, also known as Tesla Bot, named Optimus -- on Friday, Sept. 30 at Tesla's second AI Day, an event his company is putting on for the second time to show advanced examples of artificial intelligence technology and recruit robotic engineers,"
+    excerpt: "Here's everything you need to know about the Tesla Bot. Why is Musk building a robot? Musk teased the idea of the Tesla Bot at the first AI Day last year, CNET reported. He provided details on specifications and showed a mockup to guests,"
     publishedDateTime: 2022-09-30T00:32:00Z
-    webUrl: "https://www.chron.com/news/article/Elon-Musk-Tesla-to-unveil-humanoid-robot-AI-Day-17476013.php"
+    webUrl: "https://www.beaumontenterprise.com/news/article/Elon-Musk-Tesla-to-unveil-humanoid-robot-AI-Day-17476013.php"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: The Beaumont Enterprise
+      domain: beaumontenterprise.com
     quality: 52
     images:
       - url: "https://s.hdnux.com/photos/01/22/76/55/21752667/9/rawImage.jpg"

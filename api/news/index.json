@@ -2,6 +2,207 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-30-build-flexible-and-scalable-distributed-training-architectures-using-kubeflow-on-aws-and-amazon-sagemaker.md",
+      "title": "Build flexible and scalable distributed training architectures using Kubeflow on AWS and Amazon SageMaker",
+      "excerpt": "In this post, we demonstrate how Kubeflow on AWS (an AWS-specific distribution of Kubeflow) used with AWS Deep Learning Containers and Amazon Elastic File System (Amazon EFS) simplifies collaboration and provides flexibility in training deep learning models at scale on both Amazon Elastic Kubernetes",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-flexible-and-scalable-distributed-training-architectures-using-kubeflow-on-aws-and-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-flexible-and-scalable-distributed-training-architectures-using-kubeflow-on-aws-and-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/23/Solution-1228x630.png",
+          "width": 1228,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T10:56:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-beyond-killer-robots-how-ai-impacts-security-military-affairs.md",
+      "title": "Beyond Killer Robots: How AI impacts security, military affairs",
+      "excerpt": "Nations that set limits on AI capabilities may encounter adversaries who have no qualms about doing so, putting them at a disadvantage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.c4isrnet.com/unmanned/robotics/2022/09/30/beyond-killer-robots-how-ai-impacts-security-military-affairs/",
+      "originalUrl": "https://www.c4isrnet.com/unmanned/robotics/2022/09/30/beyond-killer-robots-how-ai-impacts-security-military-affairs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.c4isrnet.com/resizer/Uwpm-Wm0MVv3xtPlt_6-IJ3KRpk=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/7375MPBJAZHYPBNQR5NDGYYKGM.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "C4ISRNET",
+        "domain": "c4isrnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-bundesliga-match-fact-win-probability-quantifying-the-effect-of-in-game-events-on-winning-chances-using-machine-learning-on-aws.md",
+      "title": "Bundesliga Match Fact Win Probability: Quantifying the effect of in-game events on winning chances using machine learning on AWS",
+      "excerpt": "Ten years from now, the technological fitness of clubs will be a key contributor towards their success. Today we’re already witnessing the potential of technology to revolutionize the understanding of football. xGoals quantifies and allows comparison of goal scoring potential of any shooting situation,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bundesliga-match-fact-win-probability-quantifying-the-effect-of-in-game-events-on-winning-chances-using-machine-learning-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bundesliga-match-fact-win-probability-quantifying-the-effect-of-in-game-events-on-winning-chances-using-machine-learning-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/30/ML-11374-image011.jpg",
+          "width": 1400,
+          "height": 865,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T09:28:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-deep-dive-how-synthetic-data-can-enhance-arvr-and-the-metaverse.md",
+      "title": "Deep Dive: How synthetic data can enhance AR/VR and the metaverse",
+      "excerpt": "The metaverse will rely heavily on synthetic data, which is gaining traction as a tool to help train AI/ML models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/deep-dive-how-synthetic-data-can-enhance-ar-vr-and-the-metaverse/",
+      "originalUrl": "https://venturebeat.com/ai/deep-dive-how-synthetic-data-can-enhance-ar-vr-and-the-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/image2-5.png?w=1200&strip=all",
+          "width": 1198,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/deep-dive-how-synthetic-data-can-enhance-ar-vr-and-the-metaverse/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deep-dive-how-synthetic-data-can-enhance-ar-vr-and-the-metaverse/amp/",
+      "publishedDateTime": "2022-09-30T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-30-tesla-unveils-the-hands-of-its-humanoid-robot-ahead-of-full-unveil-today.md",
       "title": "Tesla unveils the hands of its humanoid robot ahead of full unveil today",
       "excerpt": "Tesla is teasing the hands of its humanoid Optimus robot that is going to be fully unveiled at its AI Day event later today. Today, Tesla is expected to hold its AI Day 2 in Palo Alto starting at 5 p.",
@@ -10,7 +211,7 @@
       "originalUrl": "https://electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -63,7 +264,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 341,
+      "heat": 373,
       "tags": null,
       "images": [
         {
@@ -104,7 +305,51 @@
       "topics": [
         "AI in Robotics",
         "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-amazon-vp-explains-how-to-move-past-limits-of-machine-learning.md",
+      "title": "Amazon VP explains how to move past limits of machine learning",
+      "excerpt": "Many companies believe machine learning is the solution to their problems, but it can’t overcome bad data and metrics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/amazon-vp-explains-how-to-move-past-limits-of-machine-learning",
+      "originalUrl": "https://www.freightwaves.com/news/amazon-vp-explains-how-to-move-past-limits-of-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2022/09/Amazons-Matt-Taddy.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/amazon-vp-explains-how-to-move-past-limits-of-machine-learning/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/amazon-vp-explains-how-to-move-past-limits-of-machine-learning/amp",
+      "publishedDateTime": "2022-09-30T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -505,58 +750,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-29-how-sophos-trains-a-powerful-lightweight-pdf-malware-detector-at-ultra-scale-with-amazon-sagemaker.md",
-      "title": "How Sophos trains a powerful, lightweight PDF malware detector at ultra scale with Amazon SageMaker",
-      "excerpt": "This post is co-authored by Salma Taoufiq and Harini Kannan from Sophos. As a leader in next-generation cybersecurity, Sophos strives to protect more than 500,000 organizations and millions of customers across over 150 countries against evolving threats. Powered by threat intelligence, machine learning",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-sophos-trains-a-powerful-lightweight-pdf-malware-detector-at-ultra-scale-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-sophos-trains-a-powerful-lightweight-pdf-malware-detector-at-ultra-scale-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/29/sophos-sagemaker.jpg",
-          "width": 1534,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T10:57:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-30-the-grandfather-of-ai-art-dall-e-is-now-free-for-you-to-try.md",
       "title": "The grandfather of AI art, DALL-E, is now free for you to try",
       "excerpt": "OpenAI has opened up the DALL-E AI art generator for anyone to try for free, with a credit system that replenishes monthly. It's simple, easy, and effective with the right prompts.",
@@ -660,21 +853,21 @@
       ]
     },
     {
-      "path": "_news/2022-09-29-write-text-get-video-meta-announces-ai-video-generator.md",
-      "title": "Write text, get video: Meta announces AI video generator",
-      "excerpt": "Video's announcement page, Meta shows example videos generated from text, including \"a young couple walking in heavy rain\" and \"\" It also showcases Make-A-Video's ability to take a static source image and animate it.",
+      "path": "_news/2022-09-29-metas-new-make-a-video-signals-the-next-generative-ai-evolution.md",
+      "title": "Meta’s new Make-a-Video signals the next generative AI evolution",
+      "excerpt": "Make-A-Video builds on AI image generation technology (including Meta's Make-A-Scene work from earlier this year)",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/09/write-text-get-video-meta-announces-ai-video-generator/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/09/write-text-get-video-meta-announces-ai-video-generator/",
+      "webUrl": "https://venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/",
+      "originalUrl": "https://venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 149,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/makevideo_teddy_hero-760x380.jpg",
-          "width": 760,
-          "height": 380,
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/make-a-video2.jpg?w=1200&strip=all",
+          "width": 767,
+          "height": 610,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -682,16 +875,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T08:39:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/amp/",
+      "publishedDateTime": "2022-09-29T09:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -707,6 +900,7 @@
         "news"
       ],
       "topics": [
+        "Facebook AI",
         "AI"
       ]
     },
@@ -1029,204 +1223,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-ai-based-surgical-robots-market-growth-and-future-analysis-exclusive-report-by-fortune-business-insights-2022.md",
-      "title": "AI-based Surgical Robots Market Growth and Future Analysis : Exclusive Report by Fortune Business Insights 2022",
-      "excerpt": "The \"AI-based Surgical Robots Market Size\" industry report contains detailed information on factors influencing",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-growth-and-future-analysis-exclusive-report-by-fortune-business-insights-2022-2022-09-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-growth-and-future-analysis-exclusive-report-by-fortune-business-insights-2022-2022-09-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-28T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-ai-powered-robots-have-become-nice-to-necessity-for-warehousing-automation.md",
-      "title": "AI-powered Robots Have Become Nice To Necessity For Warehousing Automation",
-      "excerpt": "AI-powered robots are based on the principles of human intelligence are defined as the way in which machines imitate human intelligence to perform simple and complex tasks",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-in/technology/ai-powered-robots-have-become-nice-to-necessity-for/436278",
-      "originalUrl": "https://www.entrepreneur.com/en-in/technology/ai-powered-robots-have-become-nice-to-necessity-for/436278",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1664430293-Untitleddesign-2022-09-29T111421176.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-28T22:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-intel-reveals-arc-a770-gpu-price-and-availability.md",
-      "title": "Intel Reveals Arc A770 GPU price and availability",
-      "excerpt": "Intel claims that its GPU offers up to 65% better peak performance versus competing products (presumably NVIDIA RTX 3060 series) in ray tracing. In addition, A770 features a full complement of 32 Xe Cores and ray tracing units.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digit.in/news/pc-components/intel-reveals-arc-a770-gpu-price-and-availability-65431.html",
-      "originalUrl": "https://www.digit.in/news/pc-components/intel-reveals-arc-a770-gpu-price-and-availability-65431.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.digit.in/default/6c05faa58515f2a238ad80b12e86c16810dc453c.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digit.in/article/amp/pc-components/65431/intel-reveals-arc-a770-gpu-price-and-availability",
-      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/pc-components/65431/intel-reveals-arc-a770-gpu-price-and-availability",
-      "publishedDateTime": "2022-09-28T18:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digit",
-        "domain": "digit.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-experts-warn-ai-assistants-are-hurting-the-social-development-of-children.md",
-      "title": "Experts warn AI assistants are hurting the social development of children",
-      "excerpt": "An analysis from Cambridge experts suggest that interactions with AI assistants like Alexa is impeding the social development of children and disrupt learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/mobile/digital-assistants-alexa-siri-research-affecting-social-growth-skills-children/",
-      "originalUrl": "https://www.digitaltrends.com/mobile/digital-assistants-alexa-siri-research-affecting-social-growth-skills-children/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2018/03/wear_os_google_assistant.jpg?p=1",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/mobile/digital-assistants-alexa-siri-research-affecting-social-growth-skills-children/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/digital-assistants-alexa-siri-research-affecting-social-growth-skills-children/?amp",
-      "publishedDateTime": "2022-09-28T17:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

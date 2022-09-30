@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.wric.com/wp-content/uploads/sites/74/2022/03/GettyImages-1295900106.jpg?w=1280"

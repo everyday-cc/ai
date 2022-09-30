@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Build flexible and scalable distributed training architectures using Kubeflow on AWS and Amazon SageMaker"
+    excerpt: "In this post, we demonstrate how Kubeflow on AWS (an AWS-specific distribution of Kubeflow) used with AWS Deep Learning Containers and Amazon Elastic File System (Amazon EFS) simplifies collaboration and provides flexibility in training deep learning models at scale on both Amazon Elastic Kubernetes"
+    publishedDateTime: 2022-09-30T17:56:21Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-flexible-and-scalable-distributed-training-architectures-using-kubeflow-on-aws-and-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 102
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/23/Solution-1228x630.png"
+        width: 1228
+        height: 630
+        isCached: true
   - title: "How Sophos trains a powerful, lightweight PDF malware detector at ultra scale with Amazon SageMaker"
     excerpt: "This post is co-authored by Salma Taoufiq and Harini Kannan from Sophos. As a leader in next-generation cybersecurity, Sophos strives to protect more than 500,000 organizations and millions of customers across over 150 countries against evolving threats. Powered by threat intelligence, machine learning"
     publishedDateTime: 2022-09-29T17:57:14Z
@@ -80,6 +94,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 85
+  - title: "Set up enterprise-level cost allocation for ML environments and workloads using resource tagging in Amazon SageMaker"
+    excerpt: "As businesses and IT leaders look to accelerate the adoption of machine learning (ML), there is a growing need to understand spend and cost allocation for your ML environment to meet enterprise requirements. Without proper cost management and governance, your ML spend may lead to surprises in your monthly"
+    publishedDateTime: 2022-09-28T16:21:14Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/set-up-enterprise-level-cost-allocation-for-ml-environments-and-workloads-using-resource-tagging-in-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 83
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/28/enterprise-level-cost-allocation-sagemaker.jpg"
+        width: 1534
+        height: 765
+        isCached: true
 
 secured: "t06MVpNhqa1zxKKvCY8dy+G87vs5okBgqWf71oe0dqE7AN7xMPf8FHUVlsGIGZmfueg40ePJLEdste30kXLe5yLAQWaNP6aQ77gTC5aipZqyakFetpKzOyR5cxVk8kOAE4qTLa5NwSbaKjoe3GUOeSQfOmBLVZe09dTs7bXVNUyqvA0UWV6tLxDbRPar62kslJxYXMiB/wOFTjaL5vFKMbPf5H//WorZxRUb/vdmrsse/me09kc/IjPbGqx9FFLWcVL3EfdTCdWV40snQ75wXpz9bstY+erWmI5q7R2AxfsVjTplNfjUB43vm/K5ftP/XhOHO/HfWXmPPY7wG+iGofZitY45YxWsDD8prS4gR9g=;dXevYjno91/nSUQ7pSUZ4A=="
 ---

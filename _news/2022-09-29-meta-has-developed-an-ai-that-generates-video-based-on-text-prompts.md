@@ -26,49 +26,95 @@ images:
     isCached: true
 
 related:
-  - title: "I tested out an AI art generator and here's what I learned"
-    excerpt: "How, then, do we fit art created by AI into that conception of art? If humanity defines art, is it enough to reduce the definition to keywords typed into a generator? It's a question that's not theoretical any more."
-    publishedDateTime: 2022-09-27T09:48:00Z
-    webUrl: "https://www.zdnet.com/article/i-tested-out-an-ai-art-generator-and-heres-what-i-learned/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/i-tested-out-an-ai-art-generator-and-heres-what-i-learned/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tested-out-an-ai-art-generator-and-heres-what-i-learned/"
+  - title: "Meta’s new Make-a-Video signals the next generative AI evolution"
+    excerpt: "Make-A-Video builds on AI image generation technology (including Meta's Make-A-Scene work from earlier this year)"
+    publishedDateTime: 2022-09-29T16:36:00Z
+    webUrl: "https://venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/"
+    ampWebUrl: "https://venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/09/make-a-video2.jpg?w=1200&strip=all"
+        width: 767
+        height: 610
+        isCached: true
+  - title: "Meta is using AI to generate videos from just a few words"
+    excerpt: "Artificial intelligence is getting better and better at generating an image in response to a handful of words, with publicly available AI image generators such as DALL-E 2 and Stable Diffusion. Now, Meta researchers are taking AI a step further: they're using it to concoct videos from a text prompt."
+    publishedDateTime: 2022-09-29T22:04:00Z
+    webUrl: "https://edition.cnn.com/2022/09/29/tech/meta-ai-text-to-video-research/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/09/29/tech/meta-ai-text-to-video-research/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/29/tech/meta-ai-text-to-video-research/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
     quality: 87
     images:
-      - url: "https://www.zdnet.com/a/img/resize/3c7a0a4ce38e5640fc0e31506189e1f5b9fde34d/2022/09/12/feb28106-dc94-4fd6-8b9c-c7994f44490c/midjourney.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 1200
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220929145441-meta-ai-text-to-video-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Who should own the copyright on AI-generated artwork?"
-    excerpt: "Artificial intelligences can create images inspired by the human-generated art they train on. This is raising concerns over copyright and artists’ livelihoods"
-    publishedDateTime: 2022-09-27T11:38:00Z
-    webUrl: "https://www.newscientist.com/article/2339118-who-should-own-the-copyright-on-ai-generated-artwork/"
+  - title: "Write text, get video: Meta announces AI video generator"
+    excerpt: "Video's announcement page, Meta shows example videos generated from text, including \"a young couple walking in heavy rain\" and \"\" It also showcases Make-A-Video's ability to take a static source image and animate it."
+    publishedDateTime: 2022-09-29T15:39:00Z
+    webUrl: "https://arstechnica.com/information-technology/2022/09/write-text-get-video-meta-announces-ai-video-generator/"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
     images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/09/27082001/SEI_126984592.jpg"
-        width: 1200
-        height: 800
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/makevideo_teddy_hero-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
-  - title: "Decipher the earliest languages, debate AI and learn about climate change research at START"
-    excerpt: "START (Start Talking About Research Today ) features music, debate, games, storytelling, screenings, and live experiments. Over 40 free events will showcase how Irish research is shaping society and offer people the chance to engage with the researchers leading the way."
-    publishedDateTime: 2022-09-26T11:34:00Z
-    webUrl: "https://www.tcd.ie/news_events/articles/decipher-the-earliest-languages-debate-ai-and-learn-about-climate-change-research-at-start/"
+  - title: "Make-A-Video with AI & a few words: Check out Meta’s new tool"
+    excerpt: "Meta CEO Mark Zuckerberg posted on Facebook on Thursday about the research, called Make-A-Video, with a 20-second clip that compiled several text prompts that Meta researchers used and the resulting ("
+    publishedDateTime: 2022-09-30T10:03:00Z
+    webUrl: "https://wraltechwire.com/2022/09/30/make-a-video-with-ai-a-few-words-check-out-metas-new-tool/"
+    ampWebUrl: "https://wraltechwire.com/2022/09/30/make-a-video-with-ai-a-few-words-check-out-metas-new-tool/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/09/30/make-a-video-with-ai-a-few-words-check-out-metas-new-tool/?amp=1"
     type: article
     provider:
-      name: Trinity College%2c Dublin
-      domain: www.tcd.ie
-    quality: 27
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 59
     images:
-      - url: "https://pxl-tcdie.terminalfour.net/prod01/channel_3/media/tcd/news-images/probe2016_6810-879X586.jpg"
-        width: 879
-        height: 586
+      - url: "https://wraltechwire.com/wp-content/uploads/2022/09/hypatia-h_03283525a8885fcfbfcb4766d4628f46-h_a463ea9a9fd8001bfba9f7fc89c66cfb.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Meta announces AI-based tool for generating video from text"
+    excerpt: "The tool builds on popular image-generation programs like DALL-E and appears to have won a race to extend the tech to video."
+    publishedDateTime: 2022-09-29T13:01:00Z
+    webUrl: "https://www.axios.com/2022/09/29/meta-ai-video-generation-tool"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 39
+    images:
+      - url: "https://images.axios.com/0Jj42RSF1GMh2XOz4W7TBd9siB0=/110x0:2048x1090/1366x768/2022/09/29/1664423203625.png"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "Meta debuts AI system that can generate videos from text"
+    excerpt: "Make-A-Video can take a few words or lines of text as input and use them to generate a clip that is a few seconds long. According to Meta, the AI system is also capable of producing video based on existing footage or images."
+    publishedDateTime: 2022-09-29T20:17:00Z
+    webUrl: "https://siliconangle.com/2022/09/29/meta-debuts-ai-system-can-generate-videos-text/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/meta.png"
+        width: 718
+        height: 399
         isCached: true
 
 secured: "Domzvtbk9Q8ad4ji7QQZYgDOCs/HAZgFBJZnaa0vPQfN553eNv8nQpGV56O5yA7RYFEbLSRm2OeDxRZxTaXzNOERTOCBl8Ts9cvOFP0xqHDCzpdIyiC4hxewkOUpgEBKZZFPoXptocj+sYh4MFYjk9sX4OtmsUsTyhu2sYhVzE0cyqlmdb5ZBu/VyW9BnMf7hzULfb9HjNWCdBEO13mjRK717aGskZFHh5Dw/fV4urG478T7rSm5HVeO9v6ecrrzyVh/oOHcY9XsuzhpppQtWm39Jk03DetaafMCNDw5a6jZisZkuF5ZnyTBQhLTECJpS9GGTKOv3E1N34Ko1uC42lFF3JaRkmeiqkfY878SNcfwkpIOFN4lCCBPY6xk0ps0Z2U96BFHlJXM6XT9kZKNFFKvjXJkfBM4VWmDutsUigLHI0M+MoURtnxO2xzXM4jWxMb4V0apx7V1WKoak3Hnhgc+tgiYZnN8fWSBsoq2I6nXzHCYPzwkJCvMEqYpXW/hB+7o+wlMPJMbWZqu0Qu5LQ==;98Q9otCezHk5KgbtX99jtQ=="

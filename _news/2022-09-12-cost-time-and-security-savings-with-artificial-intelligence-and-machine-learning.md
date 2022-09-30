@@ -18,6 +18,7 @@ topics:
   - AI
   - Machine Learning
   - AI in Security
+  - AI in Finance
 
 related:
   - title: "Losing to China in AI, Emerging Tech Will Cost U.S. Trillions, Threaten Security, Says Panel"

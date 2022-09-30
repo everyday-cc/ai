@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-05-best-robot-vacuums-for-pet-hair-in-2022.md",
+      "title": "Best robot vacuums for pet hair in 2022",
+      "excerpt": "Remote control If your robot vacuum cleaner doesn’t connect ... and clean it regularly as specified in your manual. Bear in mind that the filter will also need to be replaced occasionally ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/best-picks/best-robot-vacuums-for-pet-hair",
+      "originalUrl": "https://www.tomsguide.com/best-picks/best-robot-vacuums-for-pet-hair",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/EhA9BQe9x9vyV97ypphW5C-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-05T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-05-warehouse-robotics-market-to-reach-value-of-us-157-billion-by-2031-states-tmr-analysis.md",
       "title": "Warehouse Robotics Market to Reach Value of US$ 15.7 Billion by 2031, States TMR Analysis",
       "excerpt": "The warehouse robotics market is projected to expand at a CAGR of 13.3% during 2022-2031Surge in adoption of warehouse automation in the e-commerce industry is fueling the sales growth in the marketTh",
@@ -1309,49 +1352,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-28-startup-develops-ai-that-makes-call-center-employees-sound-like-white-american-robots.md",
-      "title": "Startup develops AI that makes call center employees sound like white, American robots",
-      "excerpt": "This time around, Palo Alto-based startup Sanas has introduced to the world an AI with the goal of making foreign call center employees sound accent-neutral, and the effect of making them sound white.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/ai-startup-makes-call-center-foreigners-sound-white",
-      "originalUrl": "https://mashable.com/article/ai-startup-makes-call-center-foreigners-sound-white",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/06flaA2qTkuYtTU1N3cKsg0/hero-image.fill.size_1200x675.v1661618885.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-27T23:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

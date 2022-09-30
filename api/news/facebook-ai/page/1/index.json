@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-29-metas-new-make-a-video-signals-the-next-generative-ai-evolution.md",
+      "title": "Meta’s new Make-a-Video signals the next generative AI evolution",
+      "excerpt": "Make-A-Video builds on AI image generation technology (including Meta's Make-A-Scene work from earlier this year)",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/",
+      "originalUrl": "https://venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/make-a-video2.jpg?w=1200&strip=all",
+          "width": 767,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/amp/",
+      "publishedDateTime": "2022-09-29T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-27-intel-geti-and-openvino-efforts-advance-ai-and-computer-vision.md",
       "title": "Intel Geti and OpenVINO efforts advance AI and computer vision",
       "excerpt": "Intel launches new platform with Geti to help make it easier for users to build computer vision models that can be deployed using OpenVINO.",
@@ -1437,41 +1489,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-lightning-ai-brings-on-pytorch-lead-to-expand-deep-learning-leadership.md",
-      "title": "Lightning AI Brings on PyTorch Lead to Expand Deep Learning Leadership",
-      "excerpt": "Mike Ruberry, core PyTorch technical lead, joins Lightning AI as chief engineer of the PyTorch teamNew hire signals beginning of PyTorch team at the New Yo",
-      "sourceUrl": null,
-      "webUrl": "https://www.generation-nt.com/lightning-ai-brings-on-pytorch-lead-to-expand-deep-learning-leadership-newswire-2004818.html",
-      "originalUrl": "https://www.generation-nt.com/lightning-ai-brings-on-pytorch-lead-to-expand-deep-learning-leadership-newswire-2004818.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-07T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GNT",
-        "domain": "generation-nt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

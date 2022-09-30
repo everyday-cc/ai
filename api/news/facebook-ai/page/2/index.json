@@ -2,6 +2,41 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-08-lightning-ai-brings-on-pytorch-lead-to-expand-deep-learning-leadership.md",
+      "title": "Lightning AI Brings on PyTorch Lead to Expand Deep Learning Leadership",
+      "excerpt": "Mike Ruberry, core PyTorch technical lead, joins Lightning AI as chief engineer of the PyTorch teamNew hire signals beginning of PyTorch team at the New Yo",
+      "sourceUrl": null,
+      "webUrl": "https://www.generation-nt.com/lightning-ai-brings-on-pytorch-lead-to-expand-deep-learning-leadership-newswire-2004818.html",
+      "originalUrl": "https://www.generation-nt.com/lightning-ai-brings-on-pytorch-lead-to-expand-deep-learning-leadership-newswire-2004818.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-07T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GNT",
+        "domain": "generation-nt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-07-facebook-is-trying-to-be-more-like-tiktok-whistleblower-says-its-a-bad-idea.md",
       "title": "Facebook Is Trying To Be More Like TikTok. Whistleblower Says It's A 'Bad Idea'",
       "excerpt": "Facebook whistleblower Frances Haugen isn't a fan of the social media giant's efforts to become more like short-form video app TikTok. \"The world that they're choosing to go towards is one where you have to do censorship to be safe and I think that's a bad idea,",
@@ -1391,58 +1426,6 @@
         "AI in Finance",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-new-gartner-survey-only-half-of-ai-models-make-it-into-production.md",
-      "title": "New Gartner survey: Only half of AI models make it into production",
-      "excerpt": "A new artificial intelligence survey from Gartner reported that, on average, only 54% of AI models move from pilot to production.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/new-gartner-survey-only-half-of-ai-models-make-it-into-production/",
-      "originalUrl": "https://venturebeat.com/ai/new-gartner-survey-only-half-of-ai-models-make-it-into-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1134028859-e1653340548357.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/new-gartner-survey-only-half-of-ai-models-make-it-into-production/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/new-gartner-survey-only-half-of-ai-models-make-it-into-production/amp/",
-      "publishedDateTime": "2022-08-22T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

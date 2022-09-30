@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-07-11-that-everyday-ai-in-your-pocket.md",
+      "title": "That everyday AI in your pocket",
+      "excerpt": "Apple’s Photos and Google Photos use AI in several ways — facial recognition, scene detection, image analysis — to sort pictures of people, places and things into albums. This saves you from manually tagging everything and makes it easier to find specific photos.",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/science-tech/some-ai-driven-apps-and-how-to-use-them/cid/1874107",
+      "originalUrl": "https://www.telegraphindia.com/science-tech/some-ai-driven-apps-and-how-to-use-them/cid/1874107",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telegraphindia.com/telegraph/2022/Jul/1657492588_new-project-2022-07-11t040527-511.jpg",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraphindia.com/amp/science-tech/some-ai-driven-apps-and-how-to-use-them/cid/1874107",
+      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/science-tech/some-ai-driven-apps-and-how-to-use-them/cid/1874107",
+      "publishedDateTime": "2022-07-10T15:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-08-researchers-develop-self-calibrated-photonic-chip.md",
       "title": "Researchers Develop Self-calibrated Photonic Chip",
       "excerpt": "The connectivity of current optical chips has been revolutionised, and a wafer thin slice of silicon has replaced cumbersome 3D-optics! In research led by Monash and RMIT Universities in Melbourne, a sophisticated photonic integrated circuit establishes bridges between data superhighways.",
@@ -1392,58 +1435,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-nvidia-partners-with-runai-and-weights-biases-for-mlops-stack.md",
-      "title": "Nvidia partners with Run:ai and Weights & Biases for MLops Stack",
-      "excerpt": "In a bid to help make machine learning workflow lifecycles easier for data scientists, AI compute orchestration vendor Run:ai and MLops platform vendor Weights & Biases (W&B), are partnering with Nvidia.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/27/nvidia-partners-with-runai-and-weights-biases-for-mlops-stack/",
-      "originalUrl": "https://venturebeat.com/2022/06/27/nvidia-partners-with-runai-and-weights-biases-for-mlops-stack/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_751715872.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/27/nvidia-partners-with-runai-and-weights-biases-for-mlops-stack/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/27/nvidia-partners-with-runai-and-weights-biases-for-mlops-stack/amp/",
-      "publishedDateTime": "2022-06-27T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

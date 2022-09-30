@@ -2,6 +2,223 @@
   "page": 146,
   "value": [
     {
+      "path": "_news/2022-06-08-lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services.md",
+      "title": "Lilt Included in 2022 Gartner® Market Guide for AI-Enabled Translation Services",
+      "excerpt": "\"Lilt enables businesses to create personalized experiences for their customers and prospects in the language that ... and availability of translation services. AI can be used to automate and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services/article_a9b03129-80e1-5238-b1f0-f19e3ed61c5d.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services/article_a9b03129-80e1-5238-b1f0-f19e3ed61c5d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-08-alphabets-waymo-uber-freight-in-deal-for-future-self-driving-trucks.md",
+      "title": "Alphabet's Waymo, Uber Freight in deal for future self-driving trucks",
+      "excerpt": "Waymo Via, the self-driving trucking unit of Alphabet Inc (GOOGL.O), and Uber Technology Inc's (UBER.N) Freight business on Tuesday said they signed a long-term strategic partnership that would ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/companies/alphabets-waymo-uber-freight-in-deal-for-future-self-driving-trucks-8656351.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/companies/alphabets-waymo-uber-freight-in-deal-for-future-self-driving-trucks-8656351.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2018/01/Diesel-trucks.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/companies/alphabets-waymo-uber-freight-in-deal-for-future-self-driving-trucks-8656351.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/companies/alphabets-waymo-uber-freight-in-deal-for-future-self-driving-trucks-8656351.html/amp",
+      "publishedDateTime": "2022-06-07T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-cognitive-therapy-relaxation-training-both-beneficial-for-migraine.md",
+      "title": "Cognitive therapy, relaxation training both beneficial for migraine",
+      "excerpt": "For adults with migraine, migraine-specific, integrative cognitive behavioral therapy (miCBT) and relaxation training (RLX) are both beneficial, with no significant between-group difference seen ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-06-cognitive-therapy-beneficial-migraine.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-06-cognitive-therapy-beneficial-migraine.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/cognitive-therapy-rela.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-06-cognitive-therapy-beneficial-migraine.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-cognitive-therapy-beneficial-migraine.amp",
+      "publishedDateTime": "2022-06-07T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-why-has-microsoft-stock-been-falling-will-it-rebound.md",
+      "title": "Why Has Microsoft Stock Been Falling; Will It Rebound?",
+      "excerpt": "All up, the number of customers who trust our security solutions grew nearly 50% year-over-year to 785,000… In AI, we continue to see strong usage of Azure Machine Learning. The number of ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4516896-why-has-microsoft-stock-been-falling",
+      "originalUrl": "https://seekingalpha.com/article/4516896-why-has-microsoft-stock-been-falling",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/84216309/image_84216309.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-how-infojobs-adevinta-improves-nlp-model-prediction-performance-with-aws-inferentia-and-amazon-sagemaker.md",
+      "title": "How InfoJobs (Adevinta) improves NLP model prediction performance with AWS Inferentia and Amazon SageMaker",
+      "excerpt": "This is a guest post co-written by Juan Francisco Fernandez, ML Engineer in Adevinta Spain, and AWS AI/ML Specialist Solutions Architects Antonio Rodriguez and João Moura. InfoJobs, a subsidiary company of the Adevinta group, provides the perfect match between candidates looking for their next job position",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-infojobs-adevinta-improves-nlp-model-prediction-performance-with-aws-inferentia-and-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-infojobs-adevinta-improves-nlp-model-prediction-performance-with-aws-inferentia-and-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/17/ML-8163-options-diagram.jpg",
+          "width": 979,
+          "height": 527,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T09:06:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-alphabets-waymo-uber-freight-in-deal-for-future-self-driving-trucks.md",
       "title": "Alphabet's Waymo, Uber Freight In Deal For Future Self-driving Trucks",
       "excerpt": "Waymo Via, the self-driving trucking unit of Alphabet Inc, and Uber Technology Inc's Freight business on Tuesday said they signed a long-term strategic partnership that would allow future customers to deploy autonomous trucks more efficiently.",
@@ -899,233 +1116,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-ibm-bolsters-cyber-security-offerings-with-randori-acquisition.md",
-      "title": "IBM bolsters cyber security offerings with Randori acquisition",
-      "excerpt": "IBM hopes the acquisition will advance its hybrid cloud and AI skills and capabilities. This will be its fourth acquisition of 2022 and it revealed it has acquired over 20 companies since Arvind ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/368106/ibm-bolsters-cyber-security-offerings-with-randori-buy",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/368106/ibm-bolsters-cyber-security-offerings-with-randori-buy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1594223123/itpro/IBM_building_shutterstock.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-video-students-of-bengaluru-school-get-brand-new-robotics-artificial-intelligence-lab.md",
-      "title": "Video | Students of Bengaluru school get brand new Robotics & Artificial Intelligence lab",
-      "excerpt": "National English School in Bengaluru has set up a Robotics and Artificial Intelligence (AI) Lab in its campus in collaboration with Intel and Sirena Technologies. The lab was inaugurated by Chief Minister Basavaraj Bommai on June 6,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/cities/bangalore/video-sd-of-bengaluru-school-get-robotics-artificial-intelligence-lab/article65503486.ece",
-      "originalUrl": "https://www.thehindu.com/news/cities/bangalore/video-sd-of-bengaluru-school-get-robotics-artificial-intelligence-lab/article65503486.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/news/cities/bangalore/cd54jc/article65503499.ece/alternates/LANDSCAPE_615/Robotics%20and%20Artificial%20Intelligence%20AI%20Lab%20in%20National%20High%20School%20Basavanagudi%20Bengaluru.jpg",
-          "width": 615,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/cities/bangalore/video-sd-of-bengaluru-school-get-robotics-artificial-intelligence-lab/article65503486.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/bangalore/video-sd-of-bengaluru-school-get-robotics-artificial-intelligence-lab/article65503486.ece/amp/",
-      "publishedDateTime": "2022-06-07T03:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-defacto-a-french-fintech-startup-that-offers-loans-to-small-businesses-just-raised-16-million-using-a-15-slide-pitch-deck.md",
-      "title": "Defacto, a French fintech startup that offers loans to small businesses, just raised $16 million using a 15-slide pitch deck",
-      "excerpt": "French fintech startup Defacto has raised $16 million in fresh funding ... Defacto's products by optimizing its underwriting using business revenues, invoices, and AI. The Series A round was led by Northzone, with additional backing from previous backers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/defacto-french-embedded-finance-startup-raises-16m-from-northzone-2022-6",
-      "originalUrl": "https://www.businessinsider.com/defacto-french-embedded-finance-startup-raises-16m-from-northzone-2022-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/629e27cc7bc6a80018b67f15?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-silicon-overdrive-achieves-100-aws-certifications.md",
-      "title": "Silicon Overdrive achieves 100 AWS certifications",
-      "excerpt": "Over the past 25 years, Silicon Overdrive has gained various achievements including AWS Public Sector Partner of the Year – Sub-Saharan Africa 2021 and AWS Consulting Partner of the Year – Sub ...",
-      "sourceUrl": null,
-      "webUrl": "https://mybroadband.co.za/news/industrynews/447422-silicon-overdrive-achieves-100-aws-certifications.html",
-      "originalUrl": "https://mybroadband.co.za/news/industrynews/447422-silicon-overdrive-achieves-100-aws-certifications.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mybroadband.co.za/news/industrynews/447422-silicon-overdrive-achieves-100-aws-certifications.html/amp",
-      "cdnAmpWebUrl": "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/447422-silicon-overdrive-achieves-100-aws-certifications.html/amp",
-      "publishedDateTime": "2022-06-07T01:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyBroadband",
-        "domain": "mybroadband.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-ampd-signs-deal-with-variational-ai-to-increase-its-machine-learning-platform-at-dc1.md",
-      "title": "AMPD Signs Deal with Variational AI to Increase Its Machine Learning Platform at DC1",
-      "excerpt": "VANCOUVER, BC / ACCESSWIRE / June 6, 2022 / AMPD Ventures Inc. (CSE:AMPD) (OTCQB:AMPDF) (FRA:2Q0) ('AMPD' or the 'Company'), a next-generation digital infrastructure provider, is pleased to announce that it has signed a deal with Variational AI Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/272577578/ampd-signs-deal-with-variational-ai-to-increase-its-machine-learning-platform-at-dc1",
-      "originalUrl": "https://www.bignewsnetwork.com/news/272577578/ampd-signs-deal-with-variational-ai-to-increase-its-machine-learning-platform-at-dc1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1655614273766.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T19:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

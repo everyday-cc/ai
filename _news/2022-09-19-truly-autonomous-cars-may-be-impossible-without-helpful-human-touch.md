@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Truly autonomous cars may be impossible without helpful human touch"
-excerpt: "MILTON KEYNES, England (Reuters) -Autonomous vehicle (AV) startups have raised tens of billions of dollars based on promises to develop truly self-driving cars, but industry executives and experts say remote human supervisors may be needed permanently to help robot drivers in trouble."
-publishedDateTime: 2022-09-19T16:31:00Z
-originalUrl: "https://www.investing.com/news/world-news/truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-2894928"
-webUrl: "https://www.investing.com/news/world-news/truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-2894928"
+excerpt: "The central premise of autonomous vehicles - that computers and artificial intelligence will dramatically reduce accidents caused by human error - has driven much of the research and investment. But there is a catch: Making robot cars that can drive more safely than people is immensely tough because self-driving software systems simply lack humans' ability to predict and assess risk quickly,"
+publishedDateTime: 2022-09-19T15:41:00Z
+originalUrl: "https://ca.investing.com/news/world-news/truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-2774293"
+webUrl: "https://ca.investing.com/news/world-news/truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-2774293"
 type: article
 
 provider:
@@ -15,6 +15,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "wN6WDEYbD7jplTtxVgfjH7A0TB9V8nbatym5OZoiBtSXrq8rR2NxiSU64Qpof3w9kU73bxP68+l6KPOfvHbW07NLzGPFBWk/dA+12Tl31DKUoUmcbzXvYWSSKKThiwhG/nVpIP6+w9pnrW+zYVYh8ubFWNfRik+0fkO9KOXye4q4ayZ10dskir1JKs05AkJ0r9xJb8zjpw84xH4tmT2x/1pES5krS5OdVH71SYY7ng9p4OQ9HBtJ5QypoPMx9OhrIqsrWgW5oUgkhs7n1IqsTEXqK/rJlrTy5CcW6Ukq0FLbttuvYAyVlQbbPPYV3DDsS2cCJnnw70P6ret4M3hyKDAjXNRJpprWW81kHZnzo7WCGD+Ld4yOORQLS8dsHLd9sT3To3xK8guMlphWeBV80RIJYFh5G53Kjr2fPVdnoROJ1jX2PItrUFeL0ZtUbT6btUzr7iqwrHm17uY96HBgn3baI9T1SgwWMjxmJ0OL4uZWGq4cCA7aSUfOKZlPg9IbHnO4IN+CqTyvM03BbPxHvg==;Ht/IwbcZLGyn5rrtjB8ZRQ=="
+images:
+  - url: "https://i-invdn-com.investing.com/news/LYNXMPED040R3_L.jpg"
+    width: 800
+    height: 533
+    isCached: true
+
+secured: "1mqJJYC/8S+Uia5ucMOldE1qpcjPccOTMd2NEosMasfT8faupI3hV+6dOwSYXHQtzEZjyn2XfaxZ9eVXqT+nmv4E88BPpwyGtVguOrhfxlVPAiNhBMgV/OgFsSYBa6IuIMk9vNBKPfOpDDq1aglzTa7Sao8pzPCZyRa74wpOvrk5vdR64xP5JAsreWJbIYLvKFVhHfgqWECdKEalsEnnPFVlfbt4KSsr//BjZfJI1WXDMDpDEjmj8qUVFJtbgH4cIWe4HFprRNqV8e3VC6om9kE7a7D3nTaEkXp/pXRPl89Ua5nuZhNF3TS7cs+JFKFZhDdvjWnPRc1a9X01ytRs44++sdm1dBrt6ZrQTwOYDjs=;CiG0JFxEdVTTQl3KZctMVw=="
 ---
 

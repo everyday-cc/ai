@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Anyone can now use powerful AI tools to make images. What could possibly go wrong?"
-excerpt: "If you’ve ever wanted to use artificial intelligence to quickly design a hybrid between a duck and a corgi, now is your time to shine. On Wednesday, OpenAI announced that anyone can now use the most recent version of its AI-powered DALL-E tool to generate a seemingly limitless range of images just by typing in a few words,"
-publishedDateTime: 2022-09-30T11:53:00Z
-originalUrl: "https://keyt.com/news/2022/09/30/anyone-can-now-use-powerful-ai-tools-to-make-images-what-could-possibly-go-wrong/"
-webUrl: "https://keyt.com/news/2022/09/30/anyone-can-now-use-powerful-ai-tools-to-make-images-what-could-possibly-go-wrong/"
+excerpt: "If you've ever wanted to use artificial intelligence to quickly design a hybrid between a duck and a corgi, now is your time to shine."
+publishedDateTime: 2022-09-30T16:25:00Z
+originalUrl: "https://localnews8.com/life/technology/2022/09/30/anyone-can-now-use-powerful-ai-tools-to-make-images-what-could-possibly-go-wrong/"
+webUrl: "https://localnews8.com/life/technology/2022/09/30/anyone-can-now-use-powerful-ai-tools-to-make-images-what-could-possibly-go-wrong/"
 type: article
-quality: 13
-heat: 13
+quality: 33
+heat: 33
 published: false
 
 provider:
-  name: KEYT
-  domain: keyt.com
+  name: Local News 8
+  domain: localnews8.com
 
 topics:
   - Facebook AI
   - AI
 
-secured: "ZL2B1rDwL+MLmMJQ8+v3eHVR5XJ3QdY84GAZVtoAYeW2D5V9xTHwaTVYo1t9uwijMEVw1gnS/rhuBVOVApnGsxV37O7fIc4m2bTISyt5Mt2+E3EEZEqxusFistZc+JVz/JbyEUB8Ou6yDRCkv9YzQL0Okq8y8+6s16HhF3uyx+GUCai3dGwMtAPne1qJJNMCU0BVIWuTymX//OvWj6i0AYw5KR6CX6UdfoxTWa+V/U5VlE9FsmioG3OIn5PIVHRoVyB/5RqpObh2xy/1OOB8TqW/3v5Y3G9vMNS9F39HsW0HKTTSQUefVix6akagRiGIzdirKYWfsWSJRnMVju+UQ5WA/21bIi++2IXnpNLs2/0=;2B1IIopuwBEGRNnhF7Wq5g=="
+images:
+  - url: "https://localnews8.b-cdn.net/2022/09/hypatia-h_f1d7406a44b77e44a11fe180b724d655-h_526e72dcb41c83dd4880165dd446fa8a-300.jpg"
+    width: 1600
+    height: 1600
+    isCached: true
+
+secured: "KJUy1MuSjsZm8XkRbdDjOPR8Ph3Mip68S7xqV3R5IrVrcOK7jmtAGfEX7xsbNXpwAr5AxVgg756UYp45UFctrxvza1YhPWpWKeoB3u/wUknmadGTKdD+RSVQiB38A96dLOzpWpfmbuTjnHEUagZRhFnqkmk63FCLB81UduvvLM/XDltOuYHF2s4x0ouMn84XyyMav7mV3h0TqYmwdHc/P+yoKttLMTPdS076FXWoGMCD24F5bUW84C8v3c5zxZ2BjzcdSMLyoK+eyC/Yz4xXMQ/uHSO82T3qhj3ad7m/p3cpRdd8k2be6dt6L+QlN7snQD87vH2pcaBGxsWcw69Zc9jJIocJsAm6hHz95plUZ8o=;utDDMGT6BXpbbZE1pHPgaA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/i-tested-out-an-ai-art-gene
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tested-out-an-ai-art-generator-and-heres-what-i-learned/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta has developed an AI that generates video based on text prompts"
-    excerpt: "Meta has today unveiled an AI system that generates short videos based on text prompts. Make-A-Video lets you type in a string of words, like “A dog wearing a superhero outfit with a red cape flying through the sky” and it generates a 5-second video that,"
-    publishedDateTime: 2022-09-29T13:02:00Z
-    webUrl: "https://www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/09/dog-gif.gif?w=512"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Who should own the copyright on AI-generated artwork?"
     excerpt: "Artificial intelligences can create images inspired by the human-generated art they train on. This is raising concerns over copyright and artists’ livelihoods"
     publishedDateTime: 2022-09-27T11:38:00Z

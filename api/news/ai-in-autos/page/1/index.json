@@ -10,7 +10,7 @@
       "originalUrl": "https://electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -63,7 +63,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 341,
+      "heat": 373,
       "tags": null,
       "images": [
         {
@@ -104,7 +104,8 @@
       "topics": [
         "AI in Robotics",
         "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AI Hardware"
       ]
     },
     {
@@ -454,17 +455,17 @@
     {
       "path": "_news/2022-09-23-volkswagen-concept-previews-tomorrows-driverless-rental-pods.md",
       "title": "Volkswagen concept previews tomorrow's driverless rental pods",
-      "excerpt": "Artificial intelligence and platooning – fully autonomous driving in convoys – have been factored in to further increase the range for long-distance journeys, Volkswagen adds. Head of ...",
+      "excerpt": "When (if?) cars become properly driverless, why not make them glassy pods with beds, desks and AR entertainment for the kids?",
       "sourceUrl": null,
-      "webUrl": "https://www.perthnow.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334177",
-      "originalUrl": "https://www.perthnow.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334177",
+      "webUrl": "https://7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195",
+      "originalUrl": "https://7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.perthnow.com.au/publication/C-8334177/099020eebdcba6ebf61b69402bf2175d183a40b6-16x9-x0y173w3805h2140.png?imwidth=1200",
+          "url": "https://images.7news.com.au/publication/C-8334195/8b834ff686026c4ce8d0ecc99ee023286661aef2-16x9-x0y173w3805h2140.png?imwidth=1200",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -474,13 +475,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.perthnow.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334177.amp",
-      "cdnAmpWebUrl": "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334177.amp",
-      "publishedDateTime": "2022-09-23T06:37:00-07:00",
+      "ampWebUrl": "https://7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195.amp",
+      "cdnAmpWebUrl": "https://7news-com-au.cdn.ampproject.org/c/s/7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195.amp",
+      "publishedDateTime": "2022-09-22T18:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Perth Now",
-        "domain": "perthnow.com.au",
+        "name": "7NEWS",
+        "domain": "7news.com.au",
         "images": null,
         "publishers": null,
         "authors": null

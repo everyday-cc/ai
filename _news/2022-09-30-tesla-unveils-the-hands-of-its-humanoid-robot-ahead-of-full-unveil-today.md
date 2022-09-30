@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/am
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/amp/"
 type: article
 quality: 105
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla AI Day in Palo Alto: Here’s what to expect"
+    excerpt: "Tesla will hold its second annual AI Day in Palo Alto Friday evening. The 6-hour event will include updates on Tesla’s work in AI, “Full Self-Driving,” its supercomputer"
+    publishedDateTime: 2022-09-30T17:49:00Z
+    webUrl: "https://www.eastbaytimes.com/2022/09/30/tesla-ai-day-in-palo-alto-heres-what-to-expect/"
+    ampWebUrl: "https://www.eastbaytimes.com/2022/09/30/tesla-ai-day-in-palo-alto-heres-what-to-expect/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/09/30/tesla-ai-day-in-palo-alto-heres-what-to-expect/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 76
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/09/hypatia-h_5f674fbb74773d0b1a5da54f0814323e-h_2c8f0881fb060bc947bc53300013629c.jpg?w=1024&h=575"
+        width: 1024
+        height: 575
+        isCached: true
   - title: "Factbox-The challenges automakers, and now Tesla, face with humanoid robots"
     excerpt: "Tesla (NASDAQ: TSLA )'s CEO Elon Musk is set to unveil its prototype humanoid robots at an event on Sept. 30, hoping to expand beyond self-driving cars that have not yet become reality despite his repeated promises."
     publishedDateTime: 2022-09-26T16:56:00Z
@@ -63,6 +79,6 @@ related:
         height: 350
         isCached: true
 
-secured: "/rSW5b/SCgmfpa+5TIVvv/1XafDS9JaTojn40oNPsexipCUwK1YoeN90P+pd3FaHcLxmm2MFXrNh/9/NBLPYEs/7DvAEIUbfpV+WY3SkPscaSnkqPvOO01N7HvD0F/Lc4gh7XPVPz+6OhbcngqzJ0SnJwK0KVqQ+RHF0U7mMPpvvRMmHkz88FBP7BTmSw70UnXzIYIYgJCN/A6uFWmMrZ8/q2jDDLPehRmbLK/HnHGtkOawxF5HAjsia7mzt5h1zis2zNrlk6IJi+piv7pHOdGd8gZwxvPqpTA+JP+EK42n1vSqS3MV0w/GyH13iL7qCBrV7pFLb5ugDfr2TrnlRzMyIL+qoOOJWZf/p3f8akfw=;KVjk24GbJCtWC19amfbiMg=="
+secured: "rQOaI45AIm876y2UbeTEQBS8hg/Jr2gnSJglESbSX95DAooke3KdQHVRNbKBtojXgCuvqemHZ8ytvIx8yXp4Baqh6O72mKBBnxhCUjr9hoN3NE89jcLixyM8H29unmeoYBP6/GonJDIx/P9U6o4s1twr/fqcVJvY0OStYcIuNRoqqGLjxbOvYFvTb/l/bR5DNPvYqegNB1FDx3T10ev6iEMwhl/CcEAWN/Uu+alHUDkY+hRG9po91ollRCFXYhmHYPaPVmcnKdVGavcXhSWT6YSkxCx9slxWOY0zs3RMdVudxoxj0irKzmEhetBsP83DyXTqRXRzzZcHwibJ0HFgyBi39VAIqvXasTO0ZYNaAcLuLWASY6pPrsCGeMmD91FINmQIsuMZqCxq1V9pzXls/4B957AbaIYuhgqV+9Fl2BZumOgqB6C8nudfi0o5Kr9bKhfujV27yf82GH2nUw5CHUrlpOsI6RrvwXP+nhGMw397JCZJX6u37foJrWeEfmXzWVR1xOQXHb3gZVXKufk+ug==;yxNpA7bFArxHyy49dZrjnA=="
 ---
 
