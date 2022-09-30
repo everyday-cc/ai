@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-28T07:00:00Z
 originalUrl: "https://www.macaubusiness.com/polyu-announces-new-programmes-and-optimised-flexible-admission-arrangements-for-2023-24-offering-a-variety-of-alternative-admission-routes-to-students-with-special-talents/"
 webUrl: "https://www.macaubusiness.com/polyu-announces-new-programmes-and-optimised-flexible-admission-arrangements-for-2023-24-offering-a-variety-of-alternative-admission-routes-to-students-with-special-talents/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Macau Business

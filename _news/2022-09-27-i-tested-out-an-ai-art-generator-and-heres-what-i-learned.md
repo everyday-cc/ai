@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/i-tested-out-an-ai-art-gene
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tested-out-an-ai-art-generator-and-heres-what-i-learned/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Why This Online Archivist Isn't Feeling Much Angst About AI-Generated Art"
-    excerpt: "Scott, an archivist and curator at the Internet Archive(Opens in a new window), treated the audience to a slideshow of AI illustrations drawn for such requests as “a lion using a laptop, in the style of an old tapestry\" or “Godzilla at the signing of the Declaration of Independence."
-    publishedDateTime: 2022-09-25T19:40:00Z
-    webUrl: "https://www.pcmag.com/news/why-this-online-archivist-isnt-feeling-much-angst-about-ai-generated-art"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 46
   - title: "Who should own the copyright on AI-generated artwork?"
     excerpt: "Artificial intelligences can create images inspired by the human-generated art they train on. This is raising concerns over copyright and artists’ livelihoods"
     publishedDateTime: 2022-09-27T11:38:00Z

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "New report offers blueprint for regulation of facial recognition technology"
-excerpt: "SYDNEY, Sept. 26, 2022 /PRNewswire/ -- A new report from the University of Technology Sydney (UTS) Human Technology Institute outlines a model law for facial recognition technology to protect ..."
-publishedDateTime: 2022-09-26T23:47:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/n29023402/new-report-offers-blueprint-for-regulation-of-facial-recognition-technology"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/n29023402/new-report-offers-blueprint-for-regulation-of-facial-recognition-technology"
-ampWebUrl: "https://www.benzinga.com/amp/content/29023402"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29023402"
+excerpt: "Human Technology Institute outlines a model law for facial recognition technology to protect against harmful use of this technology, but also foster innovation for public benefit."
+publishedDateTime: 2022-09-26T23:00:00Z
+originalUrl: "https://techxplore.com/news/2022-09-blueprint-facial-recognition-technology.html"
+webUrl: "https://techxplore.com/news/2022-09-blueprint-facial-recognition-technology.html"
+ampWebUrl: "https://techxplore.com/news/2022-09-blueprint-facial-recognition-technology.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-blueprint-facial-recognition-technology.amp"
 type: article
 quality: 57
 heat: 167
 published: true
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/28171512/image-55-1024x683.png"
-    width: 1024
-    height: 683
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/facial-recognition.jpg"
+    width: 1920
+    height: 1274
     isCached: true
 
 related:
@@ -55,21 +55,21 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Avoiding a surveillance society: how better rules can rein in facial recognition tech"
-    excerpt: "The Facial Recognition Model Law Project, to which this article refers, was undertaken by HTI, with funding from UTS and support from the UTS Centre for Social Justice & Inclusion. UTS has ..."
-    publishedDateTime: 2022-09-27T01:40:00Z
-    webUrl: "https://theconversation.com/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
-    ampWebUrl: "https://theconversation.com/amp/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
+  - title: "Avoiding a surveillance society: How better rules can rein in facial recognition tech"
+    excerpt: "The human face is special. It is simultaneously public and personal. Our faces reveal sensitive information about us: who we are, of course, but also our gender, emotions, health status and more."
+    publishedDateTime: 2022-09-27T15:40:00Z
+    webUrl: "https://techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.html"
+    ampWebUrl: "https://techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.amp"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
+      name: techxplore
+      domain: techxplore.com
     quality: 52
     images:
-      - url: "https://images.theconversation.com/files/486445/original/file-20220926-14387-rumoex.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/avoiding-a-surveillanc.jpg"
+        width: 1356
+        height: 668
         isCached: true
   - title: "Oosto offers advice on facial recognition implementations for stadium security"
     excerpt: "The paper offers advice on how to use computer vision systems with facial recognition to improve safety and security outcomes at large-scale events."
@@ -176,6 +176,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "1RFDhV+zq+lRADANMwHcrUWyfsh65yFnOgNGNGGCvWPJVeOrl6MVA7S9P+i22q+1lVgP4Wlo+Y/uyTwImQOyns/9dlqePwrsi7E+/2maET+R9HDcsnqFRwco0u8xhaS0TQaqV9FM0tBcFe/y6xcv/XidMT5Cz9gCdQM0xYG2yPmxcaQhXxf8eGcZt2yCtzRY4SjiBdZUCwaGULYhFKqQvNFgIt8e2DTI0ocqafjf0vDhucX4L0cdoUvKXwyA34n2droAHsO9x+1dHGVeN1ZtpPOTYPEm39jxOoTF1SwLVDDOZSD39CV/CaNe1ZWpEU5ipzDk7m+MnvYtMgia9pOx3i7REHO3U0Cp9QgRa6kQSzo=;VMO+/bkVeZGnGwW1v3R+1w=="
+secured: "TXfj6frzt3z/M63pjgvt55z4GTh9hNIaup3XQGtjfZX97EX8/I617yWL2E8PCPY28ZY88uva6vbFwlaW2MwJN8CwcMwgQRsUX7XGuVhVjRRgAgkTt7DWQfODGMFqTn/oXCgnzzbYBYEcs3iqebMREadcSZi8BkXKG9hhdWw5lscEs+5YPmupwiB2JW2RCpsh4LZPMRT0lHp07kn0/iEthsyGx77wYILrgf9mEpTQAH7BptUrC3imq4O4beniqpIgkX+RERtmieq6sp8H4hlaETu6XSUAS/NyI32qYHV1fgE1Fh8NpZ1Zx3fWXcLTqNyKhBCK5kNvwnzWrZeG5MG2IAjz15hcp/9+wwAgd2uBRpk=;JG1MeXR6yQItGAUuQ/NTgA=="
 ---
 

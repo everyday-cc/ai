@@ -29,6 +29,20 @@ related:
       name: Jalopnik
       domain: jalopnik.com
     quality: 24
+  - title: "San Francisco warns robotaxis can be a self-driving nightmare"
+    excerpt: "GM's self-driving car subsidiary Cruise said earlier this year that it wants to add as many as 5,000 more robotaxis to American streets, including in San Francisco, where it currently maintains a fleet of fewer than 100 cars."
+    publishedDateTime: 2022-09-30T14:55:00Z
+    webUrl: "https://www.wral.com/san-francisco-warns-robotaxis-can-be-a-self-driving-nightmare/20499333/"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 24
+    images:
+      - url: "https://wwwcache.wral.com/presentation/v3/images/content/social/open_graph/wral_news5_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "t/Z9YVFLO+qFRQnjxIKMbcAeLKGxOCiT1SO53Mky/jMwP1zyh/0LM/UjEQXnElicHgEExGwrTfzonP23ZkHCfAMSrShsH1maZtbuanQNw/3Z3LOm2ydwBKLgznExgmLzP7a7onINP46RmtEvcbINjFXK0x25hnU98j3NnfTA58pWqaakgVMHZez3kulH0eS7Gtgj1+ZEJ7vd1b5jntPIZ0goHRsKpowSKySaZjD7sggC5JXZVjcDsRV1sQQ3abZdMypxk1/6lCz05JMn9ZSYVV3PyOQT3WzdwDOtIfTKZ/FnmXbnI7yhWsgXfJ/UAkzG4V53v0TZXXs4H8nYJk53cQ4r1yh1FSY9FwC0X0r9Va8kJVyGbX/5ULOvcXNJAZAIbbkJBAMkQAx0mwX1CFyoIsTyc+p5y/Flq3v+NDgg2ANCxFr05hrrUkKiKXkGLtZ1ptm8vSoDiX3G6uZnh2x+WFQvfGUmLJRwSU46BeuRiwG8ZSSLwbU54TzzUlpsDPsX+AAiCtTH2CgHZoPLr/otuQ==;18IGWyiHn732Dh/saZKHYA=="
 ---

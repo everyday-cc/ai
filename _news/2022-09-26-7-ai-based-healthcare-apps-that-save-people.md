@@ -20,36 +20,45 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "AI In Healthcare Still Has A Long Journey Ahead"
-    excerpt: "For many years, artificial intelligence (AI) technology has pledged the promise of vastly improving the healthcare industry."
-    publishedDateTime: 2022-09-25T21:42:00Z
-    webUrl: "https://www.forbes.com/sites/saibala/2022/09/25/ai-in-healthcare-still-has-a-long-journey-ahead/"
-    ampWebUrl: "https://www.forbes.com/sites/saibala/2022/09/25/ai-in-healthcare-still-has-a-long-journey-ahead/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2022/09/25/ai-in-healthcare-still-has-a-long-journey-ahead/amp/"
+  - title: "10 top artificial intelligence (AI) applications in healthcare"
+    excerpt: "As AI continues to be applied across the healthcare spectrum — from administration to patient interaction and medical research, diagnosis and treatment — here's how it's making an impact."
+    publishedDateTime: 2022-09-30T13:20:00Z
+    webUrl: "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/"
+    ampWebUrl: "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 123
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6330caf663c91908687d2c1f/0x0.jpg?format=jpg&crop=4363,2454,x432,y241,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://venturebeat.com/wp-content/uploads/2018/07/Zebra-Medical-FDA-approval-AI-heart-disease.jpg?w=1200&strip=all"
+        width: 1000
+        height: 666
         isCached: true
-  - title: "Health min., Cisco executive vice president discuss applying AI technology in healthcare system"
-    excerpt: "Health Minister Khalid Abdel Ghaffar had a meeting with Francine Katsoudas, the Executive Vice President and Chief People, Policy and Purpose Officer of \"Cisco\", to discuss means of applying Artificia"
-    publishedDateTime: 2022-09-30T10:47:00Z
-    webUrl: "https://www.sis.gov.eg/Story/171743/Health-min.%2c-Cisco-executive-vice-president-discuss-applying-AI-technology-in-healthcare-system?lang=en-us"
+  - title: "Arthur.ai raises $42M to optimize AI applications’ accuracy"
+    excerpt: "Large-scale AI models can often become less accurate over time. One common factor behind accuracy declines is a phenomenon known as data drift. The phenomenon occurs when an AI is configured to process a certain type of data during development,"
+    publishedDateTime: 2022-09-27T19:16:00Z
+    webUrl: "https://siliconangle.com/2022/09/27/arthur-ai-raises-42m-optimize-ai-applications-accuracy/"
     type: article
     provider:
-      name: sis
-      domain: sis.gov.eg
-    quality: 42
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
     images:
-      - url: "https://www.sis.gov.eg/Content/Upload/slider/9202217164617196.jpg"
-        width: 618
-        height: 360
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/arthurai.png"
+        width: 718
+        height: 404
         isCached: true
+  - title: "Seven AI-Based Healthcare Apps That Save People"
+    excerpt: "Seven AI-Based Healthcare Apps That Save People. 2023 marks the 10th anniversary of IBM Watson, a digital tool to fight cancer. The launch of this program was the first-ever use o"
+    publishedDateTime: 2022-09-26T11:21:00Z
+    webUrl: "https://www.medgadget.com/2022/09/seven-ai-based-healthcare-apps-that-save-people.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 36
 
 secured: "fTo3aPm1BbfLD2JIPAW/3Xd/xhURv5wVrDl36lTEq3VecPILbmg0YSODDPlPRVQuNODp3T3wJ4U8/LmLUYBahVZ8Oyg/oDuhYDqbZsnArX6Q7HPedG3iX9mMNTwJu199k393v9KCTyHWxc/azfyzsJaHSLKi/5w+BeoqhoV+9TxLHVD+veIfmOMdv12gS+NaTxCUN1R1nj9/XRZ45uLAVqalGH1fyd8BNeLv1Mdjgsx/4DgTYOmo3BjqbBeOivxuGcteiu4ubYVccdvw/t6adFdnzWi2vP/nmgQJ0NN+ZFy8IkOKHmYCUhvC2Cg9b7w+asiWIB8qYEkkWuc3tKBkd4MFzlL+hG0NKdTh8qv69VU=;4eERuyUwLFFJnIKzdaXoog=="
 ---

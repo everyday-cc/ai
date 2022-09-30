@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Arthur.ai raises $42M to optimize AI applications’ accuracy"
-    excerpt: "Large-scale AI models can often become less accurate over time. One common factor behind accuracy declines is a phenomenon known as data drift. The phenomenon occurs when an AI is configured to process a certain type of data during development,"
-    publishedDateTime: 2022-09-27T19:16:00Z
-    webUrl: "https://siliconangle.com/2022/09/27/arthur-ai-raises-42m-optimize-ai-applications-accuracy/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/arthurai.png"
-        width: 718
-        height: 404
-        isCached: true
   - title: "Invisible AI Raises $15 Million Series A to Rapidly Scale Innovative Computer Vision Platform Across Manufacturing Facilities"
     excerpt: "Invisible AI, a leader in state-of-the-art AI solutions for manufacturing, today announced the close of a $15 million Series A funding round, bringing the company's total amount raised to $21 million."
     publishedDateTime: 2022-09-28T15:07:00Z
@@ -46,6 +32,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 37
+  - title: "Arthur Raises $42M to Ensure Enterprises are Using AI Models That are Accurate, Transparent, and Free of Bias"
+    excerpt: "Arthur, cofounded by Adam Wenchel, is a platform that monitors, measures, and improves machine learning models to deliver better results for enterprises."
+    publishedDateTime: 2022-09-30T13:27:00Z
+    webUrl: "https://www.alleywatch.com/2022/09/arthur-ai-performance-monitoring-efficiency-optimization-machine-learning-platform-adam-wenchel/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 0
 
 secured: "n2vbOOcULQFLLZKDXgPgd7IvajWjfdje9fid11w9Szni942uqEQx+nau6gIOY+8ZdmGcn47xeW+oFSD3BM3AdDLaAawGKMKDRkDaaX+jWRizxS+8W0D7D9NhBgMdivHaWw3ONSWV+IEHlEVXHmwklzZfWJZkchA9+kzoQwGAHJEujn75Mp/n6CpaN6pEXVl2Zw1hufyMGe2AXSmgJ6BPimfyk2Miei67vboF3LCdRd0VlVZtegmuIILfj4nw8YwhNwSX0ksk9lDX0iS01PmoYMzA01dNowhakePIIqKFAuwxxnceS8K8OFtIyY4S01wYuj3GASPqUzYc47cRNMURE2vR1U12Et4Egc83Vgev3bs=;UDRSAbIGKkaSfccC+lqiKQ=="
 ---

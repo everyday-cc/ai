@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29051857"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29051857"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Oracle Announces MySQL HeatWave on AWS"
+    excerpt: "Oracle Announces MySQL HeatWave on AWS - “Oracle believes in giving customers a choice. Many of our MySQL HeatWave customers migrated from"
+    publishedDateTime: 2022-09-30T14:15:00Z
+    webUrl: "https://www.siliconindia.com/news/general/oracle-announces-mysql-heatwave-on-aws-nid-220118-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 41
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/3Yzt5l8m.jpg"
+        width: 570
+        height: 367
+        isCached: true
 
 secured: "2g/uQcya+JStSjhLG/V8gr+dlQ+A7zf5na5HEBkyzTkWgJxyKNiT3O5F6bVj6tpSj0jUmxlyrD/VBeTyMcefw8Y4Tj21Gy4GMlw89MNawe+cwTCxlCa1f9/c93R320a5P/nF6i5BDMfFJWV0MYSjePXqzJ2YaMwLVrTo7brNVCV3Miai9oyEcjymoyRaafGN00c/iBmjad877f7qjZyNr4e3XuaiH+s4IwVGS1hUjDMX0YxrRr+AB9aKvYA0SaAo0WghTD9SgqgwuDxcaJNrHzwosLHzsScdui0jfV0bqDVUAwMgcSB/01opLF0+lGXMdUmVTBWaOBy4+HPRQS9C9BkbPVTkbjxNRdXF6VZh4OY=;jStrHPQkVYdstdM/j/7b+w=="
 ---

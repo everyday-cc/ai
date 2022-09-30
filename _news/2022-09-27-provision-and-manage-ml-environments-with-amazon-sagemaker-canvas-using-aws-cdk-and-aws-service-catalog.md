@@ -66,6 +66,20 @@ related:
         width: 1531
         height: 766
         isCached: true
+  - title: "Unified data preparation, model training, and deployment with Amazon SageMaker Data Wrangler and Amazon SageMaker Autopilot – Part 2"
+    excerpt: "Depending on the quality and complexity of data, data scientists spend between 45–80% of their time on data preparation tasks. This implies that data preparation and cleansing take valuable time away from real data science work. After a machine learning (ML) model is trained with prepared data and readied"
+    publishedDateTime: 2022-09-30T15:07:00Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/part-2-unified-data-preparation-model-training-and-deployment-with-amazon-sagemaker-data-wrangler-and-amazon-sagemaker-autopilot/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 73
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/30/unified-data-preparation-part-2.jpg"
+        width: 1533
+        height: 766
+        isCached: true
 
 secured: "0qUkONO+MU0ZiRYAS0MYr+8/tFY2DAF1JwxBPjcqK7UArYYLrwPTJH6vyuZjMYEaaNX3GWerOG8Lrt2Oknk+XNk4egV2jGXGK0qMvZrEO1s5z8rrEs2hCw1GVU4XoqEIU2tKLmqPStrOu/TIBCW7LpyWlomHrHYKmw6VeKrP2DOd6SBtlbXcboX2DsZNfZv4vdne3+6eKLLLWzILHAVq2rfT9jruQKZFI9aXYjRjxd+L4a6OOPBhQ2j/+C/ss7jEZ7PSrEh2S+an05NQIZrwpZvzlq8j9i1g5T2ZmHgh8XREHwBgA3Dbvufni5Vz9bB54FTQjUMFNbxe9MIC2FsdfU9/g0S6UDwz/iJZX/6gr0c=;p817U/RFCJ+2gQoDxZ1BIg=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-30T11:53:00Z
 originalUrl: "https://keyt.com/news/2022/09/30/anyone-can-now-use-powerful-ai-tools-to-make-images-what-could-possibly-go-wrong/"
 webUrl: "https://keyt.com/news/2022/09/30/anyone-can-now-use-powerful-ai-tools-to-make-images-what-could-possibly-go-wrong/"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: KEYT

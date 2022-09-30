@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "San Francisco warns robotaxis can be a self-driving nightmare"
+    excerpt: "GM's self-driving car subsidiary Cruise said earlier this year that it wants to add as many as 5,000 more robotaxis to American streets, including in San Francisco, where it currently maintains a fleet of fewer than 100 cars."
+    publishedDateTime: 2022-09-30T14:55:00Z
+    webUrl: "https://www.wral.com/san-francisco-warns-robotaxis-can-be-a-self-driving-nightmare/20499333/"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 24
+    images:
+      - url: "https://wwwcache.wral.com/presentation/v3/images/content/social/open_graph/wral_news5_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Early Money: Here's how this San Francisco startup is aiming to help people with cerebral palsy and multiple sclerosis"
     excerpt: "Jeremiah Robison got a close-up view of such challenges raising a daughter with cerebral palsy. Robison was determined to do something about such problems, figuring that advances in sensors and machine learning could be used to help give greater mobility to those with disabilities."
     publishedDateTime: 2022-09-29T18:02:00Z

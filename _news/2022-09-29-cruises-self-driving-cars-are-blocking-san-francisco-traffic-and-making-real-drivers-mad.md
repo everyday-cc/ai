@@ -21,40 +21,20 @@ topics:
   - AI
 
 related:
-  - title: "Tesla A.I. Day Is Coming. Expect High-End Computing, Self-Driving Cars, and Robots."
-    excerpt: "High-end computing, neural networks, self-driving cars, and robots could come up at the car company's second annual event."
-    publishedDateTime: 2022-09-29T12:32:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-elon-musk-robot-artificial-intelligence-day-51664401265"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-elon-musk-robot-artificial-intelligence-day-51664401265"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-elon-musk-robot-artificial-intelligence-day-51664401265"
+  - title: "Pony.ai partners with SAIC, Geely on self-driving taxi fleets"
+    excerpt: "Self-driving car startup Pony.ai is forming a partnership with SAIC AI Lab, a research facility of the namesake automaker, to jointly develop robocars and"
+    publishedDateTime: 2022-09-28T08:40:00Z
+    webUrl: "https://technode.com/2022/09/28/pony-ai-partners-with-saic-geely-on-self-driving-taxi-fleets/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 70
+      name: TechNode
+      domain: technode.com
+    quality: 39
     images:
-      - url: "https://images.barrons.com/im-631715/social"
-        width: 1280
-        height: 640
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
+        width: 540
+        height: 540
         isCached: true
-  - title: "Tesla's New Self-Driving Version 10.69 Is A Big Leap Forward"
-    excerpt: "New version gives us a glimpse into the future with respect to full self-driving on surface streets. Read more here."
-    publishedDateTime: 2022-09-27T18:34:00Z
-    webUrl: "https://seekingalpha.com/article/4543424-tesla-new-self-driving-big-leap-forward"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
-  - title: "Amazon's self-driving units coming 'sooner than people expect'"
-    excerpt: "The chief executive officer of Zoox, Amazon.com Inc.'s self-driving unit, expects autonomous vehicles to be present in cities \"sooner than people expect,\" but stopped short of saying when her own company's product would appear on roads."
-    publishedDateTime: 2022-09-28T18:13:00Z
-    webUrl: "https://techxplore.com/news/2022-09-amazon-self-driving-sooner-people.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 4
 
 secured: "w6QHUywzaXLePj12c4DFsGGsx1fdXpifARzJzT1pB6MNjCRTW4hoLXiENQJWxRqRcNasKZsnHEx8sZ/QjExIqYfrbKrPn2duOLpmX/JFvONAZ/JipFMvQ08HfuA2l+fWGYJxveApr+hAjj1fMXCRtKJWeCfO/eLRRmP+CaHZ6hzWPByGqDvKPBOmqK3/HlGLShORmN62CLVv09q/V4FeL0NijznGDUA9VMQkhJyQ1FFm83cK+EBgqSSDDDbFWk1SM6fNZBCs0z1AXcS/1Z2asObwFpwMTMDZRWMcxZWt4VUu3e/f7i/Y9KLX58791hcKBjeGgQ2glyvfMI5N/lGjpsCWkqQ4frrm9+JXpVI9ltwc1EnPzegBX9o4vrS9JlUFm39SwJIBwEsNTaydkVXPGu0X7TU2cLa098cdXykKe8z3FUHvMZsCg975V7pMNVNQ+t9Yw2pF4I+7n/ssfNin6YMShyJ6l2NxCTlKB+W/LWHnpvyCSZLLOwfGHgK8bUJre4vXSEn/OV2lB9jwdUSwUQ==;ELfqCPM51ns1CNx4EyAcYw=="
 ---

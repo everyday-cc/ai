@@ -3,13 +3,13 @@ category: news
 title: "Using AI as a Neuroimaging Biomarker for Brain Health"
 excerpt: "In neuroscience and medical research, artificial intelligence (AI) deep learning is increasingly being used as a potential biomarker for brain health. A new study by the Max Planck Institute for Human Cognitive and Brain Sciences demonstrate how an AI algorithm can estimate biological age with high accuracy based on brain scan images."
 publishedDateTime: 2022-09-29T09:07:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202209/using-ai-neuroimaging-biomarker-brain-health"
-webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202209/using-ai-neuroimaging-biomarker-brain-health"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202209/using-ai-neuroimaging-biomarker-brain-health?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202209/using-ai-neuroimaging-biomarker-brain-health?amp"
+originalUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202209/using-ai-neuroimaging-biomarker-brain-health"
+webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202209/using-ai-neuroimaging-biomarker-brain-health"
+ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202209/using-ai-neuroimaging-biomarker-brain-health?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202209/using-ai-neuroimaging-biomarker-brain-health?amp"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -20,6 +20,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "ATOTMdJuYgMivbTmOPunUBmvc4Bt+1EeeUlQq/2hRghSMA6PWX2eUmbW1SNQa0ArkRFRHP/5tapGRJvfjoCsnKwqEQ+CPfe7D7HjaFXo88cci4Vmwk1kQ48HRezu11V8HEz3f9s1ceL8vuR2AAObDIMWEwf5Walz1W2jFC18cDIlrfbD8KU6qv7yVYNuiI3y4vW9NXKLqutgl9obHRrAdwQruUwCvuLBi62FSQdUFYemDso2nbFUHfYUInJy/Xp4OmkxwM6b/wm0VuRr3z4sNmeGgjS7K5ZBGr8GF6bc/m2jrgZIrZqhjpWSg9BLjp9jT1+LYS6eUfs6gRHvY20mpirsvnmBUycCCZMRhAxJvjU=;WkDXNqoghdA2oRr0+EAhfA=="
+images:
+  - url: "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2022-09/pic091.gif?itok=dzmxpyJL"
+    width: 320
+    height: 316
+    isCached: true
+
+secured: "NmEMNtxAsJTY001piuwkK9qGGgcTsifRaIv4QycBDnexXFB6XEws5qwX48I9eb23FqD3oiD/mxeQKz+6SeqHj8zQlt/YRNmXlW0p58nvbosMhrcINXoeODDMH9N+641zv6ka9xGb2p3HcGKwdqr/dWteckcg8hxtGPQWfah4L8AJjdtel/XicRkM9DqPubq4oPyiX45o2RmZ/2BuTwBXXujtH2yiQ7/EvAhasbZxuzu9d1NznunwRGrxA0UgfaGFdoULi63C9RWf/l3BJ9qMJY3jlpRFskvcktkw53J6BwLDE94+E1jxc0+yq9kzO+q2vM0MZpdMSAAiK9nvCe//gHyECqlDBepjxOEM3HrY6pQ=;jjRmzPSzORueTtZXe96oAQ=="
 ---
 

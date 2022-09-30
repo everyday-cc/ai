@@ -24,24 +24,40 @@ images:
     isCached: true
 
 related:
-  - title: "Arthur raises $42M in Series B funding as AI adoption soars"
-    excerpt: "Arthur today announces the raise of $42M in Series B funding, co-led by Acrew Capital and Greycroft Ventures. The additional capital will provide scale to meet surging demand for essential AI infrastructure—Arthur has seen 235% recurring regrowth in the first two quarters of this year alone."
-    publishedDateTime: 2022-09-27T14:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/arthur-raises-42m-in-series-b-funding-as-ai-adoption-soars-1031767476"
+  - title: "10 top artificial intelligence (AI) applications in healthcare"
+    excerpt: "As AI continues to be applied across the healthcare spectrum — from administration to patient interaction and medical research, diagnosis and treatment — here's how it's making an impact."
+    publishedDateTime: 2022-09-30T13:20:00Z
+    webUrl: "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/"
+    ampWebUrl: "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Invisible AI Raises $15 Million Series A to Rapidly Scale Innovative Computer Vision Platform Across Manufacturing Facilities"
-    excerpt: "Invisible AI, a leader in state-of-the-art AI solutions for manufacturing, today announced the close of a $15 million Series A funding round, bringing the company's total amount raised to $21 million."
-    publishedDateTime: 2022-09-28T15:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/invisible-ai-raises-15-million-series-a-to-rapidly-scale-innovative-computer-vision-platform-across-manufacturing-facilities-1031770558"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 123
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/07/Zebra-Medical-FDA-approval-AI-heart-disease.jpg?w=1200&strip=all"
+        width: 1000
+        height: 666
+        isCached: true
+  - title: "7 AI-based healthcare apps that save people"
+    excerpt: "IBM Watson, a digital tool to fight cancer. The launch of this program was the first-ever use of AI for medical purposes. Since then, science has stepped forward, and new AI-based healthcare apps regularly appear."
+    publishedDateTime: 2022-09-26T12:43:00Z
+    webUrl: "https://www.healthleadersmedia.com/innovation/7-ai-based-healthcare-apps-save-people"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 36
+  - title: "Seven AI-Based Healthcare Apps That Save People"
+    excerpt: "Seven AI-Based Healthcare Apps That Save People. 2023 marks the 10th anniversary of IBM Watson, a digital tool to fight cancer. The launch of this program was the first-ever use o"
+    publishedDateTime: 2022-09-26T11:21:00Z
+    webUrl: "https://www.medgadget.com/2022/09/seven-ai-based-healthcare-apps-that-save-people.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 36
 
 secured: "d4yzr4Ff9+B5jGRDPz81sqzCA/xXMUYEYxn6JM6ko8tRKHZLLy5kfi7L8RrIZrc913LAAKInxx1QzBEkbEbeywOJFcVbb+kXPvSOjzbiV2Okj2XexDfgZNtjWfSV59W1ICeqZHLmcegvC6snpq4frel/rd28rG44Cvyj3QzCGeLO7taVnczbip0t+9xp2xqy8Nw5sNZMluyLxhCMvnvCrwfDijcI2VRAGdyD0m+cagxMVy8oUObQVPn1D+G4k2PHDqidJAZcYosz6tXTm8EHxp6vdRyqIPdcZ+xVenWNZyJJSmcHcWbVZUJb3q/iNEYPpzbegjNEzQn0LEVm5aks/9ivi53gHK4nF/AstlezRfHiLSg/DiahcOZjpJHN0gvMcOBPuFh7iA/YLl4u3C7XEHnN2KqwX6i2fEickqK/rixzowCIC7uO+ftjsKztXmw3dcMlFfq3XpbokchMK3qJka1bsVpQ7OSloRH3AYvR2dNcJc0SzAucIfW9AnWILXzjZZGTcUrBkGQnsf/+HEEJKw==;nnKy1Blf4cAAlLlIL6z+YA=="
 ---

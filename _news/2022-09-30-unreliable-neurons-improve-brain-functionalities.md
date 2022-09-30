@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-29T17:23:00Z
 originalUrl: "https://neurosciencenews.com/neuron-brain-functionality-21451/"
 webUrl: "https://neurosciencenews.com/neuron-brain-functionality-21451/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Neuroscience News

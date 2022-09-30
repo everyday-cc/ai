@@ -43,6 +43,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Watch a Cassie bipedal robot run 100 meters"
+    excerpt: "Cassie, a bipedal robot developed at Oregon State University, recently ran 100 meters in 24.73 seconds at OSU's Whyte Track and Field Center."
+    publishedDateTime: 2022-09-29T22:41:00Z
+    webUrl: "https://www.therobotreport.com/watch-a-cassie-bipedal-robot-run-100-meters/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 49
   - title: "Robot Developed By US University Runs 100 Metres In 24.73 Seconds, Sets New Guinness World Record"
     excerpt: "Researchers used neural network controllers to make the robot run and stand after the race because Guinness asked for a human-like scenario."
     publishedDateTime: 2022-09-28T11:48:00Z

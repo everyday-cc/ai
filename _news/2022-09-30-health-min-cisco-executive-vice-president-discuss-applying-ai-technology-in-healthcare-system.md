@@ -25,31 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Healthcare Still Has A Long Journey Ahead"
-    excerpt: "For many years, artificial intelligence (AI) technology has pledged the promise of vastly improving the healthcare industry."
-    publishedDateTime: 2022-09-25T21:42:00Z
-    webUrl: "https://www.forbes.com/sites/saibala/2022/09/25/ai-in-healthcare-still-has-a-long-journey-ahead/"
-    ampWebUrl: "https://www.forbes.com/sites/saibala/2022/09/25/ai-in-healthcare-still-has-a-long-journey-ahead/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2022/09/25/ai-in-healthcare-still-has-a-long-journey-ahead/amp/"
+  - title: "What Disruptive Digital Technology Innovations Will Shape Tomorrow's Ophthalmic Healthcare?"
+    excerpt: "Sanjay Logani, MD, CEO of Doctorsoft, amplifies how A.I. and bot technology is changing healthcare. Some are focused on innovations that enhance patient care, many on wearable technologies, and others on remote patient monitoring,"
+    publishedDateTime: 2022-09-27T16:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/what-disruptive-digital-technology-innovations-will-shape-tomorrow-s-ophthalmic-healthcare-1031767750"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6330caf663c91908687d2c1f/0x0.jpg?format=jpg&crop=4363,2454,x432,y241,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://mma.prnewswire.com/media/1907116/Doctorsoft_and_VisionTEK_AI_Logo.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "7 AI-based healthcare apps that save people"
-    excerpt: "IBM Watson, a digital tool to fight cancer. The launch of this program was the first-ever use of AI for medical purposes. Since then, science has stepped forward, and new AI-based healthcare apps regularly appear."
-    publishedDateTime: 2022-09-26T12:43:00Z
-    webUrl: "https://www.healthleadersmedia.com/innovation/7-ai-based-healthcare-apps-save-people"
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 36
 
 secured: "BtAvm+J630C1E5s9EiZ1IQYiFaGqm/DPzdHcnycPYNCNmM9Kd4AuJPfZQlqHJIcl5Vx0sObjZAR8XUdckGN5nVtgVblZzPFJ99oZycIyIvukpcMxG3Emgg/OFLL1D9BthtErBt7h4KbSUrpBuJzGlZ3tdvfN6ptRtnjnTM/y7tRrPQwAamqLv1K07wpykmSrPMVwusmfoKfcH7Nx08j1lkd08p9+mWzWgcRgtR/0FMAve5YQMfYJeX26CeHnl6ojg6meLoF9znRyko2yWnP9toAfsTz9AcK1C5pOI+yXt1ZCMvxSSqkGAqvj3SCWmSyFEY08nY1uF4jlGUEALUfvIpFZAPRL6l6UHJFuSoQUQ76KnbDW/11dfzVEBxPW/6RY4BlFN690A+Z2f5JXZA1h4z60OQTgL0MbETZBsCR/V0VjykGXHBafjrY0Uf9jwmhr+vIHBzdndDrwZ2RWZwLSePV9ZlQiD1GoE1YmKzk4IK4+E30Udr71+tn3ErW/wb0vL+h3seXkaycKuELsETg3kA==;vC8zYxb68ePWI1CiA5KDow=="
 ---

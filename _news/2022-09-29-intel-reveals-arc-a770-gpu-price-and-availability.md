@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digit.in/article/amp/pc-components/65431/intel-reveals-a
 cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/pc-components/65431/intel-reveals-arc-a770-gpu-price-and-availability"
 type: article
 quality: 74
-heat: 115
+heat: 114
 published: true
 
 provider:

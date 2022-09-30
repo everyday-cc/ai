@@ -1,21 +1,28 @@
 ---
 category: news
 title: "Wallaroo Labs Launches in Azure Marketplace; Announces Air Gap Support for Edge Machine Learning Deployment"
-excerpt: "“We look forward to continuing to work with Azure to help data teams in industries ... it easy for enterprises to deploy and manage machine learning models at the edge in environments with ..."
-publishedDateTime: 2022-09-21T12:09:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/wallaroo-labs-launches-in-azure-marketplace-announces-air-gap-support-for-edge-machine-learning-deployment/article_cb133d7e-bafc-500f-bfce-bf1b94fc6b45.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/wallaroo-labs-launches-in-azure-marketplace-announces-air-gap-support-for-edge-machine-learning-deployment/article_cb133d7e-bafc-500f-bfce-bf1b94fc6b45.html"
+excerpt: "Wallaroo Labs today announced the availability of Wallaroo Enterprise Edition on Microsoft Azure Marketplace. Wallaroo's model operations platform for deploying, observing, and managing machine learning in production enables customers to easily operationalize ML Models with our purpose-built inference engine,"
+publishedDateTime: 2022-09-21T13:22:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/09/21/9677902.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/09/21/9677902.htm"
 type: article
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Microsoft AI
+  - AI in Finance
   - AI
   - Machine Learning
+  - Microsoft AI
 
-secured: "ohhYPPyPDoUi14G+TLYQjsz8/wTYNmk/bwf0yjZysChModGx1MLnXJfeTLtKFky7TsYAvz5TjYVLwUexuYB/rS14xp6F5JAth7o61eKuSProJpzXzb78uF4j/wtDx22+YR1jawySuBKG8quVIZWZlg80r1cuVQyIET2xFMIHdxeCpcPO1ZY6YUH3+Q8rjBilUwg+/W72tX0+iWWS/DwaHiC2KbhPEsPeuHK0U1iCrFM3KyhzlVdQByxF3SWS13mKyVEaLrW89H2TGWNwX/clVT4NBnVpvVPawfbAEkECx5Mibg1waIHtNykHVIeIYFb2A8h/6Qphft+BbuEgzdE7uck75Hyd5s+LsYnZxp5ubnA=;nDkKKfBF1hjbbeyXgratvQ=="
+images:
+  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+    width: 476
+    height: 210
+    isCached: true
+
+secured: "Tbw7lZmJSS0S0BlJ8VTfh4ztSgIuExkuqpbkLGROxt35wyz3zuM2zX8j5mw4LLcMuVP7TM1H+Arbn8GTNnk4SQIvimBk6xOQla7q17oUCocmf1y4bKSzT7XXpTHCw31t/NbpGpkmHkrWq4ipUsMNgj+qNjFhzOQJvBLNz5UXXNs/bp/7XEKe4YplvH3Wazr7TQkVxHGMvofoyetP4klgpu78TDtpNRv2uAjE4na7IY3MwRCTqwjSvK9lsziGbi/1FeUsYLjE/F/Gn8QMSHTVGNhsm/dB8VoKQxAf9tDvDm1/GaE6BBjOoHdoTiEUDZeqKt62BnKVWShwe45BBKGhNXFA8vt6q7Pu4yrFlP3M2MU=;dSyPj9C1gMR77rYiNYWpyg=="
 ---
 

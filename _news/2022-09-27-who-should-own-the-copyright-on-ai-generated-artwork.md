@@ -56,15 +56,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Why This Online Archivist Isn't Feeling Much Angst About AI-Generated Art"
-    excerpt: "Scott, an archivist and curator at the Internet Archive(Opens in a new window), treated the audience to a slideshow of AI illustrations drawn for such requests as “a lion using a laptop, in the style of an old tapestry\" or “Godzilla at the signing of the Declaration of Independence."
-    publishedDateTime: 2022-09-25T19:40:00Z
-    webUrl: "https://www.pcmag.com/news/why-this-online-archivist-isnt-feeling-much-angst-about-ai-generated-art"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 46
   - title: "Decipher the earliest languages, debate AI and learn about climate change research at START"
     excerpt: "START (Start Talking About Research Today ) features music, debate, games, storytelling, screenings, and live experiments. Over 40 free events will showcase how Irish research is shaping society and offer people the chance to engage with the researchers leading the way."
     publishedDateTime: 2022-09-26T11:34:00Z

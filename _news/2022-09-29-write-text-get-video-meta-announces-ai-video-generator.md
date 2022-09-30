@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2022/09/write-text-
 webUrl: "https://arstechnica.com/information-technology/2022/09/write-text-get-video-meta-announces-ai-video-generator/"
 type: article
 quality: 67
-heat: 87
+heat: 88
 published: true
 
 provider:

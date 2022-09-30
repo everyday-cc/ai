@@ -24,6 +24,22 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "Tesla AI Day 2022: How to Watch Elon Musk's Optimus Robot, Self Driving Car Work"
+    excerpt: "There, too, Tesla developed custom AI chips. \"Tesla's inference engine is among the best in performance..., giving them a real advantage,\" said Keith McMillen, CEO of BeBop Sensors, a startup designing touch sensors robots can use. FSD, short for Full ..."
+    publishedDateTime: 2022-09-30T14:55:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 131
+    images:
+      - url: "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla AI Day 2022: How to Watch Elon Musk's Optimus Robot"
     excerpt: "Tesla has hired engineers to make a robot for dangerous or boring work. At AI Day, expect updates on FSD technology for eventual self-driving cars, too."
     publishedDateTime: 2022-09-30T00:22:00Z
@@ -72,6 +88,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Elon Musk Slated to Unveil Humanoid Robot Optimus at Tesla’s AI Day"
+    excerpt: "The prototype, which the CEO aims to show off at a company’s AI event Friday, is part of his effort to shape public perception of the company as more than just a car maker."
+    publishedDateTime: 2022-09-30T13:02:00Z
+    webUrl: "https://www.wsj.com/articles/tesla-ai-day-2022-elon-musk-11664536415"
+    ampWebUrl: "https://www.wsj.com/amp/articles/tesla-ai-day-2022-elon-musk-11664536415"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-ai-day-2022-elon-musk-11664536415"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 121
+    images:
+      - url: "https://images.wsj.net/im-634227/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Our top 4 Tesla AI day predictions"
     excerpt: "An Optimus robot prototype, updates to FSD, a Tesla robotaxi and more on the Dojo supercomputer are what we expect at Tesla AI Day."
     publishedDateTime: 2022-09-28T19:00:00Z
@@ -87,22 +119,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2022/09/tesla-ai-day.jpeg?resize=960,1200"
         width: 960
         height: 1200
-        isCached: true
-  - title: "What to Expect at Tesla AI Day 2022"
-    excerpt: "What Is Tesla AI Day? AI Day is basically Tesla's version of an Apple event, but rather than product launches, the event will have a forward-looking focus. It's less about new Tes"
-    publishedDateTime: 2022-09-29T22:14:00Z
-    webUrl: "https://uk.pcmag.com/cars-auto/142960/what-to-expect-at-tesla-ai-day-2022?amp=1"
-    ampWebUrl: "https://uk.pcmag.com/cars-auto/142960/what-to-expect-at-tesla-ai-day-2022?amp=1"
-    cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/cars-auto/142960/what-to-expect-at-tesla-ai-day-2022?amp=1"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 106
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/w/what-to-ex/what-to-expect-at-tesla-ai-day-2022_nchs.620.png"
-        width: 619
-        height: 348
         isCached: true
   - title: "How to watch Tesla’s AI Day today and what to expect"
     excerpt: "Tesla is holding its second AI Day on September 30, and a prototype of its humanoid robot is expected to make an appearance."
@@ -211,6 +227,22 @@ related:
       name: Philippine Daily Inquirer
       domain: inquirer.net
     quality: 73
+  - title: "Tesla A.I. Day Is Coming. Expect High-End Computing, Self-Driving Cars, and Robots."
+    excerpt: "High-end computing, neural networks, self-driving cars, and robots could come up at the car company's second annual event."
+    publishedDateTime: 2022-09-29T12:32:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-elon-musk-robot-artificial-intelligence-day-51664401265"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-elon-musk-robot-artificial-intelligence-day-51664401265"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-elon-musk-robot-artificial-intelligence-day-51664401265"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 70
+    images:
+      - url: "https://images.barrons.com/im-631715/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Here’s what to expect at Tesla AI day"
     excerpt: "Tesla Inc's \"AI day\" is back, with investors hoping this time the electric-vehicle maker will show something other than a spandex-clad human mimicking"
     publishedDateTime: 2022-09-28T19:25:00Z
@@ -229,20 +261,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 66
-  - title: "Tesla AI Day: It's The Battery, Stupid"
-    excerpt: "This article will argue that Tesla, or even the EV space in general, faces a similar situation. Click to read how TSLA leads competitors in battery technology."
-    publishedDateTime: 2022-09-27T04:22:00Z
-    webUrl: "https://seekingalpha.com/article/4543249-tesla-stock-ai-day-its-the-battery-stupid"
+  - title: "What to Expect at Tesla AI Day 2022"
+    excerpt: "The Sept. 30 event will be 'highly technical,' says Elon Musk, but we may get details about Tesla's humanoid robot and a progress report on its full self-driving plans."
+    publishedDateTime: 2022-09-29T22:14:00Z
+    webUrl: "https://www.pcmag.com/news/what-to-expect-at-tesla-ai-day-2022"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 56
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/490597690/image_490597690.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
-        isCached: true
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 64
   - title: "Elon Musk teases Tesla robot with humanoid ‘heart’ hands"
     excerpt: "Elon Musk has teased the unveiling of a humanoid robot during Tesla ’s annual AI Day this week. The tech billionaire shared an image of robotic hands making a heart shape, together with the 30 September date for the artificial intelligence event."
     publishedDateTime: 2022-09-28T05:50:00Z
@@ -271,6 +298,15 @@ related:
         width: 2048
         height: 1366
         isCached: true
+  - title: "Tesla AI Day LIVE — Elon Musk to reveal new Optimus robot at 2022 tech event – start time and how to stream revealed"
+    excerpt: "TESLA AI day is officially here, and Elon Musk says the live feed later today will include “lots of technical detail and cool hardware demos.” The Tesla humanoid robot Optimus, for"
+    publishedDateTime: 2022-09-30T11:32:00Z
+    webUrl: "https://www.thesun.co.uk/tech/19967742/tesla-ai-day-live-elon-musk-robot-start-time/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 28
 
 secured: "TtUl8qb5wwz323ypo+OJ9IIn+r129mO2TZbkn+OFbIAY+Ays2l14hxR8BVkjStSPzmgS6EneO20OPtaIzqbWCnY/P74HE3hZdW8TdE5GntbLjVXPOKES6thw+GhKr3vCNHh7mqMwhnmCZHdYa6KgzZ49MmO2GQIuWgB0bfkYZrfXssIPQvzr3wuleiFGonJS93rkkOGOZOCBtYEcI1JlMtOEp1QWFbZ5ZfTQii+mdYMZOemYWAeWKHmQEzCbT45XapCu2YZ1WD2oSqmrVQnxZCrrvg+PXqflADPbgqfpMI6wT91rXOMZt+ZYrZ+69Xwtn8K6wcM3S1iA1FA2EgGTT9NnFfoB+Maq4zhUw9tI8W5LJsaSiVrGQ6XJOd+orR6m3RxITFG2b9GGfrGtxFmE+Co7iEBWqNH8ErDG31iSZB1K/d+GxPBqN9tOxJz+JT7aND1b3kvrLzCs9kAtLG5VokE9Tp7tqTLBWwlawwpCUEnQiNJhQ2VIDajaTymU1X2frIJyT6IEOStW5NDdFcia+w==;K6vuwbfQHJjffu+Jna8QKg=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-30T13:18:00Z
 originalUrl: "https://gulfnews.com/friday/wellbeing/daily-screen-time-do-you-have-computer-vision-syndrome-find-out-1.1646386547900"
 webUrl: "https://gulfnews.com/friday/wellbeing/daily-screen-time-do-you-have-computer-vision-syndrome-find-out-1.1646386547900"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Gulf News

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-30T13:05:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/airrobo-robot-vacuum-p20-brings-99-2-cleaning-efficiency-into-global-households-1031775669"
 webUrl: "https://markets.businessinsider.com/news/stocks/airrobo-robot-vacuum-p20-brings-99-2-cleaning-efficiency-into-global-households-1031775669"
 type: article
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: Business Insider

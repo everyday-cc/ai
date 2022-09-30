@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-30T12:30:00Z
 originalUrl: "https://www.forbes.com/sites/qai/2022/09/30/health-care-stocks-reviewing-the-best-of-the-industry/"
 webUrl: "https://www.forbes.com/sites/qai/2022/09/30/health-care-stocks-reviewing-the-best-of-the-industry/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Forbes

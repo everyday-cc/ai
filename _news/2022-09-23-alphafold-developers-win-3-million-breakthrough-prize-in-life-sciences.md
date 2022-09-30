@@ -15,6 +15,12 @@ topics:
   - Google AI
   - AI
 
-secured: "v2f+ajKj8Z72Pzp5JiSGpajcEuXS+HzwgGi1U8mSxxDE4+sduJEOToD7/I/vwzcbdraC0lpDZOqdjTs8XBUxBZ7dPUDvc39WPyfxzZdcOqjli20vGTuMNpBKrWnzTXpCmWRevA3SSEBjs7FcRnEKeigxTqunxMlrzT6Xm0CFPxYBAaNxpdTskvJfdV6RN2+lrHKrKQ9d2I2DJJZ/ckB77Nvwhi0dZ8sfnkedU7UbuzPMTLFy3NSxBmfmz5kZwlO46Ai7sdye1HtTXlLerpAoHSWwWLu/VbZrTaP3NqNGNAoF/Fnqcy/oDrU4ZhpZDBBt5eIXp5HyZTqSMoNo7AA6F4NGxRSN+1Typ0tIxVR6rj4=;WNmaPDAN5O9bLkxltxOPfw=="
+images:
+  - url: "https://static.scientificamerican.com/sciam/cache/file/085A9374-BDE5-4A53-A29DFCB280352F20.png"
+    width: 790
+    height: 496
+    isCached: true
+
+secured: "GWwyxElZPrBWUCj1Ib3W/VXviKJHkjxwNtnilp2a9RBKQA5LtxjitPW8G85mfp3pJvfGeGs3sPaFyPbAG73/1Pis3HUs8H2riibDba3Rgf3UsI5WHKtdwW8t7n/9Sy6gGjdMF6/Oiba8UD4rZVm3aWNT9uNESMC0P5yyaO3KUePVmN6a+iCH4wacXUAtn5tgxClC8MJZSuwe0+09N7SysjkL2UaqW+9eDZNSCsBp+BEQfax2aNX50j79MEHIUcERlmCjiXGF7bAtAcGKQTFjQ8TMi9wdpYfJ5d6ZEtLqRMyCCnh4xcKQG6FeUhyEMhRZOeYhO8zd6Wav1V+Ru8w0iI7RDZpNLKqp11XN9eTGwng=;ZRXxW0cSQpmF6B75WBa5LA=="
 ---
 

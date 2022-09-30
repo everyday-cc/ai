@@ -7,8 +7,8 @@ originalUrl: "https://seekingalpha.com/news/3887203-can-tesla-get-a-boost-from-i
 webUrl: "https://seekingalpha.com/news/3887203-can-tesla-get-a-boost-from-its-highly-anticipated-ai-day-event"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: Seeking Alpha
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla AI Day: It's The Battery, Stupid"
+    excerpt: "This article will argue that Tesla, or even the EV space in general, faces a similar situation. Click to read how TSLA leads competitors in battery technology."
+    publishedDateTime: 2022-09-27T04:22:00Z
+    webUrl: "https://seekingalpha.com/article/4543249-tesla-stock-ai-day-its-the-battery-stupid"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 56
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/490597690/image_490597690.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Wedbush Previews Tesla AI Day; Reiterates Outperform"
     excerpt: "(NASDAQ: TSLA) are down 4.82% in mid-day trading ahead of the company's AI day tomorrow. Wedbush reiterated an Outperform rating with a price target of $360. The much anticipated event is expected to feature several next-generation technologies,"
     publishedDateTime: 2022-09-29T14:48:00Z

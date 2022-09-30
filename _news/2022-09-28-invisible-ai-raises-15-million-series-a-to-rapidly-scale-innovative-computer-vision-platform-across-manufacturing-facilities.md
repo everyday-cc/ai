@@ -32,20 +32,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Arthur.ai raises $42M to optimize AI applications’ accuracy"
-    excerpt: "Large-scale AI models can often become less accurate over time. One common factor behind accuracy declines is a phenomenon known as data drift. The phenomenon occurs when an AI is configured to process a certain type of data during development,"
-    publishedDateTime: 2022-09-27T19:16:00Z
-    webUrl: "https://siliconangle.com/2022/09/27/arthur-ai-raises-42m-optimize-ai-applications-accuracy/"
+  - title: "Arthur Raises $42M to Ensure Enterprises are Using AI Models That are Accurate, Transparent, and Free of Bias"
+    excerpt: "Arthur, cofounded by Adam Wenchel, is a platform that monitors, measures, and improves machine learning models to deliver better results for enterprises."
+    publishedDateTime: 2022-09-30T13:27:00Z
+    webUrl: "https://www.alleywatch.com/2022/09/arthur-ai-performance-monitoring-efficiency-optimization-machine-learning-platform-adam-wenchel/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/arthurai.png"
-        width: 718
-        height: 404
-        isCached: true
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 0
 
 secured: "fSqB2hNlEV0J+b4yVvQ2NaEfRAEXt14/X1xy+P6N648PK4ExxPARUhbgOxiBmw727P5HbWxf4AiinOyvUqSliOMbRPXWMAd6qQW1XdzseHOJ0pp31pDyjZouBcUVjTzs5k3pV7NBhMNFdTfC5vxBXQrzYSSpLjsFMnJSiTvRh2HmGQIOtmkPgB1Sx6XeZSBVJ6LxQ75bAKWVB4LsXS3m/fB9sVRUbmGoNvoK453CFE4BLFMGdzUH8U3YvUCN+PcgvYyJEoCb9tnpJE6MeC4hEx760Y+Snxjmga5gjxL2Eq/QGNZMhzkh1MwGGhLme1CPUdBEUU4HBbd4R/9eib+/CwtxXxmOX0kcLwvoqakiiTA=;+VkGBsgdTYgB3E5D7O0Dag=="
 ---

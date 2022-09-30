@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-30T13:00:00Z
 originalUrl: "https://www.forbes.com/sites/gilpress/2022/09/30/the-trouble-with-responsible-ai-irresponsible-government-regulation/"
 webUrl: "https://www.forbes.com/sites/gilpress/2022/09/30/the-trouble-with-responsible-ai-irresponsible-government-regulation/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes
@@ -18,6 +21,17 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "A doctor walks into a bar: Tackling image generation bias with Responsible AI"
+    excerpt: "Every company building AI today needs a Responsible AI strategy to find and mitigate bias in image generation."
+    publishedDateTime: 2022-09-28T18:07:00Z
+    webUrl: "https://venturebeat.com/ai/doctor-walks-into-bar-image-generation-bias-responsible-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 46
 
 secured: "YdS5qiZgb8CowNWOPeT5f1tTbWoWxx3mxpPavLEonBugsy/XSbNUJHyLScZv44JYXRbSQOvoo24pD5fvYHVVQCLLrFfQYOcSem+k1z9riTd4aXfEInJDLe2n1uZr4cL0S5bIgO3b4cIeKJXH7abpAnJNMmLu4TSLriK5wM89S2Oih9sEgTCE2O/9h/6xwmGZqgqXPR1RUfYC6D6iUEBuwhozxAnO98SMRRuN4Q5UH5vlbIVncmMiE3rPfNds4e3XHAKHCU8o81Jwxik9aVb8KkU5o+Y1gzMa6eq2rP8tCBQr8UxPXU+4YVSxvNnecpg3CvvmEcJ7l0KC6xMKeoPD2+78JabQ0ZJ1z9e28LAS42MGPNjPY0u2q7QGfW7Vt9mr13zPMLHk89GTJ/bEWzGSmT73zEZQCu5g+uCeTpPAgOvdifmbTAnw52fheV7hsfvOThLLNMy0WofdE42klwCPvJ27H2fUCPli1hmyPPxCiyc3p8h97xIlB9RQFmDu+J8Dz7AcJ+1srakA8jocO749rw==;w5pUHK2NSVpa799ypF4n3w=="
 ---
