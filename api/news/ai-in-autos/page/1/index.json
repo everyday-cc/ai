@@ -2,50 +2,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-09-29-should-you-buy-tesla-tsla-stock-ahead-of-its-ai-day-2022.md",
-      "title": "Should You Buy Tesla (TSLA) Stock Ahead of Its AI Day 2022?",
-      "excerpt": "The company’s AI Day generates an enormous buzz among Tesla fans and investors, as well as tech enthusiasts at large as it’s packed with exciting innovations and big surprises. Tesla’s 2021 AI Day knocked the audience for six as a dancing robot walked onto the stage to accompany Musk.",
+      "path": "_news/2022-09-30-tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot.md",
+      "title": "Tesla AI Day 2022: How to Watch Elon Musk's Optimus Robot",
+      "excerpt": "Tesla has hired engineers to make a robot for dangerous or boring work. At AI Day, expect updates on FSD technology for eventual self-driving cars, too.",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/should-you-buy-tesla-tsla-stock-ahead-of-its-ai-day-2022",
-      "originalUrl": "https://www.nasdaq.com/articles/should-you-buy-tesla-tsla-stock-ahead-of-its-ai-day-2022",
+      "webUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/should-you-buy-tesla-tsla-stock-ahead-of-its-ai-day-2022?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/should-you-buy-tesla-tsla-stock-ahead-of-its-ai-day-2022?amp",
-      "publishedDateTime": "2022-09-29T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-tesla-ai-day-updates-on-optimus-robot-self-driving-cars-how-to-watch.md",
-      "title": "Tesla AI Day Updates on Optimus Robot, Self-Driving Cars: How to Watch",
-      "excerpt": "Tesla is hiring engineers to make the Tesla Bot for dangerous or boring work. Expect Elon Musk to detail the company's work on self-driving cars, too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-updates-on-optimus-robot-self-driving-cars-how-to-watch/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-updates-on-optimus-robot-self-driving-cars-how-to-watch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 302,
+      "heat": 293,
       "tags": null,
       "images": [
         {
@@ -59,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-ai-day-updates-on-optimus-robot-self-driving-cars-how-to-watch/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-updates-on-optimus-robot-self-driving-cars-how-to-watch/",
-      "publishedDateTime": "2022-09-28T07:15:00-07:00",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot/",
+      "publishedDateTime": "2022-09-29T17:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNET",
@@ -84,27 +49,28 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI in Robotics",
         "AI",
-        "AI in Robotics"
+        "AI in Autos",
+        "AI Hardware"
       ]
     },
     {
-      "path": "_news/2022-09-28-elon-musk-teases-tesla-robot-with-humanoid-heart-hands.md",
-      "title": "Elon Musk teases Tesla robot with humanoid ‘heart’ hands",
-      "excerpt": "Elon Musk has teased the unveiling of a humanoid robot during Tesla ’s annual AI Day this week. The tech billionaire shared an image of robotic hands making a heart shape, together with the 30 September date for the artificial intelligence event.",
+      "path": "_news/2022-09-29-can-tesla-get-a-boost-from-its-highly-anticipated-ai-day-event.md",
+      "title": "Can Tesla get a boost from its highly-anticipated AI Day event?",
+      "excerpt": "All eyes will be on Tesla (NASDAQ:TSLA) on Friday when then company holds its highly-anticipated AI Day. One of the highlights of the event is expected to be the company's unveiling of its Optimus humanoid robot prototype.",
       "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/tech/tesla-robot-elon-musk-optimus-ai-day-b2176994.html",
-      "originalUrl": "https://www.independent.co.uk/tech/tesla-robot-elon-musk-optimus-ai-day-b2176994.html",
+      "webUrl": "https://seekingalpha.com/news/3887203-can-tesla-get-a-boost-from-its-highly-anticipated-ai-day-event",
+      "originalUrl": "https://seekingalpha.com/news/3887203-can-tesla-get-a-boost-from-its-highly-anticipated-ai-day-event",
       "featuredContent": null,
       "highlight": null,
       "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://static.independent.co.uk/2020/08/19/11/breaking-news.png?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 900,
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1057297452/image_1057297452.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -114,11 +80,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T22:50:00-07:00",
+      "publishedDateTime": "2022-09-29T09:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -128,9 +94,53 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AI Hardware",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-tesla-ai-day-is-coming-expect-high-end-computing-self-driving-cars-and-robots.md",
+      "title": "Tesla A.I. Day Is Coming. Expect High-End Computing, Self-Driving Cars, and Robots.",
+      "excerpt": "High-end computing, neural networks, self-driving cars, and robots could come up at the car company's second annual event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/tesla-elon-musk-robot-artificial-intelligence-day-51664401265",
+      "originalUrl": "https://www.barrons.com/articles/tesla-elon-musk-robot-artificial-intelligence-day-51664401265",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-631715/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/tesla-elon-musk-robot-artificial-intelligence-day-51664401265",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-elon-musk-robot-artificial-intelligence-day-51664401265",
+      "publishedDateTime": "2022-09-29T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -521,25 +531,34 @@
     },
     {
       "path": "_news/2022-09-23-automotive-artificial-intelligence-ai-market-size-to-hit-usd-191-bn-by-2030.md",
-      "title": "Automotive Artificial Intelligence (AI) Market Size to Hit USD 19.1 Bn by 2030",
-      "excerpt": "The global automotive artificial intelligence (AI) market size was valued at USD 2.9 billion in 2021. The development in the auto business is supposed to drive the automotive",
+      "title": "Automotive Artificial Intelligence (AI) Market Size To Hit USD 19.1 Bn By 2030",
+      "excerpt": "The global automotive artificial intelligence (AI) market size was valued at USD 2.9 billion in 2021. The development in the auto business is supposed to drive the automotive artificial intelligence market.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030",
+      "webUrl": "https://menafn.com/1104911136/Automotive-Artificial-Intelligence-AI-Market-Size-To-Hit-USD-191-Bn-By-2030",
+      "originalUrl": "https://menafn.com/1104911136/Automotive-Artificial-Intelligence-AI-Market-Size-To-Hit-USD-191-Bn-By-2030",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?955237",
+          "width": 374,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28977012",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28977012",
-      "publishedDateTime": "2022-09-22T14:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T14:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Mena FN",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null

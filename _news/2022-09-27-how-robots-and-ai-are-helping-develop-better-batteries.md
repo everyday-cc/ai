@@ -54,20 +54,6 @@ related:
     quality: 47
   - title: "This guy is using AI to make a movie — and you can help decide what happens next"
     excerpt: "By Rachel Metz, CNN Business “Salt” resembles many science-fiction films from the ’70s and early ’80s, complete with 35mm footage of space freighters and moody alien landscapes. But while it looks like a throwback,"
-    publishedDateTime: 2022-09-25T13:00:00Z
-    webUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2022/09/25/this-guy-is-using-ai-to-make-a-movie-and-you-can-help-decide-what-happens-next/"
-    type: article
-    provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 34
-    images:
-      - url: "https://ktvz.b-cdn.net/2022/09/hypatia-h_3febe95d482d7cd960a9e95b1b63db68-h_e7b972d58ee467600c76672a0788a9e0-300-860x463.jpg"
-        width: 860
-        height: 463
-        isCached: true
-  - title: "This guy is using AI to make a movie — and you can help decide what happens next"
-    excerpt: "By Rachel Metz, CNN Business “Salt” resembles many science-fiction films from the ’70s and early ’80s, complete with 35mm footage of space freighters and moody alien landscapes. But while it looks like a throwback,"
     publishedDateTime: 2022-09-25T18:00:00Z
     webUrl: "https://localnews8.com/money/cnn-social-media-technology/2022/09/25/this-guy-is-using-ai-to-make-a-movie-and-you-can-help-decide-what-happens-next/"
     type: article

@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Turnstile Market 2022 : Growth Analysis, Key Stakeholders, Regional Outlook, End-User Applicants by 2028"
+    excerpt: "Face Recognition Turnstile Market Research Report is spread across 103 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
+    publishedDateTime: 2022-09-27T08:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-turnstile-market-2022-growth-analysis-key-stakeholders-regional-outlook-end-user-applicants-by-2028-2022-09-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "wSGmiQqW5hrgI3DyN1MWCJ+yYPa099wL4NNVj8W61kOLf/82sJsK+WJ2sSrpjwBNU/c2QyzGllHhQjsqgo4/EOHnU0gRPyJ1MjmN5DHOk0TS7foQLsOsKimkEkYMKogjjwMKIzJCNOgnf0NoIWuBTsuFmS2xCx39l4FJ7hbG3GNEJFz89FxNCQPqQz6IWMhT3Jx2xJp28zgYz83ftNwJoocNS8aWBOwwIklPqQozg3XtlGS9lHm33/ExcD2DvFlpuk83aWFuU9qAWX2ft3fvgoG5bUomDYqUd8Ljzd1RT1nJpVMzDxsGKtx0Gmc5oV91QBSi0sG4q7ee2mIRXqVI2QJpKiAfGh54HiDIu0C5EtY=;KtjChCN2piQZtxC9a9Adng=="
 ---

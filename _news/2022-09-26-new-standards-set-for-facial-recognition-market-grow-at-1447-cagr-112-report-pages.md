@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in IoT Market Size, Sales, CAGR And Competition Data from 2022 To 2029 | 102 Report Pages"
+    excerpt: "Global “ Artificial Intelligence in IoT Market \" Report is a detailed and comprehensive analysis for global Artificial Intelligence in IoT market. Both quantitative and qualitative analyses are presented by manufacturers,"
+    publishedDateTime: 2022-09-30T00:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-size-sales-cagr-and-competition-data-from-2022-to-2029-102-report-pages-2022-09-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "New standards set for Artificial Intelligence Market grow at 47.02% CAGR| 117 Report Pages"
     excerpt: "The global Artificial Intelligence market size is expected to expand at a CAGR of 47.02% during the forecast period, reaching USD 411290.49 million by 2027 was valued at USD 40728.3 million in 2021. Artificial Intelligence Market report gives an impression of the various developments,"
     publishedDateTime: 2022-09-27T06:39:00Z
@@ -99,6 +113,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision Market : Competitive Landscape and Analysis by Recent Trends 2022 to 2029 | 99 Report Pages"
+    excerpt: "According to this latest study, In 2022 the growth of Computer Vision Market is projected to reach Multimillion USD"
+    publishedDateTime: 2022-09-30T00:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-competitive-landscape-and-analysis-by-recent-trends-2022-to-2029-99-report-pages-2022-09-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2027"
     excerpt: "The global Facial Recognition market size was valued at USD 3975.52 million in 2021 and is expected to expand at a CAGR"
     publishedDateTime: 2022-09-28T04:42:00Z
@@ -108,6 +136,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Market Evolution Segmentation and Insight of Trends 2022 to 2029 with Top Countries Data | 103 Report Pages"
+    excerpt: "According to this latest study, In 2022 the growth of Voice Recognition Market is projected to reach Multimillion USD"
+    publishedDateTime: 2022-09-30T00:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-evolution-segmentation-and-insight-of-trends-2022-to-2029-with-top-countries-data-103-report-pages-2022-09-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

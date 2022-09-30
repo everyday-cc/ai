@@ -7,7 +7,7 @@ originalUrl: "https://za.investing.com/news/factboxthe-challenges-automakers-and
 webUrl: "https://za.investing.com/news/factboxthe-challenges-automakers-and-now-tesla-face-with-humanoid-robots-2622395"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -24,38 +24,6 @@ images:
     width: 800
     height: 534
     isCached: true
-
-related:
-  - title: "Elon Musk teases Tesla robot with humanoid ‘heart’ hands"
-    excerpt: "Elon Musk has teased the unveiling of a humanoid robot during Tesla ’s annual AI Day this week. The tech billionaire shared an image of robotic hands making a heart shape, together with the 30 September date for the artificial intelligence event."
-    publishedDateTime: 2022-09-28T05:50:00Z
-    webUrl: "https://www.independent.co.uk/tech/tesla-robot-elon-musk-optimus-ai-day-b2176994.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 56
-    images:
-      - url: "https://static.independent.co.uk/2020/08/19/11/breaking-news.png?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Elon Musk teases unveiling of spectacular humanoid robot that could replace human workers"
-    excerpt: "The human-link robots will be powered by artificial intelligence and could one-day carry out a number of helper roles."
-    publishedDateTime: 2022-09-29T21:23:00Z
-    webUrl: "https://www.express.co.uk/news/science/1676198/elon-musk-telsa-humanoid-robot-optimus-bot"
-    ampWebUrl: "https://www.express.co.uk/news/science/1676198/elon-musk-telsa-humanoid-robot-optimus-bot/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1676198/elon-musk-telsa-humanoid-robot-optimus-bot/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 50
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/Elon-Musk-1676198.jpg?r=1664489938220"
-        width: 590
-        height: 350
-        isCached: true
 
 secured: "BLifFudplMmF1ns2GDWbCZoKIu6gu1ln7wa5sE8QCb+gDAmSy2ciMapzZVDXCLoO5bSnu22h8Ulqh5FaoAXesbbQW3ltzb57dGk2gyBVHYsish0SGeldpMz2Aja+MU+b/Lz/TnhLtLSyL5X4FmHbbX9wrSSxHcyhZPR+2nuMyo+2853yXwAFTDSQQaU012Yp5Kh7af9w9c2CkcE0rt7yito1TELbdgPGS0I+y1V/T0cNkILcakAkrsfw9U02o02omBxUyAoYtrGCoFQ8RsZAIOXfIjd5yQz3GqknzrbqgNkGXNu4tzqLlqlpRL4yX+j8crFTScuuopI+cyweLB11Im39YZcvaSJ5DCDO8xuxrjtOu18KxrVz3LpomtLY/V0gfyxgcFGiNG67JAZL+JtnAKP+A1M8DZvLprW4TEe3v1a/MDBis8gB0p8i2SbPo/bBjEdLrtRaM2DktyAZSAASkJy/zXPF9ALSHGAAher3IKnhoZKAHtabi911H5gjdTQaffmnS69m2RriNs95Q4vUVg==;rl9wkVH4b4k1Nw5Vqe+V9g=="
 ---

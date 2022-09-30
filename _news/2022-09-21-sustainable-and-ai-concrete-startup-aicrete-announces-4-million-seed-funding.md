@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Sustainable and AI Concrete Startup AICrete Announces $4 Million Seed Funding"
-excerpt: "Sustainable and AI Concrete Startup AICrete Announces $4 Million Seed Funding Sep 21, 2022 (PRNewswire via COMTEX) -- PR Newswire RICHMOND, Calif., Sept."
-publishedDateTime: 2022-09-21T13:52:00Z
-originalUrl: "https://www.marketwatch.com/press-release/sustainable-and-ai-concrete-startup-aicrete-announces-4-million-seed-funding-2022-09-21"
-webUrl: "https://www.marketwatch.com/press-release/sustainable-and-ai-concrete-startup-aicrete-announces-4-million-seed-funding-2022-09-21"
+excerpt: "Through use of AI, AICrete is poised to reduce concrete emissions by up to 35% and drastically increase industry profit margins. RICHMOND, Calif. , Sept. 21, 2022 /PRNewswire/ --"
+publishedDateTime: 2022-09-21T15:14:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-sustainable-ai-concrete-startup-aicrete-announces-4-million-/2022/09/21/9678215.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-sustainable-ai-concrete-startup-aicrete-announces-4-million-/2022/09/21/9678215.htm"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+    width: 476
+    height: 210
     isCached: true
 
-secured: "VueyX2QHIFxgj1Ayxfbqj1pl4ByrENM9bg2eo/RExb7gD/LaqiiyVfSNL2UkZwqpi2xYGvAjLlJ4SlOKxEnZ+KSnYbZ1emVXokfNO9Bc+cdhDLU/hi4oNqIkXOM0KeGbJUuf82IjrhWb+3P8sdkvPWXF5QyrJfhhFS62sCmjsNmIccvM6rLu/kkt8jhCch2LX/KayHEZEtH91aWM6OZzbYrzQLVQgkKm+wCst9lsc3TAomI8gJKmi6fNTI8W617McHQtlecmsqc7QJLew09zlVNcJgxRxJ7vAUB+GAPpCfWTcQkpYP9q2xEPniyW7VxevySCIEjb13KVWMtIlTuYro4Mhsxe9opKl/g6cgtSkeo=;wKkyH3DtoEH36XRt0OT8wQ=="
+secured: "DzlHw7JF9doDSjWusoxQL9APwS0pVmAVMv2aQ/++0X4YaLFOzYgve3uenj5MJAhSmMC8zx4smu3dPBcQ/J4LJu/hnhv3UeBbtLlsf35uEmOQnJ3I5KSWPWv+TnmFv2wqZfTo68xPlTeoqWi94rotJlVO5hSltzchkJVNo4r8kZcVfX6UDX6j8W6fxZZkLb2ELRkt08s31kLxJlEjbLe0WkSR3zprQ0Y2H5/0YqpIcgAGLZvz430nF5qdRYOyd7TNAGKb+jFOVMW6u9pQOd+CdnfmZyblak59VCy1jUh9cWIBG2mQIPQ1uUaB3a/U4vN5cYihwJGvc8fFtge9wxfBUg+eieMyQPWHWu9kkI74ng8=;LfO+8nqiuvWNU5Bc5cPcfA=="
 ---
 

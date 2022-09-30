@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/09/28/make-your-very-own-ai-generated-po
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/28/make-your-very-own-ai-generated-pokemon-like-creature/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

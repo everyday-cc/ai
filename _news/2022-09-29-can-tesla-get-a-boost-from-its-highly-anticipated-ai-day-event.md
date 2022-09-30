@@ -7,8 +7,8 @@ originalUrl: "https://seekingalpha.com/news/3887203-can-tesla-get-a-boost-from-i
 webUrl: "https://seekingalpha.com/news/3887203-can-tesla-get-a-boost-from-its-highly-anticipated-ai-day-event"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: Seeking Alpha
@@ -26,17 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "Should You Buy Tesla (TSLA) Stock Ahead of Its AI Day 2022?"
-    excerpt: "The company’s AI Day generates an enormous buzz among Tesla fans and investors, as well as tech enthusiasts at large as it’s packed with exciting innovations and big surprises. Tesla’s 2021 AI Day knocked the audience for six as a dancing robot walked onto the stage to accompany Musk."
-    publishedDateTime: 2022-09-29T15:13:00Z
-    webUrl: "https://www.nasdaq.com/articles/should-you-buy-tesla-tsla-stock-ahead-of-its-ai-day-2022"
-    ampWebUrl: "https://www.nasdaq.com/articles/should-you-buy-tesla-tsla-stock-ahead-of-its-ai-day-2022?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/should-you-buy-tesla-tsla-stock-ahead-of-its-ai-day-2022?amp"
+  - title: "Wedbush Previews Tesla AI Day; Reiterates Outperform"
+    excerpt: "(NASDAQ: TSLA) are down 4.82% in mid-day trading ahead of the company's AI day tomorrow. Wedbush reiterated an Outperform rating with a price target of $360. The much anticipated event is expected to feature several next-generation technologies,"
+    publishedDateTime: 2022-09-29T14:48:00Z
+    webUrl: "https://uk.investing.com/news/stock-market-news/wedbush-previews-tesla-ai-day-reiterates-outperform-432SI-2766599"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 86
+      name: Investing
+      domain: investing.com
+    quality: 56
+    images:
+      - url: "https://i-invdn-com.investing.com/news/Tesla_800x533_L_1608133744.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Tesla to host AI Day on 30 September to demo latest tech"
+    excerpt: "But all eyes will be on Tesla’s robot that it teased at last year’s AI Day event. Named Optimus, the humanoid bot will be able to help carry out dangerous tasks, such as lifti"
+    publishedDateTime: 2022-09-29T13:13:00Z
+    webUrl: "https://www.stuff.tv/news/tesla-to-host-ai-day-on-30-september-to-demo-latest-tech/"
+    type: article
+    provider:
+      name: Stuff
+      domain: stuff.tv
+    quality: 36
 
 secured: "0DmkSBzWUbH20b3q+OaS3CAPUvEkEDcQGReH2h4O13x7y0RArUoH/QfXJzQdjhyxukUhoTS1zKQeTfCAtbHYFYT9oZIM8UxJws6RbBO9WWHRBwXdyMbl69yQ/J1u34EoHFvyEk9PWFfzIe5YlwzJ2wlCzlC9tXs4QpOtAT0ST9J0Ys1yZyc8Al5bL+9mhpUsukllCl+huj+OGVnxlFF/8okVRSQ267FXwFvW5iXLl3ig8J/e9bQoVbcA5vBb786Sh9HRjAkC5038AicqX6N8ho8HOmKC33PBN0PO3uFgpJxXHyPoV0bg+lJj1ZsdtKhGVc4sycSrLVaTA4cBgm/PXpA0czZhy8VO7fgnxHBZfVaNrSzUoqGdaHHVmwc+wT2YZ2pBaXVqMwK+UIhAihPhoV+Dfb5xq8zPRf+E6hJt41vmUrEqXa+k4bvMUYNMUW+Fu4e0m3EOPYhZaHXek+s8U/XjKFpDykTxWuOu56jcWAd3h6SnQrtFlJR4iF4MjkslrFyByPYBtCEgIjlNWY82pQ==;b1TqBz/7N0zpKRo/fuh+AQ=="
 ---

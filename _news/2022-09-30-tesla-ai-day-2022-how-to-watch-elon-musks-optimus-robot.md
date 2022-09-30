@@ -8,9 +8,9 @@ webUrl: "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-
 ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot/"
 type: article
-quality: 121
-heat: -1
-published: false
+quality: 123
+heat: 293
+published: true
 
 provider:
   name: CNET
@@ -24,6 +24,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Autos
+  - AI Hardware
 
 images:
   - url: "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200"
@@ -110,6 +111,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Should You Buy Tesla (TSLA) Stock Ahead of Its AI Day 2022?"
+    excerpt: "The company’s AI Day generates an enormous buzz among Tesla fans and investors, as well as tech enthusiasts at large as it’s packed with exciting innovations and big surprises. Tesla’s 2021 AI Day knocked the audience for six as a dancing robot walked onto the stage to accompany Musk."
+    publishedDateTime: 2022-09-29T15:13:00Z
+    webUrl: "https://www.nasdaq.com/articles/should-you-buy-tesla-tsla-stock-ahead-of-its-ai-day-2022"
+    ampWebUrl: "https://www.nasdaq.com/articles/should-you-buy-tesla-tsla-stock-ahead-of-its-ai-day-2022?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/should-you-buy-tesla-tsla-stock-ahead-of-its-ai-day-2022?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 86
   - title: "What to Expect at Tesla AI Day 2022"
     excerpt: "The Sept. 30 event will be 'highly technical,' says Elon Musk, but we may get details about Tesla's humanoid robot and a progress report on its full self-driving plans."
     publishedDateTime: 2022-09-29T22:14:00Z
@@ -183,22 +195,6 @@ related:
       name: Philippine Daily Inquirer
       domain: inquirer.net
     quality: 73
-  - title: "Tesla A.I. Day Is Coming. Expect High-End Computing, Self-Driving Cars, and Robots."
-    excerpt: "High-end computing, neural networks, self-driving cars, and robots could come up at the car company's second annual event."
-    publishedDateTime: 2022-09-29T12:32:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-elon-musk-robot-artificial-intelligence-day-51664401265"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-elon-musk-robot-artificial-intelligence-day-51664401265"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-elon-musk-robot-artificial-intelligence-day-51664401265"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 70
-    images:
-      - url: "https://images.barrons.com/im-631715/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Here’s what to expect at Tesla AI day"
     excerpt: "Tesla Inc's \"AI day\" is back, with investors hoping this time the electric-vehicle maker will show something other than a spandex-clad human mimicking"
     publishedDateTime: 2022-09-28T19:25:00Z
@@ -231,38 +227,34 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Wedbush Previews Tesla AI Day; Reiterates Outperform"
-    excerpt: "(NASDAQ: TSLA) are down 4.82% in mid-day trading ahead of the company's AI day tomorrow. Wedbush reiterated an Outperform rating with a price target of $360. The much anticipated event is expected to feature several next-generation technologies,"
-    publishedDateTime: 2022-09-29T14:48:00Z
-    webUrl: "https://uk.investing.com/news/stock-market-news/wedbush-previews-tesla-ai-day-reiterates-outperform-432SI-2766599"
+  - title: "Elon Musk teases Tesla robot with humanoid ‘heart’ hands"
+    excerpt: "Elon Musk has teased the unveiling of a humanoid robot during Tesla ’s annual AI Day this week. The tech billionaire shared an image of robotic hands making a heart shape, together with the 30 September date for the artificial intelligence event."
+    publishedDateTime: 2022-09-28T05:50:00Z
+    webUrl: "https://www.independent.co.uk/tech/tesla-robot-elon-musk-optimus-ai-day-b2176994.html"
     type: article
     provider:
-      name: Investing
-      domain: investing.com
+      name: The Independent
+      domain: independent.co.uk
     quality: 56
     images:
-      - url: "https://i-invdn-com.investing.com/news/Tesla_800x533_L_1608133744.jpg"
-        width: 800
-        height: 533
+      - url: "https://static.independent.co.uk/2020/08/19/11/breaking-news.png?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "Tesla to host AI Day on 30 September to demo latest tech"
-    excerpt: "But all eyes will be on Tesla’s robot that it teased at last year’s AI Day event. Named Optimus, the humanoid bot will be able to help carry out dangerous tasks, such as lifti"
-    publishedDateTime: 2022-09-29T13:13:00Z
-    webUrl: "https://www.stuff.tv/news/tesla-to-host-ai-day-on-30-september-to-demo-latest-tech/"
+  - title: "Elon Musk and Tesla to unveil new humanoid robot. Here's what you need to know"
+    excerpt: "Elon Musk is set to debut his latest creation -- a humanoid robot, also known as Tesla Bot, named Optimus -- on Friday, Sept. 30 at Tesla's second AI Day, an event his company is putting on for the second time to show advanced examples of artificial intelligence technology and recruit robotic engineers,"
+    publishedDateTime: 2022-09-30T00:32:00Z
+    webUrl: "https://www.chron.com/news/article/Elon-Musk-Tesla-to-unveil-humanoid-robot-AI-Day-17476013.php"
     type: article
     provider:
-      name: Stuff
-      domain: stuff.tv
-    quality: 36
-  - title: "Tesla's New Self-Driving Version 10.69 Is A Big Leap Forward"
-    excerpt: "New version gives us a glimpse into the future with respect to full self-driving on surface streets. Read more here."
-    publishedDateTime: 2022-09-27T18:34:00Z
-    webUrl: "https://seekingalpha.com/article/4543424-tesla-new-self-driving-big-leap-forward"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 52
+    images:
+      - url: "https://s.hdnux.com/photos/01/22/76/55/21752667/9/rawImage.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
 
 secured: "qqfJDNKbcmIPMg1zBA3ei4osLw1xBcoQZtbFfm4e+z5LNu2yfNyoF0NR8uc/b9kZc2n6hejC09mqKu+5CZs4cH9T5fOvFiUECLy45mJUNHeAJeC65Nd8jkKC2lWQMbXEY0ZaxLYVtG/l2b70xjz2PmCx/ubGIqk2Ipygu8yklxyhEUmIhkrtxoZ8fx5cxRNvQv6QP7e8T6XC+qRkqzQfKq8+XP4TVH7oe5QWhpkOBtCBPSsKSrTBBh+0wJ5zWiR7UmIqXWlJGH0iB49YYQbS/Ctg3ulP6wwWSOQLRznaJkgwdNg1iOVc8BCaTnGYAI7LRyx1ke4nPtIBfs7FJB1mxKLZnx9OA5kBa0vKv1o6O+e9hH/8VH5QE59yDARXOlf3NeYG7nyctFL31KQ7FFanmxtMqgyUR2owxU+NJxyOSitmlC2r+TWegIqvzY7cpxA4SY2a2p3BcyOTg5X7SGS2iABJN5GYQ9vSvWtd72sBQx+aRTDFxNrqI9wWBL19hlYbstf6X5gM2vJzHmz63Elolw==;OPQaChmUhfmbqnNuTSRfTg=="
 ---

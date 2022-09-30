@@ -2,49 +2,6 @@
   "page": 27,
   "value": [
     {
-      "path": "_news/2022-09-06-natural-language-processing-nlp-market-worth-494-billion-by-2029-exclusive-report-by-reports-publisher.md",
-      "title": "Natural Language Processing (NLP) Market Worth $49.4 Billion by 2029 – Exclusive Report by REPORTS PUBLISHER",
-      "excerpt": "Natural Language Processing (NLP) Market by Component (Solutions & Services), Application (Sentiment Analysis, Social Media Monitoring), Technology (IVR, OCR, Auto Coding), Vertical (BFSI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-market-worth-49-4-billion-by-2029-exclusive-report-by-reports-publisher",
-      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-market-worth-49-4-billion-by-2029-exclusive-report-by-reports-publisher",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/Kevin-Michael-Miller-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-06-analysis-banned-us-ai-chips-in-high-demand-at-chinese-state-institutes.md",
       "title": "Analysis-Banned U.S. AI Chips In High Demand At Chinese State Institutes",
       "excerpt": "High-profile universities and state-run research institutes in China have been relying on a U.S. computing chip to power their artificial intelligence (AI) technology but whose export to the ...",
@@ -1086,6 +1043,58 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-if-you-think-your-preparation-will-help-you-later-you-will-probably-be-right-a-new-study-says.md",
+      "title": "If you think your preparation will help you later, you will probably be right, a new study says",
+      "excerpt": "It just might, according to a new study. People did better on a task relying on their working memory when they underwent cognitive training and learned it would help with their performance ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/09/05/health/positive-expectations-cognitive-training-wellness/index.html",
+      "originalUrl": "https://www.cnn.com/2022/09/05/health/positive-expectations-cognitive-training-wellness/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220902160438-climbing-up-stock-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/09/05/health/positive-expectations-cognitive-training-wellness/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/05/health/positive-expectations-cognitive-training-wellness/index.html",
+      "publishedDateTime": "2022-09-05T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }
