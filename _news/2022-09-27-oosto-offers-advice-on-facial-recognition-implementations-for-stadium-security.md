@@ -139,20 +139,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Star casinos to use more facial recognition"
-    excerpt: "The Star was found “ unsuitable to hold a casino licence in NSW ” following the release of a damning report into its practices, particularly around fraud prevention and risk. In a bid to keep its licence,"
-    publishedDateTime: 2022-09-27T00:51:00Z
-    webUrl: "https://www.itnews.com.au/news/the-star-casinos-to-use-more-facial-recognition-585734"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/CRN_roulette_casiono_gambling.jpg"
-        width: 690
-        height: 428
-        isCached: true
   - title: "Facial recognition use should be registered and — in some cases — banned by law: report"
     excerpt: "A group of academics has published model regulation for the technology as concern over its use continues to grow."
     publishedDateTime: 2022-09-26T21:56:00Z

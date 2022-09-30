@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-28T13:16:00Z
 originalUrl: "https://skift.com/blog/faroe-islands-national-gallery-becomes-the-first-to-launch-artificial-intelligence-exhibit/"
 webUrl: "https://skift.com/blog/faroe-islands-national-gallery-becomes-the-first-to-launch-artificial-intelligence-exhibit/"
 type: article
-quality: 7
-heat: 7
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI
 
-secured: "plFumuhX/h5rlcDFrdZQT0AVvoyOegfhrfaSI4y3QN3xPyh8x/qqxavQDP0jUdyWIHZ2xG2KPjrTFfAUIgJk6e/aD7w0cTMf5YYpkF2lOocsKdmPdXCASOtSo/pvTwq+hZsCx/SnrKyIrRnNp6Ejw92Qw2DYY9fNDwUyEUQBy/+Yb+xSEnUhfNd6mVR0MekWy003pGA54rkdqDLxOLvgRE/ADC147ZzUDTBVcvqWgebYdRPxByGWOuYsSt682Uo/17Fh3Av9vuT43lFUN0yozfxMPwD8XJEyuwfQvKkxUs91qCFEH+nvIeLqYr5Ky8bythQvQyulCCL3KnrnqXy+wjvaAqU9Fp72STn6EQ9pOCQ=;9eV20PvM7Y+TAgZzBT6FTg=="
+images:
+  - url: "https://skift.com/wp-content/uploads/2022/09/f956de51bf9bc6123a8b2f4120fd8566aa9f295f-1024x1024.png"
+    width: 1024
+    height: 1024
+    isCached: true
+
+secured: "xdQ8poEWY5f7qKZ6e8OSv9+Rb+8awql8DyGxLGxCihmtMWI6dNsctzQtn28UZvtlrGqgdyHXWnwBdAh5ShF/UEQfs4duwD6T90hWf67GPuCZz7+ibd1zEl1wauSBTsnkMI8gnBFb6Xqq2ZZmHSFiVwlsf000yM6lczXZHlZZsNe8ftalylvcFn++FWXo2sTXDkyh5Px33n21pfhcFM4i9G5Xi5fTRQvI+0edcWCo1DQDwXadVe4U61+KRkQkYpUP2+AStQhL69oL+CsjJLksK9HhdCJBJZUNabYiH2nl8YbfSmBn+3nFfP6VBwhLYlHzFJDaWd5cHeGGFEu7SSEG2ckITqHZpmw/IcGK93wcA+Y=;+8As1QrVeKI2JKrVXbnDsA=="
 ---
 

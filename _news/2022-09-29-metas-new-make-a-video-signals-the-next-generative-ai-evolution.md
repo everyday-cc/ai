@@ -45,6 +45,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Meta announces AI-based tool for generating video from text"
+    excerpt: "The tool builds on popular image-generation programs like DALL-E and appears to have won a race to extend the tech to video."
+    publishedDateTime: 2022-09-29T13:01:00Z
+    webUrl: "https://www.axios.com/2022/09/29/meta-ai-video-generation-tool"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 39
+    images:
+      - url: "https://images.axios.com/0Jj42RSF1GMh2XOz4W7TBd9siB0=/110x0:2048x1090/1366x768/2022/09/29/1664423203625.png"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "PpnKSWO5y0fVkwdYe5ektgNXUF0uhuXl24/rePR7ZEf2NSTdv17mdqHWt3wzzgYRSvQvWwnSyPIEpRnJA2YmAYLY70l0TVJ53tDyWBMSpiL9PyWIeL9Hv31xGo0L+Hbgst+hLLgXrBw/wu8tyZE/tyFCURNdJTW/BPnqfajhCvUN89RwzttMeWyCUDEDnpOIHQTvMVaaGqE1ChtAb4a7XEIMUQCtYuw7WA9AS7DdFVzIzLI5g9wJPVhGMvaLQYZinyOMYnBkf16xUQkijiCcHNmpYhW1EtPkfdeHYEHwCPaUBsbyw//NaEW2MGp+jnwoTq4fwKJKy66c88Vd2NsYXQzfUjHavCRRXoroqUhGOsgJKu7dts8dISYPX25gLlgJFUHYHOCaj5XxoTMSaStIKbDNXfHH+sl9VAt4qAqapCyXi3uHzD2bnLVvCFIczafxZBJhsHVv38huICZJgU7IjOU+yXDsI8y+k1gN+cBHWtKG42agcjXzd1pC+aA8c8GCntwlXhD8lUiKtLtzuq2PkQ==;1kx6RdlEm08DHBdkmyCgDA=="
 ---

@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Artificial intelligence reduces a 100,000-equation quantum physics problem to only four equations"
-excerpt: "Using artificial intelligence, physicists have compressed a daunting quantum problem that until now required 100,000 equations into a bite-size task of as few as four equations—all without sacrificing accuracy."
-publishedDateTime: 2022-09-26T14:05:00Z
-originalUrl: "https://phys.org/news/2022-09-artificial-intelligence-equation-quantum-physics.html"
-webUrl: "https://phys.org/news/2022-09-artificial-intelligence-equation-quantum-physics.html"
-ampWebUrl: "https://phys.org/news/2022-09-artificial-intelligence-equation-quantum-physics.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-artificial-intelligence-equation-quantum-physics.amp"
+excerpt: "Using artificial intelligence ... colleagues wondered if they could use a machine learning tool known as a neural network to make the renormalization group more manageable. The neural network ..."
+publishedDateTime: 2022-09-26T13:01:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/965836"
+webUrl: "https://www.eurekalert.org/news-releases/965836"
 type: article
-quality: 46
-heat: 46
+quality: 26
+heat: 26
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-69.jpg"
-    width: 2008
-    height: 2008
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/17c32e60-6f93-42a9-bbce-e8450900c0e3/Rendition/thumbnail/Content/Public"
+    width: 300
+    height: 300
     isCached: true
 
 related:
@@ -42,6 +40,6 @@ related:
         height: 437
         isCached: true
 
-secured: "8NXlSr/uxDYmCxWJaHiC7abh+P4X3/8JmryMuNUQWJXjzNRKEdIXZX+Qa514bh2j/f8snos+wPqp+M7D6+dmskhOV6Nye4oPc5JL2n5sSHphtYaZv/HDSYcNci5WuUTCAjSUx70SOFk2ITQ45SJhlQMwB/wJuywMgL8syimzjJrQ0DwElAc4eryHz4oXWIt9wRKrRhJsimALS6nK81yNtO7f2xB7mxYWezpcWWdd4mFHKwH4ZnCthOaN+dhFUFty0RsFMO49pWP6XPXdXRj/g+5vUbIHlxLCYGhg+vhO+A+43xxyT3VijCYmPuqI+C1JfbjjIYzhgXyrFLdAsG0qklJfMVE6EBtMSIjFlbBw1yU=;PP84Avw7Loh2TAXrq5vS4A=="
+secured: "aKGcgFKJ1D7dNkJA6b1Msr8hs5ecCo1FHQYkZlo2zkNe7i+VC/YjmD9a3MG9Ribg0M2iFseMlMlp4MGn6ok/QgGKs1yT2XvI2B3RpYJv97nUR6IeKUlrVSV/bqyAExjN6BI3/w5ZNtkAhCeUrfc7xshMIUlLkJANC1Ps/t8eK6qg+MKSTKCuaOm9K0BGLIWjtqUmY3Wor0W6AJklVS+jkOKWV4sodrcpegsG7ahNeDgYqlxhCvHhaMDXh2n9+Fa5gwepncJ82WRQVU01y3HKiFlvSVjQEeHISHGS8X77cjRiJw6kKoan1tqumxszqeRf6lWIPq4J7FTDMcUOWW2WMlc34Yluo9mJ/VguaBBDOtA=;Bq3rl8O5kptsRxWkVa1iFw=="
 ---
 

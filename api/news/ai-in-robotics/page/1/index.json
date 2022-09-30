@@ -393,7 +393,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-updates-on-optimus-robot-self-driving-cars-how-to-watch/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 262,
+      "heat": 282,
       "tags": null,
       "images": [
         {
@@ -438,6 +438,50 @@
       ]
     },
     {
+      "path": "_news/2022-09-28-elon-musk-teases-tesla-robot-with-humanoid-heart-hands.md",
+      "title": "Elon Musk teases Tesla robot with humanoid ‘heart’ hands",
+      "excerpt": "Elon Musk has teased the unveiling of a humanoid robot during Tesla ’s annual AI Day this week. The tech billionaire shared an image of robotic hands making a heart shape, together with the 30 September date for the artificial intelligence event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/tech/tesla-robot-elon-musk-optimus-ai-day-b2176994.html",
+      "originalUrl": "https://www.independent.co.uk/tech/tesla-robot-elon-musk-optimus-ai-day-b2176994.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2020/08/19/11/breaking-news.png?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T22:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-27-ai-and-machine-learning-enter-the-kitchen-at-chipotle.md",
       "title": "AI and Machine Learning Enter the Kitchen at Chipotle",
       "excerpt": "The first, piloting in select Southern California restaurants, is a cook-to-needs kitchen management system that provides demand-based cooking and ingredient preparation forecasts to “optimize throughput and freshness while minimizing food waste,",
@@ -446,7 +490,7 @@
       "originalUrl": "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enter-kitchen-chipotle",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -1411,49 +1455,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-artificial-intelligence-ai-robots-market-top-trends-and-key-players-analysis-report.md",
-      "title": "Artificial Intelligence (AI) Robots Market | Top Trends and Key Players Analysis Report",
-      "excerpt": "AI, or artificial intelligence, in robotics is the integration of AI technology with robots, enabling them to perform repetitive tasks more efficiently without human intervention. Rapid ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-robots-market-top-trends-and-key-players-analysis-report",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-robots-market-top-trends-and-key-players-analysis-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/09/CCC-1-e1663981758586-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T23:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -5,8 +5,10 @@ excerpt: "Meta has today unveiled an AI system that generates short videos based
 publishedDateTime: 2022-09-29T13:02:00Z
 originalUrl: "https://www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/"
 webUrl: "https://www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/"
+ampWebUrl: "https://www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/amp/"
+cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/amp/"
 type: article
-quality: 17
+quality: 57
 heat: -1
 published: false
 
@@ -16,6 +18,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://wp.technologyreview.com/wp-content/uploads/2022/09/dog-gif.gif?w=512"
+    width: 512
+    height: 512
+    isCached: true
 
 related:
   - title: "I tested out an AI art generator and here's what I learned"
@@ -72,6 +80,6 @@ related:
         height: 586
         isCached: true
 
-secured: "+dj/FyWofvdA58jIV3pcCGbtQC7s8jnRHGwDtlY36Fmnl3KMCb35FQeCgIo83BJ2/OMczo0eqEI6yn1b2ofsfLFhC2lYAmjndDgJWsEW9XBUgiDgoxJR811tpTtLdmcU107Q3EWK9qPAsIQ0nNbeRhEzebk7Hg1DdRaQNKYx5yKpvi/m+RTczrx3WMjJo2UgKWhebwVNUV6SMXQNSwLaTKpE6JZSdar0BZ8goGVDtKJBLtI4K9SfftodW8NOWMHlqBMrmLzou88FWdqSqd6an8IZOeMzngwmdlU4iqK8SpADrrt2w89tJm6CKuB58pRG/ufRzMJpmSaNX7Q0zfq58XQ4nTuBkH4pVwRwdbug7Zo=;DEakqOi6h8evUUxOh1DzrQ=="
+secured: "gSy31Z9PY/RCQm6Yw84wOKJFclsCSESn+vO96qH9Nz2JpQqJZwP47+LYf/uXFZ2llfpijELVgKSuQ2T4W5taANVUSe01hxoSssDToTaMT1CBpbX4iUQISKJlaTm+BpzvqRNRMLyLyu30Cenkd4KlAlLMMIWBxq2Qp8NWYelzTXIQ7lxEKTYn3xiATILk6/u/JNL1Q7IjZIyV2P6cUOn7vMMY81sx8L6hTv32tyHsr8xdk6fb/fW+hcs578f/Tyu50T3xAWQ5CM3aGgnJwyX5auVn7R8vVDOYrZPr28CHDYl/EUJr43Gpyh7fMJivEKSB/PsAXlBeqEfgy2a04YBlhkHPK3pZoZ4t2jLfx7PXu+k=;2RPsc7J7kzTF+ysKvFLaiA=="
 ---
 

@@ -2,6 +2,50 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-06-22-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-is-expected-to-reach-usd-798-billion-by-2028-fior-markets.md",
+      "title": "Natural Language Processing (NLP) In Healthcare And Life Sciences Market is Expected to Reach USD 7.98 Billion by 2028 : Fior Markets",
+      "excerpt": "As per the report published by Fior Markets, the global natural language processing (NLP) in healthcare and life sciences market is expected to grow from USD 1.84 billion in 2020 and to reach USD ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-is-expected-to-reach-usd-7-98-billion-by-2028-fior-markets",
+      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-is-expected-to-reach-usd-7-98-billion-by-2028-fior-markets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Ukraine-Tank-war-AFP-1K-600x337.jpeg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T01:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-artificial-intelligence-technology-can-secure-sites-by-scanning-major-venues-for-weapons.md",
       "title": "Artificial intelligence technology can secure sites by scanning major venues for weapons",
       "excerpt": "Artificial intelligence, or AI, is being used to help secure sites from sports arenas to churches and schools. The technology is being used to scan for weapons, including guns, knives and explosives as people walk between standing panels. If a weapon is ...",
@@ -1359,40 +1403,6 @@
         "AI",
         "Machine Learning",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-global-healthcare-artificial-intelligence-report-2022-future-growth-potential-enhanced-by-the-shift-toward-value-based-care.md",
-      "title": "Global Healthcare Artificial Intelligence Report 2022: Future Growth Potential Enhanced by the Shift Toward Value-based Care",
-      "excerpt": "DUBLIN, June 13, 2022 /PRNewswire/ -- The \"Global Healthcare Artificial Intelligence Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This report examines the role ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/global-healthcare-artificial-intelligence-report-2022-future-growth-potential-enhanced-by-the-shift-toward-value/article_7a4a4881-0839-5216-af34-4467b63806d6.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/global-healthcare-artificial-intelligence-report-2022-future-growth-potential-enhanced-by-the-shift-toward-value/article_7a4a4881-0839-5216-af34-4467b63806d6.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -79,6 +79,36 @@ related:
         width: 960
         height: 1200
         isCached: true
+  - title: "How to watch Tesla’s AI Day tomorrow and what to expect"
+    excerpt: "Tesla is holding its second AI Day on September 30, and a prototype of its humanoid robot is expected to make an appearance."
+    publishedDateTime: 2022-09-29T21:30:00Z
+    webUrl: "https://www.digitaltrends.com/computing/how-to-watch-tesla-ai-day/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/how-to-watch-tesla-ai-day/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-watch-tesla-ai-day/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 104
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2022/09/Fdx4jsfWIAMMH6D.jpeg?p=1"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "What to Expect at Tesla AI Day 2022"
+    excerpt: "The Sept. 30 event will be 'highly technical,' says Elon Musk, but we may get details about Tesla's humanoid robot and a progress report on its full self-driving plans."
+    publishedDateTime: 2022-09-29T22:14:00Z
+    webUrl: "https://uk.pcmag.com/cars-auto/142960/what-to-expect-at-tesla-ai-day-2022"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 86
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/w/what-to-ex/what-to-expect-at-tesla-ai-day-2022_nchs.1200.png"
+        width: 717
+        height: 403
+        isCached: true
   - title: "ASX Tech Stocks: Tesla readies robot prototype Optimus for release at AI Day this month"
     excerpt: "Tesla plans to release prototype humanoid robot at AI Day on Friday Micro-X nabs an extension on miniature baggage scanner deal with the US Department of Homeland Security Superloop picks up VostroNet,"
     publishedDateTime: 2022-09-25T15:24:00Z

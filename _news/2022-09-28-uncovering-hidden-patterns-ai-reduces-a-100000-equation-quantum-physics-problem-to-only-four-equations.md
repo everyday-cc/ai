@@ -26,20 +26,18 @@ images:
 
 related:
   - title: "Artificial intelligence reduces a 100,000-equation quantum physics problem to only four equations"
-    excerpt: "Using artificial intelligence, physicists have compressed a daunting quantum problem that until now required 100,000 equations into a bite-size task of as few as four equations—all without sacrificing accuracy."
-    publishedDateTime: 2022-09-26T14:05:00Z
-    webUrl: "https://phys.org/news/2022-09-artificial-intelligence-equation-quantum-physics.html"
-    ampWebUrl: "https://phys.org/news/2022-09-artificial-intelligence-equation-quantum-physics.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-artificial-intelligence-equation-quantum-physics.amp"
+    excerpt: "Using artificial intelligence ... colleagues wondered if they could use a machine learning tool known as a neural network to make the renormalization group more manageable. The neural network ..."
+    publishedDateTime: 2022-09-26T13:01:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/965836"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 46
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 26
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-69.jpg"
-        width: 2008
-        height: 2008
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/17c32e60-6f93-42a9-bbce-e8450900c0e3/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "CAxtx56YGwgbdXRR41ge4ttJVSCrbZcUBSzD7H+M/oEVhrNXw1NjqSCiQ8bfdDt0tx6G4jlAdZEIC6BzpvLjGz9LuC+In1x7yXVeiLKV86CNnMzObkADKqZgZKumYxFv3S0jBZeBWpn5naXXPv+c1T7k7nhFdFK6juuKWfe42LO8ZFBfjDZJFasbrcGASnGkcD7MNH1Kwq7ibNvOA0baDlo9TtY89fK94fMGhAmRWd0fmnp7dVYirthrpQSmtHdzIc5U1csN+DgufaO/108bYAqzAfKk/qPpUX1CX6Dr8a+GkVkT70NRcaSUyUb+XypzDRnIZu9FNpw14m2CL3vkP6hfmwKBRThp9MNhV0IzaouLvqidqI2uI/mph8MV18Kt7Y2HAnXKbYL1cmnYcOY9+tr9IjzGPGnX4qH8/IhQBxuZmjFYm2LgS9hydzDilRbg+VhzbVbpYRegfCneYvNRFIpnGWdSzcdZ6usIAxNCU6D8MUFl7iWgMDqP4gGkx1fwvXSSsjDaV7r0hsRBqeZ3iw==;q+tWhuX6yvXMOty+KbGAAA=="

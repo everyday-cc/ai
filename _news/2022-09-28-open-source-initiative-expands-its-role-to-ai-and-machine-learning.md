@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/open-source-initiative-expa
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/open-source-initiative-expands-its-role-to-ai-and-machine-learning/"
 type: article
 quality: 106
-heat: 108
+heat: 106
 published: true
 
 provider:

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-30-house-democrats-debut-new-bill-to-limit-us-police-use-of-facial-recognition.md",
+      "title": "House Democrats debut new bill to limit US police use of facial recognition",
+      "excerpt": "The bill, if passed, would require police across the United States to first obtain a warrant before using facial recognition technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/",
+      "originalUrl": "https://techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/facial-recognition-tech.gif?resize=1200,799",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/amp/",
+      "publishedDateTime": "2022-09-29T15:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-30-aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services.md",
       "title": "AWS and SK Telecom Collaborate to Co-Develop Computer Vision AI Services",
       "excerpt": "New services will make it easier for organizations to build and run computer vision applications at scale—at the edge, in the cloud, and on premises—to enhance productivity and operations Amazon Web Services (AWS),",
@@ -203,7 +255,7 @@
       "originalUrl": "https://venturebeat.com/ai/intel-geti-and-openvino-efforts-advance-ai-and-computer-vision/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -351,7 +403,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/22/09/n29023402/new-report-offers-blueprint-for-regulation-of-facial-recognition-technology",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -1347,58 +1399,6 @@
         "name": "Associated Press",
         "domain": "apnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-face-recognition-smart-lock-market-key-player-competition-weakness-and-strengths-from-2022-to-2028.md",
-      "title": "Face Recognition Smart Lock Market Key Player, Competition Weakness and Strengths from 2022 to 2028",
-      "excerpt": "The \"Face Recognition Smart Lock Market\" is segmented into North America: United States, Canada, Europe: GermanyFrance, U.K., Italy, Russia,Asia-Pacific: China, Japan, South, India, Australia, China,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-smart-lock-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-09-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-smart-lock-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-09-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

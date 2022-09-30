@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/intel-geti-and-openvino-efforts-advance-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/intel-geti-and-openvino-efforts-advance-ai-and-computer-vision/amp/"
 type: article
 quality: 106
-heat: 108
+heat: 106
 published: true
 
 provider:

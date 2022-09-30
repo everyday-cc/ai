@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-09-teen-scientists-set-for-swiss-robotics-contest.md",
+      "title": "Teen scientists set for Swiss robotics contest",
+      "excerpt": "It is being controlled by java coding language keyed on a driver hub and a gaming pad that controls its different functions. Building, or rather, assembling robots is all fun and games to bring ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.the-star.co.ke/sasa/lifestyle/2022-09-09-teen-scientists-set-for-swiss-robotics-contest/",
+      "originalUrl": "https://www.the-star.co.ke/sasa/lifestyle/2022-09-09-teen-scientists-set-for-swiss-robotics-contest/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T20:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "the-star.co.ke",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-09-tang-yu-an-ai-powered-robot-named-ceo-of-a-chinese-company.md",
       "title": "Tang Yu, An AI-Powered Robot, Named CEO Of A Chinese Company",
       "excerpt": "The metaverse firm has chosen an AI-powered virtual humanoid robot as its chief executive officer (CEO). The official announcement was made last week. According to a report in UK-based The Metro ...",
@@ -1272,58 +1306,6 @@
         "name": "WOWT",
         "domain": "wowt.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-these-cute-robots-could-deliver-your-next-coffee.md",
-      "title": "These cute robots could deliver your next coffee",
-      "excerpt": "Hong Kong startup Rice Robotics' delivery bot Rice is designed to assist in settings like cafes and hotels. It's already serving up drinks around the city -- and the company hopes it will help to bring about a robot revolution in the hospitality sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/travel/article/rice-robotics-hong-kong-hospitality-hnk-spc-intl/index.html",
-      "originalUrl": "https://www.cnn.com/travel/article/rice-robotics-hong-kong-hospitality-hnk-spc-intl/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dynaimage.cdn.cnn.com/cnn/w_1200/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F220901160252-01-hospitality-service-robots-super-tease.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnn.com/travel/amp/rice-robotics-hong-kong-hospitality-hnk-spc-intl/index.html",
-      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/travel/amp/rice-robotics-hong-kong-hospitality-hnk-spc-intl/index.html",
-      "publishedDateTime": "2022-09-02T22:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

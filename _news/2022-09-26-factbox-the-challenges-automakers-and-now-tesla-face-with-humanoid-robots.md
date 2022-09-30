@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Elon Musk teases unveiling of spectacular humanoid robot that could replace human workers"
+    excerpt: "The human-link robots will be powered by artificial intelligence and could one-day carry out a number of helper roles."
+    publishedDateTime: 2022-09-29T21:23:00Z
+    webUrl: "https://www.express.co.uk/news/science/1676198/elon-musk-telsa-humanoid-robot-optimus-bot"
+    ampWebUrl: "https://www.express.co.uk/news/science/1676198/elon-musk-telsa-humanoid-robot-optimus-bot/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1676198/elon-musk-telsa-humanoid-robot-optimus-bot/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 50
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/Elon-Musk-1676198.jpg?r=1664489938220"
+        width: 590
+        height: 350
+        isCached: true
 
 secured: "BLifFudplMmF1ns2GDWbCZoKIu6gu1ln7wa5sE8QCb+gDAmSy2ciMapzZVDXCLoO5bSnu22h8Ulqh5FaoAXesbbQW3ltzb57dGk2gyBVHYsish0SGeldpMz2Aja+MU+b/Lz/TnhLtLSyL5X4FmHbbX9wrSSxHcyhZPR+2nuMyo+2853yXwAFTDSQQaU012Yp5Kh7af9w9c2CkcE0rt7yito1TELbdgPGS0I+y1V/T0cNkILcakAkrsfw9U02o02omBxUyAoYtrGCoFQ8RsZAIOXfIjd5yQz3GqknzrbqgNkGXNu4tzqLlqlpRL4yX+j8crFTScuuopI+cyweLB11Im39YZcvaSJ5DCDO8xuxrjtOu18KxrVz3LpomtLY/V0gfyxgcFGiNG67JAZL+JtnAKP+A1M8DZvLprW4TEe3v1a/MDBis8gB0p8i2SbPo/bBjEdLrtRaM2DktyAZSAASkJy/zXPF9ALSHGAAher3IKnhoZKAHtabi911H5gjdTQaffmnS69m2RriNs95Q4vUVg==;rl9wkVH4b4k1Nw5Vqe+V9g=="
 ---

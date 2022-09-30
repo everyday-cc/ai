@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meta has developed an AI that generates video based on text prompts"
+    excerpt: "Meta has today unveiled an AI system that generates short videos based on text prompts. Make-A-Video lets you type in a string of words, like “A dog wearing a superhero outfit with a red cape flying through the sky” and it generates a 5-second video that,"
+    publishedDateTime: 2022-09-29T13:02:00Z
+    webUrl: "https://www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/09/dog-gif.gif?w=512"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Why This Online Archivist Isn't Feeling Much Angst About AI-Generated Art"
     excerpt: "Scott, an archivist and curator at the Internet Archive(Opens in a new window), treated the audience to a slideshow of AI illustrations drawn for such requests as “a lion using a laptop, in the style of an old tapestry\" or “Godzilla at the signing of the Declaration of Independence."
     publishedDateTime: 2022-09-25T19:40:00Z
@@ -67,15 +83,6 @@ related:
         width: 879
         height: 586
         isCached: true
-  - title: "Meta has developed an AI that generates video based on text prompts"
-    excerpt: "Meta has today unveiled an AI system that generates short videos based on text prompts. Make-A-Video lets you type in a string of words, like “A dog wearing a superhero outfit with a red cape flying through the sky” and it generates a 5-second video that,"
-    publishedDateTime: 2022-09-29T13:02:00Z
-    webUrl: "https://www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
 
 secured: "1Z1ZDOxIzaDFZi3lSDrVmNObX5Av7C7+1nQ/pd29cXYFd6/LuRHyLjn2c/1IOm4YjqQnz5Gr74PQxr/xysG8Pc4sNi8o0zOPzXqpV2VxQoDyH/y9xfNqJxHxwqwHpm3AXv25zpOy3xp9rAV5gsx5z2b5AR8/lXVpvV4bDB6d60QMwEXvuxhiwrMJ0lDHqQ/M4wBEa/eLWjsE6tMLs/Ha2thNFO4NimbsAudL2uegTGxKunwkZSEZ1Oc2p5l4MsN5D74AYz2EkmCE5EM3O67OECS970lStBakf6TsLUXpzT77fNH/bqAmRi5ssT5eQdhARfUr+34wFSbLzN44fFcQilhSFH0oUvpZsFEUXa5IW/6ac78B6y5r47qPZwvneFVdTNtVFOy9i3UCEMJ0uqxWg2NWr6zLokPn3PeqdTX1KS5tLVEdYaI09zAEvs/NPTHBcd9DrZzEOf4cJ5ny7IkOiZg9BPRc2RDgjQMrpLEqwHRJv8ql9cj0wH9vMgWjmCVsxx5Tj2jRkUjfkafCUiwTOg==;0sYd07hUy2M2swmMBI5tJA=="
 ---

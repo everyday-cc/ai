@@ -67,20 +67,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "MIT AI Image Generator System Makes Models Like DALL-E 2 More Creative"
-    excerpt: "A new method developed by researchers uses multiple models to create more complex images with better understanding. With the introduction of DALL-E, the internet had a collective feel-good moment. Thi"
-    publishedDateTime: 2022-09-25T05:47:00Z
-    webUrl: "https://scitechdaily.com/mit-ai-image-generator-system-makes-models-like-dall-e-2-more-creative/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 41
-    images:
-      - url: "https://scitechdaily.com/images/DALL-E-2-Astronaut-Image.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
   - title: "The sky’s the limit for AI tools like DALL-E, but investors have a rough road ahead"
     excerpt: "What looks like an interesting art tool has become a prime feeding ground for investors; part of the the challenge now is finding the business case for AI-generated imagery."
     publishedDateTime: 2022-09-26T19:37:00Z
