@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Health min., Cisco executive vice president discuss applying AI technology in healthcare system"
+    excerpt: "Health Minister Khalid Abdel Ghaffar had a meeting with Francine Katsoudas, the Executive Vice President and Chief People, Policy and Purpose Officer of \"Cisco\", to discuss means of applying Artificia"
+    publishedDateTime: 2022-09-30T10:47:00Z
+    webUrl: "https://www.sis.gov.eg/Story/171743/Health-min.%2c-Cisco-executive-vice-president-discuss-applying-AI-technology-in-healthcare-system?lang=en-us"
+    type: article
+    provider:
+      name: sis
+      domain: sis.gov.eg
+    quality: 42
+    images:
+      - url: "https://www.sis.gov.eg/Content/Upload/slider/9202217164617196.jpg"
+        width: 618
+        height: 360
+        isCached: true
 
 secured: "fTo3aPm1BbfLD2JIPAW/3Xd/xhURv5wVrDl36lTEq3VecPILbmg0YSODDPlPRVQuNODp3T3wJ4U8/LmLUYBahVZ8Oyg/oDuhYDqbZsnArX6Q7HPedG3iX9mMNTwJu199k393v9KCTyHWxc/azfyzsJaHSLKi/5w+BeoqhoV+9TxLHVD+veIfmOMdv12gS+NaTxCUN1R1nj9/XRZ45uLAVqalGH1fyd8BNeLv1Mdjgsx/4DgTYOmo3BjqbBeOivxuGcteiu4ubYVccdvw/t6adFdnzWi2vP/nmgQJ0NN+ZFy8IkOKHmYCUhvC2Cg9b7w+asiWIB8qYEkkWuc3tKBkd4MFzlL+hG0NKdTh8qv69VU=;4eERuyUwLFFJnIKzdaXoog=="
 ---

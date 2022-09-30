@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/emmawhitford/2022/09/27/this-artificial
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawhitford/2022/09/27/this-artificial-intelligence-app-wants-to-make-you-a-better-teacher/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       name: BBC
       domain: bbc.com
     quality: 47
-  - title: "This guy is using AI to make a movie — and you can help decide what happens next"
-    excerpt: "By Rachel Metz, CNN Business “Salt” resembles many science-fiction films from the ’70s and early ’80s, complete with 35mm footage of space freighters and moody alien landscapes. But while it looks like a throwback,"
-    publishedDateTime: 2022-09-25T18:00:00Z
-    webUrl: "https://localnews8.com/money/cnn-social-media-technology/2022/09/25/this-guy-is-using-ai-to-make-a-movie-and-you-can-help-decide-what-happens-next/"
-    type: article
-    provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 34
-    images:
-      - url: "https://localnews8.b-cdn.net/2022/09/hypatia-h_3febe95d482d7cd960a9e95b1b63db68-h_e7b972d58ee467600c76672a0788a9e0-300-scaled.jpg"
-        width: 2560
-        height: 1379
-        isCached: true
 
 secured: "OwTnej4DkTMuEx8jgTIfqdD5Pzjo4Z03bxwmGxI6fS1NcEq7US821XFhFKnpMUQNuOlo8SddIjuNpx20oubu6iTJFuTMEjjd8k8pT7qNfs63R7jvHpFmjNh8tdHS3mIXcVfqBsfTvCjRj6w82fVmQWV9OLyh/9TR5s0JteLhlogaxb2Nr0VOSWkM0rkwl+IxYxD4Ry/A+zII6TnQS0TeBvl8/JDU49nmnv6fBmiow1qeCECRBRifi9QVWgLREuB0vMfUWfscdsjH4+uEOT2rCe21DA/T4isOMW9ovK9HOIvXwaolXII3J9VOYWOsYgyZvC1xCDng14UFAorAgt3gVhFJFVUMkEfHFVvOwV4JpklWf7qyjtWJk7SfT1aUvaKtbw+TQVJfzYDK1QvS85uYQkubC8kKZw8Jt2GXXQU7REMjmBsqin717soZN/5Ea38k2/kjyXVj2CN+Lq2KfxVWRG/h0jkdKAfU72bzAesSVmssPUr4EJtVmBws6/M5nxFncA4THKsaMJCzEgmvXK3dlw==;r1JxRIqGj4coXPxBQh7ErQ=="
 ---

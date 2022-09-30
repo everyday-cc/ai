@@ -2,6 +2,147 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-09-22-why-modern-business-runs-on-data-streaming.md",
+      "title": "Why Modern Business Runs On Data Streaming",
+      "excerpt": "Data-centric information that flows inside enterprises with a contemporary approach to cloud-native IT stack management will now move at a more rapid, more complex and more constant pace than ever before - data streaming is now a part of modern business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2022/09/22/why-modern-business-runs-on-data-streaming/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2022/09/22/why-modern-business-runs-on-data-streaming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63248b3e422194d3e8b00cbb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2022/09/22/why-modern-business-runs-on-data-streaming/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2022/09/22/why-modern-business-runs-on-data-streaming/amp/",
+      "publishedDateTime": "2022-09-22T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-22-palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute.md",
+      "title": "Palo Alto Networks 5G-Native Security Now Available on Microsoft Azure Private Multi-Access Edge Compute",
+      "excerpt": "PRNewswire/ — Palo Alto Networks (NASDAQ: PANW), a Microsoft Azure private MEC ecosystem partner, today announced availability of VM-Series Virtual Next-Generation Firewall (NGFW) technology on the Azure Marketplace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.darkreading.com/cloud/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute",
+      "originalUrl": "https://www.darkreading.com/cloud/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.darkreading.com/images/og-image.jpg",
+          "width": 342,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dark Reading",
+        "domain": "darkreading.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-09-22-artificial-intelligence-tools-speed-up-the-process-of-identifying-people-who-inject-drugs.md",
+      "title": "Artificial intelligence tools speed up the process of identifying people who inject drugs",
+      "excerpt": "An automated process that combines natural language processing and machine learning identified people who inject drugs (PWID) in electronic health records more quickly and accurately than current methods that rely on manual record reviews.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220922/Artificial-intelligence-tools-speed-up-the-process-of-identifying-people-who-inject-drugs.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220922/Artificial-intelligence-tools-speed-up-the-process-of-identifying-people-who-inject-drugs.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20220922/Artificial-intelligence-tools-speed-up-the-process-of-identifying-people-who-inject-drugs.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220922/Artificial-intelligence-tools-speed-up-the-process-of-identifying-people-who-inject-drugs.aspx",
+      "publishedDateTime": "2022-09-22T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Natural Language Processing",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-22-2023-breakthrough-prizes-announced-deepminds-protein-folders-awarded-3-million.md",
       "title": "2023 Breakthrough Prizes Announced: Deepmind’s Protein Folders Awarded $3 Million",
       "excerpt": "Demis Hassabis and John Jumper share the $3 million Breakthrough Prize for development of AI program AlphaFold. The same AI engine that made computers even better at games like Chess and Go could ...",
@@ -1042,144 +1183,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-neural-network-speeds-holographic-image-reconstruction-for-biological-samples.md",
-      "title": "Neural network speeds holographic image reconstruction for biological samples",
-      "excerpt": "Researchers have developed a new end-to-end neural network that can speed up the reconstruction of holographic images. Unlike other deep learning techniques, the approach can be used on samples not encountered during training,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/965510",
-      "originalUrl": "https://www.eurekalert.org/news-releases/965510",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d5478dc3-2da0-4289-ae22-39a8babe2c18/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 454,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T11:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-startup-diveplane-wants-to-make-ai-ethical-ceo-explains-what-that-means.md",
-      "title": "Startup Diveplane wants to make AI ethical: CEO explains what that means",
-      "excerpt": "In today's world, artificial intelligence is used to make some big decisions. Colleges rely on it to admit students. Parole boards use it to approve or deny inmate releases.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-09-startup-diveplane-ai-ethical-ceo.html",
-      "originalUrl": "https://techxplore.com/news/2022-09-startup-diveplane-ai-ethical-ceo.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-2.jpg",
-          "width": 1920,
-          "height": 1633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-09-startup-diveplane-ai-ethical-ceo.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-startup-diveplane-ai-ethical-ceo.amp",
-      "publishedDateTime": "2022-09-21T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-microsofts-october-12-surface-launch-whats-on-tap.md",
-      "title": "Microsoft's October 12 Surface launch: What's on tap",
-      "excerpt": "Surface launch event now has an official date but not a lot of other hints. Expectations are there could be a couple of Arm-based devices unveiled.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsofts-october-12-surface-launch-whats-on-tap/",
-      "originalUrl": "https://www.zdnet.com/article/microsofts-october-12-surface-launch-whats-on-tap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/3b60b27b90d76587e4582ccec59f95db8ce99f36/2022/09/21/684b5819-4efb-4fff-8f1b-08c53a4ca7e6/oct12savethedate.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-october-12-surface-launch-whats-on-tap/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-october-12-surface-launch-whats-on-tap/",
-      "publishedDateTime": "2022-09-21T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

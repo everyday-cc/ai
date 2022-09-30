@@ -87,6 +87,22 @@ related:
         width: 960
         height: 1200
         isCached: true
+  - title: "What to Expect at Tesla AI Day 2022"
+    excerpt: "What Is Tesla AI Day? AI Day is basically Tesla's version of an Apple event, but rather than product launches, the event will have a forward-looking focus. It's less about new Tes"
+    publishedDateTime: 2022-09-29T22:14:00Z
+    webUrl: "https://uk.pcmag.com/cars-auto/142960/what-to-expect-at-tesla-ai-day-2022?amp=1"
+    ampWebUrl: "https://uk.pcmag.com/cars-auto/142960/what-to-expect-at-tesla-ai-day-2022?amp=1"
+    cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/cars-auto/142960/what-to-expect-at-tesla-ai-day-2022?amp=1"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 106
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/w/what-to-ex/what-to-expect-at-tesla-ai-day-2022_nchs.620.png"
+        width: 619
+        height: 348
+        isCached: true
   - title: "How to watch Tesla’s AI Day today and what to expect"
     excerpt: "Tesla is holding its second AI Day on September 30, and a prototype of its humanoid robot is expected to make an appearance."
     publishedDateTime: 2022-09-29T21:30:00Z
@@ -144,20 +160,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 86
-  - title: "What to Expect at Tesla AI Day 2022"
-    excerpt: "The Sept. 30 event will be 'highly technical,' says Elon Musk, but we may get details about Tesla's humanoid robot and a progress report on its full self-driving plans."
-    publishedDateTime: 2022-09-29T22:14:00Z
-    webUrl: "https://www.pcmag.com/news/what-to-expect-at-tesla-ai-day-2022"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/00u4vsSP8DctSr4KwIU4uXz-4.fit_lim.size_1200x630.v1664467424.png"
-        width: 717
-        height: 403
-        isCached: true
   - title: "Tesla AI Day Spotlights Optimus Robot, Self-Driving Cars: Here's How to Watch"
     excerpt: "Tesla is hiring engineers to build a walking, talking robot called Optimus. Expect Elon Musk to detail the company's work on self-driving cars, too."
     publishedDateTime: 2022-09-26T18:29:00Z
@@ -176,6 +178,22 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 78
+  - title: "Elon Musk Set To Showcase Tesla's Humanoid Robot \"Optimus\" After Delay"
+    excerpt: "Tesla CEO Elon Musk has said a robot business will be worth more than its cars, and on Friday investors, customers and potential workers expect to see a prototype at Tesla's \"AI Day\" that could prove whether the bot named \"Optimus\" is ready for work."
+    publishedDateTime: 2022-09-30T11:21:00Z
+    webUrl: "https://www.ndtv.com/world-news/elon-musk-set-to-showcase-teslas-humanoid-robot-after-delay-3392107"
+    ampWebUrl: "https://www.ndtv.com/world-news/elon-musk-set-to-showcase-teslas-humanoid-robot-after-delay-3392107/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/elon-musk-set-to-showcase-teslas-humanoid-robot-after-delay-3392107/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 76
+    images:
+      - url: "https://c.ndtvimg.com/2022-08/g9vsscm_elon-musk_625x300_29_August_22.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "AI Day 2022: Tesla may unveil a major milestone for its Optimus robot"
     excerpt: "Tesla's AI is growing in popularity over time and has a livestream that millions of people view. Investors and potential investors watch to learn about the new methods Tesla is attempting to make money."
     publishedDateTime: 2022-09-29T15:42:00Z

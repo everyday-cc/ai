@@ -49,11 +49,18 @@ related:
     excerpt: "Chipotle is now testing an AI-based kitchen management system that provides “demand-based cooking and ingredient preparation forecasts,” and is also expanding its Chippy AI test to a restaurant in California."
     publishedDateTime: 2022-09-27T12:05:00Z
     webUrl: "https://www.forbes.com/sites/aliciakelso/2022/09/27/chipotle-is-testing-more-artificial-intelligence-solutions-to-improve-operations/"
+    ampWebUrl: "https://www.forbes.com/sites/aliciakelso/2022/09/27/chipotle-is-testing-more-artificial-intelligence-solutions-to-improve-operations/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aliciakelso/2022/09/27/chipotle-is-testing-more-artificial-intelligence-solutions-to-improve-operations/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 42
+    quality: 84
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/633221be8c5b19d4dd44b11e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Digital India Corp. Plans Restructuring, To House More Divisions Including AI And Machine Learning"
     excerpt: "Digital India Corporation is a not for profit company set up by the Ministry of Electronics and Information Technology (MeitY). It leads and guides in realizing the vision, objectives and goals of the Digital India program."
     publishedDateTime: 2022-09-26T17:13:00Z

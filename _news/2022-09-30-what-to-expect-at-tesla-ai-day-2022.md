@@ -1,12 +1,14 @@
 ---
 category: news
 title: "What to Expect at Tesla AI Day 2022"
-excerpt: "The Sept. 30 event will be 'highly technical,' says Elon Musk, but we may get details about Tesla's humanoid robot and a progress report on its full self-driving plans."
+excerpt: "What Is Tesla AI Day? AI Day is basically Tesla's version of an Apple event, but rather than product launches, the event will have a forward-looking focus. It's less about new Tes"
 publishedDateTime: 2022-09-29T22:14:00Z
-originalUrl: "https://www.pcmag.com/news/what-to-expect-at-tesla-ai-day-2022"
-webUrl: "https://www.pcmag.com/news/what-to-expect-at-tesla-ai-day-2022"
+originalUrl: "https://uk.pcmag.com/cars-auto/142960/what-to-expect-at-tesla-ai-day-2022?amp=1"
+webUrl: "https://uk.pcmag.com/cars-auto/142960/what-to-expect-at-tesla-ai-day-2022?amp=1"
+ampWebUrl: "https://uk.pcmag.com/cars-auto/142960/what-to-expect-at-tesla-ai-day-2022?amp=1"
+cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/cars-auto/142960/what-to-expect-at-tesla-ai-day-2022?amp=1"
 type: article
-quality: 84
+quality: 106
 heat: -1
 published: false
 
@@ -19,13 +21,14 @@ provider:
       height: 50
 
 topics:
+  - AI Hardware
   - AI
   - AI in Autos
 
 images:
-  - url: "https://i.pcmag.com/imagery/articles/00u4vsSP8DctSr4KwIU4uXz-4.fit_lim.size_1200x630.v1664467424.png"
-    width: 717
-    height: 403
+  - url: "https://sm.pcmag.com/t/pcmag_uk/news/w/what-to-ex/what-to-expect-at-tesla-ai-day-2022_nchs.620.png"
+    width: 619
+    height: 348
     isCached: true
 
 related:
@@ -168,6 +171,22 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 78
+  - title: "Elon Musk Set To Showcase Tesla's Humanoid Robot \"Optimus\" After Delay"
+    excerpt: "Tesla CEO Elon Musk has said a robot business will be worth more than its cars, and on Friday investors, customers and potential workers expect to see a prototype at Tesla's \"AI Day\" that could prove whether the bot named \"Optimus\" is ready for work."
+    publishedDateTime: 2022-09-30T11:21:00Z
+    webUrl: "https://www.ndtv.com/world-news/elon-musk-set-to-showcase-teslas-humanoid-robot-after-delay-3392107"
+    ampWebUrl: "https://www.ndtv.com/world-news/elon-musk-set-to-showcase-teslas-humanoid-robot-after-delay-3392107/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/elon-musk-set-to-showcase-teslas-humanoid-robot-after-delay-3392107/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 76
+    images:
+      - url: "https://c.ndtvimg.com/2022-08/g9vsscm_elon-musk_625x300_29_August_22.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "AI Day 2022: Tesla may unveil a major milestone for its Optimus robot"
     excerpt: "Tesla's AI is growing in popularity over time and has a livestream that millions of people view. Investors and potential investors watch to learn about the new methods Tesla is attempting to make money."
     publishedDateTime: 2022-09-29T15:42:00Z
@@ -254,6 +273,6 @@ related:
         height: 1366
         isCached: true
 
-secured: "R+o1LVedep4RAPDV96OO5Z0YI9aGTYWc7Od3RsnzH0S067Ia5IzLOXa1lv8dLlKn6YGOgdPLFpa/hq4kKC8PTpLbkw0abWx4G+dshkGx7/Cqo4PfxavwUMeHayXyW9sB7uV+WBjDtodgiLgCU9YHGZqApFgwUt7SX0dVzeQ5NUK2Ba7cRJ/Pj5bYZKxXqQZCleMGYexOnDkcwe302J/YmJ5RWb6O7EpFJpCfn2K2gmz6x7PHVmC2/DpF1DnKxG71t9vmKb/rxHdGRSh85AdGmTnCG3fXxtl512RdniLrWeRYDWpFsPtlNknhKjmeQt/DH+lr2IycMBg0DOrcNA8k6XfJ/YI3xzBRWI/HUnoOF9fIoBCGAub5fE7+XEGNEjadsNMxgF2HgtCI0eHi7BjW4IgAzgmxBRoFLzXTyjlBCTxXFD6Ae9s16AylfAPiYXVoQhfpaRU1QQpFsCZwoCid90ZX0exuSAXkM7rAdeZrIf+D1t2v1IvJ8trrJEj9BH2MA+ZDZpuioC3lpbVmXWdm+A==;4lK8rCxSbak0dSBc9X0fvg=="
+secured: "1rg+QM0vEJASH6IdbJIZ4DgCYLgMnNVow8w/4BVF/h9LXRbm93OyQ5oNOlAu0TubKhGFjmtyeN8nnDhZnDdiepuB4whOsADzmWYd3oKd3i+UtBgJ/lftVpnQNJfJ3Kis2AfelkMcSM/R3PyZ2VPXsHAvw+3J3eXwNgKx88Tkbw0AN3HQs/jXDOsohltK383PPOMPDsTswnnkwYqju9TORjDghhEOlAsHkkZ0Ee/Zd+BBRh61y5+oDdiPPquSJ27O0wEmzm6QH6JYHZ9bHWRdwSSHFIZO7eXJ/jAxaI0KQfp0vw35fTQA4+tk7rWnSEAYuJN7ECBdMdaVQwh6l90i+3T0Ad8tdZIUkotoH/ywf0M=;w/p2DjCpG9pgqQ+aKKQSHA=="
 ---
 

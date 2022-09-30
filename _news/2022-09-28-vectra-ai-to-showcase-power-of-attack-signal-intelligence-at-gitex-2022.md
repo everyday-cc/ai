@@ -24,6 +24,17 @@ images:
     height: 601
     isCached: true
 
+related:
+  - title: "Vectra AI to reduce alert fatigue at GITEX 2022"
+    excerpt: "Threat visibility extends to a range of widely used cloud services such as AWS, Microsoft 365 and Azure AD. AI-driven attack-signal intelligence is used to automate threat detection, and triage findings for prioritized investigation. The company has set ..."
+    publishedDateTime: 2022-09-30T11:50:00Z
+    webUrl: "https://www.itp.net/gitex/vectra-ai-to-reduce-alert-fatigue-at-gitex-2022"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 19
+
 secured: "49RXtSTTZggpngbG2dn1UfCm/rckA2e9Gjz4gB3m7HA30OYnXdbb1FszlG7ALDqeh+YnHEdqBZw8ePd4G6Px0SPV45Kv+kCY5V2333KMdNH+Zl7Eb4w9U7tiChtsSyHoRBr/Pd8UpqlBW+VQGANFrzvpDtP9Hcpey7O1Jh1HkkBcG/9Nwa5ZJIH16+/EfxG4xsF8V4/YFkRUSohqdxiyvN8ZHa3ubPDyogVP4EHt5ZrAe2+63MFhis1LiiVS5LNVLVFOvAFKYqGLUzIy2cDUWGNKL//q44vqY+NFCxtXbO6jKf8TMNqe1ew++giGeDIUzKlP87yxVIuZGrMtepohBczvxx/PyPVSSAMNi61BpVSf0zfhfYy89Ol8bb39zMSi1mmsIbC8WeghGKIzhzcqdup124TYVzqYSiv9ma0YxkGGV6ch2+Z3mB4mljnU39/TGvDSmE12t0d+X7iTzbXLFRPPOEPSTQKgK4INs3S14UhIhfKhlR64dVXPhLZkF0q/CHqnArsiQFmuHrDTsfcTWA==;XGcpMag2LpWnAbv/phPhsg=="
 ---
 

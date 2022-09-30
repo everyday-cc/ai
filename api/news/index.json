@@ -2,6 +2,144 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-30-anyone-can-now-use-powerful-ai-tools-to-make-images-what-could-possibly-go-wrong.md",
+      "title": "Anyone can now use powerful AI tools to make images. What could possibly go wrong?",
+      "excerpt": "If you've ever wanted to use artificial intelligence to quickly design a hybrid between a duck and a corgi, now is your time to shine.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2022/09/30/tech/image-generating-ai-publicly-available",
+      "originalUrl": "https://edition.cnn.com/2022/09/30/tech/image-generating-ai-publicly-available",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220928180903-03-dall-e-ai-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/09/30/tech/image-generating-ai-publicly-available/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/30/tech/image-generating-ai-publicly-available/index.html",
+      "publishedDateTime": "2022-09-30T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-micron-latest-in-japan-chip-crosshairs.md",
+      "title": "Micron latest in Japan chip crosshairs",
+      "excerpt": "Japan offered a massive subsidy to Micron Technology, the country's latest move to bolster domestic semiconductor production.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/micron-latest-in-japan-chip-crosshairs/",
+      "originalUrl": "https://www.mobileworldlive.com/featured-content/top-three/micron-latest-in-japan-chip-crosshairs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mobileworldlive.com/wp-content/uploads/2020/09/Micron_Technology.jpg",
+          "width": 600,
+          "height": 376,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/micron-latest-in-japan-chip-crosshairs/amp/",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/micron-latest-in-japan-chip-crosshairs/amp/",
+      "publishedDateTime": "2022-09-30T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-how-computer-vision-and-artificial-intelligence-can-help-the-retail-industry-maximize-the-value-of-their-brick-mortar-footprint.md",
+      "title": "How computer vision and artificial intelligence can help the retail industry maximize the value of their brick & mortar footprint",
+      "excerpt": "The lockdown generated a wave of disruption across the retail industry, leaving many physical retailers scrambling to meet public demand. They had to pivot their focus on creating highly optimized digital shopping experiences and",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-computer-vision-and-artificial-intelligence-can-help-the-retail-industry-maximize-the-value-of-their-brick-mortar-footprint/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-computer-vision-and-artificial-intelligence-can-help-the-retail-industry-maximize-the-value-of-their-brick-mortar-footprint/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75433510.cms",
+          "width": 330,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-computer-vision-and-artificial-intelligence-can-help-the-retail-industry-maximize-the-value-of-their-brick-mortar-footprint/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-computer-vision-and-artificial-intelligence-can-help-the-retail-industry-maximize-the-value-of-their-brick-mortar-footprint/",
+      "publishedDateTime": "2022-09-30T03:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-30-tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot.md",
       "title": "Tesla AI Day 2022: How to Watch Elon Musk's Optimus Robot",
       "excerpt": "Tesla has hired engineers to make a robot for dangerous or boring work. At AI Day, expect updates on FSD technology for eventual self-driving cars, too.",
@@ -10,7 +148,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 295,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -155,57 +293,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-meta-is-using-ai-to-generate-videos-from-just-a-few-words.md",
-      "title": "Meta is using AI to generate videos from just a few words",
-      "excerpt": "Artificial intelligence is getting better and better at generating an image in response to a handful of words, with publicly available AI image generators such as DALL-E 2 and Stable Diffusion. Now, Meta researchers are taking AI a step further: they're using it to concoct videos from a text prompt.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2022/09/29/tech/meta-ai-text-to-video-research/index.html",
-      "originalUrl": "https://edition.cnn.com/2022/09/29/tech/meta-ai-text-to-video-research/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220929145441-meta-ai-text-to-video-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/09/29/tech/meta-ai-text-to-video-research/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/29/tech/meta-ai-text-to-video-research/index.html",
-      "publishedDateTime": "2022-09-29T15:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -509,6 +596,57 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-write-text-get-video-meta-announces-ai-video-generator.md",
+      "title": "Write text, get video: Meta announces AI video generator",
+      "excerpt": "Video's announcement page, Meta shows example videos generated from text, including \"a young couple walking in heavy rain\" and \"\" It also showcases Make-A-Video's ability to take a static source image and animate it.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/09/write-text-get-video-meta-announces-ai-video-generator/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/09/write-text-get-video-meta-announces-ai-video-generator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/makevideo_teddy_hero-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-29T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1087,154 +1225,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-robot-fast-food-cook-costs-less-than-half-a-human-worker.md",
-      "title": "Robot Fast Food Cook Costs Less Than Half A Human Worker",
-      "excerpt": "Nala Robotics has launched a fast food robot that it says can fry chicken wings, French fries, and other foods, season them, and plate them all autonomously.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2022/09/28/robot-fast-food-cook-costs-less-than-half-a-human-worker/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2022/09/28/robot-fast-food-cook-costs-less-than-half-a-human-worker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6334ddd57b11a2a301592c3b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2022/09/28/robot-fast-food-cook-costs-less-than-half-a-human-worker/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2022/09/28/robot-fast-food-cook-costs-less-than-half-a-human-worker/amp/",
-      "publishedDateTime": "2022-09-28T16:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-google-turns-to-machine-learning-to-advance-translation-of-text-out-in-the-real-world.md",
-      "title": "Google turns to machine learning to advance translation of text out in the real world",
-      "excerpt": "Google's translation service is being upgraded to allow users to more easily translate text out in the real world.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/28/google-turns-to-machine-learning-to-advance-translation-of-text-out-in-the-real-world/",
-      "originalUrl": "https://techcrunch.com/2022/09/28/google-turns-to-machine-learning-to-advance-translation-of-text-out-in-the-real-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/09/3-google-lens.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/28/google-turns-to-machine-learning-to-advance-translation-of-text-out-in-the-real-world/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/28/google-turns-to-machine-learning-to-advance-translation-of-text-out-in-the-real-world/amp/",
-      "publishedDateTime": "2022-09-28T16:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-oregon-states-bipedal-robot-cassie-sets-guinness-world-record-in-100-meter-dash.md",
-      "title": "Oregon State's bipedal robot, Cassie, sets Guinness World Record in 100-meter dash",
-      "excerpt": "A bipedal robot named Cassie just set an official Guinness World Record by running 100 meters in 24.73 seconds. With knees that bend like an ostrich's, Cassie is the first bipedal robot to use machine learning to control a running stride on outdoor terrain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbssports.com/general/news/oregon-states-bipedal-robot-cassie-sets-guinness-world-record-in-100-meter-dash/",
-      "originalUrl": "https://www.cbssports.com/general/news/oregon-states-bipedal-robot-cassie-sets-guinness-world-record-in-100-meter-dash/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/r/2022/09/28/f1b73e30-0853-4cee-af52-c10150c5d7a8/thumbnail/640x360/d7fdd2e2afb10bf62f6ad1d424043e33/cassie-100m-1.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbssports.com/general/news/oregon-states-bipedal-robot-cassie-sets-guinness-world-record-in-100-meter-dash/amp/",
-      "cdnAmpWebUrl": "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/general/news/oregon-states-bipedal-robot-cassie-sets-guinness-world-record-in-100-meter-dash/amp/",
-      "publishedDateTime": "2022-09-28T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBSSports.com",
-        "domain": "cbssports.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

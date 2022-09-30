@@ -2,6 +2,144 @@
   "page": 141,
   "value": [
     {
+      "path": "_news/2022-06-10-get-a-deep-dive-into-azure-ai-at-microsofts-upcoming-webinar.md",
+      "title": "Get a deep-dive into Azure AI at Microsoft’s upcoming webinar",
+      "excerpt": "Microsoft’s approach to AI focuses on empowerment, innovation, and responsibility. Azure AI enables businesses to build on their own terms. Businesses can look at building applications using ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2022/06/microsofts-upcoming-webinar-towards-azure-ai/amp",
+      "originalUrl": "https://yourstory.com/2022/06/microsofts-upcoming-webinar-towards-azure-ai/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/Imageqi5m-1654840509809.jpg ",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2022/06/microsofts-upcoming-webinar-towards-azure-ai/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/06/microsofts-upcoming-webinar-towards-azure-ai/amp",
+      "publishedDateTime": "2022-06-10T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-ai-gurus-are-leaving-big-tech-to-work-on-buzzy-new-start-ups.md",
+      "title": "A.I. gurus are leaving Big Tech to work on buzzy new start-ups",
+      "excerpt": "Four of the best-funded new AI start-ups — Inflection, Cohere, Adept and Anthropic — have recently poached dozens of AI scientists with backgrounds in Big Tech. The start-ups' hiring efforts ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/06/10/ai-gurus-are-leaving-big-tech-to-work-on-buzzy-new-start-ups.html",
+      "originalUrl": "https://www.cnbc.com/2022/06/10/ai-gurus-are-leaving-big-tech-to-work-on-buzzy-new-start-ups.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107006595-1643204907671-gettyimages-961707246-FRANCE_TECHNOLOGY.jpeg?v=1654767972",
+          "width": 4000,
+          "height": 2878,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/06/10/ai-gurus-are-leaving-big-tech-to-work-on-buzzy-new-start-ups.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/06/10/ai-gurus-are-leaving-big-tech-to-work-on-buzzy-new-start-ups.html",
+      "publishedDateTime": "2022-06-09T23:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-aws-announces-general-availability-of-aws-mainframe-modernization.md",
+      "title": "AWS Announces General Availability of AWS Mainframe Modernization",
+      "excerpt": "SEATTLE–(BUSINESS WIRE)–Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of AWS Mainframe Modernization, a new service that makes it faster and easier for customers to modernize ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/aws-announces-general-availability-of-aws-mainframe-modernization/",
+      "originalUrl": "https://www.01net.it/aws-announces-general-availability-of-aws-mainframe-modernization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.01net.it/aws-announces-general-availability-of-aws-mainframe-modernization/amp/",
+      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/aws-announces-general-availability-of-aws-mainframe-modernization/amp/",
+      "publishedDateTime": "2022-06-09T21:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-10-hyundais-self-driving-roboride-taxi-ready-for-gangnams-streets.md",
       "title": "Hyundai’s self-driving RoboRide taxi ready for Gangnam’s streets",
       "excerpt": "Hyundai has launched its self-driving taxis in the streets of Gangnam, South Korea that is equipped with Level 4 autonomous driving technology.",
@@ -957,152 +1095,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-continuously-monitor-predictor-accuracy-with-amazon-forecast.md",
-      "title": "Continuously monitor predictor accuracy with Amazon Forecast",
-      "excerpt": "We’re excited to announce that you can now automatically monitor the accuracy of your Amazon Forecast predictors over time. As new data is provided, Forecast automatically computes predictor accuracy metrics, providing you with more information to decide whether to keep using, retrain, or create new",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/continuously-monitor-predictor-accuracy-with-amazon-forecast/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/continuously-monitor-predictor-accuracy-with-amazon-forecast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/09/continuously-monitor-forecast.jpg",
-          "width": 1248,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T10:55:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-apply-to-pitch-your-startup-at-tc-sessions-climate.md",
-      "title": "Apply to pitch your startup at TC Sessions: Climate",
-      "excerpt": "The climate crisis is here. As the stakes rise with the temperature, a wide range of startups are striving to help humanity slash emissions and adapt to extreme weather. If you’re an early-stage founder focused on such efforts,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/09/climate-tech-startup-founder-pitch-off/",
-      "originalUrl": "https://techcrunch.com/2022/06/09/climate-tech-startup-founder-pitch-off/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Neesha.webp?w=1024",
-          "width": 1022,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/09/climate-tech-startup-founder-pitch-off/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/09/climate-tech-startup-founder-pitch-off/amp/",
-      "publishedDateTime": "2022-06-09T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-global-healthcare-artificial-intelligence-research-report-2022-researchandmarketscom.md",
-      "title": "Global Healthcare Artificial Intelligence Research Report 2022 - ResearchAndMarkets.com",
-      "excerpt": "The \"Global Healthcare Artificial Intelligence Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This report examines the role of artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesunchronicle.com/news/nation_world/global-healthcare-artificial-intelligence-research-report-2022---researchandmarkets-com/article_10ce40eb-2afc-5a33-bf4c-efbe3b84b100.html",
-      "originalUrl": "https://www.thesunchronicle.com/news/nation_world/global-healthcare-artificial-intelligence-research-report-2022---researchandmarkets-com/article_10ce40eb-2afc-5a33-bf4c-efbe3b84b100.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/thesunchronicle.com/content/tncms/assets/v3/eedition/2/e6/2e602f87-3b50-5cc8-a798-838046514119/62afc7cc16660.preview-300.jpg?resize=300%2C579",
-          "width": 300,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun Chronicle",
-        "domain": "thesunchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Artificial intelligence reduces a 100,000-equation quantum physics problem to only four equations"
-excerpt: "Using artificial intelligence ... colleagues wondered if they could use a machine learning tool known as a neural network to make the renormalization group more manageable. The neural network ..."
+excerpt: "Using artificial intelligence, physicists have compressed a daunting quantum problem that until now required 100,000 equations into a bite-size task of as few as four equations — all without ..."
 publishedDateTime: 2022-09-26T13:01:00Z
 originalUrl: "https://www.eurekalert.org/news-releases/965836"
 webUrl: "https://www.eurekalert.org/news-releases/965836"
@@ -15,7 +15,7 @@ provider:
   domain: eurekalert.org
 
 topics:
-  - Machine Learning
+  - AI in Autos
   - AI
 
 images:
@@ -40,6 +40,6 @@ related:
         height: 437
         isCached: true
 
-secured: "c2pYNONqGJTKbKwEGjHQj+LN2So2UhqznIO1jMMseMQ8Nat70MAxIxgbCtiefN+oTZQWva9e0Ph0z0NYeyVLR+Apnh+1WHjydhN42cBjaXMKW5nlEr5yoFhHJHHj3jMtTDr0nkcEndJeYp/6gI/yUHaR81T34L3gax8K14Xz2db+GDOqHMlEnSr3L/UGCVxexjUNZfC384gt+1mybvZdFQmy0DoFqNamYNqy2DvvByVnHMRMlokvvUOIxhPtkOPoHcDEZtIsUQC8sBnRU8EzMqVlfe389N1niO6Uq0WSYejgR2mCATWBMoJ98+cgwcJ1X/DMtqsD6eatjbijB2UBaK5/4Kv+pqwrSPNifGV4QHU=;fxaHAZYrYg7nYUaIOsljhA=="
+secured: "+mxccLsCqaIl67vrkJF+DUI6t5JcMguNODMGCqdod10vGmRmib054t0aOZkNIuU+I90a4tSrAoxrmnnRMuEbXQKoskKHZDBO+vvO/U8/MXkp4xLeinr1rgL8dlk+8ImkwZLQWJ8MOTTLFSJNEMfUi3oU/jXRvz7SQTJB+BwDyCJpjWD6cQNknG7m5zWpljAQp/JNhiLWBLaQwwCph2hkM7PRwr7OXUC0QMBFi6B4LVYVScC6HHolUuT+V+0JNQs38ZEjE51sTvTPZfvgS7J7Ns8bckGXXUg7/y1CtSjhEmpVPlwQP5br7AEzg8CXpVlwAbiBfNOgE2XyQcz4luL/w1ljU1hSTGUYf9SpJzTqSxU=;55LoKBOYXkJet9324mIiMg=="
 ---
 

@@ -70,20 +70,6 @@ related:
         width: 3000
         height: 1699
         isCached: true
-  - title: "This guy is using AI to make a movie — and you can help decide what happens next"
-    excerpt: "By Rachel Metz, CNN Business “Salt” resembles many science-fiction films from the ’70s and early ’80s, complete with 35mm footage of space freighters and moody alien landscapes. But while it looks like a throwback,"
-    publishedDateTime: 2022-09-25T18:00:00Z
-    webUrl: "https://localnews8.com/money/cnn-social-media-technology/2022/09/25/this-guy-is-using-ai-to-make-a-movie-and-you-can-help-decide-what-happens-next/"
-    type: article
-    provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 34
-    images:
-      - url: "https://localnews8.b-cdn.net/2022/09/hypatia-h_3febe95d482d7cd960a9e95b1b63db68-h_e7b972d58ee467600c76672a0788a9e0-300-scaled.jpg"
-        width: 2560
-        height: 1379
-        isCached: true
 
 secured: "zBMxo5fLiyuniBRbSC4cSpwCWt3eFaKo1MQobf7LQyUSmN8Eu5LnX5zCKsIWqe+rvSPTaNz0WISj9IN5Ft74vIB4Xhvevd2GcrzqLuYNdcN2WNokhRo+wRW5pWFEF35569EVn7d20rn+n+0D4m28khBK71WEq9WEf17bTKWIwXaiWuB50Kj3oM4u9Owa/kD/1KTrrFrjbd92xdwAA4UDJmy4RQXOHPJNolE4faPPyD7AsrVQWXcLB4WsTHszdHtsqghpdGDACQCMtCIdLDwp4KvC5A3wc4zfPO8Y1daIdFDZmow2VD766yEzjRjCdDanQAiMItpKn4kEonohNrLCELICudPDE3U6FyGrD5VxENhRRWY/sQKruQfro15uQYPDn1NOuewMKah0oZLCXyZ75sB9azM6E4NMy/tjoWlYO82CqG+UCazr9Iv1+UasMdgokcVahAu4Ym/1aOmdo5ZvJEMGRQsp72amJyA+dhyOSt+X75HYOxUpmr+yCUkEqwxfMihyRjrzcd7+3RE5CLBKQg==;obV/036ksX8Nc6iwqTYvVA=="
 ---

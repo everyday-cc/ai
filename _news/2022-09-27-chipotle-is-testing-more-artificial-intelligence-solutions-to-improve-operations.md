@@ -5,8 +5,10 @@ excerpt: "Chipotle is now testing an AI-based kitchen management system that pro
 publishedDateTime: 2022-09-27T12:05:00Z
 originalUrl: "https://www.forbes.com/sites/aliciakelso/2022/09/27/chipotle-is-testing-more-artificial-intelligence-solutions-to-improve-operations/"
 webUrl: "https://www.forbes.com/sites/aliciakelso/2022/09/27/chipotle-is-testing-more-artificial-intelligence-solutions-to-improve-operations/"
+ampWebUrl: "https://www.forbes.com/sites/aliciakelso/2022/09/27/chipotle-is-testing-more-artificial-intelligence-solutions-to-improve-operations/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aliciakelso/2022/09/27/chipotle-is-testing-more-artificial-intelligence-solutions-to-improve-operations/amp/"
 type: article
-quality: 42
+quality: 84
 heat: -1
 published: false
 
@@ -20,6 +22,13 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/633221be8c5b19d4dd44b11e/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "How AI Can Streamline Sales And Operations Planning"
@@ -67,6 +76,6 @@ related:
         height: 250
         isCached: true
 
-secured: "jU29pF3tbdQV4FmIfXcsUrTZ/84lKeJ7o1fa4U/dl8ybs5l2b7xzHfPNEdEun6s7Gmdi/2iP3lHINOHMRljoo3UXt+qj4ZIf13Qe6pR60vNWBYDT4gijl7f7OBFhMnjSRGdFI2YjlCMVXQeU3Mb7JTsO4+pS4MwsZnvBWQ1OEJ77/hyFSj4vZgGex0fmvZE1wRWuXvhRTPe5x3d/LwSi4hTiWGD7mFuwCozhOAVMGtjEL8787F+9zCLQcx7Ep6AT/m3KFMpbU0HG1vIP7jdF/yYrcKdOLhgFzbcDEKamU22GQ/XUYloditBenn/g5HuSHzEnR4P7DNsHXWg8j4+/eLqHdBgHRF96I6fKy4XXzOGUEB30DdTS5uLwyn7x1ddIz5V5ScItGebE/dS3FQjP/RGvPlkQZcl1TbsW7obFY5ed2tWRyEbJ23d9VC/ap/AvUO/jC1b9NK2ySlwE/XbHJqOi0KkK+/pAL1xwTWKMR1AcLjInhDvbH3iNc530ehAVtN7THO2I+TdfT45BDIErsg==;9rEW3hTtRTr0cjC6xuDVOw=="
+secured: "adhLApW8Ach77qtSX55HUL2PtgsRJPDn42H45iuFEzp40NLi2I6+dm+iFoqgaJFLW/NYGvRqUJmYzjj/0cbhYASv/X9GoBk8wsufKzT9TK8fECp7oH/g1o1EaRYeAJq3Oio+pyWEnhMZqiO9KUBa9p+iJNoLgkqGDYZn+1EGtSXzVClooVMr9RdYeq2IitztQrgyVnFP65JtIrOB2NZvAmPP0p17DGcegu0L4qwGcVE9GjvWku4RoDg9iLpDenDD5bRUIBBkC+mmIo1aFAt5yY4H32SgQJb0lkUorPEdwmuOh5eZpE9/6Bf246p1TBG021JMnY/EAMuQM+TKewHZkTMUduflZWCO9CE7eRQZTxo=;WZyVaGTE7p6+17+sT+6dvg=="
 ---
 

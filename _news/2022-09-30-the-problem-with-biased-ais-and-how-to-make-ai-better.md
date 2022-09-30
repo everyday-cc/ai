@@ -71,20 +71,6 @@ related:
       name: BBC
       domain: bbc.com
     quality: 47
-  - title: "This guy is using AI to make a movie — and you can help decide what happens next"
-    excerpt: "By Rachel Metz, CNN Business “Salt” resembles many science-fiction films from the ’70s and early ’80s, complete with 35mm footage of space freighters and moody alien landscapes. But while it looks like a throwback,"
-    publishedDateTime: 2022-09-25T18:00:00Z
-    webUrl: "https://localnews8.com/money/cnn-social-media-technology/2022/09/25/this-guy-is-using-ai-to-make-a-movie-and-you-can-help-decide-what-happens-next/"
-    type: article
-    provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 34
-    images:
-      - url: "https://localnews8.b-cdn.net/2022/09/hypatia-h_3febe95d482d7cd960a9e95b1b63db68-h_e7b972d58ee467600c76672a0788a9e0-300-scaled.jpg"
-        width: 2560
-        height: 1379
-        isCached: true
 
 secured: "dhzohfA6L8RybZgwTUULKOUwtsLcNR76r5tmE8qNf9B8rF2KXoWiDiJ7KcpR7U7CQSRKm5/gx2dh2wxLnCqQDYRpVAwAlyrFYrsH0gKyBrwBnE3Re8Qa+SE+rcS/JuLxhOVGdE1D2nMZ75u+acWVLrADyIkzjIoKFXvkC3cC0RCPuV65ueiDZR7l/b3RBYgDJSuKOIHeFPkLHQVefsghNRPPnRAHtU8BPbplblVut4uwk7mXbGqYOEBluSMt/3v9doSKBDe0TYPZ9cG78WqUmWh2ZemAKcacVGE3y9lRXWnzWeIZCvAZUzI5lHqbfFplBx1uQNvNDzY4ef+CMHAcFDUeF8jW5sgr7tyM/VIqg/L7xjeCx263c172Lwh+bVF/Zj+pwUBtldwj4xGDtWX7DQUZXfJJQUofI971eBHJ5pFVyerqnXby9AXsWIwriQQL5SHXdc0fL9NdZO/4nl2YD4rY8Ae5WWmAIPZuwDH3a6lMDKG9OkWbXISpMNEHEvXbGcNp6E1X9GDzDR/HFy6fSg==;3v4EAe3iZvmintdtHHMFqQ=="
 ---
