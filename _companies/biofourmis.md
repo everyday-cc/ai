@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 42
+heat: 72
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "FYLxrl7L9TrbSzg3oUmI1ZQFXvCIaxfhMX77AAZoEy3qxwpvT0lSUkwDCt02adcikq20ircGanoTmDMua+l3tWzo7lTUhqIXRmO55tLzDm1xMqLJNd27EleuSw4zhHnWzsTHNyusUXFmTsEDybbS6XrebP1cY0hr3v7N5CPdgRaWiocKJXPwu1w6o6VX8BPucpwvTn39BpnPydxJ3vlU9Dtb4he6UO6miSY7D8PSSxGG/qTVJMGjr7WM4AmLx6FFXN+sDi/y1ocexTXp3Gp5meqGJsG913ZFUO96/9XQ0r1K9V7334MnnUSsAkk7nm9fXZwcjaHuFWkIS7Vsf/V71z3AwchkJpx4gX3Mpx6r0hvujEGsWLiisE2KPMQeIihwhfclTHUSOrmYXK/qLYKf+yY3JEUxrL42naDyYhwX2Zw=;aAgOQUzEl35Yr5jAjtOsKw=="
+secured: "AD5g9yqsYt0NmAcHtPXWeMHzcAX7fIqdOLkXMVj1bYXcXQogCrL0vPKAsQfaAnnSBS6WGaDg0o8PnlEV/TcJnXyG/ebyFNvW08sz2+qKXV0+Cj0vJfTrgsDujzRdOBAjHh0Jry6KdmB+bryYWJR5sg1NfVUNs46od23P2trmvRPfN/qW7nC3a7Q5nFGUexqaD1tOo8xPAF5m0BpQJcKDwD7JCau5ez5km4d60lUjI6qSyyavXgMtTjcs52XXcGMEps4BqhRV3gbQpX61Pong8avJ7OdybfHGqi/3dAp+B3q9nvpd/ru8f0c6PyW5pl0WrHbqdwsA+iRRAwjF481wEcQPw/pnq02ExPbqX4+loWd2dqaW1ooK9WWUHZDPpdYioF4IibBBygDL2UrgJL5fHjQ+vqkYagBAhPRtMtIvp6c=;ehFuDb9xm14W/eis0kuG2g=="
 ---
 
