@@ -587,59 +587,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-27-inventecs-rhyperior-is-the-powerhouse-gpu-accelerator-system-every-business-in-the-ai-and-ml-world-needs.md",
-      "title": "Inventec's Rhyperior Is the Powerhouse GPU Accelerator System Every Business in the AI And ML World Needs",
-      "excerpt": "Rhyperior is the ideal and effective system to enhance performance dramatically for the modern workload.TAIPEI, Sept. 26, 2022 /PRNewswire/",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/inventec-s-rhyperior-is-the-powerhouse-gpu-accelerator-system-every-business-in-the-ai-and-ml-world-needs-1031765200",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/inventec-s-rhyperior-is-the-powerhouse-gpu-accelerator-system-every-business-in-the-ai-and-ml-world-needs-1031765200",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1906206/InventecRhyperior_0919.jpg",
-          "width": 400,
-          "height": 205,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-26T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-09-27-kaust-goes-for-nvidia-cpu-gpu-combo-in-shaheen-iii-supercomputer.md",
       "title": "KAUST Goes For Nvidia CPU-GPU Combo In Shaheen-III Supercomputer",
       "excerpt": "The King Abdullah University of Science and Technology (KAUST) in Saudi Arabia has introduced the latest in its long-standing lineup of successive",
@@ -724,6 +671,50 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-09-26-inventecs-rhyperior-is-the-powerhouse-gpu-accelerator-system-every-business-in-the-ai-and-ml-world-needs.md",
+      "title": "Inventec's Rhyperior Is the Powerhouse GPU Accelerator System Every Business in the AI And ML World Needs",
+      "excerpt": "TAIPEI, Sept. 26, 2022 /PRNewswire/ --Taiwan-based leading server manufacturing company Inventec (TPE: 2356)'s powerhouse GPU accelerator system, Rhyperior, is everything any modern-day business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/n29014243/inventecs-rhyperior-is-the-powerhouse-gpu-accelerator-system-every-business-in-the-ai-and-ml-world",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/n29014243/inventecs-rhyperior-is-the-powerhouse-gpu-accelerator-system-every-business-in-the-ai-and-ml-world",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1906206/InventecRhyperior_0919.jpg",
+          "width": 400,
+          "height": 205,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29014243",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29014243",
+      "publishedDateTime": "2022-09-26T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
       ]
     },
     {

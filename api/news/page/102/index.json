@@ -2,6 +2,49 @@
   "page": 102,
   "value": [
     {
+      "path": "_news/2022-07-08-nokia-partners-with-iisc-to-set-up-centre-of-excellence-for-robotics-research.md",
+      "title": "Nokia partners with IISc to set up centre of excellence for robotics research",
+      "excerpt": "The centre will facilitate engagement and cooperation between academia, start-ups and industry ecosystem partners to research and develop these use cases, Nokia said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/tech-news/nokia-partners-with-iisc-to-set-up-centre-of-excellence-for-robotics-research-11657270970688.html",
+      "originalUrl": "https://www.livemint.com/technology/tech-news/nokia-partners-with-iisc-to-set-up-centre-of-excellence-for-robotics-research-11657270970688.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/07/08/600x338/2020-07-31T064747Z_322294329_RC264I9GQOL5_RTRMADP_3_NOKIA-RESULTS_1596207832508_1596207905783_1657271117664.JPG",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/nokia-partners-with-iisc-to-set-up-centre-of-excellence-for-robotics-research/amp-11657270970688.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/nokia-partners-with-iisc-to-set-up-centre-of-excellence-for-robotics-research/amp-11657270970688.html",
+      "publishedDateTime": "2022-07-08T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-08-merck-accelerator-welcomes-biotech-start-ups-specializing-in-ai-and-machine-learning.md",
       "title": "Merck accelerator welcomes biotech start-ups specializing in AI and machine learning",
       "excerpt": "Merck (MSD outside the US and Canada) is welcoming applications from early-stage biomedical start-ups for its newly launched Merck Digital Sciences Studio (MDSS): which seeks to support technologies for drug discovery and development.",
@@ -1071,58 +1114,6 @@
         "name": "KMWorld Magazine",
         "domain": "kmworld.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-cognitive-computing-market-size-worth-usd-30523-billion-at-cagr-of-310-by-2030.md",
-      "title": "Cognitive Computing Market Size Worth USD 305.23 Billion at CAGR of 31.0%, By 2030",
-      "excerpt": "The global cognitive computing market is forecast to reach USD 305.23 Billion by 2030, according to a new report by Reports and Data. The cognitive computing technology derives the answers and works like the human brains.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-computing-market-size-worth-usd-30523-billion-at-cagr-of-310-by-2030-2022-07-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-computing-market-size-worth-usd-30523-billion-at-cagr-of-310-by-2030-2022-07-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

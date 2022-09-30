@@ -2,6 +2,57 @@
   "page": 176,
   "value": [
     {
+      "path": "_news/2022-05-16-inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools.md",
+      "title": "Inscribes battles fraud with AI-powered detection and automation tools",
+      "excerpt": "Today every $1 in fraud loss costs U.S. financial services firms $4, according to LexisNexis Risk Solutions. Synthetic identity fraud, when fraudsters create identities not associated with real people,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools/",
+      "originalUrl": "https://venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/fraud-detection.jpg?fit=600%2C600&strip=all",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools/amp/",
+      "publishedDateTime": "2022-05-16T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-16-asia-pacific-self-driving-car-market-2022-recent-developments-competitive-landscape-and-regional-forecast-to-2030.md",
       "title": "Asia-Pacific Self-driving Car Market 2022 : Recent Developments, Competitive Landscape and Regional Forecast to 2030",
       "excerpt": "Self-driving or autonomous car will act as a driving factor to minimize accidents and improve vehicle safety. Autonomous cars have gained enough hype in Asia-Pacific. Large tech companies like Alibaba, Baidu, Didi Chuxing and Softbank are investing on the ...",
@@ -1051,49 +1102,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-15-shareholder-amazons-astronomical-misuse-of-customer-data-could-ruin-company.md",
-      "title": "Shareholder: Amazon’s ‘astronomical’ misuse of customer data could ruin company",
-      "excerpt": "Amazon launched its facial recognition service, Rekognition, in 2016 for customers to build “powerful visual search and discovery” into applications, according to a blog post on its website.",
-      "sourceUrl": null,
-      "webUrl": "https://www.limaohio.com/news/508619/shareholder-amazons-astronomical-misuse-of-customer-data-could-ruin-company",
-      "originalUrl": "https://www.limaohio.com/news/508619/shareholder-amazons-astronomical-misuse-of-customer-data-could-ruin-company",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d31029zd06w0t6.cloudfront.net/wp-content/uploads/sites/54/2022/05/web1_BIZ-CPT-AMAZON-DATA-LAWSUIT-GET-1-.jpg",
-          "width": 1068,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-14T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Lima News",
-        "domain": "limaohio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

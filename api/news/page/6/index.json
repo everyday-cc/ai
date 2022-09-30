@@ -45,6 +45,50 @@
       ]
     },
     {
+      "path": "_news/2022-09-22-global-agricultural-robots-market-report-2022-technological-advancements-in-iot-robotics-and-artificial-intelligence-accelerating-growth.md",
+      "title": "Global Agricultural Robots Market Report 2022: Technological Advancements In Iot, Robotics And Artificial Intelligence Accelerating Growth",
+      "excerpt": "The Global Agricultural Robots Market size valued to USD 7.57 billion in 2021, is expected to garner USD 35.93 billion by 2030, with a growing CAGR of 18.3% from 2022-2030. Agricultural Robots also known as Agribots,",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104907393/Global-Agricultural-Robots-Market-Report-2022-Technological-Advancements-In-Iot-Robotics-And-Artificial-Intelligence-Accelerating-Growth",
+      "originalUrl": "https://menafn.com/1104907393/Global-Agricultural-Robots-Market-Report-2022-Technological-Advancements-In-Iot-Robotics-And-Artificial-Intelligence-Accelerating-Growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?135394",
+          "width": 441,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-09-22-kittyhawk-google-co-founder-larry-pages-flying-car-company-will-shut-down.md",
       "title": "Kittyhawk, Google co-founder Larry Page’s flying-car company, will shut down",
       "excerpt": "Kittyhawk, the air-taxi company backed by Google co-founder Larry Page, will close but its technology is expected to live on in the form of its Wisk Aero joint venture with Boeing Co.",
@@ -1137,60 +1181,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-run-machine-learning-enablement-events-at-scale-using-aws-deepracer-multi-user-account-mode.md",
-      "title": "Run machine learning enablement events at scale using AWS DeepRacer multi-user account mode",
-      "excerpt": "This post was co-written by Marius Cealera, Senior Partner Solutions Architect at AWS, Zdenko Estok, Cloud Architect at Accenture and Sakar Selimcan, Cloud Architect at Accenture. Machine learning (ML) is a high-stakes business priority, with companies spending $306 billion on ML applications in the",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-machine-learning-enablement-events-at-scale-using-aws-deepracer-multi-user-account-mode/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-machine-learning-enablement-events-at-scale-using-aws-deepracer-multi-user-account-mode/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/29/dr1-831x630.png",
-          "width": 831,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T09:19:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning",
-        "AI in Autos"
       ]
     }
   ],

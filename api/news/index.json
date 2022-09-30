@@ -109,11 +109,11 @@
       "title": "Meta is using AI to generate videos from just a few words",
       "excerpt": "Artificial intelligence is getting better and better at generating an image in response to a handful of words, with publicly available AI image generators such as DALL-E 2 and Stable Diffusion. Now, Meta researchers are taking AI a step further: they're using it to concoct videos from a text prompt.",
       "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2022/09/29/tech/meta-ai-text-to-video-research",
-      "originalUrl": "https://edition.cnn.com/2022/09/29/tech/meta-ai-text-to-video-research",
+      "webUrl": "https://edition.cnn.com/2022/09/29/tech/meta-ai-text-to-video-research/index.html",
+      "originalUrl": "https://edition.cnn.com/2022/09/29/tech/meta-ai-text-to-video-research/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -152,6 +152,7 @@
         "news"
       ],
       "topics": [
+        "Facebook AI",
         "AI"
       ]
     },

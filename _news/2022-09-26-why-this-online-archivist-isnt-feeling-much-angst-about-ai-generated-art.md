@@ -22,21 +22,35 @@ topics:
   - AI
 
 related:
-  - title: "I tested out an AI art generator and here's what I learned"
-    excerpt: "How, then, do we fit art created by AI into that conception of art? If humanity defines art, is it enough to reduce the definition to keywords typed into a generator? It's a question that's not theoretical any more."
-    publishedDateTime: 2022-09-27T09:48:00Z
-    webUrl: "https://www.zdnet.com/article/i-tested-out-an-ai-art-generator-and-heres-what-i-learned/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/i-tested-out-an-ai-art-generator-and-heres-what-i-learned/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tested-out-an-ai-art-generator-and-heres-what-i-learned/"
+  - title: "Meta is using AI to generate videos from just a few words"
+    excerpt: "Artificial intelligence is getting better and better at generating an image in response to a handful of words, with publicly available AI image generators such as DALL-E 2 and Stable Diffusion. Now, Meta researchers are taking AI a step further: they're using it to concoct videos from a text prompt."
+    publishedDateTime: 2022-09-29T22:04:00Z
+    webUrl: "https://edition.cnn.com/2022/09/29/tech/meta-ai-text-to-video-research/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/09/29/tech/meta-ai-text-to-video-research/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/29/tech/meta-ai-text-to-video-research/index.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: CNN
+      domain: cnn.com
+    quality: 89
     images:
-      - url: "https://www.zdnet.com/a/img/resize/3c7a0a4ce38e5640fc0e31506189e1f5b9fde34d/2022/09/12/feb28106-dc94-4fd6-8b9c-c7994f44490c/midjourney.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 1200
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220929145441-meta-ai-text-to-video-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Write text, get video: Meta announces AI video generator"
+    excerpt: "Video's announcement page, Meta shows example videos generated from text, including \"a young couple walking in heavy rain\" and \"\" It also showcases Make-A-Video's ability to take a static source image and animate it."
+    publishedDateTime: 2022-09-29T15:39:00Z
+    webUrl: "https://arstechnica.com/information-technology/2022/09/write-text-get-video-meta-announces-ai-video-generator/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/makevideo_teddy_hero-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
   - title: "Meta has developed an AI that generates video based on text prompts"
     excerpt: "Meta has today unveiled an AI system that generates short videos based on text prompts. Make-A-Video lets you type in a string of words, like “A dog wearing a superhero outfit with a red cape flying through the sky” and it generates a 5-second video that,"
@@ -54,33 +68,33 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Who should own the copyright on AI-generated artwork?"
-    excerpt: "Artificial intelligences can create images inspired by the human-generated art they train on. This is raising concerns over copyright and artists’ livelihoods"
-    publishedDateTime: 2022-09-27T11:38:00Z
-    webUrl: "https://www.newscientist.com/article/2339118-who-should-own-the-copyright-on-ai-generated-artwork/"
+  - title: "Even an AI thinks using AI to write your homework is a bad idea"
+    excerpt: "Unless you've been assigned a project specifically about using AI for school, it's definitely cheating. Maybe not if you're only using it to help generate ideas, rather t"
+    publishedDateTime: 2022-09-28T14:36:00Z
+    webUrl: "https://www.pcgamer.com/even-an-ai-thinks-using-ai-to-write-your-homework-is-a-bad-idea/"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 39
     images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/09/27082001/SEI_126984592.jpg"
+      - url: "https://cdn.mos.cms.futurecdn.net/nM4SPgHkTDrY8tokBUdVoK-1200-80.jpg"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Decipher the earliest languages, debate AI and learn about climate change research at START"
-    excerpt: "START (Start Talking About Research Today ) features music, debate, games, storytelling, screenings, and live experiments. Over 40 free events will showcase how Irish research is shaping society and offer people the chance to engage with the researchers leading the way."
-    publishedDateTime: 2022-09-26T11:34:00Z
-    webUrl: "https://www.tcd.ie/news_events/articles/decipher-the-earliest-languages-debate-ai-and-learn-about-climate-change-research-at-start/"
+  - title: "Meta debuts AI system that can generate videos from text"
+    excerpt: "Make-A-Video can take a few words or lines of text as input and use them to generate a clip that is a few seconds long. According to Meta, the AI system is also capable of producing video based on existing footage or images."
+    publishedDateTime: 2022-09-29T20:17:00Z
+    webUrl: "https://siliconangle.com/2022/09/29/meta-debuts-ai-system-can-generate-videos-text/"
     type: article
     provider:
-      name: Trinity College%2c Dublin
-      domain: www.tcd.ie
-    quality: 27
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
     images:
-      - url: "https://pxl-tcdie.terminalfour.net/prod01/channel_3/media/tcd/news-images/probe2016_6810-879X586.jpg"
-        width: 879
-        height: 586
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/meta.png"
+        width: 718
+        height: 399
         isCached: true
 
 secured: "xmjisPiA+FJatrMQD8dYXF2Jv/YA5XS/ZIPwC3SbRTh03POnaiyuy+rCo1xUNrF+HzlmtpXeLpdsay4NDxHfpg5zemKUy/yLND3IBcsRmKhbhoZIcdyBDv9N9SYeUBInoWvH9waBXB4Wf09/d8EpAlr5tPkxlOwhTv3X2Y3mo8/ODsHDH74CPJ/4iGeUJmm6crQVEltC3yGondpkOMMkwSFG2/VMhKAKtMpdo1fbdHk0unpanvYXe78gQrpfVtdwP5UqlkxN3xJGAPhuvi0m2roPUXztnrOHLrsadla8uOh9wLxZkeME5s+bMrv9j/zqs1J0dzgDYxNBmyKMx03856R90aHl17afIeLMtrOMhB+ZTNVQ8RWjy1vSzfGWNGU19wx/GFMjNGesdVatiAa0bPZRiGGCF04u1i63jGXaIl8SD1rOWdAP36/I1InIFFqzHdeuTDltlcT+fQ/MxixsMkc4MQLaJq0Lxo7uBmqAKn/qIWrfCYH7+RxCAZnXf+akeRE8Q3twfZe0nnnmmVVugQ==;giG2JIv/8lIRMhdKuJETwQ=="

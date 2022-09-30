@@ -31,7 +31,7 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-2.jpg"
         width: 1920

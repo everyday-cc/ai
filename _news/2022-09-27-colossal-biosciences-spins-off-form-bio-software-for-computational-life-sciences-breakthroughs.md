@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/colossal-biosciences-spins-off-form-bio-s
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/colossal-biosciences-spins-off-form-bio-software-for-computational-life-sciences-breakthroughs/amp/"
 type: article
 quality: 64
-heat: 85
+heat: 84
 published: true
 
 provider:

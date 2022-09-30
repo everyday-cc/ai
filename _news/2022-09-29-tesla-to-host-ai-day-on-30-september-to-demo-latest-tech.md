@@ -52,6 +52,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla AI Day 2022: How to Watch Elon Musk's Optimus Robot"
+    excerpt: "Tesla has hired engineers to make a robot for dangerous or boring work. At AI Day, expect updates on FSD technology for eventual self-driving cars, too."
+    publishedDateTime: 2022-09-30T00:22:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 121
+    images:
+      - url: "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Our top 4 Tesla AI day predictions"
     excerpt: "An Optimus robot prototype, updates to FSD, a Tesla robotaxi and more on the Dojo supercomputer are what we expect at Tesla AI Day."
     publishedDateTime: 2022-09-28T19:00:00Z
@@ -101,14 +117,14 @@ related:
   - title: "What to Expect at Tesla AI Day 2022"
     excerpt: "The Sept. 30 event will be 'highly technical,' says Elon Musk, but we may get details about Tesla's humanoid robot and a progress report on its full self-driving plans."
     publishedDateTime: 2022-09-29T22:14:00Z
-    webUrl: "https://uk.pcmag.com/cars-auto/142960/what-to-expect-at-tesla-ai-day-2022"
+    webUrl: "https://www.pcmag.com/news/what-to-expect-at-tesla-ai-day-2022"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
-    quality: 86
+    quality: 84
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/w/what-to-ex/what-to-expect-at-tesla-ai-day-2022_nchs.1200.png"
+      - url: "https://i.pcmag.com/imagery/articles/00u4vsSP8DctSr4KwIU4uXz-4.fit_lim.size_1200x630.v1664467424.png"
         width: 717
         height: 403
         isCached: true
@@ -160,6 +176,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Tesla AI Day: Robots, Self-Driving Cars, and More"
+    excerpt: "All eyes are on Elon Musk as he promises great things for this year’s AI Day. Will we see the Tesla bots walk on stage? Perhaps we will see the CyberTruck in all its metallic glory? Tech products"
+    publishedDateTime: 2022-09-30T01:26:00Z
+    webUrl: "https://technology.inquirer.net/118309/tesla-ai-day-what-to-expect"
+    ampWebUrl: "https://technology.inquirer.net/118309/tesla-ai-day-what-to-expect/amp"
+    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/118309/tesla-ai-day-what-to-expect/amp"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 73
   - title: "Tesla A.I. Day Is Coming. Expect High-End Computing, Self-Driving Cars, and Robots."
     excerpt: "High-end computing, neural networks, self-driving cars, and robots could come up at the car company's second annual event."
     publishedDateTime: 2022-09-29T12:32:00Z

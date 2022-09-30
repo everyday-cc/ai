@@ -2,6 +2,40 @@
   "page": 165,
   "value": [
     {
+      "path": "_news/2022-05-25-study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging.md",
+      "title": "Study shows AI deep learning models can detect race in medical imaging",
+      "excerpt": "A recent study found that AI deep learning models can be trained to identify race in these same medical images. Something radiologists could only determine with 50 percent accuracy. “The AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging",
+      "originalUrl": "https://www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T17:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "7News and TheDenverChannel.com",
+        "domain": "thedenverchannel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex.md",
       "title": "Nvidia Tips New Liquid-Cooled GPU, Jetson AI Devices at Computex",
       "excerpt": "Peak performance and cooling in ever-smaller spaces matters to data centers, and Nvidia's liquid-cooled A100 card targets that market. The chip giant also detailed new Jetson devices and designs for data-center systems.",
@@ -1100,58 +1134,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-build-2022-power-platform-gets-more-web-development-tools-and-ai-assistance.md",
-      "title": "Build 2022: Power Platform gets more web development tools and AI assistance",
-      "excerpt": "Lamanna noted that the Power Pages tools have been tested by several large customers. One interesting example comes from the New Zealand Ministry of Business, Innovation, and Empl",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3661556/build-2022-power-platform-gets-more-web-development-tools-and-ai-assistance.html",
-      "originalUrl": "https://www.infoworld.com/article/3661556/build-2022-power-platform-gets-more-web-development-tools-and-ai-assistance.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/29/11/10-most-powerful-network-companies-primary2-100730524-large-100923007-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3661556/build-2022-power-platform-gets-more-web-development-tools-and-ai-assistance.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3661556/build-2022-power-platform-gets-more-web-development-tools-and-ai-assistance.amp.html",
-      "publishedDateTime": "2022-05-24T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

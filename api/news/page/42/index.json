@@ -2,6 +2,49 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2022-08-25-dell-technologies-deep-learning-model-to-help-protect-the-great-barrier-reef.md",
+      "title": "Dell Technologies Deep Learning Model To Help Protect The Great Barrier Reef",
+      "excerpt": "Dell Technologies has announced a new deep learning technology model, launched in partnership with Australia-based conservation organisation Citizens of The Great Barrier Reef. The model will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessworld.in/article/Dell-Technologies-Deep-Learning-To-Help-Volunteers-Protect-The-Great-Barrier-Reef/25-08-2022-443811/",
+      "originalUrl": "https://www.businessworld.in/article/Dell-Technologies-Deep-Learning-To-Help-Volunteers-Protect-The-Great-Barrier-Reef/25-08-2022-443811/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.businessworld.in/article/article_extra_large_image/1661435711_GzAgWy_dell_grc.jpg",
+          "width": 639,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Businessworld",
+        "domain": "businessworld.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-25-paragraphai-announces-the-launch-of-natural-language-processing-ai-writing-assistant.md",
       "title": "ParagraphAI Announces the Launch of Natural Language Processing AI Writing Assistant",
       "excerpt": "ParagraphAI Inc., a leading developer of advanced AI-powered productivity tools, today announced the release of their natural language processing (\"NLP\") AI Writing Assistant. With internet access, ParagraphAI instantly drafts original and accurate paragraphs of text on any topic with proper grammar and tone correction.",
@@ -1114,59 +1157,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-can-nist-move-trustworthy-ai-forward-with-new-draft-of-ai-risk-management-framework.md",
-      "title": "Can NIST move ‘trustworthy AI’ forward with new draft of AI risk management framework?",
-      "excerpt": "NIST releases an expanded draft of the AI Risk Management Framework but the impact on trustworthy AI remains unclear.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-risk-management-framework/",
-      "originalUrl": "https://venturebeat.com/ai/ai-risk-management-framework/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-robot_machine_learning_AI_1323774184-e1659571276418.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-risk-management-framework/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-risk-management-framework/amp/",
-      "publishedDateTime": "2022-08-24T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -2,6 +2,41 @@
   "page": 134,
   "value": [
     {
+      "path": "_news/2022-06-15-for-tesla-facebook-and-others-ais-flaws-are-getting-harder-to-ignore.md",
+      "title": "For Tesla, Facebook and others, AI’s flaws are getting harder to ignore",
+      "excerpt": "What do Facebook Inc. co-founder Mark Zuckerberg ... from putting faith in artificial intelligence systems that have underdelivered. This could be due to a conflict with your ad-blocking or ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.japantimes.co.jp/opinion/2022/06/13/commentary/world-commentary/ai-flaws/",
+      "originalUrl": "https://www.japantimes.co.jp/opinion/2022/06/13/commentary/world-commentary/ai-flaws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Japan Times",
+        "domain": "japantimes.co.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-these-popular-retailers-are-being-investigated-over-unethical-use-of-facial-recognition-tech.md",
       "title": "These Popular Retailers Are Being Investigated Over ‘Unethical’ Use Of Facial Recognition Tech",
       "excerpt": "CHOICE has launched an investigation into Kmart, Bunnings and The Good Guys after it learned they appear to be using (and storing!) facial recognition data of customers in their stores. In case you needed another reason to wear a mask.",
@@ -1025,57 +1060,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-a-booming-market-for-ai-skills-with-salaries-topping-300000.md",
-      "title": "A Booming Market For AI Skills, With Salaries Topping $300,000",
-      "excerpt": "A new salary survey of AI professionals and data scientists finds unprecedented annual increase in compensation for data analysis skills and experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2022/06/14/a-booming-market-for-ai-skills-with-salaries-topping-300000/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/06/14/a-booming-market-for-ai-skills-with-salaries-topping-300000/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62a8b15eea35bfe8207108d6/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/06/14/a-booming-market-for-ai-skills-with-salaries-topping-300000/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/06/14/a-booming-market-for-ai-skills-with-salaries-topping-300000/amp/",
-      "publishedDateTime": "2022-06-14T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

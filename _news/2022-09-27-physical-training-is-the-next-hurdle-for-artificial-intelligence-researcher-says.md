@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2022-09-physical-hurdle-artificial-intellig
 ampWebUrl: "https://techxplore.com/news/2022-09-physical-hurdle-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-physical-hurdle-artificial-intelligence.amp"
 type: article
-quality: 69
-heat: 79
+quality: 71
+heat: 81
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-2.jpg"

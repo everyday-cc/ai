@@ -40,31 +40,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "Meta has developed an AI that generates video based on text prompts"
-    excerpt: "Meta has today unveiled an AI system that generates short videos based on text prompts. Make-A-Video lets you type in a string of words, like “A dog wearing a superhero outfit with a red cape flying through the sky” and it generates a 5-second video that,"
-    publishedDateTime: 2022-09-29T13:02:00Z
-    webUrl: "https://www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/09/dog-gif.gif?w=512"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "Why This Online Archivist Isn't Feeling Much Angst About AI-Generated Art"
-    excerpt: "Scott, an archivist and curator at the Internet Archive(Opens in a new window), treated the audience to a slideshow of AI illustrations drawn for such requests as “a lion using a laptop, in the style of an old tapestry\" or “Godzilla at the signing of the Declaration of Independence."
-    publishedDateTime: 2022-09-25T19:40:00Z
-    webUrl: "https://www.pcmag.com/news/why-this-online-archivist-isnt-feeling-much-angst-about-ai-generated-art"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 46
   - title: "Decipher the earliest languages, debate AI and learn about climate change research at START"
     excerpt: "START (Start Talking About Research Today ) features music, debate, games, storytelling, screenings, and live experiments. Over 40 free events will showcase how Irish research is shaping society and offer people the chance to engage with the researchers leading the way."
     publishedDateTime: 2022-09-26T11:34:00Z

@@ -204,10 +204,10 @@
     {
       "path": "_news/2022-09-23-alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences.md",
       "title": "AlphaFold Developers Win $3-Million Breakthrough Prize in Life Sciences",
-      "excerpt": "DeepMind’s system for predicting the 3D structure of proteins is among five recipients of science’s most lucrative awards",
+      "excerpt": "Demis Hassabis and John Jumper, both at DeepMind in London, were recognized for creating the tool that has predicted the 3D structures of almost every known protein on the planet. “Few ...",
       "sourceUrl": null,
-      "webUrl": "https://www.scientificamerican.com/article/alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences/?amp;text=AlphaFold",
-      "originalUrl": "https://www.scientificamerican.com/article/alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences/?amp;text=AlphaFold",
+      "webUrl": "https://www.scientificamerican.com/article/alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences/",
+      "originalUrl": "https://www.scientificamerican.com/article/alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -226,7 +226,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T10:18:00-07:00",
+      "publishedDateTime": "2022-09-22T12:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Scientific American",

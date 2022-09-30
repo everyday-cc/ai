@@ -3,10 +3,10 @@ category: news
 title: "What to Expect at Tesla AI Day 2022"
 excerpt: "The Sept. 30 event will be 'highly technical,' says Elon Musk, but we may get details about Tesla's humanoid robot and a progress report on its full self-driving plans."
 publishedDateTime: 2022-09-29T22:14:00Z
-originalUrl: "https://uk.pcmag.com/cars-auto/142960/what-to-expect-at-tesla-ai-day-2022"
-webUrl: "https://uk.pcmag.com/cars-auto/142960/what-to-expect-at-tesla-ai-day-2022"
+originalUrl: "https://www.pcmag.com/news/what-to-expect-at-tesla-ai-day-2022"
+webUrl: "https://www.pcmag.com/news/what-to-expect-at-tesla-ai-day-2022"
 type: article
-quality: 86
+quality: 84
 heat: -1
 published: false
 
@@ -19,12 +19,11 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
   - AI
   - AI in Autos
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_uk/news/w/what-to-ex/what-to-expect-at-tesla-ai-day-2022_nchs.1200.png"
+  - url: "https://i.pcmag.com/imagery/articles/00u4vsSP8DctSr4KwIU4uXz-4.fit_lim.size_1200x630.v1664467424.png"
     width: 717
     height: 403
     isCached: true
@@ -52,6 +51,22 @@ related:
     webUrl: "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-elon-musks-optimus-robot-how-to-watch-and-more/"
     ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ai-day-2022-elon-musks-optimus-robot-how-to-watch-and-more/"
     cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-2022-elon-musks-optimus-robot-how-to-watch-and-more/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 121
+    images:
+      - url: "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Tesla AI Day 2022: How to Watch Elon Musk's Optimus Robot"
+    excerpt: "Tesla has hired engineers to make a robot for dangerous or boring work. At AI Day, expect updates on FSD technology for eventual self-driving cars, too."
+    publishedDateTime: 2022-09-30T00:22:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot/"
     type: article
     provider:
       name: CNET
@@ -156,6 +171,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Tesla AI Day: Robots, Self-Driving Cars, and More"
+    excerpt: "All eyes are on Elon Musk as he promises great things for this year’s AI Day. Will we see the Tesla bots walk on stage? Perhaps we will see the CyberTruck in all its metallic glory? Tech products"
+    publishedDateTime: 2022-09-30T01:26:00Z
+    webUrl: "https://technology.inquirer.net/118309/tesla-ai-day-what-to-expect"
+    ampWebUrl: "https://technology.inquirer.net/118309/tesla-ai-day-what-to-expect/amp"
+    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/118309/tesla-ai-day-what-to-expect/amp"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 73
   - title: "Tesla A.I. Day Is Coming. Expect High-End Computing, Self-Driving Cars, and Robots."
     excerpt: "High-end computing, neural networks, self-driving cars, and robots could come up at the car company's second annual event."
     publishedDateTime: 2022-09-29T12:32:00Z
@@ -237,6 +263,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "DhU/g06bU3whcU7AHGgfQiKqhd3pksI4QbRRm7OiM5H3uXEXXWXxmCJqiEGLiuibZQ7VqHM3TQxpSRa877EVyIfRx5DKNq0T4ly9bYYvm6evkQsxgsUoJR90jsKvBtKdendrEGNw/EolHdvgQ70FPEMILRX/779gxyXdhSjYRN1FU2Zsh+Cbcz5hDwZ5gKIYk810wxdrlZUBhwagSKtjbnE25Laj7s3hDo5PpjZZFku173P3wstIo7QOS7eq1WoNh+VcLR0jY/NjVbJJ1U2a6kmzny4JurGljQYXjCUhTNp8ARwHxxa9Nfh+GpM88a+BW0y4tVu64WGTTfT7uvpA7W7t6id5xmP4oGGMSCvzpqI=;C/8DHiSo8otLcuH2J4eYqg=="
+secured: "XyuLMgCJiE3NZj7JU6R88fxtIkA75IW79VMTzLKiCmGCEZue3kGnKzqwIAElfoZVLn/XQ3qF6BVpyN9I6tSORgVmujJGuUQdbUzoh8ekKkeNwqJZQLWkc0ppC3R65HDp+PG5wLcIJUapfAXUymqn+QEgOCH0y00ZrDmrK6yoklF1GMo/PaxrRhI3KA+KaZGnAy60U607o0XXA3udJDM4PkfNYtWZ2oH/Xmr/C+frC/K5dCO4kBDWYYOpr93/zpJgE2rK+BfYhaenlRxr1WRT5HQLaHT/s4GGfPEtchJaDPw/8DpmEeum5AG7Z2IBfwpQ4ZVlWoq59Y4A+fIjZmstdHI0D/rEglPhBkD0WR3/muQ=;IKInItdH/mOJf75rPiD0XA=="
 ---
 

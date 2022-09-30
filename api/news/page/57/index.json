@@ -2,6 +2,40 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2022-08-15-deepmind-releases-structure-predictions-for-nearly-every-known-protein.md",
+      "title": "DeepMind releases structure predictions for nearly every known protein",
+      "excerpt": "This site uses cookies to enhance your user experience. By continuing to use this site you are agreeing to our COOKIE POLICY.",
+      "sourceUrl": null,
+      "webUrl": "https://cen.acs.org/physical-chemistry/protein-folding/DeepMind-releases-structure-predictions-nearly/100/i27",
+      "originalUrl": "https://cen.acs.org/physical-chemistry/protein-folding/DeepMind-releases-structure-predictions-nearly/100/i27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-15T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "C&EN",
+        "domain": "acs.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-15-ai-is-used-in-diagnostic-robotics-to-improve-patient-care.md",
       "title": "AI is used in diagnostic robotics to improve patient care",
       "excerpt": "What’s more, in this instance, the AI was taught using data from 65 million de-identified medical records. “We observe how individuals appear before the issues,” said Kira Radinsky, CEO and co-founder of Diagnostic Robotics.",
@@ -1075,58 +1109,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-13-this-startup-is-setting-a-dall-e-2-like-ai-free-consequences-be-damned.md",
-      "title": "This startup is setting a DALL-E 2-like AI free, consequences be damned",
-      "excerpt": "A startup, Stability AI, wants to open source the AI tech behind image generation systems like DALL-E 2. That could open a huge can of worms.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/12/a-startup-wants-to-democratize-the-tech-behind-dall-e-2-consequences-be-damned/",
-      "originalUrl": "https://techcrunch.com/2022/08/12/a-startup-wants-to-democratize-the-tech-behind-dall-e-2-consequences-be-damned/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/ai-gen-unfiltered.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/12/a-startup-wants-to-democratize-the-tech-behind-dall-e-2-consequences-be-damned/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/12/a-startup-wants-to-democratize-the-tech-behind-dall-e-2-consequences-be-damned/amp/",
-      "publishedDateTime": "2022-08-12T11:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

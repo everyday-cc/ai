@@ -2,6 +2,49 @@
   "page": 130,
   "value": [
     {
+      "path": "_news/2022-06-17-how-companies-can-avoid-ethical-pitfalls-when-building-ai-products.md",
+      "title": "How companies can avoid ethical pitfalls when building AI products",
+      "excerpt": "Moving forward, firms must approach AI ethics as a strategic business issue at the core of a project – not as an afterthought.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/20/how-companies-can-avoid-ethical-pitfalls-when-building-ai-products/",
+      "originalUrl": "https://venturebeat.com/2022/06/20/how-companies-can-avoid-ethical-pitfalls-when-building-ai-products/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T19:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-17-new-ai-limbs-let-amputees-control-robotic-arms-with-just-the-power-of-their-mind.md",
       "title": "New AI limbs let amputees control robotic arms with just the power of their mind",
       "excerpt": "AMPUTEES could use the power of their minds to control new AI robotic arms, research shows. A team of scientists has created prosthetic technology that enables people to control robot arms by",
@@ -1086,49 +1129,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-wipro-eros-investments-partner-to-scale-ai-based-solutions-to-global-media-industry.md",
-      "title": "Wipro-Eros Investments partner to scale AI-based solutions to global media industry",
-      "excerpt": "The solution will automate the manual content localization process of subtitling and dubbing with near human-level accuracy, driving significant cost and time savings for global media organizations and over-the-top (OTT) streaming platforms,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/information-tech/wipro-eros-investments-partner-to-scale-ai-based-solutions-to-global-media-industry/articleshow/92257817.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/information-tech/wipro-eros-investments-partner-to-scale-ai-based-solutions-to-global-media-industry/articleshow/92257817.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-267230,msid-92258202/eros-partners-with-wipro-to-develop-a-speech-to-text-models-solution-for-the-global-media-and-entertainment-industry.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/information-tech/wipro-eros-investments-partner-to-scale-ai-based-solutions-to-global-media-industry/amp_articleshow/92257817.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/wipro-eros-investments-partner-to-scale-ai-based-solutions-to-global-media-industry/amp_articleshow/92257817.cms",
-      "publishedDateTime": "2022-06-16T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

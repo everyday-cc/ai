@@ -2,6 +2,49 @@
   "page": 120,
   "value": [
     {
+      "path": "_news/2022-06-24-next-big-thing-in-the-future-of-finance-fintech-revolution.md",
+      "title": "Next big thing in the future of finance: Fintech revolution",
+      "excerpt": "Fintech has changed the lives and habits of people by making it easy to trade, bank, exchange money, take loans without the need for physical human interaction. Innovations and revolutions are what the technology",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/next-big-thing-in-the-future-of-finance-fintech-revolution/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/next-big-thing-in-the-future-of-finance-fintech-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/06/Pic-1-7.png",
+          "width": 487,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/next-big-thing-in-the-future-of-finance-fintech-revolution/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/next-big-thing-in-the-future-of-finance-fintech-revolution/",
+      "publishedDateTime": "2022-06-23T22:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-24-cognitive-skills-for-engineering-success.md",
       "title": "Cognitive Skills for Engineering Success",
       "excerpt": "What follows will outline what I have found to be the most essential cognitive skills that contribute to engineering success. The primacy of critical thinking is such a worn-out aphorism that most ...",
@@ -1086,58 +1129,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-gms-cruise-starts-charging-fares-for-driverless-rides-in-san-francisco.md",
-      "title": "GM's Cruise starts charging fares for driverless rides in San Francisco",
-      "excerpt": "June 23 (Reuters) - General Motors Co's (GM.N) Cruise has started charging fares for driverless rides in San Francisco, the company said on Thursday, a step towards commercialization of the service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/gms-cruise-starts-charging-fares-driverless-rides-san-francisco-2022-06-23/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/gms-cruise-starts-charging-fares-driverless-rides-san-francisco-2022-06-23/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/MOAR8CRw1cjC3hfAaS31AxUss7c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6CPCJS5RENKQFCLZ7ABT3Q2FHU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

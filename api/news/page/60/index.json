@@ -2,6 +2,49 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2022-08-11-the-daily-grind-of-the-rumor-mill-machine-learning-deciphers-fake-news.md",
+      "title": "The daily grind of the rumor mill: Machine learning deciphers fake news",
+      "excerpt": "Research published in the International Journal of Cloud Computing looks at how machine learning might allow us to analyze the nature and characteristics of social media updates and detect which of those updates are adding grist to the rumor mill rather than being factual.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-08-daily-rumor-mill-machine-deciphers.html",
+      "originalUrl": "https://techxplore.com/news/2022-08-daily-rumor-mill-machine-deciphers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/fakenews.jpg",
+          "width": 1920,
+          "height": 1046,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-08-daily-rumor-mill-machine-deciphers.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-daily-rumor-mill-machine-deciphers.amp",
+      "publishedDateTime": "2022-08-11T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-11-google-is-using-ai-to-cut-down-on-false-info-in-featured-snippets-results.md",
       "title": "Google Is Using AI to Cut Down on False Info in 'Featured Snippets' Results",
       "excerpt": "AI models are also helping Google understand when featured snippets are not useful, particularly in cases that have no real answer.",
@@ -1136,62 +1179,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-10-top-artificial-intelligence-ai-solutions-in-2022.md",
-      "title": "10 top artificial intelligence (AI) solutions in 2022",
-      "excerpt": "As AI-powered technologies continue to advance and more organizations adopt them, IT leaders must be sure to ask themselves how the solutions they choose fit into their goals as a business.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/",
-      "originalUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1131331897-e1655419471228.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 611,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/amp/",
-      "publishedDateTime": "2022-08-10T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI",
-        "AI in Healthcare",
-        "Microsoft AI",
-        "AI in Autos"
       ]
     }
   ],

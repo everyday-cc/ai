@@ -3,13 +3,13 @@ category: news
 title: "Meta is using AI to generate videos from just a few words"
 excerpt: "Artificial intelligence is getting better and better at generating an image in response to a handful of words, with publicly available AI image generators such as DALL-E 2 and Stable Diffusion. Now, Meta researchers are taking AI a step further: they're using it to concoct videos from a text prompt."
 publishedDateTime: 2022-09-29T22:04:00Z
-originalUrl: "https://edition.cnn.com/2022/09/29/tech/meta-ai-text-to-video-research"
-webUrl: "https://edition.cnn.com/2022/09/29/tech/meta-ai-text-to-video-research"
+originalUrl: "https://edition.cnn.com/2022/09/29/tech/meta-ai-text-to-video-research/index.html"
+webUrl: "https://edition.cnn.com/2022/09/29/tech/meta-ai-text-to-video-research/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2022/09/29/tech/meta-ai-text-to-video-research/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/29/tech/meta-ai-text-to-video-research/index.html"
 type: article
-quality: 87
-heat: 117
+quality: 89
+heat: 139
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - Facebook AI
   - AI
 
 images:
@@ -44,6 +45,31 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Meta has developed an AI that generates video based on text prompts"
+    excerpt: "Meta has today unveiled an AI system that generates short videos based on text prompts. Make-A-Video lets you type in a string of words, like “A dog wearing a superhero outfit with a red cape flying through the sky” and it generates a 5-second video that,"
+    publishedDateTime: 2022-09-29T13:02:00Z
+    webUrl: "https://www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/09/dog-gif.gif?w=512"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "Why This Online Archivist Isn't Feeling Much Angst About AI-Generated Art"
+    excerpt: "Scott, an archivist and curator at the Internet Archive(Opens in a new window), treated the audience to a slideshow of AI illustrations drawn for such requests as “a lion using a laptop, in the style of an old tapestry\" or “Godzilla at the signing of the Declaration of Independence."
+    publishedDateTime: 2022-09-25T19:40:00Z
+    webUrl: "https://www.pcmag.com/news/why-this-online-archivist-isnt-feeling-much-angst-about-ai-generated-art"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 46
   - title: "Even an AI thinks using AI to write your homework is a bad idea"
     excerpt: "Unless you've been assigned a project specifically about using AI for school, it's definitely cheating. Maybe not if you're only using it to help generate ideas, rather t"
     publishedDateTime: 2022-09-28T14:36:00Z
@@ -73,6 +99,6 @@ related:
         height: 399
         isCached: true
 
-secured: "OlYpZB/aQaKM4wFt4Nf4upxiNYobdyNjVDRCUKtPeSQdwaFGMK7oRhWseEr/+yB/Yr4+s9N1S/givPi+4+eGLBojUnso79ivTRbPqQvxj8MwJWFwM80VbczZ/aqKX9CmdG4KEY7riHQs/scfSF6/3aSWpHpocxQ9Gf9J5FouqaYCIO8G7u/jIpUs9B++079BVEYDR6QR7cSxAxIAtZ7KKaH21SNJE+8CQZVmOc6iXd2kx3y99++/nSvUWnkilyuChzOnw6KfENuEHJ5/5YJFbNK9c30LexYM3XCl9X1QDPGsPTiGIVBsAp0qCMrBrOytrrZTD+fOcXjAEM3BJpqF7+Nls6K+UMKG/xmB7Ri2aN8=;DLoVa/8QpONTS/2+3ZL/UQ=="
+secured: "6TudEny+FXyC8D3Pwj3FZaG1386wwz3Wm0M/G94O5//iuTXMNWdcXIwHC++RB4Wy5XqAgZRkHASYifme8Vlp1pZljRy7+NIO/kK41SAiIv4q0my2aYep2K5xf7qB5u9OoLA/c4V1pV5meXe+A9g+xABFnNwXc3hLhf+uYAVA/C5MGDaqaSI5Qv7N0DxlaZloT8B07sDzS4Azs6X/kuvXUn+y4MkvuS0r6oJiMQgNauDPJM+Cubin62jonq/cKKb+hVyVxw4wT8Djo/rP+eKgBV4ifk8IX13OajLbFllm01pzGKprShM1BYhAiW3hbcRcbOrz4CsqNeuBNikwKy3VA6klVsz0Im68QAKCuBU1zRo=;E3i2vEg6lOUFi7y3hhEcrg=="
 ---
 

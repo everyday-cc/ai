@@ -2,6 +2,58 @@
   "page": 91,
   "value": [
     {
+      "path": "_news/2022-07-19-42-of-us-want-to-work-at-diverse-and-inclusive-companies.md",
+      "title": "42% of us want to work at diverse and inclusive companies",
+      "excerpt": "Sponsored Jobs We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/18/42-of-us-want-to-work-at-diverse-and-inclusive-companies/",
+      "originalUrl": "https://venturebeat.com/2022/07/18/42-of-us-want-to-work-at-diverse-and-inclusive-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1365562800.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/18/42-of-us-want-to-work-at-diverse-and-inclusive-companies/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/18/42-of-us-want-to-work-at-diverse-and-inclusive-companies/amp/",
+      "publishedDateTime": "2022-07-18T18:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-advanced-ai-has-a-thirst-for-wine-not-power.md",
       "title": "Advanced AI Has a Thirst for Wine, Not Power",
       "excerpt": "Scientists want artificial intelligence (AI) systems to be sophisticated data connoisseurs too, and so they design computer versions of neural networks to process and analyze information. AI is catching up to the human brain in many tasks, but usually ...",
@@ -1090,49 +1142,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-conversational-systems-market-with-tremendous-growth-by-2029-google-cognitive-scale-ibm.md",
-      "title": "Conversational Systems Market with Tremendous growth by 2029 Google, Cognitive Scale, IBM",
-      "excerpt": "This growth can be attributed to the growing demand for artificial intelligence (AI)-based customer support services ... Google, Cognitive Scale, IBM, Hewlett Packard, Microsoft, Oracle, Nuance ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/conversational-systems-market-with-tremendous-growth-by-2029-google-cognitive-scale-ibm",
-      "originalUrl": "https://www.digitaljournal.com/pr/conversational-systems-market-with-tremendous-growth-by-2029-google-cognitive-scale-ibm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/6e04d9a5ed4a928ffe1ba6550cca9746849a3076-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

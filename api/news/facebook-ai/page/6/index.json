@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-06-06-roadblocks-to-getting-real-time-ai-right.md",
+      "title": "Roadblocks to getting real-time AI right",
+      "excerpt": "Specialized hedge funds and big-name AI players – like Google and Facebook – make use of real ... This makes transitions from research to production expensive and labor-intensive.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/05/roadblocks-to-getting-real-time-ai-right/",
+      "originalUrl": "https://venturebeat.com/2022/06/05/roadblocks-to-getting-real-time-ai-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1171820924.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/05/roadblocks-to-getting-real-time-ai-right/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/05/roadblocks-to-getting-real-time-ai-right/amp/",
+      "publishedDateTime": "2022-06-05T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-04-what-hugging-face-and-microsofts-collaboration-means-for-applied-ai.md",
       "title": "What Hugging Face and Microsoft’s collaboration means for applied AI",
       "excerpt": "What happens when one of the biggest cloud and enterprise software players teams up with a leading hub for transformer models?",

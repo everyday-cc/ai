@@ -2,6 +2,49 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2022-07-29-ai-used-by-bytedance-a-security-risk-indian-officials-on-re-entry-reports.md",
+      "title": "AI Used By ByteDance A Security Risk: Indian Officials On Re-Entry Reports",
+      "excerpt": "New Delhi remains concerned over ByteDance and its ability to harvest user data using AI, as it seeks to re-enter the Indian market.",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/ai-used-bytedance-security-risk-indian-officials-re-entry-reports/",
+      "originalUrl": "https://inc42.com/buzz/ai-used-bytedance-security-risk-indian-officials-re-entry-reports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2020/09/bytedance.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/ai-used-bytedance-security-risk-indian-officials-re-entry-reports/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/ai-used-bytedance-security-risk-indian-officials-re-entry-reports/amp/",
+      "publishedDateTime": "2022-07-29T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-07-29-analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy.md",
       "title": "Analogue deep learning offers faster computation for artificial intelligence with much less energy",
       "excerpt": "A multidisciplinary team of MIT researchers set out to push the speed limits of a type of human-made analogue synapse that they had previously developed. They utilized a practical inorganic material in the fabrication process that enables their devices to run 1 million times faster than previous versions,",
@@ -1128,49 +1171,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-research-shows-artificial-intelligence-can-improve-stroke-diagnostics-expanding-access-to-lifesaving-stroke-care.md",
-      "title": "Research shows artificial intelligence can improve stroke diagnostics, expanding access to lifesaving stroke care",
-      "excerpt": "Citation: Research shows artificial intelligence can improve stroke diagnostics, expanding access to lifesaving stroke care (2022, July 28) retrieved 14 August 2022 from https://medicalxpress.com ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/1-stroke.jpg",
-          "width": 1920,
-          "height": 1354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.amp",
-      "publishedDateTime": "2022-07-28T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

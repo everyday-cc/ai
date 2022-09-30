@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AlphaFold Developers Win $3-Million Breakthrough Prize in Life Sciences"
-excerpt: "DeepMind’s system for predicting the 3D structure of proteins is among five recipients of science’s most lucrative awards"
-publishedDateTime: 2022-09-22T17:18:00Z
-originalUrl: "https://www.scientificamerican.com/article/alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences/?amp;text=AlphaFold"
-webUrl: "https://www.scientificamerican.com/article/alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences/?amp;text=AlphaFold"
+excerpt: "Demis Hassabis and John Jumper, both at DeepMind in London, were recognized for creating the tool that has predicted the 3D structures of almost every known protein on the planet. “Few ..."
+publishedDateTime: 2022-09-22T19:32:00Z
+originalUrl: "https://www.scientificamerican.com/article/alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences/"
+webUrl: "https://www.scientificamerican.com/article/alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 496
     isCached: true
 
-secured: "bVmt3wG6+4f2HCGy6AkLNBEL83KKMTFp/3QMWbYC7s9NvjWopLU+c0h0Wc4+saMxqAazqIdMMyqpnP5Nt1BdoE3qmG2VvM7dvLWkpuWUCezyLt8ai/WKfDuHGX77WFvTfCVH78fz7OqsnLY5Jl8pmz00OTsnTyjz7B82o/Mro0MJ6JUw4HVeYDftjhAKoFJ0hQqcp9eqAuy1ZV8TVT6nEBTQv4qcTWj5Jk6fp5j2rfH2eBnR2xRrqBMW8x2RRgpTqC2H7vgLlfwt4N4FyOFtpiYab+ZSN9h4xEirA68c2dj+CtcW89MeYIoappGiXGU3XgVhgsfGvgR6HqFPhdIhlnWgkxvCOXEEV/O9yYuHEUdOiFRUhRffICPW6yqezUz8PC1v8SBb7QqmvcG2U860uiukhFB//SMnKLZcojYYpQlvUpL947XCHNaT6PoxCW0IGBiscl4YBKTd1/CsEErpjT+chVbCBEcevzpluXejhxTcs+VF9xzoFgMuEa84zoxqif/l+0aq0LHReSOpIvWz4Q==;DxFlKUTcT2FDaxsm49hpQA=="
+secured: "3UJHSbwRlaAVGTtj4BXVwPMLs0YwC9r2mm6p8XejUisW/kXmErFBYuUNUFnZ0VstfXVi/aCKQ1mIZhZP1aP0pOp8WB68fRymmqPut6z5Mz9t49L8RCg0wnQ63mvzJwjnPSJR47zh5hJ9nkEBIdrIQV+NbouNC3L1pWmxeL0uq4mSi8Wmx3tSj7oVqbTunMXDk57Z87zWhwUW2DwrJbNUfL1Onbm9RwcguJAXAjD/KFN4EtE2z7DBQ98MZj6KsEPkhalUw6cHb7v9BwIIfqIrj3+MG6pQJjKoMtpGzctDnNjvRFwmgD7XLxZEPmeBvFB0hAu9OzI9EgnUN2Yrf5x/4V5Scblu2G3VNeWWarSpc4Q=;u1Wirv1vBydPzSH4AwkSMg=="
 ---
 
