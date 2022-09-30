@@ -15,12 +15,6 @@ topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Brexit-June-26-2016-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
-
-secured: "HS8M2vlNyNh/BQcwm6OAgCJaQd9K9lMV5XHyi883ph+KJjl5/gV5lnDPdT2ntnr1PBU/UUvjBh6sat1+E8KVsCzdoYngIQsV+KHgTZxwxEnNuucWEXKnOhFaxs5H2YiXyxxq3brYxiB0HrtcOBEGzEjwDuCFkPTIdY43TseYys25o9qfepBpnO6yGK7CRyFPR4q5r5yN4vFOKh/NOb704/QK3PIC4JelMKnO4b8GAJnk9+hhZxiAv+b6Xo/yautvb4htPyqUDGKIibyIXHNjJMGEOzaUl3iN5KVunJwuDpAFspenFSy6+Am5/9QJAwr6A5/h+Oh29YOHH4YwgtRWd4Pr/lpes4VOihSfneOERUM=;ZQg57wGjmMcaYvMQoJSUow=="
+secured: "siZe1m3F40yyrqXfof96hAbKM4uQx0UY/+FOyPDNLIPsSA+0h5LzxEumDGy5YTnYGbGagnazPKdTdrQVm+oelpMeRCr0/V27KABFhFqrIbOBSB5Pj3fpzyaZoN3iTWj66zPGJTy7b5H5lhvzIOrK9P0i99dHflIBgb8nc17lPMyDlJG+LHa4tEa2DD3omlgSzwvVaCGtELxj8b+kHoBOXCD/p8kiOC9i6hN05J5PpLPczw9KYRiDnHB5uuDAcFpLyVeEcOfAaYLUx9ZqKc+zsimHqEmr97+njpfX0FLyiAVps9MX0N+wQAgdYIOFmAr/2RY6/EPlCaoJqMuOw3cjuim14uzzQrSNNprwRKdrjK8=;uvSkK187CAvY47WvoeFRZw=="
 ---
 

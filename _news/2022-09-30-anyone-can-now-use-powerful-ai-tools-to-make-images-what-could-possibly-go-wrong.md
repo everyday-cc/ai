@@ -1,35 +1,20 @@
 ---
 category: news
 title: "Anyone can now use powerful AI tools to make images. What could possibly go wrong?"
-excerpt: "If you've ever wanted to use artificial intelligence to quickly design a hybrid between a duck and a corgi, now is your time to shine."
+excerpt: "If you’ve ever wanted to use artificial intelligence to quickly design a hybrid between a duck and a corgi, now is your time to shine. On Wednesday, OpenAI announced that anyone can now use the most recent version of its AI-powered DALL-E tool to generate a seemingly limitless range of images just by typing in a few words,"
 publishedDateTime: 2022-09-30T11:53:00Z
-originalUrl: "https://edition.cnn.com/2022/09/30/tech/image-generating-ai-publicly-available"
-webUrl: "https://edition.cnn.com/2022/09/30/tech/image-generating-ai-publicly-available"
-ampWebUrl: "https://amp.cnn.com/cnn/2022/09/30/tech/image-generating-ai-publicly-available/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/30/tech/image-generating-ai-publicly-available/index.html"
+originalUrl: "https://keyt.com/news/2022/09/30/anyone-can-now-use-powerful-ai-tools-to-make-images-what-could-possibly-go-wrong/"
+webUrl: "https://keyt.com/news/2022/09/30/anyone-can-now-use-powerful-ai-tools-to-make-images-what-could-possibly-go-wrong/"
 type: article
-quality: 83
-heat: 83
-published: true
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KEYT
+  domain: keyt.com
 
 topics:
-  - AI Ethics
+  - Facebook AI
   - AI
 
-images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/220928180903-03-dall-e-ai-super-tease.jpg"
-    width: 1100
-    height: 619
-    isCached: true
-
-secured: "i0zbOU5bPTsU+CiCdK8l1LBsIGHCJVPCWRA+0o9O9Mosn4wz65rFPUa6ux1yFHbchCd+/9UQDWfXo18SELwdVVxHLKI+yUKg6Pjasy0E4SAJjeNs/G0L1esp/YPc3pVpVHN4317MtgKzsKihOY06+hCfxkPtHLLX6BQnd8Vkdhmhx9QCPFcQqh++HejuGtCbgD9oQOD95orL4Fbzges4XbUI1GJp7YPlMkdQiO0t+Iv8H6qH6GmSqRBjCwAdxjTc6fS8m9E24bp1GB9+8IyXTFG468EYWu4/c/zXHK7ZE0rF1klkF6dipmoqNxWBzxGu2hpmTRJxW9lqJXRX1ZQiYBsUjG7VEqBs04DOOJaUM+M=;g+T8L1zDRz4k//6MHVTVxQ=="
+secured: "ZL2B1rDwL+MLmMJQ8+v3eHVR5XJ3QdY84GAZVtoAYeW2D5V9xTHwaTVYo1t9uwijMEVw1gnS/rhuBVOVApnGsxV37O7fIc4m2bTISyt5Mt2+E3EEZEqxusFistZc+JVz/JbyEUB8Ou6yDRCkv9YzQL0Okq8y8+6s16HhF3uyx+GUCai3dGwMtAPne1qJJNMCU0BVIWuTymX//OvWj6i0AYw5KR6CX6UdfoxTWa+V/U5VlE9FsmioG3OIn5PIVHRoVyB/5RqpObh2xy/1OOB8TqW/3v5Y3G9vMNS9F39HsW0HKTTSQUefVix6akagRiGIzdirKYWfsWSJRnMVju+UQ5WA/21bIi++2IXnpNLs2/0=;2B1IIopuwBEGRNnhF7Wq5g=="
 ---
 

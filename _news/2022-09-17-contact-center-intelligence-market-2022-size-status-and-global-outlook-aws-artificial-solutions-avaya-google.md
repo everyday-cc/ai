@@ -15,12 +15,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?335182"
-    width: 416
-    height: 249
-    isCached: true
-
-secured: "mxPaKXNMPP9KkFWTV9+VchwkLE7c4woE8kch/XGGNsqyoiqbFBMHigTrzPwTHyU2+hWX9bnjXIBW87jrcb4VfJJg4Z8tIHX6Ho94okDbQfJY59PhsqyDdmH+f//4t3JNfBgEzuyF3wkAi5Lb+/oDxzEDd9CYDq2k0OybYEmgFlFY0XkQPwGqLioyLJl5ZdoMQ6PmIjL4WrmLwHDK/q3y92l54nBIq89jIA1682ZLIEo/2YigmnYhEaIFmXHT3/vC82DVsqpsN0u0pxM5OvMgrswlIAdzZs1E5mA8oeyUAJQqCO9SnN1jFgfsmGjPDd2dkJDrsjtA/E4+DijXuW0OMdiwy/n2qiffkTVOES1mIHw=;A9Wx+Yztr5WSRI8t4Yv+jg=="
+secured: "3ePONHtWJY6dn7BSY/Uvtd92keB1mLnQ2nDOuKpLXlvGGUYuio6HTEuEc8bj25RN29m4oP1fAFlHll2WsOF2zU8212zuPTS2rzc9U90ezywLHfROIzlkxW4JrWu6xLn0ocJgaLlpdFjQmu5u7KAfXrEV6D3egYxvKCEzcR2She+y/hQ+OfdnJ7GhwdhGRDvJ1yLHi00KtgVSEMKVUqHQLXb7kFEaaFoSH9gV8zGjjC+4sazS10CdwKOFNO5wgT92xvekMm1voAyaqKkTliHmPoAORUncn6XwwBG5WUYabnZo6nyPrkUd+FAQ5Vsfm7Xk4TPqj5D7eSasQNwyoYzg/o5kyEmmR+8zvymY/6TTA30=;GD1d3mWJoiI+173WLEesxg=="
 ---
 
