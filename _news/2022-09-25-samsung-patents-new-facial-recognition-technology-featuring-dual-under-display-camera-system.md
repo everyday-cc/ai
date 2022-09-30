@@ -73,36 +73,6 @@ related:
         width: 640
         height: 362
         isCached: true
-  - title: "Samsung phones may come with dual under-display cameras for facial recognition in the future: How it could work"
-    excerpt: "South Korean tech giant Samsung is likely working on a camera system for facial recognition that involves two under-display cameras. According to GSMArena, it is described in a patent application Samsung filed with the KIPRIS (Korea Intellectual Property Rights Information Service) back in March 2021."
-    publishedDateTime: 2022-09-25T10:13:00Z
-    webUrl: "https://www.digit.in/news/mobile-phones/samsung-phones-may-come-with-dual-under-display-cameras-for-facial-recognition-in-the-future-65387.html"
-    ampWebUrl: "https://www.digit.in/article/amp/mobile-phones/65387/samsung-phones-may-come-with-dual-under-display-cameras-for-facial-recognition-in-the-future"
-    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/mobile-phones/65387/samsung-phones-may-come-with-dual-under-display-cameras-for-facial-recognition-in-the-future"
-    type: article
-    provider:
-      name: Digit
-      domain: digit.in
-    quality: 39
-    images:
-      - url: "https://static.digit.in/default/5697cd5bbb007ad3e8e3d4cad60209ea2fe90c50.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Samsung Working On Dual Under-Display Camera Tech For Facial Recognition"
-    excerpt: "South Korean tech giant Samsung is likely working on a camera system for facial recognition that involves two under-display"
-    publishedDateTime: 2022-09-25T09:57:00Z
-    webUrl: "https://menafn.com/1104920303/Samsung-Working-On-Dual-Under-Display-Camera-Tech-For-Facial-Recognition"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 38
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?10642"
-        width: 363
-        height: 249
-        isCached: true
 
 secured: "1xoWN6NcwYprAIzlFRlQzZEayovfw9AOFgJLE9Mdp8P9J/KXqZBboHcknt0VRLk5C5SWc4sRELR/BknMctiaLfzTZeSyT/Y5XMP7iMGrByJhfXl4zNRe2bQz8XqvvyhyQEvo/7GuWBxXM4M+fiBGXDtdn6WFIs6S/IBSeZbksKWa8SyZ2W9Dfp36EFFkeNLyiGlK9znvn4N6n+T7AI15t8BiJ5WAEyUn/4RTKfzsKhoJNV4KHlGS2z7v0ukoZBaxTdPDgu/zfsRBldPi1p0aTCqX5acCjvZaEoEUoOx5y71xDBtiT6dPFLa1C+tIyAs6wb+1qzmX8ZIWl/RFMbnweOxbJS92AdJ5+2Z7nlgUGvTQFfSt4Fta3j7eR3KJhq9AyKx4kZYPEhHgEQ8iHNY4OpIrFrKmsQqZ99LQA0xFMi2FO2gpGSPhpv0h4FfrSqVwpnSmskpPFI3XSRpjx8pIebGfi6Jl57zGZx9Q6iLBoQnpEzzmu1/0EcGARx9jSf3yRZIvIJVwLH4E9oTs0C+pHA==;H6ecSPba+5EPgbOVEUDYsw=="
 ---

@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Inventec's Rhyperior Is the Powerhouse GPU Accelerator System Every Business in the AI And ML World Needs"
-excerpt: "A unique and optimal combination of GPUs and CPUs, this 4U GPU accelerator system is based ... increasingly relying on the latest technologies like AI and ML for better, more robust solutions ..."
-publishedDateTime: 2022-09-26T18:02:00Z
-originalUrl: "https://www.asiaone.com/business/inventecs-rhyperior-powerhouse-gpu-accelerator-system-every-business-ai-and-ml-world-needs"
-webUrl: "https://www.asiaone.com/business/inventecs-rhyperior-powerhouse-gpu-accelerator-system-every-business-ai-and-ml-world-needs"
+excerpt: "Rhyperior is the ideal and effective system to enhance performance dramatically for the modern workload.TAIPEI, Sept. 26, 2022 /PRNewswire/"
+publishedDateTime: 2022-09-26T18:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/inventec-s-rhyperior-is-the-powerhouse-gpu-accelerator-system-every-business-in-the-ai-and-ml-world-needs-1031765200"
+webUrl: "https://markets.businessinsider.com/news/stocks/inventec-s-rhyperior-is-the-powerhouse-gpu-accelerator-system-every-business-in-the-ai-and-ml-world-needs-1031765200"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 84
+heat: 94
+published: true
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
@@ -20,9 +24,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Sep2022/InventecRhyperior_0919.jpg?h=92713cb2&itok=MVQ82Zhj"
-    width: 600
-    height: 316
+  - url: "https://mma.prnewswire.com/media/1906206/InventecRhyperior_0919.jpg"
+    width: 400
+    height: 205
     isCached: true
 
 related:
@@ -43,6 +47,6 @@ related:
         height: 205
         isCached: true
 
-secured: "D1/FceTY8AQsbDV/v6YCg3cRdXsBeXKK0+1SO461sXc4X9c4Ijm4taMibIWSwciXFhjzejGpzZma1Kp+qSx0Km6zZDnA+2We0ZQEUJ5qaZhTQnCjTCxLMV2ngtzolpW5k/njP8TWUMYNLAG4H9SywRjlTRXRjboVwI9gOfUVUINuiOI2slzRGYP01pl57GUIY9ZhLxLGLYBeZWQ4Xi3B4Kj1pOJ4MODUs5Jc6bgxTURnaWvKKAn57ge3Qu63AZ6TgQn43Fkjobm5xN/LVi6lGerv8FpBKeDfWocLN60m0hstk1bKBuIB1e9rLbSQC4OcsG2TzrTtJ20Vgrv6gQjjSi0IbhcG+xvM2MSJFwe4vuo=;pqYT5P7g6FLMPiceu9K+CA=="
+secured: "Yu0YbWIikbKQRncCSFm4yq87lY9LqrYKWpmyL1Tnn7jIWisxXJpxHxgeCo1cO3/xksb+/hBQMhTCXaR2rhRmaE1oN5UHX1lAEDdP1WdT5N4QDRy3FrxwWT8yYgA385CMiE5xLnLlKIAi6FrRHqQvw7+/h9v1aZ9XfFeYEycYkAlfLrJoZOV6zS5f8PQDuz2zNFxfFbiOrrKMUlHhiqiS4WrlabuROa1vHlOsWHZVNQlQzGDNWWUmWxQElVOTvJ11Rrs1jM0myyq0De+5P6KnROFE56y6zzrpA5WuqW9KAmvwL2PFiTlV6g2R3bVHXoWRU8kTIUzm9GwT2B2AkzExPcIoxwergL17zCb8/ts2bTQ=;J/+SZdSZlo9kyt4R3epvpQ=="
 ---
 

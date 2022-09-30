@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Ultromics joins FNIH Partnership to Transform Heart Failure Detection"
-excerpt: "The FNIH's Accelerating Medicines Partnership® Heart FailureOXFORD, England, Sept. 29, 2022 /PRNewswire/ -- Ultromics, a digital health"
-publishedDateTime: 2022-09-29T13:19:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ultromics-joins-fnih-partnership-to-transform-heart-failure-detection-1031773102"
-webUrl: "https://markets.businessinsider.com/news/stocks/ultromics-joins-fnih-partnership-to-transform-heart-failure-detection-1031773102"
+excerpt: "The FNIH's Accelerating Medicines Partnership® Heart Failure OXFORD, England, Sept. /PRNewswire/ -- Ultromics, a digital health technology company pioneering the development of transformative heart"
+publishedDateTime: 2022-09-29T13:15:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/09/n29073656/ultromics-joins-fnih-partnership-to-transform-heart-failure-detection"
+webUrl: "https://www.benzinga.com/pressreleases/22/09/n29073656/ultromics-joins-fnih-partnership-to-transform-heart-failure-detection"
+ampWebUrl: "https://www.benzinga.com/amp/content/29073656"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29073656"
 type: article
-quality: 49
-heat: 49
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "A1KDK+vb0Yiv/1/MFXUyyL+7sViRyZuzvQzTzhLZnQumvmH6wO+dm491ddmqzmNxH/LnPFrFVdcxZYDjCjC/qnFDaIf3hPdKkKwkHg0iRkebgpsLrosfSKcq5fyfZbsZlWT/XGP1sUexbpxiMCRS64jFShJVWG8GdtuwneAzKlC0MafTF4+W4hlyQh42JOiCR5JH8o1uTiqAddh9hKrRBEoDyNIMJn1exeBpWeHuxfqCUOP7eL81MGNLNupG6cCH7Csv2QW4AYYmW38iz3OaiEpvddVBq9g+YdIec9Ayd73VAV/Hj/By9JCnlB4LGW/WAAH1UOibFODBws37Fb02fEG5JFZ3qa+j0Nd6hUXT3s14xEr/Nodag8gQNa62vjuEppMIe1zRqF5b7nC59hcflbBkmRRaWjJQyvHmBgejSKLJ311NU3G1mgGk1GxiTCQF803H2MgxYD1t+FwwgWTBymzASiQrw1gDVdXFcZj7EW+WYZibiTPXv7AJZ4zN+bt19pScqNPh3x8HAN5GPWxZRg==;kws37ouKqe3EeWn/Emq1VA=="
+images:
+  - url: "https://mma.prnewswire.com/media/1911066/Ultromics_FNIH_Partnership.jpg"
+    width: 400
+    height: 225
+    isCached: true
+
+secured: "QKxPh8ID3vtHac5HcVzrbKAqGbwUXG08kxCYvDYvB9HKDQRxBQEb7aAHgyKPRQwx3PNvA3+ojfu9YL7bdWcUWy1sWCFvEgYHJJ43nfe/gta4RL54ysgNjtBLNqRcVc66b9R0RnUGBHEfbN8apWNDo90Eov6SmKNaROmNxdfcZOGQ3WKJqjtzsKpCe+w6u5VGYAKMgR+1l16zZpRCg5csT79aoNuKSf+afyK6kmSV2Vk1STmkVWb4MdRxtUbSRQa1IPs7b8JqGkcGEmRo3LNM5y3mcoK6MKaGxr8t3ra1ABvwx8GK5FTZwbKvef8YuG7NhZQYLaXXca2hFGsPufxiFIjtwIKHkmkYhNt3XgL4qk4=;G01ijfye89V1aHr7BK7bBg=="
 ---
 

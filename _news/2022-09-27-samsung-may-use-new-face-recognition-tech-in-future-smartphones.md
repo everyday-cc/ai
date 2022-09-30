@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/gadgets-news/samsung-may-use-new-face-rec
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/samsung-may-use-new-face-recognition-tech-in-future-smartphones/amp_articleshow/94479585.cms"
 type: article
 quality: 59
-heat: 109
+heat: 89
 published: true
 
 provider:
@@ -58,36 +58,6 @@ related:
       - url: "https://images.firstpost.com/wp-content/uploads/2022/09/Samsung-patents-a-new-facial-recognition-system-with-a-new-dual-under-display-camera-setup.jpg"
         width: 640
         height: 362
-        isCached: true
-  - title: "Samsung phones may come with dual under-display cameras for facial recognition in the future: How it could work"
-    excerpt: "South Korean tech giant Samsung is likely working on a camera system for facial recognition that involves two under-display cameras. According to GSMArena, it is described in a patent application Samsung filed with the KIPRIS (Korea Intellectual Property Rights Information Service) back in March 2021."
-    publishedDateTime: 2022-09-25T10:13:00Z
-    webUrl: "https://www.digit.in/news/mobile-phones/samsung-phones-may-come-with-dual-under-display-cameras-for-facial-recognition-in-the-future-65387.html"
-    ampWebUrl: "https://www.digit.in/article/amp/mobile-phones/65387/samsung-phones-may-come-with-dual-under-display-cameras-for-facial-recognition-in-the-future"
-    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/mobile-phones/65387/samsung-phones-may-come-with-dual-under-display-cameras-for-facial-recognition-in-the-future"
-    type: article
-    provider:
-      name: Digit
-      domain: digit.in
-    quality: 39
-    images:
-      - url: "https://static.digit.in/default/5697cd5bbb007ad3e8e3d4cad60209ea2fe90c50.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Samsung Working On Dual Under-Display Camera Tech For Facial Recognition"
-    excerpt: "South Korean tech giant Samsung is likely working on a camera system for facial recognition that involves two under-display"
-    publishedDateTime: 2022-09-25T09:57:00Z
-    webUrl: "https://menafn.com/1104920303/Samsung-Working-On-Dual-Under-Display-Camera-Tech-For-Facial-Recognition"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 38
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?10642"
-        width: 363
-        height: 249
         isCached: true
   - title: "Samsung patents new facial recognition technology featuring dual under-display camera system"
     excerpt: "Seems like South Korean tech conglomerate Samsung has been working on a rather interesting system for facial recognition, one that involves two under-display cameras."

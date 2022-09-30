@@ -26,14 +26,14 @@ images:
 
 related:
   - title: "Artificial intelligence reduces a 100,000-equation quantum physics problem to only four equations"
-    excerpt: "Using artificial intelligence ... colleagues wondered if they could use a machine learning tool known as a neural network to make the renormalization group more manageable. The neural network ..."
+    excerpt: "Using artificial intelligence, physicists have compressed a daunting quantum problem that until now required 100,000 equations into a bite-size task of as few as four equations — all without ..."
     publishedDateTime: 2022-09-26T13:01:00Z
     webUrl: "https://www.eurekalert.org/news-releases/965836"
     type: article
     provider:
       name: EurekAlert!
       domain: eurekalert.org
-    quality: 26
+    quality: 28
     images:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/17c32e60-6f93-42a9-bbce-e8450900c0e3/Rendition/thumbnail/Content/Public"
         width: 300
