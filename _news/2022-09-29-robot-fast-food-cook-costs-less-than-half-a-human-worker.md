@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2022/09/28/robot-fast-food
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2022/09/28/robot-fast-food-cook-costs-less-than-half-a-human-worker/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Company creates fast food cook robot that's cheaper than a human employee"
+    excerpt: "A robotics company headquartered in Illinois has unveiled a robot that can autonomously prepare chicken wings."
+    publishedDateTime: 2022-09-30T20:41:00Z
+    webUrl: "https://gazette.com/news/us-world/company-creates-fast-food-cook-robot-thats-cheaper-than-a-human-employee/article_045fea9a-2758-58d3-b02d-e5b8bea7825c.html"
+    type: article
+    provider:
+      name: The Gazette
+      domain: gazette.com
+    quality: 38
+    images:
+      - url: "https://i.prcdn.co/img?cid=9YMC&page=1&width=300"
+        width: 293
+        height: 514
+        isCached: true
   - title: "Introducing The Wingman, a fast food robot able to fry up foods"
     excerpt: "The Wingman from Nala Robotics is able to cook chicken wings, French fries, and other food items in a restaurant or fast food establishment."
     publishedDateTime: 2022-09-29T18:44:00Z

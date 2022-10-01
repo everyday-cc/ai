@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-01-this-robot-ran-a-world-record-but-its-trainer-says-its-not-dangerous-yet.md",
+      "title": "This robot ran a world record — but its trainer says it's 'not dangerous yet'",
+      "excerpt": "Cassie first made a name for itself in 2021 by completing a 5K on campus with a time of 53 minutes. After months of training, the machine has now set a Guinness World Record for the fastest 100 metre dash by a bipedal robot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbc.ca/radio/asithappens/this-robot-ran-a-world-record-but-its-trainer-says-it-s-not-dangerous-yet-1.6600931",
+      "originalUrl": "https://www.cbc.ca/radio/asithappens/this-robot-ran-a-world-record-but-its-trainer-says-it-s-not-dangerous-yet-1.6600931",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.6601376.1664575671!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/robot-running.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.6600931",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6600931",
+      "publishedDateTime": "2022-09-30T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-30-beyond-killer-robots-how-ai-impacts-security-military-affairs.md",
       "title": "Beyond Killer Robots: How AI impacts security, military affairs",
       "excerpt": "Nations that set limits on AI capabilities may encounter adversaries who have no qualms about doing so, putting them at a disadvantage.",
@@ -107,7 +150,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 413,
+      "heat": 443,
       "tags": null,
       "images": [
         {
@@ -319,7 +362,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2022/09/28/robot-fast-food-cook-costs-less-than-half-a-human-worker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -755,7 +798,7 @@
       "originalUrl": "https://seekingalpha.com/article/4543249-tesla-stock-ai-day-its-the-battery-stupid",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1422,49 +1465,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-artificial-intelligence-robots-market-size-to-record-213-cagr-through-2028.md",
-      "title": "Artificial Intelligence Robots Market Size to Record 21.3% CAGR Through 2028",
-      "excerpt": "Market Study Report presents latest report on global Artificial Intelligence (AI) Robots Market, which evaluates",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-size-to-record-213-cagr-through-2028-2022-09-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-size-to-record-213-cagr-through-2028-2022-09-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

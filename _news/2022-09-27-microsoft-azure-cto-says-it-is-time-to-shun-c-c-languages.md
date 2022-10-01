@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft’s Latest AI Tool Can Predict Missed Doctor’s Appointments"
+    excerpt: "This piece is exactly what Microsoft’s latest artificial intelligence (AI) tool is trying to address: reducing missed healthcare appointments. Merav Davidson,  Vice President of Industry AI, wrote in the  Industry Blogs: “The annual cost of missed appointments in the healthcare industry is more than $150 billion in the U."
+    publishedDateTime: 2022-09-30T22:17:00Z
+    webUrl: "https://www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai-tool-can-predict-missed-doctors-appointments/"
+    ampWebUrl: "https://www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai-tool-can-predict-missed-doctors-appointments/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai-tool-can-predict-missed-doctors-appointments/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63376ab52f11fec9fc57e042/0x0.jpg?format=jpg&crop=3083,1735,x0,y577,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "SAS Viya now available in the Microsoft Azure Marketplace"
     excerpt: "SAS offers its industry-leading analytics platform with hourly pricing model, in-app tutorials and support for multiple languagesCARY, N.C.,"
     publishedDateTime: 2022-09-27T15:42:00Z
@@ -56,20 +72,6 @@ related:
       - url: "https://static.tnn.in/photo/msid-88386381/88386381.jpg"
         width: 1680
         height: 946
-        isCached: true
-  - title: "SAS Viya analytics suite now available on Azure Marketplace"
-    excerpt: "Viya’s move to the marketplace allows enterprise customers to access its tools and features in a pay-as-you-go model, the company said."
-    publishedDateTime: 2022-09-27T13:18:00Z
-    webUrl: "https://www.infoworld.com/article/3674838/sas-viya-analytics-suite-now-available-on-azure-marketplace.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 86
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/07/05/10/data_analytics_risk_assessment_tracking_trends_graphs_by_ipopba_gettyimages-1150397416_2400x1600-100828857-large-100929801-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Microsoft Azure CTO says it is time to shun C, C++ languages. Here's why"
     excerpt: "Mark Russinovich, the chief technology officer of Microsoft Azure, has said that developers must stop writing codes in programming languages C and C++ and the industry should treat these computer languages as \"deprecated\"."
@@ -182,15 +184,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "WinWire Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "WinWire Technologies (WinWire) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads,"
-    publishedDateTime: 2022-09-27T18:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/winwire-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1031767749"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
   - title: "SAS Viya Now Available in Microsoft Azure Marketplace"
     excerpt: "The SAS Viya analytics platform is now available in the Microsoft Azure Marketplace with the click of a button on a"
     publishedDateTime: 2022-09-28T19:55:00Z
@@ -214,6 +207,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "NBA App Releases New Version With Microsoft With New Features Including AI and Machine Learning for Personalized Content"
+    excerpt: "The NBA released a new version of its league app on Tuesday that includes the debut of NBA ID, a free-to-join membership program for fans to get exclusive access to game ticket giveaways, merchandise,"
+    publishedDateTime: 2022-09-27T13:41:00Z
+    webUrl: "https://www.sporttechie.com/nba-microsoft-nba-id-app-league-pass"
+    type: article
+    provider:
+      name: SportTechie
+      domain: sporttechie.com
+    quality: 26
 
 secured: "qcsdUEDY97aWD3zOpcWwEzNrgd2xJyRfIA5oGBByxjc/Q4J0cgAI12L7Tpkh5sYcQrkWUSKyFDdG8G6BOVtlvNEZpV3Jc7/IWcNAgWSSfRYZNXx8VUHeN0s4Tuo+vmkQfjo5X4I2RrG06MZnbbSu1hxMgerHsxVfHYLWuTTW/alTxiIIG3FixsunhK6Id2OpLT/oB/W135Cj8agYk2uwMW669fc+0yIQqXiC/ptjpEzy9VQeF1EtdRc+t4Ya5ye4OEOCArgKXi5eqBkxl8weoStSo7HSLixBCtfuKYp2Sbq/a0wpV8PSaC9RaRZE9H7xrl3UiLMuIEGIMRPy2UB8Fp5ymv70NjqBaLPAox3KNBI=;pLMWt9U0IHH4Fs7H3POlHQ=="
 ---

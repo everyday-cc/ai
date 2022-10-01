@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 662
         isCached: true
+  - title: "Company creates fast food cook robot that's cheaper than a human employee"
+    excerpt: "A robotics company headquartered in Illinois has unveiled a robot that can autonomously prepare chicken wings."
+    publishedDateTime: 2022-09-30T20:41:00Z
+    webUrl: "https://gazette.com/news/us-world/company-creates-fast-food-cook-robot-thats-cheaper-than-a-human-employee/article_045fea9a-2758-58d3-b02d-e5b8bea7825c.html"
+    type: article
+    provider:
+      name: The Gazette
+      domain: gazette.com
+    quality: 38
+    images:
+      - url: "https://i.prcdn.co/img?cid=9YMC&page=1&width=300"
+        width: 293
+        height: 514
+        isCached: true
 
 secured: "acyDeeR8tr7702/ozVdcnAnSvWE/QW46G7gZ9ksIP7enP2LhCPtNAeFj6w55UHjBySYYND/w5kH8wHXJem1ujWNEVo/3k/nl16vdWHXlTRdzXmCF8XWcV8MZyrqYFmCqGEPctOZAZosBfmN3iDRR3028+JVTV/slBp3y7colcpTYPtp+juK7OcM1Zq16J2x4sA5hujicufpcBqP//iSX4UgKh0Yczdy+qG89tD4hXD1vrQYroLGjIneltk7bd7zsRt0GFat8jYaCXi54lwoNKrFNwKnwPZ+kLfiWNN7bYWk17lrDblivxS5PVRo1WmJSjxd76UahKmMStXmDeET5GvpUyQANOhq2e8lufnB8rvwN6V9HUvjfZzg0mhp7xB00ZWEBqDCfd5xhIpcewBm+xfgeIUQUjYg/5CRSydd+G2bfQKjT+KWpUlV/uqWsPGVIuz0RjadEvHifKdA/wqhv86fH412tqPLLzpa8E+GtaE+iNQaCWEAT4Vtdyr5i4B00xP78aT2ZwzLN/StPaveFLA==;gIOrkOaJXxEqBOonIsPjXA=="
 ---

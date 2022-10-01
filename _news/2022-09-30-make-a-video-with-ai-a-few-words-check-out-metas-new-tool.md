@@ -67,11 +67,27 @@ related:
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2022/09/dog-gif.gif?w=512"
         width: 512
         height: 512
+        isCached: true
+  - title: "Meta is pivoting to video with its new AI generator"
+    excerpt: "This new research tool can take text, video, or images and turn them into a short animated clip. Here's how it was created."
+    publishedDateTime: 2022-09-30T15:00:00Z
+    webUrl: "https://www.popsci.com/technology/meta-text-to-video/"
+    ampWebUrl: "https://www.popsci.com/technology/meta-text-to-video/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/meta-text-to-video/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 59
+    images:
+      - url: "https://www.popsci.com/uploads/2022/09/30/Screen-Shot-2022-09-30-at-10.16.05-AM.png?auto=webp"
+        width: 2498
+        height: 1238
         isCached: true
   - title: "Meta announces AI-based tool for generating video from text"
     excerpt: "The tool builds on popular image-generation programs like DALL-E and appears to have won a race to extend the tech to video."

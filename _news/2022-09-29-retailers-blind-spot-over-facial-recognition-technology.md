@@ -41,20 +41,6 @@ related:
         width: 1920
         height: 1274
         isCached: true
-  - title: "The heated fight against facial recognition scams"
-    excerpt: "Beijing resident Li was appalled when she found that 430,000 yuan (S$86,130) disappeared from her bank savings within minutes. The money transfer, which was supposed to be verified through facial recognition,"
-    publishedDateTime: 2022-09-26T06:58:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/the-heated-fight-against-facial-recognition-scams"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 54
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/09/26/kc-hacker2609.jpg?VersionId=D2zjz0gvp7kjUw0EazBLnQJhEWhusK9G"
-        width: 860
-        height: 573
-        isCached: true
   - title: "Avoiding a surveillance society: how better rules can rein in facial recognition tech"
     excerpt: "The Facial Recognition Model Law Project, to which this article refers, was undertaken by HTI, with funding from UTS and support from the UTS Centre for Social Justice & Inclusion. UTS has ..."
     publishedDateTime: 2022-09-27T01:40:00Z

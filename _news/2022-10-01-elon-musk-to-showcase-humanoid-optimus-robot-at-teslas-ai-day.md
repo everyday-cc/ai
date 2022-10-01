@@ -112,6 +112,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla AI Day 2022: How to Watch Elon Musk's Optimus Robot, Self-Driving Car Tech"
+    excerpt: "Tesla is working on a robot to handle \"repetitive, boring, and dangerous\" work. At AI Day 2022, expect updates on FSD technology for eventual self-driving cars, too."
+    publishedDateTime: 2022-09-30T22:05:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-tech/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-tech/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-tech/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 116
+    images:
+      - url: "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Our top 4 Tesla AI day predictions"
     excerpt: "An Optimus robot prototype, updates to FSD, a Tesla robotaxi and more on the Dojo supercomputer are what we expect at Tesla AI Day."
     publishedDateTime: 2022-09-28T19:00:00Z
@@ -175,6 +191,38 @@ related:
       - url: "https://www.digitaltrends.com/wp-content/uploads/2022/09/Fdx4jsfWIAMMH6D.jpeg?p=1"
         width: 1024
         height: 682
+        isCached: true
+  - title: "How to watch Tesla AI Day 2022"
+    excerpt: "Tesla's AI Day 2022 promises an update on Elon Musk's humanoid robot, plus insight into the carmakers advances in AI."
+    publishedDateTime: 2022-09-30T22:18:00Z
+    webUrl: "https://techcrunch.com/2022/09/30/how-to-watch-tesla-ai-day-2022/"
+    ampWebUrl: "https://techcrunch.com/2022/09/30/how-to-watch-tesla-ai-day-2022/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/30/how-to-watch-tesla-ai-day-2022/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/09/Screen-Shot-2022-09-30-at-11.22.22-AM.jpg?resize=1200,642"
+        width: 1200
+        height: 642
+        isCached: true
+  - title: "Tesla set to feature robot, autonomous driving at 'AI Day' Friday evening"
+    excerpt: "Tesla will hold its 2nd annual AI Day in Palo Alto Friday evening. The event will include updates on Tesla's work in artificial intelligence, autonomous driving and robotics."
+    publishedDateTime: 2022-09-30T19:46:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/tesla-feature-robot-autonomous-driving-ai-day-friday/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/tesla-feature-robot-autonomous-driving-ai-day-friday/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/tesla-feature-robot-autonomous-driving-ai-day-friday/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 92
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/09/30/38632ade-6144-4057-9e35-a3dc319d5f68/thumbnail/1200x630g2/37981ada8bfa72939b9453b8c3067303/tesla-robot.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Tesla just gave us a fresh glimpse of its humanoid robot ahead of its big AI Day event. What we know so far about the Optimus project."
     excerpt: "Elon Musk has said the robot could more important than its car business, but it'll join a long list of projects that haven't yet seen the light of day."
@@ -398,6 +446,6 @@ related:
       domain: thesun.co.uk
     quality: 28
 
-secured: "9hpGj2lAfA8RzT1hNr/xRLfzUKA4RVOiZbhGAs2M34EIb6DMThY1is4xLHDoo+S5qdyx24pI23PzSHCL2OJulufsY+p/hWwmwxlDJF9EXR76t3nmiy1FdztK0aFKsYG8s9YHQAmjFkPY3kPQqKnGEwdAUz+2PjdkZbmWz3tjhzag3WMZTRg35UyLep6w7xxZ6SBMAW1+CsZ1NLG2qiSzOsEsd5DtOvU6x/776qYJHgcAJAFgst+4AjpEfqtZ12nv70r666ZUVLcOdcjbbrdm2bACSxwwmC1yj+l3XLNzImXtsjpsfeglqfl/dHNWxv/Yu1QuUpSx4kluXKRsbGhyEHCzzg4K8ksu4au9CA00Br8=;02MDsQSuhnzaSqRcpvYvEg=="
+secured: "Q5QbpGU4lWrwo0xxcRh6SWgXD5daTsZ8vFPb3JLVPG3M0mckX+kWCUm5OsdLFs5xXQvZqfFZx9bmHhGe/Zdg1G2qBdKa1yY2m1AOSf64KNltFpAQm1D9E19priHYsGcMH9eN/cKouBPFmTwU7Db6+eTWN6libcga2d2axo+iPPkoGK860LbYIbx0vKD01eiu8r71XbA3jQshROnzLwV45jnLhgwx6OUYIYGD6tOgvQtt/7nGUiIYux7mbM0I3+Pl5oundcuGHDTgwITrtHlD6h3OSEEKd4Eg8mJ4gxXwwbkbyy3FUppOcqeZDyU3TOQAkM85jKbAzOHD8cKaLb20itQEgD2Fu6vp+GttEl2eG4P7bnvJ9qK58iDfv/YE1FRx6fwihY3u/qy45jReks3A2rQxJJDaWVg/djOTpAHkiHbDvykTUwhdWQn7NI62yCg4WXDhuK6Qp4vm9zHfHSLSPp8mJ/yPlGZFSXQCf6LCqphotHhz6Fc+xnMOSTPq1c1vUq8x28BBaUI1P92MbSaX9g==;vBryoAOaDYm6WFhiM8iJsA=="
 ---
 

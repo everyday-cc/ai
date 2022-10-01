@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-28T07:00:00Z
 originalUrl: "https://www.washingtonpost.com/technology/interactive/2022/artificial-intelligence-images-dall-e/"
 webUrl: "https://www.washingtonpost.com/technology/interactive/2022/artificial-intelligence-images-dall-e/"
 type: article
-quality: 17
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
+
+images:
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PGYJP5A3SJFCZID63SWV4WOQ44.jpg&w=1200"
+    width: 1200
+    height: 787
+    isCached: true
 
 related:
   - title: "Image-generating AI Dall-E is now free for anyone to play with"
@@ -92,6 +99,6 @@ related:
       domain: protocol.com
     quality: 11
 
-secured: "9UQcZdC2NY6YUYzXhQrytMgudy4Qgxjn1+qAlqj1xVhqJY3KSzIBVgq35APKGS6FntfQE56saFkGkD6xNunvoFj72mFNL3KUACE4KdTShK6UlB4EDBP5+2Ja19ObvgPIOeoU609B4SOfjcOtM6m2QVbmKdFIAIIAUyoA1GXfrdofsUV87PbSP7Wl7e3YnH4JVGonDL9kb28GGTpZO4DC43gBUOJ7Z09rDsIH2Z9kjnRchd6d+CS5Y3PPVeatZPQeG/eJvv9zUxh2QV9ouC9xTcxnCrLFb5u9BvKHttMq5tmx5PVHhNq5HzFM5pRxDs+OOtBo9qCjf5q4PdjTUvCPcNCoXaEbRoLJbZ9feevXqoyfZFgMtMUp8wx8vQBVDzFikX4vMZX3z1cIEbqTLplByv8EE9w63ShJ/Ho62RdDGV/jIuq7PDnYIQymcRiNd5pN2JfahlCGLaixt1NjGcpMtqgP0WnRJeqZ8mvN98gE3Py0LibLn+YMzKcWSxPlZL1TeNpQqyzsXo0ei3zLou5bYQ==;HGETX8Ebitc7rFguyu8nWA=="
+secured: "DcExKSPd6i+JtGnNYpV+U7/cV73Aqc3OyBkB5BgMF44XHIUd5Di/LqGoEi1uD/8+2G/WVzvn6NjO43X97xGc5/6eQcG3YNlXmSXJwXZkJqnUfhZrM4ujx9SUw7QMrY25afstUkj3t+cJhQq+Uhjemw9rGoBlF0k8GBFmlE5SZXIoNIZc/I537XGv2SbbEAU8nsojlWn5qCFC2qEWpL+wgzlED8aJoIkKpxB05TGnwiu36lJoiYSeZoOiZKtJ6PU/ShLBt2ZE1wiGklcMQJVsi5KRahJaG9ZI7trH1/juu1SJVTc5Qd06JE0qyyKrleqfhIOZEUCGnreVIpjmYx5gGcCnWOY7ebk76SK+pJ2AS7g=;r6qc9nXvMkmb22JMCRaY6g=="
 ---
 

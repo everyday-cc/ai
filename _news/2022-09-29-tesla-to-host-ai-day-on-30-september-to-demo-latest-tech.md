@@ -62,6 +62,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Tesla’s AI Day is tonight. It may wow you — or end with a gaffe"
+    excerpt: "By Matt McFarland, CNN Business Tesla will hold its second annual AI Day in Palo Alto, California, Friday evening. The six-hour event will include updates on Tesla’s work in artificial intelligence, “Full Self-Driving,"
+    publishedDateTime: 2022-09-30T17:34:00Z
+    webUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2022/09/30/tesla-ai-day-heres-what-to-expect/"
+    type: article
+    provider:
+      name: KTVZ
+      domain: ktvz.com
+    quality: 56
+    images:
+      - url: "https://ktvz.b-cdn.net/2022/09/hypatia-h_5f674fbb74773d0b1a5da54f0814323e-h_2c8f0881fb060bc947bc53300013629c-300-860x484.jpg"
+        width: 860
+        height: 484
+        isCached: true
 
 secured: "axBfmwrCx5z21BI9FgRNadDLEg+P+4YZ2tgKNODByxjCP/fguAg3RLf8aiqjx4hc7SxPVORYkPude9mT+xFqrZHfXtW3Het4f7ktePmBCMgR7YOowaIdYa6cKV/3KRgQLDy7Sk2q+OW9HzPSi6XFkjWDXa9Cygc1NM0BHQjV1zs8VLkK8nC81buDvMn8oO5acksOYdNQhDHAWk2lITteT4xtsHNacl1ifkMRSTEatKBB8OHJbep2pZ3FDcNE2DHlOTCQA+Fy0A2uim3rfvNirq3U7d9+EZaPOfQ49DpPZpIv6U2SeIKhKmpmTQJW/JPUlU3xlF5D/JE2UN1D0lcep00IUkYEWcDNjZ4r0jNpq5A/Qdql3XHOaqCdJzNios4jLSAlqNRjpGzKObaPbX8Ku83M2l8qkc17GYMFwIwjeN+9RaoawSS0U9m80Pr5HYBxLtJWspKef1dbfAzm+utIwcjEW4L7UruC1dPnKWfHTTXpL5s/3j0zBKEmXVIeVqUrqBNttl4ZuchERmyz5oaUmA==;WepCHOOtspF1qwG5CVsJSA=="
 ---

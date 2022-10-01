@@ -87,7 +87,12 @@ related:
     provider:
       name: The Washington Post
       domain: washingtonpost.com
-    quality: 17
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PGYJP5A3SJFCZID63SWV4WOQ44.jpg&w=1200"
+        width: 1200
+        height: 787
+        isCached: true
   - title: "The sky’s the limit for AI tools like DALL-E, but investors have a rough road ahead"
     excerpt: "What looks like an interesting art tool has become a prime feeding ground for investors; part of the the challenge now is finding the business case for AI-generated imagery."
     publishedDateTime: 2022-09-26T19:37:00Z

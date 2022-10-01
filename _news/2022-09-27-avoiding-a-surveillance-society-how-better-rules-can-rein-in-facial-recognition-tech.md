@@ -43,20 +43,6 @@ related:
         width: 1920
         height: 1274
         isCached: true
-  - title: "The heated fight against facial recognition scams"
-    excerpt: "Beijing resident Li was appalled when she found that 430,000 yuan (S$86,130) disappeared from her bank savings within minutes. The money transfer, which was supposed to be verified through facial recognition,"
-    publishedDateTime: 2022-09-26T06:58:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/the-heated-fight-against-facial-recognition-scams"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 54
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/09/26/kc-hacker2609.jpg?VersionId=D2zjz0gvp7kjUw0EazBLnQJhEWhusK9G"
-        width: 860
-        height: 573
-        isCached: true
   - title: "Retailers’ blind spot over facial recognition technology"
     excerpt: "Scanning the faces of customers was an overreach by retailers and is likely to be prohibited under proposed new laws."
     publishedDateTime: 2022-09-29T04:30:00Z
@@ -176,6 +162,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "DJv/fvYmdLBiealLbVN1I3EGAfNSc4bPAukOSK4eG7FKaZP/6GPP+DcYAJMlXdAzLH8LapLlZTx5ZG8acmSSlXMnGPPhpJ7SIyTJIEwAJIXJFvK0Tq4TVANF1vYxL+gspmjwgHR9/H34saF7ttzT+V3No+I4KJ8GTwyrMh2Q8O7jCJxdtkSrocOcUiJ6uhQglopBqmBRIDwiMctveQ8CVifszIwfbvzfrTq3UKWc5j8tpmV93YmVvY2bMn63IVNJFbJbVXg4BB/e7x1p5cDoEGGtnsGZYjOJyKGIu2/Cn5l6mI2/UlpqKySM8pz82G8hqRyjryNcLuIv0m2IwhAYRGn5Ql45L+8mFgCasWfYzMw=;AjVSta1e9tF6mXVxUszrsg=="
+secured: "M4/XsXNRs1ZdexfIPoZPSkbCWGolrFORub4WfSjT9BJHJFzjpiAef1iVmVjGoheHiIWPy5fWsGexWgSTaZmynZCmFeTsvXiJ85QbAuFR2jLLTmvtlO2v1no+i47QMwqmCe3Ei8mWuck2R3zwu1Vpi9KQIz8YPpOS/m/TepO1DTgy3NGNxZc50zcSYLP5M8TdrzXt56aSmtFQ3oPjygzGkJn9DwnYoO5/ehI3Sba0be4KfQcY3wpgSmo0rRO+jvywQ6sCsFSbx6WToyw1iVBhlkdXlZnENLqOs9Rt1WN9/VEgsCM1A4VgyS45xS514cn+jQ4eWT/mjzHVn3Ed2Mu9N5N9DeqRUY82hAiqU4rKaJ4=;0HgTwsDk87Wp6NnrDSAYfw=="
 ---
 

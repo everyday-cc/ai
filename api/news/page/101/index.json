@@ -2,6 +2,152 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2022-07-11-is-sentient-ai-upon-us.md",
+      "title": "Is Sentient AI Upon Us?",
+      "excerpt": "Many people would say animals are sentient because they exhibit emotions like joy, sadness, fear and love. We also know that some animals have more complex emotions than others; animals such as elephants are known to mourn their dead relatives in ways we find familiar enough to call grieving “mourning” ourselves.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/11/is-sentient-ai-upon-us/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/11/is-sentient-ai-upon-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62c83a13fef1dee7d35374c5/0x0.jpg?format=jpg&crop=5700,3206,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/11/is-sentient-ai-upon-us/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/11/is-sentient-ai-upon-us/amp/",
+      "publishedDateTime": "2022-07-11T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-11-why-regulating-ai-is-a-mistake.md",
+      "title": "Why Regulating AI Is A Mistake",
+      "excerpt": "Oren Etzioni is the CEO of the Allen institute for Artificial Intelligence ... AI technology that further delivers on the promise of driverless cars, intelligent robots, and other societal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ciocentral/2017/01/09/why-regulating-ai-is-a-mistake/",
+      "originalUrl": "https://www.forbes.com/sites/ciocentral/2017/01/09/why-regulating-ai-is-a-mistake/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/545350597/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-11T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-11-research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too.md",
+      "title": "Research: Artificial intelligence can fuel racial bias in health care, but can mitigate it, too",
+      "excerpt": "While some artificial intelligence algorithms do indeed exacerbate inequitable medical care, other algorithms can actually close such gaps.",
+      "sourceUrl": null,
+      "webUrl": "https://journalistsresource.org/home/research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too/",
+      "originalUrl": "https://journalistsresource.org/home/research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://journalistsresource.org/wp-content/uploads/2022/06/artificial-intelligence-g55ddc4275_1920.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-11T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Journalist's Resource",
+        "domain": "journalistsresource.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-11-the-35-best-amazon-prime-day-2022-deals.md",
       "title": "The 35+ Best Amazon Prime Day 2022 Deals",
       "excerpt": "Amazon Prime Day 2022 is finally here. Check out the biggest discounts we’re seeing on the very best, Wirecutter-approved products.",
@@ -1007,127 +1153,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-09-jaxon-awarded-phase-ii-sbir-contract-with-us-air-force.md",
-      "title": "Jaxon Awarded Phase II SBIR Contract with U.S. Air Force",
-      "excerpt": "AFWERX for an SBIR Phase II in the amount of $750,000 focused on AutoSpec (a tool to automate the AI-creation process) to investigate its potential to fill capability gaps in the Department of the Air Force (DAF).",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/newswire/technology-science-us-air-force-c2f132617474f9711d12925256b808de",
-      "originalUrl": "https://apnews.com/press-release/newswire/technology-science-us-air-force-c2f132617474f9711d12925256b808de",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-08T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-09-sure-githubs-ai-assisted-copilot-writes-code-for-you-but-is-it-legal-or-ethical.md",
-      "title": "Sure, GitHub's AI-assisted Copilot writes code for you, but is it legal or ethical?",
-      "excerpt": "GitHub's Copilot is an AI-based, pair-programming service. Its machine learning model raises a number of questions. Open source experts weigh in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/is-github-copilots-code-legal-ethically-right/",
-      "originalUrl": "https://www.zdnet.com/article/is-github-copilots-code-legal-ethically-right/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/is-github-copilots-code-legal-ethically-right/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/is-github-copilots-code-legal-ethically-right/",
-      "publishedDateTime": "2022-07-08T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-cognizant-ctsh-inks-deal-with-zurich-insurance-subsidiary.md",
-      "title": "Cognizant (CTSH) Inks Deal With Zurich Insurance Subsidiary",
-      "excerpt": "Cognizant will aid Zurich to extend its AI, data, software engineering and ... sustainability via its data fabric solutions and IBM Watson. Accenture is improving its market share in the industry ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/cognizant-ctsh-inks-deal-with-zurich-insurance-subsidiary",
-      "originalUrl": "https://www.nasdaq.com/articles/cognizant-ctsh-inks-deal-with-zurich-insurance-subsidiary",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/cognizant-ctsh-inks-deal-with-zurich-insurance-subsidiary?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cognizant-ctsh-inks-deal-with-zurich-insurance-subsidiary?amp",
-      "publishedDateTime": "2022-07-08T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

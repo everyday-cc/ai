@@ -90,7 +90,12 @@ related:
     provider:
       name: The Washington Post
       domain: washingtonpost.com
-    quality: 17
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PGYJP5A3SJFCZID63SWV4WOQ44.jpg&w=1200"
+        width: 1200
+        height: 787
+        isCached: true
 
 secured: "OfdIgGOSDIM1HtYVmRT1Ij+tqnOO1Yrmic6Zc43NEM+TJYUKKcwhuQ3oTd+BZ3KxC8Ddjzd+40X63jrNctVTfjNUn/hV650GJ7ufwG4VFmNg0yvmoRy93p/qSiCBkiw27LRot5+DXUmQsJFEYurpvirPc6bVaSivRtqnAYgW2t3GB3prNo5/2f7UgyBQDiRYiW1j7Tbn0FpceSRUyiRvfBu+RVGp1XMfNoi7F/xZaoetN31lF4OMg75cPcZEx+lx37F+QFgH2d2sT7w3deEYT2lUT6AvKXs1pcgEo4/SS0z9pR/eEsOqaEljBdEiAvsgAA729aAGS6qD2cxJ5l/tSdKZt2DL0teWCkeJ9yBor0M=;3+4yAuEMK9G8ap41V/F6QA=="
 ---

@@ -30,194 +30,81 @@ images:
     isCached: true
 
 related:
-  - title: "SAS Viya now available in the Microsoft Azure Marketplace"
-    excerpt: "SAS offers its industry-leading analytics platform with hourly pricing model, in-app tutorials and support for multiple languagesCARY, N.C.,"
-    publishedDateTime: 2022-09-27T15:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sas-viya-now-available-in-the-microsoft-azure-marketplace-1031767702"
+  - title: "SAS launches first cloud analytics service on Azure"
+    excerpt: "SAS is one of the old guards in the data analytics space. Its first tools were developed at North Carolina State University in the late 1960s and commercially launched in 1976. Throughout the last fifty years,"
+    publishedDateTime: 2022-09-27T15:30:00Z
+    webUrl: "https://venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/"
+    ampWebUrl: "https://venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 99
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
     images:
-      - url: "https://mma.prnewswire.com/media/1907863/SAS__woman_screen.jpg"
-        width: 400
-        height: 267
+      - url: "https://venturebeat.com/wp-content/uploads/2015/12/Analytics.shutterstock_160050128.jpg?w=1200&strip=all"
+        width: 1200
+        height: 710
         isCached: true
-  - title: "MICROSOFT AZURE AND AZURE AI"
-    excerpt: "Get latest Microsoft Azure And Azure Ai news and updates. Explore Microsoft Azure And Azure Ai photos, videos and information on Times Now"
-    publishedDateTime: 2022-09-27T14:38:00Z
-    webUrl: "https://www.timesnownews.com/topic/microsoft-azure-and-azure-ai"
-    ampWebUrl: "https://www.timesnownews.com/topic/microsoft-azure-and-azure-ai/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/topic/microsoft-azure-and-azure-ai/amp"
+  - title: "Cadence Brings Big Data And AI Analytics To SoC Verification"
+    excerpt: "Ranked Industry Analyst Patrick Moorhead gives his analysis of Cadence's newly announced Verisium AI-Driven Verification platform and JedAI platform for speeding up verification workloads for SoC designs."
+    publishedDateTime: 2022-09-26T15:51:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2022/09/26/cadence-brings-big-data-and-ai-analytics-to-soc-verification/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2022/09/26/cadence-brings-big-data-and-ai-analytics-to-soc-verification/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/09/26/cadence-brings-big-data-and-ai-analytics-to-soc-verification/amp/"
     type: article
     provider:
-      name: timesnownews
-      domain: timesnownews.com
+      name: Forbes
+      domain: forbes.com
     quality: 89
     images:
-      - url: "https://static.tnn.in/photo/msid-88386381/88386381.jpg"
-        width: 1680
-        height: 946
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6331c919636539d4817d2c2f/0x0.jpg?format=jpg&width=1200"
+        width: 360
+        height: 360
         isCached: true
-  - title: "Microsoft Azure CTO says it is time to shun C, C++ languages"
-    excerpt: "For 84 per cent professionals in the country, machine learning (ML) followed by statistics are the two most in-demand skills that recruiters are looking for in data science professionals, a report said recently. Python remained the most used programming ..."
-    publishedDateTime: 2022-09-27T02:30:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages/94466077"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages/94466077"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages/94466077"
+  - title: "As extreme weather events worsen, 7Analytics meshes AI and big data to predict flooding"
+    excerpt: "Analytics was founded by data scientists and geologists to help reduce the risks of flooding, harnessing the power of AI, ML, and big data."
+    publishedDateTime: 2022-09-29T20:40:00Z
+    webUrl: "https://techcrunch.com/2022/09/29/as-extreme-weather-events-worsen-7analytics-meshes-ai-and-big-data-to-predict-flooding/"
+    ampWebUrl: "https://techcrunch.com/2022/09/29/as-extreme-weather-events-worsen-7analytics-meshes-ai-and-big-data-to-predict-flooding/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/29/as-extreme-weather-events-worsen-7analytics-meshes-ai-and-big-data-to-predict-flooding/amp/"
     type: article
     provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 74
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 79
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-94466077,imgsize-15812,width-1200,height-628,overlay-ettelecom/microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages.jpg"
+      - url: "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1199168364.jpg?resize=1200,400"
         width: 1200
-        height: 628
-        isCached: true
-  - title: "Microsoft Azure CTO says it is time to shun C, C++ languages. Here's why"
-    excerpt: "Mark Russinovich, the chief technology officer of Microsoft Azure, has said that developers must stop writing codes in programming languages C and C++ and the industry should treat these computer languages as \"deprecated\"."
-    publishedDateTime: 2022-09-26T10:22:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto/articleshow/94453692.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto/amp_articleshow/94453692.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto/amp_articleshow/94453692.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 73
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-15812,msid-94453800/mark-russinovich.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "SAS Viya Now Available on Microsoft Azure Marketplace"
-    excerpt: "The full-featured platform on Microsoft Azure would equip global customers with access to essential machine learning, data exploration, and model deployment analytics"
-    publishedDateTime: 2022-09-29T10:10:00Z
-    webUrl: "https://analyticsindiamag.com/sas-viya-now-available-on-microsoft-azure-marketplace/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 69
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/09/oie_4SPc7hZvoLMk.jpeg"
-        width: 800
         height: 400
         isCached: true
-  - title: "At ISC 2022: Microsoft Talks HPC-AI and AMD Chips in the Azure Cloud"
-    excerpt: "We visited with Microsoft Azure during ISC – here is our conversation with two HPC-AI specialists, Alex Jean and Dr. Lukasz Miroslaw, for an update on Azure’s line-up of new capabilities and services in support of advanced AI and machine learning."
-    publishedDateTime: 2022-09-29T18:54:00Z
-    webUrl: "https://insidehpc.com/2022/09/at-isc-2022-microsoft-talks-hpc-ai-and-amd-chips-in-the-azure-cloud/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 66
-  - title: "TCS recognized as Leader and Star Performer for Microsoft Azure System Integration Capabilities"
-    excerpt: "TCS was recognized as a Star Performer for demonstrating the strongest forward and upward movement on the matrix, based on its continued investments in intellectual property, comprehensive portfolio of Azure services,"
-    publishedDateTime: 2022-09-26T10:38:00Z
-    webUrl: "https://www.business-standard.com/article/news-cm/tcs-recognized-as-leader-and-star-performer-for-microsoft-azure-system-integration-capabilities-122092600759_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/tcs-recognized-as-leader-and-star-performer-for-microsoft-azure-system-integration-capabilities-122092600759_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/tcs-recognized-as-leader-and-star-performer-for-microsoft-azure-system-integration-capabilities-122092600759_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 62
-    images:
-      - url: "https://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg"
-        width: 620
-        height: 464
-        isCached: true
-  - title: "Microsoft raises its voice on climate priorities"
-    excerpt: "The technology giant declares energy and carbon policy goals, underscores role of digitization in speeding low-carbon economy transition."
-    publishedDateTime: 2022-09-26T09:43:00Z
-    webUrl: "https://www.greenbiz.com/article/microsoft-raises-its-voice-climate-priorities"
-    type: article
-    provider:
-      name: GreenBiz
-      domain: greenbiz.com
-    quality: 56
-    images:
-      - url: "https://www.greenbiz.com/sites/default/files/styles/og_image_1200x630/public/2022-09/22-0922-019-media-highlights-day3-PhotoByAyanoHisa.jpg?itok=Ix66jJUr"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Unlocking the power of AI in Microsoft Cloud for industries"
-    excerpt: "AI is transforming Microsoft Cloud for industries by helping organizations in modernizing business processes and accelerating development. Learn more."
-    publishedDateTime: 2022-09-28T15:00:00Z
-    webUrl: "https://cloudblogs.microsoft.com/industry-blog/general/2022/09/28/unlocking-the-power-of-ai-in-microsoft-cloud-for-industries/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 54
-    images:
-      - url: "https://cloudblogs.microsoft.com/industry-blog/uploads/industry/2022/09/GettyImages-Correct.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft and UiPath partner to bring Azure automation solutions to market"
-    excerpt: "Enterprise automation vendor UiPath today announced a collaboration with Microsoft to bring Azure-powered automation solutions to market"
-    publishedDateTime: 2022-09-28T15:47:00Z
-    webUrl: "https://www.information-age.com/microsoft-uipath-partner-to-bring-azure-automation-solutions-to-market-123500068/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 52
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2022/09/microsoft-uipath-partner-to-bring-azure-automation-solutions-to-market.jpg.optimal.jpg"
-        width: 1080
-        height: 591
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
-    excerpt: "New Jersey, NJ -- (SBWIRE) -- 09/26/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
-    publishedDateTime: 2022-09-26T16:12:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-59"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 50
-    images:
-      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "WinWire Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "WinWire Technologies (WinWire) today announced it has earned the Modernization of Web Applications to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and proven expertise in migrating and modernizing production web application workloads,"
-    publishedDateTime: 2022-09-27T18:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/winwire-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1031767749"
+  - title: "Manufacturing industry transformed by AI, IoT and analytics"
+    excerpt: "SAS hosts MFG Day flagship event on Oct. 5th featuring smart trucks, tractors and buildingsCARY, N.C., Sept. 26, 2022 /PRNewswire/ -- For"
+    publishedDateTime: 2022-09-26T14:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/manufacturing-industry-transformed-by-ai-iot-and-analytics-1031765018"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 50
-  - title: "SAS Viya Now Available in Microsoft Azure Marketplace"
-    excerpt: "The SAS Viya analytics platform is now available in the Microsoft Azure Marketplace with the click of a button on a"
-    publishedDateTime: 2022-09-28T19:55:00Z
-    webUrl: "https://www.datanami.com/this-just-in/sas-viya-now-available-in-microsoft-azure-marketplace/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 49
-  - title: "Wallaroo Unveils Integration with Microsoft Azure Marketplace, Debuts Latest Edge Environment Technology"
-    excerpt: "Wallaroo Labs, developers of a model operations platform for deploying, observing, and managing machine learning in production, is announcing integration of Wallaroo Enterprise Edition with Microsoft Azure Marketplace,"
-    publishedDateTime: 2022-09-26T20:10:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Wallaroo-Unveils-Integration-with-Microsoft-Azure-Marketplace-Debuts-Latest-Edge-Environment-Technology-155103.aspx"
-    type: article
-    provider:
-      name: dbta
-      domain: dbta.com
-    quality: 37
+    quality: 67
     images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1907513/MFG_Day_Manufacturing_Institute_Logo.jpg"
+        width: 365
+        height: 400
+        isCached: true
+  - title: "SAS launches first cloud app with pay-as-you-go pricing"
+    excerpt: "SAS Institute Inc. is making one of its top software applications available on a pay-as-you-go basis for the first time with today’s announcement that its Viya analytics platform is now available on the Microsoft Azure Marketplace."
+    publishedDateTime: 2022-09-27T15:30:00Z
+    webUrl: "https://siliconangle.com/2022/09/27/sas-launches-first-cloud-app-pay-go-pricing/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/1465928356505.jpg"
+        width: 1280
+        height: 840
         isCached: true
 
 secured: "gpVn9XNOPQRzG9L1xKpL+rFqDQtdNA5W2j2PaYbd5NIHikAo106lDlVAbnny3BEB3EqHiAtZmB5rj98+tQeilO2LKvBdBGJJPwqgkEm4i1lJNxELPWY4U1iLVHe6Dw8S+CqDYMZYQ6cHzioUfRSZj2icy+/f/3c9V+qMug3W0gEzly5kcrAc0gujyHd3aefEN5oLHwUloPxvWdDhLpIiJ5oT7LLyZKsOohuadzC+X0FVx5S1PouTT0L37G/JYuOqemJQeMC2iFThiVKbxzYQukQkpHGqS1SiSuB6igYM7WmBhthyQMhd7JsGEObaZWpcmiBZ20zSNyLTfwcwdQ7TbtwsvdbS8Ppg2lh6sUPEypWGzDwTpFVorDvDSzl/UZq/EbclVX3hhW87AVq1o3CdOzShw5HKfxjyzbSjbilLwsYTr67czOlbEWqgNAK1T9PSmieoyd7Air67kKz06I02dut3BMX98x5mJvSkJ5YqdIqT18V8QulADRuDudp7bBMSh5i4VvgRtLO9Ihx4iqmkRA==;UU832dkAZ3de3afNUx2qzQ=="

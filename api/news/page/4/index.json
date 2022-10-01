@@ -2,6 +2,146 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-27-inventecs-rhyperior-is-the-powerhouse-gpu-accelerator-system-every-business-in-the-ai-and-ml-world-needs.md",
+      "title": "Inventec's Rhyperior Is the Powerhouse GPU Accelerator System Every Business in the AI And ML World Needs",
+      "excerpt": "Rhyperior is the ideal and effective system to enhance performance dramatically for the modern workload.TAIPEI, Sept. 26, 2022 /PRNewswire/",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/inventec-s-rhyperior-is-the-powerhouse-gpu-accelerator-system-every-business-in-the-ai-and-ml-world-needs-1031765200",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/inventec-s-rhyperior-is-the-powerhouse-gpu-accelerator-system-every-business-in-the-ai-and-ml-world-needs-1031765200",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1906206/InventecRhyperior_0919.jpg",
+          "width": 400,
+          "height": 205,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-26T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-kaust-goes-for-nvidia-cpu-gpu-combo-in-shaheen-iii-supercomputer.md",
+      "title": "KAUST Goes For Nvidia CPU-GPU Combo In Shaheen-III Supercomputer",
+      "excerpt": "The King Abdullah University of Science and Technology (KAUST) in Saudi Arabia has introduced the latest in its long-standing lineup of successive",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2022/09/26/kaust-hpe-shaheen-iii-supercomputer/",
+      "originalUrl": "https://www.nextplatform.com/2022/09/26/kaust-hpe-shaheen-iii-supercomputer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/nvidia-gtc-2021-grace-cpu-hopper-gpu.jpg",
+          "width": 1089,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2022/09/26/kaust-hpe-shaheen-iii-supercomputer/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/09/26/kaust-hpe-shaheen-iii-supercomputer/amp/",
+      "publishedDateTime": "2022-09-26T10:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-26-affordable-security-through-knightscopes-k1-hemisphere-autonomous-security-robot.md",
+      "title": "Affordable Security Through Knightscope’s K1 Hemisphere Autonomous Security Robot.",
+      "excerpt": "The K1 Hemisphere by Knightscope is a wall mounted entry point security robot that is equipped with the latest in technology and artificial intelligence. The K1 can act as monitoring and reporting device at gates and entry points, allowing organisations to ...",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/affordable-security-through-knightscopes-k1-hemisphere-autonomous-security-robot/",
+      "originalUrl": "https://techbullion.com/affordable-security-through-knightscopes-k1-hemisphere-autonomous-security-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2022/09/William-Santana-Li-the-CEO-of-Knightscope.jpg",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/affordable-security-through-knightscopes-k1-hemisphere-autonomous-security-robot/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/affordable-security-through-knightscopes-k1-hemisphere-autonomous-security-robot/amp/",
+      "publishedDateTime": "2022-09-26T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-09-26-james-earl-jones-signed-darth-vader-voice-rights-to-disney-for-ai-use.md",
       "title": "James Earl Jones signed Darth Vader voice rights to Disney for AI use",
       "excerpt": "During the creation of the Obi-Wan Kenobi TV series, James Earl Jones signed off on allowing Disney to replicate his vocal performance as Darth Vader in future projects using an AI voice modeling tool called Respeecher,",
@@ -156,7 +296,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-infrastructure-as-a-service-market-size-share-and-forecast-till-2031-2022-09-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -1073,165 +1213,6 @@
       ],
       "topics": [
         "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-24-why-deepmind-isnt-deploying-its-new-ai-chatbot.md",
-      "title": "Why DeepMind isn’t deploying its new AI chatbot",
-      "excerpt": "DeepMind’s new AI chatbot, Sparrow, is being hailed as an important step towards creating safer, less-biased machine learning systems, thanks to its application of reinforcement learning based on input from human research participants for training.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/",
-      "originalUrl": "https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-164848239.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/amp/",
-      "publishedDateTime": "2022-09-23T12:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-24-7-ai-startups-aim-to-give-retailers-a-happy-holiday-season.md",
-      "title": "7 AI startups aim to give retailers a happy holiday season",
-      "excerpt": "These are seven of the hottest AI startups that are helping retailers meet their holiday goals and customer demands.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/7-ai-startups-aim-to-give-retailers-a-happy-holiday-season/",
-      "originalUrl": "https://venturebeat.com/ai/7-ai-startups-aim-to-give-retailers-a-happy-holiday-season/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1352745076.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/7-ai-startups-aim-to-give-retailers-a-happy-holiday-season/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/7-ai-startups-aim-to-give-retailers-a-happy-holiday-season/amp/",
-      "publishedDateTime": "2022-09-23T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-24-tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch.md",
-      "title": "Tesla AI Day Brings Optimus Robot, Self-Driving Car Updates: Here's How to Watch",
-      "excerpt": "Tesla is hiring engineers to build a walking, talking robot called Optimus. Expect Elon Musk to update us on steps toward self-driving cars, too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/",
-      "publishedDateTime": "2022-09-23T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
         "Facebook AI"
       ]
     }

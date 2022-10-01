@@ -86,7 +86,12 @@ related:
     provider:
       name: The Washington Post
       domain: washingtonpost.com
-    quality: 17
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PGYJP5A3SJFCZID63SWV4WOQ44.jpg&w=1200"
+        width: 1200
+        height: 787
+        isCached: true
   - title: "The sky’s the limit for AI tools like DALL-E, but investors have a rough road ahead"
     excerpt: "What looks like an interesting art tool has become a prime feeding ground for investors; part of the the challenge now is finding the business case for AI-generated imagery."
     publishedDateTime: 2022-09-26T19:37:00Z
@@ -97,6 +102,6 @@ related:
       domain: protocol.com
     quality: 11
 
-secured: "ROeq+Bjp4EKMdkB3IZwlUDZXP+XjfpToFAqSW3QqibDBQB6Cg3/KcKHb4+MBUQid3yZKpx7/kgs4LmEQXO1s2ZxhbKZf8piFtxrkqrOnqQOSvYIA4hY7m3Yo4fJvmXX0pTkZd1572yoPcycGTAhn9e35/FgizApOiqA/TU63GbaPt9ZwoDQO5j8r/ZW0ZzhAwHI0zlO4/o5f1Gjg6ogCwNTlsBSZAGE48juPiSMCyTiUZUCre6RB1kBKZqQCvX6jJtj5p5DPzYYbSH9H3MTzxdzRD+f9iWhMVhk1PVylU59IYFqs9suwK07iMT1XxEP6tKyg4HCUcJvy3dRvBAIu2w5+4dHqHKFxLaapLz39hvU=;8KCAUIWGIWM+rLn/8M3RUw=="
+secured: "wFraLsY8Jeel+3p8VtTytv3ytQJRqFWXznU/kqO28ypRCdW9JSrze0hGhMZ4+o7StHiLxuUpi9s7YafEAR1riyqkv4dWG0wUZvqI9quexRJETwxPfUtqRMPv0G5f7/lw8nQOt8t9mMkq45SHmuVBMxW5o3b05oCM5lx42MIK/j5VtzgDK7SCUz2yi3zFgqtpjvK0BjPV65puIhYMm0sGlmx2aFlmqrvCM90DRnsCcHWkyfluD5MA0x6cHBYFArr6IDMCdVenqhd3E/IbYnYJtJidvk3PleduEsWwrMMlV1jFE2rzsFA1ELzuGMZrbh//eoSI6X4kvsJeUWtQnQEBRZ2W9p30k64vwOZ3j5VC1U1W9Y1vlThMM7AX7mb9+rancqX2BvZI+O9gYZ89uTVv6FkX2TjknTYQ/eeV6pzWne7RA3OvhJGvasE3u1R6DMykw0tXMhHgG6Ll0Gmm0zStdf4xrlXwF88WgcQSPdjacaQNwsKcqmikVldlm3vZWc20E3mppVtbq2SmuWN227hVZw==;mBx99AAnqlnIUpaZPR4lNQ=="
 ---
 

@@ -8,7 +8,7 @@ webUrl: "https://www.technologyreview.com/2022/09/27/1060087/how-robots-and-ai-a
 ampWebUrl: "https://www.technologyreview.com/2022/09/27/1060087/how-robots-and-ai-are-helping-develop-better-batteries/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/27/1060087/how-robots-and-ai-are-helping-develop-better-batteries/amp/"
 type: article
-quality: 74
+quality: 76
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2022/09/DSC03253-copy.jpg?w=3000"

@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-30-artificial-intelligence-and-machine-learning-now-integral-to-smart-power-solutions.md",
+      "title": "Artificial intelligence and machine learning now integral to smart power solutions",
+      "excerpt": "They help to improve efficiency and profitability for utilities. The utilities’ space is rapidly transforming today. It’s shifting from the conventional and a highly-regulated environment to a tech-driven market at a fast clip.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-and-machine-learning-now-integral-to-smart-power-solutions/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-and-machine-learning-now-integral-to-smart-power-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/Raj.png",
+          "width": 295,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-and-machine-learning-now-integral-to-smart-power-solutions/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-and-machine-learning-now-integral-to-smart-power-solutions/",
+      "publishedDateTime": "2022-08-30T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-making-machine-learning-available-to-everyone-story-of-bigml.md",
       "title": "Making Machine Learning Available to Everyone: Story of BigML",
       "excerpt": "BigML allows you to build machine learning and deep learning models without the need for any coding. In an exclusive conversation with Analytics India Magazine, Atakan Cetinsoy, vice president, Predictive Applications at BigML, explained, “Our mission ...",
@@ -1374,49 +1418,6 @@
         "AI",
         "Machine Learning",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-ai-assessment-of-breathing-pattern-aids-in-parkinsons-diagnosis.md",
-      "title": "AI Assessment of Breathing Pattern Aids in Parkinson’s Diagnosis",
-      "excerpt": "Relying mainly on the advent of motor symptoms like stiffness, slowness, and tremors, Parkinson’s disease is extremely challenging to detect. However, these symptoms usually occur after many years of disease onset.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=13174",
-      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=13174",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_13174_1661249402144469.jpg",
-          "width": 554,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=13174",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=13174",
-      "publishedDateTime": "2022-08-23T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

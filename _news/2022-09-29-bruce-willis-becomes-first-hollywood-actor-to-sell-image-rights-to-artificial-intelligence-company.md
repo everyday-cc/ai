@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Bruce Willis has no deal with company that created his 'digital twin': rep"
+    excerpt: "Bruce Willis has retired from making movies since his aphasia diagnosis, but he may continue to be an action star. How? Well, technology."
+    publishedDateTime: 2022-09-30T22:09:00Z
+    webUrl: "https://www.aol.com/bruce-willis-may-still-appear-190942819.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 22
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/SVp0sktfrBkwx_gyWYaQgA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_celebrity_534/dee1c345f8b6f2a2f54f4c8136fe8d1d"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Bruce Willis may still appear in films after aphasia diagnosis thanks to his 'digital twin'"
     excerpt: "Bruce Willis has retired from making movies since his aphasia diagnosis, but he may continue to be an action star. How? Well, technology."
     publishedDateTime: 2022-09-30T19:09:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.telegraphindia.com/opinion/recipe-for-disaster-editorial-on
 ampWebUrl: "https://www.telegraphindia.com/amp/opinion/recipe-for-disaster-editorial-on-invasion-of-artificial-intelligence-in-the-kitchen/cid/1889770"
 cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/opinion/recipe-for-disaster-editorial-on-invasion-of-artificial-intelligence-in-the-kitchen/cid/1889770"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - Machine Learning
 
 images:
   - url: "https://assets.telegraphindia.com/telegraph/2022/Sep/1664554900_the-kitchen.jpg"
@@ -26,6 +27,6 @@ images:
     height: 506
     isCached: true
 
-secured: "Ad6aH6SH+cSARgrS59hegB0Rng0YteMgLqiXzJcMeFLKki9M1lYfciiNEoS+j7CI9fTD/aMYlec1kC8eeGSt6jeT4J+jItb9+Cse+kR30y34O2nJ17dGsuYQJz+jW4zYOhteE5xYRKcHxlm2BD+YcOdmoKIv9ghiChNIKjJer8LknalPb+4wVPVvNRLLBRfN9fOcqARl/DpWnsc+UjUuNsLpRZefYYQ5y0dyoJ6j8Oh2cgTupJwmgrg+BoAsoFSV3/LmA5+hvstlRtJUC+0t7o4YhE2GfRdqVkFlKlA23kSZQ3Xx1qPstVCXzlAgvepshMksFaqY+vaGwgQ6p5+zK3cW/2T9qsynDP4nq3JKGKw=;phCjdUuC2jNKv3pNHrJAMQ=="
+secured: "qwjtJsE8W95iweHyZxFFG4CL191n8fvL+W8PMCvzd/u5sqlB7gZXcYEP1pGl0rkbDdjr6JX2Ehg/twbRLEkLY//UIn0gJHxz2HJi1a1K/KbiHbW6X0Yg4QivpeuLAZCVX2xG5747R+BW7RwLyLMt11pUeYEHIte+Q2Dp8gJ2no1xzi1nWYFp+HFLpIevbhWHVpeBCh4BLBzFf1nFCpjRASz4t5TM/FBsnC2LKWCp8wz7LvkhVJfXgK0HHtmdoUNHRtE6q+dpDsdPTSP+/6mbJrNbqncPGr393pLgvwA3y7NIJUi+IFCfhXvD1V1Y9b/qKlqUDZNwh8yMkOmlW4OyS2TKyvtXE5zuagRefeECkJ9oF1uY2zNtjSMn8xG/XFIXQ/+DP+dDmtAg7HFtvE/XzRNetAm1z3yuiiBRWya509Y+JhZoRmguA8w9Z4CyDm+dkOufXpFpfqNP/g5u3kyGsIrKwvSQbbtMDY1NkBLNISYTYoe+lH4071R1BpPwmHz+Bd/5d+jRbPorr4w4PyseXA==;3RoPd3JJGnrUPNfZf3TiIQ=="
 ---
 

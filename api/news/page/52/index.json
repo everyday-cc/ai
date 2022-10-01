@@ -2,6 +2,126 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2022-08-18-natural-language-processing-nlp-market-size-share-growth-demand-applications-opportunities-and-forecast-to-2030.md",
+      "title": "Natural Language Processing (NLP) Market Size, Share, Growth, Demand, Applications, Opportunities and Forecast To 2030",
+      "excerpt": "This global study of the Natural Language Processing (NLP) Market offers an overview of the existing market trends, drivers, restrictions, and metrics and also offers a viewpoint for important ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-market-size-share-growth-demand-applications-opportunities-and-forecast-to-2030",
+      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-market-size-share-growth-demand-applications-opportunities-and-forecast-to-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/04/f4f04bbf0a33e2251f03a5748650712826f14ff2-2-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T05:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-call-to-halt-gambler-facial-recognition.md",
+      "title": "Call to halt gambler facial recognition",
+      "excerpt": "Gambling and alcohol reform advocates have called for a moratorium on facial recognition technology in pubs, bars and casinos across the country until appropriate safeguards are put in place around the increasingly affordable and widely available technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theaustralian.com.au/nation/call-to-halt-gambler-facial-recognition/news-story/2b0f62ff431f3cc300190b53cc8c8f02",
+      "originalUrl": "https://www.theaustralian.com.au/nation/call-to-halt-gambler-facial-recognition/news-story/2b0f62ff431f3cc300190b53cc8c8f02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newsapi.com.au/image/v1/190cc9bd208e4f03c9fbd513d32d4b72",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theaustralian.com.au/nation/call-to-halt-gambler-facial-recognition/news-story/2b0f62ff431f3cc300190b53cc8c8f02",
+      "cdnAmpWebUrl": "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/nation/call-to-halt-gambler-facial-recognition/news-story/2b0f62ff431f3cc300190b53cc8c8f02",
+      "publishedDateTime": "2022-08-18T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Australian",
+        "domain": "theaustralian.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-amazon-ring-vulnerability-could-have-been-used-to-spy-on-users.md",
+      "title": "Amazon Ring vulnerability could have been used to spy on users",
+      "excerpt": "A now-patched vulnerability in the Amazon Ring mobile app could have been exploited to expose users’ video recordings, but was complex to exploit, according to the researchers who stumbled upon it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252523930/Amazon-Ring-vulnerability-could-have-been-used-to-spy-on-users",
+      "originalUrl": "https://www.computerweekly.com/news/252523930/Amazon-Ring-vulnerability-could-have-been-used-to-spy-on-users",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252523930/Amazon-Ring-vulnerability-could-have-been-used-to-spy-on-users?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252523930/Amazon-Ring-vulnerability-could-have-been-used-to-spy-on-users?amp=1",
+      "publishedDateTime": "2022-08-18T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-18-drdo-develops-a-facial-recognition-system-that-can-penetrate-masks-disguise.md",
       "title": "DRDO develops a facial recognition system that can penetrate masks, disguise",
       "excerpt": "“The video feed received from the robot is analysed by an AI software utilising object recognition. The software detects movement and human presence automatically, generates an audio alarm and ...",
@@ -917,136 +1037,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-whos-looking-out-for-aging-doctors-susceptible-to-cognitive-decline.md",
-      "title": "Who's looking out for aging doctors susceptible to cognitive decline?",
-      "excerpt": "At the same time, they may be at risk of cognitive decline, raising concerns about job performance deficits. That's according to Sharona Hoffman, the Edgar A. Hahn Professor of Law and co-director ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-08-aging-doctors-susceptible-cognitive-decline.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-08-aging-doctors-susceptible-cognitive-decline.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-intel-vp-talks-ai-strategy-as-company-takes-on-nvidia.md",
-      "title": "Intel VP talks AI strategy as company takes on Nvidia",
-      "excerpt": "Intel is on an AI mission to compete in the AI software and hardware space, according to Wei Li, VP and GM of AI and analytics at Intel.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/intel-vp-talks-ai-strategy-as-company-takes-on-nvidia/",
-      "originalUrl": "https://venturebeat.com/ai/intel-vp-talks-ai-strategy-as-company-takes-on-nvidia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-664440974.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/intel-vp-talks-ai-strategy-as-company-takes-on-nvidia/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/intel-vp-talks-ai-strategy-as-company-takes-on-nvidia/amp/",
-      "publishedDateTime": "2022-08-17T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-aws-localization-uses-amazon-translate-to-scale-localization.md",
-      "title": "AWS Localization uses Amazon Translate to scale localization",
-      "excerpt": "The AWS website is currently available in 16 languages (12 for the AWS Management Console and for technical documentation): Arabic, Chinese Simplified, Chinese Traditional, English, French, German, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Thai, Turkish, and Vietnamese. Customers",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-localization-uses-amazon-translate-to-scale-localization/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-localization-uses-amazon-translate-to-scale-localization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T11:00:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

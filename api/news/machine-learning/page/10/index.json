@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-07-13-top-10-causes-of-stalled-aiml-projects.md",
+      "title": "Top 10 causes of stalled AI/ML projects",
+      "excerpt": "Discussing the ten most common causes of AI/ML projects stalling (and eventually being cancelled), and how CIOs can formulate a plan to accelerate project process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/blog/top-10-causes-of-stalled-ai-ml-projects/491883",
+      "originalUrl": "https://www.itworldcanada.com/blog/top-10-causes-of-stalled-ai-ml-projects/491883",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/01/GettyImages-1244482898.jpg",
+          "width": 797,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/blog/top-10-causes-of-stalled-ai-ml-projects/491883?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/blog/top-10-causes-of-stalled-ai-ml-projects/491883?amp=1",
+      "publishedDateTime": "2022-07-12T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-datarobot-named-a-leader-in-aiml-platforms-by-independent-research-firm.md",
       "title": "DataRobot Named a Leader in AI/ML Platforms by Independent Research Firm",
       "excerpt": "According to the report, “DataRobot’s customers appreciate the company’s rise from a niche automated machine learning (AutoML) player to a full-lifecycle AI platform in short order through a ...",
@@ -1263,41 +1306,6 @@
       "provider": {
         "name": "Healio",
         "domain": "healio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning.md",
-      "title": "TickerWin Releases Report on 'How Blockchain is Improving the Efficiency of AI and Machine Learning'",
-      "excerpt": "HONG KONG, CHINA / ACCESSWIRE / July 2, 2022 / TickerWin, one of the leading market research companies, has released a report on 'How Blockchain Improving the Efficiency of AI and Machine Learning'. AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/markets-news/accesswire/8993668/tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/markets-news/accesswire/8993668/tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-02T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
         "images": null,
         "publishers": null,
         "authors": null

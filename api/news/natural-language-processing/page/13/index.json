@@ -2,6 +2,60 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-05-25-microsoft-expands-its-ai-partnership-with-meta.md",
+      "title": "Microsoft expands its AI partnership with Meta",
+      "excerpt": "Microsoft and Meta are extending their ongoing AI partnership, with Meta selecting Azure as \"a strategic cloud provider\" to accelerate its own AI research and development. Microsoft officials shared more details about the latest on the Microsoft-Meta partnership on Day 2 of the Microsoft Build 2022 developers conference.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-expands-its-ai-partnership-with-meta/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-expands-its-ai-partnership-with-meta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 288,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/2de2b1ed6198eabf6d34c116d16c495cfd2c5a8f/2022/05/25/bd51eb15-1abb-4761-b527-6d312c91ef59/aimodelsbuild2022.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-expands-its-ai-partnership-with-meta/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-expands-its-ai-partnership-with-meta/",
+      "publishedDateTime": "2022-05-25T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-intel-onednn-ai-optimizations-enabled-as-default-in-tensorflow.md",
       "title": "Intel oneDNN AI Optimizations Enabled as Default in TensorFlow",
       "excerpt": "What’s New: In the latest release of TensorFlow 2.9, the performance improvements delivered by the Intel® oneAPI Deep Neural",
@@ -1343,58 +1397,6 @@
         "name": "digitalcameraworld",
         "domain": "digitalcameraworld.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-trumps-voice-is-still-very-much-being-heard.md",
-      "title": "Trump’s voice is still very much being heard",
-      "excerpt": "Former President Donald Trump's influence is currently having a resurgence. Candidates he has endorsed are winning key GOP primaries. Candidates he had not endorsed are still swearing fealty to him. And he may soon get an important bullhorn back: The mute button placed on him by Twitter may be lifted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/05/11/politics/trump-gop-influence-primary-elections-what-matters/index.html",
-      "originalUrl": "https://www.cnn.com/2022/05/11/politics/trump-gop-influence-primary-elections-what-matters/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220511101100-oz-trump-rally-pennsylvania-0506-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/05/11/politics/trump-gop-influence-primary-elections-what-matters/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/05/11/politics/trump-gop-influence-primary-elections-what-matters/index.html",
-      "publishedDateTime": "2022-05-11T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
