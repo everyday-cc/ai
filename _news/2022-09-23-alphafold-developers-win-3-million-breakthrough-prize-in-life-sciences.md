@@ -15,12 +15,6 @@ topics:
   - Google AI
   - AI
 
-images:
-  - url: "https://static.scientificamerican.com/sciam/cache/file/085A9374-BDE5-4A53-A29DFCB280352F20.png"
-    width: 790
-    height: 496
-    isCached: true
-
-secured: "JcNuGqJBTumLtyJIicHIIqXdk4Q+F9frFBSzTFZwX9EJOPkWogcHWObN+ABbQfzAsoEvHxNShbxID3gjKbTDys/ZfUD24iLS9VDtX9O81aNiEbBXLtLOQHUb90H2v7KoINx6NwYkdAUz59JFDlO5aoajuO6zXXrxnqdk+CBjhPAfsrw10s/1iy/F6dScqrwEafHPsSZx/iTFyaz9sKzEajXEvIVCK48Mh0SoV+HxUzeBiHdK8pFwJm458cVYZiV3kvV1xYIVyoS3sWTlx3x2AgoCR14TXJm0X66jRqkeUxHc92xykNSU8AwJCSoX7bbcyECqFrMchH+ixvSAKTKOlSfx8as0ZZCkLeCcbvSoEmc=;GPHduTqIDwS30Ky96N020w=="
+secured: "HfB/cHQaLjeezRYcZNa3Un99rB7Qxj91wrYDAXjKrQ48Rv/3tJVn/79FZ8t1ZIALp2AVlKT9dnmZdCcWKUi/4WY8ThxJaAkx9KLDNaMJ228nnrzXtF/2EY0o51BKXdVY9/KDdPPFQ1xqfLT9ZQVhEl1gjGP2gp+P+EcO0P5UfQIULhbDdCM8PDWPvr9x3NdvBWEGHs1Gycq89PnIGf4uZ/wHgPSPtlypsQB+nFrHFM3C30w6q7kvyfpOlqsTK0P8yd5/mi8NnXmz3hGRzcBVPTQnFQRQvY4fxUXkBc08w0f+gkL1mmGSICPT0WjDM9SRuQiyHN3tuEL/wjz7WvlLrGbtsFCrjcV5yHyPTEaZM0I=;Wz0twgpslsHZx+JTWGalPA=="
 ---
 

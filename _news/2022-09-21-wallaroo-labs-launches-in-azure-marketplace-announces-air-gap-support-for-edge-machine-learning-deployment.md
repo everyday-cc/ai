@@ -15,6 +15,7 @@ topics:
   - Microsoft AI
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"

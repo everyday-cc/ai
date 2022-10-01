@@ -5,12 +5,7 @@ excerpt: "The Facial Recognition Model Law Project, to which this article refers
 publishedDateTime: 2022-09-27T01:40:00Z
 originalUrl: "https://theconversation.com/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
 webUrl: "https://theconversation.com/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
-ampWebUrl: "https://theconversation.com/amp/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
 type: article
-quality: 52
-heat: 52
-published: false
 
 provider:
   name: The Conversation
@@ -20,12 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://images.theconversation.com/files/486445/original/file-20220926-14387-rumoex.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-    width: 320
-    height: 213
-    isCached: true
-
-secured: "UJ8/ldNkfrQF9swVwzN4P2NRtAvN/sPikCnP4bMalnKlwcIpx2bgVPLZEU2hwTw+V4/Ik5NPUAxV6qpX1tnCSUw4WuYx+klC0hCq4P7Y9dNvPUMRRfr1xCsVUN7vuLhrf7G1md/IGDz94R0yH5w9ER7XBKjxMzQzEPXChA3xB0HewciiS9ftxmB5hOqmaW55ddpShj9m+NqXNyFRNp90YVojqSkXzhjLMUByJJXLMhv+zaY1UUHhQTpoapx1q5H5AFE+v9wtPmJmx8bi4VMjivoyGw2tjHy83hb9gFpMWK0Z/NV3p3JcALCP4GM02nH6nqdvpBICcrhgDolya2wlMzmfFroC1rD5KV20dShSF/I=;5eYfqWTI9dd5pZCbDeJJWw=="
+secured: "SPGK+jTGZe+gCg1DywyX+b3TILJP/kzz7Wc3j2rpZNPmnY4EHnvqSi+BRIQuwro7QeFkKuDaBIaXUTwiA0Oer4TmK78b15Job+aEMuvh8xbkW6pA42VN1DHqASd7s5dz1uOXlxyhRxVhsPLIhHXzRvES8mrq2U7QElVJTAmDe+WpTu6Ju60cDHviMrmS6qYty2KOBWIiwkvaV++CWvBtkSkVQshpMry2Zh2O9haVJqgU6jVU0TdtECb/OI2bP5XSLXRJLLf1gwwlayp6q1X3JbHJnFb1iZ5Gzy9Jq5OOchbim4EPR/iSZfN5bAmGb3WBFC2UJWQxJNCQ1QzsQjxcotf5NRgQLBBan/Op4NcgrTk=;F9X7DIgDTaAfdnnGkutIBA=="
 ---
 
