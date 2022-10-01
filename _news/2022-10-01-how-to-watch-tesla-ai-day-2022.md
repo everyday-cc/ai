@@ -8,7 +8,7 @@ webUrl: "https://techcrunch.com/2022/09/30/how-to-watch-tesla-ai-day-2022/"
 ampWebUrl: "https://techcrunch.com/2022/09/30/how-to-watch-tesla-ai-day-2022/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/30/how-to-watch-tesla-ai-day-2022/amp/"
 type: article
-quality: 104
+quality: 108
 heat: -1
 published: false
 
@@ -23,6 +23,8 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Robotics
+  - AI Hardware
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2022/09/Screen-Shot-2022-09-30-at-11.22.22-AM.jpg?resize=1200,642"
@@ -121,7 +123,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 116
+    quality: 118
     images:
       - url: "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
@@ -321,6 +323,22 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Tesla CEO Elon Musk showcases humanoid robot at event"
+    excerpt: "The billionaire has said a robot business will be worth more than its cars, hoping to expand beyond self-driving cars that have not yet become a reality despite his repeated promises."
+    publishedDateTime: 2022-10-01T01:50:00Z
+    webUrl: "https://www.jpost.com/omg/article-718646"
+    ampWebUrl: "https://m.jpost.com/omg/article-718646/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/omg/article-718646/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 76
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/516019"
+        width: 640
+        height: 428
+        isCached: true
   - title: "AI Day 2022: Tesla may unveil a major milestone for its Optimus robot"
     excerpt: "Tesla's AI is growing in popularity over time and has a livestream that millions of people view. Investors and potential investors watch to learn about the new methods Tesla is attempting to make money."
     publishedDateTime: 2022-09-29T15:42:00Z
@@ -445,6 +463,6 @@ related:
       domain: thesun.co.uk
     quality: 28
 
-secured: "ZthqWSU0/tlmAS7FGV6PozFNkj8qaa7cejJM8QaPfGQuVicvLgEQtJbqdE9oq9BWPqClJL+cnFOfJPhMB1pVuALGKjCSc7Lebe/ygapZ7S+7NBJvHpVC9VgDFt3S9RPXCrDU0jLtaQi6LwZzIBvdsy2x9geaSI9Ov4abfmtjHmPqJCP7mzj7+vv2qzMW/3A6iY4e+Er7FP0HdTFGNEInj8OO6WzkY4bmrvJFHWfcHTp/pXSMELizM5hpHqkhh4MY0l8wQQb1YQY8mXvKZkPobXKU1Q+GOg+qgaJezsVmhL/PH/eAEtNhFFKcdetEvFF6qxy1DA3Nb76V/M7qxuttDOgzkKvodyHtEjUcFkUjo+E=;nShJBTYe19JjMZDZu9LNyA=="
+secured: "r8QS5EChDJllj4NOIy0FBecechhwASQ1L4e/u5n+oqHjT0trkOMSM56FdM8nlbLL3p3hxhtFBthdeGZSaCRZ/nnkMY3DJcbRXrHAHBcTIOpYn28d/Zojeqi/DA9yUVpZ+/pmZSYIWqTJzWmhZsTdSDHfNG9w3S2wYCwrfJqRMbEG1eqoFQKhvUZO1zF5J4+JcmHrcMvmM4d2akGpCiJC1JrLA8Pe2eUCO3dXu8i4+cAgbUdVk931qmwZQKOMKvOkHsLaap9JNT4nPbWUfGrgXITxEeZvKIEJxSrEAuCMKqRK3KbEQ90X/FOJz1SyfQxtTtcbEHMdoRWVMVvoRPPyAiOUXei3WJGTjVBCeW7c7daKFqXL51JumXRImyeU6UDcN7ewLJXvN8QWlm52HWqsu2G6aj1NWZ5DIprJpT7G47l5WzpUW6/rCMjZwylXu14dtbJTbuROGHiLyvY5B9D0B79mg7Tp+uZcs/bKpK74XsyvYKNopQKUD88PFljGHbnrz9MisDXRXRakoKsedvHDmg==;NZSyEnZ9qeyX/LJS8bNfSQ=="
 ---
 

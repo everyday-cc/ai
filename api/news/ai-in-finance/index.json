@@ -323,6 +323,51 @@
       ]
     },
     {
+      "path": "_news/2022-09-21-wallaroo-labs-launches-in-azure-marketplace-announces-air-gap-support-for-edge-machine-learning-deployment.md",
+      "title": "Wallaroo Labs Launches in Azure Marketplace; Announces Air Gap Support for Edge Machine Learning Deployment",
+      "excerpt": "Wallaroo Labs today announced the availability of Wallaroo Enterprise Edition on Microsoft Azure Marketplace. Wallaroo's model operations platform for deploying, observing, and managing machine learning in production enables customers to easily operationalize ML Models with our purpose-built inference engine,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/09/21/9677902.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/09/21/9677902.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
+          "width": 476,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-21-ai-and-ml-have-the-potential-to-revolutionize-how-cmos-conduct-campaigns.md",
       "title": "AI And ML Have The Potential To Revolutionize How CMOs Conduct Campaigns",
       "excerpt": "Though people have talked about AI for more than 50 years, only now has it moved from a tech buzzword to part of the common vernacular. Having worked in fintech for the past 10 years, the uptake I’ve witnessed has led me to wholly believe in the immense value these technologies hold for communications professionals.",
@@ -1313,49 +1358,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-ai-fights-money-laundering-at-japanese-regional-bank.md",
-      "title": "AI fights money laundering at Japanese regional bank",
-      "excerpt": "A regional bank in Japan is turning to artificial intelligence in its fight against money laundering. The Bank of Yokohama rolled out its AI system in June. It was developed in cooperation with a computer-system development company.",
-      "sourceUrl": null,
-      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20220912_14/",
-      "originalUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20220912_14/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20220912_14_1159287_L.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20220912_14/amp.html",
-      "cdnAmpWebUrl": "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20220912_14/amp.html",
-      "publishedDateTime": "2022-09-11T19:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NHK",
-        "domain": "nhk.or.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

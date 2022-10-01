@@ -114,11 +114,27 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 116
+    quality: 118
     images:
       - url: "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
+        isCached: true
+  - title: "How to watch Tesla AI Day 2022"
+    excerpt: "Tesla's AI Day 2022 promises an update on Elon Musk's humanoid robot, plus insight into the carmakers advances in AI."
+    publishedDateTime: 2022-09-30T22:18:00Z
+    webUrl: "https://techcrunch.com/2022/09/30/how-to-watch-tesla-ai-day-2022/"
+    ampWebUrl: "https://techcrunch.com/2022/09/30/how-to-watch-tesla-ai-day-2022/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/30/how-to-watch-tesla-ai-day-2022/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 108
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/09/Screen-Shot-2022-09-30-at-11.22.22-AM.jpg?resize=1200,642"
+        width: 1200
+        height: 642
         isCached: true
   - title: "Our top 4 Tesla AI day predictions"
     excerpt: "An Optimus robot prototype, updates to FSD, a Tesla robotaxi and more on the Dojo supercomputer are what we expect at Tesla AI Day."
@@ -183,22 +199,6 @@ related:
       - url: "https://www.digitaltrends.com/wp-content/uploads/2022/09/Fdx4jsfWIAMMH6D.jpeg?p=1"
         width: 1024
         height: 682
-        isCached: true
-  - title: "How to watch Tesla AI Day 2022"
-    excerpt: "Tesla's AI Day 2022 promises an update on Elon Musk's humanoid robot, plus insight into the carmakers advances in AI."
-    publishedDateTime: 2022-09-30T22:18:00Z
-    webUrl: "https://techcrunch.com/2022/09/30/how-to-watch-tesla-ai-day-2022/"
-    ampWebUrl: "https://techcrunch.com/2022/09/30/how-to-watch-tesla-ai-day-2022/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/30/how-to-watch-tesla-ai-day-2022/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/09/Screen-Shot-2022-09-30-at-11.22.22-AM.jpg?resize=1200,642"
-        width: 1200
-        height: 642
         isCached: true
   - title: "Tesla set to feature robot, autonomous driving at 'AI Day' Friday evening"
     excerpt: "Tesla will hold its 2nd annual AI Day in Palo Alto Friday evening. The event will include updates on Tesla's work in artificial intelligence, autonomous driving and robotics."
@@ -329,6 +329,22 @@ related:
       - url: "https://c.ndtvimg.com/2022-08/g9vsscm_elon-musk_625x300_29_August_22.jpg"
         width: 650
         height: 400
+        isCached: true
+  - title: "Tesla CEO Elon Musk showcases humanoid robot at event"
+    excerpt: "The billionaire has said a robot business will be worth more than its cars, hoping to expand beyond self-driving cars that have not yet become a reality despite his repeated promises."
+    publishedDateTime: 2022-10-01T01:50:00Z
+    webUrl: "https://www.jpost.com/omg/article-718646"
+    ampWebUrl: "https://m.jpost.com/omg/article-718646/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/omg/article-718646/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 76
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/516019"
+        width: 640
+        height: 428
         isCached: true
   - title: "AI Day 2022: Tesla may unveil a major milestone for its Optimus robot"
     excerpt: "Tesla's AI is growing in popularity over time and has a livestream that millions of people view. Investors and potential investors watch to learn about the new methods Tesla is attempting to make money."

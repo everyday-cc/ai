@@ -1,25 +1,31 @@
 ---
 category: news
-title: "Should You Buy Tesla (TSLA) Stock Ahead of Its AI Day 2022?"
-excerpt: "The company’s AI Day generates an enormous buzz among Tesla fans and investors, as well as tech enthusiasts at large as it’s packed with exciting innovations and big surprises. Tesla’s 2021 AI Day knocked the audience for six as a dancing robot walked onto the stage to accompany Musk."
-publishedDateTime: 2022-09-29T15:13:00Z
-originalUrl: "https://www.nasdaq.com/articles/should-you-buy-tesla-tsla-stock-ahead-of-its-ai-day-2022"
-webUrl: "https://www.nasdaq.com/articles/should-you-buy-tesla-tsla-stock-ahead-of-its-ai-day-2022"
-ampWebUrl: "https://www.nasdaq.com/articles/should-you-buy-tesla-tsla-stock-ahead-of-its-ai-day-2022?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/should-you-buy-tesla-tsla-stock-ahead-of-its-ai-day-2022?amp"
+title: "Tesla CEO Elon Musk showcases humanoid robot at event"
+excerpt: "The billionaire has said a robot business will be worth more than its cars, hoping to expand beyond self-driving cars that have not yet become a reality despite his repeated promises."
+publishedDateTime: 2022-10-01T01:50:00Z
+originalUrl: "https://www.jpost.com/omg/article-718646"
+webUrl: "https://www.jpost.com/omg/article-718646"
+ampWebUrl: "https://m.jpost.com/omg/article-718646/amp"
+cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/omg/article-718646/amp"
 type: article
-quality: 86
+quality: 76
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Jerusalem Post Blogs
+  domain: jpost.com
 
 topics:
   - AI in Robotics
   - AI
   - AI in Autos
+
+images:
+  - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/516019"
+    width: 640
+    height: 428
+    isCached: true
 
 related:
   - title: "Tesla AI Day 2022: How to Watch Elon Musk's Optimus Robot, Self Driving Car Work"
@@ -260,6 +266,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Should You Buy Tesla (TSLA) Stock Ahead of Its AI Day 2022?"
+    excerpt: "The company’s AI Day generates an enormous buzz among Tesla fans and investors, as well as tech enthusiasts at large as it’s packed with exciting innovations and big surprises. Tesla’s 2021 AI Day knocked the audience for six as a dancing robot walked onto the stage to accompany Musk."
+    publishedDateTime: 2022-09-29T15:13:00Z
+    webUrl: "https://www.nasdaq.com/articles/should-you-buy-tesla-tsla-stock-ahead-of-its-ai-day-2022"
+    ampWebUrl: "https://www.nasdaq.com/articles/should-you-buy-tesla-tsla-stock-ahead-of-its-ai-day-2022?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/should-you-buy-tesla-tsla-stock-ahead-of-its-ai-day-2022?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 86
   - title: "Tesla’s Optimus robot: transformative or dystopian?"
     excerpt: "Brad Porter, founder of Collaborative Robotics and former head of Amazon's robotics division, weighs in on Tesla's humanoid robot Optimus."
     publishedDateTime: 2022-09-29T16:17:00Z
@@ -316,22 +333,6 @@ related:
       - url: "https://c.ndtvimg.com/2022-08/g9vsscm_elon-musk_625x300_29_August_22.jpg"
         width: 650
         height: 400
-        isCached: true
-  - title: "Tesla CEO Elon Musk showcases humanoid robot at event"
-    excerpt: "The billionaire has said a robot business will be worth more than its cars, hoping to expand beyond self-driving cars that have not yet become a reality despite his repeated promises."
-    publishedDateTime: 2022-10-01T01:50:00Z
-    webUrl: "https://www.jpost.com/omg/article-718646"
-    ampWebUrl: "https://m.jpost.com/omg/article-718646/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/omg/article-718646/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 76
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/516019"
-        width: 640
-        height: 428
         isCached: true
   - title: "AI Day 2022: Tesla may unveil a major milestone for its Optimus robot"
     excerpt: "Tesla's AI is growing in popularity over time and has a livestream that millions of people view. Investors and potential investors watch to learn about the new methods Tesla is attempting to make money."
@@ -457,6 +458,6 @@ related:
       domain: thesun.co.uk
     quality: 28
 
-secured: "PZ+XkUUoJfFf3nu3f5KMJ6vR6pNpI4yr7L42RskhkXa44UeG7ctsuNCV/eS+U9wA5WtzZfBH0UTKE3X6IAgdS9caCg4aBfOXVYnbPqgW3sH6r1lAmYl91N7d5+hrU6qUzceeb8QTjcaz4amipgsPUXIRueTTkNVtHkVUGIlOb1Z+Q5tbl4UgfsuMr2/cVatPoKdhiGaRucYSi04R0wFul6yju7zioStl6CVBuUlIiXy0CzrYRHNicpIyGBQ+dIze99JMAhFAsvW/22rpphNnza24yXcGG+gVoUrFmI6BsP9p27xUgtOXcHJBIDf8ZkOm+mkkvZdelREnwAA9Lp0egkCoRXu+h7So64pAi1naglo=;j6lIPTJul7OZ2EJFgayb0A=="
+secured: "qIJzhAgF1wXkBpBptCF86eSvf6IjoaAHdDPDxkUM9UguCsyJ6dvvHFusXzaFLSkYTFTnuXOt1JlvAjPRwrICKhkWoCev49VlKbuRdlRO2OZ/2IggSLNTV6C7S5ArWld6LXVUKLb0UcZir/kx9xCl1R0l8UIzWqrKifZarodUXSbHsqHn4KqrAFoFouuDsEIrHIrCQXdVQWYaZxhFd7XNn3p3M5RvZujiH0Sr4lYlnoPzZOXfg2vOImeWrIOatnDTe4wtKWv3RUW52qF2ZDAjlC5uz4fIn2yYh9bGRKxsI1HpLRZ67lEb5ni+Uj/PW53yo3bornpmo6E0GdPB/Ej33m4JvzwezrKSTiqIjw9ymRo=;ZjL2B52706rna9dEcqzMcg=="
 ---
 

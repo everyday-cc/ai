@@ -72,20 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "New standards set for Facial Recognition Market grow at 14.47% CAGR| 112 Report Pages"
-    excerpt: "The global Facial Recognition market size is expected to expand at a CAGR of 14.47% during the forecast period,"
-    publishedDateTime: 2022-09-26T07:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/new-standards-set-for-facial-recognition-market-grow-at-1447-cagr-112-report-pages-2022-09-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "New standards set for Artificial Intelligence Market grow at 47.02% CAGR| 117 Report Pages"
     excerpt: "The global Artificial Intelligence market size is expected to expand at a CAGR of 47.02% during the forecast period, reaching USD 411290.49 million by 2027 was valued at USD 40728.3 million in 2021. Artificial Intelligence Market report gives an impression of the various developments,"
     publishedDateTime: 2022-09-27T06:39:00Z

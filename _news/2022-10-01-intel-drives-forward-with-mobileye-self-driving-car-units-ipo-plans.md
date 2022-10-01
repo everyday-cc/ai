@@ -3,8 +3,8 @@ category: news
 title: "Intel Drives Forward with Mobileye Self-Driving Car Unit’s IPO Plans"
 excerpt: "The listing plans come during one of the IPO market’s worst years in decades."
 publishedDateTime: 2022-09-30T22:19:00Z
-originalUrl: "https://www.wsj.com/articles/intel-drives-forward-with-mobileye-self-driving-car-units-ipo-plans-11664579959?mod=hp_lista_pos4"
-webUrl: "https://www.wsj.com/articles/intel-drives-forward-with-mobileye-self-driving-car-units-ipo-plans-11664579959?mod=hp_lista_pos4"
+originalUrl: "https://www.wsj.com/articles/intel-drives-forward-with-mobileye-self-driving-car-units-ipo-plans-11664579959?mod=newsviewer_click"
+webUrl: "https://www.wsj.com/articles/intel-drives-forward-with-mobileye-self-driving-car-units-ipo-plans-11664579959?mod=newsviewer_click"
 type: article
 quality: 54
 heat: 54
@@ -28,6 +28,6 @@ images:
     height: 640
     isCached: true
 
-secured: "RqR5x9DcEjRK0z4jz6uJ1T9gIVERcyfx7o2ArYHo9EvqhP908YxBMemSh2o7sZQ5yMUK0xY7N0V4/a5KU/ElIH1Xuc7m85kL/nkbWhvlb3Ow3mTcU9oYKL6sph/vN+B6IpwFPVOLbahBnByahmYDQ4NcPF9rEOfEr8fRCyeSd7qVDLGKAsvW6MsiACqYZLWBCvdhoKu/jQuqcuMa401jFuUZ8H2mcKTgVDNW7tDLDW+q7f6pVfX2InpEtLpJ55bXTYrbceYdGD+/Gf4rLYblIXCxxbhREFTBzceIZuuwezllxKX2NhUfkeZerOqIMcQqTvGOqyML1lwltFNWfe5SlEJvTORD090PVYJ+ZHQyWFY=;CWb9xCUW+dNqYwEsDR5BJA=="
+secured: "fm9j1zZ1ljtrLscIz3mGKT6Wkc/r43qpOWFhdaKwlJRqsChn8I4w2GTp6/ZUCnm0JorkoTm7952jIGiZN7UeoPGHbOpSjCv7xFDX6gZ0YeAkvO86y8ZYMWvxL8opMpva6kLQQcU8NzXYaMI0+CY+zYCpek6PJHzNPoz+zVCJb++/TvtrOneIo5PIKj5RJo/EVpYfMyI+vNjMNUWs/0hNxZmdl+LNWd99fm5pE2dFl4vRJtGvLF7dptdUDwOG/q0lfINolbLYkHoi8QazFGt/hH4mdnb4FYeYEXfelvda550AW3OQfA/j5Xk6oHGCIAhbOACNK2fWvIxTXsJHt1rWmChZdirIGrGI8ZWgcujTnt8=;oVQbj5cKTHWbQWRfO5LMSA=="
 ---
 
