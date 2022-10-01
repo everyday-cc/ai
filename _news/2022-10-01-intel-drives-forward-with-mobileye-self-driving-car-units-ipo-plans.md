@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/intel-drives-forward-with-mobileye-se
 webUrl: "https://www.wsj.com/articles/intel-drives-forward-with-mobileye-self-driving-car-units-ipo-plans-11664579959"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 426
         height: 240
         isCached: true
+  - title: "Intel’s Self-Driving Technology Mobileye Unit Files for IPO"
+    excerpt: "Intel Corp. has filed for an initial public offering of its self-driving technology business, Mobileye Global Inc."
+    publishedDateTime: 2022-10-01T17:37:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/intels-self-driving-technology-mobileye-unit-files-for-ipo-71664606883511.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 4
 
 secured: "SffGYoabJjgvDqm6Pgukm8M+10Zg9XcQGaqA0WRL6fciiZ9P8+Ag67USFtEgvqaCCJrTgmvp4pndj6gc8kC5FuSPhsDBxMmKyOnc5+yoVFPkQQ/N66wKDzF40xN3VzC0Afz8cM8ye7kAhGCfQWYSq8Y2AfJzfGyTOu329JtS3qxLdyvuUZ1BD0ae9XKuuEwzOxl7bjyXsQCu4U66P+3IOd8zwzBIJocQ1WB/sq2Uo91l8KJ7WcTd9beIhLjtKmEiXlw/n5WlQmBaIhz9YgKxKwF84MWoygtnUmTvQ+pEYB/G/6fkwXjwzwDa226uSaU4YjJcwdXGVVLMnG/rJ8vqxzNm8ruBbi5fj4m0/+KGcQ0j3gJMXZ+sKSWssYe2VT+9Z0I4cg3P7EdjY8xu9jzG36Kqou4hktjG0L2AJy6W0BjHJggjoh5nsXAcqChY2nXaBc8bw3bxAyuelToxAA1+y/EGfsU88qQh0XF6/NowbxLo7/g384HcUkGj2v8XFOAw5NXRQSN43CoGzH70WdQ3Fg==;l8An1wmQ+DCzGjHRnVL61g=="
 ---

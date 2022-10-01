@@ -576,6 +576,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 66
+  - title: "Tesla Reveals Optimus, a Walking Humanoid Robot You Could Buy in 2027"
+    excerpt: "Two prototype Tesla Bots could walk, wave their arms and grip with fingers. CEO Elon Musk says they'll eventually cost $20,000 and should go on sale by 2027."
+    publishedDateTime: 2022-10-01T18:17:00Z
+    webUrl: "https://www.cnet.com/home/smart-home/tesla-reveals-optimus-a-walking-humanoid-robot-you-could-buy-in-2027/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 66
   - title: "What to Expect at Tesla AI Day 2022"
     excerpt: "The Sept. 30 event will be 'highly technical,' says Elon Musk, but we may get details about Tesla's humanoid robot and a progress report on its full self-driving plans."
     publishedDateTime: 2022-09-29T22:14:00Z
@@ -692,6 +701,15 @@ related:
     provider:
       name: Houston Chronicle
       domain: chron.com
+    quality: 32
+  - title: "Tesla CEO Elon Musk on humanoid robot: 'There’s still a lot of work to be done'"
+    excerpt: "CEO Elon Musk displayed the company's latest prototype of its humanoid bot, also known as Optimus, on Friday at the company's AI Day in Palo Alto, California."
+    publishedDateTime: 2022-10-01T17:15:00Z
+    webUrl: "https://www.aol.com/finance/tesla-ceo-elon-musk-humanoid-171501336.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
     quality: 32
 
 secured: "zqpsuvWC0wHyORbOsAdXRwYXeNrvkmQcmWCh22xm8EWIXWzYvp73r84f1gmSATFTgYTCPAnhpqwJC+lrpspFZ1E+KmlEQCmwZysi6/yiXhtF7aHC6vGxxOWRxQh2p4LiEpgXlKqarOsxuxZjZiQcdUkzVfsbS2exXMsVIA078pPfJrPfS3tK1rTskSbRQzMVcSA+79XFScCLGAkLYVqTsjhHt3VfAK9FlT2yCaRyJtk802aMGJYquZItxFnS3hgxF7P35m3toZ1bAI7xwClKGcqbGEunM7eUvCeR8znx7CbNsJ985REtxGNHiHuxQrhYL/3849XRJ74UcloHv6Wx0q7IUBSOy+ziBWmxz4qi9bqhqmO/cPoiCtdFwGjq8Yx0HlTRXgujduUKG6AuKexvDjhKtdA6kPH3u3FKnsaDkRpqzCf0ivYNVxrFp43GYuBReFvnUvBfjtoFG+X7y0+S0SVs4nQCCj/ZlsY/q9czw0tEvS/zOJH4jn2oMzCIhgpV3Oqyg0DcY1zA0p6AvwVnbQ==;tnE77Xu4/BRMwbAWn9RSFA=="

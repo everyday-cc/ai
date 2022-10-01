@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-25-financial-companies-look-at-ai-and-machine-learning-to-reduce-cost-kpmg.md",
+      "title": "Financial companies look at AI and machine learning to reduce cost: KPMG",
+      "excerpt": "Banks would need to develop the skill set inhouse or bring in external experts. External subject matter experts can help them benchmark themselves with peer banks around risk management, controls and governance framework enhancements.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/industry/banking/finance/financial-companies-look-at-ai-and-machine-learning-to-reduce-cost-kmpg/articleshow/93760985.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/industry/banking/finance/financial-companies-look-at-ai-and-machine-learning-to-reduce-cost-kmpg/articleshow/93760985.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-68408,msid-93760959/artificial-intelligence_thinkstock.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/industry/banking/finance/financial-companies-look-at-ai-and-machine-learning-to-reduce-cost-kmpg/amp_articleshow/93760985.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/financial-companies-look-at-ai-and-machine-learning-to-reduce-cost-kmpg/amp_articleshow/93760985.cms",
+      "publishedDateTime": "2022-08-24T21:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-08-23-how-is-machine-learning-affecting-advertising-and-marketing.md",
       "title": "How is Machine Learning Affecting Advertising and Marketing?",
       "excerpt": "Machine learning is transforming the dynamics of the advertising and marketing industry by segmenting and targeting specific audiences with relevant messages.",
@@ -1257,58 +1301,6 @@
         "name": "Indiatimes",
         "domain": "indiatimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-kor-financial-coinregtech-deliver-saas-to-crypto-trade-reporting.md",
-      "title": "KOR Financial & CoinRegTech Deliver SaaS to Crypto Trade Reporting",
-      "excerpt": "KOR Financial & CoinRegTech Deliver SaaS to Crypto Trade Reporting Jul 27, 2022 (PRNewswire via COMTEX) -- PR Newswire NEW YORK, July 27,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/kor-financial-coinregtech-deliver-saas-to-crypto-trade-reporting-2022-07-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/kor-financial-coinregtech-deliver-saas-to-crypto-trade-reporting-2022-07-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

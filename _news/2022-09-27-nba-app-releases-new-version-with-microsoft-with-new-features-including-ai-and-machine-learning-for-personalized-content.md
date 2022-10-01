@@ -66,22 +66,6 @@ related:
         width: 1680
         height: 946
         isCached: true
-  - title: "Microsoft Azure CTO says it is time to shun C, C++ languages"
-    excerpt: "For 84 per cent professionals in the country, machine learning (ML) followed by statistics are the two most in-demand skills that recruiters are looking for in data science professionals, a report said recently. Python remained the most used programming ..."
-    publishedDateTime: 2022-09-27T02:30:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages/94466077"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages/94466077"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages/94466077"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-94466077,imgsize-15812,width-1200,height-628,overlay-ettelecom/microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "SAS Viya Now Available on Microsoft Azure Marketplace"
     excerpt: "The full-featured platform on Microsoft Azure would equip global customers with access to essential machine learning, data exploration, and model deployment analytics"
     publishedDateTime: 2022-09-29T10:10:00Z

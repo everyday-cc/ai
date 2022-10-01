@@ -38,34 +38,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "James Earl Jones Now Letting Darth Vader Be Voiced by AI"
-    excerpt: "Although James Earl Jones has stepped away from his most iconic role, the legendary \"Star Wars\" actor's incredible baritone lives on thank to AI."
-    publishedDateTime: 2022-09-27T02:00:00Z
-    webUrl: "https://futurism.com/the-byte/darth-vader-ai-voice"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 37
-    images:
-      - url: "https://wp-assets.futurism.com/2022/09/darth-vader-ai-voice.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Darth Vader’s James Earl Jones approves AI technology to recreate his voice"
-    excerpt: "Lucasfilm first partnered with Respeecher, a Ukrainian start-up that uses AI technology to create new dialogue from old voice recordings, on Disney+ series The Book Of Boba Fett to replicate the voice of young Luke Skywalker. Darth Vader Credit: ..."
-    publishedDateTime: 2022-09-27T01:58:00Z
-    webUrl: "https://www.nme.com/en_asia/news/film/darth-vaders-james-earl-jones-approves-ai-technology-to-recreate-his-voice-3317498"
-    type: article
-    provider:
-      name: NME
-      domain: nme.com
-    quality: 35
-    images:
-      - url: "https://www.nme.com/wp-content/uploads/2022/09/James-Earl-Jones-Darth-Vader.jpg"
-        width: 2000
-        height: 1270
-        isCached: true
 
 secured: "Aw7UroCp5xXhKf4BFdBH5EazVAVYuQ8huHrkfCc+mTyqr3FbirqmcIeTbZsuuThKHLvWAOaHqyuAci30q5nxyu0wDQSwUwd/IzuWhOZ7vagXz2KfvBS/K2/AALjdd4nEUX9sksaLWlTmUHuq073JhYonlchc1VcQoCNHI7FcxYJn28gIV+dCg0D+Bmd5EvvsfmdqQcx54eQ2YEyjQzm/1o2qbNNS98Gw6FOuDxF7O3pjIEKyyge/2qI/kAnI7y0ApRGaub2ekppRmfDpT7xdL5Zv98e5ednvw8DeLxzeEJ4e7om/IWxbqZSozok77E+wC2aJvfYH1GzFpWmXvMFwSX3OwN6kPF/yow8LyJ+iUSISnYv6EPkXixYXHY5fi0SoA4dtrtuG3p7kADVp6U58dLIiWnaJx9kzh2saWjKOZeMCu3JelxVGX4CiVJ9OD0/W64NgjyXbwsEqu/hXwYzop2LeSF2DZoi763a6UAVoswqFGga0UXVsOF5IwmV0aXZkl8+I5V8WCGGfs1fBwgE9Ow==;HnLu8gv0gpEtl8Nqcq8s3Q=="
 ---

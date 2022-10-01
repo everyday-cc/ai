@@ -71,22 +71,6 @@ related:
         width: 1680
         height: 946
         isCached: true
-  - title: "Microsoft Azure CTO says it is time to shun C, C++ languages"
-    excerpt: "For 84 per cent professionals in the country, machine learning (ML) followed by statistics are the two most in-demand skills that recruiters are looking for in data science professionals, a report said recently. Python remained the most used programming ..."
-    publishedDateTime: 2022-09-27T02:30:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages/94466077"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages/94466077"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages/94466077"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-94466077,imgsize-15812,width-1200,height-628,overlay-ettelecom/microsoft-azure-cto-says-it-is-time-to-shun-c-c-languages.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "At ISC 2022: Microsoft Talks HPC-AI and AMD Chips in the Azure Cloud"
     excerpt: "We visited with Microsoft Azure during ISC – here is our conversation with two HPC-AI specialists, Alex Jean and Dr. Lukasz Miroslaw, for an update on Azure’s line-up of new capabilities and services in support of advanced AI and machine learning."
     publishedDateTime: 2022-09-29T18:54:00Z

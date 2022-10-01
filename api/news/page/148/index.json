@@ -2,6 +2,92 @@
   "page": 148,
   "value": [
     {
+      "path": "_news/2022-06-07-phishing-attacks-will-use-powerful-text-generation-say-machine-learning-engineers.md",
+      "title": "Phishing attacks will use powerful text generation, say machine-learning engineers",
+      "excerpt": "The most basic phishing attacks in the future will come from personas with detailed web presences, machine-learning engineers with Armorblox will argue at the RSA Conference on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmagazine.com/analysis/rsac/phishing-attacks-will-use-powerful-text-generation-say-machine-learning-engineers",
+      "originalUrl": "https://www.scmagazine.com/analysis/rsac/phishing-attacks-will-use-powerful-text-generation-say-machine-learning-engineers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.scmagazine.com/wp-content/uploads/2022/06/060622_artificial_intelligence.jpg",
+          "width": 1500,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SC Media",
+        "domain": "scmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-next-emerging-trend-in-fintech-sector-is-neobanking-easebuzz-cto.md",
+      "title": "Next emerging trend in fintech sector is Neobanking: Easebuzz CTO",
+      "excerpt": "Software-enabled payments collection and payouts platform Easebuzz aims to speed up payment collection and reduce credit periods with a smooth end-user experience, Amit Kumar, CTO, said on Tuesday. According to Kumar,",
+      "sourceUrl": null,
+      "webUrl": "https://www.daijiworld.com/news/newsDisplay?newsID=966403",
+      "originalUrl": "https://www.daijiworld.com/news/newsDisplay?newsID=966403",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/square_daijiworld247.jpg",
+          "width": 280,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daijiworld",
+        "domain": "daijiworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-can-a-recruiting-robot-be-ethical.md",
       "title": "Can A Recruiting Robot Be Ethical?",
       "excerpt": "Ethics as they relate to AI and hiring employees can be divided into 4 categories: Fairness, Accountability, Privacy and Transparency. It is my feeling that transparency should be the first priority. Without transparency there is no place to start the ...",
@@ -1021,111 +1107,6 @@
         "AWS AI",
         "Machine Learning",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-meta-shakes-up-ai-unit-amid-drive-for-growth.md",
-      "title": "Meta Shakes Up AI Unit Amid Drive for Growth",
-      "excerpt": "AI hubs will become part of product groups as a way of turning research into business assets more quickly, and in line with the company’s metaverse aspirations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/meta-shakes-up-ai-unit-amid-drive-for-growth-11654546470",
-      "originalUrl": "https://www.wsj.com/articles/meta-shakes-up-ai-unit-amid-drive-for-growth-11654546470",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-558336/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/meta-shakes-up-ai-unit-amid-drive-for-growth-11654546470",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/meta-shakes-up-ai-unit-amid-drive-for-growth-11654546470",
-      "publishedDateTime": "2022-06-06T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-how-artificial-intelligence-brings-new-superpowers-to-supercomputers.md",
-      "title": "How artificial intelligence brings new superpowers to supercomputers",
-      "excerpt": "Nvidia also detailed multiple case studies of how its HPC innovations are being used to help enable AI for nuclear fusion and brain health research. HPC is not just about the world’s fastest ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/06/how-artificial-intelligence-brings-new-superpowers-to-supercomputers/",
-      "originalUrl": "https://venturebeat.com/2022/06/06/how-artificial-intelligence-brings-new-superpowers-to-supercomputers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-supercomputer.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/06/how-artificial-intelligence-brings-new-superpowers-to-supercomputers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/06/how-artificial-intelligence-brings-new-superpowers-to-supercomputers/amp/",
-      "publishedDateTime": "2022-06-06T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

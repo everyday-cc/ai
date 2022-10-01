@@ -403,6 +403,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-27-avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech.md",
+      "title": "Avoiding a surveillance society: how better rules can rein in facial recognition tech",
+      "excerpt": "The Facial Recognition Model Law Project, to which this article refers, was undertaken by HTI, with funding from UTS and support from the UTS Centre for Social Justice & Inclusion. UTS has ...",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075",
+      "originalUrl": "https://theconversation.com/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/486445/original/file-20220926-14387-rumoex.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075",
+      "publishedDateTime": "2022-09-26T18:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-27-new-report-offers-blueprint-for-regulation-of-facial-recognition-technology.md",
       "title": "New report offers blueprint for regulation of facial recognition technology",
       "excerpt": "SYDNEY, Sept. 26, 2022 /PRNewswire/ -- A new report from the University of Technology Sydney (UTS) Human Technology Institute outlines a model law for facial recognition technology to protect ...",
@@ -491,17 +534,17 @@
     {
       "path": "_news/2022-09-23-cac-corporation-integrates-cyberlinks-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned-ministop-store.md",
       "title": "CAC Corporation integrates CyberLink’s FaceMe Facial Recognition into the POS terminals of their Unmanned Ministop Store",
-      "excerpt": "CyberLink Corp., a pioneer of AI and facial recognition technologies, has collaborated with CAC Corporation (CAC) to integrate its AI facial recognition engine, FaceMe®, into CAC’s facial recognition payment system.",
+      "excerpt": "To create a facial recognition payment system that requires nothing more than the end user’s face, CAC turned to CyberLink’s AI facial recognition engine, FaceMe. Deployed in February of 2022, CAC introduced the technology to 1,",
       "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/cac-corporation-integrates-cyberlink-s-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned/article_1239e162-574d-5593-81dd-3fc17f538f3d.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/cac-corporation-integrates-cyberlink-s-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned/article_1239e162-574d-5593-81dd-3fc17f538f3d.html",
+      "webUrl": "https://www.bakersfield.com/ap/news/cac-corporation-integrates-cyberlink-s-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned/article_7c7083e5-99f9-5d65-bd3b-ca35044ee287.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/cac-corporation-integrates-cyberlink-s-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned/article_7c7083e5-99f9-5d65-bd3b-ca35044ee287.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/6b/c6ba7fcb-27e9-5b10-846c-2a6f7f40501c/632daf9f2647a.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/f/28/f286b12f-3fe7-50cc-8a5e-dd9d06e8467f/632daf1aafc04.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -516,8 +559,8 @@
       "publishedDateTime": "2022-09-23T06:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1382,50 +1425,6 @@
         "AI Hardware",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-automatic-facial-recognition-the-debate-in-2022.md",
-      "title": "Automatic Facial Recognition – The debate in 2022",
-      "excerpt": "In particular, public and private sectors are exploring the use of solutions utilising Automated Facial Recognition (AFR) to prevent crime and improve the safety of their facilities – but where are we now in the AFR debate? In IFSEC Global’s Video ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ifsecglobal.com/surveillance/automatic-facial-recognition-the-debate-in-2022/",
-      "originalUrl": "https://www.ifsecglobal.com/surveillance/automatic-facial-recognition-the-debate-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s33644.pcdn.co/wp-content/uploads/2019/10/fr.gif",
-          "width": 1000,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ifsecglobal.com/surveillance/automatic-facial-recognition-the-debate-in-2022/amp/",
-      "cdnAmpWebUrl": "https://www-ifsecglobal-com.cdn.ampproject.org/c/s/www.ifsecglobal.com/surveillance/automatic-facial-recognition-the-debate-in-2022/amp/",
-      "publishedDateTime": "2022-09-16T01:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ifsecglobal.com",
-        "domain": "ifsecglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

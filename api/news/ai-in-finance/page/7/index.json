@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-01-fintech-ai-leader-photon-commerce-partners-with-identifee-to-enable-banks-to-instantly-digitize-and-analyze-statements.md",
+      "title": "Fintech AI Leader Photon Commerce Partners With Identifee to Enable Banks to Instantly Digitize and Analyze Statements",
+      "excerpt": "Photon Commerce, the leader in artificial intelligence for fintech, today announced a strategic collaboration with Identifee, the connected platform for financial services, to enable banks to instantly digitize,",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-1-fintech-ai-leader-photon-commerce-partners-with-identifee-to-enable-banks-to-instantly-digitize-and-analyze-statements",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-1-fintech-ai-leader-photon-commerce-partners-with-identifee-to-enable-banks-to-instantly-digitize-and-analyze-statements",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T22:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-gretel-keeps-the-data-trail-hidden.md",
       "title": "Gretel Keeps the Data Trail Hidden",
       "excerpt": "In the financial services area, Gretel often helps companies identify ... do we augment our existing real world customer data with synthetic data to help my machine learning algorithms do better.”",
@@ -1307,58 +1341,6 @@
         "name": "International Business Times",
         "domain": "ibtimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-china-scrutiny-stymies-jdcom-fintech-units-2-bln-hong-kong-ipo-sources.md",
-      "title": "China scrutiny stymies JD.Com fintech unit's $2 bln Hong Kong IPO -sources",
-      "excerpt": "JD Technology, the fintech arm of Chinese e-commerce company JD.Com, has been forced to delay an up to $2 billion Hong Kong IPO because domestic regulatory approval for the listing has not been forthcoming,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/markets/us/china-scrutiny-stymies-jdcom-fintech-units-2-bln-hong-kong-ipo-sources-2022-05-12/",
-      "originalUrl": "https://www.reuters.com/markets/us/china-scrutiny-stymies-jdcom-fintech-units-2-bln-hong-kong-ipo-sources-2022-05-12/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/hLcxPDYq3sDZ9zFaofocCH2PX1M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/34I2Z4M7X5NR5JVIWPJ6ZQKHU4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T01:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

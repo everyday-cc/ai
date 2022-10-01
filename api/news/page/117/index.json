@@ -2,6 +2,101 @@
   "page": 117,
   "value": [
     {
+      "path": "_news/2022-06-28-fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam.md",
+      "title": "Fintech SaaS Platform Lentra AI Acquires AI-Startup TheDataTeam",
+      "excerpt": "Bessemer Venture Partners and SIG as its investors Fintech SaaS startup, Lentra AI has acquired Chennai-based AI startup TheDataTeam (TDT) for an undisclosed amount. Following this acquisition ...",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam/",
+      "originalUrl": "https://inc42.com/buzz/fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2022/06/social-5-1.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam/amp/",
+      "publishedDateTime": "2022-06-28T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-cwallet-and-microsoft-qatar-partner-to-bring-the-latest-fintech-services-to-organizations-through-azure.md",
+      "title": "CWallet and Microsoft Qatar partner to bring the latest fintech services to organizations through Azure",
+      "excerpt": "Under the new agreement, CWallet will leverage a number of Microsoft products and services including, but not limited to, Azure Machine Learning, Cosmos DB, Power BI, Kubernetes, Application Insights, and other Azure security services to help drive ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/en-xm/2022/06/28/cwallet-and-microsoft-qatar-partner-to-bring-the-latest-fintech-services-to-organizations-through-azure/",
+      "originalUrl": "https://news.microsoft.com/en-xm/2022/06/28/cwallet-and-microsoft-qatar-partner-to-bring-the-latest-fintech-services-to-organizations-through-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.microsoft.com/wp-content/uploads/prod/sites/133/2022/06/AQ0I5.jpg",
+          "width": 850,
+          "height": 569,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-28-spotting-objects-from-space-is-easy-this-challenge-is-harder.md",
       "title": "Spotting Objects From Space Is Easy. This Challenge Is Harder",
       "excerpt": "SMART stands for Space-based Machine Automated Recognition Technique ... “A lot of what we see out there today is ‘Can I find a particular object?’” says Jack Cooper, the program’s manager. “And SMART is trying to figure out what all those ...",
@@ -1028,96 +1123,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-building-responsible-ai-5-pillars-for-an-ethical-future.md",
-      "title": "Building responsible AI: 5 pillars for an ethical future",
-      "excerpt": "Humans are building AI, so they bring their own ethics into the design, oftentimes for the worse. Responsible AI can help mitigate this bias.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/01/building-responsible-ai-5-pillars-for-an-ethical-future/",
-      "originalUrl": "https://venturebeat.com/2022/07/01/building-responsible-ai-5-pillars-for-an-ethical-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-aws-azure-google-cloud-top-cloud-ai-developer-market.md",
-      "title": "AWS, Azure, Google Cloud top cloud AI developer market",
-      "excerpt": "Some of the largest and most innovative technology companies in the world are investing heavily in cloud artificial intelligence developer services, as the global AI software market is expected to reach a whopping US$135 billion by 2025,",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com.au/news/aws-azure-google-cloud-top-cloud-ai-developer-market-581913",
-      "originalUrl": "https://www.crn.com.au/news/aws-azure-google-cloud-top-cloud-ai-developer-market-581913",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/20220628072254_0_0_0_0_70__Features_20211207121924_cloud_1.jpg",
-          "width": 1183,
-          "height": 887,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN Australia",
-        "domain": "crn.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AWS AI",
-        "Microsoft AI",
-        "Machine Learning",
-        "Natural Language Processing"
       ]
     }
   ],

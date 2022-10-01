@@ -26,34 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "James Earl Jones Now Letting Darth Vader Be Voiced by AI"
-    excerpt: "Although James Earl Jones has stepped away from his most iconic role, the legendary \"Star Wars\" actor's incredible baritone lives on thank to AI."
-    publishedDateTime: 2022-09-27T02:00:00Z
-    webUrl: "https://futurism.com/the-byte/darth-vader-ai-voice"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 37
-    images:
-      - url: "https://wp-assets.futurism.com/2022/09/darth-vader-ai-voice.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Darth Vader’s James Earl Jones approves AI technology to recreate his voice"
-    excerpt: "Lucasfilm first partnered with Respeecher, a Ukrainian start-up that uses AI technology to create new dialogue from old voice recordings, on Disney+ series The Book Of Boba Fett to replicate the voice of young Luke Skywalker. Darth Vader Credit: ..."
-    publishedDateTime: 2022-09-27T01:58:00Z
-    webUrl: "https://www.nme.com/en_asia/news/film/darth-vaders-james-earl-jones-approves-ai-technology-to-recreate-his-voice-3317498"
-    type: article
-    provider:
-      name: NME
-      domain: nme.com
-    quality: 35
-    images:
-      - url: "https://www.nme.com/wp-content/uploads/2022/09/James-Earl-Jones-Darth-Vader.jpg"
-        width: 2000
-        height: 1270
-        isCached: true
   - title: "The droids you’re looking for: how Ukrainian AI recreated Darth Vader’s voice"
     excerpt: "A Kyiv startup helped ‘clone’ the voice of legendary actor James Earl Jones, 91, for the recent Obi-Wan Kenobi series"
     publishedDateTime: 2022-09-27T17:58:00Z

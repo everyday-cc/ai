@@ -3,9 +3,12 @@ category: news
 title: "Bruce Willis has no deal with company that created his 'digital twin': rep"
 excerpt: "Bruce Willis has retired from making movies since his aphasia diagnosis, but he may continue to be an action star. How? Well, technology."
 publishedDateTime: 2022-09-30T22:09:00Z
-originalUrl: "https://www.aol.com/bruce-willis-may-still-appear-190942819.html"
-webUrl: "https://www.aol.com/bruce-willis-may-still-appear-190942819.html"
+originalUrl: "https://www.aol.com/entertainment/bruce-willis-may-still-appear-190942819.html"
+webUrl: "https://www.aol.com/entertainment/bruce-willis-may-still-appear-190942819.html"
 type: article
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: AOL
@@ -15,6 +18,37 @@ topics:
   - Machine Learning
   - AI
 
-secured: "3gkj3Crn1PuG9nOgaDsm4mMvtwnVT1SRPb2yvyoa2TnFP277hBz0SzLTcKsGejD6QPtCXxgIJYYR3ZomiVtgVEv9i0x+z0E7ZgSo6T6l4foWf1815e//6pNnTrIeKQaLXOgkC6zbYVKKGuT6KHXjTWuE55wziW85jE4nU/TSuDOKFpXCciAFg4nQJh3prxi6Lq7w273Rx8QpC/A6fzptvNZSnOetfgU5zc+NMrjabtfUcwTarGhW5/fbrJldNM4ITz+Qdb1r1nYqz548CHPVC2MeTNse0r9vUsBrgx6j2P4BWv/WR8P5H3Zzo54x1Kr6S1uxWOHIItfv/FWGQh5D8MUW/d1k4qXBaXePShrvzfo0nPWn6zll+q+UQcVOTHzmr2+b+HXXP0E3MZXD6XZhjrLEhwG/YuuGMLJmSMAEGUgrl6Ud3AsFyGxWahm4fJTTThV+K8Cmqv2ZUQuwg9kKao33Vxn6iAvWzmpGTu5lgXVCH90LCvHkMoK655qV8+i/TGmsqeHLclTbzlnSrmUkqw==;Puv78fn9zUrJ7xMjJ+/tKA=="
+images:
+  - url: "https://s.yimg.com/ny/api/res/1.2/SVp0sktfrBkwx_gyWYaQgA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_celebrity_534/dee1c345f8b6f2a2f54f4c8136fe8d1d"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "Bruce Willis may still appear in films after aphasia diagnosis thanks to his 'digital twin'"
+    excerpt: "Bruce Willis has retired from making movies since his aphasia diagnosis, but he may continue to be an action star. How? Well, technology."
+    publishedDateTime: 2022-09-30T19:09:00Z
+    webUrl: "https://www.aol.com/entertainment/bruce-willis-may-still-appear-190942819.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 14
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/SVp0sktfrBkwx_gyWYaQgA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_celebrity_534/dee1c345f8b6f2a2f54f4c8136fe8d1d"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Bruce Willis becomes first Hollywood actor to sell image rights to artificial intelligence company"
+    excerpt: "Die Hard actor Bruce Willis has become the first Hollywood star to sell his image rights to a technology company, which specialises in creating movies through artificial intelligence (AI). The deal means the firm, Deepcake, can now use both his moving and ..."
+    publishedDateTime: 2022-09-29T11:50:00Z
+    webUrl: "https://www.itv.com/news/2022-09-29/bruce-willis-becomes-first-hollywood-actor-to-sell-image-rights-to-ai-company"
+    type: article
+    provider:
+      name: ITV
+      domain: itv.com
+    quality: 3
+
+secured: "iBOpB452Yl/Oc/VElhQkj3JhXSwlTc8c1YaNK0Qnr1+TEpHzwS0CG5Qb9YiWOObQdJPI/RZlUiB9Fm77zWH8fMOmO6eaiZj/x6sU20J+f681wlxEF4c0hysK6jbXKqvSh/xqMCzpUEzVqJAIIC4lpGFZSFG03uCLyfIgPO00Eq7yWzMaALsHWarc5yPpoZuWMvAPBq7glY7iEw/ED5JQ4EqidDrkpzBb/g2atMSWWf6IqnHg8iUZL+TJ890X0e9v3TI4CesQusg9t5YRToyuOjyIWcqlQVa8U7HpXjikEh2FM+g7ruuQUltTr/CGO1rhTOAMhdE7U8QgpKCUcvIVfIf93RlBK+jPp5obSfouoRE=;So3Ys+eaXiFPy/qLGGVbIw=="
 ---
 

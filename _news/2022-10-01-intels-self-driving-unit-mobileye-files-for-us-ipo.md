@@ -60,6 +60,15 @@ related:
         width: 426
         height: 240
         isCached: true
+  - title: "Intel’s Self-Driving Technology Mobileye Unit Files for IPO"
+    excerpt: "Intel Corp. has filed for an initial public offering of its self-driving technology business, Mobileye Global Inc."
+    publishedDateTime: 2022-10-01T17:37:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/intels-self-driving-technology-mobileye-unit-files-for-ipo-71664606883511.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 4
 
 secured: "CwCoPUdD92qisfZcJ4Uug+VPcQkYTu9hlKucENdfFZZ6fbstD5OarMWnLTOlQ7BvH+W8mU3cHnZbHA5+eWCHgxFGt2+hiHs9yrEMmSCG8PzlAxRQVFfoXaV4OCuRwvOLPmYWNO5U5W8MAP5WNazNmqJgtPR3yUk1H5G2USKzbITc+8lRjWg2v+r+KzZ1Hw9ltjZ1jz1vJ0dgojKTvQhypWSejUh2VxSx+ewptbZaMohwkF6d2vzo9cnWsHmc4HfQVgLQmD+n2OJFPFw+5WX834XiHV7RKJncOtZsSfsPHbZ1dM6nbyapuMF8umQ6OT6OS/+bkuK4Y7g8p8VN/YLfVMAi8pDLE3Q3PH+jCTrRW8U=;hK53GyyCm/U0lzjEthWdIg=="
 ---

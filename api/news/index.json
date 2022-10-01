@@ -297,7 +297,7 @@
       "originalUrl": "https://www.wsj.com/articles/intel-drives-forward-with-mobileye-self-driving-car-units-ipo-plans-11664579959",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -349,7 +349,7 @@
       "originalUrl": "https://www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai-tool-can-predict-missed-doctors-appointments/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 195,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -500,26 +500,17 @@
       "title": "Tesla’s AI Day is tonight. It may wow you – or end with a gaffe",
       "excerpt": "Tesla will hold its second annual AI Day in Palo Alto, California, Friday evening. The six-hour event will include updates on Tesla's work in artificial intelligence, \"Full Self-Driving,\" its supercomputer \"Dojo\" and maybe a humanoid robot,",
       "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2022/09/30/tech/tesla-ai-day-preview",
-      "originalUrl": "https://edition.cnn.com/2022/09/30/tech/tesla-ai-day-preview",
+      "webUrl": "https://edition.cnn.com/2022/09/30/tech/tesla-ai-day-preview/index.html",
+      "originalUrl": "https://edition.cnn.com/2022/09/30/tech/tesla-ai-day-preview/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 94,
       "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210819234639-01-tesla-robot-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/09/30/tech/tesla-ai-day-preview/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/30/tech/tesla-ai-day-preview/index.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-09-30T13:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -792,51 +783,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-30-tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks.md",
-      "title": "Tesla robot walks, waves, but doesn’t show off complex tasks",
-      "excerpt": "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a",
-      "sourceUrl": null,
-      "webUrl": "https://mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/",
-      "originalUrl": "https://mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mynorthwest.com/wp-content/uploads/2018/01/MYNW_Facebookj.jpg",
-          "width": 452,
-          "height": 282,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/",
-      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/",
-      "publishedDateTime": "2022-09-30T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyNorthwest.com",
-        "domain": "mynorthwest.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2022-09-30-tesla-unveils-the-hands-of-its-humanoid-robot-ahead-of-full-unveil-today.md",
       "title": "Tesla unveils the hands of its humanoid robot ahead of full unveil today",
       "excerpt": "Tesla is teasing the hands of its humanoid Optimus robot that is going to be fully unveiled at its AI Day event later today. Today, Tesla is expected to hold its AI Day 2 in Palo Alto starting at 5 p.",
@@ -898,7 +844,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 613,
+      "heat": 633,
       "tags": null,
       "images": [
         {
@@ -1041,6 +987,57 @@
       ]
     },
     {
+      "path": "_news/2022-09-30-anyone-can-now-use-powerful-ai-tools-to-make-images-what-could-possibly-go-wrong.md",
+      "title": "Anyone can now use powerful AI tools to make images. What could possibly go wrong?",
+      "excerpt": "If you've ever wanted to use artificial intelligence to quickly design a hybrid between a duck and a corgi, now is your time to shine.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2022/09/30/tech/image-generating-ai-publicly-available",
+      "originalUrl": "https://edition.cnn.com/2022/09/30/tech/image-generating-ai-publicly-available",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220928180903-03-dall-e-ai-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/09/30/tech/image-generating-ai-publicly-available/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/30/tech/image-generating-ai-publicly-available/index.html",
+      "publishedDateTime": "2022-09-30T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-30-micron-latest-in-japan-chip-crosshairs.md",
       "title": "Micron latest in Japan chip crosshairs",
       "excerpt": "Japan offered a massive subsidy to Micron Technology, the country's latest move to bolster domestic semiconductor production.",
@@ -1135,6 +1132,50 @@
       ]
     },
     {
+      "path": "_news/2022-09-30-tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks.md",
+      "title": "Tesla robot walks, waves, but doesn’t show off complex tasks",
+      "excerpt": "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company’s artificial intelligence event Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2022/sep/30/tesla-robot-walks-waves-but-doesnt-show-off-comple/",
+      "originalUrl": "https://www.washingtontimes.com/news/2022/sep/30/tesla-robot-walks-waves-but-doesnt-show-off-comple/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2022/10/01/tesla_robot_47794_c0-216-5184-3240_s1200x700.jpg?48c42b2789ee0d08ce9a91ab8317603cc81a12f8",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.washingtontimes.com/news/2022/sep/30/tesla-robot-walks-waves-but-doesnt-show-off-comple/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/sep/30/tesla-robot-walks-waves-but-doesnt-show-off-comple/",
+      "publishedDateTime": "2022-09-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-30-how-ai-predicts-hurricanes-and-answers-calls-for-help-in-their-aftermath.md",
       "title": "How AI predicts hurricanes and answers calls for help in their aftermath",
       "excerpt": "AI helps keep the lines of communication open during a disaster and also better predict the intensity of hurricanes in the future.",
@@ -1182,58 +1223,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-house-democrats-debut-new-bill-to-limit-us-police-use-of-facial-recognition.md",
-      "title": "House Democrats debut new bill to limit US police use of facial recognition",
-      "excerpt": "The bill, if passed, would require police across the United States to first obtain a warrant before using facial recognition technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/",
-      "originalUrl": "https://techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/facial-recognition-tech.gif?resize=1200,799",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/amp/",
-      "publishedDateTime": "2022-09-29T15:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
