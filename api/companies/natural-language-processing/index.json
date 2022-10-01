@@ -23,7 +23,7 @@
       "twitter": {
         "username": "huggingface",
         "url": "https://twitter.com/huggingface",
-        "followers": 110655
+        "followers": 110665
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -74,7 +74,7 @@
       "twitter": {
         "username": "grammarly",
         "url": "https://twitter.com/grammarly",
-        "followers": 224932
+        "followers": 224935
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -130,7 +130,7 @@
       "twitter": {
         "username": "Mobvoi_Official",
         "url": "https://twitter.com/Mobvoi_Official",
-        "followers": 52447
+        "followers": 52448
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -229,7 +229,7 @@
       "twitter": {
         "username": "deeplcom",
         "url": "https://twitter.com/deeplcom",
-        "followers": 13758
+        "followers": 13755
       },
       "yearFounded": 0,
       "locations": [
@@ -247,7 +247,7 @@
           "url": "https://www.youtube.com/watch?v=-zBT7vwa3PA"
         }
       ],
-      "heat": 98,
+      "heat": 99,
       "tags": [
         "Natural Language Generation"
       ],
@@ -496,7 +496,7 @@
       "twitter": {
         "username": "algolia",
         "url": "https://twitter.com/algolia",
-        "followers": 24982
+        "followers": 24981
       },
       "size": "201-500 employees",
       "yearFounded": 2012,
