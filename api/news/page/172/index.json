@@ -2,6 +2,135 @@
   "page": 172,
   "value": [
     {
+      "path": "_news/2022-05-20-transforming-government-services-with-artificial-intelligence.md",
+      "title": "Transforming Government Services with Artificial Intelligence",
+      "excerpt": "State and local agencies can find effective solutions by identifying their goals first. In this Q&A, Keith Bauer, director of data and AI for state and local government at Microsoft, shares advice on how to get started.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence",
+      "originalUrl": "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-19T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-20-ai-weekly-is-ai-alien-invasion-imminent.md",
+      "title": "AI Weekly: Is AI alien invasion imminent?",
+      "excerpt": "Is the potential for artificial general intelligence a sign of an alien invasion on the horizon? Or is there even such a thing as true AGI?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/19/ai-weekly-is-ai-alien-invasion-imminent/",
+      "originalUrl": "https://venturebeat.com/2022/05/19/ai-weekly-is-ai-alien-invasion-imminent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-693638332.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 856,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/19/ai-weekly-is-ai-alien-invasion-imminent/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/19/ai-weekly-is-ai-alien-invasion-imminent/amp/",
+      "publishedDateTime": "2022-05-19T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-05-20-heres-how-ai-computer-vision-will-change-driving-ecomotion-2022-conference.md",
+      "title": "Here's how AI, computer vision will change driving - EcoMotion 2022 conference",
+      "excerpt": "From computer vision to artificial intelligence, the advancements on display paint a telling picture of the ways that we will interact with our vehicles in the pretty-near future. Autonomous ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-707220",
+      "originalUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-707220",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/505401",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/business-and-innovation/tech-and-start-ups/article-707220/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/business-and-innovation/tech-and-start-ups/article-707220/amp",
+      "publishedDateTime": "2022-05-19T10:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-20-intel-takes-ai-leadership-from-nvidia.md",
       "title": "Intel Takes AI Leadership From Nvidia",
       "excerpt": "Intel is returning to leadership and entering new and growing markets, which its valuation doesn't show yet. Find out why I'm bullish on INTC stock.",
@@ -1066,144 +1195,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-19-customer-segmentation-for-the-automobile-market-the-use-of-artificial-neural-networks.md",
-      "title": "Customer segmentation for the automobile market. The use of artificial neural networks",
-      "excerpt": "Customer Segmentation for the Automobile Market. The use of Artificial Neural Networks Grard Yahiaoui and Da Silva Dias Nexyad S.A., France Marie de Saint Blancard Peugeot-Citron, France INTRODUCTION Having a segmentation based on buyers' expectancies is an essential part of developing an effective strategy for one's product.",
-      "sourceUrl": null,
-      "webUrl": "https://www.warc.com/content/article/customer-segmentation-for-the-automobile-market-the-use-of-artificial-neural-networks/en-gb/9438",
-      "originalUrl": "https://www.warc.com/content/article/customer-segmentation-for-the-automobile-market-the-use-of-artificial-neural-networks/en-gb/9438",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.warc.com/images-site/warc-logo-opg.png",
-          "width": 1200,
-          "height": 849,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-19T01:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Warc",
-        "domain": "warc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-19-googles-deepmind-on-the-verge-of-achieving-human-ai.md",
-      "title": "Google's DeepMind on the verge of achieving human AI",
-      "excerpt": "Human-level artificial intelligence will soon be achievable, according to the lead researcher at Google’s DeepMind AI division. Dr Nando de Freitas said that it was \"game over\" in the long ...",
-      "sourceUrl": null,
-      "webUrl": "https://tribune.com.pk/story/2357144/googles-deepmind-on-the-verge-of-achieving-human-ai",
-      "originalUrl": "https://tribune.com.pk/story/2357144/googles-deepmind-on-the-verge-of-achieving-human-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": " https://i.tribune.com.pk/media/images/623082907ce4897c3820b24c_DeepMin1652873089-0/623082907ce4897c3820b24c_DeepMin1652873089-0.jpg  ",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tribune.com.pk/story/2357144/googles-deepmind-on-the-verge-of-achieving-human-ai?amp=1",
-      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2357144/googles-deepmind-on-the-verge-of-achieving-human-ai?amp=1",
-      "publishedDateTime": "2022-05-19T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Express Tribune",
-        "domain": "tribune.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-19-machine-learning-as-a-service-mlaas-market-size-share-latest-trends-demand-growth-opportunities-and-overview-2022-to-2028.md",
-      "title": "Machine Learning as a Service (MlaaS) Market Size, Share, Latest Trends, Demand, Growth, Opportunities and Overview 2022 to 2028",
-      "excerpt": "TheMachine Learning as a Service (MlaaS) MarketResearch Report 2022 provides a detailed overview of the current state",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-share-latest-trends-demand-growth-opportunities-and-overview-2022-to-2028-2022-05-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-share-latest-trends-demand-growth-opportunities-and-overview-2022-to-2028-2022-05-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-19T00:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

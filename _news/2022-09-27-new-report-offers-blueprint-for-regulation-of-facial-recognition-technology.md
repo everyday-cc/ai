@@ -1,29 +1,29 @@
 ---
 category: news
 title: "New report offers blueprint for regulation of facial recognition technology"
-excerpt: "Human Technology Institute outlines a model law for facial recognition technology to protect against harmful use of this technology, but also foster innovation for public benefit."
-publishedDateTime: 2022-09-26T23:00:00Z
-originalUrl: "https://techxplore.com/news/2022-09-blueprint-facial-recognition-technology.html"
-webUrl: "https://techxplore.com/news/2022-09-blueprint-facial-recognition-technology.html"
-ampWebUrl: "https://techxplore.com/news/2022-09-blueprint-facial-recognition-technology.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-blueprint-facial-recognition-technology.amp"
+excerpt: "SYDNEY, Sept. 26, 2022 /PRNewswire/ -- A new report from the University of Technology Sydney (UTS) Human Technology Institute outlines a model law for facial recognition technology to protect ..."
+publishedDateTime: 2022-09-26T23:47:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/09/n29023402/new-report-offers-blueprint-for-regulation-of-facial-recognition-technology"
+webUrl: "https://www.benzinga.com/pressreleases/22/09/n29023402/new-report-offers-blueprint-for-regulation-of-facial-recognition-technology"
+ampWebUrl: "https://www.benzinga.com/amp/content/29023402"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29023402"
 type: article
 quality: 57
 heat: 157
 published: true
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/facial-recognition.jpg"
-    width: 1920
-    height: 1274
+  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/28171512/image-55-1024x683.png"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -162,6 +162,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "8A57k/sJFrhlu22qNeFXwOBFDy5HlMez2rVbSGGQ2eYdHV6OXLr4Q2nTUioHOEYwIVPaC0vvHKqfxCH54bTGvRdKUWu1KkBiicgKuq60Bd7MLGc/BB37hhwX/P9HailpcFDwj0SBll3bk2M2tcIEm7/UriRdDzTScTD/gUFmiv6vUE3towuNIdP5MR/43dUQcePWrDr3hNo2uSeGzZAuC6T/84mb2tVn4tEW1qWlwUPSY6Um40Ur3IEpfspZBIk0M/ECUrWIxJYii/6bp7VJfiHPLV0O8ONYKeSE0qdjFuJsovT9oovzIS+IW7ZSEAE1ldToZCbGj0+V23cTSDflcc9QmFTuq59a9qjtTnb6vhtIS9Rt9PM5eXZSpkVsa7u352VHyN7Uh6fV9llnX+YkH7e8TzDkxwwyA9J+Gy3py9o8fm2LDr2UI7EWRx1PrJt49dgk7trpss8pPvl6vAgUnJaChpB12JFMAW9BUOAn7rWLHAqyBycx1z3AtFgAo5nhfzrpu8uXzvRWTqTM2vNltg==;U2V2nRY7Fd0RL/nOEGrvIQ=="
+secured: "bQqdiizk4RKowqEKCjjiVwIvLHtmIM/gK5qwlXOIlNsmxbOU/+6ZPcOcoY3j7WxPs5Yc9TkKGdYE785ysSlLnsy2U7EhTtINwCQXzgc/CjVCThSTZtH8kuXQa0CmVBAkjJP/zwG9d2qjn5wEYx5bPMELXxI0pY9fyb/5vPGM0Jlo/38qHESGfp24Sq8l7GveJ18fMVcor1ABmGt4y1CmGHhEznEQeHHaAPhbAT4AxVI56iLICNPHKPfdOmkHv/tXb3yMFU20rCqmtEhP+CPpB14cROQbiH96awK5Z+7AzWrwIw/zUoPQ+63zdM6L0ldteHjDvMzoTVszYGmLTSNqmmtj+ViWRX8GbzNn6IjrBZ8=;A0R2FCWeS2lnYP7ZVb6akQ=="
 ---
 

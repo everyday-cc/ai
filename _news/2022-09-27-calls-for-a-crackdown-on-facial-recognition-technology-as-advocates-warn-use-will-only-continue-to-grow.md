@@ -28,20 +28,20 @@ images:
 
 related:
   - title: "New report offers blueprint for regulation of facial recognition technology"
-    excerpt: "Human Technology Institute outlines a model law for facial recognition technology to protect against harmful use of this technology, but also foster innovation for public benefit."
-    publishedDateTime: 2022-09-26T23:00:00Z
-    webUrl: "https://techxplore.com/news/2022-09-blueprint-facial-recognition-technology.html"
-    ampWebUrl: "https://techxplore.com/news/2022-09-blueprint-facial-recognition-technology.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-blueprint-facial-recognition-technology.amp"
+    excerpt: "SYDNEY, Sept. 26, 2022 /PRNewswire/ -- A new report from the University of Technology Sydney (UTS) Human Technology Institute outlines a model law for facial recognition technology to protect ..."
+    publishedDateTime: 2022-09-26T23:47:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/n29023402/new-report-offers-blueprint-for-regulation-of-facial-recognition-technology"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29023402"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29023402"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 57
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/facial-recognition.jpg"
-        width: 1920
-        height: 1274
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/28171512/image-55-1024x683.png"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Retailers’ blind spot over facial recognition technology"
     excerpt: "Scanning the faces of customers was an overreach by retailers and is likely to be prohibited under proposed new laws."

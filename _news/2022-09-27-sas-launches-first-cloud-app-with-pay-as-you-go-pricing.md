@@ -87,20 +87,6 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "Manufacturing industry transformed by AI, IoT and analytics"
-    excerpt: "SAS hosts MFG Day flagship event on Oct. 5th featuring smart trucks, tractors and buildingsCARY, N.C., Sept. 26, 2022 /PRNewswire/ -- For"
-    publishedDateTime: 2022-09-26T14:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/manufacturing-industry-transformed-by-ai-iot-and-analytics-1031765018"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://mma.prnewswire.com/media/1907513/MFG_Day_Manufacturing_Institute_Logo.jpg"
-        width: 365
-        height: 400
-        isCached: true
 
 secured: "THJOYqyvdl0pu8uUzMQfEnN0hDsCDpdeVoxwYy3TSDB/NyGR+EbLfwexh6PKj2FE225sC4fOtPh/wzzUMuMuHOSws5vfIBoDtLdiPdaz5X8yJL6OLv98sB99DWCP5qBYVpjIJVc33sjwDcpqWEOXCpO8/LNSBKYEJjRICkmAhk8fRlT1NBLxn8QsvQa/5FQr2DyRNQTJ5M3HRP+FerbgobFY2RpKbVstgGMf+8tRmhuVc/1N2JiO9FKI3k3tYMcYDkUb7ekLXsZaaaohasUBUP1RA4YO2zJ1DsNXylRzPUZYU9xEbrtlVuLdG7sti0GQvfD9AfSrhxWXFmO3PHYo0OuygBXcztMWEzymgaIu7cOyIrpw1mldoM+FtP6tT3crBWj7W62DVS/Aay9MzAjVxNqVwd6gRXglv7B5DPsNJp7+jP6BuzjdPGH6vJ06yejqguRuzBwbLZZMgPL2Eli62IGWa/XMRni76FNTfOl3JJA5f6IQggSEQXfe3ozGDUE/oBHxHNJa2w9GMvPELslNVQ==;FS3zvvf0q74pI7J8xepJ0w=="
 ---

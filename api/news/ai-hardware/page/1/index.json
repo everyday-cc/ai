@@ -482,6 +482,59 @@
       ]
     },
     {
+      "path": "_news/2022-09-25-gpu-acceleration-delegate-for-android.md",
+      "title": "GPU acceleration delegate for Android",
+      "excerpt": "Using graphics processing units (GPUs) to run your machine learning (ML) models can dramatically improve the performance of your model and the user experience of your ML-enabled applications. On Android devices, you can enable use of GPU-accelerated ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/lite/android/delegates/gpu",
+      "originalUrl": "https://www.tensorflow.org/lite/android/delegates/gpu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-lite-logo-social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-24T22:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-09-23-nvidias-new-ai-model-quickly-generates-objects-and-characters-for-virtual-worlds.md",
       "title": "NVIDIA's new AI model quickly generates objects and characters for virtual worlds",
       "excerpt": "NVIDIA is looking to take the sting out of creating virtual 3D worlds with a new artificial intelligence model. GET3D can generate characters, buildings, vehicles and other types of 3D objects, NVIDIA says.",
@@ -1160,19 +1213,19 @@
     {
       "path": "_news/2022-09-20-runai-certified-to-run-nvidia-ai-enterprise-software-suite.md",
       "title": "Run:ai Certified to Run NVIDIA AI Enterprise Software Suite",
-      "excerpt": "Run:ai, the leader in compute orchestration for AI workloads, today announced that its Atlas Platform is certified to run NVIDIA AI Enterprise, an end-to-end, cloud-native",
+      "excerpt": "Run:ai Certified to Run NVIDIA AI Enterprise Software Suite Sep 20, 2022 (PRNewswire via COMTEX) -- PR Newswire TEL AVIV, Israel, TEL",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/n28936086/run-ai-certified-to-run-nvidia-ai-enterprise-software-suite",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/n28936086/run-ai-certified-to-run-nvidia-ai-enterprise-software-suite",
+      "webUrl": "https://www.marketwatch.com/press-release/runai-certified-to-run-nvidia-ai-enterprise-software-suite-2022-09-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/runai-certified-to-run-nvidia-ai-enterprise-software-suite-2022-09-20",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/28171512/image-55-1024x683.png",
-          "width": 1024,
-          "height": 683,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1180,14 +1233,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28936086",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28936086",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-09-20T09:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1407,40 +1469,6 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-nvidias-new-ada-lovelace-rtx-gpu-arrives-for-designers-and-creators.md",
-      "title": "NVIDIA's New Ada Lovelace RTX GPU Arrives for Designers and Creators",
-      "excerpt": "RTX 6000 GPU Provides 2-4x Performance Improvement in Enterprise Workflows;Global Manufacturers to Ship Starting in Q4 SANTA CLARA, Calif., Sept. (GLOBE NEWSWIRE) -- GTC—Opening a new era of neural gr",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/g28934515/nvidias-new-ada-lovelace-rtx-gpu-arrives-for-designers-and-creators",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/g28934515/nvidias-new-ada-lovelace-rtx-gpu-arrives-for-designers-and-creators",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28934515",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28934515",
-      "publishedDateTime": "2022-09-20T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

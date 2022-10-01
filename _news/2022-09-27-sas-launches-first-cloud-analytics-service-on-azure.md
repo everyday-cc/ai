@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/enterprise-analytics/sas-launches-first-clou
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1199168364.jpg?resize=1200,400"
         width: 1200
-        height: 400
-        isCached: true
-  - title: "Manufacturing industry transformed by AI, IoT and analytics"
-    excerpt: "SAS hosts MFG Day flagship event on Oct. 5th featuring smart trucks, tractors and buildingsCARY, N.C., Sept. 26, 2022 /PRNewswire/ -- For"
-    publishedDateTime: 2022-09-26T14:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/manufacturing-industry-transformed-by-ai-iot-and-analytics-1031765018"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://mma.prnewswire.com/media/1907513/MFG_Day_Manufacturing_Institute_Logo.jpg"
-        width: 365
         height: 400
         isCached: true
   - title: "SAS launches first cloud app with pay-as-you-go pricing"

@@ -78,20 +78,6 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "Manufacturing industry transformed by AI, IoT and analytics"
-    excerpt: "SAS hosts MFG Day flagship event on Oct. 5th featuring smart trucks, tractors and buildingsCARY, N.C., Sept. 26, 2022 /PRNewswire/ -- For"
-    publishedDateTime: 2022-09-26T14:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/manufacturing-industry-transformed-by-ai-iot-and-analytics-1031765018"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://mma.prnewswire.com/media/1907513/MFG_Day_Manufacturing_Institute_Logo.jpg"
-        width: 365
-        height: 400
-        isCached: true
   - title: "SAS launches first cloud app with pay-as-you-go pricing"
     excerpt: "SAS Institute Inc. is making one of its top software applications available on a pay-as-you-go basis for the first time with today’s announcement that its Viya analytics platform is now available on the Microsoft Azure Marketplace."
     publishedDateTime: 2022-09-27T15:30:00Z

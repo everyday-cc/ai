@@ -84,20 +84,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "AI to take over the voice of Darth Vader"
-    excerpt: "Artificial intelligence will take over one of the most iconic voices in the history of film after the actor who voiced Darth Vader signed over the rights to his voice to an AI startup. James Earl ..."
-    publishedDateTime: 2022-09-26T13:17:00Z
-    webUrl: "https://www.independent.co.uk/tech/darth-vader-voice-ai-artificial-intelligence-b2175313.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 37
-    images:
-      - url: "https://static.independent.co.uk/2022/09/26/11/darth%20vader%20voice%20artificial%20intelligence.png?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Darth Vader’s James Earl Jones approves AI technology to recreate his voice"
     excerpt: "Lucasfilm first partnered with Respeecher, a Ukrainian start-up that uses AI technology to create new dialogue from old voice recordings, on Disney+ series The Book Of Boba Fett to replicate the voice of young Luke Skywalker. Darth Vader Credit: ..."
     publishedDateTime: 2022-09-27T01:58:00Z

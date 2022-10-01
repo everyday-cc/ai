@@ -39,20 +39,18 @@ related:
       domain: usnews.com
     quality: 34
   - title: "Intel's self-driving unit Mobileye files for listing in first sign of thawing tech IPO market"
-    excerpt: "US listings raised a little over $7 billion this 2022, down from $154 billion in 2021"
-    publishedDateTime: 2022-10-01T02:30:00Z
-    webUrl: "https://gulfnews.com/business/markets/intels-self-driving-unit-mobileye-files-for-listing-in-first-sign-of-thawing-tech-ipo-market-1.1664591252378"
-    ampWebUrl: "https://gulfnews.com/amp/business/markets/intels-self-driving-unit-mobileye-files-for-listing-in-first-sign-of-thawing-tech-ipo-market-1.1664591252378"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/markets/intels-self-driving-unit-mobileye-files-for-listing-in-first-sign-of-thawing-tech-ipo-market-1.1664591252378"
+    excerpt: "Intel Corp's self-driving unit Mobileye on Friday (Sept 30) unveiled its filing for a US initial public offering (IPO), testing support for a high-profile stock debut even as the market for new issues has virtually collapsed."
+    publishedDateTime: 2022-10-01T03:02:00Z
+    webUrl: "https://www.theedgemarkets.com/article/intels-selfdriving-unit mobileye-files-listing-first-sign-thawing-tech-ipo-market"
     type: article
     provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 33
+      name: The Edge
+      domain: theedgemarkets.com
+    quality: 13
     images:
-      - url: "https://imagevars.gulfnews.com/2017/1/5/1_16a07fefdfa.1956568_2274998559_16a07fefdfa_medium.jpg"
-        width: 540
-        height: 405
+      - url: "https://s1.dmcdn.net/v/UFbiG1ZDgbyC9M3pf/x240"
+        width: 426
+        height: 240
         isCached: true
 
 secured: "ttNUkkPrhx9+vCPzTFDXrPxqovxv0SBJzVIsSyE5I5pUrSIe1nNxX/T+Rw+amHJsH9UEGIoAdJTHtasVY+4CYMpRVv9iHyWProhpyFeNRQxED/YiltdY5QumGlVldKW6cZ/8EzfBOtAbIaGB8z0nmNQR3yUwHkpNfWcExhfHgHCg9oLzT4B2EoS8Psc/NEAVpetrrSd+lCm6iwthHOxrbnvscUjyx8feBYeBSvCjK0UAwjK7d49lLWK5ADYn8aFbsOuYJADzaJPU/DTbvYHQsQ373kebuGuctLlTQhhrpqnLFjuuQ/0CXOkT+NjG7HBqVV5loGxb6xh8Bb3mmT/mg75FDx1t0G8tEOZRtb5wg6ylFS+1IaEwG4rhA710OnFWMkM+swKtXXVqlwTh7bamuVmRjWSLE19iBmwx1uW0vS3Vg/o9snDiPzyr54s9x/o9xAbnzcgoiZC6tejspDAkFET6UpwbGoYhzz0XX7c0xuEZ1/gIMkMqRnjSGS+8xCR8ZpmuoimeeJFcGy1OoEntzQ==;FurhByIEpObjVq9R+nH7qQ=="

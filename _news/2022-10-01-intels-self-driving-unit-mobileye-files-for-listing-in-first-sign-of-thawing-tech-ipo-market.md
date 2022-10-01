@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Intel's self-driving unit Mobileye files for listing in first sign of thawing tech IPO market"
-excerpt: "US listings raised a little over $7 billion this 2022, down from $154 billion in 2021"
-publishedDateTime: 2022-10-01T02:30:00Z
-originalUrl: "https://gulfnews.com/business/markets/intels-self-driving-unit-mobileye-files-for-listing-in-first-sign-of-thawing-tech-ipo-market-1.1664591252378"
-webUrl: "https://gulfnews.com/business/markets/intels-self-driving-unit-mobileye-files-for-listing-in-first-sign-of-thawing-tech-ipo-market-1.1664591252378"
-ampWebUrl: "https://gulfnews.com/amp/business/markets/intels-self-driving-unit-mobileye-files-for-listing-in-first-sign-of-thawing-tech-ipo-market-1.1664591252378"
-cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/markets/intels-self-driving-unit-mobileye-files-for-listing-in-first-sign-of-thawing-tech-ipo-market-1.1664591252378"
+excerpt: "Intel Corp's self-driving unit Mobileye on Friday (Sept 30) unveiled its filing for a US initial public offering (IPO), testing support for a high-profile stock debut even as the market for new issues has virtually collapsed."
+publishedDateTime: 2022-10-01T03:02:00Z
+originalUrl: "https://www.theedgemarkets.com/article/intels-selfdriving-unit mobileye-files-listing-first-sign-thawing-tech-ipo-market"
+webUrl: "https://www.theedgemarkets.com/article/intels-selfdriving-unit mobileye-files-listing-first-sign-thawing-tech-ipo-market"
 type: article
-quality: 33
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: Gulf News
-  domain: gulfnews.com
+  name: The Edge
+  domain: theedgemarkets.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://imagevars.gulfnews.com/2017/1/5/1_16a07fefdfa.1956568_2274998559_16a07fefdfa_medium.jpg"
-    width: 540
-    height: 405
+  - url: "https://s1.dmcdn.net/v/UFbiG1ZDgbyC9M3pf/x240"
+    width: 426
+    height: 240
     isCached: true
 
 related:
@@ -51,6 +49,6 @@ related:
       domain: usnews.com
     quality: 34
 
-secured: "WkRCPmClO2GKo7V1oce2OfaguCOhm6eOJQufCumwND6GSW//OTf8+56KCH2lResX9VLtArc5gXRrLZqQlngUIPNgZQaiQAAbdPVWTcUcX6XMw8UcYj3CgAx/MRdzwM3Td65Boom0WMa2QkSvnLGCw6mfdZIa5eAfJ07MH9zoMjcbP/YjdaUxVLjjavsbq7Rf3mFdk7ZSu5WMvHmmZN8QWCmOBPwx5npHKV6ftyxIalslQKyDXNzrk8rwXGRYEcEmIHJdE9GSiWIRwh8CPwvh0LlgetYlsocYYL+CAsUFfD8MpAXTEe5RuKCNEPbV5Fiu9kmNWRsN1WQsAbUC+twVZtsj9voMEoQegZMuRYr/jlU=;Dx/O4V8zwf9H3e0XadvheQ=="
+secured: "cFS+FPzJhHTKb/q1Tb4LHoELqvtzmxxy/FbZ3bDrpmd2raZT4BFS4SeecnIsCYEtGPWg/mokCmTYLLxymWfZDg9xr+Lo+aefP5bkPcgOze+h4BThytOHWZoAO06y7vif22c/SktoKxXAC6Fp184H0JkvJ1F2syecLQrKpV4+HbZVlSbFSqVz09Q4CNT1OklwBoKbGWOLP0B4AWpX10Zzm1tTgppAtElAW/cpAvUs69AFZ+YMqeg2/WRfcWH39/zMV4FNsaDBcoyFEtco3plzHginiR6bdSU18sIgwq5Ny/7c66FnogpOQCuHP2ccwE4jXuN0hRswsWRgTwnOW4uKnP+nK9WUJ5HwU5MQFeqcfUQ=;g5OU2h+OGw27CQ/XoFQcsw=="
 ---
 

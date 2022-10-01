@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Global Artificial Intelligence (AI) in Automotive and Transportation Market to Grow at 20% Through 2026"
-excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to"
-publishedDateTime: 2022-09-16T19:45:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/n28901830/global-artificial-intelligence-ai-in-automotive-and-transportation-market-to-grow-at-20-through-20"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/n28901830/global-artificial-intelligence-ai-in-automotive-and-transportation-market-to-grow-at-20-through-20"
-ampWebUrl: "https://www.benzinga.com/amp/content/28901830"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28901830"
+excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. This market is likely to grow at a CAGR of around 20% during 2021-26."
+publishedDateTime: 2022-09-16T19:59:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/09/16/9675469.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/09/16/9675469.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/28171512/image-55-1024x683.png"
-    width: 1024
-    height: 683
+  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+    width: 476
+    height: 210
     isCached: true
 
-secured: "CjyyhKi2ck/VusOBOISQaIkNKgfI9nEtItCgvl5K9C6pTaJ5Waon7f63NcAmsmepWEWg+rMUsA+NH3ILC9rU6Pygiy4Gvs9cma1A7n/39458sOfw9NAkkZxf4kFGvQG/N0K90qXX22cxE+4LkcsWeYSubl1R918/gzBWjkpjWXFQFBd50d8A2JiL0KDH2+7hlrqk4Bm2UKHUz0DG8XCPI0dls/qCS6UZu/GsrKHXgobTIKZWFQEfES88aMsTME548DaSSVzFP0VoaeVXpFaAAt+UaJY/GyUMFTws3dUUl0f5qRu8VvfFs653cjBe3gc+UTmdCi14pDuYyE5TvHeZbSZTlFh5mytt0r0DB16JN44=;BHmeXza3z99SMByHKinevw=="
+secured: "yM8HEhe4gx1L33VsBuXPln5vD1HtsoIyJ2BDM2qMSXjspsYB0rIFRuZKSodKrEaiXPuy95ubK85rPnKvaGWfan7c4P1HkFLB3iEGBlkrvJPgBMLA1jfPvld49MiIoNaGggWzOSL60ChfZ+4GPS0Mir2jsi/C1IPdYsGMFX7pJcVDdMKIRU1ct5Vg0rCBiwQlGe+alLMJ4AphUIOtIRTNaizkJRQqYqTdMew7bJectnORQovq9vTAqIHrzQBNuGfFLHW7Io/adQCeIokaI5O477WzH/wZh0cfw1c54nOvF0Usqy/h0zH9solg6im4gpEvu+MKysb9R5LICNRLXbTFyfkIggBM2F08Phke9brO2uE=;RtYoX8wiGuyX3xIO1LEDxg=="
 ---
 

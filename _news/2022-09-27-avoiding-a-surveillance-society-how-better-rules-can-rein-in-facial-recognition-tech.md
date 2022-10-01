@@ -28,20 +28,20 @@ images:
 
 related:
   - title: "New report offers blueprint for regulation of facial recognition technology"
-    excerpt: "Human Technology Institute outlines a model law for facial recognition technology to protect against harmful use of this technology, but also foster innovation for public benefit."
-    publishedDateTime: 2022-09-26T23:00:00Z
-    webUrl: "https://techxplore.com/news/2022-09-blueprint-facial-recognition-technology.html"
-    ampWebUrl: "https://techxplore.com/news/2022-09-blueprint-facial-recognition-technology.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-blueprint-facial-recognition-technology.amp"
+    excerpt: "SYDNEY, Sept. 26, 2022 /PRNewswire/ -- A new report from the University of Technology Sydney (UTS) Human Technology Institute outlines a model law for facial recognition technology to protect ..."
+    publishedDateTime: 2022-09-26T23:47:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/n29023402/new-report-offers-blueprint-for-regulation-of-facial-recognition-technology"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29023402"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29023402"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 57
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/facial-recognition.jpg"
-        width: 1920
-        height: 1274
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/28171512/image-55-1024x683.png"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Retailers’ blind spot over facial recognition technology"
     excerpt: "Scanning the faces of customers was an overreach by retailers and is likely to be prohibited under proposed new laws."
@@ -162,6 +162,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "LauwvZUXcr++IHe6XbVJS2bc+d1V0X+Yk7XZ6HNkkSSf8gxQIOIKv5bH9gctlGZk8t31nABHfNISz8o2ykrw/FV2Am5HI1XwOJbMbCLvgv2vgoHaRuiM55AZ4Qsy//54f5PlUZFywNd62GE2rQL9jdmHdWvsevSOWTJbnOA5gc2WBfLow2BNa0HQ1+psogZg964ZzQSdhI0A91wP/IN5dPjGsk2upAgwpKDzvv1hHVhuoi69g+p9moYvNJdN2iKIKSfPswZNvItDFBYuZdUACjV7tQJyCesx7/+/5JHoMpIymRTHehqHM1AXVy7Gx5n7fei7awbIZyaWS8Onqcblxf36K482h/gamMm0LVSxWYU=;uv+9DRMMcE4xpiiDzIpY6w=="
+secured: "pb1sAhm5bVOZSPyFUmeG173Hqdmbo/jJr8VIKj7N7qKZylY6kZNkwUSel92EKOCKhwBPTKwwMTzQuPD18PebwCjH8q87r/me7Ngpa7BQD7GRXbT+alQJNRakEbc587LmxEwjOD3wIDYAQYXWyyyw8THX6G/d1Zkuxcxu33Bl8zWy8Vmp5H1J1RkIJ2z/CUpoMkQYq6Yn0l6/EfPOLxVtsIj0U8E3/dA8iFUa3/w6igc27bqTF48Bkn0R13a9dh+Z75zp5Jar/HnQXBmeLzIBXNGn7tBW727L9kyQoEghmveFj9FQg8upkx3+mmBPRxiZJ6O2uFkQA/3dorPcDbBFJ9l7l5X/toBGZuqPF6qMLxc=;msUUGGUTr4frhJrZkUrYsg=="
 ---
 
