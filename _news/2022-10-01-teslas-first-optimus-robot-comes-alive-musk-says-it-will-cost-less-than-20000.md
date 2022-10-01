@@ -435,6 +435,20 @@ related:
         width: 2708
         height: 1360
         isCached: true
+  - title: "Watch: Musk Reveals Tesla Robot Optimus as It Walks Slowly on Stage"
+    excerpt: "Elon Musk unveiled a prototype of Tesla’s humanoid robot Optimus, part of an effort to shape perception of the company as more than just a car maker. The Tesla"
+    publishedDateTime: 2022-10-01T14:50:00Z
+    webUrl: "https://www.wsj.com/video/series/on-the-news/watch-musk-reveals-tesla-robot-optimus-as-it-walks-slowly-on-stage/9D7B3648-4BEF-4E02-B73B-05A0E5D1FE8E"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 86
+    images:
+      - url: "http://images.wsj.net/im-635301?width=1280&height=720"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "How to Watch Elon Musk Reveal His Robot at Tesla AI Day"
     excerpt: "Despite most of our info on Tesla AI Day coming from guerilla marketing on Musk’s Twitter, the Tesla and Boring Company CEO clearly wants us to take it more as an industry event than a commercial. With that in mind,"
     publishedDateTime: 2022-09-30T18:02:00Z
@@ -685,6 +699,6 @@ related:
       domain: thesun.co.uk
     quality: 28
 
-secured: "3geqL03QstDq5ZgVHfdFO87w29SMtHyT3hHQ8qQNvlXlA932KH5IYYXLRstxFJdxOGZDm9jhTHjERg1ANPd3l04xjfCc41Itnr0OlV93E/OAc/4KP7dSKAhbzenh4JA6Oi6E/ksyajMStiwdQkrcJZm188OIukHqHopUR81/diDYK/BhrHtEn4NDPb++AMdTnQNB5MyxMJ6vga3jBanPxBMC53eWXmVC4dC7l8AvFOIjSb0Vg77cVUwdazdm59oTZL2Zqxb8p2E97aJ77JR9+nZnxADa4vveJGtRYxElAtvuPBU5hQI00ygwcUOsRNi5YejTij/KBcWsGLKa/bSYBbCOmYN28pK0mnZc9P2N4d4=;8y5DxZATO+YW2yNc1GZ9Fg=="
+secured: "5HBUhjJhtgKJB4L+QnyPxs/mCjqSJw1GN9MhMoOoqjvJfO7gduATeGWE5Oy5Z5CzedB3S5G8Wcb/WvevpOyDr6CCQHjRAaCy6vC1qpMgvrSdMg3MwhRamqS8o2eVEk4uTPn7/O9rMY1aBwbO/fbkN36s8JV3Kb/gsrkm1+WT+xXT7/iFh8FU0hAh7kpRFD5IpJimD8m4NHUNU9/DYrzdwSPkTXWVbEyStQy4rwMyoKLHc/M7T7kVCcMbq45tRzE0MJJCkbopYcENMlI+UVTAyccJOg8VnZVaJYmTd4GKRs8CgBICUc7xiB3zdLv0n3Jnsv07OPdOfJPUnjZeDj5DMI7gQGHoo4JVKR7Jd7JGT+rj+EgwMp4ubB/r/N8QvQ+pzz2S1PTcNv8ZH3metzSVGh3bpau878/0mpEIWMjPwKZx5vNyxy8eYUrBmgZwJiNM/J2zBsFv27CBUSFqPvl/0DZdBKuIEFzRWlrjb3/OpTrn8+0ZkWp/IcQNOZNmcwLVbk17dnqfPzeHEq0QOav6aw==;/+yhm5e/0qLo6CMQBVJHqA=="
 ---
 

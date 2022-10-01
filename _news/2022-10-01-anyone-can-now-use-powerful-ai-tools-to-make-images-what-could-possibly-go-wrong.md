@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Anyone can now use powerful AI tools to make images. What could possibly go wrong?"
-excerpt: "If you've ever wanted to use artificial intelligence to quickly design a hybrid between a duck and a corgi, now is your time to shine."
-publishedDateTime: 2022-09-30T21:25:00Z
-originalUrl: "https://localnews8.com/life/technology/2022/09/30/anyone-can-now-use-powerful-ai-tools-to-make-images-what-could-possibly-go-wrong/"
-webUrl: "https://localnews8.com/life/technology/2022/09/30/anyone-can-now-use-powerful-ai-tools-to-make-images-what-could-possibly-go-wrong/"
+excerpt: "The move will likely expand the reach of a new crop of AI-powered tools that have already attracted a wide audience and challenged our fundamental ideas of art and creativity."
+publishedDateTime: 2022-10-01T16:12:00Z
+originalUrl: "https://www.wmur.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+webUrl: "https://www.wmur.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+ampWebUrl: "https://www.wmur.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
+cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
 type: article
-quality: 33
-heat: 33
+quality: 53
+heat: 63
 published: false
 
 provider:
-  name: Local News 8
-  domain: localnews8.com
+  name: WMUR
+  domain: wmur.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://localnews8.b-cdn.net/2022/09/hypatia-h_f1d7406a44b77e44a11fe180b724d655-h_526e72dcb41c83dd4880165dd446fa8a-300.jpg"
-    width: 1600
-    height: 1600
+  - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-3c09dfff59686ea0cf8955d05b8f2d28-h-526e72dcb41c83dd4880165dd446fa8a-1664643570.jpg?crop=1.00xw:0.564xh;0,0.268xh&resize=1200:*"
+    width: 1200
+    height: 676
     isCached: true
 
 related:
@@ -40,6 +42,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "iEIA/KjXkd8swtrHrPToRbcMAecvgogJ3t4PHj8neq9Y3EteIqibV+oRomfSTt9AoXCqxPdC94biHrQ5UTgtsh0cgxNgIw8YhogF6vtV2MO3ummYPlv0JjWbz8RCnjYA648WZHQ17OUOgocI2l7mAGKb7Qcnrhd+4b+ISN0so7ADe2SUuconI+u0K5o71zO1ZRt4lwCRn38ZBYiiXxcIsvHrj/HlyC+6M1UWADui8WXUKkXmDZ3E+7be/ov2GzghRXMlMvbGtJK70aFP8DontZVl32o1ETPNzZkFlfudVIstDysAcrIR4AAJbE2oUJmYKPy8QqAgJHaeqMlFKJcCaDZwAsAbGG1MQTHG0GsJbhdByEKOjtRV72NuTA0LGlCu4cYOqIsdIgkwyCjkIYaH3iHKxV0U0Pa3x5yoGZES9sXKCJEWcMfHi3utw0/vxEBZC2/i+yVgCnV6S8ijSC+nnEoOwR0bGSetVIjF9Q5SbP42dY36ksAKiba+LOt5wuC7/Zim9big5SwbQwEJUBL9xw==;2Ueyx5ht96d9y2k3MBrcBQ=="
+secured: "CUzNeT3u35B/wYy/MoWm6rDpNITV0857+kT8QIbS5oJKwz8qaYV7NdD8ryi7bIzXqIGMmy2AiKWDNiw2Lo15n2PzbchDW4V0on8uLbt4znIZmHZ/NQdAyAOyoMv8SrwUI0BWKMFoH+BeyNb7SLR3ww+Tcw4VJSvwVlDyERDOpXta/2tkDWe1dwk/mHIBRYP7syAISBr6Pm6d1tWg1C4oUtx90w/aBKFIQqtmF6+oiPvRNxfoWxd85ppUqZbl2fIMCZLQ/wwLVRhqtgCBDj9ptPP+4MS3cKF7i1Fvl06Tp+svdmeYIkwnlDSyVX3txlesEmItx3nCkcpdTNThQhEYRrt1khdTRA48H0kT5Tp1g4g=;e+fyZ/iaZAML3c9r/LuZAA=="
 ---
 

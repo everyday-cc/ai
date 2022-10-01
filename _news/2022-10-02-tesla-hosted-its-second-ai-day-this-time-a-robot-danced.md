@@ -1,0 +1,135 @@
+---
+category: news
+title: "Tesla Hosted Its Second A.I. Day. This Time a Robot Danced."
+excerpt: "Tesla provided investors with updates about its autonomous driving efforts and a labor-saving humanoid robot on Friday. Investors have other concerns."
+publishedDateTime: 2022-10-01T17:14:00Z
+originalUrl: "https://www.barrons.com/articles/tesla-robotics-artificial-intelligence-51664643126"
+webUrl: "https://www.barrons.com/articles/tesla-robotics-artificial-intelligence-51664643126"
+ampWebUrl: "https://www.barrons.com/amp/articles/tesla-robotics-artificial-intelligence-51664643126"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-robotics-artificial-intelligence-51664643126"
+type: article
+quality: 76
+heat: -1
+published: false
+
+provider:
+  name: Barron's
+  domain: barrons.com
+
+topics:
+  - AI in Robotics
+  - AI
+  - AI in Autos
+
+images:
+  - url: "https://images.barrons.com/im-634613/social"
+    width: 1280
+    height: 640
+    isCached: true
+
+related:
+  - title: "Tesla unveils the hands of its humanoid robot ahead of full unveil today"
+    excerpt: "Tesla is teasing the hands of its humanoid Optimus robot that is going to be fully unveiled at its AI Day event later today. Today, Tesla is expected to hold its AI Day 2 in Palo Alto starting at 5 p."
+    publishedDateTime: 2022-09-30T15:18:00Z
+    webUrl: "https://electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/"
+    ampWebUrl: "https://electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 105
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Robot-hands.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Tesla previews humanoid robot, but Musk cautions it is not ready just yet"
+    excerpt: "Tesla CEO Elon Musk said on Friday the electric vehicle maker's eagerly anticipated humanoid robot 'Optimus' would cost under $20,000 and cautioned it still had way to go before becoming fully functional."
+    publishedDateTime: 2022-10-01T01:30:00Z
+    webUrl: "https://www.reuters.com/article/tesla-robots/tesla-previews-humanoid-robot-but-musk-cautions-it-is-not-ready-just-yet-idUSKBN2QV10V"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 85
+    images:
+      - url: "https://www.reuters.com/resizer/gx_3f22a3kYh8h4YmjMhdjZEvNM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WWSNDUO46JPIHMZLGYLX5S6FKQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Tesla AI Day: Here’s what to expect in Palo Alto tonight"
+    excerpt: "Tesla will hold its second annual AI Day in Palo Alto Friday evening. The 6-hour event will include updates on Tesla’s work in AI, “Full Self-Driving,” its supercomputer"
+    publishedDateTime: 2022-09-30T17:49:00Z
+    webUrl: "https://www.eastbaytimes.com/2022/09/30/tesla-ai-day-in-palo-alto-heres-what-to-expect/"
+    ampWebUrl: "https://www.eastbaytimes.com/2022/09/30/tesla-ai-day-in-palo-alto-heres-what-to-expect/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/09/30/tesla-ai-day-in-palo-alto-heres-what-to-expect/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 76
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/09/hypatia-h_5f674fbb74773d0b1a5da54f0814323e-h_2c8f0881fb060bc947bc53300013629c.jpg?w=1024&h=575"
+        width: 1024
+        height: 575
+        isCached: true
+  - title: "Tesla AI Day in Palo Alto: Here’s what to expect"
+    excerpt: "Tesla will hold its second annual AI Day in Palo Alto Friday evening. The 6-hour event will include updates on Tesla’s work in AI, “Full Self-Driving,” its supercomputer"
+    publishedDateTime: 2022-09-30T17:49:00Z
+    webUrl: "https://www.eastbaytimes.com/2022/09/30/tesla-ai-day-in-palo-alto-heres-what-to-expect/"
+    ampWebUrl: "https://www.eastbaytimes.com/2022/09/30/tesla-ai-day-in-palo-alto-heres-what-to-expect/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/09/30/tesla-ai-day-in-palo-alto-heres-what-to-expect/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 76
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/09/hypatia-h_5f674fbb74773d0b1a5da54f0814323e-h_2c8f0881fb060bc947bc53300013629c.jpg?w=1024&h=575"
+        width: 1024
+        height: 575
+        isCached: true
+  - title: "Musk previews Tesla's humanoid robot, but cautions it is not ready just yet"
+    excerpt: "Tesla CEO Elon Musk on Friday showed off a prototype of 'Optimus', predicting the electric vehicle maker would be able to produce millions of them and sell them for under $20,000 - less than a third of the price of a Model Y."
+    publishedDateTime: 2022-09-30T11:06:00Z
+    webUrl: "https://gazette.com/news/us-world/musk-previews-teslas-humanoid-robot-but-cautions-it-is-not-ready-just-yet/article_93d41ecf-4f66-51e7-9f32-cb0b2e8ae204.html"
+    type: article
+    provider:
+      name: The Gazette
+      domain: gazette.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/9/4d/94d03c46-8d11-5db0-b328-3c9d5016c862/6336f4493b701.image.jpg?crop=800%2C420%2C0%2C22&resize=800%2C420&order=crop%2Cresize"
+        width: 800
+        height: 420
+        isCached: true
+  - title: "Tesla shows off humanoid robot, supercomputer potential at AI Day"
+    excerpt: "Tesla (NASDAQ:TSLA) unveiled its humanoid robot at its AI Day event late on Friday. Optimus was not ready to walk on stage quite yet, but waved to the crowd and raised its knees. The AI-powered Optimus robot features a 2."
+    publishedDateTime: 2022-10-01T13:02:00Z
+    webUrl: "https://seekingalpha.com/news/3887722-tesla-shows-off-humanoid-robot-supercomputer-potential-at-ai-day"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 51
+  - title: "Elon Musk teases unveiling of spectacular humanoid robot that could replace human workers"
+    excerpt: "The human-link robots will be powered by artificial intelligence and could one-day carry out a number of helper roles."
+    publishedDateTime: 2022-09-29T21:23:00Z
+    webUrl: "https://www.express.co.uk/news/science/1676198/elon-musk-telsa-humanoid-robot-optimus-bot"
+    ampWebUrl: "https://www.express.co.uk/news/science/1676198/elon-musk-telsa-humanoid-robot-optimus-bot/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1676198/elon-musk-telsa-humanoid-robot-optimus-bot/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 50
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/Elon-Musk-1676198.jpg?r=1664489938220"
+        width: 590
+        height: 350
+        isCached: true
+
+secured: "i028fCYjBuAHl38ib8+VORa2cBaQK0ppTKicxh9qPrgK6ZqUgbzfV51Xfki1pAC6UrtmgFNO6byleFG6hxzXKGrp/7HVBQGLKHVNDsVAKCNP2945i7ki+Y5qRNQrUoeGB9F4Xbi8reodNRuWGYYcOmxcol5cKqRZ46Vzs/FbBQ1NFdsMJ11YPL++gU2K66omJnupXNLb2mQIfl7GmPkBEDSrYQVTk+mjoMKeB6aYfDkH+GLk093LLDC3vQ4gXfRGtuz5BssOmxIps8kAx6M01fZCfaXnFUyXCYWXpOF8ygGzGCZ5a9ZlG9yxGbhrqZwzxjQil0dxU93dq5a9zx9GUpbGL4iJSKFuSqWzi7GeFr8=;uQ/aJPurxnnePuDo2tB+GA=="
+---
+

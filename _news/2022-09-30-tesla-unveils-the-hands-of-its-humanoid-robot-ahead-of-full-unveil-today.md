@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/am
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/amp/"
 type: article
 quality: 105
-heat: 165
+heat: 175
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
       - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/09/hypatia-h_5f674fbb74773d0b1a5da54f0814323e-h_2c8f0881fb060bc947bc53300013629c.jpg?w=1024&h=575"
         width: 1024
         height: 575
+        isCached: true
+  - title: "Tesla Hosted Its Second A.I. Day. This Time a Robot Danced."
+    excerpt: "Tesla provided investors with updates about its autonomous driving efforts and a labor-saving humanoid robot on Friday. Investors have other concerns."
+    publishedDateTime: 2022-10-01T17:14:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-robotics-artificial-intelligence-51664643126"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-robotics-artificial-intelligence-51664643126"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-robotics-artificial-intelligence-51664643126"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 76
+    images:
+      - url: "https://images.barrons.com/im-634613/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Musk previews Tesla's humanoid robot, but cautions it is not ready just yet"
     excerpt: "Tesla CEO Elon Musk on Friday showed off a prototype of 'Optimus', predicting the electric vehicle maker would be able to produce millions of them and sell them for under $20,000 - less than a third of the price of a Model Y."

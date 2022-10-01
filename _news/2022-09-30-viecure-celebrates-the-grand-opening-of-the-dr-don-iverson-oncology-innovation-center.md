@@ -1,23 +1,29 @@
 ---
 category: news
 title: "VieCure Celebrates the Grand Opening of the Dr. Don Iverson Oncology Innovation Center"
-excerpt: "VieCure Inc., a cancer care company with a market-leading artificial intelligence, informatics, and clinical decision support platform, announces further facility investments and employee expansion in"
-publishedDateTime: 2022-09-29T18:20:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/b29083371/viecure-celebrates-the-grand-opening-of-the-dr-don-iverson-oncology-innovation-center"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/b29083371/viecure-celebrates-the-grand-opening-of-the-dr-don-iverson-oncology-innovation-center"
+excerpt: "The Iverson Innovation Center is designed to simulate, for oncologists and cancer care thought leaders, the patient treatment experience in the new and emerging era of precision oncology. In recent years there has been a large shift towards the use of cancer treatments that respond specifically to the molecular profile of the cancer (e."
+publishedDateTime: 2022-09-29T18:21:00Z
+originalUrl: "https://www.eagletribune.com/region/viecure-celebrates-the-grand-opening-of-the-dr-don-iverson-oncology-innovation-center/article_04e18a6f-99ea-557a-88c5-07f818573055.html"
+webUrl: "https://www.eagletribune.com/region/viecure-celebrates-the-grand-opening-of-the-dr-don-iverson-oncology-innovation-center/article_04e18a6f-99ea-557a-88c5-07f818573055.html"
 type: article
-quality: 0
-heat: 0
+quality: 16
+heat: 16
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "SMAeP1tsA004Kx0mR996YhOjGnfz6mChM93IVPIHwOg51wN2oJxFwKmlfXELa0edU6sJriiCgEPth4dOlMGX2OA7HiLLnWKNn7tIn7D+vrc3NTSkG+ihlV6mh1vTIP76/Rp4nSD29nnngiqJjtk45br2Z7kDWS+Racp1i3h5RCNUeY3r6d10TmgSLREm+IMHBwPEIz896QbkE2oEDbbBmIejNgf+bEGcEosxge9H8WPL3EmNoJOqCUum2xgT5irZ78C405Yj93q9fn8L3UpuTDt72w8fDrYbyHm7tEmFbIMShy0Q4t4hzSlj3vb1cVsPNtFR0AovCvSxwbGB/GU1xmK/xcOgsY1awF2Jx8auCsk=;eGCDCzB6xX9SWzhe8973DA=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/2/41/241fe3af-69ca-58f7-acd1-9850beef83dc/6335e3a1710ad.image.jpg?crop=1660%2C872%2C0%2C188&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "LxaFUpJDoZIKNWqWDniARScCwa7dHDZZu9XqX8PndLJ7tSHyqNikdJXUTMSGVDO9bUZjOy3c3wuXyYgvgGiCHAza+1DlAnD9V69GLYVEwWgzewsCv66pQK/IEOmarOYIRNeTX24HzzKp+LrRMAK6RxjVUEGdzZTDfHMCuYYcedhzoPKzyIPoVhnNcupOOYjrHKFrg+fy21jPtKzbAbSKLvA10DH5FNMlTTF4wtUyuXaWqQujCfY7ZDc0CQsoh8sQc3xdLpa1MRzb8oIooo002y9DEMPGKQocB9Pv712s++mXPMUsMn1DcKzw2Wr4V/vhwPayTh/VxINeuzeb+DebSFNRccLD16YSAIjJBgeZ7bM=;FkV6rDO4y8vBhULxPR9N+Q=="
 ---
 

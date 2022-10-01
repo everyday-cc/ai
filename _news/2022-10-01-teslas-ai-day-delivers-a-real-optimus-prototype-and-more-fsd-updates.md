@@ -435,6 +435,20 @@ related:
         width: 300
         height: 600
         isCached: true
+  - title: "Watch: Musk Reveals Tesla Robot Optimus as It Walks Slowly on Stage"
+    excerpt: "Elon Musk unveiled a prototype of Tesla’s humanoid robot Optimus, part of an effort to shape perception of the company as more than just a car maker. The Tesla"
+    publishedDateTime: 2022-10-01T14:50:00Z
+    webUrl: "https://www.wsj.com/video/series/on-the-news/watch-musk-reveals-tesla-robot-optimus-as-it-walks-slowly-on-stage/9D7B3648-4BEF-4E02-B73B-05A0E5D1FE8E"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 86
+    images:
+      - url: "http://images.wsj.net/im-635301?width=1280&height=720"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "How to Watch Elon Musk Reveal His Robot at Tesla AI Day"
     excerpt: "Despite most of our info on Tesla AI Day coming from guerilla marketing on Musk’s Twitter, the Tesla and Boring Company CEO clearly wants us to take it more as an industry event than a commercial. With that in mind,"
     publishedDateTime: 2022-09-30T18:02:00Z
@@ -685,6 +699,6 @@ related:
       domain: thesun.co.uk
     quality: 28
 
-secured: "qt610ggECNn5uxvJcP6zCpXSMoiG8EHe/HI6xXRrK2IlBzHf/2/DBe8ZgdapZnUmxppgSl5GSOH4+H27JJMkxOBegw+9Lp7mwd/newNRrBhCDpy/niAYNvaolcz13yor+Ti9tg55/zBwnYJJyXFWer7IJ4MVAon0EmKlfzTGRZ9YCCeHsfpdZ2WyJn2t5IasaQHFzzCDZ+woIH0a5cGIdnUM3EB60E6tgZpX29k65YwNIaH+OFaWoybM0ub2NgwQ6widSbJDTMiNIKfGvsHbvW/Va/V5Gq91Ht2u+U1yOLRIJVDsSI+65ytCOR4YZ1UyQTnhwVLd/ZPbv+zNTqZQ0tWpQ6+ewJuDWwtLy7N/gsM=;Twf9FuNPgkuzuXTqwhMLyg=="
+secured: "DwFBlEHPvI5lG4NSnd8EBwnmHTSNeGMiuLZkrq6OHcoor5dDF1UacYL3HK4p/poTglUSCU4ZcVKeBcO9uxYSuPdURNRtUDjYunJixJLVisOvDyX8gCmQSUzC9ktVVccsLZ3spqStrboUvsfJE38/HbTPB4KMgKzOZERL+WpeyRRqkXi6JSZl5kWZJOO/+5//BcoT9f6ALANkF0OxNscDdutmRVLAI0aj3gsbDwZDjTrS/WY4kdwKxWOjsTx+R5mTqRpf57soYGe2Ob5TKIxTRUUlGIeFYWZzEFIKtZJLZU0aIMe86Tw74mObUU28MXPxYGPia/VGQ3NdhhgQEJLbYvWHzkplbl/eQfCk3bz17NM2SouVeJrmbM4L2LegIcPC2Fw6mvHFtC0fZpZ61+QiCumdANtdtxKUI1vLuReZF+NF35fBH4BO2PmXTlPdGwgiqX43MEfBzlHa7eJxIH8srt7hlrC+iw4PS7ZBajTc5wiMnAJ0hIVh0gJcBFtRLboDbHxTU2T+SA8hX0vHdaUvDA==;LQ9Tvw1aW84gcoa5cmO8XA=="
 ---
 

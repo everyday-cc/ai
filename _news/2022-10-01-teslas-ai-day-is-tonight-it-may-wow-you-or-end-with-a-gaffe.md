@@ -1,28 +1,33 @@
 ---
 category: news
-title: "Tesla’s AI Day is tonight. It may wow you — or end with a gaffe"
-excerpt: "By Matt McFarland, CNN Business Tesla will hold its second annual AI Day in Palo Alto, California, Friday evening. The six-hour event will include updates on Tesla’s work in artificial intelligence, “Full Self-Driving,"
-publishedDateTime: 2022-09-30T17:34:00Z
-originalUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2022/09/30/tesla-ai-day-heres-what-to-expect/"
-webUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2022/09/30/tesla-ai-day-heres-what-to-expect/"
+title: "Tesla’s AI Day is tonight. It may wow you – or end with a gaffe"
+excerpt: "Tesla will hold its second annual AI Day in Palo Alto, California, Friday evening. The six-hour event will include updates on Tesla's work in artificial intelligence, \"Full Self-Driving,\" its supercomputer \"Dojo\" and maybe a humanoid robot,"
+publishedDateTime: 2022-09-30T20:28:00Z
+originalUrl: "https://edition.cnn.com/2022/09/30/tech/tesla-ai-day-preview"
+webUrl: "https://edition.cnn.com/2022/09/30/tech/tesla-ai-day-preview"
+ampWebUrl: "https://amp.cnn.com/cnn/2022/09/30/tech/tesla-ai-day-preview/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/30/tech/tesla-ai-day-preview/index.html"
 type: article
-quality: 56
-heat: -1
-published: false
+quality: 104
+heat: 144
+published: true
 
 provider:
-  name: KTVZ
-  domain: ktvz.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
   - AI
   - AI in Autos
 
 images:
-  - url: "https://ktvz.b-cdn.net/2022/09/hypatia-h_5f674fbb74773d0b1a5da54f0814323e-h_2c8f0881fb060bc947bc53300013629c-300-860x484.jpg"
-    width: 860
-    height: 484
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210819234639-01-tesla-robot-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -78,6 +83,6 @@ related:
       domain: stuff.tv
     quality: 36
 
-secured: "sLnzYrnYbPPRQ9yAy8uMxw+Y0c1MAyF9Cx5QrPwJPDMf6+AZLJ0ey+NA4S6ypiIZuQXIKPjOZR+NnGn2ofc5U0rXGXEN7rb8SSDQHfo5W3N6D1QUKVpH6v4CTs2HYgPoVyxt2gzS0KER1zoqsl2YEwCO6YpXwrrPecX8rPe2bxCUgFmoc7QBIg6+WqdFXeKiczN/fEs4tRKRcmFLeJiljvReEHl9CUaYndIcacX1c4BpgyOHoYKRhDTrCBbZZ7hV07/ZftYt/uKJ7H67IBNkuZONhrs/GJx394GgfbYpO96/7nrPrFHMGP4rq677Ri9tJOWLYPo3bJHKWvGoIZBdkEHi4zrl8D3pel1KnWWhx0g=;brsPcy9JoHZnkktXd5noEA=="
+secured: "43WuigULzfs+SY810zMhe4pGawZW+tNvYlof/no67aRBI18hx4vzf0H7JXjMy3zpON0Cuhx80KGJxLltk9sqjcZzxp3ZfYdrRthCZ3rpzdVFi1/bs4ylrF0fmzr+P5K19MYD5/6RsKV/S8rbEiZhzB4u9GtHT4fkTrzRxr4bCBAU8l1KD3HtOjq6/XNlj42p48Wgjw1xjUh3ScqaJbbT9pWgnnenblrNopE3wFFrGCykTeizFQYpp9YXASL5F4yMWz6YxcA1DxHxSjzR60UinY/ofyi/NprxxnmoeqrLeb6H3nOMGTqHnAPx3mtkE8RMMTr3Bjh7ekWGdXCPwt53C2t6hMrACadC3szSik4JCmY=;K8qn5gOW78vt8WbrAK5f2Q=="
 ---
 

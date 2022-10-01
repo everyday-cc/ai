@@ -444,6 +444,20 @@ related:
         width: 2708
         height: 1360
         isCached: true
+  - title: "Watch: Musk Reveals Tesla Robot Optimus as It Walks Slowly on Stage"
+    excerpt: "Elon Musk unveiled a prototype of Tesla’s humanoid robot Optimus, part of an effort to shape perception of the company as more than just a car maker. The Tesla"
+    publishedDateTime: 2022-10-01T14:50:00Z
+    webUrl: "https://www.wsj.com/video/series/on-the-news/watch-musk-reveals-tesla-robot-optimus-as-it-walks-slowly-on-stage/9D7B3648-4BEF-4E02-B73B-05A0E5D1FE8E"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 86
+    images:
+      - url: "http://images.wsj.net/im-635301?width=1280&height=720"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "How to Watch Elon Musk Reveal His Robot at Tesla AI Day"
     excerpt: "Despite most of our info on Tesla AI Day coming from guerilla marketing on Musk’s Twitter, the Tesla and Boring Company CEO clearly wants us to take it more as an industry event than a commercial. With that in mind,"
     publishedDateTime: 2022-09-30T18:02:00Z

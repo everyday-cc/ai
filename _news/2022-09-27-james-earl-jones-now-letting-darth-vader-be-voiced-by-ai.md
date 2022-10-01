@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "James Earl Jones steps back from voicing Darth Vader, signs off on using archived recordings to recreate voice with AI"
-    excerpt: "James Earl Jones, who has voiced Darth Vader for nearly 50 years of “Star Wars” films, seems to be stepping away from the role. According to Vanity Fair, the 91-year-old actor has signed off on archival voice recordings being used by young filmmakers,"
-    publishedDateTime: 2022-09-27T00:31:00Z
-    webUrl: "https://www.nbcnews.com/news/nbcblk/james-earl-jones-steps-back-voicing-darth-vader-signs-using-archived-r-rcna49393"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna49393"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna49393"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 63
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-09/220926-james-earl-jones-darth-vader-jm-0922-1a147b.jpg"
-        width: 2100
-        height: 1400
-        isCached: true
   - title: "James Earl Jones Hands Over The Voice Of Darth Vader To Artificial Intelligence Technology"
     excerpt: "The famous voice of Darth Vader, James Earl Jones, is retiring as the \"Star Wars\" villain, handing over the responsibility to AI technology."
     publishedDateTime: 2022-09-27T16:00:00Z

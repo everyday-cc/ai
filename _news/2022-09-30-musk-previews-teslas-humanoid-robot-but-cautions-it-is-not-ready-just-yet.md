@@ -88,6 +88,22 @@ related:
         width: 1024
         height: 575
         isCached: true
+  - title: "Tesla Hosted Its Second A.I. Day. This Time a Robot Danced."
+    excerpt: "Tesla provided investors with updates about its autonomous driving efforts and a labor-saving humanoid robot on Friday. Investors have other concerns."
+    publishedDateTime: 2022-10-01T17:14:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-robotics-artificial-intelligence-51664643126"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-robotics-artificial-intelligence-51664643126"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-robotics-artificial-intelligence-51664643126"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 76
+    images:
+      - url: "https://images.barrons.com/im-634613/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Tesla shows off humanoid robot, supercomputer potential at AI Day"
     excerpt: "Tesla (NASDAQ:TSLA) unveiled its humanoid robot at its AI Day event late on Friday. Optimus was not ready to walk on stage quite yet, but waved to the crowd and raised its knees. The AI-powered Optimus robot features a 2."
     publishedDateTime: 2022-10-01T13:02:00Z

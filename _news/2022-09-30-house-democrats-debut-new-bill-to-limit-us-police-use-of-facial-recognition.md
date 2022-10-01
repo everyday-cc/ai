@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/09/29/house-democrats-facial-recognition
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Star casinos to use more facial recognition"
-    excerpt: "The Star was found “ unsuitable to hold a casino licence in NSW ” following the release of a damning report into its practices, particularly around fraud prevention and risk. In a bid to keep its licence,"
-    publishedDateTime: 2022-09-27T00:51:00Z
-    webUrl: "https://www.itnews.com.au/news/the-star-casinos-to-use-more-facial-recognition-585734"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/CRN_roulette_casiono_gambling.jpg"
-        width: 690
-        height: 428
-        isCached: true
   - title: "Restrictions on police use of facial recognition proposed in US Congress"
     excerpt: "The legislation would also prohibit use of face biometrics in the enforcement of immigration laws, on body cameras, during protests, and on live video feeds."
     publishedDateTime: 2022-09-30T19:23:00Z

@@ -78,20 +78,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "The AIs are here: Robodogs, Amazon's Astro and more. Attachment issues!"
-    excerpt: "Astro is the trillion-dollar company's latest foray into artificial intelligence devices, combining Alexa, the Ring monitoring camera and even a cup holder that comes with the device. A review of the Astro in The Wall Street Journal was lukewarm,"
-    publishedDateTime: 2022-09-27T00:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/09/27/the-ais-are-here-robodogs-amazon039s-astro-and-more-attachment-issues"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/09/26/1752047.jpg"
-        width: 1240
-        height: 826
-        isCached: true
 
 secured: "eTIdTzIGf12A7nxvHx5S6ERJHynxCtn1gVC+xaUtpKN719qU/iP9NKK6AAz8ylZ9Fi3lspyh0EGhFH9qwx6Pli4Y4K83+uf1XqNEjDnQ9EBUeg4YrJSA4RgV8IPL2BDWzr3efaW/Cb1nwKeyvb9znReE4RGaueMOK5ybNAIKjjccQppCNA9KF8KyzmuZqOQ4N2uDkdRorh/MYhj0H5cdhqexOKalW3NBuAnJ0m3npr3LAM2AqFGq7P/fHdXQwNYniw4aU8610/L2Ekn7RQ5uV/o0YZOkojR4/mDXO9khJi7WGTA25uxomahHnQwVBKwFHfld+VZoxMJwTwd4yTuaqvWoXdR2Zv/pzMo8jK3WA9izz2BUV1u1OcPUqreWvbgPXHVQdQ8sD/S4IChePQ9EYk2RXzXUZCwTvTzMm2UUlLjGvyl5AgSbse+XY8TDZNXGwwBy+DA9AZRJ8+PhUVdn/cCxZgjjhXG8SwH+erRdsVR6uSx5enwsXYTNCFiDcTHHtk92lH2AbFuWhTbYE2sc6A==;P2xi7+/5d5a7fo25xLN7/g=="
 ---

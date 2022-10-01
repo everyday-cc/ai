@@ -141,6 +141,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Market 2022: Industry Insight, Drivers, Top Trends, Global Analysis and Forecast by 2027"
+    excerpt: "The global facial recognition market reached a value of US$ 5.0 Billion in 2021. IMARC Group expects the market to reach US$ 15.6 Billion by 2027, exhibiting a CAGR of 21.2% during 2022-2027."
+    publishedDateTime: 2022-09-27T19:54:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/ab29041902/facial-recognition-market-2022-industry-insight-drivers-top-trends-global-analysis-and-forecast-b"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29041902"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29041902"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/28171512/image-55-1024x683.png"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Artificial Intelligence in Video Games Market Segmentation, Future Trends, Growth Overview, Key Companies and Forecast by 2029 | 101 Report Pages"
     excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence in Video Games Market is projected to"
     publishedDateTime: 2022-09-30T01:02:00Z
@@ -189,6 +205,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 17
+  - title: "Global Facial Recognition Market to Reach USD 8946.11 Million | Growing at CAGR of 14.47% | Forecast Period 2022-2027"
+    excerpt: "The global Facial Recognition market size was valued at USD 3975.52 million in 2021 and is expected to expand at a CAGR of 14.47% during the forecast period, reaching USD 8946.11 million by 2027."
+    publishedDateTime: 2022-09-27T13:10:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-facial-recognition-market-to-reach-usd-8946-11-million-growing-at-cagr-of-14-47-forecast-period-2022-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 16
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/NOSPR-Japan-tour-©-Radoslaw-Kazmierczak-e1661992929441-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Artificial Intelligence in Diabetes Management Market to show impressive growth of 35.56% CAGR during the period 2022-2027 | 126 Report Pages"
     excerpt: "Report Pages] Artificial Intelligence in Diabetes Management market size was valued at USD 227.28 million in 2021"
     publishedDateTime: 2022-09-27T06:03:00Z
