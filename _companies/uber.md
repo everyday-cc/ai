@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "Uber"
   url: "https://twitter.com/Uber"
-  followers: 1089213
+  followers: 1089458
 
 locations:
   - Global
