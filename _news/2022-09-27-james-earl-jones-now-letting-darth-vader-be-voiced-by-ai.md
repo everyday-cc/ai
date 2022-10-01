@@ -24,34 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "James Earl Jones signed Darth Vader voice rights to Disney for AI use"
-    excerpt: "During the creation of the Obi-Wan Kenobi TV series, James Earl Jones signed off on allowing Disney to replicate his vocal performance as Darth Vader in future projects using an AI voice modeling tool called Respeecher,"
-    publishedDateTime: 2022-09-26T15:21:00Z
-    webUrl: "https://arstechnica.com/information-technology/2022/09/james-earl-jones-signed-darth-vader-voice-rights-to-disney-for-ai-use/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/darth_vader_pixels_1-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "Ukrainian AI Takes Over Darth Vader Voice From James Earl Jones"
-    excerpt: "James Earl Jones, voice of Star Wars' Darth Vader for nearly 50 years, is relinquishing his role to synthetic speech technology. According to Vanity Fair (Opens in a new window),"
-    publishedDateTime: 2022-09-26T15:27:00Z
-    webUrl: "https://www.pcmag.com/news/ukrainian-ai-takes-over-darth-vader-voice-from-james-earl-jones"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/06dTkkxaOH7LAfCoUcowmgy-1.fit_lim.size_1200x630.v1664191719.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "James Earl Jones steps back from voicing Darth Vader, signs off on using archived recordings to recreate voice with AI"
     excerpt: "James Earl Jones, who has voiced Darth Vader for nearly 50 years of “Star Wars” films, seems to be stepping away from the role. According to Vanity Fair, the 91-year-old actor has signed off on archival voice recordings being used by young filmmakers,"
     publishedDateTime: 2022-09-27T00:31:00Z

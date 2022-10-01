@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Meta is using AI to generate videos from just a few words"
-excerpt: "Artificial intelligence is getting better and better at generating an image in response to a handful of words, with publicly available AI image generators such as DALL-E 2 and Stable Diffusion. Now, Meta researchers are taking AI a step further: they’re using it to concoct videos from a text prompt."
-publishedDateTime: 2022-09-29T22:04:00Z
-originalUrl: "https://keyt.com/news/2022/09/29/meta-is-using-ai-to-generate-videos-from-just-a-few-words/"
-webUrl: "https://keyt.com/news/2022/09/29/meta-is-using-ai-to-generate-videos-from-just-a-few-words/"
+excerpt: "By Rachel Metz, CNN Business Artificial intelligence is getting better and better at generating an image in response to a handful of words, with publicly available AI image generators such as DALL-E 2 and Stable Diffusion."
+publishedDateTime: 2022-09-30T03:04:00Z
+originalUrl: "https://localnews8.com/money/cnn-social-media-technology/2022/09/29/meta-is-using-ai-to-generate-videos-from-just-a-few-words/"
+webUrl: "https://localnews8.com/money/cnn-social-media-technology/2022/09/29/meta-is-using-ai-to-generate-videos-from-just-a-few-words/"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KEYT
-  domain: keyt.com
+  name: Local News 8
+  domain: localnews8.com
 
 topics:
   - Facebook AI
   - AI
+
+images:
+  - url: "https://localnews8.b-cdn.net/2022/09/hypatia-h_03283525a8885fcfbfcb4766d4628f46-h_a463ea9a9fd8001bfba9f7fc89c66cfb-300.jpg"
+    width: 1600
+    height: 900
+    isCached: true
 
 related:
   - title: "Regie secures $10M to generate marketing copy using AI"
@@ -36,6 +42,6 @@ related:
         height: 675
         isCached: true
 
-secured: "CAoJt7qy8gcswYDs8EAhPk/oASEzuu6z5PvV2qzUkNGiTzOiPNPod31Bxcf7LNHM8UnFNJxcnOzlGBVdtcnxiSkOXhThr98qAN/s0zgwvtHoi1erRCRiPRKKc5i69JzlqveN+yoILiN1pzYgPmANEDn2PAgPoLTKQp8EAH1dlS2B6HthrUyKlAWX3W6h6dIOTgPuLA8CE8hvYEldviYr4D6Goa7GSKzRGPtq9q166PfXrn78qLrBYrlwlQWTEJ6ve0fUcg/WcUFqop6eQZMW8BRkXRs4J5HCxaizZ+gCjRkfqYCZ3E6NeIkPCM0kPy4tNrdzHobM1pAFXWZkUpl8dwQr1U0w+HyYDos3ynm2PHsskKeJDdxDd6VWJG2hm4AOSQJhyF5FK8ShDEzLuKwW6oUZ0smjO3CG125be9VdkAowLnTlv1llubWA6mqeExmnPtoPE38ARqk9TzeBCar3Kp7ZMsduEnfzH21xuJHxOppXPVuLBxS1jGnAXEnJLJIBB/slsd2e/EEW9a+u4CHdRg==;adTmsb0Q+YPpi7dTYfrHMw=="
+secured: "hkxHxm+hmKM+4zXB7s6mbfTUkJM3ShmF77YokV3BgT6oYm+e4d6YT6ptoSfGqK+MzM5f5UZf5vkca5pE1CqplYhYUSVfiVRj9Q77sZm2jcXE/uzoJbMcEvJjqsmB8b9Rl3GgbTC1IlLsLlx8PIl08+qdSyJFZk68tGqIh97jsK2C6A1K3IOq/6kdgV0FKoM4lXif5xqH5UAG0X+i+to/UVkIJXqPGvUyHEPScliTpD9F3T5AkqTVf7nkmvWEW5xzSCnYjly7Cjbc/2LNyqGPExpNA82TwvVahZriFjL2TVD03kUxfZhapm+Pvhz11MktruywG8SqF1fQfTMSZ7/801iKNC2LET4kjTTmb/jH5aY=;/z2arf0qDO8jxMsI7Y7KEQ=="
 ---
 

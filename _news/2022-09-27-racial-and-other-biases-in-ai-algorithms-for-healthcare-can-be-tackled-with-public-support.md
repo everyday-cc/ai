@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20220927/Racial-and-other-biases
 webUrl: "https://www.news-medical.net/news/20220927/Racial-and-other-biases-in-AI-algorithms-for-healthcare-can-be-tackled-with-public-support.aspx"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "Public support needed to tackle racial and other biases in AI for health care"
-    excerpt: "Members of the public are being asked to help remove biases based on race and other disadvantaged groups in artificial intelligence algorithms for health care."
-    publishedDateTime: 2022-09-26T16:56:00Z
-    webUrl: "https://medicalxpress.com/news/2022-09-tackle-racial-biases-ai-health.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-09-tackle-racial-biases-ai-health.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-tackle-racial-biases-ai-health.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 56
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/4-ai.jpg"
-        width: 1740
-        height: 1920
-        isCached: true
 
 secured: "axyIOYYXkXm0bRx19NqlvR3MKs+9qnu3RR0nbRa6EHGUA4O10Y626w5jwg0N0CYzSgDrRozKAvhj080D7Q2dRY9ugf73Dck06dHWkhQvUhy8iYL/h/F4B00OnI4ZK6TtFOx1rHEbXf3oCUfsVVGMSbmR8RdBO2rDZCcx1NzmXB7y6isyVgSesPPKQzJXioRKZ+IrQKQgLodmCWnTvaJ0GXiuTkxWD6Qr23lPST6Q+vQsa40+Yp/RhIsINKnwJ9Tg7lexIPEAcVXm2AlZDjt+JXniYB5TBYtGK7ZE6Gryw1kQQI9kFrrJQaeNIA8ZYDw7GRHXFOoyAapxZM0ZOaP31NylRGlIIVB6F2/iaXE0tbA=;GVTJn0vfguTKMfg4iwQD/g=="
 ---

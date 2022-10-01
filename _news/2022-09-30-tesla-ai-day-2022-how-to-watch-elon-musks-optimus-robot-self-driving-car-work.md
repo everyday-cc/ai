@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/"
 type: article
 quality: 133
-heat: 533
+heat: 543
 published: true
 
 provider:
@@ -192,6 +192,22 @@ related:
       - url: "https://www.digitaltrends.com/wp-content/uploads/2022/09/A-early-tethered-version-of-the-Optimus-prototype-could-deliver-a-box-to-a-desk.jpg?p=1"
         width: 1983
         height: 1322
+        isCached: true
+  - title: "Tesla Unveils Optimus, a Walking Robot That Could Arrive in 2027"
+    excerpt: "Two prototype Tesla Bots could walk, wave their arms and grip with fingers. CEO Elon Musk says they'll eventually cost $20,000 and should go on sale by 2027."
+    publishedDateTime: 2022-10-01T07:08:00Z
+    webUrl: "https://www.cnet.com/home/smart-home/tesla-unveils-optimus-a-walking-humanoid-robot-at-ai-day-2022/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-unveils-optimus-a-walking-humanoid-robot-at-ai-day-2022/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-unveils-optimus-a-walking-humanoid-robot-at-ai-day-2022/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 106
+    images:
+      - url: "https://www.cnet.com/a/img/resize/d0343d0443b1ded2a366707233a6882fd2b91b4c/hub/2022/10/01/3697671f-3da9-4ba5-adfe-1e8e7efeea7a/tesla-bot.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
         isCached: true
   - title: "How to watch Tesla’s AI Day today and what to expect"
     excerpt: "Tesla is holding its second AI Day on September 30, and a prototype of its humanoid robot is expected to make an appearance."

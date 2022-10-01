@@ -1,27 +1,35 @@
 ---
 category: news
-title: "Elon Musk’s robot is going to have to work hard to impress at Tesla’s AI Day"
-excerpt: "Elon Musk is expected to unveil a prototype of his Optimus robot — better known as When Musk announced last August that Tesla was developing a genera"
-publishedDateTime: 2022-09-28T19:57:00Z
-originalUrl: "https://www.theverge.com/2022/9/28/23376456/elon-musk-tesla-bot-ai-day-event-optimus-prototype-predictions"
-webUrl: "https://www.theverge.com/2022/9/28/23376456/elon-musk-tesla-bot-ai-day-event-optimus-prototype-predictions"
+title: "Tesla Unveils Optimus, a Walking Robot That Could Arrive in 2027"
+excerpt: "Two prototype Tesla Bots could walk, wave their arms and grip with fingers. CEO Elon Musk says they'll eventually cost $20,000 and should go on sale by 2027."
+publishedDateTime: 2022-10-01T07:08:00Z
+originalUrl: "https://www.cnet.com/home/smart-home/tesla-unveils-optimus-a-walking-humanoid-robot-at-ai-day-2022/"
+webUrl: "https://www.cnet.com/home/smart-home/tesla-unveils-optimus-a-walking-humanoid-robot-at-ai-day-2022/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-unveils-optimus-a-walking-humanoid-robot-at-ai-day-2022/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-unveils-optimus-a-walking-humanoid-robot-at-ai-day-2022/"
 type: article
-quality: 78
+quality: 106
 heat: -1
 published: false
 
 provider:
-  name: The Verge
-  domain: theverge.com
+  name: CNET
+  domain: cnet.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
+  - AI in Robotics
   - AI
   - AI in Autos
-  - AI in Robotics
+
+images:
+  - url: "https://www.cnet.com/a/img/resize/d0343d0443b1ded2a366707233a6882fd2b91b4c/hub/2022/10/01/3697671f-3da9-4ba5-adfe-1e8e7efeea7a/tesla-bot.jpg?auto=webp&fit=crop&height=630&width=1200"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Tesla AI Day 2022: How to Watch Elon Musk's Optimus Robot, Self Driving Car Work"
@@ -199,22 +207,6 @@ related:
       - url: "https://www.digitaltrends.com/wp-content/uploads/2022/09/A-early-tethered-version-of-the-Optimus-prototype-could-deliver-a-box-to-a-desk.jpg?p=1"
         width: 1983
         height: 1322
-        isCached: true
-  - title: "Tesla Unveils Optimus, a Walking Robot That Could Arrive in 2027"
-    excerpt: "Two prototype Tesla Bots could walk, wave their arms and grip with fingers. CEO Elon Musk says they'll eventually cost $20,000 and should go on sale by 2027."
-    publishedDateTime: 2022-10-01T07:08:00Z
-    webUrl: "https://www.cnet.com/home/smart-home/tesla-unveils-optimus-a-walking-humanoid-robot-at-ai-day-2022/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-unveils-optimus-a-walking-humanoid-robot-at-ai-day-2022/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-unveils-optimus-a-walking-humanoid-robot-at-ai-day-2022/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 106
-    images:
-      - url: "https://www.cnet.com/a/img/resize/d0343d0443b1ded2a366707233a6882fd2b91b4c/hub/2022/10/01/3697671f-3da9-4ba5-adfe-1e8e7efeea7a/tesla-bot.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
         isCached: true
   - title: "How to watch Tesla’s AI Day today and what to expect"
     excerpt: "Tesla is holding its second AI Day on September 30, and a prototype of its humanoid robot is expected to make an appearance."
@@ -415,6 +407,15 @@ related:
       name: CNET
       domain: cnet.com
     quality: 78
+  - title: "Elon Musk’s robot is going to have to work hard to impress at Tesla’s AI Day"
+    excerpt: "Elon Musk is expected to unveil a prototype of his Optimus robot — better known as When Musk announced last August that Tesla was developing a genera"
+    publishedDateTime: 2022-09-28T19:57:00Z
+    webUrl: "https://www.theverge.com/2022/9/28/23376456/elon-musk-tesla-bot-ai-day-event-optimus-prototype-predictions"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 78
   - title: "Elon Musk Set To Showcase Tesla's Humanoid Robot \"Optimus\" After Delay"
     excerpt: "Tesla CEO Elon Musk has said a robot business will be worth more than its cars, and on Friday investors, customers and potential workers expect to see a prototype at Tesla's \"AI Day\" that could prove whether the bot named \"Optimus\" is ready for work."
     publishedDateTime: 2022-09-30T11:21:00Z
@@ -599,6 +600,6 @@ related:
       domain: thesun.co.uk
     quality: 28
 
-secured: "uResi0xFPWVUGD8rv2Mac5CBPYxwt0AatpBp+VIx5Cvj1MHKIt0u8bbu9RlSNFSYN/NOCHAtCKPoZImiVPRSFBJGd7vQtIBkDu3dGF8nMu9rPs98bkbUyvfYVbJkgNiS0pqd0RwQK/w8G+konJR4Ov7I3tJLZLtF+KuX5H61SCAS6SD0G3QtAE2sCuCZ4vlx3WKKFhlLfJTkmJLU1O6vNNszP/kAGmqbKyGfS0vKlhhrJdsENZ/7uK2JqPmnHykD38sqUjGFHKR6Tf31pnjxdxQsC9ETh8jACskX4cesyuqLUDSWWsHkgpeS5SosEX0cZqYpz9brztsPqYFZKG0folHB5RMqxqrN3ajJCg+TCwRx9A28zhi1vNWA4mnp7L88wpk28uwdwCq4jPcSVpFPiElyA3Ml0OO/gJa8Yzw7OAzAE729kEOix/4scna82YOTFP+fFCQ8O9JNpnBMgOjeCMua11c3Jk2pVsf6dy/KHd0rvlI3FbRlQHjuUpJjpXrg8TAVbhO96Iimf2E2eyJgqQ==;KCfqIU1YVWPVo6CFBeJRHw=="
+secured: "vFM5LIGxcTTgsbVsEOmBcBTl9BLndjrn7nVeXqOeTvM4xdfD8FI+hB9vgfMwwBflwEVXn52SdLNfYu90HjNWSjQMPscVuhnm57N/JWSZRHIv8oARXfvMQukVDDziclEbc0dVCuuGRFCzwaN7J+sMkNEKLtJQFmRvboBh9C7/jEUt7Gt7VepzhCjTTTKj/DhCaIxzylz6QTJosMF/IEBfVwZzNOf/pQHx93Y6Iy/clDjFW+iJPugPg1Ysa/QFogWfyFyYuZhtrVP2YagLU6VxbMdPuGMFi1HSkPevrf5rwXwS8FVxLDFXwKzoaZ59vhwm+vlMmoLEuLIlUskm/VqaYNefraEIVghEC9vNF/tMDc4=;iiW1mVT41BbXHDw0O521Vw=="
 ---
 

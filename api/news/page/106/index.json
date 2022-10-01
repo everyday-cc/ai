@@ -2,6 +2,58 @@
   "page": 106,
   "value": [
     {
+      "path": "_news/2022-07-07-imagine-cup-2022-creating-accessibility-to-sign-language-one-sentence-at-a-time.md",
+      "title": "Imagine Cup 2022: Creating accessibility to sign language, one sentence at a time",
+      "excerpt": "With the help of the Microsoft Azure Learning Machine, the team integrated the AI model built using technology for sign recognition into Sign2Sign app effortlessly. The app provides real-time feedback for users to have two-way signing conversations through ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/en-sg/2022/07/07/imagine-cup-2022-creating-accessibility-to-sign-language-one-sentence-at-a-time/",
+      "originalUrl": "https://news.microsoft.com/en-sg/2022/07/07/imagine-cup-2022-creating-accessibility-to-sign-language-one-sentence-at-a-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.microsoft.com/wp-content/uploads/prod/sites/439/2022/07/Team-Sign2Sign-Image-Card.png",
+          "width": 1298,
+          "height": 728,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-scotiabank-evp-and-chief-compliance-officer-nicole-frew-to-speak-at-the-behavox-artificial-intelligence-in-compliance-and-security-conference.md",
       "title": "Scotiabank EVP and Chief Compliance Officer Nicole Frew to Speak at the Behavox Artificial Intelligence in Compliance and Security Conference",
       "excerpt": "The fireside chat with Nicole Frew and Behavox Chief Customer Intelligence Officer Fahreen Kurji will cover the pivotal role technology plays in compliance, how to drive organizatonal change that embraces innovation,",
@@ -1119,49 +1171,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-facebooks-ai-translator-now-works-with-200-languages.md",
-      "title": "Facebook's AI translator now works with 200 languages",
-      "excerpt": "Details: The technology, dubbed NLB-200, is part of Facebook's \"No Language Left Behind\" initiative. A prior version could translate among 100 languages. Meta will use the system to help with more than 25 billion translations a day,",
-      "sourceUrl": null,
-      "webUrl": "https://www.axios.com/2022/07/06/facebook-ai-translator-200-languages",
-      "originalUrl": "https://www.axios.com/2022/07/06/facebook-ai-translator-200-languages",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.axios.com/aUShKwNYv5njCxwiz-wLHyouxXc=/0x0:1920x1080/1366x768/2022/07/06/1657073629535.jpg",
-          "width": 1366,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Axios",
-        "domain": "axios.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

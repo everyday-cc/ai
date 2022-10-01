@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/am
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/amp/"
 type: article
 quality: 105
-heat: 165
+heat: 155
 published: true
 
 provider:
@@ -77,20 +77,6 @@ related:
       - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/09/hypatia-h_5f674fbb74773d0b1a5da54f0814323e-h_2c8f0881fb060bc947bc53300013629c.jpg?w=1024&h=575"
         width: 1024
         height: 575
-        isCached: true
-  - title: "Factbox-The challenges automakers, and now Tesla, face with humanoid robots"
-    excerpt: "Tesla (NASDAQ: TSLA )'s CEO Elon Musk is set to unveil its prototype humanoid robots at an event on Sept. 30, hoping to expand beyond self-driving cars that have not yet become reality despite his repeated promises."
-    publishedDateTime: 2022-09-26T16:56:00Z
-    webUrl: "https://za.investing.com/news/factboxthe-challenges-automakers-and-now-tesla-face-with-humanoid-robots-2622395"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 54
-    images:
-      - url: "https://i-invdn-com.investing.com/trkd-images/LYNXMPEI8J0H5_L.jpg"
-        width: 800
-        height: 534
         isCached: true
   - title: "Musk previews Tesla's humanoid robot, but cautions it is not ready just yet"
     excerpt: "Tesla CEO Elon Musk on Friday showed off a prototype of 'Optimus', predicting the electric vehicle maker would be able to produce millions of them and sell them for under $20,000 - less than a third of the price of a Model Y."
