@@ -103,6 +103,15 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "Tesla shows off humanoid robot, supercomputer potential at AI Day"
+    excerpt: "Tesla (NASDAQ:TSLA) unveiled its humanoid robot at its AI Day event late on Friday. Optimus was not ready to walk on stage quite yet, but waved to the crowd and raised its knees. The AI-powered Optimus robot features a 2."
+    publishedDateTime: 2022-10-01T13:02:00Z
+    webUrl: "https://seekingalpha.com/news/3887722-tesla-shows-off-humanoid-robot-supercomputer-potential-at-ai-day"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 51
 
 secured: "VM/MyzjEHydim6XJGRtaqmTD1uc4ilKWnZUYcm4c/BRm5BiZZY3gOcV+sAdYpdhHqJ22oizYP5Apzy90RK1BTsSGEErt0Q+urcMAGg5yCeSNq4XkAH4GolmUz95n8KfrCyH/r4r3A9UW7uuTyxeQ/EXLz1k9yr8v4QZopGYmneXFaOHsZLMJKkpxBDnKY4EhqCZfsyA4d34ZzMpREFnM6uR/53bgx7jozi0EeWwpvI6ksfrNx1qIhIEiErLeRM39uUaJ0tXkMmEdD7ot9S66O4KMpjniCpGRj9kYTgoP18QB8t7NRypdhqg4l0vbFrxTnMOeOYw3+5mi+bm3k0J4QBBa4qrMumdNm6wJ9kAStgc=;Mi/s8vQEzk2YQuuhoRBACw=="
 ---

@@ -142,20 +142,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 49
-  - title: "Wallaroo Unveils Integration with Microsoft Azure Marketplace, Debuts Latest Edge Environment Technology"
-    excerpt: "Wallaroo Labs, developers of a model operations platform for deploying, observing, and managing machine learning in production, is announcing integration of Wallaroo Enterprise Edition with Microsoft Azure Marketplace,"
-    publishedDateTime: 2022-09-26T20:10:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Wallaroo-Unveils-Integration-with-Microsoft-Azure-Marketplace-Debuts-Latest-Edge-Environment-Technology-155103.aspx"
-    type: article
-    provider:
-      name: dbta
-      domain: dbta.com
-    quality: 37
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "a+C7fqjekWmj+S1fFbYvk8wwBOT7elHQ7qLKSNvlDIz1hzYRtoC3NpI9su4oiK7NAo9/pl3rxa9JyyHrODYwREZn/ynAhMwjO1yaFJEysVHm2ZewYB7yar1NVt2xmp7SolDviOKR3Xzn6VxPQYGTPSW6qe3JXOTRiN2sMVMKQLYh3eWVsPbAGIZ26enwccfsvHcf0myHAE6SrDtyuVzSyxb6nqdMBSSgAdtZVtH095hvE/dMSrR+p/7g043ySBfT7LLMJJLeoG2t7+ULGOi5hvvQI9OiTpDS68uDaWiJjXAbJ1NhDP0cR9PKT0gvCog2//KqoWdSlkHah86uVZoYEupnEmdq4V+cSg0RurrKQaqT35rx800Wr6uyzcL3z6q6mZ066tB28NlLtl+22/X5R5+8wxYV+LQN0wnR7gjOYaFt4y3D0R4T0jtT4CuKNNd1COYU+gIXwhVcGayl0pWKP6SGN0Il2NmqLL4WhsRBWXFb3WD8i097CopQ0sVw6PidD923nihxOwt9ZVHq2xKJ4Q==;Cf6fi1ZbEqzPiqnWxoCcFQ=="
 ---

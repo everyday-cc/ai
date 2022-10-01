@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/image-generating-ai-is-now-m
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/image-generating-ai-is-now-more-accessible-to-the-public/?amp"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -92,15 +92,6 @@ related:
         width: 1200
         height: 787
         isCached: true
-  - title: "The sky’s the limit for AI tools like DALL-E, but investors have a rough road ahead"
-    excerpt: "What looks like an interesting art tool has become a prime feeding ground for investors; part of the the challenge now is finding the business case for AI-generated imagery."
-    publishedDateTime: 2022-09-26T19:37:00Z
-    webUrl: "https://www.protocol.com/bulletins/generative-ai-image-startup-investors"
-    type: article
-    provider:
-      name: Protocol
-      domain: protocol.com
-    quality: 11
 
 secured: "wFraLsY8Jeel+3p8VtTytv3ytQJRqFWXznU/kqO28ypRCdW9JSrze0hGhMZ4+o7StHiLxuUpi9s7YafEAR1riyqkv4dWG0wUZvqI9quexRJETwxPfUtqRMPv0G5f7/lw8nQOt8t9mMkq45SHmuVBMxW5o3b05oCM5lx42MIK/j5VtzgDK7SCUz2yi3zFgqtpjvK0BjPV65puIhYMm0sGlmx2aFlmqrvCM90DRnsCcHWkyfluD5MA0x6cHBYFArr6IDMCdVenqhd3E/IbYnYJtJidvk3PleduEsWwrMMlV1jFE2rzsFA1ELzuGMZrbh//eoSI6X4kvsJeUWtQnQEBRZ2W9p30k64vwOZ3j5VC1U1W9Y1vlThMM7AX7mb9+rancqX2BvZI+O9gYZ89uTVv6FkX2TjknTYQ/eeV6pzWne7RA3OvhJGvasE3u1R6DMykw0tXMhHgG6Ll0Gmm0zStdf4xrlXwF88WgcQSPdjacaQNwsKcqmikVldlm3vZWc20E3mppVtbq2SmuWN227hVZw==;mBx99AAnqlnIUpaZPR4lNQ=="
 ---

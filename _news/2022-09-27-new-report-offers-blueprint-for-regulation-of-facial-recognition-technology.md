@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29023402"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29023402"
 type: article
 quality: 57
-heat: 147
+heat: 127
 published: true
 
 provider:
@@ -95,34 +95,6 @@ related:
       - url: "https://images.7news.com.au/publication/C-8374360/efa1cb6a45f6482d0d228bf136841cc1073ef78f-16x9-x0y168w2029h1141.jpg?imwidth=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Push for new law to regulate facial recognition technology in Australia"
-    excerpt: "Academics have written a model law suggesting how the regulation of facial recognition technology in Australia could work."
-    publishedDateTime: 2022-09-26T21:36:00Z
-    webUrl: "https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/new-law-to-regulate-facial-recognition"
-    type: article
-    provider:
-      name: Choice
-      domain: choice.com.au
-    quality: 39
-    images:
-      - url: "https://img.choice.com.au/-/media/9d45571f9c704a0abcfb9d711bcb3840.ashx"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Facial recognition use should be registered and — in some cases — banned by law: report"
-    excerpt: "A group of academics has published model regulation for the technology as concern over its use continues to grow."
-    publishedDateTime: 2022-09-26T21:56:00Z
-    webUrl: "https://www.crikey.com.au/2022/09/27/facial-recognition-technology-model-law-uts/"
-    type: article
-    provider:
-      name: Crikey
-      domain: crikey.com.au
-    quality: 31
-    images:
-      - url: "https://www.crikey.com.au/wp-content/uploads/2018/07/GettyImages-851960058-e1532392143361.jpg"
-        width: 784
-        height: 523
         isCached: true
   - title: "University of Technology Sydney report offers blueprint for regulation of facial recognition technology"
     excerpt: "Human Technology Institute has outlined a model law for facial recognition technology to protect against the harmful use of this technology, but also foster innovation for public benefit. Australian law was not drafted with the widespread use of facial recognition in mind."

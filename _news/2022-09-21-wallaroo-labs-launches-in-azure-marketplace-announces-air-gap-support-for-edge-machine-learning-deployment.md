@@ -16,6 +16,12 @@ topics:
   - AI
   - Machine Learning
 
-secured: "FyFXIRtZZPGz8qBhqxY3sHzTr0ZMgbdxRphYScPfw6trOzvCvRCE6dV5ZZizLXa/e/AnqYI2dmKx5rYCWGizPxIJtjwXc7iFVR6EarjrP/jdq9ixzWXlG768JmmNFUY6b/G4gsvNe638KXohPL1c7l5RugTH7Ggf8QXtR+akYY0aDyFdM15JLx2Fv3jbsl/Xu4YqZkLRjuyhxeyOIGIwiLXpLbtiyMaP/hj1FJcz8ViqpTBA6bRlIO8z92PPAhyQOET0SbwDdsUhri2wvL0CHxuDoSuexONI81nLcTlL2BKdIg05thd7phzVwyst9u+tOz8IgM+PcQyUxRC8NYdBA+KFRwOWIv3po7ZLTZrxgdo=;18s624dLVvcrk+V3exWvLA=="
+images:
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg"
+    width: 350
+    height: 456
+    isCached: true
+
+secured: "oOADI7YEAY4nesDxnCz/uDVFmNcmVoQYQBClbwsgulFwWfkrJpIZ1VwnuCbP6tIJGT/jUcE4HFYIs+KHY+qbT0oqifz8IHKqnUPxFfraIZTfEJtlFdxEdzwed+phPGIz9GMV6y0RpiddelodkgvzoagCj4lUwdcUWgCbSxgyLy9cxOEx00JAqFaZ29RiAbx7cJt4r5XB4Vae8AA/BUtLNEnVIx/FIk2xruI/I6HD7UsZDkFhegi5WcV45r1bbnNNiGPoN/l8hjI4g8/xNfU3AHsRoDCjk5reHnt+kHrNvJHD2jpOzVhossj7NJY3Ma4lRF52PvCzIgzPNRIOJFk+/NEudgrdMVoMtB/r/jMiQV8=;JrUyBY+2bcP3yd6y7vQn2g=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-01T09:03:00Z
 originalUrl: "https://metro.co.uk/2022/10/01/the-rings-of-power-isildur-fan-theories-addressed-by-maxim-baldry-17484620/?ico=more_text_links"
 webUrl: "https://metro.co.uk/2022/10/01/the-rings-of-power-isildur-fan-theories-addressed-by-maxim-baldry-17484620/?ico=more_text_links"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Metro

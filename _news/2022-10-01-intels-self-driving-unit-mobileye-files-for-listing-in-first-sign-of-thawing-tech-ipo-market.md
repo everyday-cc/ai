@@ -48,6 +48,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 34
+  - title: "Intel's Mobileye Files for Listing in First Sign of Thawing Tech IPO Market"
+    excerpt: "Comparative assessments and other editorial opinions are those of U.S. News and have not been previously reviewed, approved or endorsed by any other entities, such as banks, credi"
+    publishedDateTime: 2022-09-30T21:13:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2022-09-30/intels-self-driving-unit-mobileye-files-for-u-s-ipo"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 32
 
 secured: "cFS+FPzJhHTKb/q1Tb4LHoELqvtzmxxy/FbZ3bDrpmd2raZT4BFS4SeecnIsCYEtGPWg/mokCmTYLLxymWfZDg9xr+Lo+aefP5bkPcgOze+h4BThytOHWZoAO06y7vif22c/SktoKxXAC6Fp184H0JkvJ1F2syecLQrKpV4+HbZVlSbFSqVz09Q4CNT1OklwBoKbGWOLP0B4AWpX10Zzm1tTgppAtElAW/cpAvUs69AFZ+YMqeg2/WRfcWH39/zMV4FNsaDBcoyFEtco3plzHginiR6bdSU18sIgwq5Ny/7c66FnogpOQCuHP2ccwE4jXuN0hRswsWRgTwnOW4uKnP+nK9WUJ5HwU5MQFeqcfUQ=;g5OU2h+OGw27CQ/XoFQcsw=="
 ---

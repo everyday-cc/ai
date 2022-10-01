@@ -8,8 +8,8 @@ webUrl: "https://www.thedailystar.net/business/news/impact-artificial-intelligen
 ampWebUrl: "https://www.thedailystar.net/business/news/impact-artificial-intelligence-threat-or-new-opportunity-3132461?amp"
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/impact-artificial-intelligence-threat-or-new-opportunity-3132461?amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/10/01/human_rights_12.jpg"

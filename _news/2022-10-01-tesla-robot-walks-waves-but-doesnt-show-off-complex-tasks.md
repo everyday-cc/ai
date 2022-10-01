@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Tesla Robot Walks, Waves, but Doesn't Show off Complex Tasks"
-excerpt: "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company’s artificial intelligence event Friday."
-publishedDateTime: 2022-10-01T03:40:00Z
-originalUrl: "https://www.usnews.com/news/news/articles/2022-09-30/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks"
-webUrl: "https://www.usnews.com/news/news/articles/2022-09-30/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks"
+title: "Tesla robot walks, waves, but doesn't show off complex tasks"
+excerpt: "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company’s artificial intelligence event"
+publishedDateTime: 2022-10-01T13:45:00Z
+originalUrl: "https://www.stltoday.com/lifestyles/technology/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/article_d6c4e463-886d-58f3-b44f-7f68457538c9.html"
+webUrl: "https://www.stltoday.com/lifestyles/technology/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/article_d6c4e463-886d-58f3-b44f-7f68457538c9.html"
 type: article
-quality: 66
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - AI in Robotics
   - AI
   - AI in Autos
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/fe/3fe6a0b4-cae8-5969-bb5a-be25f54ab172/6337c9b0a9094.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Tesla robot walks, waves, but doesn’t show off complex tasks"
@@ -40,7 +42,25 @@ related:
         width: 452
         height: 282
         isCached: true
+  - title: "Tesla’s robot waves but can’t walk, yet. Musk plans to make millions of them"
+    excerpt: "Tesla’s push to design and build mass-market robots that would also be tested by working jobs in its factories sets it apart from other manufacturers that have experimented with humanoid robots."
+    publishedDateTime: 2022-10-01T11:50:00Z
+    webUrl: "https://www.nbcnews.com/business/business-news/tesla-humanoid-robot-elon-musk-cant-walk-rcna50307"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 63
+  - title: "Tesla Robot Shows Some Skills, But Falls Flat With Some Robotics Insiders"
+    excerpt: "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company’s artificial intelligence event Friday."
+    publishedDateTime: 2022-10-01T07:12:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/tesla-robot-shows-some-skills-but-falls-flat-with-some-robotics-insiders/3889379/"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 50
 
-secured: "WfGlWUVGR+CDTbon967dXJnX1OffUxhUa+XmL7xXigSwo+YwQvTjMwvP2iFy3hUuhnDQ6NAZ65FnpvOn11qYmnS36mmfXfs1jbxDxm8zACgdxaNl/OhpRZR6oQohD9MkRMy4vp2EBS55wls+UDZDgFfCao+in8cKiwshFwRd7R2E/emLSJUYL2hm8f2Y9XoAYASjA1mMgljzPvdl75X1C+l3Da6++rTWaVkXFlTMKjnCSRG8h202kLE/A6vpLj4UVNpVsmxDwym0VDZAjRLEBC6rhOnFCruJ8emti9q5oKoCfwPqVlFizchzXydZHMpYGSNahOohG3PHYhL0dR6YY7iJv1LUq697u1a2j6/JHGhtxKl6jdofHmD77/AQVrONOXNzs9wOE5Zqxgp5Oi7V3YaKl/PtJ7k0LI2nYIQkDHFhxL/fp1MidSRlVqeXMOcIpy6ktqr0POqQzwL15sGjj4CmUZk2q4ftaLBUi3Ljbyn5BCQswutTSDtIrVN0AwriqpbtRHhWWK96HczvEnboIg==;1BcmNhgdEwULQcCtawi0Zw=="
+secured: "mKl01A6FlioAjKl1p08Ih/3vrW4c3tuWqxJsBqssgp+WrxO8lXlKemMk0nBEW8Dh13q74WJpd1j1DDl+s9jhfiRv7HvsxJsRtFd4wfRAQNLghSQtvqth7IV/w5AG0STpvGpRXiSYiGcvZNoe2Wx2MKh/lK7Syw63Zcld24C9ATl8moCVSJd44wLPVdz7ogOX3giGU9NU0pJyVkP8umkqXlxO+vmWurSpzuf1JGy3VAsSdw1/RuuJd7HxT48nTISuoAn8jrXW2USFht6xuM/t+Vqw0sXOVx8JO8COcGtrju4mtbx6PT8dU19KrggeTD5oCSfxtPJc1ZVBmrZbo+t01zI2d9VsAoLMEj8KKYfV/jQ=;hAnkzqW4bP217idYdYF6fA=="
 ---
 

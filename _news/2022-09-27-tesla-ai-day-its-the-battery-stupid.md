@@ -7,8 +7,8 @@ originalUrl: "https://seekingalpha.com/article/4543249-tesla-stock-ai-day-its-th
 webUrl: "https://seekingalpha.com/article/4543249-tesla-stock-ai-day-its-the-battery-stupid"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 96
+published: true
 
 provider:
   name: Seeking Alpha
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla’s AI Day is tonight. It may wow you – or end with a gaffe"
-    excerpt: "Tesla will hold its second annual AI Day in Palo Alto, California, Friday evening. The six-hour event will include updates on Tesla's work in artificial intelligence, \"Full Self-Driving,\" its supercomputer \"Dojo\" and maybe a humanoid robot,"
-    publishedDateTime: 2022-09-30T20:28:00Z
-    webUrl: "https://edition.cnn.com/2022/09/30/tech/tesla-ai-day-preview/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/09/30/tech/tesla-ai-day-preview/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/30/tech/tesla-ai-day-preview/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 104
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210819234639-01-tesla-robot-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Can Tesla get a boost from its highly-anticipated AI Day event?"
     excerpt: "All eyes will be on Tesla (NASDAQ:TSLA) on Friday when then company holds its highly-anticipated AI Day. One of the highlights of the event is expected to be the company's unveiling of its Optimus humanoid robot prototype."
     publishedDateTime: 2022-09-29T16:27:00Z
@@ -69,6 +53,20 @@ related:
       - url: "https://i-invdn-com.investing.com/news/Tesla_800x533_L_1608133744.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Tesla’s AI Day is tonight. It may wow you — or end with a gaffe"
+    excerpt: "By Matt McFarland, CNN Business Tesla will hold its second annual AI Day in Palo Alto, California, Friday evening. The six-hour event will include updates on Tesla’s work in artificial intelligence, “Full Self-Driving,"
+    publishedDateTime: 2022-09-30T17:34:00Z
+    webUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2022/09/30/tesla-ai-day-heres-what-to-expect/"
+    type: article
+    provider:
+      name: KTVZ
+      domain: ktvz.com
+    quality: 56
+    images:
+      - url: "https://ktvz.b-cdn.net/2022/09/hypatia-h_5f674fbb74773d0b1a5da54f0814323e-h_2c8f0881fb060bc947bc53300013629c-300-860x484.jpg"
+        width: 860
+        height: 484
         isCached: true
   - title: "Tesla to host AI Day on 30 September to demo latest tech"
     excerpt: "But all eyes will be on Tesla’s robot that it teased at last year’s AI Day event. Named Optimus, the humanoid bot will be able to help carry out dangerous tasks, such as lifti"

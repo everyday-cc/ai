@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-01T12:26:00Z
 originalUrl: "https://www.digitaltrends.com/cars/tesla-full-self-driving-beta-rollout-ai-day-2022/"
 webUrl: "https://www.digitaltrends.com/cars/tesla-full-self-driving-beta-rollout-ai-day-2022/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Digital Trends
@@ -18,6 +21,17 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Tesla's New Self-Driving Version 10.69 Is A Big Leap Forward"
+    excerpt: "New version gives us a glimpse into the future with respect to full self-driving on surface streets. Read more here."
+    publishedDateTime: 2022-09-27T18:34:00Z
+    webUrl: "https://seekingalpha.com/article/4543424-tesla-new-self-driving-big-leap-forward"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "pO0xYd3zOoF5rnWyNPNUAiEn2mZEUj2JdZynhgb+M7dnmmhVxdmDrvxnuTG20j0K1nDgNo/FRjeybHgZSii391zQHjfdg6/qWQ6zlbpsM/gXlOiEN2/uP+iTg4DqJS6zte2l8qdk4sw1CJDxfKmLCtW/XwwSuR9RiLHxg9r4xko/pAG8kumiikUUF2CqfTbXvSG3pNSMkLK587jVSu5+n5JTCvF4wFtmkR0UzCcD3AuOc0ql/eATp7gFsp+RDWloZsF87D7mHFfxzdCQhzDBsSqH0ysW8hnvUK8ta+rJ4QzlpEka+UxJXHVVylDHgUIQXKj23wml2JlTubJFTOq87LFG8mu2QccmhjQPN7YJwjP9PmgTig1FcPgQXJpssch0Ww+Vh1xpO+trge2P2XV1vFlR5I/I2ycIdm8iLSZbVb2jCDHumHhVd2CzmordLzMJwiegcb/gnGM2V/q8beQm7IGkKEoawAx68GIwovOflWRcjFYrJEwkKvebJGxZlwWNkdvGsnbVHESIq0xw8XwhQg==;4hPpgIBIPx4vop+Bs1bbxg=="
 ---

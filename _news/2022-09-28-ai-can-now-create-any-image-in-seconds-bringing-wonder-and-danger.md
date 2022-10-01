@@ -89,15 +89,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 46
-  - title: "The sky’s the limit for AI tools like DALL-E, but investors have a rough road ahead"
-    excerpt: "What looks like an interesting art tool has become a prime feeding ground for investors; part of the the challenge now is finding the business case for AI-generated imagery."
-    publishedDateTime: 2022-09-26T19:37:00Z
-    webUrl: "https://www.protocol.com/bulletins/generative-ai-image-startup-investors"
-    type: article
-    provider:
-      name: Protocol
-      domain: protocol.com
-    quality: 11
 
 secured: "DcExKSPd6i+JtGnNYpV+U7/cV73Aqc3OyBkB5BgMF44XHIUd5Di/LqGoEi1uD/8+2G/WVzvn6NjO43X97xGc5/6eQcG3YNlXmSXJwXZkJqnUfhZrM4ujx9SUw7QMrY25afstUkj3t+cJhQq+Uhjemw9rGoBlF0k8GBFmlE5SZXIoNIZc/I537XGv2SbbEAU8nsojlWn5qCFC2qEWpL+wgzlED8aJoIkKpxB05TGnwiu36lJoiYSeZoOiZKtJ6PU/ShLBt2ZE1wiGklcMQJVsi5KRahJaG9ZI7trH1/juu1SJVTc5Qd06JE0qyyKrleqfhIOZEUCGnreVIpjmYx5gGcCnWOY7ebk76SK+pJ2AS7g=;r6qc9nXvMkmb22JMCRaY6g=="
 ---

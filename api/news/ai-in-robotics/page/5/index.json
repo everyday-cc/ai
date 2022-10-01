@@ -2,6 +2,102 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-29-behind-indian-government-supported-ai-robotics-innovation-firm.md",
+      "title": "Behind Indian Government Supported AI & Robotics Innovation Firm",
+      "excerpt": "If we can get self-driving cars to work on Silk Board in Bengaluru, it will work in the US, it will work in Europe, it will work in Elon Musk’s backyard as well.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/behind-indian-government-supported-ai-robotics-innovation-firm/",
+      "originalUrl": "https://analyticsindiamag.com/behind-indian-government-supported-ai-robotics-innovation-firm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/ARTPARK.jpeg",
+          "width": 1766,
+          "height": 993,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-global-consumer-robotics-market-2022-2031-global-industry-report-size-analysis-top-companies-share-business-strategy-and-forecast.md",
+      "title": "Global Consumer Robotics Market 2022-2031: Global Industry Report, Size Analysis, Top Companies Share, Business Strategy and Forecast",
+      "excerpt": "The size of the consumer robotics market in 2021 is estimated to be USD 6 billion, and it is expected to expand at",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-consumer-robotics-market-2022-2031-global-industry-report-size-analysis-top-companies-share-business-strategy-and-forecast-2022-08-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-consumer-robotics-market-2022-2031-global-industry-report-size-analysis-top-companies-share-business-strategy-and-forecast-2022-08-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T02:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-overview-scope-and-advancement-outlook-till-2028.md",
       "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market Overview, Scope and Advancement Outlook Till 2028",
       "excerpt": "The Artificial Intelligence and Robotics in Aerospace and Defense market reports provide a detailed analysis of",
@@ -1240,83 +1336,6 @@
       "provider": {
         "name": "KSTP",
         "domain": "kstp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-faa-oks-reliable-robotics-certification-basis-for-autoflight.md",
-      "title": "FAA OKs Reliable Robotics’ Certification Basis For Autoflight",
-      "excerpt": "The FAA has agreed to a certification basis for Reliable Robotics’ autoflight and navigation ... that would avoid fatal crashes caused by controlled flight into terrain and loss of control. “",
-      "sourceUrl": null,
-      "webUrl": "https://aviationweek.com/aerospace/advanced-air-mobility/faa-oks-reliable-robotics-certification-basis-autoflight",
-      "originalUrl": "https://aviationweek.com/aerospace/advanced-air-mobility/faa-oks-reliable-robotics-certification-basis-autoflight",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T12:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Aviation Week",
-        "domain": "aviationweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-robotics-artificial-intelligence-competition-to-spur-production-underway.md",
-      "title": "Robotics, Artificial Intelligence : Competition to Spur Production Underway",
-      "excerpt": "Some 60 students, start-upers, researchers from across the country that were preselected have begun competing for prizes.",
-      "sourceUrl": null,
-      "webUrl": "https://cameroon-tribune.cm/article.html/50569/en.html/robotics-artificial-intelligence-competition-spur-production",
-      "originalUrl": "https://cameroon-tribune.cm/article.html/50569/en.html/robotics-artificial-intelligence-competition-spur-production",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cameroon-tribune.cm//administrateur/photo/normal_7b6e847.jpg",
-          "width": 960,
-          "height": 460,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cameroon",
-        "domain": "cameroon-tribune.cm",
         "images": null,
         "publishers": null,
         "authors": null

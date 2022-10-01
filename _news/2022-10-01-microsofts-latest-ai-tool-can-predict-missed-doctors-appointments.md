@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai-tool-can-predict-missed-doctors-appointments/amp/"
 type: article
 quality: 104
-heat: 205
+heat: 195
 published: true
 
 provider:
@@ -137,20 +137,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 49
-  - title: "Wallaroo Unveils Integration with Microsoft Azure Marketplace, Debuts Latest Edge Environment Technology"
-    excerpt: "Wallaroo Labs, developers of a model operations platform for deploying, observing, and managing machine learning in production, is announcing integration of Wallaroo Enterprise Edition with Microsoft Azure Marketplace,"
-    publishedDateTime: 2022-09-26T20:10:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Wallaroo-Unveils-Integration-with-Microsoft-Azure-Marketplace-Debuts-Latest-Edge-Environment-Technology-155103.aspx"
-    type: article
-    provider:
-      name: dbta
-      domain: dbta.com
-    quality: 37
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "NBA App Releases New Version With Microsoft With New Features Including AI and Machine Learning for Personalized Content"
     excerpt: "The NBA released a new version of its league app on Tuesday that includes the debut of NBA ID, a free-to-join membership program for fans to get exclusive access to game ticket giveaways, merchandise,"
     publishedDateTime: 2022-09-27T13:41:00Z

@@ -110,34 +110,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Push for new law to regulate facial recognition technology in Australia"
-    excerpt: "Academics have written a model law suggesting how the regulation of facial recognition technology in Australia could work."
-    publishedDateTime: 2022-09-26T21:36:00Z
-    webUrl: "https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/new-law-to-regulate-facial-recognition"
-    type: article
-    provider:
-      name: Choice
-      domain: choice.com.au
-    quality: 39
-    images:
-      - url: "https://img.choice.com.au/-/media/9d45571f9c704a0abcfb9d711bcb3840.ashx"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Facial recognition use should be registered and — in some cases — banned by law: report"
-    excerpt: "A group of academics has published model regulation for the technology as concern over its use continues to grow."
-    publishedDateTime: 2022-09-26T21:56:00Z
-    webUrl: "https://www.crikey.com.au/2022/09/27/facial-recognition-technology-model-law-uts/"
-    type: article
-    provider:
-      name: Crikey
-      domain: crikey.com.au
-    quality: 31
-    images:
-      - url: "https://www.crikey.com.au/wp-content/uploads/2018/07/GettyImages-851960058-e1532392143361.jpg"
-        width: 784
-        height: 523
-        isCached: true
   - title: "University of Technology Sydney: New report offers blueprint for regulation of facial recognition technology"
     excerpt: "A new report from the University of Technology Sydney (UTS) Human Technology Institute outlines a model law for facial recognition technology to protect"
     publishedDateTime: 2022-09-26T23:53:00Z
