@@ -71,20 +71,6 @@ related:
         width: 320
         height: 213
         isCached: true
-  - title: "Oosto offers advice on facial recognition implementations for stadium security"
-    excerpt: "The paper offers advice on how to use computer vision systems with facial recognition to improve safety and security outcomes at large-scale events."
-    publishedDateTime: 2022-09-26T17:14:00Z
-    webUrl: "https://www.biometricupdate.com/202209/oosto-offers-advice-on-facial-recognition-implementations-for-stadium-security"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 52
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/26125209/stadium-security-public-safety-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Twenty20 adds facial recognition capabilities to gunshot detection security solution"
     excerpt: "Twenty20 Solutions partners with Acoem USA to add active shooter location identification capabilities based on facial recognition to its portfolio."
     publishedDateTime: 2022-09-28T17:11:00Z

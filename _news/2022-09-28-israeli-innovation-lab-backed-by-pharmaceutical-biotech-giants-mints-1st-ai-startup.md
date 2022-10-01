@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesofisrael.com/israeli-innovation-lab-backed-by-pharm
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israeli-innovation-lab-backed-by-pharmaceutical-biotech-giants-mints-1st-ai-startup/amp/"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 640
     height: 400
     isCached: true
-
-related:
-  - title: "AION Labs launches AI startup to improve drug trials"
-    excerpt: "AION Labs has formed OMEC.AI, the lab’s first startup approved by the Israel Innovation Authority. The new company will develop AI-powered solutions to analyze pre-clinical data and identify gaps in efficacy and safety to improve the probability of success of drug candidates in clinical trials."
-    publishedDateTime: 2022-09-28T19:57:00Z
-    webUrl: "https://www.labiotech.eu/trends-news/aion-labs-launches-ai-startup-improve-drug-trials/"
-    type: article
-    provider:
-      name: labiotech
-      domain: labiotech.eu
-    quality: 37
-    images:
-      - url: "https://www.labiotech.eu/wp-content/uploads/2022/06/shutterstock-artificial-intelligence-.jpg"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "GIAqaJrjwX0eBAF4dQF22XjWuk4a1XjuIiNbx0WjNzl9iKc31oi20eiluAsr/QN9RwVBHoUfeq37h6XFkm4UjXA+NYDL0kEQXgpTiTbMNS+sMnft16jvVwMoOoZsDJFplQ9JE/G2W6anF8dVfBQ6NNA9RLVC8VaR6XE5IiN3UDkO5Qbhk/8FKVLjo8I97/jx73KJjypssTgjlptg4rnJfMRIVr/eoRHA6/pJDIB5XnQMBCpSQPPGp+23xjBZQEKejB3UtGKQc7+eBDw9A2hbLcttdimw2SkwlSbtMKIIInQ6vdgSNezokd/mriTxlEQjK3yg/YnH+eyOMldMeW8uemQh3d0q4lNjGDBKzpRdqJg8S4u6wI9toDQb7NccZDQ7ynCAg1iPJMmTZfSuwxacICusJ12KXsADDHP0f36fEcAMpODbGeXjmbiTn2AvxU93utcJmmAmW4BUq/Cr8U4HotV3XDJsGNi19K3nISV4ae4hEWamf+IAnBOesKL6e9dh7rRCe6Jg5u+2fEjVa1kT4Q==;9xsOcTL9PSF353T8g+sGPQ=="
 ---

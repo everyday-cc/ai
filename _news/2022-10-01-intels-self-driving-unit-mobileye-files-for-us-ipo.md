@@ -23,10 +23,10 @@ topics:
   - AI
 
 related:
-  - title: "Intel Drives Forward with Mobileye Self-Driving Car Unit’s IPO Plans"
+  - title: "Intel Drives Forward With Mobileye Self-Driving Car Unit’s IPO Plans"
     excerpt: "The listing plans come during one of the IPO market’s worst years in decades."
     publishedDateTime: 2022-09-30T22:19:00Z
-    webUrl: "https://www.wsj.com/articles/intel-drives-forward-with-mobileye-self-driving-car-units-ipo-plans-11664579959?mod=newsviewer_click"
+    webUrl: "https://www.wsj.com/articles/intel-drives-forward-with-mobileye-self-driving-car-units-ipo-plans-11664579959"
     type: article
     provider:
       name: Wall Street Journal

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/27/ai-wont-re
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/27/ai-wont-replace-human-intuition/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI worse at recognizing images than humans"
-    excerpt: "Researchers from HSE University and Moscow Polytechnic University have discovered that AI models are unable to represent features of human vision due to a lack of tight coupling with the respective physiology,"
-    publishedDateTime: 2022-09-26T17:24:00Z
-    webUrl: "https://techxplore.com/news/2022-09-ai-worse-images-humans.html"
-    ampWebUrl: "https://techxplore.com/news/2022-09-ai-worse-images-humans.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-ai-worse-images-humans.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 61
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/ai.jpg"
-        width: 1920
-        height: 1636
-        isCached: true
   - title: "Even smartest AI can’t match human eye"
     excerpt: "York University study highlights how deep-network models take potentially dangerous shortcuts in solving complex recognition tasks"
     publishedDateTime: 2022-09-27T07:23:00Z

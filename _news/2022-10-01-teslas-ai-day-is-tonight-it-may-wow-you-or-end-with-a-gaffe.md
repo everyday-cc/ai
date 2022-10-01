@@ -1,28 +1,33 @@
 ---
 category: news
-title: "Tesla’s AI Day is tonight. It may wow you — or end with a gaffe"
-excerpt: "By Matt McFarland, CNN Business Tesla will hold its second annual AI Day in Palo Alto, California, Friday evening. The six-hour event will include updates on Tesla’s work in artificial intelligence, “Full Self-Driving,"
-publishedDateTime: 2022-09-30T22:34:00Z
-originalUrl: "https://localnews8.com/money/cnn-social-media-technology/2022/09/30/tesla-ai-day-heres-what-to-expect/"
-webUrl: "https://localnews8.com/money/cnn-social-media-technology/2022/09/30/tesla-ai-day-heres-what-to-expect/"
+title: "Tesla’s AI Day is tonight. It may wow you – or end with a gaffe"
+excerpt: "Tesla will hold its second annual AI Day in Palo Alto, California, Friday evening. The six-hour event will include updates on Tesla's work in artificial intelligence, \"Full Self-Driving,\" its supercomputer \"Dojo\" and maybe a humanoid robot,"
+publishedDateTime: 2022-09-30T20:28:00Z
+originalUrl: "https://edition.cnn.com/2022/09/30/tech/tesla-ai-day-preview/index.html"
+webUrl: "https://edition.cnn.com/2022/09/30/tech/tesla-ai-day-preview/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2022/09/30/tech/tesla-ai-day-preview/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/30/tech/tesla-ai-day-preview/index.html"
 type: article
-quality: 56
-heat: -1
-published: false
+quality: 104
+heat: 144
+published: true
 
 provider:
-  name: Local News 8
-  domain: localnews8.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
   - AI
   - AI in Autos
 
 images:
-  - url: "https://localnews8.b-cdn.net/2022/09/hypatia-h_5f674fbb74773d0b1a5da54f0814323e-h_2c8f0881fb060bc947bc53300013629c-300-860x484.jpg"
-    width: 860
-    height: 484
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210819234639-01-tesla-robot-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -78,6 +83,6 @@ related:
       domain: stuff.tv
     quality: 36
 
-secured: "B9gbgJWhuWSRXKfQhyeW/GI5oNoVB3HrF+2bGEGuhkCLx9yFtZKZJT9BTTCeuaUWaAcD7Iw9h1WPKfQpgIYZ8ouizvardWtJk9DQo0DcwD47IIIOAKlArMkCoNVDDD88znFRaS1qbKny74/ZahL5/WcKGZdEH3QQU/AiIcVXn5Yc+BTfZeGb6+14LotxomvZJighg8QtAtbJhnLLIky+6Riyr3j0NRDwmVcIVyCojA0kxk6cMA3nf5EI7o8LN8yuxd3FsssUgEV06f10jUdr/iqnI41DqyM+AdsmUxOLmlZvVQDyta9dCYLdoRDXCMHvaqeJ6yEEKA1hRV2X7w3SAiyGpqJLZg89UgWyUMwjODs=;FxVgxtcfPeWP6iBgXAoV6A=="
+secured: "cKIhGxRX3n+ikoB0zDCjVHz4yPiqXBCXQcSG521SVYQ2xA/Bgcq5eArcCKkx4fOjP8dRYy1ODnKhPTh6QM7PVsy6H6SD19fOpBrO2Hp94FP3k2tjca52c25wYYJ825BkrJSoxlOB9kQZIfxw8T4kkLFEKgHa4u6QBS0v5exBRWieeedj66RhG6qTzmk4ChUSyfcdtkOc9NY3FL/EjxT5W9jJu2m3J2yARcHAcuySJPO+/RxItfTOaU719XLSa6UWbm7iTAaEt88nGB29oDvEVQe7jcNgyzVnB6bfNt4Ws+78pqrGQCD/+hkNHbRHFVS4vYYq4OFsNuhBQGeFVzAzwtEaRMJmzeM992alQGljfr0=;eOhKa0E/IElmJsDNkXznPw=="
 ---
 

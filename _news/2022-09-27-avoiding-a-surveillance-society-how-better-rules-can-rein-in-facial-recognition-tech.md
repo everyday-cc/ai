@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Oosto offers advice on facial recognition implementations for stadium security"
-    excerpt: "The paper offers advice on how to use computer vision systems with facial recognition to improve safety and security outcomes at large-scale events."
-    publishedDateTime: 2022-09-26T17:14:00Z
-    webUrl: "https://www.biometricupdate.com/202209/oosto-offers-advice-on-facial-recognition-implementations-for-stadium-security"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 52
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/26125209/stadium-security-public-safety-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Twenty20 adds facial recognition capabilities to gunshot detection security solution"
     excerpt: "Twenty20 Solutions partners with Acoem USA to add active shooter location identification capabilities based on facial recognition to its portfolio."
     publishedDateTime: 2022-09-28T17:11:00Z
@@ -162,6 +148,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "pS6vaqpmo3ivc+BJ0CGmdWSorNfynaqjpSSkp/zntx3hi4xjl/VVnz70Fw8sa3CJshguQWlCIWE4UNcUsPDB2dsQ6DSwD1yxLL/1K7pz2mOaVxX17ScUTIYrmxFqMBAhJL4FzRzGQtWJ6iKG38GfhuH95EOQ2JRuq/oHrEFJ2G+k2u1PXBPBOW/hC+Q6yOAELaozDzqfPvITE4b4sf8RsxOw0IwImqAlM+L/ZKQSjlVWy7u53gKusmruX4XPeDcvBoDcGj39yEaoJc6EouptOOQviHFkohROH7kla+oGMl3heWk/3kP4tRK1pLk3f3t80Bcyjj9LQIDFJ3PsO0y8TZAIpHr0TjtErkCT9P2ZCPY=;s3+x7xPHTadczbOVQwreSQ=="
+secured: "dz00p+x4bdEGwEgNtOjF0lnB5qUTBitIwtzGw/pF1e5iiNkP+6rjBjXUMiD5IowvN86PCYywlqWcs2TiGhwkegQwhFFitGmgAmGRy0NN8zrENCf2rQXWh0cHbJocdMLFsPX+9H96YyJyoxpzIhj9JPLkmcBS9hnTRev3c3xumURK9zVRRaq4521XplFdcovyK8SOnOGPpAtL7Hibq7XAggIr5+zQMARYKbzylkIUej2S0Vzij1Wo4wMpNDuVdIyJFSJuw7GER9yGaMlZfa4j9CuCNvfvFRJKmSfedkYtexMoyd6sEM5ux7cOV0zpgoTBRAIl9wQE3T+WLP8qYdQ8uqvJMmE+ocxw6SQ+8S5kFnE=;sUJmLN0jp6woYPseOqVZ/Q=="
 ---
 

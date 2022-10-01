@@ -24,22 +24,40 @@ images:
     isCached: true
 
 related:
-  - title: "Israeli innovation lab backed by pharmaceutical, biotech giants mints 1st AI startup"
-    excerpt: "AION Labs, a Rehovot-based consortium formed by Pfizer, Merck, AstraZeneca, Teva and others, sets up company that will help drug firms improve chances of success in clinical trials"
-    publishedDateTime: 2022-09-28T11:13:00Z
-    webUrl: "https://www.timesofisrael.com/israeli-innovation-lab-backed-by-pharmaceutical-biotech-giants-mints-1st-ai-startup/"
-    ampWebUrl: "https://www.timesofisrael.com/israeli-innovation-lab-backed-by-pharmaceutical-biotech-giants-mints-1st-ai-startup/amp/"
-    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israeli-innovation-lab-backed-by-pharmaceutical-biotech-giants-mints-1st-ai-startup/amp/"
+  - title: "How Colleges Are Using Artificial Intelligence To Improve Enrollment And Retention"
+    excerpt: "Higher education is advancing from its initial use of AI to automate routine tasks, digitize workflows, develop complex datasets, and create dashboards for analytics. Now, colleges are doing more than using technology to do the same things better."
+    publishedDateTime: 2022-10-01T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are-turning-to-artificial-intelligence-to-improve-enrollment-and-retention/"
+    ampWebUrl: "https://www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are-turning-to-artificial-intelligence-to-improve-enrollment-and-retention/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are-turning-to-artificial-intelligence-to-improve-enrollment-and-retention/amp/"
     type: article
     provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 50
+      name: Forbes
+      domain: forbes.com
+    quality: 83
     images:
-      - url: "https://static.timesofisrael.com/www/uploads/2022/09/Aion-_-Portraits-_-by-Elad-Malka-4509-640x400.jpg"
-        width: 640
-        height: 400
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6102d1d3cc6d3da87fbd41c4/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 653
         isCached: true
+  - title: "How Healthcare Providers Can Improve Patient Experiences With RPA, AI And Digital Workflows"
+    excerpt: "Beyond just automating tasks, robotic process automation (RPA) today leverages adjacent technologies like AI, ML, NLP, image recognition and intelligent document processing (IDP) to accurately and efficiently capture, extract, analyze and report results to ..."
+    publishedDateTime: 2022-09-28T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/28/how-healthcare-providers-can-improve-patient-experiences-with-rpa-ai-and-digital-workflows/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+  - title: "Arthur Raises $42M to Ensure Enterprises are Using AI Models That are Accurate, Transparent, and Free of Bias"
+    excerpt: "Arthur, cofounded by Adam Wenchel, is a platform that monitors, measures, and improves machine learning models to deliver better results for enterprises."
+    publishedDateTime: 2022-09-30T13:27:00Z
+    webUrl: "https://www.alleywatch.com/2022/09/arthur-ai-performance-monitoring-efficiency-optimization-machine-learning-platform-adam-wenchel/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 0
 
 secured: "jrkh/CjXnMAipp3NMqAlbmAn9O69weeMSGpZIqRosAJXgEn7DiEpKMw2jSLB50sNbtpCzMWEg421WvyPyh7+mwn0yRLo+/qrdsqa95Vjoe8JtAqO9FeC2S35+AVzoHEtKyrAyE3/VXld9xtwOvE1R1v5Nf+KIFZ8nzym9M0PN21q7/YeiwyYir0mtv/QQ112bU6KcM2dE4ii2ekPIMPLc3aGJ0LEHzLWzp6U7y/ok/+3oMkgKo+Rnvpnt2MZqPEGP6OokDTFf2zb1S5DAim3CG51ekejRoW7nDsml05eLUelh0ubhFgzCxAg/TBSHQ8Y47fdo4UR2+ywmV2o7dKiGLFBVN2Kb+9bxMwj+HY7UbaGtCIEbkq2vw9fiGsz4wwCsVn87sprZTXEZ/6W339SUBSicEj87PQwqKCw1e7/ct08/x+41jy/qkkUGHj/klvxEZDVa1sM+SSRLh6Wz2OHbmTqNHaKzIPFXljxUGOLW2LjViwzHU5gbfuUmxYKtWIB/20k5qk2cdGwIHP0QLSHLQ==;KBF919aXvkWHrkmvmK3qNQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applica
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/amp/"
 type: article
 quality: 123
-heat: 133
+heat: 134
 published: true
 
 provider:

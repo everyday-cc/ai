@@ -409,15 +409,22 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 81
-  - title: "Tesla AI Day Spotlights Optimus Robot, Self-Driving Cars: Here's How to Watch"
-    excerpt: "Tesla is hiring engineers to build a walking, talking robot called Optimus. Expect Elon Musk to detail the company's work on self-driving cars, too."
-    publishedDateTime: 2022-09-26T18:29:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/tesla-ai-day-spotlights-optimus-robot-self-driving-cars-how-to-watch/"
+  - title: "Elon Musk Unveils Prototype of Humanoid Robot Optimus, Says It Will Cost Less Than a Car"
+    excerpt: "The prototype, which the CEO showed off at a company’s AI event Friday, is part of his effort to shape public perception of the company as more than just a car maker."
+    publishedDateTime: 2022-10-01T04:32:00Z
+    webUrl: "https://www.wsj.com/articles/tesla-ai-day-2022-elon-musk-11664536415?mod=heardonthestreet_trending_now_article_pos4"
+    ampWebUrl: "https://www.wsj.com/amp/articles/tesla-ai-day-2022-elon-musk-11664536415"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-ai-day-2022-elon-musk-11664536415"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 78
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 80
+    images:
+      - url: "https://images.wsj.net/im-635281/social"
+        width: 1279
+        height: 640
+        isCached: true
   - title: "Elon Musk’s robot is going to have to work hard to impress at Tesla’s AI Day"
     excerpt: "Elon Musk is expected to unveil a prototype of his Optimus robot — better known as When Musk announced last August that Tesla was developing a genera"
     publishedDateTime: 2022-09-28T19:57:00Z
@@ -484,6 +491,20 @@ related:
       name: Philippine Daily Inquirer
       domain: inquirer.net
     quality: 73
+  - title: "Tesla AI Day 2022: Optimus Unit 1 humanoid robot waves at the audience"
+    excerpt: "Tesla AI Day 2022 explored the processes required to mimic the human, driver and worker. The autonomous robot and car were laid out in detail"
+    publishedDateTime: 2022-10-01T08:41:00Z
+    webUrl: "https://interestingengineering.com/innovation/tesla-ai-day-2022-optimus-robot-waves"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 73
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/2022/10/01/image/jpeg/et1EjnNMA7Vz75MynN9GShZ0A1bKFRiJJiPU6Qql.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Tesla A.I. Day Is Coming. Expect High-End Computing, Self-Driving Cars, and Robots."
     excerpt: "High-end computing, neural networks, self-driving cars, and robots could come up at the car company's second annual event."
     publishedDateTime: 2022-09-29T12:32:00Z
@@ -536,6 +557,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
+  - title: "Elon Musk Showed Optimus Humanoid Robot Walking Without Assistance"
+    excerpt: "Though the Optimus humanoid robot by Tesla is in the early development stage, Elon Musk proves it will change the world."
+    publishedDateTime: 2022-10-01T11:45:00Z
+    webUrl: "https://www.gizchina.com/2022/10/01/elon-musk-showed-optimus-humanoid-robot-walking-without-assistance/"
+    ampWebUrl: "https://www.gizchina.com/2022/10/01/elon-musk-showed-optimus-humanoid-robot-walking-without-assistance/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/10/01/elon-musk-showed-optimus-humanoid-robot-walking-without-assistance/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2022/10/Tesla-unveils-Optimus-its-futuristic-humanoid-robot-for-less-than.jpg"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "Elon Musk teases Tesla robot with humanoid ‘heart’ hands"
     excerpt: "Elon Musk has teased the unveiling of a humanoid robot during Tesla ’s annual AI Day this week. The tech billionaire shared an image of robotic hands making a heart shape, together with the 30 September date for the artificial intelligence event."
     publishedDateTime: 2022-09-28T05:50:00Z

@@ -72,20 +72,6 @@ related:
         width: 320
         height: 213
         isCached: true
-  - title: "Oosto offers advice on facial recognition implementations for stadium security"
-    excerpt: "The paper offers advice on how to use computer vision systems with facial recognition to improve safety and security outcomes at large-scale events."
-    publishedDateTime: 2022-09-26T17:14:00Z
-    webUrl: "https://www.biometricupdate.com/202209/oosto-offers-advice-on-facial-recognition-implementations-for-stadium-security"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 52
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/26125209/stadium-security-public-safety-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "New report offers blueprint for regulation of facial recognition technology"
     excerpt: "A new report outlines a model law for facial recognition technology to protect against harmful use of this technology, but also foster innovation for public benefit."
     publishedDateTime: 2022-09-27T19:36:00Z

@@ -32,15 +32,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Arthur Raises $42M to Ensure Enterprises are Using AI Models That are Accurate, Transparent, and Free of Bias"
-    excerpt: "Arthur, cofounded by Adam Wenchel, is a platform that monitors, measures, and improves machine learning models to deliver better results for enterprises."
-    publishedDateTime: 2022-09-30T13:27:00Z
-    webUrl: "https://www.alleywatch.com/2022/09/arthur-ai-performance-monitoring-efficiency-optimization-machine-learning-platform-adam-wenchel/"
-    type: article
-    provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 0
 
 secured: "fSqB2hNlEV0J+b4yVvQ2NaEfRAEXt14/X1xy+P6N648PK4ExxPARUhbgOxiBmw727P5HbWxf4AiinOyvUqSliOMbRPXWMAd6qQW1XdzseHOJ0pp31pDyjZouBcUVjTzs5k3pV7NBhMNFdTfC5vxBXQrzYSSpLjsFMnJSiTvRh2HmGQIOtmkPgB1Sx6XeZSBVJ6LxQ75bAKWVB4LsXS3m/fB9sVRUbmGoNvoK453CFE4BLFMGdzUH8U3YvUCN+PcgvYyJEoCb9tnpJE6MeC4hEx760Y+Snxjmga5gjxL2Eq/QGNZMhzkh1MwGGhLme1CPUdBEUU4HBbd4R/9eib+/CwtxXxmOX0kcLwvoqakiiTA=;+VkGBsgdTYgB3E5D7O0Dag=="
 ---
