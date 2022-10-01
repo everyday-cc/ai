@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/aliciakelso/2022/09/27/chipotle-is-testing
 ampWebUrl: "https://www.forbes.com/sites/aliciakelso/2022/09/27/chipotle-is-testing-more-artificial-intelligence-solutions-to-improve-operations/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aliciakelso/2022/09/27/chipotle-is-testing-more-artificial-intelligence-solutions-to-improve-operations/amp/"
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/633221be8c5b19d4dd44b11e/0x0.jpg?format=jpg&width=1200"

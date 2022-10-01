@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Nvidia unveils new gaming chip with AI features, taps TSMC for manufacturing"
-excerpt: "(Reuters) - Nvidia Corp on Tuesday announced new flagship chips for video gamers that use artificial intelligence (AI) to enhance graphics, saying it has tapped Taiwan Semiconductor Manufacturing ..."
-publishedDateTime: 2022-09-20T15:42:00Z
-originalUrl: "https://www.aol.com/news/nvidia-unveils-gaming-chip-ai-152535367.html"
-webUrl: "https://www.aol.com/news/nvidia-unveils-gaming-chip-ai-152535367.html"
+excerpt: "Sept 20 (Reuters) - Nvidia Corp (NVDA.O) on Tuesday announced new flagship chips for video gamers that use artificial intelligence (AI) to enhance graphics, saying it has tapped Taiwan ..."
+publishedDateTime: 2022-09-20T16:04:00Z
+originalUrl: "https://www.reuters.com/technology/nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-manufacturing-2022-09-20/"
+webUrl: "https://www.reuters.com/technology/nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-manufacturing-2022-09-20/"
 type: article
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://s.yimg.com/uu/api/res/1.2/8TmQ.W.852u0apPZA6Qgnw--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/48dafea4d69472a8a6b88f609e4dfbbf"
-    width: 800
-    height: 533
+  - url: "https://www.reuters.com/resizer/awrttdfwt7GldMh9Fah3hKj1RdQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KUNQZVB3LZK2NKDRMPVVVLXKL4.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
-secured: "uA9R683Uqq70tzKVHJePIVA0MKuNKL839J9Ltdz38wlyrRTGGDpiTUcYuuT1pa/hP5ESQlNV4G/KCR2XDCnXmU136ivvMOpexYufXBykJ6hssPEP5Jcsj3BhSvGE5Zf4ncnrHtjnmdYhvGeXuc+1XVrxOCYccAyUoVmoNBHc9EdBFY2qoiZ+lrFKWGrAde0abWg+KGlQBqy1y1kUQODK4uhpm73E9glFlJDa4Vj6Lv3tBj22NKozGP5m3wUW9Bga96AJ9idPAmLDdvwmxctgxeF6B/AMehz9rv32FxZ9dfynJDqegP5OMaJGps60EHxszdBTjlg2SbBErtYqNOZAY8MN2J+7Tts/fhPB/bcgXU4=;Xy/fAgu+QYsNgtUJy6gjRw=="
+secured: "GIrKeKwTIXekzezfJ2bEdCgA2GfmlJ8uL1KV5OBrL3AlWVRPno/Q2eZk61n+U147VxJim3rUQOajtdkMzuDEodgCJO0QYHHh811L5LouQHHgdmOF/Rgv+DxSvikw8ivBDDHhUfyWoYfuvrbjujgpMxAkbCRfqsHGz6PyK5sJ1FL4rSeLFZ/KhgyZbBfC/8ZZD014hKW1kWamFpDx9IMy4doMrtRUmvmgfLyKPewCDqQCGlezy9czIRlFFrvKdN49ji95xUW1h8PVRSaaEUSmccawUjowZQnwoKkIB7uRY/S8o2XIieHlnr+VeL7MAQpn2iuCgteYJqGJ9JC8JA3/gdDYN3zrdyE4gD7AhNcDfFs=;gQYYt1AhC1rXWpCPSuQPjA=="
 ---
 

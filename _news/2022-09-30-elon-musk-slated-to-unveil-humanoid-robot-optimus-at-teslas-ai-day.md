@@ -96,6 +96,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Elon Musk Unveils Humanoid Robot Optimus at Tesla’s AI Day"
+    excerpt: "The prototype, which the CEO showed off at a company’s AI event Friday, is part of his effort to shape public perception of the company as more than just a car maker."
+    publishedDateTime: 2022-10-01T04:15:00Z
+    webUrl: "https://www.wsj.com/articles/tesla-ai-day-2022-elon-musk-11664536415?mod=business_lead_pos10"
+    ampWebUrl: "https://www.wsj.com/amp/articles/tesla-ai-day-2022-elon-musk-11664536415"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-ai-day-2022-elon-musk-11664536415"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 121
+    images:
+      - url: "https://images.wsj.net/im-635281/social"
+        width: 1279
+        height: 640
+        isCached: true
   - title: "Tesla AI Day 2022: How to Watch Elon Musk's Optimus Robot, Self-Driving Car Tech"
     excerpt: "Tesla is working on a robot to handle \"repetitive, boring, and dangerous\" work. At AI Day 2022, expect updates on FSD technology for eventual self-driving cars, too."
     publishedDateTime: 2022-09-30T22:05:00Z
@@ -285,6 +301,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/f3b9cca20b42c6b64f72c2487d9b5f920369c531/36_0_3189_1914/master/3189.jpg?width=620&quality=85&auto=format&fit=max&s=1e133f459e6b928d3aa44a27fafa7fc4"
         width: 620
         height: 372
+        isCached: true
+  - title: "Watch: Elon Musk showcases humanoid robot at Tesla AI event"
+    excerpt: "\"Our goal is to make a useful humanoid robot as quickly as possible,\" Musk said at the event being held at a Tesla office in Palo Alto, California. Musk is also expected to discus"
+    publishedDateTime: 2022-10-01T05:14:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/current-affairs-trends/watch-elon-musk-showcases-humanoid-robot-at-tesla-ai-event-9260651.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/trends/current-affairs-trends/watch-elon-musk-showcases-humanoid-robot-at-tesla-ai-event-9260651.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/current-affairs-trends/watch-elon-musk-showcases-humanoid-robot-at-tesla-ai-event-9260651.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 91
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/10/elon-musk-tesla-ai-day-ImResizer-1.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Tesla just gave us a fresh glimpse of its humanoid robot ahead of its big AI Day event. What we know so far about the Optimus project."
     excerpt: "Elon Musk has said the robot could more important than its car business, but it'll join a long list of projects that haven't yet seen the light of day."
@@ -477,6 +509,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
+  - title: "Tesla AI Day 2022 introduces Optimus Unit 1 an autonomous humanoid robot that can be mass produced"
+    excerpt: "Tesla AI Day 2022 explored the processes required to mimic the human, driver and worker. The autonomous robot and car were laid out in detail"
+    publishedDateTime: 2022-10-01T03:43:00Z
+    webUrl: "https://interestingengineering.com/innovation/tesla-ai-day-2022-introduces-optimus-unit-1-an-autonomous-humanoid-robot-that-can-be-mass-produced"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 59
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/2022/10/01/image/jpeg/8VIOZkkDmaHhTddZkalvlJ0u2cTH5tq8XXcvs2xP.jpg"
+        width: 1920
+        height: 936
+        isCached: true
   - title: "Elon Musk teases Tesla robot with humanoid ‘heart’ hands"
     excerpt: "Elon Musk has teased the unveiling of a humanoid robot during Tesla ’s annual AI Day this week. The tech billionaire shared an image of robotic hands making a heart shape, together with the 30 September date for the artificial intelligence event."
     publishedDateTime: 2022-09-28T05:50:00Z

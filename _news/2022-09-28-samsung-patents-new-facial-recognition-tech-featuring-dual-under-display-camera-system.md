@@ -43,22 +43,6 @@ related:
         width: 1068
         height: 580
         isCached: true
-  - title: "Samsung patents a new facial recognition system for smartphones with a new dual under-display camera setup"
-    excerpt: "Samsung is working on a new facial recognition system that uses two under-the-display cameras and will be much harder to bypass or fool using masks or photographs."
-    publishedDateTime: 2022-09-26T11:31:00Z
-    webUrl: "https://www.firstpost.com/tech/news-analysis/samsung-has-patented-new-facial-recognition-system-that-uses-two-under-display-cameras-11335631.html"
-    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/samsung-has-patented-new-facial-recognition-system-that-uses-two-under-display-cameras-11335631.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/samsung-has-patented-new-facial-recognition-system-that-uses-two-under-display-cameras-11335631.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 41
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2022/09/Samsung-patents-a-new-facial-recognition-system-with-a-new-dual-under-display-camera-setup.jpg"
-        width: 640
-        height: 362
-        isCached: true
 
 secured: "JbArTfcW4SImgnJWMm3TeW6fl4VIbui2LQQeRpswxJsHU28JUCwhw0TQ7+faQ8u/vPyvS5KJBFZHnwpxbWMUgJmGyMFsVLSKf/3DFPjiJ9soQFpJ9RQEKH7jnMQRbRqkmYhxRACUPqXwjeoDiKKt6h80HF7oQwZMeKckxnaWcyIi7EP0riPsiFHz6ZCBBjtdf2eWbOX1qyKCowdBk2YUELglX9bo2MW5MO4M0kcxrZMQ7OcUsDaDdN9ODa31NC6nKeLnaZh7ut7PrSywy0Cfi0ImjB7khPexmBZ7wS5Gd8BTnZxmYZbT4G9LNCbXrRb5qPZJT80d+JiKE2+ZZis8lhaqDHOZpa7qsqpyMRYthYyN1eXTgx5z3l249zdHMEUb2a+K5DndBW+/vGEhk3Dxlazlwp3FYqdemEOvRb7TKpbrn7xKVobyDzSws1ad0Vbk1Lch156sUJKikFnMkn3cv6I44uKNDmJV+LgDxcPTBZhUXCrqO9x3PApKHvmaGCaFbB2hqbgiBYIgCC0gqEtLPA==;hfVqh8T/Voj6gLH32n6ldw=="
 ---

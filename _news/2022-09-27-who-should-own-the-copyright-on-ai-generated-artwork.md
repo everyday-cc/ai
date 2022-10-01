@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "Decipher the earliest languages, debate AI and learn about climate change research at START"
-    excerpt: "START (Start Talking About Research Today ) features music, debate, games, storytelling, screenings, and live experiments. Over 40 free events will showcase how Irish research is shaping society and offer people the chance to engage with the researchers leading the way."
-    publishedDateTime: 2022-09-26T11:34:00Z
-    webUrl: "https://www.tcd.ie/news_events/articles/decipher-the-earliest-languages-debate-ai-and-learn-about-climate-change-research-at-start/"
-    type: article
-    provider:
-      name: Trinity College%2c Dublin
-      domain: www.tcd.ie
-    quality: 27
-    images:
-      - url: "https://pxl-tcdie.terminalfour.net/prod01/channel_3/media/tcd/news-images/probe2016_6810-879X586.jpg"
-        width: 879
-        height: 586
-        isCached: true
 
 secured: "w8yGi6jlolTAOwLhE8brWwRZVQnLYHOPknHMdbKLoGCN0JceSINL+wTwunLqm5NMl6g0Iwxk7TpNBCt6bR3MbhCnskinYYS+NojPyHioCK77+3IGcgFuQyNfC1QTFka3fa/rsWfnXN+V2enIrf0R3FadhCLWadnEKfrLcMPEvtNuF68h+DJqSRCCFpD3EabFZomjIAQbzOMuG7svxI0Yiru5P/3TzN82+C/wRF13UtU92rgkfZEX/s5GCvh54Q3lqLHAmmjoctY0YqvNqeF250pj/jZ4rO6fHkdF+Li6VtBvY3rYM6YPfOXB2PuXcLstDqjT6lEKAMMpbnAwL5HkI71EN+q7oE6ZhkdkmSdDiOZ0NcxEobcwGtgMCgAQBXHvRfbGaKrwMZw/mQcHtZO42sq4lVFBsStCaFw6q5LmJzlopy4U2Eowe4yIHkPiTT6ouh++banSk7zSpmKx1vaQZjof4VP+GO6+JEPYitKAW+fn/GkHcaXrYlW2aFZPUuBvnmhzmQuKR1aMO1QWQsh1Ng==;2ilRG51nM4SzgW/wEm6vNg=="
 ---

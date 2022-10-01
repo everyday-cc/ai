@@ -2,6 +2,41 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-06-14-c3-ai-named-google-cloud-technology-partner-of-the-year-for-ai-and-machine-learning.md",
+      "title": "C3 AI Named Google Cloud Technology Partner of the Year for AI and Machine Learning",
+      "excerpt": "Company honored for accelerating Enterprise AI deployments C3 AI (NYSE:AI), the Enterprise AI application software company, announced it has been awarded the Google Cloud Technology Partner of the Yea",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/06/b27702799/c3-ai-named-google-cloud-technology-partner-of-the-year-for-ai-and-machine-learning",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/b27702799/c3-ai-named-google-cloud-technology-partner-of-the-year-for-ai-and-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27702799",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27702799",
+      "publishedDateTime": "2022-06-14T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-pleo-selects-lucinity-to-provide-trusted-ai-powered-aml-software-as-it-continues-to-scale.md",
       "title": "Pleo Selects Lucinity to Provide Trusted AI-powered AML Software as it Continues to Scale",
       "excerpt": "Pleo, the Danish $4.7B FinTech used by 20,000 companies across Europe, has selected Lucinity as its central hub for Financial Crime Prevention after a rigorous selection process. Founded in 2015, Pleo offers smart spending solutions for forward-thinking companies through a streamlined approach to expense management.",
@@ -1310,49 +1345,6 @@
       "provider": {
         "name": "Daily Herald",
         "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-gretel-keeps-the-data-trail-hidden.md",
-      "title": "Gretel Keeps the Data Trail Hidden",
-      "excerpt": "In the financial services area, Gretel often helps companies identify ... do we augment our existing real world customer data with synthetic data to help my machine learning algorithms do better.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2022/06/01/gretel-keeps-the-data-trail-hidden/",
-      "originalUrl": "https://www.datanami.com/2022/06/01/gretel-keeps-the-data-trail-hidden/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/06/data_twist_shutterstock_Yurchanka-Siarhei.jpg",
-          "width": 679,
-          "height": 373,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-01-openais-dalle-2-may-mean-we-never-need-stock-photos-again.md",
+      "title": "OpenAI's Dall•E 2 may mean we never need stock photos again",
+      "excerpt": "Typing a sentence about a scenario, such as an anxious Windows user seated at their desk seeing a patch warning, could give you just the image you need to accompany an article.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/openais-dalloe-2-may-mean-we-never-need-stock-photos-again/",
+      "originalUrl": "https://www.zdnet.com/article/openais-dalloe-2-may-mean-we-never-need-stock-photos-again/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/54b762c082e6edd74534c9ca1b33d0f2fa1cf052/2022/10/01/4dbd71ee-49de-4b9b-a78e-261b4d2c728c/dall-e-person-explaining-to-coworkers.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/openais-dalloe-2-may-mean-we-never-need-stock-photos-again/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openais-dalloe-2-may-mean-we-never-need-stock-photos-again/",
+      "publishedDateTime": "2022-09-30T20:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-01-putins-satanism-speech-compared-to-rhetoric-from-maga-republicans.md",
       "title": "Putin's 'Satanism' Speech Compared to Rhetoric From MAGA Republicans",
       "excerpt": "Russian President Vladimir Putin accused the West of \"Satanism\" and bemoaned that \"there are supposedly genders besides women and men\" on Friday.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -760,33 +812,24 @@
     {
       "path": "_news/2022-09-18-say-hello-to-the-next-generational-ai-earbud-thats-the-most-cost-effective-translation-equipment-for-churches-timekettle.md",
       "title": "Say Hello to the Next Generational AI Earbud That’s the most cost effective translation equipment for churches – Timekettle",
-      "excerpt": "Listen to the powerful preaching of God’s Word, now in your own language with the AI church translation equipment earbuds. GUANGDONG – SEPTEMBER 18, 2022 – Earbuds have come a long way since ...",
+      "excerpt": "Listen to the powerful preaching of God’s Word, now in your own language with the AI church translation equipment earbuds. GUANGDONG – SEPTEMBER 18, 2022 – Earbuds have come a long way since they were introduced to the world way back in 1891 by Ernest Mercadier.",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/say-hello-to-the-next-generational-ai-earbud-thats-the-most-cost-effective-translation-equipment-for-churches-timekettle",
-      "originalUrl": "https://www.digitaljournal.com/pr/say-hello-to-the-next-generational-ai-earbud-thats-the-most-cost-effective-translation-equipment-for-churches-timekettle",
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-9-18-say-hello-to-the-next-generational-ai-earbud-thats-the-most-cost-effective-translation-equipment-for-churches-timekettle",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-9-18-say-hello-to-the-next-generational-ai-earbud-thats-the-most-cost-effective-translation-equipment-for-churches-timekettle",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/09/41e395708debd6ae3966ea4efa35798d0005f99b-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-17T22:54:00-07:00",
+      "publishedDateTime": "2022-09-17T10:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1404,49 +1447,6 @@
         "Natural Language Processing",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-natural-language-processing-nlp-market-report-2022-industry-insights-share-size-market-growth-trends-and-forecast-2029-97-report-pages.md",
-      "title": "Natural Language Processing (NLP) Market Report 2022 | Industry Insights, Share, Size, Market Growth, Trends and Forecast 2029 | 97 Report Pages",
-      "excerpt": "Sep 13, 2022 (The Expresswire) -- Global “Natural Language Processing (NLP)Market”2022 Research report is an in-depth study of the market Analysis. Along with the most recent patterns and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-report-2022-industry-insights-share-size-market-growth-trends-and-forecast-2029-97-report-pages-2022-09-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-report-2022-industry-insights-share-size-market-growth-trends-and-forecast-2029-97-report-pages-2022-09-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T19:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

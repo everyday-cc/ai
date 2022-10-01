@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "This Artificial Intelligence App Wants To Make You A Better Teacher"
-    excerpt: "TeachFX raised $10 million in a Series A funding round to expand use of its app that provides feedback to teachers—confidentially."
-    publishedDateTime: 2022-09-27T12:01:00Z
-    webUrl: "https://www.forbes.com/sites/emmawhitford/2022/09/27/this-artificial-intelligence-app-wants-to-make-you-a-better-teacher/"
-    ampWebUrl: "https://www.forbes.com/sites/emmawhitford/2022/09/27/this-artificial-intelligence-app-wants-to-make-you-a-better-teacher/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawhitford/2022/09/27/this-artificial-intelligence-app-wants-to-make-you-a-better-teacher/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/633254d6de0e387de2dd5380/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "The Problem With Biased AIs (and How To Make AI Better)"
     excerpt: "Many AI systems can exhibit biases that stem from programming or data sources. Learn what a top AI ethicist says about how we can mitigate bias in algorithms and protect against potential risks to consumers."
     publishedDateTime: 2022-09-30T05:40:00Z
@@ -60,15 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "EU Commission to make it easier to sue over AI products"
-    excerpt: "The European Commission has proposed new rules to help people harmed by products using (AI) and digital devices like drones. The AI Liability Directive would reduce the burden of proof on people suing over incidents involving such items."
-    publishedDateTime: 2022-09-28T18:22:00Z
-    webUrl: "https://www.bbc.com/news/technology-63033084"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 47
 
 secured: "aV4GGWD8CBdjVu3b7/nqK6hsdt3/bY414iMSLD/ZiCEug2AhJfLmyirFIEJC+5GYaXIdZZgAi7pqdFDekDHQAnqNJcQ92XcUuhF5vVZF8TsUYaG3g2zyl3UjwF89gxu1hJst5ClNVFSDOIaDn4qpo7R1WEcfTNzWWatg2ssTksh8bTZQ22pzPynKjE+T77ipR3QAjX7PoyMXvIXEPF1NiwI1+8btqIzYDXpJp+loeN2qippkuW/nmlnns4fytkW+asInO2t3s6dgM9yD/zvYA9EN5S26DVDH+cUtDiUxJIyo8KJnmCwytHkBIukgPHQ/N9Sn5FugxCskQpVsA4mf79ePWL4dsFrru02kCstS5ljJVF4IY+YBkleY9p6vzCxqdW7M/EO/cvpeYpX/u7bfLE42tJwaAZi93wCiUPfQBpmgdBNcd4jhm5pHgITBwTAM1tkQFm9W72/F0mbR9a2S4GwwEEjsEHqnO3aPA1nkF+B6tdmyUKZRComypPfMnOVRGEowniusWZDXGZmyBgZ0DA==;ZYcS4H2Z/4scpl811+gAhQ=="
 ---

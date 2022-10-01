@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla AI Day: Here’s what to expect in Palo Alto tonight"
+    excerpt: "Tesla will hold its second annual AI Day in Palo Alto Friday evening. The 6-hour event will include updates on Tesla’s work in AI, “Full Self-Driving,” its supercomputer"
+    publishedDateTime: 2022-09-30T17:49:00Z
+    webUrl: "https://www.eastbaytimes.com/2022/09/30/tesla-ai-day-in-palo-alto-heres-what-to-expect/"
+    ampWebUrl: "https://www.eastbaytimes.com/2022/09/30/tesla-ai-day-in-palo-alto-heres-what-to-expect/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/09/30/tesla-ai-day-in-palo-alto-heres-what-to-expect/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 76
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/09/hypatia-h_5f674fbb74773d0b1a5da54f0814323e-h_2c8f0881fb060bc947bc53300013629c.jpg?w=1024&h=575"
+        width: 1024
+        height: 575
+        isCached: true
   - title: "Tesla AI Day in Palo Alto: Here’s what to expect"
     excerpt: "Tesla will hold its second annual AI Day in Palo Alto Friday evening. The 6-hour event will include updates on Tesla’s work in AI, “Full Self-Driving,” its supercomputer"
     publishedDateTime: 2022-09-30T17:49:00Z

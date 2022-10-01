@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/intel-drives-forward-with-mobileye-se
 webUrl: "https://www.wsj.com/articles/intel-drives-forward-with-mobileye-self-driving-car-units-ipo-plans-11664579959?mod=newsviewer_click"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Wall Street Journal
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Intel's Self-Driving Unit Mobileye Files for U.S. IPO"
+    excerpt: "Comparative assessments and other editorial opinions are those of U.S. News and have not been previously reviewed, approved or endorsed by any other entities, such as banks, credi"
+    publishedDateTime: 2022-09-30T21:13:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2022-09-30/intels-self-driving-unit-mobileye-files-for-u-s-ipo"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
   - title: "Intel's self-driving unit Mobileye files for listing in first sign of thawing tech IPO market"
     excerpt: "US listings raised a little over $7 billion this 2022, down from $154 billion in 2021"
     publishedDateTime: 2022-10-01T02:30:00Z

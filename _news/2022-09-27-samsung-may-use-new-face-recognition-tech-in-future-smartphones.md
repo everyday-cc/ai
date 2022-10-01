@@ -9,8 +9,8 @@ ampWebUrl: "https://m.timesofindia.com/gadgets-news/samsung-may-use-new-face-rec
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/samsung-may-use-new-face-recognition-tech-in-future-smartphones/amp_articleshow/94479585.cms"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Indiatimes
@@ -42,22 +42,6 @@ related:
       - url: "https://images.hindustantimes.com/tech/img/2022/09/28/1600x900/1_1664348615765_1664348622862_1664348622862.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Samsung patents a new facial recognition system for smartphones with a new dual under-display camera setup"
-    excerpt: "Samsung is working on a new facial recognition system that uses two under-the-display cameras and will be much harder to bypass or fool using masks or photographs."
-    publishedDateTime: 2022-09-26T11:31:00Z
-    webUrl: "https://www.firstpost.com/tech/news-analysis/samsung-has-patented-new-facial-recognition-system-that-uses-two-under-display-cameras-11335631.html"
-    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/samsung-has-patented-new-facial-recognition-system-that-uses-two-under-display-cameras-11335631.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/samsung-has-patented-new-facial-recognition-system-that-uses-two-under-display-cameras-11335631.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 41
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2022/09/Samsung-patents-a-new-facial-recognition-system-with-a-new-dual-under-display-camera-setup.jpg"
-        width: 640
-        height: 362
         isCached: true
 
 secured: "mj+vYzG2X4MF/m98dgcFOKIx6X33/fNyG4Jio0F177llWq+hrQS0JaBbRdnLLzwTA/rEcgLgjFR2FGG+IzICY3Z8ufEAXnEk88DS7RkP7V5aQZqE8wlBwmFvGTb3alKnpvgBUZWdsQab3PH8KxzHb4hO2houYbdXkzcZHRcGTSixTe1fFQvLdDymWHIw930Fy799a4myOlbD0Jd9mEt4iEO6UanWSyGQRzGoNPmIxG0LXdvrbR+10rnX/HsXWuIsMOrbtkzbRbJdaEFdS8QhFrKTbDhQTWntneM8i8SjJjPOBxH2owaEfszytnrGCwjgBQsIIuIFgMxXE+WrOTyU5hd3AX20hWV6VMWhBxKCJI4z+Q17R+YTqB/arIO8mNlEllxesa7vxtoi1I3ziYBepqpmVfF97vyssx1jTdvsuFqHuuQYJu1ilsMEb1RlRmQ6nZi76zgGMIPWqcCu2m2kWcgG0qXpzuC9uXJkk1DMc14ntAC5RUKUc3UrZV0wXDZvCh3Ow0RtaC8HH6TLLZaykw==;8t4liNXfhrNkVCMfII5rQQ=="

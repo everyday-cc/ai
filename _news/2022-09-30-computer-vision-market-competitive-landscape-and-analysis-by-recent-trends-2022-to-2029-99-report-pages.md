@@ -127,20 +127,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Market Assessment (2022-2028) | 29.4% CAGR to Garner USD 127.26 Billion by 2028"
-    excerpt: "Global “Natural Language Processing Market Size” report explores comprehensive and insightful Information about various"
-    publishedDateTime: 2022-09-26T12:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-assessment-2022-2028-294-cagr-to-garner-usd-12726-billion-by-2028-2022-09-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2027"
     excerpt: "The global Facial Recognition market size was valued at USD 3975.52 million in 2021 and is expected to expand at a CAGR"
     publishedDateTime: 2022-09-28T04:42:00Z
@@ -192,26 +178,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
-  - title: "Home Security System Global Market Report 2022: Implementation of AI & Deep Learning Drives Sector Growth - ResearchAndMarkets.com"
-    excerpt: "The global home security system market is expected to grow from $3.92 billion in 2021 to $3.96 billion in 2022 at a compound annual growth rate (CAGR) of 1.2%. The growth is mainly due to the companies resuming their operations and adapting to the new normal while recovering from the COVID-19 impact,"
-    publishedDateTime: 2022-09-26T12:10:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-26-home-security-system-global-market-report-2022-implementation-of-ai-and-deep-learning-drives-sector-growth-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 21
-  - title: "With 26.6% CAGR, Cognitive Computing Market Size worth USD 72.26 Billion in 2027"
-    excerpt: "The Cognitive Computing Market Size is expected to gain momentum by exhibiting a stellar CAGR of 26.6% between 2020 and 2027. This is attributable to the increasing"
-    publishedDateTime: 2022-09-26T11:16:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/g29005672/with-26-6-cagr-cognitive-computing-market-size-worth-usd-72-26-billion-in-2027"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29005672"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29005672"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 21
   - title: "The Global Security Robots Market size is expected to reach $74.5 billion by 2028, rising at a market growth of 15.5% CAGR during the forecast period"
     excerpt: "Reportlinker.com announces the release of the report \"Global Security Robots Market Size, Share & Industry Trends Analysis Report By Type, By End User, By Regional"
     publishedDateTime: 2022-09-29T13:54:00Z

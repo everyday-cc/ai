@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/i-tested-out-an-ai-art-gene
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tested-out-an-ai-art-generator-and-heres-what-i-learned/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2022/09/27082001/SEI_126984592.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Decipher the earliest languages, debate AI and learn about climate change research at START"
-    excerpt: "START (Start Talking About Research Today ) features music, debate, games, storytelling, screenings, and live experiments. Over 40 free events will showcase how Irish research is shaping society and offer people the chance to engage with the researchers leading the way."
-    publishedDateTime: 2022-09-26T11:34:00Z
-    webUrl: "https://www.tcd.ie/news_events/articles/decipher-the-earliest-languages-debate-ai-and-learn-about-climate-change-research-at-start/"
-    type: article
-    provider:
-      name: Trinity College%2c Dublin
-      domain: www.tcd.ie
-    quality: 27
-    images:
-      - url: "https://pxl-tcdie.terminalfour.net/prod01/channel_3/media/tcd/news-images/probe2016_6810-879X586.jpg"
-        width: 879
-        height: 586
         isCached: true
 
 secured: "1Z1ZDOxIzaDFZi3lSDrVmNObX5Av7C7+1nQ/pd29cXYFd6/LuRHyLjn2c/1IOm4YjqQnz5Gr74PQxr/xysG8Pc4sNi8o0zOPzXqpV2VxQoDyH/y9xfNqJxHxwqwHpm3AXv25zpOy3xp9rAV5gsx5z2b5AR8/lXVpvV4bDB6d60QMwEXvuxhiwrMJ0lDHqQ/M4wBEa/eLWjsE6tMLs/Ha2thNFO4NimbsAudL2uegTGxKunwkZSEZ1Oc2p5l4MsN5D74AYz2EkmCE5EM3O67OECS970lStBakf6TsLUXpzT77fNH/bqAmRi5ssT5eQdhARfUr+34wFSbLzN44fFcQilhSFH0oUvpZsFEUXa5IW/6ac78B6y5r47qPZwvneFVdTNtVFOy9i3UCEMJ0uqxWg2NWr6zLokPn3PeqdTX1KS5tLVEdYaI09zAEvs/NPTHBcd9DrZzEOf4cJ5ny7IkOiZg9BPRc2RDgjQMrpLEqwHRJv8ql9cj0wH9vMgWjmCVsxx5Tj2jRkUjfkafCUiwTOg==;0sYd07hUy2M2swmMBI5tJA=="

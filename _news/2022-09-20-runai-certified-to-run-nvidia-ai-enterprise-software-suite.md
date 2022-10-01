@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Run:ai Certified to Run NVIDIA AI Enterprise Software Suite"
-excerpt: "Run:ai Certified to Run NVIDIA AI Enterprise Software Suite Sep 20, 2022 (PRNewswire via COMTEX) -- PR Newswire TEL AVIV, Israel, TEL"
+excerpt: "Run:ai, the leader in compute orchestration for AI workloads, today announced that its Atlas Platform is certified to run NVIDIA AI Enterprise, an end-to-end, cloud-native"
 publishedDateTime: 2022-09-20T16:45:00Z
-originalUrl: "https://www.marketwatch.com/press-release/runai-certified-to-run-nvidia-ai-enterprise-software-suite-2022-09-20"
-webUrl: "https://www.marketwatch.com/press-release/runai-certified-to-run-nvidia-ai-enterprise-software-suite-2022-09-20"
+originalUrl: "https://www.benzinga.com/pressreleases/22/09/n28936086/run-ai-certified-to-run-nvidia-ai-enterprise-software-suite"
+webUrl: "https://www.benzinga.com/pressreleases/22/09/n28936086/run-ai-certified-to-run-nvidia-ai-enterprise-software-suite"
+ampWebUrl: "https://www.benzinga.com/amp/content/28936086"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28936086"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "Kj4aGx2BbBz6gGNQ1QDfr6gZgg3v9Ix1PzMCPB6ABNbOJeN4qiqDbl2SOymc8J17Ur9JUpP8JJ9jvmgmhGIvSkNKRE6T+Z/ESvhtvZR+sT+gKtUMIceumOW3/2rv5SJF5/fFEvJbkW1Y6gDM+53Qhfmysmv96c5gT5JIJSOr2GYvx1R0/lL/fEakxf00MRJQtCSPRszJ+7ZzBN465S9uHAJOPyBR6xGaplwUQKC2i4kko0iK+JW343hsyCuOZfDO2emEWFx+OZ1B+L2PPm1GMptiD8+OyJomnjxS1O3RiD2ZexBi8b8Zl4Y2kwRCG05YHHbm98B3AuonqCs/PU5/mRPoxKHBxMch0dGnsDIgYdg=;c+kRYbkk7/jhYv8lckWXKA=="
+images:
+  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/28171512/image-55-1024x683.png"
+    width: 1024
+    height: 683
+    isCached: true
+
+secured: "aTz38HKtQwW9TNd70q7IDiQyB9Pg+9vyHGHF7B/p4ZNP7qc/lQLadxrfK8C4Z+aev/5aQjrO9CdAQMCheqXxSYPIQu0eu+cEV4Np3fNc/BlZzEDkrkH+GXdcuVa9rIKVoz1e/ERYFiIOEq0PttonJ6XJqFnLTKVXsa/AZ+hiGTbXh1Ac55qCGZLA7N60Gm5O8XiB3O78T+eEd5C+CriZUSfIshIjCZWY5Z3jFEu/6TBSzekcI3QJ8BQIk2uTSEPFODyjDeN4enE4/rSqRTa4ICRvd0hRe/3rJBEbL74QRf00Cy4e73w+0RmXR0RlWvkIAkkkUWv3iFLqWqrEIMGeAXCpKdHsBfNzUJwc3CtbAZQ=;GwN+D9vBMHKDhpKjIwrm3A=="
 ---
 

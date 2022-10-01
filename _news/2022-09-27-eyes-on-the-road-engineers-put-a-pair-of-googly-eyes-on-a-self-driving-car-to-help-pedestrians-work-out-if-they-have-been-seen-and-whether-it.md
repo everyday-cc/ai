@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11250965/amp/Japanes
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11250965/amp/Japanese-engineers-pair-googly-eyes-self-driving-car.html"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 636
     height: 382
     isCached: true
-
-related:
-  - title: "Why Don’t You Have A Self-Driving Car Yet? This 2-Part Series Explains The Big Remaining Problems"
-    excerpt: "People often ask, “Where’s my self-driving car?” “Why don’t I have one and when will it come?” A lot of people feel they were promised a car by the late 20-teens and it’s late, and perhaps isn’t coming, like the flying cars talked about ..."
-    publishedDateTime: 2022-09-26T13:05:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2022/09/26/why-dont-you-have-a-self-driving-car-yet--this-2-part-series-explains-the-big-remaining-problems/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 36
 
 secured: "uHZegaCe3cB3EjNOeEeOIFBZPMjBdajaONh7UW7hW3at57gb3s79k3P3n6pz8PIhc1LdB0hWYuIFLo3SSeWTheN6rpIqvkUbYq7t5OzRofazWaEDdK5aIXC8eHxgofGsDVJ1AARjrEh1tjC6O5Kljfrp4T7FIjKddvMV5+dDCcD4b3srIHwHJPJuOTohzjOT+DDSbLSSpwJKOdJehCtdg38nFzH/yyGKtOK0nEMVCbKKlIrbxnwwC60h4+vEPgbWLd/a8kGGdx36SNFTcCLOB+wP7uQk6YV1pYh58m27GaWe8I7AMCDZpGq3IcfAiQKnDJMUysGOOTz9bgAhpzdhsY2xb0PLuD8mFnmYehdi0N8=;2U6L9vq0LUM4g5hynkfI1A=="
 ---

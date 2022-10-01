@@ -41,6 +41,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Intel's Self-Driving Unit Mobileye Files for U.S. IPO"
+    excerpt: "Comparative assessments and other editorial opinions are those of U.S. News and have not been previously reviewed, approved or endorsed by any other entities, such as banks, credi"
+    publishedDateTime: 2022-09-30T21:13:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2022-09-30/intels-self-driving-unit-mobileye-files-for-u-s-ipo"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
 
 secured: "WkRCPmClO2GKo7V1oce2OfaguCOhm6eOJQufCumwND6GSW//OTf8+56KCH2lResX9VLtArc5gXRrLZqQlngUIPNgZQaiQAAbdPVWTcUcX6XMw8UcYj3CgAx/MRdzwM3Td65Boom0WMa2QkSvnLGCw6mfdZIa5eAfJ07MH9zoMjcbP/YjdaUxVLjjavsbq7Rf3mFdk7ZSu5WMvHmmZN8QWCmOBPwx5npHKV6ftyxIalslQKyDXNzrk8rwXGRYEcEmIHJdE9GSiWIRwh8CPwvh0LlgetYlsocYYL+CAsUFfD8MpAXTEe5RuKCNEPbV5Fiu9kmNWRsN1WQsAbUC+twVZtsj9voMEoQegZMuRYr/jlU=;Dx/O4V8zwf9H3e0XadvheQ=="
 ---
