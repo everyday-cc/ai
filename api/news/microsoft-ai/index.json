@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai-tool-can-predict-missed-doctors-appointments/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 244,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -711,19 +711,19 @@
     {
       "path": "_news/2022-09-21-wallaroo-labs-launches-in-azure-marketplace-announces-air-gap-support-for-edge-machine-learning-deployment.md",
       "title": "Wallaroo Labs Launches in Azure Marketplace; Announces Air Gap Support for Edge Machine Learning Deployment",
-      "excerpt": "Wallaroo Labs today announced the availability of Wallaroo Enterprise Edition on Microsoft Azure Marketplace. Wallaroo's model operations platform for deploying, observing, and managing machine learning in production enables customers to easily operationalize ML Models with our purpose-built inference engine,",
+      "excerpt": "“We look forward to continuing to work with Azure to help data teams in industries ... it easy for enterprises to deploy and manage machine learning models at the edge in environments with ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/09/21/9677902.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/09/21/9677902.htm",
+      "webUrl": "https://www.joplinglobe.com/region/national_business/wallaroo-labs-launches-in-azure-marketplace-announces-air-gap-support-for-edge-machine-learning-deployment/article_cb133d7e-bafc-500f-bfce-bf1b94fc6b45.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/wallaroo-labs-launches-in-azure-marketplace-announces-air-gap-support-for-edge-machine-learning-deployment/article_cb133d7e-bafc-500f-bfce-bf1b94fc6b45.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
-          "width": 476,
-          "height": 210,
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg",
+          "width": 350,
+          "height": 456,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -733,11 +733,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T06:22:00-07:00",
+      "publishedDateTime": "2022-09-21T05:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -747,10 +747,9 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "Microsoft AI",
         "AI",
-        "Machine Learning",
-        "Microsoft AI"
+        "Machine Learning"
       ]
     },
     {
@@ -1131,20 +1130,20 @@
     },
     {
       "path": "_news/2022-09-20-cognitive-impairment-in-hispanic-adults-linked-to-discrimination-experiences.md",
-      "title": "Cognitive Impairment in Hispanic Adults Linked to Discrimination Experiences",
-      "excerpt": "Now a new study shows that experiences with discrimination may be playing a role in disproportionate experiences of cognitive decline. In a first-of-its-kind study, published recently in the journal Social Science & Medicine, researchers from The ...",
+      "title": "Cognitive impairment in Hispanic adults linked to discrimination experiences",
+      "excerpt": "Now a new study shows that experiences with discrimination may be playing a role in disproportionate experiences of cognitive decline. In a first-of-its-kind study, published recently in the ...",
       "sourceUrl": null,
-      "webUrl": "https://cns.utexas.edu/news/cognitive-impairment-in-hispanic-adults-linked-to-discrimination-experiences",
-      "originalUrl": "https://cns.utexas.edu/news/cognitive-impairment-in-hispanic-adults-linked-to-discrimination-experiences",
+      "webUrl": "https://medicalxpress.com/news/2022-09-cognitive-impairment-hispanic-adults-linked.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-09-cognitive-impairment-hispanic-adults-linked.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cns.utexas.edu/images/easyblog_articles/5822/b2ap3_large_Discrimination-HHM.jpg",
-          "width": 1280,
-          "height": 768,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/hispanic-family-1.jpg",
+          "width": 2880,
+          "height": 1920,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1152,13 +1151,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T10:03:00-07:00",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-09-cognitive-impairment-hispanic-adults-linked.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-cognitive-impairment-hispanic-adults-linked.amp",
+      "publishedDateTime": "2022-09-19T11:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Journalism in the Americas",
-        "domain": "utexas.edu",
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

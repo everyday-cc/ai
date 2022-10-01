@@ -2,17 +2,17 @@
 category: news
 title: "Tesla’s AI Day is tonight. It may wow you — or end with a gaffe"
 excerpt: "By Matt McFarland, CNN Business Tesla will hold its second annual AI Day in Palo Alto, California, Friday evening. The six-hour event will include updates on Tesla’s work in artificial intelligence, “Full Self-Driving,"
-publishedDateTime: 2022-09-30T22:34:00Z
-originalUrl: "https://localnews8.com/money/cnn-social-media-technology/2022/09/30/tesla-ai-day-heres-what-to-expect/"
-webUrl: "https://localnews8.com/money/cnn-social-media-technology/2022/09/30/tesla-ai-day-heres-what-to-expect/"
+publishedDateTime: 2022-09-30T17:34:00Z
+originalUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2022/09/30/tesla-ai-day-heres-what-to-expect/"
+webUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2022/09/30/tesla-ai-day-heres-what-to-expect/"
 type: article
 quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Local News 8
-  domain: localnews8.com
+  name: KTVZ
+  domain: ktvz.com
 
 topics:
   - AI Hardware
@@ -20,7 +20,7 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://localnews8.b-cdn.net/2022/09/hypatia-h_5f674fbb74773d0b1a5da54f0814323e-h_2c8f0881fb060bc947bc53300013629c-300-860x484.jpg"
+  - url: "https://ktvz.b-cdn.net/2022/09/hypatia-h_5f674fbb74773d0b1a5da54f0814323e-h_2c8f0881fb060bc947bc53300013629c-300-860x484.jpg"
     width: 860
     height: 484
     isCached: true
@@ -78,6 +78,6 @@ related:
       domain: stuff.tv
     quality: 36
 
-secured: "Uces9xnt0WMK4Me1upqfwJ0SN1PyRUWU7ya7QTYMFKoKRvBN5WCouwKbBtFvER9HWD9iiVOKeSdgJhH0Ij5rHrqGgadlU3YJspDSPmgvZua/qbKgyre53byOiSDlWU0JP6+t841q+AOKKsGTQ74X49o2qEA5g5nGkaUHtzPBwE9NnkWGHom/kbUzyPeAd3ht0yYaegGARWrEtjFdiQfrTCzR6JAeNlFPZcYjMGn6DdY8B2l7Rh24EEnlVuDi0IX/y4arbFyiJRYNUHvYQeLLyaDHF7QsbA8odP0sSRzvwS+oJn6EgpcHWqQYR+ipi+aGeGTx1Xw+afTw304wCaxpGuXNojSR5capAPErOuJP9w0=;qzBS0YfUUQQiCk+1JpM/RQ=="
+secured: "utjTqPyE3MDjrLq0A49XJxheO0nRgMEA9mavw1ccv3ulykqYxHsULaGXcTeaf0BcdWZH8QXFtHHCFpsWRFucEUYL/KTN7zAG6kCZA9y145dcIx3e17yOOECo9MGxjzzkTzyNfF90JrAYxzjAkFmXpzQVsoedCj2mAAl0i+RDGqpRiI9kDQMk6iT43fQNDacAlGdbPRA+iYveuMXPQned8vNt2vyWAuMBBNKe8FPdlXl+9rTxZccO6JEqJ5nJRDaFBvCVIzigTq1dbh4HetXwJhllxe6muzc9+EnokXvA3Y6MWgJjRiN9AKx7hOFAbTcu+sCCcNAG3/DBgieVjTqGpNsEVfjSN+BjF14Qh9TdNdY=;cHvpt2E9+SBnXz1aUQOtxw=="
 ---
 

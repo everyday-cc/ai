@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/metas-new-make-a-video-signals-the-next-g
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -121,15 +121,6 @@ related:
         width: 718
         height: 399
         isCached: true
-  - title: "Meta is using AI to generate videos from just a few words"
-    excerpt: "Artificial intelligence is getting better and better at generating an image in response to a handful of words, with publicly available AI image generators such as DALL-E 2 and Stable Diffusion. Now, Meta researchers are taking AI a step further: they’re using it to concoct videos from a text prompt."
-    publishedDateTime: 2022-09-29T22:04:00Z
-    webUrl: "https://keyt.com/news/2022/09/29/meta-is-using-ai-to-generate-videos-from-just-a-few-words/"
-    type: article
-    provider:
-      name: KEYT
-      domain: keyt.com
-    quality: 19
 
 secured: "PpnKSWO5y0fVkwdYe5ektgNXUF0uhuXl24/rePR7ZEf2NSTdv17mdqHWt3wzzgYRSvQvWwnSyPIEpRnJA2YmAYLY70l0TVJ53tDyWBMSpiL9PyWIeL9Hv31xGo0L+Hbgst+hLLgXrBw/wu8tyZE/tyFCURNdJTW/BPnqfajhCvUN89RwzttMeWyCUDEDnpOIHQTvMVaaGqE1ChtAb4a7XEIMUQCtYuw7WA9AS7DdFVzIzLI5g9wJPVhGMvaLQYZinyOMYnBkf16xUQkijiCcHNmpYhW1EtPkfdeHYEHwCPaUBsbyw//NaEW2MGp+jnwoTq4fwKJKy66c88Vd2NsYXQzfUjHavCRRXoroqUhGOsgJKu7dts8dISYPX25gLlgJFUHYHOCaj5XxoTMSaStIKbDNXfHH+sl9VAt4qAqapCyXi3uHzD2bnLVvCFIczafxZBJhsHVv38huICZJgU7IjOU+yXDsI8y+k1gN+cBHWtKG42agcjXzd1pC+aA8c8GCntwlXhD8lUiKtLtzuq2PkQ==;1kx6RdlEm08DHBdkmyCgDA=="
 ---

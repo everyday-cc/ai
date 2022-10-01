@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/ai/hugging-face-steps-toward-democratizing-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/hugging-face-steps-toward-democratizing-ai-and-ml-with-latest-offering%EF%BF%BC/amp/"
 type: article
 quality: 106
-heat: -1
-published: false
+heat: 116
+published: true
 
 provider:
   name: VentureBeat
@@ -32,69 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Closing The Gap Between Marketing And AI Systems"
-    excerpt: "Today, thanks to AI, even a small business can achieve great success through a global audience, democratizing this opportunity for those willing to work for it."
-    publishedDateTime: 2022-09-26T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/amp/"
+  - title: "Open Source Initiative expands its role to AI and machine learning"
+    excerpt: "Over the last 20 years, the OSI has been the guardian of open-source licenses, but now it will also address non-open-source licenses more and AI's role in software development."
+    publishedDateTime: 2022-09-27T22:53:00Z
+    webUrl: "https://www.zdnet.com/article/open-source-initiative-expands-its-role-to-ai-and-machine-learning/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/open-source-initiative-expands-its-role-to-ai-and-machine-learning/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/open-source-initiative-expands-its-role-to-ai-and-machine-learning/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 106
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6287969035c5da55f8c60506/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/3c1ea6cf644b8f0c18c87df7ba298600562c668f/2021/03/24/c3ea3f5e-2f66-4702-934e-1f91f33c3cb9/open-source-initiative-logo.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
-        height: 800
-        isCached: true
-  - title: "Regie secures $10M to generate marketing copy using AI"
-    excerpt: "Regie was founded in 2020 by Matt Millen and Srinath Sridhar. Previously a software engineer at Google and Meta, Sridhar is a data scientist by trade, having developed enterprise-scale AI systems that detect duplicate images and rank search results."
-    publishedDateTime: 2022-09-28T21:24:00Z
-    webUrl: "https://techcrunch.com/2022/09/28/regie-secures-10m-to-generate-marketing-copy-using-ai/"
-    ampWebUrl: "https://techcrunch.com/2022/09/28/regie-secures-10m-to-generate-marketing-copy-using-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/28/regie-secures-10m-to-generate-marketing-copy-using-ai/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1148091243.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How AI Is Changing The Game In Insurance"
-    excerpt: "The insurance industry is one of the largest in the world and has been around for hundreds of years, making it ripe for transformation by newcomers in the space. Technology has pushed the frontier of what’s possible,"
-    publishedDateTime: 2022-09-27T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/garydrenik/2022/09/27/how-ai-is-changing-the-game-in-insurance/"
-    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2022/09/27/how-ai-is-changing-the-game-in-insurance/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/09/27/how-ai-is-changing-the-game-in-insurance/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/632e1d204d78bb340e7d2c21/0x0.jpg?format=jpg&width=1200"
-        width: 640
-        height: 290
-        isCached: true
-  - title: "Decision intelligence - closing the gap between data and leadership"
-    excerpt: "Recent events in the UK have demonstrated the importance of scenario planning and stress testing: often overlooked disciplines that are increasingly supported by the emerging technology of decision intelligence (DI)."
-    publishedDateTime: 2022-09-30T09:55:00Z
-    webUrl: "https://diginomica.com/decision-intelligence-closing-gap-between-data-and-leadership"
-    ampWebUrl: "https://diginomica.com/decision-intelligence-closing-gap-between-data-and-leadership?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/decision-intelligence-closing-gap-between-data-and-leadership?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 44
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2022-09/678AA978-ED49-4A56-832D-D1FF024D9E6E.jpeg"
-        width: 640
-        height: 352
+        height: 1200
         isCached: true
 
 secured: "VG9WZ7olpPgIFThzWe/UECqtwBeMLD2nvxgvUTV8r3zB406DdajssYXvBLPGyh7hrfPf89MbVCnE6hmx/8Au4F+oTmMU/xtZErbM6X0wiPjhphcugzFgVhkJgRrBi+VlCb+wXKSCG/eQVi/SpLL0aa8K0ojP1WMluCGmkPN7Lem3a49V7BLzzba//okMJe1i3eRXH+Wf4JEh3mDNFzn9gz4LPaAbdmSrphu1v08XpnNr887zDS6vMOiPvF9QRJmIvRC9jzDt5bs/2Rn9T3dErjU+OSDgfsP/N+kakutu3mcJowKpb8560Yv9oU/P1i5PZ4zsJ1jDMyw4YFPIHBvEulE2h2N8tG56BQ5D9X+ZJ2t23SMk0ZOW+gZmB2+LIrBFLC0Q+6wph8tNB1P787jMF9+lGziX/cT2rFL6U57aRZygvCe2yfM50HSqzasv8M7/dw00fZFflqd8/6MtJ6diyjQHuo8VIPMWOAku4hGpmGufWGWf0x9J2L0f522kyf2KyB8YdhRaC6rlHEo8VM5adg==;FgQfhGxPyAE1OxrV8VQa2Q=="

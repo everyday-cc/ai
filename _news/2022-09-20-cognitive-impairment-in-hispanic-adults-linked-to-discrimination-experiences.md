@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Cognitive Impairment in Hispanic Adults Linked to Discrimination Experiences"
-excerpt: "Now a new study shows that experiences with discrimination may be playing a role in disproportionate experiences of cognitive decline. In a first-of-its-kind study, published recently in the journal Social Science & Medicine, researchers from The ..."
-publishedDateTime: 2022-09-19T17:03:00Z
-originalUrl: "https://cns.utexas.edu/news/cognitive-impairment-in-hispanic-adults-linked-to-discrimination-experiences"
-webUrl: "https://cns.utexas.edu/news/cognitive-impairment-in-hispanic-adults-linked-to-discrimination-experiences"
+title: "Cognitive impairment in Hispanic adults linked to discrimination experiences"
+excerpt: "Now a new study shows that experiences with discrimination may be playing a role in disproportionate experiences of cognitive decline. In a first-of-its-kind study, published recently in the ..."
+publishedDateTime: 2022-09-19T18:11:00Z
+originalUrl: "https://medicalxpress.com/news/2022-09-cognitive-impairment-hispanic-adults-linked.html"
+webUrl: "https://medicalxpress.com/news/2022-09-cognitive-impairment-hispanic-adults-linked.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-09-cognitive-impairment-hispanic-adults-linked.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-cognitive-impairment-hispanic-adults-linked.amp"
 type: article
 
 provider:
-  name: Journalism in the Americas
-  domain: utexas.edu
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://cns.utexas.edu/images/easyblog_articles/5822/b2ap3_large_Discrimination-HHM.jpg"
-    width: 1280
-    height: 768
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/hispanic-family-1.jpg"
+    width: 2880
+    height: 1920
     isCached: true
 
-secured: "20uzn+EsnjmUkJ6JLcwFTHSNzlO35jE+YZPWVDbAuSn3/dJrcfGfsVxWYN6tQmeY4psdPcUTVNYqKxyt/5FPoilQio+vmUbmLJ+4ybS8Z9j2GJXhwl2NIDjdpxdpfdcUetWGpfNLo51QUyV3Mmz1vrOdykbeg0ajKB1yfW1epnUJ4suN97gfPpJRV5gvZ2jExMBYJJtkC4/MjmVNzYNBH0l3xewRYaBPpts9M6E2nkPar+OSwe5bC6AnKl+mzO/AjtMVesl3X4+9N9L+UW1AjdneJHlTmY828QH7f459p/8yM7u9niRl4vjbExepHnqY4tA+ZoaMFImr4CFAnbEeZlBFGly5MTPt7R+LdYzz1yw=;VyxI1/JtfC1YmuswzfJJpA=="
+secured: "bwIoZJC71L/Q2ai4Fq5ZWy2eCs+1CUjC4jEi4zGvH4JurBzOqXRJR3tdMFtvDNfdlUeaKFuw+BpdivqCF/0WbQALhqmRzVBd8Nvgj/DKDX/bXJpboK0d2+QZUCcHrodUlHNWKILK98mcu6IqnmzmF/7KZonFdjRrv+pcEO4SO00BSljyQCWy8nI5rrY89LY9zyYWZnVFPk01bShsaV6Vodv0YAM2Zw4CBbWoNd/Y7XFDp6UyaAvkgGdbVk0wzw/CPxikQS5JElnZQPNIwOmDLoMUU5i1HaUJHEVr9Q1kNdpynP7W6nhUcrt9OR11MzVJg2hd1ut1OeHPrXXkbZon7l3EqQg7VpN/D6pnVvgkEsw=;bt5+kBxBj6ps067/SwecYA=="
 ---
 

@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla previews humanoid robot, but Musk cautions it is not ready just yet"
+    excerpt: "Tesla CEO Elon Musk said on Friday the electric vehicle maker's eagerly anticipated humanoid robot 'Optimus' would cost under $20,000 and cautioned it still had way to go before becoming fully functional."
+    publishedDateTime: 2022-10-01T01:30:00Z
+    webUrl: "https://www.reuters.com/article/tesla-robots/tesla-previews-humanoid-robot-but-musk-cautions-it-is-not-ready-just-yet-idUSKBN2QV10V"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 85
+    images:
+      - url: "https://www.reuters.com/resizer/gx_3f22a3kYh8h4YmjMhdjZEvNM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WWSNDUO46JPIHMZLGYLX5S6FKQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Factbox-The challenges automakers, and now Tesla, face with humanoid robots"
     excerpt: "Tesla (NASDAQ: TSLA )'s CEO Elon Musk is set to unveil its prototype humanoid robots at an event on Sept. 30, hoping to expand beyond self-driving cars that have not yet become reality despite his repeated promises."
     publishedDateTime: 2022-09-26T16:56:00Z
@@ -57,6 +71,20 @@ related:
       - url: "https://i-invdn-com.investing.com/trkd-images/LYNXMPEI8J0H5_L.jpg"
         width: 800
         height: 534
+        isCached: true
+  - title: "Musk previews Tesla's humanoid robot, but cautions it is not ready just yet"
+    excerpt: "Tesla CEO Elon Musk on Friday showed off a prototype of 'Optimus', predicting the electric vehicle maker would be able to produce millions of them and sell them for under $20,000 - less than a third of the price of a Model Y."
+    publishedDateTime: 2022-09-30T11:06:00Z
+    webUrl: "https://gazette.com/news/us-world/musk-previews-teslas-humanoid-robot-but-cautions-it-is-not-ready-just-yet/article_93d41ecf-4f66-51e7-9f32-cb0b2e8ae204.html"
+    type: article
+    provider:
+      name: The Gazette
+      domain: gazette.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/9/4d/94d03c46-8d11-5db0-b328-3c9d5016c862/6336f4493b701.image.jpg?crop=800%2C420%2C0%2C22&resize=800%2C420&order=crop%2Cresize"
+        width: 800
+        height: 420
         isCached: true
   - title: "Elon Musk teases unveiling of spectacular humanoid robot that could replace human workers"
     excerpt: "The human-link robots will be powered by artificial intelligence and could one-day carry out a number of helper roles."

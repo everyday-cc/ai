@@ -2,50 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-09-01-vsblty-forges-alliance-with-the-al-jabr-group-to-bring-computer-vision-ai-security-solutions-to-the-middle-east.md",
-      "title": "VSBLTY FORGES ALLIANCE WITH THE AL JABR GROUP TO BRING COMPUTER VISION & AI SECURITY SOLUTIONS TO THE MIDDLE EAST",
-      "excerpt": "Try refreshing your browser, or tap here to see other videos from our team. VSBLTY FORGES ALLIANCE WITH THE AL JABR GROUP TO BRING COMPUTER VISION & AI SECURITY SOLUTIONS TO THE MIDDLE EAST Back to video Philadelphia PA, Sept. 01, 2022 (GLOBE NEWSWIRE ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/globe-newswire/vsblty-forges-alliance-with-the-al-jabr-group-to-bring-computer-vision-ai-security-solutions-to-the-middle-east",
-      "originalUrl": "https://financialpost.com/globe-newswire/vsblty-forges-alliance-with-the-al-jabr-group-to-bring-computer-vision-ai-security-solutions-to-the-middle-east",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dcs-static.gprod.postmedia.digital/11.4.5/websites/images/postmedia-image-fallback.png",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://financialpost.com/globe-newswire/vsblty-forges-alliance-with-the-al-jabr-group-to-bring-computer-vision-ai-security-solutions-to-the-middle-east/wcm/5e36dc08-b129-4848-84d5-05ee25576d31/amp/",
-      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/globe-newswire/vsblty-forges-alliance-with-the-al-jabr-group-to-bring-computer-vision-ai-security-solutions-to-the-middle-east/wcm/5e36dc08-b129-4848-84d5-05ee25576d31/amp/",
-      "publishedDateTime": "2022-09-01T05:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2022-09-01-israeli-facial-recognition-once-did-border-checks-in-the-west-bank-now-it-snoops-on-casinos-across-america.md",
       "title": "Israeli Facial Recognition Once Did Border Checks In The West Bank. Now It Snoops On Casinos Across America",
       "excerpt": "Israeli facial recognition tech is now in use at casinos in the U.S, raising concerns about how private entities will use powerful surveillance tools. Day after day, thousands of faces appear on ...",
@@ -1412,6 +1368,58 @@
         "name": "India.com",
         "domain": "india.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-florida-holds-primary-elections-that-will-decide-who-will-face-off-against-superstar-gop-gov-ron-desantis-in-november.md",
+      "title": "Florida holds primary elections that will decide who will face off against superstar GOP Gov. Ron DeSantis in November",
+      "excerpt": "The Democratic nomination for US Senate is expected to go to Rep. Val Demings, a former Orlando police chief who'd face off against GOP Sen. Marco Rubio.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8",
+      "originalUrl": "https://www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6303e6c2c9a2da00180920c2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8?amp",
+      "publishedDateTime": "2022-08-23T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

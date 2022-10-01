@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/garydrenik/2022/09/27/how-ai-is-changin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/09/27/how-ai-is-changing-the-game-in-insurance/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: Forbes
@@ -31,70 +31,61 @@ images:
     isCached: true
 
 related:
-  - title: "Closing The Gap Between Marketing And AI Systems"
-    excerpt: "Today, thanks to AI, even a small business can achieve great success through a global audience, democratizing this opportunity for those willing to work for it."
-    publishedDateTime: 2022-09-26T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/amp/"
+  - title: "Mainstreaming AI adoption in hi-tech industry"
+    excerpt: "Per the 2022 AI-Index-Report by Stanford, since 2018, the cost and the time to train ML (machine learning) tasks have improved, encouraging widespread commercial adoption of AI. Robotic arms are becoming cheaper: An AI Index survey shows the median price of robotic arms has decreased by 46."
+    publishedDateTime: 2022-09-29T15:40:00Z
+    webUrl: "https://www.thehindubusinessline.com/opinion/mainstreaming-ai-adoption-in-hi-tech-industry/article65951854.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/opinion/mainstreaming-ai-adoption-in-hi-tech-industry/article65951854.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/mainstreaming-ai-adoption-in-hi-tech-industry/article65951854.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 59
+    images:
+      - url: "https://bl-i.thgim.com/public/incoming/yl72cl/article65951866.ece/alternates/LANDSCAPE_615/IMG_iStock-1163061277_2_1_R9A44U67.jpg"
+        width: 615
+        height: 383
+        isCached: true
+  - title: "AI in the legal industry"
+    excerpt: "Legal Interact has focused on an area of AI called natural language understanding that deals with teaching computers to interpret and understand human language."
+    publishedDateTime: 2022-09-30T08:53:00Z
+    webUrl: "https://www.itweb.co.za/content/KzQenvjyVGeqZd2r"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/KzQenvjyVGeqZd2r"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KzQenvjyVGeqZd2r"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 59
+    images:
+      - url: "https://lh3.googleusercontent.com/ADjx-ofLqeWdiCZBCOedwRJRTWoya8v0o-h3ug0pm4hcgmarAqDES7xzoY9gHpR-vuV-6S10p1Bp4439hC_enFBZlfLhpTKX_GGO=w816-h428"
+        width: 761
+        height: 428
+        isCached: true
+  - title: "Reconciling the AI Value Chain with the EU’s Artificial Intelligence Act"
+    excerpt: "The EU Artificial Intelligence Act (AI Act), proposed by the European Commission in April 2021, is an ambitious and welcome attempt to develop rules for artificial intelligence, and to mitigate its risks."
+    publishedDateTime: 2022-09-30T14:41:00Z
+    webUrl: "https://www.ceps.eu/ceps-publications/reconciling-the-ai-value-chain-with-the-eus-artificial-intelligence-act/"
+    type: article
+    provider:
+      name: ceps.eu
+      domain: ceps.eu
+    quality: 51
+    images:
+      - url: "https://www.ceps.eu/wp-content/uploads/2022/09/980.AI-hologram-s.jpg"
+        width: 1000
+        height: 562
+        isCached: true
+  - title: "How Artificial Intelligence Can Impact The Manufacturing Yard"
+    excerpt: "While adopting AI systems is not overtly easy, picking the right solution that aligns with a company's goals can improve several aspects of the manufacturing yard."
+    publishedDateTime: 2022-09-28T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/28/how-artificial-intelligence-can-impact-the-manufacturing-yard/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 106
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6287969035c5da55f8c60506/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Hugging Face takes step toward democratizing AI and ML"
-    excerpt: "Hugging Face has launched a new AI-as-a-service offering, designed to take on large workloads of enterprises and help speed up ML projects."
-    publishedDateTime: 2022-09-27T16:00:00Z
-    webUrl: "https://venturebeat.com/ai/hugging-face-steps-toward-democratizing-ai-and-ml-with-latest-offering%EF%BF%BC/"
-    ampWebUrl: "https://venturebeat.com/ai/hugging-face-steps-toward-democratizing-ai-and-ml-with-latest-offering%EF%BF%BC/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/hugging-face-steps-toward-democratizing-ai-and-ml-with-latest-offering%EF%BF%BC/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/12/hugging-face.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Regie secures $10M to generate marketing copy using AI"
-    excerpt: "Regie was founded in 2020 by Matt Millen and Srinath Sridhar. Previously a software engineer at Google and Meta, Sridhar is a data scientist by trade, having developed enterprise-scale AI systems that detect duplicate images and rank search results."
-    publishedDateTime: 2022-09-28T21:24:00Z
-    webUrl: "https://techcrunch.com/2022/09/28/regie-secures-10m-to-generate-marketing-copy-using-ai/"
-    ampWebUrl: "https://techcrunch.com/2022/09/28/regie-secures-10m-to-generate-marketing-copy-using-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/28/regie-secures-10m-to-generate-marketing-copy-using-ai/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1148091243.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Decision intelligence - closing the gap between data and leadership"
-    excerpt: "Recent events in the UK have demonstrated the importance of scenario planning and stress testing: often overlooked disciplines that are increasingly supported by the emerging technology of decision intelligence (DI)."
-    publishedDateTime: 2022-09-30T09:55:00Z
-    webUrl: "https://diginomica.com/decision-intelligence-closing-gap-between-data-and-leadership"
-    ampWebUrl: "https://diginomica.com/decision-intelligence-closing-gap-between-data-and-leadership?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/decision-intelligence-closing-gap-between-data-and-leadership?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 44
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2022-09/678AA978-ED49-4A56-832D-D1FF024D9E6E.jpeg"
-        width: 640
-        height: 352
-        isCached: true
+    quality: 49
 
 secured: "xg+Tj3qIq7fQtUPNwWIIcJqkzpqRzGBz7tP6ZlCHl+miumvKTSiWK1Os9jhCBqKhg8bwCADMuKkR2nk+0NGXPzY8xU8PUK5R0wH4OrzljzjLskpE/Mw3csz324tTZXY0nZ0y1kaM0TPnJq+XWQk56mXjaWOIFgib95y6u5bU/WpckbajVfcecwoHDrYN+JfQVBeJGx33oQCagb4Rjm0Ty2JmJFoFhIfh6KpXtJxMlfW72wWz4ED+4zWMyCONLcReEUePQp0fQojot7I0KmuMOQSMQixkHXPrrowesmajeJZzyHLcIK6TiYDzA3BJDn82f0O1RLfTWc478mze0cg+fdmu8wN/jUyEpFAi0ulSBZdXqCYwsa0joJQBEWr/VQs/GmosPgRs5g1pa+PMlWrHQxgQl13GI1p0ncTbLHFXrV+XODO+Qa8YbYwQMCA7dbw6I5a3yQtnTw/9pnfwwMWHvEv5wkyfRuyrL3rotiVOvkEXlPvJDLoe+cpOqN94pvgNS2myDgZN7G9TQ6FK+34rHg==;VYLqtz8EDc0sUViBNYAt5A=="
 ---

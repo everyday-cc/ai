@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 601
         isCached: true
-  - title: "AI-powered onboarding fintech Signzy gets US$26mn in funding"
-    excerpt: "Signzy, a fintech which offers an AI-powered onboarding solution, has raised US$26mn in Series B capital from the likes of Gaja Capital and Arkam Ventures."
-    publishedDateTime: 2022-09-26T10:09:00Z
-    webUrl: "https://fintechmagazine.com/articles/ai-powered-onboarding-fintech-signzy-gets-us-26mn-in-funding"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://assets.bizclikmedia.net/1800/943ae71837486d996366709ce6a192c0:406c3762d69363d8fd5d7db4beb6dd67/signzy-founders-pic-l-r-arpit-ratan-ankit-ratan-ankur-pandey.jpg.jpg"
-        width: 1800
-        height: 1011
-        isCached: true
 
 secured: "yok4oqyMeXqxGto2tR/rPVCTenzLhDliJtoCcrcvkhPuRA6etKAVQYPp4+gMDQrvxs5R6vASKAWWrIvBEuF5gupXF2fL8bTm8vb8g/T5Y3z6wobENwKupBqfkbO7RTxK2l8ZwgYsgdu2/yonv90FaNYP0ipRyNtHo8QSgW52HFcjIub8as0atrdZfJ3DCVyFe+KrUG59thnzH0iUSeGHuSQrJeb4uSlkSNCBFvxPs4BjnaEj2Qj975elWqcwIUzBfvvkslELzklwKlZHGn6WqIWFUiEG+waIFpSdafgwv9cPbQbM4UXOITNkj+zHPaMQlqIwxXcw4ktdMlZG4wnKheMxkj110aDAWu/w5V/AyoE4KzSh0c7eNhpiJUZR+3cEScQr7lXrO6yvxBky7PKz5/TM0u/UXxjJMq5vddQ7PJDGunbXO/KZFu2oGLHmONphU1h+bTts52vuZX2V7OcW7krWDnKMpzbv2BQX5TJx06WrgrAMC0DlSdNlYN93lmQbmC7nQ/kPKAhFLTpwSzj/tQ==;djtupTdbmVfI1V22RVtezg=="
 ---

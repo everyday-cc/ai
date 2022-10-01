@@ -2,6 +2,49 @@
   "page": 106,
   "value": [
     {
+      "path": "_news/2022-07-07-ptsd-linked-to-faster-cognitive-decline-in-middle-aged-women.md",
+      "title": "PTSD Linked to Faster Cognitive Decline in Middle-Aged Women",
+      "excerpt": "WEDNESDAY, July 6, 2022 (HealthDay News) -- Posttraumatic stress disorder (PTSD) is associated with accelerated cognitive decline among middle-aged women, according to a study published online ...",
+      "sourceUrl": null,
+      "webUrl": "https://columbustelegram.com/lifestyles/health-med-fit/ptsd-linked-to-faster-cognitive-decline-in-middle-aged-women/article_61288ad7-24ef-5877-9974-b8db341816a4.html",
+      "originalUrl": "https://columbustelegram.com/lifestyles/health-med-fit/ptsd-linked-to-faster-cognitive-decline-in-middle-aged-women/article_61288ad7-24ef-5877-9974-b8db341816a4.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/columbustelegram.com/content/tncms/assets/v3/editorial/f/71/f718e248-224e-5de2-b802-ccde29fac952/62c5d4e51e610.image.jpg?crop=600%2C315%2C0%2C11&resize=600%2C315&order=crop%2Cresize",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Columbus Telegram",
+        "domain": "columbustelegram.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-metas-open-source-ai-model-leaves-no-language-behind.md",
       "title": "Meta’s open-source AI model leaves no language behind",
       "excerpt": "Meta announced a breakthrough in its No Language Left Behind initiative — a single AI model that translates over 200 different languages.",
@@ -1126,57 +1169,6 @@
         "AI",
         "AI Hardware",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-ai-robo-doctor-speeds-up-sight-saving-technology.md",
-      "title": "AI Robo-Doctor Speeds Up Sight-Saving Technology",
-      "excerpt": "A humanoid robot has quickened sight-restoring research by finding the best conditions to grow replacement retina layers from human stem cells.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/ai-robo-doctor-speeds-sight-saving-technology-1721980",
-      "originalUrl": "https://www.newsweek.com/ai-robo-doctor-speeds-sight-saving-technology-1721980",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2072140/ai-robo-doctor.jpg",
-          "width": 2000,
-          "height": 1283,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/ai-robo-doctor-speeds-sight-saving-technology-1721980?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ai-robo-doctor-speeds-sight-saving-technology-1721980?amp=1",
-      "publishedDateTime": "2022-07-05T15:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

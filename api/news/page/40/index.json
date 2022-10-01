@@ -2,6 +2,49 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2022-08-27-mckee-medical-center-recognized-for-robotic-surgery-excellence.md",
+      "title": "McKee Medical Center recognized for robotic surgery excellence",
+      "excerpt": "The robotic approach offers the surgeon magnified, high-definition vision with the ability to control surgical instruments much like a human hand to see and access anatomy. This allows surgeons ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reporterherald.com/2022/08/27/mckee-recognized-for-robotic-surgery-excellence/",
+      "originalUrl": "https://www.reporterherald.com/2022/08/27/mckee-recognized-for-robotic-surgery-excellence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reporterherald.com/wp-content/uploads/2019/04/RH-backupimage-1000x563.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.reporterherald.com/2022/08/27/mckee-recognized-for-robotic-surgery-excellence/amp/",
+      "cdnAmpWebUrl": "https://www-reporterherald-com.cdn.ampproject.org/c/s/www.reporterherald.com/2022/08/27/mckee-recognized-for-robotic-surgery-excellence/amp/",
+      "publishedDateTime": "2022-08-27T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reporter-Herald",
+        "domain": "reporterherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-27-improving-ai-assisted-conversation-with-zero-shot-learning.md",
       "title": "Improving AI-assisted conversation with zero-shot learning",
       "excerpt": "Zero-shot learning can improve conversation AI — bolstering everything from human interaction, to sales, to training and career coaching.",
@@ -1099,57 +1142,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-googles-test-kitchen-app-asks-you-talk-to-ai-about-dogs.md",
-      "title": "Google's Test Kitchen App Asks You Talk to AI About Dogs",
-      "excerpt": "LaMDA is a prototype AI system capable of deciphering a conversation's intent, and Google needs your help testing it out via the Test Kitchen app.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/googles-test-kitchen-app-asks-you-talk-to-ai-about-dogs",
-      "originalUrl": "https://www.pcmag.com/news/googles-test-kitchen-app-asks-you-talk-to-ai-about-dogs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/02aFSmyk24iY6AKYmO4LH89-2.fit_lim.size_1200x630.v1661520065.png",
-          "width": 830,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-26T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

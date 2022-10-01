@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/09/27/document-onboarding-startup-flatfi
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/27/document-onboarding-startup-flatfile-nabs-50m-from-investors-including-workday/amp/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered onboarding fintech Signzy gets US$26mn in funding"
-    excerpt: "Signzy, a fintech which offers an AI-powered onboarding solution, has raised US$26mn in Series B capital from the likes of Gaja Capital and Arkam Ventures."
-    publishedDateTime: 2022-09-26T10:09:00Z
-    webUrl: "https://fintechmagazine.com/articles/ai-powered-onboarding-fintech-signzy-gets-us-26mn-in-funding"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://assets.bizclikmedia.net/1800/943ae71837486d996366709ce6a192c0:406c3762d69363d8fd5d7db4beb6dd67/signzy-founders-pic-l-r-arpit-ratan-ankit-ratan-ankur-pandey.jpg.jpg"
-        width: 1800
-        height: 1011
-        isCached: true
   - title: "Denver data startup raises $50M to grow engineering team"
     excerpt: "The Denver-based startup's customers include Spotify, AstraZeneca and CBRE. The latest funding round brings Flatfile to nearly $95 million in total capital raised since its founding in 2018."
     publishedDateTime: 2022-09-28T11:18:00Z

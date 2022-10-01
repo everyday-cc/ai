@@ -173,6 +173,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla just shocked everyone with its Optimus robot prototype"
+    excerpt: "Tesla gave an impressive robotics demonstration, proving that the Optimus robot is a serious effort that might change the way work is done in the future."
+    publishedDateTime: 2022-10-01T02:22:00Z
+    webUrl: "https://www.digitaltrends.com/computing/tesla-bot-optimus-robot-prototype/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/tesla-bot-optimus-robot-prototype/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/tesla-bot-optimus-robot-prototype/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 106
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2022/09/A-early-tethered-version-of-the-Optimus-prototype-could-deliver-a-box-to-a-desk.jpg?p=1"
+        width: 1983
+        height: 1322
+        isCached: true
   - title: "How to watch Tesla’s AI Day today and what to expect"
     excerpt: "Tesla is holding its second AI Day on September 30, and a prototype of its humanoid robot is expected to make an appearance."
     publishedDateTime: 2022-09-29T21:30:00Z
@@ -204,6 +220,52 @@ related:
       - url: "https://www.digitaltrends.com/wp-content/uploads/2022/09/Fdx4jsfWIAMMH6D.jpeg?p=1"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Tesla AI Day 2022: How to watch, and our top 5 predictions"
+    excerpt: "Tesla AI Day is sure to feature news about electric vehicles, but with Tesla, there are always other innovative projects underway. Here is the latest tech we think Tesla will talk about."
+    publishedDateTime: 2022-10-01T00:24:00Z
+    webUrl: "https://www.zdnet.com/article/how-to-watch-tesla-ai-day-event-and-top-5-predictions/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-watch-tesla-ai-day-event-and-top-5-predictions/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-watch-tesla-ai-day-event-and-top-5-predictions/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/5ae5262c91b3aa3c78b0b616ffe140b2064d2d9f/2021/08/20/c53f20ad-f148-4044-a3eb-0929d3675012/tesla.png?width=1200&fit=bounds&format=pjpg&auto=webp"
+        width: 1200
+        height: 739
+        isCached: true
+  - title: "Tesla shows off underwhelming human robot prototype at AI Day 2022"
+    excerpt: "\"Literally the first time the robot has operated without a tether was on stage tonight,\" said Musk. Shortly afterward, Tesla employees rolled a sleeker-looking Optimus model supported by a stand onto the stage that could not yet stand on its own."
+    publishedDateTime: 2022-10-01T02:53:00Z
+    webUrl: "https://arstechnica.com/information-technology/2022/09/tesla-shows-off-underwhelming-human-robot-prototype-at-ai-day-2022/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 101
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/optimus_2022_hero-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "Tesla's first Optimus robot comes alive, Musk says it will cost less than $20,000"
+    excerpt: "At AI Day 2022, we got our first look at the Tesla robot and Elon Musk explained why it could lead to \"a fundamental transformation of civilization.\""
+    publishedDateTime: 2022-10-01T02:41:00Z
+    webUrl: "https://www.zdnet.com/article/teslas-first-optimus-robot-comes-alive/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/teslas-first-optimus-robot-comes-alive/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/teslas-first-optimus-robot-comes-alive/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 101
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/9cf8a6aacd6ecb04cdd5716c8852df00833ebdad/2022/10/01/01d40da9-6092-4d60-83b4-583d9cee0f84/screen-shot-2022-09-30-at-9-20-26-pm.png?width=1200&fit=bounds&format=pjpg&auto=webp"
+        width: 1200
+        height: 670
         isCached: true
   - title: "Elon Musk to showcase humanoid ‘Optimus’ robot at Tesla’s AI Day"
     excerpt: "CEO also expected to discuss self-driving technology and high-speed computer at Friday event"
@@ -426,6 +488,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Elon Musk Set To Showcase Tesla's Humanoid Robot After Delay"
+    excerpt: "Tesla CEO Elon Musk has said a robot business will be worth more than its cars, and on Friday investors, customers and potential workers expect t"
+    publishedDateTime: 2022-10-01T03:46:00Z
+    webUrl: "https://menafn.com/1104952692/Elon-Musk-Set-To-Showcase-Teslas-Humanoid-Robot-After-Delay"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 56
+    images:
+      - url: "https://menafn.com/updates/pr/2022-09/30/KT_22813image_story.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Tesla AI Day: Here’s what to expect"
     excerpt: "By Matt McFarland, CNN Business Tesla will hold its second annual AI Day in Palo Alto, California, Friday evening. The six-hour event will include updates on Tesla’s work in artificial intelligence, “Full Self-Driving,"
     publishedDateTime: 2022-09-30T17:34:00Z
@@ -459,6 +535,6 @@ related:
       domain: thesun.co.uk
     quality: 28
 
-secured: "VXnnANqwy0Pi0sxcV75Ch/z+nvTRV8k5GVZMMGyFKwIplpvwy6yryJnM1dzhGFiqCFCrvGmonxk/dGM+VtKE9JgL6RttZ1/V5D74yKLnr1afYzlRZilQBpl+JfP10ROsdUYpkyilkaiHzxKNS6i15EfMsgUR42ZpGXLONwU2Z8JiwPCMYDVfh0V3HK1Z7SQSZJ2PXVvp/9Bq+sg1ZYfLdX+tVAdOHhwwB46JVRyrEsNF/Y7vMoqY0B2nIpTtRVkBqlUArD1fdqWBBv/Bqj1rkCYUZQj+JUXiW+QyiqUSBClyLqsOVpRKC38Rs2x+RQazRGoHH3HYJibty415cFLvylCZxLw7ZLMoB43iR/bx8CU=;vJA1JbaEPi/71T8gncVKrA=="
+secured: "YVJ2GHRhzeb+sbXNoanA1pP1pSJqm1H44N9A4Y2KmcPx0g9Fj6rY4Py4Q8Q6+knOUgSCwjBHU5gJtoYVqLF4Yb269Q1xcLcyeqhjrjE4euWhdMZBkwGSXiWPz+CT4mYW9mLzpYefogF9ti3kdTRJTIwcppQFNiKDRMi2P/xNmyofGy/cXC/E08B4U+oqM3R5NsLjCjQwSB3ZulJ31WMy73W1atyVTfPk6zZbTYvvWRBQKmsKeeDidDtXT6F+EViFgfr1qwmuTyyuvE852JQGXfKAVZWRHi3VYLTo3v94LHxKQWSITvlbI1qrt67g+Cw4YkAM9oS4mekNq8bOMJUOw78dRdjS6Et0xsEaTeZo1ahxxB5zQv82xSEVuOC+m6RUozUcY2DxXun871v3w9sHJX6Qs+JGOycH0TiGN7eA7gTTJC77fAMi+UUAQtPa1HnmudZY/uFMjY5/OVBubI1DvwzuK+Ph9riTppEcw5NEJxoD1VpSUK6oP46zTgRb5zpT+zL6Z/G9qpSUbJ3g5s2IMw==;xR4tk5w6X0qRQaJY7+5MJw=="
 ---
 

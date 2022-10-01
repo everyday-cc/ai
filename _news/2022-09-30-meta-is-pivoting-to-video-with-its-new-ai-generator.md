@@ -117,15 +117,6 @@ related:
         width: 718
         height: 399
         isCached: true
-  - title: "Meta is using AI to generate videos from just a few words"
-    excerpt: "Artificial intelligence is getting better and better at generating an image in response to a handful of words, with publicly available AI image generators such as DALL-E 2 and Stable Diffusion. Now, Meta researchers are taking AI a step further: they’re using it to concoct videos from a text prompt."
-    publishedDateTime: 2022-09-29T22:04:00Z
-    webUrl: "https://keyt.com/news/2022/09/29/meta-is-using-ai-to-generate-videos-from-just-a-few-words/"
-    type: article
-    provider:
-      name: KEYT
-      domain: keyt.com
-    quality: 19
 
 secured: "ZLuafAhOMtj65yK8lq2mtzSJ5Hkw2+GaZcEs3skTirSi1tgjLekh/nVzpGRtQWheGZ9m0om64TRjak4RYVbft2uWWt4jdGcekG/ZC/lvUj4MU8pq3nyQBwNWBkdoHwdF2OLMH5dpkUZm0mX+S/49E6RXk8enaUPjfTw+6whAAetHTHc1aUUeQvyK91p9cIrackmK1jxxFR2hBs2QIMsrIJr32u2rDZHZOd0+j4ms+Qpj/n8TmoJv/bLwrF3BshZvypW8wagwfUKz3od5vM84nJFAyVX+FOGrjufxTlcA0f+tDK+yyGfs8tYlwvSzRcjlh02DbobnbSOSnh+Kha4i0Ho/OtFuNNGD5O9eT+AGwzM=;fx+xOMgYBiKnFdjSZ6t4hg=="
 ---
