@@ -52,15 +52,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Global Data Collection and Labeling Market to Reach $12.75 Billion by 2030"
-    excerpt: "The global data collection and labeling market size is expected to reach USD 12.75 billion by 2030, according to this report. The market is anticipated to expand at a CAGR of 25.1% from 2022 to 2030."
-    publishedDateTime: 2022-09-27T11:59:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-data-collection-labeling-market-reach-1275-billion-/2022/09/27/9680836.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
 
 secured: "FzOcVTE4oBh/CH1OTU8yvK9SGbFmZaCifXL7aOe+FPYFGnwxf4tf3LXToi8MTco4Al6wTe/RZCztG+G2qgG9QY5My3EpseNzMchYNz1bI7cqm5vWfCU6GnDExz7pK+1K/IVQiGtnrGLWmG1oLMGg+RQdKpjvPH+rKRRBgYKZdvTdJxNV7rYVtz8XyziVlEW108OREMqyQPwuUYtqrFUu/Y7LJCa6J5p9h8LMJrtrnZLgEPSqHGKsw4iLejEzJydbgC4kxjUjJowuxtt+jDdKXIFiDPYCZUP0Rz1exsHytHtStG4e69Ozw9QWHdQjvKZFuv1jzWle0J/iRDqJWxoop323Az6tlfvAW2B/EmM4TEY=;i6rOMyoVU88i4U0v2+rk2Q=="
 ---

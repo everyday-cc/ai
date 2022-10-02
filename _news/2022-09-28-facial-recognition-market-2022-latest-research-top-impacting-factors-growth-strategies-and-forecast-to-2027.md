@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2027-2022-09-28"
 type: article
 quality: 50
-heat: 150
+heat: 160
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Intelligent Speech and Voice Recognition Market Business overview 2022, and Forecast to 2030 | By -Google, Baidu, Facebook"
+    excerpt: "Global Intelligent Speech and Voice Recognition Market 2022 overview, CAGR, production volume, sales, revenue, regional analysis, and forecast during"
+    publishedDateTime: 2022-09-29T07:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/intelligent-speech-and-voice-recognition-market-business-overview-2022-and-forecast-to-2030-by--google-baidu-facebook-2022-09-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

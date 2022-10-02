@@ -52,15 +52,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 17
-  - title: "Global Data Collection and Labeling Market to Reach $12.75 Billion by 2030"
-    excerpt: "The global data collection and labeling market size is expected to reach USD 12.75 billion by 2030, according to this report. The market is anticipated to expand at a CAGR of 25.1% from 2022 to 2030."
-    publishedDateTime: 2022-09-27T11:59:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-data-collection-labeling-market-reach-1275-billion-/2022/09/27/9680836.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
 
 secured: "GOl2u6JM9zELtbkLAg3kCg3lECh1BsMlHB/ynNQ9QsRn4XQGK7AiWYlrGbVtqoz9Dqh5jJTiXnbzyhZbj8LL8xylxJn5BKOL6XFry9t1ljRqN20ZrXJH2uIU0RzFsJxDT+q7DYka+DF62g0gZnbv2s+ARJxkmpOJ9U4Zoo7S+I2l5iUcaljZg+SPPW3Od6n9ar6fnAxj7yQHHKycM8HQxlrRWp1KKQkENUpy/kEFIJJTik6ZF15FJcXeSFve418Jsn6oBHTxSIwvc/8u/UjfhjuQulpsjlPoYv2r9ICfcuDkuxgpyYTrAXK4dKsFONAJ+nUIVGCHrHIyyuYRsKt48r779/BRAXIJxTMMdLRqKBc=;/thGdZxaZR+sEV3WykdCeA=="
 ---

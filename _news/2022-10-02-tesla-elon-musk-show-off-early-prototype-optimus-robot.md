@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Tesla, Elon Musk show off early prototype 'Optimus' robot"
-excerpt: "But the basic tasks by the robot with exposed wires and electronics — as well as a later, next generation version that had to be carried onstage by three men — was a long way from CEO Elon Musk's vision of a human-like robot that can change the world."
+excerpt: "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company's artificial intelligence event Friday."
 publishedDateTime: 2022-10-01T23:58:00Z
-originalUrl: "https://www.wfaa.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-webUrl: "https://www.wfaa.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-ampWebUrl: "https://www.wfaa.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+originalUrl: "https://www.wkyc.com/article/tech/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+webUrl: "https://www.wkyc.com/article/tech/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+ampWebUrl: "https://www.wkyc.com/amp/article/tech/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/tech/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
 type: article
 quality: 76
 heat: -1
 published: false
 
 provider:
-  name: WFAA8
-  domain: wfaa.com
+  name: WKYC3
+  domain: wkyc.com
 
 topics:
   - AI in Robotics
@@ -22,7 +22,7 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://media.wfaa.com/assets/CCT/images/ee0a47a3-adbd-488e-b57b-07df25f393af/ee0a47a3-adbd-488e-b57b-07df25f393af_1140x641.jpg"
+  - url: "https://media.wkyc.com/assets/CCT/images/ee0a47a3-adbd-488e-b57b-07df25f393af/ee0a47a3-adbd-488e-b57b-07df25f393af_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -757,6 +757,6 @@ related:
       domain: thesun.co.uk
     quality: 28
 
-secured: "b+NNo+l9UqUUkjES/e7ujJ8yLrXm97ozpXAoTuAsnUheQS0StYt2XeXj+M5FFuJHM15YCULpIlFLYNDARxcN18fPic0idfRqzn2cFaxteAb55ksi7u+BibwjXSt/OlliE66mSPHoXHEusuWO0QSNwkAHrHXQwaEMv0BEL1LXl5HMv/oVl8ugnWrpNH2TLh1tygpXPEPkiThMczbO6f1olPCTKXbx484OUVTsQECJpxmbHywU1pyNHWkR6TSyunr1llh7eGVX1jg0x4eTLKijGKnd+eBGYi8kLhUy3yDGvh7vNpuVtgsswpQQjV60GfA55omRD2UraQa3/wirkS7KlBnf02M7s4bZEdMHlxcUH/Q=;MrJj/wlMWoKJGSr5C7+fYg=="
+secured: "92jereFiRFMobIp5MC65u44yi9p2I/YfehLFLUBmkboMaTiv6S/ZibfGXDCCM6oarQKHXsaR/Ib3NgyjuoHwuK00etykgxjqMz+OwSVhUJmdk/scua0XoEPvbrF2SxN14en8ItHKQvd54wvBfjf75cn5Yj4DbVG/h9D8ANUuVbtC5xaZT5Ul4l+mKY8NLiAW2s2zltKy0RuMbvIR09fyUSOmMKMSrMbU+W1xyPHhX5NIyPKjokevUDxC2PmHku3KQOrGqPUGoYyW8VGWLXXQ7D1Eb823r7MtlENf84E35sXHYEsw1IgmBDWqgpsff3RwKr2yW63JOCY/4iZxJtaJnIzTwqD207t9C9V1+ytCQC8=;j2GJLdynJjRQbtV4KIqwhQ=="
 ---
 

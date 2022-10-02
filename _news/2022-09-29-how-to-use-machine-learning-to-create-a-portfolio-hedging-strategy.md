@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 788
         isCached: true
-  - title: "Chipotle Is Testing More Artificial Intelligence Solutions To Improve Operations"
-    excerpt: "Chipotle is now testing an AI-based kitchen management system that provides “demand-based cooking and ingredient preparation forecasts,” and is also expanding its Chippy AI test to a restaurant in California."
-    publishedDateTime: 2022-09-27T12:05:00Z
-    webUrl: "https://www.forbes.com/sites/aliciakelso/2022/09/27/chipotle-is-testing-more-artificial-intelligence-solutions-to-improve-operations/"
-    ampWebUrl: "https://www.forbes.com/sites/aliciakelso/2022/09/27/chipotle-is-testing-more-artificial-intelligence-solutions-to-improve-operations/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aliciakelso/2022/09/27/chipotle-is-testing-more-artificial-intelligence-solutions-to-improve-operations/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/633221be8c5b19d4dd44b11e/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "RF3TI77WBStR91K8TTFD+rTG0BQ2lV8C9+pe0hyiec0gwjUTCSADUkmieYKfGPaKjC9kH+oPLt43mpthxnGTz1MtbbJrbIxzR8xpu0WPvTsWEy5/zaOVKRSFvIRXILhIn3baAaasw3ymEova6abkzrPq8WopMRVWbV0CMlLifsAUwL4HMovvbg046AJaOc92tUge+BcMJHEPN5dybhdaPlAff1FOPXdrXqF+F7nUx9dIgtppMlWd4e5h9b7X+93SarJbPe+M9y5uvGigUu/XkQH2LLAiyZisrS+46qiJdijE4QstBTn8zjMSNhW8QvtjNfLvv/eEdAVPXq4jK19hdym0tagy62Mp2bGshddrsTjAbyyxTEuGb3Gd7v74ufPOAIX+N7t0AkxyxIiSJPq6s4+ld4UDgObyvcdKYWyoDAOvRUbT14JQM9GYpLoHnGxATqeD5Dz/i3zVelT1ojiYRR2dbbBVXVcngsU8QEke+nIaB+NW6StJYOKQVWBEPax5jrLQxhDDpBS9uZ5xh8fmcA==;BPeSjjBNK8hYaUmsMFwHAA=="
 ---

@@ -50,6 +50,15 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 9
+  - title: "Study finds artificial intelligence improves patient outcomes, reduces hospital readmission risk"
+    excerpt: "Because geriatric patients with dementia have longer hospital stays and incur higher health care costs than other patients, the team sought to solve this problem by identifying modifiable risk factors and developing an artificial intelligence model that improves patient outcomes,"
+    publishedDateTime: 2022-09-30T20:59:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20220930/3988538.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 6
 
 secured: "YR+8oSNk+4qT0YO1lagQiwwSz1rPND399+9jI1cNVJ4QQnQi89AFn1TGNjY3HfPXeM6jGP+J6GiSl8BZ32LCnod1GM908iRTrCNbCIWwZHZCYw19Ej7t4j8c5Qm9jJHT097sBcXV+7PEEvOVul/3JiQxSmxRujbDyjRkXZvFs9S1E/RQxbuJdz9py442bMiDWz2eLACN12OlDsMiusRqpKZErArXRmjneTyNedfEJw9ibmfwnVRjIkcyiSX5K/2WR8wXdnnB7oVitdqZg5G6xl0v2WWBtJhmX2rEZrJ4bqxYs4Jj6Q1EcZqbF+u4RnjV56xALoGRXlbNrtMj7MfZuM0uUG24A6DfQra6q1gmVx1U913qiflDjVavCt4Ppakv0RxIMuteaWxrGD8cgEQwI+G0/6MsiMp7uI1dfkcHUNB9rGtAyYORGt9V6CVMT/ojOoGRMABBr/p+sor4GGmtM0Gh3Vrlfn7wm0pMwUJm5L0dmwr1AtLYymrflRmFw5DgkEVu6K4ANx/0uPpMHrt2Gg==;oqu2DmehBmYj7LA6cc+nWw=="
 ---

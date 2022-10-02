@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Intelligent Speech and Voice Recognition Market Business overview 2022, and Forecast to 2030 | By -Google, Baidu, Facebook"
+    excerpt: "Global Intelligent Speech and Voice Recognition Market 2022 overview, CAGR, production volume, sales, revenue, regional analysis, and forecast during"
+    publishedDateTime: 2022-09-29T07:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/intelligent-speech-and-voice-recognition-market-business-overview-2022-and-forecast-to-2030-by--google-baidu-facebook-2022-09-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Transportation Market 2022 : Share and Outlook of Regulatory Scenario by 2027 with Top Countries Data"
     excerpt: "The global Artificial Intelligence in Transportation market size was valued at USD 1855724.44 million in 2021 and"
     publishedDateTime: 2022-09-29T04:27:00Z

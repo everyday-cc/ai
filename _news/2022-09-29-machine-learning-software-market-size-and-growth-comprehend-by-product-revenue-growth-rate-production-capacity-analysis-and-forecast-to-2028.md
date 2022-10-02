@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Intelligent Speech and Voice Recognition Market Business overview 2022, and Forecast to 2030 | By -Google, Baidu, Facebook"
+    excerpt: "Global Intelligent Speech and Voice Recognition Market 2022 overview, CAGR, production volume, sales, revenue, regional analysis, and forecast during"
+    publishedDateTime: 2022-09-29T07:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/intelligent-speech-and-voice-recognition-market-business-overview-2022-and-forecast-to-2030-by--google-baidu-facebook-2022-09-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Market 2022: Industry Insight, Drivers, Top Trends, Global Analysis and Forecast by 2027"
     excerpt: "The global facial recognition market reached a value of US$ 5.0 Billion in 2021. IMARC Group expects the market to reach US$ 15.6 Billion by 2027, exhibiting a CAGR of 21.2% during 2022-2027."
     publishedDateTime: 2022-09-27T19:54:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/29/how-ai-can
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/29/how-ai-can-streamline-sales-and-operations-planning/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chipotle Is Testing More Artificial Intelligence Solutions To Improve Operations"
-    excerpt: "Chipotle is now testing an AI-based kitchen management system that provides “demand-based cooking and ingredient preparation forecasts,” and is also expanding its Chippy AI test to a restaurant in California."
-    publishedDateTime: 2022-09-27T12:05:00Z
-    webUrl: "https://www.forbes.com/sites/aliciakelso/2022/09/27/chipotle-is-testing-more-artificial-intelligence-solutions-to-improve-operations/"
-    ampWebUrl: "https://www.forbes.com/sites/aliciakelso/2022/09/27/chipotle-is-testing-more-artificial-intelligence-solutions-to-improve-operations/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aliciakelso/2022/09/27/chipotle-is-testing-more-artificial-intelligence-solutions-to-improve-operations/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/633221be8c5b19d4dd44b11e/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How To Use Machine Learning To Create A Portfolio Hedging Strategy"
     excerpt: "What Most Hedging Looks Like Today. Let’s start by exploring the status quo, where an investor may treat shorting like slapping a bandage on the broader problem of portfolio ris"
     publishedDateTime: 2022-09-29T10:00:00Z

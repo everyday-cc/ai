@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/industry/services/education/iit-delhi-la
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/services/education/iit-delhi-launch-certificate-programme-in-machine-learning-and-deep-learning/amp_articleshow/94536998.cms"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -25,19 +25,6 @@ images:
     width: 640
     height: 480
     isCached: true
-
-related:
-  - title: "DeepMind aims to close STEM skills gap with new programme"
-    excerpt: "In partnership with several charities and social enterprises, DeepMind said it would be developing educational resources and helping existing programmes reach more young people. Obum Ekeke, head of education partnerships at DeepMind,"
-    publishedDateTime: 2022-09-27T11:15:00Z
-    webUrl: "https://www.computerweekly.com/news/252525429/Deepmind-aims-to-close-STEM-skills-gap-with-new-programme"
-    ampWebUrl: "https://www.computerweekly.com/news/252525429/Deepmind-aims-to-close-STEM-skills-gap-with-new-programme?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252525429/Deepmind-aims-to-close-STEM-skills-gap-with-new-programme?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 54
 
 secured: "tZIwM5XE8JFTPoBmkNpW/WzMVersCfGQ/ov95Irj8F+rc2/o8adq8na6sOjvrva6wBnUgS+wckvBSE8v7Tax7/o/JEw9mAju4TAHMCxPILYIWj1+efcalbPziB8FcxPUZUyN0xledHH7mpRqkEiW/dg7o07VssAnNOLaWKCKNH1H/DcPawUIwksal5nmhHc/+dE5C2yLPmLjCc3YOZKBn9sYZCGEK7qXKt6WIHZcd0y1oN4EhpQuayt7l6gpG4tHnF8n5+Pu3lYzdsjoJJwQvyRVpxBg7+Yi7DEGT8RntnNjFzHXTR15bFNVfIo6QpFkqfLoHDK0037vTprFchzIosT+5n8SMM2GPzUk+2q+TwFoOvRWCWdZ61Yv8Ps6r8y9Nz1j5JRO0nrMvQ/xClM1BIdKF0FV7KcZ9jcLmlqHHn1ucdaypbU5eJ8j8HiuhbE1Y3eS7NZ5mWkhMSAuGml77m8lAHy2o+rKZqNe63swX2GJq4qn2ekcBZqpAw6AQ0FyHixARtvneaEHyBC8zNca4w==;caRghwGfRKYt5Gk5kVVr8A=="
 ---
