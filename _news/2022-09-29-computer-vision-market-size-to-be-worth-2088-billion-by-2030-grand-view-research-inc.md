@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Fintech Market Size, Share, Growth, 2022 Key Players, Revenue, Trends, Opportunities and Regional Forecast to 2029"
+    excerpt: "Global \"Artificial Intelligence (AI) in Fintech Market\" (2022-2029) research report by researcher gives an insight into"
+    publishedDateTime: 2022-09-28T09:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-size-share-growth-2022-key-players-revenue-trends-opportunities-and-regional-forecast-to-2029-2022-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Market 2022: Industry Insight, Drivers, Top Trends, Global Analysis and Forecast by 2027"
     excerpt: "The global facial recognition market reached a value of US$ 5.0 Billion in 2021. IMARC Group expects the market to reach US$ 15.6 Billion by 2027, exhibiting a CAGR of 21.2% during 2022-2027."
     publishedDateTime: 2022-09-27T19:54:00Z

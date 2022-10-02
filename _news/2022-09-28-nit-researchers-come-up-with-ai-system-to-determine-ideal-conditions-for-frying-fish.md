@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraphindia.com/amp/india/nit-researchers-come-up-wit
 cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/india/nit-researchers-come-up-with-ai-system-to-determine-ideal-conditions-for-frying-fish/cid/1889119"
 type: article
 quality: 52
-heat: -1
+heat: 52
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 900
     height: 506
     isCached: true
-
-related:
-  - title: "Irish researchers use machine translation to help AI detect cyberbullying"
-    excerpt: "Experts from SFI ADAPT Centre conducted a ‘first of its kind experiment’ that can help AI crack down on cyberbullying in multiple languages."
-    publishedDateTime: 2022-09-27T09:17:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/cyberbullying-ai-machine-translation-sfi-adapt-research"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 53
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/09/a-31.jpeg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "16Dq+2eHqlgUTJlNczOYMq2GS5C0dRqwZJ82gyburuKRSovpBuLiCulZouqs6gaB/YpF2uGcpY+ZNs1aeMXNBToODjqxIGA+Z1KHSVXDhobWvG8Mvl/+4aTJRpXZb1fUNLcUJFgwIekTfe9aFBaJA4MHHgkzeCAfdJoDpLDCVjiH9JyNbEL0zm3eiNak8g/o2g+hPq5WxeR/oKw+JRIb0ZY4PvN1msmDHyEw/zgQ+JDSJzsUJmpU8XTgH8yXPOBJIbuluwLk6+R5rDt8TRcUUzpJuMrYiqfT7J/H78q7ztgK+SQ6bqsKovUoWIZEQSWKK+lEGr7lU3cklw/DDcbpx/FxEBeygjnPlKSzxjYlKPU=;YW+us93zeTd01FlESt6d+g=="
 ---

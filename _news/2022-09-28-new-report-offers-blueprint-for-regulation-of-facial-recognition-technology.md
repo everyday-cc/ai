@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "University of Technology Sydney report offers blueprint for regulation of facial recognition technology"
-    excerpt: "Human Technology Institute has outlined a model law for facial recognition technology to protect against the harmful use of this technology, but also foster innovation for public benefit. Australian law was not drafted with the widespread use of facial recognition in mind."
-    publishedDateTime: 2022-09-27T10:44:00Z
-    webUrl: "https://www.intelligentcio.com/apac/2022/09/27/university-of-technology-sydney-report-offers-blueprint-for-regulation-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: intelligentcio
-      domain: intelligentcio.com
-    quality: 23
-    images:
-      - url: "https://i0.wp.com/www.intelligentcio.com/apac/wp-content/uploads/sites/44/2022/09/AdobeStock_530263120-Web.jpg?fit=1000%2C450&ssl=1"
-        width: 1000
-        height: 450
-        isCached: true
 
 secured: "+ftCBmWTLQFgbQgu6mbef0kXPzica+nUZobwetLCky2EC1u9mcg157Mx5QNvEkEgxL3urLEsAYqTwZsOG1hFVluRkrDuBIk/SdR7G3mey4Et9Y2SG+PemQvxxVqV5E/kFdUy9J9zpRtt6H/xVqOybUmvPZtHgmEewao/smlqCgrR3aoYV/x3F0TzUD0uuHpWW6jraHMLpZ09NzuwELfzinJTUxRxC6UXovytVmZcWmmeu0IjAM7K65DUUStMxEQKbMo8ARjMonx244GL+CTXCzC1PLEnzSv7HBBJYTL1NpNK1CIEJfv6arV6OwNKdCWNN3MdVZVzZdPgBbW/1gNy4bglyDpG5x2V1Z/Pfy8nj0U=;5N5oNpXo0qu/f3LYy3t2zw=="
 ---

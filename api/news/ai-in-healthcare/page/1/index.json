@@ -106,6 +106,51 @@
       ]
     },
     {
+      "path": "_news/2022-09-30-tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks.md",
+      "title": "Tesla robot walks, waves, but doesn’t show off complex tasks",
+      "excerpt": "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a",
+      "sourceUrl": null,
+      "webUrl": "https://mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/",
+      "originalUrl": "https://mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mynorthwest.com/wp-content/uploads/2018/01/MYNW_Facebookj.jpg",
+          "width": 452,
+          "height": 282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/",
+      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/",
+      "publishedDateTime": "2022-09-30T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyNorthwest.com",
+        "domain": "mynorthwest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-09-30-10-top-artificial-intelligence-ai-applications-in-healthcare.md",
       "title": "10 top artificial intelligence (AI) applications in healthcare",
       "excerpt": "As AI continues to be applied across the healthcare spectrum — from administration to patient interaction and medical research, diagnosis and treatment — here's how it's making an impact.",
@@ -1369,40 +1414,6 @@
         "AI in Marketing",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-upmc-leverages-artificial-intelligence-to-improve-breast-cancer-treatment.md",
-      "title": "UPMC Leverages Artificial Intelligence to Improve Breast Cancer Treatment",
-      "excerpt": "Researchers from UPMC Hillman Cancer Center have partnered with Realyze Intelligence to utilize artificial intelligence to improve treatment options for breast cancer patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthitanalytics.com/news/upmc-leverages-artificial-intelligence-to-improve-breast-cancer-treatment",
-      "originalUrl": "https://www.healthitanalytics.com/news/upmc-leverages-artificial-intelligence-to-improve-breast-cancer-treatment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/news/amp/upmc-leverages-artificial-intelligence-to-improve-breast-cancer-treatment",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/upmc-leverages-artificial-intelligence-to-improve-breast-cancer-treatment",
-      "publishedDateTime": "2022-09-08T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Tesla AI Day: Here’s what to expect"
-excerpt: "By Matt McFarland, CNN Business Tesla will hold its second annual AI Day in Palo Alto, California, Friday evening. The six-hour event will include updates on Tesla’s work in artificial intelligence, “Full Self-Driving,"
-publishedDateTime: 2022-09-30T17:34:00Z
-originalUrl: "https://kvia.com/news/2022/09/30/tesla-ai-day-heres-what-to-expect/"
-webUrl: "https://kvia.com/news/2022/09/30/tesla-ai-day-heres-what-to-expect/"
+title: "Tesla AI day updates including a working prototype of Optimus Bot"
+excerpt: "Tesla successfully held its AI Day 2 on September 30th. A working prototype of the Optimus Bot was revealed including many updates shared by Tesla. Elon Musk stated that the point of AI Day is to show the “immense depth and breadth of Tesla in AI,"
+publishedDateTime: 2022-10-02T03:16:00Z
+originalUrl: "https://techstory.in/tesla-ai-day-updates-including-a-working-prototype-of-optimus-bot/"
+webUrl: "https://techstory.in/tesla-ai-day-updates-including-a-working-prototype-of-optimus-bot/"
 type: article
 quality: 56
 heat: -1
 published: false
 
 provider:
-  name: KVIA
-  domain: kvia.com
+  name: tech
+  domain: techstory.in
 
 topics:
   - AI Hardware
@@ -20,9 +20,9 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://kvia.b-cdn.net/2022/09/hypatia-h_5f674fbb74773d0b1a5da54f0814323e-h_2c8f0881fb060bc947bc53300013629c-300-scaled.jpg"
-    width: 2560
-    height: 1440
+  - url: "https://techstory.in/wp-content/uploads/2022/10/220930182442-02-tesla-ai-day-0930-robot.jpg"
+    width: 1600
+    height: 889
     isCached: true
 
 related:
@@ -697,19 +697,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla AI day updates including a working prototype of Optimus Bot"
-    excerpt: "Tesla successfully held its AI Day 2 on September 30th. A working prototype of the Optimus Bot was revealed including many updates shared by Tesla. Elon Musk stated that the point of AI Day is to show the “immense depth and breadth of Tesla in AI,"
-    publishedDateTime: 2022-10-02T03:16:00Z
-    webUrl: "https://techstory.in/tesla-ai-day-updates-including-a-working-prototype-of-optimus-bot/"
+  - title: "Tesla AI Day: Here’s what to expect"
+    excerpt: "By Matt McFarland, CNN Business Tesla will hold its second annual AI Day in Palo Alto, California, Friday evening. The six-hour event will include updates on Tesla’s work in artificial intelligence, “Full Self-Driving,"
+    publishedDateTime: 2022-09-30T17:34:00Z
+    webUrl: "https://kvia.com/news/2022/09/30/tesla-ai-day-heres-what-to-expect/"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
+      name: KVIA
+      domain: kvia.com
     quality: 56
     images:
-      - url: "https://techstory.in/wp-content/uploads/2022/10/220930182442-02-tesla-ai-day-0930-robot.jpg"
-        width: 1600
-        height: 889
+      - url: "https://kvia.b-cdn.net/2022/09/hypatia-h_5f674fbb74773d0b1a5da54f0814323e-h_2c8f0881fb060bc947bc53300013629c-300-scaled.jpg"
+        width: 2560
+        height: 1440
         isCached: true
   - title: "Elon Musk Unveils Prototype of Humanoid Robot Optimus, Says It Will Cost Less Than a Car"
     excerpt: "The prototype, which the CEO showed off at a company’s AI event Friday, is part of his effort to shape public perception of the company as more than just a car maker."
@@ -757,6 +757,6 @@ related:
       domain: thesun.co.uk
     quality: 28
 
-secured: "EPgm1iwkpxZDwc4ZJpcQh8s3ufv8C/cL8ukh38JlU2wnwHpcp3tMrSmc7TOo0+p3SC+ZvMafXi8nMR1K6PMT6a8jgcdIYNZmdmbR9W2SfsixPmXwQNetJWAPpVUojvtvjwzeQ7LgihRZ72csDrBTD6OZklxM02BjPsYHsef3TgLbwrIDRowMvableTe1et8Ucou031pmG/Wj8Na/8QzRvgesokq3TVThIq7k8TWJoMVxl04MH7cIB+fE2gxrhpsnzVB9Da7bT4T86zo4EIyQu3ql2Zxa7Z878Q0o7EYGItaLMxFnl54KYauhUdlXV2PjcHYVtjkrQ3RMe9UQ8kwZ0M69HnYbxzsiAmftg21Ez8UUyihPdQ6MLwowDdaPcX4BhIUayfPWU5sWtwh6Nmh4cUGj1mkBTCLbw3SekDKD/BJ3UxVtpFbLkCZlequ8QswB0f2txiu1cOlXv/50i4KKh9aQSp0v1J2y4ZdL/N1ZBuoWF/s/9SzZtSSHbd/58qPHdlBHowP8rAT4u5HRChF3vQ==;GXrwgjrMQTqZZx2WaQaHUw=="
+secured: "cW3V9in/eqjBjWPUBIkeenLc0nxK9EEd81LddkGxL2MvvSHx3UpuloF/UH/GQH9FQwkFAPgMY8n+O/LUC1hBsNLiBHe64/THesSJnhNfuEdmRSFxDRKcn4rpPuRMj2Gwscy7zM1c9FUjbCcOc38YKa3Yh7I8s0qu3SjTZpoXKigqUlyrSIaArb6nSbh/7q+wnclkkW/XSL9zhlXyjXiZmabjgFUHMi8fEZsFMy7Nwy7JymtnmffsSFbRfzOkgUvM2WHFQ0JjZTFkf/tIbhzmD3yEya2LZ/T8kQY3fhNOkitQ3VVGGgNBntEKiDcrUL12lGHnJPdRl4vDsCmOp3iZp+d8bODDvwa/iGulSnwb/xI=;AZbWD6bOi9W2fpgbtpbJ1A=="
 ---
 

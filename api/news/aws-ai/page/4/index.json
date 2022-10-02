@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-18-ring-security-flaw-could-have-allowed-hackers-to-spy-on-your-saved-videos-what-to-do.md",
+      "title": "Ring security flaw could have allowed hackers to spy on your saved videos — what to do",
+      "excerpt": "A high-severity vulnerability in Amazon’s Ring app for Android which could have allowed hackers to spy on users’ saved camera recordings has been discovered and quickly patched by the video doorbell giant.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/news/ring-security-flaw-could-have-allowed-hackers-to-spy-on-your-saved-videos-what-to-do",
+      "originalUrl": "https://www.tomsguide.com/news/ring-security-flaw-could-have-allowed-hackers-to-spy-on-your-saved-videos-what-to-do",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XKL3ytNFxq6qeBf3zNENuF-1200-80.jpg",
+          "width": 1000,
+          "height": 569,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-08-18-amazons-ring-patches-flaw-that-couldve-let-hackers-access-camera-footage.md",
       "title": "Amazon's Ring Patches Flaw That Could've Let Hackers Access Camera Footage",
       "excerpt": "The flaw required Ring users with Android devices to install a malicious app. The company quietly released a patch for the problem in May.",
@@ -1327,49 +1371,6 @@
       "provider": {
         "name": "AV Network",
         "domain": "avnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-veritone-extends-partnership-with-aws.md",
-      "title": "Veritone Extends Partnership with AWS",
-      "excerpt": "Veritone, creator of aiWARE, a hyper-expansive enterprise artificial intelligence (AI) platform, has extended its work with Amazon and Amazon Web Services (AWS) to support its media and entertainment customers. Last year, Veritone joined the AWS for Media ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154274",
-      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154274",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/147142-0822_SCS_UJET_480x610-ORG.png",
-          "width": 480,
-          "height": 610,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-05T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
         "images": null,
         "publishers": null,
         "authors": null

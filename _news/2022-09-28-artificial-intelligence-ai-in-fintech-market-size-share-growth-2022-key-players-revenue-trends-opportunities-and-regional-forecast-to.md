@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Image Recognition Market Latest Research, Industry Analysis, Driver, Trends, Business Overview, Key Value, Demand and Forecast 2022-2027"
-excerpt: "The global Image Recognition market size was valued at USD 27189.63 million in 2021 and is expected to expand at a CAGR"
-publishedDateTime: 2022-09-28T04:46:00Z
-originalUrl: "https://www.marketwatch.com/press-release/image-recognition-market-latest-research-industry-analysis-driver-trends-business-overview-key-value-demand-and-forecast-2022-2027-2022-09-28"
-webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-latest-research-industry-analysis-driver-trends-business-overview-key-value-demand-and-forecast-2022-2027-2022-09-28"
+title: "Artificial Intelligence (AI) in Fintech Market Size, Share, Growth, 2022 Key Players, Revenue, Trends, Opportunities and Regional Forecast to 2029"
+excerpt: "Global \"Artificial Intelligence (AI) in Fintech Market\" (2022-2029) research report by researcher gives an insight into"
+publishedDateTime: 2022-09-28T09:57:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-size-share-growth-2022-key-players-revenue-trends-opportunities-and-regional-forecast-to-2029-2022-09-28"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-size-share-growth-2022-key-players-revenue-trends-opportunities-and-regional-forecast-to-2029-2022-09-28"
 type: article
-quality: 1
+quality: 46
 heat: -1
 published: false
 
@@ -19,8 +19,14 @@ provider:
       height: 50
 
 topics:
-  - Computer Vision
+  - AI in Finance
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Facial Recognition Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2027"
@@ -46,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Fintech Market Size, Share, Growth, 2022 Key Players, Revenue, Trends, Opportunities and Regional Forecast to 2029"
-    excerpt: "Global \"Artificial Intelligence (AI) in Fintech Market\" (2022-2029) research report by researcher gives an insight into"
-    publishedDateTime: 2022-09-28T09:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-size-share-growth-2022-key-players-revenue-trends-opportunities-and-regional-forecast-to-2029-2022-09-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -160,7 +152,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Image Recognition Market Latest Research, Industry Analysis, Driver, Trends, Business Overview, Key Value, Demand and Forecast 2022-2027"
+    excerpt: "The global Image Recognition market size was valued at USD 27189.63 million in 2021 and is expected to expand at a CAGR"
+    publishedDateTime: 2022-09-28T04:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-latest-research-industry-analysis-driver-trends-business-overview-key-value-demand-and-forecast-2022-2027-2022-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 1
 
-secured: "Ad0zCOJVTf/7woB8gKRJcBKx/Mp4DiH+3eMGmPAzMgxKWa6S8fUJanrUMkRxhk5niZeZ3lWiIk6+mVjFA6hnuUydGkhdNqMZIC8b6y7UWa5XN41WReGiI3ecytK20oTL+E9LEmemODDYb3muGJfdehH5EGC0blArGZWrkSrOm/sFePPrAEemdZIQMUJDtBvguPhztDLdFBe0KCvSVE/F33jWPrczdRI+a27WbzQEU81+6sQaOI7apBZk4BNZSL1Su8/irNDn6UOQ59V3dhXRdNSz3+Rf9QcG83Ybq48wyR7XHSB5m3+/gQM+DggUbz1fsOCkmIygm5LzpMFbJSrmHQjpyFLz/uIlefzQ9tiW3po=;C1u+w2+mofA4lLb1VFG1SQ=="
+secured: "UQIvk2R97ctgJLO4lOu7dDLgEWHZu9BIc8aA8ITKJi3X211bZ7qqi3oqvjHhCBz4UywQIGbfU5FIk1qRPkC1cjIG0YaZIw8QM435jCZqTgUgZ197drcsuzKDijVVvnSGCRCuy0WEuUA1z0FTazRhtKZCOAO0DspGxbX1BZGiRC1l1PA1tkdXBqQTGYZQDuTDxOostCjO524wzjvFCWeCOrCdvM724KniyNXNz/7uZMuWNHj9d3MJkmwhLCgAiGQWzHaIVPOI4x8tU9O1xfbDZNYFpkWfaaaO9qz3Mgk+TOXze9CV7h/OFbGC9ssNiKu+5WqEPUcVs5x5N+ERINdQgVUKqAzCBzE7JTHy/Bxpu0Y=;WolQpB0vMo/PWr/llYIw1Q=="
 ---
 

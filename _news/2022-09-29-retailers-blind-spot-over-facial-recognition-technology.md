@@ -7,8 +7,8 @@ originalUrl: "https://www.afr.com/companies/retail/retailers-blind-spot-over-fac
 webUrl: "https://www.afr.com/companies/retail/retailers-blind-spot-over-facial-recognition-technology-20220927-p5blc8"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: The Australian Financial Review
@@ -34,20 +34,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
-  - title: "University of Technology Sydney report offers blueprint for regulation of facial recognition technology"
-    excerpt: "Human Technology Institute has outlined a model law for facial recognition technology to protect against the harmful use of this technology, but also foster innovation for public benefit. Australian law was not drafted with the widespread use of facial recognition in mind."
-    publishedDateTime: 2022-09-27T10:44:00Z
-    webUrl: "https://www.intelligentcio.com/apac/2022/09/27/university-of-technology-sydney-report-offers-blueprint-for-regulation-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: intelligentcio
-      domain: intelligentcio.com
-    quality: 23
-    images:
-      - url: "https://i0.wp.com/www.intelligentcio.com/apac/wp-content/uploads/sites/44/2022/09/AdobeStock_530263120-Web.jpg?fit=1000%2C450&ssl=1"
-        width: 1000
-        height: 450
-        isCached: true
 
 secured: "j0pHSpfWrZfiRbg5GA84IlQyUSkX7KtFyR2FyI+kiHAtSjug/sL2GN5oVDQ80171Rr/MnXuktTK6qga7DZjn2/YbMtJ+VXs1LJ7dZL8zs4DunN85fi8lbhvkXi7ABd0X/Sfx6hJqpqfMXxGvlr1bG4wmeXzNfZQSAR6NEpWEtcdwRz08lb9NZFqRfhG6UkKG/to+xYXnDh0SowwzCJm/3fQbGB8OVRqXMA/GwjWbgzH9/sgQdlf4EaTy8ZUJnITr+kf41V2QnmWXgwhjvHVReYzZ4SDvPwr5GX2JbY/r0uriY6B8SYdfeUkJ+Jb5XWAmGwIVY6+0DvNKqOVy7vy2vh2sjRAF/ifRMOTEVY+iw2meMI+qv3ZGzpfNbvIy6uRfhghopw2j9Cy3JUQCORURG54siobb61jZX3qez698BEUQIEiVGYvIzmu76Yqh2Cz5Wk/2/YcrPHRCzINSOFRkBj7uYMhqaWkepA8cgx24qR3ZJYndTBFTI7cP47KMsuOraAj4umOfVa1zcnkKPUV+4g==;vPUqycpUk3ycQhu2Z5oKJg=="
 ---

@@ -512,16 +512,16 @@ related:
   - title: "Tesla, Elon Musk show off early prototype 'Optimus' robot"
     excerpt: "But the basic tasks by the robot with exposed wires and electronics — as well as a later, next generation version that had to be carried onstage by three men — was a long way from CEO Elon Musk's vision of a human-like robot that can change the world."
     publishedDateTime: 2022-10-01T23:58:00Z
-    webUrl: "https://www.thv11.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-    ampWebUrl: "https://www.thv11.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-    cdnAmpWebUrl: "https://www-thv11-com.cdn.ampproject.org/c/s/www.thv11.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+    webUrl: "https://www.wfaa.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+    ampWebUrl: "https://www.wfaa.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+    cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
     type: article
     provider:
-      name: KTHV
-      domain: thv11.com
+      name: WFAA8
+      domain: wfaa.com
     quality: 76
     images:
-      - url: "https://media.thv11.com/assets/CCT/images/ee0a47a3-adbd-488e-b57b-07df25f393af/ee0a47a3-adbd-488e-b57b-07df25f393af_1140x641.jpg"
+      - url: "https://media.wfaa.com/assets/CCT/images/ee0a47a3-adbd-488e-b57b-07df25f393af/ee0a47a3-adbd-488e-b57b-07df25f393af_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -697,6 +697,20 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "Tesla AI day updates including a working prototype of Optimus Bot"
+    excerpt: "Tesla successfully held its AI Day 2 on September 30th. A working prototype of the Optimus Bot was revealed including many updates shared by Tesla. Elon Musk stated that the point of AI Day is to show the “immense depth and breadth of Tesla in AI,"
+    publishedDateTime: 2022-10-02T03:16:00Z
+    webUrl: "https://techstory.in/tesla-ai-day-updates-including-a-working-prototype-of-optimus-bot/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 56
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/10/220930182442-02-tesla-ai-day-0930-robot.jpg"
+        width: 1600
+        height: 889
+        isCached: true
   - title: "Elon Musk Unveils Prototype of Humanoid Robot Optimus, Says It Will Cost Less Than a Car"
     excerpt: "The prototype, which the CEO showed off at a company’s AI event Friday, is part of his effort to shape public perception of the company as more than just a car maker."
     publishedDateTime: 2022-10-01T04:32:00Z
@@ -743,6 +757,6 @@ related:
       domain: thesun.co.uk
     quality: 28
 
-secured: "/9JLJ9H9M4rh+pgomPhfG+zE0SQsYcoLTctzd9T6jpGnb3Qk8SWCKYPavIkGoi0r4bnCv81lrmRTAUg3SPKLC5S8q7iXa8fuy5+qvRNLNKdQtNyEz/chpX8VwP6eL0NBHtyU7+QzPLJJbPVDdIG/Knq/7gF+sUrdrmWiW+G5osPfq+6r/is9+oSFlfUSdCym1hW/s0PxbFw/Z8chPdL3icXXN0Qisbw8w12ZAj8iwrQ+JCk7plGx78hlVJUDaucwBBlakIqsj08/z/aoXJO2DecOSImLRO80hJBsS3cTP2HnJ+gQy0ThJMfwKFpq3wNzGhq7AbiKmAujPlcFqUOXDJbJEiFyGq85vGv4n/leD+s=;HFQqF0NfyldiVXsmeKzxaA=="
+secured: "0wc9dLNQV3yORUv/f+QRjZR6lIugdVmkzrCBynBru6eA2tBSLvDqTKHLKirCpP8LisL+ukiJNAaNt+gH3YlTc2P19Pe6Myn6KHwR3QCvQi9jI/t02mvx038LE0OAG6iz0LHDIkXNfeG9qd/Hchs3bIUqCKIl73TLfBdVGoruMEUUJC8s+KByKIHljbCdaJkZE0FkO2eOAcA8EBa6CF3Pikp3W5HNWHZ5idB9wC/Zc4ghMTqNl2O4QbifimHPW5e4z2FvxRUqBP0Pa8h5ru+jDRdEqIR8WK2+bKdmg/Y/FUgGsi/dxJD43qeg6zefs1tJwkO7Vk96gu6EhFbIYCmazN8p0LraHQz8qhUlS3XhnOS6BfanU2NUtgAuFawhgItArc1rF6XrqZ8sB4ZpfZX3eIGe4CynMVH2fDa/pl6vU9PRMcz/64RIn01dGn39TNCREPjA3MheMynZ3iiFMuIViYvBlK95W4CRv7Dda8sSgg+Xu/dckcy3iyQkkwhrNzuW/kg1CVd0e+8k/Rh0lqeywQ==;zAqC2ETwNaEDmMlon0T4qA=="
 ---
 

@@ -3,18 +3,18 @@ category: news
 title: "Tesla, Elon Musk show off early prototype 'Optimus' robot"
 excerpt: "But the basic tasks by the robot with exposed wires and electronics — as well as a later, next generation version that had to be carried onstage by three men — was a long way from CEO Elon Musk's vision of a human-like robot that can change the world."
 publishedDateTime: 2022-10-01T23:58:00Z
-originalUrl: "https://www.thv11.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-webUrl: "https://www.thv11.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-ampWebUrl: "https://www.thv11.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-cdnAmpWebUrl: "https://www-thv11-com.cdn.ampproject.org/c/s/www.thv11.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+originalUrl: "https://www.wfaa.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+webUrl: "https://www.wfaa.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+ampWebUrl: "https://www.wfaa.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
 type: article
 quality: 76
 heat: -1
 published: false
 
 provider:
-  name: KTHV
-  domain: thv11.com
+  name: WFAA8
+  domain: wfaa.com
 
 topics:
   - AI in Robotics
@@ -22,7 +22,7 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://media.thv11.com/assets/CCT/images/ee0a47a3-adbd-488e-b57b-07df25f393af/ee0a47a3-adbd-488e-b57b-07df25f393af_1140x641.jpg"
+  - url: "https://media.wfaa.com/assets/CCT/images/ee0a47a3-adbd-488e-b57b-07df25f393af/ee0a47a3-adbd-488e-b57b-07df25f393af_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -697,6 +697,20 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "Tesla AI day updates including a working prototype of Optimus Bot"
+    excerpt: "Tesla successfully held its AI Day 2 on September 30th. A working prototype of the Optimus Bot was revealed including many updates shared by Tesla. Elon Musk stated that the point of AI Day is to show the “immense depth and breadth of Tesla in AI,"
+    publishedDateTime: 2022-10-02T03:16:00Z
+    webUrl: "https://techstory.in/tesla-ai-day-updates-including-a-working-prototype-of-optimus-bot/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 56
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/10/220930182442-02-tesla-ai-day-0930-robot.jpg"
+        width: 1600
+        height: 889
+        isCached: true
   - title: "Elon Musk Unveils Prototype of Humanoid Robot Optimus, Says It Will Cost Less Than a Car"
     excerpt: "The prototype, which the CEO showed off at a company’s AI event Friday, is part of his effort to shape public perception of the company as more than just a car maker."
     publishedDateTime: 2022-10-01T04:32:00Z
@@ -743,6 +757,6 @@ related:
       domain: thesun.co.uk
     quality: 28
 
-secured: "xQS8IPrb8hBq7g/XC7KwjdpA9JnTyjrNNQteVAZdbbC3b4opKCfupTkGkMPOUrf35Ciwt0lKBFEphaZe1byU9RteDHRww3u5jKUddiI3baVmm+4jPca0Rf9rP4ZzC9Jd99PrI4zoYhg6g4vXi9Rw2Wm1Pou8OCZarx2FRXaWSw1kHdy2LXWj7pDscSx2cWeccyKTyo73VbOS9I0YwjVNX+c7Cl0EZJYlQweAapaDS5kQcr9F6OTiufzN1wibNMLOcwA9uIExaEJdlvK28JGBqQVdMd9kayGO/Mqt8if7ZIpMHraFH9ZtFQ2sBsQ/ES/7TVt3DL0//07qelkeg/WmkgDesLN8C5ONvHnzuivd4Fk=;kzlgPxPlNoUmTtaXidC4sA=="
+secured: "b+NNo+l9UqUUkjES/e7ujJ8yLrXm97ozpXAoTuAsnUheQS0StYt2XeXj+M5FFuJHM15YCULpIlFLYNDARxcN18fPic0idfRqzn2cFaxteAb55ksi7u+BibwjXSt/OlliE66mSPHoXHEusuWO0QSNwkAHrHXQwaEMv0BEL1LXl5HMv/oVl8ugnWrpNH2TLh1tygpXPEPkiThMczbO6f1olPCTKXbx484OUVTsQECJpxmbHywU1pyNHWkR6TSyunr1llh7eGVX1jg0x4eTLKijGKnd+eBGYi8kLhUy3yDGvh7vNpuVtgsswpQQjV60GfA55omRD2UraQa3/wirkS7KlBnf02M7s4bZEdMHlxcUH/Q=;MrJj/wlMWoKJGSr5C7+fYg=="
 ---
 

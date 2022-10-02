@@ -1,30 +1,31 @@
 ---
 category: news
 title: "Tesla robot walks, waves, but doesn’t show off complex tasks"
-excerpt: "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company’s artificial intelligence event Friday."
-publishedDateTime: 2022-09-30T00:00:00Z
-originalUrl: "https://www.washingtontimes.com/news/2022/sep/30/tesla-robot-walks-waves-but-doesnt-show-off-comple/"
-webUrl: "https://www.washingtontimes.com/news/2022/sep/30/tesla-robot-walks-waves-but-doesnt-show-off-comple/"
-ampWebUrl: "https://amp.washingtontimes.com/news/2022/sep/30/tesla-robot-walks-waves-but-doesnt-show-off-comple/"
-cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/sep/30/tesla-robot-walks-waves-but-doesnt-show-off-comple/"
+excerpt: "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a"
+publishedDateTime: 2022-09-30T15:40:00Z
+originalUrl: "https://mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/"
+webUrl: "https://mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/"
+ampWebUrl: "https://mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/"
+cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/"
 type: article
-quality: 76
-heat: 106
+quality: 78
+heat: 118
 published: true
 
 provider:
-  name: Washington Times
-  domain: washingtontimes.com
+  name: MyNorthwest.com
+  domain: mynorthwest.com
 
 topics:
-  - AI in Robotics
+  - AI in Healthcare
   - AI
   - AI in Autos
+  - AI in Robotics
 
 images:
-  - url: "https://twt-thumbs.washtimes.com/media/image/2022/10/01/tesla_robot_47794_c0-216-5184-3240_s1200x700.jpg?48c42b2789ee0d08ce9a91ab8317603cc81a12f8"
-    width: 1200
-    height: 700
+  - url: "https://mynorthwest.com/wp-content/uploads/2018/01/MYNW_Facebookj.jpg"
+    width: 452
+    height: 282
     isCached: true
 
 related:
@@ -38,18 +39,32 @@ related:
       domain: nbcnews.com
     quality: 63
   - title: "Tesla robot walks, waves, but doesn't show off complex tasks"
-    excerpt: "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company’s artificial intelligence event"
-    publishedDateTime: 2022-10-01T13:45:00Z
-    webUrl: "https://www.stltoday.com/lifestyles/technology/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/article_d6c4e463-886d-58f3-b44f-7f68457538c9.html"
+    excerpt: "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company’s artificial intelligence event Friday"
+    publishedDateTime: 2022-10-01T13:46:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/tesla-robot-walks-waves-show-off-complex-tasks-90805394"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 56
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/fe/3fe6a0b4-cae8-5969-bb5a-be25f54ab172/6337c9b0a9094.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://s.abcnews.com/images/Technology/WireAP_4a288d490a1843839f4e48c2453e6a75_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Tesla robot walks, waves, but doesn’t show off complex tasks"
+    excerpt: "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company's artificial intel"
+    publishedDateTime: 2022-10-02T03:02:00Z
+    webUrl: "https://www.columbian.com/news/2022/oct/01/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 56
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/uploads/2022/10/Tesla_Robot_47794.jpg-2f81c.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "Tesla Robot Shows Some Skills, But Falls Flat With Some Robotics Insiders"
     excerpt: "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company’s artificial intelligence event Friday."
@@ -61,6 +76,6 @@ related:
       domain: nbcnewyork.com
     quality: 50
 
-secured: "7iVAX7dVUi26+23Gv1L8dv04XH0n6S0h3Ld35k5UBDmZab2SuUfIhy00bfQ7mB1/qd+a0ff1H4lnHkk2dDSsBVpaZ3L14p11wQ2VIxmH2YiSHkCtpbsLhSpU/rckf/G70qqtr0y0CHBIP72YuLeUF9Ng/9axAP+8Gqxad74UdqN9/3vTfTKSdMciOtZzdP+KFfI38F43Fl9uahsZud8GkZueeDzcPstmZWatlg0SfBZLS3rfhauhLjQo5+yeXx8L4ybpri5AgOIpJSc00yOsgxdUsKx0ZL1qWpW7YjMmTK9aqQmWF0zSJ9MthVmXwq1qwrN4L+rESR1CFPh3Mv6f2GiGDeEPYOG4/S/iGBw7Cts=;4sP1uLL0bbg1ODu+MgntZQ=="
+secured: "CNNrvHL5jVlRjc20uHYC4n0xEdO0wCuo2+2hZgVnUcKJ3xo4pyDcl1PGBz4PGFeO1XXUR6ojoaNB9bfxuzvSCIcC7BLPeC6OpTsX5IDYyCq3doi+cV2+xSTXYhM5LfOXvYCGH6pSmQnJeB+MO7Fv0aNJnxknBaGe0zpmfzJ8ozRTZ8YMDD/NBv8ZvJHFy4MrqMwn0xam+LR0FdHxXXa/61FGsKyllwPXjyThVy104im3wUDC5z6MLGN0IiKvK1cX79+LMa6XnwrsmmznVfQMRZgzeSuAdSO42mHGKPhl66Oxm/9KddErNO8f8xOLjgLPv6CNAV5wXWF11b5ECjEmli2irNhlznkV+q7iYOlEk6Y=;B0pKDWY3ad5TsnYdWTq3oA=="
 ---
 
