@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/open-source-initiative-expa
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/open-source-initiative-expands-its-role-to-ai-and-machine-learning/"
 type: article
 quality: 106
-heat: -1
-published: false
+heat: 106
+published: true
 
 provider:
   name: ZDNet
@@ -30,24 +30,6 @@ images:
     width: 1200
     height: 1200
     isCached: true
-
-related:
-  - title: "Hugging Face takes step toward democratizing AI and ML"
-    excerpt: "Hugging Face has launched a new AI-as-a-service offering, designed to take on large workloads of enterprises and help speed up ML projects."
-    publishedDateTime: 2022-09-27T16:00:00Z
-    webUrl: "https://venturebeat.com/ai/hugging-face-steps-toward-democratizing-ai-and-ml-with-latest-offering%EF%BF%BC/"
-    ampWebUrl: "https://venturebeat.com/ai/hugging-face-steps-toward-democratizing-ai-and-ml-with-latest-offering%EF%BF%BC/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/hugging-face-steps-toward-democratizing-ai-and-ml-with-latest-offering%EF%BF%BC/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/12/hugging-face.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "d26BjEjQRMIxfPoOR392oLeqTmk7icD1dKP1B7i6e755rF0I/tvhQyjfoWKtmzbEtX5+P1BPVrg036KvUlBhmM072WxZqfmoLsqC2AlHPVcuuMmNSRZ02fdQi4Oz1076QNOQRG8vNWAWTFbj2Mx2Bp5aqDz66BVB4RHCn1a/EjsodFYNVA20W0cf2aAAakDtBZGvNMMeDmYlCRsjaBPUVqCye/geVfoC/OK+c2IWsFAkD54GXG0qCJ5mxhgRfoTVRq4IWzUPeCPrrAzGBUQ19nod+j+Bm25wWzPhrvKCNDHKVLPUBVCSZTTXk4gvMQ+7OdOV2kBUhxqLgIJPV86Nf81Rf65x7LkYrjMJXjG0/SgUXUF32dAuWEklCmF2FBQU5ShqAg2eTroTO3WOITbMBZ8dv6ZAkt2J/I59HyEQYsqfKIPnmE4sQKHRYLrF4FF9XBYb/45u0MlGmDcJXiV/An1Vy8Lo8/LnCE/LBznmorrnF1gnKN0SD28/UNQzYSwnhfKqgOIbF/NjrEcK5xsYoQ==;abZCRJNL7AbgNKfb9ljbpQ=="
 ---

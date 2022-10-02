@@ -2,6 +2,100 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2022-09-08-mohali-mc-turns-to-face-recognition-attendance-system-to-rein-in-absence.md",
+      "title": "Mohali MC turns to face recognition attendance system to rein in absence",
+      "excerpt": "Working to curb unauthorised absence at the municipal corporation office, the civic body’s finance and contract committee on Wednesday gave the nod for a face-recognition attendance system for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/cities/chandigarh-news/mohali-mc-turns-to-face-recognition-attendance-system-to-rein-in-absence-101662585164173.html",
+      "originalUrl": "https://www.hindustantimes.com/cities/chandigarh-news/mohali-mc-turns-to-face-recognition-attendance-system-to-rein-in-absence-101662585164173.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/09/07/1600x900/f9dfc766-2eee-11ed-b360-96b459ca4506_1662585162670.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/cities/chandigarh-news/mohali-mc-turns-to-face-recognition-attendance-system-to-rein-in-absence-101662585164173-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/chandigarh-news/mohali-mc-turns-to-face-recognition-attendance-system-to-rein-in-absence-101662585164173-amp.html",
+      "publishedDateTime": "2022-09-07T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-08-hebbia-raises-30m-to-launch-an-ai-powered-document-search-tool.md",
+      "title": "Hebbia raises $30M to launch an AI-powered document search tool",
+      "excerpt": "Hebbia, a startup developing AI-powered search tools, has raised $30 million in a venture funding round as it launches a commercial offering.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/07/hebbia-raises-30m-to-launch-an-ai-powered-document-search-tool/",
+      "originalUrl": "https://techcrunch.com/2022/09/07/hebbia-raises-30m-to-launch-an-ai-powered-document-search-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-618355044.jpg?w=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/07/hebbia-raises-30m-to-launch-an-ai-powered-document-search-tool/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/07/hebbia-raises-30m-to-launch-an-ai-powered-document-search-tool/amp/",
+      "publishedDateTime": "2022-09-07T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-07-transfer-learning-for-tensorflow-image-classification-models-in-amazon-sagemaker.md",
       "title": "Transfer learning for TensorFlow image classification models in Amazon SageMaker",
       "excerpt": "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised",
@@ -1030,101 +1124,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-facebook-is-trying-to-be-more-like-tiktok-whistleblower-says-its-a-bad-idea.md",
-      "title": "Facebook Is Trying To Be More Like TikTok. Whistleblower Says It's A 'Bad Idea'",
-      "excerpt": "Facebook whistleblower Frances Haugen isn't a fan of the social media giant's efforts to become more like short-form video app TikTok. \"The world that they're choosing to go towards is one where you have to do censorship to be safe and I think that's a bad idea,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/social-media/facebook-is-trying-to-be-more-like-tiktok-whistleblower-says-its-a-bad-idea/",
-      "originalUrl": "https://www.cnet.com/news/social-media/facebook-is-trying-to-be-more-like-tiktok-whistleblower-says-its-a-bad-idea/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/1f7cddf05679dedd0eea42a26f7000c836eea984/2022/09/07/9f360aee-6f7f-498a-a7a1-20cf0aee5ad4/screen-shot-2022-09-06-at-5-35-41-pm.png?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-is-trying-to-be-more-like-tiktok-whistleblower-says-its-a-bad-idea/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-trying-to-be-more-like-tiktok-whistleblower-says-its-a-bad-idea/",
-      "publishedDateTime": "2022-09-06T19:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law.md",
-      "title": "Iran might use facial recognition to identify women who violate hijab law",
-      "excerpt": "Iran might use facial recognition to identify women who violate hijab law. The regime continues a crackdown on women's dressing.",
-      "sourceUrl": null,
-      "webUrl": "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/",
-      "originalUrl": "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailytimes.com.pk/assets/uploads/2018/06/15/US-restaurant-chain-in-hijab-row-orders-diversity-training.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/amp/",
-      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/amp/",
-      "publishedDateTime": "2022-09-06T17:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Times",
-        "domain": "dailytimes.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

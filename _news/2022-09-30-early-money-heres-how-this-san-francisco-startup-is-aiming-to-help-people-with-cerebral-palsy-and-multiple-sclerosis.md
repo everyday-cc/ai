@@ -18,17 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Cruise Self-Driving Cars Are Still Randomly Stalling in San Francisco"
-    excerpt: "In August, 60 self-driving vehicles operated by GM’s autonomous Cruise stalled in traffic all over San Francisco. Over a month later and the problem is persisting, and it’s really starting to piss people off."
-    publishedDateTime: 2022-09-27T17:00:00Z
-    webUrl: "https://jalopnik.com/cruise-self-driving-cars-are-still-randomly-stalling-in-1849585847"
-    ampWebUrl: "https://jalopnik.com/cruise-self-driving-cars-are-still-randomly-stalling-in-1849585847/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/cruise-self-driving-cars-are-still-randomly-stalling-in-1849585847/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 24
   - title: "San Francisco warns robotaxis can be a self-driving nightmare"
     excerpt: "GM's self-driving car subsidiary Cruise said earlier this year that it wants to add as many as 5,000 more robotaxis to American streets, including in San Francisco, where it currently maintains a fleet of fewer than 100 cars."
     publishedDateTime: 2022-09-30T14:55:00Z

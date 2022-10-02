@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-08-arize-ai-raises-38-million-series-b-to-scale-machine-learning-observability-platform.md",
+      "title": "Arize AI Raises $38 Million Series B To Scale Machine Learning Observability Platform",
+      "excerpt": "Arize AI Raises $38 Million Series B To Scale Machine Learning Observability Platform Sep 08, 2022 (PRNewswire via COMTEX) -- PR Newswire BERKELEY,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/arize-ai-raises-38-million-series-b-to-scale-machine-learning-observability-platform-2022-09-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/arize-ai-raises-38-million-series-b-to-scale-machine-learning-observability-platform-2022-09-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-08-lightning-ai-brings-on-pytorch-lead-to-expand-deep-learning-leadership.md",
       "title": "Lightning AI Brings on PyTorch Lead to Expand Deep Learning Leadership",
       "excerpt": "Mike Ruberry, core PyTorch technical lead, joins Lightning AI as chief engineer of the PyTorch teamNew hire signals beginning of PyTorch team at the New Yo",
@@ -1326,58 +1378,6 @@
         "AI Hardware",
         "Machine Learning",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-how-self-supervised-learning-may-boost-medical-ai-progress.md",
-      "title": "How self-supervised learning may boost medical AI progress",
-      "excerpt": "Self-supervised learning in healthcare and medicine is growing, thanks to the vast amount of unstructured data available in that industry.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-self-supervised-learning-may-boost-medical-ai-progress/",
-      "originalUrl": "https://venturebeat.com/ai/how-self-supervised-learning-may-boost-medical-ai-progress/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1156616255.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-self-supervised-learning-may-boost-medical-ai-progress/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-self-supervised-learning-may-boost-medical-ai-progress/amp/",
-      "publishedDateTime": "2022-08-30T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

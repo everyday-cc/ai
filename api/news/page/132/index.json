@@ -2,6 +2,101 @@
   "page": 132,
   "value": [
     {
+      "path": "_news/2022-06-17-robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance.md",
+      "title": "Robot artist Ai-Da paints Glastonbury headliners ahead of festival attendance",
+      "excerpt": "Ai-Da Robot has created four portraits of the Somerset festival’s headline acts: Billie Eilish, Diana Ross, Kendrick Lamar and Sir Paul McCartney. To start, Ai-Da Robot uses cameras in its eyes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.ie/entertainment/music/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-41761862.html",
+      "originalUrl": "https://www.independent.ie/entertainment/music/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-41761862.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.independent.ie/entertainment/music/da2ce/41761859.ece/AUTOCROP/w1240h700/ipanews_35e76834-6e7c-4944-b8c4-e926f0e92322_1",
+          "width": 1240,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.ie/entertainment/music/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-41761862.html",
+      "cdnAmpWebUrl": "https://www-independent-ie.cdn.ampproject.org/c/s/www.independent.ie/entertainment/music/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-41761862.html",
+      "publishedDateTime": "2022-06-16T17:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Independent.ie",
+        "domain": "independent.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-how-an-nlp-pioneers-new-company-is-evolving-conversational-ai.md",
+      "title": "How an NLP pioneer’s new company is evolving conversational AI",
+      "excerpt": "Xembly aims to help business people to better organize and schedule their work lives, with an automated NLP-powered AI platform.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/16/how-an-nlp-pioneers-new-company-is-evolving-conversational-ai/",
+      "originalUrl": "https://venturebeat.com/2022/06/16/how-an-nlp-pioneers-new-company-is-evolving-conversational-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1367728606-e1645809619993.jpg?fit=800%2C547&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/16/how-an-nlp-pioneers-new-company-is-evolving-conversational-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/how-an-nlp-pioneers-new-company-is-evolving-conversational-ai/amp/",
+      "publishedDateTime": "2022-06-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-17-privacy-bill-sets-out-rules-on-use-of-personal-data-artificial-intelligence.md",
       "title": "Privacy bill sets out rules on use of personal data, artificial intelligence",
       "excerpt": "The federal Liberals introduced privacy legislation on Thursday to give Canadians more control over how their personal data is used by commercial entities, impose fines for non-compliant organizations",
@@ -1025,93 +1120,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-microsoft-viva-sales-aims-to-take-the-busy-work-out-of-crm.md",
-      "title": "Microsoft Viva Sales aims to take the busy work out of CRM",
-      "excerpt": "The 'Sales' version will work with all other CRM services, such as Salesforce or Freshworks, Microsoft has confirmed. Viva Sales will take customer engagement data from Microsoft 365 and Microsoft ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/marketing-comms/customer-relationship-management-crm/368306/microsoft-launches-viva-sales",
-      "originalUrl": "https://www.itpro.co.uk/marketing-comms/customer-relationship-management-crm/368306/microsoft-launches-viva-sales",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1655377468/itpro/Microsoft_Viva_Sales.png",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-aidoc-raises-110m-to-address-the-increasing-challenges-facing-health-systems-by-using-artificial-intelligence.md",
-      "title": "Aidoc raises $110M to Address the Increasing Challenges Facing Health Systems by Using Artificial Intelligence",
-      "excerpt": "Healthcare leaders face an increasingly tough economic environment and it's going to require that we use technology like artificial intelligence to re-think ways to do business\" says David Shulkin ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wpri.com/business/press-releases/cision/20220616LN91345/aidoc-raises-110m-to-address-the-increasing-challenges-facing-health-systems-by-using-artificial-intelligence/",
-      "originalUrl": "https://www.wpri.com/business/press-releases/cision/20220616LN91345/aidoc-raises-110m-to-address-the-increasing-challenges-facing-health-systems-by-using-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WPRI 12",
-        "domain": "wpri.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

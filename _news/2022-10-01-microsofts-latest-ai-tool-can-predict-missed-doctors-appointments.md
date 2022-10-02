@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai-tool-can-predict-missed-doctors-appointments/amp/"
 type: article
 quality: 104
-heat: 165
+heat: 155
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "SAS Viya now available in the Microsoft Azure Marketplace"
-    excerpt: "SAS offers its industry-leading analytics platform with hourly pricing model, in-app tutorials and support for multiple languagesCARY, N.C.,"
-    publishedDateTime: 2022-09-27T15:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sas-viya-now-available-in-the-microsoft-azure-marketplace-1031767702"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 99
-    images:
-      - url: "https://mma.prnewswire.com/media/1907863/SAS__woman_screen.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "SAS Viya Now Available on Microsoft Azure Marketplace"
     excerpt: "The full-featured platform on Microsoft Azure would equip global customers with access to essential machine learning, data exploration, and model deployment analytics"
     publishedDateTime: 2022-09-29T10:10:00Z

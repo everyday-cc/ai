@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-31-tech-whistleblowers-prefer-loud-exit-to-quiet-quitting.md",
+      "title": "Tech Whistleblowers Prefer Loud Exit To Quiet Quitting",
+      "excerpt": "The penchant for tech whistleblowers to quit their jobs with a bang while many of their colleagues engage in “quiet quitting” should be a wake-up call to industry leaders, according to a blog penned by four Forrester analysts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technewsworld.com/story/tech-whistleblowers-prefer-loud-exit-to-quiet-quitting-177039.html",
+      "originalUrl": "https://www.technewsworld.com/story/tech-whistleblowers-prefer-loud-exit-to-quiet-quitting-177039.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNewsWorld",
+        "domain": "technewsworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-31-a-look-back-at-gartners-data-and-analytics-summit-2022.md",
       "title": "A Look Back at Gartner's Data and Analytics Summit 2022",
       "excerpt": "Data and analytics are the lifeblood of modern companies and, like so many other things tech-based, they are evolving.",
@@ -1340,40 +1374,6 @@
         "AI",
         "AI Ethics",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-ai-mischief-models-have-the-potential-to-make-a-fresh-internet-hell.md",
-      "title": "AI ‘Mischief Models’ Have the Potential To Make a Fresh Internet Hell",
-      "excerpt": "A YouTuber in the AI community trained an AI language model called “GPT-4chan” to give misogynistic responses to questions. This suggests that many people will be able to use and expand on this AI that espouses hate speech – and that got the attention of the AI ethics community.",
-      "sourceUrl": null,
-      "webUrl": "https://science.thewire.in/the-sciences/ai-mischief-models-internet-ethics/",
-      "originalUrl": "https://science.thewire.in/the-sciences/ai-mischief-models-internet-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-06T01:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Wire",
-        "domain": "thewire.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

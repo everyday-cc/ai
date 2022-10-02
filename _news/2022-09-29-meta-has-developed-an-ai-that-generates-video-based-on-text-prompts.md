@@ -89,6 +89,22 @@ related:
         width: 2498
         height: 1238
         isCached: true
+  - title: "Meta’s new AI can turn text prompts into videos"
+    excerpt: "Meta has today unveiled an AI system that generates short videos based on text prompts. Make-A-Video lets you type in a string of words, like “A dog wearing a superhero outfit with a red cape flying through the sky,"
+    publishedDateTime: 2022-09-30T10:35:00Z
+    webUrl: "https://www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/09/dog-gif.gif?w=512"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Meta announces AI-based tool for generating video from text"
     excerpt: "The tool builds on popular image-generation programs like DALL-E and appears to have won a race to extend the tech to video."
     publishedDateTime: 2022-09-29T13:01:00Z

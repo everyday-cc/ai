@@ -2,6 +2,59 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-06-13-global-deep-learning-chipset-market-2022-industry-emerging-trends-sales-volumes-development-factors-and-growth-analysis-by-2028.md",
+      "title": "Global Deep Learning Chipset Market 2022 - Industry Emerging Trends, Sales Volumes, Development Factors and Growth Analysis by 2028",
+      "excerpt": "Jun 13, 2022 (CDN Newswire via Comtex) -- MarketandResearch.biz has managed a study on Global Deep Learning Chipset Market for the forecast period of 2022 to 2028. This report also assists the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2022---industry-emerging-trends-sales-volumes-development-factors-and-growth-analysis-by-2028-2022-06-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2022---industry-emerging-trends-sales-volumes-development-factors-and-growth-analysis-by-2028-2022-06-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-machine-learning-as-a-service-mlaas-market-growth-trends-covid-19-impact-and-forecasts-2022-2027.md",
       "title": "Machine Learning as a Service (MLaaS) Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022 - 2027)",
       "excerpt": "In addition, it provides flexibility on a pay-as-you-use basis. Machine learning-as-a-service (MLaaS) is a range of services that provides machine-learning tools as part of Cloud Computing Services.",
@@ -1354,49 +1407,6 @@
         "AI",
         "AI Ethics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-amazon-india-announces-machine-learning-summer-school.md",
-      "title": "Amazon India announces Machine Learning summer school",
-      "excerpt": "Hyderabad: Amazon India on Tuesday launched the second edition of Machine Learning (ML) Summer School, an immersive programme that aims to provide",
-      "sourceUrl": null,
-      "webUrl": "https://telanganatoday.com/amazon-india-announces-machine-learning-summer-school",
-      "originalUrl": "https://telanganatoday.com/amazon-india-announces-machine-learning-summer-school",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://telanganatoday.com/wp-content/uploads/2022/06/amazon-67.jpg",
-          "width": 680,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://telanganatoday.com/amazon-india-announces-machine-learning-summer-school/amp",
-      "cdnAmpWebUrl": "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/amazon-india-announces-machine-learning-summer-school/amp",
-      "publishedDateTime": "2022-06-07T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telangana Today",
-        "domain": "telanganatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

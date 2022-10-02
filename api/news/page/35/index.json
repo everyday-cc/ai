@@ -2,6 +2,102 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2022-09-01-up-bridge-the-gap-robot-development-kits.md",
+      "title": "UP Bridge the Gap robot development kits",
+      "excerpt": "Designed to provide developers with the complete package the robotic development kits come supplied with a computing and vision unit, a motion unit consisting of motor control board, motors and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/robot-development-kits-01-09-2022/",
+      "originalUrl": "https://www.geeky-gadgets.com/robot-development-kits-01-09-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2022/09/UP-Bridge-the-Gap-robotic-development-kits.jpg",
+          "width": 700,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-nvidia-says-us-order-restricts-sales-of-ai-chips-to-china.md",
+      "title": "Nvidia Says US Order Restricts Sales of AI Chips to China",
+      "excerpt": "New licensing requirements come amid concern that the chips could be put to military use, the chipmaker says in a regulatory filing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/",
+      "originalUrl": "https://www.cnet.com/tech/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 481,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/621e8aff0309eba6ed29be58ac6ed33c53072f63/2021/07/19/376c0f07-cc4b-4ef1-8be1-a3d0145c8b33/gettyimages-1231345685.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/",
+      "publishedDateTime": "2022-08-31T16:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-cat2-request-goes-out-for-facial-recognition-at-us-airports.md",
       "title": "CAT2 request goes out for facial recognition at US airports",
       "excerpt": "The U.S. government is advertising for a vendor that can add face biometrics to its existing ability to validate document-credentialing stations at airports.",
@@ -996,83 +1092,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-hovertouch-first-ai-and-computer-vision-solution-launched-by-spacee-that-transforms-existing-retail-surfaces-into-interactive-customer-experiences.md",
-      "title": "HoverTouch: First AI and Computer Vision Solution launched by Spacee that Transforms Existing Retail Surfaces Into Interactive Customer Experiences",
-      "excerpt": "About Spacee Spacee provides the best computer vision and AI solutions that help businesses drive new insights, improve efficiency and boost revenue. Spacee's interactive displays help engage and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56938910-hovertouch-first-ai-and-computer-vision-solution-launched-by-spacee-that-transforms-existing-retail-surfaces-into-interactive-customer-experiences-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56938910-hovertouch-first-ai-and-computer-vision-solution-launched-by-spacee-that-transforms-existing-retail-surfaces-into-interactive-customer-experiences-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T01:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-chinas-great-firewall-pushes-top-taiwan-ai-startups-toward-japan.md",
-      "title": "China's 'Great Firewall' pushes top Taiwan AI startups toward Japan",
-      "excerpt": "TOKYO -- Some Taiwanese startups specializing in artificial intelligence have chosen to expand in Japan rather than mainland China due to structural barriers that have become inherent in Chinese ...",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/Business/Startups/China-s-Great-Firewall-pushes-top-Taiwan-AI-startups-toward-Japan",
-      "originalUrl": "https://asia.nikkei.com/Business/Startups/China-s-Great-Firewall-pushes-top-Taiwan-AI-startups-toward-Japan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F4%252F5%252F0%252F3%252F42013054-1-eng-GB%252Fphoto.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T22:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ニッケイ・エイジア",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

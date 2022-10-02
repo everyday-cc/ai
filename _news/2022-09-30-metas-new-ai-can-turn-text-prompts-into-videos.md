@@ -1,29 +1,28 @@
 ---
 category: news
-title: "Make-A-Video with AI & a few words: Check out Meta’s new tool"
-excerpt: "Meta CEO Mark Zuckerberg posted on Facebook on Thursday about the research, called Make-A-Video, with a 20-second clip that compiled several text prompts that Meta researchers used and the resulting ("
-publishedDateTime: 2022-09-30T10:03:00Z
-originalUrl: "https://wraltechwire.com/2022/09/30/make-a-video-with-ai-a-few-words-check-out-metas-new-tool/"
-webUrl: "https://wraltechwire.com/2022/09/30/make-a-video-with-ai-a-few-words-check-out-metas-new-tool/"
-ampWebUrl: "https://wraltechwire.com/2022/09/30/make-a-video-with-ai-a-few-words-check-out-metas-new-tool/?amp=1"
-cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/09/30/make-a-video-with-ai-a-few-words-check-out-metas-new-tool/?amp=1"
+title: "Meta’s new AI can turn text prompts into videos"
+excerpt: "Meta has today unveiled an AI system that generates short videos based on text prompts. Make-A-Video lets you type in a string of words, like “A dog wearing a superhero outfit with a red cape flying through the sky,"
+publishedDateTime: 2022-09-30T10:35:00Z
+originalUrl: "https://www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/"
+webUrl: "https://www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/"
+ampWebUrl: "https://www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/amp/"
+cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/amp/"
 type: article
-quality: 59
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: WRAL TechWire
-  domain: wraltechwire.com
+  name: MIT Technology Review
+  domain: technologyreview.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://wraltechwire.com/wp-content/uploads/2022/09/hypatia-h_03283525a8885fcfbfcb4766d4628f46-h_a463ea9a9fd8001bfba9f7fc89c66cfb.jpg"
-    width: 1600
-    height: 900
+  - url: "https://wp.technologyreview.com/wp-content/uploads/2022/09/dog-gif.gif?w=512"
+    width: 512
+    height: 512
     isCached: true
 
 related:
@@ -73,6 +72,22 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Make-A-Video with AI & a few words: Check out Meta’s new tool"
+    excerpt: "Meta CEO Mark Zuckerberg posted on Facebook on Thursday about the research, called Make-A-Video, with a 20-second clip that compiled several text prompts that Meta researchers used and the resulting ("
+    publishedDateTime: 2022-09-30T10:03:00Z
+    webUrl: "https://wraltechwire.com/2022/09/30/make-a-video-with-ai-a-few-words-check-out-metas-new-tool/"
+    ampWebUrl: "https://wraltechwire.com/2022/09/30/make-a-video-with-ai-a-few-words-check-out-metas-new-tool/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/09/30/make-a-video-with-ai-a-few-words-check-out-metas-new-tool/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 59
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2022/09/hypatia-h_03283525a8885fcfbfcb4766d4628f46-h_a463ea9a9fd8001bfba9f7fc89c66cfb.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Meta is pivoting to video with its new AI generator"
     excerpt: "This new research tool can take text, video, or images and turn them into a short animated clip. Here's how it was created."
     publishedDateTime: 2022-09-30T15:00:00Z
@@ -88,22 +103,6 @@ related:
       - url: "https://www.popsci.com/uploads/2022/09/30/Screen-Shot-2022-09-30-at-10.16.05-AM.png?auto=webp"
         width: 2498
         height: 1238
-        isCached: true
-  - title: "Meta’s new AI can turn text prompts into videos"
-    excerpt: "Meta has today unveiled an AI system that generates short videos based on text prompts. Make-A-Video lets you type in a string of words, like “A dog wearing a superhero outfit with a red cape flying through the sky,"
-    publishedDateTime: 2022-09-30T10:35:00Z
-    webUrl: "https://www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/09/dog-gif.gif?w=512"
-        width: 512
-        height: 512
         isCached: true
   - title: "Meta announces AI-based tool for generating video from text"
     excerpt: "The tool builds on popular image-generation programs like DALL-E and appears to have won a race to extend the tech to video."
@@ -134,6 +133,6 @@ related:
         height: 399
         isCached: true
 
-secured: "taecNMdLysRCjnBAMuOmXZtLQSp19CnolAC4hCbqns5+AlDmaN72FsrcMeMMc3RamctVLYF8v/W2/ob0cgHUaob5hlIuDg18e0DN/C85tF08goaiUuhfje+A7MmUdz6c8xN3Pk/K+JHXts5oUs2RRSz6HVrvEjf5AaOBNYtxbKNJ0K/VzfmAD6aVP9rW9p9X4wka/FvA783qyCYA8Tr0XkzSYKE9CsQrkkIEcRfG5WLR5NlhktaAEp2zHQ/5Or9qNlyDGP+/hogD05hFpVeVNNCohD97VdiV33WRykX/nuYqCTTGE0JzELcOf4T79WKV+EWtivwh4RuOU/fQDFNfjjWUIqW4KgDUSKOqvgr9obSCPjqReSYkWpF6cL01WmrsXQ9xZ79VIBkhTA94XwvgY+KkUAy1GlEh5s6oSzKhIUUZEafrohFcG5f4E4kZqGDRZEx4+4sbRpa/fg9c09LirLdwknwce6nB/LGoUnmUbKG9+dd/spgu04lUOEMFmfWtAZluzzFPifxoZ0aKJdbJmQ==;JYR/rv0Ffjgj+kh+nSeHlg=="
+secured: "wvPWo/UW5/JPgWce1KFHQaUk3P+w+jtnw71DPAoOD4L8XxfFjuxbbDdwZjdEV6liffZFFrOjS+4Nr420Sg1Lyb+l35SpzcNttvTWTmdNxEqDKjt4tWKpMy/NdD3ccBEhtWPktEpFsc25YDArDCBAO7HO34dj2vQNK/AkVM15qJR+MMDFBXMHsQTPBIWX3hwFi6QUNbNR0im7G7sn7MreqV2LOY4hMiN2f0+crWCx9nSdVRSzt48eC30JTxJv/fmNNyXIcBk/LBKaqTYdnHC4iMULFegN5SebFS2wG8LP6OjhIXDMWROmGfvK13h6Us1JbwePdINqgAkrfekaw44+fMwfuz1amQQ70HkI8cluKyM=;gr0WNxU2GFMPIq7KblIpfw=="
 ---
 

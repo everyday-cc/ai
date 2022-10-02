@@ -2,6 +2,110 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-09-24-i-used-openais-new-tech-to-transcribe-audio-right-on-my-laptop.md",
+      "title": "I used OpenAI’s new tech to transcribe audio right on my laptop",
+      "excerpt": "Sterne admitted that tech from Apple and Google could make Stage Whisper obsolete within a few years — the Pixel’s voice recorder app has been able to do offline transcriptions for years ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/9/23/23367296/openai-whisper-transcription-speech-recognition-open-source",
+      "originalUrl": "https://www.theverge.com/2022/9/23/23367296/openai-whisper-transcription-speech-recognition-open-source",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/pmRwbnxGrmqhMNxQ0L04Fh3GBS4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23954046/VRG_Illo_STK427_K_Radtke_Getty_Mics.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-23T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-24-unlocking-ai-at-the-edge-with-new-tools-from-deci.md",
+      "title": "Unlocking AI at the edge with new tools from Deci",
+      "excerpt": "Key to edge AI and computer vision, Deci AI this week has released a set of semantic segmentation models, DeciSeg.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/unlocking-ai-at-the-edge-with-new-tools-from-deci/",
+      "originalUrl": "https://venturebeat.com/ai/unlocking-ai-at-the-edge-with-new-tools-from-deci/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/06/computer-vision-e1663772711547.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/unlocking-ai-at-the-edge-with-new-tools-from-deci/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/unlocking-ai-at-the-edge-with-new-tools-from-deci/amp/",
+      "publishedDateTime": "2022-09-23T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-24-why-deepmind-isnt-deploying-its-new-ai-chatbot.md",
       "title": "Why DeepMind isn’t deploying its new AI chatbot",
       "excerpt": "DeepMind’s new AI chatbot, Sparrow, is being hailed as an important step towards creating safer, less-biased machine learning systems, thanks to its application of reinforcement learning based on input from human research participants for training.",
@@ -1040,21 +1144,21 @@
       ]
     },
     {
-      "path": "_news/2022-09-22-detect-population-variance-of-endangered-species-using-amazon-rekognition.md",
-      "title": "Detect population variance of endangered species using Amazon Rekognition",
-      "excerpt": "Our planet faces a global extinction crisis. UN Report shows a staggering number of more than a million species feared to be on the path of extinction. The most common reasons for extinction include loss of habitat, poaching, and invasive species. Several wildlife conservation foundations, research scientists,",
+      "path": "_news/2022-09-23-automotive-artificial-intelligence-ai-market-size-to-hit-usd-191-bn-by-2030.md",
+      "title": "Automotive Artificial Intelligence (AI) Market Size To Hit USD 19.1 Bn By 2030",
+      "excerpt": "The global automotive artificial intelligence (AI) market size was valued at USD 2.9 billion in 2021. The development in the auto business is supposed to drive the automotive artificial intelligence market.",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-population-variance-of-endangered-species-using-amazon-rekognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-population-variance-of-endangered-species-using-amazon-rekognition/",
+      "webUrl": "https://menafn.com/1104911136/Automotive-Artificial-Intelligence-AI-Market-Size-To-Hit-USD-191-Bn-By-2030",
+      "originalUrl": "https://menafn.com/1104911136/Automotive-Artificial-Intelligence-AI-Market-Size-To-Hit-USD-191-Bn-By-2030",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/13/image001-2-e1663023193495.png",
-          "width": 661,
-          "height": 341,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?941692",
+          "width": 393,
+          "height": 250,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1064,64 +1168,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T14:25:55-07:00",
+      "publishedDateTime": "2022-09-22T14:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-automotive-artificial-intelligence-ai-market-size-to-hit-usd-191-bn-by-2030.md",
-      "title": "Automotive Artificial Intelligence (AI) Market Size to Hit USD 19.1 Bn by 2030",
-      "excerpt": "The global automotive artificial intelligence (AI) market size was valued at USD 2.9 billion in 2021. The development in the auto business is supposed to drive the automotive",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/28171512/image-55-1024x683.png",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28977012",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28977012",
-      "publishedDateTime": "2022-09-22T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Mena FN",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1133,61 +1184,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-top-natural-language-processing-companies-2022.md",
-      "title": "Top Natural Language Processing Companies 2022",
-      "excerpt": "These leading Natural Language Processing vendors can help AI deployments \"learn\" how to listen and interact with humans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/natural-language-processing-companies/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/natural-language-processing-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-DSOM-Image02-800x800-1.jpg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI",
-        "Machine Learning",
-        "IBM AI"
       ]
     }
   ],

@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "SAS Viya now available in the Microsoft Azure Marketplace"
-    excerpt: "SAS offers its industry-leading analytics platform with hourly pricing model, in-app tutorials and support for multiple languagesCARY, N.C.,"
-    publishedDateTime: 2022-09-27T15:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sas-viya-now-available-in-the-microsoft-azure-marketplace-1031767702"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 99
-    images:
-      - url: "https://mma.prnewswire.com/media/1907863/SAS__woman_screen.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "At ISC 2022: Microsoft Talks HPC-AI and AMD Chips in the Azure Cloud"
     excerpt: "We visited with Microsoft Azure during ISC – here is our conversation with two HPC-AI specialists, Alex Jean and Dr. Lukasz Miroslaw, for an update on Azure’s line-up of new capabilities and services in support of advanced AI and machine learning."
     publishedDateTime: 2022-09-29T18:54:00Z

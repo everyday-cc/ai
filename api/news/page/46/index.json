@@ -2,6 +2,92 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2022-08-24-lg-to-launch-ai-ethics-group-for-better-transparency.md",
+      "title": "LG to launch AI ethics group for better transparency",
+      "excerpt": "LG Group said Wednesday it is launching a new artificial intelligence ethics group later this year with an aim to build more responsible AI systems and their deployment across all LG companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreaherald.com/view.php?ud=20220824000600&np=1&mp=1",
+      "originalUrl": "https://www.koreaherald.com/view.php?ud=20220824000600&np=1&mp=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2022%2F08%2F24%2F20220824000578_0.jpg",
+          "width": 630,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20220824000600",
+      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20220824000600",
+      "publishedDateTime": "2022-08-23T22:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Herald",
+        "domain": "koreaherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-google-robots-are-more-human-like-can-perform-complex-tasks.md",
+      "title": "Google robots are more human-like – can perform complex tasks",
+      "excerpt": "While the Google robot won’t be a smart cook anytime soon, it represents a major breakthrough that Google claims. Using recently developed artificial intelligence (AI) software known as large ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2022/08/24/google-robots-are-more-human-like-can-perform-complex-tasks/",
+      "originalUrl": "https://www.gizchina.com/2022/08/24/google-robots-are-more-human-like-can-perform-complex-tasks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2022/08/Google-Robot.png",
+          "width": 916,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2022/08/24/google-robots-are-more-human-like-can-perform-complex-tasks/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/08/24/google-robots-are-more-human-like-can-perform-complex-tasks/amp/",
+      "publishedDateTime": "2022-08-23T21:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-24-scalenuts-ai-copywriter-also-helps-content-make-a-dent-in-search-engine-results.md",
       "title": "Scalenut’s AI copywriter also helps content make a dent in search engine results",
       "excerpt": "AI copywriters are getting a lot of attention from investors. A couple that have recently raised funding include Copy.ai and Copysmith. Now Scalenut is entering the arena with a $3.1 million funding round led by Saama Capital and Amit Singhal,",
@@ -1024,100 +1110,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-oppo-unveils-its-latest-ai-technology-for-creating-animated-digital-avatar.md",
-      "title": "OPPO unveils its latest AI technology for creating Animated Digital Avatar",
-      "excerpt": "This marks a breakthrough in OPPO AI technology. It is an AI-driven technology that can create animated digital avatars using a few phones. The new OPPO AI technology is adept at loose clothes appearance learning and skeleton motion modeling. The new OPPO ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/08/23/oppo-ai-technology-creating-animated-digital-avatar/",
-      "originalUrl": "https://www.gizmochina.com/2022/08/23/oppo-ai-technology-creating-animated-digital-avatar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/08/OPPO-Digital-Avatar-Technology-2.jpg",
-          "width": 1024,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/08/23/oppo-ai-technology-creating-animated-digital-avatar/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/23/oppo-ai-technology-creating-animated-digital-avatar/?amp=1",
-      "publishedDateTime": "2022-08-23T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-machine-learning-algorithm-predicts-how-to-get-the-most-out-of-electric-vehicle-batteries.md",
-      "title": "Machine learning algorithm predicts how to get the most out of electric vehicle batteries",
-      "excerpt": "Researchers have developed a machine learning algorithm that could help reduce charging times and prolong battery life in electric vehicles by predicting how different driving patterns affect battery performance,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-08-machine-algorithm-electric-vehicle-batteries.html",
-      "originalUrl": "https://techxplore.com/news/2022-08-machine-algorithm-electric-vehicle-batteries.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/electric-car.jpg",
-          "width": 1920,
-          "height": 1275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-08-machine-algorithm-electric-vehicle-batteries.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-machine-algorithm-electric-vehicle-batteries.amp",
-      "publishedDateTime": "2022-08-23T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

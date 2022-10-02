@@ -1,29 +1,31 @@
 ---
 category: news
-title: "A UAEU research team invents deep fake technology"
-excerpt: "It is hard to differentiate between the real image and voice and the fake ones that have the same facial expressions and motions"
-publishedDateTime: 2022-10-02T04:20:00Z
-originalUrl: "https://www.zawya.com/en/press-release/research-and-studies/a-uaeu-research-team-invents-deep-fake-technology-hou9e0cs"
-webUrl: "https://www.zawya.com/en/press-release/research-and-studies/a-uaeu-research-team-invents-deep-fake-technology-hou9e0cs"
+title: "A UAEU Research Team Invents Deep Fake Technology"
+excerpt: "The United Arab Emirates University, as part of its activities in the 11th International Government Communication Forum 2022 at the Expo Center Sharjah,"
+publishedDateTime: 2022-10-02T08:27:00Z
+originalUrl: "https://www.albawaba.com/business/pr/uaeu-research-team-invents-deep-fake-technology-1493190"
+webUrl: "https://www.albawaba.com/business/pr/uaeu-research-team-invents-deep-fake-technology-1493190"
+ampWebUrl: "https://www.albawaba.com/amp/business/pr/uaeu-research-team-invents-deep-fake-technology-1493190"
+cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/uaeu-research-team-invents-deep-fake-technology-1493190"
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: Al Bawaba News
+  domain: albawaba.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://static.zawya.com/version/c:ODM0Yjc0YzItM2VmYy00:YTc1NWJj/jwd_9064-jpg.jpg?f=3%3A2"
-    width: 898
-    height: 599
+  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-10/JWD_9064.jpg?itok=Dg7VQyYY"
+    width: 3800
+    height: 2533
     isCached: true
 
-secured: "lfKL7LCDluvoMmyaCuPywj33tjs2O0cQ3qWbVP8EucUXAu5ABnPvTUlRsYctjqPR/NpIzYaJwLl7F3ElRtKAEI+AYInbbLTjmJx7te0CT1HQAKgAKY1/+V0xBLSobN6fNI+wPw27z22DqFbvYOjLF2BACiGvb0P+OY0sZJeSUpkAPfYUYvO9pWHkijB/eoPOzo5qcDxDxHxDmBCHE+XKJoLOa9byaaZWW7moDYcDY3bVslPJsFxkwtc5fXcOI5Uw0wXfG9FLpvcmqY+1dhpxzM8eyTnJnQ2HHaAf8DKcUXoHVzsVMR84+i2ZeqzAZZrY0DWa8DP4NRhsd98r/1ujk86GjvkEOmZAe5dHWgU/uyg=;Y1OJJw3O5At4ycEGbGVoFA=="
+secured: "rJ4yGrUTfc4EajScD6U72dM4A2Ybcpbb5Qzl70KXsdpJmSuTQ8z1QDwguelA6+kz0upDtrBkMOSfVkeOHkycOkN//1o7/gDB0ehaUoTBsud2MDr9RRyPuN1uyXLYQmCdM2agpndYxChELrAyrg9ofvuxB0E8ku8iWrD5ca7BdC5E3uURVqyc3dHNA5Nn0/Swc99rWS8Rpa9XHiJ31zmKwp8icUvHaKC1vL/yBw9c1mOLoGSfiKS2qTuF3aJsCgyLD5RhAQXZpRK/BFjOsbyersgWC7ebuozXX4mN972378EY1hnbBjfA9jUCWLeG5NCePUM+gOXAQA3SqGL4pLF2k0wG1uYLoTPAY1nGhF3ZLSU=;jUGGBhz9bmVk+YRpCTKFIA=="
 ---
 
