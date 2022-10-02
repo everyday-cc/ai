@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 710
         isCached: true
-  - title: "SAS Viya analytics suite now available on Azure Marketplace"
-    excerpt: "Viya’s move to the marketplace allows enterprise customers to access its tools and features in a pay-as-you-go model, the company said."
-    publishedDateTime: 2022-09-27T13:18:00Z
-    webUrl: "https://www.infoworld.com/article/3674838/sas-viya-analytics-suite-now-available-on-azure-marketplace.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 86
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/07/05/10/data_analytics_risk_assessment_tracking_trends_graphs_by_ipopba_gettyimages-1150397416_2400x1600-100828857-large-100929801-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "As extreme weather events worsen, 7Analytics meshes AI and big data to predict flooding"
     excerpt: "Analytics was founded by data scientists and geologists to help reduce the risks of flooding, harnessing the power of AI, ML, and big data."
     publishedDateTime: 2022-09-29T20:40:00Z
@@ -86,6 +72,6 @@ related:
         height: 840
         isCached: true
 
-secured: "3Rue6WCAQWhPH8ElHx8VZoquJOR3cbTfOnCv0VyMTvqz1crGPiU5toW1yI+wudzrtWIIKF3lk0kC0zHuf7oGrdcc5TkGz9F18rtFVVfHj9r4lr9x8ffA4LjCHFWEMBPGDnXiXgrSbkbanTEY9ENTSRrp0IB8c9W3uIHwITn7IDJAHSrR5NlTwI0o2O7HIVNs9evhErWMFCxc9UjCPXFlJx8FPCclGV6jASlPbtJZ0b7TG7+T1NPyNxKy8AnotK7gaUQO+N5FPEFjMMEnoI/NVe7aXXo/cju0ElgF+n9QLn8yxsIfbz2GJ7G9fnXoU/n0O1ir1sNXDoIvWdoxrr1+DJwO0QI0Xc1jtrQTHowmAVw=;5ujl4HbXnXJm19enTcs9Rg=="
+secured: "fNmDSrBnDyyI7WAHz5Lk7lQk89CumdYhnqecdNKyvpPgCJT2w2uODm+CB9txErpRdq9Y6UNuBYPfa8UoOiXEWV+xJjS/adkQ/xE5n3k+EOto+c9mu5LXZc27D4uc0e/lMyaLDFpVFHFS89v+vzRHYJTtyylLIgTn5ci6UMbwfiOP0EVGuXHUO7feb0Jywn9Sl5/vWCR3jYj/h6xCTs4MYb2KIucxiWO8jMyPiDtgUe5yVMdr0DwLHlBBl3zdZThIgh5+7v5U53QfNKxI+RQNms5uqwBe+kRCeQPP+8n6IuMiKmOZjBBKZ36bvFYvcuv+HOvR1pRmW2I6Ikq2ZznblrB1ILOEpO1spmj0Y6QqxACLBO/2CbuX0F9QOzavUdA4wXa1lL+8zth6AIiB3pv35q5bMHv13pyAoK2lBhPnXX5HyN/lRx9k8cGfHNeg+AWRuMbnxxxexnqUAvdFp6Px6u+qDkC2RnwtQiV2FhNYI3W0Vc8OaHpoGr7+ygnFfVgfq7SE4IuKjFFNXmQGdFoPeQ==;bWh7GGvnvVpU0Sn+lQYrEg=="
 ---
 

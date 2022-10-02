@@ -349,7 +349,7 @@
       "originalUrl": "https://www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai-tool-can-predict-missed-doctors-appointments/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -536,49 +536,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-global-agricultural-robots-market-to-reach-3593-billion-by-2030.md",
-      "title": "Global Agricultural Robots Market to Reach $35.93 Billion by 2030",
-      "excerpt": "The \"Agricultural Robots Market by Type, By Applications, By Component, By Farming Type, and By End Use: Global Opportunity Analysis and Industry Forecast, 2022 - 2030\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/n29104439/global-agricultural-robots-market-to-reach-35-93-billion-by-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/n29104439/global-agricultural-robots-market-to-reach-35-93-billion-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/28171512/image-55-1024x683.png",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29104439",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29104439",
-      "publishedDateTime": "2022-09-30T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -932,7 +889,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 663,
+      "heat": 673,
       "tags": null,
       "images": [
         {
@@ -1169,6 +1126,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-30-how-computer-vision-and-artificial-intelligence-can-help-the-retail-industry-maximize-the-value-of-their-brick-mortar-footprint.md",
+      "title": "How computer vision and artificial intelligence can help the retail industry maximize the value of their brick & mortar footprint",
+      "excerpt": "The lockdown generated a wave of disruption across the retail industry, leaving many physical retailers scrambling to meet public demand. They had to pivot their focus on creating highly optimized digital shopping experiences and",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-computer-vision-and-artificial-intelligence-can-help-the-retail-industry-maximize-the-value-of-their-brick-mortar-footprint/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-computer-vision-and-artificial-intelligence-can-help-the-retail-industry-maximize-the-value-of-their-brick-mortar-footprint/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75433510.cms",
+          "width": 330,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-computer-vision-and-artificial-intelligence-can-help-the-retail-industry-maximize-the-value-of-their-brick-mortar-footprint/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-computer-vision-and-artificial-intelligence-can-help-the-retail-industry-maximize-the-value-of-their-brick-mortar-footprint/",
+      "publishedDateTime": "2022-09-30T03:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-30-the-problem-with-biased-ais-and-how-to-make-ai-better.md",
       "title": "The Problem With Biased AIs (and How To Make AI Better)",
       "excerpt": "Many AI systems can exhibit biases that stem from programming or data sources. Learn what a top AI ethicist says about how we can mitigate bias in algorithms and protect against potential risks to consumers.",
@@ -1177,7 +1177,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/30/the-problem-with-biased-ais-and-how-to-make-ai-better/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {

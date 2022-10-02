@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/home/irobot-roomba-combo-j7-plus-revea
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/irobot-roomba-combo-j7-plus-reveal/?amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://blogger.googleusercontent.com/img/a/AVvXsEg_XPD55qNzfNcyXsJj-YVoft7YLLeCPRsDLqhByXFDK2VBiHjf1PCkNpce1KtsT0-h7flBAeU6LiNGPqfS0CZKp7d2Xt8trw7g2wwMHk_LdAeljLX_32WFS1Ez6WLiGHlZ4ObIKn2vHoLRYedyfg-hwERoYhQzhFbIBfonsZrmLdOzATL2CgjuqyreVw=w1200-h630-p-k-no-nu"
         width: 807
         height: 508
-        isCached: true
-  - title: "iRobot slapped a robotic mop arm on its new Roomba"
-    excerpt: "There’s a new Roomba in town with a robotic arm to lift its mopping pad out of the way of your carpets. The iRobot Roomba Combo j7+ is $1,099 and is available to preorder now from iRobot. The new Roomba keeps the shape and self-emptying dock of the Roomba j7+."
-    publishedDateTime: 2022-09-27T13:54:00Z
-    webUrl: "https://knowtechie.com/irobot-slapped-a-robotic-mop-arm-on-its-new-roomba/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 24
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2022/09/roomba-combo-j7-plus-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
 
 secured: "Br4tCEZHMZOwFvDALDLOBgaAVD18riBMNfxgaq6Jut+XAYa7uiNS03wELCCv5DnNJ5pv3LJMRG+ry9r+dW46M4pnt5Q8GeA0NPWcCI39VYPELR6FxDdO5nyWWs1aPhmcmILPUiQ7eJ0qhucmkCXzl6YxmFE3RgNLzf9PXtRjj6dyBqsbMa+cnWav7p364/JIIP5iEdazw7Y17nN/5svgZze237rM+5xCkrdE4T6ivHZNnhU+C5IweIRwcj0za3gvN1tBDFYZqz+W0Beq+MKg9OmuyraXvSmD0+rJld7Fiow8n7qBRZc3ZuDYMc3aRoGpWB9NrEzuWV6X1PJPvlo8drMM63sUVL36fdbsWeh2uAfshYNhD5lfkv5pQ3ukCPpuYlUmfqnHyM1hHEb49DE9U9/046YZpCCBN6xvWNrPOTWTznsbvvXSjZdTq7A3XCdiC0/4lfcYiyK0UUxbAaxTFheIX05LNUmg1zG6M0Z8uGpDbJqA+oE62kXDbYCIQv+8fNqGxy9JiYHs4acweFU/jQ==;9E0FE6UCdSntiTdtKaM4dQ=="

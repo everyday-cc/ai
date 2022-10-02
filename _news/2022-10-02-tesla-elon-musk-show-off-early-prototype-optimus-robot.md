@@ -611,6 +611,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
+  - title: "Want to work for Tesla? Elon Musk tweets asking techies to join him"
+    excerpt: "The job position open in Tesla offers multiple roles including building AI inference chips to run Full Self-Driving software, developing Dojo system, enhancing neural networks."
+    publishedDateTime: 2022-10-02T06:36:00Z
+    webUrl: "https://www.hindustantimes.com/technology/want-to-work-for-tesla-elon-musk-tweets-asking-techies-to-join-him-101664690406058.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/want-to-work-for-tesla-elon-musk-tweets-asking-techies-to-join-him-101664690406058-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/want-to-work-for-tesla-elon-musk-tweets-asking-techies-to-join-him-101664690406058-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 61
+    images:
+      - url: "https://images.hindustantimes.com/img/2022/10/02/1600x900/Screenshot_2022-10-02_113222_1664692365895_1664692389654_1664692389654.png"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Elon Musk Showed Optimus Humanoid Robot Walking Without Assistance"
     excerpt: "Though the Optimus humanoid robot by Tesla is in the early development stage, Elon Musk proves it will change the world."
     publishedDateTime: 2022-10-01T11:45:00Z
@@ -757,6 +773,6 @@ related:
       domain: thesun.co.uk
     quality: 28
 
-secured: "92jereFiRFMobIp5MC65u44yi9p2I/YfehLFLUBmkboMaTiv6S/ZibfGXDCCM6oarQKHXsaR/Ib3NgyjuoHwuK00etykgxjqMz+OwSVhUJmdk/scua0XoEPvbrF2SxN14en8ItHKQvd54wvBfjf75cn5Yj4DbVG/h9D8ANUuVbtC5xaZT5Ul4l+mKY8NLiAW2s2zltKy0RuMbvIR09fyUSOmMKMSrMbU+W1xyPHhX5NIyPKjokevUDxC2PmHku3KQOrGqPUGoYyW8VGWLXXQ7D1Eb823r7MtlENf84E35sXHYEsw1IgmBDWqgpsff3RwKr2yW63JOCY/4iZxJtaJnIzTwqD207t9C9V1+ytCQC8=;j2GJLdynJjRQbtV4KIqwhQ=="
+secured: "U0VfmH4tjJFRjxbUgpS8+PJBSPQT14F0NxDyvoNMLIzNkeddvytdrnZ2BGyhAfRu9QCJXrZVwCF7eH0ofg0azGFQHhIcF90dAZmu67Adn/3gFH00tGwNsMZeUBrbM3e0xDRdNPF2HyP/RcYzPKCWMPNhSWNWDKZSzR+OnDqVn1+kMiVjamq1KwBxUHt1hwvEaV42LYOJJrU95ajxBh8DJDM8epjHEK9GSWcBBRyO/dIeOxpihZLSJcomQCw5Uh6NVTukddTGApNKONArmqQkZLFLMLBK9jXtCrqtJeZrJJ+M039MfAaJWazIhsrVShyEUQJ6wI6srqK5C/nAPu8dNMd8HVb8YkBnIvetMEzIWry/b3NVqy12zjvfoOWI1rHF8k7sdLNfDAgZ4LO8Jmhcg9mEoqyY8bhpamOEUd7cgktvGV/BpZeUGYiqaM1N12pRZAXm3/ghRFtzwO2Vl6jIPIxVbI7wa+SHHGDLIojGL3eZwr7r+/yh413ZJXu3oUOf51EtQ4opSjnLhqE+fcTVZw==;2rbbR21UGffE8WKuDgEYYg=="
 ---
 

@@ -55,22 +55,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "MICROSOFT AZURE AND AZURE AI"
-    excerpt: "Get latest Microsoft Azure And Azure Ai news and updates. Explore Microsoft Azure And Azure Ai photos, videos and information on Times Now"
-    publishedDateTime: 2022-09-27T14:38:00Z
-    webUrl: "https://www.timesnownews.com/topic/microsoft-azure-and-azure-ai"
-    ampWebUrl: "https://www.timesnownews.com/topic/microsoft-azure-and-azure-ai/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/topic/microsoft-azure-and-azure-ai/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 89
-    images:
-      - url: "https://static.tnn.in/photo/msid-88386381/88386381.jpg"
-        width: 1680
-        height: 946
-        isCached: true
   - title: "SAS Viya Now Available on Microsoft Azure Marketplace"
     excerpt: "The full-featured platform on Microsoft Azure would equip global customers with access to essential machine learning, data exploration, and model deployment analytics"
     publishedDateTime: 2022-09-29T10:10:00Z
@@ -117,15 +101,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 49
-  - title: "NBA App Releases New Version With Microsoft With New Features Including AI and Machine Learning for Personalized Content"
-    excerpt: "The NBA released a new version of its league app on Tuesday that includes the debut of NBA ID, a free-to-join membership program for fans to get exclusive access to game ticket giveaways, merchandise,"
-    publishedDateTime: 2022-09-27T13:41:00Z
-    webUrl: "https://www.sporttechie.com/nba-microsoft-nba-id-app-league-pass"
-    type: article
-    provider:
-      name: SportTechie
-      domain: sporttechie.com
-    quality: 26
 
 secured: "DLhkCD5qt4OC7mXC7Fa/MJWL/8Oq1banA/gdKRBBTu0ypoHCbK+/2z2O0yOeefQwYtizAgy426Qb12DKrOd5oEWKeNPzsw37qpdJihB0ZRVPu9V+eEl/GNgWkBZtrqaWC07a0jOgdNTLZ1X6AQI3kNgcXD1P+jiaMmU4srB0zgYle/+SyaEWKJZUUTQXxTckOr98dRk4FKJVwvMc/nHO27gzg67tW6TzcSvY4qbxz+bWQPAr215mv8lB3dCPgPEk7SDlRkVizNMAr738kpGCz4rFeVbnrklDcBgkWlMXIIA4oM49Muh1pJjtAhjDwzpmlsAm9GLoYVsmBMHPlJvD5b0fizXu7FMeuouaHHUQ5hk8Xs+Ix7b+1HmJu5+2cyr07ZPZFBXP/Az+oiMeZrds/i+eqWy2xkfL0hNPjF1J8hmbucLLhKSomp/+zL4WP4EOyrf/502BsB99y0RPj4lyk/RlzqYCJDZQ/Chz7J7UtDKlIDlk4IJtEPiR47NtUQW4STTxqEeVVWSPkjcjZjDWDg==;sgXexYsSMaDYXalsdCxAsQ=="
 ---

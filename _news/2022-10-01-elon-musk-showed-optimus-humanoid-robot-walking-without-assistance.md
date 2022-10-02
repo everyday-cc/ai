@@ -626,6 +626,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
+  - title: "Want to work for Tesla? Elon Musk tweets asking techies to join him"
+    excerpt: "The job position open in Tesla offers multiple roles including building AI inference chips to run Full Self-Driving software, developing Dojo system, enhancing neural networks."
+    publishedDateTime: 2022-10-02T06:36:00Z
+    webUrl: "https://www.hindustantimes.com/technology/want-to-work-for-tesla-elon-musk-tweets-asking-techies-to-join-him-101664690406058.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/want-to-work-for-tesla-elon-musk-tweets-asking-techies-to-join-him-101664690406058-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/want-to-work-for-tesla-elon-musk-tweets-asking-techies-to-join-him-101664690406058-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 61
+    images:
+      - url: "https://images.hindustantimes.com/img/2022/10/02/1600x900/Screenshot_2022-10-02_113222_1664692365895_1664692389654_1664692389654.png"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Tesla AI Day 2022 introduces Optimus Unit 1 an autonomous humanoid robot that can be mass produced"
     excerpt: "Tesla AI Day 2022 explored the processes required to mimic the human, driver and worker. The autonomous robot and car were laid out in detail"
     publishedDateTime: 2022-10-01T03:43:00Z

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Artificial Intelligence in Aviation Market Size, Share and Forecast till 2027 with Top Countries Data"
-excerpt: "The global Artificial Intelligence in Aviation market size was valued at USD 389.12 million in 2021 and is expected"
-publishedDateTime: 2022-09-28T04:43:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-size-share-and-forecast-till-2027-with-top-countries-data-2022-09-28"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-size-share-and-forecast-till-2027-with-top-countries-data-2022-09-28"
+title: "A New Facial Recognition Market Size 2022 Global that Is Expected To Grow at CAGR of over 12%, and Industry Expansion to 2025"
+excerpt: "The Worldwide Facial Recognition market is expected to increase at a significant rate during the estimate time frame, where in the forecast of 2022 and 2028. Facial Recognition industry is emerging at a growth rate and with the increasing reception of strategies by Top key organizations,"
+publishedDateTime: 2022-09-29T00:26:00Z
+originalUrl: "https://www.marketwatch.com/press-release/a-new-facial-recognition-market-size-2022-global-that-is-expected-to-grow-at-cagr-of-over-12-and-industry-expansion-to-2025-2022-09-28"
+webUrl: "https://www.marketwatch.com/press-release/a-new-facial-recognition-market-size-2022-global-that-is-expected-to-grow-at-cagr-of-over-12-and-industry-expansion-to-2025-2022-09-28"
 type: article
-quality: 52
+quality: 42
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - Computer Vision
   - AI
 
 images:
@@ -70,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Aviation Market Size, Share and Forecast till 2027 with Top Countries Data"
+    excerpt: "The global Artificial Intelligence in Aviation market size was valued at USD 389.12 million in 2021 and is expected"
+    publishedDateTime: 2022-09-28T04:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-size-share-and-forecast-till-2027-with-top-countries-data-2022-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Market : Competitive Landscape and Analysis by Recent Trends 2022 to 2029 | 99 Report Pages"
     excerpt: "According to this latest study, In 2022 the growth of Computer Vision Market is projected to reach Multimillion USD"
     publishedDateTime: 2022-09-30T00:43:00Z
@@ -93,20 +108,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "A New Facial Recognition Market Size 2022 Global that Is Expected To Grow at CAGR of over 12%, and Industry Expansion to 2025"
-    excerpt: "The Worldwide Facial Recognition market is expected to increase at a significant rate during the estimate time frame, where in the forecast of 2022 and 2028. Facial Recognition industry is emerging at a growth rate and with the increasing reception of strategies by Top key organizations,"
-    publishedDateTime: 2022-09-29T00:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/a-new-facial-recognition-market-size-2022-global-that-is-expected-to-grow-at-cagr-of-over-12-and-industry-expansion-to-2025-2022-09-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -150,6 +151,6 @@ related:
       domain: marketwatch.com
     quality: 18
 
-secured: "6B/59ElBqcIUtUAh/ySS1+0ffIt7UL/MOwYjTbR+NJbqwZlvOKCsjXynTbqFdVCM8ymYVxjruAXgW8hjJVuDHwf+ADqN8dRxXWkcB3N9QS8gnSttyjvMvQ9fOw8AwZMX3q+AIqDz/2X7ktm2Imp+A8wt6MIl1nzoUYauHo+5CXXUpvoJ7ialMJx2a83RJw5IVX806efyayKPgokNMCeAZsT8tmkVDVcAEj2wManxr0IuUJi6NWEwP+us+nD2p6zgwB54Glbv4iY2FxFrc8OUfy/4UkrJ7h+Lz6mCDMdiANzX7PSWElVyo6uPWqX75dvI33tW6D6CQklvKOrvdy1Yb4ApxSVIsEibG253cVyz5fM=;LzkNojSyo3g+SeLXmAu0bw=="
+secured: "KMUUS/Yt11/gOnl5obO/L85q8usidQ4mcbocdST+ZckY4veGd0BKb3Cu8RfCIzu6LMQs1jpBddHUZGMUz4Lk8ZKw1Qn92KLfH/T+sl+BXYqBoi0+d9ex55SBRITzR7V5snUyfWHlPREeXDnSb7/N/B3tntkbfeRSEu94n+BiGz+ca07VF5cttixrei0glFrb8wv+ZkXJxuC+8ZNl6UNHuoVbUvWuWGxi/XKUKzsd/NSJPx3cw5AobrPlyYLbWB5baBgAJbEWOj57UuE/m7OjaU8pyEIAi/l4fB93/zwKnq2dnVo7gkuV8Rzl05ZfrVG3Q3OtVa9gjPWl9GPk5MO/BlOkENCmjtcinduYk8IwD+c=;oT9ldU+/X3jmVEf6JK9sgw=="
 ---
 

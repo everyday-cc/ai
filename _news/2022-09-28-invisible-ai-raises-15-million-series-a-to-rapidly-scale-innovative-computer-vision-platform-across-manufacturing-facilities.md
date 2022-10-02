@@ -23,15 +23,20 @@ topics:
   - AI
 
 related:
-  - title: "Arthur raises $42M in Series B funding as AI adoption soars"
-    excerpt: "Arthur today announces the raise of $42M in Series B funding, co-led by Acrew Capital and Greycroft Ventures. The additional capital will provide scale to meet surging demand for essential AI infrastructure—Arthur has seen 235% recurring regrowth in the first two quarters of this year alone."
-    publishedDateTime: 2022-09-27T14:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/arthur-raises-42m-in-series-b-funding-as-ai-adoption-soars-1031767476"
+  - title: "French vision AI company Alteia closes its latest funding round"
+    excerpt: "Through this investment, Alteia will increase its presence in the Kingdom of Saudi Arabia by opening an office in Dhahran to support some of the leading industrial companies in the MENA region, and develop and deploy industrial vision-based solutions."
+    publishedDateTime: 2022-09-28T08:59:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/french-vision-ai-company-alteia-closes-its-latest-funding-round-fh0f8r8z"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: Zawya
+      domain: zawya.com
+    quality: 39
+    images:
+      - url: "https://static.zawya.com/version/c:NDQ1NDdhYWEtMWRhOS00:YWY1MDEx/prefecture-jfif.jfif?f=1%3A1&q=1&w=3840"
+        width: 304
+        height: 304
+        isCached: true
 
 secured: "fSqB2hNlEV0J+b4yVvQ2NaEfRAEXt14/X1xy+P6N648PK4ExxPARUhbgOxiBmw727P5HbWxf4AiinOyvUqSliOMbRPXWMAd6qQW1XdzseHOJ0pp31pDyjZouBcUVjTzs5k3pV7NBhMNFdTfC5vxBXQrzYSSpLjsFMnJSiTvRh2HmGQIOtmkPgB1Sx6XeZSBVJ6LxQ75bAKWVB4LsXS3m/fB9sVRUbmGoNvoK453CFE4BLFMGdzUH8U3YvUCN+PcgvYyJEoCb9tnpJE6MeC4hEx760Y+Snxjmga5gjxL2Eq/QGNZMhzkh1MwGGhLme1CPUdBEUU4HBbd4R/9eib+/CwtxXxmOX0kcLwvoqakiiTA=;+VkGBsgdTYgB3E5D7O0Dag=="
 ---

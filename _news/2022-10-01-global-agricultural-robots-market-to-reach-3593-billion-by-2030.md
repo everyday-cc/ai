@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29104439"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29104439"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Benzinga.com
@@ -38,20 +38,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 17
-  - title: "Global Facial Recognition Market to Reach USD 8946.11 Million | Growing at CAGR of 14.47% | Forecast Period 2022-2027"
-    excerpt: "The global Facial Recognition market size was valued at USD 3975.52 million in 2021 and is expected to expand at a CAGR of 14.47% during the forecast period, reaching USD 8946.11 million by 2027."
-    publishedDateTime: 2022-09-27T13:10:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-facial-recognition-market-to-reach-usd-8946-11-million-growing-at-cagr-of-14-47-forecast-period-2022-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 16
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/NOSPR-Japan-tour-©-Radoslaw-Kazmierczak-e1661992929441-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "eFRyEmIZ0uIzeK4dhwG5K+tyL/K15PDftpM+6mQyNwL4ACa/ruJdAP30uQbYqTsDr1aPmaBqCy/O0xasEw0F66yjsWkbxaxsy6G8cUuR/wNNiP3uFG9g9lG40vux9Nzye/t8GSrIg1E6iWNoDmqPY63R08aa34oGsl0R33XOXVh4tmyRkKSlrznuvhoeeEPq5BIUXaRxEzMTxWnxE2UNI9V8W48yKVITDt2P+G2n2zKXYx57/8spLxf6uEQ/VXjIoigwajjjXoqKGHuhH7cr0p2jtCzEMUd4F//HMF1qM6G3cCBSWiIDCwlDcs8iIxz9jZ+AQaFJ+9MNehLeEPYvoA6gDoXezlfLlBJB1bBXsEI=;o5iCpkGHjI7KXUYehJRqzA=="
 ---

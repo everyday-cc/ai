@@ -8,7 +8,7 @@ webUrl: "https://www.wcvb.com/article/powerful-ai-tools-what-could-go-wrong/4147
 ampWebUrl: "https://www.wcvb.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
 cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
 type: article
-quality: 51
+quality: 53
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-3c09dfff59686ea0cf8955d05b8f2d28-h-526e72dcb41c83dd4880165dd446fa8a-1664643570.jpg?crop=1.00xw:0.564xh;0,0.268xh&resize=1200:*"
@@ -43,6 +44,6 @@ related:
         height: 619
         isCached: true
 
-secured: "5Kk0wO+UChKOaE5eVgLAkAXKRjySeDWsJVInNyNBmCcyW3Av+C57gn0VnWH/qX2u0l2kKtTsgdQkQx/GOJNiKu7kkVdpHllAV8nTErxIfExfLN2x4qcFFKxsWHhTA7GKQpuG5ER0UQmibXsrR6c/dJEagFy07lhd7zc7z2IAmWRAVr30URCKZBq81Tuyn4V2HQ5KDXaZDC4tGhudCCSrJ6Q86zrofhppt4JAOfZGdCSsFE+ukAdvMWVE4cKPExHehP2FhbhmwKi2JQmOXrISP6sbQDfFrE9zGDYb/IZGyysWiYaYQJ/LLP7bFn2aQja/5SvRm1tkWnd22vxh3+CT1Vc6cwH0fAcA9wMKWvlHORw=;d9imDEUxeEflIldJz8nt0Q=="
+secured: "6CW9TeT1wkSqSgZy0SnTresjywE9fMAD0pGwdCFq90ODlqNvVZIo9gS6Afv0AWfpBCOn1+Kkf84RHbkb3jGMbxVyXdFMurRqtI3JNRpTe3PZnrr4k2Hfl+ivoI2QKoBnqJZMcrQowSZw+TVewhogjX72JokBMMMbdpdnFT33WHQKUFi0G50OHATROLfHYuS+mfzVkt+pGA1RmSybCeAMzJ3H5jHCipBz504C3lX0a64jZtGSU8j4g8OS7jHjVm13vgw95Nh3Az4SAM6Bs0U6CnDq9gOitu/N1P9pil3ijveYmDYZo3SvnlOdrWH3scXECpNBdHzi4pM7Mtomwn+Tm+7a63GtGHiIkcKNDyInxKJldNNDAxsATQdPdIe1AWPVMQJBGzuQ3Tr49KuNOl22WXFHhI6BgV/gqNVoxsWN2+hKryv9iGR9I4HepgZCJv+20xBhuWRCWCb0B3YGbYAy8UBWY2hiAWzmn46x/jNYP6MNkY5J5KOmawLNj3Jr5HVqV+IyYfArLlOmeC9v4c7k4g==;U4eKaNNV+suwnTQew+/qzg=="
 ---
 

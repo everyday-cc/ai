@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/amazon-wants-to-cocoon-you-with-ambient-
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-wants-to-cocoon-you-with-ambient-intelligence/amp"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

@@ -1,22 +1,32 @@
 ---
 category: news
 title: "AWS Announces General Availability of AWS IoT FleetWise"
-excerpt: "New service makes it easier for automotive companies to collect, transform, and transfer vehicle data to the cloud in near real time, enabling improved vehicle quality and autonomy Bridgestone, Hyundai Motor Group,"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of AWS"
 publishedDateTime: 2022-09-27T17:05:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/b29037953/aws-announces-general-availability-of-aws-iot-fleetwise"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/b29037953/aws-announces-general-availability-of-aws-iot-fleetwise"
+originalUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-aws-iot-fleetwise-2022-09-27"
+webUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-aws-iot-fleetwise-2022-09-27"
 type: article
-quality: 34
-heat: -1
-published: false
+quality: 84
+heat: 94
+published: true
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Amazon (AMZN) Expands Its AWS Offerings With IoT FleetWise"
@@ -31,6 +41,6 @@ related:
       domain: nasdaq.com
     quality: 71
 
-secured: "laEDLiLWSdJof+U6iWM/MLAWWfneH7lNDhOCWjQR0vrOUxzTXcuXdQ9Vw1crd1o0Q4ebkAw9K0+UaryN1hrV3pkXOvXKeXGS8msg/4OyijyhUAOuJOgWiPC/HXgvze17QJ3eNDd2JEtTET2i9j7FPRcdmnIqgmxS/4a7SJ9TCU1lUqzINamgwV9ShFgcZo/om6D5v77pwOAzgb1CAyJGqEfgs2yzDDYpbCcXsf6V/TroUrbs3YOndk4nVuuphgpPuJcl2rMdC5I+aRJrIIW9/3FDib45ZxY6S86zpJ4GHum0MZhcy5TJAaUzUkGX328aRFXIF8Pdtrc5lTE763L8gFkEnahwQMaXrUD8RnLRvwA=;6CAj1vsyLw+szYHNN8HJTQ=="
+secured: "gS4EFkFa4/f2UOwCr6xS9g5Y+VFJwB5J0x/rDPhT+JsuvrGEPc0f+CDiBbx7uUSotluaBy4+AKGxfKcKXfJYxbtBGq2XHefW+cI81+xWyiSp3p5O3GDYeGkM5essb979L8fq+ofgwyO06uIaN450FQoFKZBN/MsTNZEWkiHDERdNoJbudc7enTeESE/8pU1/Nc3WK0PqoAOJpF8pNOhzk5gCfPlsdCyZrHsGxBkoK0eo7pR+Y+Nkb7cqjcjfaVim3MpH7E+4Fe1orZjWOXCiE6hsjGOO7J6UBQApKHfPQ+L7tug9k6nvA/xshKkwpebcOsFjyn5UJUWFjB6UoerQ8O53wPqJb52unNh8IEgro5g=;3s3OF1RfNR6FtEc4to4RSg=="
 ---
 

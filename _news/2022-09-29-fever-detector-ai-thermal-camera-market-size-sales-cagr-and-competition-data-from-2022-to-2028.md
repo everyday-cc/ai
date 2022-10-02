@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/fever-detector-ai-therma
 webUrl: "https://www.marketwatch.com/press-release/fever-detector-ai-thermal-camera-market-size-sales-cagr-and-competition-data-from-2022-to-2028-2022-09-28"
 type: article
 quality: 71
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "A New Facial Recognition Market Size 2022 Global that Is Expected To Grow at CAGR of over 12%, and Industry Expansion to 2025"
+    excerpt: "The Worldwide Facial Recognition market is expected to increase at a significant rate during the estimate time frame, where in the forecast of 2022 and 2028. Facial Recognition industry is emerging at a growth rate and with the increasing reception of strategies by Top key organizations,"
+    publishedDateTime: 2022-09-29T00:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/a-new-facial-recognition-market-size-2022-global-that-is-expected-to-grow-at-cagr-of-over-12-and-industry-expansion-to-2025-2022-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

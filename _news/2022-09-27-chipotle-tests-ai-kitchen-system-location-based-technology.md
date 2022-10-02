@@ -39,34 +39,6 @@ related:
         width: 765
         height: 446
         isCached: true
-  - title: "AI and Machine Learning Enters the Kitchen at Chipotle"
-    excerpt: "The first, piloting in select Southern California restaurants, is a cook-to-needs kitchen management system that provides demand-based cooking and ingredient preparation forecasts to “optimize throughput and freshness while minimizing food waste,"
-    publishedDateTime: 2022-09-27T14:50:00Z
-    webUrl: "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enters-kitchen-chipotle"
-    type: article
-    provider:
-      name: QSR magazine
-      domain: qsrmagazine.com
-    quality: 73
-    images:
-      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2022-09/Chipotlane.jpg?itok=5BEjL9Eh"
-        width: 765
-        height: 446
-        isCached: true
-  - title: "Chipotle is moving its tortilla robot to a real restaurant"
-    excerpt: "Chipotle's tortilla-making robot will soon help out in a restaurant you can visit. The chain has unveiled a slew of technology updates that include moving the Miso Robotics-made Chippy robot to a real restaurant."
-    publishedDateTime: 2022-09-27T14:03:00Z
-    webUrl: "https://www.engadget.com/chipotle-chippy-tortilla-robot-in-restaurant-132117637.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-09/a595abc0-3e62-11ed-bbeb-9b3e3e85061f"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Who Could Have Seen This Coming? Chipotle Tests Out Robot Chip Maker As CA Passes Fast Food Bill"
     excerpt: "Bags of chips are seen ready for customers in a Chipotle restaurant, on the day that the company announced it will only use non-GMO ingredients in its food on April 27, 2015 in Miami, Florida. The company announced,"
     publishedDateTime: 2022-09-27T19:44:00Z
@@ -80,20 +52,6 @@ related:
       - url: "https://ijr.com/wp-content/uploads/2022/09/GettyImages-471371484.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Chipotle's latest tech innovations include autonomous cooking assistants, AI, real-time updates"
-    excerpt: "CMG said the system uses AI and machine learning to monitor ingredient levels in ... Chipotle (CMG) has been testing the autonomous cooking assistant (called Chippy) with tortilla chip production at its headquarters’ innovation hub in Irvine, California."
-    publishedDateTime: 2022-09-27T14:54:00Z
-    webUrl: "https://seekingalpha.com/news/3886388-chipotles-latest-tech-innovations-include-autonomous-cooking-assistants-ai-real-time-updates"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 42
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1393875852/image_1393875852.jpg?io=getty-c-w750"
-        width: 750
-        height: 509
         isCached: true
 
 secured: "FuKAG8ul1pj1Td7urwi05cs6B1vR3JOgIzCAD0uZUf31M95FZ4jCWDYiYpiUD9b0L1ogATUTz/qFvBN4mU98RJJh2nej89LJ1luG0O5g/PGSI4y1IPsZ5mr3p6AbZ4Gmh6TOQNomBjP1/ithEC0hriGDILcvdpXoyTeAe8Hy5BQghJti759nML1QjGC093f40dVmerpk9kyw+76RoFDMBjuHRtitOtq4yPTvb/TNwODkjuuY4LW4Hzaw1CHRbCtyMD85eyVmUQJYhSGb9v8yjdgf1TBHxNgNTwWMC90cFs+26pDWDkKe2rvVfV7JiQ6RoUcJ6jzYEcrtRA29dE5TmHnEeidyqCCaDQzr09ccbYH5RkfIJuoycaa5Vn2c7V/yv6HGbuf7KTsW6ReNtDBnsdJsdqhalMIceb2s1Lpp/q2so4aYxkZCxX0gZiM5aGW7xYBUjU07u7hDYkL2OiYwgGCHRDgyGOxViT6+efFrU5XT5r2xOV+Nx38ATZraBsXHGkARJH28CYTPmiJGCSwwrg==;RNpsLcrmqKoFcF2ZPVhW0A=="

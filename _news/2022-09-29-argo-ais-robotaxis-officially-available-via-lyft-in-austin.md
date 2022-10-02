@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/09/29/argo-ais-robotaxis-officially-avai
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/29/argo-ais-robotaxis-officially-available-via-lyft-in-austin/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

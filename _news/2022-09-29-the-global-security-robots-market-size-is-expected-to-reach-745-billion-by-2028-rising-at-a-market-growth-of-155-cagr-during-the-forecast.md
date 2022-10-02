@@ -38,20 +38,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Global Facial Recognition Market to Reach USD 8946.11 Million | Growing at CAGR of 14.47% | Forecast Period 2022-2027"
-    excerpt: "The global Facial Recognition market size was valued at USD 3975.52 million in 2021 and is expected to expand at a CAGR of 14.47% during the forecast period, reaching USD 8946.11 million by 2027."
-    publishedDateTime: 2022-09-27T13:10:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-facial-recognition-market-to-reach-usd-8946-11-million-growing-at-cagr-of-14-47-forecast-period-2022-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 16
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/NOSPR-Japan-tour-©-Radoslaw-Kazmierczak-e1661992929441-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "FzOcVTE4oBh/CH1OTU8yvK9SGbFmZaCifXL7aOe+FPYFGnwxf4tf3LXToi8MTco4Al6wTe/RZCztG+G2qgG9QY5My3EpseNzMchYNz1bI7cqm5vWfCU6GnDExz7pK+1K/IVQiGtnrGLWmG1oLMGg+RQdKpjvPH+rKRRBgYKZdvTdJxNV7rYVtz8XyziVlEW108OREMqyQPwuUYtqrFUu/Y7LJCa6J5p9h8LMJrtrnZLgEPSqHGKsw4iLejEzJydbgC4kxjUjJowuxtt+jDdKXIFiDPYCZUP0Rz1exsHytHtStG4e69Ozw9QWHdQjvKZFuv1jzWle0J/iRDqJWxoop323Az6tlfvAW2B/EmM4TEY=;i6rOMyoVU88i4U0v2+rk2Q=="
 ---

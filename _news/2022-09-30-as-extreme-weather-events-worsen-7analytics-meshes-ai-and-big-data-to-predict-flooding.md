@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 710
         isCached: true
-  - title: "SAS Viya analytics suite now available on Azure Marketplace"
-    excerpt: "Viya’s move to the marketplace allows enterprise customers to access its tools and features in a pay-as-you-go model, the company said."
-    publishedDateTime: 2022-09-27T13:18:00Z
-    webUrl: "https://www.infoworld.com/article/3674838/sas-viya-analytics-suite-now-available-on-azure-marketplace.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 86
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/07/05/10/data_analytics_risk_assessment_tracking_trends_graphs_by_ipopba_gettyimages-1150397416_2400x1600-100828857-large-100929801-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "SAS introduces Azure marketplace PAYG option giving maximum analytics at minimum pricing"
     excerpt: "SAS has announced its Viya platform AI, analytics, and data management, is now available as a pay-as-you-go Microsoft Azure marketplace option, providing vast analytic power to anybody - and at a price point that means there is no reason not to be embedding analytics into your apps."
     publishedDateTime: 2022-10-02T05:28:00Z

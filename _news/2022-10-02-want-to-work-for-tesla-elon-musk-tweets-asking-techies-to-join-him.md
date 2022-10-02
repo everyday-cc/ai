@@ -1,35 +1,30 @@
 ---
 category: news
-title: "Tesla AI Day 2022: How to Watch Elon Musk's Optimus Robot"
-excerpt: "Tesla has hired engineers to make a robot for dangerous or boring work. At AI Day, expect updates on FSD technology for eventual self-driving cars, too."
-publishedDateTime: 2022-09-30T00:22:00Z
-originalUrl: "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot/"
-webUrl: "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot/"
-ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot/"
-cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot/"
+title: "Want to work for Tesla? Elon Musk tweets asking techies to join him"
+excerpt: "The job position open in Tesla offers multiple roles including building AI inference chips to run Full Self-Driving software, developing Dojo system, enhancing neural networks."
+publishedDateTime: 2022-10-02T06:36:00Z
+originalUrl: "https://www.hindustantimes.com/technology/want-to-work-for-tesla-elon-musk-tweets-asking-techies-to-join-him-101664690406058.html"
+webUrl: "https://www.hindustantimes.com/technology/want-to-work-for-tesla-elon-musk-tweets-asking-techies-to-join-him-101664690406058.html"
+ampWebUrl: "https://www.hindustantimes.com/technology/want-to-work-for-tesla-elon-musk-tweets-asking-techies-to-join-him-101664690406058-amp.html"
+cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/want-to-work-for-tesla-elon-musk-tweets-asking-techies-to-join-him-101664690406058-amp.html"
 type: article
-quality: 123
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: CNET
-  domain: cnet.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Hindustan Times
+  domain: hindustantimes.com
 
 topics:
-  - AI in Robotics
+  - Machine Learning
   - AI
   - AI in Autos
-  - AI Hardware
 
 images:
-  - url: "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200"
-    width: 1200
-    height: 630
+  - url: "https://images.hindustantimes.com/img/2022/10/02/1600x900/Screenshot_2022-10-02_113222_1664692365895_1664692389654_1664692389654.png"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -44,6 +39,22 @@ related:
       name: CNET
       domain: cnet.com
     quality: 133
+    images:
+      - url: "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Tesla AI Day 2022: How to Watch Elon Musk's Optimus Robot"
+    excerpt: "Tesla has hired engineers to make a robot for dangerous or boring work. At AI Day, expect updates on FSD technology for eventual self-driving cars, too."
+    publishedDateTime: 2022-09-30T00:22:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 123
     images:
       - url: "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
@@ -616,22 +627,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
-  - title: "Want to work for Tesla? Elon Musk tweets asking techies to join him"
-    excerpt: "The job position open in Tesla offers multiple roles including building AI inference chips to run Full Self-Driving software, developing Dojo system, enhancing neural networks."
-    publishedDateTime: 2022-10-02T06:36:00Z
-    webUrl: "https://www.hindustantimes.com/technology/want-to-work-for-tesla-elon-musk-tweets-asking-techies-to-join-him-101664690406058.html"
-    ampWebUrl: "https://www.hindustantimes.com/technology/want-to-work-for-tesla-elon-musk-tweets-asking-techies-to-join-him-101664690406058-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/want-to-work-for-tesla-elon-musk-tweets-asking-techies-to-join-him-101664690406058-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 61
-    images:
-      - url: "https://images.hindustantimes.com/img/2022/10/02/1600x900/Screenshot_2022-10-02_113222_1664692365895_1664692389654_1664692389654.png"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Elon Musk Showed Optimus Humanoid Robot Walking Without Assistance"
     excerpt: "Though the Optimus humanoid robot by Tesla is in the early development stage, Elon Musk proves it will change the world."
     publishedDateTime: 2022-10-01T11:45:00Z
@@ -778,6 +773,6 @@ related:
       domain: thesun.co.uk
     quality: 28
 
-secured: "qqfJDNKbcmIPMg1zBA3ei4osLw1xBcoQZtbFfm4e+z5LNu2yfNyoF0NR8uc/b9kZc2n6hejC09mqKu+5CZs4cH9T5fOvFiUECLy45mJUNHeAJeC65Nd8jkKC2lWQMbXEY0ZaxLYVtG/l2b70xjz2PmCx/ubGIqk2Ipygu8yklxyhEUmIhkrtxoZ8fx5cxRNvQv6QP7e8T6XC+qRkqzQfKq8+XP4TVH7oe5QWhpkOBtCBPSsKSrTBBh+0wJ5zWiR7UmIqXWlJGH0iB49YYQbS/Ctg3ulP6wwWSOQLRznaJkgwdNg1iOVc8BCaTnGYAI7LRyx1ke4nPtIBfs7FJB1mxKLZnx9OA5kBa0vKv1o6O+e9hH/8VH5QE59yDARXOlf3NeYG7nyctFL31KQ7FFanmxtMqgyUR2owxU+NJxyOSitmlC2r+TWegIqvzY7cpxA4SY2a2p3BcyOTg5X7SGS2iABJN5GYQ9vSvWtd72sBQx+aRTDFxNrqI9wWBL19hlYbstf6X5gM2vJzHmz63Elolw==;OPQaChmUhfmbqnNuTSRfTg=="
+secured: "79jLgzSAeBe2FlwSHjDKUzGTK/9RkJJqrYHB/GRPWReRSr91xGnSJSMq1K01qJLZriio/RGTtKl8OFJOLbbLflEEizG4/SR3+4gbKdcWyTZrdOj3MTrn9oOL9vP98bc5JEz/Xj9f28wPxs9BxK81cVbDTLi0i1vRwYHWVBD9Yw+51dy6RW+LT+NvTg+SXyDcvIpG15mC1dtnImpbD4D00VzQZgW8L/3oa9WrkJ3FxHp4JrreNhkl2PPDUlTcSoMT+bZkJz/e2m03Xe+BapBhY9vFLIBPPzHXze/BP0SxDvYyLEoey2rAv7r2p0Ri6VYf2bcXlx78RUnQ8XqQ5O8oFgjfuXjt9+ZLa7ekaj9OsrE=;fcL40OxwhcjX2m6ZsqO2GQ=="
 ---
 
