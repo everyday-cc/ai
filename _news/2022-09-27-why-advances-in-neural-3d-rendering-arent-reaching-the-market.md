@@ -20,6 +20,8 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
+  - Computer Vision
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1332177687-e1651777358698.jpg?fit=800%2C450&strip=all"

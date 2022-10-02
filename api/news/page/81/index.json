@@ -2,6 +2,205 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2022-07-28-cognitive-analytics-market-analysis-with-key-players-applications-trends-and-forecast-2022-2031.md",
+      "title": "Cognitive Analytics Market Analysis with Key Players, Applications, Trends and Forecast 2022 – 2031",
+      "excerpt": "The Cognitive Analytics Market is ... Nuance Communications, Microsoft Corporation, Oracle Corporation, Amazon Web Services, Google LLC, Intel Corporation, and Narrative Science.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-analysis-with-key-players-applications-trends-and-forecast-2022-2031-2022-07-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-analysis-with-key-players-applications-trends-and-forecast-2022-2031-2022-07-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T23:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-announcing-android-cloud-gaming-and-media-processing-and-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m.md",
+      "title": "Announcing Android Cloud Gaming and Media Processing and Delivery Solutions Based on the New Intel Data Center GPU Codenamed Arctic Sound-M",
+      "excerpt": "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking, and green computing technology, is announcing future Total IT Solutions for availability with Android Cloud Gaming and Media Processing & Delivery.",
+      "sourceUrl": null,
+      "webUrl": "https://theprint.in/ani-press-releases/announcing-android-cloud-gaming-and-media-processing-and-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m/1058507/",
+      "originalUrl": "https://theprint.in/ani-press-releases/announcing-android-cloud-gaming-and-media-processing-and-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m/1058507/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://aniportalimages.s3.amazonaws.com/media/details/sanjosecali2807.jpg",
+          "width": 400,
+          "height": 206,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theprint.in/ani-press-releases/announcing-android-cloud-gaming-and-media-processing-and-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m/1058507/?amp",
+      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/announcing-android-cloud-gaming-and-media-processing-and-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m/1058507/?amp",
+      "publishedDateTime": "2022-07-27T22:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ThePrint",
+        "domain": "theprint.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-gpu-as-a-service-market-to-gain-significant-momentum-across-the-healthcare-sector.md",
+      "title": "GPU as a service market to gain significant momentum across the healthcare sector",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 28, 2022 (Market Insight Reports) -- The increasing penetration of the Industrial Internet of Things (IIoT ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-to-gain-significant-momentum-across-the-healthcare-sector-2022-07-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-to-gain-significant-momentum-across-the-healthcare-sector-2022-07-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T22:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-ponyai-forms-autonomous-truck-jv-with-sany-heavy-truck-in-china.md",
+      "title": "Pony.ai forms autonomous truck JV with Sany Heavy Truck in China",
+      "excerpt": "Autonomous vehicle company Pony.ai is forming a strategic joint venture with Sany Heavy Truck, a subsidiary of Chinese heavy equipment manufacturer Sany Heavy Industry, to create an autonomous truck brand.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/27/pony-ai-forms-autonomous-truck-jv-with-sany-heavy-truck-in-china/",
+      "originalUrl": "https://techcrunch.com/2022/07/27/pony-ai-forms-autonomous-truck-jv-with-sany-heavy-truck-in-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/image_01_-_high_res.jpeg?w=1024",
+          "width": 1024,
+          "height": 592,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/27/pony-ai-forms-autonomous-truck-jv-with-sany-heavy-truck-in-china/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/27/pony-ai-forms-autonomous-truck-jv-with-sany-heavy-truck-in-china/amp/",
+      "publishedDateTime": "2022-07-27T21:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-global-us-283-billion-speech-and-voice-recognition-market-outlook-to-2026.md",
       "title": "Global US $ 28.3 Billion Speech and Voice Recognition Market Outlook to 2026",
       "excerpt": "Jul 28, 2022 (The Expresswire) -- [160 Pages Report] The \"Speech and Voice Recognition Market\" report contains detailed information on factors influencing demand, growth, opportunities ...",
@@ -928,169 +1127,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-datanomix-flexxbotics-partner-to-automate-production-monitoring-for-universal-robots.md",
-      "title": "Datanomix, Flexxbotics Partner to Automate Production Monitoring for Universal Robots",
-      "excerpt": "Datanomix, maker of the Automated Production Intelligence software platform, announced support for monitoring Universal Robots for real-time visibility into robot performance. By partnering with Flexxbotics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.manufacturing.net/technology/news/22353654/datanomix-flexxbotics-partner-to-automate-production-monitoring-for-universal-robots",
-      "originalUrl": "https://www.manufacturing.net/technology/news/22353654/datanomix-flexxbotics-partner-to-automate-production-monitoring-for-universal-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T12:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manufacturing",
-        "domain": "manufacturing.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-no-quick-fix-how-openais-dalle-2-illustrated-the-challenges-of-bias-in-ai.md",
-      "title": "No quick fix: How OpenAI's DALL·E 2 illustrated the challenges of bias in AI",
-      "excerpt": "OpenAI released the second version of its DALL·E image generator in April to rave reviews, but efforts to address societal biases in its output have illustrated systemic underlying problems with AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/no-quick-fix-openais-dalle-2-illustrated-challenges-bias-ai-rcna39918",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/no-quick-fix-openais-dalle-2-illustrated-challenges-bias-ai-rcna39918",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-07/220727-dall-e-ai-racism-gender-bias-2x1-cs-de0351.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna39918",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna39918",
-      "publishedDateTime": "2022-07-27T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-azure-functions-boosted-with-net-7-support.md",
-      "title": "Azure Functions Boosted with .NET 7 Support",
-      "excerpt": "Azure Functions, Microsoft's serverless cloud computing offering, is previewing new functionality coming with its new support of .NET 7 as a runtime.",
-      "sourceUrl": null,
-      "webUrl": "https://visualstudiomagazine.com/articles/2022/07/27/azure-functions-net-7.aspx",
-      "originalUrl": "https://visualstudiomagazine.com/articles/2022/07/27/azure-functions-net-7.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2016/0216red_F2Nano.jpg",
-          "width": 647,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T12:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Visual Studio Magazine",
-        "domain": "visualstudiomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-veo-robotics-named-to-the-2022-cb-insights-advanced-manufacturing-50-list.md",
-      "title": "Veo Robotics Named to the 2022 CB Insights' Advanced Manufacturing 50 List",
-      "excerpt": "Industrial automation leader and creator of FreeMove® recognized as one of the most promising private advanced manufacturing companies in the world WALTHAM, Mass. (PRWEB) CB Insights today named Veo",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/07/p28232813/veo-robotics-named-to-the-2022-cb-insights-advanced-manufacturing-50-list",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/p28232813/veo-robotics-named-to-the-2022-cb-insights-advanced-manufacturing-50-list",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g",
-          "width": 900,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28232813",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28232813",
-      "publishedDateTime": "2022-07-27T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-21-the-computers-that-talk-like-us-how-conversational-ai-could-change-lives-for-better-and-worse.md",
+      "title": "The computers that talk like us: How conversational AI could change lives, for better and worse",
+      "excerpt": "How would you define conversational AI for the layman? Conversational AI refers to the different types of AI software or solutions that are designed for people to talk to and comm",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/features/the-computers-that-talk-like-us-how-conversational-ai-could-change-lives-for-better-and-worse",
+      "originalUrl": "https://www.techradar.com/features/the-computers-that-talk-like-us-how-conversational-ai-could-change-lives-for-better-and-worse",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/cvUbbQwxuHbLsEVEuaWGcL-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-21T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-19-us-open-marks-ibm-extension-with-new-redesigned-ai-driven-app-and-website.md",
       "title": "US Open marks IBM extension with new redesigned, AI-driven app and website",
       "excerpt": "USTA has worked with tech giant IBM for more than 30 years and will continue to do so for another five to build out its digital capabilities.",
@@ -1273,40 +1325,6 @@
       "provider": {
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-manta-automated-data-lineage-is-now-available-on-ibm-cloud-pak-for-data.md",
-      "title": "MANTA Automated Data Lineage is Now Available on IBM Cloud Pak for Data",
-      "excerpt": "\"Businesses rely on data and AI, but many struggle with data silos that make ... and technical data lineage to Watson Knowledge Catalog in IBM Cloud Pak for Data to help them perform effective impact and root cause analyses, meet common regulatory ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dbta.com/BigDataQuarterly/Articles/MANTA-Automated-Data-Lineage-is-Now-Available-on-IBM-Cloud-Pak-for-Data-153920.aspx",
-      "originalUrl": "https://www.dbta.com/BigDataQuarterly/Articles/MANTA-Automated-Data-Lineage-is-Now-Available-on-IBM-Cloud-Pak-for-Data-153920.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-13T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dbta.com",
-        "domain": "dbta.com",
         "images": null,
         "publishers": null,
         "authors": null

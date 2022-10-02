@@ -2,6 +2,188 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2022-08-03-tips-for-leveraging-the-power-of-voice-search-optimization.md",
+      "title": "Tips For Leveraging The Power Of Voice Search Optimization",
+      "excerpt": "A lot of this functionality relies on speech recognition technology, but you may not realize the way your website is coded can also have a big impact. According to the WAI (Web Accessibility ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.searchenginejournal.com/voice-search/457718/",
+      "originalUrl": "https://www.searchenginejournal.com/voice-search/457718/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2022/07/voice-search--62d577424dfd1-sej.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Search Engine Journal",
+        "domain": "searchenginejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-cognitive-decline-can-be-avoided-with-simple-everyday-exercises-new-study-suggests.md",
+      "title": "Cognitive decline can be avoided with simple everyday exercises, new study suggests",
+      "excerpt": "Researchers at the Wake Forest University School of Medicine recruited 300 adults with mild cognitive decline to do aerobic and stretching-and-balance exercises. The groups were split up based ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2022/08/03/cognitive-decline-can-be-avoided-with-simple-everyday-exercises-new-study-suggests/",
+      "originalUrl": "https://nypost.com/2022/08/03/cognitive-decline-can-be-avoided-with-simple-everyday-exercises-new-study-suggests/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/08/newspress-collage-23318110-1659557295793.jpg?quality=75&strip=all&1659543113&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2022/08/03/cognitive-decline-can-be-avoided-with-simple-everyday-exercises-new-study-suggests/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/08/03/cognitive-decline-can-be-avoided-with-simple-everyday-exercises-new-study-suggests/amp/",
+      "publishedDateTime": "2022-08-03T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-computer-vision-in-healthcare-market-2022-research-report-with-revenue-gross-margin-and-future-prospects-till-2030.md",
+      "title": "Computer Vision in Healthcare Market 2022 Research Report With Revenue, Gross Margin, And Future Prospects Till 2030",
+      "excerpt": "Aug 03, 2022 (Heraldkeepers) -- The global Computer Vision in Healthcare market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific, and Rest of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-2022-research-report-with-revenue-gross-margin-and-future-prospects-till-2030-2022-08-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-2022-research-report-with-revenue-gross-margin-and-future-prospects-till-2030-2022-08-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-google-translate-camera-makes-it-super-easy-to-translate-text-from-an-image.md",
+      "title": "Google Translate camera makes it super easy to translate text from an image",
+      "excerpt": "The Google Translate app uses artificial intelligence to translate text from photos in a matter of seconds Since camera and AI technology have advanced so much, translating between languages has become a whole lot easier.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitalcameraworld.com/news/google-translate-camera-makes-it-super-easy-to-translate-text-from-an-image",
+      "originalUrl": "https://www.digitalcameraworld.com/news/google-translate-camera-makes-it-super-easy-to-translate-text-from-an-image",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/KskZgw3fzEALBhKZvsRVfD-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "digitalcameraworld",
+        "domain": "digitalcameraworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-03-remote-surgical-robot-could-join-astronauts-on-future-mars-missions.md",
       "title": "Remote Surgical Robot Could Join Astronauts on Future Mars Missions",
       "excerpt": "No matter how mentally and physically prepared they are, future astronauts bound for deep space can't escape their mortal restrictions. At some point during their long and isolated journeys, these pioneers might need medical care.",
@@ -1006,188 +1188,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-using-machine-learning-for-bushfire-prevention-in-australia.md",
-      "title": "Using machine learning for bushfire prevention in australia",
-      "excerpt": "Machine learning approaches are proactively mitigating the risk of bushfires caused by powerlines, ensuring the safe and regular supply of power to",
-      "sourceUrl": null,
-      "webUrl": "https://utilitymagazine.com.au/using-machine-learning-for-bushfire-prevention-in-australia/",
-      "originalUrl": "https://utilitymagazine.com.au/using-machine-learning-for-bushfire-prevention-in-australia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://utilitymagazine.com.au/wp-content/uploads/2022/07/Utility-5.png",
-          "width": 714,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "utilitymagazine.com.au",
-        "domain": "utilitymagazine.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-ai-in-fintech-market-size-key-facts-dynamics-segments-and-forecast-predictions-presented-2022-2031.md",
-      "title": "AI in Fintech Market Size: Key Facts, Dynamics, Segments and Forecast Predictions Presented 2022-2031",
-      "excerpt": "Japan, Japan, Wed, 03 Aug 2022 12:04:26 / Comserve Inc. / -- AI in Fintech Market offers overview of leading companies encompassing their successful marketing strategies, market contribution ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-key-facts-dynamics-segments-and-forecast-predictions-presented-2022-2031-2022-08-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-key-facts-dynamics-segments-and-forecast-predictions-presented-2022-2031-2022-08-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-global-artificial-intelligence-in-healthcare-market-demand-analysis-opportunity-outlook-2027.md",
-      "title": "Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027",
-      "excerpt": "Aug 03, 2022 (AmericaNewsHour) -- Recent report published by research nester titled \"Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027\" delivers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-market-demand-analysis-opportunity-outlook-2027-2022-08-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-market-demand-analysis-opportunity-outlook-2027-2022-08-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-how-social-isolation-loneliness-can-affect-heart-health-cognitive-abilities.md",
-      "title": "How Social Isolation, Loneliness Can Affect Heart Health, Cognitive Abilities",
-      "excerpt": "a physician with AltaMed Health Services Program of All-Inclusive Care for the Elderly (PACE). “A large proportion of older adults have physical and cognitive limitations,” Spakowsky told ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthline.com/health-news/how-social-isolation-loneliness-can-affect-heart-health-cognitive-abilities",
-      "originalUrl": "https://www.healthline.com/health-news/how-social-isolation-loneliness-can-affect-heart-health-cognitive-abilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healthline",
-        "domain": "healthline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

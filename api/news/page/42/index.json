@@ -2,6 +2,204 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2022-08-26-first-trust-exchange-traded-fund-vi-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaq-robt.md",
+      "title": "First Trust Exchange-Traded Fund VI - First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ: ROBT)",
+      "excerpt": "Calculated by average return of all stock recommendations since inception of the Stock Advisor service in February of 2002. Returns as of 08/26/2022. Discounted offers are only available to new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/quote/nasdaq/robt/",
+      "originalUrl": "https://www.fool.com/quote/nasdaq/robt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/misc-assets/hp-sa-cumulative-growth-chart.png",
+          "width": 843,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-26T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-26-lg-ultragear-oled-gaming-monitor-and-ultrafine-display-ergo-ai-with-4k-resolution-launched.md",
+      "title": "LG UltraGear OLED gaming monitor and Ultrafine Display Ergo AI with 4K resolution launched",
+      "excerpt": "LG has unveiled UltraGear 240Hz curved OLED gaming monitor and UltraFine Display Ergo AI. The devices have model numbers 45GR95QE and 32UQ890. The company also confirmed its presence at the upcoming event after a two-year break due to the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/08/26/lg-ultragear-oled-gaming-monitor-and-ultrafine-display-ergo-ai-with-4k-resolution-launched/",
+      "originalUrl": "https://www.gizmochina.com/2022/08/26/lg-ultragear-oled-gaming-monitor-and-ultrafine-display-ergo-ai-with-4k-resolution-launched/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2022/08/LG-UltraGear-OLED-monitor-and-Ultrafine-Display.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/08/26/lg-ultragear-oled-gaming-monitor-and-ultrafine-display-ergo-ai-with-4k-resolution-launched/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/26/lg-ultragear-oled-gaming-monitor-and-ultrafine-display-ergo-ai-with-4k-resolution-launched/?amp=1",
+      "publishedDateTime": "2022-08-26T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-26-deep-learning-chip-market-worth-us-2131-bn-globally-by-2027-at-300-cagr-exclusive-report-by-the-insight-partners.md",
+      "title": "Deep Learning Chip Market Worth US$ 21.31 Bn, Globally, by 2027 at 30.0% CAGR – Exclusive Report by The Insight Partners",
+      "excerpt": "Deep Learning Chip Market to 2027 – Global Analysis and Forecasts By Chip Type (GPU, ASIC, FPGA, CPU, Others); Technology (System-on-Chip, System-in-Package, Multi-chip Module, Others); Industry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-chip-market-worth-us-21-31-bn-globally-by-2027-at-30-0-cagr-exclusive-report-by-the-insight-partners-2",
+      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-chip-market-worth-us-21-31-bn-globally-by-2027-at-30-0-cagr-exclusive-report-by-the-insight-partners-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/vio-onut-weavesphere-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-26T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-08-26-googles-test-kitchen-app-asks-you-talk-to-ai-about-dogs.md",
+      "title": "Google's Test Kitchen App Asks You Talk to AI About Dogs",
+      "excerpt": "LaMDA is a prototype AI system capable of deciphering a conversation's intent, and Google needs your help testing it out via the Test Kitchen app.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/googles-test-kitchen-app-asks-you-talk-to-ai-about-dogs",
+      "originalUrl": "https://www.pcmag.com/news/googles-test-kitchen-app-asks-you-talk-to-ai-about-dogs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/02aFSmyk24iY6AKYmO4LH89-2.fit_lim.size_1200x630.v1661520065.png",
+          "width": 830,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-26T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-26-financialbuzzcom-demand-for-comprehensive-cleaning-services-grow-post-pandemic.md",
       "title": "FinancialBuzz.com: Demand for Comprehensive Cleaning Services Grow Post-Pandemic",
       "excerpt": "FinancialBuzz.com News Commentary NEW YORK, Aug. 26, 2022 /PRNewswire/ -- Due to the growing implementation of AI and automation in household equipment, the domestic robot market reached",
@@ -1016,178 +1214,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-best-robot-vacuum-for-avoiding-dog-poop-plus-more-pet-friendly-vacuums.md",
-      "title": "Best robot vacuum for avoiding dog poop (plus more pet-friendly vacuums)",
-      "excerpt": "The iRobot Roomba j7+ is designed with the issue of dog poop in mind. This smart ... device -- the better to control the appliance remotely. The best part? This Lefant robot vacuum is priced ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/irobot-roomba-j7-robot-vacuums-avoid-dog-poop/",
-      "originalUrl": "https://www.cbsnews.com/essentials/irobot-roomba-j7-robot-vacuums-avoid-dog-poop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/08/17/95c7974e-3fc7-4bdc-984c-a8ad7429f73c/thumbnail/1200x630/e0539f7cb83c9c07473062067a48cc39/roomba-dog-poop-header.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/irobot-roomba-j7-robot-vacuums-avoid-dog-poop/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/irobot-roomba-j7-robot-vacuums-avoid-dog-poop/",
-      "publishedDateTime": "2022-08-25T15:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-microsoft-continues-its-push-to-get-more-of-its-own-services-hosted-on-azure-and-kubernetes-is-key.md",
-      "title": "Microsoft continues its push to get more of its own services hosted on Azure. And Kubernetes is key",
-      "excerpt": "Microsoft still has not completed its 10-year-plus goal of moving all of its Microsoft 365 services to run on Azure. But a company-produced case study published earlier this month provided a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-continues-its-push-to-get-more-of-its-own-services-hosted-on-azure-and-kubernetes-is-key/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-continues-its-push-to-get-more-of-its-own-services-hosted-on-azure-and-kubernetes-is-key/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T15:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-googles-100-million-facial-recognition-lawsuit-who-can-claim-money-from-the-settlement.md",
-      "title": "Google's $100 Million Facial Recognition Lawsuit: Who Can Claim Money From the Settlement?",
-      "excerpt": "Dan is a writer on CNET's How-To team. His byline has appeared in Newsweek, NBC News, The New York Times, Architectural Digest, The Daily Mail and elsewhere. He is a crossword junkie and is interested in the intersection of tech and marginalized communities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/personal-finance/googles-100-million-facial-recognition-lawsuit-who-can-claim-money-from-the-settlement/",
-      "originalUrl": "https://www.cnet.com/personal-finance/googles-100-million-facial-recognition-lawsuit-who-can-claim-money-from-the-settlement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/95ce5ca58f4c78b55da7303cc63a9f06721a1e3d/2022/08/25/f0a2866b-e71b-40d6-9c3d-2d0c873b3407/gettyimages-1242657903.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-100-million-facial-recognition-lawsuit-who-can-claim-money-from-the-settlement/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-100-million-facial-recognition-lawsuit-who-can-claim-money-from-the-settlement/",
-      "publishedDateTime": "2022-08-25T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-microsoft-cloud-services-are-vulnerable-to-nefarious-cozy-bear-mfa-hacking-campaign.md",
-      "title": "Microsoft Cloud Services Are Vulnerable To Nefarious Cozy Bear MFA Hacking Campaign",
-      "excerpt": "A new report by cybersecurity firm Mandiant details an ongoing hacking campaign targeting Microsoft 365. The threat actor behind this campaign is an advanced persistent threat (APT) known as “Co ...",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/microsoft-cloud-services-vulnerable-cozy-bear-mfa-hacking-campaign",
-      "originalUrl": "https://hothardware.com/news/microsoft-cloud-services-vulnerable-cozy-bear-mfa-hacking-campaign",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "hothardware.com",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

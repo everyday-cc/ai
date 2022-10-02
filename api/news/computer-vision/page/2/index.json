@@ -2,6 +2,103 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-17-the-creepy-problem-killing-ai-projects.md",
+      "title": "The Creepy Problem Killing AI Projects",
+      "excerpt": "But once you get into animatronics or the Sophia robot where they are trying to look and act human, they start to fall into the uncanny valley where many people find them to be creepy and are uncomfortable around them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/17/the-creepy-problem-killing-ai-projects/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/17/the-creepy-problem-killing-ai-projects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/631f82356d7f993699fe5860/0x0.jpg?format=jpg&crop=1782,1003,x338,y72,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/17/the-creepy-problem-killing-ai-projects/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/09/17/the-creepy-problem-killing-ai-projects/amp/",
+      "publishedDateTime": "2022-09-17T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-09-17-sambanova-doubles-up-chips-to-chase-ai-foundation-models.md",
+      "title": "SambaNova Doubles Up Chips To Chase AI Foundation Models",
+      "excerpt": "One of the first tenets of machine learning, which is a very precise kind of data analytics and statistical analysis, is that more data beats a better",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2022/09/17/sambanova-doubles-up-chips-to-chase-ai-foundation-models/",
+      "originalUrl": "https://www.nextplatform.com/2022/09/17/sambanova-doubles-up-chips-to-chase-ai-foundation-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/09/sambanova-cardinal-sn30-logo.jpg",
+          "width": 1227,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2022/09/17/sambanova-doubles-up-chips-to-chase-ai-foundation-models/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/09/17/sambanova-doubles-up-chips-to-chase-ai-foundation-models/amp/",
+      "publishedDateTime": "2022-09-16T22:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-09-16-automatic-facial-recognition-the-debate-in-2022.md",
       "title": "Automatic Facial Recognition – The debate in 2022",
       "excerpt": "In particular, public and private sectors are exploring the use of solutions utilising Automated Facial Recognition (AFR) to prevent crime and improve the safety of their facilities – but where are we now in the AFR debate? In IFSEC Global’s Video ...",
@@ -1277,111 +1374,6 @@
         "name": "Daily Mail",
         "domain": "dailymail.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-04-how-lord-of-the-rings-used-ai-to-change-big-screen-battles-forever.md",
-      "title": "How 'Lord of the Rings' Used AI to Change Big-Screen Battles Forever",
-      "excerpt": "Massive software has spawned armies of artificially intelligent crowds, from Lord of the Rings to Avengers: Endgame.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/culture/entertainment/features/how-lord-of-the-rings-used-ai-to-change-big-screen-battles-forever/",
-      "originalUrl": "https://www.cnet.com/culture/entertainment/features/how-lord-of-the-rings-used-ai-to-change-big-screen-battles-forever/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/55e5d94df81ac6baa25b60737dccd3e8b7165511/hub/2021/08/27/30dbd364-143e-493e-8371-445fa1de441c/screen-shot-2021-08-27-at-10-31-45-am.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-04T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-thermometer-with-face-recognition-market-global-outlook-and-forecast-2022-to-2028.md",
-      "title": "Thermometer with Face Recognition Market Global Outlook, and Forecast 2022 To 2028.",
-      "excerpt": "The \" Thermometer with Face Recognition Market Research Report \" published by Report Mines is segmented into regions (country), Company, Application, and Type. The report presents the research and analysis provided within the Thermometer with Face Recognition Market Research is meant to benefit stakeholders,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/thermometer-with-face-recognition-market-global-outlook-and-forecast-2022-to-2028-2022-09-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/thermometer-with-face-recognition-market-global-outlook-and-forecast-2022-to-2028-2022-09-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

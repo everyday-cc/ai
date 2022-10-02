@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2027-2022-09-28"
 type: article
 quality: 50
-heat: -1
-published: false
+heat: 140
+published: true
 
 provider:
   name: MarketWatch
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI robots Market 2022 Emerging Trends, Comprehensive Study With Top Companies and Key Players till 2030"
-    excerpt: "Global AI robots market to reach USD 48.91 billion by 2027. Global AI robots market is valued approximately USD 6.9 billion in 2021 and is anticipated to grow with a healthy growth rate of more than 38."
-    publishedDateTime: 2022-09-27T07:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-robots-market-2022-emerging-trends-comprehensive-study-with-top-companies-and-key-players-till-2030-2022-09-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "ChatBot Market Trends, Business Overview, Industry Growth, and Forecast 2022 To 2027"
     excerpt: "The global ChatBot market size was valued at USD 18633.15 million in 2021 and is expected to expand at a CAGR of"
     publishedDateTime: 2022-09-28T04:39:00Z
@@ -87,6 +73,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Software Market Size and Growth Comprehend by Product Revenue, Growth Rate, Production Capacity Analysis and Forecast to 2028"
+    excerpt: "Sep 29, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Machine Learning Software"
+    publishedDateTime: 2022-09-29T06:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-software-market-size-and-growth-comprehend-by-product-revenue-growth-rate-production-capacity-analysis-and-forecast-to-2028-2022-09-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer Vision Market Size to be Worth $20.88 Billion by 2030: Grand View Research, Inc."
+    excerpt: "The global computer vision market size is expected to reach USD 20.88 billion by 2030, according to a new report by Grand View Research, Inc. The market is anticipated to expand at a CAGR of 7.0% from 2022 to 2030."
+    publishedDateTime: 2022-09-28T20:24:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/09/28/9681994.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 32
+    images:
+      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+        width: 476
+        height: 210
+        isCached: true
   - title: "Artificial Intelligence in Video Games Market Segmentation, Future Trends, Growth Overview, Key Companies and Forecast by 2029 | 101 Report Pages"
     excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence in Video Games Market is projected to"
     publishedDateTime: 2022-09-30T01:02:00Z
@@ -101,6 +115,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in HIV/AIDS Market is Forecast to Expand at a 8.9% CAGR and reach a Valuation of USD 519.63 Million by the end of 2030"
+    excerpt: "Artificial Intelligence (AI) in HIV/AIDS Market Size Global Report, 2022 - 2030 Sep 28, 2022 (Heraldkeepers) -- United States, New York City: According"
+    publishedDateTime: 2022-09-28T11:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-hivaids-market-is-forecast-to-expand-at-a-89-cagr-and-reach-a-valuation-of-usd-51963-million-by-the-end-of-2030-2022-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+  - title: "Camping Self-inflating Mattress Market Size and Share 2022 Industry Analysis by Emerging Technologies, Growth, Drivers and Forecast to 2028"
+    excerpt: "Sep 28, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Camping Self-inflating"
+    publishedDateTime: 2022-09-28T10:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/camping-self-inflating-mattress-market-size-and-share-2022-industry-analysis-by-emerging-technologies-growth-drivers-and-forecast-to-2028-2022-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 20
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Image Recognition Market Latest Research, Industry Analysis, Driver, Trends, Business Overview, Key Value, Demand and Forecast 2022-2027"
+    excerpt: "The global Image Recognition market size was valued at USD 27189.63 million in 2021 and is expected to expand at a CAGR"
+    publishedDateTime: 2022-09-28T04:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-latest-research-industry-analysis-driver-trends-business-overview-key-value-demand-and-forecast-2022-2027-2022-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 1
 
 secured: "wnE1cFiby9z8CTSIzyBfCmiCVEZM6DxgBI+/qYwmAEde1mEJnD1xCb3kWjww1E3z+qn9XhYuzQ+eFaQOq2o8SXUC7qYx1aZFy7sXuvGrSCPKeLasw20OMAS+2ajXJyVDtPdVk4xCgw4IB7M96EE38JbQ0kT3aWITCArwVilFuYVzHm06/4IBEk6f4KtgQeW/z883JTuGyjYjSEiMKjz1S9O276hKjcjmmnCSYPYku3UrirxKrFaNOt9N9csxocEX1ysGUa29T5YL2fg9ahBaFD6+sbZ+nFrDpb6+ugdaoAWk+pAFbxJLCJJwXWTvALxgFvX5ZaYMlWUmyxMmsm4vBpZux7hqqGUqjFYze4TNrGo=;TDRsE2bTslmLflDppY4aMw=="
 ---

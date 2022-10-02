@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/fever-detector-ai-therma
 webUrl: "https://www.marketwatch.com/press-release/fever-detector-ai-thermal-camera-market-size-sales-cagr-and-competition-data-from-2022-to-2028-2022-09-28"
 type: article
 quality: 71
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -94,20 +94,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Turnstile Market 2022 : Growth Analysis, Key Stakeholders, Regional Outlook, End-User Applicants by 2028"
-    excerpt: "Face Recognition Turnstile Market Research Report is spread across 103 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
-    publishedDateTime: 2022-09-27T08:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-turnstile-market-2022-growth-analysis-key-stakeholders-regional-outlook-end-user-applicants-by-2028-2022-09-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Tesla, Elon Musk show off early prototype 'Optimus' robot"
-excerpt: "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company's artificial intelligence event Friday."
-publishedDateTime: 2022-10-01T23:20:00Z
-originalUrl: "https://www.cbs8.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-webUrl: "https://www.cbs8.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-ampWebUrl: "https://www.cbs8.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-cdnAmpWebUrl: "https://www-cbs8-com.cdn.ampproject.org/c/s/www.cbs8.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+excerpt: "But the basic tasks by the robot with exposed wires and electronics — as well as a later, next generation version that had to be carried onstage by three men — was a long way from CEO Elon Musk's vision of a human-like robot that can change the world."
+publishedDateTime: 2022-10-01T23:58:00Z
+originalUrl: "https://www.thv11.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+webUrl: "https://www.thv11.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+ampWebUrl: "https://www.thv11.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+cdnAmpWebUrl: "https://www-thv11-com.cdn.ampproject.org/c/s/www.thv11.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
 type: article
 quality: 76
 heat: -1
 published: false
 
 provider:
-  name: CBS News 8
-  domain: cbs8.com
+  name: KTHV
+  domain: thv11.com
 
 topics:
   - AI in Robotics
@@ -22,7 +22,7 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://media.cbs8.com/assets/CCT/images/ee0a47a3-adbd-488e-b57b-07df25f393af/ee0a47a3-adbd-488e-b57b-07df25f393af_1140x641.jpg"
+  - url: "https://media.thv11.com/assets/CCT/images/ee0a47a3-adbd-488e-b57b-07df25f393af/ee0a47a3-adbd-488e-b57b-07df25f393af_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -669,6 +669,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Elon Musk Shows Off Tesla’s Humanoid Robot Prototype"
+    excerpt: "Elon Musk showcased a humanoid robot prototype whose nickname is Optimus or the Tesla Bot. Mr. Musk plans to make millions by selling the robot in near future for a price tag of $20,000. During the event,"
+    publishedDateTime: 2022-10-01T13:10:00Z
+    webUrl: "https://www.techworm.net/2022/10/elon-musk-shows-off-teslas-humanoid-robot-prototype.html"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
+    quality: 56
+    images:
+      - url: "https://www.techworm.net/wp-content/uploads/2022/10/TESLA-BOT.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tesla AI Day: Here’s what to expect"
     excerpt: "By Matt McFarland, CNN Business Tesla will hold its second annual AI Day in Palo Alto, California, Friday evening. The six-hour event will include updates on Tesla’s work in artificial intelligence, “Full Self-Driving,"
     publishedDateTime: 2022-09-30T17:34:00Z
@@ -729,6 +743,6 @@ related:
       domain: thesun.co.uk
     quality: 28
 
-secured: "4IhcOXOOZAMYaxg7maKNmAKpqzjGt8k1qlcd95EmbIYKJx6gmrNTV++nwxVsRA60kXF8eshQL9ikl5JFHkIyykSXDG02vp3tXAX0bnVik6OJ9LHU+WWAfKG/4+wS2RKkwC2mYJu/sIZlXmozCneUh6CHefeI4Ocpn2sRdKPKRPkkl55Beymp2Di6QhGPs3PqB7BvuhiUoABMCM1Gvf1lTSO7tEIUw1aGhBuTfOxE4JEgSHqAjmKVUxUYeQ/mUMLf0JGy1P0AO9eMTDSO9aAc1dpKSS9ek2vvzcScKSANXbHHPIUecxgJ6EckU1iCxB4XFJ8GM8eUhXyojL/57M4/PFA9dP3cqnsCCVDVjiLO3SI=;LGbkVjGTVRF6kbYwI5Xb5A=="
+secured: "xQS8IPrb8hBq7g/XC7KwjdpA9JnTyjrNNQteVAZdbbC3b4opKCfupTkGkMPOUrf35Ciwt0lKBFEphaZe1byU9RteDHRww3u5jKUddiI3baVmm+4jPca0Rf9rP4ZzC9Jd99PrI4zoYhg6g4vXi9Rw2Wm1Pou8OCZarx2FRXaWSw1kHdy2LXWj7pDscSx2cWeccyKTyo73VbOS9I0YwjVNX+c7Cl0EZJYlQweAapaDS5kQcr9F6OTiufzN1wibNMLOcwA9uIExaEJdlvK28JGBqQVdMd9kayGO/Mqt8if7ZIpMHraFH9ZtFQ2sBsQ/ES/7TVt3DL0//07qelkeg/WmkgDesLN8C5ONvHnzuivd4Fk=;kzlgPxPlNoUmTtaXidC4sA=="
 ---
 

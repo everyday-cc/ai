@@ -1,31 +1,30 @@
 ---
 category: news
 title: "Tesla robot walks, waves, but doesn’t show off complex tasks"
-excerpt: "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a"
-publishedDateTime: 2022-09-30T15:40:00Z
-originalUrl: "https://mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/"
-webUrl: "https://mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/"
-ampWebUrl: "https://mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/"
-cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/"
+excerpt: "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company’s artificial intelligence event Friday."
+publishedDateTime: 2022-09-30T00:00:00Z
+originalUrl: "https://www.washingtontimes.com/news/2022/sep/30/tesla-robot-walks-waves-but-doesnt-show-off-comple/"
+webUrl: "https://www.washingtontimes.com/news/2022/sep/30/tesla-robot-walks-waves-but-doesnt-show-off-comple/"
+ampWebUrl: "https://amp.washingtontimes.com/news/2022/sep/30/tesla-robot-walks-waves-but-doesnt-show-off-comple/"
+cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/sep/30/tesla-robot-walks-waves-but-doesnt-show-off-comple/"
 type: article
-quality: 78
-heat: 108
+quality: 76
+heat: 106
 published: true
 
 provider:
-  name: MyNorthwest.com
-  domain: mynorthwest.com
+  name: Washington Times
+  domain: washingtontimes.com
 
 topics:
-  - AI in Healthcare
+  - AI in Robotics
   - AI
   - AI in Autos
-  - AI in Robotics
 
 images:
-  - url: "https://mynorthwest.com/wp-content/uploads/2018/01/MYNW_Facebookj.jpg"
-    width: 452
-    height: 282
+  - url: "https://twt-thumbs.washtimes.com/media/image/2022/10/01/tesla_robot_47794_c0-216-5184-3240_s1200x700.jpg?48c42b2789ee0d08ce9a91ab8317603cc81a12f8"
+    width: 1200
+    height: 700
     isCached: true
 
 related:
@@ -62,6 +61,6 @@ related:
       domain: nbcnewyork.com
     quality: 50
 
-secured: "dlLImju7CZWTRRHeaTY9P+Bu+0og5fFEWbgCtzqUke9WKqRIAf2jzfG3N2l8hYAvtFYK8JrVjUJUHDn4ISK1PqEnEbyF4gA+t7FdVmKkrP0WPomz8H9mcM6ruon2GusaLPU0C8d0b+o97tHjb3veSjwkCBQIqj0u5qDfJnDBlTw0w59ng/i2GmH99ANBdGBSr10ua+oDzY06hToOaTtdloAFdk7//wdTNPganYxIwixFPWNQDWXcmdf3J6bUK4laUREX448Zs0S9bF9SogvSzY+0OueTi68H5fzAWZYd5vSL6u1xHw+d1818Ko+9v4A+nYPlWmRNB2pKSGMxTgM/mh24rzI35NemSali6q11FSU=;Dq1IQsjPhm2q+miQhwjIMw=="
+secured: "7iVAX7dVUi26+23Gv1L8dv04XH0n6S0h3Ld35k5UBDmZab2SuUfIhy00bfQ7mB1/qd+a0ff1H4lnHkk2dDSsBVpaZ3L14p11wQ2VIxmH2YiSHkCtpbsLhSpU/rckf/G70qqtr0y0CHBIP72YuLeUF9Ng/9axAP+8Gqxad74UdqN9/3vTfTKSdMciOtZzdP+KFfI38F43Fl9uahsZud8GkZueeDzcPstmZWatlg0SfBZLS3rfhauhLjQo5+yeXx8L4ybpri5AgOIpJSc00yOsgxdUsKx0ZL1qWpW7YjMmTK9aqQmWF0zSJ9MthVmXwq1qwrN4L+rESR1CFPh3Mv6f2GiGDeEPYOG4/S/iGBw7Cts=;4sP1uLL0bbg1ODu+MgntZQ=="
 ---
 

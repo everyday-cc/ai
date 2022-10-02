@@ -7,7 +7,7 @@ originalUrl: "https://www.aviationpros.com/aircraft/defense/news/21282057/former
 webUrl: "https://www.aviationpros.com/aircraft/defense/news/21282057/former-chicago-college-student-convicted-of-spying-for-chinese-intelligence-service"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -22,36 +22,6 @@ images:
     width: 1200
     height: 627
     isCached: true
-
-related:
-  - title: "Chinese automaker Chery invests in chipmaker Horizon Robotics"
-    excerpt: "Chinese carmaker Chery has announced a strategic funding agreement for domestic chip powerhouse Horizon Robotics, as part of a collaboration to roll out"
-    publishedDateTime: 2022-09-27T09:00:00Z
-    webUrl: "https://technode.com/2022/09/27/chinese-automaker-chery-invests-in-chipmaker-horizon-robotics/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 54
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
-        isCached: true
-  - title: "Chery Signals AI and Self-Driving Car Ambitions"
-    excerpt: "Chinese state-owned carmaker Chery Automobile Co. Ltd. recently took two major steps signaling ambitious plans for high-end new-energy vehicles and driverless technology, industry insiders said. Artificial intelligence chip startup Horizon Robotics said Monday that it received a strategic investment from Chery."
-    publishedDateTime: 2022-09-27T19:21:00Z
-    webUrl: "https://www.caixinglobal.com/2022-09-28/chery-signals-ai-and-self-driving-car-ambitions-101945584.html"
-    type: article
-    provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 39
-    images:
-      - url: "https://img.caixin.com/2022-09-28/166430641399379_560_373.jpg"
-        width: 560
-        height: 373
-        isCached: true
 
 secured: "/UU8qW6ViYnNCobt/gKV0WTWpx1517jA5dTzYx3ug7fMElJZlgiMNTi3J8jg80jBquwJk/kf86H0ev2Gaf5wSXSeAZPXrWR+0ksrY5WwaOE7lZWSnSiL8gCv5rssBagqBLQn4FSCP9TyO+GNDPSMKJ3mRi5czS7az9PIyLJ/gq5OkSX7dTy9sftZ/ISfzMSvzj3qxa2W+RMc/rIY61FuS6sJE7leXxGEbMGXJqbYUoxHvU8MBigjerYK1N50aj9Z7RFsqrjS7KmcWHz7yEB8kG60EYRt25WXHpMbbNn+CrpdxB3c3cuBW/ppWDvcu4LzTktM/TOHIKCp7u8hR6q44EgxhFuOAHHYa7XY00pE1Bg=;T3GpqZUiRO0MZhiO6G0F4g=="
 ---

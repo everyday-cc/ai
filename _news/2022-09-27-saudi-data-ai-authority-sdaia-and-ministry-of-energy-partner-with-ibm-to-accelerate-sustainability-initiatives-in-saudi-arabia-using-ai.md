@@ -2,17 +2,14 @@
 category: news
 title: "Saudi Data, AI Authority (SDAIA) and Ministry of Energy Partner with IBM to Accelerate Sustainability Initiatives in Saudi Arabia Using AI"
 excerpt: "RIYADH, Saudi Arabia and ARMONK, N.Y., Sept. 27, 2022 /PRNewswire/ -- Saudi Data and Artificial Intelligence Authority (SDAIA) and IBM (NYSE: IBM) announced today the signing of a strategic ..."
-publishedDateTime: 2022-09-27T04:05:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-09/57151478-saudi-data-ai-authority-sdaia-and-ministry-of-energy-partner-with-ibm-to-accelerate-sustainability-initiatives-in-saudi-arabia-using-ai-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2022-09/57151478-saudi-data-ai-authority-sdaia-and-ministry-of-energy-partner-with-ibm-to-accelerate-sustainability-initiatives-in-saudi-arabia-using-ai-008.htm"
+publishedDateTime: 2022-09-27T04:26:00Z
+originalUrl: "https://www.kxan.com/business/press-releases/cision/20220927NY84344/saudi-data-ai-authority-sdaia-and-ministry-of-energy-partner-with-ibm-to-accelerate-sustainability-initiatives-in-saudi-arabia-using-ai/"
+webUrl: "https://www.kxan.com/business/press-releases/cision/20220927NY84344/saudi-data-ai-authority-sdaia-and-ministry-of-energy-partner-with-ibm-to-accelerate-sustainability-initiatives-in-saudi-arabia-using-ai/"
 type: article
-quality: 5
-heat: 5
-published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: KXAN
+  domain: kxan.com
 
 topics:
   - IBM AI
@@ -24,6 +21,6 @@ images:
     height: 209
     isCached: true
 
-secured: "eRSMxeZJuayPob6gScJMx0y6QXcUEfpJ5ve0OJsTrAq8foq3zRHtZrrF3bTxq3BcMKs/relwf6V4fEyYfWq/mSzA2JJCUGZscCgF2H4adJeQN674dYv+UmYxMbs+/6/+khSWcveq05njo4pW5UEQ4LO9daz9gi5yg9t4dBzj6dwuh+s0vEpOd/GK5HjmVF6aAeeruYfUs7nrBi7BB1t1rhaZ7rQ3PVWVuZ2+EYZIoC6k2nBJLxuAA4TGdGPevDPlpx+AdjoJru94LC7jncmZHgU0gj0OdyPj+CpLQcvANs0HbLDcfFTkkZet1L+2slebjtwaxNo+wLjNbADTnqt+CTHU2gQH3BmZdzDv0oFJKUA=;cZbBI0zqiytsJQDB5l3i3g=="
+secured: "yaa2CbezwAormjrsaNGYl7s2elj13fKEAOpW3gyKUwLDhMGKjRe40+JB+sanYtNwSdlu2u2jyyoUxNq8eSL45KmYJsD87u0Xn9vXBicMiYZKZ9wYt0wOqQ5AqUkXHCUKoXgJ3tT27tduH4Y8kJzeS7pyaZMLIrnjDA0v+mliur/lZhMpZDY6DNpXWzL9mdCDd0bp1PyOjO17sK4D6mv+fyrOu0P0LAtBcTTh/qsklhlyImTtf7b9zZvNnwBSLQ0iUzKjNh06jnJ8Y651D8sUlfvHZW4kUmgWLFcv9ucUa/1o34bBlKAGrX7jf5ugvHEjygx9e/6vTmMG2PVTx2MBErL72BdlgFRBKS289B9wFbs=;YPNOctaPE+jJsmNNYdBvlg=="
 ---
 

@@ -246,6 +246,58 @@
       ]
     },
     {
+      "path": "_news/2022-09-28-facial-recognition-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2027.md",
+      "title": "Facial Recognition Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2027",
+      "excerpt": "The global Facial Recognition market size was valued at USD 3975.52 million in 2021 and is expected to expand at a CAGR",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2027-2022-09-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2027-2022-09-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T21:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-28-the-j7-is-irobots-first-two-in-one-vacuum-and-mop-combo.md",
       "title": "The j7+ is iRobot’s first two-in-one vacuum and mop combo",
       "excerpt": "Robot has revealed the Roomba Combo j7+, a premium robot vacuum featuring a retractable mop that allows it to both mop and vacuum without input from the user.",
@@ -489,6 +541,60 @@
       ]
     },
     {
+      "path": "_news/2022-09-27-why-advances-in-neural-3d-rendering-arent-reaching-the-market.md",
+      "title": "Why advances in neural 3D rendering aren’t reaching the market",
+      "excerpt": "Neural 3D rendering uses optics and linear algebra to potentially meet the demand for efficient 3D images for the hyperrealistic metaverse.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/whats-keeping-advances-neural-3d-rendering-from-market/",
+      "originalUrl": "https://venturebeat.com/ai/whats-keeping-advances-neural-3d-rendering-from-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1332177687-e1651777358698.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/whats-keeping-advances-neural-3d-rendering-from-market/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/whats-keeping-advances-neural-3d-rendering-from-market/amp/",
+      "publishedDateTime": "2022-09-26T15:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-09-25-samsung-patents-dual-under-display-camera-system-for-facial-recognition.md",
       "title": "Samsung patents dual under-display camera system for facial recognition",
       "excerpt": "Samsung specifically mentions using under-display cameras, though, which is interesting in its own right. Up until now, the Korean giant has more or less just experimented with the technology on its Galaxy Fold line without a broader release.",
@@ -534,17 +640,17 @@
     {
       "path": "_news/2022-09-23-cac-corporation-integrates-cyberlinks-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned-ministop-store.md",
       "title": "CAC Corporation integrates CyberLink’s FaceMe Facial Recognition into the POS terminals of their Unmanned Ministop Store",
-      "excerpt": "CyberLink Corp., a pioneer of AI and facial recognition technologies, has collaborated with CAC Corporation (CAC) to integrate its AI facial recognition engine, FaceMe®, into CAC’s facial recognition payment system.",
+      "excerpt": "To create a facial recognition payment system that requires nothing more than the end user’s face, CAC turned to CyberLink’s AI facial recognition engine, FaceMe. Deployed in February of 2022, CAC introduced the technology to 1,",
       "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/cac-corporation-integrates-cyberlink-s-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned/article_f876d4e4-cb22-5d25-b4f7-c204fc4b5f35.html",
-      "originalUrl": "https://www.eagletribune.com/region/cac-corporation-integrates-cyberlink-s-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned/article_f876d4e4-cb22-5d25-b4f7-c204fc4b5f35.html",
+      "webUrl": "https://www.bakersfield.com/ap/news/cac-corporation-integrates-cyberlink-s-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned/article_7c7083e5-99f9-5d65-bd3b-ca35044ee287.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/cac-corporation-integrates-cyberlink-s-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned/article_7c7083e5-99f9-5d65-bd3b-ca35044ee287.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/b9/6b9f3a71-3a95-545f-8973-122bb5830ac1/632daf1034eb3.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/f/28/f286b12f-3fe7-50cc-8a5e-dd9d06e8467f/632daf1aafc04.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -559,8 +665,8 @@
       "publishedDateTime": "2022-09-23T06:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1328,103 +1434,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-the-creepy-problem-killing-ai-projects.md",
-      "title": "The Creepy Problem Killing AI Projects",
-      "excerpt": "But once you get into animatronics or the Sophia robot where they are trying to look and act human, they start to fall into the uncanny valley where many people find them to be creepy and are uncomfortable around them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/17/the-creepy-problem-killing-ai-projects/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/17/the-creepy-problem-killing-ai-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/631f82356d7f993699fe5860/0x0.jpg?format=jpg&crop=1782,1003,x338,y72,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/17/the-creepy-problem-killing-ai-projects/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/09/17/the-creepy-problem-killing-ai-projects/amp/",
-      "publishedDateTime": "2022-09-17T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-sambanova-doubles-up-chips-to-chase-ai-foundation-models.md",
-      "title": "SambaNova Doubles Up Chips To Chase AI Foundation Models",
-      "excerpt": "One of the first tenets of machine learning, which is a very precise kind of data analytics and statistical analysis, is that more data beats a better",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2022/09/17/sambanova-doubles-up-chips-to-chase-ai-foundation-models/",
-      "originalUrl": "https://www.nextplatform.com/2022/09/17/sambanova-doubles-up-chips-to-chase-ai-foundation-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/09/sambanova-cardinal-sn30-logo.jpg",
-          "width": 1227,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2022/09/17/sambanova-doubles-up-chips-to-chase-ai-foundation-models/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/09/17/sambanova-doubles-up-chips-to-chase-ai-foundation-models/amp/",
-      "publishedDateTime": "2022-09-16T22:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

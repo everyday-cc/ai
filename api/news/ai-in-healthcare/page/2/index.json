@@ -2,40 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-09-09-upmc-leverages-artificial-intelligence-to-improve-breast-cancer-treatment.md",
-      "title": "UPMC Leverages Artificial Intelligence to Improve Breast Cancer Treatment",
-      "excerpt": "Researchers from UPMC Hillman Cancer Center have partnered with Realyze Intelligence to utilize artificial intelligence to improve treatment options for breast cancer patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthitanalytics.com/news/upmc-leverages-artificial-intelligence-to-improve-breast-cancer-treatment",
-      "originalUrl": "https://www.healthitanalytics.com/news/upmc-leverages-artificial-intelligence-to-improve-breast-cancer-treatment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/news/amp/upmc-leverages-artificial-intelligence-to-improve-breast-cancer-treatment",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/upmc-leverages-artificial-intelligence-to-improve-breast-cancer-treatment",
-      "publishedDateTime": "2022-09-08T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-08-combatting-drug-diversion-with-artificial-intelligence.md",
       "title": "Combatting Drug Diversion With Artificial Intelligence",
       "excerpt": "One that became exasperated by the hardships of Covid-19 and led to over 200,000 deaths in 2020 and 2021 combined: drug abuse. Despite being on a steady decline since 2017, overdoses increased 30% from 2019 to 2020 and 15% from 2020 to 2021,",
@@ -1369,6 +1335,59 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-the-benefits-of-artificial-intelligence.md",
+      "title": "The Benefits of Artificial Intelligence",
+      "excerpt": "Artificial intelligence benefits are realized across many sectors, from robotic process automation to self-driving cars to AI-powered data analytics platforms. Across the world of enterprise and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/enterprise-apps/benefits-of-artificial-intelligence/",
+      "originalUrl": "https://www.eweek.com/enterprise-apps/benefits-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-Database-05-1088x725-1.jpg",
+          "width": 1088,
+          "height": 725,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/opinion/opinion-the-rise-of-the-robots-just-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/opinion-the-rise-of-the-robots-just-cannot-be-stopped?_amp=true"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 840
     height: 438
     isCached: true
-
-related:
-  - title: "Opinion: Robots may not be coming for your job – but they are coming"
-    excerpt: "In 2017, a website sprung up to answer a question long on the minds of many: Will robots take my job? The creators based it on Bureau of Labor Statistics data and a 2013 research paper from Oxford University about \"the susceptibility of jobs to computerization."
-    publishedDateTime: 2022-09-27T09:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/09/27/opinion-robots-may-not-be-coming-for-your-job---but-they-are-coming"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/09/27/1753538.jpg"
-        width: 1240
-        height: 827
-        isCached: true
 
 secured: "TyaxvGviGDkYYoAjiSZsPZzk7Yh7bkRa0VhaBx3FjxUV4vODmJDE44v9b0h6VW3RBuDx5bSHGdNMAstH2DLMtCCOfKI6evU+7VvvCiAP0fZ6SzdM5ZaYLoxLNp+tQ/0c1ksclL0s9hK3RAXthuy6xTAziReZNolznBefCj+0M/wD2OPjl49fnShpx8ttcVb+CkOErF4Aa4xvCvHHQqNes52Ui3lzT/JF4cRJjdj094hz+0sgVpAR4g/Kn+uM5HfroZCEYVTderQmiXjAPoSoHGveIoYT5Zcno6Azg1q3/VFL8mVXTgscYpGgJNA88c70Vndb+0T+2v2b2YELAf8tiw3qsQZ4ucBzXdE8y/VCj85B7kJ77AAY1W+EQkcekcHbViei1Axbi45IdAJEEX3ZTwnfhZ0Um3QqEDy8mBs5rNFH4BdvurCchb9puGP2+6F+gmI6KiD2Qj85jywue/qo0Tv09oq5qosMCJiGalbqv1/2RxuBksqbk/emEsdQYUzDqdHFxtWDhTP33f/Sl7SpWw==;hu5v688uV+8/faA8dcccdg=="
 ---

@@ -2,6 +2,197 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-09-26-radical-research-advance-to-boost-biotech-industrys-health.md",
+      "title": "Radical Research Advance To Boost Biotech Industry’s Health",
+      "excerpt": "The London, U.K.-based firm used AI algorithms to successfully predict the three-dimensional shapes proteins would take as they folded organically. It was a monumental advance in the field of biotechnology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jonmarkman/2022/09/26/radical-research-advance-to-boost-biotech-industrys-health/",
+      "originalUrl": "https://www.forbes.com/sites/jonmarkman/2022/09/26/radical-research-advance-to-boost-biotech-industrys-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6331bceeaefe48e8587d2c2f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1203,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jonmarkman/2022/09/26/radical-research-advance-to-boost-biotech-industrys-health/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2022/09/26/radical-research-advance-to-boost-biotech-industrys-health/amp/",
+      "publishedDateTime": "2022-09-26T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-26-compared-to-hex-coin-and-vechain-feed3-provides-artificial-intelligence.md",
+      "title": "Compared to Hex Coin and VeChain, Feed3 Provides Artificial Intelligence",
+      "excerpt": "The next big innovation, Feed (FD3) will remake the web and digital world well. This will happen by permitting users to possess and maintain their data while working in a domain that is decentralized,",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/brand-stories/compared-to-hex-coin-and-vechain-feed3-provides-artificial-intelligence-11664200182119.html",
+      "originalUrl": "https://www.livemint.com/brand-stories/compared-to-hex-coin-and-vechain-feed3-provides-artificial-intelligence-11664200182119.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/09/26/600x338/08_1664200579673_1664200579839_1664200579839.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/brand-stories/compared-to-hex-coin-and-vechain-feed3-provides-artificial-intelligence/amp-11664200182119.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/compared-to-hex-coin-and-vechain-feed3-provides-artificial-intelligence/amp-11664200182119.html",
+      "publishedDateTime": "2022-09-26T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-26-augnito-records-rapid-growth-in-uk-clinical-speech-recognition-deployments-in-first-year-of-sales.md",
+      "title": "Augnito records rapid growth in UK clinical speech recognition deployments (in first year of sales)",
+      "excerpt": "Radiology departments have been the early adopters and pioneers of speech recognition technology to accommodate the ever-increasing levels of a wide variety of diagnostic reporting and the ever ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wdtn.com/business/press-releases/ein-presswire/592436200/augnito-records-rapid-growth-in-uk-clinical-speech-recognition-deployments-in-first-year-of-sales/",
+      "originalUrl": "https://www.wdtn.com/business/press-releases/ein-presswire/592436200/augnito-records-rapid-growth-in-uk-clinical-speech-recognition-deployments-in-first-year-of-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.wdtn.com/wp-content/uploads/sites/45/2022/10/DAYTON-DRAKE-FB.jpg?w=2000&#038;ssl=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-26T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WDTN",
+        "domain": "wdtn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-09-26-machine-learning-infrastructure-as-a-service-market-size-share-and-forecast-till-2031.md",
+      "title": "Machine Learning Infrastructure As A Service Market Size, Share and Forecast till 2031",
+      "excerpt": "The Machine Learning Infrastructure as a Service Market has encountered significant development over the recent years",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-infrastructure-as-a-service-market-size-share-and-forecast-till-2031-2022-09-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-infrastructure-as-a-service-market-size-share-and-forecast-till-2031-2022-09-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-26T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-09-26-labrador-uranium-provides-exploration-and-machine-learning-update-continuing-to-add-targets.md",
       "title": "Labrador Uranium Provides Exploration and Machine Learning Update: Continuing to Add Targets",
       "excerpt": "The goal of the current drilling program is two-fold: 1) to test the extent of the known historical uranium deposits/resources; and 2) to zero-in on conceptual Uranium and IOCG (Iron Oxide Copper-Gold) targets derived from LUR’s Machine Learning Program.",
@@ -1015,199 +1206,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-24-why-deepmind-isnt-deploying-its-new-ai-chatbot.md",
-      "title": "Why DeepMind isn’t deploying its new AI chatbot",
-      "excerpt": "DeepMind’s new AI chatbot, Sparrow, is being hailed as an important step towards creating safer, less-biased machine learning systems, thanks to its application of reinforcement learning based on input from human research participants for training.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/",
-      "originalUrl": "https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-164848239.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-deepmind-isnt-deploying-its-new-ai-chatbot/amp/",
-      "publishedDateTime": "2022-09-23T12:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-24-7-ai-startups-aim-to-give-retailers-a-happy-holiday-season.md",
-      "title": "7 AI startups aim to give retailers a happy holiday season",
-      "excerpt": "These are seven of the hottest AI startups that are helping retailers meet their holiday goals and customer demands.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/7-ai-startups-aim-to-give-retailers-a-happy-holiday-season/",
-      "originalUrl": "https://venturebeat.com/ai/7-ai-startups-aim-to-give-retailers-a-happy-holiday-season/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1352745076.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/7-ai-startups-aim-to-give-retailers-a-happy-holiday-season/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/7-ai-startups-aim-to-give-retailers-a-happy-holiday-season/amp/",
-      "publishedDateTime": "2022-09-23T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-24-tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch.md",
-      "title": "Tesla AI Day Brings Optimus Robot, Self-Driving Car Updates: Here's How to Watch",
-      "excerpt": "Tesla is hiring engineers to build a walking, talking robot called Optimus. Expect Elon Musk to update us on steps toward self-driving cars, too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/",
-      "publishedDateTime": "2022-09-23T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-24-sedai-joins-aws-isv-accelerate-program.md",
-      "title": "Sedai Joins AWS ISV Accelerate Program",
-      "excerpt": "SAN FRANCISCO–(BUSINESS WIRE)–#SRE–Sedai, the autonomous cloud management platform, has announced today that it has been accepted into the Amazon Web Services (AWS) Independent Software Vendor (ISV) Accelerate Program, a co-sell program for AWS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/sedai-joins-aws-isv-accelerate-program/",
-      "originalUrl": "https://www.01net.it/sedai-joins-aws-isv-accelerate-program/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-23T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

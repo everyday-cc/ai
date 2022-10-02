@@ -2,6 +2,178 @@
   "page": 180,
   "value": [
     {
+      "path": "_news/2022-05-13-google-io-2022-googles-artificial-intelligence-and-machine-learning-breakthroughs-explained.md",
+      "title": "Google I/O 2022: Google’s artificial intelligence and machine learning breakthroughs, explained",
+      "excerpt": "... where a machine learning model only sees monolingual text – meaning, it learns to translate into another language without ever seeing an example. However, the company noted that the technology is not perfect and it would keep improving these models.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/explained/google-io-conference-artificial-intelligence-machine-learning-tools-explained-7914867/",
+      "originalUrl": "https://indianexpress.com/article/explained/google-io-conference-artificial-intelligence-machine-learning-tools-explained-7914867/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2022/05/google.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/explained/google-io-conference-artificial-intelligence-machine-learning-tools-explained-7914867/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/google-io-conference-artificial-intelligence-machine-learning-tools-explained-7914867/lite/",
+      "publishedDateTime": "2022-05-12T22:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-editorial-513-facial-recognition-software-use-raises-concerns.md",
+      "title": "Editorial, 5/13: Facial recognition software use raises concerns",
+      "excerpt": "Lincoln police have used facial recognition software from the state Department of Motor Vehicles to help identify 23 possible suspects in crimes as varied as shoplifting, burglary and",
+      "sourceUrl": null,
+      "webUrl": "https://journalstar.com/opinion/editorial/editorial-5-13-facial-recognition-software-use-raises-concerns/article_a130b3a5-6003-5c1b-9b43-36a85ae0e603.html",
+      "originalUrl": "https://journalstar.com/opinion/editorial/editorial-5-13-facial-recognition-software-use-raises-concerns/article_a130b3a5-6003-5c1b-9b43-36a85ae0e603.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/5/4e/54e4fc76-17c8-55b6-b532-351a4ac46bb0/5f011cb378336.image.jpg?resize=496%2C320",
+          "width": 496,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://journalstar.com/opinion/editorial/editorial-5-13-facial-recognition-software-use-raises-concerns/article_a130b3a5-6003-5c1b-9b43-36a85ae0e603.amp.html",
+      "cdnAmpWebUrl": "https://journalstar-com.cdn.ampproject.org/c/s/journalstar.com/opinion/editorial/editorial-5-13-facial-recognition-software-use-raises-concerns/article_a130b3a5-6003-5c1b-9b43-36a85ae0e603.amp.html",
+      "publishedDateTime": "2022-05-12T21:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lincoln Journal Star",
+        "domain": "journalstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-a1-weeds-out-invasive-overgrowth-with-azure-devops-for-nsw-dpi.md",
+      "title": "A1 weeds out invasive overgrowth with Azure DevOps for NSW DPI",
+      "excerpt": "The solution on Azure enabled NSW DPI to take advantage of Azure machine learning to identify weeds and weed patterns from images uploaded by the community throughout Australia. Azure DevOps ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/698115/a1-weeds-invasive-overgrowth-azuredevops-nsw-dpi/",
+      "originalUrl": "https://www.arnnet.com.au/article/698115/a1-weeds-invasive-overgrowth-azuredevops-nsw-dpi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_4669449.jpg",
+          "width": 470,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-12T21:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-pair-programming-driven-by-programming-language-generation.md",
+      "title": "Pair programming driven by programming language generation",
+      "excerpt": "We are now seeing the evolution of intelligent systems that can understand an objective, comprehend context and generate code.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/19/pair-programming-driven-by-programming-language-generation/",
+      "originalUrl": "https://venturebeat.com/2022/05/19/pair-programming-driven-by-programming-language-generation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-12T21:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-13-us-civil-rights-enforcers-warn-employers-about-using-biased-ai.md",
       "title": "U.S. Civil Rights Enforcers Warn Employers About Using Biased AI",
       "excerpt": "The use of AI is compounding the longstanding discrimination that jobseekers with disabilities face,” Assistant Attorney General Kristen Clarke told reporters Thursday.",
@@ -1000,188 +1172,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-axel-gern-to-head-torc-robotics-technology-and-development-center-in-europe.md",
-      "title": "Axel Gern to head Torc Robotics Technology and Development Center in Europe",
-      "excerpt": "Torc Robotics has tapped Axel Gern, a long-time leader in truck automation, to head its recently opened Torc Europe GmbH engineering facility in Stuttgart, Germany. Gern has been named senior vice president of engineering and managing director for Torc Europe at the technology and software development center.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-germany-robotics-stuttgart-1379d550151bb0bf179fe934141a93f8",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-germany-robotics-stuttgart-1379d550151bb0bf179fe934141a93f8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit.md",
-      "title": "Texans can no longer use certain Instagram filters due to facial recognition lawsuit",
-      "excerpt": "Certain filters on Instagram are no longer available in Texas thanks to a lawsuit about facial recognition, according to media reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/",
-      "originalUrl": "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/GX4BH4B37BCFJFBLF6R4SWPM2Y.jpg?_a=ATAK9d60",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/?outputType=amp",
-      "publishedDateTime": "2022-05-12T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSAT",
-        "domain": "ksat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-ai-fintech-tifin-raises-109-million-series-d.md",
-      "title": "AI Fintech TIFIN Raises $109 Million Series D",
-      "excerpt": "TIFIN has raised $109 million in Series D funding at a valuation of $842 million. TIFIN shared that Franklin Resources (NYSE: BEN) and Motive Partners, have",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/05/190986-ai-fintech-tifin-raises-109-million-series-d/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/05/190986-ai-fintech-tifin-raises-109-million-series-d/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/Machine-Learning-Computer-AI-Artificial-Intelligence.jpeg",
-          "width": 1146,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/05/190986-ai-fintech-tifin-raises-109-million-series-d/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/05/190986-ai-fintech-tifin-raises-109-million-series-d/amp/",
-      "publishedDateTime": "2022-05-12T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-data-driven-fintech-tifin-valued-at-842m-in-new-109m-series-d-round.md",
-      "title": "Data-driven fintech TIFIN valued at $842M in new $109M Series D round",
-      "excerpt": "TIFIN brought in $109 million in fresh funding to bring its tech to the wealth and asset management industries",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/12/data-driven-fintech-tifin-valued-at-842m-in-new-109m-series-d-round/",
-      "originalUrl": "https://techcrunch.com/2022/05/12/data-driven-fintech-tifin-valued-at-842m-in-new-109m-series-d-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1153689483.jpg?w=1024",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/12/data-driven-fintech-tifin-valued-at-842m-in-new-109m-series-d-round/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/12/data-driven-fintech-tifin-valued-at-842m-in-new-109m-series-d-round/amp/",
-      "publishedDateTime": "2022-05-12T05:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

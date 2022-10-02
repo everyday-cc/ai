@@ -500,18 +500,18 @@ related:
         height: 428
         isCached: true
   - title: "Tesla, Elon Musk show off early prototype 'Optimus' robot"
-    excerpt: "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company's artificial intelligence event Friday."
-    publishedDateTime: 2022-10-01T23:20:00Z
-    webUrl: "https://www.cbs8.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-    ampWebUrl: "https://www.cbs8.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-    cdnAmpWebUrl: "https://www-cbs8-com.cdn.ampproject.org/c/s/www.cbs8.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+    excerpt: "But the basic tasks by the robot with exposed wires and electronics — as well as a later, next generation version that had to be carried onstage by three men — was a long way from CEO Elon Musk's vision of a human-like robot that can change the world."
+    publishedDateTime: 2022-10-01T23:58:00Z
+    webUrl: "https://www.thv11.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+    ampWebUrl: "https://www.thv11.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+    cdnAmpWebUrl: "https://www-thv11-com.cdn.ampproject.org/c/s/www.thv11.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
     type: article
     provider:
-      name: CBS News 8
-      domain: cbs8.com
+      name: KTHV
+      domain: thv11.com
     quality: 76
     images:
-      - url: "https://media.cbs8.com/assets/CCT/images/ee0a47a3-adbd-488e-b57b-07df25f393af/ee0a47a3-adbd-488e-b57b-07df25f393af_1140x641.jpg"
+      - url: "https://media.thv11.com/assets/CCT/images/ee0a47a3-adbd-488e-b57b-07df25f393af/ee0a47a3-adbd-488e-b57b-07df25f393af_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -672,6 +672,20 @@ related:
       - url: "https://menafn.com/updates/pr/2022-09/30/KT_22813image_story.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Elon Musk Shows Off Tesla’s Humanoid Robot Prototype"
+    excerpt: "Elon Musk showcased a humanoid robot prototype whose nickname is Optimus or the Tesla Bot. Mr. Musk plans to make millions by selling the robot in near future for a price tag of $20,000. During the event,"
+    publishedDateTime: 2022-10-01T13:10:00Z
+    webUrl: "https://www.techworm.net/2022/10/elon-musk-shows-off-teslas-humanoid-robot-prototype.html"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
+    quality: 56
+    images:
+      - url: "https://www.techworm.net/wp-content/uploads/2022/10/TESLA-BOT.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Tesla AI Day: Here’s what to expect"
     excerpt: "By Matt McFarland, CNN Business Tesla will hold its second annual AI Day in Palo Alto, California, Friday evening. The six-hour event will include updates on Tesla’s work in artificial intelligence, “Full Self-Driving,"
