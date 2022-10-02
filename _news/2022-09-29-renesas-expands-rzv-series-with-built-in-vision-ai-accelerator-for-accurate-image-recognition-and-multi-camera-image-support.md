@@ -2,28 +2,19 @@
 category: news
 title: "Renesas Expands RZ/V Series with Built-in Vision AI Accelerator for Accurate Image Recognition and Multi-Camera Image Support"
 excerpt: "Renesas Electronics Corporation (TSE: 6723), a premier supplier of advanced semiconductor solutions, has expanded its AI-capable RZ/V Series of microprocessors (MPUs), with a new device that enables AI processing of image data from multiple cameras,"
-publishedDateTime: 2022-09-29T12:02:00Z
-originalUrl: "https://www.eagletribune.com/region/renesas-expands-rz-v-series-with-built-in-vision-ai-accelerator-for-accurate-image-recognition/article_2d84ad82-f621-5631-9280-e3a8b5eeb6d0.html"
-webUrl: "https://www.eagletribune.com/region/renesas-expands-rz-v-series-with-built-in-vision-ai-accelerator-for-accurate-image-recognition/article_2d84ad82-f621-5631-9280-e3a8b5eeb6d0.html"
+publishedDateTime: 2022-09-29T13:59:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/09/29/9683183.htm"
+webUrl: "https://it.tmcnet.com/news/2022/09/29/9683183.htm"
 type: article
-quality: 12
-heat: 12
-published: false
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/5d/65dd4c6f-976e-58ce-8abd-138e93c4dcfe/633589f4c4dee.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "CdiSI+bcOe0vKlJth7W4OiyumHjazcRJwLDalNVaEcgUZ1gXm2SMt1+Ld4oLvBzGMIFBeORmODXO4DnLQoguFQfBv93IaFVxeXkwj053ulFW3KloTjeE3Y+7rRdttDpI/2SydpYUxaPI7PfX4jJXUqXzAv/QyWpGWXuz13UdSwxiVxz2jfWSWA/Sf1UJGHpJgr1bDcI+vsPRdXf7EASgHQhN2l/jrpPtok71yzfy5qpBM4IDtYWIX6mjGDD6MXOlnAisstDMNfDQggZgEQ1Rczng1rvg5ggNRI38MzIj6L3mFWfPC83DlJcKob1+RnCPGRd0Kxlqczdzi7ssUEhUNUb0i8/XKp8SDG10KyxnCIgfDD8F1qm6R7E+IOxkxLOqEjUdp6yQR1VIN56dQdQw5iGp0XfGosI6p+l0qV/O4RH6pobXuV4Acm/9nLBITteLxnXlotSaK9OdwuoxtpejMLsakzN7C3uqnBX/UzFsHHIV/82BOwojD4N6Q8DULaVTLkYaCIZqcFBQRoLEoSYI5A==;K0Fhi7SXm64ZgOJ8giOCnw=="
+secured: "6R1KzyXIpcQqneHrH30FQfpCZKizNL+oWvjLI6HSlYf6dWZI9Z0j+5yxsFnrIbYtXmIod+BilK2aIW+5ADiRk4+4pYe6F8vXVWRcq1K+eKTNGoy1gZO20yajSigYEA+MNVcknJdNSVUg/aRDDDee6jJXhQ0h96MT2RlwAJkWFFzW2yWPYzOAcNDTu/Lu3pK+NY7U1XX3xCAsCS0PlQ+R8GdXSriLTvf4ipZMZ6bwL28VJ6bLc2fo2mnzGvdOLI+HZAWIofG5DMFRveLzVDK3UqRN+ETKVvCb2e+pBYPTD6v/h8TcUqGcJjzSpWBSrMz+LRlcEJ0KmsgJrjOfhkoN2zQZBvI/oH2HxI6px/QbN9g=;XeIbRlAdXX0AsrKbu7zDjQ=="
 ---
 
