@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "House bill limits police use of facial recognition"
+    excerpt: "The legislation would place “strong limits” on the technology’s use, provide transparency to those harmed by it and ensure there are annual assessments of its accuracy."
+    publishedDateTime: 2022-09-30T21:07:00Z
+    webUrl: "https://gcn.com/emerging-tech/2022/09/house-bill-limits-police-use-facial-recognition/377921/"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: "https://cdn.gcn.com/media/img/cd/2022/09/30/09292022_teale_facialrecognition/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "Cm0sV05wvRHTcqWyqSQ584qBs/1DF9IfFYITAkqkiCTb6GRgRWN2N/WZaqzyHDiASMo7IcnN1lNRfymaUJOYV7NpKc8rLFWeOItTrQIbu0kgJ/D9WLBfaY4m/y1KAAmL6zmIfUTbZlmR0pGG1TaGAq8sMa8HpOhCneOelqmcCUMnc3q1cFDQPnN9PxasGmZGsoO/VjVha5d2mfwUsILXTxxbk2TLLQAeJRF+RoCUDaqca9ghFHUrSQ8V+b05pTABrxPu2aVGL215d3zSCJPqi+30OgCoh44lCRD3LbIGbyLqP6DjbOxWyMexvtTCg6lryLAlnS4CtjvBweZOcQqUj5lbh32zfdvkdkMxDzHMl8NVqjjim0ppkbLR3VWo+zuQvqi7eHqIw3LMP/suopFkaHQqM/C5knlB+k06nmW2PC4ZAJwvbHutk05/WorK6jDl6D1Q4Qve15fuv7Pnm3pFHbc46UCzIi+LrkvChChr32cr8nbTL6g682PCkT+prS/IVDQ4aYqLt98N9Zw5YcylyA==;zfoLXtjdiZAQJbko7WzHwQ=="
 ---

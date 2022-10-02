@@ -512,18 +512,18 @@ related:
         height: 428
         isCached: true
   - title: "Tesla, Elon Musk show off early prototype 'Optimus' robot"
-    excerpt: "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company's artificial intelligence event Friday."
+    excerpt: "But the basic tasks by the robot with exposed wires and electronics — as well as a later, next generation version that had to be carried onstage by three men — was a long way from CEO Elon Musk's vision of a human-like robot that can change the world."
     publishedDateTime: 2022-10-01T23:58:00Z
-    webUrl: "https://www.wkyc.com/article/tech/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-    ampWebUrl: "https://www.wkyc.com/amp/article/tech/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/tech/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+    webUrl: "https://www.wtsp.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+    ampWebUrl: "https://www.wtsp.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
     type: article
     provider:
-      name: WKYC3
-      domain: wkyc.com
+      name: WTSP
+      domain: wtsp.com
     quality: 76
     images:
-      - url: "https://media.wkyc.com/assets/CCT/images/ee0a47a3-adbd-488e-b57b-07df25f393af/ee0a47a3-adbd-488e-b57b-07df25f393af_1140x641.jpg"
+      - url: "https://media.wtsp.com/assets/CCT/images/ee0a47a3-adbd-488e-b57b-07df25f393af/ee0a47a3-adbd-488e-b57b-07df25f393af_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -627,6 +627,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
+  - title: "Here's How You Can Join Elon Musk's Tesla Empire"
+    excerpt: "A couple of days after demonstrating its prowess in artificial intelligence and future computing at its AI Day 2022 event, Elon Musk's Tesla has now lau"
+    publishedDateTime: 2022-10-02T10:30:00Z
+    webUrl: "https://www.albawaba.com/business/heres-how-you-can-join-elon-musks-tesla-empire-1493224"
+    ampWebUrl: "https://www.albawaba.com/amp/business/heres-how-you-can-join-elon-musks-tesla-empire-1493224"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/heres-how-you-can-join-elon-musks-tesla-empire-1493224"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 61
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-10/Fd9cVCnVUAAltMO.jpg?itok=6eOt1bR2"
+        width: 2048
+        height: 1536
+        isCached: true
   - title: "Elon Musk Showed Optimus Humanoid Robot Walking Without Assistance"
     excerpt: "Though the Optimus humanoid robot by Tesla is in the early development stage, Elon Musk proves it will change the world."
     publishedDateTime: 2022-10-01T11:45:00Z

@@ -1,30 +1,30 @@
 ---
 category: news
-title: "Tesla A.I. Day Is Coming. Expect High-End Computing, Self-Driving Cars, and Robots."
-excerpt: "High-end computing, neural networks, self-driving cars, and robots could come up at the car company's second annual event."
-publishedDateTime: 2022-09-29T12:32:00Z
-originalUrl: "https://www.barrons.com/articles/tesla-elon-musk-robot-artificial-intelligence-day-51664401265"
-webUrl: "https://www.barrons.com/articles/tesla-elon-musk-robot-artificial-intelligence-day-51664401265"
-ampWebUrl: "https://www.barrons.com/amp/articles/tesla-elon-musk-robot-artificial-intelligence-day-51664401265"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-elon-musk-robot-artificial-intelligence-day-51664401265"
+title: "Here's How You Can Join Elon Musk's Tesla Empire"
+excerpt: "A couple of days after demonstrating its prowess in artificial intelligence and future computing at its AI Day 2022 event, Elon Musk's Tesla has now lau"
+publishedDateTime: 2022-10-02T10:30:00Z
+originalUrl: "https://www.albawaba.com/business/heres-how-you-can-join-elon-musks-tesla-empire-1493224"
+webUrl: "https://www.albawaba.com/business/heres-how-you-can-join-elon-musks-tesla-empire-1493224"
+ampWebUrl: "https://www.albawaba.com/amp/business/heres-how-you-can-join-elon-musks-tesla-empire-1493224"
+cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/heres-how-you-can-join-elon-musks-tesla-empire-1493224"
 type: article
-quality: 70
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: Al Bawaba News
+  domain: albawaba.com
 
 topics:
-  - AI in Autos
+  - Machine Learning
   - AI
-  - AI in Robotics
+  - AI in Autos
 
 images:
-  - url: "https://images.barrons.com/im-631715/social"
-    width: 1280
-    height: 640
+  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-10/Fd9cVCnVUAAltMO.jpg?itok=6eOt1bR2"
+    width: 2048
+    height: 1536
     isCached: true
 
 related:
@@ -566,6 +566,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Tesla A.I. Day Is Coming. Expect High-End Computing, Self-Driving Cars, and Robots."
+    excerpt: "High-end computing, neural networks, self-driving cars, and robots could come up at the car company's second annual event."
+    publishedDateTime: 2022-09-29T12:32:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-elon-musk-robot-artificial-intelligence-day-51664401265"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-elon-musk-robot-artificial-intelligence-day-51664401265"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-elon-musk-robot-artificial-intelligence-day-51664401265"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 70
+    images:
+      - url: "https://images.barrons.com/im-631715/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Here’s what to expect at Tesla AI day"
     excerpt: "Tesla Inc's \"AI day\" is back, with investors hoping this time the electric-vehicle maker will show something other than a spandex-clad human mimicking"
     publishedDateTime: 2022-09-28T19:25:00Z
@@ -611,22 +627,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
-  - title: "Here's How You Can Join Elon Musk's Tesla Empire"
-    excerpt: "A couple of days after demonstrating its prowess in artificial intelligence and future computing at its AI Day 2022 event, Elon Musk's Tesla has now lau"
-    publishedDateTime: 2022-10-02T10:30:00Z
-    webUrl: "https://www.albawaba.com/business/heres-how-you-can-join-elon-musks-tesla-empire-1493224"
-    ampWebUrl: "https://www.albawaba.com/amp/business/heres-how-you-can-join-elon-musks-tesla-empire-1493224"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/heres-how-you-can-join-elon-musks-tesla-empire-1493224"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 61
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-10/Fd9cVCnVUAAltMO.jpg?itok=6eOt1bR2"
-        width: 2048
-        height: 1536
-        isCached: true
   - title: "Want to work for Tesla? Elon Musk tweets asking techies to join him"
     excerpt: "The job position open in Tesla offers multiple roles including building AI inference chips to run Full Self-Driving software, developing Dojo system, enhancing neural networks."
     publishedDateTime: 2022-10-02T06:36:00Z
@@ -789,6 +789,6 @@ related:
       domain: thesun.co.uk
     quality: 28
 
-secured: "XjyyrWc+aLvg6pKhapUgCpvSWQu20QL6ftmbr2EGrMvVAJ0Kief55vwnbgFHrwQ7zEX4u5PzVrE4NeATwGQgrSYN5oa5YYT3em8CyR+yfPz4HzGE7ffKysHKSwZb/FEXLqDOFUImFdglqw1WsuJK6PBQLt2t1ujRT8j+8FloC3/r3MbbZTmvFyB6dd7Y1QjcUnhTwHOfBOn0fVd6U6Pdhp88E7Boo+vJzEf4VKeMqDsqjEPBqMKrWS5E+HKSyVCoUpil91wA72XZ8bmZQ7z095KYSPmdgcA/o1PbLEQ4bw84b3q2klkT3SSGnoEj9TG1wms3NKtszEbo6o06kJeMWEPkPkw6SU8ktyknOOBaYkkZXief58YdLoSIt7ECdrSmtl4WtPlPH2/8cQIkQ8qWN7/9GW2kZAjQubi1ZvYVA8QMbxQgSg2L6aJIFdKgAb2469eBP0CxsD/ZNGzdXRtUUEmDcvySMKFq/NAANj3No0I2Mrb9+Pe2X1rhW4+5xc2qL+gFFuIZjN1VSFUwFs5/QA==;xIdSw+G3SLMMc+hww7KLjA=="
+secured: "Tq90b/NAN4VBc9VQrf1Rn4j6/tdJQN7AlDGYfa6VeB+c5pE6aRwPUQvHiBT8Y4EszdnxBNlh2WNzbCURAwqxRSudEmIAW/PJsEv2mR3YyCGDhBZHU7dZLo9yRaTtjjYFm3QK08gPfGpg9roKpZTpgtpJWgLiWmX7rhmvpBlLzq7aqlEQYbgB4gFcLr1rb54zjf+9G/WaeizkWsuIe4AE139QrfnbHSSw4ik2uQOAMqJu8LVVaEjVYZwnqjw9iLdCUvWp8ibnsVY36NvhPYfsrmIxgEOMghLlzF9G8F3nrbikAURl2h63oKXJfmkH1r+jtTbdy362Cjx1kpXEkzLwu2XbadvqvlhXvBT/5zpUQqo=;LchlIY5SgUpcZaOgeFnYgw=="
 ---
 

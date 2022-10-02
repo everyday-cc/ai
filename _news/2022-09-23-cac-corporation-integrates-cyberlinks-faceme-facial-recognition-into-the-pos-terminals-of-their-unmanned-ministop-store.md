@@ -3,24 +3,24 @@ category: news
 title: "CAC Corporation integrates CyberLink’s FaceMe Facial Recognition into the POS terminals of their Unmanned Ministop Store"
 excerpt: "CyberLink Corp., a pioneer of AI and facial recognition technologies, has collaborated with CAC Corporation (CAC) to integrate its AI facial recognition engine, FaceMe®, into CAC’s facial recognition payment system."
 publishedDateTime: 2022-09-23T13:03:00Z
-originalUrl: "https://www.eagletribune.com/region/cac-corporation-integrates-cyberlink-s-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned/article_f876d4e4-cb22-5d25-b4f7-c204fc4b5f35.html"
-webUrl: "https://www.eagletribune.com/region/cac-corporation-integrates-cyberlink-s-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned/article_f876d4e4-cb22-5d25-b4f7-c204fc4b5f35.html"
+originalUrl: "https://www.joplinglobe.com/region/national_business/cac-corporation-integrates-cyberlink-s-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned/article_1239e162-574d-5593-81dd-3fc17f538f3d.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/cac-corporation-integrates-cyberlink-s-faceme-facial-recognition-into-the-pos-terminals-of-their-unmanned/article_1239e162-574d-5593-81dd-3fc17f538f3d.html"
 type: article
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/b9/6b9f3a71-3a95-545f-8973-122bb5830ac1/632daf1034eb3.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/6b/c6ba7fcb-27e9-5b10-846c-2a6f7f40501c/632daf9f2647a.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
 
-secured: "HpbWeEzqRn7cWa7PEtRZD3mvoVIHAGkgriuaPOMLCDIRqTGrP7fPQ/20MP7A97smoRA7uAD0CpYpudF3glVlA3oyEfXeLShzfWiuvzHvRQloyn08hL7SDFff8p4K4hm3yFrn5CIl0rJjT3dCyegKtinPqDzcQDnxzqPzkbd32s+s22n0h0q+SC+33PZk6dL/naKxXlrHHghaEejbLOcWNuHcEddvY+xQERA+Fm2KJJQaYVR+mDSZbMgoQDu9jj6c84fN3ixKSVvJkVYUdhukRUvdhOKslYOhXAZeIw+UwxeUkOLnZOApP6kFPMpgHISjoOuSpYwk6jg4SpYHIIHS5X0NzuyYA//E164mq1TCvwtf6gBXYQ9QzBtIo0xvHNMHt3lDAtCPiLblg3KeyL9Qy3Py0akHcfGbjkDO+7SKVU+BNvTzKeSdsy5Ja9aUV9Od0XRxAvGPBmQExJ8h39ho9HkpVkj254TI4U0yn6fU991M4mV6G3aEVomFhakgYZ7mQwk/d8zkSjyWg4ZemuOryQ==;Kn5kq5MeTJLq3f/7+wWpVw=="
+secured: "55YbPurk1IPrhtoRujteUtTpzufDbcb4cTwmqGmpaH177PDvA+6v8VhQMKdcGCUClsUIFcW2018KNK9VsuqeTNyBoyse/pa+zLKFchUIZ2y62pluNEAZj4gjwpAhKuD1DMkc6yegXxwU3HYKMBxTvaAuT6YxqC1iX/EBepLmhZvE77BO/2Im7nJypypQCocyL7QCe3dMZPdwctSC7hFP4GQaRblxFHW4tHIaluEWzMiJQuCF9/oNvUEudOM6pLpFoNh8dMNaTAliMNd+qXX2WZ8+aBP1fysZO2uRS04NcdkVRYcH8U5DwZO0uR4BowPqBNaYE3TPaUEXSQsygg/ej0qL+hN3uP78wxO/eehNeIc=;rorpzahQakLPM0wMfNDmNA=="
 ---
 

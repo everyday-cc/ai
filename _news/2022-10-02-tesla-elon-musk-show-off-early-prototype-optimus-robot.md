@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Tesla, Elon Musk show off early prototype 'Optimus' robot"
-excerpt: "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company's artificial intelligence event Friday."
+excerpt: "But the basic tasks by the robot with exposed wires and electronics — as well as a later, next generation version that had to be carried onstage by three men — was a long way from CEO Elon Musk's vision of a human-like robot that can change the world."
 publishedDateTime: 2022-10-01T23:58:00Z
-originalUrl: "https://www.wkyc.com/article/tech/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-webUrl: "https://www.wkyc.com/article/tech/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-ampWebUrl: "https://www.wkyc.com/amp/article/tech/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/tech/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+originalUrl: "https://www.wtsp.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+webUrl: "https://www.wtsp.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+ampWebUrl: "https://www.wtsp.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
 type: article
 quality: 76
 heat: -1
 published: false
 
 provider:
-  name: WKYC3
-  domain: wkyc.com
+  name: WTSP
+  domain: wtsp.com
 
 topics:
   - AI in Robotics
@@ -22,7 +22,7 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://media.wkyc.com/assets/CCT/images/ee0a47a3-adbd-488e-b57b-07df25f393af/ee0a47a3-adbd-488e-b57b-07df25f393af_1140x641.jpg"
+  - url: "https://media.wtsp.com/assets/CCT/images/ee0a47a3-adbd-488e-b57b-07df25f393af/ee0a47a3-adbd-488e-b57b-07df25f393af_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -611,6 +611,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
+  - title: "Here's How You Can Join Elon Musk's Tesla Empire"
+    excerpt: "A couple of days after demonstrating its prowess in artificial intelligence and future computing at its AI Day 2022 event, Elon Musk's Tesla has now lau"
+    publishedDateTime: 2022-10-02T10:30:00Z
+    webUrl: "https://www.albawaba.com/business/heres-how-you-can-join-elon-musks-tesla-empire-1493224"
+    ampWebUrl: "https://www.albawaba.com/amp/business/heres-how-you-can-join-elon-musks-tesla-empire-1493224"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/heres-how-you-can-join-elon-musks-tesla-empire-1493224"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 61
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-10/Fd9cVCnVUAAltMO.jpg?itok=6eOt1bR2"
+        width: 2048
+        height: 1536
+        isCached: true
   - title: "Want to work for Tesla? Elon Musk tweets asking techies to join him"
     excerpt: "The job position open in Tesla offers multiple roles including building AI inference chips to run Full Self-Driving software, developing Dojo system, enhancing neural networks."
     publishedDateTime: 2022-10-02T06:36:00Z
@@ -773,6 +789,6 @@ related:
       domain: thesun.co.uk
     quality: 28
 
-secured: "U0VfmH4tjJFRjxbUgpS8+PJBSPQT14F0NxDyvoNMLIzNkeddvytdrnZ2BGyhAfRu9QCJXrZVwCF7eH0ofg0azGFQHhIcF90dAZmu67Adn/3gFH00tGwNsMZeUBrbM3e0xDRdNPF2HyP/RcYzPKCWMPNhSWNWDKZSzR+OnDqVn1+kMiVjamq1KwBxUHt1hwvEaV42LYOJJrU95ajxBh8DJDM8epjHEK9GSWcBBRyO/dIeOxpihZLSJcomQCw5Uh6NVTukddTGApNKONArmqQkZLFLMLBK9jXtCrqtJeZrJJ+M039MfAaJWazIhsrVShyEUQJ6wI6srqK5C/nAPu8dNMd8HVb8YkBnIvetMEzIWry/b3NVqy12zjvfoOWI1rHF8k7sdLNfDAgZ4LO8Jmhcg9mEoqyY8bhpamOEUd7cgktvGV/BpZeUGYiqaM1N12pRZAXm3/ghRFtzwO2Vl6jIPIxVbI7wa+SHHGDLIojGL3eZwr7r+/yh413ZJXu3oUOf51EtQ4opSjnLhqE+fcTVZw==;2rbbR21UGffE8WKuDgEYYg=="
+secured: "2QzbPxDMrb0hexkyA7Mp2nxC1ryVDu+OBzrQSYjCDqrJVweFH7OKXMOBBFNF2d8zkqlAAAm4JkoWDqpLQAY2+/c9nz8PNHdWXYYSxH2NcLEYNlir1vMFsO3KBbs1ifJGpe1Wq098dzZ6DIfhadaaM+UAOCxnLt5t1OX4K9faoAK3CUa5SEtPNVDiKi21E6YOfMy6ADwhLAmg25YGrIpdqafyefEERR4+s8t/L5NwYPJhEP4R7tMW58m+XAO/xLNqze8u9ZK/32EUaNOe45W248yrB1AjiZPB+FHBeFGdjwy1xC8cBx6ZfF8jvGtvAqstTvwhQ4OKJgwv5HhAdaW1/RKK47B+ekR2lohU4LLnsWM=;WFmOOeUrIZbD59KQwGzouw=="
 ---
 

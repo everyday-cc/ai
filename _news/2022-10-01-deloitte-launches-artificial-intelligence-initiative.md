@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-30T18:48:00Z
 originalUrl: "https://www.accountingtoday.com/news/deloitte-launches-artificial-intelligence-initiative"
 webUrl: "https://www.accountingtoday.com/news/deloitte-launches-artificial-intelligence-initiative"
 type: article
-quality: 17
-heat: 17
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,7 +16,14 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
-secured: "petllTLU/WhTs/iwbx3sGwRe45O+HQjIg0hrvNCrxTIIW5nlxU8uRs4MigrPLu/XJ2c5jHoQX6TpDSV0J4Eoi6h1S+Te5EziKWCLSpuoQ+BEmm5pkZtuUU/S9gmtEu4dg/4Jww9SeZvg89uDDfcNeCCwaWY4WGcR6hZkw3TJrWZF4yZsPUkbgEY0gAYK6SD/Z/hdiNnqHeO//S0YMAOWjrADvnvkc9yoH+yEcF+XS3sH2axlXHIm261es0pmIuNN9jwNeFRJteakveNHl8nN2VATqJfJrVHxMZMNb+N5aQ+EwndqZ/9eMGR3Eixy6NfarFuVG77GZ7+MoNvxlzq2faRAhPPdQXHn0HqnYj1GAEhAqpNx0FEn61Nzgo1LfyLRJuwzOCVNrqlJir/gz8uDUWQsZ0ZxaiK/+IgtqxNwc256eqZRCsAT4BVjWfBrY6rSQHJazsuwHbDQYwSHg9DKWKc5OwkbafYWrOXiikbGPLrmB2N1+ZlBqFj9AqxlgXl2f8H2WS2b6xgeJsw0HCEzKg==;4ATH0yj59n8YfYceYODMzA=="
+images:
+  - url: "https://arizent.brightspotcdn.com/dims4/default/31f851b/2147483647/strip/true/crop/510x268+0+39/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F84%2F40%2F1aafa6214b39bf380d6e295f7aad%2Fp1b6r77dk96sj32m1m421tku1v127.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "LY5IlmXHTlF5S2iCR3/AKqlPY0JOPgP+LmxVH70DeNzbTHo7U6r1SQKo7yHyFaCRWzd2UulSRwZ49m988Swth3UMcPFL/pUdH4XqI8fD2zrBtLcM9Xd43RT8LVuVI9UyRiGi/20pBGkHFG6F239jUEydp74jVH4aONipcXMswqtAd+o4EhMYvEyNgWGNqLyBsX1VyxTFktmdn19PktkYUyWObGargsED+HVDgFOF0z/PVi4dfd+AXXXPjEIwIuJ+WCyeDUuFAs3aFJPuwnksNwYokwcT0ocSrdMEeXXQsi/HH0YMefg46FrUgKQDJ/vktRCvwlUcUSUBk3q42PtEtS6CxIO3GB1ncB5CPkkWVlA=;kx1IPTUUKVOPoEMBpCSA5A=="
 ---
 
