@@ -7,7 +7,7 @@ originalUrl: "https://www.afr.com/companies/retail/retailers-blind-spot-over-fac
 webUrl: "https://www.afr.com/companies/retail/retailers-blind-spot-over-facial-recognition-technology-20220927-p5blc8"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "New report offers blueprint for regulation of facial recognition technology"
-    excerpt: "A new report outlines a model law for facial recognition technology to protect against harmful use of this technology, but also foster innovation for public benefit."
-    publishedDateTime: 2022-09-27T19:36:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/09/220927133419.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
 
 secured: "j0pHSpfWrZfiRbg5GA84IlQyUSkX7KtFyR2FyI+kiHAtSjug/sL2GN5oVDQ80171Rr/MnXuktTK6qga7DZjn2/YbMtJ+VXs1LJ7dZL8zs4DunN85fi8lbhvkXi7ABd0X/Sfx6hJqpqfMXxGvlr1bG4wmeXzNfZQSAR6NEpWEtcdwRz08lb9NZFqRfhG6UkKG/to+xYXnDh0SowwzCJm/3fQbGB8OVRqXMA/GwjWbgzH9/sgQdlf4EaTy8ZUJnITr+kf41V2QnmWXgwhjvHVReYzZ4SDvPwr5GX2JbY/r0uriY6B8SYdfeUkJ+Jb5XWAmGwIVY6+0DvNKqOVy7vy2vh2sjRAF/ifRMOTEVY+iw2meMI+qv3ZGzpfNbvIy6uRfhghopw2j9Cy3JUQCORURG54siobb61jZX3qez698BEUQIEiVGYvIzmu76Yqh2Cz5Wk/2/YcrPHRCzINSOFRkBj7uYMhqaWkepA8cgx24qR3ZJYndTBFTI7cP47KMsuOraAj4umOfVa1zcnkKPUV+4g==;vPUqycpUk3ycQhu2Z5oKJg=="
 ---

@@ -35,20 +35,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Intel's mid-range Arc A770 GPU arrives October 12th for $329"
-    excerpt: "The Arc A770 supports Xe Super Sampling (XeSS) that, like NVIDIA's DLSS or AMD's FidelityFX Super Resolution, uses AI upscaling to boost frame rates at higher resolutions. It supports Intel's dedicated and integrated GPUs,"
-    publishedDateTime: 2022-09-27T20:32:00Z
-    webUrl: "https://www.engadget.com/intel-arc-a770-gpu-price-release-date-195341500.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-09/13af5710-3e99-11ed-bf77-4bc0d7b0b475"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Inspur Information Announces Servers Now Support Intel’s Arctic Sound-M GPU"
     excerpt: "Inspur Information, a leading IT infrastructure solutions provider, announced support for the Intel Artic Sound-M GPU (ATS-M) in its servers, in addition to showcasing a broad array of Intel-powered technology solutions that are empowering breakthroughs and advances in innovation from AI to edge computing at Intel Innovation 2022."
     publishedDateTime: 2022-09-28T13:09:00Z

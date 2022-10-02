@@ -3,22 +3,22 @@ category: news
 title: "Anyone can now use powerful AI tools to make images. What could possibly go wrong?"
 excerpt: "The move will likely expand the reach of a new crop of AI-powered tools that have already attracted a wide audience and challenged our fundamental ideas of art and creativity."
 publishedDateTime: 2022-10-01T16:12:00Z
-originalUrl: "https://www.wcvb.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
-webUrl: "https://www.wcvb.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
-ampWebUrl: "https://www.wcvb.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
-cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
+originalUrl: "https://www.kcci.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+webUrl: "https://www.kcci.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+ampWebUrl: "https://www.kcci.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
+cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: WCVB Channel 5 Boston
-  domain: wcvb.com
+  name: KCCI Des Moines
+  domain: kcci.com
 
 topics:
-  - AI
   - AI Ethics
+  - AI
 
 images:
   - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-3c09dfff59686ea0cf8955d05b8f2d28-h-526e72dcb41c83dd4880165dd446fa8a-1664643570.jpg?crop=1.00xw:0.564xh;0,0.268xh&resize=1200:*"
@@ -44,6 +44,6 @@ related:
         height: 619
         isCached: true
 
-secured: "6CW9TeT1wkSqSgZy0SnTresjywE9fMAD0pGwdCFq90ODlqNvVZIo9gS6Afv0AWfpBCOn1+Kkf84RHbkb3jGMbxVyXdFMurRqtI3JNRpTe3PZnrr4k2Hfl+ivoI2QKoBnqJZMcrQowSZw+TVewhogjX72JokBMMMbdpdnFT33WHQKUFi0G50OHATROLfHYuS+mfzVkt+pGA1RmSybCeAMzJ3H5jHCipBz504C3lX0a64jZtGSU8j4g8OS7jHjVm13vgw95Nh3Az4SAM6Bs0U6CnDq9gOitu/N1P9pil3ijveYmDYZo3SvnlOdrWH3scXECpNBdHzi4pM7Mtomwn+Tm+7a63GtGHiIkcKNDyInxKJldNNDAxsATQdPdIe1AWPVMQJBGzuQ3Tr49KuNOl22WXFHhI6BgV/gqNVoxsWN2+hKryv9iGR9I4HepgZCJv+20xBhuWRCWCb0B3YGbYAy8UBWY2hiAWzmn46x/jNYP6MNkY5J5KOmawLNj3Jr5HVqV+IyYfArLlOmeC9v4c7k4g==;U4eKaNNV+suwnTQew+/qzg=="
+secured: "GmZQ+RZ7TbH03LPWr9C2UUQrvMEe0vD+Qrl1oBeggY4BJrbmNI0u1LUoMhYAVuKwUuem6euaTgInuBxofSntxjzAJIIKzRhWnwzTh/YqxgjbrC00ET3uGwneCwB85nPaLBgMFMnkvNVzAwdSmCJOxp346h8VYIYu9dwP3+ya5JmnQYIqL/SX2c8rIZt+3F1VqvuLwMHV35gBaFie1MEYpqrBn8JHi8cAHW8onWP7+m/Gx2h4MOlBh4Jph1ZjNR8B/15WuChgNgRXbQTElgMr6bYCAMln4MhJnaM9ukuB6P6ELRjC+oH/ZDZGBw/LSEGTL6+Qw1cUBWliI5HxMKZ4x7RNxFMRHBfnUispHVaduQk=;TJfFGRFBKzXkCwRNBM5USg=="
 ---
 

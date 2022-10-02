@@ -110,20 +110,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Cassie, a bipedal robot developed at OSU, achieves Guinness World Record in 100 meters"
-    excerpt: "Cassie the robot, invented at the Oregon State University College of Engineering and produced by OSU spinout company Agility Robotics, has established a Guinness World Record for the fastest 100 meters by a bipedal robot."
-    publishedDateTime: 2022-09-27T20:34:00Z
-    webUrl: "https://ktvz.com/news/oregon-northwest/2022/09/27/cassie-a-bipedal-robot-developed-at-osu-achieves-guinness-world-record-in-100-meters/"
-    type: article
-    provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 31
-    images:
-      - url: "https://ktvz.b-cdn.net/2022/09/Cassie-OSU-robot.jpg"
-        width: 799
-        height: 499
-        isCached: true
   - title: "Oregon State University’s Cassie the robot just broke a Guinness World Record"
     excerpt: "Oregon State University’s very own Cassie just broke the Guinness World Record for the fastest 100 meters by a bipedal robot. Before Cassie’s introduction in 2017, OSU received a 16-month, $1 million grant from Defense Advanced Research Projects Agency to fund the project."
     publishedDateTime: 2022-09-28T17:56:00Z

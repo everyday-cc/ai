@@ -301,6 +301,22 @@ related:
         width: 1200
         height: 670
         isCached: true
+  - title: "AI Ethics And AI Laws Reveal Troubling Concerns From Tesla’s AI Day Showcase And The Ever Expanding AI Ambitions Of Elon Musk"
+    excerpt: "A close look at the Tesla AI Day and crucial insights pertaining to AI Ethics and AI & Law that looms ahead for Tesla and Elon Musk."
+    publishedDateTime: 2022-10-02T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/10/02/five-key-ways-that-ai-ethics-and-ai-laws-reveal-troubling-concerns-for-teslas-ai-day-showcase-and-the-ever-expanding-ai-ambitions-of-elon-musk/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/10/02/five-key-ways-that-ai-ethics-and-ai-laws-reveal-troubling-concerns-for-teslas-ai-day-showcase-and-the-ever-expanding-ai-ambitions-of-elon-musk/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/10/02/five-key-ways-that-ai-ethics-and-ai-laws-reveal-troubling-concerns-for-teslas-ai-day-showcase-and-the-ever-expanding-ai-ambitions-of-elon-musk/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 96
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63393cf2f31b18ce542c2698/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Elon Musk Unveils Prototype of Tesla’s Humanoid Robot Optimus, Says It Will Cost Less Than a Car"
     excerpt: "The prototype, which the CEO aims to show off at a company’s AI event Friday, is part of his effort to shape public perception of the company as more than just a car maker."
     publishedDateTime: 2022-10-01T11:51:00Z
@@ -501,16 +517,16 @@ related:
   - title: "Tesla, Elon Musk show off early prototype 'Optimus' robot"
     excerpt: "But the basic tasks by the robot with exposed wires and electronics — as well as a later, next generation version that had to be carried onstage by three men — was a long way from CEO Elon Musk's vision of a human-like robot that can change the world."
     publishedDateTime: 2022-10-01T23:58:00Z
-    webUrl: "https://www.wtsp.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-    ampWebUrl: "https://www.wtsp.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+    webUrl: "https://www.firstcoastnews.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
     type: article
     provider:
-      name: WTSP
-      domain: wtsp.com
+      name: First Coast News
+      domain: firstcoastnews.com
     quality: 76
     images:
-      - url: "https://media.wtsp.com/assets/CCT/images/ee0a47a3-adbd-488e-b57b-07df25f393af/ee0a47a3-adbd-488e-b57b-07df25f393af_1140x641.jpg"
+      - url: "https://media.firstcoastnews.com/assets/CCT/images/ee0a47a3-adbd-488e-b57b-07df25f393af/ee0a47a3-adbd-488e-b57b-07df25f393af_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -578,15 +594,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 68
-  - title: "Tesla AI Day 2022: Everything You Need To Know"
-    excerpt: "Tesla’s AI day is their annual showcase of the latest technology across the company’s various business units. While Tesla vehicles gain the majority of the press coverage, they have a wide range of different applications and products that they continue to develop and refine."
-    publishedDateTime: 2022-09-27T19:27:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2022/09/27/tesla-ai-day-2022-everything-you-need-to-know/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 66
   - title: "Tesla Reveals Optimus, a Walking Humanoid Robot You Could Buy in 2027"
     excerpt: "Two prototype Tesla Bots could walk, wave their arms and grip with fingers. CEO Elon Musk says they'll eventually cost $20,000 and should go on sale by 2027."
     publishedDateTime: 2022-10-01T18:17:00Z
@@ -746,6 +753,15 @@ related:
         width: 1600
         height: 889
         isCached: true
+  - title: "Elon Musk Reveals Prototype Humanoid Tesla Robot at AI Day"
+    excerpt: "The Tesla robot walks and waves, though CEO Elon Musk claims it has more advanced functions. Those weren't shown on stage."
+    publishedDateTime: 2022-10-02T13:51:00Z
+    webUrl: "https://www.thedrive.com/news/elon-musk-reveals-prototype-humanoid-tesla-robot-at-ai-day"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 53
   - title: "Elon Musk Unveils Prototype of Humanoid Robot Optimus, Says It Will Cost Less Than a Car"
     excerpt: "The prototype, which the CEO showed off at a company’s AI event Friday, is part of his effort to shape public perception of the company as more than just a car maker."
     publishedDateTime: 2022-10-01T04:32:00Z

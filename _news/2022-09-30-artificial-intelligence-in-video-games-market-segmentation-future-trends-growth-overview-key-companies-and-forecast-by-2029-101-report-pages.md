@@ -84,22 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market 2022: Industry Insight, Drivers, Top Trends, Global Analysis and Forecast by 2027"
-    excerpt: "The global facial recognition market reached a value of US$ 5.0 Billion in 2021. IMARC Group expects the market to reach US$ 15.6 Billion by 2027, exhibiting a CAGR of 21.2% during 2022-2027."
-    publishedDateTime: 2022-09-27T19:54:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/ab29041902/facial-recognition-market-2022-industry-insight-drivers-top-trends-global-analysis-and-forecast-b"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29041902"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29041902"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/28171512/image-55-1024x683.png"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Artificial Intelligence in Transportation Market 2022 : Share and Outlook of Regulatory Scenario by 2027 with Top Countries Data"
     excerpt: "The global Artificial Intelligence in Transportation market size was valued at USD 1855724.44 million in 2021 and"
     publishedDateTime: 2022-09-29T04:27:00Z

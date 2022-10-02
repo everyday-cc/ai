@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla AI Day: An Investor’s Perspective"
+    excerpt: "Musk reiterated many times how the public owns Tesla and that he can’t simply do whatever he wants, he could be fired, and the shareholding public always has a voice. Tesla has been in the financial news for a variety of reasons over the last few months."
+    publishedDateTime: 2022-10-02T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2022/10/02/tesla-ai-day-an-investors-perspective/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/02/tesla-ai-day-an-investors-perspective/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/02/tesla-ai-day-an-investors-perspective/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6339a7450cb711b0e978b20d/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Tesla’s AI Day is tonight. It may wow you – or end with a gaffe"
     excerpt: "Tesla will hold its second annual AI Day in Palo Alto, California, Friday evening. The six-hour event will include updates on Tesla's work in artificial intelligence, \"Full Self-Driving,\" its supercomputer \"Dojo\" and maybe a humanoid robot,"
     publishedDateTime: 2022-09-30T20:28:00Z

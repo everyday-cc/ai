@@ -7,8 +7,8 @@ originalUrl: "https://edition.cnn.com/2022/09/30/tech/tesla-ai-day-preview/index
 webUrl: "https://edition.cnn.com/2022/09/30/tech/tesla-ai-day-preview/index.html"
 type: article
 quality: 64
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -23,6 +23,22 @@ topics:
   - AI in Autos
 
 related:
+  - title: "Tesla AI Day: An Investor’s Perspective"
+    excerpt: "Musk reiterated many times how the public owns Tesla and that he can’t simply do whatever he wants, he could be fired, and the shareholding public always has a voice. Tesla has been in the financial news for a variety of reasons over the last few months."
+    publishedDateTime: 2022-10-02T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2022/10/02/tesla-ai-day-an-investors-perspective/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/02/tesla-ai-day-an-investors-perspective/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/02/tesla-ai-day-an-investors-perspective/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6339a7450cb711b0e978b20d/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Can Tesla get a boost from its highly-anticipated AI Day event?"
     excerpt: "All eyes will be on Tesla (NASDAQ:TSLA) on Friday when then company holds its highly-anticipated AI Day. One of the highlights of the event is expected to be the company's unveiling of its Optimus humanoid robot prototype."
     publishedDateTime: 2022-09-29T16:27:00Z

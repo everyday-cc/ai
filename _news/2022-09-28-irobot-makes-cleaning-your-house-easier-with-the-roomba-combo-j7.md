@@ -7,7 +7,7 @@ originalUrl: "https://www.androidcoliseum.com/2022/09/irobot-makes-cleaning-your
 webUrl: "https://www.androidcoliseum.com/2022/09/irobot-makes-cleaning-your-house-easier.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 807
     height: 508
     isCached: true
-
-related:
-  - title: "The j7+ is iRobot’s first two-in-one vacuum and mop combo"
-    excerpt: "Robot has revealed the Roomba Combo j7+, a premium robot vacuum featuring a retractable mop that allows it to both mop and vacuum without input from the user."
-    publishedDateTime: 2022-09-27T21:39:00Z
-    webUrl: "https://www.digitaltrends.com/home/irobot-roomba-combo-j7-plus-reveal/"
-    ampWebUrl: "https://www.digitaltrends.com/home/irobot-roomba-combo-j7-plus-reveal/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/irobot-roomba-combo-j7-plus-reveal/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 74
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2022/09/Roomba-j7-Lifestyle.jpg?p=1"
-        width: 2048
-        height: 1365
-        isCached: true
 
 secured: "4DCacReVDWF4/j501qyx15JjUsY+xZZnZljSKcUwz8tQUGVi88LjlZHp2TgBD5eWr5szQFmBCI2hbc8yLePsdhD5lkydCKIlh9aiGFhYqjvLS0RV3JiXTVrzFmQux8jc9rqCbKIBIR5LZw05PvgAUWV4+61XpO43/DTgx+bkTSlQlh2NcAQUGekBrKiVN34XtdvfzkP5Zi1po+HVf0OEhU+rZ54wBKRL1C6IoBCY6r+y19nNFsKtePMCHZ8CGgA5PiEfIY9oIz2PvzN4EDWtfPQyilgX+ns1DlQDTd6TWrvzoneDg8g0xoHzbvT9H8L4jX97Rmocl9NqzSPbaieDrDkXJe9ORyCUXQv9MxDG9k8=;EQwZ8e0LYh8eC1yR8H+6WQ=="
 ---
