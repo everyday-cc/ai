@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-07-29-the-cost-of-living-crisis-is-pricing-people-out-of-breathing.md",
+      "title": "The cost-of-living crisis is pricing people out of breathing",
+      "excerpt": "The food store chain Southern Co-op faces a legal case over its use of surveillance technology. By Sarah Dawood Facial recognition technology is used willingly by millions of us every day as a form of authentication, to unlock our phones, generate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newstatesman.com/spotlight/cyber/2022/07/facial-recognition-tech-biometric-data",
+      "originalUrl": "https://www.newstatesman.com/spotlight/cyber/2022/07/facial-recognition-tech-biometric-data",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/07/shutterstock_1699088953-1038x778.jpg",
+          "width": 1038,
+          "height": 778,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-29T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Statesman",
+        "domain": "newstatesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-29-explained-how-myanmars-junta-is-using-chinese-facial-recognition-technology.md",
       "title": "Explained: How Myanmar’s junta is using Chinese facial recognition technology",
       "excerpt": "Rights groups warn high-tech surveillance systems will be used to track down and eliminate the junta's opponents.",
@@ -1313,41 +1356,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-kami-vision-grows-by-350-percent-as-demand-for-ai-services-in-security-safety-industry-surges.md",
-      "title": "Kami Vision Grows by 350 Percent as Demand for AI Services in Security & Safety Industry Surges",
-      "excerpt": "Kami Vision, the computer vision company that provides artificial intelligence (AI) solutions to SMBs and consumers, announced today the company has grown 350 percent since its launch in August 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/19/9640967.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/19/9640967.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

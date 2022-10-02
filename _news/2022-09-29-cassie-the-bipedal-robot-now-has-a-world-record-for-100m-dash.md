@@ -82,20 +82,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Oregon State University Robot Sets Guinness World Record"
-    excerpt: "We have been building the understanding to achieve this world record over the past several years, running a 5K and also going up and down stairs,” stated graduate student Devin Crowley, the leader of the Guinness effort,"
-    publishedDateTime: 2022-09-27T23:42:00Z
-    webUrl: "https://www.wweek.com/technology/2022/09/27/oregon-state-university-robot-sets-guinness-world-record/"
-    type: article
-    provider:
-      name: Willamette Week
-      domain: wweek.com
-    quality: 39
-    images:
-      - url: "https://wweek-wweek-prod.cdn.arcpublishing.com/resizer/xu1cX6Vq7Dz0JW9cEjEhvRwsZOQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/wweek/7YDWJFICDRGWZCBN627LCCUA2I.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Watch This Alarmingly Fast Robot Set the World Record for 100 Meters"
     excerpt: "Cassie covered 100 meters in 24.73 seconds, the fastest ever by a bipedal robot. For now, humans are still faster."
     publishedDateTime: 2022-09-29T16:15:00Z

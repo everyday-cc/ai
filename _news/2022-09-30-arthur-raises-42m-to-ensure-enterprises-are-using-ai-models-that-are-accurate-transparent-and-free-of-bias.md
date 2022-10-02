@@ -34,6 +34,22 @@ related:
         width: 1200
         height: 653
         isCached: true
+  - title: "How Leaders Are Investing In Artificial Intelligence To Improve Public Relations"
+    excerpt: "Before spending your marketing budget on Digital Marketing, there is a way to achieve similar or better results with Public Relations with artificial intelligence."
+    publishedDateTime: 2022-10-02T16:56:00Z
+    webUrl: "https://www.forbes.com/sites/melaniefine/2022/10/02/how-leaders-are-investing-in-artificial-intelligence-to-improve-public-relations/"
+    ampWebUrl: "https://www.forbes.com/sites/melaniefine/2022/10/02/how-leaders-are-investing-in-artificial-intelligence-to-improve-public-relations/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/melaniefine/2022/10/02/how-leaders-are-investing-in-artificial-intelligence-to-improve-public-relations/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 82
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6339c18a319070536a78b209/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 665
+        isCached: true
   - title: "How Healthcare Providers Can Improve Patient Experiences With RPA, AI And Digital Workflows"
     excerpt: "Beyond just automating tasks, robotic process automation (RPA) today leverages adjacent technologies like AI, ML, NLP, image recognition and intelligent document processing (IDP) to accurately and efficiently capture, extract, analyze and report results to ..."
     publishedDateTime: 2022-09-28T12:45:00Z

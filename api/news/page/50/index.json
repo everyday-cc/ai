@@ -2,6 +2,58 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2022-08-21-meta-wants-to-supercharge-wikipedia-with-an-ai-upgrade.md",
+      "title": "Meta wants to supercharge Wikipedia with an AI upgrade",
+      "excerpt": "And Meta, the not-too-long-ago rebranded Facebook, may just have the ... that it’s come up with a way to help. Meta AI (that’s the AI research and development research lab for the social ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/meta-wikipedia-bot-citations/",
+      "originalUrl": "https://www.digitaltrends.com/computing/meta-wikipedia-bot-citations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2020/01/wikipedia-logo-pink.png?p=1",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/meta-wikipedia-bot-citations/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/meta-wikipedia-bot-citations/?amp",
+      "publishedDateTime": "2022-08-21T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "digitaltrends.com",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-21-the-computers-that-talk-like-us-how-conversational-ai-could-change-lives-for-better-and-worse.md",
       "title": "The computers that talk like us: How conversational AI could change lives, for better and worse",
       "excerpt": "How would you define conversational AI for the layman? Conversational AI refers to the different types of AI software or solutions that are designed for people to talk to and comm",
@@ -1123,40 +1175,6 @@
         "AWS AI",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-08-20-hyosung-donates-ai-care-robots-to-older-veterans.md",
-      "title": "Hyosung donates AI care robots to older veterans",
-      "excerpt": "Pibo, an AI care robot developed by a South Korean startup, Circulus, offers information such as news and weather while also monitoring the user’s body temperature and heart rate. It also ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreaherald.com/view.php?ud=20220819000554",
-      "originalUrl": "https://www.koreaherald.com/view.php?ud=20220819000554",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Herald",
-        "domain": "koreaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

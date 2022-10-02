@@ -28,35 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla unveils the hands of its humanoid robot ahead of full unveil today"
-    excerpt: "Tesla is teasing the hands of its humanoid Optimus robot that is going to be fully unveiled at its AI Day event later today. Today, Tesla is expected to hold its AI Day 2 in Palo Alto starting at 5 p."
-    publishedDateTime: 2022-09-30T15:18:00Z
-    webUrl: "https://electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/"
-    ampWebUrl: "https://electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/amp/"
+  - title: "Tesla AI Day: An Investor’s Perspective"
+    excerpt: "Musk reiterated many times how the public owns Tesla and that he can’t simply do whatever he wants, he could be fired, and the shareholding public always has a voice. Tesla has been in the financial news for a variety of reasons over the last few months."
+    publishedDateTime: 2022-10-02T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2022/10/02/tesla-ai-day-an-investors-perspective/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/02/tesla-ai-day-an-investors-perspective/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/02/tesla-ai-day-an-investors-perspective/amp/"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 105
+      name: Forbes
+      domain: forbes.com
+    quality: 106
     images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Robot-hands.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6339a7450cb711b0e978b20d/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 628
-        isCached: true
-  - title: "Tesla previews humanoid robot, but Musk cautions it is not ready just yet"
-    excerpt: "Tesla CEO Elon Musk said on Friday the electric vehicle maker's eagerly anticipated humanoid robot 'Optimus' would cost under $20,000 and cautioned it still had way to go before becoming fully functional."
-    publishedDateTime: 2022-10-01T01:30:00Z
-    webUrl: "https://www.reuters.com/article/tesla-robots/tesla-previews-humanoid-robot-but-musk-cautions-it-is-not-ready-just-yet-idUSKBN2QV10V"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 85
-    images:
-      - url: "https://www.reuters.com/resizer/gx_3f22a3kYh8h4YmjMhdjZEvNM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WWSNDUO46JPIHMZLGYLX5S6FKQ.jpg"
-        width: 1200
-        height: 628
+        height: 800
         isCached: true
   - title: "Tesla AI Day: Here’s what to expect in Palo Alto tonight"
     excerpt: "Tesla will hold its second annual AI Day in Palo Alto Friday evening. The 6-hour event will include updates on Tesla’s work in AI, “Full Self-Driving,” its supercomputer"
@@ -90,19 +76,42 @@ related:
         width: 1024
         height: 575
         isCached: true
-  - title: "Musk previews Tesla's humanoid robot, but cautions it is not ready just yet"
-    excerpt: "Tesla CEO Elon Musk on Friday showed off a prototype of 'Optimus', predicting the electric vehicle maker would be able to produce millions of them and sell them for under $20,000 - less than a third of the price of a Model Y."
-    publishedDateTime: 2022-09-30T11:06:00Z
-    webUrl: "https://gazette.com/news/us-world/musk-previews-teslas-humanoid-robot-but-cautions-it-is-not-ready-just-yet/article_93d41ecf-4f66-51e7-9f32-cb0b2e8ae204.html"
+  - title: "Tesla’s AI Day is tonight. It may wow you – or end with a gaffe"
+    excerpt: "Tesla will hold its second annual AI Day in Palo Alto, California, Friday evening. The six-hour event will include updates on Tesla's work in artificial intelligence, \"Full Self-Driving,\" its supercomputer \"Dojo\" and maybe a humanoid robot,"
+    publishedDateTime: 2022-09-30T20:28:00Z
+    webUrl: "https://edition.cnn.com/2022/09/30/tech/tesla-ai-day-preview/index.html"
     type: article
     provider:
-      name: The Gazette
-      domain: gazette.com
-    quality: 54
+      name: CNN
+      domain: cnn.com
+    quality: 64
+  - title: "Can Tesla get a boost from its highly-anticipated AI Day event?"
+    excerpt: "All eyes will be on Tesla (NASDAQ:TSLA) on Friday when then company holds its highly-anticipated AI Day. One of the highlights of the event is expected to be the company's unveiling of its Optimus humanoid robot prototype."
+    publishedDateTime: 2022-09-29T16:27:00Z
+    webUrl: "https://seekingalpha.com/news/3887203-can-tesla-get-a-boost-from-its-highly-anticipated-ai-day-event"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 56
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/9/4d/94d03c46-8d11-5db0-b328-3c9d5016c862/6336f4493b701.image.jpg?crop=800%2C420%2C0%2C22&resize=800%2C420&order=crop%2Cresize"
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1057297452/image_1057297452.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Wedbush Previews Tesla AI Day; Reiterates Outperform"
+    excerpt: "(NASDAQ: TSLA) are down 4.82% in mid-day trading ahead of the company's AI day tomorrow. Wedbush reiterated an Outperform rating with a price target of $360. The much anticipated event is expected to feature several next-generation technologies,"
+    publishedDateTime: 2022-09-29T14:48:00Z
+    webUrl: "https://uk.investing.com/news/stock-market-news/wedbush-previews-tesla-ai-day-reiterates-outperform-432SI-2766599"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 56
+    images:
+      - url: "https://i-invdn-com.investing.com/news/Tesla_800x533_L_1608133744.jpg"
         width: 800
-        height: 420
+        height: 533
         isCached: true
   - title: "Tesla shows off humanoid robot, supercomputer potential at AI Day"
     excerpt: "Tesla (NASDAQ:TSLA) unveiled its humanoid robot at its AI Day event late on Friday. Optimus was not ready to walk on stage quite yet, but waved to the crowd and raised its knees. The AI-powered Optimus robot features a 2."
@@ -113,22 +122,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 51
-  - title: "Elon Musk teases unveiling of spectacular humanoid robot that could replace human workers"
-    excerpt: "The human-link robots will be powered by artificial intelligence and could one-day carry out a number of helper roles."
-    publishedDateTime: 2022-09-29T21:23:00Z
-    webUrl: "https://www.express.co.uk/news/science/1676198/elon-musk-telsa-humanoid-robot-optimus-bot"
-    ampWebUrl: "https://www.express.co.uk/news/science/1676198/elon-musk-telsa-humanoid-robot-optimus-bot/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1676198/elon-musk-telsa-humanoid-robot-optimus-bot/amp"
+  - title: "Tesla to host AI Day on 30 September to demo latest tech"
+    excerpt: "But all eyes will be on Tesla’s robot that it teased at last year’s AI Day event. Named Optimus, the humanoid bot will be able to help carry out dangerous tasks, such as lifti"
+    publishedDateTime: 2022-09-29T13:13:00Z
+    webUrl: "https://www.stuff.tv/news/tesla-to-host-ai-day-on-30-september-to-demo-latest-tech/"
     type: article
     provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 50
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/Elon-Musk-1676198.jpg?r=1664489938220"
-        width: 590
-        height: 350
-        isCached: true
+      name: Stuff
+      domain: stuff.tv
+    quality: 36
 
 secured: "dzoN65LBP24RhuY561i6tXcAa1HwNk47DxcjPQmBQN3jgdvnGkoPwSX5PkQoiMZD1sML+2bBEMY2mFszg8ZQdJ8grsQ9Fu523zntojlb+EEjWS2iK6h2Xcer3ee9PyzZ+V/dvaZWVH+MwYYRsavvRiSLUZ7GNrBVtKcptSnJzHoQkmK9vDTqCY9zkQ7/vG5MTykzZiY2lVJYgO7fwBejiaYOzeAABhyZ4+ElpYppwi0tuJzEjqIxWT1W42zwnPecgg2pxa708f0utfxX1YDFYjnb4HIMA45IpxDlcsIjQ8s92HwLLCPZOjX3NUTqytsxCZGIiKD9v9vBIkO7RC9F3YG5QMR2+PX7MIInzc0bFvqgcRrT3K/g32+j194jhA1xYgPrkn+9irL4atAVMvmeFjJ43rmCNl9hD0x94V06Mf/j03n7QunzRCVaaEPQV5z4AOLMVz83OF1XwT/SB10mazOVfmTbaODFYXX3YdGe5E3NhboIrTpEeBnc2DGWYHFRx2dfC3EorMStCkMWHCju5Q==;4hbQvxkob3A1kIkZ6drJEw=="
 ---
