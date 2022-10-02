@@ -2,6 +2,144 @@
   "page": 144,
   "value": [
     {
+      "path": "_news/2022-06-09-ai-ethics-and-legal-ai-are-flustered-by-deceptive-pretenses-known-as-ai-ethics-washing-which-are-false-claims-of.md",
+      "title": "AI Ethics And Legal AI Are Flustered By Deceptive Pretenses Known As AI Ethics-Washing Which Are False Claims Of...",
+      "excerpt": "There are those that tout AI Ethics that are actually flouting Ethical AI and need to be called out for doing so (they are AI Ethics-Washing), which is happening widely and includes those autonomous self-driving cars too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/09/ai-ethics-and-legal-ai-are-flustered-by-deceptive-pretenses-known-as-ai-ethics-washing-which-are-false-claims-of-adhering-to-ethical-ai-including-for-autonomous-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/09/ai-ethics-and-legal-ai-are-flustered-by-deceptive-pretenses-known-as-ai-ethics-washing-which-are-false-claims-of-adhering-to-ethical-ai-including-for-autonomous-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62a1225d944c9fcb1eccd11c/0x0.jpg?format=jpg&crop=1761,990,x122,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/09/ai-ethics-and-legal-ai-are-flustered-by-deceptive-pretenses-known-as-ai-ethics-washing-which-are-false-claims-of-adhering-to-ethical-ai-including-for-autonomous-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/09/ai-ethics-and-legal-ai-are-flustered-by-deceptive-pretenses-known-as-ai-ethics-washing-which-are-false-claims-of-adhering-to-ethical-ai-including-for-autonomous-self-driving-cars/amp/",
+      "publishedDateTime": "2022-06-09T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-scout-sabermetrician-and-superforecaster-deep-learning-for-drug-discovery-and-development.md",
+      "title": "Scout, Sabermetrician, and Superforecaster: Deep Learning for Drug Discovery and Development",
+      "excerpt": "In this talk, Head of AI research at IQVIA’s Analytics Center of Excellence Jimeng Sun will present the key ingredients for achieving superforecasting in pharmaceutical applications and provide some examples of our works in deep learning algorithms for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pharmexec.com/view/scout-sabermetrician-and-superforecaster-deep-learning-for-drug-discovery-and-development",
+      "originalUrl": "https://www.pharmexec.com/view/scout-sabermetrician-and-superforecaster-deep-learning-for-drug-discovery-and-development",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.sanity.io/images/0vv8moc6/pharmexec/b521df1710f8b4449d991b96eec25ecfd5d9bbe2-552x368.jpg?fit=crop&auto=format",
+          "width": 552,
+          "height": 368,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T07:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pharm Exec",
+        "domain": "pharmexec.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-artificial-intelligence-with-metamemory-acts-more-humanlike.md",
+      "title": "Artificial Intelligence With Metamemory Acts More Humanlike",
+      "excerpt": "Metamemory Model The researchers show the evolution of artificial neural networks have a metamemory function based on the self-reference of memory that is similar to the metamemory model defined in 1980 by researchers Thomas Nelson and Louis Narens.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-06/pic907815.jpg?itok=4iHfALuG",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike?amp",
+      "publishedDateTime": "2022-06-09T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-can-reinforcement-learning-help-fix-the-mental-health-crisis.md",
       "title": "Can Reinforcement Learning Help Fix The Mental Health Crisis?",
       "excerpt": "Stefano Goria is Co-Founder and Chief Technical Officer (CTO) of Thymia, a company aiming to make mental health assessments faster and more accurate through an approach that combines video games based on neuropsychology with analyses of facial microexpressions and speech patterns.",
@@ -991,137 +1129,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-ai-based-traffic-management-system-in-delhi-soon-officials.md",
-      "title": "AI-based traffic management system in Delhi soon: Officials",
-      "excerpt": "The new system that works on machine learning and artificial intelligence will also play a vital role in facilitating a quick passage to emergency vehicles such as ambulances and fire tenders ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/india/ai-based-traffic-management-system-in-delhi-soon-officials-8600601.html",
-      "originalUrl": "https://www.moneycontrol.com/news/india/ai-based-traffic-management-system-in-delhi-soon-officials-8600601.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2017/12/RTX3LJGB.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/india/ai-based-traffic-management-system-in-delhi-soon-officials-8600601.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/india/ai-based-traffic-management-system-in-delhi-soon-officials-8600601.html/amp",
-      "publishedDateTime": "2022-06-08T19:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-kiyaai-introduces-indian-banking-metaverse.md",
-      "title": "Kiya.ai Introduces Indian Banking Metaverse",
-      "excerpt": "Kiya.ai - one of the most \"innovative\" digital solution providers, announced the launch of India’s \"first-ever\" Banking Metaverse – Kiyaverse.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-indian-banking-metaverse/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-indian-banking-metaverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/India-Money-Rupees-Coins-1.jpeg",
-          "width": 1600,
-          "height": 1291,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-indian-banking-metaverse/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-indian-banking-metaverse/amp/",
-      "publishedDateTime": "2022-06-08T19:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning.md",
-      "title": "Ministry of Education, AICTE and AWS to Upskill Students in India in Cloud Computing and Machine Learning",
-      "excerpt": "The Ministry of Education is working with Amazon Web Services (AWS) with an aim to impart cloud computing and machine learning (ML) skills to higher education students in India. A Memorandum of Unders",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/",
-      "originalUrl": "https://indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/",
-      "publishedDateTime": "2022-06-08T19:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Education"
       ]
     }
   ],

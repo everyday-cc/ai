@@ -2,6 +2,102 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-09-23-will-ai-inspire-a-new-mm-how-artificial-intelligence-is-reshaping-mars.md",
+      "title": "Will AI inspire a new M&M? How artificial intelligence is reshaping Mars",
+      "excerpt": "Mars Inc. is in the midst of a massive AI-powered overhaul, driving digital transformation across the over 100-year-old company.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/will-ai-inspire-a-new-mm-how-artificial-intelligence-is-reshaping-mars/",
+      "originalUrl": "https://venturebeat.com/ai/will-ai-inspire-a-new-mm-how-artificial-intelligence-is-reshaping-mars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/M_Ms_Different_Shapes.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/will-ai-inspire-a-new-mm-how-artificial-intelligence-is-reshaping-mars/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/will-ai-inspire-a-new-mm-how-artificial-intelligence-is-reshaping-mars/amp/",
+      "publishedDateTime": "2022-09-22T10:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-22-highbyte-expands-industrial-connectivity-from-microsoft-azure-iot-edge-to-azure-digital-twins.md",
+      "title": "HighByte Expands Industrial Connectivity from Microsoft Azure IoT Edge to Azure Digital Twins",
+      "excerpt": "The industrial software company has expanded cloud connectivity and improved enterprise IT management with HighByte Intelligence Hub version 2.5.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/products/september-2022/highbyte-industrial-connectivity-microsoft-azure",
+      "originalUrl": "https://www.automation.com/en-us/products/september-2022/highbyte-industrial-connectivity-microsoft-azure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/aa63c977-cdce-4db8-9dff-034bafe0dadc/Highbyte-prod-Sept-22-2022-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-22-falkonry-unveils-gpu-based-high-speed-time-series-anomaly-detection-application.md",
       "title": "Falkonry Unveils GPU-Based, High-Speed Time Series Anomaly Detection Application",
       "excerpt": "Falkonry today announced an automated anomaly detection application called Falkonry Insight which operates on high-speed sensor time series data. Insight is the newest addition to Falkonry's Time Series AI Suite to drive higher operational reliability and yield,",
@@ -1068,101 +1164,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-salesforce-deepens-partnership-with-aws.md",
-      "title": "Salesforce deepens partnership with AWS",
-      "excerpt": "Salesforce has expanded its partnership with Amazon Web Services (AWS) to enable customers to build custom artificial intelligence (AI) models using Amazon SageMaker, AWS’s machine learning (ML) modeling service,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110",
-      "originalUrl": "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/09/GettyImages-1040557296-scaled.jpg",
-          "width": 2560,
-          "height": 1161,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110?amp=1",
-      "publishedDateTime": "2022-09-21T15:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-nvidia-ceo-jensen-huang-ai-language-models-as-a-service-potentially-one-of-the-largest-software-opportunities-ever.md",
-      "title": "Nvidia CEO Jensen Huang: AI language models as-a-service \"potentially one of the largest software opportunities ever\"",
-      "excerpt": "Nvidia co-founder and CEO Jensen Huang opened his company's fall GTC conference with numerous product and service announcements, including the introduction of two cloud computing services the company will operate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nvidia-ceo-jensen-huang-ai-language-models-as-a-service-potentially-one-of-the-largest-software-opportunities-ever/",
-      "originalUrl": "https://www.zdnet.com/article/nvidia-ceo-jensen-huang-ai-language-models-as-a-service-potentially-one-of-the-largest-software-opportunities-ever/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/f2739fe30ad9f14692989d133ecac97705c65ada/2022/09/20/bce66508-0423-492b-bfd3-e70685a1a807/jensen-huang-gtc-2022-crop-for-twitter.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-ceo-jensen-huang-ai-language-models-as-a-service-potentially-one-of-the-largest-software-opportunities-ever/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-ceo-jensen-huang-ai-language-models-as-a-service-potentially-one-of-the-largest-software-opportunities-ever/",
-      "publishedDateTime": "2022-09-21T14:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

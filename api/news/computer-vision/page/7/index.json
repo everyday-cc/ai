@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-07-18-how-awards-recognition-decrease-inventors-creativity.md",
+      "title": "How awards, recognition decrease inventors' creativity",
+      "excerpt": "The U.S. Fear of failure the second time around Markus Baer, professor of organizational behavior at Olin, and Dirk Deichmann, of the Rotterdam School of Management in the Netherlands, discovered that recognizing first-time producers of successful novel ideas with an award or recognition can significantly decrease the likelihood that they will produce future creative work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.poandpo.com/leadership/how-awards-recognition-decrease-inventors-creativity/",
+      "originalUrl": "https://www.poandpo.com/leadership/how-awards-recognition-decrease-inventors-creativity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0722/inventor.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.poandpo.com/leadership/how-awards-recognition-decrease-inventors-creativity.amp",
+      "cdnAmpWebUrl": "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/leadership/how-awards-recognition-decrease-inventors-creativity.amp",
+      "publishedDateTime": "2022-07-18T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "poandpo.com",
+        "domain": "poandpo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-forsight-sees-a-world-without-cataracts-with-its-surgery-robot.md",
       "title": "ForSight sees a world without cataracts with its surgery robot",
       "excerpt": "It leverages cutting-edge technologies (pun intended) in microsurgical robotics, computer vision and machine learning. The platform aims to automate ophthalmic surgeries that treat diseases ...",
@@ -1359,58 +1402,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-07-05-mashgin-taps-computer-vision-to-improve-checkout-experience.md",
-      "title": "Mashgin taps computer vision to improve checkout experience",
-      "excerpt": "With its computer vision-powered self-checkouts, Mashgin wants to drive the future of the checkout experience at stadiums and grocery stores.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/05/mashgin-taps-computer-vision-to-improve-checkout-experience/",
-      "originalUrl": "https://venturebeat.com/2022/07/05/mashgin-taps-computer-vision-to-improve-checkout-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/Mashgin-kiosk-e1656953769657.png?fit=800%2C482&strip=all",
-          "width": 800,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/05/mashgin-taps-computer-vision-to-improve-checkout-experience/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/05/mashgin-taps-computer-vision-to-improve-checkout-experience/amp/",
-      "publishedDateTime": "2022-07-05T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

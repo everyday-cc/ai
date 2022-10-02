@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/mental-health-chatbots/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/mental-health-chatbots/amp"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

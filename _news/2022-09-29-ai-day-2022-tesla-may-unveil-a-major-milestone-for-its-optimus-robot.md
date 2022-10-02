@@ -510,6 +510,22 @@ related:
         width: 640
         height: 428
         isCached: true
+  - title: "Tesla, Elon Musk show off early prototype 'Optimus' robot"
+    excerpt: "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company's artificial intelligence event Friday."
+    publishedDateTime: 2022-10-01T23:20:00Z
+    webUrl: "https://www.cbs8.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+    ampWebUrl: "https://www.cbs8.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+    cdnAmpWebUrl: "https://www-cbs8-com.cdn.ampproject.org/c/s/www.cbs8.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+    type: article
+    provider:
+      name: CBS News 8
+      domain: cbs8.com
+    quality: 76
+    images:
+      - url: "https://media.cbs8.com/assets/CCT/images/ee0a47a3-adbd-488e-b57b-07df25f393af/ee0a47a3-adbd-488e-b57b-07df25f393af_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Tesla AI Day: Robots, Self-Driving Cars, and More"
     excerpt: "All eyes are on Elon Musk as he promises great things for this year’s AI Day. Will we see the Tesla bots walk on stage? Perhaps we will see the CyberTruck in all its metallic glory? Tech products"
     publishedDateTime: 2022-09-30T01:26:00Z

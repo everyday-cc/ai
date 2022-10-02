@@ -2,6 +2,126 @@
   "page": 168,
   "value": [
     {
+      "path": "_news/2022-05-24-neuromorphic-chips-up-to-16-times-more-energy-efficient-for-deep-learning.md",
+      "title": "Neuromorphic chips 'up to 16 times more energy efficient' for deep learning",
+      "excerpt": "Neuromorphic chips have been endorsed in research showing that they are much more energy efficient at operating large deep learning networks than non-neuromorphic hardware. This may become important as AI adoption increases.",
+      "sourceUrl": null,
+      "webUrl": "https://go.theregister.com/feed/www.theregister.com/2022/05/24/neuromorphic_chips_up_to_16/",
+      "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/05/24/neuromorphic_chips_up_to_16/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2016/08/02/brain_neuron.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/24/neuromorphic_chips_up_to_16/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/24/neuromorphic_chips_up_to_16/",
+      "publishedDateTime": "2022-05-24T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-fortinet-introduces-self-learning-ai-capabilities-in-new-network-detection-and-response-offering.md",
+      "title": "Fortinet Introduces Self-Learning AI Capabilities in New Network Detection and Response Offering",
+      "excerpt": "John Maddison, EVP of Products and CMO at Fortinet “With the introduction of FortiNDR, we’re adding robust network detection and response to the Fortinet Security Fabric. Powered by purpose-built machine learning,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-09f9dfe7e8006acb9b75e63bedaa2fbd",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-09f9dfe7e8006acb9b75e63bedaa2fbd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges.md",
+      "title": "92% of HR Leaders Will Increase Use of Artificial Intelligence as Solution for Rising Talent Challenges",
+      "excerpt": "Survey results indicate organizations are embracing AI to make critical talent decisions at scale and align workforce strategies with shifting business priorities. SANTA CLARA, Ca",
+      "sourceUrl": null,
+      "webUrl": "https://www.localsyr.com/business/press-releases/cision/20220524SF67183/92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges/",
+      "originalUrl": "https://www.localsyr.com/business/press-releases/cision/20220524SF67183/92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LocalSYR",
+        "domain": "localsyr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-24-how-to-make-ai-marketing-initiatives-actually-deliver.md",
       "title": "How To Make AI Marketing Initiatives Actually Deliver",
       "excerpt": "Trying to decide on channels? How much to invest in a campaign? Which demographics to target? AI can ingest the relevant data and then produce forecasts and analyses to help you make the right choice.",
@@ -988,135 +1108,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-ibm-is-calling-on-all-companies-to-adhere-to-its-responsible-ai-and-data-principles.md",
-      "title": "IBM is calling on all companies to adhere to its responsible AI and data principles",
-      "excerpt": "They should also be able to explain how AI reaches a decision and show proof for that. According to the company, those principles are built into Watson. IBM believes that any company putting AI on ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/ibm-is-calling-on-all-companies-to-adhere-to-its-responsible-ai-and-data-principles/",
-      "originalUrl": "https://sdtimes.com/ai/ibm-is-calling-on-all-companies-to-adhere-to-its-responsible-ai-and-data-principles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2018/05/Dd9CHKPVQAAsCI6.jpg",
-          "width": 1024,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-significant-energy-savings-using-neuromorphic-hardware.md",
-      "title": "Significant energy savings using neuromorphic hardware",
-      "excerpt": "For the first time TU Graz's Institute of Theoretical Computer Science and Intel Labs demonstrated experimentally that a large neural network can ... of worldwide artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/05/220524100612.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/05/220524100612.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-aws-announces-general-availability-of-amazon-ec2-c7g-instances-powered-by-aws-designed-graviton3-processors.md",
-      "title": "AWS Announces General Availability of Amazon EC2 C7g Instances Powered by AWS-designed Graviton3 Processors",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) C7g instances, the next generation of compute-optimized instances powered by AWS-designed Graviton3 processors.",
-      "sourceUrl": null,
-      "webUrl": "https://cloud-computing.tmcnet.com/news/2022/05/23/9607396.htm",
-      "originalUrl": "https://cloud-computing.tmcnet.com/news/2022/05/23/9607396.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T15:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

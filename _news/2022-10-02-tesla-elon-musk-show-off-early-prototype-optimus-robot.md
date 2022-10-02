@@ -1,35 +1,30 @@
 ---
 category: news
-title: "Tesla AI Day 2022: Musk Promises Optimus Humanoid Robot For Under $20,000"
-excerpt: "Elon Musk showed off a working prototype of the Optimus robot at Tesla AI Day 2022, claiming it will cost under $20,000. Synchronized twerking with Elon Musk was not involved."
-publishedDateTime: 2022-10-01T13:02:00Z
-originalUrl: "https://www.forbes.com/sites/jamesmorris/2022/10/01/tesla-ai-day-2022-musk-promises-optimus-humanoid-robot-for-under-20000/"
-webUrl: "https://www.forbes.com/sites/jamesmorris/2022/10/01/tesla-ai-day-2022-musk-promises-optimus-humanoid-robot-for-under-20000/"
-ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2022/10/01/tesla-ai-day-2022-musk-promises-optimus-humanoid-robot-for-under-20000/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2022/10/01/tesla-ai-day-2022-musk-promises-optimus-humanoid-robot-for-under-20000/amp/"
+title: "Tesla, Elon Musk show off early prototype 'Optimus' robot"
+excerpt: "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company's artificial intelligence event Friday."
+publishedDateTime: 2022-10-01T23:20:00Z
+originalUrl: "https://www.cbs8.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+webUrl: "https://www.cbs8.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+ampWebUrl: "https://www.cbs8.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+cdnAmpWebUrl: "https://www-cbs8-com.cdn.ampproject.org/c/s/www.cbs8.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
 type: article
-quality: 122
+quality: 76
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: CBS News 8
+  domain: cbs8.com
 
 topics:
+  - AI in Robotics
   - AI
   - AI in Autos
-  - AI in Robotics
-  - AI Hardware
 
 images:
-  - url: "https://imageio.forbes.com/specials-images/imageserve/63383717f2eee70962377afb/0x0.jpg?format=jpg&width=1200"
-    width: 1200
-    height: 673
+  - url: "https://media.cbs8.com/assets/CCT/images/ee0a47a3-adbd-488e-b57b-07df25f393af/ee0a47a3-adbd-488e-b57b-07df25f393af_1140x641.jpg"
+    width: 1140
+    height: 641
     isCached: true
 
 related:
@@ -64,6 +59,22 @@ related:
       - url: "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Tesla AI Day 2022: Musk Promises Optimus Humanoid Robot For Under $20,000"
+    excerpt: "Elon Musk showed off a working prototype of the Optimus robot at Tesla AI Day 2022, claiming it will cost under $20,000. Synchronized twerking with Elon Musk was not involved."
+    publishedDateTime: 2022-10-01T13:02:00Z
+    webUrl: "https://www.forbes.com/sites/jamesmorris/2022/10/01/tesla-ai-day-2022-musk-promises-optimus-humanoid-robot-for-under-20000/"
+    ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2022/10/01/tesla-ai-day-2022-musk-promises-optimus-humanoid-robot-for-under-20000/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2022/10/01/tesla-ai-day-2022-musk-promises-optimus-humanoid-robot-for-under-20000/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 122
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63383717f2eee70962377afb/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 673
         isCached: true
   - title: "Tesla AI Day Updates on Optimus Robot, Self-Driving Cars: How to Watch"
     excerpt: "Tesla is hiring engineers to make the Tesla Bot for dangerous or boring work. Expect Elon Musk to detail the company's work on self-driving cars, too."
@@ -500,22 +511,6 @@ related:
         width: 640
         height: 428
         isCached: true
-  - title: "Tesla, Elon Musk show off early prototype 'Optimus' robot"
-    excerpt: "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company's artificial intelligence event Friday."
-    publishedDateTime: 2022-10-01T23:20:00Z
-    webUrl: "https://www.cbs8.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-    ampWebUrl: "https://www.cbs8.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-    cdnAmpWebUrl: "https://www-cbs8-com.cdn.ampproject.org/c/s/www.cbs8.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-    type: article
-    provider:
-      name: CBS News 8
-      domain: cbs8.com
-    quality: 76
-    images:
-      - url: "https://media.cbs8.com/assets/CCT/images/ee0a47a3-adbd-488e-b57b-07df25f393af/ee0a47a3-adbd-488e-b57b-07df25f393af_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "AI Day 2022: Tesla may unveil a major milestone for its Optimus robot"
     excerpt: "Tesla's AI is growing in popularity over time and has a livestream that millions of people view. Investors and potential investors watch to learn about the new methods Tesla is attempting to make money."
     publishedDateTime: 2022-09-29T15:42:00Z
@@ -734,6 +729,6 @@ related:
       domain: thesun.co.uk
     quality: 28
 
-secured: "GCJvY45nvOHln8Pou6hhuq6lFMbERUA85GVcAzSH101m4Y/XEaHvtUGwD6AXFvlrNo8U9qY6pEP5qRBJXI8K5EPchCPPHbKErM8/QrCBoyERe0btRu1xaecqYJpN4ubcknues7VxSkeNfbA5/65O2zAqUY9qE9nb/77vAOvYcqvOoNZS54DmU1OtQfBK1PB2jr44Ci03hOB8nXr+etTQc0wiOMmrIdpX/9u18i24FScK8LSNxVSk1hbxQFoFgjmUGamgwi8RrPRE+OTFjQRvNppM1tp2kk6VCq9sRd+NceEAFV/7oUY/vprKMj3U81s+Oa5rqEfNWOhAYi5/ICYu0p9yjlYryYr1/zKshhGGNBwuMhtvChDZjt4ePWwuSTxSNZjpi3xAMiNKnnoTvsXBjq1Qzmn2YndDqvg+YieNe5YObfDTBx+wWHY+J4SDrIldONJPjWYhYXoflhgOaDUGCx4JxdnV7Qce82hWTMQ4JAfSNASKsEM5Y4NBVDx8wtjD+kNqw7hsOLR6xuflvXHJdA==;V9PjylL5jyBYUOtKwSpdxA=="
+secured: "4IhcOXOOZAMYaxg7maKNmAKpqzjGt8k1qlcd95EmbIYKJx6gmrNTV++nwxVsRA60kXF8eshQL9ikl5JFHkIyykSXDG02vp3tXAX0bnVik6OJ9LHU+WWAfKG/4+wS2RKkwC2mYJu/sIZlXmozCneUh6CHefeI4Ocpn2sRdKPKRPkkl55Beymp2Di6QhGPs3PqB7BvuhiUoABMCM1Gvf1lTSO7tEIUw1aGhBuTfOxE4JEgSHqAjmKVUxUYeQ/mUMLf0JGy1P0AO9eMTDSO9aAc1dpKSS9ek2vvzcScKSANXbHHPIUecxgJ6EckU1iCxB4XFJ8GM8eUhXyojL/57M4/PFA9dP3cqnsCCVDVjiLO3SI=;LGbkVjGTVRF6kbYwI5Xb5A=="
 ---
 

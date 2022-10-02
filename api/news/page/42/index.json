@@ -2,6 +2,143 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2022-08-26-financialbuzzcom-demand-for-comprehensive-cleaning-services-grow-post-pandemic.md",
+      "title": "FinancialBuzz.com: Demand for Comprehensive Cleaning Services Grow Post-Pandemic",
+      "excerpt": "FinancialBuzz.com News Commentary NEW YORK, Aug. 26, 2022 /PRNewswire/ -- Due to the growing implementation of AI and automation in household equipment, the domestic robot market reached",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56909398-financialbuzz-com-demand-for-comprehensive-cleaning-services-grow-post-pandemic-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56909398-financialbuzz-com-demand-for-comprehensive-cleaning-services-grow-post-pandemic-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-26T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-26-how-to-prepare-for-ai-driven-next-generation-customer-service.md",
+      "title": "How To Prepare For AI-Driven Next-Generation Customer Service",
+      "excerpt": "For companies that are eager but new to next-generation customer service, conversational AI can present challenges. However, we are",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/26/how-to-prepare-for-ai-driven-next-generation-customer-service/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/26/how-to-prepare-for-ai-driven-next-generation-customer-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&crop=2433,1369,x0,y175,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/26/how-to-prepare-for-ai-driven-next-generation-customer-service/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/26/how-to-prepare-for-ai-driven-next-generation-customer-service/amp/",
+      "publishedDateTime": "2022-08-26T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-26-ai-eye-podcast-and-video-gbts-ceo-discusses-apollo-and-ai-in-image-recognition.md",
+      "title": "AI Eye Podcast and Video - GBT's CEO Discusses Apollo and AI in Image Recognition",
+      "excerpt": "Investorideas.com ( a global investor news source covering Artificial Intelligence(AI) stocks releases an exclusive podcast with AI innovator GBT Technologies Inc. (OTC Pink: GTCH). and sector snapshot looking at the growing AI tech implementation in the autonomous vehicles market via image recognition and computer vision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-eye-podcast-and-video---gbts-ceo-discusses-apollo-and-ai-in-image-recognition-2022-08-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-eye-podcast-and-video---gbts-ceo-discusses-apollo-and-ai-in-image-recognition-2022-08-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-26T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-26-microsoft-and-bytedance-are-collaborating-on-a-big-ai-project-even-as-us-china-rivalry-heats-up.md",
       "title": "Microsoft and ByteDance are collaborating on a big AI project, even as US-China rivalry heats up",
       "excerpt": "Microsoft and TikTok parent ByteDance are working together on a software project intended to help companies more efficiently run AI apps.",
@@ -1051,152 +1188,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-tesla-full-self-driving-debate-escalates-with-legal-threats-banned-videos.md",
-      "title": "Tesla ‘full self-driving’ debate escalates with legal threats, banned videos",
-      "excerpt": "Tesla fans rushed to defend the automaker after a prominent critic released a video showing one of the company's cars with the feature it calls \"full self-driving\" plowing into child-size mannequins.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/08/25/business/tesla-dan-odowd-videos/index.html",
-      "originalUrl": "https://www.cnn.com/2022/08/25/business/tesla-dan-odowd-videos/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220825123609-03-tesla-autopilot-file-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/08/25/business/tesla-dan-odowd-videos/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/25/business/tesla-dan-odowd-videos/index.html",
-      "publishedDateTime": "2022-08-25T13:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-fn-meka-the-racist-ai-rapper-is-a-symptom-of-a-bigger-problem.md",
-      "title": "FN Meka, the racist AI 'rapper,' is a symptom of a bigger problem",
-      "excerpt": "Capitol Records ended its record deal with a stereotypical 'rapper' that rhymes in the digital world. The controversy showed a major pitfall of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.msnbc.com/the-reidout/reidout-blog/fn-meka-capitol-records-ai-rapper-rcna44785",
-      "originalUrl": "https://www.msnbc.com/the-reidout/reidout-blog/fn-meka-capitol-records-ai-rapper-rcna44785",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-08/220825-ROB-Ai-rapper-an-b434e7.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna44785",
-      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna44785",
-      "publishedDateTime": "2022-08-25T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSNBC",
-        "domain": "msnbc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-counterpoint-ai-is-far-more-dangerous-than-quantum-computing.md",
-      "title": "Counterpoint: AI is far more dangerous than quantum computing",
-      "excerpt": "A respectful counterpoint to an op-ed article published earlier this week declaring quantum computing a greater threat than AI.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/counterpoint-ai-far-more-dangerous-than-quantum-computing",
-      "originalUrl": "https://thenextweb.com/news/counterpoint-ai-far-more-dangerous-than-quantum-computing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2Fscaredrobot.jpg&signature=33af3f0f76c643a35c6038c920c40200",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T12:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

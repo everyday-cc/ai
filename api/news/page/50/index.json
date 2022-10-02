@@ -2,6 +2,143 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2022-08-20-best-bitcoin-robot-2022-cheapest-robots-revealed.md",
+      "title": "Best Bitcoin Robot 2022 – Cheapest Robots Revealed",
+      "excerpt": "In terms of how Bitcoin Prime functions, the platform claims that the robot is governed by artificial intelligence (AI) and machine learning. Finally, Bitcoin Prime does not charge any fees.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business2community.com/cryptocurrency/bitcoin-robots",
+      "originalUrl": "https://www.business2community.com/cryptocurrency/bitcoin-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.business2community.com/B2C_FB.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-20T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business 2 Community",
+        "domain": "business2community.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-20-are-you-making-these-deadly-mistakes-with-your-ai-projects.md",
+      "title": "Are You Making These Deadly Mistakes With Your AI Projects?",
+      "excerpt": "You need enough, but not too much. “Goldilocks data” is what people often say: not too much, not too little, but just right. Unfortunately, far too often, organizations are jumping into AI projects without first addressing an understanding of their data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/20/are-you-making-these-deadly-mistakes-with-your-ai-projects/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/20/are-you-making-these-deadly-mistakes-with-your-ai-projects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62ffdc7f74be310fb95f25ec/0x0.jpg?format=jpg&crop=3000,1689,x0,y74,safe&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/20/are-you-making-these-deadly-mistakes-with-your-ai-projects/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/08/20/are-you-making-these-deadly-mistakes-with-your-ai-projects/amp/",
+      "publishedDateTime": "2022-08-19T22:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-20-stanford-university-stanford-engineers-present-new-chip-that-ramps-up-ai-computing-efficiency.md",
+      "title": "Stanford University: Stanford engineers present new chip that ramps up AI computing efficiency",
+      "excerpt": "AI-powered edge computing is already pervasive in our lives. Devices like drones, smart wearables, and industrial IoT sensors are equipped with AI-enabled chips so that computing can occur at the “edge” of the internet,",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/stanford-university-stanford-engineers-present-new-chip-that-ramps-up-ai-computing-efficiency/",
+      "originalUrl": "https://indiaeducationdiary.in/stanford-university-stanford-engineers-present-new-chip-that-ramps-up-ai-computing-efficiency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/10/1500x500.jpg?fit=1024%2C341&ssl=1",
+          "width": 1023,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/stanford-university-stanford-engineers-present-new-chip-that-ramps-up-ai-computing-efficiency/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/stanford-university-stanford-engineers-present-new-chip-that-ramps-up-ai-computing-efficiency/",
+      "publishedDateTime": "2022-08-19T20:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-20-sd-times-news-digest-microsoft-acquires-jclarity-julia-12-released-and-eggplants-automated-testing-capability.md",
       "title": "SD Times news digest: Microsoft acquires jClarity, Julia 1.2 released, and Eggplant’s automated testing capability",
       "excerpt": "The new AutoML capabilities include a AutoML Toolkit, an end-to-end machine learning pipeline, automated model search, automated hyperparameter tuning, and integration with Azure Machine Learning.",
@@ -1009,153 +1146,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-ai-powered-delivery-automation-streamlined-for-the-enterprise.md",
-      "title": "AI-powered delivery automation streamlined for the enterprise",
-      "excerpt": "The last two years saw a rise in home deliveries, and with it came demand for digital transformation and automation across the supply chain.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/automation/ai-powered-delivery-automation-streamlined-for-the-enterprise/",
-      "originalUrl": "https://venturebeat.com/automation/ai-powered-delivery-automation-streamlined-for-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/package.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/automation/ai-powered-delivery-automation-streamlined-for-the-enterprise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/automation/ai-powered-delivery-automation-streamlined-for-the-enterprise/amp/",
-      "publishedDateTime": "2022-08-19T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-robotics-and-automation-are-the-future-of-healthcare.md",
-      "title": "Robotics and automation are the future of healthcare",
-      "excerpt": "Advanced technologies, such as AI-guided robotics and automation, offer a potential solution to the provider shortage by freeing healthcare professionals from repetitive and time-consuming tasks and allow clinicians to focus on tasks that require a specialized touch.",
-      "sourceUrl": null,
-      "webUrl": "https://medcitynews.com/2022/08/robotics-and-automation-are-the-future-of-healthcare/",
-      "originalUrl": "https://medcitynews.com/2022/08/robotics-and-automation-are-the-future-of-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medcitynews.com/uploads/2020/12/GettyImages-1158546914.jpg",
-          "width": 703,
-          "height": 497,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedCity News",
-        "domain": "medcitynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-mediatek-pentonic-700-soc-for-4k-televisions-announced-ai-image-enhancements-dolby-vision-iq-and-more.md",
-      "title": "MediaTek Pentonic 700 SoC for 4K televisions announced: AI image enhancements, Dolby Vision IQ, and more",
-      "excerpt": "MediaTek announced T830 chipset for routers and mobile hotspot devices. Now the Taiwanese semiconductor manufacturer has launched Pentonic 700 processor for premium and high-end televisions. Last year,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/08/19/mediatek-pentonic-700-soc-for-4k-televisions-announced-ai-image-enhancements-dolby-vision-iq-and-more/",
-      "originalUrl": "https://www.gizmochina.com/2022/08/19/mediatek-pentonic-700-soc-for-4k-televisions-announced-ai-image-enhancements-dolby-vision-iq-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/08/MediaTek-Pentonic-700.jpeg",
-          "width": 629,
-          "height": 475,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/08/19/mediatek-pentonic-700-soc-for-4k-televisions-announced-ai-image-enhancements-dolby-vision-iq-and-more/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/19/mediatek-pentonic-700-soc-for-4k-televisions-announced-ai-image-enhancements-dolby-vision-iq-and-more/?amp=1",
-      "publishedDateTime": "2022-08-19T04:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

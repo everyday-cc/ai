@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-30-how-ai-predicts-hurricanes-and-answers-calls-for-help-in-their-aftermath.md",
+      "title": "How AI predicts hurricanes and answers calls for help in their aftermath",
+      "excerpt": "AI helps keep the lines of communication open during a disaster and also better predict the intensity of hurricanes in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-ai-predicts-hurricanes-and-answers-calls-for-help-in-their-aftermath/",
+      "originalUrl": "https://venturebeat.com/ai/how-ai-predicts-hurricanes-and-answers-calls-for-help-in-their-aftermath/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/01/hurricane-shutterstock_712360393.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-ai-predicts-hurricanes-and-answers-calls-for-help-in-their-aftermath/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-predicts-hurricanes-and-answers-calls-for-help-in-their-aftermath/amp/",
+      "publishedDateTime": "2022-09-29T15:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-30-house-democrats-debut-new-bill-to-limit-us-police-use-of-facial-recognition.md",
       "title": "House Democrats debut new bill to limit US police use of facial recognition",
       "excerpt": "The bill, if passed, would require police across the United States to first obtain a warrant before using facial recognition technologies.",
@@ -605,7 +656,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-growth-and-future-analysis-exclusive-report-by-fortune-business-insights-2022-2022-09-29",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -741,6 +792,58 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-fever-detector-ai-thermal-camera-market-size-sales-cagr-and-competition-data-from-2022-to-2028.md",
+      "title": "Fever Detector AI Thermal Camera Market Size, Sales, CAGR And Competition Data from 2022 To 2028",
+      "excerpt": "Fever Detector AI Thermal Camera Market Research Report is spread across 103 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/fever-detector-ai-thermal-camera-market-size-sales-cagr-and-competition-data-from-2022-to-2028-2022-09-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/fever-detector-ai-thermal-camera-market-size-sales-cagr-and-competition-data-from-2022-to-2028-2022-09-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-28T20:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
       ]
     },
     {
@@ -1121,111 +1224,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-amazons-household-robot-astro-can-now-recognize-your-cats-and-dogs.md",
-      "title": "Amazon's household robot Astro can now recognize your cats and dogs",
-      "excerpt": "Now Amazon's friendly house robot Astro will bring checking in on your pets to a whole new level. Amazon announced today that the Astro will soon be able to detect cats and dogs in the home. The pet recognition will allow the robot to,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/home-and-office/smart-home/amazons-household-robot-astro-can-now-recognize-your-cats-and-dogs/",
-      "originalUrl": "https://www.zdnet.com/home-and-office/smart-home/amazons-household-robot-astro-can-now-recognize-your-cats-and-dogs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/374d54dc3923c98af0cea39805fd86bf0edad6bf/2022/09/28/31ede2b8-bbf6-46b3-ba51-9f6a9032a60c/screen-shot-2022-09-28-at-12-39-13-pm.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/home-and-office/smart-home/amazons-household-robot-astro-can-now-recognize-your-cats-and-dogs/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/smart-home/amazons-household-robot-astro-can-now-recognize-your-cats-and-dogs/",
-      "publishedDateTime": "2022-09-28T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-amazon-wants-to-cocoon-you-with-ambient-intelligence.md",
-      "title": "Amazon Wants to Cocoon You With ‘Ambient Intelligence’",
-      "excerpt": "The company’s new smart gadget uses radar to track your breathing while you sleep. It’s part of Amazon’s plan to weave its products invisibly into your life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/amazon-wants-to-cocoon-you-with-ambient-intelligence/",
-      "originalUrl": "https://www.wired.com/story/amazon-wants-to-cocoon-you-with-ambient-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/633481ccc4d3ebc9237bc77d/master/pass/Halo_Rise_Pull-apart_01_RGB_science.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/amazon-wants-to-cocoon-you-with-ambient-intelligence/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-wants-to-cocoon-you-with-ambient-intelligence/amp",
-      "publishedDateTime": "2022-09-28T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

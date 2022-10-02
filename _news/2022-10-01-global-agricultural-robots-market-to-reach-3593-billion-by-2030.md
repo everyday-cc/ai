@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29104439"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29104439"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 89
+published: true
 
 provider:
   name: Benzinga.com
@@ -27,6 +27,31 @@ images:
     isCached: true
 
 related:
+  - title: "The Global Security Robots Market size is expected to reach $74.5 billion by 2028, rising at a market growth of 15.5% CAGR during the forecast period"
+    excerpt: "Reportlinker.com announces the release of the report \"Global Security Robots Market Size, Share & Industry Trends Analysis Report By Type, By End User, By Regional"
+    publishedDateTime: 2022-09-29T13:54:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g29074799/the-global-security-robots-market-size-is-expected-to-reach-74-5-billion-by-2028-rising-at-a-marke"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29074799"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29074799"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
+  - title: "Global Facial Recognition Market to Reach USD 8946.11 Million | Growing at CAGR of 14.47% | Forecast Period 2022-2027"
+    excerpt: "The global Facial Recognition market size was valued at USD 3975.52 million in 2021 and is expected to expand at a CAGR of 14.47% during the forecast period, reaching USD 8946.11 million by 2027."
+    publishedDateTime: 2022-09-27T13:10:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-facial-recognition-market-to-reach-usd-8946-11-million-growing-at-cagr-of-14-47-forecast-period-2022-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 16
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/NOSPR-Japan-tour-©-Radoslaw-Kazmierczak-e1661992929441-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Global Data Collection and Labeling Market to Reach $12.75 Billion by 2030"
     excerpt: "The global data collection and labeling market size is expected to reach USD 12.75 billion by 2030, according to this report. The market is anticipated to expand at a CAGR of 25.1% from 2022 to 2030."
     publishedDateTime: 2022-09-27T11:59:00Z

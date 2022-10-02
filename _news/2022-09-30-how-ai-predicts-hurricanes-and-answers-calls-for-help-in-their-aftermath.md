@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/how-ai-predicts-hurricanes-and-answers-ca
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-predicts-hurricanes-and-answers-calls-for-help-in-their-aftermath/amp/"
 type: article
 quality: 86
-heat: 89
+heat: 86
 published: true
 
 provider:

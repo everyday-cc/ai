@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/fever-detector-ai-therma
 webUrl: "https://www.marketwatch.com/press-release/fever-detector-ai-thermal-camera-market-size-sales-cagr-and-competition-data-from-2022-to-2028-2022-09-28"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 161
+published: true
 
 provider:
   name: MarketWatch
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision Market Expected to Raise at 31.74% CAGR by 2022-2027 | 107 Report Pages"
-    excerpt: "The global Computer Vision market size is expected to expand at a CAGR of 31.74% during the forecast period, reaching"
-    publishedDateTime: 2022-09-27T06:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-expected-to-raise-at-3174-cagr-by-2022-2027-107-report-pages-2022-09-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 76
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in IoT Market Size, Sales, CAGR And Competition Data from 2022 To 2029 | 102 Report Pages"
     excerpt: "Global “ Artificial Intelligence in IoT Market \" Report is a detailed and comprehensive analysis for global Artificial Intelligence in IoT market. Both quantitative and qualitative analyses are presented by manufacturers,"
     publishedDateTime: 2022-09-30T00:47:00Z
@@ -52,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "New standards set for Artificial Intelligence Market grow at 47.02% CAGR| 117 Report Pages"
-    excerpt: "The global Artificial Intelligence market size is expected to expand at a CAGR of 47.02% during the forecast period, reaching USD 411290.49 million by 2027 was valued at USD 40728.3 million in 2021. Artificial Intelligence Market report gives an impression of the various developments,"
-    publishedDateTime: 2022-09-27T06:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/new-standards-set-for-artificial-intelligence-market-grow-at-4702-cagr-117-report-pages-2022-09-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -85,29 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Accounting Market : Industry Analysis 2022 To 2029 based on Sales, Revenue, Size and Share | 104 Report Pages"
-    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence in Accounting Market is projected to"
-    publishedDateTime: 2022-09-30T00:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-industry-analysis-2022-to-2029-based-on-sales-revenue-size-and-share-104-report-pages-2022-09-29"
+  - title: "Artificial Intelligence in Aviation Market Size, Share and Forecast till 2027 with Top Countries Data"
+    excerpt: "The global Artificial Intelligence in Aviation market size was valued at USD 389.12 million in 2021 and is expected"
+    publishedDateTime: 2022-09-28T04:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-size-share-and-forecast-till-2027-with-top-countries-data-2022-09-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "New standards set for Cloud Natural Language Processing Market grow at 15.16% CAGR| 120 Report Pages"
-    excerpt: "The global Cloud Natural Language Processing market size is expected to expand at a CAGR of 15.16% during the forecast period, reaching USD 5289.6 million by 2027 was valued at USD 2268.2 million in 2021."
-    publishedDateTime: 2022-09-28T09:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/new-standards-set-for-cloud-natural-language-processing-market-grow-at-1516-cagr-120-report-pages-2022-09-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -127,45 +85,43 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2027"
-    excerpt: "The global Facial Recognition market size was valued at USD 3975.52 million in 2021 and is expected to expand at a CAGR"
+  - title: "Artificial Intelligence in Construction Market : Competitive Landscape and Analysis by Recent Trends 2022 to 2027"
+    excerpt: "The global Artificial Intelligence in Construction market size was valued at USD 519.63 million in 2021 and is expected"
     publishedDateTime: 2022-09-28T04:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2027-2022-09-28"
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-competitive-landscape-and-analysis-by-recent-trends-2022-to-2027-2022-09-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market 2022: Industry Insight, Drivers, Top Trends, Global Analysis and Forecast by 2027"
-    excerpt: "The global facial recognition market reached a value of US$ 5.0 Billion in 2021. IMARC Group expects the market to reach US$ 15.6 Billion by 2027, exhibiting a CAGR of 21.2% during 2022-2027."
-    publishedDateTime: 2022-09-27T19:54:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/ab29041902/facial-recognition-market-2022-industry-insight-drivers-top-trends-global-analysis-and-forecast-b"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29041902"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29041902"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/28171512/image-55-1024x683.png"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Artificial Intelligence in Video Games Market Segmentation, Future Trends, Growth Overview, Key Companies and Forecast by 2029 | 101 Report Pages"
-    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence in Video Games Market is projected to"
-    publishedDateTime: 2022-09-30T01:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-video-games-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2029-101-report-pages-2022-09-29"
+  - title: "Face Recognition Turnstile Market 2022 : Growth Analysis, Key Stakeholders, Regional Outlook, End-User Applicants by 2028"
+    excerpt: "Face Recognition Turnstile Market Research Report is spread across 103 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
+    publishedDateTime: 2022-09-27T08:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-turnstile-market-2022-growth-analysis-key-stakeholders-regional-outlook-end-user-applicants-by-2028-2022-09-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 30
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Thermometer with Face Recognition Market 2022 Key Product Segments, Application Analysis, and Industry Growth Forecast by 2028"
+    excerpt: "Thermometer with Face Recognition Market Research Report is spread across 105 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
+    publishedDateTime: 2022-09-30T04:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/thermometer-with-face-recognition-market-2022-key-product-segments-application-analysis-and-industry-growth-forecast-by-2028-2022-09-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -185,49 +141,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in HIV/AIDS Market is Forecast to Expand at a 8.9% CAGR and reach a Valuation of USD 519.63 Million by the end of 2030"
-    excerpt: "Artificial Intelligence (AI) in HIV/AIDS Market Size Global Report, 2022 - 2030 Sep 28, 2022 (Heraldkeepers) -- United States, New York City: According"
-    publishedDateTime: 2022-09-28T11:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-hivaids-market-is-forecast-to-expand-at-a-89-cagr-and-reach-a-valuation-of-usd-51963-million-by-the-end-of-2030-2022-09-28"
+  - title: "Deep Learning Market 2022 Size to Hit USD 569495.63 million with CAGR of 38.32% by 2027, Deep Learning Market Analysts Certification"
+    excerpt: "Deep Learning Market 2022-2027 including Market Overview, Business Revenue, Introduction, Gross advantage Final Report"
+    publishedDateTime: 2022-09-28T12:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2022-size-to-hit-usd-56949563-million-with-cagr-of-3832-by-2027-deep-learning-market-analysts-certification-2022-09-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 26
-  - title: "The Global Security Robots Market size is expected to reach $74.5 billion by 2028, rising at a market growth of 15.5% CAGR during the forecast period"
-    excerpt: "Reportlinker.com announces the release of the report \"Global Security Robots Market Size, Share & Industry Trends Analysis Report By Type, By End User, By Regional"
-    publishedDateTime: 2022-09-29T13:54:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/g29074799/the-global-security-robots-market-size-is-expected-to-reach-74-5-billion-by-2028-rising-at-a-marke"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29074799"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29074799"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
-  - title: "Global Facial Recognition Market to Reach USD 8946.11 Million | Growing at CAGR of 14.47% | Forecast Period 2022-2027"
-    excerpt: "The global Facial Recognition market size was valued at USD 3975.52 million in 2021 and is expected to expand at a CAGR of 14.47% during the forecast period, reaching USD 8946.11 million by 2027."
-    publishedDateTime: 2022-09-27T13:10:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-facial-recognition-market-to-reach-usd-8946-11-million-growing-at-cagr-of-14-47-forecast-period-2022-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 16
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/NOSPR-Japan-tour-©-Radoslaw-Kazmierczak-e1661992929441-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Artificial Intelligence in Diabetes Management Market to show impressive growth of 35.56% CAGR during the period 2022-2027 | 126 Report Pages"
-    excerpt: "Report Pages] Artificial Intelligence in Diabetes Management market size was valued at USD 227.28 million in 2021"
-    publishedDateTime: 2022-09-27T06:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diabetes-management-market-to-show-impressive-growth-of-3556-cagr-during-the-period-2022-2027-126-report-pages-2022-09-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 12
+    quality: 18
 
 secured: "ducfb30qN6ujtSUOALnR4e111nSmy0O1Ue1VgqmpPtCmMdoUt72NutqjaXZl4lWDNSW+0uBwwyuU9vTI8ZBzruB2OVxwKewIODYNboiYs9z7sn1qTRopMiJ9g5CQKrMAgxD8vgf+KWY6pQ8HQg5LdGbDYAIRLe6NPNaLsr677YDJLpMaG+j6YMyTMS+M1Yo8ELQ1Sj1fH7XiT/rTUdbwOLHz8eAWR70VB/pluoATIvMvO9NObnGxTL09tIFl5DPMe8nCzpPmasbYoQOgJoVk5XLQA0XM/EMBg4gzqkATddfgzbdgMxPxHjwAPZFWOFBEBUAWkoyJ5NqFPf9SprnXAXq+M5EmFS50nFXIYFE19yY=;Up5h6V7wTpBKqyhtlUXBhA=="
 ---
