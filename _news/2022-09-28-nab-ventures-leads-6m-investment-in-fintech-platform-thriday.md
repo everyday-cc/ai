@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Investera to participate at Fintech Surge 2022"
+    excerpt: "Will demonstrate its solutions to address the challenges facing companies, individuals, and start-ups, providing them with smart solutions, using AI-based technology"
+    publishedDateTime: 2022-10-03T06:09:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/investera-to-participate-at-fintech-surge-2022-n2tf38bz"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 24
+    images:
+      - url: "https://static.zawya.com/version/c:N2Q3ZWY5ZmItZTRkMS00:OTNmZjI3/metaatriverbed-jpg.jpg?f=1%3A1&q=1&w=3840"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Fintech firm CRED named top startup for this year"
     excerpt: "To compile this year’s list, the company looked at platform data between July 2021 and June 2022 across four pillars: employee growth, jobseeker interest, member engagement within the company and its employees,"
     publishedDateTime: 2022-09-28T19:30:00Z

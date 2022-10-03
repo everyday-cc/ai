@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Elon Musk Slated to Unveil Humanoid Robot Optimus at Tesla’s AI Day"
-excerpt: "The prototype, which the CEO aims to show off at a company’s AI event Friday, is part of his effort to shape public perception of the company as more than just a car maker."
-publishedDateTime: 2022-09-30T13:02:00Z
-originalUrl: "https://www.wsj.com/articles/tesla-ai-day-2022-elon-musk-11664536415"
-webUrl: "https://www.wsj.com/articles/tesla-ai-day-2022-elon-musk-11664536415"
-ampWebUrl: "https://www.wsj.com/amp/articles/tesla-ai-day-2022-elon-musk-11664536415"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-ai-day-2022-elon-musk-11664536415"
+title: "Elon Musk reveals Tesla’s Optimus robot, not a man in a suit this time"
+excerpt: "Musk said the Tesla robot could be ready for orders in three years and cost $20,000, but admitted there's still 'a lot of work to be done'."
+publishedDateTime: 2022-10-03T07:16:00Z
+originalUrl: "https://www.siliconrepublic.com/machines/elon-musk-tesla-robot-optimus-ai"
+webUrl: "https://www.siliconrepublic.com/machines/elon-musk-tesla-robot-optimus-ai"
 type: article
-quality: 121
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: SiliconRepublic
+  domain: siliconrepublic.com
 
 topics:
+  - AI in Robotics
   - AI
   - AI in Autos
-  - AI in Robotics
 
 images:
-  - url: "https://images.wsj.net/im-634227/social"
-    width: 1280
-    height: 640
+  - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/10/0x0-TeslaBot_03.png"
+    width: 800
+    height: 600
     isCached: true
 
 related:
@@ -95,6 +89,22 @@ related:
       - url: "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Elon Musk Slated to Unveil Humanoid Robot Optimus at Tesla’s AI Day"
+    excerpt: "The prototype, which the CEO aims to show off at a company’s AI event Friday, is part of his effort to shape public perception of the company as more than just a car maker."
+    publishedDateTime: 2022-09-30T13:02:00Z
+    webUrl: "https://www.wsj.com/articles/tesla-ai-day-2022-elon-musk-11664536415"
+    ampWebUrl: "https://www.wsj.com/amp/articles/tesla-ai-day-2022-elon-musk-11664536415"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-ai-day-2022-elon-musk-11664536415"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 121
+    images:
+      - url: "https://images.wsj.net/im-634227/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Elon Musk Unveils Humanoid Robot Optimus at Tesla’s AI Day"
     excerpt: "The prototype, which the CEO showed off at a company’s AI event Friday, is part of his effort to shape public perception of the company as more than just a car maker."
@@ -726,20 +736,6 @@ related:
         width: 1600
         height: 889
         isCached: true
-  - title: "Elon Musk reveals Tesla’s Optimus robot, not a man in a suit this time"
-    excerpt: "Musk said the Tesla robot could be ready for orders in three years and cost $20,000, but admitted there's still 'a lot of work to be done'."
-    publishedDateTime: 2022-10-03T07:16:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/elon-musk-tesla-robot-optimus-ai"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 56
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/10/0x0-TeslaBot_03.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Musk Unveils Tesla's Prototype of Humanoid Robot 'Optimus'"
     excerpt: "Elon Musk has showed off a new humanoid, part of the Tesla Inc. chief executive's effort to shape public perception of the company as more than an electric-vehicle maker."
     publishedDateTime: 2022-10-02T21:52:00Z
@@ -809,6 +805,6 @@ related:
       domain: thesun.co.uk
     quality: 28
 
-secured: "nkKNq3YzlvwlSkasLT1tKCkG2q+1T8YCGRdC7RczREY8xSfgg1lqgiERgRUkfvUIxox0zhTsdHIsjnTHW03E8qnQKLS/R79DTAHpoD2rhLgICpmnld+60BgHdxPvXdwXDbHxyo8VPpTuahJrhAzosLii3wY2HifBFdraICZXENw6yg9VPUt3xlVWPti+PJs4F8VyEnV85aiKyDMQbXW84mO3F6mzz5BUti/nLIy2aeRhIc3jpeb/IM/ZcjNdxGNVEQ/c9uMpO5En5afGeh8aHNFxN7fDp1epYJIh8RpbDc7eymiIA/QChQdmjldoL3GyGptLs2Tf5EJbsdql9B/CoWuzo8CBDOMc+COfOLY3sV8zTsHHJzZnU56qeP1aI7tUH/bMabniCLxTpxz1yjsnM1frRUGDBWZPu8mrCjpLgEGiRQ9alWKgLyrc+FnYxjf4KWpmUA9XadeWh5Lx50Q7RfXSC0Ml4e4LGsvURMURN2WQbmDkfw9RO8tYjdEGVkqOS6bQgI8nmr6+GbExUvKcmw==;0JCvOKWVW7kjLQLWT5pmTw=="
+secured: "2UuQi31f7gkO9D6P10/FJIMLdXhZl3i2w5X7ybkum7tC+bzTIm6pVZci6jU1sO8VFeV5AmquetCHypPg4TvuSphKDMR4oHPKhTNfGD855KjVegGezBhnxgNUs3rGh7YWeQXb5ypy71LokuzD8cYKdTjnXZ2uZf0AMtFok/5me+PmQ881rr6c1XJZ28T0uW/KQINQNKk5hOwerxHZJbYCMQ0IUeKTdvc/s0yAfUzz+kg0ynVX8zEzFn6Pahn0Cbqj1P1hT2Mb9PHTnXY6UmYkDp8FqSCEkiAJsqX79SS6+1G3PLcHKIzTkjfRwhhw4GmKVU7SsR9ejizrUh0t7wpT+BdoiQ8tVfiWaQXe2fdYKtM=;uE2QWDNoSaSbdy8KRHFNfg=="
 ---
 

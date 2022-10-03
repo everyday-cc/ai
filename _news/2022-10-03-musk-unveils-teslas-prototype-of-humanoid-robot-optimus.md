@@ -74,22 +74,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "Tesla AI Day Updates on Optimus Robot, Self-Driving Cars: How to Watch"
-    excerpt: "Tesla is hiring engineers to make the Tesla Bot for dangerous or boring work. Expect Elon Musk to detail the company's work on self-driving cars, too."
-    publishedDateTime: 2022-09-28T14:15:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/tesla-ai-day-updates-on-optimus-robot-self-driving-cars-how-to-watch/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ai-day-updates-on-optimus-robot-self-driving-cars-how-to-watch/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-updates-on-optimus-robot-self-driving-cars-how-to-watch/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 121
-    images:
-      - url: "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla AI Day 2022: Elon Musk's Optimus Robot, How to Watch and More"
     excerpt: "Engineers are trying to make a Tesla Bot for dangerous or boring work. At AI Day, expect updates on FSD technology for eventual self-driving cars too."
     publishedDateTime: 2022-09-28T20:44:00Z
@@ -751,6 +735,20 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2022/10/220930182442-02-tesla-ai-day-0930-robot.jpg"
         width: 1600
         height: 889
+        isCached: true
+  - title: "Elon Musk reveals Tesla’s Optimus robot, not a man in a suit this time"
+    excerpt: "Musk said the Tesla robot could be ready for orders in three years and cost $20,000, but admitted there's still 'a lot of work to be done'."
+    publishedDateTime: 2022-10-03T07:16:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/elon-musk-tesla-robot-optimus-ai"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 56
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/10/0x0-TeslaBot_03.png"
+        width: 800
+        height: 600
         isCached: true
   - title: "Elon Musk Reveals Prototype Humanoid Tesla Robot at AI Day"
     excerpt: "The Tesla robot walks and waves, though CEO Elon Musk claims it has more advanced functions. Those weren't shown on stage."

@@ -25,19 +25,6 @@ images:
     height: 367
     isCached: true
 
-related:
-  - title: "Arcion Announces Agentless Change Data Capture for Azure, SQL Server, Oracle, SAP HANA, and MySQL"
-    excerpt: "Arcion, creator of the only cloud-native, CDC-based data replication platform, today announced agentless change data capture (CDC) for all of its supported databases and applications. Enterprises can"
-    publishedDateTime: 2022-09-28T13:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/b29051857/arcion-announces-agentless-change-data-capture-for-azure-sql-server-oracle-sap-hana-and-mysql"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29051857"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29051857"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 26
-
 secured: "rrW9LS0T3AXakI4ueQtMoRabZgXKdMw2mDY8tRRgaj+5SkKciyXTT4VqCxFD3WmbX4jjBE/S/o2ztexoQUl6j4Fb9boyUdY3MLTnkLcO26q3AblYqhzP9wX7NKmf5ciT9fT4c0vDIWv0qnSryFwRlBGG06a9JUx1cGeCgQHYCHIThDXWNCHSVM/YasC7y8IbGux2a2Ym7z9tPvgrvvyvoK7MoF5FH+UBp/RerSbBqVWdMSXnGRb654Nsi0P13PZrwAmTuMsT0MUt0oTx6bz3d4i0Al5QV8MPjLoEMcsljEupWkRjThEh0WRgFWtRxkLrJLTKl+sNV3cFOEjrnO1efhtsDhH0JjBTffifgcsjUvU=;hTk3tVu2fhGJCcNqBo24xQ=="
 ---
 

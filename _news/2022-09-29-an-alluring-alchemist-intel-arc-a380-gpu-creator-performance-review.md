@@ -35,15 +35,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Inspur Information Announces Servers Now Support Intel’s Arctic Sound-M GPU"
-    excerpt: "Inspur Information, a leading IT infrastructure solutions provider, announced support for the Intel Artic Sound-M GPU (ATS-M) in its servers, in addition to showcasing a broad array of Intel-powered technology solutions that are empowering breakthroughs and advances in innovation from AI to edge computing at Intel Innovation 2022."
-    publishedDateTime: 2022-09-28T13:09:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-28-inspur-information-announces-servers-now-support-intels-arctic-sound-m-gpu"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 17
 
 secured: "/C87AeLXdlOQpAZQZ/V6K7eDMLB56IdocOdYeVAnX1VZvcsfvpIQ5OPoGCx/MZCLpBmFAwo9OZ1RiDtiYicf8mAFrhoUTtT+u9r6JWjyHHUg2NWoc8Hz3MWjc9QJvIC/rItT3DHSZLRjzcsvLy7TLZ43zHz0g8KIfvaFxUz+j0DF6JrguO6KpC55b/pC4e8bUWFCs5wH4PRFtdNCyIsssT2Ve98qiMFWOGHOcxyCLsq0KwWn+kpkTkx3O0o6q7+0lHdfmezF1PpV2QTVaGumGqrSVp0PD8K3KF/sj6qpPH6od/OI/IBBWCrpZzufwOsHGwaOhSen/mZiqHTqQYBO14KNWsdfsMLN4/Sp/Ihb+xgUeUC61aXHpgT/thINJj1LTbKZRzbPhi91ey00AAOtzG/6LFYEfkxVe90Jd44Re4A7mw3MmejDef7ShLyq9jF04lWk55sPVxwZXzIo27uyQk/Z9G8F/HDn3f1xAcvw5WQoTQjJ2pHETbYgLjFS50QsMCuHeZQI+oMmZSMMqVuWWw==;2xk3GtXqGAWbJexFKcoJLQ=="
 ---

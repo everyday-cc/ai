@@ -307,7 +307,7 @@
       "originalUrl": "https://www.digit.in/news/pc-components/intel-reveals-arc-a770-gpu-price-and-availability-65431.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1411,21 +1411,21 @@
       ]
     },
     {
-      "path": "_news/2022-09-20-nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing.md",
-      "title": "Nvidia unveils new gaming chip with AI features, taps TSMC for manufacturing",
-      "excerpt": "Sept 20 (Reuters) - Nvidia Corp (NVDA.O) on Tuesday announced new flagship chips for video gamers that use artificial intelligence (AI) to enhance graphics, saying it has tapped Taiwan ...",
+      "path": "_news/2022-09-20-artificial-intelligence-ai-chips-market-size-share-growth-and-forecast-to-2027-with-366-cagr-141-pages-report.md",
+      "title": "Artificial Intelligence (AI) Chips Market Size, Share, Growth and Forecast to 2027 with 36.6% CAGR | 141 Pages Report",
+      "excerpt": "Sep 20, 2022 (The Expresswire) -- \"Artificial Intelligence (AI) Chips Market\" valuation is projected to reach 50180 Mn USD by 2026, and it is estimated to be valued at 7719.4 Mn USD In 2022 with ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-manufacturing-2022-09-20/",
-      "originalUrl": "https://www.reuters.com/technology/nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-manufacturing-2022-09-20/",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-share-growth-and-forecast-to-2027-with-366-cagr-141-pages-report-2022-09-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-share-growth-and-forecast-to-2027-with-366-cagr-141-pages-report-2022-09-20",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/awrttdfwt7GldMh9Fah3hKj1RdQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KUNQZVB3LZK2NKDRMPVVVLXKL4.jpg",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
-          "height": 628,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1435,14 +1435,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T09:04:00-07:00",
+      "publishedDateTime": "2022-09-20T09:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

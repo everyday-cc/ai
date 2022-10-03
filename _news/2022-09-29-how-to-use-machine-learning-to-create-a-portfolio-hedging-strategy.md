@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 788
         isCached: true
+  - title: "How Artificial Intelligence is Revolutionizing Jobs"
+    excerpt: "How Artificial Intelligence is Revolutionizing Jobs. Synchronous work between humans and technology will change how we work. By Dylan McIntosh; Oct 03, 2022; Artificial intelligen"
+    publishedDateTime: 2022-10-01T00:00:00Z
+    webUrl: "https://ohsonline.com/articles/2022/10/01/how-artificial-intelligence.aspx"
+    type: article
+    provider:
+      name: Ohsonline.com
+      domain: ohsonline.com
+    quality: 37
+    images:
+      - url: "https://ohsonline.com/-/media/OHS/OHS/Images/2022/10/1022mcintosh.jpg"
+        width: 620
+        height: 300
+        isCached: true
 
 secured: "RF3TI77WBStR91K8TTFD+rTG0BQ2lV8C9+pe0hyiec0gwjUTCSADUkmieYKfGPaKjC9kH+oPLt43mpthxnGTz1MtbbJrbIxzR8xpu0WPvTsWEy5/zaOVKRSFvIRXILhIn3baAaasw3ymEova6abkzrPq8WopMRVWbV0CMlLifsAUwL4HMovvbg046AJaOc92tUge+BcMJHEPN5dybhdaPlAff1FOPXdrXqF+F7nUx9dIgtppMlWd4e5h9b7X+93SarJbPe+M9y5uvGigUu/XkQH2LLAiyZisrS+46qiJdijE4QstBTn8zjMSNhW8QvtjNfLvv/eEdAVPXq4jK19hdym0tagy62Mp2bGshddrsTjAbyyxTEuGb3Gd7v74ufPOAIX+N7t0AkxyxIiSJPq6s4+ld4UDgObyvcdKYWyoDAOvRUbT14JQM9GYpLoHnGxATqeD5Dz/i3zVelT1ojiYRR2dbbBVXVcngsU8QEke+nIaB+NW6StJYOKQVWBEPax5jrLQxhDDpBS9uZ5xh8fmcA==;BPeSjjBNK8hYaUmsMFwHAA=="
 ---

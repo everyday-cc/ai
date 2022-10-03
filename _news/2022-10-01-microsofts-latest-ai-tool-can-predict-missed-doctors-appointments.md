@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai-tool-can-predict-missed-doctors-appointments/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 66
-  - title: "Unlocking the power of AI in Microsoft Cloud for industries"
-    excerpt: "AI is transforming Microsoft Cloud for industries by helping organizations in modernizing business processes and accelerating development. Learn more."
-    publishedDateTime: 2022-09-28T15:00:00Z
-    webUrl: "https://cloudblogs.microsoft.com/industry-blog/general/2022/09/28/unlocking-the-power-of-ai-in-microsoft-cloud-for-industries/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 54
-    images:
-      - url: "https://cloudblogs.microsoft.com/industry-blog/uploads/industry/2022/09/GettyImages-Correct.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft and UiPath partner to bring Azure automation solutions to market"
     excerpt: "Enterprise automation vendor UiPath today announced a collaboration with Microsoft to bring Azure-powered automation solutions to market"
     publishedDateTime: 2022-09-28T15:47:00Z
