@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 664
         isCached: true
-  - title: "Amazon Wants Its Home Robot, Astro, to Anticipate Your Every Need"
-    excerpt: "The cutesy robot called Astro doesn’t do much now, but the company says it’s a step toward machines that understand your habits."
-    publishedDateTime: 2022-09-28T16:45:00Z
-    webUrl: "https://www.wired.com/story/amazon-wants-its-home-robot-astro-to-anticipate-your-every-need/"
-    ampWebUrl: "https://www.wired.com/story/amazon-wants-its-home-robot-astro-to-anticipate-your-every-need/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-wants-its-home-robot-astro-to-anticipate-your-every-need/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/6333a06b74ce5b82a68ef382/master/pass/Astro-Robot-Pet-Detection-Amazon-Business.jpg"
-        width: 1620
-        height: 1080
-        isCached: true
   - title: "Amazon upgrades $1,000 Astro robot"
     excerpt: "Astro, which was by Amazon introduced last year, uses a periscope camera with an expandable field of view to patrol your home and notify you when it detects something unusual."
     publishedDateTime: 2022-09-30T21:00:00Z

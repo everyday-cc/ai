@@ -9,8 +9,8 @@ ampWebUrl: "https://www.popsci.com/technology/ai-robotics-battery-design-discove
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-robotics-battery-design-discovery/?amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Popular Science
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence designs batteries that charge faster than humans can imagine"
+    excerpt: "An artificial intelligence known as ‘Dragonfly’ has been used by resaerchres to design more efficient batteries. Scientists at Carnegie Mellon have used the tool to design better electrolytes for lithium-ion batteries,"
+    publishedDateTime: 2022-10-03T07:52:00Z
+    webUrl: "https://www.independent.co.uk/tech/artificial-intelligence-batteries-charge-fast-b2191409.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 30
+    images:
+      - url: "https://static.independent.co.uk/2022/10/03/10/battery-g0145dd061_640.jpeg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "How artificial intelligence is making diagnosis faster and more accurate"
     excerpt: "At Metropolis Healthcare in Mumbai, 60 per cent of pathology samples are analysed by doctors but, in a glimpse of how artificial intelligence (AI) is transforming the way we detect and treat disease,"
     publishedDateTime: 2022-10-02T12:15:00Z

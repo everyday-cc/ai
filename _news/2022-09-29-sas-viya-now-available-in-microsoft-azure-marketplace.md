@@ -58,20 +58,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 66
-  - title: "Microsoft and UiPath partner to bring Azure automation solutions to market"
-    excerpt: "Enterprise automation vendor UiPath today announced a collaboration with Microsoft to bring Azure-powered automation solutions to market"
-    publishedDateTime: 2022-09-28T15:47:00Z
-    webUrl: "https://www.information-age.com/microsoft-uipath-partner-to-bring-azure-automation-solutions-to-market-123500068/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 52
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2022/09/microsoft-uipath-partner-to-bring-azure-automation-solutions-to-market.jpg.optimal.jpg"
-        width: 1080
-        height: 591
-        isCached: true
 
 secured: "kY2vTyO1bXZdRuDI0I5lhZj6ZHdqDCSZqANxycNDRJdMXBE6L+4XT0ao/znoXkKj4RzP2H45Jg8f2LHkuhGylqpWLKvcfcoswiOtfK/uJJ35FPAQVI5W8YtsbX58XNcWU08qhY3JIB8h7Hh6kjp0YwwgqTu+NZ8Gye+sOfmrf/FIJgEEdqfz5rhwidh9q/R6Wl4gVh0ulKacRN2oSoqaD4vcJV1FaHWU/tYz6Wl+mdiz2aNtGx3TW+Y1KK9MgLHAnSIb6ElVbzgsjU7Ic8CQme9lsXkHwkcEajTNfdf+w9z3yDXqGnW4BEYmqSQhC5MfivBqVSJpcMEndxuKI3j1AL4k97VPo01Wm1cNb/4h0hSsYpVkCWeKSdGZb34LtohedtnCUnzBD6k6KKFoslnxns2uNDWYezb2AFPIigFmizKDdi2P9nlVvg9VO0up9iUhJn2+YemOvaxN3mIoIv8urdu7rMvRBeHhvEDx8UaWLDjNTujtJTD3J02WSe00HLlWJjEF8umWi7MCJouK7yF9EQ==;0vZHJzS7QyoGGDt5Piwqxg=="
 ---

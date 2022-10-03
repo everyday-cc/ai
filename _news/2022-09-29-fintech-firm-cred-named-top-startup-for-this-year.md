@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "NAB Ventures Leads $6M Investment in Fintech Platform Thriday"
-    excerpt: "Thriday, the financial management platform, finalizes $6M pre-Series A round led by NAB Ventures and participation from Lempriere Capital."
-    publishedDateTime: 2022-09-28T15:30:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/09/196617-nab-ventures-leads-6m-investment-in-fintech-platform-thriday/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 24
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/11/Counting-Money-1024x768.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Investera to participate at Fintech Surge 2022"
     excerpt: "Will demonstrate its solutions to address the challenges facing companies, individuals, and start-ups, providing them with smart solutions, using AI-based technology"
     publishedDateTime: 2022-10-03T06:09:00Z

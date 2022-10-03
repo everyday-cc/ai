@@ -50,20 +50,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Microsoft and UiPath partner to bring Azure automation solutions to market"
-    excerpt: "Enterprise automation vendor UiPath today announced a collaboration with Microsoft to bring Azure-powered automation solutions to market"
-    publishedDateTime: 2022-09-28T15:47:00Z
-    webUrl: "https://www.information-age.com/microsoft-uipath-partner-to-bring-azure-automation-solutions-to-market-123500068/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 52
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2022/09/microsoft-uipath-partner-to-bring-azure-automation-solutions-to-market.jpg.optimal.jpg"
-        width: 1080
-        height: 591
-        isCached: true
   - title: "SAS Viya Now Available in Microsoft Azure Marketplace"
     excerpt: "The SAS Viya analytics platform is now available in the Microsoft Azure Marketplace with the click of a button on a"
     publishedDateTime: 2022-09-28T19:55:00Z

@@ -53,7 +53,7 @@ related:
     provider:
       name: Ohsonline.com
       domain: ohsonline.com
-    quality: 37
+    quality: 41
     images:
       - url: "https://ohsonline.com/-/media/OHS/OHS/Images/2022/10/1022mcintosh.jpg"
         width: 620

@@ -7,7 +7,7 @@ originalUrl: "https://www.zawya.com/en/press-release/companies-news/investera-to
 webUrl: "https://www.zawya.com/en/press-release/companies-news/investera-to-participate-at-fintech-surge-2022-n2tf38bz"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "NAB Ventures Leads $6M Investment in Fintech Platform Thriday"
-    excerpt: "Thriday, the financial management platform, finalizes $6M pre-Series A round led by NAB Ventures and participation from Lempriere Capital."
-    publishedDateTime: 2022-09-28T15:30:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/09/196617-nab-ventures-leads-6m-investment-in-fintech-platform-thriday/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 24
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/11/Counting-Money-1024x768.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Fintech firm CRED named top startup for this year"
     excerpt: "To compile this year’s list, the company looked at platform data between July 2021 and June 2022 across four pillars: employee growth, jobseeker interest, member engagement within the company and its employees,"
     publishedDateTime: 2022-09-28T19:30:00Z

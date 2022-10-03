@@ -6,7 +6,7 @@ publishedDateTime: 2022-10-01T00:00:00Z
 originalUrl: "https://ohsonline.com/articles/2022/10/01/how-artificial-intelligence.aspx"
 webUrl: "https://ohsonline.com/articles/2022/10/01/how-artificial-intelligence.aspx"
 type: article
-quality: 37
+quality: 41
 heat: -1
 published: false
 
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://ohsonline.com/-/media/OHS/OHS/Images/2022/10/1022mcintosh.jpg"
@@ -55,6 +57,6 @@ related:
         height: 800
         isCached: true
 
-secured: "MZS/dSMtvNW8giUIo9dAxe/xXW7cNVdy/U0/yhEZkHgqv0QYEw7EOjPBSy2j5h5/Zcdq8IW+nu6EaYlCIy6/+c/p4FkyFzkL8GyVf9Db0mQFMF7iDWFLqfosPS8ZjilGJKRqps+RrplBhA+rk0jHi5RjpT6ik2Z6vdth2jNnaUQAMwjwYbI3zcQnRg6BIlH0p6CxaeJU6o9SPQDjTEygTIRH0xaPZm6rN2LIrmCbu36WMO9BJY/1ECo+DLnYoQiNWulBBl9eDeGZBY+R0M5tjvhO4aEoGQwJdW3ElYS3wEWHXcfvDna6GB/uobtx7D7g6cXdFeK1j45DvIl+zIxkXJeYjVxdx90vtFzU/HBU+Yg=;DS3IvmTYfQaRrf4fnNTHqA=="
+secured: "TCooWv/oBrCLxW52rNpXfTFACiJqfB63Y3+1VilDjyJz/PImCFlOCsgdOYZIMEt436Lc7Wpr8FX6F2dePzX1sV5/ARNoKuxdrywiL7vZgX5HD6kNm0vV7GiT3mbQATTh0nwgxi4f83nGZ87Hfx0EMGvdb5GSQ0r4flph3JJjsUCDhZmK1bmKWpLmjCmNURygqdQsz7o1ClRX3nysQRM3GZyTi+xoKsCcyKaDRLGTRtHJ3SMRWOyfyCvqvHDXdJqvPsFD88Jlu0rjyvp+wGYyKH73G+huhPX6rJrBSX5Jmyq8OXXlfPEe9nWumnb8XOFaziguqzpJXIBGKbBA6Z2p7oQqbSQy/cmvDuLyL85RAtHCAqMDIKKOLi87MuFQid8EK20/5AeqC/Fev0au0KNuXbmFu5ct8NVQzyuhJzhvd9JzHWous1QqHb0QAOpUPwsGdY6KWxL4fTX+YGuOos5A1a+SxaEUkwjMRZ/PKvCsLKXpj7yqtyek0RAMXVESi6FVuq2iWqJI56tmDQz6jAKyKA==;K/gF6EUOe7DKIbqSAOEvTw=="
 ---
 

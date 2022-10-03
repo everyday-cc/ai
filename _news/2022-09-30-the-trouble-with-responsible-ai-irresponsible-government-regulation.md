@@ -22,6 +22,22 @@ topics:
   - AI Ethics
   - AI
 
+related:
+  - title: "Responsible AI still a pipe dream for many"
+    excerpt: "While 84% of global executives believe responsible AI (RAI) should be on top management agendas, only 25% have comprehensive RAI programs in place. This is according to a joint study by MIT Sloan Management Review (MIT SMR) and Boston Consulting Group (BCG),"
+    publishedDateTime: 2022-10-03T09:55:00Z
+    webUrl: "https://it-online.co.za/2022/10/03/responsible-ai-still-a-pipe-dream-for-many/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 39
+    images:
+      - url: "https://it-online.co.za/wp-content/uploads/2022/10/ai-2.jpg"
+        width: 855
+        height: 496
+        isCached: true
+
 secured: "YdS5qiZgb8CowNWOPeT5f1tTbWoWxx3mxpPavLEonBugsy/XSbNUJHyLScZv44JYXRbSQOvoo24pD5fvYHVVQCLLrFfQYOcSem+k1z9riTd4aXfEInJDLe2n1uZr4cL0S5bIgO3b4cIeKJXH7abpAnJNMmLu4TSLriK5wM89S2Oih9sEgTCE2O/9h/6xwmGZqgqXPR1RUfYC6D6iUEBuwhozxAnO98SMRRuN4Q5UH5vlbIVncmMiE3rPfNds4e3XHAKHCU8o81Jwxik9aVb8KkU5o+Y1gzMa6eq2rP8tCBQr8UxPXU+4YVSxvNnecpg3CvvmEcJ7l0KC6xMKeoPD2+78JabQ0ZJ1z9e28LAS42MGPNjPY0u2q7QGfW7Vt9mr13zPMLHk89GTJ/bEWzGSmT73zEZQCu5g+uCeTpPAgOvdifmbTAnw52fheV7hsfvOThLLNMy0WofdE42klwCPvJ27H2fUCPli1hmyPPxCiyc3p8h97xIlB9RQFmDu+J8Dz7AcJ+1srakA8jocO749rw==;w5pUHK2NSVpa799ypF4n3w=="
 ---
 
