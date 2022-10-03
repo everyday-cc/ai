@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applicatio
 ampWebUrl: "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/amp/"
 type: article
-quality: 123
-heat: 133
+quality: 125
+heat: 135
 published: true
 
 provider:
@@ -25,6 +25,7 @@ topics:
   - AI
   - Natural Language Processing
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/07/Zebra-Medical-FDA-approval-AI-heart-disease.jpg?w=1200&strip=all"

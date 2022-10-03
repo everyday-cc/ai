@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-08-11-johnson-controls-ai-enhanced-openblue-platform-cuts-microsofts-beijing-campus-energy-footprint.md",
+      "title": "Johnson Controls AI-enhanced OpenBlue Platform Cuts Microsoft's Beijing Campus Energy Footprint",
+      "excerpt": "Johnson Controls helps Microsoft Beijing Campus achieve energy savings of 27.9% through continuous retrofitting and optimization, delivering on sustainable development goals",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/johnson-controls-ai-enhanced-openblue-platform-cuts-microsofts-beijing-campus-energy",
+      "originalUrl": "https://www.asiaone.com/business/johnson-controls-ai-enhanced-openblue-platform-cuts-microsofts-beijing-campus-energy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Aug2022/Microsoft_Beijing_Campus.jpg?itok=pnz7-8Qy",
+          "width": 599,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-11T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-11-intel-foundry-services-announces-mediatek-as-first-wafer-customer.md",
       "title": "Intel Foundry Services Announces MediaTek As First Wafer Customer",
       "excerpt": "Ranked Industry Analyst Patrick Moorhead dives into Intel's announcement of its first official wafer fabrication customer with MediaTek.",
@@ -1398,49 +1441,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-active-social-life-may-create-cognitive-buffer-against-alzheimers-study-suggests.md",
-      "title": "Active social life may create cognitive buffer against Alzheimer's, study suggests",
-      "excerpt": "Advertisement As the basis of the study, researchers from the United Kingdom explored the idea that genetic and \"life course\" factors may help create a so-called \"cognitive reserve\" that provides ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Health_News/2022/08/03/social-life-cognitive-decline-study/4611659541537/",
-      "originalUrl": "https://www.upi.com/Health_News/2022/08/03/social-life-cognitive-decline-study/4611659541537/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/4611659541537/2022/1/9a254516326158d3d5bbaa2c2e5b48b2/v1.5/Active-social-life-may-create-cognitive-buffer-against-Alzheimers-study-suggests.jpg?lg=5",
-          "width": 900,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Health_News/2022/08/03/social-life-cognitive-decline-study/4611659541537/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2022/08/03/social-life-cognitive-decline-study/4611659541537/",
-      "publishedDateTime": "2022-08-03T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

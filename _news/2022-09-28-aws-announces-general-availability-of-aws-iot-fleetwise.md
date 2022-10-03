@@ -1,20 +1,30 @@
 ---
 category: news
 title: "AWS Announces General Availability of AWS IoT FleetWise"
-excerpt: "New service makes it easier for automotive companies to collect, transform, and transfer vehicle data to the cloud in near real time, enabling improved vehicle quality and autonomy Bridgestone, Hyundai Motor Group,"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of AWS"
 publishedDateTime: 2022-09-27T17:05:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/b29037953/aws-announces-general-availability-of-aws-iot-fleetwise"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/b29037953/aws-announces-general-availability-of-aws-iot-fleetwise"
+originalUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-aws-iot-fleetwise-2022-09-27"
+webUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-aws-iot-fleetwise-2022-09-27"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "UUCBJ/ilhQmCmLK5BYbM1nUOtOqm7kf6KcAlk0GNN8DTzYMrFGJZNhMeqnSblM+kwk/7TXs8zZqhAW2bLtZ3B/fjcNj4cQ1/XZmQRmDw0qMRZNJhKT2IG6Yf5uTVHUhKcSfurF963dkcoBMjk8MOUV93KXGcKga5RHnSs9/tBKUGW1GTGSdq/1rtBnQiTQQ1BPiFKIfKgQgJ2FQrEM0D7SxDIxX6stv5Wv3bC6phkA+tVE78BQ1c5SH+bXXAeXPJfFptfpp+LEu42XTOr4dbFl6+fHgdS1OksXTE6t8NHHO/3olxihwQP7dCjP3PN61ag9kdrakEae2Xv0XwgU7MfsOo4LrVHHWXeVbBW2KO+m4=;kN+BbqDZ5xGkWiQ+H9xT3g=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "VS6jdn/pEwoKoes8Opdk4nExQOpWjAVDydgnPmHzKvoI5lNK4/tPVBQnovbONbXeaGTfd5v3zJ6y73YPafyIWntmidphClSqzojXrOC+XdViKrd8VaZQ9Y0ChJsQoL8Vd+PR8CbYBOd4hLxLTrwFy4K7VE1qKaU0uKGX/UrdVMU+zjYeMT0TS5PixVDBRZYAV282ucRzTpbYvVVtw58SWFFGjHwFtOWNEXmYYMg32gcMhyq4ImOgEM+j3vCyLt2wIHDp+hAiBQ/1UovBKCkStLMLTdS/xcOvLp5t0qo/MVeIu4mt6e77WoIm/6MIye3tDjIaizg+HCy1uLw8pJLwUWSz7T9Nh5+ZESWfdNINhBM=;fHOnEDKvTumcgGcRSwMGWQ=="
 ---
 

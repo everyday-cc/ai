@@ -2,6 +2,317 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-29-want-to-get-your-team-to-adopt-ai-follow-these-8-critical-steps-for-success.md",
+      "title": "Want To Get Your Team To Adopt AI? Follow These 8 Critical Steps For Success",
+      "excerpt": "Despite millions of dollars invested in AI, most industry projects never get adopted. Here are the four stages and eight steps to dramatically improve the adoption of your data science solution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ganeskesari/2022/09/29/want-to-get-your-team-to-adopt-ai-follow-these-8-critical-steps-for-success/",
+      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2022/09/29/want-to-get-your-team-to-adopt-ai-follow-these-8-critical-steps-for-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5fdfc345111d68467d2218f5/0x0.jpg?format=jpg&crop=5994,3997,x0,y85,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2022/09/29/want-to-get-your-team-to-adopt-ai-follow-these-8-critical-steps-for-success/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2022/09/29/want-to-get-your-team-to-adopt-ai-follow-these-8-critical-steps-for-success/amp/",
+      "publishedDateTime": "2022-09-29T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-how-ai-can-streamline-sales-and-operations-planning.md",
+      "title": "How AI Can Streamline Sales And Operations Planning",
+      "excerpt": "Business leaders need to remember that making money is not only about bringing in more of it; learning how to stop losing it due to operational inefficiencies is equally important.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/29/how-ai-can-streamline-sales-and-operations-planning/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/29/how-ai-can-streamline-sales-and-operations-planning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/624ee96fdaa9eb3a4c56cc31/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/29/how-ai-can-streamline-sales-and-operations-planning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/29/how-ai-can-streamline-sales-and-operations-planning/amp/",
+      "publishedDateTime": "2022-09-29T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-virtual-ward-startup-doccla-gets-series-a-injection-as-it-eyes-ai-tools.md",
+      "title": "‘Virtual ward’ startup Doccla gets Series A injection as it eyes AI tools",
+      "excerpt": "Health tech Doccla, which sells a remote patient monitoring platform to UK hospitals, has closed a £15 million Series A funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/28/doccla-series-a/",
+      "originalUrl": "https://techcrunch.com/2022/09/28/doccla-series-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/Copy-of-9.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/28/doccla-series-a/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/28/doccla-series-a/amp/",
+      "publishedDateTime": "2022-09-29T02:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-ai-based-surgical-robots-market-growth-and-future-analysis-exclusive-report-by-fortune-business-insights-2022.md",
+      "title": "AI-based Surgical Robots Market Growth and Future Analysis : Exclusive Report by Fortune Business Insights 2022",
+      "excerpt": "The \"AI-based Surgical Robots Market Size\" industry report contains detailed information on factors influencing",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-growth-and-future-analysis-exclusive-report-by-fortune-business-insights-2022-2022-09-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-growth-and-future-analysis-exclusive-report-by-fortune-business-insights-2022-2022-09-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-28T23:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-ai-powered-robots-have-become-nice-to-necessity-for-warehousing-automation.md",
+      "title": "AI-powered Robots Have Become Nice To Necessity For Warehousing Automation",
+      "excerpt": "AI-powered robots are based on the principles of human intelligence are defined as the way in which machines imitate human intelligence to perform simple and complex tasks",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/en-in/technology/ai-powered-robots-have-become-nice-to-necessity-for/436278",
+      "originalUrl": "https://www.entrepreneur.com/en-in/technology/ai-powered-robots-have-become-nice-to-necessity-for/436278",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1664430293-Untitleddesign-2022-09-29T111421176.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-28T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-fever-detector-ai-thermal-camera-market-size-sales-cagr-and-competition-data-from-2022-to-2028.md",
+      "title": "Fever Detector AI Thermal Camera Market Size, Sales, CAGR And Competition Data from 2022 To 2028",
+      "excerpt": "Fever Detector AI Thermal Camera Market Research Report is spread across 103 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/fever-detector-ai-thermal-camera-market-size-sales-cagr-and-competition-data-from-2022-to-2028-2022-09-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/fever-detector-ai-thermal-camera-market-size-sales-cagr-and-competition-data-from-2022-to-2028-2022-09-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-28T20:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-09-29-intel-reveals-arc-a770-gpu-price-and-availability.md",
       "title": "Intel Reveals Arc A770 GPU price and availability",
       "excerpt": "Intel claims that its GPU offers up to 65% better peak performance versus competing products (presumably NVIDIA RTX 3060 series) in ray tracing. In addition, A770 features a full complement of 32 Xe Cores and ray tracing units.",
@@ -933,292 +1244,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-are-you-a-bad-teacher-this-artificial-intelligence-app-aims-to-tell-you.md",
-      "title": "Are You A Bad Teacher? This Artificial Intelligence App Aims To Tell You",
-      "excerpt": "Administrators aren't privy to the analysis teachers receive using the TeachFX app. “Eighty five percent teacher talk for me—even for an interview that makes me think: yikes!” Jamie Poskin ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/emmawhitford/2022/09/27/are-you-a-bad-teacher-this-artificial-intelligence-app-aims-to-tell-you/",
-      "originalUrl": "https://www.forbes.com/sites/emmawhitford/2022/09/27/are-you-a-bad-teacher-this-artificial-intelligence-app-aims-to-tell-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/633254d6de0e387de2dd5380/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/emmawhitford/2022/09/27/are-you-a-bad-teacher-this-artificial-intelligence-app-aims-to-tell-you/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawhitford/2022/09/27/are-you-a-bad-teacher-this-artificial-intelligence-app-aims-to-tell-you/amp/",
-      "publishedDateTime": "2022-09-27T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-see-what-happens-when-ai-turns-simpsons-characters-into-real-people.md",
-      "title": "See What Happens When AI Turns 'Simpsons' Characters Into Real People",
-      "excerpt": "Leslie Katz leads a team that explores the intersection of tech and culture, plus all manner of awe-inspiring science, from space to AI and archaeology. When she's not smithing words, she's probably playing online word games,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/culture/internet/heres-what-happens-when-ai-turns-simpsons-characters-into-real-people/",
-      "originalUrl": "https://www.cnet.com/culture/internet/heres-what-happens-when-ai-turns-simpsons-characters-into-real-people/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/ecf4a3226bb84838b30962de84e7626f3150294e/hub/2022/09/26/4031b775-1b21-44aa-8b8a-5e8d8e22afbc/collage-maker-26-sep-2022-01-56-pm-1.jpg?auto=webp",
-          "width": 886,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/heres-what-happens-when-ai-turns-simpsons-characters-into-real-people/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/heres-what-happens-when-ai-turns-simpsons-characters-into-real-people/",
-      "publishedDateTime": "2022-09-27T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-how-ai-service-startup-aisera-is-helping-companies-embrace-machine-learning-to-automate-tasks.md",
-      "title": "How AI service startup Aisera is helping companies embrace machine learning to automate tasks",
-      "excerpt": "More companies are beginning to embrace AI in key parts of their businesses, and Sudhakar predicts it will be part of every company's technology stack. His startup, Aisera, uses machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/how-ai-startup-aisera-helping-companies-automate-tasks-2022-9",
-      "originalUrl": "https://www.businessinsider.com/how-ai-startup-aisera-helping-companies-automate-tasks-2022-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/632a312bedbe7f00190f21f2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/how-ai-startup-aisera-helping-companies-automate-tasks-2022-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-ai-startup-aisera-helping-companies-automate-tasks-2022-9?amp",
-      "publishedDateTime": "2022-09-27T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-aws-announces-general-availability-of-aws-iot-fleetwise.md",
-      "title": "AWS Announces General Availability of AWS IoT FleetWise",
-      "excerpt": "New service makes it easier for automotive companies to collect, transform, and transfer vehicle data to the cloud in near real time, enabling improved vehicle quality and autonomy Bridgestone, Hyundai Motor Group,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/b29037953/aws-announces-general-availability-of-aws-iot-fleetwise",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/b29037953/aws-announces-general-availability-of-aws-iot-fleetwise",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-ai-and-machine-learning-enter-the-kitchen-at-chipotle.md",
-      "title": "AI and Machine Learning Enter the Kitchen at Chipotle",
-      "excerpt": "The first, piloting in select Southern California restaurants, is a cook-to-needs kitchen management system that provides demand-based cooking and ingredient preparation forecasts to “optimize throughput and freshness while minimizing food waste,",
-      "sourceUrl": null,
-      "webUrl": "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enter-kitchen-chipotle",
-      "originalUrl": "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enter-kitchen-chipotle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2022-09/Chipotlane.jpg?itok=5BEjL9Eh",
-          "width": 765,
-          "height": 446,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "QSR magazine",
-        "domain": "qsrmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-intel-ceo-on-high-gpu-prices-you-should-be-frustrated.md",
-      "title": "Intel CEO on high GPU prices: ‘You should be frustrated’",
-      "excerpt": "Intel revealed the pricing and release date for its upcoming Arc Alchemist GPUs, along with a sobering message on high GPU prices: \"ou should be frustrated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/intel-ceo-arc-alchemist-high-gpu-prices/",
-      "originalUrl": "https://www.digitaltrends.com/computing/intel-ceo-arc-alchemist-high-gpu-prices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/09/intel-arc-alchemist-launch.jpg?p=1",
-          "width": 1723,
-          "height": 967,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/intel-ceo-arc-alchemist-high-gpu-prices/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/intel-ceo-arc-alchemist-high-gpu-prices/?amp",
-      "publishedDateTime": "2022-09-27T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

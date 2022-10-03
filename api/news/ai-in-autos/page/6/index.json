@@ -2,6 +2,111 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-08-30-industrys-first-autonomous-spreader-debutsat-farm-progress-show.md",
+      "title": "Industry’s first autonomous spreader debutsat Farm Progress Show",
+      "excerpt": "Case IH and Raven Industries introduce the agriculture industry’s first autonomous spreader: the Case IH Trident™",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/industrys-first-autonomous-spreader-debutsat-farm-progress-show-2022-08-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/industrys-first-autonomous-spreader-debutsat-farm-progress-show-2022-08-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-artificial-intelligence-chip-market-size-worth-usd-832527-million-by-2027-the-insight-partners.md",
+      "title": "Artificial Intelligence Chip Market Size Worth USD 83,252.7 million By 2027 | The Insight Partners",
+      "excerpt": "According to The Insight Partners' research, the Artificial Intelligence Chip Market to 2027 – Global Analysis and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-worth-usd-832527-million-by-2027-the-insight-partners-2022-08-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-worth-usd-832527-million-by-2027-the-insight-partners-2022-08-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T04:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-baidu-revenue-contracts-but-beats-estimates-on-cloud-business-growth.md",
       "title": "Baidu revenue contracts but beats estimates on cloud business growth",
       "excerpt": "Revenue at Baidu's AI Cloud unit grew 31% year-on-year in the quarter. Baidu has also been doubling down on self-driving technologies, in which it has heavily invested over the past five years.",
@@ -1279,101 +1384,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-lyft-and-motional-unveil-driverless-robotaxi-in-vegas.md",
-      "title": "Lyft And Motional Unveil Driverless Robotaxi In Vegas",
-      "excerpt": "Lyft and Motional have partnered to launch Motional's new all-electric IONIQ 5-based robotaxi, an autonomous vehicle designed for fully driverless ride-hail operation, on the Lyft network in Las ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104749877/Lyft-And-Motional-Unveil-Driverless-Robotaxi-In-Vegas",
-      "originalUrl": "https://menafn.com/1104749877/Lyft-And-Motional-Unveil-Driverless-Robotaxi-In-Vegas",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-08/24/R&AN_e39d7image_story.jpeg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MENAFN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-elon-musk-tells-early-tesla-full-self-driving-beta-testers-not-to-complain.md",
-      "title": "Elon Musk tells early Tesla Full Self-Driving Beta testers not to complain",
-      "excerpt": "Elon Musk has told an early Tesla Full Self-Driving Beta tester not to complain about the new FSD Beta update. Isn’t that kind of their job? A job that not only they are not paid for, but that Tesla is paying for? FSD Beta enables Tesla vehicles to drive ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/08/24/elon-musk-tells-early-tesla-full-self-driving-beta-testers-not-complain/",
-      "originalUrl": "https://electrek.co/2022/08/24/elon-musk-tells-early-tesla-full-self-driving-beta-testers-not-complain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/05/Elon-Musk-Game-of-Thrones-FI.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/08/24/elon-musk-tells-early-tesla-full-self-driving-beta-testers-not-complain/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/24/elon-musk-tells-early-tesla-full-self-driving-beta-testers-not-complain/amp/",
-      "publishedDateTime": "2022-08-24T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

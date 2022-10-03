@@ -2,6 +2,310 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-28-are-you-a-bad-teacher-this-artificial-intelligence-app-aims-to-tell-you.md",
+      "title": "Are You A Bad Teacher? This Artificial Intelligence App Aims To Tell You",
+      "excerpt": "Administrators aren't privy to the analysis teachers receive using the TeachFX app. “Eighty five percent teacher talk for me—even for an interview that makes me think: yikes!” Jamie Poskin ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/emmawhitford/2022/09/27/are-you-a-bad-teacher-this-artificial-intelligence-app-aims-to-tell-you/",
+      "originalUrl": "https://www.forbes.com/sites/emmawhitford/2022/09/27/are-you-a-bad-teacher-this-artificial-intelligence-app-aims-to-tell-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633254d6de0e387de2dd5380/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/emmawhitford/2022/09/27/are-you-a-bad-teacher-this-artificial-intelligence-app-aims-to-tell-you/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawhitford/2022/09/27/are-you-a-bad-teacher-this-artificial-intelligence-app-aims-to-tell-you/amp/",
+      "publishedDateTime": "2022-09-27T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-see-what-happens-when-ai-turns-simpsons-characters-into-real-people.md",
+      "title": "See What Happens When AI Turns 'Simpsons' Characters Into Real People",
+      "excerpt": "Leslie Katz leads a team that explores the intersection of tech and culture, plus all manner of awe-inspiring science, from space to AI and archaeology. When she's not smithing words, she's probably playing online word games,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/culture/internet/heres-what-happens-when-ai-turns-simpsons-characters-into-real-people/",
+      "originalUrl": "https://www.cnet.com/culture/internet/heres-what-happens-when-ai-turns-simpsons-characters-into-real-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/ecf4a3226bb84838b30962de84e7626f3150294e/hub/2022/09/26/4031b775-1b21-44aa-8b8a-5e8d8e22afbc/collage-maker-26-sep-2022-01-56-pm-1.jpg?auto=webp",
+          "width": 886,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/heres-what-happens-when-ai-turns-simpsons-characters-into-real-people/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/heres-what-happens-when-ai-turns-simpsons-characters-into-real-people/",
+      "publishedDateTime": "2022-09-27T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-how-ai-service-startup-aisera-is-helping-companies-embrace-machine-learning-to-automate-tasks.md",
+      "title": "How AI service startup Aisera is helping companies embrace machine learning to automate tasks",
+      "excerpt": "More companies are beginning to embrace AI in key parts of their businesses, and Sudhakar predicts it will be part of every company's technology stack. His startup, Aisera, uses machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/how-ai-startup-aisera-helping-companies-automate-tasks-2022-9",
+      "originalUrl": "https://www.businessinsider.com/how-ai-startup-aisera-helping-companies-automate-tasks-2022-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/632a312bedbe7f00190f21f2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/how-ai-startup-aisera-helping-companies-automate-tasks-2022-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-ai-startup-aisera-helping-companies-automate-tasks-2022-9?amp",
+      "publishedDateTime": "2022-09-27T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-aws-announces-general-availability-of-aws-iot-fleetwise.md",
+      "title": "AWS Announces General Availability of AWS IoT FleetWise",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of AWS",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-aws-iot-fleetwise-2022-09-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-aws-iot-fleetwise-2022-09-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-ai-and-machine-learning-enter-the-kitchen-at-chipotle.md",
+      "title": "AI and Machine Learning Enter the Kitchen at Chipotle",
+      "excerpt": "The first, piloting in select Southern California restaurants, is a cook-to-needs kitchen management system that provides demand-based cooking and ingredient preparation forecasts to “optimize throughput and freshness while minimizing food waste,",
+      "sourceUrl": null,
+      "webUrl": "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enter-kitchen-chipotle",
+      "originalUrl": "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enter-kitchen-chipotle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2022-09/Chipotlane.jpg?itok=5BEjL9Eh",
+          "width": 765,
+          "height": 446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "QSR magazine",
+        "domain": "qsrmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-intel-ceo-on-high-gpu-prices-you-should-be-frustrated.md",
+      "title": "Intel CEO on high GPU prices: ‘You should be frustrated’",
+      "excerpt": "Intel revealed the pricing and release date for its upcoming Arc Alchemist GPUs, along with a sobering message on high GPU prices: \"ou should be frustrated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/intel-ceo-arc-alchemist-high-gpu-prices/",
+      "originalUrl": "https://www.digitaltrends.com/computing/intel-ceo-arc-alchemist-high-gpu-prices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/09/intel-arc-alchemist-launch.jpg?p=1",
+          "width": 1723,
+          "height": 967,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/intel-ceo-arc-alchemist-high-gpu-prices/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/intel-ceo-arc-alchemist-high-gpu-prices/?amp",
+      "publishedDateTime": "2022-09-27T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-27-intel-geti-and-openvino-efforts-advance-ai-and-computer-vision.md",
       "title": "Intel Geti and OpenVINO efforts advance AI and computer vision",
       "excerpt": "Intel launches new platform with Geti to help make it easier for users to build computer vision models that can be deployed using OpenVINO.",
@@ -953,281 +1257,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-nvidia-gtc-highlights-memory-and-storage-importance-for-the-future.md",
-      "title": "NVIDIA GTC Highlights Memory And Storage Importance For The Future",
-      "excerpt": "The NVIDIA GTC brought out new GPU and other hardware that will accelerate data processing in gaming, enterprise computing, cloud computing, automotive and media creation and require large amounts of memory and storage to support the creation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2022/09/26/nvidia-gtc-highlights-memory-and-storage-importance-for-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2022/09/26/nvidia-gtc-highlights-memory-and-storage-importance-for-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/633266af606c3425ffdd5382/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2022/09/26/nvidia-gtc-highlights-memory-and-storage-importance-for-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2022/09/26/nvidia-gtc-highlights-memory-and-storage-importance-for-the-future/amp/",
-      "publishedDateTime": "2022-09-26T20:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech.md",
-      "title": "Avoiding a surveillance society: how better rules can rein in facial recognition tech",
-      "excerpt": "The Facial Recognition Model Law Project, to which this article refers, was undertaken by HTI, with funding from UTS and support from the UTS Centre for Social Justice & Inclusion. UTS has ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075",
-      "originalUrl": "https://theconversation.com/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/486445/original/file-20220926-14387-rumoex.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075",
-      "publishedDateTime": "2022-09-26T18:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-james-earl-jones-steps-back-from-voicing-darth-vader-signs-off-on-using-archived-recordings-to-recreate-voice-with-ai.md",
-      "title": "James Earl Jones steps back from voicing Darth Vader, signs off on using archived recordings to recreate voice with AI",
-      "excerpt": "James Earl Jones, who has voiced Darth Vader for nearly 50 years of “Star Wars” films, seems to be stepping away from the role. According to Vanity Fair, the 91-year-old actor has signed off on archival voice recordings being used by young filmmakers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/nbcblk/james-earl-jones-steps-back-voicing-darth-vader-signs-using-archived-r-rcna49393",
-      "originalUrl": "https://www.nbcnews.com/news/nbcblk/james-earl-jones-steps-back-voicing-darth-vader-signs-using-archived-r-rcna49393",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-09/220926-james-earl-jones-darth-vader-jm-0922-1a147b.jpg",
-          "width": 2100,
-          "height": 1400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna49393",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna49393",
-      "publishedDateTime": "2022-09-26T17:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-alzheimers-treatment-slowed-cognitive-decline-in-closely-watched-clinical-trial.md",
-      "title": "Alzheimer’s treatment slowed cognitive decline in closely watched clinical trial",
-      "excerpt": "A n investigational Alzheimer’s disease treatment from Biogen and Eisai slowed the rate of cognitive decline by 27% in a clinical trial, the companies said Tuesday, meeting the goals of a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statnews.com/2022/09/27/alzheimers-treatment-slowed-cognitive-decline-in-closely-watched-clinical-trial/",
-      "originalUrl": "https://www.statnews.com/2022/09/27/alzheimers-treatment-slowed-cognitive-decline-in-closely-watched-clinical-trial/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.statnews.com/wp-content/uploads/2022/06/AdobeStock_205319783-1024x576.jpeg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-26T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "STAT",
-        "domain": "statnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-new-alzheimers-drug-slows-cognitive-decline-clinical-trial-finds.md",
-      "title": "New Alzheimer's drug slows cognitive decline, clinical trial finds",
-      "excerpt": "The companies announced the trial's success in a press release Tuesday, saying that cognitive decline slowed 27% in patients using their drug — called lecanemab — over 18 months compared with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/clinical-trial-finds-new-alzheimers-drug-slows-cognitive-decline-2022-9",
-      "originalUrl": "https://www.businessinsider.com/clinical-trial-finds-new-alzheimers-drug-slows-cognitive-decline-2022-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6333afdd9ac0610018e7fc4e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/clinical-trial-finds-new-alzheimers-drug-slows-cognitive-decline-2022-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/clinical-trial-finds-new-alzheimers-drug-slows-cognitive-decline-2022-9?amp",
-      "publishedDateTime": "2022-09-26T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-new-report-offers-blueprint-for-regulation-of-facial-recognition-technology.md",
-      "title": "New report offers blueprint for regulation of facial recognition technology",
-      "excerpt": "SYDNEY, Sept. 26, 2022 /PRNewswire/ -- A new report from the University of Technology Sydney (UTS) Human Technology Institute outlines a model law for facial recognition technology to protect ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/n29023402/new-report-offers-blueprint-for-regulation-of-facial-recognition-technology",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/n29023402/new-report-offers-blueprint-for-regulation-of-facial-recognition-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/28171512/image-55-1024x683.png",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29023402",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29023402",
-      "publishedDateTime": "2022-09-26T16:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

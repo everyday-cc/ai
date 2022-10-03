@@ -2,6 +2,154 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-15-symbee-launches-two-new-expedited-avaya-migration-offerings-to-allow-companies-to-mitigate-the-risks-associated-with-recent-events.md",
+      "title": "Symbee Launches Two New Expedited Avaya Migration Offerings to Allow Companies to Mitigate the Risks Associated With Recent Events.",
+      "excerpt": "Customers needing to mitigate the risk of Avaya Solution(s) by migrating rapidly to the Amazon Customer Experience (CX) ecosystem based on recent",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/g28874153/symbee-launches-two-new-expedited-avaya-migration-offerings-to-allow-companies-to-mitigate-the-ris",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/g28874153/symbee-launches-two-new-expedited-avaya-migration-offerings-to-allow-companies-to-mitigate-the-ris",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg",
+          "width": 700,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28874153",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28874153",
+      "publishedDateTime": "2022-09-14T15:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-announcing-visual-conversation-builder-for-amazon-lex.md",
+      "title": "Announcing Visual Conversation Builder for Amazon Lex",
+      "excerpt": "Amazon Lex is a service for building conversational interfaces using voice and text. Amazon Lex provides high-quality speech recognition and language understanding capabilities. With Amazon Lex, you can add sophisticated, natural language bots to new and existing applications. Amazon Lex reduces multi-platform",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-visual-conversation-builder-for-amazon-lex/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-visual-conversation-builder-for-amazon-lex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/14/visual-conversation-builder.jpg",
+          "width": 1548,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T13:38:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records.md",
+      "title": "NVIDIA’s New H100 GPU Smashes Artificial Intelligence Benchmarking Records",
+      "excerpt": "Goodson, dives in as the technical community has been looking forward to seeing how NVIDIA’s monster Hopper H100 Tensor Core GPU would perform ever since its March announcement at GTC2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6321ed3e42854ded081b8dca/0x0.jpg?format=jpg&width=1200",
+          "width": 624,
+          "height": 352,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/amp/",
+      "publishedDateTime": "2022-09-14T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-major-aws-outage-in-south-africa.md",
       "title": "Major AWS outage in South Africa",
       "excerpt": "Amazon Web Services (AWS) appears to be having an outage causing headaches for Elastic Compute Cloud (EC2) customers in its South African region. Some report they can directly connect to existing ...",
@@ -1248,155 +1396,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-workato-expands-integration-led-automation-availability-in-singapore-deepens-asia-pacific-commitment.md",
-      "title": "Workato expands integration-led automation availability in Singapore, deepens Asia Pacific commitment",
-      "excerpt": "Workato launching its solutions on Amazon Web Services will empower customers to carry out mission-critical business process integrations SINGAPORE - Media OutReach - 6 September 2022 - Workato , a global leader in enterprise automation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/workato-expands-integration-led-automation-availability-singapore-deepens-asia-pacific",
-      "originalUrl": "https://www.asiaone.com/business/workato-expands-integration-led-automation-availability-singapore-deepens-asia-pacific",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Sep2022/WORKato.jpg?h=bde28bee&itok=yD9olfjl",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-05T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-amazon-promo-codes-september-2022.md",
-      "title": "Amazon Promo Codes September 2022",
-      "excerpt": "Receive a $100 statement credit after you spend $3,000 on your Amazon Business Card within the first 3 months of opening your account. Don't miss out on this Prime Student special and use this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/coupons/amazon.com/",
-      "originalUrl": "https://www.forbes.com/coupons/amazon.com/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbes.com/coupons/vfiles/81499/merchant_image-merchant_open_graph.png/",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-04T18:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking.md",
-      "title": "Unpacking The Best Top Ten Quotes About Artificial Intelligence Leveraging Modern-Day AI Ethics Thinking",
-      "excerpt": "This is a carefully devised set of Top Ten quotes about AI, providing an explanation about each quote and illuminating key insights about the future of AI, doing so with a keen eye toward the latest in AI Ethics thinking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/09/03/unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/09/03/unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d7369da6293b308a7896a2/0x0.jpg?format=jpg&crop=2297,1531,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/09/03/unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/09/03/unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking/amp/",
-      "publishedDateTime": "2022-09-03T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics",
-        "AWS AI"
       ]
     }
   ],

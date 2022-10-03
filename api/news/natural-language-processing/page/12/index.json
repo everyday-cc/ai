@@ -2,6 +2,40 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-06-08-lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services.md",
+      "title": "Lilt Included in 2022 Gartner® Market Guide for AI-Enabled Translation Services",
+      "excerpt": "\"Lilt enables businesses to create personalized experiences for their customers and prospects in the language that ... and availability of translation services. AI can be used to automate and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services/article_a9b03129-80e1-5238-b1f0-f19e3ed61c5d.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services/article_a9b03129-80e1-5238-b1f0-f19e3ed61c5d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-how-infojobs-adevinta-improves-nlp-model-prediction-performance-with-aws-inferentia-and-amazon-sagemaker.md",
       "title": "How InfoJobs (Adevinta) improves NLP model prediction performance with AWS Inferentia and Amazon SageMaker",
       "excerpt": "This is a guest post co-written by Juan Francisco Fernandez, ML Engineer in Adevinta Spain, and AWS AI/ML Specialist Solutions Architects Antonio Rodriguez and João Moura. InfoJobs, a subsidiary company of the Adevinta group, provides the perfect match between candidates looking for their next job position",
@@ -1341,40 +1375,6 @@
         "Google AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-28-google-assistant-could-soon-get-even-better-at-recognizing-what-you-say.md",
-      "title": "Google Assistant could soon get even better at recognizing what you say",
-      "excerpt": "Voice recognition is one of those modern tech miracles we easily take for granted. It helps make the Google Assistant possible, and while that's pretty good at picking up what you say and giving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidpolice.com/google-is-working-on-personalized-speech-recognition/",
-      "originalUrl": "https://www.androidpolice.com/google-is-working-on-personalized-speech-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T15:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Police",
-        "domain": "androidpolice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,322 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-03-create-high-quality-data-for-ml-models-with-amazon-sagemaker-ground-truth.md",
+      "title": "Create high-quality data for ML models with Amazon SageMaker Ground Truth",
+      "excerpt": "Machine learning (ML) has improved business across industries in recent years—from the recommendation system on your Prime Video account, to document summarization and efficient search with Alexa’s voice assistance. However, the question remains of how to incorporate this technology into your business.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-high-quality-data-for-ml-models-with-amazon-sagemaker-ground-truth/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-high-quality-data-for-ml-models-with-amazon-sagemaker-ground-truth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/03/create-high-quality-ml-models.jpg",
+          "width": 1531,
+          "height": 766,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T10:39:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-how-the-innovators-brain-works.md",
+      "title": "How The Innovator’s Brain Works",
+      "excerpt": "How does the human brain learn to innovate? The Thousand Brain theory has direct, important, unexpected implications for how people learn to innovate, and therefore for how teachers, coaches, managers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tedladd/2022/10/03/how-the-innovators-brain-works/",
+      "originalUrl": "https://www.forbes.com/sites/tedladd/2022/10/03/how-the-innovators-brain-works/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6320b7cd246c4d8df9fe585a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tedladd/2022/10/03/how-the-innovators-brain-works/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedladd/2022/10/03/how-the-innovators-brain-works/amp/",
+      "publishedDateTime": "2022-10-03T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-03-automate-your-time-series-forecasting-in-snowflake-using-amazon-forecast.md",
+      "title": "Automate your time series forecasting in Snowflake using Amazon Forecast",
+      "excerpt": "This post is a joint collaboration with Andries Engelbrecht and James Sun of Snowflake, Inc. The cloud computing revolution has enabled businesses to capture and retain corporate and organizational data without capacity planning or data retention constraints. Now, with diverse and vast reserves of longitudinal",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-your-time-series-forecasting-in-snowflake-using-amazon-forecast/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-your-time-series-forecasting-in-snowflake-using-amazon-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/03/automate-forecasting-snowflake.jpg",
+          "width": 1532,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T10:22:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-03-achieve-four-times-higher-ml-inference-throughput-at-three-times-lower-cost-per-inference-with-amazon-ec2-g5-instances-for-nlp-and-cv-pytorch.md",
+      "title": "Achieve four times higher ML inference throughput at three times lower cost per inference with Amazon EC2 G5 instances for NLP and CV PyTorch models",
+      "excerpt": "Amazon Elastic Compute Cloud (Amazon EC2) G5 instances are the first and only instances in the cloud to feature NVIDIA A10G Tensor Core GPUs, which you can use for a wide range of graphics-intensive and machine learning (ML) use cases. With G5 instances, ML customers get high performance and a cost-efficient",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-four-times-higher-ml-inference-throughput-at-three-times-lower-cost-per-inference-with-amazon-ec2-g5-instances-for-nlp-and-cv-pytorch-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-four-times-higher-ml-inference-throughput-at-three-times-lower-cost-per-inference-with-amazon-ec2-g5-instances-for-nlp-and-cv-pytorch-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/03/ec2-g5-instances-four-times-1260x630.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T10:19:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning",
+        "Natural Language Processing",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways.md",
+      "title": "Geely’s Europe expansion continues, Argo robotaxis on the Lyft app and Tesla AI Day takeaways",
+      "excerpt": "The Station weekly newsletter is the central hub for all past, present and future means of moving people and packages from Point A to Point B.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/03/geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways/",
+      "originalUrl": "https://techcrunch.com/2022/10/03/geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/tesla-robot-hand.jpg?resize=1200,744",
+          "width": 1200,
+          "height": 744,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/03/geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/03/geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways/amp/",
+      "publishedDateTime": "2022-10-03T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-03-meta-launches-ai-software-tools-to-help-speed-up-work-blog.md",
+      "title": "Meta launches AI software tools to help speed up work - Blog",
+      "excerpt": "Facebook parent Meta Platforms Inc on Monday said it has launched a new set of free software tools for artificial intelligence applications that could help speed up the performance of underlying chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/meta-launches-ai-software-tools-help-speed-up-work-blog-2022-10-03/",
+      "originalUrl": "https://www.reuters.com/technology/meta-launches-ai-software-tools-help-speed-up-work-blog-2022-10-03/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/ZYDMYPCb1mkwySHI1uD8zjrOgoI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XDFHGK4QCJOXNCOTVIM6U32PF4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-03-three-reasons-why-artificial-intelligence-wins-with-specialization.md",
       "title": "Three Reasons Why Artificial Intelligence Wins With Specialization",
       "excerpt": "When I began learning about artificial intelligence (AI) and machine learning (ML), it was from the perspective of trying to help very smart people do challenging tasks. This is opposed to learning about an AI algorithm and trying to see how far I could push it for the sake of science (which has its own merits) and then searching for an application in the real world.",
@@ -55,20 +371,20 @@
       ]
     },
     {
-      "path": "_news/2022-10-03-bt-hits-accelerator-on-ai.md",
-      "title": "BT hits accelerator on AI",
-      "excerpt": "BT continued a push to use of AI, unveiling an internal accelerator platform it claims will slash the time taken to deploy new use cases.",
+      "path": "_news/2022-10-03-bt-group-sees-network-gains-through-ai-accelerator.md",
+      "title": "BT Group sees network gains through AI Accelerator",
+      "excerpt": "Telco announces new platform to orchestrate, accelerate and monitor artificial intelligence model deployments developed by its data community and to drive efficiencies.",
       "sourceUrl": null,
-      "webUrl": "https://www.mobileworldlive.com/featured-content/home-banner/bt-hits-accelerator-on-ai/",
-      "originalUrl": "https://www.mobileworldlive.com/featured-content/home-banner/bt-hits-accelerator-on-ai/",
+      "webUrl": "https://www.computerweekly.com/news/252525636/BT-Group-sees-network-gains-through-AI-Accelerator",
+      "originalUrl": "https://www.computerweekly.com/news/252525636/BT-Group-sees-network-gains-through-AI-Accelerator",
       "featuredContent": null,
       "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://www.mobileworldlive.com/wp-content/uploads/2022/10/MWL_Data_AI_artificial_intelligence_650.jpg",
-          "width": 650,
+          "url": "https://www.computerweekly.com/visuals/German/article/artificial-intelligence-brain-adobe.jpg",
+          "width": 1200,
           "height": 400,
           "title": null,
           "attribution": null,
@@ -77,13 +393,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/home-banner/bt-hits-accelerator-on-ai/amp/",
-      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/home-banner/bt-hits-accelerator-on-ai/amp/",
-      "publishedDateTime": "2022-10-03T03:47:00-07:00",
+      "ampWebUrl": "https://www.computerweekly.com/news/252525636/BT-Group-sees-network-gains-through-AI-Accelerator?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252525636/BT-Group-sees-network-gains-through-AI-Accelerator?amp=1",
+      "publishedDateTime": "2022-10-03T04:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mobile World Live",
-        "domain": "mobileworldlive.com",
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -95,6 +411,57 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-03-advancing-anomaly-detection-with-aiopsintroducing-aidice.md",
+      "title": "Advancing anomaly detection with AIOps—introducing AiDice",
+      "excerpt": "We introduce AiDice, a novel anomaly detection algorithm developed jointly by Microsoft Research and Microsoft Azure that identifies anomalies in large-scale, multi-dimensional time series data. AiDice captures incidents quickly and provides engineers with important context that helps them diagnose issues",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/advancing-anomaly-detection-with-aiops-introducing-aidice/",
+      "originalUrl": "https://azure.microsoft.com/blog/advancing-anomaly-detection-with-aiops-introducing-aidice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d05c8214-ce5a-4578-91f7-ffdca3c0cc5c.png",
+          "width": 640,
+          "height": 401,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T02:00:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI"
       ]
     },
     {
@@ -637,7 +1004,7 @@
       "originalUrl": "https://www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai-tool-can-predict-missed-doctors-appointments/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -835,7 +1202,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-flexible-and-scalable-distributed-training-architectures-using-kubeflow-on-aws-and-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -876,350 +1243,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-beyond-killer-robots-how-ai-impacts-security-military-affairs.md",
-      "title": "Beyond Killer Robots: How AI impacts security, military affairs",
-      "excerpt": "Nations that set limits on AI capabilities may encounter adversaries who have no qualms about doing so, putting them at a disadvantage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.c4isrnet.com/unmanned/robotics/2022/09/30/beyond-killer-robots-how-ai-impacts-security-military-affairs/",
-      "originalUrl": "https://www.c4isrnet.com/unmanned/robotics/2022/09/30/beyond-killer-robots-how-ai-impacts-security-military-affairs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.c4isrnet.com/resizer/Uwpm-Wm0MVv3xtPlt_6-IJ3KRpk=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/7375MPBJAZHYPBNQR5NDGYYKGM.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C4ISRNET",
-        "domain": "c4isrnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-bundesliga-match-fact-win-probability-quantifying-the-effect-of-in-game-events-on-winning-chances-using-machine-learning-on-aws.md",
-      "title": "Bundesliga Match Fact Win Probability: Quantifying the effect of in-game events on winning chances using machine learning on AWS",
-      "excerpt": "Ten years from now, the technological fitness of clubs will be a key contributor towards their success. Today we’re already witnessing the potential of technology to revolutionize the understanding of football. xGoals quantifies and allows comparison of goal scoring potential of any shooting situation,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bundesliga-match-fact-win-probability-quantifying-the-effect-of-in-game-events-on-winning-chances-using-machine-learning-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bundesliga-match-fact-win-probability-quantifying-the-effect-of-in-game-events-on-winning-chances-using-machine-learning-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/30/ML-11374-image011.jpg",
-          "width": 1400,
-          "height": 865,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T09:28:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-deep-dive-how-synthetic-data-can-enhance-arvr-and-the-metaverse.md",
-      "title": "Deep Dive: How synthetic data can enhance AR/VR and the metaverse",
-      "excerpt": "The metaverse will rely heavily on synthetic data, which is gaining traction as a tool to help train AI/ML models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/deep-dive-how-synthetic-data-can-enhance-ar-vr-and-the-metaverse/",
-      "originalUrl": "https://venturebeat.com/ai/deep-dive-how-synthetic-data-can-enhance-ar-vr-and-the-metaverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/image2-5.png?w=1200&strip=all",
-          "width": 1198,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/deep-dive-how-synthetic-data-can-enhance-ar-vr-and-the-metaverse/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deep-dive-how-synthetic-data-can-enhance-ar-vr-and-the-metaverse/amp/",
-      "publishedDateTime": "2022-09-30T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks.md",
-      "title": "Tesla robot walks, waves, but doesn’t show off complex tasks",
-      "excerpt": "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a",
-      "sourceUrl": null,
-      "webUrl": "https://mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/",
-      "originalUrl": "https://mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mynorthwest.com/wp-content/uploads/2018/01/MYNW_Facebookj.jpg",
-          "width": 452,
-          "height": 282,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/",
-      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/",
-      "publishedDateTime": "2022-09-30T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyNorthwest.com",
-        "domain": "mynorthwest.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-tesla-unveils-the-hands-of-its-humanoid-robot-ahead-of-full-unveil-today.md",
-      "title": "Tesla unveils the hands of its humanoid robot ahead of full unveil today",
-      "excerpt": "Tesla is teasing the hands of its humanoid Optimus robot that is going to be fully unveiled at its AI Day event later today. Today, Tesla is expected to hold its AI Day 2 in Palo Alto starting at 5 p.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/",
-      "originalUrl": "https://electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Robot-hands.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/amp/",
-      "publishedDateTime": "2022-09-30T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work.md",
-      "title": "Tesla AI Day 2022: How to Watch Elon Musk's Optimus Robot, Self Driving Car Work",
-      "excerpt": "There, too, Tesla developed custom AI chips. \"Tesla's inference engine is among the best in performance..., giving them a real advantage,\" said Keith McMillen, CEO of BeBop Sensors, a startup designing touch sensors robots can use. FSD, short for Full ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 683,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
-      "publishedDateTime": "2022-09-30T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-amazon-vp-explains-how-to-move-past-limits-of-machine-learning.md",
-      "title": "Amazon VP explains how to move past limits of machine learning",
-      "excerpt": "Many companies believe machine learning is the solution to their problems, but it can’t overcome bad data and metrics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/amazon-vp-explains-how-to-move-past-limits-of-machine-learning",
-      "originalUrl": "https://www.freightwaves.com/news/amazon-vp-explains-how-to-move-past-limits-of-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2022/09/Amazons-Matt-Taddy.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/amazon-vp-explains-how-to-move-past-limits-of-machine-learning/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/amazon-vp-explains-how-to-move-past-limits-of-machine-learning/amp",
-      "publishedDateTime": "2022-09-30T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

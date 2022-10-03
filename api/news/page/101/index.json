@@ -2,6 +2,228 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2022-07-12-aws-announces-general-availability-of-aws-cloud-wan.md",
+      "title": "AWS Announces General Availability of AWS Cloud WAN",
+      "excerpt": "AWS makes it easy for customers to connect cloud and on-premises environments using AWS networking services (e.g., Amazon Virtual Private Cloud, AWS Transit Gateway, and AWS Direct Connect). However,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-aws-cloud-wan-/2022/07/12/9637362.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-aws-cloud-wan-/2022/07/12/9637362.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-voxprotect-a-witnesss-voice-is-not-protected.md",
+      "title": "VOXPROTECT - A Witness’s voice is not protected",
+      "excerpt": "Unfortunately, nowadays, one of the necessary means of witness protection used in all news reports and criminal cases remains the voice modification by linear effects existing on the market, such as the “pitch” effect: a transformation of the tone of a processed signal.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-4d749b333b80c5d294872e1e183703c7",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-4d749b333b80c5d294872e1e183703c7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-furiosaai-forays-into-north-american-ai-chip-market-welcomes-former-intel-and-western-digital-vps.md",
+      "title": "FuriosaAI forays into North American AI chip market, welcomes former Intel and Western Digital VPs",
+      "excerpt": "The company targets the NA market with its first generation chip “WARBOY”, set to begin volume production in Q1 2023. FuriosaAI is already sampling WARBOY with customers in South Korea. Bill Leszinske,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-software-south-korea-north-america-abed018084c6a57fe9e5eba4877cec50",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-software-south-korea-north-america-abed018084c6a57fe9e5eba4877cec50",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-datarobot-named-a-leader-in-aiml-platforms-by-independent-research-firm.md",
+      "title": "DataRobot Named a Leader in AI/ML Platforms by Independent Research Firm",
+      "excerpt": "According to the report, “DataRobot’s customers appreciate the company’s rise from a niche automated machine learning (AutoML) player to a full-lifecycle AI platform in short order through a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20220711005931/datarobot-named-a-leader-in-aiml-platforms-by-independent-research-firm",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20220711005931/datarobot-named-a-leader-in-aiml-platforms-by-independent-research-firm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-aws-announces-general-availability-of-three-new-serverless-analytics-offerings.md",
+      "title": "AWS Announces General Availability of Three New Serverless Analytics Offerings",
+      "excerpt": "(NASDAQ: AMZN), today announced the general availability of three new serverless analytics offerings that make it even easier for customers to analyze vast amounts of data without having to configure,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nrtoday.com/ap/aws-announces-general-availability-of-three-new-serverless-analytics-offerings/article_5ab5d774-74c7-5fa8-acd2-f5b8f0456ec9.html",
+      "originalUrl": "https://www.nrtoday.com/ap/aws-announces-general-availability-of-three-new-serverless-analytics-offerings/article_5ab5d774-74c7-5fa8-acd2-f5b8f0456ec9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Review Today",
+        "domain": "nrtoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-kyndi-credited-for-helping-companies-capitalize-on-the-potential-of-ai.md",
+      "title": "Kyndi Credited for Helping Companies Capitalize on the Potential of AI",
+      "excerpt": "\"With organizations recognizing the great potential of AI, it is not surprising that the market size is also expected to increase dramatically. As part of our efforts to focus attention on the innovative knowledge management vendors that are imbuing their offerings with AI and automation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-kyndi-credited-helping-companies-capitalize-the-potential-ai-/2022/07/12/9637244.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-kyndi-credited-helping-companies-capitalize-the-potential-ai-/2022/07/12/9637244.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-the-brains-how-to-leverage-ai-in-influencer-marketing.md",
       "title": "The Brains: How to Leverage AI in Influencer Marketing",
       "excerpt": "It is artificial intelligence that is also allowing brands to leverage influencer marketing to its true potential. It’s all in the data. The world’s influencer marketing industry is projected to grow from USD 6,",
@@ -839,263 +1061,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-stm32cubeai-your-software-tool-to-optimize-artificial-neural-networks-on-stm32.md",
-      "title": "STM32Cube.AI, your software tool to optimize Artificial Neural Networks on STM32",
-      "excerpt": "This webinar introduces Artificial Intelligence for edge computing and shows you how ST's offer can help you run Neural Networks on microcontrollers and microprocessors. Thanks to practical examples, you will learn how to run Artificial Neural Networks and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.st.com/content/st_com/en/campaigns/stm32cube-ai.html",
-      "originalUrl": "https://www.st.com/content/st_com/en/campaigns/stm32cube-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.st.com/content/dam/logos/open-graph-logo.png",
-          "width": 750,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T22:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ST",
-        "domain": "st.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-aws-selected-as-deltas-preferred-cloud-provider.md",
-      "title": "AWS Selected as Delta's Preferred Cloud Provider",
-      "excerpt": "Global airline uses AWS to deliver new digital travel services, streamline processes, enhance customer service, and provide cloud training to employees globally Amazon Web Services, Inc. (AWS), an Amazon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/07/b28027127/aws-selected-as-deltas-preferred-cloud-provider",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/b28027127/aws-selected-as-deltas-preferred-cloud-provider",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g",
-          "width": 900,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28027127",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28027127",
-      "publishedDateTime": "2022-07-11T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-apples-self-driving-car-effort-stuck-in-low-gear-report.md",
-      "title": "Apple's Self-driving Car Effort Stuck In Low Gear: Report",
-      "excerpt": "Apple's quest to produce a viable self-driving car remains stalled despite years of work, with its team plagued by setbacks as rivals race ahead, The Information tech news website reported Monday. Buzz surrounding a potential Apple car began some eight years ago with the vehicles being touted as the first new \"big thing\" from the company since its iconic co-founder Steve Jobs died in October 2011.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/apples-self-driving-car-effort-stuck-low-gear-report-3570179",
-      "originalUrl": "https://www.ibtimes.com/apples-self-driving-car-effort-stuck-low-gear-report-3570179",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T19:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-new-ai-tool-could-help-diagnose-alzheimers-disease-earlier.md",
-      "title": "New AI tool could help diagnose Alzheimer’s disease earlier",
-      "excerpt": "A new artificial intelligence language-processing tool could potentially help detect cognitive impairment and mental degenerative diseases like Alzheimer’s, researchers at Boston University say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ctvnews.ca/sci-tech/new-ai-tool-could-help-diagnose-alzheimer-s-disease-earlier-1.5983555",
-      "originalUrl": "https://www.ctvnews.ca/sci-tech/new-ai-tool-could-help-diagnose-alzheimer-s-disease-earlier-1.5983555",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2022/3/27/1_5835633.jpg",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/national/sci-tech/2022/7/11/1_5983555.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2022/7/11/1_5983555.amp.html",
-      "publishedDateTime": "2022-07-11T17:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-ai-in-computer-vision-market-report-production-capacity-and-consumption-analysis-trends-analysis-report-and-forecasts-2022-to-2030.md",
-      "title": "AI in Computer Vision Market Report: Production Capacity and Consumption Analysis, Trends Analysis Report and Forecasts, 2022 To 2030",
-      "excerpt": "Jul 11, 2022 (Alliance News via COMTEX) -- Key Companies Covered in the AI in Computer Vision Market Research areNVIDIA Corporation, Intel Corporation, Microsoft Corporation, IBM Corporation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-production-capacity-and-consumption-analysis-trends-analysis-report-and-forecasts-2022-to-2030-2022-07-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-production-capacity-and-consumption-analysis-trends-analysis-report-and-forecasts-2022-to-2030-2022-07-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T17:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-improving-yield-with-machine-learning.md",
-      "title": "Improving Yield With Machine Learning",
-      "excerpt": "Machine learning is becoming increasingly valuable in semiconductor manufacturing, where it is being used to improve yield and throughput. This is especially important in process control, where data sets are noisy. Neural networks can identify patterns ...",
-      "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/improving-yield-with-machine-learning/",
-      "originalUrl": "https://semiengineering.com/improving-yield-with-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://semiengineering.com/wp-content/uploads/Fig03_deep_slit_trench__etch.jpg",
-          "width": 508,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

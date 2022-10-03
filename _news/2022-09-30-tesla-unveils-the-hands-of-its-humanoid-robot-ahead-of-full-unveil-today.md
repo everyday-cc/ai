@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/am
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/amp/"
 type: article
 quality: 105
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla unveils functional prototypes of its planned humanoid robot"
+    excerpt: "Elon Musk announced that Tesla was working on a bipedal humanoid robot that could perform boring and/or dangerous tasks for humans. His company has now unveiled two prototypes, one of which can already walk on its own."
+    publishedDateTime: 2022-10-03T16:35:00Z
+    webUrl: "https://newatlas.com/robotics/tesla-prototypes-humanoid-robot/"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 88
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/5a22619/2147483647/strip/true/crop/717x376+0+51/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F94%2Fdd%2F7b7d0d4e475cae67c88e9c3fd3e2%2Fscreen-shot-2022-10-03-at-9.10.30%20AM.jpeg&na.image_optimisation=0"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla previews humanoid robot, but Musk cautions it is not ready just yet"
     excerpt: "Tesla CEO Elon Musk said on Friday the electric vehicle maker's eagerly anticipated humanoid robot 'Optimus' would cost under $20,000 and cautioned it still had way to go before becoming fully functional."
     publishedDateTime: 2022-10-01T01:30:00Z

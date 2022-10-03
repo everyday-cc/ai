@@ -2,6 +2,166 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-03-create-high-quality-data-for-ml-models-with-amazon-sagemaker-ground-truth.md",
+      "title": "Create high-quality data for ML models with Amazon SageMaker Ground Truth",
+      "excerpt": "Machine learning (ML) has improved business across industries in recent years—from the recommendation system on your Prime Video account, to document summarization and efficient search with Alexa’s voice assistance. However, the question remains of how to incorporate this technology into your business.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-high-quality-data-for-ml-models-with-amazon-sagemaker-ground-truth/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-high-quality-data-for-ml-models-with-amazon-sagemaker-ground-truth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/03/create-high-quality-ml-models.jpg",
+          "width": 1531,
+          "height": 766,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T10:39:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-03-automate-your-time-series-forecasting-in-snowflake-using-amazon-forecast.md",
+      "title": "Automate your time series forecasting in Snowflake using Amazon Forecast",
+      "excerpt": "This post is a joint collaboration with Andries Engelbrecht and James Sun of Snowflake, Inc. The cloud computing revolution has enabled businesses to capture and retain corporate and organizational data without capacity planning or data retention constraints. Now, with diverse and vast reserves of longitudinal",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-your-time-series-forecasting-in-snowflake-using-amazon-forecast/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-your-time-series-forecasting-in-snowflake-using-amazon-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/03/automate-forecasting-snowflake.jpg",
+          "width": 1532,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T10:22:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-03-achieve-four-times-higher-ml-inference-throughput-at-three-times-lower-cost-per-inference-with-amazon-ec2-g5-instances-for-nlp-and-cv-pytorch.md",
+      "title": "Achieve four times higher ML inference throughput at three times lower cost per inference with Amazon EC2 G5 instances for NLP and CV PyTorch models",
+      "excerpt": "Amazon Elastic Compute Cloud (Amazon EC2) G5 instances are the first and only instances in the cloud to feature NVIDIA A10G Tensor Core GPUs, which you can use for a wide range of graphics-intensive and machine learning (ML) use cases. With G5 instances, ML customers get high performance and a cost-efficient",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-four-times-higher-ml-inference-throughput-at-three-times-lower-cost-per-inference-with-amazon-ec2-g5-instances-for-nlp-and-cv-pytorch-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-four-times-higher-ml-inference-throughput-at-three-times-lower-cost-per-inference-with-amazon-ec2-g5-instances-for-nlp-and-cv-pytorch-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/03/ec2-g5-instances-four-times-1260x630.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T10:19:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning",
+        "Natural Language Processing",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-30-celebrate-over-20-years-of-aiml-at-innovation-day.md",
       "title": "Celebrate over 20 years of AI/ML at Innovation Day",
       "excerpt": "Be our guest as we celebrate 20 years of AI/ML innovation on October 25, 2022, 9:00 AM – 10:30 AM PT. &nbsp;The first 1,500 people to register will receive $50 of AWS credits. Register here. Over the past 20 years, Amazon has delivered many world firsts for artificial intelligence (AI) and machine learning",
@@ -115,7 +275,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-flexible-and-scalable-distributed-training-architectures-using-kubeflow-on-aws-and-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -336,15 +496,24 @@
     {
       "path": "_news/2022-09-28-aws-announces-general-availability-of-aws-iot-fleetwise.md",
       "title": "AWS Announces General Availability of AWS IoT FleetWise",
-      "excerpt": "New service makes it easier for automotive companies to collect, transform, and transfer vehicle data to the cloud in near real time, enabling improved vehicle quality and autonomy Bridgestone, Hyundai Motor Group,",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of AWS",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/b29037953/aws-announces-general-availability-of-aws-iot-fleetwise",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/b29037953/aws-announces-general-availability-of-aws-iot-fleetwise",
+      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-aws-iot-fleetwise-2022-09-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-aws-iot-fleetwise-2022-09-27",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -352,9 +521,18 @@
       "publishedDateTime": "2022-09-27T10:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1275,154 +1453,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-symbee-launches-two-new-expedited-avaya-migration-offerings-to-allow-companies-to-mitigate-the-risks-associated-with-recent-events.md",
-      "title": "Symbee Launches Two New Expedited Avaya Migration Offerings to Allow Companies to Mitigate the Risks Associated With Recent Events.",
-      "excerpt": "Customers needing to mitigate the risk of Avaya Solution(s) by migrating rapidly to the Amazon Customer Experience (CX) ecosystem based on recent",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/g28874153/symbee-launches-two-new-expedited-avaya-migration-offerings-to-allow-companies-to-mitigate-the-ris",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/g28874153/symbee-launches-two-new-expedited-avaya-migration-offerings-to-allow-companies-to-mitigate-the-ris",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg",
-          "width": 700,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28874153",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28874153",
-      "publishedDateTime": "2022-09-14T15:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-announcing-visual-conversation-builder-for-amazon-lex.md",
-      "title": "Announcing Visual Conversation Builder for Amazon Lex",
-      "excerpt": "Amazon Lex is a service for building conversational interfaces using voice and text. Amazon Lex provides high-quality speech recognition and language understanding capabilities. With Amazon Lex, you can add sophisticated, natural language bots to new and existing applications. Amazon Lex reduces multi-platform",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-visual-conversation-builder-for-amazon-lex/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-visual-conversation-builder-for-amazon-lex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/14/visual-conversation-builder.jpg",
-          "width": 1548,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T13:38:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records.md",
-      "title": "NVIDIA’s New H100 GPU Smashes Artificial Intelligence Benchmarking Records",
-      "excerpt": "Goodson, dives in as the technical community has been looking forward to seeing how NVIDIA’s monster Hopper H100 Tensor Core GPU would perform ever since its March announcement at GTC2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6321ed3e42854ded081b8dca/0x0.jpg?format=jpg&width=1200",
-          "width": 624,
-          "height": 352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/amp/",
-      "publishedDateTime": "2022-09-14T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -2,6 +2,102 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-08-24-streamlining-lung-cancer-radiotherapy-with-deep-learning.md",
+      "title": "Streamlining lung cancer radiotherapy with Deep Learning",
+      "excerpt": "Lung cancer, the most common cancer worldwide, is targeted with radiation therapy (RT) in nearly one-half of cases. RT planning is a manual, resource-intensive process that can take days to weeks to complete,",
+      "sourceUrl": null,
+      "webUrl": "https://healthcare-in-europe.com/en/news/lung-cancer-radiotherapy-deep-learning.html",
+      "originalUrl": "https://healthcare-in-europe.com/en/news/lung-cancer-radiotherapy-deep-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthcare-in-europe.com/media/story/27271/rect-01-adobestock-296280067.jpg",
+          "width": 400,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-24T04:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "healthcare-in-europe.com",
+        "domain": "healthcare-in-europe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-data-science-and-machine-learning-market-size-2022-share-growth-with-recent-trends-development-revenue-demand-and-forecast-to-2029.md",
+      "title": "Data Science and Machine-Learning Market Size 2022, Share, Growth with Recent Trends, Development, Revenue, Demand and Forecast to 2029",
+      "excerpt": "Pune, India Research Report on Global Data Science and Machine-Learning Platforms Market 2020-2026 Report Demand",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/data-science-and-machine-learning-market-size-2022-share-growth-with-recent-trends-development-revenue-demand-and-forecast-to-2029-2022-08-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/data-science-and-machine-learning-market-size-2022-share-growth-with-recent-trends-development-revenue-demand-and-forecast-to-2029-2022-08-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-24T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-24-deep-learning-in-machine-vision-market-2022-global-industry-analysis-by-trends-size-share-company-overview-growth-and-forecast-by-2029.md",
       "title": "Deep Learning in Machine Vision Market 2022 Global Industry Analysis by Trends, Size, Share, Company Overview, Growth and Forecast by 2029",
       "excerpt": "Pune, India Reportsweb report Global Deep Learning in Machine Vision Market Research and Forecast Report 2022-2028",
@@ -1344,92 +1440,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-deep-learning-chipset-market-future-trends-outlook-2022-and-forecast-to-2028-nvidia-intel-ibm-qualcomm.md",
-      "title": "Deep Learning Chipset Market Future Trends Outlook 2022, and Forecast to 2028 | NVIDIA, Intel, IBM, Qualcomm",
-      "excerpt": "The report provides a basic overview of the Deep Learning Chipset market including definitions, classifications, applications and market chain structure. And development policies and plans are discussed as well as manufacturing processes and cost structures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-future-trends-outlook-2022-and-forecast-to-2028-nvidia-intel-ibm-qualcomm-2022-08-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-future-trends-outlook-2022-and-forecast-to-2028-nvidia-intel-ibm-qualcomm-2022-08-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-12T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-the-daily-grind-of-the-rumor-mill-machine-learning-deciphers-fake-news.md",
-      "title": "The daily grind of the rumor mill: Machine learning deciphers fake news",
-      "excerpt": "Research published in the International Journal of Cloud Computing looks at how machine learning might allow us to analyze the nature and characteristics of social media updates and detect which of those updates are adding grist to the rumor mill rather than being factual.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-08-daily-rumor-mill-machine-deciphers.html",
-      "originalUrl": "https://techxplore.com/news/2022-08-daily-rumor-mill-machine-deciphers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/fakenews.jpg",
-          "width": 1920,
-          "height": 1046,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-08-daily-rumor-mill-machine-deciphers.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-daily-rumor-mill-machine-deciphers.amp",
-      "publishedDateTime": "2022-08-11T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai-tool-can-predict-missed-doctors-appointments/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft, Apple, and more work on speech recognition for users with speech disabilities"
+    excerpt: "Major companies like Microsoft, Apple, and Meta, among others, are collaborating with the University of Illinois under the Speech Accessibility Project to improve speech recognition facilities."
+    publishedDateTime: 2022-10-03T17:46:47Z
+    webUrl: "https://www.neowin.net/news/microsoft-apple-and-more-work-on-speech-recognition-for-users-with-speech-disabilities/"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-apple-and-more-work-on-speech-recognition-for-users-with-speech-disabilities/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-apple-and-more-work-on-speech-recognition-for-users-with-speech-disabilities/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 97
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2016/10/1476908377_speech_recognition_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Amazon, Apple, Microsoft, Meta and Google to improve speech recognition for people with disabilities"
     excerpt: "The University of Illinois (UIUC) has partnered with Amazon, Apple, Google, Meta, Microsoft and nonprofits on the Speech Accessibility Project.."
     publishedDateTime: 2022-10-03T12:35:00Z

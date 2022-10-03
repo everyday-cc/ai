@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-31-is-it-ever-okay-to-ghost-a-new-employer.md",
+      "title": "Is it ever okay to ghost a new employer?",
+      "excerpt": "Ghosting an employer could potentially have negative repercussions for your job search and reputation. Learn why.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/programming-development/is-it-ever-okay-to-ghost-a-new-employer/",
+      "originalUrl": "https://venturebeat.com/programming-development/is-it-ever-okay-to-ghost-a-new-employer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/My-project-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/programming-development/is-it-ever-okay-to-ghost-a-new-employer/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/programming-development/is-it-ever-okay-to-ghost-a-new-employer/amp/",
+      "publishedDateTime": "2022-08-30T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-msrcosmos-recognized-as-a-finalist-of-2022-microsoft-sap-on-azure-partner-of-the-year.md",
       "title": "MSRcosmos recognized as a finalist of 2022 Microsoft SAP on Azure Partner of the Year",
       "excerpt": "MSRcosmos has been named a finalist of 2022 Microsoft Partner of the Year Awards in the SAP on Azure category. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology.",
@@ -1263,40 +1315,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-20-senior-living-cognitive-rehab-may-help-older-adults-clear-coivd-related-brain-fog.md",
-      "title": "Senior living: Cognitive rehab may help older adults clear COIVD-related brain fog",
-      "excerpt": "It’s a suite of interventions designed to help people recover from brain injuries, if possible, and adapt to ongoing cognitive impairment. Services are typically provided by speech and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailybreeze.com/2022/08/19/senior-living-cognitive-rehab-may-help-older-adults-clear-coivd-related-brain-fog/",
-      "originalUrl": "https://www.dailybreeze.com/2022/08/19/senior-living-cognitive-rehab-may-help-older-adults-clear-coivd-related-brain-fog/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T14:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Breeze",
-        "domain": "dailybreeze.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

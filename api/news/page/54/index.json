@@ -2,6 +2,248 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2022-08-18-amazon-ring-vulnerability-could-have-been-used-to-spy-on-users.md",
+      "title": "Amazon Ring vulnerability could have been used to spy on users",
+      "excerpt": "A now-patched vulnerability in the Amazon Ring mobile app could have been exploited to expose users’ video recordings, but was complex to exploit, according to the researchers who stumbled upon it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252523930/Amazon-Ring-vulnerability-could-have-been-used-to-spy-on-users",
+      "originalUrl": "https://www.computerweekly.com/news/252523930/Amazon-Ring-vulnerability-could-have-been-used-to-spy-on-users",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252523930/Amazon-Ring-vulnerability-could-have-been-used-to-spy-on-users?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252523930/Amazon-Ring-vulnerability-could-have-been-used-to-spy-on-users?amp=1",
+      "publishedDateTime": "2022-08-18T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-drdo-develops-a-facial-recognition-system-that-can-penetrate-masks-disguise.md",
+      "title": "DRDO develops a facial recognition system that can penetrate masks, disguise",
+      "excerpt": "“The video feed received from the robot is analysed by an AI software utilising object recognition. The software detects movement and human presence automatically, generates an audio alarm and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/drdo-develops-a-facial-recognition-system-that-can-penetrate-masks-disguise-9048981.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/drdo-develops-a-facial-recognition-system-that-can-penetrate-masks-disguise-9048981.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2020/06/Face-recognition_.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/drdo-develops-a-facial-recognition-system-that-can-penetrate-masks-disguise-9048981.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/drdo-develops-a-facial-recognition-system-that-can-penetrate-masks-disguise-9048981.html/amp",
+      "publishedDateTime": "2022-08-18T01:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-google-uses-ai-language-models-to-improve-home-helper-robots.md",
+      "title": "Google uses AI language models to improve home helper robots",
+      "excerpt": "Researchers at Everyday Robots are tapping large-scale language models to help robots avoid misconstruing human communications in ways that might",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-uses-ai-language-models-to-improve-home-helper-robots/",
+      "originalUrl": "https://www.zdnet.com/article/google-uses-ai-language-models-to-improve-home-helper-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/767cd3eb64bfcd005e721331322b11bb282d5231/2022/08/17/41088cc8-8d87-4f6b-a8c7-049ee79fa6e6/kitchen-robot-gettyimages.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-uses-ai-language-models-to-improve-home-helper-robots/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-uses-ai-language-models-to-improve-home-helper-robots/",
+      "publishedDateTime": "2022-08-18T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-machine-learning-in-healthcare-market-next-big-thing-major-giants-deepmind-technologies-microsoft-nvidia-intel.md",
+      "title": "Machine Learning in Healthcare Market Next Big Thing | Major Giants DeepMind Technologies, Microsoft, NVIDIA, Intel",
+      "excerpt": "Advance Market Analytics published a new research publication on “Machine Learning in Healthcare Market Insights, to 2027” with 232 pages and enriched with self-explained Tables and charts in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/machine-learning-in-healthcare-market-next-big-thing-major-giants-deepmind-technologies-microsoft-nvidia-intel",
+      "originalUrl": "https://www.digitaljournal.com/pr/machine-learning-in-healthcare-market-next-big-thing-major-giants-deepmind-technologies-microsoft-nvidia-intel",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/ab7f3269651c1b7147d1916b39da6c740fd66e6c-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-ai-in-fintech-market-is-estimated-to-register-a-strong-cagr-of-165-cagr-from-2022-2032-future-market-insights-inc.md",
+      "title": "AI In Fintech Market is Estimated to Register a Strong CAGR of 16.5% CAGR from 2022-2032 | Future Market Insights, Inc.",
+      "excerpt": "The overall AI in fintech market is evaluated at US$ 10.1 Billion in 2021 and is projected to obtain US$ 11.76 Billion by 2022m according to a report disseminated by ESOMAR-ensured Future Market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-is-estimated-to-register-a-strong-cagr-of-16-5-cagr-from-2022-2032-future-market-insights-inc",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-is-estimated-to-register-a-strong-cagr-of-16-5-cagr-from-2022-2032-future-market-insights-inc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T00:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-whats-happening-with-baidu-stock.md",
+      "title": "What's Happening With Baidu Stock?",
+      "excerpt": "Baidu is also making solid progress with its AI developments such as autonomous driving. Last week, the company became the first robo taxi operator in China to receive permits for offering rides ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/whats-happening-with-baidu-stock",
+      "originalUrl": "https://www.nasdaq.com/articles/whats-happening-with-baidu-stock",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/whats-happening-with-baidu-stock?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/whats-happening-with-baidu-stock?amp",
+      "publishedDateTime": "2022-08-18T00:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-18-mubadala-backed-ai-firm-g42-sets-up-10-bln-tech-fund.md",
       "title": "Mubadala-backed AI firm G42 sets up $10 bln tech fund",
       "excerpt": "Emirati artificial intelligence firm G42, chaired by the Gulf state's national security advisor, on Thursday launched a $10 billion fund to invest in late-stage technology companies. DUBAI, Aug 18 (Reuters) - Emirati artificial intelligence firm G42,",
@@ -795,294 +1037,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-aws-localization-uses-amazon-translate-to-scale-localization.md",
-      "title": "AWS Localization uses Amazon Translate to scale localization",
-      "excerpt": "The AWS website is currently available in 16 languages (12 for the AWS Management Console and for technical documentation): Arabic, Chinese Simplified, Chinese Traditional, English, French, German, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Thai, Turkish, and Vietnamese. Customers",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-localization-uses-amazon-translate-to-scale-localization/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-localization-uses-amazon-translate-to-scale-localization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T11:00:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-aiops-startup-bigpanda-raises-series-e-extension-bringing-its-total-capital-to-340m.md",
-      "title": "AIOps startup BigPanda raises Series E extension, bringing its total capital to $340M",
-      "excerpt": "BigPanda, a startup developing AI to audit changes in IT environments and recommend how to fix them, has raised $20 million in an extension of its Series E round.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/17/aiops-startup-bigpanda-raises-series-e-extension-bringing-its-total-capital-to-340m/",
-      "originalUrl": "https://techcrunch.com/2022/08/17/aiops-startup-bigpanda-raises-series-e-extension-bringing-its-total-capital-to-340m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-515973756.jpg?w=1024",
-          "width": 1024,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/17/aiops-startup-bigpanda-raises-series-e-extension-bringing-its-total-capital-to-340m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/17/aiops-startup-bigpanda-raises-series-e-extension-bringing-its-total-capital-to-340m/amp/",
-      "publishedDateTime": "2022-08-17T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-incrementally-update-a-dataset-with-a-bulk-import-mechanism-in-amazon-personalize.md",
-      "title": "Incrementally update a dataset with a bulk import mechanism in Amazon Personalize",
-      "excerpt": "We are excited to announce that Amazon Personalize now supports incremental bulk dataset imports; a new option for updating your data and improving the quality of your recommendations. Keeping your datasets current is an important part of maintaining the relevance of your recommendations. Prior to this",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/incrementally-update-a-dataset-with-a-bulk-import-mechanism-in-amazon-personalize/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/incrementally-update-a-dataset-with-a-bulk-import-mechanism-in-amazon-personalize/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/17/incrementally-update-personalize.jpg",
-          "width": 1535,
-          "height": 766,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T10:44:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-google-robot-tech-can-understand-you-on-a-human-level.md",
-      "title": "Google Robot Tech Can Understand You on a Human Level",
-      "excerpt": "AI language skills let you command robots in plain English and help them navigate the chaos of the real world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/ai-language-skills-coax-google-robots-into-the-real-world/",
-      "originalUrl": "https://www.cnet.com/tech/computing/ai-language-skills-coax-google-robots-into-the-real-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/fa16c58da5f935f2df3f3e9280845f5ec8f15b77/2022/08/16/2c7e4708-4dcc-4ecb-904e-5de08919629b/20220811-google-palm-saycan-robot-01.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-language-skills-coax-google-robots-into-the-real-world/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-language-skills-coax-google-robots-into-the-real-world/",
-      "publishedDateTime": "2022-08-17T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-artificial-intelligence-teaches-microrobots-how-to-swim.md",
-      "title": "Artificial Intelligence Teaches Microrobots how to Swim",
-      "excerpt": "In a recent study published in Communications Physics, a collaborative team of researchers from Santa Clara University, New Jersey Institute of Technology, | Technology",
-      "sourceUrl": null,
-      "webUrl": "https://www.labroots.com/trending/technology/23380/artificial-intelligence-teaches-microrobots-swim-2",
-      "originalUrl": "https://www.labroots.com/trending/technology/23380/artificial-intelligence-teaches-microrobots-swim-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.labroots.com/_public/_files/system/ck/trending/FEATURED%20IMAGE_e0ee8c1743ad40b40477db0302e5f1e7.png",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.labroots.com/trending/technology/23380/artificial-intelligence-teaches-microrobots-swim-2/amp",
-      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/23380/artificial-intelligence-teaches-microrobots-swim-2/amp",
-      "publishedDateTime": "2022-08-17T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Labroots",
-        "domain": "labroots.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-russian-military-to-develop-weapons-using-artificial-intelligence.md",
-      "title": "Russian military to develop weapons using artificial intelligence",
-      "excerpt": "Russian President Vladimir Putin attends a Dec. 15, 2021 meeting. The Russian leader has historically emphasized the role artificial intelligence will play in the years ahead, calling it \"the future, not only for Russia, but for all humankind” in 2017.",
-      "sourceUrl": null,
-      "webUrl": "https://www.c4isrnet.com/artificial-intelligence/2022/08/17/russia-military-to-develop-weapons-using-artificial-intelligence/",
-      "originalUrl": "https://www.c4isrnet.com/artificial-intelligence/2022/08/17/russia-military-to-develop-weapons-using-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.c4isrnet.com/resizer/_rde8-COgWmH1TbZjOSwz89PbVA=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/42I76S76MFE2RN5JSNIER6RHIU.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C4ISRNET",
-        "domain": "c4isrnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,102 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-06-08-trai-looking-at-ai-machine-learning-to-curb-pesky-communications.md",
+      "title": "Trai looking at AI, machine learning to curb pesky communications",
+      "excerpt": "The Telecom Regulatory Authority of India (Trai) is looking at utilising technologies like artificial intelligence (AI) and machine learning (ML) to tackle the menace of spam communications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/industry/trai-looking-at-ai-machine-learning-to-curb-pesky-communications/2552112/",
+      "originalUrl": "https://www.financialexpress.com/industry/trai-looking-at-ai-machine-learning-to-curb-pesky-communications/2552112/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/06/1-148.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/industry/trai-looking-at-ai-machine-learning-to-curb-pesky-communications/2552112/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/trai-looking-at-ai-machine-learning-to-curb-pesky-communications/2552112/lite/",
+      "publishedDateTime": "2022-06-07T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-08-artificial-neural-networks-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2028.md",
+      "title": "Artificial Neural Networks Market Overview with Detailed Analysis, Competitive landscape, Forecast to 2028",
+      "excerpt": "Jun 07, 2022 (Market Insight Reports) -- According to our latest study, due to COVID-19 pandemic, the global Artificial Neural Networks market size is estimated to be worth US$ 174.2 million in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2028-2022-06-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2028-2022-06-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T11:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving.md",
       "title": "AI Ethics Alarmed At The Rise In Underhanded Juicing Or Doping Of AI Machine Learning By Trusted Insiders, Including Autonomous Self-Driving Cars",
       "excerpt": "Worries are that juicing or doping of AI Machine Learning is gaining traction, an AI Ethical woe and dangerous, including for the case of AI self-driving cars.",
@@ -1226,92 +1322,6 @@
         "name": "Exchange 4 Media",
         "domain": "exchange4media.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-mariadb-and-mindsdb-raise-the-iq-for-cloud-databases.md",
-      "title": "MariaDB and MindsDB Raise the IQ for Cloud Databases",
-      "excerpt": "MariaDB Corporation  and MindsDB, the leader in in-database machine learning, today together announced a technology collaboration that makes machine learning predictions easy and accessible to cloud database users.",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1258317&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1258317&cat=PR News Wire",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T13:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-scotiabanks-perspectives-on-aiml-governance-and-future.md",
-      "title": "Scotiabank’s Perspectives On AI/ML Governance And Future",
-      "excerpt": "This is a five-part blog series from an interview that I recently had with Grace Lee, Chief Data and Analytics Officer and Dr. Yannick Lallement, Vice President, AI & ML Solutions at Scotiabank. This blog focuses on AI Governance and Future views of Scotiabank's AI and ML practices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/05/31/scotiabanks-perspectives-on-aiml--governance-and-future/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/05/31/scotiabanks-perspectives-on-aiml--governance-and-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6105c099fb00ca9f0f49f14a/0x0.jpg?format=jpg&width=1200",
-          "width": 986,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/05/31/scotiabanks-perspectives-on-aiml--governance-and-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/05/31/scotiabanks-perspectives-on-aiml--governance-and-future/amp/",
-      "publishedDateTime": "2022-05-31T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

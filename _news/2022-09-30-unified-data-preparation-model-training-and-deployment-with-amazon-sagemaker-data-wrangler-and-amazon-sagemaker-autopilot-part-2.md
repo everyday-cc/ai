@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Build flexible and scalable distributed training architectures using Kubeflow on AWS and Amazon SageMaker"
-    excerpt: "In this post, we demonstrate how Kubeflow on AWS (an AWS-specific distribution of Kubeflow) used with AWS Deep Learning Containers and Amazon Elastic File System (Amazon EFS) simplifies collaboration and provides flexibility in training deep learning models at scale on both Amazon Elastic Kubernetes"
-    publishedDateTime: 2022-09-30T17:56:21Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-flexible-and-scalable-distributed-training-architectures-using-kubeflow-on-aws-and-amazon-sagemaker/"
+  - title: "Create high-quality data for ML models with Amazon SageMaker Ground Truth"
+    excerpt: "Machine learning (ML) has improved business across industries in recent years—from the recommendation system on your Prime Video account, to document summarization and efficient search with Alexa’s voice assistance. However, the question remains of how to incorporate this technology into your business."
+    publishedDateTime: 2022-10-03T17:39:12Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-high-quality-data-for-ml-models-with-amazon-sagemaker-ground-truth/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 102
+    quality: 105
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/23/Solution-1228x630.png"
-        width: 1228
-        height: 630
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/03/create-high-quality-ml-models.jpg"
+        width: 1531
+        height: 766
         isCached: true
   - title: "How Sophos trains a powerful, lightweight PDF malware detector at ultra scale with Amazon SageMaker"
     excerpt: "This post is co-authored by Salma Taoufiq and Harini Kannan from Sophos. As a leader in next-generation cybersecurity, Sophos strives to protect more than 500,000 organizations and millions of customers across over 150 countries against evolving threats. Powered by threat intelligence, machine learning"

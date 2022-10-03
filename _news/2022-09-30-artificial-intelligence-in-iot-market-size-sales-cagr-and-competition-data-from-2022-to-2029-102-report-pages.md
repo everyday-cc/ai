@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "A New Facial Recognition Market Size 2022 Global that Is Expected To Grow at CAGR of over 12%, and Industry Expansion to 2025"
-    excerpt: "The Worldwide Facial Recognition market is expected to increase at a significant rate during the estimate time frame, where in the forecast of 2022 and 2028. Facial Recognition industry is emerging at a growth rate and with the increasing reception of strategies by Top key organizations,"
-    publishedDateTime: 2022-09-29T00:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/a-new-facial-recognition-market-size-2022-global-that-is-expected-to-grow-at-cagr-of-over-12-and-industry-expansion-to-2025-2022-09-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Thermometer with Face Recognition Market 2022 Key Product Segments, Application Analysis, and Industry Growth Forecast by 2028"
     excerpt: "Thermometer with Face Recognition Market Research Report is spread across 105 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
     publishedDateTime: 2022-09-30T04:33:00Z

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-04-geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways.md",
+      "title": "Geely’s Europe expansion continues, Argo robotaxis on the Lyft app and Tesla AI Day takeaways",
+      "excerpt": "The Station weekly newsletter is the central hub for all past, present and future means of moving people and packages from Point A to Point B.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/03/geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways/",
+      "originalUrl": "https://techcrunch.com/2022/10/03/geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/tesla-robot-hand.jpg?resize=1200,744",
+          "width": 1200,
+          "height": 744,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/03/geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/03/geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways/amp/",
+      "publishedDateTime": "2022-10-03T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-10-02-tesla-ai-day-an-investors-perspective.md",
       "title": "Tesla AI Day: An Investor’s Perspective",
       "excerpt": "Musk reiterated many times how the public owns Tesla and that he can’t simply do whatever he wants, he could be fired, and the shareholding public always has a voice. Tesla has been in the financial news for a variety of reasons over the last few months.",
@@ -238,7 +290,7 @@
       "originalUrl": "https://electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -291,7 +343,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 683,
+      "heat": 693,
       "tags": null,
       "images": [
         {
@@ -334,6 +386,61 @@
         "AI",
         "AI in Autos",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-10-top-artificial-intelligence-ai-applications-in-healthcare.md",
+      "title": "10 top artificial intelligence (AI) applications in healthcare",
+      "excerpt": "As AI continues to be applied across the healthcare spectrum — from administration to patient interaction and medical research, diagnosis and treatment — here's how it's making an impact.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/",
+      "originalUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/07/Zebra-Medical-FDA-approval-AI-heart-disease.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/amp/",
+      "publishedDateTime": "2022-09-30T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Natural Language Processing",
+        "AI in Robotics",
+        "AI in Autos"
       ]
     },
     {
@@ -1324,111 +1431,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-nvidia-unveils-drive-thor-one-chip-to-rule-all-software-defined-vehicles.md",
-      "title": "Nvidia unveils Drive Thor, one chip to rule all software-defined vehicles",
-      "excerpt": "Nvidia revealed a next-generation automotive-grade chip that will unify a wide-range of in-car technology and go into production in 2025.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/20/nvidia-unveils-drive-thor-one-chip-to-rule-all-software-defined-vehicles/",
-      "originalUrl": "https://techcrunch.com/2022/09/20/nvidia-unveils-drive-thor-one-chip-to-rule-all-software-defined-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/09/DRIVE-Thor-GTC-Fall-22.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/20/nvidia-unveils-drive-thor-one-chip-to-rule-all-software-defined-vehicles/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/20/nvidia-unveils-drive-thor-one-chip-to-rule-all-software-defined-vehicles/amp/",
-      "publishedDateTime": "2022-09-20T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-robotic-eyes-attached-to-front-of-self-driving-cars-may-improve-safety.md",
-      "title": "Robotic Eyes Attached to Front of Self-Driving Cars May Improve Safety",
-      "excerpt": "Scientists in Japan have found that sticking giant googly-looking eyes in front of self-driving cars may improve safety for pedestrians. Tesla still does not classify Autopilot-enabled vehicles as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595",
-      "originalUrl": "https://www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2119247/pedestrians-crossing-road.jpg",
-          "width": 2058,
-          "height": 1330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595?amp=1",
-      "publishedDateTime": "2022-09-20T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-03-meta-launches-ai-software-tools-to-help-speed-up-work-blog.md",
+      "title": "Meta launches AI software tools to help speed up work - Blog",
+      "excerpt": "Facebook parent Meta Platforms Inc on Monday said it has launched a new set of free software tools for artificial intelligence applications that could help speed up the performance of underlying chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/meta-launches-ai-software-tools-help-speed-up-work-blog-2022-10-03/",
+      "originalUrl": "https://www.reuters.com/technology/meta-launches-ai-software-tools-help-speed-up-work-blog-2022-10-03/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/ZYDMYPCb1mkwySHI1uD8zjrOgoI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XDFHGK4QCJOXNCOTVIM6U32PF4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-02-tesla-ai-day-an-investors-perspective.md",
       "title": "Tesla AI Day: An Investor’s Perspective",
       "excerpt": "Musk reiterated many times how the public owns Tesla and that he can’t simply do whatever he wants, he could be fired, and the shareholding public always has a voice. Tesla has been in the financial news for a variety of reasons over the last few months.",
@@ -106,7 +158,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 683,
+      "heat": 693,
       "tags": null,
       "images": [
         {
@@ -1318,19 +1370,19 @@
     {
       "path": "_news/2022-09-20-runai-certified-to-run-nvidia-ai-enterprise-software-suite.md",
       "title": "Run:ai Certified to Run NVIDIA AI Enterprise Software Suite",
-      "excerpt": "Run:ai Certified to Run NVIDIA AI Enterprise Software Suite Sep 20, 2022 (PRNewswire via COMTEX) -- PR Newswire TEL AVIV, Israel, TEL",
+      "excerpt": "Run:ai, the leader in compute orchestration for AI workloads, today announced that its Atlas Platform is certified to run NVIDIA AI Enterprise, an end-to-end, cloud-native",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/runai-certified-to-run-nvidia-ai-enterprise-software-suite-2022-09-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/runai-certified-to-run-nvidia-ai-enterprise-software-suite-2022-09-20",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/n28936086/run-ai-certified-to-run-nvidia-ai-enterprise-software-suite",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/n28936086/run-ai-certified-to-run-nvidia-ai-enterprise-software-suite",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/28171512/image-55-1024x683.png",
+          "width": 1024,
+          "height": 683,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1338,23 +1390,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28936086",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28936086",
       "publishedDateTime": "2022-09-20T09:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1400,58 +1443,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-artificial-intelligence-ai-chips-market-size-share-growth-and-forecast-to-2027-with-366-cagr-141-pages-report.md",
-      "title": "Artificial Intelligence (AI) Chips Market Size, Share, Growth and Forecast to 2027 with 36.6% CAGR | 141 Pages Report",
-      "excerpt": "Sep 20, 2022 (The Expresswire) -- \"Artificial Intelligence (AI) Chips Market\" valuation is projected to reach 50180 Mn USD by 2026, and it is estimated to be valued at 7719.4 Mn USD In 2022 with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-share-growth-and-forecast-to-2027-with-366-cagr-141-pages-report-2022-09-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-share-growth-and-forecast-to-2027-with-366-cagr-141-pages-report-2022-09-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

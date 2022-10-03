@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2022-10-health-artificial-intelligence-b
 ampWebUrl: "https://medicalxpress.com/news/2022-10-health-artificial-intelligence-biased-unequal.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-health-artificial-intelligence-biased-unequal.amp"
 type: article
-quality: 53
-heat: 53
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/medical-data-1.jpg"
@@ -25,6 +26,6 @@ images:
     height: 1920
     isCached: true
 
-secured: "RmDor4MAZ94rz/8ptT3q+CYeSDCJGY1pzlnoFGKIz+Nzg0/5iU4Lcy27OIMf/B8pI3LwplQiIn2w9Bk2qkBIhwucvH25UV7biqcxLRmU5Gh4Ir7mmDPY50LxsOdrRmpKawkHhp+qTMmn30Jk8U+9LzePDfB02hWOm4+GDqratJMEWNWRJDdqKsWts2SWv8iFGsIKLPCMZOFE8T5uxDI/l3RXr7j3Eno7+0dw1zTWUfgK37jmf/+pSfVgp+p/ck7a2V5/JoRprVqhbVsJFNg6vc+B+DSBryMBVA5EyRGDmpNf/5PBnEBrL4m2M3YG+P/B7JtbjJ0pt9sfeRsOyLQZ5EOuYEClVjU/Q3W4gNy9908=;tXxHsDngCgqs2sufa2Hv3g=="
+secured: "JPDdDRVX+fYUonK0csmhlGBRY7A9OOY3C5uY4WzwLx/e+FZNNGfvHzHgmvX2YJdm8oJ8g+n8yhbsLICo1fgoaC+RZVcJeAiwlZS6fXj8HjZxgf7B6MOGDj8Iq83lxjUw1O0VI5QZuNzIt0v5imjXVsBgste2zeIMg5OeTEkZaBxDo7xwBLuc3wZoD6goQSiqCXtkl1W1bzUdnf5ZSN/kUDMddEI2GGhbtL1KEvJARaAAg70Leenti217dTA84bpOJn802aGitosUnoMcUGVik1ZL+6UhP3ge/tqGNsH62T4irdtvWHV0tl13z9yBVvVIKQ5a1tOMxvUxbFUmUIo9MqCnGkK6TCouulN9In+CxblYu8ODfL5fSGSeGo2jDDO4Atrik6fBhgjzbbSp7+mLmztdp5UJwPJVjOx0K06i4EdvVuZQj35QzNb2XUQVZ1s758fErcXkukt8XZo5zPt41pIWWiXJE4DulZ8DokjjOQ84wnlH6q0pUQ4Dof0FSLeJiQu2dAkrpdO8ABDTWnsddQ==;zRC61r7zOdhURtHVblXgwA=="
 ---
 

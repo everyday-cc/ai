@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla unveils functional prototypes of its planned humanoid robot"
+    excerpt: "Elon Musk announced that Tesla was working on a bipedal humanoid robot that could perform boring and/or dangerous tasks for humans. His company has now unveiled two prototypes, one of which can already walk on its own."
+    publishedDateTime: 2022-10-03T16:35:00Z
+    webUrl: "https://newatlas.com/robotics/tesla-prototypes-humanoid-robot/"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 88
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/5a22619/2147483647/strip/true/crop/717x376+0+51/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F94%2Fdd%2F7b7d0d4e475cae67c88e9c3fd3e2%2Fscreen-shot-2022-10-03-at-9.10.30%20AM.jpeg&na.image_optimisation=0"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Musk previews Tesla's humanoid robot, but cautions it is not ready just yet"
     excerpt: "Tesla CEO Elon Musk on Friday showed off a prototype of 'Optimus', predicting the electric vehicle maker would be able to produce millions of them and sell them for under $20,000 - less than a third of the price of a Model Y."
     publishedDateTime: 2022-09-30T11:06:00Z

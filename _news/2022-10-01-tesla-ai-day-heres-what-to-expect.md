@@ -736,6 +736,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 55
+  - title: "Musk Watch: Delaware court releases Elon's texts, Tesla debuts creepy robot"
+    excerpt: "Musk hasn't tweeted about the document yet, perhaps because he's embarrassed. Hell, I'd turn crimson if a stranger found my phone and scrolled through my messages, even if most of them are recipes from my wife."
+    publishedDateTime: 2022-10-03T17:35:00Z
+    webUrl: "https://www.mysanantonio.com/news/local/article/elon-musk-texts-tesla-robot-17483260.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: mysanantonio.com
+    quality: 54
+    images:
+      - url: "https://s.hdnux.com/photos/01/27/60/01/23003238/3/rawImage.jpg"
+        width: 2048
+        height: 901
+        isCached: true
   - title: "Elon Musk Reveals Prototype Humanoid Tesla Robot at AI Day"
     excerpt: "The Tesla robot walks and waves, though CEO Elon Musk claims it has more advanced functions. Those weren't shown on stage."
     publishedDateTime: 2022-10-02T13:51:00Z

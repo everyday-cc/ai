@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/metas-new-make-a-video-signals-the-next-g
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -99,6 +99,22 @@ related:
     webUrl: "https://www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/"
     ampWebUrl: "https://www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/amp/"
     cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/09/dog-gif.gif?w=512"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "Get ready for the next generation of AI"
+    excerpt: "Video, an AI that generates five-second videos from text prompts. Built on open-source data sets, Make-A-Video lets you type in a string of words, like “A dog wearing a superhero outfit with a red cape flying through the sky,"
+    publishedDateTime: 2022-10-03T16:00:00Z
+    webUrl: "https://www.technologyreview.com/2022/10/03/1060561/get-ready-for-the-next-generation-of-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2022/10/03/1060561/get-ready-for-the-next-generation-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/10/03/1060561/get-ready-for-the-next-generation-of-ai/amp/"
     type: article
     provider:
       name: MIT Technology Review

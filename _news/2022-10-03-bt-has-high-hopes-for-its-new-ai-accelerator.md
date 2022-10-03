@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "BT Group sees network gains through AI Accelerator"
+    excerpt: "Telco announces new platform to orchestrate, accelerate and monitor artificial intelligence model deployments developed by its data community and to drive efficiencies."
+    publishedDateTime: 2022-10-03T11:02:00Z
+    webUrl: "https://www.computerweekly.com/news/252525636/BT-Group-sees-network-gains-through-AI-Accelerator"
+    ampWebUrl: "https://www.computerweekly.com/news/252525636/BT-Group-sees-network-gains-through-AI-Accelerator?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252525636/BT-Group-sees-network-gains-through-AI-Accelerator?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 59
+    images:
+      - url: "https://www.computerweekly.com/visuals/German/article/artificial-intelligence-brain-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
   - title: "BT hits accelerator on AI"
     excerpt: "BT continued a push to use of AI, unveiling an internal accelerator platform it claims will slash the time taken to deploy new use cases."
     publishedDateTime: 2022-10-03T10:47:00Z
@@ -40,20 +56,6 @@ related:
       - url: "https://www.mobileworldlive.com/wp-content/uploads/2022/10/MWL_Data_AI_artificial_intelligence_650.jpg"
         width: 650
         height: 400
-        isCached: true
-  - title: "Renesas Expands RZ/V Series with Built-in Vision AI Accelerator for Accurate Image Recognition and Multi-Camera Image Support"
-    excerpt: "Renesas Electronics Corporation (TSE: 6723), a premier supplier of advanced semiconductor solutions, has expanded its AI-capable RZ/V Series of microprocessors (MPUs), with a new device that enables AI processing of image data from multiple cameras,"
-    publishedDateTime: 2022-09-29T12:02:00Z
-    webUrl: "https://www.eagletribune.com/region/renesas-expands-rz-v-series-with-built-in-vision-ai-accelerator-for-accurate-image-recognition/article_2d84ad82-f621-5631-9280-e3a8b5eeb6d0.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 12
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/5d/65dd4c6f-976e-58ce-8abd-138e93c4dcfe/633589f4c4dee.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "R0GkUROQXhiriEPH9iVs9/1GLf8SFqnk7i90MPNW5Pb80VjjSyWzEvkSj9y+rs2mf1nGARlTXTa9wSqYL6NSnzV5sfF2QznjZVpwSTPyfSK5fVK8ITWmok2UlW0lju2D2Qi8DYLQDIEx1C5P6VEzpIMDgZJ1W+/nz9URux02rrEDdLMEBINVz/hz1qo2FmFMorQdx303GO5r/45do0dCr+XvvuQNZoue30nANBKOwSmo7sQyNZLwgOYdt/aSuDcNRZN5Xz5aJ2qWf7cSsmvVzjQESpQ2bxbMSVrw8shempAkd1XEhfbZanRdgjboz+IJjE15JMQj0Jlks6l9uq3ZHeawwfpxgHsitILJ6GY0CTY04EvjObhF9n90aTiCimvwzAFnDZXn13YRJqBQOUxFJJjF17RTH3izQMXT2Nod3qVTkSi7icdupc0bMh/BeVmx4xroCgCBUicrZam0IKi/ghCQfMyprHqW/T7ATxjYE8aFeZjjjO4RP77cMxZq72Q4i3SDGbXkq66RXnOPS4cJxA==;2dQBcCLuOhy5ZBj3EHq1vQ=="

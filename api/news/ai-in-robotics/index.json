@@ -177,7 +177,7 @@
       "originalUrl": "https://electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -230,7 +230,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 683,
+      "heat": 693,
       "tags": null,
       "images": [
         {
@@ -284,7 +284,7 @@
       "originalUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -326,7 +326,8 @@
         "AI in Healthcare",
         "AI",
         "Natural Language Processing",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI in Autos"
       ]
     },
     {

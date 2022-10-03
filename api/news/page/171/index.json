@@ -2,6 +2,272 @@
   "page": 171,
   "value": [
     {
+      "path": "_news/2022-05-23-meet-the-9-cruise-engineers-taking-gms-self-driving-division-from-science-experiment-to-the-first-robotaxi-service-for-the-masses.md",
+      "title": "Meet the 9 Cruise engineers taking GM's self-driving division from science experiment to the first robotaxi service for the masses",
+      "excerpt": "The company is offering driverless rides in western San Francisco ... that leverages the datasets from those tests to build artificial-intelligence models that can teach Cruise's fleet how to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/top-cruise-engineers-bringing-driverless-rides-to-the-masses-2022-5",
+      "originalUrl": "https://www.businessinsider.com/top-cruise-engineers-bringing-driverless-rides-to-the-masses-2022-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6287bd42577b8a001827c07c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-self-driving-vehicle-start-up-minus-zero-raises-17mn-in-seed-fund.md",
+      "title": "Self-driving vehicle start-up Minus Zero raises $1.7mn in seed fund",
+      "excerpt": "Minus Zero, the self-driving vehicle start-up, has raised $1.7 million in a seed round led by Chiratae Ventures and clocking participation from JITO Angel Network. Angel investors from the autonomous vehicles industry,",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/companies/self-driving-vehicle-start-up-minus-zero-raises-1-7mn-in-seed-fund-122052301068_1.html",
+      "originalUrl": "https://www.business-standard.com/article/companies/self-driving-vehicle-start-up-minus-zero-raises-1-7mn-in-seed-fund-122052301068_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-05/23/full/1653301694-2772.png",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/self-driving-vehicle-start-up-minus-zero-raises-1-7mn-in-seed-fund-122052301068_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/self-driving-vehicle-start-up-minus-zero-raises-1-7mn-in-seed-fund-122052301068_1.html",
+      "publishedDateTime": "2022-05-23T03:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-who-hacked-the-slaughterhouse-when-robots-and-ai-take-over-farms.md",
+      "title": "Who hacked the slaughterhouse? When robots and AI take over farms",
+      "excerpt": "Advanced tech in farming promises to maximize crop yields, minimize the impact of climate change, and fight global food insecurity. Yet swift adoption without consideration of the risks may increase food-system vulnerabilities,",
+      "sourceUrl": null,
+      "webUrl": "https://thebulletin.org/2022/05/who-hacked-the-slaughterhouse-when-robots-and-ai-take-over-farms/",
+      "originalUrl": "https://thebulletin.org/2022/05/who-hacked-the-slaughterhouse-when-robots-and-ai-take-over-farms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thebulletin.org/wp-content/uploads/2022/05/The_Holy_cow.jpeg",
+          "width": 960,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thebulletin.org/2022/05/who-hacked-the-slaughterhouse-when-robots-and-ai-take-over-farms/amp/",
+      "cdnAmpWebUrl": "https://thebulletin-org.cdn.ampproject.org/c/s/thebulletin.org/2022/05/who-hacked-the-slaughterhouse-when-robots-and-ai-take-over-farms/amp/",
+      "publishedDateTime": "2022-05-23T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bulletin of the Atomic Scientists",
+        "domain": "thebulletin.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-blue-turtle-takes-wrapper-off-ai-driven-soc-offering-at-itweb-security-summit.md",
+      "title": "Blue Turtle takes wrapper off AI-driven SOC offering at ITWeb Security Summit",
+      "excerpt": "Blue Turtle will showcase its vendors and its AI-driven approach to the SOC from 31 May to 2 June at the Sandton Convention Centre.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/dgp45vaBLwx7X9l8",
+      "originalUrl": "https://www.itweb.co.za/content/dgp45vaBLwx7X9l8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/wGgGctulHEBVzx37jO0KxYB0BWjcQ-YFwWyRc4BHpSWZbl6qq5cUC2hkHjAmi92U_5jQ_JBJGscghGXF9jjfFOX_yl9oNSktqc1C=w816-h428",
+          "width": 816,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/dgp45vaBLwx7X9l8",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/dgp45vaBLwx7X9l8",
+      "publishedDateTime": "2022-05-23T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-hai-robotics-to-show-its-tallest-robot-for-the-1st-time-in-europe-at-logimat-2022.md",
+      "title": "HAI ROBOTICS to Show Its Tallest Robot for the 1st Time in Europe at LogiMAT 2022",
+      "excerpt": "HAI ROBOTICS, the pioneer in Autonomous Case-handling Robot (ACR) systems for warehouse logistics, will exhibit its cutting-edge automation technology at LogiMAT 2022, Europe's biggest annual intralogistics tradeshow,",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/hai-robotics-to-show-its-tallest-robot-for-the-1st-time-in-europe-at-logimat/article_4d4ecfe2-aeda-5347-b972-30f5d8366bf6.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/hai-robotics-to-show-its-tallest-robot-for-the-1st-time-in-europe-at-logimat/article_4d4ecfe2-aeda-5347-b972-30f5d8366bf6.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/6/7f/67fb44f3-c878-559c-a7b9-fd57d7ffd061/628b49d386acc.image.jpg?crop=1247%2C655%2C0%2C504&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T01:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-nextbillionai-raises-21-million-in-series-b-round.md",
+      "title": "NextBillion.ai raises $21 million in Series B round",
+      "excerpt": "The funding round was led by global investment firm Mirae Asset Capital. Existing investors Lightspeed, M12 (Microsoft’s Venture Fund), and Alphawave NextBillion.ai, a spatial data and mapping platform for enterprises, has raised $21 million in a Series ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/companies/nextbillionai-raises-21-million-in-series-b-round/article65453247.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/companies/nextbillionai-raises-21-million-in-series-b-round/article65453247.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/incoming/cw7664/article65453262.ece/alternates/LANDSCAPE_615/IMG_IMG_BL11_Fund_2_1_PH_2_1_B89DQ9V9.jpg",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/companies/nextbillionai-raises-21-million-in-series-b-round/article65453247.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/nextbillionai-raises-21-million-in-series-b-round/article65453247.ece/amp/",
+      "publishedDateTime": "2022-05-23T01:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-23-a-start-up-aims-to-bring-driverless-cars-to-indian-roads.md",
       "title": "A start-up aims to bring driverless cars to Indian roads",
       "excerpt": "Minus Zero, co-founded by Gagandeep Reehal and Gursimran Kalra, aims to make autonomous vehicles popular in India. Last year in April it had successful tested its prototype, an au",
@@ -852,282 +1118,6 @@
       "provider": {
         "name": "Investing.com",
         "domain": "investing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-computer-vision-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2030.md",
-      "title": "Computer Vision Market overview by recent opportunities, growth size, regional analysis and forecasts to 2030",
-      "excerpt": "May 20, 2022 (Alliance News via COMTEX) -- The report covers the analysis and forecast of a Computer Vision on global as well as regional level. The study provides historic data of 2016 along with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2030-2022-05-20?mod=search_headline",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2030-2022-05-20?mod=search_headline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-20T19:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-can-ai-identify-patients-with-long-covid.md",
-      "title": "Can AI Identify Patients With Long COVID?",
-      "excerpt": "Long COVID refers to the condition where people experience long-term effects from their infection with the SARS CoV-2 virus that is responsible for the COVID-19 disease (Coronavirus disease 2019) pandemic according to the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid",
-      "originalUrl": "https://www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-05/pic0827814.jpg?itok=6-v41JVn",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid?amp",
-      "publishedDateTime": "2022-05-20T14:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-trust-stamp-which-sells-facial-recognition-tools-to-ice-had-dozens-of-peoples-data-exposed-in-breach.md",
-      "title": "Trust Stamp, which sells facial recognition tools to ICE, had dozens of peoples' data exposed in breach",
-      "excerpt": "Dozens of names, addresses, and driver's license data were exposed in the breach, though it doesn't appear to include the data of migrants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trust-stamp-ice-data-breach-facial-recognition-contractor-demo-app-2022-5",
-      "originalUrl": "https://www.businessinsider.com/trust-stamp-ice-data-breach-facial-recognition-contractor-demo-app-2022-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6286a4f8577b8a001827a928?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trust-stamp-ice-data-breach-facial-recognition-contractor-demo-app-2022-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trust-stamp-ice-data-breach-facial-recognition-contractor-demo-app-2022-5?amp",
-      "publishedDateTime": "2022-05-20T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-digital-biomarkers-are-healthcares-next-frontier.md",
-      "title": "Digital biomarkers are healthcare’s next frontier",
-      "excerpt": "Sunny Kumar, MD, MBA is a partner at GSR Ventures, an early-stage venture capital firm focused on healthcare technology ... the sensor data is analyzed with artificial intelligence (AI) and ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/20/digital-biomarkers-are-healthcares-next-frontier/",
-      "originalUrl": "https://techcrunch.com/2022/05/20/digital-biomarkers-are-healthcares-next-frontier/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-560115497.jpg?w=600",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-20T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-litigation-capital-to-finance-claim-against-google-deepmind-for-unlawful-use-of-medical-records.md",
-      "title": "Litigation Capital to finance claim against Google, DeepMind for unlawful use of medical records",
-      "excerpt": "said it has entered into a litigation finance agreement for a new High Court claim on behalf of up to 1.6mln individuals against Google and DeepMind Technologies for the unlawful use of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.proactiveinvestors.co.uk/companies/news/982280",
-      "originalUrl": "https://www.proactiveinvestors.co.uk/companies/news/982280",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-20T11:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Proactive Investors",
-        "domain": "proactiveinvestors.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-could-brands-like-tesla-lure-you-into-buying-a-driverless-car.md",
-      "title": "Could Brands Like Tesla Lure You Into Buying a Driverless Car?",
-      "excerpt": "Established and emerging manufacturers have embarked on a journey to produce the most reliable driverless cars to compete in a growing market. But people still don’t trust AVs are safe, despite potential benefits of fuel efficiency,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/",
-      "originalUrl": "https://www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/05/19/GettyImages-174038219.jpg?quality=80&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/amp/",
-      "publishedDateTime": "2022-05-20T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo Australia",
-        "domain": "gizmodo.com.au",
         "images": null,
         "publishers": null,
         "authors": null

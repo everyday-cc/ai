@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft, Apple, and more work on speech recognition for users with speech disabilities"
+    excerpt: "Major companies like Microsoft, Apple, and Meta, among others, are collaborating with the University of Illinois under the Speech Accessibility Project to improve speech recognition facilities."
+    publishedDateTime: 2022-10-03T17:46:47Z
+    webUrl: "https://www.neowin.net/news/microsoft-apple-and-more-work-on-speech-recognition-for-users-with-speech-disabilities/"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-apple-and-more-work-on-speech-recognition-for-users-with-speech-disabilities/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-apple-and-more-work-on-speech-recognition-for-users-with-speech-disabilities/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 97
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2016/10/1476908377_speech_recognition_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "SAS Viya Now Available on Microsoft Azure Marketplace"
     excerpt: "The full-featured platform on Microsoft Azure would equip global customers with access to essential machine learning, data exploration, and model deployment analytics"
     publishedDateTime: 2022-09-29T10:10:00Z
@@ -70,6 +86,6 @@ related:
       domain: insidehpc.com
     quality: 66
 
-secured: "5UrqbBOxAgKH5xJOByZcyirf+UAHjd5zalzcu5xNTxLVfALxwxseP5UdeRQd0t5G6IqfpNIhCerXdbJQ3wFI9iVg9ornO6BTmBrL92NE3zEMGFCtZp9ZZaXdy7pKISLffbKP9hhsoPAYsJI/xrJfl53twXgzFC9CiV8MKlSDhjhkUX3wiZgMcnCi2lv5wcIIpuecue3QqwZYJ+xwxzDkOoc+4/e6YhAHfGEpwqKuGawpecr8zr/Hrdu1PWKBYcaTyKWw65uGCDYl9mo7FM8fMJd8Fq7I+segxE2pr+Mtr5O7hq2V5b+VQcGgZM1tzku3k6T6I09R+D8hMxRllBVf/9zhnSu3+WSjIe4jS5K3Jl4=;xzEFPdlYR1Oe+JOZ3I7k5Q=="
+secured: "B7K9ojA+7xJtjsA8aFYtFKsdXFUgN5fSfRfS04odm0WCb1u5GVLRuftj+qV4O5uSaVarZLeaqLk1x5iaTaCKI3+oe+FM/jPUl2gSpkLDyMbSrXyFnfmT1zioHGY7AO5dD0x0ttQBsSDrVe+8M9g1vZnXSMReiKvg4B6BhI2GavHqI1aY1JDPxFDiQfiaXS17UXIG7Fga9ALeXuK4JJ8LWOozzv9H8UVRcpDBMdQCTWS7/r9Fsmq+RumMPDXNPTkYnzLaEK0XQbQj1F6RC45yEW2PViv3BCeKywFwl57kzF2W8dk/AFnz7r+O4E+9eHkhcnPd+/5dqWiakpf6mXB2+Qic/5HPsFlK7rfglfGCA/PENQysQlmn+McjHDJWwNPSzqqEAyu/FdDExgCyBTWFItTwZdqfyn1L1nhHnYZ1gZj3u8N5JzJ2U0XpvZHetky3WjCkK2BDhsX2Q7ZaoZHVpQpBstKmOS3SqqD074o7wYO9wqckelTwbU9fYVlojr4yzrM8630mCl1c73Cu4k5LiQ==;UnpYgMhv8o48KOUl6wM9/w=="
 ---
 

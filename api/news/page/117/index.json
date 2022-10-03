@@ -2,6 +2,246 @@
   "page": 117,
   "value": [
     {
+      "path": "_news/2022-06-29-microsoft-backed-ai-learns-how-to-play-minecraft-by-watching-online-videos.md",
+      "title": "Microsoft-Backed AI Learns How To Play Minecraft By Watching Online Videos",
+      "excerpt": "AI capable of rapidly learning and interacting with interfaces humans usually use is taking over the world. Luckily for us, this particular world is virtual.",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/911020/microsoft-backed-ai-learns-how-to-play-minecraft-by-watching-online-videos/",
+      "originalUrl": "https://www.slashgear.com/911020/microsoft-backed-ai-learns-how-to-play-minecraft-by-watching-online-videos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/microsoft-backed-ai-learns-how-to-play-minecraft-by-watching-online-videos/l-intro-1656465937.jpg",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T19:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-case-study-ey-invests-in-ai-to-improve-approach-to-flexible-working.md",
+      "title": "Case Study: EY invests in AI to improve approach to flexible working",
+      "excerpt": "Professional services firm EY has invested in AI-powered tools to assist their employees in the transition back to the office, while maintaining the flexibility they had during the pandemic. Digital Nation Australia spoke to Kate Hillman,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnews.com.au/digitalnation/video/case-study-ey-invests-in-ai-to-improve-approach-to-flexible-working-581990",
+      "originalUrl": "https://www.itnews.com.au/digitalnation/video/case-study-ey-invests-in-ai-to-improve-approach-to-flexible-working-581990",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/Videos/Screenshot_2022-06-29_112924.jpg",
+          "width": 943,
+          "height": 748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T17:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News For Australia Business",
+        "domain": "itnews.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-5-digital-transformation-strategies-to-improve-the-air-travel-experience.md",
+      "title": "5 Digital Transformation Strategies to Improve the Air Travel Experience",
+      "excerpt": "For example, AI-powered virtual agent IBM Watson (aka “Watson”) learns from customer interactions and knows when to search its knowledge base for answers, when to ask for clarity and when ...",
+      "sourceUrl": null,
+      "webUrl": "https://skift.com/2022/06/29/5-digital-transformation-strategies-to-improve-the-air-travel-experience/",
+      "originalUrl": "https://skift.com/2022/06/29/5-digital-transformation-strategies-to-improve-the-air-travel-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Skift",
+        "domain": "skift.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-cognitive-phenotypes-in-late-life-depression.md",
+      "title": "Cognitive phenotypes in late-life depression",
+      "excerpt": "Sarah M. Szymkowicz [Opens in a new window], Department of Psychiatry and Behavioral Sciences, Vanderbilt University Medical Center, Nashville, TN, USA Geriatric Research, Education, and Clinical Center, Veterans Affairs Tennessee Valley Health System ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/international-psychogeriatrics/article/abs/cognitive-phenotypes-in-latelife-depression/61BA968E0B227DC55A486EFFD2953F93",
+      "originalUrl": "https://www.cambridge.org/core/journals/international-psychogeriatrics/article/abs/cognitive-phenotypes-in-latelife-depression/61BA968E0B227DC55A486EFFD2953F93",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-microsoft-certification-guide-overview-and-career-paths.md",
+      "title": "Microsoft Certification Guide: Overview and Career Paths",
+      "excerpt": "Machine Learning, BI Reporting, or Data Engineering with Azure. One additional exam from a list of 13 possibilities must be passed to earn this credential. Topics covered include cloud data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessnewsdaily.com/10736-microsoft-certification-guide.html",
+      "originalUrl": "https://www.businessnewsdaily.com/10736-microsoft-certification-guide.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.businessnewsdaily.com/app/uploads/2022/04/04080433/1554238491.png",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business News Daily",
+        "domain": "businessnewsdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-microsoft-drives-financial-inclusion-with-ai-at-bootcamp.md",
+      "title": "Microsoft Drives Financial Inclusion with AI at BootCamp",
+      "excerpt": "natural language processing and cognitive computing – has huge implications for the financial services industry in Nigeria. According to Microsoft Nigeria Country Manager, Mr. Akin Banuso ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisdaylive.com/index.php/2018/10/11/microsoft-drives-financial-inclusion-with-ai-at-bootcamp/",
+      "originalUrl": "https://www.thisdaylive.com/index.php/2018/10/11/microsoft-drives-financial-inclusion-with-ai-at-bootcamp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thisdaylive.com/index.php/2018/10/11/microsoft-drives-financial-inclusion-with-ai-at-bootcamp/amp/",
+      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2018/10/11/microsoft-drives-financial-inclusion-with-ai-at-bootcamp/amp/",
+      "publishedDateTime": "2022-06-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This Day",
+        "domain": "thisdaylive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-mint-group-recognised-as-winner-of-2022-microsoft-south-africa-partner-of-the-year-award.md",
       "title": "Mint Group recognised as winner of 2022 Microsoft South Africa Partner of the Year Award",
       "excerpt": "The Microsoft Partner of the Year Awards recognise ... and accelerate the digital transformation journey with AI and cognitive services for businesses and government institutions globally.",
@@ -833,281 +1073,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-self-driving-cars-do-you-trust-them-poll.md",
-      "title": "Self-driving cars: Do you trust them? POLL",
-      "excerpt": "More info The Transport Select Committee announced that it had launched an inquiry into the development and deployment of self-driving vehicles. They will assess safety issues and consider the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/life-style/cars/1632238/self-driving-cars-poll-trust-safety-mps-inquiry-spt",
-      "originalUrl": "https://www.express.co.uk/life-style/cars/1632238/self-driving-cars-poll-trust-safety-mps-inquiry-spt",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/24/590x/Driverless-car-safety-trust-1632238.jpg?r=1656685782440",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/life-style/cars/1632238/self-driving-cars-poll-trust-safety-mps-inquiry-spt/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1632238/self-driving-cars-poll-trust-safety-mps-inquiry-spt/amp",
-      "publishedDateTime": "2022-06-28T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam.md",
-      "title": "Fintech SaaS Platform Lentra AI Acquires AI-Startup TheDataTeam",
-      "excerpt": "Bessemer Venture Partners and SIG as its investors Fintech SaaS startup, Lentra AI has acquired Chennai-based AI startup TheDataTeam (TDT) for an undisclosed amount. Following this acquisition ...",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam/",
-      "originalUrl": "https://inc42.com/buzz/fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2022/06/social-5-1.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam/amp/",
-      "publishedDateTime": "2022-06-28T04:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-cwallet-and-microsoft-qatar-partner-to-bring-the-latest-fintech-services-to-organizations-through-azure.md",
-      "title": "CWallet and Microsoft Qatar partner to bring the latest fintech services to organizations through Azure",
-      "excerpt": "Under the new agreement, CWallet will leverage a number of Microsoft products and services including, but not limited to, Azure Machine Learning, Cosmos DB, Power BI, Kubernetes, Application Insights, and other Azure security services to help drive ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/en-xm/2022/06/28/cwallet-and-microsoft-qatar-partner-to-bring-the-latest-fintech-services-to-organizations-through-azure/",
-      "originalUrl": "https://news.microsoft.com/en-xm/2022/06/28/cwallet-and-microsoft-qatar-partner-to-bring-the-latest-fintech-services-to-organizations-through-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.microsoft.com/wp-content/uploads/prod/sites/133/2022/06/AQ0I5.jpg",
-          "width": 850,
-          "height": 569,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-spotting-objects-from-space-is-easy-this-challenge-is-harder.md",
-      "title": "Spotting Objects From Space Is Easy. This Challenge Is Harder",
-      "excerpt": "SMART stands for Space-based Machine Automated Recognition Technique ... “A lot of what we see out there today is ‘Can I find a particular object?’” says Jack Cooper, the program’s manager. “And SMART is trying to figure out what all those ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/spotting-objects-from-space-is-easy-this-challenge-is-harder/",
-      "originalUrl": "https://www.wired.com/story/spotting-objects-from-space-is-easy-this-challenge-is-harder/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/62ba5377403df153e6760426/master/pass/SMART-AI-Satellite-Images-Construction-Sites-science-1166454983.jpg",
-          "width": 2400,
-          "height": 1800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/spotting-objects-from-space-is-easy-this-challenge-is-harder/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/spotting-objects-from-space-is-easy-this-challenge-is-harder/amp",
-      "publishedDateTime": "2022-06-28T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-worldwide-artificial-intelligence-ai-in-drug-discovery-market-to-reach-40-billion-by-2027-at-a-cagr-of-457-researchandmarketscom.md",
-      "title": "Worldwide Artificial Intelligence (AI) in Drug Discovery Market to reach $ 4.0 billion by 2027 at a CAGR of 45.7% - ResearchAndMarkets.com",
-      "excerpt": "The “Artificial Intelligence (AI) in Drug Discovery Market by Component (Software, Service), Technology (ML, DL), Application (Neurodegenerative Diseases, Immuno-Oncology, CVD), End User (Pharmaceutical & Biotechnology,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-biotechnology-160535d3292a437fa156f28babf9135f",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-biotechnology-160535d3292a437fa156f28babf9135f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T03:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-ibm-saudis-king-saud-university-partner-to-advance-skills-development.md",
-      "title": "IBM, Saudi’s King Saud University partner to advance skills development",
-      "excerpt": "King Saud University (KSU), the first public university in the Saudi Arabia has announced its collaboration with IBM aimed at advancing skills development through artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfbusiness.com/ibm-saudis-king-saud-university-sign-mou-to-advance-skills-development-through-ai/",
-      "originalUrl": "https://gulfbusiness.com/ibm-saudis-king-saud-university-sign-mou-to-advance-skills-development-through-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gulfbusiness.com/wp-content/uploads/2022/06/KSU_IBM-Signing_Image-2.jpg",
-          "width": 930,
-          "height": 620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf Business",
-        "domain": "gulfbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }
