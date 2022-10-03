@@ -1,30 +1,19 @@
 ---
 category: news
 title: "Apache Flink Startup Immerok Announces $17M in Seed Funding"
-excerpt: "Immerok, developers of a serverless Apache Flink cloud platform for real-time stream processing, today announced it has closed on a $17 million seed funding round led by Cusp"
-publishedDateTime: 2022-10-03T11:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29115376/apache-flink-startup-immerok-announces-17m-in-seed-funding"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/n29115376/apache-flink-startup-immerok-announces-17m-in-seed-funding"
-ampWebUrl: "https://www.benzinga.com/amp/content/29115376"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29115376"
+excerpt: "Immerok , developers of a serverless Apache Flink cloud platform for real-time stream processing, today announced it has closed on a $17 million seed funding round led by Cusp Capital, 468 Capital, Cortical Ventures,"
+publishedDateTime: 2022-10-03T13:00:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/10/03/9684623.htm"
+webUrl: "https://it.tmcnet.com/news/2022/10/03/9684623.htm"
 type: article
-quality: 42
-heat: 42
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1912043/Immerok_Logo_Black_Transparent_Logo.jpg"
-    width: 400
-    height: 400
-    isCached: true
-
-secured: "+VzndbIfdvvVV/GI5wOsUJsgZFNkxDk0FaYy2XfGNmFEBtbiRHrHw3dkINdfaBZmjBCOqDGaw8NfpF2FpCKIq0zdZJh4yKsJkewPH6siU+tOahzYavYmUPSmgP30gBT0lIcNhDjjWoKv6DEG0LXmwks9FtQ9vsiF2I5NpbZ10e5kZ57RatP1l2NKflT4oj68KRx31jCeT0BbjTEqImFRAIURgLZ8A9Aryu4YMB7KyyW40d1PBD4cqqW1P6gF1sBanJJiI+0n+aJ0UjnRwo1F7bZy+T5Un0K8y5+lflNGqIwqu96YIlzKpB/JFRKzm/nY+OsQUqPvX/rgiEMJ0NJ6B3u5XBnERNSoDnaiKTAdLWQ=;demXvduRM2smZNsA/b4NYg=="
+secured: "rgC/Aq2I1HulfoVbKG48lpy8T8MAjZbALOs8Tn2v7QEue34sb0HCyD919/nLJ/WLRRCT0b0fEQ+unL310sEmQjHMqeBqx6nrEV2qiX09cTTJpR/YKPI4XOEC6Y5EgdtyBQNpFEV/oK4TWzrU8o6Ze8ZlM+AQ4X/He7joIHo8OfvcMh6dv0qYfl+Yu4sheSOdOtHLvx8Xwz5fvRCcRAAI17RbdZoZOf7cCXuHWQAoC4bKa6KmtzyUDZ7JUpGUUuATU/ZVuKU+TpgvYLVxS7pKuJKb+Q/p5pxyYtXr/QJpMdwkRzUXLFzZ4iCpK75RPmlKjh4Y+or6KfCcHmYY9GITmgrQUaOdaZWngG4o0xjXD1sWKyS7JdcuikDR46lZmVsUiHW17xfsjHriZu5+zNZf4Dc+eGrvXFlzbtsGnk0aSdyoLSpoiI6U+vvt3CHKqxUZjHQ/TK66WKRrvH7dA7MwGj7x/iuOgXcSYdAXMemSTp1pv5oB/9nomajG7mkclcBFWQufGXFyuZGIDKOWmpKU6A==;ppfXCAl/9lJKxp3th0kF2Q=="
 ---
 

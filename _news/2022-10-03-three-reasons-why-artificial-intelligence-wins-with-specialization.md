@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/626946974c931989078c7b6c/0x0.jpg?format=jpg&crop=1497,842,x0,y214,safe&width=1200"
@@ -30,6 +31,6 @@ images:
     height: 675
     isCached: true
 
-secured: "Ypge/e46xo6pAeZ9U7/TLtbnpBd6A2k5PKPYHNW0ZpxxMLcH2/LNUzrtQ++X5eKhn6+N3Jh7EMWVOx61N2Z7bHFCZ4XjrVg5f6HcI1LIHwa4zcZWKi7oc8sl5DiU9Wjlz7u/fh8n+IyaobZERM7IpVCI11RcjO8iDE5O8A/QJa5NvFnvwn/WzQpN/2ePOS7Z4Q45ThVqaANp2SqtwttLDq/lw8CAuThUYgQwZgWPrl+XmTv5uUiumhw/RoJeL3qPfMjfWbDuX3jxVrzSqcdL52VjBWSJSzeSyuXdarliOxSNjcp6Gi66KQDpR7k/IGd/9+SdZh42ecoIGfJtl4ZvvJJB4H/75uD30wUGfj+LpYg=;uwvAttDqRxHmC4eZfkzSHw=="
+secured: "880uX10i3y64CeBIcTziuy26RMQooofmSh/W1aousipvSNJBXiF0riIqfJtXSrc7Ia1vEBvzYxTlS2qzJ/Gu80G8k7VHJM4ltEAG3YIrGya/fX2axDONxc7qKbbvhtypeH6ftILJauVWd+62XA6gHWxVAVBL7yaHjO/TdXRSNOBoy0awqU+ENy2uGzYycHw/sGACCOy5CSf0qaqDJ82IcLSGvrhDXUgsi7QYmRmcsToPnA0juqDyGmm+pZogNkMyODfbRc9R/pJapR+U6HKCkxt1nF1CgZta9nFDTg++1WFkMYOfqnBFVQHFsb08aG5cammzIyBTPx3Cy9xoX+aEDYWTYGbmBt3sr7QSgbL3lG/kQ4JjoKdriZRARjBEULwv8nGsPqOSdJ/Um6SpeWkZv3H6XXskl95WN0kBHpHHYdQL8W38B6FoG1Fp2lN2vsra5P3sZSG75H7kNnD9v1AcamGmDpspIE27hB/ja7rDAhgPDZSMBA94p2F7HCqvbYWXwaMLmnRYZaqnquawP1mdcA==;peMP5j3HYox/9wm0Y7wKwA=="
 ---
 
