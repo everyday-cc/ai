@@ -3,18 +3,18 @@ category: news
 title: "Tesla, Elon Musk show off early prototype 'Optimus' robot"
 excerpt: "But the basic tasks by the robot with exposed wires and electronics — as well as a later, next generation version that had to be carried onstage by three men — was a long way from CEO Elon Musk's vision of a human-like robot that can change the world."
 publishedDateTime: 2022-10-01T23:58:00Z
-originalUrl: "https://www.firstcoastnews.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-webUrl: "https://www.firstcoastnews.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+originalUrl: "https://www.khou.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+webUrl: "https://www.khou.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
 type: article
 quality: 76
 heat: -1
 published: false
 
 provider:
-  name: First Coast News
-  domain: firstcoastnews.com
+  name: KHOU 11
+  domain: khou.com
 
 topics:
   - AI in Robotics
@@ -22,7 +22,7 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://media.firstcoastnews.com/assets/CCT/images/ee0a47a3-adbd-488e-b57b-07df25f393af/ee0a47a3-adbd-488e-b57b-07df25f393af_1140x641.jpg"
+  - url: "https://media.khou.com/assets/CCT/images/ee0a47a3-adbd-488e-b57b-07df25f393af/ee0a47a3-adbd-488e-b57b-07df25f393af_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -821,6 +821,6 @@ related:
       domain: thesun.co.uk
     quality: 28
 
-secured: "iT66fpvH2BSyKUFf4QV3gI49rdOnK8PMwnW0fnIDghSe8Uu/pUAHhDXfDRrb+NHb5u6xZ616QWXm1s4SJp14cm2fw4T56pjar3vy+azIZEr7bqh8bwU+7IpLldaP887dnd5IEivERyESlZQcq9LHeEIQji2gOeTL6ecdWTsja065BJa9MJV18oa8KF7rm5rVF2W/F29nEP08k3EnOMgnh8Aga1vxWjn78zFh4FflPuGjw4n3KwZHyp9MZiBYwFRFlJpMkAEZk+vh+HYlIZWLkFMcpdjESPMrBtca0Qu3PlcjDU1CRvZEZ2+KNAty6Ir4nKLtRsBs/d14ZF4jltfuFXsW9u7Y2i/UjDBHOwP61YqYB4U8ra1bplnsw4KHNGwLeO/ZGi/xMqwA69EvnG36dwU9QTBvEVr9kTpDFI/tv7Gm0E/7939HxwbYsNOGAFU5p7SK2Ukhy7luxuNXl/1xqD2wV4upfexJHyC7XcjgOO/PsP2JtBuX3hKsB0CjR8WMbfeMnzUQzEJydw+ld990VQ==;FajN9pHhq2Q0WwbHKMZKhg=="
+secured: "/Ug4CPD57trIByxfEK6mm4op3QFDb2KrG5e7FEcetic3MgxsCoHm3QPa8RoPCgmrQECKSm91Xv22StBWfOEsGSgmChkc/6UE/yIPILEP4uhFkiCD8x42ZAJTL9EGmJle4I8rUVsglCtn4d0MHFC8NAqUowFpGI186I2cJzkJPbD4gBOS7bx9Nc5XQQ4FX0pAy1ZViVv1hqACLTCg43mz+Fv+QOMhafC+ctenphHWgfMLwrLfzwe6mP9f0mzXKET7st4IrpYeVgFOUNj5usVycx1qM1OGnmP/ge0EOIhxmDJmntNnfXOs62BtbcJsm1PMDYWaYfKVNBP+2ILvpFvAbE2xHGt7hIeTY+gCZvquOTY=;JgdtWxgU0faVA6iu9mfSAQ=="
 ---
 

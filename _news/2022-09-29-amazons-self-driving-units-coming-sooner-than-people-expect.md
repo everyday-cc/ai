@@ -33,6 +33,17 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Cruise’s Self-Driving Cars Are Blocking San Francisco Traffic And Making Real Drivers Mad"
+    excerpt: "Multiple Cruise autonomous cars have been spotted blocking traffic lanes in San Francisco and sending real drivers into a rage. Two of the self-driving Chevrolet Bolt robotaxis were seen parked up in the middle of the road near a busy intersection at Sacremento St and Leavenworth St with their hazard warning lights flashing and taking up too much space to allow other cars to get by."
+    publishedDateTime: 2022-09-28T22:55:00Z
+    webUrl: "https://www.carscoops.com/2022/09/cruises-self-driving-cars-are-blocking-san-francisco-traffic-and-making-real-drivers-mad/"
+    ampWebUrl: "https://www.carscoops.com/2022/09/cruises-self-driving-cars-are-blocking-san-francisco-traffic-and-making-real-drivers-mad/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/09/cruises-self-driving-cars-are-blocking-san-francisco-traffic-and-making-real-drivers-mad/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 15
 
 secured: "GAn3N0nwV8qQ1RrSXW+3wdEp6kaJTvnmuJ+RMGVMdNX42rf3Dmkhd6sUWGt6dEcnsNJ1VJwnWdS/4WQAp7VAO8jl8zszXXBundW3NNXf4XQDSTLNqNFxMbYUzasp8xa37iPeMOsY9Y6seJOsottIIRC/bPPfEjCDUgewNyPA0fm1J0ukugepVP0knmvnFd3SFataPuJBuaHY+SAXVbWWWehgOV6LoBZP4fZvuccWJr+HhPN3ZJuLIxHQhu8xBJmss/BS29DONPTB+pJu6/MW308vLF7NUsW/QG5cCGEh6gc/3Y0HXzRdPaHYuvWS5rVk57uq01febo2bPad09woQmvSUYzAijt4tU1NNSNmgozp9ozr0I9eovO15vZqMDoDXhplVpMpKg8cLa9svVeuAG8MfRzywPX9tGPrQxm//4BuLPsYOUg4JEVBu9mcnQCSh5nTK66rmaLjyQGlLcTrp318f0oT97PctHXnzJoRACnCCW6z3t7VHvU9Y5KRwBQhM9V6esqHV/xhPsB3mUwJOdg==;B/1TgDgNkAOuj+kqXzNh8A=="
 ---

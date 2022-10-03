@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Cruise’s Self-Driving Cars Are Blocking San Francisco Traffic And Making Real Drivers Mad"
+    excerpt: "Multiple Cruise autonomous cars have been spotted blocking traffic lanes in San Francisco and sending real drivers into a rage. Two of the self-driving Chevrolet Bolt robotaxis were seen parked up in the middle of the road near a busy intersection at Sacremento St and Leavenworth St with their hazard warning lights flashing and taking up too much space to allow other cars to get by."
+    publishedDateTime: 2022-09-28T22:55:00Z
+    webUrl: "https://www.carscoops.com/2022/09/cruises-self-driving-cars-are-blocking-san-francisco-traffic-and-making-real-drivers-mad/"
+    ampWebUrl: "https://www.carscoops.com/2022/09/cruises-self-driving-cars-are-blocking-san-francisco-traffic-and-making-real-drivers-mad/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/09/cruises-self-driving-cars-are-blocking-san-francisco-traffic-and-making-real-drivers-mad/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 15
   - title: "Amazon's self-driving units coming 'sooner than people expect'"
     excerpt: "The chief executive officer of Zoox, Amazon.com Inc.'s self-driving unit, expects autonomous vehicles to be present in cities \"sooner than people expect,\" but stopped short of saying when her own company's product would appear on roads."
     publishedDateTime: 2022-09-28T18:13:00Z
