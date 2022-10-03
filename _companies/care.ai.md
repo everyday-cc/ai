@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "caredotai"
   url: "https://twitter.com/caredotai"
-  followers: 567
+  followers: 568
 
 size: 11-50 employees
 yearFounded: 2019
