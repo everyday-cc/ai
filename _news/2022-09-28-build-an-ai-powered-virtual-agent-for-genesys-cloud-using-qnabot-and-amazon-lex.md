@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-virtual-agent-for-genesys-cloud-using-qnabot-and-amazon-lex/"
 type: article
 quality: 100
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 1532
     height: 756
     isCached: true
-
-related:
-  - title: "Genesys Introduces AI Experience, A Complete Way for Businesses to Orchestrate Unique Customer Journeys"
-    excerpt: "Genesys Cloud AI Experience simplifies how organizations deliver and improve bespoke end-to-end customer journeys with turnkey personalization,"
-    publishedDateTime: 2022-09-28T12:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/genesys-introduces-ai-experience-a-complete-way-for-businesses-to-orchestrate-unique-customer-journeys-1031769822"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 33
 
 secured: "JMydup8uy8DrSbd0zOKhx4/SzsLOE07XH9/e4a9L4zAdTYCJpin9tPWoIxf+QeZimn2/fTriWr+USvc/3hTPBJZUrIwXSrVD82a46zYGYSZzY1tnwID9/LrPxLM3O4yPcw4pXN70oH++RTduxt42aVdNgfYUCGMlQBGDgv5MC0P2FAwo8KBluxkjHihu2DqVdM9hOQlLMIoYYpPYQ6sq3gV5DH1jYBUCwheOUs+E2HNNDFjZFc632+WSqjFY3zLhO/H0wG9kzqMVLUK1poQf0D7cv1G5g2JrZ7ka+2Jfg0+41coKk6si4iraOVacfNdSEeth4iU4wEQnOPViZ3FNzwqUg2W2cLUw4aJThih0TB0=;tKwS0j3XHURWoSKJFh8lzQ=="
 ---

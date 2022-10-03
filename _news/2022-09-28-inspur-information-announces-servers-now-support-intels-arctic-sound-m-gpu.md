@@ -44,15 +44,6 @@ related:
       name: Techgage
       domain: techgage.com
     quality: 19
-  - title: "Intel Arc A770 GPU due out in October: check here for price, specifications"
-    excerpt: "The Arc A770 features 32 Xe Cores and ray tracing units and comes in two memory configurations - 8GB and 16GB. The card also supports Intel's AI-based image reconstruction and super sampling technology called XeSS,"
-    publishedDateTime: 2022-09-28T12:46:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/intel-arc-a770-gpu-due-out-in-october-check-here-for-price-specifications-9244181.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 17
 
 secured: "VmHMNybll3P8MbjC7bq72piwpuawXtaTNnKtM5iBaFobIOQyYUkzghanOckyaLC9On7z+rY9n4ZCycRMWksVviLN7X2kirF9sPrbkWBeN+hHk7F7O7OKggf/lyF7qUTwawYWY60UGIpxGBEU/GZzh9RgJ0K+iY+7LtTlh+KS/X179um9lfqez76466/H6q+ZwUx0abUUkTx8AwWkxRo58kDBctQ3Yi9xGZ7DynBB5C++7ztUHZJPwCkNleLnssVUYDg7z5M4SrD5EgllJncvxlvhagulsxoLpr9Q1DMe7IPqg/ip/ulprx6TbdhliUAI0VKAPqF7EprD3TrVxGTtJIHYoErJXx9IX8H+trUuJJ4=;IHeEZfZQ6Q1FAl3v3i1MyQ=="
 ---

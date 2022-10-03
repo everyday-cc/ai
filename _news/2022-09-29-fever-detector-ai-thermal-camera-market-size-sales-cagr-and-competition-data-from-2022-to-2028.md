@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/fever-detector-ai-therma
 webUrl: "https://www.marketwatch.com/press-release/fever-detector-ai-thermal-camera-market-size-sales-cagr-and-competition-data-from-2022-to-2028-2022-09-28"
 type: article
 quality: 71
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -113,15 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market 2022 Size to Hit USD 569495.63 million with CAGR of 38.32% by 2027, Deep Learning Market Analysts Certification"
-    excerpt: "Deep Learning Market 2022-2027 including Market Overview, Business Revenue, Introduction, Gross advantage Final Report"
-    publishedDateTime: 2022-09-28T12:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2022-size-to-hit-usd-56949563-million-with-cagr-of-3832-by-2027-deep-learning-market-analysts-certification-2022-09-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
 
 secured: "ducfb30qN6ujtSUOALnR4e111nSmy0O1Ue1VgqmpPtCmMdoUt72NutqjaXZl4lWDNSW+0uBwwyuU9vTI8ZBzruB2OVxwKewIODYNboiYs9z7sn1qTRopMiJ9g5CQKrMAgxD8vgf+KWY6pQ8HQg5LdGbDYAIRLe6NPNaLsr677YDJLpMaG+j6YMyTMS+M1Yo8ELQ1Sj1fH7XiT/rTUdbwOLHz8eAWR70VB/pluoATIvMvO9NObnGxTL09tIFl5DPMe8nCzpPmasbYoQOgJoVk5XLQA0XM/EMBg4gzqkATddfgzbdgMxPxHjwAPZFWOFBEBUAWkoyJ5NqFPf9SprnXAXq+M5EmFS50nFXIYFE19yY=;Up5h6V7wTpBKqyhtlUXBhA=="
 ---

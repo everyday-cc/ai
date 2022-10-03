@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-code-of-ethics/"
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-code-of-ethics/"
 type: article
 quality: 74
-heat: 75
+heat: 76
 published: true
 
 provider:

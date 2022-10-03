@@ -3,8 +3,8 @@ category: news
 title: "Bruce Willis Rep Confirms Actor Did Not Sell Rights To His Face To Russian AI Production Company"
 excerpt: "Bruce Willis did not sell the rights to his face to artificial intelligence production company Deepcake like rumors have stated."
 publishedDateTime: 2022-10-02T21:50:00Z
-originalUrl: "https://www.ibtimes.com/bruce-willis-rep-confirms-actor-did-not-sell-rights-his-face-russian-ai-production-company-3619386"
-webUrl: "https://www.ibtimes.com/bruce-willis-rep-confirms-actor-did-not-sell-rights-his-face-russian-ai-production-company-3619386"
+originalUrl: "https://www.ibtimes.com/bruce-willis-rep-confirms-actor-did-not-sell-rights-his-face-russian-ai-production-company-3619386?amp;amp"
+webUrl: "https://www.ibtimes.com/bruce-willis-rep-confirms-actor-did-not-sell-rights-his-face-russian-ai-production-company-3619386?amp;amp"
 ampWebUrl: "https://www.ibtimes.com/bruce-willis-rep-confirms-actor-did-not-sell-rights-his-face-russian-ai-production-company-3619386?amp=1"
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/bruce-willis-rep-confirms-actor-did-not-sell-rights-his-face-russian-ai-production-company-3619386?amp=1"
 type: article
@@ -65,6 +65,6 @@ related:
       domain: itv.com
     quality: 3
 
-secured: "sn+n+dEqUQT678zXHHjI27CfsgYOQOc3eAAkTWs4rGMaS2PKWWVe5j+WDa/Ebxy+M4TT8xziU0mT4AN0QQcTQV+dUZP+sUtkzU807KkLdGsiUEOP1jxHJ5+OZdaXSmZvyMH8cxrxOR5EdGDLRUwN5aCnxN4w8PD182mDJ37V2lH8vcbTSN/sGQs7SJ6FhWRSLobZzd2RMulSl8MNDAAdkZv9UZM58pRMG2Rwnim3fBIeXXvVSzbDW6Zb4Dlnb6147a1nVu+MVLopoSGF4S2yaklFjAq0YaB8tPh5WnINismJoFUBa/dTe2bD5lcnCpbg9euT1NoUa6mT53Zd077G6+3Q56yqYrQmuSTuuyoxEcAstTZangBAxuM3HHv+RDwbKAvy4E8gsBn8MtGAOhLyR9NVE6YiEcJS1cYbKXVgI8PuQdGRiqngBpifS7/8LX/2Dy5I55T4wcXDTvc1ngVTmRFEX53ghxJy0no7eQkeLzSN4QVCnXaL/obpH+K0Tq/qq1CpXBiyewmkxM9G1OJqMg==;yHUdiDucvuGCBcwt5kNPsA=="
+secured: "E8HavRgU77rF5RM+yUTuDyTA0c9zJlYxdr7gavhc/Yy87njfP594IjjqEVRir0ybb1KymWK1tSnzS8+OhDxOn7pJKxT3ksSHUSi8f1PjyuAMBRwrj/Kcmdz+s2xZA+HnqE+Hj5D/f3vXfK0G3obVumI6bgGEDvOM+sVSyPbNrlMQ7x5Ijd4DCdWxbKwTQBzxPKVrMBELm4dbDuAkHLWd8NoOjheSCX7mRCJpgB8dtvO2IWFkAnaNyCTbg1We9za0TLy5Jol5d8EWoN4gHY18zNJ7Qf7t15MAeKOUZ7SQU7jeJ1gZpkXaDyeRsSqAbNOBbtGoHmmVd9vaMwl1HlVvYczUHCQMcQh/rA+coZF3v3w=;wFF7ICLxqk6Bc7mN99dcHQ=="
 ---
 

@@ -44,15 +44,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 17
-  - title: "Intel Arc A770 GPU due out in October: check here for price, specifications"
-    excerpt: "The Arc A770 features 32 Xe Cores and ray tracing units and comes in two memory configurations - 8GB and 16GB. The card also supports Intel's AI-based image reconstruction and super sampling technology called XeSS,"
-    publishedDateTime: 2022-09-28T12:46:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/intel-arc-a770-gpu-due-out-in-october-check-here-for-price-specifications-9244181.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 17
 
 secured: "/C87AeLXdlOQpAZQZ/V6K7eDMLB56IdocOdYeVAnX1VZvcsfvpIQ5OPoGCx/MZCLpBmFAwo9OZ1RiDtiYicf8mAFrhoUTtT+u9r6JWjyHHUg2NWoc8Hz3MWjc9QJvIC/rItT3DHSZLRjzcsvLy7TLZ43zHz0g8KIfvaFxUz+j0DF6JrguO6KpC55b/pC4e8bUWFCs5wH4PRFtdNCyIsssT2Ve98qiMFWOGHOcxyCLsq0KwWn+kpkTkx3O0o6q7+0lHdfmezF1PpV2QTVaGumGqrSVp0PD8K3KF/sj6qpPH6od/OI/IBBWCrpZzufwOsHGwaOhSen/mZiqHTqQYBO14KNWsdfsMLN4/Sp/Ihb+xgUeUC61aXHpgT/thINJj1LTbKZRzbPhi91ey00AAOtzG/6LFYEfkxVe90Jd44Re4A7mw3MmejDef7ShLyq9jF04lWk55sPVxwZXzIo27uyQk/Z9G8F/HDn3f1xAcvw5WQoTQjJ2pHETbYgLjFS50QsMCuHeZQI+oMmZSMMqVuWWw==;2xk3GtXqGAWbJexFKcoJLQ=="
 ---

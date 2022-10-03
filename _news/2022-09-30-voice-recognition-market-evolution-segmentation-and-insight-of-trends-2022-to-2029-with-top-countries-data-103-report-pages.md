@@ -113,15 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market 2022 Size to Hit USD 569495.63 million with CAGR of 38.32% by 2027, Deep Learning Market Analysts Certification"
-    excerpt: "Deep Learning Market 2022-2027 including Market Overview, Business Revenue, Introduction, Gross advantage Final Report"
-    publishedDateTime: 2022-09-28T12:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2022-size-to-hit-usd-56949563-million-with-cagr-of-3832-by-2027-deep-learning-market-analysts-certification-2022-09-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
 
 secured: "0D6wuj9u9cojVEVASf8O5m+Zmms0Pt4R1h8afRVX7dp6Bq4yk3LAAJlcsgpn755P4HEkoBvx97kZShAjCBxqDAcHjmxnMSWtKd8aLkhK+gcr2Rkc/eS7iBOUtcxLCH6L0hEHua4ieBqXLNDqVWCsCA2hU068nlCx+s1aCO6S1BsfjQuuZCEqawveMK/bzcaecHklHsVleg9LqANmfoPjLpqFP9waVX5FUcmBS/bEMnq196sUCjwg8Yxgv4+qo0/TPqp3smqpONg0ZGA3l0TvSJXmJuauPvQY13iboz/rnuhsFjW+A4LQk5yrLoHUb9UzbN0dQyiYZezzfyuDbYgip4ukqDhBUuPIH7DYeOljFiM=;1xpGwRaEsTnlKIMrg7G6Ig=="
 ---

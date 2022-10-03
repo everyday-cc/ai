@@ -21,7 +21,7 @@ related:
   - title: "Bruce Willis Rep Confirms Actor Did Not Sell Rights To His Face To Russian AI Production Company"
     excerpt: "Bruce Willis did not sell the rights to his face to artificial intelligence production company Deepcake like rumors have stated."
     publishedDateTime: 2022-10-02T21:50:00Z
-    webUrl: "https://www.ibtimes.com/bruce-willis-rep-confirms-actor-did-not-sell-rights-his-face-russian-ai-production-company-3619386"
+    webUrl: "https://www.ibtimes.com/bruce-willis-rep-confirms-actor-did-not-sell-rights-his-face-russian-ai-production-company-3619386?amp;amp"
     ampWebUrl: "https://www.ibtimes.com/bruce-willis-rep-confirms-actor-did-not-sell-rights-his-face-russian-ai-production-company-3619386?amp=1"
     cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/bruce-willis-rep-confirms-actor-did-not-sell-rights-his-face-russian-ai-production-company-3619386?amp=1"
     type: article

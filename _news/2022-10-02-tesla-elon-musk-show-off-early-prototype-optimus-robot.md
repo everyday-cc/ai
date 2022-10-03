@@ -426,20 +426,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "What to expect from Tesla’s AI Day event"
-    excerpt: "Tesla’s cars and self-driving projects are likely to take a backseat to a robot named Optimus. Musk announced the “Tesla Bot” at last year’s AI Day, promising that it would be “friendly” and potentially revolutionize the company’s assembly line and manufacturing business."
-    publishedDateTime: 2022-09-28T13:00:00Z
-    webUrl: "https://www.theverge.com/2022/9/28/23374494/tesla-event-ai-day-robot-elon-musk-rumors-announcements-news"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 88
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/ftQ6dGW3gsYMTqFw9gx8ajM9QD8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23986648/acastro_STK086_03.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Should You Buy Tesla (TSLA) Stock Ahead of Its AI Day 2022?"
     excerpt: "The company’s AI Day generates an enormous buzz among Tesla fans and investors, as well as tech enthusiasts at large as it’s packed with exciting innovations and big surprises. Tesla’s 2021 AI Day knocked the audience for six as a dancing robot walked onto the stage to accompany Musk."
     publishedDateTime: 2022-09-29T15:13:00Z
@@ -821,6 +807,6 @@ related:
       domain: thesun.co.uk
     quality: 28
 
-secured: "/Ug4CPD57trIByxfEK6mm4op3QFDb2KrG5e7FEcetic3MgxsCoHm3QPa8RoPCgmrQECKSm91Xv22StBWfOEsGSgmChkc/6UE/yIPILEP4uhFkiCD8x42ZAJTL9EGmJle4I8rUVsglCtn4d0MHFC8NAqUowFpGI186I2cJzkJPbD4gBOS7bx9Nc5XQQ4FX0pAy1ZViVv1hqACLTCg43mz+Fv+QOMhafC+ctenphHWgfMLwrLfzwe6mP9f0mzXKET7st4IrpYeVgFOUNj5usVycx1qM1OGnmP/ge0EOIhxmDJmntNnfXOs62BtbcJsm1PMDYWaYfKVNBP+2ILvpFvAbE2xHGt7hIeTY+gCZvquOTY=;JgdtWxgU0faVA6iu9mfSAQ=="
+secured: "naDpsCmL5jGp6HvGRFax4ik9Vz5FPHvaMuOU83OVCZ0UEM5s4XXLoYWq55hyouHSPpxCtxrCSt4qWLXXZ2bSpt/wZkLRCl4O9mUBG/J2jxxzJdiw8sYM9iHheAkB9qrz8F0ZB/XA+MLf3/6YySIuXyzTDVoXI8+Ysigvgf0re7jJ8cP8v4C5ZbdZ8qqH997jvlgNLE4fB5JQRE9psieKYUGCbtyCsU1wlC5Ukb2/2rksI4XyrNJObpJ30EayhEy/H359g2dB0pp7etXM7br+UHqdO0VeMDsNJ2aNcc1BbLK1pdOVh4jnnQlD1s1/BqBBr5t5CMvH2hufuHByiCA89kKBOS7ydh5xRk400/aPALeLVUpXSFiCLtlrmF7p55UbB0b9a/SoHrj8ntcc8WKigY8I8TQHuynMrV7ZHNlVC9pES9iBsq9QtpqH+EhbwjUqQkQxpjIegd+fQGtMNEfU0UlhK07vlfA4TWccRwYoLvcX+XsKY0bTSu4xS5P2Y1OY3y49qA1D7Jo0rmrIO5bRvQ==;X5fK6PINsirfS+QggnNqhA=="
 ---
 

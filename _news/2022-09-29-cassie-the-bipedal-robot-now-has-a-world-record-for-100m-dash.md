@@ -50,38 +50,6 @@ related:
       name: The Robot Report
       domain: therobotreport.com
     quality: 49
-  - title: "Robot Developed By US University Runs 100 Metres In 24.73 Seconds, Sets New Guinness World Record"
-    excerpt: "Researchers used neural network controllers to make the robot run and stand after the race because Guinness asked for a human-like scenario."
-    publishedDateTime: 2022-09-28T11:48:00Z
-    webUrl: "https://www.ndtv.com/world-news/robot-developed-by-us-university-runs-100-metres-in-24-73-seconds-sets-new-guinness-world-record-3385444"
-    ampWebUrl: "https://www.ndtv.com/world-news/robot-developed-by-us-university-runs-100-metres-in-24-73-seconds-sets-new-guinness-world-record-3385444/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/robot-developed-by-us-university-runs-100-metres-in-24-73-seconds-sets-new-guinness-world-record-3385444/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 46
-    images:
-      - url: "https://c.ndtvimg.com/2022-09/odm4v6do_robot-runner-650_625x300_28_September_22.jpg"
-        width: 650
-        height: 400
-        isCached: true
-  - title: "Two-legged robot named 'Cassie' sets Guinness World Record for fastest 100-metre sprint by a droid"
-    excerpt: "Cassie clocked the historic time of 24.73 seconds, starting from a standing position and returning to that position after the sprint, with no falls"
-    publishedDateTime: 2022-09-28T11:45:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11257949/Two-legged-robot-named-Cassie-sets-Guinness-World-Record-fastest-100-metre-sprint-droid.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11257949/amp/Two-legged-robot-named-Cassie-sets-Guinness-World-Record-fastest-100-metre-sprint-droid.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11257949/amp/Two-legged-robot-named-Cassie-sets-Guinness-World-Record-fastest-100-metre-sprint-droid.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 45
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/09/28/12/62880901-0-image-a-7_1664364535567.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "Watch This Alarmingly Fast Robot Set the World Record for 100 Meters"
     excerpt: "Cassie covered 100 meters in 24.73 seconds, the fastest ever by a bipedal robot. For now, humans are still faster."
     publishedDateTime: 2022-09-29T16:15:00Z

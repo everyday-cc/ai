@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digit.in/article/amp/pc-components/65431/intel-reveals-a
 cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/pc-components/65431/intel-reveals-arc-a770-gpu-price-and-availability"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
     provider:
       name: Daily Herald
       domain: dailyherald.com
-    quality: 17
-  - title: "Intel Arc A770 GPU due out in October: check here for price, specifications"
-    excerpt: "The Arc A770 features 32 Xe Cores and ray tracing units and comes in two memory configurations - 8GB and 16GB. The card also supports Intel's AI-based image reconstruction and super sampling technology called XeSS,"
-    publishedDateTime: 2022-09-28T12:46:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/intel-arc-a770-gpu-due-out-in-october-check-here-for-price-specifications-9244181.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
     quality: 17
 
 secured: "BzakP+LDzfaKeiSf7A8ATbEfkLEXsLvL/P5jkHQZ2qHTAwD58eXyLJSTtj4BTuoCEFdxp7n86NFJbrAH2q5x8B60yLRfeuot3rkhgjKv+Wy86XF5RXbRjjrtZCC405Jl4+J1r5Edo/DgR7cY2wlB03Nd2CDl59TqhSnChxAl46PyT2erdeKqnzFwY43lvZNY7GOMz9/LZTGVfgDk1z0wTihd4yFzeykcH1pSjotJ4ePUDCopVJI9wbcg7ek/5bfxSrW7CjtcgXi0BahUWBpENW5ZOofTI51t0AYf/buINVmu3NwtKzNnKBBMVptlGMa3xIgSajGjw+zXtqX/X1vklHk1UORq9aVl+GVpYgCH+kN/eOBIifA/66i2QPbg7/KjnQ6vAN52nYCm1XgJAvm+HVOBjfZSuxFBGg/G7SPi8D0XwIr/SGdgJGCTFnzMsKg+HI46NS7DO3bsLK4/DW90/bWqHBKIRS4ihW0Ppbba+tuyjyY7tOpvq9CeCW3E7+p/DA8zolG5dkGQlQUfKMG1Ng==;Gu2TcTs6UsC9w0RtPkfBQA=="

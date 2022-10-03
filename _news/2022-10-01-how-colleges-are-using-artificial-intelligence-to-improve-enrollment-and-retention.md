@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are-turning-to-artificial-intelligence-to-improve-enrollment-and-retention/amp/"
 type: article
 quality: 83
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 665
         isCached: true
-  - title: "How Healthcare Providers Can Improve Patient Experiences With RPA, AI And Digital Workflows"
-    excerpt: "Beyond just automating tasks, robotic process automation (RPA) today leverages adjacent technologies like AI, ML, NLP, image recognition and intelligent document processing (IDP) to accurately and efficiently capture, extract, analyze and report results to ..."
-    publishedDateTime: 2022-09-28T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/28/how-healthcare-providers-can-improve-patient-experiences-with-rpa-ai-and-digital-workflows/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
   - title: "AION Labs launches AI startup to improve drug trials"
     excerpt: "AION Labs has formed OMEC.AI, the lab’s first startup approved by the Israel Innovation Authority. The new company will develop AI-powered solutions to analyze pre-clinical data and identify gaps in efficacy and safety to improve the probability of success of drug candidates in clinical trials."
     publishedDateTime: 2022-09-28T19:57:00Z

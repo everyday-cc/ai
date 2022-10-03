@@ -420,20 +420,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "What to expect from Tesla’s AI Day event"
-    excerpt: "Tesla’s cars and self-driving projects are likely to take a backseat to a robot named Optimus. Musk announced the “Tesla Bot” at last year’s AI Day, promising that it would be “friendly” and potentially revolutionize the company’s assembly line and manufacturing business."
-    publishedDateTime: 2022-09-28T13:00:00Z
-    webUrl: "https://www.theverge.com/2022/9/28/23374494/tesla-event-ai-day-robot-elon-musk-rumors-announcements-news"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 88
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/ftQ6dGW3gsYMTqFw9gx8ajM9QD8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23986648/acastro_STK086_03.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla’s Optimus robot: transformative or dystopian?"
     excerpt: "Brad Porter, founder of Collaborative Robotics and former head of Amazon's robotics division, weighs in on Tesla's humanoid robot Optimus."
     publishedDateTime: 2022-09-29T16:17:00Z

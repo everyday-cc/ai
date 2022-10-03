@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 665
         isCached: true
-  - title: "How Healthcare Providers Can Improve Patient Experiences With RPA, AI And Digital Workflows"
-    excerpt: "Beyond just automating tasks, robotic process automation (RPA) today leverages adjacent technologies like AI, ML, NLP, image recognition and intelligent document processing (IDP) to accurately and efficiently capture, extract, analyze and report results to ..."
-    publishedDateTime: 2022-09-28T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/28/how-healthcare-providers-can-improve-patient-experiences-with-rpa-ai-and-digital-workflows/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
   - title: "Arthur Raises $42M to Ensure Enterprises are Using AI Models That are Accurate, Transparent, and Free of Bias"
     excerpt: "Arthur, cofounded by Adam Wenchel, is a platform that monitors, measures, and improves machine learning models to deliver better results for enterprises."
     publishedDateTime: 2022-09-30T13:27:00Z
