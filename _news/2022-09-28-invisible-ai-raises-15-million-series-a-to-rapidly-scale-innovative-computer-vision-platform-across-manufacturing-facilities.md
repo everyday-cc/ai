@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/invisible-ai-raise
 webUrl: "https://markets.businessinsider.com/news/stocks/invisible-ai-raises-15-million-series-a-to-rapidly-scale-innovative-computer-vision-platform-across-manufacturing-facilities-1031770558"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,20 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "French vision AI company Alteia closes its latest funding round"
-    excerpt: "Through this investment, Alteia will increase its presence in the Kingdom of Saudi Arabia by opening an office in Dhahran to support some of the leading industrial companies in the MENA region, and develop and deploy industrial vision-based solutions."
-    publishedDateTime: 2022-09-28T08:59:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/french-vision-ai-company-alteia-closes-its-latest-funding-round-fh0f8r8z"
+  - title: "AtScale Announces Data Science and Enterprise AI Capabilities Within Semantic Layer Platform"
+    excerpt: "AtScale, the leading provider of semantic layer solutions for modern business intelligence and data science teams, today"
+    publishedDateTime: 2022-09-29T19:09:00Z
+    webUrl: "https://www.datanami.com/this-just-in/atscale-announces-data-science-and-enterprise-ai-capabilities-within-semantic-layer-platform/"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
-    images:
-      - url: "https://static.zawya.com/version/c:NDQ1NDdhYWEtMWRhOS00:YWY1MDEx/prefecture-jfif.jfif?f=1%3A1&q=1&w=3840"
-        width: 304
-        height: 304
-        isCached: true
+      name: datanami.com
+      domain: datanami.com
+    quality: 8
 
 secured: "fSqB2hNlEV0J+b4yVvQ2NaEfRAEXt14/X1xy+P6N648PK4ExxPARUhbgOxiBmw727P5HbWxf4AiinOyvUqSliOMbRPXWMAd6qQW1XdzseHOJ0pp31pDyjZouBcUVjTzs5k3pV7NBhMNFdTfC5vxBXQrzYSSpLjsFMnJSiTvRh2HmGQIOtmkPgB1Sx6XeZSBVJ6LxQ75bAKWVB4LsXS3m/fB9sVRUbmGoNvoK453CFE4BLFMGdzUH8U3YvUCN+PcgvYyJEoCb9tnpJE6MeC4hEx760Y+Snxjmga5gjxL2Eq/QGNZMhzkh1MwGGhLme1CPUdBEUU4HBbd4R/9eib+/CwtxXxmOX0kcLwvoqakiiTA=;+VkGBsgdTYgB3E5D7O0Dag=="
 ---

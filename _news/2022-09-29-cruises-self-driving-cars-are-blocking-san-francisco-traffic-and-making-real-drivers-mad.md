@@ -21,19 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "Pony.ai partners with SAIC, Geely on self-driving taxi fleets"
-    excerpt: "Self-driving car startup Pony.ai is forming a partnership with SAIC AI Lab, a research facility of the namesake automaker, to jointly develop robocars and"
-    publishedDateTime: 2022-09-28T08:40:00Z
-    webUrl: "https://technode.com/2022/09/28/pony-ai-partners-with-saic-geely-on-self-driving-taxi-fleets/"
+  - title: "Self-driving trucks are learning to circumvent major road debris"
+    excerpt: "Aurora's self-driving trucks learn to navigate highway debris to avoid swerving collisions"
+    publishedDateTime: 2022-09-28T09:45:00Z
+    webUrl: "https://www.axios.com/2022/09/28/autonomous-trucks-road-debris"
     type: article
     provider:
-      name: TechNode
-      domain: technode.com
-    quality: 39
+      name: Axios
+      domain: axios.com
+    quality: 24
     images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
+      - url: "https://images.axios.com/M5kqVObNNyihjukILOmHdj8ILak=/0x0:1920x1080/1366x768/2022/09/27/1664303633654.jpg"
+        width: 1366
+        height: 768
         isCached: true
 
 secured: "w6QHUywzaXLePj12c4DFsGGsx1fdXpifARzJzT1pB6MNjCRTW4hoLXiENQJWxRqRcNasKZsnHEx8sZ/QjExIqYfrbKrPn2duOLpmX/JFvONAZ/JipFMvQ08HfuA2l+fWGYJxveApr+hAjj1fMXCRtKJWeCfO/eLRRmP+CaHZ6hzWPByGqDvKPBOmqK3/HlGLShORmN62CLVv09q/V4FeL0NijznGDUA9VMQkhJyQ1FFm83cK+EBgqSSDDDbFWk1SM6fNZBCs0z1AXcS/1Z2asObwFpwMTMDZRWMcxZWt4VUu3e/f7i/Y9KLX58791hcKBjeGgQ2glyvfMI5N/lGjpsCWkqQ4frrm9+JXpVI9ltwc1EnPzegBX9o4vrS9JlUFm39SwJIBwEsNTaydkVXPGu0X7TU2cLa098cdXykKe8z3FUHvMZsCg975V7pMNVNQ+t9Yw2pF4I+7n/ssfNin6YMShyJ6l2NxCTlKB+W/LWHnpvyCSZLLOwfGHgK8bUJre4vXSEn/OV2lB9jwdUSwUQ==;ELfqCPM51ns1CNx4EyAcYw=="
