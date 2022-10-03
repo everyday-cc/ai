@@ -46,20 +46,15 @@ related:
         width: 1200
         height: 653
         isCached: true
-  - title: "AION Labs launches AI startup to improve drug trials"
-    excerpt: "AION Labs has formed OMEC.AI, the lab’s first startup approved by the Israel Innovation Authority. The new company will develop AI-powered solutions to analyze pre-clinical data and identify gaps in efficacy and safety to improve the probability of success of drug candidates in clinical trials."
-    publishedDateTime: 2022-09-28T19:57:00Z
-    webUrl: "https://www.labiotech.eu/trends-news/aion-labs-launches-ai-startup-improve-drug-trials/"
+  - title: "Keys to Implementing AI in Drug Discovery"
+    excerpt: "Implementing artificial intelligence and machine learning tools in drug discovery requires reasonable expectations, clean data, and collaboration."
+    publishedDateTime: 2022-10-03T12:00:00Z
+    webUrl: "https://www.genengnews.com/artificial-intelligence/keys-to-implementing-ai-in-drug-discovery/"
     type: article
     provider:
-      name: labiotech
-      domain: labiotech.eu
-    quality: 37
-    images:
-      - url: "https://www.labiotech.eu/wp-content/uploads/2022/06/shutterstock-artificial-intelligence-.jpg"
-        width: 1024
-        height: 683
-        isCached: true
+      name: GEN
+      domain: genengnews.com
+    quality: 17
   - title: "Arthur Raises $42M to Ensure Enterprises are Using AI Models That are Accurate, Transparent, and Free of Bias"
     excerpt: "Arthur, cofounded by Adam Wenchel, is a platform that monitors, measures, and improves machine learning models to deliver better results for enterprises."
     publishedDateTime: 2022-09-30T13:27:00Z

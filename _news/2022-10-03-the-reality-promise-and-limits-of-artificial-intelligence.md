@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-03T05:39:00Z
 originalUrl: "https://www.supplychainbrain.com/blogs/1-think-tank/post/35773-the-reality-promise-and-limits-of-artificial-intelligence"
 webUrl: "https://www.supplychainbrain.com/blogs/1-think-tank/post/35773-the-reality-promise-and-limits-of-artificial-intelligence"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.supplychainbrain.com/ext/resources/2022/09/30/AI-ARTIFICIAL-INTELLIGENCE-ROBOT-HUMAN-iStock-angkhan-1331063982.jpg?height=635&t=1664771136&width=1200"

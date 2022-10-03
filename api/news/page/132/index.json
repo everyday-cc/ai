@@ -2,6 +2,49 @@
   "page": 132,
   "value": [
     {
+      "path": "_news/2022-06-17-florida-man-becomes-first-person-to-live-with-advanced-mind-controlled-robotic-arm.md",
+      "title": "Florida Man Becomes First Person to Live With Advanced Mind-Controlled Robotic Arm",
+      "excerpt": "Matheny, who lost his arm to cancer in 2005, has recently become the first person to live with an advanced mind-controlled robotic arm. He received the arm in December and will be spending the ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/mind-controlled-robotic-arm-johnny-matheny",
+      "originalUrl": "https://futurism.com/mind-controlled-robotic-arm-johnny-matheny",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2018/02/limb-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/mind-controlled-robotic-arm-johnny-matheny/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/mind-controlled-robotic-arm-johnny-matheny/amp",
+      "publishedDateTime": "2022-06-16T23:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-17-facial-recognition-startup-clearview-ai-drops-sales-chief-chunk-of-staff-sources.md",
       "title": "Facial recognition startup Clearview AI drops sales chief, chunk of staff -sources",
       "excerpt": "Clearview AI cut much of its sales staff this week and has parted ways with two of three executives hired about a year ago",
@@ -1089,40 +1132,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-china-automotive-voice-industry-report-2022-from-ivi-software-to-adas-voice-enabled-functions-continue-to-evolve-with-iflytek-and-cerence-leading.md",
-      "title": "China Automotive Voice Industry Report 2022: From IVI Software to ADAS, Voice-enabled Functions Continue to Evolve with iFLYTEK and Cerence Leading",
-      "excerpt": "The \"China Automotive Voice Industry Report, 2021-2022\" report has been added to ResearchAndMarkets.com's offering. Automotive voice market: The boom of self-research by OEMs will promote reform in the supply mode.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-china-automotive-voice-industry-report-2022-from-ivi-/2022/06/16/9623502.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-china-automotive-voice-industry-report-2022-from-ivi-/2022/06/16/9623502.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

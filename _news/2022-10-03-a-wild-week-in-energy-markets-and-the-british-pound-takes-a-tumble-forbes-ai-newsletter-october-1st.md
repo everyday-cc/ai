@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-03T13:21:00Z
 originalUrl: "https://www.forbes.com/sites/qai/2022/10/03/a-wild-week-in-energy-markets-and-the-british-pound-takes-a-tumble-forbes-ai-newsletteroctober-1st/"
 webUrl: "https://www.forbes.com/sites/qai/2022/10/03/a-wild-week-in-energy-markets-and-the-british-pound-takes-a-tumble-forbes-ai-newsletteroctober-1st/"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: Forbes

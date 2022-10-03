@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-03T13:05:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29117886/synopsys-and-samsung-foundry-enable-3nm-process-technology-for-power-and-performance-demanding-mob"
 webUrl: "https://www.benzinga.com/pressreleases/22/10/n29117886/synopsys-and-samsung-foundry-enable-3nm-process-technology-for-power-and-performance-demanding-mob"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

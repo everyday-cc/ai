@@ -28,7 +28,7 @@ related:
     provider:
       name: Supply Chain
       domain: supplychainbrain.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.supplychainbrain.com/ext/resources/2022/09/30/AI-ARTIFICIAL-INTELLIGENCE-ROBOT-HUMAN-iStock-angkhan-1331063982.jpg?height=635&t=1664771136&width=1200"
         width: 843

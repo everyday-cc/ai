@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-03T09:03:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/10/g29113058/communications-platform-as-a-service-cpaas-global-market-report-2022-integration-of-ai-machine-lea"
 webUrl: "https://www.benzinga.com/pressreleases/22/10/g29113058/communications-platform-as-a-service-cpaas-global-market-report-2022-integration-of-ai-machine-lea"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Benzinga.com

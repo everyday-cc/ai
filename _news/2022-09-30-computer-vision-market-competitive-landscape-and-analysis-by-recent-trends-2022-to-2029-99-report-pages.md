@@ -113,6 +113,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Lidar for Self-Driving Car Market Outlook and Forecast 2022 To 2028 with Top Countries Data"
+    excerpt: "Lidar for Self-Driving Car Market Research Report is spread across 97 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
+    publishedDateTime: 2022-10-03T06:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/lidar-for-self-driving-car-market-outlook-and-forecast-2022-to-2028-with-top-countries-data-2022-10-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
 
 secured: "50XpAODvHljiAzZIhDdr23YlC8TFuNsL5glFMh7DiG1HpuWm9jWHI88mqUZ+nmvdUvUteIno4rZoHYRQl0Logq4yIOYafk+nqJb/nAN/DvtKlswnbM3UW9Yj76za6FSfA0KVPUsG+178CiI0nno9ukdKv4SXriE5P30fTupZSfPq9q1hFF3lquk6sVN9vvS9jRJ0saXVz+U/sy+QxiWcyMz31l1evTrR8GvcKypzPuO7QOqGtF7t99Joy0J5/V4ZiCReZoTBHkOc2l5Y+F4Hd0zkWFPF8E2Lx+LCNg42n5DdiBaRf9S8iHsWeUuKmuH11gqsg6YUaVuO0YQ1HBGgHhpZcOmEh2PGaGl9aOrCEz0=;Nk04Iw1GTZUXBW8LZFcNkA=="
 ---

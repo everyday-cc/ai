@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-03T13:40:00Z
 originalUrl: "https://www.sourcesecurity.com/news/siemens-desigo-cc-v6-building-management-platform-native-cloud-connectivity-co-1546-ga-npr.1664776737.html"
 webUrl: "https://www.sourcesecurity.com/news/siemens-desigo-cc-v6-building-management-platform-native-cloud-connectivity-co-1546-ga-npr.1664776737.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: SourceSecurity

@@ -80,22 +80,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "Tesla AI Day 2022: Elon Musk's Optimus Robot, How to Watch and More"
-    excerpt: "Engineers are trying to make a Tesla Bot for dangerous or boring work. At AI Day, expect updates on FSD technology for eventual self-driving cars too."
-    publishedDateTime: 2022-09-28T20:44:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-elon-musks-optimus-robot-how-to-watch-and-more/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ai-day-2022-elon-musks-optimus-robot-how-to-watch-and-more/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-2022-elon-musks-optimus-robot-how-to-watch-and-more/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 121
-    images:
-      - url: "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Elon Musk Unveils Humanoid Robot Optimus at Tesla’s AI Day"
     excerpt: "The prototype, which the CEO showed off at a company’s AI event Friday, is part of his effort to shape public perception of the company as more than just a car maker."
     publishedDateTime: 2022-10-01T04:15:00Z
@@ -366,6 +350,22 @@ related:
         width: 1600
         height: 898
         isCached: true
+  - title: "Tesla’s Optimus humanoid robot can shuffle across stage, ‘raise the roof’"
+    excerpt: "The robot waved at audience members, and briefly \"raised the roof,\" but stopped short of any in-person capability demonstrations."
+    publishedDateTime: 2022-10-03T15:00:00Z
+    webUrl: "https://www.popsci.com/technology/teslas-ai-day-optimus/"
+    ampWebUrl: "https://www.popsci.com/technology/teslas-ai-day-optimus/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/teslas-ai-day-optimus/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 90
+    images:
+      - url: "https://www.popsci.com/uploads/2022/10/03/Screen-Shot-2022-10-03-at-8.32.31-AM.png?auto=webp"
+        width: 2000
+        height: 1500
+        isCached: true
   - title: "Tesla just gave us a fresh glimpse of its humanoid robot ahead of its big AI Day event. What we know so far about the Optimus project."
     excerpt: "Elon Musk has said the robot could more important than its car business, but it'll join a long list of projects that haven't yet seen the light of day."
     publishedDateTime: 2022-09-30T16:42:00Z
@@ -444,15 +444,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 81
-  - title: "Elon Musk’s robot is going to have to work hard to impress at Tesla’s AI Day"
-    excerpt: "Elon Musk is expected to unveil a prototype of his Optimus robot — better known as When Musk announced last August that Tesla was developing a genera"
-    publishedDateTime: 2022-09-28T19:57:00Z
-    webUrl: "https://www.theverge.com/2022/9/28/23376456/elon-musk-tesla-bot-ai-day-event-optimus-prototype-predictions"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 78
   - title: "Elon Musk Set To Showcase Tesla's Humanoid Robot \"Optimus\" After Delay"
     excerpt: "Tesla CEO Elon Musk has said a robot business will be worth more than its cars, and on Friday investors, customers and potential workers expect to see a prototype at Tesla's \"AI Day\" that could prove whether the bot named \"Optimus\" is ready for work."
     publishedDateTime: 2022-09-30T11:21:00Z
@@ -540,6 +531,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Optimus Unprimed - how Tesla’s AI robot was distinctly underwhelming"
+    excerpt: "Elon Musk may be the internet’s favoured ringmaster at the moment, but even he couldn’t pull a decent humanoid robot out of his hat at Tesla’s AI Day event last week."
+    publishedDateTime: 2022-10-03T15:08:00Z
+    webUrl: "https://www.redsharknews.com/optimus-unprimed-how-teslas-ai-robot-was-distinctly-underwhelming"
+    ampWebUrl: "https://www.redsharknews.com/optimus-unprimed-how-teslas-ai-robot-was-distinctly-underwhelming?hs_amp=true"
+    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/optimus-unprimed-how-teslas-ai-robot-was-distinctly-underwhelming?hs_amp=true"
+    type: article
+    provider:
+      name: redsharknews.com
+      domain: redsharknews.com
+    quality: 71
   - title: "Tesla A.I. Day Is Coming. Expect High-End Computing, Self-Driving Cars, and Robots."
     excerpt: "High-end computing, neural networks, self-driving cars, and robots could come up at the car company's second annual event."
     publishedDateTime: 2022-09-29T12:32:00Z
@@ -556,15 +558,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Here’s what to expect at Tesla AI day"
-    excerpt: "Tesla Inc's \"AI day\" is back, with investors hoping this time the electric-vehicle maker will show something other than a spandex-clad human mimicking"
-    publishedDateTime: 2022-09-28T19:25:00Z
-    webUrl: "https://www.marketwatch.com/story/heres-what-to-expect-at-tesla-ai-day-11664393141"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
   - title: "Tesla Reveals Optimus, a Walking Humanoid Robot You Could Buy in 2027"
     excerpt: "Two prototype Tesla Bots could walk, wave their arms and grip with fingers. CEO Elon Musk says they'll eventually cost $20,000 and should go on sale by 2027."
     publishedDateTime: 2022-10-01T18:17:00Z
@@ -738,6 +731,15 @@ related:
         width: 700
         height: 414
         isCached: true
+  - title: "Twitter Users Hate Elon Musk’s Tesla Bot. Maybe We’re Just Not Ready For The AI Overlords"
+    excerpt: "Twitter users pounced on the fact that the Tesla robot demo was a bit underwhelming, and they are mostly correct."
+    publishedDateTime: 2022-10-03T12:40:00Z
+    webUrl: "https://www.forbes.com/sites/johnbbrandon/2022/10/03/twitter-users-hate-elon-musks-tesla-bot-maybe-were-just-not-ready-for-the-ai-overlords/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 55
   - title: "Elon Musk Reveals Prototype Humanoid Tesla Robot at AI Day"
     excerpt: "The Tesla robot walks and waves, though CEO Elon Musk claims it has more advanced functions. Those weren't shown on stage."
     publishedDateTime: 2022-10-02T13:51:00Z

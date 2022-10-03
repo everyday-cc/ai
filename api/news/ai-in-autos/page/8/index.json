@@ -2,6 +2,40 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-08-18-critical-analysis-baidu-nasdaqbidu-and-grom-social-enterprises-nasdaqgrom.md",
+      "title": "Critical Analysis: Baidu (NASDAQ:BIDU) and Grom Social Enterprises (NASDAQ:GROM)",
+      "excerpt": "Grom Social Enterprises (NASDAQ:GROM – Get Rating) and Baidu (NASDAQ:BIDU – Get Rating) are both computer and technology companies, but which is the superior business? We will compare the two companies based on the strength of their risk,",
+      "sourceUrl": null,
+      "webUrl": "https://www.defenseworld.net/2022/08/18/critical-analysis-baidu-nasdaqbidu-and-grom-social-enterprises-nasdaqgrom.html",
+      "originalUrl": "https://www.defenseworld.net/2022/08/18/critical-analysis-baidu-nasdaqbidu-and-grom-social-enterprises-nasdaqgrom.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T23:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense World",
+        "domain": "defenseworld.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-18-russian-military-to-develop-weapons-using-artificial-intelligence.md",
       "title": "Russian military to develop weapons using artificial intelligence",
       "excerpt": "Russia said created a department for developing AI weapons. The program could serve to counter the Pentagon’s newly formed AI authority.",
@@ -1304,58 +1338,6 @@
         "name": "cio.economictimes.indiatimes",
         "domain": "indiatimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-14-xiaomi-pilot-technology-for-autonomous-driving-unveiled.md",
-      "title": "Xiaomi Pilot Technology for autonomous driving unveiled",
-      "excerpt": "Chinese tech powerhouse Xiaomi is making progress in its quest to produce an autonomous electric vehicle. The company has made a substantial investment in the development of a Xiaomi car brand since May 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/",
-      "originalUrl": "https://www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/08/xiaomi-pilot-tech-3.jpg",
-          "width": 1652,
-          "height": 920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/?amp=1",
-      "publishedDateTime": "2022-08-14T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

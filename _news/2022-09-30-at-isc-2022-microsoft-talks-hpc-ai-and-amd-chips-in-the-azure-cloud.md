@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Amazon, Apple, Microsoft, Meta and Google to improve speech recognition for people with disabilities"
+    excerpt: "The University of Illinois (UIUC) has partnered with Amazon, Apple, Google, Meta, Microsoft and nonprofits on the Speech Accessibility Project.."
+    publishedDateTime: 2022-10-03T12:35:00Z
+    webUrl: "https://www.engadget.com/apple-microsoft-meta-google-nonprofits-speech-recognition-120021686.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 71
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-10/00e6bc70-42ec-11ed-9b61-c134c193b26e"
+        width: 2126
+        height: 1131
+        isCached: true
   - title: "SAS Viya Now Available on Microsoft Azure Marketplace"
     excerpt: "The full-featured platform on Microsoft Azure would equip global customers with access to essential machine learning, data exploration, and model deployment analytics"
     publishedDateTime: 2022-09-29T10:10:00Z
@@ -50,15 +64,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "SAS Viya Now Available in Microsoft Azure Marketplace"
-    excerpt: "The SAS Viya analytics platform is now available in the Microsoft Azure Marketplace with the click of a button on a"
-    publishedDateTime: 2022-09-28T19:55:00Z
-    webUrl: "https://www.datanami.com/this-just-in/sas-viya-now-available-in-microsoft-azure-marketplace/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 49
 
 secured: "x0Idl+H0BGnC9k/Jd2htURLm4WrBVUsQsJ56QLmBr2qaIwZwJeAHSprY7C5vcsPO/0lnpQ+FZKuGRodW2F/k5+rsaS4//68Jvp7m9Dk5N7BQ2oMBPcw6eewEs7bm5pjXXJqrnzKUdt6/HJjBlOjqW3XhOpW/ZqTgBAVKTrtaw+A5SwiPBaQH4m3ITWNe+/OJTjrX3YXnXO59cRWXZ4BsKgTVXl7K0MBPZ7GlSWLJ41cJrln5OW5n84HLt/2CiaIS0aM6J0cmksLe3Pe9EHQ0hcNE0JzHBPqQQKJsjvMGovUbL2QUXTknsO5qX4z6a/3K2QIX+9FeIY3TqS8JGMUReIDM+j3UL5JbWjvLWzGMb0w=;u89gCE0rhuZVIncjXpyViA=="
 ---

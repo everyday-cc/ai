@@ -2,6 +2,49 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2022-07-26-police-can-use-facial-recognition-again-after-ban-in-new-orleans-home-to-sprawling-surveillance.md",
+      "title": "Police can use facial recognition again after ban in New Orleans, home to sprawling surveillance",
+      "excerpt": "Less than two years after passing an ordinance that outlawed facial recognition technologies, New Orleans city council voted last week to allow police to use the controversial tech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.protocol.com/enterprise/new-orleans-surveillance-facial-recognition",
+      "originalUrl": "https://www.protocol.com/enterprise/new-orleans-surveillance-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.protocol.com/media-library/less-than-p-greater-than-the-quick-reversal-of-the-ban-illustrates-the-fragility-of-laws-attempting-to-restrict-surveillance-tech-in-the-face-of-violent-crime-less-than-p-greater-than.jpg?id=30262587&width=400&coordinates=0%2C308%2C0%2C308&height=711.4285714285714&quality=80",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.protocol.com/amp/new-orleans-surveillance-facial-recognition-2657727433",
+      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/new-orleans-surveillance-facial-recognition-2657727433",
+      "publishedDateTime": "2022-07-26T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Protocol",
+        "domain": "protocol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-26-chinese-carmakers-jostle-for-edge-in-autonomous-driving.md",
       "title": "Chinese carmakers jostle for edge in autonomous driving",
       "excerpt": "Shenzhen published a new set of rules which will allow autonomous commercial driving services to be offered in the tech hub from next month. That includes fully autonomous cars if such technology ever comes to fruition and meets safety requirements.",
@@ -1068,58 +1111,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-kmart-halts-use-of-in-store-facial-recognition-amid-australian-privacy-investigation.md",
-      "title": "Kmart halts use of in-store facial recognition amid Australian privacy investigation",
-      "excerpt": "July, a month after the consumer advocacy group Choice learned that Kmart and Bunnings were testing facial recognition. Bunnings had already paused use as it migrated to a new system. Other Australian retailers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/kmart-bunnings-stop-facial-recognition-131935278.html",
-      "originalUrl": "https://www.engadget.com/kmart-bunnings-stop-facial-recognition-131935278.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-images/2020-02/ab7a0df0-4bb8-11ea-b7dd-8bf29e9a20d8",
-          "width": 4912,
-          "height": 3264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/kmart-bunnings-stop-facial-recognition-131935278.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/kmart-bunnings-stop-facial-recognition-131935278.html",
-      "publishedDateTime": "2022-07-25T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Amazon, Apple, Microsoft, Meta and Google to improve speech recognition for people with disabilities"
+    excerpt: "The University of Illinois (UIUC) has partnered with Amazon, Apple, Google, Meta, Microsoft and nonprofits on the Speech Accessibility Project.."
+    publishedDateTime: 2022-10-03T12:35:00Z
+    webUrl: "https://www.engadget.com/apple-microsoft-meta-google-nonprofits-speech-recognition-120021686.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 71
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-10/00e6bc70-42ec-11ed-9b61-c134c193b26e"
+        width: 2126
+        height: 1131
+        isCached: true
   - title: "At ISC 2022: Microsoft Talks HPC-AI and AMD Chips in the Azure Cloud"
     excerpt: "We visited with Microsoft Azure during ISC – here is our conversation with two HPC-AI specialists, Alex Jean and Dr. Lukasz Miroslaw, for an update on Azure’s line-up of new capabilities and services in support of advanced AI and machine learning."
     publishedDateTime: 2022-09-29T18:54:00Z
@@ -50,15 +64,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 66
-  - title: "SAS Viya Now Available in Microsoft Azure Marketplace"
-    excerpt: "The SAS Viya analytics platform is now available in the Microsoft Azure Marketplace with the click of a button on a"
-    publishedDateTime: 2022-09-28T19:55:00Z
-    webUrl: "https://www.datanami.com/this-just-in/sas-viya-now-available-in-microsoft-azure-marketplace/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 49
 
 secured: "PxDPtFSUbwrHgOPbwHj4O3AIthdxP20DsXRqXejNbG0a55iYpy9NuhCA5aT1OtUkIO1KQ4LfpOnGrXCXt8cbjiFN+OqiiEW0e8IQr6ofscU+Z4cQ21extFfgS/YG9neie7xs5AKy9iqb7YKVo6t9JNhEkIER4AumLRL/BgUUKjyV14Fob68LfYNOtCcLaUdcDN+RzKlAavduGK8ovkEilmkHQKIIB0VyWQB/TwCAYKYuuKX61pokZ0TTgkVP0H/1YyaWdWVPBQns7LnM1rqX76QJJo3pVModUb6cj/Zi/pyxJIzdHSds2STu/utbEZH3731Psp2+AwjYYPc++eKCtuFvKhrPVX67MQm7FidxvsENn/FSvCeNcCYLpQ6gDZ5ncgsPTqhjyeG8frPljwMMpGd9Z8yswKl37SMDBOVq/IX0CJVwCg6UOfwRZG8OVnHjaP8MOpkMR93r7PH2i0QjkzZvO+hn/qudeKbemqqq54t+nTkfhZeTAFVuXmFjWnxoVeSBvSlC3e8M+Id8CVBfKw==;yZttzFbEBOgZ5cZQ+CBhBQ=="
 ---

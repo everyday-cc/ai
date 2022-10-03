@@ -133,6 +133,20 @@ related:
         width: 718
         height: 399
         isCached: true
+  - title: "Meta is using AI to generate videos from just a few words"
+    excerpt: "By Rachel Metz, CNN Business Artificial intelligence is getting better and better at generating an image in response to a handful of words, with publicly available AI image generators such as DALL-E 2 and Stable Diffusion."
+    publishedDateTime: 2022-09-30T03:04:00Z
+    webUrl: "https://localnews8.com/money/cnn-social-media-technology/2022/09/29/meta-is-using-ai-to-generate-videos-from-just-a-few-words/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 39
+    images:
+      - url: "https://localnews8.b-cdn.net/2022/09/hypatia-h_03283525a8885fcfbfcb4766d4628f46-h_a463ea9a9fd8001bfba9f7fc89c66cfb-300.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "ARRq5qWh6TtIgqD4wHKvPdBCxZUotA+X1oWsd3RdhRXd/XlfhZknyw1oTyQ+/k5dqK02Fq2J/KP1ksZBLkhnN6ziz2fpLN8B4SHribMhH/1FzdE+h8f/o4tVuHFufsNRsQ1+DxUUgDRb870Y5wB0uGHv7zy1yMv3//cusWieKOsbjkL50MBTZNUN8QAUKqDykSTORMvd8DjbFpHv006fz6F6oLt9k2rElNsRLNromFuVmQCWs66t8/8LmIuTm08WUX7J7xYM5LRv+s9tYfDEjAx5rbmPjlc3nLUWJTXd9556uI2ilQCSkLYask/KpnEWnqvr+CNHNjN7xGKobc6g+M1JFwbp50rPuG+Ebj8bz3G9CVSvfJKfzpFoy9G3KMNbOGNSu7STQFbX9Vp5YBS6OQJAZYsoIjJ1S14mKoQEwxmoubE9siTaz4QjUn1ptyVCGqOXGQ7jjzIJ2EYKWvpEue3raYEoxc5g5AlCoLG6XvGJf7ZKx1QfXyAw/Xtsu8HW/LZIn608XloNyCxUyv0p9A==;iiN/O0RHeRZVRWrWsj87Gg=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-03T13:00:00Z
 originalUrl: "https://www.businessinsider.com/investor-jasper-lau-tim-hwang-vc-cold-reachout-fiscalnote-ipo-2022-9"
 webUrl: "https://www.businessinsider.com/investor-jasper-lau-tim-hwang-vc-cold-reachout-fiscalnote-ipo-2022-9"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: Business Insider

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-03T13:07:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/constructconnect-partners-with-award-winning-togal-ai-1031778845"
 webUrl: "https://markets.businessinsider.com/news/stocks/constructconnect-partners-with-award-winning-togal-ai-1031778845"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Business Insider

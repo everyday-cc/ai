@@ -2,6 +2,60 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2022-08-31-ai-startup-simaai-debuts-purpose-built-ai-chip-for-edge-computing.md",
+      "title": "AI startup SiMa.ai debuts 'purpose-built' AI chip for edge computing",
+      "excerpt": "The chip company places special emphasis on software innovations such as compiler optimization to improve performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/",
+      "originalUrl": "https://www.zdnet.com/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/880f030bba7a4480fe84f79f48a479e12de7a17e/2022/08/30/9a7626ba-c727-4205-8109-e0d5caf30154/sima-mlsoc-evaluation-board.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "width": 1200,
+          "height": 749,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/",
+      "publishedDateTime": "2022-08-30T15:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-08-31-chinook-indian-nation-members-rally-for-federal-recognition.md",
       "title": "Chinook Indian Nation members rally for federal recognition",
       "excerpt": "Federal recognition would mean access to federal dollars for healthcare and housing for this group of tribes, which are based in Southwestern Washington.",
@@ -1088,59 +1142,6 @@
         "AI",
         "AI in Security",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-merkle-launches-ethical-ai-white-paper-highlights-need-for-explainable-ai-in-marketing.md",
-      "title": "Merkle Launches Ethical AI White Paper, Highlights Need for Explainable AI in Marketing",
-      "excerpt": "Merkle Launches Ethical AI White Paper, Highlights Need for Explainable AI in Marketing Aug 30, 2022 (PRNewswire via COMTEX) -- PR Newswire COLUMBIA,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/merkle-launches-ethical-ai-white-paper-highlights-need-for-explainable-ai-in-marketing-2022-08-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/merkle-launches-ethical-ai-white-paper-highlights-need-for-explainable-ai-in-marketing-2022-08-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

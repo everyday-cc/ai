@@ -2,6 +2,48 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2022-08-22-can-artificial-intelligence-transform-the-supply-chain.md",
+      "title": "Can Artificial Intelligence transform the supply chain?",
+      "excerpt": "The logistics industry represents 12% of global GDP and is growing at a compounded annual growth rate (CAGR) of 5% per year.  Based on these estimates, global logistics spending will surge to more than $15 trillion by 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.deccanherald.com/business/technology/can-artificial-intelligence-transform-the-supply-chain-1138083.html",
+      "originalUrl": "https://www.deccanherald.com/business/technology/can-artificial-intelligence-transform-the-supply-chain-1138083.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.deccanherald.com/sites/dh/files/articleimages/2022/08/22/file7mejcv2pqmqqymn5ki5-1138083-1661117353.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.deccanherald.com/amp/business/technology/can-artificial-intelligence-transform-the-supply-chain-1138083.html",
+      "cdnAmpWebUrl": "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/business/technology/can-artificial-intelligence-transform-the-supply-chain-1138083.html",
+      "publishedDateTime": "2022-08-21T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deccan Herald",
+        "domain": "deccanherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-22-survive-layoffs-succeed-with-upskilling-through-ai.md",
       "title": "Survive layoffs, succeed with upskilling through AI",
       "excerpt": "Despite the looming recession, orgs must invest in upskilling existing employees — lest they lose talent. AI can help.",
@@ -1158,58 +1200,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-20-britain-sets-out-roadmap-for-self-driving-vehicle-usage-by-2025.md",
-      "title": "Britain sets out roadmap for self driving vehicle usage by 2025",
-      "excerpt": "Britain said on Friday it wanted a widespread rollout of self-driving vehicles on roads by 2025, announcing plans for new laws and 100 million pounds ($119.09 million) of funding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/britain-sets-out-roadmap-self-driving-vehicle-usage-by-2025-2022-08-19/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/britain-sets-out-roadmap-self-driving-vehicle-usage-by-2025-2022-08-19/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/-bD145K776yCk-35pfGOxAdMuxA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LAUS5LTOURJXXD3N5LFTSFEYMA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T15:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,40 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2022-08-24-faa-oks-reliable-robotics-certification-basis-for-autoflight.md",
+      "title": "FAA OKs Reliable Robotics’ Certification Basis For Autoflight",
+      "excerpt": "The FAA has agreed to a certification basis for Reliable Robotics’ autoflight and navigation ... that would avoid fatal crashes caused by controlled flight into terrain and loss of control. “",
+      "sourceUrl": null,
+      "webUrl": "https://aviationweek.com/aerospace/advanced-air-mobility/faa-oks-reliable-robotics-certification-basis-autoflight",
+      "originalUrl": "https://aviationweek.com/aerospace/advanced-air-mobility/faa-oks-reliable-robotics-certification-basis-autoflight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T12:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Aviation Week",
+        "domain": "aviationweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-24-mark-cuban-foundation-ai-bootcamps-application-closing-soon.md",
       "title": "Mark Cuban Foundation AI Bootcamps- Application Closing Soon!",
       "excerpt": "The Mark Cuban Foundation will host Artificial Intelligence (AI) Bootcamps for high school students in the Fall of 2022. The No Cost AI Bootcamp will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills.",
@@ -1150,49 +1184,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-industry-leader-adopts-cim-platform-as-its-enterprise-integrity-management-solution-for-global-pipeline-operations.md",
-      "title": "Industry Leader Adopts CIM Platform as its Enterprise Integrity Management Solution for Global Pipeline Operations",
-      "excerpt": "(“OneBridge”) to adopt Cognitive Integrity Management™ (“CIM”) platform and software-as-a-service products for management of its pipeline assets. Headquartered in the U.S.A., the Client is one of the global oil and gas industry leaders and conducts business in the U.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/technology-science-software-oil-and-gas-industry-c5ac845ab4efb487bfcff16249f70339",
-      "originalUrl": "https://apnews.com/press-release/accesswire/technology-science-software-oil-and-gas-industry-c5ac845ab4efb487bfcff16249f70339",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

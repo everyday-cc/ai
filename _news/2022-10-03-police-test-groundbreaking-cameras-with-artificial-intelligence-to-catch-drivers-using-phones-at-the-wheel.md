@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-03T13:37:00Z
 originalUrl: "https://www.yorkshirepost.co.uk/lifestyle/cars/police-test-new-ai-camera-that-can-catch-drivers-on-their-phone-3865329"
 webUrl: "https://www.yorkshirepost.co.uk/lifestyle/cars/police-test-new-ai-camera-that-can-catch-drivers-on-their-phone-3865329"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Yorkshire Post

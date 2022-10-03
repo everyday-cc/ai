@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon, Apple, Microsoft, Meta and Google to improve speech recognition for people with disabilities"
+    excerpt: "The University of Illinois (UIUC) has partnered with Amazon, Apple, Google, Meta, Microsoft and nonprofits on the Speech Accessibility Project.."
+    publishedDateTime: 2022-10-03T12:35:00Z
+    webUrl: "https://www.engadget.com/apple-microsoft-meta-google-nonprofits-speech-recognition-120021686.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 71
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-10/00e6bc70-42ec-11ed-9b61-c134c193b26e"
+        width: 2126
+        height: 1131
+        isCached: true
   - title: "SAS Viya Now Available on Microsoft Azure Marketplace"
     excerpt: "The full-featured platform on Microsoft Azure would equip global customers with access to essential machine learning, data exploration, and model deployment analytics"
     publishedDateTime: 2022-09-29T10:10:00Z
@@ -54,15 +68,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 66
-  - title: "SAS Viya Now Available in Microsoft Azure Marketplace"
-    excerpt: "The SAS Viya analytics platform is now available in the Microsoft Azure Marketplace with the click of a button on a"
-    publishedDateTime: 2022-09-28T19:55:00Z
-    webUrl: "https://www.datanami.com/this-just-in/sas-viya-now-available-in-microsoft-azure-marketplace/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 49
 
 secured: "zBKtgUVc2qno3HyesxX6PSUNRdXJ6nE9FsCYyGMlVFwSdE5XdvyYJMGMyZnGp2VTBgzm9PDW2sdVhICdG+AVpZ8OPYIPm2C3mx2xfXE48qvyKXMDQVzvzw8dI3aTgJAIiygqXlBEOgOg8Unx5yl/kUVYZOgISt/tvxBE6al2xz0im1cEjHCJL0EeHa16HwqHH9sJByYVVb19fNvLV4lwwPrSrXD9Ql2dfvXQi6YObUdXjYQ4I+0g0ocH+C3Gmf1Qduj8EHvk1Cr5U0osqt2yUaZoSc8JebzgwF6TnxAnL5Lw/2oReoF4DA2ViBEfJU7ZxsMOhyQXTzog91bOM4Q5JSNew/NVl16eakMQtyQ91d/QDJOLmN5mu8oFvmZHZSr8bKALok7Bp/wnu1fYC+ejHd5pIKJ+aC835uDEo9U0N5GHwfeqVylBe4wF8qiaYRgzNaP+Sf6adJ9JV1gAX1Fm9kU4MWHcPZyTCXN4yP2mJE9/Llvy8xLl4Q6Afl+ZHwcOJTWAfNlbuxQoSVBus44KjQ==;3ji3urY8Po+VifTV+JbTYQ=="
 ---

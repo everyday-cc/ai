@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision Market Size to be Worth $20.88 Billion by 2030: Grand View Research, Inc."
-    excerpt: "The global computer vision market size is expected to reach USD 20.88 billion by 2030, according to a new report by Grand View Research, Inc. The market is anticipated to expand at a CAGR of 7.0% from 2022 to 2030."
-    publishedDateTime: 2022-09-28T20:24:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/28/9681994.htm"
+  - title: "Healthcare Natural Language Processing Market is projected to reach US$ 14.6 Billion by 2032"
+    excerpt: "The healthcare natural language processing market is expected to rise at a CAGR of 16.7%, with the market valuation reaching US$ 14.6 Bn by the end of 2032. One of the key drivers and investors in the natural language processing business is large corporations."
+    publishedDateTime: 2022-09-30T14:26:00Z
+    webUrl: "https://www.fmiblog.com/2022/09/30/healthcare-natural-language-processing-market-is-projected-to-reach-us-14-6-billion-by-2032-2/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 32
-    images:
-      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-        width: 476
-        height: 210
-        isCached: true
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 25
 
 secured: "lmDxX9e64yVWdnYmhSRktQMd4E2YAmi0Ss163HxuCVVxaBYuS5pRMR00YLS5+SxJnWeJ5poc2Ig0BPHULSfmji2B3A+vkC8PQfCT1+k827zFF4tfnp9bHWiZw7Vfqt5yk70DdaNYygrMHyH0D5hYWo2G3WrcS3hqhHGirRsYw6+XyuFZlWjAWyqH1wgyFU9xWcS4SvvZegcLOmlNbEkKx3CUYMpvOn7eLpzWj2TA7P4zDL7piU1UY308QgIcXFhE07Y6qpU8W7o6VJsCroj5tmM9TMp1V9UTEDWFnQNiRgICd1UoXPhQTb44NVXA3U8l1LmVoxBNdwGFxdTo5y71cARifzXYjFF3KMYWsr9I0f0=;jfVqDBuNE7+er9GOyqaJaw=="
 ---

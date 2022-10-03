@@ -19,6 +19,22 @@ topics:
   - AI
   - AI in Healthcare
 
+related:
+  - title: "Wearable Medical Devices Market Worth USD 324.65 Billion by 2032 – Exclusive Report by FMI"
+    excerpt: "The global wearable medical devices market size is expected to reach a market valuation of US$ 27.29 Billion by 2022, accelerating with a moderate CAGR of 28.1% by 2022-2032. The wearable medical devices market is anticipated to be valued at about US$ 324."
+    publishedDateTime: 2022-10-03T10:30:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2022-10-03/wearable-medical-devices-market-worth-usd-32465-billion-by-2032-exclusive-report-by-fmi"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 14
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
+
 secured: "nKjRz4/OqKHxqllWoVfTYWkJl1zwDMqFlTChJG/TkxRYXAe48oHymL6aCXECXM2/fdmxKE/dUVgj/Ug1hnfmh/dXTg+2SFeXSLhy221nw+UEAxOSKPwjo5AzIxICdfBIQNLD7Bpvk6wP9C3q7Nz3L/fD2uXlJNGdohaCvuAoA+8QUgchqT+7wb40jbPb1YrOo38N0GlDUAMzvaTCbcorgZQg8CbcvlOILysVXKKlixSYx0tjH+e0jQpeDqV8QasTCVQj4lAtmWo4uuF7cAUThBY+twTPDsm9ra7//wMWpIHSZpBIRMYbXTO2iWSOcZ0x/4yVYHnFklDUhQi3Obr3im/fBUfMHxZanGIKWpscWBI=;NmKAJPxnfiogG3vE//p1jQ=="
 ---
 

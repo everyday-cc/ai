@@ -2,6 +2,49 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2022-09-02-commercial-operation-of-driverless-sanitation-vehicles-launched-in-south-china.md",
+      "title": "Commercial operation of driverless sanitation vehicles launched in South China",
+      "excerpt": "[Photo provided to China Daily] GUANGZHOU -- Chinese self-driving startup WeRide launched the commercial operation of driverless sanitation vehicles on open roads in the southern metropolis of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202209/02/WS63116047a310fd2b29e75974.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202209/02/WS63116047a310fd2b29e75974.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202209/02/63116047a310fd2bec9f6e89.jpeg",
+          "width": 702,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-02T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-02-liquidnet-emea-business-development-head-departs-for-ai-fintech-imandra.md",
       "title": "Liquidnet EMEA business development head departs for AI fintech Imandra",
       "excerpt": "Liquidnet’s former head of business development for EMEA has left the firm to join artificial intelligence (AI) fintech Imandra in a similar role, The TRADE can reveal. Dan Squires has been appointed as a vice president of sales at Imandra after spending ...",
@@ -1070,57 +1113,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-olive-diagnostics-launches-ai-powered-urinalysis-device-so-you-dont-have-to-pee-in-a-cup.md",
-      "title": "Olive Diagnostics launches AI-powered urinalysis device so you don’t have to pee in a cup",
-      "excerpt": "But Israeli medical device startup Olive Diagnostics has come up with a way to use artificial intelligence to analyze what’s in your toilet bowl — so you don’t have to pee in a cup. The Jerusalem-based company uses an optical sensor and AI-powered device to perform 100% passive real-time urine analysis.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/olive-diagnostics-launches-ai-powered-urinalysis-device-so-you-dont-have-to-pee-in-a-cup/",
-      "originalUrl": "https://venturebeat.com/ai/olive-diagnostics-launches-ai-powered-urinalysis-device-so-you-dont-have-to-pee-in-a-cup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/Olive-KG-AI-powered-urine-analysis-technology-1.-Credit-Olive-Diagnostics.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/olive-diagnostics-launches-ai-powered-urinalysis-device-so-you-dont-have-to-pee-in-a-cup/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/olive-diagnostics-launches-ai-powered-urinalysis-device-so-you-dont-have-to-pee-in-a-cup/amp/",
-      "publishedDateTime": "2022-09-01T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

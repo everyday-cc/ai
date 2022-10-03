@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-03T12:10:00Z
 originalUrl: "https://www.technologyreview.com/2022/10/03/1060554/download-europe-ai-crackdown-iran-internet-resistance/"
 webUrl: "https://www.technologyreview.com/2022/10/03/1060554/download-europe-ai-crackdown-iran-internet-resistance/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: MIT Technology Review

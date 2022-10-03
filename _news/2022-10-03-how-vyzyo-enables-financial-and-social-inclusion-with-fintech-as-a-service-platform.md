@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-03T12:40:00Z
 originalUrl: "https://venturebeat.com/programming-development/how-vyzyo-enables-financial-and-social-inclusion-with-fintech-as-a-service-platform/"
 webUrl: "https://venturebeat.com/programming-development/how-vyzyo-enables-financial-and-social-inclusion-with-fintech-as-a-service-platform/"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: VentureBeat

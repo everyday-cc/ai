@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-03T13:20:00Z
 originalUrl: "https://venturebeat.com/ai/how-enterprises-can-get-from-siloed-data-to-machine-learning-innovation/"
 webUrl: "https://venturebeat.com/ai/how-enterprises-can-get-from-siloed-data-to-machine-learning-innovation/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat

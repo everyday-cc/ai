@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/fever-detector-ai-therma
 webUrl: "https://www.marketwatch.com/press-release/fever-detector-ai-thermal-camera-market-size-sales-cagr-and-competition-data-from-2022-to-2028-2022-09-28"
 type: article
 quality: 71
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -113,6 +113,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Lidar for Self-Driving Car Market Outlook and Forecast 2022 To 2028 with Top Countries Data"
+    excerpt: "Lidar for Self-Driving Car Market Research Report is spread across 97 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
+    publishedDateTime: 2022-10-03T06:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/lidar-for-self-driving-car-market-outlook-and-forecast-2022-to-2028-with-top-countries-data-2022-10-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
 
 secured: "ducfb30qN6ujtSUOALnR4e111nSmy0O1Ue1VgqmpPtCmMdoUt72NutqjaXZl4lWDNSW+0uBwwyuU9vTI8ZBzruB2OVxwKewIODYNboiYs9z7sn1qTRopMiJ9g5CQKrMAgxD8vgf+KWY6pQ8HQg5LdGbDYAIRLe6NPNaLsr677YDJLpMaG+j6YMyTMS+M1Yo8ELQ1Sj1fH7XiT/rTUdbwOLHz8eAWR70VB/pluoATIvMvO9NObnGxTL09tIFl5DPMe8nCzpPmasbYoQOgJoVk5XLQA0XM/EMBg4gzqkATddfgzbdgMxPxHjwAPZFWOFBEBUAWkoyJ5NqFPf9SprnXAXq+M5EmFS50nFXIYFE19yY=;Up5h6V7wTpBKqyhtlUXBhA=="
 ---

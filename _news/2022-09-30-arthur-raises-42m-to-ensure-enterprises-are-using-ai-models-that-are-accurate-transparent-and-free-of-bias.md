@@ -50,20 +50,15 @@ related:
         width: 1200
         height: 665
         isCached: true
-  - title: "AION Labs launches AI startup to improve drug trials"
-    excerpt: "AION Labs has formed OMEC.AI, the lab’s first startup approved by the Israel Innovation Authority. The new company will develop AI-powered solutions to analyze pre-clinical data and identify gaps in efficacy and safety to improve the probability of success of drug candidates in clinical trials."
-    publishedDateTime: 2022-09-28T19:57:00Z
-    webUrl: "https://www.labiotech.eu/trends-news/aion-labs-launches-ai-startup-improve-drug-trials/"
+  - title: "Keys to Implementing AI in Drug Discovery"
+    excerpt: "Implementing artificial intelligence and machine learning tools in drug discovery requires reasonable expectations, clean data, and collaboration."
+    publishedDateTime: 2022-10-03T12:00:00Z
+    webUrl: "https://www.genengnews.com/artificial-intelligence/keys-to-implementing-ai-in-drug-discovery/"
     type: article
     provider:
-      name: labiotech
-      domain: labiotech.eu
-    quality: 37
-    images:
-      - url: "https://www.labiotech.eu/wp-content/uploads/2022/06/shutterstock-artificial-intelligence-.jpg"
-        width: 1024
-        height: 683
-        isCached: true
+      name: GEN
+      domain: genengnews.com
+    quality: 17
 
 secured: "/m0EfAhOSiBW8fii/XZWwUpmRCJaNLPsd23m7cFTM7nBCppQHY9s21o1fGvhER4TOVPpL9SPQwCcHEytY5lF5dAJlBiXM2vgs5fxPp4Li0Cv8OCgKk5BuiAAcoQv8ZfWdkpCoExN9oz2IukhR9NKUqUezHQfnzm9pduRbp15WxqIsxdSf/dzVYZZexESci4ykB2GjSdwBMPzoPGy/VfZAXeWy6WoOsA8nr5zPfmKyxwRavWbhIHOQcIo6Id5kE4MaGmUb74Z5K8fsXpM1LLas9OCskW32piQdEZguB/Ah64q9v5ATv/UPJnoTLeMq86FpwZTlJaVgW6VaT3etquk3fKqhXtSYOqixO+aFNoTsGQJGcjipl1rlLbcxmbrElXOscJ/RIAkcmoFE6v1oPNzQUtC8IP0Z7of0Ci2qvbjLV5OfLhD35w/ChUNGl3cV2XbxZOxvJ4hq0dwAXBDCowUIHTj8yXpX3Msa/x+u70RnjfU1kwpzS1AIDYy7S7rNYBTLsnAl7PhwFiT4VZUH6CA6g==;UUYwEvkH6P06gUS+Ev4s8A=="
 ---

@@ -2,6 +2,59 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2022-09-01-us-export-ban-on-some-advanced-ai-chips-to-hit-china-tech-majors.md",
+      "title": "U.S. export ban on some advanced AI chips to hit China tech majors",
+      "excerpt": "A U.S. order to ban exports of some advanced chips to China is likely to hit almost any major tech company running public clouds or advanced artificial intelligence training modules in the country, experts said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/us-export-ban-some-advanced-ai-chips-hit-almost-all-china-tech-majors-analysts-2022-09-01/",
+      "originalUrl": "https://www.reuters.com/technology/us-export-ban-some-advanced-ai-chips-hit-almost-all-china-tech-majors-analysts-2022-09-01/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/-52JtMZ5ltCjOvdIznDRdpNeJUU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5ULYQLPGWJKG3E22NO3SWMBKWA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-voting-open-who-should-be-the-2022-most-influential-woman-in-uk-tech.md",
       "title": "Voting open: Who should be the 2022 Most Influential Woman in UK Tech?",
       "excerpt": "Each year, we ask our audience who should be named the most influential woman in UK technology. Tell us what you think.",
@@ -1069,40 +1122,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-tech-whistleblowers-prefer-loud-exit-to-quiet-quitting.md",
-      "title": "Tech Whistleblowers Prefer Loud Exit To Quiet Quitting",
-      "excerpt": "The penchant for tech whistleblowers to quit their jobs with a bang while many of their colleagues engage in “quiet quitting” should be a wake-up call to industry leaders, according to a blog penned by four Forrester analysts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technewsworld.com/story/tech-whistleblowers-prefer-loud-exit-to-quiet-quitting-177039.html",
-      "originalUrl": "https://www.technewsworld.com/story/tech-whistleblowers-prefer-loud-exit-to-quiet-quitting-177039.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNewsWorld",
-        "domain": "technewsworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/watch-a-cassie-bipedal-robot-run-10
 webUrl: "https://www.therobotreport.com/watch-a-cassie-bipedal-robot-run-100-meters/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Oregon State's bipedal robot, Cassie, sets Guinness World Record in 100-meter dash"
-    excerpt: "A bipedal robot named Cassie just set an official Guinness World Record by running 100 meters in 24.73 seconds. With knees that bend like an ostrich's, Cassie is the first bipedal robot to use machine learning to control a running stride on outdoor terrain."
-    publishedDateTime: 2022-09-28T21:29:00Z
-    webUrl: "https://www.cbssports.com/general/news/oregon-states-bipedal-robot-cassie-sets-guinness-world-record-in-100-meter-dash/"
-    ampWebUrl: "https://www.cbssports.com/general/news/oregon-states-bipedal-robot-cassie-sets-guinness-world-record-in-100-meter-dash/amp/"
-    cdnAmpWebUrl: "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/general/news/oregon-states-bipedal-robot-cassie-sets-guinness-world-record-in-100-meter-dash/amp/"
-    type: article
-    provider:
-      name: CBSSports.com
-      domain: cbssports.com
-    quality: 53
-    images:
-      - url: "https://sportshub.cbsistatic.com/i/r/2022/09/28/f1b73e30-0853-4cee-af52-c10150c5d7a8/thumbnail/640x360/d7fdd2e2afb10bf62f6ad1d424043e33/cassie-100m-1.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Cassie, the bipedal robot now has a world record for 100m dash"
     excerpt: "Cassie learned to run and this year, she has broken world records in sprinting. The future of bipedal robots is approaching fast."
     publishedDateTime: 2022-09-29T09:36:00Z

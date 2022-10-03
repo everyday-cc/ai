@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/metas-new-make-a-video-signals-the-next-g
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -136,6 +136,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/meta.png"
         width: 718
         height: 399
+        isCached: true
+  - title: "Meta is using AI to generate videos from just a few words"
+    excerpt: "By Rachel Metz, CNN Business Artificial intelligence is getting better and better at generating an image in response to a handful of words, with publicly available AI image generators such as DALL-E 2 and Stable Diffusion."
+    publishedDateTime: 2022-09-30T03:04:00Z
+    webUrl: "https://localnews8.com/money/cnn-social-media-technology/2022/09/29/meta-is-using-ai-to-generate-videos-from-just-a-few-words/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 39
+    images:
+      - url: "https://localnews8.b-cdn.net/2022/09/hypatia-h_03283525a8885fcfbfcb4766d4628f46-h_a463ea9a9fd8001bfba9f7fc89c66cfb-300.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "PpnKSWO5y0fVkwdYe5ektgNXUF0uhuXl24/rePR7ZEf2NSTdv17mdqHWt3wzzgYRSvQvWwnSyPIEpRnJA2YmAYLY70l0TVJ53tDyWBMSpiL9PyWIeL9Hv31xGo0L+Hbgst+hLLgXrBw/wu8tyZE/tyFCURNdJTW/BPnqfajhCvUN89RwzttMeWyCUDEDnpOIHQTvMVaaGqE1ChtAb4a7XEIMUQCtYuw7WA9AS7DdFVzIzLI5g9wJPVhGMvaLQYZinyOMYnBkf16xUQkijiCcHNmpYhW1EtPkfdeHYEHwCPaUBsbyw//NaEW2MGp+jnwoTq4fwKJKy66c88Vd2NsYXQzfUjHavCRRXoroqUhGOsgJKu7dts8dISYPX25gLlgJFUHYHOCaj5XxoTMSaStIKbDNXfHH+sl9VAt4qAqapCyXi3uHzD2bnLVvCFIczafxZBJhsHVv38huICZJgU7IjOU+yXDsI8y+k1gN+cBHWtKG42agcjXzd1pC+aA8c8GCntwlXhD8lUiKtLtzuq2PkQ==;1kx6RdlEm08DHBdkmyCgDA=="

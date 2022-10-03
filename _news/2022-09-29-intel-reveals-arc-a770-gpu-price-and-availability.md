@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digit.in/article/amp/pc-components/65431/intel-reveals-a
 cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/pc-components/65431/intel-reveals-arc-a770-gpu-price-and-availability"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "An Alluring Alchemist: Intel Arc A380 GPU Creator Performance Review"
-    excerpt: "Ahead of the launch of the upcoming Intel Arc flagship, A770, we wanted to kick off our Arc creator coverage with an in-depth performance look at a wide-range of real-world scenarios - from encoding to rendering to photogrammetry."
-    publishedDateTime: 2022-09-28T19:33:00Z
-    webUrl: "https://techgage.com/article/an-alluring-alchemist-intel-arc-a380-gpu-creator-performance-review/"
-    type: article
-    provider:
-      name: Techgage
-      domain: techgage.com
-    quality: 19
 
 secured: "BzakP+LDzfaKeiSf7A8ATbEfkLEXsLvL/P5jkHQZ2qHTAwD58eXyLJSTtj4BTuoCEFdxp7n86NFJbrAH2q5x8B60yLRfeuot3rkhgjKv+Wy86XF5RXbRjjrtZCC405Jl4+J1r5Edo/DgR7cY2wlB03Nd2CDl59TqhSnChxAl46PyT2erdeKqnzFwY43lvZNY7GOMz9/LZTGVfgDk1z0wTihd4yFzeykcH1pSjotJ4ePUDCopVJI9wbcg7ek/5bfxSrW7CjtcgXi0BahUWBpENW5ZOofTI51t0AYf/buINVmu3NwtKzNnKBBMVptlGMa3xIgSajGjw+zXtqX/X1vklHk1UORq9aVl+GVpYgCH+kN/eOBIifA/66i2QPbg7/KjnQ6vAN52nYCm1XgJAvm+HVOBjfZSuxFBGg/G7SPi8D0XwIr/SGdgJGCTFnzMsKg+HI46NS7DO3bsLK4/DW90/bWqHBKIRS4ihW0Ppbba+tuyjyY7tOpvq9CeCW3E7+p/DA8zolG5dkGQlQUfKMG1Ng==;Gu2TcTs6UsC9w0RtPkfBQA=="
 ---
