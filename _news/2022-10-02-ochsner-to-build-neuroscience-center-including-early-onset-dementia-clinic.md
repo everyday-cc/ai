@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-02T09:02:00Z
 originalUrl: "https://www.nola.com/news/healthcare_hospitals/article_dde3ff32-3f65-11ed-a1b7-37947b6d7967.html"
 webUrl: "https://www.nola.com/news/healthcare_hospitals/article_dde3ff32-3f65-11ed-a1b7-37947b6d7967.html"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: NOLA.com

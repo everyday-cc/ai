@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-06-24-robots-and-artificial-intelligence.md",
+      "title": "Robots and Artificial Intelligence",
+      "excerpt": "Why DoD’s New Approach to Data and Artificial Intelligence Should Enhance National Defense The DoD’s updated efforts on artificial intelligence (AI) are requiring some disruptive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cfr.org/robots-and-artificial-intelligence",
+      "originalUrl": "https://www.cfr.org/robots-and-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cfr.org//themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cfr.org",
+        "domain": "cfr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-amazon-robots-will-join-its-warehouse-workforce.md",
       "title": "Amazon Robots Will Join Its Warehouse Workforce",
       "excerpt": "While Amazon's Astro started hauling drinks from room to room in some homes this year, two new working robots will start hauling and sorting boxes at the company's warehouses in 2023. O, Amazon gave a first look at Proteus and Cardinal,",
@@ -1298,49 +1341,6 @@
       "provider": {
         "name": "Elektronik Net",
         "domain": "elektroniknet.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-spider-or-crab-the-worlds-tiniest-remote-controlled-robot-is-here-see-pics.md",
-      "title": "Spider or crab? The world's tiniest remote-controlled robot is here. See pics",
-      "excerpt": "Although at a first glance it could be misconstrued as a spider or a tiny crab, what engineers at US's Northwestern University built was a half millimeter-wide remote-controlled robot. The tiny ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/trends/spider-or-crab-the-worlds-tiniest-remote-controlled-robot-is-here-8689791.html",
-      "originalUrl": "https://www.moneycontrol.com/news/trends/spider-or-crab-the-worlds-tiniest-remote-controlled-robot-is-here-8689791.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2022/06/My-project-42.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/trends/spider-or-crab-the-worlds-tiniest-remote-controlled-robot-is-here-8689791.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/spider-or-crab-the-worlds-tiniest-remote-controlled-robot-is-here-8689791.html/amp",
-      "publishedDateTime": "2022-06-15T02:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-s
 cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/"
 type: article
 quality: 78
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
       name: NBC New York
       domain: nbcnewyork.com
     quality: 50
+  - title: "Tesla robot walks, waves, but doesn't show off complex tasks"
+    excerpt: "But the basic tasks by the robot with exposed wires and electronics — as well as a later, next-generation version that had to be carried onstage by three men — was a long way from CEO Elon Musk's vision of a human-like robot that can change the world."
+    publishedDateTime: 2022-10-03T19:38:00Z
+    webUrl: "https://www.statesman.com/story/business/technology/2022/10/03/tesla-optimus-robot-walks-waves-doesnt-show-off-complex-tasks/69536356007/"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 36
 
 secured: "niXxagtZGR8/b1UBgp3sWoNNnBrnVxSF65u7VXmNm3oZejICksLLBpYVlIqVEnyqeecTLKH1/96WoAjn7niV7rsOr+VrV1TsXtZmB7bv8pX6UXlj/KSMASXkS2aQzb6+4tXN0VWAxZPNBEKvNdzmSVlP95CdIPwiAoGuEdaXOKaOLQW8VB2iDXymeg/HPhYBoagiiEkL5JUFUv5bm6pcEKFCmpg3h0nNmi4wWFOxVkrUhgu3hZAJg845ML8v0pzIAfHw7eiV70f81Sz7syaGWUMFOqCe/86ksjJIEAFwBcea30migYWS7nrnx4JmVJLCL0jNTMSfnmXY9JFAyPyaLQvc9yxYLf66c6NOgJLl/Fz7YDxGZAU6YRRQLood48nTLSnPm6pCqFYTzNZ6CHa1OQAsQERbpF1FIz5aY/BkYY3+hVG5obOLUDlbsQJWSoU1HYjsSLPEV2OvOVRCsqkHLPL2xoMxdIRr4Br5EG/isj5dwViH5Ir0FtCft+YkBo3jxA7TKHjlpNn8yQmqNxFBRA==;PziWfb/mJHmBG2ASeirdYA=="
 ---

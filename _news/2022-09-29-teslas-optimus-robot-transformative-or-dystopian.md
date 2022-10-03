@@ -737,13 +737,13 @@ related:
       domain: forbes.com
     quality: 55
   - title: "Musk Watch: Delaware court releases Elon's texts, Tesla debuts creepy robot"
-    excerpt: "Musk hasn't tweeted about the document yet, perhaps because he's embarrassed. Hell, I'd turn crimson if a stranger found my phone and scrolled through my messages, even if most of them are recipes from my wife."
-    publishedDateTime: 2022-10-03T17:35:00Z
-    webUrl: "https://www.mysanantonio.com/news/local/article/elon-musk-texts-tesla-robot-17483260.php"
+    excerpt: "Welcome to Musk Watch, where we examine what Texas' richest (and perhaps most divisive) citizen is up to this week. Forty pages of Elon Musk's texts became publicly available last week as part of the discovery process in his ongoing legal battle with Twitter,"
+    publishedDateTime: 2022-10-03T21:35:00Z
+    webUrl: "https://www.chron.com/news/local/article/elon-musk-texts-tesla-robot-17483260.php"
     type: article
     provider:
-      name: San Antonio Express-News
-      domain: mysanantonio.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 54
     images:
       - url: "https://s.hdnux.com/photos/01/27/60/01/23003238/3/rawImage.jpg"
@@ -759,6 +759,15 @@ related:
       name: The Drive
       domain: thedrive.com
     quality: 53
+  - title: "Tesla analyst explains ‘the real value’ behind Elon Musk’s Optimus robot"
+    excerpt: "Tesla robots have taken center stage, but the real value could be for the EV maker's autopilot software, one analyst argues."
+    publishedDateTime: 2022-10-03T18:29:00Z
+    webUrl: "https://www.aol.com/finance/tesla-analyst-explains-real-value-182943007.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 50
   - title: "Elon Musk Unveils Prototype of Humanoid Robot Optimus, Says It Will Cost Less Than a Car"
     excerpt: "The prototype, which the CEO showed off at a company’s AI event Friday, is part of his effort to shape public perception of the company as more than just a car maker."
     publishedDateTime: 2022-10-01T04:32:00Z
@@ -804,6 +813,15 @@ related:
       name: The Sun
       domain: thesun.co.uk
     quality: 28
+  - title: "Tesla’s Optimus robot isn’t very impressive – but it may be a sign of better things to come"
+    excerpt: "Humanoid robots could be useful in all kinds of situations, but the one Elon Musk unveiled last week is far from being ready to roll out."
+    publishedDateTime: 2022-10-03T19:03:00Z
+    webUrl: "https://theconversation.com/teslas-optimus-robot-isnt-very-impressive-but-it-may-be-a-sign-of-better-things-to-come-191761"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 26
 
 secured: "Ks3cQmZtxPPNIay75PkGdiaNZfuWhXGkNh2yntuwjN3V/QH/9lrAhYXDdgh1NRuy15im2e2ojUN3X5sEAA8BiSK6Lgys/Ol5NoTdgJYSCLZOR9/1K6v9CGe02LAANrvBKltcQrAHE6+J2u7yAvYxxyLOAhrqIqPhOCMapTfj9rRsOpQe1n5pUUsHh6/iXb3Rm4BM/DU1Oqz0MPsBdESV8WGMhEvd+aaQRpmLmm2S+jFLie3ZMQ7QYbMCuV7m2xDbNehy7QpuZBQ3F9U/p2KF8iXOQoNjyyTJbUnfZeHoDV+G1wCkVf/gzqtocphb04+mWIX2XFFsUUVCTzHrMwnS5+c9OWUoadm6RAuUPzKPLCqr1zKTyvEPRy1iqH7+r3IxSdYL2s8sMpaa5CyWsfnRn+ZbUMXb5lmMDbhxFDF8LLJb0Pugvy9SLScU7JVidkHdjty94d6qD/Pgbgj8v7r+PPAnLAy08AIYrCg9JB0qjiXvxXLtys0yxREIhLsG+WYLtMHkg364HZQgoctz7/qiHg==;OSPV2036AKSassRx+6oDcw=="
 ---

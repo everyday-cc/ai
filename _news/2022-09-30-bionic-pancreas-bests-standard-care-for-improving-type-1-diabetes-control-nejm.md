@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-30T06:15:00Z
 originalUrl: "https://medicaldialogues.in/diabetes-endocrinology/news/bionic-pancreas-bests-standard-care-for-improving-type-1-diabetes-control-nejm-99893"
 webUrl: "https://medicaldialogues.in/diabetes-endocrinology/news/bionic-pancreas-bests-standard-care-for-improving-type-1-diabetes-control-nejm-99893"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Daily

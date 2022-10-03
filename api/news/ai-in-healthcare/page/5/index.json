@@ -2,6 +2,169 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-03-global-artificial-intelligence-in-healthcare-market-demand-analysis-opportunity-outlook-2027.md",
+      "title": "Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027",
+      "excerpt": "Aug 03, 2022 (AmericaNewsHour) -- Recent report published by research nester titled \"Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027\" delivers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-market-demand-analysis-opportunity-outlook-2027-2022-08-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-market-demand-analysis-opportunity-outlook-2027-2022-08-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-rhino-health-joins-alliance-for-artificial-intelligence-in-healthcare.md",
+      "title": "Rhino Health Joins Alliance for Artificial Intelligence in Healthcare",
+      "excerpt": "About the Alliance for Artificial Intelligence in Healthcare (AAIH) The AAIH is a coalition of technology developers, pharmaceutical companies, and research organizations with the shared goal of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56707350-rhino-health-joins-alliance-for-artificial-intelligence-in-healthcare-200.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56707350-rhino-health-joins-alliance-for-artificial-intelligence-in-healthcare-200.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-rhino-health-joins-alliance-for-artificial-intelligence-in-healthcare.md",
+      "title": "Rhino Health Joins Alliance for Artificial Intelligence in Healthcare",
+      "excerpt": "For AI to have strong, equitable, replicable, and continuously improving performance in healthcare, access to data is key,” said Ittai Dayan, MD, co-founder and CEO of Rhino Health. “Federated data management,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/accesswire/technology-health-patient-privacy-artificial-intelligence-22f99d64ecd48d6a95017845cbf4f778",
+      "originalUrl": "https://apnews.com/press-release/accesswire/technology-health-patient-privacy-artificial-intelligence-22f99d64ecd48d6a95017845cbf4f778",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-artificial-intelligence-is-the-future-of-the-banking-industry-are-you-prepared-for-it.md",
+      "title": "Artificial Intelligence is the Future of the Banking Industry — Are You Prepared for It?",
+      "excerpt": "Despite billions of dollars spent on technology initiatives each year, few banks have done a successful company-wide AI implementation due to certain challenges. Pritham highlights areas of banking that have been impacted by AI and provides strategies that the industry’s director-level leaders can use to continue to implement AI.",
+      "sourceUrl": null,
+      "webUrl": "https://internationalbanker.com/technology/artificial-intelligence-is-the-future-of-the-banking-industry-are-you-prepared-for-it/",
+      "originalUrl": "https://internationalbanker.com/technology/artificial-intelligence-is-the-future-of-the-banking-industry-are-you-prepared-for-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Banker",
+        "domain": "internationalbanker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-how-is-the-healthcare-sector-inclining-toward-artificial-intelligence-worldwide.md",
       "title": "How is the healthcare sector inclining toward artificial intelligence worldwide?",
       "excerpt": "As awareness about artificial intelligence and its potential is spreading, so is the faith of various industries in its capabilities of improving production and quality of life. Artificial ...",
@@ -1237,181 +1400,6 @@
         "AI",
         "Facebook AI",
         "IBM AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-hyfe-joins-forces-with-merck-to-deploy-its-artificial-intelligence-powered-cough-detection-and-counting-technology.md",
-      "title": "Hyfe Joins Forces with Merck to Deploy Its Artificial Intelligence-Powered Cough Detection and Counting Technology",
-      "excerpt": "Hyfe, Inc., the global leader in AI-powered cough detection, tracking and classification, has entered into an agreement with Merck, known as MSD outside the United States and Canada, to integrate its artificial intelligence-powered (AI) cough tracker technology into Merck’s consumer disease educational efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-united-states-artificial-intelligence-e6f89d9e8e464b0385a9bd3858264d44",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-united-states-artificial-intelligence-e6f89d9e8e464b0385a9bd3858264d44",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-care-is-increasingly-moving-outside-the-hospital-retail-healthcare-will-make-it-a-new-reality.md",
-      "title": "‘Care is increasingly moving outside the hospital, retail healthcare will make it a new reality’",
-      "excerpt": "In healthcare, the health-tech industry is gaining traction and has emerged as the leader in terms of growth. The health-tech market has been driven p..",
-      "sourceUrl": null,
-      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/care-is-increasingly-moving-outside-the-hospital-retail-healthcare-will-make-it-a-new-reality/92981804",
-      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/care-is-increasingly-moving-outside-the-hospital-retail-healthcare-will-make-it-a-new-reality/92981804",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-92981804,imgsize-22320,width-1200,height-628,overlay-ethealthworld/care-is-increasingly-moving-outside-the-hospital-retail-healthcare-will-make-it-a-new-reality.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/care-is-increasingly-moving-outside-the-hospital-retail-healthcare-will-make-it-a-new-reality/92981804",
-      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/care-is-increasingly-moving-outside-the-hospital-retail-healthcare-will-make-it-a-new-reality/92981804",
-      "publishedDateTime": "2022-07-19T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-the-future-of-artificial-intelligence.md",
-      "title": "The Future of Artificial Intelligence",
-      "excerpt": "Even apart from the enduring dream of human-like intelligence, the future of AI is expected to play a deeply significant role in consumer and business markets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/enterprise-apps/artificial-intelligence-future/",
-      "originalUrl": "https://www.eweek.com/enterprise-apps/artificial-intelligence-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/InRule-display-3.jpg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-how-cornerstone-ai-is-making-data-right-for-healthcare-industry.md",
-      "title": "How Cornerstone AI is making data ‘right’ for healthcare industry",
-      "excerpt": "California-based Cornerstone AI has raised $5 million seed funding to solve the data quality problem for the healthcare industry.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/18/how-cornerstone-ai-is-making-data-right-for-healthcare-industry/",
-      "originalUrl": "https://venturebeat.com/2022/07/18/how-cornerstone-ai-is-making-data-right-for-healthcare-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "AI in Healthcare"
       ]
     }

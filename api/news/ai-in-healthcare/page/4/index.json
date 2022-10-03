@@ -2,6 +2,209 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-15-ai-is-used-in-diagnostic-robotics-to-improve-patient-care.md",
+      "title": "AI is used in diagnostic robotics to improve patient care",
+      "excerpt": "What’s more, in this instance, the AI was taught using data from 65 million de-identified medical records. “We observe how individuals appear before the issues,” said Kira Radinsky, CEO and co-founder of Diagnostic Robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://bestgamingpro.com/ai-is-used-in-diagnostic-robotics-to-improve-patient-care/",
+      "originalUrl": "https://bestgamingpro.com/ai-is-used-in-diagnostic-robotics-to-improve-patient-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bestgamingpro.com/wp-content/uploads/2022/08/Diagnostic-Robotics-puts-AI-to-work-in-preventative-care.png",
+          "width": 600,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-15T03:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bestgamingpro",
+        "domain": "bestgamingpro.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-13-identity-crisis-artificial-intelligence-and-the-flawed-logic-of-mind-uploading.md",
+      "title": "Identity crisis: Artificial intelligence and the flawed logic of ‘mind uploading’",
+      "excerpt": "It is theoretically feasible that through 'mind uploading,' simulated minds could coexist inside a rich simulation of physical reality.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/virtual/identity-crisis-artificial-intelligence-and-the-flawed-logic-of-mind-uploading/",
+      "originalUrl": "https://venturebeat.com/virtual/identity-crisis-artificial-intelligence-and-the-flawed-logic-of-mind-uploading/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/MindUploading-2000x1000-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/virtual/identity-crisis-artificial-intelligence-and-the-flawed-logic-of-mind-uploading/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/virtual/identity-crisis-artificial-intelligence-and-the-flawed-logic-of-mind-uploading/amp/",
+      "publishedDateTime": "2022-08-13T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-12-computer-vision-in-healthcare-market-size-revenue-key-players-latest-trends-and-forecast-2028.md",
+      "title": "Computer Vision in Healthcare Market Size, Revenue, Key Players, Latest Trends, and Forecast 2028",
+      "excerpt": "The Global Computer Vision in Healthcare Market is forecasted to register a CAGR of over 47.2% during the forecast",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-size-revenue-key-players-latest-trends-and-forecast-2028-2022-08-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-size-revenue-key-players-latest-trends-and-forecast-2028-2022-08-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-12T03:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-12-degrees-of-the-future-2022-artificial-intelligence.md",
+      "title": "Degrees of the Future 2022: Artificial Intelligence",
+      "excerpt": "The Degrees of the Future 2022 top Artificial Intelligence programs are: How did Gizmodo determine this year’s honorees? Check out the methodology or return to the full Degrees of the Future 2022 list.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/artificial-intelligence-college-program-degree-1849354946",
+      "originalUrl": "https://gizmodo.com/artificial-intelligence-college-program-degree-1849354946",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dc30f627e6d8c6a9a28ee89504a69ebe.jpg",
+          "width": 800,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/artificial-intelligence-college-program-degree-1849354946/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/artificial-intelligence-college-program-degree-1849354946/amp",
+      "publishedDateTime": "2022-08-11T15:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-08-12-how-artificial-intelligence-could-lower-nuclear-energy-costs.md",
       "title": "How artificial intelligence could lower nuclear energy costs",
       "excerpt": "Nuclear power plants provide large amounts of electricity without releasing planet-warming pollution. But the expense of running these plants has made it difficult for them to stay open. If nuclear is to play a role in the U.",
@@ -1182,169 +1385,6 @@
         "AI",
         "Machine Learning",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-global-artificial-intelligence-in-healthcare-market-demand-analysis-opportunity-outlook-2027.md",
-      "title": "Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027",
-      "excerpt": "Aug 03, 2022 (AmericaNewsHour) -- Recent report published by research nester titled \"Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027\" delivers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-market-demand-analysis-opportunity-outlook-2027-2022-08-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-market-demand-analysis-opportunity-outlook-2027-2022-08-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-rhino-health-joins-alliance-for-artificial-intelligence-in-healthcare.md",
-      "title": "Rhino Health Joins Alliance for Artificial Intelligence in Healthcare",
-      "excerpt": "About the Alliance for Artificial Intelligence in Healthcare (AAIH) The AAIH is a coalition of technology developers, pharmaceutical companies, and research organizations with the shared goal of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56707350-rhino-health-joins-alliance-for-artificial-intelligence-in-healthcare-200.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56707350-rhino-health-joins-alliance-for-artificial-intelligence-in-healthcare-200.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-rhino-health-joins-alliance-for-artificial-intelligence-in-healthcare.md",
-      "title": "Rhino Health Joins Alliance for Artificial Intelligence in Healthcare",
-      "excerpt": "For AI to have strong, equitable, replicable, and continuously improving performance in healthcare, access to data is key,” said Ittai Dayan, MD, co-founder and CEO of Rhino Health. “Federated data management,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/technology-health-patient-privacy-artificial-intelligence-22f99d64ecd48d6a95017845cbf4f778",
-      "originalUrl": "https://apnews.com/press-release/accesswire/technology-health-patient-privacy-artificial-intelligence-22f99d64ecd48d6a95017845cbf4f778",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-artificial-intelligence-is-the-future-of-the-banking-industry-are-you-prepared-for-it.md",
-      "title": "Artificial Intelligence is the Future of the Banking Industry — Are You Prepared for It?",
-      "excerpt": "Despite billions of dollars spent on technology initiatives each year, few banks have done a successful company-wide AI implementation due to certain challenges. Pritham highlights areas of banking that have been impacted by AI and provides strategies that the industry’s director-level leaders can use to continue to implement AI.",
-      "sourceUrl": null,
-      "webUrl": "https://internationalbanker.com/technology/artificial-intelligence-is-the-future-of-the-banking-industry-are-you-prepared-for-it/",
-      "originalUrl": "https://internationalbanker.com/technology/artificial-intelligence-is-the-future-of-the-banking-industry-are-you-prepared-for-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Banker",
-        "domain": "internationalbanker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

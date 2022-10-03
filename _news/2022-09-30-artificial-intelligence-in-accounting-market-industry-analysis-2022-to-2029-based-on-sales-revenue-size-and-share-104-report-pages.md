@@ -73,6 +73,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision Market : Competitive Landscape and Analysis by Recent Trends 2022 to 2029 | 99 Report Pages"
+    excerpt: "According to this latest study, In 2022 the growth of Computer Vision Market is projected to reach Multimillion USD"
+    publishedDateTime: 2022-09-30T00:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-competitive-landscape-and-analysis-by-recent-trends-2022-to-2029-99-report-pages-2022-09-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Thermometer with Face Recognition Market 2022 Key Product Segments, Application Analysis, and Industry Growth Forecast by 2028"
+    excerpt: "Thermometer with Face Recognition Market Research Report is spread across 105 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
+    publishedDateTime: 2022-09-30T04:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/thermometer-with-face-recognition-market-2022-key-product-segments-application-analysis-and-industry-growth-forecast-by-2028-2022-09-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "dOEthgONf6JL6Z+r14U9/1HzDCrUudFVmiusHRxsOLbZr0LWR8Ufc66pIHO0P0FTvHMfQnD9S4ZG0tEhfG9OfQkef0wAbAobDBCIkLlVSAfjmzO4P0rR3sHW/Y5LtjZUpiTUoXJenvUqKhERla3mT3Rmo0zZO0eMU0afJGyPmxINqun8/ndxr3OV6wuwEXNbT1bVxPT1P5BuZSuuS0MWl21xM0pRmGJ/d6Fv8jAMuTAor+rtPf3UXK8L0HPiFvbsNtpYAFRS0Poi4Taoo9vLWgMdpZVPBJGCsoCXbN9fUugpG/s5EApKuGlHPbVZGMZiweSAI8qG9438Qx8+5p5qS0GGpGFQgX2nq9YgxMaUQ1A=;GbJbN0ZBKF0558NHhpeyKA=="
 ---

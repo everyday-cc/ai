@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-03T19:25:00Z
 originalUrl: "https://www.travelpulse.com/news/airlines/facial-recognition-will-play-a-significant-role-in-the-future-of-air-travel.html"
 webUrl: "https://www.travelpulse.com/news/airlines/facial-recognition-will-play-a-significant-role-in-the-future-of-air-travel.html"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: TravelPulse

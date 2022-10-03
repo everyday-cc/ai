@@ -2,6 +2,240 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-28-ai-the-technology-is-here-now-its-a-question-of-trust.md",
+      "title": "AI: The technology is here, now it’s a question of trust",
+      "excerpt": "A lot of organisations are not following an enterprise approach with trust and ethics sufficiently. They are finding it difficult and not prioritising the potential consequences of AI, such as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.siliconrepublic.com/machines/eu-ai-act-trustworthy-tech",
+      "originalUrl": "https://www.siliconrepublic.com/machines/eu-ai-act-trustworthy-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-28T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconRepublic",
+        "domain": "siliconrepublic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre.md",
+      "title": "Don't be afraid of Artificial Intelligence, says head of UK's new robotics centre",
+      "excerpt": "The head of the UK's largest and most advanced robotics centre has said that society needs to prepare for the increased integration of robots but shouldn't fear the rise of artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.sky.com/story/dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre-12706413",
+      "originalUrl": "https://news.sky.com/story/dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre-12706413",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e3.365dm.com/22/09/1600x900/skynews-robot-parkinsons_5912547.jpg?20220927154814",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.sky.com/story/amp/dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre-12706413",
+      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre-12706413",
+      "publishedDateTime": "2022-09-27T22:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky",
+        "domain": "sky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-facial-recognition-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2027.md",
+      "title": "Facial Recognition Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2027",
+      "excerpt": "The global Facial Recognition market size was valued at USD 3975.52 million in 2021 and is expected to expand at a CAGR",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2027-2022-09-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2027-2022-09-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T21:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-open-source-initiative-expands-its-role-to-ai-and-machine-learning.md",
+      "title": "Open Source Initiative expands its role to AI and machine learning",
+      "excerpt": "Over the last 20 years, the OSI has been the guardian of open-source licenses, but now it will also address non-open-source licenses more and AI's role in software development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/open-source-initiative-expands-its-role-to-ai-and-machine-learning/",
+      "originalUrl": "https://www.zdnet.com/article/open-source-initiative-expands-its-role-to-ai-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/3c1ea6cf644b8f0c18c87df7ba298600562c668f/2021/03/24/c3ea3f5e-2f66-4702-934e-1f91f33c3cb9/open-source-initiative-logo.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/open-source-initiative-expands-its-role-to-ai-and-machine-learning/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/open-source-initiative-expands-its-role-to-ai-and-machine-learning/",
+      "publishedDateTime": "2022-09-27T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-the-j7-is-irobots-first-two-in-one-vacuum-and-mop-combo.md",
+      "title": "The j7+ is iRobot’s first two-in-one vacuum and mop combo",
+      "excerpt": "Robot has revealed the Roomba Combo j7+, a premium robot vacuum featuring a retractable mop that allows it to both mop and vacuum without input from the user.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/irobot-roomba-combo-j7-plus-reveal/",
+      "originalUrl": "https://www.digitaltrends.com/home/irobot-roomba-combo-j7-plus-reveal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/09/Roomba-j7-Lifestyle.jpg?p=1",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/irobot-roomba-combo-j7-plus-reveal/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/irobot-roomba-combo-j7-plus-reveal/?amp",
+      "publishedDateTime": "2022-09-27T14:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-28-are-you-a-bad-teacher-this-artificial-intelligence-app-aims-to-tell-you.md",
       "title": "Are You A Bad Teacher? This Artificial Intelligence App Aims To Tell You",
       "excerpt": "Administrators aren't privy to the analysis teachers receive using the TeachFX app. “Eighty five percent teacher talk for me—even for an interview that makes me think: yikes!” Jamie Poskin ...",
@@ -50,6 +284,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-aws-announces-general-availability-of-aws-iot-fleetwise.md",
+      "title": "AWS Announces General Availability of AWS IoT FleetWise",
+      "excerpt": "we look forward to leveraging AWS IoT FleetWise to discover how we can build more personalized ownership experiences for our customers.” LG CNS is a leader in cloud, artificial intelligence, and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-aws-iot-fleetwise/article_81aabc10-8904-5bb7-8667-d240554e668b.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-aws-iot-fleetwise/article_81aabc10-8904-5bb7-8667-d240554e668b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg",
+          "width": 350,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -154,58 +431,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-aws-announces-general-availability-of-aws-iot-fleetwise.md",
-      "title": "AWS Announces General Availability of AWS IoT FleetWise",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of AWS",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-aws-iot-fleetwise-2022-09-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-aws-iot-fleetwise-2022-09-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     },
     {
@@ -957,194 +1182,29 @@
       ]
     },
     {
-      "path": "_news/2022-09-27-xiaomi-smart-camera-2-ai-enhanced-edition-launched-in-china-for-369-yuan-52.md",
-      "title": "Xiaomi Smart Camera 2 AI Enhanced Edition Launched in China for 369 yuan ($52)",
-      "excerpt": "Xiaomi had just launched a new smart home product in the Chinese market. The device in question is the new Smart Camera 2 AI Enhanced Edition, so let’s have a look. The New Smart Camera 2 AI Enhanced Edition houses a 4 megapixel camera that is capable of capture videos",
+      "path": "_news/2022-09-27-therapy-for-people-who-cant-go-to-therapy.md",
+      "title": "Therapy for People Who Can’t Go to Therapy",
+      "excerpt": "There are A.I.-informed chatbot therapists; direct-to-consumer therapy via chat and text apps; and smartphone-based cognitive behavioral therapy programs. Companies providing these types of services raised over $5 billion globally in 2021 alone — an increase of 139 percent from the previous year.",
       "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/09/27/xiaomi-smart-camera-2-ai-enhanced-edition-launch-china/",
-      "originalUrl": "https://www.gizmochina.com/2022/09/27/xiaomi-smart-camera-2-ai-enhanced-edition-launch-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/09/8d608363-0045-4d4e-8c1a-ec95222e9935.png",
-          "width": 728,
-          "height": 1144,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/09/27/xiaomi-smart-camera-2-ai-enhanced-edition-launch-china/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/09/27/xiaomi-smart-camera-2-ai-enhanced-edition-launch-china/?amp=1",
-      "publishedDateTime": "2022-09-27T01:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-ai-robots-market-2022-emerging-trends-comprehensive-study-with-top-companies-and-key-players-till-2030.md",
-      "title": "AI robots Market 2022 Emerging Trends, Comprehensive Study With Top Companies and Key Players till 2030",
-      "excerpt": "Global AI robots market to reach USD 48.91 billion by 2027. Global AI robots market is valued approximately USD 6.9 billion in 2021 and is anticipated to grow with a healthy growth rate of more than 38.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-robots-market-2022-emerging-trends-comprehensive-study-with-top-companies-and-key-players-till-2030-2022-09-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-robots-market-2022-emerging-trends-comprehensive-study-with-top-companies-and-key-players-till-2030-2022-09-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-computer-vision-market-expected-to-raise-at-3174-cagr-by-2022-2027-107-report-pages.md",
-      "title": "Computer Vision Market Expected to Raise at 31.74% CAGR by 2022-2027 | 107 Report Pages",
-      "excerpt": "The global Computer Vision market size is expected to expand at a CAGR of 31.74% during the forecast period, reaching",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-expected-to-raise-at-3174-cagr-by-2022-2027-107-report-pages-2022-09-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-expected-to-raise-at-3174-cagr-by-2022-2027-107-report-pages-2022-09-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 226,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-26T23:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-machine-learning-market-size-worth-us-399867-million-by-2025-exclusive-research-by-the-insight-partners.md",
-      "title": "Machine Learning Market Size worth US$ 39,986.7 million by 2025 – Exclusive Research by The Insight Partners",
-      "excerpt": "Machine Learning Market Comprehensive Outlook To 2025 Sep 27, 2022 (Heraldkeepers) -- Pune, India -The Machine Learning Market report outlines the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-size-worth-us-399867-million-by-2025-exclusive-research-by-the-insight-partners-2022-09-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-size-worth-us-399867-million-by-2025-exclusive-research-by-the-insight-partners-2022-09-27",
+      "webUrl": "https://www.nytimes.com/2022/09/27/opinion/therapy-technology-mental-health.html",
+      "originalUrl": "https://www.nytimes.com/2022/09/27/opinion/therapy-technology-mental-health.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-26T23:34:00-07:00",
+      "publishedDateTime": "2022-09-27T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "The New York Times",
+        "domain": "nytimes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1160,103 +1220,7 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-cognitive-analytics-market-size-share-value-and-competitive-landscape-to-2031.md",
-      "title": "Cognitive Analytics Market Size, Share, Value, and Competitive Landscape to 2031",
-      "excerpt": "Key Companies Covered in the Cognitive Analytics Market Research Report Are Microsoft, IBM, Google, Vicarious,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-size-share-value-and-competitive-landscape-to-2031-2022-09-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-size-share-value-and-competitive-landscape-to-2031-2022-09-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-26T23:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-saudi-data-ai-authority-sdaia-and-ministry-of-energy-partner-with-ibm-to-accelerate-sustainability-initiatives-in-saudi-arabia-using-ai.md",
-      "title": "Saudi Data, AI Authority (SDAIA) and Ministry of Energy Partner with IBM to Accelerate Sustainability Initiatives in Saudi Arabia Using AI",
-      "excerpt": "RIYADH, Saudi Arabia and ARMONK, N.Y., Sept. 27, 2022 /PRNewswire/ -- Saudi Data and Artificial Intelligence Authority (SDAIA) and IBM (NYSE: IBM) announced today the signing of a strategic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kxan.com/business/press-releases/cision/20220927NY84344/saudi-data-ai-authority-sdaia-and-ministry-of-energy-partner-with-ibm-to-accelerate-sustainability-initiatives-in-saudi-arabia-using-ai/",
-      "originalUrl": "https://www.kxan.com/business/press-releases/cision/20220927NY84344/saudi-data-ai-authority-sdaia-and-ministry-of-energy-partner-with-ibm-to-accelerate-sustainability-initiatives-in-saudi-arabia-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1907789/SDAIA_Image.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-26T21:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KXAN",
-        "domain": "kxan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
+        "AI in Healthcare",
         "AI"
       ]
     }

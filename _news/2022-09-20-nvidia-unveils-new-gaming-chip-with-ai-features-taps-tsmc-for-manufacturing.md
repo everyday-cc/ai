@@ -1,20 +1,24 @@
 ---
 category: news
-title: "Nvidia unveils new gaming chip with AI features, taps TSMC for manufacturing"
-excerpt: "Sept 20 (Reuters) - Nvidia Corp NVDA.O on Tuesday announced new flagship chips for video gamers that use artificial intelligence (AI) to enhance graphics, saying it has tapped Taiwan Semiconductor ..."
-publishedDateTime: 2022-09-20T15:40:00Z
-originalUrl: "https://www.nasdaq.com/articles/nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing"
-webUrl: "https://www.nasdaq.com/articles/nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing"
+title: "Nvidia Unveils New Gaming Chip With AI Features, Taps TSMC for Manufacturing"
+excerpt: "Nvidia Unveils New Gaming Chip With AI Features, Taps TSMC for Manufacturing By Stephen Nellis (Reuters) - Nvidia Corp on Tuesday announced new flagship chips for video gamers that use artificial ..."
+publishedDateTime: 2022-09-20T15:38:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2022-09-20/nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing"
+webUrl: "https://www.usnews.com/news/top-news/articles/2022-09-20/nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-secured: "RrQTPa+9/n70c0RsFB+WsIUeCD134HgU5X04rwsEfxfirUMa/Ifme9b81F8qq3s6KqSW8669C/rHBxYkFUaLA6Jg3WcqEVPLSXG1/epTNHtDnmZ9nG8nFXodC39eFGiZoVzS0k8tP9YWd2YpPXPg2h5eavCpyy48OmRGprd50+OjFNOQMXE79CEpAxjNKhX4f8821nrIyE9L1KmVxTZfi/bY6Es22/Pa/rngRaNTSRLVn2OxR/yChpeGMriIuQBNHn9+4XlTo/xZ6777rWuLwzM6VHMwlemVwS0J7Fvoil7ShzlGM2sU1zOjBF/FPU/5RLADYsFdmta2PpgvKA82ecOFnPgJNKbiA2dxS5WqrAc=;BCfOQeRjskP2pChIrqxYkw=="
+secured: "2b9M/5ZtAxbkeaY90Q0fSWZiKzDFeMyssSqz3WXFE04H0Ee018hGHxGuHXk3NcqbfJibg5nqzLw+R4WyKkCXVp0pLmVFWf+CdQS+8rfWwsmxVYxScNoZA0iRt+QrtSDu+100B5xhViMvWPce51wi6hcF0OXvsj5CzNQQvnjz+FKCdYELe1jVmDQhqhFgokOU3ypkB4a4WHlg2QDEWlej/G1Lf7PHIZMNraiK3l//BDotVU0gN+6qsNyzR5tIRzSQe8nRezRmK3YyH1iOFON0/hy0+mjHJZuVH4zXTtM793Nf8dcOyB+RilLuHI+eHtERDR4nFXE44/Pz3Zn4s0L65UNSYxqsuNAxIRKwVwHaMgs=;E7q22OPTpWfRImtJwJVKhw=="
 ---
 

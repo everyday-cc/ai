@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-30T01:13:00Z
 originalUrl: "https://www.ctvnews.ca/health/should-therapy-be-tax-exempt-new-campaign-calls-out-bureaucratic-semantics-1.6090652"
 webUrl: "https://www.ctvnews.ca/health/should-therapy-be-tax-exempt-new-campaign-calls-out-bureaucratic-semantics-1.6090652"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: CTV News

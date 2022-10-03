@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-29T12:02:00Z
 originalUrl: "https://www.eagletribune.com/region/renesas-expands-rz-v-series-with-built-in-vision-ai-accelerator-for-accurate-image-recognition/article_2d84ad82-f621-5631-9280-e3a8b5eeb6d0.html"
 webUrl: "https://www.eagletribune.com/region/renesas-expands-rz-v-series-with-built-in-vision-ai-accelerator-for-accurate-image-recognition/article_2d84ad82-f621-5631-9280-e3a8b5eeb6d0.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Eagle-Tribune

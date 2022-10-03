@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-03T19:07:00Z
 originalUrl: "https://www.mmm-online.com/home/channel/how-ai-can-transform-pharmaceutical-marketing/"
 webUrl: "https://www.mmm-online.com/home/channel/how-ai-can-transform-pharmaceutical-marketing/"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: MM&M

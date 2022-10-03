@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-03T18:01:00Z
 originalUrl: "https://techxplore.com/news/2022-10-nice-self-driving-cars-human-driven-road.html"
 webUrl: "https://techxplore.com/news/2022-10-nice-self-driving-cars-human-driven-road.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: techxplore

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-03T19:00:00Z
 originalUrl: "https://techxplore.com/news/2022-10-chip-ideal-ai.html"
 webUrl: "https://techxplore.com/news/2022-10-chip-ideal-ai.html"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: techxplore

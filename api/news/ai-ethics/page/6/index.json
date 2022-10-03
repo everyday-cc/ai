@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-06-07-axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones.md",
+      "title": "Axon’s AI Ethics Board resigns over plan to surveil schools with armed drones",
+      "excerpt": "Axon to advise its technology decisions have resigned, citing the company’s plan to install Taser-equipped drones and pervasive surveillance at schools. “After several years of work, the company has fundamentally failed to embrace the",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/06/axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones/",
+      "originalUrl": "https://techcrunch.com/2022/06/06/axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 201,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/taser-drone.jpg?w=1024",
+          "width": 1024,
+          "height": 722,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/06/axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/06/axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones/amp/",
+      "publishedDateTime": "2022-06-06T16:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-how-to-implement-ai-ethics-in-a-company-part-2.md",
+      "title": "How to Implement AI Ethics in a Company, Part 2",
+      "excerpt": "AI ethics like data privacy and transparent algorithms are rapidly becoming a key risk requirement, as AI becomes a business necessity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.brinknews.com/how-to-implement-ai-ethics-in-a-company-part-2/",
+      "originalUrl": "https://www.brinknews.com/how-to-implement-ai-ethics-in-a-company-part-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T15:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Brink – The Edge of Risk",
+        "domain": "brinknews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-axons-taser-drone-plans-prompt-ai-ethics-board-resignations.md",
       "title": "Axon’s Taser Drone Plans Prompt AI Ethics Board Resignations",
       "excerpt": "A majority of Axon’s AI ethics board resigned in protest yesterday, following an announcement last week that the company planned to equip drones with Tasers and cameras as a way to end mass shootings in schools. The company backed down on its proposal ...",
@@ -1336,112 +1422,6 @@
         "AI Ethics",
         "Natural Language Processing",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-human-centered-ai-book-review-a-roadmap-for-people-first-artificial-intelligence.md",
-      "title": "Human-Centered AI, book review: A roadmap for people-first artificial intelligence",
-      "excerpt": "As if. As Shneiderman writes in his new book, Human-Centered AI, he's somewhat modified his stance in the intervening years, giving greater weight to ending the tedium of performing the same tasks over and over. However, he remains sceptical that AI will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/human-centered-ai-book-review/",
-      "originalUrl": "https://www.zdnet.com/article/human-centered-ai-book-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2bc742f40b259164cd692288cfd4dab0a17877dd/2022/05/17/e9b93a46-659a-4596-9497-944b9778a275/human-centred-ai-main.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/human-centered-ai-book-review/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/human-centered-ai-book-review/",
-      "publishedDateTime": "2022-05-17T00:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars.md",
-      "title": "AI Ethics Tempted But Hesitant To Use AI Adversarial Attacks Against The Evils Of Machine Learning, Including For Self-Driving Cars",
-      "excerpt": "The net result would seem to be an outcome of good. Not everyone agrees with that sentiment. From an AI Ethics perspective, there is a lot of handwringing going on about this meaty topic. Some would argue that by leveraging adversarial attacks, even when ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62814aa647441d8a952568f8/0x0.jpg?format=jpg&crop=2715,1528,x279,y50,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/amp/",
-      "publishedDateTime": "2022-05-16T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
       ]
     }
   ],

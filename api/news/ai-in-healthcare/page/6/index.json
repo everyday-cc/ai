@@ -2,6 +2,181 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-07-19-hyfe-joins-forces-with-merck-to-deploy-its-artificial-intelligence-powered-cough-detection-and-counting-technology.md",
+      "title": "Hyfe Joins Forces with Merck to Deploy Its Artificial Intelligence-Powered Cough Detection and Counting Technology",
+      "excerpt": "Hyfe, Inc., the global leader in AI-powered cough detection, tracking and classification, has entered into an agreement with Merck, known as MSD outside the United States and Canada, to integrate its artificial intelligence-powered (AI) cough tracker technology into Merck’s consumer disease educational efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-united-states-artificial-intelligence-e6f89d9e8e464b0385a9bd3858264d44",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-united-states-artificial-intelligence-e6f89d9e8e464b0385a9bd3858264d44",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-care-is-increasingly-moving-outside-the-hospital-retail-healthcare-will-make-it-a-new-reality.md",
+      "title": "‘Care is increasingly moving outside the hospital, retail healthcare will make it a new reality’",
+      "excerpt": "In healthcare, the health-tech industry is gaining traction and has emerged as the leader in terms of growth. The health-tech market has been driven p..",
+      "sourceUrl": null,
+      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/care-is-increasingly-moving-outside-the-hospital-retail-healthcare-will-make-it-a-new-reality/92981804",
+      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/care-is-increasingly-moving-outside-the-hospital-retail-healthcare-will-make-it-a-new-reality/92981804",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-92981804,imgsize-22320,width-1200,height-628,overlay-ethealthworld/care-is-increasingly-moving-outside-the-hospital-retail-healthcare-will-make-it-a-new-reality.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/care-is-increasingly-moving-outside-the-hospital-retail-healthcare-will-make-it-a-new-reality/92981804",
+      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/care-is-increasingly-moving-outside-the-hospital-retail-healthcare-will-make-it-a-new-reality/92981804",
+      "publishedDateTime": "2022-07-19T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-the-future-of-artificial-intelligence.md",
+      "title": "The Future of Artificial Intelligence",
+      "excerpt": "Even apart from the enduring dream of human-like intelligence, the future of AI is expected to play a deeply significant role in consumer and business markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/enterprise-apps/artificial-intelligence-future/",
+      "originalUrl": "https://www.eweek.com/enterprise-apps/artificial-intelligence-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/InRule-display-3.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-how-cornerstone-ai-is-making-data-right-for-healthcare-industry.md",
+      "title": "How Cornerstone AI is making data ‘right’ for healthcare industry",
+      "excerpt": "California-based Cornerstone AI has raised $5 million seed funding to solve the data quality problem for the healthcare industry.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/18/how-cornerstone-ai-is-making-data-right-for-healthcare-industry/",
+      "originalUrl": "https://venturebeat.com/2022/07/18/how-cornerstone-ai-is-making-data-right-for-healthcare-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook.md",
       "title": "UK Publishes Proposal For Artificial Intelligence (AI) Rulebook",
       "excerpt": "The UK government has issued a proposal to provide guidance to fast-growing artificial intelligence (AI) technology. The proposal will impact financial",
@@ -1132,208 +1307,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-artificial-intelligence-investment-in-innovation-is-a-key-to-success.md",
-      "title": "Artificial Intelligence: Investment In Innovation Is A Key To Success",
-      "excerpt": "The Encyclopedia Britannica defines artificial intelligence (AI) as \"the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings.\" In simple terms,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62c597017ee5d8e458ae64dd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/amp/",
-      "publishedDateTime": "2022-07-07T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-artificial-intelligence-in-medical-diagnostics-market-worth-938-billion-by-2029-exclusive-report-by-meticulous-researchr.md",
-      "title": "Artificial Intelligence in Medical Diagnostics Market Worth $9.38 Billion by 2029 - Exclusive Report by Meticulous Research(R)",
-      "excerpt": "AI in medical diagnostics consists of AI software and services that aid healthcare professionals in identifying the diagnosis of different diseases. AI-based software solutions can analyze the data from a diagnostic procedure and either help triage patients by flagging abnormal medical images or suggest the healthcare professional a suitable diagnosis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-diagnostics-market-worth-938-billion-by-2029---exclusive-report-by-meticulous-researchr-2022-07-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-diagnostics-market-worth-938-billion-by-2029---exclusive-report-by-meticulous-researchr-2022-07-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-healthcare-artificial-intelligence-ai-market-size-share-growth-and-trends-forecast-to-2031.md",
-      "title": "Healthcare Artificial Intelligence Ai Market Size, Share, Growth and Trends, Forecast to 2031",
-      "excerpt": "In-depth Analysis and Data-driven Insights on the Impact of COVID-19 Included in this Global Healthcare Artificial Intelligence (AI) Market Report The Healthcare Artificial Intelligence Market is expected to reach USD 44.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-size-share-growth-and-trends-forecast-to-2031-2022-07-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-size-share-growth-and-trends-forecast-to-2031-2022-07-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-ai-boosts-rural-connectivity-healthcare.md",
-      "title": "AI boosts rural connectivity & healthcare",
-      "excerpt": "A total of 15 villages in different parts of the country may soon be seamlessly connected through a next-generation networking solution that can address congestion issues in 4G infrastructure and prov",
-      "sourceUrl": null,
-      "webUrl": "https://orissadiary.com/ai-boosts-rural-connectivity-healthcare/",
-      "originalUrl": "https://orissadiary.com/ai-boosts-rural-connectivity-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/orissadiary.com/wp-content/uploads/2022/07/image00120E0.jpg?fit=624%2C416&ssl=1",
-          "width": 624,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T22:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odisha Diary",
-        "domain": "orissadiary.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

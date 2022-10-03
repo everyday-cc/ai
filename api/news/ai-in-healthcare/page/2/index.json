@@ -2,6 +2,189 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-12-healthcare-artificial-intelligence-market-research-report-analysis-by-competition-sales-revenue-market-size-2022-to-2028.md",
+      "title": "Healthcare Artificial Intelligence Market Research Report Analysis by Competition, Sales, Revenue, Market Size 2022 to 2028",
+      "excerpt": "The \" Healthcare Artificial Intelligence Market Industry Research Report \" considers a thorough scenario of the market's size and market dynamics for the time period from 2022 to 2028. The purpose of the study is to assist stakeholders,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-research-report-analysis-by-competition-sales-revenue-market-size-2022-to-2028-2022-09-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-research-report-analysis-by-competition-sales-revenue-market-size-2022-to-2028-2022-09-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-hepion-pharmaceuticals-announces-initiation-of-dosing-in-phase-2-altitude-nash-liver-function-trial.md",
+      "title": "Hepion Pharmaceuticals Announces Initiation of Dosing in Phase 2 ‘ALTITUDE-NASH’ Liver Function Trial",
+      "excerpt": "Hepion Pharmaceuticals, Inc. (NASDAQ:HEPA), a clinical stage biopharmaceutical company focused on Artificial Intelligence (“AI”)-driven therapeutic drug development for the treatment of non-alcoholic steatohepatitis (“NASH”),",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-health-covid-clinical-trials-d579b7a19ef521b4b3feda405fd1746d",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-health-covid-clinical-trials-d579b7a19ef521b4b3feda405fd1746d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-with-424-cagr-artificial-intelligence-in.md",
+      "title": "With 42.4 % CAGR, Artificial Intelligence in...",
+      "excerpt": "Use of artificial intelligence and robotics in diagnosing and treating pharmacological disorders is estimated to drive the Artificial Intelligence (AI) in healthcare market growth. Use of virtual ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/g28826236/with-42-4-cagr-artificial-intelligence-in-healthcare-market-size-worth-usd-164-10-billion-by-2029",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/g28826236/with-42-4-cagr-artificial-intelligence-in-healthcare-market-size-worth-usd-164-10-billion-by-2029",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg",
+          "width": 700,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28826236",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28826236",
+      "publishedDateTime": "2022-09-12T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-artificial-intelligence-could-be-a-great-equalizer.md",
+      "title": "Artificial Intelligence Could Be a Great Equalizer",
+      "excerpt": "The benefits of AI will accrue not only to the wealthy and technologists but also to the poor and disadvantaged.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/artificial-intelligence-couldbe-agreat-equalizer/2022/09/09/bd246350-3037-11ed-bcc6-0874b26ae296_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/artificial-intelligence-couldbe-agreat-equalizer/2022/09/09/bd246350-3037-11ed-bcc6-0874b26ae296_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-09T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-09-artificial-intelligence-and-the-future-of-marketing.md",
       "title": "Artificial Intelligence And The Future Of Marketing",
       "excerpt": "Artificial intelligence is currently transforming marketing. Here, we look at the most exciting opportunities when it comes to using AI in marketing and explore where they are already being tapped.",
@@ -1188,197 +1371,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-artificial-intelligence-in-healthcare-sector-market-2022-size-share-sales-growth-dynamics-top-vendors-and-forecast-to-2028.md",
-      "title": "Artificial Intelligence In Healthcare Sector Market 2022 Size, Share, Sales, Growth, Dynamics, Top Vendors, and Forecast to 2028",
-      "excerpt": "Global “Artificial Intelligence In Healthcare Sector Market” research report provides technological trends and new",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-sector-market-2022-size-share-sales-growth-dynamics-top-vendors-and-forecast-to-2028-2022-08-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-sector-market-2022-size-share-sales-growth-dynamics-top-vendors-and-forecast-to-2028-2022-08-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-26T02:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-new-study-highlights-opportunities-for-artificial-emotional-intelligence.md",
-      "title": "New Study Highlights Opportunities for Artificial Emotional Intelligence",
-      "excerpt": "How will artificial intelligence (AI ... Other projects include a scalable AI recommender system to customize therapy recommendations to improve mental health based on the user’s current ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-08/pic9722.jpg?itok=l-EICJdi",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence?amp",
-      "publishedDateTime": "2022-08-25T21:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-with-5137-cagr-artificial-intelligence-in-healthcare-market-would-rocket-up-to-usd-17522-billion-by-2029.md",
-      "title": "With 51.37% CAGR, Artificial Intelligence in Healthcare Market would rocket up to USD 175.22 billion by 2029",
-      "excerpt": "The significant Artificial Intelligence in Healthcare report offers comprehensive explanation of market definition, market segmentation, competitive analysis and key developments in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/with-51-37-cagr-artificial-intelligence-in-healthcare-market-would-rocket-up-to-usd-175-22-billion-by-2029",
-      "originalUrl": "https://www.digitaljournal.com/pr/with-51-37-cagr-artificial-intelligence-in-healthcare-market-would-rocket-up-to-usd-175-22-billion-by-2029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/DDD-8-600x337.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T23:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-5g-in-healthcare-market-to-be-worth-4547-billion-by-2030-grand-view-research-inc.md",
-      "title": "5G In Healthcare Market to be Worth $454.7 Billion By 2030: Grand View Research, Inc.",
-      "excerpt": "Grand View Research, Inc. SAN FRANCISCO, /PRNewswire/ -- The global 5G in healthcare market size is expected to reach USD 454.7 billion by 2030, based on a new report by Grand View Research, Inc, expanding at a CAGR of 34.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/5g-in-healthcare-market-to-be-worth-4547-billion-by-2030-grand-view-research-inc-2022-08-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/5g-in-healthcare-market-to-be-worth-4547-billion-by-2030-grand-view-research-inc-2022-08-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

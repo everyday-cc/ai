@@ -80,6 +80,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
+    excerpt: "New Jersey, NJ -- (SBWIRE) -- 09/29/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
+    publishedDateTime: 2022-09-30T03:21:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-61"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 48
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "x0Idl+H0BGnC9k/Jd2htURLm4WrBVUsQsJ56QLmBr2qaIwZwJeAHSprY7C5vcsPO/0lnpQ+FZKuGRodW2F/k5+rsaS4//68Jvp7m9Dk5N7BQ2oMBPcw6eewEs7bm5pjXXJqrnzKUdt6/HJjBlOjqW3XhOpW/ZqTgBAVKTrtaw+A5SwiPBaQH4m3ITWNe+/OJTjrX3YXnXO59cRWXZ4BsKgTVXl7K0MBPZ7GlSWLJ41cJrln5OW5n84HLt/2CiaIS0aM6J0cmksLe3Pe9EHQ0hcNE0JzHBPqQQKJsjvMGovUbL2QUXTknsO5qX4z6a/3K2QIX+9FeIY3TqS8JGMUReIDM+j3UL5JbWjvLWzGMb0w=;u89gCE0rhuZVIncjXpyViA=="
 ---

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Video Games Market Segmentation, Future Trends, Growth Overview, Key Companies and Forecast by 2029 | 101 Report Pages"
-    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence in Video Games Market is projected to"
-    publishedDateTime: 2022-09-30T01:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-video-games-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2029-101-report-pages-2022-09-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "HjYMtsfvR4MWSSLe0MW7TUT6dwF18RbTXSpoWXMIsW4EbTMRB2EjAa08EPn0ySU2BJ/UMhK/u6Cnp9a+XesUDKqhnky5msi5vXnGa+6wFgVENJF2u8AsBc7eGHw56+smt6XYxzTFVKyQSm08sV57MGkWIs7jZ1ry2XE7bichrP3TTRFPb5m/00LVWCSislm3/tnVVH4aITlU3UzssF3jBofTBdNiK5CTi76lXTZhtizatIDweARB9CQufs8u8H/+E23xnX9sHlAmp7mx3A9uewzj+ofl0nnHTeh7XDMEEJTgVljEARHcQKPkW24AINp5rNbiHFuUgf4nJ6J3ocaBhoZwOkDU6pY+xAbzfDAJPa4=;wKlraYcLQATNYOPsmOdHPg=="
 ---

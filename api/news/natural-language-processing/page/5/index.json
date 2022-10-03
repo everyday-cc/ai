@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-14-driver-slams-tunnel-toll-after-103-attempts-to-pay-via-voice-recognition-software.md",
+      "title": "Driver slams tunnel toll after '103 attempts to pay' via voice recognition software",
+      "excerpt": "A driver who tried to pay a road toll via voice recognition software has slammed the system after he says it took 103 attempts. Caravanner Ivor Rodgers says he will never use the route again.",
+      "sourceUrl": null,
+      "webUrl": "https://www.walesonline.co.uk/news/uk-news/driver-slams-tunnel-toll-after-24750305",
+      "originalUrl": "https://www.walesonline.co.uk/news/uk-news/driver-slams-tunnel-toll-after-24750305",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-13T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wales Online",
+        "domain": "walesonline.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-12-deepfakes-expose-vulnerabilities-in-certain-facial-recognition-technology.md",
       "title": "Deepfakes expose vulnerabilities in certain facial recognition technology",
       "excerpt": "Mobile devices use facial recognition technology to help users quickly and securely unlock their phones, make a financial transaction or access medical records. But facial recognition technologies that employ a specific user-detection method are highly vulnerable to deepfake-based attacks that could lead to significant security concerns for users and applications,",
@@ -1417,41 +1451,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-automatic-speech-recognition-apps-market-industry-key-players-trends-sales-supply-demand-analysis-and-forecast-to-2031.md",
-      "title": "Automatic Speech Recognition Apps Market Industry Key Players, Trends, Sales, Supply, Demand, Analysis and Forecast to 2031",
-      "excerpt": "The automatic speech recognition apps market is anticipated to witness significant growth on account of the escalating use of electronic products across the globe. The extensive use of voice ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/automatic-speech-recognition-apps-market-industry-key-players-trends-sales-supply-demand-analysis-and-forecast-to-2031",
-      "originalUrl": "https://www.digitaljournal.com/pr/automatic-speech-recognition-apps-market-industry-key-players-trends-sales-supply-demand-analysis-and-forecast-to-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T23:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

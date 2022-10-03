@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-01T17:01:00Z
 originalUrl: "https://www.dallasnews.com/opinion/commentary/2022/10/02/the-little-known-history-of-hormone-therapy-that-is-being-left-out-of-the-transgender-deba/"
 webUrl: "https://www.dallasnews.com/opinion/commentary/2022/10/02/the-little-known-history-of-hormone-therapy-that-is-being-left-out-of-the-transgender-deba/"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Dallas Morning News

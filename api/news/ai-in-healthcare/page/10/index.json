@@ -2,6 +2,171 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-06-04-artificial-intelligence-spotted-inventing-its-own-creepy-language.md",
+      "title": "Artificial intelligence spotted inventing its own creepy language",
+      "excerpt": "An artificial intelligence program has developed its own language and no one can understand it. OpenAI is an artificial intelligence systems developer – their programs are fantastic examples of super-computing but there are quirks.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2022/06/03/artificial-intelligence-spotted-inventing-its-own-creepy-language/",
+      "originalUrl": "https://nypost.com/2022/06/03/artificial-intelligence-spotted-inventing-its-own-creepy-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/06/bird.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2022/06/03/artificial-intelligence-spotted-inventing-its-own-creepy-language/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/03/artificial-intelligence-spotted-inventing-its-own-creepy-language/amp/",
+      "publishedDateTime": "2022-06-03T19:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-06-04-how-ai-brings-accessibility-and-equity-to-healthcare.md",
+      "title": "How AI brings accessibility and equity to healthcare",
+      "excerpt": "Artificial intelligence can step in to provide quality care options at a lower cost for healthcare options. Companies like Vara and Paradromics are already working to increase access, affordability and ultimately healthcare outcomes — and investors are paying close attention.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/03/how-ai-brings-accessibility-and-equity-to-healthcare/",
+      "originalUrl": "https://venturebeat.com/2022/06/03/how-ai-brings-accessibility-and-equity-to-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/01-02-workflow.png?w=1200&strip=all",
+          "width": 1198,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/03/how-ai-brings-accessibility-and-equity-to-healthcare/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/03/how-ai-brings-accessibility-and-equity-to-healthcare/amp/",
+      "publishedDateTime": "2022-06-03T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-artificial-intelligence-in-healthcare-market-global-market-report-2022.md",
+      "title": "Artificial Intelligence in Healthcare Market Global Market Report 2022",
+      "excerpt": "The Artificial Intelligence in Healthcare market consists ... for stereotactic radiosurgery and stereotactic body radiation therapy treatment. In August 2021, Nurosene Health Inc., a health ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/06/g27539431/artificial-intelligence-in-healthcare-market-global-market-report-2022",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27539431/artificial-intelligence-in-healthcare-market-global-market-report-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-03T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-leading-healthcare-artificial-intelligence-company-raises-20m-series-a-extension.md",
+      "title": "Leading Healthcare Artificial Intelligence Company Raises $20m Series A Extension",
+      "excerpt": "Inspire's proprietary Inspire therapy is the first and only FDA-approved neurostimulation technology that provides a safe and effective treatment for moderate to severe obstructive sleep apnea.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27541804/leading-healthcare-artificial-intelligence-company-raises-20m-series-a-extension",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27541804/leading-healthcare-artificial-intelligence-company-raises-20m-series-a-extension",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27541804",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27541804",
+      "publishedDateTime": "2022-06-03T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-computer-vision-in-healthcare-global-market.md",
       "title": "Computer Vision in Healthcare Global Market...",
       "excerpt": "New York, June 03, 2022 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Computer Vision in Healthcare Global Market Report 2022\" - https ...",
@@ -1112,189 +1277,6 @@
       "provider": {
         "name": "WWNO",
         "domain": "wwno.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-natural-language-processing-nlp-in-healthcare-and-life-sciences-analysis-with-growth-forecast-2030.md",
-      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Analysis with Growth Forecast 2030",
-      "excerpt": "This section includes regional segmentation that accentuates the recent and future demand for Natural Language Processing (NLP) in Healthcare and Life Sciences market across North America ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-in-healthcare-and-life-sciences-analysis-with-growth-forecast-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-in-healthcare-and-life-sciences-analysis-with-growth-forecast-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/01/051a518886e702eb4a9eea9982a177f13dd2078e-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-artificial-general-intelligence-whats-behind-you.md",
-      "title": "Artificial General Intelligence: What's Behind You?",
-      "excerpt": "AGI is the hypothetical ability of an intelligent agent to understand or learn any intellectual task that a human being can.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/artificial-general-intelligence-whats-behind-you/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/artificial-general-intelligence-whats-behind-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//628fa8b49fde0d3d854d8a2f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/artificial-general-intelligence-whats-behind-you/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/27/artificial-general-intelligence-whats-behind-you/amp/",
-      "publishedDateTime": "2022-05-27T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-lessons-learned-about-ai-from-a-healthcare-technology-startup-leader.md",
-      "title": "Lessons Learned About AI From A Healthcare Technology Startup Leader",
-      "excerpt": "So far, my personal crash course has made healthcare’s massive size and complexity even more apparent, and it occurred to me that others can benefit if I write about my learnings and observations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/lessons-learned-about-ai-from-a-healthcare-technology-startup-leader/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/lessons-learned-about-ai-from-a-healthcare-technology-startup-leader/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//628ce443a25ac26736ea9402/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/lessons-learned-about-ai-from-a-healthcare-technology-startup-leader/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/27/lessons-learned-about-ai-from-a-healthcare-technology-startup-leader/amp/",
-      "publishedDateTime": "2022-05-27T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-precision-medicine-in-stroke-towards-personalized-outcome-predictions-using-artificial-intelligence.md",
-      "title": "Precision Medicine in Stroke: Towards Personalized Outcome Predictions Using Artificial Intelligence",
-      "excerpt": "Following modern rhythms, the next revolution might well be the strategic use of the steadily increasing amounts of patient-related data for generating models enabling individualized outcome predictions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medscape.com/viewarticle/973222",
-      "originalUrl": "https://www.medscape.com/viewarticle/973222",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T21:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medscape",
-        "domain": "medscape.com",
         "images": null,
         "publishers": null,
         "authors": null

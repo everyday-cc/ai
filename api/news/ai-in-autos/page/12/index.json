@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-07-29-baidu-reveals-its-6th-gen-robotaxi-with-detachable-steering-wheel.md",
+      "title": "Baidu reveals its 6th-gen robotaxi, with detachable steering wheel",
+      "excerpt": "According to Baidu senior corporate vice president Zhenyu Li, who also serves as GM of the company's intelligent driving group, the RT6's autonomous driving capability is \"equivalent to a skilled ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/automotive/baidu-apollo-rt6/",
+      "originalUrl": "https://newatlas.com/automotive/baidu-apollo-rt6/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-wimi-hologram-academy-virtual-reality-based-remote-vehicle-driving-technology.md",
       "title": "WIMI Hologram Academy: Virtual Reality-based Remote Vehicle Driving Technology",
       "excerpt": "WIMI Hologram Academy, working in partnership with the Holographic Science Innovation Center, has written a new technical article describing their exploration of VR-based remote vehicle driving technology.",
@@ -1250,49 +1293,6 @@
       "provider": {
         "name": "Q13 FOX News",
         "domain": "q13fox.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-baidu-unveils-what-it-says-is-a-37000-self-driving-car-with-no-wheel.md",
-      "title": "Baidu unveils what it says is a $37,000 self-driving car with no wheel",
-      "excerpt": "China's search engine giant Baidu unveiled its new autonomous vehicle with a detachable steering wheel, with plans to put it to use for its robotaxi service in China next year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/2022/07/21/baidu-autonomous-car/",
-      "originalUrl": "https://www.autoblog.com/2022/07/21/baidu-autonomous-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims3/GLOB/crop/3952x2223+0+390/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2022/07/21162728/2022-07-21T101747Z_2_LYNXMPEI6K02L_RTROPTP_4_CHINA-BAIDU.jpg.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoblog.com/amp/2022/07/21/baidu-autonomous-car/",
-      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/07/21/baidu-autonomous-car/",
-      "publishedDateTime": "2022-07-21T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
         "images": null,
         "publishers": null,
         "authors": null

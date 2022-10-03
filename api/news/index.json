@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-04-speech-accessibility-project-aims-to-make-voice-recognition-more-inclusive.md",
+      "title": "Speech Accessibility Project Aims to Make Voice Recognition More Inclusive",
+      "excerpt": "Tech giants are teaming up with researchers at the University of Illinois to improve speech recognition for people with disabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/speech-accessibility-project-aims-to-make-voice-recognition-more-inclusive/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/speech-accessibility-project-aims-to-make-voice-recognition-more-inclusive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/727c3f40e46bd156e23fe082b021fdbf46f90b69/hub/2022/09/28/2da9106a-c646-435f-99b3-c88a36ab519d/echo-dot-1920x1080-301.png?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/speech-accessibility-project-aims-to-make-voice-recognition-more-inclusive/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/speech-accessibility-project-aims-to-make-voice-recognition-more-inclusive/",
+      "publishedDateTime": "2022-10-03T14:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-elon-musks-half-baked-robot-is-a-clunky-first-step.md",
+      "title": "Elon Musk's Half-Baked Robot Is a Clunky First Step",
+      "excerpt": "Tesla’s Optimus robot did not dazzle robotics experts and can't yet walk. But if the project delivers, it could give the company an edge in manufacturing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/elon-musks-half-baked-robot-is-a-clunky-first-step/",
+      "originalUrl": "https://www.wired.com/story/elon-musks-half-baked-robot-is-a-clunky-first-step/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/633b3fa75347dadd8298df78/master/w_4096,h_2731,c_limit/Tesla-Optimus-Bot-Mechanics-Business.jpg",
+          "width": 4096,
+          "height": 2731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/elon-musks-half-baked-robot-is-a-clunky-first-step/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/elon-musks-half-baked-robot-is-a-clunky-first-step/amp",
+      "publishedDateTime": "2022-10-03T13:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-03-create-high-quality-data-for-ml-models-with-amazon-sagemaker-ground-truth.md",
       "title": "Create high-quality data for ML models with Amazon SageMaker Ground Truth",
       "excerpt": "Machine learning (ML) has improved business across industries in recent years—from the recommendation system on your Prime Video account, to document summarization and efficient search with Alexa’s voice assistance. However, the question remains of how to incorporate this technology into your business.",
@@ -326,7 +430,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/03/three-reasons-why-artificial-intelligence-wins-with-specialization/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -952,7 +1056,7 @@
       "originalUrl": "https://www.wsj.com/articles/intel-drives-forward-with-mobileye-self-driving-car-units-ipo-plans-11664579959",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1004,7 +1108,7 @@
       "originalUrl": "https://www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai-tool-can-predict-missed-doctors-appointments/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1148,101 +1252,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-white-house-official-says-details-on-ai-chip-export-rule-coming-soon.md",
-      "title": "White House Official Says Details on AI Chip Export Rule Coming Soon",
-      "excerpt": "The Biden administration could shed more light on a possible new rule for exporting high-performance artificial intelligence chips to China \"relatively soon,\" a White House official said Friday. Tarun Chhabra,",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2022-09-30/white-house-official-says-details-on-ai-chip-export-rule-coming-soon",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-09-30/white-house-official-says-details-on-ai-chip-export-rule-coming-soon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T11:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-build-flexible-and-scalable-distributed-training-architectures-using-kubeflow-on-aws-and-amazon-sagemaker.md",
-      "title": "Build flexible and scalable distributed training architectures using Kubeflow on AWS and Amazon SageMaker",
-      "excerpt": "In this post, we demonstrate how Kubeflow on AWS (an AWS-specific distribution of Kubeflow) used with AWS Deep Learning Containers and Amazon Elastic File System (Amazon EFS) simplifies collaboration and provides flexibility in training deep learning models at scale on both Amazon Elastic Kubernetes",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-flexible-and-scalable-distributed-training-architectures-using-kubeflow-on-aws-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-flexible-and-scalable-distributed-training-architectures-using-kubeflow-on-aws-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/23/Solution-1228x630.png",
-          "width": 1228,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T10:56:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

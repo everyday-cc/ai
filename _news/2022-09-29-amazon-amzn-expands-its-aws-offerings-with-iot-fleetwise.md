@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-expands-its-aws-offering
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-expands-its-aws-offerings-with-iot-fleetwise?amp"
 type: article
 quality: 71
-heat: 71
+heat: 72
 published: true
 
 provider:

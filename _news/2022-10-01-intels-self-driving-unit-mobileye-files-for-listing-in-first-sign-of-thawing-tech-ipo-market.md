@@ -57,6 +57,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 32
+  - title: "Intel's self-driving technology Mobileye unit files for IPO"
+    excerpt: "The company didn’t disclose terms of the planned share sale in its filing Friday with the U.S. Securities and Exchange Commission. Mobileye will continue to be controlled by Intel after the IPO, according to the filing."
+    publishedDateTime: 2022-10-03T19:34:00Z
+    webUrl: "https://www.autonews.com/mobility-report/will-intel-take-mobileye-public"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/MOBILEYE-02_i.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Intel’s Self-Driving Technology Mobileye Unit Files for IPO"
     excerpt: "Intel Corp. has filed for an initial public offering of its self-driving technology business, Mobileye Global Inc."
     publishedDateTime: 2022-10-01T17:37:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-03T19:05:00Z
 originalUrl: "https://www.forbes.com/sites/marcochiappetta/2022/10/03/nvidias-campaign-to-empower-stem-students-brings-more-capable-mobile-solutions-to-accelerate-learning/"
 webUrl: "https://www.forbes.com/sites/marcochiappetta/2022/10/03/nvidias-campaign-to-empower-stem-students-brings-more-capable-mobile-solutions-to-accelerate-learning/"
 type: article
+quality: 33
+heat: 33
+published: false
 
 provider:
   name: Forbes

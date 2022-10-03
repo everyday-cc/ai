@@ -2,6 +2,393 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2022-07-28-air-force-testing-system-to-stop-active-shooters-with-robots-and-drones.md",
+      "title": "Air Force testing system to stop active shooters with robots and drones",
+      "excerpt": "The U.S. Air Force is testing a system that uses artificial intelligence and drones on its bases aimed at putting a stop to an active shooter.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2022/07/27/air-force-testing-system-to-stop-active-shooters-with-robots-and-drones/",
+      "originalUrl": "https://nypost.com/2022/07/27/air-force-testing-system-to-stop-active-shooters-with-robots-and-drones/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/07/newspress-collage-23228536-1658958834439.jpg?quality=75&strip=all&1658944488&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2022/07/27/air-force-testing-system-to-stop-active-shooters-with-robots-and-drones/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/27/air-force-testing-system-to-stop-active-shooters-with-robots-and-drones/amp/",
+      "publishedDateTime": "2022-07-27T15:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-whats-driving-us-china-spat-over-audits-and-delisting.md",
+      "title": "What’s Driving US-China Spat Over Audits and Delisting",
+      "excerpt": "About 200 Chinese companies whose shares trade in the US, including JD.com Inc. and Baidu Inc., face delisting because American regulators aren’t able to verify their financial audits. While China and the US continue to negotiate access to audits,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/whats-driving-us-china-spat-over-audits-and-delisting/2022/07/27/decb8870-0e14-11ed-88e8-c58dc3dbaee2_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/whats-driving-us-china-spat-over-audits-and-delisting/2022/07/27/decb8870-0e14-11ed-88e8-c58dc3dbaee2_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T13:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-facebook-and-instagram-are-going-to-show-even-more-posts-from-accounts-you-dont-follow.md",
+      "title": "Facebook and Instagram are going to show even more posts from accounts you don’t follow",
+      "excerpt": "Meta CEO Mark Zuckerberg said the company will more than double the amount of content from recommended accounts people see while using Instagram and Facebook ... s heavy use of AI to serve up ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/7/27/23281451/facebook-instagram-meta-recommendation-discovery-engine-ai",
+      "originalUrl": "https://www.theverge.com/2022/7/27/23281451/facebook-instagram-meta-recommendation-discovery-engine-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/_wZV6QhjvS43T94AxGKXf0cp5i4=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22977156/acastro_211101_1777_meta_0002.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T13:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-datanomix-flexxbotics-partner-to-automate-production-monitoring-for-universal-robots.md",
+      "title": "Datanomix, Flexxbotics Partner to Automate Production Monitoring for Universal Robots",
+      "excerpt": "Datanomix, maker of the Automated Production Intelligence software platform, announced support for monitoring Universal Robots for real-time visibility into robot performance. By partnering with Flexxbotics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.manufacturing.net/technology/news/22353654/datanomix-flexxbotics-partner-to-automate-production-monitoring-for-universal-robots",
+      "originalUrl": "https://www.manufacturing.net/technology/news/22353654/datanomix-flexxbotics-partner-to-automate-production-monitoring-for-universal-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manufacturing",
+        "domain": "manufacturing.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-no-quick-fix-how-openais-dalle-2-illustrated-the-challenges-of-bias-in-ai.md",
+      "title": "No quick fix: How OpenAI's DALL·E 2 illustrated the challenges of bias in AI",
+      "excerpt": "OpenAI released the second version of its DALL·E image generator in April to rave reviews, but efforts to address societal biases in its output have illustrated systemic underlying problems with AI systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/no-quick-fix-openais-dalle-2-illustrated-challenges-bias-ai-rcna39918",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/no-quick-fix-openais-dalle-2-illustrated-challenges-bias-ai-rcna39918",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-07/220727-dall-e-ai-racism-gender-bias-2x1-cs-de0351.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna39918",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna39918",
+      "publishedDateTime": "2022-07-27T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-azure-functions-boosted-with-net-7-support.md",
+      "title": "Azure Functions Boosted with .NET 7 Support",
+      "excerpt": "Azure Functions, Microsoft's serverless cloud computing offering, is previewing new functionality coming with its new support of .NET 7 as a runtime.",
+      "sourceUrl": null,
+      "webUrl": "https://visualstudiomagazine.com/articles/2022/07/27/azure-functions-net-7.aspx",
+      "originalUrl": "https://visualstudiomagazine.com/articles/2022/07/27/azure-functions-net-7.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2016/0216red_F2Nano.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Visual Studio Magazine",
+        "domain": "visualstudiomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-veo-robotics-named-to-the-2022-cb-insights-advanced-manufacturing-50-list.md",
+      "title": "Veo Robotics Named to the 2022 CB Insights' Advanced Manufacturing 50 List",
+      "excerpt": "Industrial automation leader and creator of FreeMove® recognized as one of the most promising private advanced manufacturing companies in the world WALTHAM, Mass. (PRWEB) CB Insights today named Veo",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/07/p28232813/veo-robotics-named-to-the-2022-cb-insights-advanced-manufacturing-50-list",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/p28232813/veo-robotics-named-to-the-2022-cb-insights-advanced-manufacturing-50-list",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g",
+          "width": 900,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28232813",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28232813",
+      "publishedDateTime": "2022-07-27T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-verify-introduces-facial-recognition-enabled-background-check-service.md",
+      "title": "Verify introduces facial recognition-enabled background check service",
+      "excerpt": "Every single person for whom we demonstrated Verify’s offering was interested in knowing more and stated they had never seen an offering like this before,” explained Verify Founder Michael Doherty. Each individual was shown how uploading a photo (or CCTV camera frame) of a person enables one to find and select a suitable match online and instantly learn the person’s name,",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityinfowatch.com/security-executives/security-industry-services/press-release/21275576/verify-introduces-facial-recognitionenabled-background-check-service",
+      "originalUrl": "https://www.securityinfowatch.com/security-executives/security-industry-services/press-release/21275576/verify-introduces-facial-recognitionenabled-background-check-service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/07/logo.62e18d444598d.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security",
+        "domain": "securityinfowatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-overview-cloud-as-a-service-in-the-financial-services-sector.md",
+      "title": "Overview: Cloud as a service in the financial services sector",
+      "excerpt": "This has resulted in the integration of financial services, secure communications ... tools like – Artificial intelligence, Machine Learning is defining the way our customer excellence centres ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/overview-cloud-as-a-service-in-the-financial-services-sector/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/overview-cloud-as-a-service-in-the-financial-services-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/07/Mr.-Madhusudan-Warrier_Head-of-IT_Mirae-Asset.jpg",
+          "width": 1956,
+          "height": 2021,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/overview-cloud-as-a-service-in-the-financial-services-sector/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/overview-cloud-as-a-service-in-the-financial-services-sector/",
+      "publishedDateTime": "2022-07-27T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-ai-in-computer-vision-market-product-type-hardwaresoftware-sales-revenue-manufacturers-suppliers-key-players-2022-to-2028.md",
       "title": "AI In Computer Vision Market Product Type Hardware,Software Sales, Revenue, Manufacturers, Suppliers, Key Players 2022 to 2028",
       "excerpt": "Pre and Post Covid is covered and Report Customization is available. As the global economic trends, the growth",
@@ -714,421 +1101,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-aws-heres-how-our-cloud-computing-infrastructure-dealt-with-amazon-prime-day.md",
-      "title": "AWS: Here's how our cloud-computing infrastructure dealt with Amazon Prime day",
-      "excerpt": "Amazon's Prime Day is an online-buying frenzy for consumers. Here's how Amazon Web Services dealt with it. AWS has detailed how its cloud-computing infrastructure supported Amazon's huge Prime Day sales event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/aws-heres-how-our-cloud-computing-infrastructure-dealt-with-amazon-prime-day/",
-      "originalUrl": "https://www.zdnet.com/article/aws-heres-how-our-cloud-computing-infrastructure-dealt-with-amazon-prime-day/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/6b8c0b7217d81a01ae0b961e7ac3437108bc0df3/2022/05/06/9e61669f-d64d-4a65-841d-04500f54a339/zd-cloud-computing.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-heres-how-our-cloud-computing-infrastructure-dealt-with-amazon-prime-day/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-heres-how-our-cloud-computing-infrastructure-dealt-with-amazon-prime-day/",
-      "publishedDateTime": "2022-07-27T01:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-trading-down-23.md",
-      "title": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ) Trading Down 2.3%",
-      "excerpt": "The stock has a fifty day moving average price of $21.79 and a two-hundred day moving average price of $25.70.",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/07/27/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-trading-down-2-3/",
-      "originalUrl": "https://www.etfdailynews.com/2022/07/27/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-trading-down-2-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/07/27/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-trading-down-2-3/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/07/27/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-trading-down-2-3/amp/",
-      "publishedDateTime": "2022-07-26T23:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-motion-control-software-in-robotics-market-is-reach-us-3786-bn-at-a-cagr-of-196-by-2022-2029-future-market-insights-inc.md",
-      "title": "Motion Control Software in Robotics Market is Reach US$ 37.86 Bn, at a CAGR of 19.6% by 2022 – 2029 | Future Market Insights, Inc.",
-      "excerpt": "The Motion Control Software in Robotics Market is anticipated to grow at an impressive CAGR of 19.6% between 2022 and 2029, surpassing a valuation of US$ 10.81 Bn in 2022 and US$ 37.86 Bn by 2029.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/motion-control-software-in-robotics-market-is-reach-us-37-86-bn-at-a-cagr-of-19-6-by-2022-2029-future-market-insights-inc",
-      "originalUrl": "https://www.digitaljournal.com/pr/motion-control-software-in-robotics-market-is-reach-us-37-86-bn-at-a-cagr-of-19-6-by-2022-2029-future-market-insights-inc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/08/Sydney-outbreak-AFP-1K-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T22:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-scientists-create-robotics-using-dead-spiders.md",
-      "title": "Scientists create robotics using dead spiders",
-      "excerpt": "I learned about necrobotics and wish I hadn’t. This is a wolf spider: Admittedly it’s kinda cute (for a spider) and not venomous enough to kill you with its … Read More",
-      "sourceUrl": null,
-      "webUrl": "https://thoughtforyourpenny.com/scientists-create-robotics-using-dead-spiders/",
-      "originalUrl": "https://thoughtforyourpenny.com/scientists-create-robotics-using-dead-spiders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://qph.fs.quoracdn.net/main-qimg-ca4623129d70789f1a4ce62e9db18bff-lq",
-          "width": 602,
-          "height": 401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thoughtforyourpenny.com/scientists-create-robotics-using-dead-spiders/",
-      "cdnAmpWebUrl": "https://thoughtforyourpenny-com.cdn.ampproject.org/c/s/thoughtforyourpenny.com/scientists-create-robotics-using-dead-spiders/",
-      "publishedDateTime": "2022-07-26T19:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thoughtforyourpenny",
-        "domain": "thoughtforyourpenny.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-artificial-intelligence-startups-from-around-the-world-partner-with-mayo-clinic.md",
-      "title": "Artificial Intelligence startups from around the world partner with Mayo Clinic",
-      "excerpt": "Mayo Clinic Platform Accelerate, an immersive program for health tech startups, launched its initial cohort of participating companies in March.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kaaltv.com/rochester-minnesota-news/artificial-intelligence-startups-from-around-the-world-partner-with-mayo-clinic/6534824/",
-      "originalUrl": "https://www.kaaltv.com/rochester-minnesota-news/artificial-intelligence-startups-from-around-the-world-partner-with-mayo-clinic/6534824/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.KAALtv.com/kaalimages/repository/2022-07/Artificial_Intelligence_startups_from_around_the_world_partner_with_Mayo_Clinic-syndImport-103220.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T19:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KAAL TV",
-        "domain": "kaaltv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-facial-recognition-software-helps-reunite-lost-or-missing-pets.md",
-      "title": "Facial recognition software helps reunite lost or missing pets",
-      "excerpt": "That’s estimated to be over 10 million pets a year. But with Petco Love’s facial recognition technology, one click could bring them home.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets",
-      "originalUrl": "https://www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://x-default-stgec.uplynk.com/ausw/slices/85a/1caad701706c40c597cac38040cf164a/85abf601ec2949c0919fda7670f9e3ae/poster_257abd1768084f24bf2af558685367ec.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets?_amp=true",
-      "cdnAmpWebUrl": "https://www-ksby-com.cdn.ampproject.org/c/s/www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets?_amp=true",
-      "publishedDateTime": "2022-07-26T17:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSBY 6",
-        "domain": "ksby.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-a-top-data-scientist-at-bristol-myers-squibb-shares-how-artificial-intelligence-is-transforming-the-pharma-giant-from-chatbots-to-metrics.md",
-      "title": "A top data scientist at Bristol Myers Squibb shares how artificial intelligence is transforming the pharma giant, from chatbots to metrics",
-      "excerpt": "The New Jersey drug giant Bristol Myers Squibb is quietly testing several artificial-intelligence programs, hoping the ideas can make pharmaceutical research more efficient and powerful.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/3-ai-projects-transforming-drug-research-at-bristol-myers-squibb-2022-6",
-      "originalUrl": "https://www.businessinsider.com/3-ai-projects-transforming-drug-research-at-bristol-myers-squibb-2022-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62b220ea4245600018ddcfbf?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-amazon-facial-recognition-falsely-links-27-athletes-to-mugshots-in-aclu-study.md",
-      "title": "Amazon Facial Recognition Falsely Links 27 Athletes to Mugshots in ACLU Study",
-      "excerpt": "The Massachusetts chapter of the American Civil Liberties Union (ACLU) announced this month that Amazon’s “Rekognition” technology falsely linked the faces of 27 professional athletes in New ...",
-      "sourceUrl": null,
-      "webUrl": "https://hyperallergic.com/525209/amazon-facial-recognition-aclu/",
-      "originalUrl": "https://hyperallergic.com/525209/amazon-facial-recognition-aclu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/hyperallergic-newspack.s3.amazonaws.com/uploads/2019/10/New-England-Patriots-1000.jpg?fit=1000%2C618&quality=100&ssl=1",
-          "width": 1000,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hyperallergic",
-        "domain": "hyperallergic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-an-ai-for-art-copyright-considerations-for-artificial-intelligence.md",
-      "title": "An AI for art: Copyright considerations for artificial intelligence",
-      "excerpt": "Artificial intelligence is driving the information revolution and its presence is increasingly commonplace — for example, in smart speakers, self-driving cars, social media monitoring and ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/27/an-ai-for-art-copyright-considerations-for-artificial-intelligence/",
-      "originalUrl": "https://techcrunch.com/2022/07/27/an-ai-for-art-copyright-considerations-for-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-1079012834.jpg?w=574",
-          "width": 574,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

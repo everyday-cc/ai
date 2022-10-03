@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-29T10:00:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/29/how-to-use-machine-learning-to-create-a-portfolio-hedging-strategy/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/29/how-to-use-machine-learning-to-create-a-portfolio-hedging-strategy/"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/62e7eff8bb97f2f005b0c77c/0x0.jpg?format=jpg&width=1200"

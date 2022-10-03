@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-03T17:54:00Z
 originalUrl: "https://www.nytimes.com/2022/10/03/technology/uber-sexual-assault-reporting-santa-clara-county.html"
 webUrl: "https://www.nytimes.com/2022/10/03/technology/uber-sexual-assault-reporting-santa-clara-county.html"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: The New York Times

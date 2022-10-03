@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-01T03:28:00Z
 originalUrl: "https://www.zdnet.com/article/openais-dalloe-2-may-mean-we-never-need-stock-photos-again/"
 webUrl: "https://www.zdnet.com/article/openais-dalloe-2-may-mean-we-never-need-stock-photos-again/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: ZDNet

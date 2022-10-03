@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fever Detector AI Thermal Camera Market Size, Sales, CAGR And Competition Data from 2022 To 2028"
-    excerpt: "Fever Detector AI Thermal Camera Market Research Report is spread across 103 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
-    publishedDateTime: 2022-09-29T03:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/fever-detector-ai-thermal-camera-market-size-sales-cagr-and-competition-data-from-2022-to-2028-2022-09-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in IoT Market Size, Sales, CAGR And Competition Data from 2022 To 2029 | 102 Report Pages"
     excerpt: "Global “ Artificial Intelligence in IoT Market \" Report is a detailed and comprehensive analysis for global Artificial Intelligence in IoT market. Both quantitative and qualitative analyses are presented by manufacturers,"
     publishedDateTime: 2022-09-30T00:47:00Z
@@ -58,29 +44,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market : Competitive Landscape and Analysis by Recent Trends 2022 to 2029 | 99 Report Pages"
-    excerpt: "According to this latest study, In 2022 the growth of Computer Vision Market is projected to reach Multimillion USD"
-    publishedDateTime: 2022-09-30T00:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-competitive-landscape-and-analysis-by-recent-trends-2022-to-2029-99-report-pages-2022-09-29"
+  - title: "Artificial Intelligence in Video Games Market Segmentation, Future Trends, Growth Overview, Key Companies and Forecast by 2029 | 101 Report Pages"
+    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence in Video Games Market is projected to"
+    publishedDateTime: 2022-09-30T01:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-video-games-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2029-101-report-pages-2022-09-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Thermometer with Face Recognition Market 2022 Key Product Segments, Application Analysis, and Industry Growth Forecast by 2028"
-    excerpt: "Thermometer with Face Recognition Market Research Report is spread across 105 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
-    publishedDateTime: 2022-09-30T04:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/thermometer-with-face-recognition-market-2022-key-product-segments-application-analysis-and-industry-growth-forecast-by-2028-2022-09-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+    quality: 30
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -100,15 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Lidar for Self-Driving Car Market Outlook and Forecast 2022 To 2028 with Top Countries Data"
-    excerpt: "Lidar for Self-Driving Car Market Research Report is spread across 97 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
-    publishedDateTime: 2022-10-03T06:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/lidar-for-self-driving-car-market-outlook-and-forecast-2022-to-2028-with-top-countries-data-2022-10-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
 
 secured: "SJegNDkCZKdgPDdm9VXcFkqtUMaSt/z/BK8AzMnK03ASINmcWFyFus8jP3TLubVSCA9MBNj2n5wgd4FjdY+ATB+MpqOMMxUS2BTU6tzJcH/5yfOAbv+jECuoELI5wJ8aPeh5KYOuwJ1A/pxVOr+BHSdPofa9MaIcPhIDl4BvXL3GuSSBrruMAe9miwSX20izCBz+ctgHrlfPaS715eta2IIbaL0gVKUc7VxRrtHyO/QTFR0yToLfXaJ76HBhnIGkA75Lc9UC69Fs50uimXPeTg2KMUJKm77QRwKma7vjWm3jFg+Qk43EJA3s57Wfr/oSLDDjXJEEFAO3CEFQdo4kBHDLg412F1UAgQRHUEf4VvE=;kZO/U/jUzK242Ic1T0UoMA=="
 ---

@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-29-ai-illuminates-permanently-shadowed-regions-on-the-moon.md",
+      "title": "AI illuminates permanently shadowed regions on the moon",
+      "excerpt": "The study's findings could have direct implications for future missions, including Intuitive Machines Mission 2, which will be conducted on a commercial basis by a start-up. This robotic mission in the spring of 2023 aims to collect and analyze the first ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-08-ai-illuminates-permanently-shadowed-regions.html",
+      "originalUrl": "https://phys.org/news/2022-08-ai-illuminates-permanently-shadowed-regions.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/where-to-land-on-the-m.jpg",
+          "width": 1286,
+          "height": 643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-08-ai-illuminates-permanently-shadowed-regions.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-ai-illuminates-permanently-shadowed-regions.amp",
+      "publishedDateTime": "2022-08-29T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-aitxs-subsidiary-robotic-assistance-devices-introduces-rio-a-portable-solar-powered-security-solution.md",
       "title": "AITX’s Subsidiary Robotic Assistance Devices Introduces RIO, a Portable Solar-Powered Security Solution",
       "excerpt": "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX), today announced that its wholly owned subsidiary, Robotic Assistance Devices, Inc. (RAD) has introduced RIO™, a portable, solar-powered security solution.",
@@ -1304,49 +1347,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-uk-controlled-robot-ship-surveys-pacific-ocean-volcano.md",
-      "title": "UK-controlled robot ship surveys Pacific Ocean volcano",
-      "excerpt": "STORY: This robotic boat is gathering data on an underwater ... So we can actually hand over the control the vessel from this office to anywhere else in the world to control that vessel, which ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/uk-controlled-robot-ship-surveys-223917368.html",
-      "originalUrl": "https://www.aol.com/news/uk-controlled-robot-ship-surveys-223917368.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/Te1aUOdi2bR3iSWL67UfeA--~B/aD01NDA7dz05NjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/video.reutersnews.com/1de53623ef7800652c9baa31b6a9fd65",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T16:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

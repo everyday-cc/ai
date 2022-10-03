@@ -2,6 +2,180 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-06-15-how-do-you-insure-artificial-intelligence.md",
+      "title": "How do you insure artificial intelligence?",
+      "excerpt": "No doubt, this software has some built-in artificial intelligence (AI) elements. When insuring a vehicle manufacturer, it’s not too difficult to spot the potential for critical failure ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.canadianunderwriter.ca/insurance/how-do-you-insure-artificial-intelligence-1004222454/",
+      "originalUrl": "https://www.canadianunderwriter.ca/insurance/how-do-you-insure-artificial-intelligence-1004222454/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.canadianunderwriter.ca/uploads/2022/06/artifical-intelligence-picture-id143922813.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Canadian Underwriter",
+        "domain": "canadianunderwriter.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-dogs-with-cancer-needed-for-new-therapy-treatment-at-u-of-g.md",
+      "title": "Dogs with cancer needed for new therapy treatment at U of G",
+      "excerpt": "Researchers at the University of Guelph are hoping to revolutionize cancer care with an innovative treatment, and they need dogs with cancer to help with their clinical trial.",
+      "sourceUrl": null,
+      "webUrl": "https://kitchener.ctvnews.ca/dogs-with-cancer-needed-for-new-therapy-treatment-at-u-of-g-1.5946620",
+      "originalUrl": "https://kitchener.ctvnews.ca/dogs-with-cancer-needed-for-new-therapy-treatment-at-u-of-g-1.5946620",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2022/6/15/2465609/_jcr_content/renditions/videothumbnail.1655335354702.jpg",
+          "width": 1020,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/kitchener/2022/6/14/1_5946620.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/kitchener/2022/6/14/1_5946620.amp.html",
+      "publishedDateTime": "2022-06-14T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-the-artificial-intelligence-we-fear-is-our-own.md",
+      "title": "The Artificial Intelligence We Fear Is Our Own",
+      "excerpt": "A Google engineer has been ridiculed for his belief that a language model had become sentient. But the joke is on us if we continue AI research with only profit as the goal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/opinions/the-artificial-intelligence-we-fear-is-our-own",
+      "originalUrl": "https://www.pcmag.com/opinions/the-artificial-intelligence-we-fear-is-our-own",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/01H7KoLZImiw6QykYnwmu4S-1.fit_lim.size_1200x630.v1655156076.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-charles-river-crl-to-create-new-gene-therapy-for-hemophilia-a.md",
+      "title": "Charles River (CRL) to Create New Gene Therapy for Hemophilia A",
+      "excerpt": "Charles River Laboratories International, Inc. CRL recently inked an agreement with ASC Therapeutics, a privately-held biopharmaceutical company, to manufacture a second-generation gene therapy for hemophilia A,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/charles-river-crl-to-create-new-gene-therapy-for-hemophilia-a",
+      "originalUrl": "https://www.nasdaq.com/articles/charles-river-crl-to-create-new-gene-therapy-for-hemophilia-a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/charles-river-crl-to-create-new-gene-therapy-for-hemophilia-a?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/charles-river-crl-to-create-new-gene-therapy-for-hemophilia-a?amp",
+      "publishedDateTime": "2022-06-14T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-artificial-intelligence-in-precision-medicine-market-likely-to-boost-future-growth-by-2030-intel-ai-ibm-ge-healthcare-etc.md",
       "title": "Artificial Intelligence in Precision Medicine Market Likely to Boost Future Growth by 2030 | Intel AI, IBM, GE Healthcare, etc.",
       "excerpt": "The key vendors in the Global Artificial Intelligence in Precision Medicine Market include Intel AI, IBM, GE Healthcare, Thermo Fisher Scientific, Qiagen, Berg Health, Medasense Biometrics,",
@@ -1156,171 +1330,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-artificial-intelligence-spotted-inventing-its-own-creepy-language.md",
-      "title": "Artificial intelligence spotted inventing its own creepy language",
-      "excerpt": "An artificial intelligence program has developed its own language and no one can understand it. OpenAI is an artificial intelligence systems developer – their programs are fantastic examples of super-computing but there are quirks.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/06/03/artificial-intelligence-spotted-inventing-its-own-creepy-language/",
-      "originalUrl": "https://nypost.com/2022/06/03/artificial-intelligence-spotted-inventing-its-own-creepy-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/06/bird.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2022/06/03/artificial-intelligence-spotted-inventing-its-own-creepy-language/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/03/artificial-intelligence-spotted-inventing-its-own-creepy-language/amp/",
-      "publishedDateTime": "2022-06-03T19:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-how-ai-brings-accessibility-and-equity-to-healthcare.md",
-      "title": "How AI brings accessibility and equity to healthcare",
-      "excerpt": "Artificial intelligence can step in to provide quality care options at a lower cost for healthcare options. Companies like Vara and Paradromics are already working to increase access, affordability and ultimately healthcare outcomes — and investors are paying close attention.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/03/how-ai-brings-accessibility-and-equity-to-healthcare/",
-      "originalUrl": "https://venturebeat.com/2022/06/03/how-ai-brings-accessibility-and-equity-to-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/01-02-workflow.png?w=1200&strip=all",
-          "width": 1198,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/03/how-ai-brings-accessibility-and-equity-to-healthcare/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/03/how-ai-brings-accessibility-and-equity-to-healthcare/amp/",
-      "publishedDateTime": "2022-06-03T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-artificial-intelligence-in-healthcare-market-global-market-report-2022.md",
-      "title": "Artificial Intelligence in Healthcare Market Global Market Report 2022",
-      "excerpt": "The Artificial Intelligence in Healthcare market consists ... for stereotactic radiosurgery and stereotactic body radiation therapy treatment. In August 2021, Nurosene Health Inc., a health ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/g27539431/artificial-intelligence-in-healthcare-market-global-market-report-2022",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27539431/artificial-intelligence-in-healthcare-market-global-market-report-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-03T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-leading-healthcare-artificial-intelligence-company-raises-20m-series-a-extension.md",
-      "title": "Leading Healthcare Artificial Intelligence Company Raises $20m Series A Extension",
-      "excerpt": "Inspire's proprietary Inspire therapy is the first and only FDA-approved neurostimulation technology that provides a safe and effective treatment for moderate to severe obstructive sleep apnea.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27541804/leading-healthcare-artificial-intelligence-company-raises-20m-series-a-extension",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27541804/leading-healthcare-artificial-intelligence-company-raises-20m-series-a-extension",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27541804",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27541804",
-      "publishedDateTime": "2022-06-03T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

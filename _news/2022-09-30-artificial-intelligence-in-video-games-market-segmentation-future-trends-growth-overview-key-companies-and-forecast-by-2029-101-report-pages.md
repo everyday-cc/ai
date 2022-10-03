@@ -28,29 +28,43 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Drug Discovery Market Research By Growth, Regions, Type, Application and Forecast 2022-2030"
-    excerpt: "The report \"Artificial Intelligence in Drug Discovery Market - By Therapeutic Area (Oncology, Neurodegenerative Diseases, Cardiovascular Disease, Metabolic Diseases, Infectious Disease, Others); By Application;"
-    publishedDateTime: 2022-09-30T09:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-research-by-growth-regions-type-application-and-forecast-2022-2030-2022-09-30"
+  - title: "Artificial Intelligence in IoT Market Size, Sales, CAGR And Competition Data from 2022 To 2029 | 102 Report Pages"
+    excerpt: "Global “ Artificial Intelligence in IoT Market \" Report is a detailed and comprehensive analysis for global Artificial Intelligence in IoT market. Both quantitative and qualitative analyses are presented by manufacturers,"
+    publishedDateTime: 2022-09-30T00:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-size-sales-cagr-and-competition-data-from-2022-to-2029-102-report-pages-2022-09-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Translation Global Market Insights 2022, Analysis by Manufacturers, Regions, Technology, Application, Product Type."
-    excerpt: "Pre and Post Covid is covered and Report Customization is available. It is crucial for market participants to do"
-    publishedDateTime: 2022-10-01T03:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-translation-global-market-insights-2022-analysis-by-manufacturers-regions-technology-application-product-type-2022-09-30"
+  - title: "Deep-Learning Computing Unit (DCU) Market Size, Sales, CAGR And Competition Data from 2022 To 2028"
+    excerpt: "Number of Tables and Figures :130 | The global \"Deep-Learning Computing Unit (DCU) Market\"size is projected to"
+    publishedDateTime: 2022-09-30T03:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-computing-unit-dcu-market-size-sales-cagr-and-competition-data-from-2022-to-2028-2022-09-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Market Evolution Segmentation and Insight of Trends 2022 to 2029 with Top Countries Data | 103 Report Pages"
+    excerpt: "According to this latest study, In 2022 the growth of Voice Recognition Market is projected to reach Multimillion USD"
+    publishedDateTime: 2022-09-30T00:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-evolution-segmentation-and-insight-of-trends-2022-to-2029-with-top-countries-data-103-report-pages-2022-09-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

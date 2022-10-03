@@ -1,0 +1,53 @@
+---
+category: news
+title: "Trustworthy AI is now within reach"
+excerpt: "The new field of AI Ethics includes Responsible and Trustworthy AI, with the goal of doing no harm with artificial intelligence algorithms."
+publishedDateTime: 2022-09-30T03:29:00Z
+originalUrl: "https://venturebeat.com/ai/trustworthy-ai-is-now-within-reach/"
+webUrl: "https://venturebeat.com/ai/trustworthy-ai-is-now-within-reach/"
+ampWebUrl: "https://venturebeat.com/ai/trustworthy-ai-is-now-within-reach/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/trustworthy-ai-is-now-within-reach/amp/"
+type: article
+quality: 89
+heat: -1
+published: false
+
+provider:
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI Ethics
+  - AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-black_box_AI_explainable_AI_1324510115-e1662994691115.jpg?w=1200&strip=all"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "Three Reasons Why Artificial Intelligence Wins With Specialization"
+    excerpt: "When I began learning about artificial intelligence (AI) and machine learning (ML), it was from the perspective of trying to help very smart people do challenging tasks. This is opposed to learning about an AI algorithm and trying to see how far I could push it for the sake of science (which has its own merits) and then searching for an application in the real world."
+    publishedDateTime: 2022-10-03T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/03/three-reasons-why-artificial-intelligence-wins-with-specialization/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/03/three-reasons-why-artificial-intelligence-wins-with-specialization/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/03/three-reasons-why-artificial-intelligence-wins-with-specialization/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/626946974c931989078c7b6c/0x0.jpg?format=jpg&crop=1497,842,x0,y214,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "S4HypxnpVPX5QKkwgJfIyDAdfzmNf/xVsNKHsTHJ+SUr9zvGvijiFWTXjTGiTnASKnfds7TqlxWncqgc5Hxmmfafe/Gn2iiGJCHc5GLrWL+plIV8OkPBBvS6U8NySmcSM6nOXVPAd4C9gBTThltiJi8CLS5n80onrz06PqHomaZbSN9YHAkViXMjpFwG/0NrXTD63BKvbLUCcBYHJqYrvZmcL3A2yCd5ls/4pBHg8st5y8zhnw6uq1+VqN/jjj2igA9IZCJsrrEbFfpW+4ZJQgieQJ7kraiaPmdp/VKOlXHWc27y10YJbJcngTciLEnTUWJajSb/tCU0VVDCsOtf+ZPzcgsbYgfnEyZIxivgCTA=;z3a94VaeIRHsz1ZKvvSYoQ=="
+---
+

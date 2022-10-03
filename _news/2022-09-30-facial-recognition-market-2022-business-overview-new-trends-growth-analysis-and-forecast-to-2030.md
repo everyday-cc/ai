@@ -71,6 +71,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision Market : Competitive Landscape and Analysis by Recent Trends 2022 to 2029 | 99 Report Pages"
+    excerpt: "According to this latest study, In 2022 the growth of Computer Vision Market is projected to reach Multimillion USD"
+    publishedDateTime: 2022-09-30T00:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-competitive-landscape-and-analysis-by-recent-trends-2022-to-2029-99-report-pages-2022-09-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Thermometer with Face Recognition Market 2022 Key Product Segments, Application Analysis, and Industry Growth Forecast by 2028"
+    excerpt: "Thermometer with Face Recognition Market Research Report is spread across 105 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
+    publishedDateTime: 2022-09-30T04:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/thermometer-with-face-recognition-market-2022-key-product-segments-application-analysis-and-industry-growth-forecast-by-2028-2022-09-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "HLdJOT44EVNogR/GAvTFjEvQ5TYaWIyi2NQiIBLktP/5YW/VLDjJbvcj+joldF9X+S5IkGWwsnFVJJ2crC12uUZAxxClmk+wZ1jauYm4k5InYOhw/BWhJlUu9WK1yZUiG7rBFqGDuuzzyc12n08GB7uGl6PPNapXExIa1qadokjQgTk1UFeFu/6638tuJP34lsXnHTmioyVfK8D4Uw4YY2TG2JJcAksDga2HLKIW+qwagCbQqQJFZzXUgi9r4x1bcU7/ZokAYs/NMAGa1yb+racWODPjZY9GWQKl/WofrBkEZrPTZhDlxb/JpQi75UI/4sIpL/13HVgXMfkurDrUJLyTDTtHrz5isp+QbPJ2YqE=;PlU/Sf5WGN7AaADqgM/x2A=="
 ---

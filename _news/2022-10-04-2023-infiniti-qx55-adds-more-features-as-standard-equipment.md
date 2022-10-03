@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-03T19:31:00Z
 originalUrl: "https://www.heraldnet.com/life/2023-infiniti-qx55-adds-more-features-as-standard-equipment/"
 webUrl: "https://www.heraldnet.com/life/2023-infiniti-qx55-adds-more-features-as-standard-equipment/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: HeraldNet

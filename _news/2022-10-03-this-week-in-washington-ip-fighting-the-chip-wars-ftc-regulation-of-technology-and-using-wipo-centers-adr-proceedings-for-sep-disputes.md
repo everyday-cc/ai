@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-03T16:15:00Z
 originalUrl: "https://www.ipwatchdog.com/2022/10/03/week-washington-ip-fighting-chip-wars-ftc-regulation-technology-using-wipo-centers-adr-proceedings-sep-disputes/id=151828/"
 webUrl: "https://www.ipwatchdog.com/2022/10/03/week-washington-ip-fighting-chip-wars-ftc-regulation-technology-using-wipo-centers-adr-proceedings-sep-disputes/id=151828/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: IPWatchdog
