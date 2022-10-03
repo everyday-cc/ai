@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/image-generating-ai-is-now-m
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/image-generating-ai-is-now-more-accessible-to-the-public/?amp"
 type: article
 quality: 87
-heat: 127
+heat: 97
 published: true
 
 provider:
@@ -44,40 +44,6 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "DALL-E AI Art Generator Finally Opens Doors to Wider Internet"
-    excerpt: "OpenAI, the makers of DALL-E 2, said Wednesday it’s removing the waitlist, but it's stepping into a realm that's mired in controversy."
-    publishedDateTime: 2022-09-28T17:35:00Z
-    webUrl: "https://gizmodo.com/dall-e-art-generator-ai-openai-1849591740"
-    ampWebUrl: "https://gizmodo.com/dall-e-art-generator-ai-openai-1849591740/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/dall-e-art-generator-ai-openai-1849591740/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 67
-  - title: "DALL-E's AI art generator is now (sort of) available to everyone"
-    excerpt: "The company has dropped the waiting list for the DALL-E beta, making the technology available to everyone. If you want to create art, you just have to sign up (if you can get past the authentication glitch that exists as we write this) and start describing the pieces you'd like to produce."
-    publishedDateTime: 2022-09-28T18:10:00Z
-    webUrl: "https://www.engadget.com/dall-e-ai-image-generator-beta-no-waitlist-173746483.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 67
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-09/1472c480-3f51-11ed-9274-61031f47cbe1"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "A doctor walks into a bar: Tackling image generation bias with Responsible AI"
-    excerpt: "Every company building AI today needs a Responsible AI strategy to find and mitigate bias in image generation."
-    publishedDateTime: 2022-09-28T18:07:00Z
-    webUrl: "https://venturebeat.com/ai/doctor-walks-into-bar-image-generation-bias-responsible-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 46
 
 secured: "wFraLsY8Jeel+3p8VtTytv3ytQJRqFWXznU/kqO28ypRCdW9JSrze0hGhMZ4+o7StHiLxuUpi9s7YafEAR1riyqkv4dWG0wUZvqI9quexRJETwxPfUtqRMPv0G5f7/lw8nQOt8t9mMkq45SHmuVBMxW5o3b05oCM5lx42MIK/j5VtzgDK7SCUz2yi3zFgqtpjvK0BjPV65puIhYMm0sGlmx2aFlmqrvCM90DRnsCcHWkyfluD5MA0x6cHBYFArr6IDMCdVenqhd3E/IbYnYJtJidvk3PleduEsWwrMMlV1jFE2rzsFA1ELzuGMZrbh//eoSI6X4kvsJeUWtQnQEBRZ2W9p30k64vwOZ3j5VC1U1W9Y1vlThMM7AX7mb9+rancqX2BvZI+O9gYZ89uTVv6FkX2TjknTYQ/eeV6pzWne7RA3OvhJGvasE3u1R6DMykw0tXMhHgG6Ll0Gmm0zStdf4xrlXwF88WgcQSPdjacaQNwsKcqmikVldlm3vZWc20E3mppVtbq2SmuWN227hVZw==;mBx99AAnqlnIUpaZPR4lNQ=="
 ---

@@ -35,15 +35,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "Amazon's self-driving units coming 'sooner than people expect'"
-    excerpt: "The chief executive officer of Zoox, Amazon.com Inc.'s self-driving unit, expects autonomous vehicles to be present in cities \"sooner than people expect,\" but stopped short of saying when her own company's product would appear on roads."
-    publishedDateTime: 2022-09-28T18:13:00Z
-    webUrl: "https://techxplore.com/news/2022-09-amazon-self-driving-sooner-people.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 4
 
 secured: "w6QHUywzaXLePj12c4DFsGGsx1fdXpifARzJzT1pB6MNjCRTW4hoLXiENQJWxRqRcNasKZsnHEx8sZ/QjExIqYfrbKrPn2duOLpmX/JFvONAZ/JipFMvQ08HfuA2l+fWGYJxveApr+hAjj1fMXCRtKJWeCfO/eLRRmP+CaHZ6hzWPByGqDvKPBOmqK3/HlGLShORmN62CLVv09q/V4FeL0NijznGDUA9VMQkhJyQ1FFm83cK+EBgqSSDDDbFWk1SM6fNZBCs0z1AXcS/1Z2asObwFpwMTMDZRWMcxZWt4VUu3e/f7i/Y9KLX58791hcKBjeGgQ2glyvfMI5N/lGjpsCWkqQ4frrm9+JXpVI9ltwc1EnPzegBX9o4vrS9JlUFm39SwJIBwEsNTaydkVXPGu0X7TU2cLa098cdXykKe8z3FUHvMZsCg975V7pMNVNQ+t9Yw2pF4I+7n/ssfNin6YMShyJ6l2NxCTlKB+W/LWHnpvyCSZLLOwfGHgK8bUJre4vXSEn/OV2lB9jwdUSwUQ==;ELfqCPM51ns1CNx4EyAcYw=="
 ---

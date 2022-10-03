@@ -64,15 +64,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Oregon State University’s Cassie the robot just broke a Guinness World Record"
-    excerpt: "Oregon State University’s very own Cassie just broke the Guinness World Record for the fastest 100 meters by a bipedal robot. Before Cassie’s introduction in 2017, OSU received a 16-month, $1 million grant from Defense Advanced Research Projects Agency to fund the project."
-    publishedDateTime: 2022-09-28T17:56:00Z
-    webUrl: "https://www.koin.com/news/oregon-state-universitys-cassie-the-robot-just-broke-a-guinness-world-record/"
-    type: article
-    provider:
-      name: KOIN 6
-      domain: koin.com
-    quality: 16
 
 secured: "tH2udaoj2Tye2mmLPcQ6NTkpSNy86zbfD6Fpe7BZADwBwvAgU/uyIoTDWgxsBRlFjF7rHtXvESSQvDu0Io+BdQvrQHDGmpYxdhtgQCOK3lP8hGB5ZgIQIVMNX5dKNZfRCVdHtAJuwBWv3lK4RYrEItJeE9FLLLpNK1ycdYAykttvjiFNBylyYLIlox3umohOKgaSKf78Unmtc8KL+cvGcmCvnm8qG4yhq6MgLn2JAhjbXC2A6Wpw1s3Bg2IWWHHn45kivhdlsOmVg5HEGn3TWd1gpXYuTN+h/3CK4izSD79ePGE43iW1A9hrW4gZ2AeEMjLFR6QL+eHelFlxknQPG+ab5Mm2PFzbzp3nlWTGlYGJqidhHu7k6mQ4ayUWy61622KxlwJ32Qu1HhZRU48bHpJ2K26gwdld+VmxfLbg/BRIHqNZtUvSBTsGiiPoEuQpLQwVOrAFWMSZz0If0MEFto81d1whwJ/Dlf2xKxRMSRWJ0GNht24OOJA9DRXRZlVOR8kiH+jirH9PBmbJCyte5A==;tlZFjahAblpDnIwPwW4j/Q=="
 ---

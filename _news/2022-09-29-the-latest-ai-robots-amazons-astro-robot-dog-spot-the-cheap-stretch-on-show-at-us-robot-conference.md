@@ -30,37 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon's household robot Astro can now recognize your cats and dogs"
-    excerpt: "Now Amazon's friendly house robot Astro will bring checking in on your pets to a whole new level. Amazon announced today that the Astro will soon be able to detect cats and dogs in the home. The pet recognition will allow the robot to,"
-    publishedDateTime: 2022-09-28T17:33:00Z
-    webUrl: "https://www.zdnet.com/home-and-office/smart-home/amazons-household-robot-astro-can-now-recognize-your-cats-and-dogs/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/home-and-office/smart-home/amazons-household-robot-astro-can-now-recognize-your-cats-and-dogs/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/smart-home/amazons-household-robot-astro-can-now-recognize-your-cats-and-dogs/"
+  - title: "Beyond Killer Robots: How AI impacts security, military affairs"
+    excerpt: "Nations that set limits on AI capabilities may encounter adversaries who have no qualms about doing so, putting them at a disadvantage."
+    publishedDateTime: 2022-09-30T16:53:00Z
+    webUrl: "https://www.c4isrnet.com/unmanned/robotics/2022/09/30/beyond-killer-robots-how-ai-impacts-security-military-affairs/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 91
+      name: C4ISRNET
+      domain: c4isrnet.com
+    quality: 71
     images:
-      - url: "https://www.zdnet.com/a/img/resize/374d54dc3923c98af0cea39805fd86bf0edad6bf/2022/09/28/31ede2b8-bbf6-46b3-ba51-9f6a9032a60c/screen-shot-2022-09-28-at-12-39-13-pm.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 664
-        isCached: true
-  - title: "Amazon upgrades $1,000 Astro robot"
-    excerpt: "Astro, which was by Amazon introduced last year, uses a periscope camera with an expandable field of view to patrol your home and notify you when it detects something unusual."
-    publishedDateTime: 2022-09-30T21:00:00Z
-    webUrl: "https://www.foxbusiness.com/technology/amazons-upgrades-1000-astro-robot"
-    ampWebUrl: "https://www.foxbusiness.com/technology/amazons-upgrades-1000-astro-robot.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/amazons-upgrades-1000-astro-robot.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 59
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/89b99030-03ba-41b8-ae3b-171cecf8aade/8ff0bec9-d0ec-4778-aa46-b08d9e858566/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.c4isrnet.com/resizer/Uwpm-Wm0MVv3xtPlt_6-IJ3KRpk=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/7375MPBJAZHYPBNQR5NDGYYKGM.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "eTIdTzIGf12A7nxvHx5S6ERJHynxCtn1gVC+xaUtpKN719qU/iP9NKK6AAz8ylZ9Fi3lspyh0EGhFH9qwx6Pli4Y4K83+uf1XqNEjDnQ9EBUeg4YrJSA4RgV8IPL2BDWzr3efaW/Cb1nwKeyvb9znReE4RGaueMOK5ybNAIKjjccQppCNA9KF8KyzmuZqOQ4N2uDkdRorh/MYhj0H5cdhqexOKalW3NBuAnJ0m3npr3LAM2AqFGq7P/fHdXQwNYniw4aU8610/L2Ekn7RQ5uV/o0YZOkojR4/mDXO9khJi7WGTA25uxomahHnQwVBKwFHfld+VZoxMJwTwd4yTuaqvWoXdR2Zv/pzMo8jK3WA9izz2BUV1u1OcPUqreWvbgPXHVQdQ8sD/S4IChePQ9EYk2RXzXUZCwTvTzMm2UUlLjGvyl5AgSbse+XY8TDZNXGwwBy+DA9AZRJ8+PhUVdn/cCxZgjjhXG8SwH+erRdsVR6uSx5enwsXYTNCFiDcTHHtk92lH2AbFuWhTbYE2sc6A==;P2xi7+/5d5a7fo25xLN7/g=="

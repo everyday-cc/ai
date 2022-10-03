@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/self-taught-ai-may-have-a-lot-in-commo
 webUrl: "https://www.wired.com/story/self-taught-ai-may-have-a-lot-in-common-with-the-human-brain/"
 type: article
 quality: 71
-heat: 72
+heat: 73
 published: true
 
 provider:

@@ -153,22 +153,6 @@ related:
         width: 1200
         height: 642
         isCached: true
-  - title: "Our top 4 Tesla AI day predictions"
-    excerpt: "An Optimus robot prototype, updates to FSD, a Tesla robotaxi and more on the Dojo supercomputer are what we expect at Tesla AI Day."
-    publishedDateTime: 2022-09-28T19:00:00Z
-    webUrl: "https://techcrunch.com/2022/09/28/our-top-4-tesla-ai-day-predictions/"
-    ampWebUrl: "https://techcrunch.com/2022/09/28/our-top-4-tesla-ai-day-predictions/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/28/our-top-4-tesla-ai-day-predictions/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 106
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/09/tesla-ai-day.jpeg?resize=960,1200"
-        width: 960
-        height: 1200
-        isCached: true
   - title: "Tesla AI Day 2022: Watch and get all the news"
     excerpt: "Tesla is holding its AI Day 2022 tonight in Palo Alto, California, and Electrek has you covered with the livestream."
     publishedDateTime: 2022-09-30T19:35:00Z

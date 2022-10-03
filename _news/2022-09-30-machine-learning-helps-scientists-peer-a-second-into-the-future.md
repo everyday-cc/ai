@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Machine learning helps scientists peer (a second) into the future"
-    excerpt: "The past may be a fixed and immutable point, but with the help of machine learning, the future can at times be more easily divined."
-    publishedDateTime: 2022-09-28T17:36:00Z
-    webUrl: "https://phys.org/news/2022-09-machine-scientists-peer-future.html"
-    ampWebUrl: "https://phys.org/news/2022-09-machine-scientists-peer-future.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-machine-scientists-peer-future.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/machine-learning-helps-2.jpg"
-        width: 700
-        height: 403
-        isCached: true
   - title: "Machine learning helps scientists peer into the future"
     excerpt: "Using a new type of machine learning method called next generation reservoir computing, researchers at The Ohio State University have recently found a new way to predict the behavior of spatiotemporal chaotic systems – such as changes in Earth’s weather – that are particularly complex for scientists to forecast."
     publishedDateTime: 2022-09-29T09:46:00Z
