@@ -1,0 +1,63 @@
+---
+category: news
+title: "Facial Recognition Market 2022 | Business Overview, New Trends, Growth Analysis, And Forecast To 2030"
+excerpt: "Key Companies Covered in the Facial Recognition Market Research are International Business Machines Corporation (IBM), Aware, Inc., 3M, NEC Corporation, Cognitec Systems GmbH, Daon Crossmatch, Nuance Communications Inc."
+publishedDateTime: 2022-09-30T12:59:00Z
+originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2022-business-overview-new-trends-growth-analysis-and-forecast-to-2030-2022-09-30"
+webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2022-business-overview-new-trends-growth-analysis-and-forecast-to-2030-2022-09-30"
+type: article
+quality: 54
+heat: -1
+published: false
+
+provider:
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "AI-based Surgical Robots Market Growth and Future Analysis : Exclusive Report by Fortune Business Insights 2022"
+    excerpt: "The \"AI-based Surgical Robots Market Size\" industry report contains detailed information on factors influencing"
+    publishedDateTime: 2022-09-29T06:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-growth-and-future-analysis-exclusive-report-by-fortune-business-insights-2022-2022-09-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Accounting Market : Industry Analysis 2022 To 2029 based on Sales, Revenue, Size and Share | 104 Report Pages"
+    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence in Accounting Market is projected to"
+    publishedDateTime: 2022-09-30T00:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-industry-analysis-2022-to-2029-based-on-sales-revenue-size-and-share-104-report-pages-2022-09-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "HLdJOT44EVNogR/GAvTFjEvQ5TYaWIyi2NQiIBLktP/5YW/VLDjJbvcj+joldF9X+S5IkGWwsnFVJJ2crC12uUZAxxClmk+wZ1jauYm4k5InYOhw/BWhJlUu9WK1yZUiG7rBFqGDuuzzyc12n08GB7uGl6PPNapXExIa1qadokjQgTk1UFeFu/6638tuJP34lsXnHTmioyVfK8D4Uw4YY2TG2JJcAksDga2HLKIW+qwagCbQqQJFZzXUgi9r4x1bcU7/ZokAYs/NMAGa1yb+racWODPjZY9GWQKl/WofrBkEZrPTZhDlxb/JpQi75UI/4sIpL/13HVgXMfkurDrUJLyTDTtHrz5isp+QbPJ2YqE=;PlU/Sf5WGN7AaADqgM/x2A=="
+---
+

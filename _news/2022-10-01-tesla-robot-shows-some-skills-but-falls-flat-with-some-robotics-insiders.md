@@ -60,19 +60,16 @@ related:
         height: 558
         isCached: true
   - title: "Tesla robot walks, waves, but doesn’t show off complex tasks"
-    excerpt: "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company's artificial intel"
-    publishedDateTime: 2022-10-02T03:02:00Z
-    webUrl: "https://www.columbian.com/news/2022/oct/01/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/"
+    excerpt: "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company’s artificial intelligence event Friday."
+    publishedDateTime: 2022-10-02T06:33:00Z
+    webUrl: "https://www.seattletimes.com/business/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/"
+    ampWebUrl: "https://www.seattletimes.com/business/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/?amp=1"
     type: article
     provider:
-      name: The Columbian
-      domain: columbian.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 56
-    images:
-      - url: "https://pcdn.columbian.com/wp-content/uploads/2022/10/Tesla_Robot_47794.jpg-2f81c.jpg"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "aYN8m9Jbyz5o4cjCquozuwsH/F/tY3lYDF4EH6NtzwTaHlgDfcnDDn4AFis3DUpCCEDrqZqkM9SbqWC3Uw/qF+QE+eyFMVOEg1j2n9DugETKjT9AQEt8ZE7YLwD1ykl7+mqM6EthU/ruplZ8VLGoyoHdQb4wUUyPN2ODmgtVzNGJiNzh5KbR/L5CMwwIS64bbpr1xu3V+hAUOp/Dv3mU2I/t3bKPz7XguJdod5ZR9J+bjoqo6/KHsYIr7+Ah8T8jfHv7tl3UzO31S/J63dbxyEc8bawry3HxvuquqTrKLidOQl/DWYJ79bF9gFy0YlELsou4pO/Im1nQkcV8HuZbXzRTCfUx2Yu7M4qns5vf6a3CkcHa9WIpyGurI/Jz2n5RHZIAsdI9rzKhBDda4vpiY13uAVW0ALavbAwTSkvSXRoI/fvBCnFCAreaDuMGLL7Ibc2DDdhvRIMVQzhejSnDia61P8V/VNfwsSKFYSQgTdRC5u7CxbPxJoyTqr5D6gumQPjf0VhQKyEQQhAvPgtdQw==;Kd5lK8b9RsM7ubmEqE3vNg=="
 ---

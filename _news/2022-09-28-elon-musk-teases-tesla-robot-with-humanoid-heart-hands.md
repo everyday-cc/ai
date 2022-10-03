@@ -528,16 +528,16 @@ related:
   - title: "Tesla, Elon Musk show off early prototype 'Optimus' robot"
     excerpt: "But the basic tasks by the robot with exposed wires and electronics — as well as a later, next generation version that had to be carried onstage by three men — was a long way from CEO Elon Musk's vision of a human-like robot that can change the world."
     publishedDateTime: 2022-10-01T23:58:00Z
-    webUrl: "https://www.firstcoastnews.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+    webUrl: "https://www.khou.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
     type: article
     provider:
-      name: First Coast News
-      domain: firstcoastnews.com
+      name: KHOU 11
+      domain: khou.com
     quality: 76
     images:
-      - url: "https://media.firstcoastnews.com/assets/CCT/images/ee0a47a3-adbd-488e-b57b-07df25f393af/ee0a47a3-adbd-488e-b57b-07df25f393af_1140x641.jpg"
+      - url: "https://media.khou.com/assets/CCT/images/ee0a47a3-adbd-488e-b57b-07df25f393af/ee0a47a3-adbd-488e-b57b-07df25f393af_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -749,6 +749,20 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2022/10/220930182442-02-tesla-ai-day-0930-robot.jpg"
         width: 1600
         height: 889
+        isCached: true
+  - title: "Musk Unveils Tesla's Prototype of Humanoid Robot 'Optimus'"
+    excerpt: "Elon Musk has showed off a new humanoid, part of the Tesla Inc. chief executive's effort to shape public perception of the company as more than an electric-vehicle maker."
+    publishedDateTime: 2022-10-02T21:52:00Z
+    webUrl: "https://www.bangkokpost.com/business/2405606/musk-unveils-teslas-prototype-of-humanoid-robot-optimus"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 56
+    images:
+      - url: "https://static.bangkokpost.com/media/content/dcx/2022/10/03/4471241_700.jpg"
+        width: 700
+        height: 414
         isCached: true
   - title: "Elon Musk Reveals Prototype Humanoid Tesla Robot at AI Day"
     excerpt: "The Tesla robot walks and waves, though CEO Elon Musk claims it has more advanced functions. Those weren't shown on stage."

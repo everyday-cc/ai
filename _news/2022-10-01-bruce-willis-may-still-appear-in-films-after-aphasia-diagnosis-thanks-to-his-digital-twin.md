@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Bruce Willis Rep Confirms Actor Did Not Sell Rights To His Face To Russian AI Production Company"
+    excerpt: "Bruce Willis did not sell the rights to his face to artificial intelligence production company Deepcake like rumors have stated."
+    publishedDateTime: 2022-10-02T21:50:00Z
+    webUrl: "https://www.ibtimes.com/bruce-willis-rep-confirms-actor-did-not-sell-rights-his-face-russian-ai-production-company-3619386"
+    ampWebUrl: "https://www.ibtimes.com/bruce-willis-rep-confirms-actor-did-not-sell-rights-his-face-russian-ai-production-company-3619386?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/bruce-willis-rep-confirms-actor-did-not-sell-rights-his-face-russian-ai-production-company-3619386?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 46
+    images:
+      - url: "https://d.ibtimes.com/en/full/3455646/bruce-willis-one-most-bankable-stars-hollywood-having-starred-mega-hit-die-hard-its-sequels.jpg"
+        width: 768
+        height: 533
+        isCached: true
   - title: "Bruce Willis has no deal with company that created his 'digital twin': rep"
     excerpt: "Bruce Willis has retired from making movies since his aphasia diagnosis, but he may continue to be an action star. How? Well, technology."
     publishedDateTime: 2022-09-30T22:09:00Z

@@ -53,19 +53,16 @@ related:
         height: 558
         isCached: true
   - title: "Tesla robot walks, waves, but doesn’t show off complex tasks"
-    excerpt: "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company's artificial intel"
-    publishedDateTime: 2022-10-02T03:02:00Z
-    webUrl: "https://www.columbian.com/news/2022/oct/01/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/"
+    excerpt: "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company’s artificial intelligence event Friday."
+    publishedDateTime: 2022-10-02T06:33:00Z
+    webUrl: "https://www.seattletimes.com/business/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/"
+    ampWebUrl: "https://www.seattletimes.com/business/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/?amp=1"
     type: article
     provider:
-      name: The Columbian
-      domain: columbian.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 56
-    images:
-      - url: "https://pcdn.columbian.com/wp-content/uploads/2022/10/Tesla_Robot_47794.jpg-2f81c.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Tesla Robot Shows Some Skills, But Falls Flat With Some Robotics Insiders"
     excerpt: "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company’s artificial intelligence event Friday."
     publishedDateTime: 2022-10-01T07:12:00Z

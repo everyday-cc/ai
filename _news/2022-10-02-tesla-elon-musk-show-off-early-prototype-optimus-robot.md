@@ -394,6 +394,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Watch: EV maker Tesla unveils robot Optimus on AI Day"
+    excerpt: "Tesla CEO Elon Musk said Optimus is a capable robot and it is expected to cost less than a car. The EV maker wants to make manufacture millions of units of the robot."
+    publishedDateTime: 2022-10-02T23:22:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/watch-ev-maker-tesla-unveils-robot-optimus-on-ai-day-41664710520640.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/watch-ev-maker-tesla-unveils-robot-optimus-on-ai-day/amp-41664710520640.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/watch-ev-maker-tesla-unveils-robot-optimus-on-ai-day/amp-41664710520640.html"
+    type: article
+    provider:
+      name: Auto News India
+      domain: hindustantimes.com
+    quality: 91
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2022/10/02/1600x900/Tesla-optimus_1664710714621_1664710721230_1664710721230.jpg"
+        width: 1600
+        height: 898
+        isCached: true
   - title: "Tesla just gave us a fresh glimpse of its humanoid robot ahead of its big AI Day event. What we know so far about the Optimus project."
     excerpt: "Elon Musk has said the robot could more important than its car business, but it'll join a long list of projects that haven't yet seen the light of day."
     publishedDateTime: 2022-09-30T16:42:00Z
@@ -680,20 +696,6 @@ related:
         width: 1920
         height: 936
         isCached: true
-  - title: "Elon Musk teases Tesla robot with humanoid ‘heart’ hands"
-    excerpt: "Elon Musk has teased the unveiling of a humanoid robot during Tesla ’s annual AI Day this week. The tech billionaire shared an image of robotic hands making a heart shape, together with the 30 September date for the artificial intelligence event."
-    publishedDateTime: 2022-09-28T05:50:00Z
-    webUrl: "https://www.independent.co.uk/tech/tesla-robot-elon-musk-optimus-ai-day-b2176994.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 56
-    images:
-      - url: "https://static.independent.co.uk/2020/08/19/11/breaking-news.png?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Elon Musk Set To Showcase Tesla's Humanoid Robot After Delay"
     excerpt: "Tesla CEO Elon Musk has said a robot business will be worth more than its cars, and on Friday investors, customers and potential workers expect t"
     publishedDateTime: 2022-10-01T03:46:00Z
@@ -750,6 +752,20 @@ related:
         width: 1600
         height: 889
         isCached: true
+  - title: "Musk Unveils Tesla's Prototype of Humanoid Robot 'Optimus'"
+    excerpt: "Elon Musk has showed off a new humanoid, part of the Tesla Inc. chief executive's effort to shape public perception of the company as more than an electric-vehicle maker."
+    publishedDateTime: 2022-10-02T21:52:00Z
+    webUrl: "https://www.bangkokpost.com/business/2405606/musk-unveils-teslas-prototype-of-humanoid-robot-optimus"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 56
+    images:
+      - url: "https://static.bangkokpost.com/media/content/dcx/2022/10/03/4471241_700.jpg"
+        width: 700
+        height: 414
+        isCached: true
   - title: "Elon Musk Reveals Prototype Humanoid Tesla Robot at AI Day"
     excerpt: "The Tesla robot walks and waves, though CEO Elon Musk claims it has more advanced functions. Those weren't shown on stage."
     publishedDateTime: 2022-10-02T13:51:00Z
@@ -805,6 +821,6 @@ related:
       domain: thesun.co.uk
     quality: 28
 
-secured: "RNl90m92Yal6d/UeZXkNA1vLIGnqEJJIK95wAQxE+mZB842ALMSGJIYb2I05wEaZZ90pAPfiG/3PvKlY2o3u4yvqY3c/W42A5iKmD6F3TK9bD/5dotJlS4wSiQ+8Q5dvrwWnIrqr1/4FMN74O5xP/NJ0gEHu+VIaNjb94gunxkxsE/BE8yZl+x78ZdCmdd7aUY5vrTw/ERqGQkcsCCJIXGwNzkxhv9p5Xx0CH/KDB/mhN2EhbrwTBkaJdKnzmkgoPOwQK6pP+SSwiKSvvQMi3254szkJzcvZ7fV5qp8nKf1H2OUC3oehr55z/eeg8ZvNbkZvUOGA6+ZGLifJKSl+OuAtJ6Aooh6f4AEu7v9xHRYfa2mZqS4PrP0zhKE8wKh1E+ee2GcH3eZLecTVq14XCCYhzhm0PYRZjofwkbKYnAoaSKKabmpJtoEeMqqjtmd9GarQoqQReFKcJh0AQudXSxo73pjUGa6Z7K/v5ehdI9niiMNK7RrFC9b7n1wwyyX0Pl214chpBMXecC2ejGuz/A==;R5SUkM0Lpf/7yegAFNoR8Q=="
+secured: "OTcNGjYcNBlOiAv+P+oMlq2Pt+EWaU22UptBaAqA+ekzEWKXnnxNkzgs2nh36djVXX+NG2qBJ+EMHHa3y4fXLVTGoHZH/o1e8fgmE6w18yLyzhLJfTTVEvMQbzSjNKu0uSmLCN/rHVJ7d0RjzTzCnVH4pFGgi6Dq75R56tMeyzQP9NIb6bpjszvmnYrEZJsFFO9bBH78GwQBF2O8zpN0+wlhn6G8UPuC+vqsrLHSihlDHJaPO4NtQLhAHwH+Pn6N3P+vTt/AAALbqJsodLM5MNzjnfuX3MvZ8MaG32Pt6AN2Yff2KYJOfalpjTFM8U0A8dErS+iSA+GwSsVjIXxAP9EHSO+60E3IBSFGw14jVok=;9TVKWFPBYP7HwMI1xu/uGw=="
 ---
 

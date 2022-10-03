@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/image-generating-ai-is-now-m
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/image-generating-ai-is-now-more-accessible-to-the-public/?amp"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 46
-  - title: "AI can now create any image in seconds, bringing wonder and danger"
-    excerpt: "DALL-E has triggered an explosion of images generated using artificial intelligence. But the technology is spreading faster than creators can shape norms around its use."
-    publishedDateTime: 2022-09-28T07:00:00Z
-    webUrl: "https://www.washingtonpost.com/technology/interactive/2022/artificial-intelligence-images-dall-e/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PGYJP5A3SJFCZID63SWV4WOQ44.jpg&w=1200"
-        width: 1200
-        height: 787
-        isCached: true
 
 secured: "wFraLsY8Jeel+3p8VtTytv3ytQJRqFWXznU/kqO28ypRCdW9JSrze0hGhMZ4+o7StHiLxuUpi9s7YafEAR1riyqkv4dWG0wUZvqI9quexRJETwxPfUtqRMPv0G5f7/lw8nQOt8t9mMkq45SHmuVBMxW5o3b05oCM5lx42MIK/j5VtzgDK7SCUz2yi3zFgqtpjvK0BjPV65puIhYMm0sGlmx2aFlmqrvCM90DRnsCcHWkyfluD5MA0x6cHBYFArr6IDMCdVenqhd3E/IbYnYJtJidvk3PleduEsWwrMMlV1jFE2rzsFA1ELzuGMZrbh//eoSI6X4kvsJeUWtQnQEBRZ2W9p30k64vwOZ3j5VC1U1W9Y1vlThMM7AX7mb9+rancqX2BvZI+O9gYZ89uTVv6FkX2TjknTYQ/eeV6pzWne7RA3OvhJGvasE3u1R6DMykw0tXMhHgG6Ll0Gmm0zStdf4xrlXwF88WgcQSPdjacaQNwsKcqmikVldlm3vZWc20E3mppVtbq2SmuWN227hVZw==;mBx99AAnqlnIUpaZPR4lNQ=="
 ---

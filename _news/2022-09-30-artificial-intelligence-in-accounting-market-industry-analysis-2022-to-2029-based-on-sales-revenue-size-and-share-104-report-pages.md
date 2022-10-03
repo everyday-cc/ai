@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Market 2022 | Business Overview, New Trends, Growth Analysis, And Forecast To 2030"
+    excerpt: "Key Companies Covered in the Facial Recognition Market Research are International Business Machines Corporation (IBM), Aware, Inc., 3M, NEC Corporation, Cognitec Systems GmbH, Daon Crossmatch, Nuance Communications Inc."
+    publishedDateTime: 2022-09-30T12:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2022-business-overview-new-trends-growth-analysis-and-forecast-to-2030-2022-09-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "dOEthgONf6JL6Z+r14U9/1HzDCrUudFVmiusHRxsOLbZr0LWR8Ufc66pIHO0P0FTvHMfQnD9S4ZG0tEhfG9OfQkef0wAbAobDBCIkLlVSAfjmzO4P0rR3sHW/Y5LtjZUpiTUoXJenvUqKhERla3mT3Rmo0zZO0eMU0afJGyPmxINqun8/ndxr3OV6wuwEXNbT1bVxPT1P5BuZSuuS0MWl21xM0pRmGJ/d6Fv8jAMuTAor+rtPf3UXK8L0HPiFvbsNtpYAFRS0Poi4Taoo9vLWgMdpZVPBJGCsoCXbN9fUugpG/s5EApKuGlHPbVZGMZiweSAI8qG9438Qx8+5p5qS0GGpGFQgX2nq9YgxMaUQ1A=;GbJbN0ZBKF0558NHhpeyKA=="
 ---

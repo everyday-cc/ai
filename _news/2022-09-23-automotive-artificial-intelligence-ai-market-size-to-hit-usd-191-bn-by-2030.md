@@ -5,6 +5,8 @@ excerpt: "The global automotive artificial intelligence (AI) market size was val
 publishedDateTime: 2022-09-22T21:00:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030"
 webUrl: "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030"
+ampWebUrl: "https://www.benzinga.com/amp/content/28977012"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28977012"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "IagZb+IP1NDCG1r6PlynwJbfC/4UlqXRYMJs0ZaSQ/WwgUoQ9r2V5pVZ/k9FcZhBpp3AX7jarWU4TsvcB2FWORmcz/JIUy1309y/HjsK6DuqH+Z5ZKbFq5WdcyUhcGqXwI9Tcfx1Q13xz3nLmbO3nFmPzMkBrU3GhQ7PxRcg1sPGIfALXvxAS/QGF1Yp4hgvvpKAs/lLX+tQbdjy4qaakzcDsCE/PPy8agTilfV/LJ0+zEM54Rf47X7VzBK0Mq2VB1ywDEMo6/1lOVmZNyRvnKxk9Z7MyEqUIcUcbh8PaoWbd2ZKGqqWTGjNTSsYwS+sM9DwYj0nQ7LM8KvfweB+4WLF/umNI6nkWGoGuLQ1pwU=;aLMEGmzXEQxyC+d6fshFBw=="
+images:
+  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/28171512/image-55-1024x683.png"
+    width: 1024
+    height: 683
+    isCached: true
+
+secured: "vhekgVdAaKpwC0yNEZ/XUEiu3sO6RH6hw76dlcs/OBWm8qQS3SYk58vTIUIHlSM6W2XbwG20m8FPXLgaIbnTZPykycV/E8FU3kaMnFHfzbGOLh0trH8T03BrtMsXk0/QldirI2viAfGs6qmEI9eePH9nB6SCFJKoo2My9Ucv77fAshe0Dq7eKiOPV0zgbVIQN/Lel/GFmmWnwvTvvi01TyEvR1vGZPuwJzXLm4jCRNqnesajLt9SmceeNMx1/vuk89UcFmHPNz8uN+cYnPP8nT97c/4db4zqbyIl94ZCb9FzRUXo0tGz3vebwMfP/hMeJy8JX0ZYPXElEfw4klu1QN4yGSh1MV15NlIUsavcAIA=;4SNA7JSTWzCkteBj08TCyA=="
 ---
 
