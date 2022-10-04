@@ -2,25 +2,19 @@
 category: news
 title: "Renesas Expands RZ/V Series with Built-in Vision AI Accelerator for Accurate Image Recognition and Multi-Camera Image Support"
 excerpt: "Renesas Electronics Corporation (TSE: 6723), a premier supplier of advanced semiconductor solutions, has expanded its AI-capable RZ/V Series of microprocessors (MPUs), with a new device that enables AI processing of image data from multiple cameras,"
-publishedDateTime: 2022-09-29T13:59:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/09/29/9683183.htm"
-webUrl: "https://it.tmcnet.com/news/2022/09/29/9683183.htm"
+publishedDateTime: 2022-09-29T12:02:00Z
+originalUrl: "https://www.eagletribune.com/region/renesas-expands-rz-v-series-with-built-in-vision-ai-accelerator-for-accurate-image-recognition/article_2d84ad82-f621-5631-9280-e3a8b5eeb6d0.html"
+webUrl: "https://www.eagletribune.com/region/renesas-expands-rz-v-series-with-built-in-vision-ai-accelerator-for-accurate-image-recognition/article_2d84ad82-f621-5631-9280-e3a8b5eeb6d0.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-    width: 476
-    height: 210
-    isCached: true
-
-secured: "ozjnea35J/BkaSK0JAxENJ6fKyUeXcZXDUb2wfsnQTLCFQJ1MnRj3g9oFf2094UnzKZYNxVf/XStYAZPsPpIMsJnu2NLThixLRatQOY6+lW76nMW0Ni7hCezJOGzss4x2ay4WLgawFptKzdOeixLmuoYRpDl//8OHS5nfkGNF8gAXZUuWzT+Rg2ChEsWHEGq4ieZz7wwLdL5sEH5clOfoD1yj60g8y8SI13wdkbOjHtfjb5EzLYZOdyFGIvGrUZwb5mREJBQxOnXP/bYNrSbe9XIZ0v/kZ80hELs6+XUPp0ptIJc54/kLzQIbV3lD/tRaoNMbZ7T+rR59/KmqU64uSMg8oKiv8ChEqqImdvlF6g=;wkjQ67YWwtH/P3DJ3Ysdhw=="
+secured: "kKGIiuCJ0uyUkzVIL4bi2eNtyqCt4F9vD+NzbdzwrqheYvM+nk/3i6KL9SEIfXKY8bnpN3qM2B5og2bDMz9SvSf2gfsTAxJDdLGe1O1HD3i6wAz2i+xhd6e5IEcBs+1RK3AhgMcrjxKbdvFfOFBjk2RUqNxDc5VK5wBTLGt85pX6/SMghV5RdmYurlIdsGV3HaixRr+V2lpaX55Gwfwx6MFV3tw2ksNAxqZ2tprFj8AviFcoa2s7iwJwf7yfIIV92OqCYlpNw/HJ0GVzcyPFabkL7AYAQhlMDFfTwnAhyV4E0idcx4lLvEkjMAr2sn1haNCPrC4P4QFELmidoFav82ZIx+kvQ0E5i3zvTSV77SBCRjp8AKRcOHenb9FDDIK09+t7FfGuI9J4xbkdw7iDJ5BlW+KY37QCYddfAVYX5WpkfKdbMiV4vmiZG+XVF61SvDoS0YOa51n7deFvLyD3M7Ic9cicW1upzZ1EBbHexznbM0+S1RXTTcivJ2vzDgbRdIosZiJvOoQzYKoGJjSsiQ==;DVjiS3Ye151KfKNZoHWSBA=="
 ---
 

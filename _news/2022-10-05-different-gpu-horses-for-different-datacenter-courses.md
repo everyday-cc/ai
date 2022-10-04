@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Computer Vision
 
 images:
   - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/10/intel-innovation-xe-hpg-logo.jpg"
@@ -26,6 +27,6 @@ images:
     height: 640
     isCached: true
 
-secured: "NdRAStirY+z6A3pFnCJxKtrJdppfmJ4401F1NhGuHWcmF4HMGXB/JoH36Q3S+C8JKmn4BSaRUrgsjwYOxzsad5nfLHlKdlapgJwwbUMfcDFs9fjJkbKt8h2nm/NLl5tK8I4axNiQ0v+9VJlKhh96WqE3s7QEwkK8+DSHG+RgNu8wnhrH98k2kuthJvZPoQT3awWaaelovqL7kCXPFxq1G9dX/9H1Jn21zfph0QjweRc7bAHQr5OE5e+IgElHdCDFCaMR4OQ1V6ncKVRVhvEEF5v62G736RfH7A3lnEtaqI3HxlFprWva+DmlJ0RbpumkQzQD5CzMHHsZ5vuhJRwQZ9OmTNecKp4BYGBezlQE0Xc=;8s3A5SQyWORQOWTReql4OA=="
+secured: "OGrug3b/qSDmH7KZh+64KJgNYPglkWDVpzIWsgrzSxTV99DFUtCf2pfnpofmU5nIXjv8wKJkKztF+j3uZnC0XyOk1/ekfKGambFYKjhMZRXTZjECI64sNGF9h2K2f8ecGTQuvw50P2vFWi5h/hQnyThlTJr6fqf+IUTN5Y1lwGukr/by3fg4sZx8fDZoa+vsuIqjbK8QarOo922qfSXazmi6ssC3FS5EGGLq8+Euv2BpFGo8g39iI5PxLsMzFLLHy5RCRdmp/EyyC9AlNzCsfmDbrg883CfmtgDd4PU4t1o62Pe/U0hjDMgROHyqs3KuppcrLfucSHUaiq+0xhB8po1LYimv7H/Ie/u6WCooLdVJBR8t/4edOxd04/PCIU4532zcJpMvtjEk1ZeBYRBn+UokIkBzuTrjLYYaIYwGvO5h0MpG/CtDm2IQ+g3IUcrttJStLkx0XCmD0THNTWyKd7mEv6RPzS+4LJEOnNasuEFOL8hfasQVDMky6jaTa/pdGAS32ghxPVof3GZlHiOcFQ==;K9KqGAyosYDCkXhxb2AGJg=="
 ---
 

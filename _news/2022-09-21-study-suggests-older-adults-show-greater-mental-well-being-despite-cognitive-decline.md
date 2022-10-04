@@ -2,50 +2,19 @@
 category: news
 title: "Study suggests older adults show greater mental well-being despite cognitive decline"
 excerpt: "Despite displaying signs of poorer cognitive performance, older adults tend to have greater mental well-being compared to younger adults, according to a new study. A study published this month in ..."
-publishedDateTime: 2022-09-20T19:44:00Z
-originalUrl: "https://www.foxnews.com/health/study-older-adults-greater-mental-well-being-cognitive-decline"
-webUrl: "https://www.foxnews.com/health/study-older-adults-greater-mental-well-being-cognitive-decline"
-ampWebUrl: "https://www.foxnews.com/health/study-older-adults-greater-mental-well-being-cognitive-decline.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/study-older-adults-greater-mental-well-being-cognitive-decline.amp"
+publishedDateTime: 2022-09-20T20:45:00Z
+originalUrl: "https://nypost.com/2022/09/20/study-suggests-older-adults-show-greater-mental-well-being-despite-cognitive-decline/"
+webUrl: "https://nypost.com/2022/09/20/study-suggests-older-adults-show-greater-mental-well-being-despite-cognitive-decline/"
 type: article
-quality: 67
-heat: 77
-published: true
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1ce4d6f4-d820-4a8a-b50e-7596345c80f6/ab31fe9d-1057-4f40-87d5-d4538c3677b8/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-    width: 1200
-    height: 675
-    isCached: true
-
-related:
-  - title: "Daily Multivitamin May Protect Against Cognitive Decline in Older Adults"
-    excerpt: "WEDNESDAY, Sept. 21, 2022 (HealthDay News) — A daily multivitamin may provide cognitive benefits for older adults, according to a study published online Sept. 14 in Alzheimer’s & Dementia."
-    publishedDateTime: 2022-09-22T00:24:00Z
-    webUrl: "https://www.kxly.com/i/daily-multivitamin-may-protect-against-cognitive-decline-in-older-adults/"
-    type: article
-    provider:
-      name: KXLY 4 News
-      domain: kxly.com
-    quality: 38
-    images:
-      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.kxly.com/content/uploads/2022/09/x/d/ea7bce047c2d57c7a9ffa017ff47fa0a6d09ecac.jpg"
-        width: 600
-        height: 460
-        isCached: true
-
-secured: "rAWU3pPFMaFobZtN3HFwlgslt+DnkxReLuH1pLHleSv30jPnb+P9stz2Ul3GGCBGlb+988KK/kaVdCOGDDAvjb14Qylhc5J68z79uBQOhq2JJtSfhehMIfiwQC4iATCKK1W2k6Ban7VROaLEDXey1njl1FhEGsCAM/0y5evCMKtySWhkAhEBbfu0Zfyq4dUpqAxAzUPjcy1zug6/reir6DUJTsi7xg+wAYBat9Gdk8mM4JYQ3EEGy5jLfxiT6Bu0WMUdj/J0l4Dl+Xjrc0pg0rWwUVbcds3f1X8AImhI1bn08Vu5ABOAa4nxmNGN5nBUPq1aVh4oNUhA874F4o1EKlEQEZDsRQaoiDCg1QFqaJw=;Xlo6HY+m8yYj76li73ZVRw=="
+secured: "35z6yj4HHd/121M/ch9IAIRBy6Au2neHB2ZCGjPRTyYMug72SGp7njziFfKhJRK2E9g0NBkQvnFVoUlLMKiV2KwMVW1i+eKBmh4jVKKHcj7LXfJa5ix3Hhvm4IqHkSFlXFKcz7pH1XlysWYacYVElVZyxg+luaUF/kx4NP3KEZiozjeRdmYSG3OOY2iHa8JEZj2K/aYsKthZcKMs811upauOhiTDdBTLlwtUleg8tLFLEpWNiGvL2bZtXHKx/9RmkI5+kopbeuZhL+MO2ngGqytg/F5BKWKxoQwXKKbwuz68N35KiKh7CuBYPg8wmJ9tp/R+sUcaVH+E+CSzGLS801tuy8FE1JM08dXTm2eDq/E=;OYb+XWDJYn9QPiWrh6ounA=="
 ---
 
