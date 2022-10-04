@@ -2,6 +2,101 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-06-03-temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment.md",
+      "title": "Temasek’s Pavilion Capital backs South Korean AI chip maker Rebellions with $50M investment",
+      "excerpt": "Global venture capital firms are pouring money into the semiconductor startups developing the next generation of chips. Semiconductors, which have become a valued asset, are used in virtually almost every industry,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/",
+      "originalUrl": "https://techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/rebellions_ION-1.png?w=680",
+          "width": 680,
+          "height": 510,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/amp/",
+      "publishedDateTime": "2022-06-02T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-pcie-ai-accelerator-cards-powered-by-hailo-8-ai-processors.md",
+      "title": "PCIe AI accelerator cards powered by Hailo-8 AI processors",
+      "excerpt": "Lanner Electronics announced its first Hailo-8AI-powered PCIe accelerator card, the Falcon H8. Lanner Electronics collaborated with leading AI (Artificial Intelligence) chipmaker Hailo to design the Falcon H8,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eeworldonline.com/pcie-ai-accelerator-cards-powered-by-hailo-8-ai-processors/",
+      "originalUrl": "https://www.eeworldonline.com/pcie-ai-accelerator-cards-powered-by-hailo-8-ai-processors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eeworldonline.com/wp-content/uploads/2022/06/LinkedIn_1.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eeworldonline",
+        "domain": "eeworldonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-new-processors-make-edge-ai-more-accessible-while-cutting-power-consumption-in-half.md",
       "title": "New processors make edge AI more accessible while cutting power consumption in half",
       "excerpt": "Expanding on its history of delivering highly integrated processors, Texas Instruments (TI) (Nasdaq: TXN) today introduced new Sitara™ AM62 processors that help expand edge artificial intelligence (AI) processing into next-generation applications.",
@@ -1279,75 +1374,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-3-top-ai-stocks-ready-for-bull-runs.md",
-      "title": "3 Top AI Stocks Ready for Bull Runs",
-      "excerpt": "The lockdown measures also caused people to use more apps and cloud-based services, which drove data centers to install more of its high-end GPUs to process the incoming data with machine learning and AI tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-top-ai-stocks-ready-for-bull-runs-0?time=1653320101",
-      "originalUrl": "https://www.nasdaq.com/articles/3-top-ai-stocks-ready-for-bull-runs-0?time=1653320101",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-ai-stocks-ready-for-bull-runs-0?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-ai-stocks-ready-for-bull-runs-0?amp",
-      "publishedDateTime": "2022-05-23T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-a-peek-into-gigabytes-gpu-arm-for-ai-hpc-shops.md",
-      "title": "A peek into Gigabyte's GPU Arm for AI, HPC shops",
-      "excerpt": "Arm-based servers continue to gain momentum with Gigabyte Technology introducing a system based on Ampere's Altra processors paired with Nvidia A100 GPUs, aimed at demanding workloads such as AI training and high-performance compute (HPC) applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/05/23/gigabyte_intros_arm_server/",
-      "originalUrl": "https://www.theregister.com/2022/05/23/gigabyte_intros_arm_server/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
         "images": null,
         "publishers": null,
         "authors": null

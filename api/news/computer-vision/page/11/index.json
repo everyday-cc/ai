@@ -2,6 +2,137 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-06-02-why-ai-and-ml-is-reshaping-the-fintech-industry.md",
+      "title": "Why AI and ML is Reshaping the Fintech Industry",
+      "excerpt": "Andreas Braun, Director of Artificial Intelligence & Data Science at PwC Luxembourg, discusses data, AI and Machine Learning in fintech innovation",
+      "sourceUrl": null,
+      "webUrl": "https://fintechmagazine.com/financial-services-finserv/why-ai-and-ml-is-reshaping-the-fintech-industry",
+      "originalUrl": "https://fintechmagazine.com/financial-services-finserv/why-ai-and-ml-is-reshaping-the-fintech-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bizclikmedia.net/1800/35a93d254ade38e315333635bcc6b5f8:aa22f25fa98df3173136a75d085c2ce9/andreas-braun-3.JPG.jpg",
+          "width": 1800,
+          "height": 1011,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechmagazine",
+        "domain": "fintechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-facial-recognition-market-growth-analysis-2022-with-cagr-of-17-by-developments-and-trends-to-2028.md",
+      "title": "Facial Recognition Market Growth Analysis 2022 with CAGR of 17% By Developments and Trends to 2028",
+      "excerpt": "Facial Recognition market size will Expected to Reach at a CAGR of 17% in terms of revenue to reach a value of USD 13 billion by 2028. This Facial Recognition Market Research Digital solutions for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/facial-recognition-market-growth-analysis-2022-with-cagr-of-17-by-developments-and-trends-to-2028",
+      "originalUrl": "https://www.digitaljournal.com/pr/facial-recognition-market-growth-analysis-2022-with-cagr-of-17-by-developments-and-trends-to-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/711433c4010329ecbb3a7b222727a1cdd7c76bb7-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T22:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-business-travelers-face-higher-prices-and-packed-flights-hotels.md",
+      "title": "Business travelers face higher prices, and packed flights, hotels",
+      "excerpt": "After a pandemic freeze, business travel is coming back, but upgrades to premium airline seats and hotel rooms are harder to come by and amenities have been scaled back.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/business/business-news/business-travel-returns-high-prices-packed-flights-hotels-rcna29089",
+      "originalUrl": "https://www.nbcnews.com/business/business-news/business-travel-returns-high-prices-packed-flights-hotels-rcna29089",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-03/220323-newark-liberty-intl-travelers-2021-ac-631p-857e75.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna29089",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna29089",
+      "publishedDateTime": "2022-06-01T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-computer-vision-market-2022-size-revenue-growth-rate-restraints-and-forecast-analysis-by-2030.md",
       "title": "Computer Vision Market 2022 Size, Revenue, Growth Rate, Restraints, and Forecast Analysis by 2030",
       "excerpt": "Jun 01, 2022 (Alliance News via COMTEX) -- Computer vision Market 2022 with Size, Status, and Development Strategy Pre and Post COVID-19, by Corporate Strategy Analysis, Landscape, Type ...",
@@ -1152,135 +1283,6 @@
       "provider": {
         "name": "Washington Examiner",
         "domain": "washingtonexaminer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-clearview-ai-ordered-to-delete-facial-recognition-data-of-uk-residents.md",
-      "title": "Clearview AI Ordered To Delete Facial Recognition Data Of UK Residents",
-      "excerpt": "US-based facial recognition platform - Clearview AI, a company designed to support federal, state, and local law enforcement agencies to",
-      "sourceUrl": null,
-      "webUrl": "https://www.techbooky.com/clearview-ai-ordered-to-delete-facial-recognition-data-of-uk-residents/",
-      "originalUrl": "https://www.techbooky.com/clearview-ai-ordered-to-delete-facial-recognition-data-of-uk-residents/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.techbooky.com/wp-content/uploads/2022/05/Clearview-AI-Hack-Facial.jpg?fit=1000%2C667&ssl=1",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "https//www.techbooky.com",
-        "domain": "techbooky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-computer-vision-market-growth-demand-competitive-landscape-and-industry-analysis-report.md",
-      "title": "Computer Vision Market Growth, Demand, Competitive Landscape and Industry Analysis Report",
-      "excerpt": "Faster processing, better accuracy, and economic advantage of computer vision system drive the growth of the global computer vision market. However, requirement of highly skilled and experienced ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/computer-vision-market-growth-demand-competitive-landscape-and-industry-analysis-report",
-      "originalUrl": "https://www.digitaljournal.com/pr/computer-vision-market-growth-demand-competitive-landscape-and-industry-analysis-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/ea855943db539367d5207385da9c7f49d4bbf4eb-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-22T21:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-computer-science-course-listing.md",
-      "title": "Computer Science Course Listing",
-      "excerpt": "and object recognition. This course provides a solid introduction to the field of Reinforcement Learning (RL) and Decision Making. The students will learn about the basic blocks, main approached, and core challenges of Reinforcement Learning including ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.uml.edu/Catalog/Undergraduate/Sciences/Departments/Computer-Science/Course-Listing.aspx",
-      "originalUrl": "https://www.uml.edu/Catalog/Undergraduate/Sciences/Departments/Computer-Science/Course-Listing.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.uml.edu/images/allen-house-river-1400_tcm18-197005.jpg?w=x",
-          "width": 1400,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-22T15:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UMass Lowell",
-        "domain": "uml.edu",
         "images": null,
         "publishers": null,
         "authors": null

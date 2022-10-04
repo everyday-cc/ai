@@ -2,6 +2,127 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-06-15-australian-retailers-deploy-facial-recognition-as-privacy-laws-stall.md",
+      "title": "Australian retailers deploy facial recognition as privacy laws stall",
+      "excerpt": "Australia’s privacy watchdog will consider investigating Bunnings, Kmart and The Good Guys after a consumer group uncovered the retailers’ use of facial recognition technology on customers and said it will make a formal complaint.",
+      "sourceUrl": null,
+      "webUrl": "https://www.innovationaus.com/australian-retailers-deploy-facial-recognition-as-privacy-laws-stall/",
+      "originalUrl": "https://www.innovationaus.com/australian-retailers-deploy-facial-recognition-as-privacy-laws-stall/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.innovationaus.com/wp-content/uploads/2022/06/CCTV_Camera_800x600.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T23:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Innovation",
+        "domain": "innovationaus.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-these-popular-retailers-are-being-investigated-over-unethical-use-of-facial-recognition-tech.md",
+      "title": "These Popular Retailers Are Being Investigated Over ‘Unethical’ Use Of Facial Recognition Tech",
+      "excerpt": "CHOICE has launched an investigation into Kmart, Bunnings and The Good Guys after it learned they appear to be using (and storing!) facial recognition data of customers in their stores. In case you needed another reason to wear a mask.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pedestrian.tv/news/kmart-bunnings-facial-recognition-data/",
+      "originalUrl": "https://www.pedestrian.tv/news/kmart-bunnings-facial-recognition-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pedestrian.tv/wp-content/uploads/2022/06/15/Kmart-bunnings.jpg?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pedestrian.tv/news/kmart-bunnings-facial-recognition-data/amp/",
+      "cdnAmpWebUrl": "https://www-pedestrian-tv.cdn.ampproject.org/c/s/www.pedestrian.tv/news/kmart-bunnings-facial-recognition-data/amp/",
+      "publishedDateTime": "2022-06-14T18:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PEDESTRIAN.TV",
+        "domain": "pedestrian.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-meet-misty-ii-the-robot-as-a-platform-not-a-tool.md",
+      "title": "Meet Misty II: The Robot As a Platform, Not a Tool",
+      "excerpt": "At its core, Misty II is driven by a deep learning processor capable of a variety of machine learning tasks, such as facial and object recognition, distance detection, spatial mapping, and sound and touch sensing. Developers can also 3D print (or even ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/meet-misty-ii-robot-platform-not-tool",
+      "originalUrl": "https://www.designnews.com/electronics-test/meet-misty-ii-robot-platform-not-tool",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-montana-legislative-committee-debates-proposed-restrictions-for-facial-recognition-technology.md",
       "title": "Montana legislative committee debates proposed restrictions for facial recognition technology",
       "excerpt": "On Tuesday, a Montana legislative committee said the state needs to do something to respond to the growth of facial recognition technology – but members aren’t yet on the same page about what that should be.",
@@ -1148,137 +1269,6 @@
       "provider": {
         "name": "Joplin Globe",
         "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-why-ai-and-ml-is-reshaping-the-fintech-industry.md",
-      "title": "Why AI and ML is Reshaping the Fintech Industry",
-      "excerpt": "Andreas Braun, Director of Artificial Intelligence & Data Science at PwC Luxembourg, discusses data, AI and Machine Learning in fintech innovation",
-      "sourceUrl": null,
-      "webUrl": "https://fintechmagazine.com/financial-services-finserv/why-ai-and-ml-is-reshaping-the-fintech-industry",
-      "originalUrl": "https://fintechmagazine.com/financial-services-finserv/why-ai-and-ml-is-reshaping-the-fintech-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bizclikmedia.net/1800/35a93d254ade38e315333635bcc6b5f8:aa22f25fa98df3173136a75d085c2ce9/andreas-braun-3.JPG.jpg",
-          "width": 1800,
-          "height": 1011,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechmagazine",
-        "domain": "fintechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-facial-recognition-market-growth-analysis-2022-with-cagr-of-17-by-developments-and-trends-to-2028.md",
-      "title": "Facial Recognition Market Growth Analysis 2022 with CAGR of 17% By Developments and Trends to 2028",
-      "excerpt": "Facial Recognition market size will Expected to Reach at a CAGR of 17% in terms of revenue to reach a value of USD 13 billion by 2028. This Facial Recognition Market Research Digital solutions for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/facial-recognition-market-growth-analysis-2022-with-cagr-of-17-by-developments-and-trends-to-2028",
-      "originalUrl": "https://www.digitaljournal.com/pr/facial-recognition-market-growth-analysis-2022-with-cagr-of-17-by-developments-and-trends-to-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/711433c4010329ecbb3a7b222727a1cdd7c76bb7-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T22:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-business-travelers-face-higher-prices-and-packed-flights-hotels.md",
-      "title": "Business travelers face higher prices, and packed flights, hotels",
-      "excerpt": "After a pandemic freeze, business travel is coming back, but upgrades to premium airline seats and hotel rooms are harder to come by and amenities have been scaled back.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/business/business-news/business-travel-returns-high-prices-packed-flights-hotels-rcna29089",
-      "originalUrl": "https://www.nbcnews.com/business/business-news/business-travel-returns-high-prices-packed-flights-hotels-rcna29089",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-03/220323-newark-liberty-intl-travelers-2021-ac-631p-857e75.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna29089",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna29089",
-      "publishedDateTime": "2022-06-01T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-10-nvidias-flagship-ai-chip-reportedly-up-to-45x-faster-than-the-previous-champ.md",
+      "title": "Nvidia’s flagship AI chip reportedly up to 4.5x faster than the previous champ",
+      "excerpt": "No GPUs for you: US blocks sales of AI chips to China and Russia Nvidia positions the H100 as a high-end data center GPU chip designed for AI and supercomputer applications such as image ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/09/nvidias-flagship-ai-chip-reportedly-4-5x-faster-than-the-previous-champ/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/09/nvidias-flagship-ai-chip-reportedly-4-5x-faster-than-the-previous-champ/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/nvidia_h100_hero_3-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-09T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-tech-war-shanghai-ai-chip-maker-with-disgraced-chairman-is-now-chinas-new-hope-in-race-to-catch-up-with-nvidia.md",
+      "title": "Tech war: Shanghai AI chip maker with disgraced chairman is now China’s new hope in race to catch up with Nvidia",
+      "excerpt": "Nvidia, the leading global supplier of advanced GPUs, was told by the US to stop exporting two of its high-end artificial intelligence (AI) chips to China, prompting Chinese start-ups to fast ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-war/article/3191978/tech-war-shanghai-ai-chip-maker-disgraced-chairman-now-chinas-new",
+      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3191978/tech-war-shanghai-ai-chip-maker-disgraced-chairman-now-chinas-new",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/09/09/aa9945a1-a557-4eec-a64b-9316da5ae8d6_f414051d.jpg?itok=bnA6W9VB&v=1662717857",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-09T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-09-neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks.md",
       "title": "Neural Magic's sparsity, Nvidia's Hopper, and Alibaba's network among firsts in latest MLPerf AI benchmarks",
       "excerpt": "The latest benchmark tests of chips for AI showed new approaches to dealing with ever-increasing scale, including clusters of machines, and sparsity, the pruning of neural nets to make them more efficient.",
@@ -1333,95 +1437,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-us-startup-simaai-starts-shipping-machine-learning-chip-and-system.md",
-      "title": "U.S. startup SiMa.ai starts shipping machine learning chip and system",
-      "excerpt": "Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to customers that are testing them, an important step for mass production. We apologize ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system",
-      "originalUrl": "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/",
-      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/",
-      "publishedDateTime": "2022-08-30T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package.md",
-      "title": "Nvidia, Dell, VMware add AI, zero-trust security into new data center package",
-      "excerpt": "Dell servers containing Nvidia DPUs, GPUs, and VMware vSphere 8 use multiple firewalls to improve security for cloud-based workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package/",
-      "originalUrl": "https://www.zdnet.com/article/nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/31ca8a86b0b988f06219255b37675f4373f61dcd/2021/06/09/9a678cf1-16a0-46b5-b168-4a1cf67d1a6c/data-center.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package/",
-      "publishedDateTime": "2022-08-30T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "AI Hardware"
       ]
     }
   ],

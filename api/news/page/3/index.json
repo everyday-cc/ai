@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-29-metas-new-make-a-video-signals-the-next-generative-ai-evolution.md",
+      "title": "Meta’s new Make-a-Video signals the next generative AI evolution",
+      "excerpt": "Make-A-Video builds on AI image generation technology (including Meta's Make-A-Scene work from earlier this year)",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/",
+      "originalUrl": "https://venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/make-a-video2.jpg?w=1200&strip=all",
+          "width": 767,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/amp/",
+      "publishedDateTime": "2022-09-29T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-monnai-taps-explainable-ai-to-build-global-fintech-insight-infrastructure.md",
+      "title": "Monnai taps explainable AI to build global fintech insight infrastructure",
+      "excerpt": "Monnai aims to use explainable AI to deliver a global infrastructure and power fintech decision-making at scale.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/monnai-taps-explainable-ai-to-build-global-fintech-insight-infrastructure/",
+      "originalUrl": "https://venturebeat.com/ai/monnai-taps-explainable-ai-to-build-global-fintech-insight-infrastructure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1249306214.jpg?fit=800%2C397&strip=all",
+          "width": 800,
+          "height": 397,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/monnai-taps-explainable-ai-to-build-global-fintech-insight-infrastructure/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/monnai-taps-explainable-ai-to-build-global-fintech-insight-infrastructure/amp/",
+      "publishedDateTime": "2022-09-29T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-29-amazon-amzn-expands-its-aws-offerings-with-iot-fleetwise.md",
       "title": "Amazon (AMZN) Expands Its AWS Offerings With IoT FleetWise",
       "excerpt": "Amazon Web Services (\"AWS\") — continues to strengthen its service offerings in a bid to sustain its cloud dominance. The move to make AWS IoT FleetWise generally available is a testament to the same.",
@@ -34,6 +138,59 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-tech-war-china-chip-start-ups-clamour-to-tout-ai-chip-breakthroughs-after-nvidia-sales-ban-prompting-analyst-scepticism.md",
+      "title": "Tech war: China chip start-ups clamour to tout AI chip breakthroughs after Nvidia sales ban, prompting analyst scepticism",
+      "excerpt": "Chinese semiconductor start-ups are rushing to claim breakthroughs in artificial intelligence (AI) chips after the US restricted the export of advanced chips from Nvidia Corp and Advanced Micro ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-war/article/3194277/tech-war-china-chip-start-ups-clamour-tout-ai-chip-breakthroughs?module=more_top_stories_int&pgtype=homepage",
+      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3194277/tech-war-china-chip-start-ups-clamour-tout-ai-chip-breakthroughs?module=more_top_stories_int&pgtype=homepage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/09/29/2efa418f-b879-4b0a-a971-cfb50affbc28_a8f831fa.jpg?itok=UuUUxdeN&v=1664448172",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-29T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
       ]
     },
     {
@@ -1073,160 +1230,6 @@
         "Computer Vision",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-truecaller-brings-ai-powered-spam-call-filtering-to-any-ios-or-android-phone.md",
-      "title": "Truecaller brings AI-powered spam call filtering to any iOS or Android phone",
-      "excerpt": "Truecaller's new Assistant can screen calls and offers basic responses to callers, so you don't have to waste time with spam calls.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/mobile/truecaller-assistant-anti-spam-call-screening/",
-      "originalUrl": "https://www.digitaltrends.com/mobile/truecaller-assistant-anti-spam-call-screening/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2021/11/lamicall-black-best-iphone-docks.jpg?p=1",
-          "width": 1500,
-          "height": 1154,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/mobile/truecaller-assistant-anti-spam-call-screening/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/truecaller-assistant-anti-spam-call-screening/?amp",
-      "publishedDateTime": "2022-09-28T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-aion-labs-launches-ai-startup-addressing-drug-trial-improvement.md",
-      "title": "AION Labs Launches AI Startup Addressing Drug Trial Improvement",
-      "excerpt": "AION Labs Launches AI Startup Addressing Drug Trial Improvement Sep 28, 2022 (PRNewswire via COMTEX) -- PR Newswire REHOVOT, Israel, Sept. 28, 2022",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aion-labs-launches-ai-startup-addressing-drug-trial-improvement-2022-09-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/aion-labs-launches-ai-startup-addressing-drug-trial-improvement-2022-09-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-28T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-the-long-road-to-driverless-trucks.md",
-      "title": "The Long Road to Driverless Trucks",
-      "excerpt": "Self-driving eighteen-wheelers are now on highways in states like California and Texas. But there are still human “safety drivers” behind the wheel. What will it take to get them out?",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/09/28/business/driverless-trucks-highways.html",
-      "originalUrl": "https://www.nytimes.com/2022/09/28/business/driverless-trucks-highways.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/09/28/multimedia/28Transportation-Driverless-Trucks/28Transportation-Driverless-Trucks-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/09/28/business/driverless-trucks-highways.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/09/28/business/driverless-trucks-highways.amp.html",
-      "publishedDateTime": "2022-09-28T01:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

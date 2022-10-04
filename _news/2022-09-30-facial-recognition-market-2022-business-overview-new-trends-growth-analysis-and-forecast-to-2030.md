@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2022-business-overview-new-trends-growth-analysis-and-forecast-to-2030-2022-09-30"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: MarketWatch
@@ -29,76 +29,57 @@ images:
     isCached: true
 
 related:
-  - title: "AI-based Surgical Robots Market Growth and Future Analysis : Exclusive Report by Fortune Business Insights 2022"
-    excerpt: "The \"AI-based Surgical Robots Market Size\" industry report contains detailed information on factors influencing"
-    publishedDateTime: 2022-09-29T06:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-growth-and-future-analysis-exclusive-report-by-fortune-business-insights-2022-2022-09-29"
+  - title: "Artificial Intelligence in Drug Discovery Market Research By Growth, Regions, Type, Application and Forecast 2022-2030"
+    excerpt: "The report \"Artificial Intelligence in Drug Discovery Market - By Therapeutic Area (Oncology, Neurodegenerative Diseases, Cardiovascular Disease, Metabolic Diseases, Infectious Disease, Others); By Application;"
+    publishedDateTime: 2022-09-30T09:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-research-by-growth-regions-type-application-and-forecast-2022-2030-2022-09-30"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Accounting Market : Industry Analysis 2022 To 2029 based on Sales, Revenue, Size and Share | 104 Report Pages"
-    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence in Accounting Market is projected to"
-    publishedDateTime: 2022-09-30T00:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-industry-analysis-2022-to-2029-based-on-sales-revenue-size-and-share-104-report-pages-2022-09-29"
+  - title: "AI Translation Global Market Insights 2022, Analysis by Manufacturers, Regions, Technology, Application, Product Type."
+    excerpt: "Pre and Post Covid is covered and Report Customization is available. It is crucial for market participants to do"
+    publishedDateTime: 2022-10-01T03:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-translation-global-market-insights-2022-analysis-by-manufacturers-regions-technology-application-product-type-2022-09-30"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "GPU for AI Market Share 2022 Key Opportunities, Regional Segments, Business Statistics, Development, Size and Growth Forecast to 2029"
-    excerpt: "Global “GPU for AI Market” Report 2022-2029 discusses an innovative concept of top growing business strategies,"
-    publishedDateTime: 2022-10-03T08:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gpu-for-ai-market-share-2022-key-opportunities-regional-segments-business-statistics-development-size-and-growth-forecast-to-2029-2022-10-03"
+  - title: "Intelligent Speech and Voice Recognition Market Business overview 2022, and Forecast to 2030 | By -Google, Baidu, Facebook"
+    excerpt: "Global Intelligent Speech and Voice Recognition Market 2022 overview, CAGR, production volume, sales, revenue, regional analysis, and forecast during"
+    publishedDateTime: 2022-09-29T07:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/intelligent-speech-and-voice-recognition-market-business-overview-2022-and-forecast-to-2030-by--google-baidu-facebook-2022-09-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market : Competitive Landscape and Analysis by Recent Trends 2022 to 2029 | 99 Report Pages"
-    excerpt: "According to this latest study, In 2022 the growth of Computer Vision Market is projected to reach Multimillion USD"
-    publishedDateTime: 2022-09-30T00:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-competitive-landscape-and-analysis-by-recent-trends-2022-to-2029-99-report-pages-2022-09-29"
+  - title: "Communications Platform-as-a-Service (CPaaS) Global Market Report 2022: Integration of AI & Machine Learning Presents Opportunities"
+    excerpt: "Additionally, the integration of artificial intelligence (AI) and machine learning (ML) for speech recognition, automation, agent augmentation, emotion analysis, and call analytics is providing an impetus to the market growth. Moreover, the increasing ..."
+    publishedDateTime: 2022-10-03T09:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/g29113058/communications-platform-as-a-service-cpaas-global-market-report-2022-integration-of-ai-machine-lea"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Thermometer with Face Recognition Market 2022 Key Product Segments, Application Analysis, and Industry Growth Forecast by 2028"
-    excerpt: "Thermometer with Face Recognition Market Research Report is spread across 105 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
-    publishedDateTime: 2022-09-30T04:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/thermometer-with-face-recognition-market-2022-key-product-segments-application-analysis-and-industry-growth-forecast-by-2028-2022-09-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 4
 
 secured: "HLdJOT44EVNogR/GAvTFjEvQ5TYaWIyi2NQiIBLktP/5YW/VLDjJbvcj+joldF9X+S5IkGWwsnFVJJ2crC12uUZAxxClmk+wZ1jauYm4k5InYOhw/BWhJlUu9WK1yZUiG7rBFqGDuuzzyc12n08GB7uGl6PPNapXExIa1qadokjQgTk1UFeFu/6638tuJP34lsXnHTmioyVfK8D4Uw4YY2TG2JJcAksDga2HLKIW+qwagCbQqQJFZzXUgi9r4x1bcU7/ZokAYs/NMAGa1yb+racWODPjZY9GWQKl/WofrBkEZrPTZhDlxb/JpQi75UI/4sIpL/13HVgXMfkurDrUJLyTDTtHrz5isp+QbPJ2YqE=;PlU/Sf5WGN7AaADqgM/x2A=="
 ---

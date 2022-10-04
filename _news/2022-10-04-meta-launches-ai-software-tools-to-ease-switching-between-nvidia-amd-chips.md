@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook parent Meta launches AI software tools to help speed up work"
+    excerpt: "Facebook parent Meta Platforms Inc META.O said on Monday it has launched a new set of free software tools for artificial intelligence applications that could help speed up the performance of underlying chips."
+    publishedDateTime: 2022-10-03T16:35:00Z
+    webUrl: "https://www.nasdaq.com/articles/facebook-parent-meta-launches-ai-software-tools-to-help-speed-up-work"
+    ampWebUrl: "https://www.nasdaq.com/articles/facebook-parent-meta-launches-ai-software-tools-to-help-speed-up-work?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/facebook-parent-meta-launches-ai-software-tools-to-help-speed-up-work?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Meta launches AI software tools to help speed up work - Blog"
     excerpt: "Facebook parent Meta Platforms Inc on Monday said it has launched a new set of free software tools for artificial intelligence applications that could help speed up the performance of underlying chips."
     publishedDateTime: 2022-10-03T15:09:00Z

@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2019/03/lp-logo-3.jpg?resize=1200,812"

@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/technology/meta-launches-ai-software-tools
 webUrl: "https://www.reuters.com/technology/meta-launches-ai-software-tools-help-speed-up-work-blog-2022-10-03/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -29,6 +29,17 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook parent Meta launches AI software tools to help speed up work"
+    excerpt: "Facebook parent Meta Platforms Inc META.O said on Monday it has launched a new set of free software tools for artificial intelligence applications that could help speed up the performance of underlying chips."
+    publishedDateTime: 2022-10-03T16:35:00Z
+    webUrl: "https://www.nasdaq.com/articles/facebook-parent-meta-launches-ai-software-tools-to-help-speed-up-work"
+    ampWebUrl: "https://www.nasdaq.com/articles/facebook-parent-meta-launches-ai-software-tools-to-help-speed-up-work?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/facebook-parent-meta-launches-ai-software-tools-to-help-speed-up-work?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Meta launches AI software tools to ease switching between Nvidia, AMD chips"
     excerpt: "Facebook parent Meta Platforms Inc said on Monday it has launched a new set of free software tools for artificial intelligence applications that could make it easier for developers to switch back and forth between different underlying chips."
     publishedDateTime: 2022-10-03T17:40:00Z

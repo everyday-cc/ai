@@ -29,15 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "AI-based Surgical Robots Market Growth and Future Analysis : Exclusive Report by Fortune Business Insights 2022"
-    excerpt: "The \"AI-based Surgical Robots Market Size\" industry report contains detailed information on factors influencing"
-    publishedDateTime: 2022-09-29T06:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-growth-and-future-analysis-exclusive-report-by-fortune-business-insights-2022-2022-09-29"
+  - title: "Artificial Intelligence in IoT Market Size, Sales, CAGR And Competition Data from 2022 To 2029 | 102 Report Pages"
+    excerpt: "Global “ Artificial Intelligence in IoT Market \" Report is a detailed and comprehensive analysis for global Artificial Intelligence in IoT market. Both quantitative and qualitative analyses are presented by manufacturers,"
+    publishedDateTime: 2022-09-30T00:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-size-sales-cagr-and-competition-data-from-2022-to-2029-102-report-pages-2022-09-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep-Learning Computing Unit (DCU) Market Size, Sales, CAGR And Competition Data from 2022 To 2028"
+    excerpt: "Number of Tables and Figures :130 | The global \"Deep-Learning Computing Unit (DCU) Market\"size is projected to"
+    publishedDateTime: 2022-09-30T03:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-computing-unit-dcu-market-size-sales-cagr-and-competition-data-from-2022-to-2028-2022-09-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -52,20 +66,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Market 2022 | Business Overview, New Trends, Growth Analysis, And Forecast To 2030"
-    excerpt: "Key Companies Covered in the Facial Recognition Market Research are International Business Machines Corporation (IBM), Aware, Inc., 3M, NEC Corporation, Cognitec Systems GmbH, Daon Crossmatch, Nuance Communications Inc."
-    publishedDateTime: 2022-09-30T12:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2022-business-overview-new-trends-growth-analysis-and-forecast-to-2030-2022-09-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -94,6 +94,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Video Games Market Segmentation, Future Trends, Growth Overview, Key Companies and Forecast by 2029 | 101 Report Pages"
+    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence in Video Games Market is projected to"
+    publishedDateTime: 2022-09-30T01:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-video-games-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2029-101-report-pages-2022-09-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Market Evolution Segmentation and Insight of Trends 2022 to 2029 with Top Countries Data | 103 Report Pages"
+    excerpt: "According to this latest study, In 2022 the growth of Voice Recognition Market is projected to reach Multimillion USD"
+    publishedDateTime: 2022-09-30T00:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-evolution-segmentation-and-insight-of-trends-2022-to-2029-with-top-countries-data-103-report-pages-2022-09-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -2,45 +2,27 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-10-03-meta-launches-ai-software-tools-to-help-speed-up-work-blog.md",
-      "title": "Meta launches AI software tools to help speed up work - Blog",
-      "excerpt": "Facebook parent Meta Platforms Inc on Monday said it has launched a new set of free software tools for artificial intelligence applications that could help speed up the performance of underlying chips.",
+      "path": "_news/2022-10-03-facebook-parent-meta-launches-ai-software-tools-to-help-speed-up-work.md",
+      "title": "Facebook parent Meta launches AI software tools to help speed up work",
+      "excerpt": "Facebook parent Meta Platforms Inc META.O said on Monday it has launched a new set of free software tools for artificial intelligence applications that could help speed up the performance of underlying chips.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/meta-launches-ai-software-tools-help-speed-up-work-blog-2022-10-03/",
-      "originalUrl": "https://www.reuters.com/technology/meta-launches-ai-software-tools-help-speed-up-work-blog-2022-10-03/",
+      "webUrl": "https://www.nasdaq.com/articles/facebook-parent-meta-launches-ai-software-tools-to-help-speed-up-work",
+      "originalUrl": "https://www.nasdaq.com/articles/facebook-parent-meta-launches-ai-software-tools-to-help-speed-up-work",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/ZYDMYPCb1mkwySHI1uD8zjrOgoI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XDFHGK4QCJOXNCOTVIM6U32PF4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T08:09:00-07:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/facebook-parent-meta-launches-ai-software-tools-to-help-speed-up-work?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/facebook-parent-meta-launches-ai-software-tools-to-help-speed-up-work?amp",
+      "publishedDateTime": "2022-10-03T09:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -296,6 +278,59 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-tech-war-china-chip-start-ups-clamour-to-tout-ai-chip-breakthroughs-after-nvidia-sales-ban-prompting-analyst-scepticism.md",
+      "title": "Tech war: China chip start-ups clamour to tout AI chip breakthroughs after Nvidia sales ban, prompting analyst scepticism",
+      "excerpt": "Chinese semiconductor start-ups are rushing to claim breakthroughs in artificial intelligence (AI) chips after the US restricted the export of advanced chips from Nvidia Corp and Advanced Micro ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-war/article/3194277/tech-war-china-chip-start-ups-clamour-tout-ai-chip-breakthroughs?module=more_top_stories_int&pgtype=homepage",
+      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3194277/tech-war-china-chip-start-ups-clamour-tout-ai-chip-breakthroughs?module=more_top_stories_int&pgtype=homepage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/09/29/2efa418f-b879-4b0a-a971-cfb50affbc28_a8f831fa.jpg?itok=UuUUxdeN&v=1664448172",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-29T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
       ]
     },
     {
@@ -1398,58 +1433,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-hopper-time-nvidias-most-powerful-ai-chip-yet-ships-in-october.md",
-      "title": "Hopper time: Nvidia’s most powerful AI chip yet ships in October",
-      "excerpt": "The H100, part of the \"Hopper\" architecture, is the most powerful AI-focused GPU Nvidia has ever made, surpassing its previous high-end chip, the A100. The H100 includes 80 billion transistors and a special \"Transformer Engine\" to accelerate machine learning tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/09/hopper-time-nvidias-most-powerful-ai-chip-yet-ships-in-october/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/09/hopper-time-nvidias-most-powerful-ai-chip-yet-ships-in-october/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/NVIDIA-Hopper-GTC-Fall-22_1000-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

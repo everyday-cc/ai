@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-21-enterprise-artificial-intelligence-ai-market-growing-massively-by-ibm-microsoft-aws.md",
+      "title": "Enterprise Artificial Intelligence (AI) Market Growing Massively by Ibm, Microsoft, Aws",
+      "excerpt": "New Jersey, N.J., Aug 21, 2022 Enterprise AI is a category of enterprise software that leverages advanced artificial intelligence techniques, including machine learning, to drive digital ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/enterprise-artificial-intelligence-ai-market-growing-massively-by-ibm-microsoft-aws",
+      "originalUrl": "https://www.digitaljournal.com/pr/enterprise-artificial-intelligence-ai-market-growing-massively-by-ibm-microsoft-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/04/f4f04bbf0a33e2251f03a5748650712826f14ff2-2-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-21T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-21-why-youve-never-heard-of-this-top-ai-company.md",
       "title": "Why You’ve Never Heard Of This Top AI Company",
       "excerpt": "with the only notable vendor-specific response (AWS SageMaker) trailing in the 5th spot. This doesn’t mean that companies aren’t using vendors for those open source implementations, not at all. This does mean that they aren’t focusing on the vendor ...",
@@ -1329,59 +1373,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-setting-our-heart-attack-predicting-ai-loose-with-no-code-tools.md",
-      "title": "Setting our heart-attack-predicting AI loose with “no-code” tools",
-      "excerpt": "AutoML is a big chunk of what sits behind Canvas; it evaluates the data and tries a number of different algorithm types to determine what's best After that's done, we'll take a swing using one of ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/08/no-code-no-problem-part-two-setting-the-ai-loose-with-the-easy-button/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/08/no-code-no-problem-part-two-setting-the-ai-loose-with-the-easy-button/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/machine-learning-disected-go-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T18:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI",
         "AWS AI"
       ]

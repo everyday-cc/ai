@@ -2,6 +2,144 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-08-01-how-to-use-ios-16s-expanded-sound-recognition-tool.md",
+      "title": "How to use iOS 16's expanded sound recognition tool",
+      "excerpt": "Sound recognition can also be incorporated into ... to find a customization option that most closely aligns with the object you want to record, whether an alarm or appliance.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/apple-ios-how-to-use-sound-recognition",
+      "originalUrl": "https://mashable.com/article/apple-ios-how-to-use-sound-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/04Hh8SbnXWh0qWWcwO2IimI/hero-image.fill.size_1200x675.v1659105953.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-01-computer-vision-market-size-insights-2022-report-presents-revenue-share-by-manufacturers-future-scope-and-demand-forecast-to-2031.md",
+      "title": "Computer Vision Market Size Insights 2022: Report Presents Revenue Share By Manufacturers, Future Scope And Demand Forecast To 2031",
+      "excerpt": "Kenneth Research, in its repository of market research reports, have recently added a report on Computer Vision Market which emphasizes on the lat",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104623446/Computer-Vision-Market-Size-Insights-2022-Report-Presents-Revenue-Share-By-Manufacturers-Future-Scope-And-Demand-Forecast-To-2031",
+      "originalUrl": "https://menafn.com/1104623446/Computer-Vision-Market-Size-Insights-2022-Report-Presents-Revenue-Share-By-Manufacturers-Future-Scope-And-Demand-Forecast-To-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?361127",
+          "width": 374,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-30-intel-spacex-philip-morris-and-dozens-of-other-us-companies-were-in-a-leaked-database-of-users-for-a-russian-facial-recognition-company.md",
+      "title": "Intel, SpaceX, Philip Morris, and dozens of other US companies were in a leaked database of users for a Russian facial recognition company",
+      "excerpt": "NTech Lab claims that FindFace can do facial recognition, object recognition, license plate recognition, and detection of features (such as \"gender, age, emotions, glasses, face mask, beard ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/intel-spacex-philip-morris-leaked-database-users-ntech-russian-facial-recognition-company-2022-7",
+      "originalUrl": "https://www.businessinsider.com/intel-spacex-philip-morris-leaked-database-users-ntech-russian-facial-recognition-company-2022-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62e04a07d8e3a400192cba76?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-30T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-30-how-peloton-is-using-computer-vision-to-strengthen-workouts.md",
       "title": "How Peloton is using computer vision to strengthen workouts",
       "excerpt": "Guide’s computer vision capability tracks members and recognizes their activity, giving them credit for completed movements, providing recommendations and real-time feedback.",
@@ -1206,144 +1344,6 @@
       "provider": {
         "name": "Daily Herald",
         "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-4-ways-computer-vision-will-reshape-urban-transportation.md",
-      "title": "4 Ways Computer Vision Will Reshape Urban Transportation",
-      "excerpt": "The involvement of computer vision in smart transportation optimizes several facets of smart cities and will continue to do so in the future. The public sector, in collaboration with private tech enterprises,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/20/4-ways-computer-vision-will-reshape-urban-transportation/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/20/4-ways-computer-vision-will-reshape-urban-transportation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d7bb1bd6a217d2eec1ec8f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/20/4-ways-computer-vision-will-reshape-urban-transportation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/07/20/4-ways-computer-vision-will-reshape-urban-transportation/amp/",
-      "publishedDateTime": "2022-07-20T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-do-masks-get-in-the-way-of-recognizing-emotions.md",
-      "title": "Do Masks Get in the Way of Recognizing Emotions?",
-      "excerpt": "Researchers have discovered in their latest research that people can identify emotions and traits of other people wearing a face mask when the whole body is visible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/neuroscience/news/do-masks-get-in-the-way-of-recognizing-emotions-363875",
-      "originalUrl": "https://www.technologynetworks.com/neuroscience/news/do-masks-get-in-the-way-of-recognizing-emotions-363875",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/363875/do-masks-get-in-the-way-of-recognizing-emotions-363875-640x360.jpg?cb=20220720",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T01:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-teetering-on-the-edge-of-an-ai-revolution.md",
-      "title": "Teetering on the edge of an AI revolution",
-      "excerpt": "Frameworks such as TensorFlow Lite that support development on embedded computing platforms enable developers to build lightweight inference engines to handle tasks including object recognition, activity detection, gesture detection and people counting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsweekly.com/news/teetering-on-the-edge-of-an-ai-revolution-2022-07/",
-      "originalUrl": "https://www.electronicsweekly.com/news/teetering-on-the-edge-of-an-ai-revolution-2022-07/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.electronicsweekly.com/wp-content/uploads/2022/07/13155521/AI-1-1024x748.jpg",
-          "width": 1024,
-          "height": 748,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics Weekly",
-        "domain": "electronicsweekly.com",
         "images": null,
         "publishers": null,
         "authors": null

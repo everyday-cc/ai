@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-01-image-generating-ai-dall-e-is-now-free-for-anyone-to-play-with.md",
+      "title": "Image-generating AI Dall-E is now free for anyone to play with",
+      "excerpt": "Image-generating AI is becoming more accessible to the public, with one engine called DALL-E making its network free to use. While the text-to-art generator has some stipulations, you can create images by simply typing a description into the generator.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/image-generating-ai-is-now-more-accessible-to-the-public/",
+      "originalUrl": "https://www.digitaltrends.com/computing/image-generating-ai-is-now-more-accessible-to-the-public/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/09/openai-text-prompt-930.jpg?p=1",
+          "width": 1209,
+          "height": 825,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/image-generating-ai-is-now-more-accessible-to-the-public/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/image-generating-ai-is-now-more-accessible-to-the-public/?amp",
+      "publishedDateTime": "2022-09-30T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-01-white-house-official-says-details-on-ai-chip-export-rule-coming-soon.md",
       "title": "White House Official Says Details on AI Chip Export Rule Coming Soon",
       "excerpt": "The Biden administration could shed more light on a possible new rule for exporting high-performance artificial intelligence chips to China \"relatively soon,\" a White House official said Friday. Tarun Chhabra,",
@@ -496,6 +547,58 @@
       ]
     },
     {
+      "path": "_news/2022-09-30-facial-recognition-market-2022-business-overview-new-trends-growth-analysis-and-forecast-to-2030.md",
+      "title": "Facial Recognition Market 2022 | Business Overview, New Trends, Growth Analysis, And Forecast To 2030",
+      "excerpt": "Key Companies Covered in the Facial Recognition Market Research are International Business Machines Corporation (IBM), Aware, Inc., 3M, NEC Corporation, Cognitec Systems GmbH, Daon Crossmatch, Nuance Communications Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-2022-business-overview-new-trends-growth-analysis-and-forecast-to-2030-2022-09-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-2022-business-overview-new-trends-growth-analysis-and-forecast-to-2030-2022-09-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-30-how-to-effectively-use-the-computing-power-of-gpu-lets-check-cloudia-exchange.md",
       "title": "How to Effectively Use the Computing Power of GPU? Let's Check Cloudia Exchange!",
       "excerpt": "When we look at IT market, we see that, high computing power is the need of the hour. Cloudia Exchange is a new project that connects people who have GPU resources with projects that need those resources.",
@@ -744,7 +847,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-size-sales-cagr-and-competition-data-from-2022-to-2029-102-report-pages-2022-09-29",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -993,7 +1096,7 @@
       "originalUrl": "https://www.infoworld.com/article/3675554/mit-startup-datacebo-offers-tool-to-evaluate-synthetic-data.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -1119,110 +1222,6 @@
         "Computer Vision",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-metas-new-make-a-video-signals-the-next-generative-ai-evolution.md",
-      "title": "Meta’s new Make-a-Video signals the next generative AI evolution",
-      "excerpt": "Make-A-Video builds on AI image generation technology (including Meta's Make-A-Scene work from earlier this year)",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/",
-      "originalUrl": "https://venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/make-a-video2.jpg?w=1200&strip=all",
-          "width": 767,
-          "height": 610,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/amp/",
-      "publishedDateTime": "2022-09-29T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-monnai-taps-explainable-ai-to-build-global-fintech-insight-infrastructure.md",
-      "title": "Monnai taps explainable AI to build global fintech insight infrastructure",
-      "excerpt": "Monnai aims to use explainable AI to deliver a global infrastructure and power fintech decision-making at scale.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/monnai-taps-explainable-ai-to-build-global-fintech-insight-infrastructure/",
-      "originalUrl": "https://venturebeat.com/ai/monnai-taps-explainable-ai-to-build-global-fintech-insight-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1249306214.jpg?fit=800%2C397&strip=all",
-          "width": 800,
-          "height": 397,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/monnai-taps-explainable-ai-to-build-global-fintech-insight-infrastructure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/monnai-taps-explainable-ai-to-build-global-fintech-insight-infrastructure/amp/",
-      "publishedDateTime": "2022-09-29T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

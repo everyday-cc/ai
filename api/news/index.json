@@ -370,45 +370,27 @@
       ]
     },
     {
-      "path": "_news/2022-10-03-meta-launches-ai-software-tools-to-help-speed-up-work-blog.md",
-      "title": "Meta launches AI software tools to help speed up work - Blog",
-      "excerpt": "Facebook parent Meta Platforms Inc on Monday said it has launched a new set of free software tools for artificial intelligence applications that could help speed up the performance of underlying chips.",
+      "path": "_news/2022-10-03-facebook-parent-meta-launches-ai-software-tools-to-help-speed-up-work.md",
+      "title": "Facebook parent Meta launches AI software tools to help speed up work",
+      "excerpt": "Facebook parent Meta Platforms Inc META.O said on Monday it has launched a new set of free software tools for artificial intelligence applications that could help speed up the performance of underlying chips.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/meta-launches-ai-software-tools-help-speed-up-work-blog-2022-10-03/",
-      "originalUrl": "https://www.reuters.com/technology/meta-launches-ai-software-tools-help-speed-up-work-blog-2022-10-03/",
+      "webUrl": "https://www.nasdaq.com/articles/facebook-parent-meta-launches-ai-software-tools-to-help-speed-up-work",
+      "originalUrl": "https://www.nasdaq.com/articles/facebook-parent-meta-launches-ai-software-tools-to-help-speed-up-work",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/ZYDMYPCb1mkwySHI1uD8zjrOgoI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XDFHGK4QCJOXNCOTVIM6U32PF4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T08:09:00-07:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/facebook-parent-meta-launches-ai-software-tools-to-help-speed-up-work?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/facebook-parent-meta-launches-ai-software-tools-to-help-speed-up-work?amp",
+      "publishedDateTime": "2022-10-03T09:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -796,6 +778,58 @@
       ]
     },
     {
+      "path": "_news/2022-10-01-openais-dalle-2-may-mean-we-never-need-stock-photos-again.md",
+      "title": "OpenAI's Dall•E 2 may mean we never need stock photos again",
+      "excerpt": "Typing a sentence about a scenario, such as an anxious Windows user seated at their desk seeing a patch warning, could give you just the image you need to accompany an article.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/openais-dall-e-2-may-mean-we-never-need-stock-photos-again/",
+      "originalUrl": "https://www.zdnet.com/article/openais-dall-e-2-may-mean-we-never-need-stock-photos-again/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/54b762c082e6edd74534c9ca1b33d0f2fa1cf052/2022/10/01/4dbd71ee-49de-4b9b-a78e-261b4d2c728c/dall-e-person-explaining-to-coworkers.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/openais-dall-e-2-may-mean-we-never-need-stock-photos-again/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openais-dall-e-2-may-mean-we-never-need-stock-photos-again/",
+      "publishedDateTime": "2022-10-01T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-01-the-problem-with-mental-health-bots.md",
       "title": "The Problem With Mental Health Bots",
       "excerpt": "With human therapists in short supply, AI chatbots are trying to plug the gap—but it’s not clear how well they work.",
@@ -804,7 +838,7 @@
       "originalUrl": "https://www.wired.com/story/mental-health-chatbots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1201,57 +1235,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-image-generating-ai-dall-e-is-now-free-for-anyone-to-play-with.md",
-      "title": "Image-generating AI Dall-E is now free for anyone to play with",
-      "excerpt": "Image-generating AI is becoming more accessible to the public, with one engine called DALL-E making its network free to use. While the text-to-art generator has some stipulations, you can create images by simply typing a description into the generator.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/image-generating-ai-is-now-more-accessible-to-the-public/",
-      "originalUrl": "https://www.digitaltrends.com/computing/image-generating-ai-is-now-more-accessible-to-the-public/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/09/openai-text-prompt-930.jpg?p=1",
-          "width": 1209,
-          "height": 825,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/image-generating-ai-is-now-more-accessible-to-the-public/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/image-generating-ai-is-now-more-accessible-to-the-public/?amp",
-      "publishedDateTime": "2022-09-30T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

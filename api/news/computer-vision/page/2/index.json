@@ -2,6 +2,144 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-20-computer-vision-in-aerospace-and-defense-market-outlook-2022-and-forecast-to-2030-by-airbus-iai-lockheed-martin-raytheon.md",
+      "title": "Computer Vision in Aerospace and Defense Market Outlook 2022 and Forecast to 2030 | By -Airbus, IAI, Lockheed Martin, Raytheon",
+      "excerpt": "New Jersey, United States-The review examines the global Computer Vision in Aerospace and Defense market’s trends",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-aerospace-and-defense-market-outlook-2022-and-forecast-to-2030-by--airbus-iai-lockheed-martin-raytheon-2022-09-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-aerospace-and-defense-market-outlook-2022-and-forecast-to-2030-by--airbus-iai-lockheed-martin-raytheon-2022-09-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-dogs-and-humans-interpret-what-they-see-differently.md",
+      "title": "Dogs and Humans Interpret What They See Differently",
+      "excerpt": "Naturalistic video clips from a dog's point of view were shown to dogs undergoing fMRI brain scans. Artificial neural network programming was used to analyze how the brains of humans and dogs process visual inputs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/za/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently",
+      "originalUrl": "https://www.psychologytoday.com/za/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-09/brain_scan.jpg?itok=XgF-NOdq",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/za/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently?amp",
+      "publishedDateTime": "2022-09-20T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-observations-in-macaques-provide-new-insights-into-how-mothers-form-attachments-to-their-newborns.md",
+      "title": "Observations in macaques provide new insights into how mothers form attachments to their newborns",
+      "excerpt": "Neurobiologist Margaret Livingstone never expected to publish a study on maternal attachment and bonding in monkeys. However, in the course of her research on how visual object recognition develops in infant macaques,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-09-macaques-insights-mothers-newborns.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-09-macaques-insights-mothers-newborns.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/observations-in-macaqu-1.jpg",
+          "width": 1280,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-09-macaques-insights-mothers-newborns.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-macaques-insights-mothers-newborns.amp",
+      "publishedDateTime": "2022-09-19T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-19-xiaomi-face-recognition-smart-door-lock-with-3d-structured-light-tech-launched.md",
       "title": "Xiaomi Face Recognition Smart Door Lock with 3D structured light tech launched",
       "excerpt": "Xiaomi’s latest smart door lock features 3D structured light facial recognition. The Xiaomi Face Recognition Smart Door Lock, as it is called, is an iteration of the 2021 Xiaomi Smart Door Lock X. Pre-sale of the new smart door lock opens on September 20,",
@@ -1226,145 +1364,6 @@
       "provider": {
         "name": "Daily Times",
         "domain": "dailytimes.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-computer-vision-and-image-processing-specialization.md",
-      "title": "Computer Vision and Image Processing Specialization",
-      "excerpt": "Computer vision (CV) and image processing are two closely related fields that utilize techniques from artificial intelligence (AI) and pattern recognition to derive meaningful information from images, videos, and other visual inputs. Image processing is at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mccormick.northwestern.edu/electrical-computer/academics/graduate/masters/electrical-engineering/computer-vision-and-image-processing.html",
-      "originalUrl": "https://www.mccormick.northwestern.edu/electrical-computer/academics/graduate/masters/electrical-engineering/computer-vision-and-image-processing.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mccormick.northwestern.edu/electrical-computer/images/graduate/masters/computer-vision-and-image-processing-specialization-header.jpg",
-          "width": 770,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T15:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kellogg School of Management",
-        "domain": "northwestern.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-detect-audio-events-with-amazon-rekognition.md",
-      "title": "Detect audio events with Amazon Rekognition",
-      "excerpt": "When most people think of using machine learning (ML) with audio data, the use case that usually comes to mind is transcription, also known as speech-to-text. However, there are other useful applications, including using ML to detect sounds. Using software to detect a sound is called audio event detection,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-audio-events-with-amazon-rekognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-audio-events-with-amazon-rekognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/30/ML-8724-image003-1249x630.png",
-          "width": 1249,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T10:44:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-symphonyai-industrial-launches-batch-360-and-vision-360-for-high-quality-manufacturing-production.md",
-      "title": "SymphonyAI Industrial Launches Batch 360™ and Vision 360™ for high-quality manufacturing production",
-      "excerpt": "SymphonyAI Industrial announced today the launch of two new AI-based processes and performance software solutions to improve manufacturing output and quality. Batch 360, a process performance and optimization solution,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-39e28ba3c88d87f2d54617868d703867",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-39e28ba3c88d87f2d54617868d703867",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T03:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
