@@ -2,49 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2022-06-03-gpu-for-ai-market-2022-facts-figures-analytical-insights-growth-size-and-forecast-till-2030.md",
-      "title": "GPU for AI Market 2022 Facts, Figures, Analytical Insights, Growth, Size, and Forecast till 2030",
-      "excerpt": "In addition, the GPU for AI market study demonstrates a detailed examination of the business state, which represents creative ways for company growth, financial factors such as production value ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-ai-market-2022-facts-figures-analytical-insights-growth-size-and-forecast-till-2030-2022-06-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-ai-market-2022-facts-figures-analytical-insights-growth-size-and-forecast-till-2030-2022-06-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-03T01:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-03-temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment.md",
       "title": "Temasek’s Pavilion Capital backs South Korean AI chip maker Rebellions with $50M investment",
       "excerpt": "Global venture capital firms are pouring money into the semiconductor startups developing the next generation of chips. Semiconductors, which have become a valued asset, are used in virtually almost every industry,",
@@ -1374,6 +1331,49 @@
       "provider": {
         "name": "who13",
         "domain": "who13.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-qct-announces-support-of-nvidia-grace-cpu-superchips-for-use-in-hpc-and-ai-applications.md",
+      "title": "QCT Announces Support of NVIDIA Grace CPU Superchips for Use in HPC and AI Applications",
+      "excerpt": "Quanta Cloud Technology (QCT), a global data center solution provider, today announced new servers that will support the NVIDIA Grace ™ CPU Superchip and Grace™ Hopper™ Superchip. QCT is incorporating the NVIDIA Grace™ CPU,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-taiwan-artificial-intelligence-ff4e22d94016467a933d490ce2252022",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-taiwan-artificial-intelligence-ff4e22d94016467a933d490ce2252022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T21:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

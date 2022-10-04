@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Bruce Willis becomes first Hollywood actor to sell image rights to artificial intelligence company"
-    excerpt: "Die Hard actor Bruce Willis has become the first Hollywood star to sell his image rights to a technology company, which specialises in creating movies through artificial intelligence (AI). The deal means the firm, Deepcake, can now use both his moving and ..."
-    publishedDateTime: 2022-09-29T11:50:00Z
-    webUrl: "https://www.itv.com/news/2022-09-29/bruce-willis-becomes-first-hollywood-actor-to-sell-image-rights-to-ai-company"
-    type: article
-    provider:
-      name: ITV
-      domain: itv.com
-    quality: 3
 
 secured: "E8HavRgU77rF5RM+yUTuDyTA0c9zJlYxdr7gavhc/Yy87njfP594IjjqEVRir0ybb1KymWK1tSnzS8+OhDxOn7pJKxT3ksSHUSi8f1PjyuAMBRwrj/Kcmdz+s2xZA+HnqE+Hj5D/f3vXfK0G3obVumI6bgGEDvOM+sVSyPbNrlMQ7x5Ijd4DCdWxbKwTQBzxPKVrMBELm4dbDuAkHLWd8NoOjheSCX7mRCJpgB8dtvO2IWFkAnaNyCTbg1We9za0TLy5Jol5d8EWoN4gHY18zNJ7Qf7t15MAeKOUZ7SQU7jeJ1gZpkXaDyeRsSqAbNOBbtGoHmmVd9vaMwl1HlVvYczUHCQMcQh/rA+coZF3v3w=;wFF7ICLxqk6Bc7mN99dcHQ=="
 ---

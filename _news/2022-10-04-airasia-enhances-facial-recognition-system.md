@@ -3,11 +3,11 @@ category: news
 title: "airasia enhances facial recognition system"
 excerpt: "AirAsia further enhanced its facial recognition system which offers an end-to-end contactless journey for travellers."
 publishedDateTime: 2022-10-04T03:06:00Z
-originalUrl: "https://www.marketing-interactive.com/airasia-further-enhances-its-facial-recognition-system"
-webUrl: "https://www.marketing-interactive.com/airasia-further-enhances-its-facial-recognition-system"
+originalUrl: "https://www.marketing-interactive.com/airasia-enhances-its-facial-recognition-system"
+webUrl: "https://www.marketing-interactive.com/airasia-enhances-its-facial-recognition-system"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "YORnApjbcOsNQrUlVtPMCseOb/gbX6mtC6J+DGiO7sOc48mvj7A0o83IgzbrmrF3sQrMi4SD9PFAwUX58wzgg6hh88UueZzPMTeSYISgftzcH8bqmNUJ9CM0lAHeAqX7Vwba9YXOCX6WHx653iEIGRzNr1EE0OGCO000fi+iC/JESKb/3HYKOY220zMiJSg2EeAzvYZcMtpRSfaruqCehVYbg9/2DMmlh9VJ02szTlr9m5BcG8leT4HHAYIs6Wqa+/4+q/UleV9uzZADB3lE5Z8DWcf1a9NPm6AA9xApnUXwcdr9B/a7RBW4BwOqnsZiWewwinTqexfpIEtduknqBzeMZ1dcxjEKpI7vxLkkZ7Y=;lUIT6v5q5nisE39/tCC+xQ=="
+images:
+  - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/by_year_month/2022-october/airasia_contactless_journey_with_enhanced_faces.jpg"
+    width: 800
+    height: 455
+    isCached: true
+
+secured: "PmSoTRG57D5oKMYVHB368rnjeTFQogB3XLP5J0tGYCNUQBm6ZtG9rcTcb4JTyEKEk/JuetZnALmV8uTGalnUC6s4Y8iUbT1DcgxZ0o5oZbKCk7qbAoV2LxNokTO8P+a1m0YQ20PVMN04PKxvnHNgH0vM0jd63PP9ASbQWbtaxN+9wPyHmX5bzL5MX1O/CEmgMB4QzEjy2d5FTqw2ejz7fRT8XATdehnjyiY4mfEV/aGDVnwaVgaZLM1S9MZQ6GsPTZqi8cMlcpJwKfKi525GlRV4zVk+iW02rz2donHDS8wcYVfUH/TbYTP3aLghL2otejp61Lceld9M+Ft8bARE1tlJ+anKD3Usz+HoU7EvP3U=;f+bfydT+wT9SoyTcfwyUFQ=="
 ---
 

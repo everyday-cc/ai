@@ -552,22 +552,6 @@ related:
       name: redsharknews.com
       domain: redsharknews.com
     quality: 71
-  - title: "Tesla A.I. Day Is Coming. Expect High-End Computing, Self-Driving Cars, and Robots."
-    excerpt: "High-end computing, neural networks, self-driving cars, and robots could come up at the car company's second annual event."
-    publishedDateTime: 2022-09-29T12:32:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-elon-musk-robot-artificial-intelligence-day-51664401265"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-elon-musk-robot-artificial-intelligence-day-51664401265"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-elon-musk-robot-artificial-intelligence-day-51664401265"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 70
-    images:
-      - url: "https://images.barrons.com/im-631715/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Tesla Reveals Optimus, a Walking Humanoid Robot You Could Buy in 2027"
     excerpt: "Two prototype Tesla Bots could walk, wave their arms and grip with fingers. CEO Elon Musk says they'll eventually cost $20,000 and should go on sale by 2027."
     publishedDateTime: 2022-10-01T18:17:00Z

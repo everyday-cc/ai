@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dallasnews.com/business/local-companies/2022/10/03/heres
 cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/local-companies/2022/10/03/heres-what-some-of-those-self-driving-trucks-are-hauling-in-texas/?outputType=amp"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1024
     height: 630
     isCached: true
+
+related:
+  - title: "Self-driving car company Cruise aims to launch in Austin by end of year"
+    excerpt: "Austin drivers might find themselves pulling up next to tech-laden cars maneuvering by themselves more often as the city becomes a center for this kind of vehicle."
+    publishedDateTime: 2022-10-03T23:24:00Z
+    webUrl: "https://www.kut.org/business/2022-10-03/cruise-promises-self-driving-cars-to-austin"
+    ampWebUrl: "https://www.kut.org/business/2022-10-03/cruise-promises-self-driving-cars-to-austin?_amp=true"
+    cdnAmpWebUrl: "https://www-kut-org.cdn.ampproject.org/c/s/www.kut.org/business/2022-10-03/cruise-promises-self-driving-cars-to-austin?_amp=true"
+    type: article
+    provider:
+      name: KUT
+      domain: kut.org
+    quality: 59
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/c0fa935/2147483647/strip/true/crop/1024x576+0+54/resize/480x270!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1b%2F02%2F088292d54934af43bff72fb569ae%2F51857435906-9a1a1e616f-b.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "Pl62keR5Z2VQO4XHsvJxDkiVUGbf5pP8Yjhriaj1bUlKA/CKMqeV2v00bazPDfmZeWpfNvk2mLCrqTiZcIXtGrxJK3igExiID++GSSQKtimhVJqzYpnIsVAbGMxRCvvcmQEtQHvP/5ms5J4cI7szo80npORMXpPGYQGFEiRahOJMq4w2wg/DTIE3HrnddAF52y99KSmt/0BySWdud2IJMGHAS0d85fB2LLBFy9IrM/eMlPvq14S9DgX/vNaSF3NQRfCRZdImiGVx3/pLYm/vNtCINERP6D9e9BJ4hy6VdMWVqPS0/3EWutyxM5+KLnGFXsMtNt7TuCfmTyatQqsEsY6bJIx4d9SS+QJi9NoKFxD3a/M7GD3SldQYUX+jd/DvVA24/gfVOGV2a4E1cdTFIjQokNMN6YuyIJ0/fv2IfZl0BN/3tR6pz85G+LW3YXDWd6bUsWEf6C8wPp/pBd76EiWf3LUf5t+TMfh/vKHMmXEq/3k83FcB8pi/Lgcpvw8+gWwiO5Y9Ke+5IPEn2V6CEA==;Zw47pfJtKYY6eMOJRBohrQ=="
 ---

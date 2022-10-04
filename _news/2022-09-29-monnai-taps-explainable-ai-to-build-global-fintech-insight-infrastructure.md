@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/monnai-taps-explainable-ai-to-build-globa
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/monnai-taps-explainable-ai-to-build-global-fintech-insight-infrastructure/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://bl-i.thgim.com/public/incoming/yl72cl/article65951866.ece/alternates/LANDSCAPE_615/IMG_iStock-1163061277_2_1_R9A44U67.jpg"
         width: 615
         height: 383
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Fintech Market is expected"
+    excerpt: "According to a new report published by UnivDatos Markets Insights, the AI in Fintech Market is expected to grow at a CAGR of around 30% from 2022-2028. The analysis has been segmented into Type (Service and Solution);"
+    publishedDateTime: 2022-10-03T16:01:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-fintech-market-expected-display-steady-/2022/10/03/9684952.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1225049/UnivDatos_Logo.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Fintech Files: Part 3 | When the RBI sneezes, fintechs catch a cold"
     excerpt: "A slew of circulars from the Reserve Bank of India has forced the fintech industry to abandon its growth-at-all-costs approach and scramble to comply with the stringent regulations"
