@@ -40,7 +40,7 @@ related:
     provider:
       name: KCCI Des Moines
       domain: kcci.com
-    quality: 51
+    quality: 53
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-3c09dfff59686ea0cf8955d05b8f2d28-h-526e72dcb41c83dd4880165dd446fa8a-1664643570.jpg?crop=1.00xw:0.564xh;0,0.268xh&resize=1200:*"
         width: 1200

@@ -99,20 +99,6 @@ related:
       name: CNN
       domain: cnn.com
     quality: 64
-  - title: "Wedbush Previews Tesla AI Day; Reiterates Outperform"
-    excerpt: "(NASDAQ: TSLA) are down 4.82% in mid-day trading ahead of the company's AI day tomorrow. Wedbush reiterated an Outperform rating with a price target of $360. The much anticipated event is expected to feature several next-generation technologies,"
-    publishedDateTime: 2022-09-29T14:48:00Z
-    webUrl: "https://uk.investing.com/news/stock-market-news/wedbush-previews-tesla-ai-day-reiterates-outperform-432SI-2766599"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 56
-    images:
-      - url: "https://i-invdn-com.investing.com/news/Tesla_800x533_L_1608133744.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Tesla shows off humanoid robot, supercomputer potential at AI Day"
     excerpt: "Tesla (NASDAQ:TSLA) unveiled its humanoid robot at its AI Day event late on Friday. Optimus was not ready to walk on stage quite yet, but waved to the crowd and raised its knees. The AI-powered Optimus robot features a 2."
     publishedDateTime: 2022-10-01T13:02:00Z
@@ -122,15 +108,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 51
-  - title: "Tesla to host AI Day on 30 September to demo latest tech"
-    excerpt: "But all eyes will be on Tesla’s robot that it teased at last year’s AI Day event. Named Optimus, the humanoid bot will be able to help carry out dangerous tasks, such as lifti"
-    publishedDateTime: 2022-09-29T13:13:00Z
-    webUrl: "https://www.stuff.tv/news/tesla-to-host-ai-day-on-30-september-to-demo-latest-tech/"
-    type: article
-    provider:
-      name: Stuff
-      domain: stuff.tv
-    quality: 36
 
 secured: "0DmkSBzWUbH20b3q+OaS3CAPUvEkEDcQGReH2h4O13x7y0RArUoH/QfXJzQdjhyxukUhoTS1zKQeTfCAtbHYFYT9oZIM8UxJws6RbBO9WWHRBwXdyMbl69yQ/J1u34EoHFvyEk9PWFfzIe5YlwzJ2wlCzlC9tXs4QpOtAT0ST9J0Ys1yZyc8Al5bL+9mhpUsukllCl+huj+OGVnxlFF/8okVRSQ267FXwFvW5iXLl3ig8J/e9bQoVbcA5vBb786Sh9HRjAkC5038AicqX6N8ho8HOmKC33PBN0PO3uFgpJxXHyPoV0bg+lJj1ZsdtKhGVc4sycSrLVaTA4cBgm/PXpA0czZhy8VO7fgnxHBZfVaNrSzUoqGdaHHVmwc+wT2YZ2pBaXVqMwK+UIhAihPhoV+Dfb5xq8zPRf+E6hJt41vmUrEqXa+k4bvMUYNMUW+Fu4e0m3EOPYhZaHXek+s8U/XjKFpDykTxWuOu56jcWAd3h6SnQrtFlJR4iF4MjkslrFyByPYBtCEgIjlNWY82pQ==;b1TqBz/7N0zpKRo/fuh+AQ=="
 ---

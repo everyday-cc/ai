@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/02/tesla-ai-day-an-investor
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/02/tesla-ai-day-an-investors-perspective/amp/"
 type: article
 quality: 106
-heat: 186
+heat: 166
 published: true
 
 provider:
@@ -103,20 +103,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Wedbush Previews Tesla AI Day; Reiterates Outperform"
-    excerpt: "(NASDAQ: TSLA) are down 4.82% in mid-day trading ahead of the company's AI day tomorrow. Wedbush reiterated an Outperform rating with a price target of $360. The much anticipated event is expected to feature several next-generation technologies,"
-    publishedDateTime: 2022-09-29T14:48:00Z
-    webUrl: "https://uk.investing.com/news/stock-market-news/wedbush-previews-tesla-ai-day-reiterates-outperform-432SI-2766599"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 56
-    images:
-      - url: "https://i-invdn-com.investing.com/news/Tesla_800x533_L_1608133744.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Tesla shows off humanoid robot, supercomputer potential at AI Day"
     excerpt: "Tesla (NASDAQ:TSLA) unveiled its humanoid robot at its AI Day event late on Friday. Optimus was not ready to walk on stage quite yet, but waved to the crowd and raised its knees. The AI-powered Optimus robot features a 2."
     publishedDateTime: 2022-10-01T13:02:00Z
@@ -126,15 +112,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 51
-  - title: "Tesla to host AI Day on 30 September to demo latest tech"
-    excerpt: "But all eyes will be on Tesla’s robot that it teased at last year’s AI Day event. Named Optimus, the humanoid bot will be able to help carry out dangerous tasks, such as lifti"
-    publishedDateTime: 2022-09-29T13:13:00Z
-    webUrl: "https://www.stuff.tv/news/tesla-to-host-ai-day-on-30-september-to-demo-latest-tech/"
-    type: article
-    provider:
-      name: Stuff
-      domain: stuff.tv
-    quality: 36
 
 secured: "6cpGDEl8SyNQ5y6q/BIx1r3A9qWLGObe9NWdLxhYFCHTFgmAuzWlJ3LO7mYC/Ia/RrrNIpLz1HqZJzS+ihYXJumUbGazZJPtbFRfmuskv37/6jdvRMnT3P/KEy3MdFjAv0+S/+jwgCfUybhx4nzBJfvzDx8cNP8d+9Zao/brqosAWZrwgUPad53M/de7rtXj8WgTqPF/eIgiAHMtdbQ3ipAIrG/86PC1EQ/RvlfMI4x3qkfiBop0Eh/CjbxtqP/cresg9xC8QYg6S0eqTw0hS2DK1XVnNPlIskBZ/tCQfbP8P33QaxaDh6Z9eF6AXHuwRxnnmAMTPGlMPqLFCFejg7Oqi66xQHExb1gY+Pbqv3Q+1P9BoFoTKOcal5sIqWE27yVgcRp3Z7E645OI0p0dhdMGouwi8ky5fs93tVKr8ic2aAx2I0u89W9Y+sFinN8iCzrf8NK7Kj6NKEETHEHIeVfNCKA6/h8jTl0YU09oQHzZfcLkNnNgYA491sfxXggaXQazdmSoRqT0O9K28PdF4g==;HOhPBmbZxGUGSION6mg7yQ=="
 ---

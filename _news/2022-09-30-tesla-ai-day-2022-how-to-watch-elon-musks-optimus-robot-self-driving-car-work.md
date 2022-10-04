@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/"
 type: article
 quality: 133
-heat: 703
+heat: 713
 published: true
 
 provider:
@@ -531,6 +531,20 @@ related:
       - url: "https://inteng-storage.s3.amazonaws.com/2022/10/01/image/jpeg/et1EjnNMA7Vz75MynN9GShZ0A1bKFRiJJiPU6Qql.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Tesla: AI Day, Robots And Full Self-Driving Equals More Upside"
+    excerpt: "Tesla recently announced AI Day with robots and supercomputers. See how TSLA stock's announcements have only heightened the upside potential for the future."
+    publishedDateTime: 2022-10-04T07:20:00Z
+    webUrl: "https://seekingalpha.com/article/4544510-tesla-stock-ai-day-robots-and-full-self-driving-equals-upside"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 73
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1140204814/image_1140204814.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
         isCached: true
   - title: "Optimus Unprimed - how Tesla’s AI robot was distinctly underwhelming"
     excerpt: "Elon Musk may be the internet’s favoured ringmaster at the moment, but even he couldn’t pull a decent humanoid robot out of his hat at Tesla’s AI Day event last week."

@@ -528,6 +528,20 @@ related:
       name: Philippine Daily Inquirer
       domain: inquirer.net
     quality: 73
+  - title: "Tesla: AI Day, Robots And Full Self-Driving Equals More Upside"
+    excerpt: "Tesla recently announced AI Day with robots and supercomputers. See how TSLA stock's announcements have only heightened the upside potential for the future."
+    publishedDateTime: 2022-10-04T07:20:00Z
+    webUrl: "https://seekingalpha.com/article/4544510-tesla-stock-ai-day-robots-and-full-self-driving-equals-upside"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 73
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1140204814/image_1140204814.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Optimus Unprimed - how Tesla’s AI robot was distinctly underwhelming"
     excerpt: "Elon Musk may be the internet’s favoured ringmaster at the moment, but even he couldn’t pull a decent humanoid robot out of his hat at Tesla’s AI Day event last week."
     publishedDateTime: 2022-10-03T15:08:00Z

@@ -24,17 +24,6 @@ images:
     height: 635
     isCached: true
 
-related:
-  - title: "As AI Matures, Optum Probes its Limits and Steep Learning Curve for Healthcare"
-    excerpt: "In the second of a two-part interview, Dennis Chornenky, Optum's senior vice president and chief AI officer, looks for inspiration from finance and institutional review boards to steer AI toward maturity."
-    publishedDateTime: 2022-09-29T13:40:00Z
-    webUrl: "https://www.healthleadersmedia.com/technology/ai-matures-optum-probes-its-limits-and-steep-learning-curve-healthcare"
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 32
-
 secured: "wcMYV+tj2bCU/E/1JuQxO74srS3U++LQS9i4+1QdXUsqMnc5pnzubfhYIzsQoQYF3jCrob+pUDYKgRr3cF1ChsAPNjfWv4BKbOSWi67aukdyTj0Pk0oIh5YHkK+TOtafPojwBI49zmoSKGcksha+wLkTpoEXXyUA4BDsDSVnTLzDnIQiPIcIvJUPhP54EAvX54Ll3TMF7srfyqPs7wCuZJeatkMRYDsORbEiyu8C2mzI62bg2iovw+6Ac9it1OOJ92nCFXZNfzurOKG0i4mps4iXbo4rqeCNUroZkHGnhelgCAeCW70bGqL5w2KbYjqMTXOBwDrogKx0r1k800AnbXjPWJTP6K0T9/vCY9C8UC+UXBAvQ4Yi2u7bbHzOF0TTRTx1/MpLdCtBYbk7Bpxex0Nks2GA+YXzAqizj3jrfxylkNOpoXd+FLWK9TOjyYxmn16PfGpZlcaD9EbKQ1oGIlYu/0GkzGpwMPpYmJIMR4CzwT8c8hK8hSZ6pIp7Aw4P3mc+mPQ6glbbzpwyUHi5xA==;MARrvjnJAHNbGeb7PiwUVw=="
 ---
 

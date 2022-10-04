@@ -537,6 +537,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Tesla: AI Day, Robots And Full Self-Driving Equals More Upside"
+    excerpt: "Tesla recently announced AI Day with robots and supercomputers. See how TSLA stock's announcements have only heightened the upside potential for the future."
+    publishedDateTime: 2022-10-04T07:20:00Z
+    webUrl: "https://seekingalpha.com/article/4544510-tesla-stock-ai-day-robots-and-full-self-driving-equals-upside"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 73
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1140204814/image_1140204814.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Tesla Reveals Optimus, a Walking Humanoid Robot You Could Buy in 2027"
     excerpt: "Two prototype Tesla Bots could walk, wave their arms and grip with fingers. CEO Elon Musk says they'll eventually cost $20,000 and should go on sale by 2027."
     publishedDateTime: 2022-10-01T18:17:00Z

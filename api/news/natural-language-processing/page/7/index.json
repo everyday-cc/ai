@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-07-28-global-us-283-billion-speech-and-voice-recognition-market-outlook-to-2026.md",
+      "title": "Global US $ 28.3 Billion Speech and Voice Recognition Market Outlook to 2026",
+      "excerpt": "Jul 28, 2022 (The Expresswire) -- [160 Pages Report] The \"Speech and Voice Recognition Market\" report contains detailed information on factors influencing demand, growth, opportunities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-us-283-billion-speech-and-voice-recognition-market-outlook-to-2026-2022-07-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-us-283-billion-speech-and-voice-recognition-market-outlook-to-2026-2022-07-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T21:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-natural-language-processing-nlp-market-is-poised-to-reflect-201-cagr-by-2028-99-report-pages.md",
       "title": "Natural Language Processing (NLP) Market Is PoIsed to Reflect 20.1%% CAGR by 2028 | 99 Report Pages",
       "excerpt": "Jul 28, 2022 (The Expresswire) -- [Report Pages No 99] In 2022, What is “Natural Language Processing (NLP) Market” Insights? The global Natural Language Processing (NLP) market size was USD ...",
@@ -1282,49 +1334,6 @@
       "provider": {
         "name": "Fast Company",
         "domain": "fastcompany.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-advance-auto-parts-introduces-superfan-ed-vance-giving-emerging-auto-enthusiasts-a-new-voice-in-growing-category.md",
-      "title": "Advance Auto Parts Introduces Superfan ‘Ed Vance,’ Giving Emerging Auto Enthusiasts a New Voice In Growing Category",
-      "excerpt": "Advance Auto Parts (NYSE: AAP), a leading automotive aftermarket parts provider, today introduced its No. 1 fan \"Ed Vance,” revolutionizing the category by representing the voice of an emerging segment of automobile enthusiasts – those learning to DIY and craving a partner on their journey.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/advance-auto-parts-introduces-superfan-ed-vance-giving-emerging-auto-enthusiasts-a-new-voice-in/article_437cd413-38ed-5555-be65-18da82093aba.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/advance-auto-parts-introduces-superfan-ed-vance-giving-emerging-auto-enthusiasts-a-new-voice-in/article_437cd413-38ed-5555-be65-18da82093aba.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/4/d6/4d60f869-f8b0-5477-8cfc-ea5baf18a455/62d54c4386f67.image.jpg?crop=1200%2C630%2C0%2C22&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
         "images": null,
         "publishers": null,
         "authors": null

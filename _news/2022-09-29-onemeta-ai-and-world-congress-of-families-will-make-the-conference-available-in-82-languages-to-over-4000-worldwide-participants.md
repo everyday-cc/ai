@@ -6,9 +6,6 @@ publishedDateTime: 2022-09-29T14:11:00Z
 originalUrl: "https://www.morningstar.com/news/accesswire/717991msn/onemeta-ai-and-world-congress-of-families-will-make-the-conference-available-in-82-languages-to-over-4000-worldwide-participants"
 webUrl: "https://www.morningstar.com/news/accesswire/717991msn/onemeta-ai-and-world-congress-of-families-will-make-the-conference-available-in-82-languages-to-over-4000-worldwide-participants"
 type: article
-quality: 0
-heat: -1
-published: false
 
 provider:
   name: Morningstar%2c Inc.
@@ -18,22 +15,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Can AI help to increase access to all languages?"
-    excerpt: "Analysis: the No Langage Left Behind AI project is looking to create an effective and efficient way to translate between 200 languages Languages are the main medium of communication but there are more than 7,100 languages spoken around the world."
-    publishedDateTime: 2022-09-30T08:19:00Z
-    webUrl: "https://www.rte.ie/brainstorm/2022/0929/1326136-no-language-left-behind-translation-ai-meta/"
-    type: article
-    provider:
-      name: RTE Online
-      domain: www.rte.ie
-    quality: 39
-    images:
-      - url: "https://img.rasset.ie/001c8d9d-1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-
-secured: "mLo025Q2HYuWRWswGs2BrudYrg/cVWdOBskSEUqe6J7b9fYHjo6z9a+1jV0WZCFMF5GvtL35zDHYpZLH1QnSf5EGvu9FfUjxjzFRQHgZLln5GT6/HL7vwJSUqJmGpmUtQqlJMwIrTzOdKuf7z7HDw61b3HpuXjZV/m9BLd1Dg0WhUIounj2iavBqdxckEbDTN8Jxk2QXU95JzxRN5sVPB6U1kWNI+EkZ8yiC8XTISGpVsdlvNL5b1fFOcUEr+CdmueKGfEbjrnhjpUYew3xAKrOnTe+GGT5fAVOIQITlgUMqJjGhapOSICm0fkW5n9a8IxDKx6EljIwoPDkVIIgQj0uA7VURzPls9EpBoLRJFdM=;eLQZbFg9tyjPEjeGTfYqsw=="
+secured: "KrVWdHvsClvDxcCmEsV1qL0iBqF2MhHA9sFXf9wo0whEjw/TWBKW+RyxZtCF8kWepQzieWhbadPU6/OEMLzzNC7AkHifTJrmLaMu0YclRecF8oj0N0PfnVv/BZ1FZu4zohsNyWO1kHtb/4O+3/JT+cIhtXqHYVJ/hxNvzkF5q4VMRiV00jyzT9qkPOqIq8SWjzKgjj8Gfqv5lYy+gqefv9jbQdc/by5eXmzkZi+m02Ncra2azTI8i2YE76pX7/tRoW1cJfJZsGtV1lAK4oLr70qrZgrTwNcY3XunhHwqsiCXXITqYgrVTSpzDiOLyEHX8QiNvzHWZKAQBVVgxHue7QzmGAhZ/s+/2l3GHZ54d+s=;t6GP4IiIKdMTOl7sfo9Jxw=="
 ---
 
