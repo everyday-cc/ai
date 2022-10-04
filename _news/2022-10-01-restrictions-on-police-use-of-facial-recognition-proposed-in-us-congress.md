@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "MPs call for tight federal restriction on use of facial recognition technology"
+    excerpt: "OTTAWA - A House of Commons committee is calling for a moratorium on the use of facial recognition technology by federal police and Canadian"
+    publishedDateTime: 2022-10-04T20:05:00Z
+    webUrl: "https://www.thestar.com/politics/2022/10/04/mps-call-for-tight-federal-restriction-on-use-of-facial-recognition-technology.html"
+    ampWebUrl: "https://www.thestar.com/amp/politics/2022/10/04/mps-call-for-tight-federal-restriction-on-use-of-facial-recognition-technology.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/politics/2022/10/04/mps-call-for-tight-federal-restriction-on-use-of-facial-recognition-technology.html"
+    type: article
+    provider:
+      name: Toronto Star
+      domain: thestar.com
+    quality: 55
+    images:
+      - url: "https://www.thestar.com/content/dam/thestar/politics/federal/2022/10/04/ottawa-wants-black-class-action-discrimination-lawsuit-dismissed-plaintiffs-say/ketty_nivyabandi.jpg.size.custom.crop.640x360.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "House bill limits police use of facial recognition"
     excerpt: "The legislation would place “strong limits” on the technology’s use, provide transparency to those harmed by it and ensure there are annual assessments of its accuracy."
     publishedDateTime: 2022-09-30T21:07:00Z

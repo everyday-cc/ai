@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-04T19:47:00Z
 originalUrl: "https://www.zdnet.com/article/samsung-lays-out-its-plan-to-mass-produce-1-4nm-chips-by-2027/"
 webUrl: "https://www.zdnet.com/article/samsung-lays-out-its-plan-to-mass-produce-1-4nm-chips-by-2027/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: ZDNet

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-04T16:25:00Z
 originalUrl: "https://www.bizjournals.com/losangeles/inno/stories/news/2022/10/04/la-startup-and-innovation-news.html"
 webUrl: "https://www.bizjournals.com/losangeles/inno/stories/news/2022/10/04/la-startup-and-innovation-news.html"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: The Business Journals

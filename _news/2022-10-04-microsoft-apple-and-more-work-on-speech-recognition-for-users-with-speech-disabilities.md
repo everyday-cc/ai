@@ -48,6 +48,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Why bringing SAS Viya onto Microsoft Azure Marketplace is a big deal"
+    excerpt: "With files from Lynn Greiner. On Sept. 27, SAS officially brought its Viya analytics platform to the Microsoft Azure Marketplace. The service enables Azure customers to use the solution on a pay-as-you-go basis with the click of a button."
+    publishedDateTime: 2022-10-04T21:05:00Z
+    webUrl: "https://www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524"
+    ampWebUrl: "https://www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 74
+    images:
+      - url: "https://www.itworldcanada.com/wp-content/uploads/2021/01/GettyImages-1173288726.jpg"
+        width: 2000
+        height: 1000
+        isCached: true
   - title: "Amazon, Apple, Microsoft, Meta and Google to improve speech recognition for people with disabilities"
     excerpt: "The University of Illinois (UIUC) has partnered with Amazon, Apple, Google, Meta, Microsoft and nonprofits on the Speech Accessibility Project.."
     publishedDateTime: 2022-10-03T12:35:00Z
@@ -73,20 +89,6 @@ related:
       name: businesstech.co.za
       domain: businesstech.co.za
     quality: 69
-  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
-    excerpt: "New Jersey, NJ -- (SBWIRE) -- 09/29/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
-    publishedDateTime: 2022-09-30T03:21:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-61"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 50
-    images:
-      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "iUpF9hiExjSV1O+ScuacF0wNdryNSEWjPv7Mif10QVGbNEa0NKDlaEuAF9eaYHVzIJBpKLnT3nGiee7k4yTsaji5/VnhVwR5qAbTvf9+oSdRqSQPhg3qo348OjP8mSA+f/u9U//a1BIku6SucgHt1LtEWF4mj9l4KUBHf43KvtR2W50k2vri2ZCCbiypNaf0lAnlc0cKQD9WvVjxJTMUsK5QURbs5QMYR11rX59In4YCjyjDLxI7b5vA8oYTq1KhFjz4kBDnGSzfX9dj+KfmDW4cBonHQy7utjBkh+LLjbB8Ck2VchcHXF6K8giMUbz8NahCqSjomY7X2X9oWr1NPwA1t48ipomIMcEr5wpNPBiZ+TacbQk+1NLr8MJd4JCo9h1G6ypPXjhQz+CThrHkl6er7lhDqAaPhxYQTN3l/sRdT1LuIaX6FLnIS2E/HESGaO7OYlCcyln2rpHmg0rYEOrUv5HdPIDduCR+2QrRdP1MKP9DGENpkgXkT+vXT5LOC007O4qy5+I0a1K9jq2bGw==;AQxBKtmuvI2EaFRrPVlzgw=="
 ---

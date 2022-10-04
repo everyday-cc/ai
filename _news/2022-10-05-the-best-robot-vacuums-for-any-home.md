@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-04T18:40:00Z
 originalUrl: "https://www.aol.com/lifestyle/best-robot-vacuums-home-220800347.html"
 webUrl: "https://www.aol.com/lifestyle/best-robot-vacuums-home-220800347.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: AOL

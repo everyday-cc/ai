@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-04T19:36:00Z
 originalUrl: "https://www.c4isrnet.com/artificial-intelligence/2022/10/04/combining-automation-responsible-ai-critical-for-national-security/"
 webUrl: "https://www.c4isrnet.com/artificial-intelligence/2022/10/04/combining-automation-responsible-ai-critical-for-national-security/"
 type: article
+quality: 58
+heat: 88
+published: true
 
 provider:
   name: C4ISRNET
@@ -15,7 +18,48 @@ topics:
   - AI Ethics
   - AI
   - AI in Security
+  - AI in Robotics
 
-secured: "lMgjUOhTEYtX7Kk2dghn2ZQjzM6LXECXruyypRuTKCcbtAird+5h9vp14Ac7JuCFjSuYbRgo0CDYG1QtUyFPxCtOh3BBfpg/WV/vkScDzhqyqOCbpNZfycgR0Bhz+zkGNi72WNgLyA5xoR0mP9KHv1tfFiuzfV9H2xzGG+e1sBWzz5ogQoSSO40vDAb80b3saKbBMr47MLXSi/XLhIRifX9wtwEcEHhyZT7CnuIRueHkUU6w13acKtfLHdPne4yVGEfI1+fu1xZ4VuiaBxVcYuG+8RaUMgSQSLVJMVR9DLqih6EAzEQlPv2JSUYzNSXlc/Otgtgo6ndQGCk2zZubuKn/Rj0MovBkER9ZGpZUGmq5oKmYdqQK8HpHmxOwtuSjxTL2UXX4T+b44M7siG8rsFmDcyDVf7FMZV/G8Q5poIntpyFxTgNhoxB9w4m0KlIa+3uGhzbZ3wZ8xOjIFa8gKEHGkp5g12CkQkcNOuF5IZaWfAZgbmGinORexdPPY5q8V2gtCP3C70C19Fi83yjsOg==;AFyycWl6Z9JV4dYaDgoEyA=="
+images:
+  - url: "https://www.c4isrnet.com/resizer/PTKE5Z5fgjvQEM3z04bVtxT9Wsc=/1024x0/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/KMMDZZZ2LFGQ5CYJVERIDPLWMQ.png"
+    width: 1024
+    height: 561
+    isCached: true
+
+related:
+  - title: "The Trouble With ‘Responsible AI’: Irresponsible Government Regulation"
+    excerpt: "Most important, we see the emergence of new, irresponsible government regulation. A new New York City regulation, going into effect next January, will require companies to conduct audits to identify biases in the AI programs they use for hiring employees."
+    publishedDateTime: 2022-09-30T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/gilpress/2022/09/30/the-trouble-with-responsible-ai-irresponsible-government-regulation/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "Securiti creates a command center for AI-driven cloud data protection"
+    excerpt: "Securiti announced the launch of a new data protection solution that uses AI to protect data in multicloud environments."
+    publishedDateTime: 2022-10-04T11:30:00Z
+    webUrl: "https://venturebeat.com/security/securiti-creates-a-command-center-for-ai-driven-cloud-data-protection/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "Responsible AI still a pipe dream for many"
+    excerpt: "While 84% of global executives believe responsible AI (RAI) should be on top management agendas, only 25% have comprehensive RAI programs in place. This is according to a joint study by MIT Sloan Management Review (MIT SMR) and Boston Consulting Group (BCG),"
+    publishedDateTime: 2022-10-03T09:55:00Z
+    webUrl: "https://it-online.co.za/2022/10/03/responsible-ai-still-a-pipe-dream-for-many/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 39
+    images:
+      - url: "https://it-online.co.za/wp-content/uploads/2022/10/ai-2.jpg"
+        width: 855
+        height: 496
+        isCached: true
+
+secured: "cr9XdPSGf8m6NOCFXclg8/7Tuy4TsKoMQsiSmpkQcq7zZ5Vk2p+GV5JEhNXNNnhtTvzBDh4BHqtTLHI6emOE30u2uJOQ67P0zEHHMD6jm2omfJookm5u3JtSeA0oZ8K4QiI+asIZgggrlwR/ArZpB3cHVvO9cEUeGATZsqggkZC1CPj6BaO38ZpqVIM/GGQoyjKGkUVzRPkzICI/1nH6AJOyPkJpuCNb1sU+Zcd/uqSbnVRNyCp7gf8PTTsOvbHrTHQSyqD61epDuDUhII5X7mP1vsX0qAbtkz/gZj9WkCgBBk4tEZbhlp+MsIKs6hkSLJNFisylMeGl3lNzQAf8gVpHWoN5MCGW6qGQFPb1ESc=;x5ESOrqgNKbNtBWUJrbpyQ=="
 ---
 

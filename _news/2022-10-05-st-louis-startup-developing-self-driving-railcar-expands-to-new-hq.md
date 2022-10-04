@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-04T17:28:00Z
 originalUrl: "https://www.bizjournals.com/stlouis/inno/stories/news/2022/10/04/st-louis-startup-self-driving-railcar-expands.html"
 webUrl: "https://www.bizjournals.com/stlouis/inno/stories/news/2022/10/04/st-louis-startup-self-driving-railcar-expands.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Business Journals

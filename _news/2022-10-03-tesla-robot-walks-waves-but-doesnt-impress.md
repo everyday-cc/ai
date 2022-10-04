@@ -26,88 +26,36 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla's robot waves but can't walk, yet. Musk plans to make millions of them"
-    excerpt: "Tesla CEO Elon Musk showed off on Friday a prototype of its humanoid robot 'Optimus', predicting the electric vehicle maker would be able to produce millions and sell them for under $20,000 - less than a third of the price of a Model Y."
-    publishedDateTime: 2022-10-02T23:37:00Z
-    webUrl: "https://www.reuters.com/technology/elon-musk-set-showcase-teslas-humanoid-robot-after-delay-2022-09-30/"
+  - title: "Tesla announces it’s moving away from ultrasonic sensors in favor of ‘Tesla Vision’"
+    excerpt: "Tesla announced today that it is moving away from using ultrasonic sensors in its suite of Autopilot sensors in favor of its camera-only “Tesla Vision” system. Last year, Tesla announced it would transition to its “Tesla Vision” Autopilot without radar and start producing vehicles without a front-facing radar."
+    publishedDateTime: 2022-10-04T21:13:00Z
+    webUrl: "https://electrek.co/2022/10/04/tesla-moving-away-ultrasonic-sensors-in-favor-tesla-vision/"
+    ampWebUrl: "https://electrek.co/2022/10/04/tesla-moving-away-ultrasonic-sensors-in-favor-tesla-vision/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/10/04/tesla-moving-away-ultrasonic-sensors-in-favor-tesla-vision/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 83
+      name: Electrek
+      domain: electrek.co
+    quality: 85
     images:
-      - url: "https://www.reuters.com/resizer/gx_3f22a3kYh8h4YmjMhdjZEvNM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WWSNDUO46JPIHMZLGYLX5S6FKQ.jpg"
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/11/tesla-ultrasonic-e1479179062536.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla robot walks, waves, but doesn’t show off complex tasks"
-    excerpt: "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a"
-    publishedDateTime: 2022-09-30T15:40:00Z
-    webUrl: "https://mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/"
-    ampWebUrl: "https://mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/"
+  - title: "Who's At Fault In A Tesla Self-Driving Accident?"
+    excerpt: "There is no doubt that the future of transportation is autonomous. While car manufacturers have made considerable strides in making this possible, some apparent technological flaws may require a few more years to iron out before driverless cars become the norm on American roads."
+    publishedDateTime: 2022-10-04T20:40:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2022/10/04/453675-whos-fault-a-tesla-self-driving-accident.htm"
     type: article
     provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 78
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
     images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2018/01/MYNW_Facebookj.jpg"
-        width: 452
-        height: 282
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-oct/5860221015-phone-car.jpg"
+        width: 628
+        height: 420
         isCached: true
-  - title: "Tesla’s robot waves but can’t walk, yet. Musk plans to make millions of them"
-    excerpt: "Tesla’s push to design and build mass-market robots that would also be tested by working jobs in its factories sets it apart from other manufacturers that have experimented with humanoid robots."
-    publishedDateTime: 2022-10-01T11:50:00Z
-    webUrl: "https://www.nbcnews.com/business/business-news/tesla-humanoid-robot-elon-musk-cant-walk-rcna50307"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 63
-  - title: "Tesla robot walks, waves, but doesn't show off complex tasks"
-    excerpt: "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company’s artificial intelligence event Friday"
-    publishedDateTime: 2022-10-01T13:46:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/tesla-robot-walks-waves-show-off-complex-tasks-90805394"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 56
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_4a288d490a1843839f4e48c2453e6a75_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Tesla robot walks, waves, but doesn’t show off complex tasks"
-    excerpt: "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company’s artificial intelligence event Friday."
-    publishedDateTime: 2022-10-02T06:33:00Z
-    webUrl: "https://www.seattletimes.com/business/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/"
-    ampWebUrl: "https://www.seattletimes.com/business/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 56
-  - title: "Tesla Robot Shows Some Skills, But Falls Flat With Some Robotics Insiders"
-    excerpt: "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company’s artificial intelligence event Friday."
-    publishedDateTime: 2022-10-01T07:12:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/tesla-robot-shows-some-skills-but-falls-flat-with-some-robotics-insiders/3889379/"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 50
-  - title: "Tesla robot walks, waves, but doesn't show off complex tasks"
-    excerpt: "But the basic tasks by the robot with exposed wires and electronics — as well as a later, next-generation version that had to be carried onstage by three men — was a long way from CEO Elon Musk's vision of a human-like robot that can change the world."
-    publishedDateTime: 2022-10-03T19:38:00Z
-    webUrl: "https://www.statesman.com/story/business/technology/2022/10/03/tesla-optimus-robot-walks-waves-doesnt-show-off-complex-tasks/69536356007/"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 36
 
 secured: "9mX/vMTL4VgUp7y6R1K0QAfk6wk70PquqyG1G9gim5T//qAg6/xA3bacXS0Wr8HAziQ5VdwRMi71hXBPK7zT+8qVD96DSymrfB1oM5BzUjyQ17U+Vn4JeKxsSFXBSfoK/m2NH2uPIP6TWdUIofc/BV7wY0j7Al7Nyt92wOQHMzRAq0L9pSqM9fqvGveoLFTRIY3LoWn28FF7+D6rU5X/Sw5m5ejgxKTB+F2nfCNxUr2MaJDoycBPocz+Wh6ow9AuaJd7I+MV2NVqCxAbnUpr84A6czez7L8V31M8axIiHW1dz956gxfeL8lXZJFxIW9sFZdXUtDMREmo2li9el/qDjGZk0NHVLi8O4PkEgCRXf2ARZ7KeJGZ8ye42Sfs9seNjAtEWjMI2tkqz3h0lHaHxWcizq3pzawryIR1is87gsmp9ZC1qx+dOFxQezLaafdMMZTyJWJYfK77Vza4VQ8fwAfLBUqZXXsXQxHu6ba7gPVEzPi9CyE2umWZicFCT9QCZdDxlnfFu3iXPsiYE5sX7w==;ej56cgZ3RKzD4oGZai3sPQ=="
 ---

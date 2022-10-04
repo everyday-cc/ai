@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-04T17:31:00Z
 originalUrl: "https://seekingalpha.com/article/4544631-googles-other-bet-a-deep-dive-into-waymo"
 webUrl: "https://seekingalpha.com/article/4544631-googles-other-bet-a-deep-dive-into-waymo"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Seeking Alpha

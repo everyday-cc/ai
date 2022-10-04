@@ -8,8 +8,8 @@ webUrl: "https://www.nextplatform.com/2022/10/04/different-gpu-horses-for-differ
 ampWebUrl: "https://www.nextplatform.com/2022/10/04/different-gpu-horses-for-different-datacenter-courses/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/10/04/different-gpu-horses-for-different-datacenter-courses/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:

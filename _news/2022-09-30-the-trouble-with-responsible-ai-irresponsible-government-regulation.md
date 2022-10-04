@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/gilpress/2022/09/30/the-trouble-with-
 webUrl: "https://www.forbes.com/sites/gilpress/2022/09/30/the-trouble-with-responsible-ai-irresponsible-government-regulation/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,29 @@ topics:
   - AI
 
 related:
+  - title: "Combining automation, responsible AI critical for national security"
+    excerpt: "And according to U.S. Deputy Secretary of Defense Kathleen Hicks, applying responsible AI across warfighting, enterprise support and business practices will be essential to ensure this advantage while also improving national security."
+    publishedDateTime: 2022-10-04T19:36:00Z
+    webUrl: "https://www.c4isrnet.com/artificial-intelligence/2022/10/04/combining-automation-responsible-ai-critical-for-national-security/"
+    type: article
+    provider:
+      name: C4ISRNET
+      domain: c4isrnet.com
+    quality: 58
+    images:
+      - url: "https://www.c4isrnet.com/resizer/PTKE5Z5fgjvQEM3z04bVtxT9Wsc=/1024x0/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/KMMDZZZ2LFGQ5CYJVERIDPLWMQ.png"
+        width: 1024
+        height: 561
+        isCached: true
+  - title: "Securiti creates a command center for AI-driven cloud data protection"
+    excerpt: "Securiti announced the launch of a new data protection solution that uses AI to protect data in multicloud environments."
+    publishedDateTime: 2022-10-04T11:30:00Z
+    webUrl: "https://venturebeat.com/security/securiti-creates-a-command-center-for-ai-driven-cloud-data-protection/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Responsible AI still a pipe dream for many"
     excerpt: "While 84% of global executives believe responsible AI (RAI) should be on top management agendas, only 25% have comprehensive RAI programs in place. This is according to a joint study by MIT Sloan Management Review (MIT SMR) and Boston Consulting Group (BCG),"
     publishedDateTime: 2022-10-03T09:55:00Z

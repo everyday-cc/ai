@@ -57,21 +57,19 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "White House unveils artificial intelligence 'Bill of Rights'"
-    excerpt: "The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s pe"
+  - title: "White House unveils artificial intelligence ‘Bill of Rights’"
+    excerpt: "The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s personal data and limit surveillance."
     publishedDateTime: 2022-10-04T15:49:00Z
-    webUrl: "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.html"
-    ampWebUrl: "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html"
-    cdnAmpWebUrl: "https://www-postregister-com.cdn.ampproject.org/c/s/www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html"
+    webUrl: "https://apnews.com/article/technology-business-artificial-intelligence-7a39848340d210592aeea2478225f489"
     type: article
     provider:
-      name: Post Register
-      domain: postregister.com
-    quality: 59
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/4/f6/4f684d58-8467-5029-980f-ff02e6910d45/633c12f798b36.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
+      - url: "https://storage.googleapis.com/afs-prod/media/e3eccfa44df44341aa00bc70404178c4/3000.jpeg"
+        width: 3000
+        height: 2000
         isCached: true
 
 secured: "tNfHiTvScfyUPi6SpctW91CHal+l7d4Iuhbvp8QTpZt1b5/+obZYjZ3jh9b8zfkJEUtBJzufM9cLc/JksFqpxmfOnsxf1k4Jq3PcmGfj4K78KnyE2TCKn+e1/UbFe4sckzCTqEwTG50mFXEWlVMImJ4Oaaj6mSnwFefrrhlsuTsgWkc4wzdLE9MgRC6wRTCZF+K7JRjbQhhAWyzVgLI1RkoDKav1ebAU8zjgcBJL+a8bM8lhMl4/+oZgUphBVsHhybI7eDAzPcqU0tVHGTOfrfqWqa138co0xCSsCjgX/z5EJa+kGz1Hy4s9xmwcc/6wd9DGk8bwc49dBSa2rrRTtD3dbxqdcsVigJkzWTEUWpuGv8eTBgwFjRK/ojfCkjRgD4oAHk90oP0YUfvKUoYrfOiQ9jvqVkFKWllQe2v+iU0dafHgwEEjj3+L3rxQWqb1bMEQ+uH/yujqyvZJEPxP6UbmeScJB83VKP6aG4wUR82DgMuYdgKfsliX70ixD7QST9OIcPTdGeFLRLMY0QKmPg==;Ks9HfGqiGrxNT0u1q4F8qw=="

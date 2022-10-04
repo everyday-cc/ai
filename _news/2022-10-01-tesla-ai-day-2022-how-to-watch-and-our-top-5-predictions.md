@@ -445,17 +445,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Tesla AI Day: Robots, Self-Driving Cars, and More"
-    excerpt: "All eyes are on Elon Musk as he promises great things for this year’s AI Day. Will we see the Tesla bots walk on stage? Perhaps we will see the CyberTruck in all its metallic glory? Tech products"
-    publishedDateTime: 2022-09-30T01:26:00Z
-    webUrl: "https://technology.inquirer.net/118309/tesla-ai-day-what-to-expect"
-    ampWebUrl: "https://technology.inquirer.net/118309/tesla-ai-day-what-to-expect/amp"
-    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/118309/tesla-ai-day-what-to-expect/amp"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 73
   - title: "Tesla AI Day 2022: Optimus Unit 1 humanoid robot waves at the audience"
     excerpt: "Tesla AI Day 2022 explored the processes required to mimic the human, driver and worker. The autonomous robot and car were laid out in detail"
     publishedDateTime: 2022-10-01T08:41:00Z

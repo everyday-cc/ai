@@ -97,6 +97,15 @@ related:
         width: 2560
         height: 1434
         isCached: true
+  - title: "Tech Titans Join Forces With The University Of Illinois To Launch New Speech Accessibility Project"
+    excerpt: "Tech heavyweights Amazon, Apple, Meta, and Microsoft have come together in a way that would make Voltron blush in a joint effort to make voice-first user interfaces more accessible to those with speech disabilities."
+    publishedDateTime: 2022-10-04T19:06:00Z
+    webUrl: "https://www.forbes.com/sites/stevenaquino/2022/10/04/tech-titans-join-forces-with-the-university-of-illinois-to-launch-new-speech-accessibility-project/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 20
   - title: "Apple joins project to improve speech recognition for disabled users"
     excerpt: "The University of Illinois (UIUC) is working with Apple and other tech giants on the Speech Accessibility Project, which aims to improve voice recognition systems for people with speech patterns and disabilities current versions have trouble understanding."
     publishedDateTime: 2022-10-03T12:48:00Z

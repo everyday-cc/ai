@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-04T18:52:00Z
 originalUrl: "https://www.gizchina.com/2022/10/04/do-we-really-need-human-like-robots/"
 webUrl: "https://www.gizchina.com/2022/10/04/do-we-really-need-human-like-robots/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: GizChina

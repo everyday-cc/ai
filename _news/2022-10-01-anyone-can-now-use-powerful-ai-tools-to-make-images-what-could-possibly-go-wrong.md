@@ -5,7 +5,12 @@ excerpt: "The move will likely expand the reach of a new crop of AI-powered tool
 publishedDateTime: 2022-10-01T16:12:00Z
 originalUrl: "https://www.wcvb.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
 webUrl: "https://www.wcvb.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+ampWebUrl: "https://www.wcvb.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
+cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
 type: article
+quality: 53
+heat: -1
+published: false
 
 provider:
   name: WCVB Channel 5 Boston
@@ -15,6 +20,30 @@ topics:
   - AI Ethics
   - AI
 
-secured: "/dL95UwNHCOMLdHT60mqqOCYDkiIR0wxowIA9yGaioD6Xc+0F53W+q6UUa+Z1r7KP/lNHR4DdrldD3j8NEccoiY8RJmT4oP1ZhiTgGqIjYLsg03TIP+M5iD7UlCrhDpdSfksNq2oHD6HjCd1mxs5w/y/BpCIER2OtMdhl+d4YaLQ1HHT6YcCl7VFCLMlbXjGKPWHBuy6qZb/aHu57fR48NCg6hy28vRcb6VlelSxpMqLK/o7Peen/CMaQGVpc+0ekQECsEtOmz2g81I1w93g4uCQKofpQsEdchXX7SAOngb5QwDLqS4oLZNkjdHmkz8jm7eTYEGDsiTpZp7/XnV8k9dPzMJQrLf8Eq4A86V5k/AISQ69nuIYTwm8h5kUsitI1ANzAYEFp1oGbWwAiXLvtdImxjIdq7moA/Ya0oATFsFgkB7w08yHgSAqW9ViYXGIRrzSGTxz9PowuC6NF/6BmWjztkRwDI9EihDhM6MK4EM0zzm/l1xVH2cjDEqGPLCTZyZ/z0Z24uO4nUEi8tAlEA==;f5hxuze35ZnaIsUDzHwtfA=="
+images:
+  - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-3c09dfff59686ea0cf8955d05b8f2d28-h-526e72dcb41c83dd4880165dd446fa8a-1664643570.jpg?crop=1.00xw:0.564xh;0,0.268xh&resize=1200:*"
+    width: 1200
+    height: 676
+    isCached: true
+
+related:
+  - title: "Anyone can now use powerful AI tools to make images. What could possibly go wrong?"
+    excerpt: "If you've ever wanted to use artificial intelligence to quickly design a hybrid between a duck and a corgi, now is your time to shine."
+    publishedDateTime: 2022-09-30T11:53:00Z
+    webUrl: "https://edition.cnn.com/2022/09/30/tech/image-generating-ai-publicly-available"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/09/30/tech/image-generating-ai-publicly-available/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/30/tech/image-generating-ai-publicly-available/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 81
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220928180903-03-dall-e-ai-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+
+secured: "t3Nu+EYp8EI/Jis1JEEWUyvyzLNZlMADzhT0ExpDOCOiGqpJgoB34M02dJNwXSxJ7GMV+dYQ9Lplgg0eLymQWwqyB4FcKPzaK9lavGIyxcJntB8Rg6BxmKvlIDHwOH6mDIJkMsXCgiWLvo6GTQKaaoYcZNPMYb51JbUddo7b6cdF+XpT9WWAznzeK+aiyq4fz4kKN3B6JmVjJPW+v73GPYlvQTN/HOOjTZmm9QW0mRRUwrHzrVbINkRn5M88cTjj6M2kJKKcT+X5BGPcQgtNSxCCbbQPyKT6RSawpzqEseV5VOilX76hbgtTkPfzZpHtkN+LD90v8VYeTbUGvuKUmrjCynvUbEKq4+a1Fx7Jfuw=;AVMU45cNqO9KMqQfctVkKA=="
 ---
 

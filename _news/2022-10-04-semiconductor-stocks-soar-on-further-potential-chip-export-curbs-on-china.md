@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-04T15:09:00Z
 originalUrl: "https://www.nasdaq.com/articles/semiconductor-stocks-soar-on-further-potential-chip-export-curbs-on-china"
 webUrl: "https://www.nasdaq.com/articles/semiconductor-stocks-soar-on-further-potential-chip-export-curbs-on-china"
 type: article
+quality: 48
+heat: 48
+published: false
 
 provider:
   name: Nasdaq

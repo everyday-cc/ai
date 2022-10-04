@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/elon-musk-set-showcase-teslas-h
 webUrl: "https://www.reuters.com/technology/elon-musk-set-showcase-teslas-humanoid-robot-after-delay-2022-09-30/"
 type: article
 quality: 83
-heat: 153
+heat: 143
 published: true
 
 provider:
@@ -80,20 +80,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 56
-  - title: "Tesla Robot Walks, Waves, But Doesn't Impress"
-    excerpt: "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company's artificial intelligence event Friday."
-    publishedDateTime: 2022-10-03T13:43:00Z
-    webUrl: "https://www.manufacturing.net/automotive/news/22484464/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 56
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/10/Tesla_Elon_Musk_Speaking_AP.633ae6db7650d.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C6%2C1024%2C576&w=1200"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Tesla Robot Shows Some Skills, But Falls Flat With Some Robotics Insiders"
     excerpt: "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company’s artificial intelligence event Friday."
     publishedDateTime: 2022-10-01T07:12:00Z

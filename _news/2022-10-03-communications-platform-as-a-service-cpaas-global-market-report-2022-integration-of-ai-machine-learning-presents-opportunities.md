@@ -103,20 +103,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Thermometer with Face Recognition Market 2022 Key Product Segments, Application Analysis, and Industry Growth Forecast by 2028"
-    excerpt: "Thermometer with Face Recognition Market Research Report is spread across 105 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
-    publishedDateTime: 2022-09-30T04:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/thermometer-with-face-recognition-market-2022-key-product-segments-application-analysis-and-industry-growth-forecast-by-2028-2022-09-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Gesture Recognition Market Segmentation, Future Trends, Growth Overview, Key Companies and Forecast by 2027"
     excerpt: "The global Gesture Recognition market size was valued at USD 13839.6 million in 2021 and is expected to expand at a CAGR"
     publishedDateTime: 2022-10-04T09:57:00Z
@@ -131,6 +117,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Software Market Enhancement, Size, Growth, and Business Opportunities from 2022 to 2030"
+    excerpt: "Deep Learning Software market and global economic environment, we forecast that the global market size of Deep Learning Software will reach (2030Market size $$) million $ in 2030with a CAGR of % from 2022-2030."
+    publishedDateTime: 2022-10-02T12:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-enhancement-size-growth-and-business-opportunities-from-2022-to-2030-2022-10-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
   - title: "Computer Vision Development Market 2022 : Key Product Segments, Application Analysis, and Industry Growth Forecast by 2029 | 106 Pages Report"
     excerpt: "According to this latest study, In 2022 the growth of Computer Vision Development Market is projected to reach"
     publishedDateTime: 2022-10-04T13:59:00Z

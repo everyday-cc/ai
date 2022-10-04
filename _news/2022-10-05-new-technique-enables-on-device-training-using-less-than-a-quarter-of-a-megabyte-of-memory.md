@@ -5,7 +5,12 @@ excerpt: "Microcontrollers, miniature computers that can run simple commands, ar
 publishedDateTime: 2022-10-04T18:59:00Z
 originalUrl: "https://techxplore.com/news/2022-10-technique-enables-on-device-quarter-megabyte.html"
 webUrl: "https://techxplore.com/news/2022-10-technique-enables-on-device-quarter-megabyte.html"
+ampWebUrl: "https://techxplore.com/news/2022-10-technique-enables-on-device-quarter-megabyte.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-technique-enables-on-device-quarter-megabyte.amp"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: techxplore
@@ -14,7 +19,14 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Machine Learning
 
-secured: "iD5sVSBO9sCFUL/VFOwoZAyX3raz/IY2Rp9bd5pBUsrLwenNkiMf1BoxpjpELTPhEnahwTuROxdoE+nIiZCzUz2li9yOe/vBcdQBbiYVHkxAMFY8LX7FKaVvHdbZ5h5wWeykICGBWzoqUX4bxfiu+/cHhgF4KQK3FhC75laYxWS3W6GvW2LtRcB2M+5XpNPz6bj5nS8t/CCa50dEzRWHS2c/USa2KPfnEvBUasyzF/ias22dWBvG+Cb5VwEEp5MJpmD2qpfKziXO50IKwBrnCs89oIPgSg+LKtjUSR58h1V/QUK+mf2eEPRk/YoTSFBTN7WhOq+l9CFMcPgk8tETDgLNgWMLCrD/EuRzZS1S0CYNH81ZsmhD/g1X/ckBOLunN3BH3GCaMCudPjmS2oLlB1SvKYeIghAFyA8D5y31PbdX+nUw7+SIGDzqjdeOI/QTC+TaWJuSpRgA1LgeTdD1ICxt9VyF4miadxe/ognYLlGe/ls/+ShZG008TSVHDyTNm9ihNndrmCp8bZ8H7Bj12w==;fvJmJB+QXKerYCDvF8aFiA=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/learning-on-the-edge.jpg"
+    width: 900
+    height: 600
+    isCached: true
+
+secured: "69aapRe2rni2l+QS8DdxBv5LeffpooJAf5MsrVGo4R7Ra0Ajkgz7CxopLAPqxWMbSoXdvV7pyrO/A352xWRNyYN/d2lLxLM5v0C7Su4+JTzukrdz7iYgA/3lRaKL0DRur2risUGfBwqRuyoab+pKPWUV5R/L9KwYKe6nBaaZ9QKjJXKTJosHT3QKvcF4BNcmKjmlRrVuyfJTdpNM4mkzJq4pmd9HWuMwlM4E40ddYxumpvkydakog/7lwNGrx/Ek88Qu0AAsILklU662ZeTuBptm+1n2MHQ62zUUQTKX3QodPP6oJQlkxfPyt7RntTV0oS1BIpmBiVcjp9suDyxt19S7RXPtf/7qhFusjrQaews=;uUWYbygzu5jRHDbo92/nXQ=="
 ---
 

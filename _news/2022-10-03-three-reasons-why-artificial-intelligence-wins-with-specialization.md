@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/03/three-reas
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/03/three-reasons-why-artificial-intelligence-wins-with-specialization/amp/"
 type: article
 quality: 91
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trustworthy AI is now within reach"
-    excerpt: "The new field of AI Ethics includes Responsible and Trustworthy AI, with the goal of doing no harm with artificial intelligence algorithms."
-    publishedDateTime: 2022-09-30T03:29:00Z
-    webUrl: "https://venturebeat.com/ai/trustworthy-ai-is-now-within-reach/"
-    ampWebUrl: "https://venturebeat.com/ai/trustworthy-ai-is-now-within-reach/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/trustworthy-ai-is-now-within-reach/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-black_box_AI_explainable_AI_1324510115-e1662994691115.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "White House AI Bill of Rights lacks specific recommendations for AI rules"
     excerpt: "The document unveiled today by the White House Office of Science and Technology Policy is long on tech guidance, but short on restrictions for AI."
     publishedDateTime: 2022-10-04T11:00:00Z

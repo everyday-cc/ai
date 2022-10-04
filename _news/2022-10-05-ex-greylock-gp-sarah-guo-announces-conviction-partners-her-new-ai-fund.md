@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-04T19:50:00Z
 originalUrl: "https://www.forbes.com/sites/kenrickcai/2022/10/04/ex-greylock-gp-sarah-guo-announces-conviction-partners-her-new-ai-fund/"
 webUrl: "https://www.forbes.com/sites/kenrickcai/2022/10/04/ex-greylock-gp-sarah-guo-announces-conviction-partners-her-new-ai-fund/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

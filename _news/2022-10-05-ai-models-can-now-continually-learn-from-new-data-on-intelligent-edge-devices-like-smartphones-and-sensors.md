@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-04T19:12:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/10/221004134359.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/10/221004134359.htm"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: Science Daily
