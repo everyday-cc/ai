@@ -2,6 +2,144 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-09-27-saudi-data-ai-authority-sdaia-and-ministry-of-energy-partner-with-ibm-to-accelerate-sustainability-initiatives-in-saudi-arabia-using-ai.md",
+      "title": "Saudi Data, AI Authority (SDAIA) and Ministry of Energy Partner with IBM to Accelerate Sustainability Initiatives in Saudi Arabia Using AI",
+      "excerpt": "RIYADH, Saudi Arabia and ARMONK, N.Y., Sept. 27, 2022 /PRNewswire/ -- Saudi Data and Artificial Intelligence Authority (SDAIA) and IBM (NYSE: IBM) announced today the signing of a strategic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxan.com/business/press-releases/cision/20220927NY84344/saudi-data-ai-authority-sdaia-and-ministry-of-energy-partner-with-ibm-to-accelerate-sustainability-initiatives-in-saudi-arabia-using-ai/",
+      "originalUrl": "https://www.kxan.com/business/press-releases/cision/20220927NY84344/saudi-data-ai-authority-sdaia-and-ministry-of-energy-partner-with-ibm-to-accelerate-sustainability-initiatives-in-saudi-arabia-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1907789/SDAIA_Image.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-26T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXAN",
+        "domain": "kxan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-nvidia-gtc-highlights-memory-and-storage-importance-for-the-future.md",
+      "title": "NVIDIA GTC Highlights Memory And Storage Importance For The Future",
+      "excerpt": "The NVIDIA GTC brought out new GPU and other hardware that will accelerate data processing in gaming, enterprise computing, cloud computing, automotive and media creation and require large amounts of memory and storage to support the creation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2022/09/26/nvidia-gtc-highlights-memory-and-storage-importance-for-the-future/",
+      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2022/09/26/nvidia-gtc-highlights-memory-and-storage-importance-for-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633266af606c3425ffdd5382/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2022/09/26/nvidia-gtc-highlights-memory-and-storage-importance-for-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2022/09/26/nvidia-gtc-highlights-memory-and-storage-importance-for-the-future/amp/",
+      "publishedDateTime": "2022-09-26T20:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech.md",
+      "title": "Avoiding a surveillance society: how better rules can rein in facial recognition tech",
+      "excerpt": "The Facial Recognition Model Law Project, to which this article refers, was undertaken by HTI, with funding from UTS and support from the UTS Centre for Social Justice & Inclusion. UTS has ...",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075",
+      "originalUrl": "https://theconversation.com/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/486445/original/file-20220926-14387-rumoex.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075",
+      "publishedDateTime": "2022-09-26T18:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-27-james-earl-jones-steps-back-from-voicing-darth-vader-signs-off-on-using-archived-recordings-to-recreate-voice-with-ai.md",
       "title": "James Earl Jones steps back from voicing Darth Vader, signs off on using archived recordings to recreate voice with AI",
       "excerpt": "James Earl Jones, who has voiced Darth Vader for nearly 50 years of “Star Wars” films, seems to be stepping away from the role. According to Vanity Fair, the 91-year-old actor has signed off on archival voice recordings being used by young filmmakers,",
@@ -1020,154 +1158,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-closing-the-gap-between-marketing-and-ai-systems.md",
-      "title": "Closing The Gap Between Marketing And AI Systems",
-      "excerpt": "Today, thanks to AI, even a small business can achieve great success through a global audience, democratizing this opportunity for those willing to work for it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6287969035c5da55f8c60506/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/amp/",
-      "publishedDateTime": "2022-09-26T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-how-ai-can-help-protect-us-from-future-wildfires.md",
-      "title": "How AI Can Help Protect Us From Future Wildfires",
-      "excerpt": "Researchers at Stanford University recently developed an AI model for predicting dangerous particle pollution to help track the American West’s rapidly worsening wildfire smoke.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamiehailstone/2022/09/26/how-ai-can-help-protect-us-from-future-wildfires/",
-      "originalUrl": "https://www.forbes.com/sites/jamiehailstone/2022/09/26/how-ai-can-help-protect-us-from-future-wildfires/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6331819d020d0c1a157d2c27/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamiehailstone/2022/09/26/how-ai-can-help-protect-us-from-future-wildfires/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiehailstone/2022/09/26/how-ai-can-help-protect-us-from-future-wildfires/amp/",
-      "publishedDateTime": "2022-09-26T03:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-is-artificial-intelligence-the-pill-that-health-care-needs.md",
-      "title": "Is artificial intelligence the pill that health care needs?",
-      "excerpt": "At a Toronto hospital, AI is being used to predict staffing needs in emergency departments. And it can help determine likelihood of a patient dying.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com/news/gta/2022/09/26/is-artificial-intelligence-the-pill-that-health-care-needs.html",
-      "originalUrl": "https://www.thestar.com/news/gta/2022/09/26/is-artificial-intelligence-the-pill-that-health-care-needs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestar.com/content/dam/thestar/news/gta/2022/09/26/most-canadian-post-secondary-students-are-grappling-with-mental-health-challenges-two-years-after-the-start-of-covid-19/student_stress.jpg.size.custom.crop.640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestar.com/amp/news/gta/2022/09/26/is-artificial-intelligence-the-pill-that-health-care-needs.html",
-      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/gta/2022/09/26/is-artificial-intelligence-the-pill-that-health-care-needs.html",
-      "publishedDateTime": "2022-09-26T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Toronto Star",
-        "domain": "thestar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

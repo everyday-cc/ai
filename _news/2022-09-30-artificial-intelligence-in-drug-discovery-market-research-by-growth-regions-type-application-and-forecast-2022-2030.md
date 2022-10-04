@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Gesture Recognition Market Segmentation, Future Trends, Growth Overview, Key Companies and Forecast by 2027"
+    excerpt: "The global Gesture Recognition market size was valued at USD 13839.6 million in 2021 and is expected to expand at a CAGR"
+    publishedDateTime: 2022-10-04T09:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/gesture-recognition-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2027-2022-10-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Communications Platform-as-a-Service (CPaaS) Global Market Report 2022: Integration of AI & Machine Learning Presents Opportunities"
     excerpt: "Additionally, the integration of artificial intelligence (AI) and machine learning (ML) for speech recognition, automation, agent augmentation, emotion analysis, and call analytics is providing an impetus to the market growth. Moreover, the increasing ..."
     publishedDateTime: 2022-10-03T09:03:00Z

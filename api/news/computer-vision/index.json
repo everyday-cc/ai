@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-04-artificial-intelligence-in-video-production.md",
+      "title": "Artificial Intelligence in Video Production",
+      "excerpt": "Introduction  Artificial Intelligence has promised so much for so long, and in many ways, it’s been less than perfect. Siri doesn’t quite understand what you’re asking; Google Translate can’t yet seamlessly bridge the gap between languages,",
+      "sourceUrl": null,
+      "webUrl": "https://www.provideocoalition.com/artificial-intelligence-in-video-production/",
+      "originalUrl": "https://www.provideocoalition.com/artificial-intelligence-in-video-production/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.provideocoalition.com/wp-content/uploads/image-recognition-2.jpg",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.provideocoalition.com/artificial-intelligence-in-video-production/amp/",
+      "cdnAmpWebUrl": "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/artificial-intelligence-in-video-production/amp/",
+      "publishedDateTime": "2022-10-04T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "provideocoalition.com",
+        "domain": "provideocoalition.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-how-the-innovators-brain-works.md",
       "title": "How The Innovator’s Brain Works",
       "excerpt": "How does the human brain learn to innovate? The Thousand Brain theory has direct, important, unexpected implications for how people learn to innovate, and therefore for how teachers, coaches, managers,",
@@ -211,7 +255,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-2022-business-overview-new-trends-growth-analysis-and-forecast-to-2030-2022-09-30",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -255,49 +299,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-30-how-computer-vision-and-artificial-intelligence-can-help-the-retail-industry-maximize-the-value-of-their-brick-mortar-footprint.md",
-      "title": "How computer vision and artificial intelligence can help the retail industry maximize the value of their brick & mortar footprint",
-      "excerpt": "The lockdown generated a wave of disruption across the retail industry, leaving many physical retailers scrambling to meet public demand. They had to pivot their focus on creating highly optimized digital shopping experiences and",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-computer-vision-and-artificial-intelligence-can-help-the-retail-industry-maximize-the-value-of-their-brick-mortar-footprint/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-computer-vision-and-artificial-intelligence-can-help-the-retail-industry-maximize-the-value-of-their-brick-mortar-footprint/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-computer-vision-and-artificial-intelligence-can-help-the-retail-industry-maximize-the-value-of-their-brick-mortar-footprint/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-computer-vision-and-artificial-intelligence-can-help-the-retail-industry-maximize-the-value-of-their-brick-mortar-footprint/",
-      "publishedDateTime": "2022-09-30T03:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-30-house-democrats-debut-new-bill-to-limit-us-police-use-of-facial-recognition.md",
       "title": "House Democrats debut new bill to limit US police use of facial recognition",
       "excerpt": "The bill, if passed, would require police across the United States to first obtain a warrant before using facial recognition technologies.",
@@ -306,7 +307,7 @@
       "originalUrl": "https://techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -382,6 +383,49 @@
         "Computer Vision",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-renesas-expands-rzv-series-with-built-in-vision-ai-accelerator-for-accurate-image-recognition-and-multi-camera-image-support.md",
+      "title": "Renesas Expands RZ/V Series with Built-in Vision AI Accelerator for Accurate Image Recognition and Multi-Camera Image Support",
+      "excerpt": "Renesas Electronics Corporation (TSE: 6723), a premier supplier of advanced semiconductor solutions, has expanded its AI-capable RZ/V Series of microprocessors (MPUs), with a new device that enables AI processing of image data from multiple cameras,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/09/29/9683183.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/09/29/9683183.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
+          "width": 476,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-29T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1393,59 +1437,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-3d-facial-recognition-systems-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028.md",
-      "title": "3D Facial Recognition Systems Market landscape, Top Competitor Analysis, Revenue, Sales With Forecast Data from 2022 to 2028",
-      "excerpt": "The purpose of the research report is to provide a clear, accurate, and comprehensive report on the “ 3D Facial Recognition Systems market ”. It should help to clarify the research issues so that management can use the findings to make decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-systems-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-09-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-systems-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-09-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

@@ -41,15 +41,6 @@ related:
         width: 2000
         height: 1500
         isCached: true
-  - title: "Early Money: Here's how this San Francisco startup is aiming to help people with cerebral palsy and multiple sclerosis"
-    excerpt: "Jeremiah Robison got a close-up view of such challenges raising a daughter with cerebral palsy. Robison was determined to do something about such problems, figuring that advances in sensors and machine learning could be used to help give greater mobility to those with disabilities."
-    publishedDateTime: 2022-09-29T18:02:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2022/09/29/early-money-this-sf-startup-aims-to-help-mobility.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "87yO8CoH0jK3rp7lND3clUMoEJN0amT1j5YxMtVuhplF4JS+5owPIsOftH5IZGdCeOx63JTmQTy2gbUEa+KPn7KVqFH50W9mwJ8r5wXWEYwU4Oljofa8bM0lM5RMPVMFU3eKpFHa6/U7BOlVWdWofGWt9yLMHX4IHHUN53qf5xzXZQpzinfA/ZS0yCTJFe7TrS6I1PBk+VXBz74x1vr78q9CiYp44x4Vfrh3PCJ0fYmlQ8qwcChzC/ueE+dHGlqxFw+4ff/t0mzi+PqwgOfCjzdpYKy6ZjS1Lf9Tf5gtre3XfJrPpt7T29tnQusgCHGA8YTR1pLE+Ykh4MgAPHvekWUcYcgeoIn7oh4EoIIVDxE=;iM72tRAM9qHVOExoLGnFXQ=="
 ---

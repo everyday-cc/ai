@@ -2,6 +2,154 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-09-28-see-what-happens-when-ai-turns-simpsons-characters-into-real-people.md",
+      "title": "See What Happens When AI Turns 'Simpsons' Characters Into Real People",
+      "excerpt": "Leslie Katz leads a team that explores the intersection of tech and culture, plus all manner of awe-inspiring science, from space to AI and archaeology. When she's not smithing words, she's probably playing online word games,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/culture/internet/heres-what-happens-when-ai-turns-simpsons-characters-into-real-people/",
+      "originalUrl": "https://www.cnet.com/culture/internet/heres-what-happens-when-ai-turns-simpsons-characters-into-real-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/ecf4a3226bb84838b30962de84e7626f3150294e/hub/2022/09/26/4031b775-1b21-44aa-8b8a-5e8d8e22afbc/collage-maker-26-sep-2022-01-56-pm-1.jpg?auto=webp",
+          "width": 886,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/heres-what-happens-when-ai-turns-simpsons-characters-into-real-people/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/heres-what-happens-when-ai-turns-simpsons-characters-into-real-people/",
+      "publishedDateTime": "2022-09-27T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-how-ai-service-startup-aisera-is-helping-companies-embrace-machine-learning-to-automate-tasks.md",
+      "title": "How AI service startup Aisera is helping companies embrace machine learning to automate tasks",
+      "excerpt": "More companies are beginning to embrace AI in key parts of their businesses, and Sudhakar predicts it will be part of every company's technology stack. His startup, Aisera, uses machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/how-ai-startup-aisera-helping-companies-automate-tasks-2022-9",
+      "originalUrl": "https://www.businessinsider.com/how-ai-startup-aisera-helping-companies-automate-tasks-2022-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/632a312bedbe7f00190f21f2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/how-ai-startup-aisera-helping-companies-automate-tasks-2022-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-ai-startup-aisera-helping-companies-automate-tasks-2022-9?amp",
+      "publishedDateTime": "2022-09-27T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-ai-and-machine-learning-enter-the-kitchen-at-chipotle.md",
+      "title": "AI and Machine Learning Enter the Kitchen at Chipotle",
+      "excerpt": "The first, piloting in select Southern California restaurants, is a cook-to-needs kitchen management system that provides demand-based cooking and ingredient preparation forecasts to “optimize throughput and freshness while minimizing food waste,",
+      "sourceUrl": null,
+      "webUrl": "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enter-kitchen-chipotle",
+      "originalUrl": "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enter-kitchen-chipotle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2022-09/Chipotlane.jpg?itok=5BEjL9Eh",
+          "width": 765,
+          "height": 446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "QSR magazine",
+        "domain": "qsrmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-09-27-intel-ceo-on-high-gpu-prices-you-should-be-frustrated.md",
       "title": "Intel CEO on high GPU prices: ‘You should be frustrated’",
       "excerpt": "Intel revealed the pricing and release date for its upcoming Arc Alchemist GPUs, along with a sobering message on high GPU prices: \"ou should be frustrated.",
@@ -1082,144 +1230,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-saudi-data-ai-authority-sdaia-and-ministry-of-energy-partner-with-ibm-to-accelerate-sustainability-initiatives-in-saudi-arabia-using-ai.md",
-      "title": "Saudi Data, AI Authority (SDAIA) and Ministry of Energy Partner with IBM to Accelerate Sustainability Initiatives in Saudi Arabia Using AI",
-      "excerpt": "RIYADH, Saudi Arabia and ARMONK, N.Y., Sept. 27, 2022 /PRNewswire/ -- Saudi Data and Artificial Intelligence Authority (SDAIA) and IBM (NYSE: IBM) announced today the signing of a strategic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kxan.com/business/press-releases/cision/20220927NY84344/saudi-data-ai-authority-sdaia-and-ministry-of-energy-partner-with-ibm-to-accelerate-sustainability-initiatives-in-saudi-arabia-using-ai/",
-      "originalUrl": "https://www.kxan.com/business/press-releases/cision/20220927NY84344/saudi-data-ai-authority-sdaia-and-ministry-of-energy-partner-with-ibm-to-accelerate-sustainability-initiatives-in-saudi-arabia-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1907789/SDAIA_Image.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-26T21:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KXAN",
-        "domain": "kxan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-nvidia-gtc-highlights-memory-and-storage-importance-for-the-future.md",
-      "title": "NVIDIA GTC Highlights Memory And Storage Importance For The Future",
-      "excerpt": "The NVIDIA GTC brought out new GPU and other hardware that will accelerate data processing in gaming, enterprise computing, cloud computing, automotive and media creation and require large amounts of memory and storage to support the creation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2022/09/26/nvidia-gtc-highlights-memory-and-storage-importance-for-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2022/09/26/nvidia-gtc-highlights-memory-and-storage-importance-for-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/633266af606c3425ffdd5382/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2022/09/26/nvidia-gtc-highlights-memory-and-storage-importance-for-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2022/09/26/nvidia-gtc-highlights-memory-and-storage-importance-for-the-future/amp/",
-      "publishedDateTime": "2022-09-26T20:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech.md",
-      "title": "Avoiding a surveillance society: how better rules can rein in facial recognition tech",
-      "excerpt": "The Facial Recognition Model Law Project, to which this article refers, was undertaken by HTI, with funding from UTS and support from the UTS Centre for Social Justice & Inclusion. UTS has ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075",
-      "originalUrl": "https://theconversation.com/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/486445/original/file-20220926-14387-rumoex.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075",
-      "publishedDateTime": "2022-09-26T18:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

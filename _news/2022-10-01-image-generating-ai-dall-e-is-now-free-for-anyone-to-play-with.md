@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/image-generating-ai-is-now-m
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/image-generating-ai-is-now-more-accessible-to-the-public/?amp"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The grandfather of AI art, DALL-E, is now free for you to try"
-    excerpt: "OpenAI has opened up the DALL-E AI art generator for anyone to try for free, with a credit system that replenishes monthly. It's simple, easy, and effective with the right prompts."
-    publishedDateTime: 2022-09-29T17:31:00Z
-    webUrl: "https://www.pcworld.com/article/1338403/the-grandfather-of-ai-art-dall-e-is-now-free-for-you-to-try.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 69
-    images:
-      - url: "https://www.pcworld.com/wp-content/uploads/2022/09/DALL·E-2022-09-29-09.57.40-a-photo-of-a-kraken-emerging-from-the-ocean-underneath-the-Golden-Gate-Bridge-large.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 1024
-        isCached: true
   - title: "Meta is pivoting to video with its new AI generator"
     excerpt: "This new research tool can take text, video, or images and turn them into a short animated clip. Here's how it was created."
     publishedDateTime: 2022-09-30T15:00:00Z

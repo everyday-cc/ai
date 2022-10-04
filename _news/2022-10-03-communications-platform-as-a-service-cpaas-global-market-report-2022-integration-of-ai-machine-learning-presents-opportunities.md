@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Gesture Recognition Market Segmentation, Future Trends, Growth Overview, Key Companies and Forecast by 2027"
+    excerpt: "The global Gesture Recognition market size was valued at USD 13839.6 million in 2021 and is expected to expand at a CAGR"
+    publishedDateTime: 2022-10-04T09:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/gesture-recognition-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2027-2022-10-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ZVWjtv2SXP7Al/9c01F9WDoN4lmf/CrTUDGEJMALqADKDiFqFiOJBWnSkPQ83ofPBMR/alGCITt7WAcGRjh/SuNqxlP09eE1MeN8wWG72US8UuAkCej7gCXcydQDOTswDkfCjFEWD4cHzmk03sjYiZ5+6r2K7b9zNC7uaV1s1ENsf/bqykKKpopXED+Pj94T2WW5ksysK9Y837EJw9FFNckopZrrCgJ2vXGSNWi/A2qzaH52nWCk768iaZOIHY7F8f5ztb9yYWEe1h7vWyciL2JUKAn7hDwrSZQsC+aZG1u4UxFlhd3VHdpbLIw7WkLlZh5zlreFIxd9U30rcKau9w/geNjVgcXRN7KpzcuARH4=;UZP7hIMsjtmRVdX3m51M0w=="
 ---

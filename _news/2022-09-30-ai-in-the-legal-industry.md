@@ -27,21 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "How computer vision and artificial intelligence can help the retail industry maximize the value of their brick & mortar footprint"
-    excerpt: "The lockdown generated a wave of disruption across the retail industry, leaving many physical retailers scrambling to meet public demand. They had to pivot their focus on creating highly optimized digital shopping experiences and"
-    publishedDateTime: 2022-09-30T10:54:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-computer-vision-and-artificial-intelligence-can-help-the-retail-industry-maximize-the-value-of-their-brick-mortar-footprint/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-computer-vision-and-artificial-intelligence-can-help-the-retail-industry-maximize-the-value-of-their-brick-mortar-footprint/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-computer-vision-and-artificial-intelligence-can-help-the-retail-industry-maximize-the-value-of-their-brick-mortar-footprint/"
+  - title: "Artificial Intelligence in Video Production"
+    excerpt: "Introduction  Artificial Intelligence has promised so much for so long, and in many ways, it’s been less than perfect. Siri doesn’t quite understand what you’re asking; Google Translate can’t yet seamlessly bridge the gap between languages,"
+    publishedDateTime: 2022-10-04T10:53:00Z
+    webUrl: "https://www.provideocoalition.com/artificial-intelligence-in-video-production/"
+    ampWebUrl: "https://www.provideocoalition.com/artificial-intelligence-in-video-production/amp/"
+    cdnAmpWebUrl: "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/artificial-intelligence-in-video-production/amp/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 60
+      name: provideocoalition.com
+      domain: provideocoalition.com
+    quality: 61
     images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
+      - url: "https://www.provideocoalition.com/wp-content/uploads/image-recognition-2.jpg"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "Meta’s new AI can turn text prompts into videos"
+    excerpt: "Meta has today unveiled an AI system that generates short videos based on text prompts. Make-A-Video lets you type in a string of words, like “A dog wearing a superhero outfit with a red cape flying through the sky,"
+    publishedDateTime: 2022-09-30T10:35:00Z
+    webUrl: "https://www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/09/dog-gif.gif?w=512"
+        width: 512
+        height: 512
         isCached: true
 
 secured: "4SAPZ+e6qcCj8eYiyHsyRYz+Jtbtl7Ny1CTRW2IKL3IcHtj2lb34wex8BTmrQkzcw3oEHtQa1TIdDM4wp9jIPFzfrGUUbVoKSX/k6uq2f/i0R9cOrpgk/A0maxuf/m7Gqmgnqv3aKJOrW5hoEmIMd6rkO0jkE5Xz2JYsBR9P0jkNgqrjkUbuMNsvDGu64IS9ITi5PU8prdqrdyQW16Ysw83f2Nrti0N2QKSjxYJqJqnz9xd1dWC0bWotpOjwlO/OIyszyxqqrp/CX1OiAza1W9l3R6o9fkd+NVEDFWLvmyxiZS9s/ysjqX/6nJbN0fdrU+TQEfY87OOYPMjSJThma4qBgeFq6XHSh42O8P8DN6VOKXXsueNmP4jULPJETGCuVGjInD9CgrS3EFy09wVozPfFwKcLXK7J4f2aYIfgz7keKc9FiHBaRMSBiCkQjq/5XtqaoRDPH55ez5lj88gVF7NEqmCvn2vQdG6h5GaZ9GFKMOC8ojHO/hZ44aXHrhdPnDlByh6mQC0znvmAgS48dg==;M710WHmujNXee0/hzzeorQ=="

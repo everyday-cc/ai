@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "TechStars CEO On The Future Of FinTech"
+    excerpt: "Meeting up with TechStars CEO Maëlle Gavet at the Collision conference in Toronto. Here’s what she is excited about in financial technology."
+    publishedDateTime: 2022-10-04T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/633b75a5d5779d3d6278b209/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 835
+        isCached: true
   - title: "Artificial Intelligence (AI) in Fintech Market is expected"
     excerpt: "According to a new report published by UnivDatos Markets Insights, the AI in Fintech Market is expected to grow at a CAGR of around 30% from 2022-2028. The analysis has been segmented into Type (Service and Solution);"
     publishedDateTime: 2022-10-03T16:01:00Z
@@ -38,6 +54,22 @@ related:
       - url: "https://mma.prnewswire.com/media/1225049/UnivDatos_Logo.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "Fintech and future of money"
+    excerpt: "The gigantic challenges that we face today, from Covid-19 to the war in Ukraine all have reminded us that throughout history and turbulent times innovation has helped humanity to adapt, sustain and grow."
+    publishedDateTime: 2022-10-04T10:30:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-and-future-of-money/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-and-future-of-money/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/fintech-and-future-of-money/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/10/Photo.jpeg"
+        width: 890
+        height: 1024
         isCached: true
   - title: "Fintech Files: Part 3 | When the RBI sneezes, fintechs catch a cold"
     excerpt: "A slew of circulars from the Reserve Bank of India has forced the fintech industry to abandon its growth-at-all-costs approach and scramble to comply with the stringent regulations"

@@ -3,8 +3,8 @@ category: news
 title: "Bruce Willis has no deal with company that created his 'digital twin': rep"
 excerpt: "Bruce Willis has retired from making movies since his aphasia diagnosis, but he may continue to be an action star. How? Well, technology."
 publishedDateTime: 2022-09-30T22:09:00Z
-originalUrl: "https://www.aol.com/bruce-willis-may-still-appear-190942819.html"
-webUrl: "https://www.aol.com/bruce-willis-may-still-appear-190942819.html"
+originalUrl: "https://www.aol.com/entertainment/bruce-willis-may-still-appear-190942819.html"
+webUrl: "https://www.aol.com/entertainment/bruce-willis-may-still-appear-190942819.html"
 type: article
 quality: 22
 heat: -1
@@ -56,6 +56,6 @@ related:
         height: 800
         isCached: true
 
-secured: "kwDAJqV5gUyNnKuWHh9esqOLS1rOVg85g6jNh/0T2Oqas9RSRo78PONHUzcfejg5uHtVFxn614E9XTzf4WbszoPVToBmiR1M6Xb9AYVknTVuhbf14StE4dm97d4MAor0bKhQbCikwGcx+e0mqPMx+DHyKDRaErFZ93m0rIYsh5JWfRVLOLu+Y9QaRrXVnA1CKKcLuQ7261ezT+tGGlSrbQ7priz2S7V7TnvRqbb3w/OagK+kmkaimEenXsNhklzPPBnD2d7A9zJA26w9t/NbnKSEPv/d25oSFdoyv/oD9kh/n0wjYkrJDTYUmyNVxMILaUWMZk6WYG6LXdvSW11LP0LaHNOwMk4NX2OIl7/wq3C31oY01CxEnkW3NZeKHbBhI61m9zX19UaDFGiSNvrMccVbQHj7cdwWJngdGZzS6jVQuOzlbnbOYgA2pZQqtYW2+/BiQm2VBMcB13F0k7ePayn1cyrGIZK3dwdQbMXui24CO5MrHDB3Rf0E3zsL+TNJZXTXkIBXqsX7yXKD9gVqog==;6rXGF3D1b8JefQM5pyweFg=="
+secured: "Se7srxMPO1vpWzG1UuxlKPVd9He98jFANLDsMWbZ+X2kD7IMnVY0KfPPXj7Bofz8HMqRvLuUmuNwjjW9vXTT3gmWs7//P4U2aDUy6kHg9fI4LAQVi2EY3zlU9fBr/Ryk7RoFlL2jQGXMF9L1NjSKO+ju3vXF7Z6bS9dqdbOGOm6yotaOsF9UjwIek2SuSkw00TLap130yah1KBhbE5GsoB1kxOnvxI2ln14WZdoed7d1KQhGZAtzVwMEeECDVV9fKIWvyfmTlZjZvPeCU2sepGVo7bUbMN660bKgtas/ItjNEDU/jzJIawqWTOuCo9t7o+IgcBZ+8d1qm45N1/pWY18hQSRxXEt6eoDYYwMIzE8=;FHnNjT6qdH6zW6pqjoYdKA=="
 ---
 

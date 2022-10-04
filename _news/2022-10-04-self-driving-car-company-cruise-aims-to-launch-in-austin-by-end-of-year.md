@@ -9,8 +9,8 @@ ampWebUrl: "https://www.kut.org/business/2022-10-03/cruise-promises-self-driving
 cdnAmpWebUrl: "https://www-kut-org.cdn.ampproject.org/c/s/www.kut.org/business/2022-10-03/cruise-promises-self-driving-cars-to-austin?_amp=true"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: KUT
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "You can now take a self-driving Lyft in Austin"
+    excerpt: "Lyft is now offering the option of a self-driving car for the same price as a normal ride. Austin joins Miami and Las Vegas as the third city where Lyft riders can hail an autonomous ride."
+    publishedDateTime: 2022-10-01T11:56:00Z
+    webUrl: "https://www.kvue.com/article/news/local/self-driving-lyft-austin-texas-rideshare/269-038307e8-a4cc-4947-b315-abbb81ac085d"
+    ampWebUrl: "https://www.kvue.com/amp/article/news/local/self-driving-lyft-austin-texas-rideshare/269-038307e8-a4cc-4947-b315-abbb81ac085d"
+    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/news/local/self-driving-lyft-austin-texas-rideshare/269-038307e8-a4cc-4947-b315-abbb81ac085d"
+    type: article
+    provider:
+      name: KVUE
+      domain: kvue.com
+    quality: 44
+    images:
+      - url: "https://media.kvue.com/assets/KVUE/images/a71c435b-94fa-4f22-8222-37907d67653e/a71c435b-94fa-4f22-8222-37907d67653e_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Here’s what some of those self-driving trucks are hauling in Texas"
     excerpt: "The companies are delivering the freight in Class 8 trucks using Waymo’s self-driving software and a safety driver behind the wheel. “We saw really good maturity and performance from the system,” said Charlie Jatt,"
     publishedDateTime: 2022-10-03T23:00:00Z

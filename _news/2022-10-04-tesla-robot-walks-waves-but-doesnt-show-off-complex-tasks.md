@@ -1,23 +1,29 @@
 ---
 category: news
-title: "Tesla robot walks, waves, but doesn't show off complex tasks"
-excerpt: "But the basic tasks by the robot with exposed wires and electronics — as well as a later, next-generation version that had to be carried onstage by three men — was a long way from CEO Elon Musk's vision of a human-like robot that can change the world."
-publishedDateTime: 2022-10-03T19:38:00Z
-originalUrl: "https://www.statesman.com/story/business/technology/2022/10/03/tesla-optimus-robot-walks-waves-doesnt-show-off-complex-tasks/69536356007/"
-webUrl: "https://www.statesman.com/story/business/technology/2022/10/03/tesla-optimus-robot-walks-waves-doesnt-show-off-complex-tasks/69536356007/"
+title: "Tesla robot walks, waves, but doesn’t show off complex tasks"
+excerpt: "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the c"
+publishedDateTime: 2022-10-04T11:36:00Z
+originalUrl: "https://www.newstalkzb.co.nz/news/business/tesla-robot-walks-waves-but-doesn-t-show-off-complex-tasks/"
+webUrl: "https://www.newstalkzb.co.nz/news/business/tesla-robot-walks-waves-but-doesn-t-show-off-complex-tasks/"
 type: article
-quality: 36
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Austin American-Statesman
-  domain: statesman.com
+  name: Newstalk ZB
+  domain: newstalkzb.co.nz
 
 topics:
   - AI in Robotics
   - AI
   - AI in Autos
+
+images:
+  - url: "https://www.newstalkzb.co.nz/media/5iwadaoa/optimus-humanoid-prototype-demo.jpeg?rmode=crop&rnd=133093640277730000&height=395&width=635&quality=95&scale=both"
+    width: 635
+    height: 395
+    isCached: true
 
 related:
   - title: "Tesla's robot waves but can't walk, yet. Musk plans to make millions of them"
@@ -94,6 +100,6 @@ related:
       domain: nbcnewyork.com
     quality: 50
 
-secured: "a7NPD8qc5u7doBWZxNdU8gqAY6LHrqkYObYc+WNS6J+e+UVLI3+dWEmw9ftLtVfoedeUKlllMpIBXTGHzirLD40iwHhTFYQHJK873BNB2rED1DM5bpLZlWXvZV6cmlOAZ7eadi+Lv961Bfh0QQa1r6XVHO+oJao8HFb2eCnnDh/A6x6nZ7r7BfiqAbUVXSoFMRoBcyRYYl0AKutFVCPBfPTERhJ/04Z4XBgCjVp6OpbbvgbTc0opFpNnU5hpMq3+biHY/c5lBW+Exb7dv7SD5qoK6TlgUbETo4YyruEXZQ6IFjGuLOPXKQhjRK5K14fdZnKilHCP5NznN10+uKxAC5EfqjvQVRLiNZAMJYnyQiw6c8sFzmNI+b9uyMrQkcxWt9tPyuOnG/rEDHekXS9Zm3KSqS/MLgJKx7FwXnOw7owbVee3bn7yazeA1sbgWOLlazfiAuQaq1BKU51OKl8kpNIWEHdE+v9s7hkiV6A0Bpph7x+fV9OkkfcGGFX/GU3+LXl45AYkSFGk5eoMbBcC8Q==;HtcDbyVr2bIxlnwgixBtwQ=="
+secured: "JCv7m8affppVUYN5coQOWj+at2Wov1+LrLMh+daVATHYa2EQgdGCsrp3gJykmS9tny87+3Yl16/qZHPv4d8U/BiJrR8Xq3BGCBvwc75XMZ6Cfth73qj5S97oYmeW+58xD8fxcuPy9cAd3ZcDMVbk+PXIofLLTlQvdjlKlFCMS9fVz2/3SLYu0tnsPAQKAA4RrZS3OuoQKZBLw7vJZzmnl7mk58S0XlDnq21jahF2erzHyQRy/JHxcZRMNhq6aO+IXA6K33GTN6pvhYET8b/06/+SskGmJA4DD3BlXNQOh2obLsZ4J7fsWR9SuJc8ssDtM4b3/J2NzcSLrRrzIK2rLQ1lgdb5EZ+8M7Va5mz3/sM=;e7QoIpejx7DpiIN3aZuoTw=="
 ---
 

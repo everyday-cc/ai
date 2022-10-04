@@ -2,6 +2,154 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2022-08-31-jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots.md",
+      "title": "Jio Haptik collaborates with Microsoft Azure to enhance Hindi chatbots",
+      "excerpt": "The company claims that it has facilitated over 2 million conversations on Jio Mobility with an 80 per cent reduction in human interventions and a 2.5 times increase in localised queries. Jio Haptik at present supports conversation in 130 languages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcquest.com/jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots/",
+      "originalUrl": "https://www.pcquest.com/jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcquest.com/wp-content/uploads/2018/04/chatbots.jpg",
+          "width": 750,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcquest.com/jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots/amp/",
+      "cdnAmpWebUrl": "https://www-pcquest-com.cdn.ampproject.org/c/s/www.pcquest.com/jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots/amp/",
+      "publishedDateTime": "2022-08-31T03:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCQuest",
+        "domain": "pcquest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-mi5-reveals-it-has-been-working-with-an-ai-non-profit-on-national-security-since-2017.md",
+      "title": "MI5 reveals it has been working with an AI non-profit on national security since 2017",
+      "excerpt": "The security service has been working with The Alan Turing Institute and has decided to unveil the partnership today to allow the pair to work more closely together",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368922/mi5-reveals-it-has-been-working-with-an-ai-non-profit-national-security-2017",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368922/mi5-reveals-it-has-been-working-with-an-ai-non-profit-national-security-2017",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1661941040/itpro/2022/August/MI5_HQ_Thames_House_London_spy_GettyImages-182911822.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-ai-in-fintech-global-market-to-reach-2417-billion-by-2026.md",
+      "title": "AI in FinTech Global Market to Reach $24.17 Billion by 2026",
+      "excerpt": "AI in FinTech Global Market to Reach $24.17 Billion by 2026 Aug 31, 2022 (PRNewswire via COMTEX) -- PR Newswire DUBLIN, DUBLIN, Aug. 31,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-global-market-to-reach-2417-billion-by-2026-2022-08-31",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-global-market-to-reach-2417-billion-by-2026-2022-08-31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-31-removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology.md",
       "title": "Removing the data security barriers and concerns to accelerate speech recognition usage in radiology",
       "excerpt": "According to Scribetech, security is a key barrier to adopting speech recognition – despite its potential to accelerate reporting time, drive accuracy, and enable radiologists to deal with a ...",
@@ -941,144 +1089,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-waymo-opens-driverless-robotaxi-service-in-phoenix-to-locals-who-cant-share-experiences-online.md",
-      "title": "Waymo opens driverless robotaxi service in Phoenix to locals who can't share experiences online",
-      "excerpt": "Waymo is rolling out its driverless robotaxi service in Phoenix for members of the Alphabet-owned company's 'trusted tester' program - but users can't share their experience on social media and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11161047/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11161047/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/08/30/17/61875391-0-image-a-10_1661876995094.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-11161047/amp/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11161047/amp/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html",
-      "publishedDateTime": "2022-08-30T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-is-it-ever-okay-to-ghost-a-new-employer.md",
-      "title": "Is it ever okay to ghost a new employer?",
-      "excerpt": "Ghosting an employer could potentially have negative repercussions for your job search and reputation. Learn why.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/programming-development/is-it-ever-okay-to-ghost-a-new-employer/",
-      "originalUrl": "https://venturebeat.com/programming-development/is-it-ever-okay-to-ghost-a-new-employer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/My-project-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/programming-development/is-it-ever-okay-to-ghost-a-new-employer/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/programming-development/is-it-ever-okay-to-ghost-a-new-employer/amp/",
-      "publishedDateTime": "2022-08-30T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-baidu-stock-slumps-as-us-audit-risk-offsets-q2-earnings-beat.md",
-      "title": "Baidu Stock Slumps As U.S. Audit Risk Offsets Q2 Earnings Beat",
-      "excerpt": "Baidu delivered a smaller-than-expected drop in second quarter sales despite what CEO Robin Li described as \"a challenging macro environment caused by Covid-19.\" Baidu (BIDU) shares slumped ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/markets/baidu-stock-jumps-after-q2-sales-top-forecasts-on-cloud-strength",
-      "originalUrl": "https://www.thestreet.com/markets/baidu-stock-jumps-after-q2-sales-top-forecasts-on-cloud-strength",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTg2MTEzMDEzMzM2NTE1NzEz/cerner-oracle.jpg",
-          "width": 620,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/markets/baidu-stock-jumps-after-q2-sales-top-forecasts-on-cloud-strength",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/markets/baidu-stock-jumps-after-q2-sales-top-forecasts-on-cloud-strength",
-      "publishedDateTime": "2022-08-30T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

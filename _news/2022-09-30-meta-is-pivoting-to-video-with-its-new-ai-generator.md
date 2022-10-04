@@ -43,20 +43,6 @@ related:
         width: 1209
         height: 825
         isCached: true
-  - title: "The grandfather of AI art, DALL-E, is now free for you to try"
-    excerpt: "OpenAI has opened up the DALL-E AI art generator for anyone to try for free, with a credit system that replenishes monthly. It's simple, easy, and effective with the right prompts."
-    publishedDateTime: 2022-09-29T17:31:00Z
-    webUrl: "https://www.pcworld.com/article/1338403/the-grandfather-of-ai-art-dall-e-is-now-free-for-you-to-try.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 69
-    images:
-      - url: "https://www.pcworld.com/wp-content/uploads/2022/09/DALL·E-2022-09-29-09.57.40-a-photo-of-a-kraken-emerging-from-the-ocean-underneath-the-Golden-Gate-Bridge-large.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 1024
-        isCached: true
   - title: "The famous AI image generator DALL-E is open for anyone to use – Here are our creations"
     excerpt: "You don't need to be an artist to create stunning photos, paintings and drawings. You just need DALL-E, which can generate AI art for free."
     publishedDateTime: 2022-10-04T08:30:00Z

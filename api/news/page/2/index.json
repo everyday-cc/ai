@@ -2,6 +2,163 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-01-how-colleges-are-using-artificial-intelligence-to-improve-enrollment-and-retention.md",
+      "title": "How Colleges Are Using Artificial Intelligence To Improve Enrollment And Retention",
+      "excerpt": "Higher education is advancing from its initial use of AI to automate routine tasks, digitize workflows, develop complex datasets, and create dashboards for analytics. Now, colleges are doing more than using technology to do the same things better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are-turning-to-artificial-intelligence-to-improve-enrollment-and-retention/",
+      "originalUrl": "https://www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are-turning-to-artificial-intelligence-to-improve-enrollment-and-retention/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6102d1d3cc6d3da87fbd41c4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are-turning-to-artificial-intelligence-to-improve-enrollment-and-retention/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are-turning-to-artificial-intelligence-to-improve-enrollment-and-retention/amp/",
+      "publishedDateTime": "2022-10-01T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-celebrate-over-20-years-of-aiml-at-innovation-day.md",
+      "title": "Celebrate over 20 years of AI/ML at Innovation Day",
+      "excerpt": "Be our guest as we celebrate 20 years of AI/ML innovation on October 25, 2022, 9:00 AM – 10:30 AM PT. &nbsp;The first 1,500 people to register will receive $50 of AWS credits. Register here. Over the past 20 years, Amazon has delivered many world firsts for artificial intelligence (AI) and machine learning",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/celebrate-over-20-years-of-ai-ml-at-innovation-day/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/celebrate-over-20-years-of-ai-ml-at-innovation-day/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/30/celebrate-ai-ml-innovation.jpg",
+          "width": 1533,
+          "height": 764,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T16:23:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-01-putins-satanism-speech-compared-to-rhetoric-from-maga-republicans.md",
+      "title": "Putin's 'Satanism' Speech Compared to Rhetoric From MAGA Republicans",
+      "excerpt": "Russian President Vladimir Putin accused the West of \"Satanism\" and bemoaned that \"there are supposedly genders besides women and men\" on Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/putins-satanism-speech-compared-rhetoric-maga-republicans-1748094",
+      "originalUrl": "https://www.newsweek.com/putins-satanism-speech-compared-rhetoric-maga-republicans-1748094",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2126488/vladmir-putin-satanism-republicans-maga-trump-rhetoric.jpg",
+          "width": 1939,
+          "height": 1342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/putins-satanism-speech-compared-rhetoric-maga-republicans-1748094?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/putins-satanism-speech-compared-rhetoric-maga-republicans-1748094?amp=1",
+      "publishedDateTime": "2022-09-30T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-01-this-robot-ran-a-world-record-but-its-trainer-says-its-not-dangerous-yet.md",
       "title": "This robot ran a world record — but its trainer says it's 'not dangerous yet'",
       "excerpt": "Cassie first made a name for itself in 2021 by completing a 5K on campus with a time of 53 minutes. After months of training, the machine has now set a Guinness World Record for the fastest 100 metre dash by a bipedal robot.",
@@ -209,7 +366,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/image-generating-ai-is-now-more-accessible-to-the-public/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -249,6 +406,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-01-legal-ethical-aspects-of-artificial-intelligence-robotics-algorithms.md",
+      "title": "Legal & ethical aspects of artificial intelligence, robotics & algorithms",
+      "excerpt": "This is especially true for artificial intelligence, robotics, and algorithms, which have the potential to greatly impact our society. In this article, we’ll explore some of the legal and ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/readersblog/storyteller/legal-ethical-aspects-of-artificial-intelligence-robotics-algorithms-45346/",
+      "originalUrl": "https://timesofindia.indiatimes.com/readersblog/storyteller/legal-ethical-aspects-of-artificial-intelligence-robotics-algorithms-45346/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75476733.cms",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -355,7 +556,7 @@
       "originalUrl": "https://healthitanalytics.com/news/machine-learning-finds-new-patterns-of-decline-in-als-alzheimers",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -600,7 +801,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 683,
+      "heat": 693,
       "tags": null,
       "images": [
         {
@@ -752,7 +953,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-2022-business-overview-new-trends-growth-analysis-and-forecast-to-2030-2022-09-30",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -942,49 +1143,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-30-how-computer-vision-and-artificial-intelligence-can-help-the-retail-industry-maximize-the-value-of-their-brick-mortar-footprint.md",
-      "title": "How computer vision and artificial intelligence can help the retail industry maximize the value of their brick & mortar footprint",
-      "excerpt": "The lockdown generated a wave of disruption across the retail industry, leaving many physical retailers scrambling to meet public demand. They had to pivot their focus on creating highly optimized digital shopping experiences and",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-computer-vision-and-artificial-intelligence-can-help-the-retail-industry-maximize-the-value-of-their-brick-mortar-footprint/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-computer-vision-and-artificial-intelligence-can-help-the-retail-industry-maximize-the-value-of-their-brick-mortar-footprint/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-computer-vision-and-artificial-intelligence-can-help-the-retail-industry-maximize-the-value-of-their-brick-mortar-footprint/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-computer-vision-and-artificial-intelligence-can-help-the-retail-industry-maximize-the-value-of-their-brick-mortar-footprint/",
-      "publishedDateTime": "2022-09-30T03:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-30-the-problem-with-biased-ais-and-how-to-make-ai-better.md",
       "title": "The Problem With Biased AIs (and How To Make AI Better)",
       "excerpt": "Many AI systems can exhibit biases that stem from programming or data sources. Learn what a top AI ethicist says about how we can mitigate bias in algorithms and protect against potential risks to consumers.",
@@ -1085,151 +1243,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-an-ai-called-dragonfly-is-helping-design-faster-charging-batteries.md",
-      "title": "An AI called Dragonfly is helping design faster-charging batteries",
-      "excerpt": "An AI called Dragonfly and a robotics setup called Clio have partnered up to discover better electrolytes—a key component in batteries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/ai-robotics-battery-design-discovery/",
-      "originalUrl": "https://www.popsci.com/technology/ai-robotics-battery-design-discovery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2022/09/29/Depositphotos_266751410_L.jpg?auto=webp",
-          "width": 2000,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/technology/ai-robotics-battery-design-discovery/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-robotics-battery-design-discovery/?amp",
-      "publishedDateTime": "2022-09-29T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-how-ai-predicts-hurricanes-and-answers-calls-for-help-in-their-aftermath.md",
-      "title": "How AI predicts hurricanes and answers calls for help in their aftermath",
-      "excerpt": "AI helps keep the lines of communication open during a disaster and also better predict the intensity of hurricanes in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-ai-predicts-hurricanes-and-answers-calls-for-help-in-their-aftermath/",
-      "originalUrl": "https://venturebeat.com/ai/how-ai-predicts-hurricanes-and-answers-calls-for-help-in-their-aftermath/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/01/hurricane-shutterstock_712360393.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-ai-predicts-hurricanes-and-answers-calls-for-help-in-their-aftermath/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-predicts-hurricanes-and-answers-calls-for-help-in-their-aftermath/amp/",
-      "publishedDateTime": "2022-09-29T15:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-house-democrats-debut-new-bill-to-limit-us-police-use-of-facial-recognition.md",
-      "title": "House Democrats debut new bill to limit US police use of facial recognition",
-      "excerpt": "The bill, if passed, would require police across the United States to first obtain a warrant before using facial recognition technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/",
-      "originalUrl": "https://techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/facial-recognition-tech.gif?resize=1200,799",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/amp/",
-      "publishedDateTime": "2022-09-29T15:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

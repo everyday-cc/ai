@@ -2,6 +2,136 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-05-28-this-tiny-robotic-crab-is-the-worlds-smallest-remote-controlled-walking-robot.md",
+      "title": "This Tiny Robotic Crab Is the World’s Smallest Remote-Controlled Walking Robot",
+      "excerpt": "Engineers at Northwestern University have unveiled a tiny robotic crab that they claim is the smallest ever remote-controlled walking robot. According to the team’s new paper published Wednesday ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailybeast.com/this-tiny-robotic-crab-is-the-worlds-smallest-remote-controlled-walking-robot",
+      "originalUrl": "https://www.thedailybeast.com/this-tiny-robotic-crab-is-the-worlds-smallest-remote-controlled-walking-robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_295,w_525,x_0,y_154/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1653663548/Low-Res_Fig._1D-1.jpg_yevk1y",
+          "width": 525,
+          "height": 295,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-27T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Beast",
+        "domain": "thedailybeast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-28-grai-matter-labs-brain-inspired-ai-for-the-edge.md",
+      "title": "GrAI Matter Labs: Brain-Inspired AI For The Edge",
+      "excerpt": "We recently tweeted about the startup GrAI Matter Labs (GML) and received a lot of questions about the company’s products and strategy. As one of the first startups to launch a neuromorphic AI platform for edge AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/05/27/grai-matter-labs-brain-inspired-ai-for-the-edge/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/05/27/grai-matter-labs-brain-inspired-ai-for-the-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//6290f25b3eeb6d491574921f/0x0.jpg?format=jpg&width=1200",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/05/27/grai-matter-labs-brain-inspired-ai-for-the-edge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/05/27/grai-matter-labs-brain-inspired-ai-for-the-edge/amp/",
+      "publishedDateTime": "2022-05-27T10:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-portrait-of-the-queen-painted-by-ai-robot-artist-is-unveiled.md",
+      "title": "Portrait of the Queen painted by AI robot artist is unveiled",
+      "excerpt": "was painted by Ai-Da Robot – an artificial intelligence robot built in 2019 that creates drawings, painting, and sculptures. To start, Ai-Da Robot uses cameras in its eyes and its computer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itv.com/news/2022-05-26/portrait-of-the-queen-painted-by-robot-artist-ai-da-is-unveiled",
+      "originalUrl": "https://www.itv.com/news/2022-05-26/portrait-of-the-queen-painted-by-robot-artist-ai-da-is-unveiled",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITV",
+        "domain": "itv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-platinum-jubilee-ai-robot-paints-queens-portrait.md",
       "title": "Platinum Jubilee: AI robot paints Queen's portrait",
       "excerpt": "A portrait of the Queen painted by a humanoid robot artist has been unveiled ahead of the Platinum Jubilee. Algorithm Queen, was painted by Ai-Da Robot, an artificial intelligence (AI) robot. It has cameras in its eyes and draws on computer memory to turn digital data into physical drawings and paintings using a robotic arm.",
@@ -1136,126 +1266,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-meet-13-robotics-startups-in-denmarks-beyond-beta.md",
-      "title": "Meet 13 robotics startups in Denmark’s Beyond Beta",
-      "excerpt": "The startups will receive coaching and mentoring from robotics experts and exposure through Odense Robotics during the Beyond Beta program.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/meet-13-robotics-startups-in-denmarks-beyond-beta/",
-      "originalUrl": "https://www.therobotreport.com/meet-13-robotics-startups-in-denmarks-beyond-beta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/05/featured-web-beyond-beta.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T09:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-surgical-robotics-market-size-to-hit-us-213-billion-by-2030.md",
-      "title": "Surgical Robotics Market Size to Hit US$ 21.3 Billion by 2030",
-      "excerpt": "The global surgical robotics market size was valued at US$ 5.36 bn in 2021. This device enables a surgeon to perform complex surgical procedures with higher precision. They are",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/05/g27348969/surgical-robotics-market-size-to-hit-us-21-3-billion-by-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/g27348969/surgical-robotics-market-size-to-hit-us-21-3-billion-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27348969",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27348969",
-      "publishedDateTime": "2022-05-23T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-who-hacked-the-slaughterhouse-when-robots-and-ai-take-over-farms.md",
-      "title": "Who hacked the slaughterhouse? When robots and AI take over farms",
-      "excerpt": "Advanced tech in farming promises to maximize crop yields, minimize the impact of climate change, and fight global food insecurity. Yet swift adoption without consideration of the risks may increase food-system vulnerabilities,",
-      "sourceUrl": null,
-      "webUrl": "https://thebulletin.org/2022/05/who-hacked-the-slaughterhouse-when-robots-and-ai-take-over-farms/",
-      "originalUrl": "https://thebulletin.org/2022/05/who-hacked-the-slaughterhouse-when-robots-and-ai-take-over-farms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thebulletin.org/wp-content/uploads/2022/05/The_Holy_cow.jpeg",
-          "width": 960,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thebulletin.org/2022/05/who-hacked-the-slaughterhouse-when-robots-and-ai-take-over-farms/amp/",
-      "cdnAmpWebUrl": "https://thebulletin-org.cdn.ampproject.org/c/s/thebulletin.org/2022/05/who-hacked-the-slaughterhouse-when-robots-and-ai-take-over-farms/amp/",
-      "publishedDateTime": "2022-05-23T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bulletin of the Atomic Scientists",
-        "domain": "thebulletin.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -84,15 +84,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 56
-  - title: "Tesla robot walks, waves, but doesn't show off complex tasks"
-    excerpt: "But the basic tasks by the robot with exposed wires and electronics — as well as a later, next-generation version that had to be carried onstage by three men — was a long way from CEO Elon Musk's vision of a human-like robot that can change the world."
-    publishedDateTime: 2022-10-03T19:38:00Z
-    webUrl: "https://www.statesman.com/story/business/technology/2022/10/03/tesla-optimus-robot-walks-waves-doesnt-show-off-complex-tasks/69536356007/"
+  - title: "Tesla robot walks, waves, but doesn’t show off complex tasks"
+    excerpt: "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the c"
+    publishedDateTime: 2022-10-04T11:36:00Z
+    webUrl: "https://www.newstalkzb.co.nz/news/business/tesla-robot-walks-waves-but-doesn-t-show-off-complex-tasks/"
     type: article
     provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 36
+      name: Newstalk ZB
+      domain: newstalkzb.co.nz
+    quality: 56
+    images:
+      - url: "https://www.newstalkzb.co.nz/media/5iwadaoa/optimus-humanoid-prototype-demo.jpeg?rmode=crop&rnd=133093640277730000&height=395&width=635&quality=95&scale=both"
+        width: 635
+        height: 395
+        isCached: true
 
 secured: "aYN8m9Jbyz5o4cjCquozuwsH/F/tY3lYDF4EH6NtzwTaHlgDfcnDDn4AFis3DUpCCEDrqZqkM9SbqWC3Uw/qF+QE+eyFMVOEg1j2n9DugETKjT9AQEt8ZE7YLwD1ykl7+mqM6EthU/ruplZ8VLGoyoHdQb4wUUyPN2ODmgtVzNGJiNzh5KbR/L5CMwwIS64bbpr1xu3V+hAUOp/Dv3mU2I/t3bKPz7XguJdod5ZR9J+bjoqo6/KHsYIr7+Ah8T8jfHv7tl3UzO31S/J63dbxyEc8bawry3HxvuquqTrKLidOQl/DWYJ79bF9gFy0YlELsou4pO/Im1nQkcV8HuZbXzRTCfUx2Yu7M4qns5vf6a3CkcHa9WIpyGurI/Jz2n5RHZIAsdI9rzKhBDda4vpiY13uAVW0ALavbAwTSkvSXRoI/fvBCnFCAreaDuMGLL7Ibc2DDdhvRIMVQzhejSnDia61P8V/VNfwsSKFYSQgTdRC5u7CxbPxJoyTqr5D6gumQPjf0VhQKyEQQhAvPgtdQw==;Kd5lK8b9RsM7ubmEqE3vNg=="
 ---

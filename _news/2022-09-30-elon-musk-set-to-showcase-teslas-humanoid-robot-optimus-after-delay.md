@@ -431,6 +431,22 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 81
+  - title: "Tesla AI Day: As Elon Musk teases the Optimus robot, self-driving updates and artificial intelligence - here's what to expect"
+    excerpt: "The tech company's humanoid Optimus robot - teased at last year's artificial intelligence event by a person in a spandex costume - will be the star of the show. Tesla on Friday morning shared a ..."
+    publishedDateTime: 2022-09-30T17:46:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11267241/Tesla-AI-Day-Elon-Musk-teases-Optimus-robot-self-driving-updates-artificial-intelligence.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11267241/amp/Tesla-AI-Day-Elon-Musk-teases-Optimus-robot-self-driving-updates-artificial-intelligence.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11267241/amp/Tesla-AI-Day-Elon-Musk-teases-Optimus-robot-self-driving-updates-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 79
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/09/30/17/62977843-0-image-a-27_1664556188222.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Tesla CEO Elon Musk showcases humanoid robot at event"
     excerpt: "The billionaire has said a robot business will be worth more than its cars, hoping to expand beyond self-driving cars that have not yet become a reality despite his repeated promises."
     publishedDateTime: 2022-10-01T01:50:00Z

@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Op-Ed: Facial recognition technology victimizes people of color. It must be regulated"
-    excerpt: "In Williams’ case, the Detroit Police Department used Michigan State Police’s facial recognition program to identify a suspect from a grainy surveillance image. The technology used Michigan ..."
-    publishedDateTime: 2022-09-29T17:34:00Z
-    webUrl: "https://www.latimes.com/opinion/story/2022-09-29/facial-recognition-technology"
-    ampWebUrl: "https://www.latimes.com/opinion/story/2022-09-29/facial-recognition-technology?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/opinion/story/2022-09-29/facial-recognition-technology?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 52
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/7d38c85/2147483647/strip/true/crop/1615x1080+3+0/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fde%2Fc2%2F225637ec483f8a859cfb66d3fd8e%2Fmissing-body-camera-video-la-thmb.jpg"
-        width: 320
-        height: 214
-        isCached: true
   - title: "House bill limits police use of facial recognition"
     excerpt: "The legislation would place “strong limits” on the technology’s use, provide transparency to those harmed by it and ensure there are annual assessments of its accuracy."
     publishedDateTime: 2022-09-30T21:07:00Z

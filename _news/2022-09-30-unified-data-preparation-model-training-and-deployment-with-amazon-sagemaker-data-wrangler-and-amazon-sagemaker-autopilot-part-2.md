@@ -43,20 +43,6 @@ related:
         width: 1531
         height: 766
         isCached: true
-  - title: "How Sophos trains a powerful, lightweight PDF malware detector at ultra scale with Amazon SageMaker"
-    excerpt: "This post is co-authored by Salma Taoufiq and Harini Kannan from Sophos. As a leader in next-generation cybersecurity, Sophos strives to protect more than 500,000 organizations and millions of customers across over 150 countries against evolving threats. Powered by threat intelligence, machine learning"
-    publishedDateTime: 2022-09-29T17:57:14Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-sophos-trains-a-powerful-lightweight-pdf-malware-detector-at-ultra-scale-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 90
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/29/sophos-sagemaker.jpg"
-        width: 1534
-        height: 765
-        isCached: true
 
 secured: "t06MVpNhqa1zxKKvCY8dy+G87vs5okBgqWf71oe0dqE7AN7xMPf8FHUVlsGIGZmfueg40ePJLEdste30kXLe5yLAQWaNP6aQ77gTC5aipZqyakFetpKzOyR5cxVk8kOAE4qTLa5NwSbaKjoe3GUOeSQfOmBLVZe09dTs7bXVNUyqvA0UWV6tLxDbRPar62kslJxYXMiB/wOFTjaL5vFKMbPf5H//WorZxRUb/vdmrsse/me09kc/IjPbGqx9FFLWcVL3EfdTCdWV40snQ75wXpz9bstY+erWmI5q7R2AxfsVjTplNfjUB43vm/K5ftP/XhOHO/HfWXmPPY7wG+iGofZitY45YxWsDD8prS4gR9g=;dXevYjno91/nSUQ7pSUZ4A=="
 ---

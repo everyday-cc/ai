@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-30-how-ai-predicts-hurricanes-and-answers-calls-for-help-in-their-aftermath.md",
+      "title": "How AI predicts hurricanes and answers calls for help in their aftermath",
+      "excerpt": "AI helps keep the lines of communication open during a disaster and also better predict the intensity of hurricanes in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-ai-predicts-hurricanes-and-answers-calls-for-help-in-their-aftermath/",
+      "originalUrl": "https://venturebeat.com/ai/how-ai-predicts-hurricanes-and-answers-calls-for-help-in-their-aftermath/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/01/hurricane-shutterstock_712360393.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-ai-predicts-hurricanes-and-answers-calls-for-help-in-their-aftermath/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-predicts-hurricanes-and-answers-calls-for-help-in-their-aftermath/amp/",
+      "publishedDateTime": "2022-09-29T15:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-house-democrats-debut-new-bill-to-limit-us-police-use-of-facial-recognition.md",
+      "title": "House Democrats debut new bill to limit US police use of facial recognition",
+      "excerpt": "The bill, if passed, would require police across the United States to first obtain a warrant before using facial recognition technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/",
+      "originalUrl": "https://techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/facial-recognition-tech.gif?resize=1200,799",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/amp/",
+      "publishedDateTime": "2022-09-29T15:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-30-how-onyxia-uses-security-ai-to-help-cisos-improve-their-security-posture.md",
       "title": "How Onyxia uses security AI to help CISOs improve their security posture",
       "excerpt": "Onxyia launches today with a new security AI solution designed to help CISOs find ways to improve their security posture.",
@@ -383,26 +486,35 @@
       ]
     },
     {
-      "path": "_news/2022-09-29-onemeta-ai-and-world-congress-of-families-will-make-the-conference-available-in-82-languages-to-over-4000-worldwide-participants.md",
-      "title": "OneMeta AI and World Congress of Families Will Make the Conference Available in 82 Languages to Over 4,000 Worldwide Participants",
-      "excerpt": "SALT LAKE CITY, UT / ACCESSWIRE / September 29, 2022 / OneMeta AI ... the premier translation software that allows listeners to understand foreign communication in their native language in ...",
+      "path": "_news/2022-09-29-renesas-expands-rzv-series-with-built-in-vision-ai-accelerator-for-accurate-image-recognition-and-multi-camera-image-support.md",
+      "title": "Renesas Expands RZ/V Series with Built-in Vision AI Accelerator for Accurate Image Recognition and Multi-Camera Image Support",
+      "excerpt": "Renesas Electronics Corporation (TSE: 6723), a premier supplier of advanced semiconductor solutions, has expanded its AI-capable RZ/V Series of microprocessors (MPUs), with a new device that enables AI processing of image data from multiple cameras,",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/accesswire/717991msn/onemeta-ai-and-world-congress-of-families-will-make-the-conference-available-in-82-languages-to-over-4000-worldwide-participants",
-      "originalUrl": "https://www.morningstar.com/news/accesswire/717991msn/onemeta-ai-and-world-congress-of-families-will-make-the-conference-available-in-82-languages-to-over-4000-worldwide-participants",
+      "webUrl": "https://it.tmcnet.com/news/2022/09/29/9683183.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/09/29/9683183.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
+          "width": 476,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T07:11:00-07:00",
+      "publishedDateTime": "2022-09-29T06:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -412,7 +524,7 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "Computer Vision",
         "AI"
       ]
     },
@@ -456,6 +568,58 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-onemeta-ai-and-world-congress-of-families-will-make-the-conference-available-in-82-languages-to-over-4000-worldwide-participants.md",
+      "title": "OneMeta AI and World Congress of Families Will Make the Conference Available in 82 Languages to Over 4,000 Worldwide Participants",
+      "excerpt": "SALT LAKE CITY, UT / ACCESSWIRE / September 29, 2022 / OneMeta AI ( (OTC PINK:ONEI). OneMeta AI and its cutting edge AI technology product: Verbum,  will be providing live language interpretation for over 50 International speakers and over 1,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/onemeta-ai-and-world-congress-of-families-will-make-the-conference-available-in-82-languages-to-over-4000-worldwide-participants-2022-09-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/onemeta-ai-and-world-congress-of-families-will-make-the-conference-available-in-82-languages-to-over-4000-worldwide-participants-2022-09-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-29T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1071,145 +1235,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-oregon-states-bipedal-robot-cassie-sets-guinness-world-record-in-100-meter-dash.md",
-      "title": "Oregon State's bipedal robot, Cassie, sets Guinness World Record in 100-meter dash",
-      "excerpt": "A bipedal robot named Cassie just set an official Guinness World Record by running 100 meters in 24.73 seconds. With knees that bend like an ostrich's, Cassie is the first bipedal robot to use machine learning to control a running stride on outdoor terrain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbssports.com/general/news/oregon-states-bipedal-robot-cassie-sets-guinness-world-record-in-100-meter-dash/",
-      "originalUrl": "https://www.cbssports.com/general/news/oregon-states-bipedal-robot-cassie-sets-guinness-world-record-in-100-meter-dash/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/r/2022/09/28/f1b73e30-0853-4cee-af52-c10150c5d7a8/thumbnail/640x360/d7fdd2e2afb10bf62f6ad1d424043e33/cassie-100m-1.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbssports.com/general/news/oregon-states-bipedal-robot-cassie-sets-guinness-world-record-in-100-meter-dash/amp/",
-      "cdnAmpWebUrl": "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/general/news/oregon-states-bipedal-robot-cassie-sets-guinness-world-record-in-100-meter-dash/amp/",
-      "publishedDateTime": "2022-09-28T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBSSports.com",
-        "domain": "cbssports.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-regie-secures-10m-to-generate-marketing-copy-using-ai.md",
-      "title": "Regie secures $10M to generate marketing copy using AI",
-      "excerpt": "Regie was founded in 2020 by Matt Millen and Srinath Sridhar. Previously a software engineer at Google and Meta, Sridhar is a data scientist by trade, having developed enterprise-scale AI systems that detect duplicate images and rank search results.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/28/regie-secures-10m-to-generate-marketing-copy-using-ai/",
-      "originalUrl": "https://techcrunch.com/2022/09/28/regie-secures-10m-to-generate-marketing-copy-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1148091243.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/28/regie-secures-10m-to-generate-marketing-copy-using-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/28/regie-secures-10m-to-generate-marketing-copy-using-ai/amp/",
-      "publishedDateTime": "2022-09-28T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-inside-abu-dhabis-thriving-artificial-intelligence-scene.md",
-      "title": "Inside Abu Dhabi’s Thriving Artificial Intelligence Scene",
-      "excerpt": "Abu Dhabi is becoming a thriving hub for artificial intelligence and an increasingly attractive destination for meetings and events.",
-      "sourceUrl": null,
-      "webUrl": "https://skift.com/2022/09/28/inside-abu-dhabis-thriving-artificial-intelligence-scene/",
-      "originalUrl": "https://skift.com/2022/09/28/inside-abu-dhabis-thriving-artificial-intelligence-scene/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://skift.com/wp-content/uploads/2022/09/MBZUAI-External-shot..jpg",
-          "width": 1797,
-          "height": 1166,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://skift.com/2022/09/28/inside-abu-dhabis-thriving-artificial-intelligence-scene/amp/",
-      "cdnAmpWebUrl": "https://skift-com.cdn.ampproject.org/c/s/skift.com/2022/09/28/inside-abu-dhabis-thriving-artificial-intelligence-scene/amp/",
-      "publishedDateTime": "2022-09-28T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Skift",
-        "domain": "skift.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
       ]
     }
   ],

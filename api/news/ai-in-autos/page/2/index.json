@@ -2,6 +2,60 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-21-run-machine-learning-enablement-events-at-scale-using-aws-deepracer-multi-user-account-mode.md",
+      "title": "Run machine learning enablement events at scale using AWS DeepRacer multi-user account mode",
+      "excerpt": "This post was co-written by Marius Cealera, Senior Partner Solutions Architect at AWS, Zdenko Estok, Cloud Architect at Accenture and Sakar Selimcan, Cloud Architect at Accenture. Machine learning (ML) is a high-stakes business priority, with companies spending $306 billion on ML applications in the",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-machine-learning-enablement-events-at-scale-using-aws-deepracer-multi-user-account-mode/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-machine-learning-enablement-events-at-scale-using-aws-deepracer-multi-user-account-mode/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/29/dr1-831x630.png",
+          "width": 831,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T09:19:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-21-the-unexpected-truth-about-self-driving-cars-according-to-general-motors.md",
       "title": "The Unexpected Truth About Self-Driving Cars According To General Motors",
       "excerpt": "The future is self-driving, or so say evangelists that are betting big on a future where AI-powered machines — including vehicles — will perform intended tasks on their own. Self-driving cars ...",
@@ -459,6 +513,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-20-asias-first-driverless-cimc-made-boarding-bridge-comes-into-operation-in-china.md",
+      "title": "Asia’s First Driverless CIMC-made Boarding Bridge Comes Into Operation in China",
+      "excerpt": "The first driverless boarding bridge in Asia has been officially put into operation at Chengdu Tianfu International Airport in southwest China, marking a milestone in the intelligent upgrade of Chinese civil aviation industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aviationpros.com/gse/passenger-loading-systems-boarding-bridges-stairs-jetways/press-release/21281316/cimc-asias-first-driverless-cimcmade-boarding-bridge-comes-into-operation-in-china",
+      "originalUrl": "https://www.aviationpros.com/gse/passenger-loading-systems-boarding-bridges-stairs-jetways/press-release/21281316/cimc-asias-first-driverless-cimcmade-boarding-bridge-comes-into-operation-in-china",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.aviationpros.com/files/base/cygnus/cavc/image/2022/09/image_2.6329cb1045302.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AviationPros",
+        "domain": "aviationpros.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-chinese-ev-maker-xpeng-launches-rival-to-teslas-semi-autonomous-driving-system.md",
       "title": "Chinese EV maker Xpeng launches rival to Tesla's semi-autonomous driving system",
       "excerpt": "Xpilot and City NGP is Xpeng's answer to Tesla's Full Self Driving Beta which the company is currently testing with customers in the U.S. In this article Xpeng launched a feature that allows its ...",
@@ -561,58 +658,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-asias-first-driverless-cimc-made-boarding-bridge-comes-into-operation-in-china.md",
-      "title": "Asia's first driverless CIMC-made boarding bridge comes into operation in China",
-      "excerpt": "20, 2022 /PRNewswire/ -- The first driverless boarding bridge in ... which can transmit information instantly to the artificial intelligence-based autonomous control system. It only took over ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/asia-s-first-driverless-cimc-made-boarding-bridge-comes-into-operation-in-china-1031752676",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/asia-s-first-driverless-cimc-made-boarding-bridge-comes-into-operation-in-china-1031752676",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1902841/image_1.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T03:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -1429,50 +1474,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-new-method-for-comparing-neural-networks-exposes-how-artificial-intelligence-works.md",
-      "title": "New method for comparing neural networks exposes how artificial intelligence works",
-      "excerpt": "A team has developed a novel approach for comparing neural networks that looks within the 'black box' of artificial intelligence to help researchers understand neural network behavior. Neural networks recognize patterns in datasets;",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220914102256.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220914102256.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

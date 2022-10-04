@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/speech-accessibility-project-ai
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/speech-accessibility-project-aims-to-make-voice-recognition-more-inclusive/"
 type: article
 quality: 87
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://post.healthline.com/wp-content/uploads/2022/09/senior-female-on-computer-with-caregiver-1200-628-facebook-1200x628.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "University of Illinois project supported by Apple and Google to make speech recognition more diverse"
+    excerpt: "A new \"Speech Accessibility Project\" led by The University of Illinois aims to expand voice recognition technology \"more useful for people with a range of diverse speech patterns and disabilities.\""
+    publishedDateTime: 2022-10-04T11:08:00Z
+    webUrl: "https://mobilesyrup.com/2022/10/04/apple-google-supported-university-of-illinois-project-to-make-speech-recognition-diverse/"
+    type: article
+    provider:
+      name: MobileSyrup
+      domain: mobilesyrup.com
+    quality: 24
+    images:
+      - url: "https://cdn.mobilesyrup.com/wp-content/uploads/2022/10/Speech-Recognition-header-scaled.jpg"
+        width: 2560
+        height: 1434
         isCached: true
   - title: "Apple joins project to improve speech recognition for disabled users"
     excerpt: "The University of Illinois (UIUC) is working with Apple and other tech giants on the Speech Accessibility Project, which aims to improve voice recognition systems for people with speech patterns and disabilities current versions have trouble understanding."

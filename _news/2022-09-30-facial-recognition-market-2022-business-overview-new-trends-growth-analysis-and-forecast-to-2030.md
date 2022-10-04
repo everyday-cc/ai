@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2022-business-overview-new-trends-growth-analysis-and-forecast-to-2030-2022-09-30"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Gesture Recognition Market Segmentation, Future Trends, Growth Overview, Key Companies and Forecast by 2027"
+    excerpt: "The global Gesture Recognition market size was valued at USD 13839.6 million in 2021 and is expected to expand at a CAGR"
+    publishedDateTime: 2022-10-04T09:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/gesture-recognition-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2027-2022-10-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-10-03-artificial-intelligence-ai-in-fintech-market-is-expected.md",
-      "title": "Artificial Intelligence (AI) in Fintech Market is expected",
-      "excerpt": "According to a new report published by UnivDatos Markets Insights, the AI in Fintech Market is expected to grow at a CAGR of around 30% from 2022-2028. The analysis has been segmented into Type (Service and Solution);",
+      "path": "_news/2022-10-04-techstars-ceo-on-the-future-of-fintech.md",
+      "title": "TechStars CEO On The Future Of FinTech",
+      "excerpt": "Meeting up with TechStars CEO Maëlle Gavet at the Collision conference in Toronto. Here’s what she is excited about in financial technology.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-fintech-market-expected-display-steady-/2022/10/03/9684952.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-fintech-market-expected-display-steady-/2022/10/03/9684952.htm",
+      "webUrl": "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 124,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1225049/UnivDatos_Logo.jpg",
-          "width": 400,
-          "height": 225,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633b75a5d5779d3d6278b209/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 835,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T09:01:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/amp/",
+      "publishedDateTime": "2022-10-04T04:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

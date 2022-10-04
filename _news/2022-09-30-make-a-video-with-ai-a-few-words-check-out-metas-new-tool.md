@@ -9,7 +9,7 @@ ampWebUrl: "https://wraltechwire.com/2022/09/30/make-a-video-with-ai-a-few-words
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/09/30/make-a-video-with-ai-a-few-words-check-out-metas-new-tool/?amp=1"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "Meta’s new AI can turn text prompts into videos"
-    excerpt: "Meta has today unveiled an AI system that generates short videos based on text prompts. Make-A-Video lets you type in a string of words, like “A dog wearing a superhero outfit with a red cape flying through the sky,"
-    publishedDateTime: 2022-09-30T10:35:00Z
-    webUrl: "https://www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/09/dog-gif.gif?w=512"
-        width: 512
-        height: 512
-        isCached: true
 
 secured: "taecNMdLysRCjnBAMuOmXZtLQSp19CnolAC4hCbqns5+AlDmaN72FsrcMeMMc3RamctVLYF8v/W2/ob0cgHUaob5hlIuDg18e0DN/C85tF08goaiUuhfje+A7MmUdz6c8xN3Pk/K+JHXts5oUs2RRSz6HVrvEjf5AaOBNYtxbKNJ0K/VzfmAD6aVP9rW9p9X4wka/FvA783qyCYA8Tr0XkzSYKE9CsQrkkIEcRfG5WLR5NlhktaAEp2zHQ/5Or9qNlyDGP+/hogD05hFpVeVNNCohD97VdiV33WRykX/nuYqCTTGE0JzELcOf4T79WKV+EWtivwh4RuOU/fQDFNfjjWUIqW4KgDUSKOqvgr9obSCPjqReSYkWpF6cL01WmrsXQ9xZ79VIBkhTA94XwvgY+KkUAy1GlEh5s6oSzKhIUUZEafrohFcG5f4E4kZqGDRZEx4+4sbRpa/fg9c09LirLdwknwce6nB/LGoUnmUbKG9+dd/spgu04lUOEMFmfWtAZluzzFPifxoZ0aKJdbJmQ==;JYR/rv0Ffjgj+kh+nSeHlg=="
 ---
