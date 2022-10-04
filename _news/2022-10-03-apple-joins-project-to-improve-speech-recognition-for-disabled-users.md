@@ -67,6 +67,29 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Your Guide to Cognitive Rehabilitation"
+    excerpt: "Cognitive rehabilitation therapy refers to a group of treatments that help improve a person’s ability to think after a brain injury or illness that affects the brain. Cognitive rehab therapy ..."
+    publishedDateTime: 2022-09-29T20:05:00Z
+    webUrl: "https://www.healthline.com/health/mental-health/cognitive-rehabilitation"
+    type: article
+    provider:
+      name: Healthline
+      domain: healthline.com
+    quality: 24
+    images:
+      - url: "https://post.healthline.com/wp-content/uploads/2022/09/senior-female-on-computer-with-caregiver-1200-628-facebook-1200x628.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "University of Illinois joins five technology industry leaders in new Speech Accessibility Project"
+    excerpt: "University of Illinois Urbana-Champaign has announced the Speech Accessibility Project, a new research initiative to make voice recognition technology more useful for people with a range of diverse speech patterns and disabilities."
+    publishedDateTime: 2022-10-03T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/966713"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 0
 
 secured: "KHE2YByXGltQZMokepGoynvmtD5qTyLnjFweL5W1KwfmQjatRr2u4TIYHUnL2EKzEonQJFcvJKyAkdONa9humdRSer3J8SWzNMtFzECtaSwClZNXJFMZEQ/TIszX4wD0ifvXZn13Cn9xAhnTDdTmAjsKEOiUJoRqFmzhc+deGHD27Ve7WW8APZAa4Lj5PcOHADjjakobMH3nDwIh8vM2fXi/HLde+Yma+eKRVmm/VyW++F89kErD/NsuCUZTa+vL3otVAIr9QOQvTa3BiSapUe5TVxJLgjZKrjLtvWIFWWlpenMZ064yOW3/9MYpBW3eZwiCMgNuL+YzG8iuvkUS+dLhkupC2suXO78PwjF42tz23lf+JLJ6vs9WyGIJI1yq9X9fQytgAIsfCb8rO5kPm+7gU9+oOXMjTDvxx8pB52SLa6Q0BFPWBe47VRVYXDiNbazh2chO2J1aGA5BOAfAvcdi/uWYcgTg6z7fTj4uIrynlOlFtBl9nat11RgoG0TSIgrZmMGVq0tnj6nn4xpD3w==;QktzkxRAKuPrNcHfiSF7YQ=="
 ---

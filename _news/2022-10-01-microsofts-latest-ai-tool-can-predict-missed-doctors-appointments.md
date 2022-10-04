@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai-tool-can-predict-missed-doctors-appointments/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
         width: 2126
         height: 1131
         isCached: true
-  - title: "SAS Viya Now Available on Microsoft Azure Marketplace"
-    excerpt: "The full-featured platform on Microsoft Azure would equip global customers with access to essential machine learning, data exploration, and model deployment analytics"
-    publishedDateTime: 2022-09-29T10:10:00Z
-    webUrl: "https://analyticsindiamag.com/sas-viya-now-available-on-microsoft-azure-marketplace/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 69
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/09/oie_4SPc7hZvoLMk.jpeg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "At ISC 2022: Microsoft Talks HPC-AI and AMD Chips in the Azure Cloud"
     excerpt: "We visited with Microsoft Azure during ISC – here is our conversation with two HPC-AI specialists, Alex Jean and Dr. Lukasz Miroslaw, for an update on Azure’s line-up of new capabilities and services in support of advanced AI and machine learning."
     publishedDateTime: 2022-09-29T18:54:00Z
@@ -92,7 +78,7 @@ related:
     provider:
       name: Insurancenewsnet.com
       domain: insurancenewsnet.com
-    quality: 48
+    quality: 50
     images:
       - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
         width: 1200

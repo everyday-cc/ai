@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/monnai-taps-explainable-ai-to-build-globa
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/monnai-taps-explainable-ai-to-build-global-fintech-insight-infrastructure/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://bl-i.thgim.com/public/incoming/yl72cl/article65951866.ece/alternates/LANDSCAPE_615/IMG_iStock-1163061277_2_1_R9A44U67.jpg"
         width: 615
         height: 383
+        isCached: true
+  - title: "Fintech Files: Part 3 | When the RBI sneezes, fintechs catch a cold"
+    excerpt: "A slew of circulars from the Reserve Bank of India has forced the fintech industry to abandon its growth-at-all-costs approach and scramble to comply with the stringent regulations"
+    publishedDateTime: 2022-10-04T03:49:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/startup/fintech-files-part-3-when-the-rbi-sneezes-fintechs-catch-a-cold-9274411.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/startup/fintech-files-part-3-when-the-rbi-sneezes-fintechs-catch-a-cold-9274411.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/fintech-files-part-3-when-the-rbi-sneezes-fintechs-catch-a-cold-9274411.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 44
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/08/fintech-1_pic.jpg"
+        width: 690
+        height: 390
         isCached: true
 
 secured: "uc3vEXoOb1kzo9HgbOBdMNJ/1rBD1S/MQFrhnW+GMdQCsBSBq0RNKfslgOvOOk/DiTeCC2Z0zREGZ6/X77klfP4xu8pID097HD8S0aURP3JbaCxNiNiVNbi16MYOxpYDU75/rCVP9GdJv8fb+plIsh9uhi9/C1XxpfoDZ+YCV8nRqBOkhGIBnEbFnYGYhFOcqn4qokGReL28fiqjk+GlV9LqnvYMdmRK/RSSuBl0mf1O1ZsMP9Wi5ubEUFKtDO8NJxduUu+t0tb8xiDmWPGORUfWCkkyGxwqlOMbzEx8BZ+uDCR33ZI2er/hCrlc4iGfUZwCthi3oxNKhbTBQvWkjBAJsERRAZFAP3OTd7N3Gyd3TObtKNAUiBaqbvXrglQgj51PXmHm8XHW2JTg9yRtXJ89es/9z0dfXqroNhmlGnyWxHnJ35sx/bX2AUf5kP2mx+zh/1neMniw5bhfF7ENI0orVWCPd0Dsf/RaoIr2siR7dQhRJjlZ6Zoh+X3XUOB4CQKCSy55DouKIE0VLhvB5w==;dVW6/ehZGoNEIHxH6O1nyQ=="

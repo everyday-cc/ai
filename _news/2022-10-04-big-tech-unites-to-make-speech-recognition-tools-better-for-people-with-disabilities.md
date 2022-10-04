@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Your Guide to Cognitive Rehabilitation"
+    excerpt: "Cognitive rehabilitation therapy refers to a group of treatments that help improve a person’s ability to think after a brain injury or illness that affects the brain. Cognitive rehab therapy ..."
+    publishedDateTime: 2022-09-29T20:05:00Z
+    webUrl: "https://www.healthline.com/health/mental-health/cognitive-rehabilitation"
+    type: article
+    provider:
+      name: Healthline
+      domain: healthline.com
+    quality: 24
+    images:
+      - url: "https://post.healthline.com/wp-content/uploads/2022/09/senior-female-on-computer-with-caregiver-1200-628-facebook-1200x628.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Apple joins project to improve speech recognition for disabled users"
     excerpt: "The University of Illinois (UIUC) is working with Apple and other tech giants on the Speech Accessibility Project, which aims to improve voice recognition systems for people with speech patterns and disabilities current versions have trouble understanding."
     publishedDateTime: 2022-10-03T12:48:00Z
@@ -72,6 +86,15 @@ related:
       name: AppleInsider
       domain: appleinsider.com
     quality: 19
+  - title: "University of Illinois joins five technology industry leaders in new Speech Accessibility Project"
+    excerpt: "University of Illinois Urbana-Champaign has announced the Speech Accessibility Project, a new research initiative to make voice recognition technology more useful for people with a range of diverse speech patterns and disabilities."
+    publishedDateTime: 2022-10-03T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/966713"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 0
 
 secured: "f0bdjyzvbF0nyLyTIkOYFhMlZxdOGNOvV0uD2GcTn1ybLF8jVG5e8TXM4+oItE7UUn8DAzbHUt6w5BnWw3nD6M6z0YLzp/cSOuRWzu/4YUBBllS+wjawY8NmessPlaNbc0l4jtdXBF7YglnDzkNbU3fiuErPdZZl6pMhXeeYL3AbPfIC4QX0nhraeTk7ijWoyeDWB7wd/F7Mvm00ljQv3cYTGPfDOsTo2Oeu+MgyO79bYPyHVHEyhLOvOslvol9+M8rwFwfM+zBRLVTSThFbM54eMutZiIGwREY8bAlVxyI2qyITbUGA2IeeESW0XtC4mbr4H8HOiwLZHylhI0wsqYeH7FXSH3xWaF5zhQOtQhJPcJPLJsXD/nKjLRc6eoruMSihzcxxtWiDxT4dNM43mFi0P7nhsu8z+76OQGT3AqMx64jAYHep/VXa/H927bhXqR8odehc8YZGMyGikZc/5UqJIRJIR3W9JJI8L1HDvuDGiUBVUUboHCt7692vNWSDfOrgUITO8B60+669NpmX/A==;0rLqd90vq0fVFx/TA6A1FA=="
 ---

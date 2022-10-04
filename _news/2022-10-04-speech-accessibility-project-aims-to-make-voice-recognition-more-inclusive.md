@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/speech-accessibility-project-ai
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/speech-accessibility-project-aims-to-make-voice-recognition-more-inclusive/"
 type: article
 quality: 87
-heat: 118
+heat: 139
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Your Guide to Cognitive Rehabilitation"
+    excerpt: "Cognitive rehabilitation therapy refers to a group of treatments that help improve a person’s ability to think after a brain injury or illness that affects the brain. Cognitive rehab therapy ..."
+    publishedDateTime: 2022-09-29T20:05:00Z
+    webUrl: "https://www.healthline.com/health/mental-health/cognitive-rehabilitation"
+    type: article
+    provider:
+      name: Healthline
+      domain: healthline.com
+    quality: 24
+    images:
+      - url: "https://post.healthline.com/wp-content/uploads/2022/09/senior-female-on-computer-with-caregiver-1200-628-facebook-1200x628.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Apple joins project to improve speech recognition for disabled users"
     excerpt: "The University of Illinois (UIUC) is working with Apple and other tech giants on the Speech Accessibility Project, which aims to improve voice recognition systems for people with speech patterns and disabilities current versions have trouble understanding."
     publishedDateTime: 2022-10-03T12:48:00Z
@@ -72,6 +86,15 @@ related:
       name: AppleInsider
       domain: appleinsider.com
     quality: 19
+  - title: "University of Illinois joins five technology industry leaders in new Speech Accessibility Project"
+    excerpt: "University of Illinois Urbana-Champaign has announced the Speech Accessibility Project, a new research initiative to make voice recognition technology more useful for people with a range of diverse speech patterns and disabilities."
+    publishedDateTime: 2022-10-03T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/966713"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 0
 
 secured: "pVQwJFdQxDpnO46guQekn+7bQ/G4lHzLzjPJ4QP4sqi0zTlgAUaSxC4afehUr2ggbVkGMU2Ki97VSS8qH+xxNEeuQX+WLA43nLOHDHR2j11qOgpdn0jyDcuBaS9FqT3mSLEEv97sGcztVNjzNXrqHvqq9HCa8NGBnAB7a478inkAzrKf3qaYauMc+7tHFTFZ1TZkwkMr7EAtSr9mkqTK/aCFEmEzkYby86IwgpPcOqPZWtWskUydrkyFUXHGfDZQHTotJ5j0+XPARqKp5p3IFVzw62O0bEpkSS1+hsPY1kROp3wMbWCMsaeZJT4ufevJu3x52fuAoPEDyfCiUQtAjVnDqHpFJOD7EeTLvp23LT4=;sbZ102f/tQoW0xYbiUMS4g=="
 ---

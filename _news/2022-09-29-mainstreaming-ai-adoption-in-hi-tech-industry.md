@@ -43,6 +43,22 @@ related:
         width: 800
         height: 397
         isCached: true
+  - title: "Fintech Files: Part 3 | When the RBI sneezes, fintechs catch a cold"
+    excerpt: "A slew of circulars from the Reserve Bank of India has forced the fintech industry to abandon its growth-at-all-costs approach and scramble to comply with the stringent regulations"
+    publishedDateTime: 2022-10-04T03:49:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/startup/fintech-files-part-3-when-the-rbi-sneezes-fintechs-catch-a-cold-9274411.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/startup/fintech-files-part-3-when-the-rbi-sneezes-fintechs-catch-a-cold-9274411.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/fintech-files-part-3-when-the-rbi-sneezes-fintechs-catch-a-cold-9274411.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 44
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/08/fintech-1_pic.jpg"
+        width: 690
+        height: 390
+        isCached: true
 
 secured: "tY09EZx0Bf+Cwdja2uhDRR3YDzWVNzQHgJytGF5DrB9U4hwZ6M2b9xR0kUVTiBNyEiKIKFs5jewrBhI6mYMXUHRhmLnL07RxZW9k62sujpl2Vv0fkyjviMYMK0oJu75YJxXQpn/NGp+UXz0tJNsMLh+cTRufCp52ae8jJ1c0CXUoct4Jv0w3tz5GKOHlFvg529lRJPFuFWjQsR1rxaBhDAKS5wTnFWoqKo+UC93wEEFmRMmNpT+wZFvIzutsvcAdHNV6Chx6UGzXR4nGcQiuPNM7MA3/w274q4Vj2mCMSUkIJmtTMYLPuM0LHJnHdYYTTiWU1tziDccdEh71nRRceDSRO+a9mg+tROeTizXDG34=;zR0ZkPx/iAADZKS+W4Vcxw=="
 ---

@@ -66,20 +66,6 @@ related:
         width: 2126
         height: 1131
         isCached: true
-  - title: "SAS Viya Now Available on Microsoft Azure Marketplace"
-    excerpt: "The full-featured platform on Microsoft Azure would equip global customers with access to essential machine learning, data exploration, and model deployment analytics"
-    publishedDateTime: 2022-09-29T10:10:00Z
-    webUrl: "https://analyticsindiamag.com/sas-viya-now-available-on-microsoft-azure-marketplace/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 69
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/09/oie_4SPc7hZvoLMk.jpeg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
     excerpt: "New Jersey, NJ -- (SBWIRE) -- 09/29/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
     publishedDateTime: 2022-09-30T03:21:00Z
@@ -88,7 +74,7 @@ related:
     provider:
       name: Insurancenewsnet.com
       domain: insurancenewsnet.com
-    quality: 48
+    quality: 50
     images:
       - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
         width: 1200

@@ -9,7 +9,7 @@ ampWebUrl: "https://madamenoire.com/1323782/gorgeous-wigs/amp/"
 cdnAmpWebUrl: "https://madamenoire-com.cdn.ampproject.org/c/s/madamenoire.com/1323782/gorgeous-wigs/amp/"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 311
     height: 414
     isCached: true
+
+related:
+  - title: "How Artificial Intelligence is Revolutionizing Jobs"
+    excerpt: "How Artificial Intelligence is Revolutionizing Jobs. Synchronous work between humans and technology will change how we work. By Dylan McIntosh; Oct 03, 2022; Artificial intelligen"
+    publishedDateTime: 2022-10-01T00:00:00Z
+    webUrl: "https://ohsonline.com/articles/2022/10/01/how-artificial-intelligence.aspx"
+    type: article
+    provider:
+      name: Ohsonline.com
+      domain: ohsonline.com
+    quality: 41
+    images:
+      - url: "https://ohsonline.com/-/media/OHS/OHS/Images/2022/10/1022mcintosh.jpg"
+        width: 620
+        height: 300
+        isCached: true
 
 secured: "eKkV3GXdcXv0RdEK3w/svswloE9CmwwUiJE+iBREDpqrKZLJE3Gf6vweuD53Ty9iGfsPowE5hd92jQz6PZq8nFSDBochgtKTwjfA3jFH6mrWR7l/icWNg5ppDk7CHqFwZcIaNX6Ro0uAiNFyIO2RNC9VDaZNb2UAHbOzJZ2/P7XhFS8d2K3FoqfWY9WiU+YXNmMZwKQf2bc59qgNFzuaLV0W802xYr4gxwzYC8oNgId4t9GV0kLT1VslyzZ3yOU1DAtRmMB7VC6pJ6sws/0Y+2j+79HthGFXQuHCrhVucLs+iLU10D1eYBn53MCfWR+RvPRJffieapSC86Z59oG8DlBIiI0jU+asL/HJp+zPmVM9ZZQkGpvDlS3ngp5UyNG1VLDnXwtTYkKNwe2khukiTx78Zs4i+FXfO7UbtK/oOTmpy1+pqX1oRJfCUthkgFKTCMb73kXky/2EekL5qcCNerAxsLojmCAv/A9t7KZ2XoMPuGHSw4ZgvAmvIKcuaUd4dpkyiVftLZHRk1j53pfGkw==;EAvkbjCnAUtv0r09xf2J4Q=="
 ---

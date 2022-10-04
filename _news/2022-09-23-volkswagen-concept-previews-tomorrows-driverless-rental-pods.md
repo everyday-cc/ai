@@ -5,8 +5,6 @@ excerpt: "Artificial intelligence and platooning – fully autonomous driving in
 publishedDateTime: 2022-09-23T13:37:00Z
 originalUrl: "https://www.perthnow.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334177"
 webUrl: "https://www.perthnow.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334177"
-ampWebUrl: "https://www.perthnow.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334177.amp"
-cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334177.amp"
 type: article
 
 provider:
@@ -23,6 +21,6 @@ images:
     height: 675
     isCached: true
 
-secured: "Dt0aVR0LX212hO2SxHPzigGjyiZnbDplUe2MnjnXk5oBOvpuOV1bMZYMjcNt8gA7AHNMJA6swFcg9PIqi/nb/2jhLlVZHrYIPtmSphxN2TN33D6iqpDzU4jlbwn5sUru1SGcI7eV8u6yeEItEcRi4HzQesHfRBF5vYlNlKe04D/ZyGir5ezNJZcHamqZxsSn5wvC313QWz6SkgXb6+u2pI3VtKu6wKj/VWiMqobOMZ2pOk+5xfd3jk2/PcdL4l8YvO9BvRUsDhr0V3ravNeibT99eNyg4YjgzEpCIsslLV3wimJpjsb0BoUtqx9wp9v1knznUl+qtJ7dC+nH/SgX5hKniFFzJ9Bpn2SW+fDmGyk=;cPH/xMHO8giu1kdd1gxC6Q=="
+secured: "gtUBH4ExMOlNa6NZUzFmQjuNTSOAA5aP+T0wiI/ymrQRtjNRbJSRSImUib9vOYaqPTn2F7nLYx1zG9d4Y/Ibp2PK5Nc2xxV97P4hZBsGaM2eadtw7q5U2aBp/uliV/RGXnoiDQJ4mJNaV52b8QGDbJkA8KlO8GvYjoJ8RwdurQHzYjGgMkCoyw9pBDZ6gtyPTIqmhEZITqZzjhHTS2FyEz4WXGrciXcUQDg2yq7xdtjVIycXk/nKOrhII5K6FlNhCWvjcUqj2dPVrQ0rhnODP7+tNN9sDMYc5fg5vni2z5VzP7yz7JC2x0KU0kiQmkUdmYzVN4WUlHe4uvZqA0UUh38ETul2FzQiowUnedte4d0=;TXn0z/nv/CBJjyUK/dJuxA=="
 ---
 

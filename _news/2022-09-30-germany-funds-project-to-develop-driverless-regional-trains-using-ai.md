@@ -7,7 +7,7 @@ originalUrl: "https://www.railjournal.com/technology/germany-funds-project-to-de
 webUrl: "https://www.railjournal.com/technology/germany-funds-project-to-develop-driverless-regional-trains-using-ai/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 598
     height: 366
     isCached: true
-
-related:
-  - title: "safe.trAIn Project to Advance Development of AI-Enabled Automated Trains"
-    excerpt: "Siemens AG will lead a consortium to facilitate advances in operating automated regional trains with artificial intelligence (AI)."
-    publishedDateTime: 2022-09-29T09:33:00Z
-    webUrl: "https://railway-news.com/safe-train-project-to-advance-development-of-ai-enabled-automated-trains/"
-    type: article
-    provider:
-      name: railway-news
-      domain: railway-news.com
-    quality: 38
-    images:
-      - url: "https://railway-news.com/wp-content/uploads/2022/09/Screenshot-2022-09-28-at-16.59.09-1024x755.png"
-        width: 1024
-        height: 755
-        isCached: true
 
 secured: "MZbb1OmKr09eG49JG2n9nGvQZZBmi36go8rhDGMZGleFdxrheSSmVV8q9ZkLkQAUDW2rROJA03EOX4cIEYbi8YyE2vnifRAU0wANJKo/cpyTc1BeeqY4sx7vSNm5n8y8x3eWweKd7G9llQSx/guiG7u6i16N3lJ9U0wY3SOPCh8PXPi4eVLt0oTUO+2yc6YuK8QEuWqJqTYQBnlTuD24+UouogcgQ4e7tO5Tr1ylO4tAZDXgA9DYXxd6upYympnYT3NOSvlsDKt5n/W0k66YjG2ADkOXTJMubMLSpPJeGs2d/nBV8aBf9lceuXpp49GvkEoiEtPFusx9yBvKvLk0lsaR5l5mluxrqrNxFaZYd7VSHTojAGV9F+OfXzfozmaPdI6yTz17Vkja4cp14plKmoHgfgD/w0bF2cVDXX5fDjn5jijNl/+lDjhesopuGjcqKEcbr9/T8saAFOQgpYSrm8jLGzJgQfld+HkXMuPwo3zj+tltQ8laN41RUCLA01CM99JFhtX7Tx8PLtnsVuKoww==;o9p3GpDOms7YJLKiyp+k2A=="
 ---

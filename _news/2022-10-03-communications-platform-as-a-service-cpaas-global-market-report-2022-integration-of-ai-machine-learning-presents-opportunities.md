@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Market Demand, Research Insights by 2031"
+    excerpt: "The global facial recognition market is expected to reach US$ 20.5 Bn by the end of 2031 Facial recognition is a biometric technology used for identification and authentication of the people by ..."
+    publishedDateTime: 2022-09-29T16:51:00Z
+    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-demand-research-insights-by-2031"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/10/e85011da217183a3d6be0c4db6940eeb72fce851-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "ZVWjtv2SXP7Al/9c01F9WDoN4lmf/CrTUDGEJMALqADKDiFqFiOJBWnSkPQ83ofPBMR/alGCITt7WAcGRjh/SuNqxlP09eE1MeN8wWG72US8UuAkCej7gCXcydQDOTswDkfCjFEWD4cHzmk03sjYiZ5+6r2K7b9zNC7uaV1s1ENsf/bqykKKpopXED+Pj94T2WW5ksysK9Y837EJw9FFNckopZrrCgJ2vXGSNWi/A2qzaH52nWCk768iaZOIHY7F8f5ztb9yYWEe1h7vWyciL2JUKAn7hDwrSZQsC+aZG1u4UxFlhd3VHdpbLIw7WkLlZh5zlreFIxd9U30rcKau9w/geNjVgcXRN7KpzcuARH4=;UZP7hIMsjtmRVdX3m51M0w=="
 ---

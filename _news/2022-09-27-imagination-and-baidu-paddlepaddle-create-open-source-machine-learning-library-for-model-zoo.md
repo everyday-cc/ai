@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.design-reuse.com/news_img2/homepage52732/imaginationb.jpg"

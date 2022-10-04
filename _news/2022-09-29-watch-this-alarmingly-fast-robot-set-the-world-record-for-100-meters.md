@@ -34,20 +34,6 @@ related:
       name: The Robot Report
       domain: therobotreport.com
     quality: 49
-  - title: "Cassie, the bipedal robot now has a world record for 100m dash"
-    excerpt: "Cassie learned to run and this year, she has broken world records in sprinting. The future of bipedal robots is approaching fast."
-    publishedDateTime: 2022-09-29T09:36:00Z
-    webUrl: "https://interestingengineering.com/innovation/bipedal-robot-cassie-sets-world-record"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/2022/09/29/image/png/qEHycvTU4PBDihuECZVDM5xGFGvyLL3n0qNtWaXg.png"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "tH2udaoj2Tye2mmLPcQ6NTkpSNy86zbfD6Fpe7BZADwBwvAgU/uyIoTDWgxsBRlFjF7rHtXvESSQvDu0Io+BdQvrQHDGmpYxdhtgQCOK3lP8hGB5ZgIQIVMNX5dKNZfRCVdHtAJuwBWv3lK4RYrEItJeE9FLLLpNK1ycdYAykttvjiFNBylyYLIlox3umohOKgaSKf78Unmtc8KL+cvGcmCvnm8qG4yhq6MgLn2JAhjbXC2A6Wpw1s3Bg2IWWHHn45kivhdlsOmVg5HEGn3TWd1gpXYuTN+h/3CK4izSD79ePGE43iW1A9hrW4gZ2AeEMjLFR6QL+eHelFlxknQPG+ab5Mm2PFzbzp3nlWTGlYGJqidhHu7k6mQ4ayUWy61622KxlwJ32Qu1HhZRU48bHpJ2K26gwdld+VmxfLbg/BRIHqNZtUvSBTsGiiPoEuQpLQwVOrAFWMSZz0If0MEFto81d1whwJ/Dlf2xKxRMSRWJ0GNht24OOJA9DRXRZlVOR8kiH+jirH9PBmbJCyte5A==;tlZFjahAblpDnIwPwW4j/Q=="
 ---

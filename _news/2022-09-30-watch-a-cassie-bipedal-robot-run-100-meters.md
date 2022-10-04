@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Cassie, the bipedal robot now has a world record for 100m dash"
-    excerpt: "Cassie learned to run and this year, she has broken world records in sprinting. The future of bipedal robots is approaching fast."
-    publishedDateTime: 2022-09-29T09:36:00Z
-    webUrl: "https://interestingengineering.com/innovation/bipedal-robot-cassie-sets-world-record"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/2022/09/29/image/png/qEHycvTU4PBDihuECZVDM5xGFGvyLL3n0qNtWaXg.png"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Watch This Alarmingly Fast Robot Set the World Record for 100 Meters"
     excerpt: "Cassie covered 100 meters in 24.73 seconds, the fastest ever by a bipedal robot. For now, humans are still faster."
     publishedDateTime: 2022-09-29T16:15:00Z
