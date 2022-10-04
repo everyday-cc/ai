@@ -54,6 +54,50 @@
       ]
     },
     {
+      "path": "_news/2022-10-03-mlgt-professor-earns-nsf-career-award-for-computer-vision-and-ai-research.md",
+      "title": "ML@GT Professor Earns NSF CAREER Award for Computer Vision and AI Research",
+      "excerpt": "In a self-driving vehicle, cameras are stationed on all sides of the body, while an embedded AI system scans and processes the incoming data stream to continuously inform itself of appropriate actions to take.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cc.gatech.edu/index.php/news/mlgt-professor-earns-nsf-career-award-computer-vision-and-ai-research",
+      "originalUrl": "https://www.cc.gatech.edu/index.php/news/mlgt-professor-earns-nsf-career-award-computer-vision-and-ai-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cc.gatech.edu/sites/default/files/images/main/2022/Judy%20Hoffman1.jpg",
+          "width": 850,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cc.gatech.edu",
+        "domain": "gatech.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-10-02-self-taught-ai-may-have-a-lot-in-common-with-the-human-brain.md",
       "title": "Self-Taught AI May Have a Lot in Common With the Human Brain",
       "excerpt": "Neural networks can use self-supervised learning to figure out what matters. This process might be what helps humans do the same.",
@@ -167,7 +211,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-2022-business-overview-new-trends-growth-analysis-and-forecast-to-2030-2022-09-30",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -262,7 +306,7 @@
       "originalUrl": "https://techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -314,7 +358,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/22/09/b29081188/aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 80,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1162,6 +1206,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-22-burning-object-thrown-at-parked-car-in-roseville-suspect-in-custody.md",
+      "title": "Burning object thrown at parked car in Roseville; suspect in custody",
+      "excerpt": "Object that was on fire thrown at parked car in Roseville; suspect in custody 00:26 ROSEVILLE – An investigation is underway after someone was reportedly seen throwing a flaming object at a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/sacramento/news/object-that-was-on-fire-thrown-at-parked-car-in-roseville-suspect-in-custody/",
+      "originalUrl": "https://www.cbsnews.com/sacramento/news/object-that-was-on-fire-thrown-at-parked-car-in-roseville-suspect-in-custody/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/09/21/4726e131-8cd7-4866-8f0a-45c948adf886/thumbnail/1200x630/9669778f54bd4ddea9ffd89cad44183e/roseville-molotov-cocktail-incident.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/sacramento/news/object-that-was-on-fire-thrown-at-parked-car-in-roseville-suspect-in-custody/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/object-that-was-on-fire-thrown-at-parked-car-in-roseville-suspect-in-custody/",
+      "publishedDateTime": "2022-09-21T20:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-21-voxel51-raises-125m-series-a-to-bring-transparency-and-clarity-to-computer-vision-data.md",
       "title": "Voxel51 Raises $12.5M Series A to Bring Transparency and Clarity to Computer Vision Data",
       "excerpt": "The recent explosion of computer vision data—there are an estimated 45 billion cameras in the world today—creates a tremendous opportunity for machine learning products, but only if it can be ...",
@@ -1359,110 +1446,6 @@
         "Computer Vision",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-ai-computer-vision-market-share-size-financial-summaries-analysis-from-2022-2030-by-netapp-ibm-sas.md",
-      "title": "AI Computer Vision Market Share, Size, Financial Summaries Analysis from 2022-2030 | By -NetApp, IBM, SAS",
-      "excerpt": "The Global AI Computer Vision Market investigation report contains Types ( Standard, Customised ), Segmentation & all logical and factual briefs about the Market 2022 Overview, CAGR, Production Volume,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-computer-vision-market-share-size-financial-summaries-analysis-from-2022-2030-by--netapp-ibm-sas-2022-09-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-computer-vision-market-share-size-financial-summaries-analysis-from-2022-2030-by--netapp-ibm-sas-2022-09-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T00:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-global-face-recognition-device-market-analysis-by-size-segment-and-evolution-rate-by-type-and-application-forecast-to-2025.md",
-      "title": "Global Face Recognition Device Market Analysis by Size, Segment and Evolution Rate by Type and Application Forecast to 2025",
-      "excerpt": "Global Face Recognition Device Market report added by Market Study Report that gives meticulous investigation of current scenario of the market size, share, demand, growth, trends, companies active in the industry and forecasts for the coming years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-face-recognition-device-market-analysis-by-size-segment-and-evolution-rate-by-type-and-application-forecast-to-2025-2022-09-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-face-recognition-device-market-analysis-by-size-segment-and-evolution-rate-by-type-and-application-forecast-to-2025-2022-09-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

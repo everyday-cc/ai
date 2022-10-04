@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/putins-satanism-speech-compared-rhetoric-ma
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/putins-satanism-speech-compared-rhetoric-maga-republicans-1748094?amp=1"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

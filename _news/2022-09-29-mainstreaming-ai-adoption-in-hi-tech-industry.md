@@ -43,15 +43,6 @@ related:
         width: 800
         height: 397
         isCached: true
-  - title: "QZ Asset Management Invited to Showcase BDAI Technology at Major FinTech Events Worldwide"
-    excerpt: "Beginning Q1 2023, the Chinese firm has lined up multiple appearances at major fintech events worldwide after a COVID-19 enforced hiatus from large scale international events. GUANGZHOU, China - September 29,"
-    publishedDateTime: 2022-09-29T07:45:00Z
-    webUrl: "https://www.asiaone.com/business/qz-asset-management-invited-showcase-bdai-technology-major-fintech-events-worldwide"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 10
 
 secured: "tY09EZx0Bf+Cwdja2uhDRR3YDzWVNzQHgJytGF5DrB9U4hwZ6M2b9xR0kUVTiBNyEiKIKFs5jewrBhI6mYMXUHRhmLnL07RxZW9k62sujpl2Vv0fkyjviMYMK0oJu75YJxXQpn/NGp+UXz0tJNsMLh+cTRufCp52ae8jJ1c0CXUoct4Jv0w3tz5GKOHlFvg529lRJPFuFWjQsR1rxaBhDAKS5wTnFWoqKo+UC93wEEFmRMmNpT+wZFvIzutsvcAdHNV6Chx6UGzXR4nGcQiuPNM7MA3/w274q4Vj2mCMSUkIJmtTMYLPuM0LHJnHdYYTTiWU1tziDccdEh71nRRceDSRO+a9mg+tROeTizXDG34=;zR0ZkPx/iAADZKS+W4Vcxw=="
 ---

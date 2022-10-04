@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/speech-accessibility-project-ai
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/speech-accessibility-project-aims-to-make-voice-recognition-more-inclusive/"
 type: article
 quality: 87
-heat: 117
+heat: 118
 published: true
 
 provider:

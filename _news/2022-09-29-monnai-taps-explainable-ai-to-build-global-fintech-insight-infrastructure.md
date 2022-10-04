@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/monnai-taps-explainable-ai-to-build-globa
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/monnai-taps-explainable-ai-to-build-global-fintech-insight-infrastructure/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 615
         height: 383
         isCached: true
-  - title: "QZ Asset Management Invited to Showcase BDAI Technology at Major FinTech Events Worldwide"
-    excerpt: "Beginning Q1 2023, the Chinese firm has lined up multiple appearances at major fintech events worldwide after a COVID-19 enforced hiatus from large scale international events. GUANGZHOU, China - September 29,"
-    publishedDateTime: 2022-09-29T07:45:00Z
-    webUrl: "https://www.asiaone.com/business/qz-asset-management-invited-showcase-bdai-technology-major-fintech-events-worldwide"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 10
 
 secured: "uc3vEXoOb1kzo9HgbOBdMNJ/1rBD1S/MQFrhnW+GMdQCsBSBq0RNKfslgOvOOk/DiTeCC2Z0zREGZ6/X77klfP4xu8pID097HD8S0aURP3JbaCxNiNiVNbi16MYOxpYDU75/rCVP9GdJv8fb+plIsh9uhi9/C1XxpfoDZ+YCV8nRqBOkhGIBnEbFnYGYhFOcqn4qokGReL28fiqjk+GlV9LqnvYMdmRK/RSSuBl0mf1O1ZsMP9Wi5ubEUFKtDO8NJxduUu+t0tb8xiDmWPGORUfWCkkyGxwqlOMbzEx8BZ+uDCR33ZI2er/hCrlc4iGfUZwCthi3oxNKhbTBQvWkjBAJsERRAZFAP3OTd7N3Gyd3TObtKNAUiBaqbvXrglQgj51PXmHm8XHW2JTg9yRtXJ89es/9z0dfXqroNhmlGnyWxHnJ35sx/bX2AUf5kP2mx+zh/1neMniw5bhfF7ENI0orVWCPd0Dsf/RaoIr2siR7dQhRJjlZ6Zoh+X3XUOB4CQKCSy55DouKIE0VLhvB5w==;dVW6/ehZGoNEIHxH6O1nyQ=="
 ---

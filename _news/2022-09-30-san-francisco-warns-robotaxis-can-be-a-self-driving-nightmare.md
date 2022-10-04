@@ -7,7 +7,7 @@ originalUrl: "https://www.wral.com/san-francisco-warns-robotaxis-can-be-a-self-d
 webUrl: "https://www.wral.com/san-francisco-warns-robotaxis-can-be-a-self-driving-nightmare/20499333/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving cars keep causing traffic jams in San Francisco"
+    excerpt: "San Francisco local Emma Becerra happened to catch the incident, and shared pictures of the emperiled vehicle on Twitter. Becerra also provided additional images, showing a worker"
+    publishedDateTime: 2022-10-04T01:00:00Z
+    webUrl: "https://www.popsci.com/technology/self-driving-car-blocks-traffic/"
+    ampWebUrl: "https://www.popsci.com/technology/self-driving-car-blocks-traffic/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/self-driving-car-blocks-traffic/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 44
+    images:
+      - url: "https://www.popsci.com/uploads/2022/10/03/cruise-self-driving-car-traffic-jam.jpg?auto=webp"
+        width: 2000
+        height: 1500
+        isCached: true
   - title: "Early Money: Here's how this San Francisco startup is aiming to help people with cerebral palsy and multiple sclerosis"
     excerpt: "Jeremiah Robison got a close-up view of such challenges raising a daughter with cerebral palsy. Robison was determined to do something about such problems, figuring that advances in sensors and machine learning could be used to help give greater mobility to those with disabilities."
     publishedDateTime: 2022-09-29T18:02:00Z

@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Intelligent Speech and Voice Recognition Market Business overview 2022, and Forecast to 2030 | By -Google, Baidu, Facebook"
-    excerpt: "Global Intelligent Speech and Voice Recognition Market 2022 overview, CAGR, production volume, sales, revenue, regional analysis, and forecast during"
-    publishedDateTime: 2022-09-29T07:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/intelligent-speech-and-voice-recognition-market-business-overview-2022-and-forecast-to-2030-by--google-baidu-facebook-2022-09-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Communications Platform-as-a-Service (CPaaS) Global Market Report 2022: Integration of AI & Machine Learning Presents Opportunities"
     excerpt: "Additionally, the integration of artificial intelligence (AI) and machine learning (ML) for speech recognition, automation, agent augmentation, emotion analysis, and call analytics is providing an impetus to the market growth. Moreover, the increasing ..."
     publishedDateTime: 2022-10-03T09:03:00Z
