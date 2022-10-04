@@ -2,6 +2,40 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-06-20-callminer-introduces-combined-workforce-intelligence-capabilities-to-elevate-agent-experience-and-drive-improved-customer-outcomes.md",
+      "title": "CallMiner Introduces Combined Workforce Intelligence Capabilities to Elevate Agent Experience and Drive Improved Customer Outcomes",
+      "excerpt": "CallMiner, the leading provider of conversation intelligence to drive business improvement, today announced new and expanded workforce intelligence capabilities to help organizations improve the performance and experience of contact center and customer service agents,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-las-vegas-waltham-608e450ab4b54cf9875aa6ea1408245f",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-las-vegas-waltham-608e450ab4b54cf9875aa6ea1408245f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-20-how-artificial-intelligence-is-revolutionising-healthcare.md",
       "title": "How Artificial Intelligence is revolutionising healthcare",
       "excerpt": "Artificial Intelligence (AI) may never be able to adopt the comforting 'bedside manner' that good doctors are known for, but it may be better equipped to diagnose your ailments accurately.",
@@ -1267,40 +1301,6 @@
       "provider": {
         "name": "Financial Post",
         "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-research-claims-military-cannot-rely-on-artificial-intelligence-for-strategy-or-judgment.md",
-      "title": "Research claims military cannot rely on Artificial Intelligence for strategy or judgment",
-      "excerpt": "The use of artificial intelligence (AI ... and Goldfarb highlight is the Rio Tinto mining company, which uses self-driving trucks to transport materials, reducing costs and risks to human drivers.",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/Articles/Science/20220615/3952115.html",
-      "originalUrl": "https://news.webindia123.com/news/Articles/Science/20220615/3952115.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T00:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
         "images": null,
         "publishers": null,
         "authors": null

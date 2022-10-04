@@ -3,10 +3,10 @@ category: news
 title: "Are Mental Disorders Evolved Cognitive Styles?"
 excerpt: "The disease model of mental illness may have outlived its usefulness. A new theory suggests that some mental disorders are evolved cognitive styles that benefit the group. The neurodiversity movement has long advanced a similar vision."
 publishedDateTime: 2022-10-03T15:37:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/the-biology-human-nature/202210/are-mental-disorders-evolved-cognitive-styles"
-webUrl: "https://www.psychologytoday.com/us/blog/the-biology-human-nature/202210/are-mental-disorders-evolved-cognitive-styles"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/the-biology-human-nature/202210/are-mental-disorders-evolved-cognitive-styles?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-biology-human-nature/202210/are-mental-disorders-evolved-cognitive-styles?amp"
+originalUrl: "https://www.psychologytoday.com/za/blog/the-biology-human-nature/202210/are-mental-disorders-evolved-cognitive-styles"
+webUrl: "https://www.psychologytoday.com/za/blog/the-biology-human-nature/202210/are-mental-disorders-evolved-cognitive-styles"
+ampWebUrl: "https://www.psychologytoday.com/za/blog/the-biology-human-nature/202210/are-mental-disorders-evolved-cognitive-styles?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-biology-human-nature/202210/are-mental-disorders-evolved-cognitive-styles?amp"
 type: article
 quality: 44
 heat: 44
@@ -26,6 +26,6 @@ images:
     height: 800
     isCached: true
 
-secured: "yy91guK5kze2pFB83NqDr2L7zsfVmyLD+/Dme6DVJG48MJMTVNW6J1NfUG3SIisZQixBF++JbhD2/BMZ9I+4wenSSZvg0ivE731i15AeCxtifiXivukbwzShN18D94wBI+3gx6Wy67eLqbBQ6rAbgJtMtsBJF7y5iwuWhcpRB426hKjVXBMRY3DfQw0Z1waYHUMKQHfBWmAKaH7pNZSBYnt5+cfRkjAIjH9vV2qDGd6o3Di+2w8sXu5qIynJAbmI8F2GOtO/zk1jz0221s1+CtC0CAqo6P3itsZnzrrn63aED/DQLUr8igbh59R17PvcSInJ7xAGUR4VnV1G5jJ2tbjBiNVCASfGbSuu+MeVaxAIDwxBna51G48oPgh0xT9E+V67OI5Yoapb9nehrm0/BWBS45kdTN6XsKTgdLiYYRtXYsiZ4herpL9zau2iDWEnBYupXZbxDSKAAn+SGSU8ffM2y7QC3SN8rkA17jqUexZebDDVeEcj6m6Pyf6CTWNYpZPu3z7sdIgFBnj/G48sLg==;4hVxEDMD27G53lYDQOd0Fw=="
+secured: "ljBJqYLjDievrRtsuqC+FMdxWuE9BxWyMfjzsKGMyPDHtGY1uD+E5SQE43T+7BF2bd53u9jswp09pm+244XTpH92DaGpiic1kGECs1f987V+BDY7NTe5tv0a960y59OWcU0reeJ21wCNrJW/9rSBTq7nlt/0zSFHMf2MO7Khrv70OCKRfakDNdqu5VGUeX0uBWmht6WORrAnuLsN3e7N6j9cWPgltmbUlZXgVZcSEAydUhEM0mk3pIWYOq52QMyPBH2h1y4T27cktZ/D+Z8YJx4P3Kb6LxFZPYOKBwQmahc9CqFpG5mlRXnOAIpbozGazGTHYS5xzNQa72hhTrE2X3LR2yw6flf2kmuEU8ukQMQ=;Mldn9XxEXUJZaNM+ILxh0g=="
 ---
 

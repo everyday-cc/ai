@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/02/tesla-ai-day-an-investor
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/02/tesla-ai-day-an-investors-perspective/amp/"
 type: article
 quality: 106
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -89,20 +89,6 @@ related:
       name: CNN
       domain: cnn.com
     quality: 64
-  - title: "Can Tesla get a boost from its highly-anticipated AI Day event?"
-    excerpt: "All eyes will be on Tesla (NASDAQ:TSLA) on Friday when then company holds its highly-anticipated AI Day. One of the highlights of the event is expected to be the company's unveiling of its Optimus humanoid robot prototype."
-    publishedDateTime: 2022-09-29T16:27:00Z
-    webUrl: "https://seekingalpha.com/news/3887203-can-tesla-get-a-boost-from-its-highly-anticipated-ai-day-event"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 56
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1057297452/image_1057297452.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Tesla shows off humanoid robot, supercomputer potential at AI Day"
     excerpt: "Tesla (NASDAQ:TSLA) unveiled its humanoid robot at its AI Day event late on Friday. Optimus was not ready to walk on stage quite yet, but waved to the crowd and raised its knees. The AI-powered Optimus robot features a 2."
     publishedDateTime: 2022-10-01T13:02:00Z

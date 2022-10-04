@@ -5,6 +5,8 @@ excerpt: "Neuromorphic computing system technology mimicking the human brain mus
 publishedDateTime: 2022-09-20T12:30:00Z
 originalUrl: "https://techxplore.com/news/2022-09-high-performance-high-reliability-artificial-synaptic-semiconductor.html"
 webUrl: "https://techxplore.com/news/2022-09-high-performance-high-reliability-artificial-synaptic-semiconductor.html"
+ampWebUrl: "https://techxplore.com/news/2022-09-high-performance-high-reliability-artificial-synaptic-semiconductor.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-high-performance-high-reliability-artificial-synaptic-semiconductor.amp"
 type: article
 quality: 0
 heat: 0
@@ -16,7 +18,14 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
-secured: "scdA9+4YGhcTGHJC/cQoNqcz2UD/uG+Di9lwYzNpxwrmyEVdPTLXW3EIdQQIpU1wcz0cIBRUM8A0JFKZMdsIFPVIn91V3kIzjM23C6/ok5zOaDpJaxGyj8RKtMiYMl3rirjnaOF1LBK90Iaa0VTjBd2ArRX0O5U8hcYoeZ++9U4A40eZi2EzHlwTAH4EykN1DtL3RC8olHp4Myr9Z4lACnkksAKWf5o5t/eRU8jy+QbDJcsfxr+mUiX3NF7VAOtAp5oPsOGuolduLuh2hOXEt+VN1z+YeAwRD8oCpPMQ5PfRNbGb4/C/iE+jWDCkY0LwuGqPWyHflUsoOApD69mifKZGN1lYgvrEQ4la7HlhzfDvK2gzejp+P9QG+bQgLF6cY3GT5PsmONtZmqGl8e7nn6Frb0xNoBPOh3Jde71/7yhn97ZaeP4Ng8Lv4/UVN22mL/uM0KfUeGkRZ0Smz/yx0C4zVo+u5tKy1u/eqR1Nh7xP0wHsZkEuqPmbtItVr6gaTeLRY8/fXKtO0NcQ0OGGfA==;QLZRHTCaxqJyAD6YGw8/yw=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/high-performance-and-h.jpg"
+    width: 1462
+    height: 974
+    isCached: true
+
+secured: "BRH7Th/lvW5b2w139noKJE4stYzxIFaI0Nk1cmP+ZXraG5Yb15E6o4ne8MCgclx3ZaAEp146xZKIo9seG9iU+0RpBnVNqkPMKfgjfTazVYauas6AagnhxosSAqIcGiwqcmHM/+ocoZM3WL7o+iUsNuv0qizawXHQ+jufm+rJmE+j0GTue35XqsvDToW3X0nAO+vYvoLXtXMBYOw0y6risNKgmfAOT1zHTHmutkWhUNM+2ZXHLhHxyFetMWLg9GTilKHqxGGuTGR8MGPnH+4+eR3E7CPdtdvNuJNTk/Tx3WIzCAHgAiFplt2IeYXiQR7CF8Yx4iFSd98SPGyq/IHZ0ROA3To/yNmwYCQHhx3TBS4=;FbOwGk2BtdpACDX91lftUA=="
 ---
 

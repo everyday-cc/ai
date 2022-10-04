@@ -37,7 +37,7 @@ related:
     provider:
       name: Indiatimes
       domain: indiatimes.com
-    quality: 61
+    quality: 63
     images:
       - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-31-at-2.34.08-PM.jpeg"
         width: 868

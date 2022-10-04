@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/10/03/geelys-europe-expansion-continues-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/03/geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways/amp/"
 type: article
 quality: 93
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 744
     isCached: true
-
-related:
-  - title: "Argo AI’s robotaxis officially available via Lyft in Austin"
-    excerpt: "Argo AI and Lyft have launched a commercial robotaxi service in Austin, however safety operators will still be present in the vehicles."
-    publishedDateTime: 2022-09-29T16:44:00Z
-    webUrl: "https://techcrunch.com/2022/09/29/argo-ais-robotaxis-officially-available-via-lyft-in-austin/"
-    ampWebUrl: "https://techcrunch.com/2022/09/29/argo-ais-robotaxis-officially-available-via-lyft-in-austin/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/29/argo-ais-robotaxis-officially-available-via-lyft-in-austin/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/09/Rider-hailing-a-Ford-Escape-Hybrid-vehicle-with-Argo-self-driving-technology-scaled-1.jpeg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "ZH5ruJnKD7L5NAtzXrquRhp+BD3ZXPv1hCrdI+n93iE6I1ArGLle8VUMnZGQAM6t/fGFm7RiERQFYjYBw+hJG6qpE20NbyNRGd+WgLfENBkahhmSQRP7v4q7ErUG6x5JipaT1ovICHsRUdzZslXWAc+PUg3ubrhtJEL5OSJ3mUa8dKlJgHpiAMX6z00cPTduyUZA08mt1N7kcOFHCdiZw1tP2l0HjF8gKTPT+BRIm8o0ORrv8SgHHvtn31X+rJpdLIPayn14OVXro2ECVjMW6Dm1zYGBu8pdsFp/HO7lQqm/g6mF15s4C54sDosXaPY6WATi3jVHPMGbfSwYqlPU1ahDfm4Wu1QcA5eBuHHru855yIvdF1jLYGBNpLLDHIei/daYEoRRHBDRX2xVLyWHsv+H4RMQuhXzntcnIndiDFjode+Nx1zmQx2X/LnF1cUSSvuEXoBaKyaEzhgGjZ7RGp+jIsgdbteWiXUj9EaiE0dXNVSBfmhb9D8M18orsvTVfzxp2xa2LmzgnFgsndbpQA==;WCbtS2P32q2dLQA4gdPkdA=="
 ---

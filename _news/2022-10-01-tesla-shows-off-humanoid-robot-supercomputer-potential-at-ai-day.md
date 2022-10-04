@@ -93,20 +93,6 @@ related:
       name: CNN
       domain: cnn.com
     quality: 64
-  - title: "Can Tesla get a boost from its highly-anticipated AI Day event?"
-    excerpt: "All eyes will be on Tesla (NASDAQ:TSLA) on Friday when then company holds its highly-anticipated AI Day. One of the highlights of the event is expected to be the company's unveiling of its Optimus humanoid robot prototype."
-    publishedDateTime: 2022-09-29T16:27:00Z
-    webUrl: "https://seekingalpha.com/news/3887203-can-tesla-get-a-boost-from-its-highly-anticipated-ai-day-event"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 56
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1057297452/image_1057297452.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "6GlFhlQwBLvPz42+m2ScxeZaxwRLncJUn2pEJWGq3h6ZB662r/jymckHZZ7Tte89YulUJDWqw9XFaE4pEaYC+6yfMnH4KjvgODL0Ed/oVId/gNzhHQmuSNZEH7cADx5kvB3rzK/uV/PocfSw89YdmutKfDb/9AAnBOfXs6mPEm2Y0wi9q2ACYjlVVWtgrnX3tPxX5/zIwnTb8F1D56ub30YDobY4IKarrlcyxKgznz3NsWmiEVqgbl5QFS+LHtSZq/ob1dG8J+yLujiizKhCbhnGUvQUpt86GnZMFthMMgyMSyVHMfbcyY3lKi6je53hRtAYS5d4efo4LPl25oX9v00AijSP6h3ux40Rf5IKVYruIbU/RpvxXlrqFgo/TVZ2hi3hdS23xArPWFqLWsxM0ashldJyCfWOgDcUEaiHYiQOV30LUyBvqH+MwmdYwgsWGPZLW1SZsLH6GSJsURrlKEV9+8uFRhSmWRoTYhimF2uWzchil7C6ifYMt/kvLHuQ+HvvAKKK3470irRfVGBTow==;IO29Q3HhhM5eIzOtAf33Wg=="
 ---

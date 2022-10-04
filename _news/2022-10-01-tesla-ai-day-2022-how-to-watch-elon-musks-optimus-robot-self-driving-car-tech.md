@@ -383,31 +383,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Should You Buy Tesla (TSLA) Stock Ahead of Its AI Day 2022?"
-    excerpt: "The company’s AI Day generates an enormous buzz among Tesla fans and investors, as well as tech enthusiasts at large as it’s packed with exciting innovations and big surprises. Tesla’s 2021 AI Day knocked the audience for six as a dancing robot walked onto the stage to accompany Musk."
-    publishedDateTime: 2022-09-29T15:13:00Z
-    webUrl: "https://www.nasdaq.com/articles/should-you-buy-tesla-tsla-stock-ahead-of-its-ai-day-2022"
-    ampWebUrl: "https://www.nasdaq.com/articles/should-you-buy-tesla-tsla-stock-ahead-of-its-ai-day-2022?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/should-you-buy-tesla-tsla-stock-ahead-of-its-ai-day-2022?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 86
-  - title: "Tesla’s Optimus robot: transformative or dystopian?"
-    excerpt: "Brad Porter, founder of Collaborative Robotics and former head of Amazon's robotics division, weighs in on Tesla's humanoid robot Optimus."
-    publishedDateTime: 2022-09-29T16:17:00Z
-    webUrl: "https://www.therobotreport.com/tesla-optimus-robot-transformative-dystopian/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 86
-    images:
-      - url: "https://marketing.wtwhmedia.com/wp-content/uploads/2020/12/TRR-DATABASE-house-promo-2.jpg"
-        width: 300
-        height: 600
-        isCached: true
   - title: "Tesla's AI Day delivers a real Optimus prototype and more FSD updates"
     excerpt: "Tesla's AI Day is a yearly event where the company showcases upcoming technologies and lays out its roadmap for future development. While the technology demonstrations are"
     publishedDateTime: 2022-10-01T15:08:00Z
@@ -492,20 +467,6 @@ related:
       - url: "https://media.khou.com/assets/CCT/images/ee0a47a3-adbd-488e-b57b-07df25f393af/ee0a47a3-adbd-488e-b57b-07df25f393af_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "AI Day 2022: Tesla may unveil a major milestone for its Optimus robot"
-    excerpt: "Tesla's AI is growing in popularity over time and has a livestream that millions of people view. Investors and potential investors watch to learn about the new methods Tesla is attempting to make money."
-    publishedDateTime: 2022-09-29T15:42:00Z
-    webUrl: "https://interestingengineering.com/transportation/ai-day-2022-tesla-optimus"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 73
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/2022/09/29/image/jpeg/g9lbUtcKWb3t73nIZDNHMAcKtvvtcFmuzlz57lRF.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Tesla AI Day: Robots, Self-Driving Cars, and More"
     excerpt: "All eyes are on Elon Musk as he promises great things for this year’s AI Day. Will we see the Tesla bots walk on stage? Perhaps we will see the CyberTruck in all its metallic glory? Tech products"

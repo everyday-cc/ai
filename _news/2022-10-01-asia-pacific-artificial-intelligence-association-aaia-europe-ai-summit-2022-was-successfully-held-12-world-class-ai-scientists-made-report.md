@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/22/09/ab29107836/asia-pacific-ar
 ampWebUrl: "https://www.benzinga.com/amp/content/29107836"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29107836"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.getnews.info/uploads/1a94ef7a5efead0233b08b1d52485cbc.jpg"

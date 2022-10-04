@@ -45,6 +45,52 @@ related:
         width: 1209
         height: 825
         isCached: true
+  - title: "Meta is pivoting to video with its new AI generator"
+    excerpt: "This new research tool can take text, video, or images and turn them into a short animated clip. Here's how it was created."
+    publishedDateTime: 2022-09-30T15:00:00Z
+    webUrl: "https://www.popsci.com/technology/meta-text-to-video/"
+    ampWebUrl: "https://www.popsci.com/technology/meta-text-to-video/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/meta-text-to-video/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 59
+    images:
+      - url: "https://www.popsci.com/uploads/2022/09/30/Screen-Shot-2022-09-30-at-10.16.05-AM.png?auto=webp"
+        width: 2498
+        height: 1238
+        isCached: true
+  - title: "The famous AI image generator DALL-E is open for anyone to use – Here are our creations"
+    excerpt: "You don't need to be an artist to create stunning photos, paintings and drawings. You just need DALL-E, which can generate AI art for free."
+    publishedDateTime: 2022-10-04T08:30:00Z
+    webUrl: "https://www.komando.com/technology/ai-image-generator-dall-e/859042/"
+    ampWebUrl: "https://www.komando.com/technology/ai-image-generator-dall-e/859042/?amp"
+    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/ai-image-generator-dall-e/859042/?amp"
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 49
+    images:
+      - url: "https://www.komando.com/wp-content/uploads/2022/10/DALL-E-AI-art.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Meta is using AI to generate videos from just a few words"
+    excerpt: "By Rachel Metz, CNN Business Artificial intelligence is getting better and better at generating an image in response to a handful of words, with publicly available AI image generators such as DALL-E 2 and Stable Diffusion."
+    publishedDateTime: 2022-09-30T03:04:00Z
+    webUrl: "https://localnews8.com/money/cnn-social-media-technology/2022/09/29/meta-is-using-ai-to-generate-videos-from-just-a-few-words/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 39
+    images:
+      - url: "https://localnews8.b-cdn.net/2022/09/hypatia-h_03283525a8885fcfbfcb4766d4628f46-h_a463ea9a9fd8001bfba9f7fc89c66cfb-300.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "ob8sOrYQ87TJpkUAzf7ZCxwmc0/sa24GipmTAilvaqH9p1eo5MGc6AvmLWgFnAvifO5xaIBBZ8+JeRRzcskgQ0XxcHms67+zgtPAvG5/5sDzfeDib02ZMDKUnFop3+XjKBe2JMf/bvo8R0tFsoo4ZuCvB+rpvPEl3DUKMh35+05Q5PtnvIYCa1f+cDY7rvb/g/YiVG5PuprJImRq3naOvYQ8AwTT8pZTnSPzb27wkEJbXa7o9Y1UUpCDQ71vUR5+FURMZco0ztaC5kfg63bOgUXRSjHWwzaXfITKgBS37UKJX8FRmsx8Pnqzma3JzYUPazyNrNcWx2biQO6qjkxpgrCDBhzv4Kvzo5NzI54Wxx4=;mvNiriRunnTfDHAesfkt+w=="
 ---

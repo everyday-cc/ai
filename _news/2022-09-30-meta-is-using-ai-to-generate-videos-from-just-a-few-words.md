@@ -25,51 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Meta’s new Make-a-Video signals the next generative AI evolution"
-    excerpt: "Make-A-Video builds on AI image generation technology (including Meta's Make-A-Scene work from earlier this year)"
-    publishedDateTime: 2022-09-29T16:36:00Z
-    webUrl: "https://venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/"
-    ampWebUrl: "https://venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/metas-new-make-a-video-signals-the-next-generative-ai-evolution/amp/"
+  - title: "Image-generating AI Dall-E is now free for anyone to play with"
+    excerpt: "Image-generating AI is becoming more accessible to the public, with one engine called DALL-E making its network free to use. While the text-to-art generator has some stipulations, you can create images by simply typing a description into the generator."
+    publishedDateTime: 2022-09-30T20:42:00Z
+    webUrl: "https://www.digitaltrends.com/computing/image-generating-ai-is-now-more-accessible-to-the-public/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/image-generating-ai-is-now-more-accessible-to-the-public/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/image-generating-ai-is-now-more-accessible-to-the-public/?amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/09/make-a-video2.jpg?w=1200&strip=all"
-        width: 767
-        height: 610
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2022/09/openai-text-prompt-930.jpg?p=1"
+        width: 1209
+        height: 825
         isCached: true
-  - title: "Write text, get video: Meta announces AI video generator"
-    excerpt: "Video's announcement page, Meta shows example videos generated from text, including \"a young couple walking in heavy rain\" and \"\" It also showcases Make-A-Video's ability to take a static source image and animate it."
-    publishedDateTime: 2022-09-29T15:39:00Z
-    webUrl: "https://arstechnica.com/information-technology/2022/09/write-text-get-video-meta-announces-ai-video-generator/"
+  - title: "The grandfather of AI art, DALL-E, is now free for you to try"
+    excerpt: "OpenAI has opened up the DALL-E AI art generator for anyone to try for free, with a credit system that replenishes monthly. It's simple, easy, and effective with the right prompts."
+    publishedDateTime: 2022-09-29T17:31:00Z
+    webUrl: "https://www.pcworld.com/article/1338403/the-grandfather-of-ai-art-dall-e-is-now-free-for-you-to-try.html"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 67
+      name: PC World
+      domain: pcworld.com
+    quality: 69
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/makevideo_teddy_hero-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "Make-A-Video with AI & a few words: Check out Meta’s new tool"
-    excerpt: "Meta CEO Mark Zuckerberg posted on Facebook on Thursday about the research, called Make-A-Video, with a 20-second clip that compiled several text prompts that Meta researchers used and the resulting ("
-    publishedDateTime: 2022-09-30T10:03:00Z
-    webUrl: "https://wraltechwire.com/2022/09/30/make-a-video-with-ai-a-few-words-check-out-metas-new-tool/"
-    ampWebUrl: "https://wraltechwire.com/2022/09/30/make-a-video-with-ai-a-few-words-check-out-metas-new-tool/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/09/30/make-a-video-with-ai-a-few-words-check-out-metas-new-tool/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 59
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2022/09/hypatia-h_03283525a8885fcfbfcb4766d4628f46-h_a463ea9a9fd8001bfba9f7fc89c66cfb.jpg"
-        width: 1600
-        height: 900
+      - url: "https://www.pcworld.com/wp-content/uploads/2022/09/DALL·E-2022-09-29-09.57.40-a-photo-of-a-kraken-emerging-from-the-ocean-underneath-the-Golden-Gate-Bridge-large.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 1024
         isCached: true
   - title: "Meta is pivoting to video with its new AI generator"
     excerpt: "This new research tool can take text, video, or images and turn them into a short animated clip. Here's how it was created."
@@ -87,51 +71,21 @@ related:
         width: 2498
         height: 1238
         isCached: true
-  - title: "Meta’s new AI can turn text prompts into videos"
-    excerpt: "Meta has today unveiled an AI system that generates short videos based on text prompts. Make-A-Video lets you type in a string of words, like “A dog wearing a superhero outfit with a red cape flying through the sky,"
-    publishedDateTime: 2022-09-30T10:35:00Z
-    webUrl: "https://www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/amp/"
+  - title: "The famous AI image generator DALL-E is open for anyone to use – Here are our creations"
+    excerpt: "You don't need to be an artist to create stunning photos, paintings and drawings. You just need DALL-E, which can generate AI art for free."
+    publishedDateTime: 2022-10-04T08:30:00Z
+    webUrl: "https://www.komando.com/technology/ai-image-generator-dall-e/859042/"
+    ampWebUrl: "https://www.komando.com/technology/ai-image-generator-dall-e/859042/?amp"
+    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/ai-image-generator-dall-e/859042/?amp"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
+      name: Kim Komando
+      domain: komando.com
+    quality: 49
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/09/dog-gif.gif?w=512"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "Get ready for the next generation of AI"
-    excerpt: "Video, an AI that generates five-second videos from text prompts. Built on open-source data sets, Make-A-Video lets you type in a string of words, like “A dog wearing a superhero outfit with a red cape flying through the sky,"
-    publishedDateTime: 2022-10-03T16:00:00Z
-    webUrl: "https://www.technologyreview.com/2022/10/03/1060561/get-ready-for-the-next-generation-of-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2022/10/03/1060561/get-ready-for-the-next-generation-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/10/03/1060561/get-ready-for-the-next-generation-of-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/09/dog-gif.gif?w=512"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "Meta debuts AI system that can generate videos from text"
-    excerpt: "Make-A-Video can take a few words or lines of text as input and use them to generate a clip that is a few seconds long. According to Meta, the AI system is also capable of producing video based on existing footage or images."
-    publishedDateTime: 2022-09-29T20:17:00Z
-    webUrl: "https://siliconangle.com/2022/09/29/meta-debuts-ai-system-can-generate-videos-text/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/meta.png"
-        width: 718
-        height: 399
+      - url: "https://www.komando.com/wp-content/uploads/2022/10/DALL-E-AI-art.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "R8iVkyGbnxdl/f/Ra2fspjfKyXetYL6jtN13ABJsiiMCmdD7nexm5UhvAjXjayr+MlgK01eA5o8rkiK1R/Hap/08WJ6223826yfCSM76YT+BtUC425xD1NeaPRhg3uk4TjvRdx/o0iyNmZXTf3pOtqv+4OUtIxCGBPafeakfDEfP9AwY/TNL3LcY9+NrPR7+ltD4cfGg8+nv3XWJrs4zFTkBrWjBlty3IrcXQ1dDybnAc1gQwZ+VyWRglGPMEVxH9BFealgOTCiFbhTnQNif6156BglUJtUZEbmFUZV2pp7aO6fUebABVzzfIQhxL1QZ6SD7t4HdIv6p/68M7VCG6WK74fRGa5WkA8R+XXsYeYd/PA2GhVymG9IpVLlwTrC5hH+okTCVvHdR1Pi5makKkcLESwmqQds1D5XEPjgB3/ONN/h73lATOsCkgzl8UEI7UvNpKLv23+zeDy1qjMwRDL7fx8+2iUdRsqFmtmkaJJs5VoQX/csx/okR2vTJIdcmFjhKCNepzA8kP3wkoIiJAA==;rXBzOFxxt205TVJX5pKvQQ=="

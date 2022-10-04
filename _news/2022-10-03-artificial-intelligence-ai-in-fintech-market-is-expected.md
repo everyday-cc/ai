@@ -7,8 +7,8 @@ originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-fintech
 webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-fintech-market-expected-display-steady-/2022/10/03/9684952.htm"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: TMCnet
@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Monnai taps explainable AI to build global fintech insight infrastructure"
-    excerpt: "Monnai aims to use explainable AI to deliver a global infrastructure and power fintech decision-making at scale."
-    publishedDateTime: 2022-09-29T15:38:00Z
-    webUrl: "https://venturebeat.com/ai/monnai-taps-explainable-ai-to-build-global-fintech-insight-infrastructure/"
-    ampWebUrl: "https://venturebeat.com/ai/monnai-taps-explainable-ai-to-build-global-fintech-insight-infrastructure/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/monnai-taps-explainable-ai-to-build-global-fintech-insight-infrastructure/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 88
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1249306214.jpg?fit=800%2C397&strip=all"
-        width: 800
-        height: 397
-        isCached: true
-  - title: "Mainstreaming AI adoption in hi-tech industry"
-    excerpt: "Per the 2022 AI-Index-Report by Stanford, since 2018, the cost and the time to train ML (machine learning) tasks have improved, encouraging widespread commercial adoption of AI. Robotic arms are becoming cheaper: An AI Index survey shows the median price of robotic arms has decreased by 46."
-    publishedDateTime: 2022-09-29T15:40:00Z
-    webUrl: "https://www.thehindubusinessline.com/opinion/mainstreaming-ai-adoption-in-hi-tech-industry/article65951854.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/opinion/mainstreaming-ai-adoption-in-hi-tech-industry/article65951854.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/mainstreaming-ai-adoption-in-hi-tech-industry/article65951854.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
-    images:
-      - url: "https://bl-i.thgim.com/public/incoming/yl72cl/article65951866.ece/alternates/LANDSCAPE_615/IMG_iStock-1163061277_2_1_R9A44U67.jpg"
-        width: 615
-        height: 383
-        isCached: true
   - title: "Fintech Files: Part 3 | When the RBI sneezes, fintechs catch a cold"
     excerpt: "A slew of circulars from the Reserve Bank of India has forced the fintech industry to abandon its growth-at-all-costs approach and scramble to comply with the stringent regulations"
     publishedDateTime: 2022-10-04T03:49:00Z
@@ -72,6 +40,34 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2022/08/fintech-1_pic.jpg"
         width: 690
         height: 390
+        isCached: true
+  - title: "Gates Hub participates in the largest fintech event in Dubai"
+    excerpt: "After tremendous success with its prominent presence in the market, Gates Hub is thrilled to participate in the largest Fintech event in Dubai, FinTech Surge 2022 from 10 to 13 October 2022 at Dubai World Centre."
+    publishedDateTime: 2022-10-04T09:00:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/gates-hub-participates-in-the-largest-fintech-event-in-dubai-y8x07sev"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 39
+    images:
+      - url: "https://static.zawya.com/version/c:ZDNmZmZmMjAtYjBlNy00:ZDI3MjVh/kapitabuilding-jpg.jpg?f=1%3A1&q=1&w=3840"
+        width: 416
+        height: 416
+        isCached: true
+  - title: "Investera to participate at Fintech Surge 2022"
+    excerpt: "Will demonstrate its solutions to address the challenges facing companies, individuals, and start-ups, providing them with smart solutions, using AI-based technology"
+    publishedDateTime: 2022-10-03T06:09:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/investera-to-participate-at-fintech-surge-2022-n2tf38bz"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 24
+    images:
+      - url: "https://static.zawya.com/version/c:N2Q3ZWY5ZmItZTRkMS00:OTNmZjI3/metaatriverbed-jpg.jpg?f=1%3A1&q=1&w=3840"
+        width: 600
+        height: 600
         isCached: true
 
 secured: "vjNU+HeOqmN55Nxtil5KwMomOnACQUnW0nlyyRrAZoMyASQVfsMbZmsbNmPRxAFdA1pu5vKbnlSmVELvkzZxQ8o8tyBM2MUC5QhXUO+/GPLg+Ga6qOH8Yvs6C9uSSDu3rZpfBPsmlTIQUcu/WtsEJXxKETvtJZKZhZ5HllCEqxqa76Dx38CKUNpVJaF7LsXwqhjQ/EdJHtmdLn7wWzwWjaOSHrX1iwaIdENtDP809bLikPwvHQenCh8uIwhLpnZ1/h0nUjZtxd8MetJMXSPTRQhRp5tFQ3kvSRdHZfsVtNZjG67H3WBRnFCEaQJcJSRxoh+ATSFoOwoFIpSb5xFC+1GIhmTtfj6BaPNytE1P+AqoNO4rpnptmx8nNjnQIWbsV10q2Wr+nCiCOZC4GT9CoWyYTloJsjxe6IC+X41CFiwzCUwR0kybkW91hLj6EMgzeOpJmjQZwu6O3PNkOz7o7Cwf1RvldNCiwNNZP+40WBLW1q5kGI4xTnV0fjG8aQfRWUWn9sjqRB54VW9LApwlsw==;Z1d9PSXGzQhCUtZlBrhVjw=="

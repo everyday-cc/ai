@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-06-16-toyota-financial-services-recognizes-conduent-with-supplier-excellence-award-for-the-second.md",
+      "title": "Toyota Financial Services Recognizes Conduent with Supplier Excellence Award for the Second ...",
+      "excerpt": "Toyota Financial Services named Conduent Incorporated (Nasdaq: CNDT), a business process services and solutions company, a 2022 Toyota Supplier of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/toyota-financial-services-recognizes-conduent-with-supplier-excellence-award-for-the-second/article_96d4ba86-48d6-5557-93ec-51bb698ae028.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/toyota-financial-services-recognizes-conduent-with-supplier-excellence-award-for-the-second/article_96d4ba86-48d6-5557-93ec-51bb698ae028.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-caixabank-microsoft-establish-innovation-lab-for-ai-metaverse.md",
       "title": "CaixaBank, Microsoft Establish Innovation Lab for AI, Metaverse",
       "excerpt": "CaixaBank and Microsoft (NASDAQ: MSFT) have established a joint innovation agreement with the aim of \"promoting the application of AI.\"",
@@ -1324,40 +1367,6 @@
         "AI",
         "Machine Learning",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-nice-actimize-named-category-winner-as-best-solution-for-managing-financial-crime-by-2022-europe-regtech-insight-awards.md",
-      "title": "NICE Actimize Named Category Winner as \"Best Solution for Managing Financial Crime\" by 2022 Europe RegTech Insight Awards",
-      "excerpt": "Powered by artificial intelligence, machine learning, entity resolution, and network analytics, X-Sight Entity Risk enhances the efficacy of advanced anti-money laundering, enterprise fraud prevention, and other financial services applications. Craig ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/06/01/9612450.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/06/01/9612450.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],
