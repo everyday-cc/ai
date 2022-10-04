@@ -20,6 +20,7 @@ topics:
   - Computer Vision
   - AI
   - AI in Robotics
+  - Machine Learning
 
 images:
   - url: "https://www.provideocoalition.com/wp-content/uploads/image-recognition-2.jpg"
@@ -61,6 +62,6 @@ related:
         height: 512
         isCached: true
 
-secured: "KaU5jZxDVsJrYENqzI2JNFIKlsxNoX3hIqndwF08bpW+eXZRQgKOLb7UeBdLOwZRNDJ0SoRwIuayunS8X5+uKWui4CQn6h35iGaIUwHSEm7UVMQBieC1VpkhGg+dubkBSV3mClwx2+aPAoYygtDSMvVski/JDDoozsiIlU1qOEeWLby6R8PEGqxwfUv5VXliy+8g/vdHdLvxcobCWIJxm5rfgi4Cl4ger1n5ZVw4UoXIjFH8b9kNt8ZrAITv05clf6CvSoQTUI6bv57TAPOkKwBBbaV6EPZbLev9Bgt0GOnO7XyqItLjsYkadwKk+QnYEYwFGtyV4bfa3fn14dw6vLju0PvKu1SHSrAvXqzdJYs=;4JCmVPM8varaZOn7YN7xAA=="
+secured: "9cX+3cqcZg+rtWotvt2sT6EVjh6cQtVe5axR9DhoLO8K8YbAh5U5aq+eY2NLkiF6u3joR1qx2M5hrnRGtyrT+5BDIvowExFakeOAUh7sfO4ZIurHZyAB9fMD4xCm/x2EmaNQxArsKj+p1uMuBQ7YgAikqt1DIlb/5xQG1ThD3TGCw1ls8SK3otiSDpnuQ/x16DPXyIzzMFZi5AyQ13hjsAYCADn9dpxL9K5XwoSjw6As2N3oRVUoWL2rB7/FpjziFnmB57T96feSIApt2LhfXXddbfAMoNeVFbigGLYeq6GTbaSomlgTCXSzg/ZJtODkSY+pmW4TRVpxwtZ/RjhYaD/6AWh2f8mCSgGgGkbmcfOOUXIG/FYcwMrHUF8c5+uez2jViNMdzTnc7gu9JOLGE1joylsUMdHJCt5+RWjGREcrorS49iggpp/FixeF8IoTbyTNeLc4/8I+7KT/5xdC2rPvKcWhgli8KAMFhYMDjJdBONrNv2QYZkgZaEobTvrwpjIzpX/Hy19C8txK7W8nXA==;muyOifi3GY0TjkL8l9XCgg=="
 ---
 

@@ -15,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://images.perthnow.com.au/publication/C-8334177/099020eebdcba6ebf61b69402bf2175d183a40b6-16x9-x0y173w3805h2140.png?imwidth=1200"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "4KFHqG1sWjqMt27QduzKDoLOKdTPVqmioYadaY+qEUy4S8YIissgBY+daiIRe/dyRtZD3Y4UnHzlH13IQ72mauVXNPxxJywaVjoYDT51f2Vn2M48z1gWlXQVFQX7196UylpN6N+lFO5Jr6wZ+42sZLw4pmtP/jePb+uzRLVkwc6wNox3XVONpp3p/0+pXeRdbJqmw+PxYqfQPRMIsqmRvHL+c4q1KZ8vDU5z6eJZJHfH+tKt041/Fi+8FNtpl4hGPDSddvR13wsXWWn1l/FBKGGWpElUpx7fs4CITtDafDa9y2GDq1+XmRHzfVMyH/k33JoU+iaeOPTigYfHuA5Mqarcu/FhUB/5c362UkEhUzo=;Z+5lgnDHob/G9HrPCqrGcA=="
+secured: "4jOh0H3VGojujkbP6KiNoVK8Mo9O8PFShmcSXZquas6naGoLDTiYIowe82YdB9W4wP2S1ErMEzYNPV2lfBAHOSHD6hhZUp/df2FVJmzHG3Y2gkRZbxGhR7RxEJquJqCGHKCiK6/Ux1Lnb/V0SlYkajdl7DcdtovXCiPPJWXJpoiHroEUAmgqBsc1vT+MqNABPXLKLZQmIl3n5VdzzDmJKqLaQmL1tUit8ooHqH4bTSJE4sZInN1RH0CqoANl5h0nzUfzK4w/qTqi3kIuNZHJvA84kEa2ZPtGvIChJ1FA65EUBiWhbEWHdsaD3ynZ0gfiImhar/KhGFGvXoa7CW/UVbnkNW9e8wlRJksMw9FLxVU=;ZYOW6EJoe1672DD0JZa1fg=="
 ---
 

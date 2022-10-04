@@ -24,6 +24,7 @@ topics:
   - AI
   - Machine Learning
   - Natural Language Processing
+  - AI in Finance
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/12/hugging-face.png?w=1200&strip=all"
