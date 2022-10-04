@@ -36,22 +36,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla AI Day 2022: How to Watch Elon Musk's Optimus Robot"
-    excerpt: "Tesla has hired engineers to make a robot for dangerous or boring work. At AI Day, expect updates on FSD technology for eventual self-driving cars, too."
-    publishedDateTime: 2022-09-30T00:22:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 123
-    images:
-      - url: "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla AI Day 2022: Musk Promises Optimus Humanoid Robot For Under $20,000"
     excerpt: "Elon Musk showed off a working prototype of the Optimus robot at Tesla AI Day 2022, claiming it will cost under $20,000. Synchronized twerking with Elon Musk was not involved."
     publishedDateTime: 2022-10-01T13:02:00Z
@@ -382,6 +366,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Tesla's Optimus Humanoid Robot: What Investors Should Know"
+    excerpt: "Here's what investors should know about Optimus, which Tesla plans to eventually produce at large scale. Image source: . A rough development prototype of Optimus kicked off Friday's event by walking on stage,"
+    publishedDateTime: 2022-10-04T10:30:00Z
+    webUrl: "https://www.nasdaq.com/articles/teslas-optimus-humanoid-robot%3A-what-investors-should-know"
+    ampWebUrl: "https://www.nasdaq.com/articles/teslas-optimus-humanoid-robot:-what-investors-should-know?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/teslas-optimus-humanoid-robot:-what-investors-should-know?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 86
   - title: "How to Watch Elon Musk Reveal His Robot at Tesla AI Day"
     excerpt: "Despite most of our info on Tesla AI Day coming from guerilla marketing on Musk’s Twitter, the Tesla and Boring Company CEO clearly wants us to take it more as an industry event than a commercial. With that in mind,"
     publishedDateTime: 2022-09-30T18:02:00Z
@@ -728,15 +723,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 34
-  - title: "Elon Musk and Tesla to unveil new humanoid robot. Here's what you need to know"
-    excerpt: "Elon Musk is set to debut his latest creation -- a humanoid robot, also known as Tesla Bot, named Optimus -- on Friday, Sept. 30 at Tesla's second AI Day, an event his company is putting on for the second time to show advanced examples of artificial intelligence technology and recruit robotic engineers,"
-    publishedDateTime: 2022-09-30T00:32:00Z
-    webUrl: "https://www.chron.com/news/article/Elon-Musk-Tesla-to-unveil-humanoid-robot-AI-Day-17476013.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 32
   - title: "Tesla CEO Elon Musk on humanoid robot: 'There’s still a lot of work to be done'"
     excerpt: "CEO Elon Musk displayed the company's latest prototype of its humanoid bot, also known as Optimus, on Friday at the company's AI Day in Palo Alto, California."
     publishedDateTime: 2022-10-01T17:15:00Z

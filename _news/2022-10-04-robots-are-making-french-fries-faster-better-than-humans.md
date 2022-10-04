@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Robots are making French fries faster, better than humans"
-excerpt: "PASADENA, Calif. (Reuters) -Fast-food French fries and onion rings are going high-tech, thanks to a company in Southern California. Miso Robotics Inc in Pasadena has started rolling out its Flippy 2 robot,"
-publishedDateTime: 2022-10-04T14:43:00Z
-originalUrl: "https://www.globalbankingandfinance.com/robots-are-making-french-fries-faster-better-than-humans/"
-webUrl: "https://www.globalbankingandfinance.com/robots-are-making-french-fries-faster-better-than-humans/"
-ampWebUrl: "https://www.globalbankingandfinance.com/robots-are-making-french-fries-faster-better-than-humans/"
-cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/robots-are-making-french-fries-faster-better-than-humans/"
+excerpt: "A big robotic arm like those in auto plants - directed by cameras and artificial intelligence - takes frozen French fries and other foods out of a freezer, dips them into hot oil, then deposits the ready-to-serve product into a tray."
+publishedDateTime: 2022-10-04T13:28:00Z
+originalUrl: "https://www.nasdaq.com/articles/robots-are-making-french-fries-faster-better-than-humans"
+webUrl: "https://www.nasdaq.com/articles/robots-are-making-french-fries-faster-better-than-humans"
+ampWebUrl: "https://www.nasdaq.com/articles/robots-are-making-french-fries-faster-better-than-humans?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robots-are-making-french-fries-faster-better-than-humans?amp"
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 69
+heat: 99
+published: true
 
 provider:
-  name: List of Banks in Belarus
-  domain: globalbankingandfinance.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/10/2022-10-04T133833Z_4_LYNXMPEI930JZ_RTROPTP_4_TECH-ROBOT-FRENCH-FRIES.jpg"
-    width: 750
-    height: 422
-    isCached: true
 
 related:
   - title: "Robot That Makes French Fries \"Faster\" Than Humans Developed In US"
@@ -42,20 +36,6 @@ related:
       - url: "https://c.ndtvimg.com/2022-10/u91evqeo_french-fries-robot-650_625x300_04_October_22.jpg"
         width: 650
         height: 400
-        isCached: true
-  - title: "Company creates fast food cook robot that's cheaper than a human employee"
-    excerpt: "A robotics company headquartered in Illinois has unveiled a robot that can autonomously prepare chicken wings."
-    publishedDateTime: 2022-09-30T20:41:00Z
-    webUrl: "https://gazette.com/news/us-world/company-creates-fast-food-cook-robot-thats-cheaper-than-a-human-employee/article_045fea9a-2758-58d3-b02d-e5b8bea7825c.html"
-    type: article
-    provider:
-      name: The Gazette
-      domain: gazette.com
-    quality: 38
-    images:
-      - url: "https://i.prcdn.co/img?cid=9YMC&page=1&width=300"
-        width: 293
-        height: 514
         isCached: true
   - title: "Want fries with that? Robot makes French fries faster, better than humans do"
     excerpt: "A number of restaurant chains have already adopted Flippy 2, the robotic fry cook, including Jack in the Box in San Diego and White Castle in the Midwest."
@@ -86,6 +66,6 @@ related:
         height: 801
         isCached: true
 
-secured: "h1SrEt3McuD5pq/wEVV1LInAMlO0g8drYgnzB58SXUYQ0IXhPa40b964kx50EqIysQ5a+EywFkL03xT8Ep3TrMkM8O034o30VGe5iHrqzj+d+f2k3eXo/KtUE75t2DFF3FKng1oEXcS5mGwq+oWaKpSOdEtXtLKT4iwd8zJxZIOfqFW2grdNxWCzndaXPD9Xw3ZiXn4VKwdQL5WpHAtO0f+Yj55JktFQtMjxzTJI7SMMZmb/CJTalyjISvFoOGPaZnXeYf84vsBw8TMay1neVIhrK4oF5m4x5q+wbnMYlDsNdXKditffoQFn7Dvq5qMMq8jtxpP27XTWwditE/zkz5sfDrod4i6BFFsQlXlT5Yg=;bqEfuvYfCqSuGeeD1OYl9Q=="
+secured: "VD6+5923XS7Es0MvvAWcH5+AUW671zz2hZtsBANv8V1E/jRrrpDRBylK1u/KIwdbrEFEuVIxvZnMMZXCvHYjRA/AEZtRdq+4y57tXF4qoajjz7ONN9R2f2wQ5PFkcvRGh5zsfDL6/6cpKYZWYtLewHp3dFG52b12gWeYEKfqQjRto9XyYYEmEPGsqSN+U38XOUqclbZF9XU+pigL5Zc43j78q3fgNV7f76QP9JyYvFER1hOGi5e5mZK7i5ClHHldFnH97oShOffAe8Nq+e0sisYOmlThUyKgx7sGKBCx0Z7ELeUMv12qlZ63qC7jS25C+tASki3gfwWtUWXfLGMDTqUdvh8pnFXejzBPkKjW4js60Xte2cFeytXEP3K71NhNypmCwipaZhH3e/VlXgoYrJZKIvH0qWdk3yoy5cE2InZlpkb/yuknPLjM2W7G8JcdhBQT6PsoCjpFcugtFTImoFus0P2uRpu7bzxkSRupGJk0Bo/XEVpEX3Wn/jNAvVJSxWGBcGVKhbeUfarx07tUwQ==;iDaXr6J5Z/zeuXGecgWprA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/speech-accessibility-project-ai
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/speech-accessibility-project-aims-to-make-voice-recognition-more-inclusive/"
 type: article
 quality: 87
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/a76c65cacb919da7fdcc312df81772f5bf577e5a/2017/07/20/163f4e70-bc72-4fe0-96bc-9cb1fc521952/saferthanpasswordsvoicerecognition.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 585
+        isCached: true
+  - title: "Big Tech seeks to improve speech recognition tools for people with disabilities"
+    excerpt: "Tech giants including Apple and Google are working with university researchers to improve voice recognition tools for people with disabilities."
+    publishedDateTime: 2022-10-04T14:23:00Z
+    webUrl: "https://www.euronews.com/next/2022/10/04/big-tech-seeks-to-improve-speech-recognition-tools-for-people-with-disabilities"
+    ampWebUrl: "https://www.euronews.com/next/amp/2022/10/04/big-tech-seeks-to-improve-speech-recognition-tools-for-people-with-disabilities"
+    cdnAmpWebUrl: "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/10/04/big-tech-seeks-to-improve-speech-recognition-tools-for-people-with-disabilities"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 55
+    images:
+      - url: "https://static.euronews.com/articles/stories/07/08/40/80/1000x563_cmsv2_3ed84625-93c2-5d23-bb0f-a54a87147087-7084080.jpg"
+        width: 1000
+        height: 563
         isCached: true
   - title: "Apple and University of Illinois working with Meta, Google, and more on Speech Accessibility Project"
     excerpt: "Apple and the University of Illinois are teaming up with Google, Meta, and more tech companies to collaborate on something called the Speech Accessibility Project. The goal of the initiative is to study and improve how artificial intelligence algorithms can be tuned to improve voice recognition for users with diseases that affect speech,"

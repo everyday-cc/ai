@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602/amp/1"
 type: article
 quality: 59
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: NDTV
@@ -28,35 +28,16 @@ images:
 
 related:
   - title: "Robots are making French fries faster, better than humans"
-    excerpt: "PASADENA, Calif. (Reuters) -Fast-food French fries and onion rings are going high-tech, thanks to a company in Southern California. Miso Robotics Inc in Pasadena has started rolling out its Flippy 2 robot,"
-    publishedDateTime: 2022-10-04T14:43:00Z
-    webUrl: "https://www.globalbankingandfinance.com/robots-are-making-french-fries-faster-better-than-humans/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/robots-are-making-french-fries-faster-better-than-humans/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/robots-are-making-french-fries-faster-better-than-humans/"
+    excerpt: "A big robotic arm like those in auto plants - directed by cameras and artificial intelligence - takes frozen French fries and other foods out of a freezer, dips them into hot oil, then deposits the ready-to-serve product into a tray."
+    publishedDateTime: 2022-10-04T13:28:00Z
+    webUrl: "https://www.nasdaq.com/articles/robots-are-making-french-fries-faster-better-than-humans"
+    ampWebUrl: "https://www.nasdaq.com/articles/robots-are-making-french-fries-faster-better-than-humans?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robots-are-making-french-fries-faster-better-than-humans?amp"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 59
-    images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/10/2022-10-04T133833Z_4_LYNXMPEI930JZ_RTROPTP_4_TECH-ROBOT-FRENCH-FRIES.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Company creates fast food cook robot that's cheaper than a human employee"
-    excerpt: "A robotics company headquartered in Illinois has unveiled a robot that can autonomously prepare chicken wings."
-    publishedDateTime: 2022-09-30T20:41:00Z
-    webUrl: "https://gazette.com/news/us-world/company-creates-fast-food-cook-robot-thats-cheaper-than-a-human-employee/article_045fea9a-2758-58d3-b02d-e5b8bea7825c.html"
-    type: article
-    provider:
-      name: The Gazette
-      domain: gazette.com
-    quality: 38
-    images:
-      - url: "https://i.prcdn.co/img?cid=9YMC&page=1&width=300"
-        width: 293
-        height: 514
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Want fries with that? Robot makes French fries faster, better than humans do"
     excerpt: "A number of restaurant chains have already adopted Flippy 2, the robotic fry cook, including Jack in the Box in San Diego and White Castle in the Midwest."
     publishedDateTime: 2022-10-04T11:00:00Z

@@ -3,20 +3,21 @@ category: news
 title: "Anyone can now use powerful AI tools to make images. What could possibly go wrong?"
 excerpt: "The move will likely expand the reach of a new crop of AI-powered tools that have already attracted a wide audience and challenged our fundamental ideas of art and creativity."
 publishedDateTime: 2022-10-01T16:12:00Z
-originalUrl: "https://www.kcra.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
-webUrl: "https://www.kcra.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
-ampWebUrl: "https://www.kcra.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
-cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
+originalUrl: "https://www.kcci.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+webUrl: "https://www.kcci.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+ampWebUrl: "https://www.kcci.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
+cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
 type: article
-quality: 51
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: kcra.com
-  domain: kcra.com
+  name: KCCI Des Moines
+  domain: kcci.com
 
 topics:
+  - AI Ethics
   - AI
 
 images:
@@ -43,6 +44,6 @@ related:
         height: 619
         isCached: true
 
-secured: "xM1NyuCmmd7ARPcuxyU6o6BWwyIUIW9nEZ7pA62TLAsxk/JfRlPBZzoLKCaAPhrV+y5OxoRe+H7mTcmgUJ9a9sTD4mBE1AmTITN6391zJqMzeSrFhk6dzMlIfTu6+Qj5mBPB/bWrA3t9XIARsOYLhyME/bfDyNCjnEYjKyKVkcU0iTWnd/ohWhHucqu1X60IVstBv/XQyhKOf32H+p8h2o9cJDfrE124qMFGR16fSLpsEVl4mk+K12l1k1rD27dr5Dv6lcqCeennpZwEGg+Nj9IL4Nk/SJNQkWQEv0gc5sngykwU8uWJqCgsDOFu/9L66PJtJmCw2IbdVrJDk9bZqxSb7Qr7f8xx1n9oFSM9nuw=;h3NgMTawuBRcI5JE1zjJxg=="
+secured: "rBZAAX+NcwdV7UXqZRc6oCvPH/ohJAbkOkmLKGu6pSgXjvNOqR0uxjZ2de8L4FF/5A/2pPvwGfp0bLl3QsRvetTnioEVEmlgPlNFYD9xbSw16NJT1kqCzUzh9ok6A//1Rm5d0hVbcGlb3ifzJXVGvAzp/gvKwyqHvyPkJOHkaeSr1s5GUZuQZtm7gQw4i0yWumO8nlgB4+YszrS/3FAMH3e//Bmd2AejLEWxSPUIHOV6Ev83peM3zEwSFw91HiFxcPR6T4Q1PbV72f4RsWSaO5Hca8k5lcbyn4nLkCow1E91EplEz9vtBiMSlwFNB63R9l4TCoIUU2cyX9prkh9Y+f8U2tu+QmLkKQzXlbQMxIY=;zIpvcyUneprAEU0BigKocw=="
 ---
 

@@ -1,23 +1,26 @@
 ---
 category: news
 title: "AiAdvertising Signs Multi-Million Dollar Agreement with Fintech Unicorn to Empower its Upcoming Launch"
-excerpt: "(OTC: AIAD), a next-generation AdTech company focused on harnessing the power of artificial intelligence (AI) and machine learning (ML) to build software for today’s marketing leaders, today announced it has signed a multi-million dollar agreement with a fintech unicorn."
-publishedDateTime: 2022-09-28T12:31:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-28-aiadvertising-signs-multi-million-dollar-agreement-with-fintech-unicorn-to-empower-its-upcoming-launch"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-28-aiadvertising-signs-multi-million-dollar-agreement-with-fintech-unicorn-to-empower-its-upcoming-launch"
+excerpt: "We look forward to working closely with the fintech’s team as they bring their ... is harnessing the power of artificial intelligence (AI) and machine learning (ML) to build software for today ..."
+publishedDateTime: 2022-09-28T12:44:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/aiadvertising-signs-multi-million-dollar-agreement-with-fintech-unicorn-to-empower-its-upcoming-launch/article_4f517dee-e021-514a-af2b-cd860a337068.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/aiadvertising-signs-multi-million-dollar-agreement-with-fintech-unicorn-to-empower-its-upcoming-launch/article_4f517dee-e021-514a-af2b-cd860a337068.html"
 type: article
-quality: 3
-heat: 3
-published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "hKYCfZ0I3tlT0gb0du75fIcAWMo7ErbB/pLzRabSKh0nurskrMtEcCG0RomK0mL/6aHy+Dd8nqSzjlx6jve0c9UKhebRzVUcO4qJUA1Ogo72CdwJx+34rW2yKwncSGjwW1Sn13qTmpqdRWdzLQs+W9p552S384An56ce3/PQi2qM4HAfK2lrir/TSdQxbcudk0g15ETFe6VcyjAdwfKB8MtudXGT/0Wkx/JCxMSRwUyOWvRAw7g8u2fAmBnpi9sI0JznViBUTuZvhO2lfDb/0iP/C77/6MmnbRWn0IZUsTjqKKpcuHImw/W98VS6mI4UVlAraieGJLwk8JHg1dE+R5PNOgp8g+TPMSqUHYLHSv0=;99ETFUnbMcPFLM0oB9D2DQ=="
+images:
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/Jmag-Oct22Cvr.jpg"
+    width: 350
+    height: 456
+    isCached: true
+
+secured: "FIH0Ki1jJZPfFg/bXEqxLAgRhmd+iG45HI4qZH9yNL1hvkuc8J7ey2YykvE7J6LQyLzAWFhKm5sZoZHxylSXnRkGTBiSKkrlga7duuumi15Mo5Fney33PfgnWb3LEy5je2W/kwM5wj9FNJrQlNQICjJRIGnOmJfzKWbUyB/QH6nUAb7yYrrxJSljg81bH8gUIztN3p4O5jg2DUzPKgKebx9xOTMb5MiIfxD4umkXYfHnWAGN6//2b9R1uy7W6jfOMK1e2BIzYkNzTqlzkamE0+honWZgMzq3GQ08g4kdKr+QcOKOoP2sdvDYCyRVeoUiuJ8iLyKO60WAuDp3t6oXmc7rkNaysITj2zcaMULnjmQ=;OGeuSvMTERRSfxddDj3caw=="
 ---
 

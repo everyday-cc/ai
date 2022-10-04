@@ -3,8 +3,8 @@ category: news
 title: "Why Driverless Cars Are Taking ‘Hyper-Realistic’ Virtual Driving Lessons"
 excerpt: "No matter how many real-world miles driverless cars experience, it’s unlikely they’ll come up against all of the rare and dangerous incidents they could encounter. So now, driverless car ..."
 publishedDateTime: 2022-09-23T00:00:00Z
-originalUrl: "https://www.wsj.com/video/series/george-downs/why-driverless-cars-are-taking-hyper-realistic-virtual-driving-lessons/394A6E9F-CAA7-4B49-8C07-7EBE960355E9"
-webUrl: "https://www.wsj.com/video/series/george-downs/why-driverless-cars-are-taking-hyper-realistic-virtual-driving-lessons/394A6E9F-CAA7-4B49-8C07-7EBE960355E9"
+originalUrl: "https://www.wsj.com/video/series/george-downs/why-driverless-cars-are-taking-hyper-realistic-virtual-driving-lessons"
+webUrl: "https://www.wsj.com/video/series/george-downs/why-driverless-cars-are-taking-hyper-realistic-virtual-driving-lessons"
 type: article
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "bjl38pBxq0C5PbQF3giN13EcyLs+q3CFLMbi2nJsC+ICmN17YNrTMp90Obsf2cOYQ3UHPBL4rgsLAp9M0cOoxcZ2ubGjF9mlHkLKpuNdJNOkx1ylTSdj934Ie/kj+bnVseEDgV9JGkZl4x+7T8QnlWJgpm5NxRZMAlpXo0rLsVoSjDS6U796BFQOMFPBMJktDAfnWco1PRVcANaRCkJ0q29eUwhJpGEBb/QZnNfNViinX8zylhddFiy/uFbFTtFf8OR/beOeAoN/tvftMrH2S8U9bwvN71HwAHGsEMRewnDKNFK/97TxZP4A+vNl6ATMn9CDtR4rnRDIZKa4Ai2tkvYXjsbk5cq4iNdZflCioVM=;14WdjFbYUqdHUTG7CHlVlw=="
+images:
+  - url: "http://images.wsj.net/im-635191?width=1280&height=720"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "pJriEogodHETl6haec1ElKeHAGas132XUMF07mlYHBYJvmC9r0Yl/4kD0N/AskS1THdlWbWmgdVqhG9ou92CfbpS7ZckznyQICWY7egFPd0Qz1xD0D88Swrnfw1CdP2XULQlFCsI8FeYNaozN2N4OVl01c9Qoe6cMQkn3DZUnzAFOz/7ekIz5ltldhTsNGHmxgi5Ju+X4PTMrgNG8wbDdbai8nD0foVc4sP/5khMduX9JWoCKRffNWeEBD9dzDg1CAORA4pkLyx0N+i/SN1xbxV6+cmKa4m4hU2vkWYvoQXZks6lamB/efSG3FSwR0ssrf46QtTzH04bqQIBH1RWNrbAyFuCUOKVyT2v3BGvmLU=;flbIsCxxXDiizwIa/9kfPA=="
 ---
 

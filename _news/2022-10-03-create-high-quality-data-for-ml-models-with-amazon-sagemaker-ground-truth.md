@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/create-high-quality-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/create-high-quality-data-for-ml-models-with-amazon-sagemaker-ground-truth/"
 type: article
 quality: 105
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Reduce cost and development time with Amazon SageMaker Pipelines local mode"
+    excerpt: "Creating robust and reusable machine learning (ML) pipelines can be a complex and time-consuming process. Developers usually test their processing and training scripts locally, but the pipelines themselves are typically tested in the cloud. Creating and running a full pipeline during experimentation"
+    publishedDateTime: 2022-10-04T17:34:58Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/reduce-cost-and-development-time-with-amazon-sagemaker-pipelines-local-mode/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 87
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/04/reduce-development-time-pipelines-local-mode.jpg"
+        width: 1534
+        height: 763
+        isCached: true
   - title: "Unified data preparation, model training, and deployment with Amazon SageMaker Data Wrangler and Amazon SageMaker Autopilot – Part 2"
     excerpt: "Depending on the quality and complexity of data, data scientists spend between 45–80% of their time on data preparation tasks. This implies that data preparation and cleansing take valuable time away from real data science work. After a machine learning (ML) model is trained with prepared data and readied"
     publishedDateTime: 2022-09-30T15:07:00Z

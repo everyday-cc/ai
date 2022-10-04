@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cio.com/article/408351/pg-turns-to-ai-to-create-digital-
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/408351/pg-turns-to-ai-to-create-digital-manufacturing-of-the-future.html/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: CIO
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Accenture Collaborates with Mars on ‘Factory of the Future’ Using AI, Cloud, Edge and Digital Twins"
+    excerpt: "Accenture is working with Mars, the global leader in confectionary, food, and pet care products and services, to transform and"
+    publishedDateTime: 2022-10-04T16:18:00Z
+    webUrl: "https://www.datanami.com/this-just-in/accenture-collaborates-with-mars-on-factory-of-the-future-using-ai-cloud-edge-and-digital-twins/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 5
   - title: "Accenture Collaborates with Mars to Develop “Factory of the Future” Using AI, Cloud, Edge and Digital Twins"
     excerpt: "Accenture (NYSE: ACN) is working with Mars, the global leader in confectionary, food, and pet care products and services, to transform and modernize its global manufacturing operations with artificial intelligence (AI),"
     publishedDateTime: 2022-10-04T04:01:00Z
