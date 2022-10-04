@@ -2,7 +2,7 @@
 name: "Uber"
 overview: "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request."
 type: "profile"
-heat: 224
+heat: 186
 
 website: https://www.uber.com/
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Uber"
 
-secured: "K5mcETUYID9vLHI2INh0ZNSZhcTHG3hY2jAPWZV+NNRYzw1fKyF7C/7Ng4wimEPyoxnMdGNthocHiVsjjVkpT9WsXBqfPMIKNkN4dAUDAApmX8/d28jjj4RGiHjv5mDL9dvkDAxmjUI4bSKpdtyW2VGC4J3gBv1PCSfJF81ucodN+82C1UqJlyFUZ4A5VUsbSNwaH35R9TrjSbmLkOF6/FRDrccIJhtxvx7UW2tJIScklAxHSJwIyunvIWO4y7kyU2l8cCgoZll0BTS4fcKWaWE+lIg7CLW0ZbcUu2D8qVKaq7T0En75InQ19iZumeAa8M7zNT7aFnt8lszFsTPPzL3yePOdgFXmhA6S7xNUAYp3q2/jwRMgvrieW5Mea5bauVF6gBEgOqyPI2JTvFzkqDB9OnNp1kI96m3uUbYNfd8=;LCln9Zhiev3Tznwdv686AQ=="
+secured: "/It4peDA7OhqiUjbrjTbIhsMfMy+/CUdxqZVAbutNgbqYOfD6nXW/MJ1/AS5yoSlGtsPnKt0N69AiA2I6vospE2zPzYr6UA0IyEBUZc4or1gmaz5UYlAW+PcfwBzyfw9JxWgclTR2VjV0ZYxo1857spwpiB9cYbQCx4Pb4CA1RTJ7/HlYMnnG5GmYOgzneguLHhorXgBHa1xiS6I9chHyZsnrygA8r0TJe+fFj7Y3n8ygsiuheuceRQxKdP4mLCJDPgSi22ZuEMk/TpcY3hjF4rAlrgcPG2ZJdGS5zvhvKmhrocl78Ax1AelDqJoUwVpuSCVCo3GlZpYTEdbes0lCXiVJLeRQXRBmYhFw1U7zHIWHATtJAmpMsVyoORxggyPCPK2zBnbcThAXSOYsIn1Q59pkvA5Vc+AYfl1Y5jcBMk=;OLo/NVu/JCcZ2Ywa8kR1SQ=="
 ---
 
