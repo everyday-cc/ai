@@ -2,6 +2,241 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-02-parfait-is-here-to-revoluntionize-the-wig-world-with-artificial-intelligence.md",
+      "title": "Parfait Is Here To Revoluntionize The Wig World With Artificial Intelligence",
+      "excerpt": "Four Black women in tech have come together to create Parfait, a startup that customizes wigs using artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://madamenoire.com/1323782/gorgeous-wigs/",
+      "originalUrl": "https://madamenoire.com/1323782/gorgeous-wigs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://madamenoire.com/wp-content/uploads/sites/9/2022/09/16645934693721-rotated.jpg?w=311&strip=all&quality=80",
+          "width": 311,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://madamenoire.com/1323782/gorgeous-wigs/amp/",
+      "cdnAmpWebUrl": "https://madamenoire-com.cdn.ampproject.org/c/s/madamenoire.com/1323782/gorgeous-wigs/amp/",
+      "publishedDateTime": "2022-10-02T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MadameNoire",
+        "domain": "madamenoire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-02-self-taught-ai-may-have-a-lot-in-common-with-the-human-brain.md",
+      "title": "Self-Taught AI May Have a Lot in Common With the Human Brain",
+      "excerpt": "Neural networks can use self-supervised learning to figure out what matters. This process might be what helps humans do the same.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/self-taught-ai-may-have-a-lot-in-common-with-the-human-brain/",
+      "originalUrl": "https://www.wired.com/story/self-taught-ai-may-have-a-lot-in-common-with-the-human-brain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6337428ca546819a4885f46c/191:100/w_1280,c_limit/Quanta_Self_learning_AI_2880x1620_Lede-scaled.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-02T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-10-01-ai-experts-pan-teslas-humanoid-robot-reveal-next-level-cringeworthy.md",
+      "title": "AI experts pan Tesla’s humanoid robot reveal: ‘next level cringeworthy’",
+      "excerpt": "\"None of this is cutting edge,\" tweeted robotics expert Cynthia Yeung. \"Hire some PhDs and go to some robotics conferences Tesla.\"",
+      "sourceUrl": null,
+      "webUrl": "https://globalnews.ca/news/9169403/tesla-robot-humanoid-optimus-elon-musk/",
+      "originalUrl": "https://globalnews.ca/news/9169403/tesla-robot-humanoid-optimus-elon-musk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://globalnews.ca/news/9169403/tesla-robot-humanoid-optimus-elon-musk/amp/",
+      "cdnAmpWebUrl": "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/9169403/tesla-robot-humanoid-optimus-elon-musk/amp/",
+      "publishedDateTime": "2022-10-01T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global News",
+        "domain": "globalnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-01-openais-dalle-2-may-mean-we-never-need-stock-photos-again.md",
+      "title": "OpenAI's Dall•E 2 may mean we never need stock photos again",
+      "excerpt": "Typing a sentence about a scenario, such as an anxious Windows user seated at their desk seeing a patch warning, could give you just the image you need to accompany an article.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/openais-dall-e-2-may-mean-we-never-need-stock-photos-again/",
+      "originalUrl": "https://www.zdnet.com/article/openais-dall-e-2-may-mean-we-never-need-stock-photos-again/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/54b762c082e6edd74534c9ca1b33d0f2fa1cf052/2022/10/01/4dbd71ee-49de-4b9b-a78e-261b4d2c728c/dall-e-person-explaining-to-coworkers.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/openais-dall-e-2-may-mean-we-never-need-stock-photos-again/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openais-dall-e-2-may-mean-we-never-need-stock-photos-again/",
+      "publishedDateTime": "2022-10-01T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-01-the-problem-with-mental-health-bots.md",
+      "title": "The Problem With Mental Health Bots",
+      "excerpt": "With human therapists in short supply, AI chatbots are trying to plug the gap—but it’s not clear how well they work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/mental-health-chatbots/",
+      "originalUrl": "https://www.wired.com/story/mental-health-chatbots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/632e615a74ce5b82a68ef375/master/pass/Bot_BotTeam.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/mental-health-chatbots/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/mental-health-chatbots/amp",
+      "publishedDateTime": "2022-10-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-01-how-colleges-are-using-artificial-intelligence-to-improve-enrollment-and-retention.md",
       "title": "How Colleges Are Using Artificial Intelligence To Improve Enrollment And Retention",
       "excerpt": "Higher education is advancing from its initial use of AI to automate routine tasks, digitize workflows, develop complex datasets, and create dashboards for analytics. Now, colleges are doing more than using technology to do the same things better.",
@@ -210,7 +445,7 @@
       "originalUrl": "https://www.wsj.com/articles/intel-drives-forward-with-mobileye-self-driving-car-units-ipo-plans-11664579959",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -748,7 +983,7 @@
       "originalUrl": "https://electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -801,7 +1036,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 693,
+      "heat": 673,
       "tags": null,
       "images": [
         {
@@ -953,7 +1188,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-2022-business-overview-new-trends-growth-analysis-and-forecast-to-2030-2022-09-30",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -994,255 +1229,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-how-to-effectively-use-the-computing-power-of-gpu-lets-check-cloudia-exchange.md",
-      "title": "How to Effectively Use the Computing Power of GPU? Let's Check Cloudia Exchange!",
-      "excerpt": "When we look at IT market, we see that, high computing power is the need of the hour. Cloudia Exchange is a new project that connects people who have GPU resources with projects that need those resources.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/how-to-effectively-use-the-computing-power-of-gpu-lets-check-cloudia-exchange-2022-09-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/how-to-effectively-use-the-computing-power-of-gpu-lets-check-cloudia-exchange-2022-09-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-anyone-can-now-use-powerful-ai-tools-to-make-images-what-could-possibly-go-wrong.md",
-      "title": "Anyone can now use powerful AI tools to make images. What could possibly go wrong?",
-      "excerpt": "If you've ever wanted to use artificial intelligence to quickly design a hybrid between a duck and a corgi, now is your time to shine.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2022/09/30/tech/image-generating-ai-publicly-available",
-      "originalUrl": "https://edition.cnn.com/2022/09/30/tech/image-generating-ai-publicly-available",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220928180903-03-dall-e-ai-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/09/30/tech/image-generating-ai-publicly-available/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/30/tech/image-generating-ai-publicly-available/index.html",
-      "publishedDateTime": "2022-09-30T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-micron-latest-in-japan-chip-crosshairs.md",
-      "title": "Micron latest in Japan chip crosshairs",
-      "excerpt": "Japan offered a massive subsidy to Micron Technology, the country's latest move to bolster domestic semiconductor production.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/micron-latest-in-japan-chip-crosshairs/",
-      "originalUrl": "https://www.mobileworldlive.com/featured-content/top-three/micron-latest-in-japan-chip-crosshairs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mobileworldlive.com/wp-content/uploads/2020/09/Micron_Technology.jpg",
-          "width": 600,
-          "height": 376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/micron-latest-in-japan-chip-crosshairs/amp/",
-      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/micron-latest-in-japan-chip-crosshairs/amp/",
-      "publishedDateTime": "2022-09-30T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile World Live",
-        "domain": "mobileworldlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-the-problem-with-biased-ais-and-how-to-make-ai-better.md",
-      "title": "The Problem With Biased AIs (and How To Make AI Better)",
-      "excerpt": "Many AI systems can exhibit biases that stem from programming or data sources. Learn what a top AI ethicist says about how we can mitigate bias in algorithms and protect against potential risks to consumers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/30/the-problem-with-biased-ais-and-how-to-make-ai-better/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/30/the-problem-with-biased-ais-and-how-to-make-ai-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/633680e9f575e0775e377afd/0x0.jpg?format=jpg&crop=2808,1579,x191,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/30/the-problem-with-biased-ais-and-how-to-make-ai-better/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/09/30/the-problem-with-biased-ais-and-how-to-make-ai-better/amp/",
-      "publishedDateTime": "2022-09-29T22:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-artificial-intelligence-in-iot-market-size-sales-cagr-and-competition-data-from-2022-to-2029-102-report-pages.md",
-      "title": "Artificial Intelligence in IoT Market Size, Sales, CAGR And Competition Data from 2022 To 2029 | 102 Report Pages",
-      "excerpt": "Global “ Artificial Intelligence in IoT Market \" Report is a detailed and comprehensive analysis for global Artificial Intelligence in IoT market. Both quantitative and qualitative analyses are presented by manufacturers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-size-sales-cagr-and-competition-data-from-2022-to-2029-102-report-pages-2022-09-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-size-sales-cagr-and-competition-data-from-2022-to-2029-102-report-pages-2022-09-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T17:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

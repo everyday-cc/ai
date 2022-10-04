@@ -75,19 +75,19 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 56
-  - title: "Tesla robot walks, waves, but doesn’t show off complex tasks"
-    excerpt: "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the c"
-    publishedDateTime: 2022-10-04T11:36:00Z
-    webUrl: "https://www.newstalkzb.co.nz/news/business/tesla-robot-walks-waves-but-doesn-t-show-off-complex-tasks/"
+  - title: "Tesla Robot Walks, Waves, But Doesn't Impress"
+    excerpt: "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company's artificial intelligence event Friday."
+    publishedDateTime: 2022-10-03T13:43:00Z
+    webUrl: "https://www.manufacturing.net/automotive/news/22484464/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks"
     type: article
     provider:
-      name: Newstalk ZB
-      domain: newstalkzb.co.nz
+      name: Manufacturing
+      domain: manufacturing.net
     quality: 56
     images:
-      - url: "https://www.newstalkzb.co.nz/media/5iwadaoa/optimus-humanoid-prototype-demo.jpeg?rmode=crop&rnd=133093640277730000&height=395&width=635&quality=95&scale=both"
-        width: 635
-        height: 395
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/10/Tesla_Elon_Musk_Speaking_AP.633ae6db7650d.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C6%2C1024%2C576&w=1200"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Tesla Robot Shows Some Skills, But Falls Flat With Some Robotics Insiders"
     excerpt: "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company’s artificial intelligence event Friday."
@@ -98,6 +98,15 @@ related:
       name: NBC New York
       domain: nbcnewyork.com
     quality: 50
+  - title: "Tesla robot walks, waves, but doesn't show off complex tasks"
+    excerpt: "But the basic tasks by the robot with exposed wires and electronics — as well as a later, next-generation version that had to be carried onstage by three men — was a long way from CEO Elon Musk's vision of a human-like robot that can change the world."
+    publishedDateTime: 2022-10-03T19:38:00Z
+    webUrl: "https://www.statesman.com/story/business/technology/2022/10/03/tesla-optimus-robot-walks-waves-doesnt-show-off-complex-tasks/69536356007/"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 36
 
 secured: "HGvUXZHw+pqjMjxcHahBoHikDzdH3GU8zUq1kOSHYggpWQRXZoI5JiyRNOisEMFEKTbXOMJQAcVjCzvkg6hLQo4d7wZXRJ4OewNYSDqzsqXaoUxfS/GAlohzSxU+x3ZL8NXNmP6Ojo9vGAUTqLhM69r2Z0ih4SfwaIPdVmtyAZt6zL9GPmmVnfEFhZob2FjTMBTleSDkE7Qp39fMsJ1DkxwsvdhEEWmdzzr4FgEvr8zaIblwSz8yRM2ZyMdpRGNdfO2eI2zB0esgwzXWhyNxh4SBbhzrJdTpn5rqGVKLLbRwxdpT7/QDPY7P84AAaUMnq0r1HsORwNppKECzrfmsV5e0TyfT1TkVh+SlzzqkYTb7vZRo2rSIoVLrgLehMZfolFloUnyViWKAlkg9GVz8MDNjPttxAWprvzIIbIEpeCyrcsQUMbO51LFRdjXcNjjJI+myT2R4kWRhrktMw6RygLXFO90CoLvOD45m8MifbiefON5XjzyExLbu2u9LulhQVd4oW3rnc27VcLRxvuoO8A==;GRoYLODkeDCvtA7f2tfygg=="
 ---

@@ -1,15 +1,20 @@
 ---
 category: news
 title: "IDTechEx Asks if Tesla's Humanoid Robot \"Optimus\" Will Really Be Able to Serve People"
-excerpt: "Tesla CEO Elon Musk unveiled its \"over-hyped\" humanoid robot \"Optimus\" at the electric vehicle maker's \"AI Day\" event. Musk said that a robot business will be worth more than its cars, and he hopes to expand Tesla beyond an electric vehicle manufacturer."
-publishedDateTime: 2022-10-04T13:40:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/idtechex-asks-if-teslas-humanoid-robot-optimus-will-really-be-able-to-serve-people-301640341.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/idtechex-asks-if-teslas-humanoid-robot-optimus-will-really-be-able-to-serve-people-301640341.html"
+excerpt: "Tesla CEO Elon Musk unveiled its \"over-hyped\" humanoid robot \"Optimus\" at the electric vehicle maker's \"AI Day\""
+publishedDateTime: 2022-10-04T13:37:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29136946/idtechex-asks-if-teslas-humanoid-robot-optimus-will-really-be-able-to-serve-people"
+webUrl: "https://www.benzinga.com/pressreleases/22/10/n29136946/idtechex-asks-if-teslas-humanoid-robot-optimus-will-really-be-able-to-serve-people"
+ampWebUrl: "https://www.benzinga.com/amp/content/29136946"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29136946"
 type: article
+quality: 71
+heat: 71
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
@@ -17,6 +22,12 @@ topics:
   - AI in Autos
   - AI in Robotics
 
-secured: "As13BMsezjgt+d2zpoAkjnOBLsMcUViJqKWwAmPc8JMIIIJLpB9bsRZkcoBNuRqlkm1TzUkzeUL/NzLYHxWC/NmvrNcQrlByqzMocPo7dS+rgL/JlqAzFqEJqnRvsT0lDRNDQQt/F0QNIYHpekhdjjWy03L2NX/6kEy8KDkkmnEX/HgWYgc1g/mJqkIiR2s9VhJfx4uauOR20pKHUFXJC/SlCzVV3vECrh1jzBRMqfHvB39Q5V2JZ5jSr9R1nMxSSeafThqr/pX5qIMsn1VEkNt43f6qSeiqvEexeQLXXZ1i5iHu0HZ76KIKdKuEv1FqELAivcYHZSvaUUlweXU/o/RoO2YFL1pPoo/5aq9s+VrZNyndjAFsqVJ19NnRWS0Jw4sbikoRsN06BZREoIo6PpLkMhS2NlbqwNCnSZFstwFl2Hd1JP5TUFWn8croSDeTtym/B8fvUHUmJpZJK377Jdl3gaquEWuHSqNwq/0M/HeHtopHwIAxU22qby6ZGgTdPu/K0tnywsz4DhnX9bzhRw==;8Sm1vgNqCIoPY8Ox3PtCYA=="
+images:
+  - url: "https://mma.prnewswire.com/media/1913841/IDTechEx_Service_Robots.jpg"
+    width: 400
+    height: 228
+    isCached: true
+
+secured: "1/ZjC25wuZjqKNV2iZ9rWq/Mgq2bH8BhdLC+t77L9cOORYS73zB87QQt4HZjggrZBdWwoaRyoTj+TJ1RRLgx8uG1o1j6oEgTRdGqYE8ivqrjNwwrpM7kW1439GoSu4Kz6Wccvc/3HFEzDQnlHVymFHo2NFEM8bSoC3NZVF1GOknITqAHGybQgpQI1rfwl4ExHqLC5p3tqxXeZyhbc3aj0Cugx9yuJX/+MSX4ECEeJ7cQuElmUpdkbwTQg3RtP4l/nK7AyfxHCqKOsYqf/RTz5mxpyFloUCx3vV5qa2gUNXrRMMJXa/djSvGdHRY84LBz3YQ8dekG7SCESUIY3Deh2pfCq1bvoaMiZOCGw3tMOS0=;+wDDGQcYq535/EG3bT0a0A=="
 ---
 

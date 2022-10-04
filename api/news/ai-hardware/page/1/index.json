@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-04-meta-seeks-to-accelerate-ai-inference-with-open-source-aitemplate.md",
+      "title": "Meta seeks to accelerate AI inference with open-source AITemplate",
+      "excerpt": "Meta is open sourcing its AITemplate technology that enables AI inference to run across multiple hardware vendors, with the claim of better performance.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/meta-seeks-to-accelerate-ai-inference-with-open-source-aitemplate/",
+      "originalUrl": "https://venturebeat.com/ai/meta-seeks-to-accelerate-ai-inference-with-open-source-aitemplate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/04/screen-shot-2017-04-18-at-10-04-14-am.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/meta-seeks-to-accelerate-ai-inference-with-open-source-aitemplate/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/meta-seeks-to-accelerate-ai-inference-with-open-source-aitemplate/amp/",
+      "publishedDateTime": "2022-10-04T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-03-facebook-parent-meta-launches-ai-software-tools-to-help-speed-up-work.md",
       "title": "Facebook parent Meta launches AI software tools to help speed up work",
       "excerpt": "Facebook parent Meta Platforms Inc META.O said on Monday it has launched a new set of free software tools for artificial intelligence applications that could help speed up the performance of underlying chips.",
@@ -140,7 +192,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 693,
+      "heat": 673,
       "tags": null,
       "images": [
         {
@@ -1400,49 +1452,6 @@
         "AI Hardware",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-runai-certified-to-run-nvidia-ai-enterprise-software-suite.md",
-      "title": "Run:ai Certified to Run NVIDIA AI Enterprise Software Suite",
-      "excerpt": "Run:ai, the leader in compute orchestration for AI workloads, today announced that its Atlas Platform is certified to run NVIDIA AI Enterprise, an end-to-end, cloud-native",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/n28936086/run-ai-certified-to-run-nvidia-ai-enterprise-software-suite",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/n28936086/run-ai-certified-to-run-nvidia-ai-enterprise-software-suite",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/28171512/image-55-1024x683.png",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28936086",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28936086",
-      "publishedDateTime": "2022-09-20T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

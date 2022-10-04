@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-01T17:44:00Z
 originalUrl: "https://www.marketwatch.com/press-release/firework-games-collaborates-with-aws-on-the-upcoming-release-of-its-first-3d-space-battle-royale-game-2022-10-01"
 webUrl: "https://www.marketwatch.com/press-release/firework-games-collaborates-with-aws-on-the-upcoming-release-of-its-first-3d-space-battle-royale-game-2022-10-01"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: MarketWatch

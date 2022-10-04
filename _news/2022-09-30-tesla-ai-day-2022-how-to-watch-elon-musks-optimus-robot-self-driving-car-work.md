@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/"
 type: article
 quality: 133
-heat: 693
+heat: 673
 published: true
 
 provider:
@@ -176,38 +176,6 @@ related:
       - url: "https://www.cnet.com/a/img/resize/d0343d0443b1ded2a366707233a6882fd2b91b4c/hub/2022/10/01/3697671f-3da9-4ba5-adfe-1e8e7efeea7a/tesla-bot.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
-        isCached: true
-  - title: "How to watch Tesla’s AI Day today and what to expect"
-    excerpt: "Tesla is holding its second AI Day on September 30, and a prototype of its humanoid robot is expected to make an appearance."
-    publishedDateTime: 2022-09-29T21:30:00Z
-    webUrl: "https://www.digitaltrends.com/computing/how-to-watch-tesla-ai-day/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/how-to-watch-tesla-ai-day/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-watch-tesla-ai-day/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 104
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2022/09/Fdx4jsfWIAMMH6D.jpeg?p=1"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "How to watch Tesla’s AI Day tomorrow and what to expect"
-    excerpt: "Tesla is holding its second AI Day on September 30, and a prototype of its humanoid robot is expected to make an appearance."
-    publishedDateTime: 2022-09-29T21:30:00Z
-    webUrl: "https://www.digitaltrends.com/computing/how-to-watch-tesla-ai-day/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/how-to-watch-tesla-ai-day/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-watch-tesla-ai-day/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 104
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2022/09/Fdx4jsfWIAMMH6D.jpeg?p=1"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Tesla AI Day 2022: How to watch, and our top 5 predictions"
     excerpt: "Tesla AI Day is sure to feature news about electric vehicles, but with Tesla, there are always other innovative projects underway. Here is the latest tech we think Tesla will talk about."
@@ -543,15 +511,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 66
-  - title: "What to Expect at Tesla AI Day 2022"
-    excerpt: "The Sept. 30 event will be 'highly technical,' says Elon Musk, but we may get details about Tesla's humanoid robot and a progress report on its full self-driving plans."
-    publishedDateTime: 2022-09-29T22:14:00Z
-    webUrl: "https://www.pcmag.com/news/what-to-expect-at-tesla-ai-day-2022"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 64
   - title: "Tesla's AI Day: How to watch, plus our top 5 predictions"
     excerpt: "Tesla AI Day is sure to feature news about electric vehicles, but with Tesla, there are always other innovative projects underway. Here is the latest tech we think Tesla will talk about."
     publishedDateTime: 2022-09-30T17:10:00Z
@@ -766,6 +725,15 @@ related:
       name: Mint
       domain: livemint.com
     quality: 36
+  - title: "Elon Musk Unveils $20,000 Optimus Robot at AI Event"
+    excerpt: "Musk still has high hopes for Optimus, saying it'll someday find its way into manufacturing and maybe even make \"a meaningful contribution\" to artificial general intelligence."
+    publishedDateTime: 2022-10-04T12:02:00Z
+    webUrl: "https://www.extremetech.com/electronics/339995-elon-musk-unveils-20000-optimus-robot-at-ai-event"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 34
   - title: "Elon Musk and Tesla to unveil new humanoid robot. Here's what you need to know"
     excerpt: "Elon Musk is set to debut his latest creation -- a humanoid robot, also known as Tesla Bot, named Optimus -- on Friday, Sept. 30 at Tesla's second AI Day, an event his company is putting on for the second time to show advanced examples of artificial intelligence technology and recruit robotic engineers,"
     publishedDateTime: 2022-09-30T00:32:00Z

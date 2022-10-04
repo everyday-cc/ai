@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-03T00:00:00Z
 originalUrl: "https://hackaday.com/2020/11/07/training-a-neural-network-to-play-a-driving-game/"
 webUrl: "https://hackaday.com/2020/11/07/training-a-neural-network-to-play-a-driving-game/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Hackaday

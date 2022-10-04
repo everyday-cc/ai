@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/am
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/amp/"
 type: article
 quality: 105
-heat: 145
+heat: 135
 published: true
 
 provider:
@@ -73,22 +73,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/9/4d/94d03c46-8d11-5db0-b328-3c9d5016c862/6336f4493b701.image.jpg?crop=800%2C420%2C0%2C22&resize=800%2C420&order=crop%2Cresize"
         width: 800
         height: 420
-        isCached: true
-  - title: "Elon Musk teases unveiling of spectacular humanoid robot that could replace human workers"
-    excerpt: "The human-link robots will be powered by artificial intelligence and could one-day carry out a number of helper roles."
-    publishedDateTime: 2022-09-29T21:23:00Z
-    webUrl: "https://www.express.co.uk/news/science/1676198/elon-musk-telsa-humanoid-robot-optimus-bot"
-    ampWebUrl: "https://www.express.co.uk/news/science/1676198/elon-musk-telsa-humanoid-robot-optimus-bot/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1676198/elon-musk-telsa-humanoid-robot-optimus-bot/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 50
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/Elon-Musk-1676198.jpg?r=1664489938220"
-        width: 590
-        height: 350
         isCached: true
 
 secured: "rQOaI45AIm876y2UbeTEQBS8hg/Jr2gnSJglESbSX95DAooke3KdQHVRNbKBtojXgCuvqemHZ8ytvIx8yXp4Baqh6O72mKBBnxhCUjr9hoN3NE89jcLixyM8H29unmeoYBP6/GonJDIx/P9U6o4s1twr/fqcVJvY0OStYcIuNRoqqGLjxbOvYFvTb/l/bR5DNPvYqegNB1FDx3T10ev6iEMwhl/CcEAWN/Uu+alHUDkY+hRG9po91ollRCFXYhmHYPaPVmcnKdVGavcXhSWT6YSkxCx9slxWOY0zs3RMdVudxoxj0irKzmEhetBsP83DyXTqRXRzzZcHwibJ0HFgyBi39VAIqvXasTO0ZYNaAcLuLWASY6pPrsCGeMmD91FINmQIsuMZqCxq1V9pzXls/4B957AbaIYuhgqV+9Fl2BZumOgqB6C8nudfi0o5Kr9bKhfujV27yf82GH2nUw5CHUrlpOsI6RrvwXP+nhGMw397JCZJX6u37foJrWeEfmXzWVR1xOQXHb3gZVXKufk+ug==;yxNpA7bFArxHyy49dZrjnA=="

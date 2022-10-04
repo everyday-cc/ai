@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-04T12:10:00Z
 originalUrl: "https://www.finextra.com/newsarticle/41059/industry-pushes-back-again-on-basel-committee-crypto-plans"
 webUrl: "https://www.finextra.com/newsarticle/41059/industry-pushes-back-again-on-basel-committee-crypto-plans"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Finextra

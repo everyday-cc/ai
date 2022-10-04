@@ -8,8 +8,8 @@ webUrl: "https://www.provideocoalition.com/artificial-intelligence-in-video-prod
 ampWebUrl: "https://www.provideocoalition.com/artificial-intelligence-in-video-production/amp/"
 cdnAmpWebUrl: "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/artificial-intelligence-in-video-production/amp/"
 type: article
-quality: 61
-heat: 81
+quality: 63
+heat: 83
 published: true
 
 provider:

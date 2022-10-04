@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-04T13:00:00Z
 originalUrl: "https://www.forbes.com/sites/bradtempleton/2022/10/04/why-dont-you-have-a-self-driving-car-yet--part-two-outlines-some-social-problems/"
 webUrl: "https://www.forbes.com/sites/bradtempleton/2022/10/04/why-dont-you-have-a-self-driving-car-yet--part-two-outlines-some-social-problems/"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: Forbes

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-03T15:52:00Z
 originalUrl: "https://www.biometricupdate.com/202210/philippines-officials-want-to-fight-drivers-license-fraud-with-facial-recognition"
 webUrl: "https://www.biometricupdate.com/202210/philippines-officials-want-to-fight-drivers-license-fraud-with-facial-recognition"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Biometric Companies

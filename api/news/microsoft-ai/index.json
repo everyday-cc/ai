@@ -738,6 +738,40 @@
       ]
     },
     {
+      "path": "_news/2022-09-24-important-for-brain-health-blueberries-may-reverse-cognitive-decline-study.md",
+      "title": "'Important for brain health’: Blueberries may reverse cognitive decline - study",
+      "excerpt": "You can unsubscribe at any time. More info Cognitive decline mainly occurs in older people, as the brain ages some of its functions begin to deteriorate, often at different rates in different people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/life-style/health/1673072/cognitive-decline-eating-wild-blueberries",
+      "originalUrl": "https://www.express.co.uk/life-style/health/1673072/cognitive-decline-eating-wild-blueberries",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-24T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-23-microsofts-new-security-chief-looks-to-ai-to-fight-hackers-qa.md",
       "title": "Microsoft’s New Security Chief Looks to AI to Fight Hackers: Q&A",
       "excerpt": "His mission was to  chart a future course for the security business, which now generates more than $15 billion annually. Bell reorganized, combining groups scattered across businesses like Azure cloud,",
@@ -1386,58 +1420,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-study-suggests-older-adults-show-greater-mental-well-being-despite-cognitive-decline.md",
-      "title": "Study suggests older adults show greater mental well-being despite cognitive decline",
-      "excerpt": "Despite displaying signs of poorer cognitive performance, older adults tend to have greater mental well-being compared to younger adults, according to a new study. A study published this month in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/health/study-older-adults-greater-mental-well-being-cognitive-decline",
-      "originalUrl": "https://www.foxnews.com/health/study-older-adults-greater-mental-well-being-cognitive-decline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1ce4d6f4-d820-4a8a-b50e-7596345c80f6/ab31fe9d-1057-4f40-87d5-d4538c3677b8/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/health/study-older-adults-greater-mental-well-being-cognitive-decline.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/study-older-adults-greater-mental-well-being-cognitive-decline.amp",
-      "publishedDateTime": "2022-09-20T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-23-ai-and-ml-reliability-and-security-blenderbot-and-other-cases.md",
+      "title": "AI and ML reliability and security: BlenderBot and other cases",
+      "excerpt": "Blenderbot is a conversational bot, and its statements about people, companies or politics appear to be unexpected and sometimes radical",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/ai-and-ml-reliability-and-security-blenderbot-and-other-cases-wfgyxiac",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/ai-and-ml-reliability-and-security-blenderbot-and-other-cases-wfgyxiac",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/version/c:NjM1MjYzMTQtNGQ5OC00:MWQxOTFl/23-8-22-jpg.jpg?f=3%3A2",
+          "width": 693,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-08-23-language-translation-device-market-to-hit-usd-25-bn-by-2030-says-global-market-insights-inc.md",
       "title": "Language Translation Device Market to hit USD 2.5 Bn by 2030, Says Global Market Insights Inc.",
       "excerpt": "Major language translation device market participants include Sourcenext Inc., Jarvisen (iFLYTEK), Cheetah Mobile, Inc., Vasco Electronics LLC, Waverly Labs Inc., and ...",
@@ -1279,49 +1324,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-how-can-natural-language-processing-help-in-business.md",
-      "title": "How Can Natural Language Processing Help in Business?",
-      "excerpt": "Natural language processing (NLP) is an effective mixture of linguistics and computer science that, wrapped up in the study of language and the introduction of intelligent systems, makes human ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/how-can-natural-language-processing-help-in-business",
-      "originalUrl": "https://www.digitaljournal.com/pr/how-can-natural-language-processing-help-in-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/077787ed8274d4370cac36f9e7f70c511534e1d3-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-16T05:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null

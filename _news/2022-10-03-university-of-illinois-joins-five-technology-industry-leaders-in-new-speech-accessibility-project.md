@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Your Guide to Cognitive Rehabilitation"
-    excerpt: "Cognitive rehabilitation therapy refers to a group of treatments that help improve a person’s ability to think after a brain injury or illness that affects the brain. Cognitive rehab therapy ..."
-    publishedDateTime: 2022-09-29T20:05:00Z
-    webUrl: "https://www.healthline.com/health/mental-health/cognitive-rehabilitation"
-    type: article
-    provider:
-      name: Healthline
-      domain: healthline.com
-    quality: 24
-    images:
-      - url: "https://post.healthline.com/wp-content/uploads/2022/09/senior-female-on-computer-with-caregiver-1200-628-facebook-1200x628.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "University of Illinois project supported by Apple and Google to make speech recognition more diverse"
     excerpt: "A new \"Speech Accessibility Project\" led by The University of Illinois aims to expand voice recognition technology \"more useful for people with a range of diverse speech patterns and disabilities.\""
     publishedDateTime: 2022-10-04T11:08:00Z

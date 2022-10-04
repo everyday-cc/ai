@@ -41,20 +41,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Meta debuts AI system that can generate videos from text"
-    excerpt: "Make-A-Video can take a few words or lines of text as input and use them to generate a clip that is a few seconds long. According to Meta, the AI system is also capable of producing video based on existing footage or images."
-    publishedDateTime: 2022-09-29T20:17:00Z
-    webUrl: "https://siliconangle.com/2022/09/29/meta-debuts-ai-system-can-generate-videos-text/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/meta.png"
-        width: 718
-        height: 399
-        isCached: true
 
 secured: "wcMYV+tj2bCU/E/1JuQxO74srS3U++LQS9i4+1QdXUsqMnc5pnzubfhYIzsQoQYF3jCrob+pUDYKgRr3cF1ChsAPNjfWv4BKbOSWi67aukdyTj0Pk0oIh5YHkK+TOtafPojwBI49zmoSKGcksha+wLkTpoEXXyUA4BDsDSVnTLzDnIQiPIcIvJUPhP54EAvX54Ll3TMF7srfyqPs7wCuZJeatkMRYDsORbEiyu8C2mzI62bg2iovw+6Ac9it1OOJ92nCFXZNfzurOKG0i4mps4iXbo4rqeCNUroZkHGnhelgCAeCW70bGqL5w2KbYjqMTXOBwDrogKx0r1k800AnbXjPWJTP6K0T9/vCY9C8UC+UXBAvQ4Yi2u7bbHzOF0TTRTx1/MpLdCtBYbk7Bpxex0Nks2GA+YXzAqizj3jrfxylkNOpoXd+FLWK9TOjyYxmn16PfGpZlcaD9EbKQ1oGIlYu/0GkzGpwMPpYmJIMR4CzwT8c8hK8hSZ6pIp7Aw4P3mc+mPQ6glbbzpwyUHi5xA==;MARrvjnJAHNbGeb7PiwUVw=="
 ---

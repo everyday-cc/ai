@@ -37,6 +37,17 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "This Rapid-Growing Self-Driving Giant Has Filed for IPO"
+    excerpt: "Today's video focuses on Mobileye -- a leader in advanced driver assistance systems (ADAS) and autonomous driving technologies -- and information from its recent SEC IPO filing. Intel (NASDAQ: INTC) acquired Mobileye in 2017,"
+    publishedDateTime: 2022-10-04T12:01:00Z
+    webUrl: "https://www.nasdaq.com/articles/this-rapid-growing-self-driving-giant-has-filed-for-ipo"
+    ampWebUrl: "https://www.nasdaq.com/articles/this-rapid-growing-self-driving-giant-has-filed-for-ipo?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-rapid-growing-self-driving-giant-has-filed-for-ipo?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Intel's Mobileye Files for Listing in First Sign of Thawing Tech IPO Market"
     excerpt: "Comparative assessments and other editorial opinions are those of U.S. News and have not been previously reviewed, approved or endorsed by any other entities, such as banks, credi"
     publishedDateTime: 2022-09-30T21:13:00Z

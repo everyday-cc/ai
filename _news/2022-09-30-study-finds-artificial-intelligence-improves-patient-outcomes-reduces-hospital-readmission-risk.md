@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence used to predict hospitalization outcomes of geriatric patients with dementia"
-    excerpt: "By using artificial intelligence, Houston Methodist researchers are able to predict hospitalization outcomes of geriatric patients with dementia on the first or second day of hospital admission."
-    publishedDateTime: 2022-09-29T22:39:00Z
-    webUrl: "https://www.news-medical.net/news/20220929/Artificial-intelligence-used-to-predict-hospitalization-outcomes-of-geriatric-patients-with-dementia.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 24
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Dementia-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "Study: Artificial intelligence improves patient outcomes, reduces hospital readmission risk"
     excerpt: "Researchers have used artificial intelligence to predict hospitalisation outcomes of geriatric patients with dementia on the first or second day of admission. Early outcome assessment means more timely interventions,"
     publishedDateTime: 2022-09-30T18:26:00Z

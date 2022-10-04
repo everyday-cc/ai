@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-08-liberty-lending-is-now-reach-financial.md",
+      "title": "Liberty Lending Is Now Reach Financial",
+      "excerpt": "Company also closes its 4th securitization, surpasses $1 billion of loans facilitated on its platform, and announces Daniel Tilipman as Chief",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/liberty-lending-is-now-reach-financial-1031573596",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/liberty-lending-is-now-reach-financial-1031573596",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-managed-services-market-to-reach-39372-billion-by-2028-at-least-60-organizations-to-depend-on-managed-services-by-2025.md",
+      "title": "Managed Services Market to Reach $393.72 Billion by 2028 | At Least 60% Organizations to Depend on Managed Services by 2025",
+      "excerpt": "Organizations are turning to managed services for a number of reasons, including the need to reduce costs, improve operational efficiencies, and free up internal resources to focus on more strategic initiatives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/managed-services-market-to-reach-39372-billion-by-2028-at-least-60-organizations-to-depend-on-managed-services-by-2025-2022-07-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/managed-services-market-to-reach-39372-billion-by-2028-at-least-60-organizations-to-depend-on-managed-services-by-2025-2022-07-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T05:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-06-2-reasons-you-should-be-extremely-cautious-about-this-hot-new-fintech-spac.md",
       "title": "2 Reasons You Should Be Extremely Cautious About This Hot New Fintech SPAC",
       "excerpt": "You may have recently heard of the latest hot new fintech to hit the market after it put its name on the map by partnering with SoFi Technologies in November 2021 and followed that up by partnering with Visa in February 2022.",
@@ -1248,84 +1343,6 @@
         "AI in Finance",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-18-financial-planning-perspective-on-life-milestones-money-matters.md",
-      "title": "Financial planning perspective on life milestones | Money Matters",
-      "excerpt": "The trip got me reflecting on planning, how my daughter planned for it, and the importance of planning in successfully achieving milestones in life. For a person graduating from any program of learning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.redmond-reporter.com/business/financial-planning-perspective-on-life-milestones-money-matters/",
-      "originalUrl": "https://www.redmond-reporter.com/business/financial-planning-perspective-on-life-milestones-money-matters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-17T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Redmond Reporter",
-        "domain": "redmond-reporter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-nuvei-launches-groundbreaking-machine-learning-solution-to-boost-risk-management.md",
-      "title": "Nuvei Launches Groundbreaking Machine Learning Solution to Boost Risk Management",
-      "excerpt": "Nuvei Corporation (“Nuvei” or the “Company”) (Nasdaq: NVEI) (TSX: NVEI), tomorrow’s payment platform, announces today the launch of a new risk management model underpinned by cutting-edge machine learning technology for its Instant Bank Transfer product in North America.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-847c6bb9f6b92d2d071375514df4a494",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-847c6bb9f6b92d2d071375514df4a494",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

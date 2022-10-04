@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-13-between-a-rock-and-a-hard-place-new-research-reveals-us-banking-is-trapped-by-rising-financial-crime-and-perceived-tech-complexity.md",
+      "title": "Between a rock and a hard place – new research reveals US Banking is trapped by rising financial crime and perceived tech complexity",
+      "excerpt": "Featurespace, the leading provider of enterprise financial crime prevention software, announced the release of a new report, “The State of Fraud and Financial Crime in the U.S.” conducted in conjunction with PYMNTS.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-8f25d68eb42b4f6f8faf7278a16f2782",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-8f25d68eb42b4f6f8faf7278a16f2782",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-ai-dynamics-and-pettigrew-medical-announce-joint-venture-that-applies-advanced-machine-learning-to-accelerate-automation-of-medical-record-coding.md",
+      "title": "AI Dynamics and PETTIGREW Medical Announce Joint Venture that Applies Advanced Machine Learning to Accelerate Automation of Medical Record Coding",
+      "excerpt": "AI Dynamics and PETTIGREW Medical announced today the formation of a joint venture, with the working name mAIcode, designed to accelerate the automation of medical record coding by applying advanced machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/09/13/9672387.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/09/13/9672387.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
+          "width": 476,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-09-13-svkms-nmims-bengaluru-campus-opens-nmat-registration-for-admissions-in-mba-core-program-for-the-ay-2023-25.md",
       "title": "SVKM's NMIMS Bengaluru Campus opens NMAT registration for admissions in MBA Core Program for the AY 2023-25",
       "excerpt": "BIE (Bachelor of Industrial Engineering), machine learning, financial services and many more, both modern and traditional forms of electives. Faculty have impeccable credentials both coming from ...",
@@ -1196,102 +1283,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-improving-ai-assisted-conversation-with-zero-shot-learning.md",
-      "title": "Improving AI-assisted conversation with zero-shot learning",
-      "excerpt": "Zero-shot learning can improve conversation AI — bolstering everything from human interaction, to sales, to training and career coaching.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/",
-      "originalUrl": "https://venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1169246375.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/amp/",
-      "publishedDateTime": "2022-08-27T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-fintech-and-msmes-are-together-changing-the-face-of-digitalisation.md",
-      "title": "Fintech and MSMEs are together changing the face of digitalisation",
-      "excerpt": "Fintech companies are betting on the power of AI, machine learning, and big data to drive growth and innovation in the MSME sector. The fintech space has witnessed enormous success in the Asia ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/smbstory/fintech-startups-msme-sector-small-businesses-changing-face-of-digitalisation-india/amp",
-      "originalUrl": "https://yourstory.com/smbstory/fintech-startups-msme-sector-small-businesses-changing-face-of-digitalisation-india/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/21/0a385fc03e6011e999df3d1594bbde2c/Imageybe01574423681172jpg ",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/smbstory/fintech-startups-msme-sector-small-businesses-changing-face-of-digitalisation-india/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/smbstory/fintech-startups-msme-sector-small-businesses-changing-face-of-digitalisation-india/amp",
-      "publishedDateTime": "2022-08-26T19:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YourStory",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

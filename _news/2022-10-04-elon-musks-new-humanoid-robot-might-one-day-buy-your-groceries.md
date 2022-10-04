@@ -1,0 +1,47 @@
+---
+category: news
+title: "Elon Musk’s New Humanoid Robot Might One Day Buy Your Groceries"
+excerpt: "Our goal is to make a useful humanoid robot as quickly as possible,” Musk told the audience. “There’s still a lot of work to be done to refine Optimus and prove it.” This was the first time the robot walked by itself without an extra support to keep it from falling,"
+publishedDateTime: 2022-10-04T15:11:00Z
+originalUrl: "https://www.smithsonianmag.com/smart-news/elon-musks-new-humanoid-robot-might-one-day-buy-your-groceries-180980884/"
+webUrl: "https://www.smithsonianmag.com/smart-news/elon-musks-new-humanoid-robot-might-one-day-buy-your-groceries-180980884/"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: Smithsonian Magazine
+  domain: smithsonianmag.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://th-thumbnailer.cdn-si-edu.com/UPk4ZPZvAHHov-wXq0goVjrDXMM=/fit-in/1600x0/filters:focal(636x475:637x476)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/47/97/47971855-21cb-4823-9686-636085e05496/optimus_prime_2.jpg"
+    width: 1272
+    height: 949
+    isCached: true
+
+related:
+  - title: "Elon Musk's Half-Baked Robot Is a Clunky First Step"
+    excerpt: "Tesla’s Optimus robot did not dazzle robotics experts and can't yet walk. But if the project delivers, it could give the company an edge in manufacturing."
+    publishedDateTime: 2022-10-03T20:56:00Z
+    webUrl: "https://www.wired.com/story/elon-musks-half-baked-robot-is-a-clunky-first-step/"
+    ampWebUrl: "https://www.wired.com/story/elon-musks-half-baked-robot-is-a-clunky-first-step/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/elon-musks-half-baked-robot-is-a-clunky-first-step/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.wired.com/photos/633b3fa75347dadd8298df78/master/w_4096,h_2731,c_limit/Tesla-Optimus-Bot-Mechanics-Business.jpg"
+        width: 4096
+        height: 2731
+        isCached: true
+
+secured: "TnJG/NvoNepdFp1tUbF08nZsU68/HKY7/l4OSPBW6pQkvbobiTmBC+JsyEtPDPmAqt8Gx/BPNLaPE6ChI/QH7BEoSIMVEJQ3kya1UMM/ufLc827tCeaqMcru1j4oIxnUVs3TlW4K8VtH9I0/8Vk3cYWfwqlKuwkPzhrXQ6mXMnVhfG50LaU7olXaPdKCdCr/35+eQ8yErzIo0okk/H/yyA9ZIzqxaHJJ2T0Ds1zrHoKn71w+LisCYPC0RxtwlvyHW2vew/NmyQLyW/8WQ5ELB+/qc5WyJSMgfIiJhJ7b226OBIot8dXCv6dwmAOpi/WkDPRHm15HVLXutUYhTbWOudP3yskVXyV4HRJ3JVp7/kI=;9cF35zt+ntZxm4/4NQYdlg=="
+---
+

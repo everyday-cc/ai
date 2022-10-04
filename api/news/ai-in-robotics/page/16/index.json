@@ -2,6 +2,50 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-06-10-roborock-s7-maxv-ultra-wins-t3-award-2022-for-best-robot-vacuum.md",
+      "title": "Roborock S7 MaxV Ultra Wins T3 Award 2022 for Best Robot Vacuum",
+      "excerpt": "Considering the tough competition amongst its robovac peers, it's clear that the advanced object recognition technology, customized cleaning options and performance in cleaning hard floors and ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/roborock-s7-maxv-ultra-wins-t3-award-2022-for-best-robot-vacuum-1031519399",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/roborock-s7-maxv-ultra-wins-t3-award-2022-for-best-robot-vacuum-1031519399",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-06-10-scientists-craft-living-skin-for-robots-made-of-human-cells.md",
       "title": "Scientists Craft 'Living Skin' for Robots, Made of Human Cells",
       "excerpt": "Japanese researchers covered a robot finger with a self-healing pliable sheet made of human skin cells. Why it matters. Helping robots resemble humans could impr",
@@ -1242,49 +1286,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-scythe-robotics-ceo-jack-morrison-discusses-autonomous-mowing.md",
-      "title": "Scythe Robotics CEO Jack Morrison discusses autonomous mowing",
-      "excerpt": "This week, we talk to Scythe Robotics CEO and Co-founder Jack Morrison about the market for commercial autonomous mowers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/scythe-robotics-ceo-jack-morrison-discusses-autonomous-mowing/",
-      "originalUrl": "https://www.therobotreport.com/scythe-robotics-ceo-jack-morrison-discusses-autonomous-mowing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/05/scythe-mower-featured-web.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-03T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

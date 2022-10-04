@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-04T13:35:00Z
 originalUrl: "https://www.infoq.com/news/2022/10/openai-whisper-speech/"
 webUrl: "https://www.infoq.com/news/2022/10/openai-whisper-speech/"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: InfoQ

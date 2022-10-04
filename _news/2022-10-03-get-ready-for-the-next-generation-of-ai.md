@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2022/10/03/1060561/get-ready-for-th
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/10/03/1060561/get-ready-for-the-next-generation-of-ai/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: MIT Technology Review
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta debuts AI system that can generate videos from text"
-    excerpt: "Make-A-Video can take a few words or lines of text as input and use them to generate a clip that is a few seconds long. According to Meta, the AI system is also capable of producing video based on existing footage or images."
-    publishedDateTime: 2022-09-29T20:17:00Z
-    webUrl: "https://siliconangle.com/2022/09/29/meta-debuts-ai-system-can-generate-videos-text/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/meta.png"
-        width: 718
-        height: 399
-        isCached: true
   - title: "The Reality, Promise and Limits of Artificial Intelligence"
     excerpt: "Just what is artificial intelligence, anyway? In its ultimate form, will it model, augment or replace human thought?"
     publishedDateTime: 2022-10-03T05:39:00Z

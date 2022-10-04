@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/intel-drives-forward-with-mobileye-se
 webUrl: "https://www.wsj.com/articles/intel-drives-forward-with-mobileye-self-driving-car-units-ipo-plans-11664579959"
 type: article
 quality: 54
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     isCached: true
 
 related:
+  - title: "This Rapid-Growing Self-Driving Giant Has Filed for IPO"
+    excerpt: "Today's video focuses on Mobileye -- a leader in advanced driver assistance systems (ADAS) and autonomous driving technologies -- and information from its recent SEC IPO filing. Intel (NASDAQ: INTC) acquired Mobileye in 2017,"
+    publishedDateTime: 2022-10-04T12:01:00Z
+    webUrl: "https://www.nasdaq.com/articles/this-rapid-growing-self-driving-giant-has-filed-for-ipo"
+    ampWebUrl: "https://www.nasdaq.com/articles/this-rapid-growing-self-driving-giant-has-filed-for-ipo?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-rapid-growing-self-driving-giant-has-filed-for-ipo?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Intel's Self-Driving Unit Mobileye Files for U.S. IPO"
     excerpt: "Comparative assessments and other editorial opinions are those of U.S. News and have not been previously reviewed, approved or endorsed by any other entities, such as banks, credi"
     publishedDateTime: 2022-09-30T21:13:00Z

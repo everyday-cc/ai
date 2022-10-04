@@ -7,7 +7,7 @@ originalUrl: "https://gcn.com/emerging-tech/2022/09/house-bill-limits-police-use
 webUrl: "https://gcn.com/emerging-tech/2022/09/house-bill-limits-police-use-facial-recognition/377921/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "House Democrats debut new bill to limit US police use of facial recognition"
-    excerpt: "The bill, if passed, would require police across the United States to first obtain a warrant before using facial recognition technologies."
-    publishedDateTime: 2022-09-29T22:19:00Z
-    webUrl: "https://techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/"
-    ampWebUrl: "https://techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/29/house-democrats-facial-recognition-act/amp/"
+  - title: "Facial Recognition Will Play a Significant Role in the Future of Air Travel"
+    excerpt: "Biometric enrollment and advanced security in using your data will solve a common problem in the travel experience. Biometric enrollment allows for greater fluidity at airports and makes passenger recognition easier for airlines."
+    publishedDateTime: 2022-10-03T19:25:00Z
+    webUrl: "https://www.travelpulse.com/news/airlines/facial-recognition-will-play-a-significant-role-in-the-future-of-air-travel.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/05/facial-recognition-tech.gif?resize=1200,799"
-        width: 1200
-        height: 799
-        isCached: true
+      name: TravelPulse
+      domain: travelpulse.com
+    quality: 32
   - title: "Restrictions on police use of facial recognition proposed in US Congress"
     excerpt: "The legislation would also prohibit use of face biometrics in the enforcement of immigration laws, on body cameras, during protests, and on live video feeds."
     publishedDateTime: 2022-09-30T19:23:00Z

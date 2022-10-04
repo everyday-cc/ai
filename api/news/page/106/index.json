@@ -2,6 +2,431 @@
   "page": 106,
   "value": [
     {
+      "path": "_news/2022-07-08-artificial-intelligenceai-in-retail-market-trends-business-overview-industry-growth-and-forecast-2022-to-2028.md",
+      "title": "Artificial Intelligence(AI) in Retail Market Trends, Business Overview, Industry Growth, and Forecast 2022 To 2028.",
+      "excerpt": "Pre and Post Covid is covered and Report Customization is available. The \"Artificial Intelligence(AI) in Retail Market Analysis report\" has brought to light Main Market Activities, Market Revenue, Market Overview,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligenceai-in-retail-market-trends-business-overview-industry-growth-and-forecast-2022-to-2028-2022-07-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligenceai-in-retail-market-trends-business-overview-industry-growth-and-forecast-2022-to-2028-2022-07-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-08T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-brain-stimulation-can-rewire-and-heal-damaged-neural-connections-but-it-isnt-clear-how.md",
+      "title": "Brain stimulation can rewire and heal damaged neural connections, but it isn’t clear how",
+      "excerpt": "The connections between the neurons in your brain enable you to do amazing things, from brushing your teeth to solving calculus equations. When these connections become damaged, often as a result of conditions like stroke or traumatic brain injury,",
+      "sourceUrl": null,
+      "webUrl": "https://gcn.com/emerging-tech/2022/07/brain-stimulation-can-rewire-and-heal-damaged-neural-connections-it-isnt-clear-how/373988/",
+      "originalUrl": "https://gcn.com/emerging-tech/2022/07/brain-stimulation-can-rewire-and-heal-damaged-neural-connections-it-isnt-clear-how/373988/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.gcn.com/media/img/cd/2022/07/08/brain_GCN_070822/open-graph.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-08T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GCN",
+        "domain": "gcn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-meta-releases-ai-model-that-translates-over-200-languages.md",
+      "title": "Meta Releases AI Model That Translates Over 200 Languages",
+      "excerpt": "If you’ve ever witnessed the bizarre word stew that Facebook sometimes concocts when translating content between languages, you have seen how translation",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/2022/07/08/meta-releases-ai-model-that-translates-over-200-languages/",
+      "originalUrl": "https://www.datanami.com/2022/07/08/meta-releases-ai-model-that-translates-over-200-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/07/translation_shutterstock_2119733831.jpg",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-08T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-aws-now-lets-you-access-your-very-own-m1-mac-mini-in-the-cloud.md",
+      "title": "AWS now lets you access your very own M1 Mac Mini in the cloud",
+      "excerpt": "Amazon Web Sevices's (AWS) latest addition to its Amazon ... cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and venture capital investment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/in/news/aws-now-lets-you-access-your-very-own-m1-mac-mini-in-the-cloud",
+      "originalUrl": "https://www.techradar.com/in/news/aws-now-lets-you-access-your-very-own-m1-mac-mini-in-the-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/sKXZvLaQHgtG97gXwkZZAo-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-08T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-researchers-develop-self-calibrated-photonic-chip.md",
+      "title": "Researchers Develop Self-calibrated Photonic Chip",
+      "excerpt": "The connectivity of current optical chips has been revolutionised, and a wafer thin slice of silicon has replaced cumbersome 3D-optics! In research led by Monash and RMIT Universities in Melbourne, a sophisticated photonic integrated circuit establishes bridges between data superhighways.",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip",
+      "originalUrl": "https://www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electronicsforu.com/wp-contents/uploads/2022/06/computer-chip-1200-e1655465932285.jpg",
+          "width": 500,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip/amp",
+      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip/amp",
+      "publishedDateTime": "2022-07-08T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics For You",
+        "domain": "electronicsforu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-data-scientist-industry-reaches-point-of-maturity-as-specializations-grow.md",
+      "title": "Data scientist: Industry reaches 'point of maturity' as specializations grow",
+      "excerpt": "Computer science specializations are becoming more common. Codecademy recently introduced new data science learning paths to meet employers' changing expectations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/education/computers-tech/data-science-industry-reaches-point-of-maturity/",
+      "originalUrl": "https://www.zdnet.com/education/computers-tech/data-science-industry-reaches-point-of-maturity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/a7387db1a7576e9b16458e25dc5c6f4a2c224a01/2022/07/07/15867fb1-8658-42ad-956b-7d2e552772b8/michelle-mcsweeney.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/education/computers-tech/data-science-industry-reaches-point-of-maturity/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/education/computers-tech/data-science-industry-reaches-point-of-maturity/",
+      "publishedDateTime": "2022-07-08T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-ford-backed-driverless-car-startup-lays-off-150-workers.md",
+      "title": "Ford-Backed Driverless Car Startup Lays Off 150 Workers",
+      "excerpt": "Argo AI laid off about 150 workers this week, a belt-tightening measure following years of fast-paced hiring. The layoffs represented about 6% of the company’s more than 2,000-person workforce, a spokesperson said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ford-backed-driverless-car-startup-lays-off-150-workers-11657289330",
+      "originalUrl": "https://www.wsj.com/articles/ford-backed-driverless-car-startup-lays-off-150-workers-11657289330",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-579737/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-08T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-h3c-tops-in-25-performance-items-at-the-mlperf-ai-benchmark-test.md",
+      "title": "H3C Tops in 25 Performance Items at the MLPerf AI Benchmark Test",
+      "excerpt": "Recently MLPerf an international authoritative AI benchmarking organization announced the latest AI Training list in which H3C servers R5500 G5 R5300 G5 and R4900 G5 topped the closed model partition",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/272614020/h3c-tops-in-25-performance-items-at-the-mlperf-ai-benchmark-test",
+      "originalUrl": "https://www.bignewsnetwork.com/news/272614020/h3c-tops-in-25-performance-items-at-the-mlperf-ai-benchmark-test",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/cus1657866191643.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-08T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai.md",
+      "title": "Nokia to open robotics lab at Indian Institute of Science for 5G and AI",
+      "excerpt": "Nokia and the Indian Institute of Science (IISc) on Friday announced the opening of the Center of Excellence (CoE) in Networked Robotics at the IISc Bengaluru. The CoE will promote inter-disciplinary research involving robotics and advanced communication technologies in 5G and Artificial Intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai/article65615809.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai/article65615809.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/3wm88/article65615902.ece/alternates/LANDSCAPE_615/2020-07-14T075529Z_1210897008_RC2VSH97A1YU_RTRMADP_3_NOKIA-5G.JPG",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai/article65615809.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai/article65615809.ece/amp/",
+      "publishedDateTime": "2022-07-08T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-08-five-benefits-to-consider-when-joining-a-startup-incubator.md",
       "title": "Five Benefits To Consider When Joining A Startup Incubator",
       "excerpt": "If you’re an entrepreneur, you’re probably constantly asked this stressful question: “Thinking about drinking the startup incubator kool-aid?” If you’ve already made the daunting decision to take the plunge and found a new venture,",
@@ -707,431 +1132,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-who-is-shivon-zilis-meet-the-neuralink-exec-and-ai-expert-who-had-twins-with-elon-musk.md",
-      "title": "Who is Shivon Zilis? Meet the Neuralink exec and AI expert who had twins with Elon Musk",
-      "excerpt": "Neuralink exec Shivon Zilis is reported to be the mother of Elon Musk's 9-month-old twins, who were born weeks prior to his second child with Grimes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/shivon-zilis-reported-mother-elon-musk-twins-2022-7",
-      "originalUrl": "https://www.businessinsider.com/shivon-zilis-reported-mother-elon-musk-twins-2022-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62c7374e99259b00181e5dcc?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/shivon-zilis-reported-mother-elon-musk-twins-2022-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/shivon-zilis-reported-mother-elon-musk-twins-2022-7?amp",
-      "publishedDateTime": "2022-07-07T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-accelerate-aiml-with-the-new-ipu-based-cloud-platform-by-g-core-labs-graphcore.md",
-      "title": "Accelerate AI/ML with the new IPU-based cloud platform by G-Core Labs & Graphcore",
-      "excerpt": "By Seva Vayner, Director of Edge Cloud at G-Core Labs More and more businesses are looking to implement artificial intelligence and machine learning into their processes and solutions. Machine learning models can impact businesses across all verticals,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/sponsor/g-core-labs/accelerate-ai-ml-with-the-new-ipu-based-cloud-platform-by-g-core-labs-graphcore/",
-      "originalUrl": "https://techcrunch.com/sponsor/g-core-labs/accelerate-ai-ml-with-the-new-ipu-based-cloud-platform-by-g-core-labs-graphcore/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/1024х683.jpg?w=600",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T12:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-artificial-intelligence-in-insurtech-market-size-from-2022-to-2028-and-unlimited-opportunities-for-new-companies.md",
-      "title": "Artificial Intelligence In Insurtech Market Size From 2022 To 2028 And Unlimited Opportunities for New Companies",
-      "excerpt": "The global \" Artificial Intelligence In Insurtech market \" is projected to register healthy growth during the forecast period 2022 to 2028. It offers an in-depth examination of the factors influencing market growth;",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurtech-market-size-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-2022-07-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurtech-market-size-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-2022-07-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-crypto-is-unleashing-web-30.md",
-      "title": "Crypto Is Unleashing Web 3.0",
-      "excerpt": "This is all reaching a tipping point with the next generation of the internet: a decentralized internet called “Web 3.0.” Web 3.0 will allow you to control your digital identity. And you’ll also be able to choose when and with whom to share your information.",
-      "sourceUrl": null,
-      "webUrl": "https://banyanhill.com/crypto-unleashing-new-web/",
-      "originalUrl": "https://banyanhill.com/crypto-unleashing-new-web/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Banyan Hill Publishing",
-        "domain": "banyanhill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-feature-engineering-at-scale-for-healthcare-and-life-sciences-with-amazon-sagemaker-data-wrangler.md",
-      "title": "Feature engineering at scale for healthcare and life sciences with Amazon SageMaker Data Wrangler",
-      "excerpt": "Machine learning (ML) is disrupting a lot of industries at an unprecedented pace. The healthcare and life sciences (HCLS) industry has been going through a rapid evolution in recent years embracing ML across a multitude of use cases for delivering quality care and improving patient outcomes. In a typical",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/feature-engineering-at-scale-for-healthcare-and-life-sciences-with-amazon-sagemaker-data-wrangler/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/feature-engineering-at-scale-for-healthcare-and-life-sciences-with-amazon-sagemaker-data-wrangler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T11:44:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-artificial-intelligenceaichips-market-2022-risk-analysis-macroeconomic-trends-market-research-report.md",
-      "title": "Artificial Intelligence(AI)Chips Market 2022, Risk Analysis & Macroeconomic Trends Market Research Report",
-      "excerpt": "The global Artificial Intelligence(AI)Chips market size is projected to reach multi million by 2028, in comparision to 2021, at unexpected CAGR during 2022-2028 (Ask for Sample Report). The robust analysis of the Artificial Intelligence(AI)Chips is structured using a combination of primary and secondary factors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligenceaichips-market-2022-risk-analysis-macroeconomic-trends-market-research-report-2022-07-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligenceaichips-market-2022-risk-analysis-macroeconomic-trends-market-research-report-2022-07-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-the-role-of-ai-ethics-in-network-monitoring.md",
-      "title": "The Role of AI Ethics in Network Monitoring",
-      "excerpt": "While AI can deliver new levels of visibility and problem solving for network monitoring, pressing ethical considerations must be addressed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/networking/ai-ethics-network-monitoring/",
-      "originalUrl": "https://www.eweek.com/networking/ai-ethics-network-monitoring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-liberty-lending-is-now-reach-financial.md",
-      "title": "Liberty Lending Is Now Reach Financial",
-      "excerpt": "Company also closes its 4th securitization, surpasses $1 billion of loans facilitated on its platform, and announces Daniel Tilipman as Chief",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/liberty-lending-is-now-reach-financial-1031573596",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/liberty-lending-is-now-reach-financial-1031573596",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-artificial-intelligence-in-the-education-sector-market-global-industry-analysis-size-share-growth-trends-and-forecast-2022-to-2028.md",
-      "title": "Artificial Intelligence in the Education Sector market - Global Industry analysis, size, share, Growth, Trends, and Forecast 2022 To 2028.",
-      "excerpt": "Pre and Post Covid is covered and Report Customization is available. As per the updated \"Artificial Intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022-to-2028-2022-07-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022-to-2028-2022-07-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     }
   ],

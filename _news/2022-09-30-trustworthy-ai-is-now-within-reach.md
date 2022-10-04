@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "White House AI Bill of Rights lacks specific recommendations for AI rules"
+    excerpt: "The document unveiled today by the White House Office of Science and Technology Policy is long on tech guidance, but short on restrictions for AI."
+    publishedDateTime: 2022-10-04T11:00:00Z
+    webUrl: "https://www.protocol.com/policy/ostp-ai-bill-of-rights"
+    type: article
+    provider:
+      name: Protocol
+      domain: protocol.com
+    quality: 18
 
 secured: "zp60SUbx+c5epHWaL21XvDQwHeQABAQeFcpJds5EO9Fyzh/6e0HK5TOMTY3Q6E+anuG77bssZ4NOU9lbfsaz6hLknf6E+dm+b7cMhnv46BTXVAjYbyWdAX9IyYvgiqxtWVvU13c4pLktwQarRNONOlbq1N+uWHRpWK0ds7cKQH7W8o4+NGU/LDcT781FZzeUeH1MnzIw0BQ0t5+7PgDZUeXTidt+RY0DlH1nUPmKXx/8FpZf7AhZcSv6RMztsq2lajcouCgLymkMzd1FWcX4xv6q3ovIBKusT2rOd2+WMXbJSGv8iveaHeV/aRfEomXPLMQqQ5gcGExTYOlLK94lILe2UhCeo+1R5XmCRZ7wuSVQgDLjC5JsNwvVAhDU+OcDmFEkLfLYAQK4tYehibueM1qSjoWTgglORFjBPL4525omv2FIKw1trxxCe2zLUl5RvMRrBlvV4L7+iRA1lqq9vHuQKZem5YBmr9VFh7I0FnYqLD05ZDPSV05t9mL5i97w3ibawSK8+27qPN4TWKqO0g==;XigXowxcdCRsUtI5w6bVWw=="
 ---

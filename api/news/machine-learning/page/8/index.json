@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-08-04-how-analog-ai-hardware-may-one-day-reduce-costs-and-carbon-emissions.md",
+      "title": "How analog AI hardware may one day reduce costs and carbon emissions",
+      "excerpt": "This is a type of artificial neural network in which physical analog hardware is used to emulate neurons as opposed to software-based approaches. “One of the obvious benefits of using analog ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/how-analog-ai-hardware-may-one-day-reduce-costs-and-carbon-emissions/",
+      "originalUrl": "https://venturebeat.com/business/how-analog-ai-hardware-may-one-day-reduce-costs-and-carbon-emissions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1396534464.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/business/how-analog-ai-hardware-may-one-day-reduce-costs-and-carbon-emissions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/how-analog-ai-hardware-may-one-day-reduce-costs-and-carbon-emissions/amp/",
+      "publishedDateTime": "2022-08-03T13:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-04-neural-networks-and-ghost-electrons-accurately-reconstruct-behavior-of-quantum-systems.md",
       "title": "Neural networks and 'ghost' electrons accurately reconstruct behavior of quantum systems",
       "excerpt": "Physicists are (temporarily) augmenting reality to crack the code of quantum systems. Predicting the properties of a molecule or material requires calculating the collective behavior of its electrons.",
@@ -1372,58 +1424,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-how-to-build-ai-data-engines-that-use-the-right-data-at-the-right-time.md",
-      "title": "How to build AI data engines that use the right data at the right time",
-      "excerpt": "Data is then fed into neural networks, the intention being that ... when it comes to iteration cycles for developing artificial intelligence (AI) systems. Across 90% of enterprises, it can take ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/26/building-ai-data-engines-that-utilize-the-right-data-at-the-right-project-lifecycle-stage/",
-      "originalUrl": "https://venturebeat.com/2022/07/26/building-ai-data-engines-that-utilize-the-right-data-at-the-right-project-lifecycle-stage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/Labelbox.jpg?w=1200&strip=all",
-          "width": 1105,
-          "height": 623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/26/building-ai-data-engines-that-utilize-the-right-data-at-the-right-project-lifecycle-stage/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/26/building-ai-data-engines-that-utilize-the-right-data-at-the-right-project-lifecycle-stage/amp/",
-      "publishedDateTime": "2022-07-26T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

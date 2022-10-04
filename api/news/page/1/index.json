@@ -2,6 +2,273 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-04-artificial-intelligence-used-to-better-monitor-maines-forests.md",
+      "title": "Artificial intelligence used to better monitor Maine's forests",
+      "excerpt": "Monitoring and measuring forest ecosystems are complex challenges because software, collection systems and computing environments require increasing amounts of energy. Now, the University of Maine's Wireless Sensor Networks laboratory,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-10-artificial-intelligence-maine-forests.html",
+      "originalUrl": "https://phys.org/news/2022-10-artificial-intelligence-maine-forests.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/maine-forest.jpg",
+          "width": 1800,
+          "height": 1362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-10-artificial-intelligence-maine-forests.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-artificial-intelligence-maine-forests.amp",
+      "publishedDateTime": "2022-10-04T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-meta-seeks-to-accelerate-ai-inference-with-open-source-aitemplate.md",
+      "title": "Meta seeks to accelerate AI inference with open-source AITemplate",
+      "excerpt": "Meta is open sourcing its AITemplate technology that enables AI inference to run across multiple hardware vendors, with the claim of better performance.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/meta-seeks-to-accelerate-ai-inference-with-open-source-aitemplate/",
+      "originalUrl": "https://venturebeat.com/ai/meta-seeks-to-accelerate-ai-inference-with-open-source-aitemplate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/04/screen-shot-2017-04-18-at-10-04-14-am.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/meta-seeks-to-accelerate-ai-inference-with-open-source-aitemplate/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/meta-seeks-to-accelerate-ai-inference-with-open-source-aitemplate/amp/",
+      "publishedDateTime": "2022-10-04T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-3-top-artificial-intelligence-stocks-to-buy-in-october.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in October",
+      "excerpt": "The global artificial intelligence (AI) market is poised to grow into a $1.4 trillion opportunity by 2029, up from around $387 billion now. That's an eye-popping number, so how can investors tap into AI's huge potential?",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-october",
+      "originalUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-october",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-october?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-october?amp",
+      "publishedDateTime": "2022-10-04T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-eight-principles-to-improve-the-effectiveness-of-automation-endeavors.md",
+      "title": "Eight Principles To Improve The Effectiveness Of Automation Endeavors",
+      "excerpt": "With machine learning and natural language processing, the techniques and technologies for process mining and discovery and myriad low-code/no-code platforms, enterprise automation is entering an exciting era of possibilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/04/eight-principles-to-improve-the-effectiveness-of-automation-endeavors/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/04/eight-principles-to-improve-the-effectiveness-of-automation-endeavors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62d5664154e050ad879139f3/0x0.jpg?format=jpg&crop=1680,945,x0,y202,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/04/eight-principles-to-improve-the-effectiveness-of-automation-endeavors/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/04/eight-principles-to-improve-the-effectiveness-of-automation-endeavors/amp/",
+      "publishedDateTime": "2022-10-04T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-idtechex-asks-if-teslas-humanoid-robot-optimus-will-really-be-able-to-serve-people.md",
+      "title": "IDTechEx Asks if Tesla's Humanoid Robot \"Optimus\" Will Really Be Able to Serve People",
+      "excerpt": "Tesla CEO Elon Musk unveiled its \"over-hyped\" humanoid robot \"Optimus\" at the electric vehicle maker's \"AI Day\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/10/n29136946/idtechex-asks-if-teslas-humanoid-robot-optimus-will-really-be-able-to-serve-people",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/n29136946/idtechex-asks-if-teslas-humanoid-robot-optimus-will-really-be-able-to-serve-people",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1913841/IDTechEx_Service_Robots.jpg",
+          "width": 400,
+          "height": 228,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29136946",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29136946",
+      "publishedDateTime": "2022-10-04T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-meta-unveils-ai-tool-that-creates-gif-like-videos-from-text-prompts.md",
+      "title": "Meta unveils AI tool that creates GIF-like videos from text prompts",
+      "excerpt": "Facebook’s parent company released a slew of short videos based on text prompts, building on the recent developments in text-to-image artificial intelligence creations. The videos are created by an AI that learns what the world looks like from text and image data that is paired up.",
+      "sourceUrl": null,
+      "webUrl": "https://www.euronews.com/next/2022/10/04/meta-unveils-ai-tool-that-creates-gif-like-videos-from-text-prompts",
+      "originalUrl": "https://www.euronews.com/next/2022/10/04/meta-unveils-ai-tool-that-creates-gif-like-videos-from-text-prompts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/stories/07/08/34/06/1000x563_cmsv2_0b7f99dd-8476-535b-ad97-ef7a34a5cb31-7083406.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.euronews.com/next/amp/2022/10/04/meta-unveils-ai-tool-that-creates-gif-like-videos-from-text-prompts",
+      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/10/04/meta-unveils-ai-tool-that-creates-gif-like-videos-from-text-prompts",
+      "publishedDateTime": "2022-10-04T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-techstars-ceo-on-the-future-of-fintech.md",
       "title": "TechStars CEO On The Future Of FinTech",
       "excerpt": "Meeting up with TechStars CEO Maëlle Gavet at the Collision conference in Toronto. Here’s what she is excited about in financial technology.",
@@ -62,7 +329,7 @@
       "originalUrl": "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -157,7 +424,7 @@
       "originalUrl": "https://www.provideocoalition.com/artificial-intelligence-in-video-production/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -189,7 +456,8 @@
       "topics": [
         "Computer Vision",
         "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "Machine Learning"
       ]
     },
     {
@@ -244,7 +512,7 @@
       "originalUrl": "https://www.cnet.com/tech/services-and-software/speech-accessibility-project-aims-to-make-voice-recognition-more-inclusive/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -296,7 +564,7 @@
       "originalUrl": "https://www.wired.com/story/elon-musks-half-baked-robot-is-a-clunky-first-step/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -401,7 +669,7 @@
       "originalUrl": "https://www.forbes.com/sites/tedladd/2022/10/03/how-the-innovators-brain-works/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -638,48 +906,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-03-get-ready-for-the-next-generation-of-ai.md",
-      "title": "Get ready for the next generation of AI",
-      "excerpt": "Video, an AI that generates five-second videos from text prompts. Built on open-source data sets, Make-A-Video lets you type in a string of words, like “A dog wearing a superhero outfit with a red cape flying through the sky,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/10/03/1060561/get-ready-for-the-next-generation-of-ai/",
-      "originalUrl": "https://www.technologyreview.com/2022/10/03/1060561/get-ready-for-the-next-generation-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/09/dog-gif.gif?w=512",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/10/03/1060561/get-ready-for-the-next-generation-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/10/03/1060561/get-ready-for-the-next-generation-of-ai/amp/",
-      "publishedDateTime": "2022-10-03T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-03-mlgt-professor-earns-nsf-career-award-for-computer-vision-and-ai-research.md",
       "title": "ML@GT Professor Earns NSF CAREER Award for Computer Vision and AI Research",
       "excerpt": "In a self-driving vehicle, cameras are stationed on all sides of the body, while an embedded AI system scans and processes the incoming data stream to continuously inform itself of appropriate actions to take.",
@@ -732,7 +958,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/03/three-reasons-why-artificial-intelligence-wins-with-specialization/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -879,7 +1105,7 @@
       "originalUrl": "https://www.reuters.com/technology/elon-musk-set-showcase-teslas-humanoid-robot-after-delay-2022-09-30/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -974,241 +1200,6 @@
         "AI",
         "AI in Autos",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-10-02-parfait-is-here-to-revoluntionize-the-wig-world-with-artificial-intelligence.md",
-      "title": "Parfait Is Here To Revoluntionize The Wig World With Artificial Intelligence",
-      "excerpt": "Four Black women in tech have come together to create Parfait, a startup that customizes wigs using artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://madamenoire.com/1323782/gorgeous-wigs/",
-      "originalUrl": "https://madamenoire.com/1323782/gorgeous-wigs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://madamenoire.com/wp-content/uploads/sites/9/2022/09/16645934693721-rotated.jpg?w=311&strip=all&quality=80",
-          "width": 311,
-          "height": 414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://madamenoire.com/1323782/gorgeous-wigs/amp/",
-      "cdnAmpWebUrl": "https://madamenoire-com.cdn.ampproject.org/c/s/madamenoire.com/1323782/gorgeous-wigs/amp/",
-      "publishedDateTime": "2022-10-02T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MadameNoire",
-        "domain": "madamenoire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-02-self-taught-ai-may-have-a-lot-in-common-with-the-human-brain.md",
-      "title": "Self-Taught AI May Have a Lot in Common With the Human Brain",
-      "excerpt": "Neural networks can use self-supervised learning to figure out what matters. This process might be what helps humans do the same.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/self-taught-ai-may-have-a-lot-in-common-with-the-human-brain/",
-      "originalUrl": "https://www.wired.com/story/self-taught-ai-may-have-a-lot-in-common-with-the-human-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6337428ca546819a4885f46c/191:100/w_1280,c_limit/Quanta_Self_learning_AI_2880x1620_Lede-scaled.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-02T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-ai-experts-pan-teslas-humanoid-robot-reveal-next-level-cringeworthy.md",
-      "title": "AI experts pan Tesla’s humanoid robot reveal: ‘next level cringeworthy’",
-      "excerpt": "\"None of this is cutting edge,\" tweeted robotics expert Cynthia Yeung. \"Hire some PhDs and go to some robotics conferences Tesla.\"",
-      "sourceUrl": null,
-      "webUrl": "https://globalnews.ca/news/9169403/tesla-robot-humanoid-optimus-elon-musk/",
-      "originalUrl": "https://globalnews.ca/news/9169403/tesla-robot-humanoid-optimus-elon-musk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://globalnews.ca/news/9169403/tesla-robot-humanoid-optimus-elon-musk/amp/",
-      "cdnAmpWebUrl": "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/9169403/tesla-robot-humanoid-optimus-elon-musk/amp/",
-      "publishedDateTime": "2022-10-01T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global News",
-        "domain": "globalnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-openais-dalle-2-may-mean-we-never-need-stock-photos-again.md",
-      "title": "OpenAI's Dall•E 2 may mean we never need stock photos again",
-      "excerpt": "Typing a sentence about a scenario, such as an anxious Windows user seated at their desk seeing a patch warning, could give you just the image you need to accompany an article.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/openais-dall-e-2-may-mean-we-never-need-stock-photos-again/",
-      "originalUrl": "https://www.zdnet.com/article/openais-dall-e-2-may-mean-we-never-need-stock-photos-again/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/54b762c082e6edd74534c9ca1b33d0f2fa1cf052/2022/10/01/4dbd71ee-49de-4b9b-a78e-261b4d2c728c/dall-e-person-explaining-to-coworkers.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/openais-dall-e-2-may-mean-we-never-need-stock-photos-again/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openais-dall-e-2-may-mean-we-never-need-stock-photos-again/",
-      "publishedDateTime": "2022-10-01T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-the-problem-with-mental-health-bots.md",
-      "title": "The Problem With Mental Health Bots",
-      "excerpt": "With human therapists in short supply, AI chatbots are trying to plug the gap—but it’s not clear how well they work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/mental-health-chatbots/",
-      "originalUrl": "https://www.wired.com/story/mental-health-chatbots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/632e615a74ce5b82a68ef375/master/pass/Bot_BotTeam.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/mental-health-chatbots/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/mental-health-chatbots/amp",
-      "publishedDateTime": "2022-10-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

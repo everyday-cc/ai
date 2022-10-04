@@ -2,6 +2,439 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2022-08-04-microsoft-becomes-australian-space-hubs-first-constellation-partner.md",
+      "title": "Microsoft becomes Australian space hub's first 'Constellation Partner'",
+      "excerpt": "As part of the agreement, the tech giant will provide hub members with Microsoft Azure Space engineers as they build products for commercial use",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/cloud/368734/microsoft-becomes-first-constellation-partner-at-australia-space-hub",
+      "originalUrl": "https://www.itpro.co.uk/cloud/368734/microsoft-becomes-first-constellation-partner-at-australia-space-hub",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816538/itpro/2018/12/musktomarsshutterstock_1047890749.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-veritone-creates-ai-driven-revenue-opportunities-for-enterprise-media-entertainment-companies-on-aws.md",
+      "title": "Veritone Creates AI-Driven Revenue Opportunities for Enterprise Media & Entertainment Companies on AWS",
+      "excerpt": "a hyper-expansive enterprise artificial intelligence (AI) platform, has announced an extension of its work with Amazon (NASDAQ: AMZN) and Amazon Web Services (AWS) to support its Media ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/veritone-creates-ai-driven-revenue-opportunities-for-enterprise-media-entertainment-companies-on-aws-2022-08-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/veritone-creates-ai-driven-revenue-opportunities-for-enterprise-media-entertainment-companies-on-aws-2022-08-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-demand-for-inspection-robots-expected-to-spike-by-2023.md",
+      "title": "Demand for Inspection Robots Expected to Spike by 2023",
+      "excerpt": "Shenhao speculates that inspection robots will gain popularity in three major application fields: energy, rail and power stations.",
+      "sourceUrl": null,
+      "webUrl": "https://railway-news.com/demand-for-inspection-robots-expected-to-spike-by-2023/",
+      "originalUrl": "https://railway-news.com/demand-for-inspection-robots-expected-to-spike-by-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://railway-news.com/wp-content/uploads/2022/08/Shenhao-Inspection-Robots.png",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "railway-news",
+        "domain": "railway-news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-cutting-through-the-web3-hype-ai-in-the-decentralized-web.md",
+      "title": "Cutting Through The Web3 Hype: AI In The Decentralized Web",
+      "excerpt": "Web3 is a high-level concept that describes a future version of the internet in which power and benefits are more equitably shared by the virtue of decentralization. The co",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/04/cutting-through-the-web3-hype-ai-in-the-decentralized-web/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/04/cutting-through-the-web3-hype-ai-in-the-decentralized-web/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62b9d358b54b5849577a1f0b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/04/cutting-through-the-web3-hype-ai-in-the-decentralized-web/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/04/cutting-through-the-web3-hype-ai-in-the-decentralized-web/amp/",
+      "publishedDateTime": "2022-08-04T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-drug-discovery-is-about-to-get-faster-thank-ai.md",
+      "title": "Drug Discovery Is About to Get Faster. Thank AI.",
+      "excerpt": "An advanced machine-learning program from Alphabet’s DeepMind has revealed 200 million proteins — pictures that can speed the search for new medicines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/drug-discovery-is-about-to-get-faster-thank-ai/2022/08/04/edbe6562-1406-11ed-8482-06c1c84ce8f2_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/drug-discovery-is-about-to-get-faster-thank-ai/2022/08/04/edbe6562-1406-11ed-8482-06c1c84ce8f2_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-machine-learning-as-a-service-mlaas-market-industry-research-analysis-and-forecast-2022-to-2030.md",
+      "title": "Machine Learning as a Service (MLaaS) Market Industry Research Analysis and Forecast 2022 to 2030",
+      "excerpt": "Machine Learning as a Service (MLaaS) Market Size, Share & Trends Analysis - Global Opportunity Analysis and Industry Forecast 2030, Covid 19 Outbreak Impact research report added by Report Ocean, is an in-depth analysis of market characteristics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-industry-research-analysis-and-forecast-2022-to-2030-2022-08-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-industry-research-analysis-and-forecast-2022-to-2030-2022-08-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T02:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-natural-language-processing-for-finance-market-recent-trends-future-growth-high-demand-and-forecasts-2030.md",
+      "title": "Natural Language Processing For Finance Market Recent Trends, Future Growth, High Demand and Forecasts 2030",
+      "excerpt": "The new report titled “Natural Language Processing For Finance Market offer by Key Players, Types, Applications, Countries, Market Size, Forecast to 2030”offered by Market Research ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-for-finance-market-recent-trends-future-growth-high-demand-and-forecasts-2030",
+      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-for-finance-market-recent-trends-future-growth-high-demand-and-forecasts-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/08/Sydney-outbreak-AFP-1K-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T02:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-face-recognition-systems-market-growth-2022-global-industry-demand-share-top-players-industry-size-future-growth-by-2025.md",
+      "title": "Face Recognition Systems Market Growth 2022, Global Industry Demand, Share, Top Players, Industry Size, Future Growth by 2025",
+      "excerpt": "Face Recognition Systems Market Growth 2022-2025 Global Industry Research report presents an in-depth analysis of the Face Recognition Systems market size, growth, share, segments, manufacturers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/face-recognition-systems-market-growth-2022-global-industry-demand-share-top-players-industry-size-future-growth-by-2025",
+      "originalUrl": "https://www.digitaljournal.com/pr/face-recognition-systems-market-growth-2022-global-industry-demand-share-top-players-industry-size-future-growth-by-2025",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/8ee3ab090e6da4d9cb659343d876cec7c949a502-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T02:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-face-recognition-software-market-expectations-growth-trends-highlighted-until-2027.md",
+      "title": "Face Recognition Software Market Expectations & Growth, Trends Highlighted Until 2027",
+      "excerpt": "The Global Face Recognition Software market 2022-2028 report studies vital factors about the Face Recognition Software that are essential to be understood by existing as well as latest market players.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-software-market-expectations-growth-trends-highlighted-until-2027-2022-08-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-software-market-expectations-growth-trends-highlighted-until-2027-2022-08-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-04-ai-the-ai-times-deepmind-cracks-biologys-biggest-problem.md",
       "title": "A|I: The AI Times – DeepMind cracks biology’s biggest problem",
       "excerpt": "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe.",
@@ -698,422 +1131,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-how-analog-ai-hardware-may-one-day-reduce-costs-and-carbon-emissions.md",
-      "title": "How analog AI hardware may one day reduce costs and carbon emissions",
-      "excerpt": "This is a type of artificial neural network in which physical analog hardware is used to emulate neurons as opposed to software-based approaches. “One of the obvious benefits of using analog ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/how-analog-ai-hardware-may-one-day-reduce-costs-and-carbon-emissions/",
-      "originalUrl": "https://venturebeat.com/business/how-analog-ai-hardware-may-one-day-reduce-costs-and-carbon-emissions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1396534464.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/how-analog-ai-hardware-may-one-day-reduce-costs-and-carbon-emissions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/how-analog-ai-hardware-may-one-day-reduce-costs-and-carbon-emissions/amp/",
-      "publishedDateTime": "2022-08-03T13:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-active-social-life-may-create-cognitive-buffer-against-alzheimers-study-suggests.md",
-      "title": "Active social life may create cognitive buffer against Alzheimer's, study suggests",
-      "excerpt": "Advertisement As the basis of the study, researchers from the United Kingdom explored the idea that genetic and \"life course\" factors may help create a so-called \"cognitive reserve\" that provides ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Health_News/2022/08/03/social-life-cognitive-decline-study/4611659541537/",
-      "originalUrl": "https://www.upi.com/Health_News/2022/08/03/social-life-cognitive-decline-study/4611659541537/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/4611659541537/2022/1/9a254516326158d3d5bbaa2c2e5b48b2/v1.5/Active-social-life-may-create-cognitive-buffer-against-Alzheimers-study-suggests.jpg?lg=5",
-          "width": 900,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Health_News/2022/08/03/social-life-cognitive-decline-study/4611659541537/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2022/08/03/social-life-cognitive-decline-study/4611659541537/",
-      "publishedDateTime": "2022-08-03T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-education-job-and-social-life-may-help-protect-brain-from-cognitive-decline.md",
-      "title": "Education, job, and social life may help protect brain from cognitive decline",
-      "excerpt": "Researchers looked at genetic and life course factors that may help create a 'cognitive reserve' that provides a buffer against the disease. Why do some people with amyloid plaques in their brains ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/08/220803161028.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/08/220803161028.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T13:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-neural-networks-and-ghost-electrons-accurately-reconstruct-behavior-of-quantum-systems.md",
-      "title": "Neural networks and 'ghost' electrons accurately reconstruct behavior of quantum systems",
-      "excerpt": "Physicists are (temporarily) augmenting reality to crack the code of quantum systems. Predicting the properties of a molecule or material requires calculating the collective behavior of its electrons.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-08-neural-networks-ghost-electrons-accurately.html",
-      "originalUrl": "https://phys.org/news/2022-08-neural-networks-ghost-electrons-accurately.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/neural-networks-and-gh.jpg",
-          "width": 1391,
-          "height": 1075,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-08-neural-networks-ghost-electrons-accurately.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-neural-networks-ghost-electrons-accurately.amp",
-      "publishedDateTime": "2022-08-03T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-mild-exercise-halts-cognitive-decline-in-people-at-risk-of-alzheimers.md",
-      "title": "Mild exercise halts cognitive decline in people at risk of Alzheimer's",
-      "excerpt": "For older people with mild cognitive impairment, just 2 hours of low-intensity exercise a week may be enough to halt further cognitive decline. Mild cognitive impairment (MCI) refers to problems ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2332198-mild-exercise-halts-cognitive-decline-in-people-at-risk-of-alzheimers/",
-      "originalUrl": "https://www.newscientist.com/article/2332198-mild-exercise-halts-cognitive-decline-in-people-at-risk-of-alzheimers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2022/08/03210657/SEI_117727557.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-things-to-know-before-buying-an-external-gpu-for-your-pc.md",
-      "title": "Things to know before buying an external GPU for your PC",
-      "excerpt": "A dock is required for everything to work and run smoothly. For example, the GPU is connected to the dock via a PCIe port, and then the dock connects to the computer via a USB-C or Thunderbolt cable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thewindowsclub.com/things-to-know-before-buying-an-external-gpu-for-your-pc",
-      "originalUrl": "https://www.thewindowsclub.com/things-to-know-before-buying-an-external-gpu-for-your-pc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thewindowsclub.com/wp-content/uploads/2022/07/eGPU-Teardown.jpg",
-          "width": 700,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TWCN Tech News",
-        "domain": "thewindowsclub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-ai-startup-cerebras-celebrated-for-chip-triumph-where-others-tried-and-failed.md",
-      "title": "AI startup Cerebras celebrated for chip triumph where others tried and failed",
-      "excerpt": "Company honored by Computer History Museum for cracking the code of making giant chips, with 'stunning' implications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-startup-cerebras-celebrated-for-chip-triumph-where-others-tried-and-failed/",
-      "originalUrl": "https://www.zdnet.com/article/ai-startup-cerebras-celebrated-for-chip-triumph-where-others-tried-and-failed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/d30b530eee72f472613d2ea609e7e9ae6d56d2fb/2022/08/03/f1b7abb3-e9d3-469e-833d-7c922ddc4e7a/cerebras-at-computer-history-museumrrl-1150-edit12.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 759,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-cerebras-celebrated-for-chip-triumph-where-others-tried-and-failed/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-cerebras-celebrated-for-chip-triumph-where-others-tried-and-failed/",
-      "publishedDateTime": "2022-08-03T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-global-artificial-intelligence-in-healthcare-market-demand-analysis-opportunity-outlook-2027.md",
-      "title": "Global Artificial Intelligence In Healthcare Market: Demand Analysis & Opportunity Outlook 2027",
-      "excerpt": "Recent report published by research nester titled“Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027” delivers detailed overview of the global ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104639143/Global-Artificial-Intelligence-In-Healthcare-Market-Demand-Analysis-Opportunity-Outlook-2027",
-      "originalUrl": "https://menafn.com/1104639143/Global-Artificial-Intelligence-In-Healthcare-Market-Demand-Analysis-Opportunity-Outlook-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?466187",
-          "width": 443,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-amazon-comprehend-announces-lower-annotation-limits-for-custom-entity-recognition.md",
-      "title": "Amazon Comprehend announces lower annotation limits for custom entity recognition",
-      "excerpt": "Amazon Comprehend is a natural-language processing (NLP) service you can use to automatically extract entities, key phrases, language, sentiments, and other insights from documents. For example, you can immediately start detecting entities such as people, places, commercial items, dates, and quantities",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-announces-lower-annotation-limits-for-custom-entity-recognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-announces-lower-annotation-limits-for-custom-entity-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/03/lower-annotation-limits-comprehend.jpg",
-          "width": 1119,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T13:03:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

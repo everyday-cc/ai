@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-04-idtechex-asks-if-teslas-humanoid-robot-optimus-will-really-be-able-to-serve-people.md",
+      "title": "IDTechEx Asks if Tesla's Humanoid Robot \"Optimus\" Will Really Be Able to Serve People",
+      "excerpt": "Tesla CEO Elon Musk unveiled its \"over-hyped\" humanoid robot \"Optimus\" at the electric vehicle maker's \"AI Day\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/10/n29136946/idtechex-asks-if-teslas-humanoid-robot-optimus-will-really-be-able-to-serve-people",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/n29136946/idtechex-asks-if-teslas-humanoid-robot-optimus-will-really-be-able-to-serve-people",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1913841/IDTechEx_Service_Robots.jpg",
+          "width": 400,
+          "height": 228,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29136946",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29136946",
+      "publishedDateTime": "2022-10-04T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-artificial-intelligence-in-video-production.md",
       "title": "Artificial Intelligence in Video Production",
       "excerpt": "Introduction  Artificial Intelligence has promised so much for so long, and in many ways, it’s been less than perfect. Siri doesn’t quite understand what you’re asking; Google Translate can’t yet seamlessly bridge the gap between languages,",
@@ -10,7 +55,7 @@
       "originalUrl": "https://www.provideocoalition.com/artificial-intelligence-in-video-production/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -42,7 +87,8 @@
       "topics": [
         "Computer Vision",
         "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "Machine Learning"
       ]
     },
     {
@@ -54,7 +100,7 @@
       "originalUrl": "https://www.forbes.com/sites/tedladd/2022/10/03/how-the-innovators-brain-works/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -255,7 +301,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-2022-business-overview-new-trends-growth-analysis-and-forecast-to-2030-2022-09-30",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -708,6 +754,49 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-09-26T23:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-image-recognition-in-retail-market-to-show-impressive-growth-of-1843-cagr-during-the-period-2022-2027-98-report-pages.md",
+      "title": "Image Recognition in Retail Market to show impressive growth of 18.43% CAGR during the period 2022-2027 | 98 Report Pages",
+      "excerpt": "Sep 27, 2022 (The Expresswire) -- [98 Report Pages] Image Recognition in Retail market size was valued at USD 1456.96 million in 2021 and is expected to expand at a CAGR of 18.43% during the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-to-show-impressive-growth-of-1843-cagr-during-the-period-2022-2027-98-report-pages-2022-09-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-to-show-impressive-growth-of-1843-cagr-during-the-period-2022-2027-98-report-pages-2022-09-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-26T19:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -1297,8 +1386,8 @@
       "title": "Voxel51 Raises $12.5M Series A to Bring Transparency and Clarity to Computer Vision Data",
       "excerpt": "The recent explosion of computer vision data—there are an estimated 45 billion cameras in the world today—creates a tremendous opportunity for machine learning products, but only if it can be ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/voxel51-raises-12-5m-series-a-to-bring-transparency-and-clarity-to-computer-vision-data-1031757242",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/voxel51-raises-12-5m-series-a-to-bring-transparency-and-clarity-to-computer-vision-data-1031757242",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/n28951618/voxel51-raises-12-5m-series-a-to-bring-transparency-and-clarity-to-computer-vision-data",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/n28951618/voxel51-raises-12-5m-series-a-to-bring-transparency-and-clarity-to-computer-vision-data",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1306,127 +1395,14 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T09:40:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28951618",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28951618",
+      "publishedDateTime": "2022-09-21T09:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-improving-accuracy-of-computer-vision-models-voxel51-raises-125m.md",
-      "title": "Improving accuracy of computer vision models, Voxel51 raises $12.5M",
-      "excerpt": "Computer vision startup, Voxel51, helping data scientists ensure the accuracy of datasets used for computer vision, raises $12.5M series A.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/improving-accuracy-of-computer-vision-models-voxel51-raises-12-5m/",
-      "originalUrl": "https://venturebeat.com/ai/improving-accuracy-of-computer-vision-models-voxel51-raises-12-5m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/06/computer-vision-e1663772711547.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/improving-accuracy-of-computer-vision-models-voxel51-raises-12-5m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/improving-accuracy-of-computer-vision-models-voxel51-raises-12-5m/amp/",
-      "publishedDateTime": "2022-09-21T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-facial-recognition-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis.md",
-      "title": "Facial Recognition Market Size Is Likely to Experience a Tremendous Growth by 2031 Covid-19 Analysis",
-      "excerpt": "A research report on Facial Recognition Market was added by SDKI in its database which discusses the product as well",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis-2022-09-21-91975832",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis-2022-09-21-91975832",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

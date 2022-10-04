@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-04-idtechex-asks-if-teslas-humanoid-robot-optimus-will-really-be-able-to-serve-people.md",
+      "title": "IDTechEx Asks if Tesla's Humanoid Robot \"Optimus\" Will Really Be Able to Serve People",
+      "excerpt": "Tesla CEO Elon Musk unveiled its \"over-hyped\" humanoid robot \"Optimus\" at the electric vehicle maker's \"AI Day\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/10/n29136946/idtechex-asks-if-teslas-humanoid-robot-optimus-will-really-be-able-to-serve-people",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/n29136946/idtechex-asks-if-teslas-humanoid-robot-optimus-will-really-be-able-to-serve-people",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1913841/IDTechEx_Service_Robots.jpg",
+          "width": 400,
+          "height": 228,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29136946",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29136946",
+      "publishedDateTime": "2022-10-04T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-robot-that-makes-french-fries-faster-than-humans-developed-in-us.md",
       "title": "Robot That Makes French Fries \"Faster\" Than Humans Developed In US",
       "excerpt": "Miso Robotics Inc in Pasadena has started rolling out its Flippy 2 robot, which automates the process of deep frying potatoes, onions and other foods.",
@@ -10,7 +55,7 @@
       "originalUrl": "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -53,7 +98,7 @@
       "originalUrl": "https://www.provideocoalition.com/artificial-intelligence-in-video-production/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -85,7 +130,8 @@
       "topics": [
         "Computer Vision",
         "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "Machine Learning"
       ]
     },
     {
@@ -97,7 +143,7 @@
       "originalUrl": "https://www.wired.com/story/elon-musks-half-baked-robot-is-a-clunky-first-step/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -149,7 +195,7 @@
       "originalUrl": "https://www.reuters.com/technology/elon-musk-set-showcase-teslas-humanoid-robot-after-delay-2022-09-30/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -368,7 +414,7 @@
       "originalUrl": "https://electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -421,7 +467,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 693,
+      "heat": 673,
       "tags": null,
       "images": [
         {
@@ -1393,50 +1439,6 @@
         "AI",
         "Machine Learning",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-global-agricultural-robots-market-report-2022-technological-advancements-in-iot-robotics-and-artificial-intelligence-accelerating-growth.md",
-      "title": "Global Agricultural Robots Market Report 2022: Technological Advancements In Iot, Robotics And Artificial Intelligence Accelerating Growth",
-      "excerpt": "The Global Agricultural Robots Market size valued to USD 7.57 billion in 2021, is expected to garner USD 35.93 billion by 2030, with a growing CAGR of 18.3% from 2022-2030. Agricultural Robots also known as Agribots,",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104907393/Global-Agricultural-Robots-Market-Report-2022-Technological-Advancements-In-Iot-Robotics-And-Artificial-Intelligence-Accelerating-Growth",
-      "originalUrl": "https://menafn.com/1104907393/Global-Agricultural-Robots-Market-Report-2022-Technological-Advancements-In-Iot-Robotics-And-Artificial-Intelligence-Accelerating-Growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?135394",
-          "width": 441,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T04:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

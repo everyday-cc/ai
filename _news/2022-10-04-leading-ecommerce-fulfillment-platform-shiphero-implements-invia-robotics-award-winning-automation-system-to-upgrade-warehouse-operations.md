@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-04T13:00:00Z
 originalUrl: "https://multichannelmerchant.com/press-releases/leading-ecommerce-fulfillment-platform-shiphero-implements-invia-robotics-award-winning-automation-system-to-upgrade-warehouse-operations/"
 webUrl: "https://multichannelmerchant.com/press-releases/leading-ecommerce-fulfillment-platform-shiphero-implements-invia-robotics-award-winning-automation-system-to-upgrade-warehouse-operations/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Multichannel Merchant

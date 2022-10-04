@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-03T12:37:00Z
 originalUrl: "https://news.crunchbase.com/ai-robotics/insect-food-legaltech-pet-lia/"
 webUrl: "https://news.crunchbase.com/ai-robotics/insect-food-legaltech-pet-lia/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: news.crunchbase

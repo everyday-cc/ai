@@ -47,19 +47,21 @@ related:
         width: 3000
         height: 1687
         isCached: true
-  - title: "White House unveils artificial intelligence 'Bill of Rights'"
-    excerpt: "The Blueprint for an AI Bill of Rights notably does not set out specific enforcement actions, but instead is intended as a White House call to action for the U.S. government to safeguard digital and civil rights in an AI-fueled world,"
-    publishedDateTime: 2022-10-04T11:27:00Z
-    webUrl: "https://www.chron.com/news/article/White-House-unveils-artificial-intelligence-Bill-17485423.php"
+  - title: "White House unveils artificial intelligence ‘Bill of Rights’"
+    excerpt: "The office said the white paper represents a major advance in the administration’s agenda to hold technology companies accountable."
+    publishedDateTime: 2022-10-04T12:10:00Z
+    webUrl: "https://www.ktre.com/2022/10/04/white-house-unveils-artificial-intelligence-bill-rights/"
+    ampWebUrl: "https://www.ktre.com/2022/10/04/white-house-unveils-artificial-intelligence-bill-rights/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ktre-com.cdn.ampproject.org/c/s/www.ktre.com/2022/10/04/white-house-unveils-artificial-intelligence-bill-rights/?outputType=amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 37
+      name: KTRE
+      domain: ktre.com
+    quality: 59
     images:
-      - url: "https://s.hdnux.com/photos/01/27/60/62/23006367/3/rawImage.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://gray-ktre-prod.cdn.arcpublishing.com/resizer/h5cMAJIlbMJIMtBaK270zREXMow=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/537JKYZ63VGR3NLS4Z7TS7LMDY.jpg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "t1mIPm4YMl13ulQGPiDzus4JqjGSWzgVWMLbsDdWL3kJ7h8iRh25Tow4kUEU5Y2/VWy+/GrmZ60n9D+GGKqH7FcLHOqujbtxMLWCrS9FpawFuNv8G7bES7vYtBU+vDEZJv3c0glDUhCNP72N9Kr7UUamAkO2j+7hhNZdPm8BEqStZ3OBGv2JGnWA76hyFHTFhunKIrte3UOZ2OwnZL3DNlXzh8nDFncOLiA80mOvLoiU1/vuhm+jyYaHgIr8kiDgZz85zp1nvAtEHyQ5kmvaGiRIk3/9jDkczh9iHX1TSHFKdPoloMIi0ajZAVe6mGlz3OVSHZChHDQUKSroz+rSwqikXEeauW7h6f2gsutWYLv/MhvHgHSNgnz+e/aDimpw3JOtO6Eesa6RhUz0sv2D09/vkx6E//gLcW6+7KHkE0Yy5tvQyt3aJx35S4kF0cftUDnV1VgPOCYaQNQ+rgdIVVhKWgbFKSuuRZHUb27XAAxOr7AG0uMio48aOIGY8fVhEI/+9Pp5ZWKPOetU0teA/Q==;Ki+ySk3VY/Hc1waPpeN9gw=="

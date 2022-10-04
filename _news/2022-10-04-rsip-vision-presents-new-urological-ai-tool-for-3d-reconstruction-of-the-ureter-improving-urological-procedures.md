@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-04T13:25:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/rsip-vision-presents-new-urological-ai-tool-for-3d-reconstruction-of-the-ureter-improving-urological-procedures-1031781826"
 webUrl: "https://markets.businessinsider.com/news/stocks/rsip-vision-presents-new-urological-ai-tool-for-3d-reconstruction-of-the-ureter-improving-urological-procedures-1031781826"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: Business Insider

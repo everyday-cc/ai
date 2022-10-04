@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/speech-accessibility-project-ai
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/speech-accessibility-project-aims-to-make-voice-recognition-more-inclusive/"
 type: article
 quality: 87
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
     quality: 29
     images:
       - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/12/Siri-iOS-14.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Your Guide to Cognitive Rehabilitation"
-    excerpt: "Cognitive rehabilitation therapy refers to a group of treatments that help improve a person’s ability to think after a brain injury or illness that affects the brain. Cognitive rehab therapy ..."
-    publishedDateTime: 2022-09-29T20:05:00Z
-    webUrl: "https://www.healthline.com/health/mental-health/cognitive-rehabilitation"
-    type: article
-    provider:
-      name: Healthline
-      domain: healthline.com
-    quality: 24
-    images:
-      - url: "https://post.healthline.com/wp-content/uploads/2022/09/senior-female-on-computer-with-caregiver-1200-628-facebook-1200x628.jpg"
         width: 1200
         height: 628
         isCached: true

@@ -2,6 +2,382 @@
   "page": 174,
   "value": [
     {
+      "path": "_news/2022-05-21-digital-biomarkers-are-healthcares-next-frontier.md",
+      "title": "Digital biomarkers are healthcare’s next frontier",
+      "excerpt": "Sunny Kumar, MD, MBA is a partner at GSR Ventures, an early-stage venture capital firm focused on healthcare technology ... the sensor data is analyzed with artificial intelligence (AI) and ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/20/digital-biomarkers-are-healthcares-next-frontier/",
+      "originalUrl": "https://techcrunch.com/2022/05/20/digital-biomarkers-are-healthcares-next-frontier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-560115497.jpg?w=600",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-20T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-21-litigation-capital-to-finance-claim-against-google-deepmind-for-unlawful-use-of-medical-records.md",
+      "title": "Litigation Capital to finance claim against Google, DeepMind for unlawful use of medical records",
+      "excerpt": "said it has entered into a litigation finance agreement for a new High Court claim on behalf of up to 1.6mln individuals against Google and DeepMind Technologies for the unlawful use of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.proactiveinvestors.co.uk/companies/news/982280",
+      "originalUrl": "https://www.proactiveinvestors.co.uk/companies/news/982280",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-20T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactive Investors",
+        "domain": "proactiveinvestors.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-05-21-could-brands-like-tesla-lure-you-into-buying-a-driverless-car.md",
+      "title": "Could Brands Like Tesla Lure You Into Buying a Driverless Car?",
+      "excerpt": "Established and emerging manufacturers have embarked on a journey to produce the most reliable driverless cars to compete in a growing market. But people still don’t trust AVs are safe, despite potential benefits of fuel efficiency,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/",
+      "originalUrl": "https://www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/05/19/GettyImages-174038219.jpg?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/amp/",
+      "publishedDateTime": "2022-05-20T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo Australia",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-21-netflixs-love-death-robots-season-3-review-every-short-ranked-from-worst-to-best.md",
+      "title": "Netflix’s Love, Death & Robots Season 3 Review – Every Short Ranked From Worst To Best",
+      "excerpt": "Shaun Munro reviews season 3 of Love, Death & Robots… Netflix’s acclaimed animated anthology series Love, Death & Robots is back for its third season, and while this collection of nine episodes is likely the weakest of the bunch to date,",
+      "sourceUrl": null,
+      "webUrl": "https://www.flickeringmyth.com/2022/05/netflixs-love-death-robots-season-3-review-every-short-ranked-from-worst-to-best/",
+      "originalUrl": "https://www.flickeringmyth.com/2022/05/netflixs-love-death-robots-season-3-review-every-short-ranked-from-worst-to-best/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-20T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Flickeringmyth",
+        "domain": "flickeringmyth.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-21-ethics-in-the-ai-technology-and-information-age.md",
+      "title": "Ethics in the AI, Technology, and Information Age",
+      "excerpt": "Increasingly, technology, the Internet and social media are playing a major part in our lives. What should we think about the ethical issues that arise, such as the changing role of intelligent machines in this Information Age?",
+      "sourceUrl": null,
+      "webUrl": "https://www.amazon.co.uk/Ethics-AI-Technology-Information-Age-ebook/dp/B0B1SV58KF",
+      "originalUrl": "https://www.amazon.co.uk/Ethics-AI-Technology-Information-Age-ebook/dp/B0B1SV58KF",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images-eu.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405938116_.png",
+          "width": 350,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-20T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Amazon Associates UK",
+        "domain": "amazon.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-21-how-ai-can-facilitate-supply-chains.md",
+      "title": "How AI Can Facilitate Supply Chains",
+      "excerpt": "Here’s how artificial intelligence could play a crucial role in supply chain management, and whether it could be part of the sector’s future. Some people might associate artificial intelligence with robots and assume it’s limited to basic applications,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/how-ai-can-facilitate-supply-chains",
+      "originalUrl": "https://www.nasdaq.com/articles/how-ai-can-facilitate-supply-chains",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/how-ai-can-facilitate-supply-chains?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-ai-can-facilitate-supply-chains?amp",
+      "publishedDateTime": "2022-05-20T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-21-israeli-firm-hopes-ai-can-curb-drownings.md",
+      "title": "Israeli firm hopes AI can curb drownings",
+      "excerpt": "An Israeli city is testing whether an artificial intelligence programme that detects drowning threats can help save lives off its beaches.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-05-israeli-firm-ai-curb.html",
+      "originalUrl": "https://phys.org/news/2022-05-israeli-firm-ai-curb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/lifeguards-in-the-city.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-05-israeli-firm-ai-curb.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-israeli-firm-ai-curb.amp",
+      "publishedDateTime": "2022-05-20T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-21-every-crime-has-a-face-says-ukrainian-journalist-hunting-war-criminals.md",
+      "title": "Every Crime has a Face, Says Ukrainian Journalist Hunting War Criminals",
+      "excerpt": "Before the Russian Ukrainian journalist Dmitry Replyanchuk spent his days unearthing corruption, often among judges and law enforcement. Now the Kyiv-based journalist wh",
+      "sourceUrl": null,
+      "webUrl": "https://www.voanews.com/a/every-crime-has-a-face-says-ukrainian-journalist-hunting-war-criminals-/6582502.html",
+      "originalUrl": "https://www.voanews.com/a/every-crime-has-a-face-says-ukrainian-journalist-hunting-war-criminals-/6582502.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gdb.voanews.com/03190000-0aff-0242-b9d4-08da3a86af46_w1080_h608_s_b.png",
+          "width": 1080,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.voanews.com/amp/every-crime-has-a-face-says-ukrainian-journalist-hunting-war-criminals-/6582502.html",
+      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/every-crime-has-a-face-says-ukrainian-journalist-hunting-war-criminals-/6582502.html",
+      "publishedDateTime": "2022-05-20T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Voice of America",
+        "domain": "voanews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-20-jenny-jenny-who-can-zoom-turn-to-for-ai-based-training.md",
+      "title": "Jenny, Jenny, who can Zoom turn to for AI-based training?",
+      "excerpt": "Zoom deploys AI-generated avatars with conversational intelligence to onboard and train sales team members on CX and product knowledge.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/20/jenny-jenny-who-can-zoom-turn-to-for-ai-based-training/",
+      "originalUrl": "https://venturebeat.com/2022/05/20/jenny-jenny-who-can-zoom-turn-to-for-ai-based-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/0G1A7605_1-1-11-cl.jpg?fit=800%2C534&strip=all",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/20/jenny-jenny-who-can-zoom-turn-to-for-ai-based-training/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/20/jenny-jenny-who-can-zoom-turn-to-for-ai-based-training/amp/",
+      "publishedDateTime": "2022-05-20T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-20-why-ai-and-autonomous-response-are-crucial-for-cybersecurity-vb-on-demand.md",
       "title": "Why AI and autonomous response are crucial for cybersecurity (VB On-Demand)",
       "excerpt": "Learn how two organizations use a continuous AI feedback loop to identify vulnerabilities and harden defenses.",
@@ -728,392 +1104,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-love-death-robots-netflix-drops-surprise-season-3-episode-rosario-dawson-joel-mchale-among-voice-cast-watch-trailer-update.md",
-      "title": "‘Love, Death & Robots’: Netflix Drops Surprise Season 3 Episode, Rosario Dawson, Joel McHale Among Voice Cast, Watch Trailer — Update",
-      "excerpt": "Rosario Dawson, Joel McHale, Joe Manganiello, Christian Serratos, Elodie Young and more are among the stellar voice cast for Season 3 of Love, Death & Robots, announced",
-      "sourceUrl": null,
-      "webUrl": "https://deadline.com/2022/05/love-death-robots-netflix-surprise-season-3-episode-voice-cast-trailer-1235027669/",
-      "originalUrl": "https://deadline.com/2022/05/love-death-robots-netflix-surprise-season-3-episode-voice-cast-trailer-1235027669/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://deadline.com/wp-content/uploads/2022/05/Love-Death-and-Robots-Volume-3.jpg?w=983",
-          "width": 983,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://deadline.com/2022/05/love-death-robots-netflix-surprise-season-3-episode-voice-cast-trailer-1235027669/amp/",
-      "cdnAmpWebUrl": "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2022/05/love-death-robots-netflix-surprise-season-3-episode-voice-cast-trailer-1235027669/amp/",
-      "publishedDateTime": "2022-05-19T19:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deadline.com",
-        "domain": "deadline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-elementary-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups.md",
-      "title": "Elementary Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups",
-      "excerpt": "CB Insights today named Elementary to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100.",
-      "sourceUrl": null,
-      "webUrl": "https://fox40.com/business/press-releases/cision/20220519NY64233/elementary-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups/",
-      "originalUrl": "https://fox40.com/business/press-releases/cision/20220519NY64233/elementary-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fox40.com/wp-content/uploads/sites/13/2021/05/FOX40_Logo_Horizontal_GENERIC_Color.png",
-          "width": 800,
-          "height": 328,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-19T18:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX40",
-        "domain": "fox40.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-fishangler-announces-fishial-recognition-artificial-intelligence-to-help-users-identify-species.md",
-      "title": "FishAngler Announces Fishial Recognition™ Artificial Intelligence to Help Users Identify Species",
-      "excerpt": "Fishial Artificial Intelligence is positioned to ... organizations and the private sector, to build a deep neural network to teach machines how to identify over 33,000 species of fish to help ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/fishangler-announces-fishial-recognition-artificial-intelligence-to-help-users-identify-species-1031477306",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/fishangler-announces-fishial-recognition-artificial-intelligence-to-help-users-identify-species-1031477306",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-19T17:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-reperformance-uses-ai-to-personalize-physical-education.md",
-      "title": "REPerformance Uses AI to Personalize Physical Education",
-      "excerpt": "A software company in Canada is bringing its web-based application to the U.S. that uses personal fitness data to create individualized workout programs and feedback geared toward their progress rather than ability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/k-12/reperformance-uses-ai-to-personalize-physical-education",
-      "originalUrl": "https://www.govtech.com/education/k-12/reperformance-uses-ai-to-personalize-physical-education",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/8aed749/2147483647/strip/true/crop/1000x521+0+89/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8b%2Fe1%2Fd1af45fd4441996fa546b5a6f9dd%2Fphysical-education.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/education/k-12/reperformance-uses-ai-to-personalize-physical-education?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/reperformance-uses-ai-to-personalize-physical-education?_amp=true",
-      "publishedDateTime": "2022-05-19T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-oxbotica-completes-first-driverless-car-test-on-open-roads.md",
-      "title": "Oxbotica completes first driverless car test on open roads",
-      "excerpt": "From there, multiple artificial intelligence systems check the area ... that is tailored directly towards the risks of taking a driverless vehicle onto the road. A new type of insurance was ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.expressandstar.com/news/motors/2022/05/20/oxbotica-completes-first-driverless-car-test-on-open-roads/",
-      "originalUrl": "https://www.expressandstar.com/news/motors/2022/05/20/oxbotica-completes-first-driverless-car-test-on-open-roads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.expressandstar.com/resizer/PAsXFLOw9WrxrGRAZYfim27mu6A=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/3AYSWITJCRD35A7LRP6UIGV2XE.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-19T16:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Express & Star",
-        "domain": "expressandstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-how-ai-is-improving-the-web-for-the-visually-impaired.md",
-      "title": "How AI is improving the web for the visually impaired",
-      "excerpt": "Join AI and data leaders for insightful talks and ... But when it comes to text on a complex background like an image or a gradient, things start to get complicated and helpful tools are rare.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/19/how-ai-is-improving-the-web-for-the-visually-impaired/",
-      "originalUrl": "https://venturebeat.com/2022/05/19/how-ai-is-improving-the-web-for-the-visually-impaired/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1333245117-Andrey-Suslov.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/19/how-ai-is-improving-the-web-for-the-visually-impaired/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/19/how-ai-is-improving-the-web-for-the-visually-impaired/amp/",
-      "publishedDateTime": "2022-05-19T14:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-google-says-its-closing-in-on-human-level-artificial-intelligence.md",
-      "title": "Google Says It’s Closing in on Human-Level Artificial Intelligence",
-      "excerpt": "Google DeepMind lead researcher Dr. Nando de Freitas boldly declared that \"the game is over\" and that as we scale AI, so too will we approach AGI.",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/the-byte/google-deepmind-agi",
-      "originalUrl": "https://futurism.com/the-byte/google-deepmind-agi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2022/05/google-deepmind-agi-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/google-deepmind-agi/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/google-deepmind-agi/amp",
-      "publishedDateTime": "2022-05-19T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-anomalo-named-one-of-most-innovative-artificial-intelligence-startups-in-the-world-by-cb-insights.md",
-      "title": "Anomalo Named One of Most Innovative Artificial Intelligence Startups in the World by CB Insights",
-      "excerpt": "Anomalo, the complete data quality platform company, today announced that it was named to CB Insights’ Annual AI 100 ranking that showcases the 100 most promising private artificial intelligence companies in the world:  \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koin.com/business/press-releases/globenewswire/8546126/anomalo-named-one-of-most-innovative-artificial-intelligence-startups-in-the-world-by-cb-insights/",
-      "originalUrl": "https://www.koin.com/business/press-releases/globenewswire/8546126/anomalo-named-one-of-most-innovative-artificial-intelligence-startups-in-the-world-by-cb-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.koin.com/wp-content/uploads/sites/10/2020/04/800x340_KOIN_WOFY_2.png",
-          "width": 800,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-19T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KOIN 6",
-        "domain": "koin.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-transforming-government-services-with-artificial-intelligence.md",
-      "title": "Transforming Government Services with Artificial Intelligence",
-      "excerpt": "State and local agencies can find effective solutions by identifying their goals first. In this Q&A, Keith Bauer, director of data and AI for state and local government at Microsoft, shares advice on how to get started.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence",
-      "originalUrl": "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-19T11:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

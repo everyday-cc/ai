@@ -2,6 +2,110 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-06-28-australian-retailer-pauses-facial-recognition-trial-over-privacy-complaint.md",
+      "title": "Australian retailer pauses facial recognition trial over privacy complaint",
+      "excerpt": "The logos of Australian electronic goods retailers JB Hi-Fi and the privately-held 100-store rival The Good Guys are displayed at a shopping center in Sydney, Australia, May 19, 2016.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/news/picture/australian-retailer-pauses-facial-recogn-idUSKBN2O9075",
+      "originalUrl": "https://www.reuters.com/news/picture/australian-retailer-pauses-facial-recogn-idUSKBN2O9075",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20220628&t=2&i=1602869101&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEI5R04C",
+          "width": 810,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T01:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-smart-pet-door-uses-facial-recognition-to-keep-critters-out.md",
+      "title": "Smart Pet Door Uses Facial Recognition to Keep Critters Out",
+      "excerpt": "Installing a pet door can make pet ownership less of a chore by eliminating the need to constantly have to let them outside for bathroom breaks and then back in again after, and the Petvation wants to make sure it’s only your dog or cat (or naked mole rat,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959",
+      "originalUrl": "https://gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/a2c3710f56698b6fc0b31da2db224794.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959/amp",
+      "publishedDateTime": "2022-06-27T16:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-28-australian-retail-giants-named-in-facial-recognition-tech-complaint.md",
       "title": "Australian retail giants named in facial recognition tech complaint",
       "excerpt": "Three of Australia's biggest retail chains have been referred to the privacy regulator for recommended enforcement action by a major consumer group which has said they use \"unreasonably intrusive\" facial recognition technology on customers.",
@@ -1313,92 +1417,6 @@
         "AI",
         "Computer Vision",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families.md",
-      "title": "Ukraine is using controversial facial recognition tech to identify the dead and reunite families",
-      "excerpt": "To build a case for war crimes, the country has been using software by Clearview AI, a firm fined in the UK for collecting images of social media users.",
-      "sourceUrl": null,
-      "webUrl": "https://scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families",
-      "originalUrl": "https://scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s01.sgp1.cdn.digitaloceanspaces.com/book/175818-upjeejhxrg-1655298615.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families",
-      "cdnAmpWebUrl": "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families",
-      "publishedDateTime": "2022-06-16T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scroll",
-        "domain": "scroll.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-ancient-tea-technique-finds-new-popular-recognition.md",
-      "title": "Ancient tea technique finds new popular recognition",
-      "excerpt": "The process of making chabaixi, a unique technique that creates a pattern on the surface of tea soup via water injection and agitation in Song Dynasty (960-1279), later becaming a",
-      "sourceUrl": null,
-      "webUrl": "https://www.globaltimes.cn/page/202206/1268327.shtml",
-      "originalUrl": "https://www.globaltimes.cn/page/202206/1268327.shtml",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-06-16/15eb179f-f0a5-4add-83e7-bf1195b17dec.jpeg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global Times",
-        "domain": "globaltimes.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

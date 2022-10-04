@@ -37,7 +37,7 @@ related:
     provider:
       name: provideocoalition.com
       domain: provideocoalition.com
-    quality: 61
+    quality: 63
     images:
       - url: "https://www.provideocoalition.com/wp-content/uploads/image-recognition-2.jpg"
         width: 512

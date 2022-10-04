@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Diagnostics Market Outlook, Size, Segmentation Analysis, Share, Drivers and Forecast 2028"
+    excerpt: "Artificial intelligence is used primarily in healthcare to examine the relationship between treatment options and patient outcomes. AI programs can be used in medical procedures such as drug development, patient monitoring, and medication management."
+    publishedDateTime: 2022-10-03T10:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diagnostics-market-outlook-size-segmentation-analysis-share-drivers-and-forecast-2028-2022-10-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Translation Global Market Insights 2022, Analysis by Manufacturers, Regions, Technology, Application, Product Type."
     excerpt: "Pre and Post Covid is covered and Report Customization is available. It is crucial for market participants to do"
     publishedDateTime: 2022-10-01T03:30:00Z

@@ -41,6 +41,22 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Robots are making French fries faster, better than humans"
+    excerpt: "PASADENA, Calif. (Reuters) -Fast-food French fries and onion rings are going high-tech, thanks to a company in Southern California. Miso Robotics Inc in Pasadena has started rolling out its Flippy 2 robot,"
+    publishedDateTime: 2022-10-04T14:43:00Z
+    webUrl: "https://www.globalbankingandfinance.com/robots-are-making-french-fries-faster-better-than-humans/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/robots-are-making-french-fries-faster-better-than-humans/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/robots-are-making-french-fries-faster-better-than-humans/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 59
+    images:
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/10/2022-10-04T133833Z_4_LYNXMPEI930JZ_RTROPTP_4_TECH-ROBOT-FRENCH-FRIES.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Company creates fast food cook robot that's cheaper than a human employee"
     excerpt: "A robotics company headquartered in Illinois has unveiled a robot that can autonomously prepare chicken wings."
     publishedDateTime: 2022-09-30T20:41:00Z

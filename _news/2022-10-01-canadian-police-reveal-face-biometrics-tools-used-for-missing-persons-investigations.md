@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202209/canadian-police-reveal-face
 webUrl: "https://www.biometricupdate.com/202209/canadian-police-reveal-face-biometrics-tools-used-for-missing-persons-investigations"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -25,24 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Voice biometrics catches mum rorting Qld flood recovery claims"
-    excerpt: "A Queensland mother of two has been jailed for using dozens of aliases to rort the government’s flood recovery scheme, after she was busted by hi-tech “voice biometrics” technology."
-    publishedDateTime: 2022-09-29T21:30:00Z
-    webUrl: "https://www.cairnspost.com.au/news/queensland/voice-biometrics-catches-mum-rorting-qld-flood-recovery-claims/news-story/21229fa0e8029fbb46c64e6ced259cf7"
-    type: article
-    provider:
-      name: The Cairns Post
-      domain: cairnspost.com.au
-    quality: 19
-  - title: "CyberLink integrates face biometrics in CAC payment system"
-    excerpt: "An unmanned convenience store in CAC's headquarters is utilizing Cyberlink face recognition in its point of sale terminal."
-    publishedDateTime: 2022-09-29T19:14:00Z
-    webUrl: "https://www.biometricupdate.com/202209/cyberlink-integrates-face-biometrics-in-cac-payment-system"
+  - title: "Cerence develops Knight Rider-style voice biometric interactions for cars"
+    excerpt: "Several auto manufacturers roll out new features that use facial recognition, radar, AI and other tools to enhance safety and convenience for drivers."
+    publishedDateTime: 2022-09-30T18:48:00Z
+    webUrl: "https://www.biometricupdate.com/202209/cerence-develops-knight-rider-style-voice-biometric-interactions-for-cars"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 4
+    quality: 3
 
 secured: "sR0x+JmhYXXX06SZWYbPfGweeExuPUAF8RYHZux+LNLt8ZYfedplBofPSi4kf/gYNvBIlaG5WNcQ8M/dHPZDP/LSOWEMvDm+Jho8WVvF1U9q+bxsZ3/f6cgqQa5Qq616qQ5Fz4h2xgnlpWiZhQSBhuwtV1rHSxK6tuKjFPlkAd9QJ4b5jBG8Pe4IEugZXooabibxfyJ6FnumA17g5CMjOrwRxU4m+tdHpoZWgcHjDuFwm0ZylNNcCa/OjDqr0/pER7GiF9u+FAqeJirxi2Q1d4zWWe8/MOV8Cf40YMJ9PKgYi4LOLSeKfVbUMtiNRsv3mmJ48RdBQTY/KZC9V6smmAVt/K+El4Fc76yaMVf7U9vWX1/SvmVIeoUTlwwPmXj4M7HW/m2RT6tkzvod/2L0XcN4PLfrP8Wl1F8okZg0+trp9Of89KJtWmXoltQfKYdbaqlTwRilBsH6Cqx7aaF0dZBhvX1djVSPNnbhoVzFRC/FZcWQCAPuT8lPkUQS6e6+eSBG6jKHn4YNgRkwCHZFew==;LRf/oCAQmt2di6YyQOAQFw=="
 ---

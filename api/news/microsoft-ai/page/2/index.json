@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-21-study-suggests-older-adults-show-greater-mental-well-being-despite-cognitive-decline.md",
+      "title": "Study suggests older adults show greater mental well-being despite cognitive decline",
+      "excerpt": "Despite displaying signs of poorer cognitive performance, older adults tend to have greater mental well-being compared to younger adults, according to a new study. A study published this month in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/health/study-older-adults-greater-mental-well-being-cognitive-decline",
+      "originalUrl": "https://www.foxnews.com/health/study-older-adults-greater-mental-well-being-cognitive-decline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1ce4d6f4-d820-4a8a-b50e-7596345c80f6/ab31fe9d-1057-4f40-87d5-d4538c3677b8/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/health/study-older-adults-greater-mental-well-being-cognitive-decline.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/study-older-adults-greater-mental-well-being-cognitive-decline.amp",
+      "publishedDateTime": "2022-09-20T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration.md",
       "title": "Tecnotree to Accelerate Digital Transition to the Cloud with Microsoft Azure Integration",
       "excerpt": "Tecnotree's Digital Suite-5 for consumers and business monetization is built natively to run on Kubernetes and is aligned with the Microsoft Azure cloud to drive multi-tenant, multi-region transformations that allow enterprises to lower total-cost-of-ownership (TCO) by eliminating significant upfront investments.",
@@ -1224,40 +1276,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-study-shows-daily-multivitamin-use-may-slow-cognitive-aging-for-older-adults.md",
-      "title": "Study shows daily multivitamin use may slow cognitive aging for older adults",
-      "excerpt": "Alzheimer’s & Dementia: The Journal of the Alzheimer’s Association has published “Effects of cocoa extract and a multivitamin on cognitive function: a randomized clinical trial.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/964446",
-      "originalUrl": "https://www.eurekalert.org/news-releases/964446",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

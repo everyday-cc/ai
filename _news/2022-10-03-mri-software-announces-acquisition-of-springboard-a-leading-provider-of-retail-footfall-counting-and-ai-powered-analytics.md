@@ -22,21 +22,19 @@ topics:
   - AI
 
 related:
-  - title: "As extreme weather events worsen, 7Analytics meshes AI and big data to predict flooding"
-    excerpt: "Analytics was founded by data scientists and geologists to help reduce the risks of flooding, harnessing the power of AI, ML, and big data."
-    publishedDateTime: 2022-09-29T20:40:00Z
-    webUrl: "https://techcrunch.com/2022/09/29/as-extreme-weather-events-worsen-7analytics-meshes-ai-and-big-data-to-predict-flooding/"
-    ampWebUrl: "https://techcrunch.com/2022/09/29/as-extreme-weather-events-worsen-7analytics-meshes-ai-and-big-data-to-predict-flooding/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/29/as-extreme-weather-events-worsen-7analytics-meshes-ai-and-big-data-to-predict-flooding/amp/"
+  - title: "SAS introduces Azure marketplace PAYG option giving maximum analytics at minimum pricing"
+    excerpt: "SAS has announced its Viya platform AI, analytics, and data management, is now available as a pay-as-you-go Microsoft Azure marketplace option, providing vast analytic power to anybody - and at a price point that means there is no reason not to be embedding analytics into your apps."
+    publishedDateTime: 2022-10-02T05:28:00Z
+    webUrl: "https://itwire.com/business-it-news/data/sas-introduces-azure-marketplace-payg-option-giving-maximum-analytics-at-minimum-pricing.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 79
+      name: ITWire
+      domain: itwire.com
+    quality: 30
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1199168364.jpg?resize=1200,400"
-        width: 1200
-        height: 400
+      - url: "https://itwire.com/images/authors-images/stanbeer/Lead-Machine_pink_600x260.jpg"
+        width: 600
+        height: 260
         isCached: true
 
 secured: "2GqJPzpQVWymwSXI8XL6PaU749YMwkF0kYRSnRNWRRM5kRK2qCZ64GhGVlX9HEnrQKSA1/IUXaoAWxRk3O2WxbKQyF+IPv74cH4N6dAexcqLtggTAmJk+go7VT20wqSeUCn9xrAYE+najbz3YG23a0p8uOorSdc/64Vfmm9nAzY1q424kL5P4MpqouRndzLgPzUgKlCqaq0BqGJGor8wkiSwwfVXYFhmUPN7uCKPw5V7VLZgOhFvpHKvqaPhPyYWW2tC++VKi9ONdLm/IjYJq4MKVbCEeUx6Im3TUrToHc7bvN3cGCRu5oR7N+H+5mFxeLPzAregWXI4O8ZXUUAPjHWPCTXqAUCa3i0/sSv/8QKysqpINgEwRwfHX4JWTRf8+n0FnLab16K9NwANNnhglyTeFNd+2Qos5mX+pznaYzCzto84nqy0wsxYfqE0oENADJQPJUbYoUaxUVQd/eYTSWbLjIW+M9Yd36ZsVYXE5JdHagqA7qdvZUiGC7ru069f3iql7I3W7YwF0D+lX5V60g==;Nlujl2EZ+aZBZir65pRs9w=="

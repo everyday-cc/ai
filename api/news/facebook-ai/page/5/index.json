@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-06-30-the-metaverse-in-2040.md",
+      "title": "The Metaverse in 2040",
+      "excerpt": "See our research on: Gun Policy | Economy | Abortion | Russia ... They believe the infusion of more data into people’s experiences, progress in artificial intelligence (AI) assistive systems and the creation of entirely new spaces and experiences ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pewresearch.org/internet/2022/06/30/the-metaverse-in-2040/",
+      "originalUrl": "https://www.pewresearch.org/internet/2022/06/30/the-metaverse-in-2040/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2022/06/PI_22.06.28_metaverse_featured.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pew Research Center",
+        "domain": "pewresearch.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-30-instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan.md",
       "title": "Instagram is testing AI that verifies your age with selfie scan",
       "excerpt": "It comes less than a year after disclosures from a Facebook whistleblower ... school’s Face Aging Group Research Lab, thinks Yoti’s technology is a good use of AI. “It’s a worthwhile ...",
@@ -1344,59 +1387,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-how-artificial-intelligence-brings-new-superpowers-to-supercomputers.md",
-      "title": "How artificial intelligence brings new superpowers to supercomputers",
-      "excerpt": "Nvidia also detailed multiple case studies of how its HPC innovations are being used to help enable AI for nuclear fusion and brain health research. HPC is not just about the world’s fastest ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/06/how-artificial-intelligence-brings-new-superpowers-to-supercomputers/",
-      "originalUrl": "https://venturebeat.com/2022/06/06/how-artificial-intelligence-brings-new-superpowers-to-supercomputers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-supercomputer.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/06/how-artificial-intelligence-brings-new-superpowers-to-supercomputers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/06/how-artificial-intelligence-brings-new-superpowers-to-supercomputers/amp/",
-      "publishedDateTime": "2022-06-06T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
